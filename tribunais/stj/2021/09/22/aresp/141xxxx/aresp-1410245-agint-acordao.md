@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NOSEMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE PRODUTO RURAL FINANCEIRA. COMISSÃO DE PERMANÊNCIA. POSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. MULTA MORATÓRIA. ARESTO IMPUGNADO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. COBRANÇA DE HONORÁRIOS CONTRATUAIS. ALTERAÇÃO DAS CONCLUSÕES DO ARESTO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. As razões despendidas no apelo especial se mostram dissociadas dos fundamentos da decisão recorrida, sendo que a parte agravante não impugnou os argumentos da Corte de origem de maneira específica. Assim, não houve, por parte do Tribunal local, nenhuma manifestação sobre os argumentos lançados no presente recurso.
+2. No que diz respeito à multa moratória, constata-se que a Corte estadual também se alinhou ao entendimento deste Tribunal Superior, segundo o qual "a cobrança de multa moratória no percentual de 10% (dez por cento) é admitida apenas para contratos firmados antes da vigência da Lei nº 9.298/1996, que alterou o Código de Defesa do Consumidor, merecendo ser mantida em 2% (dois por cento), conforme a Súmula nº 285/STJ" (AgInt no AREsp 1.495.351/BA, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/11/2019, DJe de 27/11/2019).
+3. Das informações extraídas do acórdão recorrido, observa-se que a pretensão posta tem por propósito o revolvimento do conjunto fático-probatório e o reexame das cláusulas contratuais, providência descabida no âmbito desta instância especial, de acordo com as Súmulas n. 5 e 7/STJ.
+4. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Banco Original do Agronegócio S.A. em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 307):
+AGRAVO EM RECURSO ESPECIAL. CÉDULA DE PRODUTO RURAL FINANCEIRA. COMISSÃO DE PERMANÊNCIA. POSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O julgado foi complementado pelo julgamento dos embargos de declaração opostos, estando assim ementados (e-STJ, fl. 319):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E OBSCURIDADE VERIFICADAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. DEFICIÊNCA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARCIALMENTE, SEM EFEITOS INFRINGENTES.
+Em suas razões, o agravante alega a inaplicabilidade dos óbices suscitados na decisão agravada.
+Reitera, no mais, os termos do apelo especial.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOSEMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE PRODUTO RURAL FINANCEIRA. COMISSÃO DE PERMANÊNCIA. POSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. MULTA MORATÓRIA. ARESTO IMPUGNADO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. COBRANÇA DE HONORÁRIOS CONTRATUAIS. ALTERAÇÃO DAS CONCLUSÕES DO ARESTO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. As razões despendidas no apelo especial se mostram dissociadas dos fundamentos da decisão recorrida, sendo que a parte agravante não impugnou os argumentos da Corte de origem de maneira específica. Assim, não houve, por parte do Tribunal local, nenhuma manifestação sobre os argumentos lançados no presente recurso.
+2. No que diz respeito à multa moratória, constata-se que a Corte estadual também se alinhou ao entendimento deste Tribunal Superior, segundo o qual "a cobrança de multa moratória no percentual de 10% (dez por cento) é admitida apenas para contratos firmados antes da vigência da Lei nº 9.298/1996, que alterou o Código de Defesa do Consumidor, merecendo ser mantida em 2% (dois por cento), conforme a Súmula nº 285/STJ" (AgInt no AREsp 1.495.351/BA, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/11/2019, DJe de 27/11/2019).
+3. Das informações extraídas do acórdão recorrido, observa-se que a pretensão posta tem por propósito o revolvimento do conjunto fático-probatório e o reexame das cláusulas contratuais, providência descabida no âmbito desta instância especial, de acordo com as Súmulas n. 5 e 7/STJ.
+4. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Em suas razões de recurso especial (e-STJ, fls. 182-206), oagravante alegou violação aos arts. 2º e 52, § 1º, do Código de Defesa do Consumidor; 389, 395 e 404 do Código Civil de 2002; e à Lei n. 8.929/1994; bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que não se aplicam ao presente caso as disposições previstas no Decreto Lei n. 167/1967, devendo ser afastada, portanto, a limitação dos juros de mora, bem como ser permitida a cobrança da comissão de permanência.
+Salientou a inaplicabilidade do Código de Defesa do Consumidor, uma vez que não há a figura do destinatário final na relação existente entre as partes, não cabendo a limitação da multa moratória de 2% com base no CDC.
+Ressaltou ser legal a cobrança de honorários advocatícios, pois está prevista no contrato entabulado entre as partes.
+Com relação à alegada possibilidade de cobrança da comissão de permanência, o Tribunal de origem consignou o seguinte (e-STJ, fls. 167-169):
+Passando ao mérito da questão, defendo o insurgente, inicialmente, anão aplicação ao caso do Decreto 167/67, já que o título em questão trata-se de Cédula de Produto Rural Financeira - CPRF, criada pela Lei nº 8.929/94, alterada pela Lei 10.200/10, divergindo, pois, da Cédula de Crédito Rural, instituída pelo mencionado Decreto.
+Sobre o tema, calha inicialmente discorrer, ainda que sucintamente, sobre a cédula de produto rural financeira objeto dos presentes autos.
+A institucionalização e as disposições básicas do crédito rural surgiram com a Lei nº 4.829/65, que trouxe normas gerais com o objetivo de incentivar a produção rural. Em seguida, o Decreto-Lei 167/67, dispôs sobre títulos de crédito rural, estabelecendo normas para o financiamento rural por meio de cédulas de crédito rural, nota promissória rural e duplicata rural.
+Por sua vez, a Lei 8.929/94 institui a cédula de produto rural, que representa uma promessa de entrega de produtos rurais feita por produtor rural (ou suas associações) em contraprestação ao valor antecipado para o incremento da cultura agrícola.
+( )
+Ainda mais específica, portanto, é a cédula de produto rural financeira, que permite a execução do título por quantia certa, haja vista a previsão de liquidez do preço do produto rural a ser entregue, conforme dispõe o artigo 4º-A da Lei nº 8.929/94:
+( )
+Com essas considerações, muito embora a Cédula de Produto Rural Financeira possua regulamentação própria, e não obstante a divergência jurisprudencial acercado assunto, uma vez que o embargado disponibilizou o crédito para o financiamento do produtor rural constante da cédula em questão, concluo pela aplicabilidade ao caso do Decreto-Lei 167/67, uma vez que este dispõe acerca dos títulos de crédito rural.
+Nesse caso, observa-se que a Cédula de Produto Rural Financeira dispõe em sua cláusula 5º que:
+"5 - Em caso de mora, o EMITENTE ficará obrigado a pagar ao BANCO JBS, o valor de resgate desta CÉDULA, acrescido de (i) comissão de permanência de 3% a. m. (três por cento ao mês), calculados "pro-rata-temporis"; e (ii) multa irredutível de 5% (cinco por cento), devida a partir do 30o (trigésimo) dia contado desde o inadimplemento do EMITENTE, e incidente sobre o valor devido já corrigido, nos termos do subitem (i) do item 5 e no item 5.2 desta CÉDULA.
+5.2 - Observado o disposto no caso da multa, os juros e a correção monetária incidirão sobre a totalidade do débito em atraso, além das despesas realizadas para a respectiva cobrança.
+5.2 - Caso o BANCO JBS, para o recebimento do seu crédito, tenha que recorrer a advogados para a cobrança extrajudicial ou judicial, o EMITENTE também se responsabiliza pelo pagamento de honorários advocatícios, desde já convencionados, respectivamente em 10% e 20%, sobre o valor total do débito em atraso."
+Não obstante tal contratação, tendo em vista tratar-se o título em questão de cédula rural, não há se falar em comissão de permanência, à medida que Decreto-Lei nº 167/97 prevê, nos casos de inadimplemento, apenas a incidência de juros moratórios e multa contratual.
+Conforme é possível observar, as razões despendidas no apelo especial se mostram dissociadas dos fundamentos da decisão recorrida, sendo que a parte agravante não impugnou os argumentos da Corte de origem de maneira específica. Assim, não houve, por parte do Tribunal local, nenhuma manifestação sobre os argumentos lançados no presente recurso.
+Dessa forma, incide a Súmula n. 284/STJ a obstar o conhecimento do recurso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONSÓRCIO. FUNDAMENTAÇÃO DEFICIENTE. DISPOSITIVO LEGAL. VIOLAÇÃO. AUSÊNCIA DE INDICAÇÃO. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. DANO MORAL. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VALOR ARBITRADO. REEXAME. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não havendo nas razões do recurso especial indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF.
+3. A exposição de razões dissociadas do que foi disposto na decisão agravada revela deficiência na fundamentação do recurso e impede a exata compreensão da controvérsia a ser dirimida. Incidência, por analogia, da Súmula nº 284/STF.
+4. Não há como infirmar as conclusões da Corte de origem quando resultantes da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda. Súmula nº 7/STJ.
+5. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão pelo Superior Tribunal de Justiça quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos.
+6. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 1.029, § 1º, do Código de Processo Civil de 2015 e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+7. Agravo interno não provido.
+(AgInt no AREsp 1157779/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/06/2019, DJe 14/06/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 89 DA LEI N. 8.666/96 E 1º DO DECRETO-LEI N. 201/67 C/C 71 DO CP. DEFESA PRELIMINAR. NOTIFICAÇÃO. EXISTÊNCIA. SÚMULA 284/STF. JUSTA CAUSA. NATUREZA SINGULAR DA ATIVIDADE CONTRATADA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO. SÚMULA 7/STJ. RECURSO IMPROVIDO.
+1. Estando as razões recursais dissociadas dos fundamentos do acórdão recorrido, incide o óbice do Enunciado n. 284 da Súmula do STF.
+2. O acórdão recorrido registrou estar configurada a justa causa para a ação penal, ressaltando que não ficou demonstrado, de plano, a natureza singular da atividade contratada, conclusão que não pode ser modificada por esta Corte ante o óbice do enunciado n. 7 da Súmula desta Corte.
+3. É incabível o exame do Recurso Especial pela alínea "c" do permissivo constitucional, quando incidente na hipótese a Súmula n. 07/STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp 979.659/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/11/2016, DJe 28/11/2016).
+No que diz respeito à multa moratória, constata-se que a Corte estadual também se alinhou ao entendimento deste Tribunal Superior, segundo o qual "a cobrança de multa moratória no percentual de 10% (dez por cento) é admitida apenas para contratos firmados antes da vigência da Lei nº 9.298/1996, que alterou o Código de Defesa do Consumidor, merecendo ser mantida em 2% (dois por cento), conforme a Súmula nº 285/STJ" (AgInt no AREsp 1.495.351/BA, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/11/2019, DJe de 27/11/2019).
+Sendo assim , torna-se inafastável a incidência da Súmula 83/STJ no ponto.
+Por fim, com relação ao pagamento dos honorários contratuais, o acórdão recorrido foi assim fundamentado (e-STJ, fls. 172-173):
+Por fim, o apelante ainda se insurge contra o fato de ter a sentença recorrido afastado a condenação do embargante/apelante ao pagamento dos honorários advocatícios, conforme previsto na cláusula 5.2 do título em questão, verbis:
+"5.2 - Caso o BANCO JBS, para o recebimento do seu crédito, tenha que recorrer a advogados para a cobrança extrajudicial ou judicial, o EMITENTE também se responsabiliza pelo pagamento de honorários advocatícios, desde já convencionados, respectivamente em 10% e 20%,sobre o valor total do débito em atraso."
+Ora, conforme acertadamente decidido na sentença recorrida, o pagamento dos honorários advocatícios previstos na cédula em questão deve ser excluído, pois caracteriza serviço de terceiro, que não é prestado diretamente ao cliente. O encargo acoberta despesas administrativas da instituição financeira, que são inerentes a própria atividade.
+Ademais, configura-se como iníquo o regulamento negocial que impõe ao contratante a obrigação de ressarcir as despesas feitas pelo contratado com o objetivo de diminuir/manter sua atividade profissional.
+Das informações acima colacionadas, observa-se quea pretensão posta tem por propósito o revolvimento do conjunto fático-probatório e o reexame das cláusulas contratuais, providência descabida no âmbito desta instância especial,de acordo comas Súmulas n. 5 e 7/STJ.
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
