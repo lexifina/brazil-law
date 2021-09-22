@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto pelo Instituto Nacional do Seguro Social contra inadmissão, na origem, de recurso especial que ataca acórdão do Tribunal Federal da 3ª Região, assim ementado:
+PREVIDENCIÁRIO. PROCESSO CIVIL. AGRAVO INTERNO. APOSENTADORIA POR IDADE. PERÍODOS EM QUE O SEGURADOESTEVE EM GOZO DE BENEFÍCIO POR INCAPACIDADE. CÔMPUTO PARA EFEITO DE CARÊNCIA. POSSIBILIDADE.
+I - Os períodos em que o segurado esteve em gozo de auxílio-doença, intercalados com períodos contributivos, hão que ser computados para fins de carência. Precedentes jurisprudenciais.
+II - Tendo a autora completado 60 anos de idade e preenchido a carência exigida pelos artigos 142 e 143 da Lei nº 8.213/91, faz jus à concessão do benefício de aposentadoria por idade.
+III - Agravo (CPC, art. 1.021) interposto pelo INSS improvido.
+Os embargos de declaração opostos pelo INSS foram rejeitados.
+Nas razões do recurso especial fundamentado na alínea "a" do permissivo constitucional, aponta o recorrente, ora agravante, violação aos artigos 11, 489, II e §1º, IV e 1022, I e II do CPC/2015; 24, 25, II, 27, 29, §5º, 55, II, 125 e 142 daLei n. 8.213/91.
+Além de negativa de prestação jurisdicional.
+Defende que "não pode ser computado como carência período de recebimento de benefício por incapacidade, no qual ela não verteu qualquer contribuição ao RGPS", e que "excluindo o período de gozo de auxílio-doença,a autora não possui o tempo mínimo decarência para a concessão do benefício".
+Contrarrazões ao recurso especial apresentadas às e-STJ fls. 226/232.
+A Presidência do Tribunal de origem, apontando deficiência na fundamentação recursal, negou seguimento ao recurso especial.
+Em razões de agravo, sustenta o agravante que a jurisprudência do STJ é favorável ao seu pleito, bem como pleiteia a apreciação do apelo nobre.
+Não houve contraminuta ao agravo.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que dispõe in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou os fundamentos adotados na decisão agravada e mostrando-se preenchidos os demais pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+De início, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, concluiu que o período em que a segurada esteve em gozo de auxílio-doença ou aposentadoria por invalidez, intercalado com períodos contributivos, há que ser computado inclusive para fins de carência, dada a ausência de vedação expressa, nos termos da jurisprudência dos tribunais.
+Na linha da jurisprudência do STJ, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todos os pontos relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefício previdenciário com fundamentação eminentemente constitucional, razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.740.348/RS, SEGUNDA TURMA, Relator Ministro Herman Benjamin, DJe 22/11/2018)
+A alegada violação aos artigos 11, 489 e 1022 do CPC/2015, portanto, não merece ser acolhida.
+Ademais, o acórdão recorrido está em sintonia com a jurisprudência desta Corte, assentada no sentido de queé possível a consideração dos períodos em que o segurado esteve em gozo de auxílio-doença, como carência para a concessão de aposentadoria, se intercalados com períodos contributivos.
+Confiram-se os julgados:
+PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. APOSENTADORIA. PERÍODO DE GOZO DE BENEFÍCIO POR INCAPACIDADE. CÔMPUTO DO TEMPO PARA FINS DE CARÊNCIA. INEXISTÊNCIA DE CONTRIBUIÇÃO EM PERÍODO INTERCALADO.ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. O Superior Tribunal de Justiça possui entendimento de que os períodos em que o segurado esteve em gozo de benefício por incapacidade são admissíveis para fim de carência, desde que intercalados com períodos contributivos.
+2. Hipótese em que o acórdão recorrido está em consonância com a orientação do STJ, incidindo na pretensão recursal, pois, o óbice da Súmula 83/STJ.
+3. Recurso Especial não conhecido.(REsp 1799598/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/06/2019, DJe 02/08/2019)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PERCEPÇÃO DE AUXÍLIO-DOENÇA.CARÊNCIA. CÔMPUTO.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O entendimento do Tribunal de origem coaduna-se com o disposto no § 5º do art. 29 da Lei n. 8.213/1991, bem como com a orientação desta Corte, segundo os quais deve ser considerado, para efeito de carência, o tempo em que o segurado esteve em gozo de auxílio-doença ou de aposentadoria por invalidez, desde que intercalado com períodos contributivos.
+3. Hipótese em que a Corte local reconheceu a demonstração do recolhimento de 142 contribuições previdenciárias, das 126 exigidas pelo art. 142 da Lei de Benefícios, necessárias à concessão da aposentadoria.
+4. Agravo interno desprovido.(AgInt no REsp 1574860/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 03/04/2018, DJe 09/05/2018)
+PREVIDENCIÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973.APLICABILIDADE. APOSENTADORIA. CÔMPUTO DO TEMPO DE RECEBIMENTO DE BENEFÍCIO POR INCAPACIDADE PARA EFEITO DE CARÊNCIA. CONTRIBUIÇÃO EM PERÍODO INTERCALADO. POSSIBILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - O tempo em que o segurado recebe benefício por incapacidade, se intercalado com período de atividade e, portanto, contributivo, deve ser contado como tempo de contribuição e, consequentemente, computado para efeito de carência. Precedentes.
+III - Recurso especial desprovido.(REsp 1602868/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 27/10/2016, DJe 18/11/2016)
+Dessa forma, por estar o acórdão recorrido em consonância com o entendimento deste Superior Tribunal, incide, à espécie, o enunciado da Súmula 568/STJ, segundo a qual: "O relator, monocraticamente, no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.".
+Outrossim, no caso concreto, o Tribunal de origem determinou a concessão de aposentadoria por idade urbana à requerente, a partir da análise do acervo probatório carreado aos autos, consignando, expressamente, que: (i)os documentos anexados à inicial dão conta que a Autora nasceu em 21.06.1957, e completou 60 (sessenta) anos de idade em 21.06.2017; (ii) "depreende-se dos dados constantes do Cadastro Nacional de Informações Sociais - CNIS, a demandante perfaz um total de 196 (cento e noventa e seis) meses de contribuição até a data do requerimento administrativo, em 16.06.2018"; (iii) "devem ser computados os períodos de 10.01.2000 a 10.12.2000, 02.01.2001 a 25.01.2001, 22.02.2001 a 31.03.2001, 18.05.2001 a 27.01.2004, 13.05.2004 a 18.07.2004, 29.12.2004 a 06.05.2005, 21.11.2008 a 05.01.2009 e 19.04.2010 a 05.05.2010, em que a autora esteve em gozo de auxílio-doença, eis que intercalados com períodos contributivos"; (iv) "somente foram considerados no cálculo as contribuições constantes do CNIS, e, portanto, não há que se falar que tais períodos não teriam sido reconhecidos pela autarquia previdenciária, ainda que, eventualmente, alguns recolhimentos tenham ocorrido com atraso".
+Destarte, o acolhimento da pretensão recursal demanda o revolvimento do conjunto fático dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, com fulcro no artigo 932, III e IV, do CPC/2015 c/c o artigo 253, parágrafo único, II, b, do RISTJ, bem como na Súmula 568/STJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR IDADE. ARTS. 489 E 1022 DO CPC. VIOLAÇÃO NÃO CONFIGURADA. CÔMPUTO DO PERÍODO EM GOZO DE AUXÍLIO-DOENÇA PARA FINS DE CARÊNCIA. TEMPO INTERCALADO COM CONTRIBUIÇÃO. POSSIBILIDADE. SÚMULA 568/STJ. ACÓRDÃO QUE APONTA A EXISTÊNCIA DEPERÍODOS CONTRIBUTIVOS INTERCALADOS. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
