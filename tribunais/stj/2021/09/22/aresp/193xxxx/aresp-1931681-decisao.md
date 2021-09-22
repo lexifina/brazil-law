@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto peloMunicípio do Rio de Janeiro, desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial com base nos seguintes fundamentos:(I)ausência de omissão do acórdão recorrido; e(II)aplicação da Súmula 284/STF.
+Nas razões doagravo, a parte sustenta que:(I) "a análise do acórdão prolatado pela 6º Câmara Cível revela omissão acerca dos argumentos do Município de impossibilidade de utilização da ação de consignação em pagamento para discussão de valor do tributo, além da insuficiência do depósito" (fl. 556); e(II)"o Agravante demonstrou com exatidão todos os fundamentos do seu inconformismo, aplicando, inclusive todos os dispositivos vulnerados e precedentes aplicados ao caso em comento" (fl. 560).
+Contraminuta ao agravo às fls. 567/571.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, tendo deixado de impugnar, especificamente, a Súmula 284/STF.
+Com efeito, apesar de afirmar, genericamente, que "o Agravante demonstrou com exatidão todos os fundamentos do seu inconformismo, aplicando, inclusive todos os dispositivos vulnerados e precedentes aplicados ao caso em comento" (fl. 560), a partenão declinou os motivos pelos quais, no seu entender, o óbice apontado pela Corte de origem não seria aplicável ao caso concreto, se limitandoa tecer considerações gerais sobre a Súmula 284/STF.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidênciada Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar osEAREsp 701.404/SC e osEAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
