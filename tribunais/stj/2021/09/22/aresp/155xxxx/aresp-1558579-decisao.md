@@ -1,0 +1,7 @@
+DECISÃO
+Vistos, etc.
+Verifica-se que a questão jurídica objeto do presente recurso - direta ou indiretamente - constitui tema dos Recursos Especiais n. 1814945/CE, n. 1.814.944/RN e n. 1.816.353/RO(Tema 1036- Aferir se é condição para a apreensão do instrumento utilizado na prática da infração ambiental a comprovação de que o bem é de uso específico e exclusivo para a atividade ilícita  Lei n. 9.605/1998, art. 25, § 4º, atual § 5º ), de relatoria doMinistroMauro Campbell Marques, submetido ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC/2015.
+Assim, o julgamento imediato do recurso especial seria prematuro.
+De outra parte, a admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos recursos interpostos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, o recurso especial tenha seguimento negado, na hipótese de o julgamento recorrido estar em conformidade com a orientação firmada pelo STJ, ou para que seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado neste Superior Tribunal, nos termos dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
