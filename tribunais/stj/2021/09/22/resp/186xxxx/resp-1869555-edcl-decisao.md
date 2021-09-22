@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração interposto por SP 03 EMPREENDIMENTOS IMOBILIARIOS LTDA - EM RECUPERACAO JUDICIAL contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento.
+Nas razões dos embargos de declaração, a parte sustenta que "a v. decisão embargada não se deu conta de que, no caso destes autos, tratou-se de atraso na entrega de LOTE (TERRA NUA), em que não há imediata possibilidade de recebimento de renda proveniente de aluguéis, tampouco há possibilidades de moradia imediata, razão pela qual sequer pode ser infirmada a "presunção de prejuízo"" (e-STJ. fl. 1.410).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese, pois todas as questões aduzidas em sede de especial foram devidamente analisadas.
+Vale ressaltar que o acórdão embargado foi bem claro ao consignar queo entendimento esposado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior no sentido de que "descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação da vendedora por lucros cessantes, havendo a presunção de prejuízo do adquirente, ainda que não demonstrada a finalidade negocial da transação" (EREsp 1341138/SP, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, DJe 22/05/2018).
+Com efeito, a privação da fruição do imóvel é a causa dos lucros cessantes de modo que, enquanto o imóvel permanecer indisponível para o exercício desse poder de fruição pelo adquirente, é devida a indenização.
+Lucro cessante constitui a expressão usada para distinguir os lucros de que fomos privados, e que deveriam vir ao nosso patrimônio, mas que nele não aportaram em virtude de fato ou ato acontecido independentemente de nossa vontade.
+É de se ressaltar que "ajurisprudência desta Corte Superior é firme no sentido de que, descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Esse entendimento, inclusive, vem sendo aplicado por este Colegiado aos casos de atraso na entrega de lote não edificado"(AgInt no REsp 1818212/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021 - g.n.).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL (TERRENO). ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA DO LOTEAMENTO. RESCISÃO CONTRATUAL. RECURSO DA CORRÉ EMPREENDEDORA. MORA CONFIGURADA. PRESUNÇÃO DE PREJUÍZO. SÚMULA Nº 568 DO STJ. DANO MATERIAL (LUCROS CESSANTES) DEFERIDOS PELA PRIVAÇÃO DO USO DA COISA. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283 DO STF. GRATUIDADE JUDICIÁRIA. PREPARO EXISTENTE. INCOMPATIBILIDADE DO PEDIDO. PRECEDENTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. O STJ firmou o entendimento de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador. Precedentes. Incidência da Súmula Nº 568 do STJ. (..) 6. Agravo interno não provido, com observação.
+(AgInt nos EDcl no REsp 1866351/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/10/2020, DJe 22/10/2020)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Ilustrativamente, veja-se o seguinte precedente: EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. Embargos de declaração rejeitados.
