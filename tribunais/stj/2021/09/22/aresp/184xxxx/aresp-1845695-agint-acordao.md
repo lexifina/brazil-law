@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. REGIME DE TRIBUTAÇÃO DO ISS.ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/73). INEXISTÊNCIA. ANÁLISE QUANTO À NATUREZA EMPRESARIAL DO NEGÓCIO. NECESSIDADE DEREEXAMEFÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I -Na origem, trata-se de ação objetivando que a parte autora seja submetida ao regime de tributação do Imposto Sobre Serviços de Qualquer Natureza - ISS, na sua modalidade fixa, em vezda modalidade variável, da qual vem sendo submetida. Por sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. Nesta Corte, não se conheceu dorecurso especial.
+II - Não há violação do 535 do CPC/73 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia apreciando fundamentadamente a controvérsia (art. 165 do CPC/73), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de ação objetivando que a parte autora seja submetida ao regime de tributação do Imposto Sobre Serviços de Qualquer Natureza - ISS na sua modalidade fixa, em vez da modalidade variável,da qual vem sendo submetida. Por sentença, julgou-seimprocedente o pedido. No Tribunal a quo, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA C/CREPETIÇÃO DE INDÉBITO TRIBUTÁRIO -SOCIEDADE DERESPONSABILIDADE LIMITADA - CARÁTER EMPRESARIAL- IMPOSSIBILIDADE DE ENQUADRAMENTO NOREGRAMENTO DO ISS-FIXO - PRECEDENTES DO EGRÉGIOSUPERIOR TRIBUNAL DE JUSTIÇA E DESTE TRIBUNAL DEJUSTIÇA - RECURSO DESPROVIDO.
+No recurso especial, o recorrente aponta como violados os arts. 489 e 1.022 do CPC/2015, 966 e 983 do Código Civil e 3º e 9º do Decreto-Lei n. 406/1968, sustentando, em síntese, que é devida a cobrança de ISSQN pela alíquota fixa, ainda que a sociedade de médicos tenha optado pela forma de sociedade limitada (LTDA), tendo em vista a ausência de natureza empresarial do negócio.
+Após decisumque inadmitiu o recurso especial, com base na Súmula n. 7 do STJ, foi interposto agravo nos próprios autos.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+A discussão dos autos diz respeito à possibilidade ou não de Sociedade Simples Limitada, prestadora de serviço de caráter pessoal e não executora de atividade empresarial, fazer jus ao direito de recolhimento do ISSQN na forma fixa.
+Isso porque, apesar de a Agravada ter demonstrado que preenche todos os requisitos para usufruir de tal benefício, conforme artigo 9º, §§ 1º e 3º, do Decreto-Lei nº 406/1968e artigo 10 da Lei Complementar Municipal nº 40/2001, o r. acórdão recorrido assentou que "há entendimento no mesmo egrégio Superior Tribunal de Justiça, em sentido diametralmente oposto, concluindo pelo caráter empresarial da sociedade de responsabilidade limitada, o que impossibilita o enquadramento no regime especial do ISS-fixo" (e-STJ fls. 637/648).
+ ..
+Para tanto, não é necessário revolvimento de qualquer prova dos autos, bastando a leitura do acórdão recorrido e do acórdão dos embargos de declaração, em conjunto com o recurso especial, para se chegar à conclusão de que a Agravante faz jus ao benefício, pugnando-se desde já pela reforma da r. decisão agravada neste ponto e pela apreciação do mérito do recurso especial.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. REGIME DE TRIBUTAÇÃO DO ISS.ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/73). INEXISTÊNCIA. ANÁLISE QUANTO À NATUREZA EMPRESARIAL DO NEGÓCIO. NECESSIDADE DEREEXAMEFÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I -Na origem, trata-se de ação objetivando que a parte autora seja submetida ao regime de tributação do Imposto Sobre Serviços de Qualquer Natureza - ISS, na sua modalidade fixa, em vezda modalidade variável, da qual vem sendo submetida. Por sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. Nesta Corte, não se conheceu dorecurso especial.
+II - Não há violação do 535 do CPC/73 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia apreciando fundamentadamente a controvérsia (art. 165 do CPC/73), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+Em que pese ao arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto ao mérito da controvérsia, éirrefutável que o Tribunal de origem, ao analisar o conteúdo fático e probatório dos autos, consignou expressamente que "há previsão no contrato social do autor, ora apelante, de distribuição de lucros entre as sócias - cláusula sétima, mov. 1.2 -, o que se consubstancia em uma característica eminente empresarial de uma sociedade".
+Dessa forma, para rever tal posição, relativa à constatação da natureza empresarial da sociedade em questão, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
