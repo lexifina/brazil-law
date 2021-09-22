@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Cuida-se de agravo interposto por JOÃO CARLOS SOARES DA SILVA contra decisão unipessoal proferida pelo Ministro Presidente desta Corte que não conheceu do agravo em recurso especial que interpusera.
+Ação: revisional de contrato bancário, ajuizada pelo agravante, em face daagravada, devido à existência de cláusulas abusivas no contrato de financiamento habitacional firmado entre as partes, na qual pleiteia a revisão do contrato.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta peloagravante, nos termos da seguinte ementa:
+ADMINISTRATIVO. APELAÇÃO CÍVEL. SISTEMA FINANCEIRO DEHABITAÇÃO - SFH. REVISIONAL. CERCEAMENTO DE DEFESA NÃOCONFIGURADO. FUNÇÃO SOCIAL DA PROPRIEDADE. JUROS DEMORA POR INADIMPLÊNCIA. PREVISÃO CONTRATUAL. DEVIDOS. CDC. INVERSÃO DO ÔNUS DA PROVA. DEVOLUÇÃO EM DOBRO. MÁ-FÉ. NÃO CARACTERIZADA. CAPITALIZAÇÃO DE JUROS. SAC. TAXA ADMINISTRATIVA. TAXAS EFETIVA E NOMINAL. JUROSREMUNERATÓRIOS. CONSOLIDAÇÃO DA PROPRIEDADE. REGULARIDADE. NÃO INSCRIÇÃO DO NOME EM ÓRGÃOSRESTRITIVOS DE CRÉDITO.
+1. Não há cerceamento de defesa face à não realização de prova pericial, quando os elementos acostados aos autos são suficientes para o deslinde da questão, principalmente porque se trata de questões de direito, há muito tempo conhecidas e examinadas pelo Poder Judiciário, o que dispensa a produção de provas para a análise das questões ora discutidas.
+2. O direito de moradia previsto na Constituição Federal não impede a reintegração na posse do imóvel, sendo que o bem em questão foi adquirido em programa governamental voltado à população de baixa renda.
+3. O princípio da autonomia da vontade não encontra restrição no contrato de adesão porque nele permanece a garantia à liberdade de aderir ou não às estipulações padronizadas. No caso em análise, a Cláusula Décima Sexta do instrumento contratual (ev. 1 CONTR4 dos autos originários), prevê, para o caso de impontualidade no pagamento de qualquer prestação, a incidência de juros de mora de 1% ao mês e pena convencional de 2%. Incabível a inconformidade do apelante.
+4. A aplicação do Código de Defesa do consumidor nas relações de financiamento habitacional não é regra de aplicação automática, porquanto o legislador tratou de maneira diferenciada as relações de financiamento para a aquisição da casa própria. Não tendo o mutuário comprovado o atendimentodos pressupostos aludidos no inc. VIII do art. 6º da Lei nº 8.078/90, não lhe assiste o direito à inversão do ônus da prova.
+5. Consoante jurisprudência consolidada desta Corte, a condenação à repetição em dobro do indébito, prevista no art. 42, parágrafo único, do Código de Defesa do Consumidor, pressupõe, além da ocorrência de pagamento indevido, a má-fé do credor, que não se comprovou nos autos.
+6. O Sistema de Amortização Constante (SAC) previsto no contrato consiste em fórmula matemática de cálculo das prestações mensais que não causa prejuízo ao devedor.
+7. A cobrança da taxa administrativa e similares foram livremente pactuadas, sem violação da boa-fé do contratante, que teve ciência das condições do financiamento antes de firmá-lo com a Agência Financiadora, sabendo que esse encargo seria cobrado. Não se vislumbra ilegalidade na sua cobrança.
+8. Independentemente da existência de previsão no contrato de incidência de uma taxa de juros nominal e outra efetiva (forma de cálculo simples ou composta), ou do sistema de amortização, o que a lei repudia é a prática de anatocismo, caracterizada pela cobrança de juros sobre capital renovado, ou seja, sobre montante de juros não pagos, já resultantes da incidência de juros compostos (capitalizados), que ocorre quando o valor do encargo mensal revela-se insuficiente para liquidar até mesmo a parcela de juros, dando causa às chamadas "amortizações negativas".
+9. Não há irregularidade na cobrança cumulada de juros moratório se remuneratórios.
+10. Ao contratar empréstimo com garantia por alienação fiduciária do imóvel, o devedor fiduciante assume o risco de, em caso de inadimplência, possibilitar a consolidação da propriedade do imóvel em favor do credor fiduciário. E, no caso concreto a inadimplência efetivamente ocorreu, autorizando o início do procedimento de consolidação da propriedade do imóvel, nos termos do contrato entabulado entre as partes.
+11. Para a abstenção da inscrição/manutenção do nome em cadastro de inadimplentes, está estabelecido na jurisprudência do Superior Tribunal de Justiça o entendimento no sentido de é pressuposto o implemento do requisito fumus boni iuris e a realização de depósito judicial do valor integral da dívida ou a prestação de caução idônea.
+Recurso especial: alega violação dos arts. 85, §§ 2º e 14º, 300,370 e 355 do CPC/15; 6º, VIII, e 42, parágrafo único, do CDC; 4º do Decreto n.º 22.626/33;104, 166,182, 368, 369, 396 e 876 do CC; 23 da Lei n.º 8.906/94;27 e 39, II, da Lei n.º 9.514/1997; 34 do Decreto-Lei n.º 70/66, bem como dissídio jurisprudencial.
+Decisão unipessoal: proferida pelo Ministro Presidente desta Corte, não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, eis que oagravantenão impugnou todos os fundamentos utilizados pelo TRF4 para inadmitir o recurso especial que interpusera.
+Agravo interno: nas razões do presente recurso, o agravante sustenta a inaplicabilidade da Súmula 182/STJ à hipótese dos autos, eis que impugnou todos os fundamentos da decisão que negou seguimento ao apelo especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial interposto pelo agravante, com fundamento no art. 253, parágrafo único, I, do RISTJ, e da aplicação, por analogia, da Súmula 182/STJ, tendo em vista que estenão teria impugnado todos os fundamentos da decisão que inadmitiu o seu recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que oagravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Assim, cabia aoagravantedemonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
