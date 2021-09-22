@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu recurso especial (com fundamento no art. 105, III,a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça de Alagoas(Apelação n. 0700058-54.2019.8.02.0069), que manteve a condenação de José Cícero dos Santoscomo incurso nos crimes de roubo majorado e corrupção de menor.
+Nas razões do recurso especial, a defesa do agravante suscitou violação dos seguintes dispositivos de lei federal:a) artigo 185, § 3º,do CPP e artigo 334 do CPC, diante da não observância do prazo de 10 (dez) dias de antecedência para intimação para comparecimento em audiência; b) artigo 265, § 1º, do CPP, diante do não adiamento da audiência, apesar do pedido da Defesa, ferindo o direito do réu de ser defendido por Defensor de sua confiança; c) o princípio do defensor natural (artigo 4º, IV, da LC n. 80/1994), pois manteve a validade do processo apesar de comprovada a realização de audiência de instrução sem a presença do Defensor Público oficiante no caso(fl. 330).
+A Corte de origem inadmitiu o recurso com fundamento naSúmula7/STJ(fls. 354/357).
+Contra odecisuma defesa interpôs o presente agravo (fls. 365/371).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso, nos termos do parecer assim ementado(fl. 395):
+PENAL. PROCESSO PENAL. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. DEFENSORIA PÚBLICA. PRAZO DE 10 DIAS ENTRE INTIMAÇÃO E REALIZAÇÃO DE AUDIÊNCIA.AUSÊNCIA DE PREJUÍZO AO RÉU. NOMEAÇÃO DE DEFENSOR AD HOC ANTE INCOMPROVADA IMPOSSIBILIDADE DE COMPARECIMENTO À AUDIÊNCIA POR DEFENSOR PÚBLICO.POSSIBILIDADE. SUPOSTA VIOLAÇÃO AO PRINCÍPIO DO DEFENSOR NATURAL. INOCORRÊNCIA. PRECEDENTES DO STJ.SÚMULA 83/STJ. PARECER PELO DESPROVIMENTO DO AGRAVO.
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Contudo, no que se refere ao recurso especial em si, a insurgência é manifestamente inadmissível, pois a defesa não impugnou a íntegra da fundamentação lançado no acórdão hostilizado para rechaçar a preliminar de nulidade da audiência, mais especificamente os seguintes fundamentos: 1) em sede de alegações finais, a defesa não teceu comentário acerca de inobservância do prazo previsto noart. 185, § 3º, do CPP (preclusão); 2) a defesa não demonstrou a existência de prejuízo concreto decorrente da intimação do Defensor Público com 8 dias de antecedência da audiência, tampouco decorrente da nomeação de defensorad hocpara o ato, condição necessária para declaração de nulidade almejada, na esteira da orientação sedimentada na jurisprudência do STJ; 3) o Defensor Públiconão anexou aos autos nenhum documento que comprovasse sua impossibilidade de comparecimento(fls. 317/318 - grifo nosso):
+ ..
+No que diz respeito a inobservância do prazo de 10 (dez) dias entre a intimação do Defensor, que ocorreu no dia 05/06/19 e a realização da audiência, a qual ocorreu no dia 13/06/19, observa-se que não houve qualquer prejuízo ao réu, tendo o causídico, inclusive, atuado requerendo o adiamento da audiência por impossibilidade de comparecimento, sem se manifestar acerca do prazo previsto no art. 185, § 3º do CPP.
+Ressalte-se, ainda, que em sede de alegações finais, em que pese a Defesa ter pleiteado a anulação da audiência de instrução, também não teceu comentários acerca do referido prazo.
+Dessa forma, tendo em vista que, no processo penal, o reconhecimento de nulidades, reclama a efetiva demonstração de prejuízo à parte, o que não restou comprovado pelo simples fato de o Defensor ter sido intimado apenas com 8 (oito) dias de antecedência da realização do ato, não há que se falar em nulidade.
+Acerca do posicionamento de que o adiamento da audiência é um direito subjetivo do réu e de seu defensor, desde que devidamente justificada a impossibilidade de comparecimento, verifica-se que, em que pese a importância incontestável de o réu ser assistido no momento da audiência pelo Defensor que o acompanhou ao longo da persecução penal, na espécie, apesar de o causídico ter afirmado que não poderia comparecer ao ato, pois participaria de outra audiência em outra comarca, tal fato não foi devidamente comprovado nos autos.
+Observa-se que, no caso concreto, o Defensor Público nomeado para o ato alegou possuir outras audiências no mesmo dia e horário em uma outra comarca, contudo, não anexou aos autos nenhum documento que comprovasse suaimpossibilidade de comparecimento.
+Desta forma, tendo em vista que a impossibilidade não foi devidamente comprovada, conforme disposto no §2º do art. 265 do CPP, e que, o magistrado a quo, seguindo o trâmite do artigo supramencionado, nomeou advogado dativo para o ato, assegurando os principio constitucionais do contraditório e ampla defesa, não restou comprovado nenhum prejuízo a réu.
+Sendo assim, não sendo demonstrado qualquer prejuízo sofrido pelo acusado, não há como acolher o pleito de nulidade pleiteado pela Defesa. Nesse sentido, inclusive, é o entendimento do Superior Tribunal de Justiça. Vejamos:
+ ..
+Com efeito, há nítida inobservância do princípio da dialeticidade recursal (art. 932., III, do CPC), circunstância apta a atrair a incidência da Súmula 283/STF.
+Nesse sentido, confira-se:
+ ..
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+ ..  (AgInt no REsp n. 1.513.045/PI, Ministro Antônio Carlos Ferreira, Quarta Turma, DJe 13/12/2018)
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SUPOSTA NULIDADE DA AUDIÊNCIA DE INSTRUÇÃO. INADMISSIBILIDADE. RAZÕES QUE NÃO IMPUGNARAM A ÍNTEGRA DA FUNDAMENTAÇÃO LANÇADA NO ACÓRDÃO ATACADO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE RECURSAL (ART. 932, III, DO CPC). INCIDÊNCIA DA SÚMULA 283/STF.
+Agravo conhecido para não conhecer do recurso especial.
