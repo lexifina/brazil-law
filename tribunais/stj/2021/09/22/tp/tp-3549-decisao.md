@@ -1,0 +1,8 @@
+DECISÃO
+DANNA YURANI BARRETO SANCHEZ propõe pedido de tutela provisória, a fim de que seja determinada a suspensão do prazo para a apresentação de defesa prévia, nos autos do processo em que se apura a suposta prática dos crimes de tráfico de drogas e de associação para o narcotráfico.
+A defesa aduz, em síntese, que: a) não teve acesso aos elementos colhidos na fase investigatória, em inobservância ao enunciado na Súmula Vinculante n. 14 do STF; b) não há nenhum elemento que vincule a acusada à droga apreendida; c) a denúncia foi oferecida com base, exclusivamente, no depoimento dos policiais e no laudo de constatação prévia; d) a paciente sofreu lesões corporais leves no momento da prisão em flagrante; e) a hipótese dos autos diz respeito, na verdade, à flagrante postergado, sem, no entanto, ter havido prévia autorização judicial; f) houve quebra da cadeia de custódia.
+Decido.
+Segundo informou o Ministério Público Federal, "Conforme consta no site do TJSP (despacho proferido no dia 2/9/21), o presente pleito encontra-se prejudicado, ante a falta de interesse jurídico a legitimar o prosseguimento do presente pedido de tutela provisória, uma vez que sua eventual concessão não proporcionaria resultado útil algum à ré, porquanto já foi apresentada a defesa preliminar em relação à requerente" (fl. 209).
+Ademais, esclareço que as matérias aventadas nesta tutela provisóriajá estão sendo objeto de discussão nesta Corte nos autos do RHC n. 153.828, de maneira que, também por esse motivo, não há razões para que se prossiga no julgamento deste feito.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este pedido de tutela provisória, pela perda superveniente do seu objeto.
+Publique-se e intimem-se.
