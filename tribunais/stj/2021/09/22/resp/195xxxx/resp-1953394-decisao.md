@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por Geraldo de Assis Araujo, com fundamento na alínea "a" do art. 105, III da CF, contra acórdão assim ementado (fl. 517):
+"PROCESSUAL CIVIL. DECISÃO QUE JULGA IMPUGNAÇÃO AOCUMPRIMENTO DE SENTENÇA. CONTINUIDADE DO CUMPRIMENTO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO.1. Nos termos do parágrafo único do art. 1.015 do CPC, as decisõesinterlocutórias proferidas na fase de cumprimento de sentença sãorecorríveis mediante a interposição de agravo de instrumento, salvo quando importar na extinção do cumprimento de sentença, caso em quecaberá apelação.2. No caso dos autos, a decisão recorrida rejeitou a impugnaçãoapresentada pelo executado, homologando os cálculos elaborados pelacontadoria judicial, ou seja, não extinguiu o feito. Logo, considerando anatureza interlocutória da decisão impugnada, o recurso cabível é oagravo de instrumento. Havendo previsão legal expressa, não há dúvidaobjetiva a autorizar a aplicação do princípio da fungibilidade.3. Apelação não conhecida.".
+O recorrente alegaviolação dos artigos 1.022, II, 1.025 e 489 do Código de Processo Civil/2015, sob o argumento de que o acórdão recorrido não se manifestou sobre pontos importantes para o deslinde da controvérsia.
+No mérito, aponta ofensa alega violação do art. 203, §1º, do CPC/2015," o ato judicial que extingue a execução e determina o arquivamento dosautos consubstancia a sentença (fl. 377). Argui que a apelação é o recurso adequado quanto a decisão que deixou de condenar a Fazenda Pública em honorários de sucumbência.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fl. 384.
+É o relatório. Paso a decidir.
+De início, não se conhece da suposta afronta aosartigos 1.022, II, 1.025 e 489, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo, sem, contudo, demonstrar de forma clara e fundamentada qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. TRIBUTÁRIO. DESPACHO ADUANEIRO. DIREITO ANTIDUMPING. SÚMULA 323/STF. NÃO INCIDÊNCIA. HONORÁRIOS. NÃO CABIMENTO. RECURSO ESPECIAL PROVIDO.
+ ..
+II - Não se pode conhecer a apontada violação ao art. 1.022, do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+ ..
+V - Recurso Especial provido (REsp 1.728.921/SC, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 24/10/2018).
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/15. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGAÇÃO DE INFRINGÊNCIA À SÚMULA. IMPOSSIBILIDADE. EXTINÇÃO DA EXECUÇÃO FISCAL. CANCELAMENTO DA CDA. HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+4. Agravo interno a que se nega provimento (AgInt no AREsp 1.134.984/MG, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 6/3/2018).
+No mais, observa-se que a Corte de origem não se pronunciou a respeito da controvérsia apoiado na normatividade art. 203, §1º, do CPC/2015 alegadamente violados. Assim, ausente o
+Nesse contexto, da leitura dos trechos do acordão recorrido (fls. 354-357) e cotejando-se o que foi decidido pela Corte de origem com as razões do recurso especial, observa-se que a argumentação apresentada está dissociada dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Aplicável, portanto, o óbice da Súmula n. 284/STF.
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, rel. Min. Jorge Mussi, Quinta
+Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Min. Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1.637.445/SP, relator Min. Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.647.046/PR, relator Min. Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Min. Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, II, DO CÓDIGO DE PROCESSO CIVIL/2015. ALEGAÇÃO GENÉRICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF, POR ANALOGIA. RECURSO NÃO CONHECIDO.
