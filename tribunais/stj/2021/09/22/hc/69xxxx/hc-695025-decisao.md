@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JULIO CESAR NOGUEIRA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 0004475-07.2021.8.26.0602).
+Depreende-se dos autos que o pedido de progressão ao regime aberto foi indeferido pelo Magistrado singular.
+Contra essa decisão insurgiu-se a defesa.
+Entretanto, o Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso.
+No Superior Tribunal de Justiça, sustenta a defesa estarem preenchidos todos os requisitos necessários à progressão do regime. Sublinha não ser razoável negar a progressão sob a pretensa necessidade de prévia passagem ou maior permanência no regime semiaberto.
+Diante disso, pede, em tema liminar, seja reconhecido o direito do paciente de aguardar em liberdade o julgamento deste remédio constitucional e, ao final, seja concedida a ordem definitiva, reconhecendo-se a ilegalidade da decisão que indeferiu o pedido de progressão ao regime aberto.
+É o relatório.
+Decido.
+A questão posta a deslinde refere-se à ausência de requisito subjetivo para a progressão de regime.
+Conforme o art. 112 da Lei de Execução Penal, para que o reeducando faça jus à progressão, é necessário o preenchimento de requisitos objetivo e subjetivo.
+No que tange ao requisito subjetivo, de acordo com o aludido dispositivo legal, esse é aferido por meio de atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento no qual o condenado cumpre sua sanção privativa de liberdade.
+Assim, não é vedado o indeferimento da progressão quando, a despeito de o reeducando apresentar atestado de bom comportamento carcerário, o magistrado entender não estar implementado o requisito subjetivo, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado.
+No caso dos autos, o Tribunal de origem manteve a decisão de primeiro grau, consignando, para tanto, que (e-STJ fls. 38/39):
+Considerou o Juízo de Direito da Vara das Execuções Criminais de Sorocaba, em 15/03/2021, que o agravante não está preparado para ser beneficiado com a progressão ao regime aberto, tendo em vista que foi deferida a progressão ao regime intermediário em 12/02/2021, e que o lapso temporal para nova progressão foi atingido por conta de aplicação dos efeitos de retroatividade da referida sentença, sem que Julio tenha dado provas da aptidão à semiliberdade, não tendo usufruído de nenhuma saída temporária até a data da decisão (fls.33).
+Conforme se verifica do Boletim Informativo de fls. 19/26, o agravante cumpre pena de 18 anos, 3 meses e 19 dias de reclusão, em regime fechado, pela prática de tráfico de drogas, dois roubos majorados e receptação, com início em 20/03/2008 e TCP previsto para 27/10/2028,registrando uma falta disciplinar grave, em 28/08/2015, pelo cometimento de novo delito durante livramento condicional. Foi deferida a progressão ao regime semiaberto em 12/02/2021.
+O preenchimento do requisito objetivo não é o único requisito para apreciação do pedido, tratando-se de uma expectativa de direito do sentenciado.
+Assim, a decisão do Juízo para que se aguardasse por mais um tempo o cumprimento de pena no regime intermediário, para reavaliar a situação, é razoável.
+No caso em análise, o deferimento da progressão representaria uma progressão por salto, tendo em vista que o sentenciado foi beneficiado com a progressão ao semiaberto em 12/02/2021. Ainda que ele já tivesse preenchido o requisito objetivo, para o regime aberto, como acima dito, o preenchimento do requisito subjetivo ainda não estava demonstrado.
+Ressalte-se que sua transferência para o CPP Jardinópolis, se deu somente, no dia 11/05/2021, conforme pesquisa efetuada junto ao INTINFO, juntada aos autos.
+Portanto, a decisão é de ser mantida em todos os seus termos, pois, na época que o Juízo apreciou os pedidos, fazia pouco tempo que o sentenciado tinha sido beneficiado com a progressão.
+Do trecho do acórdão acima colacionado, verifica-se que as instâncias ordinárias negaram a progressão ao regime aberto apresentando como fundamento o fato de que o apenado não havia vivenciado o regime intermediário, o que não é obrigatório para a concessão do benefício e consubstancia flagrante ilegalidade apta a ensejar a concessão da ordem. A propósito:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. GRAVIDADE ABSTRATA DOS DELITOS, LONGA PENA A CUMPRIR E AUSÊNCIA DE PROPOSTA CONCRETA E IMEDIATA DE TRABALHO. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. Nos termos do que dispõe o art. 122 da Lei de Execuções Penais, o apenado deverá cumprir os requisitos de natureza objetiva (lapso temporal) e subjetiva (atestado de bom comportamento carcerário) para a concessão do benefício da progressão de regime prisional.
+2. No caso, todavia, o Tribunal de origem ao cassar a decisão de primeiro grau, que havia deferido a progressão ao regime aberto, com recolhimento domiciliar, não logrou fundamentar a negativa, deixando de invocar elementos concretos, levando em conta apenas a gravidade dos delitos praticados, a longa pena a cumprir e a ausência de proposta concreta e imediata de trabalho.
+3. Ordem concedida para cassar o acórdão impugnado, restabelecendo a decisão do Juízo da execução que deferiu ao paciente a progressão ao regime aberto, com recolhimento domiciliar. (HC 349.422/RJ, de minha relatoria, SEXTA TURMA, julgado em 4/5/2017, DJe 12/5/2017.)
+Ante o exposto, concedo parcialmente a ordem, in limine, para determinar ao Juízo da execução que examine o preenchimento dos requisitos necessários à progressão ao regime aberto nos t ermos da lei, afastada a necessidade de permanência no regime intermediário como óbice ao benefício.
+Comunique-se, com urgência, ao Tribunal impetrado, encaminhando-lhe o inteiro teor desta decisão.
+Publique-se. Intimem-se.
