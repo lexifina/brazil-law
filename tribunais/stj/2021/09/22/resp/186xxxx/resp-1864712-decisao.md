@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento na alínea "a" da CF/1988, contra acórdão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ, fls. 37/47):
+PROCESSUAL E PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. REVISÃO PELOS TETOS DAS ECS 20/98 E 41/03. BENEFÍCIO ANTERIOR À CF/88. LIQUIDAÇÃO ZERO. INOCORRÊNCIA. DIFERENÇAS EXISTENTES.
+Com a EC 41/03, embora a média pura dos salários-de-contribuição não mais sofresse a limitação pelo novo teto instituído, é correto afirmar que esse novo limite "liberou" a média pura da glosa antes aplicada pelo teto então vigente, gerando reflexos positivos na renda mensal. Há, portanto, diferenças a serem pagas ao segurado.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 64/66).
+O recorrente defende, em síntese,contrariedade à lei federal (Decreto83.080/1979, art. 40, II), uma vez que tal norma estabelece a forma de cálculo conforme legislação incidente à época em que deferido o benefício. Contudo, o acórdão deixou de considerar que,para que seja respeitada a forma de cálculo original, e também aproveitada a elevação extraordinária dos tetos, é preciso que, na data das Emendas Constitucionais 20/98 e 41/2003, já com os novos tetos, seja reconstituído o cálculo original, com todas as regras vigentes na data de concessão.
+Sem contrarrazões, o recurso especial foi admitido na origem(e-STJ, fls. 89/90).
+É o relatório.
+O Tribunal de origem resolveu a questão sob a seguinte fundamentação (e-STJ, fls. 37/47):
+Dito isso, verifica-se que a forma de cálculo adotada pela decisão recorrida é diversa daquela que vem sendo adotada nesta Turma e, portanto, é de ser feita a devida correção. Com efeito, para a correta liquidação do julgado, especialmente quanto à evolução da renda mensal a ser revisada, devem ser observadas as seguintes diretrizes/premissas:
+(i) apurar a média dos salários-de-contribuição que compõem o período básico de cálculo, segundo legislação da época da concessão (art. 26 do Decreto 77.077/76; art. 21 do Decreto 89.312/84), sem aplicar menor ou maior valor-teto e sem multiplicar por coeficiente (média pura);
+(ii) tomar a média pura dos salários-de-contribuição apurada e dividi-la pelo valor do salário mínimo da época da concessão, a fim de expressar a média em número de salários mínimos (art. 58 do ADCT);
+(iii) evoluir a média pura dos salários-de-contribuição aplicando-se a equivalência salarial desde a concessão até dezembro/1991; a partir de janeiro/1992, atualizar o valor equivalente em salários mínimos pelos índices de reajustamento dos benefícios previdenciários até os dias atuais;
+(iv) confrontar a média pura atualizada dos salários-de-contribuição com o teto de cada competência, especialmente a partir da EC 20/98;
+(v) limitar a média pura dos salários-de-contribuição ao teto de cada competência e, sobre o valor então limitado (já com a glosa, portanto), aplicar o coeficiente de cálculo do benefício da época da concessão;
+(vi) apurar as diferenças devidas e não pagas, atualizá-las segundo os critérios da decisão judicial e observar a prescrição eventualmentereconhecida pelo título.
+Com efeito, para a verificação das diferenças devidas, não importa o valor da renda mensal inicial original, e sim o correto valor da média pura dos salários-de-contribuição e do coeficiente de cálculo. Assim, não procedem as diretrizes determinadas pelo magistrado a quo, devendo, assim, ser observado o estipulado acima para o cálculo das diferenças devidas.
+Dessa forma, depreende-se do excerto transcrito que não houve manifestação no acórdão recorrido sobre a aplicação doart. 40, II, do Decreto n. 83.080/1979, em razão de ser a legislação incidente à época em que deferido o benefício.
+O recorrente deveria ter indicado a violação do art. 1.022 do CPC/2015, o que não aconteceu no caso.
+Logo, a matéria não foi objeto de apreciação do aresto impugnado, explícita ou implicitamente, incidindo, no caso, o disposto na Súmula 211/STJ, a saber: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.".
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. IRRESIGNAÇÃO DEFICIENTE. DISPOSITIVOS DE LEI FEDERAL. VIOLAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. ACÓRDÃO. FUNDAMENTAÇÃO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+2. A alegação genérica de ofensa ao art. 535 do CPC/1973, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+3. A questão relativa à validade da cobrança complementar de ICMS/ST em razão de dilatação volumétrica do combustível, a despeito da oposição de embargos de declaração, não foi analisada pela instância ordinária à luz dos dispositivos de lei federal ora suscitados pelo recorrente. Incidência da Súmula 211 do STJ.
+4. O recurso especial não se presta para revisar acórdão fundado em interpretação de dispositivo constitucional.
+5. O procedimento previsto no art. 1.032 do CPC/2015, que prevê a abertura de prazo para fins de manifestação sobre a questão constitucional identificada pelo relator, somente deve ser aplicado para os recursos especiais interpostos já na vigência do novo estatuto processual civil, o que não é o caso dos autos. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no REsp 1.689.343/PB, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/8/2020, DJe 17/9/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH. ISENÇÃO DE CUSTAS. ART. 1.007, § 1º, DO CPC/2015. NÃO CABIMENTO. PRECEDENTES. SERVIDORA PÚBLICA. ACUMULAÇÃO DE DOIS CARGOS PRIVATIVOS DA ÁREA DA SAÚDE. JORNADA TOTAL SUPERIOR A 60 (SESSENTA) HORAS SEMANAIS. ALEGADA VIOLAÇÃO AOS ARTS. 66, 67 E 71 DA CLT. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. VIOLAÇÃO AOS PRINCÍPIOS DA VINCULAÇÃO AO EDITAL E DA SEGURANÇA DO TRABALHO. SÚMULAS 283 E 284 DO STF. ACUMULAÇÃO DE CARGOS PÚBLICOS DA ÁREA DA SAÚDE. LIMITAÇÃO DA CARGA HORÁRIA. IMPOSSIBILIDADE, HAVENDO INCOMPATIBILIDADE DE HORÁRIOS. REALINHAMENTO DA JURISPRUDÊNCIA DA PRIMEIRA SEÇÃO DO STJ, EM FACE DO ENTENDIMENTO DO STF. ACÓRDÃO RECORRIDO QUE, EM FACE DAS PROVAS DOS AUTOS, CONCLUIU PELA COMPATIBILIDADE DE HORÁRIOS. SÚMULA 7/STJ. PRECEDENTES. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+V. Nos termos da jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em Recurso Especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017). Hipótese em julgamento na qual o Recurso Especial não apontou violação ao art. 1.022 do CPC/2015.
+ ..
+X. Recurso Especial não conhecido.
+(REsp 1.773.725/AL, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 11/6/2019, DJe18/6/2019).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015, deixo de majorar os honorários advocatícios, tendo em vista que não houve prévia fixação de honorários sucumbenciais pela Corte de origem.
+Publique-se. Intimem-se.
