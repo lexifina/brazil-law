@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Patrimar Engenharia Ltda.,com amparo nas alíneas "a" e "c"do inciso III do art. 105 da CF/1988, contra acórdão doTribunal de Justiça do Estado de Minas Geraisassim ementado (e-STJ, fl. 151):
+APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - IPTU - PÁRCELAMENTO DO CRÊDITO TRIBUTÁRIO - RECONHECIMENTO DA DÍVIDA - AUSÊNCIA DE INTERESSE PROCESSUAL - EXTINÇÃO DOS ÉMBARGOS À EXECUÇÃO - SENTENÇA MANTIDA.
+- O requerimento de parcelamento do crédito tributário representa verdadeira confissão da dívida pelo contribuinte, o que dispensa qualquer outra providência por parte do fisco para a constituição do crédito e a inscrição em Divida Ativa.
+- Havendo inadimplência do contribuinte, relacionado ao parcelamento por ele próprio requerido, não há para a Administração o dever de notificá-lo sobre sua exclusão do parcelamento, cabendo à autoridade administrativa, tão somente, proceder à cobrança do crédito não contencioso.
+Os embargos de declaração opostos pela contribuinte foram rejeitados.
+Em suas razões, a interessada levanta prefacial de ofensa ao art. 1.022 do CPC/2015, aduzindo omissão quanto à sua ilegitimidade passiva; à nulidade da inscrição na dívida ativa, tendo em vista a ausência de prévia notificação da devedora; à ofensa à orientação da Súmula 392/STJ; e à decadência do débito.
+No mérito, aponta violação dos arts. 2º, § 5º, I, da LEF; e 144 e 173do CTN,além de dissenso pretoriano.
+Sustenta, em síntese, que a confissão estabelecida como adesão ao parcelamento de dívida não pode convalidar eventuais vícios da obrigação tributária, impedindo o acesso do contribuinte ao Poder Judiciário.
+Contrarrazões recursais apresentadas (e-STJ, fls. 247-256).
+Inadmitido o recurso especialna origem, subiram os autos a esta Corte por força do provimento dado em agravo.
+É o relatório.
+Inicialmente, não há se falar em ofensa ao art. 1.022 do CPC/2015, quando o Tribunal de origem, como se verifica no presente caso, pronuncia-se de forma clara e objetiva sobre a questão posta nos autos, tendo o decisório se mostrado suficientemente fundamentado para embasar a decisão.
+Desse modo, não prospera a pretensão de nulidade do aresto por omissão.
+No mérito, contudo, o recurso especial merece acolhimento.
+Isso porque este Superior Tribunal de Justiça firmou o entendimento sob o rito dos recursos repetitivosde que a confissão de dívida, para efeito de adesão ao parcelamento,não impede que o devedor acione o Poder Judiciário para discutir os seus aspectos jurídicos, uma vez que os elementos da relação jurídica tributáriaobrigatoriamente encontram fundamento de validade na legislação ordinária econstitucional, não podendo ser afastados por simples acordo de vontade entre aspartes.
+No ponto:
+PROCESSUAL CIVIL. TRIBUTÁRIO. Recurso Especial representativo de controvérsia (art. 543-C, § 1º, do CPC). AUTO DE INFRAÇÃO LAVRADO COM BASE EM DECLARAÇÃO EMITIDA COM ERRO DE FATO NOTICIADO AO FISCO E NÃO CORRIGIDO. VÍCIO QUE MACULA A POSTERIOR CONFISSÃO DE DÉBITOS PARA EFEITO DE PARCELAMENTO. POSSIBILIDADE DE REVISÃO JUDICIAL.
+1. A Administração Tributária tem o poder/dever de revisar de ofício o lançamento quando se comprove erro de fato quanto a qualquer elemento definido na legislação tributária como sendo de declaração obrigatória (art. 145, III, c/c art. 149, IV, do CTN).
+2. A este poder/dever corresponde o direito do contribuinte de retificar e ver retificada pelo Fisco a informação fornecida com erro de fato, quando dessa retificação resultar a redução do tributo devido.
+3. Caso em que a Administração Tributária Municipal, ao invés de corrigir o erro de ofício, ou a pedido do administrado, como era o seu dever, optou pela lavratura de cinco autos de infração eivados de nulidade, o que forçou o contribuinte a confessar o débito e pedir parcelamento diante da necessidade premente de obtenção de certidão negativa.
+4. Situação em que o vício contido nos autos de infração (erro de fato) foi transportado para a confissão de débitos feita por ocasião do pedido de parcelamento, ocasionando a invalidade da confissão.
+5. A confissão da dívida não inibe o questionamento judicial da obrigação tributária, no que se refere aos seus aspectos jurídicos.Quanto aos aspectos fáticos sobre os quais incide a norma tributária, a regra é que não se pode rever judicialmente a confissão de dívida efetuada com o escopo de obter parcelamento de débitos tributários. No entanto, como na situação presente, a matéria de fato constante de confissão de dívida pode ser invalidada quando ocorre defeito causador de nulidade do ato jurídico (v.g.erro, dolo, simulação e fraude). Precedentes: REspn. 927.097/RS, Primeira Turma, Rel. Min. Teori Albino Zavascki, julgado em 8.5.2007; REsp 948.094/PE, Rel. Min. Teori Albino Zavascki, Primeira Turma, julgado em 06/09/2007; REsp 947.233/RJ, Rel. Min. Luiz Fux, Primeira Turma, julgado em 23/06/2009; REsp 1.074.186/RS, Rel. Min.Denise Arruda, Primeira Turma, julgado em 17/11/2009; REsp 1.065.940/SP, Rel. Min. Francisco Falcão, Primeira Turma, julgado em 18/09/2008.
+6. Divirjo do relator para negar provimento ao recurso especial.Acórdão submetido ao regime do art. 543-C, do CPC, e da Resolução STJ n. 8/2008.
+(REsp 1.133.027/SP, Rel. Min. LUIZ FUX, Rel. p/ Acórdão Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 13/10/2010, DJe 16/3/2011).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação, para reconhecer a possibilidade de discussão da legalidade do tributo cobrado, a despeito da confissão de dívida levada a efeito pelo parcelamento a que aderiu a contribuinte.
+Determino, outrossim, oretorno dos autos ao Tribunal de origem, a fim de que prossiga no julgamento do feito.
+Publique-se. Intimem-se.
