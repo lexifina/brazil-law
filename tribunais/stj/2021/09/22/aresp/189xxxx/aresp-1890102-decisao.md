@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por APR - PARTICIPACOES S/A contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, o qual não admitiu recurso especial fundado na alínea "a"do permissivo constitucional paradesafiar acórdão assim ementado (e-STJ fl.1.083):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS E LUCROS CESSANTES. CONTRATO. LICITAÇÃO. FALTA DE DEMONSTRAÇÃO. PERDAS E DANOS. INOCORRÊNCIA. DANOS MORAIS. INEXISTÊNCIA. AUSÊNCIA DE PROVA - ART. 333, I DO CPC/ 73. RECURSO CONHECI DO E IMPROVIDO. Incabível amparar o pleito que pretende que seja o apelado condenado a pagar por perdas e danos, lucros cessantes e danos morais, porquanto em relação a essas pretensões, são insubsistentes os dados probatórios colacionados pela apelante. Aplicabilidade do art. 333, I , do CPC/73. Insubsistente, o pedido de indenização por perdas e danos decorrentes de lucros cessantes na hipótese em que não há qualquer início de prova a indicar a frustração de um lucro certo ou mesmo a perda de uma chance séria e real. Sentença mantida. Recurso conhecido e improvido.
+Embargos de declaração rejeitados (e-STJ fls. 1.169/1.173).
+No recurso especial obstaculizado, a parte apontoucontrariedade aos arts.324, §1º, inciso II e 509, ambos do CPC/2015 (possibilidade de formulação dos pedidos genéricos, os quais deverão ser posteriormente liquidados em procedimento próprio);78, inciso XII e parágrafo único; e 79, incisos I, II e III, ambos da Lei n.º 8.666/1993 (necessidade de devolução da garantia e de ressarcimento dos prejuízos por não haver dado causa à rescisão do contrato) (e-STJ fls. 1.192/1.209).
+Contrarrazõesàs e-STJ fls. 1.223/1.229.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+O teor dos dispositivos legais apontados não foi prequestionado e os embargos de declaração apresentados não cumpriram com a finalidade de suprir essa omissão. Nessa hipótese, devem incidir os enunciados das Súmulas 211 do STJ e 282 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. FRAUDE DE TERCEIRO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. 2. SÚMULAS 282/STF E 211/STJ. 3. ART. 70, III, DO CPC/1973. DENUNCIAÇÃO DA LIDE. FALTA DE OBRIGATORIEDADE NO CASO. SÚMULAS 7 E 83/STJ. 4. FALHA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS. CARACTERIZAÇÃO DO DANO MORAL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+1. Não ocorre violação ao art. 535 do CPC/1973 quando o julgador decide a lide, como no caso examinado, de forma fundamentada, indicando os motivos de seu convencimento, ainda que o resultado seja contrário ao esperado pela parte.
+2. Não se conhece de recurso especial se, mesmo opostos embargos de declaração, não ocorreu o prequestionamento dos preceitos legais ditos violados. Incidência das Súmulas 282 do STF e 211 do STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 894.587/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/08/2016, DJe 29/08/2016)
+Deve-se esclarecer que o art. 1.025 do CPC/2015, já vigente à época da oposição dos embargos de declaração, dispõe que "se consideram incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+Contudo, em razão de o recurso especial não veicular alegação de violação do art. 1.022 do CPC/2015, este Tribunal não pode decidir, de ofício, pela existência de omissão no acórdão recorrido, de tal sorte que não há como dar por prequestionados os dispositivos supracitados.
+De todo modo,a modificação do julgado, para julgar procedente o pedido e reconhecer o direito à indenização pretendida, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
