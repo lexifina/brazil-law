@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO SUMÁRIA. DESCABIMENTO DO PEDIDO DE SUBSTITUIÇÃO DA MEDIDA DE SEGURANÇA DE INTERNAÇÃO POR PRISÃO DOMICILIAR. SITUAÇÃO QUE NÃO SE ENQUADRA NAQUELAS PREVISTAS NO ART. 117 DA LEP. ALEGAÇÃO DE OMISSÃO. VÍCIO INEXISTENTE. PRETENSÃO DE REEXAME DA MATÉRIA. IMPOSSIBILIDADE.
+1. Os embargos de declaração somente são cabíveis quando presente ao menos uma das hipóteses previstas no art. 619 do Código de Processo Penal.
+2. Na espécie, a controvérsia foi solucionada integralmente com fundamentação clara, adequada e suficiente, razão pela qual não há ofensa ao citado dispositivo. A insatisfação com o resultado trazido na decisão judicial não significa deficiência ou ausência de prestação jurisdicional. Precedentes.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de embargos de declaração opostos por Joao Alves de Souza ao acórdão da Sexta Turma desta Corte, assim ementado (fl. 221):
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO SUMÁRIA. PEDIDO DE SUBSTITUIÇÃO DA MEDIDA DE SEGURANÇA DE INTERNAÇÃO POR PRISÃO DOMICILIAR. DESCABIMENTO. ART. 117 DA LEP. NÃO PREENCHIMENTO. DOENÇA MENTAL. AUSÊNCIA DE COMPROVAÇÃO DE QUE O RÉU ESTEJA SENDO PRIVADO DO TRATAMENTO PSIQUIÁTRICO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VEDAÇÃO DA SÚMULA 7/STJ.
+1. No caso concreto, afirmou a Corte estadual, ao analisar a insurgência manifestada pela defesa, ser descabida a pretensão de substituição da medida de internação pela prisão domiciliar, eis que, apesar de se tratar de portador de doença mental, a defesa não trouxe aos autos qualquer atestado apto a comprovar que o réu esteja sendo privado do tratamento psiquiátrico que necessita, bem como sua situação não se enquadra naquelas previstas no artigo 117, da Lei de Execução Penal.
+2. Para se concluir de modo contrário e acolher o pleito da defesa, seria necessário o revolvimento fático-probatório, providência vedada conforme Súmula 7/ STJ.
+3. Agravo regimental improvido.
+Em suas razões, aponta o embargante a existência de omissão no acórdão impugnado, especialmente quanto ao pleito de nova valoração das provas (laudos) já especificadas nos autos, sendo que referida revaloração refoge ao óbice imposto pela Súmula 7 do STJ (fl. 229).
+Menciona que a defesa logrou êxito em demonstrar, vide diversos laudos médicos e Laudo Psiquiátrico Forense nº 177/2018, que o embargante está sob tratamento médico ambulatorial, e se, não está sendo privado do tratamento que necessita, tal fato se deve pelo motivo do embargante estar respondendo em liberdade, sendo certo que, o mais apropriado, dado sua idade e doença grave, seria continuar com o tratamento sem a necessidade de internação, uma vez que, o embargante não apresenta risco a sociedade, fazendo jus à prisão domiciliar, ou seja, o que o embargante busca é a revaloração de tais provas já constantes dos autos (fl. 229).
+Realça que a defesa apenas buscou a aplicação do direito ao seu caso concreto e que o acórdão ora embargado foi omisso quanto ao pleito de nova valoração das provas, tendo apenas se resumido a repetir os fundamentos da decisão que não conheceu do recurso especial (fl. 230).
+Nesse aspecto, pede o acolhimento dos presentes embargos de declaração para afastar a omissão ora levantada (fl. 230).
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO SUMÁRIA. DESCABIMENTO DO PEDIDO DE SUBSTITUIÇÃO DA MEDIDA DE SEGURANÇA DE INTERNAÇÃO POR PRISÃO DOMICILIAR. SITUAÇÃO QUE NÃO SE ENQUADRA NAQUELAS PREVISTAS NO ART. 117 DA LEP. ALEGAÇÃO DE OMISSÃO. VÍCIO INEXISTENTE. PRETENSÃO DE REEXAME DA MATÉRIA. IMPOSSIBILIDADE.
+1. Os embargos de declaração somente são cabíveis quando presente ao menos uma das hipóteses previstas no art. 619 do Código de Processo Penal.
+2. Na espécie, a controvérsia foi solucionada integralmente com fundamentação clara, adequada e suficiente, razão pela qual não há ofensa ao citado dispositivo. A insatisfação com o resultado trazido na decisão judicial não significa deficiência ou ausência de prestação jurisdicional. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A pretensão do embargante não merece acolhida.
+Não se constata, no caso concreto, nenhuma das hipóteses ensejadoras dos embargos de declaração, pois, na espécie, o acórdão de fls. 221/226 foi claro em estabelecer os fundamentos pelos quais negou provimento ao recurso. Veja-se o conteúdo do acórdão embargado (fl. 225 - grifo nosso):
+ ..  Consoante constou na decisão agravada, o Tribunal de origem, soberano na análise dos fatos, afirmou que, no caso, a prisão domiciliar era indevida, pois não ficou demonstrada situação excepcional a permitir o deferimento do referido benefício. Cito o trecho (fl. 109 - grifo nosso):
+ ..  No que pertine ao pleito de substituição da medida de internação pela prisão domiciliar, consigno que o artigo 117, da Lei de Execução Penal, elenca quatro requisitos para sua concessão, a saber, ser o condenado maior de 70 (setenta) anos; acometido de doença grave; condenado com filho menor deficiente físico ou mental; e, condenada gestante.
+Na hipótese dos autos, apesar de se tratar de condenado portador de doença mental, a defesa não trouxe aos autos qualquer atestado apto a comprovar que o réu esteja sendo privado do tratamento psiquiátrico que necessita.
+A este respeito, como bem destacou a douta Procuradoria de Justiça, "a prisão humanitária (artigo 318, inciso II, do CPP) é necessário para caracterizar o devido beneficio não somente a enfermidade do apelante, bem como, a impossibilidade de tratamento médico adequado na unidade prisional ou em estabelecimento hospitalar, in casu, não mostrou-se pertinente a alegação da defesa do apelante".
+No mesmo sentido, se manifesta a jurisprudência do Superior Tribunal de Justiça:
+ ..  Nesse contexto, a alteração desse entendimento demandaria o revolvimento do conjunto fático-probatório, procedimento inviável em sede de recurso especial, em razão do óbice da Súmula 7/STJ.
+ ..
+Ao contrário do que se alega, não há, no caso, nenhuma irregularidade ensejadora dos embargos de declaração, pois a jurisdição foi prestada mediante decisão suficientemente motivada e em consonância com a jurisprudência desta Corte Superior, não obstante contrária à pretensão do ora embargante.
+Na espécie, o Tribunal local, soberano na análise de todo o arcabouço probatório dos autos, julgou não ter ficado demonstrada a situação excepcional a permitir o deferimento do benefício postulado pela defesa.
+Certamente que a pretensão do agravante não é a de revaloração das provas, mas de análise do seu conteúdo, sendo correta a aplicação da Súmula 7/STJ.
+Vale dizer, o ponto elencado como omisso traduz simples retórica e inconformismo com o julgado, o que é descabido em sede de aclaratórios (EDcl nos EDcl no AgRg no REsp n. 1.270.282/RS, Ministro Moura Ribeiro, Quinta Turma, DJe 12/8/2014).
+Outrossim, não são cabíveis embargos de declaração quando a parte embargante - a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição - vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa, valendo lembrar que o recurso de embargos de declaração é apelo de integração - não de substituição. Nessa linha: AgInt no AREsp n. 1.285.884/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 2/4/2019.
+Ante o exposto, rejeito os embargos de declaração.
