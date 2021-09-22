@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. TREIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 25 E 40 DA LEI N.6.830/1980. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de execução fiscal ajuizada objetivando a cobrança de crédito tributário no valor de R$ 12.025,44 (doze mil, vinte e cinco reais e quarenta e quatro centavos). Por sentença, a execução foi extinta ante a ocorrência de prescrição intercorrente dos créditos executados. No Tribunal a quo, a sentença foi mantida. Nesta Corte, o recurso especial não foi conhecido.
+II - Sobre a alegada violação dos arts. 25 e 40 da Lei n. 6.830/1980, deve-se registrar que o Tribunal de origem, ao apreciar o conjunto fático e probatório dos autos, consignou expressamente que "em 13.05.2011, o Município de Curitiba fez carga dos autos, momento que tomou ciência das diligências infrutíferas realizadas, nos Cartórios de Imóveis dessa Comarca, para a localização de bens em nome do executado."
+III - Dessa forma, para rever tal posição, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de execução fiscal ajuizada objetivando a cobrança de crédito tributário no valor de R$ 12.025,44 (doze mil, vinte e cinco reais e quarenta e quatro centavos). Por sentença, aa execução foi extinta ante a ocorrência de prescrição intercorrente dos créditos executados.No Tribunal a quo, a sentençafoi mantida, conforme a seguinte ementa do acórdão:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. ISSQN. EXERCÍCIO DO JUÍZO DERETRATAÇÃO NOS TERMOS DO ART. 1.030, INCISO II, DO CPC/15 E ARTS.109 E 110 DO REGIMENTO INTERNO DESTA E. CORTE. PRESCRIÇÃOINTERCORRENTE DOS CRÉDITOS TRIBUTÁRIOS. TRANSCURSO DE MAIS DE SEIS ANOS ENTRE A CIÊNCIA DA DILIGÊNCIA INFRUTÍFERA E A SENTENÇA. PERÍODO QUE EXCEDE A SUSPENSÃO DO ART. 40 DA LEF SOMADO AOPRAZO QUINQUENAL. INAPLICABILIDADE DA SÚMULA Nº 106/STJ. DEMORAQUE NÃO PODE SER IMPUTADA EXCLUSIVAMENTE AO PODER JUDICIÁRIO. DEVER DO EXEQUENTE DE PROMOVER DILIGÊNCIAS PARA A SATISFAÇÃODA PRETENSÃO EXECUTÓRIA. PRECEDENTE QUE GUARDA CONSONÂNCIACOM O POSICIONAMENTO ADOTADO POR ESTA CÂMARA CÍVEL. ACÓRDÃOMANTIDO EM JUÍZO DE RETRATAÇÃO.
+No recurso especial, o recorrente indica violação dos arts. 174 do CTN e 25 e 40 da Lei n. 6.830/1980, alegando, em síntese, que, da análise dos autos, não ficou comprovada negligência da exequente pela paralisação do executivo fiscal e que não ocorreu a pronunciada prescrição, tendo em vista a falta de intimação pessoal da Fazenda Pública.
+Após decisumque negou seguimento ao recurso especial, na parcela referenteà violação do art. 174 do CTN, e inadmitiu o recurso especial, na parte atinente à ofensa aos arts. 25 e 40 da Lei n. 6.830/1980, foi interposto agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+No entanto, como já demonstrado acima, não se trata de reexaminar fatos, mas sim de reexaminar a aplicação do direito aos fatos. A jurisprudência do STJ acima transcrita admite a simples valoração jurídica dos fatos delineados no acórdão recorrido, como no caso em tela. Dessa forma, inaplicável a Súmula 07/STJ.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TREIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 25 E 40 DA LEI N.6.830/1980. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de execução fiscal ajuizada objetivando a cobrança de crédito tributário no valor de R$ 12.025,44 (doze mil, vinte e cinco reais e quarenta e quatro centavos). Por sentença, a execução foi extinta ante a ocorrência de prescrição intercorrente dos créditos executados. No Tribunal a quo, a sentença foi mantida. Nesta Corte, o recurso especial não foi conhecido.
+II - Sobre a alegada violação dos arts. 25 e 40 da Lei n. 6.830/1980, deve-se registrar que o Tribunal de origem, ao apreciar o conjunto fático e probatório dos autos, consignou expressamente que "em 13.05.2011, o Município de Curitiba fez carga dos autos, momento que tomou ciência das diligências infrutíferas realizadas, nos Cartórios de Imóveis dessa Comarca, para a localização de bens em nome do executado."
+III - Dessa forma, para rever tal posição, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+IV - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Primeiramente, diante da negativa de seguimento à parcela recursal referente à violação do art. 174 do CTN, pelo juízo de admissibilidade realizado no Tribunal de origem, deve-se frisar que o presente recurso especial versará apenas acerca da parcela remanescente, qual seja, a suposta ausência de intimação pessoal da exequente.
+Sobre a alegada violação dos arts. 25 e 40 da Lei n. 6.830/1980, deve-se registrar que o Tribunal de origem, ao apreciar o conjunto fático e probatório dos autos, consignou expressamente que "em 13.05.2011, o Município de Curitiba fez carga dos autos, momento que tomou ciência das diligências infrutíferas realizadas, nos Cartórios de Imóveis dessa Comarca, para a localização de bens em nome do executado."
+Dessa forma, para rever tal posição, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
