@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto porCARLOS CESAR FERREIRA DE MOURA contra decisão da Presidência desta Corte Superior que,com base no art. 21-E, V, do Regimento Interno do Superior Tribunal deJustiça, conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 511-516).
+Na origem, o ora agravante se insurge contra acórdão proferido pelo TJAM,assim ementado (e-STJ, fls. 235-242):
+"APELAÇÃO CRIMINAL - RECURSO MINISTERIAL - CRIME CONTRA A VIDA - HOMICÍDIO CONSUMADO - APELADO FOI IMPRONUNCIADO - PRETENDIDA A PRONÚNCIA - IN DUBIO PRO SOCIETATE - PRESENTES INDÍCIOS DE AUTORIA E PROVA DE MATERIALIDADE - NECESSÁRIA A SUBMISSÃO AO CONSELHO DE SENTENÇA - ART. 155, DO CPP - INAPLICÁVEL À PRONÚNCIA, POR SER APENAS JUÍZO DE ADMISSIBILIDADE - REFORMA DO DECISUM - RECURSO PROVIDO.
+- A decisão de pronúncia encerra apenas o juízo de admissibilidade, e lastreia-se em indícios de autoria e prova irrefutável de materialidade, afigurando-se preponderante o "in dubio pro societate";
+- A jurisprudência admite que os indícios de autoria sejam provenientes das provas obtidas durante a fase inquisitorial, pois não cabe ao magistrado, nessa fase processual, emitir juízo de certeza".
+Nas razões de seu recurso especial, a parte recorrente aponta violação doart. 414 do Código de Processo Penal. Aduz, em síntese, que "para se pronunciar por crime doloso contra a vida é necessário a prova da materialidade e que haja indícios suficientes da autoria ou participação, de forma que, sendo vagos e frágeis os indícios da autoria ou participação do réu no crime, deverá ser impronunciado" (e-STJ, fl. 368).Além disso, acrescenta não ser possível apronúncia do acusado fundada exclusivamente em elementos informativos obtidos na fase inquisitorial.
+Com contrarrazões (e-STJ, fls. 377-384), o apelo nobre foi inadmitidonaorigem (e-STJ, fls. 415-419),ao que se seguiu a interposição deagravo, que ensejou o não conhecimento do recurso especial pela decisão monocrática ora recorrida (e-STJ, fls.511-516).
+No agravo regimental, o recorrente argumenta que "não há que se falar na incidência do verbete sumular nº 7 do STJ, uma vez que se mostra desnecessária a análise de fatos e provas para o julgamento do Recurso Especial em tela, o qual objetiva somente a escorreita aplicação do direito federal à base empírica do v. Acórdão recorrido(e-STJ, fl. 524).
+O MPF manifestou-se pelo não provimento do recurso (e-STJ, fls. 534-539).
+É o relatório.
+Decido.
+Inicialmente,há uma questão prejudicial que torna desnecessário adentrar no exame meritório do recurso especial: a consumação da prescrição da pretensão punitiva.
+Como se colhe da denúncia, oParquetpede a condenação do acusado pelasuposta prática do crime do art. 121, caput, do Código Penal, por conduta praticada em25/12/1998(e-STJ, fls. 3-5). In casu,entre a data do recebimento da denúncia, 13/04/1999 (e-STJ, fl. 34), e a data do julgamento em que pronunciado o ora recorrente, 27/05/2019 (e-STJ, fl. 243), se passaram mais de 20 anos.
+Considerando a pena máxima em abstrato prevista no preceito secundário danorma incriminadora (20 anos de reclusão), a prescrição se consuma em 20anos, na forma doart. 109, I, do CP. Destarte, decorridos mais de 20anos entre os marcos interruptivos acima destacados, encontra-seconsumado o prazo prescricional.
+Ante o exposto, declaro extinta apunibilidadepela prescrição da pretensão punitiva. Fica prejudicado o agravo regimental de fls. 522-527 (e-STJ).
+Publique-se. Intimem-se.
