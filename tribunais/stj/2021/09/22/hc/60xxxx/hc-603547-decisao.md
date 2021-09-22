@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDUARDO DA ROSA, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná .
+Colhe-se dos autos que o paciente cumpre pena de 14 anos e 03 meses de reclusão, em regime inicial fechado, pela prática dos delitos de homicídio qualificado e lesão corporal.
+No presente writ, o impetrante sustenta que foi preso preventivamente em 03.11.2014, sendo que em 18.02.2015 a prisão preventiva foi substituída por monitoração eletrônica, permanecendo com a medida até o julgamento no tribunal do júri, ocasião em que foi novamente decretada a sua prisão.
+Alega o impetrante que o paciente já cumpriu a fração necessária para obter o regime semiaberto, eis que desde o dia 03/11/2014 encontra-se sob monitoração.
+Ressalta que "com o advento da Súmula 716, bem como pelo entendimento doutrinário e jurisprudencial do STF, este preceitua que em se tratando de crime único (o que é o caso dos autos), bem como, que não exista falta grave na relação executória do apenado (não ostenta faltas em seu histórico), deve-se considerar a data da prisão preventiva como data base para a progressão de regime" (e-STJ, fl. 9)
+Afirma ser "imprescindível a necessidade de cômputo do tempo de segregação cautelar para fins de aquisição de progressão de regime e demais benefícios da execução, desde que não exista nenhuma condenação posterior por falta grave, não se podendo limitar o período de prisão provisória apenas ao efeito imediato da detração" (e-STJ, fl. 16)
+Pleiteia a concessão da ordem para que seja determinado a modificação da data-base constante no atestado de pena do paciente, adequando a mesma para a data da prisão preventiva do apenado, vez que desde esta data, sempre permaneceu preso mediante monitoração eletrônica ou preso preventivamente, qual seja, 03/11/2014.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Juízo de Primeiro grau assim se manifestou nas informações prestadas:
+"Este Juízo acolheu parcialmente o pedido, isto porque, o período de prisão domiciliar mediante monitoração eletrônica foi considerado como detração penal até a data em que o reeducando passou a descumprir as condições do regime. Neste sentido, o entendimento adotado foi que, por estar ausente do cumprimento da pena, não havia de considerar como período de pena cumprida. Quanto a data base, as alterações foram atendidas, tendo sido fixada a data da última prisão como data base para progressão de regime e o registro da primeira prisão como data base para fins de livramento condicional." (e-STJ, fl. 58)
+Colhe-se, ainda, do acórdão atacado (e-STJ, fl. 27):
+"Primeiramente, cumpre ressaltar que a hipótese vertente não trata de unificação de penas, ou seja, não há superveniência de nova guia de recolhimento de modo a suscitar a dúvida acerca do marco temporal para contagem de benefícios, porquanto Eduardo da Rosa ostenta única condenação correlata aos autos de processo criminal nº. 0016697-31.2013.8.16.0031.
+Por conseguinte, é lícito considerar que o início do cumprimento da pena definitiva em regime fechado se deu em 23.02.2018 (última prisão), decorrente da condenação pelo Tribunal do Júri e, consequentemente, este é o marco para a contagem de obtenção de benefícios em sede de execução penal.
+Vale dizer, a data-base somente poderia ser a data da primeira prisão cautelar (03.11.2014) se o segregado permanecesse nessa situação ininterruptamente. Caso contrário, se o apenado não seguiu custodiado permanentemente até o trânsito em julgado da condenação (tal como ocorre in casu), aplica-se tão somente a detração penal, prevista no art. 42 do Código Penal, não lhe acarretando assim prejuízo algum."
+Da análise detida dos autos, observa-se que em decisão do Juízo de primeiro grau foi desconsiderado o período de 31/10/2017 a 23/02/2018, como de efetivo cumprimento da pena, uma vez que o paciente teria por diversas vezes violado as regras da prisão domiciliar.
+Assim, ao contrário do que sustenta o impetrante, houve sim a interrupção do cumprimento da pena, não havendo qualquer ilegalidade a ser reconhecida na decisão que fixou como data-base para a obtenção de benefícios a data da última prisão.
+Assim, conclui-se que houve sim a interrupção do cumprimento da pena, motivo pelo qual tal período não pode mesmo ser considerado como pena efetivamente cumprida.
+Dessarte, como claramente demonstrado, não há falar em retificação do cálculo de liquidação de penas, como pretendido defensivamente.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
