@@ -1,0 +1,7 @@
+LEI Nº 8.461, DE 23 DE JUNHO DE 2021.
+
+INSTITUI A POLÍTICA ESTADUAL ANTIDROGAS, NO ÂMBITO DO ESTADO DE ALAGOAS, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS
+
+Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
