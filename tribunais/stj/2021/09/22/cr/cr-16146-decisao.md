@@ -1,0 +1,2 @@
+DECISÃO
+Considerando as informações prestadas pela Justiça Federal, Seção Judiciária do Rio Grande do Norte (fls. 86-87), dando conta da impossibilidade de intimação pela não localização da interessada no endereço indicadoe tendo em vista que a datada audiência já foi ultrapassada (15/9/2020),devolva-se a presente carta rogatória sem cumprimentoà Justiça rogantepor intermédio da autoridade central competente,nos termos do art. 216-X do Regimento Interno do Superior Tribunal de Justiça.
