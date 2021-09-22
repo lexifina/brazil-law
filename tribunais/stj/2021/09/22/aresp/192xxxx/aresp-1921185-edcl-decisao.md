@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por UNIÃO em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+ ..  deixou de ser observada nos presentes autos a determinação contida no acórdão proferido pela Corte Especial do TRF-1ª Região, às fls. e-STJ 263/267, qual seja, o sobrestamento do processo até o deslinde da controvérsia submetida ao Supremo Tribunal federal, na sistemática da Repercussão Geral, a partir do processo 0083295- 97.2015.4.01.3700.(fl. 280, e-STJ)
+ ..
+Posto isso, objetivando evitar tumulto processual, requer a UNIÃO o provimento dos presentes embargos de declaração para sanar o vício indicado, emprestando-lhes efeito modificativo, a fim de tornar sem efeito a decisão embargada e determinar a devolução dos autos ao TRF-1ª Região de modo a viabilizar que o processo tenha o seu regular trâmite, nos termos do quanto determinado no acórdão regional de fls. e-STJ 263/267.(fl. 281, e-STJ)
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Tendo em vista as razões lançadas pelo ora embargante em sua petição, acolho os embargos de declaração, para tornar sem efeito a decisão embargada e determino a devolução do presente feito ao Tribunal Regional Federal da 1ª Região.
+Publique-se. Intimem-se.
