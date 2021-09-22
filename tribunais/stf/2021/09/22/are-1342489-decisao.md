@@ -1,0 +1,32 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 3, p. 85):
+    “AGRAVO DE INSTRUMENTO - Execução fiscal IPTU
+    Exercício de 2005. Decisão que não conheceu de pedido de
+    suspensão de inscrição no CADIN. Agravante que não
+    figura no polo passivo. Decisão mantida. Recurso não
+    provido.”
+    No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 5º, II, XXXVI, LIV e LV, 30, I e II, 48, XIII, 150, IV, e 192 do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que (eDOC 4, p. 41):
+    “Inicialmente, oportuno ressaltar que há vício no título executivo, pois, não cumpre os requisitos legais de especificidade, cerceando o contribuinte do exercício do contraditório e da ampla defesa.
+    Ademais há a ilegitimidade passiva da Recorrente devido a existência alienação fiduciária, havendo por consequência nítida violação ao princípio da eficiência da administração pública, artigo 37, caput, CF, no ponto que a Municipalidade/Recorrida prejudica a continuidade da prestação de serviço inerente a atividade-fim do contribuinte.
+    A expressão jurídica destas circunstâncias é o Princípio da Segurança Jurídica, que informa obrigatoriamente a ordem constitucional vigente, sendo, nas palavras sempre pertinentes da MM. Juíza Lúcia Figueiredo, o “vetor dos vetores” (“in” Revista de Direito Tributário, Vol. 47, pg. 56, RT, São Paulo).”
+    É o relatório. Decido.
+    Inicialmente convém transcrever o assentado pelo Tribunal de origem no que diz respeito a situação específica dos autos (eDOC 3, p. 85-86):
+    “A decisão agravada foi tirada dos autos de execução fiscal ajuizada em face de Olímpia Comercial Imobiliária Ltda para cobrança de IPTU, exercício de 2005, incidente sobre imóvel situado na Rua Oagy Kalile nº 376, apto 11, contribuinte nº 170.109.0037-9.
+    Pelo que se depreende dos autos, referido débito foi inscrito no CADIN em nome do agravante, que, diante disso, ingressou na execução fiscal, requerendo suspensão da exigibilidade do crédito tributário, mediante realização de depósito judicial, a fim de obter certidão positiva com efeito de negativa.
+    Todavia, como o agravante é parte estranha ao processo, o pedido não foi conhecido pelo Juízo, que, ademais, autorizou o levantamento do valor depositado (fls. 172).
+    Dai o agravante requereu reconsideração da decisão supra, juntando cópia da matrícula do imóvel tributado para demonstrar sua legitimidade para figurar no polo passivo da execução (fls. 175), insistindo na suspensão da exigibilidade do crédito, bem como exclusão da inscrição no Cadin.
+    Contudo, a decisão foi mantida.
+    Daí o presente recurso que, contudo, não merece ser acolhido.
+    O agravante não figura no polo passivo da execução fiscal sendo, assim, descabida a pretensão deduzida pelo agravante.
+    Como bem destacado na decisão recorrida, “as falhas ou ilegalidades praticadas na esfera administrativa e que não se relacionam com esta pretensão executória direcionada apenas contra Olímpia Comercial e Imobiliária Ltda são matérias que não tem relação com estes autos”.”
+    Nesse contexto, para dissentir das razões consignadas pelo Tribunal a quo, no tocante ilegitimidade da recorrente para demandar nos autos, seria necessário o reexame do conjunto fático-probatório dos autos, bem como o exame da legislação infraconstitucional aplicável à espécie, providências inviáveis em sede de apelo extremo, em virtude da incidência da Súmula 279 do STF e da ausência de ofensa direta à Constituição Federal.
+    Nesse sentido, destaco as seguintes decisões:
+    “RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - IPTU. IMÓVEL EM ALIENAÇÃO FIDUCIÁRIA. LEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. LEI 9.514/1997, CÓDIGO TRIBUTÁRIO NACIONAL E CÓDIGO CIVIL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE REPERCUSSÃO GERAL.” (RE 1.320.059-RG, de relatoria do Min. Luiz Fux, Pleno, DJe 21.05.2021)
+    “Agravo regimental no agravo de instrumento. Direito Tributário. Direito Processual Civil. Execução fiscal. Ilegitimidade passiva. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas dos autos (Súmula nº 279/STF), bem como da legislação infraconstitucional. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1.236.014-AgR, de relatoria do Min. Dias Toffoli, Pleno, DJe 27.04.2020)
+    “DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CERTIDÃO DE DÍVIDA ATIVA. ILEGITIMIDADE PASSIVA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO MANEJADO EM 13.10.2015. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.” (ARE 916.772-AgR, de relatoria da Min. Rosa Weber, Primeira Turma, DJe 06.06.2016)
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do art. 932, IV, a e b, do Código de Processo Civil e art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de setembro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
