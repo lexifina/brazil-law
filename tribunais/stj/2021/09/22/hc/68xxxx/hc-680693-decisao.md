@@ -1,0 +1,15 @@
+DECISÃO
+RENAN MACIEL RAMOSalega sofrer coação ilegal em face de acórdão do Tribunal de Justiça a quo (Agravo de Execução Penal n. 0000325-66.2021.8.26.0154).
+A impetrante assinalaque o paciente não é reincidente específico em crime hediondo ou a outro, a ele equiparado. Assim, requer a aplicação retroativa do art. 112, IV, da LEP e acorreçãodo cálculo de suas penas para fins de progressão de regime.
+Deferida a liminar, os autos foram encaminhados ao Ministério Público Federal, que opinou pela denegaçãoda ordem.
+Decido.
+O writ comporta pronta solução, pois existe entendimento consolidado sobre o tema no âmbito deste Superior Tribunal.
+O paciente cumpre 24 anos, 10 meses e 4 dias de reclusão, em regime fechado, pela práticade tráfico de drogas, furto qualificado, receptação eposse ilegal de arma de fogo de uso permitido, com previsão para o término da execuçãoem 3/4/2042. É reincidente em crimes dolosos, um dos quais de natureza equiparada a hedionda.
+No dia 26/5/2021, a Terceira Seção, ao julgar os Recursos Especiais Repetitivos n. 1.910.240/MG e 1.918.338/MT, ainda pendentes de publicação, fixou a tese jurídica, para os fins previstos no art. 1.036 do Código de Processo Civil, de que: É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante.
+Após as alterações do art. 112 da LEP promovidas pela Lei n. 13.964/2019, criou-se uma lacuna jurídica sobre a progressão de regime aos apenados reincidentes, condenados por crimes hediondo (ou outro a ele equiparado) e comum.
+Nas disposições sobre a execução das sanções criminais, o julgador deve recorrer à analogia in bonam partem para a integração normativa, observados, ainda, o princípio da legalidade e a retroatividade da lei penal mais benéfica.
+Como na atual redação do art. 112, VII, da LEP, existe uma clara restrição, porquanto a palavra "reincidente" está acompanhada da expressão "na prática de crime hediondo ou equiparado", a exigência de 60% do cumprimento da pena refere-se somente ao reincidente na prática dessa natureza de delito e não é possível corrigir o erro do legislador para interpretar a norma em prejuízo do sentenciado.
+Por isso, após a revogação do art. 2º, § 2º, da Lei 8.072/1990, em situação de reincidência genérica, os ilícitos têm de ser considerados isoladamente, cada qual de acordo com sua natureza, com a possibilidade de aplicação retroativa do art. 112, V, da LEP ao hediondo ou equiparado se não caracterizada a reincidência específica.
+Impõe-sea observância ao princípio da retroatividade da lei penal benéfica.
+À vista do exposto,concedo o habeas corpus, para determinar a retificação dos cálculos penais do paciente, a fim de que constecomo percentual necessário para aprogressão de regimeem relação ao crime hediondo ou a outro, a ele equiparado, sem resultado morte, a exigência do cumprimento de 40% da pena se não caracterizada a reincidência específica.
+Publique-se e intimem-se.
