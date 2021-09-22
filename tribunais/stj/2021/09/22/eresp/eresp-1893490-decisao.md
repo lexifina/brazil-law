@@ -1,0 +1,14 @@
+DECISÃO
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA  EM  RECURSO  ESPECIAL.  PIS/COFINS.  TRIBUTAÇÃO  PELO  SISTEMA  MONOFÁSICO.  APROVEITAMENTO  DE  CRÉDITOS.  DIVERGÊNCIA,  A  PRINCÍPIO,  DEMONSTRADA.  EMBARGOS  DE  DIVERGÊNCIA  DA  EMPRESA  ADMITIDOS.
+1.  Trata-se  de  Embargos  de  Divergência  interpostos  por  MELLO  &  FILHOS  LTDA.  contra  acórdão  proferido  pela  Segunda  Turma  deste  STJ,  da  relatoria  do  eminente  Ministro  HERMAN  BENJAMIN  com  a  seguinte  ementa:
+TRIBUTÁRIO.  RECURSO  ESPECIAL.  PIS  E  COFINS.  ART.  17  DA  LEI  11.033/2004.  REGIME  MONOFÁSICO.  CREDITAMENTO.  IMPOSSIBILIDADE.
+1.  Conforme  assentado  na  decisão  monocrática,  cinge-se  a  controvérsia  à  possibilidade  de  deduzir  créditos  do  PIS  e  da  Cofins  das  mercadorias  adquiridas  com  alíquota  zero  dessas  contribuições,  em  razão  do  regime  monofásico  de  tributação.
+2.  O  Tribunal  a  quo,  ao  analisar  a  controvérsia,  consignou:  "não  tem  a  parte  impetrante  o  direito  a  crédito,  no  âmbito  do  regime  não-cumulativo  do  PIS  e  da  COFINS,  pela  aquisição  de  mercadorias  para  revenda  quando  vinculadas  a  receitas  não-tributadas,  considerada  a  incidência  de  alíquota  zero"  (fl.  1.380,  e-STJ).
+3.  Tal  entendimento  está  de  acordo  com  o  que  se  encontra  pacificado  na  jurisprudência  da  Segunda  Turma  do  STJ,  segundo  a  qual  o  regime  de  tributação  monofásica  é  incompatível  com  o  direito  ao  creditamento  das  contribuições  ao  PIS  e  da  Cofins.  Nesse  sentido:  AgInt  no  REsp  1.830.121/RN,  Relatora  Ministra  Assusete  Magalhães,  Segunda  Turma,  DJe  12/5/2020;  AgInt  no  REsp  1.743.909/RJ,  Rel.  Ministro  Og  Fernandes,  Segunda  Turma,  DJe  22/10/2019;  REsp  1.806.338/MG,  Rel.
+Ministro  Herman  Benjamin,  Segunda  Turma,  DJe  11/10/2019;  AgInt  no  AREsp  1.218.476/MA,  Rel.  Ministro  Francisco  Falcão,  Segunda  Turma,  DJe  de  28/5/2018.
+4.  Agravo  Interno  não  provido  (fls.  1.592).
+2.  Inconformada,  a  recorrente  sustenta  que  a  Primeira  Turma  desta  Corte  entende  que  a  manutenção  dos  créditos  de  PIS/COFINS  prevista  no  art.  17  da  Lei  11.033/2004  se  aplica  a  todas  as  pessoas  jurídicas,  independente  de  elas  estarem  ou  não  submetidas  ao  regime  tributário  do  REPORTO  e  ao  sistema  monofásico  de  recolhimento  dessas  contribuições.
+3.  É  o  relatório.
+4.  À  primeira  vista,  encontra-se  caracterizada  a  alegada  divergência,  motivo  pelo  qual,  cumpridas  as  formalidades  previstas  no  art.  266,  §  1º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  admitem-se  os  presentes  Embargos  de  Divergência  da  Empresa.
+5.  Abra-se  vista  à  parte  embargada  para  a  apresentação  de  impugnação,  no  prazo  de  15  (quinze)  dias,  nos  termos  do  art.  267  do  RISTJ.
+6.  Publique-se.  Intimações  necessárias.
