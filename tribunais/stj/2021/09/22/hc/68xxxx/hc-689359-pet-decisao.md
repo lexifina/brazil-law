@@ -1,0 +1,5 @@
+DECISÃO
+Indefiro, mais uma vez, o pedido de processamento do habeas corpus.
+O requerente não juntou acórdão do Tribunal de Justiça do Distrito Federal e dos Territóriosque tenha denegado, previamente, em única ou última instância, o pedido de correção de cálculos da progressão de regime, com o exame de eventualaplicaçãoretroativa da Lei n. 13.964/2019. Nos termos do art. 105, da CF, nãose verifica a inauguração da competência desta Corte para julgar o remédio constitucional. Ademais, o Superior Tribunal de Justiça não tem atribuição para, em primeiro lugar, decidirincidentes da execução ou aplicar aos condenados lei posterior que de qualquer modo os favoreça, devendo ser observada a regra de repartição da jurisdição estabelecida no art. 66, da LEP.
+Publique-se. Intimem-se.
+Certifique a Coordenadoria o trânsito em julgado da decisão de fls. 13/14, com as providências posteriores de praxe, uma vez que as petições de fls. 18-20 e 31-90 não interromperam o prazo legal para interposição de agravo regimental.
