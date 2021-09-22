@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental, determinando que, publicado o acórdão exarado no presente julgamento, certifique-se o trânsito em julgado da decisão exarada às fls. 2.191/2.210, efetivando, na sequência, a baixa dos autos ao Tribunal de origem, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. DISPOSIÇÃO ESPECÍFICA NO CPPREGULANDO A CONTAGEM DO PRAZO EM MATÉRIA PENAL (ART. 798 DO CPP). PRECEDENTES DO STJ E DO PLENÁRIO DO STF. RECESSO FORENTE LOCAL. CIRCUNSTÂNCIA APTA A OBSTAR O INÍCIO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. IMPOSSIBILIDADE DE COMPROVAÇÃO SUBSEQUENTE. PRECEDENTE DA CORTE ESPECIAL. DECISÃO AGRAVADA MANTIDA. INTEMPESTIVIDADE DOS RECURSOS SUBSEQUENTES, INCLUSIVE DO PRESENTE. TRÂNSITO EM JULGADO DA DECISÃO DE INADMISSÃO. BAIXA IMEDIATA DOS AUTOS APÓS A PUBLICAÇÃO DO ACÓRDÃO.
+Agravo regimental não conhecido, com determinaçãode queque, publicado o acórdão exarado no presente julgamento, certifique-se o trânsito em julgado da decisão exarada às fls. 2.191/2.210, efetivando, na sequência, a baixa dos autos ao Tribunal de origem.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Antônio Carlos de Sousa Filhocontra a decisão de fls. 2.478/2.480, proferida pela Presidência desta Corte, que não conheceu do agravo em recurso especial por eleinterposto, em razão da sua intempestividade, uma vez que aparte recorrente foi intimada da decisão agravada em 21/12/2020, sendo o agravo somente interposto em 20/01/2021 (fl. 2.479).
+Nas razões do presente regimental, oagravanteargumentaque a defesa fora intimada após o início do recesso forense, o qual iniciou em 20/12/2020, conforme determinado pelo art. 220 do CPC(fl. 2.491) e que, considerando que a defesa fora intimada em 21/12/2020, ou seja, após o início da suspensão dos prazos, o início da contagem para a interposição do recurso se deu em 06/01/2021(idem). No mais, segue pleiteando a nulidade da sentença e, subsidiariamente, a fixação da pena-base no mínimo legal.
+O Ministério Público Federal emitiu parecer opinando pelo desprovimento do recurso (fls. 2.577/2.582).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. DISPOSIÇÃO ESPECÍFICA NO CPPREGULANDO A CONTAGEM DO PRAZO EM MATÉRIA PENAL (ART. 798 DO CPP). PRECEDENTES DO STJ E DO PLENÁRIO DO STF. RECESSO FORENTE LOCAL. CIRCUNSTÂNCIA APTA A OBSTAR O INÍCIO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. IMPOSSIBILIDADE DE COMPROVAÇÃO SUBSEQUENTE. PRECEDENTE DA CORTE ESPECIAL. DECISÃO AGRAVADA MANTIDA. INTEMPESTIVIDADE DOS RECURSOS SUBSEQUENTES, INCLUSIVE DO PRESENTE. TRÂNSITO EM JULGADO DA DECISÃO DE INADMISSÃO. BAIXA IMEDIATA DOS AUTOS APÓS A PUBLICAÇÃO DO ACÓRDÃO.
+Agravo regimental não conhecido, com determinaçãode queque, publicado o acórdão exarado no presente julgamento, certifique-se o trânsito em julgado da decisão exarada às fls. 2.191/2.210, efetivando, na sequência, a baixa dos autos ao Tribunal de origem.
+VOTO
+A decisão deve ser mantida.
+Ao contrário do que alegaoagravante, o agravo em recurso especial é manifestamente intempestivo, porquanto interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Ora, a defesafoi intimada da decisão de inadmissão em 21/12/2020, sendo o agravo somente interposto em 20/1/2021.
+Cumpre observar que a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, sendo, inclusive, indiferente a condição do réu (se preso ou solto), visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade (AgRg no AREsp n. 1.070.415/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/5/2017).
+Além disso, em consonância com o regramento do art. 798, caput e § 3º do Código de Processo Penal, no sentido de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado, o recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão (AgRg no Inq n. 1.105/DF, Ministro Herman Benjamim, Corte Especial, DJe de 19/4/2017).
+No mesmo sentido, destaco os seguintes precedentes do Plenário do Supremo Tribunal Federal:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. PROCESSO PENAL. INTEMPESTIVIDADE. FORMA DE CONTAGEM ESPECÍFICA DE PRAZO PREVISTA NO ARTIGO 798 DO CPP. AGRAVO INTERNO DESPROVIDO.
+1. O recurso em matéria penal sujeita-se à regra prevista no artigo 798 do Código de Processo Penal, de sorte que "todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado". Precedentes: ARE 1.086.135-AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 23/1/2018; ARE 1.160.336, Primeira Turma, Rel. Min. Luiz Fux, DJe de 30/11/2018; ARE 1.166.043-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 10/12/2018.
+2. Agravo interno DESPROVIDO.
+(AgR no ARE n. 1.293.179, Ministro Luiz Fux, Tribunal Pleno, DJe 4/2/2021 - grifo nosso)
+ ..
+4. Os prazos processuais penais são contínuos - art. 798 do CPP. Disposição não revogada pelo CPC.
+5. Ações e recursos regidos pela legislação processual civil, empregados em matéria criminal. Contagem de prazos na forma da legislação processual penal.
+6. Agravo regimental. Decurso do prazo recursal (RISTF, art. 317). Intempestividade. Art. 798, caput e § 5º, alínea a, do CPP.
+7. Agravo regimental não conhecido.
+(AgR no ARE n. 988.549 Ministro Gilmar Mendes, Tribunal Pleno, DJe 30/7/2020)
+No caso, a defesa não comprovou a existência de recesso forense local no ato da interposição do recurso, circunstância que, caso comprovada oportunamente, seria apta a obstar o início da fluência do prazo recursal, sendo descabida comprovação subsequente, nos termos da orientação consolidada nesta Corte, inclusive em precedente da Corte Especial:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. COMPROVAÇÃO POSTERIOR DE FERIADO LOCAL. MATÉRIA PACIFICADA PELA CORTE ESPECIAL. SÚMULA 168 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte Especial, por ocasião do julgamento do Agint no AREsp 1.481.810/SP, em sessão realizada em 19/5/2021 - acórdão pendente de publicação -, tornou pacífica a aplicação do entendimento fixado no julgamento do REsp n 1.813.684-SP, no sentido de que a falta de comprovação prévia da tempestividade do recurso, em razão de todo e qualquer feriado ou recesso forense local, configura vício insanável, de modo que não pode ser feita posteriormente no agravo interno, à exceção do feriado da segunda-feira de carnaval, no caso de recursos interpostos até 18/11/2019, consoante decidido na Questão de Ordem no REsp 1.813.684-SP.
+2. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.375.252/TO, Ministro Luiz Felipe Salomão, Corte Especial, DJe 29/6/2021)
+Logo, o recurso efetivamente é intempestivo.
+Diante da intempestividade do agravo em recurso especial, verifica-se, ainda, que não ocorreu a interrupção do prazo recursal para eventuais recursos subsequentes, inclusive o presente (agravo regimental), circunstância que firma o trânsito em julgado da decisão de inadmissão.
+Nesse sentido, destaco que (grifo nosso):
+ ..
+2. Nos termos da jurisprudência do STJ, o recurso intempestivo não possui o condão de suspender ou interromper o prazo para interposição de outro recurso, razão pela qual a decisão que atesta sua intempestividade não é apta a postergar o termo final do trânsito em julgado, que ocorre imediatamente no dia seguinte após expirado o prazo para interposição do recurso intempestivo
+(AgRg no AgRg no RE nos EDcl no AgRg nos EAREsp n. 822.343/MG, Ministro Humberto Martins, Corte Especial, DJe 22/8/2018).
+ ..
+Em face do exposto, não conheço do agravo regimental, determinando que, publicado o acórdão exarado no presente julgamento, certifique-se o trânsito em julgado da decisão exarada às fls. 2.191/2.210, efetivando, na sequência, a baixa dos autos ao Tribunal de origem.
