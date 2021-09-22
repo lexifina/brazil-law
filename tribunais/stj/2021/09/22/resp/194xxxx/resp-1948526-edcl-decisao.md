@@ -1,0 +1,27 @@
+DECISÃO
+ALVENIRA CAMARGO DE CAMARGO (ALVENIRA) ajuizou ação de indenização por perdas e danos materiais cumulada com danos morais em desfavor de FRIMESA COOPERATIVA CENTRAL (FRIMESA).
+A sentença julgou parcialmente procedentes os pedidos iniciais, paracondenar FRIMESAao pagamento de indenização no valor de R$ 16.544,00 (dezesseis milquinhentos e quarenta e quatro reais) a título de dano material, devidamente corrigido pela média entre o INPC e IGP-DI e com juros de mora de 1% (um por cento) ao mês desde o evento danoso(e-STJ fls. 171/177).
+Irresignada,FRIMESA manejou apelação, que foi desprovidapelo Tribunal de Justiça do Paraná, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FURTO DE VEÍCULO EM ESTACIONAMENTO DE EMPRESA DISPONIBILIZADO A SEUS EMPREGADOS. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS INICIAIS.
+1. RESPONSABILIDADE CIVIL. FURTO DE VEÍCULO EM ESTACIONAMENTO OFERECIDO POR EMPRESA A SEUS EMPREGADOS E TERCEIROS. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 130, DO STJ. ALEGAÇÃO DA APELANTE/RÉ DE QUE NÃO RESTOU COMPROVADA A OCORRÊNCIA E O LOCAL DO SINISTRO. REJEIÇÃO. CONJUNTO PROBATÓRIO CAPAZ DE CORROBORAR COM A NARRATIVA INICIAL. BOLETIM DE OCORRÊNCIA E RELATOS DE TESTEMUNHAS. ELEMENTOS DE PROVA SUFICIENTES. APLICAÇÃO DA TEORIA DA REDUÇÃO DO MÓDULO DA PROVA. PRECEDENTES DESTA CORTE. PARTE RÉ, ADEMAIS, QUE NÃO SE DESINCUMBIU DO ÔNUS QUE LHE COMPETIA (ART. 373, II, DO CPC/15). ALEGAÇÃO DE INOCORRÊNCIA DE ATO ILÍCITO. NÃO ACOLHIMENTO. ESTACIONAMENTO DELIMITADO POR CERCAS. EXISTÊNCIA DE CANCELA E CÂMERAS DE SEGURANÇA. APARÊNCIA E EXPECTATIVA DE QUE SE TRATAVA DE LOCAL SEGURO. EMPRESA QUE ASSUMIU A OBRIGAÇÃO DE VIGILÂNCIA E GUARDA SOBRE OS VEÍCULOS. CULPA . DEVER DE INDENIZARIN VIGILANDOCARACTERIZADO. SENTENÇA CORRETAMENTE LANÇADA E MANTIDA.
+2. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. POSSIBILIDADE DE FIXAÇÃO, NOS TERMOS DO ARTIGO 85, § 11, DO CPC/2015.
+RECURSO DE APELAÇÃO CÍVEL CONHECIDO E NÃO PROVIDO(e-STJ, fls. 219/220).
+Os embargos de declaração interpostos por FRIMESA foram conhecidos em parte e, nesta extensão, rejeitados (e-STJ fls. 243/248).
+Inconformada, FRIMESA manifestou recurso especial, com fundamento no art. 105, III,aec, da CF, alegando(1)violação dos arts. 62 e 64, § 1º, do NCPC, por reputar absolutamente nula a competência da Justiça Estadual para processar e julgar ação derivada de relação laboral, haja vista que, apesar de a autora-recorrida ser mãe do empregado, o furto do veículo daquela ocorreu no local de trabalho deste; e(2)dissídio jurisprudencial, tendo porparadigma precedente desta Corte Superior quanto à alegada presunçãoiuris tantumconferida ao boletim de ocorrência, que seria um documento que veicula apenas a versão do declarante, além da suposta inversão do ônus probatório.
+As contrarrazões foram apresentadas (e-STJ, fls. 295/301).
+Em juízo de admissibilidade, a primeira vice-presidênciado Tribunal paranaense admitiu o apelo nobre (e-STJ, fls. 302/304).
+Em decisão monocrática de minha lavra, foi conhecido em parte o recurso especial e, nessa extensão, desprovido nos termos da seguinte ementa:
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS MATERIAIS CUMULADA COM DANOS MORAIS.(1)PRETENSÃO DE RECONHECIMENTO DE INCOMPETÊNCIA. AUSÊNCIA DE EXAME DA MATÉRIA PELO ARESTO RECORRIDO. PREQUESTIONAMENTO. NÃO CONFIGURADO. SÚMULAS NºS 282 E 356 DO STF E 211 DO STJ.(2)ÔNUS DA PROVA. DEMONSTRAÇÃO DO FATO CONSTITUTIVO DO DIREITO DO AUTOR. REVISÃO. ÓBICE.REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. FURTO DE VEÍCULO NO INTERIOR DE ESTACIONAMENTO INTERNO DA EMPREGADORA. RESPONSABILIDADE. NEGATIVA DE CONFIGURAÇÃO DECAUSA DE EXCLUSÃO. MANUTENÇÃO DO NEXO CAUSAL. DEVER DE REPARAR O DANO MATERIAL. PRECEDENTES.RECURSO ESPECIAL CONHECIDO EM PARTE E, NESTA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 316).
+Nas razões dos presentes embargos de declaração, FRIMESA afirmou que o julgado embargado foi omisso quanto a possibilidade de alegação a qualquer tempo de matéria de ordem pública, como é a incompetência absoluta, sob o argumento de ausência de pré-questionamento(e-STJ, fls. 324/330).
+A impugnação não foi apresentada (e-STJ, fl. 333).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço dos embargos de declaração como agravo interno, nos termos do art. 1.024, § 3º, do NCPC, tendo em conta o nítido propósito modificativo externado pelas razões de e-STJ, fls. 324/330.
+Intimem-se FRIMESA para, no prazo de 5 (cinco) dias, complementar as razões recursais, demodo a ajustá-las àsexigências do art. 1.021, § 1º, do NCPC.
+Com a complementação, dê-se vista à ALVENIRApara se manifestarsobre o recurso no prazo de 15 (quinze) dias.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.RECEBIMENTO DO RECURSO INTEGRATIVO COMO AGRAVO INTERNO. NECESSIDADE DE COMPLEMENTAÇÃODAS RAZÕES RECURSAIS. INTIMAÇÃO DO RECORRENTE NOS TERMOS DO ART. 1.024, § 3º, DO NCPC.
