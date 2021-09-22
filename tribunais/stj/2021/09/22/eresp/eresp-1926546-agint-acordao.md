@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SOBRE-ESTADIA DE CONTÊINER. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITOU O PEDIDO DE EXTINÇÃO EM RAZÃO DA APROVAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL DA EMPRESA DEVEDORA. CRÉDITO NÃO INCLUÍDO NO QUADRO GERAL DE CREDORES. OPÇÃO PELA HABILITAÇÃO RETARDATÁRIA OU PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL APÓS TÉRMINO DA RECUPERAÇÃO.
+1. Ação de cobrança de sobre-estadia de contêiner, em fase de cumprimento de sentença, no bojo do qual foi proferida decisão rejeitando o pedido de extinção em razão da aprovação do plano de recuperação judicial da empresa devedora.
+2. Nas hipóteses em que o crédito se submete aos efeitos da recuperação judicial, o credor não incluído no quadro geral de credores pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual de seu crédito. Precedentes.
+3. Agravo interno no recurso especial não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por LAGROTTA AZZURRA INDUSTRIA E COMERCIO DE CONFECCOES LTDA contra decisão unipessoal que conheceu parcialmente do recurso especial que interpusera e, nessa parte, deu-lhe provimento, pelo seguinte fundamento: possibilidade de opção pelo credor não incluído no quadro geral de credores (utilizar habilitação retardatária ou aguardar término da recuperação para prosseguir com execução individual).
+Ação: cobrança de sobre-estadia de contêiner, em fase de cumprimento de sentença, ajuizada por RANUR AGENCIAMENTO DE CARGAS E TRANSPORTES LTDA, em face da agravante.
+Decisão interlocutória: rejeitou o pedido de extinção em razão da aprovação do plano de recuperação judicial da agravante.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+CUMPRIMENTO DE SENTENÇA. Ação de cobrança de sobre-estadia de contêiner.Executada que se encontra em processo de recuperação judicial que de há muito teve seu processamento deferido. Prazo de 180 dias a que se refere o art. 6º da Lei nº 11.101/2005 (Lei de Recuperação e Falências). Decurso que, no caso, implica em prosseguimento das demandas contra a recuperanda nos respectivos juízos de propositura, consoante art. 52, III e § 3º, da LRF. Crédito executado que não foi incluído no plano de recuperação da empresa devedora. Credora não submetida às condições do plano homologado. Prosseguimento do cumprimento de rigor.Recurso não provido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados, com aplicação de multa.
+Recurso especial: alega violação dos arts. 1.022 e 1.026, §2º, do CPC/15, e 6º, 49, caput, e 59 da Lei 11.101/2005, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i) todos os fatos geradores que resultaram na condenação em verbas de sucumbência são anteriores ao pedido de recuperação judicial, estando o crédito sujeito aos seus efeitos; ii) o escoamento do prazo de suspensão de 180 dias ou a ausência do crédito na relação de credores pouco ou nada importam para aferir a sua sujeição aos efeitos do plano de recuperação judicial; iii) a habilitação retardatária é possível até que seja homologado o quadro geral de credores, o que ainda não ocorreu; iv) a execução deve ser extinta em virtude da novação decorrente da Lei 11.101/2005. Insurge-se, ainda, contra a multa por embargos protelatórios.
+Decisão monocrática:conheceu parcialmente do recurso especial e, nessa extensão, deu-lhe provimento.
+Agravo interno:em suas razões, a agravante afirma que o crédito oriundo de fato anterior à recuperação judicial deve sujeitar-se aos seus efeitos (inclusive ao efeito da novação decorrente da aprovação e homologação do plano), de modo que é dever do credor habilitá-lo, impondo-se a extinção da execução, em decorrência da novação do crédito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SOBRE-ESTADIA DE CONTÊINER. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITOU O PEDIDO DE EXTINÇÃO EM RAZÃO DA APROVAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL DA EMPRESA DEVEDORA. CRÉDITO NÃO INCLUÍDO NO QUADRO GERAL DE CREDORES. OPÇÃO PELA HABILITAÇÃO RETARDATÁRIA OU PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL APÓS TÉRMINO DA RECUPERAÇÃO.
+1. Ação de cobrança de sobre-estadia de contêiner, em fase de cumprimento de sentença, no bojo do qual foi proferida decisão rejeitando o pedido de extinção em razão da aprovação do plano de recuperação judicial da empresa devedora.
+2. Nas hipóteses em que o crédito se submete aos efeitos da recuperação judicial, o credor não incluído no quadro geral de credores pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual de seu crédito. Precedentes.
+3. Agravo interno no recurso especial não provido.
+VOTO
+A decisão agravada conheceu parcialmente do recurso especial e, nessa parte, deu-lhe provimento, ante apossibilidade de opção pelo credor não incluído no quadro geral de credores (utilizar habilitação retardatária ou aguardar término da recuperação para prosseguir com execução individual).
+Julgamento:CPC/2015.
+1. Da execução de crédito não incluído no Quadro Geral de Credores em recuperação judicial
+O TJ/SP decidiu que, como a devedora não foi incluída na relação de credores, o crédito em execução não foi novado e pode continuar a ser cobrado individualmente. Entretanto, de fato, a conclusão do Tribunal de origem está dissonante do entendimento do STJ no sentido de que, nas hipóteses em que o crédito se submete aos efeitos da recuperação judicial, o credor não incluído no quadro geral de credores pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual de seu crédito (AgInt no REsp 1.873.390/RS, 4ª Turma, DJe de 4/6/2021; e REsp 1.571.107/DF, 3ª Turma, DJe de 3/2/2017).
+Portanto, ressalta-se que o prosseguimento da execução individual do crédito deve aguardar o término da recuperação.
+Assim, a decisão monocrática não merece reforma, porquanto a agravante não comprovou a existência de distinção com os precedentes citados.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
