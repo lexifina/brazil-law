@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. SÚMULA N. 83/STJ. CONTRADITA. AGRAVO DESPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a contradita deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Andre Rauen Abage e outros contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, em virtude da não impugnação específica da Súmula n. 83 do Superior Tribunal de Justiça.
+Em suas razões, os agravantes asseveram que refutaram devidamente a incidência do óbice sumular, tendo em conta que demonstraram que: i) houve usurpação de competência do Vice-Presidente do Tribunal de Justiça do Paraná; ii) a jurisprudência desta Corte Superior não está em consonância com o acórdão recorrido, e sim com a pretensão dos agravantes; e iii) o recurso especial se funda também na ofensa à legislação federal.
+Impugnação às fls. 219-223 (e-STJ),
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. SÚMULA N. 83/STJ. CONTRADITA. AGRAVO DESPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a contradita deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Com efeito, é dever da parte agravante combater especificamente todos os fundamentos da decisão agravada, demonstrando o desacerto do julgado que não admitiu o recurso especial, nos termos do que preconiza o art. 932, III, do Código de Processo Civil de 2015.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. AGRAVO REGIMENTAL TEMPESTIVO. PROCESSUAL CIVIL. ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. ART. 544, § 4º, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. 1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, inciso I, do CPC). 2. Embargos declaratórios acolhidos para, afastada a intempestividade do agravo regimental, negar-lhe provimento. (EDcl no AgRg no AREsp n. 213.509/SP, Relator o Ministro Ricardo Villas Bôas Cueva, DJe de 11/9/2014)
+A propósito, o referido entendimento foi confirmado pela Corte Especial do STJ no julgamento dos Embargos de Divergência no Agravo em Recurso Especial n. 746.775/PR.
+Confira-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade d recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, Relator o Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe 30/11/2018)
+No caso, constata-se que, de fato, os agravantes, nas razões do agravo em recurso especial, limitaram-se a impugnar de modo genérico a incidência da Súmula n. 83/STJ.
+Nessas circunstâncias, como os agravantes não se desincumbiram do ônus de impugnar devidamente o óbice sumular em sua insurgência, tem-se que é inadmissível o agravo em recurso especial interposto, não podendo ser apreciado por este Superior Tribunal.
+Outrossim, repisa-se que, encontrando-se a decisão estadual em consonância com a jurisprudência deste Tribunal, inarredável a aplicação da Súmula 83/STJ, a obstar a análise do reclamo por ambas as alíneas do permissivo constitucional.
+Cumpre ressaltar, por fim, que, quando o inconformismo excepcional não é admitido com fundamento no enunciado da Súmula n. 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não se verifica no presente caso.
+Vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou nenhuma das razões da decisão agravada, pois não refutou, de forma fundamentada, a aplicação das Súmulas nºs 284 do STF e 83 do STJ, ao caso. Incidência da Súmula nº 182 do STJ.
+3. Na hipótese em que se pretende impugnar a incidência da Súmula nº 83 do STJ, deveria a parte agravante demonstrar que os precedentes indicados na decisão agravada não se aplicavam ao caso, ou então trazer precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual, o que deixou de fazer.
+4. Agravo interno não conhecido.
+(AgInt no AREsp 885.406/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/03/2018, DJe 03/04/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - PRESCRIÇÃO - TERMO INICIAL - ENTRADA EM VIGOR DO NOVO CÓDIGO CIVIL - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. "É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula 182/STJ). Inteligência, outrossim, do disposto no artigo 1.021, § 1º, do NCPC.
+2. "Quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte. (Cf. AgRg nos EDcl no REsp 1494189/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/02/2016, DJe 03/03/2016)
+3. Agravo interno não conhecido.
+(AgInt no AREsp 816.995/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
