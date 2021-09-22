@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por Otavio César Carneiro Pirescontra a decisão que inadmitiu o recurso especial fundando no art. 105, III, a, da Constituição Federal.
+Na origem, foi ajuizada ação de execução de sentença objetivando o pagamento de parcelas vincendas oriundas do título judicial da ação coletiva ajuizadapelo Sindicato dos escrivães, inspetores e investigadores de Polícia - UGEIRM, compreendidas entre o período do trânsito em julgado até a data da apresentação do ofício, em13/5/2005 a 17/3/2006.
+A sentença julgou extinto o processo, sob o fundamento de que os créditos pleiteados deveriam ter sido cobrados em conjunto com as parcelas vencidas para evitar o fracionamento.
+Deu-se à causa o valor de R$ 29.236,69(vinte e nove mil duzentos e trinta e seis reais e sessenta e nove centavos) em junho de 2015.
+O Tribunal de Justiça do Estado do Rio Grande do Sulnegou provimento ao recurso,em acórdão assim ementado (fl. 141):
+APELAÇÃO CÍVEL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. NOVA EXECUÇÃO COM BASE EM TITULO JUDICIAL QUE FOI OBJETO DE EXECUÇÃO ANTERIOR. FRACIONAMENTO. IMPOSSIBILIDADE.
+1. Oapelante ajuizou ação de execução de sentença em face do Estado apelado, com base na sentença proferida na ação coletiva, na qual o Estado réu foi condenado ao pagamento dos percentuais previstos na Lei Estadual 10.395/95.
+2. Na presente ação, o recorrente visa a recebimento dos valores referentes a diferença havida entre a data do trânsito em julgado da ação de conhecimento e a data da efetiva implementação do reajuste. Tal pretensão não pode ser aceita, porquanto o crédito ora reclamado pelo exequente está embasado no mesmo título executivo já executado pelo mesmo, sendo vedado o fracionamento do crédito, conforme dispõe o art.100, § 8º da CF/88. Precedentes.
+NEGARAM PROVIMENTO AO APELO.
+Opostos embargos de declaração, foram estes rejeitados.
+No presente recurso especial, orecorrenteapontaviolação dosarts.489e 1022 do CPC/2015, aduzindo negativa de prestação jurisdicional por parte do Tribunal a quo ao não enfrentar o art.884 do CC/2002e autorizar o enriquecimento sem causa por parte do Ente Público.
+Sustenta ainda violação do art. 884 do CC/2002, ao argumento de quea cobrança das parcelas não incluídas no cálculo que deu origem ao precatório não ocorreu na primeira execução em decorrência de erro material, não atingido pela preclusão.
+Após decisão que inadmitiu o recurso especial, foi interposto o presente agravo, tendo orecorrenteapresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que oagravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrouimpugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+De início,da análise do acórdão, no que tange à indicada violação dos arts. 489e 1022do CPC/2015, não se vislumbra a alegação de que o acórdão recorrido não se manifestou acerca de pontos tidos como essenciais para o julgamento da lide.
+De acordo com a orientação do Superior Tribunal de Justiça, os embargos de declaração destinam-se a suprir eventual omissão, obscuridade ou contradição, não tendo o Órgão Julgador a obrigação de se manifestar expressamente acerca de todos as disposições legais que a parte entenda ser aplicáveis, devendo, é claro, motivar suas decisões, de maneira fundamentada.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DA SÚMULA 106/STJ. REEXAME PROBATÓRIO. SÚMULA 7/STJ. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA.
+1. Os embargos declaratórios, nos termos do art. 1.022, e seus incisos, do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) o erro material. No caso dos autos, tais hipóteses não estão presentes.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia de maneira sólida e fundamentada, tal qual se constata no caso concreto.
+3. A análise da tese recursal que busca afastar a aplicação da Súmula 106/STJ demanda incursão na seara probatória, o que não é cabível na via especial. Incidência da Súmula 7/STJ.
+4. Esta Corte Superior possui entendimento de que a existência de penhora no rosto dos autos do processo falimentar impõe à Fazenda Pública a paralisação do executivo fiscal até que se verifique a possibilidade de satisfação do crédito, sem que essa paralisação seja imputada à inércia do ente público.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 600.416/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017.)
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação doembargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+No mais, no que tange a alegação de negativa de vigência do art.884 do CC/2002,verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais citados, mesmo após a oposição de embargos de declaração apontando a suposta omissão.
+Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a , do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, na parte conhecida, negar-lhe provimento.
+Aplica-se o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), pelo que, majoro em um ponto o percentual já fixado, respeitado os limites legais, relativo aos honorários advocatícios, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso.
+Publique-se. Intimem-se.
