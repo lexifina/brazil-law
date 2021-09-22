@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo de CARLOS ABIB CURY E OUTROS, com o qual objetivaadmissão de recurso especialinterposto contra acórdão doTJSP assim ementado:
+AGRAVO INTERNO em AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL Exceção de pré-executividade - Município de São José do Rio Preto IPTU de 2012 Nulidade do crédito em ação ordinária Inocorrência, conforme fundamentos já expendidos em v. Acórdão desta Câmara, transitado em julgado em 13/02/2018, ocasião em que restou decidido a falta de identidade de crédito - RECURSO IMPROVIDO.
+No especial, a partealegaviolação dosarts. 489, 502, 503 e 1.022 do CPC, bem como a ocorrência de divergência jurisprudencial.
+Sustenta, em síntese, que: a) há vício de integração no acórdão ao não apreciar as alegações do recorrente relativas à identidade do tema discutido nos autos e aquele decidido em ação anulatória abrangida pelo manto da coisa julgada;b) o acórdão desobedece ao comando normativo proferido em sentença de ação anulatória alcançada pela coisa julgada, pois desconsidera que parcela do crédito ora executado já teria sido anulada.
+O recurso especial foi inadmitido por ausência de vício de integração e por aplicação do óbice da Súmula 7 do STJ, fundamentos atacados no agravo.
+Passo a decidir.
+Orecurso especial se origina deagravo de instrumento interposto contra decisão proferida em execução fiscal que indeferiu o pedido de extinção de parcela do crédito executado em face de sentença proferida em ação anulatória.
+No primeiro grau de jurisdição, decidiu-seque o tema analisado na ação anulatória cuja sentença transitouem julgado não se relacionacom aquele discutido no feito executivo. Consignou-se ainda que estedebate foiobjeto de agravo de instrumento anterior, não provido pelo TJSP.
+O Tribunal bandeirante negou provimento ao recurso, reiterandoque a temática já fora objeto de agravo de instrumento anterior desprovido pelo TJSP. No mérito, registrouque o comando normativo da sentença em ação ordinária alcançada pela coisa julgada não abrange os créditos tributários ora executados, não havendo identidade entre eles.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+Como relatado,aCortede origem negou provimento ao agravo de instrumento pelos seguintes fundamentos, todos autônomos e suficientes para a sua manutenção: (i) o tema trazido à discussão já fora decidido em agravo de instrumento anterior; (ii)que o comando normativo da sentença em ação ordinária alcançada pela coisa julgada não abrange os créditos tributários ora executados, não havendo identidade entre eles.
+Assim, fica evidenciado que, no acórdão local, houve o pronunciamento expresso, claroe fundamentadoacerca das alegaçõesdo recorrente quanto à extensão da coisa julgada proferida na ação ordinária, consignando não abranger os créditos tributários ora executados.
+Dessa forma, correta a rejeição dos embargos de declaração,ante a inexistência de omissão, contradição ou obscuridade a ser sanada.
+Ademais, verifica-se que orecorrente, nas razões do presente apelo nobre, não atacou especificamente o primeiro fundamento adotado pela Corte de origem,relativo à existência de decisão anterior que enfrentou atemática levada a debate no agravo de instrumento, o que faz atrair, quanto ao ponto, o óbice de conhecimento estampado na Súmula283 do STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Por fim, cumpre destacar que a revisão do acórdão recorridosó seria possível mediante incursão noacervo probatório, providência inadequada em recurso especial, consoante enunciado da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", doRISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e,nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
