@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por FRANCISCO PAULO DA SILVA e MARCONI MEDEIROS MARQUES DE OLIVEIRA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 224-236):
+AGRAVO INTERNO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. DECLAÇÃO DE INCONSTITUCIONALIDADE DO ARTIGO 1º-F DA LEI Nº 9.494/97. INAPLICABILIDADE FRENTE À COISA JULGADA. TEMA 733 DA REPERCUSSÃO GERAL DO STF. AGRAVO INTERNO DESPROVIDO.
+1. O Supremo Tribunal Federal, no RE 730.462/SP (Tema 733 da repercussão geral), assentou que a declaração de constitucionalidade ou inconstitucionalidade de norma pela Corte não repercute em automática reforma das decisões anteriores adotadas em sentido diferente. A revisão só é cabível se manejado recurso próprio (se ainda cabível) ou, conforme o caso, a ação rescisória, observado o prazo decadencial.
+2. Preclusa ou transitada em julgado a decisão, e ultrapassado o prazo decadencial para a apresentação da ação rescisória, não é possível a alteração do "decisum" exarado em desacordo ao entendimento posteriormente adotado pela Suprema Corte em ação de (in)constitucionalidade.
+3. A declaração de inconstitucionalidade da utilização do índice de remuneração da poupança como parâmetro de correção monetária para as condenações impostas contra a Fazenda Pública, determinada no RE 870.947, não é aplicável quando a decisão que homologou os cálculos encontra-se acobertada pela preclusão.
+4. Agravo interno desprovido.
+Na origem, FRANCISCO PAULO DA SILVA ajuizou ação de execução por quantia certa contra a fazenda pública (Distrito Federal) objetivando o pagamento de diferenças vencidas entre a impetração do julgado e o mês imediatamente anterior à revisão dos proventos do(a) exequente.
+Valor dado à causa: R$ 141.484,47 (cento e quarenta e um mil, quatrocentos e oitenta e quatro reais e quarenta e sete centavos), em novembro de 2016.
+Os embargos de declaração opostos foram desprovidos.
+No presente recurso especial, aponta-se violação do artigo 1.022, II, parágrafo único, II, do CPC, sustentando-se, em síntese, que houve omissão no julgado quanto à "alegação de afronta aos arts. 322, §1º e 505, I, ambos do CPC". (fl. 281).
+Foram apresentadas contrarrazões pelo não provimento do recurso.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Impõe-se o afastamento da alegada violação do art. 1.022, II, parágrafo único, II, do CPC/15, quando integralmente e escorreitamente apreciada a questão jurídica postulada, por meio do exame da matéria, inclusive dos argumentos apresentados pelas partes, que se mostraram relevantes ao deslinde da controvérsia, ou seja, capazes de, em tese, infirmar a conclusão adotada no julgado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1486330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, CORTE ESPECIAL, DJe 27/5/2015.
+Ante o exposto, com esteio no art. 255, § 4º, II, do RISTJ, conheço do recurso especial para negar-lhe provimento.
+Publique-se. Intimem-se.
