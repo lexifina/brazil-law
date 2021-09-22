@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado pela EMPRESA MUNICIPAL DE URBANIZAÇÃO RIO URBE, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 610):
+Apelação Cível. Direito Processual Civil. Ação com pedido para declarar o dever da ré de reajustar o preço do Contrato nº 185/2010, celebrado com a Autora que foi acolhido, diante da expressa previsão no referido contrato administrativo e da conclusão da prova pericial técnica regularmente produzida foi apurado o valor devido. Sentença de procedência. Recurso de apelação interposto pela parte ré que se limita a repetir os termos da contestação. Ausência de impugnação específica aos fundamentos da sentença. Inobservância ao princípio da dialeticidade. Recurso inepto. Razões de recurso que não rebatem a fundamentação da sentença. Afronta ao artigo 1.010 do Novo Código de Processo Civil. Ausência de requisitos formais de admissibilidade recursal. Recurso não conhecido.
+Opostos embargos declaratórios, foram rejeirados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts.85, §3º; 489, §3º; 1.010 e 1.022 do CPC.
+Sustenta que ojulgado foi omisso e desprovido de fundamentação.
+Ademais, alega ter sido indevida a aplicação do entendimento de que as razões do recurso de apelação que coincidem com aquelas presentes na contestação necessariamenteimplicam em ausência de dialeticidade com a decisão contestada.
+Para tanto, argumenta que, por vezes, o alegado na contestação não é abordado pelo juízo ou é abordado de forma errônea, razão pela qual é necessária a reiteração do argumento.
+Por fim, argumenta que houve equívoco na estipulação dos honorários advocatícios com base no § 3º do art. 85 do CPC, visto que a parte agravante é pessoa jurídica de direito privado eo mencionado dispositivo somente se aplica à Fazenda Pública.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso merece acolhida pelo art. 1.022, do CPC/2015, pois a parte agravante, em suas razões de embargos de declaração, alega que: (I)"o acórdão não demonstrou quais foram os pontos da r. sentença que não foram combatidos, ou mesmo, a ausência de dialeticidade entre as razões recursais e os fundamentos da sentença." (fl. 627);(II) "a RIO-URBE se trata de Empresa Pública, sujeira ao regime jurídico privado, não equiparável à Fazenda Pública" e "a verba honorária fora fixada na alíquota mínima da segunda faixa da percentuais, em 8% (Inc. II). No entanto, tal engessamento de alíquotas não é aplicável à apelante" (fl. 629).
+Entretanto, o Tribunal de origem quedou silente sobre tais argumentos, em franca violação ao art. 1.022, do CPC/2015, porquanto não prestada a jurisdição de forma integral.
+Nesse vértice:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015.OCORRÊNCIA. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. É firme o entendimento do STJ de que, "tratando-se de questão relevante para o deslinde da causa, a ausência de manifestação sobre ela caracteriza ofensa ao art. 535 do CPC/1973. Verificada tal ofensa, em sede de recurso especial, impõe-se a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão"(AgInt no AREsp 868.604/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/09/2016).
+2. Caso concreto em que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para a solução da controvérsia, em franca violação ao art. 1.022do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1.650.218/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,julgado em 25/9/2018, DJe 9/10/2018)
+Dessarte, diante do acolhimento da questão preliminar, fica prejudicada a análise dos demais pedidos recursais.
+ANTE O EXPOSTO, dou provimento ao recurso especial por afronta ao art.1.022, do CPC/2015, para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
