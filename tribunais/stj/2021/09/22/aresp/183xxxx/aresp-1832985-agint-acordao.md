@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAPÍTULO DE DECISÃO QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL FUNDADA NO ART. 1.030, I, B, DO CPC/2015. AGRAVO DO ARTIGO1042 DO CPC/2015. NÃO CABIMENTO. MATÉRIA PACIFICADA PELA CORTE ESPECIAL (QO NO AG 1.154.599/SP).
+1. ACorte Especial do Superior Tribunal de Justiça, ao apreciar a Questão de Ordem no Agravo de Instrumento 1.154.599/SP, Rel. Min. César Asfor Rocha, DJe de 12/5/2011, firmou o entendimento de que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC". Eventual equívoco na aplicação da tese sufragada no recurso repetitivo ao caso concreto deve ser impugnado mediante interposição de agravo regimental/interno junto à instância a quo. Precedentes.
+2. No caso, observa-se que a decisão que negou seguimento ao apelo especial foi fundamentada no entendimento firmado no Recurso Especial Repetitivo n. 1.001.779/DF (Tema 239), representativo de controvérsia. Assim, incabível o questionamento apresentado nesta oportunidade.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Superior que não conheceu do agravo em recurso especial, uma vez queo agravo foi interposto contra a decisão que negou seguimento ao recurso especial em virtude de o acórdão recorrido estar em consonância com tese firmada sob o rito dos recursos repetitivos ou da repercussão geral, cuja intimação efetivou-se já na égide do novo Código de Processo Civil.(fl. 472)
+O agravante alega quenecessário enfatizar que a decisão de inadmissibilidade do REsp foi publicada na vigência do CPC de 1973e a negativa de seguimento se deu com fundamento no artigo543-C, §7º, inciso I, do CPC de 1973. A publicação dessa decisão foi anulada (porque publicada em nome de advogado que já substabelecera a ação para o subscritor da presente, sem reservas) e então, realmente, foi republicada já na vigência do atual CPC. Contudo, o fundamento da inadmissibilidade não se alterou, ou seja, continuou sendo o artigo543-C, §7º, inciso I, do CPC de 1973, e o CPC revogado nãoprevia o recursode agravo interno contra decisões que negavam seguimento ao REsppor esse fundamentonormativo, apenas o agravo "nos próprios autos", previsto no artigo 544 do CPC de 1973, que hoje é o agravo em recurso especial.(fl. 482)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAPÍTULO DE DECISÃO QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL FUNDADA NO ART. 1.030, I, B, DO CPC/2015. AGRAVO DO ARTIGO1042 DO CPC/2015. NÃO CABIMENTO. MATÉRIA PACIFICADA PELA CORTE ESPECIAL (QO NO AG 1.154.599/SP).
+1. ACorte Especial do Superior Tribunal de Justiça, ao apreciar a Questão de Ordem no Agravo de Instrumento 1.154.599/SP, Rel. Min. César Asfor Rocha, DJe de 12/5/2011, firmou o entendimento de que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC". Eventual equívoco na aplicação da tese sufragada no recurso repetitivo ao caso concreto deve ser impugnado mediante interposição de agravo regimental/interno junto à instância a quo. Precedentes.
+2. No caso, observa-se que a decisão que negou seguimento ao apelo especial foi fundamentada no entendimento firmado no Recurso Especial Repetitivo n. 1.001.779/DF (Tema 239), representativo de controvérsia. Assim, incabível o questionamento apresentado nesta oportunidade.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): A decisão ora agravada não conheceu do agravo em recurso especial, sob o fundamento de não ser possível ocabimentodo agravo do artigo 1.042 do CPC/2015 contra decisão que nega seguimento ao apelo especial com base no artigo 1.030, I, b, do CPC/2015.
+De fato,verifica-se que a decisão que negou seguimento ao recurso especial foi publicada já na vigência do atual Código de Processo Civil e foifundada na aplicação da sistemática prevista no art. 1.030, I, b, do CPC/2015, considerando a aplicação do Recurso Especial Repetitivo n. 1.227.133/RS(Tema 470).
+Com efeito, a Corte Especial do Superior Tribunal de Justiça, ao apreciar a Questão de Ordem no Agravo de Instrumento 1.154.599/SP, Rel. Min. César Asfor Rocha, DJe de 12/5/2011, firmou o entendimento de que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC". Eventual equívoco na aplicação da tese sufragada no recurso repetitivo ao caso concreto deve ser impugnado mediante interposição de agravo regimental/interno junto à instância a quo.
+No mesmo sentido: AgRg no AREsp 677/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 15/4/2011; Rcl 4.949/RJ, Rel. Min. Humberto Martins, Primeira Seção, DJe de 7/11/2011; AgRg no AREsp 24.353/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 7/12/2011; AgRg no AREsp 48.088/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe de 19/12/2011.
+Frise-se ainda que, consoante o disposto no art. 1.030, § 2º, do CPC, é cabível agravo interno contra decisão que nega seguimento a recurso especial com base no inciso I, b, do mesmo artigo. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Assim, escorreita a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
