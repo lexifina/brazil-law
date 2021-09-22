@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por SÔNIA DE JESUS MOREIRA XAVIER, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão doTribunal de Justiça do Estado do Tocantinsassim ementado (e-STJ fl. 152):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SERVIDORA PÚBLICA ESTADUAL APOSENTADA. LICENÇA-PRÊMIO POR ASSIDUIDADE. ART. 143 DA LEI 255/91. NÃO CUMPRIMENTO DOS REQUISITOS LEGAIS. RECURSO CONHECIDO E IMPROVIDO.
+1. Nos termos do disposto o art. 143 e seguintes da Lei 255/91 foram revogados pela Lei Estadual 1.031/98, extinguindo o direito à licença-prêmio.
+2. No caso dos autos, verifica-se que a apelante ingressou no serviço público estadual em 28/12/1993, por meio de contrato de trabalho por tempo determinado, portanto, não faz jus ao pagamento de licença-prêmio, que era devido apenas aos servidores estatutários.
+3. A apelante não completou o qüinqüênio necessário para fazer jus ao gozo ou à indenização, após a aposentadoria, em razão do advento da Lei Estadual 1.031/98, que, como já dito, extinguiu o direito em questão.
+4. Sentença mantida.
+Rejeitados os aclaratórios (e-STJ fls. 184/202).
+Nas suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 489, § 1º, IV e VI, 932, V, "b", e 1.022, I e II, e parágrafo único, II,do CPC/2015, sustentando negativa de prestação jurisdicional,bem comodireito à indenização de licença-prêmio não usufruída e à contagem do período prestado sobo regime de celetista.
+Contrarrazões às e-STJ fls. 347/357.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 363/365
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à alegada ofensa aos arts.489, § 1º, IV e VI, e 1.022, I e II, e parágrafo único, II,do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, rel.Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+In casu, o Tribunal de Justiça entendeu o seguinte(e-STJ fl. 144):
+Feitas tais ponderações, observo do conjunto probatório que a servidora foi contratada inicialmente por meio de contrato de trabalho por tempo determinado, assim, o período em que laborou antes de ser efetivada no serviço público lhe são devidas apenas as verbas rescisórias constitucionalmente asseguradas, conforme entendimento paci cado pela jurisprudência.
+Denota-se, que apelante, posteriormente, foi nomeada por meio do Decreto nº 11.212, de 24 de outubro de 1994, publicado no Diário O cial nº 387, de 24 de outubro de 1994, para exercer, em caráter efetivo, o cargo de Odontólogo, da Secretaria de Saúde, com posse e exercício em 08/11/1994, ocasião em que se extinguiu automaticamente o contrato  rmado anteriormente.
+Destarte, uma vez que no interstício compreendido entre 28/12/1993 a 08/11/1994 a autora, ora apelante, laborou por meio de contrato por tempo determinado, não se enquadra como servidora efetiva estável ou estabilizado, exigido pela legislação.
+Sendo assim, tendo em vista que o exercício no cargo efetivo se deu em 08/11/1994, o prazo previsto em lei não foi preenchido, embora o benefício estivesse contemplado pela Lei estatutária em vigência na época da posse, a apelante não completou o qüinqüênio necessário para fazer jus ao gozo ou à indenização, após a aposentadoria, em razão do advento da Lei Estadual 1031, de 21/12/1998, que, como já dito, extinguiu o direito em questão, não havendo que se falar, por conseguinte, em direito à benesse pretendida, por ausência de cumprimento da exigência temporal.
+No que toca aoart. 932, V, "b",do CPC/2015, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Além disso, vê-se que as conclusões do aresto hostilizado respeitantes ao afastamento dapleiteadalicença-prêmio, na hipótese dos autos, foram embasados em dispositivos da legislação estadual aplicável.
+A revisão das razões de decidir do acórdão recorrido, nesse aspecto, encontra óbice na Súmula 280 do STF.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
