@@ -1,0 +1,6 @@
+DECISÃO
+ADRIANO DE SOUZA SANTOS alega sofrer coação ilegal, em decorrência de decisão proferida pelo Desembargador relator do writ originário.
+A defesa busca "a concessão da Ordem Constitucional de Habeas Corpus "PREVENTIVO" impetrado em favor de ADRIANO DE SOUZA SANTOS, pronunciado como incurso no artigo 121, paragrafo 2º, incisos II e IV , na forma do artigo 29, ambos do Código Penal; tendo sido designada audiência de "JURI" para o dia 06/10/2021; em face da hipótese de ser condenado e ficar sujeito à "prisão automática" introduzida pela Lei nº 13.964/2019, alterando a alínea e) do Artigo 492 do CPP *, tendo sido "indeferido o Pedido de Liminar"".
+Como visto, a defesa não aponta coação ilegal, mas a possibilidade de o paciente vir a ser condenado e ter o início da execução da pena aplicada. Portanto, não há falar em flagrante ilegalidade, passível de concessão de ordem, porquanto "não cabe ação de habeas corpus contra o chamado, por alguns, "ato de hipótese" "(AgRg no HC 617.836/SC, Rel. Ministro Joel Ilan Paciornik, 3ª S., DJe 27/11/2020); vale dizer, contra ato futuro e incerto, que pode ou não acontecer, pois eventual condenação depende de deliberação da autoridade judiciária, não realizada até o momento.
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
