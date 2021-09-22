@@ -1,0 +1,16 @@
+DECISÃO
+Chamo o feito à ordem.
+Da análise dos autos, verifica-se que a petição inicial foi apresentada por JOSÉ OMAIR RICARDO contra ato da MINISTRA DE ESTADO DA MULHER, DA FAMÍLIA E DOS DIREITOS HUMANOS, consubstanciado na edição da Portaria n. 1.100, de 24 de março de 2021, que anulou a Portaria n. 2.831, de 30 de dezembro de 2002, que o havia declarado como anistiado político. Os documentos apresentados confirmam a identificação do impetrante.
+Indeferida a liminar (e-STJ fls. 141/142), JOSÉ CALDERARO NETO interpôs agravo interno (e-STJ fs. 153/171).
+Nas informações prestadas, a autoridade coatora manifestou-se pela ausência do direito vindicado por JOSÉ CALDERARO NETO.
+Em manifestação, o Ministério Público Federal indicou a inconsistência dos dados do processo, já que impetrado o writ por JOSÉ OMAIR RICARDO, mas autuado o feito indicando como impetrante JOSÉ CALDERARO NETO. Pugnoupela anulação de todos os atos processuais, "notadamente a prestação de informações e seu refazimento, com posterior vista do caso ao MPF" (e-STJ fls. 202/203).
+Às e-STJ fls. 205/211, JOSÉ CALDERARO NETO afirma que "no momento da distribuição do presente Mandado de Segurança, foi distribuído como JOSÉCALDERARO NETO, e ao juntar a documentação foi juntado por equivoco a documentação de outro impetrante, tendo em vista que foram distribuídos 41 Mandados de Segurança". Destaca que "nenhum prejuízo ou infortúnio trouxe para o IMPETRADO, tendo em vista que já se manifestou nos autos e juntou oficio do IMPETRANTE JOSE CALDERARO NETO". Ao final, requer "a juntada da documentação pessoal do IMPETRANTE JOSE CALDERARO NETO".
+Pois bem.
+Considerando que a petição inicial e todos os documentos referem-se exclusivamente a JOSÉ OMAIR RICARDO, mostra-se totalmente inviável a simples correção do polo ativo, como pretendido às e-STJ fls. 205/211 por JOSÉ CALDERARO NETO.
+Na verdade, a única alteração possível e necessária, na hipótese, é a correção da autuação, a fim de que conste como impetrante JOSÉ OMAIR RICARDO, já que "não se pode alterar os elementos objetivos da demanda inicialmente indicados na petição inicial do mandado de segurança após o oferecimento das informações, pois nessa situação a lide, de rito sumário, está estabilizada, não admitindo flexibilização, contraditório dilatado ou instrução probatória" (AgInt no MS 22799/DF, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe 22/08/2018).
+Corrigida a autuação, consoante se verifica na página oficial desta Corte na internet, JOSÉ OMAIR RICARDO já tinha impetrado writ anterior, no qual objetivava exatamente o mesmo provimento buscado no presente mandamus.
+Em hipóteses similares, esta Corte tem se manifestado no sentido de que háa caracterização da litispendência, não havendo como se acolher o pedidoconstante na impetração, sob pena de se incorrer no pagamento emduplicidade. Nesse sentido: (AgRg noMS 18759/DF, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO,DJe 10/05/2016).
+Ante o exposto:
+a) CORRIJA-SE a autuação a fim de que conste como impetrante JOSÉ OMAIR RICARDO;
+b) Ante o exposto, DENEGO a ordem, nos termos do art. 6º, § 5º, da Lei n. 12.016/2009, c/c o art. 34, XIX do RISTJ. Sem honorários advocatícios, nos moldes do art. 25 da Lei n. 12.016/2009 e da Súmula 105/STJ. Prejudicado o agravo interno de e-STJ fls. 153/171.
+Intimem-se. Publique-se.
