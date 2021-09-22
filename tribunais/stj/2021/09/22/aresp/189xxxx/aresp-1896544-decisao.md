@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de DANIEL ALVES LORENE em face de decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOque inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "c", da Constituição Federal - CF, contra acórdão proferido pelo em julgamento de apelação criminal n. 0009330-72.2020.8.26.0114.
+Consta dos autos que o Ministério Público do Estado de São Paulo ofereceu denúncia criminal contra oagravante, imputando-lhe a prática do delito tipificado no art.155, caput, do Código Penal - CP (furto). O magistrado singular rejeitou a peça acusatória.
+O parquet interpôs recurso em sentido estrito, que foi provido para receber a denúncia (fl.41). O acórdão ficou assim ementado:
+1-) Recurso em sentido estrito. Provimento do recurso ministerial.2-) Para a incidência do princípio da insignificância, alguns requisitos são necessários e eles não se fazem presentes no caso concreto: I) conduta minimamente ofensiva; II) ausência de periculosidade social; III) reduzido grau de reprobabilidade do comportamento e IV) lesão jurídica inexpressiva.3-) A conduta não é minimamente ofensiva, pois alastra-se nas grandes cidades; existe periculosidade social, porque o recorrido é reincidente; sendo assim, a reprobabilidade de seu comportamento é maior, com lesão jurídica expressiva, para não haver impunidade e fomentar a reação da sociedade com violência.4-) Recebimento da denúncia para ulteriores termos(fl. 37).
+Em sede de recurso especial (fls. 55/62), a Defesa sustenta a atipicidade da conduta, ante a aplicação do princípio da insignificância.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 76/88).
+O recurso especialfoi inadmitido no TJ em razão de: a) não comprovação da divergência jurisprudencial; b) e óbice da Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ (fl. 91).
+Em agravo em recurso especial, a Defesa impugnou os referidos óbices (fls. 95/99).
+Contraminuta do MP (fls. 131/143).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo não conhecimento do recurso especial (fls. 158/163).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+É assente nesta Corte Superior o entendimento de que há a necessidade de indicação do dispositivo de lei federal objeto da divergência, mesmo quando o apelo nobre é interposto com fundamento apenas na alínea "c" do permissivo constitucional.
+Nessa linha:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO PELA ALÍNEA "C" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO NO QUAL SE FUNDA A DIVERGÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO. 1. A interposição pela alínea "c" do inciso III do art. 105 da CF exige a indicação do dispositivo de lei federal sobre o qual se funda a divergência. Incidência da Súmula 284 do STF. Precedentes. 2. Agravo regimental improvido. (AgRg no AREsp 1013384/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017 - Grifo Nosso).
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO PRETÓRIO EXCELSO. OMISSÃO NO ACÓRDÃO DO TRIBUNAL A QUO. INEXISTÊNCIA. INTIMAÇÃO PARA SUSTENTAÇÃO ORAL. QUESTÃO SURGIDA NO JULGAMENTO DOS EMBARGOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RECEBIMENTO DA DENÚNCIA. FUNDAMENTAÇÃO. SUFICIÊNCIA DA PROVA PARA EMBASAR A DENUNCIA. SÚMULA 7/STJ. ADITAMENTO. REGULARIDADE. QUEBRA DO SIGILO BANCÁRIO. VALIDADE. PODERES INVESTIGATÓRIOS DO MINISTÉRIO PÚBLICO. RECURSO EXTRAORDINÁRIO Nº 593.727. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. RECURSO COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+9. A falta de indicação do dispositivo de lei federal a que os acórdãos teriam conferido interpretação divergente evidencia deficiência na fundamentação recursal que impede o conhecimento do recurso especial ante à incidência do enunciado 284 da súmula do Supremo Tribunal Federal. 10. Recurso improvido. (REsp 1525437/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/03/2016, DJe 10/03/2016 - Grifo Nosso).
+Diante disso, o conhecimento do recurso especial encontra óbice na Súmula n. 284 do Supremo Tribunal Federal: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
