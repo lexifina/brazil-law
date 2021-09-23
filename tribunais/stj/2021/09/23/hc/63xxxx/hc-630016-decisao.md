@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 219):
+APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DEFOGO DE USO PERMITIDO (ART. 14, CAPUT, DA LEI N. 10.826/03). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.PRELIMINAR. ALEGADA A NULIDADE DO FEITO ANTEA AUSÊNCIA DE FUNDAMENTAÇÃO DA SENTENÇA. NÃO ACOLHIMENTO. MOTIVAÇÃO SUFICIENTE. VÍCIO INEXISTENTE. EIVA REPELIDA. PRETENDIDA A ABSOLVIÇÃO, COM BASE NAATIPICIDADECONGLOBANTE.IMPOSSIBILIDADE.AGENTE FLAGRADO TRANSPORTANDO O ARMAMENTO.ALEGAÇÃO DE QUE POSSUÍA REGISTRO DE POSSEVENCIDO DO REFERIDO ARTEFATO. IRRELEVÂNCIA.AUSÊNCIA DE PORTE. CRIME DE MERA CONDUTA E PERIGO ABSTRATO. OFENSA AO BEM JURÍDICOTUTELADO EVIDENCIADA. TIPICIDADE CONFIGURADA.CONDENAÇÃO PRESERVADA.PEDIDODE RESTITUIÇÃO DO ARTEFATO APREENDIDO. INVIABILIDADE. AGENTE QUE NÃO REALIZOU A RENOVAÇÃO DO REGISTRO. ARMA QUE PERMANECE EM SITUAÇÃO IRREGULAR. PERDIMENTO ACERTADO. EXEGESE DO ART. 25 DA LEI N.
+10.826/03. PLEITO DE RETORNO DOS AUTOS PARA FINS DE APLICAÇÃO DO INSTITUTO DA NÃO PERSECUÇÃO PENAL.SENTENÇA CONDENATÓRIA.
+PROCESSO EM GRAU RECURSAL. DESCABIMENTO. PREQUESTIONAMENTO EXPLÍCITO. DESNECESSIDADE. MATÉRIA ANALISADA NO CORPO DO JULGADO. INTELIGÊNCIA DO ART. 1.025 DO CPC, C/C O ART. 3º DO CPP.
+RECURSO CONHECIDO E NÃO PROVIDO.
+O paciente foi condenado a 2 anos de reclusão, em regime inicial aberto, pena esta substituída por 2 medidas restritivas de direitos, pela prática do crime previsto no art.
+14, caput, da Lei n. 10.826/2003, c/c art. 65, III, d, do Código Penal.
+Alega, em síntese, que com o Pacote Anticrime foi criada a figura do Acordo de Não Persecução Penal, inserido no art.28-A do CPP e que a Lei n. 13.964/19 atribuiu ao ANPP uma natureza mista de norma processual e material penal, de modo que esta deve retroagir para beneficiar o agente (fls. 5-6).
+Sustenta que o próprio acórdão reconheceu que o paciente preenche os requisitos legais para a obtenção da benesse, mas mesmo assim deixou de aplicar o instituto por entender, em resumo, "logisticamente inviável" (fl. 7).
+Requer a suspensão da ação penal na origem, de forma a que se intime o Ministério Público Estadual acerca do interesse na aplicação do acordo de não persecução penal, nos termos do art. 28 do CPP.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+Quanto ao acordo de não persecução penal, o acórdão impugnado está assim fundamentado (fls. 229/235):
+4 O causídico pugna pela conversão do julgamento em diligência, a fim de que seja proposto ao acusado acordo de não persecução penal (art. 28-A do CPP), porquanto preenchidos os requisitos legais (fl. 165).
+O pleito não pode ser atendido.
+Ainda que, in casu, o acusado preencha os requisitos legais para a obtenção da benesse, após a prolação da sentença não há como aplicar o instituto da não-persecução penal, sob pena de restar comprometida a própria finalidade para a qual o modelo negocial de justiça foi concebido.
+Apesar do conteúdo híbrido das normas que consagram o novo fenômeno, a sua retroatividade após o esgotamento da jurisdição em primeiro grau encontra-se em total desalinho com os fatores que renderam ensejo à sua instituição, que foi justamente a possibilidade de resolução célere dos casos de reduzido potencial ofensivo.
+É que, uma vez proferida a decisão e interposto o recurso, é evidente que a sua aplicação produzirá efeito totalmente inverso ao aspirado, subvertendo-se assim totalmente o sentido teleológico do novo instituto.
+Compreenda-se que, nessas circunstâncias, o retorno dos autos à primeira instância para fins de proposição ao acusado do acordo de não persecução penal fará com que a solução definitiva do caso concreto se arraste por significativo período de tempo, uma vez que, em sendo aceito, neste caso pelo denunciado e não pelo investigado, como menciona expressamente a lei, demandará a fluência de todo o prazo para cumprimento das condições ajustadas, ligado que está à pena cominada ao delito.
+Logo, fácil é perceber que a operação que se pretende em nome da retroatividade das normas mistas está completamente apartado das premissas que determinaram a criação do novo instituto.
+Assim tem decidido esta Câmara:
+ ..
+De mais a mais, apenas a título de obter dictum, cabe ressaltar que há, ainda, outro fator a ser levado em conta.
+Observe-se que o instituto já havia ingressado no ordenamento jurídico brasileiro em 7 de agosto 2017, por meio da Resolução n. 181, do Conselho Nacional do Ministério Público e que, malgrado tenha sido impugnada através de ações diretas de inconstitucionalidade (ns. 5790 e 5793), não houve pronunciamento a respeito pelo Supremo Tribunal Federal e, com a edição do Pacote Anticrime (Lei n. 13.964/2019), naturalmente perderam seu objeto.
+Portanto, até então militava em favor daquele ato normativo natural presunção de constitucionalidade.
+Desse modo, estando em vigor desde aquele marco temporal e, portanto, antes mesmo da realização da audiência de instrução e julgamento desses autos, não tendo havido qualquer requerimento formulado pela defesa,forçoso é reconhecer a incidência da preclusão uma vez que se trata, em tese, de nulidade de caráter relativo.
+A propósito, essa foi a jurisprudência que se consolidou no Superior Tribunal de Justiça a respeito do instituto despenalizador da suspensão condicional do processo. Confira-se:
+ ..
+Portanto, considerando a vigência do instituto desde 2017 sem que a defesa protestasse pela sua aplicação, fazendo-o tão somente após ainterposição do recurso, faz-se de rigor o afastamento do pedido em face do reconhecimento da preclusão.
+A defesa busca a aplicação retroativa da Lei 13.964, de 24/12/2019, que introduziu o instituto do acordo de não persecução penal, tipificado no art. 28-A da citada lei.
+No caso, verifica-se que a denúncia foi recebida em 17/10/2016 (fl. 119) e proferida sentença condenatória em 9/5/2019 (fl. 124).
+Nesse sentido, verifica-se que o acórdão impugnado encontra-se em consonância com a jurisprudência desta Corte, no sentido de que, uma vez recebida a denúncia, inclusive com a prolatação de sentença condenatória, incabível a retroatividade do art. 28-A do CPP.
+Com efeito, ao concluir o julgamento do HC 628.647/SC, em 9/3/2021, a Sexta Turma do Superior Tribunal de Justiça, por maioria de votos, firmou compreensão de que, diante do princípio "tempus regit actum" em conformação com a retroatividade penal benéfica, o acordo de não persecução penal incide aos fatos ocorridos antes da entrada em vigor da Lei 13.964/2019, desde que ainda não se tenha sido recebida a denúncia.
+Na mesma linha, esta Corte sufragou o entendimento de que "a retroatividade do art. 28-A, do CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias, estando o feito sentenciado, inclusive com condenação confirmada em sede de apelação criminal, como na espécie" (EDcl no AgRg no AREsp 1807393/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 13/4/2021).
+A propósito, vale ainda destacar o entendimento recente da 1ª Turma do Supremo Tribunal Federal na apreciação do HC 191.464/SC, da relatoria do Ministro Luís Roberto Barroso, cujo acórdão restou assim ementado:
+EMENTA: Direito penal e processual penal. Agravo regimental em habeas corpus. Acordo de não persecução penal (art. 28-A do CPP). Retroatividade até o recebimento da denúncia.
+1. A Lei nº 13.964/2019, no ponto em que institui o acordo de não persecução penal (ANPP), é considerada lei penal de natureza híbrida, admitindo conformação entre a retroatividade penal benéfica e o tempus regit actum.
+2. O ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia.
+3. O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente. Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia.
+4. Na hipótese concreta, ao tempo da entrada em vigor da Lei nº 13.964/2019, havia sentença penal condenatória e sua confirmação em sede recursal, o que inviabiliza restaurar fase da persecução penal já encerrada para admitir-se o ANPP.
+5. Agravo regimental a que se nega provimento com a fixação da seguinte tese: "o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia" (HC 191464 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 11/11/2020, PROCESSO ELETRÔNICO DJe-280 DIVULG 25-11-2020 PUBLIC 26-11-2020).
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
