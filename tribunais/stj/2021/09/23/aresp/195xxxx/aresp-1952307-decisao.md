@@ -1,0 +1,40 @@
+DECISÃO
+MARIA DAS GRAÇAS RIBEIRO SILVA CHAVES (MARIA DAS GRAÇAS)ajuizou ação declaratória de inexistência de débito com repetição de indébito e reparação pra danos morais cumulada com pedido de tutela de urgência contra BOA VISTA SERVIÇOS S.A.(BOA VISTA), objetivando que seja declarada a inexistência de débito e a exclusão de sus dados dos cadastros de restrição ao crédito.
+Em primeira instância, o pedido foi julgado parcialmente procedente para declarar a inexistência do débito gerado em nome da MARIA DAS GRAÇAS, bem como condenar BOA VISTA ao pagamento do valor de R$ 3.000,00 (três mil reais) a título de dano morais.
+BOA VISTA apelou da sentença. O aresto encontra-se assim sintetizado:
+APELAÇÃO  AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA  SENTENÇA DE PROCEDÊNCIA  IRRESIGNAÇÃO  AUSÊNCIA DE PROVAS QUE DEMONSTREM A ORIGEM DA DÍVIDA  NEGATIVAÇÃO INDEVIDA  DEVER DE INDENIZAR  DESPROVIMENTO DO APELO  "Diante das regras previstas no Código de Defesa do Consumidor, mesmo havendo regular inscrição do nome do devedor em cadastro de órgão de proteção ao crédito, após o integral pagamento da dívida, incumbe ao credor requerer a exclusão do registro desabonador, no prazo de 5 (cinco) dias úteis, a contar do primeiro dia útil subsequente à completa . 2. Recurso especial disponibilização do numerário necessário à quitação do débito vencido" não provido. (REsp 1424792/BA, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 10/09/2014, DJe 24/09/2014) (e-STJ, fl. 153).
+Os embargos de declaração opostos por BOA VISTA foram rejeitados (e-STJ, fls. 185/195).
+Irresignada, BOA VISTA interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando dissídio jurisprudencial e a violação dos art. 43,§ 2º, do CDC,ao sustentar que limitou-se a reproduzir para a sua base de dados o protesto existente em nome da MARIA DAS GRAÇAS e que não há necessidade de notificar o consumidor quanto a anotação trata-se de protesto.
+As contrarrazões foram apresentadas (e-STJ, fls.238/243).
+O apelo nobre não foi admitido em virtude da deserção.
+Nas razões do presente agravo em recurso especial, BOA VISTA afirmou que ao providenciar a juntada da referida guia, BOA VISTA equivocadamente juntou comprovante diverso ao pago. Contudo, a ausência do comprovante de pagamento correto não justifica o não prosseguimento do Recurso Especial interposto.
+Contraminuta apresentada (e-STJ, fls. 271/276).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da análise dos autos, observa-se que, de fato, embora BOA VISTA tenhasido intimadapara complementar o preparo do recurso especial, deixou de cumprir o despacho constante de fl. 248/249, e-STJ, pois juntou comprovante de pagamento de custas com valor diverso da guia e de tribunal diverso.
+Esta Corte Superior de Justiça possui entendimento consolidado de que é deserto o recurso que, mesmo após a intimação da parte para regularizar o preparo, não o faz devidamente.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. RECURSO ESPECIAL. PREPARO INSUFICIENTE. AUSÊNCIA DE COMPLEMENTAÇÃO. DESERÇÃO CONFIGURADA. AGRAVO INTERNO IMPROVIDO.
+1. Consoante orientação jurisprudencial do STJ, "a juntada apenas do comprovante de pagamento das custas processuais, desacompanhado da respectiva guia de recolhimento, é insuficiente à comprovação do preparo" (AgInt no REsp 1.622.574/RS, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 20/04/2017, DJe 27/04/2017).
+2. Na falta de comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizá-lo em dobro, sob pena de deserção, nos termos do art. 1.007, § 4º, do CPC/2015.
+3. A jurisprudência deste Tribunal Superior assevera que é deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, nos termos do art. 1.007, § 7º, do CPC/2015, não o faz devidamente.
+4. Conforme entendimento desta Corte, "quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer do respectivo Agravo Interno ou negar-lhe provimento, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus" (AgInt nos EAREsp 762.075/MT, Rel. Ministro Felix Fischer, Rel. p/ acórdão Ministro Herman Benjamin, Corte Especial, DJe 7/3/2019).
+5. Agravo interno improvido.
+(AgInt no AREsp 1.552.561/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 19/10/2020, DJe 26/10/2020, sem destaque no original).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. DOIS AGRAVOS INTERNOS INTERPOSTOS PELO AGRAVANTE. IMPOSSIBILIDADE DE CONHECIMENTO DO SEGUNDO RECURSO EM FACE DO PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. JULGAMENTO APENAS DO PRIMEIRO AGRAVO INTERNO. PREPARO. COMPLEMENTAÇÃO EXTEMPORÂNEA. DESERÇÃO. APLICAÇÃO DE MULTA. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O processo sempre segue uma marcha tendente a um fim. Por isso, nele não cabem dois recursos de mesma natureza contra uma mesma decisão, conforme o princípio da unirrecorribilidade, porque electa una via non datur regressus ad alteram.
+3. Intimada a parte recorrente para complementar o preparo e não atendida a ordem judicial no prazo designado, impõe-se a incidência da pena de deserção.
+4. É inviável a análise de tese não suscitada nas razões do recurso especial por se tratar de evidente inovação recursal. Precedente.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+7. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1.367.393/SP, de minha relatoria, Terceira Turma, j. 27/5/2019, DJe 29/5/2019)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor da BOA VISTA em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB ÉGIDE DO NCPC. AÇAO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA. PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. JUNTADA DE GUIA COM VALOR E DE TRIBUNAL DIVERSOS. NÃO COMPROVAÇÃO DO RECOLHIMENTO. DESERÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
