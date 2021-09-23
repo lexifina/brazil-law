@@ -1,0 +1,25 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1016122-59.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por ANTÔNIO CARLOS BARCELOS em virtude da decisão proferida pelo juiz da 4.a Vara Especializada de Direito Bancário da Comarca de Cuiabá que, nos autos do Cumprimento de Sentença n.o 0012100-37.2007.8.11.0041 requerido por ANDRÉ CASTRILLO, rejeitou a impugnação apresentada pelo Agravante.
+Em suas razões recursais, o Agravante assevera que a decisão objurgada não observou o que foi proferido no Agravo de Instrumento n.o 20083/2009, em que foi provido o recurso para manter o valor da causa em R$ 10.000,00 (dez mil reais).
+Assegura que o valor atualizado da causa é R$ 21.686,54 (vinte e um mil seiscentos e oitenta e seis reais e cinquenta e quatro centavos), de modo que os honorários advocatícios devem ser calculados sobre este montante.
+Sustenta que o valor correto a ser executado, a título de honorários de sucumbência (20% do valor do débito), é no montante de R$ 4.876,63 (quatro mil oitocentos e setenta e seis reais e sessenta e três centavos) e que já foi depositado nos autos.
+Forte nesses argumentos, pugna pela concessão do efeito suspensivo. No mérito, requer o provimento do recurso para reformar a decisão objurgada.
+É o relatório. Decido.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se enquadra na exceção prevista no parágrafo único do artigo 1.015 do CPC, bem como veio instruído com os documentos necessários para sua análise e conhecimento.
+É cediço que o artigo 1.019 inciso I, do Código de Processo Civil, dispõe que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Trata-se de cumprimento de sentença dos honorários de sucumbência arbitrados pelo juiz na sentença proferida às fls. 227/235 (ID. 102395517), que reconheceu a ausência da apresentação do título executivo judicial, tornando nula a execução; de conseguinte, desconstituiu o título executivo judicial, e condenou o exequente, ora Agravante, ao pagamento de honorários no percentual de 20% (vinte por cento) do valor do débito atualizado.
+Colhe-se dos autos que, na sentença exequenda, ficou consignado que o Exequente/Agravante foi condenado em custas processuais e honorários advocatícios fixados em 20% (vinte por cento) do valor do débito devidamente atualizado, nos termos do art. 85, caput e § 2.o do CPC.
+Dessume-se da petição de liquidação de sentença promovida pelo Agravado que o parâmetro utilizado para fins de cálculo de honorários de sucumbência foi no montante de R$ 114.773,52 (cento e quatorze mil setecentos e setenta e três reais e cinquenta e dois centavos) (ID. 102395518).
+Da análise da decisão objurgada (ID. 102395520), que rejeitou a impugnação apresentada pelo Agravante, vejo que o juiz singular entendeu que o percentual dos honorários de sucumbência arbitrado deve considerar o valor dos honorários postulado pelo Agravante quando do protocolo do pedido de cumprimento de sentença (R$ 114.773,52 – ID. 102395509), sendo este o valor do débito mencionado na sentença exequenda.
+Em face dessa decisão, o Agravante opôs Embargos de Declaração, e o juiz singular, ao proferir a decisão, reafirmou que o valor do débito apontado na sentença exequenda de fls. 227/235 (ID. 102395517) corresponde ao valor indicado na petição inicial pelo Agravante, ou seja, na quantia de R$ 114.773,52 (cento e quatorze mil setecentos e setenta e três reais e cinquenta e dois centavos), de modo que este valor deve ser considerado para fins de apuração dos honorários de sucumbência (ID. 102395524).
+Com efeito, em que pesem às ilações do Agravante no sentido de sobrestar a decisão invectivada, tenho que, neste momento de cognição sumária, não sobressaem elementos que evidenciem a probabilidade do direito alegado, pois na decisão invectivada está claramentei consignado que o débito a que se refere a sentença exequenda corresponde ao valor postulado pelo Agravante no início do cumprimento de sentença (ID. 102395511) e não o valor alterado pelo Agravo de Instrumento n.o 20083/2009.
+De mesmo modo, o Agravante não demonstrou, ao menos em princípio, o risco de dano irreparável ou de difícil reparação, não sendo suficiente a mera alegação de que a não concessão do efeito suspensivo lhe causará prejuízos.
+Nesse prisma, não entrevejo qualquer motivo para deduzir que a espera do julgamento do mérito deste recurso colocará em risco direito/interesse da Agravante e, tampouco a eficácia do provimento final.
+Dessa forma, não demonstrado os requisitos para concessão do pedido liminar recursal, indefiro o pedido de efeito suspensivo.
+Comunique-se ao Juiz da causa.
+Intime-se o Agravado para, querendo, apresentar resposta no prazo legal.
+Cumpra-se.
+Cuiabá, 23 de setembro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
