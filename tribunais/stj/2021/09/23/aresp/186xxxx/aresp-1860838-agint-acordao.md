@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 388/401) interposto contra decisão da Presidência desta Corte que conheceu do agravo nos próprios autos para não conhecer do recurso especial, por aplicação das Súmulas n. 284 do STF e 211 do STJ (e-STJ fls. 383/385).
+Em suas razões, os agravantes sustentam que houve impugnação específica da decisão de admissibilidade proferida pela Corte local.
+Aduzem razões de mérito do recurso especial, apontando ofensa aos arts. 502, 503, 505, 507 e 508 do CPC/2015.
+Ao final, pedem a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foi certificado, à fl. 408 (e-STJ), o decurso de prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.860.838 - SP (2021/0082816-4)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+IRENE MARQUES FERREIRA - POR SI E REPRESENTANDO
+AGRAVANTE
+:
+LYDIA MARQUES FERREIRA - ESPÓLIO
+ADVOGADO
+:
+MARCELO MORAES DO NASCIMENTO E OUTRO(S) - SP163936
+AGRAVADO
+:
+PORTO SEGURO COMPANHIA DE SEGUROS GERAIS
+ADVOGADO
+:
+CRISTIANE LOPES RODRIGUES E OUTRO(S) - SP287429
+INTERES.
+:
+EDISON YOJI KUROKI
+ADVOGADO
+:
+SYLVIO ANTUNES DE CARVALHO - SP012812
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+Os agravantes não trouxeram nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 383/385):
+Cuida-se de agravo apresentado por IRENE MARQUES FERREIRA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DE INDENIZAÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA ALEGAÇÃO DE QUE NO CURSO DO PROCEDIMENTO O JUIZ DECIDIU QUANTO AOS JUROS DE MORA DEVIDOS PELA DENUNCIADA À LIDE EM SENTIDO NÃO AUTORIZADO PELO PROVIMENTO CONDENATÓRIO TEMA RECONHECIDO PRECLUSO EM AGRAVO ANTERIOR AGRAVO DE INSTRUMENTO NÃO CONHECIDO
+Alega a parte recorrente, pela alínea "a" do permissivo constitucional, violação dos arts. 502, 503, 505 e 507, todos do CPC, no que concerne à coisa julgada, trazendo o(s) seguinte(s) argumento(s):
+Assim, retornando à decisão agravada de fls. 164/166, infere-se que para o Juízo e para o Colegiado que julgou o Agravo manejado, a exclusão dos juros de mora é matéria já decidida e que sua reapreciação importara afronta aos artigos 507 e 508 do CPC, fato este que, em verdade, representa claro abuso e desrespeito em relação à sentença anterior e já transitada em julgado de fls.10/18, gerando incalculável prejuízo às exeqüentes, mormente à Irene que conta atualmente com noventa (90) anos de idade.
+ .. .
+Cabia ao juízo de origem acolher a pretensão de petição fls.154/156 a fim de observar que a controvérsia acerca da aplicação dos juros de mora já restou debatida e superada na sentença de fls.18, tendo sido afetada pelos efeitos da coisa julgada, possuindo força de lei, podendo ser reclamada a qualquer tempo, de modo que a sua não observância implica evidente violação dos artigos 502, 503 caput, 505 e 507 do CPC, eis que referida sentença tornou a matéria imutável e indiscutível, possuindo força de lei nos limites da lide, não podendo ser modificada pro qualquer outro juiz ( o que ocorreu) e tampouco rediscutida pela parte prejudicada. (fls. 329/330).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+A alegação dos agravantes é que ao longo da fase de cumprimento de sentença o Juiz decidiu em linha diversa do que anunciava o título executivo quanto ao termo inicial dos juros de mora devidos pela denunciada à lide.
+No entanto, o agravo nº 2040776-13.2020.8.26.000 interposto também pelos exequentes, já tratou do mesmo tema, restando assim ementado:
+"Ação de indenização em fase de cumprimento de sentença. Alegação de que no curso do procedimento o Juiz decidiu quanto aos juros de mora devidos pela denunciada à lide em sentido não autorizado pelo provimento condenatório. Despacho ora agravado que não tratou do tema. Impossibilidade de a parte se valer do agravo para atacar decisões anteriores, contra as quais não fez uso de recurso. Agravo de instrumento não conhecido." (Agravo de Instrumento 2040776-13.2020.8.26.0000; Relator: Arantes Theodoro; Data do Julgamento: 20/03/2020)
+Ora, a decisão aqui agravada se limitou a apontar o que o citado acórdão reconheceu, isto é, que a parte não podia agora evocar tema apreciado ao longo daquela fase processual por decisões contra as quais ela não se insurgiu.
+Do mesmo modo, tampouco pode ela agora se valer desse novo agravo para o mesmo fim (fls. 306/307).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+As partes interpuseram recurso especial (e-STJ fls. 323/333) fundamentado no art. 105, inc. III, alínea "a", da CF.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+No caso, o agravo em recurso especial foi conhecido para não se conhecer do recurso especial, por aplicação das Súmulas n. 284 do STF e 211 do STJ.
+No agravo interno (e-STJ fls. 388/401), os agravantes insurgem-se contra o resultado que lhes foi adverso sem, entretanto, procederem à impugnação dos fundamentos da decisão monocrática, limitando-se a afirmar que realizaram a impugnação específica da decisão de admissibilidade proferida pelo Tribunal de origem e a reiterar razões de mérito do especial, afirmando a violação dos arts. 502, 503, 505, 507 e 508 do CPC/2015.
+Assim, tendo as partes deixado de rebater especificamente a decisão ora agravada, incide a Súmula n. 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO COMBATIDOS. ART. 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. ENUNCIADO 182 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgRg no Ag n. 1.155.777/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/5/2016, DJe 18/5/2016.)
+Diante do exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
