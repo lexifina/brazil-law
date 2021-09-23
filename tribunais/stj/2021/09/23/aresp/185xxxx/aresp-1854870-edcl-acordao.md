@@ -1,0 +1,93 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. LITIGÂNCIA DE MÁ-FÉ E ATO ATENTATÓRIO À JUSTIÇA. NÃO OCORRÊNCIA. IMPOSIÇÃO AUTOMÁTICA. DESCABIMENTO. DECISÃO MANTIDA. EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno em virtude da incidência da Súmula nº 7 do STJ.
+4. A imposição da multa, prevista no art. 1.021, § 4º, do diploma processual civil, não é automática e depende da análise do caso concreto.
+5. Conforme entendimento desta Corte, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 27/11/2012, DJe 4/12/2012).
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+RENATA CRISTINA DA SILVA JERÔNIMO (RENATA) promoveu ação de indenização contra SANTA CASA DE MISERICÓRDIA DE BARRA MANSA (SANTA CASA), em virtude do falecimento de seu genitor em razão do mau atendimento dos profissionais do hospital.
+Em primeira instância, o pedido foi julgado improcedente (e-STJ, fls. 285/286).
+A apelação interposta por RENATA foi provida pelo Tribunal de Justiça do Rio de Janeiro, nos termos do acórdão assim ementado:
+RESPONSABILIDADE CIVIL. DIREITO À SAÚDE. ALEGAÇÃO DE ERRO MÉDICO, DECORRENTE DE DIAGNÓSTICO TARDIO DE CÂNCER, SOMENTE NA DATA DO ÓBITO, COM CONSEQUENTEAUSÊNCIA DE TRATAMENTO ADEQUADO. PRETENSÃO DE COMPENSAÇÃO POR DANOS MORAIS PELA FILHA DO DE CUJUS. SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS. RECURSO DE APELAÇÃO INTEPOSTO PELA AUTORA.
+1)A questão controvertida no presente caso, cinge-se a ocorrência ou não da perda de uma chance, no tocante ao adequado atendimento médico prestado ao genitor da Autora, sobretudo quanto à ausência de diagnóstico de câncer durante o tratamento, o qual somente se deu no óbito do de cujus, após 27 dias de internação hospitalar.
+2) O genitor da Autora foi internado no nosocômio Réu no dia 22/09/2014, com quadro de emagrecimento, inapetência com massa abdominal palpável no exame físico descrito em exame admissional (fl. 61).
+3) Realizada a prova técnica, produzida sob o crivo do contraditório e da ampla defesa, concluiu a expert que a doença portada era de natureza neoplástica, provável natureza malina, porém não teve sua etiologia, malignidade ou sítio de origem identificado até a data do óbito, que ocorreu 27 dias após a internação do Autor, ou seja, em 18/10/2014 (fl. 14). Afirma, ainda, que o quadro era sim sugestivo de neoplasia maligna, considerando o estado consuptivo grave do paciente, no entanto não foi realizado o exame histopatológico que comprove a etiologia da massa abdominal (fls. 205/208 -index 000267).
+4) Assim sendo, embora seja incontroverso que o quadro de desnutrição, assim como o quadro geral do de cujus era grave e comprometia sua saúde de forma grave, não há como deixar de reconhecer a perda de uma chance, no que consiste ao adequado tratamento ao Autor. Dessume-se, portanto, que é indiscutível que, no caso em apreço, o hospital pode não ter causado diretamente o resultado morte, mas tinha a obrigação de prover o adequado tratamento, privando o paciente de uma chance de receber um tratamento digno que, talvez, pudesse lhe garantir uma sobrevida.
+5) Dano moral perfeitamente delineado. Verba compensatória que ora arbitro em R$ 30.000,00 (trinta mil reais), em consonância com os princípios da razoabilidade e da proporcionalidade, sem olvidar o caráter punitivo-pedagógico do instituto.
+6) RECURSO CONHECIDO E PROVIDO, para condenar o Réu ao pagamento de R$ 30.000,00 (trinta mil reais), com incidência de juros moratórios, a partir da citação, e correção monetária, a contar da presente data (e-STJ, fl. 308 - com destaque no original).
+Os embargos de declaração opostos por RENATA foram rejeitados (e-STJ, fls. 330/335).
+Inconformada, a SANTA CASA interpôs recurso especial com base no art. 105, III, a, da CF, alegando violação dos arts. 951 do CC/2002 e 14 do CDC.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ.
+Seguiu-se o agravo em recurso especial que, em decisão monocrática do Ministro Presidente do STJ, foi conhecido para não conhecer do recurso especial, em virtude da incidência das Súmulas nºs 248 do STF e 7 do STJ.
+Ainda inconformada,a SANTA CASA interpôs agravo interno, que não foi provido pela Terceira Turma desta Corte, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDENIZAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula nº 284 do STF.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. Agravo interno não provido (e-STJ, fls. 425/426 - com destaque no original).
+Nas razões dos presentes embargos de declaração, RENATA alegou omissão, pois não foi apreciado o pedido da aplicação da multa dos arts. 81 e 1.021, § 4º, do NCPC.
+Não houve impugnação ao recurso (e-STJ, fl. 441).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. LITIGÂNCIA DE MÁ-FÉ E ATO ATENTATÓRIO À JUSTIÇA. NÃO OCORRÊNCIA. IMPOSIÇÃO AUTOMÁTICA. DESCABIMENTO. DECISÃO MANTIDA. EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno em virtude da incidência da Súmula nº 7 do STJ.
+4. A imposição da multa, prevista no art. 1.021, § 4º, do diploma processual civil, não é automática e depende da análise do caso concreto.
+5. Conforme entendimento desta Corte, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 27/11/2012, DJe 4/12/2012).
+6. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+A propósito, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+O acórdão recorrido não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído pela incidência das Súmulas nºs 7 do STJ e 284 do STF.
+De modo, a alegação de ser cabível a multa prevista no art. 1.201, § 4º, do NCPC, em virtude do não provimento do agravo interno interposto pela SANTA CASA, a Segunda Seção desta Corte fixou o posicionamento de que a multa referida não decorre automaticamente do desprovimento do agravo interno, devendo ser verificado, em cada caso concreto, o intuito protelatório.
+Confira-se o precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+ ..
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, j. 24/8/2016, DJe 29/8/2016)
+Quanto ao pedido de condenação nas penas da litigância de má-fé e ato atentatório à dignidade da justiça, cumpre destacar que a jurisprudência do STJ entende que a aplicação de multa por litigância de má-fé pela interposição de recurso inadmissível não é automática. No caso concreto, a SANTA CASA interpôs os recursos legalmente previstos no ordenamento jurídico, sem abusar do direito de recorrer.
+Sobre o tema, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 489 DO CPC/2015 NÃO CONFIGURADA. JUSTIÇA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. VIOLAÇÃO A DISPOSITIVOS DE LEI. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. O aresto recorrido apresenta extensa fundamentação, tendo sido explicitados os motivos pelos quais o Colegiado estadual entendeu pela ausência de comprovação da hipossuficiência, inexistindo, portanto, violação ao art. 489 do CPC/2015.
+2. Não há como alterar a conclusão do acórdão recorrido (a respeito da ausência de comprovação do insurgente de que faz jus ao benefício da gratuidade de justiça), sem que se proceda ao revolvimento do conjunto fático-probatório deste processo, o que encontra barreira no verbete sumular n. 7/STJ.
+3. A aplicação da Súmula n. 7/STJ à insurgência fulcrada na alínea a do permissivo constitucional também impede o conhecimento do recurso baseado na divergência jurisprudencial, porquanto as conclusões dissonantes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão jurídica.
+4. Mesmo após a interposição de aclaratórios, não houve pronunciamento do Colegiado estadual acerca da suposta afronta aos arts. 8º, 372, II, 927, III, e 932, V, b, do CPC/2015, o que revela a falta do prequestionamento, requisito indispensável ao acesso às instâncias superiores. Incidência do enunciado n. 211 da Súmula do STJ.
+5. Conforme entendimento desta Corte, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 27/11/2012, DJe 4/12/2012).
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.518.994/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 20/4/2020, DJe 24/4/2020 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA. ART. 1.021, § 4º, DO CPC. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não é automática a pena prevista no artigo 1.021, § 4º, do Código de Processo Civil, porquanto "não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp n. 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe 29/8/2016). Não significa, ademais, litigância de má-fé a simples utilização de instrumento processual previsto no ordenamento jurídico.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.386.585/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 10/3/2020, DJe 16/3/2020 - sem destaque no original).
+PROCESSUAL CIVIL - ADMINISTRATIVO - RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - FGTS - ART. 741, PARÁGRAFO ÚNICO, DO CPC (COM A REDAÇÃO DADA PELA LEI 11.232/2005) - NÃO INCIDÊNCIA - MULTA POR LITIGÂNCIA DE MÁ-FÉ E ATO ATENTATÓRIO À JUSTIÇA (ART. 600 DO CPC): INAPLICABILIDADE.
+1. É inadmissível o recurso especial quanto a questão não decidida pelo Tribunal de origem, por faltar-lhe o prequestionamento. Aplicação das Súmulas 282 e 356/STF.
+2. A Primeira Turma desta Corte, a partir do julgamento do REsp 720.953/SC, Rel. Min. Teori Albino Zavascki, DJ de 22/8/2005, passou a adotar o entendimento de que o art. 741, parágrafo único, do CPC não se aplica aos casos de sentenças que tenham contrariado o entendimento firmado pelo Pretório Excelso no julgamento do RE 226.855-7, sob o fundamento de que o STF, no referido precedente, não declarou a inconstitucionalidade de qualquer norma, tendo resolvido tão-somente questão de direito intertemporal.
+3. Multa por litigância de má-fé e ato atentatório à dignidade da justiça, nos termos do art 600, II do CPC, que se afasta, porque a empresa pública utilizou-se de recurso legalmente previsto. Precedentes.
+4. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido, apenas para afastar a multa imposta.
+(REsp 1.188.043/SP, Rel. Ministra ELIANA CALMON, SegundaTurma, j. 11/5/2010, DJe 21/5/2010).
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração.
