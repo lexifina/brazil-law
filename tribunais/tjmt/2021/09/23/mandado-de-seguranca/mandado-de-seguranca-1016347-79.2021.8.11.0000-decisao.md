@@ -1,0 +1,25 @@
+Vistos etc.
+A Ordem dos Advogados do Brasil – Seccional Mato Grosso, representada pelo seu Presidente e outros membros da entidade, impetrou este Mandado de Segurança contra ato proferido pelo Juízo da 1a Vara Criminal da Comarca de Rondonópolis-MT nos autos da ação penal no. 0001007-61.2014.
+Esclarece que diante da ausência do Dr. Marco Antônio Soares Machado da Costa, patrono do réu, à Audiência de Instrução designada para 4.3.2020, o Juízo de origem, na mesma oportunidade, impôs ao causídico multa equivalente a 30 salários mínimos, nos termos do art. 265 do CPP.
+Sustenta, contudo, que a ausência do advogado ao ato instrutório não constitui, por si só, atuação desvalorada a ponto de justificar a sanção prevista na lei como repreensão a comportamentos atentatórios à dignidade da Justiça, além de ressaltar que o advogado atuou e continua atuando na defesa do seu cliente.
+Acrescenta que não restou evidenciado dolo ou má-fé do advogado de praticar qualquer conduta que se assemelhasse com “ato atentatório à justiça”, a justificar a imposição da multa aplicada.
+Desta forma, busca a concessão da ordem, em liminar, para que sejam suspensos os efeitos do ato acoimado coator, como a comunicação da falta ao Conselho de Ética da OAB/MT e a expedição de certidão para protesto e, no mérito, seja reconhecida a nulidade da multa imposta em desfavor do profissional da advocacia (ID 101300481).
+Instruiu a inicial com documentos (ID 101300482 a 101307967).
+Nos termos do art. 23, caput, da Lei no. 12.016/2009, o prazo para se impetrar Mandado de Segurança é de 120 dias e contado partir da efetiva ciência do ato reputado ilegal ou abusivo. Sua natureza é decadencial, o que implica dizer que não está sujeito a suspensão, prorrogação ou interrupção (art. 207 do CC) e, uma vez transcorrido, fulmina a possibilidade de impetração do writ e o próprio direito pretendido.
+Premissas em mesa, observa-se que na hipótese dos autos, a penalidade foi imposta em 4.3.2020 e atacada em 9.3.2020, por meio de Embargos de Declaração opostos pelo causídico.
+Em 13.8.2021, o Juízo a quo oficiante não conheceu os aclaratórios e em 9.9.2021, a entidade manejou esta impetração em favor do Dr. Marco Antônio Soares Machado da Costa.
+Como se nota, embora o beneficiário do writ tivesse plena ciência da multa arbitrada ao menos desde 9.3.2020, quando opôs os aclaratórios, este mandamus só foi impetrado um ano e meio depois, quando já transcorrido o prazo previsto na legislação de regência.
+No ponto, é valioso frisar que a oposição de Embargos de Declaração pelo interessado nem de longe interrompeu a fluência do prazo da ação mandamental, pois o efeito interruptivo dos aclaratórios só alcança outros recursos, nunca outras ações, muito menos as sujeitas a prazo de decadência, como o Mandado de Segurança.
+Para além disso, é certo os Embargos de Declaração foram rejeitados por não preencherem as hipóteses legais de cabimento, a evidenciar que a insurgência do patrono consistia, na verdade, num simples pedido de reconsideração, que, inclusive, não impede a fluência do prazo mandamental.
+A propósito, confira-se excerto de recente julgado aresto da Corte Cidadã:
+“O prazo para impetração do mandado de segurança, a teor do que dispõe o art. 23 da Lei n.o 12.016/2009, é de 120 (cento e vinte) dias, ‘contados da ciência, pelo interessado, do ato impugnado’. 3. É pacífico o entendimento desta Corte Superior de que requerimentos administrativos ou pedidos de reconsideração não obstam o curso do prazo decadencial para impetração do writ. 4. Não há falar em relação de trato sucessivo quando os atos que, em tese, teriam violado direito líquido e certo do recorrente foram únicos e tiveram conteúdo bem delimitado, com efeitos concretos gerados a partir de datas certas. 5. A fundamentação centrada na impossibilidade de utilização da via mandamental como sucedâneo de ação de cobrança não destoa da jurisprudência pacífica do STJ. 6. Recurso ordinário não provido” (RMS 55.379/SP, Rel. Min. Sérgio Kukina, 1a Turma, DJe 30.4.2021). Destaquei.
+Nesses moldes, é ilógico cogitar-se a ideia de que o prazo decadencial só passou a fluir a partir da decisão em que os aclaratórios foram rejeitados, já que, volto a repetir, ele se inicia com a ciência inequívoca do ato lesivo pelo interessado, que no caso ocorreu em 9.3.2020, e não está sujeito a suspensões ou interrupções.
+Logo, sabendo-se que a ação mandamental só foi proposta em 9.9.2021, quando já extrapolado o prazo decadencial de 120 dias previsto no art. 23, da Lei no. 12.016/2009, inexiste outro caminho senão reconhecer a caducidade do direito de manejar o writ e do próprio direito almejado.
+Isto posto, declaro a DECADÊNCIA do direito potestativo e, com fundamento nas normas transcritas no art. 23 da Lei no. 12.016/2009 e no art. 487, inc. II, do NCPC, extingo o feito com resolução do mérito.
+Procedam-se aos registros, anotações e intimações necessárias.
+Com o trânsito em julgado, arquivem-se os autos.
+Às providências.
+Cumpra-se.
+Cuiabá, 23 de setembro de 2020.
+Rondon Bassil Dower Filho
+Relator
