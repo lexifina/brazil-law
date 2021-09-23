@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Luiz Camoscontra decisão proferida pelo Presidente do TribunalRegional Federal da 4ª Região, que negou seguimento ao seu recursoespecial, tendo em vista o óbice das Súmulas 7 e83/STJ.
+Em sua minuta de agravo, sustenta a agravante que não há necessidadede reexame do conjunto probatório dos autos para a análise do pleito recursal e que a jurisprudência do STJ é favorável à sua tese.
+O prazo para apresentação de contraminuta ao agravo em recursoespecial transcorreu in albis.
+O recurso especial que se pretende o seguimento, impugna acórdãoassim ementado:
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. ART. 203, V, DACONSTITUIÇÃO FEDERAL DE 1988. LEI Nº 8.742/93. REQUISITOS.
+1. O direito ao benefício assistencial previsto no art. 203, V, da Constituição Federal pressupõe o preenchimento dos seguintes requisitos: a)condição de deficiente (incapacidade para o trabalho e para a vida independente, de acordo com a redação original do artigo 20 da Lei 8.742/93;ou impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir a participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas, conforme redação atual do referido dispositivo) ou idoso(neste caso, considerando-se, desde 01.01.2004, a idade de 65 anos); e b)situação de risco social (estado de miserabilidade, hipossuficiência econômica ou situação de desamparo) da parte autora e de sua família.
+2. Não atendidos os requisitos definidos pela Lei n.º 8.742/93, aparte autora não tem direito ao benefício assistencial de prestação continuada previsto no artigo 203, V, da Constituição Federal.
+Opostos embargos de declaração, rejeitados.
+Em suas razões de recurso especial, a recorrente, ora agravante, alegaque houve violação dos artigos 369, 489 e1.022do CPC,uma vez que: a) houve cerceamento do direto de defesa, tendoem vista o indeferimento da realização de produção de provas para a comprovação da incapacidade laboral; b) o Tribunal de origem não fundamentou sua decisão quanto à necessidade de analisar a condição de morador de rua e alcoólatra do agravante.
+O prazo para apresentação de contrarrazões ao recurso especial transcorreu in albis.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atraia incidência doEnunciado Administrativo n. 3/STJ: "Aos recursosinterpostos com fundamento no CPC/2015 (relativos a decisões publicadas apartir de 18 de março de 2016) serão exigidos os requisitos deadmissibilidade recursal na forma do novo CPC".
+O agravante impugnou devidamente os fundamentos adotados nadecisão agravada e mostrando-se preenchidos os demais pressupostosde admissibilidade do presente recurso, adentra-se o mérito.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado,tratou das questões suscitadas, resolvendo de modo integral acontrovérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativade prestação jurisdicional nem em vício quando o acórdão impugnadoaplica tese jurídica devidamente fundamentada, promovendo a integralsolução da controvérsia, ainda que de forma contrária aos interesses daparte.
+Nesse sentido:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. BOIA-FRIA. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. CÔMPUTO RURAL. ACÓRDÃO QUE APONTA A DEMONSTRAÇÃO DA ATIVIDADE RURAL NO PERÍODO DE CARÊNCIA.
+REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno não provido.
+(AgInt no AREsp 1796057/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/08/2021, DJe 18/08/2021)
+A alegada tese de violação aoartigo489 do CPC/2015, portanto, não merece ser acolhida.
+A questão central da controvérsia gira em torno da ocorrênciade cerceamento de defesa tendo em vista o indeferimento de produçãode provas, para fins de reconhecimento da incapacidade laboral.
+O Tribunal a quo concluiu que as provas produzidas nos autoseram suficientespara o deslinde da questão, conforme se observa do seguinte trecho dojulgado:
+Cabe destacar que, para a comprovação da condição de incapaz, é necessária a apresentação de perícia médica que responda os possíveis quesitos apresentados, bem como discorra sobre a condição de saúde da parte autora, se a doença é incapacitante, a data de início da incapacidade, bem
+como reversibilidade ou não, dentre outros fatores que podem influenciar na decisão, o que foi devidamente produzido na instrução processual, com o contraditório e oportunidade de ampla defesa. Ademais, diante da decisão do juiz singular (ev. 125 - proc. originário), com a devida intimação da parte autora, sem insurgência por manejo de recurso adequado, não prospera a alegação de cerceamento de defesa, pois as provas constantes dos autos foram suficientes ao convencimento da verdade dos fatos alegados pelas partes em juízo.
+Assim, acerca da necessidade de realização de nova perícia, o Tribunala quo indeferiu o pedido, porque de acordo com seu livre convencimento,o laudo pericial valorado contêm elementos suficientes para embasar suadecisão.
+Nesse contexto, a pretensão recursal encontra óbice na Súmula 7/STJ.
+Colacionam-se julgados, ilustrativamente:
+AGRAVO INTERNO. PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. AMPUTAÇÃO DO BRAÇOEM DECORRÊNCIA DE CÂNCER. INEXISTÊNCIA DE ACIDENTE. PRETENSÃO DE REEXAMEDE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. O Tribunal de origem, soberano na análise das circunstâncias fáticase probatórias da causa, entendeu pela não ocorrência de acidente dequalquer
+natureza apto a ensejar a percepção do auxílio-acidente.
+2. Nesse toar, o argumento do agravante de que o câncer deveser interpretado como um acidente de qualquer natureza colide como entendimento da Corte de origem que consignou exatamente o contrário, oque atrai o óbice da Súmula 7/STJ. Precedentes.
+3. A necessidade de produção de determinadas provas, bem como oexame daquelas constantes dos autos, encontram-se submetidos ao princípiodo livre convencimento do juiz, em face das circunstâncias de cada caso,não sendo argumento apto a desafiar recurso especial aquele que, pormero descontentamento em razão do não acatamento da tese do recorrente,diz que o magistrado não deu a devida valoração ao conjunto probatório.Agravo interno improvido.
+(AgInt no AREsp 903.258/RS, Segunda Turma, Relator MinistroHumberto Martins, DJe 18/8/2016)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EMRECURSO ESPECIAL. PROVA PERICIAL PRODUZIDA. LIVRE CONVENCIMENTO DOJULGADOR. AUXÍLIO-ACIDENTE. ACÓRDÃO QUE, À LUZ DAS PROVAS DOS AUTOS,MORMENTE A PERICIAL, CONCLUIU PELA DESNECESSIDADE DE PRODUÇÃO DE PROVATESTEMUNHAL E PELA INEXISTÊNCIA DOS REQUISITOS PARA A CONCESSÃO DOBENEFÍCIO. ALEGADO CERCEAMENTO DE DEFESA. REVISÃO DA CONCLUSÃO ADOTADA NAORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. AGRAVO REGIMENTALIMPROVIDO.
+I. O art. 131 do CPC consagra o princípio do livre convencimento motivado,segundo o qual o juiz é livre para apreciar as provas produzidas, bemcomo a necessidade de produção das que forem requeridas pelas partes,
+sendo-lhe lícito indeferir, fundamentadamente, na forma do art. 130 doCPC, as que reputar inúteis ou protelatórias, mediante a existência, nosautos, de elementos suficientes para a formação de seu convencimento.
+II. Restou consignado, no acórdão recorrido, que "a produção daprova testemunhal revela-se desnecessária, sobretudo em razão do Apelanteter sido examinado por perito oficial, que se manifestou sobre todasas questões submetidas à sua análise, tendo apresentado laudoconclusivo acerca da questão discutida nos autos". Assim, para infirmar asconclusões do julgado seria necessário, inequivocamente, incursão naseara fático-probatória, inviável, na via eleita, a teor do enunciadosumular 7/STJ.
+III. Conforme concluiu o Tribunal de origem, "a prova pericial(fls. 141-146) produzida nos autos foi conclusiva quanto à ausência denexo causal entre a patologia sofrida pelo Apelante e sua atividadelaborativa, razão pela qual não faz jus ao benefício acidentáriopleiteado".
+IV. Assim sendo, a reforma do acórdão implicaria, necessariamente,no reexame do quadro fático-probatório delineado nas instânciasordinárias,providência obstada, no âmbito do Recurso Especial, nos termos daSúmula 7/STJ.
+V. Agravo Regimental improvido.
+(AgRg no AREsp 741.586/ES, Segunda Turma, Relatora MinistraAssusete Magalhães, DJe 17/11/2015)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSOESPECIAL. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA PERICIAL.INDEFERIMENTO FUNDAMENTADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.SÚMULA 7/STJ. OFENSA AOS ARTS. 406 DO CC, 161 DO CTN, 2º, V, DA LEI8.213/91 E 3º DO DECRETO 2.322/87. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA282/STF.
+1. A teor da legislação de regência, cumpre ao magistrado, destinatárioda prova, valorar sua necessidade. Assim, tendo em vista o princípio dolivre convencimento motivado, não há cerceamento de defesa quando, emdecisão fundamentada, o juiz indefere produção de prova, seja elatestemunhal, pericial ou documental.
+2. A alteração das conclusões adotadas pela Corte de origem, a respeitodo alegado cerceamento de defesa, tal como colocada a questão nasrazões recursais, demandaria, necessariamente, novo exame doacervo fático-probatório constante dos autos, providência vedada emrecurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. As matérias pertinentes aos arts. 406 do CC 161, do CTN, 2º, V, daLei n. 8.213/91 e 3º do Decreto n. 2.322/87 não foram apreciadaspela instância judicante de origem, tampouco foram opostosembargos declaratórios para suprir eventuais omissões. Portanto, ante afalta do necessário prequestionamento, incide o óbice da Súmula 282/STF
+4. Para o prequestionamento da matéria, não basta a menção de dispositivode lei tido por violado nas razões dos recursos (apelação e/ou embargos dedeclaração), mas que o Tribunal de origem tenha efetivamente decidido otema controvertido.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.477.221/PR, Primeira Turma, Relator MinistroSérgio Kukina, DJe 27/8/2015)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento. Caso exista nos autos prévia fixação de honoráriosadvocatícios pelas instâncias de origem, determino sua majoração emdesfavor da parte recorrente, no importe de 15% sobre o valor jáarbitrado, percentual esse justificado pelo tempo decorrido entre ainterposição do recurso e julgamento e a complexidade da causa, nos termosdo art. 85, § 11, do Código de Processo Civil. Os limites percentuaisprevistos nos §§ 2º e 3º do referido dispositivo legal devem serobservados, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL.
+ENUNCIADO ADMINISTRATIVO 3/STJ. BENEFÍCIO ASSISTENCIAL. VIOLAÇÃO AOSARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA.CERCEAMENTO DO DIREITO DE DEFESA. PRODUÇÃO DE PROVAS. LIVRECONVENCIMENTO MOTIVADO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DORECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
