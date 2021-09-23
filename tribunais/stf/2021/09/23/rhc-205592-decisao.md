@@ -1,0 +1,45 @@
+DECISÃO:
+EMENTA: Processual Penal. Recurso ordinário em habeas Corpus. Roubo majorado. Absolvição. Fatos e provas. Dosimetria da pena. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão da Sexta Turma do Superior Tribunal de Justiça (STJ), assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. ABSOLVIÇÃO. FRAGILIDADE DO CONJUNTO FÁTICO-PROBATÓRIO. NECESSIDADE DE REEXAME DO MATERIAL COGNITIVO PRODUZIDO NOS AUTOS. INVIABILIDADE DA VIA ELEITA. TERCEIRA FASE DO CÁLCULO DA PENA. EXASPERAÇÃO SUPERIOR A 1/3. DISCRICIONARIEDADE VINCULADA DO JULGADOR. VIOLAÇÃO DA SÚMULA 443/STJ. NÃO OCORRÊNCIA.
+    1. O pleito de absolvição, por fragilidade no conjunto probatório, não encontra guarida no âmbito do habeas corpus, na medida em que seria imprescindível o reexame do material cognitivo produzido nos autos, inviável na via eleita, de rito célere e cognição sumária.
+    2. O aumento da pena na terceira fase de sua fixação, superior ao mínimo legal, encontra-se devidamente justificado pelo emprego de dois artefatos bélicos e a presença de três indivíduos na execução do delito, não contrariando, portanto, o enunciado da Súmula 443/STJ.
+    3. Agravo regimental improvido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 6 anos e 15 dias de reclusão, em regime semiaberto, pela prática do crime de roubo majorado. Interposta apelação, o Tribunal estadual negou provimento ao recurso, retificando, de ofício, a pena imposta para 5 anos e 6 meses de reclusão, em regime semiaberto.
+    3. Na sequência a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Ministro Sebastião Reis Júnior, ao analisar o HC 629.395, denegou a ordem. Interposto agravo regimental, o recurso foi desprovido.
+    4. Neste recurso ordinário, a defesa sustenta:
+          (i) “o que pretende o Paciente é, a partir das premissas fáticas admitidas no acórdão da Sexta Turma do Superior Tribunal de Justiça, analisar o enquadramento jurídico dado aos fatos. Não se está a discutir questões fático-probatórias, e portanto, não há o que se falar em “reexame do material cognitivo produzido nos autos”;
+          (ii) “a inexistência de provas suficientes para a condenação do recorrente é flagrante”;
+          (iii) “a regra do art. 155, CPP e respectiva jurisprudência indicada são aplicadas ao caso concreto, no qual as provas testemunhais de reconhecimento do veículo não foram ratificadas em juízo e tampouco foi justificada a impossibilidade de ratificação, o que enseja a EXCLUSÃO do reconhecimento do veículo para a condenação, ainda que o reconhecimento não tivesse as indicadas deficiências no respectivo termo e ausência de vinculação com o assistido”;
+          (iv) “a confissão não está de acordo com os fatos. As testemunhas Jaílson e Nereu reconheceram, no inquérito policial, sem sombras de dúvidas, que o veículo utilizado era o de Tiago, cujo modelo era um Vectra. Porém, Rudnei disse que o veículo utilizado não era um Vectra e sim um Astra. Portanto, coagido, errou na indicação do veículo, o que demonstra a sua ausência de relação com o crime”;
+          (v) “o aumento da pena na terceira fase da dosimetria foi de 3/8, acima do aumento mínimo de 1/3, e quase 4/8 (1/2), o máximo previsto em lei, sem fundamentação para este excessivo aumento, além da mera alusão da quantidade de duas qualificadoras (uso de arma de fogo e concurso de agentes). Este rigor é excessivo!!!”.
+    5. A defesa requer, “em análise do mérito: a) Para determinar a absolvição do assistido por evidente insuficiência probatória e violação dos arts. 155 e 197, ambos do CPP; b) Subsidiariamente, requer pela reforma da dosimetria tendo em vista a violação da súmula 443 deste STJ”.
+    6. Decido.
+    7.  O recurso ordinário não deve ser provido.
+    8. A orientação do Supremo Tribunal Federal (STF) é no sentido de que “o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição” (HC 107.550, Rel. Min. Luiz Fux). No mesmo sentido: HC 124.479, Rel. Min. Luiz Fux; RHC 122.183 e HC 122.436, Rel. Min. Dias Toffoli).
+    9. A decisão recorrida não divergiu dessa orientação. Vejam se as seguintes passagens do voto condutor do acórdão proferido pelo STJ:
+    “[...]
+    (…) conquanto possam parecer bastante relevantes os argumentos trazidos no agravo regimental, não são suficientes para infirmar a decisão agravada, a qual mantenho por seus próprios fundamentos, conforme transcrevo (fls. 410/412):
+    De início, vale ressaltar que o Tribunal a quo, soberano na análise do material cognitivo produzido nos autos, ao analisar o pleito de absolvição, asseverou que a autoria e materialidade do delito restaram inequívocas. (…).
+    […]
+    Por certo, uma simples leitura do decisum objurgado é suficiente para constatar que o Togado singular considerou todas as provas coligidas, inclusive aquelas colhidas na etapa judicial.
+    Demais disso, conquanto a defesa questione a conclusão condenatória, não apresentou justificativa contrária aos elementos de convencimento constantes do feito, dado que, como visto, os próprios recorrentes assumiram o cometimento do injusto.
+    Ademais, as declarações do policial civil Jeferson Bresciani foram firmes e coerentes, trazendo ao processado detalhes acerca da investigação e de como chegou-se à autoria do ilícito (evento 80.7).
+    [...]
+    Desse modo, por mais que a defesa refute a autoria delitiva, os substratos de convicção constantes do caderno processual demonstram o contrário, inclusive porque não foi trazido qualquer indicativo robusto para desconstituir o acervo probatório, não obstante este ônus ser-lhe imposto pelo disposto no art. 156, caput, do Código de Processo Penal.
+    Dessa forma, para a inversão do julgado, seria imprescindível o reexame dos elementos fáticos da lide, o que é inviável no âmbito do habeas corpus, que possui rito célere e cognição sumária.
+    […].”
+    10. E mais: a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível em habeas corpus a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    11. Ainda: o grau de aumento da reprimenda na terceira fase da dosimetria restou fixado pelas instâncias de origem com apoio em aspectos objetivos da causa, notadamente ao se considerar, “como bem asseverou o Tribunal de origem, constata-se que, diversamente do alegado, fundamentou-se concretamente o aumento - inclusive apontando o emprego de dois artefatos bélicos e a existência de três indivíduos na execução do crime - ao invés de optar-se pela indicação de forma singela do número de circunstanciadoras (fl. 391)” (trecho do voto do acórdão proferido pelo STJ).
+    12. Com efeito, “do exame das instâncias ordinárias, soberanas na apreciação do conteúdo fático-probatório, depreende-se que a majoração da reprimenda na terceira fase da dosimetria das penas foi devidamente motivada, com base nos elementos colhidos sob o crivo do contraditório, o que se presta a justificar a valoração efetuada” (RHC 201.106, Rel. Min. Alexandre de Moraes).
+    13. Ainda nessa linha, vejam-se: RHC 152.073, Rel. Min. Gilmar Mendes; RHC 153.135, Rel. Min. Edson Fachin; RHC 154.124-AgR, Rel. Min. Alexandre de Moraes; o RHC 152.058, de minha relatoria; e o RHC 156.585 AgR, Rel. Min. Alexandre de Moraes, assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. DOSIMETRIA DA PENA. TERCEIRA FASE. FRAÇÃO DAS MAJORANTES FIXADA EM 3/8. FUNDAMENTO CONCRETO. PRÁTICA DE CRIME EM CONCURSO DE TRÊS AGENTES E COM O EMPREGO DE ARMA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    1. A dosimetria da pena está ligada ao mérito da ação penal, ao juízo que é realizado pelo magistrado sentenciante após a análise do acervo probatório amealhado ao longo da instrução criminal. Daí ser inviável, na via estreita do habeas corpus, reavaliar os elementos de convicção, a fim de se redimensionar a sanção.
+    2. A exasperação da pena em 3/8, ante a presença de duas causas de aumento, foi estabelecida de maneira proporcional e adequada às circunstâncias do caso concreto.
+    3. Agravo regimental a que se nega provimento.”
+    14.  Verifica-se, assim, a inexistência de ilegalidade flagrante ou abuso de poder que justifique o acolhimento do pedido defensivo.
+    15. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+      Publique-se.
+          Brasília, 20 de setembro de 2020.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
