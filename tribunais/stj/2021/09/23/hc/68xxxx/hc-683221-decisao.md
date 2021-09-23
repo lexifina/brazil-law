@@ -1,0 +1,14 @@
+DECISÃO
+RICARDO JOSÉ DA SILVA alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal nº 0006197-85.2021.8.26.0114).
+A impetrante busca a retificação dos cálculos penais do paciente, pois considera cabível a aplicação retroativa do art. 112, IV, da LEP.
+Indeferida a liminar, os autos foram encaminhados ao Ministério Público Federal, que opinou pela denegação da ordem.
+Decido.
+Não está inaugurada a competência desta Corte Superior para, em primeiro lugar, decidir o pedido de retroatividade da lei penal.
+Infere-se do acórdão recorrido que o paciente "foi condenado  ..  pela prática de tráfico de drogas, associação para esse fim, latrocínio e roubo simples, se tratando de reincidente específico no cometimento de crimes hediondos, tendo iniciado o desconto das penas em 16/10/2007" (fl. 110).
+O Juiz da VEC, em decisão mantida pelo Tribunal de Justiça, indeferiu o pedido de progressão ao regime semiaberto, pois "o sentenciado é reincidente e só cumprirá 3/5  1/6 da pena em 13/12/2022" (fl. 33). Não houve nenhuma deliberação sobre a incidência retroativa do art. 112, com as alterações introduzidas pela Lei n. 13.964/2019 e sobre o pedido de retificação do cálculo do benefício.
+Assim: "o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)"(AgRg no RHC 139.208/CE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 24/08/2021, DJe 27/08/2021).
+Deveras: "Matérias ainda não analisados pelo Tribunal de origem, bem como pelo Juízo de 1º grau, não podem ser apreciadas no momento, de forma inaugural, sob pena de supressão de instância" (PET no HC 677.649/GO, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 14/09/2021, DJe 17/09/2021).
+Ilustrativamente: "considerando que a Corte de origem não se pronunciou sobre os referidos temas expostos na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre as matérias, sob pena de incorrer em indevida supressão de instância. Nesse sentido: HC n. 480.651/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 10/04/2019; e HC n. 339.352/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/08/2017" (AgRg no HC 662.846/RS, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 24/08/2021, DJe 30/08/2021).
+O aresto estadual recorrido não examinou a controvérsia. Assim, não se identifica em suas razões de decidir patente ilegalidade ou absurdo que dê ensejo a concessão da ordem, de ofício.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
