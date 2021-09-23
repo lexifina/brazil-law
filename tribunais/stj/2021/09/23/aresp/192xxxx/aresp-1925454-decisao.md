@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial (com fundamento no art. 105, III, a, da CF) apresentado contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação Criminal n. 0005886-91.2017.8.07.0008), que manteve a condenação de João Carlos Gadelha de Sousa como incurso no crime de tentativa de furto qualificado (escalada e concurso de agentes), reduzindo a pena fixada na sentença, mediante o reconhecimento do privilégio previsto no art. 155, § 2º, do Código Penal.
+Nas razões do recurso especial, a defesa do agravante suscitou violação dos arts. 155, § 4º, II, do Código Penal; e 386, III, do Código de Processo Penal (fls. 333/334).
+A Corte de origem inadmitiu o recurso especial com fundamento nas Súmulas 7 e 83/STJ (fls. 333/334).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso, nos termos do parecer assim ementado (fl. 372):
+AGRAVO CONTRA DECISÃO QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. INCIDÊNCIA DO ENUNCIADO DE SÚMULA 83. PELO DESPROVIMENTO DO AGRAVO.
+1 - Resta patente a incidência do Enunciado n.º 83 desta Corte, cujo teor prescreve que "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+2- Em conclusão, o Ministério Público Federal opina pelo desprovimento do agravo em recurso especial.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão. Quanto ao recurso especial em si, a insurgência também é admissível e, no mérito, merece parcial acolhida.
+Para reconhecer a qualificadora do art. 155, § 4º, II, do CP, o Tribunal a quo assinalou a possibilidade de substituir o exame pericial por outros elementos de prova (fls. 302/303):
+ ..
+Do afastamento das qualificadoras e fração da diminuição relativa à tentativa
+As qualificadoras não devem ser afastadas conforme requerido pela Defesa, pois pelas provas coligidas aos autos, restou devidamente comprovado que o apelante mediante concurso de pessoas e escalada, consistente em subir em um poste de luz, pular para o prédio em construção e depois conseguir acesso à cobertura do outro prédio, tentou subtrair para si e seus dois comparsas, os bens pertencentes à vítima.
+Ressalte-se, que a qualificadora da escalada nem sempre deixa vestígios, de forma que o exame pericial não se revela imprescindível para sua constatação.
+Destarte, comprovada a escalada por outros meios de prova, como é o caso dos autos, a referida qualificadora deverá ser mantida.
+ ..
+Sucede que, no âmbito desta Corte, predomina entendimento contrário, qual seja, de que, para o reconhecimento da qualificadora em questão, é imprescindível a realização de exame pericial, sendo possível a sua substituição por outros meios probatórios somente se não existirem ou tenham desaparecido ou se as circunstâncias do crime não permitirem a confecção do laudo (EDcl no HC n. 408.471/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/10/2017 - grifo nosso).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO DUPLAMENTE QUALIFICADO. QUALIFICADORAS MANTIDAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a incidência das qualificadoras previstas no art. 155, § 4º, inciso I e II, do Código Penal exige exame pericial para a comprovação do rompimento de obstáculo e da escalada, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto.Nesse sentido: AgRg no REsp 1.513.004/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1º/10/2015, DJe 7/10/2015; AgRg no HC 300.808/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/3/2015, DJe 26/3/2015.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 573.801/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/8/2020)
+No caso, as instâncias ordinárias não consignaram nenhum óbice à confecção do exame pericial.
+Consequentemente, não há outra solução, senão excluir a qualificadora em questão, ante a inexistência de prova acerca da materialidade.
+Excluída a qualificadora, é de rigor a redução da pena privativa de liberdade a 1 ano de detenção, em regime aberto, além do pagamento de 10 dias-multa, substituída a pena privativa de liberdade por uma restritiva de direitos a ser estabelecida pelo Juízo da execução.
+De outra parte, no que se refere ao pleito absolutório (violação do art. 386, III, do CPP), calcado na tese de atipicidade material da conduta, a insurgência não merece acolhida, pois a circunstância de o crime ter sido perpetrado mediante concurso de agentes indica reprovabilidade exacerbada, elemento apto a afastar a aplicação do princípio da insignificância na esteira da orientação jurisprudencial desta Corte:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO PRIVILEGIADO-QUALIFICADO. PLEITO DE INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. EXTENSÃO DO PRIVILÉGIO. OPÇÃO LASTREADA EM FUNDAMENTOS IDÔNEOS. AUSÊNCIA DE BIS IN IDEM. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Pleito de aplicação do princípio da insignificância. Este Tribunal Superior tem entendimento pacificado no sentido de que há a atipicidade material da conduta pela incidência do princípio da insignificância quando estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+III - Ocorre que, na hipótese dos autos, não é possível o reconhecimento do benefício, não obstante o valor ínfimo da coisa subtraída - R$ 54,00. Isso porque, "segundo a jurisprudência desta Corte, - a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de agentes, caso dos autos, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância - (HC 351.207/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/06/2016, DJe 01/08/2016)" (AgRg no AREsp n. 1.727.520/TO, Sexta Turma, Rel.ª Min.ª Laurita Vaz, DJe de 03/05/2021). Nesse sentido: HC n. 605.552/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/10/2020).
+ ..
+(AgRg no HC n. 664.934/SP, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Quinta Turma, DJe 24/8/2021 - grifo nosso)
+Em face do exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de excluir a qualificadora do art. 155, § 4º, II, do CP, reduzindo a pena a 1 ano de detenção, em regime aberto, além do pagamento de 10 dias-multa, substituída a pena corporal por uma restritiva de direitos a ser estabelecida pelo Juízo da e xecução (Ação Penal n. 2017.08.1.006037-0, da 2ª Vara Criminal do Paranoá/DF).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO (CONCURSO DE AGENTES E ESCALADA) PRIVILEGIADO. VIOLAÇÃO DO ART. 155, § 4º, II, DO CP. SUPOSTA ILEGALIDADE NA INCIDÊNCIA DA QUALIFICADORA (ESCALADA), POR AUSÊNCIA DE LAUDO PERICIAL APTO A ATESTAR A MATERIALIDADE. PROCEDÊNCIA. IMPRESCINDIBILIDADE DO EXAME PERICIAL NA HIPÓTESE. PRECEDENTES DESTA CORTE. EXCLUSÃO. REDIMENSIONAMENTO DA PENA. VIOLAÇÃO DO ART. 386, III, DO CPP. PLEITO ABSOLUTÓRIO CALCADO NA TESE DE ATIPICIDADE MATERIAL DA CONDUTA. MANIFESTA IMPROCEDÊNCIA. REPROVABILIDADE EXACERBADA.
+Agravo conhecido para dar parcial provimento ao recurso especial, nos termos do dispositivo.
