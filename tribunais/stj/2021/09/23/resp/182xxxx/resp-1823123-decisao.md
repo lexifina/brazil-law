@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado por Burgos Veículos Ltdacom fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 211):
+TRIBUTÁRIO. PIS. COFINS. NÃO CUMULATIVIDADE. CREDITAMENTO. LEI 10.833/2003. ART. 3º, IX. DESPESAS COM FRETE ENTRE FÁBRICA E CONCESSIONÁRIA. CABIMENTO. COMPENSAÇÃO SOMENTE COM O PRÓPRIO PIS E COFINS.
+1. O direito ao crédito de PIS/COFINS sobre as despesas com o frete ocorre apenas nas operações de venda dos bens adquiridos para revenda quando o ônus tiver sido suportado pelo vendedor.
+2. Em relação à apuração do valor do PIS/COFINS, é cabível o desconto de créditos calculados em relação ao frete quando o veículo é adquirido da fábrica e transportado para a concessionária - adquirente - com o propósito de ser posteriormente revendido.
+3. Os valores decorrentes do reconhecimento do direito creditamento do PIS/COFINS, por força de determinação da legislação de regência, somente podem ser compensados com créditos do próprio PIS e COFINS.
+Opostos embargos declaratórios, foram rejeitados (fls. 239/243).
+A parte recorrente apontaviolação aos arts. 165 e 170 do CTN; 11 e 1.022, II, do CPC; e 74 da Lei nº 9.430/96. Sustenta que:(I)o acórdão recorrido foi omisso; e(II)"uma vez possibilitado o creditamento, este poderia se dar pela compensação, tanto escritural, com os débitos do PIS e da Cofins, como com outros tributos administrados pela Receita Federal, tendo em vista que o art. 74 da Lei 9.430/96 possibilita tal procedimento" (fl. 283).
+Contrarrazões às fls. 298/300.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 11e 1.022 do CPCse faz de forma genérica, sem a demonstração exata da maneira pelaqual o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Quanto ao cerne da discussão, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados (arts. 165 e 170 do CTNe 74da Lei nº 9.430/96), apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Ressalte-se, por oportuno, que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional (art. 1.022 do CPC), não permite, por consequência e per saltum, ingressar no exame da tese não prequestionada. Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. RESPONSABILIDADE CIVIL. DEVER DE INDENIZAR. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. TERMO INICIAL DOS JUROS DE MORA. TEMA NÃO ANALISADO NO ACÓRDÃO RECORRIDO. EMBARGOS DE DECLARAÇÃO REJEITADOS. PREQUESTIONAMENTO. INDISPENSABILIDADE. APLICAÇÃO DA SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. REQUISITOS NÃO ATENDIDOS.
+1.  ..
+4. Nesse contexto, sendo deficiente a fundamentação do apelo nobre no tocante à negativa de prestação jurisdicional declaratória, resta impossibilitado, por consequência e per saltum, o ingresso no exame da referida tese calcada na violação ao art. 405 do Código Civil, porquanto remanesce ausente o indispensável prequestionamento do tema. Incide, pois, o óbice da Súmula 211/STJ.
+5.  ..
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.809.148/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 18/10/2019)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
