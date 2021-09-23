@@ -1,0 +1,28 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1016955-77.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto pela Seguradora BRADESCO SAÚDE S.A. em virtude da decisão proferida pela Juíza da 11.a Vara Cível da Comarca da Capital que, nos autos da Ação Cominatória para Cumprimento de Obrigação de Fazer c/c Pedido de Indenização por Danos Morais n.o 1028770-45.2021.8.11.0041, proposta por MATHEUS DE OLIVEIRA, deferiu a tutela de urgência e determinou que a Agravante autorize/custeie a aquisição do tratamento/medicamento denominado “imunoglobulina subcutânea facilitada (HYQVIA 40g)”, de acordo com a frequência prescrita pelo profissional de saúde, no prazo de 08 (oito) horas, sob pena de aplicação das sanções previstas no art. 297 do CPC.
+Inconformada, a seguradora Agravante almeja a reforma do decisum, ao argumento de que não foram observados os requisitos autorizadores para a concessão da medida liminar.
+Assevera que está sujeita a experimentar grave prejuízo financeiro, de difícil reparação, uma vez obrigada ao custeio de medicamento em contrariedade à legislação especial aplicável.
+Segue argumentando que o contrato de prestação de serviços de saúde celebrado com o Agravado não contempla cobertura ampla e irrestrita, e que está obrigada a custear somente medicamentos que estejam albergados pelas coberturas do contrato, o que não é o caso dos autos.
+Noutro ponto, manifesta inconformismo quanto ao prazo fixado para o cumprimento do decisum objurgado. Assevera que 08 (oito) horas é demasiadamente exíguo para o cumprimento da ordem liminar.
+Com base nesses argumentos, pugna pelo deferimento do efeito suspensivo para sobestar o decisum invectivado até o julgamento do mérito deste Instrumental. No mérito, requesta o provimento do recurso.
+É, no essencial, o relatório. Decido.
+Recebo o Agravo de Instrumento, pois o recurso desafia decisão interlocutória que versa sobre tutela provisória, o que é autorizado pelo inciso I, do artigo 1.015, do Código de Processo Civil, e veio instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o, do CPC.
+É cediço que o artigo 1.019, inciso I, do Código de Processo Civil, dispõe acerca da possibilidade de o Relator deferir efeito suspensivo ao Recurso, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se dá imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Importante salientar que, neste momento processual, cabe tão somente verificar se os requisitos necessários para concessão do efeito pleiteado estão evidenciados ou não, uma vez que a Recorrente busca a imediata suspensão da tutela concedida ao Recorrido.
+O Agravado é beneficiário do plano de saúde denominado “Saúde top – Enfermaria Seguro Viagem/Rede Nacional” n.o 863.098.8000.19.022, (ID. 63173062 – autos principais).
+Após consulta com a médica especialista em alergia e imunologia, Dr.a Anete Sevciovic Grumach (CRM – 35.963/MT) em 02/08/2020, a profissional assentou que o Recorrido “está em tratamento por quadro de tuberculose e com processo infeccioso de repetição de vias aéreas (...) Diante deste quadro, indico o tratamento com imunoglobulina subcutânea facilitada” (ID. 63173075 e 63173077 – autos principais).
+Em que pese à prescrição médica, o requerimento foi indeferido pela Recorrente sob o fundamento de que o tratamento/medicamento não está incluído no rol de procedimentos e eventos de cobertura obrigatória da Agência Nacional da Saúde/ANS, assim como não se faz parte da lista da Resolução Normativa 428/2017 e 465-2021 (ID. 63173085 – ação principal).
+Da análise acurada dos autos, pelo menos nesta fase preambular, tenho que razão não assiste à Agravante, pois pelo que se observa do Relatório Médico acostado no ID. 63173075 e 63173077 – demanda originária, o tratamento/medicamento indicado é, até prova em contrário, imprescindível para que o Recorrido possa se desenvolver, dada a sua condição clínica.
+Sobre o tema, o Superior Tribunal de Justiça/STJ firmou entendimento no sentido de que é possível à operadora de plano de saúde estabelecer as doenças que terão cobertura contratual, mas não o tipo de tratamento prescrito ao usuário, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para realização do ato proposto pelo médico. A título ilustrativo, cito o AgInt. no AREsp. n.o 969.764/CE, de Relatoria do Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5.a Região), julgado em 15/03/2018 e publicado em 23/03/2018.
+A propósito, de acordo com o relatório médico supra destacado, a situação do Agravado é classificada como urgente, o que deixa cristalino o risco decorrente da negativa.
+Oportuno ressaltar que a saúde é considerada bem jurídico valioso e, quando negligenciado, caracteriza-se desrespeito ao direito à vida e à dignidade da pessoa humana.
+Neste compasso, não desconstituídos, por ora, os fundamentos que escoram a decisão agravada quanto à presença dos requisitos necessários para concessão da tutela de urgência na Instância singela, escorreita a decisão agravada que determinou à Requerida o custeio do tratamento/medicamento descrito na peça vestibular.
+Diante dessas razões, indefiro o efeito suspensivo.
+Comunique-se à Juíza da causa.
+Intime-se o Agravado para, querendo, apresentar contraminuta, no prazo legal.
+Cumpra-se.
+Cuiabá, 23 de setembro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
