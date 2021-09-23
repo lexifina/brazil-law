@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Bruna Carlette Sobreira Furtado contra o ato coator proferido pela Segunda Câmara Criminal do Tribunal de Justiça do Espírito Santo, que, nos autos do HC n. 0004590-89.2021.8.08.0000, denegou a ordem, mantendo a cautelar de incomunicabilidade entre a paciente e Carlos Alberto Furtado da Silva, seu marido, no contexto das investigações da Operação Capital (Processo n. 0010182-13.2019.8.08.0024, em trâmite na 8ª Vara Criminal de Vitória/ES).
+Os impetrantes alegam, em síntese, que toda família da paciente se encontra envolvida no contexto da operação e, no entanto, remanesce a cautelar de incomunicabilidade apenas contra seu marido, Carlos Alberto.
+Sustentam que a cautelar perdeu objeto com a transferência de Carlos Alberto para presídio federal e que a medida não é isonômica, além de conflitar com a proteção constitucional da família.
+Afirmam que o relaxamento da prisão e a imposição de cautelares são institutos incompatíveis.
+Pedem, em caráter liminar e no mérito, a revogação da cautelar de incomunicabilidade (fls. 3/15).
+Petição n. 727248/2021, reforçando os argumentos da inicial (fls. 301/302).
+Em 13/5/2021, indeferi o pedido liminar (fls. 303/305).
+Informações prestadas (fls. 308/449).
+O Ministério Público Federal opinoupelo não conhecimento, em parte, do habeas corpus, e peladenegação da ordem na extensão conhecida (fls. 453/467).
+Pedido de reconsideração ofertado, na Petição eletrônica n. 00839894/2021, pela defesa técnica (fls. 469/475).
+É o relatório.
+Da atenta leitura dos autosdenota-seque o Juízo da 8ª Vara Criminal da comarca de Vitória/ES, em 18/2/2021, concedeu a liberdade provisória à paciente, com consequente revogação da prisão domiciliar e das medidas cautelares diversas da prisão antes fixadas, e estabeleceu as seguintes medidas cautelares diversas da prisão: a) compromisso de não se ausentar da Grande Vitória, sem autorização judicial, e de comparecer a todos os atos processuais para os quais for intimada; b) proibição de manter contato, por qualquer meio, com o investigado Carlos Alberto Furtado da Silva; e c) entrega de seu passaporte e proibição de se ausentar do País.
+Ao manter a decisão do Juízo de Direito singular, o voto condutor do acórdão a quo explicitou que (fls. 19/21 - grifonosso):
+ .. Em detida análise dos autos, entendo pelo improvimento da pretensão defensiva pelos motivos a seguir expostos.
+Isso porque, o relaxamento da prisão por excesso de prazo não impossibilita a aplicação de medidas cautelares diversas, desde que demonstradas a necessidade e a proporcionalidade delas.
+ ..
+Na hipótese dos autos, diante da incerteza quanto à conclusão das investigações para o oferecimento da denúncia, verificando-se que a prisão da investigada já perdurava mais de 4 (quatro) meses sem conclusão do IP, o magistrado de primeiro grau, em acordo com o entendimento do parquet, reconheceu o excesso de prazo, todavia, aplicando medidas cautelares diversas da prisão, consoante decisão de fls. 8/12.
+Depreende-se que a imposição de medidas cautelares se deu em atenção à gravidade concreta dos delitos(organização criminosa e lavagem de dinheiro) e os indícios de periculosidade da paciente. Ou seja, ainda que constatado o excesso de prazo, o magistrado a quo demonstrou-se prudente quanto à necessidade de substituição da prisão preventiva por cautelares diversas em razão da gravidade concreta da conduta narrada nas investigações preliminares.
+Mister salientar que a paciente foi presa em razão de ordem proferida no bojo do inquérito policial instaurado em decorrência da deflagração da "Operação Capital", então, desencadeada com o objetivo de identificar os integrantes de uma suposta organização criminosa, responsável por ocultar bens e valores adquiridos com o tráfico ilícito de drogas e armas na região do Bairro da Penha, município de Vitória/ES.
+Inclusive, o perigo gerado pelo estado de liberdade da acusada parece real, com suporte fático e probatório a legitimar a medida, já que há informações em diálogos interceptados de um desejo da investigada em sair do país e a tentativa de obter dupla nacionalidade (fls. 19/19-v).
+Nesse sentido, frisa-se, como bem ponderado pelo Ministério Público ao se manifestar pela imposição de medidas cautelares diversas, "que não se duvida do papel que a investigada desempenha nos delitos narrados nestes autos, bem como de sua liderança sobre os demais envolvidos, já inclusive mencionada em diálogos entre suas irmãs e genitora, a qual, com contato pleno poderá voltar a ser realizada" (fl. 19).
+Nesse sentido, as particularidades do caso revelam acertada a aplicação das medidas dispostas no artigo 319 do Código de Processo Penal, ainda que reconhecida a ilegalidade da prisão da paciente em razão de excesso de prazo para conclusão do Inquérito Policial.
+Nesse contexto, mister se faz o relaxamento da prisão, franqueando-se, no entanto, ao Magistrado de origem, a aplicação de medidas cautelares diversas da prisão, desde que devidamente demonstrada sua necessidade.
+ ..
+Dito isso, em razão da demonstrada inexistência, por ora, de constrangimento ilegal em desfavor do ora paciente, conclui-se que o pleito do presente remédio constitucional não merece prosperar.
+ ..
+Consequentemente, in casu, inexistem óbices à aplicação de medidas cautelares diversas da prisão à ora paciente.
+Ilustrativamente: RHC n. 108.354/PR, Ministro Rogerio Schietti Cruz, SextaTurma, DJe 10/4/2019.
+Ademais, aaferição do excesso de prazo reclama a observância dagarantiada duração razoável do processo, prevista no art. 5º, LXXVIII,daConstituição Federal. Tal verificação, contudo, não se realiza deformapuramente matemática. Impõe, ao contrário, um juízo derazoabilidade, noqual devem ser sopesados não só o tempo da prisãoprovisória mas também aspeculiaridades da causa, sua complexidade, bemcomo quaisquer fatores quepossam influir na tramitação da ação penal(RHCn. 140.433/RS, MinistroAntonio Saldanha Palheiro, Sexta Turma, DJe10/3/2021).
+Diante disso, não merece reforma o acórdão impugnado.
+A corroborar, oportuna a transcrição, no que interessa, do parecer da Procuradoria-Geral da República (fls. 465/467):
+ .. Esse o quadro, registre-se que, ao contrário do que afirma a defesa, não há óbice à aplicação de medidas cautelares diversas da prisão quando a custódia cautelar é relaxada em razão da constatação de excesso de prazo, considerando que o entendimento do Juízo de primeira instância acerca da caracterização de constrangimento ilegal diz respeito especificamente à privação da liberdade antecipada do paciente.
+ ..
+Por outro lado, em relação à matéria não apreciadapela Corte de origem, ainda que fosse superado o indicado óbice ao conhecimento do habeas corpus neste ponto, o pleito mereceria prosperar.
+Alega a defesa que os fundamentos que amparam a proibição de a paciente manter contato com o corréu CARLOS ALBERTOFURTADO DA SILVA, seu marido, não mais se mantém, considerando que, em decorrência da Operação denominada Armistício, houve a "transferência de Carlos Alberto Furtado da Silva, doravante marido da paciente, para o presídio federal de Porto Velho/RO em regime de RDD" (e-STJ fls. 7).
+Observa-se que a certidão constante a fls. 77 (e-STJ) informa que o corréu CARLOS ALBERTO FURTADO DA SILVA deu entrada na Penitenciária Federal em Porto Velho (RO) em 19/07/2021, com previsão de permanência até a data de 17/09/2021, em regime fechado.
+Nessa esteira, além da possibilidade de que, por algum motivo, o corréu CARLOS ALBERTO FURTADO DA SILVA venha a ser solto antes da data do término de sua permanência na Penitenciária Federal, inclusive com amparo em eventual decisão judicial, constata-se a proximidade da data do término dessa permanência, fixada, como visto, em 17/09/2021,razão pela qual não assiste razão à defesa ao afirmar que não mais se justifica a medida cautelar de incomunicabilidade da paciente com o referido corréu em decorrência da transferência deste para a referida Penitenciária.
+Por fim, a defesa afirma que a referida medida cautelar "está servindo apenas para afastar marido e esposa, que, por uma via consequente, tem afetado os filhos do casal, Miguel e Rafael", o que se encontra em contradição à afirmação de que a mencionada medida cautelar não se presta mais ao objetivo fixado quando de sua imposição, considerada a transferência do corréu CARLOS ALBERTO FURTADO DA SILVA à aludida Penitenciária Federal.
+Nessa linha, embora constem dos autos documentos médicos e relacionados a consultas diversas, a defesa não comprovou que os problemas de saúde da paciente e os problemas de saúde e "relacionados a convívio" dos filhos do casal seriam diretamente decorrentes da manutenção da medida cautelar de proibição de manter contato, por qualquer meio, com o corréu CARLOS ALBERTO FURTADO DA SILVA, o que impossibilita a apreciação da viabilidade de deferimento do pedido de revogação da medida ou sua flexibilização com base nos referidos argumentos. Dessa forma, inexiste ilegalidade a ser sanada por essa E. Corte Superior, razão pela qual é de se denegar a ordem.
+ ..
+Não há violação dos preceitos processuais quando o Magistrado adotaostermos da manifestação ministerial como razões de decidir (RHCn.31.266/RJ, Ministro Adilson Vieira Macabu (Desembargador convocadodoTJ/RJ), Quinta Turma, DJe 18/4/2012).
+Ilustrativamente: HC n. 400.807/SP, da minha relatoria, Sexta Turma,DJe2/10/2017.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. OPERAÇÃO CAPITAL. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. OCULTAÇÃO DE BENS E VALORES ORIUNDOS DO TRÁFICO DE ENTORPECENTES.CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
