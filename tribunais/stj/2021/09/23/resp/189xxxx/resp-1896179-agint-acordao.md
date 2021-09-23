@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. AÇÃO CIVIL PÚBLICA. AGRAVO DE INSTRUMENTO. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART.1.022 DO NCPCCONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC/73. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA Nº 98 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o Tribunal estadual não se manifestou sobre os pontos que podem influir no resultado da demanda, e o recurso especial foi interposto com fundamento na violação do art. 1.022 do NCPC, devem os autos retornar para que otemasejaanalisadoe solvido.
+3. Édescabida a multa prevista no art. 538, parágrafo único, do CPC/73, quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do feito, mesmo que não configurada nenhuma hipótese de cabimento dos embargos de declaração, nos termos da Súmula nº 98 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presenterecurso, pode-se aferir que IVANI RODRIGUES DE LIMA (IVANI) ajuizou ação de indenização por dano moral contra TREVISA INVESTIMENTO S.A. (TREVISA).
+No curso da ação, o d. Juízo de primeira instância determinou a suspensão da ação individual até o julgamento das Ações Civis Públicas em trâmite na Vara Federal Ambiental, Agrária e Residual de Curitiba e deferiu a inclusão de COMPANHIA VALE DO RIBEIRA PARTICIPAÇÕES S.A. (VALE DO RIBEIRA) no polo passivo da demanda.
+Contra essa decisão interlocutória, IVANI interpôs agravo de instrumento que não foi provido por decisão monocrática proferida pela Juíza de Direito Substituta ELIZABETH NOGUEIRA CALMON DE PASSOS (e-STJ, fls. 1.070/1.082).
+O agravo regimental posteriormente interposto por IVANI foi desprovido pelo Tribunal de Justiça do Paranáem acórdão assim ementado:
+AGRAVO REGIMENTAL. NEGATIVA DE SEGUIMENTO A AGRAVO DE INSTRUMENTO. "AÇÃO DE REPARAÇÃO POR DANO MORAL". AÇÃO CIVIL PÚBLICA. CAUSA DE PEDIR COINCIDENTE COM A DA AÇÃO INDIVIDUAL. DECISÃO QUE SUSPENDEU A AÇÃO INDIVIDUAL ATÉ O JULGAMENTO DA AÇÃO COLETIVA DE DANO AMBIENTAL. POSSIBILIDADE. PREJUDICIALIDADE EXTERNA CONFIGURADA. PRECEDENTES DESTA CORTE E DO E. SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO AGRAVADA MANTIDA. RECURSO DESPROVIDO (e-STJ, fls. 1.108).
+Os embargos de declaração opostos IVANI foram rejeitados com aplicação de multa (e-STJ, fls. 1.138/1.147).
+Irresignado, IVANI interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando, além de dissídio jurisprudencial, a violação dos arts. 214, 219, 265, § 5º; 535 e 538, I e II, do CPC/73; 2º, parágrafo único, da Lei nº 7.347/85; e 81 e 104 da Lei nº 8.078/90; ao sustentar(1) negativa de prestação jurisdicional consubstanciada em omissão relativa a inaplicabilidade do art. 2º da Lei da Ação Civil Pública; (2) inexistência de caráter procrastinatório nos embargos de declaração; (3) que as ações coletivas não induzem litispendência com as ações individuais quando não há identidade entre elas e não houver requerimento da parte; e (4) que a suspensão do feito só poderia ser procedida após a citação da parte requerida e com prazo determinado, que, em nenhuma circunstância, poderia ultrapassar o período de umano (e-STJ, fls. 1.158/1.180).
+Foram apresentadas as contrarrazões por ITAÚ UNIBANCO S.A. (ITAÚ UNIBANCO), HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO (HSBC BANK BRASIL) e TREVISA (e-STJ, fls. 1.256/1.277; 1.279/1.287 e 1.291/1.306).
+O apelo nobre foi admitido (e-STJ, fls. 1.340/1.341).
+O Ministério Público Federal opinou pelo parcial provimento do recurso especial tão somente para o afastamento da multa imposta nos embargos de declaração (e-STJ, fls. 1.372/1.377).
+Em decisãode minha relatoria, dei provimento ao recurso especial interposto por IVANI, determinando o retorno dos autos ao TJPRpara que analisasse as questões trazidas nos embargos de declaração, bem como para afastar a multa do art. 538, parágrafo único, do CPC/73 (e-STJ, fls. 1.379/1.382)
+Nas razões do presente agravo interno, ITAÚ UNIBANCO alegou, em síntese, (1) a inexistência de vício de fundamentação que configurassea omissão apontada na decisão ora agravada quanto a aplicabilidade do art. 2º da Lei nº 7.347/85; e (2)que o recurso especial deveria ser inadmitido com fundamento na Súmula nº 83 do STJ, devendo ser mantidas a multa e a suspensão da ação individual até o trânsito em julgado das ações civis públicas atinentes à suspensão da ação individual até o trânsito em julgado das ações civis públicas (e-STJ, fls. 6.057/6.065).
+As impugnaçõesforamapresentadas (e-STJ, fls. 1.401/1.407 e 1.409/1.414).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. AÇÃO CIVIL PÚBLICA. AGRAVO DE INSTRUMENTO. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART.1.022 DO NCPCCONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC/73. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA Nº 98 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o Tribunal estadual não se manifestou sobre os pontos que podem influir no resultado da demanda, e o recurso especial foi interposto com fundamento na violação do art. 1.022 do NCPC, devem os autos retornar para que otemasejaanalisadoe solvido.
+3. Édescabida a multa prevista no art. 538, parágrafo único, do CPC/73, quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do feito, mesmo que não configurada nenhuma hipótese de cabimento dos embargos de declaração, nos termos da Súmula nº 98 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Por meio de decisão monocrática, concedi provimento ao recurso especial interposto por IVANI, determinando o retorno dos autos ao TJPR para que analisasse as questões trazidas nos embargos de declaração bem como para afastar a multa do art. 538, parágrafo único, do CPC/73.
+Irresignado, ITAÚ UNIBANCO alegou,nas razões do presente agravo interno, em síntese,(1) a inexistência de vício de fundamentação que configurasse a omissão apontada na decisão ora agravada quanto à aplicabilidade do art. 2º da Lei nº 7.347/85; e (2) que o recurso especial deveria ser inadmitido com fundamento na Súmula nº 83 do STJ, devendo ser mantidas a multa e a suspensão da ação individual até o trânsito em julgado das ações civis públicas atinentes à suspensão da ação individual até o trânsito em julgado das ações civis públicas.
+(1)Da negativa de prestação jurisdicional
+Conforme ressaltado no julgado agravado, IVANIquestionou, em seus embargos de declaração opostos, a existência deomissões relativasa inaplicabilidade do art. 2º da Lei da Ação Civil Pública(e-STJ, fls. 5.801/5.891).
+Assim, de uma leitura atenta dos acórdãos proferidos (e-STJ, fls. 1.107/1.114 e 1.138/1.147), verifica-se que, deveras, o TJPRse manteve silente acerca daquestãoali trazida, que se confundecom o próprio mérito das razões do recurso especial.
+E, embora manejados embargos de declaração para suprir as omissões alegadascom o devido tratamento das questõesventiladas, foram eles rejeitados, sob o fundamento de que essa espécie recursal não se prestapara rediscutir matéria já apreciada.
+Dessa forma, verificada a ofensa ao art. 1.022 do NCPC, e em virtude da relevância das questõessuscitadas, tenho como necessário o debate acerca de tais pontos.
+Nesse sentido, são os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO INCIDENTAL DE ASTREINTES. VIOLAÇÃO AO ART. 535, I e II, DO CPC. OCORRÊNCIA. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL DA LIDE.
+ ..
+6. Caracterização da ofensa ao disposto no art. 535, incisos I e II, do Código de Processo Civil, pois o Tribunal de origem não se manifestou, nem mesmo após a oposição de embargos de declaração, acerca de questão fundamental ao deslinde da controvérsia, que fora objeto de irresignação expressa por parte da empresa recorrente.
+7. Omissão que enseja o retorno dos autos à origem para que seja devidamente sanada. 8. RECURSO ESPECIAL PROVIDO.
+(REsp 1.278.892/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 11/4/2016)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DUPLICATA. ACEITE. FRAUDE. EMBARGOS DO DEVEDOR PROCEDENTES. OMISSÃO. OCORRÊNCIA. ART. 535 DO CPC. VIOLAÇÃO. CONCLUSÃO. FATOS. INDICAÇÃO. AUSÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO. ACÓRDÃO DE EMBARGOS DE DECLARAÇÃO CASSADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. É omisso o acórdão que deixa de examinar questão de fato relevante para o julgamento da causa, violando o art 535 do Código de Processo Civil.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1.387.684/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 19/2/2016).
+Dessarte, no meu entendimento, é mesmo o caso de provimento do recurso especial a fim de que os autos retornem ao TJPRpara o julgamento completo dos embargos de declaração opostos, de modo a haver efetivo pronunciamento acerca das questões ali trazidas, nos termos da fundamentação.
+Por consequência, ao se anular o acórdão proferido pelo TJPRquando do julgamento dos embargos de declaração, as questões de mérito ficam prejudicadas, pois, na oportunidade da prolação de novo acórdão, nova análise será feita ao se sanarem as omissões existentes.
+Por isso, o mérito recursal não pode ser analisado ao se dar provimento ao recurso especial por ofensa ao art. 1.022 do NCPC.
+Anote-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. FGTS. NOTIFICAÇÃO PARA DEPÓSITO DO FUNDO DE GARANTIA (NDFG). REQUISITOS. OMISSÃO CONSTATADA. VIOLAÇÃO AO ART. 535 DO CPC RECONHECIDA. NULIDADE DO ARESTO RECORRIDO.
+ ..
+2. In casu, verifica-se que, de fato, o Tribunal a quo deixou de apreciar questão fundamental para o deslinde da controvérsia, qual seja, o tema relativo à adequação e obediência do instrumento de cobrança (NDFG) aos requisitos impostos pela lei vigente à época de sua constituição. Por ser tema capaz de, individualmente, influenciar no provimento jurisdicional, deve ser objeto de manifestação pelo Colegiado, desde que existentes nos autos os documentos necessários à sua apreciação. Violação ao art. 535, II, do CPC reconhecida.
+3. Demais aspectos do recurso prejudicados em face do provimento do recurso pela omissão do acórdão recorrido.
+4. Recurso especial provido para se determinar o retorno dos autos ao Tribunal a quo para que o mesmo se pronuncie sobre a omissão apontada.
+(REsp 670.689/RJ, Rel. Ministro JOSÉ DELGADO, Primeira Turma, j. 16/12/2004, DJ 21/3/2005).
+(2) Da multa do art. 538, parágrafo único, do CPC/73
+Esta Corte firmou o entendimento de que é descabida a multa prevista no art. 538, parágrafo único, do CPC/73, quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do feito, mesmo que não configurada nenhuma hipótese de cabimento dos embargos de declaração, nos termos daSúmula nº 98 desta Corte, in verbis:
+Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório.
+Assim, considerandoque a multa do art. 538, parágrafo único, do CPC/73deve ser aplicada com temperamentos, afasteia multa imposta pelo Tribunal estadual no julgamento dos embargos de declaração.
+Dessa forma, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
