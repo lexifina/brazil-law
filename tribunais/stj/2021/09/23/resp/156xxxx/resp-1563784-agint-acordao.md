@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. A legislação processual (art. 932 do CPC/2015 c/c o art. 255, § 4º, do RISTJ, e Súmula 568/STJ) permite ao Ministro Relator julgar monocraticamente o recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada desta Corte. Além disso, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. Com relação ao art. 535 do CPC/1973, deve-se ressaltar que o aresto combatido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte agravante. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra Diva Malerbi (Desembargadora Federal Convocada/TRF 3ª Região), Segunda Turma, DJe 17/6/2016; REsp 1.078.082/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/5/2016; REsp 1.583.522/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 22/4/2016.
+3. Oalegado dissídio pretoriano não foi comprovado nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil, e255, § 2º, do Regimento Interno do STJ, uma vez que a parte interessada apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e a constante do aresto impugnado.
+4.Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por RUBENS FURLAN contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento (e-STJ, fls. 815-817).
+Inicialmente, alega que o relator não poderia analisar monocraticamente o mérito do recurso especial.
+Afirma que há violação do art. 489 do CPC/2015, ao argumento de que o acórdão proferido pela Corte local é omisso e não foi sanado o vício de fundamentação.
+Por fim, sustenta que está devidamente demonstrado o dissídio jurisprudencial.
+Apresentada impugnação ao agravo interno (e-STJ, fls. 870-875).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. A legislação processual (art. 932 do CPC/2015 c/c o art. 255, § 4º, do RISTJ, e Súmula 568/STJ) permite ao Ministro Relator julgar monocraticamente o recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada desta Corte. Além disso, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. Com relação ao art. 535 do CPC/1973, deve-se ressaltar que o aresto combatido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte agravante. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra Diva Malerbi (Desembargadora Federal Convocada/TRF 3ª Região), Segunda Turma, DJe 17/6/2016; REsp 1.078.082/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/5/2016; REsp 1.583.522/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 22/4/2016.
+3. Oalegado dissídio pretoriano não foi comprovado nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil, e255, § 2º, do Regimento Interno do STJ, uma vez que a parte interessada apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e a constante do aresto impugnado.
+4.Agravo interno a que se nega provimento.
+VOTO
+O agravante não trouxe tese jurídica capaz de modificar o posicionamento anteriormente firmado.
+Esclarece-se inicialmente que a legislação processual (art. 932 do CPC/2015 c/c o art. 255, § 4º, do RISTJ, e Súmula 568/STJ) permite ao Ministro Relator julgar monocraticamente o recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada desta Corte. Além disso, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR INSTAURADO CONTRA OFICIAL DE TITULAR DE CARTÓRIO. ALEGAÇÃO DE ILEGADADE NOS ATOS DE PRORROGAÇÃO DA SUSPENSÃO DO IMPETRANTE E NEGATIVA DE ADIAMENTO DE ADIÊNCIA. FUNDAMENTOS DO ACÓRDÃO NÃO ATACADO.INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 283/STF. ATO IMPUGNADO.DEVIDAMENTE FUNDAMENTADO. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. PREJUÍZO NÃO DEMONSTRADO. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. PRECEDENTES. RECURSO PROVIDO.
+ ..
+2. A legislação processual (artigo 932 do CPC/2015 combinado com artigo 255, § 4º, do RISTJ, e Súmula 568/STJ) permite ao Ministro Relator julgar monocraticamente o recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada desta Corte. Além disso, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+ ..
+8. Agravo interno não provido.
+(AgInt no RMS 65.804/BA, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA,DJe 25/8/2021).
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. SÚMULA 168/STJ.
+ ..
+2. "Não há nulidade no julgamento monocrático do recurso se a decisão singular foi proferida com base no entendimento atual firmado pela Corte Especial deste Superior Tribunal de Justiça, com fundamento no artigo 932 do Código de Processo Civil c/c o enunciado n. 568/STJ" (AgInt nos EAREsp 1.029.346/RJ, Rel. Ministra Maria Thereza de Assis Moura, Corte especial, DJe 24/5/2019).
+ ..
+7. Agravo interno não provido. (AgInt nos EREsp 1.362.789/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 26/5/2020).
+Outrossim, em relação aos arts. 489 do CPC/2015 e 535 do CPC/1973, deve-se ressaltar que o acórdão recorrido não incorreu em omissão ou contradição, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte agravante. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Min. Diva Malerbi (Desembargadora Federal Convocada/TRF 3ª Região), Segunda Turma, DJe 17/6/2016; REsp 1.078.082/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 2/6/2016; AgRg no REsp 1.579.573/RN, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 9/5/2016; REsp 1.583.522/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe 22/4/2016.
+De outro lado, o alegado dissídio pretoriano não foi comprovado nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil, e 255, § 2º, do Regimento Interno do STJ, uma vez que a parte interessada apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e a constante do aresto impugnado.
+No aspecto:
+RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. O STJ NÃO DETÉM COMPETÊNCIA PARA ANALISAR, EM RECURSO ESPECIAL, OFENSA A DISPOSITIVOS CONSTITUCIONAIS ALEGADAMENTE VIOLADOS. AUSÊNCIA DE INDICAÇÃO EXPRESSA DO DISPOSITIVO LEGAL QUE TERIA SIDO CONTRARIADO PELO ACÓRDÃO RECORRIDO. SÚMULA 284/STF.
+DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.TRANSCRIÇÃO DAS EMENTAS DO ACÓRDÃO RECORRIDO E DO PARADIGMA. NÃO DEMONSTRAÇÃO DA IDENTIDADE FÁTICA ENTRE OS JULGADOS. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+3. Com relação à alínea c do art. 105, III da Carta Magna, observa-se que os recorrentes não lograram demonstrar o dissídio jurisprudencial nos moldes exigidos pelos arts. 541, parág. único do CPC e 255 do RISTJ, uma vez que não realizaram o necessário cotejo analítico entre o acórdão recorrido e o paradigma, a fim de demonstrar a similitude fática e jurídica entre eles, tendo se limitado a transcrever as ementas das decisões que consideram divergentes.
+ ..
+5. Recurso Especial não conhecido, cessando os efeitos da liminar anteriormente deferida na Medida Cautelar 19.843/SP.
+(REsp 1.339.309/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 27/3/2014).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
