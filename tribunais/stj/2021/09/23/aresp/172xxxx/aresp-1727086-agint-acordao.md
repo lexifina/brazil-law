@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CAUTELAR DE SUSTAÇÃO DE PROTESTO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+RELATÓRIO
+SOARES BRANDÃO & CIA LTDA. (SOARES BRANDÃO) promoveu medida cautelar de sustação de protesto contra ANTÔNIO MAÉRCIO DE JORGI E PONTUAL FACTORING FOMENTO MERCANTIL LTDA. (ANTÔNIO e outra), pretendendo a sustação de protesto de cheques por dívida inexistente.
+Em primeira instância, os pedidos foram julgados improcedentes, condenando-se a autora ao pagamento das custas processuais e dos honorários advocatícios fixados em 10% sobre o valor atualizado da causa (e-STJ, fls. 329/332).
+O Tribunal de Justiça de Mato Grosso negou provimento ao recurso de apelação interposto por SOARES BRANDÃO, em acórdão assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - MEDIDA CAUTELAR - CHEQUE PROTESTADO - PRETENDIDA A SUSTAÇÃO DO PROTESTO - PRESCINDIBILIDADE - AUTONOMIA E ABSTRAÇÃO - CIRCULAÇÃO QUE O TRANSFORMA EM TÍTULO DE CRÉDITO - SENTENÇA ESCORREITA - RECURSO DESPROVIDO.
+Assumindo o apelante que efetivamente emitiu os cheques e deixou de quitá-los, deve cumprir com a obrigação representada pelo título, que possui as características da autonomia e abstração e preencheu todos seus requisitos formais (e-STJ, fl. 392).
+Os embargos de declaração opostos por ANTÔNIO e outra foram acolhidos para sanar a omissão e majorar os honorários advocatícios para 12% sobre o valor da causa. Quanto aos declaratórios opostos por SOARES BRANDÃO, foram rejeitados (e-STJ, fls. 437/452).
+Inconformado, SOARES BRANDÃO interpôs recurso especial com fulcro no art. 105, III, a e c, da Constituição Federal, apontando violação dos arts. 336, 357, I e II; 332; 370 e 371 do NCPC, bem como divergência jurisprudencial.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ.
+O agravo em recurso especial daí decorrente foi conhecido para não conhecer do recurso especial em decisão monocrática de minha lavra assim ementada:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. MEDIDA CAUTELAR DE SUSTAÇÃO DE PROTESTO. IMPROCEDÊNCIA. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. JULGAMENTO ANTECIPADO DA LIDE. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. ALEGAÇÃO AFASTADA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (e-STJ, fl. 606 - com destaque no original).
+Nas razões do presente agravo interno, SOARES BRANDÃO, repisando os argumentos das razões recursais, alegou a ausência de violação da Súmula nº 7 do STJ, por não haver necessidade de revolver ou analisar fatos.
+Não houve impugnação ao recurso (e-STJ, fls. 676/677).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CAUTELAR DE SUSTAÇÃO DE PROTESTO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Na hipótese, a decisão recorridadestacou que o Tribunal local consignou, no julgamento dos aclaratórios, que não houve o alegado cerceamento de defesa, consoante se vê dos seguintes trechos:
+Quanto à insurgência do embargante Soares Brandão & Cia Ltda, em relação ao " cerceamento do direito de produção de provas", ao argumento de que a sentença foi proferida antecipadamente dando pela improcedência da ação sem oportunizar a dilação probatória.
+Razão não lhe assiste.
+Isso porque, ficou claro no acórdão proferido por esta Câmara que os documentos acostados aos autos se mostraram suficientes à formação do convencimento e resolução da controvérsia, vejamos:
+"In casu, verifica-se que operação de crédito efetivada entre as partes foi documentalmente demonstrada, consoante se infere da cópia do cheque acostados aos autos Id. 22129959, emitida em 10.09.2012, pré -datado para o dia 10.12.2012, que eram substituídos a cada seis meses, até que foram emitidos quatro cheques no valor de R$ 33.266,00 cada um, totalizando R$ 133.064,00, que são objetos de protesto, Id. 22130023.
+Outrossim, o próprio apelante em suas razões recursais afirmou, de forma clara, ter emitido o título em questão, afirmando que apenas não os quitou em razão de "já ter efetuado ao longo desse tempo o pagamento de um total de R$ 192.505,37 (cento e noventa e dois mil, quinhentos e cinco reais e trinta e sete centavos)".
+Isto é, não negou a emissão regular e válida do cheque protestado. Quanto a alegação de que pagou os débitos contraídos com os apelados, não obstante constatar que o apelante trouxe com a inicial cópias de vários cheques nominais a Pontual Factoring Fomento e a Antônio Márcio de Jorgi, nota-se que tais documentos não são hábeis a demonstrar que eles foram emitidos para pagamento dos títulos encaminhados a protesto, mesmo porque percebe-se a existência de outros negócios realizados entre as partes, em razão do Contrato de Fomento Mercantil firmado.
+Com efeito, nos moldes do artigo 355, do Código de Processo Civil, o juiz conhecerá diretamente do pedido, proferindo sentença quando a questão de mérito for unicamente de direito, ou, sendo de direito e de fato, não houver necessidade de produzir prova em audiência.
+Assim, sendo o juiz o destinatário da prova, conforme dispõe o art. 370, do CPC, cabe a este decidir a respeito da conveniência ou não da produção de demais provas, possibilitando formar o seu convencimento para o correto desate da controvérsia.
+Conforme assegurado pela legislação, se os autos fornecem elementos suficientes para a formação da convicção do Julgador, pode ser dispensada a produção de outras provas ou abertura da instrução.
+Portanto, ficou evidenciado que a pretensão do segundo embargante é estabelecer nova discussão acerca de matéria decidida no acórdão combatido, pretensão esta que não pode ser de forma alguma acolhida, se a parte está inconformada com o resultado do julgamento cabe a ela interpor recurso às demais instâncias, não servindo os aclaratórios como sucedâneo recursal (e-STJ, fls. 442/443 - com destaque no original).
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. DESCUMPRIMENTO DO CONTRATO. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7/STJ. INÉPCIA DA INICIAL E CERCEAMENTO DE DEFESA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A revisão das conclusões estaduais, quanto ao descumprimento do contrato, demandaria necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+3. A alteração das conclusões adotadas pela Corte de origem  no tocante à aptidão da petição inicial e à não ocorrência de cerceamento de defesa  demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.785.038/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 22/6/2021, DJe 25/6/2021)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. ALTERAÇÃO DO JULGADO.
+REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. CONTRATO COLETIVO POR ADESÃO. ÓBITO DO TITULAR. MANUTENÇÃO DO DEPENDENTE APÓS O PRAZO DE REMISSÃO, COM A ASSUNÇÃO DAS OBRIGAÇÕES JÁ ASSUMIDAS.POSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. INFRINGÊNCIA DE DISPOSITIVO DE RESOLUÇÃO DA ANS. ANÁLISE EM RECURSO ESPECIAL.DESCABIMENTO. VIOLAÇÃO DO ART. 421 DO CC/02. FALTA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que não era necessária a produção de prova pericial. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+3. Segundo o entendimento do STJ, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes. Incidência da Súmula nº 568 do STJ.
+4. Conforme disposto no art. 105, III, a, da CF/88, não é cabível recurso especial fundamentado em violação de ato normativo que não se enquadre no conceito de lei federal.
+5. Inviável o recurso especial por ofensa a dispositivo de lei que não foi objeto de deliberação no acórdão recorrido, sem que fossem opostos embargos de declaração a fim de suscitar sua discussão, ressentindo-se a questão do indispensável prequestionamento. Incide, à espécie, o óbice das Súmulas nºs 282 e 356 do STF.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido.
+(AgInt no REsp 1.923.124/SP, de minha relatoria, Terceira Turma, j. 19/4/2021, DJe 22/4/2021)
+De outra parte, a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. DEVOLUÇÃO EM DOBRO. MÁ-FÉ DO CREDOR. INEXISTÊNCIA. REEXAME. SÚMULA Nº 7/STJ. VERBA HONORÁRIA. APRECIAÇÃO EQUITATIVA. LIMITES. VALOR FIXO. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+3. Não há como rever a conclusão do tribunal de origem, acerca da ausência de má-fé do credor a justificar a devolução em dobro dos valores pagos indevidamente, sem a análise de fatos e provas, o que é inviável no recurso especial devido à incidência da Súmula nº 7/STJ.
+ ..
+6. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.231.900/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 8/5/2018, DJe 15/5/2018 - sem destaque no original).
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
