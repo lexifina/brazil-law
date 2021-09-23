@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA.VIOLAÇÃO DA CONSTITUIÇÃO. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. REVISÃO DO CÁLCULO DO PAGAMENTO POR MORTE. NECESSIDADE DE CUSTEIO E VIGÊNCIA DO REGULAMENTO NA DATA DO CUMPRIMENTO DOS REQUISITOS. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF.DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, alíneaa,da CF/88.
+3.A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias
+de origem. Ausente, portanto, o devido prequestionamento nos termos
+da Súmula nº 282 do STF, aplicável por analogia.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+RELATÓRIO
+ADELINA DE MATTOS DIAS e outros (ADELINA e outros) ajuizaram ação de obrigação de fazer contra FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL  PETROS (FUNDAÇÃO), pretendendo a revisão do cálculo dos benefícios de pensões suplementares e pagamento das diferenças devidas.
+Em primeira instância, o pedidofoi julgadoprocedente para condenar a FUNDAÇÃO ao pagamento da suplementação da pensão e das diferenças a serem apuradas em liquidação de sentença.
+A apelação interposta pela FUNDAÇÃO não foi provida pelo Tribunal de Justiça do Rio de Janeiro, nos termos do acórdão assim ementado:
+APELAÇÃO. PREVIDÊNCIA PRIVADA PETROS. EXAME DA SENTENÇA QUE JULGOU PROCEDENTE A PRETENSÃO AUTORAL, RELATIVA À REVISÃO DO CÁLCULO DE PENSÃO POR MORTE PARA FAZER REFLETIR O QUE ESTÁ CONTIDO NO ART. 32 DO RESPECTIVO REGULAMENTO. Afastada a preliminar arguida, relativa à falta de interesse de agir. Isto porque a entidade de previdência complementar resiste à pretensão formulada pelas autoras, razão pela qual há interesse processual, que ficou evidenciado no caso em exame. O Juízo a quo julgou procedente os pedidos dos autores, por entender que, o critério adotado pela Fundação, consistente na aplicação das formulas dos artigos 41 e 42 daquele estatuto, resulta em valor inferior ao que decorre da aplicação do artigo 32 do regulamento e causa prejuízo aos beneficiários. O Perito concluiu que a aplicação do percentual de pensão sobre a soma do benefício PETROS com o benefício INSS não está de acordo com o determinado no art. 31 do Regulamento. Diante da conclusão a que chegou o Expert, a sentença deve ser mantida. O réu não se desincumbiu do ônus de demonstrar fato modificativo do direito autoral, na forma do art. 373, II do CPC. Precedentes. RECURSO CONHECIDO E A ELE NEGADO PROVIMENTO(e-STJ, fls. 1.031/1.037).
+Inconformada, a FUNDAÇÃO manejou recurso especial com fundamento no art. 105, III,a, da CF alegando a violação dos arts.1º, 17, parágrafo único, 68, § 1º, todos da Lei Complementar nº 109/2001,884 do CC e 5º, XXXVI, da CF,ao sustentar que (1) é necessário o prévio custeio para a concessão do benefício, uma vez que deve ser observado o equilíbrio econômico do plano de previdência complementar na medida em que a concessão do benefício pago por entidades fechadas observa regras próprias contidas em seus regulamentos; (2) o regulamento aplicável é aquele vigente no momento em que o participante possui as condições de elegibilidade para recebimento do benefício; (3)tal concessão implicaria em enriquecimento ilícito; e (4) houve violação do ato jurídico perfeito.
+Foram apresentadas contrarrazões(e-STJ, fls. 1.126/1.131).
+AFUNDAÇÃO manejou recurso extraordinário que não foi admitido (e-STJ, fls. 1.082/1.100 e 1.159/1.214).
+O apelo nobre não foi conhecido em decisão monocrática de minha lavra , assim ementada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL.RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. REVISÃO DO CÁLCULO DO PAGAMENTO POR MORTE. NECESSIDADE DE CUSTEIO E VIGÊNCIA DO REGULAMENTO NA DATA DO CUMPRIMENTO DOS REQUISITOS. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. VIOLAÇÃO À CF. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fl. 1227)
+Nas razões do presente agravo interno, a FUNDAÇÃO sustentou que a decisão agravada merece reparos porque (1) nas razões do recurso especial, as menções a dispositivos constitucionais ou artigos regulamentares foram explicitadas apenas com o objetivo de reforçar a argumentação expendida no recurso; e(2)é inaplicável a Súmula nº 282 do STF quantoa violação dos arts. 1º, 17, parágrafo único, 68, § 1º, da Lei Complementar nº 109/2001, e 884 do CC.
+Houve contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA.VIOLAÇÃO DA CONSTITUIÇÃO. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. REVISÃO DO CÁLCULO DO PAGAMENTO POR MORTE. NECESSIDADE DE CUSTEIO E VIGÊNCIA DO REGULAMENTO NA DATA DO CUMPRIMENTO DOS REQUISITOS. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF.DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, alíneaa,da CF/88.
+3.A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias
+de origem. Ausente, portanto, o devido prequestionamento nos termos
+da Súmula nº 282 do STF, aplicável por analogia.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+(1) Da impossibilidade de análise de violação dos preceitos constitucionais
+No bojo do presente agravo interno a FUNDAÇÃO sustentou que,nas razões do seu recurso especial, as menções a dispositivos constitucionais ou artigos regulamentares foram explicitadas apenas com o objetivo de reforçar a argumentação expendida no recurso.
+Ainda assim,a decisão agravada não merece reparos quanto ao ponto, pois é assente na jurisprudência deste Tribunal Superior que não cabe a apreciação de suposta ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Nesse sentido, confira-se o precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E INCIDÊNCIA DE ASTREINTES. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. PREQUESTIONAMENTO.AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de obrigação de fazer cumulada com indenização por danos morais e incidência de astreintes.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.833.510/MG, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 19/8/2021 - destacou-se)
+Dessa forma, quanto ao ponto, o recurso não pode ser provido.
+(2) Da incidência da Súmula nº 282 do STF
+A FUNDAÇÃO ainda sustentou a inaplicabilidadeda Súmula nº 282 do STF quanto a violação dos arts. 1º, 17, parágrafo único, 68, § 1º, da Lei Complementar nº 109/2001, e 884 do CC segundo os quais(i) deve ser observado o equilíbrio econômico do plano de previdência complementar e a concessão do benefício pago por entidades fechadas deve observar regras próprias contidas em seus regulamentos, razão pela qual se exige prévio custeio para a sua concessão; e (ii) o regulamento aplicável é aquele vigente no momento em que o participante possui as condições de elegibilidade para recebimento do benefício.
+Como constou na decisão agravada, verifica-se que o TJRJ não emitiu pronunciamento sobre o tema, visto que apenas tratou da existência de pagamento de forma diversa do previsto no regulamento da FUNDAÇÃO, que nem sequer opôs embargos de declaração.
+A propósito, confira-se:
+Cinge-se a controvérsia ao exame da sentença que julgou procedente a pretensão autoral, relativa à revisão do cálculo de pensão por morte para fazer refletir o que está contido no art. 32 do respectivo regulamento. (e-STJ, fl. 1034)
+(..)
+O Juízo a quo julgou procedente os pedidos dos autores, por entender que, o critério adotado pela Fundação, consistente na aplicação das formulas dos artigos 41 e 42 daquele estatuto, resulta em valor inferior ao que decorre da aplicação do artigo 32 do regulamento e causa prejuízo aos beneficiários. Em virtude da natureza técnica dos cálculos, o feito foi encaminhado ao Perito, que apurou não estar correta a fórmula de cálculos praticada pela Fundação, a propósito eis as conclusões do Expert (Pasta eletrônica 629):(e-STJ, fl. 1035)
+Assim, não houve o indispensável debate prévio, condição sem a qual fica obstaculizada a via de acesso ao apelo excepcional.
+Inafastável, assim, a incidência da Súmula nº 282 do STF, por analogia, in verbis: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Sobre o tema, seguem os julgados:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO À SÚMULA. DISPOSIÇÃO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. DISSÍDIO NOTÓRIO. AUSÊNCIA DE DEMONSTRAÇÃO DO COTEJO ANALÍTICO. OMISSÃO. INEXISTÊNCIA. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 1.029, § 1º do CPC/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu no caso sob análise.
+2. "Não é possível a interposição do Recurso Especial sob a alegação de contrariedade a ato normativo secundário, tais como Resoluções, Portarias, Regimentos, Instruções Normativas e Circulares, bem como a Súmulas dos Tribunais, por não se equipararem ao conceito de lei federal" (REsp 1722614/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/04/2018, DJe 23/05/2018)  g.n. .
+3. A ausência de manifestação judicial a respeito da matéria trazida à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.494.832/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 18/2/2020, DJe 3/3/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMÓVEL. BEM DE FAMÍLIA. IMPENHORABILIDADE. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISTRIBUIÇÃO DO ÔNUS DA PROVA FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem quanto à impenhorabilidade de imóvel bem de família demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+2. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo acórdão recorrido, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF. 3. Agravo interno desprovido.
+(AgInt no AREsp 1.368.197/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
