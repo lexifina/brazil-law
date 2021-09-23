@@ -1,0 +1,30 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EXECUÇÃO FISCAL.RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO. RENAJUD. POSSIBILIDADE. FIRMEJURISPRUDÊNCIA DESTA CORTESUPERIOR. RECURSO ESPECIAL DA ANTT CONHECIDO E PROVIDO PARA SE DETERMINAR AO JUÍZO DE PRIMEIRO GRAU A REALIZAÇÃO DA RESTRIÇÃO PLEITEADA.
+1. Trata-se de recurso especial interposto pelaAGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, com fundamento no art. 105, inciso III, alíneaa,da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 4ª Região, assim ementado:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. RENAJUD. ANOTAÇÃO DE RESTRIÇÃO À CIRCULAÇÃO ANTERIORMENTE À PENHORA. IMPOSSIBILIDADE.
+Localizado veículo por meio de consulta ao Renajud, cumpre ao credor requerer a penhora e avaliação do bem, prosseguindo-se nos demais atos da execução, podendo ser cogitada, inclusive, a anotação restritiva quanto à transferência do bem, mas não quanto à circulação do veículo, medida que serve a efetivar eventual ordem de remoção, o que pressupõe a existência de penhora(fls. 49).
+2. Os embargos de declaraçãointerpostos foram rejeitados às fls. 68/71.
+3. Nas razões do seurecurso especial (fls. 75/18), a parte recorrente apontaviolação dos arts. 301 e 797e 1.022, II, do CPC/2015; 7o. e 10 da LEF. Aduz, para tanto, (a) a negativa de prestação jurisdicionale (b) o cabimento do pedido de restrição de circulação do veículo,a fim de viabilizar o exercício regular do direito de penhora, com amparo na legislação.
+4. Devidamente intimada (fls. 88), a parte interessada não apresentoucontrarrazões (fls. 90), orecurso especial foi admitido na origem(fls. 85/86).
+5. É o relatório.
+6. A irresignação merece prosperar.
+7.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual,aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. No mais, verifica-seque o acórdão recorrido está em dissonância com o entendimento atual deste Tribunal Superior, segundo o qual, é possível a restrição de circulação de veículo, por via do sistema Renajud, para viabilizar a localização e apreensão do bemcom o intuitodequeseja realizada a penhora e a consequente satisfação do crédito exequendo.
+9. Confiram-se, a propósito, os julgados a seguir:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO.RENAJUD. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui precedentes favoráveis à possibilidade de restrição de circulação de veículo, por via do sistema Renajud, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo.
+2. Agravo Interno não provido.(AgInt no REsp 1.820.182/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/10/2019, DJe 18/10/2019)
+EXECUÇÃO FISCAL. SISTEMA RENAJUD. APREENSÃO DO VEÍCULO. IMPOSIÇÃO LEGAL. PENHORA. EFETIVAÇÃO.
+I - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que é legal a localização e restrição de circulação de veículo, por meio do sistema RENAJUD. Precedentes: AgInt no REsp n.1.678.675/RS, Rel. Min. Og Fernandes, DJe 13/3/2018 e REsp n.1.744.401/MG, Rel. Min. Nancy Andrighi, DJe 22/11/2018.
+II - A viabilização da localização e restrição da circulação do veículo objetiva a realização da penhora, tendo como consequência natural a apreensão do bem, sendo indevida autorização para manter a circulação deste, dificultando a satisfação do crédito.
+III - Recurso especial provido(REsp 1.778.360/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/02/2019, DJe 14/02/2019).
+RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. DL 911/69. MORA DO DEVEDOR. RENAJUD. RESTRIÇÃO DE CIRCULAÇÃO. LEGALIDADE. EFETIVIDADE JURISDICIONAL.
+1. Ação de busca e apreensão da qual se extrai o presente recurso especial, interposto em 04/08/17 e concluso ao gabinete em 02/03/18.
+2. O propósito recursal consiste em definir se a ordem judicial de busca e apreensão de veículo, via RENAJUD, com base no DL 911/69, autoriza a restrição de sua circulação.
+3. O sistema RENAJUD é uma ferramenta eletrônica que interliga o Poder Judiciário e o Departamento Nacional de Trânsito - DENATRAN, possibilitando consultas e o envio, em tempo real, de ordens judiciais eletrônicas de restrição e de retirada de restrição de veículos automotores na Base Índice Nacional (BIN) do Registro Nacional de Veículos Automotores - RENAVAM.
+4. A adoção da padronização e a automação dos procedimentos envolvidos na restrição judicial de veículos via RENAJUD, no âmbito dos Tribunais e Órgãos Judiciais, tem como principal objetivo a redução significativa do intervalo entre a emissão das ordens e o seu cumprimento, comparativamente à tradicional prática de ofícios em papel.
+5. A restrição de circulação (restrição total) impede o registro da mudança da propriedade do veículo, um novo licenciamento no sistema RENAVAM e também a sua circulação em território nacional, autorizando o recolhimento do bem a depósito.
+6. Como decorre da própria razão que instituiu as ferramentas eletrônicas de efetividade jurisdicional - BACENJUD, INFOJUD e RENAJUD - a ordem de busca e apreensão do bem alienado fiduciariamente autoriza o bloqueio de circulação veicular, com vistas à satisfação da tutela jurisdicional do credor fiduciário, em integral cumprimento à finalidade do DL 911/69.
+7. Recurso especial conhecido e não provido(REsp 1.744.401/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/11/2018, DJe 22/11/2018).
+10. Ante o exposto, conheço e dou provimento ao Recurso Especial daAGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, a fim de determinar ao Juízo de Primeira Instância que proceda à restrição pleiteada.
+11. Publique-se.Intimações necessárias.
