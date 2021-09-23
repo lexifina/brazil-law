@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO Execução fiscal IPTU, exercícios de 2010 a 2013 - Ilegitimidade passiva - Exceção de pré-executividade rejeitada ante a inadequação da via eleita. Tese não comprovada de plano e que demanda dilação probatória. Decisão mantida. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa ao art. 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts. 1.417 do CC e 32 do CTN, ao argumento que é parte ilegítima para figurar no polo passivo da presente lide.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 149/150, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem decidiu que:
+No caso concreto, embora haja notícia da alienação do imóvel mediante compromisso de compra e venda, não há nos autos a efetiva prova da transferência da propriedade imobiliária, qual seja, a certidão de matrícula, devidamente registrada, nos melhores termos da legislação civil1.
+Não obstante, a cópia do suposto contrato juntado às fls. 60/61 nada comprova por ser completamente ILEGÍVEL, não havendo como se aferir, por ora, a ilegitimidade da agravante para figurar no polo passivo da demanda executiva. Oportuno ressaltar, desde já, que o Instrumento Particular de Compromisso de Compra e Venda, isoladamente considerado, não permite qualquer conclusão acerca da real e efetiva transferência da propriedade, e mesmo da posse, do imóvel.
+Sua oposição à pretensão fazendária é, ademais, totalmente impertinente, vez que as convenções particulares não têm o condão de alterar as definições legais sobre responsabilidade passiva nas obrigações tributárias2. Desse modo, ao optar pela via de exceção, deveria ter o excipiente comprovado, de plano, as teses deduzidas, já que esse meio processual não se confunde com os embargos à execução.
+E, como já antecipado, para que se viabilize o acolhimento da exceção, imprescindível que os fatos que servem de embasamento para as alegações despendidas sejam incontestavelmente comprováveis de plano. Nesse contexto, o não acolhimento da presente exceção não acarreta qualquer violação ao princípio constitucional da ampla defesa, pois esta poderá ser exercida oportunamente em sede de embargos à execução, após garantido o juízo pela penhora.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+No mérito, consoante a jurisprudência do STJ: "se a Corte de origem entende que a pretensão da parte extravasaria o âmbito de cognição possível em exceção de pré-executividade, a revisão desse posicionamento esbarra no óbice da Súmula 7/STJ" (AgInt no REso 1.717.415/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 28.2.2019).
+No mesmo sentido, coleciona-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AUSÊNCIA DE NECESSIDADE DE DILAÇÃO PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7/STJ. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. SÚMULA N. 83/STJ. LITIGÂNCIA DE MÁ-FÉ. PAGAMENTO EM DOBRO. ALTERAÇÃO DAS CONCLUSÕES DO ARESTO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. EXTINÇÃO DA EXECUÇÃO. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A orientação desta Corte de Justiça é no sentido de que é inviável a análise de matéria que tem por propósito o revolvimento de matéria fático-probatória, devido à incidência da Súmula n. 7/STJ.
+2. De acordo com a jurisprudência deste Tribunal Superior, o termo inicial dos juros moratórios no cálculo dos honorários advocatícios é a partir do trânsito em julgado da sentença.
+3. Acerca da ausência de litigância de má-fé, mostra-se inviável ao Superior Tribunal de Justiça infirmar o posicionamento adotado pelo acórdão recorrido, pois, para tanto, seria necessário o revolvimento de fatos e provas, o que é vedado pela Súmula 7/STJ.
+4. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. A jurisprudência do STJ está orientada no sentido de ser cabível a fixação de honorários sucumbenciais no caso em que o acolhimento da exceção de pré-executividade implicar extinção, parcial ou total, do débito.
+6. Agravo interno improvido.
+(AgInt no AREsp 1723187/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+Diante do exposto, com fundamento no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ.
