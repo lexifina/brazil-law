@@ -1,0 +1,39 @@
+Decisão: Trata-se de habeas corpus, com pedido liminar, impetrado por Bruno Barros Mendes, em favor de Nelson Conrado Rosa, contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimental no HC 650.566 - SP.
+    Consta dos autos que o paciente foi condenado pela prática dos delitos descritos nos arts. 157, § 2°, I, II e V, por duas vezes, na forma do artigo 71, § único, artigo 180, caput, por três vezes, na forma do artigo 70, caput, e artigo 329, todos c.c artigo 29 e tudo na forma do artigo 69, todos do Código Penal, à pena de 21 anos, 11 meses e 27 dias de reclusão; e 01 ano e 04 meses e 10 dias de detenção e 64 dias-multa.
+    A ação penal transitou em julgado em novembro de 2014.
+    Ainda inconformada, a defesa impetrou habeas corpus no Superior Tribunal de Justiça alegando, em suma, a ilegalidade na dosimetria da pena.
+    O writ não foi conhecido em razão do instituto da preclusão.
+    A decisão foi impugnada por meio de agravo regimental, que foi desprovido nos termos da ementa a seguir transcrita:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO, RECEPTAÇÃO E RESISTÊNCIA. FUNDAMENTO DA DECISÃO AGRAVADA NÃO INFIRMADO. SÚMULA N. 182 DESTA CORTE SUPERIOR. RECURSO NÃO CONHECIDO.
+    1. O agravante limitou-se a reiterar as teses já expendidas, não logrando êxito em rebater o fundamento da decisão agravada. Incidência da Súmula n. 182 do Superior Tribunal de Justiça – STJ.
+    2. Agravo regimental não conhecido”. (eDOC 2, p. 179)
+    Nesta Corte o impetrante reitera os pedidos pretéritos e enfatiza a ilegalidade na dosimetria da pena.
+    Argumenta que a majoração exacerbada da pena-base viola os princípios da razoabilidade e da proporcionalidade.
+    É o relatório.
+    Passo a decidir.
+    No presente writ, a defesa reitera a tese de ilegalidade na dosimetria da pena fixada ao acusado, alegando ter o juízo de origem majorado a pena-base de maneira excessiva e desarrazoada.
+    No entanto, verifica-se que o Tribunal de origem, ao manter a condenação, consignou o seguinte:
+    “As básicas foram corretamente fixadas acima do mínimo legal.
+    Quanto aos roubos, as gravíssimas circunstâncias judiciais impunham o aumento, uma vez que, em homenagem ao princípio da proporcionalidade, o grande número de agentes, o grosso calibre das armas e o extenso lapso de tempo em que as vítimas foram mantidas sob o jugo dos ladravazes devem ser ponderados para o estabelecimento da pena. O crime perpetrado com uso de diversos fuzis e com a efetiva troca de tiros não pode ser equiparado ao roubo perpetrado, por exemplo, com simples ameaça com arma branca; a coautoria de diversos agentes - ao menos seis - com coletes balísticos e vestidos como policiais civis não pode ser igualado à simples coautoria de um par de bandidos; a restrição da liberdade das vitimas por horas, obrigando-as, inclusive, a ajudar e no transbordo de carga não deve ser igualada àquela por poucos minutos. Além disso, houve pessoas feridas e uma morta e o valor subtraído foi altíssimo. Assim, a pena-base de cada um dos roubos foi majorada de modo bem justificado.
+    Quanto aos crimes de receptação, também agiu com acerto o d. Magistrado sentenciante ao aplicar pequeno acréscimo em virtude de os veículos terem sido receptados com o objetivo de serem utilizados, como visto, para a prática do roubo.
+    No tocante ao crime de resistência, pelas mesmas circunstâncias e também em razão de diversos policiais terem sido expostos à troca de tiros, correto o incremento aplicado.
+    Destaco que NELSON ostenta maus antecedentes (fls. 168/174) e, por isso, suas penas sofreram aumento diferenciado nessa fase.
+    Na segunda etapa, as penas de NELSON sofreram novo acréscimo em razão da reincidência (fls. 175). Nesse aspecto, destaco que o réu ostenta duas condenações anteriores pelo crime de roubo, sendo uma ponderada para efeito de maus antecedentes e outra como a agravante da reincidência, motivo pelo qual não há que se falar em bis in idem.
+    (…)
+    Na derradeira fase, as penas dos crimes de roubo sofreram acréscimo da metade. Todavia, entendo mereçam pequeno reparo, uma vez é posicionamento firmado por esta C.Câmara Criminal que a presença de três causas especiais de aumento ecomendam a fração de aumento de dois quintos.
+    (…)
+    Assim, reduzida a fração para 2/5 as penas chegam a nove anos, nove meses e dezoito dias, e vinte e três dias-multa para TIAGO; doze anos, seis meses e oito dias, e vinte e nove dias-multa para N ELSON.
+    Mantenho o aumento na 12/ (metade) pela continuidade delitiva entre os roubos, nos termos do art. TI, parágrafo único, do Código Penal, e torno definitivas as penas pelos crimes de roubo em quatorze anos, oito meses e doze dias, e trinta e quatro dias-multa para TIAGO; e dezoito anos, nove meses e doze dias, e quarenta e três dias - multa para N ELSON.
+    Correta também a fração de aumento de 1/5 (um quinto) entre os crimes de receptação, por serem em número de três, motivo pelo qual ficam assim mantidas.
+    Finalmente, somadas as penas dos crimes de roubo, receptação e resistência pelo concurso material, tornam-se definitivas em quinze anos, dez meses e doze dias de reclusão, um ano de detenção, além de quarenta e sete dias-multa, no mínimo legal, para TIAGO; vinte anos, um mês e doze dias de reclusão, um ano e dois meses de detenção, mais sessenta e um dias-multa, no valor unitário mínimo, para NELSON”. (eDOC 2, p. 29-33)
+    Conforme jurisprudência desta Corte, cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional. Contudo, o acórdão impugnado atende aos princípios da proporcionalidade e da individualização da pena.
+    Dos trechos transcritos acima, não verifico teratologia ou ilegalidade na dosimetria das penas, tendo em vista ter sido individualmente responsabilizados e condenados, de modo que não se justifica a concessão da ordem.
+    Ainda, após detida análise, constata-se que o Tribunal de origem considerou as condições em que os crimes foram praticados e a as particularidades de cada agente para majorar as pena-base, nos termos da legislação penal vigente.
+    Nesse sentido:
+    “DIREITO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. APROPRIAÇÃO INDÉBITA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. DOSIMETRIA. AUSÊNCIA DE DEMONSTRAÇÃO DE ILEGALIDADE OU ARBITRARIEDADE. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete apenas o controle da legalidade e da constitucionalidade dos critérios empregados, bem como corrigir, eventualmente, discrepâncias gritantes e arbitrárias nas frações de aumento ou diminuição adotadas pelas instâncias anteriores. Tanto a concorrência de diversas vetoriais negativas como a existência de uma única vetorial negativa de especial gravidade autorizam pena base bem acima do mínimo legal. Não se presta o habeas corpus, enquanto não permite ampla avaliação e valoração das provas, como instrumento hábil ao reexame do conjunto fático-probatório que leva à fixação das penas. Recurso ordinário em habeas corpus não provido. (RHC 101.576, Rel. Min. Rosa Weber, 1ª Turma, DJe 14.8.2012)
+    Ante o exposto, com fundamento no artigo 192, caput, do RISTF, denego a ordem do presente habeas corpus.
+    Publique-se.
+    Brasília, 23 de setembro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
