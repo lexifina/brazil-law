@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RODRIGO LUCAS FERREIRA DOS SANTOS e OUTRO à decisão de fls. 432/433, que não conheceu do recurso.
+Sustenta a parte embargante que:
+8. Os Embargos de Declaração aqui propostos são cabíveis, com fulcro no art. 1.022, III do CPC, visto que Vossa Excelência foi omissa ao não analisar a comprovação da ocorrência de feriado local no ato de interposição do recurso, nos termos do parágrafo 6º do artigo 1.003 do Código de Processo Civil de 2015 (CPC/2015), conforme documento juntado ao recurso as folhas 315 a 320 referente a resolução 458/2004 que suspendeu o expediente de carnaval no Estado de Minas Gerais. Vejamos: (fl. 437).
+ ..
+10. Como demonstrado acima, o embargante protocolou, juntamente com o recurso, a comprovação da ocorrência de feriado local em cumprimento ao art. 1003 § 6º do CPC.
+11. Portanto, fica evidente que o Recurso Especial é tempestivo visto que a embargante foi intimada da decisão contra decisão ao acórdão de fls.267/271-TJ, em 06/02/2020, de forma que o prazo de 15(quinze) dias úteis venceria no dia 03/03/2020.
+12. Assim, na contagem do prazo, foram decotados os seguintes períodos: i) dias 24, 25 e 26 (segunda, terça e quarta-feira) em decorrência da suspensão do expediente forense em decorrência do carnaval, conforme Resolução 458/2004, juntada as folhas 315 a 320 que disciplina a suspensão do expediente forense nos feriados nacionais, estaduais e municipais, verificando-se que o prazo se findaria em 03/03/2020, conforme devidamente interposto.
+13. Logo, verifica-se a existência de omissão do julgado, por não ter considerado a análise da suspensão da contagem do prazo legal para a interposição do Recurso Especial, diante da comprovação do feriado local através da resolução 458/2004 juntada aos autos, restando tempestivo o Recurso (fl. 439).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, as cópias de páginas de notícias da internet juntadas às fls. 371/376, não têm o condão de afastar a intempestividade do recurso.
+A propósito: (AgInt no AREsp 1521541/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/03/2020, DJe 17/03/2020; AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 02/12/2019, DJe 05/12/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
