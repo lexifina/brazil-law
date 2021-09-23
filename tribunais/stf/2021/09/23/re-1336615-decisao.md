@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “CONSTITUCIONAL. DIREITO DO CONSUMIDOR. LEI ESTADUAL QUE EXIGE A CONTRATAÇÃO DE SEGURO PARA REPARAÇÃO DE DANOS AOS CONSUMIDORES. 1. Nos termos do art. 24, VIII da Constituição Federal, compete concorrentemente à União, aos Estados e ao Distrito Federal legislar sobre responsabilidade por dano ao consumidor. 2. É pacífica a jurisprudência no sentido de aplicação do CDC às instituições financeiras, nos termos do disposto no § 2º do art. 3º da L 8.078/1990 e da Súmula 297 do STJ. 3. Merece provimento a presente ação civil pública a fim de obrigar a Caixa Econômica Federal (agência de Seara/SC) a se adequar à Lei Estadual de Santa Catarina n º 10.501/97, contratando o seguro previsto no art. 6º desta lei, no prazo de 30 dias. Fixada multa diária por descumprimento no valor de R$ 10.000,00.”
+    O recurso busca fundamento no art. 102, III, a e d, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, LIV; 20; 21; 22, I, VI e VII; 24, I e VIII, e §§ 1º, 3º e 4º; 25; 48, XIII; 129, III; 170 e 192, todos da CF.
+    O recurso não merece acolhida.
+    O acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, que, ao julgar a ADI 3.921, Rel. Min. Edson Fachin, declarou a constitucionalidade da Lei nº 10.501/97, do Estado de Santa Catarina. Eis a ementa do acórdão:
+    “CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ORGANIZAÇÃO POLÍTICA. FEDERAÇÃO. SEGURANÇA PÚBLICA. COMPETÊNCIA COMUM. EXIGÊNCIA POR ESTADO DA FEDERAÇÃO DE DISPOSITIVO DE SEGURANÇA EM ESTABELECIMENTO BANCÁRIO. COMPETÊNCIA SUPLEMENTAR. INCONSTITUCIONALIDADE FORMAL. INEXISTÊNCIA.
+    1. Nos casos em que a dúvida sobre a competência legislativa recai sobre norma que abrange mais de um tema, deve o intérprete acolher interpretação que não tolha a competência que detêm os entes menores para dispor sobre determinada matéria.
+    2. Porque o federalismo é um instrumento de descentralização política que visa realizar direitos fundamentais, se a lei federal ou estadual claramente indicar, de forma necessária, adequada e razoável, que os efeitos de sua aplicação excluem o poder de complementação que detêm os entes menores (clear statement rule), é possível afastar a presunção de que, no âmbito regional, determinado tema deve ser disciplinado pelo ente maior.
+    3. A Lei federal 7.102, de 20 de junho de 1983, não suprime a possibilidade de estados e municípios complementem as exigências de segurança, que, nos seus respectivos âmbitos de interesse, são impostas aos estabelecimentos financeiros. Assim, por se tratar de tema afeto à segurança pública, tanto a União, quanto Estados e Municípios, detêm competência legislativa para disciplinar a matéria. Precedentes.”
+    4. Ação direta julgada improcedente.”
+    Diante do exposto, com base no art. 932, IV e VIII, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (arts. 17 e 18, Lei nº 7.347/1985).
+    Publique-se.
+          Brasília, 23 de setembro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
