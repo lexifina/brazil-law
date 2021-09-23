@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMISSORAS DE RÁDIO E TELEVISÃO. PROPAGANDA ELEITORAL GRATUITA. COMPENSAÇÃO INTEGRAL DOS PREJUÍZOS. LEGALIDADE DAS LIMITAÇÕES IMPOSTAS. PRECEDENTES.
+1. O Superior Tribunal de Justiça possui entendimentode que o creditamento compensatório estipulado pelos arts. 80 da Lei n. 8.713/1993; 99 da Lei n. 9.504/1997; e 1º do Decreto n. 5.331/2005 caracteriza-se como mera dedução da base de cálculo do imposto de renda (benefício fiscal), e não indenização.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado pelaRádio Tabajara de LondrinaLtda., contra decisão a monocrática de e-STJ, fls. 387-389, por meio da qual se negou provimento aorecurso especial da contribuinte, mantendo acórdão que declaroua impossibilidade da compensação tributária integral no caso em tela.
+Em suas razões, a parte agravante sustenta que "as leis expressamente garantem às emissoras de rádio e televisão o ressarcimento pelas receitas de publicidade que deixam de auferir em razão do "horário político", assim como pelos gastos com sua transmissão. Essas eram as regras válidas e vigentes" (e-STJ, fl. 395).
+Alega que"as limitações mencionadas no v. acórdão recorrido não vêm previstas em Lei Ordinária, tampouco na Constituição Federal, mas sim em meros decretos editados pelo Poder Executivo a fim de regulamentar as citadas leis, quais sejam: (i) Decreto nº 1.976/1996; (ii) Decreto 3.516/2000; (iii) Decreto 3.786/2001; (iv) Decreto 5.331/2005." (e-STJ, fl. 395).
+Assevera que "não estaria sendo ressarcida do prejuízo que tem com a veiculação da propaganda eleitoral e gratuita, mas sim recebendo uma "bonificação" irrisória, imprestável para indenizá-la efetivamente. Diante disso, tem-se que a recorrente não aproveita o crédito previsto em lei, ficando "presa" em razão de meros decretos limitadores e ilegais" (e-STJ, fl. 395).
+Protesta, assim, pelo juízo de retratação ou pelo provimento do agravo interno.
+Sem impugnação ao recurso de agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMISSORAS DE RÁDIO E TELEVISÃO. PROPAGANDA ELEITORAL GRATUITA. COMPENSAÇÃO INTEGRAL DOS PREJUÍZOS. LEGALIDADE DAS LIMITAÇÕES IMPOSTAS. PRECEDENTES.
+1. O Superior Tribunal de Justiça possui entendimentode que o creditamento compensatório estipulado pelos arts. 80 da Lei n. 8.713/1993; 99 da Lei n. 9.504/1997; e 1º do Decreto n. 5.331/2005 caracteriza-se como mera dedução da base de cálculo do imposto de renda (benefício fiscal), e não indenização.
+2. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursal não merece êxito, na medida em que a parte interessada não trouxe argumentos aptos à alteração do posicionamento anteriormente firmado.
+Como registrado na primeira oportunidade, a orientação jurisprudencial firmada no âmbito desteSuperior Tribunal de Justiça é no sentido deque o creditamento compensatório estipulado pelos arts. 80 da Lei n. 8.713/1993; 99 da Lei n. 9.504/1997;e 1º do Decreto n. 5.331/2005 caracteriza-se como mera dedução da base de cálculo do imposto de renda (benefício fiscal), e não indenização.
+Nesse aspecto:
+PROCESSUAL CIVIL. ADMINISTRATIVO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. PROPAGANDA ELEITORAL E PARTIDÁRIA GRATUITA. RESSARCIMENTO DE DESPESAS. BENEFÍCIO FISCAL. FORMA DE CÁLCULO POR DECRETO. POSSIBILIDADE. PREVISÃO LEGAL.
+1. De início, observa-se que as razões do agravo regimental não impugnam o fundamento da decisão agravada quanto à ausência de omissão no julgado, afastando a preliminar de violação do art. 535 do CPC. Incidência da Súmula 182/STJ.
+2. A jurisprudência do STJ reconhece que o creditamento compensatório estipulado pelos arts. 80 da Lei n. 8.713/93, 99 da Lei 9.504/97 e 1º do Decreto n. 5.331/2005 caracteriza-se como mera dedução da base de cálculo do Imposto de Renda (benefício fiscal), e não indenização.
+3. "Nos limites do recurso especial, não há como entender que o art. 1º do Decreto n. 5.331/2005 extrapola o art. 80, da Lei n. 8.713/93, o art. 52, da Lei nº 9096/95, ou o art. 99, da Lei n. 9.504/97. Isto porque as expressões "ressarcimento fiscal" e "compensação fiscal" não permitem, por si só, identificar o quantum a ser ressarcido ou os critérios de cálculo a serem empregados. Ao contrário, foi o próprio art. 80, da Lei n. 8.713/93 que entregou ao Chefe do Poder Executivo a construção do modo e da forma que seria feita a "compensação/ressarcimento fiscal"" (AgRg no REsp 1.449.709/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/6/2014, DJe 6/8/2014).
+4. Agravo regimental improvido.
+(AgRg no REsp 1.452.063/SC, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/12/2015, DJe 5/2/2016).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ADMISSIBILIDADE. EXISTÊNCIA DE FUNDAMENTO SUFICIENTE INATACADO. SÚMULAS 126/STJ E 283/STF. CRÉDITO CONCEDIDO PELO ART. 80, DA LEI N. 8.713/93, ART. 99, DA LEI N. 9.504/97 E ART. 1º DO DECRETO N. 5.331/2005. MERA DEDUÇÃO DA BASE DE CÁLCULO DO IMPOSTO DE RENDA. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 74 DA LEI N. 9.430/96 QUE SE REFERE A RESTITUIÇÃO E RESSARCIMENTO.
+1. No texto do recurso especial e do recurso extraordinário não há palavra a respeito do entendimento levantado pela Corte de Origem no sentido de que o horário eleitoral sequer é objeto da concessão, permanecendo desde sempre à disposição da União que poderia conceder a exploração dos serviços de radiodifusão sonora e de sons e imagens no seu todo ou em parte ("quem pode o mais, pode o menos"), à luz da legislação aplicável às concessões e permissões de serviço público, do art. 21, XII, da CF/88 e do Princípio da Separação de Poderes.Desse modo, impossível conhecer do recurso especial nesse ponto já que aplicáveis os enunciados n. 283, da Súmula do STF e n. 126 da Súmula do STJ.
+2. Tanto a restituição quanto o ressarcimento referidos no art. 74, da Lei n. 9.430/96 são institutos próprios de Direito Tributário, sendo o primeiro proveniente do pagamento indevido de tributo (ver arts. 165 a 169, do CTN) e o segundo proveniente da existência de benefício fiscal atrelado a tributos que obedecem ao princípio da não-cumulatividade (IPI, ICMS, PIS/COFINS) quando o crédito concedido excede o valor do tributo devido, gerando saldo a ser ressarcido em dinheiro ao contribuinte ou via compensação com outros tributos,v.g.: art. 11, da Lei n. 9.779/99; art. 16, da Lei n. 11.116/2005 e Decreto n. 64.833/69.
+3. Ainda que se reconheça que o créditoconcedido pelo art. 80, da Lei n. 8.713/93 e art. 99, da Lei n. 9.504/97 tem natureza fiscal, partindo-se do pressuposto de que os decretos regulamentadores são legais e de que os dispositivos legais são constitucionais (o recurso especial não foi admitido quanto a esses pontos), a natureza fiscal não é suficiente para permitir a aplicação do art. 74, da Lei n. 9.430/96, pois o crédito concedido o foi definido pelo art. 1º do Decreto n. 5.331/2005 como mera dedução da base de cálculo do IRPJ, mera apuração de sua base de cálculo.
+4. RECURSO ESPECIAL PARCIALMENTE CONHECIDO e, nessa parte, NÃO PROVIDO.
+(REsp 1.259.688/PR, Rel. Min. CESAR ASFOR ROCHA, Rel. p/ Acórdão Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/3/2013, DJe 16/5/2013).
+Inviável na espécie, portanto, a compensação tributária integral nos moldes em que pretendida.
+Não havendo, pois, nova motivação hábil para alterar o entendimento anteriormente exarado, mantenho a decisão combatida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
