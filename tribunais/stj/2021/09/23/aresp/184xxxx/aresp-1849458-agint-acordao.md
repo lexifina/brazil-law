@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECUPERAÇÃO JUDICIAL. STAY PERIOD. EXECUÇÕES. SUSPENSÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N.7 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação de recurso especial que alega violação a dispositivo legal cujo conteúdo jurídico é dissociado da questão debatida nos autos.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu que a recorrente não comprovou as razões do atraso na realização da assembleia de credores. Entender de modo contrário implicaria reexame da matéria fática, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 109/115) interposto contra decisão do Ministro Presidente desta Corte que conheceu do agravo nos próprios autos para não conhecer do recurso especial.
+Em suas razões, a agravante refuta a incidência da Súmula n. 7 do STJ, sob a alegação de que "a matéria abordada no Recurso Especial, com efeito, é única e exclusivamente de direito, pois versa sobre a aplicação de artigos de lei, ou seja, a adequação e acerto no uso destes dispositivos legais, sendo desnecessária qualquer análise que recaia sobre o mérito de fato ou provas" (e-STJ fl. 112).
+Afirma ainda que "o recurso de agravo de instrumento deveria ter sido provido, para determinar a suspensão do cumprimento de sentença, pois a empresa Agravante esta regida na recuperação judicial, devendo assim ser respeitado o seu trâmite" (e-STJ fl. 114).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram apresentadas contrarrazões (e-STJ fl.119).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECUPERAÇÃO JUDICIAL. STAY PERIOD. EXECUÇÕES. SUSPENSÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N.7 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação de recurso especial que alega violação a dispositivo legal cujo conteúdo jurídico é dissociado da questão debatida nos autos.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu que a recorrente não comprovou as razões do atraso na realização da assembleia de credores. Entender de modo contrário implicaria reexame da matéria fática, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.849.458 - SP (2021/0061340-5)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+COSIL AMETISTA EMPREENDIMENTOS LTDA
+ADVOGADO
+:
+LUCIANA NAZIMA - SP169451
+AGRAVADO
+:
+ARNALDO DE GOUVEIA
+ADVOGADA
+:
+MARCELA KUSMINSKY WINTER - SP222335
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 103/105):
+Cuida-se de agravo apresentado por COSIL AMETISTA EMPREENDIMENTOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA INSURGÊNCIA CONTRA DECISÃO QUE INDEFERIU A SUSPENSÃO DO FEITO POR 180 DIAS RECUPERAÇÃO JUDICIAL PROCESSADA HÁ MAIS DE SEIS MESES IMPOSSIBILIDADE ARTIGO 6 CAPUT E PARÁGRAFO 4 DO CÓDIGO DE PROCESSO CIVIL EXECUTADA QUE ADEMAIS NÃO SE DESINCUMBIU DO ENCARGO DE PROVAR QUE NÃO DEU CAUSA AO ATRASO NA REALIZAÇÃO DA ASSEMBLEIA DE CREDORES DECISÃO MANTIDA RECURSO NÃO PROVIDO
+Quanto à controvérsia, alega violação dos arts. 6º, 49 e 52, III, da Lei n. 11.101/2005, relativo à impossibilidade de prosseguimento do cumprimento de sentença face à vigência do stay period em ação de recuperação judicial, trazendo os seguintes argumentos:
+24. Conforme exposto anteriormente, foi determinado o prosseguimento de cumprimento de sentença, ainda que a executada esteja sob stay period, isto é, com suspensão de processos de execução e cumprimento de sentença determinada pelo juízo recuperacional.
+ ..
+29. Desse modo, a Recorrente encontra-se sob o especial regime da recuperação judicial, tal como previsto na Lei nº 11.101/2005. Paralelamente, os arts. 6º, 49 e 52, III da Lei nº 11.101/2005, conforme exposto, determinam a suspensão das ações e execuções em face das empresas que estejam sob o regime da recuperação judicial durante o período de negociação do plano de recuperação judicial.
+30. Ocorre que, não por vontade da recuperanda, tampouco do d. Juízo ou ao Sr. Administrador Judicial, mas, sim, por consequência dos diversos interesses de pessoas distintas que envolvem a recuperação judicial, a Assembleia Geral de Credores ainda não ocorreu.
+ ..
+36. Desta forma, conclui-se que o acórdão recorrido ultrapassou os limites de discussão da demanda, à medida em que os motivos de prorrogação do stay period, bem como sua regularidade, cabem exclusivamente ao juízo universal da recuperação judicial (fls. 32-34).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Como se vê, a lei é bastante clara no sentido de que a suspensão dos processos se opera imediatamente após o deferimento do processamento da ação de recuperação judicial, e não pode ultrapassar o prazo de 180 dias, inexistindo qualquer exceção nesse sentido.
+Logo, considerando que o pedido de suspensão do feito foi protocolizado pela executada quando já havia transcorrido mais de seis meses da prolatação da decisão, que admitiu o processamento da ação de recuperação judicial, é forçoso admitir o acerto da decisão agravada.
+Cabe acrescentar que, mesmo se admitisse por hipótese, a prorrogação do prazo de suspensão das ações, em razão da não realização da assembleia de credores, como defende a ora agravante, de igual sorte o pedido deveria ser indeferido, pois a executada não se desincumbiu do encargo de provar não haver contribuído para o atraso na realização do ato (fls. 22-23, grifos meus).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, verifica-se que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos, o que é obstado pela Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Destarte: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+A propósito: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Conforme destacado na decisão agravada, incide a Súmula n. 284/STF, pois as razões do recurso estão dissociadas dos fundamentos do acórdão. Com efeito, enquanto a recorrente argumenta que houve prorrogação do stay period, que ainda estaria vigente no momento do pedido, o acórdão não se manifesta claramente sobre o tema, limitando-se a consignar que o pedido de suspensão foi feito quando havia transcorrido mais de seis meses do proferimento da primeira decisão, que admitiu a recuperação judicial.
+Ressalte-se que não foram opostos embargos de declaração a fim de suprir eventual vício do acórdão, especialmente quanto à demarcação exata do quadro fático da controvérsia.
+Além disso, a Súmula n. 7/STJ obsta a revisão dos fundamentos do acórdão recorrido, que consignou que "a executada não se desincumbiu do encargo de provar não haver contribuído para o atraso na realização do ato" (e-STJ fl. 23), ou seja, da assembleia de credores.
+Assim, não prosperam as alegações apresentadas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
