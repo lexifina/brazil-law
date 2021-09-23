@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.COOPERATIVA DE PROFISSIONAIS MÉDICOS. NOVOS INTEGRANTES. LIVRE ASSOCIAÇÃO. EXIGÊNCIA DE PROCESSO SELETIVO. PREVISÃO NO ESTATUTO. LEGALIDADE. LIMITAÇÃO DO INGRESSO DE NOVOS ASSOCIADOS. IMPOSSIBILIDADE. QUALIFICAÇÃO TÉCNICA DO RECORRIDO ATESTADA. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientaçãojurisprudencialdo Superior Tribunal de Justiça, "épossível a exigência de exame de admissão a profissional médico para fins de ingresso aos quadros de cooperativa, desde que previsto no estatuto da entidade, como ocorre no caso em questão" (AgInt no AREsp 1.702.087/SP, Rel. Ministro RaulAraújo, QuartaTurma, julgado em 01/03/2021, DJe 22/03/2021).
+2. Esta Corte Superior entende que, "salvo impossibilidade técnica do profissional para exercer os serviços propostos pela cooperativa, deve-se considerar ilimitado o número de associados que podem se juntar ao quadro associativo, diante da aplicação do princípio da adesão livre e voluntária que rege o sistema cooperativista (portas abertas)"- (AgInt no AgInt no REsp 1.849.327/SP, Rel. Ministro RicardoVillas BôasCueva, TerceiraTurma, julgado em 12/04/2021, DJe 16/04/2021).
+3. Concluindo a instância originária que o associado possui qualificação técnica suficiente para ingressar nos quadros da cooperativa, descabe ao Superior Tribunal de Justiça infirmar o posicionamento adotado, ante a incidência da Súmula 7/STJ.
+4.Tendo o acórdão recorrido decidido em consonância com a jurisprudência deste Tribunal e aplicado o óbice imposto pelo enunciado n. 7/STJ, fica prejudicada a análise dorecursoespecial com amparo nas alíneas a e/ou c do permissivo constitucional.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICOcontra decisão monocrática proferida por esta relatoria (e-STJ, fls. 559-565), assim ementada:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. COOPERATIVA DE PROFISSIONAIS MÉDICOS. NOVOS INTEGRANTES. LIVRE ASSOCIAÇÃO. EXIGÊNCIA DE PROCESSO SELETIVO. PREVISÃO NO ESTATUTO. LEGALIDADE. LIMITAÇÃO DO INGRESSO DE NOVOS ASSOCIADOS. IMPOSSIBILIDADE. QUALIFICAÇÃO TÉCNICA DO RECORRIDO ATESTADA. REVISÃO. SÚMULA 7/STJ. DECISÃO RECONSIDERADA. RECURSO ESPECIAL DESPROVIDO.
+Nas razões do recurso, a agravante defende que o acórdão recorrido violou os arts. 4º, I, e 29 da Lei 5.764/1971.
+Sustenta que o princípio das portas abertas não tem aplicação absoluta.
+Afirma que, considerando a impossibilidade técnica da prestação de serviços pela cooperativa, épossível limitar o ingresso de novos cooperados.
+Destaca que a admissão dos integrantes deve observar as condições estabelecidasno Estatuto Social, o qual poderá prever a aprovação em processo seletivo.
+Assevera que a livre associação não pode impor à cooperativa a obrigatoriedade de aceitação de número ilimitado de associados.
+Reitera a existência de divergência jurisprudencial entre o posicionamento adotado pelo Tribunal de origem e o entendimento acolhido pelos julgados paradigmas.
+Alega não incidir a Súmula 7 do Superior Tribunal de Justiça.
+Sendo assim, requer a reconsideração da decisão agravada.
+Impugnação às fls. 645-650 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.COOPERATIVA DE PROFISSIONAIS MÉDICOS. NOVOS INTEGRANTES. LIVRE ASSOCIAÇÃO. EXIGÊNCIA DE PROCESSO SELETIVO. PREVISÃO NO ESTATUTO. LEGALIDADE. LIMITAÇÃO DO INGRESSO DE NOVOS ASSOCIADOS. IMPOSSIBILIDADE. QUALIFICAÇÃO TÉCNICA DO RECORRIDO ATESTADA. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientaçãojurisprudencialdo Superior Tribunal de Justiça, "épossível a exigência de exame de admissão a profissional médico para fins de ingresso aos quadros de cooperativa, desde que previsto no estatuto da entidade, como ocorre no caso em questão" (AgInt no AREsp 1.702.087/SP, Rel. Ministro RaulAraújo, QuartaTurma, julgado em 01/03/2021, DJe 22/03/2021).
+2. Esta Corte Superior entende que, "salvo impossibilidade técnica do profissional para exercer os serviços propostos pela cooperativa, deve-se considerar ilimitado o número de associados que podem se juntar ao quadro associativo, diante da aplicação do princípio da adesão livre e voluntária que rege o sistema cooperativista (portas abertas)"- (AgInt no AgInt no REsp 1.849.327/SP, Rel. Ministro RicardoVillas BôasCueva, TerceiraTurma, julgado em 12/04/2021, DJe 16/04/2021).
+3. Concluindo a instância originária que o associado possui qualificação técnica suficiente para ingressar nos quadros da cooperativa, descabe ao Superior Tribunal de Justiça infirmar o posicionamento adotado, ante a incidência da Súmula 7/STJ.
+4.Tendo o acórdão recorrido decidido em consonância com a jurisprudência deste Tribunal e aplicado o óbice imposto pelo enunciado n. 7/STJ, fica prejudicada a análise dorecursoespecial com amparo nas alíneas a e/ou c do permissivo constitucional.
+5. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+De início, é preciso frisar que, de acordo com os Enunciados Administrativos n. 2 e 3/STJ, os requisitos de admissibilidade a serem observados pelos recursos interpostos neste Tribunal Superior são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+No caso em exame, tem aplicação a dinâmica processual estabelecida pelo Código de Processo Civil de 2015, uma vez que, à época da publicação da decisão que culminou na interposição do recurso especial, já estava em vigência o novo regramento processual.
+Consta dos autos que a recorrente interpôs recurso especial (e-STJ, fls. 360-383), com base nas alíneas a e c do permissivo constitucional, alegandodivergência jurisprudencial e violação dos arts. 4º, I, e 29 da Lei 5.764/1971.
+Analisada a insurgência, esta relatoria, em decisão monocrática, negou provimento ao recurso (e-STJ, fls. 468-471).
+Irresignada, a agravante interpôs agravo interno (e-STJ, fls. 474-496), que, examinado por esta relatoria, ensejou a reconsideração da decisão agravada para dar provimento ao recurso excepcional (e-STJ, fls. 505-510).
+Inconformado, o recorrido opôs embargos de declaração (e-STJ, fls. 512-522), os quais foram rejeitados (e-STJ, fls. 533-536).
+Mantendo o inconformismo, o agravado interpôs agravo interno (e-STJ, fls. 539-546), que, apreciado por este signatário, ocasionou a retratação da decisão agravada e o desprovimento do recurso especial (e-STJ, fls. 559-565).
+Diante desse fato, a recorrente apresenta o agravo interno em análise (e-STJ, fls. 620-640).
+Todavia, a irresignação não merece prosperar.
+Conforme exposto na decisão agravada, a insurgente, nas razões do recurso excepcional, defendeu a legalidade da limitação do ingresso do recorrido no quadro de cooperados, em virtude da inobservância das regras previstas em Estatuto Social, entre as quais a aprovação em processo seletivo.
+Na verdade, a agravante insurgiu-se contra o posicionamento adotado pela instância originária, a qual, aplicando o princípio constitucional da livre associação, entendeu queas cooperativas médicas não podem obstar a admissãode novo cooperado com base em exigência de aprovação em processo de seleção, exceto quando verificada a inadequação técnica do profissional.
+Ao examinar os argumentos apresentados por ambas as partes, esta relatoria, embasada na jurisprudência do Superior Tribunal de Justiça, reconheceu a possibilidade de as cooperativasexigirem, no Estatuto Social, a realização de seleção como condição para ingresso de novos associados.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COOPERATIVA MÉDICA. EXIGÊNCIA DE PROCESSO SELETIVO PARA INGRESSO DE PROFISSIONAL DA ÁREA DE MEDICINA. LEGALIDADE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. "A Lei 5.764/71 estabelece que as cooperativas são sociedades de pessoas, de natureza civil, constituídas para prestar serviços aos associados, com número ilimitado de associados, ressalvando, todavia, a limitação no ingresso de novos cooperados tanto pela impossibilidade técnica de prestação de serviços quanto pela falta de preenchimento dos requisitos estatutários" (AgInt no REsp 1.467.817/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 06/03/2019).
+2. É possível a exigência de exame de admissão a profissional médico para fins de ingresso aos quadros de cooperativa, desde que previsto no estatuto da entidade, como ocorre no caso em questão. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1702087/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/03/2021, DJe 22/03/2021)
+RECURSO ESPECIAL. CIVIL. COOPERATIVA DE TRABALHO MÉDICO (UNIMED). INGRESSO DE NOVO ASSOCIADO. RECUSA. SUFICIÊNCIA NUMÉRICA DE MEMBROS ATUANTES NA REGIÃO. IMPOSSIBILIDADE TÉCNICA DE PRESTAÇÃO DE SERVIÇOS. NÃO CARACTERIZAÇÃO. MERA INCONVENIÊNCIA PARA OS COOPERADOS. PRINCÍPIO DA PORTA ABERTA (LIVRE ADESÃO). INCIDÊNCIA.
+1. Ação ordinária que visa o reconhecimento do direito do autor de ingressar na sociedade cooperativa de trabalho médico ao argumento de que foram atendidos todos os requisitos exigidos pela lei, sendo inidônea a justificativa de suficiência numérica de médicos cooperados na região para a especialidade escolhida (ortopedia e traumatologia).
+2. A cooperativa de trabalho, como a de médicos, coloca à disposição do mercado a força de trabalho, cujo produto da venda - após a dedução de despesas - é distribuído, por equidade, aos associados, ou seja, cada um receberá proporcionalmente ao trabalho efetuado (número de consultas, complexidade do tratamento, entre outros parâmetros).
+3. O ingresso nas cooperativas é livre a todos que desejarem utilizar os serviços prestados pela sociedade, desde que adiram aos propósitos sociais e preencham as condições estabelecidas no estatuto, sendo, em regra, ilimitado o número de associados, salvo impossibilidade técnica de prestação de serviços (arts. 4º, I, e 29 da Lei nº 5.764/1971). Incidência do princípio da livre adesão voluntária.
+4. Pelo princípio da porta-aberta, consectário do princípio da livre adesão, não podem existir restrições arbitrárias e discriminatórias à livre entrada de novo membro na cooperativa, devendo a regra limitativa da impossibilidade técnica de prestação de serviços ser interpretada segundo a natureza da sociedade cooperativa, mesmo porque a cooperativa não visa o lucro, além de ser um empreendimento que possibilita o acesso ao mercado de trabalhadores com pequena economia, promovendo, portanto, a inclusão social.
+5. Não pode a cooperativa de trabalho médico recusar o ingresso de novo membro com base apenas na quantidade suficiente de associados na regiãoexercendo a mesma especialidade do proponente, pois, em que pese o princípio da porta-aberta (livre adesão) não ser absoluto, a simples inconveniência com eventual diminuição de lucro para cooperados que já compõem o quadro associativo não caracteriza a impossibilidade técnica prescrita pela lei, sob pena de subversão dos ideais do sistema cooperativista.
+6. Recurso especial não provido.
+(REsp 1.479.561/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/11/2014, DJe 28/11/2014)
+Entretanto, não obstante a possibilidade de condicionar a admissão de novos integrantes à aprovação em processo de seleção, a orientação jurisprudencial desta Corte Superior manifesta-se no sentido de que tal exigência não pode limitar o quantitativo de pessoas que desejamingressar voluntariamente na associação.
+Esse entendimento está bem delineado em precedente julgado por esta Terceira Turma, conforme ementa abaixo transcrita:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. CIVIL. COOPERATIVA. SERVIÇOS MÉDICOS. ADMISSÃO. RESTRIÇÃO INJUSTIFICADA. PRINCÍPIO DAS PORTAS ABERTAS. SÚMULA Nº 83/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, salvo impossibilidade técnica do profissional para exercer os serviços propostos pela cooperativa, deve-se considerar ilimitado o número de associados que podem se juntar ao quadro associativo, diante da aplicação do princípio da adesão livre e voluntária que rege o sistema cooperativista (portas abertas).
+3. No caso concreto, embora exista a possibilidade de a cooperativa incluir previsão estatutária a fim de exigir processo seletivo para fins de ingresso em seus quadros, ficou caracterizada finalidade de restringir a admissão do médico em virtude do número de especialistas em uma mesma região. Súmula nº 83/STJ.
+4. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.849.327/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/04/2021, DJe 16/04/2021)
+Portanto, verifica-se que a recorrentenão foiimpedida de inserir,nas disposições de seu Estatuto Social, a exigência de aprovação em processo seletivo para o ingresso de novos integrantes, mas que tal requisito não poderia conduzir àlimitação quantitativa de associados.
+Com base nesses argumentos, constata-se que o posicionamento do Tribunal de origem está, de fato, em sintonia com a jurisprudência do Superior Tribunal de Justiça.
+Noutro ponto, em relação à averiguação da qualificação técnica do recorrido, o Tribunal de origem foi claro ao atestarque o agravado possui as condiçõestécnicas necessárias paraintegrar o quadro de profissionais da cooperativa.
+Diante dessa constatação, mostra-se inviável a este Tribunal rever o posicionamento acolhido pela instância originária, já que seria imprescindível o revolvimento de fatos e provas, o que não é possível em virtude da aplicação da Súmula 7/STJ.
+Quanto à divergência jurisprudencial, estando oposicionamento do Tribunal local em harmonia com a jurisprudência do Superior Tribunal de Justiça e aplicado o óbice imposto pela Súmula 7/STJ, ficaprejudicada a apreciação do dissídio apontado pela insurgente.
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
