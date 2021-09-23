@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. REEXAME DAS PREMISSAS FÁTICAS. REEXAME. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO INDUSTRIAL DO BRASIL S/Acontra decisão assim ementada (e-STJ fl. 3147):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO CONFIGRAÇÃO. QUESTÕES QUE NÃO SE MOSTRAM RELEVANTES AO JULGAMENTO DO FEITO ANTE A FUNDAMENTAÇÃO APRESENTADA PELO TRIBUNAL A QUO. TESE RECURSAL QUE PARTE DE PREMISSA FÁTICA REJEITADA PELO TRIBUNAL DE ORIGEM. IMPRESCINDIBILIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. QUESTÃO QUE NÃO FOI APRECIADA PELO TRIBUNAL A QUO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões de seu recurso, a parte agravante pugna pela modificação do julgado, deduzindo que o acórdão contrariou a prova dos autos quando reconheceu não haver crédito a seu favor. Afirma, em síntese, que, apesar dos embargos de declaração opostos, a Corte Estadual não se manifestou sobre a ocorrência de pagamento na acepção jurídica do termo, limitando-se a reafirmar que houve quitação da dívida. Assevera que, partindo da premissa equivocada de que teria havido pagamento, entendeu irrelevante a argumentação de violação à trava bancária e à propriedade fiduciária do Agravante. Aduz que a admissão do recurso especial não esbarra na Súmula 7/STJ, mas que (e-STJ fl. 3184):
+"..a análise da violação aos artigos (artigos 357, incisos II, III e IV, 371, 373 e 374, incisos II e III, 479 e 489, II, do CPC, todos relacionados ao ponto sob exame), pressupõe a avaliação do correto valor dado à prova e aos fatos incontroversos, inexistindo, assim revolvimento de matéria fática".
+Foi apresentada impugnação ao recurso (e-STJ fls. 3197-3215).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. REEXAME DAS PREMISSAS FÁTICAS. REEXAME. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não deve prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar os fundamentos da decisão agravada, faz subsistir incólume o entendimento nela firmado.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enuncia do Administrativo n. 3/STJ.
+Na sequência, constata-se que, conforme exposto na decisão agravada, nem o Juízo de primeira instância nem o Tribunal a quo consignaram que o débito da empresa MTP para com a recorrente teria sido pago, mas apenas que as recorridas teriam cumprido com a sua obrigação de efetuar a movimentação financeira acordada no banco recorrente, assertivas absolutamente distintas.Disse ainda, que em nenhum momento foi negada a existência do crédito que a recorrente alega ter, mas apenas que as recorridas não poderiam ser responsabilizadas pela inadimplência da empresa MTP.
+Diante disso, a decisão monocrática atacada concluiu que não houve violação aos arts. 489 e 1.022 do CPC, que não houve nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decidiu de modo integral e com fundamentação suficiente a matéria devolvida à sua apreciação.
+No entanto, nas razões derecurso, a agravante limita-se a reprisar o argumento de que a Corte Estadual teria partido da equivocada premissa de que teria havido "pagamento" e que a decisão monocrática agravada estaria errada.
+Depreende-se, assim, que a insurgência da parte diz respeito não com a questão da negativa de prestação jurisdicional, mas com as conclusões adotadas pelo Tribunal a partir do conjunto de provas dos autos, situação que não pode ser revertida nesta Corte Superior, a teor do que dispõe ó enunciado da Súmula 7/STJ.
+Esse aspecto ficou expresso na decisão unipessoal atacada quando asseverou que (e-STJ fl. 3158):
+Quanto à alegada violação dos artigos 357, incisos II, III e IV, 371, 373 e 374, incisos II e III, e 479 do Código de Processo Civil, a pretensão claramente encontra óbice na Súmula 7/STJ.
+Aplica-se este enunciado aos casos em que a análise da pretensão recursal demande o revolvimento do quadro fático-probatório dos autos. Destarte, a fundamentação recursal deve adotar como premissa as conclusões a que o Tribunal de origem tenha chegado com a análise das provas e fatos constantes nos autos para que o recurso possa ser conhecido.
+Em que pese alegue ser caso de revaloração da prova, não impugna, no ponto, a decisão agravada que expressamente afastou esse argumento ao fundamente e que (e-STJ fl. 3159):
+Não se olvida que a discussão sobre prova tem sido admitida nos casos em que se pretenda atribuir qualificação jurídica diversa aos fatos narrados no acórdão, mas para tanto é necessário que seja indicada uma qualificação jurídica que deva ser atribuída a fato ou prova específico, demonstrando-se o equívoco do Tribunal de origem ao atribuir qualificação jurídica diversa ao mesmo fato ou prova.
+Na espécie, como resta claro, a recorrente parte de premissa fática expressamente rejeitada pelo Tribunal a quo, qual seja, a de que os pagamentos teriam sido feitos em desacordo com a notificação enviada às recorridas, restando clara a imprescindibilidade de desconstituir o substrato fático considerado pelo Tribunal a quo, o que demandaria o revolvimento do acervo fático-probatório dos autos.
+Inafastável a incidência da Súmula 282/STF, com relação aos arts. 1.361, 1.362do CC; 66-B, da Lei nº 4.728/65, pois a agravante embora alegue que em diversos trechos o acórdão enfrenta a questão, não aponta, de forma clara e objetiva em que momento o acórdão teria emitido juízo de valor acerca de cada um dos dispositivos supostamente enfrentados e violados.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto mantida a validade dos argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
