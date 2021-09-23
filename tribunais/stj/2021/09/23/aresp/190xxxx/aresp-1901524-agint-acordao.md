@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Rever o entendimento do Tribunal de origem quanto aos requisitos necessários para a desconsideração da personalidade jurídica, na forma como posta, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas aos autos, o que é vedado pela Súmula 7 do STJ. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por TÓPICO ESTRUTURAS METÁLICAS E COBERTURAS LTDA, contra decisão monocrática da lavra deste signatário (fls. 798-802, e-STJ), que negou provimento ao agravo em recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafiou acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 693, e-STJ):
+Execução. Confissão de dívida decorrente de locação imobiliária. Frustração na localização de bens da executada. Pretensão de desconsideração da personalidade jurídica da empresa, com sugestão ainda de dissolução irregular da sociedade. Rejeição liminar da formação do incidente próprio. Art. 134, § 4º, do CPC, que exige motivação plausível à possível afetação do patrimônio dos sócios, indicativa ao menos em tese da ocorrência de abuso no emprego da personalidade. Jurisprudência dominante no STJ no sentido de que nem mesmo a dissolução irregular da sociedade, tomada isoladamente e sem qualquer fator adicional, seja suficiente para autorizar a desconsideração. Decisão agravada que se confirma. Agravo de instrumento da exequente desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 708-710, e-STJ).
+Nas razões do especial (fls. 713-729, e-STJ), o recorrente apontou, além de dissídio jurisprudencial, ofensa: a) aos arts. 11, 489, § 1º, III e IV, e 1.022, II e parágrafo único, II, do CPC/15, sustentando que, a despeito da oposição de embargos de declaração, o Tribunal de origem "deixou de atentar para as reais circunstâncias vivenciadas e as diversas peculiaridades do caso concreto, o que levaria ao correto deslinde da controvérsia" (fl. 720, e-STJ); b) aos arts. 50, 980-A, § 7º, do Código Civil, e aos arts. 133, 134, 135 e 136 do CPC/15, alegando que há indícios concretos de abuso da personalidade jurídica e de encerramento irregular da atividade empresarial, e que, portanto, estão presentes os requisitos para a instauração do incidente de desconsideração da personalidade jurídica da recorrida.
+Não foram apresentadas contrarrazões.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 768-771, e-STJ), dando ensejo a interposição do agravo em recurso especial (fls. 774-782, e-STJ).
+Não foi apresentada contraminuta.
+Em decisão monocrática (fls. 798-802, e-STJ), negou-se provimento ao agravo ante: a) a ausência de negativa de prestação jurisdicional; b) a incidência da Súmula 7 do STJ à hipótese.
+No presente agravo interno (805-809, e-STJ), o ora agravante impugna tão somente a incidência da Súmula 7 do STJ ao caso em exame.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Rever o entendimento do Tribunal de origem quanto aos requisitos necessários para a desconsideração da personalidade jurídica, na forma como posta, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas aos autos, o que é vedado pela Súmula 7 do STJ. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+Cinge-se a controvérsiaestabelecida no presente agravo interno acerca da aplicação da Súmula 7 do STJ ao caso em exame, restando preclusas as demais questões que não foram impugnadas.
+1. Da análise dos autos, nota-se que o recurso especial impugna acórdão recorrido responsável por indeferir a instauração de incidente de desconsideração da personalidade jurídica.
+Nas razões do presente agravo interno, a parte insurgente refuta a aplicação do óbice recursal da Súmula 7 do STJ, ao argumento de que não pretende reexaminar fatos e provas.
+Razão não lhe assiste.
+A respeito da controvérsia, o Tribunal local assim decidiu (fls. 694-695, e-STJ):
+"Com efeito. O art. 134, § 4º, do CPC, exige que o simples requerimento de instauração do incidente de desconsideração da personalidade jurídica venha acompanhado da devida justificativa quanto aos pressupostos legais necessários à providência.
+Embora a lei fale em demonstração, dando a impressão de cogitar da prova necessária ao acolhimento do incidente, resulta claro que se refere também à fundamentação mínima necessária ao processamento, já que obviamente não se justifica a citação e chamamento dos sócios a se defenderem se inexistente possibilidade mínima de acolhimento do incidente; mais ainda, o contraditório por parte dos sócios se estabelece quanto aos motivos fundantes do pedido de desconsideração, que dessa forma devem estar desde logo devidamente explicitados, sem que se cogite da possibilidade de requerimento da medida mediante alegação genérica de frustração da execução quanto à pessoa jurídica, com pretensão de posterior desenvolvimento pelo requerente de sua argumentação e apresentação de novas razões.
+(..)
+Esse requisito, todavia, não foi atendido no caso dos autos pela ora agravante, que formulou o pedido de desconsideração com base no mero dado objetivo do insucesso na localização de bens da executada, além da suposição unilateral de dissolução irregular, não sendo tais aspectos bastantes para, por si só, autorizar ao final a desconsideração.
+Nesse sentido, destaca-se que eventual dificuldade financeira não é indicativa de abuso no emprego da personalidade jurídica, como a prática de atos ilícitos, o desvio de finalidade ou a confusão patrimonial.
+Além disso, a ausência de exercício das atividades em endereço registrado na Junta Comercial e a ocorrência de possível dissolução irregular da sociedade não vem sendo tida pela jurisprudência dominante no STJ como bastante para a desconsideração, sem a indicação de qualquer fator adicional: (..)."
+Consoante asseverado na decisão ora combatida, a revisão do julgado, com o consequente acolhimento da pretensão recursal, no sentido de aferir a presença dos requisitos necessários para a desconsideração da personalidade jurídica, demandaria o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7 deste Tribunal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ENCERRAMENTO IRREGULAR DA EMPRESA. FUNDAMENTO INSUFICIENTE. SÚMULA 83/STJ. DESVIO DE FINALIDADE NÃO ATESTADO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. 1. A orientação jurisprudencial do STJ manifesta-se no sentido de que o encerramento irregular da empresa não constitui argumento suficiente para a desconsideração da personalidade jurídica. 2. No caso em exame, o Tribunal de origem entendeu que a ausência de localização de bens no patrimônio da empresa executada não se mostra suficiente para atestar o abuso do direito de personalidade. 3. A modificação dos fundamentos mencionados pela instância originária exigiria deste Tribunal Superior o revolvimento de fatos e provas, o que é vedado pela Súmula 7/STJ. 4. Agravo interno desprovido. (AgInt no AREsp 1812129/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/06/2021, DJe 21/06/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS AUSENTES. DISSOLUÇÃO IRREGULAR E AUSÊNCIA DE BENS PENHORÁVEIS. INSUFICIÊNCIA. PRECEDENTES. NÃO PROVIMENTO. 1. A jurisprudência do STJ firmou o entendimento no sentido de que a existência de indícios de encerramento irregular da sociedade aliada à falta de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica, eis que se trata de medida excepcional e está subordinada à efetiva comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial. 2. Agravo interno a que se nega provimento. (AgInt no AREsp 1712305/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/04/2021, DJe 14/04/2021)
+Inafastável, no caso, o óbice da Súmula 7/STJ.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
