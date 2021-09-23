@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+RECURSO ESPECIAL. CONSELHO DE ARQUITETURA E URBANISMO - CAU. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA - CREA. ART. 55 DA LEI N.º 12.378/2010 APLICÁVEL PARA PESSOAS NATURAIS. ANÁLISE DA ATIVIDADE PREPONDERANTE DA PESSOA JURÍDICA INCOMPATÍVEL COM O APELO NOBRE. SÚMULA 7/STJ. NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+1. O art. 55 da Lei n. 12.378/2010 determinou a migração automática dos profissionais arquitetos e urbanistas para o novo conselho de classe. O dispositivo, no entanto, é aplicável apenas às pessoas naturais.
+2. No que se refere às pessoas jurídicas, é preciso a análise da atividade primordial exercida, o que incompatível em sede de recurso especial por força no enunciado sumular 7/STJ.
+3. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de Recurso Especial interposto pelo Conselho Regional de Engenharia e Agronomia do Rio Grande do Sul - CREA/RS com o escopo de reformar acórdão proferido pela Segunda Turma do Tribunal Regional Federal da 4ª Região.
+A sentença de primeiro grau julgou o pedido de Ricardo Ramos Construtora LTDA. procedente para declarar a inexistência dos débitos referentes às anuidades em atraso de 2013 e 2014.
+A alegação inicial foi que a autora teria sido inscrita no CAU/RS e que o art. 55 da Lei n. 12.378/2010 determinou a migração automática dos profissionais arquitetos e urbanistas para o novo conselho de classe.
+Em grau recursal, a Corte regional negou provimento ao recurso do CREA/RS nos termos da seguinte ementa (e-STJ fl.190):
+TRIBUTÁRIO. CONSELHO DE ARQUITETURA E URBANISMO - CAU. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA - CREA. TRANSFERÊNCIA AUTOMÁTICA DE REGISTROS. LEI Nº12.378/2010.
+1. Com o advento da Lei nº 12.378/10, foram criados o Conselho de Arquitetura e Urbanismo do Brasil e os Conselhos de Arquitetura e Urbanismo dos Estados e do Distrito Federal.
+2. Nos termos do art. 55 da Lei nº 12.378/2010, os profissionais com título de arquitetos e urbanistas, arquitetos e engenheiro arquiteto, com registro nos Conselhos Regionais de Engenharia, Arquitetura e Agronomia-CREAs terão, automaticamente, registro nos CAUs com o título único de arquiteto e urbanista, não havendo qualquer ressalva em relação às pessoas jurídicas.
+O recurso especial aduz violação ao art. 55 da Lei n.º 12.378/2010. O especial afirma que não houve migração automática de registro para as pessoas jurídicas. Afirmou-se ainda que uma pessoa jurídica do ramo da construção civil pode ter seu registro tanto no CREA como no CAU.
+O Ministério Público Federal oficiou pelo provimento do Recurso Especial (e-STJ - fls. 238-243).
+É o relatório. Passo a decidir.
+EMENTA
+RECURSO ESPECIAL. CONSELHO DE ARQUITETURA E URBANISMO - CAU. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA - CREA. ART. 55 DA LEI N.º 12.378/2010 APLICÁVEL PARA PESSOAS NATURAIS. ANÁLISE DA ATIVIDADE PREPONDERANTE DA PESSOA JURÍDICA INCOMPATÍVEL COM O APELO NOBRE. SÚMULA 7/STJ. NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+1. O art. 55 da Lei n. 12.378/2010 determinou a migração automática dos profissionais arquitetos e urbanistas para o novo conselho de classe. O dispositivo, no entanto, é aplicável apenas às pessoas naturais.
+2. No que se refere às pessoas jurídicas, é preciso a análise da atividade primordial exercida, o que incompatível em sede de recurso especial por força no enunciado sumular 7/STJ.
+3. Recurso especial não conhecido.
+VOTO
+O recurso especial busca analisar o art. 55 da Lei n. 12.378/2010. O dispositivo estabeleceu a migração automática dos profissionais arquitetos e urbanistas, arquitetos e engenheiro arquiteto dos Conselhos Regionais de Engenharia, Arquitetura e Agronomia - CREAs para os CAUs:
+Art. 55. Os profissionais com título de arquitetos e urbanistas, arquitetos e engenheiro arquiteto, com registro nos atuais Conselhos Regionais de Engenharia, Arquitetura e Agronomia - CREAs terão, automaticamente, registro nos CAUs com o título único de arquiteto e urbanista.
+Parágrafo único. Os CREAs enviarão aos CAUs a relação dos arquitetos e urbanistas, arquitetos e engenheiro arquiteto inscritos, no prazo de 30 (trinta) dias da instalação do CAU, bem como os prontuários, dados profissionais, registros e acervo de todas as ARTs emitidas pelos profissionais e todos os processos em tramitação.
+De fato, o termo "profissionais" empregado no supramencionado dispositivo, relaciona-se às pessoas naturais arquitetas, urbanistas e arquitetas em concomitância com a profissão de engenharia.
+No entanto, o fato de não existir imposição automática em relação de migração das pessoas jurídicas do CREA para a CAU não significa que até a referida migração existiria poder de polícia e regulamentar do CREA para pessoas jurídicas que exerçam atividade vinculadas à arquitetura e ao urbanismo.
+Não é imprescindível, portanto, que haja texto legislativo expresso determinando a migração. Simplesmente, o CREA não tem poder de polícia sobre atividades primordialmente ligadas à arquitetura e urbanismo com a vigência da Lei n. 12.378/2010.
+Salienta-se também que os entendimentos apontados pelo Ministério Público Federal como consolidados em relação ao tema, são distintos e não guardam pertinência com a presente discussão (e-STJ - fls. 242-243):
+17. No ponto, merece ser destacado que a jurisprudência desse Superior Tribunal de Justiça traduz o entendimento de que "a exigibilidade da contribuição, conforme disposto no art. 21 do Decreto-Lei 9295/1946, tem com o lastro, a simples existência de inscrição no Conselho de Fiscalização Profissional e não o pleno exercício da profissão. Nesse sentido: REsp 1235676/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em07/04/2011, DJe 15/04/2011; AgInt no AgInt no AREsp 862.186/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 02/08/2016, DJe 17/08/2016; REsp 1382063/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/06/2013, DJe 24/06/2013" (AgInt no REsp 1658064/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/03/2018, DJe 21/03/2018).
+Os julgados apontados tratam da circunstância de o profissional ter a formação na área de fiscalização do conselho de classe, ter o registro, mas não exercer concretamente a atividade profissional, o que não se assemelha com o debate trazido por esse Recurso Especial.
+De qualquer forma, no caso concreto, existem algumas peculiaridades. Ficou assentado que houve o registro da parte recorrida no CAU em 2011 e que, em 2014, houve o requerimento de cancelamento do registro no CREA.
+A pessoa jurídica, portanto, teve o reconhecimento pelo CAU de que sua atividade se enquadra nas hipóteses previstas por esse órgão de classe e o CREA aceitou o cancelamento do registro em 2014 mesmo com a recorrida continuando a exercer a sua atividade.
+Esses fatos levam a uma dedução lógica que, de fato, a atividade exercida pela recorrida não se enquadrava nas hipóteses de fiscalização e registro do CREA com o advento da Lei n. 12.378/2010. Contudo, a certeza sobre essa conclusão exigiria analisar o contrato social e provas sobre a atividade exercida pela pessoa jurídica recorrida, circunstâncias incompatíveis em sede de Recurso Especial por força do entendimento previsto no enunciado sumular 7/STJ.
+Ante o exposto, voto pelo não conhecimento do recurso especial.
