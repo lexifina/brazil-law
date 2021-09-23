@@ -1,0 +1,5 @@
+DECISÃO
+Há dois recursos especiais, um do ora agravante, obviamente inadmitido na origem, e outro, do Município de Belo Horizonte, originalmente sobrestado no Tribunal "a quo"ante a pendência da proposta de revisão de entendimento firmado no Tema 126/STJ (REsp1.111.829/SP), suscitada nos autos da QO no REsp1.328.993/CE (Pet nº 12.344/DF), que era da relatoria do Em. Ministro Og Fernandes e já se ultimou neste Tribunal Superior.
+Assim, não há mais motivos para o dito sobrestamento, o que implica a necessidade de alteração do registro processual, para o fim de incluir o referido recurso especial da municipalidade.
+Outrossim, considerando que o recurso especial de Gustavo Henrique Fernandes foi inadmitido por força da Súmula 07/STJ, e tendo em vista que esse motivo foi devidamente refutado na minuta, e em atenção ainda ao melhor andamento do processo, que se otimiza com a tramitação de ambos os recursos sob a mesma rubrica, determino de logo a reautuação do agravo como recurso especial.
+Publique-se. Intimem-se.
