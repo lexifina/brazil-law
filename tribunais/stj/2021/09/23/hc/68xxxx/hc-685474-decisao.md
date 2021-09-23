@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WELLINGTON OMIDIO DE LIMA FILHO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás (HC n. 5246949-55.2021.8.09.0000).
+O paciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 37-38), por suposta prática dos delitos previstos nos arts. 33, caput, da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003.
+O decreto prisional fundou-se na expressiva quantidade, variedade e natureza dos entorpecentes encontrados com o paciente - 1 porção de maconha com 252,7g e 1 porção de crack com 178,2g - e na apreensão de 1 revólvercalibre .38 damarca Taurus, de 5 munições intactas, de 1 rolo de papel filme e de 1 balança de precisão. Impetrado writ na origem, a ordem foi denegada.
+Impetrado writ originário, a ordem foi denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois a prisão preventiva fundou-se na gravidade abstrata do delito.
+Afirma que tanto a decisão de primeiro grau quanto o acordão do Tribunal de origem apresentaram fundamentação genérica e abstrata para a manutenção da segregação cautelar do paciente.
+Argumenta que o paciente é possuidor de predicados pessoais favoráveis, não demonstrando periculosidade ou propensão à prática de atos delituosos.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente.
+O pedido de liminar foi indeferido àsfls. 53-54.
+As informações foram prestadas às fls. 64-69e 70-77.
+O Ministério Público Federal manifestou-se pela não admissão do writ(fls. 96-105).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 43-47, destaquei):
+Conforme relatado, o paciente foi preso em flagrante, em 13/04/2021, posteriormente, convertida em preventiva (movimentação 23, processo originário), pela suposta prática do crime descrito no artigo 33 (trazer consigo e ter em depósito), caput, da Lei 11.343/06, e art. 12, da Lei 10.826/03 (possuir arma de fogo de uso permitido, sem autorização e em desacordo com determinação legal).
+Ressai dos autos que os policiais militares receberam informações de que o paciente estaria comercializando drogas e armas na cidade de Edéia/GO. A equipe policial empreendeu diligências e encontraram o paciente, tendo procedido busca pessoal e constatado em poder dele 1 (uma) porção de maconha, pesando 252,7gramas. No momento do flagrante, o paciente alegou que possuía mais uma porção de crack e arma em sua residência, o que foi detectado pelos policiais durante a busca domiciliar, tendo sido em encontrada 1(uma) porção de crack, pesando 178,2 gramas,1 (um) revólver, calibre 38, marca Taurus, 5 (cinco) munições intactas, 1 (um) rolo de papel filme e 1 (uma) balança de precisão.
+ ..
+A decisão infligida encontra-se calcada nos seguintes termos:  .. .
+Assim, mostra-se fundamentada a decisão atacada, com especificação do fato concreto, mediante reconhecimento da materialidade e indícios de autoria, e acertado silogismo com o disposto no artigo 312 do Código de Processo Penal (garantia da ordem pública).Por conseguinte, sublinhe-se que o reconhecimento dosmotivos autorizadores da segregação cautelar afasta a substituição por cautelares diversas da prisão.
+ ..
+Cediço que referidos predicados pessoais do paciente, por si sós, não são suficientes à revogação do decreto de prisão preventiva, caso estejam presentes os requisitos de ordem objetiva e subjetiva que autorizem a imposição da medida extrema, como verificado na hipótese.
+ ..
+Com efeito, a decisão infligida encontra-se fundamentada e em consonânciacom os artigos 312 e 313 do Código de Processo Penal e inciso IX do artigo 93 da Constituição Federal. Ademais, o Juiz a quo delineou os vetores contidos no art. 312do Código de Processo Penal, indicando motivação razoável para decretar a prisão preventiva, salientando a situação fático-jurídica com esmero.
+A exigência acima, em princípio, foi cumprida no acórdão impugnado, motivo pelo qual não há razão para o acolhimento dos pedidos.
+No presente caso,a quantidade, a variedade e natureza dosentorpecentesapreendidos (1 porção de maconha com 252,7g e 1 porção de crack com 178,2g) ea apreensão dearma de fogo com muniçõese de apetrechos relacionados àmercancia de entorpecentes foram consideradas pelo Tribunal de origem para a denegação da ordem.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ressalte-se que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de27/11/2020).
+Ademais, eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
