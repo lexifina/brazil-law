@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMAcom fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 40):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. VEÍCULO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. CONTRATO. INSTITUIÇÃO FINANCEIRA. INFORMAÇÕES.
+Tendo o juízo da execução autorizado a própria exequente a buscar as informações sobre o contrato de alienação fiduciária em garantia, fornecendo desde logo ordem à instituição financeira para prestá-las, desnecessário que seja expedido ofício pelo próprio juízo para essa finalidade.
+Opostos embargos declaratórios, foram rejeitados (fls. 59/62).
+A parte recorrente aponta violação aos arts. 797, 831, 835, 854, 829 e 1.022, II, do CPC e1º e3º da Lei Complementar105/2001.Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo restou omisso acerca das questões neles suscitadas; (II) a execução deve serrealizada no interesse do credor; e(III)"o deferimento e a expedição de ofício ao credor financeiro é medida imperativa para garantir a efetividade e celeridade do processo executivo na obtenção de resultados não pode ser realizada diretamente pelo exequente, depende de seu requerimento e prática pelo Judiciário"(fl. 72).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, não há falar em ofensa aoart.1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Por sua vez, a questão trazida à discussão restou assim decidida no acórdão recorrido (fls. 42/43):
+Apurado nos autos que o executado mantém contrato de alienação fiduciária de veículo, cujos direitos pretende a exequente a penhora, o juízo de origem autorizou a própria exequente a buscar as informações pertinentes junto à instituição financeira.
+Ora, dado o teor de tal decisão, o disposto no art. 3º da Lei Complementar nº 105, de 2001 (Serão prestadas .. pelas instituiçõesfinanceiras as informações ordenadas pelo Poder Judiciário..) aparentemente viabiliza que no caso dos autos a própria exequente obtenha acesso às informações sobre o contrato de alienação fiduciária de automóvel envolvendo o executado.
+Ainda, a parte agravante nada indica acerca da necessidade de que as informações sejam requisitadas mediante ofício expedido diretamente pelo juízo, pois, ainda que argumente que a instituição não lhe cederia acesso as informações, nada demonstra nesse sentido.
+Nesse contexto, é certo que aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar a indispensabilidade da providência judicial pleiteada, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO,conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
