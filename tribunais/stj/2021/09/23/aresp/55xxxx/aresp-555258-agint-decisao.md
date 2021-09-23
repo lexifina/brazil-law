@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interno manejado por E L GALVÃO E COMPANHIALTDAem face de decisão de minha lavra resumida da seguinte forma:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/1973. PROCESSUAL CIVIL. TRIBUTÁRIO. PIS/PASEP E COFINS. BASE DE CÁLCULO. RECEITA OU FATURAMENTO. INCLUSÃO DO ICMS. TEMA JÁ JULGADO EM SEDE DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL (ART. 932, IV, CPC/2015 C/C ART. 253, PARÁGRAFO ÚNICO, II, B, RISTJ).
+A agravante insurge-se contra a decisão agravada alegando, em síntese, a não incidência da Súmula nº 83 desta Corte e reiterando a alegação de ofensa ao art. 110 do CTN e asseverando que o STF, no R 240.785, considerou inconstitucional a inclusão do ICMS na base de cálculo do PIS e da COFINS, superando a então jurisprudência desta Corte cristalizada nas Súmulas nºs 94 e 68. Pretende a exclusão do ICMS da base de cálculo do PIS e da COFINS em razão da ilegalidade e inconstitucionalidade do alargamento de sua base de cálculo além dos conceitos de faturamento e receita utilizados comumente no direito privado.
+Requer a reconsideração da decisão agravada ou a submissão do feito a julgamento perante a Turma.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso foi interposto na vigência do CPC/2015, o que atrai a incidência do Enunciado Administrativo Nº 3: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação merece acolhida.
+Tendo em vista que o Supremo Tribunal Federal concluiu o julgamento do RE nº 574.706/PR, em sede de repercussão geral, adotando orientação no sentido de excluir os valores relativos ao ICMS da base de cálculo do PIS e da COFINS, entendimento diametralmente oposto àquele fixado por esta Corte no REsp. nº 1.144.469, devem os autos retorno à origem para aplicação da tese fixada pela Supremo Corte no Tema 69 supracitado.
+Com efeito, o art. 1.040, II, do CPC/2015 determinar que, publicado o acórdão paradigma, o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo se o acórdão recorrido contrariar a orientação do tribunal superior.
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, conheço do agravo interno para, em juízo de retratação, conhecer do agravo a fim de determinar o retorno dos autos à origem para fins de aplicação da tese adotada pelo STF no tema 69 em sede de repercussão geral, na forma do art. 1.040, II, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. ACÓRDÃO RECORRIDO QUE CONTRARIA ORIENTAÇÃO DO STF NO TEMA 69 (RE 574.706). AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO,CONHECER DO AGRAVO A FIM DE DETERMINAR O RETORNO DOS AUTOS À ORIGEM PARA OS FINS DO ART. 1.040, II, DO CPC/2015.
