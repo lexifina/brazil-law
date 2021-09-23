@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de PAULO SERGIO DOS SANTOS MOLAS contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido naRevisão Criminal n.0025128-27.2020.8.26.0000.
+Colhe-se nos autos que o Paciente foi condenado como incurso nos arts. 33 e 35, c.c. o art. 40, inciso V, todos da Lei n. 11.343/2006, às penas de18 (dezoito) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e 2.799 (dois mil, setecentos e noventa e nove) dias-multa,porque, segundo consta na inicial acusatória, "os acusados se ajustaram para o fim de transportar, entre Estados da Federação, o montante de 3.510,6kg (três toneladas, quinhentos e dez quilogramas e seiscentos gramas) de "maconha"" (fl. 21).
+Contra a sentença, insurgiram-se os Acusados, mas o Tribunal de origem, por maioria de votos negou provimento às apelações interpostas (fls. 41-54).
+Irresignados, os Corréus Eliseu Siqueiro Peralta e Marisa Nogueira de Souza apresentaram Embargos Infringentes e de Nulidade, os quais foram acolhidos para afastar a condenação dos Réus pelo delito de associação para o tráfico ilícito de drogas e, ainda, para absolver a CorréMarisa também da acusação referente ao crime previsto no art. 33,caput, da Lei n. 11.343/2006(fls. 54-64). Por conseguinte, o Paciente ficou condenado às penas de 11 (onze) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e 1.166 (mil cento e sessenta e seis) dias-multa, como incurso no art. 33,caput, c.c. o art. 40, inciso V, da Lei de Drogas.
+A Defesa do Paciente ajuizou revisão criminal, postulando a absolvição do Acusado ou, de modo alternativo, a redução de sua pena pela incidência da minorante prevista no § 4.º do art. 33 da Lei de Drogas. A Corte de origem indeferiu o pedido revisional (fls. 11-16).
+Daí o presentewrit, no qual sustenta a Parte Impetrante que a causa especial de diminuição de pena prevista no art. 33, § 4.º, da Lei n. 11.343/2006 foi indeferida mediante fundamentação inidônea, tendo em vista que, nos termos do posicionamento adotado pelos Tribunais Superiores, a quantidade de droga apreendida não pode ser utilizada para afastar o mencionado benefício.
+Aduz, ainda, que, "o paciente preenche todos os requisitos enumerados e a primariedade e a boa antecedência criminal não admitem qualquer relativização a permitir a adoção de maior ou menor grau de redução, de modo que o patamar de diminuição só pode ser o máximo" (fl. 9).
+Requer, em liminar, seja permitido ao Paciente aguardar em liberdade o julgamento definitivo dowrit.
+No mérito, pugna pela concessão da ordem para (fl. 10):
+"A) aplicar a causa especial de diminuição de pena prevista no art. 33, §4º, da Lei de Drogas, em seu patamar máximo (2/3);
+B) substituir a pena privativa de liberdade por restritivas de direitos;
+C) fixar regime aberto."
+É o relatório. Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos.
+Com efeito, verifico que a Parte Impetrante não juntou aos autos as cópias das peças processuais necessárias à compreensão da controvérsia, notadamente acópia do voto-vencido proferido no julgamento da apelação criminal, no qual, ao que consta,foi apreciada a questão relativa à aplicação da causa especial de diminuição de pena prevista no art. 33, § 4.º, da Lei de Drogas.
+Como se sabe,compete à Defesanarrareinstruircompleta e adequadamente ohabeas corpus(ou seu respectivo recurso). Dessa forma, como a Parte Impetrante não se desincumbiu do ônus de formar adequadamente os autos, olvidando-sede que ohabeas corpus"pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTATURMA, DJe 28/06/2018), não há como apreciar o mérito do pedido.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
