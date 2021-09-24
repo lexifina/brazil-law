@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ROBERTO RAMOS FERREIRA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL - RESPONSABILIDADE CIVIL - CONCESSIONÁRIA DE SERVIÇO PÚBLICO - ATROPELAMENTO DE ANIMAL EM VIA FÉRREA - NEXO DE CAUSALIDADE NÃO EVIDENCIADO - MANUTENÇÃO DA SENTENÇA. Pretensão de reparação pelos danos materiais e morais suportados em razão do atropelamento de animal do rebanho do demandante em via férrea operada pela concessionária ré. A responsabilidade objetiva da concessionária de serviço público pelos danos causados a terceiros decorre do risco administrativo estendido às pessoas jurídicas de direito privado prestadoras de serviços públicos, nos termos do artigo 37, § 6º da Constituição da República. Contudo, o artigo 936 do Código Civil dispõe que cabe ao proprietário o dever de guarda do animal. No caso, o acervo probatório carreado aos autos não permite concluir que o atropelamento do animal na via férrea decorreu da conduta da ré, pois não fora produzida qualquer prova no sentido de que os prepostos da ré derrubaram a cerca do sítio do autor, deixando passagem para o animal. Manutenção da sentença que se impõe. Negado provimento ao recurso" (fl. 232, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 251/256, e-STJ).
+No especial, o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 489, § 1º, do Código de Processo Civil de 2015 e 2º, 3º, § 2º, 4º, VII, 6º, X, e 22, parágrafo único, da Lei nº 8.078/1990, argumentando, em síntese, a impossibilidade de exclusão da responsabilidade objetiva da recorrida diante do dano causado em consequência do acidente ocorrido.
+Afirma que "o animal somente atravessou a linha férrea pelo fato dos funcionários da Recorrida terem aberto a cerca e, após a manutenção da rodovia, não tomaram as medidas de precaução para fechar a cerca aberta pelos mesmos, motivo pelo qual resultou a morte do animal" (fl. 264, e-STJ).
+Apresentadas contrarrazões às fls. 274/281 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Em que pese a natureza objetiva da responsabilidade civil da concessionária, não restou evidenciado nos autos o nexo de causalidade entre a conduta e o dano.
+Isto porque o acevo probatório carreados aos autos não permite concluir que o atropelamento do animal na via férrea decorreu da conduta dos prepostos da ré.
+Com efeito, as fotografias adunadas à exordial, não corroboram a narrativa descrita na petição inicial, pois não há qualquer evidência quanto à derrubada dos mourões. (indexador 0015 - fls. 29/36)
+Outrossim, a parte autora não providenciou a oitiva do morador do sítio que, segundo o relatado no Boletim de Ocorrência constante do indexador 0015 - fls. 26/28, teria presenciado o evento.
+Registre-se que, a oitiva da referida testemunha em juízo, com a confirmação do depoimento prestado em sede policial, constitui prova essencial para a elucidação da questão apontada pelo juízo singular, pois, segundo as regras da experiência, teria tomado providência para impedir que o animal saísse pela passagem.
+Observa-se, ainda, que a parte autora fora devidamente intimada da decisãosaneadora que indeferiu a inversão do ônus da probatório, deferindo a produção da prova oral requerida pela autora. (indexador 0122)" (fls. 236/237, e-STJ).
+De início, no tocante à violação do art. 489, § 1º, do Código de Processo Civil de 2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS PATRIMONIAIS E MORAIS. RESPONSABILIDADE CIVIL. AUSÊNCIA DE NEXO CAUSAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem concluiu pela inexistência do dever de indenizar pois o evento danoso narrado nos autos decorreu de caso fortuito, isto é, ocorreu em razão de condições climáticas desfavoráveis. A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+2. Agravo interno não provido" (AgInt no AREsp 1.822.610/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/06/2021, DJe 21/06/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE VEÍCULO. CONSÓRCIO. OFENSA À LEI FEDERAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. EXISTÊNCIA DE NEXO DE CAUSALIDADE ENTRE OS DANOS E A CONDUTA NEGLIGENTE DOS PREPOSTOS DA EMPRESA. DEVER DE INDENIZAR RECONHECIDO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. A OCORRÊNCIA DE DISSENSO SOBRE A INTERPRETAÇÃO DOS FATOS ENTRE OS JULGADORES NO TRIBUNAL DE ORIGEM, NÃO TORNA ESTA CORTE SUPERIOR UM QUANTO INTÉPRETE DOS FATOS. PEDIDO DE CUMPRIMENTO DA DECISÃO DE FORMA ALTERNATIVA. ENTREGA DE VEÍCULO EQUIVALENTE. IMPOSSIBILIDADE. RESPEITO AOS LIMITES DO PEDIDO INICIAL. AGRAVO INTERNO NÃO PROVIDO" (AgInt no AREsp 1.396.691/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe 24/05/2021).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em 10% (dez por cento) sobre o valor atualizado da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da recorrida, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
