@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CARLOS ODEON BANDEIRA contra acórdão do Tribunal de Justiça do Estado do Ceará proferido no HC n.0624438-04.2020.8.06.0000.
+Consta dos autos que o Paciente foi denunciado como incurso no art. 121, § 2.º, incisos I e IV, do Código Penal. Ao receber a denúncia, em 25/07/2018, o Juízo de primeira instância decretou a prisão preventiva do Paciente. O mandado de prisão foi cumprido em 28/05/2019 (fl.113).
+O Magistrado processante, em 10/03/2020, ao reanalisar a prisão preventiva do Paciente, nos termos do art. 316 do Código de Processo Penal, manteve a segregação cautelar.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que conheceu em parte da impetração e, nessa extensão, denegou a ordem (fls. 22-28).
+Neste writ, a Impetrante alega que não houve motivação idônea para a manutenção da prisão preventiva do Paciente, notadamente diante da ausência de contemporaneidade da medida, pois os fatos ocorreram em 27/05/2017, e diante da falta de individualização da conduta de cada réu.
+Sustenta que se aplica ao caso a Recomendação n.62/2020 do Conselho Nacional de Justiça, aduzindo que o ambiente carcerário, insalubre e com más condições de higiene, faz com que o Paciente se encontre em situação de vulnerabilidade.
+Argumenta a suficiência das medidas cautelares diversas da prisão.
+Requer, liminarmente, a concessão de liberdade ao Paciente e, no mérito, seja cassado o decreto de prisão ou, subsidiariamente, seja a constrição substituída por medidas cautelares diversas.
+O pedido liminar foi indeferido (fls. 128-129).
+Asinformações foram prestadas às fls. 133-146 e 158-181.
+O Ministério Público Federal manifestou-se pelo não conhecimento dohabeas corpus (fls. 150-156).
+É o relatório.Decido.
+Segundo informações colhidas no endereço eletrônico do Tribunal de origem,verifica-se que, em 14/01/2021, o Paciente foi supervenientemente pronunciado, nos autos da Ação Penal n.0000106-16.2018.8.06.0154, "pela prática dos crimes capitulados no art. 121, § 2º, I e IV do CPB e art. 2º da Lei nº. 12.850/2013".
+Na oportunidade, o Juízo de origem manteve a prisão preventivaconsignando o que se segue:
+"Permanece a necessidade da garantia da ordem pública, em razão da periculosidade extraída da forma como foi cometido o crime e da aplicação da lei penal, tendo em vista que o crime foi cometido de forma bárbara mediante diversos disparos de arma de fogo na vítima, sendo, assim, a prisão preventiva justificada em razão da gravidade em concreto de suas condutas e pelo perigo gerado pela liberdade dos réus".
+Vale dizer, foi acrescentada fundamentação diversa daquela utilizada para a decretação e posterior manutençãoda segregação provisória, in verbis (fl. 45; sem grifos no original):
+"No que concerne ao requisito periculum libertatis este também se encontra presente, tendo em vista que os fatos ventilados são de extrema gravidade, os quais atentam sobremaneira contra a ordem pública, haja vista que a conduta atribuída aos acusados datada de alta gravidade concreta, uma vez que ceifaram a vida de uma pessoa com objetivo de colocar um temor perante a sociedade, já que a vítima era prestadora de serviços na delegacia municipal, além do referido crime, posteriormente, surgiu no meio social a informação que a vítima seria a primeira de uma lista de policiais que estavam marcados para morrer, justificando, assim, a manutenção da custódia cautelar dos acusados."
+Desse modo, há novo título a respaldar a custódia cautelar do Paciente, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram complementadas pelo superveniente fundamento apresentado na sentença de pronúncia, que ainda não foi objeto de análise pelo Tribunal impetrado.
+Assim, a verificação de eventual constrangimento ilegal, por se tratar de novo título, em que foram agregados novos fundamentos, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior se adiantar em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso I, alínea c).Nesse sentido:
+" ..
+1. A superveniência de sentença de pronúncia, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Agravo regimental desprovido."(AgRg no RHC 112.178/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 15/06/2020.)
+" ..
+VI - Pleito de revogação da prisão preventiva ante a alegada ausência de fundamentação do decreto prisional prejudicado pela superveniência da sentença de pronúncia, que constitui novo título, com novos fundamentos para a prisão preventiva, os quais não foram impugnados na presente impetração, tampouco analisados pelo eg. Tribunal de origem.
+Habeas corpus não conhecido." (HC 495.012/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/06/2019, DJe 25/06/2019.)
+Outrossim,a questão referente à suposta ausência de contemporaneidade da prisão não foi apreciada pelo Tribunal de origem, pois se tratava de reiteração de pedido.Também nesta Corte, a referida questão está sendo apreciada nos autos do RHC n. 122.877/CE, de forma que se mostra inadmissível a impetração no ponto.
+Por fim, convém registrar que a Parte Impetrante alega, genericamente, a situação decorrente da pandemia causada pela Covid-19, sem, contudo, demonstrar, de modo específico e fundamentado, a viabilidade dessa pretensão à luz do disposto na Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+Nos termos da jurisprudência deste Superior Tribunal de Justiça, para que seja determinada a soltura do Acusado em decorrência da atual pandemia, é imprescindível que demonstre: "a)sua inequívoca adequação no chamado grupo de vulneráveis do COVID19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, causa mais risco do que o ambiente em que a sociedade está inserida, inocorrente na espécie" (AgRg no HC 561.993/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020), o que não ocorreu na hipótese.
+Ademais,foi destacado no acórdão impugnado "ser incabível a soltura do paciente com fundamento na aplicação da Recomendação n.º 62, de 17 de março de 2020, do colendo Conselho Nacional de Justiça, devido a explicitada gravidade concreta da acusação" (fl. 28).
+Desse modo, em razão do suposto delito de homicídio qualificado tratar-se de delito praticado comviolência, se mostra indevida a soltura do Paciente com amparo na Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+A propósito:
+" ..
+1. Tendo sido indicada fundamentação concreta, evidenciada na reiteração delitiva, bem como não tendo sido demonstrada a possibilidade de aplicação da Recomendação 62 do CNJ, pois o paciente praticou delito com violência ou grave ameaça e não foi demonstrado que este faça parte do grupo de risco, seja pela idade ou porque apresenta problema de saúde que possa ser potencializado pela Covid-19, não se verifica ilegalidade.
+ ..
+5. Agravo regimental improvido." (AgRg no HC 603.160/MT, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 10/12/2020; sem grifos no original.)
+Ante o exposto,JULGO PARCIALMENTE PREJUDICADO o write, nesse ponto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO.PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE PRONÚNCIA COM A ADOÇÃO DE NOVOS FUNDAMENTOS PARA MANUTENÇÃO DA PRISÃO CAUTELAR. QUESTÃOPREJUDICADA. AUSÊNCIA DE CONTEMPORANEIDADE DA MEDIDA. SUPRESSÃO DE INSTÂNCIA. PLEITO DE SOLTURA AMPARADO NA RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. REQUISITOS NÃO DEMONSTRADOS. HABEAS CORPUS PARCIALMENTE PREJUDICADO E, NESSE PONTO, DENEGADA A ORDEM.
