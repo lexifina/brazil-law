@@ -1,0 +1,51 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de embargos de declaração opostos por PEDRO PAULO CORINO DA FONSECA contra acórdão da Sexta Turma do Superior Tribunal de Justiça, da minha relatoria, assim ementado (fl. 479):
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO CONSTITUCIONAL. CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL. TESE DE ERRO NA TIPIFICAÇÃO LEGAL DESCRITA NA DENÚNCIA. NÃO IMPUGNAÇÃO DOS FATOS. MERO ERRO NA CAPITULAÇÃO JURÍDICA. RÉU DEFENDE-SE DOS FATOS EXPOSTOS NA ACUSAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. CORREÇÃO DA DEFINIÇÃO JURÍDICA COMO REGRA DEVE SER REALIZADA NA SENTENÇA. EXCEPCIONALIDADE NÃO DEMONSTRADA PARA A CORREÇÃO EM MOMENTO ANTERIOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. O trancamento do processo-crime pela via do habeas corpus ou do recurso ordinário em habeas corpus é medida de exceção, que só é admissível quando emerge dos autos, sem a necessidade de exame valorativo do conjunto fático ou probatório, a atipicidade do fato, a ausência de indícios capazes de fundamentar a acusação ou, ainda, a extinção da punibilidade.
+2. No caso, não há impugnação quanto aos fatos narrados na inicial acusatória, mas inconformismo apenas quanto à tipificação legal atribuída pelo Órgão acusatório a tais fatos.
+3. A jurisprudência desta Corte é firme no sentido de que o erro na definição jurídica da conduta não torna inepta a inicial acusatória, e, menos ainda, é causa de trancamento da ação penal, pois o Acusado defende-se do fato ou dos fatos delituosos narrados na denúncia, e não da capitulação legal.
+4. Esta Corte, acompanhando entendimento firmado pelo Supremo Tribunal Federal, não admite emendatio libelli em momento anterior ao da prolação da sentença, exceto em situações excepcionais, quando a inadequada subsunção típica causar prejuízos ao réu, trazendo reflexos no campo da competência absoluta, do adequado procedimento ou, ainda, quando houver restrição a benefícios penais em razão de eventual excesso da acusação.
+5. Na hipótese, a correção de eventual equívoco na tipificação legal realizada na denúncia não interferiria na obtenção do acordo de não persecução penal (benefício legal), pois a denúncia foi recebida antes da vigência do art. 28-A do Código de Processo Penal, incluído pela Lei n. 13.964/2019, o que impede a sua aplicação retroativa, conforme entende esta Corte Superior.
+6. Agravo regimental desprovido."
+O Embargante sustenta, em suma, a omissão na decisão impugnada.
+Assevera que, embora não tenha sido reconhecida a aplicação retroativa do acordo de persecução penal a processos com denúncia recebida, na hipótese, o Corréu foi beneficiado com o referido instituto, assim, também faz jus ao benefício após a correção do excesso acusatório, sob pena de violação ao princípio da isonomia/equidade entre os Denunciados.
+Requer seja sanada a referida omissão, "reconhecendo a violação ao princípio do ne bis in idem e determinando o trancamento da ação penal com relação à acusação dos delitos dispostos nos artigos 4º e 5º da Lei Federal nº 7.492/86, bem como seja afastado o concurso material imputado aos delitos previstos nos artigos 5º e 7º, inciso II, da mesma lei, possibilitando  ..  oferecimento do Acordo de Não Persecução Penal" (fl. 493).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+A obtenção de efeitos infringentes somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos indicados no supramencionado dispositivo legal, a alteração do julgado seja consequência inarredável da correção do referido vício, bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado.
+No caso, o Embargante não demonstrou, em suas argumentações, a ocorrência de quaisquer das hipóteses legais ensejadoras dos embargos declaratórios, pois se limita a alegar a existência de vício no acórdão, pois, sem motivação idônea, não teria apreciado a controvérsia relativa à suposta violação ao princípio da isonomia/equidade entre os Denunciados.
+Na decisão impugnada, foi afirmado que a correção de eventual equívoco na tipificação legal realizada na denúncia não interferiria na obtenção do acordo de não persecução penal (benefício legal).
+Isso porque, a orientação que se firmou no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, desde que não recebida a denúncia. E, na hipótese, a denúncia foi recebida em 14/03/2018 (ou em 06/12/2019, conforme mencionou o Tribunal local), o que torna inviável a aplicação retroativa do art. 28-A do Código de Processo Penal, que passou a vigorar a partir de 24/01/2020.
+Especificamente quanto à suposta violação ao princípio da isonomia/equidade entre os Denunciados, constata-se que a tese não foi suscitada na inicial do recurso ordinário em habeas corpus (fls. 367-386), o que inviabilizou sua análise no agravo regimental, por caracterizar indevida inovação recursal.
+Como se sabe, no âmbito do agravo regimental não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir formuladas na petição inicial ou no recurso.
+Confira-se:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. MEDIDAS CAUTELARES. PLEITO DE REVOGAÇÃO. INOVAÇÃO RECURSAL. RECURSO NÃO CONHECIDO.
+1. Nos termos da jurisprudência deste Tribunal Superior, é defeso, em âmbito de agravo regimental, ampliar a quaestio veiculada nas razões do habeas corpus.
+2. Agravo regimental não conhecido." (AgRg no HC 548.737/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/02/2020, DJe 17/02/2020; sem grifos no original.)
+Desse modo, em verdade, verifica-se que os presentes embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assuntos já decididos, o que sabidamente não se coaduna com a sua finalidade processual.
+Ilustrativamente:
+"PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NATUREZA DECLARATÓRIA. CAUSA INTERRUPTIVA. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão está devidamente fundamentado e não incorreu em omissão, contradição ou obscuridade. O embargante pretende rediscutir o tema julgado pelo agravo, finalidade a que não se destinam os embargos de declaração.
+2. O acórdão que apenas confirma a sentença de primeiro grau, sem decretar nova condenação por crime diverso, não configura marco interruptivo da prescrição, ainda que haja reforma considerável na dosimetria da pena. Precedente.
+3. Embargos de declaração rejeitados." (EDcl nos EDcl no AgRg no REsp 1.629.674/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018; sem grifos no original.)
+"PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INFUNDADO. NÍTIDO CARÁTER PROTELATÓRIO. DESVIRTUAMENTO DO CÂNONE DA AMPLA DEFESA. ABUSO DE DIREITO. DETERMINAÇÃO DE REMESSA DOS AUTOS AO STF. EMBARGOS NÃO CONHECIDOS.
+1. A recorribilidade vazia, infundada, como in casu, tão somente com nítido intuito protelatório, configura abuso do direito de recorrer e não é admissível em nosso ordenamento jurídico, notadamente em respeito aos postulados da lealdade e boa fé processual, além de se afigurar desvirtuamento do próprio cânone da ampla defesa.
+2. O manejo recursal com finalidade meramente protelatória autoriza a remessa dos autos ao Supremo Tribunal Federal, tendo em vista a pendência de julgamento de agravo em recurso extraordinário anteriormente interposto.
+3. Embargos de declaração não conhecidos, com a determinação de encaminhamento dos autos ao STF, após a publicação do acórdão, independentemente da eventual interposição de outro recurso." (EDcl nos EDcl no AgRg no AREsp 1.194.589/AM, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/04/2018, DJe 27/04/2018; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
