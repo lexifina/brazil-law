@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE. CONTRATO DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO. RETORNO AO STATUS QUO ANTE. NÃO SUBMISSÃO AO PLANO DE RECUPERAÇÃO JUDICIAL DA ADQUIRENTE INADIMPLENTE. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015.FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULAS 283 E 284 DO STF.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+2. Nos termos da jurisprudência desta Corte, "Estando as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, não havendo, portanto, impugnação do decisum, tem incidência as Súmulas 283 e 284 do STF" (AgRg no AREsp 699.369/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe de 13/11/2015).
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por CENTRAIS ELÉTRICAS DO PARÁ S/A - CELPA contra decisão proferida pelo Ministro Presidente do Superior Tribunal de Justiça, que não conheceu do recurso especial ante a sua intempestividade.
+Nas razões do agravo interno, sustenta a agravante a tempestividade do recurso, alegando para tanto que, "No ato de interposição do Recurso Especial, em 12.09.2017, a agravante juntou as portarias nº 0052/2017-GP; 3389/2017-GP; 3942/2017-GP; 3919/2017-GP (fls. 575- 579), que comprovaram a suspensão do expediente forense nos respectivos dias, fazendo com que o recurso especial se tornasse tempestivo" (fl. 646).
+Apresentada impugnação do agravo interno às fls. 655/663.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE. CONTRATO DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO. RETORNO AO STATUS QUO ANTE. NÃO SUBMISSÃO AO PLANO DE RECUPERAÇÃO JUDICIAL DA ADQUIRENTE INADIMPLENTE. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULAS 283 E 284 DO STF.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+2. Nos termos da jurisprudência desta Corte, "Estando as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, não havendo, portanto, impugnação do decisum, tem incidência as Súmulas 283 e 284 do STF" (AgRg no AREsp 699.369/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe de 13/11/2015).
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.371.235 - PA (2018/0251160-8)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+CENTRAIS ELÉTRICAS DO PARÁ S/A CELPA
+ADVOGADO
+:
+PEDRO BENTES PINHEIRO FILHO - PA003210
+AGRAVADO
+:
+WAGNER MOYSES
+ADVOGADO
+:
+MARCOS VINICIUS COROA SOUZA E OUTRO(S) - PA015875
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Com efeito, a decisão agravada merece ser reconsiderada.
+Isso, porque o recurso especial é tempestivo.
+O acórdão que julgou os embargos de declaração foi publicado em 04/08/2017; o dies ad quem para protocolização do recurso especial seria em 25/08/2020, todavia, considerada a suspensão dos prazos processuais nas datas de 14 e 15/08/2017 (Portaria n. 3389/2017-GP, de 25/07/2017), 16 a 25/08/2017 (Portaria n. 3919/2017-GP, de 11/08/2017), e 08/09/2017 (Portaria n. 3924/2017-GP, de 16/08/2017), comprovadas no ato da interposição do recurso, o prazo final se deu em 12/09/2017, exatamente a data de interposição do recurso.
+Reconsiderada, portanto, a decisão, no ponto.
+Passa-se, então, à análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Pará, assim ementado:
+"EMENTA: AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL DE VENDA E COMPRA C/C REINTEGRAÇÃO DO IMÓVEL OBJETO DO CONTRATO (Proc. nº: 0030713-44.2012.814.0301). Constato que o objeto da Ação, envolve a rescisão de contrato particular de venda e compra de imóvel. Verifiquei que na sua contestação à própria recorrida reconheceu que não houve o pagamento dos restantes dos valores pactuados entre as partes, pois aduz que pagou ao autor, 05 parcelas de R$ 60.000,00 (sessenta mil reais), sendo a primeira em 04/10/2011, a segunda em 04/11/2011, a terceira 02/12/2011, a quarta em 04/01/2012 e a quinta em 03/02/2012, totalizando o pagamento de R$ 300.000,00 (Trezentos mil reais). Assim no presente caso restou evidenciado o inadimplemento por parte da apelada, situação em que há expressa autorização para a resolução do contrato. Nesse sentido as parte retornaram à situação anterior, como se não tivesse existido o contrato, desfazendo a relação contratual, voltando o bem para o vendedor, ficando assim os contratantes, ainda liberados das prestações pendentes. Observei que o contrato particular de venda e compra de imóvel não se sujeitam a habilitação de crédito no processo de recuperação judicial, pois busca obter a rescisão do contrato pelo qual foi transferida a posse precária do imóvel à apelada. Desta feita, entendo não ter agido corretamente o Juízo monocrático ao prolatar a sentença ora combatida. APELAÇÃO CONHECIDA E PROVIDA. DECISÃO UNÂNIME." (fls. 457/458)
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 1.022 do Código de Processo Civil de 2015 e 49 e 172 da Lei 11.101/2005, sustentando, em síntese: (a) negativa de prestação jurisdicional; e (b) a sujeição do crédito ao plano de recuperação judicial.
+Apresentadas contrarrazões às fls. 584/596.
+Não se verifica a alegada violação ao art. 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, conforme se verá adiante.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+No presente caso, requer a parte recorrente a submissão do crédito decorrente do contrato de compra e venda firmado entre as partes ao plano de recuperação judicial da recorrida, sustentando a inexistência de cláusula de irrevogabilidade e irretratabilidade no contrato.
+Por sua vez, o acórdão recorrido, apesar de reconhecer o inadimplemento da parte recorrida, consignou que há expressa autorização para a resolução do contrato em caso de inadimplemento, com retorno das partes ao status quo ante, não se sujeitando o crédito à habilitação na recuperação judicial porque se busca obter a rescisão de contrato por meio do qual se transferiu a posse precária do imóvel à recorrida. Leia-se, a propósito, o seguinte trecho do acórdão recorrido:
+Constato que o objeto da Ação, envolve a rescisão de contrato particular de venda e compra de imóvel. Verifiquei que na sua contestação à própria recorrida reconheceu que não houve o pagamento dos restantes dos valores pactuados entre as partes, pois aduz que pagou ao autor, 05 parcelas de R$ 60.000,00 (sessenta mil reais), sendo a primeira em 04/10/2011, a segunda em 04/11/2011, a terceira 02/12/2011, a quarta em 04/01/2012 e a quinta em 03/02/2012, totalizando o pagamento de R$ 300.000,00 (Trezentos mil reais).
+Assim no presente caso restou evidenciado o inadimplemento por parte da apelada, situação em que há expressa autorização para a resolução do contrato. Nesse sentido as parte retomaram à situação anterior, como se não tivesse existido o contrato, desfazendo a relação contratual, voltando o bem para o vendedor, ficando assim os contratantes, ainda liberados das prestações pendentes.
+A jurisprudência sobre o caso, afirma que:
+"RECURSO DOS AUTORES. PRETENSÃO DE QUE AS PERDAS E DANOS SEJAM APURADAS EM MOMENTO ULTERIOR. REOLUÇÃO CONTRATUAL. INTELIGENCIA DO ART. 475, IN FINE, DO CÓDIGO CIVI. EVENTUAIS Verificando o inadimplemento e operando-se a resolução, alguns efeitos emergem. As partes retornam à situação anterior, como se não tivesse existindo o contrato. É desfeita a relação contratual. Na compra e venda, volta o bem para o vendedor. Ficam os contratantes, ainda, liberados ou desonerados das prestações pendentes.
+Extinque-se a obriaacão, devendo ser restituídas as prestações iá efetivadas. Estes os efeitos primordiais.
+Existem outros, quanto ao alcance da resolução. A extinção do contrato se opera retroativamente, ou desde o momento inicial, se cumprindo em um único momento. As consequências jurídicas que se formaram ficam extintas ou desaparecem. Na falta de pagamento, a resolução remonta ao inicio. Restituem as prestações recebidas.
+Devolve-se o bem objeto da avença. Há o efeito Ex tunc, como numa compra e venda, retornando a propriedade ao primitivo dono. Dá-se o retorno como se nunca tivesse existido o contrato, ou seja, de forma integral, com todos os acessórios, com os frutos e rendimentos, incidindo as perdas e danos no caso de deteriorações ou perecimento.
+Reconstitui-se ou reimplanta-se o status quo ante.
+(RIZZARDO, Arnaldo. Contratos: lei 10.406 de 10/01/2002. Rio de Janeiro: Forense, 2010. p. 272).
+ALEGAÇÃO DE INOBSERVANCIA DO PRINCIPIO DA CONGRUENCIA DIANTE DE JULGAMENTO ULTRA PETITA. COMPENSAÇÃODOS VALORES A SEREM RESTITUIDOS PELOS AUTORES AOS RÉUS. PEDIDO FEITO PELOS PRÓPRIOS RECORRENTES EM PEÇA PREAMBULAR. RESTABELECIMENTO DA SITUAÇÃO ANTERIOR COMO COROLÁRIO DA RESOLUÇÃO DECRETADA. PARCIAL AUSENCIA DE INTERESSE RECURSAL. RECURSO PARCIALMENTE CONHECIDOS E PARCIALMENTE PROVIDOS. Apelação cível nº: 2010.023305-7, de Blumenau Relator: Des. Subst. Altamiro de Oliveira.
+Observei que o contrato particular de venda e compra de imóvel não se sujeitam a habilitação de crédito no processo de recuperação judicial, pois busca obter a rescisão do contrato pelo qual foi transferida a posse precária do imóvel à apelada.
+A jurisprudência do Tribunal de São Paulo nos ensina que:
+"Apelação Cível. Ação de Rescisão Contratual c/c reintegração de Posse. Contrato particular de promessa de venda e compra de imóvel industrial. Afastada a alega via atrativa do Juizo da recuperação judicial. As ações e execuções contra o devedor em recuperação judicial deverão permanecer nos respectivos juros onde tramitam. A presente ação envolve rescisão de contrato particular de venda e compra de imóvel, não se sujeita a habilitação de crédito no processo de recuperação judicial. Artigo 49, § 3º da Lei 11.101/2005. Intervenção ministerial é facultativa na fase que antecede a falência. Inadimplemento da ré incontroverso. De rigor a rescisão contratual e consequente reintegração na posse do imóvel. Valores parcialmente pagos e supostas benfeitorias realizada que se compensam com a utilização do imóvel, conforme cláusula prévia e livremente pactuada. Apelo desprovido. Voto nº: 1303. Apelação Cível nº: 0006953-10.2011.8.26.0320. Comarca: Limeira. Apelante: FER COOR EMBALAGENS LTDA (EM RECUP. JUD.) APELADO: DOVI MÁQUINAS LTDA." (fls. 461/463, g.n.)
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF. Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO COLETIVO DE SAÚDE. MAJORAÇÃO ANUAL DA MENSALIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO AUMENTO DE INSUMOS E SERVIÇOS. FUNDAMENTO NÃO IMPUGNADO DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. REAJUSTE EM VIRTUDE DA ALTA SINISTRALIDADE. FUNDAMENTOS RECURSAIS DISSOCIADOS DO ARESTO COMBATIDO. SÚMULA Nº 284 DO STF. AUSÊNCIA DE PROVA QUE JUSTIFICASSE O AUMENTO. REVISÃO VEDADA NA VIA ESPECIAL. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A subsistência de fundamentos inatacados impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283 do STF, e a dissociação das razões recursais daquilo que ficou decidido pelo eg. Tribunal de origem obstaculiza a análise do objeto recursal, a teor da Súmula nº 284 do STF.
+3. Qualquer outra apreciação acerca da ilegalidade do aumento da mensalidade do plano de saúde por sinistralidade, da forma como trazida no recurso especial, implicaria o necessário revolvimento do arcabouço fático-probatório, procedimento sabidamente aqui inviável diante do óbice das Súmulas nºs 5 e 7, ambas do STJ.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicação do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa."
+(AgInt no REsp 1.708.718/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/09/2019, DJe de 03/10/2019, g..n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. DISSÍDIO JURISPRUDENCIAL SOBRE COMPETÊNCIA DA JUSTIÇA FEDERAL. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL DE INTERPRETAÇÃO DIVERGENTE. FALTA DE PREQUESTIONAMENTO. SÚMULAS 283 E 284 DO STF. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL. SÚMULAS 7 E 83 DO STJ.
+1. A ausência de indicação do dispositivo legal a que se tenha dado interpretação divergente atrai o óbice previsto na Súmula 284/STF, por deficiência de fundamentação do recurso especial a impedir a exata compreensão da controvérsia. 2. A matéria referente à incompetência absoluta da justiça federal não foi apreciada pelo Tribunal de origem, carecendo do indispensável prequestionamento.
+3. Ademais, a falta de impugnação objetiva e direta ao fundamento central da Corte local em não conhecer da matéria denota a deficiência dafundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão, a fazer incidir as Súmulas 283 e284 do STF.
+4. A competência dos juizados especiais é fixada com base no valor da causa considerando o litisconsórcio ativo. Precedentes.
+5. O exame da pretensão recursal de reforma do v. acórdão recorrido exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.463.911/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/09/2019, DJe de 24/09/2019, g.n.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DE COMPROVAÇÃO DA POSSE COM ANIMUS DOMINI (POSSE AD USUCAPIONEM). FUNDAMENTOS DO ESPECIAL DISSOCIADOS DO ACÓRDÃO RECORRIDO. SUMULAS 283 E 284 DO STF. DESCONSTITUIÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. Estando as razões do recurso especial dissociadas dosfundamentos do acórdão recorrido, não havendo, portanto, impugnação do decisum, tem incidência as Súmulas 283 e 284 do STF.
+(..)"
+(AgRg no AREsp 699.369/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe de 13/11/2015, g.n.)
+Ante o exposto, dou provimento ao agravo interno e, em nova análise, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
