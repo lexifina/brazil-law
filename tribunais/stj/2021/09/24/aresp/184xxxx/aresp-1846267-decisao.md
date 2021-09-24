@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto peloSINDICATO DOS TRABALHADORES EM ESTABELECIMENTOS DE SERVIÇOS DE SAÚDE DE FLORIANÓPOLIS - SINDSAÚDE contra decisão que inadmitiu o recurso especial ao argumento de falta de prequestionamento (e-STJ, fls. 271-273).
+A parte agravante sustenta que houve manifestação efetiva do Tribunal de origem acerca dos dispositivos citados nos aclaratórios. Caso assim não se entenda, defende a ocorrência de prequestionamento ficto, nos termo do art. 1.025 do CPC(e-STJ, fls. 283-302).
+Sem contraminuta (e-STJ, fls. 328-329)
+É o relatório.
+Atendidos os requisitos de conhecimento dopresente agravo, passo a examinar o recurso especial interposto (e-STJ, fls. 189-198).
+Trata-se de recurso especial interposto, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINAassim ementado (e-STJ, fls. 80-81):
+AGRAVO SENTENÇA. TÍTULO COLETIVA DE INSTRUMENTO. EXECUÇÃO DE JUDICIAL AJUIZADA DECORRENTE DE AÇÃO DOS POR SINDICATO TRABALHADORES DA SAÚDE. DECISÃO INTERLOCUTÓRIA QUE RECHAÇOU A PRELIMINAR DE ILEGITIMIDADE ATIVA DA ENTIDADE DE CLASSE. INSURGÊNCIA DO ESTADO. SUBSTITUÍDOS PROCESSUAIS EM LOTAÇÕES DIVERSAS. TESE SUBSISTENTE. PRECEDENTES. "Registro do sindicato no Ministério do Trabalho e Emprego que abrange apenas os servidores estaduais da saúde lotados na Grande Florianópolis. Título executivo que se restringe aos substituídos pelo sindicato.  .. . Embora os trabalhadores do serviço público estadual de saúde estejam incluídos na categoria representada pelo Sindicato, a sua abrangência é intermunicipal (e não estadual) e a base territorial está restrita aos Municípios da Grande Florianópolis: Águas Mornas, Alfredo Wagner, Angelina, Anitápolis, Antônio Carlos, Biguaçu, Florianópolis, Garopaba, Governador Celso Ramos, Leoberto Leal, Major Gercino, Palhoça, Paulo Lopes, Rancho Queimado, Santo Amaro da Imperatriz, São Bonifácio, São José, São Pedro de Alcântara. Na fase de conhecimento, o sindicato buscou a condenação do Estado ao pagamento do auxílio-alimentação aos seus substituídos. Evidentemente, a pretensão só poderia se restringir aos servidores públicos estaduais da saúde lotados em algum daqueles Municípios que compõem a sua base territorial.  ..  O título executivo é claro: o benefício deve ser pago aos substituídos pelo Sindicato. Portanto, apenas aqueles servidores integrantes da categoria representada pelo SindSaúde podem se beneficiar da sentença. In casu, a lotação da parte exequente não integra a base territorial da Grande Florianópolis. Assim, não há título executivo." (TJSC,Agravo de Instrumento n. 4034239-55.2019.8.24.0000, da Capital, Rel. Des. Paulo Henrique Moritz Martins da Silva, Primeira Câmara de Direito Público, j. em 10/03/2020). RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 155-167).
+Alega o recorrente violação dosarts. 139, II, 502 e 507 e 508 do CPC/2015, sob o argumento de que a limitação dos legitimados para executar o título judicial coletivo apenas aos servidores lotados nos municípios da Grande Florianópolisimplicaofensa à coisa julgada, à segurança jurídica, à duração razoável do processo e à preclusão.
+Argumenta o seguinte (e-STJ, fl. 195):
+Então, não se pode ignorar os termos da lide, não se pode ignorar o que consta na inicial e na contestação para concluir quem são os substituídos referidos na sentença. A decisão foi prolatada de acordo com os limites da lide definidos pelas próprias partes. O Estado reconheceu como substituto processual todos os FILIADOS DA ENTIDADE.
+É incontroverso que os servidores do interior são filiados à entidade.
+Então, não se pode afirmar que a lide foi limitada pelo Sindicato ao afirmar que o sindicato buscou a condenação aos seus substituídos e que a pretensão, em razão disso, só pode alcançar os servidores estaduais lotados nos municípios que compõem a base.
+Portanto, não compete mais ao Judiciário modificar a legitimidade que já foi definida no processo de conhecimento, sob pena de violar a coisa julgada e a preclusão temporal, lógica e consumativa.
+Apresentadascontrarrazões (e-STJ, fls. 254-261).
+Decido.
+Na origem, trata-se de agravo de instrumentoque foi provido para declarar "ainexistência de título executivo com relação aos sindicalizados cujas respectivas lotações não integram a base territorial da Grande Florianópolis"(e-STJ, fl. 87).
+Ao julgar os embargos de declaração, o Tribunal de origem consignou (e-STJ, fl. 165):
+Ora, uma vez que se trata de execução individual, consubstanciada em título executivo oriundo de ação coletiva - oportunidade em que não houve a discriminação dos sindicalizados -, o momento processual para analisar eventual ilegitimidade do servidor exequente é, evidentemente, posterior à sentença.
+Sendo assim, a legitimidade sindical de representação individual não está coberta pelo manto da coisa julgada.
+Portanto, não pode ser considerada preclusa.
+Com isso, para se chegar a uma conclusão contrária à do Tribunal a quo, no sentido de que aquestão da legitimidade para executar o título judicial não está abrangido pela coisa julgada ou pela preclusão, faz-se necessário incursionar no contexto fático-probatório da demanda, o que é inviável em recurso especial, por força do constante na Súmula 7/STJ.
+No aspecto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. EMBARGOS A EXECUÇÃO. VIOLAÇÃO DA COISA JULGADA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A revisão do julgado, de modo a acolher a pretensão recursal, no sentido de que houve violação aos limites objetivos e subjetivos da coisa julgada, demandaria, necessariamente, o revolvimento do acervo fático-probatório, inviável em recurso especial, nos termos da Súmula 7 desta Corte.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.133.837/RJ, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2017).
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO. APLICAÇÃO DA PARIDADE ENTRE ATIVOS E INATIVOS. TESE DE INOCORRÊNCIA DE COISA JULGADA MATERIAL. ANÁLISE QUE DEMANDA APRECIAÇÃO DO ACERVO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. LIMITAÇÃO TEMPORAL CONTIDA NO TÍTULO EXECUTIVO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+ .. .
+3. Dessa forma, rever o entendimento firmado pela instância ordinária para concluir que a análise do pedido formulado pela parte Recorrente não ofenderia os limites da coisa julgada demandaria, necessariamente, o exame do conjunto fático probatório existente nos autos, prática vedada pela Súmula 7/STJ. Precedentes: AgRg no AREsp758.513/SP, Rel. Min. HUMBERTO MARTINS, DJe 22.3.2016; AgRg no REsp1.157.779/RJ, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 22.6.2016.
+ .. .
+(AgInt no REsp 1.604.184/RN, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 7/12/2016).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
