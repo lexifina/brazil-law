@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO TENTADO.PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO.CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA.AGRAVO REGIMENTAL DESPROVIDO.
+1.A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2.Eventuais condições subjetivas favoráveis do paciente, por si sós, não obstam a prisão preventiva quando presentes os requisitos legais para sua decretação.
+3. Agravo regimental desprovido.
+RELATÓRIO
+GLEDSON SIMPLICIO MARQUES interpõeagravo regimental contra a decisão de fls. 149-150, quenão conheceudo habeas corpusimpetrado em seu favor, em que fora apontado como autoridade coatora o Tribunal de Justiça do Estadode São Paulo (Processo n. 2030831-65.2021.8.26.0000/50000).
+Orecorrenteteve a prisão em flagrante convertida em preventiva a pedido do Ministério Público, por suposta prática do delito descrito nos arts. 157, §§ 2º, II, e 2º-A, I, c/c o art. 14, ambos do Código Penal.
+Nas razões deste recurso, alega queestá sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar. Sustenta que a prisão preventiva não foi suficientemente fundamentada. Afirma ser evidente a violação do princípio da proporcionalidade.
+Sustenta também"que o flagrante do paciente foi convertido em preventiva apenas com base na palavra dos policiais, além de que o reconhecimento quanto ao Sr. Gledson foi negativo" (fl. 242)
+Requerseja o presente agravo recebido e julgado procedente para que possa responder ao processo em liberdade.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso(fls. 254-255).
+Contrarrazões às fls. 263-265.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO TENTADO.PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO.CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA.AGRAVO REGIMENTAL DESPROVIDO.
+1.A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2.Eventuais condições subjetivas favoráveis do paciente, por si sós, não obstam a prisão preventiva quando presentes os requisitos legais para sua decretação.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuaçãoex officio.
+Consoante informações prestadas pelo Tribunal de origem (fls. 198-224), em 15/4/2021, na Ação Penal n. 1500423-95.2021.8.26.0535, o recorrente foi condenado às penas de 4 anos, 5 meses e 10 dias de reclusão em regime inicial fechado e de 10 dias-multa, como incurso no art. 157, §§ 2º, II, e 2º-A, I, c/c o art. 14, vedado o direito de recorrer em liberdade.
+Dessa forma, a superveniência da sentença condenatória mantendo a custódia cautelar do recorrente torna prejudicada a discussão a respeito da ilegalidade da conversão do flagrante em preventiva tendo como base o depoimento fornecido por policiais militares.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 122-125, destaquei):
+Este é o caso dos autos onde a decisão, ainda que sucinta, encontra-se suficientemente fundamentada.
+O paciente está sendo acusado da prática do crime de roubo majorado.
+Conforme inteligência do artigo 312 do Código de Processo Penal, só é possível a decretação da prisão preventiva quando presentes os pressupostos e circunstâncias que autorizariam a medida extrema.
+Presentes estão os pressupostos da prisão preventiva.
+O boletim de ocorrência de folhas 24 indica a subtração mediante grave ameaça de bens da vítima, comprovando a materialidade.
+Existem aindafortes indícios de autoria, decorrentes da prova oral colhida no inquéritodando notícias de que o paciente desligou o quadro de força da residência da vítima, fazendo com que essa saísse do imóvel. Ao chegar na calçada, a vítima foi abordada por outro indivíduo que, armado, anunciou o assalto. A vítima então constatou que havia um veículo próximo ocupado por outros indivíduos que aparentavam envolvimento com o roubo.O roubador em posse da arma tentou adentrar no imóvel, momento em que o cachorro da vítima avançou em sua direção, fazendo com que o mesmo desistisse e saísse correndo do local.O roubo foi informado aos policiais através do COPOM, os quais passaram a realizar diligências e encontraram o acusado em um matagal. Com ele, nada de ilícito foi encontrado. Indagado, ele acabou por admitir sua participação no roubo, dizendo que, após desligar a chave da energia, efetuou a função de olheiro. Em seguida, um veículo, ocupado por Jeferson e Lucas, compareceu ao local, tendo sido abordados, apesar de tentarem fugir, pelos policiais.
+Lucas foi reconhecido pela vítima como sendo o indivíduo que a abordou com uma arma de fogo (folhas 31).
+Também estão presentes as circunstâncias ensejadoras da prisão preventiva.
+O pacientedemonstrou ainda, na prática do crime, alta reprovabilidade e periculosidade, porque praticou crime de roubo contra vítima mulher, de sorte que a maior fragilidadefísica da vítimarevela planejamento e premeditação por parte do roubador que se valeu de tal situação para garantir sucesso na empreitada. Tem-se ainda que o crime envolveu duas majorantes e que foram três agentes que realizara o roubo. Tem-se ainda que o crime envolveu violação do domicílio da vítima.
+É entendimento tranquilo quea periculosidade e culpabilidade excessivas justificam a prisão preventiva.
+ ..
+Observa-se que o pacientepraticou crime de roubo duplamente majorado, com emprego de grave ameaça à pessoa. A prática de crimes com violência ou grave ameaça contra a pessoa geram desassossego e intranquilidade popular. A circunstância de alguém praticar crime desta espécie e ser solto em seguida causará descrédito na Justiça, além de estimular à prática de novos crimes análogos, bem como levará a população a buscar resolver os problemas de segurança por outros métodos, como fazer justiça com as próprias mãos. Destaforma, necessária a custódia do requerente para garantia da ordem pública para estes casos, a menos que ocorra excepcionalmente prova em contrário, não existente nos autos.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, em primeiro grau, já houve a condenação do recorrente, tendo sido indeferido o pleito de recorrer em liberdade.
+Assim, a manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória, que não concedeu ao paciente, que ficou preso durante toda a instrução processual, o direito de recorrer em liberdade, pois considerou mantidas as circunstâncias que justificaram a decretação da prisão preventiva.
+Registre-se ainda que são fundamentos idôneos para a decretação da segregação cautelar a gravidade concreta do delito,da ação delituosa e a periculosidade do agente. Confira-se precedente:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. SEQUESTRO QUALIFICADO. TORTURA. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. IDONEIDADE. RECURSO NÃO PROVIDO.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313, 315 e 282, I e II, do Código de Processo Penal, com as alterações dispostas pela Lei n. 13.964/2019.
+2. A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo. Na hipótese, o recorrente é acusado de ingressar em uma residência e praticar roubo, em concurso de agentes, mediante ameaça de morte às vítimas e tendo, inclusive, amarrado as mãos delas. Ademais, o Juízo singular consignou a especial gravidade do crime, demonstrada pelo emprego de arma de fogo, a qual foi encostada na cabeça e no corpo de um dos ofendidos por diversas vezes.
+3. Recurso não provido. (RHC n. 119.549/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 26/2/2020.)
+Além disso, eventuais condições subjetivasfavoráveisdorecorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
