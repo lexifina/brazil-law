@@ -1,0 +1,13 @@
+DECISÃO
+GABRIEL JORGE OLIVEIRA DE MEDEIROS DE SOUZA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (Apelação n. 0207580-65.2018.8.19.0001).
+A defesa apontou violação dos arts. 33, § 2º, "b", e § 3º, 59 e 60, todos do Código Penal, e alegou a desproporcionalidade da pena-base, a ausência de fundamentação idônea para fixação do regime fechado e o elevado patamar da multa aplicada.
+O reclamo foi inadmitido na origem, o que ensejou o agravo de fls. 357-368.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (fls. 396-399).
+Decido.
+O agravante foi condenado a 4 anos e 6 meses de reclusão, em regime fechado, e 15 dias-multa, pela prática do delito previsto no art. 16 da Lei n. 10.826/2003.
+Na decisão que inadmitiu o recurso especial, o Tribunal de Justiça apontou a incidência das Súmulas n. 7 e 83 do STJ, pois: a) a dosimetria da pena só pode ser reexaminada no caso de erro ou ilegalidade; b) a capacidade financeira do acusado não é o único vetor para a determinação do valor unitário da pena de multa; c) a existência de circunstância judicial desfavorável é condição apta a recrudescer o regime prisional.
+Na peça de fls. 357-368, o agravante deixou de impugnar especificamente todos os fundamentos do decisum recorrido, notadamente a aplicação das Súmulas n. 7 e 83 do STJquanto à pena de multa (não demonstrou que a alteração do entendimento adotado pelo Tribunal de origem independeria da apreciação fático-probatória dos autos nem expôs de que maneira o acórdão estaria em desconformidade com a orientação firmada por esta Corte Superior) e a incidência da Súmula n. 83 do STJ no tocante ao regime (não colacionou jurisprudência para desconstituir o entendimento de que circunstância judicial desfavorável é condição apta a recrudescer o regime prisional).
+Com efeito, é insuficiente a assertiva genérica em sentido contrário à afirmação da decisão agravada. Nessa perspectiva: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no AREsp n. 867.735/SE, Rel. Ministro Humberto Martins, 2ª T., DJe 10/8/2016).
+Assim, incide a Súmula n. 182 do STJ, pois é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão de inadmissibilidade do recurso especial.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
