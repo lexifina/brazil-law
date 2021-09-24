@@ -1,0 +1,32 @@
+Decisão:
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada pelo Município de Salvador contra decisão do Tribunal Regional do Trabalho da 5ª Região (TRT 5), que teria desrespeitado à eficácia da Súmula Vinculante nº 17.
+    Narra o reclamante que a execução da Ação trabalhista nº 0000742-70.2011.5.05.0003 foi redirecionada em seu desfavor, ante sua condenação subsidiária na fase de conhecimento e a insolvência do devedor principal constatada em sede executória, culminando na expedição de Requisição de Pequeno Valor (RPV) e posterior pagamento.
+    Afirma que ingressou com agravo de petição contra a determinação de pagamento de requisitório complementar, ao qual o TRT 5 negou provimento, mantendo o “entend[imento de] que haveria a incidência de juros de mora no período de graça estabelecido pela Constituição Federal para o pagamento de precatórios judiciais e requisições de pequeno valor”, o que deu ensejo ao ajuizamento da presente reclamatória,
+    Defende que o ato vergastado vai de encontro à Súmula Vinculante nº 17, reforçando sua tese ao se reportar ao que decidido no RE nº 1.169.289 - vinculado ao Tema 1.037 da sistemática da repercussão geral -, no sentido de que o entendimento consubstanciado na referida súmula vinculante não foi superado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período previsto no § 5º do art. 100 da CF/88.
+    Requer que seja deferido o pedido liminar para cassar a decisão reclamada e afastar a incidência de juros de mora no período de graça. No mérito, a confirmação da providência.
+    Em decisão publicada no dia 09/06/2021, deferi parcialmente o pedido liminar para sobrestar a execução no Processo nº 0000742-70.2011.5.05.0003 até o julgamento da presente reclamação.
+    A autoridade reclamada prestou informações (eDoc. 12).
+    Regularmente citada, a parte beneficiária não se manifestou (eDoc. 19).
+    É o relatório. Decido.
+    Confirmo as razões que ensejaram o deferimento parcial da medida liminar.
+    No julgamento do RE nº 591.085/MS-RG-QO – oportunidade em que proposta a edição da Súmula Vinculante nº 17 –, o Ministro Ricardo Levandowski, relator do feito, assim se manifestou:
+    “O Plenário, no julgamento do RE 298.616/SP, Relator o Ministro Gilmar Mendes, decidiu que somente se descumprido o prazo constitucional previsto para o pagamento dos precatórios, qual seja, até o final do exercício seguinte, 'poder-se-ia falar em mora e, em conseqüência, nos juros a ela relativos, como penalidade pelo atraso no pagamento'. Esse mesmo posicionamento já havia sido adotado pela lª Turma, PR ocasião do julgamento do RE 305. 186/SP, Relator o Ministro Ilmar Galvão. Os referidos julgados portam as seguintes ementas:
+    (...)
+    Observo que o entendimento foi estabelecido levando-se em conta a redação original do art. 100, §1º da Constituição. Entretanto, tal dispositivo foi modificado pela EC 30/2000, mas não a ponto de infirmar a orientação do Tribunal sobre a matéria, muito pelo contrário, pois, conforme ressaltado pelo Min. Gilmar Mendes no voto proferido por ocasião do julgamento do RE 298.616/SP:
+    'É relevante notar que a Emenda n° 30/2000 deu nova redação ao § lº do art. 100, e tornou mais clara a não-incidência de juros moratórios, ao dispor, de forma expressa, que os valores serão atualizados monetariamente até o pagamento, no final do exercício, não se falando em expedição de precatório complementar'“ (grifou-se).
+    Na Sessão Plenária de 29/10/09, o STF aprovou a edição da Súmula Vinculante nº 17, com seguinte redação:
+    “Durante o período previsto no parágrafo 1º do art. 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.”
+    Observe-se que a redação do enunciado de Súmula Vinculante nº 17 reflete a jurisprudência consolidada no Supremo Tribunal Federal, de acordo com os precedentes que lhe deram origem, nos quais se discutiu, especificamente, a incidência dos juros no período previsto no art. 100, § 1º, da Constituição Federal.
+    Após a edição da Súmula Vinculante nº 17, foi promulgada a EC nº 62/2009, deslocando-se a normatividade do §1º para o § 5º do mesmo art. 100 do texto constitucional.
+    Essa modificação, entretanto, não implicou em alteração do sentido da norma inscrita na Constituição Federal referente ao período de graça e, portanto, não teve o condão de superar o entendimento consolidado nesta Suprema Corte na Súmula Vinculante nº 17, de observância obrigatória pelo demais órgãos do Poder Judiciário e pela administração pública, entendimento esse que é corroborado pela tese firmada por esta Corte no julgamento do RE nº 1.169.289/SC, vinculado ao Tema 1.037 da repercussão geral, com a seguinte redação:
+    “O enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o 'período de graça’.”
+    Desse modo, em havendo o pagamento integral dentro do período de graça (precatórios judiciários apresentados até 1º de julho, com o pagamento realizado até o final do exercício seguinte), não há que se falar em inadimplemento do ente público, razão pela qual não cabe imposição de juros de mora.
+    No caso concreto, a autoridade reclamada compreendeu ser devida a incidência dos juros de mora sobre a RPV desde a sua expedição até o efetivo pagamento, sob o argumento de que a Súmula Vinculante nº 17 restou esvaziada com a promulgação da EC nº 62/09. Vide a ementa do julgado:
+    “AGRAVO DE PETIÇÃO. FAZENDA PÚBLICA.JUROS DE MORA. LAPSO TEMPORAL ENTRE A EXPEDIÇÃO DA REQUISIÇÃO DE PEQUENO VALOR E O EFETIVO PAGAMENTO. ART. 100, § 12, CF/88. Diante do esvaziamento do objeto da Súmula Vinculante N.17 do C.STF pela EC 62, é devida a incidência dos juros de mora sobre a RPV- requisição de pequeno valor, desde a sua expedição até o efetivo pagamento, conforme decidido no juízo da execução.”
+    A autoridade reclamada, ao assim proceder, contrariou o enunciado da Súmula Vinculante nº 17.
+    Ante o exposto, julgo procedente a reclamação para cassar a decisão reclamada, determinando que outra seja proferida pelo órgão reclamado com observância ao que estabelecido na Súmula Vinculante nº 17.
+    Publique-se. Int..
+    Brasília, 24 de setembro de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
