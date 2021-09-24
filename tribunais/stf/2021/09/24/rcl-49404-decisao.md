@@ -1,0 +1,50 @@
+Reclamação Constitucional. Alegação de afronta ao quanto decidido na ADPF 324 e na Súmula Vinculante 10. Ilicitude da terceirização. Matéria analisada pelo Supremo Tribunal Federal em sede de agravo em recurso extraordinário. Impugnação, por via oblíqua, de decisões proferidas pela Corte. Inviabilidade da reclamação. Negativa de seguimento.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Telemont Engenharia de Telecomunicações S.A., com fulcro no art. 102, I, l, da Constituição Federal, em face de acórdão proferido pela 4ª Turma do Tribunal Regional do Trabalho da 3ª Região, nos autos do processo nº 0000869-94.2013.5.03.0099, à alegação de violação da Súmula Vinculante 10 e de infringência à autoridade da decisão deste Supremo Tribunal Federal exarada na ADPF 324.
+    2. A reclamante relata que a Corte reclamada deu provimento ao recurso ordinário para, invocando o enunciado da Súmula 331 do TST, declarar a ilicitude da terceirização e reconhecer o vínculo de emprego diretamente com a tomadora de serviços.
+    Negado seguimento ao recurso de revista, foi interposto agravo de instrumento, ao qual negado provimento pelo Tribunal Superior do Trabalho.
+    3. Defende que o acolhimento da tese obreira infringiu a autoridade da decisão desta Suprema Corte exarada na ADPF 324, em que assentado: É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada.
+    Sustenta, no ponto, que ADPF 324 assentou a inconstitucionalidade da interpretação adotada em reiteradas decisões da Justiça do Trabalho, que vedavam a prática da terceirização sem legislação específica proibindo, em clara violação dos preceitos constitucionais fundamentais da legalidade, da livre iniciativa e da valorização do trabalho.
+    4. Alega, ainda, que a Corte reclamada, ao entender pela ocorrência de terceirização ilícita da atividade-fim, negou vigência ao art. 94, II, da Lei nº 9.472/1997 sem, contudo, declarar a inconstitucionalidade do mencionado dispositivo, vulnerando, dessa forma, a Súmula Vinculante 10.
+    5. Requer a concessão de medida cautelar, a fim de que seja determinada a suspensão da eficácia da decisão reclamada e da tramitação do processo subjacente. No mérito, pugna pela procedência do pedido.
+    6. Deixo de solicitar informações e de citar a parte beneficiária do ato judicial reclamado, em decorrência da manifesta inviabilidade da reclamação. Igualmente, dispenso a intimação da Procuradoria-Geral da República, em razão do caráter repetitivo do litígio.
+    É o relatório.
+    Decido.
+    1. A reclamação é ação autônoma de impugnação dotada de perfil constitucional, disposta no texto original da Carta Política de 1988 para a preservação da competência e garantia da autoridade das decisões do Supremo Tribunal Federal. É cabível nos casos de usurpação da competência do Supremo Tribunal Federal, desobediência à súmula vinculante ou de descumprimento de autoridade de decisão proferida por esta Corte, desde que com efeito vinculante ou proferida em processo de índole subjetiva do qual o Reclamante tenha figurado como parte (102, I, l, e 103-A, § 3º, da CF, c/c art. 988, II a IV, e § 5º, II, do CPC/2015).
+    2. A presente reclamação foi proposta à alegação de desobediência à Súmula Vinculante 10 e de violação da autoridade da decisão deste Supremo Tribunal Federal proferida no julgamento da ADPF 324.
+    3. A reclamante aponta como ato reclamado decisão proferida pela 4ª Turma do Tribunal Regional do Trabalho da 3ª Região que, ao exame de recurso ordinário, declarou a ilicitude da terceirização e, por conseguinte, deferiu a trabalhador terceirizado os benefícios da categoria da empresa na qual realizada a prestação de serviços.
+    4. Ocorre que, após sucessivos recursos interpostos no âmbito da Justiça do Trabalho, o reclamante interpôs recurso extraordinário nos autos subjacentes, ao qual foi negado seguimento.
+    Em seguida, manejado agravo em recurso extraordinário, com fundamento no art. 1.042 do CPC, os autos foram remetidos para esta Suprema Corte e autuados sob o número 1254604.
+    O Ministro Dias Toffoli, então presidente desta Casa, negou seguimento ao agravo em recurso extraordinário, ante a ausência de impugnação específica de todos os fundamentos da decisão de admissibilidade do recurso, aplicada a Súmula 287/STF.
+    A seu turno, ao exame do agravo interno, esta Suprema Corte a ele negou provimento, em sessão do Plenário Virtual de 6.8.2021 a 16.8.2021, publicada a ata de julgamento em 23.8.2021.
+    5. Como se vê, a questão controvertida já foi submetida a julgamento por esta Casa, quadro a inviabilizar o exame da reclamação, sob pena de sua utilização indevida como sucedâneo recursal.
+    6. Nesse contexto, ressalto que esta Suprema Corte tem compreendido incabível a reclamação em hipótese análogas à presente, porque inadmissível (i) a rediscussão de matéria já apreciada, ainda que em sede processual diversa, por este Tribunal, e (ii) a impugnação, por via oblíqua, de decisões proferidas por Ministros, pelas Turmas, ou pelo Plenário desta Corte (Rcl 37.503-AgR/PE, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.02.2020; Rcl 37.713-AgR/PE, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 12.5.2020):
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. RECLAMAÇÃO CONTRA DECISÃO DO PRÓPRIO STF.
+    1. Reclamação em que se impugna acórdão do TST que já foi objeto de análise por esta Corte, em agravo em recurso extraordinário.
+    2. Inviável reclamação em que se busca, por via transversa, a reforma de decisão do próprio Supremo Tribunal Federal.
+    3. Agravo interno a que se nega provimento.”
+    (Rcl 32.896-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma, DJe 12.6.2019)
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. RECLAMAÇÃO CONTRA DECISÃO DO PRÓPRIO STF.
+    1. Reclamação em que se impugna decisão que já foi objeto de julgamento pelo Supremo Tribunal Federal em recurso extraordinário com agravo (ARE 1.231.490), o qual teve o seu seguimento negado por ausência de fundamentação suficiente quanto à preliminar de repercussão geral. Inviável reclamação em que se busca, por via transversa, a reforma de decisão do próprio Supremo Tribunal Federal.
+    2. Agravo interno desprovido, com aplicação da multa prevista no art. 1021, § 4º, do CPC/2015. “
+    (Rcl 37.321 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 29.5.2020).
+    “PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA POR ESTA SUPREMA CORTE. INVIABILIDADE. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO.
+    1. A reclamação constitucional não pode ser utilizada para rediscutir matéria já decidida por esta SUPREMA CORTE. A impugnação de decisões proferidas por Ministros ou pelos órgãos que compõe o TRIBUNAL, no exercício de suas atribuições, são de competência do próprio STF, somente podendo ser realizada por interposição de recursos adequados.
+    2. O acórdão reclamado foi objeto de recurso extraordinário, ao qual a eminente Ministra ROSA WEBER negou seguimento. Contra essa decisão, foi interposto o respectivo recurso de agravo, não provido pela colenda Primeira Turma. Desse modo, inviável a presente reclamação.
+    3. Recurso de agravo a que se nega provimento.”
+    (Rcl 35.538-AgR/RS, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 31.8.2020)
+    “Agravo regimental em reclamação. 2. Reclamação contra decisão já analisada por essa Corte em agravo em recurso extraordinário. Não cabimento. 3. Impossibilidade de utilização da reclamação como sucedâneo recursal. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental não provido.”
+    (Rcl 37.711-AgR/PE, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 04.5.2020)
+    “RECLAMAÇÃO – ATO DECISÓRIO IMPUGNADO JÁ SUBMETIDO À APRECIAÇÃO DESTA SUPREMA CORTE NO ÂMBITO DE RECURSO EXTRAORDINÁRIO COM AGRAVO – AJUIZAMENTO, NA REALIDADE, CONTRA DECISÃO EMANADA DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL – INADMISSIBILIDADE – PRECEDENTES – INADEQUAÇÃO, AINDA, DO EMPREGO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL – RECURSO DE AGRAVO IMPROVIDO.”
+    (Rcl 37.508 AgR, Rel. Ministro Celso de Mello, Segunda Turma, DJe 24.6.2020)
+    “PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA POR ESTA SUPREMA CORTE. INVIABILIDADE. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO.
+    1. A reclamação constitucional não pode ser utilizada para rediscutir matéria já decidida por esta SUPREMA CORTE. A impugnação de decisões proferidas por Ministros ou pelos órgãos que compõe o TRIBUNAL, no exercício de suas atribuições, são de competência do próprio STF, somente podendo ser realizada por interposição de recursos adequados.
+    2. O acórdão reclamado, proferido pela Turma Recursal da Justiça Federal de Pernambuco, foi recentemente analisado pelo Plenário desta SUPREMA CORTE em sede de agravo em recurso extraordinário, o que torna inviável a presente reclamação.
+    3. Recurso de agravo a que se nega provimento.”
+    (Rcl 37.714 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 13.2.2020).
+    7. Ademais, a mesma parte não pode fazer uso das diferentes espécies de acesso ao Supremo Tribunal Federal com o objetivo de obter julgamento diverso sobre o mesmo caso concreto, assim considerado como mesmo ato impugnado e mesma questão constitucional controvertida. Entender-se em sentido contrário violaria o art. 505 do CPC, segundo o qual ‘nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide’ (Rcl 37.321-AgR/PE, Rel. Min. Roberto Barroso, Primeira Turma, DJe 28.5.2020), pois o sistema deve fechar, considerada a organicidade e a instrumentalidade do Direito, especialmente o processual (Rcl 44.314/RS, Rel. Min. Marco Aurélio, decisão monocrática, DJe 21.01.2021).
+    8. Ante o exposto, com fundamento no no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, prejudicado o exame do pedido liminar.
+    Publique-se.
+    Brasília, 24 de setembro de 2021.
+Ministra Rosa Weber
+Relatora
