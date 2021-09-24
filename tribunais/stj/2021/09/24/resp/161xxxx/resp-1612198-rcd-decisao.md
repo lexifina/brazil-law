@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de pedido de reconsideração da decisão de fl. 431 (e-STJ), apresentado pelo FUNDO GARANTIDOR DE CRÉDITOS - FGC, por meio da qual foi determinada a redistribuição deste recurso especial a uma das Turmas integrantes da Primeira Seção.
+Sustenta orequerente que, apesar de figurar nos autos o liquidante do Banco Crefisul S.A., a relação discutida nos autos é apenas entre a GEAP Autogestão em Saúde e o FGC, pessoas jurídicas de direito privado.
+Alega, ainda, que a matéria discutida tem sido distribuídaà apreciação daTerceira e da Quarta Turmas do STJ, em diversos outros recursos especiais tirados de mandados de segurança com idêntico objeto.
+Tendo em vista as razões do requerente, reconsidero a decisão de fl. 431 (e-STJ) e passo a novo exame do recurso especial.
+Trata-se de recurso especial interposto por GEAP AUTOGESTAO EM SAUDE, com arrimo no art.105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, nos autos do Agravo de Instrumento nº 0020575-58.2010.4.03.0000/SP.
+Referido acórdão negou provimento ao agravo interno interposto pela ora recorrente GEAP, mantendo-se, assim, a integralidade dadecisão de primeiro grau que indeferira o pedido de levantamento de caução ofertada para a obtenção de liminar, pois vinculada ao resultado final da demanda, devendo, por isso, aguardar o trânsito em julgado do feito.
+Os embargos de declaração opostos (fls. 299-304 e-STJ) foram rejeitados (fls. 306-312 e-STJ).
+Em suas razões recursais (fls. 314-342 e-STJ), além de divergência jurisprudencial, alega-se violação ao disposto nos arts. 14, § 3º, e 15 da Lei nº 12.016/2019.
+Sustenta-se que, concedida a segurança pleiteada, confirmando-se decisão liminar, seria ilegal a decisão do Juiz singular queindefereo pedido de levantamento imediato de caução formulado pela ora recorrente e que acabou por conferirefeito suspensivo à apelação interposta pelo FGC à margem dos casos previstos em lei, cuja competência para suspensão da segurança deveria tocar ao Presidente do Tribunal Regional Federal.
+Requer o provimento do recurso com a liberação da caução concedida em sede liminar.
+Contrarrazões apresentadas às fls. 357-367 (e-STJ).
+O recurso especial foi admitido na origem (fls. 404-405 e-STJ).
+Em petição às fls. 426-428 (e-STJ), a parte recorrida FGC informou o julgamento da apelação pelo Tribunal de origem, requerendoque seja declarado prejudicado este recurso especial, ante a sua evidente perda de objeto.
+É o relatório.
+DECIDO.
+O recurso está prejudicado pela perda superveniente de objeto.
+O cerne da controvérsia é a possibilidade de levantamento de caução prestada para fins de obtenção do deferimento de pedido liminar nos autos de mandado de segurança impetrado pela recorrente contra atos praticados pelo liquidante do Banco Crefisil S.A. (em liquidação extrajudicial) e o Fundo Garantidor de Créditos - FGC.
+Ocorre que, neste ínterim, foi julgada e provida a apelação interposta pelo FGC para se reconhecer a decadência do direito à impetração do mandado de segurança.
+Em consulta ao sítio eletrônico do Tribunal Regional Federal da 3ª Região, constata-se que oacórdão respectivo (Apelação Cível nº 0040601-96.1999.4.03.6100/SP)ficou assim ementado:
+"PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. INSTITUIÇÃO FINANCEIRA. LIQUIDAÇÃO EXTRAJUDICIAL. LIBERAÇÃO DE NUMERÁRIO BLOQUEADO JUNTO A INSTITUIÇÃO FINANCEIRA. DECADÊNCIA RECONHECIDA. APELO PROVIDO E REEXAME NECESSÁRIO PROVIDOS.
+- Quanto à preliminar de ilegitimidade ativa, anoto que a GEAP ao aplicar seus recursos poderia tê-la realizado em nome de seus titulares, uma faculdade que o regulamento do FGC lhe outorgava. Tratando-se de aplicação financeira realizada a cargo da Fundação Geaprevidência, há de ser rejeitada a preliminar de ilegitimidade ativa.
+- Com relação à legitimidade passiva do Fundo Garantidor de Créditos - FGC, anoto que o art. 2º, caput e inciso I, do anexo I à Resolução Bacen nº 2.211, de 16/11/1995, dispõe que: "O FGC tem por objeto prestar garantia de créditos contra instituições dele participantes, nas hipóteses de: I - decretação da intervenção, liquidação extrajudicial ou falência de instituição;". Logo, no presente mandamus constatada a legitimidade passiva.
+- Também não há como ser acolhida a preliminar de perda do objeto, visto que a obrigação de indenizar em tese atribuída ao Fundo Garantidor de Crédito persiste, mesmo após a decretação da liquidação da instituição financeira.
+- Quanto à preliminar de incompetência da Justiça Federal após a decretação da Falência do Banco Crefisul S/A, também não merece acolhimento, visto que se questiona a possibilidade de liberação de valores, ou pagamento de créditos, antes do término do processo de recuperação da instituição.
+- A preliminar de inadequação da via eleita confunde-se com o mérito das alegações formuladas.
+- A preliminar de decadência comporta acolhimento, pois o presente mandamus foi impetrado quando escoado o prazo decadencial de 120 dias previsto no art. 18 da Lei nº 1.533/1951 (art. 23 da Lei nº 12.016/09), de tal sorte que por tal motivo o feito comporta extinção.
+- Nos termos da jurisprudência desta E. Corte, o ato impugnado na presente hipótese referente ao bloqueio dos ativos do impetrante ocorreu em 23 de março de 1999, momento que se decretou a liquidação extrajudicial do Banco Crefisul S. A. pelo Banco Central. Por outro lado, o mandado de segurança foi ajuizado em 18 de agosto de 1999, quando já decorrido o prazo decadencial legalmente previsto para a hipótese.
+- É de se destacar ainda que a notificação expedida, posteriormente indeferida pelo Presidente do Fundo Garantidor de Créditos, relativa à liberação do pagamento de R$ 20.000,00 (vinte mil reais) a cada participante do plano de previdência privada, não tem o condão de interromper ou suspender a contagem do prazo decadencial.
+- Tal conclusão decorre do fato de que a liquidação extrajudicial do CREFISUL irradiou seus efeitos na órbita patrimonial dos investidores desde que decretada, nos termos do art. 18 da Lei nº 6.024/74.
+- Precedentes (TRF 3ª Região, SEXTA TURMA, AMS - APELAÇÃO CÍVEL - 244148 - 0027302-81.2001.4.03.6100, Rel. DESEMBARGADORA FEDERAL CONSUELO YOSHIDA, julgado em 13/10/2011, e-DJF3 Judicial 1 DATA:20/10/2011; TRF 3ª Região, TURMA SUPLEMENTAR DA SEGUNDA SEÇÃO, AMS - APELAÇÃO CÍVEL - 238820 - 0032431-67.2001.4.03.6100, Rel. JUÍZA CONVOCADA ELIANA MARCELO, julgado em 18/09/2008, DJF3 DATA:02/10/2008; TRF 3ª Região, SEXTA TURMA, AMS - APELAÇÃO CÍVEL - 228191 - 0005443-43.2000.4.03.6100, Rel. DESEMBARGADORA FEDERAL MARLI FERREIRA, julgado em 27/10/2004, DJU DATA:14/01/2005 PÁGINA: 259).
+- No caso concreto, há de ser acolhida a preliminar de decadência, com extinção do feito nos termos do art. 487, II, do CPC, sem condenação em honorários advocatícios, nos termos do art. 25 da Lei nº 12.016/09.
+- Apelo e reexame providos."
+Com efeito, reconhecida a decadência do direito à própriaimpetração do mandamus, tornaram-se insubsistentes não só a segurança nele concedida pela sentença -inclusive o pedido liminar anteriormente deferido e a caução depositada - , como também a questão discutida neste recurso especial (legalidade da decisão que indefere o pedido de levantamento de caução na pendência do julgamento de apelação interposta contra a sentença que concedera a segurança).
+Ante o exposto, reconsidero a decisão de fl. 431 (e-STJ) para julgarprejudicado o recurso especial pela perda superveniente do objeto.
+Publique-se.
+Intimem-se.
