@@ -1,0 +1,46 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1005885-25.2019.8.11.0003
+Recorrente: BRDU SPE Vermont Ltda.
+Recorrido: Hugo Fernando Moura Heintze
+Vistos.
+Trata-se de recurso especial interposto por BRDU SPE Vermont Ltda., com fundamento no artigo 105, III, alíneas “a” e “c”, da Constituição Federal, em face do v. acórdão exarado pela eg. Primeira Câmara de Direito Privado, assim ementado (id 87916560):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE QUANTIA PAGA – CONTRATO DE COMPRA E VENDA DE BEM IMOVEL COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA - LEI 9.514/97 – IMPROCEDENCIA - AVENÇA NÃO REGISTRADA EM CARTÓRIO – GARANTIA NÃO CONSTITUÍDA - RESCISÃO PELO PROMISSÁRIO COMPRADOR - POSSIBILIDADE – APLICAÇÃO DO CDC - RESTITUIÇÃO DOS VALORES PAGOS - RETENÇÃO DE 10% – SÚMULA 543 DO STJ – CORREÇÃO MONETÁRIA DESDE CADA DESEMBOLSO E JUROS MORATÓRIOS A PARTIR DO TRÂNSITO EM JULGADO DA SENTENÇA - TEMA 1.002 DO STJ - SENTENÇA REFORMADA – RECURSO PARCIALMENTE PROVIDO.
+O contrato de compra e venda de imóvel garantido por alienação fiduciária que não foi levado a registro no Cartório de Imóveis, não serve como título fiduciário, por ausência de cumprimento do disposto no artigo 23 da Lei no 9.514/97. Logo, não se aplica os procedimentos do referido diploma legal à hipótese dos autos.
+‘Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento’. (Súmula 543 do STJ)
+‘Nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei no 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão’. (Tema 1.002 do STJ, julgado em recurso repetitivo)”. (TJMT – Segunda Câmara de Direito Privado – Apelação n. 1005885-25.2019.8.11.0003, Relatora: Desembargadora Marilsen Andrade Addario, j. 17/05/2021, p. 26/05/2021).
+Opostos embargos de declaração, estes foram rejeitados no acórdão id 95177457.
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de apelação proposta por BRDU SPE Vermont Ltda., em face da sentença que julgou improcedente o pleito da ação de rescisão contratual c/c devolução de quantia paga ajuizada em desfavor da apelante, condenando-a, ainda, ao pagamento de custas e honorários advocatícios fixados em 10% (dez por cento) sobre o valor atualizado da causa.
+A Câmara julgadora deu parcial provimento ao recurso, para reformar a sentença e declarar rescindindo o contrato de promessa de compra e venda firmado entre as partes, determinando a restituição dos valores pagos pelo autor, corrigidos desde a data de cada desembolso, e acrescidos de juros de mora de 1% ao mês com incidência a partir do trânsito em julgado do acórdão, autorizada a retenção de 10% (dez por cento) desse montante, pela ré, invertendo-se os ônus sucumbenciais (id 84611494 - Pág. 7).
+A parte recorrente alega violação aos artigos 489, § 1o, II, III, IV, e 1.022, II e III, e parágrafo único, II, do Código de Processo Civil, ante a suposta omissão e carência de fundamentação do julgado.
+Aponta contrariedade aos artigos 1o, 2o, 10, 11, 373, I e II, 141 492, do Código de Processo Civil.
+Suscita afronta aos 136, 138, 421, parágrafo único, 422 e 884 do Código Civil, e ao artigo 32-A da Lei no 6.766/79, com alterações da Lei no 13.876/20018, além de divergência jurisprudencial, ao argumento de que “o contrato é hígido e não traz qualquer abusividade, salvo se entender-se que a Lei 13.786/2018 legalizou a abusividade ao dispor sobre o direito do compromitente vendedor cobrar/reter multa de 10% sobre o valor atualizado do contrato – a mesma insculpida na cláusula discutida e declarada abusiva na sentença e reiterada no acórdão”.
+Argui ofensa aos artigos 23, 26 e 27 da Lei n. 9.514/97, pois “o Contrato de Compra e Venda com cláusula de Alienação Fiduciária não se submete à Legislação Consumerista, na medida em que é regrada por legislação específica (Lei no 9.514/97) e posterior que não prevê nem permite a rescisão do contrato por parte do devedor inadimplente, até porque tal faculdade, se existente, teria condão de desnaturar o contrato de compra e venda, com a lei de alienação fiduciária”.
+Aduz que “conforme procedimento previsto nos arts. 26 e 27 da Lei no 9.514/1997, não purgada a mora, ocorre a consolidação da propriedade em nome alienante fiduciária e a venda do imóvel para pagamento da dívida contraída e devolução de eventual saldo remanescente aos alienatários”.
+Suscita divergência jurisprudencial quanto à aplicação dos artigos 26 e 27 do CPC, afirmando ser aplicável a Lei n. 9.514/97, ante a sua especialização, o que afasta a incidência da Lei n. 8.078/90 (Código de Defesa do Consumidor).
+A Câmara deu parcial provimento ao recurso para reformar a sentença e declarar rescindindo o contrato de promessa de compra e venda firmado entre as partes, determinando a restituição dos valores pagos pelo autor, corrigidos desde a data de cada desembolso, e acrescidos de juros de mora de 1% ao mês com incidência a partir do trânsito em julgado do acórdão, autorizada a retenção de 10% (dez por cento) desse montante, pela ré, invertendo-se os ônus sucumbenciais (id 87916560 - Pág. 9).
+Recurso tempestivo (id 98479964) e preparado (id 98636450).
+Contrarrazões no id 102040964.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos
+A partir da provável ofensa aos artigos 23, 26 e 27 da Lei n. 9.514/97, a parte recorrente alega que “o Contrato de Compra e Venda com cláusula de Alienação Fiduciária não se submete à Legislação Consumerista, na medida em que é regrada por legislação específica (Lei no 9.514/97) e posterior que não prevê nem permite a rescisão do contrato por parte do devedor inadimplente, até porque tal faculdade, se existente, teria condão de desnaturar o contrato de compra e venda, com a lei de alienação fiduciária”.
+Neste ponto, consignou-se no aresto recorrido que “a propriedade fiduciária somente se constitui mediante o registro do contrato que lhe serve de título, obrigação essa que competia à credora, ora apelada, uma vez que é seu interesse formalizar a garantia real do financiamento. Todavia, do conjunto probatório dos autos, não há prova de que houve a constituição da propriedade fiduciária, em razão da ausência do registro do contrato no competente Cartório de Imóveis. Consequentemente, não se aplicando a Lei n. 9.514/97 ao caso sub examine”. (id 87916560 - Pág. 4)
+Diante desse quadro, constata-se que a matéria acima mencionada, além de ter sido discutida no aresto impugnado, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF, é exclusivamente de direito, porquanto não se pretende reexaminar fatos e provas, (não aplicação da Súmula 7 do STJ), não incidindo, também, no caso concreto, nenhuma outra súmula impeditiva.
+Ademais, em caso similar, o STJ já decidiu, in verbis:
+“AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. RESCISÃO DO CONTRATO. AUSÊNCIA DE INADIMPLÊNCIA. APLICAÇÃO DA LEI No 9.514/1997. CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO INCIDÊNCIA. REGISTRO DO CONTRATO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS. PRESCINDIBILIDADE.
+1. O Superior Tribunal de Justiça pacificou o entendimento de que, diante da incidência do art. 27, § 4o, da Lei 9.514/1997, que disciplina de forma específica a aquisição de imóvel mediante garantia de alienação fiduciária, não se cogita da aplicação do art. 53 do Código de Defesa do Consumidor, em caso de rescisão do contrato por iniciativa do comprador, ainda que ausente o inadimplemento.
+2. A jurisprudência desta Corte Superior entende que não é necessário o registro do contrato garantido por alienação fiduciária no Cartório de Títulos e Documentos para que o pacto tenha validade e eficácia, visto que tal providência tem apenas o intuito de dar ciência a terceiros. Precedentes.
+3. Agravo interno a que se nega provimento”. (AgInt no AREsp 1689082/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+Ante o exposto, com fundamento no artigo 1.030, V, “a”, do CPC, admito o recurso pela aduzida afronta legal.
+Em interpretação conjunta do artigo 1.034, parágrafo único, do CPC, e à Súmula 292/STF, fica dispensado o exame dos demais dispositivos supostamente violados.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
