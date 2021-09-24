@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de habeas corpus impetrado contra acórdão, proferido no âmbito do Superior Tribunal de Justiça, assim ementado (AgRg no HC 674.559/SP - eDOC 2, p. 175):
+    PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO E EQUIPARADO. VEDAÇÃO. ART. 83, V, DO CÓDIGO PENAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO. I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos. II - Por expressa disposição legal, não cabe o livramento condicional ao reincidente específico em crimes hediondos e equiparados, nos termos previstos nos art. 83, V, do Código Penal. Precedentes. III - Não se vislumbra na espécie, portanto, constrangimento ilegal apto para a concessão da ordem de ofício. Agravo regimental desprovido
+    Alega-se que: a) o Juízo da Execução negou pedido de livramento condicional fundamentando, à luz art. 83, inciso V, do CP, que o referido benefício não se estende ao réu, por ser reincidente específico em crimes de natureza hedionda; b) diante do julgamento do HC 82.959 pelo STF e com o advento da Lei 11.464/07, é possível reconhecer que houve derrogação tácita do art. 83, V, parte final, do CP, bem como do art. 44, parágrafo único, parte final, da Lei de Drogas; c) a decisão impugnada viola o princípio da individualização da pena e impede a recuperação progressiva e gradual do apenado, desvirtuando um dos objetivo da execução criminal, que é a reinserção social.
+    Pede-se, liminarmente, a anulação da decisão impugnada, determinando-se nova análise do pedido de livramento condicional, com o exame dos requisitos objetivo e subjetivo, afastada a proibição do art. 83, V, última parte, do CP.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na situação aventada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar.
+    Abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 24 de setembro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
