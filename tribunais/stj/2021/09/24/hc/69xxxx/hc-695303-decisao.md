@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de MANOEL LOPES FERREIRAcontra acórdão proferidopeloTribunal de Justiça doEstado de São Paulo no julgamento do HC n.2192320-14.2021.8.26.0000.
+O Paciente foi denunciado pela suposta prática do delito tipificado no art. 121,§ 2.º, incisosII e IV, c.c. o art. 14, inciso II, ambos do Código Penal, isso porque (fl. 19; sem grifos no original):
+" .. no dia 28 de março de 2021 (domingo), por volta de 19h30, na Rua Alcindo Gazoto, 92, Santo Antônio de Posse, nesta Comarca, MANOEL LOPES FERREIRA (43 anos de idade), qualificado indiretamente a fls. 46, mediante recurso que dificultou a defesa do ofendido e por motivo fútil, tentou matar a vítima PAULO ROBERTO GONÇALVES (51 anos de idade), somente não consumando o delito por circunstâncias alheias a sua vontade.
+ ..
+Conforme o apurado, cerca de dois meses antes dos fatos, a vítima e o denunciado discutiram pelo fato de que este não estava pagando o aluguel de um imóvel pertencente à mãe de Paulo.
+ ..
+Passados dois meses, no dia dos fatos, o denunciado se dirigiu à casa da vítima e a chamou no portão, dizendo que iria quitar o aluguel atrasado.
+Chegando ao portão, MANOEL pediu que a vítima o acompanhasse até a esquina, onde estaria seu carro.
+A vítima se negou a acompanhá-lo, oportunidade em que MANOEL golpeou-a no peito e no pescoço, com um objeto não identificado, provavelmente uma faca ou algo parecido, evadindo-se em seguida."
+Em 16/06/2021, ao receber a denúncia ofertada pelo Ministério Público estadual, o Juiz singular determinou a citação do Acusado por edital e decretou a sua constrição preventiva (fls. 77-78). Consta nos autos que o Acusado "foi localizado e o mandado de prisão cumprido em 07/08/2021" (fl. 122).
+Inconformada com a segregação, a Defesa impetrouhabeas corpus, cuja ordem foidenegada pelo Tribunala quo(fls. 12-18).
+Neste writ, a Defesa alega, em síntese, a inexistência de fundamentação idônea do decreto prisional e dos requisitos autorizadores para a decretação da prisão preventiva, bem como ressalta que o Paciente ostenta condições pessoais favoráveis para permanecer em liberdade, sendo suficientes as medidas cautelares alternativas.
+Requer, em liminar e no mérito, a revogação da prisão preventiva, coma imposição demedidas cautelares dispostas noart. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL.HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS.REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME.OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART.112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta"(AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido."(AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+Como se sabe, a decretação ou a manutenção da prisão preventiva depende da configuração objetiva de um ou mais dos requisitos do art. 312, do Código de Processo Penal. Para isso, o Julgador deve consignar, expressamente, elementos reais e concretos indicadores de que o indiciado ou acusado, solto, colocará em risco a ordem pública ou econômica, a instrução criminal ou a aplicação da lei penal.
+Na hipótese, consta a seguinte fundamentação no decreto prisional (fl. 77):
+"O acusado praticou gravíssimo crime de homicídio na sua forma tentada.
+Com efeito, o acusado agiu por motivo fútil e mediante recurso que dificultou a defesa da vítima, só não consumando o delito por circunstâncias alheias à sua vontade.
+Após o crime o denunciado deixou a residência onde residia e não foi mais localizado, demonstrando a clara intenção de se furtar à aplicação da lei penal."
+Como se vê, a custódia processual está devidamente fundamentada na garantia da ordem pública, bem como para assegurar a aplicação da lei penal e a instrução processual, nos exatos termos do art. 312 do Código de Processo Penal, poisfoi ressaltada a gravidade do crime- o Paciente, por motivo fútil, golpeou a vítima com objeto não identificado,mediante recurso que dificultou a sua defesa-e destacada a fuga do Paciente do local onde residia logo após a prática delituosa, fatos que justificam a necessidade da custódia cautelar.
+Exemplificativamente, cito os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. TENTATIVA. PREVENTIVA. REQUISITOS DO ART. 312 DO CPP.MODUS OPERANDI E FUGA DO DISTRITO DA CULPA. APLICAÇÃO DAS MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. RECURSO IMPROVIDO.
+1. Reveste-se de legalidade a prisão cautelar quando baseada em elementos concretos, nos termos do art. 312 do CPP, consubstanciados na fuga do distrito da culpa e na gravidade da conduta praticada pelo agravante, que, mediante disparos de arma de fogo, tentou matar a vítima, agindo por motivo fútil e à traição ou outro recurso que dificultou-lhe a defesa, não logrando êxito por circunstâncias alheias à sua vontade.
+2. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+3. Agravo regimental improvido."(AgRg no RHC 146.217/PE, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 24/08/2021, DJe 31/08/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PROCESSO PENAL.HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUGA. GARANTIA DA APLICAÇÃO DA LEI PENAL E INSTRUÇÃO CRIMINAL. EXCESSO DE PRAZO.REVISÃO DA PRISÃO. RECOMENDAÇÃO N. 62/2020 DO CNJ. SUPRESSÃO DE INSTÂNCIA. MEDIDAS CAUTELARES DIVERSAS. INOVAÇÃO RECURSAL.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva encontra-se justificada em razão de o recorrente ter permanecido foragido por vários meses, ficando evidente a intenção de ocultar-se da justiça. Assim, a prisão se faz necessária para garantir a aplicação da lei penal e a instrução criminal (precedentes).
+ ..
+5. Agravo regimental desprovido."(AgRg no RHC 137.216/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/08/2021, DJe 24/08/2021; sem grifos no original.)
+Assim, demonstrada pelas instâncias originárias, com expressa menção às peculiaridades do caso concreto, a necessidade da imposição da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal. Nesse sentido: RHC 144.071/BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/05/2021, DJe 24/05/2021; HC 601.703/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/03/2021, DJe 23/03/2021.
+Ressalto, ainda, que a suposta existência de condições pessoais favoráveis não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes um dos requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema, como ocorre, in casu. Exemplificativamente:
+" ..
+3. Condições subjetivas favoráveis do recorrente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (Precedentes).
+4. Recurso desprovido." (RHC 90.306/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. GRAVIDADE DO CRIME. GARANTIA DA ORDEM PÚBLICA. FUGA DO DISTRITO DA CULPA LOGO APÓS OS FATOS. NECESSIDADE DE ASSEGURAR A INSTRUÇÃO E APLICAÇÃO DA LEI PENAL.FUNDAMENTAÇÃO IDÔNEA.MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NO CASO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ORDEM DE HABEAS CORPUSDENEGADA.
