@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por José Carlos Pascoal, com base no art. 105, III, a ec, da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado (e-STJ, fl. 770):
+DIREITO ADMINISTRATIVO. SFH. COBERTURA SECURITÁRIA. VÍCIOS DE CONSTRUÇÃO. INTERESSE PROCESSUAL. CONTRATO DE FINANCIAMENTO LIQUIDADO.
+O contrato de seguro tem vigência simultânea com o contrato de mútuo. Assim, uma vez extinto este, automaticamente é extinto aquele que o acompanha..
+Nas razões do recurso especial (e-STJ, fls. 784-797),orecorrente alegou violação dos arts. 757, 760 e779 do Código Civil de 2002; 6º da LINDB; e 5º da Constituição Federal, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o dano decorrente de vício construtivo se protrai no tempo; que o "término de responsabilidade", contido em cláusula do contrato, marca tão somente o termo final da apólice, o que não significa decadência ou perda do direito de pleitear cobertura de sinistro ocorrido na vigência da apólice.
+Não foramapresentadas contrarrazões (e-STJ, fls. 1.028-1.029).
+O Tribunal de origem negou seguimento ao recurso especial em razão de o acórdão recorrido estar em consonância com o entendimento firmado no STF, por meio de repercussão geral; da incidência das Súmulas n. 7 e 83 do STJ; e da inviabilidade de análise do dissídio jurisprudencial apontado, em razão da aplicação da Súmula n. 7/STJ (e-STJ, fls. 1.073-1.079).
+Brevemente relatado, decido.
+Preliminarmente, verifica-se que a parte recorrente alegou violação do art. 5º da CF/1988. Contudo, é evidente a inadequação da via recursal eleita, porquanto é inadmissível o exame de possível afronta a dispositivos constitucionais no âmbito do recurso especial, haja vista que o apelo especial em questão se destina a garantir a uniformidade da aplicação da legislação federal.
+Conforme acima salientado, foi negado seguimento ao recurso especial, nos termos do art. 1.030,b, do CPC/2015 em virtude da questão relativa à competência da Justiça Federal para processar e julgar as demandas que versem sobre as apólices públicas do Seguro Habitacional do Sistema Financeiro da Habitação (Tema n.1.011 do STF) e ter sido decidida na Corte estadual em conformidade com precedentes firmados pelo Superior Tribunal de Justiça em recurso especial repetitivo. Assim, não merece conhecimento o presente agravo nesse ponto. Isso porque se trata de recurso incabível, conforme entendimento proferido pela Terceira Turma desta Corte.
+Corrobora esse entendimento o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO.EMBARGOS À EXECUÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. APELO NOBRE NÃO ADMITIDO NA ORIGEM PORQUE A MATÉRIA FOI JULGADA SEGUNDO O RITO DO ART. 1.040, I, e 1.030, I, B, AMBOS DO NCPC (ART. 543-C DO CPC/73). AGRAVO EM RECURSO ESPECIAL.NÃO CABIMENTO. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO.INCIDÊNCIA DA SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia 5. Constitui erro grosseiro a interposição do agravo previsto no art. 1.042, caput, do NCPC quando a Corte estadual inadmite o recurso especial com base em recurso repetitivo, nos termos do art.
+1.040, I, e 1.030, I, b, ambos do NCPC (antigo art. 543-C, § 7º, do CPC/73).
+6. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+7. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.739.753/RS, RelatorMinistro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/8/2021, DJe 2/9/2021).
+Além disso, dispõe o art. 1.030, § 2º, do CPC/2015 que, uma vez negado seguimento ao recurso especial na instânciaa quo, tendo em vista a conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+Quanto ao mais, o Colegiado local assim se manifestou (e-STJ, fls. 773-774):
+O entendimento deste Tribunal, em casos análogos, tem sido o de que a tese da ocorrência dos supostos danos durante a vigência do contrato não prospera, pois a seguradora não está de modo indefinido à mercê da iniciativa dos pretensos segurados, porquanto a aceitação do pedido a qualquer tempo ofenderia a segurança jurídica, sobretudo após a extinção do contrato.
+Ademais, a jurisprudência desta Corte é pacífica no sentido de que, uma vez extinto o contrato de financiamento, também é extinto o contrato de seguro adjeto:
+(..)
+Ante o exposto, voto por negar provimento à apelação, nos termos da fundamentação.
+A Terceira Turma revisou o seu entendimento parareconhecerque não exsurge da quitação do financiamento a perda do interesse de agir do segurado, nem se tem por inexistente o direito ao pagamento das indenizações correspondentes.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. SEGURO HABITACIONAL. INTERESSE DA CEF E COMPETÊNCIA. SÚMULA 283/STF. PRESCRIÇÃO. ATRAÇÃO DO ENUNCIADO 7/STJ. QUITAÇÃO. REVISÃO DO ENTENDIMENTO DESTA TERCEIRA TURMA. VÍCIOS CONSTRUTIVOS. OBRIGAÇÃO DE INDENIZAR. MULTA DECENDIAL.AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n.1.792.592/SP, RelatorMinistro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 30/3/2020, DJe 1º/4/2020).
+Desse modo, necessária a reforma do acórdão recorrido e da sentença extintiva, devendo o processo retornar ao julgador monocrático para que examine a pretensão de pagamento da indenização securitária.
+Ante o exposto, conheço parcialmente do agravo para darprovimento aorecurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que julgue a pretensão de pagamento securitário.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SFH. COBERTURA SECURITÁRIA. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE POR MEIO DE RECURSO ESPECIAL. APELO ESPECIAL INADMITIDO NA ORIGEM, EM PARTE, COM FULCRO NA APLICAÇÃO DE RECURSO REPETITIVO - TEMAS 246 E 247. IMPOSSIBILIDADE DE O STJ CONHECER DO AGRAVO EM RECURSO ESPECIAL NA PARTE EM QUE QUESTIONA A APLICAÇÃO DO ART. 1.030,b, DO CPC/2015. NÃO CABIMENTO DO AGRAVO NESSE PONTO (CPC/2015, ART. 1.042). PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. VÍCIO DE CONSTRUÇÃO.CONHECIMENTO APÓS A EXTINÇÃO DO CONTRATO.AGRAVO PARCIALMENTE CONHECIDO PARA DAR PROVIMENTO AORECURSO ESPECIAL.
