@@ -1,0 +1,28 @@
+DECISÃO
+Este agravo interno foi interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial manejado, porque não teria sido impugnado, especificamente, o fundamento adotado pelo Tribunal local alusivo à incidência ao caso da Súmula 7/STJ (e-STJ, fls. 380-382).
+Em suas razões, a agravanteafirma ter combatido, de modo específico,a aplicação do óbice da Súmula 7/STJ STJ, o que motivou pedido de reforma da decisão agravada.
+Não houve impugnação(e-STJ, fl. 428).
+Brevemente relatado, decido.
+Em nova análise dos autos, verifico haver plausibilidade nas alegações da agravante quanto à impugnação realizada, razão pelaqual, com fundamento no art. 259, caput, do RISTJ, reconsidero a decisão de fls. 380-382(e-STJ) e passo a novo exame do agravo em recurso especial.
+Trata-se de agravo interposto por GEAP - Autogestão em Saúdecontra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Rio de Janeiro assim ementado (e-STJ, fl. 214):
+Ação de Obrigação de Fazer c/c Indenizatória por Dano Moral. GEAP -Autogestão em Saúde. Demora injustificada na realização de procedimento cirúrgico de urgência. Dano moral configurado. Sentença modificada nesse ponto. Apelo autoral provido.
+Nas razões do recurso especial, a recorrente apontou violação: a)à Súmula 608/STJ, por inaplicabilidade das disposições do CDC aos contratos de plano de saúde operados por entidades de autogestão; b) às Leis n.9.961/2000 e 9.656/1998, porque o usuário pode eleger, segundo as recomendações médicas e sua própria comodidade, qual o prestador de serviço credenciado mais apto a tratar sua moléstia, entre aqueles constantes no rol oferecido pela operadora, mas que, uma vez ciente da rede, caso opte por profissional além da oferta, assume o ônus de sua escolha; e c) aos arts. 186, 187 e 927, todos do Código Civil, pela ausência de ato ilícito (e-STJ, fls. 227-245).
+Não foram apresentadas contrarrazões (e-STJ, fl. 261).
+Juízo de admissibilidade negativo, o que originou a interposição deste agravo(e-STJ, fls. 263-265).
+Sem contraminuta (e-STJ, fl. 361).
+O inconformismo não merece prosperar.
+De início, quanto à apontada violação à Súmula 608/STJ, tenha-se em conta que não cabe ao Superior Tribunal de Justiça apreciar alegação de ofensa a verbete de súmula no julgamento de recurso especial, uma vez que o enunciado apenas expressa o posicionamento da jurisprudência predominante e não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal.
+Esse entendimento foi consolidado com a edição da Súmula 518 desta Corte nos seguintes termos: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+No caso, ao analisar a documentação existente, o Tribunal estadual concluiu pela ocorrência de demora injustificada para a realização de procedimento cirúrgico de urgência.
+Veja-se seguinte trecho do acórdão (e-STJ, fl. 216):
+Na hipótese, o laudo de fl. 22, indexador 17 comprova a necessidade e urgência do procedimento cirúrgico solicitado pela apelante, em março de 2015.
+A recorrente afirmou que se tratava de uma segunda cirurgia, a ser realizada pelo mesmo profissional que executou a primeira, Dr. Jonny Shogo Takahashi, conforme comprova o laudo de fl. 25, indexador 17 e o atestado médico de fl. 26, indexador 17.
+Sendo assim, o óbice apresentado pela seguradora não se justifica e sequer é crível a sua alegação, de fl. 76, indexador 70, de que o referido profissional não estaria cadastrado em sua rede credenciada, pois, como salientado, a cirurgia indicada pela própria apelada em fl. 75/76, indexador 70, em 2014, foi executada pelo mesmo médico.
+Nesse contexto, resta evidente o ato ilícito praticado pela apelada, tendo violado, com sua conduta, os princípios basilares das relações contratuais, como a função social, a boa-fé e a cooperação, ao indeferir, injustificadamente e por cerca de dois meses, a realização de uma cirurgia classificada pelo médico responsável pelo paciente como urgente.
+Nesse contexto, concluiu-se que se encontravam presentes os requisitos legais para a condenação da recorrente.
+Assim sendo, a alteração do entendimento do Tribunal local, acerca da configuração do dano moral em decorrência da demora, por cerca de 2 (dois) meses, para autorizar a realização de uma segunda cirurgia, considerada urgente, pelo mesmo médico que efetuou a primeira intervenção na autora da demanda - anteriormente aprovada e procedida -, demandaria o reexame do acervo fático-probatório, o que não é possível nesta esfera recursal em razão do disposto na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, mediante juízo de reconsideração.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da recorrida para 15% (quinze por cento) sobre o valor da causa.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ.RECONSIDERAÇÃO. NOVA ANÁLISE DO AGRAVO.PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. DEMORA EMAUTORIZARA REALIZAÇÃO DE NOVA CIRURGIA A SER FEITA PELO MESMO MÉDICO QUE EFETUOU PROCEDIMENTO ANTERIOR.ATRASO INJUSTIFICADO. DANO MORAL. RECONHECIMENTO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIADA SÚMULA 7/STJ. ALEGAÇÃO DE OFENSA A SÚMULA. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA 518/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
