@@ -1,0 +1,28 @@
+DECISÃO
+Este agravo interno foi interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial manejado, porque não teria sido impugnado, especificamente, o fundamento adotado pelo Tribunal local alusivo à incidência ao caso da Súmula 7/STJ (e-STJ, fls. 419-421).
+Em suas razões, a agravanteafirma ter combatido, de modo específico,a aplicação do óbice da Súmula 7/STJ STJ, o que motivou pedido de reforma da decisão agravada.
+Não houve impugnação(e-STJ, fl. 434).
+Brevemente relatado, decido.
+Em nova análise dos autos, verifico haver plausibilidade nas alegações da agravante quanto à impugnação realizada, razão pelaqual, com fundamento no art. 259, caput, do RISTJ, reconsidero a decisão de fls. 419-421(e-STJ) e passo a novo exame do agravo em recurso especial.
+Trata-se de agravo interposto por Supervia - Concessionária de Transporte Ferroviário S.A. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Rio de Janeiro assim ementado (e-STJ, fl. 309):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. AUTORA ALEGA QUE TEVE SUA MÃO PRENSADA NA PORTA DA COMPOSIÇÃO DE TREM OPERADO PELA RÉ, SUPERVIA. REQUER INDENIZAÇÃO POR DANO MORAL. EM DEFESA, A RÉ ALEGA AUSÊNCIA DE FALHA NA PRESTAÇÃO DE SEUS SERVIÇOS, JÁ QUE A PORTA NÃO APRESENTAVA DEFEITO. IMPUTA À AUTORA A RESPONSABILIDADE PELO OCORRIDO, PORQUANTO TERIA IGNORADO OS AVISOS DE PERIGO ACERCA DO FECHAMENTO DAS PORTAS. SENTENÇA DE PROCEDÊNCIA. CONDENAÇÃO DA RÉ AO PAGAMENTO DE R$ 10 MIL POR DANO MORAL. RECURSO DA RÉ REPISANDO OS ARGUMENTOS DE DEFESA. PUGNA PELA IMPROCEDÊNCIA OU, AO MENOS, A REDUÇÃO DO QUANTUM INDENIZATÓRIO, ALEGANDO EXORBITÂNCIA DO VALOR ARBITRADO PELO JUÍZO A QUO. PARCIAL PROVIMENTO. SERVIÇO QUE SE MOSTROU DEFICIENTE ANTE A AUSÊNCIA DE FUNCIONÁRIOS NA PLATAFORMA PARA AUXILIAR A VÍTIMA ACIDENTADA. DESCUMPRIMENTO DA CLÁUSULA DE INCOLUMIDADE PROVENIENTE DO CONTRATO DE TRANSPORTE. INDENIZAÇÃO POR DANO MORAL, OCORRIDO IN RE IPSA. RECURSO PROVIDO EM PARTE PARA DETERMINAR A REDUÇÃO DO QUANTUM INDENIZATÓRIO DE R$ 10 MIL PARA R$ 5 MIL, A FIM DE ADEQUAR-SE AO CASO CONCRETO E À JURISPRUDÊNCIA DESTA CORTE. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 342-346).
+Nas razões do recurso especial, a recorrente apontou violação aos arts.14, § 3º, da Lei 8.078/1990;e 186, 944, parágrafo único, e 884, todos do Código Civil(e-STJ, fls. 354-363).
+Sustentou, em síntese, que os fatos referentes ao presente caso possuem relação com uma prejudicial externa, que afasta a responsabilidade do fornecedor do serviço quando fica comprovada a ocorrência de fato exclusivo da vítima e/ou de terceiros.
+Alegou, ainda, que entende ter prestado corretamente o transporte de passageiros, tendo o dano causadoà autora da demanda ocorrido por sua própria culpa.
+Não foram apresentadas contrarrazões (e-STJ, fl. 373).
+Juízo de admissibilidade negativo, o que originou a interposição deste agravo(e-STJ, fls. 375-381).
+Sem contraminuta (e-STJ, fl. 405).
+O inconformismo não merece prosperar.
+No caso, ao julgar a apelação, o Tribunal estadual deixou consignado o seguinte:
+Em que pese a ré sustente que a autora deu causa à lesão sofrida, ao ingressar em trem lotado, não respeitando os avisos para não apoiar as mãos nas portas, fato é que a consumidora não foi socorrida após o acidente, demonstrando, com isso, o despreparo e, consequentemente, a falha na prestação de serviço da ré.
+Com efeito,mesmo havendo fato de terceiro, passageiros empurrando a vítima ou a hipótese da própria autora ingressar com composição lotada, tal fato não exime a responsabilidade da ré ao permitir que a composição trafegasse superlotada em desacordo com as normas de segurança, como bem ressaltou o Douto Juiz a quo.
+Importa salientar que caberia à ré manter câmeras de segurança e pessoal de apoio suficiente para verificar a condição dos passageiros dentro da composição e na plataforma, a fim de evitar acidente, contudo, não foi o que se verificou nos autos, uma vez que a autora foi empurrada lesionando seu dedo.
+Desta forma, conclui-se que ocorreu descumprimento de obrigação contratual pela ré, qual seja, transportar incólume passageiro até o seu destino, que é da própria essência do contrato de transporte e trata-se de obrigação de resultado.
+Nesse contexto, concluiu-se que se encontravam presentes os requisitos legais para manter a condenação da recorrente.
+Assim sendo, a alteração do entendimento do Tribunal local - sobre a falta de socorro à consumidora, o fato de a composição trafegar superlotada e a ausência decâmeras de segurança e pessoal de apoio suficiente para verificar a condição dos passageiros dentro da composição e na plataforma -não prescindiria do reexame do acervo fático-probatório, o que não é possível nesta esfera recursal em razão do disposto na Súmula 7/STJ .
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da recorrida para 17% (dezessete por cento) sobre o valor da causa.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ.RECONSIDERAÇÃO. NOVA ANÁLISE DO AGRAVO.RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. LESÃO SOFRIDA POR PASSAGEIRA AO INGRESSAR EM VAGÃO FERROVIÁRIO. FALHA NA PRESTAÇÃO DO SERVIÇO. RECONHECIMENTO. REEXAME DA QUESTÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
