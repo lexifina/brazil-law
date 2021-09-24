@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por CLAUDIA ESTELA SQUIZATTO DOS SANTOS contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a" e "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. INDEFERIMENTO.
+- A hipossuficiência da parte autora em arcar com as custas e despesas processuais não restou comprovada.
+- Indeferimento dos benefícios da Justiça Gratuita.
+- Agravo de instrumento improvido (fls. 40-41).
+Quanto à controvérsia trazida nos autos, pela alínea "a" e "c" do permissivo constitucional, alega a ora agravante, além de dissídio jurisprudencial, violação dos arts. 98 e 99, § 3º, do Código de Processo Civil; e 5º, XXXV e LXXIV, da Constituição Federal, no que concerne ao cumprimento dos requisitos para concessão dos benefícios da assistência judiciária gratuita, trazendo, em síntese, os seguintes argumentos:
+Não mais se admite, portanto, qualquer dúvida: a declaração de insuficiência é o suficiente para a concessão do benefício.
+ ..
+O novo CPC deixa claro que não é preciso que a parte comprove sua situação de hipossuficiência para que seja concedido o benefício, bastando apenas sua declaração nesse sentido, documento bastante para comprovar a necessidade de que trata o parágrafo único do artigo 2º da Lei de Assistência Judiciária.
+Referida declaração goza, portanto, de presunção juris tantum de veracidade, podendo ser elidida somente através de prova em contrário ou através de procedimento próprio de impugnação ao pedido de justiça gratuita, exigindo-se prova cabal a demonstrar que o assistido não faz jus ao benefício.
+Ausente prova em contrário, prevalecem os termos da declaração.
+ ..
+Dessa forma, restou amplamente demonstrada a necessidade de concessão do benefício da assistência judiciária ao Recorrente, uma vez que a lei prevê devidamente sua concessão, além desta ter devidamente comprovado que está passando por serias dificuldades.
+ ..
+O acórdão recorrido acatou a improcedência da do agravo de instrumento interposto por uma enfermeira, somente com base em seus vencimentos e com a limitação de salário pelo maior benefício pago pelo INSS. Havendo clara divergência quanto ao entendimento do egrégio STJ essa verificada no Resp.: 1706497 PE./ AgRg e no REsp: 1508107 PR juntados aos autos e prequestionados em embargos de declaração (fls. 112/114).
+É, no essencial, o relatório. Decido.
+Inicialmente, ressalta-se que é incabível o recurso especial porque visa discutir violação de norma constitucional que, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+In casu, os valores destacados pelo Juízo, de fato, indicam a ausência a quo da alegada hipossuficiência a ensejar a concessão da Justiça Gratuita. Há nos autos, holerites da autora demonstrando um rendimento médio mensal no montante aproximado de R$ 9.000,00 destarte não se enquadra no rol dos hipossuficientes.
+Além disso, não apresentou o autor qualquer prova no sentido de mitigar a fundamentação do juízo a quo (fl. 46).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ademais, quanto à controvérsia pela alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
