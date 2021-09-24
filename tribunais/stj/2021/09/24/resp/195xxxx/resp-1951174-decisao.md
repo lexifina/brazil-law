@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por Roseane Campos Dearo, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 183):
+AÇÃO REVISIONAL DE CONTRATO. Sentença que julgou o pedido inicial parcialmente procedente. Ônus sucumbenciais a cargo do requerente, com a ressalva da gratuidade judiciária.
+MÉRITO. CAPITALIZAÇÃO DE JUROS. Admissibilidade. Entendimento das Súmulas 539 e 541 do C. Superior Tribunal de Justiça. Contrato que especifica com clareza os índices de juros incidentes e a sua periodicidade, indicando os respectivos percentuais aplicados.
+SEGURO PRESTAMISTA. Admissibilidade. Contratação facultativa. Função de garantir eventual não pagamento por circunstâncias alheias à vontade do contratante. Caso dos autos em que, ademais, não ficou evidenciado que a requerida tenha condicionado o contrato de mútuo ao seguro prestamista - estabelecido, repita-se, no interesse do próprio mutuário. Inocorrência de venda casada.
+REPETIÇÃO DE INDÉBITO. Almejada a dobra legal. Inexistência de valores a restituir, pois mantida a higidez das cláusulas contratuais ora hostilizadas.
+Sentença preservada. Recurso improvido.
+Nas razões do apelo especial, a recorrente alega violação dos arts. 39, I, 46 e 51, IV, do Código de Defesa do Consumidor.
+Sustenta a ilegalidade da cobrança do seguro de proteção financeira, sob a alegação de tratar-se de venda casada, sem conhecimento prévio das tarifas cobradas pela consumidora, com custos já cobertos pela atividade de financiamento, além de encontrar-se em divergência ao entendimento proferido quando do julgamento do REsp 1.639.320/SP, Tema 972.
+Assevera a inadmissibilidade da capitalização mensal dos juros, tendo em conta a ausência de sua previsão expressa no contrato entabulado entre as partes, em desacordo com o decidido quando do julgamento do REsp 1.578.526/SP, Tema 958.
+Contrarrazões às fls. 208-215 (e-STJ).
+O apelo extremo foi admitido na origem (fls. 369-371, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+No tocante ao seguro de proteção financeira, o Tribunal de origem, observadas as peculiaridades da causa, concluiu pela não ocorrência de venda casa no caso, sob os seguintes fundamentos (e-STJ, fls. 187-189):
+Conforme se dessume da acurada análise do caderno processual, é certo que o contrato entabulado entre as partes traz campo próprio para a contratação do seguro prestamista, havendo campos distintos para "Sim" ou "Não" no que tange à efetiva manifestação de vontade do consumidor.
+É, portanto, facultativa a adesão a tal seguro, opção da parte no ato da celebração da avença. Além disso, tem por finalidade garantir eventual não pagamento por circunstâncias alheias à vontade do contratante, como, por exemplo, na hipótese de desemprego involuntário.
+(..)
+Nessa ordem de ideias, a repetição do valor dispendido a tal título (seguro prestamista) somente teria lugar caso o autor fizesse prova de que, recusada a contratação, a requerida inseriu de forma "sub-reptícia" sua "concordância" no contrato assinado, inaplicável aqui a inversão do onus probandi, uma vez que à demandada incumbiria, então, produção de prova negativa, o que não se pode admitir.
+Destarte, inocorrente a chamada "venda casada" no caso dos autos, dada por legítima e válida a cobrança do "seguro prestamista".
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra defeso ante a natureza excepcional da via eleita, conforme enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO. CIVIL E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. CONTRATO DE SEGURO ADJETO. SUPOSTA OFENSA AO ART. 47 DO CDC. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. SUGERIDA VIOLAÇÃO DO ART. 39, I, DO CDC. ALEGAÇÃO DE EXISTÊNCIA DE VENDA CASADA. REEXAME DE MATÉRIA FÁTICA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. VEDAÇÃO. ÓBICE DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1.606.531/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À MONITÓRIA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. ALEGAÇÃO DE VENDA CASADA ENTRE O SEGURO PENHOR E O FINANCIAMENTO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DESTA CORTE. CAPITALIZAÇÃO MENSAL DOS JUROS. PACTUAÇÃO EXPRESSA. SÚMULA 83 DESTA CORTE. AGRAVO NÃO PROVIDO.
+1. Consoante a jurisprudência desta Corte Superior, não configura cerceamento de defesa o julgamento antecipado da lide nas hipóteses em que o Tribunal de origem considera o feito devidamente instruído, reputando desnecessária a produção de provas adicionais para a decisão, por se tratar de matéria eminentemente de direito ou de fato já comprovado documentalmente, como é o caso dos autos.
+2. O Tribunal de origem, com base nas circunstâncias fáticas da causa, entendeu que a pactuação do seguro penhor, prevista no contrato de financiamento, além de constituir prática comum nos negócios jurídicos dessa natureza, foi anuída pelo mutuário mediante livre, consciente e espontânea manifestação de vontade, sem nenhum vício de consentimento, afastando a configuração de venda casada e o caráter abusivo da cláusula.
+3. No caso, a modificação do referido entendimento, especialmente para aferir o alegado caráter abusivo de cláusula contratual, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial.
+4. A jurisprudência desta col. Corte está pacificada no sentido de que, nas cédulas de crédito rural, industrial e comercial, é admitida, quando pactuada, a cobrança de juros capitalizados em periodicidade mensal, nos termos da Súmula 93 desta eg. Corte. Precedentes. 5. Agravo interno não provido.
+(AgInt no AREsp n. 1.590.555/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1º/6/2020, DJe 15/6/2020).
+Quanto à capitalização mensal dos juros, a agravante não indicou clara e precisamente qual ou quais dispositivos legais teriam sido violados pelo acórdão recorrido, não observando, portanto, a técnica própria de interposição do recurso especial, o que atrai a incidência, por analogia, da Súmula n. 284/STF.
+Diante do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários de justiça sucumbenciais fixados em favor dos advogados da parte recorrida em R$ 500,00 (quinhentos reais), suspensa a exigibilidade em razão da gratuidade deferida à recorrente.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. 1. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA. INEXISTÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. 2. CAPITALIZAÇÃO MENSAL DOS JUROS. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. SÚMULA N. 284/STF. 3. RECURSO ESPECIAL NÃO CONHECIDO.
