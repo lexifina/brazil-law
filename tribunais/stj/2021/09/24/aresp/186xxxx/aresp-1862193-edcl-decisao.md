@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ADICIONAL LOCAÇÃO DE IMÓVEIS LTDA, em face de decisão unipessoal que conheceu do agravo, para não conhecer do recurso especial que interpusera, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais e morais, em razão de má prestação de serviço, decorrente de contrato de administração de bem imóvel.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Torno sem efeito as decisões emitidas pela Presidência do STJ de fls. 1089/1091 e 1100/1101 (e-STJ). Agravo em recurso especial conhecido. Recurso especial não conhecido.
+A embargante repisa as razões do recurso especial quanto à ausência de ato ilícito e nexo causal e sustenta a inaplicabilidade da Súmula 7/STJ.
+É O RELATÓRIO. DECIDO.
+A embargante não aponta omissões, contradições ou obscuridades no acórdão que justifiquem esclarecimento. Ao contrário, veicula inconformismo com a decisão proferida quanto a seu mérito.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Com efeito, a decisão embargada, de forma clara e expressa, consignou que:
+Observa-se que o TJ/PR, após analisar o acervo probatório reunido nos autos, concluiu que:
+Afasto a preliminar de não conhecimento do recurso, arguida em contrarrazões, pela alegada ofensa ao artigo 1.010, inciso II, do CPC/15 (dialeticidade), eis que a apelante/autora observou os requisitos legais no desenvolvimento da peça recursal.
+Segundo a apelada/ré, o apelo não teria impugnado os fundamentos principais da sentença, quais sejam: (1) a inexistência de previsão no contrato de administração do imóvel que obrigasse a imobiliária a garantir o pagamento de responsabilidade da locatária; (2) o fato de a autora, proprietária do imóvel, ter celebrado acordo com a locatária na Ação de Despejo, aceitando receber menos que o valor real da dívida, o que a impossibilitaria de cobrar da administradora eventuais diferenças porventura devidas.
+No entanto, da leitura das razões recursais, depreende-se que houve a exposição dos motivos pelos quais a parte entende que a sentença merece ser reformada, devolvendo ao Tribunal o conhecimento da matéria antes impugnada, em obediência ao artigo 1.010 do CPC/15.
+Muito embora a recorrente/autora não tenha se manifestado de forma expressa sobre os dois pontos acima citados, defendeu a necessidade de reconhecer a responsabilidade civil da empresa ré, por ter agido com negligência na administração do imóvel (escolhendo pessoa que não tinha condições de pagar os alugueis e deixando de exigir garantia no contrato). Sustentou, ainda, que essa conduta desidiosa lhe gerou prejuízo de ordem material e moral, na medida em que a locatária não conseguiu realizar o pagamento integral da dívida cobrada na Ação de Despejo.
+Ressalto, neste particular, que o d. juízo originário não adentrou na análise dos pressupostos da responsabilidade civil por ato ilícito (artigos 186 e 927, do Código Civil). A pretensão autoral foi afastada com base no entendimento de que a administradora não estaria obrigada, pelo contrato, a garantir o pagamento dos alugueis e das taxas condominiais.
+Contudo, o fato de a r. sentença não ter apreciado todos os argumentos deduzidos na petição inicial não impede a sua reiteração no recurso de Apelação. Afinal, nos termos do artigo 1.013,§1º, do CPC, serão "objeto de apreciação e julgamento pelo tribunal todas as questões suscitadas e discutidas no processo, desde que ainda que não tenham sido solucionadas.
+Logo, não há que se falar ofensa ao aludido princípio.
+Encontram-se, portanto, presentes os pressupostos de admissibilidade extrínsecos (tempestividade, preparo, regularidade formal, inexistência de fato impeditivo ou extintivo ao direito de recorrer) e intrínsecos (legitimidade para recorrer, interesse de recorrer, cabimento). (e-STJ, fl. 989/990)
+Quanto ao dever de indenizar, arrematou que:
+É inegável, portanto, a desídia da ré no desempenho da administração do imóvel, uma vez que: (a) não se certificou acerca da capacidade econômica da locatária; (b) não exigiu garantia no contrato de locação, aceitando, informalmente, um depósito em dinheiro realizado por terceiro;(c) deixou de informar a proprietária sobre o inadimplemento inicial (em set/2011); (d) permitiu que a locatária inadimplente permanecesse no imóvel durante meses, sem adotar qualquer medida no sentido de notificá-la; (e) não providenciou a rescisão ou a alteração do contrato de locação, mesmo diante do esvaziamento do depósito realizado pelo terceiro; (f) aguardou a utilização de todo o valor depositado para, somente então, comunicar a proprietária a respeito da necessidade de ajuizar Ação de Despejo.
+(..) Evidente, portanto, o seu prejuízo material, na medida em que, ao executar a sentença da Ação de Despejo, a proprietária não conseguiu satisfazer a integralidade do seu crédito.
+Isso posto, demonstrada a culpa, o dano e o nexo de causalidade, forçoso reconhecer a responsabilidade da imobiliária ré, nos termos dos artigos 187 e 927, do Código Civil, pela falha na atuação enquanto administradora do imóvel de propriedade da autora. (e-STJ, fl. 995/998)
+Nesse contexto, a reversão das conclusões do Tribunal de origem quanto à existência dos pressupostos de admissibilidade do recurso, o preenchimento dos requisitos do art. 919, §1º, do CPC/2015, bem como a falha na atuação enquanto administradora do imóvel de propriedade da agravada e o dever de indenizar, demandaria reexame fático-probatório, providência que, todavia, encontra óbice na Súmula 7 desta Corte (e-STJ, fl. 1118-1119).
+É certo que o mero descontentamento da parte com a decisão não torna cabível o recurso de embargos de declaração, que servem ao aprimoramento do julgado, mas não à sua modificação, apenas excepcionalmente admitida.
+Dessa forma, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nestas razões, REJEITO os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. EMBARGOS DE DECLARAÇÃONO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA.
+1. Ação de indenização por danos materiais e morais, em razão de má prestação de serviço, decorrente de contrato de administração de bem imóvel.
+2. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+3. Embargos de declaração rejeitados.
