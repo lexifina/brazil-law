@@ -1,0 +1,26 @@
+DECISÃO
+Às fls. 1190-1201 e-STJ, MARIYARA VILALBA DE SOUZAsuscita a competência do Juízo trabalhista para exame da demanda originária.
+É o breve relatório.
+Decide-se.
+1.De início, em que pese já julgado o feito recursal, considerando a petição apresentada antes do trânsito em julgado, bem como a possibilidade de exame, inclusive de ofício, de eventual incompetência absoluta, a qualquer momento, passa-se à análise da alegada competência do Juízo laboral.
+2. A Segunda Seção deste STJ, em recente deliberação sobre a controvérisia trazida no presente pedido, pronunciou-se nos seguintes termos:
+CONFLITO DE COMPETÊNCIA. PREVIDÊNCIA PRIVADA. PEDIDO DE COMPLEMENTAÇÃO DE BENEFÍCIO DE PREVIDÊNCIA COMPLEMENTAR DIRIGIDO AO BANCO DO BRASIL. EX-EMPREGADOR. PORTARIA 966/1947. PRECEDENTE VINCULANTE DO STF. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. No julgamento do RE 586.453/SE e do RE 583.050/RS, sob o rito da repercussão geral, o STF estabeleceu, em caráter vinculante, que "a competência para o processamento de ações ajuizadas contra entidades privadas de previdência complementar é da Justiça comum, dada a autonomia do Direito Previdenciário em relação ao Direito do Trabalho. Inteligência do art. 202, § 2º, da Constituição Federal a excepcionar, na análise desse tipo de matéria, a norma do art. 114, inciso IX, da Magna Carta" (Pleno, Rel. p/ acórdão o Ministro DIAS TOFFOLI, DJe de 5.6.2013).
+2. Em prol da efetividade e racionalidade ao sistema, prevaleceu o entendimento de que, na generalidade das demandas em que se postula benefício de previdência privada, qualquer que seja a causa de pedir, mesmo que se discuta a interpretação e a legalidade de acordos coletivos de trabalho, e que o único réu seja o ex-empregador/patrocinador (hipótese do RE 583.050/RS), a competência será da Justiça Estadual.
+3. No RE 586.453/SE, essa conclusão se estendeu a casos de benefícios criados antes da instituição da Petros e custeados integralmente pela Petrobrás, orientação que vincula a solução do presente conflito extraído de ação proposta contra a Companhia Lithográphica Ypiranga, visando ao acréscimo do valor de benefício de previdência complementar pago pela ex-empregadora, por intermédio de plano particular instituído pela referida empresa, em decorrência de acordo individual de trabalho.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 45ª Vara Cível de São Paulo/SP, suscitado.
+(CC 148.352/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 03/12/2020, DJe 09/12/2020)
+Em semelhante sentido, a decisão proferida pela e. Ministra MARIA ISABEL GALLOTTI nos autos do REsp n. 1.878.329/SP (DJe 25/03/2021), envolvendo as mesmas entidades integrantes do presente feito:
+Ocorre, porém, que o Supremo Tribunal Federal, no julgamento dos REs 586.453/SE e 583.050/RS, julgados na mesma data e com repercussão geral reconhecida (Tema 190), firmou a tese da competência da Justiça comum para processar e julgar as ações que tenham por objeto o pagamento de proventos de complementação de aposentadoria em razão da autonomia do contrato de previdência complementar, nos termos das ementas assim redigidas pelo Ministro Dias Toffolli, relator p/ acórdão:
+ ..
+Acrescento que, a partir da tese da autonomia do contrato de previdência privada fixada nesses precedentes, o STF tem declarado a competência da Justiça comum, em todos os recursos extraordinários interpostos em ações que tenham por objeto o recebimento de proventos de complementação de aposentadoria, inclusive naquelas ajuizadas exclusivamente contra o ex-empregador, independentemente da causa de pedir.
+Com efeito, considerou o Supremo Tribunal que essa solução se impunha em prol da segurança e da racionalidade do sistema de normas constitucionais e legais que regem a previdência complementar, a fim de evitar que dois tribunais superiores - o STJ e o TST - tivessem competência para interpretar o mesmo sistema de leis e, sobretudo, para pôr fim à polêmica acerca da competência, que retardava a solução de mérito de incontáveis processos.
+Na linha de declarar a competência da Justiça comum em ações ajuizadas exclusivamente contra o empregador, objetivando o pagamento de complementação de aposentadoria, com causa de pedir relacionada ao contrato de trabalho, apenas para exemplificar, cito, entre muitas outras, as seguintes ementas:
+ ..
+Observo, dessa forma, que não existe dúvida alguma de que, no âmbito do STF, encontra-se consolidada a orientação de que a competência para processar e julgar ações que tenham por objeto complementação de aposentadoria é da Justiça Comum, independentemente da causa de pedir e de ter sido ela ajuizada contra a entidade de previdência privada ou exclusivamente contra o empregador, em face da autonomia do contrato de previdência privada  ..  grifou-se
+Assim, não há falar em competência do Juízo trabalhista.
+3. Do exposto, indefere-se o pedido de fls. 1190-1201 e-STJ.
+Considerando que não houve interposição de recurso em face do acórdão de fls. 1181-1188 e-STJ, certifique-se o trânsito em julgado da referida decisão.
+No mais, após ultimado o prazo para impugnação da presente deliberação, proceda-se àdevida baixa dos autos.
+Publique-se.
+Intimem-se.
