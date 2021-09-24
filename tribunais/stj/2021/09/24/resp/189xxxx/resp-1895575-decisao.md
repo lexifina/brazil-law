@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIALcontra acórdão prolatado, por unanimidade, pela 2ªTurma Especializada do Tribunal Regional Federal da 2ª Região no julgamento de agravo, assim ementado (fls. 46e):
+DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO. GRATUIDADE DE JUSTIÇA. I - Nos termos do artigo 98, caput, do Código de Processo Civil de 2015: "A pessoanatural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagaras custas, as despesas processuais e os honorários advocatícios têm direito à gratuidadeda justiça, na forma da lei". II - Ao avaliar a necessidade de gratuidade de justiça, deve o magistrado considerar ascondições pessoais e sociais do jurisdicionado. III - A pobreza, quando afirmada, presume-se até prova em contrário. No casoconcreto, verifica-se que a remuneração do agravante não se mostra suficiente para quearque com as despesas processuais, comprometendo, em princípio, a sua subsistência. IV - Agravo provido.
+Opostos embargos de declaração, foram rejeitados (fls. 70/76e).
+Com amparo no art. 105, III, a, da Constituição da República,aponta-se ofensa aos arts. 98, caput e 99, §2º, do Código de Processo Civil, alegando-se, em síntese, quecomprovado nos autos que o Recorrido aufere, mensalmente, renda superior a 3salários mínimos, constata-se de forma objetiva, como preconiza a legislação de regência, que o mesmo detém recursos financeiros para adimplir com as custas, as despesas processuais e os honorários advocatícios.
+Com contrarrazões (fls. 85/93e), o recurso foi admitido (fls. 105/121e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Ao apreciar a questão o tribunal de origem consignou que (fl. 43e):
+No caso, o agravante objetiva o restabelecimento de seu benefício de auxílio-doença, com posterior conversão em aposentadoria por invalidez. Como bem observou o d. presentante do Ministério Público, a última anotação na Carteira de Trabalho e Previdência Social (CTPS) do agravante, no ano de 2017, sua remuneração na profissão de soldador de chapas é de R$ 5,56 (cinco reais e cinquenta e seis centavos) por hora (Evento 1, CTPS7, Página 1). Dessa forma, verifica-se que a remuneração do agravante não se mostra suficiente para que arque com as despesas processuais,comprometendo, em princípio, a sua subsistência.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+PROCESSO CIVIL. RECURSO ESPECIAL. JUSTIÇA GRATUITA. REEXAME DA PROVA.
+A alteração da conclusão de que a parte faz jus ao benefício da gratuidade da justiça demandaria o revolvimento da prova, inviável no âmbito do recurso especial (STJ, Súmula nº 7).
+Agravo regimental desprovido.
+(AgRg no AREsp 230777/PR, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 20/08/2013, DJe 26/08/2013, destaque meu).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. SIMPLES ALEGAÇÃO. PRESUNÇÃO RELATIVA. ÔNUS DA PROVA. PARTE CONTRÁRIA. CONCLUSÃO DO TRIBUNAL A QUO. REEXAME. IMPOSSIBILIDADE. ÓBICE NA SÚMULA N. 7/STJ.
+1. Busca a recorrente o reconhecimento, por esta Corte Superior, de que a autora da presente ação não faz jus aos benefícios da assistência judiciária gratuita, e afirma haver colacionado provas de que esta possui condições de arcar com os custos do processo, desconsiderada pelo Tribunal de origem.
+2. Em se tratando de concessão da assistência judiciária gratuita, a jurisprudência do STJ determina que basta a simples afirmação da parte de que não possui condições de arcar com as custas do processo, sem prejuízo próprio e/ou de sua família, cabendo à parte contrária, por se tratar de presunção relativa, comprovar a inexistência ou cessação do alegado estado de pobreza.
+3. Em havendo o Tribunal de origem, com base na análise do acervo fático-probatório dos autos, entendido que o autor não poderia arcar com as custas processuais sem prejuízo do seu sustento ou de sua família, mostra-se inviável a sua revisão por esta Corte, pois infirmar tal entendimento ensejaria o reexame de provas, procedimento defeso, em sede de recurso especial, ante o óbice da Súmula n. 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no Ag 1345625/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/12/2010, DJe 08/02/2011, destaques meus).
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
