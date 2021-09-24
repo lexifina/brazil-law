@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por EDUARDO KLEIN FICHTNER,com amparo no art. 105, III, alínea"a", da CF/88, em oposição a acórdão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado(e-STJ, fl. 251):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. NULIDADE DA SENTENÇA. OMISSÃO. IMPROPRIEDADE DA VIA ELEITA. NULIDADE DO LAUDO PERICIAL. PRECLUSÃO. AUXÍLIO-DOENÇA. REQUISITOS. LAUDO TÉCNICO. AUSÊNCIA DE INCAPACIDADE.
+1. Eventuais omissões na sentença devem ser objeto de embargos de declaração. O recurso não deve ser conhecido no tópico em face da impropriedade da via eleita.
+2. Verifica-se a ocorrência da preclusão, quando da impugnação do laudo técnico a parte autora não alega a nulidade, limitando-se a apresentação de quesitos complementares.
+3. São quatro os requisitos para a concessão dos benefícios por incapacidade: (a) qualidade de segurado do requerente; (b) cumprimento da carência de 12 contribuições mensais; (c) superveniência de moléstia incapacitante para o desenvolvimento de qualquer atividade que garanta a subsistência; e (d) caráter definitivo/temporário da incapacidade.
+4. A incapacidade laboral é comprovada através de exame médico-pericial e o julgador, via de regra, firma sua convicção com base no laudo técnico. Embora o magistrado não esteja adstrito à perícia judicial, tratando-se de controvérsia cuja solução dependa de prova técnica, só poderá recusar a conclusão do laudo se houver motivo relevante, uma vez que o perito judicial se encontra em posição equidistante das partes, mostrando-se imparcial e com mais credibilidade.
+5. A ausência de incapacidade causa óbice à concessão dos benefícios de auxílio-doença e/ou de aposentadoria por invalidez.
+Os embargos de declaração opostosforam rejeitados (e-STJ, fls. 277-282).
+Alega a parte insurgente, nas razões do especial, a existência de violação dos arts. 489, § 1º, IV, 1022, II, do CPC.Nessa esteira, sustenta que o Tribunal de origem incorreu em omissão, porquanto deixou de tratar das teses apontadas nos embargos de declaração, mais precisamente quanto ao fundamentode que"o acórdão deixou de analisar a documentação médica acostada aos autos (evento 1 - ATESTMED12, ATESTMED13, ATESTMED14, ATESTMED15, ATESTMED16, ATESTMED17, evento 10 - LAUDO 2 e evento 37 - anexo 2, anexo 3, anexo 4 e anexo 5) que comprova a incapacidade laboral do autor" (e-STJ, fl. 295).
+A negativa de admissibilidade teve por fundamento a ausência de omissão a ser sanada.
+É o relatório.
+Impugnados os fundamentos da decisão agravada, passo à análise do recurso especial.
+Registro, desde logo, que não prospera a tese de afronta aos arts. 489, § 1º, IV, 1.022, II, do CPC, uma vez que o acórdão combatido fundamentou claramente seu posicionamento, consignando que (e-STJ, fl. 257):
+Da incapacidade.O benefício objeto da presente demanda (NB 31/625.177.387-5, DER: 11/10/2018 e DCB: 23/10/2018) foi cessado após a realização de perícia médica do INSS (Evento 9, LAUDO 1, Página 6).
+É cediço que em se tratando de benefício por incapacidade, o julgador firma a sua convicção, em regra, por meio da prova pericial. Embora o magistrado não esteja adstrito à perícia judicial, à literalidade do laudo técnico, sendo-lhe facultada ampla e livre avaliação da prova, não foram trazidos aos autos documentos médicos aptos a afastar as conclusões periciais, bem como a presunção de legitimidade do laudo pericial administrativo que concluíram pela capacidade para o trabalho.
+Observa-se que na data da realização da perícia (19/07/2019) e, portanto, antes da juntada do laudo técnico (29/10/2019) a perita do juízo solicitou a cópia do prontuário médico do autor, a fim de verificar a evolução do caso (Evento 33). No entanto, juntada pela parte autora no dia 12/08/2019 (Evento 37) é a mesma colacionada anteriormente nos eventos 1 e 10.
+A documentação médica trazida ao feito, portanto, é insuficiente para afastar as conclusões da perita do juízo, que se encontra em posição equidistante das partes, mostrando-se imparcial e com mais credibilidade.
+Destaca-se que a divergência quanto às conclusões do laudo, ainda que baseada em laudos médicos particulares, não implica, por si só, realização de nova perícia ou complementação do procedimento. O laudo técnico emitido, ainda que não convergente com as pretensões da parte autora, consegue concluir satisfatoriamente sobre a matéria discutida, bem como acerca dos quesitos formulados.
+Ademais, a existência de patologia ou lesão nem sempre significa incapacidade para o trabalho.
+Diante desse cenário, em que pese a argumentação deduzida no recurso da parte autora, não há como acolher a irresignação, uma vez que a ausência de incapacidade causa óbice à concessão dos benefícios de auxílio-doença e de aposentadoria por invalidez.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de a Corte de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura nenhumvício passível de exame em embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunala quoapreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.595.272/SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/6/2016, DJe 8/6/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INOCORRÊNCIA DA ALEGADA VIOLAÇÃO AOS ARTS. 535 E 458 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO REGIMENTAL DO ESTADO DO PARÁ A QUE SE NEGA PROVIMENTO.
+1. No caso, não há como acolher a alegada violação aos arts. 458, II e 535, II do CPC/73, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora Recorrente. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios.
+ ..
+3. Agravo Regimental do ESTADO DO PARÁ a que se nega provimento.
+(AgRg no AREsp 884.151/PA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/5/2016, DJe 13/6/2016).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
