@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, em que sãosuscitantes GENTLEMAN SEGURANÇA EIRELI - EM RECUPERAÇÃO JUDICIAL e GENTLEMAN SERVIÇOS EIRELI - EM RECUPERAÇÃO JUDICIAL, tendo como suscitados o JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE GOIÂNIA - GOe o JUÍZO DA 5ª VARA DO TRABALHO DE SÃO PAULO - SP.
+As suscitantes alegam que, em 4/6/2020, pleitearamjunto ao Juízo de Direito da 23ª Vara Cível de Goiânia - GO (processo nº 5260387-29.2020.8.09.0051) os benefícios da recuperação judicial, nos termos da Lei nº 11.101/2005, cujo processamento foi deferido em decisão datada de 10.6.2020, com a consequente suspensão das execuções individuais e do bloqueio e levantamento de valores.
+Narram que, a despeito de terem informado ao Juízo trabalhista acerca do deferimento do processamento de sua recuperação judicial, requerendo a suspensão da execução e a transferência dos valores depositados em juízo, foi determinado o redirecionamento da execução contra a Bayer S.A. e a Polar Transportes Rodoviários LTDA., tomadora dos serviços prestados.
+Defendem não ser possível, no caso de empresas em recuperação judicial, redirecionar a execução contra a tomadora de serviços, pois as devedoras subsidiárias poderãodescontar o valor da condenação da remuneração decorrente do contrato de prestação de serviços.
+Ressaltam que prestam serviço de escolta armada para a Bayer S.A. e que, por força de contrato, a tomadora dos serviços poderá descontar os valores que tiver de pagar às suscitantes. Diante disso, tendo em vista o que foi decidido na execução trabalhista, afirmam que podem ser compelidas a ter de pagar uma dívida que deveria estar incluída no plano de recuperação judicial.
+É o relatório.
+DECIDO.
+O conflito positivo de competência não está configurado.
+É firme a jurisprudência desta Corte no sentido de que não há conflito de competência quando a execução é dirigida contra empresa que não está em recuperação judicial e inexiste constrição de bens pertencentes à recuperanda.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO. ATOS DE CONSTRIÇÃO DOS BENS DA RECUPERANDA. INOCORRÊNCIA.
+1. "A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005" (REsp 1.333.349/SP, SEGUNDA SEÇÃO, DJe 02/02/2015).
+2. Na hipótese dos autos não se verifica qualquer ato constritivo praticado pelo juízo da execução que atente contra o patrimônio da sociedade em recuperação judicial.
+3. "O processamento de execução de título extrajudicial contra os devedores solidários da empresa em recuperação judicial, não invade a esfera de competência do juízo universal, por inexistir dois juízos distintos a decidir sobre o mesmo patrimônio" (AgInt no CC 160.984/PR, SEGUNDA SEÇÃO, DJe 23/04/2019).
+4. Agravo interno não provido.
+(AgInt nos EDcl no CC 168.181/RJ, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 16/6/2020, DJe 18/6/2020 - grifou-se)
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - JUÍZO UNIVERSAL E JUÍZO TRABALHISTA - RESPONSABILIZAÇÃO DE OUTRA EMPRESA DO GRUPO ECONÔMICO, SEM AFETAR O ACERVO PATRIMONIAL DA SOCIEDADE EM RECUPERAÇÃO/FALÊNCIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO INCIDENTE. INSURGÊNCIA DA SUSCITANTE.
+1. Não há conflito de competência quando o direcionamento da execução trabalhista atinge empresas do mesmo grupo econômico que não estão submetidas ao regime de recuperação judicial. 1.1. Precedentes: AgRg no CC 140.410/DF, Rel. Min. Maria Isabel Gallotti, DJe 01/10/2015; AgRg no CC 106.998/SP, desta Relatoria, DJe 05/11/2015; AgRg no CC 123.860/SP, Rel. Min. Paulo de Tarso Sanseverino, DJe 04/09/2013.
+2. Dirigida a execução de sentença trabalhista contra sociedade com personalidade jurídica distinta daquela que obteve o deferimento do pedido de processamento da recuperação não resta violado o juízo atrativo, sendo de rigor a manutenção da demanda naquela justiça especializada trabalhista, ensejando-se, por conseguinte, o não conhecimento do presente conflito de competência, ante a expressa redação do art. 66 do NCPC/2015.
+Precedentes da Segunda Seção.
+3. Agravo interno desprovido".
+(AgInt no CC 157.835/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 22/5/2019, DJe 30/5/2019 - grifou-se)
+Nessa mesma linha, aSegunda Seção desta Corte Superior, em 22/9/2021, analisou semelhante controvérsia a do autos, inclusive envolvendo as mesmas partes, e concluiu pela inexistência de conflito de competência.Por oportuno, transcreve-se a ementa do referido julgado(CC nº 182.947-GO), ainda pendente de publicação:
+"CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PRESTAÇÃO DE SERVIÇOS. REDIRECIONAMENTO. TOMADORA. RESPONSÁVEL SUBSIDIÁRIA. DEPÓSITOS RECURSAIS. LEVANTAMENTO.
+1. Cinge-se a controvérsia a definir se está configurado o conflito positivo de competência na espécie e, sendo esse o caso, qual o juízo competente para decidir acerca dos depósitos recursais e o redirecionamento da execução contra a devedora subsidiária (tomadora de serviços).
+2. Os depósitos recursais foram levantados antes de o conflito de competência ter sido suscitado, carecendo, no ponto, de objeto.
+3. A caracterização do conflito de competência pressupõe que a parte suscitante demonstre a existência de divergência concreta e atual entre diferentes juízos, que se entendem competentes ou incompetentes para analisar determinada causa.
+4. Na hipótese, as suscitantes buscam se utilizar do conflito de competência para dirimir uma questão futura, consubstanciada na eventual retenção de valores pela tomadora dos serviços por força da condenação no processo trabalhista.
+5. É firme a jurisprudência desta Corte no sentido de que não há conflito de competência quando a execução é dirigida contra empresa que não está em recuperação judicial e inexiste constrição de bens pertencentes à recuperanda. Precedentes.
+6. No caso concreto, a execução foi direcionada somente contra a tomadora dos serviços, responsável subsidiária, sem que tenha havido a constrição de bens pertencentes à recuperanda, prestadora dos serviços.
+7. Conflito de competência não conhecido".
+Ademais, cumpre ressaltar queas suscitantes buscam se utilizar do conflito de competência para dirimir uma questão futura, consubstanciada na eventual retenção de valores pela tomadora dos serviços por força da condenação no processo trabalhista. Todavia,o conflito de competência somente está configurado quando existe decisão atual de (2) dois ou mais juízes se julgando competentes ou incompetentes, nos termo doart.66 do CPC/2015.
+Assim, o que verifica dos autos, é que a pretensão deduzida não versa acerca da competência do Juízo da recuperação para julgar a causa ou afastar a expropriação de bens da sociedade em soerguimento por juízo diverso, mas, sim, a respeito da possível diminuição futura dos valores que a recuperanda receberia em vista de contrato de prestação de serviços, solução que não pode ser alcançada em conflito de competência.
+Ante o exposto, não conheço do conflito.
+Publique-se.
+Intimem-se.
