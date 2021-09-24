@@ -1,0 +1,53 @@
+DECISÃO: Trata-se de dois recursos extraordinários com agravo interpostos por COMPANHIA IMOBILIARIA DE BRASILIA TERRACAP e por DISTRITO FEDERAL contra decisão de inadmissão dos recursos interpostos contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS.
+    Os apelos extremos foram interpostos com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    ADMINISTRATIVO. APELAÇÃO CÍVEL. EDIFICAÇÃO EM ÁREA PÚBLICA. DEMOLIÇÃO. CONSTRUÇÃO POR LONGO PERÍODO. RELATIVIZAÇÃO DO PODER DE POLÍCIA. COBRANÇA DE IPTU/TLP. LEGALIDADE.
+    1. Mostra-se viável impedir a demolição de construção em área pública ou particular sem alvará para construção quando se trata de posse antiga, amparada pela demora desidiosa do Estado, em local onde houve a construção de um largo condomínio.
+    2. Incumbe ao ente público propor ação judicial cabível para reaver o bem a fim de possibilitar o contraditório e a ampla defesa.
+    3. É cabível a relativização do poder de polícia, embora reconhecido amplamente pelo Poder Judiciário, em respaldo à justiça social e à construção de uma sociedade mais justa e solidária, que visa erradicar a pobreza e a marginalização, bem como reduzir as desigualdades sociais e regionais, segundo os objetivos e variados princípios da Carta Magna.
+    4. É pacífico o entendimento da jurisprudência quanto à cobrança de IPTU/TLP em condomínio irregulares, sendo sujeito passivo da cobrança o condomínio ou o detentor da posse da unidade loteada.
+    5. Recurso parcialmente provido.
+    Opostos os embargos de declaração por DISTRITO FEDERAL e por COMPANHIA IMOBILIARIA DE BRASILIA TERRACAP, foram rejeitados.
+    No recurso extraordinário de DISTRITO FEDERAL sustenta-se violação dos arts. 5º, inciso XIII; 6º; 97; 182 e 225, da Constituição Federal.
+    Quanto ao recurso extraordinário de COMPANHIA IMOBILIARIA DE BRASILIA TERRACAP sustenta-se violação dos arts. 2°; 5°, inciso XXIII; 6°; 97; 182 e 225, da Constituição Federal.
+    Decido.
+    Quanto à insurgência de DISTRITO FEDERAL e de COMPANHIA IMOBILIARIA DE BRASILIA TERRACAP, não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal a quo não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do artigo 97 da Constituição Federal, mas apenas interpretou norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+    II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+    III - Agravo regimental a que se nega provimento.”(ARE 784.179-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 17/2/2014)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+    Ausência de argumentos capazes de infirmar a decisão agravada.
+    Agravo regimental a que se nega provimento.”(ARE 767.313-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 26/3/2015)
+    Além disso, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Nos termos do relatório, a controvérsia recursal refere-se a pedido de concessão do alvará de construção e declaração de inexigibilidade tributária com relação ao pagamento das taxas de IPTU/TLP dos lotes localizados no Condomínio Prive Lago Norte II.
+    Narram os autores ocuparem área particular por mais de 22 anos e que, mesmo assim, a Administração Pública não realizou o parcelamento do terreno ocupado, tampouco urbanizou a área de forma devida e vem cobrando o pagamento das taxas de IPTU/TLP dos lotes localizados no Condomínio Privê Lago Norte II.
+    Já proferi entendimento no sentido de que as obras apenas poderão ter início após a obtenção do alvará, não considerando ilegal a intimação demolitória. Entretanto, há um viés que precisa ser observado: a ocupação por cerca de 22 anos.
+    Observa-se, portanto, ter sido criado um complexo setor habitacional no local, sobretudo com a anuência desidiosa do Estado. Não pode agora o poder público se valer da precária alegação de ausência de alvará para demolir a residência, quando, por outro lado, permitiu por longo período a construção de um largo condomínio.
+    A meu ver, no caso em questão, deve prevalecer a dignidade da pessoa humana e o direito à moradia, em detrimento do Código de Edificações. Realço que o direito à moradia, plasmado no artigo 6°, caput, da Carta de Outubro, foi erigido à estirpe de direito social, verbis:
+    Art. 6° - São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (destacamos)
+    [...]
+    Ademais, compete à Terracap a retomada da área pelas vias legais. Não poderia, contudo, utilizar-se do órgão responsável pela fiscalização das obras no Distrito Federal- Agefis para retomar a terra sem os percalços de uma ação adequada.
+    Ressalto que, mesmo o exercício do poder de polícia, reconhecido amplamente pelo Poder Judiciário como um atuar discricionário da administração pública, não é absoluto, eis que deixou de ser praticado temporariamente, em alvedrio do decurso de um longo período. Assim, a manutenção dos autores no local é medida que se impõe, em homenagem a valores constitucionais que versam sobre a justiça social e a construção de uma sociedade mais justa e solidária, que visa erradicar a pobreza e a marginalização, bem como reduzir as desigualdades sociais e regionais.
+    [...]
+    Quanto ao pedido de declaração de inexigibilidade tributária com relação ao pagamento das taxas de IPTU/TLP dos lotes localizados no Condomínio Prive Lago Norte II, o Código Tributário Nacional assim dispõe:
+    Art. 32: O imposto, de competência dos Municípios, sobre a propriedade predial e territorial urbana tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou por acessão física, como definido na lei civil, localizado na zona urbana do Município.
+    Art. 34: O contribuinte é o proprietário do imóvel, o titular do seu domínio útil, ou o seu possuidor a qualquer título.
+    Dos dispositivos acima transcritos, verifica-se ser fato gerador do imposto, a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou acessão física.
+    Nota-se, portanto, que a situação irregular do condomínio e o fato de não serem os autores proprietários dos imóveis não obstam a cobrança do tributo, pois, pacífico o entendimento da jurisprudência quanto a cobrança do IPTU/TLP em condomínios irregulares, sendo sujeito passivo da cobrança o condomínio ou o detentor da posse da unidade loteada.
+    [...]
+    Por tais fundamentos, DOU PARCIAL PROVIMENTO ao recurso para, julgando parcialmente procedente o pedido, determinar que o poder público se abstenha de qualquer ato de demolição do imóvel objeto da discussão, devendo propor a ação que entender adequada para reaver o bem imóvel, a fim de oportunizar o contraditório e ampla defesa aos autores.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Ex positis, nego seguimento aos recursos (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 24 de setembro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
