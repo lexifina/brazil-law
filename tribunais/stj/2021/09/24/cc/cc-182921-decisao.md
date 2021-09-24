@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, suscitado por TRANSBRASILIANA TRANSPORTES E TURISMO LTDA. - EM RECUPERAÇÃO JUDICIAL, tendo como suscitados o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DA COMARCA DE GOIÂNIA/GOe o JUÍZO DA 1ª VARA CÍVEL DA COMARCA DE MARÍLIA/SP.
+Alega a suscitante que apresentou pedido de recuperação judicial em 31/3/2016, livremente distribuído ao Juízo da 4ª Vara Cível da Comarca de Goiânia (Processo nº113673-46.2016.8.09.0175), tendo sido deferida a recuperação no dia 5/4/2016, e que,por fazer parte do mesmo grupo econômico, também foi deferida a inclusão da empresa Transbrasiliana Encomendas e Cargas Ltda. por decisão proferida no dia9/6/2016.
+Ressalta, ainda, que, em decisão proferida peloJuízo da 1ª Vara Cível da Comarca de Marília/SP nos autos do Cumprimento de Sentença nº0000576-96.2021.8.26.0344, foi determinada a avaliação e penhora de bens pertencentes à empresa recuperanda, essenciais à continuidade das suas atividades.
+Defende, ao final, a competência do juízo recuperacional para decidir sobre o pagamento de créditos sujeitos aos efeitos da recuperação, isto é, dos créditos existentes antes da recuperação judicial, bem como dos créditos extraconcursais, pelo que requera concessão de liminar para que seja determinada asuspensãodos atos executórios determinados por juízoincompetente.
+É o relatório.
+DECIDO.
+A liminar deve ser concedida.
+O Superior Tribunal de Justiça já decidiu que compete ao juízo onde se processa a recuperação judicial acompanhar e autorizar a excussão de bens da empresa em recuperação, ainda que destinados à satisfação de créditos extraconcursais.
+Com efeito, é firme o entendimento desta Corte Superior de que
+"(..) até mesmo os créditos extraconcursais, apesar de não se submeterem ao plano recuperacional, sujeitam-se ao juízo universal de modo a evitar que ocorra a expropriação de bens essenciais à continuidade das atividades da empresa em soerguimento" (AgInt no CC nº 171.765/PR, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 9/12/2020, DJe 11/12/2020 - grifou-se).
+Nesse mesmo sentido:
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUSTIÇA LABORAL. ATOS EXECUTÓRIOS. COMPETÊNCIA DO JUÍZO UNIVERSAL. ART. 76 DA LEI N. 11.101/2005. AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos individuais e fiscais promovidos contra empresas em recuperação judicial, devem ser autorizados ou realizados pelo Juízo do soerguimento até o trânsito em julgado da sentença que encerra a recuperação judicial.
+2. A razão de ser da supremacia dessa regra de competência é a concentração, no Juízo da recuperação judicial, de todas as decisões que envolvam o patrimônio da recuperanda, inclusive os valores objeto de constrição no juízo trabalhista, ainda que posteriores à recuperação ou mesmo os créditos extraconcursais, a fim de não comprometer a tentativa de mantê-la em funcionamento.
+3. Agravo interno não provido." (AgInt no CC 175.296/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 30/3/2021, DJe 7/4/2021).
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO, PELO JUÍZO TRABALHISTA, DE CRÉDITOS INTEGRANTES DO PATRIMÔNIO DA EMPRESA. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da pacífica jurisprudência desta Corte Superior, compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Ultrapassada, no entanto, a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento.
+2. Em relação aos créditos extraconcursais, deve ser garantido o direito de preferência do crédito nascido após o pedido de recuperação e, ao mesmo tempo, direcionar o pagamento desses créditos ao Juízo recuperacional que, ciente da não submissão dos referidos valores à recuperação judicial, deverá sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição, bem como a solidez do fluxo de caixa da empresa em recuperação. Precedentes.
+3. Na hipótese, a sociedade Nova Aralco Indústria e Comércio S/A foi constituída no bojo da recuperação do Grupo Aralco com a finalidade expressa e exclusiva de fazer cumprir as obrigações contidas no plano de recuperação judicial, tratando-se, portanto, de um ativo abrangido pelo respectivo plano, o que afasta a incidência da Súmula 480/STJ.
+4. Agravo interno desprovido." (AgInt no CC 160.445/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 3/9/2019, DJe 11/9/2019).
+"CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. ADIANTAMENTO DE CONTRATO DE CÂMBIO. GARANTIA HIPOTECÁRIA. EMPRESÁRIOS INDIVIDUAIS EM RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. ATOS EXPROPRIATÓRIOS.
+1. A controvérsia gira em torno de definir o juízo competente para promover os atos expropriatórios decorrentes de garantia hipotecária prestada por empresário individual em recuperação judicial em contrato de adiantamento de câmbio.
+2. O empresário individual é a pessoa física que exerce atividade empresária em seu próprio nome, respondendo com seu patrimônio pessoal pelos riscos da atividade.
+3. O adiantamento de contrato de câmbio não se submete à recuperação judicial, situação que a princípio se estende ao garante, pois a natureza do crédito garantido é a mesma.
+4. A jurisprudência desta Corte se inclina no sentido de que o Juízo da recuperação judicial deve acompanhar os atos expropriatórios, de modo a preservar tanto o direito creditório quanto a viabilidade do plano, mesmo nas hipóteses de créditos extraconcursais.
+5. Conflito de competência conhecido para declarar a competência do Juízo da recuperação judicial." (CC 155.390/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 28/11/2018, DJe 5/12/2018).
+Nesse contexto, afigura-se necessária a suspensão dos atos de constrição determinados nos autos doCumprimento de Sentença nº 0000576-96.2021.8.26.0344, que tramita no Juízo da 1ª Vara Cível da Comarca de Marília/SP.
+Designo o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DA COMARCA DE GOIÂNIA/GO para resolver,em caráter provisório, as medidas urgentes, até ulterior deliberação nopresente conflito.
+Oficiem-se ao Juízos suscitados, com urgência, comunicando o deferimento do pedido liminar esolicitando informações, no prazo de 10 (dez) dias (art.197 do RISTJ).
+Ademais, detalhe o Juízo da recuperação o estágio atual do procedimento e se adevedora vem atendendo a todos os comandos no sentido de cumprir o planoapresentado.
+Após, abra-se vista ao Ministério Público Federal para parecer (art. 198do RISTJ).
+Publique-se.
+Intimem-se.
