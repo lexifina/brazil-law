@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIANTE PARTICIPAÇÕES LTDA. contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a"e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. Instrumento particular de distrato social, dissolução de grupo econômico e sociedades empresárias limitada e outras avenças. Improcedência em primeiro grau. NULIDADE DE CITAÇÃO. Inocorrência. Divergência entre o teor do mandado e aquele da determinação proferida. Mera irregularidade suprida. Apresentação com o mandado de inteiro teor da decisão. Apresentação tempestiva de defesa pelos executados. Descumprimento contratual. Inadmissibilidade. Prova documental e pericial que atestaram o cumprimento das obrigações assumidas pelos embargados. Iliquidez do título. Inocorrência. Obrigações das partes que foram previamente definidas no contrato, cujo valor e eventual inadimplemento foram apurados em perícia. Sentença mantida. RECURSO NÃO PROVIDO" (e-STJ fl. 738).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente, além de divergência jurisprudencial, aponta violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022, III, do Código de Processo Civil de 2015 -ao fundamento de que o acórdão combatido incorreu em erro material, e
+(ii) art. 783 do Código de Processo Civil de 2015 - haja vista a iliquidez do título executivo.
+Requer-se a concessão de efeito suspensivo.
+Com as contrarrazões, o recurso especial não foi admitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar no tocante à alegada negativa de prestação jurisdicional (artigo 1.022, inciso III, do CPC/2015).
+Trata-se, na origem, de embargos à execução de título extrajudicial, julgado improcedentes.
+O acórdão local negou provimento à apelação, assim se pronunciando quanto aovalor devido:
+"(..)
+Apresentado o laudo pericial, o experto, após analisar as razões e contrarrazões recursais e todos os documentos apresentados pelas partes e assistentes técnicos, concluiu:
+"Considerando que a Embargante Luciante nada apresentou que comprove a liquidação dos valores acima demonstrados, que totalizam R$ 1.619.724,25 (um milhão seiscentos e dezenove mil setecentos e vinte e quatro reais e vinte e cinco centavos), conclui-se que se trata de valor pendente de pagamento junto aos Embargados Carlos." (fls.511)
+Como complemento ao trabalho, o experto concluiu:
+".., no laudo não há indicação sobre as obrigações assumidas pelos apelados, haja vista os Apelados as terem cumprido, no entanto, para que não haja dúvidas com relação ao cumprimento dessas obrigações, transcrevemos parte da cláusula segunda do "INSTRUMENTO PARTICULAR DE DISTRATO SOCIAL, DISSOLUÇÃO DE GRUPO ECONÔMICO E SOCIEDADESEMPRESÁRIAS LIMITADA E OUTRAS AVENÇAS", onde consta  obrigações assumidas após o fim da sociedade : "Cláusula Segunda.. Os "ACIONISTAS "CARLOS e SIEGFRIED se comprometem a liquidar saldo "a pagar" em toras na serraria de Alta Floresta, no valor de R$ 293.165,50.
+ ..
+Comprovando o cumprimento da obrigação acima mencionada (quesito nº12) a perícia junta o anexo VI desta manifestação, contendo "Declaração de Cumprimento de Obrigação" referente a entrega das toras pelos Apelados." (fls.645)
+Assim, forçoso é reconhecer que a embargante não cumpriu sua parte na avença, sendo devedora da quantia indicada pelos embargados e confirmada no laudo pericial" (e-STJ fls. 743/744).
+Compulsando os autos, verifica-se que, não obstante a oposição de declaratórios requerendo manifestação acerca do erro material no valor devido, o tribunal de origem quedou-se silente.
+Destaca-se que, conforme asseverado nas razões recursais, inicialmente o perito indicou o valor de R$ 1.619.724,25 (e-STJ fls. 483/511). No entanto, realizada complementação do laudo, o profissional entendeu que dessa quantia deveria ser abatido o montante de R$ 449.033,10, perfazendo o total de R$ 1.170.691,15 (e-STJ fls. 642/646).
+O não enfrentamento pela Corte de origem de questões ventiladas nos embargos de declaração e imprescindíveis à solução do litígio implica violação do artigo 1.022 do Código de Processo Civil de 2015, tendo em vista que a interpretação equivocada da sentença liquidanda pode dar ensejo à violação da coisa julgada.
+Além disso, não é possível nesta instância especial a interpretação dos termos constantes do laudo pericial, motivo pelo qual a base fática deve estar bem delineada e livre de equívocos para a devida prestação jurisdicional.
+Tanto é assim que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, a despeito da oposição de aclaratórios, trate de tema não analisado pela instância de origem, porquanto ausente o requisito do prequestionamento.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. REGIME DE CUSTEIO. DIVISÃO DE CATEGORIAS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADAS. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. No caso, foi constatado que houve prestação jurisdicional incompleta no que concerne a legalidade da mudança da forma de contribuição para o novo modelo por faixa-etária e a inexistência de discriminação ao ex-empregado aposentado, por se tratar de plano único.
+4. Por ora, apesar da manifesta inadmissibilidade deste recurso, e da anterior advertência em relação à aplicação do NCPC, deixo de aplicar a multa prevista no art. 1.021, § 4º, do NCPC.
+5. Agravo interno não provido"(AgInt nos EDcl no AgInt no REsp 1.728.492/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/09/2019, DJe 13/09/2019).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO. PREVALÊNCIA DA INTIMAÇÃO ELETRÔNICA SOBRE A PUBLICAÇÃO NO DJE. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RESOLUÇÃO DE CONTRATO DE PARCERIA ENTRE ADVOGADOS. DIVISÃO DE HONORÁRIOS. CERCEAMENTO DE DEFESA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. DANOS MORAIS E MATERIAIS. OMISSÃO CONFIGURADA. ART. 1.022, II, DO CPC/2015. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO.
+1. A Quarta Turma desta Corte, no julgamento do AREsp 1.330.052/RJ, decidiu pela prevalência da intimação eletrônica sobre a publicação no Diário de Justiça. Agravo interno provido para afastar a intempestividade.
+2. Quanto à alegação de cerceamento de defesa, verifica-se a ausência de impugnação de fundamento autônomo e suficiente à manutenção do acórdão recorrido, circunstância que atrai o óbice da Súmula 283/STF.
+3. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (art. 1.022, II, do CPC/2015), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do recurso especial e dar-lhe parcial provimento, a fim de que a Corte de origem se manifeste sobre pontos omissos"(AgInt nos EDcl no AREsp 1.343.785/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/06/2019, DJe 28/06/2019).
+"PROCESSO CIVIL EMBARGOS DE DECLARAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO ACÓRDÃO.
+1. Os embargos de declaração, de regra, não autorizam a reapreciação do quanto decidido, porém nada impede que, constatada a existência de omissão, o seu suprimento implique modificação no resultado do julgamento. Precedentes.
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal Estadual, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do CPC, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Recurso especial provido"(REsp 1.091.966/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/02/2011, DJe 14/02/2011).
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial, determinando a devolução dos autos ao Tribunal de origem para que realize novo julgamento dos embargos de declaração de fls. 799/803 (e-STJ), nos termos da fundamentação acima.
+Publique-se.
+Intimem-se.
