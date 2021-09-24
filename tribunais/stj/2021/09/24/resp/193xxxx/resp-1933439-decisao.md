@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especialmanejado peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSScontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado(e-STJ, fls. 338/341):
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. TEMA 709 STF. AFASTAMENTO DA ATIVIDADE NOCIVA.
+Tendo em conta o recente julgamento do Tema nº 709 pelo STF, reconhecendo a constitucionalidade da regra inserta no § 8º do artigo 57 da Lei nº 8.213/91, o beneficiário da aposentadoria especial não pode continuar no exercício da atividade nociva ou a ela retornar, seja esta atividade aquela que ensejou a aposentação precoce ou não. Implantado o benefício, seja na via administrativa, seja na judicial, o retorno voluntário ao trabalho nocivo ou a sua continuidade implicará na sua imediata suspensão.
+É o relatório.
+A questão jurídica referente à possibilidade de majoração dos honorários advocatícios, em desfavor do INSS, considerando o parcial provimento do apelo da autarquia, foi submetida ao regime dos precedentes qualificados vinculantes pelo Superior Tribunal de Justiça nos seguintes termos:
+Tema1059/STJ: Possibilidade de majoração, em grau recursal, da verba honorária fixada em primeira instância contra o INSS quando o recurso da entidade previdenciária for provido em parte ou quando o Tribunal nega o recurso do INSS, mas altera de ofício a sentença apenas em relação aos consectários da condenação.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/15, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
