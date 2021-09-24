@@ -1,0 +1,14 @@
+DECISÃO
+PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015. AGRAVO DE INSTRUMENTO. CONTRADIÇÃO ENTRE A FUNDAMENTAÇÃO E A CONCLUSÃO DO JULGADO COM REPERCUSSÃO NA VERBA HONORÁRIA.OMISSÃO CONFIGURADA.DEVOLUÇÃO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL DOS SERVIDORESPROVIDO.
+1. Trata-se de Recurso Especial interposto por PAULO CARMO BEOLCHIE OUTROS com fundamento naalíneaado art. 105, III, da Constituição Federal, objetivando a reforma do acórdão do TJSP, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA . Aplicação do decidido em sede de Repercussão Geral (Tema nº 810), pelo Plenário do E. STF, no RE nº 870.947/ SE. Parcial reforma da r. decisão agravada para integral aplicação do entendimento preconizado pelo E. STF. Recurso conhecido e não provido.
+2. Opostos Embargos de Declaração, foram rejeitados (fls. 33/34.
+3. Em seu Apelo Especial, sustenta a parte recorrente, em síntese, que houve violação ao artigo 1.022, I, do CPC/2015, sob o seguinte argumento: "Considerando que a observância ao referido paradigma de repercussão geral - Tema 810 - STF coincide com o que foi pleiteado em sede de agravo de instrumento, pautando-se na própria fundamentação expendida no acórdão quanto à eficácia e a aplicabilidade imediata do Tema 810, o agravo manejado pelos ora Recorrentes deveria ter sido provido, os ônus sucumbenciais fixados em primeiro grau deveriam ter sido invertidos e o arbitramento de honorários recursais deveriam ocorrer em favor dos ora Embargantes (fls. 27).
+4. Semcontrarrazões, o recurso foi admitido às fls. 39/40.
+5. É o relatório.
+6. A irresignação merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. A pretensão recursal merece acolhida pelo art. 1.022 do CPC/2015, pois a parte recorrente, nas razões dos Embargos de Declaração e do Recurso Especial, insistiu na tese de que houve uma contradição no julgado entre a fundamentação e a conclusão do julgado a quo, o que levaria ao provimento do seu agravo de instrumento com repercussão nos ônus sucumbenciais.
+9. Contudo, o Tribunal de origem quedou silente sobre talargumentação, rejeitando os pertinentes aclaratórios da parte recorrente, em franca violação ao art. 1.022 do CPC/2015, porquanto não prestada a jurisdição de forma integral.
+10. Ante o exposto, dá-se provimento ao Recurso Especial dos servidores, determinando o retorno dos autos à Corte de origem, para que, em novo julgamento, manifeste-se sobre as questões jurídicas trazidas nos Embargos de Declaração de fls. 30/31, como entender de direito.
+11. Publique-se. Intimações necessárias.
