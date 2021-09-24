@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de FILIPE RAMOS AZEVEDOcontra acórdão do Tribunal de Justiça do Estado do Rio de Janeiroproferido nos autos da APCn.0024559-10.2015.8.19.0028.
+Consta dos autos que o paciente foi condenado por violação do artigo121, §2º, IV, do Código Penal, na pena de 11 anos, 10 meses e 15 dias de reclusão, em regime inicialmente fechado.
+Irresignada, a defesa interpôs apelação, o qual teve a ordem denegada, nos termos do acórdão de fls. 37/52.
+No presente mandamus, a defesa sustenta, em síntese, que o constituibis in idem a utilização de idênticos fundamentos, na primeira e na terceira fase da dosimetria penal, com o intuito de exasperar a pena-base e afastar, ou até mesmo modular ao mínimo legal, a fração de diminuição relativa à modalidade privilegiada do delito.
+Requer, em liminar e no mérito, o redimensionamento da pena do paciente.
+Não houve pedido de medida liminar
+Parecer ministerial de fls. 62/64 pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+O acórdão recorrido desproveu o recursomediante a seguinte fundamentação:
+"Por igual, não merece prosperar, o pedido de redução da pena-base.
+Ao fixá-la acima do mínimo legal, a Sentença fundamentou:
+"(..)
+Na primeira fase, considerando as circunstâncias previstas no art. 59 do Código Penal, verifico que a culpabilidade do réu deve ser valorada negativamente. Isso porque, conforme laudo de exame de corpo de delito de necropsia (indexadores 000133/000137), a vítima foi atingida por onze disparos de arma de fogo, a grande parte deles disparados em sua cabeça, região vital. Tal característica se assemelha a uma execução e, por óbvio, o executordeve ser responsabilizado de forma mais contundente daquele que efetua um único disparo contra a vítima.
+O acusado não ostenta maus antecedentes. Não disponho de conhecimentos técnicos em psicologia para que me permitam afirmar negativamente sua personalidade. Quanto à conduta social do acusado, da mesma forma, não há elementos para que seja possível sua valoração. A motivação e as consequências do crime não devem ser valoradas negativamente.
+As circunstâncias do crime, cometido mediante recurso que dificultou a defesa da vítima, foram submetidas a julgamento do Conselho de Sentença, servindo para o enquadramento da conduta no tipo qualificado.
+O comportamento da vítima em nada contribuiu para a prática do delito.
+Assim, tendo emconta a existência de uma circunstância judicial desfavorável, elevo a pena na fração de 1/8 (um oitavo) a partir do intervalo da pena em abstrato, e fixo a pena-base em 14 (quatorze) anos e 03 (três) meses de reclusão.." (Doc. 001250).
+Nesse ponto, é uníssona a jurisprudência das Cortes Superiores no sentido de que, a ponderação das circunstâncias judiciais não é uma operação aritmética, que confere pesos absolutos a cada moduladora, mas, sim, o exercício do arbítrio do Julgador, limitado às disposições legais e às balizas da pena abstratamente cominada ao tipo legal infringido, e aos Princípios constitucionais e critérios da razoabilidade e da proporcionalidade.
+O quantum da reprimenda basilar não pode ser modificado, senão quando desbordar dos critérios de razoabilidade e proporcionalidade que norteiam todo o processo de fixação da pena.
+No caso, a sentença mostrou-se suficientemente baseada em dados existentes nos autos, desfavoráveis ao recorrente, o que justifica plenamente o estabelecimento da pena-base no patamar fixado pela digna Juíza singular.
+Da mesma forma, não comporta acolhimento, o pedido defensivo de aumento da fração pela causa de diminuição do artigo 121, §1º, do Código Penal.
+Assim constou da Sentença:
+"(..)Na terceira fase, observo que o E. Conselho de Sentença reconheceu que o denunciado agiu sob domínio de violenta emoção, logo em seguida a injusta provocação da vítima. Portanto, tendo em conta o contexto das agressões praticadas pela vítima contra o réu (um disparo de arma de fogo) e a reação do acusado em decorrência deste ato (onze disparos de arma de fogo), com base no disposto no §1º do art. 121 do CP, reduzo a reprimenda em 1/6 (UM SEXTO), alcançando o patamar definitivo de 11 (ONZE) ANOS, 10 (DEZ) MESES E 15 (QUINZE) DIAS DE RECLUSÃO.." (Doc. 001250).
+Como se vê, a sentença encontra-se devidamente fundamentada e, mesmo que assim não fosse, não mais se discute em nossa doutrina e jurisprudência, que decisão suscinta é diferente daquela sem qualquer fundamentação, tratando-se, na hipótese, de decisão que se mostrou suficientemente baseada em dados existentes nos autos."
+Como visto, não se discutiu a tese relativa a ocorrência de bis in idem na primeira e na terceira fases da dosimetria da pena.Assim, como bem destacado pelo Ministério Público Federal da lavra do douto Subprocurador-Geral da RepúblicaONOFRE DE FARIA MARTINS, às fls. 62/64, inviável a manifestação desta Corte Superior acerca do tema, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO INTERPOSTO CONTRA DECISÃO QUE NEGOU SEGUIMENTO AO WRIT IMPETRADO. NULIDADE NA INSTRUÇÃO PROBATÓRIA. PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA. VIOLAÇÃO. INOCORRÊNCIA. QUESTÃO NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+I - O Plenário do Supremo Tribunal Federal, por maioria de votos, entendeu que a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal (STF, HC n. 126.292, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, DJe 17/05/2016). Tese confirmada pelo Pleno do Pretório Excelso, em sede de Ação Declaratória de Constitucionalidade (ADCs nºs. 43 e 44), na sessão do dia 5/10/2016. Precedentes.
+II - Na espécie, o julgamento do recurso de apelação foi tomado por maioria, tendo sido opostos e rejeitados os embargos infringentes, restando-se pendente, todavia, os Embargos de Declaração, que sequer foram pautados na e. Corte de origem, desse modo, diante da ausência de exaurimento no julgamento nas instâncias ordinárias, qualquer análise por esta Corte Superior, poderia ensejar a indevida supressão de instância.
+Agravo Regimental desprovido."(AgRg no HC 441.091/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 13/4/2018).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO AO TRÁFICO. NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. SUPRESSÃO DE INSTÂNCIA. RECURSO PRÓPRIO PENDENTE. PRISÃO PREVENTIVA. CÓPIA DO DECRETO CONDENATÓRIO NÃO APRESENTADA. DEFICIÊNCIA DA INSTRUÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se discute que, no caso, a análise das questões relativas à nulidades das interceptações telefônicas poderá ocasionar reflexos imediatos na liberdade de locomoção do acusado. Contudo, embora seja passível a análise, em habeas corpus, de tal matéria, mostram-se razoáveis as ponderações feitas pela Corte de origem, de que a apreciação dessas questões implica considerações que, em razão da sua amplitude, merecem ser mais bem examinadas em recurso próprio, já interposto.
+2. A defesa não instruiu o pedido com cópia do ato decisório que decretou a prisão, de modo que persiste a impossibilidade de exame do constrangimento ilegal suscitado.
+3. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e, dada sua natureza urgente, exige prova pré-constituída das alegações. Não admite, portanto, dilação probatória.
+4. Agravo regimental não provido."(AgRg no HC 611.378/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 30/9/2020).
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, não conheço dohabeas corpus.
+Publique-se. Intime-se.
