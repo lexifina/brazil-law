@@ -1,0 +1,23 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Resistência e lesão corporal. Substituição de pena. Regime inicial. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 694.169, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que a paciente foi condenada, em primeira instância, pela prática do crime previsto no art. 329, caput, e art. 129, § 12, na forma do art. 69, todos do Código Penal, à pena de 11 meses e 16 dias de detenção, em regime inicial semiaberto.
+    3. O Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso de apelação defensivo para reduzir as penas ao patamar de 5 meses e 12 dias de detenção, para o delito de lesão corporal, e 2 meses e 21 dias de detenção, quanto ao delito de resistência.
+    4. Ainda irresignada, a defesa impetrou habeas corpus no STJ (nº 694.169). O Relator, Min. Joel Ilan Paciornik, indeferiu liminarmente o writ.
+    5. Neste habeas corpus, a parte impetrante sustenta, em síntese, ser “perfeitamente ao caso concreto a substituição da pena corpórea pela pena restritiva de direitos”. Em tese subsidiária, aponta a possibilidade de fixação do regime aberto para início de cumprimento de pena, “em vista de ser o regime menos gravoso e o mais proporcional a pena imposta a paciente, já de que essa é uma mulher lactante”.
+    6. Daí o pedido de concessão da ordem, “com a substituição da pena privativa de liberdade por restritiva de direitos ou o cumprimento inicial da pena no regime aberto por se tratar do mais proporcional a sua pena de 08 (oito) meses e 02 (dois) dias”.
+    7. Decido.
+    8. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    9. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito discutida na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    10. Não é o caso de concessão da ordem de ofício.
+    11. A petição inicial do habeas corpus não foi instruída com cópia da sentença condenatória. Fato esse que atrai a orientação jurisprudencial do STF no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    12. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento da pretensão defensiva. Tal como assentou a autoridade impetrada, “considerando que a paciente é reincidente, e que foi condenada por crimes praticados com violência, o regime adequado à hipótese é mesmo o semiaberto, uma vez que houve fundamentação idônea a lastrear a aplicação do regime mais gravoso, conforme expressa previsão legal do art. 44, I e 33, § 2º, ambos do Código Penal”.
+    13. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 25 de setembro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
