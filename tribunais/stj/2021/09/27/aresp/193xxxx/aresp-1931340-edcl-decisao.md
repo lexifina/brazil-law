@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CELSO LORDELLO DUARTE, à decisão de fls. 397/398, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Considerando que a decisão recorrida (acórdão de fls. 251-257) fora publicada 22 de julho de 2020, com a interposição de Pedido de Reconsideração por Justo Motivo, rejeitados mediante decisão publicada em 19 de agosto de 2020, tem-se que o prazo final para interposição do presente recurso era 10 de setembro de 2020.
+ ..
+Pois bem, há que se falar em ocorrência de obstáculo criado em detrimento da parte, pois a r. decisão colegiada deixou de observar o contexto inserido, fazendo-se imperativo o pedido de reconsideração interposto, apto a suspender o decurso do prazo.
+Isso porque, o pleito de reconsideração fez-se com o intuito de explicitar aos Desembargadores o contexto, justificando a impossibilidade de deserção do recurso, ante o regular pagamento das custas processuais, tendo a demora ocorrida em razão da dificuldade do recorrente em lidar com as tecnologias e também por conta do horário de funcionamento reduzido das instituições bancárias.
+E ainda, caso houvesse a retratação do juízo, a interposição do recurso às instâncias extraordinárias seria desnecessária, diminuindo assim a demanda que chega para a Corte.
+Tratou-se de recurso devidamente explicitado e fundamentado em dispositivo e lei federal que prevê a ocorrência de motivos de força maior.
+ ..
+Isto posto, pugna-se pelo acolhimento do presente pedido, por configurar o "descumprimento" do prazo estipulado para recolhimento do preparo recursal justo motivo, previsto no Art. 1.007, §6º, do CPC, vez que nos encontramos em meio à pandemia de COVID-19, que requer o intenso isolamento social, sendo o requerente integrante do grupo de risco - idoso que conta com 73 anos de idade - e que encontrou dificuldades para adimplir o valor, muito embora o tenha feito integralmente! Devendo ser invocado o princípio da dignidade da pessoa humana, artigo 1º, inciso III da Constituição Federal (fls. 401/402).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 21/7/2020, considerando-se publicada em 22/7/2020 (fl. 258). Excluindo-se o dia 22/7/2020 (primeiro dia), inicia-se a contagem no dia 23/7/2020 até o dia 12/8/2020, devendo ser comprovada a suspensão do expediente forense, acaso existente.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 12/8/2020, sendo que o recurso especial foi interposto somente em 21/8/2020, fora do prazo.
+Ressalte-se que o pedido de reconsideração (fls. 261/265) apresentado pelo ora embargante, após publicação do acórdão que julgou o agravo de instrumento, não tem o condão de interromper o prazo para interposição do recurso especial.
+A propósito, confira-se estes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Nos termos da regra prevista no art. 1.015, VII, do CPC/15, contra as decisões interlocutória que versarem sobre exclusão de litisconsorte caberá recurso de agravo de instrumento. 1.1.Porquanto destituído de natureza recursal, o pedido de reconsideração não suspende ou interrompe o prazo para interposição do recurso cabível. 1.2 Estando o entendimento firmado pela Corte de origem, quanto à tempestividade do recurso, em harmonia com a orientação jurisprudencial firmada por este Colendo Tribunal sobre a matéria, incide o óbice contido na Súmula 83/STJ.
+2. Agravo interno desprovido. (AgInt no AREsp n. 1711593/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/12/2020.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.INTEMPESTIVIDADE. PEDIDO DE RECONSIDERAÇÃO. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO RECURSAL.-
+O pedido de reconsideração, por não ter natureza recursal, não suspende e nem interrompe o prazo para interposição do recurso cabível.
+Agravo não conhecido. (AgInt no AREsp n. 972914/RO, relatora Ministra Nancy Andrighi, Terceira Turma, Dje de 8/5/2017.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
