@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLAUDIA MONIKE FERNANDES DA CUNHA E OUTRO em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Constata-se contradição na decisão retra ao rejeitar a primeira e segunda controvérsias aventando óbice na Súmula 284/STF porque em tese não teria havido indicação do permissivo constitucional autorizados do recurso especial. A contradição existe ao passo que é inaplicável a Súmula 284/STF tanto porque a Súmula trata de recurso extraordinário, e aqui o caso versa sobre recurso especial, quanto porque o recurso especial indicou precisamente permissivo constitucional autorizador, tanto que foi omisso o julgado ao deixar de considerar o seguinte trecho recursal:
+Inicialmente, é necessário pontuar que no exame de admissibilidade do Recurso Especial, o tribunal a quo restringiu-se a analisar as ofensas ao disposto nos arts. 6º, VIII, do Código de Defesa do Consumidor, 371 e 373, II, do Código de Processo Civil, deixando de manifestar-se sobre a ofensa ao artigo 489, I e §1º, IV do CPC, a qual foi arguida no recurso,  ..
+Portanto, os dispositivos foram devidamente indicados, muito embora não se aplique a Súmula 284/STF. Ante a imprescindibilidade, requer seja extirpada a contradição verificada e sanada a omissão mediante pronunciamento expresso sobre isso.
+Há omissão na decisão ao afirmar que as controvérsias não foram examinadas na Corte de origem, tendo deixado de apreciar o prequestionamento demonstrado no recurso especial (pág. 3 do REsp):
+ ..
+(fls.746/748).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A decisão embargada restou clara e bem fundamentada no sentido de que:
+ ..  conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição (fl. 740).
+Ademais, "são aplicáveis no exame de admissibilidade do recurso especial os enunciados da súmula do Supremo Tribunal Federal relativamente ao recurso extraordinário, tendo em vista que os recursos especial e extraordinário, também denominados recursos extraordinários lato sensu, tem a mesma natureza. São recursos cuja a fonte normativa fundamental é a Constituição Federal, que estabelece os requisitos essenciais comuns de admissibilidade como prequestionamento, o esgotamento de instâncias, a fundamentação vinculada e vedação de reexame de matéria fática" (AgRg no AREsp 1322238/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/10/2018, DJe 13/11/2018).
+Não há, pois, como se falar em contradição.
+Por fim, quanto à alegada omissão da decisum embargado ao não examinar o prequestionamento da matéria, observa-se que na verdade a parte embargante busca rediscutir o que restou decidido.
+Com efeito, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
