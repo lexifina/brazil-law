@@ -1,0 +1,116 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. RECONSIDERAÇÃO. COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO CONTRATUAL CAUSADA PELO ATRASO DA VENDEDORA NA ENTREGA DO BEM. REVISÃO DA CULPA. SÚMULA 7/STJ. DEVOLUÇÃO INTEGRAL DO PREÇO PAGO. SÚMULA 543/STJ. JUROS MORATÓRIOS. RESPONSABILIDADE CONTRATUAL. INCIDÊNCIA DESDE A CITAÇÃO. DANOS MORAIS. ATRASO POR PERÍODO EXPRESSIVO. CONFIGURAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO DO ART. 1.042 DO CPC/2015 CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO,NEGAR-LHE PROVIMENTO.
+1. Em virtude da impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial, o agravo interno merece provimento.
+2. É inviável o conhecimento da pretensão de revisão da culpa pela resolução do negócio, porque, uma vez estabelecida a mora na entrega do imóvel como a causa da resolução, com base nos elementos fático-probatórios, a alteração desse entendimento não prescindiria do reexame direto das provas dos autos, óbice da Súmula 7/STJ.
+3. Nos termos da Súmula 543/STJ, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+4. Os juros moratórios incidem desde a citação no caso de resolução de compra e venda causada pela vendedora, em decorrência da responsabilidade contratual pelas perdas e danos. Inaplicabilidade decláusula penal em desfavor do comprador inocente ou do Tema 1.002 dos Recursos Repetitivos (cf. AgInt no AREsp 1.699.501/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe de 07/12/2020).
+5.O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que a entrega do imóvel não foi provada após umano desde a expiração do prazo de tolerância.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo do art. 1.042 do CPC/2015 para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por CONSTRUTORA CANADÁ LTDA contra decisão monocrática proferida pela Presidência do STJ (e-STJ, fls. 433-435), que não conheceu do agravo em recurso especial, com fundamento na ausência de impugnação específica dos motivos da inadmissibilidade do recurso especial consistentes na aplicação das Súmulas 5 e 7 do STJ.
+Em suas razões recursais, a parte agravante alega o combate dos aludidos óbices sumulares.
+Impugnação não apresentada (e-STJ, fl. 459).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. RECONSIDERAÇÃO. COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO CONTRATUAL CAUSADA PELO ATRASO DA VENDEDORA NA ENTREGA DO BEM. REVISÃO DA CULPA. SÚMULA 7/STJ. DEVOLUÇÃO INTEGRAL DO PREÇO PAGO. SÚMULA 543/STJ. JUROS MORATÓRIOS. RESPONSABILIDADE CONTRATUAL. INCIDÊNCIA DESDE A CITAÇÃO. DANOS MORAIS. ATRASO POR PERÍODO EXPRESSIVO. CONFIGURAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO DO ART. 1.042 DO CPC/2015 CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Em virtude da impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial, o agravo interno merece provimento.
+2. É inviável o conhecimento da pretensão de revisão da culpa pela resolução do negócio, porque, uma vez estabelecida a mora na entrega do imóvel como a causa da resolução, com base nos elementos fático-probatórios, a alteração desse entendimento não prescindiria do reexame direto das provas dos autos, óbice da Súmula 7/STJ.
+3. Nos termos da Súmula 543/STJ, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+4. Os juros moratórios incidem desde a citação no caso de resolução de compra e venda causada pela vendedora, em decorrência da responsabilidade contratual pelas perdas e danos. Inaplicabilidade de cláusula penal em desfavor do comprador inocente ou do Tema 1.002 dos Recursos Repetitivos (cf. AgInt no AREsp 1.699.501/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe de 07/12/2020).
+5. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que a entrega do imóvel não foi provada após um ano desde a expiração do prazo de tolerância.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo do art. 1.042 do CPC/2015 para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.856.866 - GO (2021/0075587-3)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+CONSTRUTORA CANADA LTDA
+ADVOGADO
+:
+ALEX JOSÉ SILVA - GO032520
+AGRAVADO
+:
+ELISSANDRA FERREIRA
+ADVOGADO
+:
+WILLIAN SILVA VITAL - GO049113
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (RELATOR):
+Afiguram-se relevantes as alegações quanto à impugnação específica de todos os óbices mencionados na decisão de inadmissibilidade do recurso especial, notadamente por sua efetuação no agravo em recurso especial, quanto à aplicação das Súmulas 5 e 7 do STJ (e-STJ, fls. 377-381).
+Passa-se ao exame do mérito recursal.
+Trata-se de recurso especial interposto por CONSTRUTORA CANADÁ LTDA, com fundamento no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C REPARAÇÃO DE DANOS MATERIAIS E MORAIS C/C TUTELA PROVISÓRIA DE URGÊNCIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RELAÇÃO DE CONSUMO. ATRASO NA ENTREGA DA OBRA. RESCISÃO. FATO IMPUTÁVEL À COMPROMISSÁRIA-VENDEDORA. RESTITUIÇÃO DAS PARCELAS PAGAS. RETENÇÃO. DANOS MORAIS. SENTENÇA MANTIDA. 1. Incide, na hipótese, o Código de Defesa do Consumidor, porquanto, a relação jurídica subjacente é tipicamente de consumo, havendo perfeita subsunção às disposições dos artigos 2º e 3º, ambos do diploma referido. 2. Como consectário do desfazimento do negócio por fato imputável, exclusivamente, à construtora, impõe-se a restituição dos valores das parcelas pagas à promitente-compradora, consoante direito sumulado na Corte Superior de Justiça, não cabendo a retenção postulada. 3. A demora injustificada, por tempo considerável, na entrega do imóvel, caracteriza dano moral, uma vez que tal dissabor ultrapassa a esfera do mero aborrecimento, causando a sensação de impunidade e de impotência ao consumidor, mostrando-se razoável a sua fixação em seis salários mínimos para cada autor. 4. Levando-se em consideração as questões fáticas, a extensão do prejuízo, bem como a quantificação da conduta ilícita e capacidade econômica da ofensora, a fixação dos danos morais, no importe de R$ 6.000,00 (seis mil reais) mostra-se razoável, por ser suficiente à reparação do dano sofrido, considerando a essencialidade do serviço prestado, a condição das partes, bem como, atendendo ao caráter reparatório e punitivo deste tipo de indenização. 5. Os valores a da condenação imposta a recorrente, deverão ser corrigido monetariamente pelo INPC a partir da data desta sentença, nos termos da Súmula nº 362 do STJ, mais juros de mora de 1% ao mês, a partir da citação, por se tratar de responsabilidade contratual.
+APELAÇÃO CONHECIDA E DESPROVIDA.
+Em suas razões de recurso especial, a parte recorrente alegou violação dos arts. 186, 187 e 394 do CC e 85, § 2º, do CPC/2015, defendendo o seguinte: a) o direito à retenção de 25% do valor do preço pago pela parte compradora que será objeto de restituição, pelo fato de a rescisão contratual ter sido por ela postulada; b) a inexistência de danos morais pelo suposto atraso na entrega da obra; c) a incidência de juros moratórios a partir do trânsito em julgado da decisão, nos termos da tese fixada para o Tema 1.002 dos Recursos Repetitivos; e d) a condenação da parte compradora ao pagamento dos honorários advocatícios, por ter dado causa ao processo.
+Passo a decidir.
+Inicialmente, conforme as circunstâncias definitivamente delineadas pelo Tribunal de origem, foi a vendedora, ora recorrente, a causadora da resolução contratual, devido à mora na entrega do imóvel, motivo pelo qual foi condenada à restituição integral dos valores pagos acrescidos de juros moratórios desde a citação e a arcar com o ônus de sua mora (e-STJ, fls. 197-200):
+No mérito, a construtora recorrente, dentre outas alegações, verbera inexistir culpa pela rescisão postulada pela parte adversa. Sem razão. Como bem decidido pelo julgador singular, a rescisão ocorreu por culpa da vendedora/recorrente, em razão de descumprimento do prazo na entrega do empreendimento, cabendo tão somente a ela suportar os ônus decorrentes do próprio inadimplemento. Com efeito, os documentos coligidos aos autos comprovam que as partes celebraram um contrato de compra e venda referente a um imóvel (apartamento Residence Ville das Bromélias, no bloco 04, apartamento 407, garagem de número 27), com previsão de entrega para 30.07.2017, com prazo de tolerância de 180 dias para 30.01.2018 (evento n.01).
+Todavia, segundo a recorrida, foi ultrapassado o período compreendido no contrato do término das obras, apesar de a recorrente ter se utilizado, do prazo de 180 para findar a obra e realizar a entrega, mas o imóvel não foi entregue. Nesse contexto, o evidente inadimplemento por parte da vendedora em entregar o imóvel na data pactuada na avença o que gera para a adquirente o direito subjetivo à resolução contratual, com a consequente devolução das quantias já pagas, em parcela única, devidamente corrigida, e sem qualquer dedução (multa, retenção etc). A matéria, inclusive, encontra-se sumulada no âmbito do colendo Superior Tribunal de Justiça, senão veja-se:
+(..)
+Contudo, restou comprovada a culpa exclusiva da parte ré, ora recorrente, em relação ao atraso na entrega do imóvel, desta forma, deve restituir para a parte autora as parcelas pagas, se afigurando indevido o pleito para retenção da taxa de 23% (Súmula nº 543 do STJ).
+Ademais, como o atraso na entrega do bem imóvel foi por culpa, exclusiva da vendedora, a ela deve ser imposta as equivalentes consequências de sua inadimplência. Essa é a recente orientação externada pela Corte Superior de Justiça. Verbis:
+(..)
+Desse modo, as alegações relativas à causa ou à culpa pela resolução do negócio, inclusive a referente à atribuição do ônus sucumbencial, não podem ser conhecidas, por não prescindirem do reexame direto das provas, a fim de ser extraída conclusão contrária àquela constante do acórdão recorrido, providência manifestamente proibida nesta instância, nos termos da Súmula 7/STJ.
+No tocante à devolução integral do valor pago pelo preço, o entendimento do Tribunal de origem está em conformidade com a Súmula 543/STJ, oriunda da tese fixada no Tema 577 dos Recursos Repetitivos, de seguinte teor, sem grifos no original:
+Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento (Súmula 543, SEGUNDA SEÇÃO, julgado em 26/08/2015, DJe 31/08/2015).
+Quanto à pretensão de modificação do termo inicial da incidência dos juros moratórios, da citação para o trânsito em julgado da decisão, o recurso especial não pode ser provido, porque não se trata de rescisão contratual por iniciativa do comprador com a modificação da cláusula penal, conforme o Tema 1.002 dos Recursos Repetitivos, mas de resolução de compra e venda causada pela mora da vendedora, na qual os juros moratórios decorrem de sua responsabilidade contratual pelas perdas e danos, não incidindo a cláusula penal em desfavor da parte compradora inocente.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. ATRASO NA ENTREGA DO IMÓVEL. RESCISÃO. CULPA DA VENDEDORA. PRESCRIÇÃO. TERMO INICIAL DOS JUROS DE MORA.
+1. Não se aplica a orientação do Tema 938/STJ aos casos em que a pretensão de restituição da comissão de corretagem e da Taxa SATI decorre da rescisão do contrato por culpa da vendedora, porquanto tais verbas integram as perdas e danos devidas ao comprador para volta ao status quo ante.
+2. Pelo mesmo motivo também não se aplica a jurisprudência desta Corte apontada pela agravante sobre o termo inicial dos juros de mora a contar do trânsito em julgado, uma vez que não se cuida de pretensão de devolução de valores, decorrente de resolução de compromisso de compra e venda por iniciativa do promitente comprador com alteração das obrigações assumidas. A incidência de juros de mora sobre os valores a serem devolvidos, cuidando-se de responsabilidade contratual, incide a partir da citação.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1699501/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe 07/12/2020)
+Por fim, quanto à configuração dos danos morais, o recurso especial não pode ser provido.
+Segundo o atual entendimento desta Corte, "o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto demonstrarem a efetiva lesão extrapatrimonial" (AgInt no REsp 1.719.311/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/05/2018, DJe de 28/05/2018).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. DANO MORAL. DESCUMPRIMENTO CONTRATUAL. NÃO OCORRÊNCIA. PRECEDENTES.
+1. Nos termos da jurisprudência do STJ, o simples inadimplemento contratual, em regra, não configura dano indenizável, devendo haver consequências fáticas capazes de ensejar o dano moral. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.014.633/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/4/2019, DJe 25/4/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANOS MORAIS. NÃO CONFIGURAÇÃO. SIMPLES INADIMPLEMENTO CONTRATUAL. AGRAVO NÃO PROVIDO.
+1. A demora na entrega do imóvel, em regra, constitui mero inadimplemento contratual o que, por si só, não gera o dever de indenizar. Danos morais afastados.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.776.051/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/3/2019, DJe 8/4/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANOS MORAIS. NÃO CONFIGURAÇÃO. SIMPLES INADIMPLEMENTO CONTRATUAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A demora na entrega do imóvel, em regra, constitui mero inadimplemento contratual o que, por si só, não gera o dever de indenizar.
+3. Agravo interno não provido.
+(AgInt no REsp 1.715.842/RO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/11/2018, DJe 21/11/2018)
+Entretanto, o atraso na entrega por longo período pode configurar causa de dano moral indenizável:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE DEVOLUÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS.ATRASO NA ENTREGA DE IMÓVEL. DISTRATO. INICIATIVA DO COMPRADOR. RETENÇÃO ENTRE 10% E 25% DAS PRESTAÇÕES PAGAS. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. DANO MORAL. OCORRÊNCIA. LONGO ATRASO. ALTERAÇÃO DO VALOR FIXADO. INCIDÊNCIA DA SÚMULA 7/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de rescisão contratual com pedido de devolução de valores cumulada com indenização por danos materiais e compensação por danos morais em razão de atraso na entrega de imóvel.
+(..)
+4. Cabimento de compensação por danos morais em virtude do atraso superior a dois anos na entrega de imóvel. Precedentes.
+5. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada.
+6. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1804123/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/09/2019, DJe 11/09/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. FORTUITO INTERNO. FALHA GEOLÓGICA NO TERRENO. RISCO INERENTE À ATIVIDADE. DANO MORAL. ATRASO EXPRESSIVO SUPERIOR A DOIS ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. O fortuito interno, fato imprevisível e inevitável ocorrido no momento da realização do serviço ou da fabricação do produto, como é o caso da alegada existência de falha geológica no terreno adquirido para a construção do empreendimento, não exclui a responsabilidade do fornecedor, porque relaciona-se com a atividade e aos riscos da atividade.
+2. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial.
+3. Na hipótese,o atraso de mais de dois anos na entrega do imóvel supera o mero inadimplemento contratual, devendo ser mantida a indenização por danos morais. Precedentes.
+4. Os juros moratórios, nos casos de responsabilidade contratual, fluem a partir da data de citação. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 941.250/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/03/2019, DJe 29/03/2019, g.n.)
+No caso dos autos, envolvendo a aquisição de apartamento e vaga de garagem, o Tribunal de origem, após ponderar que o mero descumprimento contratual não configura dano moral,concluiu pela ocorrência do aludido dano na espécie, com fundamento na aflição oriunda de relevante atraso, sem que tenha admitido a efetuação da entrega dos imóveis até a data da propositura da ação (em janeiro/2019), após um ano desde a expiração do prazo de tolerância (janeiro/2018), nem mesmo até o julgamento da apelação (em 2020), fixando a indenização em R$ 6.000,00 (seis mil reais), conforme os seguintes trechos do acórdão recorrido, sem grifos no original (e-STJ, fls. 197 e 201-202):
+Com efeito, os documentos coligidos aos autos comprovam que as partes celebraram um contrato de compra e venda referente a um imóvel (apartamento Residence Ville das Bromélias, no bloco 04, apartamento 407, garagem de número 27), com previsão de entrega para 30.07.2017, com prazo de tolerância de 180 dias para 30.01.2018 (evento n.01).
+Todavia, segundo a recorrida, foi ultrapassado o período compreendido no contrato do término das obras, apesar de a recorrente ter se utilizado, do prazo de 180 para findar a obra e realizar a entrega, mas o imóvel não foi entregue.
+Nesse contexto, o evidente inadimplemento por parte da vendedora em entregar o imóvel na data pactuada na avença o que gera para a adquirente o direito subjetivo à resolução contratual, com a consequente devolução das quantias já pagas, em parcela única, devidamente corrigida, e sem qualquer dedução (multa, retenção etc).
+(..)
+No que se refere aos danos morais, insta destacar que, para que sejam configurados, é preciso que a pessoa seja atingida em sua honra, reputação, personalidade, seu sentimento de dignidade, passe por dor, humilhação, constrangimentos, enfim, tenha os seus sentimentos violados.
+(..)
+Com isso, embora seja assente na jurisprudência que o mero inadimplemento contratual não configura, per si, o dano moral, no caso dos autos, a autora teve que suportar a frustração decorrente da espera da entrega da unidade habitacional que, não foi entregue na data estipulada no contrato, por culpa exclusiva da promitente-vendedora, estando já extrapolados todos os prazos previstos na avença, situação que ultrapassa o mero dissabor.
+No mais, as regras ordinárias da experiência revelam que tais situações são capazes de abalar a pessoa, de frustrar-lhe os sonhos, de fazê-la sentir-se impotente ante o inadimplemento contratual a que se submete.
+Sendo assim, entendo que, no caso, ficou caracterizado o dano moral.
+Já no que tange ao valor a ser arbitrado a título de indenização por dano moral, há que levar-se em conta o princípio da proporcionalidade, bem como as condições dos ofendidos, e, ainda, a capacidade econômica da empresa ofensora, a qual se trata de portentosa Construtora do ramo imobiliário.
+(..)
+Portanto, a indenização deve ter caráter preventivo, com o fito de que a conduta danosa não volte a repetir-se, assim como punitivo, visando à reparação pelo dano sofrido, não devendo, contudo, transformar-se em objeto de enriquecimento ilícito.
+Nesse compasso, levando-se em consideração as questões fáticas, a extensão do prejuízo, bem como a quantificação da conduta ilícita e capacidade econômica da ofensora, entendo que a fixação dos danos morais, no importe de R$ 6.000,00 (seis mil reais) mostra-se razoável, por ser suficiente à reparação do dano sofrido, considerando a essencialidade do serviço prestado, a condição das partes, bem como, atendendo ao caráter reparatório e punitivo deste tipo de indenização.
+Desse modo, constatada a conformidade do acórdão recorrido com a jurisprudência desta Corte, é inviável o provimento da pretensão de afastamento dos danos morais, nos termos da Súmula 83/STJ.
+Diante do exposto, dou provimento ao agravo interno, a fim de conhecer do agravo do art. 1.042 do CPC/2015 para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+É como voto.
