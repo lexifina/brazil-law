@@ -1,0 +1,14 @@
+DECISÃO
+CLEANO SILVA DE OLIVEIRA alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+A defesa se insurge contra a determinação de submissão do apenado aexame criminológico, para fins de progressão de regime, uma vez que não existiu justificativa idônea para tanto. Requer o restabelecimento da decisão do Juiz da VEC.
+Decido.
+O habeas corpus comporta solução por decisão monocrática, pois, nos termos da jurisprudência deste Superior Tribunal, consolidada na Súmula n. 439: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+É necessário que o julgador indique sinais desabonadores relacionados ao período da execução, que expliquem a necessidade do estudo de periculosidade para determinar a melhor análise do mérito do preso, uma vez que aspectos do crime (gravidade, longa pena a cumprir) já foram sopesados na fase do conhecimento para a condenação e a fixação da pena.
+O paciente cumpre 13 anos, 4 meses e 20 dias de reclusão, por latrocínio tentado, com término da execução previsto para 9/3/2032. O Tribunal assim deliberou (fls. 18-21):
+O sentenciado cumpre pena decorrente de condenação pela prática de crime de gravidade diferenciada, legalmente classificado como de natureza hedionda, qual seja, latrocínio tentado. Não se pode desconsiderar, também, que ainda lhe resta longa pena a cumprir, com vencimento previsto para 09/03/2032 (fl.36).
+Estas circunstâncias, sem dúvida, recomendam aprofundado exame do elemento subjetivo, do que decorre a necessidade de realização de exame criminológico para colheita de elementos concretos para a verificação do mérito indispensável à obtenção progressão de regime prisional.
+O exame criminológico foi determinado sem motivação idônea. O Tribunal não indicoufaltas disciplinares mais ou menos recentes ou, ainda, outro dado concreto relacionado ao histórico carcerário, paraevidenciar a dúvida quanto ao requisito subjetivo do art. 112 da LEP.
+Assim, é de rigor a concessão da ordem, porquanto, a teor da jurisprudência desta Corte: "a gravidade abstrata, a longa pena a cumprir e a reincidência não constituem fundamentos idôneos a justificar a necessidade de realização de exame criminológico. Precedentes" (AgRg no HC 665.874/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/6/2021).
+Ilustrativamente: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula n. 439 do STJ). A teor da jurisprudência pacífica desta Corte, a longa pena a cumprir e a gravidade do crime praticado pelo sentenciado, por si sós, não justificam a determinação da prova, pois são fatores não relacionados ao período de resgate da pena" (AgRg no HC 656.265/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 2/6/2021).
+À vista do exposto, concedo ohabeas corpus, in limine, para restabelecer a decisão do Juízo das Execuções Penais.
+Publique-se e intimem-se.
