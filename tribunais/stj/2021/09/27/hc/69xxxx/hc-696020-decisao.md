@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WALTER EDWIN LARAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo emExecução n. 0000791-56.2021.8.26.0026).
+O Juízo de primeiro grau indeferiu o pedido de retificação do cálculo de liquidação de penas formulado pelo paciente para que fosse observado o percentual de 40% no cálculo da progressão de regime.
+Interposto recurso pela defesa, o Tribunal de origem negou provimentoem acórdão assim ementado(fl. 18):
+Agravo em execução - Insurgência defensiva contra a decisão que indeferiu retificação de cálculos para progressão de regime - Pleito defensivo de afastamento da aplicação do prazo de 60% (ou 3/5) para fins de progressão de regime, nos termos do artigo 112, inciso VII, da Lei de Execução Penal, sob o fundamento de que o dispositivo, com a nova redação dada pela Lei 13.964/2019, seria aplicável tão somente ao reincidente específico, devendo, pois, ser reduzida para 40% (ou 2/5), como disposto no inciso V, do mesmo dispositivo legal - Inadmissibilidade - Agravante que é de fato, reincidente específico em crime hediondo, conforme reconhecido no título executivo, devendo, pois, resgatar a fração de 60% (ou 3/5) da pena imposta - Recurso desprovido.
+Neste writ, aimpetrante alega que os cálculos estão em desacordo com a legislação aplicável, uma vez que previram o prazo para progressão de regime equivalente a 60% da pena imposta, quando o correto seria equivalente a 40%, de acordo com a nova redação do art. 112, V, da Lei de Execução Penal.
+Requer a concessão da ordem de habeas corpus para que seja reconhecida a incidência do inciso V do art. 112 da LEP, com a redação dada pela Lei n. 13.964/2019, determinando-se a aplicação da fração de 40% no cálculo da pena do paciente, porquanto reincidente simples.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Com o advento da Lei n. 13.964/2019, a progressão de regime, sobretudo no que diz respeito ao requisito objetivo, passou a submeter-se aos novos lapsos temporais, prescritos, em consonância com a natureza do delito, no art. 112 da Lei de Execução Penal, assim expresso:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+I - 16% (dezesseis por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça;
+II - 20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça;
+III - 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça;
+IV - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça;
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for: a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional; b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ou c) condenado pela prática do crime de constituição de milícia privada;
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado;
+VIII - 70% (setenta por cento) da pena, se o apenado for reincidente em crime hediondo ou equiparado com resultado morte, vedado o livramento condicional.
+O Juízo da execução indeferiuo pedido de retificação do cálculo de liquidação de penas, considerandoser o paciente reincidente específico na prática de crime hediondo (fl. 16).
+O Tribunal a quo negou provimento ao recurso da defesae considerou opercentual de 60% para progressão de regime, adotando os seguintes fundamentos(fl.19):
+Extrai-se dos autos que o agravante foi condenado pelo delito do artigo 33,caput, c. c. artigo 40, I e VII, da Lei nº 11.343/06, à pena de 09 anos e 26 dias de reclusão, em regime fechado, sede em que foi considerado reincidente específico, conforme se extrai do v. acórdão proferido pela 11ª Turma do Tribunal Regional Federal da 3ª Região, conforme fls. 146/167 dos autos originários (Processo de Execução nº 0009418-20.2019.8.26.0026, da Comarca de Bauru), tendo referido aresto, relatado pelo Desembargador Federal José Lunardelli reduzido as penas impostas de 09 anos e 04 meses de reclusão e pagamento de 933 dias-multa, no piso legal, para 09 anos e 26 dias de reclusão, em regime fechado, e pagamento de 906 diárias mínimas.
+Assim, corretamente constou dadecisão agravada:
+"O sentenciado é reincidente específico na prática de crime hediondo, conforme reconhecido no título executivo, devendo, portanto, resgatar o lapso de 3/5 da pena para progressão de regime" (fls.14).
+Portanto, diversamente do que sustentou a defesa nas razões recursais, o agravante é reincidente específico, comanterior condenação por tráfico de drogas, mostrando-se, pois, correta a decisão atacada.
+Em face do exposto, nega-se provimento ao agravo.
+Assim, não se constata ilegalidade, pois setrata de paciente condenado na condição de reincidente específico em crime hediondo, conforme se depreende dos autos, situação que impõe a aplicação do lapso temporal de 60% (art. 112, VII, da LEP) para a progressão de regime.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
