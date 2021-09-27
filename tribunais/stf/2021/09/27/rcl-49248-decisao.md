@@ -1,0 +1,35 @@
+Trata-se de reclamação com pedido de liminar ajuizada pela Cemig Distribuição S.A. contra decisão proferida pelos Tribunal Superior do Trabalho nos autos do Processo 0010835-63.2016.5.03.0071.
+    A reclamante alega, em síntese, violação da autoridade da decisão desta Suprema Corte que, no ARE 1.121.633/GO (Tema 1.046 da Repercussão Geral), determinou a suspensão nacional dos processos os quais discutem a validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente.
+    Requer, ao final, a suspensão liminar do ato reclamado e, no mérito,
+    “[a] procedência da presente reclamação, com a consequente cassação da decisão a proferida pelo C.TST, nos autos da ação trabalhista nº 0010835- 63.2016.5.03.0071, que indeferiu o pedido de suspensão do processo em referência, violando a autoridade da decisão proferida pelo STF […]” (pág. 23 da petição inicial).
+    É o relatório necessário. Decido.
+    Inicialmente, deixo de requisitar informações e enviar o feito à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (arts. 52, parágrafo único; e 161, parágrafo único, ambos do RISTF).
+    Bem examinados os autos, entendo que a demanda não merece prosperar.
+    Destaco que a reclamação perante o Supremo Tribunal Federal será sempre cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; (iii) e garantir a observância de enunciado de Súmula Vinculante e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil.
+    A reclamante aponta como ato reclamado a decisão monocrática proferida em 30/8/2019, a qual negou seguimento a agravo de instrumento interposto com a finalidade de destrancar recurso de revista (pág. 27 do documento eletrônico 5).
+    Da leitura da integralidade da decisão reclamada, verifico que o relator do processo no TST não mencionou ou apreciou pedido de suspensão do processo com base na medida de suspensão nacional dos feitos que tenham por tema a controvérsia do Tema 1.034 da Repercussão Geral.
+    Em consulta aos andamentos do processo no sítio eletrônico do TST, verifico que, na última decisão proferida no processo, publicada em 23/8/2021, negou-se seguimento ao recurso extraordinário interposto com base na Súmula 281/STF. No ato, nada foi mencionado a respeito da possibilidade de aplicação da sistemática da repercussão geral ou da medida cautelar suspensão nacional de processos relativos ao Tema 1.046 da Repercussão Geral.
+    Com efeito, nenhuma das decisões e despachos aviados durante o trâmite do processo no TST apreciaram pedido de suspensão do feito na origem que, desde o ato reclamado, tramitou por quase 2 (dois) anos no Tribunal de origem sem que aparentemente tenha sido a formulada a demanda que agora se apresenta nesta reclamação. O trânsito em julgado em ocorreu em 15/9/2021, após o protocolo desta reclamação.
+    Ante tais circunstâncias, não ficou configurada violação da decisão do Supremo Tribunal Federal, uma vez que o tema da Repercussão Geral sequer foi examinado pelo TST. Não há, portanto, aderência estrita entre o ato reclamado e o paradigma indicado.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de ser inviável a reclamação quando a decisão reclamada não possui identidade material com o paradigma indicado, como pode ser visto nos precedentes abaixo:
+    “EMENTA: Agravo regimental na reclamação. Tema nº 1.046 da repercussão geral (ARE nº 1.121.633/GO-RG). Ordem de suspensão nacional exarada em processo representativo da controvérsia (art. 1.035, § 5º, do CPC). Ausência de identidade entre o paradigma e a decisão reclamada, fundamentada na inadmissibilidade do recurso de revista. Agravo regimental não provido.
+    1. A inadmissão de recurso de revista interposto contra decisão interlocutória não constitui violação da ordem de sobrestamento relativa ao Tema nº 1.046 da repercussão geral, cujo paradigma está pendente de julgamento no STF.
+    2. O inconformismo quanto à interpretação dada pela Justiça do Trabalho à disciplina do art. 466, § 1º, da CLT (corroboração da norma coletiva), não possui aderência estrita com o debate constitucional pendente de solução no paradigma do Tema 1.046 da repercussão geral - qual seja, constitucionalidade de restrição, por convenção ou acordo coletivo, a direito trabalhista previsto em lei.
+    3. Agravo regimental não provido” (Rcl 41.862-AgR/MG, Rel. Min. Dias Toffoli, Primeira Turma - grifei).
+    “Ementa: RECLAMAÇÃO. REPERCUSSÃO GERAL. TEMA 1.046. DETERMINAÇÃO DE SUSPENSÃO NACIONAL. TRÂNSITO EM JULGADO DO PROCESSO DE CONHECIMENTO. ADERÊNCIA ESTRITA. INEXISTÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. Ocorrido o trânsito em julgado do processo de conhecimento em data anterior à determinação de suspensão nacional dos processos e estando o processo em face de execução definitiva, inviável revela-se a reclamação, ante a impossibilidade de modificação da coisa julgada.
+    2. A ausência de identidade entre a hipótese versada na reclamação e aquela objeto do processo paradigma revela a falta de aderência estrita, pressuposto necessário ao processamento da reclamação.
+    3. A jurisprudência desta Corte possui entendimento consolidado no sentido da inviabilidade da reclamação constitucional como substitutivo de recurso ou ação próprios.
+    4. Agravo regimental a que se nega provimento” (Rcl 39.537-ED-AgR/MG, Rel. Min. Edson Fachin, Segunda Turma - grifei).
+    “EMENTA: AGRAVO REGIMENTAL EM RECLAMAÇÃO. AÇÃO TRABALHISTA. CONTRATO DE TERCEIRIZAÇÃO POR ENTE PÚBLICO. AGRAVO DE INSTRUMENTO NO RECURSO DE REVISTA. AUSÊNCIA DE PRESSUPOSTO INTRÍNSECO DE ADMISSIBILIDADE. FALTA DE ADERÊNCIA ESTRITA. INEXISTÊNCIA DE EXAME DO MÉRITO DO RECURSO NA ORIGEM. AUSÊNCIA DE PERTINÊNCIA ESPECÍFICA DO ATO RECLAMADO COM O QUE DECIDIDO NA ADC 16 E NO TEMA 246. NÃO CABIMENTO DA RECLAMAÇÃO. AGRAVO NÃO PROVIDO.
+    1. O ato reclamado não examinou o mérito do recurso, uma vez que o recurso de revista não preencheu o requisito formal previsto no § 1°-A do artigo 896 da Consolidação das Leis do Trabalho.
+    2. É inviável a reclamação quando o ato reclamado não possui aderência estrita ao paradigma apontado como afrontado.
+    3. In casu, não há que se falar em preservação da garantia da decisão proferida na ADC 16 ou no Tema 246 da repercussão geral na medida em que a argumentação do ato reclamado não guarda estrita pertinência com os paradigmas invocados, sendo incabível a reclamação. Precedentes.
+    4. Descabimento, nessa hipótese, da reclamação como sucedâneo recursal.
+    5. Agravo regimental a que se nega provimento” (Rcl 36.884-AgR/MA, Rel. Min. Edson Fachin, Segunda Turma).
+    Destaco, por fim, a inviabilidade da reclamação utilizada como sucedâneo do recurso processual cabível.
+    Isso posto, nego seguimento à reclamação (art. 21, § 1°, do RISTF). Fica prejudicado, por conseguinte, o pedido de liminar.
+    Publique-se.
+    Brasília, 27 de setembro de 2021.
+Ministro Ricardo Lewandowski
+Relator
