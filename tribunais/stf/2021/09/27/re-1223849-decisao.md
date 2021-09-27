@@ -1,0 +1,35 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. AGROTÓXICOS CURYOM 550 EC E POLYTRIN. INVASÃO DA COMPETÊNCIA DA UNIÃO. PRETENSÃO DE SUSPENSÃO DO ATO ADMINISTRATIVO.
+    1. Ato administrativo da FEPAM que proibiu a distribuição e comercialização dos produtos Curyom 550 EC e Polytrin no Estado do Rio Grande do Sul.
+    2. Produtos regularmente cadastrados e registrados nos órgãos federais (MAPA).
+    3. Afronta à competência restrita dos órgãos federais. Ato que obstaculiza a distribuição e utilização dos produtos, a despeito de seu regular registro e cadastrado pelos órgãos competentes da União.
+    4. Possível a suspensão da decisão da FEPAM que indeferiu o Certificado de Cadastro para os produtos CURYOM 550 EC e POLYTRIN
+    5. Precedentes desta Corte colacionados.
+    6. Sentença denegando a ordem na origem.
+    Apelação provida” (págs. 247-278 do documento eletrônico 3).
+    Os embargos de declaração em seguida opostos foram desprovidos (págs. 297-304 do documento eletrônico 3).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se violação dos arts. 23, II e VI; 24, VI, XII e § 2°; e 170, VI, da mesma Carta.
+    Em 30/8/2019, determinei o sobrestamento deste processo até a conclusão do julgamento da ADPF 221/RS pelo Plenário deste Tribunal. Todavia, o referido processo foi extinto, sem julgamento do mérito, conforme decisão proferido pelo Ministro Dias Toffoli (doc. eletrônico 13).
+    É o relatório necessário. Decido.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente observo que, à exceção do art. 24, VI, XII e § 2°, os demais dispositivos constitucionais arguidos pela recorrente não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 desta Corte. Nesse sentido, destaco o julgamento do ARE 772.836-AgR/PE, da relatoria do Ministro Dias Toffoli, cuja ementa segue transcrita:
+    “Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa.
+    1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional.
+    2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    3. Agravo regimental não provido” (grifei).
+    Além disso, verifico que para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF, e das normas infraconstitucionais pertinentes ao caso (Leis Federais e 12.016/2009; e Lei Estadual 7.747/1982), sendo certo que eventual ofensa à Constituição Federal seria apenas indireta. Nesse sentido, destaco os seguintes julgados deste Tribunal:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. LEGITIMIDADE PASSIVA. SUCESSÃO EMPRESARIAL. CONTROVÉRSIA CUJA SOLUÇÃO DEMANDA O REEXAME DA LEGISLAÇÃO INFRACONSTITUICIONAL APLICADA.
+    1. Entendimento diverso do adotado pelo aresto impugnado depende do reexame da legislação infraconstitucional, o que não autoriza a abertura da via recursal extraordinária.
+    2. Agravo regimental desprovido” (RE 642.629-AgR/RJ, Rel. Min. Ayres Britto).
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Responsabilidade civil do Estado. Danos morais decorrentes de poluição ambiental vinculada à aplicação de agrotóxicos. 4. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Regime de correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previsto no art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009. Modulação temporal dos efeitos do acórdão proferido por ocasião do julgamento do RE 870.947. Tema 810 da sistemática da repercussão geral. 6. Parcial provimento ao agravo regimental apenas para determinar a devolução do feito à origem” (RE 1.207.822-AgR/RS, Rel. Gilmar Mendes, Segunda Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL. AÇÃO AJUIZADA CONTRA A UNIÃO. COMPETÊNCIA. FACULDADE CONFERIDA AO AUTOR: § 2º DO ART. 109 DA CONSTITUIÇÃO DA REPÚBLICA. ELEIÇÃO DO FORO DE DOMICÍLIO. PRECEDENTES. ALEGAÇÃO DE MUDANÇA DE DOMICÍLIO. NECESSÁRIO REEXAME DE PROVAS. IMPOSSIBILIDADE: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.151.612-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma).
+    “AGRAVO REGIMENTAL NO RECURSO COM AGRAVO. CONSTITUCIONAL. FISCALIZAÇÃO DA COMERCIALIZAÇÃO DE PRODUTO AGROTÓXICO. COMPETÊNCIA CONCORRENTE. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. APLICAÇÃO DO ART. 1.033 DO NOVO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE. RECURSO EXTRAORDINÁRIO INTERPOSTO NA VIGÊNCIA DO CPC/1973. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+    I - A questão dos autos foi dirimida com amparo na interpretação das normas infraconstitucionais pertinentes a exigir a reanálise da sua interpretação, de modo que eventual ofensa à Constituição seria indireta.
+    II - Inaplicável o art. 1.033 do novo Código de Processo Civil, em razão de o recurso extraordinário ter sido interposto sob a vigência do CPC/1973.
+    III - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC/2015)” (ARE 1.275.783-AgR/PR, de minha relatoria, Segunda Turma).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Ação civil pública. Implementação de políticas públicas. 4. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negativa de provimento ao agravo regimental” (ARE 1.202.990-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Sem honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+    Brasília, 27 de setembro de 2021.
+Ministro Ricardo Lewandowski
+Relator
