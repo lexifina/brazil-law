@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Na origem, trata-se de ação objetivando a concessão de aposentadoria por tempo de contribuição. Por sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada para reafirmar a DER para a data de ajuizamento da ação, conforme a seguinte ementa do acórdão:
+No recurso especial, a parte apresenta os seguintes argumentos:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DECONTRIBUIÇÃO SEM INCIDÊNCIA DO FATOR PREVIDENCIÁRIO. CONDIÇÕES ESTABELECIDAS NO ART. 29-C DA LEI Nº 8.213/91,INCLUÍDO PELA LEI Nº 13.183/2015. REAFIRMAÇÃO DA DER. TUTELA ESPECÍFICA.
+1. É possível a reafirmação da DER (Data de Entrada doRequerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instânciasordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa depedir.
+2. O segurado tem direito à concessão do benefício deAposentadoria por Tempo de Contribuição com a opção de não incidência dofator previdenciário quando o total resultante da soma de sua idade e de seutempo de contribuição atingir os pontos estabelecidos pelo art. 29-C da Lei nº8.213/91, incluído pela Lei nº 13.183/2015.
+3. Determina-se o cumprimento imediato do acórdão, por se tratar de decisão de eficácia mandamental que deverá ser efetivada mediante as atividades de cumprimento da sentença stricto sensu previstas no art. 497 do CPC/15, sem a necessidade de um processo executivo autônomo (sine intervallo).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, com fundamento no art. 255, § 4º, I e III, do RISTJ, dou-lhe provimento para afastar a incidência de juros de mora."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+No caso da reafirmação da DER, conforme delimitado no acórdão embargado, o direito é reconhecido no curso do processo, não havendo que se falar em parcelas vencidas anteriormente ao ajuizamento da ação.
+Por outro lado, no caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirá, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver afixação dos juros, a serem embutidos no requisitório.
+No caso dos autos, verifica-se que a reafirmação da DER se deu para a data da propositura da demanda (18/01/2017), conforme acórdão proferido à fl. 446 (e-STJ).
+Desse modo, conclui-se que nos casos em que ocorre a reafirmação da DER somente incidem juros pela mora no adimplemento da obrigação de pagamento de parcelas vencidas na hipótese de a DER ser reafirmada até a data do ajuizamento da ação.
+ ..
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVILE PREVIDENCIÁRIO. REAFIRMAÇÃO DA DATA DE ENTRADA DO REQUERIMENTO (DER). DIREITO RECONHECIDO NO CURSO DO PROCESSO. RECONHECIMENTO DA MORA.TRANSCURSO DE PRAZO RAZOÁVEL DE 45 DIAS PARA IMPLANTAÇÃO DO BENEFÍCIO.
+I -Na origem, trata-se de ação objetivando a concessão de aposentadoria por tempo de contribuição. Por sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada para reafirmar a DER para a data de ajuizamento da ação. Nesta Corte, o recurso especial foi parcialmente provido.
+II - O Superior Tribunal de Justiça firmou o entendimento no julgamento do Tema 995, julgado sob o rito dos recursos repetitivos, que "é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir".
+III - Por ocasião do julgamento dos Embargos de Declaração no REsp. n. 1.727.063/SP, a Primeira Seção estabeleceu: "Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV.No caso da reafirmação da DER, conforme delimitado no acórdão embargado, o direito é reconhecido no curso do processo, não havendo que se falar em parcelas vencidas anteriormente ao ajuizamento da ação.Por outro lado, no caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirá, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, a serem embutidos no requisitório."
+IV - Correta, portanto, a decisão monocrática que deu parcial provimento ao recurso do INSS.
+V - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+Em que pese ao arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+No que tange àincidência de juros, tenho que assiste razão àagravada.
+O Superior Tribunal de Justiça firmou o entendimento no julgamento do Tema 995, julgado sob o rito dos recursos repetitivos, que "é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir".
+Por ocasião do julgamento dos Embargos de Declaração no REsp. n. 1.727.063/SP, a Primeira Seção estabeleceu:
+Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV.
+No caso da reafirmação da DER, conforme delimitado no acórdão embargado, o direito é reconhecido no curso do processo, não havendo que se falar em parcelas vencidas anteriormente ao ajuizamento da ação.
+Por outro lado, no caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias,surgirá, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, a serem embutidos no requisitório.
+Nesse sentido, destaca-se a ementa do referido julgado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Embargos de declaração opostos pelo INSS, em que aponta obscuridade e contradição quanto ao termo inicial do benefício reconhecido após reafirmada a data de entrada do requerimento.
+2. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+3. Conforme delimitado no acórdão embargado, quanto aos valores retroativos, não se pode considerar razoável o pagamento de parcelas pretéritas, pois o direito é reconhecido no curso do processo, após o ajuizamento da ação, devendo ser fixado o termo inicial do benefício pela decisão que reconhecer o direito, na data em que preenchidos os requisitos para concessão do benefício, em diante, sem pagamento de valores pretéritos.
+4. O prévio requerimento administrativo já foi tema decidido pelo Supremo Tribunal Federal, julgamento do RE 641.240/MG. Assim, mister o prévio requerimento administrativo, para posterior ajuizamento da ação, nas hipóteses ali delimitadas, o que não corresponde à tese sustentada de que a reafirmação da DER implica na burla do novel requerimento.
+5. Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV. No caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirão, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, embutidos no requisitório de pequeno valor.
+6. Quanto à obscuridade apontada, referente ao momento processual oportuno para se reafirmar a DER, afirma-se que o julgamento do recurso de apelação pode ser convertido em diligência para o fim de produção da prova.
+7. Embargos de declaração acolhidos, sem efeito modificativo.
+(EDcl no REsp 1.727.063/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 19/05/2020, DJe 21/05/2020)
+Correta, portanto, a decisão monocrática que deu parcial provimento ao recurso do INSS.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
