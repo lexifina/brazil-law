@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de ERIVALDO JOSE DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, proferido no julgamento da Apelação n. 497403-4, assim ementado:
+"PENAL E PROCESSUAL PENAL. APELAÇÃO.CRIMES PREVISTOS NO ART. 157 § 2º, I e II, NO ART.158 §3º E NO ART. 288, PARÁGRAFO ÚNICO DO CÓDIGO PENAL. AUMENTO DA PENA EM 3/8 EM RAZÃO DA EXISTÊNCIA DE DUAS MAJORANTES (EMPREGO DE ARMA E CONCURSO DE PESSOAS).
+FUNDAMENTAÇÃO IDÔNEA. LEGITIMIDADE DA EXASPERAÇÃO. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME." (fl. 46).
+Consta dos autos que o paciente foi condenado à pena de 12 anos e 2 meses de reclusão, no regime fechado, pela prática dos crimes previstos nos artigos 157, § 2º, I e II, 158, § 3º, e art. 288, parágrafo único, do Código Penal (roubo majorado, extorsão qualificada e associação armada).
+No presente writ, oimpetrante sustenta ofensa ao Enunciado da Súmula 443 do STJ, pois não haveria fundamentação para o estabelecimento da fração intermediária de 3/8 de aumento da pena.
+Deste modo, requer, em liminar e no mérito, a aplicação da fração mínima de aumento na terceira fase da dosimetria.
+O pedido de liminar foi indeferido (fls. 55-56). OMinistério Público Federal opinou pela concessão da ordem de ofício para que seja redimensionada a pena do paciente(fls. 62-66).
+É o relatório. Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Quanto à dosimetria da pena, sem razão oimpetrante.
+Na terceira fase da dosimetria, verifica-se que as instâncias ordinárias justificaram a fração de 3/8não pela mera indicação do número de majorantes, mas em fundamentação concreta reveladora da acentuada gravidade do delito, evidenciada pelo cometimento por três agentes armados, circunstânciaque indicao grau mais elevado de periculosidade e reprovabilidade da conduta, justificando o tratamento mais rigoroso adotado pelas instâncias ordinárias, em observância ao princípio da individualização da pena. Nesse sentido: HC 236.180/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 11/9/2013. Ainda sobre o tema, confira-se:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. COMPENSAÇÃO INTEGRAL ENTRE A CONFISSÃO ESPONTÂNEA E A REINCIDÊNCIA. POSSIBILIDADE. PRESENÇA DE DUAS CAUSAS DE AUMENTO. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA.INEXISTÊNCIA DE OFENSA À SÚMULA 443/STJ.CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+3. A Terceira Seção, no julgamento do Recurso Especial Representativo de Controvérsia 1.341.370/MT, firmou o entendimento de que, aferidas as especificidades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+Recentemente, em 11/10/17, no julgamento do Habeas Corpus 365.963/SP, firmou a jurisprudência no sentido que a especificidade da reincidência não obstaculiza sua compensação com a atenuante da confissão espontânea.
+4. Tratando-se de condenado que registra apenas uma condenação transitada em julgado anterior pelo delito de latrocínio, não há qualquer óbice à compensação integral da atenuante da confissão espontânea com a agravante da reincidência.
+5. A Corte Estadual, ao reconhecer a incidência das majorantes do concurso de agentes e do emprego de arma de fogo, aplicou a fração de 3/8 para majorar a pena, sem que reste evidenciada violação da Súmula 443/STJ. Isso por que as circunstâncias concretas do delito, praticado mediante o concurso de quatro agentes, com o uso de arma de fogo para ameaçar ao menos seis vítimas do roubo perpetrado, denota a necessidade de maior resposta penal, em atendimento ao princípio da individualização da pena e, portanto, não se infere ilegalidade no aumento superior a 1/3 pela incidência das duas majorantes do crime de roubo.
+6. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a reprimenda do paciente para 8 anos e 7 dias de reclusão.
+(HC 550.876/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/02/2020).
+Dessa forma, inexiste flagrante constrangimento que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço da presente impetração.
+Publique-se. Intimem-se.
