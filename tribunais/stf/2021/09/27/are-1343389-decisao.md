@@ -1,0 +1,17 @@
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REMUNERAÇÃO. LEI ESTADUAL Nº 11.543/1989. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+    Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, III, 5º, caput, V, 37, § 6º, 60, § 4º, e 96, II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem consignou:
+    “No que concerne aos efeitos concretos no presente caso, não há como conceber que a declaração de inconstitucionalidade induz a vigência dos dispositivos vetados e não promulgados pela Lei nº 11.543/1989 como requer as apelantes. A única consequência possível do reconhecimento da inconstitucionalidade do ato é a continuação do processo legislativo, com a consequente promulgação e publicação dos dispositivos vetados, a serem realizados pelo Chefe do Poder Executivo estadual ou pelo Presidente da Assembleia Legislativa”.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “RECLAMAÇÃO. PROCESSO LEGISLATIVO. VETO DO CHEFE DO PODER EXECUTIVO. REJEIÇÃO. MAIORIA ABSOLUTA. EXIGÊNCIA DE QUORUM DE DOIS TERÇOS. INADMISSIBILIDADE. DECLARAÇÃO DE INVALIDADE DO PROCEDIMENTO. AUSÊNCIA DE CONDENAÇÃO PATRIMONIAL. RECLAMAÇÃO IMPROCEDENTE. 1. Lei estadual. Reajuste de vencimentos dos servidores do Poder Judiciário. Veto do Governador. Processo legislativo que manteve a parte vetada por não haver sido alcançado o quorum previsto na Constituição cearense. Invalidade. Se para a apreciação do veto é exigido o voto da maioria absoluta (CF, artigo 66, § 4º) e o seu exame ocorreu na vigência da atual ordem constitucional, não poderia a Assembleia Legislativa valer-se daquele fixado na anterior Carta Estadual para determiná-lo como sendo o de dois terços. O modelo federal é de observância cogente pelos Estados-membros desde a data da promulgação da Carta de 1988. Precedente. 2. Ausência de condenação patrimonial e de vigência automática da lei vetada. Invalidação do procedimento adotado pela Assembleia Legislativa local, a quem cumpria retomar o processo legislativo. Reclamação. Pretensão de conferir efeitos executivos ao acórdão. Inadequação da via eleita e inexistência de desrespeito à autoridade do julgado desta Corte. Reclamação improcedente” (Rcl 1206, Relator(a): Maurício Corrêa, Tribunal Pleno, julgado em 22.8.2002, DJ 18.10.2002).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2021.
+Ministra Rosa Weber
+Relatora
