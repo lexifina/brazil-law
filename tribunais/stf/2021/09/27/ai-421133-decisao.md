@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+    “MANDADO DE SEGURANÇA. CONSTITUCIONAL E ADMINISTRATIVO. PRELIMINAR. ILEGITIMIDADE PASSIVA AD CAUSAM. TRIBUNAL DE CONTAS DO DISTRITO FEDERAL. INCLUSÃO NO PÓLO PASSIVO. IMPOSSIBILIDADE. MÉRITO. PROFESSORA APOSENTADA. LEI DISTRITAL N. 92/90. CONTAGEM DO TEMPO DE INATIVIDADE COMO DE EFETIVO EXERCÍCIO. REGIME FUNCIONAL DE 40 HORAS. PRINCÍPIO DA ISONOMIA E IRREDUTIBILIDADE DE VENCIMENTOS. CONCESSÃO. O ato administrativo atacado não é complexo, dispensando a intimação da Corte Administrativa de Contas do DF. As recomendações do TCDF, ao determinar a revisão dos proventos, não obrigam, de direito, a Administração. Somente o ato do Governador ou do Secretário de Administração do DF pode causar à impetrante a violação do direito subjetivo líquido e certo. Rejeita-se a preliminar de ilegitimidade "ad causam". Mérito. O professor aposentado anteriormente à Lei Distrital n. 92/90, tem o direito líquido e certo de perceber estipêndios em dobro, fazendo jus às vantagens da carga horária semanal de 40 (quarenta) horas, visto ter sido posta em inatividade em decorrência de ato exclusivo da administração, nos termos da Lei n. 4.859/79. Não se vislumbra qualquer ilegalidade na legislação corretiva das distorções criadas pela própria administração, em atenção ao princípio da isonomia e da irredutibilidade de vencimentos. Concede-se a segurança, com efeitos retroativos à lesão, respeitada a parcela prescrita. REJEITADA A PRELIMINAR DE INCLUSÃO, NO PÓLO PASSIVO, DO TRIBUNAL DE CONTAS DO DISTRITO FEDERAL. MAIORIA. NO MÉRITO, CONCEDIDA A SEGURANÇA PARCIALMENTE, EXCLUINDO-SE O ACRÉSCIMO DE 20%. MAIORIA.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40 da CF, bem como à Súmula 347/STF.
+    O relator originário, Ministro Joaquim Barbosa, determinou o sobrestamento do recurso até o julgamento da ADI 3.010. Referida ação restou não conhecida pelo relator, Ministro Gilmar Mendes.
+    Afasto o sobrestamento e passo à análise do recurso.
+    O recurso não merece acolhida. Isso porque esta Corte firmou o entendimento de que a presente controvérsia não ultrapassa a interpretação da legislação local (Súmula 280), o que impede o seguimento do recurso. Nesse sentido, confiram-se os seguintes precedentes das duas Turmas desta Corte:
+    “Ementa: Agravo regimental no recurso extraordinário. Professor aposentado. Lei nº 1.711/52, Lei Distrital nº 92/90 e Decreto nº 4.859/79. Ofensa reflexa. Precedentes.
+    1. Inadmissível em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional.
+    2. Agravo regimental não provido.” (RE 342.828-AgR, Rel. Min. Dias Toffoli, Primeira Turma)
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REVISÃO DE PROVENTOS DE SERVIDOR APOSENTADO. LEI DISTRITAL 92/90.
+    1. A controvérsia em análise encontra-se pacificada nesta Corte, que assentou o entendimento de que é inviável o reexame de lei local em sede extraordinária. Súmula/STF 280.
+    2. Precedentes.
+    3. Agravo regimental improvido.” (RE 392.568-AgR, Relª. Minª. Ellen Gracie, Segunda Turma)
+    Nesse sentido, ainda: RE 194.793, RE 332.876-AgR e AI 506.091, todos de relatoria do Ministro Carlos Velloso; RE 376.453-AgR, Relator Ministro Eros Grau; RE 573.947-AgR, de minha relatoria.
+    Ademais, o Tribunal de origem, analisando as provas dos autos e o teor da referida legislação aplicável ao caso, decidiu pela existência de afronta à isonomia e à garantia da irredutibilidade de vencimentos. Ora, resta claro que uma eventual modificação desse entendimento implicaria, necessariamente, o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279/STF.
+     Diante do exposto, afasto o sobrestamento e, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de setembro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+      Relator
