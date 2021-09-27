@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VALCIR SILVEIRA LISBOA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2192074-18.2021.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na ex pressiva quantidade dos entorpecentes apreendidos - 2.717 kg de maconha. Impetrado writ originário, a ordem foi denegada.
+A defesa alega que não estão preenchidos os req uisitos da custódia cautelar. Afirma que o decreto prisional fundou-se na gravidade abstrata do delito.
+Aduz violação do princípio da proporcionalidade. Afirma que eventual condenação poderá acarretar em início de cumprimento de pena em regime diverso do fechado.
+Argumenta que as condições pessoais favoráveis do paciente lhe permitiriam responder à acusação em liberdade ou mediante medidas cautelares mais brandas.
+Requer a concessão da ordem para que seja revogada a prisão preventiva do paciente ou, subsidiariamente, para que lhe sejam aplicadas medidas cautelares diversas do cárcere.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fls. 27-29, destaquei):
+ ..  Com efeito, num exame perfunctório do auto de prisão em flagrante, percebe-se que restou demonstrado o fumus delicti em razão dos fortes e contundentes indícios de materialidade e da autoria delitiva.
+ ..
+A expressiva quantidade de entorpecente (2.717 quilos de maconha) denota, nesta fase processual, a intenção de mercancia.
+Verifica-se, no mais, que a prisão é necessária para a garantia da ordem pública.
+ ..
+Ademais, a vultosa quantidade de droga apreendida (aproximadamente 2.717 quilos de maconha), aliada ao fato de que os autuados transportavam o entorpecente de um Estado da Federação (Mato Grosso do Sul) para outro demonstram, ao menos nesta fase processual, que eles não se tratam de traficante eventual, mas sim que fazem do tráfico seu meio de vida e fonte de renda, o que afasta, a princípio, a causa de diminuição de pena do § 4º do artigo 33 da Lei de Drogas e indica que qualquer medida cautelar aplicada ou mesmo a prisão domiciliar seria insuficiente para impedi-los de continuar exercendo a traficância.
+ ..
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso, a expressiva quantidade dos entorpecentes apreendidos (2.717kg de maconha) foi considerada pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, segundo a jurisprudência do STJ, "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Por fim, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Como visto, na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
