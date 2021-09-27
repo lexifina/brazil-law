@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de DOUGLAS DE OLIVEIRA ANTUNES DE PAULA, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul(RESE n. 5003386-39.2021.8.21.0039).
+O paciente foi preso em flagrante pela prática dos crimes dereceptação e porte ilegal de arma de fogo e munições.Aprisão não foi homologa por ausência de defensor. O Juízo de primeiro grau rejeitou a representação feita pela autoridade policial para decretar a custódia preventiva.
+O Tribunal de origem deu provimento ao recurso ministerial para decretar a prisão preventiva.
+A defesa alega que a segregação cautelar é desnecessária e que fundou-se em argumentos genéricos eem ilações e conjecturas desprovidas de qualquer base empírica concreta. Ademais, afirma que os requisitos autorizadores da prisão preventiva não estão preenchidos.
+Ressalta que o crime não envolveu violência ou grave ameaça a pessoa.
+Aduz ainda que a reincidência, por si só, não é fundamento idôneo para ensejar a decretação da custódia cautelar.
+Pondera acerca da pandemiae defende à observância da Recomendação do CNJ n. 62/2020.
+Requer, liminarmente e no mérito, que o acórdão proferido pelo Tribunal origem seja cassado, mantendo a decisão do Juízo de primeiro grau que concedeu a liberdade provisória ao paciente.
+O pedido de liminar foi indeferido às fls. 151-152.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 201-203).
+É o relatório. Decido.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, a questão não foi enfrentada pela instância de origem.Também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma,DJede 14/9/2018). Portanto, neste ponto, o recurso não merece conhecimento.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 12-25):
+Em relação aos pressupostos da prisão preventiva, tenho que estão devidamente atendidos, mas somente pelo flagrado Douglas de Oliveira Antunes de Paula.
+A decretação da prisão preventiva associa-se à proteção imediata não do processo em curso, mas da própria sociedade. Para cumprimento desta finalidade, ordena-se a segregação cautelar do indivíduo com fundamento na garantia da ordem pública, tutelando justamente o risco de novas lesões ou reiteração criminosa.
+Tais circunstâncias devem ser deduzidas, a princípio, a partir da natureza e gravidade do crime cometido, bem como dos elementos configuradores de comportamento habitual do agente.
+ ..
+Ora, na espécie, muito embora os crimes não espelhem violência ou grave ameaça à pessoa, as peculiaridades dos fatos e as condições pessoais negativas do flagrado Douglas de Oliveira Antunes de Paula legitimam a decretação da sua prisão preventiva, senão vejamos.
+Conforme se extrai do auto de apreensão acostado aos autos, em poder do referido réu, foi encontrada uma arma de fogo (um revólver, calibre 32, marca Taurus, municiado com quatro munições de mesmo calibre), e um automóvel Renault Kwid, ano 2018, modelo 2019, em ocorrência de roubo.
+O delito de porte ilegal de arma de fogo é sancionado com pena de 2(dois) a 4 (quatro) anos de reclusão (art. 14, da Lei nº 10.826/03); e o delito de receptação, de 1 (um) a 4 (quatro) anos de reclusão (art. 180, caput, do CP).
+Sobre as circunstâncias do fato, embora os recorridos estivessem tripulando o automóvel em ocorrência de roubo e compartilhassem os materiais ilícitos apreendidos, verifica-se que a arma de fogo foi apreendida na cintura de Douglas de Oliveira Antunes de Paula, indivíduo que ostenta condenação criminal.
+De acordo com a certidão de antecedentes acostada aos autos, Douglas O. A. de Paula responde a 3 (três) processos criminais, por porte de arma de fogo de uso restrito (039/2.15.0001391-4, cometido em 2015), por tráfico de drogas(111/2.18.0000298-8, fato de 2018), e mais uma vez por tráfico de drogas(039/2.15.0001408-8), neste último já proferida a sentença condenatória, em28/1/2019, impondo-lhe a pena de 6 (seis) anos e 6 (seis) meses de reclusão, em regime semiaberto.
+Tais circunstâncias revelam que a sua prisão preventiva é realmente necessária para preservar a ordem pública e, consequentemente, acautelar o meio social.
+O periculum libertatis pode ser aferido pela existência de processos criminais em andamento, servindo de respaldo à necessidade da imposição de custódia preventiva, para garantia da ordem pública, eis que revela a periculosidade do indivíduo. É neste sentido, o entendimento do Supremo Tribunal Federal:
+ ..
+Dessa forma, tratando-se de elementos que revelam inclinação à criminalidade, apontando para efetiva periculosidade social, a manutenção da liberdade do acusado não é a medida adequada ao caso, já que incontestável a possibilidade de que, solto, continue a delinquir.
+Em face das particularidades do caso, inviável a aplicação de medidas cautelares alternativas ao cárcere, como estabelece o art. 321, do CPP.
+Tais medidas pessoais, menos gravosas, não são adequadas à gravidade dos crimes, às circunstâncias do fato e às condições pessoais do acusado (art. 282,do CPP), fulcro na fundamentação supra. Cumpre destacar que, em havendo o preenchimento dos requisitos para a prisão preventiva, especialmente a demonstração do periculum libertatis, as medidas cautelares não podem sera plicadas, sobretudo quando constatado que o agente faz do crime seu meio de vida, não se mostrando suficientes para evitar a reiteração criminosa.
+Posto isso, verifica-se que a prisão preventiva está devida mente fundamentada na garantia da ordem pública, sendo a medida impositiva à espécie.
+ ..
+Pelo exposto, voto por DAR PARCIAL PROVIMENTO ao recurso em sentido estrito para decretar a prisão preventiva de Douglas de Oliveira Antunes de Paula, nos autos da ação penal nº 5003255- 64.2021.8.21.0039, assim como determinar a expedição do respectivo mandado de prisão.
+Nota-se que a prisão preventivafora decretada para a garantia da ordem pública, emrazão do risco de reiteraçãodelitiva, uma vez que o paciente responde a três processos criminais, tendo inclusive sido condenado em 28/1/2019 a cumprimento de pena em regime semiaberto por tráfico de drogas, o que demostra sua habitualidade criminosa.
+Registra-se que, conforme a orientação jurisprudencial do STJ, a existência de mausantecedentes, reincidência, atos infracionais pretéritos, inquéritos policiais ou ações penais em cursojustificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir aordem pública (RHC 147701/SC, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe25/08/2021).
+Assim, os requisitos elencados no art. 312 do CPP estão satisfatoriamente preenchidos no caso concreto.
+Tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Outrossim, o Superior Tribunal de Justiça entende que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (AgRg no RHC n. 126.010/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 10/12/2020).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
