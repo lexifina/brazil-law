@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo regimental interposto por FRANCISCO VALTER PEDROSA ROCHAcontra decisão monocrática da Presidência que não conheceu do agravo em recurso especial (e-STJ fls. 509/510).
+Depreende-se dos autos que o ora agravante foi condenado à pena de3 anos e 9 meses de reclusão e 33 dias-multa, em regime inicial aberto, como incurso no art.1º, inciso I, da Lei n.8.137/90 (fraude a fiscalização tributária), substituída a pena corporal por duas penasrestritivas de direitos.
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória.
+O recurso especialnão foi admitido, e a defesa interpôs agravo em recurso especial.
+Às e-STJ fls. 509/510, com esteio na jurisprudência deste Tribunal Superior, o Ministro Presidente desta Colenda Corte não conheceu do agravo em recurso especial.
+No presente agravo regimental, sustenta a defesa que, ao contrário do que foi decidido, impugnou todos os fundamentos da decisão que não admitiu o recurso especial.
+Requer, ao final, a reforma de decisão.
+É o relatório.
+Decido.
+Não assiste razão ao agravante.
+Cumpre registrar, inicialmente, que correta está a decisão agravada ao afirmar que, em relação ao paradigma apontado, não foi realizado o cotejo analítico de forma adequada, o que representa desatenção ao disposto no art. 255, § 1º, do Regimento Interno desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. JULGADO PROFERIDO EM HABEAS CORPUS. PARADIGMA. IMPOSSIBILIDADE. AUSÊNCIA DE COTEJO ANALÍTICO. PENA-BASE. MAUS ANTECEDENTES. PERÍODO DEPURADOR. AGRAVO NÃO PROVIDO.
+1. O recurso especial não pode ser conhecido sob a alínea "c" do permissivo constitucional, pois o aresto colacionado como paradigma foi proferido em habeas corpus, além de não ter sido realizado o imprescindível cotejo analítico.
+2. Consoante entendimento deste Superior Tribunal, decorrido o prazo de cinco anos entre a data do cumprimento ou a extinção da pena e a infração posterior, a condenação anterior, embora não possa prevalecer para fins de reincidência, pode ser, em princípio, sopesada a título de maus antecedentes. Precedentes.
+3. Agravo regimental não provido. (AgRg no AREsp n. 924.453/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/9/2016, DJe 15/9/2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 214, C/C O ART. 224, ALÍNEA A, DO CÓDIGO PENAL. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. HABEAS CORPUS COMO PARADIGMA. INADEQUAÇÃO. INÉPCIA DA DENÚNCIA. NÃO INDICAÇÃO DA DATA PRECISA DO FATO DELITUOSO. ALEGADA NULIDADE PELO NÃO RECOLHIMENTO DE CUSTAS, PELA DEFESA, PARA REALIZAÇÃO DE DILIGÊNCIA. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. INVIABILIDADE.
+I - O recurso especial interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal exige a demonstração do dissídio jurisprudencial, através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ).
+II - Ademais, a jurisprudência deste eg. Superior Tribunal de Justiça é pacífica no sentido de que acórdãos proferidos em julgamento de habeas corpus não servem como paradigma para demonstração do dissídio jurisprudencial.
+III - Esta Corte firmou orientação no sentido de que a não indicação precisa da data em que ocorreram os fatos criminosos não gera, por si só, a inépcia da exordial acusatória, mormente in casu, quando a denúncia aponta o período em que os delitos teriam sido praticados - entre 1995 e 1999. (Precedentes).
+IV - Aplica-se o óbice previsto no Enunciado n. 283 da Súmula do col. Supremo Tribunal Federal na hipótese em que o recorrente deixa de impugnar especificamente fundamento que, por si só, é suficiente para manter a decisão recorrida.
+Agravo regimental desprovido. (AgRg no REsp n. 1.390.846/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/8/2016, DJe 26/8/2016.)
+Insta consignar, ainda, queas teses sustentadas nas razões do recurso especial, quanto à alegação de ofensa aos arts. 41, 93, 111, inciso I, 155, 156, incisos I e II, do Código de Processo Penal e dos arts. 1º, I, e 2º, inciso II, da Lei n.8.137/1990, careceramdo devido prequestionamento.
+Ademais,a defesa não se valeu dos devidos aclaratórios para tal desiderato e, se acaso fossem manejados, e persistindo a omissão, caberia ao agravante ter alegado, nas razões do apelo especial, a ocorrência de violação ao disposto no art. 619 do Código de Processo Penal, ônus do qual também não se desincumbiu.
+Concluo, portanto, que o prequestionamento do tema objeto do recurso é exigência inafastável e prevista constitucionalmente no capítulo referente ao recurso especial.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA O ART. 159, § § 3º E 4º, DO CP. PREQUESTIONAMENTO. INEXISTÊNCIA. AUSÊNCIA DE ALEGADA VIOLAÇÃO AO ART. 619 DO CPP. INCIDÊNCIA DA SÚMULA 211 DO STJ. AGRAVO NÃO PROVIDO.
+1. In casu, recorrente não prequestionou o tema a contento, pois a discussão na instância a quo não chegou à exaustão. Em que pese à oposição de embargos de declaração, estes foram rejeitados, sem que o Tribunal de origem tenha se manifestado acerca do tema.
+2. Dessa forma, persistindo a omissão na decisão do recurso integrativo, o recorrente deve interpor recurso especial combase na violação ao art. 619 do Código de Processo Penal, para que esta Corte Superior determine, ou não, o retorno dos autos à origem, a fim de sanar eventual mácula, o que não ocorreu nos autos.
+3. Assim, incide na espécie o verbete da Súmula n. 211 do STJ, verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+4. Agravo regimental não provido. (AgRg no AREsp n. 1394595/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/3/2019, DJe 27/3/2019.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AO ART. 59 DO CP. (I) - TESE JURÍDICA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA DISCUTIDA SOMENTE NO VOTO VENCIDO. SÚMULA 320/STJ. (II) - RAZÕES RECURSAIS DISSOCIADAS DO ACÓRDÃO RECORRIDO. APELO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. (III) - REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. "A questão federal somente ventilada no voto vencido não atende ao requisito do prequestionamento". Enunciado 320 da Súmula deste STJ.
+2. Estando a fundamentação do acórdão recorrido dissociada das razões recursais a ele relacionadas, resta impossibilitada a compreensão da controvérsia arguida nos autos, ante a deficiência na fundamentação recursal. Incidência do enunciado nº 284 da Súmula do STF.
+3. O raciocínio esposado pelo Tribunal a quo, insere-se dentro de um juízo de discricionariedade do julgador e está atrelada às particularidades fáticas do caso concreto e subjetivas do agente, não sendo cabível sua alteração nesta sede, em razão da incidência do óbice contido no enunciado 7 da Súmula deste Tribunal.
+4. Agravo regimental a que se nega provimento. (AgInt no REsp n. 1588899/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/8/2016, DJe 12/8/2016.)
+Por fim, como bem salientado pela decisão de admissibilidade do recurso especial à e-STJ fls. 355/356, "o que se observa é que o recorrente pretende a revisão doentendimento sedimentado pelo órgão colegiado quanto aos artigos apontados, tanto que a peça recursal mais assemelha-se a uma segunda apelação, não atendendo, desse modo, aos requisitos do art. 1.029 do NCPC".
+Ante o exposto, reconsidero a decisão de e-STJ fls.509/510 e conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
