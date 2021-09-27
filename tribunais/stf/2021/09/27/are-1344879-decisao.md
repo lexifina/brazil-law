@@ -1,0 +1,40 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CONTRIBUIÇÃO SOCIAL. CONTRIBUINTE INDIVIDUAL. TRANSPORTADORES AUTÔNOMOS. ART. 22, III, DA LEI Nº 8.212/1991. BASE DE CÁLCULO. PORTARIA Nº 1.135/2001. LEGALIDADE.
+    1 - A Lei 9.876/1999 alterou a redação do artigo 22 da Lei 8.212/1991, criando contribuição social da empresa, incidente no percentual de 20% sobre o total das remunerações pagas, devidas ou creditadas a qualquer título, no decorrer do mês, aos segurados contribuintes individuais que lhe prestem serviços.
+    2 - O Decreto nº 3.048/2001, em seus artigos 201 e 267, disciplinou os critérios de apuração da remuneração paga ao contribuinte individual, ou seja, a base de cálculo do tributo. Posteriormente, a Portaria MPAS nº 1.135/2001 alterou o disposto no Decreto nº 3.048/1999, aumentando o percentual a ser aplicado sobre o valor bruto do frete e, consequentemente, o valor do tributo devido.
+    3 - As contribuições para custeio da seguridade social possuem natureza tributária e, portanto, submetem-se ao princípio da legalidade tributária, de acordo com o qual não se pode exigir ou aumentar tributo sem lei que o estabeleça (art. 150, I, da CF).
+    4 - Os recolhimentos efetivados pela impetrante a título de contribuição social sobre os valores pagos aos transportadores autônomos nos moldes do disposto no Decreto nº 3.048/1999 e na Portaria MPAS nº 1.135/2001 são indevidos” (documento eletrônico 78).
+    Os embargos de declaração que se seguiram foram acolhidos sem modificação do julgado, em acórdão assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO SOCIAL. CONTRIBUINTE INDIVIDUAL. TRANSPORTADORES AUTÔNOMOS. ART. 22, III, DA LEI Nº 8.212/1991. BASE DE CÁLCULO. PORTARIA Nº 1.135/2001. LEGALIDADE.
+    1 - A Lei 9.876/1999 alterou a redação do artigo 22 da Lei 8.212/1991, criando contribuição social da empresa, incidente no percentual de 20% sobre o total das remunerações pagas, devidas ou creditadas a qualquer título, no decorrer do mês, aos segurados contribuintes individuais que lhe prestem serviços.
+    2 - O Decreto nº 3.048/2001, em seus artigos 201 e 267, disciplinou os critérios de apuração da remuneração paga ao contribuinte individual, ou seja, a base de cálculo do tributo. Posteriormente, a Portaria MPAS nº 1.135/2001 alterou o disposto no Decreto nº 3.048/1999, aumentando o percentual a ser aplicado sobre o valor bruto do frete e, consequentemente, o valor do tributo devido.
+    3 - As contribuições para custeio da seguridade social possuem natureza tributária e, portanto, submetem-se ao princípio da legalidade tributária, de acordo com o qual não se pode exigir ou aumentar tributo sem lei que o estabeleça (art. 150, I, da CF).
+    4 - Os recolhimentos efetivados pela impetrante a título de contribuição social sobre os valores pagos aos transportadores autônomos nos moldes do disposto no Decreto nº 3.048/1999 e na Portaria MPAS nº 1.135/2001 não afrontam o princípio da legalidade” (documento eletrônico 93).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 150, I e 195, I, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Registro que esta Corte tem jurisprudência firmada no sentido de ser inconstitucional a fixação ou a majoração da base de cálculo de contribuição social por meio de norma infralegal. Nesse sentido, destaco julgados desta Corte cujas ementas transcrevo a seguir:
+    “TRIBUTO – BASE DE INCIDÊNCIA – PRINCÍPIO DA LEGALIDADE ESTRITA. A fixação da base de incidência da contribuição social alusiva ao frete submete-se ao princípio da legalidade.
+    CONTRIBUIÇÃO SOCIAL – FRETE – BASE DE INCIDÊNCIA – PORTARIA – MAJORAÇÃO. Surge conflitante com a Carta da República majorar mediante portaria a base de incidência da contribuição social relativa ao frete.
+    MANDADO DE SEGURANÇA – BALIZAS. No julgamento de processo subjetivo, deve-se observar o pedido formalizado” (RMS 25.476/DF, Redator para o acórdão o Ministro Marco Aurélio – Pleno).
+    Contudo, o caso sob exame é diverso do paradigma mencionado, porquanto a legislação tributária inquinada de ilegal não implementou aumento da exação, uma vez que foi editada para esclarecer no que consiste a remuneração do trabalhador autônomo sobre a qual deverá incidir contribuição previdenciária, conforme se extrai dos seguintes trechos do voto condutor do acórdão recorrido, a seguir transcritos, verbis:
+    “Discute-se, nos autos, a contribuição sobre pagamento da remuneração de contribuinte individual (transportador autônomo).
+    No caso em tela, a Lei nº 8.212, em seu artigo 22, dispõe:
+    'Art. 22. A contribuição a cargo da empresa, destinada à Seguridade Social, além do disposto no art. 23, é de: (Vide Lei nº 9.317, de 1996):
+    (...) III - vinte por cento sobre o total das remunerações pagas ou creditadas a qualquer título, no decorrer do mês, aos segurados contribuintes individuais que lhe prestem serviços; (Incluído pela Lei nº 9.876, de 26.11.99)'.
+    Por outro lado, estabelece o Decreto nº 3.048 que:
+    'Art. 201. A contribuição a cargo da empresa, destinada à seguridade social, é de:
+    (...)
+    § 4º A remuneração paga ou creditada a condutor autônomo de veículo rodoviário, ou ao auxiliar de condutor autônomo de veículo rodoviário, em automóvel cedido em regime de colaboração, nos termos da Lei nº 6.094, de 30 de agosto de 1974, pelo frete, carreto ou transporte de passageiros, realizado por conta própria, corresponde a vinte por cento do rendimento bruto. (Redação dada pelo Decreto nº 4.032, de 26/11/2001)'.
+    Destarte, não há que se falar em ilegalidade do artigo 201, § 4º, do Decreto n. 3.048/1999 e da Portaria MPAS 1.135/2001, tendo em vista que tais atos normativos não afrontam o princípio da legalidade, na medida em que foram editados apenas esclarecer no que consiste a remuneração do trabalhador autônomo, sobre a qual deverá incidir contribuição previdenciária, nos termos do art. 22, III, da Lei n. 8.212/91” (págs. 1-2 do documento eletrônico 77 - grifei).
+    Dessa forma, para dissentir da conclusão adotada pelo Tribunal de origem e verificar a procedência dos argumentos consignados no apelo extremo, notadamente quanto à discussão sobre a legislação aplicável considerando a declaração de inconstitucionalidade do ato infralegal, seria necessário rever a interpretação dada à legislação infraconstitucional pertinente ao caso (Lei 8.212/1991 e Lei 9.876/1999), de modo que eventual ofensa à Constituição Federal seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, destaco julgados desta Corte cujas ementas seguem transcritas:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. TRANSPORTADORES AUTÔNOMOS. BASE DE CÁLCULO FIXADA POR PORTARIA. DECLARAÇÃO DE INCONSTITUCIONALIDADE. QUESTIONAMENTO DA ALÍQUOTA APLICÁVEL. MATÉRIA INFRACONSTITUCIONAL.
+    1. É inviável, em recurso extraordinário, questionar, com base em legislação infraconstitucional, alíquota de contribuição previdenciária, matéria que apenas de forma reflexa poderia ofender a Constituição Federal.
+    2. Agravo regimental não provido” (ARE 1.152.062-AgR/DF, Rel. Min. Edson Fachin).
+     “Agravo regimental no recurso extraordinário. Tributário. Contribuição previdenciária. Transportador autônomo. Base de cálculo. Suficiência de sua definição na Lei nº 8.212/91. Contencioso que envolve interpretação da legislação infraconstitucional. Ofensa constitucional indireta.
+    1. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional e a análise de ofensa reflexa à Constituição Federal.
+    2. Agravo regimental não provido” (RE 634.315-AgR/DF, Rel. Min. Dias Toffoli).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Sem honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+    Brasília, 27 de setembro de 2021.
+Ministro Ricardo Lewandowski
+Relator
