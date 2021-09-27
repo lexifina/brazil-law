@@ -1,0 +1,31 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 2.055, DE 17 DE MAIO DE 2.017, DO MUNICÍPIO DE INDIANA, QUE ‘DISPÕE SOBRE A REVISÃO GERAL ANUAL DOS SALÁRIOS DOS AGENTES POLÍTICOS DO PODER EXECUTIVO, E DA OUTRAS PROVIDÊNCIAS’. FIXAÇÃO DA REVISÃO GERAL ANUAL AOS AGENTES POLÍTICOS DO PODER EXECUTIVO MUNICIPAL, PREFEITO(A) E VICE-PREFEITO(A). ADMISSIBILIDADE. AUSÊNCIA DE VEDAÇÃO CONSTITUCIONAL. INTELIGÊNCIA DOS ARTS. 29, INCISO V, 37, X e XI cc. § 4º DO ARTIGO 39, DA CONSTITUIÇÃO FEDERAL, APLICÁVEIS AOS MUNICÍPIOS POR FORÇA DO ARTIGO 144 DA CARTA BANDEIRANTE, BEM ASSIM DO ARTIGO 115, XI DA CITADA CARTA. PRECEDENTES. PREVISÃO DO INCISO VI DO ARTIGO 29 DA CARTA FEDERAL DIRIGIDA UNICAMENTE AOS VEREADORES, POIS, CONSOANTE AQUI JÁ SE DECIDIU EM TEMA IDÊNTICO AO DESTES AUTOS, ONDE A LEI NÃO DISTINGUE, NÃO CABE AO INTERPRETE FAZÊ-LO. AÇÃO JULGADA IMPROCEDENTE” (pág. 3 do doc. eletrônico 5).
+    No RE, fundado no art. 102, III, a e c, da Constituição, alega-se violação dos arts. 29, V e VI; 37, caput, X; e 39, § 4º, da mesma Carta.
+    Sustenta-se que a Lei Municipal 2.025/2017 é inconstitucional e que a Corte de origem ao julgar a ação improcedente e permitir a “fixação dos subsídios do Prefeito e do Vice-Prefeito no curso do mandato eletivo […], com efeitos retroativos,” feriu “a regra da anterioridade da legislatura” (pág. 5 doc. eletrônico 8).
+    Aduz-se, in verbis, que
+    “o art. 29, VI, da Constituição de 1.988 edifica explicitamente como decorrência do princípio da moralidade administrativa (art. 37, Carta Magna) as regras da anterioridade da legislatura para fixação dos subsídios dos Vereadores e de sua inalterabilidade durante esse período. A mesma regra se estende aos demais agentes políticos ( Prefeito, Vice-Prefeito e Secretários)” (pág. 7 do doc. eletrônico 8; grifos no original).
+    É o relatório. Decido.
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido diverge da jurisprudência do Supremo Tribunal Federal, no sentido de que a remuneração de prefeito, vice-prefeito e secretários municipais será fixada pela Câmara Municipal em cada legislatura para a subsequente, nos termos do art. 29, VI, da Constituição. Conforme esse entendimento, cito os seguintes precedentes desta Corte:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 3º DAS LEIS 10.415/2013, 10.729/2014, 11.069/2015, 11.285/2016 E 11.692/2018 DO MUNICÍPIO DE SOROCABA – SP. SECRETÁRIOS MUNICIPAIS, PREFEITO, VICE-PREFEITO E VEREADORES. FIXAÇÃO DE SUA REMUNERAÇÃO. DECLARAÇÃO, PELO TRIBUNAL DE ORIGEM, DE INCONSTITUCIONALIDADE PARCIAL APENAS EM RELAÇÃO AOS VEREADORES. REVISÃO DE SUBSÍDIOS DE SECRETÁRIOS MUNICIPAIS, PREFEITO E VICE–PREFEITO. OBRIGATORIEDADE DE OBSERVÂNCIA DO PRINCÍPIO DA ANTERIORIDADE. FIXAÇÃO PARA A LEGISLATURA SUBSEQUENTE. ARTIGO 29, INCISO V, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL. RECURSO PROVIDO.
+    1. Os subsídios de Secretários Municipais, Prefeito e Vice-Prefeito serão fixados pela Câmara Municipal, para a legislatura subsequente, de acordo com o disposto no artigo 29, inciso V, da Constituição da República.
+    2. In casu, revela-se contrária à ordem constitucional a revisão dos subsídios de Secretários Municipais, Prefeito e Vice-Prefeito prevista no artigo 3º das Leis 10.415/2013, 10.729/2014, 11.069/2015, 11.285/2016 e 11.692/2018 do Município de Sorocaba – SP. Precedentes do STF.
+    3. Recurso extraordinário provido para declarar a inconstitucionalidade do artigo 3º das Leis 10.415/2013, 10.729/2014, 11.069/2015, 11.285/2016 e 11.692/2018 do Município de Sorocaba – SP” (RE 1.236.916/SP, Rel. Min. Luiz Fux, Tribunal Pleno).
+    “Agravo regimental em agravo de instrumento. 2. Constitucional. Prefeito, Vice-Prefeito e vereadores. Fixação da remuneração. Obrigatoriedade de ser feita na legislatura anterior para vigorar na subsequente. Princípio da anterioridade. Precedentes. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 843.758-AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma).
+    “Prefeito. Subsídio. Art. 29, V, da Constituição Federal. Precedente da Suprema Corte.
+    1. Já assentou a Suprema Corte que a norma do art. 29, V, da Constituição Federal é auto-aplicável.
+    2. O subsídio do prefeito é fixado pela Câmara Municipal até o final da legislatura para vigorar na subseqüente.
+    3. Recurso extraordinário desprovido” (RE 204.889/SP, Rel. Min. Menezes Direito, Primeira Turma).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. VEREADORES. REMUNERAÇÃO. FIXAÇÃO. LEGISLATURA SUBSEQÜENTE. PRINCÍPIO DA ANTERIORIDADE. CF/88, ART. 29, V.
+    1. Princípio da anterioridade - A remuneração de Prefeito, Vice-Prefeito e de Vereadores será fixada pela Câmara Municipal, para a legislatura subseqüente (CF, art. 29, V). Precedentes.
+    2. As razões do regimental não atacam os fundamentos da decisão agravada.
+    3. Agravo regimental improvido” (RE 229.122-AgR/RS, Rel. Min. Ellen Gracie, Segunda Turma).
+    “CONSTITUCIONAL. AÇÃO POPULAR. VEREADORES: REMUNERAÇÃO: FIXAÇÃO: LEGISLATURA SUBSEQÜENTE. C.F., art. 5º, LXXIII; art. 29, V. PATRIMÔNIO MATERIAL DO PODER PÚBLICO. MORALIDADE ADMINISTRATIVA: LESÃO.
+    I. - A remuneração do Prefeito, do Vice-Prefeito e dos Vereadores será fixada pela Câmara Municipal em cada legislatura para a subseqüente. C.F., art. 29, V. Fixando os Vereadores a sua própria remuneração, vale dizer, fixando essa remuneração para viger na própria legislatura, pratica ato inconstitucional lesivo não só ao patrimônio material do Poder Público, como à moralidade administrativa, que constitui patrimônio moral da sociedade. C.F., art. 5º, LXXIII.
+    II. - Ação popular julgada procedente.
+    III. - R.E. não conhecido” (RE 206.889/MG, Rel. Min. Carlos Velloso, Segunda Turma).
+    Isso posto, dou provimento ao recurso extraordinário para reconhecer a inconstitucionalidade da Lei 2.055/2017 do Município de Indiana/SP.
+    Publique-se.
+    Brasília, 27 de setembro de 2021.
+Ministro Ricardo Lewandowski
+Relator
