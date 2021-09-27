@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por CLARISMINDO MODESTO DINIZ eJOSÉ ANTÔNIO DE ABREU, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra decisão monocrática proferida pelaMinistra Assusete Magalhães, nos seguintes termos (e-STJ fls. 1.226-1.228):
+A irresignação não merece prosperar.
+Na origem, o Ministério Público do Estado de Tocantins ajuizou ação civil pública, objetivando a condenação por ato de improbidade administrativa.
+Julgada procedente a demanda, recorreram os réus, tendo sido mantida a sentença, pelo Tribunal local. Daí a interposição do presente Recurso Especial.
+Em relação aos arts. 489, § 1º, IV, 1.013 e 1.022, II, do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mais, aplica-se o teor da Súmula 284 do STF, quanto à alegação de violação ao art. 1.013 do CPC/2015 tendo em vista que não desenvolveu a parte recorrente, em suas razões de Recurso Especial, argumentos para demonstrar de que modo tal dispositivo foi violado.
+No mérito, o Tribunal de origem, a partir das provas trazidas aos autos, asseverou estar caracterizado o ato de improbidade administrativa, consubstanciado na promoção pessoal de autoridade pública, firme nos seguintes fundamentos:
+ ..
+Assim, cabe registrar que, na forma da jurisprudência do STJ, "não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (STJ, REsp 1.602.794/TO, Rel. Ministro HERMAN BENJAMIN,SEGUNDA TURMA, DJe de 30/06/2017).
+Com efeito, o entendimento do acórdão recorrido não diverge da jurisprudência do Superior Tribunal de Justiça no sentido de que, para que seja configurado o ato de improbidade de que trata a Lei 8.429/99, "é necessária a demonstração do elemento subjetivo, consubstanciado pelo dolo para os tipos previstos nos artigos 9º e 11 e, ao menos, pela culpa, nas hipóteses do artigo 10" (REsp 1.261.994/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 13/04/2012). Nesse sentido: AIA 30/AM, Rel. Ministro TEORI ALBINO ZAVASCKI, CORTE ESPECIAL, DJe 28/09/2011.
+Além disso, o Superior Tribunal de Justiça possui entendimento no sentido de que "o elemento subjetivo, necessário à configuração de improbidade administrativa censurada nos termos do art. 11 da Lei 8.429/1992, é o dolo genérico de realizar conduta que atente contra os princípios da Administração Pública, não se exigindo a presença de dolo específico" (REsp 951.389/SC, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 04/05/2011).
+Assim, alterar as conclusões do Tribunal de origem, no sentido de que estaria demonstrada a prática de ato de improbidade administrativa, acatando as alegações recursais, no sentido de que não estaria comprovado o dolo, ensejaria, inevitavelmente, o reexame fático-probatório dos autos, procedimento vedado, pela Súmula 7 desta Corte.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial, e, nessa extensão,nego-lhe provimento.
+Sustentam os recorrentes que houve violação doart. 37, § 4º, da Constituição Federal.
+Alegam que"o julgamento em processos de probidade do gestor público, tem exigido dos Tribunais a prova da má-fé na conduta, da vontade deliberada de corromper e causar dano" (e-STJ fl. 1.239)
+Aduzem que para "evitar interpretações desmedidas do artigo 37, § 4º da Carta Magna, tem-se que resta imprescindível a prova do prejuízo econômico ao erário, o nexo de causalidade entre a ação danosa e a violação aos princípios da administração pública (art.11), para a finalidade ímproba" (e-STJ fl. 1.241).
+Requerem, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas contrarrazões (e-STJ fl. 1.255).
+É o relatório.
+Nos termos do art.102, inciso III, alínea "a", da Constituição Federal, compete ao Supremo Tribunal Federal o julgamento, mediante recurso extraordinário, das causas decididas em única ou última instância.
+No caso dos autos, verifica-se que o recurso extraordinário foi interposto em face de decisão monocrática proferida por integrante deste Superior Tribunal de Justiça, contra a qual seria cabível agravo interno.
+Dessa forma, ante a ausência de exaurimento das vias recursais nesta instância especial, deve ser aplicado o enunciado 281 da Súmulado Supremo Tribunal Federal, in verbis:
+É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+No mesmo sentido:
+Agravo regimental no recurso extraordinário com agravo. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Precedentes. 1. Incide no caso a Súmula nº 281 do Supremo Tribunal Federal, pois o recurso extraordinário foi interposto contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1246783 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS RECURSAIS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Consoante a Súmula 281 do Supremo Tribunal Federal, é inadmissível o recurso extraordinário quando couber na Justiça de origem recurso ordinário da decisão impugnada. II - Agravo regimental a que se nega provimento.
+(ARE 1265496 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 29/05/2020, PROCESSO ELETRÔNICO DJe-138 DIVULG 03-06-2020 PUBLIC 04-06-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO ENUNCIADO 281 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
