@@ -1,0 +1,25 @@
+AGRAVO DE INSTRUMENTO no 1016921-05.2021.8.11.0000
+AGRAVANTE: UNIMED NORTE MATO GROSSO COOPERATIVA DE TRABALHO MÉDICO.
+AGRAVADO: S. D. M. B. representado por seu genitor RAFAEL CAMPAGNOLO BARAZETTI.
+Processo na origem: 1001292-86.2021.8.11.0033
+Comarca de São José do Rio Claro.
+Agravo de instrumento interposto por UNIMED NORTE MATO GROSSO COOPERATIVA DE TRABALHO MÉDICO de decisão que deferiu tutela de urgência.
+AÇÃO: Ação de Obrigação de Fazer (Proc. n°1001292-86.2021.8.11.0033) que S. D. M. B. representado por seu genitor RAFAEL CAMPAGNOLO BARAZETTI move contra UNIMED NORTE MATO GROSSO COOPERATIVA DE TRABALHO MÉDICO.
+DECISÃO AGRAVADA: deferiu pedido de tutela de urgência para compelir a operadora do plano de saúde a autorizar e custear o tratamento multidisciplinar para a agravante quais sejam: 1) FONOAUDIÓLOGA com enfoque analítico comportamental, capacitada em ABA, cuja recomendação médica é 3x na semana. 2) TERAPIA OCUPACIONAL especializada em atendimento infantil e capacitação em intervenção precoce e analise de comportamento, aplicada 3x na semana, por tempo indeterminado. 3) PSICÓLOGA PELO MÉTODO ABA, neuropsicológica e com aplicação (VB-MAPP) ou ABA, ou TERAPIA COGNITIVA COMPORTAMENTAL, recomendação de 5x na semana, 2 horas por sessão, por tempo indeterminado.
+AGRAVO: UNIMED NORTE MATO GROSSO COOPERATIVA DE TRABALHO MÉDICO alega que não estão presentes os requisitos que autorizam a tutela de urgência. Aduz que não há previsão contratual ou no Rol de Procedimentos da ANS para tratamentos novos e alterativos e somente tem o dever de autorizar os procedimentos, medicamentos e eventos de saúde constantes do rol de procedimentos médicos abrangidos pelo contrato, portanto ausente a probabilidade do direito. Sustenta que não se trata de tratamento de urgência ou emergência, o que afasta perigo de dano ou risco de resultado útil ao processo que justifiquem a concessão da tutela de urgência. Defende que o rol da ANS não pode ser considerado como meramente explicativo e que os serviços poderiam ter sido objeto de uma contratação adicional e específica aumentando a abrangência para além da cobertura descrita no rol da ANS, o que não ocorreu. Assevera que não houve abusividade ou nulidade dos termos pactuados entre as partes, porquanto claros e de fácil compreensão, e que oferece os tratamentos pelos métodos convencionais na rede credenciada. Insiste que há irreversibilidade da medida. Pugna pela concessão de efeito suspensivo até o julgamento do presente recurso e, no mérito, pelo provimento do recurso para cassar a tutela de urgência que seja reconhecida a inexistência dos requisitos autorizadores da antecipação de tutela.
+É o relato.
+Decido.
+Insurge-se a agravante contra a decisão que deferiu o pedido de tutela de urgência para compelir a operadora do plano de saúde a autorizar e custear o tratamento multidisciplinar para a agravante quais sejam: 1) FONOAUDIÓLOGA com enfoque analítico comportamental, capacitada em ABA, cuja recomendação médica é 3x na semana. 2) TERAPIA OCUPACIONAL especializada em atendimento infantil e capacitação em intervenção precoce e analise de comportamento, aplicada 3x na semana, por tempo indeterminado. 3) PSICÓLOGA PELO MÉTODO ABA, neuropsicológica e com aplicação (VB-MAPP) ou ABA, ou TERAPIA COGNITIVA COMPORTAMENTAL, recomendação de 5x na semana, 2 horas por sessão, por tempo indeterminado.
+A agravada, atualmente com 2 anos de idade, contratou com a requerida o plano de saúde, tendo aderido ao referido contrato em 24/06/2019, e foi diagnosticada com CID 10:F84, G47, F80, F83, R56.0, associado ao autismo infantil, sendo-lhe recomendada a realização de terapias multidisciplinares, objetivando melhorar a qualidade de vida e independência.
+A agravante se recusou ao custeio do tratamento, sob o argumento que o tratamento não consta no rol de cobertura do contrato vigente, tampouco consta no rol de cobertura da ANS.
+A tutela cujos efeitos se antecipa é aquela que, mesmo à luz de um exame sumário, mostra-se marcadamente vocacionada a se tornar definitiva por ocasião do exame da matéria pelo mérito.
+Para a concessão, então, constitui ônus de quem a postula demonstrar os requisitos que lhe são próprios, ou seja, a probabilidade do direito e o perigo que resulta, se reservado seu exame apenas para o final.
+No caso, a requerida, ora agravante, não logrou demonstrar a probabilidade do direito porque há previsão no contrato para o tratamento da patologia que acomete a autora, ora agravada, e quanto aos tratamentos recomendados pelos médicos, incumbe aos especialistas decidir qual a melhor forma de tratamento.
+Realça-se que, a princípio, deve prevalecer a proteção da vida, saúde e da dignidade da autora, principalmente por ser evidente no caso o caráter de urgência do tratamento prescrito, em virtude do diagnóstico da agravada.
+Isso posto, nega-se o efeito suspensivo pleiteado.
+Intime-se a agravada para apresentar contraminuta.
+Após, colha-se o parecer da i. Procuradoria-Geral de Justiça.
+Cuiabá, 24 de setembro de 2021.
+Des. Guiomar Teodoro Borges
+Relator
+6
