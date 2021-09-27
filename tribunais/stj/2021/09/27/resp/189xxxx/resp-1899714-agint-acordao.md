@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por FAUEZ ZAR JUNIOR em face da decisão acostada às fls. 411/416, e-STJ, da lavra deste relator, que deu parcial provimento ao recurso da operadora de saúde, integrada pela decisão proferida nos embargos de declaração opostos pela parte autora e rejeitados.
+O apelo extremo, interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (fls. 322/327, e-STJ), assim ementado:
+Plano de saúde. Ação de obrigação de fazer c.c. indenização por dano moral, material e antecipação da tutela recursal.
+Sentença de procedência. Recurso da autora. Negativa injustificada de Exame de Tomografia do Tórax/Mediastino com Biópsia Lesão Pulmonar em Lobo Superior Direito de 6 mm, necessário ao tratamento de saúde da autora, portadora de "câncer de peritônio". Exame prescrito pelo médico que trata da paciente. Abusividade se há expressa indicação médica. Compete ao plano estabelecer quais doenças são cobertas, mas não o tipo de tratamento que o paciente deve ser submetido. Aplicação das Súmulas 96 e 102 deste TJSP.
+Negativa de cobertura que coloca em risco o objeto do contrato. Dano material que não foi especificado, Improcedência do pleito. Indenização por dano moral devida.
+Quantum fixado que comporta majoração. Sentença reformada neste ponto.
+Recurso parcialmente provido.
+Opostos embargos declaratórios, restaram desacolhidos na origem.
+Nas razões do especial (fls. 331/348, e-STJ), o insurgente alega violação aos arts. 10, § 4º, da Lei n. 9656/98, 51, inc. IV do CDC e 186, 188, inc. I, 927 e 944, parágrafo único, todos do CC.
+Sustentou, em síntese a legalidade da cláusula limitativa do tratamento, por não se encontrar o mesmo previsto no rol da ANS. Pleiteou, ademais, o afastamento da condenação em danos morais por não ter havido ilicitude na negativa de cobertura do procedimento.
+Em julgamento monocrático, deu-se provimento parcial ao recurso especial.
+Dessa decisão, a parte autora opôs embargos de declaração (fls. 421/460, e-STJ) alegando omissão o decisum quanto a alegação trazida a respeito da deserção do recurso especial. Os aclaratórios foram rejeitados.
+Inconformada, a parte autora interpõe o presente agravo interno (fls. 445/449, e-STJ) sustentando a deserção do recurso especial.
+Impugnação às fls. 453/459, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AUTORA.
+1. Não há falar em deserção do recurso especial quando a parte, intimada a complementar as custas, efetua o recolhimento devido.
+1.1. Na hipótese, não foi comprovado o recolhimento do preparo no momento da interposição do recurso. Em momento posterior, sem ser intimada, a parte juntou a guia de recolhimento e o respectivo comprovante de pagamento - todavia, de forma simples.
+1.2. Já no âmbito deste STJ, a Presidência intimou a insurgente a complementar as custas, ante a necessidade de recolhimento em dobro - o que restou devidamente atendido.
+2. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+Ressalte-se ter a parte autora se insurgido apenas com relação a apontada deserção do recurso especial. Opera-se, assim, a preclusão quanto ao mérito do apelo nobre, não infirmado pela insurgente.
+1. Conforme dito na decisão proferida quando dos embargos de declaração, não há falar em deserção do recurso especial.
+Extrai-se da decisão proferida às fls. 395, e-STJ, da lavra da Presidência desta Casa que houve a intimação para que a parte contrária complementasse o preparo, confira-se:
+Não foi comprovado o recolhimento do preparo no momento da interposição do recurso e, antes de o Tribunal de origem proceder à intimação para o recolhimento em dobro, previsto no § 4º do art. 1.007 do Código de Processo Civil, a parte juntou a guia de recolhimento e o respectivo comprovante de pagamento; no entanto, de forma simples.
+Dessa forma e como as custas eram devidas em dobro, intime-se a parte recorrente, nos termos do § 2º, c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de 5 (cinco) dias, o vício apontado, complementando o recolhimento, sob pena de não conhecimento do recurso.
+E, às fls. 403, e-STJ, houve a complementação do preparo, com o pagamento de mais R$ 194,12, valor esse que somado ao anteriormente pago, configura o pagamento em dobro, o que afasta a deserção do recurso.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO CARACTERIZADA. ACOLHIMENTO COM EFEITOS INFRINGENTES.
+1. Os Embargos de Declaração devem ser acolhidos, pois não houve manifestação quanto à tese, veiculada no Agravo Interno, de que uma vez atingida a finalidade do preparo, deve ser afastada a deserção, conforme jurisprudência do Superior Tribunal de Justiça.
+2. No caso dos autos, o recolhimento das custas para interposição do Recurso Ordinário foi efetuado conforme o comprovante de pagamento constante da fl. 412 e a guia de pagamento da fl. 414, que indicaram corretamente o STJ como unidade de destino, o número do processo e o nome e CPF da parte. Contudo, no momento do preenchimento do formulário eletrônico, houve indicação errônea do tipo de recurso, pois o ora agravante, em vez de recolher as custas do Recurso em Mandado de Segurança, recolheu as de recurso diverso, o que ensejou recolhimento a maior.
+3. A jurisprudência do Superior Tribunal de Justiça entende que a deserção é afastada quando comprovado que o recolhimento do preparo foi revertido em favor do Poder Judiciário. A propósito: EAREsp 516.970/PI, Rel. Ministro Og Fernandes, Corte Especial, DJe de 20/2/2018; AREsp 1.399.974/DF, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 1º/3/2019. Na mesma linha, em caso absolutamente análogo: Agravo Interno no RMS 60.901/GO, Ministro Mauro Campbell Marques, DJe de 3.9.2019 4. Embargos de Declaração acolhidos, com efeitos infringentes, a fim de ser dado provimento ao Agravo Interno, para afastar a deserção.
+(EDcl no AgInt no RMS 57.258/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020)
+RECURSO ESPECIAL. CIVIL. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. LEI N. 9.514/1997. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. APELAÇÃO. DESERÇÃO AFASTADA. EFETIVA COMPROVAÇÃO DO PREPARO NO ATO DE INTERPOSIÇÃO DO RECURSO. PURGAÇÃO DA MORA APÓS A CONSOLIDAÇÃO DA PROPRIEDADE EM NOME DO CREDOR FIDUCIÁRIO. POSSIBILIDADE ANTES DA ENTRADA EM VIGOR DA LEI N. 13.465/2017. APÓS, ASSEGURA-SE AO DEVEDOR FIDUCIANTE APENAS O DIREITO DE PREFERÊNCIA. PRAZO DO LEILÃO EXTRAJUDICIAL. ART. 27 DA LEI N. 9.514/1997. IMPOSIÇÃO LEGAL INERENTE AO RITO DA EXCUÇÃO EXTRAJUDICIAL. INOBSERVÂNCIA. MERA IRREGULARIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Convém destacar que o recurso especial foi interposto contra decisão publicada após a entrada em vigor do Código de Processo Civil de 2015, sendo analisados os pressupostos de admissibilidade recursais à luz do regramento nele previsto (Enunciado Administrativo n. 3/STJ).
+2. O propósito recursal cinge-se a definir: i) a possibilidade de purgação da mora, nos contratos de mútuo imobiliário com pacto adjeto de alienação fiduciária, submetidos à Lei n. 9.514/1997, após a consolidação da propriedade em favor do credor fiduciário; e ii) se é decadencial o prazo estabelecido no art. 27 da Lei n. 9.514/1997 para a realização do leilão extrajudicial para a excussão da garantia.
+3. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo falar em negativa de prestação jurisdicional.
+4. A jurisprudência pacífica desta Corte Superior, à luz do CPC/1973, dispõe que o preparo do recurso deve ser comprovado no ato de sua interposição, nos termos do art. 511, com a juntada da guia de recolhimento e do respectivo comprovante de pagamento.
+5. Segundo o entendimento do STJ, a purgação da mora, nos contratos de mútuo imobiliário com garantia de alienação fiduciária, submetidos à disciplina da Lei n. 9.514/1997, é admitida no prazo de 15 (quinze) dias, conforme previsão do art. 26, § 1º, da lei de regência, ou a qualquer tempo, até a assinatura do auto de arrematação, com base no art. 34 do Decreto-Lei n. 70/1966, aplicado subsidiariamente às operações de financiamento imobiliário relativas à Lei n. 9.514/1997.
+6. Sobrevindo a Lei n. 13.465, de 11/07/2017, que introduziu no art. 27 da Lei n. 9.514/1997 o § 2º-B, não se cogita mais da aplicação subsidiária do Decreto-Lei n. 70/1966, uma vez que, consolidada a propriedade fiduciária em nome do credor fiduciário, descabe ao devedor fiduciante a purgação da mora, sendo-lhe garantido apenas o exercício do direito de preferência na aquisição do bem imóvel objeto de propriedade fiduciária.
+7. Desse modo: i) antes da entrada em vigor da Lei n. 13.465/2017, nas situações em que já consolidada a propriedade e purgada a mora nos termos do art. 34 do Decreto-Lei n. 70/1966 (ato jurídico perfeito), impõe-se o desfazimento do ato de consolidação, com a consequente retomada do contrato de financiamento imobiliário; ii) a partir da entrada em vigor da lei nova, nas situações em que consolidada a propriedade, mas não purgada a mora, é assegurado ao devedor fiduciante tão somente o exercício do direito de preferência previsto no § 2º-B do art. 27 da Lei n. 9.514/1997.
+8. O prazo de 30 (trinta) dias para a promoção do leilão extrajudicial contido no art. 27 da Lei n. 9.514/1997, por não se referir ao exercício de um direito potestativo do credor fiduciário, mas à observância de uma imposição legal - inerente ao próprio rito de execução extrajudicial da garantia -, não é decadencial, de forma que a sua extrapolação não extingue a obrigação de alienar o bem imóvel nem restaura o status quo ante das partes, acarretando apenas mera irregularidade, a impedir tão somente o agravamento da situação do fiduciante decorrente da demora imputável exclusivamente ao fiduciário.
+9. Recurso especial parcialmente provido.
+(REsp 1649595/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/10/2020, DJe 16/10/2020)
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
