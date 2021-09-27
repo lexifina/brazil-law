@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão (fls. 386/391, e-STJ) que conheceu parcialmente do Agravo para negar provimento ao Recurso Especial.
+A parte insurgente, nas razões do Agravo Interno, pleiteia a reforma do decisum agravado com a submissão do recurso à Turma julgadora.
+Intimada (fls. 410/411 e-STJ), a parte agravada deixou transcorrer in albis o prazo para manifestação (fl. 412, e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. ALEGA VIOLAÇÃO DO ART. 97, II, DO CTN. FUNDAMENTO INATACADO. APLICAÇÃO DA SÚMULA 283/STF. ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC.
+2. Hipótese em que a agravante afirma que o Tribunal de origem não examinou o argumento de que o benefício tributário concedido não poderia ser revogado por Decreto Estadual, mas o acórdão hostilizado expressamente afirmou que a revogação se deu nos termos da legislação tributária, notadamente com base na cláusula quinta do Convênio ICMS 100/1997. O inconformismo da parte, nesse ponto, diz respeito ao mérito, inconfundível com o vício de omissão.
+3. Quanto à alegada violação do art. 97 do CTN, as razões recursais foram apresentadas de forma genérica, sem contrastar o fundamento segundo o qual a revogação do benefício, na forma como foi feita, encontra respaldo na exigência de estorno do imposto, estabelecida nos incisos I e II do art. 21 da LC 87/1996. A ausência de impugnação específica a esse fundamento atrai a incidência da Súmula 283/STF.
+4. Por último, quanto ao suposto dissídio jurisprudencial, há total e completa dissociação da argumentação veiculada pela agravante, nas razões do Recurso Especial, com o verdadeiro conteúdo do acórdão hostilizado. Afirma a agravante que o acórdão da Corte local não equiparou o estorno de crédito ao conceito de majoração do tributo, mas tal premissa não encontra respaldo no acórdão hostilizado, que, no ponto, foi favorável à pretensão da agravante (fl. 191, e-STJ): "Cabe, contudo, reconhecer que a revogação de benefícios fiscais acarreta, como já reconhecido em casos símiles pelo STF, a majoração indireta do tributo, devendo, portanto, observância ao princípio da anterioridade geral e nonagesimal. Ad exemplum: RE 1.265.596, j. 27-4-2020; RE 1.253.510, j. 3-2-2020; entendimento que, averbe-se, firmou-se posteriormente à edição da invocada orientação estabelecida na súmula 615 do STF (17-10-1984)".
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 25 de junho de 2021.
+Em releitura da questão controvertida, afasto apenas a incidência da Súmula 280/STF, pois a tese de infringência ao art. 1.022 do CPC e ao art. 97 do CTN realmente não é obstada pela incidência do referido óbice sumular. Não obstante, as razões deduzidas neste Agravo Interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+A suposta violação do art. 1.022 do CPC tem por fundamento a alegada ausência de valoração, no acórdão do Tribunal de origem, a respeito da tese segundo a revogação do benefício tributário somente poderia ser feita por lei, e não por mero Decreto.
+A transcrição do seguinte excerto do voto condutor do acórdão proferido na Corte local evidencia a improcedência da argumentação da agravante (fls. 190-191, e-STJ):
+4. Cifra-se a controvérsia dos autos na possibilidade de revogar-se o benefício previsto no § 3º do art. 41 do Anexo I do RIcms por meio de um decreto, bem como a existência, ou não, do dever de observância aos princípios da anterioridade nonagesimal e anual.
+5. Ora, nos termos do art. 1º da Lei complementar 24/1975 (de 7-1), que de há muito o STF solidou recebida pelo Código político de 1988 (cf. ADI 1.179, j. 13-11-2002; REsp 539.130, j. 4-12-2009; ADI 2.549, j. 1º-6-2011; ADI 4.635, j. 22-10-2012),
+"as isenções do imposto sobre operações relativas à circulação de mercadorias serão concedidas ou revogadas nos termos de convênios celebrados e ratificados pelos Estados e pelo Distrito Federal, segundo esta Lei".
+E, para a espécie, o Convênio 100/1997 (de 4-11) do Conselho Nacional de Política Fazendária -Confaz, que reduz a base de cálculo do ICMS nas saídas dos insumos agropecuários que especifica, e dá outras providências., estabeleceu em sua cláusula quinta que:
+"Ficam os Estados e o Distrito Federal autorizados a:
+I - não exigir a anulação do crédito prevista nos incisos I e II do artigo 21 da Lei Complementar nº 87, de 13 de setembro de 1996;
+II - para efeito de fruição dos benefícios previstos neste convênio, exigir que o estabelecimento vendedor deduza do preço da mercadoria o valor correspondente ao imposto dispensado, demonstrando-se expressamente na Nota Fiscal a respectiva dedução" (o destaque não está no original).
+Concedido, portanto, com amparo na cláusula quinta do Convênio 100/1997 do Confaz, o § 1º do art. 41 do RIcms não encontra óbice de revogação, até porque a exigência de estorno do imposto é regra expressamente estabelecida nos incisos I e II do artigo 21 da Lei Complementar 87, de 13 de setembro de 1996 (Lei Kandir).
+"O sujeito passivo deverá efetuar o estorno do imposto de que se tiver creditado sempre que o serviço tomado ou a mercadoria entrada no estabelecimento:
+I - for objeto de saída ou prestação de serviço não tributada ou isenta, sendo esta circunstância imprevisível na data da entrada da mercadoria ou da utilização do serviço;
+II - for integrada ou consumida em processo de industrialização, quando a saída do produto resultante não for tributada ou estiver isenta do imposto"
+Como se vê, o Tribunal de origem enfrentou o tema, consignando que a revogação se deu nos termos da legislação tributária, notadamente com base na cláusula quinta do Convênio ICMS 100/1997. O inconformismo da parte, nesse ponto, diz respeito ao mérito, inconfundível com o vício de omissão.
+De outro lado, quanto ao art. 97, II, do CTN, implicitamente prequestionado, verifico que as razões recursais foram apresentadas de forma genérica, sem contrastar o fundamento segundo o qual a revogação do benefício, na forma como foi feita, encontra respaldo na exigência de estorno do imposto, estabelecida nos incisos I e II do art. 21 da LC 87/1996. A ausência de impugnação específica a esse fundamento atrai a incidência da Súmula 283/STF.
+Por último, no que diz respeito à alínea "c", para citar a existência de dissídio jurisprudencial, a agravante afirma que o acórdão recorrido consignou (fl. 235, e-STJ):
+Enfim, não se pode acolher a tese de que a repercussão econômica da exigência do estorno do crédito tributário RICMS, que garantia a majoração indireta do tributo equipara-se à criação ou aumento de tributo, para fins de aplicação dos princípios constitucionais da anterioridade e da legalidade.
+Há total e completa dissociação do verdadeiro conteúdo do acórdão hostilizado, pois este, no ponto, foi favorável à pretensão da agravante, isto é, considerou que a revogação do benefício é equiparável à majoração do tributo, sujeitando-se, portanto, aos princípios da anterioridade geral e nonagesimal (fl. 191, e-STJ):
+6. Cabe, contudo, reconhecer que a revogação de benefícios fiscais acarreta, como já reconhecido em casos símiles pelo STF, a majoração indireta do tributo, devendo, portanto, observância ao princípio da anterioridade geral e nonagesimal. Ad exemplum: RE 1.265.596, j. 27-4-2020; RE 1.253.510, j. 3-2-2020; entendimento que, averbe-se, firmou-se posteriormente à edição da invocada orientação estabelecida na súmula 615 do STF (17-10-1984).
+Justifica-se, assim, o não conhecimento do apelo nobre em relação à tese de dissídio jurisprudencial.
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
