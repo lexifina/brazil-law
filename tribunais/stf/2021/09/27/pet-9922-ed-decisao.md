@@ -1,0 +1,16 @@
+Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao pedido de efeito suspensivo a recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+    Aduz a embargante, em suma, que a referida decisão seria omissa tendo em vista que a admissibilidade do RE na Corte de origem já teria sido realizada e, ainda, que a urgência da medida requerida teria sido suficientemente demonstrada.
+    É o relatório necessário. Decido.
+    Bem reexaminados os autos, verifico que os embargos declaratórios não merecem acolhida, tendo em vista a ausência dos pressupostos de embargabilidade.
+    Conforme se vê dos autos, ficou expressamente consignado na decisão embargada que “a ausência de juízo positivo de admissibilidade do recurso extraordinário inviabiliza a tramitação de medida cautelar nesta Corte” (pág.4 do doc. eletrônico 14).
+    Ademais, registro que a atribuição de efeito suspensivo a recurso extraordinário é de competência estrita do julgador, quando considerar que se encontra diante de situação excepcional a demandar a superação do óbice anteriormente mencionado, o que não ocorre na hipótese.
+    Com efeito, as questões suscitadas foram suficientemente dirimidas na decisão embargada, na qual ficou explicitada a ótica que levou a uma decisão de negativa de seguimento.
+    Desse modo, após analisar detidamente a decisão impugnada, e atento ao que sustentado nos embargos declaratórios, entendo que o julgamento ora combatido não incorreu em nenhum dos vícios descritos pelo art. 1.022 do CPC/2015.
+    Evidencia-se que, a pretexto de sanar omissão ou contradição, a embargante tem o propósito de provocar o reexame da causa. Entretanto, os embargos de declaração não constituem meio processual adequado para a reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso. Nesse sentido, destaco os seguintes precedentes do Plenário desta Corte:
+     “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.” (ARE 892.129-AgR-ED/DF, Rel. Min. Cármen Lúcia).
+    “EMBARGOS DECLARATÓRIOS. PEDIDO DE SOBRESTAMENTO DO FEITO POSTERIOR A JULGAMENTO DE EMBARGOS DE DECLARAÇÃO. INDEFERIMENTO. ALEGAÇÃO DE OMISSÃO. NÃO CONFIGURAÇÃO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS. 1. Nos termos do artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para fins de correção de erro material. 2. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição ou obscuridade, o que não ocorre no presente caso. 3. O Embargante busca indevidamente rediscussão da matéria. 4. Embargos de declaração, opostos em 06.02.2017, rejeitados.” (Rcl 17.218-AgR-EDv-ED-ED/RS, Rel. Min. Edson Fachin).
+    Isso posto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 27 de setembro 2021.
+Ministro Ricardo Lewandowski
+Relator
