@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado peloEstado de Minas Geraiscontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 866):
+APELAÇÃO CÍVEL - REEXAME NECESSÁRIO - AÇÃO COMINATÓRIA C/C INDENIZATÓRIA - CONTRATO ADMINISTRATIVO - DEPÓSITO DE VEÍCULOS - REMOÇÃO E GUARDA - DESCREDENCIAMENTO PELO DETRAN - PERMANÊNCIA DOS VEÍCULOS NOS PÁTIOS - REPARAÇÃO DEVIDA - CORREÇÃO MONEtÁRIA - SENTENÇA ILÍQUIDA - HONORÁRIOS ADVOCATÍCIOS.
+1. A sentença ilíquida preferida contra o Estado desafia reexame necessário, nos termos do art. 496, 1, e §3º, do CPC.
+2. O credenciamento é o meio pelo qual a Administração cadastra prestadores para o desempenho de determinados serviços, com regras de remuneração pré-estabelecidas, para as hipóteses de inexigibilidade de licitação.
+3. O particular descredenciado pelo ente estatal tem direito à reparação pelos danos sofridos em razão da permanência dos veículos apreendidos em seu pátio, após a rescisão do contrato.
+4. Nas condenações da Fazenda Pública deverão incidir, a título de correção monetária, os índices de remuneração básica (TR), e juros de mora aplicáveis à caderneta de poupança, nos termos do disposto no art. 1º-F, da Lei nº 9.494/97, com redação dada pelo art. 5º da Lei nº 11.960/09, considerando a decisão de suspensão proferida nos Embargos Declaratórios no Recurso Extraordinário nº 870.947/SE
+5. Sendo ilíquida a sentença, a definição do percentual dos honorários advocatícios de sucumbência, inclusive dos recursais, deverá ocorrer na fase de liquidação do julqado.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC (fls. 886/889).
+Nas razões do recurso especial, a parte agravante apontaviolação aos arts. 271, §4º, e 328, §5º,do CTB e 884 e 944 do Código Civil.Sustenta, em resumo, que o ente público não pode ser responsabilizado pelo pagamento das diárias e em período superior a trinta dias.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, acerca dos arts. 884 e 944 do Código Civil, cumpre registrar que a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Para ilustrar, sobressaem os seguintes precedentes: AgRg no AREsp 83.629/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe 3/4/2012; AgRg no AREsp 80.124/PB, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 25/5/2012.
+Por sua vez, noque se refere à responsabilidade pelo pagamento das diárias, assimrestou assim decidido no acórdão recorrido (fls. 870/874):
+No Estado de Minas Gerais, o Decreto nº 44.885, de 1º/09/2008, que passou a vigorar no curso da contratação, dispunha sobre as normas de credenciamento de particulares para o exercício das atividades de remoção e guarda, em depósito, de veículo automotor.
+Conforme declaração firmada pelo preposto do Apelante - onde se nota pequeno erro material na grafia da legislação apontada -, o Apelado foi descredenciado, porque não se adaptava às exigências do Decreto 44.885/08 (f. 35).
+Este Tribunal tem se manifestado, em casos análogos, no sentido de que após o descredenciamento, com a rescisão do contrato, o particular não pode ser compelido a manter os veículos em seus depósitos. Além disso, tem direito ao recebimento aos custos relativos à guarda dos veículos: ..
+Com efeito, ainda que se afirme a invalidade do contrato - sobretudo por ter sido firmado de forma verbal, sem comprovação da excepcionalidade - devem ser resguardadas a boa-fé dos beneficiários e a segurança jurídica.
+Portanto, é inadmissível que o Apelado arque com os prejuízos decorrentes da manutenção dos veículos em seu pátio, após a rescisão contratual.  ..
+Anote-se que as partes transigiram acerca daretirada dos veículos (ff. 428/429), tendo o Apelado noticiado a desocupação dos pátios (ff. 449/758).
+A controvérsia ora remanesce quanto ao ressarcimento pelos danos materiais.
+No ponto, rescindido o contrato, não há que se falar que a responsabilidade pelo pagamento das diárias dos veículos seria dos proprietários.
+Se o contrato foi rescindido e os veículos não reclamados por seus proprietários permaneceram no pátio, caberia ao Estado de Minas Gerais promover o leilão, na forma do Decreto nº 43.824/2004.
+Não o fazendo, o Apelante não pode se abster de indenizar o Apelado pelos custos decorrentes do uso prolongado dos seus pátios.
+Evidentemente, o depósito de centenas de veículos exige infraestrutura considerável, deflagrando inevitáveis custos de manutenção.
+Por esta mesma razão, não há que se limitar a indenização ao prazo de 30 dias, se na relação contratual estabelecida entre as partes houve a prestação do serviço de depósito por prazo superior.
+Entendimento diverso também resvalaria em enriquecimento sem causa do Estado.
+Nesse contexto, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de asseverar a ausência de responsabilidade do Estado na espécie, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como de cláusulas contratuais, providência vedada em recurso especial, conforme o óbice previsto nas Súmulas 7 e 5/STJ.
+Além disso, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário").
+ANTE O EXPOSTO, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vintepor cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
