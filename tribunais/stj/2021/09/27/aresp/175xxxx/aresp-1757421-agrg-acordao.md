@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+1. A ausência de impugnação a todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos da Súmula 182 do STJ, aplicável por analogia.
+2. Na hipótese, além de pretender a reapreciação de controvérsia de caráter fático-probatório, incidindo o óbice da Súmula 7/STJ, o agravante não afastou em seu recurso todos os óbices trazidos na decisão de inadmissibilidade.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, por incidência da Súmula 182/STJ.
+Em suas razões, o agravante argumenta que a matéria posta no recurso especial é única e exclusivamente de direito, pois o acórdão de apelação teria trazido à tona somente os depoimentos que conduzem á culpa do Réu e omitindo os que demonstravam culpa exclusiva da vítma (fls. 539-540), insistindo na tese absolutória.
+Afirma que não foi impugnada a impossibilidade de análise, na via do especial, de violação de matéria constitucional porque esse tema não foi abordado em profundidade em nenhuma peça deste processo e não parece ter servido de fundamento para nenhuma decisão específica (fl. 543).
+Busca, portanto, o conhecimento do agravo para reconsiderar a decisão anterior, ou o remessa do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Conforme relatado, a decisão agravada não conheceu do agravo defensivo porque não atacados especificamente os fundamentos da decisão que inadmitiu o recurso especial - óbice da Súmula 182 do STF, assim dispondo a decisão atacada:
+De plano, verifica-se que não foram atacados os fundamentos da decisão agravada.
+Na espécie, a defesa intenta demonstrar a inocência do agravante, sem discutir o óbice da Súmula 7/STJ; não se debruça sobre a impossibilidade de análise, na via do especial, de violação de dispositivo constitucional (art. 93, IX, da CF); por fim, não impugna o não preenchimento dos requisitos necessários para a admissibilidade do reclamo no tocante ao dissídio jurisprudencial.
+Vale lembrar que, ao recorrente, incumbe demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada, nos termos do art. 932, III, do CPC, c/c art. 3º do CPP.
+Incide, por analogia, a Súmula 182/STJ, segundo a qual É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ante o exposto, não conheço do agravo em recurso especial.
+Não se vislumbra motivo (fundado) para conclusão diversa. Compulsando as razões do agravo em recurso especial, constata-se que o agravante, de fato, pretende rediscutir fatos, atribuindo à vítima culpa exclusiva pelo acidente, e reputando como achismo o depoimento testemunhal (fl. 461), além de reiterar os predicados positivos do agente.
+Contudo, como já dito, o recurso especial não se presta à dilação probatória. As instâncias de origem, cientes de todo o exposto pela defesa, ainda assim entenderam pela condenação, pois A sentença guerreada foi prolatada com base em prova pericial da dinâmica do acidente e em depoimentos testemunhais, com observância ao contraditório e a ampla defesa (fl. 372); o técnico concluiu que o acidente e suas consequências deveram a invasão da faixa da contramão de direção por parte do condutor do coletivo (fl. 375); testemunha presencial afirmou que o motorista do coletivo invadiu a faixa contrária vindo a colidir com o veículo da vítima (fl. 375); e, por fim, Das provas analisadas, infere-se que o réu agiu com culpa, na modalidade imprudência, por não obedecer aos cuidados objetivos que são necessários  ..  (fl. 376).
+Desse modo, reforço que não cabe a este Superior Tribunal de Justiça reapreciar as alegações defensivas, o que demandaria revolvimento fático-probabório, encontrando óbice na Súmula 7/STJ.
+Ainda, em agravo regimental, a defesa argumenta que não impugnou a impossibilidade de análise, na via do especial, de violação de matéria constitucional porque esse tema não foi abordado em profundidade em nenhuma peça deste processo e não parece ter servido de fundamento para nenhuma decisão específica. Entretanto, consta da decisão de inadmissibilidade do recurso (fl. 451):
+No que pertine ao pleito de exclusão da penalidade de suspensão do direito de dirigir, a insurgência não tem amparo, posto ostentar nítidos contornos constitucionais. Explico.
+Nesse ponto, o recorrente afirma que, por se tratar de motorista profissional, a sanção de suspensão do direito de dirigir, prevista no art. 302, do CTB, seria inconstitucional por importar em arbitrária restrição do direito ao livre exercício da profissão.
+Calha consignar que, em situação análoga, o Superior Tribunal de Justiça assentou que "não compete ao STJ, em recurso especial, o exame inaugural da inconstitucionalidade do art. 302 do CTB, por vicio material, sob pena de usurpação da competência do Supremo Tribunal Federal."
+Além disso, apesar de o recorrente ter indicado por fundamento do presente recurso a alínea "c", do permissivo constitucional, não cuidou de realizar o devido cotejo analítico, olvidando de comprovar a identidade fática necessária, bem como a divergência de interpretações, nos moldes da legislação processual (fl. 452).
+Vale lembrar que, conforme salientado pela decisão ora combatida, ao recorrente incumbe demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível que impugne especificamente todos os óbices por ela apontados. A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC
+de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Agravo regimental improvido (AgRg nos EDcl no AREsp 1199706/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/05/2018, Dje 24/05/2018).
+Ante o exposto  as razões do recurso não infirmam os fundamentos da decisão recorrida  nego provimento ao agravo regimental.
+É o voto.
