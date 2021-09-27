@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto CLARO S.A, em face de decisão que conheceu do agravo para não conhecer dorecurso especial, em virtude da incidência dasSúmulas 05 e 07/STJ e da Súmula 284/STF (e-STJ fls. 1116-1122).
+Nas razões do agravo, a parte agravante alega, em síntese, que foi "feita a prova da divergência jurisprudencial através da juntada da reprodução dos julgados paradigmas disponíveis na internet, com indicação das respectivas fontes que lhes confere a autenticidade necessária, nos termos do art. 255, § 1º, do RISTJ"; que "o recurso interposto menciona expressamente acerca da inaplicabilidade do art. 44, § único da Lei 4.886/65"; que mencionou a ofensa ao art. 422 do Código Civil; que não há falar em incidência da Súmula 284/STF; bem como que "o que se requer é a análise da divergência jurisprudencial demonstrada, e não a reanálise de provas ou de cláusulas contratuais".
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.AÇÃO ORDINÁRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO FIRMADO ENTRE LOJA DE CELULAR E CONCESSIONÁRIA. NATUREZA DE REPRESENTAÇÃO COMERCIAL. RESCISÃO CONTRATUAL. CONDENAÇÃO NOS TERMOS DA LEI N. 4.886/1965. ESTORNO DAS COMISSÕES. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. OFENSA GENÉRICA À LEI. DEFICIÊNCIA RECURSAL - SÚMULA 284/STF. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, a irresignação não merece acolhida.
+Inicialmente, verifica-se que o agravo em recurso especial foi conhecido para não conhecer do recurso especial, em virtude da incidência das Súmulas 05 e 07/STJ e da Súmula 284/STF (e-STJ fls. 1116-1122).
+A parte agravante, por sua vez, nas razões do agravo interno, alega, em síntese,que foi "feita a prova da divergência jurisprudencial através da juntada da reprodução dos julgados paradigmas disponíveis na internet, com indicação das respectivas fontes que lhes confere a autenticidade necessária, nos termos do art. 255, § 1º, do RISTJ"; que "o recurso interposto menciona expressamente acerca da inaplicabilidade do art. 44, § único da Lei 4.886/65"; que mencionou a ofensa ao art. 422 do Código Civil; que não há falar em incidência da Súmula 284/STF; bem como que "o que se requer é a análise da divergência jurisprudencial demonstrada, e não a reanálise de provas ou de cláusulas contratuais".
+Com efeito, resta cristalino que os argumentos expostos no bojo do agravo não são aptos a desconstituir a decisão recorrida, uma vez que, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, mostra-se cristalina a incidência das Súmulas 05 e 07/STJ e da Súmula 284/STF à presente demanda.
+Ora, quanto à pretensão relativa à inaplicabilidade da Lei N. 4.886/1965 à presente demanda, destaca-se que a irresignação da parte ora recorrente, de fato, não merece guarida, haja vista quenão há, na fundamentação do recurso, a indicação adequada do dispositivo de lei federal tido por violado, isto é, foi realizada ofensa genérica à Lei,incidindo, na espécie, por analogia, o óbice da Súmula 284 do STF.
+É pacífico nesta Corte Superior o entendimento de que a ausência de indicação adequada, no recurso especial, dos dispositivos de lei federal tidos por infringidos configura deficiência na fundamentação recursal, o que atrai o óbiceconstante da Súmula 284 do Supremo Tribunal Federal, por analogia.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE OFENSA AOS ARTS. 467, 471 E 475-L, V, DO CPC/1973 E DO ART. 170, § 1º, DA LEI 6.404/76 E DA SÚMULA 371/STJ. DIVIDENDOS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. VIOLAÇÃO DE ENUNCIADO DE SÚMULA. SÚMULA 284/STF. INCIDÊNCIA DA SÚMULA 518/STJ. VALOR PATRIMONIAL DA AÇÃO. DECISÃO TRANSITADA EM JULGADO. IMUTABILIDADE. AGRAVO NÃO PROVIDO.
+1. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+2. "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+3. Em respeito à coisa julgada, deve prevalecer o critério para cálculo do valor patrimonial das ações estabelecido no título exequendo. Precedentes.4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 960.825/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/03/2017, DJe 07/04/2017, grifei).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. REEXAME DE FATOS. SÚMULA Nº 7/STJ. DISPOSITIVO LEGAL. VIOLAÇÃO. INDICAÇÃO. AUSÊNCIA. SÚMULA Nº 284/STF.
+1. Não viola o artigo 535 do Código de Processo Civil de 1973, nem importa negativa de prestação jurisdicional, o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Rever a conclusão do aresto impugnado encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal.
+4. Agravo interno não provido.
+(AgInt no AREsp 968.409/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/02/2017, DJe 13/02/2017, grifei)
+Ademais, no que se refere ao estorno das comissões, importa reiterar que, elidir as conclusões do aresto impugnado, mormente a de que se mostra "lídima a irregularidade da cláusula e descontos que, contrariamente as alegações da Ré, implicaram sim na transferência do risco do negócio para a Autora", ensejariaa reinterpretação de cláusulas contratuais, e o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor das Súmulas 05 e 07/STJ.
+Destarte, o desprovimento do recurso é medida que se impõe, não merecendo prosperar a irresignação da parte ora agravante.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+É o voto.
