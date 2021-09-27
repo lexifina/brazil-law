@@ -1,0 +1,22 @@
+DECISÃO
+    1. O Estado do Rio Grande do Sul alega que o Superior Tribunal de Justiça, ao fixar os índices de juros moratórios aplicáveis ao crédito de natureza não-tributária discutido na causa de origem, teria divergido dos parâmetros estabelecidos por esta Corte no julgamento do recurso extraordinário 870.947 (Tema 810) a respeito da matéria.
+    Aduz o ente público reclamante, em síntese, que o órgão judiciário reclamado teria determinado o cálculo dos juros moratórios aplicáveis à espécie com base no somatório dos juros que recaem sobre a caderneta de poupança e índices oficiais de remuneração básica, o que destoa da orientação fixada no RE 870.947, a qual assentou a aplicação de índice único para a compensação da mora de débitos não tributários.
+    Pede, dessa forma, a cassação do ato reclamado, a fim de fazer incidir, no caso, os parâmetros adotados por esta Corte no julgamento do acórdão paradigma.
+    Embora citada, a parte beneficiária deixou de apresentar contestação.
+    A Procuradoria-Geral da República manifestou-se pela improcedência da presente reclamação.
+    É o relatório.
+    2. Não assiste razão à parte reclamante.
+    No RE 870.947, este Supremo Tribunal Federal, dentre outras providências, assentou a constitucionalidade da norma disposta no art. 1º-F da Lei 9.494/97, com a redação dada pela Lei nº 11.960/09, no que concerne à sua incidência sobre os créditos oriundos de relação jurídica não-tributária, devendo os juros moratórios aplicáveis a créditos dessa natureza serem fixados segundo índice de remuneração da caderneta de poupança.
+    Como referido, a parte reclamante aduz que o acórdão reclamado fixou juros moratórios em duplicidade, vale dizer, autorizou a incidência simultânea de juros moratórios com base nos índices oficiais de remuneração básica (TR) e juros aplicados à caderneta de poupança (0,5% ao mês).
+    No entanto, não é essa a determinação que se extrai de acórdãos anteriores emanados do STJ no âmbito da causa ora em discussão (AREsp 50.211/RS). Veja-se, a propósito, aresto que veiculou juízo negativo de retratação a respeito do recurso extraordinário interposto pela parte reclamante:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. RETORNO DOS AUTOS PARA RETRATAÇÃO. ART. 1.040, II, DO CÓDIGO DE PROCESSO CIVIL/2015. JUROS DE MORA E CORREÇÃO MONETÁRIA. ART. 1º-F DA LEI 9.494/1997, NA REDAÇÃO DADA PELA 11.960/2009. ENTENDIMENTO FIXADO PELO STF SOB O REGIME DA REPERCUSSÃO GERAL E PELO STJ SOB O REGIME DOS RECURSOS REPETITIVOS.
+    1. Trata-se de Juízo de Retratação (art. 1.040, II, do CPC/2015) sobre Recurso Extraordinário interposto contra acórdão em Agravo Regimental em Recurso Especial que assentou: "No caso dos autos, como a condenação imposta à União é de natureza não tributária, os juros moratórios devem ser calculados com respaldo nos juros que recaem sobre a caderneta de poupança, nos termos da regra do art. 1º-F da Lei 9.494/1999, com redação dada pela Lei 11.960/2009. Por sua vez, a correção monetária deverá ser calculada com base no IPCA, índice que melhor reflete a inflação acumulada do período."
+    2. No presente caso, o entendimento externado por essa Segunda Turma sobre a aplicação do art. 1º-F da lei 9.494/1997, com a redação dada pela Lei 11.960/2009, está de acordo com o que fixado pelo STF no exame do Tema 810 (RE 870.947, Relator Ministro Luiz, Tribunal Pleno, DJe 20.11.2017) e pelo STJ sob o rito do art. 543-C do CPC/1973 no REsp 1.495.146/MG (Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 2.3.2018), razão por que o presente Juízo de Retratação é negativo.
+    3. Agravo Regimental não provido, em juízo negativo de retratação, conforme art. 1.040, II, do CPC/2015.” (sem grifos no original)
+    Dado esse contexto, não se depreende que o órgão judiciário reclamado tenha autorizado a incidência simultânea de juros sobre a caderneta de poupança e índices oficiais de remuneração básica, consoante afirma a parte reclamante. Pelo contrário, o trecho acima destacado é claro ao assentar que apenas os juros que recaem sobre a caderneta de poupança entram no cômputo dos juros moratórios.
+    Acrescento, finalmente, que o Ministro Roberto Barroso, nos autos da Rcl 43.572/RS, manifestou compreensão semelhante a respeito de controvérsia com os mesmos delineamentos que ora se apresentam, suscitada pela mesma parte reclamante (Estado do Rio Grande do Sul).
+    3. Por todo o exposto, nego seguimento à presente reclamação.
+    Intime-se. Publique-se.
+Brasília, 27 de setembro de 2021.
+Ministro NUNES MARQUES
+Relator
