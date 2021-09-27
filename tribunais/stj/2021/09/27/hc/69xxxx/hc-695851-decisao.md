@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, em que se apontacomo autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi preso em flagrante, convertido em prisão preventiva, pela prática do crime tipificado no art. 180, § 1º, do CP.
+No presente writ, oimpetrante aponta a existência de constrangimento ilegal, consubstanciada na falta de realização da audiência de custódia, bem como na conversão do flagrante em preventiva após 36 horas do flagrante.
+Alega excesso de prazo na apreciação do writ em segundo grau, configurando falta de prestação jurisdicional,violação do devido processo legal e frustração do acesso àJustiça.
+Aduz que "no caso tem tela se trata cidadão que recebeu ordem de prisão da Autoridade Policial sem justa causa e de forma ilegal, dada a inexistência do flagrante delito, já que inexistentes provas de materialidade ou indícios suficientes de autoria de um crime qualquer de molde a sustentar o fragrante pretendido, e pelas mesmas razões, além da falta de motivos concretos e amparo legal, se teve a indevida e ilegal conversão de tal prisão em flagrante em prisão preventiva, mantendo-se tal constrangimento ilegal pela FALTA DE PRESTAÇÃO JURISDICONAL DEVIDA E CONSTITUCIONAMENTE E LEGALMENTE PREVISTA, dada a frustração dos escopos do habeas corpus impetrado, sendo o evidente desrespeito ás disposições constitucionais e legais vigentes e aplicáveis á espécie, repercutindo em óbvia violação do direito de locomoção do PACIENTE nos processos habeas corpus nº. nº. 2203484-73.2021.8.26.0000 e "auto de prisão em flagrante" de nº.1502234.05.2021.8.26.0337, impondo-se o reconhecimento disso através do presente writ, cabível na espécie de acordo com as disposições constitucionais, legais e regimentais" (fl. 12).
+Requer a concessão da ordem para que seja revogada a prisão preventiva do paciente, bem como reconhecida ilegalidade na abertura do inquérito policial, declarando-se a nulidade da prova, com o consequente encerramento do inquérito.
+Pois bem, em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se que o presente writ é mera reiteração do habeas corpus 694.468/SP, distribuído em 15/9/2021, e cuja liminar foi deferida em decisão publicada no dia 20/9/2021.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
