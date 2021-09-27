@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se  de  conflito  negativo  de  competência  suscitado  pelo  JUÍZO  DE DIREITO DA VARA REGIONAL DE DIREITO BANCÁRIO DE ITAJAÍ - SC  em  face  do  JUÍZO  FEDERAL DA  3ª  VARA  DE ITAJAÍ SJ/SC.
+Ação:  carta  precatória em execução de título extrajudicial proposta  no foro federal de Itajaí  pela  CAIXA  ECONÔMICA  FEDERAL  em  face  de  TIGRÃO FRUTOS DO MAR, LUCIANA MARA MARCELINO eFABRICIA ANGELA SCOTTINIexpedida para cumprimento de diligência na Comarca de Itajaí.
+Manifestação  do  Juízo  suscitado: determinou  o  cumprimento  de  carta  precatória  a ser realizada perante o Juízo de Direito daComarca de Itajaí, visto que a parte executada é domiciliada em Piçarras e onde não há sede da Justiça Federal.
+Manifestação  do  Juízo  suscitante:  suscitou  o  conflito  de  competência,  sob  o  fundamento  de  que, nos termos da Resolução n. 49/2014 do TRF 4ª Região, as Comarcas de Itajaí e Piçarras são contíguas e integram jurisdição territorial da Justiça Federal de Itajaí, não havendo razão para a prática do ato deprecado pelo Juízo Estadual.
+Parecer  do  MPF:  manifestou-se  pelo  conhecimento  do  conflito  para  ser  declarada  a  competência  do  juízo  federal  para  cumprimento  da  carta  precatória.
+RELATADO  O  PROCESSO,  DECIDO.
+Conheço  do  conflito  por  se  tratar  de  incidente  instaurado  entre  juízos  vinculados  a  Tribunais  distintos,  com  fulcro  no  art.  105,  inciso  I,  alínea  "d",  da  Constituição  Federal.
+Acerca  do  cumprimento  de  carta  precatória  em  processo  em  curso  na  Justiça  Federal  o  parágrafo  único  do  art.  237,  parágrafo  único,  do  CPC/15  assim  dispõe:
+Art.  237.  (..)  Parágrafo  único:  Se  o  ato  relativo  a  processo  em  curso  na  justiça  federal  o u  em  Tribunal  Superior  houver  de  ser  praticado  em  local  onde  não  haja  vara  federal,  a  carta  poderá  ser  dirigida  ao  juízo  estadual  da  respectiva  comarca.
+Cabe ressaltar que na própria Resolução nº. 49/14 do TRF da 4ª Região (art. 238) há exceção para cumprimento de mandados executivos pelos oficiais de justiça federais nas comarcas distantes até 60 km da sede da Vara Federal instalada, como no caso dos autos, o que autoriza a expedição decarta precatóriaao juízo estadual, mesmo que aquela comarca seja abrangida pela jurisdição federal.
+Salienta-se que a comarca de Piçarras não é sede da Vara do Juízo Federal, pois o que há é jurisdição federal sobre aquela comarca, aplicando-se, portanto, o art. 238 da Res. 49/14 do TRF da 4ª Região, o que autoriza o cumprimento da diligência pelo Juízo Estadual.
+Em casos análogos, o STJ já decidiu que ascartas precatóriaspodem ser cumpridas pelos Juízos Estaduais nas comarcas dos interior independentemente de haver Vara Federal com jurisdição sobre elas.
+Nesse  mesmo  sentido:  CC  Nº  62.249/SP,  de  minha  relatoria,  SEGUNDA  SEÇÃO,  DJ  01/08/2006;  CC  Nº  149.433/SC,  relator  Ministro  Moura  Ribeiro,  Segunda  Seção,  DJe  6/2/2017;  CC  Nº  148.953/SC,  relatora  Ministra  Maria  Isabel  Gallotti,  Segunda  Seção,  DJe  7/12/2016;  CC  Nº  139.501/SC,  relator  Ministro  João  Otávio  Noronha,  Segunda  Seção,  DJe  25/6/2015;  dentre  outros.
+Forte  nessas  razões,  CONHEÇO  do  conflito  para  declarar  a  competência  do  JUÍZO  DE DIREITO DA VARA REGIONAL DE DIREITO BANCÁRIO DE ITAJAÍ - SC.
+Publique-se.  Intimem-se.  Oficie-se.
+EMENTA
+CONFLITO  NEGATIVO  DE  COMPETÊNCIA.  PROCESSO  CIVIL.  CARTA  PRECATÓRIA. JUSTIÇA  FEDERAL.  AUSÊNCIA  DE  VARA  FEDERAL  NO  LOCAL  DO  CUMPRIMENTO  DA  DILIGÊNCIA.  CUMPRIMENTO  PELA  JUSTIÇA  ESTADUAL.  INTELIGÊNCIA  DO  ARTIGO  237  DO  CPC/15.
+1.  O  comando  inserto  no  art.  237,  parágrafo  único,  do  CPC/15  determina  que  compete  à  Justiça  Estadual  cumprir  as  cartas  precatórias  expedidas  pela  Justiça  Federal  sempre  que  a  localidade  para  o  cumprimento  da  diligência  não  possuir  sede  de  Vara  Federal.
+2.  Conflito  conhecido. Reconhecida a competência d o  JUÍZO  DE DIREITO DA VARA REGIONAL DE DIREITO BANCÁRIO DE ITAJAÍ - SC.
