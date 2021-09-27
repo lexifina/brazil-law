@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo da 1ª Vara Federal de Barueri - SJ/SPem face do Juízo de Direito da 3ª Vara Cível da Comarca de Barueri/SPem demanda ajuizada por particular contra a Faculdade Anhanguera de Jundiaí e Anhanguera Educacional Participações S/Aobjetivando seja determinada a expedição de seu diploma, bem assim a reparação por danosmorais.
+Proposta a demanda perante a Justiça Estadual, foi declinada a competência e determinada a remessa dos autos à Justiça Federal, pois,
+(..) considerando que o ato reputado faltoso decorre de exercício de função federal delegada e não de gestão meramente administrativa, já que envolve emissão de diploma por instituição de nível superior, a autoridade será tida como federal e a competência para processamento da ação é da Justiça Federal e não Estadual.
+Ante o exposto, considerando que a União deve, necessariamente, integrar o polo passivo da ação, RECONHEÇO a incompetência para seu processamento, perante este Juízo Estadual (fl. 96-e).
+Após o recebimento dos autos, o Juízo Federal suscitou o presente conflito sustentando o seguinte:
+A pretensão autoral, vertida sob o rito do procedimento comum (evidencio: o caso não é de mandado de segurança), está dirigida por pessoa natural exclusivamente em face de Instituição de Ensino Superior privada.
+Com efeito, a parte autora insurge-se contra a demora na expedição de diploma de conclusão de curso superior em instituição privada de ensino. Não há discussão nos autos acerca do credenciamento da faculdade, mas tão somente acerca da demora na expedição do diploma -- questão exclusivamente consumerista entre a autora e a instituição de ensino (fl. 8-e).
+É o relatório.
+É de ser declarada a competência da Justiça Federal.
+De fato, quando do julgamento do REsp 1.344.771/PR (de minha relatoria, DJe de 2/8/2013), sob o rito do recurso especial repetitivo, a Primeira Seção estabeleceu que, "(a) caso a demanda verse sobre questões privadas relacionadas ao contrato de prestação de serviços firmado entre a instituição de ensino superior e o aluno, tais como, por exemplo, inadimplemento de mensalidade, cobrança de taxas, desde que não se trate de mandado de segurança, a competência, via de regra, é da Justiça Estadual; e, (b) ao revés, sendo mandado de segurança ou referindo-se ao registro de diploma perante o órgão público competente - ou mesmo credenciamento da entidade perante o Ministério da Educação (MEC) - não há como negar a existência de interesse da União Federal no presente feito, razão pela qual, nos termos do art. 109 da Constituição Federal, a competência para processamento do feito será da Justiça Federal".
+Esse é um dos precedentes que ensejaram a edição da Súmula 570/STJ:
+"Compete à Justiça Federal o processo e julgamento de demanda em que se discute a ausência de ou o obstáculo ao credenciamento de instituição particular de ensino superior no Ministério da Educação como condição de expedição de diploma de ensino a distância aos estudantes".
+Quanto ao caso concreto, está relacionado à expedição do diploma de ex-alunade faculdade particular.
+Em casos análogos, a Primeira Seção desta Corte estava declarando a competência da Justiça Estadual (vide precedentes recentes invocados na decisão do juízo suscitante).
+Ocorre que, no recente julgamento do RE 1304964/SP (DJe de 20/8/2021), no regime da repercussão geral, o Supremo Tribunal Federal reafirmou seu entendimento de que " c ompete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+Confira-se a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA.CONSTITUCIONAL. COMPETÊNCIA. INSTITUIÇÃO DE ENSINO SUPERIOR. SISTEMA FEDERAL DE ENSINO. CONTROVÉRSIA RELATIVA À EXPEDIÇÃO DE DIPLOMA DE CONCLUSÃO DE CURSO SUPERIOR.INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ARTIGO 109, I, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. ACÓRDÃO RECORRIDO DIVERGE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS.CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO. RE n. 1304964/SP.Órgão julgador: Tribunal Pleno Relator(a): MINISTRO PRESIDENTE Julgamento: 24/06/2021 Publicação: 20/08/2021 Esse é o entendimento que deve presidir a solução do caso concreto, reconhecendo-se a competência da Justiça Federal.
+Esse é o entendimento que deve prevalecer na solução do caso concreto.
+Cita-se, ainda, recente julgado da Primeira Seção, em que adotada aorientação acima:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS.OCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade,
+contradição, omissão ou erro material no julgado.
+2. O parágrafo único, I, do art. 1.022, do CPC/2015 considera omissa a decisão que "deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento".
+3. Hipótese em que, ao tempo do julgamento embargado, a Suprema Corte já havia definido a questão, em sede de repercussão geral, sendo de rigor o acolhimento dos aclaratórios para ajustar ao novo entendimento de caráter obrigatório, a respeito do interesse federal no feito principal.
+4. Embargos de declaração acolhidos, com efeitos modificativos. (EDcl no AgInt no CC 175.704/SP, Rel. Ministro GURGEL DE FARIAS, j. em 14/9/2021)
+A orientação acima é a que deve presidir a solução do caso ora em análise.
+Ante o exposto, conheço do conflito para declarar competente o Juízoda 1ª Vara Federal de Barueri - SJ/SP, o suscitante.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS FEDERAL E ESTADUAL.DEMANDA PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR PARA DISCUTIR EXPEDIÇÃO/REGISTRO DE DIPLOMA. COMPETÊNCIA DA JUSTIÇA FEDERAL ASSENTADA PELO SUPREMO TRIBUNAL FEDERAL, NO REGIME DA REPERCUSSÃO GERAL. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA FEDERAL.
