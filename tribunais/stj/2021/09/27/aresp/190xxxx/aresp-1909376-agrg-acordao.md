@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELO CONCURSO DE PESSOAS.DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA IMPUGNAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a Defesa deixou de infirmar, de maneira adequada e suficiente, arazãoapresentadapelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência da Súmula7 desteSuperior Tribunal de Justiça.
+Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT):Trata-se de agravo regimental interposto por ROGERIO DO NASCIMENTO, REGINALDO ALBANO DE SOUZA, DAYANE RAFAELA DOS SANTOS,contra decisão da Presidência desta Corte Superior (fls. 498-499), pela qual oagravo em recurso especial deixou de ser conhecido.
+Consta dos autos que os agravantes DAYANE RAFAELA DOS SANTOS,REGINALDO ALBANO DE SOUZA eROGÉRIO DO NASCIMENTOcomo incursosno artigo 155, §4º, inciso IV do Código Penal, às penas, respectivamente,de02 (dois) anos e 01 (um) mês de reclusão, em regime aberto, substituída por 02 (duas) penas restritivas de direito, além do pagamento de 11 (onze) dias-multa; 02 (dois) anos de reclusão, em regime aberto, substituída por 02 (duas) penas restritivas de direito,além do pagamento de 10 (dez) dias-multa e02 (dois) anos e 03 (três) meses de reclusão, em regime aberto, substituída por 02 (duas) penas restritivas de direito, além do pagamento de 12 (doze) dias-multa.
+O eg. Tribunal de origem negou provimento ao recurso defensivo, mantendo intocável a sentença condenatória (fls. 412-424), eis a ementa do julgado:
+"APELAÇÃO CRIMINAL FURTO QUALIFICADO PELO CONCURSO DE PESSOAS RECURSO DEFENSIVO AUTORIA E MATERIALIDADE COMPROVADAS INAPLICÁVEL PRINCÍPIO DA INSIGNIFICÂNCIA CONSTRUÇÃO DOUTRINÁRIA NÃO REFERENDADA PELA MAIORIA DAS CÂMARAS CRIMINAIS DO E TRIBUNAL DE JUSTIÇA PRETENDIDO O RECONHECIMENTO DO FURTO PRIVILEGIADO IMPROCEDÊNCIA REQUISITO DO PEQUENO VALOR DA RES FURTIVA NÃO PREENCHIDO AFASTADO O PLEITO DE RECONHECIMENTO DA FORMA TENTADA BENS RETIRADOS DA ESFERA DE DISPONIBILIDADE DA VÍTIMA POSSE MANSA E PACÍFICA NÃO EXIGIDA PARA CONSUMAÇÃO DO DELITO - CONDENAÇÃO MANTIDA PENAS ADEQUADAMENTE FIXADAS E BEM FUNDAMENTADAS REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE DIREITO PELAS RESTRITIVAS DE DIREITOS MANTIDOS RECURSO DESPROVIDO"(fl. 413).
+Nas razões do recurso especial, a Defesa sustentou, além da divergência jurisprudencial, negativa de vigência ao disposto noartigo386, III, do Código de Processo Penal, bem como ao artigo155, §2º, do CódigoPenal. Pretende, ao final, seja provido o apelo, "reconhecendo-se: a) a atipicidade material da conduta, bem como o forçoso desfecho absolutório disso decorrente; b) subsidiariamente, a incidência, ao caso, do quanto previsto no artigo 155, §2º, do CP, aplicando-se, em decorrência, apenas a pena de multa ou, subsidiariamente, reduzindo-se a pena imposta na máxima fração ali prevista" (fl. 447).
+Após apresentação das contrarrazões (fls. 455-466), sobreveio juízo negativo de admissibilidade fundado na incidência daSúmula 7/STJ,por entender que para se chegar a solução contrária à do aresto recorrido, seria necessário o reexame da prova(fl. 468).
+Nas razões do agravo, postulou-se o processamento do recurso especial, haja vista que o cumprimento dos requisitos necessários à sua admissão, bem como a ausência de revolvimento fático probatório (fls. 476-480).
+Nesta Corte Superior o agravo em recurso especial,porquanto aparte agravante deixou de infirmar,de maneira adequada e suficiente, as razõesapresentadas pelo eg. Tribunal de origem, para negar trânsito ao recurso especial.
+Nas razões deste recurso, a defesa busca a reconsideração da decisão agravada, afirma que"verifica-se que consta do agravo em recurso especial capítulo destinado à impugnação específica da alegada violação à Súmula 07, do STJ."(fl. 507).
+Aduz, ainda, que "Com efeito, no capítulo denominado" DO SUPOSTO INTERESSE DE "REEXAME DA PROVA" EM SEDE DE RECURSO ESPECIAL" tratou-se daquilo que a que se refere a Súm. 07, deste Tribunal, ou seja, explanou-se, detalhadamente, os motivos pelos quais não havia, no recurso, pretensão de reexame probatório ou reexame fático-probatório" (fl. 507).
+Por fim, pugna pela reconsideração da decisão agravada, ou submissão do recurso ao colegiado.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo regimental (fls. 518-519).
+Por manter o decisum, trago o feito à julgamento da Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELO CONCURSO DE PESSOAS.DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA IMPUGNAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a Defesa deixou de infirmar, de maneira adequada e suficiente, arazãoapresentadapelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência da Súmula7 desteSuperior Tribunal de Justiça.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT):Em que pesem os argumentos da parte agravante, a decisão impugnada deve ser mantida.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foraminfirmados os fundamento empregado para obstar seguimento ao recurso especial, qual seja, a impossibilidade de reexame do conjunto fático-probatório (Súmula 7 do STJ).
+Nas razões do agravo em recurso especial, a defesa,limitou-se a tecer as seguintes considerações, verbis (fl. 480):
+"Uma coisa é pretender a análise do conjunto probatório para argumentar acerca de provas, o que não é o caso. Outra, bem diferente, é apontar para o equívoco da não observação do art. 386, III, CPP, e artigo 155, § 2 2 , do Código Penal.
+Como já se afirmou, não é necessário analisar a produção de prova ocorrida nos autos, mas, apenas, as decisões constantes nos autos para se perceber a violação aos artigos de lei levantada no recurso.
+Sendo assim, demonstrada a inexistência de pretensão de reexame de provas, de rigor a admissão do recurso."
+No tocante à incidência da Súmula 7/STJ, deveriam os agravantes demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Desse  modo,  a  ausência  de  impugnação  adequada dos  fundamentos  empregados  pela  Corte  de  origem  para  impedir  o  trânsito  do  apelo  nobre  impede  o  conhecimento  do  agravo,  cujo  único  propósito  é  demonstrar  a  inaplicabilidade  dos  motivos  indicados  na  decisão  de  inadmissibilidade  do  recurso  por  meio  de  impugnação  específica  de  cada  um  deles.
+Este  é  o  teor  do  art.  932,  inciso  III,  do  Código  de  Processo  Civil/2015,  que  autoriza  o  relator  a  não  conhecer  de  recurso  que  tenha  deixado  de  impugnar  os  fundamentos  da  decisão  recorrida.  Além  do  mais,  o  art.  253,  inciso  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  com  redação  dada  pela  Emenda  Regimental  n.  22/2016,  autoriza  o  relator  a  não  conhecer  do  agravo  que  descumpra  a  tarefa  de  infirmar  as  razões  de  decidir  que  levaram  ao  trancamento  do  recurso  especial.
+Nesse  sentido:
+"PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.FUNDAMENTO  DA  DECISÃO  AGRAVADA  NÃO  ATACADO.  APLICAÇÃO  DO  ART.  544,  §  4º,  I,  DO  CÓDIGO  DE  PROCESSO  CIVIL  -  CPC  DE  1973.  INCIDÊNCIA  DA  SÚMULA  182  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA  -  STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Descabido  o  conhecimento  do  agravo  em  recurso  especial  quando  o  agravante  deixa  de  impugnar  especificamente  algum  dos  fundamentos  adotados  na  decisão  que  negou  seguimento  ao  recurso  especial.
+2.  Agravo  regimental  desprovido"  (AgRg  no  AREsp  n.  842.493/PR,  Quinta  Turma,  Rel.  Min.  Joel  Ilan  Paciornik,  DJe  de  16/5/2016).
+"PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA.  VERBETE  SUMULAR  N.  182/STJ.  INCIDÊNCIA  CONFIRMADA.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.  EXECUÇÃO  PROVISÓRIA  DEFERIDA.
+1.  O  Agravante  não  infirmou,  especificamente,  todos  os  fundamentos  da  decisão  combatida,  o  que  atrai  a  incidência  da  Súmula  n.  182  desta  Corte.
+2.  Os  Tribunais  Superiores,  em  recentes  decisões,  firmaram  o  entendimento  de  que  após  esgotadas  as  via  recursais  ordinárias,  apenas  casuísticos  efeitos  suspensivos  concedidos  aos  recursos  excepcionais  impedirão  a  execução  provisória.
+3.  Agravo  regimental  improvido  e  deferida  a  execução  provisória  da  pena,  determinando  o  imediato  cumprimento  da  condenação,  delegando-se  ao  Tribunal  local  a  execução  de  todos  os  atos  preparatórios"  (AgRg  no  AREsp  n.  984.287/RS,  Sexta  Turma,  Rel.  Min.  Nefi  Cordeiro,  DJe  de  26/06/2017).
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
