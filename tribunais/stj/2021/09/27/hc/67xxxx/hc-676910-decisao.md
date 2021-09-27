@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GABRIEL RAMOS ALVES apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 1500477- 40.2020.8.26.0618).
+Consta dos autos que o paciente foi condenado à pena de 9 anos, 9 meses e 15 dias de reclusão, em regime fechado, pela prática do crime previsto no art. 33 da Lei n. 11.343/2006 (tráfico de drogas) e do delito do art. 14 da Lei n. 10.826/2006 (porte ilegal de arma de fogo de uso permitido), ante a apreensão de aproximadamente 35g (trinta e cinco gramas) de cocaína e 98g (noventa e oito gramas) de maconha, bem como de um revólver calibre 38 municiado.
+O Tribunal de origem deu parcial provimento aos recursos da acusação e da defesa para, respectivamente, aumentar a pena do corréu e reduzir sua pena relativa ao crime de porte ilegal de arma de fogo.
+No presente writ, a impetrante alega indevido o aumento da pena-base pela quantidade de drogas.
+Defende, ainda, a compensação da agravante da reincidência com a atenuante da confissão espontânea.
+Requer, ao final, a redução da pena do paciente.
+O pedido liminar foi indeferido (e-STJ fls. 489/490).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 553/557).
+É o relatório.
+Decido.
+In casu, colhe-se do acórdão recorrido (e-STJ fls. 436/440):
+Passemos a análise das penas.
+Quanto ao acusado Lucas, na primeira fase a pena foi aumentada pela natureza das drogas, em um sexto, o que mantenho.
+Nos termos do artigo 42 da Lei 11.343/06 deve ser considerada a natureza da droga. Em face do bem jurídico protegido, aliado ao mencionado dispositivo legal, quanto maior a capacidade de viciar da droga, em abstrato, maior a reprovabilidade.
+No caso, a droga apreendida foi cocaína na forma de crack, o que indica maior reprovabilidade, visto que tal entorpecente tem grande capacidade de viciar.
+ ..
+Quanto ao acusado Gabriel, em relação ao tráfico de drogas, na primeira fase mantenho o aumento pelos motivos já expostos.
+Desta forma, mantenho a reprimenda em 05 anos, 10 meses de reclusão e 583 dias-multa.
+Na segunda fase inviável reconhecer a confissão vez que o dito na fase extrajudicial sequer foi usado como elemento de convicção à luz do verbete 545 do Superior Tribunal de Justiça. Porém, presente a reincidência específica 28 mantenho o aumento de 1/4 tal como fixado e a pena de e 07 (sete) anos, 03 (três) meses e 15 (quinze) dias de reclusão e pagamento de 728 (setecentos e vinte e oito) dias-multa.
+Com efeito, para os crimes relacionados ao tráfico de drogas, o art. 42 da Lei n. 11.343/2006 anuncia parâmetros diferenciados para o cálculo da pena-base, esclarecendo que o magistrado, ao estabelecer a sanção, considerará, com preponderância sobre os critérios previstos no art. 59 do Código Penal, a natureza e a quantidade do produto ou da substância apreendida. De fato, como se trata de crime contra a saúde pública, quanto mais nociva a substância entorpecente ou quanto maior a quantidade de droga apreendida em poder do agente, maior será o juízo de censura a recair sobre a conduta delituosa.
+Na primeira fase de dosimetria, o colegiado local considerou como desfavorável apenas a circunstância relativa ànatureza dos entorpecentes apreendidos. Contudo, a meu ver, tal exasperação mostrou-se desproporcional, sobretudo em razão de a quantidade de droga ser inexpressiva, a saber,35g (trinta e cinco gramas) de cocaína e 98g (noventa e oito gramas) de maconha,e de não ter havido valoração negativa de nenhuma outra circunstância judicial.
+Diante desse cenário, entendo que o aumento operado na primeira etapa da dosimetria da reprimenda não está devidamente justificado, devendo ser afastado para que a pena-base seja fixada no mínimo legal.
+Por outro lado, verifico que melhor sorte não socorre ao paciente, quanto àpossibilidade dereconhecimento da atenuante da confissão espontânea e sua posterior compensação com a agravante da reincidência.
+Da leitura do trecho colacionado, observo que, contrariamente ao alegado pela defesa, a condenação não foi baseada na confissão do réu, que, vimos, foi afastada pelas instâncias ordinárias.
+Esta Corte é firme na compreensão de que se a confissão espontânea não foi reconhecida pelas instâncias ordinárias, a desconstituição do que ficou estabelecido ensejaria o reexame aprofundado de todo conjunto fático-probatório produzido ao longo da marcha processual, providência incompatível com os estreitos limites do remédio constitucional, marcado pela celeridade e sumariedade na cognição.
+Sobre o tema é o vaticínio da doutrina:
+ ..  o writ parece apresentar na sua previsão fundamental (a atinente à justa causa para a coação) uma questão dificilmente transponível: a necessidade de exame do conjunto probatório. A pedra angular da questão é a apreciação de provas no âmbito restrito do habeas corpus, o que merece reflexão: predomina, tanto na doutrina quanto na jurisprudência, a posição no sentido de que, no remédio heroico, não se pode fazer cotejo de provas, antepor depoimentos ou examinar de forma apurada, aprofundada, qualquer espécie de questão. (CARVALHO PACHECO. José Ernani de. Habeas Corpus. 6. ed. Curitiba, Juruá, 1994, p. 29)
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PLEITO DE ABSOLVIÇÃO DO CRIME DE CORRUPÇÃO DE MENOR. DESCABIMENTO. DELITO FORMAL. ENTENDIMENTO FIRMADO EM RECURSO REPRESENTATIVO DA CONTROVÉRSIA RESP N. 1.127.954/DF. SÚMULA 500/STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. IMPOSSIBILIDADE DO RECONHECIMENTO DA ATENUANTE PREVISTA NO ART. 65, III, D, DO CP. CONFISSÃO ESPONTÂNEA. NÃO OCORRÊNCIA. PRECEDENTES.
+1. Inviável a pretensão absolutória, com base na simples alegação de desconhecimento da idade do menor envolvido. Na espécie, ficou efetivamente comprovada, nos autos, não só a menoridade do adolescente, mas, também, a sua efetiva presença na cena do crime, encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte Superior.
+2. Consoante dispõe a Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação. No caso, o réu não confessou a prática delitiva, ainda que parcialmente, sendo, portanto, descabido falar em incidência da atenuante do art. 65, III, d, do Código Penal.
+3. Agravo regimental improvido. (AgRg no AREsp n. 1.640.414/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 9/6/2020, DJe 18/6/2020, grifei.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO E ROUBO MAJORADO. DOSIMETRIA DA PENA. CONFISSÃO ESPONTÂNEA INFORMAL. MANIFESTAÇÃO NÃO UTILIZADA PARA EMBASAR A CONDENAÇÃO. IMPOSSIBILIDADE DE INCIDÊNCIA DA ATENUANTE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Súmula 545/STJ prevê que a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação.
+2. Evidenciado que a confissão informal do réu somente foi explicitada na transcrição dos depoimentos dos policiais condutores, não tendo, todavia, sido utilizada em momento algum para embasar a condenação, sequer citada pelo magistrado sentenciante, deve ser afastada a possibilidade de reconhecimento da atenuante do art. 65, III, "d", do Código Penal.
+3. "Inafastável a incidência do verbete n. 7 da Súmula do STJ, pois a alteração da conclusão a que chegou a Corte local sobre a alegada confissão espontânea, demandaria nova incursão no acervo fático-probatório dos autos, o que é vedado em sede de recurso especial" (AgRg no AREsp 1.353.606/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 3/12/2019, DJe 13/12/2019).
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.599.610/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 6/2/2020, DJe 12/2/2020, grifei.)
+Passo, assim, à readequação da dosimetria da pena do delito de tráfico ilícito de drogas, mantendo os parâmetros adotados pelo colegiado local.
+Na primeira fase, estabeleço a pena-base no mínimo legal - 5anos de reclusão, mais 500 dias-multa.
+Na segunda etapa, mantenho a fração de 1/4 (um quarto) referente àpresença da agravante da reincidência específica, perfazendo a reprimenda em6 anos e 3 meses de reclusão e 500 dias-multa.
+Na terceira fase,a sanção permanece inalterada.
+Por fim, diante do concurso material de crimes (tráfico e porte ilegal de arma de fogo), totalizo a reprimenda definitivamente em 8 anos e 7 meses de reclusão e 511 dias-multa.
+À vista de tais pressupostos, concedo parcialmente a ordem para, em relação ao crime de tráfico de drogas, reduzir a pena-base ao mínimo legal, redimensionando a reprimenda do réu para8 anos e 7 meses de reclusão e 511 dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
