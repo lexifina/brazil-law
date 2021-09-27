@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por ADRIANA GOULART ISSA RICCETTO contra decisão que inadmitiu o recurso especial em virtude de ausência de violação de dispositivo legal eincidência da Súmula n. 7/STJ (e-STJ fls. 1.282/1.283).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.020):
+AGRAVO REGIMENTAL - Ação Ordinária de Anulação de Atos Jurídicos c/c Indenização - Sentença de improcedência do pedido de anulação e procedência do pedido de indenização - Inconformismo - Agravo Retido provido para afastar prescrição reconhecida na sentença, com a consequente procedência do pedido de declaração de nulidade de Escritura de Venda e Compra - Petição dos réus alcançados pelo provimento do Agravo Retido, informando que não foram intimados para contrarrazoar recurso de apelação e participar da sessão de julgamento - Decisão que entendeu irrelevante a informação, destacando ter ocorrido a intimação da sentença e da sessão de julgamento - Inconformismo, interposição de Agravo Regimental - Agravo desprovido.
+Os embargos de declaraçãoforam rejeitados (e-STJ fls. 1.062/1.069).
+Nas razões do recurso especial (e-STJ fls. 1.073/1.097), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrentealega ofensa aos seguintes dispositivos legais:
+(i) art. 523, § 2º, do CPC/1973, tendo em vista que não fora intimada para apresentar contrarrazões ao agravo retido e nem ao recurso de apelação, e
+(ii)art. 535 do CPC/1973, pois, "não obstante a recorrente tivesse interposto tempestivamente embargos de declaração, o egrégio Tribunal "a quo" deixara de apreciar as relevantes questões atinentes às omissões, contradições e obscuridades apontadas no referido instrumento de ampla defesa e provocação do contraditório" (e-STJ fl. 1.083). Complementa que, "evidenciado o prejuízo causado à recorrente, que não tivera oportunidade de contrarrazoar o agravo retido devido a ausência de intimação para tanto e, sem que essa matéria esteja devidamente apreciada e sopesada, não há que se cogitar em efetiva prestação jurisdicional do egrégio Tribunal "a quo"" (e-STJ fl. 1.089).
+Busca, em suma (e-STJ fl. 1.097):
+b) acolher as preliminares argüidas, por reconhecer os prejuízos que causaram à recorrente, diante da reforma da r. sentença e, decretar a NULIDADE DO V. ACÓRDÃO proferido pelo órgão fracionário do colendo Tribunal "a quo", para que outra seja proferida após sanados os apontados vícios processuais, determinando a apresentação das contrarrazões do agravo retido restabelecendo-se o império do artigos 5º, incisos LIV e LV e 93, inciso IX da Constituição da República Federativa do Brasil e do artigo 535 do Código de Processo Civil;
+c) ao final, DAR PROVIMENTO ao presente recurso especial, com o fim de corrigir o "error in judicando et in procedendo" cometido pelo colendo Tribunal "a quo" e para anular o v. acórdão impugnado, determinando a apresentação das contrarrazões ao agravo retido e intimação do patrono da recorrente em época do novo julgamento e demais atos a serem publicados pela imprensa oficial, restabelecendo- se o império dos artigos 234, 523 § 2º, 535 do Código de Processo Civil, combinados com o artigo 5º, incisos LIV e LV e 93, inciso IX da Constituição da República Federativa do Brasil;
+No agravo (e-STJ fls. 1.326/1.341), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 1.370/1.372 (e-STJ).
+É o relatório.
+Decido.
+Inicialmente, não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação de violação do art. 535 do CPC/1973.
+O Tribunal de origem afastou a nulidade por cerceamento de defesa, sob os seguintes fundamentos(e-STJ fls. 1.022/1.023):
+Sem razão, contudo, pois ainda que não tenha ocorrido dita intimação, trata-se de omissão irrelevante, não configuradora do alegado cerceamento de defesa, pois como se verifica da decisão de fls. 607, o MM. Juiz de Primeira Instância, analisando as razões embasadoras do Agravo Retido, manteve a decisão por ele agravada.
+Sinale-se, por oportuno, que caso o Magistrado tivesse, em juízo de retratação, reformado a decisão agravada, mesmo assim não haveria prejuízo à ora agravante, tendo em vista a possibilidade de recorrer da decisão reformada.
+ ..
+Ademais, não se pode esquecer que a condenação da agravante decorreu da rejeição de sua tese de prescrição da pretensão anulatória, o que, evidentemente, não configura qualquer tipo de prejuízo processual, visto que a prescrição, por se tratar de matéria de ordem pública, segundo firme orientação do Superior Tribunal de Justiça, deve ser apreciada a qualquer tempo, mesmo que não suscitada, para reconhecimento ou rejeição, porquanto não sujeita à preclusão.
+Contudo, no recurso especial, apontando contrariedade ao art. 523, § 2º, do CPC/1973, a recorrente sustenta somente nulidade por falta de intimação para contrarrazoar, sem rebater a ausência de prejuízo, tendo em vista (i) o juiz, ao analisar o agravo retido, ter mantido sua decisão, (ii) possibilidade de recurso e (iii) a prescrição ser matéria de ordem pública, podendo ser reconhecida a qualquer tempo, não sujeita a prescrição.
+Verifica-se, portanto, que a parte não impugnou os fundamentos do acórdão recorrido, trazendo alegações dissociadas do que ficou decidido no aresto. Incidem, portanto, as Súmulas n. 283 e 284 do STF. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015.)
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+(..)
+3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.507.662/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 28/8/2015.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se e intimem-se.
