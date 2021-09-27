@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Luziana de Albuquerque Viana da Silva contra decisão proferida pelo Presidente do TRF-3ª Região que negou seguimento ao seu recurso especial ante o óbice da Súmula 7 do STJ e ante a inexistência de violação ao artigo 1.022 do CPC/2015.
+Em suas razões de agravo em recurso especial, sustenta a agravante que sua pretensão recursal envolve enquadramento jurídico dos fatos e não reexame de provas e que o Tribunal de origem foi omisso quanto às condições sociais e econômicas para fins de concessão de aposentadoria por invalidez.
+O prazo para apresentação de contraminuta ao agravo em recurso especial transcorreu in albis.
+O recurso especial que se pretende o seguimento, impugna acórdão assim ementado:
+PREVIDENCIÁRIO. REEXAME NECESSÁRIO CABÍVEL. APOSENTADORIA PORINVALIDEZ. ART. 42, E § 2º DA LEI 8.213/91. AUXÍLIO-DOENÇA. ARTIGOS 59 CAPUT E 62 DA LEI N.º 8.213/91. QUALIDADE DE SEGURADO. CARÊNCIA. INCAPACIDADEPARCIAL E PERMANENTE. REQUISITOS PRESENTES. AUXÍLIO-DOENÇA DEVIDO. VERBA HONORÁRIA.
+1. Mostra-se cabível o reexame necessário, nos termos da Súmula 490 do Superior Tribunal de Justiça.
+2. Comprovada a incapacidade parcial e permanente para o trabalho, bem como presentes os demais requisitos previstos nos artigos 59 e 62 da Lei n.º 8.213/91, é devida a concessão do benefício de auxílio-doença.
+3. Não há falar em sucumbência recíproca, pois a autarquia previdenciária decaiu de maior parte do pedido, relativo à concessão do benefício. Honorários advocatícios a cargo do INSS, fixados nos termos do artigo 85, §§ 3º e 4º, II, do Novo Código de Processo Civil/2015, e da Súmula 111 do STJ.
+4. Reexame necessário, tido por interposto, não provido. Apelação da parte autora parcialmente provida.
+Opostos embargos de declaração, rejeitados.
+Em suas razões de recurso especial, sustenta a recorrente, ora agravante, que o Tribunal a quo negou vigência aos artigos 1.022 do CPC/2015, uma vez o Tribunal de origem foi omisso quanto à alegação de que a reabilitação profissional não é possível levando-se em consideração suas condições pessoais, sociais e econômicas. Acrescenta que houve ofensa do artigo 42 da Lei 8.213/1991, uma vez que restou comprovado nos autos que a sua incapacidade é insuscetível de reabilitação para o exercício de atividade que garanta a sua subsistência, tendo em vista a sua condição socioeconômica.
+O prazo para apresentação de contrarrazões ao recurso especial transcorreu in albis.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que assim dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A agravante impugnou devidamente a fundamentação contida na decisão agravada e mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+A questão preliminar condiz com a violação do artigo 1.022 do CPC, pois o Tribunal a quo teria se omitido quanto à impossibilidade de reabilitação para o exercício de atividade que garanta a subsistência, tendo em vista a condição sócioeconômica da recorrente, ora agravante.
+No caso, o Tribunal a quo concluiu pela incapacidade parcial e permanente da segurada com o consequente deferimento do auxílio-doença, determinando a sua participação em processo de reabilitação profissional.
+Instado, em sede de embargos de declaração opostos pela recorrente, ora agravante, a se manifestar acerca da impossibilidade de reabilitação levando-se em consideração a sua condição socioeconômica, o Tribunal a quo manteve-se silente quanto ao esclarecimento.
+Embora o Julgador não esteja obrigado a responder um a um dos argumentos sustentados pela parte postulante, quando fundamente sua decisão, não deve se omitir acerca de pontos essenciais ao bom andamento do processo, como no caso, em que não houve pronunciamento específico em relação às condições sociais, econômicas e culturais da trabalhadora segurada.
+Quanto ao cabimento de se acolher as alegadas omissões, com retorno dos autos ao Tribunal a quo, confira-se o precedente ilustrativo:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Na espécie, apesar da oposição dos Aclaratórios, o Tribunal de origem não se pronunciou sobre a seguinte alegação: "de que, no caso em tela, trata-se de execução de sentença contra a Fazenda Pública oriunda da ação coletiva nº 1999.38.00.014767 (em que foram partes o SINTSPREV/MG versus INSS), sendo cabível, por essa razão, a fixação de honorários advocatícios, conforme o disposto nos art. 20, caput e §§ 3º e 4º, do CPC, arts. 90, 91, 97 e 98 do CDC, arts. 15 e 21 da Lei nº 7.347/85 e nos termos da súmula 345 deste Superior Tribunal de Justiça, in verbis: "São devidos os honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas"" (fl. 270, e- STJ, grifos no original).
+3. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim de que os autos retornem ao Tribunal de origem para que este se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância da omissão apontada.
+4. Recurso Especial provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração.
+(REsp 1.663.643/DF, Segunda Turma, Relator Ministro Herman Benjamin, DJe 16/6/2017)
+Destarte, os autos devem retornar ao Tribunal a quo, para enfrentamento adequado quanto à omissão apontada.
+Declaro, outrossim, prejudicada a análise do outro ponto do recurso especial.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR INVALIDEZ. CONDIÇÕES SÓCIOECONÔMICAS. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. CARACTERIZAÇÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
