@@ -1,0 +1,32 @@
+RECLAMAÇÃO. SÚMULA VINCULANTE 14. AUSÊNCIA DE ADERÊNCIA ESTRITA. NEGATIVA DE SEGUIMENTO.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Luciana Briks contra ato do Juízo de Direito da 2ª Vara de Crimes Tributários, Organização Criminosa e Lavagem de Bens e Valores de São Paulo/SP, que teria contrariado o enunciado da Súmula Vinculante 14.
+    Narra a inicial que o ‘mandado de prisão temporária em desfavor da acusada foi cumprido em 13/09/2021, sendo esta renovada por mais 5 dias, até que em 22/09/2021 teve a conversão da prisão temporária convertida em preventiva’.
+    Destaca que ‘protocolizou pedido de juntada e procuração (doc. Anexo) e, diante da persistência da não liberação de acesso aos autos, enviou e-mail para a vara, ora impetrada, solicitando a senha ou liberação de acesso’.
+    Alega que ‘o ato de impedimento de acesso ao processo caracteriza cerceamento de defesa, visto que o impetrante não tem acesso á integralidade das provas produzidas em sede de investigação, para que faça cumprir o direito constitucionalmente previsto á ampla defesa da acusada, razão pela qual requer acesso imediato aos autos, visto que trata-se de entendimento passivo deste Supremo Tribunal’.
+    Sustenta, nesta sede, violação da Súmula Vinculante 14 desta Suprema Corte, pois ainda não obteve acesso integral aos autos de origem.
+    Requer, em medida liminar e no mérito, a procedência da reclamação, para garantir à reclamante integral acesso aos autos indicados na inicial.
+    É o relatório.
+    Decido.
+    A reclamação é ação autônoma de impugnação dotada de perfil constitucional, prevista no texto original da Carta Política de 1988 para a preservação da competência e garantia da autoridade das decisões do Supremo Tribunal Federal. É cabível nos casos de usurpação da competência do Supremo Tribunal Federal, de desobediência a súmula vinculante ou de descumprimento de autoridade de decisão proferida por esta Corte, desde que com efeito vinculante ou proferida em processo de índole subjetiva no qual o Reclamante tenha figurado como parte (102, I, l, e 103-A, § 3º, da CF, c/c art. 988, II a IV, e § 5º, II, do CPC/2015).
+    A aferição da presença dos pressupostos autorizadores do manejo da reclamação há de ser feita com rigor técnico (Rcl 6.735-AgR/SP, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 10.9.2010), inadmissível o alargamento das suas hipóteses de admissibilidade por obra de hermenêutica indevidamente ampliativa, pena de restar desvirtuada a vocação dada pelo constituinte a este importante instituto constitucional.
+    Quanto às hipóteses de cabimento da reclamação, ressalto que a eficácia diferenciada, naturalmente expansiva, das decisões do Supremo Tribunal Federal, não autoriza, porém, que qualquer ato contrário a seus precedentes, imputável a qualquer juízo, obtenha reparação direta por meio de reclamação à Corte (Rcl 9.592/DF, Rel. Min. Cezar Peluso, DJe 27.4.2010).
+    Baseada nestas premissas, a jurisprudência desta Corte exige, para admissibilidade da reclamação constitucional, a aderência estrita entre o objeto do ato reclamado e o conteúdo do paradigma de controle (Rcl 4.487-AgR/PR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 5.12.2011).
+    Enfatizo que é imprescindível que o ato reclamado haja abordado, expressamente e sob o ângulo trazido em sede reclamatória, o tema versado na referência paradigmática. Nesse sentido, Fredie Didier Jr. e Leonardo Carneiro da Cunha (Curso de Direito Processual Civil – vol. 3: Meios de impugnação às Decisões Judiciais e Processo nos Tribunais. 17ª ed. Salvador: Juspodivm, 2020. p. 684) acentuam:
+    “Para que caiba a reclamação, é preciso, porém que o órgão jurisdicional deixe, expressamente, de seguir o precedente.
+    Se o órgão julgador simplesmente não segue o precedente na decisão, se ele simplesmente silencia, omite-se, nada diz sobre o precedente, não cabe a reclamação. Em outras palavras, não cabe reclamação por omissão.
+    (…)
+    (…) Não se trata de preclusão, mas de falta de subsunção à hipótese de cabimento da reclamação: não houve inobservância do precedente, justamente por ser omissa a decisão.”
+    Há que examinar, portanto, a presença de alguma dessas hipóteses e de todos os requisitos, com rigor, sob pena de desvirtuamento do instituto.
+    Extraio do enunciado da Súmula Vinculante 14:
+    “É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.”
+    Presente referido contexto, nessa análise preliminar quanto ao cabimento da reclamação, entendo que a ausência de manifestação quanto ao acesso integral aos autos não permite constatar se o Juízo reclamado contrariou o enunciado constante da Súmula Vinculante 14.
+    Nesse prisma, a ausência de adoção, pela autoridade reclamada, de tese a respeito da matéria debatida no paradigma suscitado pela parte reclamante inviabiliza o reconhecimento de identidade material entre a omissão do reclamado e o que foi efetivamente decidido no parâmetro de controle.
+    Com efeito, o fato de a autoridade judiciária reclamada sequer haver avaliado as questões trazidas nesta reclamação, evidencia a ausência de aderência estrita, pois, como já dito, ‘a jurisprudência desta Corte orienta-se no sentido da impossibilidade de manejo da reclamação por omissão, sendo indispensável o pronunciamento do órgão reclamado sobre o ponto questionado e sob o ângulo trazido em sede reclamatória’ (Rcl 45.966-AgR/CE, de minha relatoria, Primeira Turma, DJe 3.4.2021).
+    Como se sabe, ‘[o]s atos questionados em qualquer reclamação – nos casos em que se sustenta desrespeito a enunciado sumular vinculante do Supremo Tribunal Federal – hão de se ajustar, com exatidão e pertinência, à Súmula vinculante desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal’ (Rcl 15.578-AgR/DF, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 09.4.2014).
+    Assim, à míngua de identidade material entre a hipótese e o paradigma de confronto, concluo pela ausência de aderência estrita.
+    Ante o exposto, forte no art. 21, §1º, do RISTF, nego seguimento à presente reclamação.
+    Publique-se.
+    Brasília, 27 de setembro de 2021.
+Ministra Rosa Weber
+Relatora
