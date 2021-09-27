@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se recurso especial interposto peloInstituto Nacional do SeguroSocial - INSS, com fundamento no art. 105, III, "a" , da CF,desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região,assim ementado (fl. 39):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DESENTENÇA. VALOR SUJEITO A EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+Inaplicável a incidência da Súmula 519 do STJ em cumprimento de sentença de valor sujeito ao pagamento por precatório, porquanto resta sedimentado o entendimento na Turma de que é cabível a fixação de honorários advocatícios quanto à parte impugnada, conforme leitura do art. 85,§7º, do CPC.
+Opostos embargos de declaração, foram rejeitados (fl. 63)
+Aponta o recorrente violação aos arts. 1.022, II, do CPC, 6º da LICC e 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/09, afirmando que "o E. STJ entende que não há violação a coisa julgada a adoção de critérios de correção monetária fixados por legislação superveniente à formação do título executivo" (fl.75).
+Sustenta que "Tem-se, portanto, que a legislação referente aos juros de mora, em respeito ao princípio do tempus regit actum tem aplicação imediata" (fl. 77)
+Aduz que "os juros de mora incidentes sobre os valores da condenação imposta às entidades públicas federais, deverão ser aplicados, no período anterior a julho de 2009nos termos previstos na sentença proferida na ACP (12% ao ano) e, a partir da entrada em vigor da Lei nº 11.960, os índices de juros devem ser os mesmos aplicados à caderneta de poupança nos termos do art. 1º-F da Lei 9.494/97" (fl.78)
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 85/88.
+Em novo julgamento para eventual juízo de retração, o acórdão foi mantido, cuja ementa se colhe (fl. 103):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. JUÍZO DERETRATAÇÃO. DESCABIMENTO. EXECUÇÃODE SENTENÇA. DIFERENÇAS PRETÉRITAS DE BENEFÍCIODECORRENTES DA REVISÃO DO IRSM DEFEVEREIRO/94. AÇÃO CIVIL PÚBLICA 2003.71.00.065522-8. JUROS. TÍTULO EXECUTIVO. JUROS DE MORA. COISA JULGADA.
+Tratando-se da execução de título executivo transitado em julgado quanto aos juros de mora equivalentes a 12% (doze por cento) ao ano, contados da citação, não é caso de juízo de retratação pela Turma quanto aos Temas 810 do e. STF e 905 do e. STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à questão de fundo, da simples leitura dos artigos indicados como malferidos, ressai evidente quenão possuem comando capazde sustentar a tese recursal de inexistência de violação a coisa julgada, relativos aos critérios de correção monetária, fixados por legislação superveniente à formação do título executivo enem de infirmar o juízo formulado no acórdão recorrido.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Para ilustrar, sobressaem os seguintes precedentes:AgInt no REsp 1.894.935/PR, Rel. Ministra Assusete Magalhães, DJE 22/3/2021; AgInt no AREsp 1.689.201/PB, Rel. Ministro Raul Araújo, DJE 22/3/2021; AgInt no AREsp 1.738.090/SP, Rel. Ministro Herman Benjamin, DJE 1º/3/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
