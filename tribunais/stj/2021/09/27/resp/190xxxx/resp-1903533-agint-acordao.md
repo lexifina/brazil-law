@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DIFERENÇAS REMUNERATÓRIAS. PARCELAS ANTERIORES À IMPETRAÇÃO DE MANDADO DE SEGURANÇA COLETIVO.PRESCRIÇÃO. PRAZO. TERMO INICIAL. TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NOWRIT.
+1. A impetração do mandado de segurança, mesmo coletivo, interrompe a prescrição da pretensão de cobrança das parcelas referentes ao quinquênio que antecede a propositura daquele. Nesses casos, o prazo prescricional somente voltará a fluir após o trânsito em julgado da decisão proferida nowrit. Precedentes.
+2. "Entendimento contrário, em muitos casos, afastaria a possibilidade da cobrança das parcelas anteriores à impetração do writ, porquanto prescritas. Fugiria, também, da razoabilidade e lógica jurídicas, além de não coadunar com a celeridade e economia processuais, porquanto conduziria à necessidade do ajuizamento simultâneo do mandamus e de ação ordinária de cobrança"(AgRg no REsp 860.212/MG, Rel. Min. Felix Fischer, Quinta Turma, julgado em 5/10/2006, DJ 30/10/2006, p. 414).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por FAZENDA DO ESTADO DE SÃO PAULO E OUTRA contra decisão que conheceu do agravo para negar provimento ao recurso especial. Na oportunidade, negou-se a ocorrência da prescrição da pretensão da parte adversa.
+As agravantes aduzem que " ..  a decisão agravada, julgou apenas um aspecto da controvérsia, concernente à prescrição de fundo de direito da ação de cobrança, não enfrentando a questão atinente à prescrição parcelar contada do ajuizamento da ação ordinária" (e-STJ, fl. 458).
+Argumenta que "os agravados se beneficiaram com a interrupção do prazo prescricional para o ajuizamento da ação individual de cobrança. Contudo, o marco interruptivo não ostenta o efeito retroativo necessário para garantir o pagamento de todas as parcelas devidas entre o quinquênio anterior à impetração o writ até a propositura da ação de cobrança" (e-STJ, fl. 459).
+Impugnação da parte contrária apresentada (e-STJ, fls. 469-476).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DIFERENÇAS REMUNERATÓRIAS. PARCELAS ANTERIORES À IMPETRAÇÃO DE MANDADO DE SEGURANÇA COLETIVO.PRESCRIÇÃO. PRAZO. TERMO INICIAL. TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NOWRIT.
+1. A impetração do mandado de segurança, mesmo coletivo, interrompe a prescrição da pretensão de cobrança das parcelas referentes ao quinquênio que antecede a propositura daquele. Nesses casos, o prazo prescricional somente voltará a fluir após o trânsito em julgado da decisão proferida nowrit. Precedentes.
+2. "Entendimento contrário, em muitos casos, afastaria a possibilidade da cobrança das parcelas anteriores à impetração do writ, porquanto prescritas. Fugiria, também, da razoabilidade e lógica jurídicas, além de não coadunar com a celeridade e economia processuais, porquanto conduziria à necessidade do ajuizamento simultâneo do mandamus e de ação ordinária de cobrança"(AgRg no REsp 860.212/MG, Rel. Min. Felix Fischer, Quinta Turma, julgado em 5/10/2006, DJ 30/10/2006, p. 414).
+3. Agravo interno a que se nega provimento.
+VOTO
+O presente recurso não merece prosperar.
+Tem-se, na origem, ação ordinária ajuizada por policiais militares inativos pretendendo o recebimento de diferenças remuneratórias devidas em momento anterior à impetração de mandado de segurança. O juiz extinguiu a ação reconhecendo a prescrição.
+O Tribunala quo, em apelação, reformou a sentença e, no tocante à prescrição, fez o seguinte registro (e-STJ, fls. 252-254):
+Mais não fosse, o fato de o v. Acórdão desta E. 7ª Câmara de Direito Público haver consignado que nada impediria o exercício da pretensão de cobrança nos autos da ação mandamental em nada prejudica a propositura da ação própria, pois se trata de faculdade que se constitui em favor do titular da ação.
+E a contagem do lustro prescricional de que cuida a norma do artigo 3º do Decreto n.º 20.910/32, por certo, dar-se-á, retroativamente, a partir da data do mandado de segurança coletivo, porquanto o direito à vantagem lá se viu reconhecido, não se tratando, por isto, de hipótese de suspensão de prazo prescricional.
+E evidente está a inaplicabilidade da regra do artigo 3º do Decreto-lei nº 4.597/42 à espécie, pois, se o direito à ação de cobrança nasceu com o mandado de segurança, a prescrição, desde aactio nata, corre por inteiro, e não pela metade.
+ ..
+Assim, as rés devem pagar aos autores os valores devidos, nos cinco anos anteriores à impetração do mandado de segurança, à vista da regra do artigo 3º do Decreto Federal nº. 20.910/32.
+Conforme o entendimento do Superior Tribunal de Justiça, a impetração do mandado de segurança interrompe a prescrição da pretensão de cobrança das parcelas referentes ao quinquênio que antecede a propositura domandamus.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONFIGURADO. AÇÃO REPETITÓRIA. DIREITO RECONHECIMENTO EM MANDADO DE SEGURANÇA. COBRANÇA DE PARCELAS PRETÉRITAS. PRESCRIÇÃO QUINQUENAL RETROATIVA. TERMO INICIAL. AJUIZAMENTO DOWRIT.
+1. Inexiste violação do art. 1.022 do CPC/2015 quando o acórdão recorrido fundamenta claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+2. A impetração do mandado de segurança interrompe a prescrição.Assim, durante a tramitação dowrit, não transcorre o lapso prescricional da pretensão de cobrança das parcelas referentes ao quinquênio que antecedeu a propositura domandamus.
+3. "O mandado de segurança não se presta ao adimplemento das parcelas anteriores à impetração, as quais deverão ser posteriormente cobradas administrativa ou judicialmente. Neste caso, o termoa quoda prescrição quinquenal das parcelas vencidas é a data do ajuizamento da ação mandamental que o concedeu o direito as supramencionadas parcelas" (AgRg no REsp 860.212/MG, Rel. Ministro Felix Fischer, Quinta Turma, DJ 30/10/2006).
+4. Recurso especial parcialmente provido.
+(REsp 1.647.163/PR, de minha relatoria, SEGUNDA TURMA, julgado em 3/4/2018, DJe 9/4/2018).
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO DIREITO RECONHECIDO NA VIA MANDAMENTAL. AÇÃO DE COBRANÇA DAS PARCELAS ANTERIORES À IMPETRAÇÃO. PRESCRIÇÃO. AJUIZAMENTO DOWRIT. CAUSA INTERRUPTIVA DO PRAZO PRESCRICIONAL. TERMO INICIAL DOS JUROS DE MORA. NOTIFICAÇÃO DA AUTORIDADE COATORA QUANDO DA IMPETRAÇÃO DOMANDAMUS.
+1. Bem da verdade, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014). Sendo assim, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente.
+2. Por fim, acerca do momento da citação válida, sem razão ao recorrente, tendo em vista que o Superior Tribunal de Justiça declarou o termo inicial dos juros de mora, consequentes de ação de cobrança dos valores pretéritos ao mandado de segurança, é o momento em que a autoridade coatora é notificada nowrit. Ademais, asseverou que a impetração domandamusinterrompe a fluência do prazo prescricional no tocante à ação ordinária de cobrança.
+3. Agravo interno não provido.
+(AgInt no REsp 1.711.432/DF, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/8/2018, DJe 14/8/2018).
+ADMINISTRATIVO. COBRANÇA. PENSÃO. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. PRESCRIÇÃO. SÚMULA 85/STJ.
+1. Trata-se, na origem, de ação de cobrança de diferenças de pensão percebida em razão de falecimento de cônjuge. A sentença de procedência foi mantida pelo Tribunala quo.
+2. Houve manifestação expressa do acórdão recorrido e da decisão monocrática agravada a respeito da prescrição, embora em sentido contrário à pretensão do agravante. Não caracterizada a omissão.
+3. No mais: a) as parcelas vencidas anteriormente à impetração domandamusdevem ser buscadas por meio de ação de cobrança; b) a impetração dowritinterrompe o fluxo do prazo prescricional, que só se reinicia com o trânsito em julgado da decisão que concedeu a Segurança; nesse caso, o termoa quoda prescrição quinquenal das parcelas vencidas é a data do ajuizamento domandamusque restabeleceu a referida gratificação; e c) nas discussões de recebimento de vantagens pecuniárias em que não houve negativa inequívoca do próprio direito reclamado, tem-se relação de trato sucessivo, aplicando-se a Súmula 85/STJ. Precedentes do STJ.
+4. Diante do exposto, nego provimento ao Agravo Regimental.
+(AgRg no AREsp 193.176/CE, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 4/9/2012, DJe 11/9/2012).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. AGRAVO NÃO PROVIDO.
+1. A impetração de mandado de segurança interrompe o prazo prescricional para cobrança das parcelas vencidas anteriormente à impetração, que só volta a transcorrer após o trânsito em julgado da decisão que concede a segurança. Precedentes do STJ.
+2. Agravo regimental não provido.
+(AgRg no Ag 1.344.634/GO, Rel. Min. ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 1º/3/2011, DJe 17/3/2011).
+Nesses casos, o prazo prescricional somente voltará a fluir após o trânsito em julgado da decisão proferida no mandado de segurança. Nesse sentido, cito as judiciosas considerações feitas pelo Ministro Félix Fischer na oportunidade do julgamento do AgRg no REsp 860.212/MG (Quinta Turma, DJ 30/10/2006, p. 414):
+Entendimento contrário, em muitos casos, afastaria a possibilidade da cobrança das parcelas anteriores à impetração dowrit, porquanto prescritas. Fugiria, também, da razoabilidade e lógica jurídicas, além de não coadunar com a celeridade e economia processuais, porquanto conduziria à necessidade do ajuizamento simultâneo domandamuse de ação ordinária de cobrança.
+Em síntese, a questão pode ser assim resumida: a impetração do mandado de segurança interrompe e suspende a fluência do prazo prescricional de molde que, tão-somente após o trânsito em julgado da decisão nele proferida, é que voltará a fluir a prescrição da ação ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura dowrit.
+Essa solução, inclusive, tem sido aplicada nas hipóteses em que se tem mandado de segurança coletivo. De conteúdo idêntico ao presente caso, cito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. AÇÃO ORDINÁRIA DE COBRANÇA. PRESCRIÇÃO. AJUIZAMENTO DE MANDADO DE SEGURANÇA. INTERRUPÇÃO. CONTAGEM PELA METADE DO PRAZO REMANESCENTE APÓS O TRÂNSITO EM JULGADO DOMANDAMUS. PRESCRIÇÃO CONFIGURADA.
+1. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos (fls. 155-156, e-STJ): "4. No entanto, verifica-se a ocorrência da prescrição da ação de cobrança, no presente caso. Com efeito, a impetração do mandado de segurança coletivo interrompeu a prescrição das parcelas vencidas no lustro que antecedeu aquela ação, voltando a fluir o prazo prescricional a partir do trânsito em julgado da decisão que concedeu a ordem. No caso em tela, o trânsito em julgado da decisão que concedeu a ordem no mandado de segurança ocorreu em 17/06/2015 (fl. 28) e a presente ação foi ajuizada em 14/03/2018, depois, portanto, de transcorrido o lapso prescricional, contado conforme a regra do artigo 9º, do Decreto n.º 20.910/32, que reduz pela metade o prazo da prescrição que recomeça a correr, depois de interrompida.".
+2. Nos termos do art. 9º do Decreto 20.910/1932, "a prescrição interrompida recomeça a correr, pela metade do prazo, da data do ato que a interrompeu ou do último ato ou termo do respectivo processo".
+3. Tratando-se de causa interruptiva, advinda do ajuizamento de Mandado de Segurança, o prazo de prescrição para a ação de cobrança volta a correr pela metade a partir do último ato processual da causa interruptiva, qual seja o trânsito em julgado da decisão nomandamus.
+4. Consoante o enunciado da Súmula 383/STF: "A prescrição em favor da Fazenda Pública recomeça a correr, por dois anos e meio, a partir do ato interruptivo, mas não fica reduzida aquém de cinco anos, embora o titular do direito a interrompa durante a primeira metade do prazo".
+ ..
+8. Recurso Especial não provido.
+(REsp 1.824.635/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/9/2019, DJe 11/10/2019).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PRESCRIÇÃO. IMPETRAÇÃO DO MANDADO DE SEGURANÇA COLETIVO. INTERRUPÇÃO. SÚMULA 383/STF.
+1. O acórdão recorrido foi proferido em dissonância com a jurisprudência desta Corte, firme no sentido de que de acordo com a Súmula 383/STF "o lapso prescricional em favor da Fazenda Pública somente poderá ser interrompido uma única vez, recomeçando a correr pela metade (dois anos e meio) a partir do ato interruptivo. Entretanto, a prescrição não fica reduzida aquém de cinco anos, caso o titular do direito a interrompa durante a primeira metade do prazo" (REsp 1121138/RS, Rel. Ministra LAURITA VAZ, Rel. p/ Acórdão Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 20/02/2014, DJe 01/09/2014).
+2. Agravo interno não provido.
+(AgInt no AREsp 1.481.926/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/10/2019, DJe 24/10/2019).
+Não tem razão a parte, portanto, quando afirma que "o marco interruptivo não ostenta o efeito retroativo necessário para garantir o pagamento de todas as parcelas devidas entre o quinquênio anterior à impetração o writaté a propositura da ação de cobrança". Tampouco quando aduz que "a decisão agravadajulgou apenas um aspecto da controvérsia, concernente à prescrição de fundo de direito da ação de cobrança".
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
