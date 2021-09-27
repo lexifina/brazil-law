@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por COMÉRCIO DE COUROS EXPORT LTDA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 223-224):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS. CDA. REQUISITOS LEGAIS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de embargos opostos por Couro Bom Retiro Ltda. à execução ajuizada pela União, alegando excesso da execução e nulidade da CDA que embasou a execução. Na sentença, julgaram-se improcedentes os pedidos. No Tribunala quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que se a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial".
+III - É irrefutável que o Tribunal de origem, ao apreciar o conteúdo fático e probatório dos autos, consignou expressamente que: "Desse modo, constato estarem presentes osrequisitos legais nas CDAs que embasam a execução fiscal", concluindo, em seguida, que "No caso em exame, na forma do art. 2º, §§ 5º e 6º da LEF, vê-se que os requisitos da certidão de dívida ativa são os mesmos do termo de inscrição e ali discriminados, todos atendidos pela Fazenda Nacional, não havendo assim falar em qualquer mácula formal dos títulos executivos."
+IV - Dessa forma, para rever tal posição, relativa à nulidade da CDA em virtude de suposta ausência de preenchimento dos requisitos legaisdo título executivo em apreço, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial.
+V - Agravo interno improvido.
+Sustenta arecorrente que a matéria discutida no recurso é de relevância e pertinência e que houve violação do art. 105, inciso III, alínea "a", da Constituição Federal.
+Alega que o julgado combatido desconsiderou integralmente os fundamentos do recurso de agravo manejado, no qual "a recorrente deixara sobejamente explicitadas as razões capazes de ilidir os fundamentos da decisão agravada" (e-STJ fl. 236).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas contrarrazões (e-STJ fl. 246).
+É o relatório.
+O Supremo Tribunal Federal pacificou o entendimento de que não é cabível recurso extraordináriono qual se alegaviolação aoart. 105, inciso III, da Constituição Federal, questionandoo conhecimento ou não do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. INFRINGÊNCIA AO ART. 105, III, "A", DA CF/88. REPERCUSSÃO GERAL REJEITADA NO JULGAMENTO DO RE 598.365-RG (REL. MIN. AYRES BRITTO, TEMA 181). OFENSA À COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(ARE 860192 AgR, Relator(a): TEORI ZAVASCKI, Segunda Turma, julgado em 28/04/2015, PROCESSO ELETRÔNICO DJe-087 DIVULG 11-05-2015 PUBLIC 12-05-2015)
+Com igual orientação:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PONTAL DO PARANAPANEMA. NULIDADE DOS TÍTULOS DE DOMÍNIO EM RAZÃO DO VÍCIO NA ORIGEM DA CADEIA DOMINIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 105, III, DA CONSTITUIÇÃO. REEXAME DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. PRECEDENTES. ADMISSIBILIDADE DE RECURSOS DE COMPETÊNCIAS DE CORTES DIVERSAS. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RE 598.365. TEMA 181. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+(RE 1081829 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 21/09/2018, PROCESSO ELETRÔNICO DJe-208 DIVULG 28-09-2018 PUBLIC 01-10-2018)
+Na espécie,o acórdão objeto do recurso extraordinário negou provimento ao agravo interno, mantendo a decisão que conheceu do agravo para não conhecer do recurso especial, ante a incidência do óbice da Súmula 7/STJ.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+Confira-se, por oportuno, a ementa do julgado:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 105, INCISO III, DA CONSTITUIÇÃO FEDERAL. AFERIÇÃO DOS PRESSUPOSTOS DO RECURSO ESPECIAL. ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. SEGUIMENTO NEGADO.
