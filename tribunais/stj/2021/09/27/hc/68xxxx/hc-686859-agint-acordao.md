@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1. Trata-se de Agravo Interno de PATRÍCIA MANHÃES BASTOS LIMA, interposto contra decisão unipessoal assim ementada:
+DIREITO PROCESSUAL CIVIL. HABEAS CORPUS TENDENTE A VER DESTRANCADA A ADMISSIBILIDADE DO RECURSO ESPECIAL, APONTANDO-SE ARESTO DO TRIBUNAL REGIONAL COMO ENSEJADOR DE ATO ILEGAL, POR SUAS CONCLUSÕES JURÍDICAS DESFAVORÁVEIS À PRETENSÃO DA PACIENTE. VIA PROCESSUAL INADEQUADA. PETIÇÃO INICIAL DE HABEAS CORPUS INDEFERIDA (fls. 28/30).
+2. Nas razões de seu recurso, a parte vindica a reforma da solução monocrática, a partir doseguinte argumento: não há óbice legal para a percepção da pensão especial com acumulação dos proventos de aposentadoria por tempo de contribuição pagos pelo INSS, em clara razão de se tratarem de fatos geradores distintos, ou seja, uma é Pensão Especial e outra trata-se de Benefício Previdenciário. Assinala quea jurisprudência do Superior Tribunal de Justiça admite a possibilidade da cumulação da pensão especial com o recebimento de outro benefício de natureza previdenciária, bem como vem entendendo que as vedações impostas pela Lei 4.242/63 não se aplicariam aos dependentes do ex-combatente.
+3. Em síntese, é o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. HABEAS CORPUS. DECISÃO EXTINTIVA. NÃO SUBMISSÃO A ABALO AOS FUNDAMENTOS DO JULGADO RECORRIDO. RECURSO NÃO CONHECIDO.
+1. Para que alcance o objetivo de ver reformada a decisão, os argumentos emitidos pela parte insurgente devem ser lançados sobre a lógica específica da decisão recorrida, pois o recurso judicial se pauta pela dialética.
+2. Na presente demanda, a parte recorrente insiste em tese alusiva ao direito de a paciente perceber, acumuladamente, pensão especial com proventos de aposentadoria pelo Regime Geral de Previdência, sem contrapor o fundamento da decisão agravada de que o Habeas Corpus foi liminarmente extinto, por não ser meio cabível para destrancar o processamento de Recurso Especial, que foi o pedido veiculado na impetração. Carência de combate específico ao fundamento que constitui o pilar da decisão agravada.
+3. Agravo Interno não conhecido.
+VOTO
+1. Para que alcance o objetivo de ver reformada a decisão, os argumentos emitidos pela parte insurgente devem ser lançados sobre a lógica específica da decisão recorrida, pois o recurso judicial se pauta pela dialética (AgInt no REsp 1.928.631/AM, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 16.06.2021). Confira-se, também:
+ADMINISTRATIVO E PROCESSUAL CIVIL. IMPROBIDADE. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. NÃO CONHECIMENTO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ALEGAÇÕES GENÉRICAS. DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+1. Mantendo a sentença da primeira instância, o Tribunal de origem reconheceu a prática de improbidade administrativa, com a seguinte fundamentação: "A situação emergencial não ficou demonstrada nos autos a justificar a referida aquisição, sobretudo considerando que todas as compras de remédios, em 2008 e 2009, deram-se sem a realização de licitação, em afronta aos ditames da Lei 8.666/1993." (fl. 584, e-STJ).
+2. A Presidência do STJ não conheceu da irresignação, com base noart. 932, inciso III, do CPC, e no art. 253, parágrafo único, inciso I, do RISTJ, por entender que o fundamento utilizado na origem para não admitir o Recurso Especial (Súmula 7/STJ) não foi impugnado.
+3. Essa decisão está em consonância com a jurisprudência pacificada no STJ. Nesse sentido: EAREsp 746.775/PR, Relator p/acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30.11.2018.
+4. Além disso, não se pode conhecer nem mesmo do Agravo Interno, pois, em vez de sustentar que houve impugnação específica, o agravante se limitou a dizer, genericamente, que a Súmula 7/STJ não se aplica ao caso.
+5. Como se tem entendido no STJ, "por força do princípio da dialeticidade, há um ônus a ser observado pelo recorrente: o combate aos fundamentos do ato judicial de forma dialética e específica.(RMS 60.604/SP, Relator Min. Og Fernandes, Segunda Turma, DJe 8.8.2019). No mesmo sentido: AgRg no AREsp 148.392/RJ, Relator Min.Sérgio Kukina, Primeira Turma, DJe 11.10.2013; REsp 1.885.983/SP, Relator Min. Mauro Cambpell Marques, Segunda Turma, DJe 27.11.2020;AgInt no AREsp 801.522/SP, Relator Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 13.9.2019.
+6. Agravo Interno não conhecido (AgInt no AREsp 1.808.352/PA, Rel. Min.HERMAN BENJAMIN, SEGUNDA TURMA, DJe 01.07.2021).
+2. Na presente demanda, a parte recorrente insiste em tese alusiva ao direito de a paciente em perceber, acumuladamente, pensão especial com proventos de aposentadoria pelo Regime Geral de Previdência, sem contrapor o fundamento central e pilar da decisão agravada de que o Habeas Corpus foi liminarmente extinto, por não ser meio cabível para destrancar o processamento de Recurso Especial, pedido veiculado na impetração.
+3. Bem por isso, o recurso não ostenta condições mínimas para sua cognoscibilidade.
+4. Mercê do exposto, não se conhece do Agravo Interno da parte impetrante.
+5. É como voto.
