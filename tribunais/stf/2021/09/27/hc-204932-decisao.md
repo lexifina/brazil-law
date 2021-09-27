@@ -1,0 +1,23 @@
+Habeas corpus. Crime de conduzir veículo automotor com capacidade psicomotora alterada. Progressão para o regime aberto. Superveniente perda de objeto. Writ prejudicado.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Douglas Teodoro Fontes e outros em favor de Carlos José da Silva, contra decisão monocrática da lavra do Ministro Jorge Mussi, que, no exercício da Presidência do Superior Tribunal de Justiça, indeferiu a liminar no HC 682.870/SP.
+    O Paciente foi condenado definitivamente à pena de 06 (seis) meses de detenção, em regime inicial semiaberto, pela prática do crime de conduzir veículo automotor com capacidade psicomotora alterada (art. 306 do Código de Trânsito Brasileiro).
+    Extraio do ato dito coator (evento 4, fls. 11/2):
+    “Decido.
+    Em juízo de cognição sumária, verifica-se que inexiste flagrante ilegalidade que justifique o deferimento do pleito liminar em regime de plantão, especialmente porque o relator do acórdão combatido consignou o seguinte (fl. 249):
+    A pena-base foi acima do mínimo legal em razão dos maus antecedentes do réu, estes evidenciados a fls. 129/130 (duas condenações pelo mesmo delito de dirigir embriagado) e, na segunda fase, reduzida ao mínimo legal pela confissão, resultando de seis meses de detenção, além do pagamento de 10 dias-multa, no piso. [...] Deve ser mantido o regime inicial semiaberto em razão dos maus antecedentes do réu.
+    Considerando que o pedido se confunde com o próprio mérito da impetração, deve-se reservar ao órgão competente a análise mais aprofundada da matéria por ocasião do julgamento definitivo.
+    No que diz respeito à alegada impossibilidade de utilização das condenações anteriores para majorar a pena-base e do pleito de concessão de prisão domiciliar humanitária, cumpre registrar que, do exame do acórdão combatido, observa-se que as questões não foram objeto de análise pela Corte de origem, o que impede a sua apreciação diretamente por este Superior Tribunal, sob pena de atuar em indevida supressão de instância.
+    Ante o exposto, indefiro o pedido de liminar.”
+    No presente writ, a Defesa pugna pelo afastamento da Súmula 691/STF. Sustenta a fixação do regime inicial aberto ou domiciliar e a substituição da pena privativa de liberdade por restritiva de direitos. Ressalta que o Paciente é idoso, inserido no grupo de risco da Covid-19. Aponta a primariedade e os maus antecedentes remotos. Requer, em medida liminar, a concessão de prisão domiciliar até o julgamento final do writ. No mérito, pugna pela fixação do regime prisional mais brando e substituição da pena privativa de liberdade por restritiva de direitos.
+     O Ministério Público Federal, em manifestação da lavra da Procuradora-Geral da República Cláudia Sampaio Marques, opina pela extinção do feito em razão da perda do objeto.
+    É o relatório.
+    Decido.
+    Em consulta ao sítio do Tribunal de Justiça de São Paulo constato que, em 11.8.2021, foi concedido ao Paciente a progressão para o regime aberto. Como bem apontou o parecer ministerial, o Tribunal de Justiça “revelou que o paciente obteve a progressão ao regime aberto em audiência realizada em 11/8/2021 (Execução da Pena nº 0002611-17.2021.8.26.0154, Vara Única da Comarca de Paulo de Faria/SP), já tendo os autos, inclusive, sido remetidos à Vara de Execuções da Comarca de São José do Rio Preto, local do endereço declinado pelo próprio apenado”.
+    Em tal hipótese, a jurisprudência desta Suprema Corte orienta-se no sentido do prejuízo do writ, porquanto ‘a superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do habeas corpus, faz instaurar situação configuradora de prejudicialidade (RTJ 141/502), justificando-se, em consequência, a extinção anômala do processo’ (RHC 83.799-AgR/SP, Rel. Min. Celso de Mello).
+    De outro lado, o Superior Tribunal de Justiça, via decisão monocrática da lavra do Ministro Olindo Menezes (Desembargador convocado do TRF da 1ª Região), em 23.9.2021, denegou a ordem no HC 682.870/SP. Nesse contexto, a orientação jurisprudencial desta Casa é no sentido da perda de objeto do presente writ manejado contra indeferimento de medida liminar. Precedentes: HC 117.448/ES, Rel. p/acórdão Min. Roberto Barroso; HC 111.426/PE, Rel. p/acórdão Min. Luiz Fux; HC 103.570/SP, acórdão de minha redação; HC 117.747-AgR/SP, Rel. Min. Cármen Lúcia; HC 115.314/SP, Rel. Min. Dias Toffoli
+    Ante o exposto, evidente a perda de objeto do presente habeas corpus, razão por que o julgo prejudicado (RISTF, art. 21, IX).
+    Publique-se.
+    Brasília, 27 de setembro de 2021.
+Ministra Rosa Weber
+Relatora
