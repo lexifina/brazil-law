@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por RAFAEL LUIZ DEON contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - Ação monitória - "Contrato de prestação de serviços educacionais e fornecimento de material didático" - Relação de consumo - Sentença de procedência - Pleito de reforma - Descabimento - Circunstâncias retratadas nos autos que induzem a conclusão de que os serviços foram prestados na forma avençada - Aluno que frequentou regularmente as aulas, obtendo aprovação no ano letivo em que verificado o inadimplemento - Aludida suposta má prestação dos serviços educacionais e precariedade do fornecimento de material didático, que não restaram comprovadas - Ausência de demonstração dos fatos impeditivos, modificativos ou extintivos do direito das autoras - Inteligência do artigo 373, II, do CPC - Sentença Mantida - Recurso desprovido.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega a parte recorrente violação do art. 1º, § 7º, da Lei n. 9.870/99, no que concerne a atuação abusiva das recorridas, eis que realizaram a cobrança de material didático de uso coletivo em importância de 20% da mensalidade escolar, trazendo os seguintes argumentos:
+Consoante amplamente explanado pela recorrente, restou-se demonstrado nos autos que a recorrida exige o pagamento de 20% da mensalidade a título de material didático de uso coletivo, fato incontroverso nos autos.
+Eis que, o contrato celebrado entre as partes (fls. 45) assim prevê: (fls. 20).
+Cláusula 10ª - O valor total da anuidade (do qual 20% refere-se ao fornecimento de material didático) é de R$ 17.745,00 (dezessete mil, setecentos e quarenta e cinco reais), que deverá ser pago a tempo e modo, conforme opção feita pelo Contratante, entre as seguintes a ele oferecidas:
+Ocorre que, pela interpretação dada pelo v. Acórdão, a Lei supostamente autorizaria a mencionada cobrança.
+Deve-se, com isso, ser afastada a interpretação legal utilizada pelo v. acórdão.
+Isso porque, pela correta interpretação do dispositivo legal, a cobrança do material coletivo é abusiva, e a cláusula que assim dispuser é passível de nulidade.
+ ..
+Notadamente, no caso em comento ao fazer expressa cobrança de material didático de uso coletivo em importância equivalente à 20% da mensalidade, as recorridas agiram de forma abusiva (fls. 320-321).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Outrossim, é certo que a fundamentação apontada alhures remete à ausência de violação do § 7º, do art. 1º da Lei nº 9.870/99, sendo oportuno pontuar, apenas para que não pairem dúvidas, que a cláusula 10ª da avença não prevê qualquer pagamento adicional, incorporando o custo correspondente ao material didático no cálculo do valor da anuidade, tal como facultado legalmente (fl. 340).
+Assim, incide o óbice da Súmula n. 5 do STJ ("A simples interpretação de cláusula contratual não enseja recurso especial"), uma vez que a pretensão recursal demanda reexame de cláusulas contratuais.
+Nesse sentido: "E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ". (AgInt no AREsp 1.298.442/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.639.849/ES, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; AgInt no REsp 1.662.100/AL, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e AgInt no REsp 1.848.711/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
