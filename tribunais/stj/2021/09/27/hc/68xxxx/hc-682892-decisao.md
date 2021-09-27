@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de EMERSON CESAR DA SILVA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao agravo em execução ministerial, em acórdão não ementado de e-STJ, fls. 15-21.
+Neste writ, a impetrante alega constrangimento ilegal no retorno do paciente ao cárcere sob o argumento da necessidade de realização do exame criminológico prévio à nova apreciação do pedido de progressão de regime.
+Aduz que a fundamentação foi inidônea, eis que embasada na longevidade da pena e gravidade abstrata do delito.
+Requer, inclusive liminarmente, o restabelecimento da decisão que deferiu a progressão do reeducando ao regime semiaberto.
+A liminar foi indeferida pelo Ministro Vice-Presidente, no exercício da Presidência (e-STJ, fls. 25-26).
+Prestadas as informações (e-STJ, fls. 41-58), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 62-67).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem cassou a decisão do Juízo da Execução, aos seguintes fundamentos:
+"O agravado cumpre pena de 22 anos, 7 meses e 26 dias de reclusão, pela prática do crime de tráfico, latrocínio, e roubo circunstanciado, com término previsto para 23 de fevereiro de 2033 (fls. 6/7).
+Para concessão da progressão de regime é imprescindível preenchimento dos requisitos objetivo (tempo mínimo exigido por lei) e subjetivo (ostentar bom comportamento carcerário, podendo ser fundamentada a realização de exame criminológico).
+De proêmio, nada na lei consigna, como requisito legal à promoção, a satisfação da pena pecuniária.
+ ..
+No mais, a insurgência recursal baseia-se na ausência de requisito subjetivo, sustentando a necessidade de prévio exame criminológico.
+O exame criminológico e o parecer da Comissão Técnica de Classificação, previstos apenas na redação originária do artigo 112 da Lei de Execuções Penais, não mais constituem etapa prévia para a aferição do requisito subjetivo.
+Diante disso, tem-se que, para a análise do mérito do reeducando, basta, via de regra, o atestado de bom comportamento carcerário e, somente em casos excepcionais, com base nas peculiaridades do caso e mediante decisão devidamente motivada em elementos concretos a indicar a necessidade, pode-se determinar a realização de exame criminológico.
+ ..
+O agravado possui bom comportamento carcerário (fls. 6), mas é insuficiente para aferição do mérito, diante da excepcionalidade do caso.
+Verifica-se, pelo Boletim Informativo, a necessidade de prévio exame criminológico (fls. 6/8), pois o reeducando cumpre pena por crimes graves, cometidos mediante violência ou grave ameaça à pessoa (latrocínio e roubo circunstanciado) e por crime equiparado a hediondo (tráfico de drogas), e ainda cometeu falta disciplinar de natureza grave, com regressão ao regime fechado (fls. 7).
+A situação peculiar exige maior prudência no controle relativo às benesses executivas, mostrando- se, portanto, necessário o exame criminológico, para melhor análise do requisito subjetivo, e, sobretudo, para se verificar a possibilidade, em tese, de reiteração criminosa.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao agravo em execução interposto pelo Ministério Público para cassar a decisão agravada, com o retorno do sentenciado Emerson Cesar da Silva ao regime fechado, determinando seja ele submetido a exame criminológico e, após, seja reapreciado o pedido de progressão de regime pelo Juízo das Execuções Criminais." (e-STJ, fls. 17-21).
+Inicialmente, cumpre destacar que não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, da Constituição Federal, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal ("A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor.").
+Referido entendimento é objeto da Súmula 439/STJ ("admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.").
+Todavia, no caso dos autos, observa-se que a Corte local condicionou a apreciação do pedido de progressão de regime à realização de exame criminológico utilizando-se de fundamentação inidônea, relativa à gravidade abstrata dos delitos praticados, à longa pena a cumprir e à existência de faltas graves antigas (e-STJ, fl. 54), o que consubstancia o alegado constrangimento ilegal, de acordo com entendimento desta Corte Superior:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. LONGA PENA A CUMPRIR E GRAVIDADE ABSTRATA. FALTAS GRAVES ANTIGAS. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A gravidade abstrata do crime, a longa pena a cumprir, assim como faltas disciplinares antigas, já reabilitadas, não justificam a exigência de realização do exame criminológico ou a negativa de concessão de benefícios do sistema progressivo das penas.
+2. Agravo regimental improvido." (AgRg no HC 643.530/SP, Rel. Ministro OLINDO MENEZES - DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, SEXTA TURMA, julgado em 04/05/2021, DJe 10/05/2021).
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PROGRESSÃO DE REGIME PRISIONAL. GRAVIDADE DOS CRIMES PRATICADOS (DUAS TENTATIVAS DE HOMICÍDIO) E LONGA PENA. INIDONEIDADE. COMETIMENTO DE FALTA GRAVE EM 2017 - POSSE DE SUBSTÂNCIA ENTORPECENTE NO ESTABELECIMENTO PRISIONAL. AUSÊNCIA DE CONTEMPORANEIDADE DO FUNDAMENTO. ATESTADO DE BOM COMPORTAMENTO CARCERÁRIO. EXAME CRIMINOLÓGICO. DESNECESSIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO PARA RESTABELECER A PROGRESSÃO DE REGIME PRISIONAL.
+ ..
+2. A gravidade abstrata do que crime praticado pelo reeducando e a longa pena a cumprir não são elementos idôneos para fundamentar o indeferimento da progressão de regime prisional. Precedentes.
+3. Na espécie, o único elemento concreto utilizado pela Corte de origem, relacionado ao comportamento carcerário do apenado, refere-se à prática de falta disciplinar de natureza grave em 12/5/2017 - posse de entorpecente no interior do estabelecimento prisional -, o que demonstra a ausência de contemporaneidade do fundamento.
+4. Habeas corpus não conhecido. Ordem concedida de ofício para restabelecer a decisão que deferiu a progressão de regime prisional ao paciente." (HC 628.101/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 14/12/2020).
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para cassa o acórdão estadual e restabelecer a decisão do Juízo da Execução, que concedeu ao paciente a progressão ao regime semiaberto.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e ao Juízo da Execução.
+Publique-se. Intimem-se.
