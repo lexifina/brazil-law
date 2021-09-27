@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por Ocean Explorer do Brasil Ltda.,desafiando decisão denegatória de admissibilidade a recurso especial interposto com base no art.105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 251/252):
+TRIBUTÁRIO. IPI. AERONAVE. ARRENDAMENTO OPERACIONAL.DESEMBARAÇO ADUANEIRO. REGIME DE ADMISSÃO TEMPORÁRIA. INCIDÊNCIA.HONORÁRIOS ADVOCATÍCIOS. ARTIGO 85, §§3º E 5º DO CPC.
+1. Afigura-se cabível a incidência do IPI proporcional, em virtude de operação de importação de aeronave decorrente de contrato de arrendamento operacional sob o regime de admissão temporária, ainda que não haja a transferência da propriedade.
+2. Não se vislumbra, no caso, qualquer vício formal de constitucionalidade em relação ao Decreto nº 2.889/98 e às Instruções Normativas nº 164/98, nº 150/99 e nº 285/03 (que regulamentam o art. 79, da Lei nº 9.430/96), uma vez que que o legislador, legitimado a suprimir totalmente o benefício também o é, com maior razão, à simples redução, não havendo, portanto, que se falar em inovação da base de cálculo da exação.Precedentes do STJ.
+3. Tampouco prospera a tese de que há violação ao princípio da não cumulatividade, pois como não há comercialização do bem, a apelante equipara-se ao consumidor final e, assim, deve assumir o encargo da tributação. Precedente do STF.
+4. Quanto aos honorários advocatícios, a condenação deve observar o escalonamento previsto no § 5º do artigo 85, considerado o valor da causa devidamente atualizado.
+5. Sentença parcialmente reformada, para que a verba honorária arbitrada tenha por supedâneo os patamares mínimos estabelecidos nos §§ 3º, incisos I e II, e 5º, observado o valor da causa, considerando que a discussão judicial tratou de questão eminentemente de direito, afastando a necessidade da realização de audiências e produção de provas, sendo, portanto suficiente para remunerar o advogado da parte vencedora sem onerar excessivamente a parte vencida.
+Não foram opostos embargos declaratórios.
+Nas razões de recurso especial, a parte agravante aponta violação aos arts. 46, I, 47, 49, 51, I e97, I, doCTN. Sustenta, em resumo, a reforma do acórdão recorrido "a fim de dar provimento ao presente Recurso Especial, afastando-se a exigência do IPI supostamente incidente sobre aadmissão temporária da aeronave arrendada pela Recorrente, nos exatos termos do pedido inicial."(fls. 283/284)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Quanto à questão de fundo, esta Corte Superior firmou entendimento no sentido de que o fato gerador do IPI incidente sobre mercadoria importada é o desembaraço aduaneiro, conforme determina o art. 46, I, do CTN, sendo irrelevante se adquirida a título de compra e venda ou arrendamento, ainda que ocorra apenas a utilização temporária do bem.
+A propósito:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IPI.IMPORTAÇÃO. FATO GERADOR. DESEMBARAÇO ADUANEIRO. ARRENDAMENTO MERCANTIL. ADMISSÃO TEMPORÁRIA DE AERONAVE. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. O Superior Tribunal de Justiça tem entendimento de que o fato gerador do Imposto sobre Produtos Industrializados - IPI é o desembaraço aduaneiro, sendo irrelevante se o bem é adquirido a título de compra e venda ou arrendamento, incidindo o tributo sobre base de cálculo proporcional nos casos de ingresso do bem em caráter temporário no território nacional. Precedentes: REsp. 1.661.924/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.6.2017; REsp. 1.543.065/MG, Rel.Min. REGINA HELENA COSTA, DJe 8.11.2016.
+2. Registre-se que o presente caso não guarda similitude fática com o entendimento proferido no REsp. 1.396.488/SC, tendo em vista que na espécie discute-se sobre a incidência do IPI em admissão temporária de aeronave em território nacional, ao passo em que o acórdão paradigma trata de hipótese de incidência do IPI sobre veículo automotor importado para uso próprio.
+3. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no AREsp 1076703/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/02/2019, DJe 28/02/2019)
+PROCESSUAL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. IPI. ARRENDAMENTO OPERACIONAL. FATO GERADOR.DESEMBARAÇO ADUANEIRO. ADMISSÃO TEMPORÁRIA DE AERONAVE. INCIDÊNCIA PROPORCIONAL DO IMPOSTO. NÃO CONHECIMENTO DO RECURSO PELA ALÍNEA "A". DISSÍDIO PRETORIANO PREJUDICADO. 1. A solução integral da controvérsia não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. O Superior Tribunal de Justiça tem entendimento de que o fato gerador do Imposto sobre Produtos Industrializados - IPI é o desembaraço aduaneiro, conforme o disposto no art. 46, I, do CTN, sendo irrelevante se o bem é adquirido a título de compra e venda ou arrendamento, incidindo o tributo sobre base de cálculo proporcional nos casos de ingresso do bem em caráter temporário no território nacional, nos termos do art. 79 da Lei 9.430/1996.
+3. Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1768628/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/10/2018, DJe 19/11/2018)
+Assim, deve ser mantido o acórdão recorrido por estar em consonância com a jurisprudência desta Corte.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
