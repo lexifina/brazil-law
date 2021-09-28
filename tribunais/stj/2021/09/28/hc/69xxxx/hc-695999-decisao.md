@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor deEdson Barbosa Alves, apontando-se como autoridade coatora o Tribunal de Justiça de Pernambuco (HC n.0008028-40.2021.8.17.9000).
+Narram os autos que o Juízo da1ª Vara de Execução Penal em meio Fechado e Semiaberto indeferiu o pedido de prescrição disciplinar feito pela defesa do paciente com relação ao cometimento de novos crimes no decorrer da execução penal.
+Neste mandamus, osimpetrantes alegam que osnovos crimes cometidos pelo paciente durante a execução penal, ocorridos em 3/7/2007, 14/9/2011, 28/9/2013 e 28/2/2016, que, em tese, poderiam configurar falta grave, na forma do art. 52 da Lei 7.210/1984,não foram objeto de nenhum procedimento administrativo disciplinar ou audiência de justificação, dentro do prazo de 3 anos aplicável à espécie.
+Aduzem que o Tribunal a quonão conheceu do writoriginário em razão da impropriedade da via eleita.
+Não houve pedido liminar.
+Requerem os impetrantesa concessão da ordem para determinar que o Tribunal de Justiça de Pernambuco examine o mérito doHC n. 0008028-40.2021.8.17.9000 lá impetrado contra decisão do Juízo das Execuções Penais que indeferiu pleito defensivo para reconhecimento de prescrição disciplinar(fl. 7).
+É o relatório.
+A ordem comporta concessão in limine.
+No caso dos autos, o Tribunal de Justiça deixou consignado, no acórdão impugnado, o seguinte (fls. 38/39 - grifo nosso):O Supremo Tribunal Federal e o Superior Tribunal de Justiça têm entendido que o Habeas Corpus não pode ser utilizado como sucedâneo dos recursos ordinários, como demonstra o seguinte julgado.  .. .Assim, havendo recurso próprio para a análise da matéria, esta não pode ser analisada na via deste Habeas Corpus, somente em caso de flagrante ilegalidade, o que não ocorreu no presente caso, pois, conforme informado pela autoridade coatora, as faltaspraticadas pelo paciente configuram crimes e foram apuradas em ações penais competentes, havendo inclusive algumas cuja pena está sendo executada na execução penal em epígrafe. Dessa forma, não há como conhecer o pedido na via estreita do presente writ, vez que não é mais aceita na jurisprudência a impetração de Habeas Corpus substitutivo de recursos ordinários, como o agravo à execução.
+Como visto, o acórdão atacado não examinou a questão ora suscitada, razãopela qual não caberia a esta Corte Superior de Justiça, por ora,apreciara referida matéria, sob pena de indevida supressão de instância.
+No entanto, depreende-sedos trechos supramencionadosque há flagranteilegalidade no acórdão proferido pelo Tribunala quo, porquantodeixou de apreciar a questão referente à concessão da prescrição das faltas disciplinares,que prescinde do exame aprofundadode provas.
+Ademais, o Superior Tribunal de Justiça firmou jurisprudência nosentidode considerar admissível a utilização dohabeas corpus,nãoobstante aprevisão de recurso específico (in casu, o agravo emexecução),sempre quea liberdade de locomoção do paciente estiver em risco,ensejando, assim, aconcessão dehabeas corpusde ofício, no caso. Nesse sentido:HC n. 180.023/SP, Ministro Og Fernandes, Sexta Turma, DJe 29/11/2010.
+Ante o exposto,concedoliminarmentea ordem para determinar queo Tribunal de Justiça de Pernambuco aprecieomérito do HCn.0008028-40.2021.8.17.9000, como entender de direito.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRESCRIÇÃO DAS FALTAS DISCIPLINARES.MATÉRIA NÃO ANALISADA PELO TRIBUNAL DEJUSTIÇA, EM RAZÃO DAIMPROPRIEDADE DA VIA ELEITA. IMPOSSIBILIDADE DE EXAMENESTA CORTE. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE PRÉVIO EXAME DAQUESTÃO PELOTRIBUNAL A QUO. RECURSO PRÓPRIO QUE NÃO IMPEDE A APRECIAÇÃODAS QUESTÕES DE DIREITO NA VIA DO HABEAS CORPUS. CONSTRANGIMENTO ILEGALEVIDENCIADO.
+Ordem concedida liminarmentenos termos do dispositivo.
