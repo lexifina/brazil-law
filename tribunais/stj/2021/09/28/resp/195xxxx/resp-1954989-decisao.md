@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto porCARLOS FELIPE PASSOS DA SILVA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeirona Apelação Criminal n. 0134400-79.2019.8.19.0001.
+Consta nos autos que o Recorrente foi condenado,como incurso no art. 16, parágrafo único, inciso IV, da Lei n. 10.826/03, às penas de 3 (três) anos de reclusão, em regime inicial semiaberto, e 30 (trinta) dias-multa (fl. 140). Narrou a denúncia que eleportava, sem autorização ou em desacordo com determinação legal ou regulamentar, 1 (um) revólver, marca Rossi, calibre 38mm, com numeração suprimida e 16 (dezesseis) munições de igual calibre (fls. 2-3).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que deu parcial provimento à apelação defensiva para reduzir a pena de multa ealterar o regime inicial de cumprimento da pena de reclusão, redimensionando as sanções para3 (três) anos de reclusão, em regime inicial aberto, e 10 (dez) dias-multa (fls. 186-205).
+No recurso especial aponta-se ofensa ao art. 44 do Código Penal, poiso Recorrente é primário, sem antecedentes e possui todas as circunstâncias judiciais favoráveis, razão pela qual tem direito à substituição da pena privativa de liberdade por restritivas de direitos.
+Após a apresentação das contrarrazões (fls. 233-241), o recurso especial foi admitido pelo Tribunal de origem (fls. 243-248).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 262-263).
+É o relatório.
+Decido.
+No caso, o Recorrente é primário, a pena aplicada é inferior a 4 (quatro) anose as circunstâncias judiciais lhe foramintegralmente favoráveis, de modo que a sua pena-base foi fixada no mínimo legal e foi-lhe concedido oregime inicial aberto (fl. 204).
+Todavia, nada obstante a presença de todos os requisitos exigidos pelo art. 44 do Código Penal para a concessão da substituição da pena privativa de liberdade por penas restritivas de direitos, o Tribunal de origem negou a aplicação do referido dispositivo infraconstitucional, nos seguintes termos:
+"Inaplicável a substituição do art. 44 ou mesmo o "sursis"do art. 77, ambos do CP, seja em razão da insuficiência da medida em face da gravidade concreta do delito, expondo a perigo real, grave e imediato eventuais passantes no entorno do agente armado em conflito com a lei, pela demonstração de franco descaso para com as responsabilidades advindas da conduta praticada, caracterizada pela revelia ou mesmo superação dos quantitativos limites à aquisição de tais benefícios." (fl. 204, sem grifos no original).
+Com efeito, os fundamentos invocados no acórdão estadual não são suficientes para justificar a negativa de substituição das penas, pois se tratade alegação genérica que poderia ser replicada em qualquer caso deporte de arma de fogo, não havendo a demonstração concreta de nenhum elemento que extrapolasse o próprio tipo penal no caso em apreço.
+Assim, ante a fundamentação genérica insubsistente e por estarem presentes os requisitos legalmente exigidos, deve ser deferida ao Recorrente a substituição da pena de reclusão por penas restritivas de direitos, nos termos do art. 44 do Código Penal.
+Nesse sentido:
+" ..
+2. Considerando a primariedade do réu, o qual conta com todas as circunstâncias judiciais favoráveis, e, ainda, a pena inferior a 4 anos por crime cometido sem violência ou grave ameaça em concurso com crime culposo, impõe-se o benefício da substituição da pena privativa de liberdade por restrita de direitos, por estarem atendidos todos os requisitos do art. 44 do Código Penal.
+3. Habeas corpus concedido para fixar o regime aberto ao paciente e permitir a substituição da reprimenda por penas restritivas de direitos, nos termos a serem fixados pelo Juízo das Execuções Criminais."(HC 347.793/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/04/2017, DJe 04/05/2017, sem grifos no original).
+" ..
+6. Tratando-se de réu primário, condenado à pena reclusiva não superior a 4 anos - faz jus ao regime aberto, bem como à substituição da pena privativa restritivas de direitos, nos termos do art. 44 do CP.
+7. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para reduzir as penas a 2 anos e 6 meses de reclusão, em regime aberto, e 250 dias-multa, e substituir a pena reclusiva por restritivas de direitos, a serem definidas pelo juízo das execuções."(HC 254.378/MA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2017, DJe 09/02/2017, sem grifos no original).
+Ante o exposto, DOU PROVIMENTO ao recurso especial para substituir a pena privativa de liberdade imposta ao Recorrente por 2 (duas) penas restritivas de direitos a serem especificadas pelo Juízo das Execuções Penais.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PORTE DE ARMA DE USO RESTRITO. PENA-BASE FIXADA NO MÍNIMO LEGAL. PENA INFERIOR A 4 (QUATRO) ANOS.AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. SUBSTITUIÇÃO POR PENAS RESTRITIVAS DE DIREITOS. POSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
