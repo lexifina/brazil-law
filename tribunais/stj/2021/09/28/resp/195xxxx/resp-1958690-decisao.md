@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por Banco Paulista S.A., com fundamento no art. 105, III, a e c, da Constituição Federal manejado contra acórdão proferido pelo Tribunal de Justiça de São Paulo nos termos da seguinte ementa (e-STJ, fl. 17):
+AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL MEDIDA COERCITIVA ATÍPICA. Insurgência contra decisão que indeferiu o pedido de bloqueio de cartões de crédito do devedor Medida atípica excepcional Execução que deve ocorrer da maneira menos gravosa ao devedor Violação ao direito de transacionar e, inclusive, de adquirir bens para a própria subsistência Precedentes. Decisão mantida AGRAVO DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 85-96), orecorrente alega, além de dissídio jurisprudencial, a violação do art. 139, IV, e 835 do Código de Processo Civil de 2015.
+Sustenta, em síntese, a possibilidade debloqueio de seus cartões bancários, como medidas para a quitação do débito assumido pelo recorrido.
+Tece considerações a respeito daconsagração aos princípios do resultado útil do processo na execução e da efetividade da prestação jurisdicional.
+Pondera que, quando esgotados todos os meios típicos de localização de patrimônio dos devedores,o credor podese valer da penhora/limitação de outros direitos do devedor.
+Aponta dissídio quanto à possibilidade da adoção de adoção de meios atípicos como medida coercitiva a quitação do débito exequendo, dentre eles, a suspensão dos cartões de crédito.
+Ascontrarrazões (e-STJ, fls. 130-137).
+Juízo positivo de admissibilidade (e-STJ, fls. 138-140).
+Brevemente relatado, decidido.
+Ao dirimir a controvérsia, o Tribunal de origem indeferiu o pedido debloqueio dos cartões de crédito do executado, consignando os seguintes fundamentos (e-STJ, fls. 78-79):
+O recurso não comporta provimento. Isto por que, embora o Código de Processo Civil em vigor possibilite ao Magistrado a aplicação de medidas coercitivas atípicas, visando assegurar o cumprimento de ordem judicial, o bloqueio dos cartões de crédito do devedor se mostra, a princípio, desarrazoado e excessivo. Isto por que, o caso concreto não apresenta, por ora, razões fático-jurídicas par a aplicação desta técnica, que é excepcional. No mais, não se pode olvidar que, nos t ermos do ar t . 8052, do CPC, a execução deve ocorrer da maneira menos gravosa aoexecutado. Logo, entendo que a concretização do pedido deduzido pela casa Bancária infringiria direitos básicos do devedor ,t ais como a possibilidade de transacionar , inclusive par a aquisição de insumos para a sua própria subsistência. Em suma, a medida perquirida afigura-se desarrazoada e desproporcional, quando o propósito é o de tão somente obterpatrimônio executável do devedor .
+Nesse contexto, para reverter a conclusão do Tribunal de origem, no sentido de que as medidas atípicas requeridas são excessivas e desproporcionais, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que esbarra na Súmula n. 7 desta Corte, a obstar a análise do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS COERCITIVAS ATÍPICAS. ART. 139, IV, DO CPC/2015. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SALÁRIO. PENHORA. IMPOSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. No caso concreto, o tribunal de origem concluiu que as medidas de suspensão da CNH e de cancelamento do cartão de crédito da parte executada são inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, procedimento vedado em recurso especial (Súmula nº7/STJ).
+4. A impenhorabilidade de remunerações disposta no artigo 833, IV, do CPC/2015 comporta exceção quando se tratar de execução de dívida de natureza alimentar ou quando a renda mensal for superior a 50 (cinquenta) salários mínimos. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp 1.876.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/08/2021, DJe 30/08/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. DIREITO SOCIETÁRIO. OFENSA A ENUNCIADO. CONCEITO DE LEI FEDERAL. SUSPENSÃO DA CNH E DO PASSAPORTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. DECISÃO MANTIDA.
+1. O recurso especial não constitui via adequada para análise de eventual ofensa a resoluções, enunciados, portarias, circulares ou instruções normativas, por não estarem tais atos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. No caso concreto, o Tribunal de origem concluiu que as medidas de suspensão da CNH e do passaporte dos devedores são inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Segundo a jurisprudência desta Corte Superior, as medidas de satisfação do crédito devem observar os princípios da proporcionalidade e da razoabilidade, de forma a serem adotadas as providências mais eficazes e menos gravosas ao executado.
+Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.812.561/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS EM FASE DE CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO. ART. 139, IV, DO NCPC. MEDIDA COERCITIVA QUE FOI CONSIDERADA DESPROPORCIONAL PELO ACÓRDÃO RECORRIDO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. DESCABIMENTO. SÚMULA Nº 7 DO STJ. DIREITO DE LOCOMOÇÃO. FUNDAMENTO DE NATUREZA CONSTITUCIONAL. SÚMULA Nº 126 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NPCP a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acórdão vergastado assentou que a medida de suspensão da CNH, no caso, não estaria pautada em razoabilidade e proporcionalidade. Alterar a conclusão do julgado para reconhecer a medida pleiteada como útil, razoável ou proporcional, exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+3. Ademais, considerando a existência, também, de fundamento de índole constitucional do aresto recorrido, o qual não foi impugnado por recurso extraordinário, incide à hipótese o óbice da Súmula nº 126 desta Corte.
+4. Agravo interno não provido
+(AgInt no REsp 1.891.911/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 23/11/2020, DJe 27/11/2020)
+Por fim, quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.BLOQUEIO DE CARTÕES DE CRÉDITO DO DEVEDOR. MEDIDAS ATÍPICAS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
