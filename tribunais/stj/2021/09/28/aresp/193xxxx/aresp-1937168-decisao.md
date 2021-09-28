@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por VANESSA COSME DOS SANTOS SOUZA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. REVISÃO DE FATURAS DE ENERGIA ELÉTRICA. REPETIÇÃO EM DOBRO QUE SE IMPÕE. PRECEDENTES DESTE EG.TJRJ. DANOS MORAIS NÃO COMPROVADOS.COBRANÇA INDEVIDA QUE NÃO SUPLANTA O MERO ABORRECIMENTO.JURISPRUDÊNCIA DESTA CORTE. JUROS DA CITAÇÃO POR SE TRATAR DE RESPONSABILIDADE CONTRATUAL.PROVIMENTO PARCIAL DOS APELOS" (fl. 323e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 341/351e), os quais restaram acolhidos parcialmente, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. OMISSÃO CARACTERIZADA. AFASTAMENTO DO ENUNCIADO Nº 6 DO AVISO CONJUNTO CEDES Nº 22/2015. PAGAMENTO DE CUSTAS E HONORÁRIOS PELO BENEFICIÁRIO DA GRATUIDADE DE JUSTIÇA QUE NÃO SE JUSTIFICA MESMO NOS CASOS DE SUCUMBÊNCIA RECÍPROCA. NO MAIS, CONTESTA-SE A ANÁLISE QUE O COLEGIADO FEZ DAS PROVAS COLIGIDAS AOS AUTOS, PRETENSÃO MAL SEDIADA NA VIA ELEITA.ACOLHIMENTO PARCIAL DOS EMBARGOS" (fl. 366e).
+Nas razões do Recurso Especial (fls. 379/388e), interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 4, III, e 6º, VI, da Lei 8.078/90;e186, 927 e 944 do CPC/2015.
+Ponderou a aplicação da teoria do desvio produtivo. Aduziu a existência de danos morais.
+Arguiu que:
+"Com a devida vênia ao acórdão regional, os danos morais não estão apenas adstritos as hipóteses de negativação indevida e suspensão dos serviços essenciais. Vejamos que as cobranças não se tratam de simples missivas, mas sim de grave cobrança indevida atrelada a serviços essenciais de energia que extrapolaram os limites do contrato e atingiram diretamente os direitos da personalidade da demandante, tais como a honra objetiva, a integridade psicológica, o direito a um contrato orientado pela boa-fé objetiva, tendo sido ignorado os deveres de lealdade, cooperação e confiança" (fl. 387e).
+Contrarrazões, a fls. 393/401e.
+Inadmitido o Recurso Especial (fls. 407/408e), foi interposto o presente Agravo (fls. 414/419e).
+Contraminuta, a fls. 425/434e.
+A irresignação não merece prosperar.
+O Tribunal de origem, ao julgar o recurso, consignou o seguinte:
+"Quanto ao mais, a questão se resolve na análise que se fez dos autos; bem análise a hipótese, concluiu-se pela ocorrência de mero aborrecimento em vez de verdadeiro dano moral, ainda que pelo viés do desvio produtivo.
+Isso porque, apesar do tempo alegadamente gasto com a resolução da pendência, a carga lesiva de uma simples cobrança indevida não atenta contra bens personalíssimos do consumidor"(fls. 369/370e).
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, concluiu-se pela inocorrência de dano moral no caso.
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Por fim, no tocante ao dissídio jurisprudencial, cumpre asseverar que, consoante jurisprudência do STJ, a análise do dissídio fica prejudicada em razão da aplicação da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os julgados paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Nesse sentido: STJ, AgRg no AREsp 16.879/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 27/04/2012; AgRg no Ag 1.126.375/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 13/04/2012.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
