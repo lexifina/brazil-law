@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por MARENILSON FERREIRA DE ANDRADE contra decisão do Tribunal de Justiça do Estado de Sergipe que não admitiu recurso especial interposto, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República.
+Consta dos autos que o Agravante foi pronunciado pela suposta prática de homicídio, descrito no art. 121 do Código Penal (fls. 168-173).
+Irresignada, a Defesa interpôs recurso em sentido estrito, tendo pugnado a absolvição sumária (fl. 193). O Tribunal a quo negou provimento, pelas razões assim sintetizadas na ementa do julgado (fl. 262; sem grifos no original):
+"RECURSO EM SENTIDO ESTRITO HOMICÍDIO SIMPLES CONSUMADO (ART. 121, CAPUT, DO CP). RECURSO DO RÉU - PLEITO DE ABSOLVIÇÃO - NÃO ACOLHIMENTO. PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA, ADEQUANDO-SE OS TERMOS DO ARTIGO 413 DO CÓDIGO DE PROCESSO PENAL. ANÁLISE E DÚVIDAS SERÃO SOLVIDAS NO JUÍZO NATURAL - COMPETÊNCIA DO TRIBUNAL DO JÚRI (ART. 5º,XXXVIII, "D" DA CF/88). MANUTENÇÃO DA PRONÚNCIA DO ACUSADO, ENCERRANDO O MOMENTO PROCESSUAL DO JUDICIUM ACCU SATIONIS. A decisão de pronúncia encontra supedâneo na comprovação da materialidade do crime e na existência de indícios suficientes da autoria; 2. No momento da pronúncia não se exige o grau de certeza que inspira uma decisão definitiva sobre o mérito da persecução penal, até porque a responsabilidade criminal será aferida pelo Conselho de Sentença; 3. Restando provada a materialidade e havendo indícios suficientes da autoria do recorrente, mediante conjunto probatório, impõe-se a pronúncia como resultante de mero juízo de admissibilidade da acusação, sem o condão de exaurir as teses probatórias, o que deverá ser realizado soberanamente pelo Tribunal do Júri; 4. Havendo dúvida sobre a autoria do acusado, incumbe ao Tribunal do Júri, juízo natural dos crimes dolosos contra a vida, dirimi-la; 5. Recurso conhecido e desprovido. Decisão unânime."
+No recurso especial, a Defesa sustenta contrariedade ao art. 413, § 1.º, do Código de Processo Penal (fl. 663), sob alegação de excesso de linguagem na pronúncia.
+Contrarrazões apresentadas às fls. 303-313.
+A Corte de origem não admitiu o recurso especial, motivo pelo qual subiram os autos a este Superior Tribunal de Justiça por intermédio do presente agravo, em que o Agravante pugna pelo acolhimento da insurgência, a fim de que seja admitido e provido o recurso excepcional.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 379-384).
+É o relatório.
+Decido.
+O agravo é tempestivo e infirmou o fundamento da decisão recorrida, razão pela qual comporta conhecimento. Todavia, o recurso excepcional não supera o conhecimento.
+Verifico que a tese relativa ao excesso de linguagem, na espécie, não foi analisada pelo Tribunal a quo nem foi objeto de embargos de declaração. Logo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, para ambas as alíneas de interposição , razão pela qual deixo de apreciá-lo, a teor dos Enunciados n. 282 e 356 do Supremo Tribunal Federal, respectivamente transcritos, in verbis:
+"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Nesse sentido, cito o seguinte julgado:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA DA DENÚNCIA. PROLATADA SENTENÇA CONDENATÓRIA. MATÉRIA PREJUDICADA. DESCRIÇÃO SUFICIENTE. INDEFERIMENTO DE DILIGÊNCIAS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DILIGÊNCIA PROTELATÓRIAS CONSIDERADAS NA ORIGEM. SÚMULA 7/STJ. EXASPERAÇÃO DA PENA-BASE. CONSEQUÊNCIAS DO CRIME. RELEVANTE PROVEITO ECONÔMICO. PERÍODO SUPERIOR A 4 ANOS. FUNDAMENTO IDÔNEO. AUMENTO DA PENA-BASE ELEVADA EM FRAÇÃO SUPERIOR A 1/4 SOBRE A VARIAÇÃO TOTAL. DESPROPORCIONALIDADE. REDUÇÃO PARA 1/6. CONTINUIDADE DELITIVA. FALTA DE PREQUESTIONAMENTO. AGRAVO PARCIALMENTE PROVIDO. PRESCRIÇÃO RECONHECIDA.
+ ..
+6. A ausência de prequestionamento relativamente à continuidade delitiva atrai a incidência das Súmulas 282 e 356 do STF.
+7. Agravo regimental parcialmente provido para reduzir a pena com a posterior decretação da prescrição da pretensão punitiva." (AgRg no AgRg no AREsp 1.260.530/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/09/2019, DJe 12/09/2019; sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. ALEGAÇÃO DE EXCESSO DE LINGUAGEM NA PRONÚNCIA. ENUNCIADOS N. 282 E 356 DA SÚMULA DO STF. AGRAVO C ONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
