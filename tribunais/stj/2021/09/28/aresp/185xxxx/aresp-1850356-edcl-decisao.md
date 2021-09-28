@@ -1,0 +1,43 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que RAÍZEN COMBUSTÍVEIS S.A.(RAÍZEN) ajuizou ação de rescisão contratual e abstenção do uso de marca contra POSTO DE SERVIÇO CONTINENTAL LTDA. e ROBERTO CAETANO PENHA(POSTO e outro) pretendendo rescindir o "Contrato de Posto Revendedor" firmado entre as partes, bem como condenar o POSTO e seu sócio ao pagamento deindenização a títulode perdas e danos.
+A ação foi julgada procedente para declarar rescindido o contrato, determinar a remoção de todos os elementos visuais identificadores da marca SHELL e condenar o POSTO e outro, solidariamente, ao pagamento de multa, nos termos da cláusula 9.6 do contrato.
+Iniciado o cumprimento de sentença, o d. Juízo de primeira instância indeferiu a sucessão processual pleiteada por RAÍZEN.
+Contra essa decisão interlocutória, RAÍZENinterpôs agravo de instrumento sustentando, em suma,que a extinção da empresa, ainda que realizada de forma irregular, faz com que seja necessária a sua sucessão processual pelos seus sócios.
+O Tribunal de Justiça de São Paulo (TJ/SP) negou provimento ao agravo de instrumento nos termos do acórdãode relatoria do DesembargadorAZUMA NISHI, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. Pleito de sucessão processual. Indeferimento. Documentos que não demonstram a extinção da pessoa jurídica. Encerramento irregular que não dá azo ao pedido de sucessão processual dos sócios. Pesquisa de dados e extratos bancários por meio do Cadastro de Clientes do Sistema Financeiro Nacional. Sistema informatizado criado para auxiliar investigações financeiras conduzidas por autoridades competentes. Ausência de indícios de ocorrência de ilícitos penais. DECISÃO MANTIDA. RECURSO DESPROVIDO(e-STJ, fl.63).
+Os embargos de declaração opostos porRAÍZENforam rejeitados(e-STJ, fls. 96/100).
+Irresignado, RAÍZEN interpôs recurso especial com fulcro no art. 105, III,a, da CF, alegando a violação do art. 110 do NCPC e art. 1.080 do CC/02, ao sustentar, em síntese, a possibilidade de sucessão da empresa executada pelos seus sócios em caso de encerramento irregular da sociedade, pois esta perdeu sua capacidade processual, não havendo que se falar em desconsideração da personalidade jurídica nesse caso(e-STJ, fls. 70/78).
+Não foram apresentadas as contrarrazões (e-STJ, fl. 104).
+O apelo nobre não foi admitido em virtude da ausência de demonstração da alegada vulneração aos dispositivos arrolados (e-STJ, fls. 105/106).
+O agravo em recurso especial interposto por RAÍZEN foi conhecido para não conhecer do apelo nobre em decisão monocrática da minha lavra assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃOCONTRATUAL E ABSTENÇÃO DE MARCA. INDENIZAÇÃO POR PERDAS E DANOS. TESE EM TORNO DO ART. 1.080 DO CC/02 NÃO PREQUESTIONADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 282 DO STF. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA Nº 568 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fl. 129)
+Nos presentes embargos de declaração, RAÍZEN sustentou a violação do art. 1.022 do NCPC por entender que a decisão embargada foi omissa quanto à oposição deembargos de declaração em face do acórdão estadual com o objetivo de obter pronunciamento do TJSP sobre a aplicação do art. 1.080 do CCuma vez que o sócio da empresadeliberou sobre o encerramento do Posto de forma irregular e, o tendo feito, não pode ser beneficiado com a não aplicação da sucessão processual e da responsabilidade ilimitada (e-STJ, fls. 135/142).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Da ausência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório,RAÍZEN sustentou a violação do art. 1.022 do NCPC por entender que a decisão embargada foi omissa quanto à oposição de embargos de declaração em face do acórdão estadual com o objetivo de obter pronunciamento do TJSP sobre a aplicação do art. 1.080 do CC. Ressaltou que, uma vez que o sócio da empresa deliberou sobre o encerramento do Posto de forma irregular, não pode ser beneficiado com a não aplicação da sucessão processual e da responsabilidade ilimitada.
+Deveras, a decisão embargada equivocou-se ao fazer constar que RAÍZEN não interpôs embargos de declaração em face do acórdão estadual que não apreciou a incidência do art. 1.080 do CC ao caso concreto.
+Contudo, mesmo no julgamento dos aclaratórios, o TJSP manteve-se silente ao quanto ao ponto (e-STJ, fls. 96/100), motivo pelo qual está ausente o indispensável prequestionamento da matéria.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada a tese trazida no recurso especial quanto à violação do art.1.080 do CC, na esteira do que disciplina a Súmula nº 211 do STJ.
+Ressalta-se, ademais, que a caracterização de prequestionamento ficto (art. 1.025 do NCPC), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do Código de Processo Civil de 2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei. No caso dos autos, contudo, RAÍZEN não arguiu a violação do art. 1.022 do NCPC no recurso especial.
+Observa-se, dessa forma, que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.ALEGAÇÃO DE EXISTÊNCIA DOS VÍCIOS TIPIFICADOS EM LEI. NÃO OCORRÊNCIA.
+1. Consoante estabelecido pelo art. 1.022, e seus incisos, do novo Código de Processo Civil, os embargos de declaração são cabíveis nas hipóteses de obscuridade, contradição, omissão ou até mesmo na ocorrência de carência de fundamentação válida.
+2. No caso dos autos, inexiste qualquer dos vícios tipificados no art. 1.022, do Código de Processo Civil, a inquinar a decisão embargada.
+3. EMBARGOS DECLARATÓRIOS REJEITADOS.
+(EDcl no REsp 1721472/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 17/9/2021)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, §4º, ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E ABSTENÇÃO DO USO DE MARCA. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
