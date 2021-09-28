@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO FORA DO PRAZO DE 15 DIAS CORRIDOS. INTEMPESTIVIDADE. INTIMAÇÃO ELETRÔNICA. DESNECESSIDADE DE PUBLICAÇÃO NO DIÁRIO OFICIAL.
+1. É manifestamente intempestivo o recurso interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+2. A parte recorrente foi intimada da decisão que negou seguimento ao recurso especial em 11/5/2020. A petição do agravo, todavia, só foi protocolizada no dia 18/8/2020, após o prazo legal de 15 dias.
+3. "Nos termos do art. 5º da Lei n. 11.419/2006, as intimações poderão ser feitas por meio eletrônico, dispensando-se a publicação no órgão oficial, inclusive eletrônico." (AgInt nos EDcl no AREsp 1600585/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2020.)
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial.
+Alega o recorrente que "não foi intimado, via sistema e nem pelo Diário da Justiça da publicação da decisão denegatória de recurso especial, a publicação da decisão denegatória de recurso especial não ocorreu pelo Diário da Justiça, apenas a parte recorrente foi intimada da decisão que nega seguimento ao recurso especial em 29/04/2020 (ID-1469019), via sistema, mas a parte recorrente possui advogado constituído e o mesmo deveria ter sido intimado da decisão, via sistema e pelo Diário da Justiça por meio da publicação da decisão que não ocorreu (v. movimentação apelação criminal 0708655-78.2019.8.18.0000). Que este causídico tomou ciente da decisão denegatória de recurso especial em 18/08/2020 (ID- 2085587) e considerando que a decisão denegatória de recurso especial ainda não tinha sido publicada no Diário da Justiça, desde já, resolveu logo apresentar agravo contra a decisão denegatória na mesma data 18/08/2020 (ID-2085588). Portanto, considerando a data que este causídico tomou ciente da decisão denegatória de recurso especial (18/08/2020-ID- 2085587) e a data da apresentação do agravo contra a decisão denegatória de recurso especial (18/08/2020-ID2085588), na mesma data que tomou ciente apresentou o agravo contra decisão denegatória" (fl. 532).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do recurso pela 6ª Turma. Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Conforme relatado, a defesa busca a reconsideração da decisão que não conheceu do agravo em recurso especial em razão de sua intempestividade, estando a decisão agravada proferida nos seguintes termos (fls. 526/527):
+Cuida-se de agravo interposto por MARCO JANE DE LIMA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de MARCO JANE DE LIMA, a parte recorrente foi intimada da decisão agravada em 11/05/2020, sendo o agravo somente interposto em 18/08/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Cumpre esclarecer que, nos termos do art. 5º da Lei 11.419/2006, as intimações feitas por meio eletrônico dispensam a publicação pelo órgão oficial. No caso, a intimação da decisão que inadmitiu o recurso especial ocorreu por meio eletrônico, conforme consta à fl. 503.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TEMPESTIVIDADE. INTIMAÇÃO ELETRÔNICA TÁCITA. OCORRÊNCIA. DESNECESSIDADE DE PUBLICAÇÃO NO DIÁRIO OFICIAL. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. É intempestivo o agravo em recurso especial interposto fora do prazo legal de 15 (quinze) dias úteis, nos termos do art. 1.003, § 5º, c/c o art. 219, caput, do CPC/2015.
+2. A jurisprudência desta Corte é no sentido de que, "nos termos do art. 5º da Lei n. 11.419/2006, as intimações poderão ser feitas por meio eletrônico, dispensando-se a publicação no órgão oficial, inclusive eletrônico. Precedentes" (AgInt no AREsp 966.400/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/02/2017, DJe de 10/02/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1600585/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2020.)
+Ademais, o art. 231 do CPC, também prevê que "Salvo disposição em sentido diverso, considera-se dia do começo do prazo:  ..  VI- o dia útil seguinte à consulta ao teor da citação ou da intimação ou ao término do prazo para que a consulta se dê, quando a citação ou a intimação for eletrônica", hipótese dos autos.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+A decisão agravada deve ser mantida por seus próprios fundamentos. Com efeito, a parte recorrente foi intimada da decisão que negou seguimento ao recurso especial em 11/5/2020, sendo o agravo interposto somente em 18/8/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Cumpre esclarecer, ainda, que "A jurisprudência desta Corte é no sentido de que, "nos termos do art. 5º da Lei n. 11.419/2006, as intimações poderão ser feitas por meio eletrônico, dispensando-se a publicação no órgão oficial, inclusive eletrônico (AgInt nos EDcl no AREsp 1600585/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2020.)
+Ante o exposto  recurso que não satisfaz a admissibilidade  , nego provimento ao agravo regimental.
+É o voto.
