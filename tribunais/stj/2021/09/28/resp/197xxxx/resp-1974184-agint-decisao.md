@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado por MARIVONE DA SILVA SARACCHINI, ALCIONE FIDELIS NASCIMENTO DE JESUS, ALEXANDRE DA SILVA PEREIRA, ALEXANDRE MAGNER DE CARVALHO, ANA CLAUDIA GOUVEA, ANTONIA MARCELINA FABIANO TEIXEIRA, ANTONIO CARLOS MAGALHÃES, ELISEU TEIXEIRA DE SOUZA, FLAVIO DE OLIVEIRA ALVES, HAMILTON FERNANDES, IRENE AMALIA DO NASCIMENTO, IVETE MORETTI DA SILVA SANTOS, JANETE ANDREOTTO, JOSE CARLOS FRANCA DE SOUZA, JOSE ROBERTO VICENTE, LAZARO JOSÉ DE SOUZA, LOURIVAL ROQUE DE ARAUJO, LUCÉLIA MARIA SIQUEIRA BELCHIOR, LUCIO FAGUNDES, LUIS FERNANDO PERACINI, MARCIO OLIVEIRA DE MORAIS, MARCOS PAULINO VIEIRA LOPES, MARTA MARIA SOARES DA SILVA, NOELI APARECIDA DIAS, OSWALDO JULIO VISCHI FILHO, RICARDO ANTONIO DA LUZ, ROGERIO DE FARIAS MARTINS, SANDRA JOSÉ DA COSTA, VANESSA RYIKA KATO, WALMIRA JOSE THEODORO contra decisão que conheceu do agravo para não conhecer dorecurso especial (e-STJ, fls. 318-325).
+Alegam osrecorrentes violação do art. 1.022 do CPC/2015, na medida em que as omissões suscitadas nos embargos de declaração não foram todas supridas pelo acórdão combatido.
+Argumentam, por outro lado, a inaplicabilidade da Súmula 284/STF, na medida em queo recurso especial teria demonstrado a afronta aos arts. 38, parágrafo único, 52, I, da Lei n. 9.099/1995, e 27 da Lei n. 12.153/2009, no que concerne à incompetência do Juizado Especial da Fazenda Pública para o julgamento da causa diante do fato de ser ilíquido o pedido deduzido na ação originária, não havendo deficiência na fundamentação.
+Asseveram ainda que os fundamentos do acórdão recorrido foram efetivamente contestados.
+Sustentam, por fim, que as demais questões suscitadas não se encontram prejudicadas.
+Sem impugnação (e-STJ fl. 343).
+É o relatório.
+Da análise dos autos, observa-se que,nas razões do recurso especial, houve impugnação ao fundamento de que, "sendo o valor da causa atribuído no momento da propositura da demanda, é irrelevante a indefinição do termo final do pagamento" (e-STJ, fl. 195), notadamente quando se defendeu a tese de que a iliquidez da obrigação afasta o critério do valor da causa na definição da competência do Juizado Especial da Fazenda Pública.
+Assim, por não haver dissociação entre asrazões recursais e os fundamentos acórdão recorrido, o agravo interno merece provimento.
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015, c/c o art. 259 do RISTJ, conheço do agravo interno para, em juízo de retratação, reconsiderar a decisão agravada, a fim de determinar a sua reautuação como recurso especialpara melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
