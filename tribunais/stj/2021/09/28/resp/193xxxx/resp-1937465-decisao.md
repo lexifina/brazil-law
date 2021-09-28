@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso especial interposto por PRISCILA DE MORAES BUENO SILVA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdãoproferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+CÍVEL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C. C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍCIOS CONSTRUTIVOS. PROGRAMA MINHA CASA MINHA VIDA. SENTENÇA DE PARCIAL PROCEDÊNCIA. I. INDENIZAÇÃO POR DANOS MATERIAIS. ALEGADA DESVALORIZAÇÃO DO IMÓVEL EM DECORRÊNCIA DA EXISTÊNCIA DE VÍCIO CONSTRUTIVO EM SUA VAGA DE GARAGEM. NÃO CABIMENTO. HIPÓTESE EM QUE A AUTORA TEVE PRESUMIDAMENTE CONHECIMENTO DO OBSTÁCULO EXISTENTE EM SUA VAGA DE GARAGEM AO CELEBRAR O NEGÓCIO. VÍCIO APARENTE E FACILMENTE VERIFICÁVEL. DEVER DE DILIGÊNCIA DA COMPRADORA. AQUISIÇÃO DE IMÓVEL CONCLUÍDO, CIENTE DE SUAS CARACTERÍSTICAS. INDENIZAÇÃO POR DANOS MORAIS. II. VÍCIO DE PROJETO DO ACESSO À GARAGEM. RAIO DE GIRO QUE DIFICULTA A MANOBRA DE VEÍCULO DE PEQUENO PORTE E INVIABILIZA DE MÉDIO OU GRANDEPORTE. FATO QUE OCASIONOU DIÁRIO TRANSTORNO E ESTRESSE À CONSUMIDORA, AO LONGO DE ANOS. CONSTRUTORA QUE SOMENTE CORRIGIU O ACESSO APÓS DECISÃO JUDICIAL. HIPÓTESE EM QUE O DESCUMPRIMENTO CONTRATUAL EXTRAPOLOU O MERO DISSABOR. INDENIZAÇÃO DEVIDA. III.SUCUMBÊNCIA RECÍPROCA VERIFICADA. ÔNUS REDISTRIBUÍDOS. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 785-792,e-STJ).
+Nas razões de recurso especial (fls. 846-867, e-STJ), a recorrente aponta,além de dissídio jurisprudencial, violação ao art. 186 do CC.
+Sustenta a necessidade de arbitramento de indenização material em razão de vício construtivo de garagem, a majoração dos danos morais arbitradose a alteração do termo inicial da correção monetária e dos juros de mora.
+Contrarrazões às fls. 882-891, e-STJ.
+Em juízo prévio de admissibilidade (fls. 894-895, e-STJ), admitiu-se orecurso, ascendendo os autos a esta Corte.
+Sem a apresentação de contrarrazões, o apelo nobre foi admitido na origem.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. De início, a recorrente alega violação ao art. 186 do CC, sustentando a necessidade de fixação de indenização material em razão de vício construtivo na garagem. Nesse aspecto, o aresto recorrido (fls. 799-801):
+É certo que a compra de um imóvel para moradia não é evento trivial e, dada a essencialidade da vaga de garagem em cidades grandes como esta Capital, ainda mais em bairros afastados do centro, não é crível que a autora tenha adquirido o imóvel sem antes verificar o local e as condições de sua vaga.
+Segundo a perícia, "sobressai em frente à vaga da Autora, na área de circulação, uma parede de blocos de concreto e um pilar de concreto armado, que dificultam o desenvolvimento da curva para veículos de porte médio ou grandes".
+Tal problema existente na vaga de garagem é facilmente percebido pela pessoa média (cf. M. 144.2, f. 13):
+ ..
+E, espera-se da compradora a diligência razoável, a qual certamente não deixaria de notar o obstáculo existente na vaga de garagem do imóvel que estava adquirindo.
+Destaque-se que não há prova nos autos de que a autora tenha tido conhecimento do obstáculo existente em sua vaga de garagem somente após a aquisição do imóvel. Isto porque o imóvel foi adquirido em 18/10/2012, o problema já existia, já que o CVCO-Certificado de Vistoria de Conclusão de Obras (M. 40.5) foi expedido em 27/02/2012.
+Ou seja, a autora adquiriu o imóvel pronto, pagando o preço convencionado no contrato, tendo ciência da existência do local de sua vaga de garagem e das suas condições, inclusive o obstáculo nele existente, motivo pelo qual não há que se falar na depreciação de seu valor desde a sua compra.
+O Tribunal de origem, analisando atentamente o contexto fático-probatório dos autos, concluiu pelo não cabimento de indenização material. O acolhimento da pretensão recursal para atestar a configuração de ato ilícito demandaria o reexame do acervo fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO COM ABATIMENTO DE PREÇO - DECISÃO MONOCRÁTICA CONHECENDO DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA RÉ.
+1. A insurgência reside em verificar a interpretação dada aos documentos acostados aos autos, sobretudo quanto às negociações realizadas entre as partes, pactuadas no contrato, o que, evidentemente, demanda o reexame do acervo probatório dos autos, inviável em sede de recurso especial. Súmula 7 do STJ.
+2. Qualquer conclusão em sentido contrário ao que decidiu o aresto impugnado envolve o reexame do contexto fático-probatório dos autos, providência incabível em sede de recurso especial, conforme dispõe a Súmula 7 do STJ. Precedentes.
+3. Agravo regimental desprovido.(AgRg no AREsp 265.764/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/11/2015, DJe 30/11/2015) grifou-se
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.COMPRA E VENDA DE IMÓVEL. AQUISIÇÃO DE VAGAS DE GARAGEM. DISPARIDADE ENTRE A OFERTA E A EXECUÇÃO DO CONTRATO. ALEGAÇÃO DE QUE IMAGENS MOSTRADAS AO CONSUMIDOR ERAM MERAMENTE ILUSTRATIVAS. REEXAME DE PROVA.
+1. Não se admite o recurso especial quando sua análise depende de reexame de matéria de prova (Súmula 7 do STJ).
+2. Agravo interno a que se nega provimento.(AgInt no AREsp 1072465/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/04/2018, DJe 20/04/2018) grifou-se
+Impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para aanálise do apontado dissídio, na medida em que faltaria identidade entre o paradigma apresentado e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+2. Ainda no âmbito do dissídio jurisprudencial, requer a recorrente amajoração da indenização dosdanos morais e a alteração do termo inicial para correção monetária e juros de mora. Quanto a esse aspectoverifica-se que o art. 186 do CC, único dispositivo expressamente apontado como violado, não tem comando normativo suficiente para infirmar osfundamentos do aresto hostilizado,tampouco para sustentar a tesedefendida nas razões do apelo nobre, fato que caracteriza deficiência nafundamentação recursal, atraindo, por analogia, o teor da Súmula 284 doSTF. Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. ATRASO NA ENTREGA DO IMÓVEL. RESCISÃO CONTRATUAL. LEGITIMIDADE ATIVA. AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284 DO STF. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. MULTA POR LITIGÂNCIA DE MÁ-FÉ. DESCABIMENTO. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+ ..
+6. Agravo interno a que se nega provimento. (AgInt no AREsp 1507122/CE, Rel. Ministro ANTONIOCARLOS FERREIRA, QUARTA TURMA, julgado em 14/09/2020, DJe 22/09/2020)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSOMANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA CUMULADA COM PEDIDOCONDENATÓRIO. INDICAÇÃO DE OFENSA A DISPOSITIVO LEGAL QUE NÃO GUARDAPERTINÊNCIA COM A FUNDAMENTAÇÃO TRAZIDA NO RECURSO ESPECIAL. INCIDÊNCIA DASÚMULA Nº 284 DO STF, POR ANALOGIA. AUSÊNCIA DE PREQUESTIONAMENTO.APLICAÇÃO DA SÚMULA Nº 211 DO STJ. DANO MORAL NÃO CONFIGURADO. PRETENSÃORECURSAL QUE ENVOLVE O REEXAME DE PROVAS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ.RECURSO PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC.AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.  ..
+2. Afundamentação declinada pelo recorrente em suas razões recursais deveguardar pertinência temática com o conteúdo normativo dos dispositivoslegais tidos por afrontados, sob pena de incidência da Súmula nº 284 doSTF.
+ ..
+6. Agravo interno não provido, com imposição de multa. (AgIntno AREsp 1472307/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgadoem 30/09/2019, DJe 03/10/2019)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA FUNCIONAL. TESE DISTINTA DA MATÉRIA CONTIDA NO DISPOSITIVO LEGAL INDICADO. SUMULA N. 284/STF. PRESCRIÇÃO. FUNDAMENTO NÃO IMPUGNADO. CERCEAMENTO DE DEFESA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. Incide a Súmula n. 284 do STF na falta de pertinência entre a tese sustentada e o normativo apontado no recurso especial.
+ ..
+6. Agravo interno desprovido. (AgInt no AREsp 625.192/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 13/03/2018)  grifou-se
+  Inafastável, no ponto, o teor da Súmula 284/STF.
+3.  Do exposto,com fulcro no artigo 932 do CPC/15 c/c Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
