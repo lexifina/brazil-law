@@ -1,0 +1,40 @@
+DECISÃO
+Da leitura da minuta de agravo de instrumento pode-se verificar que CONSULTÓRIOS MÉDICOS SALLET S.A. (SALLET) ajuizou ação monitória em face de ZILDA APARECIDA OLIVEIRA (ZILDA), decorrente da prestação de serviços médicos inadimplidos,que foi julgada procedente, constituindo-se o título executivo.
+Na fase de cumprimento de sentença, o julgador de primeiro grau indeferiu orequerimento de penhora de verba de natureza alimentar para pagamento de valores de idêntica natureza.
+Foi negado provimento ao agravo de SALLET, nos termos do acórdão proferido peloTribunal de Justiça de São Paulo, da relatoria do Desembargador FABIO TABOSA,assim ementado:
+Processual. Execução. Crédito decorrente da prestação de serviços médicos. Verba que não goza de privilégio legal como de natureza alimentar, se feita a cobrança pelo próprio profissional liberal, e menos ainda quando figura como autora da cobrança sociedade de profissionais organizada para o exercício em termos empresariais da atividade. Irrelevância da existência de parcela do crédito correspondente a honorários sucumbenciais, que não podem ser satisfeitos em separado, com preferência sobre o próprio crédito objeto do processo, até mesmo em função do conflito de interesses entre o patrono titular da verba e o cliente titular do crédito principal. Honorários advocatícios que, de toda forma, não autorizam a penhora de rendimentos de origem salarial, por força da impenhorabilidade prevista no art. 833, IV, do CPC. Inaplicabilidade da exceção do § 2º desse mesmo art. 833. Natureza alimentar com que qualificado o crédito por honorários que não o torna equiparado a prestação alimentícia, expressão reservada ao crédito alimentar típico. Ausência de relação obrigacional alimentar entre as partes. Natureza alimentar do crédito por honorários com relevância para fins concursais e para efeito da satisfação em face da Fazenda Pública, tão somente. Tese assentada no STJ (REsp nº 1.815.055/SP, Corte Especial, Rel. Min. Nancy Andrighi, j. 3/8/2020, DJe 26/8/2020) Decisão agravada, que reconheceu a impenhorabilidade da verba, confirmada por maioria, contra o voto do i. Relator sorteado. Agravo de instrumento da exequente desprovido(e-STJ, fl. 40).
+Irresignada, SALLETinterpôsrecurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação doart. 833, § 2º, do NCPC,ao sustentar que (1) é reconhecida a excepcional penhorabilidade de bens, em regra impenhoráveis, para pagamento de prestação alimentícia, relacionada a honorários médicos; (2) indicou dissídio em apoio a sua tese(e-STJ, fls. 57/67).
+Não foram apresentadas as contrarrazões (e-STJ, fl. 84).
+O apelo nobre não foi admitido em virtude de (1) incidir ao caso a Súmula nº 7 do STJ; e(2) não comprovado o dissídio (e-STJ, fls. 85/87).
+Nas razões do presente agravo em recurso especial, SALLET afirmou que (1) inaplicável aSúmulanº 7 do STJ, não sendo necessário o reexame de provas(e-STJ, fls. 90/99).
+Não foiapresentada contraminuta (e-STJ, fl. 101).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo deSALLET e passo à análise do recurso especial.
+(1) e (2)Da penhorabilidade. Do dissídio.
+Nas razões do seu recurso, SALLET afirmou ser reconhecida a excepcional penhorabilidade de bens, em regra impenhoráveis, para pagamento de prestação alimentícia, relacionada a honorários médicos.
+O Tribunal estadual assim se pronunciou sobre a questão:
+Não é o que ocorre, contudo, com créditos em geral decorrentes da prestação de serviços por profissionais liberais, de modo que honorários médicos não guardam equiparação, para efeito de cobrança, aos créditos de natureza trabalhista.
+E, no caso, há ainda o detalhe, por si só suficiente, de que nem mesmo se cogita de cobrança feita diretamente por profissional liberal, individualmente, senão por sociedade empresarial organizada para o exercício de atividade lucrativa.
+ ..
+Ocorre que é exatamente em função disso que não se pode pretender tomar a regra do art. 833, § 2º, do CPC, para justificar que execuções por honorários atinjam verba salarial como aqui pretende a exequente-agravante.
+Reza tal parágrafo que o disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, tratando, portanto, de verba efetivamente alimentar.
+Nesse contexto, realmente não há qualquer justificativa para a constrição pretendida em torno do salário da devedora, cuja impenhorabilidade resta incólume.
+ ..
+De qualquer modo, não haveria no caso concreto espaço para a aplicação desse entendimento, considerando os rendimentos da executada, pouco inferiores a R$ 8.000,00 mensais, quantia que está longe de se mostrar elevada e que não comporta decote para a satisfação de credores sem prejuízo do necessário às despesas essenciais da executada e sua entidade familiar(e-STJ, fls. 42/45).
+Com relação ao tema, esta Corte já decidiu que é possível amitigação da impenhorabilidade de salários desde que preservada parcela suficiente para resguardar a dignidade e subsistência do devedor e de seu núcleo familiar(AgInt no REsp 1938376/SP, de minha relatoria, TERCEIRA TURMA, julgado em 20/09/2021, DJe 23/09/2021).
+No caso, porém, com base na análise dos elementos de fato presentes nos autos, os julgadores consideraram ser inviável a penhora, pois prejudicaria o devedor nas despesas essenciais de sua entidade familiar.Desse modo, rever as conclusões do acórdão demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SALÁRIO.PENHORABILIDADE. ART. 833, IV, DO CPC/2015. ERESP N. 1.582.475/MG.ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE.SÚMULA N. 83 DO STJ. REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte, "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art.649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, DJe 16/10/2018).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou as provas para concluir que não foi comprovado que a penhora não seria capaz de afetar a subsistência familiar. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1937739/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/09/2021, DJe 23/09/2021)
+O recurso, portanto, não mereceser conhecido, sendo os fundamentos aplicáveis ao recurso tanto com base na alíneaa quanto na c do permissivo constitucional.
+Nessas condições,CONHEÇO do agravo para NÃOCONHECERdo recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EMRECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. PENHORA DE SALÁRIO. IMPOSSIBILIDADE. DIGNIDADE DO DEVEDOR.NECESSIDADE DE ANÁLISE DE PROVAS.INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
