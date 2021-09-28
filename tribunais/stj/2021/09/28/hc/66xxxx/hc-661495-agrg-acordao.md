@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trago à apreciação da Sexta Turma o agravo regimental interposto porJefferson Lucascontra a decisão, de minha lavra, que indeferiu liminarmente o writ impetrado em favor do ora agravante, em razão da incidência da Súmula 691/STF (fls. 156/157).Este éo resumo do decisum ora agravado (fl. 156):
+HABEAS CORPUS. DIREITO PENAL. ORGANIZAÇÃO CRIMINOSA. EXTORSÃO. POSIÇÃO DE LIDERANÇA DE GRUPO CRIMINOSO. COBRANÇADE DÍVIDASMEDIANTEVIOLÊNCIA. SEQUESTRO. SENTENÇA CONDENATÓRIA. PRISÃO. SUPOSTA VIOLAÇÃO DO ART. 212 DO CÓDIGO DE PROCESSO PENAL. SUPRESSÃO DE INSTÂNCIA. WRITIMPETRADO CONTRA DECISÃO MONOCRÁTICADO RELATOR. SÚMULA691/STF. APLICABILIDADE. FUNDAMENTAÇÃO. TERATOLOGIAOU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO.AUSÊNCIA.
+Inicial indeferida liminarmente.
+Alega o agravante, em suma, que,considerando que nosso cliente está preso há mais de 02 (dois) anos sem formação da culpa em definitiva, inclusive que certamente irá ocorrer à nulidade de toda instrução criminal (por força da conexão desse caso com o caso alquimia atualmente anulado em definitivo pela Primeira Turma do STF -HC n. 187035), reiniciando-a, e tal fato se atribui ao juízo de origem que não observou a regra do art. 212 do Código de Processo Penal, dando causa ao atraso processual, requer seja, também em caráter liminar, determinada a REVOGAÇÃO DA PRISÃO PREVENTIVA, como medida de direito, impondo em favor de nosso cliente medidas cautelares diversas da prisão (fl. 164).
+Pede o provimento deste agravo regimental.
+Instado, o Ministério Publico Federal manifestou-se pelo desprovimento da insurgência (fls. 175/176).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS.DIREITO PENAL. ORGANIZAÇÃO CRIMINOSA. EXTORSÃO MEDIANTE SEQUESTRO. POSIÇÃO DE LIDERANÇA DE GRUPO CRIMINOSO. COBRANÇA DE DÍVIDAS MEDIANTE VIOLÊNCIA. SEQUESTRO. SENTENÇA CONDENATÓRIA. PRISÃO. SUPOSTA VIOLAÇÃO DO ART. 212 DO CÓDIGO DE PROCESSO PENAL. SUPRESSÃO DE INSTÂNCIA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 691/STF. APLICABILIDADE. FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. AsTurmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no Enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+2.As razões trazidas no regimental não são suficientes para infirmar o entendimento exposto na decisão agravada.
+3.Agravo regimental improvido.
+VOTO
+As razões trazidas no regimental não são suficientes para infirmar o entendimento exposto na decisão ora agravada.
+Ab initio, as Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no Enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, a Relatora a quo, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida. E nisso não há nenhum constrangimento ilegal. Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+No caso, inclusive, o decisum singular prolatado pela eminente Relatora explicitou que: por ser providência excepcional, está reservada para os casos em que avulta flagrante o alegado constrangimento ilegal, o que não se verifica, nesta fase de cognição sumária, uma vez que já há sentença proferida e os autos da apelação do paciente foram distribuídos a esta relatora em 2/2/2021 (fl. 11).
+Nesse sentido: HC n. 550.817/SP, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA,DJe 12/02/2020.
+Assim, reafirmo a motivação por mim adotada na decisão ora agravada e nego provimento ao agravo regimental.
