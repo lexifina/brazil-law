@@ -1,0 +1,14 @@
+Portaria Anatel nº 2069, de 28 de setembro de 2021
+Aprova a Política de Desenvolvimento de Pessoas no âmbito da Agência Nacional de Telecomunicações (Anatel).
+O PRESIDENTE DA AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES, no uso das atribuições que lhe foram conferidas pelos arts. 135 e 136, I, do Regimento Interno da Anatel, aprovado pela Resolução nº 612, de 29 de abril de 2013, e
+CONSIDERANDO o disposto na Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais;
+CONSIDERANDO o disposto na Lei nº 10.871, de 20 de maio de 2004, que dispõe sobre a criação de carreiras e organização de cargos efetivos das autarquias especiais denominadas Agências Reguladoras, e dá outras providências;
+CONSIDERANDO o disposto no Decreto nº 9.991, de 28 de agosto de 2019, que dispõe sobre a Política Nacional de Desenvolvimento de Pessoas da administração pública federal direta, autárquica e fundacional, e regulamenta dispositivos da Lei nº 8.112, de 11 de dezembro de 1990, quanto a licenças e afastamentos para ações de desenvolvimento;
+CONSIDERANDO o disposto no Decreto nº 6.530, de 4 de agosto de 2008, que regulamenta a progressão e a promoção para os servidores do quadro efetivo das Agências Reguladoras de que tratam as Leis nº 10.768, de 19 de novembro de 2003, e nº 10.871, de 20 de maio de 2004, e dá outras providências;
+CONSIDERANDO o disposto na Instrução Normativa SGP-ENAP/SEDGG/ME nº 21, de 1º de fevereiro de 2021, que estabelece orientações aos órgãos do Sistema de Pessoal Civil da Administração Pública Federal - SIPEC, quanto aos prazos, condições, critérios e procedimentos para a implementação da Política Nacional de Desenvolvimento de Pessoas - PNDP de que trata o Decreto nº 9.991, de 28 de agosto de 2019;
+CONSIDERANDO o disposto na Portaria nº 842, de 8 de outubro de 2012, que aprova a Política de Gestão com Pessoas da Agência Nacional de Telecomunicações;
+CONSIDERANDO que são diretrizes da Política Nacional de Desenvolvimento de Pessoal promover o desenvolvimento dos servidores públicos nas competências necessárias à consecução da excelência na atuação dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional;
+CONSIDERANDO a valorização dos servidores, por meio de sua capacitação, bem como a necessidade de produção e de disseminação do conhecimento para o aperfeiçoamento profissional, institucional e regulatório;
+CONSIDERANDO a necessidade de encaminhamento da Proposta do Plano de Desenvolvimento de Pessoas para o ano 2022 (PDP 2022), ao órgão central do SIPEC, até o dia 30 de setembro de 2021, e a possibilidade de delegação desta competência, nos termos art. 5º, caput e § 1º, do Decreto nº 9.991, de 28 de agosto de 2019;
+CONSIDERANDO o constante dos autos do Processo nº 53500.024267/2021-51,
+RESOLVE:
