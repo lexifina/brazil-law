@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprioimpetrado, em favor de GLEDSON ARAUJO NASCIMENTO DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do Agravo de Execução Penal n. 0000119-48.2021.8.26.0996.
+Consta dos autos que o Juízo das Execuções determinou a retificação do cálculo de penas do apenado, ora paciente, fixando a data-base para progressão de regime no dia do preenchimento do requisito subjetivo.
+Irresignada, a defesa interpôs agravo no Tribunal de origem, pugnando fosse adotadaa data do requisito temporal.
+A Corte estadual negou provimento ao recurso, com estes fundamentos:
+"Revendo posição anteriormente adotada, este relator passou a adotar o entendimento de que a decisão que concede a progressão de regime tem natureza constitutiva do direito, advindo somente daí o marco inicial para a nova progressão.
+Todavia, diante do quanto decidido pelo Pretório Excelso e pelo Tribunal da Cidadania, bem como do entendimento firmado pela Turma Especial Criminal, no julgamento do IRDR nº 2103746-20.2018.8.26.0000, no sentido de que a decisão que defere a progressão tem natureza meramente declaratória, nada mais resta ao signatário senão se curvar a esse entendimento.
+Contudo, não obstante a natureza declaratória da decisão, há de ser considerada como marco inicial para futura progressão, a data em que efetivamente implementado o último dos requisitos previstos no artigo 112 da Lei de Execuções Penais, seja ele objetivo ou subjetivo, e não apenas o objetivo, como pretende o agravante."(fl. 39)
+Daí o presente writ,no qual o impetrante reitera a tese manejada na instância ordinária, asseverando ser "juridicamente falacioso o entendimento de que a data do preenchimento do requisito subjetivo constitui data-base para a progressão ao regime aberto"(fl. 9).
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, oMinistério Público Federal opinou pela denegação da ordem, em parecer que recebeu o seguinte resumo:
+"HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. MARCO INICIAL. DATA DO EFETIVO PREENCHIMENTO DOS REQUISITOS DO ART. 112 DA LEP. ÚLTIMO REQUISITO PENDENTE. REQUISITO SUBJETIVO. PRECEDENTES DO STJ E DO STF. Parecer pela denegação da ordem."(fl. 70)
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque "a data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112 da Lei n.7.210/84, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo"(HC 414.156/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 29/11/2017).
+A corroborar esse posicionamento:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPUGNAÇÃO DEFENSIVA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. PREVISÃO DE JULGAMENTO EM DECISÃO MONOCRÁTICA NO ORDENAMENTO JURÍDICO. PROGRESSÃO DE REGIME. DECISÃO DE NATUREZA DECLARATÓRIA. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. ORIENTAÇÃO DESTA CORTE SUPERIOR. DATA-BASE PARA FUTURAS PROGRESSÕES. DATA NA QUAL IMPLEMENTADOS OS REQUISITOS OBJETIVO E SUBJETIVO DO ART. 112 DA LEI DE EXECUÇÃO PENAL. ANÁLISE CASUÍSTICA PARA DEFINIR O MOMENTO EM QUE PREENCHIDO O ÚLTIMO REQUISITO PENDENTE. AGRAVO IMPROVIDO.
+1.Segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.  ..  (AgRg no HC 650.370/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 13/04/2021, DJe 29/04/2021)
+2. V- A data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112 da Lei n. 7.210/1984, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo. VI - In casu, ante a determinação de realização de exame criminológico, o requisito subjetivo somente restou implementado no momento da realização do exame favorável ao paciente, razão pela qual deve ser considerado como data-base para nova progressão, mesmo estando o requisito objetivo preenchido em momento anterior. Habeas corpus não conhecido.(HC 414.156/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 21/11/2017, DJe 29/11/2017).
+3. Na hipótese vertente, o decisum agravado, em consonância com tal diretriz jurisprudencial, considerou como data-base para a nova progressão de regime prisional o dia em que foi realizado o exame criminológico, e se implementou, em consequência, o último requisito (subjetivo).
+4. Agravo improvido.
+(AgRg no HC 662.160/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA,DJe 14/05/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. MARCO INICIAL. DATA EM QUE IMPLEMENTADOS TODOS OS REQUISITOS (OBJETIVO E SUBJETIVO). DATA DO EXAME CRIMINOLÓGICO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. No caso dos autos, o Tribunal de origem, ao dar provimento ao agravo do Ministério Público, determinou a retificação do cálculo a fim de que fosse adotada como marco inicial a data em que o sentenciado preenchera o requisito subjetivo (o dia do exame criminológico).
+2. De acordo com a jurisprudência desta Corte, "a data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112, da Lei n. 7.210/84, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo" (HC n. 358.566/RS, relator o Ministro Felix Fischer, Quinta Turma, DJe de 21/10/2016).
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC 630.809/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA,DJe 20/05/2021).
+Destarte, não se cogita de inidoneidade da fundamentação utilizada, inexistindo, portanto, flagrante ilegalidade a justificar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
