@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por CICLEA DO SOCORRO TEIXEIRA DE BARROS, contra decisão de minha lavra, publicada em 24/08/2021, que, reconsiderando da decisão de fls. 244/250e, não conheceu do Recurso Especial.
+Inconformada, sustenta a parte embargante que:
+"Data maxima venia, mas a r. decisão ora embargada carece de ser esclarecida por que nela reside uma flagrante contradição, verificando-se inaplicável à espécie a aludida Súmula 126/STJ. Se não, vejamos.
+Da simples leitura do Acórdão Estadual combatido pelo Recurso Especial se verifica que O MESMO NÃO APRESENTA FUNDAMENTOS CONSTITUCIONAIS, limitando-se apenas a fazer mera referência expressa ao Art. 7.º, inciso XXIX, da CF/88.
+(..)
+Note-se que o Acórdão Estadual examina a questão da prescrição com fundamento infraconstitucional, qual seja, animado no novo entendimento do STF sobre o tema:
+(..)
+Como se vê, inexistem fundamentos constitucionais que sustentam o Acórdão Estadual recorrido, a exigir a interposição simultânea de Recurso Extraordinário, o que demonstra ser inaplicável a Súmula 126/ STJ ao caso dos autos.
+Na espécie, não há que se falar em fundamentação constitucional se a mera referência a norma constitucional não constitui tema central da fundamentação que originou a conclusão dispositiva do Acórdão recorrido" (fls. 282/283e).
+Por fim, requer "sejam acolhidos estes declaratórios e mantida a r. decisão que conheceu e deu provimento ao Recurso Especial" (fl. 284e).
+O ESTADO DO PARÁ apresentou impugnação aos Declaratórios.
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Nos termos da jurisprudência do Superior Tribunal de Justiça, "a contradição que autoriza os embargos de declaração é do julgado com ele mesmo, jamais a contradição com a lei ou com o entendimento da parte" (STJ, EDcl no REsp 218.528/SP, Rel. Ministro CESAR ASFOR ROCHA, QUARTA TURMA, DJe de 22/04/2002). Nesse sentido: STJ, EDcl nos EDcl no AgRg no AREsp 383.927/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 07/05/2014; EDcl na AR 4.884/SC, Rel. Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, DJe de 14/03/2014.
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no sentido que "a causa fora decidida com base em fundamento exclusivamente constitucional (art. 7º, XXIX, da Constituição Federal), cujo exame compete ao Supremo Tribunal Federal" (fl. 276e).
+Com efeito, fora ressaltado que o Tribunal de origem, ao rejeitar Declaratórios opostos pela embargante, concluiu que ela ""interpreta de forma totalmente equivocada a modulação realizada pelo Supremo Tribunal Federal, pois este refere-se, unicamente, ao dilema da prescrição trintenária (tradicionalmente aplicada) e prescrição quinquenal (novo entendimento a partir desse julgado de 2017), porém, não afeta o julgamento em tela, já que, em qualquer hipótese (quinquenal ou trintenária), deve ser obedecido o prazo bienal para a propositura da ação, em obediência ao art. 7º, XXIX, da CRFB/88"(fls. 203/205e)" (fl. 276e).
+Além disso, a decisão embargada concluiu pela inaplicabilidade, ao caso, da regra prevista no art. 1.032 do CPC/2015, pois "nada obstante o acórdão recorrido tenha decidido a controvérsia à luz do texto constitucional, o Recurso Especial versa acerca de matéria infraconstitucional, hipótese diversa daquela prevista no referido dispositivo legal" (fl. 276e).
+Assim, não há contradição na decisão embargada ao não conhecer do Recurso Especial,.
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.Nesse sentido:STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,DJe de 02/04/2020.
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
