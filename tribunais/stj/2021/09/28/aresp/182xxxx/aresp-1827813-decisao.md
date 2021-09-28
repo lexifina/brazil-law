@@ -1,0 +1,30 @@
+DECISÃO
+Da leitura do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que ADRIANO GARCIA ROSADO JÚNIOR, ANGELA GUIMARAES REQUIAO, FERNANDO GONCALVES GUIMARAES, FERNANDO GONCALVES GUIMARAES e IDE MACHADO GARCIA FERRER (ADRIANO e outros)ajuizaram ação de adimplemento contratual que foi julgada procedente.
+Na fase de cumprimento de sentença, o Juiz de primeiro homologou o cálculo apresentado, bem como determinou a liberação dos valores a ADRIANO e outros até o limite do montante já vinculado ao feito.
+Essa interlocutória foi desafiada por agravo de instrumento no qual OI S.A. (OI), sucessora da BRASIL TELECOM S.A., afirmou que a decisão foi omissa em relação ao pedido de vedação da liberação da garantia do juízo, pois ilíquido o crédito em debate. Argumentou que o valor depositado nos autos deveria lhe ser restituído, pois, após a homologação do cálculo, o crédito deveria se submeter ao plano de recuperação judicial. Pugnou pela readequação dos cálculos sem amortização da quantia depositada em juízo a título de garantia. Referiu que o levantamento, pelas recuperandas, das garantias de créditos concursais estaria em consonância com o que prevê o plano de recuperação judicial e a Lei n. 11.101/05.Sustentou que a atualização dos valores deveria se dar até a data do despacho de processamento da Recuperação Judicial, a saber, 20/6/2016.
+O Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento ao agravo em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATOS DE PARTICIPAÇÃO FINANCEIRA. FASE DE CUMPRIMENTO DE SENTENÇA. GRUPO EMPRESARIAL EM RECUPERAÇÃO JUDICIAL.LIBERAÇÃO DE VALORES. CUMPRIMENTO DOS REQUISITOS. POSSIBILIDADE. PRECEDENTES DESTA CORTE.
+Conforme as diretrizes emanadas do Juízo da Recuperação Judicial do Grupo empresarial em questão, devem ser preenchidos dois requisitos para que seja liberado alvará de valores penhorados nos autos em favor do credor. São eles: i) realização de depósito judicial ou bloqueio pela OI S/A em data anterior a 21.06.2016; ii) configuração de alguma das seguintes situações: (a) depósito feito com a expressa finalidade de pagamento pela OI S/A antes de 21/06/2016; (b) trânsito em julgado de embargos à execução ou da impugnação ao cumprimento de sentença antes de 21/06/2016;
+(c) preclusão do incidente de impugnação ao cumprimento de sentença antes de 21/06/2016.
+No caso sub judice , restaram preenchidos os requisitos para o levantamento do montante em benefício do credor.
+AMORTIZAÇÃO DE DEPÓSITO JUDICIAL NOS CÁLCULOS.
+Possibilidade do aproveitamento do valor depositado como garantia ao Juízo para o pagamento ao credor, possibilitando-lhe o imediato levantamento da cifra, eis obedecidos os critérios emanados do juízo da recuperação judicial.
+AGRAVO DE INSTRUMENTO IMPROVIDO(e-STJ, fl. 902).
+Os embargos de declaração opostos pela OIforam rejeitados (e-STJ, fls. 952/958).
+Irresignada, a OI interpôs recurso especial com base no art. 105, III, a e c, da CF, no qual alegou, além de divergência jurisprudencial, violação dos arts. (1) 1.022, II,do NCPC, diante de suposta omissão da Corte local sobre a alegada impossibilidade de liberação dos valores depositados a título de garantia; (2) 49 e 59 da Lei nº 11.101/2005, ao entendimento de que o crédito deve ser submetido ao plano de recuperação judicial, devidamente aprovado pela assembleia geral de credores, não havendo que se falar em amortização do valor penhorado.
+Em juízo de admissibilidade, a presidência do Tribunal de Justiça do Estado do Rio Grande do Sul inadmitiu o apelo nobre.
+Contra essa decisão, foi interposto o agravo em recurso especial em que se alegou(1) ofensa ao art. 1.022, I, do NCPC e (2) inaplicabilidade da Súmula nº 7 do STJ.
+É o relatório.
+O recurso não pode ser conhecido.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de impugnação aos fundamentos da decisão agravada
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recursoespecial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada pois OInão refutou, de forma arrazoada, a incidência dos Enunciados 19, 40 e 42 do Seminário O Poder Judiciário e o novo Código de Processo Civil.
+E isso não fez porque somente alegou, nas razões do seu agravo em recurso especial que (1) ofensa ao art. 1.022, I, do NCPCe(2) inaplicabilidade da Súmula nº 7 do STJ.
+Assim, como não houve a demonstração do adequado enfrentamento do fundamento incidência dos Enunciados 19, 40 e 42 do Seminário O Poder Judiciário e o novo Código de Processo Civil, o recurso não deve ser admitido.
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo interposto.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, §4º, ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
