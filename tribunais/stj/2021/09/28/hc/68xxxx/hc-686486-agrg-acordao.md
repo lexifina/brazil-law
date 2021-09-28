@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. EXECUÇÃO. PROGRESSÃO DE REGIME. INSTRUÇÃO DEFICIENTE DOS AUTOS. INTEIRO TEOR DO ACÓRDÃO IMPUGNADO NÃO JUNTADO. SUPRESSÃO DE INSTÂNCIA. WRIT INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA.
+1. O procedimento do habeas corpus não permite a dilação probatória, pois exige prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração. Ausente cópia do inteiro teor do acórdão impugnado, não conhecer da impetração é medida que se impõe.
+2. Com relação às questões alegadas acerca do direito do recorrente à progressão de regime, a matéria não pode ser analisada por este Superior Tribunal de Justiça, tendo em vista que a irresignação do recorrente não foi apreciada pelo Tribunal de origem, conforme documentação acostada aos autos, fato que obsta a análise da impetração, sob pena de indevida supressão de instância. Precedentes.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator) :  Trata-se de agravo regimental interposto contra a decisão de fls. 139-140, em que o habeas corpus foi indeferido liminarmente por instrução deficiente dos autos.
+Alega a defesa que "A cópia do acordão proferido pelo TJSP, está incluso nos presentes autos, nas fls. 55/64, ou seja, não há em que se falar que o presente "writ" não veio devidamente instruído com o referido documento".
+Requer, assim, o provimento do recurso para fins de reforma da decisão atacada, tendo em vista que o recorrente "esta cumprindo pena em regime mais gravoso, ou seja, está preso quando já deveria estar solto, por já ter atingido os requisitos objetivos e subjetivos, para a progressão do regime".
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator) :  A decisão agravada foi assim fundamentada (fls. 139-140):
+Trata-se de habeas corpus, com pedido liminar, apontando como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente cumpre pena de 4 anos, 9 meses e 18 dias de reclusão, em regime fechado, por infração ao disposto no art. 157, caput, por três vezes, c/c o art. 65, caput, I, III, "d" c/c o art. 70, caput, c/c o art. 72, caput, todos do Código Penal, com previsão de término para 24/9/2024.
+O Juízo de execuções negou o pedido de progressão de regime, determinando a realização de exame criminológico.
+No presente writ, o impetrante alega que o ora paciente cumpriu o requisito objetivo para progressão de regime, relatando a demora na elaboração do exame criminológico.
+Requer, assim, liminarmente e no mérito, seja concedido ao paciente a progressão ao regime aberto.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa. Compulsando o presente feito, constato que a peça inicial veio desacompanhada de documentação indispensável para o deslinde da controvérsia, em especial a cópia integral do acórdão impugnado.
+É pacífico o entendimento desta Corte Superior que o procedimento do habeas corpus não permite a dilação probatória, pois exige prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (AgRg no HC n. 289076/SP _ 5ª T. _ unânime _ Rel. Min. Regina Helena Costa_ DJe 19/5/2014; AgRg no HC n. 291366/PE _ 6ª T. _ unânime _ Rel. Min. Rogério Schietti Cruz _ DJe 29/5/2014; HC n. 269077/PE _ 6ª T. _ Rel. Min. Sebastião Reis Júnior _ DJe 2/6/2014).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Com efeito, da atenta leitura dos autos, constata-se que persiste a falha na instrução, pois não foi juntada cópia do inteiro teor do acórdão impugnado, constando apenas, conforme indicado pela defesa, às fls. 55-64, o acórdão de julgamento do recurso de apelação. A peça pertinente seria o acórdão a do HC 2165683-26.2021.8.26.0000, impetrado na origem.
+Com relação às questões alegadas acerca do direito do recorrente à progressão de regime, tem-se que a matéria ventilada no presente writ não pode ser analisada por este Superior Tribunal de Justiça, tendo em vista que a irresignação do recorrente não foi apreciada pelo Tribunal de origem, conforme documentação acostada aos autos, fato que obsta a análise da impetração por este Sodalício, sob pena de indevida supressão de instância.
+Dessa forma, verificada a supressão de instância, não há como perquirir acerca desta matéria. Nesse sentido: HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018; HC 430.992/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/03/2018, DJe 02/04/2018; AgRg no HC 363.567/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/09/2017, DJe 02/10/2017.
+Desse modo, a decisão agravada deve ser mantida pelos próprios fundamentos, pelo que nego provimento ao agravo regimental.
+É o voto.
