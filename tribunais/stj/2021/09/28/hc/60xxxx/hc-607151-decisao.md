@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VALDECIR MARTINS PEDROSOcontra omissão do Tribunal de Justiça do Rio Grande do Sul.
+Do que se tem dos autos, encerrada a instrução criminal, o Paciente foi condenado à pena de 5 (cinco) anos e 10(dez) meses de reclusão, em regime inicialsemiaberto, mais pagamento de 550 (quinhentos e cinquenta) dias-multa, como incursono art. 33 da Lei n. 11.343/2006.
+Narra o Impetrante, que interpôs apelação, a qual foi negado provimento, por maioria de votos, o que acarretou a oposiçãode embargos infringentes.
+Outrossim, a Corte local deixou de conhecerprévio writ(fls. 136-141).
+Segundoo Impetrante, neste habeas corpus," e mbora houvesse sido protocolado no dia 02 de junho de 2020 os Embargos Infringentes em favor do paciente VALDECIR MARTINS PEDROSO, passados mais de dois meses desde o protocolo, sequer foi distribuído o referido recurso, permanecendo sem qualquer movimentação até o presente momento" (fl. 7).
+Afirma que, "em março de 2020, com o cumprimento de 1/6 da reprimenda imposta ao paciente, requisito que restou implementado em 27/01/2020, houve pedido de autorização para saída temporária, concomitantemente com pedido de prisão domiciliar,  .. , sendo que, mesmo com manifestação favorável do Ministério Público em relação à saída temporária, os pedidos foram integralmente indeferidos pelo Juízo da Vara de Execuções Criminais"(fl. 11).
+Ao final, requer:
+"a) a concessão da liminar para aplicar medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal ao paciente enquanto perdurar o período da pandemia COVID-19;
+b) de forma subsidiária, não entendendo Vossas Excelências dessa forma, seja, imediatamente, posto o paciente em prisão domiciliar, com ou sem uso de monitoração eletrônica, enquanto perdurar o período da pandemia COVID-19, eis que presentes os requisitos legais previstos no art. 5º, incisos I, alínea "b", e III, da Recomendação nº 62 do CNJ;
+c) ainda, caso não entendendo de nenhuma das formas anteriormente postulado, que, no mínimo, seja deferido o pleito de saída temporária do paciente, pois implementado o requisito objetivo em 27/01/2020 (cumprimento de1/6 da reprimenda)."
+O pedido liminar foi indeferido às fls. 144-146.
+As informações foram juntadas às fls. 155-183.
+O Ministério Público Federal manifestou-se às fls. 185-188 pela denegação da ordem dehabeas corpus.
+É o relatório.Decido.
+De início, no que diz respeito ao alegadoexcesso de prazo para julgamento dos embargos infringentes, em consulta ao endereço eletrônico do Tribunal de origem, verifica-se que os Embargos Infringentes e de Nulidade n. 0090653-43.2020.8.21.7000(70084522945)foram julgados em 07/12/2020,ficando o writprejudicadono ponto.
+No tocante ao pedido deprisão domiciliar, constato queo Tribunal de origem nem sequer conheceu da impetração originária quanto ao tema (fls. 138-139), por se tratar de reiteração de pedido, o que obsta a cognição da matériadiretamente nesta Corte, sob pena de indevida supressão de instância.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+Também deixou a Corte local de conhecer do pedido referente àsaída temporáriaporimplemento do lapso temporal e, desse modo, mais uma vez fica este Superior Tribunal impedido de conhecer da questão. Contudo, neste ponto, observo flagrante ilegalidade que impõe a concessão da ordem de habeas corpus ex officio.
+Destaco, por oportuno, os seguintes trechos do acórdão impugnado(fls. 138-139; sem grifos no original):
+"No presente writ, o impetrante inova, requerendo, além da concessão da prisão domiciliar - que já foi examinado e indeferido no julgamento do habeas corpus -, a possibilidade de saída temporária, por já ter o paciente implementado lapso temporal para tanto. Também não há como conhecer tal alegação. Ocorre que a via estreita do habeas corpussomente é admitida em situações excepcionais, quando presente ilegalidade manifesta, o que não ocorre no caso dos autos. Por conseguinte, o presente remédio constitucional não constitui meio próprio para deduzir o pleito em questão, devendo ser objeto do recurso específico - agravo em execução, nos termos do art. 197 da LEP."
+Ocorre que a existência de recurso específico - agravo em execução -não inviabiliza a impetração de habeas corpus para avaliar eventual ilegalidade na fase de execução da pena, especialmente em relação ao implemento dos requisitospara benefícios executórios.
+Nesse sentido, mutatis mutandis:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. INTERRUPÇÃO, OU NÃO, DA CONTAGEM DO LAPSO TEMPORAL PARA OBTENÇÃO DA BENESSE. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. INVIABILIDADE DE ANÁLISE DO TEMA POR ESTA CORTE, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO APENAS PARA DETERMINAR AO TRIBUNAL ESTADUAL QUE ANALISE O MÉRITO DO HC N. 0002429-18.2015.8.26.0000.
+ ..
+2. Na hipótese, verifica-se que o Tribunal estadual não conheceu do habeas corpus impetrado na origem (HC n. 0002429-18.2015.8.26.0000), por ser substitutivo de recurso próprio.
+3. A negativa de análise da questão pela Corte a quo impede qualquer manifestação deste Tribunal, sob pena de indevida supressão de instância.
+4. Nesse contexto, a solução passa pelo retorno dos autos ao Tribunal de origem para que examine a fundamentação expendida pela impetrante, relativa ao cumprimento dos requisitos objetivo e subjetivo concernentes ao livramento condicional, como entender de direito.
+5. Habeas Corpus não conhecido. Ordem concedida de ofício apenas para determinar que o Tribunal a quo analise o mérito do HC n. 0002429-18.2015.8.26.0000." (HC 342.417/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2015, DJe de 01/02/2016; sem grifos no original.)
+Ante o exposto,JULGO PREJUDICADO EM PARTE ohabeas corpuse, no tocante à prisão domiciliar, NÃO CONHEÇO da impetração. Outrossim, CONCEDO a ordem, DE OFÍCIO,para determinar ao Tribunal de Justiça do Estado doRio Grande do Sulque aprecie, com a maior brevidade possível, o mérito do HC n. 0074027-46.2020.8.21.7000, no que diz respeito ao pedido de saída temporária, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PROCESSUAL PENAL E EXECUÇÃO PENAL. TRÁFICOILÍCITO DE DROGAS. TESE DE EXCESSO DE PRAZO PARA O JULGAMENTO DOS EMBARGOS INFRINGENTES.SUPERVENIENTE APRECIAÇÃO DO RECURSO.PREJUDICIALIDADE. PLEITO DE PRISÃO DOMICILIAR. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. SAÍDA TEMPORÁRIA. WRITORIGINÁRIO NÃO CONHECIDO, NO PONTO.VIABILIDADE DE ANÁLISE PELO TRIBUNAL A QUO.ORDEM PARCIALMENTE PREJUDICADA E, QUANTO AO PEDIDO DE PRISÃO DOMICILIAR, NÃO CONHECIDA. WRIT CONCEDIDO DE OFÍCIO.
