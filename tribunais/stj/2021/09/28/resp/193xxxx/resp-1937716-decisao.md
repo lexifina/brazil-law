@@ -1,0 +1,71 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que ELZE PANTEL e outro (ELZE e outro) ajuizaram ação de exigir contas em desfavor de VALMIR PINHEIRO DE MATOS (VALMIR).
+O pedido foi julgado procedente.
+Iniciado o cumprimento de sentença, o d. Juízo de primeira instância rejeitou alegação de fraude à execução e reconheceu a impenhorabilidade do bem de família.
+Contra essa decisão interlocutória, ELZE e outro interpuseram agravo de instrumento, defendendo que (1) a má-fé é presumida, tendo em vista a dispensa das certidões; (2) houve fraude à execução, o que enseja automática perda da proteção ao bem de família; e (3) a alienação do único bem a sua esposa deu-se por preço vil.
+O Tribunal Paulista deu provimento ao agravo de instrumento nos termos do acórdão relatado pelo Des. CARLOS DIAS MOTTA assim ementado:
+Agravo de instrumento. Recurso interposto contra a r. decisão que afastou a alegação de fraude à execução e reconheceu a impenhorabilidade do bem de família. Em 1994, o agravado Valmir adquiriu o imóvel, hipotecando-o à CEF. Em 2005, os agravados Valmir e Vanusa casaram-se sob o regime da comunhão parcial de bens. Em 2007, Valmir tornou-se réu na ação de exigir contas (proc. 0156669-34.2007.8.26.0100), julgada parcialmente procedente no ano de 2019. Entre a prolação da sentença (maio/2019) e o trânsito em julgado (julho/2019), notadamente em junho/2019, o devedor Valmir vendeu seu único bem à sua esposa Vanusa. Fraude à execução(art. 792, inciso IV, do CPC/15). Ao tempo da alienação, tramitava contra o devedor Valmir ação capaz de reduzi-lo à insolvência. Má-fé da esposa adquirente Vanusa (Súmula 375 do C. STJ) que, na condição de cônjuge, tinha inequívoco conhecimento da ação de exigir contas. Desacolhida a tese de que o imóvel foi transferido à esposa Vanusa por ter ela quitado, com recursos próprios, a hipoteca junto à CEF. O recibo de quitação, no valor de R$ 80.948,39 foi emitido pela CEF, em nome do devedor Valmir, em fevereiro/2017, mas a baixa da hipoteca seguida da transação imobiliária entre os cônjuges somente ocorreu após a sentença condenatória proferida nos autos da ação de exigir contas (2019). A perda da proteção legal ao bem de família é corolário lógico do reconhecimento judicial da fraude à execução. Precedentes. Fraude que enseja ineficácia da venda perante os agravantes, mas não elide a intenção dos agravados de vender e, ao fazê-lo, abrirem mão do benefício da impenhorabilidade, que não pode mais ser invocada para proteção do bem de família. Decisão reformada, para reconhecer a fraude à execução e afastar a proteção legal do bem de família, mantida a penhora do imóvel para satisfação do crédito exequendo. Agravo de instrumento provido (e-STJ, fl. 220).
+Os embargos de declaração opostos por VALMIR e sua esposa, VANUZA RODRIGUES DE MATOS (VANUZA) foram rejeitados, em decisão monocrática do Relator (e-STJ, fl. 236/242).
+Inconformados, VALMIR manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação dos arts. 489 e 1.022 do NCPC, bem como dissídio jurisprudencial, ao sustentar que (1) o acórdão recorrido foi omisso quanto à tese de que, se o imóvel era considerado bem de família e impenhorável, não há que se falar em fraude à execução; e (2) a alienação de bem de família não caracteriza fraude à execução (e-STJ, fls. 749/760).
+Foi oferecida contraminuta (e-STJ, fls. 289/303).
+O apelo nobre foi admitido (e-STJ, fls. 304/308).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da ausência de violação dos arts. 489 e 1.022, do NCPC
+Nas razões do seu recurso, VALMIR alegou a violação dos arts. 489 e 1.022, do NCPC em virtude da omissão quanto à tese de que, se o imóvel era considerado bem de família e impenhorável, não há que se falar em fraude à execução.
+Contudo, verifica-se que o Tribunal estadual se pronunciou sobre os temas consignando que a perda da proteção ao bem de família decorre do reconhecimento judicial da fraude à execução, confira-se:
+Neste contexto, a perda da proteção legal ao bem de família é corolário lógico do reconhecimento judicial da fraude à execução. Nesse sentido, confira-se:
+ ..
+Realmente, a fraude enseja ineficácia da venda perante os agravantes, mas não elide a intenção dos agravados de vender e, ao fazê-lo, abrirem mão do benefício da impenhorabilidade, que não pode mais ser invocada para proteção do bem de família.
+Cabe ainda observar que a ação de prestação de contas é de 2007. O processo deve caminhar para uma solução efetiva (e-STJ, fls. 222/223).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. Precedente: AgRg no AREsp 529.018/MS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 1º/9/2014.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A revisão das conclusões estaduais (quanto à responsabilidade pelos serviços contratados) demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+3. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.487.975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 17/02/2020, DJe 19/02/2020)
+Afasta-se, portanto, a alegada violação.
+(2) Da Súmula nº 284 do STF, por analogia
+VALMIR afirmou a existência de dissídio jurisprudencial, aduzindo que a alienação de bem de família não caracteriza fraude à execução.
+A jurisprudência desta Corte é pacífica quanto a necessidade de indicação do artigo de lei sobre o qual haveria divergência jurisprudencial quando o recurso especial também é interposto com base do dissídio interpretativo.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A subsistência de fundamento inatacado, apto a manter as conclusões do aresto impugnado, impõe o reconhecimento da incidência da Súmula 283 STF, por analogia. Precedentes.
+1.1. No ponto, rever o entendimento lançado no v. acórdão recorrido, considerando as circunstâncias do caso concreto, para concluir que não houve mora da ora agravante, demandaria revolvimento de matéria fático-probatória, bem como análise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ.
+2. Nos termos da jurisprudência deste Tribunal Superior, o atraso na entrega do imóvel enseja pagamento de lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo experimentado pelo promitente comprador. Incidência da Súmula 83/STJ.
+3. Relativamente ao dissídio jurisprudencial quanto à cumulação de lucros cessantes e a cláusula penal, a ausência de indicação dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+3.1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos das Súmulas 282 e 356 do STF, aplicável por analogia.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.877.253/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. em 15/12/2020, DJe 01/02/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA COMPLEMENTAR. REVISÃO DO BENEFÍCIO. INEXISTÊNCIA DE VÍNCULO COM A ENTIDADE PREVIDENCIÁRIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE CITAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do entendimento jurisprudencial do Superior Tribunal de Justiça, o recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão.
+2. Segundo a jurisprudência deste Tribunal de Uniformização, a alegação de dissídio jurisprudencial deve estar pautada também na citação de dispositivo da legislação federal a que se tenha conferido interpretação diversa pelo aresto impugnado, sob pena de configurar-se deficiência na fundamentação.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.709.794/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 07/12/2020, DJe 11/12/2020)
+Assim, em virtude da não indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente, incide, à hipótese, a Súmula nº 284 do STF, por analogia.
+Ainda que fosse possível superar o óbice, a impenhorabilidade do bem de família deve ser cotejada com o princípio da boa-fé objetiva, não servindo a intangibilidade do bem de família para amparar a conduta do executado que aliena único imóvel em abuso de direito e má-fé. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Reconhecida a fraude à execução, deve ser afastada a impenhorabilidade do bem de família. Precedentes.
+2. As conclusões relativas à caracterização de fraude à execução não podem ser revistas por esta Corte Superior, em sede de recurso especial, pois demandariam necessariamente o reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.482.869/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. em 04/05/2020, DJe 07/05/2020)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICAÇÃO DO CPC/1973.EMBARGOS À ADJUDICAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. ALEGAÇÃO DE IMPENHORABILIDADE DO BEM DE FAMÍLIA. FRAUDE À EXECUÇÃO ANTERIORMENTE RECONHECIDA. INAPLICABILIDADE DA NORMA PROTETIVA.
+1. Embargos à adjudicação opostos em 18/06/2012. Recurso especial interposto em 14/08/2014 e atribuído a esta Relatora em 02/09/2016.
+2. Aplicação do CPC/73, a teor do Enunciado Administrativo n. 2/STJ.
+3. O propósito recursal, para além da análise da negativa de prestação jurisdicional, consiste em definir se o reconhecimento de fraude à execução, pela alienação do único imóvel dos executados a um de seus parentes, é causa de afastamento da garantia de impenhorabilidade do bem de família.
+4. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento da alegada violação do art. 535 do CPC/73.
+5. A indicação de violação genérica à lei federal, sem particularização dos dispositivos que teriam sido afrontados pelo acórdão recorrido, implica deficiência na fundamentação do recurso especial e atrai a incidência da Súmula 284/STF.
+6. A regra de impenhorabilidade do bem de família trazida pela Lei 8.009/90 deve ser examinada à luz do princípio da boa-fé objetiva, que, além de incidir em todas as relações jurídicas, constitui diretriz interpretativa para as normas do sistema jurídico pátrio.
+7. Nesse contexto, caracterizada fraude à execução na alienação do único imóvel dos executados, em evidente abuso de direito e má-fé, afasta-se a norma protetiva do bem de família, que não pode conviver, tolerar e premiar a atuação dos devedores em desconformidade com o cânone da boa-fé objetiva. Precedentes.
+8. Recurso especial parcialmente conhecido, e, nessa extensão, não provido.
+(REsp 1.575.243/DF, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 22/03/2018, DJe 02/04/2018)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXIGIR CONTAS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. INEXISTÊNCIA. IMPENHORABILIDADE. BEM DE FAMÍLIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO DE LEI. NÃO INDICAÇÃO. SÚMULA Nº 284 DO STF. FRAUDE À EXECUÇÃO. PROTEÇÃO AFASTADA. RECURSO ESPECIAL NÃO CONHECIDO.
