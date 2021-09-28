@@ -1,0 +1,42 @@
+DECISÃO
+1. Cuida-se de agravo interposto por WALTER GAMA TERRA JÚNIOR E OUTRO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZATÓRIA. FASE DE CUMPRIMENTO DE SENTENÇA. PENHORA ON LINE INFRUTÍFERA.INCIDENTE DE DESCONSIDERAÇÃO DA PERSOANALIDADE JURÍDICA. ACOLHIMENTO DO PEDIDO DOS EXEQUENTES, DETERMINANDO-SE A AFETAÇÃO DO PATRIMÔNIIO DOS EX-SÓCIOS PARA SATISFAÇÃO DO CRÉDITO.
+1. O julgado estabelece a responsabilidade civil decorrente de relação de consumo, aplicando-se a teoria menor da desconsideração da personalidade jurídica, cujos pressupostos estão previstos no art. 28 do CDC.
+2. A saída dos Agravantes do quadro social e a existência de diversas ações ajuizadas em face da Executada, sem que haja capital bastante para assegurar o crédito exequendo, tal como evidenciado pelo insucesso do bloqueio on line, caracteriza entrave à reparação dos danos suportados pelos Agravados, justificando a desconsideração da personalidade jurídica.
+3. O vasto patrimônio amealhado pelo 1º Agravante, que foi estimado em cifras milionárias à Justiça Eleitoral, contrastado com a situação de ruína financeira em que foi posta a empresa Executada, dá margem ao reconhecimento de desvio de finalidade, causando prejuízos aos consumidores.
+4. Presença dos requisitos que justificam a extensão da responsabilidade patrimonial para sujeitar os bens do sócio à execução, nos termos do art. 790, II do CPC.
+5. Desprovimento do recurso.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto noart. 28, caput e §5º, do CDC. Insurge contra a desconsideração da personalidade jurídica da empresa executada, arguindo que os seus requisitos não foram preenchidos e quenão foram exauridos todos os meios legais de recebimento do crédito, requerendo o afastamento dos recorrentes do polo passivo da execução. Afirma que a aplicação da teoria menor não dispensa a comprovação de que o credor não existia outra opção.
+Contrarrazões ao recurso especial às fls. 104-112.
+É o relatório.
+DECIDO.
+2. Observa-se que "Esta Corte tem entendimento de que a teoria menor da desconsideração se justifica pela comprovação da insolvência da pessoa jurídica para o pagamento de suas obrigações, má administração da empresa ou pelo mero fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores, nos termos do art. 28, § 5º, do CDC. Precedentes."(AgInt no AREsp 1825577/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/08/2021, DJe 26/08/2021).
+No mesmo sentido:
+_____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO E NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1022, II, do CPC/15.
+2. Para o acolhimento do apelo extremo, no sentido de verificar a apontada ausência de satisfação dos requisitos legais a autorizar a desconsideração da personalidade jurídica no caso sub judice, seria imprescindível derruir as conclusões contidas no decisum atacado, o que, forçosamente, enseja em rediscussão da matéria fático-probatória, atraindo o óbice da Súmula 7/STJ. Precedentes.
+2.1. O entendimento do acórdão recorrido amolda-se aos termos da jurisprudência desta Corte, segundo a qual a aplicação da teoria menor da desconsideração da personalidade jurídica da empresa é justificada pelo mero fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores, nos termos do § 5º do artigo 28 do CDC, o que atrai o teor da Súmula 83/STJ.
+3. Se o patrimônio da empresa recuperanda não é objeto de constrição, mas sim os bens dos sócios, não se cogita de competência do juízo recuperacional para decidir sobre a execução do crédito reclamado. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1560415/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020)(g.n.)
+_____________
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO.INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR.APLICABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. O acórdão recorrido enfrentou coerentemente as questões postas a julgamento, mediante clara e suficiente fundamentação, de modo que não merece reparo algum.
+2. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211/STJ).
+3. A aplicação da Teoria Menor da desconsideração da personalidade jurídica da empresa é justificada "pelo mero fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores, nos termos do § 5º do art. 28 do CDC" (REsp 1.735.004/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 26/6/2018, DJe 29/6/2018).
+4. Em recurso especial, é inviável o reexame de matéria fático-probatória. Incidência da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1439557/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/09/2019, DJe 24/09/2019)
+_____________
+Na espécie, em consonância com essa jurisprudência do STJ e com base nos elementos fático-probatórios dos autos, a Corte local manteve a desconsideração da personalidade jurídica, consignando o preenchimento dos requisitos para aplicação da teoria menor e o desvio de finalidade causando prejuízos aos consumidores. Segue trecho da fundamentação do acórdão recorrido (fls. 67-68):
+"Diante destes fundamentos, afirme-se que o julgado estabelece a responsabilidade civil decorrente de relação de consumo, aplicando-se a teoria menor da desconsideração da personalidade jurídica, cujos pressupostos estão previstos no art. 28 do CDC.
+In casu, constata-se que os Agravantes cederam suas cotas da empresa Executada (Terra Andrade & Cia. Ltda., atualmente denominada Esmeralda Empreendimentos e Construtora Ltda) a Minerais Holdings S.A. e Antonio Carlos Fernandes e dela se retiraram, de acordo com instrumento de alteração contratual a fls. fls. 497/509 dos autos principais - processo nº 0007071-59.2014.8.19.0066.
+Ademais, nota-se que há mais de uma centena de ações propostas em desfavor da empresa Executada, como demonstrado pelos doc. a fls.493/496.
+Sendo assim, a saída dos Agravantes do quadro social e a existência de diversas ações ajuizadas em face da Executada, sem que haja capital bastante para assegurar o crédito exequendo, tal como evidenciado pelo insucesso do bloqueio on line, caracteriza entrave à reparação dos danos suportados pelos Agravados, justificando a desconsideração da personalidade jurídica.
+Neste sentido, o art. 28, § 5º do CDC ("Também poderá ser desconsiderada a pessoa jurídica sempre que sua personalidade for, de alguma forma, obstáculo ao ressarcimento de prejuízos causados aos consumidores").
+Noutra trilha, o vasto patrimônio amealhado pelo 1º Agravante (Walter Gama Terra Junior), que foi estimado em cifras milionárias à Justiça Eleitoral (fls. 548/553), contrastado com a situação de ruína financeira em que foi posta a empresa Executada, dá margem ao reconhecimento de desvio de finalidade, causando prejuízos aos consumidores.
+Dessa forma, conclui-se que estão presentes os requisitos que autorizam a extensão da responsabilidade patrimonial para sujeitar os bens do sócio à execução, nos termos do art. 790, II do CPC."
+Desse modo, verifica-se que o entendimento perfilhado pela Corte Estadual está em conformidade com a jurisprudência do Superior Tribunal de Justiça, sendo que para rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, providência vedada em sede de recurso especial. Incide, portanto, os enunciados das Súmulas 7 e 83 do STJ.
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
