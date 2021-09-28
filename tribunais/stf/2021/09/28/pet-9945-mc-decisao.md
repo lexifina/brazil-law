@@ -1,0 +1,40 @@
+DECISÃO
+    1. O Ministério Público do Estado de Goiás propôs ação originária, autuada como petição, com pedido de tutela de urgência, buscando ver anulado pronunciamento mediante o qual o Conselho Nacional do Ministério Público (CNMP) determinou fosse incluído o nome do promotor de justiça Carlos Vinícius Alves Ribeiro na lista de promoção por merecimento, inaugurada pelo Edital n. 91/2021, para a 12ª Promotoria de Justiça de Aparecida de Goiânia.
+    Segundo narra, Carlos Vinícius Alves Ribeiro formalizou, perante o Órgão de controle, o procedimento de controle administrativo n. 1.00840/2021-78, alegando ter sido preterido da lista de promoção, em violação ao art. 92, II, “c”, da Constituição Federal, ao art. 3º, II, da Resolução CNMP n. 2, de 21 de novembro de 2005, e aos arts. 158, § 1º, e 164 da Lei Orgânica do Ministério Público do Estado de Goiás (Lei Complementar estadual n. 25, de 6 de julho de 1998).
+    Afirma que o CNMP, após implementar liminar, julgou parcialmente procedente o pedido, tendo como fundamento o art. 157, § 1º, da Lei Complementar estadual n. 25/1998 e o art. 61 da Lei n. 8.625/1993. A parte dispositiva da decisão continha as seguintes determinações:
+    i. declarar a nulidade da votação proferida pelo Conselho Superior do MP/GO quanto ao Edital de Promoção por Merecimento nº 01/2021, em que se julgou a promoção por merecimento para a 12a Promotoria de Justiça de Aparecida de Goiânia;
+    ii. determinar a realização de nova votação, na qual conste indicação expressa, de forma concretamente fundamentada, do preenchimento dos requisitos daqueles pretendentes à promoção por merecimento; e (sic)
+    iii. por ocasião da apreciação do nome do requerente, também considere a atual atividade do demandante, na qualidade de membro auxiliar do CNMP, abstendo-se de privilegiar aqueles que estão atualmente em pleno exercício da atividade-fim;
+    iv. avalie os requisitos referentes à atividade-fim do requerente considerando o exercício ministerial em órgão de execução no período imediatamente anterior ao afastamento;
+    v. considere adequadamente as vezes que o requerente figurou em lista de merecimento, nos termos do inciso II, do art. 3º, da Resolução n. 02/05 do CNMP;
+    vi. avalie qualitativamente a capacitação técnico-jurídica do requerente, nos termos do inciso III, do art. 3º, da Resolução n. 02/05 do CNMP; e
+    vii. considere as informações constantes nos assentos da própria administração do Ministério Público c passíveis de serem obtidas cm fonte aberta de busca.
+    Esclarece que o promotor interessado apontou, perante o Órgão de fiscalização, o descumprimento, pelo Conselho Superior do Ministério Público do Estado de Goiás, considerada deliberação formalizada na 15ª sessão ordinária, ocorrida em 13 de setembro de 2021, do pronunciamento do CNMP no procedimento n. 1.00840/2021-78.
+    Ressalta que, na sessão de 20 de setembro último, o Órgão de controle, por unanimidade, determinou, como medida necessária ao cumprimento da decisão anterior, a inclusão de Carlos Vinícius Alves Ribeiro na lista de promoção por merecimento em relação à 12ª Promotoria de Justiça de Aparecida de Goiânia, bem assim o encaminhamento de cópia à Corregedoria Nacional, para apuração disciplinar dos fatos relacionados à inobservância do que deliberado.
+    Discorre sobre a competência do Supremo para examinar o pedido, evocando o art. 102, I, “r”, da Constituição Federal. Frisa praticado o ato no exercício da atividade-fim do CNMP.
+    Sustenta a legitimidade para a defesa da autonomia administrativa.
+    Diz que o pronunciamento do Órgão de fiscalização, no procedimento de n. 1.00840/2021-78, se baseou na ausência de fundamentação dos votos de alguns Conselheiros do Ministério Público estadual.
+    Aduz que o Conselho Superior do Ministério Público de Goiás, ao formalizar o ato de 13 de setembro de 2021, observou as determinações veiculadas pelo CNMP. Sublinha que a fundamentação dos votos dos Conselheiros foi adequada.
+    Afirma equivocada a decisão desse último proferida na sessão de 20 de setembro seguinte, a pressupor a existência de critérios preponderantes. Argumenta que a Resolução CNMP n. 2/2005 não contempla hierarquia entre os vetores. Ainda, nega haver o promotor Carlos Vinícius Alves Ribeiro superado, ante os critérios previstos na legislação de regência, as candidatas escolhidas para compor a lista.
+    Alega que o Órgão de fiscalização não poderia substituir o juízo de mérito do Conselho Superior do Ministério Público de Goiás sem demonstração de grave vício.
+    Pondera, ademais, que o CNMP, embora tenha determinado a inclusão do promotor de justiça na lista, não apontou qual das indicadas deveria ser excluída.
+    Sob o ângulo do risco, alude à convocação de reunião extraordinária do Conselho Superior do Ministério Público de Goiás para o dia 29 de setembro de 2021, a fim de dar cumprimento à decisão.
+    Requer, em sede liminar, a suspensão dos efeitos do pronunciamento do CNMP mediante o qual determinada a inclusão do promotor de justiça Carlos Vinícius Alves Ribeiro na lista de merecimento concernente à 12ª Promotoria de Justiça de Aparecida de Goiânia. Busca, no mérito, a anulação.
+    É o relatório.
+    2. A decisão ora impugnada recebeu a seguinte ementa:
+    PROCEDIMENTO DE CONTROLE ADMINISTRATIVO. ACOMPANHAMENTO DE CUMPRIMENTO DE DECISÃO. ILEGALIDADE DO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS. NOVA VOTAÇÃO PARA CONCURSO DE PROMOÇÃO POR MERECIMENTO. DESCUMPRIMENTO DE DECISÃO DO CNMP. ANULAÇÃO DO JULGAMENTO. INCLUSÃO OBRIGATÓRIA DO REQUERENTE NA LISTA DE PROMOÇÃO POR MERECIMENTO.
+    De início, cabe observar que compete ao CNMP fiscalizar a atuação administrativa e financeira do Ministério Público, nos termos do art. 130-A, § 2º, da Carta da República.
+    O tema da promoção por merecimento está disciplinado no art. 164, § 1º, da Lei Orgânica do Ministério Público do Estado de Goiás (Lei Complementar estadual n. 25/1998) e na Resolução CNMP n. 2. Considerados os critérios a partir dos quais o merecimento deve ser aferido, surge relevante a fundamentação, a qual constitui fator de legitimação das decisões governamentais, indissociável da diretriz consagradora da prática republicana do poder, especialmente diante do esforço do legislador e do próprio Conselho – ao explicitarem os parâmetros – para que sejam observadas, na atuação administrativa, a impessoalidade e a motivação (CF, arts. 37, caput; 93, X; e 129, § 4º).
+    Nesse contexto, em juízo de cognição sumária, não vislumbro perigo de dano ou risco ao resultado útil do processo, nos termos do art. 300 do Código de Processo Civil.
+    Vale dizer, a convocação de reunião extraordinária do Conselho Superior do Ministério Público de Goiás para o próximo dia 29 de setembro, com a finalidade de dar cumprimento à decisão, revela desdobramento natural da determinação do CNMP, formalizada tendo em conta a alegação de descumprimento de deliberação anterior.
+    Caso, ao fim deste processo, o pronunciamento do Conselho Nacional seja invalidado, com repercussão sobre o provimento, por merecimento, da 12ª Promotoria de Justiça de Aparecida de Goiânia, os envolvidos serão reconduzidos ao estado anterior, o que sinaliza a inexistência do perigo na demora autorizador da concessão da tutela provisória, sem a instauração do contraditório.
+    3. Do exposto, indefiro o pedido de liminar.
+    4. Comunique-se, com urgência, ao Conselho Nacional do Ministério Público e ao Conselho Superior do Ministério Público do Estado de Goiás.
+    5. Havendo classe processual específica, reautue-se esta petição como ação originária, nos termos do art. 55, I, c/c o art. 56, IX, do Regimento Interno.
+    6. Retifique-se o polo passivo para constar a União, pessoa jurídica de direito público à qual pertence o Órgão.
+    7. Regularize a parte autora a representação processual.
+    8. Cite-se a parte ré para, querendo, apresentar contestação.
+    9. Publique-se.
+Brasília, 28 de setembro de 2021.
+Ministro NUNES MARQUES
+Relator
