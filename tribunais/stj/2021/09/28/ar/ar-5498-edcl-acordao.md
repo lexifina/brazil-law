@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de embargos de declaração opostos por AARON INDÚSTRIA DE RÓTULOS E ETIQUETAS ADESIVAS LTDA., em face do acórdão de relatoria deste signatário, o qual negou provimento ao agravo interno interposto contra a decisão quejulgou improcedente a presente ação rescisória em razão da inexistência de violação literal de disposição legal, a teor do art. 485, V, do CPC/73,nos termos da seguinte ementa:
+AGRAVO INTERNO NA AÇÃO RESCISÓRIA JULGADA IMPROCEDENTE POR DELIBERAÇÃO MONOCRÁTICA - VIOLAÇÃO DE LITERAL DISPOSIÇÃO DE LEI - NÃO OCORRÊNCIA - INSURGÊNCIA DA AUTORA.
+1. A ação rescisória fundada no art. 485, V, do CPC/73 (atual art. 966, V, do CPC/2015) pressupõe violação, frontal e direta, da literalidade da norma jurídica, de forma que seja possível extrair a ofensa literal do próprio conteúdo do julgado que se pretende rescindir. Precedentes.
+2. O v. acórdão ora impugnado, proferido pela eg. Terceira Turma, nos autos do Recurso Especial nº 1.362.023/CE, Rel. Min. Sidnei Beneti trilhou compreensão no sentido de que "(..) a alienação do imóvel locado subroga o adquirente nos direitos do locador, inclusive com legitimidade para ajuizamento da ação de despejo do contrato prorrogado por prazo indeterminado, nos termos do artigo 8º da Lei n. 8.245/91. Entretanto, no presente caso, o Tribunal de origem afastou a aplicação do instituto da subrogação na locação consignando a nulidade do título aquisitivo de propriedade exibido pelo adquirente."
+2.1. A solução dada à controvérsia pela decisão ora combatida não se mostrou em nenhum momento teratológica, mas, sim, cabível à resolução da demanda e ainda que desfavorável à autora da ação rescisória, não se revela ofensiva aos dispositivos legais ora suscitados.
+3. Agravo interno desprovido.
+Em suas razões, aembarganteaduzomissão no julgado acerca da necessidade de se prequestionar o art. 5º XXII da CF/88.(fls. 1997-2004)
+Foi apresentada impugnação. (fls. 2018-2025)
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA JULGADA IMPROCEDENTE -OMISSÃO - AUSÊNCIA. INSURGÊNCIA DAEMBARGANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC (art. 535 do CPC/73), o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado. Inexistindo quaisquer das máculas previstas nos aludidos dispositivos, não há razão para modificar a decisão impugnada. Precedentes.
+2. É incabível a análise de eventual afronta a dispositivo constitucional no âmbito do Superior Tribunal de Justiça, ainda que para fins de prequestionamento, sob pena de usurpação da competência da Corte Suprema. Precedentes da Corte Especial.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Os aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do artigo e artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende aembargante.
+Nesse sentido, cito precedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015;EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015, este último assim ementado:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado.
+(EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro
+LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.)
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado pela via dos embargos declaratórios, uma vez que esta eg. Segunda Seção, ao examinar a controvérsia, foi clara ao sustentar que não merece prosperar a alegada ofensa literal aos artigos 42, §3º, 467 e 468, todos do Código de Processo Civil de 1973, porquanto as instâncias ordinárias e o v. acórdão rescindendo, no exame da controvérsia, não extrapolaram os limites cognitivos da lide, de modo que a negativa de provimento do apelo nobre interposto pela autora, ora agravante,de modo que não há omissão e/ou contradição a ensejar o acolhimento dos presentes aclaratóriossendo, pois, de rigor, a sua rejeição.
+2. Ademais, vale ressaltar o entendimento pacificadono sentido de que "Não cabe a esta Corte Superior manifestar-se, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal". (ut. EDcl no AgInt no AgInt nos EREsp 1296074/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 16/06/2021, DJe 28/06/2021). No mesmo sentido, confiram-se:EDcl no AgRg na APn 945/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 08/06/2021, DJe 10/06/2021;AgInt nos EDv nos EAREsp 1520395/SC, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 16/12/2020, DJe 18/12/2020.
+Finalmente, cabe recordar e destacar aosembargantes, ante a redação do art. 1026, §2º, do NCPC, a possibilidade de aplicação de multa a recursos interpostos sem fundamentação idônea, constituindo-se, na realidade, em mero inconformismo com a decisão proferida por este órgão colegiado.
+3. Do exposto, rejeita-se os embargos de declaração.
+É o voto.
