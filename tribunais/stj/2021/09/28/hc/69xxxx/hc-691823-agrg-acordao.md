@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS. FURTO QUALIFICADO PELA ESCALADA DURANTE O REPOUSO NOTURNO. EXAME PERICIAL. AUSÊNCIA.VALIDADE DE OUTROS MEIOS DE PROVA. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1.Segundo entendimento desta Corte, excepcionalmente, quando presentes nos autos elementos aptos a comprovar a escalada de forma inconteste, pode-se reconhecer o suprimento da prova pericial, notadamente in casu, tendo em vista que toda a ação delitiva foi filmada com detalhes e pôde atestar, de forma cabal, que o paciente praticou a referida qualificadora para ter acesso ao imóvel da vítima. Precedentes (AgRg no HC n. 556.549/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021).
+2. Na hipótese,a ação criminosa, que não deixou vestígios,foi capturada e registrada pelas câmeras do sistema interno de vigilância e monitoramento do local onde se deramos fatos, corroborada pela confissãodo acusado e pelos depoimentos das testemunhas.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Jean Marcos Cordeiro Ribeirocontra a decisão monocrática de minha lavra, na qual indeferi liminarmente o habeas corpus, conforme fundamentos sintetizados na seguinte ementa (fl. 330):
+HABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO PELA ESCALADA DURANTE O REPOUSO NOTURNO. EXAME PERICIAL.AUSÊNCIA. VALIDADE DE OUTROS MEIOS DE PROVA. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+Writ indeferido liminarmente.
+Reitera o agravante a tese lançada na inicial do habeas corpuse argumenta que a decisão recorrida afrontou a própria jurisprudência da Sexta Turma, que prevê a imprescindibilidade do laudo pericial em casos como o dos autos.
+Defende quenão há dúvidas que o crime deixou vestígios e, para incidir a qualificadora de escalada, é indispensável a realização do exame pericial, que apenas não foi realizado por inoperância do Estado-acusação, que sequer justificou a impossibilidade da produção da perícia (fl. 341).
+Aduz, em favor de sua tese, que,diverso do exposto pelo Ministro Relator na r. decisão vergastada, o Superior Tribunal de Justiça consolidou o entendimento de que, para a configuração das qualificadoras do furto pelo rompimento de obstáculo e escalada, é necessária a realização do exame pericial, nos termos do artigo 171do Código de Processo Penal(fl. 397).
+Ao final, requer a reconsideração da decisão agravada ou, caso contrário, a sua submissão ao órgão colegiado competente.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS. FURTO QUALIFICADO PELA ESCALADA DURANTE O REPOUSO NOTURNO. EXAME PERICIAL. AUSÊNCIA.VALIDADE DE OUTROS MEIOS DE PROVA. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1.Segundo entendimento desta Corte, excepcionalmente, quando presentes nos autos elementos aptos a comprovar a escalada de forma inconteste, pode-se reconhecer o suprimento da prova pericial, notadamente in casu, tendo em vista que toda a ação delitiva foi filmada com detalhes e pôde atestar, de forma cabal, que o paciente praticou a referida qualificadora para ter acesso ao imóvel da vítima. Precedentes (AgRg no HC n. 556.549/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021).
+2. Na hipótese,a ação criminosa, que não deixou vestígios,foi capturada e registrada pelas câmeras do sistema interno de vigilância e monitoramento do local onde se deramos fatos, corroborada pela confissãodo acusado e pelos depoimentos das testemunhas.
+3. Agravo regimental improvido.
+VOTO
+Não obstante as alegações do agravante, não lhe assiste razão, devendo a decisão monocrática ser mantida pelos seus próprios fundamentos.
+Ora, ao contrário do que alega o recorrente, não há nenhuma afronta ao entendimento firmado pela Sexta Turma acerca do tema em questão, pois, no julgamento do REsp n. 1.320.298/MG, concluiu-se pela possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste.
+Ou seja, oreconhecimento da qualificadora da escalada, prevista no art.155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo, como ocorrido nestes autos.(AgRg no AREsp n. 1.519.470/MT, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/7/2020 - grifo nosso).
+Destarte, não há ilegalidade a ser sanada na hipótese, umavez que, segundo a Corte estadual, no caso concreto, a transposição do portão realizada pelo Apelante não deixou vestígios e foi comprovada poroutros meios probatórios(fls. 309/310).
+Reafirmo, portanto, que, quando presentes nos autos elementos aptos a comprovar a escalada de forma inconteste, pode-se reconhecer o suprimento da prova pericial, notadamente in casu, tendo em vista quetoda a ação delitiva foi filmada com detalhes e pôde atestar, de forma cabal, que o paciente praticou a referida qualificadora para ter acesso ao imóvel da vítima. Precedentes (AgRg no HC n. 556.549/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021).
+Ante o exposto,nego provimentoao agravo regimental.
