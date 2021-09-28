@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União contra decisão proferida pelo Tribunal Regional Federal da 4ª Regiãoassim ementada (e-STJ fl. 640):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. DEFESA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS ADVOCATÍCIOS. PRINCÍIPIO DA CAUSALIDADE. CPC DE 1973.
+1. A exceção de pré-executividade não visa substituir a forma própria de defesa para o executado no caso de execução de sentença contra a Fazenda Púbica, ou seja, não promove o desuso dos embargos à execução previsto no art. 741 do CPC de 1973.
+2. No caso dos autos, ainda que o juiz da execução tenha acolhido a pretensão do executado quanto ao excesso de execução apontado, tenho que, também, deve ser mantida a decisão que deixou de condenar o exequente em honorários, em vista do erro grosseiro da União em se opor contra a execução por meio de exceção de pré- executividade.
+Alega a parte recorrente, preliminarmente, violação do art. 1.022, II, do CPC/2015. No mérito, defende contrariedade do art. 85 do CPC/2015, afirmando ser cabível a fixação de honorários em sede de exceção de pré-executividade e deduzindo que o incidente era cabível no particular.
+Sem contrarrazões.
+Passo a decidir.
+Em primeiro lugar, registro que não há violação do art. 535 do CPC/1973 (1.022 do CPC/2015) quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado, como no caso dos autos.
+O decisum se manifestou expressamente sobre a questão controvertida (cabimento, em geral, da condenação em honorários em exceção de pré-executividade, mas não no caso dos autos, dado o erro grosseiro do ente público), rejeitando, ainda que por lógica (tacitamente), os fundamentos da União.
+O que queria a embargante era rediscutir o mérito da decisão no trecho em que lhe foi desfavorável, não se prestando os aclaratórios a essa função.
+Nesse mesmo sentido: MANOEL ERHARDT (desembargador convocado do TRF5), Primeira Turma, julgado em 14/09/2021, DJe 16/09/2021; EDcl no AgInt no REsp 1.896.032/SP, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 08/09/2021, DJe 10/09/2021; EDcl no AgInt no RE nos EDcl no REsp 1.823.284/SP, Rel. Ministro JORGE MUSSI, Corte Especial, julgado em 08/09/2021, DJe 13/09/2021.
+Além disso, o magistrado não está obrigado a responder a todas as alegações das partes, nem tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 29.9.2014.
+No mérito propriamente dito, o recurso não merece conhecimento.
+Entendeu o juízo de origem que:
+tenho entendimento de que, se acolhida a exceção de pré-executividade para reconhecer a inexistência de valores a serem executados, são devidos honorários advocatícios a serem suportados pela parte exeqüente, em face do princípio da causalidade.
+Contudo, no caso dos autos, a União se utilizou do recurso de exceção de pré-executividade após ter sido citada nos termos do art. 730 do CPC de 1973. Alegou, em sua defesa, matérias restritas à apreciação em sede de embargos à execução. A exceção de pré-executividade não visa substituir a forma própria de defesa para o executado no caso de execução de sentença contra a Fazenda Púbica, ou seja, não promove o desuso dos embargos à execução previsto no art. 741 do CPC de 1973.
+Assim, ainda que o juiz da execução tenha acolhido a pretensão do executado quanto ao excesso de execução apontado, tenho que, também, deve ser mantida a decisão que deixou de condenar o exequente em honorários, em vista do erro grosseiro da União em se opor contra a execução por meio de exceção de pré-executividade. (e-STJ fl. 638)
+Apenas revolvendo toda a matéria fática do processo se poderia concluir de modo distinto da Corte de origem, no sentido de que a apresentação da exceção de pré-executividade, no particular, não apresentava erro grosseiro, como defende a União, situação que esbarra no óbice da súmula 7 desta Corte.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
