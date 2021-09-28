@@ -1,0 +1,17 @@
+Solução de Consulta Cosit nº 158, de 24 de setembro de 2021
+Assunto: Imposto sobre a Importação – II
+IMPORTAÇÃO POR ENCOMENDA. DISPENSABILIDADE DE IDENTIFICAÇÃO DO ENCOMENDANTE DO ENCOMENDANTE PREDETERMINADO. INFRAÇÕES POR FRAUDE, SIMULAÇÃO OU INTERPOSIÇÃO FRAUDULENTA. PRAZO DE ESTOQUE.
+A importação por encomenda envolve, usualmente, apenas dois agentes econômicos, ou seja, o importador por encomenda e o encomendante predeterminado, que são, respectivamente, o contribuinte e o responsável solidário pelos tributos incidentes. A presença de um terceiro envolvido - o encomendante do encomendante predeterminado - não é vedada pela legislação, não descaracteriza a operação de importação por encomenda, e, portanto, não é obrigatória sua informação na Declaração de Importação, desde que as relações estabelecidas entre os envolvidos na importação indireta representem transações efetivas de compra e venda de mercadorias.
+A ocorrência de relações comerciais autênticas com terceiros, nos casos de importação por encomenda, por si só, não caracteriza ocultação do real comprador mediante fraude, simulação ou interposição fraudulenta, de que trata o inciso V, do art. 23 do Decreto-Lei (DL) nº 1.455, de 1976, ou acobertamento de reais intervenientes ou beneficiários, de que trata o art. 33 da lei nº 11.488, de 2007, desde que as relações estabelecidas entre todas as partes sejam legítimas, com comprovação da origem, disponibilidade e transferência dos recursos utilizados, observado o disposto no § 2º do art. 23 do DL nº 1.455, de 1976.
+A simples vinculação societária entre empresas nacionais envolvidas em operação legítima de importação por encomenda não se confunde com a figura da infração de ocultação do sujeito passivo mediante fraude, simulação ou interposição fraudulenta, de que trata o inciso V, do art. 23 do DL nº 1.455, de 1976.
+A legislação aduaneira de regência não estabelece prazo mínimo para permanência de mercadoria importada em estoque, seja por parte do importador ou por parte do encomendante predeterminado. O curto tempo de permanência de mercadoria em estoque não tem o condão de, isoladamente, descaracterizar modalidade de importação indireta por encomenda, de que trata o art. 11 da Lei nº 11.281, de 2006.
+Dispositivos Legais: Constituição Federal, art. 237; Decreto-Lei nº 1.455, de 1976, art. 23, com redação da Lei nº 10.637, de 2002; Lei nº 11.281, de 2006, arts. 11 e 13; Lei nº 11.488, de 2007, art. 33; Decreto nº 70.235, de 1972, art. 49; Decreto nº 6.759, de 2009 (Regulamento Aduaneiro), art. 18 e art. 106, § 1º, II; Decreto nº 7.212, de 2010, art. 264; Instrução Normativa RFB nº 1.861, de 2018, art. 3º; e Instrução Normativa RFB nº 1.986, de 2020.
+Assunto: Processo Administrativo Fiscal
+CONSULTA. INEFICÁCIA PARCIAL.
+É ineficaz a consulta na parte que não atende aos requisitos exigidos, especificamente em relação às perguntas de números 2 (dois), 3(três), 6 (seis), e à primeira parte da pergunta nº 7 (sete), tendo em vista que os referidos questionamentos não observam o previsto nos incisos II, XI e XIV do art. 18 da IN RFB nº 1.396, de 2013, que regulamenta o processo de consulta relativo à interpretação da legislação tributária e aduaneira no âmbito da Secretaria Especial da Receita Federal do Brasil.
+Dispositivos Legais: Art. 18, incisos II, XI e XIV, da Instrução Normativa RFB nº 1.396, de 2013.
+SC Cosit nº 158-2021
+[arquivo anexo: SC Cosit nº 158-2021.pdf]
+CLÁUDIA LÚCIA PIMENTEL MARTINS DA SILVA
+Coordenadora-Geral
+Substituta
