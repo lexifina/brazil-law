@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por ANGELA DO CARMO SANTOS contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que não admitiu recurso especial, fundado na alínea "c" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 229):
+PREVIDENCIÁRIO. REEXAME NÃO CONHECIDO. HONORÁRIOS ADVOCATÍCIOS. CARÁTER PERSONALÍSSIMO. APELAÇÃO INTERPOSTA PELA PARTE AUTORA NÃO CONHECIDA. ILEGITIMIDADE.
+1. A sentença se enquadra entre as hipóteses de exceção de submissão ao reexame necessário previstas nos § 3º e 4º do artigo 496 do CPC/2015. Reexame não conhecido.
+2. O presente recurso versa, exclusivamente, sobre honorários de sucumbência e foi interposto pela parte autora da ação principal, é de rigor o reconhecimento da ilegitimidade recursal, ensejando o não conhecimento do recurso. 3. Remessa necessária não conhecida. Apelação não conhecida.
+Nas suas razões, a recorrente alega que o acórdão recorrido deuao tema atinente aos honorários advocatícios interpretação divergente da que havia dado este Superior Tribunal, argumentando que a parte autora tem legitimidade concorrente para pleitear as verbas sucumbenciais.
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Verifico que a pretensão não merece prosperar.
+É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação, clara e precisa, de dispositivo de lei federal implica deficiência na fundamentação do recurso especial.
+Na espécie, não há como afastar a incidência do óbice contido na Súmula 284 do Supremo Tribunal Federal, porquanto o acórdão impugnado decidiu com fundamento no art. 23 da Lei n. 8.906/1994, porém o recorrente não se desincumbiu de apontar, na fundamentação do apelo extremo, qual norma legal teria sido violada (vide e-STJ fls. 240/252), inclusive em razão do dissídio, procedimento indispensável ao conhecimento do recurso interposto com fulcro nas alíneas "a" ou "c" do permissivo constitucional.
+Vejam-se, a propósito, os precedentes de ambas as Turmas que integram a Primeira Seção deste Tribunal Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁUSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+1. O Tribunal de origem não apreciou a controvérsia sob o enfoque do dispositivo legal apontado como violado (artigo 19, XIII, do Decreto 6.944/99), tampouco foram opostos embargos declaratórios para suprir eventual omissão neste aspecto. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 770.014/SC, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/02/2016).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA. RURAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+Observa-se grave defeito de fundamentação no apelo especial, uma vez que o agravante não particulariza quais os preceitos legais infraconstitucionais estariam supostamente afrontados. Assim, seu recurso não pode ser conhecido nem pela alínea "a" e tampouco pela alínea "c" do permissivo constitucional, porquanto, ao indicar a divergência jurisprudencial sem a demonstração do dispositivo de lei violado, caracterizadas estão a alegação genérica e a deficiência de fundamentação recursal.
+Agravo regimental improvido. (AgRg no AREsp n. 821.869/SP, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 24/02/2016).Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido na Súmula 284 do Supremo Tribunal Federal.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem majoração da verba honorária em razão de a recorrente remanescer como vencedora da causa principal.
+Publique-se. Intimem-se.
