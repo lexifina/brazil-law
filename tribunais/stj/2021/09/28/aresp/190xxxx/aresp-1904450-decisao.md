@@ -1,0 +1,59 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INCÊNDIO EM PROPRIEDADE RURAL. CAUSA DETERMINANTE. CURTO-CIRCUITO REDE ELÉTRICA. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA. OMISSÃO NA MANUTENÇÃO DA REDE ELÉTRICA. NEXO CAUSAL CONFIGURADO. CULPA CONCORRENTE. NÃO DEMONSTRADA. DANO MATERIAL COMPROVADO. DANO MORAL INDEVIDO. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. HONORÁRIOS DE SUCUMBÊNCIA. VERBA FIXADA CORRETAMENTE.IMPOSSIBILIDADE DE MINORAÇÃO E REDISTRIBUIÇÃO.SENTENÇA MANTIDA.
+A responsabilidade da concessionária de energia elétrica é objetiva, com fulcro no art. 37, §6º da Constituição Federal e art. 14 do CDC, que, na qualidade de prestadora de serviço público, responde independentemente de culpa, pelos danos que houver dado causa, por ação ou omissão.
+Na qualidade de prestadora de serviço público essencial cabe a concessionária o dever de zelar pela adequação do serviço prestado, na forma do art. 6º, §1º, da Lei nº 8.987/95.
+Comprovado o nexo causal entre o incêndio ocasionado em propriedade do autor e a conduta da concessionária, que se omitiu quanto ao seu dever de manutenção da rede elétrica, resta caracterizada a responsabilidade civil.
+Culpa concorrente não configurada, porquanto compete à concessionária, mas não ao usuário, o dever de manutenção da rede elétrica, o que inclui o serviço de poda para limpeza da área de contato entre a fiação e a vegetação, sobretudo por se tratar de atividade perigosa.
+Deve prevalecer a indenização por dano material nos moldes como consignado na sentença, sobretudo porque, quanto a sua caracterização, esta restou demonstrada pelo laudo pericial, e, quanto a sua extensão e quantificação, inexiste prova robusta e convincente em sentido contrário, a justificar sua descaracterização.
+O pleito de redução da verba honorária bem como a sua redistribuição não encontra respaldo, posto que bem fixada pelo juiz singelo, atendendo às particularidades da causa, bem como aos parâmetros insculpidos no art. 85, §2º, do CPC.
+Não demonstrou o autor a ocorrência de fatos e acontecimentos capazes de romper com o seu equilíbrio psicológico, necessários para a configuração da pretensão indenizatória, razão pela qual não há que se falar em indenização por dano moral.
+Quando o magistrado a quo entende suficientemente instruído o processo e desnecessária a dilação probatória, mormente, quando a prova documental e pericial é substancial e apta a proporcionar decisão fundamentada, segundo o livre convencimento do julgador, não configura cerceamento de defesa, nem ofensa às garantias constitucionais previstas no inciso LV do art. 5º da Constituição Federal.
+Recursos conhecidos e improvidos.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 927, 884 e 944, do CC; 85 do CPC de 2015.
+Alega, em síntese, que a parte agravada "não trouxe aos autos NENHUMA prova capaz de ratificar suas inúmeras alegações de perdas em decorrência do fogo". Assim, não seriam cabível a indenização a título de dano material.
+Enfatiza que os danos materiais não seriam presumíveis econtinua:
+22. Ao contrário, a Recorrido se limitou a fazer pedidos com valores nitidamente aleatórios, sendo que o conjunto probatório apresentado não se presta a demonstração dos supostos danos, muito menos que tenham alçado o valor por ele perseguido.
+No mais, defende a necessidade de redução dos honorários advocatícios.
+É o relatório.DECIDO.
+2. Em relação aoartigo884do CC, a alegação genérica de violação à lei federal, sem indicar em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF.
+3. Por outro lado, em relação à alegada violação aos artigos 927 e 944, do CC, com base no conjunto fático-probatório presente nos autos, o Tribunal de origem reconheceu o cabimento dos danos materiais, sua extensão e quantificação, assim consignando:
+No que pertine ao âmago recursal, percebo que as razões lançadas pela Apelante fundam-se na minuciosa reapreciação do arcabouço fático- probatório jungido aos autos, no intuito de refutar a condenação que lhe é dirigida, sob o sustentáculo de que inexiste comprovação de nexo causal a amparar a pretensão autoral.
+ .. .
+Incontroverso, no presente caso, a ocorrência do incêndio na propriedade do autor. Resta perscrutar a sua causa determinante, e a extensão dos danos ocasionados.
+Inicialmente, aduz a Recorrente que a conclusão dada pela perícia técnica não é suficiente para se aferir a origem do incêndio ocorrido, não sendo possível concluir que houve má prestação de serviços por parte da concessionária de energia.
+Não obstante, ao contrário do que afirma, a dinâmica do sinistro, bem como sua origem e os danos materiais daí decorrentes restaram sobejamente demonstrados pelas provas colacionadas aos autos.
+A corroborar seu pleito, o autor acostou boletim de ocorrência relatando o ocorrido, protocolo administrativo nº 2017.02367, fotos da rede elétrica da requerida (evento 45 autos de origem), no ponto de ocorrência do curto circuito, mostrando poste de sua sustentação com intensa vegetação do tipo "trepadeira".
+A instrução processual produziu elementos que esclarecem a origem do fogo, nesse sentido cito trecho da sentença:
+ .. .
+Em sendo assim, por inexistir elementos probatórios que infirmem as provas produzidas em juízo, que concluíram que a causa do acidente adveio de um curto-circuito da rede elétrica, não prevalece a mera alegação de que inexiste prova concreta do nexo causal entre o dano ocasionado e a conduta da concessionária.
+Ademais, a conduta ilícita da concessionária Apelante consistiu na omissão no que tange à manutenção e fiscalização do seu serviço, o que acabou por desencadear o incêndio na propriedade do Autor.
+Outrossim, consabido que é dever da concessionária proceder na manutenção e conservação de seus bens, com o controle periódico em sua rede de tensão, de forma a prevenir queimadas. Nesse sentido:
+ .. .
+Ainda, não há como reconhecer qualquer omissão por parte do Apelado, de modo a responsabilizá-lo de forma concorrente pelo prejuízo ocasionado, mormente porque, exigir do consumidor, nesta condição, a obrigação de efetuar a limpeza da passagem elétrica, sem que haja os meios necessários para tanto, e em se tratando de atividade perigosa, por sua própria natureza, é totalmente descabido.
+Em assim sendo, patente o nexo de causalidade refutado pela Apelante no caso em espeque, atraindo sua responsabilidade pelos danos suportados pelo consumidor, como consignado na sentença sob açoite.
+ .. .
+No tocante aos danos materiais, entendo que a sentença também não merece retoque, justamente porque a Recorrente não produziu provas contundentes a desconstituir as provas trazidas na perícia do juízo.
+Nessa quadratura, cabe apenas aquilatar a extensão de todos os danos suportados pelo autor, à luz do vindicado na peça de ingresso e cotejo às provas amealhadas aos autos, dentre as quais destaco os esclarecimentos prestados pelo perito, engenheiro agrônomo, Roberto Dante Garcia, que vistoriou a área objeto do litígio, nos seguintes termos:
+ .. .
+Por tal razão, deve prevalecer a indenização por dano material nos moldes como consignado na sentença, sobretudo porque, quanto a sua caracterização, esta restou demonstrada pelo laudo pericial, e, quanto a sua extensão e quantificação, inexiste prova robusta e convincente em sentido contrário, a justificar sua descaracterização.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Por fim, em relação à suposta violação ao artigo 85 do CPC de 2015, o TJTO frisou que:
+Quanto aos honorários advocatícios, entendo que o percentual arbitrado não comporta reparos.
+Isso porque, quanto à importância concernente aos honorários advocatícios, o julgador deve observar o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Em outras palavras, o arbitramento dos honorários advocatícios deve refletir não apenas a complexidade da matéria ou da tramitação do feito, mas, sobretudo, o compromisso ético e científico do advogado com a realização do direito em questão.
+Nesse sentido, verifico que o pleito de redução da verba honorária bem como a sua redistribuição não encontra respaldo, posto que bem fixada pelo juiz singelo, atendendo às particularidades da causa, bem como aos parâmetros insculpidos no art. 85, §2º, do CPC.
+Nesse contexto, o reexame dos critérios fáticos, levados em consideração para fixar os honorários advocatícios, em princípio, é inviável em sede de recurso especial, nos termos da jurisprudência dominante desta Corte.
+Com exceção de casos de valores exorbitantes ou ínfimos - o que não se verifica na espécie -, a discussão acerca do quantum da verba honorária encontra-se no contexto fático-probatório dos autos, o que obsta o revolvimento do valor arbitrado nas instâncias ordinárias pelo Superior Tribunal de Justiça, consoante entendimento da Súmula 7 desta Corte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. NOMEAÇÃO À AUTORIA. 1. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 2. ALEGAÇÃO DE EXCESSO NO VALOR ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. NÃO CARACTERIZADO. REVISÃO. SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+ .. .
+2. De fato, "a revisão dos honorários advocatícios, salvo se excessivos ou ínfimos, não pode ocorrer na instância especial, pois envolve reexame de circunstâncias fáticas" (AgInt no AREsp n.1.009.704/SC, Relatora a Ministra Nancy Andrighi, DJe 24/03/2017).
+2.1. No caso, o acórdão afastou o pleito de redução da verba honorária, por considerar que no seu arbitramento foi observada estritamente a regra do art. 85, § 2º, do CPC/2015, ressaltando, ainda, que foi fixado no menor patamar estabelecido em lei, qual seja, 10% (dez por cento), além de que o processo tramita há 7 (sete) anos. Dessa forma, refutar as conclusões fáticas alcançadas pela Corte estadual exigiria o reexame de provas, providência vedada nesta instância especial, nos termos da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1170808/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
