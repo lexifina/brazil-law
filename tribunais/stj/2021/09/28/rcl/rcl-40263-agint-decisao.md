@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se deagravo internointerposto pela Uniãocontra decisão de minha lavra, em quejulguei procedente a reclamação para determinar o retorno dos autos do AREsp 822.540/RS ao Tribunal de origem, a fim de que se cumpra a decisão ali proferida, notadamente o disposto noart.1040do CPC/2015.
+Sustenta a agravante que a Corte de origem não desrespeitou a decisão desta Corte de Justiça, ao proceder novo exame deadmissibilidade do recurso especial, com aplicação dos óbices contidos nas Súmulas 283 do STF e 7 do STJ, visto que, no âmbito de sua competência, entendeu que as conclusões do Tema 810 do STF não se aplicam ao caso, nos termos do art. 1040, I, do CPC/2015.
+Impugnação apresentada às e-STJ fls. 152/157. Informações trazidas pela ora agravada, às e-STJ fls. 159/167.
+Passo a decidir.
+Ao julgar oAREsp 822.540/RS (DJe 02/08/2017),determinei a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida (RE 870.947/SE - Tema 810 do STF), fosse observado o disposto no art. 1.040 do CPC/2015.
+Às e-STJ fls. 159/167, a ora agravada noticia que o Tribunal Regional Federal da 4ª Região, em sede de juízo de retratação, deu parcial provimento ao seu recurso de apelação, tendo o referido acórdão transitado em julgado em 15/09/2021, juntando, na oportunidade, a documentação necessária para comprovar o alegado.
+Em razão desse novo cenário fático-processual, forçoso reconhecer a perda superveniente do objeto do presente agravo interno, porquanto o decisum que originou a presente reclamaçãonão mais subsiste, e o acórdão proferido pelaCorte a quo, emjuízo de retratação,encontra-se acobertado pela coisa julgada.
+Diante do exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça,JULGO PREJUDICADOo presenteagravo interno.
