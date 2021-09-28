@@ -1,6 +1,7 @@
 Art. 2º A atividade econômica de que trata o art. 1º desta Lei é de natureza comercial, exercida por pessoa física ou jurídica em regime de livre concorrência, e depende de prévia inscrição do interessado em sua exploração no Registro Nacional de Transportadores Rodoviários de Cargas - RNTR-C da Agência Nacional de Transportes Terrestres - ANTT, nas seguintes categorias:
 I - Transportador Autônomo de Cargas - TAC, pessoa física que tenha no transporte rodoviário de cargas a sua atividade profissional;
 II - Empresa de Transporte Rodoviário de Cargas - ETC, pessoa jurídica constituída por qualquer forma prevista em lei que tenha no transporte rodoviário de cargas a sua atividade principal.
+III - Cooperativa de Transporte Rodoviário de Cargas (CTC), sociedade cooperativa na forma da lei, constituída por pessoas físicas e/ou jurídicas, que exerce atividade de transporte rodoviário de cargas;
 § 1º O TAC deverá:
 I - comprovar ser proprietário, co-proprietário ou arrendatário de, pelo menos, 1 (um) veículo automotor de carga, registrado em seu nome no órgão de trânsito, como veículo de aluguel;
 II - comprovar ter experiência de, pelo menos, 3 (três) anos na atividade, ou ter sido aprovado em curso específico.

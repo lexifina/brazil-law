@@ -1,1 +1,5 @@
 Art. 5º O descumprimento do disposto nesta Lei sujeitará o infrator à aplicação de multa administrativa de R$ 550,00 (quinhentos e cinqüenta reais) a R$ 10.500,00 (dez mil e quinhentos reais), a ser aplicada pelo órgão competente, na forma do regulamento.
+§ 1º No âmbito do processo administrativo sancionador, as notificações de autuação poderão ser encaminhadas por meio eletrônico para endereço eletrônico cadastrado formalmente para esse fim, de forma a assegurar a ciência da imposição da penalidade, nos termos do regulamento.
+§ 2º A notificação de autuação será expedida no prazo máximo de 30 (trinta) dias, contado da data do cometimento da infração, sob pena de o auto de infração ser arquivado e seu registro julgado insubsistente.
+§ 3º Da autuação e da aplicação de sanção caberá a apresentação, respectivamente, de defesa e de recurso pelo autuado, no prazo estabelecido em norma do órgão fiscalizador competente.
+§ 4º Prescreve em 12 (doze) meses o prazo para cobrança da pena de multa a que se refere o caput deste artigo, a contar da notificação de autuação.
