@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE HOMICÍDIO, RECEPTAÇÃO, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR, DESOBEDIÊNCIA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. INSURGÊNCIA CONTRA DECISÃO DA ORIGEM QUE INDEFERE O PLEITO LIMINAR. NÃO CABIMENTO. SÚMULA N. 691/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus ante decisum que indefere liminar no writ precedente, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do Supremo Tribunal Federal), o que não ocorre na espécie, já que invoca o decreto prisional a reiteração delitiva de Luis Fernando, enfatizando, ainda, que os agravantes "desobedeceram ordem de parada e jogaram o carro contra o Policial Rodoviário Federal, que só não foi atropelado pois se jogou para fora da pista, o que configura evidente tentativa de homícidio; após, emprenderam fuga em alta velocidade, fazendo manobras perigosas, jogando carros para o acostamento, inclusive caminhões, e ainda ligaram um dispositivo com diesel que jogava fumaça na rodovia, colocando um grande número de pessoas em risco, utilizando para tanto um carro roubado, com placas clonadas e um rádio comunicador instalado, sem o banco traseiro e sem o forro das portas, declarando, ainda, aos policiais que o veículo seria utilizado para "estouro", ou seja, para uso em ilícitos diversos como tráfico de drogas, armas e contrabando, o que sinaliza possível participação em organização criminosa".
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Cuida-se de agravo regimental interposto contra a decisão da Presidência desta Corte que indeferiu liminarmente o habeas corpus impetrado em favor de LUIS FERNANDO DOS SANTOS e VICTOR HUGO CREMONESE, ante a aplicação do enunciado n. 691 da Súmula do Supremo Tribunal Federal (e-STJ fls. 92/93).
+Consta dos autos que os pacientes foram presos em flagrante, no dia 24 de julho de 2021, em razão da suposta prática dos crimes previstos nos arts. 121, c/c o art. 14, inciso II, 180, 311, e 330, todos do Código Penal, e nos arts. 70 da Lei n. 4.117/1962, e 309 da Lei n. 9.503/1997. As prisões foram convertidas em preventiva.
+Em suas razões, reitera a defesa as alegações formuladas na inicial, asseverando inexistir motivação idônea para a segregação antecipada dos agravantes.
+Pugna, assim, seja concedida a liberdade aos agravantes.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não há como acolher a insurgência.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus ante decisum que indefere liminar no writ precedente (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie, já que invoca o decreto prisional a reiteração delitiva de Luis Fernando, enfatizando, ainda, que os agravantes "desobedeceram ordem de parada e jogaram o carro contra o Policial Rodoviário Federal, que só não foi atropelado pois se jogou para fora da pista, o que configura evidente tentativa de homícidio; após, emprenderam fuga em alta velocidade, fazendo manobras perigosas, jogando carros para o acostamento, inclusive caminhões, e ainda ligaram um dispositivo com diesel que jogava fumaça na rodovia, colocando um grande número de pessoas em risco, utilizando para tanto um carro roubado, com placas clonadas e um rádio comunicador instalado, sem o banco traseiro e sem o forro das portas, declarando, ainda, aos policiais que o veículo seria utilizado para "estouro", ou seja, para uso em ilícitos diversos como tráfico de drogas, armas e contrabando, o que sinaliza possível participação em organização criminosa" (e-STJ fl. 33).
+Assim, as questões formuladas, notadamente diante das peculiaridades do caso, necessitam de averiguação mais aprofundada pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado. Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.3. Agravo regimental improvido.
+(AgRg no HC 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
