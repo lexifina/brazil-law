@@ -1,0 +1,102 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO, assim ementado:
+APELAÇÃO - PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER C.C. PEDIDO INDENIZATÓRIO - Autora diagnosticada com artrose no joelho. Prescrição médica de artroplastia. Recusa de cobertura baseada em exclusão do procedimento do rol da ANS. Sentença que julgou procedente a ação. Insurgência da ré. Desacolhimento. Doença não excluída do contrato. Procedimento cirúrgico e materiais que têm a finalidade de restabelecer a saúde da autora. Recusa abusiva, pois coloca o consumidor em desvantagem exagerada. Hipótese de incidência da Súmula 102 do Tribunal de Justiça de São Paulo. Irrelevância de o contrato não ser adaptado à Lei de Planos de Saúde. Abusividade frente ao CDC e a orientação sumular desta Corte. Precedentes.
+Sentença mantida. Honorários advocatícios elevados, nos termos do artigo 85, §11, do NCPC. Recurso desprovido.
+Em suas razões recursais, aponta a parte recorrente ofensa ao disposto nos artigos 16, inciso VI e 35 da Lei 9.656/1998 e artigo 54, § 4º do CDC, argumentando a irretroatividade da Lei 9.656/1998 que regula os planos e seguros privados de assistência à saúde aos contratos firmados antes de sua vigência, o que ao ser ver, afastaria a possibilidade de a recorrente ser compelida a cobertura do procedimento vindicado, por estar expressamente excluída do contrato firmado entre as partes.
+Aduz ainda que, no presente caso, não se poderia ter sido aplicado as disposições do Código de Defesa do Consumidor, tendo em vista que o contrato foi firmado antes da vigência da Lei 9.656/1998 e ainda não havia sido a ela adaptado por escolha do consumidor.
+Sem apresentação de contrarrazões, consoante certidão à fl. 404.
+Crivo positivo de admissibilidade na origem (fls. 405-406).
+É o relatório.
+DECIDO.
+2. Inicialmente, verifica-se que o Tribunal de origem julgou abusiva a recusa da operadora frente ao CDC e ao princípio da boa-fé ou equidade.
+Confira-se:
+Trata-se de ação de obrigação de fazer baseada em recusa de cobertura por parte de operadora de plano de saúde.
+Segundo consta dos autos, a autora é beneficiária do plano de saúde da ré e foi diagnosticada com artrose de joelho, sendo-lhe prescrita a cirurgia de artroplastia.
+A sentença julgou procedente a ação, determinando o dever de cobertura.
+Buscando reverter integralmente a sentença, a ré apresenta a presente insurgência recursal.
+Não se desconhece que as cláusulas excludentes de cobertura invocadas pela ré, ora apelante, colocam o consumidor em desvantagem exagerada e restringem direitos fundamentais inerentes à natureza do próprio contrato.
+Portanto, conquanto as disposições da Lei nº 9.656/1998 não retroajam para atingir contratos celebrados antes da sua vigência, a abusividade das cláusulas pode ser analisada à luz do CDC.
+A súmula nº 608 1 , do Tribunal Superior de Justiça, e a súmula nº 100 2 , deste E. Tribunal de Justiça, firmaram o entendimento de que devem os contratos de plano/seguro saúde submeter-se aos ditames do Código de Defesa do Consumidor.
+A atividade oferecida ao mercado pelo plano/seguro de saúde enquadra-se perfeitamente no conceito de serviço, firmado pelo art. 3º, §2º 3 , do Código de Defesa do Consumidor, devendo, portanto, o caso dos autos, ser analisado, à luz da proteção do consumidor, a imposição de cláusulas abusivas no fornecimento de serviços (art. 6º, IV 4 , do CDC).
+A autora comprovou a relação contratual com a ré e a indicação médica expressa para a cirurgia e os materiais em questão.
+Neste sentido, já é pacificado o entendimento deste E. Tribunal de Justiça que é abusiva a negativa de cobertura de custeio de tratamento sob o fundamento de sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS (Súmula nº 102 5 ).
+Afora isso, segundo entendimento do Superior Tribunal de Justiça "É abusiva a cláusula contratual que exclua da cobertura do plano de saúde algum tipo de procedimento ou medicamento necessário para assegurar o tratamento de doenças previstas pelo referido plano" (Jurisprudência em Teses - Direito Civil - Edição n. 2 - Planos de Saúde I - Tese n. 5).
+Com efeito, compete unicamente ao médico especialista que assiste ao paciente avaliar e prescrever o tratamento, e não à empresa prestadora de serviço de assistência médica, que não pode interferir na indicação feita pelo profissional da área médica. Entendimento contrário levaria o consumidor a deixar de experimentar os benefícios trazidos pelo avanço da medicina em prol de sua saúde, o que não se admite 6 .
+Deste modo, por cuidar-se de cirurgia que visa o restabelecimento da saúde da autora, havendo relatório médico de profissional habilitado a indicar o exame, incabível a negativa da seguradora, postura que fere a própria natureza do contrato, em afronta ao disposto no art. 51, § 1º, II 7 , do Código de Defesa do Consumidor.
+Tal recusa subtrai do consumidor condição mais favorável de restabelecimento e de sobrevivência, o que demonstra situação de patente desvantagem, incompatível com a boa-fé ou equidade.
+Portanto, absolutamente irrelevante o fato de o contrato em questão não ser adaptado à Lei de Planos de Saúde, pois a recusa é abusiva diante do CDC e da Súmula nº 102 deste Tribunal.
+Assim, o dever de cobertura da cirurgia deve ser reconhecido.  gn
+ ..
+3. A matéria referente ao art. 54, § 4º, do CDC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+4. No que diz respeito ao art. 35 da Lei n. 9.656/1998, pacificou-se nesta Corte o entendimento de que, embora a Lei n. 9.656/1998 não retroaja aos contratos celebrados antes de sua vigência, é possível aferir a abusividade de suas cláusulas à luz do Código de Defesa do Consumidor, ainda que tenham sido firmados antes mesmo de seu advento. Dada a natureza de trato sucessivo do contrato de seguro saúde, o CDC rege as renovações que se deram sob sua vigência, não havendo falar em retroação da lei nova, o que possibilita a verificação de abusividade de cláusulas contratuais. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CDC. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE. OBRIGAÇÃO DE TRATO SUCESSIVO. RENOVAÇÃO DO CONTRATO NA VIGÊNCIA DO CDC. INCIDÊNCIA DA LEGISLAÇÃO CONSUMERISTA.
+1. O Código de Defesa do Consumidor (Lei 8.078/90) não é aplicável aos contratos celebrados antes da sua vigência.
+2.- Embora o CDC não retroaja para alcançar efeitos presentes e futuros de contratos celebrados anteriormente a sua vigência, a legislação consumerista regula os efeitos presentes de contratos de trato sucessivo e que, por isso, foram renovados já no período de sua vigência.
+3. A discussão posta nos autos, incidência do CDC, foi objeto do devido prequestionamento no acórdão recorrido, não havendo óbice a sua apreciação nesta Corte. Para se examinar se o caso é, ou não, de aplicação do CDC foi submetida a esta Corte a análise das questões pertinentes ao deslinde do incidente, entre as quais a ocorrência de renovação do contrato, bem como a existência de obrigação de trato sucessivo, aspectos devidamente suscitados nas contrarrazões ao especial.
+4. Agravo regimental não provido."
+(AgRg no AgRg nos EDcl no REsp 323.519/MT, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/8/2012, DJe 18/9/2012.)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. SEGURO DE VIDA. COBERTURA. IMPLANTAÇÃO DE STENT. IMPRESCINDIBILIDADE PARA O TRATAMENTO. EXCLUSÃO CONTRATUAL. ABUSIVIDADE. SÚMULA 83/STJ.
+1. Embora a Lei 9.656/98 não retroaja aos contratos celebrados antes de sua vigência, é possível aferir a abusividade de suas cláusulas à luz do Código de Defesa
+do Consumidor, ainda que tenham sido firmados antes mesmo de seu advento.
+2. Face o entendimento preconizado por esta Corte, é abusiva a cláusula que prevê a exclusão, da cobertura do plano de saúde, de procedimentos imprescindíveis para o
+êxito de tratamento médico.
+3. Incidência da súmula 83/STJ.
+4. AGRAVO REGIMENTAL DESPROVIDO."
+(AgRg no REsp 1.260.121/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/11/2012, DJe 6/12/2012.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. ARTIGO 6º DA LICC. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. IRRETROATIVIDADE DA LEI 9.656/98. OBRIGAÇÃO DE TRATO SUCESSIVO. RENOVAÇÃO DO CONTRATO NA VIGÊNCIA DO CDC. INCIDÊNCIA DA LEGISLAÇÃO CONSUMERISTA.
+1.- Inexiste omissão ou ausência de fundamentação, não constando do acórdão embargado os defeitos previstos no artigo 535 do Código de Processo Civil, quando a decisão embargada tão-só mantém tese diferente da pretendida pela parte recorrente.
+2.- A matéria contida no art. 6º da LICC (atual LINDB) tem índole constitucional, razão pela qual é vedada a análise em Recurso Especial.
+3.- "Embora a Lei 9.656/98 não retroaja aos contratos celebrados antes de sua vigência, é possível aferir a abusividade de suas cláusulas à luz do Código de Defesa do Consumidor, ainda que tenham sido firmados antes mesmo de seu advento." (AgRg no REsp 1260121/SP)
+4.- Agravo improvido."
+(AgRg no AREsp 327.547/SP, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 25/6/2013, DJe 1/8/2013.)
+Com efeito, o contrato de seguro de saúde é obrigação de trato sucessivo, que se renova ao longo do tempo e, portanto, se submete às normas supervenientes, especialmente às de ordem pública, a exemplo do CDC, não significando, ademais, ofensa ao ato jurídico perfeito.
+A propósito, confira-se a ementa do julgado:
+DIREITO CIVIL E CONSUMIDOR. SEGURO SAÚDE. CONTRATAÇÃO ANTERIOR À VIGÊNCIA DO CDC E À LEI 9.656/98. EXISTÊNCIA DE TRATO SUCESSIVO. INCIDÊNCIA DO CDC, MAS NÃO DA LEI 9.656/98. BOA-FÉ OBJETIVA. PRÓTESE NECESSÁRIA À CIRURGIA DE ANGIOPLASTIA. ILEGALIDADE DA EXCLUSÃO DE "STENTS" DA COBERTURA SECURITÁRIA. DANO MORAL CONFIGURADO. DEVER DE REPARAR OS DANOS MATERIAIS.
+- As disposições da Lei 9.656/98 só se aplicam aos contratos celebrados a partir de sua vigência, bem como para os contratos que, celebrados anteriormente, foram adaptados para seu regime. A Lei 9.656/98 não retroage, entretanto, para atingir o contrato celebrado por segurados que, no exercício de sua liberdade de escolha, mantiveram seus planos antigos sem qualquer adaptação.
+- Embora o CDC não retroaja para alcançar efeitos presentes e futuros de contratos celebrados anteriormente a sua vigência, a legislação consumerista regula os efeitos presentes de contratos de trato sucessivo e que, por isso, foram renovados já no período de sua vigência.
+- Dada a natureza de trato sucessivo do contrato de seguro saúde, o CDC rege as renovações que se deram sob sua vigência, não havendo que se falar aí em retroação da lei nova.
+- A cláusula geral de boa-fé objetiva, implícita em nosso ordenamento antes da vigência do CDC e do CC/2002, mas explicitada a partir desses marcos legislativos, impõe deveres de conduta leal aos contratantes e funciona como um limite ao exercício abusivo de direitos.
+- O direito subjetivo assegurado em contrato não pode ser exercido de forma a subtrair do negócio sua finalidade precípua. Assim, se determinado procedimento cirúrgico está incluído na cobertura securitária, não é legítimo exigir que o segurado se submeta a ele, mas não instale as próteses necessárias para a plena recuperação de sua saúde.
+- É abusiva a cláusula contratual que exclui de cobertura a colocação de "stent", quando este é necessário ao bom êxito do procedimento cirúrgico coberto pelo plano de saúde. Precedentes.
+- Conquanto geralmente nos contratos o mero inadimplemento não seja causa para ocorrência de danos morais, a jurisprudência desta Corte vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+Recurso especial a que se dá parcial provimento.
+(REsp 735168/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/03/2008, DJe 26/03/2008)
+5. No mais, a conclusão encontra guarida nesta Corte Superior, que embora entenda que a Lei n. 9.656/1998 não retroage para abarcar contratos celebrados anteriormente à sua vigência, admite ser possível a declaração de nulidade de cláusulas limitadoras com base no Código de Defesa do Consumidor, que vulnerem a finalidade básica do contrato de plano de saúde e coloquem o consumidor em risco, como ora se apresenta.
+Com efeito, as instâncias ordinárias entenderam que a cláusula limitadora em relação ao fornecimento ao recorrido do marca-passo era abusiva, por negar ao segurado em risco o tratamento para a cirurgia e o material cirúrgico. Nessa toada:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE. LEI Nº 9.656/1998. IRRETROATIVIDADE. RECUSA DE COBERTURA. SÚMULA Nº 7/STJ. AUSÊNCIA DE FUNDAMENTO CAPAZ DE ALTERAR A DECISÃO AGRAVADA.
+1. Segundo o entendimento desta Corte, os contratos de plano de saúde anteriores à vigência da Lei nº 9.656/1998 se submetem às normas do CDC para o fim de aferir eventual abusividade.
+2. A jurisprudência do Superior Tribunal de Justiça reconhece que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para cada uma delas.
+3. É abusiva a negativa de cobertura pelo plano de saúde de procedimento, tratamento, medicamento ou material considerado essencial para preservar a saúde e a vida do paciente.
+4. No caso, o tribunal de origem, com base nos elementos dos autos, interpretou o contrato de forma favorável à agravada, sendo inviável a alteração de suas conclusões na via eleita, haja vista a incidência da Súmula nº 7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 475.558/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/05/2015, DJe 02/06/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUTORIZAÇÃO PARA TRATAMENTO. CLÁUSULA ABUSIVA. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de considerar que "a exclusão de cobertura de determinado procedimento médico/hospitalar, quando essencial para garantir a saúde e, em algumas vezes, a vida do segurado, vulnera a finalidade básica do contrato" (REsp 183.719/SP, Relator o Ministro LUIS FELIPE SALOMÃO, DJe de 13.10.2008).
+2. Tratando-se de contrato de adesão submetido às regras do CDC, a interpretação de suas cláusulas deve ser feita da maneira mais favorável ao consumidor, bem como devem ser consideradas abusivas as cláusulas que visam a restringir procedimentos médicos.
+3. O Tribunal a quo decidiu conforme o entendimento desta Corte Superior de que, havendo expressa indicação médica para realização do tratamento, mostra-se desarrazoada sua negativa de cobertura, devendo ser considerada abusiva a cláusula de sua exclusão.
+4. Agravo regimental não provido.
+(AgRg no AREsp 655.341/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/05/2015, DJe 25/05/2015)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL - - AÇÃO DE INDENIZAÇÃO POR DANO MORAL C/C REPETIÇÃO DE INDÉBITO EM RAZÃO DA INDEVIDA NEGATIVA DE COBERTURA FINANCEIRA DE EXAME DE RESSONÂNCIA MAGNÉTICA - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO RECLAMO. IRRESIGNAÇÃO DA OPERADORA DE PLANO DE SAÚDE.
+1. Aplicação da Lei 9.656/98 a contratos anteriores à sua vigência.
+Embora as disposições do aludido diploma legal, que dispõe sobre os planos e seguros privados de assistência à saúde, não retroajam para atingir contratos celebrados antes de sua vigência (quando não adaptados ao novel regime), a eventual abusividade das cláusulas pode ser aferida à luz do Código de Defesa do Consumidor. Isto porque "o contrato de seguro de saúde é obrigação de trato sucessivo, que se renova ao longo do tempo e, portanto, se submete às normas supervenientes, especialmente às de ordem pública, a exemplo do CDC, o que não significa ofensa ao ato jurídico perfeito" (AgRg no Ag 1.341.183/PB, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 10.04.2012, DJe 20.04.2012). Precedentes.
+2. Recusa indevida, pela operadora de plano de saúde, da cobertura financeira do tratamento médico do beneficiário. Ainda que admitida a possibilidade de previsão de cláusulas limitativas dos direitos do consumidor (desde que escritas com destaque, permitindo imediata e fácil compreensão), revela-se abusivo o preceito do contrato de plano de saúde excludente do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clinico ou do procedimento cirúrgico coberto ou de internação hospitalar.
+Precedentes.
+3. Agravo regimental desprovido, com a imposição de multa.
+(AgRg no REsp 1450673/PB, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/08/2014, DJe 20/08/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA. COBERTURA DE PROCEDIMENTO CIRÚRGICO. GASTROPLASTIA. PREVISÃO. SÚMULA N. 5/STJ. CERCEAMENTO DE DEFESA. REVISÃO. SÚMULA N. 7/STJ. CONTRATO ANTERIOR À LEI N. 9.565/1998. DECISÃO MANTIDA.
+ ..
+2. No caso concreto, o Tribunal de origem concluiu que não houve cerceamento de defesa e que o procedimento pretendido pela recorrida está coberto pelo plano de saúde. Alterar esse entendimento demandaria o reexame das cláusulas contratuais e das provas produzidas nos autos, o que é vedado no âmbito do recurso especial.
+3. A jurisprudência desta Corte é pacífica no sentido que, nos contratos de trato sucessivo, renovados ano a ano, são aplicáveis as disposições da Lei n. 9.565/1998 aos fatos ocorridos sob sua vigência. Dessa forma, não se trata de aplicação retroativa da lei.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 64.677/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/02/2013, DJe 04/03/2013)
+Incidência, pois, da Súmula 83 deste Tribunal, que veda o acolhimento de recurso especial quando o acórdão recorrido se encontra em harmonia com a orientação firmada nesta Corte Superior.
+6. Ante o exposto, nego provimento ao recurso especial.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL. CONSUMIDOR. PLANO DE SAÚDE. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. LEI N. 9.656/1998. INAPLICABILIDADE A CONTRATOS CELEBRADOS ANTES DE SUA VIGÊNCIA. NULIDADE RECONHECIDA COM BASE NO CDC. POSSIBILIDADE. PROCEDIMENTO CIRÚRGICO. GARANTIA DA VIDA DO PACIENTE. SÚM. 83/STJ. RECURSOESPECIAL NÃO PROVIDO.
+1. A matéria referente aos arts. 1.460 do CC/1916 e 54, § 4º, do CDC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. A exclusão de cobertura de determinado procedimento médico/hospitalar, quando essencial para garantir a saúde e, em algumas vezes, a vida do segurado, vulnera a finalidade básica do contrato.
+3. "Segundo o entendimento desta Corte, os contratos de plano de saúde anteriores à vigência da Lei nº 9.656/1998 se submetem às normas do CDC para o fim de aferir eventual abusividade" (AgRg no AREsp 475.558/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/05/2015, DJe 02/06/2015).
+4. No caso, as instâncias ordinárias entenderam que a cláusula de exclusão em relação ao fornecimento ao recorrido do procedimento cirúrgico era abusiva, por colocar a vida do segurado em risco. Possibilidade, portanto, de reconhecimento da nulidade da cláusula limitadora de plano de saúde. Não provimento do recurso especial, pois o acórdão encontra-se em harmonia com a jurisprudência do STJ - Súm. 83 desta Corte.
+5. Recurso especial não provido.
