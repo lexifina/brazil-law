@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por DIVA DE FÁTIMA FRACARO TUDICAKI - Sucessor E OUTROS contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento
+A parte embargante alega que o tema relativo à aplicação da irrepetibilidade de verba alimentar em razão do dissídio jurisprudencial, cujo cotejo analítico foi adequadamente realizado, não foi enfrentado e dirimido.
+Pugnapelo saneamento da omissão, enfrentando-se a questão posta à deslinde em sede de dissídio interpretativo.
+Decido.
+Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais. De fato, a decisão embargada deixou de analisar a questão da irrepetibilidade de verba alimentar.
+Verifica-se que osvalores em relação aos quais foi determinada a devolução decorrem de decisão transitada em julgado (e-STJ, fl. 205). Assim, não se tratando de decisão precária, inaplicável o Tema 692/STJ.
+Sobre o assunto, o entendimento desta Corte firmou-se no sentido de que são irrepetíveis os valores percebidos de boa-fé pelo segurado com fundamento em decisão judicial transitada em julgado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. AÇÃO RESCISÓRIA. DEVOLUÇÃO DE VALORES AO ERÁRIO. DESCABIMENTO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão recorrido está em sintonia com o entendimento firmado no âmbito do STJ, segundo o qual é incabível a devolução de valores recebidos de boa-fé por força de decisão judicial transitada em julgado, mesmo que ela seja posteriormente desconstituída, pois reconhecidas a natureza alimentar da prestação e a presunção de boa-fé do segurado. Incidência da Súmula 83/STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp 820.594/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/2/2016, DJe 1º/0/2016).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. AUXÍLIO-ACIDENTE. MAJORAÇÃO DO PERCENTUAL. LEI N. 9.032/1995. INAPLICABILIDADE AOS BENEFÍCIOS CONCEDIDOS ANTERIORMENTE À SUA VIGÊNCIA. ENTENDIMENTO DO STF EM SEDE DE REPERCUSSÃO GERAL. DEVOLUÇÃO DOS VALORES PAGOS A MAIOR. IMPOSSIBILIDADE.
+1. O Supremo Tribunal Federal, ao apreciar o RE 613.033/SP, reconheceu a existência de repercussão geral da questão constitucional suscitada e, no mérito, reafirmou a sua jurisprudência dominante de que não é aplicável a majoração prevista na Lei n. 9.032/1995 aos benefícios de auxílio-acidente concedidos anteriormente à sua vigência.
+2. A Terceira Seção deste Tribunal consolidou entendimento de que os valores que foram pagos pelo INSS aos segurados por força de decisão judicial transitada em julgado, a qual, posteriormente, vem a ser rescindida, não são passíveis de devolução, ante o caráter alimentar dessa verba.
+3. Pedido rescisório parcialmente procedente.
+(AR 4.186/SP, Rel. Min. GURGEL DE FARIA, TERCEIRA SEÇÃO, julgado em 24/6/2015, DJe 4/8/2015).
+PREVIDENCIÁRIO. PROCESSUAL CIVIL E CONSTITUCIONAL. AÇÃO RESCISÓRIA. PENSÃO POR MORTE. ELEVAÇÃO PARA 100% (CEM POR CENTO) DO SALÁRIO DE BENEFÍCIO. IMPOSSIBILIDADE. INCIDÊNCIA DA NORMA VIGENTE NO MOMENTO DO ÓBITO DO INSTITUIDOR. INAPLICABILIDADE DA SUPERVENIENTE LEI Nº 9.032/1995. VIOLAÇÃO DO ATO JURÍDICO PERFEITO. MATÉRIA PACIFICADA NO STF E NESTA CORTE. NÃO INCIDÊNCIA DA SÚMULA 343/STF.
+1. O Supremo Tribunal Federal, ao reconhecer a repercussão geral da matéria, afirmou que os benefícios previdenciários devem ser regulados pela norma vigente na data em que forem concedidos, sendo indevida, em decorrência, a aplicação da Lei 9.032/1995 aos benefícios que foram concedidos antes de sua edição, não cabendo aplicar ao caso o critério da lei que seja mais benéfica.
+2. Este Tribunal, revendo o entendimento sobre o tema, em sintonia com a orientação do Supremo Tribunal Federal, passou a decidir a questão com o emprego de semelhante exegese, segundo a qual é incabível a aplicação retroativa do art. 75 da Lei nº 8.213/1991, com a redação que lhe conferiu a Lei nº 9.032/1995, que elevou a pensão por morte a 100% do salário de benefício.
+3. A jurisprudência iterativa desta Corte enuncia que os valores que foram pagos pelo INSS aos segurados por força de decisão judicial transitada em julgado, a qual, posteriormente, vem a ser rescindida, não são passíveis de devolução, ante o caráter alimentar dessa verba.
+4. A vedação inscrita na Súmula 343/STF, no sentido de que "não cabe ação rescisória por ofensa a literal dispositivo de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais", não se aplica ao caso em apreciação, porque a questão controversa está vinculada à interpretação de matéria de natureza constitucional.
+5. Ação rescisória julgada procedente, indeferido o pedido de devolução de valores.
+(AR 3.926/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, julgado em 11/9/2013, DJe 18/9/2013).
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, para sanar a omissão apontada e, na sequência, com fulcro no art. 932, IV e V, do CPC/2015, c/c o art. 255, § 4º, II e III, do RISTJ e na Súmula 568/STJ, dar parcial provimento ao recurso especial para reconhecer a irrepetibilidade dos valores recebidos em virtude da decisão judicial transitada em julgado, mantendo-se os demais termos da decisão embargada.
+Publique-se. Intimem-se.
