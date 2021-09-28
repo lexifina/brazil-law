@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+RELATÓRIO
+Trata-se de agravo interno de fls. 399-404 interposto pela UNIÃO contra decisão monocrática que, em sede de execução em mandado de segurança, deferiu a habilitação pretendida pelo espólio do anistiado político falecido INALDO MIGUEL DA COSTA, representado por sua inventariante Maria da Conceição de Sousa Oliveira.
+A agravante alega, em síntese, que: (a) "o óbito do beneficiário se deu no curso do processo, o que ensejou a perda superveniente da legitimidade, ensejando, ainda, a ilegitimidade ativa do requerente para executar, considerado o direito personalíssimo nos autos do mandado de segurança, que se esvaziou a partir do respectivo óbito"; (b) sequer houve formação de título executivo judicial a favor do beneficiário, "impedindo a habilitação de eventual herdeiro nos autos da execução"; (c) "o marco que possibilita a habilitação de herdeiros é o trânsito em julgado da decisão concessiva da segurança"; e (d) "há que se concluir pela impossibilidade de habilitação dos herdeiros, em razão do caráter mandamental da ação (..) e da natureza personalíssima do direito postulado, qual seja, o reconhecimento da condição de anistiado político".
+Requer, por isso, seja provido o recurso.
+Não houve apresentação de contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. FALECIMENTO DO IMPETRANTE NO CURSO DO WRIT. INSURGÊNCIA RECURSAL CONTRA A POSSIBILIDADE DE HABILITAÇÃO DO ESPÓLIO OU DOS HERDEIROS/SUCESSORES. ALEGAÇÃO TARDIA. NÃO CABIMENTO. PRECLUSÃO TEMPORAL (ART. 507 DO CPC). AGRAVO NÃO CONHECIDO.
+1. A pretensão de impugnar a possibilidade de habilitação do espólio ou dos herdeiros/sucessores na fase executiva, na hipótese em que o falecimento do anistiado político deu-se no curso do mandado de segurança (portanto, antes do trânsito em julgado havido), encontra-se acobertada pela preclusão temporal, porquanto a matéria não foi impugnada no momento processual oportuno. Em razão da regra contida no art. 507 do CPC, não pode a recorrente, posteriormente, rediscutir a questão já decidida.
+2. Agravo interno não conhecido.
+VOTO
+Extrai-se dos autos que houve o falecimento do impetrante INALDO MIGUEL DA COSTA no curso do mandado de segurança (portanto, antes do trânsito em julgado havido), tendo a decisão agravada deferido a habilitação do espólio.
+Contudo, observa-se que anterior decisão proferida nos autos, de fls. 92-93, deliberou a respeito da possibilidade de tal habilitação, determinando a intimação do espólio ou dos herdeiros/sucessores para que manifestassem interesse na sucessão processual e pudessem dar prosseguimento ao feito executivo.
+Desta forma, a pretensão de impugnar a possibilidade de habilitação na fase executiva encontra-se acobertada pela preclusão temporal, porquanto a matéria não foi impugnada no momento processual oportuno. Em razão da regra contida no art. 507 do CPC, não pode a recorrente, posteriormente, rediscutir a questão já decidida.
+Nesse sentido: "(..) Com efeito, a ausência de interposição do recurso próprio no momento oportuno acarreta a preclusão do direito de recorrer concernente à questão decidida. Evidenciada a preclusão temporal, não cabe qualquer discussão ou apreciação de matéria já decidida" (AgInt no REsp 1868909/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 29/06/2020, DJe 21/08/2020).
+Desse modo, não merece reparo a decisão agravada. É o caso de se aguardar, portanto, o trânsito em julgado no âmbito do MS 26.326/DF, impetrado para questionar a anulação da portaria de anistia, mantendo-se, assim, a suspensão do pagamento do precatório expedido (in casu, do Prc 5386/DF).
+A propósito, deve ser trasladada cópia da decisão de fls. 392-393 para os autos do citado Prc 5386/DF.
+Ante o exposto, voto por não conhecer do agravo interno.
