@@ -1,0 +1,28 @@
+DECISÃO
+    Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça que está assim ementado:
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM ‘HABEAS CORPUS’. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTORA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO DO AGENTE AO CRIME. REGISTRO DE AÇÃO PENAL EM CURSO. FUNDAMENTAÇÃO IDÔNEA PARA AFASTAR A MINORANTE. PRECEDENTE DA TERCEIRA SEÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+    - Para se aplicar a redutora do art. 33, § 4º, da Lei n. 11.343/2006, é necessário o preenchimento de quatro requisitos cumulativos, quais sejam, primariedade, bons antecedentes, não se dedicar o agente a atividades criminosas ou integrar organização criminosa.
+    - Na hipótese, o Tribunal local não aplicou a redutora do tráfico privilegiado, por entender que o acusado se dedicava à atividade criminosa, na medida em que contava com anotação criminal, que, segundo informou a defesa, seria de processo em andamento.
+    - A Terceira Seção, no julgamento do EResp n. 1.413.091/SP, da relatoria do Ministro Félix Fischer, assentou o entendimento de que é possível a utilização de inquéritos policiais e/ou de ações penais em curso para a formação da convicção de que o réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei n. 11.343/2006.
+    - Agravo regimental desprovido.”
+    (HC 611.607-AgRg/ES, Ministro Reynaldo Soares da Fonseca)
+    Em suas razões, a parte impetrante pretende, em síntese, a aplicação da causa de diminuição de pena prevista no §4º do art. 33 da Lei 11.343/06 (tráfico privilegiado), afastando-se “a negativa da minorante com base na existência de processo em andamento, vez que tal conflita com o princípio da presunção de inocência”.
+    O Ministério Publico Federal, ao manifestar-se pela denegação da ordem, formulou parecer assim ementado (com meus grifos):
+    “PROCESSUAL PENAL. CONSTITUCIONAL. ‘HABEAS CORPUS’. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DO REDUTOR PREVISTO NO ARTIGO 33, §4º, DA LEI Nº 11.343/06. NÃO CABIMENTO. FUNDAMENTAÇÃO IDÔNEA COM BASE NO CONJUNTO DAS CIRCUNSTÂNCIAS EM QUE OCORREU O DELITO. PACIENTE FOI CONDENADO POR PRÁTICA DO MESMO CRIME EM PROCESSO COM TRÂNSITO EM JULGADO. DEMONSTRAÇÃO QUE O PACIENTE SE DEDICA A ATIVIDADES CRIMINOSAS. ‘HABEAS CORPUS’ NÃO PODE SER UTILIZADO PARA REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA, TAMPOUCO COMO SUCEDÂNEO RECURSAL OU PARA REVISÃO CRIMINAL. PRECEDENTES. PARECER PELA DENEGAÇÃO DA ORDEM.”
+    É o relatório. Decido.
+    Registro, inicialmente, que o entendimento predominante em ambas as Turmas desta Corte é o de que investigações criminais e ações penais em curso não servem para afastar a aplicação da causa de diminuição do tráfico privilegiado, sob pena de violação ao princípio da presunção de inocência. Ilustram essa orientação os seguintes acórdãos: HC 166.385/MG, Ministro Marco Aurélio; RE 1.297.769/CE, Ministro Ricardo Lewandowski, HC 170.392-AgRg/SP, Ministra Cármen Lúcia; HC 144.309/MG, Ministro Ricardo Lewandowski.
+    Ressalto, entretanto, que ao contrário do que sustenta a parte impetrante, tal situação não se verifica no caso em exame.
+    Consta dos autos, que o Tribunal de Justiça do Estado do Espírito Santo, ao realizar a dosimetria da pena, afastou a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006 “em decorrência da dedicação do acusado, que possui outro processo criminal cujo trânsito em julgado operou-se após os fatos narrados nestes autos (Processo n° 0038493-53.2015.8.08.0024)" (com meus grifos).
+    Nesse mesmo sentido foi a manifestação da Procuradoria-Geral da República, que assim destacou (com meus grifos):
+    “Ora, sustenta o impetrante que não há qualquer informação nos autos sobre eventual trânsito em julgado do processo citado de nº 0038493-53.2015.8.08.0024. Todavia, em consulta realizada no sítio do Tribunal de Justiça do Estado do Espírito Santo nesta data, verificou-se que referido processo transitou em julgado em 23/03/2017 em relação a Judson Pereira Machado.
+    Vê-se, pois, que ficou demonstrado o fato do paciente estar comprometido com atividades criminosas, sendo importante destacar que a outra condenação se deu por crime do mesmo jaez. Não olvidando que, adentrar no caso específico seria revolvimento de fatos e provas que foram valorados nas instâncias ordinárias, o que é vedado em sede de ‘habeas corpus’.”
+    Observo, ademais, que a Ação Penal nº 0038493-53.2015.8.08.0024 - utilizada pelo Tribunal de origem para caracterizar a dedicação do paciente às atividades criminosas – transitou em julgado em data que antecede à condenação que ora se examina e se refere a delito cometido anteriormente (03/12/2015).
+    Vale destacar, por fim, que a conduta social, os maus antecedentes, a reincidência, o concurso de agentes, as circunstâncias da apreensão, a quantidade e a natureza das drogas são exemplos de elementos aptos a indicar a dedicação a atividades criminosas que, por sua vez, é fundamento idôneo a afastar a minorante do tráfico privilegiado:
+    “2. A conduta social do agente, o concurso eventual de pessoas, a receptação, os apetrechos relacionados ao tráfico, a quantidade de droga e as situações de maus antecedentes exemplificam situações caracterizadoras de atividades criminosas.”
+    (HC 98.167/GO, Ministra Cármen Lúcia)
+    Desta forma, ausentes os requisitos previstos no art. 33, § 4º, da Lei de Drogas, resta inviável a aplicação do benefício ora pleiteado.
+    Em face do exposto, indefiro o presente habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+Brasília, 28 de setembro de 2021.
+Ministro NUNES MARQUES
+Relator
