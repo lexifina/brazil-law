@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto pelaFUNDAÇÃO WALDEMAR BARNSLEY PESSOA contra decisão doTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, quenão admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 213):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. APELAÇÃO. ANS. PLANO DE SAÚDE. CIRURGIA. NEGATIVA DE COBERTURA. PRESCRIÇÃO. TERMO INICIAL. REPARAÇÃO VOLUNTÁRIA NÃO VERIFICADA. APELAÇÃO NÃO PROVIDA.
+1. A apelante requer seja considerado o início da contagem a partir da data da suposta negativa de cobertura, que se deu em 15/06/2009.
+2. Ocorre que, enquanto pendente a conclusão do processo administrativo, não há falar em transcurso de prazo prescricional, sendo certo que a pretensão ao ressarcimento de valores somente surge após a notificação do devedor a respeito da decisão proferida no processo administrativo, uma vez que o montante do crédito a ser ressarcido só será passível de quantificação após a conclusão do respectivo processo.
+3. Nesse prisma, correta a sentença ao afastar a prescrição, tendo em vista que a decisão definitiva do processo administrativo se deu em 13.06.2013 e a execução fiscal foi protocolizada em 27.02.2015.
+4. Quanto à configuração da reparação voluntária, nos termos do artigo 11, § 1º, da Resolução 142/2006, esta só se verifica quando a ação é realizada pela operadora em data anterior à lavratura do auto de infração e resulte no cumprimento útil da obrigação.
+5. Assim sendo, considerando que o auto de infração foi lavrado em 21.08.2009 e o procedimento solicitado pela beneficiária foi realizado apenas em 11.09.2009, não há falar na caracterização da reparação voluntária.
+6. Ademais, ainda que se considere a data da ciência da lavratura do auto de infração (27.08.2009), não há como reconhecer a reparação voluntária, já que a cirurgia foi feita somente em setembro.
+7. Apelação não provida.
+Embargos de declaração rejeitados (e-STJ fls. 225/231).
+No recurso especial obstaculizado, a parte apontou ofensa ao art. 489, § 1º, IV, do Código de Processo Civil de 2015, ao fundamentode que o acórdão combatido careceria da adequada fundamentação, poiso art. 11,capute § 1º, da Resolução Normativa n. 48/2003 deve ser interpretado no sentido de que a adoção de medidas para reparar o dano deverá ser anterior à intimação da autuação e não asua efetiva reparação.
+Assim, tendo ocorrido a autorização para realização do procedimento cirúrgico antes da intimaçãodo auto de infração, o fato de a cirurgia ter ocorrido após a sua ciência não quer dizer que sua conduta não tenha sido eficaz ou voluntária.
+Sustentou, também, violação do art. 2º, da Lei n. 4.717/1965 e do art. 29da Lei n. 9.656/1998, uma vez que o auto de infração só passa a ter efeito jurídico para o autuado, em face do princípio da publicidade, quando ocorre a sua intimação, razão pela qual não deve ser considerada a data de 21/08/2009, mas sim, 27/08/2009.
+Contrarrazõesàs e-STJ fls. 254/260.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 261/265), tendo sido os fundamentos da decisão atacados no agravo em recurso especial (e-STJ fls. 268/277).
+Passo a decidir.
+Inicialmente, cumpre observar que não há violação do art. art. 489, §1º, IV, do CPC/2015, quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Da análise dos autos, constata-se que o Tribunal de origem foi expresso aoafirmarque não ficou caracterizada a reparação voluntária previsto no art. 11, § 1º, da Resolução n.142/2006, visto que, ainda que se considere a data de ciência da lavratura do auto de infração (27/08/2019), a cirurgia ocorreu apenas em setembro (e-STJ fls. 211/212).
+Ao apreciar os embargos de declaração, reiterou que (e-STJ fl. 277):
+no decisum restou bem esclarecido que o auto de infração foi lavrado em 21.08.2009 e o procedimento solicitado pela beneficiária foi realizado apenas em 11.09.2009, não havendo falar na caracterização da reparação voluntária, nos termos do artigo 11, § 1º, da Resolução 142/2006.
+Acrescentou-se, ainda, que, mesmo considerando a data da ciência da lavratura do auto de infração (27.08.2009), não há como reconhecer a reparação voluntária, já que a cirurgia foi feita somente em setembro.
+Com efeito, a norma é clara ao dispor que "considera-se reparação voluntária e eficaz a ação comprovadamente realizada pela operadora em data anterior à lavratura do auto de infração e que resulte no cumprimento útil da obrigação."Portanto, não há vícios a serem sanados. (Destaque do original).
+Na realidade, o acolhimento da alegada ausência de fundamentação,pressupõe, necessariamente, interpretação do comando normativo disposto na citada Resolução, ato normativo infralegal que não se enquadra no conceito de lei federal a que se refere o art. 105, III, da Constituição da República.
+Nesse sentido:AgInt no REsp 1.871.074/PE, RelatoraMinistra ASSUSETE MAGALHÃES, Segunda Turma, DJe 16/09/2020; eAgInt no AREsp 1.249.478/SP, RelatorMinistro SÉRGIO KUKINA, Primeira Turma, DJe 31/08/2020.
+Relativamente à ofensa ao art. 2º, da Lei n. 4.717/1965, verifica-se que essedispositivo diz respeito a nulidade de atos lesivos ao patrimônio dos entes da Federação e demais entidades indicadas no art. 1º e que podem dar ensejo a ação popular.
+Nesse passo, forçoso convir queos referidos comandos normativos não dizem respeitoà questão jurídica efetivamente decidida pelo acórdão recorrido, o que revela a deficiência na fundamentação do recurso especial, nesse particular, a ensejar o óbice da Súmula 284 do STF.
+A propósito:AgInt no AREsp 1.551.305/GO, RelatoraMinistra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 05/06/2020; eAgInt no AREsp 1.022.059/MG, RelatorMinistro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 10/05/2019.
+Quantoà contrariedade do art. 29 da Lei n. 9.656/1998, melhor sorte não assiste o recorrente, visto que o referido dispositivo não tem comando normativo suficiente, por si só,para sustentar a tese de que deve ser considerada a data na intimação e não da lavratura do auto de infração, o que atrai, novamente, o óbice da Súmula 284 do STF.
+Confiram-se:AgInt no REsp 1.909.855/RS, RelatorMinistro OG FERNANDES, Segunda Turma, DJe 02/08/2021;eAgInt nos EDcl no AREsp 1792032/SP, RelatorMinistro MOURA RIBEIRO, Terceira Turma, DJe 19/08/2021.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
