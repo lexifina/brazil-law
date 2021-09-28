@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porSalmir Ferreiracontra a decisão, de minha lavra, que denegou a ordem dehabeas corpus, pelos fundamentos sintetizados na seguinte ementa (fl. 74):
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PERCENTUAL. NOVA REDAÇÃO DO ART. 112 DA LEP. REINCIDÊNCIA ESPECÍFICA. APLICAÇÃO DO PERCENTUAL DE 60%. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+Ordem denegada.
+Sustenta o agravante, em suma, queo pacientem apesar de possuir dois crimes dispostos na Lei n. 8.072/90, ambos são de natureza diversa, ou seja, crimes previstos em tipos penais distintos, não ocorrendo reincidência especifica exigida na nova legislação para configuração do disposto no inciso VII do artigo 112 da LEP(fl. 79), motivo pelo qual se enquadra na fração de 2/5 (ou 40%), conforme prevê a Lei 13.964/2019 (novatio legis in mellius).
+Requer, assim, a reconsideração da decisão agravada ou, caso contrário, sua submissão ao órgão colegiado competente.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PERCENTUAL. NOVA REDAÇÃO DO ART. 112 DA LEP. REINCIDÊNCIA ESPECÍFICA. APLICAÇÃO DO PERCENTUAL DE 60%. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. APENADO QUE CUMPRE PENA POR HOMICÍDIO QUALIFICADO E TRÁFICO DE ENTORPECENTES.
+1. Diante da lacuna existente nas alterações promovidas pela Lei 13.964/2019 (Pacote Anticrime), na redação do art. 112 da Lei de Execuções Penais, no que se refere à progressão de regime dos condenados por crimes hediondos, reincidentes em crime comuns, pacificou-se, no Superior Tribunal de Justiça, o entendimento de que não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V (AgRg no HC n. 595.609/SP, Ministro Nefi Cordeiro, DJe 20/11/2020).
+2. Tal compreensão não se aplica à hipótese vertente, na medida em que, consoante afirmou o acórdão impugnado, trata-se de paciente reincidente específico em crime hediondo (homicídio qualificado e tráfico de entorpecentes), o que o enquadra na regra prevista no inciso VII do art. 112 da LEP, a qual exige o cumprimento de 60% da pena para a progressão de regime.
+3. Agravo regimental improvido.
+VOTO
+A irresignação não merece guarida.
+Com efeito, conquanto possam parecer bastante relevantes os argumentos trazidos no agravo regimental, esses não são suficientes para infirmar a decisão agravada, a qual mantenho por seus próprios fundamentos, conforme transcrevo (fls. 75/76 - grifo nosso):
+De fato, diante da lacuna existente nas alterações promovidas pela Lei 13.964/2019 (Pacote Anticrime), na redação do art. 112 da Lei de Execuções Penais, no que se refere à progressão de regime dos condenados por crimes hediondos, reincidentes em crime comuns, pacificou-se, no Superior Tribunal de Justiça, o entendimento de que não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V (AgRg no HC n. 595.609/SP, Ministro Nefi Cordeiro, DJe 20/11/2020).
+Contudo, tal compreensão não se aplica à hipótese vertente, na medida emque, consoante afirmou o acórdão impugnado, trata-se de paciente reincidente específico em crime hediondo, o que o enquadra na regra prevista no inciso VII do art. 112 da LEP, a qual exige o cumprimento de 60% da pena para a progressão de regime.
+Ao prestar informações, o Juízo da Vara de Execuções Criminais da comarca de Itajaí/SC confirmou que o paciente responde por duas condenações, ambas pela prática de crime hediondo ou equiparado (fl. 47):
+- autos n. 0004471-97.2012.8.24.0033. Foi condenado à pena de 34 anos de reclusão, pelo cometimento do crime de feminicídio, previsto no art. 121, § 2º, VI do Código Penal, crime este hediondo. O crime foi praticado em 02/08/2003 e o trânsito em julgado da condenação se operou em 14/12/2011.
+- autos n. 0000023-71.2018.8.24.0033: foi condenado à pena de 6 anos de reclusão pela prática do crime previsto no art. 33 da Lei n. 11.343/06. O crime, considerado equiparado a hediondo, foi praticado em 07/01/2018 e o trânsito em julgado se operou em 11/6/2018.
+Sendo assim, ausente flagrante ilegalidade a ser sanada.
+Ora, como visto, o apenado, ora agravante, foi condenado pela prática de homicídio qualificadoe tráfico ilícito de entorpecentes, sendo, portanto, indiscutivelmentereincidente específico em crime hediondo, porquanto, para tanto, basta que tenha cometido dois ou mais crimes que se enquadrem do rol taxativo previsto no art. 1º da Lei n.8.072/90 ou sejam considerados equiparados (art. 5º, XLIII, da CF), segundo pacífico entendimento desta Corte.
+A propósito,mutatis mutandis, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NÃO CUMPRIMENTO DE REQUISITO OBJETIVO. APENADO REINCIDENTE ESPECÍFICO EM CRIME EQUIPARADO A HEDIONDO. ART. 83, V, DO CP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O Juízo da Vara de Execuções Criminais não cometeu qualquer ilegalidade ao indeferir o pleito de livramento condicional, pelo fato de o apenado ser reincidente específico em crime hediondos (homicídio qualificado e tráfico ilícito de entorpecentes), na medida em que a decisão se encontra fundamentada em dispositivo legal vigente, qual seja, o art. 83, V, do Código Penal.
+2. Agravo regimental improvido.
+(AgRg no HC n. 660.961/SP, de minha relatoria, Sexta Turma, DJe 16/6/2021 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DESCABIMENTO. EXECUÇÃO PENAL.LIVRAMENTO CONDICIONAL. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO E EQUIPARADO. VEDAÇÃO. AUSÊNCIA DE REQUISITO OBJETIVO. ART. 83, INC.V, DO CÓDIGO PENAL - CP E ART. 44, PARÁGRAFO ÚNICO, DA LEI N.11.343/06. AGRAVO DESPROVIDO.
+1. O art. 83, inc. V, do Código Penal, dispõe que é vedada a concessão de livramento condicional ao reincidente específico por crime hediondo, tráfico ilícito de entorpecentes e drogas afins e terrorismo.
+2. Na hipótese, a condição de reincidente específico em duas condenações anteriores, uma por tráfico de drogas e outra por tentativa de homicídio qualificado, obsta a concessão de livramento condicional ao paciente, consoante a regra delineada no art. 83, V, do Código Penal e no art. 44, parágrafo único, da Lei n. 11.343/06.
+3. Agravo Regimental desprovido.
+(AgRg no HC n. 549.723/SP, Ministro Joel Ilan Paciornik, Quinta Turma,DJe 14/2/2020)
+Ante o exposto,nego provimentoao agravo regimental.
