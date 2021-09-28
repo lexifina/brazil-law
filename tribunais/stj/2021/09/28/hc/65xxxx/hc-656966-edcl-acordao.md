@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O  MINISTÉRIO  PÚBLICO  FEDERAL  opõe  embargos  de  declaração  ao  acórdão  de  fls.  102-105.
+Para  o embargante,  há contradiçãoe omissão no julgado, pois, em hipótese de progressão relacionada a crime hediondo ou outro a eleequiparado,não se pode aplicar ao reincidente não específico o mesmo percentual de 40% apropriado aos condenados primários. Ressalta (fl. 111):
+ ..  a prevalecer o entendimento acolhido no aresto recorrido, estar-se-ia a conceder tratamento isonômico a condenados em situações distintas, ou seja, fixando-se a mesma fração percentual de cumprimento de pena, para obtenção de benefícios prisionais, quer para sentenciados reincidentes, quer para aqueles apenados primários, o que evidencia a manifesta violação aos princípios da individualização da pena e da proibição de proteção insuficiente (necessidade de proteção da sociedade), contrariando diretamente a garantia do devido processo legal em sua vertente material (proporcionalidade) e vulnerando, assim, o artigo 5º, incisos XLVI e LIV, da Constituição Federal.
+O prequestionamento da matéria constitucional constitui pressuposto inafastável à admissão de eventual recurso extraordinário, a rigor das Súmula 282e 356/STF e do artigo 1025 do novo CPC, que consagra a tese de prequestionamento ficto ao estabelecer regra contrária à vetusta jurisprudência então dominante em Cortes Superiores, na medida em que ora basta à parte opor seus embargos declaratórios sobre o ponto não examinado pelo Tribunal para que tal requisito formal reste preenchido, seguindo-se o exame direto da lei federal violada ou da questão constitucional suscitada, sendo despiciendo que a matéria tenha sido objeto de exame expresso na decisão recorrida  ..
+Requer, por isso, a integração do julgado.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIOS DO ART. 619 DO CPP NÃO CONSTATADOS. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado.
+2.Não há, na estrutura do  acórdão  da  Sexta  Turma , falta de correlação lógica.A pretensão da parte, em verdade, é rediscutir o resultado do julgamento, o que não se admite nos limites dos embargos de declaração.
+3. Não compete a esta Corte Superior o exame de suposta violação de dispositivos constitucionais, nem sequer para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+4. Embargos de declaração rejeitados.
+VOTO
+Apenas a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, pode ser sanada nos embargos de declaração. Não há, no acórdão  da  Sexta  Turma , falta de correlação lógica ou omissão quanto a tema relevante para a solução da lide.
+A ordem foi concedida, para a retificação dos cálculos penais, ante aretroatividadedoart. 112 da LEP,poiso legislador não especificou a situação do apenado reincidente genérico e, portanto, atualmente, não existe previsão legal para aplicação do percentual de 60% ao agravado, mesmo que ele não seja primário. Oprincípio da legalidadeimpede a interpretação desfavorável ao apenado ou a analogia in malam partem. A menção ao direto à segurançaaos princípios da individualização da pena e daproporcionalidade em nada alteraa compreensão externada.
+O objetivo da parte,  em  verdade,  é  rediscutir  a  matéria  decidida,  o  que  não  se  admite  nos  limites  dos  aclaratórios.
+Por  fim,  não  compete  a  esta  Corte  Superior  o  exame  de  suposta  violação  de  dispositivos  constitucionais ,  nem  sequer  para  fins  de  prequestionamento,  por  ser  matéria  reservada  ao  Supremo  Tribunal  Federal,  nos  termos  do  art.  102,  III,  da  Constituição  Federal.
+À  vista  do  exposto,  rejeito  os  embargos  de  declaração.
