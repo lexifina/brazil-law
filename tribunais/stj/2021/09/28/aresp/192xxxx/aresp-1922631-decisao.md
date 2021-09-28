@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por Carlos Alexandre Martins contra a decisão proferida pelo Tribunal de Justiça do Rio Grande do Sul, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 5000189-54.2018.8.21.0048/RS, assim ementado (fls. 305/306):
+APELAÇÃO. CRIME CONTRA O PATRIMÔNIO. ARTIGO 155, § 1º E 4º, INCISO I. ARTIGO 14, INCISO II. CÓDIGO PENAL. FURTO QUALIFICADO TENTADO. ROMPIMENTO DE OBSTÁCULO. REPOUSO NOTURNO. TENTATIVA. FRAÇÃO DE REDUÇÃO AUMENTADO PARA  OBSERVADO O ITER CRIMINIS.
+EXISTÊNCIA DO FATO E AUTORIA. A EXISTÊNCIA DOS FATOS RESTOU DEMONSTRADA PELO REGISTRO DE OCORRÊNCIA, AUTO APREENSÃO, AUTO DE CONSTATAÇÃO DE DANO INDIRETO E DEMAIS PROVAS ACOSTADAS NOS AUTOS. DA MESMA FORMA, A AUTORIA RESTOU DEVIDAMENTE COMPROVADA PELOS DEPOIMENTOS COLHIDOS DESDE A FASE INQUISITIVA. RÉU QUE SE ENCONTRAVA DENTRO DE IMÓVEL, ÀS 5H40MIN, COM OBJETOS JÁ SEPARADOS PARA SUBTRAÇÃO QUANDO FOI SURPREENDIDO PELA POLÍCIA, ACIONADA POR UM MORADOR QUE OUVIU BARULHO. PROVA ROBUSTA PARA ENSEJAR A CONDENAÇÃO
+ROMPIMENTO DE OBSTÁCULO. VERIFICADO O ROMPIMENTO DE OBSTÁCULO PARA A SUBTRAÇÃO DA RES FURTIVA, CONSISTENTE NA DANIFICAÇÃO DA FECHADURA DE UMA JANELA. PALAVRA DA VÍTIMA E TESTEMUNHAS, SOMADA À PERÍCIA ATESTAM A PRESENÇA DA QUALIFICADORA.
+REPOUSO NOTURNO. DELITO PRATICADO POR VOLTA DAS 5H40MIN, EM IMÓVEL HABITADO, APROVEITANDO-SE O AGENTE DA FALTA DE CIRCULAÇÃO DE PESSOAS E MENOR VIGILÂNCIA PARA EFETIVAR A SUBTRAÇÃO.
+PENA APLICADA. PENA-BASE APLICADA COM MODERAÇÃO. PEQUENO AUMENTO PELO VETOR ANTECEDENTES. PRESENTE A REINCIDÊNCIA, ADEQUADO O ACRÉSCIMO RELATIVO A ESTA AGRAVANTE.
+TENTATIVA. OBSERVADO O ITER CRIMINIS, CONSIDERANDO QUE FOI O RÉU SURPREENDIDO COM OS BENS A SEREM SUBTRAÍDOS JÁ SEPARADOS, MAS AINDA DENTRO DO IMÓVEL DA VÍTIMA, VIÁVEL A REDUÇÃO NA FRAÇÃO DE  .
+REGIME DE CUMPRIMENTO DA PENA SEMIABERTO MANTIDO. PENA PECUNIÁRIA REDUZIDA PARA O MÍNIMO LEGAL - 10 DIAS-MULTA, NA RAZÃO MÍNIMA.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Nas razões do especial, a Defensoria Pública apontou negativa de vigência dos arts. 158, 159, caput e § 1º, e 171 do Código de Processo Penal e 155, § 4º, I, do Código Penal, contestando, em suma, a aplicação da qualificadora de rompimento de obstáculo sem a realização do exame pericial e sem a apresentação de justificativa suficiente e adequada para tanto (fls. 317/323).
+Apresentadas contrarrazões (fls. 330/335), o Tribunal local não admitiu o recurso, por incidência das Súmulas 282 e 356/STF (fls. 339/341).
+Daí o presente agravo (fls. 345/355). Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (fl. 374):
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO (ART. 155, §§ 1º E 4º, I E IV, C/C ART. 14, II, AMBOS DO CP). RÉU CONDENADO À PENA DE 1 (UM) ANO E 10 (DEZ) MESES DE RECLUSÃO, EM REGIME INICIAL SEMIABERTO.
+QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE LAUDO PERICIAL. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA. SUFICIÊNCIA PARA RECONHECIMENTO DA QUALIFICADORA. DECISÃO NO MESMO SENTIDO DA ORIENTAÇÃO DESSA E. CORTE. SÚMULA 83/STJ.
+PARECER PELO DESPROVIMENTO DO AGRAVO.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Busca a Defensoria Pública o decote da qualificadora de rompimento de obstáculo, pela falta de prova da materialidade.
+Na sentença condenatória, ficou consignado que foi realizado o auto de constatação de dano indireto, que se mostra perícia bastante a confirmar o rompimento do obstáculo  fechadura danificada  , sendo tarefa singela (fl. 39). Para tanto, entendo que dão é necessário e nem se mostra razoável demandar a sua realização por Perito Oficial. Desse modo, o laudo foi realizado conforme determinada a lei, por duas pessoas nomeadas, portadoras de diploma, conforme se verifica dos documentos de fls. 36-7, tendo ainda acrescentado que s policiais militares confirmaram que a janela estava danificada, sendo que ao lado da janela havia um machado (fls. 211/212 - grifo nosso).
+No julgamento da apelação, asseverou o Tribunal de origem (fls. 295/296):
+ ..  Da qualificadora do rompimento de obstáculo
+Também aqui, nenhuma dúvida de que o delito foi praticado mediante rompimento de obstáculo, visto que a vítima afirmou que para adentrar no imóvel foi "danificada a fechadura" de uma janela, o que foi confirmado pela perícia (Evento 3 - DENUNCIA2, fls. 39/43) .
+Acerca da comprovação da qualificadora do rompimento de obstáculo, precedentes desta Câmara:
+ ..  Logo, a qualificadora do artigo 155, § 1º, deve ser mantida, pois suficientemente comprovada.
+Das transcrições acima depreende-se que as instâncias ordinárias entenderam que a prova dos autos - depoimento da vítima e das testemunhas, somada ao auto de constatação de dano indireto - atesta a presença da qualificadora (fl. 305), tendo o Juízo de primeiro grau expressamente declarado não ser necessário e nem razoável a sua realização por perito oficial (fl. 211).
+Ocorre que esse entendimento confronta a jurisprudência desta Corte Superior no sentido de que, para reconhecimento da qualificadora do rompimento do obstáculo, é imprescindível a realização de exame pericial, o qual somente pode ser suprido pela prova testemunhal ou outro meio indireto, quando os vestígios tenham desaparecido por completo ou o lugar se tenha tornado impróprio para a constatação dos peritos, o que não foi evidenciado nos autos em exame. Assim, se era possível a realização da perícia, mas essa não ocorreu, a prova testemunhal e o exame indireto não suprem a sua ausência.
+Ilustrando esse entendimento, confiram-se:
+HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA DA PENA. QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. COMPROVAÇÃO APENAS COM BASE NA PROVA ORAL. FALTA DE JUSTIFICAÇÃO CONCRETA ACERCA DA NÃO REALIZAÇÃO DO LAUDO PERICIAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS CONCEDIDO.
+1. A jurisprudência desta Corte firmou-se no sentido de que, para incidir a qualificadora do rompimento de obstáculo, prevista no art. 155, § 4º, I, do Código Penal, faz-se indispensável a realização de perícia, sendo possível substituí-la por outros meios de prova se o delito não deixar vestígios, ou esses tenham desparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo (AgRg no HC 557.077/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020).
+2. No caso, apesar de o Tribunal de origem ter mencionado que "seria inviável exigir-se da vítima que seu patrimônio ficasse vulnerável", não foi demonstrada de forma concreta a impossibilidade de realização da perícia técnica, de modo que deve ser afastada a qualificadora do rompimento de obstáculo.
+3. Habeas corpus concedido para, afastada a qualificadora do art. 155, §4º, I, do CP, reduzir a pena do paciente para 2 anos, 11 meses e 6 dias de reclusão, além do pagamento de 11 dias multa, mantido o regime fechado.
+(HC n. 677.509/SC, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 17/9/2021)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. AFASTAMENTO DA QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. PERÍCIA NÃO REALIZADA. AUSÊNCIA DE JUSTIFICATIVA. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. De acordo com a jurisprudência desta Corte, para o reconhecimento da qualificadora do rompimento de obstáculo, é imprescindível a realização de exame pericial, sendo possível a sua substituição por outros meios probatórios somente se (a) o delito não deixar vestígios; (b) os vestígios deixados desapareceram; ou (c) as circunstâncias do crime não permitirem a confecção do laudo.
+2. Na espécie, não foi realizada a perícia no local dos fatos para comprovar o rompimento de obstáculo e não foi apresentada qualquer das justificativas enumeradas pela jurisprudência desta Corte Superior para que aquela não fosse produzida.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.924.565/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/8/2021)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL. AUSÊNCIA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO IMPROVIDO.
+1. O reconhecimento da qualificadora de rompimento de obstáculo exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Ainda que a presença da circunstância qualificadora esteja em consonância com a prova testemunhal colhida nos autos, mostra-se imprescindível a realização de exame de corpo de delito, nos termos do art. 158 do Código de Processo Penal.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.814.051/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 19/11/2019)
+Desse modo, como o entendimento do Tribunal de origem não se coaduna com a jurisprudência desta Corte acerca do tema, deve ser realizada nova dosimetria da pena, com o afastamento da aludida qualificadora.
+Ante o exposto, nos termos do art. 253, II, c, do RISTJ, conheço do agravo e dou provimento ao recurso especial, a fim de afastar a qualificadora do rompimento de obstáculos e determinar que os autos sejam devolvidos ao Tribunal de origem para que, diante do quantum decidido, seja realizada uma nova dosimetria.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO. ART. 155, §§ 1º E 4º, I, C/C O ART. 14, II, DO CP. INCIDÊNCIA DA QUALIFICADORA DO § 1º DO ART. 150 DO CP. AUSÊNCIA DE EXAME PERICIAL. CRIME QUE DEIXA VESTÍGIOS. INEXISTÊNCIA DE JUSTIFICATIVAS PARA A NÃO REALIZAÇÃO DA PERÍCIA. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. PRECEDENTES.
+Agravo conhecido para dar provimento ao recurso especial nos termos da fundamentação.
