@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedidoliminar, impetrado contra acórdão assim ementado (fl. 375):
+HABEAS CORPUS ROUBO MAJORADO PRISÃO PREVENTIVA ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR INOCORRÊNCIA. Decisão suficientemente embasada nos requisitos do artigo 312, Código de Processo Penal, acrescida dos indícios de autoria e materialidade delitiva. ORDEM DENEGADA.
+O paciente encontra-se preso preventivamente pela prática do crime previsto no art. 157, § 2º, II, § 2º-A, I, ambos do Código Penal.
+O impetrante sustenta queestão ausentesos requisitos do art. 312 do CPP, aduzindo falta de fundamentação idônea do decreto prisional.
+Requer, liminarmente, a concessão da ordeme a consequente revogação da prisão cautelar para que o paciente possa responder ao processo em liberdade.
+No mérito, pugna pela concessão da ordem nos exatos termos da liminar pleiteada.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem para a aplicação de cautelares diversas.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado de sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão manteve aprisão preventiva restou assim fundamentada (fls. 315-316):
+O pedido deve ser INDEFERIDO.
+Ao réu é imputada a prática de crime de roubo duplamente qualificado pelo concurso de pessoas e pelo emprego de arma de fogo.
+De acordo com os elementos de prova, o requerente e dois outros asseclas subtraíram de uma lotérica situada na região central desta cidade, mediante grave ameaça, dois malotes de dinheiro, contendo a quantia de R$46.645,00. Os roubadores foram detidos pela polícia militar, logo após a prática delitiva, em poder de duas armas de fogo e da "res furtiva".
+Segundo consta, o requerente e demais comparsas foram reconhecidos pelas vítimas, havendo informações de que teriam praticado outro roubo na cidade de Santa Bárbara D"Oeste, no dia 28 de abril p. p.
+Ademais, o acusado Wilson confessou a prática do roubo em companhia de seus amigos Tiago e Carlos (fls. 9).
+Em que pese as alegações defensivas, tem-se que a gravidade concreta da condutado requerente resta evidenciada e denota a sua periculosidade .
+Outrossim, há informações de que teria perpetrado outro roubo dias antes aotratado nestes autos, o que indica reiteração delitiva e sugere que o requerente está fazendo do crime seu meio de vida.
+Anote-se que o simples fato de tratar-se o acusado de indivíduo primário, sem antecedentes, com residência fixa e com ocupação lícita não representa garantia automática de liberdade provisória. Por fim, o agravamento da pandemia do Covid-19, por si só, não justifica a revogação da segregação cautelar do requerente.
+Não há comprovação de que o réu se enquadra no denominado "grupo de risco", bem assim de que o estabelecimento prisional onde se encontra recolhido não ofereça as condições necessárias de tratamento ou prevenção ao Covid-19, inexistindo, portanto, elementos concretos que indiquem que a permanência deste em cárcere se mostra temerária, apesar do atual cenário de pandemia.
+Como se vê, a necessidade da prisão foi justificada com fundamento na gravidade concreta do crime, pois "o requerente e dois outros asseclas subtraíram de uma lotérica situada na região central desta cidade, mediante grave ameaça, dois malotes de dinheiro, contendo a quantia de R$46.645,00", bem como na reiteração delitiva, pois há informações de que teria praticado outro roubo recentemente.
+A jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade dos acusados, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
