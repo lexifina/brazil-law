@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA DE FATIMA PAULO TOLENTINO, com respaldonaalínea"a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (e-STJ fls. 211):
+PREVIDENCIÁRIO E CONSTITUCIONAL. TRABALHADORA RURAL. APOSENTADORIA PORIDADE. EXISTÊNCIA DE VÍNCULOS URBANOS. DIREITO. INEXISTÊNCIA.
+1. Apelação interposta contra sentença que julgou improcedente o pedido de concessão de aposentadoria por idade à autora, na qualidade de rurícola. Honorários fixados em R$ 500,00, observado o disposto no art. 98, § 3º, do CPC/2015.
+2. Em seu apelo, a demandante pugna pela procedência do pedido, sustentando que comprovou a qualidade de segurada especial por documentos contemporâneos ao exercício da atividade rural durante o período de carência.
+3. O art. 201, § 7º, II, da Constituição Federal, e o art. 48, § 1º, da Lei 8.213/1991 asseguram ao trabalhador rural o direito à aposentadoria por idade ao completar 60 (sessenta) anos, se homem, e 55(cinquenta e cinco), se mulher. Uma vez preenchidos ambos os requisitos, ainda que em tempos distintos, faz jus o rurícola à aposentadoria por idade.
+4. No presente caso: restou comprovado o requisito da idade; foi ouvida em juízo testemunha que afirmou ter a autora trabalhado na agricultura; na audiência de instrução, o INSS se manifestou no sentido de reconhecer o período de 01/01/2011 a 21/02/2018 como exercício de atividade rural, mas que seria insuficiente para a concessão do benefício; e consta dos autos documento que até poderia ser considerado como início de prova material (certidão eleitoral indicando a profissão de agricultora).
+5. No entanto, depreende-se dos autos a existência de diversos vínculos urbanos no CNIS da autora (entre 1980 e 2000) e certidão de casamento indicando a sua profissão de balconista, o que descaracteriza o labor rural.
+6. Apelação desprovida. Honorários recursais fixados em R$ 200,00, em razão do disposto no art. 85, § 11, do CPC/2015, vigente ao tempo da prolação da sentença.
+Embargos de declaração rejeitados (e-STJ fls. 239/242).
+Em suas razões, a parte recorrente aponta violação do art. 48 e parágrafos da Lei n. 8.213/1991, ao argumento de que faz jus à aposentadoria por idade rural, visto que apresentou farto início de prova material, corroborado pela prova testemunhal, demonstrando a atividade rural por ela exercida no Sítio Saco dos Caianas.
+Aduz que "não há exigência legal de que o documento apresentado como início de prova material abranja todo o período que se quer comprovar", e que "a jurisprudência entende que o rol legal é meramente exemplificativo", admitindo-se a utilização de outros documentos como início de prova material" e, ainda, que a prova não não precisa estar em seu nome (e-STJ fl. 255).
+Contrarrazões às e-STJ fls. 261/265.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 267.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+No caso, a Corte de origem entendeu pela descaracterização da qualidade de segurado especial daautora em virtude da comprovação, pelo CNIS, devínculos urbanosdurante grande parte do período da carência, in verbis (e- STJ fls. 210):
+No presente caso: restou comprovado o requisito da idade; foi ouvida em juízo testemunha que afirmou ter a autora trabalhado na agricultura; na audiência de instrução,
+o INSS se manifestou no sentido de reconhecer o período de 01/01/2011 a 21/02/2018 como exercício de atividade rural, mas que seria insuficiente para a concessão do benefício; e consta dos autos documento que até poderia ser considerado como início de prova material (certidão eleitoral indicando a profissão de agricultora).
+No entanto, depreende-se dos autos a existência de diversos vínculos urbanos no CNIS da autora (entre1980 e 2000) e certidão de casamento indicando a sua profissão de balconista, o que descaracteriza o labor rural.
+Dessa forma, verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial diante do óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. EXERCÍCIO DE TRABALHO RURAL. ACÓRDÃO QUE APONTA A AUSÊNCIA DE DEMONSTRAÇÃO DA QUALIDADE DE SEGURADO ESPECIAL. REVISÃO.IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. No caso, o Tribunal de origem concluiu pela ausência da demonstração da qualidade de segurado especial da parte agravante, por considerar que o início de prova material jungido aos autos revelou-se inapto à comprovação da condição de rurícola, em regime de economia familiar, na medida em que apontam a exploração de atividade agropecuária de grande porte.
+2. A alteração das conclusões retratadas no acórdão recorrido apenas seria possível mediante novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula n. 7/STJ. 3. Quanto ao mais, a decisão agravada nada mais fez que aplicar o entendimento da Primeira Seção que, ao examinar o REsp 1.401.560/MT, relator para acórdão o Min.
+Ari Pargendler, processado nos termos do art. 543-C do CPC, chancelou o entendimento de que é possível a devolução de valores percebidos do INSS pelo litigante beneficiário do Regime Geral da Previdência Social - RGPS, em virtude de decisão de antecipação de tutela, que venha a ser revogada.
+4. Agravo interno a que se nega provimento.(AgInt no REsp 1643030/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 30/05/2017)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TRABALHO RURAL. QUALIDADE DE SEGURADO ESPECIAL NÃO COMPROVADA. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.RECURSO ESPECIAL NÃO CONHECIDO.
+1. Cuida-se, na origem, de Ação Previdenciária proposta pelo recorrente contra o Instituto Nacional do Seguro Social - INSS, ora recorrido, objetivando a concessão de Aposentadoria por Tempo de Contribuição.
+2. O Juiz de 1º Grau julgou improcedente o pedido.
+3. O Tribunal a quo negou provimento à Apelação do ora recorrente e assim consignou na sua decisão: "Embora o autor sustente que desenvolvia a atividade agrícola de forma individual, além de afirmar que morava com os pais, não demonstra que a renda advinda do labor rural era indispensável para o sustento do grupo familiar.
+Assim, ainda que tenha trazido documentos que demonstram o exercício da atividade rural, não restou comprovada a sua qualidade de segurado especial. Portanto, em que pese demonstrado o trabalho rural, para o cômputo do respectivo tempo de serviço, necessário o recolhimento de contribuições, visto que não foi desenvolvido na condição de segurado especial".
+4. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp 1703164/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
