@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S.A. contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, quenão admitiu recurso especial, fundadona alínea "a"do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 337):
+Agravo de instrumento com pedido de efeito suspensivo. Concessionária de serviço público. Transporte ferroviário. Acessibilidade. Ação coletiva em trâmite na 16ª Vara de Fazenda Pública, na qual foi celebrado TAC entre a agravante e o MPRJ cujo objeto é adequar as estações para usuários de necessidades especiais, incluindo-se a estação de Santa Cruz, objeto da lide. Decisão do juízo a quo, nos autos de origem, que revogou a tutela de urgência anteriormente deferida, extinguiu o processo no que tange ao pedido de obrigação de fazer e determinou o prosseguimento do feito em relação ao pleito de dano moral. Inconformismo da ré, Supervia pleiteando a extinção do processo também quanto aos danos morais, ou, ao menos, a suspensão da demanda. Inexistência de litispendência entre a ação individual e a ação coletiva. O interesse tutelado pode ser defendido por meio de ação coletiva, mas cabe somente ao autor, ora agravado, esta opção. Prestígio ao direito fundamental de acesso à jurisdição. Ademais, a natureza do dano moral coletivo não se confunde com o dano moral individual. Decisão que se mantém. NEGADO PROVIMENTO AORECURSO.
+Embargos de declaração rejeitados (e-STJ fls. 361/364).
+No recurso especial obstaculizado, a parte apontouviolaçãodos arts.300 e 927, III, CPC/2015 e do art. 81 do CDC.
+Contrarrazõesàs e-STJ fls. 387/392.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+A pretensão não merece prosperar.
+Quanto à alegada contrariedade aos arts. 81 do CDC e300 do CPC/2015, a pretensão recursal não merece prosperar, uma vez que o ora agravante não apontou como o acórdão recorrido teria violado tais dispositivos legais, o que revela a deficiência de sua fundamentação, justificando a incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 165, 458 E 515, §1º, E 535, II, DO CÓDIGO DE PROCESSO CIVIL DE 1973. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. CRÉDITOS RELATIVOS AO EMPRÉSTIMO COMPULSÓRIO SOBRE A ENERGIA ELÉTRICA. CONVERSÃO EM AÇÕES. ABUSO DE DIREITO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+ ..
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido.(AgInt no REsp 1564937/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/05/2017, DJe 11/05/2017)
+Por outro lado, extrai-se do acórdão recorrido o seguinte trecho (e-STJ fls. 343/345):
+O recurso não merece acolhimento, pois, neste caso, não mais se discute as obras de acessibilidade nas estações ferroviárias da Supervia, mas, apenas, a reparação por danos morais individuais.
+Em outras palavras, apresente ação possui dois pedidos: a adaptação da estação de Santa Cruz, bem como a reparação por danos morais individualmente sofridos pelo demandante.
+Por sua vez, a ação coletiva busca tutelar a adaptação de diversas estações de trem assim como a reparação por dano moral coletivo.
+Note-se que a natureza do dano moral coletivo em nada se confunde com o dano moral individual de cada um dos postulantes das ações indenizatórias que tramitam neste Tribunal de Justiça do Rio de Janeiro, sendo certo que quanto a este pedido, cabe a cada um dos autores prosseguir como melhor que lhe aprouver em sua demanda individual.
+Ademais, é importante ressaltar que o ajuizamento de uma ação civil pública não pode obstar o direito subjetivo de manejar a ação individual assegurado constitucionalmente, sob pena de se negar efetividade ao próprio direito.
+A própria Constituição da República Federativa do Brasil preconiza, no seu art. 5º, inciso XXXV, que nem mesmo a lei poderá excluir da apreciação do Poder Judiciário lesão ou ameaça a direito.
+Nessa mesma linha, o ajuizamento de uma ação individual não induz litispendência em relação ao ajuizamento de ação coletiva, ainda que o objeto desta última - dano moral coletivo - alcance aquele pretendido pelo autor da ação individual.
+Esta evidência decorre da própria lei (art. 104, CDC e art. 22, §1º, da Lei nº. 12.016/1990), de forma que podem ocorrer simultaneamente as duas demandas, sem que o julgamento da ação coletiva interfira necessariamente na ação individual.
+Com efeito, pode o "lesado" optar pela defesa de seus interesses próprios em ação individual ou decidir, opportuno tempore, pela suspensão do processo individual para se beneficiar in utilibus da decisão proferida em ação civil pública ou coletiva.
+Deste modo, o interesse tutelado pode ser defendido por meio de ação coletiva, mas cabe somente ao autor, ora agravado, esta opção.
+Em que pese a justa preocupação em se evitar a enxurrada de ações individuais, não se pode com isto ir de encontro ao direito fundamental de acesso à jurisdição.
+Por fim, quanto à alegada instauração do IRDR sobre a matéria objeto desta demanda, ainda não se tem notícia de sua admissão por esta Corte.
+Assim, mostra-se descabida a extinção do processo, ou mesmo, a sua suspensão. (Grifos acrescidos).
+Nas razões do especial, a recorrente não impugnou especificamente os fundamentos condutores do aludido julgado, limitando-se a requerer, no tocante ao art. 927, III, do CPC/2015, "a imediata suspensão do Recurso em epígrafe,até o julgamento da Ação Civil Pública autuada sob o nº 0167632-82.2019.8.19.0001, a qual servirá de paradigma para a discussão sobre asobrigações da Ré à luz das normas brasileiras de acessibilidade", o que revela a deficiência da irresignação, nos termos das Súmulas 283 e 284 do STF.
+A propósito do tema: AgRg no AREsp 71.610/DF, relator para Acórdão Ministro SÉRGIO KUKINA, Primeira Turma, DJe 19/12/2016; AgInt no REsp 1.604.184/RN, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 07/12/2016; e AgInt no REsp 1.626.816/PE, relator Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 23/11/2016.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
