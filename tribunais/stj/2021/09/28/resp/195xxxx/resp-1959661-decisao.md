@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUDMILA MARCONI COCO, com fundamento no art. 105, III,aec, da Constituição Federal manejado contra acórdão proferido pelo Tribunal de Justiça de São Paulo nos termos da seguinte ementa (e-STJ, fl. 17):
+AGRAVO DE INSTRUMENTO Ação monitória em fase de cumprimento de sentença Decisão que indeferiu o bloqueio e a suspensão da carteira nacional de habilitação, do passaporte e do cartão de crédito. Medidas que não atingem o patrimônio do devedor, sem prejuízo da ausência de elementos probatórios que comprovem a dilapidação patrimonial Decisão mantida. Recurso desprovido.
+Nas razões do recurso especial (e-STJ, fls. 530-541), a recorrente alega, além de dissídio jurisprudencial, a violação do art. 139, IV, do Código de Processo Civil de 2015.
+Sustenta, em síntese, a possibilidade da suspensão da carteira nacional de habilitação do executado, bem como o bloqueio de seus cartões bancários,como medidas para forçar a satisfação integral da dívida, não havendo falar em violação do direito de ir e vir.
+Não foram apresentadas contrarrazões (e-STJ, fl. 73).
+Juízo positivo de admissibilidade (e-STJ, fls. 74-76).
+Brevemente relatado, decidido.
+No caso em análise, o Tribunal de origem, ao dirimir a controvérsia, indeferiu o pedido de suspensão da carteira nacional de habilitação e de bloqueio dos cartões de crédito da parte recorrida, consignando os seguintes fundamentos (e-STJ, fl. 18):
+Com efeito, não se olvida que o magistrado pode determinar atos atípicos de constrição patrimonial, com fundamento no art. 139, inc. IV, do Código de Processo Civil. Entretanto, faz-se mister destacar que as medidas devem atingir o patrimônio do devedor, mantendo-se em consonância com a finalidade do processo executivo. No caso em testilha, a providência requerida não guarda relação direta com a busca patrimonial pretendida pela exequente, desbordando da razoabilidade e proporcionalidade, podendo, eventualmente, acarretar constrangimentos ao devedor e dificuldades em fazer frente a despesas. Deveras, a exequente não apresentou elementos que comprovem que o bloqueio dos cartões, da CNH e do passaporte do executado contribuirá para a satisfação do crédito.
+Dessa forma, para reverter a conclusão do Tribunal de origem de que as medidas requeridas não são capazes de garantir a satisfação imediata do crédito, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que esbarra na Súmula n. 7 desta Corte, a obstar a análise do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS COERCITIVAS ATÍPICAS. ART. 139, IV, DO CPC/2015. OMISSÃO.INEXISTÊNCIA. REEXAME DE PROVAS. SALÁRIO. PENHORA. IMPOSSIBILIDADE.REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. No caso concreto, o tribunal de origem concluiu que as medidas de suspensão da CNH e de cancelamento do cartão de crédito da parte executada são inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, procedimento vedado em recurso especial (Súmula nº7/STJ).
+4. A impenhorabilidade de remunerações disposta no artigo 833, IV, do CPC/2015 comporta exceção quando se tratar de execução de dívida de natureza alimentar ou quando a renda mensal for superior a 50 (cinquenta) salários mínimos. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp 1.876.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/08/2021, DJe 30/08/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DESTA CORTE. DIREITO SOCIETÁRIO. OFENSA A ENUNCIADO. CONCEITO DE LEI FEDERAL. SUSPENSÃO DA CNH E DO PASSAPORTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. DECISÃO MANTIDA.
+1. O recurso especial não constitui via adequada para análise de eventual ofensa a resoluções, enunciados, portarias, circulares ou instruções normativas, por não estarem tais atos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. No caso concreto, o Tribunal de origem concluiu que as medidas de suspensão da CNH e do passaporte dos devedores são inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Segundo a jurisprudência desta Corte Superior, as medidas de satisfação do crédito devem observar os princípios da proporcionalidade e da razoabilidade, de forma a serem adotadas as providências mais eficazes e menos gravosas ao executado.
+Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.812.561/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS EM FASE DE CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO. ART. 139, IV, DO NCPC. MEDIDA COERCITIVA QUE FOI CONSIDERADA DESPROPORCIONAL PELO ACÓRDÃO RECORRIDO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. DESCABIMENTO. SÚMULA Nº 7 DO STJ. DIREITO DE LOCOMOÇÃO. FUNDAMENTO DE NATUREZA CONSTITUCIONAL. SÚMULA Nº 126 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NPCP a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acórdão vergastado assentou que a medida de suspensão da CNH, no caso, não estaria pautada em razoabilidade e proporcionalidade. Alterar a conclusão do julgado para reconhecer a medida pleiteada como útil, razoável ou proporcional, exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+3. Ademais, considerando a existência, também, de fundamento de índole constitucional do aresto recorrido, o qual não foi impugnado por recurso extraordinário, incide à hipótese o óbice da Súmula nº 126 desta Corte.
+4. Agravo interno não provido
+(AgInt no REsp 1.891.911/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 23/11/2020, DJe 27/11/2020)
+Por fim, quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DE SUSPENSÃO DE CNH E BLOQUEIO DE CARTÕES DE CRÉDITO DO DEVEDOR. MEDIDAS ATÍPICAS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
