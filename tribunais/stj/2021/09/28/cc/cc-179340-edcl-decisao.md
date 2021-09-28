@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela RUBENS HENRIQUE DE CASTRO e OUTRAcontra decisão monocrática proferida por este signatário, acostada às fls. 337-339, queconheceu do presente conflito e, por conseguinte, declarou a competência do r. Juízo de Direito da 8.ª Vara Cível de Curitiba-PR.
+Inconformados, osora embargantes, em sede de aclaratórios (fls. 346-360), tempestivamente opostos, alega em síntese que "(..)há contradição e omissão na referida decisão, posto que não levou em consideração a falta de reconhecimento de hipossuficiência na origem e da preclusão da matéria.".
+Pede, assim, "(..)sejam sanadas as contradições a respeito do reexame de fatos feito por este juízo para reconhecer a hipossuficiência e qualidade de consumidora da Autora, que não foram reconhecidas na origem, assim como a omissão no que se refere a preclusão da matéria, decidida e não recorrida pela Autora no momento oportuno. sejam sanadas as contradições a respeito do reexame de fatos feito por este juízo para reconhecer a hipossuficiência e qualidade de consumidora da Autora, que não foram reconhecidas na origem, assim como a omissão no que se refere a preclusão da matéria, decidida e não recorrida pela Autora no momento oportuno."
+Impugnação às fls. 365-367.
+É o relatório.
+Decide-se.
+Os presentes embargos de declaração não merecem acolhimento.
+1. Nos estreitos lindes do artigo e artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, cito precedente: EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado.
+Isso porque, consoante asseverado no r. decisum embargado, esta Corte Superior assentou entendimento segundo o qual, em princípio, a competência territorial para decidir a respeito de relações de consumo é absoluta, porém, nas hipóteses em que o consumidor ajuizar a demanda, cabe a ele escolher o local em que melhor possa deduzir sua defesa, isto é, entre seu foro de domicílio, do domicílio do réu, do local de cumprimento da obrigação, ou do foro de eleição contratual, caso exista.
+Na oportunidade, foram citados os seguintes precedentes:EDcl no AgRg nos EDcl no CC 116.009/PB, Rel. Min. Sidnei Beneti, Relatora para acórdão Ministra Maria Isabel Gallotti, Segunda Seção, DJe de 20/04/2012;CC 106.990/SC, Rel. Min. Fernando Gonçalves, Segunda Seção, DJe de 23/11/2009; REsp 1.084.036/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 17/03/2009; AgRg no AREsp 391.555/MS, desta Relatoria, DJe de 20/04/2015.
+No caso dos autos, a ação foi proposta no foro do domicílio da autora, ressaindo, assim, a competência deste para processar e julgar o feito.
+Diante disso, não havendo notícia de alteração na situação fática, não há razão para modificar a decisão impugnada, bem como por inexistir nenhuma das máculas prevista no art. 1.022 do Código de Processo Civil.
+2. Do exposto, com fundamento no art. 1.022, do CPC/15, rejeito os presentes embargos declaratórios.
+Publique-se. Intimem-se.
