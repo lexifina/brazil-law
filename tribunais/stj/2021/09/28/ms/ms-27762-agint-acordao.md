@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu liminar em mandado de segurança impetrado pela Fundação Felice Rosso, fundamentado no art. 5º, LXIX, c/c com o art. 105, I, b, da Constituição Federal.
+A ação visa anular a decisão do Ministro da Saúde proferida no Processo Administrativo n. 25000.093787/2018-11.
+Alega ser mantenedora do Hospital Felício Rocho, entidade que também atende aos usuários do Sistema Único de Saúde -SUSe que, à época do pedido de concessão do seu Cebas -2018,apestar de prestar mais de 60% de seus serviços ao SUS, teve indeferido seu pleito.
+Afirma que, no bojo do referido procedimento administrativo, não houve fundamentação fática para negativa do pedido, e houve uma reclassificação, de ofício, da prestação de contas da entidade no percentual, à consideração de que teria havido a comprovação apenas de 30, 60% de prestação de serviços ao SUS.
+Sustentando ter preenchido os requisitos necessários à concessão do Cebas, requer, liminarmente, sustar os efeitos do julgamento do referido processo administrativo, ou, alternativamente, sustados os atos fiscalizatórios relativos à competência da Receita Federal caso tenha havido comunicação àquele órgão.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, à míngua dos requisitos autorizadores à concessão da medida pleiteada, INDEFIRO a liminar."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão , nesses termos (fls. 1.249-1.250):
+..a decisão administrativa combatida, ao fazer, de ofício, a reclassificação da Agravante acabou por ferir a jurisdição administrativa, na medida em que não buscou a verdade material, ferindo, portanto, os preceitos do artigo 37 da Constituição Federal e aqueles previstos pela Lei n. 9784/1999.
+Assim, resta notória a violação aos princípios administrativos na condução do procedimento o que, portanto, permite a desconstituição do ato administrativo viciado.
+Lado outro, sobreleva ressaltar que a ora Agravante não objetiva por meio deste mandamus comprovar a porcentagem de prestação de serviços ao SUS, mas sim que seu pleito de concessão de CEBAS, seja apreciado de acordo com a opção de enquadramento eleita pela Agravante, a saber "pela prestação anual de serviços prestados ao SUS em percentual mínimo de 60%".
+Ora, a Impetrante, ora Agravante cumpriu rigorosamente cumpridas as determinações atinentes ao enquadramento acima mencionado, tendo fornecido toda a documentação solicitada.
+Contudo, seu pleito fora indeferido em razão de ausência de documentos essenciais, os quais apenas tornaram-se necessário quando da nova classificação efetuada, de ofício, pelo D. Ministério, ato este que, como exposto anteriormente, é nulo por ferir princípios administrativos.
+Assim, ante o exposto, indiscutível o fumus boni iuri.
+No tocante ao periculum in mora, tem-se que o indeferimento da Certificação pode vir a macular a situação de regularidade fiscal da Impetrante, ora Agravante, gerando, ainda, a possibilidade de aplicação de multas, por meio da lavratura de autuações fiscais e a impossibilidade de renovação da sua certidão de regularidade. (..)
+Logo, resta evidenciada a necessidade de prover o presente recurso, a fim de que seja reformada a r. decisão monocrática prolatada, para conceder a liminar requerida, com o fito de sustar temporariamente os efeitos das conclusões tomadas no Julgamento do Processo Administrativo nº 25000.093787-2018-11, determinando, ainda, que se abstenha o Agravado de fazer qualquer comunicado à Receita Federal do Brasil acerca das conclusões tomadas nos autos do processo administrativo, ou; alternativamente, caso já tenha sido feito o comunicado à Receita Federal do Brasil, pede que sejam sustados os atos fiscalizatórios relativos à competência daquele órgão.
+É relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RENOVAÇÃO DO CEBAS. MANDADO DE SEGURANÇA. ATO ADMINISTRATIVO. FÉ PÚBLICA. PRESUNÇÃO DE LEGALIDADE, LEGITIMIDADE E VERACIDADE. LIMINAR. FUMUS BONI IURIS E PERICULUM IN MORA. AUSÊNCIA. INDEFERIMENTO.
+I -Na origem, trata-se de mandado de segurança impetrado por Fundação Felice Rosso contra o Ministro da Saúde objetivando a anulação da decisãoproferida no Processo Administrativo n. 25000.093787/2018-11, na qual foi indeferida aconcessão/renovação do Certificado de Entidade Beneficente de Assistência Social -Cebas. Nesta Corte, indeferiu-se a liminar.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a concessão de liminar,em viamandamental, exige a necessária presença dos costumeiros requisitos centrais à tutela de urgência, quais sejam, o fumus boni iuris e o periculum in mora, os quais, nessa seara preambular, não estão evidenciados.
+III - O ato administrativo tem fé pública e goza de presunção de legalidade, legitimidade e veracidade. Somente em situações excepcionais, desde que haja prova robusta e cabal,pode-se autorizar o afastamento da justificativa do interesse público àsua desconstituição, o que não se verifica de pronto no caso concreto.
+IV - A impetrante não traz qualquer alegação sobre possível afronta a princípios administrativos na condução do procedimento, mas limita-se a deduzir acerca do próprio mérito, relativamente à questão que, inclusive, demandaria dilação probatória, acerca da comprovação da porcentagem de prestação de serviços ao SUS.
+V - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão agravada deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça, firme no sentido de que a concessão de liminar, em via mandamental, exige a necessária presença dos costumeiros requisitos centrais à tutela de urgência, quais sejam, o fumus boni iuris e o periculum in mora, os quais, nessa seara preambular, não estão evidenciados.
+O ato administrativo tem fé pública e goza de presunção de legalidade, legitimidade e veracidade. Somente em situações excepcionais, desde que haja prova robusta e cabal, pode-se autorizar o afastamento da justificativa do interesse público à sua desconstituição, o que não se verifica de pronto no caso concreto.
+Veja-se que a impetrante não traz qualquer alegação sobre possível afronta a princípios administrativos na condução do procedimento, mas se limitaa deduzir acerca do próprio mérito, relativamente à questão que, inclusive, demandaria dilação probatória, acerca da comprovação da porcentagem de prestação de serviços ao SUS.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
