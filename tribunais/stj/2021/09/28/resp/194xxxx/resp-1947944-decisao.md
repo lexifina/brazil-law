@@ -1,0 +1,35 @@
+DECISÃO
+1. Trata-se de recurso especial interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 356):
+Agravo de instrumento. Ação de indenização securitária.Decisão que rejeitou impugnação apresentada pela executada, determinando bloqueio de ativos. Insurgência da executada.
+Competência. Aplicação do Tema 1011, do STF. Requisitos para remessa dos autos à Justiça Federal não verificados. Processo com sentença de mérito. Manutenção dos autos na Justiça Comum Estadual.
+Apólice de seguro garantia. Constrição de valores determinada mesmo após apresentação de seguro garantia. Seguro garantia rejeitado pelos exequentes. Vigência exígua. Possibilidade de concessão de prazo para bloqueio de valores. Concedido prazo para depósito integral do débito exequendo. Realização de bloqueio on line no caso de descumprimento.
+Suspensão. Tema 1039, do STJ. Afetação de Recursos Especiais sob o rito dos recursos repetitivos. Determinada a suspensão do processamento de todos os processos pendentes, nos termos do art. 1.037, inciso II, do CPC. Suspensão que não se aplica ao caso em análise. Questão a respeito da prescrição discutida na fase de conhecimento. Preclusão.
+Ilegitimidade ativa. Questão discutida no processo de conhecimento. Preclusão.
+Honorários advocatícios. Decisão rejeitou impugnação e não fixou honorários advocatícios, nos termos da Súmula 519, do STJ.
+Resultado. Recurso parcialmente provido.
+Opostos embargos de declaração pela parte recorrida (fls. 434-435), foram rejeitados (fls. 436-441).
+Nas razões do recurso especial (fls. 363-380), aponta a parte recorrente ofensa ao disposto no art. 1º-A da Lei nº 12.409/2011, e arts. 525, § 1º, II, e 1.037, II, do Código de Processo Civil.
+Em apertada síntese, sustenta "ointeresse da Caixa Econômica Federal e a consequente competência da Justiça Federal para julgar as demandas que envolvam questões relacionadas ao Seguro Habitacional do Sistema financeiro de Habitação (SH do SFH)".
+Alega que "não foi observado que o caso concreto se enquadra na realidade na tese 2 do acórdão e não na tese 1.2 como restou equivocadamente entendido no acórdão proferido. Isso porque, na data em que a MP 513/2010 entrou em vigor (26.11.2010), não existia sentença de mérito neste caso, tendo sido proferida sentença apenas em 21/10/2015."
+Argumenta que "com a determinação de afetação dos recursos ao rito dos artigos 1.036 e seguintes do CPC/15, necessário o sobrestamento de todos os processos em trâmite no território nacional, que versem sobre a questão em debate."
+Sustenta que "os autores JOSE APARECIDO PEREIRA, ROSA HELENA RAMOS, FABIANA FRASCARELLI e ALICE MARIA ELEUTERIO GALI, não são mutuários originais, bem como os autores ROSANGELA APARECIDA DE ANDRADE e PEDRO PEREIRA DE ANDRADE, possuem contratos de financiamento já quitados, pelo que a decisão meritória proferida pelo dd. Juízo não poderá ser estendida àqueles que não detêm legitimidade para pleitear a indenização, mormente pela inexistência da relação com a apólice de seguro pública."
+Contrarrazões ao recurso especial às fls. 445-459.
+É o relatório.
+DECIDO.
+2. OSupremo Tribunal Federal, no julgamento do RE 827.996, submetido ao rito da repercussão geral, estabeleceu as seguintes teses:
+1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010):
+1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e
+1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença; e
+2) Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011".
+No caso presente, a ação originária foi protocolada no dia 03/12/2013 (fl. 6), e não havia sentença de mérito quando da edição da MP 513, de 26.11.2010, convertida na Lei 12.409/2011, na medida em que a sentença de mérito somente foi prolatadaem 30/9/2015 (fl. 156).
+A decisão interlocutória agravada, contra a qual interposto o agravo de instrumento do qual tirado o presente recurso especial, indeferiu a participação da CEF na relação processual e a remessa dos autos à Justiça Federal, em contrariedade, portanto, à orientação firmada pelo STF (item 1.1 acima transcrito).
+Portanto, os autos devem ser remetidos à Justiça Federal para análise do interesse jurídico da CEF para ingressar no feito.
+3. Ante o exposto, douprovimento ao recurso especial,nos termos da fundamentação.
+Prejudicadas as demais alegações.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. SEGURO HABITACIONAL. SFH. AÇÃO AJUIZADA ANTES DA VIGÊNCIA DA MP 513/2010, CONVERTIDA NA LEI 12.409/2011, INTERESSE JURÍDICO DA CEF. COMPETÊNCIA DA JUSTIÇA FEDERAL. RE 827.996/PR, REPERCUSSÃO GERAL. RECURSO ESPECIAL PROVIDO.
+1. Segundo o estabelecido pelo STF, no julgamento do RE 827.409/PR, com repercussão geral, "a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS", sendo "aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010)".
+2. Ainda de acordo com a tese firmada no julgamento do RE 827.409/PR (item 1.1), nos processos ainda sem sentença de mérito (na fase de conhecimento) quando da entrada em vigor da MP 513/2010, devem os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011.
+3. Hipótese em que não havia sentença de mérito na fase de conhecimento em 26.11.2010, devendo ser acolhido o pedido de remessa dos autos à Justiça Federal, competente para decidir acerca do interesse jurídico do FCVS e a legitimidade da CEF para intervir na causa.
+4. Recurso especial provido.
