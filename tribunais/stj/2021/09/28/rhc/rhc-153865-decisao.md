@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por PRISCILA SARDO PEREIRA contra acórdão do Tribunal de Justiça do Estado de Santa Catarina(HC n. 5043179-21.2021.8.24.0000).
+Foi ofertada ação penal em face darecorrente pela suposta prática do crime tipificado no art.33, caput, c/c o art. 40, IV, ambos da Lei n. 11343/2006. Foi-lhe decretada a prisão preventiva.
+Alega falta de justa causa para o prosseguimento do feito em razão da ausência de elementos idôneos para comprovar a materialidade delitiva.Sustenta a existência do crime está sendo baseada em conversas interceptadas, sendo que nenhuma droga foiapreendida.
+Afirma ainda que, embora tenha sido encontrada droga na residência do adolescente, a qual supostamente foi vendida pela recorrente, não hánenhuma prova que indique que o material foi de fato adquirido a partir da recorrente.
+Argumenta pelo trancamento do processo criminal pela falta de laudo toxicológico, umavez que é imprescindível para comprovar a materialidade do crime de tráfico de drogas.
+Requer, liminarmente, a expedição de contramandado de prisão. E no mérito, pugna pelo trancamento doprocesso criminal.
+O pedido de liminar foi indeferido às fls. 87-88.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso em habeas corpus (fls. 135-139).
+É o relatório. Decido.
+Admite-se o trancamento prematuro de persecução penal pela via estreita do writ somente nos casos em que se constatam, sem necessidade de dilação probatória, a falta de indícios mínimos de materialidade e autoria, a absoluta falta de justa causa, a evidente atipicidade da conduta ou a ocorrência de causa de extinção da punibilidade (HC n. 580.099/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/9/2020), excepcionalidades não demonstradas nos autos.
+Acerca da matéria, o Tribunal de origem manifestou-se da seguinte forma (fls. 51-57):
+Neste caso, como transcrito no relatório, a Paciente é acusada de ter vendido crack a C. de O. em algum momento anterior a 22.3.21. E no dia 30.3.21, certa quantidade dessa mesma substância foi encontrada com C. de O. (autos 5000838-02.2021.8.24.0025, Evento 85, doc1, p. 49). O montante apreendido, segundo a imputação inicial, é precisamente o entorpecente que teria sido alienado pela Paciente.
+A droga confiscada com C. de O. foi submetida a perícia, o que justificou a formulação do laudo pericial dos autos 50029374220218240025 (Evento 1, doc1, p. 14-16).
+Há, portanto, referibilidade entre a imputação dirigida à Paciente e os narcóticos apreendidos com C. de O.
+ ..
+Não se pode, diante desse contexto, reputar insuficiente a prova da ocorrência do delito a ponto de obstar o processamento da ação penal.
+Na espécie, o Juízo de primeiro grau fundou-se sua decisão de manter o processo penal, sob o argumento de que há indícios, ainda que mínimos, acerca da materialidade do crime, posto que, além das conversas interceptadas no curso da investigação policial que indicam a venda de drogas, foi apreendido na casa da recorrente um caderno com informações, em tese, referentes ao comércio de drogas por ela operado.
+Registre-se que, "embora não se admita a instauração de processos temerários e levianos oudespidos de qualquer sustentáculo probatório, nessa fase processual deve ser privilegiado o princípio do indubio pro societate. De igual modo, não se pode admitir que o Julgador, em juízo de admissibilidade daacusação, termine por cercear o jus accusationis do Estado, salvo se manifestamente demonstrada acarência de justa causa  .. ". Todavia, se a peça acusatória expôs, de forma satisfatória, "a narração defato típico, antijurídico e culpável, com a devida acuidade, suas circunstâncias, a qualificação do acusado,a classificação do crime e o rol de testemunhas, viabilizando a aplicação da lei penal pelo órgão julgador eo exercício da ampla defesa pela denúncia, forçoso reconhecer que a peça acusatória permite adeflagração da ação penal" (RHC n. 110.714/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJede 19/8/2019).
+Registra-se que "a instrução processual é o campo propício para se desvendar todo os pontossuscitados em profundidade e de forma exauriente, em que serão debatidas e comprovadas, ou não, todasas teses das partes, sob o crivo do contraditório e da ampla defesa" (APn n. 951/DF, relator Ministro LuisFelipe Salomão, CE - Corte Especial, DJe de 12/11/2020) .
+Ou seja, o próprio processo penal é uma garantia dada a recorrente, que poderáproduzir provas durante a fase instrutória de modo a demonstrar a falta de materialidade do crime,conforme alegado.
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
