@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado de próprio punho porMURILO FRAGA DA COSTA contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos que o paciente foi condenado como incurso nas sanções doart. 157, parágrafo 2º, incisos I e II, do Código Penal, às penas de 05 (cinco) anos e04 (quatro) meses de reclusão, em regime semiaberto, e 10 (dez) dias-multa.
+Irresignada, a defesa do corréu interpôs recurso de apelação ao Tribunal de origem, que deu provimento ao apelo, para absolver o corréu, com fundamento no art. 386, inc. VII, do Código de Processo Penal, nos termos do acórdão juntado às fls. 13-23, com a seguinte ementa:
+"APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. ART. 157, §2º, INCS. I E II, DO CÓDIGO PENAL. FRAGILIDADE PROBATÓRIA NO TOCANTE À AUTORIA. SENTENÇA REFORMADA. ABSOLVIÇÃO DECRETADA. Não havendo provas seguras e inequívocas acerca da autoria delitiva, a absolvição é medida que se impõe, fulcro no art. 386, inc. VII, do Código de Processo Penal. No particular, a prova colhida durante a persecução penal não autoriza a manutenção da condenação do acusado. Ausência de reconhecimento judicial por parte da vítima. Negativa de autoria que não deve ser descartada, diante das circunstâncias do caso concreto. RECURSO PROVIDO."
+No presente writ, o impetrante sustenta a ilegalidade, ante a não extensão do provimento jurisdicionalefetivado ao corréu, sob a premissa que detém a mesma condição fática-processual.
+Requer, ao final, a concessão da ordem, para absolver o paciente(fls. 3-23).
+O pedido liminar foi indeferido (fls. 615-616).
+As informações foram prestadas às fls. 620-694.
+A Defensoria Pública da União pleiteou aextensão da absolvição declarada em prol do corréu "com amparo no art. 580 do CPP, que autoriza a extensão da decisão decorrente de recurso interposto por um dos corréus, requer seja aproveitada ao paciente, pois não se baseia em motivos pessoais." (fls. 88-92).
+O Ministério Público Federal, às fls. 95-102, manifestou-se nos termos da seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO MAJORADO. ABSOLVIÇÃO CONCEDIDA A CORRÉU. EXTENSÃO DO BENEFÍCIO(ART. 580 DO CPP). PRECEDENTES DO STJ. NÃO CONHECIMENTO.- 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial.- 2ª Preliminar: não conhecimento de ofício; ausência de competência. Precedentes: STJ (HC 245.731/MS; HC nº248.757/SP).- 3ª Preliminar: não conhecimento das questões suscitadas ou, mesmo de ofício, da ordem, sob pena de contrariar oart. 105, inciso III, "a", "b" e "c" da CF.- Parecer pelo não conhecimento da ordem. "
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante sustenta a ilegalidade, ante a não extensão do provimento jurisdicional efetivado ao corréu, sob a premissa que detém a mesma condição fática processual.
+Acerca do punctum saliens, o Tribunal de origem, quando do julgamento da apelação, assim se pronunciou, in verbis:
+"No particular, dos elementos de prova coletados no curso da persecução penal, a meu sentir, não é possível imputar a autoria do crime de roubo sobre o recorrente, na medida em que, ainda que reconhecido pela vítima na fase policial, em juízo, não o foi. Demais disso, não houve a apreensão do veículo subtraído da vítima.
+O fato de o acusado ter sido preso, posteriormente, e apreendidas máscaras (semelhantes às utilizadas na empreitada delitiva narrada na acusação), por si só, não autoriza a condenação, especialmente diante da não confirmação da autoria, em juízo, pelo ofendido, pois, conforme consta dos documentos da fase policial, um dos autores do assalto (o ora apelante) teria mostrado o rosto e ameaçado a vítima.
+Assim, no caso concreto, tenho que a ausência de reconhecimento judicial da vítima (quando poderia ter realizado), gera dúvida quanto à efetiva autoria delitiva, merecendo reforma a sentença condenatória."
+Dispõe o artigo 580 do Código de Processo Penal que, no caso de concurso de agentes, a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Na hipótese, o Tribunal de origem incorreu em constrangimento ilegal, na medida em que, mesmo diante da similitude fática processual, considerou a ausência de provas judiciais de autoria em relação ao corréu, mas não estendeu o provimento jurisdicionalao ora paciente.
+Nesse compasso, considerando que o corréu, reconhecido em sede policial, foi absolvido, tem-se que o paciente, o qual sequer foi reconhecido pela vítima, também deve ser absolvido, nos termos do artigo 580 do CPP.
+A propósito: Uma vez que o corréu se encontra em situação fático-processual idêntica à do paciente, devem ser-lhe estendidos os efeitos deste acórdão, nos termos do art. 580 do Código de Processo Penal. (HC 557.151/RJ, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe 14/08/2020).
+Ante o exposto, não conheço do writ. Contudo, concedo a ordem de ofício, para absolver o paciente, nos termos do artigo 580 do CPP.
+P. e I.
