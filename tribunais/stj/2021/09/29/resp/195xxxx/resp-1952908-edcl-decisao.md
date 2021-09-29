@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. CABIMENTO. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA DETERMINAR A OBSERVÂNCIA DO DISPOSTO NO ART. 85, § 11, DO CPC/2015.
+1. Trata-se de Embargos de Declaração opostos pela UNIÃO contra decisão monocrática de minha lavra, proferida com a seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. REPOSICIONAMENTO EM ATÉ DOZE REFERÊNCIAS. FALTA DE INDICAÇÃO ESPECÍFICA DO DISPOSITIVO DE LEI FEDERAL A QUE TERIA O TRIBUNAL LOCAL VIOLADO E DADO INTERPRETAÇÃO DISCORDANTE DE OUTROS TRIBUNAIS. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. DISSÍDIO NÃO CARACTERIZADO. RECURSO ESPECIAL DO SERVIDOR NÃO CONHECIDO.
+2. Alega a parte embargante descabida omissão quanto aos honorários sucumbenciais recursais, devidos na forma do art. 85 do CPC/2015.
+3. Impugnação às fls. 248/249.
+4. É o relatório.
+5. Nos termos do Enunciado Administrativo n. 7/STJ, somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC.
+6. O Superior Tribunal de Justiça consagrou o entendimento de que apenas é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18.3.2016, momento em que entrou em vigor o novo Código de Processo Civil; (b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e (c) condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso. A propósito, cito precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. CABIMENTO.
+1. Em relação aos honorários recursais, esta Corte entende que "é devida a majoração da verba honorária sucumbencial, na forma do artigo 85, parágrafo 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo CPC; (b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; (c) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso".
+(EDcl no AgInt nos EDcl no AREsp 1.365.095/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/9/2019, DJe 24/9/2019)
+7. No caso, o acórdão recorrido foi julgado em 14.07.2020, sendo cabível a fixação dos honorários recursais, na forma do art. 85, § 11, do CPC/2015.
+8. Ante o exposto, acolho os Embargos de Declaração, para, nos termos do que dispõe o art. 85, § 11, do CPC/2015, fixar os honorários recursais em 1% sobre a base de cálculo definida pelas instâncias ordinárias, que deverá ser acrescido ao montante total, respeitados os limites e os critérios previstos nos §§ 2o. e 3o. do art. 85 do CPC/2015, bem como as regras da gratuidade da justiça ao caso presente.
+9. Publique-se.
+10. Intimações necessárias.
