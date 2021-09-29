@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquela unidade federativa no Agravo em Execução Penal n.1.0525.17.014837-9/002.
+Consta dos autos que o Juízo de primeiro grau, por ter considerado não preenchido o requisito subjetivo pelo cometimento de falta grave durante o cumprimento da pena, indeferiu o pedido de livramento condicional apresentado pela ora Recorrido (fl. 130).
+Irresignada, a Defesa interpôs agravo em execução, ao qual a Corte de origem deu parcial provimento paraconcedero benefício ao Apenado, nos termos da seguinte ementa (fl. 128; grifos diversos do original):
+"RECURSO DE AGRAVO EM EXECUÇÃO - PROGRESSÃO DE REGIME - PREJUDCIALIDADE - LIVRAMENTO CONDICIONAL - PREECHIMENTO DOS REQUISITOS DE ORDEM OBJETIVA E SUBJETIVA - DECISÃO REFORMADA - RECURSO PROVIDO. Resta prejudicado o pleito de progressão de regime para o semiaberto, porquanto o magistrado da execução já o concedeu. A decisão que indeferiu o livramento condicional deve ser reformada, uma vez o agravado comprovou comportamento satisfatório nos últimos doze meses. Julgar parcialmente prejudicado, e dar parcial provimento ao recurso são medida que se impõe."
+Sustenta a Acusação, nas razões do apelo nobre, contrariedade aoart. 83, inciso III, alínea a, do Código Penal; bem como ao art. 131 da Lei n.7.210/1984.
+Pondera que, com a edição da Lei n.13.964/2019,o cometimento de faltas graves, antigas ou recentes, não é compatível com a distinção de bom comportamento durante o curso da pena privativa de liberdade.
+Ressalta que oora Recorridocometeu falta grave durante o cumprimento da reprimenda, qual seja, posse de aparelho celular no interior da unidade prisional.
+Aduz que, conquanto a falta grave tenha sido cometida em 02/11/2018, o mero fator temporal não pode ser considerado para afastar o não cumprimento do requisito subjetivo necessário à concessão do benefício.
+Foram apresentadas contrarrazões (fls. 158-168). O recurso especial foi admitido (fls. 172-174).
+O Ministério Público Federal apresentou parecer, opinando pelo conhecimento e provimento do apelo nobre (fls. 190-193).
+É o relatório.
+Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 130-132; sem grifos no original):
+"Verifica-se que durante o curso da execução penal, o agravante cometeu falta grave em 02/11/2018, consistente na posse de aparelho celular na unidade prisional. No entanto, a decisão agravada, ao negar o benefício do livramento condicional ao reeducando, destacou que:
+"Diante da decisão proferida no sequencial nº 50.1, em especial o que restou decidido em seu item 2 quanto ao reconhecimento da prática de FALTA GRAVE pelo condenado acima, INDEFIRO, por ora, a concessão de benefícios (progressão de regime e livramento condicional) ante a não satisfação do requisito subjetivo;". (Ordem nº 03).
+ ..
+No caso em análise, é verdade que o reeducando não esteve apto à ressocialização, evidenciando indisciplina e irresponsabilidade, ao praticar a falta acima descrita.
+Porém, a referida transgressão foi praticada há mais de dois anos. Dessa maneira, a decisão agravada deve ser reformada, eis que o agravante não demonstrou desrespeito e irresponsabilidade no cumprimento da pena privativa de liberdade nos últimos doze meses.
+Não se pode perder de vista que o objetivo da pena, além de prevenir, é o de ressocializar o reeducando, reinserindo-o, gradativamente, ao convívio social, sendo o livramento condicional fase importante nesse intento.
+Destarte, imperiosa a concessão de liberdade antecipada ao penitente, por estarem satisfeitos os requisitos para tal."
+Observa-se que, apesar de haver o registro de falta grave, o último incidente disciplinar ocorreu em 02/11/2018, ou seja, há mais de 2 (dois) anos. Desse modo, não há ofensa ao art. 83 do Código Penal.
+Ao contrário," c om a publicação da Lei 13.964/2019 - Pacote Anticrime -, o art. 83, III, b, do Código Penal passou a exigir o não cometimento de falta grave nos últimos 12 meses para a concessão do livramento condicional " (AgRg no HC 549.649/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/06/2020, DJe 08/06/2020).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL E PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA ÀS RESTRIÇÕES DO DECRETO DE INDULTO/COMUTAÇÃO. ATO DISCRICIONÁRIO DO PRESIDENTE DA REPÚBLICA. INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA PARA DEFERIMENTO DE INDULTO. PACOTE ANTICRIME. AGRAVO DESPROVIDO.
+1. Não se permite interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto. Em outras palavras, não se pode criar demais restrições à concessão da benesse que não sejam aquelas versadas expressamente na norma presidencial. A leitura que deve ser feita da lei é aquela com base em interpretação que empreste à norma maior concretude possível, porém sempre mantendo como vetor exegético os princípios insculpidos na Constituição Federal.
+2. Se para o indeferimento da comutação pela prática de falta grave é necessário que a referida infração disciplinar seja verificada nos 12 meses anteriores à publicação do Decreto concessivo, não há razão para que, no caso de progressão de regime e livramento condicional tal lapso de tempo não seja igualmente observado.
+3. Interpretação sistemática e teleológica do art. 4º, inciso IV do Decreto 9.246/2017, com seu inciso I.
+4. De acordo com o art. 83, III, do Código Penal (redação dada pela Lei 13.964/2019), falta grave praticada há mais de 12 meses não pode obstar a concessão do livramento condicional.
+5. Agravo regimental desprovido." (AgRg no HC 587.663/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/09/2020, DJe 14/09/2020.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. CONCESSÃO PELO JUÍZO DA EXECUÇÃO PENAL. REVOGAÇÃO PELO TRIBUNAL ESTADUAL. FUNDAMENTAÇÃO. FALTA GRAVE. IMPOSSIBILIDADE. SÚMULA 441/STJ. APLICABILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+ ..  a falta grave foi cometida em 17/11/2018, devendo-se considerar o decurso considerável de tempo a se concluir pela reabilitação do apenado, dada a natureza progressiva do cumprimento da pena (AgRg no HC n. 549.649/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/6/2020).
+2. Agravo regimental improvido." (AgRg no HC 527.134/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/08/2020, DJe 02/09/2020.)
+Ademais, oentendimento vigente neste Tribunal Superior é no sentido de não ser possível atribuir efeitos eternos às faltas graves praticadas na execução penal, o que constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena.
+Confira-se, a propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. FALTA GRAVE OCORRIDA HÁ MAIS DE 12 MESES. INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA. ART. 4º, I E IV, DO DECRETO PRESIDENCIAL 9.246/2017. LEI N. 13.964/2019. PACOTE ANTICRIME. NOVA REDAÇÃO DO ART. 83, III, DO CÓDIGO PENAL. REABILITAÇÃO DO APENADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. "Não há falar em desconsideração total do histórico carcerário do preso, mas sim em sua análise em consonância com os princípios da razoabilidade, proporcionalidade e individualização da pena, que regem não só a condenação, como a execução criminal" (AgRg no HC n. 549.649/SC, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/6/2020, DJe 8/6/2020). Precedentes.
+2. "Conforme entendimento jurisprudencial e a novel legislação, não é possível atribuir efeitos eternos às faltas graves praticadas pelo apenado, o que constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena". (HC n. 592.587/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/8/2020, DJe 2/9/2020). Precedentes.
+3. No caso, pretendia o Parquet que fossem novamente sopesadas, a fim de obstar a concessão do livramento condicional, faltas graves já consideradas reabilitadas em decisão anterior em que o Juízo de execução concedeu a progressão de regime, entendendo acertadamente o Tribunal de origem pela necessidade de aferição do requisito subjetivo (art. 83, II, a, do CP) a partir de momento posterior à mencionada decisão concessiva.
+4. Agravo regimental improvido." (AgRg no REsp 1.921.742/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/06/2021, DJe 29/06/2021.)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ART. 83 DO CÓDIGO PENAL COM REDAÇÃO DADA PELA LEI N. 13.964/2019. REQUISITO SUBJETIVO. FALTAGRAVE PRATICADA HÁ MAIS DE 12 (DOZE) MESES.RECURSO ESPECIAL DESPROVIDO.
