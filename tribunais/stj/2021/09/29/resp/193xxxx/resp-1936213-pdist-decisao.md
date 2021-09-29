@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Fls. 525/531e: Trata-se de Recurso Especial interposto pelo Conselho Administrativo de Defesa Econômica - CADE, contra acórdão do Tribunal Regional Federal da Primeira Região, que negou provimento à apelação (fls. 286/292e):
+PROCESSUAL CIVIL. EXECUÇÃO EXTRAJUDICIAL. AUSÊNCIA DE LIQUIDEZ DO TÍTULO EXECUTIVO. SENTENÇA. EXTINÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+1. O ônus da sucumbência está subordinado ao princípio da causalidade, devendo ser suportado por quem deu causa ao ajuizamento da ação.
+2. O conceito de proveito econômico não está expressamente previsto em nosso sistema legislativo. Mas, na totalidade do sistema jurídico, supõe a existência de acréscimo patrimonial. No entanto, entender proveito econômico como sinônimo de acréscimo patrimonial, não se mostra razoável para que se proceda a melhor interpretação para fins de fixação de honorários advocatícios de sucumbência, vez que, ocorrem situações em que a parte vencedora da demanda não experimentará efetivo ganho em seu patrimônio.
+3. Inexiste vinculação direta e obrigatória entre o proveito econômico e o valor atribuído à causa, pois esta (vinculação) poderá ou não ocorrer. Nesse sentido, o artigo 291 do NCPC assim prescreve: "A toda causa será atribuído um valor certo, ainda que não tenha conteúdo econômico imediato".
+4. Ademais, os honorários advocatícios de sucumbência têm natureza remuneratória e não podem servir como instrumento de penalidade pecuniária aplicada ao vencido na demanda, sob pena de imposição de ônus excessivo.
+5. Apelação do CADE não provida. Apelação de Gustavo Furtado provida para majorar os honorários advocatícios.
+Opostos embargos de declaração, forma rejeitados (fls. 327/330e).
+A Recorrente interpôs Recurso Especial alegando a violçao aos arts. 1.022, parágrafo único, II;489,§ 1º, IV; 14; 85,§ 8º, do Código de Processo Civil de 2015 e 20,§§ 4º e 3º, c, do Código de Processp Civil de 1973 (fls. 334/374e).
+Determinei aa devolução dos autos ao tribunal de origem, com a devida baixa, devendo o processo permanecer suspenso até a publicação dos acórdãos dos Recursos Especiais Repetitivos acima identificados, a fim de que a Corte de origem, posteriormente, proceda nos termos do art. 1.040, I e II, do Código de Processo Civil (fls. 517/519e):
+A questão jurídica objeto do presente recurso diz respeito à "definição do alcance da norma inserta no § 8º do art. 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados" (Recursos Especiais ns. 1.850.512/SP, 1.877.883/SP e 1.906.623/SP, da relatoria do Sr. Ministro Og Fernandes, submetidos ao rito dos recursos repetitivos, Tema 1.076), cujo processamento encontra-se pendente de julgamento perante a Corte Especial.
+A 1ª Seção desta Corte, na sessão de 26.05.2021, determinou, por maioria, a suspensão do julgamento do tema controverso, na Questão de Ordem suscitada pelo Sr. Ministro Herman Benjamin, nos autos do Embargos de Declaração na Ação Rescisória n. 4.971/MG, da relatoria do Ministro Napoleão Nunes Maia Filho.
+Assim sendo, impõe-se o retorno dos autos à origem, os quais ficarão sobrestados até a publicação dos acórdãos a serem proferidos nos apontados recursos especiais repetitivos, para realização oportuna do juízo de adequação, a teor do disposto no art. 1.040, I e II, do Código de Processo Civil.
+A Recorrenteapresenta requerimento de distinção em razão da decisão que determinou o sobrestamento dos autos perante o Tribunal de origem (fls. 517/519e),para que permaneça suspenso até a publicação do acórdão paradigma, em razão da afetação da questão relativa à possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do CPC/15 (Tema 1.076) (fls. 525/531e).
+Defende não ser possível o sobrestamento do processo e a baixa do recurso ao Tribunal de origem, uma vez que a matéria suscitada como controversa é distinta da discussão constante do Tema 1046.
+Diante da apontada distinção, requer a revogação da decisão e o prosseguimento do julgamento do presente recurso.
+É o relatório. Decido.
+É assente o entendimento nesta Corte, segundo o qual havendo a afetação para julgamento de recurso especial sob o rito do recurso repetitivo é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma, sendo a decisão que determina tal providência irrecorrível, pois se trata de ato incapaz de gerar prejuízo às partes e, portanto, desprovido de caráter decisório.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. EXISTÊNCIA DE JULGAMENTO DE REPETITIVO ACERCA DO OBJETO DA LIDE. IMPOSSIBILIDADE DE RECURSO CONTRA DECISÃO DE SOBRESTAMENTO DO FEITO. PRECEDENTES DO STJ. INADMISSIBILIDADE DO RECURSO.
+1. Trata-se de Agravo Interno interposto contra decisum deste relator que rejeitou os Embargos de Divergência, haja vista que não cabe recurso contra decisão que determinou o sobrestamento do feito, lastreado na existência de julgamento de recurso sob a sistemática dos repetitivos sobre o bem da vida guerreado.
+2. Nesse contexto, "a admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento no STJ, seja o inconformismo apreciado na forma do art.
+543-C, §§ T e 8o do CPC e da Resolução 8, de 7/8/2008 do STJ" (EDcl nos EDcl no AgRg no AREsp 382.270/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 21/9/2017).
+3. Tem-se por irrecorrível ato do STJ que determina o sobrestamento de recursos a fim de aguardar a fixação de tese jurídica pelo Pretório Excelso, já que desprovido de caráter decisório.
+4. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+5. Verifica-se que o acórdão embargado encontra-se em conformidade com a jurisprudência atual do STJ. Citam-se precedentes: PET no REsp 1.283.168/SC. Ministro Og Fernandes, Segunda Turma. DJe 25/10/2017.
+6. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+7. Agravo Interno não provido.
+(AgInt nos EAREsp 738.545/SE, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 04/04/2018, DJe 23/05/2018).
+Ademais, eventual argumentação de distinguish também pode ser formulada no juízo de origem, devendo ser mantido comando exarado na decisão de (fls. 517/519e), que determinou a devolução dos autos.
+Posto isso, indefiro o pedido e RATIFICO a determinação de devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+Remetam-se os autos ao Tribunal de origem.
+Publique-se. Intimem-se. Cumpra-se.
