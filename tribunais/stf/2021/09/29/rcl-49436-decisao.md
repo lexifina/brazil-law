@@ -1,0 +1,60 @@
+RECLAMAÇÃO CONSTITUCIONAL. RE 593.068/SC (TEMA 163). CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE HORAS EXTRAS. PREMISSAS DE ORIGEM. VERBA NÃO INCORPORÁVEL AOS PROVENTOS DE APOSENTADORIA. ATO RECLAMADO EM CONFORMIDADE COM A REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. PRECEDENTES. NEGATIVA DE SEGUIMENTO.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional proposta por Município de Santo Anastácio/SP, com fundamento no art. 988, II, do Código de Processo Civil, contra decisão da Turma Recursal do Colégio Recursal de Presidente Venceslau/SP nos autos do Processo nº 1001013-12.2020.8.26.0553, que, no julgamento de agravo interno em recurso extraordinário, manteve a aplicação do Tema 163 (RE 593.068-RG), no qual firmada a seguinte tese jurídica: "Não incide contribuição previdenciária sobre verba não incorporável aos proventos de aposentadoria do servidor público, tais como 'terço de férias', 'serviços extraordinários', 'adicional noturno' e 'adicional de insalubridade."
+    O reclamante alega que o Tema 163 aplica-se tão somente a situações regidas pelo Regime Próprio dos Servidores Públicos.
+    Afirma caracterizada a teratologia da decisão impugnada, ao argumento de que discutida, nos autos subjacentes, a legitimidade da incidência de contribuição previdenciária sobre horas extras no âmbito do Regime Geral de Previdência Social.
+    Ressalta que o Município de Santo Anastácio, desde 01 de junho de 1999, por meio do art. 2º da Lei Complementar nº 27/1.999, optou por extinguir o Regime Próprio de Previdência Municipal, passando a adotar o Regime Geral de Previdência Social.
+    Argumenta que a inaplicabilidade do tema nº 163 de repercussão geral a ações ajuizadas à contribuição previdenciária no âmbito do Regime Geral de Previdência Social (a exemplo das ações ajuizadas por empregados públicos celetistas ou servidores públicos municipais) vem sendo reconhecida em diversos julgados do STF.
+    3. Requer a cassação da decisão reclamada, determinando-se o rejulgamento da causa sem a possibilidade de aplicação da tese firmada no tema nº 163 de repercussão geral, ou, no mínimo, a subida do Recurso Extraordinário interposto pela Fazenda Municipal.
+    4. Deixo de determinar a citação da parte beneficiária do ato judicial reclamado e de solicitar informações à autoridade reclamada, em decorrência da inviabilidade da reclamação. Igualmente, dispenso a manifestação do Procurador-Geral da República, por tratar a demanda de matéria repetitiva.
+    É o relatório.
+    Decido.
+    1. A reclamação prevista nos arts. 102, I, l e 103-A, § 3º, ambos da Constituição Federal, é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, descumprimento de autoridade de decisão proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que, neste último caso, se cuide da mesma relação jurídica e das mesmas partes, ou desobediência à súmula vinculante.
+    2. Já o art. 988 do CPC/2015 assim disciplina o instituto:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+    (…)
+    § 5º É inadmissível a reclamação:
+    I – proposta após o trânsito em julgado da decisão reclamada;
+    II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    (…)”
+    3. Emerge do preceito supra transcrito – art. 988, § 5º, II, do CPC –, que admissível, a contrario sensu, o cabimento da reclamação para garantir a observância de acórdão proferido em recurso extraordinário com repercussão geral reconhecida, desde que haja o esgotamento das instâncias ordinárias.
+    4. A jurisprudência desta Suprema Corte ressalta a excepcionalidade do cabimento da reclamação para observância da finalidade do sistema de repercussão geral. Além do esgotamento das instâncias ordinárias, constitui pressuposto de cabimento da reclamação a demonstração de teratologia na decisão reclamada quanto à subsunção do caso individual, representado pela controvérsia objeto do recurso extraordinário, à decisão proferida em repercussão geral. Precedentes: Rcl 25.322-AgR/RJ, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 04.8.2017; Rcl 28.283-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma, DJe 17.11.2017; Rcl 29.484-AgR/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 23.4.2019; Rcl 32.591-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 01.8.2019; Rcl 32.663-AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 05.4.2019; Rcl 33.709-AgR/MG, de minha relatoria, Primeira Turma, DJe 01.10.2019.
+    5. O reclamante pretende demonstrar a existência de teratologia no ato reclamado, em razão da aplicação, ao caso, do entendimento fixado por esta Casa no RE 593.068-RG (Tema 163), de relatoria do Ministro Luís Roberto Barroso.
+    6. Consoante emerge dos autos, trata-se de ação declaratória c/c repetição de indébito tributário, ajuizada por servidor público municipal, julgada parcialmente procedente para determinar ao Município de São Anastácio a restituição da contribuição previdenciária efetuada sobre horas extras. Para melhor compreensão da controvérsia, reproduzo a referida decisão:
+    “No mérito, o pedido é procedente.
+    A parte autora pleiteia nesta demanda a devolução dos valores pagos, a título de contribuição previdenciária, na parte incidente sobre as horas extras.
+    Dispõe o artigo 201, § 11, da Carta Magna:
+    (...)
+    De outro lado, o Estatuto dos Funcionários Públicos Municipais de santo Anastácio, Lei Complementar nº 13/1994, prevê o seguinte acerca do adicional por serviço extraordinário:
+    (…)
+    No caso dos autos, restou incontroversa a alegação de que as horas extras integram a base de cálculo da contribuição previdenciária.
+    Importa salientar que as verbas utilizadas no cálculo do benefício previdenciário devem guardar relação com o valor do benefício que o contribuinte irá receber, sendo certo que a contribuição previdenciária deve incidir somente sobre as verbas que integram a remuneração do servidor, excluindo-se as verbas recebidas em caráter transitório.
+    (…)
+    Desta feita, embora a Lei Complementar nº 13/1994 não afaste a incidência de contribuição previdenciária sobre os valores pagos a título de horas extras, é certo que referida verba possui nítido caráter transitório, conforme se depreende da ficha financeira acostada a fls. 13/24, sendo de rigor a exclusão do adicional de horas extras da base de cálculo da contribuição previdenciária, ante a necessidade de interpretação da lei à luz da Constituição Federal.
+    Desta forma, forçoso reconhecer que as verbas pagas a título de horas extraordinárias não devem compor a base de cálculo da contribuição previdenciária, por seu caráter indenizatório, eventual
+    (…)
+    De outro lado, ressalto que a tese fixada no tema 163 do Supremo Tribunal Federal com repercussão geral não fez menção a qualquer limitação para aplicação da regra estabelecida somente para os servidores públicos vinculados a regime próprio de previdência social, vejamos:
+    "Decisão: O Tribunal, por maioria, apreciando o tema 163 da repercussão geral, deu parcial provimento ao recurso extraordinário para determinar a restituição das parcelas não prescritas, nos termos do voto do Relator, vencidos os Ministros Teori Zavascki, Dias Toffoli (Presidente), Marco Aurélio e Gilmar Mendes. Em seguida, por maioria, fixou-se a seguinte tese: 'Não incide contribuição previdenciária sobre verba não incorporável aos proventos de aposentadoria do servidor público, tais como 'terço de férias', 'serviços extraordinários', 'adicional noturno' e 'adicional de insalubridade', vencido o Ministro Marco Aurélio. Não votou o Ministro Alexandre de Moraes, sucessor do Ministro Teori Zavascki. Ausente, justificadamente, o Ministro Celso de Mello. Plenário, 11.10.2018" grifei.
+    Portanto, existindo óbice à incidência de contribuição previdenciária sobre as horas extras, é devida a restituição dos valores descontados à parte autora.
+    (…)”
+    7. Colaciono, ainda, a ementa do acórdão proferido no julgamento de recurso inominado:
+     EMENTA: SERVIDOR PÚBLICO MUNICIPAL – PRETENSÃO À REPETIÇÃO DE INDÉBITO TRIBUTÁRIO REFERENTE À CONTRIBUIÇÃO PREVIDENCIÁRIA – INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE HORAS EXTRAS – IMPOSSIBILIDADE – VERBA DE CARÁTER TRANSITÓRIO NÃO INCORPORÁVEL AOS PROVENTOS DE APOSENTADORIA – COMPETÊNCIA DO JUIZADO DA FAZENDA PÚBLICA PARA APRECIAR A MATÉRIA - RECONHECIDA A LEGITIMIDADE PASSIVA DA FAZENDA MUNICIPAL, RESPONSÁVEL PELA RETENÇÃO E PELO REPASSE AO ÓRGÃO FEDERAL - SENTENÇA MANTIDA – RECURSO DESPROVIDO.
+    8. Consoante emerge dos excertos transcritos, o Tribunal de Justiça do Estado de São Paulo declarou ser indevida a incidência da contribuição previdenciária sobre horas extras, ao fundamento de que tal verba não se incorpora aos proventos de aposentadoria do servidor municipal.
+    9. Por sua, vez, no paradigma invocado pelo Juízo reclamado para obstar o seguimento do Recurso Extraordinário – RE 593.068-RG-, esta Suprema Corte destacou ser necessária a correlação entre o valor da contribuição e o valor do benefício a ser auferido, lógica que se aplica tanto ao regime geral de previdência social quanto ao regime próprio. Reproduzo, por oportuno, a ementa do acórdão paradigma:
+    “Direito previdenciário. Recurso Extraordinário com repercussão geral. Regime próprio dos Servidores públicos. Não incidência de contribuições previdenciárias sobre parcelas não incorporáveis à aposentadoria.
+    1. O regime previdenciário próprio, aplicável aos servidores públicos, rege-se pelas normas expressas do art. 40 da Constituição, e por dois vetores sistêmicos: (a) o caráter contributivo; e (b) o princípio da solidariedade.
+    2. A leitura dos §§ 3º e 12 do art. 40, c/c o § 11 do art. 201 da CF, deixa claro que somente devem figurar como base de cálculo da contribuição previdenciária as remunerações/ganhos habituais que tenham “repercussão em benefícios”. Como consequência, ficam excluídas as verbas que não se incorporam à aposentadoria.
+    3. Ademais, a dimensão contributiva do sistema é incompatível com a cobrança de contribuição previdenciária sem que se confira ao segurado qualquer benefício, efetivo ou potencial.
+    4. Por fim, não é possível invocar o princípio da solidariedade para inovar no tocante à regra que estabelece a base econômica do tributo.
+    5. À luz das premissas estabelecidas, é fixada em repercussão geral a seguinte tese: “Não incide contribuição previdenciária sobre verba não incorporável aos proventos de aposentadoria do servidor público, tais como ‘terço de férias’, ‘serviços extraordinários’, ‘adicional noturno’ e ‘adicional de insalubridade.”
+    6. Provimento parcial do recurso extraordinário, para determinar a restituição das parcelas não prescritas” (RE 593.068/SC, Rel. Min. Roberto Barroso, Tribunal Pleno, DJe 22.3.2019).
+    10. Nesse contexto, não diviso a alegada ofensa ao paradigma de repercussão geral, tampouco configurada a teratologia na decisão reclamada. Nesse sentido, colho as seguinte decisões monocráticas proferidas em reclamações ajuizadas pelo Município de Santo Anastácio: Rcl 49.440, Rel. Min. Alexandre de Moraes, DJe 17.9.2021; Rcl 49.435, Rel. Min. Cármen Lúcia, DJe 16.9.2021, Rcl 48.720, Rel. Min. Nunes Marques, DJe 23.8.2021 e Rcl 48.744, Rel. Min. Edson Fachin, DJe 16.8.2021.
+    11. Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação constitucional.
+    Publique-se.
+    Brasília, 29 de setembro de 2021.
+Ministra Rosa Weber
+Relatora
