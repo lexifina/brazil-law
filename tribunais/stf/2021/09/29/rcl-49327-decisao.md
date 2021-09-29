@@ -1,0 +1,18 @@
+DECISÃO
+    1. Ana Cristina de Almeida Campos Guimarães alega ter o Tribunal de Justiça do Estado de São Paulo desrespeitado a orientação firmada por esta Suprema Corte no Recurso Extraordinário n. 730.462 (Tema 733), no âmbito do qual foi firmada a seguinte tese:
+    A decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das decisões anteriores que tenham adotado entendimento diferente. Para que tal ocorra, será indispensável a interposição de recurso próprio ou, se for o caso, a propositura de ação rescisória própria, nos termos do art. 485 do CPC, observado o respectivo prazo decadencial (art. 495)
+    Colhe-se dos autos que o Tribunal reclamado manteve, em sede de agravo regimental contra decisão obstativa de recurso extraordinário, decisão judicial que determinara a cessação do pagamento da vantagem pecuniária intitulada “prêmio de incentivo” em razão da declaração superveniente de inconstitucionalidade da lei que instituíra referido benefício.
+    Sustenta a parte reclamante estar seu direito à percepção do “prêmio de incentivo” acobertado pela coisa julgada, de modo a não ser este alcançado pelos efeitos oriundos de decisão posterior declaratória de inconstitucionalidade, nos termos da tese contida no tema 733.
+    Requer, dessa forma, a cassação da decisão reclamada, com o restabelecimento do pagamento reconhecido em decisão judicial transitada em julgado.
+    É o relatório.
+    2. A presente reclamação é manifestamente inadmissível.
+    Ressalte-se, de início, que a aplicação do Tema 733 ao caso em comento decorreu de determinação da Presidência desta Suprema Corte, que, por entender presente a identidade com aquele Tema de repercussão geral, determinou a devolução dos autos à origem para observância do procedimento previsto no art. 1.030, inc. I, “b”, do Código de Processo Civil.
+    No caso, o órgão judiciário reclamado ponderou que a impossibilidade de rescisão automática de títulos judiciais transitados em julgado – ponto nuclear enfrentado no Tema 733 -- não se confunde com a interrupção da execução de sentenças referentes a relações jurídicas de trato sucessivo em que o fundo de direito tenha sido declarado inconstitucional, como na espécie.
+    Esse entendimento encontra-se me harmonia com o julgamento do RE 730.462 – processo piloto do Tema 733 –, de cuja ementa se extrai a seguinte passagem:
+    Afirma-se, portanto, como tese de repercussão geral que a decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória própria, nos termos do art. 485, V, do CPC, observado o respectivo prazo decadencial (CPC, art. 495). Ressalva-se desse entendimento, quanto à indispensabilidade da ação rescisória, a questão relacionada à execução de efeitos futuros da sentença proferida em caso concreto sobre relações jurídicas de trato continuado. (grifei)
+    Verifica-se, portanto, que o acórdão combatido enfrentou satisfatoriamente as arguições exaradas pelo reclamante, estabelecendo a devida correspondência entre o caso em julgamento e o paradigma consubstanciado no Tema 733 do Ementário de Repercussão Geral.
+    3. Em face do exposto, nego seguimento a esta reclamação.
+    4. Publique-se. Intime-se.
+Brasília, 29 de setembro de 2021.
+Ministro NUNES MARQUES
+Relator
