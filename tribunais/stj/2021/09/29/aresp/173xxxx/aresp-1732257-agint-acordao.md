@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno manejado por ROGÉRIO MASSUD JÚNIORcontra decisão assim agravada:
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO QUE INDEFERIU EFEITO SUSPENSIVO AOS EMBARGOS À EXECUÇÃO. AUSÊNCIA DOS REQUISITOS EXIGIDOS PELA LEI. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL(e-STJ, fl. 1.141)
+Em suas razões, oagravante busca afastar o óbice aplicado na decisão agravada, sustentando que a matéria é unicamente de direito e que não há pretensão de formação de nova convicção sobre provas ou fatos (e-STJ, fl.1.156).
+Defende que "há grande probabilidade de provimento dos embargos de terceiro" e tece considerações acerca do tema (e-STJ, fl. 1.157-1.160).
+Apresentada Impugnação às fls. 1.170-1.171(e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO RECONHECIDA. EFEITO SUSPENSIVO.REQUISITOS. NÃO PREENCHIMENTO. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. INCIDÊNCIA.DECISÃO AGRAVADA MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece prosperar.
+Constato, do confronto entre as razões do agravo interno e a fundamentação do julgado recorrido, que a parte agravante não traz fundamentos capazes de infirmar as conclusões tiradas no decisum objurgado.
+Dessa forma, deve ser mantido o entendimento firmado pela decisão agravada.
+Com efeito, conforme consignado na decisão agravada,o Colegiado local indeferiu o pedido de efeito suspensivo aos embargos à execução, ao argumento de que ausente os requisitos legais. In verbis:
+Constitui pressuposto da medida excepcional pleiteada pelo recorrente a presença em conjunto dos requisitos ensejadores, o fumus boni iuris e o periculum in mora, não vislumbrados nos presentes autos, conforme consignado na decisão de f. 981-984.
+A fumaça do bom direito é aferida quando se identifica que o direito defendido na ação guarda razoável possibilidade de êxito e, daí, mereça proteção até a sua análise em definitivo, por ocasião do julgamento dos embargos de terceiro a que se pretende conferir efeito suspensivo.
+Na hipótese, em que pese a vasta argumentação apresentada pelo embargante, ora agravante, vislumbra-se que a r. decisão de primeiro grau se afigurou acertada ao não receber referidos embargos com efeito suspensivo, o que encontra suporte também no Resp n. 623.407 - SP, do Superior Tribunal de Justiça, qual seja: (..)
+Assim, verifica-se que se operou a exceção à regra geral comumente aplicada quando opostos embargos de terceiro, uma vez que, na esteira do precedente aludido, fora reconhecida fraude à execução nos autos do processo n. 0800066-81.2014.8.12.0054.
+Imperioso ressaltar que quase a totalidade das questões devolvidas pelo recorrente no presente recurso ainda não foram analisadas pelo juízo natural da causa, sendo vedado suprimir a atribuição conferida exclusivamente à instância originária,que, apenas e tão somente deixou de atribuir o efeito suspensivo aos embargos de terceiro opostos, em razão da existência de provimento jurisdicional reconhecendo a ocorrência de fraude à execução (e-STJ fls. 309/312, grifei).
+Desse modo, tal como delineada a questão pelo Tribunal de origem, a revisão do tema demandaria, necessariamente, o reexame de provas, o que é inadmissível em sede de recurso especial, consoante dispõe a Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.EMBARGOS DE TERCEIRO. PENHORA DE SEMOVENTES. TUTELA DE URGÊNCIA.FALTA DOS REQUISITOS LEGAIS. SÚMULA 735/STF. PEDIDO DE SUSPENSÃO DA MEDIDA CONSTRITIVA. INDEFERIMENTO. AUSÊNCIA DE PROVA DO DOMÍNIO OU POSSE EXERCIDA SOBRE OS ANIMAIS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa. Precedentes.
+3. No caso, o Tribunal de origem confirmou a decisão que, nos autos de embargos de terceiro, indeferiu o pedido de tutela de urgência para sustar a penhora de semoventes, por entender que a parte ora agravante não juntou aos autos prova suficiente do seu domínio ou posse sobre os animais e que a situação demanda dilação probatória, não se verificando, portanto, os requisitos necessários para suspender os efeitos da medida constritiva. A modificação de tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, providência inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1572901/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2020, DJe 25/03/2020 - grifou-se)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. QUERELA NULLITATIS. TUTELA ANTECIPADA. SUSPENSÃO OPE JUDICIS DO CUMPRIMENTO DE SENTENÇA. PLAUSIBILIDADE DO DIREITO. PERICULUM IN MORA. AUSÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO NCPC. OMISSÃO INEXISTENTE. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. DECISÃO DE NATUREZA PROVISÓRIA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 735 DO STF. DECISÃO MANTIDA. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há ofensa ao art. 1.022 do NCPC quando o Tribunal de origem enfrenta todas as questões postas, não havendo no acórdão recorrido omissão, contradição ou obscuridade.
+3. Qualquer outra análise acerca dos requisitos do art. 300 do NCPC e da suposta existência de premissa falsa, capaz de alterar o resultado do julgamento, seria inevitável o revolvimento do conjunto fático-probatório dos autos, procedimento sabidamente inviável na instância especial, com respaldo na Súmula nº 7 desta Corte.
+4. A teor do que dispõe a Súmula nº 735 do STF, não cabe recurso extraordinário contra acórdão que defere medida liminar. Desse modo, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. 5. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicação do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1727285/AM, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/12/2018, DJe 13/12/2018)
+Outrossim, quanto ao dissídio jurisprudencial,inviável se mostra o seu conhecimento, uma vez que, para além de não ter sido demonstrado nos moldes legais, o óbice da Súmula 7/STJ obsta a admissão do Recurso Especial tanto pela alínea "a" quanto pela "c" o permissivo constitucional.
+Com essas considerações, não há como acolher a pretensão do agravante.
+Por ora, deixo de aplicar a sanção requerida em sede de impugnação ao presente recurso, advertindo-se a parte de que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
