@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+MARIA CRISTINA FERNANDES (MARIA CRISTINA) opôs embargos de terceiro nos autos da ação de execução de título extrajudicial proposta por DANONE LTDA (DANONE) contra LUCIMAR FÁTIMA e outros (LUCIMAR e outros).
+O Juízo de primeira instância julgou improcedente o pedido (e-STJ, fls. 138/147).
+O Tribunal de Justiça de São Paulo negou provimento ao apelo manejado por MARIA CRISTINA em acórdão da relatoria do Desembargador RAMON MATEO JÚNIOR assim ementado:
+EMBARGOS DE TERCEIRO. PENHORA E ARREMATAÇÃO. Embargante que adquiriu imóvel que fora objeto de arrematação, em processo trabalhista. Ausência de intimação pessoal da empresa credora hipotecária. Inteligência do art. 698 c/c art. 619 do CPC/73, vigente à época em que realizados os atos processuais, garantia não extinta pelo decurso de seu prazo de vigência. Anterioridade da Hipoteca. Ineficácia dos atos posteriores. Honorários advocatícios. Inaplicabilidade do disposto no art. 85, §11, do Código de Processo Civil, eis que legalmente vedado no cômputo geral da fixação de honorários advocatícios devidos ao advogado da parte que obteve êxito na demanda, que o arbitramento venha a ultrapassar os limites estabelecidos nos §§ 2º e 3º do artigo 85 do Código de Processo Civil para a fase de conhecimento. Sentença mantida. APELO IMPROVIDO (e-STJ, fl. 180).
+MARIA CRISTINA, então, manejou recurso especial calcado no art. 105, III, a e c, da CF, alegando, além de dissídio jurisprudencial, ofensa aos arts. 77, V, 274 e 698 do NCPC (e-STJ, fls. 189/197).
+O recurso foi inadmitido pelo TJSP por (i) não cabimento de recurso especial por ofensa aregimentointerno; (ii) ausência de demonstração da ofensa aos dispositivos tidos por violados; (iii) incidência da Súmula nº 7 do STJ; e (iv) não comprovação do dissídio jurisprudencial (e-STJ, fls. 217/220).
+Sobreveio agravo, reiterando as razões do recurso especial (e-STJ, fls. 223/233).
+Referido agravo não foi conhecido por decisão monocrática da lavra do em. Ministro Presidente por ausência de impugnação específica ao óbice da Súmula nº 7 do STJ e divergência jurisprudencial não comprovada (e-STJ, fls. 247/249).
+No presente agravo interno, MARIA CRISTINA repisou os fundamentos de seu apelo nobre(e-STJ, fls. 251/260).
+A impugnação foi apresentada (e-STJ, fls. 266/272).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, o não cabimento de recurso especial pela afronta à norma constitucional e a não comprovação da divergência jurisprudencial, que levaram ao não conhecimento do apelo nobre manejado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3.Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o não cabimento de recurso especial pela afronta à norma constitucional e a não comprovação da divergência jurisprudencial.
+Isso porque, nas razões do presente agravo interno,MARIA CRISTINA limitou-se a repisar os fundamentos de seu apelo nobre insistindo na ofensa aos arts.77, V, 274 e 698 do NCPC
+Na hipótese, MARIA CRISTINAolvidou-se de infirmar os óbices apontados -(i) não cabimento de recurso especial por ofensa a regimento interno; (ii) ausência de demonstração da ofensa aos dispositivos tidos por violados; (iii) incidência da Súmula nº 7 do STJ; e (iv) não comprovação do dissídio jurisprudencial -, o que acarreta a aplicação da Súmula nº182 do STJ, pois não foram impugnados todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que,na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada,o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor:É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator quea ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo(EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaque no original)
+Assim, porque os argumentos que MARIA CRISTINA trouxenão atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto,NÃO CONHEÇOdo agravo interno.
