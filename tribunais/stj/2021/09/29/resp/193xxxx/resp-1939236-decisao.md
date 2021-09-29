@@ -1,0 +1,22 @@
+DECISÃO
+DANIELE MIRANDA SILVA interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso(Apelação Criminal n.0002190-71.2019.8.11.0006).
+Consta dos autos que a recorrente foi condenada à pena de 3 anos, 10meses e 20 dias de reclusão, em regime inicial aberto, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, c/c o art. 40, III, ambos da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta violação doart. 33, § 4º, da Lei n. 11.343/2006,e requer, em síntese, seja aplicada no patamar máximo de 2/3 a minorante prevista naquele dispositivo da Lei de Drogas, com a consequente substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decisão de admissibilidade às fls. 222-226.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+Decido.
+No que diz respeito à fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, verifico que a Corte estadual considerou devida a sua aplicação no patamar de 1/3, com base nos seguintes argumentos (fls. 182-183):
+In casu, a apelada efetivamente é primária e ostenta bons antecedentes.
+Igualmente, não há demonstração cabal de que se dedique a atividades ilícitas ou integre organização criminosa. E no cálculo da pena, o d. magistrado não utilizou a natureza e a quantidade de drogas em nenhuma das fases da dosimetria.
+Todavia, a natureza e a quantidade de drogas apreendidas - 63 (sessenta e três) porções de maconha, acondicionadas no interior de cigarros de papel e 01 (uma) porção da mesma substância, disposta no fundo da sacola que armazenava os aludidos cigarros, com peso total de 60,773g (sessenta gramas e setecentos e setenta e três miligramas) - Laudo de Constatação nº. 400.2.04.2019.002233-01 (ID 7883668), não sugere a traficância em tão pequena escala.
+ ..
+Nesse cenário, a quantidade de droga apreendida - 60,773g (sessenta gramas e setecentos e setenta e três miligramas) de maconha aliada às circunstâncias ambientais da prática delituosa - apelada presa em flagrante, levando para o interior do estabelecimento prisional substâncias entorpecentes escondidas em cigarros, destinadas a um recuperando - demonstra maior reprovabilidade à conduta in concreto e, via de consequência, mostra-se pertinente para impedir a aplicação do redutor em seu patamar máximo, mas também não justificam a redução mínima (como pretende a acusação), revelando-se proporcional a respectiva incidência na fração intermediária de 1/3 (um terço).
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+Assim, uma vez que, no caso, ainstânciade origem - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/3, não identifico a apontada violação do art. 33, § 4º, da Lei n. 11.343/2006.
+Deve, por conseguinte, ser mantida inalterada a sanção imposta à ré. Consequentemente, diante do acolhimento da tese principal, fica prejudicada a análise do pedido subsidiário relativo à substituição da reprimenda privativa de liberdade por restritivas de direitos.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art.
+3º do CPP, e no art. 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se e intimem-se.
