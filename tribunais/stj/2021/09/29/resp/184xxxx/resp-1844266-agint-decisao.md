@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno interpostocontra decisão que, com apoio em entendimento jurisprudencial, deu provimento a recurso especial em que se discute a possibilidade de geração de créditos de PIS e COFINS, na hipótese em que a tributação é realizada de forma monofásica.
+A parte agravante sustenta, em síntese, à fl. 395, queesse Superior Tribunal de Justiça possui jurisprudência pacíficano que concerne à impossibilidade da manutenção de créditos das contribuições ao PIS e à COFINS, nos termos da Lei 11.033/04, eis que a incidência monofásica do tributo seria incompatível com o benefício. Fazem prova deste entendimento os julgamentos proferidos nos AgRg no REsp 1.433.246/RS, REsp 1.346.181/PE, AgRg no REsp 1.239.794/SC, REsp 1.440.298/RS, AgRg no REsp 1.434.134/RS, REsp 1.380.915/ES, dentre inúmeros outros julgados.
+Com impugnação.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Após nova análise processual, provocada pela interposição do agravo interno, observo necessidade de reconsideração da decisão agravada, pois a Primeira Seção resolveu afetar o tema à sistemática dos recurso repetitivos.
+Em 28 de junho de 2021, o em. Ministro Mauro Campbell Marques submeteu proposta de afetação do tema à sistemática dos recursos repetitivos. O julgamento ficou assim ementado:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015.ENUNCIADO ADMINISTRATIVO Nº 3. PROPOSTA DE AFETAÇÃO COMO REPETITIVO. PROCESSUAL CIVIL. TRIBUTÁRIO.PIS/PASEP E COFINS. SISTEMA DE TRIBUTAÇÃO MONOFÁSICA.DISCUSSÃO SOBRE A POSSIBILIDADE DE CREDITAMENTO COM BASE NO ART. 17 DA LEI 11.033/2004.
+1. Delimitação das questões de direito controvertidas como sendo: "a) se o benefício instituído no art. 17, da Lei 11.033/2004, somente se aplica às empresas que se encontram inseridas no regime específico de tributação denominado REPORTO; b) se o art. 17, da Lei 11.033/2004, permite o cálculo de créditos dentro da sistemática da incidência monofásica do PIS e da COFINS; e c) se a incidência monofásica do PIS e da COFINS se compatibiliza com a técnica do creditamento".
+2. Multiplicidade efetiva ou potencial de processos com idêntica questão de direito demonstrada pelo despacho do Ministro Presidente da Comissão Gestora de Precedentes e demais informações constantes dos autos dos processos repetitivos.
+3. Determinação ad cautelam para a suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça (art. 1.037, II, do CPC/2015).
+4. Recurso especial submetido à sistemática dos recursos repetitivos, estando em afetação conjunta os REsp"s. nn. 1.894.741 - RS e 1.895.255 - RS.
+(ProAfR no REsp 1894741/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 18/05/2021, DJe 24/05/2021)
+Nesse contexto, o recurso deve ficar sobrestado no tribunal a quo, à espera da definição da tese por este Tribunal Superior, uma vez que o julgamento tem potencial para interferir na pretensão recursal.
+Ante o exposto, reconsidero a decisão agravada; e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o recurso: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a orientação firmada; ou b) seja novamente examinado, caso divirja do entendimento desta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO RECONSIDERADA. CONTRIBUIÇÃO AO PIS E COFINS. INCIDÊNCIA MONOFÁSICA. GERAÇÃO DE CRÉDITOS. TEMA SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS.SOBRESTAMENTO.
