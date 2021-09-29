@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deGLEDSON SIMPLICIO MARQUESem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(HC n.1500423-95.2021.8.26.0535).
+O paciente foi condenado, em primeira instância, pela prática do delito descrito noart. 157, §2º, II, e §2º-A, I, c/c o art. 14, II, todos do Código Penal, à pena privativa de liberdade de 4 anos, 5meses e 10dias de reclusãoem regime inicial fechado.Foi-lhe indeferido o direito de recorrer em liberdade.
+Impetradowritna origem, a6ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo acordou em indeferir o processamento do habeas corpus.
+A defesa sustentaque o não conhecimento na origem visou exclusivamente obstar o acesso do paciente à tutela jurisdicional.
+Aduzaindaque aprisão é desproporcional em decorrência da ausência de seus pressupostos e requisitos, como também de contemporaneidade, circunstâncias que, aliadas à indevida fundamentação, indicam que a decisão atacadainfringeos tratados internacionais dos quais o Brasil é signatário.
+Requer,liminarmente e no mérito, a concessão da ordem, a fim de determinar que o TJSP julgue o mérito do HC n. 2111466-33.2021.826.000, bem como a suspensão dos efeitos do decreto prisionalaté o julgamento do mérito deste remédio constitucional. Pleiteia seja expedido o competente alvará de soltura.Subsidiariamente, pugna pela aplicação de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 74-75.
+As informações foram prestadas às fls. 82-99.
+O Ministério Público Federal manifestou-se pela denegação da ordem(fls. 101-102).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio. Veja-se.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Confira-se excerto da sentençaque, ao condenar o paciente à pena de 4 anos, 5meses e 10 dias de reclusãoem regime inicial fechado, considerou presentes os requisitos para manutenção de segregação cautelar (fl. 57):
+Os réus tiveram a prisão preventiva decretada. Não teria sentido que depois de condenados em primeiro grau, a pena a ser cumprida inicialmente em regime fechado, fossem soltos, pelo que não se lhes faculto eventual apelo em liberdade. Ademais, presentes estão os requisitos da custódia cautelar, conforme se vê das outras decisões proferidas a respeito de tal matéria, nada tendo sido alterado que justificasse a mudança do entendimento. O tempo de prisão provisória, outrossim, não é suficiente para que ocorra a progressão de regime.
+A propósito, assim se manifestou o Tribunal a quo (fls. 61-63, destaquei):
+Desta forma o fato de ser indeferido na r. sentença o direito de recorrer em liberdade, decerto reiterando a decisão anterior, não é caso de ausência de fundamentação.
+ ..
+Estão presentes as circunstâncias ensejadoras da prisão preventiva.
+O paciente demonstrou ainda, na prática do crime, alta reprovabilidade e periculosidade, porque praticou o delito mediante emprego de arma de fogo, acompanhado de outros dois indivíduos, em conduta que revelou planejamento e organização. Tem-se que a luz da residência da vítima foi propositadamente desligada, fazendo com que ela saísse e fosse abordada por um dos roubadores. A vítima ainda foi agredida desnecessariamente, recebendo puxões em seu cabelo, revelando extrema violência por parte dos roubadores.
+É entendimento tranquilo que a periculosidade e culpabilidade excessivas justificam a prisão preventiva.
+ ..
+Observa-se que o paciente praticou crime de roubo duplamente majorado, com emprego de grave ameaça à pessoa e violência. A prática de crimes com violência ou grave ameaça contra a pessoa geram desassossego e intranquilidade popular. A circunstância de alguém praticar crime desta espécie e ser solto em seguida causará descrédito na Justiça, além de estimular à prática de novos crimes análogos, bem como levará a população a buscar resolver os problemas de segurança por outros métodos, como fazer justiça com as próprias mãos. Desta forma, necessária a custódia do requerente para garantia da ordem pública para estes casos, a menos que ocorra excepcionalmente prova em contrário, não existente nos autos.
+Mantidas as circunstâncias que justificaram a decretação da prisão preventiva do paciente, que ficou preso durante toda a instrução processual, não há ilegalidade na sentença condenatória por não lhe conceder o direito de recorrer em liberdade (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e AgRg no HC n. 568.997/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe de 27/5/2020).
+Note-se que, no presente caso,a gravidade concreta da conduta -roubo majorado mediante emprego de arma de fogo e agressões desnecessárias à vítima - foiconsideradapelo Tribunal a quo para a manutenção da prisão preventivaejustifica a negativa do direito de recorrer em liberdade em detrimento da aplicação de cautelares diversas do cárcere.
+Também, conforme a jurisprudência do STJ, não há falar em falta de contemporaneidade nas situações em que os atos praticados no processo respeitaram a sequência necessária à decretação, em tempo hábil, de prisão preventiva devidamente fundamentada (HC n. 620.306/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020).
+Por fim,ao contrário do que alega o impetrante, não se verifica cerceamento de defesa ou negativa de acesso à justiça, pois, ainda que o Tribunal de origem não tenha conhecido da ação, não houveomissão na análise dos fundamentos da negativado direito do paciente de recorrer em liberdade, conforme se observa do trecho acima transcrito.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
