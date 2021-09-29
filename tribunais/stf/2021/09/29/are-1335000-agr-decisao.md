@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de agravo interno cujo objeto é decisão monocrática que conheceu do agravo em recurso extraordinário para negar-lhe provimento, pelos seguintes fundamentos:
+    “Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra decisão proferida no bojo de execução fiscal, que rejeitou embargos infringentes e de declaração e extinguiu a execução, com base na Lei estadual 14.266/07, na Súmula 22 do TJSC, no art. 2°, § 3°, da Resolução 02/2008, do Conselho da Magistratura do TJSC, bem como na falta de interesse de agir do Município de Pomerode.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, II; 2º; 5º, XXXV; 18; 150, I e § 6º, todos da CF. Sustenta, em essência, que:
+    (i) negar ao Município a possibilidade de executar seus créditos de pequeno valor sob o fundamento da falta de interesse econômico viola o direito de acesso à justiça;
+    (ii) a organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos;
+    (iii) apenas o próprio ente federativo é o competente para a instituição e também desoneração de seus tributos.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    ‘Nada obstante, impende ressaltar que os dispositivos constitucionais elencados como violados não foram enfrentados expressamente pela decisão impugnada, aspecto que evidencia a falta de prequestionamento das matérias e enseja, por conseguinte, a inadmissão do Reclamo em razão do óbice trazido pelo enunciado das Súmulas 282 e 356 do STF, respectivamente: ‘É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada’ e ‘O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.’
+    […]
+    De outro norte, as razões recursais apresentadas também deixam de impugnar os artigos 156 e 175, ambos do Código Tributário Nacional, bem como o artigo 8º do Código de Processo Civil, os quais foram utilizados para fundamentar a decisão combatida, de forma a atrair a aplicação da Súmula 283 do Supremo Tribunal Federal: ‘É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.’
+    […]
+    Nada obstante, o eventual debate a respeito da extinção fiscal em razão do valor irrisório do débito demandaria análise da legislação local aplicada ao caso (Lei Estadual 14.266/07, Súmula 22 do TJSC e artigo 2º, § 3º, da Resolução do Conselho da Magistratura n. 2/2008), o que implica a incidência do óbice da Súmula 280 do STF: ‘Por ofensa a direito local não cabe recurso extraordinário’.
+    […]
+    Na mesma toada, como a análise da controvérsia mencionada implicaria a prévia discussão de normas infraconstitucionais, a suposta mácula, caso existente, configuraria ofensa meramente indireta ao texto constitucional, insuscetível, portanto, de viabilizar a ascensão do apelo extraordinário.
+    […]
+    Nessa compreensão, não se admite o Recurso Extraordinário.’
+    A pretensão recursal não merece prosperar, tendo em vista que dissentir das conclusões adotadas demandaria tão somente o exame da legislação infraconstitucional pertinente à hipótese; a saber, a Lei estadual 14.266/07 e a Resolução 02/2008, do Conselho da Magistratura do TJSC, providência vedada nesta via processual. Incide na hipótese a jurisprudência do Supremo Tribunal Federal (STF) que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional.
+    Ademais, o STF, ao apreciar o Tema 292 da sistemática da repercussão geral, fixou a seguinte tese de julgamento: A questão da extinção de execuções fiscais, por falta de interesse de agir do ente político credor, em razão do valor do débito executado ser irrisório, tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+    Não divergem dessa compreensão, as seguintes decisões monocráticas: ARE 1.333.750/SC e ARE 1.328.898/SC, Rel. Min. Alexandre de Moraes; RE 1.262.790/SP, Rel. Min. Luiz Fux; RE 910.500/SP, Rel. Min. Dias Toffoli.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.”
+    A parte agravante sustenta, em síntese, que a hipótese se amolda ao Tema 109 da sistemática da repercussão geral.
+    Assiste razão à parte.
+    O Supremo Tribunal Federal reconheceu a repercussão geral da questão em que se discute, à luz dos arts. 2º e 156 da Constituição Federal, a possibilidade, ou não, de o Poder Judiciário aplicar lei estadual que autoriza o Poder Executivo Estadual a não executar os débitos com valor igual ou inferior a 30% do maior valor de referência (MVR) e, com fundamento nessa lei, extinguir processos, sem julgamento de mérito, em face da ausência de interesse de agir do Município, considerando o pequeno valor das ações de execução fiscal ajuizadas (Tema 109).
+    Diante do exposto, com base no art. 1.036, do CPC/2015 e no art. 328, parágrafo único, do RI/STF, reconsidero a decisão monocrática anteriormente proferida e determino a devolução dos autos à origem a fim de que seja aplicada a sistemática da repercussão geral. Julgo prejudicado o agravo interno.
+    Publique-se.
+          Brasília, 29 de setembro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
