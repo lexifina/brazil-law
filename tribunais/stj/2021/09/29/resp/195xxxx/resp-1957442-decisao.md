@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por CONTACTY SERVICOS DE INFORMACOES CADASTRAIS LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 17/06/2021.
+Concluso ao gabinete em: 17/09/2021.
+Ação: execução de título extrajudicial movida por CONTACTY SERVICOS DE INFORMACOES CADASTRAIS LTDA, contra JOÃO LIMA GOMES.
+Decisão interlocutória: deferiu a penhora de 30% (trinta por cento) dos proventos de aposentadoria percebidos pelo recorrido.
+Acórdão: deu provimento ao agravo de instrumento interposto pelo recorrido, nos termos da ementa:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA SOBRE PERCENTUAL DE PROVENTOS DE APOSENTADORIA. IMPENHORABILIDADE. INCISO IV DO ART. 833 DO CPC. NÃO ENQUADRAMENTO NA EXCEÇÃO DO § 2º DO REFERIDO ARTIGO. DECISÃO PARCIALMENTE REFORMADA.1 - O caráter alimentar das verbas de natureza salarial restringe a possibilidade de sua penhora, ainda que em percentual reduzido, que parte da jurisprudência vem adotando, ante a manifesta vedação legal à constrição de tais verbas, estampada no inciso IV do artigo 833 do Código de Processo Civil, além de não se enquadrar a verba salarial perseguida às exceções à impenhorabilidade que se encontram previstas nos §§ 1º e 2º do art. 833 do CPC.2 - O Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.184.765/PA, apreciado sob o rito do art. 543-C do CPC/1973 (Tema 425), consignou que "a penhora eletrônica dos valores depositados nas contas bancárias não pode descurar-se da norma inserta no artigo 649, IV, do CPC (com a redação dada pela Lei 11.3822006), segundo a qual são absolutamente impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal". Agravo de instrumento provido.(e-STJ fl. 100)
+Recurso especial: alega violação dos arts. 833, IV, do CPC/2015, bem como dissídio jurisprudencial. Sustentaque a impenhorabilidade do art. 833, IV do CPC/2015 é relativa, podendo, assim, ser mitigada em percentual não superior a 30%, de forma que não comprometa a subsistência da Recorrida.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da penhora de verba salarial (Súmula 568/STJ)
+A recente jurisprudência do STJ, no julgamento dos Embargos de Divergência 1.701.828/MG pela 2ª Seção, se firmou no sentido de que, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Destarte, é imperioso o retorno dos autos à origem para que a questão seja decidida à luz da jurisprudência do STJ, devendo ser analisada a possibilidade de, no caso concreto, ser fixado percentual de desconto sobre o salário do agravado.
+CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, para permitir o bloqueio da remuneração dorecorrido, desde que preservado o suficiente para a garantia da manutenção do devedor e de sua família, determinando o retorno dos autos à origem para que a questão seja decidida à luz da jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE CARÁTER NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. POSSIBILIDADE.
+1. Execução de título extrajudicial.
+2. A jurisprudência do STJ se firmou no sentido de que, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família. Precedente da 2ª Seção.
+3. Recurso especial conhecido e parcialmente provido.
