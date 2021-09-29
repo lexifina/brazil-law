@@ -1,0 +1,21 @@
+EMBARGOS DECLARATÓRIOS. RECLAMAÇÃO CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. CORRETA APLICAÇÃO DA TESE FIRMADA NO JULGAMENTO DO 791.292 (TEMA 339). OMISSÃO INEXISTENTE. EMBARGOS DECLARATÓRIOS REJEITADOS.
+    Vistos etc.
+    1. Trata-se de embargos declaratórios opostos por Celio Bispo Kojuch em face de decisão em que neguei seguimento à reclamação constitucional por não evidenciada a usurpação desta Suprema Corte.
+    2. O embargante invoca omissão quanto (i) ao art. 76 do CPC e (ii) aos embargos de declaração subscritos pela parte leita sem representação advocatícia em sede de juizado especial.
+    3. Reitera a alegação de que “o TRP/CG-PB, ao não dar seguimento ao recurso extraordinário por falta de repercussão geral de um tema que já foi reconhecido por este Tribunal como de repercussão geral, usurpou-lhe a competência”.
+    Consoante afirma, deve-se levar em consideração que o dever de fundamentar não foi o único tema para análise de repercussão geral demonstrado pelo reclamante no recurso extraordinário, porque há também a questão do embargos de declaração subscrito por leigo sem representação advocatícia em sede de Juizado Especial, que o nobre presidente da TRP/CG-PB ignorou completamente.
+    É o relatório.
+    Decido.
+    1. Satisfeitos os pressupostos extrínsecos, conheço dos embargos declaratórios e passo à análise do mérito respectivo.
+    2. Como é sabido, o artigo 1.022 do CPC/2015 admite embargos de declaração contra qualquer decisão judicial, autorizado, de forma expressa, na dicção do art. 1.024, § 2º, o seu enfrentamento monocrático quando opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal.
+    3. Não detecto omissão ao feitio legal na decisão embargada. Devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, a teor do art. 489, IV, do CPC/2015, e na linha da jurisprudência desta Casa, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016 e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    4. Conforme expressamente consignado na decisão embargada, a negativa de seguimento do recurso extraordinário interposto pelo ora embargante mediante aplicação das teses jurídicas firmadas nos Tema 339 (AI 791.292- QO-RG/PE) e 880 (ARE 835.833) não afronta a competência desta Suprema Corte.
+    5. Consoante explanado na decisão embargada, o acórdão desafiado pelo apelo extremo foi devidamente fundamentado, o que autoriza a aplicação da tese jurídica firmada no julgamento do Tema 339, segundo a qual: “O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas".
+    6. Ademais, inexistente matéria constitucional envolvida diretamente na demanda, que trata da capacidade postulatória para oposição de embargos de declaração nos juizados especiais, aplicável o quanto decidido no ARE 835.833, em que esta Suprema Corte assentou a presunção relativa de inexistência de repercussão geral dos recursos extraordinários interpostos nas causas processadas nos Juizados Especiais Cíveis da Lei 9.099/1995.
+    7. Reitero, por fim, que não compete a esta Suprema Corte analisar “a possibilidade da parte leiga sem representação advocatícia subscrever embargos de declaração em sede de Juizado Especial”, tampouco verificar a existência “de inobservância do artigo 76 do CPC”, tendo em vista que a reclamação constitucional é ação vocacionada para a tutela específica da competência e autoridade das decisões proferidas por este Supremo Tribunal Federal, não sendo devida sua utilização como sucedâneo recursal.
+    8. Não configuradas quaisquer das hipóteses elencadas no art. 1022 do CPC, evidencia-se tão somente o inconformismo da parte com a decisão que lhe foi desfavorável.
+    Rejeito os embargos declaratórios.
+    Publique-se. Intimem-se.
+    Brasília, 29 de setembro de 2021.
+Ministra Rosa Weber
+Relatora
