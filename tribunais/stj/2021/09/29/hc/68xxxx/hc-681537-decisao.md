@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar impetrado em face de acórdão assim ementado (fl. 25):
+PRELIMINAR - possibilidade da aplicação do instituto em processos em andamento, inclusive com julgamento em primeiro grau, desde que cumpridos os requisitos legais - pena de 05 anos imposta na sentença - ausência do requisito legal - redutor que já foi afastado na sentença e que não pode ser reconhecido para a concessão do benefício pleiteado - preliminar afastada.
+TRÁFICO DE DROGAS - MATERIALIDADE - auto de apreensão e laudo toxicológico que restou positivo para a presença do elemento ativo comprovação que o material apreendido é droga.
+TRÁFICO DE DROGAS - AUTORIA depoimento de policiais civis que confirmam a apreensão de drogas em poder da ré validade depoimento de agente público só deve ser visto com reservas quando a imputação ao réu visa justificar eventual abuso praticado inocorrência no caso em tela - de rigor a condenação da apelante - improvimento ao apelo.
+TRÁFICO - destinação a terceiros - indícios tais como quantidade incomum com a figura de usuário; a forma de acondicionamento da droga, própria para a venda a varejo; apreensão de dinheiro e visualização da ré em movimentação típica da traficância.
+PENA - base fixada no mínimo legal - mantença ante a inércia ministerial - segunda fase ausentes circunstâncias atenuantes e agravantes - redutor não reconhecido - ré que se encontrava em poder de considerável quantidade de droga profissionalização - indicação de dedicação a atividades criminosas - improvimento ao apelo.
+REGIME - fechado - ré que se encontrava em poder de considerável quantidade de droga natureza da droga que possui alto potencial lesivo alta reprovabilidade e periculosidade o regime deve ser o necessário para dissuadir o réu de retornar a delinquir (Beccaria) regime fechado necessidade regime mais brando - impossibilidade - improvimento ao apelo inviabilidade da substituição da pena privativa de liberdade por penas restritivas de direito em face do quantum de pena e da alta reprovabilidade retro mencionada improvimento ao apelo.
+Consta dos autos que apaciente foi condenadapela prática do crime previsto no art. 33,caput, da Lei n. 11.343/2006, tendo-lhe sido cominadas as penas de 5 anos de reclusão, emregime inicial fechado, e 500 dias-multa.
+Sustenta a necessidade de reconhecimento e aplicação do redutor do § 4º do art. 33 da Lei Antidrogas em seu benefício, com o redimensionamento da pena e o abrandamento do regime prisional.
+Requer, liminarmente, o reconhecimento do tráfico privilegiado e a fixação do regime semiaberto para o início do cumprimento de pena. No mérito, pugna pela concessão da ordem para que seja confirmada a medida liminar.
+Indeferida a liminar, e prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração.
+Conforme informações prestadas à fl. 73, a defesa opôs embargos de declaração ao acórdão impugnado nesta impetração, "os quais estão em fase de juntada".
+Em consulta realizada em 20/9/2021 no sítio eletrônicodo Tribunal de origem do andamento processual, constata-se que referidos embargos de declaração não foram julgados.
+Portanto, tendo em vista a natureza integrativa dos embargos de declaração, a análise do mérito do presentehabeas corpusencontra óbice na supressão de instância, haja vista que as vias recursais ordinárias não foram esgotadas, havendo recurso pendente de julgamento.Neste sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DACOLEGIALIDADE. NÃO OCORRÊNCIA. AFRONTA AO CONTRADITÓRIO E À AMPLADEFESA. INÉPCIA DA DENÚNCIA. ATIPICIDADE DA CONDUTA. AUSÊNCIA DEMOTIVAÇÃO DO ACÓRDÃO CONDENATÓRIO. PREMATURIDADE. EMBARGOS DEDECLARAÇÃO PENDENTES DE JULGAMENTO PERANTE A CORTE A QUO. AGRAVOREGIMENTAL IMPROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática dorelator calcada em jurisprudência dominante do Superior Tribunal deJustiça, tendo em vista a possibilidade de submissão do julgado aoexame do órgão colegiado, mediante a interposição de agravoregimental.
+2. Não cabe a análise das pretensões voltadas à alteração do méritoda demanda, em habeas corpus, quando pendente de julgamento osembargos de declaração opostos pelo paciente na origem, dada anatureza integrativa conferida ao recurso.
+3. Agravo regimental improvido. (AgRg no HC 484.200/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 28/03/2019, DJe 05/04/2019.)
+Ante o exposto, não conheço dohabeascorpus.
+Publique-se.
+Intimem-se.
