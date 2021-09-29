@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso especial, com pedido liminar, impetrado em favor de DANIEL BEZERRA SANTANA, contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo no Agravo em execução n. 0000968-73.2021.8.26.0073.
+Depreende-se dos autos que o d. Juízo das execuções indeferiu o pleito defensivo de livramento condicional (fls. 14-16).
+Irresignada, a Defesa interpôs agravo em execução perante o eg. Tribunal de origem, que negou provimento ao recurso, conforme v. acórdão de fls. 29-34, assim ementado:
+"Agravo em execução. Livramento condicional.Indeferimento por ausência do requisito objetivo. Benefício revogado ante a prática de novo delito (hediondo) no curso do período de prova.Artigo 88 do CP e artigo 142 da LEP. Pretensão defensiva pela retificação do cálculo, buscando observância da ordem cronológica das penas. Impossibilidade. Inteligência do artigo 76 do Código Penal.Escorreito o cálculo de penas que deu precedência à execução da pena mais grave, referente ao crime hediondo. Precedentes deste Tribunal.
+Recurso não provido."
+No presente writ, alega que "a serventia elaborou cálculo de penas, postergando para o final o cumprimento do restante da pena referente ao crime comum (execução 1) e intercalou o curso penal com o cumprimento da nova pena referente ao crime hediondo (execução 2). Tal operação é ilegal e, na prática, impede a concessão denovo Livramento Condicional, já que desconsidera o cumprimento da pena para a qual havia sido deferido o anterior Livramento Condicional (execução 1). Nega vigência, assim, ao art. 83 do Código Penal" (fl. 7).
+Sustenta que "as penas devem ser cumpridas em ordem cronológica, não se diferenciando os crimes hediondos e os comuns. Falta respaldo legal para a interrupção promovida no cumprimento da pena referente à execução 1" (fl. 7).
+Aduz que "a decisão baseada em cálculo de penas como elaborado implica em negativa de vigência ao art. 76 do Código Penal e art. 83 do Código Penal, fazendo com que o paciente permaneça encarcerado mesmo com o preenchimento dos requisitos legais para a liberdade antecipada. Nos termos da melhor doutrina e jurisprudência, o cálculo deve ser refeito, desconsiderando-se a hediondez do crime na ordem de cumprimento da pena, reorganizando-se o roteiro de cumprimento somente com base na gravidade da pena, que é fornecida pelo atributo reclusivo ou detentivo" (fl. 11).
+Requer, ao final, "seja concedida liminar para a imediata colocação em prisão domiciliar e, ao final, a ordem para cassar o acórdão e determinar o refazimento do cálculo de penas com desconsideração da hediondez do crime na ordem de cumprimento da pena, reorganizando-se o roteiro de cumprimento somente com base na gravidade da pena a ser fornecida pelos atributos reclusivo ou detentivo" (fl. 13).
+Pretensão liminar indeferida às fls. 37-39.
+Informações prestadas às fls. 44-48 e 51-59.
+O Ministério Público Federal, às fls. 61-62, manifestou-se pela concessão da ordem, conforme parecer com a seguinte ementa:
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. CONCURSO DE INFRAÇÕES. EXECUÇÃO DA PENA EM ORDEM CRONOLÓGICA. IRRELEVÂNCIA SE DELITO COMUM OU HEDIONDO.
+PARECER PELA CONCESSÃO DA ORDEM."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Inicialmente, para delimitar a quaestio, transcrevo excertos do v. aresto proferido pelo eg. Tribunal a quo (fls. 31-32 - grifei), verbis:
+"O recurso não comporta provimento.
+Com efeito, pelo que se dessume dos autos, ao sentenciado foi concedido o livramento condicional em 02/12/2014, contudo, a benesse acabou revogada em 26/07/2016, ante a prática de novo delito (fls. 16/22). Elaborado novo pedido de concessão de livramento, agiu com acerto o digno Magistrado a quo ao decidir que
+"Nada obstante o cumprimento do lapso temporal, verifica-se que o sentenciado já obteve o benefício do livramento condicional, porém praticou novo crime no curso do cumprimento da pena, razão pela qual foi revogado o benefício anteriormente concedido.
+Assim, o reeducando já gozou anteriormente do benefício ora pleiteado, com relação às penas por quais se encontra preso atualmente.
+Diz o artigo 88 do Código Penal: "revogado o livramento, não poderá ser novamente concedido (..)".
+À luz do disposto no artigo acima, bem como pelos fatos mencionados na presente decisão, não é possível, por ora, novamente a concessão de livramento condicional" (fls. 08/09).
+Aliás, releva notar que a combativa Defesa sequer se animou a recorrer em busca do benefício indeferido, limitando sua irresignação ao cálculo de penas.
+Assim, no ponto controvertido, observo inexistir qualquer ilegalidade no cálculo elaborado.
+Com efeito, respeitado o entendimento da combativa Defesa, o cálculo de fls. 11/12 não apresenta qualquer incorreção, eis que deu precedência ao cumprimento da pena mais grave, referente ao crime hediondo (praticado no curso do livramento condicional anteriormente concedido execução 02), deixando para o final a execução do remanescente da pena relativa ao crime comum (execução 01, na qual foi concedido o livramento).
+Ora, dispõe o art. 76, do Código Penal que "No concurso de infrações, executar-se-á primeiramente a pena mais grave".
+Assim, há a obrigatoriedade de ser cumprida em primeiro lugar a pena mais grave, no caso, aquela referente ao crime hediondo, após o que se dará continuidade ao cumprimento da pena menos grave, imposta pelo crime comum, tal como constou do cálculo de fls. 11/12."
+Pois bem.
+Assiste razão à impetrante.
+Com efeito, a respeito do tema em debate, entende esta Corte que a norma contida no art. 76 do Código Penal refere-se apenas à gravidade da pena imposta, ou seja, reclusão e detenção, e não ao tipo de crime praticado, prevendo, tal dispositivo legal, primeiro a execução da pena maisgrave.
+Logo, há de ser observada a ordem cronológica dos delitos, de acordo com as datas do trânsito em julgado de cada sentença, sendo irrelevante tratar-se um deles de crime hediondo.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. ART. 76 DO CP. EXECUÇÃO. DELITO COMUM E HEDIONDO. PENAS DA MESMA ESPÉCIE (RECLUSÃO). AUSÊNCIA DE REPRIMENDA MAIS GRAVE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a dicção do art. 33 do CP, são duas as modalidades de pena privativa de liberdade, quais sejam: reclusão e detenção. A primeira é mais grave que a segunda e, nos termos do art. 76 do Estatuto Repressivo, deve ser cumprida primeiramente.
+2. A despeito do delito hediondo ser considerado mais grave em relação ao crime comum, se a reprimenda privativa de liberdade aplicada para ambos for de reclusão, não há falar em pena mais grave em razão da natureza do crime praticado e, pois, em incidência da regra do art. 76 do CP. Precedentes.
+3. Agravo regimental não provido" (AgRg no HC 406.980/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 27/03/2018, grifei).
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. DIREITO PENAL. EXECUÇÃO PENAL. ART. 76 DO CP. CONCOMITÂNCIA NA EXECUÇÃO PENAL. EXECUÇÃO QUE ENVOLVE CRIMES HEDIONDOS E COMUNS. CRITÉRIO DE PROCEDÊNCIA. GRAVIDADE DA PENA.
+1. Coexistindo duas condenações, uma por crime hediondo ou a ele equiparado e outra por crime comum, deve ser executada primeiramente a de sanção mais grave, devendo a pena mais branda ser cumprida posteriormente (art. 76 do CP).
+2. Em concurso de crimes, a pena mais grave será cumprida com precedência, primeiro a de reclusão, em seguida, a de detenção e, após, a de simples prisão, sendo despiciendo perquirir se hediondo ou não o crime.
+3. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+4. Agravo regimental improvido (AgRg no REsp 1699721/MS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 21/11/2017, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 76 DO CP. EXECUÇÃO. DELITO COMUM E HEDIONDO. PENAS DA MESMA ESPÉCIE (RECLUSÃO). AUSÊNCIA DE REPRIMENDA MAIS GRAVE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor da jurisprudência desta Corte, em situação de condenações por crimes diversos, a duas ou mais sanções de reclusão, apesar da exigência, em relação ao crime hediondo, de prazos maiores para a progressão de regime e o livramento condicional, não há falar em pena mais grave em razão da natureza do delito e, por isso, não incide a regra do art. 76 do CP.
+2. Agravo regimental não provido."(AgRg no HC 604.920/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 30/09/2020)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL.CONCURSO DE INFRAÇÕES. RESGATE DAS REPRIMENDAS PRIVATIVAS DE LIBERDADE. GRAVIDADE DA PENA E ORDEM CRONOLÓGICA. ART. 76 DO CÓDIGO PENAL. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.SÚMULA N. 83/STJ. INSURGÊNCIA DESPROVIDA.
+1. O agravante foi condenado a três penas de igual gravidade (reclusão). As instâncias antecedentes determinaram que a execução deve obedecer à ordem cronológica do trânsito em julgado das condenações, não obstante as penas cujas sentenças se consolidaram posteriormente se referirem a crimes de tráfico de drogas, hediondos por equiparação.
+2. Tal entendimento está em sintonia com a jurisprudência desta Corte, que emprega a espécie das penas (reclusão ou detenção) como critério para definir a ordem de execução, conforme previsto no art.76 do Código Penal, dispensando análise a respeito da espécie do delito (hediondo ou comum), razão pela qual incide o óbice previsto no enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+3. Agravo regimental desprovido."(AgRg no AREsp 840.103/MS, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 01/02/2019, grifei)
+In casu, depreende-se dos autos que o eg. Tribunal deorigem manteve a r. decisão do Juízo da Execução, aduzindo que a regra estabelecida no art. 76 do Código Penal se refere à gravidade entre os crimes hediondos e comuns, e não à gravidade entre as penas privativas de liberdade (reclusão e detenção), em sentido contrário aoentendimento iterativo deste Superior Tribunal de Justiça.
+Dessa forma, tratando-se de habeas corpus substitutivo de recurso especial eestando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, não conheço do habeas corpus.
+Concedo, contudo, a ordem, de ofício, para que o d. Juízo da Execução, observandoos termos desta decisão, refaça o cálculo de penas do ora paciente, reorganizando o roteiro de cumprimento emobservância ao critério cronológico das condenações.
+P. I.
