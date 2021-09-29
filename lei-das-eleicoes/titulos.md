@@ -1,5 +1,6 @@
 Disposições Gerais
 Das Coligações
+Das Federações
 Das Convenções para a Escolha de Candidatos
 Do Registro de Candidatos
 Do Fundo Especial de Financiamento de Campanha (FEFC)
