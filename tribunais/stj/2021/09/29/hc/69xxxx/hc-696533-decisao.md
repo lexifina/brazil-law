@@ -1,0 +1,24 @@
+DECISÃO
+EDUARDO JOSE DE MATTOSalega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunala quono HC n. 2166665-40.2021.8.26.0000.
+Assere a defesa que "o paciente possui BOM comportamento carcerário, não tendo praticado falta grave que ensejasse o mau comportamento nos últimos meses. O paciente já pagou e se arrepende por seu erro, e não deve ser condenado por apenas um recaída do passado" (fl. 4). Ainda, destaca que o apenado retornou ao trabalho e se apresentou espontaneamente após a equivocada decisão de soltura.
+Requer, liminarmente, a concessão do livramento condicional ou aplicação de cautelares diversas.
+Decido.
+O Juízo singular, ao indeferir a benesse, ressaltou que, " e mbora possua lapso temporal exigido pela lei, observa-se que o sentenciado, ainda não reúne condições pessoais favoráveis para retornar ao convívio social.Note-se que o reeducando é pessoa habituada ao crime e cumpre pena de forma tumultuada. Em regime semiaberto, o reeducando tornou a delinquir em 20/04/2020 , dessa vez por uso de documento falso" (fl. 18).
+Com efeito, a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  .. e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto.Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez quenão refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+3.A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada (HC n. 508.784/SP, Rel. MinistroReynaldo Soares da Fonseca,5ª T., DJe 22/8/2019, destaquei).
+Por tal razão, evidencia-se inidônea a fundamentação aventada para negar o pleito defensivo. Aliás, outra sorte não socorre o fundamento atrelado ao histórico disciplinar, porquanto percebe-se que não consta a prática de falta grave no período do último ano e ele ostenta bom comportamento devidamente atestado, de modo que não macula,per si, o preenchimento do requisito de ordem subjetiva.
+Consoante o entendimento do Superior Tribunal de Justiça,
+ ..
+3. A jurisprudência deste Superior Tribunal de Justiça tem se manifestado no sentido de que a gravidade do delito,as faltas graves antigas, a longa pena a cumprir e a impossibilidade da chamada progressãoper saltumde regime prisionalnão constituem fundamentos idôneos para o indeferimento do benefício do livramento condicional.
+4. O Superior Tribunal de Justiça possui entendimento de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de tal previsão no art. 83 do Código Penal.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar as decisões das instâncias ordinárias e determinar que o Juiz da execução aprecie o pleito do benefício do livramento condicional, nos estritos termos da lei (HC n. 384.838/SP, Rel. MinistroRibeiro Dantas, 5ª T., DJe 7/4/2017, sublinhei).
+Portanto, o que se percebe é quefoi indeferida a benesse sem a devida fundamentação, a impor ao paciente patente constrangimento ilegal,dado o preenchimento dos requisitos legais.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ,concedo,in limine, a ordempostulada para conceder ao paciente o benefício do livramento condicional.
+Comunique-se,com urgência.
+Publique-se e intimem-se.
