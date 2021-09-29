@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim relatado (fls. 14-15):
+KAÍQUE DOS SANTOS CARMO ingressa com o presente pedido revisional contra o venerando acórdão proferido pela Egrégia 8ª Câmara Criminal deste Colendo Tribunal de Justiça que, por votação unânime, negou provimento ao seu recurso de apelação e manteve a r. sentença de primeiro grau proferida pela MMª Juíza de Direito da Vara Única da Comarca de Apiaí que o condenou ao cumprimento de 06 anos, 05 meses e 23 dias de reclusão de reclusão, em regime fechado, e pagamento de 647 dias-multa, no mínimo legal, por infração ao artigo 33,caput, c. c. o artigo 40, inciso VI, ambos da Lei nº 11.343/06.
+O venerando acórdão transitou em julgado em24/08/2018 para a Defesa e para o Ministério Público (fls. 54).
+Através de Defensor constituído, com fulcro no artigo 621, I, c. c. o art. 626, ambos do Código de Processo Penal, pretende o peticionário a redução da pena ao mínimo legal, a aplicação do redutor previsto no § 4º, do artigo 33 da Leide Drogas e o abrandamento do regime prisional. Ingressou, também, com pedido de progressão de regime prisional.
+A douta Procuradoria Geral de Justiça manifestou-se pelo não conhecimento e, se conhecido, pelo indeferimento do pedido revisional.
+É o relatório.
+Consta dos autos que opaciente foi condenado pelo crime previsto no art.33, caput, c/c art. 40, VI, todos da Lei 11.343/2006, à pena de 6 anos, 5 meses e 23 dias de reclusão, em regime fechado, e 647 dias-multa.
+Proposta revisão crimina perante o Tribunal de Justiça, a pena foi reduzida para 5 anos e 10meses de reclusão, mais o pagamento de 583dias multa, mantido o regime fechado.
+Daí o presentemandamus, no qual sustenta a defesa, em síntese, que o paciente era, à época dos fatos, menor de 21 anos, bem como primário, pontuando quea condenação foi maior que 4 anos e menor que 8, motivo pelo qual entende ser mais adequada a imposição de regime semiaberto. Salienta que o Tribunal local considerou apenas a gravidade abstrata do delito para a imposição do regime mais severo.
+Requer, liminarmente e no mérito, a revisão do regime inicial de cumprimento de pena, de fechado para semiaberto.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Como visto, requer a defesa a mudança de regime inicial de cumprimento de pena do paciente, de fechado para semiaberto, basicamente sob o argumento de que o Colegiado estadual se pautou unicamente na gravidade do crime para a estipulação do regime mais gravoso.
+Quanto ao tema, assim restou fundamentado o acórdão atacado (fls. 16-18):
+A dosimetria penal, de fato, deve ser alterada.
+A quantidade de entorpecentes apreendidos, qual seja, 08 gramas de "crack" divididos em 92 porções, 06 gramas de maconha divididas em 06 porções, 04 gramas de maconha a granel e 03 gramas de cocaína divididas em 16 porções, não justifica a fixação da pena-base em 1/3 acima do mínimo legal, índice que deve ser reduzido para 1/6, suficiente para reprovação e prevenção do crime, partindo a pena de 05 anos e 10 meses de reclusão e pagamento de 583 dias-multa.
+Na segunda fase, presente a atenuante da menoridade relativa, a pena deve ser reduzida ao mínimo legal, ou seja, 05 anos de reclusão e pagamento de 500 dias-multa.
+Não é caso de se aplicar o redutor pois a provados autos indica que o peticionário e os corréus se dedicam ao tráfico de entorpecentes.
+Os policiais militares que participaram da prisão do peticionário e dos corréus informaram que receberam denúncia da ocorrência de tráfico de drogas no local dos fatos. Quando lá chegaram surpreenderam o peticionário, os corréus e o adolescente embalando as drogas.
+Disseram também que havia várias denúncias do envolvimento do peticionário e corréus no tráfico de drogas.
+Ainda na terceira etapa, presente a causa de aumento prevista no artigo 40, inciso VI, da Lei de Drogas (envolvimento de adolescente), fica mantido o aumento aplicado de 1/6, o que resulta agora pena final de 05 anos e 10 meses de reclusão e pagamento de 583 dias-multa.
+Foi eleito o regime prisional fechado, único compatível com o tráfico de entorpecentes, crime equiparado a hediondo.
+Observa-se que não há qualquer ilegalidade na fixação do regime inicial como fechado e nem ofensa às Súmulas 440 e 269 do ESTJ e 718 e 719, do Excelso Supremo Tribunal Federal, pois os fatos concretos e as circunstâncias judiciais aferidas (tráfico de entorpecentes praticado em concurso de agentes, com envolvimento de menor de idade, somada à expressiva quantidade de porções de drogas diversas, dentre elas o crack e a cocaína, de alto poder lesivo) devidamente extraídos dos autos demonstram não ser recomendável a adoção de regime prisional mais brando, sobretudo para não se provocar afrouxamento excessivo e intolerável estímulo ao criminoso, forjando, em seu espírito, asensação de uma ilusória impunidade.
+Por fim, o pleito formulado às fls. 82/83,referente à progressão de regime prisional, deve ser postulado no r. Juízo das execuções.
+Diante do exposto, defere-se parcialmente o pedido revisional para reduzir a pena imposta ao peticionário para 05 anos e 10 meses de reclusão e pagamento de 583 dias-multa, estendendo-se aos corréus a alteração do índice de aumento da pena-base de 1/3 para 1/6.
+Verifica-se que o Tribunal de Justiça,ao confirmar o regime fechado para o cumprimento de pena do paciente,utilizou-se de fundamentação concreta válida,evidenciada, além da quantidade, da naturezae da diversidadede droga,na prática de tráfico de drogas em concurso de agentes, bem como na participação de adolescente na empreitada delituosa.
+No mesmo sentido, a jurisprudência dessa Corte superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. RÉU QUE SE DEDICA A ATIVIDADE CRIMINOSA. ALTERAÇÃO DESSE ENTENDIMENTO.REEXAME DE FATOS. MANIFESTA ILEGALIDADE NÃO VERIFICADA. REGIME PRISIONAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MODO FECHADO.ALEGAÇÃO DE BIS IN IDEM. INOVAÇÃO RECURSAL. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+ .. .
+3. Segundo a jurisprudência desta Corte, o envolvimento do agravante quando menor em atos infracionais, sobretudo quando relacionados ao crime de tráfico de entorpecentes, podem justificar a não aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas, porquanto demonstra a dedicação do agente a práticas criminosas.
+4. O regime fechado é o adequado para o cumprimento da pena reclusiva de 6 anos de reclusão, tendo em vista a aferição desfavorável de circunstância judicial (concurso de agentes), nos termos dos arts. 33 e 59 do Código Penal.
+ .. .
+6. Agravo regimental parcialmente conhecido e, nessa extensão, não provido (AgRg no HC 602.926/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2020, DJe 22/10/2020)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. REGIME INICIAL FECHADO. QUANTIDADE DE DROGAS. 900G DE MACONHA. CONCURSO DE AGENTES. PARTICIPAÇÃO DE ADOLESCENTES.GRAVIDADE CONCRETA DO DELITO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É possível a manutenção do regime inicial fechado, pois, embora a pena imposta ao Recorrente seja inferior a 8 (oito) anos de reclusão, a Corte estadual fundamentou concretamente a imposição do regime mais gravoso com fundamento na gravidade concreta do crime, demonstrada pela quantidade de drogas apreendidas (900g de maconha), pelo concurso de agentes e pela participação de adolescentes no crime.
+2. Agravo regimental desprovido.(AgRg no REsp 1842654/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/02/2020, DJe 02/03/2020)
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
