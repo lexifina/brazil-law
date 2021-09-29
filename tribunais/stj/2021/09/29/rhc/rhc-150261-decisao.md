@@ -1,0 +1,18 @@
+DECISÃO
+CARLOS FELIPE LEÃO DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Pará no HC n. 0804073-83.2021.8.14.0000.
+A defesa pleiteia, em síntese, a revogação da custódia preventiva do paciente - decretada pela suposta prática dos crimes de roubo e corrupção de menores -, sob o argumento de ausência de motivação para tanto.
+Indeferida a liminar (fls. 74-75), veio o parecer do Ministério Público Federal (fls. 78-82), que opinou pelo não provimento do recurso.
+Decido.
+O Juiz de primeiro grau, ao converter a prisão em flagrante do acusado em preventiva, salientou que o paciente "tende a reiterar em condutas criminosas, tendo em vista as condutas a ele atribuídas e, o fato de ter sido preso, novamente, pelo cometimento de novo delito" (fl. 11, grifei). Ainda, ressaltou que ele "possui antecedentes criminais, inclusive em crimes da mesma espécie" (fl. 11, destaquei).
+A ordem foi denegada, pois "no referido decisum que decretou a segregação cautelar do paciente bem como da decisão que indeferiu o pedido para revogá-la, vê- se ter o magistrado a quo demonstrado a materialidade e os indícios de autoria do fato criminoso, além de entender ser a medida extrema necessária à garantia da instrução criminal e da ordem pública, justificando a necessidade da custódia, principalmente, na periculosidade evidenciada do agente" (fl. 48, grifei).
+Tal quadro, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, dada a periculosidade apresentada, sobretudo quando o insurgente responde por delitos da mesma espécie. Assim, o risco de reiteração delitiva enseja a necessidade de manutenção da segregação cautelar para a garantia da ordem pública, afastada, por conseguinte, o aventado constrangimento ilegal e a possibilidade de imposição de medidas cautelares.
+Nessa direção, é firme a jurisprudência deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019, grifei).
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+No mesmo sentido, o parecer do Ministério Público Federal:
+A prisão preventiva do paciente foi decretada e mantida como garantia da ordem pública, diante do risco de reiteração criminosa e da gravidade concreta da conduta. Vejam-se os fundamentos do acórdão (fls. 48):
+ ..
+As circunstâncias do caso recomendam a manutenção da prisão preventiva. Verifica-se que o roubo foi cometido na companhia de um adolescente, o que indica a maior reprovabilidade da conduta. Ademais, o paciente é contumaz na prática delitiva e já foi condenado pelo cometimento de outros delitos patrimoniais, fato capaz de denotar a periculosidade social do acusado.
+O risco de reiteração criminosa torna necessária a manutenção da medida constritiva e inócua a sua substituição por cautelares diversas da prisão.
+Conforme a jurisprudência do STJ, a prisão provisória pode ser decretada para garantia da ordem pública potencialmente ofendida, especialmente nos casos de: reiteração delitiva, gravidade concreta do delito e periculosidade do agente. Acerca do tema, transcrevo o seguinte precedente (fl. 80, destaquei).
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
