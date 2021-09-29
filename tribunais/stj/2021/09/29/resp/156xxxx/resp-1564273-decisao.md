@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado por MARIA HELENA ANDRAUS CINTRA e outros contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+RECURSO ESPECIAL - REEXAME DA MATÉRIA PELA TURMA JULGADORA NA FORMA DO ART 543-C § 7º DO CPC - DESAPROPRIAÇÃO - JUROS COMPENSATÓRIOS DEVIDOS À RAZÃO DE 6% (SEIS POR CENTO) AO ANO - JULGAMENTO DO RESP Nº 1111829/SP, EM SENTIDO DIVERSO - ENTENDIMENTO QUE CONTUDO NÃO VINCULA O JULGAMENTO DESTE COL. TURMA - V. ARESTO QUE MERECE SUBSISTIR - REAPRECIAÇÃO DO RECURSO, MAS SEM A RETRATAÇÃO DO JULGADO - ACÓRDÃO MANTIDO.
+É o relatório.
+A questão jurídica referente aos juros compensatórios nas desapropriações foi submetida a revisão no regime dos precedentes qualificados vinculantes pelo Superior Tribunal de Justiça nos seguintes termos:
+Tese 126/STJ: O índice de juros compensatórios na desapropriação direta ou indireta é de 12% até 11/6/1997, data anterior à vigência da MP 1577/97.
+Tese 184/STJ: O valor dos honorários advocatícios em sede de desapropriação deve respeitar os limites impostos pelo artigo 27, § 1º, do Decreto-lei 3.365/41 - qual seja: entre 0,5% e 5% da diferença entre o valor proposto inicialmente pelo imóvel e a indenização imposta judicialmente.
+Tese 280/STJ: Até 26.9.99, data anterior à edição da MP 1901- 30/99, são devidos juros compensatórios nas desapropriações de imóveis improdutivos.
+Tese 281/STJ: Mesmo antes da MP 1901-30/99, são indevidos juros compensatórios quando a propriedade se mostrar impassível de qualquer espécie de exploração econômica atual ou futura, em decorrência de limitações legais ou fáticas.
+Tese 282/STJ: i) A partir de 27.9.99, data de edição da MP 1901- 30/99, exige-se a prova pelo expropriado da efetiva perda de renda para incidência de juros compensatórios (art. 15-A, § 1º, do Decreto-Lei 3365/41); ii) Desde 5.5.2000, data de edição da MP 2027-38/00, veda-se a incidência dos juros em imóveis com índice de produtividade zero (art. 15-A, § 2º, do Decreto-Lei 3365/41).
+Tese 283/STJ: cancelada.
+Tese 1071/STJ: A discussão acerca da eficácia e efeitos da medida cautelar ou do julgamento de mérito da ADI 2332 não comporta revisão em recurso especial.
+Tese 1072/STJ: Os juros compensatórios observam o percentual vigente no momento de sua incidência.
+Tese 1073/STJ: As Súmulas 12/STJ ("Em desapropriação, são cumuláveis juros compensatórios e moratórios."), 70/STJ ("Os juros moratórios, na desapropriação direta ou indireta, contam-se desde o trânsito em julgado da sentença.") e 102/STJ ("A incidência dos juros moratórios sobre compensatórios, nas ações expropriatórias, não constitui anatocismo vedado em lei.") somente se aplicam às situações havidas até 12.01.2000, data anterior à vigência da MP 1.997/34.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniforme da tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores, a fim de que possam ser analisadas as questões jurídicas neles suscita das, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/15, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
