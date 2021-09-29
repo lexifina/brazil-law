@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favorde EDILSON FERREIRA DO CARMOcontra acórdão do Tribunal de Justiça do Estado de Minas Geraisproferido noHC n.1.0000.20.036800-9/000.
+Consta dos autos que o Paciente cumpre pena de254 (duzentos e cinquenta e quatro) anos de reclusão, em regime inicial fechado, e que oMagistrado estadualdeferiu pedido do Ministério Público para transferência do Apenadopara penitenciária federal.
+Irresignada, a Defesa impetrou prévio habeas corpus perante o Tribunal a quo, que denegou a ordem, nos termos de acórdão assim ementado (fl. 8):
+"HABEAS-CORPUS - TRANSFERÊNCIA DA EXECUÇÃO - MANUTENÇÃO - DECISÃO DEVIDAMENTE FUNDAMENTADA - ORDEM DENEGADA. 1. Demonstrada a periculosidade do paciente, pelo risco de influência e comando dos demais membros da organização criminosa que se encontram em liberdade, e tendo em vista a ausência de estrutura necessária no complexo penitenciário em que se encontrava cumprindo pena, entendo que com razão o Magistrado primevo ao julgar pela imprescindibilidade da sua transferência para o estabelecimento penal federal, resguardando assim a segurança pública. 2. Ordem denegada."
+Neste writ, a Defesasustenta, em síntese: a)que não foram cumpridos os requisitos da legislação que disciplina a transferência de presos para presídios federais, mormente no que tange à necessidade defundamentação idônea e à imprescindibilidade de oitiva prévia da defesa; e b)que a transferência impede o exercício do direito do Paciente de cumprir pena em local próximo à família.
+Requer, em liminar e no mérito, o imediato retorno do Paciente ao presídio estadual.
+O pedido liminar foi indeferido (fls. 45-48).
+As informações foram prestadas (fls. 53-133).
+O Ministério Público Federal opinou pelo não conhecimento dohabeas corpus(fls. 135-143).
+É o relatório.
+Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos. Com efeito, a parteImpetrante não juntou a cópia integral da decisão do Juízo estadual que, em 07/04/2020, autorizou o ingresso do ora Paciente no Sistema Penitenciário Federal (sequencial n. 271.1)-mencionada à fl. 80-,peça necessáriaà devida compreensão da controvérsia.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, o habeas corpusnão deve ser conhecido, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto que não há óbice ao manejo de novo writ para a análise da controvérsia, desde que seja juntada a documentação faltante.
+Ante todo o exposto, NÃO CONHEÇO do pedido de habeas corpus, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À APRECIAÇÃO DA CONTROVÉRSIA. WRIT NÃO CONHECIDO.
