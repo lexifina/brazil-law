@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto porFRIGORIFICO PACIFICO EIRELI. em face de decisão proferida pela Presidência deste Superior Tribunal de Justiça, que não conheceu do recurso especial em virtude da sua intempestividade.
+Nas razões do agravo interno, orecorrente, pugna pela modificação do julgado, alega, em síntese, que seu recurso especial é tempestivo e aponta prevenção de minha relatoria. Por fim, reprisa suas razões recursais.
+O agravado não apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECONHECIMENTO DA INTEMPESTIVIDADE DORECURSO ESPECIAL. PREVALÊNCIA DA INTIMAÇÃO ELETRÔNICA. INTERPOSIÇÃO FORA DENTRO DO PRAZO LEGAL DE 15 DIAS. AUSÊNCIA DE COMPROVAÇÃO DE FERIADO LOCAL. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não deve ser provido.
+Conforme bem salientado na decisão agravada, tendo em vista que o acórdão e a decisão que foram objeto do recurso especial e do agravo em recurso especial forampublicados em data posterior à vigência do Código de Processo Civil de 2015, o juízo de admissibilidade desses recursos deve ser re alizado com base nas normas do novo diploma legal, segundo dispõe o Enunciado Administrativo n. 3 deste Superior Tribunal de Justiça.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante capaz de alterar os fundamentos da decisão ora agravada faz subsistir incólume o entendimento nela firmado.
+Verifica-se que orecorrente foi intimadodo acórdão recorridoem 27.07.2020 (e-STJ Fl. 604). Contudo, o recurso especialfoiinterpostosomente nodia18.08.2020 (e-STJ Fl. 605),fora do prazo legal de 15 (quinze) dias. Portanto, é patente a intempestividade dorecurso.
+Incumbiria à parte recorrente, no ato da interposição dorecurso, ter apresentado a prova de que houve feriado na Corte local durante o lapso recursal, ônus do qual não se desincumbiu.
+Isso porque, no tocante aos recursos interpostos com fundamento no Código de Processo Civil de 2015, não mais se aplica a orientação quanto à possibilidade de comprovação posterior da tempestividade, uma vez queessamedida deve ser realizada no momento da interposição do recurso cuja admissibilidade é aferida, mediante documento idôneo, conforme entendimento amparado no que dispõem o § 6º do art. 1.003 e o § 3º do art. 1.029 do CPC/2015.
+Com efeito, quanto a alegaçãode prevalência da intimação eletrônica, recentemente, a Corte Especial deste Superior Tribunal de Justiça, por ocasião do julgamento do EARESPn. 1.663.952/RJ, afirmou que prevalece a contagem do prazo a partir da intimação eletrônica.
+Eis a ementa do acórdão:
+DIREITO PROCESSUAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO (LEI 11.419/2006, ARTS. 4º E 5º). PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO. RECURSO CONHECIDO E PROVIDO.
+1. A Lei 11.419/2006 - Lei do Processo Judicial Eletrônico - prevê dois tipos de intimações criados para atender à evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais.
+2. Embora não haja antinomia entre as duas formas de intimação previstas na Lei, ambas aptas a ensejar a válida intimação das partes e de seus advogados, não se pode perder de vista que, caso aconteçam em duplicidade e em diferentes datas, deve ser garantida aos intimados a previsibilidade e segurança objetivas acerca de qual delas deve prevalecer, evitando-se confusão e incerteza na contagem dos prazos processuais peremptórios.
+3. Assim, há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do art. 5º atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas. Caso preponderasse a intimação por forma geral sobre a de feitio especial, quando aquela fosse primeiramente publicada, é evidente que o advogado cadastrado perderia o prazo para falar nos autos ou praticar o ato, pois, confiando no sistema, aguardaria aquela intimação específica posterior.
+4. Embargos de divergência conhecidos e providos, afastando-se a intempestividade do recurso especial.
+(EAREsp 1663952/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 19/05/2021, DJe 09/06/2021) -g.n.
+No caso sob apreciação, ainda que a contagem do prazo ocorra a partir da intimação do advogado do agravante, verifica-se que o recurso especial foi interposto fora do prazo de 15 dias úteis.
+Cumpre ressaltar que acontagem doprazo iniciou em 28.07.2020 e findouem 17.08.2020, sendo o recurso especial interposto apenas no dia 18.08.2020, ou seja, 1 (um) dia após o término do prazo. Considerando, que não houvecomprovação de feriado local ou suspensão do expediente forense,sua intempestividade é evidente.
+Ademais, é certo que eventual decisão e certidão do Tribunal de origem não vinculam necessariamente a conclusão desta Corte Superior, na qualidade de órgão destinatário do recurso especial, quanto à aferição dos seus pressupostos de admissibilidade.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. RECURSO ESPECIAL. EXPEDIENTE FORENSE. SUSPENSÃO. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ARTIGO 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É intempestivo o recurso especial protocolizado após o prazo de 15 (quinze) dias, de acordo com o artigo 1.003, § 5º, c/c artigo 219, caput, do CPC/2015.
+3. Eventual documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso, a teor do que dispõe o artigo 1.003, § 6º, do CPC/2015. Precedente da Corte Especial.
+4. A interpretação literal da norma expressa no § 6º do artigo 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos artigos 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+5. Consoante a jurisprudência pacífica desta Corte, a certidão que atesta tempestividade do recurso expedida pelo Tribunal de origem não vincula esta Corte em seu juízo de admissibilidade.
+6. Agravo interno não provido.
+(AgInt no REsp 1771667/RO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/08/2019, DJe 27/08/2019 - grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A INTEMPESTIVIDADE DO RECURSO ESPECIAL. INSURGÊNCIA DAS AGRAVANTES.
+1. Consoante a jurisprudência deste STJ, a legislação processual (932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplica a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade. Precedentes.
+2. A Corte Especial, ao apreciar o AgInt no AREsp 957.821/MS, concluiu que, para os recursos interpostos sob a égide do CPC/15, a comprovação do feriado local deve ocorrer no ato da interposição do reclamo, nos termos do art. 1.003, § 6º, do aludido diploma, que contém previsão expressa quanto à necessidade de comprovar o feriado no ato da interposição da insurgência, sendo descabido, nesse caso, intimar a parte para regularização, haja vista a gravidade do vício.
+2.1. No caso em tela, a parte insurgente interpôs recurso especial depois de escoado o prazo legal e não apresentou, no momento da interposição do reclamo, documentos hábeis a comprovar a ocorrência de feriado local, impondo-se a inadmissão do recurso.
+3. A decisão que averigua os requisitos legais e constitucionais para a admissão do recurso não viola o artigo 10 do CPC/15, pois "A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa." (EDcl no REsp 1.280.825/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017).
+4. A existência de certidão do Tribunal de Origem atestando a tempestividade do recurso não tem o condão de vincular o Superior Tribunal de Justiça, a quem compete examinar, em definitivo, os requisitos de admissibilidade do apelo especial. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1389200/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/03/2019, DJe 29/03/2019 - grifei)
+Nesse contexto, deve ser mantida, por seus próprios fundamentos, a decisão recorrida, tendo em vista que não foram trazidos elementos aptos a desconstituí-la.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
