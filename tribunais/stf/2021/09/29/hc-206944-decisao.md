@@ -1,0 +1,63 @@
+Decisão: Trata-se de habeas corpus impetrado por Percival Stefani Brachini de Oliveira e outros, em favor de Gustavo Borges de Freitas, contra acórdão da Sexta Turma do Superior Tribunal de Justiça (STJ), nos autos do AgRg no HC 672.051/SP.
+    Colho da decisão impugnada:
+    “Trata-se de agravo regimental interposto por GUSTAVO BORGES DE FREITAS contra a decisão de e-STJ fls. 66/73, por meio da qual deneguei in limine a ordem de habeas corpus.
+    Depreende-se dos autos que o réu foi condenado às penas de 15 dias de detenção e 10 dias-multa, como incurso no crime do art. 330 do Código Penal (desobediência), e de 6 anos, 6 meses e 15 dias de reclusão e ao pagamento de 664 dias-multa, pela prática do delito inscrito no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), tendo em vista a apreensão de 336kg (trezentos e trinta e seis quilos) de maconha – e-STJ fl. 39. Foi fixado o regime inicial fechado.
+    A apelação criminal da defesa foi parcialmente provida, a fim de readequar a reprimenda do delito de tráfico de drogas para 6 anos e 3 meses de reclusão, mais pagamento de 625 dias-multa, além de fixar o regime semiaberto para a pena de detenção cominada ao crime de desobediência.
+    No Superior Tribunal de Justiça, asseriu a defesa fazer jus o réu à aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 em sua fração máxima. Alegou a ocorrência do vedado bis in idem, uma vez que a quantidade de droga apreendida foi utilizada na primeira e na terceira fases da dosimetria, acarretando dupla punição pelo mesmo fato.
+    Aduziu preencher o agente os requisitos para a fixação de regime inicial semiaberto.
+    Às e-STJ fls. 66/73, deneguei liminarmente o writ.
+    No presente regimental, a defesa reitera a ocorrência do bis in idem e da falta de fundamentação idônea para afastar a benesse do tráfico privilegiado.
+    Requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.” (eDOC 7)
+    No STJ, o Agravo Regimental no HC foi negado pela Sexta Turma, à unanimidade.
+    Nesta Corte, a defesa requer a aplicação do redutor previsto no art. 33, §4º da Lei 11.343/2006 e fixação de regime prisional mais brando.
+    É o relatório.
+    Decido.
+    O paciente foi condenado à pena de 6 anos, 6 meses e 16 dias de reclusão e 15 dias de detenção e 664 dias multa, em regime inicial fechado, pela prática dos delitos previstos no art. 33 da Lei 11.343/2006 e art. 330 do Código Penal.
+    Pretende nesta via a aplicação do redutor previsto no art. 33, §4º da Lei 11.343/2006 e fixação de regime prisional mais brando.
+    De início, colho trechos da fundamentação da sentença (eDOC3):
+    “Aumento a pena na culpabilidade, já que o condenado demonstrou censurabilidade maior do que a devida, na medida em que se dispôs a sair de São José do Rio Preto, viajar mais de 245 quilometros para chegar em Ilha Solteira e de lá, querer viajar aproximadamente mais 230 quilometros para levar o entorpecente para a cidade de Mirassol, tendo sido abordado em Auriflama.
+    Aumento, outrossim, a pena nas circunstâncias, posto que o agente perpetrou seu crime em horário (por volta das 23h00) e em local (na rodovia SP 310), em que o policiamento e a prevenção são menores.
+    Elevo também a pena na quantidade de droga apreendida, extremamente grande, sobretudo para os portes auriflamenses, conforme apontou a policial Elen ("não é comum a quantidade que foi apreendida com o acusado."): 336 quilos de maconha.
+    Pena inicial em 7 anos, 10 meses e 8 dias de reclusão e 785 dias-multa.
+    Não há agravantes. O réu confessou o delito.
+    Pena intermediária em 6 anos, 6 meses e 16 dias de reclusão e 654 diasmulta.
+    Não há causa de aumento e nem de diminuição de pena.
+    Destaco que se torna inviável reconhecer o redutor previsto no § 4º, do artigo 33, da Lei 11.343/06, que dispõe: "Art. 33 (...) § 4º. Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa” (grifo nosso).
+    A norma em questão ostenta natureza jurídica de causa especial de diminuição de pena.
+    Assim, tem por finalidade, nos termos do art. 5º, inciso XLVI, da Constituição Federal, adequar a punição ao caso concreto, em obediência ao princípio da individualização da pena.
+    Logo, o escopo do dispositivo em questão é o de coadunar o previsto no preceito secundário do tipo incriminador ao fato criminoso que demonstre reduzida ofensa e menor perigosidade social.
+    Isto é, dirige-se especificamente a pessoas que, a despeito de terem praticado uma conduta relacionada ao tráfico de drogas, não se dediquem à traficância.
+    Do contexto probatório produzido nos autos, extrai-se:
+    i.) a afirmação do acusado de que encontrou seu "contato" em São José do Rio Preto, o qual lhe disse para ir até Ilha Solteira para pegar a droga
+    ii.) o volume da apreensão, a saber, 336 quilos de maconha. Não é crível, que com esta quantidade, avaliada, no varejo, em cerca de R$ 336.000,00 , não tenha, o réu, um alto grau de confiabilidade da organização, com célula em São José do Rio Preto, que o contratou para transportar o entorpecente, que estava em Ilha Solteira (há mais de 240 quilometros), para leva-lo para Mirassol
+    iii.) o fato de que o veículo conduzido pelo agente tenha a placa da cidade de Paulo de Faria, comarca em que se situa o presídio de Riolândia.
+    iv.) a circunstância de que o agente, como disse em seu interrogatório, era cabeleireiro, mas estava desempregado, o que denota que fez do tráfico organizado a oportunidade de constituir renda fácil.
+    Nesse contexto, oportuno destacar o entendimento do Egrégio Tribunal de Justiça do Estado de São Paulo:
+    Como não tem outra atividade, a única conclusão a que se pode chegar é que se dedica costumeiramente à atividade criminosa de comércio de entorpecentes; e, como não tem renda proveniente de origem diversa, somente se pode concluir pertencer a organização criminosa que a abastece com a droga a ser comercializada (TJSP – Ap.C rim. nº. 0450599-29.2010.8.26.0000, Rel.: Exmo. Des. SOUZA NERY, julgado 14/04/2011). Da mesma forma: Apelação nº 0000170-44.2010.8.26.0091. Colenda 9º Câmara de Direito Criminal do Egrégio Tribunal de Justiça de São Paulo. Rel. Exmo. Des. José Orestes de SOUZA NERY. No mesmo sentido: APELAÇÃO nº 0003333-70.2009.8.26.0219. Colenda 9º Câmara de Direito Criminal do Egrégio Tribunal de Justiça de São Paulo. Rel. Exmo. Des. José Orestes de SOUZA NERY. Da mesma forma: Apelação nº 0022595-52.2014.8.26.0050, São Paulo, Colenda 8ª Câmara de Direito Criminal do Egrégio Tribunal de Justiça de São Paulo, Rel.: Exma. Des.ELY AMIOKA, 12 de maio de 2016).
+    Destarte, as circunstâncias concretas apresentadas afastam a reduzida ofensa e menor perigosidade social do réu, fugindo de qualquer critério lógico e racional reconhecer a causa de diminuição de pena em questão, isto porque denota-se que o denunciado fez do tráfico de drogas seu meio de vida.
+    Desta feita, deixo de reconhecer a causa de diminuição de pena prevista no art.33,§4.º, da Lei 11.343-06.
+    Chego à pena de 6 anos, 6 meses e 16 dias de reclusão e 654 dias-multa. Com fulcro no artigo 69, do CP, somo as penas aplicadas e chegou à pena final de 6 anos, 6 meses e 16 dias de reclusão 15 dias de detenção e 664 dias-multa.
+    As péssimas circunstâncias judiciais do condenado, cumulado com seu envolvimento com atividade criminosa organizada e com a natureza hedionda do tráfico de drogas, legitimam a fixação do regime fechado como o inicial para o cumprimento de pena.
+    Fixo o valor do dia-multa no mínimo legal.
+    Em virtude do montante de pena aplicada, fica impossível a concessão das benesses dos artigos 44 e 77, do CP.”
+    O TJSP ao apreciar a apelação interposta pelo ora paciente deu parcial provimento ao recurso para para reduzir as penas, quanto ao crime de tráfico de drogas, para 06 (seis) anos e 03 (três) meses de reclusão e, 625 (seiscentos e vinte e cinco) dias-multa, e, quanto ao crime de desobediência, fixar o regime inicial semiaberto, mantendo, no mais, a r. sentença penal condenatória por seus próprios fundamentos.
+    Asseverou o relator, em voto condutor do acórdão (eDOC 6):
+    Para redução da pena, essencial que o réu seja “primário”, apresente “bons antecedentes”, comprove que “não se dedique às atividades criminosas”, assim como, “nem integre organização criminosa”.
+    Evidente que essa causa de redução da pena está reservada àquele que age por um impulso, um desvio, em situação isolada no tráfico de drogas. E mais, os parâmetros para a graduação da redução (1/6 a 2/3) devem ser objetivos e extraídos das diversas circunstâncias que envolvam o caso concreto, podendo variar dentro do seu campo de incidência. Essa causa de redução da pena deve incidir na excepcionalidade, em situações específicas, próprias, quando patente que o tráfico apurado cuidou-se apenas de um desvio na vida do réu, e não de uma contumácia, estilo, repetição de fato análogo, de uma rotina de proceder.
+    Ao julgador compete a análise do impulso, do fator determinante da conduta objetivamente tratada, que lhe permita concluir tratar-se mesmo de caso de um criminoso meramente ocasional, ou mesmo, se vem tomando aquela conduta como estilo de vida, para que possa, não apenas determinar a gradação da redução da pena, como até mesmo o total afastamento da causa de redução.
+    No caso em apreço, embora o Apelante seja primário, além da quantidade elevadíssima de drogas, incomum para aquele que inicia sua vida no tráfico de drogas, circunstância já considerada, deve ser destacado que houve delação anônima, em plena madrugada, com transporte por quase todo o Estado de São Paulo, o que indica, seguramente, a constância na prática delituosa, inviabilizando a incidência do redutor.
+    Ainda, foi fixado o regime fechado, considerando as circunstâncias em que o crime foi cometido, com delação anônima, em plena madrugada, com transporte por quase todo o Estado de São Paulo, que não autoriza a imposição de regime mais brando, revelando a perigosidade incomum do Apelante.
+    Quanto à maconha, os ensinamentos de CARLOS FERNANDES SANDRIN e JAQUES DE CAMARGO PENTEADO (Drogas: Imputabilidade e Dependência, Edições APMP, São Paulo, 1994, p. 23), no sentido de que um “fininho” de maconha pesaria em média 0,76g, com isso, os 336 kg apreendidos seriam suficientes para a confecção de mais de 442.105 “fininhos”, que serviriam para o consumo de diversos usuários.
+    Tais circunstâncias não podem ser desprezadas no momento da imposição do regime de cumprimento de pena.
+    O benefício do art. 33, § 4º, da Lei Antidrogas, é de ser deferido ao agente que (i) seja primário; (ii) possuidor de bons antecedentes; (iii) não se dedique a atividades criminosas; e (iv) não integre organização criminosa.
+    O instituto do § 4º do artigo 33 tem como fundamento distinguir o traficante contumaz e profissional daquele iniciante na vida criminosa, bem como do que se aventura na vida da traficância por motivos que, por vezes, confundem-se com a sua própria sobrevivência e/ou de sua família. Assim, para legitimar a sua não aplicação, é essencial fundamentação corroborada em elementos capazes de afastar um dos requisitos legais, sob pena de desrespeito ao princípio da individualização da pena e de fundamentação das decisões judiciais.
+    No caso em tela, verifico que houve a demonstração de elementos concretos aptos a justificar o afastamento do redutor. A conduta criminosa foi praticada mediante transporte por quase todo o Estado de São Paulo, a demonstrar a elaborada dinâmica arquitetada e a constância na prática delituosa.
+    Quanto à fixação do regime inicial, a jurisprudência desta Corte reconhece a identificação de circunstância judicial desfavorável como motivo apto a autorizar a adoção de regime mais gravoso que o previsto a partir da quantidade de pena fixada.
+    Conforme restou consignado nos autos, foram consideradas negativas, de forma fundamentada, a culpabilidade, as circunstâncias do fato e da quantidade da droga.
+    Logo, estando as decisões vergastadas em consonância com a jurisprudência desta Corte, não há constrangimento ilegal passível de correção quanto aos demais pedidos do impetrante.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 29 de setembro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
