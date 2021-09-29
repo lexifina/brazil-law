@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARIA LUIZ ALVES FURLANcontra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE REALIZADO COM BASE NAS NORMAS DO CÓDIGO DE PROCESSO CIVIL DE 2015. INTEMPESTIVIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA EXISTÊNCIA DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DO RECURSO. "DIA DO SERVIDOR PÚBLICO". IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR EM SEDE DE AGRAVO INTERNO. ART. 1.003, § 6º, DO CPC/2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO. SUPERAÇÃO DO ENTENDIMENTO ANTERIOR, APLICÁVEL SOMENTE AOS RECURSOS INTERPOSTOS COM FUNDAMENTO NO CPC/1973. ORIENTAÇÃO CONSOLIDADA NO JULGAMENTO DO RECURSO ESPECIAL N. 1.813.684/SP. MODULAÇÃO DE EFEITOS APLICÁVEL APENAS AO FERIADO REFERENTE À SEGUNDAFEIRA DE CARNAVAL. ADEQUAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+Em suas razões, aembargantealega, em síntese,que "pontos fundamentais foram ignorados e/ou distorcidos nas linhas decisórias" (e-STJ fl. 872), referentes à prorrogação do prazo processual de 12 para 13 de novembro de 2019 em virtude do feriado relativo ao dia do funcionário público, em sintonia com a Portaria STJ/GP n. 37/2019, bem como no que tange à abrangência nacional desseferiado, que dispensaria a sua comprovação no ato de interposição do recurso.
+A parte embargada apresentou impugnação (e-STJ fls. 878-879).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARÁTER PROTELATÓRIO.
+EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2.º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+VOTO
+Eminentes colegas, os embargos de declaração devem ser rejeitados.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso sob apreciação, não houve a configuração no aresto ora embargado de qualquer omissão, contradição, obscuridade ou erro material que permitam a oposição dos aclaratórios.
+Com efeito, da leitura do acórdão embargado, verifica-se que esta Corte Superior expôs, de forma clara e suficientementefundamentada,o seu entendimento de que deve se reconhecer a intempestividade do recurso especial, pois arecorrentenão comprovou a suspensão do prazo recursalno ato de interposição do recurso mediante a apresentação de documento idôneo, requisito reputado necessário por este Superior Tribunal de Justiça em interpretação do que dispõem o § 6º do art. 1.003 e o § 3º do art. 1.029 do CPC/2015,conforme orientação consolidada no julgamento do Recurso Especial n. 1.813.684/SP.
+Ao contrário do que sugere a embargante, ressaltou-se expressamente, na fundamentação, que, "por não estar previsto em lei federal como feriado nacional, o "Dia do Servidor Público" é considerado feriado local, impondo-se a sua comprovação no ato da interposição do recurso mediante documento idôneo, qual seja, cópia da lei ou do ato administrativo do Tribunal de origem que indiquem inequivocamente a suspensão do prazo recursal" (e-STJ fl. 866).
+Destacou-se, ainda, que "não é considerada apta para esse fim a simples apresentação de cópia do calendário editado pela Corte local" e"tambémnão é suficiente, para tanto, a simples alegação de que o feriado está previsto em ato deste Superior Tribunal de Justiça, uma vez que os recursos interpostos na instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do tribunal local" (e-STJ fl. 866).
+Assim, verifica-se que os presentes embargos de declaração, em verdade, apenas traduzem inconformismo com o acórdão embargado, pretendendo rediscutir o que já foi decidido somente porque o que restou assentado é contrário ao interesse da parte.
+Nesse contexto, tendo em vista o manifesto caráter protelatório dos presentes embargos, aplico, com fulcro no art. 1.026, § 2º, do Código de Processo Civil de 2015, multa de 1% (umpor cento) sobre o valor atualizado da causa, advertindo-se para a possibilidade de majoração da multa, em caso de reiteração.
+Ante o exposto, rejeito os embargos de declaração e aplico multa de 1% (umpor cento) sobre o valor atualizado da causa.
+É o voto.
