@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃOem face de decisão proferida pelo Tribunal Regional Federal da 1ª Região,que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+ADMINISTRATIVO. TARIFA DE ESGOTAMENTO SANITÁRIO. NATUREZA. FIXAÇÃO DA BASE DE CÁLCULO POR DECRETO. POSSIBILIDADE. ATO ADMINISTRATIVO. ÔNUS DA PROVA.
+1. O cerne da controvérsia repousa em perquirir se a Ré, Companhia de Águas e Esgotos do Maranhão, comprovou a motivação que deu ensejo à majoração da base de cálculo para a cobrança da tarifa de esgoto do prédio da Justiça Federal no Maranhão, sendo indene de dúvidas a natureza de preço público da exação e a possibilidade de modificação da mesma por meio de decreto.
+2. Dispõe o art. 95 do Decreto 11.060/89/MA que: "Art. 95  Nos casos em que haja abastecimento próprio de água, o volume de esgotos ou despejos industriais será calculado à razão de 10m3 para cada 40m2 de área construída ou fração, da sua respectiva categoria, ou através do equivalente ao volume de água medido pela CAEMA, em aparelho apropriado, instalado pelo usuário em sua fonte de abastecimento. Parágrafo Único  Nos prédios servidos, tanto pela rede pública quanto por abastecimento próprio, a tarifa de esgoto será cobrada pela combinação dos artigos 92 e 95.
+3. Inequívoco que o poder público, mediante decreto, poderia estabelecer os critérios de cobrança da tarifa, fixando-a de acordo com a área construída do imóvel. Resta perquirir, assim, a quem compete o ônus de comprovar a efetiva área do prédio da Justiça Federal - Seção Judiciária do Maranhão.
+4. Os atos da Administração, ainda que praticados por concessionários de serviços públicos, gozam dos atributos dos atos administrativos em geral, quais seja, presunção 411 de veracidade e de legitimidade.
+5. A norma que dispõe sobre a inversão do Ônus probatório tem por objetivo possibilitar àquele que detém maiores condições de produzir a prova que assim o faça.
+6. A solução da lide repousa no âmbito do Direito Administrativo, competindo à União, consumidora, comprovar que o seu imóvel não possui as dimensões verificadas pela concessionária.
+7. Apelação provida.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, arecorrente aponta violação aos arts. 535, II, do CPC/1973, e 2º, caput, 3º, caput e § 2º, 6º, e 22, caput, da Lei nº 8.078/90.
+Em síntese, aduz que o Tribunal de origem, mesmo instado a se manifestar, não analisou todos os argumentos postos nos embargos de declaração, bem como reconheceu a autora como consumidora, mas afastou a aplicação do CDCao caso concreto, asseverando que caberia a autora/recorrente se desincumbir de seu encargo probatório.
+A inadmissão do recurso especial se fez à consideração de que admitir entendimento contrário ao que ficou assentado demandaria reexame de matéria de fato e de prova, atraindo a incidência da Súmula 7/STJ, bem como que não padeciao acórdão recorridode qualquer vício de fundamentação.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do especial.
+Quanto à alegada violação aoartigo 535do CPC/1973,a pretensão merece acolhida.
+Da análise dos autos, verifica-se que o Tribunal de origem, não obstante ter consignado que a parte ora recorrente é consumidora, expressou que a solução da lide repousavano âmbito do Direito Administrativo,não se pronunciando sobre as alegações darecorrente em embargos de declaração, quais sejam, reconhecimento da União como consumidor (art.2º,caput. do CDC), figurando a recorrida Companhia de Águas e Esgotos do Maranhão como fornecedor de serviços (arts. 3º, caput e § 2º, e 22 do CDC). devendo à União (consumidor) ser garantido o direito à facilitaçãoda defesa de seus direitos, inclusive com a inversão do ónus da prova.
+Cumpre registrar que tal alegação foi suscitada no momento oportuno em sede de embargos de declaração, sendo que, o Tribunal de origem não esclareceu a questão de aplicar ao caso o Direito Administrativo e ter afastado a regência das normas consumeristas à relação de consumo.
+Registra-se que, para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese suscitada, porquanto a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ) no ponto.
+Desta forma, tendo a instância ordinária deixado de analisar a referida alegação, incorreu em omissão, o que impõe a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento.
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento, nos termos da fundamentação, para anular o acórdão proferido no âmbito dos embargos de declaração, determinando ao Tribunal a quo um novo julgamento do recurso, enfrentando opontotidopor omisso.
+Quanto às demais supostas violações alegadas, prejudicada a análise dos temas.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 02/STJ. TARIFA DE ESGOTAMENTO SANITÁRIO. NATUREZA DA RELAÇÃO JURÍDICA ENTRE AS PARTES. VIOLAÇÃO AO ARTIGO 535DO CPC/1973. OMISSÃO CARACTERIZADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR PROVIMENTO.
