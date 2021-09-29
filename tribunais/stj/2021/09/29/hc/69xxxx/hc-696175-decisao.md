@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Wagner Alves Mendonça- condenado como incurso no crime de furto qualificado tentadoàs penas de 1 ano e 2 meses de reclusão, no regime inicial aberto, e 5 dias-multa-, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente na Ação Penal n. 0096480-10.2016.8.13.0358, que tramitou naVara Criminal da comarca de Frutal/MG, ao argumento de negativa de autoria, pois o acusado Wagner em momento algum foi até o estabelecimento comercial denominado Trevo Leilões, assim como, em momento algum ajudou o acusado Anderson a perpetrar qualquer crime, ele apenas havia aceitado o valor cobrado das alimárias dado pelo Acusado Anderson através do telefone, e como dito exaustivamente e pedido, não houve a quebra de sigilo telefônico dos acusados para provar o alegado (fl. 5). Subsidiariamente, pede a substituição da privativa de liberdade por restritiva de direitos, porentender adimplidos os requisitos necessários para tanto.
+Ocorre que, para acolher a pretensão principal formulada na impetração, consistente na absolvição do paciente, seria necessário reexame de provas, inviável na via eleita.
+No tocante ao pleito subsidiário de substituição da privativa de liberdade por restritiva de direitos, não verifiquei o alegado constrangimento, pois o Tribunal de origem consignou que, diante da existência de duas circunstâncias judiciais desfavoráveis, a medida não se mostraria socialmente recomendável (fl. 56).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO TENTADO. NEGATIVA DE AUTORIA. PLEITO QUE DEMANDA REEXAME DE PROVAS. INVIABILIDADE NA VIA ESTREITA. SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. DUAS CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. MEDIDA QUE NÃO SE MOSTRA SOCIALMENTE RECOMENDÁVEL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
