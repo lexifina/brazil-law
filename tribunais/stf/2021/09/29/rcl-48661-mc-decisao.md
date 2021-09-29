@@ -1,0 +1,34 @@
+DECISÃO
+    1. Ricardo Pereira Lima Carvalho propôs reclamação em face de sentença proferida pelo Juizado Especial Cível e Criminal da Comarca de Mococa/SP, nos autos do Processo n. 1000255-93.2021.8.26.0360, na qual alega descumprimento à determinação de suspensão nacional dos feitos que versem sobre a matéria discutida no ARE 875.958, Tema 933.
+    Alega o reclamante que o caso trata da cobrança de contribuição previdenciária decorrente de modificação instituída pela Lei Complementar Estadual n. 1.354/2020 e que a hipótese possui identidade com a matéria objeto do Tema 933 de Repercussão Geral.
+    Requer, liminarmente, a suspensão da decisão reclamada e, no mérito, a confirmação da medida liminar.
+    É o relatório.
+    2. Passo a examinar o pleito cautelar formulado nesta reclamação.
+    A questão relativa às balizas constitucionais para a majoração de alíquota de contribuição previdenciária de regime próprio de previdência social teve repercussão geral reconhecida, conforme ementa que segue:
+    EMENTA: Direito tributário e direito previdenciário. Recurso extraordinário. Lei estadual que eleva as alíquotas da contribuição previdenciária dos servidores. Alegação de inconstitucionalidade. Presença de repercussão geral. 1. Constitui questão constitucional saber quais são as balizas impostas pela Constituição de 1988 a leis que elevam as alíquotas das contribuições previdenciárias incidentes sobre servidores públicos, especialmente à luz do caráter contributivo do regime previdenciário e dos princípios do equilíbrio financeiro e atuarial, da vedação ao confisco e da razoabilidade. 2. Repercussão geral reconhecida.
+    (ARE 875958 RG, Relator(a): ROBERTO BARROSO, Tribunal Pleno, julgado em 16/02/2017, DJe-037 DIVULG 23-02-2017 PUBLIC 24-02-2017)
+    O Ministro Roberto Barroso determinou a suspensão, em todo território nacional, de processos em que se discute o Tema 933 de Repercussão Geral. Observem trecho da determinação:
+    Em razão do reconhecimento da repercussão geral, determino a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, nos termos do art. 1.035, § 5º, do CPC/2015 e do art. 328 do RISTF.
+    A decisão reclamada afastou a aplicação da suspensão apontando distinção no caso concreto. Colho o seguinte excerto:
+    Inicialmente, entendo que não seja o caso de suspensão do feito, tendo em vista que a questão cuja repercussão geral foi reconhecida no Tema 933 diz respeito às balizas constitucionais das alíquotas aplicadas às contribuições previdenciárias dos servidores públicos, enquanto que nestes autos se discute a base de cálculo e a não comprovação do déficit atuarial.
+    No entanto, em seguida, nos fundamentos de mérito, a sentença afirma a validade do aumento de alíquota das contribuições previdenciárias para o regime próprio promovido pela Lei Complementar 1.354/2020, do Estado de São Paulo. Observem:
+    Deste modo, a legislação estabelece que a contribuição previdenciária dos aposentados e pensionistas deve ser calculada, observando-se os percentuais previstos nos incisos I a IV do art. 8º da LC 1012/07, havendo isenção da contribuição devida sobre os proventos de aposentadorias e pensões até o limite estabelecido para os benefícios do Regime Geral de Previdência Social, na forma prevista no art. 40, §18, da Constituição Federal.
+    Assim, não podendo a cobrança das alíquotas do Estado ser inferior às da União, bem como diante da previsibilidade contida no art. 11 da Emenda Constitucional nº 103/19, não há cobrança de tributos indevida, mas sim aplicação da norma legal aliada aos princípios da capacidade contributiva, paridade e igualdade.
+    (…)
+    Finalmente, não se observa inconstitucionalidade da Emenda Constitucional nº 103/2019 que inseriu o §1º e §1º-A ao art. 149 da CF.
+    Da análise dos dispositivos, possível constatar que, na esteira do quanto afirmado, pretenderam o Poder Constituinte Reformador e o ente estatal minorar o déficit do sistema previdenciário do Estado de São Paulo, mediante a adoção da alíquota progressiva da contribuição social dos servidores públicos, fixando critérios que levam em conta o valor das respectivas remunerações.
+    Veja-se que a observância da capacidade contributiva na estatuição de tributos caracteriza-se como regra geral aplicável a todas as espécies tributárias, eis que verdadeiro princípio geral do direito tributário, em que pese a alusão apenas a impostos contida no §1º do art. 145 da Constituição Federal.
+    Assentada, destarte, a necessidade de observância da capacidade contributiva no caso em tela, é mais que evidente que a progressividade da alíquota do tributo constitui meio eficaz de concretização dos termos constitucionais, na medida em que há uma gradação no quanto a ser pago a título de contribuição social, exigindo-se valores menores daqueles que auferem menores rendimentos e maiores daqueles com rendimentos superiores, havendo tratamento diferenciado e justo.
+    De outra banda, inexiste caráter confiscatório nas alíquotas fixadas pela Lei Complementar Estadual combatida, já que apenas se verificaria tal circunstância em caso de indevida apropriação pela Estado, por meio da tributação, dos bens (incluídos os rendimentos) dos cidadãos, inviabilizando que possam desenvolver adequadamente sua existência digna
+    Assim, é possível constatar a semelhança do tema discutido pela decisão reclamada com aquele objeto de apreciação pelo Supremo sob repercussão geral no Tema 933.
+    Anoto, no mesmo sentido, afastando a distinção realizada pela decisão reclamada para determinar a suspensão de processos em que se discute a validade da pela Lei Complementar 1.354/2020 de São Paulo, as seguintes decisões monocráticas desta Corte: Reclamação 46.181, Ministro Alexandre de Moraes, DJe 16/03/2021; Reclamação 46.247, Ministra Cármen Lúcia, DJe 27/04/2021; Reclamação 47.001, Ministro Dias Toffoli, DJe 12/05/2021.
+    Tal o contexto e abstendo-me de qualquer pronunciamento acerca do mérito do pedido, entendo presente a plausibilidade jurídica da tese da parte reclamante de que a autoridade reclamada teria decidido sem atentar para a observância da suspensão nacional.
+    3. Em face do exposto, defiro o pedido de medida liminar, em ordem a suspender a tramitação do processo n. 1000255-93.2021.8.26.0360, em curso no Juizado Especial do Estado de São Paulo.
+    4. Comunique-se.
+    5. Solicitem-se informações à autoridade reclamada (CPC, art. 989, I).
+    6. Citem-se as partes beneficiárias nos endereços fornecidos pela autora, para contestação (CPC, art. 989, III).
+    7. Após, remetam-se os autos à Procuradoria-Geral da República (CPC, art. 991).
+    8. Intime-se. Publique-se.
+Brasília, 29 de setembro de 2021.
+Ministro NUNES MARQUES
+Relator
