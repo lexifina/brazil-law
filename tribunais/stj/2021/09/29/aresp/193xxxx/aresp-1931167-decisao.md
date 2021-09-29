@@ -1,0 +1,73 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por DIVINA NICE MARTINS CINTRA e OUTROS, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 17/06/2021.
+Concluso ao gabinete em: 15/09/2021.
+Ação: declaratória de dissolução, liquidação e extinção de sociedade, ajuizada por ROSE MARY CARVALHO FERREIRA (agravada), DIVA CARVALHO FERREIRA (interessada) e DELCIDES FERREIRA LIMA (interessado), em face dos agravantes, na qual alegam - em síntese - que, em 08/02/1951, o autor DELCIDES FERREIRA LIMA e o requerido WARIP ALVES MARTINS constituíram uma sociedade solidária, a FERREIRA E MARTINS, para importação e exportação, compra e venda de automóveis novos e usados, peças, gasolina, lubrificantes em geral e oficina mecânica para a reparação de automóveis, com participação societária à razão de 50% das cotas para cada um.
+Informam que, após várias alterações contratuais, em comum acordo entre os sócios, a empresa passou a ser uma sociedade com quotas limitadas, mantendo a sua finalidade empresarial, porém com nova denominação, qual seja, FERREIRA E MARTINS E CIA LTDA.
+Por derradeiro, aduzem que o objeto social da referida sociedade se tornou exequível, pois - a partir de 1996 - a empresa já apresentava sinal de deficiência produtiva, obrigações trabalhistas e perante às Fazendas Públicas não cumpridas, bem como começou a enfrentar uma crise financeira, sendo que os sócios administradores deixaram de prestar contas aos demais componentes da sociedade, especificamente aos requerentes.
+Dessa forma, postulam a dissolução da sociedade existente entre as partes, com a declaração de que o requerido WAHYB WILLIAM MIRANDA MARTINS seja o principal responsável pelas dívidas da empresa e encerramento.
+As partes agravantes apresentaram reconvenção, na qual pugnam pela procedência do pleito reconvencional, com exclusão dos reconvindos da sociedade FERREIRA MARTINS E CIA LTDA, diante das faltas graves cometidas pelos mesmos no cumprimento de suas obrigações.
+Sentença: em relação à ação principal, julgou improcedente o pedido; no que concerne à reconvenção, julgou procedente o pedido, para declarar parcialmente dissolvida a sociedade empresária FERREIRA, MARTINS & CIA LTDA, com a retirada, apenas, dos reconvindos do quadro societário (ROSE MARY CARVALHO FERREIRA, DIVA CARVALHO FERREIRA E DELCIDES FERREIRA LIMA).
+Acórdão: deu provimento à apelação interposta pela agravada ROSE MARY CARVALHO FERREIRA, para reformar a sentença e declarar a dissolução total da sociedade FERREIRA, MARTINS E CIA LTDA, bem como julgou improcedente o pedido reconvencional.
+Nesse sentir, é a ementa do julgado:
+Apelação cível. Ação declaratória de dissolução, liquidação e extinção de sociedade. Inexequibilidade do objeto social da empresa configurada. Ausência de esforços na persecução da finalidade societária. Dissolução total da sociedade.
+1. Sabe-se que a dissolução total da sociedade se caracteriza quando encerrado os vínculos da sociedade contratual, podendo sobrevir por razões tais como, vencimento do prazo de duração da sociedade, consenso unânime dos sócios, objeto social que se tornou ilícito, fim social exaurido ou inexequível, etc.
+2. Para que o objeto social se torne inexequível, a sociedade empresária deve manifestar a incapacidade de oferecer benefícios econômicos aos sócios ou o objeto do contrato tenha findado, não se concretizando mais.
+3. Verifica-se que a empresa requerida atuava como concessionária da marca Chevrolet e que após a rescisão do contrato, os sócios requeridos não demonstraram que tenham envidado esforços na persecução do objeto social.
+4. Uma vez demonstrado nos autos que a sociedade está inativa na JUCEG desde 2011, bem como o estabelecimento comercial encontra-se fechado, não há razão para a sua manutenção.
+Recurso conhecido e provido. (e-STJ, fls. 1.804/1.805)
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alega a violação dos arts. 371, 489, 599 e seguintes e 1.022, todos do CPC/15; 1.034 do CC/02, bem como a existência de dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta:
+i) a existência de deficiência de fundamentação no bojo do acórdão recorrido;
+ii) a inadequação da apreciação do conjunto probatório pelo Tribunal de origem; e
+iii) a possibilidade de dissolução parcial da sociedade empresarial objeto da presente ação, sendo "perfeitamente possível que a empresa continue explorando outras atividades relacionadas ao seu fim social" (e-STJ, fl. 1.893).
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da impossibilidade de dissolução parcial da sociedade, no sentido de que "restou claro que não há mais atividade econômica pela FERREIRA, MARTINS E CIA LTDA., não justificando mantê-la ativa" (e-STJ, fls. 1.815), de maneira que os embargos de declaração opostos pelos agravantes, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art.1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+A esse propósito, é o teor do acórdão dos embargos de declaração:
+Do exposto, verifica-se que o acórdão analisou todo conjunto probatório constante dos autos e enfrentou os argumentos deduzidos no processo, embora a decisão seja contrária a pretensão dos embargantes, não existindo omissão a ser sanada.
+Vale salientar que os embargantes pretendem rediscutir matéria já analisada e claramente decidida no julgamento do recurso de apelação, por via oblíqua e inadequada, porquanto o recurso de embargos de declaração visa aclarar obscuridades, sanar omissões, contradições ou corrigir erro material, segundo a dicção do artigo 1.022 do Código de Processo Civil. (e-STJ, fl. 1.869/1.870)
+- Da violação do art. 371 do CPC/15
+O TJ/GO, no uso discricionário das faculdades que lhe outorga o art. 371 do CPC/15, ao apreciar o conjunto probatório que tinha à sua disposição de forma fundamentada, apenas adotando posicionamento diverso daquele pretendido pelas partes agravantes, alinhou-se ao entendimento do STJ (AgInt no AREsp 987.406/RJ, 3ª Turma, DJe 14/09/2017; AgInt no AREsp 717.668/GO, 4ª Turma, DJe 26/02/2018). Não há que falar, portanto, em violação ao dispositivo legal citado.
+Aplica-se, portanto, a Súmula 568/STJ.
+- Da fundamentação deficiente
+Em relação à utilização da expressão "e seguintes" nas razões do recurso especial em análise, em sequência ao art. 599 do CPC/15, mostra-se incabível seu uso, tendo em vista ser condição de admissibilidade recursal a especificação do dispositivo infraconstitucional tido por violado. Dessa forma, é inviável a análise do presente recurso ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à impossibilidade de dissolução parcial da sociedade objeto da presente ação, em razão da demonstração de inexequibilidade do objeto social, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+A esse propósito, é o teor do acórdão recorrido:
+No caso dos autos, o argumento, predominante, utilizado pela apelante é de que houve a inexequibilidade do objeto social.
+Para que o objeto social se torne inexequível, a sociedade deve manifestar a incapacidade de oferecer benefícios econômicos aos sócios ou o objeto do contrato tenha findado, não se concretizando mais.
+Verifica-se, do presente feito, que a empresa FERREIRA, MARTINS E CIA LTDA. foi constituída com a finalidade de importação e exportação, compra e venda de automóveis novos e usados, peças, gasolina, lubrificantes em geral e oficina mecânica para a reparação de automóveis.
+A apelante argumenta que a sociedade funcionava como uma concessionária na cidade de Jataí, Goiás e que perdeu o objeto social, pois deixou de comercializar peças e veículos da marca Chevrolet há mais de 20 (vinte) anos, ressaltando, inclusive que, o estabelecimento comercial não funciona mais.
+Analisando os documentos acostados, observa-se que desde 1.998 a sociedade, em questão, deixou de comercializar veículos e peças da marca Chevrolet, em razão da rescisão contratual feita pela GENERAL MOTORS DO BRASIL LTDA., sendo atualmente, a empresa Galileia Veículos Ltda. a nova concessionária autorizada na cidade de Jataí.
+Constata-se, também, que, após a rescisão do contrato, os sócios requeridos não demonstraram que tenham envidado esforços na persecução do objeto social, quais sejam, compra e venda de automóveis novos e usados, peças de automóveis. Tanto que, na certidão da Junta Comercial do Estado de Goiás (JUCEG) consta, inclusive, que a FERREIRA, MARTINS E CIA LTDA. está inativa.
+Em verdade, todas as provas corroboram para demonstrar que a empresa requerida não cumpre mais com a sua finalidade há alguns anos, porquanto além de estar cancelada pela Junta Comercial, o estabelecimento se encontra fechado definitivamente, sendo este fato demonstrado pelo próprio Google.
+Por bastante, o apelante, recentemente, colaciona no evento 16, arquivo 02, um Termo de Recebimento, Quitação e Deságio, entre a ex-concessionária Chevrolet e a GENERAL MOTORS DO BRASIL, em que os próprios sócios da primeira afirmam que a sociedade em questão está inativa, senão vejamos a transcrição:
+(..)
+Deveriam os apelados ter demonstrado nos autos que, em que pese a crise financeira advinda da rescisão contratual da GENERAL MOTORS DO BRASIL LTDA., estavam diligenciando para o restabelecimento no mercado, vendendo carros, peças de marca distinta e/ou continuado com a oficina mecânica, por exemplo, sendo evidenciado entretanto, que a única fonte de renda vem dos imóveis alugados, que nada correspondem a sua finalidade constitutiva.
+Assim, além de não comprovarem que possuem interesse na manutenção da empresa em questão, restou claro que não há mais atividade econômica pela FERREIRA, MARTINS E CIA LTDA., não justificando mantê-la ativa. (e-STJ, fls. 1.815/1.814) (grifo nosso)
+- Da divergência jurisprudencial
+A falta do cotejo analítico, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+Ademais, a título de reforço argumentativo, ainda que fosse possível superar o óbice referente à falta de cotejo analítico, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (impossibilidade de dissolução parcial da sociedade objeto da presente ação, em razão da demonstração de inexequibilidade do objeto social), também, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11, do CPC/15, em relação:
+i) à ação principal, deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015; e
+ii) à reconvenção, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 5.000,00 (e-STJ, fl. 1.816) para R$ 5.500,00, observada em eventual concessão da justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE DISSOLUÇÃO, LIQUIDAÇÃO E EXTINÇÃO DE SOCIEDADE. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 371 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. SÚMULA 7/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação declaratória de dissolução, liquidação e extinção de sociedade.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 371 do CPC/15. Precedentes.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. Alterar o decidido no acórdão impugnado, no que se refere à impossibilidade de dissolução parcial da sociedade objeto da presente ação, em razão da demonstração de inexequibilidade do objeto social, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+9. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
