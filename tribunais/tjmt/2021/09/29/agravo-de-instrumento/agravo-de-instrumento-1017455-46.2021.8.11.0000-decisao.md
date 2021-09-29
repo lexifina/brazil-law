@@ -1,0 +1,18 @@
+Vistos, etc.
+Agravo de Instrumento interposto por BANCO DO BRASIL S.A. contra decisão proferida nos autos da Ação de Execução no 0012487-29.2015.8.11.0055. Cód. 197075, 3a Vara Cível da Comarca de Tangará movida contra JOSÉ DONIZETE ALVES que indeferiu o pedido de suspensão da Carteira Nacional de Habilitação, Passaporte e Cartões de Crédito/Débito do executado/agravado.
+Explica o agravante que após todas as formas de pesquisas de bens postas à disposição do juízo, restaram infrutíferas; requereu então a suspensão da CNH e do Passaporte assim como o bloqueio de cartões de crédito/débito.
+Assevera que a decisão não pode prosperar, pois, com o advento do NCPC, houve a inclusão do artigo 139, IV, que incumbe ao magistrado determinar todas as medidas necessárias para assegurar a efetividade do processo; que “as medidas de suspensão de CNH e Passaporte, bem como dos bloqueios dos cartões do Agravado, visam obter o pagamento do débito e incentivar a parte Executada ao pagamento da dívida, especialmente em caso onde possa existir a ocultação de bens.”.
+Aponta que: “se a parte Agravada possui dinheiro para comprar veículos e fazer viagens internacionais, as medidas coercitivas de suspensão da Carteira Nacional de Habilitação e do Passaporte se mostram eficazes, uma vez que não podendo dirigir ou viajar, é maior a chance da parte Agravada vir a ter dinheiro para satisfação o débito exequendo. Em relação ao bloqueio dos cartões de crédito e débito, tal providência serve de estímulo para que o Agravado saia de sua cômoda situação e se digne a comparecer ao Juízo para cumprir sua obrigação e especialmente, quanto ao cartão de crédito, que não contraia novas dívidas, sem antes quitar as já existentes. Isto porque, a partir do momento em que a liberdade do devedor, de gastar com outras coisas, via cartão de crédito, se mostre limitada, tal restrição tende a fazer com que não se olvide que tem dívida vencida a pagar. Na medida em que a parte Agravada consegue pagar as dívidas de fatura do cartão de crédito, viagens internacionais e comprar veículo próprio, custeando-lhe as despesas, pode estar desviando recursos para saldar a dívida pretérita, vencida e judicializada, como ocorre no caso concreto.”.
+Ao final requer, liminarmente, a concessão do efeito ativo, a fim de que seja deferida a suspensão da CNH e do Passaporte da parte Agravada, bem como sejam bloqueados os seus cartões de crédito e débito, até que haja a efetiva satisfação do débito objeto da demanda originário. No mérito a confirmação.
+É o relatório.
+DECIDO.
+Para concessão do efeito requerido, necessário se faz os pressupostos autorizadores da medida de urgência, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, que exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 300, do CPC.
+Em sede de cognição sumária não identifico o preenchimento dos requisitos, ainda que parcialmente.
+Isso porque as medidas requeridas não guardam relação com a satisfação do crédito, demostrando simples restrições que podem afetar os direitos fundamentais do agravado, sem qualquer razoabilidade e proporcionalidade.
+Ante todo exposto, INDEFIRO O PEDIDO.
+Comunique-se o juiz da causa.
+Intimem-se a parte agravada para, querendo, apresentar contraminuta. Proceda-se a intimação no último endereço conhecido pelo agravante, que deverá informar no recurso. Em caso negativo, ante a ausência de angularização processual, fica dispensada outras diligências (Cito precedente: (TJ-MT 10033142220218110000).
+Intime-se o agravante para fazer prova do pagamento do preparo no prazo legal. Em caso negativo, fica intimado para pagamento em dobro.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
