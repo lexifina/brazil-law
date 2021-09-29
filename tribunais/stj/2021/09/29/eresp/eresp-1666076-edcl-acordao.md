@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Cuida-se  de  embargos  de  declaração  no  agravo  interno  no  recurso  especial  opostos  por USINAS SIDERÚRGICAS DE MINAS GERAIS S/A. USIMINAS  ao  acórdão  assim  ementado:
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE OS VALORES PAGOS A TÍTULO DE PRÊMIO DECENAL. AGRAVO INTERNO NO RECURSO ESPECIAL DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1.É entendimento desta Corte Superior que os valores pagos a título de prêmio decenal possuem natureza remuneratória e, portanto, integram a base de cálculo para fins de Contribuição Previdenciária.
+Precedentes:AgRg no REsp. 1.449.335/SP, Rel. Min. HUMBERTO MARTINS, DJe 2.6.2014; AgInt no AREsp. 941.736/DF, Rel. Min. HERMAN BENJAMIN, DJe 17.11.2016.
+2. Agravo Interno da Empresa a que se nega provimento  (fls.  300).
+2. Sustenta a parte embargante omissão quanto à alegação de impossibilidade de se exigir contribuição previdenciária sobre o valor pago a título de prêmio por tempo de serviço em razão de sua natureza compensatória, bem como em relação ao fato de que o prêmio decenal não integra a base do salário contribuição. Postula, ao final, o prequestionamento de dispositivos constitucionais (arts. 195, I, e 201, § 11, da CF/1988).
+3.  Requer,  por  fim,  o  acolhimento  dos  embargos  de  declaração  com  efeitos  infringentes.
+4.  É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE OS VALORES PAGOS A TÍTULO DE PRÊMIO DECENAL.INEXISTÊNCIA DE  OMISSÃO.  EMBARGOS  DE  DECLARAÇÃO DE  USINAS SIDERÚRGICAS DE MINAS GERAIS S/A. USIMINASREJEITADOS.
+1. A teor do disposto no art. 1.022 do CPC/2015, os embargos de declaraçãodestinam-se a suprir omissão, afastar obscuridade ou eliminar contradiçãoou erro material existente no julgado, o que não se verifica no caso dosautos, porquanto o acórdão embargado dirimiu todas as questões postas demaneira clara, suficiente e fundamentada.
+3. Na hipótese, ausentes quaisquer das hipóteses que legitimam o acolhimento dos embargos de declaração, uma vez que o acórdão atacado seguiu a orientação desta Corte Superior no sentido de que os valores pagos a título de prêmio decenal possuem natureza remuneratória e, portanto, integram a base de cálculo para fins de contribuição previdenciária (AgRg no REsp. 1.449.335/SP, Rel. Min. HUMBERTO MARTINS, DJe 2.6.2014; e AgInt no AREsp. 941.736/DF, Rel. Min. HERMAN BENJAMIN, DJe 17.11.2016).
+3. Logo, a prestação jurisdicional se exauriu satisfatoriamente, não seconstatando a presença de quaisquer dos vícios elencados no art. 1.022 doCPC/2015, mas apenas a discordância dapartequanto ao conteúdo da decisãoembargada, o que não autoriza o pedido de declaração, que tem pressupostosespecíficos, os quais não podem ser ampliados, nem mesmo paraprequestionamento de dispositivos constitucionais comvistas àinterposição de Recurso Extraordinário.
+4.  Embargos  de  declaração  de  USINAS SIDERÚRGICAS DE MINAS GERAIS S/A. USIMINAS  rejeitados.
+VOTO
+1. Os embargos de declaração são modalidade recursal de integração e objetivam sanar obscuridade, contradição, omissão ou erromaterial, de maneira a permitir o exato conhecimento do teor do julgado. Eles não podem ser utilizados com a finalidade de sustentar eventual incorreção dodecisumhostilizado ou de propiciar novo exame da própria questão de fundo.
+2. As alegações deduzidas revelam o caráter nitidamente infringente dos aclaratórios, o que não se compatibiliza com a via dos Embargos. A parte embargante tenta rediscutir a decisão proferida como derradeira manifestação de inconformidade com o resultado do julgamento.
+3. Na hipótese, ausentes quaisquer das hipóteses que legitimam o acolhimento dos embargos de declaração, uma vez que o acórdão atacado seguiu a orientação desta Corte Superior no sentido de que os valores pagos a título de prêmio decenal possuem natureza remuneratória e, portanto, integram a base de cálculo para fins de contribuição previdenciária (AgRg no REsp. 1.449.335/SP, Rel. Min. HUMBERTO MARTINS, DJe 2.6.2014; e AgInt no AREsp. 941.736/DF, Rel. Min. HERMAN BENJAMIN, DJe 17.11.2016).
+4. Logo, a prestação jurisdicional se exauriu satisfatoriamente, não se constatando a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015, mas apenas a discordância dapartequanto ao conteúdo da decisão embargada, o que não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados, nem mesmo para prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+5. Sendo assim, rejeitam-se os embargos de declaração da USINAS SIDERÚRGICAS DE MINAS GERAIS S/A. USIMINAS.
+6. É como voto.
