@@ -1,0 +1,60 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por SEBASTIÃO FINOTTO DA SILVA, com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido, por unanimidade, pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 143/144e):
+MANDADO DE SEGURANÇA - AÇÃO INDIVIDUAL E AÇÃO COLETIVA - CONTINÊNCIA - NÃO OCORRÊNCIA - ART. 104 DO CDC - PRELIMINAR REJEITADA - CRISE FINANCEIRA CONSTADA MEDIANTE DADOS TÉCNICOS - ESCALONAMENTO DE VENCIMENTO DE SERVIDORES PÚBLICOS - PAGAMENTO DOS SALÁRIOS - MEDIDA EXCEPCIONAL - POSSIBILIDADE - DENEGAÇÃO DA ORDEM.
+1. As ações coletivas que buscam a tutela de direitos difusos ou homogêneos não induzem à litispendência em relação às ações individuais, a teor do dispõe o art. 104 do CDC.
+2. Preliminar rejeitada.
+3. Mérito.
+4. É indubitável e inquestionável que o subsídio tem o condão que atender as necessidades basilares e vitais de todo servidor, como por exemplo, saúde, alimentação, medicamentos, vestuário, etc.., atendendo o princípio da dignidade da pessoa humana e o mínimo existencial.
+5. No entanto, é fato público e notório a crise financeira e aprofundamento da situação econômica de cada ente federativo, comprovada por meio de dados técnicos e objetivos.
+6. Também é regra basilar dentro do direito público que a Administração Pública deve atender o interesse primário, ou seja, deve o gestor público primar pelo atendimento das necessidades coletivas. Assim, dentro das normas de direito público e o atendimento às demandas coletivas, deve o gestor ser o mais prudente possível a gerenciar o dinheiro público, posto que este é finito, ante à imensa necessidade coletiva que, por sua vez, é infinita, ou seja, permanente e não transitória, como por exemplo, saúde, segurança, transporte público, etc..
+7. Também não por outro motivo que a legislação pátria prevê sanções ao gestor público que gere mal o dinheiro público, como por exemplo, a Lei
+de Responsabilidade Fiscal.
+8. Nesse norte a adoção de escalonamento de salário, como medida excepecional, é possível posto que visa atender a todos os servidores do Poder Executivo e não apenas a uma categoria de servidores, como pretende o sindicato impetrante, observando assim o princípio constitucional da isonomia.
+9. Ordem denegada.
+Nas razões recursais, alega-se, em síntese:
+Há direito líquido e certo à percepção do salário na data em que está fixado na legislação estadual, ou seja, até último dia de cada mês, o que se traduz em direito líquido e certo, que restou violado ante o não pagamento do salário até último dia de cada mês.
+Aponta farta jurisprudência acerca do tema, extrai-se não só o caráter alimentar indiscutível dos salários, mas também a prioridade que lhe deve ser conferida pelo Estado no trato de suas dívidas.
+Destaca que o atraso no pagamento dos salários da recorrente, caracteriza confisco do patrimônio dos mesmos, que não pode ser privados de suas remunerações pois trata de verba alimentar, desta forma diante da ilegalidade cometida pelo agravado a mudança brusca e injustificada do calendário de pagamento, é ato grave e causa danos de difícil reparação, uma vez que é direito da recorrente em ter o pagamento de sua remuneração data prevista em lei, ou seja a data do aniversário.
+Com contrarrazões (fls. 202/216e), subiram os autos a esta Corte.
+Ministério Público Federal manifestou-se às fls. 224/234e, opinando pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O tribunal de origem decidiu a controvérsia, sob os seguintes fundamentos: (i) ante a calamidade financeira, comprovada através de dados técnicos e objetivos, o Estado deve pautar-se dentro dos limites da Lei de Responsabilidade Fiscal em relação aos gastos públicos, primando pelo interessedasnecessidadescoletivas e, (ii) a adoção de escalonamento de salário, como medida excepecional, visa atender a todos os servidores do Poder Executivo e não apenas a uma categoria de servidores, observando-seassimo princípio constitucional da isonomia, conforme se extrai dos seguintes excertos do acórdão recorrido:
+ ..  é fato público e notório a crise financeira e aprofundamento da situação econômica de cada ente federativo.
+E o Estado de Mato Groso não é diferente à esta realidade de crise financeira.
+Esta crise financeira não é apenas retórica argumentativa, mas sim um dado objetivo e técnico.
+A Nota Técnica nº 060/2019-UNAJ/SATE/SEFAZ a anexada no Id. 8491328 traz dados técnicos acerca da situação orçamentária do Estado de Mato Grosso, como por exemplo: Repasses do Fundo de Participação dos Municípios (FPM), duodécimo dos poderes, repassasse do FUNDEB, pagamento da dívida pública, não recebimento do FEX, calamidade financeira, limites da Lei de Responsabilidade Fiscal em relação aos gastos, questão previdenciária, além de receitas e despesas do Estado de Mato Grosso, entre outros dados.
+Considerando que os dados ali apresentados estão corretos, verifica-se que o Estado não possui uma situação financeira confortável, ou contrário, enfrenta dificuldades em vários campos, tais como déficit previdenciário a
+cada ano e dificuldade na arrecadação de receitas.
+Também é regra basilar dentro do direito público que a Administração Pública deve atender o interesse primário, ou seja, deve o gestor público primar pelo atendimento das necessidades coletivas.
+Nesse contexto, também não se nega que o pagamento dos vencimentos dos servidores públicos também é de extrema necessidade, haja vista que os servidores públicos que, em última análise, fazem "movimentar a máquina pública".
+Assim, dentro das normas de direito público e o atendimento às demandas coletivas, deve o gestor ser o mais prudente possível a gerenciar o dinheiro público, posto que este é finito, ante à imensa necessidade coletiva que, por sua vez, é infinita, ou seja, permanente e não transitória, como por exemplo, saúde, segurança, transporte público, etc..
+Também, não por outro motivo, que a legislação pátria prevê sanções ao gestor público que gere mal o dinheiro público.
+Cito, à título de ilustração e exemplificação, a Lei de Responsabilidade Fiscal.
+Dentro desse quadro acima exposto, qual seja, de prudência do gestor público no gasto do dinheiro público, atendimento às necessidades e demandas coletivas, bem como atendimento e observância ao princípio da dignidade da pessoa humana e mínimo existencial, aliado à atual situação de forte crise econômica e financeira que assola todo o Brasil e não o Estado de Mato Grosso, mas também os Estados do Rio de Janeiro, Rio Grande do Sul, Minas Gerais, Roraima e todos os demais entes federativos, possível é a adoção de medidas excepcionais e energéticas na tentativa de equilibrar as contas públicas e o pleno funcionamento da Administração Pública.
+Dentre essas medidas enérgicas, podemos citar a intervenção federal, medida esta adotada recentemente nos Estados do Rio de Janeiro e Roraima.
+Nesse contexto de adoção de medidas excepcionais, tenho como possível, a possibilidade de escalonamento de salário dos servidores públicos.
+Trago, à título de fundamentação, a recente decisão proferida no dia 24 de julho de 2018, pelo Supremo Tribunal Federal, na Medida Cautelar na Suspensão de Tutela Provisória nº 78/MG, de Relatoria do Min. Dias Toffoli, que assim restou decidido, in verbis:
+(..)
+Nesse norte, a adoção de escalonamento de salário, como medida excepecional, é possível posto que visa atender a todos os servidores do Poder Executivo e não apenas a uma categoria de servidores, como pretende o
+Impetrante, observando assim o princípio constitucional da isonomia.
+Por fim, registro que não se trata de penhora de salário ou irredutibilidade de subsídios, haja vista que os subsídios dos servidores serão pagos na sua totalidade, mas de forma parcelada, ou seja, escalonada.
+Penhora e redução de subsídios significa constrição e não devolução de valores, o que é diverso de escalonamento.
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014);
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1.407.870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Ordinário.
+Publique-se e intimem-se.
