@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por CENTRAIS ELÉTRICAS BRASILEIRAS S/A - ELETROBRÁS, com fundamento no art. 105, III, a e c, da CF, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. APRESENTAÇÃO DE CÁLCULO DO MONTANTE. METODOLOGIA. CONTADORIA. TERMO DE JUROS REMUNERATÓRIOS.
+1. Das informações prestadas pela Contadoria Judicial, conclui-se que a metodologia de cálculo utilizada pela Eletrobrás não é adequada, estando em confronto com o que foi decidido pela Primeira Seção do STJ no julgamento do REsp nº 790.288/PR.
+2. No caso dos autos, correta a decisão de origem que entendeu que estão corretos os cálculos da contadoria, mas determinou o prosseguimento de feito pelo valor inicialmente executado, em obediência aos princípios da adstrição e da demanda.
+Embargos de declaração opostos e rejeitados (fl. 147).
+O recorrente alega violação dos arts. 1.022, I, II, parágrafo único, I, do CPC/2015, ao argumento de omissão quanto ao pedido de não cumulação de juros em liquidação de sentença, bem como que "a questão do termo final dos juros remuneratórios reflexos foi tema conhecido pelo referido colegiado, pelo menos há de se dizer que o respectivo decisum foi eivado por contradição e/ou obscuridade, pois se invocou o Paradigma, mas não o seguiu à risca" (fl. 391).
+Alega negativa de vigência aos arts. 502, 927, III, e 1.036 do CPC, "uma vez que o acórdão recorrido permite que os juros remuneratórios cumulem com os juros de mora" (fl. 391), em contrariedade a precedentes judiciais. Aponta dissídio jurisprudencial.
+Contrarrazões a fls. 416-419.
+Inadmitido o apelo nobre na origem, deu-se provimento ao AREsp tão somente para determinar sua conversão em REsp, sem prejuízo de posterior análise de seus pressupostos de admissibilidade.
+É o relatório. Decido.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido, a fls. 110-113, manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Com relação ao termo ad quem dos juros remuneratórios, a Primeira Seção desta Corte, na assentada de 12/6/2019, concluiu, por maioria, no julgamento do EDv nos EAREsp 790.288/PR, que os valores devidos pela ELETROBRAS em razão do empréstimo compulsório sobre consumo de energia elétrica - mas que não foram convertidos em ações - devem ser acrescidos de juros remuneratórios de 6% ao ano (conforme o artigo 2º do Decreto-Lei 1.512/1976) até a data do efetivo pagamento, na forma dos arts. 2º e 3º do Decreto-Lei 1.512/1976, sendo essa a interpretação que deve ser dada ao voto condutor dos recursos especiais representativos da controvérsia, REsps nºs 1.003.955/RS e 1.028.592/RS, superado o entendimento no EREsp 826.809.
+In verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. CORREÇÃO MONETÁRIA. SALDO NÃO PAGO NEM CONVERTIDO EM AÇÕES. JUROS REMUNERATÓRIOS. INCIDÊNCIA.
+1. A Primeira Seção, no julgamento do RESP 1.003.955/RS e do RESP 1.028.592/RS, repetitivos, firmou entendimento segundo o qual são devidos juros remuneratórios sobre a diferença de correção monetária não paga nem convertida em ações, no percentual de 6% ao ano, nos termos do art. 2º do Decreto-Lei n. 1.512/1976.
+2. Hipótese em que o acórdão embargado, que deu provimento ao recurso fazendário, diverge do entendimento da Primeira Seção, ao estabelecer que os juros remuneratórios deveriam ser calculados como aqueles aplicados aos débitos judiciais.
+3. Embargos de divergência providos.
+(EDv nos EAREsp 790288/PR, Min. GURGEL DE FARIA, PRIMEIRA SEÇÃO, Julgado em 12/6/2019, DJe 2/9/2019).
+Dessa forma, o acórdão recorrido está em conformidade com o atual posicionamento do STJ, no sentido de que é devida a incidência de juros remuneratórios do empréstimo compulsório sobre o saldo não convertido em ações pelas Assembleias Gerais até o seu efetivo pagamento.
+Por fim, na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 3/3/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/3/2017.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO. ELETROBRAS. JUROS REMUNERATÓRIOS. TERMO FINAL. INCIDÊNCIA ATÉ O PAGAMENTO EFETIVO DAS DIFERENÇAS NÃO CONVERTIDAS EM AÇÕES. ENTENDIMENTO DO EDV NOS EARESP 790.288/PR, JULGADO EM 12/6/2019. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
