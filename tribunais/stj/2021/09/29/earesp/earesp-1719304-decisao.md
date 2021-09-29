@@ -1,0 +1,24 @@
+DECISÃO
+CAIO MAGNUS SALLES CURIagrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do ParanánaApelação Criminal n. 0009580-38.2016.8.16.0013.
+O agravante foi condenado, pelos crimes previstos nosarts. 303 e 306 da Lei n. 9.503/1997, àsanção de 1ano, 3 meses e 10 dias de detenção mais 10dias-multa, em regime inicial aberto,e 5 meses e 3 dias de suspensão da habilitação. A reprimenda privativa de liberdade foi substituída por duas restritivas de direito: prestação de serviços à comunidade e pagamento de pecuniária.
+Nas razões do recurso especial, o agravante alegouviolação dos arts. 158, 167 e381, III, todosdo Código de Processo Penal.Em síntese, requereua nulidade do acórdão por ausência de fundamentação. Pleiteou também a absolvição dos crimes de embriaguezao volante, por falta de materialidade, e do crime de lesão corporal culposa, por ausência do exame de corpo de delito.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 1.159-1.165, pelo nãoconhecimento do AREsp e, eventualmente, pelo seu nãoprovimento.
+Decido.
+I. Não admissibilidade do recurso especial
+A parte alega ausência de fundamentação no acórdão recorrido sobre"pontos relevantes apresentados pela defesa que não foram enfrentados pelo Tribunal de origem" (fl. 973). Entre as questõeselencadas está a falta de materialidade do crime do art. 306 do CTB(análise dos depoimentosjudiciaisdepolicial Luis Sidenes Schimidt e de José Luiz H. Alves da Rocha).
+Ressalta que "o acórdão não enfrentou a tese defensiva e não dedica nenhuma linha desta testemunha e demais provas dos autos" (fl. 976).No mesmo sentido, aponta o não exame das alegações de inexistênciado exame de corpo de delito e a necessidade de redução da prestação pecuniária.
+Oportuno registrar que os pontos omissosdo acórdão recorrido ensejam violação do art. 619 do Código de Processo Penal. Por essa razão, a pretensão é deficiente, posto não haver sido indicadae nem demonstrada a violação dodispositivolegalpertinenteà matéria em debate. Dessa forma, incide, no ponto,o disposto na Súmula n. 284 do STF.
+Sobre a ausência do exame do corpo de delito, o Tribunal a quoassim se manifestou (fl. 903):
+ ..
+Ressalta-se, que a ausência do exame do corpo de delito do mesmo modo não possui o condão de elidir a condenação proferida em desfavor do apelante, sendo, pois, induvidoso que há tempo a jurisprudência reconhece a sua prescindibilidade. Nessa senda, reitere-se que, consoante já elucidado acima, não só por meio dos prontuários médicos de movs. 43.25- 43.30, mas também através das fartas, coesas e harmônicas provas testemunhais, se comprovou, sem sombra de dúvidas, que as vítimas efetivamente sofreram as lesões descritas na denúncia.
+A Corte de origem consignou haver outros elementos suficientes à comprovação das lesões sofridas pelas vítimas decorrentes da ação culposa atribuída ao agravante: prontuários médicos e prova testemunhal. A modificação desta compreensão demandaria revolvimento fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+Ademais, em situação fática semelhante à dos autos, cito o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL.CRIMES DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE E LESÕES CORPORAIS CULPOSAS NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ARTS. 303 E 306 DA LEI N.9.503/1997. MATERIALIDADE DELITIVA. COMPROVAÇÃO. APFD. BO. GUIA DE INTERNAÇÃO HOSPITALAR. LAUDOS ELABORADOS POR MÉDICOS.PRESCINDIBILIDADE DO EXAME DE CORPO DE DELITO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O exame de corpo de delito, embora seja importante, não se mostra imprescindível, por si só, para a comprovação da materialidade dos crimes que deixam vestígios, notadamente quando existentes nos autos outros meios de provas capazes de suprir a sua falta, tais como o auto de prisão em flagrante, boletim de ocorrência, comprovante de internação hospitalar e laudos elaborados pelos médicos que prestaram atendimento às vítimas. Precedentes.
+2. Para se desconstituir as conclusões a que chegou o Tribunal de origem e afirmar que não existem provas suficientes para embasar o decreto condenatório, seria imprescindível a revisão do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento(AgRg no AREsp n. 956.479/MG, Rel. Ministro Ribeiro Dantas, 5ª T.,DJe 15/3/2017)
+Nesse contexto, afasta-se também a alegação de dissídio jurisprudencial, haja vista a incidência do entendimento da Súmula n. 83 do STJ.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
