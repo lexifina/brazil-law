@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de RODRIGO JUSTINO DA SILVA contra decisão de Desembargadordo Tribunal de Justiça do Estado de São Paulo proferido nos autos do Habeas Corpus Criminalnº 2217571-34.2021.8.26.0000.
+Consta dos autos que o paciente foi condenado em primeira instânciaà pena de 5 anos dereclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas, conforme sentença de fls. 31/46.
+Irresignada, a defesa impetrou writ originário, que foi indeferido liminarmente,conforme decisão monocrática de fls. 15/19.
+Na presente impetração, sustenta a defesa a ocorrência de constrangimento ilegal em razão do ato do Tribunal de Justiça uma vez que osfundamentos delineados na r. sentença sãopassível de impugnação pela via eleita.
+Aduz que "o Desembargador coator indeferiu liminarmente o writ, sob o argumento de inadequação da via eleita, o que, conforme demonstrado, não merece prosperar, restando configurado, novamente, o constrangimento ilegal à liberdade do paciente, sendo imprescindível a impetração do presente habeas corpus".
+Argumenta que "ojulgador coator afastou a redutora prevista no artigo 33, § 4º, da Lei de Drogas, com fundamento na grande quantidade e nocividade da droga apreendida, o que, segundo o decisum, denotaria que o paciente se dedica a atividades criminosas com habitualidade, não podendo ser considerado como "pequeno traficante". Ocorre que o artigo 33, § 4º, da Lei de Tóxicos prevê requisitos objetivos e cumulativos para a aplicação da redutora, quais sejam a primariedade, bons antecedentes, não dedicação a atividades criminosas ou integração à organização criminosa. Tais requisitos foram devidamente demonstrados nos autos, o que sequer foi questionado pelo magistrado na r. sentença" (fl. 7).
+Defende, ainda, que "o regime inicial de cumprimento da pena imposto pela r. sentença constitui afronta ao ordenamento jurídico, sendo patente a ilegalidade perpetrada pelo juiz coator" (fl. 11)
+Requer, assim, que seja "o presente habeas corpus recebido, deferindo-se a liminar para a aplicação da redutora prevista no § 4º, do artigo 33, da Lei de Tóxicos ou, subsidiariamente, para a fixação do regime de cumprimento da pena, nos termos delineados no artigo 33, § 2º, alínea "b", do Código Penal. Ao final, no mérito, aguarda seja concedida o writ em caráter definitivo" (fl. 14).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.Além disso, verifica-se dos autos que o writ foi impetrado contra decisão monocrática do Desembargador-Relator.
+Assim, as teses deduzidas na presente impetração não foram levadas à análise do órgão colegiado do Tribunal de origem, considerando que não houve a interposiçãodo devido agravo regimental. Assim, não compete a esta Corte Superior, a análise do mérito da impetração, sob pena de incorrer em indevida supressão de instância.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DA INSTÂNCIA. IMPOSSIBILIDADE DE CONHECIMENTO DO INCONFORMISMO. AGRAVO REGIMENTAL IMPROVIDO.
+1. É inviável o conhecimento de habeas corpus ou recurso em habeas corpus quando o impetrante/recorrente se insurge contra decisão singular de Desembargador do Tribunal de Justiça, contra a qual seria cabível agravo regimental, que não foi interposto. Precedente do STF e do STJ.
+2. Agravo regimental improvido (AgRg no RHC 102.858/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 13/03/2019)
+Dessa forma, inexistindo pronunciamento do Tribunal a quo sobre o mérito do pedido aqui deduzido, não há como conhecer da impetração.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a presente impetração.
+Publique-se.
