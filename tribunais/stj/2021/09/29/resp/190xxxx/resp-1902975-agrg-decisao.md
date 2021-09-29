@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO contra decisão monocrática da Presidência que não conheceu do recurso especial (e-STJ fls. 1.290/1.291).
+A decisão ora agravada assentou a impossibilidade de conhecimento do recurso pela intempestividade.
+No presente agravo regimental, sustenta o Parquet que,"embora ainda não tenha sido o Ministério Público do Estado do Rio de Janeiro pessoalmente intimado da decisão ora recorrida, dá-se por intimado nessa data (08.12.2020), razão pela qual é o presente recurso tempestivo" (e-STJ fl. 1.296).
+Afirma que "o recurso foi considerado intempestivo por conta de erro unicamente atribuível ao Tribunal de Justiça do Estado do Rio de Janeiro, o qual, ao deixar de cumprir o que determina a lei e certificar nos autos a data em que foi realizada a consulta à intimação eletrônica, levou a equívoco essa E. Presidência"(e-STJ fl. 1.299).
+Requer, ao final, a reforma de decisão.
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que a jurisprudência desta Corte Superior entende que,"nos termos do art. 5º, §§1º e 3º, da Lei 11.419/2006, a intimação eletrônica considera-se realizada no dia em que o intimado efetivar a consulta eletrônica ao teor da intimação, a qual pode ser realizada em até 10 dias, contados da data do seu envio, sob pena de considerar-se a intimação automaticamente realizada na data do término desse prazo" (AgRg no REsp n. 1800973/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/4/2019, DJe 23/4/2019).
+Na presente hipótese, como bem salientado pelo recorrente àe-STJ fl. 1.298, "cientificado o Ministério Público do v. Acórdão no dia 21/07/2020 (terça-feira, o prazo para interposição do recurso iniciou-se em 22/07/2020 (quarta-feira) e tem como data final o dia 05/08/2020 (quarta-feira),uma vez que o recurso foi protocolizado no dia 03.08.2020, ou seja, treze dias contados da data do recebimento da intimação eletrônica (21.07.2020), não há que se falar em sua intempestividade".
+Desse modo, preenchidos os requisitos de admissibilidade, passo àanálise do recurso especial.
+In casu, colhe-se da sentença condenatória (e-STJ fls. 150/151):
+O roubo foi praticado em concurso de agentes. Na ação criminosa houve utilização de arma de fogo. A arma de fogo foi apreendida na posse do acusado, estando municiada e apta para realizar disparos. A hipótese não é de arma de fogo não apreendida. A existência da arma de fogo restou provada.
+A jurisprudência dos Tribunais Superiores é pacífica, no sentido de não ser necessária a apreensão e perícia da arma de fogo, para que seja reconhecida a causa de aumento das penas, que pode ser provada por outros elementos de prova.
+A arma utilizada foi apreendida e estava municiada, com plena capacidade de ser utilizada pelo acusado e seu comparsa. A posse da arma de fogo, gerou risco concreto a integridade física da vítima. O órgão de acusação fez prova da utilização da arma de fogo municiada na ação criminosa.
+O acórdão recorrido, por sua vez, estabeleceu(e-STJ fl. 230):
+Observe-se que, uma vez não tendo sido submetida à perícia a arma de fogo apreendida, de modo a se estabelecer com a devida certeza a respectiva natureza como artefato vulnerante, não se mostrou suficiente à manutenção da correspondente circunstanciadora do emprego daquela, a mera, genérica e lacônica assertiva da vítima de que teve contra si empunhado algo que por ela foi identificado como sendo um objeto que ostentava tais características. Destarte, descarta-se, no caso concreto, a incidência de tal exacerbadora.
+Nos moldes da orientação firmada pela Terceira Seção desta Corte, para a incidência da causa de aumento em desfile, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova.
+Por oportuno, transcrevo a ementa do referido julgado:
+CRIMINAL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ROUBO. EMPREGO DE ARMA. DESNECESSIDADE DE APREENSÃO E REALIZAÇÃO DE PERÍCIA. UTILIZAÇÃO DE OUTROS MEIOS DE PROVA. INCIDÊNCIA DA MAJORANTE. EMBARGOS CONHECIDOS E REJEITADOS.
+I - Para a caracterização da majorante prevista no art. 157, § 2º, inciso I, do Código Penal, prescinde-se da apreensão e realização de perícia em arma utilizada na prática do crime de roubo, se por outros meios de prova restar evidenciado o seu emprego. Precedentes do STF.
+II - Os depoimentos do condutor, da vítima, das testemunhas, bem como qualquer meio de captação de imagem, por exemplo, são suficientes para comprovar a utilização de arma na prática delituosa de roubo, sendo desnecessária a apreensão e a realização de perícia para a prova do seu potencial de lesividade e incidência da majorante.
+III - A exigência de apreensão e perícia da arma usada na prática do roubo para qualificá-lo constitui exigência que não deflui da lei resultando então em exigência ilegal posto ser a arma por si só -- desde que demonstrado por qualquer modo a utilização dela - instrumento capaz de qualificar o crime de roubo.
+IV - Cabe ao imputado demonstrar que a arma é desprovida de potencial lesivo, como na hipótese de utilização de arma de brinquedo, arma defeituosa ou arma incapaz de produzir lesão.
+V - Embargos conhecidos e rejeitados, por maioria. (EREsp n. 961.863/RS, Rel. Ministro CELSO LIMONGI (DESEMBARGADOR CONVOCADO DO TJ/SP), Rel. p/ Acórdão Ministro GILSON DIPP, TERCEIRA SEÇÃO, julgado em 13/12/2010, DJe 6/4/2011.)
+Esclareço, outrossim, que a afetação do tema ao rito dos recursos especiais repetitivos, na forma do art. 1.036 e seguintes do Código de Processo Civil e da Resolução n. 8/2008 desta Casa, foi tornada sem efeito em 25 de maio de 2018, tendo em vista a entrada em vigor da Lei n. 13.654/2018.
+Sendo assim, comprovada a utilização da arma de fogo na empreitada criminosa, por meio dos depoimentos colhidos durante a instrução, dispensável se torna a sua apreensão ou a realização de sua perícia para a aplicação da suscitada causa de aumento de pena.
+Passo, assim, à readequação da dosimetria da pena, mantendo os parâmetros adotados pelo colegiado local.
+Na primeira fase, mantenho a pena-base no mínimo legal - 4 anos de reclusão, mais 10 dias-multa.
+Na segunda etapa, a sanção permanece inalterada.
+Na terceira fase, uma vez presentes as agravantes concurso de agentes e arma de fogo, mantenho a fração de 1/3 (um terço), totalizando a reprimenda definitivamente em5 anos e 4 meses de reclusão e pagamento de 13 dias-multa.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 1.290/1.291e dou provimento ao recurso especial a fim de reconhecer a majorante do emprego de arma de fogo, contudo, sem reflexos na reprimenda do recorrido.
+Publique-se. Intimem-se.
