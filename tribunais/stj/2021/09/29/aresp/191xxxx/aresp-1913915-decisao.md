@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"Apelação Cível. Responsabilidade civil do transportador. Acidente ferroviário. Violação à cláusula de incolumidade contida no contrato de transporte. Dano moral. Critérios de arbitramento. Termo inicial dos juros. Ônus da sucumbência. Reforma parcial da sentença.
+1. A responsabilidade civil da ré é de natureza objetiva, independendo, portanto, da comprovação de culpa, seja por força do § 6 º do artigo 37 da CF por ser a ré concessionária de serviço público de transporte; seja em razão do art. 14 do CDC, por se tratar de relação de consumo; ou, ainda, em função dos arts. 734 e 735 do Código Civil, por se tratar de contrato de transporte.
+2. Da análise dos autos, restou demostrada a condição de passageiro da vítima e o acidente narrado na inicial. Assim, verifica-se que houve violação à cláusula de incolumidade contida no contrato de transporte, bem como ao direito básico de proteção da vida, saúde e segurança do consumidor (art. 6º, do CDC), restando configurado o defeito no serviço (art. 14, §1º, da Lei n. 8078/90).
+3. Não há dúvida de que a parte autora experimentou dor, sofrimento e angústia em virtude do acidente. Tais circunstâncias acarretam evidente dano de natureza moral, devendo ser indenizado.
+4. Nesta parte, considerando os critérios sugeridos pela doutrina e jurisprudência, entendo que o valor de R$5.000,00 fixado pelo juízo monocrático revela-se suficiente para compensar a lesão imaterial suportada. Ademais, é preciso não descurar da imperiosa necessidade de que o instituto da indenização de dano moral sirva de desestímulo à desídia dos fornecedores na prestação de seus serviços no mercado de consumo e à reiteração de condutas lesivas ao direito do consumidor  desiderato cujo olvido é tão nocivo ao Direito quanto o enriquecimento sem causa, de que tão amiúde se ouve alegar.
+5. Como se trata de relação contratual, o termo inicial de incidência dos juros moratórios é a data da citação, a teor do art. 405 do CC.
+6. Por fim, no que tange aos honorários advocatícios, tendo em vista a sucumbência ínfima da ré, cabível a condenação da autora ao pagamento dos ônus de sucumbência, à luz da normatividade do art. 86, parágrafo único do CPC.
+7. Parcial provimento ao recurso da ré e provimento ao recurso da autora" (fls. 430/431e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 437/437e), os quais restaram rejeitados, nos seguintes termos:
+"Embargos declaratorios. Renovação do julgamento. Impossibilidade. Condições de embargabilidade. Ausência.
+1. Os embargos declaratórios se prestam à provocação do magistrado à emissão de pronunciamento integrativo-retificador, na hipótese de ocorrência de omissão, obscuridade ou contradição, ou mesmo erro material grave, a teor do disposto no art. 1.022 do CPC.
+Daí que as hipóteses de embargabilidade não abranjam o mero inconformismo com suposto error in iudicando, sob pena de transmutarem-se os declaratórios em embargos infringentes, ao arrepio da Lei Processual.
+2. O acórdão embargado foi redigido de modo claro e não há qualquer contradição entre o dispositivo e a fundamentação, restando evidente a finalidade da recorrente de rediscutir a matéria, o que não se pode admitir em sede de embargos.
+3. Embora a finalidade de prequestionar afaste a caracterização do recurso meramente protelatório, nem por isso se segue que, por si só, justifique a oposição dessa espécie recursal, cujas hipóteses o art.
+1.022 do CPC exaure categoricamente. Assim como eventual efeito modificativo, também a invocação do explícito prequestionamento há de tomar por premissa a ocorrência de algum dos vícios ensejadores da embargabilidade, como elencados na Lei Processual.
+4. Desprovimento do recurso" (fl. 442e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação ao artigo 14, § 3º, II, do CDC, sustentando que "todos os elementos probatórios destes autos são provas secundárias, inexistindo prova direta ou primária no sentido de comprovar que a Recorrida foi vítima do incidente ferroviário. Sendo assim, no final do processo de silogismo é de se concluir pela não inexistência do nexo causal necessário e imprescindível a responsabilizar a Recorrente" (fl. 456e).
+Por fim, requer o provimento do Recurso Especial.
+Não foram apresentadas contrarrazões.
+Inadmitido o Recurso Especial (fls. 469/475e), foi interposto o presente Agravo (fls. 493/500e).
+Não foi apresentada contraminuta.
+A irresignação não merece prosperar.
+Quanto à responsabilização do recorrente, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que:
+"Trata-se de responsabilidade objetiva que independe da comprovação de culpa, seja por força do § 6 º do artigo 37 da CF por ser a ré concessionária de serviço público de transporte; seja em razão do art. 14 do CDC, por se tratar de relação de consumo; ou, ainda, em função dos arts. 734 e 735 do Cód. Civil, por se tratar de contrato de transporte.
+Deste modo, à parte autora competia apenas provar o dano e o nexo de causalidade, os quais foram demonstrados claramente por meio das provas carreadas aos autos.
+Há no contrato de transporte a cláusula de incolumidade, na qual o transportador se obriga a conduzir o passageiro são e salvo ao seu destino.
+(..)
+Assim, verifica-se que houve violação à cláusula de incolumidade contida no contrato de transporte, bem como ao direito básico de proteção da vida, saúde e segurança do consumidor (art. 6º, do CDC), restando configurado o defeito no serviço (art. 14, §1º, da Lei n. 8078/90).
+Saliente-se que, em se tratando de hipótese de responsabilidade objetiva, era da ré o ônus da prova da excludente de sua responsabilidade, o que não logrou fazer.
+Dessa forma, diante da prova do dano e do nexo de causalidade revela-se presente a responsabilidade da transportadora que, por consequência, tem a obrigação de indenizar os danos causados à autora em razão do evento.
+Não há dúvida de que o demandante experimentou dor, sofrimento e angústia em virtude do acidente descrito na inicial. Tais circunstâncias acarretam evidente dano de natureza moral, devendo ser indenizado" (fls. 432/433e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. TRANSPORTE FERROVIÁRIO. ACIDENTE. INDENIZAÇÃO POR DANOS MORAIS. TESE DE CULPA EXCLUSIVA DA VÍTIMA. REVISÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal a quo assentou que "a concessionária de transporte público se negligenciou do ônus de comprovar que a parte autora obrou concorrentemente com o resultado danoso e, tampouco, sua culpa exclusiva, o que seria de fácil legitimação através do depoimento de testemunhas que tenham presenciado o fato ou de eventual imagem de seu sistema de segurança no momento do evento".
+2. A pretensão de revisão do entendimento proferido na origem acerca da não ocorrência de culpa exclusiva da vítima implica, no caso, reexame da matéria fático-probatória dos autos, o que é vedado em Recurso Especial, conforme Súmula 7/STJ.
+3. Agravo Interno não provido" (STJ, AgInt no REsp 1.787.977/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/10/2019).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
