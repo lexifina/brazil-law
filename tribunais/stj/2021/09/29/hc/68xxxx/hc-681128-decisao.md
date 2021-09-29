@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de José Luiz de Limacontra o ato coator proferido pela QuintaCâmara de Direito Criminal do Tribunal de Justiça de São Paulonosautos do Agravo em Execução n. 0012544-35.2021.8.26.0050.
+Aponta-se constrangimento ilegal decorrente da fixação do dia em que o paciente foi submetidoao exame criminológico como data-base para a progressão ao regime aberto,quando o parecer é favorável.
+Defende-se que não faz sentido fixar como termo inicial o exame criminológico quando o resultado é favorável, uma vez que só atesta condição preexistente, ou seja, é declaratório como a própria decisão que trata da progressão. Se desfavorável, seria discutível a interrupção do período aquisitivo para a segunda progressão, pois comprova que, naquele dia, os requisitos do art. 112 da LEP ainda não foram preenchidos. No laudo favorável, a "interrupção" seria confusão entre o requisito e a prova do requisito (fl. 6).
+Requer-se a concessão da ordempara determinar que seja considerado termo a quo para a contagem da progressão ao regime aberto a data em que cumpridos os requisitos para a progressão ao regime semiaberto, afastada a interrupção pela mera chegada de laudo criminológico que comprova o mérito do sentenciado (fl. 8).
+Informações prestadas às fls. 179/192.
+O Ministério Público Federal opina pelo não conhecimento ou peladenegação da ordem, nos termos da seguinte ementa (fl. 194):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL.PROGRESSÃO DE REGIME. DATA-BASE. DECISÃO DECLARATÓRIA. DIA DO IMPLEMENTO DE AMBOS OS REQUISITOS: OBJETIVO E SUBJETIVO.AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+Parecer pelo não conhecimento ou denegação do writ.
+É o relatório.
+Não assiste razão à impetrante.
+Com efeito, as instâncias ordinárias entenderam que a decisão de concessão de progressão de regime possui natureza declaratória, o que determina que o marco inicial para as futuras progressões ocorra na data em que o condenado preencheu os requisitos objetivo e subjetivo, sendoque, no caso, a data-base coincide com a realização do exame criminológico, último marco interruptivo implementado.
+Tal conclusão está em consonância com o entendimento desta Corte Superior, segundo o qual a data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n. 7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício. Se há a necessidade de exame criminológico para aferir a presença do requisito subjetivo para a progressão de regime do Agravante, este requisito somente pode ser considerado preenchido no momento em que houver parecer técnico favorável (AgRg no HC n. 654.153/SP, Ministra Laurita Vaz, Sexta Turma, DJe 25/5/2021 - grifo nosso).
+Portanto, se há a necessidade de exame criminológico para aferir a presençado requisito subjetivo para a progressão de regime do Agravante,este requisito somente pode ser considerado preenchido no momento emque houver parecer técnico favorável(AgRg no HC n. 654.153/SP, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/5/2021, DJe 25/5/2021).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.PROGRESSÃO DE REGIME. DATA-BASE. REQUISITOS OBJETIVO E SUBJETIVO.PREENCHIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se verifica a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que o entendimento a que chegou o Tribunal de origem, no que se refere ao marco inicial para concessão de progressão de regime, está em consonância com o entendimento desta Corte Superior, segundo o qual "a data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112, da Lei n. 7.210/84, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo" (HC n. 358.566/RS, relator o Ministro Felix Fischer, Quinta Turma, DJe de 21/10/2016).
+2. "Em razão da determinação de realização de exame criminológico, reputa-se preenchido o requisito subjetivo no momento em que houve parecer técnico favorável, sendo esta a data-base a ser considerada para nova progressão, não obstante o requisito objetivo haver sido preenchido em momento anterior" (AgRg no HC n. 634.186/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2021, DJe 30/3/2021).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 662.270/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma,DJe 1º/6/2021 - grifo nosso)
+Dessa forma, mostra-se correta a decisão que fixou como o termo inicial para a progressão de regime a data em que implementado o último requisito para o benefício requerido, inexistindo constrangimento ilegal a ser sanado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA PROGRESSÃO DE REGIME. MOMENTO DE PREENCHIMENTO DO ÚLTIMO REQUISITO PREVISTO NO ART. 112 DA LEP. REALIZAÇÃO DE EXAME CRIMINOLÓGICO. REQUISITO SUBJETIVO PREENCHIDO NA DATA DO PARECER FAVORÁVEL. DECISUM NO MESMO SENTIDO DA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
