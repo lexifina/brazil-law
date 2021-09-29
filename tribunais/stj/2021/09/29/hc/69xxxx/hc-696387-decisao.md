@@ -1,0 +1,10 @@
+DECISÃO
+TENNER CESAR PARENTE alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo Regimental no Habeas Corpus n. 2195595-68.2021.8.26.0000, em que foi mantido o indeferimento liminar do writ, dada a inadequação da via eleita.
+Pleiteia a defesa " o  reconhecimento de que a carga horária excedente seja computada para fins de remição na fração de a cada 18 horas de trabalho fixe 1 dia de remição e a cada 12 horas de estudo fixe 1 dia de remição" (fl. 17).
+Salientou, perante a Corte de origem, que "o sentenciado estudou, trabalhou e realizou atividades extracurriculares, fazendo jus, pois, ao cômputo da carga horária excedente para que, a cada 18 horas de trabalho e a cada 12 horas de estudo, seja remido um dia de pena (fls. 01/13)" (fl. 88).
+Todavia, ressaltou o Tribunal local que "ficou assentada a patente impropriedade do remédio constitucional para apreciação de questão relativa à incidente de execução penal, por demandar aprofundamento no caso, incompatível com a estreita via do writ, desafiando, pois, o recurso ordinário adequado" (fl. 94).
+A esse respeito, não olvido que há muito " é  assente neste Superior Tribunal o entendimento de que a existência de recurso próprio não configura óbice à apreciação de questões exclusivamente de direito na via do habeas corpus, desde que a análise da legalidade do ato coator prescinda de incursão na matéria fático-probatória" (HC n. 204.715/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 8/9/2011).
+Entretanto, urge consignar também que "o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária. Precedentes" (AgRg no HC n. 521.374/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/11/2019).
+Outra não é a hipótese dos autos, em que se faz necessário o exame das horas atestadas pelo Juízo singular e supostamente não computadas para fins de remição de penas.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
