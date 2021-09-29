@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno interposto por CELG DISTRIBUIDORA S.A. - CELG-D em face de decisão da Presidência deste Superior Tribunal que não conheceu do agravo em recurso especial, por incidência da Súmula n. 182/STJ.
+Nas suas razões, a parte agravante alega, em síntese, ser inaplicável a Súmula n. 182/STJ, uma vez impugnados os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Requer, assim, a reconsideração da decisão agravada ou que seja o feito submetido ajulgamento no órgão especial.
+É o relatório.
+Passo a decidir.
+De fato, com razão a parte agravante.
+Com efeito, nas razões do agravo de fls. 897/902(e-STJ), a agravante impugnou todos os fundamentos da decisão de inadmissibilidade. Nesse contexto, reconsidero a decisão de fls. 934/936(e-STJ); e passo à análise do agravo em recurso especial.
+O Tribunal de Justiça do Estado de Goiás julgou os apelos interpostos pelas partes, conforme a seguinte ementa:
+EMENTA: TRIPLA APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INTERRUPÇÃO ENERGIA ELÉTRICA. PERECIMENTO DE MERCADORIAS. DEFERIMENTO DA ASSISTÊNCIA JUDICIAL A PESSOA JURÍDICA. SÚMULA 25 DO TJGO. ILEGITIMIDADE PASSIVA. RECONHECIDA. DANOS MATERIAIS. CONFIGURADOS. HONORÁRIOS DE SUCUMBÊNCIA. PRINCIPIO DA CAUSALIDADE. BASE DE CÁLCULO DOS HONORÁRIOS SUCUMBENCIAIS. 1- Deve ser deferido o benefício da assistência judiciária gratuita, vez que o recorrente comprovou de forma satisfatória a sua situação de hipossuficiência (súmula nº 25 do TJGO). 2. Não há dúvida quanto à ilegitimidade passiva da Eletrobrás, tendo em vista que, tratando-se de discussão em torno de interrupção de energia elétrica, a parte legítima para figurar no polo passivo da demanda é tão -somente a prestadora do serviço, no caso, a Celg Distribuição S/A (atualmente denominada Enel Distribuição Goiás), empresa com personalidade jurídica distinta da Eletrobras, que conta com recursos próprios e possui administração a autônoma. 3. Na hipótese em questão, a parte autora logrou êxito em demonstrar as alegações a respeito da demora da interrupção do fornecimento de energia elétrica e os prejuízos advindos do estrago das mercadorias perecíveis que ficaram sem o acondicionamento adequado. 4. Pelo princípio da causalidade, há que se perquirir quem deu causa à ação para que seja a este imputada a responsabilidade pelo pagamento dos ônusda sucumbência. 5. É incabível a fixação dos honorários de sucumbência conforme o § 8º do artigo 85 do CPC/15, quando houver condenação. 6. Tratando-se de cumulação de pedidos e um deles tiver sido julgado improcedente, o reconhecimento da sucumbência recíproca é medida que se impõe. la e 2a APELAÇÕES CONHECIDAS E PARCIALMENTE PROVIDAS. 3a APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação dosarts. 884, e 944 do CC/2002, insurgindo-se contra a caracterização dos danos materiaissupostamente sofridos pela agravada.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo a analisar o recurso especial.
+A insurgência não merece prosperar.
+Ao reconhecer os danos materiaissofridos pela agravada, o Tribunal de origem assim se manifestou (e-STJ, fls. 481/482):
+In casu, observa-se que restou satisfatoriamente demonstrada a responsabilidade civil da ré apelante pelos danos materiais suportados pela parte autora, pois restou incontroverso que ocorreu a interrupção do fornecimento de energia elétrica, pela CELG, pelo menos por 20 horas.
+Ainda, diferentemente do alegado pela Celg os documentos acostados no evento 03, docs. 03 e 05, são suficientes a comprovar os prejuízos efetivos que se deram em decorrência da falha do serviço de fornecimento de energia elétrica por mais de 20 horas, mormente por se tratar de estabelecimento comercial, cujas mercadorias comercializadas necessitam permanecer em local refrigerado.
+Nesse cenário, o afastamento das conclusões do acórdão recorrido a respeito da caracterização dos danos materiais e da responsabilidade da agravante pela respectiva indenização demandaria o revolvimento do acervo fático-probatório dos autos, vedado em recurso especial a teor da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. FORNECIMENTO DE ENERGIA ELÉTRICA. DANOS MATERIAIS. AFASTAMENTO.. IMPOSSIBILIDADE NA ESPÉCIE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
