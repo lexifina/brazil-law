@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 162):
+EMENTA: HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - RELAXAMENTO EM RAZÃO DA DELONGA NA COMUNICAÇÃO DO FLAGRANTE - ALEGAÇÃO SUPERADA - MERA IRREGULARIDADE - REVOGAÇÃO DA CUSTÓDIA OU SUBSTITUIÇÃO POR MEDIDAS CAUTELARES - IMPOSSIBILIDADE - DECISÕES DEVIDAMENTE FUNDAMENTADAS - PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR DO PACIENTE - ORDEM DENEGADA. 1. A comunicação extemporânea do flagrante e a eventual demora na realização da audiência de custódia não são suficientes para ensejar o relaxamento da custódia cautelar, tratando-se, na realidade, de meras irregularidades quando já decidida a homologação e conversão da prisão. 2. Não merece ser acolhida a alegação de ausência de fundamentação se o il. Magistrado a quo converte a prisão em flagrante do autuado em preventiva e indefere o pedido de revogação da medida extrema ressaltando a necessidade da segregação para a garantia da ordem pública, após destacar a presença de prova da materialidade do crime e indícios suficientes de sua autoria. 3. Presentes os requisitos autorizadores da custódia cautelar, a manutenção da segregação provisória é medida que se impõe.
+Consta dos autos que o recorrente foi preso em flagrante, posteriormente convertido em prisão preventiva, pela prática do crime previsto no art. 33, caput, da Lei 11.343/06.
+Alega a defesa a ocorrência de constrangimento ilegal, sob os seguintes fundamentos: a) não houve comunicação da prisão do paciente, com encaminhamento do auto de prisão em flagrante, ao juízo competente, nos termos do que dispõe o art. 306, I, do CPP, impondo-se o relaxamento da prisão e b) ausentes os requisitos legais da prisão preventiva.
+Destaca as condições pessoais favoráveis do recorrente e afirma que cabíveis medidas cautelares diversas da prisão.
+Requer, liminarmente e no mérito, o relaxamento da prisão ou a concessão de liberdade provisória, com fixação de medidas cautelares diversas da prisão.
+Em consulta ao sistema processual eletrônico desta Corte Superior, verifica-se que o presente recurso é mera reiteração do Habeas corpus n. 695.955/MG, anteriormente impetrado,cuja liminarfoi inclusive deferida.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
