@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar,interposto por JOSE ROBERTO DA SILVAcontra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que orecorrentefoipresopreventivamente pela suposta prática dodelitode tráfico de drogas.
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi denegada.
+Nesta Corte, a defesa alega, em suma, ausência de fundamentação idônea no decreto preventivo.
+Aduz quea realidade dos fatos é diversa da versão apresentada pelos policiais militares no momento do flagrante.
+Aponta a inobservância do disposto no artigo 304 do CPP, sob o argumento de que o referido dispositivo determina que sejam procedidas as oitivas do condutor, da vítima de no mínimo duas testemunhas e o conduzido, o que não foi realizado na hipótese.
+Assevera que "em relação a circunstâncias específicas do caso em questão fora apreendida quantidade irrisória de droga (3,04 gramas de crack)" (e-STJ, fl. 230)
+Sustenta que "é pacífico que a suposta configuração de maus antecedentes e até mesmo de reincidência, por si só, não basta para respaldar a decretação de prisão cautelar, sendo indispensável a presença de concreta fundamentação em dados outros da realidade material capazes de configurar os requisitos legais exigidos para a concessão dessa medida (risco ao processo, à aplicação da lei penal, à ordem pública ou à ordem econômica, conforme art. 312 do CPP)." (e-STJ, fl. 138)
+Requer, assim, a revogação da prisão preventiva.
+Liminar indeferida (e-STJ, fl. 243).
+Foram prestadas informações (e-STJ, fls. 265-310).
+O Ministério Público Federal opinou pelo desprovimento do recurso em habeas corpus (e-STJ, fls. 255-261).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+O Tribunal de origem manteve a prisão cautelar nos seguintes termos:
+"Inicialmente, cumpre consignar que as teses sustentadas pela Defesa no que diz respeito à suposta ilegalidade da prisão em flagrante do paciente, em verdade, se confundem com o próprio mérito da ação penal, pois, envolve exame aprofundado de provas, o que desafia o rito célere do habeas corpus.
+Desse modo, a discussão acerca da prática ou não do delito de tráfico de drogas pelo paciente deverá ser reservada à instrução criminal.
+Além disso, não há nos autos documentos que comprovem, de plano, qualquer abuso e/ou ilegalidade na ação dos policiais.
+Ressalto, por outro lado, que qualquer irregularidade porventura existente no auto de prisão em flagrante restou superada com o decreto do novo título prisional, qual seja a prisão preventiva.
+Assim, para a decretação da prisão preventiva, basta a prova da materialidade delitiva e indícios suficientes de autoria, que, no caso em tela, encontram-se demonstrados através do Auto de Prisão em Flagrante Delito (págs. 48/53 - doc. único), dos laudos toxicológicos (págs. 69/70 - doc. único), e da denúncia oferecida pelo Parquet (págs. 154 - doc. único).
+Portanto, eventual discussão relativa à autoria ou à participação do paciente deverá ser reservada ao processo crime, com a devida instrução criminal.
+Prosseguindo, aduzem os impetrantes que não estão presentes os motivos da prisão preventiva previstos no art. 312 do Código de Processo Penal e que a r. decisão primeva carece de fundamentação idônea.
+Razão, todavia, não lhe assiste.
+Compulsando os autos, observa-se que a autoridade designada como coatora decretou a prisão preventiva do paciente por entender que estavam presentes os motivos da medida extrema. Confira um trecho de sua decisão:
+" .. Consoante se verifica através dos depoimentos das testemunhas e laudos, tem-se que configurado, em tese, os delitos previstos no artigo 33 da Lei 11.343/2006, sendo certo que há prova suficiente da materialidade do delito, consubstanciado pela apreensão da droga (38 pedras de crack, com peso líquido de 3.04 gramas), prontas para comercialização, sendo certo que todo o material comportou-se como cocaína, conforme laudo preliminar (IDs 3715322994), a indicar a existência de conduta criminosa para fins de tráfico.
+Igualmente, há indícios da autoria do delito, conforme relatos colhidos na esfera policial, uma vez que, conforme depoimento da testemunha/condutor e das testemunhas, o flagranteado foi preso em flagrante na posse dos entorpecentes mencionados, em circunstâncias que indicam a mercancia, uma vez que os militares presenciaram intensa movimentação de pessoas na residência do autor antes de sua abordagem. Embora não haja filmagens ou fotos, o depoimento dos policiais não pode ser desconsiderado. Considerada a gravidade do delito de tráfico de drogas, e, pela natureza da droga apreendida ("crack ), assim como as circunstâncias concretas do caso, observa-se a necessidade e adequação da medida extrema da segregação cautelar, a fim de garantir a ordem pública e evitar que o flagranteado volte a praticar delitos, sendo as medidas cautelares diversas da prisão insuficientes para tanto.
+ ..
+Ademais, o flagranteado JOSÉ ROBERTO DE SOUZA foi preso recentemente (APF 5002263- 60.2021.8.13.0481), tendo sido beneficiado com liberdade provisória mediante cautelares, conforme se vê pela CAC de ID 3716163036. Assim, a conversão da prisão em prisão preventiva é medida que se impõe.  .. "
+Como se vê, estão demonstradas, na respectiva decisão, as razões legais que motivaram a imposição da prisão processual, tendo o douto Juízo primevo fundamentado em elementos concretos dos autos a real necessidade da restrição cautelar da liberdade do paciente para a garantia da ordem pública, diante das circunstâncias concretas do delito que indicam a mercancia ilícita de entorpecentes e da possível reiteração delitiva, tendo em vista que ele estava no gozo de liberdade provisória concedida recentemente.
+Sobre o conceito de ordem pública, leciona a doutrina mais abalizada:
+ ..
+No presente caso, depreende-se dos autos que a prisão em flagrante do paciente foi precedida de informações acerca da ocorrência de tráfico de drogas. Na ocasião, os policiais militares apreenderam 38 pedras de crack, certa quantia em dinheiro, e embalagens comumente utilizadas para empacotar drogas.
+O laudo toxicológico, de págs. 69/70 - doc. único, atestaram a natureza entorpecente das substâncias apreendidas (cocaína).
+Verifica-se, assim, que, diante do crime, supostamente, praticado e pelas circunstâncias em que ele foi executado - notadamente a apreensão de substâncias entorpecentes de alto poder lesivo, aliada a existência anterior de denúncias anônimas -, evidenciada está a periculosidade concreta do paciente, justificando a manutenção de sua prisão cautelar, a fim de resguardar a ordem pública.
+Não se pode perder de vista, ainda, que, embora tecnicamente primário, o paciente possui registro criminal pretérito, inclusive estava em liberdade provisória concedida em um processo que também apura a prática do delito de tráfico de drogas (FAC, págs. 63/68 - doc. único), o que evidencia a sua possível reiteração delitiva.
+Nessas circunstâncias, não me parece razoável a revogação da prisão preventiva, pois, o paciente teve a chance de revalidar sua conduta e não o fez, evidenciando que solto, poderá voltar a delinquir.
+Sobre o tema, é a lição de Nestor Távora e Rosmar Rodrigues Alencar:
+ ..
+Com efeito, demonstrada a necessidade/adequabilidade da manutenção da prisão preventiva do paciente, é razoável concluir que a aplicação de medidas cautelares diversas não se mostra suficiente para a garantia da ordem social.
+Registre-se, ainda, que a pena máxima prevista ao crime do art. 33 da Lei nº 11.343/06, imputado ao paciente, é superior a 04 (quatro) anos, encontrando-se preenchido, portanto, o requisito do artigo 313, I, do Código de Processo Penal.
+Assim, encontram-se presentes as hipóteses de cabimento, os pressupostos e os motivos da prisão preventiva do paciente.
+É mister salientar que o crime de tráfico de entorpecentes, além de acarretar sérios prejuízos à saúde pública, é a mola propulsora de outros delitos e vem crescendo de forma assustadora em nossa sociedade, exigindo do Poder Judiciário uma posição mais enfática, visando impedir a continuidade e a propagação deste delito tão grave.
+Desse modo, é imprescindível, por vezes, a constrição da liberdade do indivíduo com o fim de assegurar a paz e a tranquilidade da sociedade, que vem sofrendo com o alto índice de criminalidade.
+Relativamente às eventuais condições de natureza pessoal do paciente, como residência fixa e ocupação lícita, cumpre registrar que já está pacificado, na doutrina e na jurisprudência, que as condições pessoais favoráveis não obstam, por si sós, a decretação da prisãocautelar, quando presentes outros elementos que demonstram o periculim libertatis do paciente, como é o caso dos autos.
+ ..
+Destarte, havendo provas da materialidade do delito, indícios suficientes de autoria em relação ao paciente, bem como demonstrada a necessidade de sua segregação cautelar, não merece acolhida o pedido contido na inicial.
+CONCLUSÃO Em face do exposto, não havendo qualquer constrangimento ilegal a ser sanado por esta ação constitucional, DENEGO A ORDEM impetrada." (e-STJ, fls. 200-206;sem grifos no original)
+De início,cumpre anotar que as teses de irregularidade do flagrante einobservância do disposto no art. 304 do CPPnão foram objeto de exame no acórdão impugnado, o que impede o conhecimento dos temas diretamente por este Tribunal Superior, sob pena de indevida supressão de instância (AgRg no HC 345.592/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/05/2017, DJe 11/05/2017; HC 279.802/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/04/2014, DJe 05/05/2014).
+Quanto ao pedido de colocação do réu em liberdade, melhor sorte não assiste à defesa.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garanti a da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que odecreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente que "possui registro criminal pretérito, inclusive estava em liberdade provisória concedida em um processo que também apura a prática do delito de tráfico de drogas (FAC, págs. 63/68 - doc. único)",além de ter sidopreso em flagrante com "38 pedras de crack, certa quantia em dinheiro, e embalagens comumente utilizadas para empacotar drogas." (e-STJ, fl. 203)
+Portanto, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Denegada a ordem."
+(HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019)
+Ante o exposto,nego provimento aorecurso em habeas corpus.
+Publique-se. Intimem-se.
