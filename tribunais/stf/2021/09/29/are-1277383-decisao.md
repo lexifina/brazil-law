@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região assim ementado (eDOC 8, p. 6):
+    “ADMINISTRATIVO. SERVIDOR. REMOÇÃO PARA ACOMPANHAMENTO DE CÔNJUGE. PROTEÇÃO CONSTITUCIONAL DA SAÚDE E DA FAMÍLIA. Cabível a remoção na forma do art. 36 do Regime Jurídico Único dos servidores públicos federais, para acompanhamento de cônjuge, em razão da proteção à família, ainda que não haja interesse da Administração.”
+    Os embargos de declaração opostos foram parcialmente acolhidos para fins de prequestionamento. (eDOC 14, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 5º; 37; 97; e 226, da Constituição Federal.
+    Nas razões recursais, sustenta-se, que “a remoção de servidor público para acompanhar cônjuge deve ocorrer quando ocorrer deslocamento daquele no interesse da Administração, o que não inclui o provimento originário.” (eDOC 19, p. 8).
+    Aduz-se, que “no caso em tela, não existe subsunção do caso em exame à hipótese legal de remoção, dado que embasada em remoção a pedido realizada pela cônjuge da parte recorrida, o que é referido com base na interpretação do art. 36, § único, inc. III, “a”, da Lei nº 8.112/90 conferida pelo STJ para a questão.” (eDOC 19, p. 9)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Com efeito, a Corte de origem ao decidir a controvérsia jurídica objeto deste processo, com fundamento na legislação infraconstitucional de regência (Lei 8.112/90 ), assentou que (eDOC 8, p. 3):
+    “(...)
+    Diante dessas circunstâncias e da interpretação sistemática do artigo 36, parágrafo único, inciso III, alínea 'a', da Lei nº 8.112/90, definindo seu alcance em conjunto com a disposição constitucional prevista no art. 226 da CF/1998, cuja finalidade está na preservação da entidade familiar, entendo que não se revela razoável nem proporcional, neste caso específico, indeferir a remoção e inviabilizar a convivência diária do casal, com evidente prejuízo à unidade familiar, que reclama especial proteção do Estado, conforme constitucionalmente determinado. Por fim, considero que maior prejuízo teria a União em manter distantes os cônjuges, já que por razões emocionais a autora poderia deixar de render o necessário ao desempenho da função pública. Outrossim, a manutenção de mínima convivência entre o casal demandaria a realização de constantes viagens rodoviárias, expondo-o a riscos desnecessários, dada a probabilidade de acidente envolvendo os meios de transporte dos cônjuges.
+    (...).”
+    Assim, para se chegar a conclusão contrária à adotada pelo acórdão recorrido seria necessário reexaminar o conjunto fático-probatório constante dos autos, o que encontra óbice na súmula 279 desta Corte, além da análise da referida legislação de regência, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    “CONSTITUCIONAL. ANÁLISE DE NORMA INFRACONSTITUCIONAL. LEI 8.112/90. OFENSA INDIRETA À CONSTITUIÇÃO. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. ALEGADA OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Não há contrariedade ao art. 93, IX, da Constituição, quando o acórdão recorrido encontra-se suficientemente fundamentado. IV - Agravo regimental improvido.” (AI 685.872-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 13/3/2009).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil, c/c o art. 21, § 1º do RISTF.
+    Deixo de majorar os honorários advocatícios, eis que já fixados nos limites do art. 85, §§ 2º e 3º, do CPC
+    Publique-se.
+    Brasília, 29 de setembro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
