@@ -1,0 +1,58 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por TG RIO DE JANEIROEMPREENDIMENTOS IMOBILIÁRIOS S.A contra decisão do Tribunal de Justiça do Rio de Janeiro que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fls. 379-381):
+Apelação Cível. Relação de Consumo. Ação Declaratória c/c Rescisão Contratual c/c Indenizatória. Promessa de compra e venda de unidade imobiliária -sala comercial -em empreendimento em construção. Alegação de atraso nas obras. Pretensão de rescisão do contrato. Sentença de procedência. Reforma em parte. Incidência do CDC nos contratos de promessa de compra e venda de unidade imobiliária. Possibilidade de desfazimento do negócio (art.473 do Código Civil). Culpa exclusiva da promitente vendedora. Empreendimento que não chegou a ser entregue, pois quando do pedido de rescisão, na época que se daria a entrega, a construção estava em estágio pouco avançado. Mora dos promitentes compradores não caracterizada. Descumprimento, pela ré, do ônus do art.373, II, do NCPC. Incidência da Súmula n.543 do E. STJ. Inaplicabilidade de cláusula que dispõe sobre percentual de retenção, eis que configurada a mora da ré. Abusividade da cláusula de irretratabilidade e irrevogabilidade. Devolução integral da quantia paga. Juros de mora que devem fluir da citação. Retificação, de ofício, do julgado neste ponto, eis que restou omisso. Apenas a correção monetária é que deve fluir da datdesembolso. Danos morais caracterizados. De fato, o entendimento firmado pelo E. STJ no julgamento do REsp 1.551.968/SP, sob o rito dos recursos repetitivos, é pela inocorrência de abalo moral indenizável pelo atraso de alguns meses na conclusão da obra. Entretanto, no caso concreto,no ano da entrega a construção estava muito longe de ser concretizada. Descumprimento absoluto da avença. Verba indenizatória fixada em R$10.000,00 (dez mil reais), que está de acordo com os Princípios da Razoabilidade e da Proporcionalidade. Aplicação da Súmula n.343 do E. TJRJ. Condenação da ré ao pagamento de multa prevista em cláusula penal moratória. Impossibilidade de cumulação com o pedido de rescisão contratual. A rescisão com a restituição integral dos valores faz com que as partes retornem ao status quo ante, como se jamais houvessem contratado com a ré. Incompatibilidade da rescisão com devolução integral com a aplicação da multa, sob pena de enriquecimento ilícito da parte autora. Impossibilidade, também, de condenação ao pagamento de lucros cessantes. Necessidade de prova de que deixou de lucrar com a partir da data do descumprimento do contrato. Readequação dos ônus sucumbenciais, na forma do art.86 caput. Honorários sucumbenciais e recursais em observância do disposto no art.85, §§1º,2º e 11, do NCPC. Jurisprudência e precedentes citados:(omissis) PARCIAL PROVIMENTO DO RECURSO. RETIFICAÇÃO, DE OFÍCIO, DA R. SENTENÇA EM PARTE.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls.433-439).
+Nas razões do recurso especial a parte alega ofensa aos artigos 186, 884,944 e927, parágrafo único, do Código Civil, defendendo a inexistência de dano moral pelo atraso na entrega do imóvel.Suscita divergência pretoriana acerca do tema.
+Subsidirariamente, pleiteia a redução do valor indenizatório arbitrado.
+Não foram apresentadas contrarrazões (e-STJ, fl. 479).
+Sobreveio juízo negativo de admissibilidade na origem, advindo, daí, o presente agravo (e-STJ, fl. 509-515).
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A pretensão recursal não merece prosperar.
+De ínicio, com relação à configuração dedanos morais,aCorte de origem, apesar de reconhecer que o mero inadimplemento contratual não causa, por si só, abalo moral indenizável, entendeu que, diante das circunstâncias fáticas dos autos, restou caracterizado o caráter excessivo do atraso, a justificar a condenação ao pagamento da indenização.
+Referido entendimento, encontra-se em harmonia com a orientação do STJ, sobre o tema, consoante observa-se dos julgados, a seguir citados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃOCONTRATUAL CUMULADA COM REPARAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANOMORAL. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. OCORRÊNCIA. LONGO ATRASO.
+1. Ação de rescisão contratual cumulada com reparação por dano material ecompensação por dano moral devido ao atraso na entregade unidade imobiliária.
+2. O excessivo atraso na entrega de unidade imobiliária enseja compensação por dano extrapatrimonial.
+3. Agravo interno no recurso especial não provido.
+(AgInt nos EDcl no REsp1816498/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em28/10/2019, DJe 30/10/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO PORDANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTOFÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquemincursão no contexto fático-probatório dos autos, a teor do que dispõe aSúmula n. 7/STJ.
+2. No caso concreto, o Tribunal de origem analisou as provas dos autospara concluir pela existência de danos morais, decorrentes de longo atrasona entrega da unidade imobiliária. Alterar esse entendimento demandaria oreexame dos fatos que informaram a causa, vedado em recurso especial.3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1728578/SP,Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em02/08/2018, DJe 09/08/2018)
+Por estar em sintonia com o entendimento desta Corte, não merece reparos o acórdão recorrido. Incidência da Súmula 83/STJ.
+Ademais, registro queparaafastar as premissas firmadas pelo Tribunal de origem quanto a existência de dano moral indenizável seria necessário o revolvimento do conteúdo fático probatório dos autos, o que se mostra inviável na via especial, a teor do preconizado pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA.COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DO BEM. INADIMPLEMENTO DA CONSTRUTORAAO TEMPO DO AJUIZAMENTO DA DEMANDA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO QUE NÃO SE APLICA AO CASO.DANO MORAL CONFIGURADO. SÚMULA 7 DO STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme consignado no acórdão, ao tempo do ajuizamento da demanda, a parte autora não estava inadimplente, quem se encontrava em atraso contratual era apenas a parte ré. Com efeito, no momento da propositura da ação, marco temporal de fixação do pedido e da causa de pedir para efeito de estabilização da demanda, não havia mora da parte autora, não havendo falar, portanto, em exceção do contrato não cumprido, a fim de afastar a indenização por danos morais a que fora condenada.
+2. No caso concreto, o Tribunal de origem concluiu que o atraso verificado provocou mais que mero dissabor, sendo devida a indenização por danos morais. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt no REsp 1781471/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/11/2020, DJe 02/12/2020)
+No que se refere ao valor indenizatório arbitrado, esclareço que o STJ com a apreciação reiterada de casos semelhantes, concluiu-se que a intervenção desta Corte fica limitada aos casos em que oquantumfor irrisório ou excessivo, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição.
+No caso, o Tribunal de origem diante dos elementos de fato e de prova delineados nos autos entendeu como razoável o valor de R$ 10.000,00 (dez mil reais).
+Desse modo, não se justifica,in casu, a excepcional intervenção do STJ a fim de revisar o valor da compensação por danos morais.
+Nesse sentido, guardadas as peculiaridades do caso:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DEFAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOSMORAIS. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL.CORRETORA IMOBILIÁRIA. LEGITIMIDADE PASSIVA. CADEIA DE FORNECIMENTO.RESPONSABILIDADE SOLIDÁRIA. DANO MORAL. OCORRÊNCIA. LONGO ATRASO. HARMONIAENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. ALTERAÇÃO DO VALORFIXADO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Ação de obrigação de fazer cumulada com indenização por danos materiaise compensação por danos morais em razão de atraso na entrega de imóvel objeto de compromisso de compra e venda. Danos morais fixados em R$10.000,00.
+2. Apesar de não ter liame jurídico com o consumidor, a corretorapertence, sim, à cadeia de fornecimento do produto, visto se tratar defenômeno eminentemente econômico, sendo solidária a responsabilidade detodos os fornecedores que se beneficiem da cadeia de fornecimento.Precedentes.
+3. Cabimento de compensação por danos morais em virtude do atraso superiora dois anos na entrega de imóvel. Precedentes.
+4. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada.
+5. Agravo interno no recurso especial não provido.
+(AgInt no REsp1866097/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em29/06/2020, DJe 01/07/2020) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.INDENIZAÇÃO. ENTREGA DA OBRA. ATRASO.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA.DANOS MORAIS. VALOR. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não importa negativa de prestação jurisdicional o julgado que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 10.000,00 (dez mil reais), decorrente da entrega do imóvel com atraso.
+4. Agravo interno não provido.
+(grifo nosso)
+(AgInt no AREsp 1551915/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/02/2020, DJe 12/02/2020)g.n.
+Desse modo, uma vez constatado, no caso concreto, que não houve desrespeito à razoabilidade na fixação doquantumindenizatório, o conhecimento do recurso especial encontra óbice na Súmula 7/STJ, pois necessária a revisão do conteúdo fático-probatório dos autos para acolher a minoração pretendida.
+Quanto ao dissídio jurisprudencial, inviável se mostra o seu conhecimento, uma vez que o óbice das Súmulas 83 e 7 deste Superior Tribunal de Justiça obstam a admissão do Recurso Especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional.
+Por fim, com fundamento no §11 do art. 85 do CPC, majoro o percentual dos honorários de advogado a que condenada a parte requerida na origem em 3% (três por cento), perfazendo o total de 15% do valor da condenação.
+Ante o exposto, conheço do agravo para, desde logo, NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. ATRASO NA ENTREGA. DANO MORAL. OCORRÊNCIA. ATRASO EXPRESSIVO. ENTENDIMENTO EM HARMONIA COM A ORIENTAÇÃO DO STJ. PRECEDENTES. VALOR ARBITRADO. RAZOABILIDADE. ALTERAÇÃO. INVIABILIDADE. SÚMULA 7/STJ. APLICAÇÃO.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
