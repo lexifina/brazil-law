@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 747/748):
+APELAÇÃO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE RECONHECIDA. HONORÁRIOS ADVOCATÍCIOS DEVIDOS. GRATUIDADE DE JUSTIÇA. IMPOSSIBILIDADE DE PLEITEAR DIREITO ALHEIO EM NOME PRÓPRIO. ARTIGO 18 DO CPC. RECURSO PARCIALMENTE PROVIDO.
+1. Preliminarmente, no tocante ao pleito de gratuidade de justiça para o inventariante e para o espólio, formulado pela parte executada (pessoa jurídica de direito privado), tem-se que o pedido não deve ser conhecido, pois a ninguém é permitido pleitear direito alheio em nome próprio, nos termos do artigo 18 do CPC, não havendo, in casu, autorização do ordenamento jurídico.
+2. A execução fiscal foi proposta em 09 de fevereiro de 2000 e não obteve prosseguimento em razão da inércia da parte exequente nos autos, ficando este sem movimentação desde agosto de 2012 a maio de 2018, quando a parte executada compareceu aos autos e requereu o reconhecimento da prescrição intercorrente do crédito tributário, o que foi reconhecido na r. sentença, em setembro de 2018, com a extinção do feito com resolução do mérito
+3. Desta feita, houve necessidade de constituição de patrono pela parte executada para pleitear o reconhecimento da prescrição intercorrente, o que é suficiente para que a parte exequente, peloprincípio da causalidade, seja condenada ao pagamento de honorários advocatícios. Precedentes.
+4. Em relação ao quantum dos honorários advocatícios, tratando-se de matéria desprovida de alta complexidade e tendo em vista que houve reconhecimento da parte exequente sobre a extinção da execução fiscal, deve ser fixado o percentual de 10% sobre o valor atualizado da causa, nos termos do artigo 85, parágrafo 3o, inciso I, do Código de Processo Civil.
+5. Apelação a que se dá parcial provimento.
+Opostos embargos de declaração, foram rejeitados (fls. 801/808).
+A parte recorrente aponta violação aos arts. 1.022, II, do CPC; 26 da LEF e 19 da Lei 10.522/02.Sustenta, em resumo, que a despeito dos embargos de declaração, o Tribunala quoremanesceu omisso acerca da "aplicação do artigo 26 da Lei de Execuções Fiscais bem como do artigo 19 da Lei 10.522/02 pois é incabível a condenação da União ao pagamento de honorários advocatícios quando cancela o débito antes de decisão na primeira instância e quando reconhece o pedido nos casos em que há Ato Declaratório expedido pelo Procurador Geral da Fazenda Nacional" (fl. 814).
+Contrarrazões apresentadas às fls. 825/843, postulando o desacolhimento do apelo raro.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Apretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte recorrente, nas razõesembargos de declaração e do recurso especial, alega as seguintes teses,in verbis (fls. 751/752):
+Com efeito, como exposto pela Fazenda Nacional em suas contrarrazões de apelação, a condenação da União ao pagamento de honorários nas causas em que a divida cancelada administrativamente contraria o artigo 26, da Lei 6.830/80. que dispõe:
+ ..
+Cumpre destacar que, às fls. 189, a União informou que promovera o cancelamento da CDA e pediu, ela mesma, a extinção da execução fiscal, de modo que, ad argumentandum, na pior das hipóteses, é de rigor a aplicação do art. 90, 54º do CPC.
+Ademais, no caso em exame, há que se considerar o teor do artigo 19. II e V e 51º. L da Lei 10.522/2002, em relação ao qual também se omitiu a c. Turma, já quehouve o expresso reconhecimento da pretensão do embargante:
+ ..
+Destarte, nos casos em que o Procurador da Fazenda Nacional reconhecer a procedência do pedido deduzido em embargos à execução ou em exceção de pré-executividade não haverá condenação em honorários, seja por expressa determinação legal, seja pela incidência dos princípios da lealdade processual, da boa-fé que deve presidir as relações jurídicas e da vedação do enriquecimento sem causa.
+Contudo, o Tribunal de origem quedou silente sobre a aplicação dos artigos 26 da Lei de Execuções Fiscais e19 da Lei 10.522/02e rejeitou os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial para, assentando a nulidade do acórdão recorrido por violação ao art. 1.022 do CPC, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se.
