@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ACELIO BECKER contra decisão de fls. 711-721, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, ante a incidência dos óbices das Súmulas 7 e 83/STJ.
+Nas razões recursais, a parte embargante alega a existência de omissão, na decisão embargada, quanto ao arbitramento de honorários recursais, nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+Não foi apresentada impugnação ao presente recurso, certidão a fl. 729.
+É o relatório. Passo a decidir.
+O Plenário do STJ aprovou o Enunciado Administrativo nº 7, segundo o qual "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC)" e, nos termos do enunciado n. 16 da ENFAM, "não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição" (art. 85, § 11, do CPC/2015). (AgInt no AREsp 503.038/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 09/05/2017, DJe 31/05/2017).
+Na hipótese, o acórdão recorrido, integrado pelo acórdão dos embargos de declaração, foi disponibilizado em 18 de março de 2019, e o ora embargado interpôs recurso especial em 05 de abril de 2019, portanto, na vigência do CPC/2015, inaugurando novo grau de jurisdição.
+Dessa forma, tendo em vista o conhecimento parcial do referido recurso e a negativa de provimento da parte conhecida, impõe-se a majoração dos honorários advocatícios estabelecidos pelas instâncias ordinárias, nos termos do art. 85, § 11, do NCPC.
+Diante do exposto, acolho os embargos de declaração, sem efeitos infringentes, para sanar a omissão suscitada quanto aos honorários recursais e, assim, majorar os honorários advocatícios devidos ao embargante em 10% (dez por cento) sobre o valor fixado pelas instâncias ordinárias, nos termos do art. 85, § 11 do Código de Processo Civil de 2015.
+Publique-se.
