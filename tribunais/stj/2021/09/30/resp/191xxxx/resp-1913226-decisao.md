@@ -1,0 +1,44 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL em face de acórdão do Tribunal de Justiça do Estado de Pernambuco assim ementado:
+EMENTA: PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - AÇÃO DE RECUPERAÇÃO JUDICIAL PRESERVAÇÃO DA EMPRESA - REGULARIDADE FISCAL DAS EMPRESAS RECUPERANDAS - DESNECESSIDADE - RESPONSABILIDADE SOLIDÁRIA DO GRUPOEMPRESARIAL RECONHECIDA NAS EXECUÇÕES FISCAIS - AVALIAÇÃO EM CONJUNTO DOS BENS DAS EMPRESAS QUE COMPÕEM O GRUPO - SOMA BASTANTE SUPERIOR AO VALOR DA DÍVIDA TRIBUTÁRIA - BAIXA DOS GRAVAMES CONSTANTES EM PROPRIEDADES DAS RECUPERANDAS - INCIDÊNCIA DO ARTIGO 52, II, DA LEI Nº 11.101/2005 - RECURSO PARCIALMENTE PROVIDO - DECISÃO UNÂNIME.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a recorrente aponta ofensa aos arts. 57 e 58 da Lei 11.101/02 e 191-A do CTN, sustentando que (a) ahomologação do plano de recuperação judicial não pode dispensar a apresentação da certidão negativa de débito por parte da recuperanda e (b) o processo de recuperação judicial não pode ser encarado com um favor jurisdicional para que as empresas em recuperação deixem de cumprir suas obrigações tributárias, sejam elas vencidas ou vincendas.
+Contrarrazões apresentadas.
+Em parecer, o Ministério Público Federal opina pelo desprovimento do recurso especial.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+O Tribunal de origem, ao dar parcial provimento ao agravo de instrumento paradispensar, na forma do art. 52, II, da Lei11.101/2005, a necessidade de regularização do débito fiscal para a homologação do plano de recuperação judicial,decidiu a matériaem conformidade com o entendimento do STJ sobre o tema:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CERTIDÕES NEGATIVAS DE DÉBITOS TRIBUTÁRIOS. ART. 57 DA LEI 11.101/05 E ART. 191-A DO CTN.EXIGÊNCIA INCOMPATÍVEL COM A FINALIDADE DO INSTITUTO. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA E FUNÇÃO SOCIAL. APLICAÇÃO DO POSTULADO DA PROPORCIONALIDADE. INTERPRETAÇÃO SISTEMÁTICA DA LEI 11.101/05.
+1. Recuperação judicial distribuída em 18/12/2015. Recurso especial interposto em 6/12/2018. Autos conclusos à Relatora em 30/1/2020.
+2. O propósito recursal é definir se a apresentação das certidões negativas de débitos tributários constitui requisito obrigatório para concessão da recuperação judicial do devedor.
+3. O enunciado normativo do art. 47 da Lei 11.101/05 guia, em termos principiológicos, a operacionalidade da recuperação judicial, estatuindo como finalidade desse instituto a viabilização da superação da situação de crise econômico-financeira do devedor, a permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica. Precedente.
+4. A realidade econômica do País revela que as sociedades empresárias em crise usualmente possuem débitos fiscais em aberto, podendo-se afirmar que as obrigações dessa natureza são as que em primeiro lugar deixam de ser adimplidas, sobretudo quando se considera a elevada carga tributária e a complexidade do sistema atual.
+5. Diante desse contexto, a apresentação de certidões negativa de débitos tributários pelo devedor que busca, no Judiciário, o soerguimento de sua empresa encerra circunstância de difícil cumprimento.
+6. Dada a existência de aparente antinomia entre a norma do art. 57 da LFRE e o princípio insculpido em seu art. 47 (preservação da empresa), a exigência de comprovação da regularidade fiscal do devedor para concessão do benefício recuperatório deve ser interpretada à luz do postulado da proporcionalidade.
+7. Atuando como conformador da ação estatal, tal postulado exige que a medida restritiva de direitos figure como adequada para o fomento do objetivo perseguido pela norma que a veicula, além de se revelar necessária para garantia da efetividade do direito tutelado e de guardar equilíbrio no que concerne à realização dos fins almejados (proporcionalidade em sentido estrito).
+8. Hipótese concreta em que a exigência legal não se mostra adequada para o fim por ela objetivado - garantir o adimplemento do crédito tributário -, tampouco se afigura necessária para o alcance dessa finalidade: (i) inadequada porque, ao impedir a concessão da recuperação judicial do devedor em situação fiscal irregular, acaba impondo uma dificuldade ainda maior ao Fisco, à vista da classificação do crédito tributário, na hipótese de falência, em terceiro lugar na ordem de preferências; (ii) desnecessária porque os meios de cobrança das dívidas de natureza fiscal não se suspendem com o deferimento do pedido de soerguimento. Doutrina.
+9. Consoante já percebido pela Corte Especial do STJ, a persistir a interpretação literal do art. 57 da LFRE, inviabilizar-se-ia toda e qualquer recuperação judicial (REsp 1.187.404/MT).
+10. Assim, de se concluir que os motivos que fundamentam a exigência da comprovação da regularidade fiscal do devedor (assentados no privilégio do crédito tributário), não tem peso suficiente - sobretudo em função da relevância da função social da empresa e do princípio que objetiva sua preservação - para preponderar sobre o direito do devedor de buscar no processo de soerguimento a superação da crise econômico-financeira que o acomete.
+11. RECURSO ESPECIAL NÃO PROVIDO.(REsp 1864625/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/06/2020, DJe 26/06/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INCONFORMISMO DA AGRAVANTE.
+1. A Corte Especial do STJ decidiu que não constitui ônus do contribuinte a apresentação de certidões de regularidade fiscal para que lhe seja concedida a recuperação judicial. Precedentes.
+2. Agravo interno desprovido.(AgInt no REsp 1740070/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.RECUPERAÇÃO JUDICIAL. EXIGÊNCIA DE APRESENTAÇÃO DE CERTIDÃO NEGATIVA DE DÉBITO. DESNECESSIDADE. PRECEDENTE. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência da Terceira Turma, a apresentação das certidões negativas de débitos tributários não constitui requisito obrigatório para a concessão da recuperação judicial da empresa devedora ante a incompatibilidade da exigência com a relevância da função social da empresa e o princípio que objetiva sua preservação.Precedente.
+2. Agravo interno desprovido.(AgInt no REsp 1802034/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+PROCESSUAL CIVIL E EMPRESARIAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RECUPERAÇÃO JUDICIAL. DESNECESSIDADE DE APRESENTAÇÃO DE CERTIDÕES DE DÉBITO PARA CONCESSÃO DE RECUPERAÇÃO JUDICIAL.
+1. A Corte Especial do STJ decidiu que não constitui ônus do contribuinte a apresentação de certidões de regularidade fiscal para que lhe seja concedida a recuperação judicial.
+2. Agravo interno não provido.(AgInt no REsp 1838544/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/03/2020, DJe 25/03/2020)
+Assim, não merece reparos o acórdão recorrido.
+Ademais,registro que o argumento acerca da exigibilidade da apresentação das certidões de regularidade fiscal para fins de concessão da recuperação judicial do devedor, nos termos daLei 13.043/2014, que instituiu o parcelamento especial para empresas em recuperação judicial,carecedo indispensável prequestionamento.
+Com efeito, oSTJ tem entendimento assente no sentido de que o prequestionamento das teses jurídicas constitui requisito de admissibilidade recursal.
+Ora, "para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1035542/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/06/2017, DJe 23/06/2017), o que inocorre na hipótese dosautos.
+De qualquer sorte, destaco que o primeiro precedente da 3ª Turma citado acima faz expressa referência à dispensa da apresentação das citadas certidões mesmo após o advento da Lei 13.043/2014, razão pela qual, por onde quer que se analise a questão, a pretensão recursal não merece amparo.
+Diante do exposto, nego provimento ao recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. EMPRESARIAL EPROCESSUAL CIVIL.AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. REGULARIDADE FISCAL DAS EMPRESAS RECUPERANDAS. DESNECESSIDADE.ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.AUSÊNCIA DE PREQUESTIONAMENTO DE TESERECURSAL. SÚMULA 211/STJ.
+RECURSO ESPECIAL DESPROVIDO.
