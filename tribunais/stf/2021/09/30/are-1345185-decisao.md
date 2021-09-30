@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (eDOC 10, p. 6):
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE CONTRA A LEI MUNICIPAL Nº 9.975/2016, DE GOIÂNIA. VÍCIO FORMAL DE INICIATIVA. PROVIMENTO 1) Lei municipal de iniciativa parlamentar que assegura aos guardas municipais o direito de usufruírem gratuitamente do serviço de transporte coletivo no Município de Goiânia e Região Metropolitana. Iniciativa exclusiva do Chefe do Poder Executivo. Inteligência dos artigos 2º, caput, 20, § 1º, II, “b”, e 77, II, da Constituição Estadual. Precedentes do TJGO e do STF. II. Violação aos princípios da razoabilidade e da isonomia. ADIN JULGADA PROCEDENTE.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 2º, 61 § 1º, e 84, da Constituição Federal.
+    Nas razões recursais, sustenta-se a constitucionalidade da lei que instituiu gratuidade no transporte coletivo urbano aos agentes de trânsito do Município de Goiânia a aos membros da Guarda Civil Metropolitana, por iniciativa do Poder Legislativo.
+    Afirma-se que a norma visa garantir o pleno exercício do poder de polícia aos seus beneficiários e, portanto, não trata de qualquer matéria prevista no rol taxativo das matérias de iniciativa reservada ao Chefe do Poder Executivo.
+    A Vice-Presidência do Tribunal de Justiça do Estado de Goiás inadmitiu o recurso extraordinário mediante aplicação da Súmula 280 do STF (eDOC 18).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observa-se que o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte, de que compete ao ao Poder Executivo a iniciativa de leis que interfiram na gestão de contratos de concessão de serviços públicos, conforme assentado na ADI 2.733/ES, da relatoria do Min. Eros Grau, DJ 03.02.2006, assim ementada:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 7.304/02 DO ESTADO DO ESPÍRITO SANTO. EXCLUSÃO DAS MOTOCICLETAS DA RELAÇÃO DE VEÍCULOS SUJEITOS AO PAGAMENTO DE PEDÁGIO. CONCESSÃO DE DESCONTO, AOS ESTUDANTES, DE CINQUENTA POR CENTO SOBRE O VALOR DO PEDÁGIO. LEI DE INICIATIVA PARLAMENTAR. EQUILÍBRIO ECONÔMICO-FINANCEIRO DOS CONTRATROS CELEBRADOS PELA ADMINISTRAÇÃO. VIOLAÇÃO. PRINCÍPIO DA HARMONIA ENTRE OS PODERES. AFRONTA. 1. A lei estadual afeta o equilíbrio econômico-financeiro do contrato de concessão de obra pública, celebrado pela Administração capixaba, ao conceder descontos e isenções sem qualquer forma de compensação. 2. Afronta evidente ao princípio da harmonia entre os poderes, harmonia e não separação, na medida em que o Poder Legislativo pretende substituir o Executivo na gestão dos contratos administrativos celebrados. 3. Pedido de declaração de inconstitucionalidade julgado procedente. ”
+    Assim, a lei municipal, de iniciativa legislativa, que concede gratuidade tarifária no transporte público incorre em vício formal e viola o princípio da separação de poderes, ao interferir indevidamente na gestão de contrato administrativo celebrado com concessionária de serviço público, matéria que nos termos do art. 30, V, da Constituição Federal é reservada ao Executivo.
+    Destaco, nesse mesmo sentido, julgados de ambas as Turmas desta Suprema Corte:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI MUNICIPAL DE INICIATIVA DO PODER LEGISLATIVO. ISENÇÃO DE TARIFA DE TRANSPORTE COLETIVO. VÍCIO DE INICIATIVA. INCONSTITUCIONALIDADE FORMAL. COMPETÊNCIA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO
+     (ARE 1.154.488 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 27.11.2019)
+     DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. REPRESENTAÇÃO DE INCONSTITUCIONALIDADE. LEI Nº 5.127/2015. MUNICÍPIO DE VOLTA REDONDA. OBRIGATORIEDADE DE INSTALAÇÃO DE AR CONDICIONADO NOS VEÍCULOS DE TRANSPORTE COLETIVO MUNICIPAL. PROCESSO LEGISLATIVO. INICIATIVA PRIVATIVA. PODER EXECUTIVO. SERVIÇOS PÚBLICOS.
+    1. O Supremo Tribunal Federal firmou orientação no sentido de que compete ao Chefe do Poder Executivo a iniciativa de leis que interfiram na gestão de contratos de concessão de serviços públicos.
+    2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios.
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (ARE 1075713 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 01.8.2018)
+    Ante o exposto, nego provimento ao recurso, nos termos dos artigos 932, IV, “b”, do CPC e 21, § 2º, do RISTF.
+    Publique-se.
+    Brasília, 30 de setembro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
