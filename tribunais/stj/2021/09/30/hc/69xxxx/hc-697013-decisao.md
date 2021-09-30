@@ -1,0 +1,13 @@
+DECISÃO
+ITALO HENRIQUE TOURO NEGRAO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 5046817-95.2021.8.21.7000, em que foi determinada a conversão em privativa de liberdade da pena restritiva de direitos a que condenado.
+Alega a defesa "ser absolutamente possível o cumprimento sucessivo da pena privativa de liberdade com a restritiva de direitos. Não é outro o entendimento vigente na jurisprudência das Cortes Superiores" (fl. 4), razão pela qual requer o cumprimento posterior da pena restritiva de direitos.
+Decido.
+No caso vertente, aponta a Corte de origem que "constam condenações pela prática dos crimes do artigo 155, § 4º, inciso IV, c/c artigo 14, inciso II, e artigo 180, todos do Código Penal, cujas sanções, no total de dois anos e quatro meses de reclusão, foram substituídas por penas restritivas de direitos. Na época da decisão atacada o apenado se encontrava em regime aberto de cumprimento de pena, porém havia ordem de prisão preventiva, por outro processo, o que, de fato, impõe o regime fechado, ainda que de forma provisória" (fl. 1.018, grifei).
+Concluiu, então, que "é imprescindível haver compatibilidade no cumprimento das penas, o que não ocorre no caso, uma vez que o apenado, em regime semiaberto (ou fechado, se considerada a prisão preventiva), não tem condições de cumprir as penas restritivas de direitos que lhe foram impostas" (fl. 1.019, sublinhei).
+Outro não é o entendimento do Superior Tribunal de Justiça, segundo o qual, " n a unificação de penas (art. 111 da Lei n. 7.210/84), a impossibilidade de cumprimento simultâneo de reprimenda privativa de liberdade e restritiva de direito autoriza a reconversão desta última pelo Juízo da Execução, como ocorreu no caso em análise - o paciente se encontrava em regime semiaberto quando sobreveio outra condenação a pena restritiva de direitos" (HC n. 431.484/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 23/3/2018, grifei).
+No mesmo sentido:
+ ..
+1. É assente neste Superior Tribunal de Justiça o entendimento de que, quando sobrevier nova condenação que, não sendo suspensa, tornar incompatível o cumprimento da pena restritiva de direitos com a pena privativa da liberdade, posterior ou anterior, deve-se reconverter a pena substitutiva em reprimenda corporal (art. 181, §1º, alínea "e", da LEP, c/c artigo 44, §5º, do Código Penal).
+2. Agravo regimental improvido (AgRg no REsp n. 1.610.082/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 1º/9/2016, destaquei).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
