@@ -1,0 +1,14 @@
+DECISÃO
+GUIDO GUIMARÃES FERRARIO COELHO interpõe recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da CF, contra acórdão do Tribunal de Justiça do Estado de Pernambuco (Apelação n. 0473854-9).
+O réu foi condenado a 2 anos e 6 meses de reclusão, por incursão no art. 14 da Lei nº10.826/03, no regime inicial aberto. A pena privativa de liberdade foi substituída por restritiva de direitos. A defesa alega a interpretação divergente e a violação do art. 59 do Código Penal e pede a redução da pena-base.
+Contrarrazões às fls. 382/388.
+O Ministério Público Federal opinou pelo provimento do recurso especial.
+Decido.
+O recurso especial é tempestivo e, em relação ao fundamento do art. 105, III, "a", da CF, preenche os requisitos de admissibilidade.
+As instâncias ordinárias exasperaram a pena-base acima do mínimo legal em razão de valoração negativa da culpabilidade do réu. Consideraram mais censurável a sua conduta, por ter sido apreendida arma de fogo de uso permitido com munição.
+O aresto recorrido está em confronto com a jurisprudência desta Corte, de que: "No delito previsto no art. art. 14 da Lei n. 10.826103, o fato de a arma apreendida estar municiada não evidencia maior grau de censura da ação, o que impede o aumento da pena-base, por se tratar de circunstância comum à espécie. Precedentes" (AgRg no AgRg no REsp 1918235/MG, Rel. Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), 5ª T., DJe 31/8/2021).
+Confira-se, mutatis mutandis: "Não se mostra necessário, para a tipificação do crime previsto no art. 16 da Lei 10.826/2003, que a arma esteja municiada. Contudo, o fato de assim se apresentar não pode constituir fundamento idôneo, e concreto, para aumento da pena-base, motivada na maior reprovabilidade da conduta, por se tratar de circunstância comum à espécie"(AgRg no HC n. 547.030/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 14/02/2020).
+Aplico ao caso o entendimento de que: "No crime de porte ilegal de arma de fogo, o fato de a arma apreendida estar municiada  ..  não evidencia maior grau de censura da ação, o que impede o aumento da pena-base. Precedentes. 2. Agravo regimental desprovido" (AgRg no AREsp n. 896.648/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 01/03/2019).
+A reprimenda aplicada ao réu foi exasperada somente em decorrência da culpabilidade negativa. Afastada a circunstância judicial e não registradas agravantes ou atenuantes, causas de diminuição ou aumento da pena, é de rigor estabelecer a pena do porte ilegal de arma de fogo de uso permitido no mínimo legal, mantidos os demais termos do aresto recorrido.
+À vista do exposto, conheço e dou provimento ao recurso especial, para reconhecer a violação do art. 59 do CP e estabelecer ao recorrente a pena de 2 anos e reclusão e 10-dias multa. Ficam mantidos os demais termos da condenação.
+Publique-se e intimem-se.
