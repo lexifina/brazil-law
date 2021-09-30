@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO INDENIZATÓRIA POR DANOS MORAIS EM DECORRÊNCA DE NEGATIVAÇÃO DO NOME DA AUTORA PERANTE OS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO DEMANDA JULGADA IMPROCEDENTE, UMA VEZ RECONHECIDO, EM DEMANDA PARALELA À PRESENTE, A RESPONSABILIDADE CIVIL DA AUTORA PELAS AVARIAS OCASIONADAS NO TRANSPORTE SOB SUA RESPONSABILIDADE. RECURSO IMPROVIDO."(e-STJ, fl. 321)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls.339/343).
+Nas razões do recurso especial, o agravante alega violação aos arts. 535, inciso II do Código de Processo Civil de 1973 e 1 e 20 da Lei 5.474/68, sustentando, em síntese, (a) que foram sacadas ilegalmente duplicatas sem lastro que geraram sua negativação perante órgão de proteção ao crédito e (b) que houve omissão acerca da ausência de requisitos legais das duplicatas, pois não corresponderam a compra e venda ou prestação de serviços, bem como que a agravante foi a prestadora de serviços e não a agravada.
+Foram apresentadas contrarrazões às fls. 378/385.
+É o relatório. Passo a decidir.
+O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Não se verifica a alegada violação ao art. 535 do CPC/73, na medida em que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia no tocante a ausência de responsabilidade civil da agravada pela inscrição indevida da agravante (e-STJ, fl. 325).
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Com relação a suposta violação aos arts. 1 e 20 da Lei 5.474/68, o Tribunal de origem afirmou que os danos morais não restaram configurados com a negativação do nome da agravante, vez que a mesma estava contratualmente obrigada pelas avarias ocasionadas ao material transportado, in verbis:
+"AGV Logística (apelada-ré-reconvinte) e SHOCKEXPRESS TRANSPORTES RÁPIDOS (apelante-autora-reconvinda)mantinham contrato de transportes rodoviários de cargas ou coisa, tendo seestabelecido na cláusula 4.1. que o contratado (SHOCK) "é o responsável portodos os danos ou prejuízos que vier a causar nas coisas ou cargastransportadas, obrigando-se a ressarcir a CONTRATANTE no valor total dosbens avariados" (fls. 115).
+Pelo que se depreende da leitura dos autos, a apelante foicontratada para transportar vacinas para a empresa MERIAL e que estasvacinas foram declaradas pela cliente (MERIAL) impróprias para uso e queseriam destruídas oportunamente, o que levou à apelada AGV a ressarcir aMERIAL pela avaria causada (fls. 127/128 - autos 0064199-97.2011.8.26.0114).
+( )
+Trata-se de demanda entre a empresa de transporte e aempresa de logística, tendo esta última assumido prejuízo declarado pela suacliente e, em razão disso, negativou a primeira.
+Observou-se que a questão relacionada à perícia para
+verificar se a recusa das vacinas era ou não procedente por parte da clientedeveria ter sido levantada e realizada no momento da entrega da carga. Se, em tese, poderia até se cogitar de culpa concorrente entre apelante e apelada verificou-se pelos depoimentos e pelo contextoprobatório que a responsabilidade cabe mesmo à apelante.
+E não só em razão da responsabilidade civil objetivaestabelecida pelo Código Civil e pela norma que determina ao transportadorque verifique - o -acondicionamento do produto quando o recebe paratransporte.
+( )
+Em assim sendo, quer pela legislação pertinente, querpelo contrato firmado entre as partes, quer pelo contexto das provas aapelante não tem como deixar de ser responsabilizada no caso concreto.
+Pelas mesmas razões não há como dar suporte ao pleitode compensação pelos danos morais uma vez que se reconhece responsabilização da apelante pelas avarias ocasionadas, nos termos dalegislação vigente para os contratos de transporte rodoviário."(e-STJ, fls. 324/325)
+O fundamento de que restou demonstrada a responsabilidade civil da agravante, o que leva ao julgamento improcedente do pedido de danos morais não foi objeto de impugnação e é suficiente, por si só, a manter a decisão da Corte de origem nesse ponto, o que atrai, na hipótese, a incidência por analogia da Súmula 283 do Supremo Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
