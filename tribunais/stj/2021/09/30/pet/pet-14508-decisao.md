@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de pedido de tutela provisória de urgência formulado por JET AVIONICS EQUIPAMENTOS AERONÁUTICOS LTDA, visando a concessão de efeito suspensivo a agravo contra decisão denegatória de recurso especial (fls. 198-241), em trâmite para esta eg. Corte.
+Por sua vez, o apelo nobre (fls. 116-177) foi interposto contra v. acórdão, proferido pelo eg. Tribunal de Justiça de São Paulo, assim ementado:
+Ação de imissão na posse. Aeronave. Alegação de ilegitimidade passiva que dizia respeito ao próprio mérito da causa. Elementos de informação que autorizavam reconhecer a realidade da aquisição da aeronave pela autora, o que compelia os réus a entregá-la. Sentença preservada. Recursos desprovidos.
+Os embargos de declaração opostos pela ora requerente foram rejeitados, às fls. 110-114.
+Inconformada, a ora requerente interpôs recurso especial, no qual alega violação aos arts. 627, 629, 633, 638, 640, caput e seu parágrafo único e 1.198, caput, do Código Civil de 2002; 435, 489, § 1º, 1.013, § 1º e § 2º, 1.022, do CPC/2015.
+Sustenta ter havido negativa de prestação jurisdicional por parte do Tribunal a quo, ante a ausência de julgamento da matéria defensiva articulada nas razões de apelação, quanto à higidez do prévio contrato de depósito que vinculava o depositante, que era o antigo proprietário do bem, a aeronave depositada e o hangar depositário ora recorrente. De modo que o depositário tem o dever de guardar o bem depositado até que o depositante o reclame, não o podendo entregar a qualquer outra pessoa que alegue ser o novo proprietário.
+Afirma que não poderia lhe ter sido imputado o insucesso da imissão de posse da aeronave, em razão de não ter se apropriado indevidamente, tampouco, obstado a entrega do avião, do qual era depositário em seu hangar, para quem se dizia ser novo proprietário do bem, porquanto o contrato de depósito fora entabulado anteriormente por proprietário diverso daquele que alegava ser o novo dono e requeria a posse do aparelho CESSNA, modelo 550, descrito na inicial.
+Defende, ainda, a impossibilidade da sua condenação solidária com os demais demandados, tendo em vista ter, apenas, praticado ato concernente ao depositário na guarda e conservação do bem depositado.
+Contrarrazões apresentadas às fls. 178-192.
+A il. Presidência da Seção de Direito Privado do eg. TJSP inadmitiu o recurso especial, com base no art. 1.030, V, do CPC (fls. 193-196).
+Irresignada, interpôs o competente agravo em recurso especial, fls. 198-241.
+Ainda, no interregno dos trâmites procedimentais administrativos, a sucumbente protocola a presente Petição 14508/SP, buscando a atribuição de efeito suspensivo ao recurso interposto, alegando que "o direito da ora requerente se escora no perigo de dano irreparável caso venha sofrer o cumprimento de sentença provisório da veneranda decisão proferida com eventual bloqueio de suas contas bancárias até o limite da vultosa condenação imposta (R$ 214.367,44 atualizados até janeiro de 2021 - cálculo anexo), valor esse que indiscutivelmente não se detém em caixa", fl. 6.
+É o relatório. Decido.
+Acerca da tutela provisória, o Código de Processo Civil de 2015 assim dispõe:
+"Art. 294. A tutela provisória pode fundamentar-se em urgência ou evidência.
+Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental."
+"Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito."
+"Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo."
+Especificamente no que se refere à concessão de efeito suspensivo a recurso especial, o novo Codex, com as alterações estabelecidas pela Lei nº 13.256/2016, estabelece que:
+"Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+(..)
+§ 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037."
+Fazendo-se uma interpretação sistemático-teleológica dos dispositivos legais ora transcritos, pode-se aferir que a concessão de efeito suspensivo a agravo em recurso especial, assim como no anterior sistema processual, exige a presença concomitante de fumus boni iuris, consistente na plausibilidade do direito invocado no recurso especial, e de periculum in mora, cuja caracterização exige a demonstração de risco de dano irreparável ou de difícil reparação decorrente de eventual demora na solução da causa.
+No caso em liça, partindo de uma análise perfunctória dos autos, percebe-se que, a princípio, não se evidenciou, a primo oculi, estarem presentes o fumus boni iuris, tampouco o periculum in mora.
+Da leitura das alegações dos requerentes, não se verifica a defesa da plausibilidade do agravo em recurso especial a que se pretende dar efeito suspensivo. Ao contrário, verifica-se toda uma articulação argumentativa no sentido de obstar um eventual futuro cumprimento provisório da sentença, que fora confirmada no acórdão objurgado nas razões do especial inadmitido, sem, contudo, sustentar a viabilidade do recurso extremo.
+Ainda, ressalta-se que o agravo em recurso especial, ao qual se poderia atribuir efeito suspensivo, trata da matéria relativa ao processo de conhecimento, não se discutindo nenhuma questão acerca do cumprimento provisório de sentença, seja ele provisório ou definitivo.
+Nessa senda, não se vislumbra a fumaça do bom direito nas alegações contidas na petição inicial da presente TP 14508/SP, porquanto tais matérias não são relacionadas ao mérito do recurso especial a que se pretende dar efeito suspensivo.
+Assim, os futuros possíveis atos executórios não fazem parte do escopo da causa de pedir do recurso especial e, por isso, não são da competência desta Relatoria.
+Quanto ao perigo da demora, melhor sorte não socorre à requerente, tendo em vista não ter colacionado documento algum que comprove a urgência ou o iminente perecimento de seu direito. Ao contrário, apenas, conjectura acerca de um eventual manejo do cumprimento provisório de sentença. De modo que não há, ainda, nenhum ato concreto urgente a ser suspenso, que diga respeito à causa de pedir do recurso especial.
+Nesses termos, considerando que, conforme já dito, o deferimento da tutela de urgência para conferir efeito suspensivo a recurso especial somente é possível quando presentes, concomitantemente, o fumus boni iuris e o periculum in mora, ausente qualquer um desses requisitos, o pedido não comporta deferimento.
+Ante o exposto, indefiro o pedido, nos termos do art. 288, § 2º, do RISTJ.
+Publique-se.
