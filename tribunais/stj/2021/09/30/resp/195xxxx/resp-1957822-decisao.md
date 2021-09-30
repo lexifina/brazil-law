@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloFundo Nacional de Desenvolvimento da Educação, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 1ªRegiãoassim ementado (e-STJfl. 346):
+TRIBUTÁRIO. AÇÃO ORDINÁRIA. CONTRIBUIÇÃO PREVIDENCIÁRIA. SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA SEM INSCRIÇÃO NO CNPJ. PRESCRIÇÃO QUINQUENAL.
+1. O Pleno do STF (RE 566621/RS, Rel. Min. ELLEN GRACIE, trânsito em julgado em 27.02.2012), sob o signo do art. 543-B do CPC, que concede ao precedente extraordinária eficácia vinculativa que impõe sua adoção em casos análogos, reconheceu a inconstitucionalidade do art. 4º, segunda parte, da LC 118/2005 e considerou aplicável a prescrição quinquenal às ações repetitórias ajuizadas a partir de 09 JUN 2005.
+2. Consoante o art. 16, § 1º e § 3º, I, da Lei nº 11.457/2007, a representação do FNDE em tema de salário-educação é, desde abril de 2008, da competência da PFN.
+3. Consoante a jurisprudência do STJ, o INSS e o FNDE têm legitimidade passiva nos feitos que versem sobre a contribuição ao salário-educação, legitimidade passiva esta que não se estende à União. (AgRg no REsp 1546558/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 01/10/2015, DJe 09/10/2015; AGRAC 0004149-65.2010.4.01.3802/MG, Rel. DESEMBARGADOR FEDERAL NOVÉLY VILANOVA, OITAVA TURMA, e-DJF1, p. 1713 de 13/02/2015).
+4. A matéria não demanda maiores digressões, uma vez que já julgada sob o regime dos recursos repetitivos (REsp nº 1.162.307/RJ, 11 Seção, Rel. Min. Luiz Fux, DJe de 3.12.2010), ficando consolidado o entendimento de que a contribuição ao salário-educação somente é devida pelas empresas, excluindo-se o produtor rural, pessoa física, sem inscrição no CNPJ.
+5. Honorários nos termos do voto.
+6. Apelação dos autores providas. Apelação da FN e remessa oficial parcialmente providas, apenas para reconhecer a ilegitimidade passiva da União.
+Os embargos de declaração opostos contra a aludida decisão foram rejeitados.
+O recorrente alega a existência de contrariedade ao art. 1.022 do CPC/2015, por entender que o acórdão foi omisso"quanto ao fato de que, caso mantida a condenação da Entidade, devem ser aplicadas as disposições contidas no art. 15 da Lei n. 9.424/96, que regulamenta o art. 212, § 5º, da CF/1988, limitando, portanto, a eventual devolução de valores a ser suportada pelo recorrente" (e-STJfl. 384).
+Sustenta que o FNDE não tem legitimidade para figurar no polo passivo da presente demanda.
+Defende que os arts.15 da Lei n. 9.424/1996; 1º da Lei n.9.766/1998 e 12 e15 da Lei n. 8.212/1991 foram ofendidos, pois é devido salário educaçãotambém pelo empregador rural.
+Admitido o recurso especial na origem, os autos vieram-me conclusos.
+É o relatório.
+Após o julgamento doEREsp 1.619.954/SC o Superior Tribunal de Justiça tem decidido pelalegitimidade passiva da União e pela ilegitimidade passiva do FNDE em demandas que visem à repetição do indébito da contribuição do salário-educação, pois o aludido fundo é mero destinatário do produto da sua arrecadação.
+No ponto:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. PROCESSUAL CIVIL. TRIBUTÁRIO. OFENSA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. LEGITIMIDADE PASSIVA EM REPETIÇÃO DE INDÉBITO. SALÁRIO EDUCAÇÃO. COBRANÇA PELA SECRETARIA DA RECEITA FEDERAL DO BRASIL - RFB EM FAVOR DO FNDE. LEGITIMIDADE PASSIVA EXCLUSIVA DA FAZENDA NACIONAL.
+1. A Primeira Seção deste Superior Tribunal de Justiça firmou no julgamento dos EREsp n. 1.619.954/SC (Rel. Min. Gurgel de Faria, julgado em 10.04.2019) posição no sentido de que a legitimidade passiva ad causam para a repetição de indébito das contribuições destinadas a terceiros arrecadadas pela Secretaria da Receita Federal do Brasil - RFB é exclusiva da FAZENDA NACIONAL.
+2. Do precedente, pode-se concluir que: 2.1.) a jurisprudência do STJ reconhece a legitimidade ativa ad causam das entidades destinatárias para propor ações de cobrança de contribuições de terceiro, nas hipóteses em que a legislação específica admite a arrecadação direta de tais contribuições e, por consequência, 2.2.) em havendo arrecadação direta, as entidades terceiras possuem legitimidade e interesse processual para figurarem no polo passivo de ações em que se questionam as respectivas contribuições e, por fim 3.3.) após o advento da Lei n. 11.457/2007, a FAZENDA NACIONAL passou a ter legitimidade exclusiva para responder às ações que visam a declaração de inexigibilidade e repetição de indébito apenas das contribuições de terceiros arrecadadas pela Secretaria da Receita Federal do Brasil - RFB.
+3. Para o caso, não há notícia nos autos de que a contribuição em questão é arrecadada diretamente pelo FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO - FNDE. Desta forma, é de se adotar o entendimento de que a autarquia federal não tem legitimidade passiva para responder pelo indébito.
+4.Recurso especial não provido.
+(REsp 1.925.735/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/3/2021, DJe 8/4/2021).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação, a fim de reconhecer a ilegitimidade passiva do Fundo Nacional de Desenvolvimento da Educação - FNDE para responder pelo indébito da contribuição do salário-educação.
+Determino a devolução dos autos à origempara prosseguimento do julgamento da apelação da Fazenda Nacional.
+Publique-se. Intimem-se.
