@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto porFABRICIO PIMENTEL FIDALGO e GRAZIELLE BERLATO FIDALGO, com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão do TJSPassim ementado (e-STJ fl. 658):
+SENTENÇA - Julgamento extra petita - Nulidade - Inocorrência - Preliminar rejeitada. CONTRATO - Promessa de compra e venda de imóvel - Atraso na entrega da obra - Ocorrência - Lei nº 6.766/1979 não tem o condão de prorrogar automaticamente o prazo previsto para a conclusão da obra, sob pena de modificação unilateral do contrato, em prejuízo do consumidor - Hipótese de culpa exclusiva das promitentes vendedoras/construtoras - Devolução imediata e integral das parcelas pagas - Admissibilidade - Súmula 543 do STJ - Aplicação ao caso da Lei nº 9.514/97 - Descabimento - Inadimplemento das rés e não dos autores - Lucros cessantes - Inviabilidade - Além de se tratar de lote sem edificação, autores obtiveram rescisão contratual com devolução integral dos valores pagos e retorno das partes ao status quo ante - Precedentes jurisprudenciais - Lucros cessantes afastados - Mantida a incidência dos juros de mora como determinado pela sentença (a partir do 31º do prazo para depósito), pois os autores não apelaram - Honorários de advogado - Sucumbência recíproca - Ocorrência - Sentença reformada em parte - Recurso provido em parte.
+Os embargos de declaração da primeira recorrida foram rejeitados (e-STJ fls. 803/805).
+Nas razões apresentadas (e-STJ fls. 666/688), os recorrentes alegam dissídio jurisprudencial e contrariedade aos arts. 389, 395 e 475 do CC/2002, porque, mesmo rescindido o contrato de compra e venda imobiliário, fariam jus à indenização por lucros cessantes, com fundamento no atraso na entrega do imóvel, independente de comprovação dos prejuízos experimentados, na importância de 0.5% (cinco décimos percentuais) ao mês.
+Foram ofertadas contrarrazões (e-STJ fls. 824/833).
+O recurso foi admitido na origem (e-STJ fls. 835/838).
+É o relatório.
+Decido.
+A fim de sustentar a condenação das recorridas ao pagamento de lucros cessantes, ante o atraso na entrega dos lotes, a parte recorrente apontou violação dos arts. 389, 395 e 475 do CC/2002.
+Ocorre que os dispositivos legais mencionados não possuem o alcance normativo pretendido, porque nada dispõem a respeito do referido encargo, matéria disciplinada pelos arts. 402 e 403 do CC/2002.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a incidência da Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+O Tribunal de origem não se manifestou sobre os arts. 389, 395 e 475 do CC/2002, sob o enfoque pretendido pelos recorrentes. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A Corte de origem assentou que houve a venda de lote não edificado, motivo por que não era cabível falar em reparação porlucros cessantes (e-STJ fl. 661).
+A respeito de tal razão de decidir, a parte não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontadose a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais os recorrentes não se desincumbiram.
+Registre-se, por fim, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
