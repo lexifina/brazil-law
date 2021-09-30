@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por LUCAS SILVÉRIO DA SILVA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no julgamento do HC n. 1.0000.20.577559-6/000.
+Nas presentes razões, sustenta o Recorrente, em suma, que não existe fundamentação idônea para a decretação da prisão preventiva, pois não está configurado nenhum requisito previsto no art. 312 do Código de Processo Penal.
+Requer, liminarmente, o provimento do recurso para relaxar a prisão por falta de fundamentação ou a sua revogação, com ou sem a imposição de medida cautelar.
+O pedido liminar foi indeferido às fls. 490-492.
+As informações solicitadas foram prestadas às fls. 496-512.
+O Ministério Público Federal manifestou-se às fls. 519-521, opinando pelo desprovimentodo recurso.
+É o breverelatório. Decido.
+Em consulta ao endereço eletrônico do Tribunal de Justiça do Estado de Minas Gerais,constata-se que, 11/06/2021, foi proferida sentença na qual o ora Recorrente foi condenado às penas de 5(cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa, como incurso no art. 33,caput, da Lei n. 11.343/2006.
+Na ocasião, o Juízo sentenciante manteve a segregação cautelar do Recorrente, consignando,in verbis: "Em face desta sentença, engo aos sentenciados Lúcio Mauro e Lucas Silvério o direito de recorrerem em liberdade, e, em razão disso, ratifico integralmente a decisão de decreto de prisão preventiva de fls. 52/53, nos autos em apenso, de nº 4988-6/20, a qual adoto os mesmos fundamentos,acrescentando que o sentenciado Lúcio Mauro é reincidente, além de terem sido condenados a crime equiparado a hediondo e, para evitar a disseminação de drogas nesta Cidade, levando jovens e idosos ao flagelo e a dependência química, e para o restabelecimento da paz social, garantindo a preservação da ordem pública, e também para impedir a reiteração criminosa, principalmente no que se refere ao tráfico de drogas, a custódia dos sentenciados é medida que se impõe",vale dizer, mediante fundamentação diversa daquela utilizada para a conversão da prisão em flagrante em preventiva.
+Assim, há novo título a respaldar a custódia cautelar do Recorrente, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram complementadas pelo superveniente fundamento, que ainda não foi objeto de análise pelo Tribunal impetrado.
+Explicite-se: a custódia cautelar, agora, decorre da decisão condenatória de primeiro grau, por meio da qual o Juízo sentenciante deve se pronunciar sobre a necessidade da prisão preventiva, consoante a regra prevista no art. 387, parágrafo único, do Código de Processo Penal, in verbis:
+"Parágrafo único. O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta." (sem grifos no original.)
+A verificação de eventual constrangimento ilegal, pelo desatendimento ao texto legal citado, por se tratar de novo título, em que foram agregados novos fundamentos, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior se adiantar em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso I, alínea c).
+Nesse sentido:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. FORMAÇÃO DE NOVO TÍTULO. REALIDADE JURÍDICO-PROCESSUAL ALTERADA. PREJUDICIALIDADE DA QUESTÃO SUSCITADA NO RHC. PRECEDENTES.
+1. A partir da sentença, a prisão cautelar, se mantida, decorre de novo título judicial. Assim, é em face desse novo contexto que se deve indagar sobre os requisitos da segregação cautelar.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes. (EDcl no RHC n. 78.448/MG, Sexta Turma, DJe 23/3/2017).
+3. Agravo regimental improvido." (AgRg no RHC 94.324/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, inciso XI, do RISTJ, JULGO PREJUDICADO o recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL.TRÁFICO ILÍCITO DE DROGAS. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA SEGREGAÇÃO PROVISÓRIA. NOVO FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL IMPETRADO. IMPOSSIBILIDADE DE APRECIAÇÃO. PEDIDO RECURSAL PREJUDICADO.
