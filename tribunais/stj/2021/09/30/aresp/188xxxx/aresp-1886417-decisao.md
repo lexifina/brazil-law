@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de HUGO ENEAS SALOMONE contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça de São Paulo, assim ementado:
+"Adjudicação compulsória. Compromisso de venda e compra de imóvel. Loteamento Parque Savoy City. Cerceamento de defesa. Não configuração. Matéria cuja apreciação prescinde de dilação probatória (art. 370 do CPC/2015). Exceção de contrato não cumprido. Prescrição ocorrente no mesmo prazo que a pretensão (art. 190 do CC). Transcurso do prazo de 05 anos (CC, art. 206, § 5º, inc. I) desde o vencimento da última parcela até o ajuizamento desta ação. Causas impeditiva, suspensiva ou interruptiva de fluência do prazo prescricional não verificadas (arts. 197 a 201 e 202 do CC). Pretensão de cobrança do preço fulminada pela prescrição, afastando, assim, a necessidade de prova da quitação. Ausência da outorga da escritura. Requisitos para a adjudicação preenchidos. Precedentes. Recurso desprovido."
+(e-STJ fl. 254)
+Nas razões do recurso especial, oagravantealegouviolação dos arts.125,199, I , e 475 do Código Civil e 32 e38§1º, da Lei 6.766/79. Asseverou ter cumprido sua parte no contrato e que o pagamento das parcelas pelos adquirentes do lote passou a ser feito por meio de depósito judicial por determinação do Município de São Paulo. Sustentou que essa determinação dedepósitoresultou em suspensão do prazo prescricional, o qual não poderia ter sido reconhecido. Defendeu que, mesmo que o direito de exigir as prestações estivesse prescrito, remanesceria o direito potestativo de rescisão do contrato, o qual sustenta ser perpétuo e imprescritível.
+Contraminuta apresentada àsfls. 310/315.
+É o relatório. Decido.
+De início, nota-se que o acórdão recorrido não emitiu nenhum juízo de valor acerca do conteúdo normativo125 e 475 do Código Civil e 32 da Lei 6.766/79 ou da imprescritibilidade do direito potestativo à rescisão. Tampouco, verifica-se dos autos a oposição de embargos de declaração, a fim de provocar o Tribunal a enfrentar essasquestões. Desse modo, o recurso especial não atendeu aoimprescindível requisito de prequestionamento, o que atrai a incidência do óbice das Súmulas 282 e 356 do STF.
+Outrossim, no que se refere ao reconhecimento da prescrição, extrai-se do acórdão recorrido a seguinte fundamentação:
+"Restara incontroverso que as prestações alcançaram o número de 144, sendo que a autora trouxera aos autos os comprovantes do pagamento das prestações da compra e venda (fls. 33/59), com elaboração, ainda, de planilha em que constam, discriminadamente, os valores pagos (fls. 60/63),vencendo-se a última das parcelas em 20/06/2000.
+Nestes termos, quando da entrada em vigor do Código Civil atual (em 12/01/2003) não havia transcorrido mais da metade do prazo prescricional de 20 anos (CC/1916, art. 177),contados do vencimento da última parcela.
+E reduzido o prazo prescricional para 5 anos (CC, art. 206, § 5º, inc. I), aplicável, por força do artigo 2.028 do Código Civil, o novo prazo a contar da data da entrada em vigor do Diploma Legal.
+Portanto, a pretensão do réu de cobrar as parcelas eventualmente inadimplidas pelos autores prescreveu em20/06/2005.
+Nesse percurso, tendo a presente ação de adjudicação sido promovida em 15/12/2017, evidentemente já fluíra aquele prazo prescricional para o réu promover a cobranças das parcelas que alega estarem inadimplidas.
+ ..
+E nem se cogite em causa suspensiva da prescrição, como afirma o réu, pelo fato de ter sido obrigado a se adaptar às novas exigências de cunho urbanístico e social da Lei nº. 6.766/79, com ulterior determinação para que os compradores efetuassem o pagamento das parcelas em conta judicial administrada pela Prefeitura Municipal de São Paulo.
+ ..
+De todo modo, a Prefeitura Municipal de São Paulo expediu o auto de regularização do "Loteamento Parque Savoy City" publicado em 19/01/2006.
+No entanto, o réu permanecera inerte por quase 10 anos contados entre aquela data e o ajuizamento da presente ação, não havendo comprovação da existência de qualquer causa impeditiva, suspensiva ou interruptiva de fluência do prazo prescricional (arts. 197 a 201 e 202 do CC)."
+(e-STJ fls. 256-263)
+Nesse contexto, fica evidente que os argumentosaduzidos pelo agravanteacerca da suspensão do prazo prescricional não são aptos a impugnar, ainda que em tese os fundamentos da decisão agravada. Assim, aplica-se, ao caso, a Súmula 283/STF.
+Com esses fundamentos, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
