@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MANOEL DA MOTA NETO, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE IMPROBIDADE ADMINISTRATIVA - DISPONIBILIDADE REMUNERADA - AUSÊNCIA DE MOTIVAÇÃO E INTERESSE PÚBLICO - DANO AO ERÁRIO COMPROVADO - RESSARCIMENTO - POSSIBILIDADE - SENTENÇA MANTIDA - RECURSOS DESPROVIDOS" (fl. 634e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 649/652e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - REAPRECIAÇÃO DA MATÉRIA - INADEQUAÇÃO DA VIA ELEITA - OMISSÃO - AUSÊNCIA - REJEIÇÃO" (fl. 678e).
+Nas razões do Recurso Especial (fls. 684/691e), interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 10, 489, § 1º, l e IV, 492 e 1.022do CPC/2015.
+Alegou que houve julgamento extra petita. Afirmou que nana peça exordialo Município"limitou os fatos de improbidade como aqueles que supostamente teriam violadoos princípios da administração pública, nos termos do art. 11 da Lei de Improbidade, em nada mencionado um suposto dano ao erário" (fl. 688e).
+Aduziu a existência de deficiência na fundamentação sob o fundamento de obscuridade não aclarada.
+Contrarrazões, a fls. 721/729e.
+Inadmitido o Recurso Especial (fls. 742/745e), foi interposto o presente Agravo (fls. 750/760e).
+Contraminuta, a fls. 889/891e.
+A irresignação não merece prosperar.
+Em relação aos arts. 489 e1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+Além disso, cumpre ressaltar que, nas razões do Recurso Especial, o recorrente indica violação aos arts. 10, 492 e 1.022 do CPC/2015, sob o fundamento de que o Tribunal de origem"manteve o vício da r. sentença proferida, sendo ambos extra petita" e que provocado "sobre a matéria de ordem pública no qual consiste em vício nas decisões por reconhecer a existência de dano ao erário, quando esta sequer foi questionada na exordial do Município de Itabirito" (fls. 690/691e).
+Contudo, os referidos argumentos destacados, que sustentam a tese indicada como omissa, não foram objeto das razões da Apelação, em 2º Grau, somente tendo sido suscitados nos Embargos de Declaração, em indevida inovação recursal, afastando-se, por conseguinte, a indicada ofensa ao artigo 1.022 do CPC/2015, bem como aos arts. 10 e 492 do mesmo Código.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para conhecer em parte do Recurso Especial e, nessa extensão, negar-lhe provimento.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 5% (cinco por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
