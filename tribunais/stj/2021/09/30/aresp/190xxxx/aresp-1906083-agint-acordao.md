@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DA SUSPENSÃO DOS PRAZOS PROCESSUAIS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. REGRAMENTO EXPRESSO. ART. 1.003, § 6º, DO CPC/2015.FERIADO NO STJ. IRRELEVÂNCIA PARA VERIFICAÇÃO DE TEMPESTIVIDADE DE RECURSO INTERPOSTO NA ORIGEM. AGRAVO NÃO PROVIDO.
+1. Considerando que o apelo foi interposto sob a vigência do novo CPC, a jurisprudência do Superior Tribunal de Justiça tem aplicado a literalidade da regra contida no art. 1.003, § 6º, do CPC/2015, com o seguinte teor: "O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+2. É inaceitável a ausência de comprovação da suspensão do expediente forense no âmbito da Corte de origem, devendo-se reconhecer a intempestividade do recurso.
+3. "Os recursos interpostos na instância de origem, mesmo que direcionados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça Estadual" (AgRg no AREsp 700.715/MG, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 23/5/2016). Precedentes.
+4. Aparte agravante não comprovou, no ato da interposição do recurso especial, com a devida juntada de certidão oficial, que houve a suspensão dos prazos processuais nos dias 28/10/2020 e 2/11/2020. Logo, inafastável o reconhecimento da intempestividade.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por LEANDRO ARAÚJO DA SILVA contra decisão da Presidência desta Corte que não conheceu do recurso especial, ante o reconhecimento de sua intempestividade (e-STJ, fls. 502-503).
+Alega oagravante que o recurso é tempestivo, pois, nos dias 28/10/2020 e 2/11/2020, não houve expediente forense no Tribunala quo, motivo pelo qual o prazo recursal teria se encerrado em 6/11/2020, dia em que foi protocolado o recurso.
+Argumenta, no ponto, que" ..  não se trata aqui de feriado local, mas sim de feriados nacionais e Ponto facultativo notoriamente conhecido no âmbito do próprio Superior Tribunal de Justiça e do TJMA  .. " (e-STJ, fl. 507).
+Defende, por outro lado, a aplicação do art. 932, parágrafo único, do CPC/2015, que possibilita que seja sanado vício ou complementada a documentação exigível.
+Requer, assim, a reconsideração da decisão ou a submissão do feito ao Colegiado.
+Impugnação apresentada (e-STJ, fls. 516-519).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DA SUSPENSÃO DOS PRAZOS PROCESSUAIS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. REGRAMENTO EXPRESSO. ART. 1.003, § 6º, DO CPC/2015.FERIADO NO STJ. IRRELEVÂNCIA PARA VERIFICAÇÃO DE TEMPESTIVIDADE DE RECURSO INTERPOSTO NA ORIGEM. AGRAVO NÃO PROVIDO.
+1. Considerando que o apelo foi interposto sob a vigência do novo CPC, a jurisprudência do Superior Tribunal de Justiça tem aplicado a literalidade da regra contida no art. 1.003, § 6º, do CPC/2015, com o seguinte teor: "O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso.".
+2. É inaceitável a ausência de comprovação da suspensão do expediente forense no âmbito da Corte de origem, devendo-se reconhecer a intempestividade do recurso.
+3. "Os recursos interpostos na instância de origem, mesmo que direcionados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual" (AgRg no AREsp 700.715/MG, Rel. Min. Ricardo Villas Bôas Cuevas, Terceira Turma, DJe 23/5/2016). Precedentes.
+4. Aparte agravante não comprovou, no ato da interposição do recurso especial, com a devida juntada de certidão oficial, que houve a suspensão dos prazos processuais nos dias 28/10/2020 e 2/11/2020. Logo, inafastável o reconhecimento da intempestividade.
+5. Agravo interno a que se nega provimento.
+VOTO
+Nos termos do Enunciado Administrativo n. 3/STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que o apelo foi interposto sob a vigência do novo CPC, a jurisprudência tem aplicado a literalidade da regra contida no art. 1.003, § 6º, do CPC/2015, com o seguinte teor: "O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso.".
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. DEMOLIÇÃO DE CONSTRUÇÃO EM ÁREA PÚBLICA. DECISÃO MONOCRÁTICA QUE CONSIDEROU O RECURSO ESPECIAL INTEMPESTIVO. APLICAÇÃO DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRETENSÃO DE COMPROVAÇÃO DA TEMPESTIVIDADE NO AGRAVO INTERNO. IMPOSSIBILIDADE.
+I - Aplica-se a este recurso o enunciado administrativo n. 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+II - A parte recorrente foi intimada da decisão que negou seguimento ao recurso especial em 8/8/2016 (fl. 225), sendo o agravo em recurso especial interposto somente em 28/9/2016 (fl. 228). Dessa forma, inadmissível, porquanto intempestivo, eis que interposto fora do prazo de 15 (quinze) dias, nos termos do art. 1.070 do Código de Processo Civil de 2015. O prazo para interposição do agravo em recurso especial encerrou-se em 21/9/2016.
+III - Após a vigência do Código de Processo Civil de 2015, não se admite a juntada posterior, por ocasião da interposição do agravo interno, de documento para a comprovação da tempestividade do recurso. Nesse sentido: AgInt no AREsp 1041706/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 20/04/2017, DJe 02/05/2017; AgInt no REsp 1626179/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/03/2017, DJe 23/03/2017).
+IV - Agravo interno improvido.
+(AgInt no AREsp 1.027.410/AM, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/6/2017, DJe 26/6/2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. PRINCÍPIO DA PRIMAZIA DO MÉRITO. ART. 932, PARÁGRAFO ÚNICO, DO CPC/15. INTIMAÇÃO DO RECORRENTE. INAPLICABILIDADE. REGRA ESPECIAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. OBRIGATORIEDADE. ART. 1.006, § 3º, DO CPC/15. DECISÃO MANTIDA.
+1. Na sistemática do CPC/73, era possível a demonstração da tempestividade em virtude de feriado local ou suspensão do expediente, nos termos do entendimento do STF (RE 626.358 AgR, Rel. Ministro Cezar Peluso, Plenário) e do STJ (AgRg no AREsp 137.141/SE, Rel. Min. Antonio Carlos Ferreira, Corte Especial).
+2. Por sua vez, o art. 1.003, § 6º, do CPC/15 impõe ao recorrente o ônus de comprovar a ocorrência de feriado local ou de suspensão do expediente no ato de interposição do recurso.
+3. Não obstante o princípio da primazia do mérito, o próprio Código de Processo Civil de 2015 estabeleceu expressa obrigatoriedade de comprovação de feriado local ou suspensão do expediente, regra específica que prevalece sobre a regra geral.
+4. Não comprovada a existência de feriado local ou suspensão do expediente no ato da interposição do recurso, nos termos do § 6º do art. 1.003 do CPC/15, deve o relator considerar inadmissível o recurso, independente de intimação, não se aplicando o art. 932, parágrafo único.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt nos EDcl no AREsp 1.016.839/RJ, Rel. Min. NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/6/2017, DJe 29/6/2017).
+Encerrando o debate sobre a questão, a Corte Especial, ao apreciar o AgInt no AREsp 957.821/MS, concluiu pela impossibilidade de comprovação de interrupção de expediente forense posteriormente à interposição de recurso, por força de norma específica contida no novo diploma processual (art. 1.003, § 6º, do CPC/2015).
+Ademais, a despeito da tese de que o STJ também não teve expediente forense nas referidas datas, observa-se que "os recursos interpostos na instância de origem, mesmo que direcionados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual" (AgRg no AREsp 700.715/MG, Rel. Min. Ricardo Villas Bôas Cuevas, Terceira Turma, DJe 23/5/2016).
+Em idêntica direção:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. COMPROVAÇÃO POR DOCUMENTO IDÔNEO. NÃO DEMONSTRADA. DIA DO SERVIDOR PÚBLICO. INEXISTÊNCIA DE FERIADO NACIONAL. RECESSO FORENSE NO STJ. IRRELEVÂNCIA PARA VERIFICAÇÃO DE TEMPESTIVIDADE DE RECURSO INTERPOSTO NA ORIGEM. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência desta Corte, eventual suspensão do prazo recursal, decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, nos tribunais de justiça estaduais, deve ser comprovada por documento idôneo.
+2. Esta Corte adota o posicionamento jurisprudencial de que o dia do servidor público - 28 de outubro - não é feriado nacional. Desse modo, é dever da parte comprovar, nos autos, por documento idôneo, a suspensão do expediente forense no Tribunal de origem, o que não ocorreu na hipótese.
+3. É relevante salientar que "o prazo dos recursos interpostos perante a Corte de origem, ainda que estejam endereçados para este Tribunal Superior, obedecem ao calendário de funcionamento do Tribunal a quo, sendo irrelevante para a verificação da tempestividade do recurso a existência de recesso forense no Superior Tribunal de Justiça" (AgRg no AREsp 67.796/MG, Rel. Min. SÉRGIO KUKINA, Primeira Turma, julgado em 23/6/2015, DJe 5/8/2015).
+4. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp 738.434/MS, Rel. Min. MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/4/2016, DJe 14/4/2016).
+Por conseguinte, verifica-se que a parte não comprovou, no ato da interposição do recurso especial, com a devida juntada de certidão oficial, que houve a suspensão dos prazos processuais nos dias 28/10/2020 e 2/11/2020. Logo, inafastável o reconhecimento da intempestividade.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
