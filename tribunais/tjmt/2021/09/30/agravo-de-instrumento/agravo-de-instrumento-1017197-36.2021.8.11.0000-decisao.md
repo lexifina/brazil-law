@@ -1,0 +1,18 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S.A., com o fito de suspender a decisão que, nos Autos da Ação Declaratória de Inexistência de Débito de no 1028032-57.2021.8.11.0041, ajuizada pelo CONDOMÍNIO FLORAIS ITÁLIA, deferiu o pedido liminar de tutela de urgência, para determinar que a agravante se abstenha de inserir o nome do autor, ora agravado, no banco de dados do SPC e SERASA.
+Para tanto, narra a agravante que o autor, ao argumento de que o valor da fatura destoa da média geral dos meses anteriores, bem como por não ter sido comunicado acerca da realização da perícia no local, pleiteia nos autos de origem a declaração da inexigibilidade da fatura, datada de 25.02.2021, no valor de R$ 13.677,35 (treze mil seiscentos e setenta e sete reais e trinta e cinco centavos), cujo débito foi inscrito no SPC/SERASA.
+Alega que, diferente do alegado pelo condomínio agravado, as faturas cobradas durante o período são dotadas de plena exigibilidade, sobretudo porque foram precedidas de inspeção realizada na unidade consumida, em que se constatou que o medidor da parte autora estava causando desvio de energia elétrica, provocado por ação humana.
+Assim, evidenciada a existência de consumo irregular na unidade consumidora titularizada pelo autor, deve ser mantida a negativação do devedor, nos cadastros de proteção ao crédito.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Na espécie, não decorre da análise da questão posta fundamento bastante para convencer da concessão da liminar recursal pretendida.
+É que, conforme destacado na decisão hostilizada, a determinação para que a agravante promova a exclusão do registro de cadastro de inadimplentes teve pertinência a partir da comprovação de que a negativação se mostrou indevida, em razão do elevado débito exigido e sobre o qual, paira grande controvérsia.
+Nesse passo, mostrou-se evidente o perigo de dano haja vista que a negativa em nome do condomínio agravado, advinda de dívida controvertida, resultará em prejuízos econômicos e embaraços nas relações comerciais do autor.
+Assim, não há por onde atender a súplica da agravante, pois não atendido a contento, os pressupostos da tutela jurisdicional pretendida, razão pela qual deve ser indeferida a liminar recursal.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
