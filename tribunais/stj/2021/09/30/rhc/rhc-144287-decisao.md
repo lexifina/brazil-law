@@ -1,0 +1,51 @@
+DECISÃO
+CLAUDEMIRO DA ROSA e KARINE ZIQUIEL DA ROSAalegam sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sulno HC n. 5014450-18.2021.8.21.7000.
+Requerem aconcessão de liberdade provisória, por reputarem inidôneos os motivos elencados para decretar a custódia preventiva de ambos. A acusada Karine Ziquiel da Rosa argumenta, também, não haver provas de sua participação no delito epostula a substituição da cautela extrema porprisão domiciliar, por ser mãe de duas crianças de 2 e 3 anos.
+Indeferida a liminar e prestadas as informações solicitadas, o Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+I. Contextualização
+Os pacientes tiveram sua prisão preventiva decretada, pela suposta prática de crime de homicídio qualificado. Na ocasião, o Magistrado de primeiro grau destacou a gravidade do delito, "ocorrido em local público, durante o dia  .. . Não bastasse, a prisão preventiva mostra-se adequada, considerando as circunstâncias em que o fato foi praticado, observada a violência sofrida pela vítima, inclusive com golpe de bastão e posterior disparos de arma de fogo" (fl. 443).
+O Juízo, posteriormente, indeferiu o pleito de revogação das segregações, por entender não haver alteração da situação fática que justificou a decretação da custódia cautelar e ser gravíssimo o delito.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal local, que denegou a ordem. Confira-se (fls. 90-91):
+Quanto à decisão que decretou a prisão preventiva, esta foi idônea e concretamente fundamentada, tendo demonstrado a efetiva necessidade da segregação cautelar, sendo apta, portanto, a sustentar o decreto prisional.
+Conforme se verifica pelos depoimentos da companheira do ofendido, Cátia Carvalho Perera, Luiz teria sido agredido e alvejado por disparos de arma de fogo após ter questionado aos agressores se teriam assediado sua companheira quando esta passou na rua. Além disso, Cátia afirmou ter sido impedida de prestar socorro ao marido. Ela foi precisa ao apontar os ora pacientes, bem como outros dois coinvestigados, como sendo os executores do crime.
+Nesse contexto, é evidente que a eventual liberdade dos pacientes constituiria inequívoco abalo à ordem pública.
+ ..
+Outrossim, é notório que a gravidade abstrata do delito não pode servir de fundamento para validar uma prisão preventiva. Todavia, isso não significa dizer que ela não possa ser sopesada no conjunto das circunstâncias que englobam a convicção do Julgador sobre a necessidade de resguardar a ordem pública.
+Destaca-se, também, que, embora a Constituição Federal consagre o princípio da presunção de inocência, deve-se levar em consideração que a mesma Carta permite a prisão provisória no art. 5º, LXI e LXVI, não havendo qualquer relação entre um decreto prisional preventivo bem fundamentado e a presunção de inocência, como é o caso.
+Mais, as circunstâncias de os pacientes possuírem bons antecedentes e residência fixa, por si sós, não autorizam a liberdade, pois estas alegações não são suficientes para a concessão do writ.
+II. Idoneidade do decreto de prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, são idôneos os motivos apontados para justificar a prisão preventiva dosacusados, por evidenciarem apericulosidade de ambos, revelada pelo modus operandi empregado - homicídio perpetrado em concurso de agentes, depois de a vítima haver questionado os réus se teriam assediado sua companheira, cometido com golpes de bastão seguidos de disparos de arma de fogo-, circunstâncias suficientes, nos termos da jurisprudência desta Corte Superior, para justificar a prisão cautelar. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. TENTATIVA. PREVENTIVA. REQUISITOS DO ART. 312 DO CPP.
+MODUS OPERANDI E FUGA DO DISTRITO DA CULPA. APLICAÇÃO DAS MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. RECURSO IMPROVIDO.
+1. Reveste-se de legalidade a prisão cautelar quando baseada em elementos concretos, nos termos do art. 312 do CPP, consubstanciados na fuga do distrito da culpa e na gravidade da conduta praticada pelo agravante, que, mediante disparos de arma de fogo, tentou matar a vítima, agindo por motivo fútil e à traição ou outro recurso que dificultou-lhe a defesa, não logrando êxito por circunstâncias alheias à sua vontade.
+2. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 146.217/PE, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF da 1ª Região -, 6ª T., DJe 31/8/2021)
+III. Impossibilidade de substituição por prisão domiciliar
+Importante mencionar o recente precedente da Segunda Turma do Supremo Tribunal Federal, nos autos do HC n. 143.641/SP, que, em 20/2/2018, concedeu habeas corpus coletivo "para determinar a substituição da prisão preventiva pela domiciliar - sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 do CPP - de todas as mulheres presas, gestantes, puérperas, ou mães de crianças e deficientes sob sua guarda  .. , enquanto perdurar tal condição" (Rel. Ministro Ricardo Lewandowski, DJe 9/10/2018).
+Foram excetuados na impetração os casos de crimes praticados por elas: a) mediante violência ou grave ameaça; b) contra seus descendentes ou, ainda, c) em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício. O habeas corpus comportou concessão, porquanto o aresto combatido não havia indicado nenhuma das ressalvas em apreço.
+Tal julgado confere concretude à Lei n. 13.257/2016 (Estatuto da Primeira Infância), a qual prevê a formulação e a implementação de políticas públicas para as crianças que estão na "primeira infância" - período que abrange os primeiros seis anos completos de vida do infante.
+A referida lei estabelece um conjunto amplo de ações prioritárias que devem ser observadas na primeira infância (0 a 6 anos de idade), mediante "princípios e diretrizes para a formulação e implementação de políticas públicas para a primeira infância em atenção à especificidade e à relevância dos primeiros anos de vida no desenvolvimento infantil e no desenvolvimento do ser humano" (art. 1º), em consonância com o Estatutoda Criança e do Adolescente.
+A novel legislação, que consolida, no âmbito dos direitos da criança, a intersetorialidade e a corresponsabilidade dos entes federados, acaba por resvalar em significativa modificação no Código de Processo Penal, imprimindo nova redação ao inciso IV do seu art. 318, além de acrescer-lhe os incisos V e VI. Nos termos do inciso V deste dispositivo legal, basta que a investigada ou a ré tenha filho de até 12 anos de idade incompletos para obter, em tese, direito à prisão domiciliar.
+É perceptível que a alteração e os acréscimos feitos ao art. 318 do Código de Processo Penal encontram suporte no próprio fundamento que subjaz à Lei n. 13.257/2016, notadamente a garantia do desenvolvimento infantil integral, com o "fortalecimento da família no exercício de sua função de cuidado e educação de seus filhos na primeira infância" (art. 14, § 1º).
+Ademais, com a publicação, em 20/12/2018, da Lei n. 13.769/2018, foram incluídos no Código de Processo Penal os seguintes dispositivos (grifei):
+Art. 318-A. A prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que:
+I - não tenha cometido crime com violência ou grave ameaça a pessoa;
+II - não tenha cometido o crime contra seu filho ou dependente. Art. 318-B. A substituição de que tratam os arts. 318 e 318-A poderá ser efetuada sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 deste Código.
+Quanto ao assunto, o acórdão combatido asseverou que, embora a recorrentetenha dois filhos menores de doze anos de idade, "não se afigura possível a concessão de prisão domiciliar, em virtude de ter sido o crime investigado cometido com violência contra a pessoa, nos termos do art. 318-A, I do CPP" (fl. 92, grifei).
+Tal compreensão, está de acordo com a jurisprudência do STJ. A propósito:
+ ..
+4. Os requisitos para a concessão da prisão domiciliar não foram preenchidos, considerando que o caso envolve crime de homicídio qualificado, em concurso de agentes, envolvendo facções criminosas.
+Assim, embora a recorrente possua filhos menores e, mesmo diante da necessidade de observância à doutrina da proteção integral às crianças, tem-se que o caso concreto não permite a concessão da prisão domiciliar, diante da expressa vedação legal, contida no inciso I do art. 318-A do CPP.
+5. Recurso em habeas corpus desprovido.
+(RHC n. 140.509/CE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/8/2021)
+IV.Indícios de autoria - dilação probatória
+Por fim, ressalto que o exame dos limites da participaçãoda ré na empreitada criminosa demandaria ampla dilação probatória, incompatível com a via estreita do habeas corpus. Nesse sentido:
+ ..
+2. A moldura fática delineada pelas instâncias ordinárias evidencia a presença de indícios suficientes da participação da acusada na atividade ilícita, até mesmo com o envolvimento de seu irmão adolescente na tentativa de ocultar drogas e destruir documentos. Logo, para rever esse entendimento, seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.  ..  (HC n. 510.012/PR, Rel. Ministro Rogerio Schietti, 6ª T., DJe 9/9/2019)
+V. Dispositivo
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
