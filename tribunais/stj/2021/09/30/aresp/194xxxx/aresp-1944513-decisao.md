@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto pelo BANCO DO BRASIL SA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: cumprimento individual de sentença proferida em ação civil pública, requerido por ADAO ARI MIELCZARSKI e OUTROS, em face do agravante, na qual pretendem o ressarcimentodas diferenças apuradas nos pagamentos das prestações de empréstimos tomados por meio de Cédula de Crédito Rural, no período de março de 1990.
+Decisão interlocutória: reconheceu a incompetência absoluta da Justiça Federal e determinou a remessa dos autos à Justiça Comum Estadual.
+Acórdão: negou provimento ao agravo interno interposto pelo agravante, nos termos da seguinte ementa:
+ADMINISTRATIVO. PROCESSUAL CIVIL. CONSTITUCIONAL. AÇÃO CIVIL PÚBLICA Nº 94.008514-1. CÉDULA RURAL PIGNORATÍCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. LEGITIMIDADE PASSIVA BANCO DO BRASIL. MP 2.196-3/2001. SOLIDARIEDADE ENTRE OS DEVEDORES. LITISCONSÓRCIO PASSIVO NECESSÁRIO. DESNECESSIDADE. CHAMAMENTO AO PROCESSO. IMPOSSIBILIDADE NA FASE EXECUTIVA. EXECUÇÃO DIRECIONADA APENAS CONTRA O BANCO DO BRASIL. COMPETÊNCIA. ART. 109,I. CF/88. SÚMULAS 508 E 556 DO STF. PRECEDENTES DO STJ.
+1. Na Ação Civil Pública nº 94.008514-1, ajuizada pelo Ministério Público Federal perante a Justiça Federal do Distrito Federal, foi reconhecida que, para os financiamentos rurais pignoratícios tomados com recursos da poupança, deveriam ser reajustados, para o mês de março de 1990, pelo BTNF(correspondente ao percentual de 41,28%), e não pelo IPC (de 84,32%).
+2. Embora tenha sido reconhecida, na ação civil pública originária, a solidariedade entre o Banco do Brasil, União e Banco Central, não há necessidade de formação de litisconsórcio passivo necessário para buscar acobrança dos valores devidos com fundamento no título judicial (art. 275 do CC e precedentes desta Corte).
+3. Logo, mesmo sendo o caso de solidariedade entre os devedores, porém estando o credor autorizado contra quem deseja direcionar a execução, pois afastada a exigência de formação do litisconsórcio passivo necessário, e tendo optando por ajuizar apenas em face do Banco do Brasil, sociedade de economia mista, não há fundamento, à luz do disposto no art. 109, I, da CF/88, que justifique a atração da demanda para a Justiça Federal. Por outro lado, ainda que se busque apoio no art. 516, inc. II, do CPC/2015, tal dispositivo legal não pode constituir fundamento para superar o comando de natureza constitucional, este aplicável somente aos casos expressamente nele previstos, ou seja, quando houver o interesse dos entes lá elencados.
+4. A jurisprudência do STJ é assente no sentido da impossibilidade de chamamento ao processo na fase de execução (cumprimento) de sentença, e, ainda que fosse possível, não poderia ser admitido em face da inexistência de identidade de ritos. Ou seja, enquanto a União e o BACEN estão submetidos ao regime de precatório, o Banco do Brasil segue o regime de execução comum.
+5. Na mesma direção do comando constitucional, o STF editou a Súmula nº 508 (Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S. A.), cuja leitura, em conjunto com a Súmula 556 do mesmo Tribunal (É competente a Justiça Comum para julgar as causas em que é parte sociedade de economia mista),confirma a necessária revisão de entendimento acerca da competência sobre a questão.
+6. Embora este Tribunal venha admitindo o processamento na Justiça Federal do cumprimento individual da sentença proferida na Ação Civil Pública nº 94.008514-1, necessário revisar o entendimento para adequar-se à posição do STJ no sentido de atribuir a competência para o julgamento dos feitos em que o exequente optou por ajuizar apenas em face do Banco do Brasil à Justiça Estadual (AREsp 1642795/RS, REsp 1812319/RS, AREsp1608199/RS, AREsp 1531963/RS, AREsp 1361998/SP, AREsp1608188/RS, AREsp1518676/D, REsp 1812394/RS, REsp 1822728/RS e AREsp 1532021/RS).
+Embargos de declaração: interpostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts.2º, IV, da MP n. 2.196-3/01; 109, I, da CF/88; 130, III, 131, 516, II,1.022 e 1.025 do CPC/15 e 93 e 98,§ 2º, do CDC, bem como dissídio jurisprudencial.Além de negativa de prestação jurisdicional, sustenta a competência absoluta da Justiça Federal. Aduz a possibilidade de chamamento da União Federal e do Banco Central ao processo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 1.022 do CPC/15
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 2º, IV, da MP n. 2.196-3/01, 130, III, 131, 516, II, e 1.025 do CPC/15 e 93 e 98, § 2º, do CDC.
+- Da existência de fundamento não impugnado
+O agravante, em relação ao chamamento ao processo dos devedores solidários, não impugnou os seguintes fundamentos utilizados pelo TRF da 4ª Região:
+Não é cabível o chamamento ao processo no caso, porque o chamamento ao processo é instituto típico da fase de cognição, que visa à formação de litisconsórcio passivo facultativo por vontade do réu, a fim de facilitar a futura cobrança do que for pago ao credor em face dos codevedores solidários ou do devedor principal, por meio da utilização de sentença de procedência como título executivo (art. 132, do CPC/2015). Não cabe sua aplicação, assim, em fase de cumprimento de sentença, que se faz no interesse do credor, a quem, como dito, é dada a faculdade de exigir, de um ou mais codevedores, parcial ou totalmente, a dívida comum (art. 275, do CC).
+(..)
+De outro lado, mesmo que fosse viável o chamamento na faseexecutiva, neste feito isso não seria admitido, porquanto inexiste a identidadede ritos. Ou seja, enquanto a União e o BACEN estão submetidos ao regime deprecatórios, o Banco do Brasil segue o regime de execução comum.
+Portanto, inviável deferir o chamamento ao processo também pela incompatibilidade de ritos que seriam adotados. (e-STJfl. 89).
+Assim, não impugnados esses fundamentos, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+- Da Súmula 568/STJ
+O TRF da 4ª Região, ao decidir pela competência da Justiça Comum Estadual, alinhou-se ao entendimento do STJ, consolidado com a edição da Súmula 508/STF, no sentido de que "compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S. A.".
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE SÚMULA. DESCABIMENTO.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Cumprimento individual de sentença proferida em ação civil pública.
+2.A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
