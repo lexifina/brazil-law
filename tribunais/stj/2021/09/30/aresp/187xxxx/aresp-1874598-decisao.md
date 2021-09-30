@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por ARTHUR DE TOLEDO ALMEIDA e outra contra decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal,manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 396):
+APELAÇÃO CÍVEL - "AÇÃO DE COBRANÇA" - ARGUIÇÃO DE INTEMPESTIVIDADE DO RECURSO DE APELAÇÃO - NÃO VERIFICAÇÃO -JUNTADA DE DOCUMENTO, APÓS A SENTENÇA - DESINFLUÊNCIA -QUESTÃO QUE PODE SER DIRIMIDA COM BASE NOS DEMAIS DOCUMENTOS ACOSTADOS AOS AUTOS - ESCRITURA PÚBLICA DE CONFISSÃO DE DÍVIDA -NATUREZA DE TÍTULO EXECUTIVO EXTRAJUDICIAL - CERTIFICAÇÃO POR TABELIÃ DE QUE TODOS OS ENVOLVIDOS (DEVEDOR, FIADOR E CREDOR) PARTICIPARAM DO ATO E ANUÍRAM COM A SUA CONFECÇÃO - ARTIGO 405 DO CÓDIGO DE PROCESSO CIVIL - VALIDADE DA ESCRITURA PÚBLICA DE CONFISSÃO DE DÍVIDA TAMBÉM COM RELAÇÃO AO FIADOR - LITIGÂNCIA DE MÁ-FÉ NÃO VERIFICADA (ALEGAÇÃO EM CONTRARRAZÕES) - ÔNUS SUCUMBENCIAIS REDISTRIBUÍDOS. RECURSO DE APELAÇÃO PROVIDO.
+A agravante sustenta, nas razões de recurso especial, ofensa aos artigos 238, 489 e 1.022 do Código de Processo Civil; 5º, XXXV, e 93, IX, da Constituição Federal;alegandoa nulidade do acórdão por ausência de fundamentação e, também, nulidade na formação do processo por falta de citação da outra ré.
+Assim delimitada a controvérsia, verifico que o agravo não prospera.
+Anoto, primeiramente, que orecurso especial não é sede própria para discussão de matéria de índole constitucional, sob pena de usurpação da competência
+exclusiva do Supremo Tribunal Federal.
+Ademais, verifico que o recurso especial tem fundamentação genérica e deficiente em relação à alegada ofensa aoart. 489 do CPC,pois não desenvolveargumentação suficiente sobre questão, deixando de apontar os motivos pelos quais entende estar caracterizada a alegada nulidade, o que impede a exata compreensão da controvérsia e atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+De outro lado, a questão da falta de citação da outra ré não foi objeto de debate pelo acórdão recorrido e não foram opostos embargos de declaração para sanar eventual omissão.Incide, assim, os óbices das Súmulas 282 e 356 do STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
