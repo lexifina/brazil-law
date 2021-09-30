@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 658/664) opostos à decisão desta relatoria que negou provimento ao agravo emrecurso especial da embargante (e-STJ fls. 652/656).
+A parte afirma que "é evidente a nulidade que incorre nos autos, visto que oacórdão recorrido deveria ser sido levado para retratação pelo colegiado que havia julgado o recurso originário interposto pela recorrente, e não monocraticamente, como consta na r. decisão de fls. 635/637, no qual singelamente apreciou a matéria recorrida e determinou a remessa dos autos a este Tribunal para que fosse julgado o agravo em recurso especial interposto pela recorrente" (e-STJ fl. 660).
+Em caráter subsidiário, aponta omissão e contradição sobre o montante da cláusula penal invertida.
+Acrescenta que, por meio da petição avulsa de fls. 639/641 (e-STJ), apresentada na origem, "ressaltou que era necessário a aplicação correta da condenação atinente a multa por atraso na entrega da obra, visto que a condenação da multa moratória no caso em tela foi aplicada de maneira mensalem 2% do valor do imóvel, enquanto a cláusula 10.1 do contrato anuído entre as partes prevê, na realidade, a incidência de sobredita multa uma única vez" (e-STJ fl. 662).
+Sem impugnação (e-STJ fls. 667/668).
+É o relatório.
+Decido.
+Diversamente do que alega a parte, aPresidência do TJMG aplicou asistemática do art. 1.040 do CPC/2015. Confira-se o seguinte trecho da decisão de admissibilidade (e-STJ fl. 736):
+Cotejando os autos, no exercício do juízo de conformidade, constato que o entendimento adotado pelo acórdão recorrido amolda-se à orientação consolidada pelo Superior Tribunal de Justiça, restando, portanto, prejudicado o presente agravo emrelação à matéria acima tratada, observados os termos do artigo 1.042, § 2o, do artigo 1.039, parágrafo único, e do 1.040, inciso I, todos do CPC.
+Ressalto que, no presente caso, trazendo as razões que compuseram o agravo oposto questões não contempladas no rito da repetitividade mencionado, e sobre as quais também houve juízo negativo de admissibilidade, torna-se imperiosa, para esgotamento do exercício jurisdicional ora invocado, a remessa da insurgência ao Superior Tribunal de Justiça, quanto à matéria remanescente, para seu exame na forma do artigo 1.042 do Código de Processo Civil.
+Em face do exposto, exercido, portanto, o juízo de conformidade determinado, proceda-se a novo encaminhamento dos presentes autos ao colendo Superior Tribunal de Justiça, com as cautelas de praxe.
+Com efeito, segundo art. 1.040,I, do CPC/2015, "o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior", o que ocorreu.
+No caso, a decisão de admissibilidade defls. 635/636 (e-STJ) negou o seguimento da parte do recurso especial que versava sobre o Tema Repetitivo n. 971/STJ, pelo fato deo acórdão recorrido estar conformeà jurisprudência desta Corte Superior ao admitir, em benefício dos compradores, a inversão da cláusula penal, prevista para a hipótese de mora da vendedora.
+Além disso, determinou a remessa do agravo do art. 1.042 do CPC/2015 a esta Corte Superior, a fim deassegurar o examedas teses remanescentes.
+Logo, não há falar em nulidade.
+E ainda, "consoante dispõe o art. 1.030, § 2º, do CPC/2015, o recurso cabível contra a decisão que nega seguimento a recurso especial, ao fundamento de que o acórdão recorrido está em conformidade com tese fixada em recurso repetitivo (art. 1.030, I, b, do CPC/2015), é o agravo interno" (AgInt no AREsp n. 1.698.797/MS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/3/2021, DJe 17/3/2021).
+Por esse motivo, a parte deveria discutir,no agravo interno previsto no § 2º do art. 1.030 do CPC/2015, eventual omissão na origem sobre a periodicidade da multa invertida ou error in procedendoda decisão de admissibilidade, por ser esse o único recurso cabível contra tal provimento, sendo, desse modo, descabido trazer a discussão no recurso declaratóriooposto à decisão desta relatoria que negou provimento ao agravo nos próprios autos.
+A discussão sobre a periodicidade da cláusula invertida constitui inovação recursal, por falta de arguição oportuna no especial (e-STJ fls. 502/503).
+A propósito, "na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar em inovação recursal, a qual é considerada indevida em virtude da preclusão consumativa" (AgInt no REsp n.1.909.740/DF, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/8/2021, DJe 2/9/2021).
+Ressalte-se ainda que a contradição que dá ensejo aos aclaratórios é a interna, quando, no contexto do próprio aresto embargado, existem afirmações inconciliáveis, situação não verificada nos presentes autos. A esse respeito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+(..)
+2. A contradição apta a abrir a via dos embargos declaratórios é aquela interna ao decisum, existente entre a fundamentação e a conclusão do julgado ou entre premissas do próprio julgado, o que não se observa no presente caso.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AgInt no AREsp n. 927.559/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/4/2017, DJe 28/4/2017.)
+Na verdade, sob o pretexto de ver sanados supostos vícios de fundamentação, a parte traz argumentos referentes ao mérito do recurso, o qual foi exaustivamente enfrentado. O fato de a embargante não concordar com a conclusão do julgamento não configura negativa de prestação jurisdicional.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
