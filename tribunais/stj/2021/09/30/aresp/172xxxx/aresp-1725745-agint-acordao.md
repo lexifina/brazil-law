@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face da decisão de fls. 312 - 315, e-STJ, por meio da qual neguei provimento ao agravo em recurso especial com base na aplicação da Súmula 7 do STJ, e no fundamento de que a conclusão adotada na origem está em consonância com a jurisprudência desta Corte Superior, no sentido de que a correção monetária incidente sobre o DPVAT apenas é devida quando o pagamento ultrapassar o prazo de 30 dias contados da data do evento danoso.
+A parte agravante alega que: "O STJ no REsp Nº 1.483.620/SC, julgou e entendeu que a correção monetária se da data do acidente - trata-se de precedente obrigatório que deve ser seguido" ; bem como que: "A Súmula nº 580 do STJ, determina: "A correção monetária nas indenizações do seguro DPVAT por morte ou invalidez, prevista no parágrafo 7º, artigo 5º da lei 6.194/74, redação dada pela lei 11.482/07 incide desde a data do evento danoso" (e-STJ, fl. 319).
+Refuta a aplicação da Súmula 7/STJ.
+A parte agravada apresentou impugnação às fls. 334 - 338 (e-STJ), pugnando pela aplicação da Súmula 182/STJ, por ausência de rebatimento ao óbice da Súmula 7/STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo não comporta acolhimento.
+Transcrevo, a seguir, a decisão recorrida (fls. 312 - 315, e-STJ):
+Em virtude das razões expostas na petição de fls. 292 - 298, reconsidero a decisão de fls. 287 - 289, proferida pela Presidência desta Corte Superior, que não conheceu do agravo em recurso especial com base na ausência de impugnação ao fundamento consistente na aplicação da Súmula 7/STJ, uma vez que houve o devido rebatimento ao tema em apreço na petição de agravo em recurso especial (mais especificamente à fl. 272, e-STJ), e passo à nova análise do recurso especial interposto contra acórdão assim ementado:
+DPVAT. Perícia judicial que afirma a ausência de invalidez permanente.
+Atualização do valor que somente é devida na hipótese de não pagamento do seguro pela consorciada. Ação improcedente. Ônus da sucumbência que compete ao Autor dada a manutenção da sentença. Recurso desprovido
+Nas razões do recurso especial, alega o agravante a existência de divergência processual e violação ao artigo 884 do Código de Trânsito Brasileiro.
+Defende o direito à correção monetária dos valores recebidos administrativamente a título de DPVAT.
+Sopesa que (e-STJ ,fl. 222): "A Súmula nº 580 do STJ, determina: "A correção monetária nas indenizações do seguro DPVAT por morte ou invalidez, prevista no parágrafo 7, artigo 5º da lei 6.194/74, redação dada pela lei 11.482/07 incide desde a data do evento danoso"".
+Aduz a ocorrência de fato incontroverso na hipótese, com o intuito de reforçar o pleito de correção monetária.
+Foram apresentadas contrarrazões às fls. 252 - 256 (e-STJ), pugnando pela manutenção da decisão agravada.O recurso não foi admitido na origem, nos termos da decisão de fls. 257 - 260 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Não assiste razão à parte agravante.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Inicialmente, verifica-se que a alegação de fato incontroverso não foi tratada no acórdão local ou no acórdão em embargos de declaração proferido na origem, carecendo do necessário prequestionamento a viabilizar sua discussão na presente oportunidade.
+Não há que se cogitar, ademais, a ocorrência do prequestionamento ficto, nos termos do artigo 1.025 do Código de Processo Civil, haja vista que esse pressupõe a indicação de violação do artigo 1.022 do mesmo Diploma, o que não ocorre no caso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. NECESSIDADE DE ADUZIR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. LEGITIMIDADE PASSIVA. SÚMULA 7/STJ. DEVER DE INDENIZAR. CONFIGURAÇÃO. SÚMULA 7/STJ.
+1. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+2. A Corte de origem, soberana na análise do arcabouço fático- probatório dos autos, consignou existir a legitimidade passiva do ora recorrente para figurar na relação jurídica processual tendo em vista tanto o contrato de prestação de serviços de plano de saúde celebrado entre os ora agravados, quanto o convênio firmado entre o plano de saúde e o hospital, ora recorrente. A reforma do aresto hostilizado demandaria revolvimento do material fático probatório dos autos e interpretação contratual, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+3. É inviável, na hipótese vertente, a análise da presença ou não dos requisitos ensejadores da responsabilidade civil, porquanto demandaria análise do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno não provido.(AgInt no AREsp 1144413/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/11/2017, DJe 14/11/2017)
+Nesse contexto, cumpre registrar que é assente nesta Corte Superior, o entendimento segundo o qual a correção monetária incidente sobre o DPVAT apenas é devida quando o pagamento ultrapassar o prazo de 30 dias contados da data do evento danoso. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. DPVAT. PAGAMENTO DA INDENIZAÇÃO NO PRAZO LEGAL, NA VIA ADMINISTRATIVA. INAPLICABILIDADE DO TEXTO DA SÚMULA 580/STJ. AUSÊNCIA DE DIREITO À CORREÇÃO MONETÁRIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido (AgInt no AREsp 1686216 / SE, Relator:
+Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, Julgamento, 19/10/2020, DJe 26/10/2020)
+Por outro lado, a Corte de origem, ao afastar a pretensão em análise, destacou que não houve comprovação de que o pagamento ocorreu após o prazo de 30 dias, conforme se extrai do trecho do acórdão abaixo reproduzido (e-STJ, fls. 213):
+O Acórdão enfrentou a matéria alegada, nos seguintes termos: ".. A Lei nº 6.194/74 nada dispõe sobre a incidência de correção monetária e seu artigo 5º, §7º, com a redação dada pela Lei nº 11.482/2007, estabelece que a atualização do valor somente é devida na hipótese de não pagamento do seguro pela consorciada: "Os valores correspondentes às indenizações, na hipótese de não cumprimento do prazo para o pagamento da respectiva obrigação pecuniária, sujeitam-se à correção monetária segundo índice oficial regularmente estabelecido e juros moratórios com base em critérios fixados na regulamentação específica de seguro privado".
+Assim, tendo a seguradora efetuado o pagamento administrativo, mesmo diante da ausência da incapacidade, nada mais deve ao segurado.." No precedente a Egrégia Corte Superior determinou que deve ser seguida a forma de atualização monetária prevista na Lei 6.194/74, artigo 5º, §70, o qual estabelece a incidência de correção monetária somente na hipótese de não cumprimento do prazo para pagamento da respectiva obrigação pecuniária, o que não é o caso do desse processo.
+Nesse contexto, a revisão da conclusão adotada na origem, para que se acolha a pretensão de incidência da correção monetária na hipótese, é medida que encontra veto na Súmula 7/STJ, por demandar necessário reexame de fatos e provas.
+Em face do exposto, nego provimento ao agravo.Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+Conforme se verifica, além de a impugnação ao óbice da Súmula 7/STJ ser genérica e não se reportar em nenhum momento à hipótese dos autos, a parte agravante não impugnou o fundamento da decisão agravada, de que a conclusão adotada na origem está em consonância com a jurisprudência desta Corte Superior, no sentido de que a correção monetária incidente sobre o DPVAT apenas é devida quando o pagamento ultrapassar o prazo de 30 dias contados da data do evento danoso.
+No ponto, cumpre esclarecer que a tese da parte agravante, de que o entendimento exarado em sede de recurso repetitivo no julgamento do REsp Nº 1.483.620 /SC seria aplicável ao caso dos autos, não guarda dialeticidade com o fundamento em análise, posto que, no caso do recurso repetitivo, a controvérsia dirimida dizia respeito unicamente à fixação da data correspondente ao termo inicial da correção monetária, se a partir da publicação da MP 340/2006, ou se a partir da data do evento danoso, não havendo nenhum juízo de valor acerca do direito à correção monetária em si quando efetuado o pagamento no prazo de 30 dias, tema tratado na presente demanda.
+Nesse contexto, cabe ressaltar que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos nos arts. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil, e pela aplicação, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+Nesse sentido, cito os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 968.815/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 7/2/2017, DJe 10/2/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, o não conhecimento do agravo em recurso especial por ter sido apresentado em desacordo com os requisitos do art. 544, § 4º, I, do CPC/73. Incidência da Súmula nº 182 do STJ e violação do art. 1021, § 1º, do NCPC.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 878.403/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/6/2016, DJe 23/6/2016)
+Imprescindível, portanto, para o conhecimento do recurso, que seja feita a impugnação específica de todos os seus motivos determinantes, explicitando-se, de forma articulada e argumentativa, as razões que justificariam a prolação de decisão em sentido diverso.
+Em face do exposto, não cumprida a exigência constante do art. 1.021, § 1º, do Código de Processo Civil, não conheço do agravo interno.
+É o voto.
