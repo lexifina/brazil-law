@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por AGUINALDO DOS SANTOS TEIXEIRA, contra decisão monocrática que, conheceu do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, conheceu do recurso especial e negou-lhe provimento.
+Ação: liquidação de sentença, ajuizada por AGUINALDO DOS SANTOS TEIXEIRA, em face de BOA VISTA SERVIÇOS S/A e SERASA S/A.
+Sentença: julgou extinto o presente incidente de liquidação de sentença, sem resolução do mérito, com fundamento no art. 485, VI, do Código de Processo Civil, porque o agravante não tem interesse de agir.
+Acórdão: negou provimento à Apelação interposta pelo agravante, nos termos da seguinte ementa:
+"Ação declaratória de liquidação de sentença coletiva - Sentença que extinguiu o feito, sem resolução de mérito, por falta de interesse de agir - Insurgência da parte autora - Descabimento - Alegação de que a data de vencimento do débito que consta no protesto está equivocada - Contudo, os bancos de dados de proteção ao crédito administrado pelas rés utilizaram-se dos dados fornecidos pelo cartório que emitiu o protesto em questão - Logo, eventual erro acerca da data de vencimento não poderia ser imputada aos órgãos apelados, visto que apenas arquivaram em seu banco de dados informação publicada pelo cartório, dotado de fé pública, que registrou o título em questão - Deste modo, a responsabilidade suscitada não pode recair sobre às apeladas, vez que tão somente espelharam informação do protesto, pelo prazo máximo permitido em lei, qual seja, cinco anos a partir da data de vencimento que consta no título - Assim, resta incontroverso que a presente demanda fora ajuizada anteriormente ao final do prazo máximo de permanência de anotação no cadastro de inadimplentes, tal como previsto pelo REsp nº 1.630.889/DF - Deste modo, a sentença deve ser confirmada por seus próprios fundamentos, os quais ficam inteiramente adotados, nos termos do art. 252 do Regimento Interno do TJSP - Recurso não provido - Sentença mantida. (e-STJ fl. 485)
+Embargos de Declaração: opostos, pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, III, IV, 1.022, II, § único, II, CPC/15. Sustenta a negativa de prestação jurisdicional, uma vez que o acórdão recorrido deveria ter observado unicamente a questão determinante para julgamento do recurso, qual seja, o equívoco na data de vencimento da dívida, conforme a certidão de protesto.
+Decisão monocrática: conheceu do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, conheceu do recurso especial e negou-lhe provimento.
+Razões do agravo interno: sustenta estar presente a negativa de prestação jurisdicional.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE LIQUIDAÇÃO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de liquidação de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por AGUINALDO DOS SANTOS TEIXEIRA, contra decisão monocrática que, conheceu do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, conheceu do recurso especial e negou-lhe provimento.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+O agravante defende a negativa de prestação jurisdicional alegando que, no caso, verificado que a data de vencimento da dívida na certidão de protesto estava equivocada, sendo o verdadeiro vencimento da dívida o dia 16/03/2011, conforme argumentado na apelação, era a única questão determinante para julgamento do recurso.
+No ponto, a Corte local consignou que mesmo se fosse o caso de erro acerca da data de vencimento do débito, o que não restou comprovado, este não poderia ser imputado aos órgãos agravados, vez que apenas arquivaram em seu banco de dados informação publicada pelo Cartório de Protesto de Presidente Prudente/SP, dotado de fé pública, que registrou o título em questão, lavrando-o em 14/11/2014, bem como que não há que se falar na procedência dos pedidos do agravante, uma vez que a presente demanda fora ajuizada em 12/03/2019, anteriormente ao final do prazo máximo de permanência de anotação no cadastro de inadimplentes, qual seja, de 05 (cinco) anos, tal como previsto no julgamento do REsp nº 1.630.889/DF, independentemente de eventual prescrição da execução.
+Assim, o fato de a Corte local ter aplicado o direito que entendia cabível à hipótese e solucionando integralmente a controvérsia submetida à sua apreciação, mesmo em sentido oposto ao pretendido pelo agravante, não configura uma negativa de prestação jurisdicional.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
