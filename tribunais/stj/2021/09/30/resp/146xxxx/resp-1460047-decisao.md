@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por PLANO TECNOLOGIA LASER EM PISOS INDUSTRIAIS LTDA, TERRAMARAS INCORPORADORA LTDA e ZETER TERRAPLENAGEM LTDA fundamentado no art. 105, III, "a" e "c", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal Regional Federal da 3ª Região (TRF 3ª Região), assim ementado (fls. 435/436):
+DIREITO PROCESSUALCIVIL. CONSTITUCIONAL. ADMINISTRATIVO. JUCESP. MANDADODESEGURANÇA. AGRAVO DE INSTRUMENTO. RETENÇÃO. NÃO REITERAÇÃO. REGISTRO DE REESTRUTURAÇÃOSOCIETÁRIA. REGULARIDADE FISCAL. ARTIGO 37 DALEI Nº 8.934/94. MPS/SRP Nº 23/07. ARTIGO 47, I, D, DALEI Nº 8.212/91, REDAÇÃO DA LEI Nº 9.528/97. PRINCÍPIODODEVIDOPROCESSOLEGAL. CONSTITUCIONALIDADE.
+1. Não se conhece de agravo convertido em retido, quando deixa o interessado de reiterar o seu exame em razões ou contra -razões de apelação.
+2. Não padece de fundamento legal a exigência de certidão fiscal para registro de reestruturação societária, vez que, embora a Lei nº8.934/94 nada preveja a respeito, a Lei nº 9.528/97, ao alterar, em data posterior, a Lei nº 8.212/91, instituiu a obrigatoriedade de tal documentação na "transformação ou extinção de entidade ou sociedade comercial ou civil".
+3. A jurisprudência do Supremo Tribunal Federal, firmada em torno do devido processo legal, a fim de evitar que, por coação indireta, seja exigida a adimplência fiscal, deve ser analisada à luz das circunstâncias restritivas criadas para cada situação específica.
+4. Na hipótese, é razoável e proporcional a exigência de certidão fiscal de regularidade, cujo fim não é impedir o livre exercício de atividade econômica, mas garantir a responsabilidade tributária por tributos ou contribuições de alta significação social, por referentes ao custeio da Seguridade Social. Existe, pois, proporcionalidade, adequadamente avaliada pelo legislador, que não impede o direito à livre iniciativa econômica, apenas exige o respectivo exercício com responsabilidade fiscal, essencial à consecução da função social da propriedade privada (artigo 170, CF).
+5. Precedentes.
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 450/458).
+As razões do recurso especial, fundamentadas nas alíneas "a" e "c" do permissivo constitucional, apontam a divergência jurisprudencial e a violação (i) do art. 535 do CPC/73, ao argumento de que haveria equívoco no v. acórdão recorrido ao apresentar fundamentos no sentido de que os recorrentes não teriam apresentado certidões relativas á regularidade fiscal; haveria omissão quanto à tese de que a Instrução Normativa MPS/SRP n. 23/2007 teria extrapolado a mera regulamentaçãoao exigir certidão específica para extinção da sociedade; (ii) do art. 37 da Lei n. 8.934/94 e da Lei n. 8.212/91, porquanto não seria possível exigir certidão não prevista na legislação federal.
+Contrarrazões às fls. 503/532.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+Outrossim, quanto aoart. 37 da Lei n. 8.934/94 e Lei n. 8.212/91, afirma-se que não seria possível exigir certidão não prevista na legislação federal como requisito para extinção de uma sociedade empresária. O eg. TRF 3ª Região, por seu turno, concluiu pela viabilidade dessa exigência, considerando o disposto no art. 47 da Lei n. 8.212/91, bem como no art. 170 da Constituição Federal. Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão objurgado (fls. 431/432):
+Todavia, embora a Lei nº 8.934/94 não preveja a certidão fiscal, a Lei nº 9.528/97, em data posterior, alterou a redação da Lei nº 8.212/91,instituindo a obrigatoriedade de tal documentação para a "transferência de controle de cotas de sociedades de responsabilidade limitada".
+(..)
+A jurisprudência do Supremo Tribunal Federal, firmada em torno do devido processo legal, a fim de evitar que, por coação indireta, seja exigida a adimplência fiscal, deve ser analisada à luz das circunstâncias restritivas criadas para cada situação específica.
+Na hipótese, é razoável e proporcional a exigência de certidão fiscal de regularidade, cujo fim não é impedir o livre exercício de atividade econômica, mas garantir a responsabilidade tributária por tributos ou contribuições de alta significação social, por referentes ao custeio da Seguridade Social. Existe, pois, proporcionalidade, adequadamente avaliada pelo legislador, que não impede o direito à livre iniciativa econômica, apenas exige o respectivo exercício com responsabilidade fiscal, essencial à consecução da função social da propriedade privada (artigo 170, CF).
+Com efeito, o eg. TRF 3ª Região apreciou a controvérsia à luz de fundamento constitucional, mas o recorrente não manejou recurso extraordinário, razão pela qual incide na espécie da Súmula n. 126 do STJ.
+Ademais, não houve impugnação específica do art. 47 da Lei n. 8.212/91, cuja previsão é posterior à Lei n.8.934/94. Incide, portanto, a Súmula n. 283/STF.
+Tais enunciados também impede o abertura do apelo nobre pela alínea "c" do permissivo constitucional.
+Dessa forma, verifica-se que o recurso não merece prosperar.
+Diante do exposto, não conheço do recurso especial.
+Publique-se.
