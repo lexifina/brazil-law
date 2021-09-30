@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Weverton Moreira da Cruz, réu em ação penal que apura a prática, em tese, do crime de tráfico de drogas.
+Ataca-se decisão proferida pelo Tribunal de Justiça do Distrito Federal e dos Territóriosno HC n. 0730269-77.2021.8.07.0000 (fls. 10/11), que manteve a tramitação da Ação Penal n. 0721987-81.2020.8.07.0001, da 1ª Vara de Entorpecentes do Distrito Federal.
+Alega-se constrangimento ilegal consistente em cerceamento de defesa por ausência de intimação da defesa oral no julgamento pela Corte estadual e requer-se a concessão da ordem, inclusive em caráter liminar, para que a defesa tenhaamplo acesso aos elementos de prova produzidos na fase pré-processual (fl. 7).
+É o relatório.
+Inicialmente, tem-se que o mandamus foi impetrado contra a decisão monocrática de Desembargador, relator na Corte local do habeas corpus originário, que indeferiu o pedido liminar.
+Em tais casos, esta Corte, seguindo o preceituado no Enunciado n. 691 da Súmula do Supremo Tribunal Federal, tem entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta. Precedentes nesse sentido: AgRg no HC n. 591.480/PI, Ministro Nefi Cordeiro, Sexta Turma, DJe 18/8/2020; e AgRg no HC n. 575.889/MS, Ministro Jorge Mussi, Quinta Turma, DJe 3/6/2020.
+Registre-se que, para a Suprema Corte, é direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa (Súmula Vinculante n. 14, DJe 27/3/2009).
+A pretensão mandamental foi indeferida no pedido liminar no writ originário, ao fundamento de que, conquanto o impetrante alegue que as declarações da autoridade policial e dos demais agentes prestadas em audiência revelam que há documentos que não foram franqueados à defesa, nota-se que não há nos autos o áudio ou mesmo a transcrição das citadas declarações a evidenciar a tese (fl. 11).
+No caso, sem razão a impetração, pois não se vislumbra prejuízo à defesa em virtude da apresentação de defesa preliminar sem o prévio acesso a provas ainda não concluídas, quando foi assegurado pela Corte a quo que tais provas faltantes não serão levadas em conta para apreciação do recebimento da denúncia pelo Tribunal de Justiça (AgRg na Rcl n. 42.178/MG, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 13/9/2021).
+Conclui-se, então, que a impetração não demonstrou inquestionável teratologia ou ilegalidade manifesta na decisão hostilizada, razão pela qual não se justifica a intervenção prematura deste Superior Tribunal.
+Em razão disso, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. NULIDADE. CERCEAMENTO DE DEFESA. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU O PEDIDO LIMINAR NO MANDAMUS ORIGINÁRIO. AUSÊNCIA DE ACESSO AOS ELEMENTOS DE PROVA DA FASE DE INQUÉRITO. SÚMULA VINCULANTE N. 14/STF. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
