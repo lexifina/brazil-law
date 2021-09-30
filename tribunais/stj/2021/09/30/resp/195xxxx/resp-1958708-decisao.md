@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BRASIL TRADE IMÓVEIS LTDA fundamentado nas alínea"c" do permissivo constitucional.
+Recurso especial interposto em: 28/06/2021.
+Concluso ao gabinete em: 03/09/2021.
+Ação: de obrigação de fazer cumulada com indenizatóriaajuizada por VERONICA SUZANA LUTMEYER em face da recorrente, fundada no atraso na entrega do imóvel.
+Sentença: julgou procedente os pedidospara declarar a resolução do contrato de compra e venda entabulado entre as partes;condenar a recorrente "à restituição do valor de R$118.439,27 em favor da Autora, que deverá ser corrigido desde cada desembolso pelo Índice da Poupança, conforme Cláusula Quarta do contrato, além de juros de mora de 1% a. m., a partir de 05/02/2015, data da constituição da mora da Ré, conforme art. 397, do CC";ao ressarcimento de lucros cessantes correspondente ao valor atual da locação do imóvel negociado, quantia que deverá ser apurada em sede de liquidação de sentença, pela quantidade de dias correspondentes ao período de 05/02/2015 até a data da rescisão contratual.
+Acórdão: negou provimento à apelação da recorrente. A ementa restou assim redigida:
+APELAÇÃO CÍVEL. CONTRATO DE COMPRA E VENDA DE IMÓVELRESIDENCIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM ANTECIPAÇÃODE TUTELA C/C LUCROS CESSANTES E PERDAS E DANOS. ATRASO NAENTREGA. PROCEDÊNCIA DOS PEDIDOS INICIAIS. IRRESIGNAÇÃO. ALEGAÇÃO DE NULIDADE DA R. SENTENÇA POR CERCEAMENTO DEDEFESA. PRELIMINAR AFASTADA. ELEMENTOS PROBATÓRIOSSUFICIENTES. RELAÇÃO DE CONSUMO CONFIGURADA. SOLIDARIEDADE NA CADEIA DE CONSUMO. RESPONSABILIDADE DARÉ CONFIGURADA. CONDENAÇÃO À RESTITUIÇÃO DOS VALORESCOMPROVADAMENTE PAGOS. IMPOSSIBILIDADE DEPARCELAMENTO. LUCROS CESSANTES DEVIDOS.
+O recebimento dos valores devidos pela rescisão contratual de forma imediata e por parcela única constitui um direito potestativo do consumidor e, portanto, inoponível e incontestável, nos termos da Súmula 543 do STJ, não se admitindo o parcelamento.
+RECURSO CONHECIDO E NÃO PROVIDO.
+Recurso especial: aponta dissídio jurisprudencial acerca da interpretação dos arts.722 do CC,12 e 18 do CDC. Argumenta, em suma, que "a condenação da Recorrente à devolução, por solidariedade, dos valores pagos pela Recorrida ao agente financeiro, desconsiderou que a corretagem se perfectibiliza com a aproximação entre o comprador e o vendedor, representado no caso em tela pelo contrato de cessão de direitos, fato, inclusive, incontroverso". Aduz que a jurisprudência do STJ entende que "se não falha no serviço de corretagem não pode a imobiliária ser condenada solidariamente em devolver os valores pagos pelo comprador".
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da legitimidade da recorrente, e de que "o inadimplemento da apelante restou devidamente comprovado, não havendo qualquer causa que seja capaz de excluir sua responsabilidade com relação ao dano sofrido pela autora", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+- Da Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que, apesar de não ter liame jurídico com o consumidor, a corretora pertence, sim, à cadeia de fornecimento do produto, visto se tratar de fenômeno eminentemente econômico, sendo solidária a responsabilidade de todos os fornecedores que se beneficiem da cadeia de fornecimento. Nesse sentido: AgInt no REsp 1.774.288/SP, 3ª Turma, DJe de 30/8/2019; REsp 1.713.537/SP, 3ª Turma, DJe de 15/10/2019; AgInt no REsp 1.811.422/SP, 4ª Turma, DJe de 19/11/2019; AgInt no AREsp 1325013/RJ, 4ª Turma, DJe fr 22/03/2021 AgInt no AREsp 1768177/SP, 3ª Turma, DJe de 06/05/2021.
+Na hipótese, o Tribunal de origem entendeu que não haveria que se falar na ilegitimidade passiva da recorrente, uma vez que se vislumbra solidariedade de todos os envolvidos na cadeia de serviços em face do consumidor, nos termos dos artigos 7º, § único, e 25, § 1º, ambos do CDC. (e-STJ, fls. 429/430), em consonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ, no particular.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% do valor da condenação (e-STJ, fl. 4327) para 14%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZERC/C INDENIZATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer c/c indenizatória.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Apesar de não ter liame jurídico com o consumidor, a corretora pertence, sim, à cadeia de fornecimento do produto, visto se tratar de fenômeno eminentemente econômico, sendo solidária a responsabilidade de todos os fornecedores que se beneficiem da cadeia de fornecimento. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido.
