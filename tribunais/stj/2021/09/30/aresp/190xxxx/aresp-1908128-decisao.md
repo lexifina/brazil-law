@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo nos próprios autosinterposto contra decisão que inadmitiu o recurso especial por aplicação daSúmulan. 7 do STJ (e-STJ fl. 131/134).
+O acórdão recorrido está assim ementado (e-STJ fl. 62):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. BENEFÍCIO DA JUSTIÇA GRATUITA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INEXISTÊNCIA DE ELEMENTOS QUE AFASTEM A ALEGADA HIPOSSUFICIÊNCIA. INDEFERIMENTO DE PLANO PELO JUIZ DE 1º GRAU. DEFERIMENTO DA BENESSE. PROVIMENTO.
+I - Ao tratar da Gratuidade da Justiça, o novo Código de Processo Civil dispõe somente poder ser indeferido o pedido da concessão do benefício se existirem nos autos elementos que evidenciem a faltados pressupostos legais para a concessão da gratuidade, devendo, antes de indeferir o pedido, determinaráparte que comprove a satisfação dos referidos pressupostos. Não bastasse, prevê haver presunção de veracidade da alegação da pessoa natural quanto à sua insuficiência financeira de arcar com as despesas processuais.
+II - para afastar a presunção relativa de que goza a afirmação de hipossuficiência da parte, faz necessária prova irrefutável em sentido contrário.
+III - para haver o indeferimento da benesse pretendida, deve-se decorrer de convicção formada em face dos elementos fáticos existentes nos autos. O que não foi evidenciado no caso.
+IV - agravo de instrumento provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 85/99).
+No recurso especial (e-STJ fls. 102/107), interposto com base no art. 105, III, "a", da CF, orecorrentealegouviolação dos arts. 99, § 3º, e 1.022, II, do CPC/2015.
+Apontouomissão no acórdão recorrido, poisnão se manifestou "sobre a falta de verossimilhança da hipótese da parte adversa ser garantidora de um crédito superior a R$ 300.000,00 (trezentos mil reais) e ganhar apenas uma quantia um pouco superior a R$ 3.000,00" (e-STJ fl. 106).
+Insurgiu-secontra aconcessão da justiça gratuita à recorrida, por ser"garantidora de um financiamento bancário alto eapresenta apenas um pequeno contracheque para provar sua condição financeira"(e-STJ fl. 105).
+Requereu seja determinado àCorte local que defira olevantamento fiscal e bancário da recorrida, por ser"o meio de prova suficiente para que o órgão julgador possa aferir, com mais efetividade, o estado financeiro da parte adversa" (e-STJ fl. 107).
+Foram oferecidas contrarrazões (e-STJ fls. 116/129).
+No agravo (e-STJ fls. 136/139), afirma que é possível analisar ocaso sem reexaminar provas.
+Contraminutaapresentada (e-STJ fls. 144/150).
+É o relatório.
+Decido.
+Não há falar em ofensa aoart. 1.022 do CPC/2015, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu. Na mesma linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CRITÉRIO DE CORREÇÃO MONETÁRIA. IGP-M. LEGALIDADE. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. "Na linha dos precedentes desta Corte, a pactuação do IGPM como índice de correção monetária não encerra ilegalidade ou abusividade.".(AgRg no REsp 1217531/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/05/2015, DJe 19/05/2015).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.935.166/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021.)
+Extrai-se do acórdão dos embargos de declaração (e-STJ fls. 89/90):
+Compulsando os presentes autos, não observo no acórdão embargado o vício salientado pelo embargante que justifique o acolhimento dos aclaratórios.
+Isso porque, bem esclareci no aresto embargado, ao tratar da Gratuidade da Justiça, o novo Código de Processo Civil dispôs somente poder ser indeferido o pedido da concessão do benefício se existirem nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão da gratuidade, devendo, antes de indeferir o pedido, determinar à parte que comprove a satisfação dos referidos pressupostos. Não bastasse, prevê haver presunção de veracidade da alegação da pessoa natural quanto à sua insuficiência financeira de arcar com as despesas processuais.
+Nos autos, também foi analisado que, para afastar a presunção de que goza a afirmação de hipossuficiência da parte faz necessária evidências, prova irrefutável em sentido contrário, uma vez que a apresentação do contracheque, per si é insuficiente para comprovar que a agravante possui condições financeiras de arcar com às custas processuais, sem que lhe acarrete danos patrimoniais, principalmente quando o valor da causa, que é base de calculo para gerar o valor das custas, for de R$ 311.016,42 (trezentos e onze mil e dezesseis reais e quarenta e dois centavos), tendo como valor de custas a pagar, o equivalente a R$ 9.245,10 (Nove mil duzentos e quarenta e cinco reais e dez centavos).
+Observa-se que a análise dos fatos e a concessão da benesse pleiteada, foi baseada pelas provas apresentadas, portanto, diante de qualquer impugnação ao benefício concedido, caberia ao agravado, ora embargante, o ônus de produzir prova contrária à presunção de miserabilidade que goza a agravante. Porém limitou-se a alegar que a beneficiária se omitiu em apresentar o seu real patrimônio.
+Outrossim, inexiste nos autos justificativa razoável para a quebra do sigilo bancário do impugnado, que somente se configura justificável em casos extremos, algumaevidente ilicitude, por exemplo.
+Ressalto que a quebra do sigilo fiscal e bancário, a priori, encontra óbice no artigo 5º, inciso X e XII, da Constituição Federal, que amparam proteção específica do direito à intimidade.
+Logo, a condição de pobreza ou miserabilidade da parte não é relevante para a obtenção deste benefício, uma vez que a concessão se assenta na situação econômica da parte postulante e no prejuízo ocasionado com o pagamento das despesas do processo.
+Dessa forma, deve ser amparado pelo benefício aquele cuja situação econômica não lhe permita satisfazer o ônus processual atinente às custas do processo, os honorários de advogado e de perito sem prejuízo do sustento próprio ou da família, conforme restou demonstrado nos autos.
+Pararever tais conclusões,seria imprescindível nova incursão no conjunto probatório dos autos. Ora, o recorrente alegouque a agravada não faria jus à gratuidade da justiça porquedeixou decomprovarsuficientementea ausência decondições paraarcar com os custos do processo, sendo, portanto,necessária a quebra do sigilo fiscal e bancário.Com efeito, o acolhimento da tese recursal exigiria o reexame de questões fáticas,providência vedada na instância especial, a teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. JUSTIÇA GRATUITA. DEFERIMENTO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+2. A jurisprudência firmada no âmbito desta eg. Corte de Justiça delineia que o benefício da assistência judiciária pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+3. No caso, o Tribunal a quo entendeu estar devidamente comprovada a impossibilidade de a parte ora recorrida arcar com as despesas do processo, não tendo a parte ora recorrente acostado provas que afastassem tal conclusão.
+4. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.050.850/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/05/2017, DJe 23/05/2017.)
+ACorte local, analisando o contexto fático-probatório dos autos, também concluiuque oagravante não comprovou que a parte agravada possuíacondições dearcar com as custas do processo, tal como lhe competia.Para decidir demodo contrário eacolher a pretensão recursal, seria necessário orevolvimento dos fatos e das provas, o que é incabível no especial, ante o óbice contido na Súmula n. 7 do STJ.
+Ademais, o Tribunal de origem decidiu nos termos da jurisprudência destaCorte, que é pacífica ao afirmar que cabe ao impugnantecomprovar aausência dos requisitos legais para a concessão do benefício. Nessesentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇAGRATUITA. REQUISITOS. COMPROVAÇÃO. REAVALIAÇÃO DO CONJUNTOFÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N.7/STJ. IMPUGNAÇÃO AO BENEFÍCIO. CAPACIDADE. ÔNUS DO IMPUGNANTE. DECISÃOMANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquemincursão no contexto fático-probatório dos autos, a teor do que dispõe aSúmula n. 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pela recorrentequanto à ausência de demonstração pela agravada dos requisitos para aconcessão da assistência judiciária gratuita demandaria o revolvimento defatos e provas, o que é vedado em recurso especial.
+3. "Além disso, na hipótese de impugnação do deferimentoda assistênciajudiciária gratuita, cabe ao impugnante comprovar aausência dosrequisitos legais para a concessão do benefício, ônus do qual não seincumbiu a parte ora agravante, segundo assentado pelo acórdão recorrido.Incidência da Súmula 83 do STJ" (AgInt no AREsp 1023791/SP, Rel. MinistroLUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/03/2017, DJe 29/03/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.115.603/RJ, de minha relatoria, QUARTA TURMA, julgado em10/10/2017, DJe 17/10/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA.IMPUGNAÇÃO. PROVA DA CAPACIDADE DO BENEFICIÁRIO. ÔNUS DO IMPUGNANTE.APLICAÇÃO DAS SÚMULAS NºS 7 E 83/STJ. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem, apreciando as peculiaridades fáticas da causa,deferiu o benefício da assistência judiciária gratuita. A modificação detal entendimento lançado no v. acórdão recorrido, como ora perseguida,demandaria a análise do acervo fático-probatório dos autos, o que é vedadopela Súmula 7 do STJ.
+2. Além disso, na hipótese de impugnação do deferimentoda assistênciajudiciária gratuita, cabe ao impugnante comprovar aausência dosrequisitos legais para aconcessão do benefício, ônus do qual não seincumbiu a parte ora agravante, segundo assentado pelo acórdão recorrido.Incidência da Súmula 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.023.791, Relator Ministro LUIS FELIPE SALOMÃO, QUARTATURMA, julgado em 16/3/2017, DJe 29/3/2017.)
+Incide, pois, a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do artigo 85, § 11, do CPC/2015, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se e intimem-se.
