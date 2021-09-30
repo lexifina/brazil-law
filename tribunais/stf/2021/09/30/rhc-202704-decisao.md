@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário em habeas corpus com pedido de liminar interposto por Digo Luciano, assistido pela Defensoria Pública da União, contra decisão da Sexta Turma do Superior Tribunal de Justiça que negou provimento ao AgRg no HC 640.690/SC (págs. 143-148 do documento eletrônico 5).
+    Nestes autos, o recorrente pede:
+    “A) sejam observadas as prerrogativas desta Instituição Defensória de receber intimação pessoal e de contagem em dobro de todos os seus prazos, em conformidade com o artigo 44, incisos I e VI, da Lei Complementar 80/1994;
+    B) sejam os autos remetidos ao Ministério Público para emissão de parecer;
+    C) seja provido o presente recurso ordinário, com a concessão da ordem no presente Habeas Corpus, reformando a decisão atacada, reconhecer o excesso na pena imposta ao paciente, procedidos os reparos necessários nos termos do pedido na inicial deste writ” (pág. 156 do documento eletrônico 5).
+    É o relatório necessário. Decido.
+    Anoto, de início, que o art. 192, caput, c/c art. 312, ambos do Regimento Interno do Supremo Tribunal Federal, facultam ao Relator do recurso ordinário em habeas corpus, denegar ou conceder a ordem, monocraticamente, ainda que de ofício, quando a matéria for objeto de jurisprudência consolidada neste Supremo Tribunal.
+    Nesse sentido, indico os seguintes precedentes: RHC 138.843/MG, Rel. Min. Dias Toffoli; RHC 138.939/BA, Min. Roberto Barroso; RHC 136.727/SP, Rel. Min. Edson Fachin; RHC 135.985/DF, Rel. Min. Gilmar Mendes; e RHC 135.824/SP, de minha relatoria; entre outros.
+    Por esses motivos, passo ao exame do mérito recursal.
+    Transcrevo, por oportuno, a ementa que sintetiza o teor da decisão ora combatida:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. CONSIDERAÇÃO DESFAVORÁVEL DA CONDUTA SOCIAL. DIVULGAÇÃO DE MENSAGENS PELAS REDES SOCIAIS QUE PERTENCE AO MUNDO DO CRIME. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Para o desvalor da conduta social o magistrado deve apurar a postura do réu no seio de sua família e da comunidade em que vive, no seu local de trabalho, na escola e na vizinhança, ou seja, deve observar como o réu se conduz em sociedade. 2. A divulgação de mensagens pelo agente, em mídias sociais, em que se gaba perante sua comunidade da prática de crimes constitui fundamentação idônea para a valoração negativa da conduta social. 3. Agravo regimental não provido” (pág. 143 do documento eletrônico 5).
+    Pois bem, esta Suprema Corte consolidou entendimento no sentido de que a via estreita do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal, consideradas na sentença condenatória.
+    Nesse sentido:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. IMPOSSIBILIDADE DE SE PROCEDER À PONDERAÇÃO E AO REEXAME DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CP CONSIDERADAS NA SENTENÇA CONDENATÓRIA. RECURSO AO QUAL SE NEGA PROVIMENTO. I - Esta Suprema Corte consolidou entendimento no sentido de que a via estreita do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal, consideradas na sentença condenatória. II - Nas instâncias antecedentes, para a fixação da pena-base, foi considerada fundamentação idônea para valorar negativamente as circunstâncias judiciais. III – Como afirmado, não é viável, na via estreita do habeas corpus, o reexame dos elementos de convicção considerados pelo magistrado na avaliação das circunstâncias judiciais previstas no art. 59 do Código Penal. IV – Recurso ao qual se nega provimento” (RHC 129.993-2ºJULG, de minha relatoria, Segunda Turma).
+    Faz-se possível, nesta oportunidade, “[...] apenas o controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades” (HC 129920-AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma), que não se verificam na espécie.
+    Ademais, para dissentir das instâncias anteriores, seria imprescindível o reexame e a valoração de fatos e provas, inviável, como sabido, na estreita via eleita.
+    Isso posto, nego provimento a este recurso ordinário (art. 192, caput, c/c art. 312, ambos do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de setembro de 2021.
+Ministro Ricardo Lewandowski
+Relator
