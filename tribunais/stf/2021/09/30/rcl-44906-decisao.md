@@ -1,0 +1,35 @@
+Trata-se de reclamação constitucional com pedido liminar ajuizada por Ana Paola Santos Machado Diniz em face do acórdão proferido pela 1ª Turma do Tribunal Regional Federal da 1ª Região no bojo da Apelação Cível 0036019-72.2016.4.01.330, pleiteando, ao final, o seguinte:
+    “Diante do exposto e em face dos fundamentos até aqui alinhavados, pugna a Reclamante pelo deferimento da antecipação da tutela para cassar o acórdão proferido no bojo do processo 0036019-72.2016.4.01.3300, nos termos do art. 161, parágrafo único do RISTF, determinando ainda o sobrestamento do processo de origem até a conclusão do julgamento do Tema 966 na Suprema Corte.
+    No mérito, pugna desde já pela confirmação do pedido liminar, a fim de que seja cassada a decisão colegiada ordinária, bem como seja o processo de origem sobrestado até a definição acerca do debate instaurado no bojo do RE 1.059.466. Requer ainda:
+    a) a notificação da autoridade Reclamada ara prestar as informações que entender cabíveis, nos termos do art. 989, I, do Código de Processo Civil;
+    b) A citação da parte beneficiária da decisão impugnada, UNIÃO FEDERAL, através do seu órgão de representação (Advocacia Geral da União), para querendo apresentar contestação, nos termos no art. 989, III, do Código de Processo Civil;
+    c) Intimação do Ministério Público Federal, nos termos do art. 991 do Código de Processo Civil;
+    d) A produção de provas por todos os meios em direito admitidos, em especial a juntada de documentos como prova e contraprova.” (doc. eletrônico 1, fl. 6).
+    É o relatório. Decido.
+    Preliminarmente, observo que o parágrafo único do art. 161 do RISTF assenta que o relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal.
+    Assento, na sequência, que a reclamação perante o STF será cabível tão somente para (art. 102, I, l, da Constituição Federal - CF): (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; e (iii) garantir a observância de enunciado de Súmula Vinculante e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do CPC. Veja-se:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.”
+    A propósito, assim também dispõe o art. 156, caput, do RISTF:
+    “Art.156. Caberá reclamação do Procurador-Geral da República, ou do interessado na causa, para preservar a competência do Tribunal ou garantir a autoridade das suas decisões.”
+    Em outras palavras, “os atos questionados em qualquer reclamação - nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal – hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal.” (Rcl 6.534/MA-AgR, de relatoria do Ministro Celso de Mello).
+    Com relação à alegação de afronta à decisão proferida no RE 1.059.466/AL (Tema 966 da Repercussão Geral), de relatoria do Ministro Alexandre de Moraes, constato que, naqueles autos, examina-se a questão acerca da concessão de licença-prêmio a magistrados com base na isonomia em relação aos membros do Ministério Público.
+    No caso, a presente reclamação insurge-se contra acórdão do TRF1 assim ementado:
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. MAGISTRATURA. LEI ORGÂNICA DA MAGISTRATURA - LC 35/79. LICENÇA-PRÊMIO. RESOLUÇÃO 133/2011 DO CNJ. QUE DISPÔS SOBRE A SIMETRIA CONSTITUCIONAL ENTRE MAGISTRATURA E MINISTÉRIO PÚBLICO. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL.
+    1. Tratam-se de apelações interpostas em face de sentença que julgou parcialmente procedente pedido para declarar o direito da parte autora (Magistrada Federal) à fruição a licença-prêmio por tempo de serviço pelo prazo de três meses a cada quinquênio ininterrupto de exercício.
+    2. O Supremo Tribunal Federal, no bojo da AO 2129, com fundamento no art. 102, I, n, da Constituição Federal, perfilhou entendimento no de que em demandas objetivando a percepção de licença-prêmio por magistrados não atrai a competência originária do Supremo Tribunal Federal, à míngua de existência de interesse (direto ou indireto) da totalidade da magistratura nacional no julgamento da causa. Preliminar de incompetência rejeitada.
+    3. A Resolução 133/2011 do CNJ, que dispôs sobre a simetria constitucional entre Magistratura e Ministério Público, em nenhum momento, outorgou a licença-prêmio aos integrantes da magistratura.
+    4. ‘O rol taxativo de direitos e vantagens para a magistratura nacional estatuído no art. 69 da LOMAN não prevê a licença especial ou a licença-prêmio por assiduidade, razão por que não se aplicam aos magistrados as normas que conferem esse mesmo direito aos servidores públicos em geral. (AO 482, Relator(a): Min. Cármen Lúcia, Tribunal Pleno, julgado em 14/04/2011, DJe-098 divulg 24-05-2011 public 25- 05-2011).
+    5. A Lei Orgânica da Magistratura - LC 35/79 - elenca as vantagens outorgáveis aos magistrados (art. 65), vedando a concessão de qualquer outra nela não prevista (§ 2º). O rol taxativo de direitos e vantagens para a magistratura nacional estatuído no art. 69 da LOMAN não prevê a licença especial ou a licença-prêmio por assiduidade, razão por que não se aplicam aos magistrados as normas que conferem esse mesmo direito aos servidores públicos em geral (Lei 8.112/1990, in casu).’AC 0016679-31.2005.4.01.3300, Juiz Federal Hermes Gomes Filho (conv.), TRF1 - Segunda Turma, e-DJF1 06/06/2019).
+    6. Apelação da União provida para julgar improcedente o pedido formulado na inicial.
+    7. Apelação adesiva não provida.”
+    Assim, a matéria em discussão envolve o mesmo objeto dos RE 1.059.466/AL (Tema 966), de relatoria do Ministro Alexandre de Moraes, em que decretada a suspensão do processamento de todas as demandas em tramitação no território nacional que versem sobre a concessão de licença-prêmio ou equiparação do valor das diárias devidas a magistrados com base na isonomia em relação aos membros do Ministério Público; a recomendar, por coerência, que a demanda originária permaneça suspensa até ulterior posicionamento definitivo a ser proferido pelo Plenário desta Corte.
+    Diante do exposto, com base no art. 161, parágrafo único, do RISTF, julgo procedente em parte o pedido apenas determinar que permaneça suspenso o processo 0036019-72.2016.4.01.330, em trâmite no TRF da 1ª Região.
+    Comunique-se.
+    Publique-se.
+    Brasília, 30 de setembro de 2021.
+Ministro Ricardo Lewandowski
+Relator
