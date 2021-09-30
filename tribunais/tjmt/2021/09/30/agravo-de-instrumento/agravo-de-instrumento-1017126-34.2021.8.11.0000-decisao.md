@@ -1,0 +1,21 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto pela AMAGGI LOUIS DREYFUS ZEN-NOH GRÃOS S.A., com o fito de suspender a decisão que, nos autos dos Embargos de Terceiro de no 1009634-62.2021.8.11.0041, manejados pela NORTESUL COMERCIAL AGRÍCOLA LTDA – ME, rejeitou os embargos de declaração e manteve a determinação para que, no prazo de 05 (cinco) dias, sob pena de multa cominatória, proceda à devolução da quantia de 21.000 (vinte e um mil) sacas de soja, em favor da empresa agravada.
+Para tanto, a agravante, esclarece que inicialmente ajuizou uma Ação de Tutela de Urgência em Caráter Antecedente, em face de Sirlândio Filgueira Neves, em virtude do inadimplemento da obrigação de entrega da quantidade de 1.800.000 Kg (um milhão e oitocentos mil quilogramas) de soja em grãos, equivalente a 30.000 (trinta mil) sacas de 60 Kg (sessenta quilogramas) cada, da safra 2020/2021, objeto dos Contratos de Compra e Venda de Soja de no. 2020 -35 -011 -00567 -1, 2020 -35 -011 - 00577 -1 e 2020 -35 -011 -00610 -1.
+Aduz que, por meio dos aludidos contratos e na condição de compradora, sub-rogou-se na garantia, tendo, portanto, pleno direito sobre os produtos agrícolas do vendedor/cedente Sr. Sirlândio Filgueira Neves, transferidos à cessionária Agravada.
+Ainda, alega que a multa diária imposta para cumprimento da obrigação é desproporcional e desarrazoada, mormente porque ofereceu caução judicial em quantia superior a 30% do produto arrestado.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, por mais que a agravante insista no contrário, não se observa a presença dos requisitos legais para a concessão da medida liminar pleiteada.
+Assim, apesar da urgência alegada e dos argumentos tecidos pela agravante, não se verifica, a princípio, prova capaz de sustentar o direito da parte recorrente, ou que a agravada não tenha direito sobre o produto agrícola, objeto da ação principal.
+Mais precisamente, em exame sumário de cognição, infere-se que o direito da empresa agravada está representado por contratos de Contrato de Compra e Venda Real e registro de penhor em primeiro grau em seu favor, conforme consta na certidão, no id no 51492941, não havendo que se falar, por ora, de qualquer irregularidade no decisum objurgado.
+No tocante à redução ou extinção do valor da multa diária aplicada por descumprimento, infere-se que a questão poderá ser enfrentada por ocasião do mérito do presente recurso, sem que, durante esse interregno, a parte sofra qualquer prejuízo.
+Assim, ao menos nesse instante, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
