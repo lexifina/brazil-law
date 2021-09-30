@@ -1,0 +1,10 @@
+DECISÃO
+RODRIGO PIRES DE SÁ REQUIÃO opõe embargos de declaração contra decisão de fls. 8.186-8.187, sob o argumento de que o pedido formulado na petição de fls. 8.180-8.184 se referiu ao ora requerente e não aos demais corréus.
+Além disso, assinalou que o objetivo delineado na oportunidade era para que os autos pudessem ser remetidos à origem, a fim de que "fosse facultado às supostas vítimas do crime de estelionato representatem ou não contra o embargante" (fl. 8.193), conforme aplicação retrotiva do § 5º do art. 171 do CP, introduzido pelo Pacote Anticrime.
+Com razão em parte o embargante.
+De fato, o pedido de fls.8.180-8.184 se refere exclusivamente a Rodrigo Pires de Sá Requião, e não aos demais corréus, além de pretender a defesa o envio dos autos para a manifestação retroativaquanto à necessidade de representação no crime de estelionato.
+Assim, embora os aclaratóriostenham procedência quanto ao objeto delineado no referido pedido, cuja apreciação foi omissa,não prosperam em relação à aplicação retroativa da necessidade de representação no estelionato, cujos fundamentos extenados na petição, pela defesa, já foram superados no âmbito desta Corte.
+De fato, a orientação desta Corte, antes divergente, agora foi pacificada.Em consonância com o entendimento do STF,"a Terceira Seção deste STJ, no julgamento do HC 610.201/SP em 24/3/2021, superando divergência entre as Turmas, pacificou a controvérsia e decidiu pela irretroatividade da norma que instituiu a condição de procedibilidade no delito previsto no art. 171 do Código Penal, quando já oferecida a denúncia"(AgRg no HC n. 625.333/SC, relator Ministro Ribeiro Dantas, DJe 16/4/2021)
+Na espécie, observa-se que a denúncia foi oferecida em momento anterior (no ano de 2009) ao advento da Lei n. 13.964/2019, de modo que não tem incidência. Assim, não há como atenter ao pedido de envio dos autos à origem para observância do § 5º do art. 171 do CP, introduzido pelo Pacote Anticrime.
+À vista do exposto, acolho os embargos apenas para sanar a omissãoindicada, mas indefiro o pedido de envio dos autos à origem para oferecimento ou não derepresentação pela vítima.
+Publique-se e intimem-se.
