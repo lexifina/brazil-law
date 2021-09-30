@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  contra  decisão  que  inadmitiu  o  especial  por incidência das Súmulas n. 7 e 83 do STJ (e-STJ  fls.  416/417).
+O acórdão recorrido está assim ementado: (e-STJ fl. 368):
+Embargos do devedor. Cédula de crédito bancário - Conta garantida - Renovação automática. Sentença que reconhece a prescrição da execução ajuizada pela instituição financeira apelante, julgando-a extinta nos termos do art. 487, II, do CPC/2015. Cláusula de renovação automática no título. Termo inicial da contagem do prazo prescricional na data da última movimentação da conta da embargante. Prescrição afastada.
+Inaplicabilidade da teoria da causa madura. Necessidade de retorno dos autos à origem para o regular prosseguimento do feito. Sentença cassada Havendo expressa previsão na cédula de crédito bancário de renovação automática de crédito aberto em conta corrente, o termo inicial de contagem do prazo prescricional não é o do vencimento que o instrumento previu, mas o da data da última movimentação da conta onde o crédito foi utilizado.
+Apelação conhecida e provida.
+No especial (e-STJ fls. 381/389), fundamentado no art. 105, III, "a", da CF, a recorrente apontouofensa aos arts. 44 da Lei n. 10.931/2004 e70da Lei Uniforme de Genebra.
+Alegou, em síntese, que o termo inicial do prazo prescricional para a execução de título extrajudicial fundado em cédula de crédito bancário é a data do vencimento da dívida.
+Pediu o provimento do recurso especial para que seja reconhecida "a ocorrência da prescrição da cédula de crédito sob execução, julgando-se, por conseguinte, extinta a ação nos moldes do art. 487, II, do Código de Processo Civil" . Requereu, sucessivamente, que seja "demonstrada a existência de eventual distinção do caso em julgamento com os precedentes desse colendo Superior Tribunal de Justiça citados ao longo dessa petição ou superação do entendimento, visando evitar a nulidade encartada no art. 489, § 1º, VI, do CPC" (e-STJ fl. 389).
+No agravo (e-STJ fls. 427/436), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido  apresentou  contraminuta  (e-STJ  fls.  445/454).
+É  o  relatório.
+Decido.
+A  insurgência  não  merece  prosperar.
+Com efeito, depreende-se das razões do acórdão recorrido (e-STJ fls. 369/370):
+A pretensão prospera.
+No caso, é incontroverso que o prazo prescricional aplicável é trienal, por força da incidência cumulada do art. 44 da Lei nº 10.931 com o art. 70 da Lei Uniforme de Genebra.
+A questão objeto da insurgência recursal concerne ao termo inicial da contagem do prazo prescricional do título executado pela instituição financeira, ora recorrente. Acolheu-se na sentença o pleito da embargante para atribuir-se como termo inicial a data de vencimento fixada originariamente na cédula de crédito bancárioem 28.02.2014.
+Entretanto, em análise da cédula executada, deve-se reconhecer que o título foi prorrogadode forma automática, tal como disposto nos termos do contrato. Confira-se para tanto a redação da 15ª Cláusula do instrumento, bem como os seus dois primeiros parágrafos:
+"Cláusula Quinze - A presente Cédula vigorará até a data de vencimento, indicada no item II-7, podendo, entretanto ser resilida por quaisquer das partes, a qualquer tempo e sem nenhum dos ônus, ressalvados eventuais débitos pendentes de responsabilidade da Emitente, mediante prévio e expresso aviso por escrito com antecedência mínima de 48 (quarenta e oito) horas.
+Parágrafo Primeiro - Ocorrendo vencimento na data prevista no item II-7, e estando a Emitente perfeitamente em dia com suas obrigações e desde que não haja comunicação escrita em contrário de qualquer das partes, o prazo da presente Cédula será considerado automaticamente prorrogado por período idêntico ao inicial, sem a necessidade de qualquer outra formalidade, o mesmo ocorrendo ao final da primeira e demais prorrogações, permanecendo em vigor todas as cláusulas e condições desta cédula.
+Parágrafo Segundo -Se a Emitente não concordar com a prorrogação, deverá manifestar-se no prazo máximo de 15 (quinze) dias antes do término do período vigente, para que a mesma não se concretize".
+É dizer, não havendo "comunicação escrita em contrário de qualquer das partes", considera-se prorrogada automaticamente a cédula sem que haja a necessidade de "qualquer outra formalidade". Neste sentido, não se reuniu nos autos nenhum indício da comunicação escrita acima referida, de onde se deve presumir ter sido renovada a conta garantida firmada entre as partes.
+Descabida, por outro lado, a afirmação contida na sentença de que não haveria nos autos documentos aptos a dar prova da ocorrência de renovação automática.
+Em primeiro lugar, a própria redação contratual esclarece não haver a necessidade de qualquer tipo de formalidade para que se determine a prorrogação do contrato, muito menos "uma nova Cédula de Crédito que tenha significado a renovação do título anterior ".
+Em segundo lugar, verifica-se estar patente a renovação do contrato onde, pela planilha de cálculo juntada pela instituição financeira no mov. 1.6 da execução, verifica-se ter a embargante utilizado do crédito lhe concedido até a data de 03.12.2018. Referida planilha se trata do documento exigido legalmente para aferir-se a exequibilidade da cédula de crédito bancário, nos termos do art. 28 da Lei nº 10.931/2004.
+A parte deixou de impugnar o fundamento do acórdão recorrido, suficiente por si só para manter o julgado, de que o título foi prorrogado de forma automática e, por isso, não pode ser considerado como termo inicial da prescrição a data de vencimento originariamente fixada. Dessa forma, incide aa Súmula n. 283 do STF a impedir o seguimento do recurso.
+Ademais, alterar as conclusões do Tribunal de origem de que houve renovação do contrato e que a parte se utilizou de crédito concedido em data posterior demandaria o revolvimento do conjunto fático-probatório nos autos, inviável em recurso especial, em virtude da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se  e  intimem-se.
