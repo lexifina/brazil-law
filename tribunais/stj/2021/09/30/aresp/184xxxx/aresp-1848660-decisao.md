@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por HYPERMARCAS S/A em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"DUPLO APELO. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ANÁLISE DO CONJUNTO PROBATÓRIO.CLÁUSULA PENAL. DANOS EXTRAPATRIMONIAIS.HONORÁRIOS ADVOCATÍCIOS.
+I. Sobre o ônus da prova, incumbe à parte autora a comprovação do fato constitutivo de seu direito, e à parte ré, quanto à existência de fato impeditivo, modificativo ou extintivo do direito da parte adversa (artigo 373 do CPC).
+II. É devida a condenação da parte requerida/1ª apelante quando o conjunto probatório dos autos demonstra que a parte autora/2ª apelante obteve êxito na comprovação dos fatos constitutivos de seu direito, sem que a parte requerida/1ª apelante tenha provado circunstância que o impedisse, modificasse ou extinguisse.
+III. Verificando-se que ambas as partes infringiram dispositivos do contrato firmado, é descabida a condenação à cláusula penal, eis que os litigantes se tornariam, ao mesmo tempo, credores e devedores uns dos outros, de forma que eventuais obrigações seriam extintas por compensação, nos termos do art. 368 do Código Civil.
+IV. O mero descumprimento de cláusulacontratual não gera indenização por dano moral.Precedentes do STJ.
+V. Por força do artigo 85, §2º do Código de Processo Civil, os honorários advocatícios devem ser fixados em patamar mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento).
+VI. Desta feita, verificando-se que os honorários advocatícios foram fixados em percentual inferior ao mínimo previsto na legislação de regência, impõe-se a reforma do decisum para majorar o referido percentual ao patamar mínimo legal, qual seja, 10% (dez por cento).
+1º APELO CONHECIDO E IMPROVIDO. 2º APELO CONHECIDO E PARCIALMENTE PROVIDO." (fl. 881/882)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, aora agravante aponta violação aoart. 85, § 2º do Código de Processo Civil de 2015, sustentando que "os percentuais mínimos dos honorários sucumbenciais, em caso de sucumbência recíproca, deverão observar o somatório dos honorários sucumbenciais de ambas as partes" (fl. 922).
+Não foram apresentadas contrarrazões.
+É o relatório.
+De início, quanto à alegada violação doart. 85, § 2º,do Código de Processo Civil de 2015, verifica-se que o conteúdo normativo dodispositivoinvocadono apelo nobre não foi apreciadopelo Tribunal a quo,sob o enfoque dado pelo recorrente, ainda que a partetenha oposto embargos de declaração a fim de sanar eventual irregularidade. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Ademais, o eg. Tribunal de origem consignou a inviabilidade de análise da distribuição dos honorários advocatícios em sede de embargos de declaração em razão de indevida inovação recursal, nos seguintes termos:
+"Impende esclarecer que, em atenção ao princípio tantum devolutum quantum appellatum, o efeito devolutivo da apelação abrange tão somente a matéria impugnada. Dessa forma, caberia à embargante, observando o não atendimento da regra processual civil, ter pleiteado a majoração dos seus respectivos honorários em sede de apelação cível. Não o tendo feito, despropositado utilizar a via dos embargos de declaração para alegar contrassenso na distribuição final dos honorários advocatícios." (fl. 905)
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor atualizado da condenação.
+Publique-se.
