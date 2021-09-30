@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto contra acórdão assim ementado (fls. 558-559):
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. FALECIMENTO DO TITULAR. COBERTURA DE REMISSÃO POR MORTE. ASSISTÊNCIA MÉDICA E HOSPITALAR. EXTENSÃO DO BENEFÍCIO EM FAVOR DA VIÚVA. ASSUNÇÃO DA TITULARIDADE. POSSIBILIDADE. SÚMULA NORMATIVA 13/ANS. SENTENÇA REFORMADA.
+1 -Caso concreto: Cuida-se de ação cominatória, em que a viúva pretende prosseguir com contrato de plano de saúde por morte do titular - seu esposo falecido e ex-empregado da ECT, postulando a assunção da titularidade, após o transcurso do prazo de remissão e mediante o pagamento da contraprestação.
+2 - O Superior Tribunal de Justiça reconheceu que "A cláusula de remissão, pactuada em alguns planos de saúde, consiste em uma garantia de continuidade da prestação dos serviços de saúde suplementar aos dependentes inscritos após a morte do titular, por lapso que varia de 1 (um) a 5 (cinco) anos, sem a cobrança de mensalidades. Objetiva, portanto, a proteção do núcleo familiar do titular falecido, que dele dependia economicamente, ao ser assegurada, por certo período, a assistência médica e hospitalar, a evitar o desamparo abrupto." (REsp 1457254/SP, Rel. Ministro RICARDO VILLAS BOAS CUEVA, TERCEIRA TURMA, julgado em 12/04/2016, DJe 18/04/2016). E que "O término da remissão não extingue o contrato de plano familiar, sendo assegurado aos dependentes já inscritos o direito à manutenção das mesmas condições contratuais, com a assunção das obrigações decorrentes, para os contratos firmados a qualquer tempo (Súmula Normativa nº 13/2010 da ANS)."
+3 - In casu, a autora se dispôs a assumir o pagamento integral da contraprestação respectiva para sua manutenção nas mesmas condições da cobertura assistencial do plano de saúde que usufruía, quando ainda vigente o vínculo laboral de seu falecido marido com a ECT, de modo que sua pretensão se coaduna com oprincípio da manutenção do equilíbrio atuarial, com o disposto no art. 30 da Lei nº 9.656/1998, com o teor da Súmula Normativa 13 da ANS, e com o entendimento exposto no REsp 1457254/SP, a exigir a reforma da sentença de improcedência.
+4 - Dado provimento ao apelo.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 30 e 31 da Lei nº 9.656/1998e do art.188 do Código Civil, sustentando que a partir do falecimento do titular da apólice, os dependentes têm o direito de permanecer como beneficiáriosdo plano de saúde pelo períodomáximo de 24 (vinte e quatro) meses, após o qual perdem sua condição de beneficiário, conforme previsto no contrato.
+Contrarrazões apresentadas.
+A Presidência do Tribunal de origem, ao proferir o juízo de admissibilidade, negou seguimento ao recurso especial. Daí o presente agravo, no qual a recorrente pugna pela admissão do recurso especial.
+Assim delimitada a controvérsia, passo a decidir.
+A propósito, anoto que a Súmula 568 desta Corte Superior dispõe que: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Da leitura do acórdão recorrido, verifica-se que o entendimento adotado pelo Tribunal de origem está em harmonia com a jurisprudência desta Corte Superior, no sentido de que, "ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumindo as obrigações dele decorrentes"(AgInt no AgInt no AREsp 1.786.307/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/6/2021, DJe 25/6/2021).
+No mesmo sentido, confira-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO COLETIVO DE PLANO DE SAÚDE.ÓBITO DO TITULAR. COBERTURA. DEPENDENTES. CONTINUIDADE DA VIGÊNCIA DO CONTRATO, COM A ASSUNÇÃO DAS OBRIGAÇÕES JÁ ASSUMIDAS. PRECEDENTES DO STJ. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4 º, DO NCPC.IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A jurisprudência dominante do STJ orienta que, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes.
+ ..
+4. Agravo interno não provido.
+(AgInt no REsp 1.942.595/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/08/2021, DJe 18/08/2021.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DECISÃO DA PRESIDÊNCIA DO STJ.SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. PLANO DE SAÚDE. CONTRATO COLETIVO POR ADESÃO. FALECIMENTO DO TITULAR. DEPENDENTE IDOSA.PRETENSÃO DE MANUTENÇÃO DO BENEFÍCIO. SÚMULA N. 83 DO STJ.  .. . AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. "De acordo com a jurisprudência desta Corte, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumindo as obrigações dele decorrentes" (AgInt no AREsp n. 1.428.473/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/6/2019, DJe 28/6/2019). Aplicação da Súmula n. 83 do STJ.
+ ..
+6. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1.760.277/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/06/2021, DJe 25/06/2021.)
+Incide à hipótese dos autos, portanto, o enunciado da Súmula 83 do STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
