@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por ESPÓLIO DE JOSÉ LILI MOREIRA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Compromisso de compra e venda. Indenização. Imóvel adquirido pela parte autora que fora objeto de penhora em ação trabalhista. Evicção inocorrida. Ausência de decisão judicial que tenha determinado a perda da coisa. Possibilidade de reversão da penhora. Risco de evicção que decorre da desídia do próprio comprador, que não providenciou a transferência da titularidade do imóvel para si em tempo razoável. Eventual evicção que implicará futuro direito à indenização. Sentença mantida. Recurso improvido." (fl. 473)
+O agravante aponta ofensa aos arts. 247, 248, 421 e 422 do Código Civil, sustentando, em síntese, a necessidade de resolução do contrato de compra e venda, tendo em vista que, por omissão culposa do vendedor, o imóvel adquirido foi objeto de várias penhoras em ações trabalhistas, que já estavam em curso quando da celebração do contrato.
+Devidamente intimada, a parte recorrida não apresentou contrarrazões.
+É o relatório.
+Consoante se observa da inicial, trata-se de ação indenizatória, com pedido subsidiário de rescisão do contrato de compra e venda, fundada na alegação de que o réu, além de não ter comunicado a pendência de ações trabalhistas ajuizadas em face de si, teria demorado a emitir a escritura pública do imóvel, ensejando penhoras sobre o bem.
+A Corte de origem confirmou a improcedência dos pedidos, porque inexistiu evicção, estando o bem ainda na posse do recorrente, bem como porque a demora em transferir a propriedade do imóvel no cartório de registro decorreu de negligência do próprio adquirente. Cita-se trecho do aresto:
+"Sucede que, no caso em exame, a perda da coisa não ocorreu. A penhora não foi convertida em alienação judicial ou importou em adjudicação do imóvel.
+Ao que se verifica, há apenas a anotação na matrícula do bem de penhoras em nome do réu alienante (fls. 26/31), o que não acarreta a transferência da propriedade a terceiro, ante a possibilidade de levantamento das constrições e liberação do imóvel por outras vias.
+Não há, pois, qualquer evicção a ser acolhida.
+De outra banda, tendo em vista que a primeira penhora incidiu somente após passados mais de nove anos da celebração do contrato (fls. 26 e 392), eventual risco de evicção decorre mais da própria desídia do comprador, que não providenciou a transferência da titularidade do imóvel para si perante o registro de imóveis em tempo razoável, do que de possível má-fé por parte do alienante.
+Válido e eficaz o negócio jurídico, eventual ocorrência de evicção irá conferir aos compromissários compradores o direito futuro à indenização. Por ora, contudo, o contrato há de ser preservado." (fls. 474/475)
+Com efeito, verifica-se que o fundamento do acórdão relativo à inexistência da evicção, uma das causas de pedir da demanda, não foi impugnado pelo recorrente, o que atrai o óbice da Súmula n. 283/STF.
+Além disso, o Tribunal de origem afirmou expressamente que a demora em registrar a transferência da propriedade decorreu de negligência do próprio adquirente, e não de eventual omissão do vendedor - assertiva que só poderia ser revista mediante o reexame das provas dos autos, juízo vedado pela Súmula n. 7/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado do recorrido de 10% para 11% do valor atualizado da causa.
+Publique-se.
