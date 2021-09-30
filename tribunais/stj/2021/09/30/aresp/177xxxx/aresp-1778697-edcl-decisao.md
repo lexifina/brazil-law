@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração (e-STJ fls. 746/450) opostosà decisão desta relatoria (e-STJ fls. 740/744), que deu provimento ao agravo interno, para reconsiderar a decisão da Presidência, conhecer do agravo nos próprios autos e dar parcial provimento ao recurso especial.
+Alegaa embargante a ocorrência de omissão, no que diz respeito aos honorários incidentes sobre o valor da multa cominatória e também ao índice de correção monetária aplicável, uma vez que os jurosdataxa Selicforam excluídos pela decisão embargada e nenhum índice de correção monetária foi aplicado em seu lugar.
+Sem impugnação (e-STJfls. 754/758).
+Brevemente relatado, decido.
+De fato, compulsando os autos, constata-se que realmente houve omissão quanto à incidência dos honorários sobre a multa coercitiva.
+A jurisprudência desta Corte estabelece que "as astreintes, por serem um meio de coerção indireta ao cumprimento do julgado, não ostentam caráter condenatório, tampouco transitam em julgado, o que as afasta da base de cálculo dos honorários advocatícios"" (AgInt nos EDcl no AgInt nos EDcl no AREsp n. 1.360.879/PI, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021).
+Confira-se, de minha relatoria:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASTREINTES. REVISÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE AFRONTA AOS ARTS. 11 E 489 DO CPC/2015. PRECLUSÃO. AFASTAMENTO. AUSÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. ART.927, III, DO CPC/2015. IMPERTINÊNCIA TEMÁTICA. SÚMULA N. 284/STF.FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF.INEXISTÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. VALOR DAS ASTREINTES. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ.ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE.SÚMULA N. 83/STJ. HONORÁRIOS. MULTA COMINATÓRIA. BASE DE CÁLCULO.DESCABIMENTO. PRECEDENTES DO STJ. FUNDAMENTOS DA DECISÃO AGRAVADA.IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+ ..
+10. Conforme a jurisprudência do STJ, "as astreintes, por serem um meio de coerção indireta ao cumprimento do julgado, não ostentam caráter condenatório, tampouco transitam em julgado, o que as afasta da base de cálculo dos honorários advocatícios"" (AgInt nos EDcl no AgInt nos EDcl no AREsp n. 1.360.879/PI, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021), o que impede o arbitramento de verba honorária sucumbencial sobre a parcela das astreintes afastada em segunda instância.
+11. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+12. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 282, 356 e 283 do STF e 7 e 83 do STJ.
+13. Agravo interno a que se nega provimento.(AgInt no AREsp 1417586/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021.)
+Ainda nesse aspecto: AgInt nos EDcl no AREsp n. 1.451.023/PE, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/8/2019, DJe 13/8/2019, AgInt no REsp n. 1.595.679/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2018, DJe 23/2/2018, REsp n. 1.367.212/RR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/6/2017, DJe 1º/8/2017.
+Assim, a omissão deverá ser suprida para que sejam também excluídos os honorários incidentes sobre o valor da multa cominatória.
+Quanto ao índice de correção, verifica-se que, na origem, o Tribunal aplicou apenas a taxa Selic, que foi excluída pela decisão embargada. Assim, de rigor o estabelecimento de um índice de correção monetária, que pode ser o que melhor reflita a desvalorização da moeda, a ser fixado em cumprimento de sentença.
+A propósito:
+PROCESSO CIVIL. CORREÇÃO MONETÁRIA. ÍNDICE. OMISSÃO DA SENTENÇA.FIXAÇÃO NA EXECUÇÃO. POSSIBILIDADE. EMBARGOS À EXECUÇÃO. PRINCÍPIO DA EVENTUALIDADE. CONCENTRAÇÃO DA DEFESA. PRECLUSÃO CONSUMATIVA.INCIDÊNCIA.
+- É legítima a correção monetária dos débitos decorrentes de sentença judicial, nada impedindo que, no silêncio da sentença, os respectivos índices sejam fixados no processo de execução.
+- Nos termos do art. 300 do CPC,  compete ao réu alegar, na contestação, toda a matéria de defesa, expondo as razões de fato e de direito, com que impugna o pedido do autor .
+- Nos embargos à execução incide o princípio da eventualidade, com concentração da defesa do devedor. Precedentes.
+Agravo a que se nega provimento.(AgRg na MC 14.046/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/06/2008, DJe 05/08/2008.)
+Ante o exposto, ACOLHOos embargospara sanar a omissão apontada, a fim de excluir do cálculo dos honorárioso valor da multa cominatória e determinar a fixação do índice de correção monetária no cumprimento de sentença.
+Publique-se e intimem-se.
