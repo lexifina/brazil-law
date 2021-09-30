@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por DIONIZIA DOS SANTOS contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO PENSÃO POR MORTE MÃE DEPENDÊNCIA ECONÔMICA NÃO DEMONSTRADA HONORÁRIOS ADVOCATÍCIOS
+- Em atenção ao princípio , aplica-se, no tocante à tempus regit actum concessão da pensão por morte, a lei vigente à época do fato que o originou, qual seja, a da data do óbito.
+- São requisitos para a obtenção de pensão por morte: a condição de dependente e a qualidade de segurado do falecido (artigos 74 a 79 da Lei n.
+8.213/1991).
+- Ausente a prova da dependência econômica da mãe em relação ao filho falecido, é indevido o benefício. Inteligência do artigo 16, inciso II e § 4º, da Lei n. 8.213/1991.
+- Fica mantida a condenação da parte autora a pagar custas processuais e honorários de advogado, arbitrados em 12% (doze por cento) do valor da causa, já majorados em razão da fase recursal, conforme critérios do artigo 85, §§ 1º e 11, do CPC, suspensa, porém, a exigibilidade, na forma do artigo 98, § 3º, do mesmo estatuto processual, por tratar-se de beneficiária da justiça gratuita.
+- Apelação desprovida.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art.16, inciso II, § 4º, da Lei n. 8.213/1991 e da Súmula n. 304 do STJ, e defende que o conjunto probatório a ser analisado com vistas a verificar a dependência econômica para fins de instituição de pensão deve ser aquele que se apresenta na data do óbito, e não em momento posterior, trazendo o(s) seguinte(s) argumento(s):
+Com a devida vênia, no caso sub judice a análise dos elementos fáticos deve se basear nas informações constantes antes da data do óbito do Instituidor da pensão e, não, a partir do momento do óbito, como ponderou o v.acordão ao dar valor probatório a prova que sequer existia na data do óbito (04 anos após).
+Inclusive, o fato da Idosa, atualmente, ser titular do benefício de pensão por morte do seu falecido marido não a impede de pretender receber àquela por direito decorrente do falecimento do seu filho, de quem a Idosa dependia economicamente.
+Com efeito, como delineado, a Súmula 340, do C.STJ, sequer mencionada no v.acordão ora enfrentado, diz que: "A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado" (fl. 319).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, não é cabível recurso especial fundado na ofensa a enunciado de súmula dos tribunais, inclusive em se tratando de súmulas vinculantes.
+Assim, incide o óbice da Súmula n. 518 do STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido: "A interposição de recurso especial não é cabível com fundamento em violação de súmula vinculante do STF, porque esse ato normativo não se enquadra no conceito de lei federal previsto no art. 105, III, "a" da CF/88". (REsp n. 1.806.438/DF, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/10/2020.)
+Nesse sentido: AgInt no AREsp 1.630.476/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/8/2020; AgInt no AREsp 1.630.025/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 14/8/2020; AREsp 1.655.146/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe 7/8/2020; AgRg no REsp 1.868.900/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe 3/6/2020; AgInt no REsp 1.743.359/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 30/3/2020; AgRg no AREsp n. 1.632.328/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 02/09/2020.
+Ainda, o Tribunal de origem se manifestou nos seguintes termos:
+O ponto controvertido refere-se à comprovação da condição de dependente.
+A autora é mãe do falecido, consoante demonstrado por meio da cópia da certidão de óbito, cuja dependência econômica deve ser comprovada, a teor do disposto no artigo 16, inciso II e § 4º, da Lei n. 8.213/1991.
+Todavia, não há provas nesse sentido.
+Os documentos anexados aos autos não comprovam a dependência econômica.
+Com efeito, a parte autora, na data do óbito do filho, era casada, presumindo-se a dependência em relação ao seu cônjuge, nos termos do §4º do art. 16, da Lei n. 8.213/1991.
+Ademais, foram juntadas faturas de contas de energia elétrica e de telefone, em nome do falecido marido da autora.
+Cumpre salientar que, com o falecimento do cônjuge, em 23.03.2019, passou a perceber benefício de pensão por morte NB 186.246196-9, com renda mensal de R$ 2.041,01 (dois mil, quarenta e um reais e um centavo). Certo, pois, que a família tinha renda própria.
+Além disso, a prova testemunhal, frágil e inconsistente, também não se mostrou apta a comprovar que a parte autora dependia da ajuda financeira de seu filho para sobreviver.
+Nesse sentido, destaca-se que os dois testemunhos, embora afirmem que a mãe dependia da contribuição do filho para as despesas, destoam dos demais elementos dos autos.
+ ..
+Em decorrência, concluo pelo não preenchimento dos requisitos exigidos para a concessão do benefício de pensão por morte (fls. 308- 309).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
