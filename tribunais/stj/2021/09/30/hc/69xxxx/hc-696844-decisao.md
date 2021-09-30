@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se dehabeas corpusajuizado em favor de Luiz Fernando Simões de Freitas, em que o impetrante busca, em caráter liminar, seja concedido ao paciente o direito de aguardar em liberdade o julgamento destewrit. No mérito, requer seja declarada a nulidade das provas decorrentes de suposta violação de domicílioe as delas derivadas, anulando-se a sentença penal condenatória e determinando-se a prolação de um novodecisum.
+A insurgênciavolta-se contra o acórdão proferido na Apelação Criminal n.0000963-11.2016.8.26.0628 (e respectivos embargos de declaração) pela Sexta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, ao argumento de queé inconteste que houve oingresso no imóvel localizado na Rodovia SP 031, altura do km 47,5, bairro Vila Nova, na cidade de Ribeirão Pires/SP, sede da Empresa Relux, tão somente em razão de denúncia anônima, sem que quaisquer diligências prévias confirmatórias tenham sido realizadas  .. , assim comona residência do paciente Luiz Fernando localizado na Rua Satulnino de Oliveira 127, cidade de São Paulo/SP (fl. 14).
+É o relatório.
+O writé manifestamente inadmissível.
+Da leitura do acórdão impugnado, verifica-se que a Corte de origem não foi provocada a se manifestar acercada alegação defensiva aqui trazida. Observa-se a análise da prova acerca da materialidade e autoria, sem qualquer discussão sobre eventual nulidade por violação de domicílio.
+Assim,a apontada nulidade do feito por suposta violação ao postulado da inviolabilidade de domicílio, previsto no art. 5º, inciso XI, da Constituição, não foi objeto de apreciação pelo Tribunal de origem por ocasião do julgamento do recurso de apelação, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte estadual, sob pena de se incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal(AgRg no HC n. 409.039/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2018).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente opresente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA ARMADA, POSSE DE ARMAS DE FOGO, MUNIÇÕES E ARTEFATOS EXPLOSIVOS. NULIDADE. SUPOSTA PROVA ILÍCITA POR VIOLAÇÃO DE DOMICÍLIO. INADMISSIBILIDADE. AUSÊNCIA DE DEBATE DO TEMA NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+Writ indeferido liminarmente (art. 210 do RISTJ).
