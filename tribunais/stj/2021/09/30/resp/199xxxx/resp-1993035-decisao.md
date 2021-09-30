@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 283 e 284 do STF, 5 e 7 do STJ (e-STJ fls. 132/139).
+O acórdão recorrido está assim ementado (e-STJ fl. 75):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE EXIGIR CONTAS. INVERSÃO DO ÔNUS DA PROVA. PRIMEIRA FASE. DESCABIMENTO. PROCESSAMENTO CONFORME AS ESPECIFICIDADES DO RITO PROCESSUAL. TRATANDO-SE DE FUNDO DE INVESTIMENTO SEM PRAZO PARA RESGATE, A PRESCRIÇÃO DA PRETENSÃO REFERENTE AO RESGATE DO MONTANTE INVESTIDO FLUI DA NEGATIVA DE ATENDIMENTO DO PLEITO NA VIA ADMINISTRATIVA, MOMENTO A PARTIR DO QUAL SE VERIFICA A EXISTÊNCIA DE PRETENSÃO RESISTIDA. AFASTADA PRELIMINARES DE CARÊNCIA DE AÇÃO POR SUPOSTA AUSÊNCIA DE DOCUMENTOS. INOCORRÊNCIA DE PEDIDO GENÉRICO. AGRAVO PROVIDO EM PARTE
+O TJRS não conheceu dos embargos de declaração(e-STJ fls. 96/99).
+Nas razões do recurso especial (e-STJ fls. 105/112), interposto com fundamento no art. 105, III, "a", da CF, o recorrente alegou violação dos seguintes dispositivos:
+(i) art. 1.022 do CPC/2015, por ter havido omissão quanto à "ausência de pedido administrativo idôneo, não atendido em prazo razoável, e de pagamento do custo do serviço, para fins de caracterização do interesse processual; a necessária diferenciação sobre o prazo prescricional relativo ao resgate dos valores investidos x ao direito de ver prestadas as contas), bem como para prequestionar os dispositivos de lei federal que agora são objeto deste Recurso Especial" (e-STJ fl. 108),
+(ii) arts. 17, 330, III, e 485, VI, do CPC/2015, pois os elementos considerados no acórdão recorrido não são aptos a evidenciar o interesse processual da recorrida para a propositura da presente ação, notadamente à luz do decidido pelo STJ no Recurso Especial repetitivo n. 1.349.453/MS, "no sentido de que, para a configuração do interesse de agir do autor, é imprescindível a demonstração de pedido administrativo idôneo, não atendido em prazo razoável, e de pagamento do custo do serviço, circunstâncias que não se verificam na presente ação" (e-STJ fl. 108).
+Mencionou que "o Recorrido deixou de comprovar nos autos o atendimento aos requisitos impostos por esse Eg. STJ no REsp repetitivo 1.349.453/MS, porquanto não juntou a suposta solicitação extrajudicial que teria enviado ao Recorrente e, ainda, não demonstrou que o eventual pedido administrativo tivesse sido instruído com o comprovante de pagamento do custo do serviço buscado (a prestação de contas), pois há nos autos apenas um Aviso de Recebimento (AR - evento 1 CARTA5)" (e-STJ fl. 109).
+(iii) arts. 287, II, "a", da Lei n. 6.404/1976, c/c o art. 206, § 3º, IV e V, ou 205 do CC/2002, que estabelecem o prazo de 3 anos para as reparações civis ou, alternativamente, 10 anos, regra geral do CC. Alegou que a "pretensão do recorrido claramente possui natureza de reparação civil, pois parte do pressuposto de que o recorrente não teria prestado serviços de administração de seus ativos, o que tornaria devida a devolução dos valores investidos em 1976, com correção monetária e juros. Isto é, teria havido um acréscimo patrimonial indevido ao patrimônio do Banco, sem justa causa correspondente (= a prestação dos serviços). A hipótese, então, é de aplicação do prazo de TRÊS ANOS previsto no art. 206, § 3º, IV e V, do Código Civil. Sucessivamente, caso não seja este o entendimento desse d. julgador, o que se diz apenas por amor ao debate, deverá ser aplicado ao caso o prazo prescricional geral e amplo de 10 (dez) anos, previsto no art. 205 do CC" (e-STJ fl. 109).
+Busca, em suma, o provimento do recurso especial, para que o acórdão recorrido seja reformado (e-STJ fls. 111/112):
+(a) anulando o acórdão que julgou os embargos de declaração e determinando que o Tribunal local enfrente as relevantes questões suscitadas pelo Recorrente, em razão da violação ao art. 1.022, II, do CPC/2015, ou ainda que se considerem como prequestionados os dispositivos e fatos constantes nos embargos de declaração que foram opostos, conforme prevê o art. 1.025 do CPC, de modo a permitir o conhecimento e provimento deste Recurso; ou
+(b) impondo a extinção da ação sem julgamento do mérito, em razão da ausência do interesse processual do Recorrido e violação do acórdão aos arts. 17, 330, III e 485, VI, do CPC/2015, bem como ao entendimento consolidado no REsp repetitivo 1.349.453/MS; ou
+(c) impondo a extinção da ação com julgamento do mérito, por reconhecimento da prescrição da pretensão do autor, em razão do escoamento do prazo de 3 anos - art. 287, II, a, da Lei n. 6.404/1976, c/c o art. 206, § 3º, IV e V, do Código Civil - ou 10 anos, art. 205, do CC.
+No agravo (e-STJ fls. 147/155), afirma a presença de todos os requisitos de admissibilidade do especial.
+A agravada apresentou contraminuta (e-STJ fls. 160/164).
+É o relatório.
+Decido.
+Da ausência de prestação jurisdicional
+Inicialmente, não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, acerca das questões suscitada nos autos. Vejamos (e-STJ fls. 71/72):
+Superada essa questão, observo que a instituição financeira/agravante, suscita preliminar de carência de ação, por ausência de qualquer postulação administrativa da parte agravada, acerca do referido investimento.
+Ora, não constitui requisito para a aferição do interesse processual a comprovação do encaminhamento de requerimento administrativo daquilo que se postula judicialmente, tampouco a existência de pretensão resistida.
+Com efeito, a ausência de pedido administrativo não obsta que a parte postule judicialmente a satisfação de sua pretensão, sob pena de violação à garantia de acesso ao Poder Judiciário prevista no inc. XXXV do art. 5º da Constituição da República.
+O Supremo Tribunal Federal, ao interpretar o alcance da supra-referida norma, assentou que somente nas hipóteses previstas na própria Constituição - dissídios coletivos trabalhistas e justiça desportiva - mitiga-se a garantia constitucional da universalidade da jurisdição do Poder Judiciário.
+(..)
+Destaco, ademais, que o precedente repetitivo invocado pela parte agravante diz respeito a exibição de documentos bancários, e não a ação de exigir contas. Daí porque não há falarem incidência dos requisitos processuais elencados naquela jurisprudência (dentre os quais o prévio requerimento administrativo) para ajuizamento de ação de exigir contas.
+Não é demais ressaltar que, ao contrário do alegado pela parte ré, a autora demonstrou de forma suficiente a existência do investimento (evento n. 1, outros 4), mediante consulta disponibilizada em serviço de internet, não havendo, de parte da ré, qualquer documento ou individuação de irregularidade capaz infirmar as informações ali prestadas.
+Acrescento que o pedido não é genérico. Aliás, é expressamente delimitado (item 6 da petição inicial): que a ré preste contas da administração do investimento da autora, no denominado Fundo 157, desde o início da relação (evento n. 1).
+Daí porque é de ser mantido o afastamento dessas preliminares.
+De resto, há de ser igualmente mantido o afastamento da prefacial de prescrição.
+Como bem destacou o Des. Cláudio Augusto Rosa Lopes Nunes, por ocasião do julgamento da apelação cível n. 70022735682, "o resgate dos valores investidos no fundo 157 não tem prazo estipulado, porquanto o montante depositado permanece rendendo, podendo ser sacado de acordo com opção do investidor".
+(..)
+Com efeito, para que tivesse início o prazo prescricional ordinário da pretensão de haver o resgate do fundo, caberia a existência de recusa da parte da instituição financeira. Igualmente no que tange à prestação de contas, estando o investimento ainda sob administração da ré e sem prazo para resgate, não há falar em fluência de prazo prescricional.
+Destarte, há de ser mantida a decisão agravada, quanto ao afastamento das preliminares de carência da ação e prescrição, mas reformada para que seja afastada a inversão do ônus da prova, para determinar que esta demanda seja processada conforme o rito especial da ação de exigir contas, conforme descrito acima.
+No recurso integrativo, o TJRS consignou (e-STJ fl. 97 - grifei):
+Alega genericamente que a decisão embargada não teria "observado" as conclusões que entende cabíveis, no caso, com relação ao interesse processual e à prescrição da pretensão da parte adversa.
+Ocorre que ambos os pontos foram examinados de forma expressa na decisão embargada, nos trechos transcritos a seguir:
+ ..
+Assim, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação da violação do art. 1.022 do CPC/2015.
+Da inexistência de prescrição
+Acerca do resgate de valores investidos (fls. 72/73), o Tribunal a quo concluiu o seguinte (e-STJ fl. 72):
+De resto, há de ser igualmente mantido o afastamento da prefacial de prescrição. Como bem destacou o Des. Cláudio Augusto Rosa Lopes Nunes, por ocasião do julgamento da apelação cível n. 70022735682, "o resgate dos valores investidos no fundo 157 não tem prazo estipulado, porquanto o montante depositado permanece rendendo, podendo ser sacado de acordo com opção do investidor".
+Como visto, o TJRS consignou que, por se tratar o Fundo 157 de investimento sem prazo para resgate, ou seja, por se constituir em uma relação de trato sucessivo, não cabe falar em prescrição do direito de exigir contas dos valores administrados pelo banco. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. BANCÁRIO. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. FUNDO 157. PRESCRIÇÃO AFASTADA. SÚMULAS 5 E 7 DESTA CORTE. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem afastou a alegada prescrição da pretensão de exigir contas dos valores administrados pelo banco, sob o fundamento de que o Fundo 157, instituído pelo Decreto-Lei n. 157/1967, não possuía nenhuma previsão de resgate ou prazo de vencimento. Rever tal conclusão esbarra no óbice das Súmulas n. 5 e 7 deste Tribunal.
+2. Não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1791387/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 3/5/2021, DJe 5/5/2021 - grifei.)
+PROCESSUAL CIVIL. AGRAVO INERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO. ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA. SEGURO DE VIDA EM GRUPO. REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO ÂNUA. RECONHECIMENTO. RELAÇÃO DE TRATO SUCESSIVO. ÔNUS SUCUMBENCIAIS. OCORRÊNCIA DE ERRO MATERIAL. RECURSO NÃO PROVIDO. CORREÇÃO DE ERRO MATERIAL.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Devidamente analisadas e discutidas as questões devolvidas ao Tribunal, com fundamento claro e expresso, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 e 1.022 do NCPC.
+3. Sendo a relação de trato sucessivo, a prescrição não atinge o fundo de direito, razão pela qual o pedido não foi julgado improcedente. Dessa forma, não há que se falar em inversão dos ônus sucumbenciais.
+4. Correção de erro material na parte dispositiva da decisão agravada quanto aos honorários sucumbenciais. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1331335/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/03/2021, DJe 04/03/2021 - grifei.)
+Do interesse de agir
+O Tribunal local concluiu estar caracterizado o interesse de agir da recorrida, nos seguintes termos (e-STJ fl. 97):
+Superada essa questão, observo que a instituição financeira/agravante, suscita preliminar de carência de ação, por ausência de qualquer postulação administrativa da parte agravada, acerca do referido investimento.
+Ora, não constitui requisito para a aferição do interesse processual a comprovação do encaminhamento de requerimento administrativo daquilo que se postula judicialmente, tampouco a existência de pretensão resistida.
+Com efeito, a ausência de pedido administrativo não obsta que a parte postule judicialmente a satisfação de sua pretensão, sob pena de violação à garantia de acesso ao Poder Judiciário prevista no inc. XXXV do art. 5º da Constituição da República.
+O Supremo Tribunal Federal, ao interpretar o alcance da supra-referida norma, assentou que somente nas hipóteses previstas na própria Constituição - dissídios coletivos trabalhistas e justiça desportiva - mitiga-se a garantia constitucional da universalidade da jurisdição do Poder Judiciário.
+De acordo com a jurisprudência do STJ, para caracterizar o interesse de agir, é prescindível o requerimento administrativo anterior à propositura da ação de prestação de contas. Confiram -se:
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO - CADERNETA DE POUPANÇA - AÇÃO DE PRESTAÇÃO DE CONTAS - ESGOTAMENTO DA VIA ADMINISTRATIVA - DESNECESSIDADE - INTERESSE DE AGIR DO CORRENTISTA CONFIGURADO - SÚMULA 259/STJ - RECURSO DESPROVIDO, COM APLICAÇÃO DE MULTA.
+I - A teor do disposto na Súmula 259/STJ, "a ação de prestação de contas pode ser proposta pelo titular de conta-corrente bancária", independentemente de ter o autor esgotado a via extrajudicial.
+II - Agravo regimental não provido, com aplicação de multa. (AgRg no Ag 1.318.421/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 14.6.2012.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. TITULAR DE CONTA-CORRENTE. INTERESSE DE AGIR. SÚMULA N. 259/STJ. DECISÃO MANTIDA.
+1. O titular da conta-corrente tem interesse processual para ajuizar ação de prestação de contas (Súmula n. 259/STJ), independentemente de prévio pedido administrativo ao banco, para fornecimento dos extratos.
+2. Ainda que a instituição financeira envie, regularmente, os extratos bancários e demonstrativos da conta ao correntista, não se exonera do dever de fornecer informações sobre os lançamentos efetuados na conta quando solicitado pelo cliente.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 264.070/MG, de minha relatoria, QUARTA TURMA, DJe de 1/3/2013.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FUNDAMENTOS INSUFICIENTES PARA REFORMAR A DECISÃO AGRAVADA. BENEFÍCIO PREVIDENCIÁRIO. POSTULAÇÃO PERANTE O PODER JUDICIÁRIO. PRÉVIO REQUERIMENTO ADMINISTRATIVO. DESNECESSIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO
+(..)
+2. O entendimento deste Superior Tribunal de Justiça está cristalizado no sentido de ser prescindível o requerimento administrativo prévio à propositura de ação judicial para caracterização do interesse de agir.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1129119/RS, Rel. Ministro VASCO DELLA GIUSTINA - Desembargador convocado do TJRS -, SEXTA TURMA, julgado em 13/12/2011, DJe 19/12/2011 - grifei.)
+Em tal circunstância, o entendimento adotado pelo acórdão recorrido encontra respaldo na jurisprudência pacífica desta Corte, incidindo, portanto, a Súmula n. 83/STJ.
+Ademais, não se aplica a orientação do REsp n. 1.349.453 (Tema repetitivo n. 648) por não apresentar similitude fática com o caso concreto.
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
