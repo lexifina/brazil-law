@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de segundos embargos de declaração opostos contra acórdão, assim ementado (e-STJ fls. 1.613-1.617):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PERCENTUAIS DE 84,32%, 16,19% E 26,06%. TÍTULOS JUDICIAIS DA JUSTIÇA LABORAL. RELAÇÃO JURÍDICA ESTATUTÁRIA. COMPETÊNCIA DA JUSTIÇA COMUM. REMUNERAÇÃO NOVA. ABSORÇÃO. NECESSIDADE DE PROVA PERICIAL. REEXAME. SÚMULA 7/STJ. SUPRESSÃO DO PAGAMENTO DAQUELAS RUBRICAS. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 283/STF.
+1. Não há falar em violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide, ao caso, a Súmula 283/STF.
+3. Em relação ao art. 370 do CPC/2015 (necessidade da prova pericial), a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+4. Agravo interno não provido.
+Osembargantes sustentam que o acórdão embargado contém omissão não sanada quando do julgamento dos primeiros embargos de declaração.
+Reafirmam todos os argumentos trazido nas razões do recurso especial, asseverando que "há recente julgado de relatoria do Ministro Og Fernandes, no Recurso Especial nº 1.929.520/RN, que demonstra que o colendo STJ tem entendimento jurisprudencial pacífico no sentido de que a reestruturação de carreira é ato comissivo único e de efeitos permanentes" (e-STJ fl. 1.662, grifos no original).
+Afirmam, ainda, que "como a Lei 9.784/99, no art. 54, estabelece limitação temporal de cinco anos, da espécie decadencial, ao exercício do direito que tem a Administração de anular seus atos, e como a parte embargante apresentou essa questão desde a origem, o vício de omissão deve ser sanado a fim de que este STJ se manifeste sobre a matéria" (e-STJ fl. 1.666).
+Com impugnação (e-STJ fl. 1.674-1.677).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNONO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vícios a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com efeito, acerca dos requisitos legais para o cabimento dos aclaratórios, cabe realçar os ensinamentos de Theotônio Negrão de que "os embargos de declaração não são palco para a parte simplesmente se insurgir contra o julgado e requerer sua alteração" (Código de Processo Civil, Theotônio Negrão, 41ª ed., 2009, pág. 742, grifei).
+Por isso, "o recurso de embargos de declaração não é a via adequada sequer para corrigir suposto erro de julgamento, ainda que demonstrado (o que não é o caso), não sendo possível atribuir-lhes eficácia infringente se ausentes omissão, obscuridade ou contradição" (EDcl nos EAREsp 540.925/PR, Rel. Ministro Og Fernandes, Corte Especial, DJe 25/4/2017).
+No caso dos autos, os primeiros embargos de declaração da parte ora embargante foram rejeitados sob os seguintes fundamentos:
+a) oacórdão embargado decidiu em consonância com entendimento pacífico desta Corte no sentido de que quanto à decadência que a insurgência sob enfoque apresentada no recurso especial carece de prequestionamento, uma vez que não foi analisada pelo Tribunal de origem, pois malgrado a oposição de embargos declaratórios, o Tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado art. 54, caput e § 1º, da Lei 9.784/1999;
+b) quanto à necessidade de produção de prova pericial, o Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou sua desnecessidade, pois a Universidade "anexou à exordial fichas financeiras de 2003 a 2018, o despacho da Pró-Reitoria, que contém os critérios do cálculo efetuado, bem como planilha com o cálculo (de julho de 2003 a dezembro de 2017) da absorção das rubricas reclamadas, relativos a cada servidor/pensionista componente da parte demandada" (e-STJ fl. 1.265, grifei), o que justifica a incidência da Súmula 7/STJ.
+Quanto ao precedente do Min. Og Fernandes, esclareça-se que esta não é a via adequada para se discutir divergência entre Ministros ou Turma desta Corte.
+Assim, evidencia-se não ter ocorrido obscuridade, omissões, falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte Embargante quea reiteração deste expediente, sem fundamentação plausível, apenas para solicitar rejulgamento da controvérsia, ensejará a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+É como voto.
