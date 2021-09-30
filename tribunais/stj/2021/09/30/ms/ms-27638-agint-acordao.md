@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Felix Fischer, sendo substituído pela Sra. Ministra Maria Isabel Gallotti, nos termos do disposto nos arts. 2º, § 2º, e 55 do RISTJ.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. ATO COATOR. ACÓRDÃO DE TURMADO STJ.AUSÊNCIA DE TERATOLOGIA. PRETENSÃO DE UTILIZAR A VIA MANDAMENTAL COMO SUCEDÂNEO RECURSAL. DESCABIMENTO.WRIT LIMINARMENTE INDEFERIDO.
+1. O mandado de segurança foi impetrado em face de acórdão da Segunda Turma do STJ, o qual negou provimento a recurso ordinário em mandado de segurança.
+2. A utilização do mandado de segurança para impugnar decisão judicial só tem pertinência em caráter excepcionalíssimo, quando se tratar de ato manifestamente ilegal ou teratológico. Precedentes.
+3. Não se verifica nos autos a ocorrência de decisão judicial teratológica,à medida em que foi impetrado contra acórdãofundamentado, com motivação clara e consistente.
+4.Mandado de segurança liminarmente indeferido, prejudicado o agravo interno.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ANDRÉ LUIZ SADA FILHO em face da decisão que indeferiu o pedido de concessão de liminar ao mandado de segurança.
+Ação: de mandado de segurança impetrado pelo agravante contra acórdão da Segunda Turma do STJ que negou provimento a recurso ordinário, nos termos da seguinte ementa:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. JUIZ LEIGO. PROVA DE TÍTULO. CURSO DE ESPECIALIZAÇÃO COM AVALIAÇÃO MEDIANTE MONOGRAFIA. DESATENDIMENTO DA REGRA EDITALÍCIA. LEGALIDADE DO INDEFERIMENTO DA PONTUAÇÃO.
+1. A parêmia de que o edital é lei do concurso obriga a Administração Pública e o candidato à sua fiel observância, pena de malferimento ao princípio da vinculação ao edital, ao princípio da legalidade e ao princípio da isonomia.
+2. O descumprimento das exigências editalícias sobre o modo como os documentos comprobatórios de títulos devem ser apresentados autoriza a sua desconsideração pela banca examinadora bem como a negativa de pontuação ao candidato.
+3. Recurso ordinário em mandado de segurança não provido, prejudicado o agravo interno.
+Decisão da Presidência do STJ: deferiu à impetrante a gratuidade de justiça.
+Decisão monocrática: indeferiu o pedido de concessão de liminar.
+Agravo interno: sustenta a existência de ilegalidade no edital, já que a exigência de monografia não encontra amparo em lei em sentido formal, tendo sido a especialização cursada validamente. Aduz não haver que se falar em vinculação ao edital quando este é eivado de ilegalidade. Refere que, no período em que cursada a pós-graduação, a regulamentação vigente não exigia pós-graduação (Resolução 01/2001 do Conselho Estadual do Estado de Santa Catarina). Aponta assim, as seguintes ilegalidades e teratologias no ato impugnado: a) retroatividade ilícita conferida à lei civil; b) violação à proteção da confiança; c) ausência de fundamentação acerca da data da migração da Univali/SC para o sistema federal de ensino; d) vedação à decisão surpresa; e) afronta ao ato jurídico perfeito; f) afronta aos princípios da razoabilidade e da segurança jurídica.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. ATO COATOR. ACÓRDÃO DE TURMADO STJ.AUSÊNCIA DE TERATOLOGIA. PRETENSÃO DE UTILIZAR A VIA MANDAMENTAL COMO SUCEDÂNEO RECURSAL. DESCABIMENTO.WRIT LIMINARMENTE INDEFERIDO.
+1. O mandado de segurança foi impetrado em face de acórdão da Segunda Turma do STJ, o qual negou provimento a recurso ordinário em mandado de segurança.
+2. A utilização do mandado de segurança para impugnar decisão judicial só tem pertinência em caráter excepcionalíssimo, quando se tratar de ato manifestamente ilegal ou teratológico. Precedentes.
+3. Não se verifica nos autos a ocorrência de decisão judicial teratológica,à medida em que foi impetrado contra acórdãofundamentado, com motivação clara e consistente.
+4.Mandado de segurança liminarmente indeferido, prejudicado o agravo interno.
+VOTO
+O propósito recursal consiste em verificar o cabimento da concessão de liminar em mandado de segurança impetrado em face de acórdão deste Superior Tribunal de Justiça.
+Como é cediço, o cabimento de mandado de segurança no qual se aponta como ato coator acórdão prolatado órgão fracionário do Superior Tribunal de Justiça ou decisão monocrática proferida pelo Relator é excepcional, justificado apenas quando houver flagrante ilegalidade capaz de evidenciar a manifesta teratologia da decisão (AgInt no MS 27.352/DF, Corte Especial, DJe 01/07/2021; AgRg no MS 21.597/DF, Corte Especial, DJe 15/06/2015
+Isso se justifica porque, nos termos da jurisprudência deste Tribunal, a Corte Especial não é instância revisora dos julgados proferidos pelos demais órgãos que compõe o STJ, sendo excepcional sua manifestação em sede de mandado de segurança contra ato jurisdicional.
+Nessa linha de ideias, deve "ser indeferida a inicial de mandado de segurança quando não verificada qualquer ilegalidade ou abuso de poder no ato atacado, não havendo se falar em direito líquido e certo à adoção da tese sustentada pelo impetrante, mesmo que esta encontre respaldo em parte da jurisprudência" (AgRg no MS 20.766/DF, Corte Especial, DJe 27/05/2014).
+Na hipótese em tela, não está preenchido o requisito daflagrante ilegalidade a justificar a apreciação do presente remédio constitucional.
+O acórdão impugnado por esta via foi proferido pela Segunda Turma ao julgamento do Recurso Ordinário em Mandado de Segurança nº 61718, tendo sido relator o e. Ministro Mauro Campbell Marques. Da leitura do seu conteúdo, dessume-se que todas as questões invocadas pelo ora agravante foram examinadas pelo órgão fracionário, o qual concluiu, com assento em profícua fundamentação, pela legalidade da exigência edilícia relativa à elaboração de monografia para pontuação do curso de pós-graduação realizado pelo candidato à vaga de juiz leigo.
+Para esclarecer, é oportuno transcrever o seguinte excerto do acórdão:
+O recorrente alega, então, que a especialização em direito sujeita à obtenção de ponto na avaliação de títulos deveria ser aquela "na forma da legislação educacional em vigor" e por causa disso é que o documento apresentado por si havia ser considerado.
+Isso porque quando cursou a especialização em direito aduaneiro a disciplina legal não exigia que a avaliação do desempenho do aluno se desse mediante a redação de uma monografia, o que veio ser modificado posteriormente, quando então se passou a exigir, isso bem durante o lançamento do edital de recrutamento para juiz leigo do Estado de Santa Catarina.
+No entanto, teria ainda havido, ao depois disso, nova alteração para que novamente se dispensasse a monografia como forma obrigatória de avaliação do aluno.
+Assim, o recorrente diz ter se sujeitado à avaliação cabível na ocasião do curso de pós-graduação, e por isso a superveniência da legislação que altera essa forma de avaliação não lhe pode prejudicar nem mesmo descaracterizar que efetivamente cursou especialização em direito.
+Pois bem, o exame do caso não parece dar vazão ao pleito recursal.
+Como afirmado anteriormente, o recorrente cursou duas especializações em direito.
+A primeira delas ocorreu, no ano de 2006, na Escola da Magistratura do Paraná, em nível de especialização em direito aplicado, com um total de setecentas e vinte horas-aula, tendo havido a apresentação de monografia, de acordo com as Resoluções n. 03/1983 e n. 01/1984, do Eg. Tribunal de Justiça do Estado do Paraná, e com a Resolução CNE/CES 001/2001, do Conselho Nacional de Educação (e-STJ fl. 50).
+Essa primeira especialização foi avaliada positivamente pela comissão examinadora, que lhe atribuiu a pontuação específica.
+O segundo curso, em nível de especialização em direito aduaneiro e em comércio exterior, ocorreu entre os anos de 2007 e de 2008, na Universidade do Vale do ltajaí - Univali/SC, com um total de trezentas e setenta e cinco horas-aulas, de acordo com a Resolução n. 01/2001, do Conselho Estadual de Educação de Santa Catarina.
+A tese do recorrente diz, então, que esse segundo curso, o qual não fora confirmado pela comissão examinadora, observou toda a legislação aplicável na ocasião, sendo que essa legislação não previa a elaboração de monografia, para tanto destacando que na ocasião da publicação do edital do concurso vigiam a Resolução 01/2007 do Ministério da Educação e, no âmbito estadual, a Resolução 107/07 do Conselho Estadual de Educação de Santa Catarina, as quais não retroagiam à época, de maneira que deveria ser observada a regulação da Resolução n. 01/2001, do Conselho Estadual de Educação de Santa Catarina.
+Há nessa afirmação um claro erro de premissa.
+A universidade frequentada pelo recorrente cuida de uma instituição privada de ensino superior, o que lhe insere no sistema federal de ensino, a teor do art. 16 da Lei 9.394/1996:
+Art. 16. O sistema federal de ensino compreende:
+I - as instituições de ensino mantidas pela União;
+II - as instituições de educação superior criadas e mantidas pela iniciativa privada;
+II - as instituições de educação superior mantidas pela iniciativa privada;(Redação dada pela Lei nº 13.868, de 2019)
+III - os órgãos federais de educação.
+Desse modo, é equivocado afirmar que o curso de pós-graduação obedecia aos regramentos de legislação estadual se, contudo, a natureza privada da instituição lhe posiciona dentro do rol de instituições que integram o sistema federal de ensino.
+Nesse medida, quer se aplique a Resolução n. 01/2007, do Conselho Nacional de Educação, vigente antes da conclusão do curso pelo impetrante, quer incida a regulação anterior, da Resolução n. 01/2001, o fato é que no âmbito do sistema federal de ensino havia regra expressa sobre e elaboração obrigatória de monografia ou de trabalho de conclusão de concurso, naquela primeira tratando-se do texto do art. 5.º, e nesta o mesmo regramento sendo disciplinado no art. 10:
+Art. 10 Os cursos de pós-graduação lato sensu têm duração mínima de 360 (trezentos e sessenta) horas, nestas não computado o tempo de estudo individual ou em grupo, sem assistência docente, e o reservado, obrigatoriamente, para elaboração de monografia ou trabalho de conclusão de curso.
+Desse modo, sob esse ângulo específico não há como colher a pretensão mandamental, porque na ocasião da oferta do curso de pós-graduação pela universidade privada não houve a observância estrita dos regulamentos que obrigavam a elaboração de monografia de conclusão de curso.
+O recorrente afirma ainda que o texto do item 11.4 do edital do concurso era dúbio, porque possível intuir que a monografia poderia ou não ser um critério de avaliação exigível para a validação da especialização.
+Não consigo extrair, contudo, essa dubiedade:
+c) especialização em Direito, na forma da legislação educacional em vigor, com carga horária mínima de 360 (trezentas e sessenta) horas-aula, cuja avaliação haja considerado monografia de final de curso: 1 (um) ponto.
+A mim parece bastante claro que no rol de títulos sujeitos à avaliação havia o de especialização em direito, que para tanto deveria ter observado a legislação educacional em vigor, com carga horária mínima de trezentos e sessenta horas-aula e com avaliação mediante monografia de final de curso.
+Atente-se para o fato de que a expressão "na forma da legislação em vigor" parece, sob minha ótica, fazer remissão não ao tempo do edital, mas ao tempo em que frequentado o curso de especialização, que deverá, portanto, ter observado a legislação então vigente, isso servindo de reforço ao que expus anteriormente, é dizer, o curso frequentado pelo impetrante não observou que, segundo a legislação federal, a avaliação do desempenho do aluno havia ser feita por monografia ou por trabalho de conclusão de curso.
+Por fim, cabe fazer ainda duas ponderações.
+Não há aqui questão relacionada à possibilidade ou não de reavaliação dos critérios de correção da avaliação de títulos; antes, o fato em si é bastante claro e fundado na circunstância de o recorrente haver ou não cumprido uma disposição editalícia, e realmente não a cumpriu integralmente, não para ambos os documentos apresentados, mas somente para um deles.
+A outra ponderação é que o argumento da falta de razoabilidade da exigência editalícia não pode servir de panaceia ensejadora da usurpação do mérito administrativo pelo Poder Judiciário, mas no sentido da nossa avaliação do porquê se optou por considerar válidos apenas os títulos assim delimitados. (e-STJ, fls. 27-30)
+Frente a tais considerações, constata-se que o intuito do impetrante, em verdade, é a rediscussão do entendimento jurídico aplicado no ato apontado como coator. Ou seja, oagravante utiliza-se do presente mandamus como sucedâneo recursal, o que não é admitido, notadamente quando inexistente teratologia, como ocorre na presente hipótese.
+Dessa forma, inexistente qualquer vestígio de teratologia, o writ não deve prosperar.
+Forte nessas razões, nos termos do art. 10 da Lei nº 12.016/2016 e do art. 212 do RISTJ, INDEFIRO A PETIÇÃO INICIAL e extingo o mandadode segurança sem julgamento do mérito, declarando prejudicado o presente agravo interno.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei nº 12.016/2019.
