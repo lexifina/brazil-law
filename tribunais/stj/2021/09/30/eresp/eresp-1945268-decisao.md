@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto porFERNANDA PARDO FAGGIONI com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Pretensão de cancelamento de registro em órgão de restrição ao crédito, por falta de notificação prévia Sentença de improcedência Empresa ré que não é mantenedora do cadastro apontado pela autora Atividade da requerida que se restringe a disponibilizar as informações gerenciadas pelas empresas mantenedoras Súmula nº 359 do STJ - Sentença mantida - Apelação não provida, com majoração da verba honorária.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta a recorrente que o Tribunal a quo divergiu da orientação do STJ, quando decidiu que a parte recorrida, não seria parte legítima para responder pela falta da comunicação prévia determinada pelo art. 43, § 2º do CDC.
+Reforça queno Recurso Especial 1.061.134/RS, foi decidido que as entidades que atuam reproduzindo informações obtidas atravésde outros bancos de dados são responsáveis para responder pela ausência de comunicação prévia determinada pelo art. 43, § 2º,do CDC.
+Entende quea parte recorrida deveria ter cumprido com o determinado pelo art. 43, §2º,do CDC e não se aproveitado de comunicação emitida por mantenedor de banco de dados diverso para eximir-se de sua obrigação legal, motivo esse que justifica o provimento do presente recurso.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu in albis.
+É o relatório. Passo a decidir.
+A questão recursal gira em torno do dever deas empresas arquivistas e divulgadoras de dados desabonadores sobre consumidores enviarem notificação prévia à inscrição, nos termos do art. 43, §2º, do CDC.
+Ajuizada ação com o objetivo de cancelamento do registro perante órgão de restrição ao crédito, o pedido foi julgado improcedente.
+Acerca da questão recursal, o Tribunal a quo entendeu que, embora a notificação prévia seja necessária ao procedimento de inscrição, no caso em tela, a parte requerida é empresa de consulta, e não empresa mantenedora do banco de dados. Confira-se o trecho do voto condutor do acórdão recorrido in verbis:
+Pretende a autora o cancelamento do registro de seu nome junto ao cadastro "Brasil Consultas", ali inserido em decorrência da inadimplência de dois débitos, sob a alegação de que não foi efetivada pela ré a prévia notificação prevista no artigo 43, § 2º, do Código de Defesa do Consumidor.
+Tal notificação de fato é devida, sendo incumbência da empresa mantenedora do banco de dados, nos termos do Enunciado nº 359 do Superior Tribunal de Justiça, o qual dispõe que "Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição".
+No caso em tela, contudo, a requerida se trata, apenas, de uma empresa de consultas (conforme certidão de fl. 123 e contrato de fls. 125/128), não sendo a mantenedora dos bancos de dados, os quais são de responsabilidade do SCPC e Serasa. Nesta condição, a ré sequer possui poderes para incluir ou excluir apontamentos em tais bancos de dados, de modo que não há como se imputar a ela o dever de encaminhar notificações aos consumidores em decorrência das inserções efetuadas por terceiros nestes cadastros.
+Consequentemente, a ré sequer possui meios de cumprir a ordem pretendida pela requerente, qual seja, a exclusão definitiva dos apontamentos.
+Com efeito,"Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição", em observância àSúmula359/STJ. A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO EM CADASTRO DE INADIMPLEMENTO. DANO MORAL. AUSÊNCIA DE COMUNICAÇÃO PRÉVIA PELO ÓRGÃO MANTENEDOR DO CADASTRO. RESPONSABILIZAÇÃO. SÚMULA 359/STJ. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. PROVIMENTO NEGADO. PROCESSUAL CIVIL E CIVIL.
+1. Acerca da legitimidade da entidade credora para figurar no polo passivo das ações nas quais se pugna por indenização por danos morais, decorrentes da inscrição indevida do nome do devedor sem prévia notificação, esta Corte Superior, em diversas oportunidades, já se manifestou no sentido de que tal responsabilidade incumbe ao órgão mantenedor do cadastro. Precedentes desta Corte.
+2. Incidente, no caso, o teor do enunciado da Súmula 359/STJ ("Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição").
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp 146564/SP, de minha Relatoria, QUARTA TURMA, julgado em 26/8/2014, DJe de 1º/10/2014)
+Deveras, os órgãos mantenedores de cadastros possuem legitimidade passivapara as ações que buscam a reparação dos danos morais e materiais decorrentes da inscrição, sem prévia notificação, do nome de devedor em seus cadastros restritivos" (REsp n. 1.061.134/RS, Rel. MINISTRA NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 10/12/2008, DJe 01/04/2009).
+Todavia, no caso concreto, o Tribunal a quo identificou que a microempresa ora recorrida é empresa de consulta, e não empresa mantenedora de cadastro negativado. Assim, não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ), sendo que anecessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea cdo inciso III do art 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO DO NOME DO DEVEDOR NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. SÚMULA 359/STJ. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO NÃO PROVIDO.
+1. "Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição" (Súmula 359/STJ).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1502660/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/5/2020, DJe de 18/5/2020)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado sucumbenciais para 13% sobre o valor atualizado da causa, observada a gratuidade da justiça.
+Publique-se.
