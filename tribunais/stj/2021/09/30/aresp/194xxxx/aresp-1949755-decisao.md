@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por TGM INDÚSTRIA E COMÉRCIO DE ÁLCOOL E AGUARDENTE LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DE CONDENAÇÃO EM PAGAMENTO DE SOMA EM DINHEIRO. Procedência. Insurgência da ré.
+Prestação de serviços de terraplenagem e transporte de materiais. Alegação de não comprovação dos serviços. Notas fiscais eletrônicas emitidas pela autora e demonstrativo de contas a pagar/receber extraído de sistema da própria ré que comprovam a prestação dos serviços contratados. Inexistência de prova do pagamento. Legitimidade do valor exigido.
+SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 373, I, do CPC, no que concerne à ausência de provas de qualquer prestação de serviços da recorrida à recorrente, pugnando, assim, pela reforma do acórdão recorrido para julgar improcedentes os pedidos, trazendo os seguintes argumentos:
+A Recorrida não comprova qualquer prestação de serviços à Recorrente (ou a quem quer que seja), de modo que o v. acórdão viola o inciso I do artigo 373 do Código de Processo Civil:  ..
+ ..
+Ao decorrer dos autos, a Recorrida juntou somente documentos emitidos unilateralmente para o comprovar seu crédito, as notas fiscais de fls. 9/16. Essas não tinham sequer aceite ou assinatura de usufrutuário do serviço.
+Embora dotadas de valor probatório em questões de tributação, as notas fiscais não têm o bojo para comprovar obrigações de natureza civil. Tal entendimento é amplamente confirmado pela jurisprudência deste e dos demais Tribunais de Justiça do Brasil.
+Os comprovantes de deposito de fls. 17/18 tampouco servem como prova da realização dos serviços da Recorrida. Ora, o deposito de serviços acordados e feitos não serve para comprovar a existência de demais serviços alheios ao documento.
+Não há nos autos qualquer contrato, orçamento ou qualquer outro documento que poderia dar origem a obrigação. Não há, portanto, prova que demonstre o acordo de vontades entre as partes de realizar os supostos serviços (fls. 691-692).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Ocorre, porém, que, muito embora as notas fiscais eletrônicas (fls. 9/16), não tragam a assinatura de qualquer preposto da ré, elas descrevem de maneira detalhada todos os serviços prestados e que a autora afirma não terem sido pagos.
+Além disso, o demonstrativo de contas a pagar/receber (fl. 8), não se trata de prova produzida unilateralmente pela demandante, mas de documento com timbre extraído do próprio sistema daquela.
+A corroborar tal fato, basta observar que a própria ré já havia reconhecido ser devedora da autora na quantia de R$ 35.087,92 (fl. 272), cujos dados aqui descritos se assemelham àqueles mencionados no documento acima mencionado.
+Se não bastasse, tal quantia foi mencionada pela ré no relatório de posição de fornecedores em aberto (fl. 284), pelo o que é dado concluir, sem sobre de dúvida, que o demonstrativo de contas a pagar/receber é hábil a demonstrar a assunção do débito exigido.
+Malgrado haja uma pequena divergência entre os valores mencionados no relatório de posição de fornecedores em aberto (fl. 284), e no demonstrativo de contas a pagar/receber (fl. 8), os indicados neste, ante a inexistência de impugnação específica, devem ser adotados como corretos.
+Sendo assim, tendo sido comprovada a prestação dos serviços e ausente prova do pagamento, há que se reconhecer como legítimo o valor exigido pela autora e resultante da somatória das notas fiscais eletrônicas indicadas no pedido inicial. (fls. 676-677).
+Aplicável, portanto, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
