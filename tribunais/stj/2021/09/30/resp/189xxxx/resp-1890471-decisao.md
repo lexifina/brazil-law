@@ -1,0 +1,8 @@
+DECISÃO
+Por ocasião do julgamento do RE n. 827.996/PR, o colendo Supremo Tribunal Federal, em tema comrepercussão geral previamente reconhecida,fixou a seguinte tese, no que aqui interessa:
+2. Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011.
+Atento a esse balizamento, observo que a ação de indenização securitária que inaugura estes autosfoi ajuizada no Poder Judiciário do Estado de São Paulo em 14/9/2015, tendo sido proferida sentença pelo Juízo de Direito da 1ª Vara Cível de Assis- SP em 29/11/2019 (e-STJ, fls. 2.101-2.107).
+Certo, ainda, que, nos termos da Petição n. 847.244/2021(e-STJ, fls. 2.362-2.365), apresentada nesta Corte, após provocação, a Caixa Econômica Federal manifestou, de forma inequívoca, o seu interesse na lide.
+Nesse contexto, e em obediênciaà decisão proferida pela Suprema Corte no RE n. 827.996/PR, reconheço aincompetência absoluta da Justiça comum estadual para apreciação da presente demanda e, em consequência, declaro a nulidade de todos os atos decisórios praticados neste processo,ficando prejudicado o recurso especial de fls. 2.268-2.290(e-STJ).
+Ao se realizar a baixa, os presentes autos deverão ser encaminhados diretamente à Justiça Federal no Estado de São Paulo - Subseção Judiciária de Assis.
+Publique-se.
