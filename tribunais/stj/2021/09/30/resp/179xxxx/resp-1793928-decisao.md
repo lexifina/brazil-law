@@ -1,0 +1,17 @@
+DECISÃO
+ABRAÃO SILVEIRA LEITE interpõe recurso especial, com fulcro no art. 105, III, "a", da CF, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+O insurgente aponta a violação do art. 1º, parágrafo único, da Lei nº 8.072/1990 e pugna pelo afastamento da hediondez do crime a ele imputado, previsto no art. 16, da Lei n. 10.826/2003, uma vez que não ocorreu a apreensão de arma de fogo de uso restrito. Assinala, ainda, que houve aplicação retroativa da Lei n. 13.964/2017, de 24/12/2019.
+Contrarrazões às fls. 1.024-1.029.
+O Ministério Público Federal opinou pelo não conhecimento do reclamo.
+Decido.
+O recurso é tempestivo.
+O Tribunal assim se manifestou sobre a controvérsia (fl. 940):
+Ao contrário do que argumenta o Acusado Abraão Silveira Leite, não é somente a apreensão de uma arma de fogo de uso restrito que caracteriza §)a hediondez. O dispositivo da Lei de Crimes Hediondos não faz referência à conduta de possuir ou portar arma de fogo de uso restrito, que é apenas uma das previstas no art. 16 da Lei 10.826/03, e sim ao nomen iuris do delito, ou seja, a todo o conteúdo deste, todos os comportamentos descritos no caput e no parágrafo único
+Obedecendo ao comando do art. 5ª, XLIII, daConstituição Federal, os crimes hediondos sãoaqueles que estão elencados em rol taxativo definido pelo legislador.
+Somente a partir da Lei n. 13.964/2017, de 24/12/2019, que entrou em vigor após decorridos 30 dias de sua publicação, o art. 1º, parágrafo único, II, da Lei n. 8.072/1990, passou a estabelecer que "consideram-se também hediondos, tentados ou consumados o crime de posse ou porte ilegal de arma de fogo de uso proibido, previsto no art. 16 da Lei n. 10.826, de 22 de dezembro de 2003".
+O art. 16 da Lei n. 10.826/2003 define como crime de posse ilegal de arma de fogo de uso restrito as condutas de "Possuir, deter, portar, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob sua guarda ou ocultar arma de fogo, acessório ou munição de uso restrito, sem autorização e em desacordo com determinação legal ou regulamentar".
+Não é útil ou necessário, neste recurso especial, interpretar se o dispositivo da Lei de Crimes Hediondos faz referência ao nomem iuris do art. 16 da Lei n. 10.826/2003 ou incide somente sobre as condutas de possuir ou portar arma de fogo de uso restrito.
+Isso porque constata-se, a um primeiro olhar, a aplicação retroativa da lei penal mais gravosa ao réu, o que não se admite (art. 5º, XL, da CF) A matéria não foi debatida na origem (falta de prequestionamento), mas a ilegalidade é singela e manifesta, razão pela qual a afasto de ofício, consoante o permissivo do art. 654, § 4º, do CPP.
+Os fatos ilícitos ocorreram no ano de 2017, em data não especificada, sendo certo que "no dia 16 de novembro de 2017  .. , policiais civis e militares  ..  deram cumprimento à ordem judicial. Na oportunidade, logrou-se êxito em localizar um verdadeiro arsenal de armas, munições e acessórios em poder do denunciado". Como o crime praticado pelo recorrente foi perpetrado antes da entrada em vigor da Lei n. 13.497/2017, em 23/1/2018, não pode ser considerado hediondo.
+À vista do exposto, não conheço do recurso especial. Entretanto, concedo habeas corpus de ofício, para afastar a hediondez do crime perpetrado pelo réu, haja vista o princípio da irretroatividade da lei penal mais gravosa.
+Publique-se e intimem-se.
