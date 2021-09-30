@@ -1,0 +1,26 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 0010753-85.2015.8.11.0041
+Recorrente: Goldfarb PDG 3 Incorporações Ltda.
+Recorrido: Willian Sebastião Pescuma de Morais
+Vistos.
+Trata-se de recurso especial interposto por Goldfarb PDG 3 Incorporações Ltda., com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado (id 88848483).
+Em razão do pleito da assistência judiciária gratuita nas razões recursais, determinou-se a intimação da recorrente para comprovar, de forma cabal, a sua hipossuficiência, no prazo de 05 (cinco) dias, sob pena de indeferimento do pleito, conforme dispõe o artigo 99, § 2°, do Código de Processo Civil (id 97574979).
+Intimada, a recorrente procedeu à juntada de documentos com o intuito de comprovar a sua hipossuficiência (id 98487475).
+Em análise aos referidos documentos, foi indeferido o pleito de assistência judiciaria gratuita, e determinada a intimação da recorrente para, no prazo de 05 (cinco) dias, realizar o recolhimento do preparo, sob pena de deserção (id 100344962).
+É a síntese. Decido.
+Constata-se de plano a deserção recursal, pois, consoante a certidão id 102203471, “decorreu o prazo legal em: 15/09/2021, sem manifestação do Recorrente quanto ao despacho ID 100344962”.
+Nesse sentido:
+“PROCESSUAL CIVIL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. DESERÇÃO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+I - Não existe a alegada violação do art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. II - Na verdade, a questão não foi decidida conforme objetivava a embargante, uma vez que foi aplicado entendimento diverso. É sabido que o juiz não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+III - Ressalte-se, ainda, que cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto.
+IV - Quanto ao preparo, no caso de indeferimento do pedido de justiça gratuita nas instâncias ordinárias, esta Corte Superior tem jurisprudência pacífica no sentido de que deve concedido prazo para o pagamento e só depois, caso o recorrente se mantenha inerte, deve ser decretada a deserção. Nesse sentido: AgRg no AREsp 300.788/BA, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 5/6/2014, DJe 16/6/2014; EDcl no Ag 1.047.330/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 24/8/2010, DJe 2/9/2010; AgRg no Ag 1.122.934/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 4/8/2009, DJe 17/8/2009.
+V - Agravo regimental improvido”. (AgRg no REsp 1422429/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04/09/2018, DJe 12/09/2018).
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
