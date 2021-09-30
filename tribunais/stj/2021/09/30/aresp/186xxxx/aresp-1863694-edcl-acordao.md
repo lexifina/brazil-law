@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Cuida-se de embargos de declaração opostos por PLASTILIT PRODUTOS PLASTICOS DO PARANA S/A aoacórdão que negou provimento ao agravo interno por ele interposto, assim ementado (fl. 227):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+2. Agravo interno não provido.
+O recorrente aponta, em síntese, omissão no acórdão embargado, argumentando quehouve efetivo enfrentamento e impugnação específica de porque não incidiria no caso a Súmula 83 do STJ.(fl. 767)
+Para tanto, o embargante sustenta que, tanto no AgREsp, quanto no AgInt,colacionou julgados que evidenciam a inaplicabilidade do entendimento.
+Impugnação às fls. 771-774.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício a ensejar esclarecimento ou a integração do que decidido no julgado.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Deve o embargante, portanto, ao apontar a existência de erro, contradição, obscuridade ou omissão, indicar, de forma fundamentada, clara e balizada, o ponto em que a decisão embargada incorreu no vício alegado, não bastando a mera alegação de existência de vício do art.1.022 do CPC/2015, com base no inconformismo diante da decisão proferida.
+Não se apresenta omisso o acórdão embargado que negou provimento ao agravo interno da recorrente ao fundamento de que não houve impugnação específica ao fundamentação de decisão da Corte de origem que não admitiu o recurso, atinente à incidência do óbice da Súmula 83 do STJ.
+Confira-se:
+Na espécie, não se conheceu do AREsp, porque o agravante não impugnou especificamente a decisão que inadmitiu o recurso especial, a qual se fundamentou na Súmula 83/STJ, já que o entendimento perfilhado pelo acórdão recorrido estava em consonância com a jurisprudência que emana do Superior Tribunal de Justiça.
+Não conhecido o recurso com base na Súmula 83 do STJ, caberia à agravante apontarprecedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do decisum recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada, o que não ocorreu na espécie.
+O embargante,nas razões do AgREsp, assim manifestou às fls. 576-577:
+Sucede que, a despeito do entendimento, a série de julgados colacionados não representam entendimento jurisprudencial formado. Senão, vide que há decisões em sentido reverso, na Segunda Turma do STJ:
+PROCESSO CIVIL. ICMS. CRÉDITOS DECORRENTES DE OPERAÇÕES DE EXPORTAÇÃO. APROPRIAÇÃO E TRANSFERÊNCIA DOS SALDOS CREDORES. INEXISTÊNCIA DE SALDO CREDOR DECLARADO PELO TRIBUNAL DE ORIGEM. LEI COMPLEMENTAR N. 87/96 ("LEI KANDIR"). 4. Por determinação legal, a operação de compensação de débitos com créditos ocorre anteriormente a qualquer outra operação (caput do art. 25). Ao final, havendo saldo de créditos de ICMS, abre-se a possibilidade de apropriação, utilização ou tramferência pelo contribuinte (§§" 1º e 2º do art. 25). O aproveitamento desse saldo, quando embasado no § 1º do art. 25 da Lei Complementar n. 87, não pode ser limitado por lei estadual. "Por ser autoaplicável o § 1º do art. 25 da Lei Complementar n. 87/96, e sendo os créditos oriundos de operações disciplinadas no art. 3º, inciso II, do mesmo normativo, "não é dado ao legislador estadual qualquer vedação ao aproveitamento dos créditos do ICMS, sob pena de irfringir o princípio da não-cumulatividade, quando este aproveitamento se fizer em bem fício de qualquer outro estabelecimento seu, no mesmo Estado, ou de terceiras pessoas, observando-se para tanto a origem no art. 3 2 ". Nesse sentido; AgRg no AREsp 187.884/RS, Rd Ministro ARNALDO ESTEVES LIMA, Primeira Turma, Ele 18/6/2014; Ag Rg no AREsp 151.708/RS, Rd Ministro HUMBERTO MARTINS, Segunda Turma, Ele 14/6/2012; AgRg no REsp 1.247.425/MA, Rd Ministro HERMAN BENJAMIN, Segunda Turma, Ele 16/9/2011; RMS 13.969/PA, Primeira Turma, Rd Min. Francisco Falcão, EJ de 4.4.2005; RMS 13544/PA, Rel. Min. Eliana Calmon, Segunda Turma, julgado em 19.11.2002, EJ 2.6.2003, p. 229.REsp 1505296/SP - RECURSO ESPECIAL 2014/0324753-5; Segunda Turma, Publicação em 09.12.2015, Relator Min. Humberto Martins.
+No que diz com a Súmula 83/STJ, para que seja considerado combatida a contento, é preciso que a parte desenvolva uma argumentação que demonstre sua inaplicabilidade e, concomitantemente, colacione julgados do STJ - atuais - em sentido contrário ao do aresto recorrido, é dizer, no mesmo sentido da tese defendida no recurso especial cuja ascensão é buscada.
+Todavia, como visto, tal providência não foi observada pela agravante, uma vez que a jurisprudência colacionada pelo recorrente é anterior ao precedente citado na decisão de inadmissibilidade do recurso especial.
+Como se nota, não trouxe a embargante argumentos que demonstrassem omissão quanto ao julgado embargado, mas apenas mero inconformismo com o que fora decidido.
+Assim, constatada apenas a discordância da Embargante com o deslinde da controvérsia, não restando demonstrada efetiva omissão a ensejar a integração do julgado, pelo que ausente pressuposto a ensejar a oposição dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
