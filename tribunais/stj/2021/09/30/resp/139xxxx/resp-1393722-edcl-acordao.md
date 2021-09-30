@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por Sérgio Luiz Maganhoto e outro, contra acórdão, assim ementado (fl. 808):
+ADMINISTRATIVO. TERRENO DE MARINHA. REGISTRO IMOBILIÁRIO. OPONIBILIDADE EM FACE DA UNIÃO. PRESUNÇÃO RELATIVA. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CF/1988, ART. 20, VII). PROCESSO DEMARCATÓRIO OCORRIDO EM 1990. CIENTIFICAÇÃO DO OCUPANTE À ÉPOCA DO PROCEDIMENTO. ALEGAÇÃO DO NOVO OCUPANTE DE QUE NÃO FOI CIENTIFICADO DO PROCESSO DEMARCATÓRIO. NÃO CABIMENTO. PRESCRIÇÃO.
+1. Hipótese em que os recorrentes sustentam, em síntese, que a área, na qual consta o imóvel, não é terreno de marinha, pois: (a) trata-se de área sobre a qual ocorreu doação do poder público para o particular; (b) deve ser afastada a prescrição, quanto ao questionamento do procedimento demarcatório, pois os recorrentes receberam a notificação/intimação pessoal da DIREP/SPU/SC n. 150/2010, em 29/1/2010, e a presente demanda foi ajuizada em 4/4/2010.
+2. Conforme se extrai do acórdão recorrido, o procedimento demarcatório foi finalizado em 1990 (fl. 360) e na sentença consta que a transferência do imóvel, para os ora recorrentes, só ocorreu em 1997 (fl. 214). Assim, se não eram proprietários (interessados) ao tempo da demarcação, descabe o pedido de anulação do procedimento, por falta de notificação pessoal, notadamente porque o ocupante à época foi notificado, segundo consta do julgamento ocorrido na Corte de origem.
+3. Aplica-se ao caso dos autos o entendimento assentado no REsp n. 1.183.546/ES, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe de 29/9/2010, julgado sob o rito dos recursos especiais repetitivos, segundo o qual o registro imobiliário não é oponível contra a União para afastar o regime dos terrenos de marinha, servindo apenas como presunção relativa de propriedade particular a atrair o dever de notificar pessoalmente aqueles que constam no título como proprietários para fins de participação do procedimento de demarcação da linha preamar e a declaração do domínio público sobre a área, pois a Constituição Federal de 1988, em seu artigo 20, inciso VII, atribuiu a este ente da Federação a propriedade dos referidos bens.
+4. O ocupante que estava na posse do imóvel à época do procedimento demarcatório (1990) teve ciência da demarcação e não há notícia de qualquer insurgência no quinquênio posterior à finalização da demarcação. Desse modo, no momento em que os recorrentes tornaram-se ocupantes (1997), o prazo quinquenal previsto no art. 1º do Decreto-Lei n. 20.910/1932 já havia expirado, não se renovando pela transmissão do imóvel entre particulares.
+5. Recurso especial não provido.
+Os embargantes sustentam, em síntese, erro material, pois o acórdão embargado, ao manter a prescrição do direito, valeu-se de suposta premissa segundo a qualo anterior proprietário/possuidor játeria sido notificado à época em que se deu o procedimento demarcatório (1990), o que, segundo os embargantes, "nunca ocorreu (fl. 822)".
+Assim, entendem haver erro material no julgamento em razão de não havernotificação do anterior possuidor para a participarda demarcação do terreno de marinha.
+Ao final, requerem (fl. 834):
+- O provimento dos presentes Embargos de Declaração, para corrigindo-se o ERRO MATERIAL apontado, em sede de JUÍZO DE RETRATAÇÃO dar provimento ao Recurso Especial impetrado, reformando- se o acordão recorrido, nos exatos termos naquele recurso especial expostos;
+- Em não sendo esse o entendimento, o que se admite apenas para argumentar, que os presentes Embargos Declaratórios, sejam apresentados em mesa e levados a julgamento pela Colenda 1ª Turma deste Tribunal Superior, para:
+- Ao final reformar a decisão ora embargada, proferindo consequentemente o entendimento da Turma a cerca do ERRO MATERIAL apontado, reformando a decisão de 2º Grau, declarando a presente ação totalmente procedente e mantendo-se os ônus da sucumbência firmados em 1º Grau.
+Com impugnação às fls. 841-845.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. ALEGAÇÃO DE ERRO MATERIAL. VÍCIONÃO CONFIGURADO.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, os embargantes afirmam a ocorrência de erro material, pois o acórdão embargado teria adotado, equivocadamente, a premissa de que o antigo proprietário/possuidor havia sido notificado para participar do processo demarcatório do terreno de marinha, o que não ocorreu.
+Com efeito, não se antevê oaludidovício.
+A fundamentação do acórdão é clara ao observar que há no acórdão proferido pelo Tribunal Regional Federal da 4ª Região a informação segundo a qual o anterior proprietário havia sido notificado do procedimento demarcatório à época em que foi realizado. Confira-se (fls. 812-813):
+Por um lado, a alegação de que não ocorreu a notificação pessoal dos recorrentes paraparticiparem do processo demarcatório vem destituída de razoabilidade, pois o acórdão recorrido declarou que o procedimento demarcatório foi finalizado em 1990 (fl. 360) e na sentença constou que a transferência de direitos sobre imóvel, diga-se, para os recorrentes, só ocorreu em 1997 (fl. 214). Assim, se não eram proprietários (interessados) à época da demarcação, descabe o pedido de anulação do procedimento por falta de notificação pessoal, pois informa o acórdão recorrido que o ocupante, à época, foi notificado.
+E a premissa de que houve a notificação do anterior ocupante foi extraída do acórdão da Corte de origem, conforme se observa abaixo (fl. 360):
+O termo inicial do prazo prescricional é a data na qual o imóvel em discussão foi declarado como terreno de marinha, em virtude do término do procedimento administrativo de demarcação da Linha do Preamar Médio na região, sendo computada da data da ciência do ocupante do imóvel à época.
+Não há erro material a ser corrigido.
+Os aclaratórios, nos termos em que apresentados, contêm nítido pedido de rejulgamento da causa, o que desborda dos limites estreitos previstos no art. 1.022, I e II, do CPC/2015.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto
