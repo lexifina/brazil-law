@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MATO GROSSO, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região que possui a seguinte ementa (e-STJ fl. 538):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS A EXECUÇÃO FISCAL. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT. IMUNIDADE RECÍPROCA. SUSPENSÃO DA EXIGIBILIDADE DA COBRANÇA DE ICMS SOBRE O SERVIÇO DE TRANSPORTE.HONORÁRIOS ADVOCATÍCIOS.
+1. O egrégio Supremo Tribunal Federal reconheceu que: "A Empresa Brasileira de Correios e Telégrafos (ECT), que é empresa pública, executa, como atividade-fim, serviço postal constitucionalmente outorgado, em regime de monopólio, à União Federal, qualificando-se, em razão de sua específica destinação institucional, como entidade delegatária dos serviços públicos a que se refere o art. 21, inciso X, da Lei Fundamental, o que exclui essa empresa governamental, em matéria de impostos (inclusive o ICMS), por efeito do principio da imunidade tributária reciproca (CF, art. 150, VI, a), do poder de tributar deferido aos entes políticos em geral".
+Destacou, ainda, que: "Consequente inexigibilidade, por parte do Distrito Federal, do ICMS referente às atividades de transporte de encomendas executadas pela ECT na prestação dos serviços públicos: serviço postal, no caso". (ACO 2654 AgR/DF, Ministro CELSO DE MELLO, TRIBUNAL PLENO, julgamento: 03/03/2016, publicação: 22/03/2016)
+2. O apelado não demonstrou que os serviços prestados pela ECT são diversos do postal, de modo que deve ser assegurada a imunidade tributária recíproca.
+3. No que tange aos honorários de sucumbência, tal verba tem característica complementar aos honorários contratuais, haja vista sua natureza remuneratória.
+4. Ademais, a responsabilidade do advogado não tem relação direta com o valor atribuído à causa, vez que o denodo na prestação dos serviços há de ser o mesmo para quaisquer casos.
+5. Assim, a fixação dos honorários advocatícios levada a efeito pelo magistrado "a quo" guarda observância aos princípios da razoabilidade e da equidade, razão pela qual deve ser mantida.
+6. Apelação e remessa oficial não providas.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 555/558).
+Nas razões de recurso (e-STJ fls. 561/573), a recorrente aponta violação do art. 1.022, II, do CPC/2015e do art. 3º da Lei n.6.830/1980. Em síntese, entende que o Tribunal de origem teria sido omisso em analisar as questões postas nos embargos de declaração, em especial, sobre apresunção de certeza e liquidezinerente à CDA .
+No mérito, tem por violado oart. 3º da Lei n.6.830/1980, "na medida em que a execução fiscal da qual se originou os presentes embargos à execução está lastreada em certidão de dívida ativa, a qual, nos termos do referido artigo, goza de presunção de liquidez e certeza e somente pode ser ilidida por prova inequívoca a cargo do executado ou de terceiro"(e-STJ fls. 569/570).
+As contrarrazões nãoforam oferecidas.
+O recurso foi admitido às e-STJ fls. 619/626.
+Passo a decidir.
+Orecurso especial tem origem em sentença que julgou parcialmente procedentes os embargos à execução (oferecidos pela União/Fazenda Nacional), nos seguintes termos (e-STJ fl. 144):
+O Tribunal de origem negou provimento à apelação e à remessa oficial. Destaco os fundamentos que deram suporte ao julgado (e-STJ fls. 534/536):
+O egrégio Supremo Tribunal Federal reconheceu que: "A Empresa Brasileira de Correios e Telégrafos (ECT), que é empresa pública, executa, como atividade-fim, serviço postal constitucionalmente outorgado, em regime de monopólio, à União Federal, qualificando-se, em razão de sua específica destinação institucional, como entidade delegatária dos serviços públicos a que se refere o art. 21, inciso X, da Lei Fundamental, o que exclui essa empresa governamental, em matéria de impostos (inclusive o ICMS), por efeito do princípio da imunidade tributária recíproca (CF, art. 150, VI, "a), do poder de tributar deferido aos entes políticos em geral".
+Destacou, ainda, que: "Consequente inexigibilidade, por parte do Distrito Federal, do ICMS referente às atividades de transporte de encomendas executadas pela ECT na prestação dos serviços públicos: serviço postal, no caso". .(AGO 2654 AgR/DF, Ministro CELSO DE MELLO, TRIBUNAL PLENO, julgamento: 03/03/2016, publicação: 22/03/2016) Na mesma linha é o entendimento desta egrégia Corte:
+ ..
+Destaco que o apelado não demonstrou que os serviços prestados pela ECT, são diversos do portal, de modo que deve ser assegurada a imunidade tributária recíproca.
+No que tange aos honorários de sucumbência, entendo que tal verba tem característica complementar aos honorários contratuais, haja vista sua natureza remuneratória.
+Ademais, a responsabilidade do advogado não tem relação direta com o valor atribuído à causa, vez que o denodo na prestação dos serviços há de ser o mesmo para quaisquer casosAssim, a fixação dos honorários advocatícios levada a efeito pelo magistrado "a quo" guarda observância aos princípios da razoabilidade e da equidade, razão pela qual deve ser mantida.
+Ante o exposto, nego provimento à apelação e à remessa oficial.
+É o voto.
+Pois bem.
+O recurso especial não merece provimento na parte em que aponta ofensa ao art. 1.022, II, do CPC/2015, por omissão na análise dasteses levantadas nos embargos de declaração.
+Explico.
+Nos termos da jurisprudência dessa Corte Superior, " ..  o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes, quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no REsp 1.383.955/RJ, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 10/04/2018, DJe 13/04/2018).
+Nessa linha, destaco, ainda:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. LIMITAÇÃO ADMINISTRATIVA. IMÓVEL CONSTRUÍDO IRREGULARMENTE. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada.
+2. O juiz não está obrigado a enfrentar todas as questões postas pelas partes, conforme preceituam os arts. 130 e 131 do CPC de 1973, se elas não tiverem relevância para a solução da lide, como se observa pela leitura do acórdão recorrido, que resolveu fundamentadamente todos os pontos importantes postos nos autos.
+3. A indicada afronta aos arts. 1º, 165, 245, 252, 330, 331, 342, 400, 554 e 555 do CPC de 1973 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+4. Recurso Especial conhecido parcialmente e, nessa parte, não provido.
+(REsp 1.580.378/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2016, DJe 19/12/2016).
+Dessa forma, correta a rejeição dos embargos de declaração, quando o Tribunal de origem, apesar de não ter examinado a questão sob o prisma sugerido pelo recorrente, resolve a contenda, de forma fundamentada, com amparo em razões distintas, mas aptas, por si sós, a emprestar fundamento de validade ao acórdão questionado, razão pela qual se deveconcluir pela ausência de ofensa aos dispositivos legais em questão.
+No mérito, o recurso não comporta conhecimento,uma vez que o Tribunal de origem resolveu a controvérsia com fundamento constitucional (princípio da imunidade recíproca), razão pela qual a competência para revisão do julgado passa a ser do Supremo Tribunal Federal.
+Sobre a questão, destaco:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL.CDA. SUBSTITUIÇÃO. DESNECESSIDADE. IPTU. RFFSA. SUCESSÃO TRIBUTÁRIA DA UNIÃO. IMUNIDADE RECÍPROCA. FUNDAMENTO CONSTITUCIONAL.COMPETÊNCIA DO STF.
+1. A Primeira Turma desta Corte, ao afastar a aplicação da Súmula 392/STJ em caso similar ao dos autos, entendeu pela possibilidade de se redirecionar a execução fiscal para cobrança de IPTU à sucessora da RFFSA, sem a necessidade de substituição da CDA, uma vez que a responsabilidade da União não está relacionada com o surgimento da obrigação tributária, mas com o seu inadimplemento. Precedente: AgInt no REsp 1.764.763/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/11/2020, DJe 27/11/2020.
+2. A questão relacionada à imunidade tributária foi apreciada pela Corte de origem com fundamento constitucional (art. 150, VI, "a", da CF). Logo, não há como conhecer do apelo quanto ao ponto, sob pena de usurpar-se a competência reservada pela Constituição ao Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no REsp 1.914.141/MS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 30/08/2021, DJe 1º/09/2021).
+TRIBUTÁRIO E PROCESSUAL CIVIL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. IPTU. IMUNIDADE RECÍPROCA. SOCIEDADE DE ECONOMIA MISTA. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL.
+1. Não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. O acórdão recorrido reconheceu a imunidade tributária da Companhia do Metropolitano de São Paulo com base em fundamentação eminentemente constitucional, insuscetível de revisão em Recurso Especial.
+3. Agravo Interno não provido.
+(AgInt no AREsp 1.790.183/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/05/2021, DJe 1º/07/2021).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
