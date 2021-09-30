@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por COMPANHIA ENERGETICA DO PIAUI, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão doSuperior Tribunal de Justiça, assim ementado (e-STJ fl. 540):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ICMS. REPETIÇÃO DE INDÉBITO. PROGRAMA ESTADUAL DE IRRIGAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DISPOSITIVO FEDERAL NÃO PARTICULARIZADO. SÚMULA 284/STF. NORMAS LOCAIS. SÚMULA 280/STF.
+1. Acerca da incompetência do juízo e da correlata tese de violação do art. 64, § 1º, do CPC/2015, incide, de fato, o óbice das Súmulas 282 e 356 do STF, uma vez que a questão não foi analisada pela Corte de origem, e nem sequer se interpuseram Aclaratórios para tal fim. Ausente, portanto, o requisito do prequestionamento.
+2. Sobre a suposta ofensa ao art. 165 do CTN e a aduzida inexistência de isenção tributária, é de se aplicar a Súmula 284/STF, pois não há a indicação clara e precisa de qual inciso teria sido violado pelo acórdão de piso, significando, portanto, debilidade argumentativa que inviabiliza a compreensão da irresignação. Precedentes do STJ.
+3. Descabe Recurso Especial. O acórdão está inteiramente fundado na legislação local, ainda que se alegue violação de dispositivos de lei federal. Tanto é verdade, que a parte afirma que o ponto central da discussão seria a inclusão, na base de cálculo da cobrança do ICMS, do "quantum energético consumido efetivamente" por produtor rural beneficiado por programa estadual de irrigação (Leis estaduais 4.542/92, 5.630/07, e Decreto estadual 9.325/95).
+4. Aplicável, por analogia, o óbice previsto na Súmula 280/STF, segundoo qual por ofensa a direito local não cabe Recurso Extraordinário, ensejando o não conhecimento do Recurso Especial. Precedentes do STJ.
+5. Agravo Interno não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls.566-574).
+Sustenta o recorrente a repercussão geral da matéria em debate e aviolação aoart. 5º, incisos XXXV, LIV e LV, da Constituição Federal.
+Defende a impossibilidade de aplicar desconto sobre toda a conta de energia elétrica porimplicar na concessão deisenção dos tributos constantes na fatura.
+Alega que o acórdão impugnado equivocou-se na aplicação dos óbices sumulares, uma vez que foramventiladosaincompetência absoluta da justiça comum para o julgamento da causa ea sua ilegitimidade passiva.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas as contrarrazões (e-STJ fl. 598).
+É o relatório.
+Compulsando-se os autos, verifica-se que o acórdão objeto do recurso extraordinário negou provimento ao agravo interno, mantendo a decisão unipessoal que não conheceu do recurso especial, por incidência dos enunciados 280, 282, 284 e 356 do Supremo Tribunal Federal.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+No mesmo diapasão:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OBJETO RECURSAL REJEITADO PELO STF. RE 598.365-RG/MG (TEMA 181). QUESTÃO CONSTITUCIONAL IMPUGNADA ORIGINARIAMENTE. NÃO OCORRÊNCIA. PRECLUSÃO. 1. O objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, tema 181, por se tratar de questão infraconstitucional. 2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao acórdão do juízo de segundo grau deve ser atacada em momento próprio, sob pena de preclusão, apenas sendo admissível recurso extraordinário de acórdão de recurso especial quando, no julgamento deste, originar-se a matéria constitucional impugnada. Precedentes. 3. Agravo interno a que se nega provimento.
+(ARE 768.691 ED, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/06/2018, PROCESSO ELETRÔNICO DJe-153 DIVULG 31-07-2018 PUBLIC 01-08-2018)
+Com igual orientação:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA. BEM DE FAMÍLIA. SÚMULA 279 DO STF. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO AGRAVO. 1. É inadmissível o recurso extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seja necessário o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365). 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Verba honorária majorada em  (um quarto), nos termos do art. 85, § 11, devendo ser observados os §§ 2º e 3º, CPC.
+(ARE 1.015.880 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF, sendo inviável a análise da violação doart. 5º, incisosXXXV, LIV e LV, daConstituição Federal aventada no recurso extraordinário.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
