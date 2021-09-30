@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos por CAIXA ASSISTÊNCIA DE SERVIDORES DA CEDAE CAC contra decisão de fls. 2.058/2.060, que deu provimento ao agravo interno e, em novo exame, conheceu do agravo para dar parcial provimento ao recurso especial apenas para afastar a incidência de juros remuneratórios.
+Nas razões dos aclaratórios, afirma-se que "(..)conquanto o agravo interno e a resposta a ele apresentada se limitassem a discutir a intempestividade do agravo em recurso especial, essa questão preliminar sequer foi analisada pela referida decisão" (fl. 2..064).
+Ressalta-se que "A despeito da mentira consignada no agravo interno, de que o Sr. Flávio Bacellar foi intimado em 07/05/2018, os seu advogados, na realidade, foram intimados, em 04/05/2018(sexta-feira), da decisão da 3ª Vice-Presidência do Tribunal a quo que inadmitiu o recurso especial de fls. 1.811/1.832,do que faz prova a inequívoca certidão de fls. 1.900" (fl. 2.066).
+Registra-se que "Assim, iniciou-se em 07/05/2018(segunda-feira)a contagem do prazo para a interposição do agravo em recurso especial, a se encerrar, após 15 (quinze) dias úteis (artigo1.042, § 3º, do CPC), em 25/05/2018"(fl. 2.067).
+Destaca-se que "O único dia considerado como dia não útil e, portanto, feriado para efeito forense foi o dia 28/05/2018, no qual, por determinação da Presidência do Tribunal a quo (documento intempestivo de fls. 1.989), não houve expediente forense. A distinção na redação dos atos do Tribunal é proposital, na medida em que trata de dois institutos diferentes, razão pela qual produzem efeitos que não se confundem" (fl. 2.068).
+Consigna-se que "(..) no dia 28/05/2018 a contagem dos 15 (quinze) dias úteis do prazo de interposição do recurso já havia se encerrado. Assim, a existência de dia não útil acarretou, nos termos do artigo 224, § 1º, do CPC, apenas a prorrogação do vencimento do prazo, o que não se confunde com a sua devolução" (fl. 2.068).
+Diante disso, pleiteia-se que sejasanadareferidaomissão.
+Intimado, FLÁVIO MENEZES BACELLAR apresentou impugnação às fls. 2.077/2.084.
+É o relatório.
+A irresignação merece prosperar, pois, de fato, a decisão embargada foi omissa quanto à tese de intempestividade do agravo em recurso especial.
+Passa-se, portanto, à análise da mencionada preliminar.
+Com efeito, o agravo em recurso especial é intempestivo.
+Isso porque, a teor da certidão de fl. 1.899, houve consulta da intimação peloprocurador de FLÁVIO MENEZES BACELLAR em 04/05/2018. Assim, a teor do art. 5º, § 1º, da Lei n. 11.419/2006, considera-se realizada a intimação no dia em que efetivar a consulta e o início do prazo dar-se-á no primeiro dia útil seguinte.
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. INTIMAÇÃO ELETRÔNICA. COMEÇO DO PRAZO. PRIMEIRO DIA ÚTIL SEGUINTE DA DATA DA INTIMAÇÃO.INTEMPESTIVIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Dispõe o decisum agravado: "Mediante análise dos autos, verifica-se que a parte recorrente foi intimada do v. acórdão recorrido em 09/05/2016, sendo o recurso especial somente interposto em 01/06/2016. Dessa forma, inadmissível, porquanto intempestivo, eis que interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil. "(fl. 549).
+2. Esclareça-se que, nos termos dos artigos 231, inciso V, do CPC/2015 e 5º, § 1º, da Lei 11.4192006, a "intimação eletrônica considera-se realizada no dia em que o intimado efetivar a consulta eletrônica ao teor da intimação" (EDcl no AgRg no AREsp 355.670/RJ, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/6/2016) e que o dia do começo do prazo, é o dia útil seguinte à consulta da intimação.
+3. Verifica-se que a intimação do agravante ocorreu em 9/5/2016, assim o prazo começou a ser contado do primeiro dia útil, portanto, a partir de 10/5/2016.
+4. Como o prazo se iniciou em 10/5/2016 e terminou no dia 31/5/2016, é intempestivo o Recurso Especial interposto no dia 1º/6/2016.
+5. No mais, cabe esclarecer que, de acordo com o art. 5º da Lei 11.419/2006, as intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º desta Lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico.
+6. Considerar-se-á realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização. Nos casos em que a consulta se dê em dia não útil, a intimação será considerada como realizada no primeiro dia útil seguinte. A consulta deverá ser feita em até 10 (dez) dias corridos, contados da data do envio da intimação, sob pena de considerar a intimação automaticamente realizada na data do término desse prazo.
+7. Verifica-se que a Certidão à fl. 442, que afirma que o prazo tem início no dia 11 de maio de 2016, se refere apenas à hipótese de inércia do interessado durante o prazo de 10 (dez) dias.
+8. Esclareça-se ainda, que, conforme reconhecido pelo próprio agravante, este optou por se dar por intimado no dia 9 de maio de 2016, portanto, o prazo recursal começou no dia 10 de maio de 2016.
+9. Por fim, não há discrepância entre a legislação processual e o sistema utilizado pelo Tribunal de origem, que não induziu o recorrente a erro.
+10. Agravo Interno não provido."
+(AgInt no REsp 1614653/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/10/2017, DJe 19/12/2017, g.n.)
+No caso em apreço, o início do prazo ocorrera em 07/05/2018 (segunda-feira). O termo final, portanto, dar-se-ia em 25/05/2018, enquanto o recurso foi interposto apenas em 30/05/2018 (fl. 1.900).
+Registre-se que a tese do embargado - no sentido de que os prazos processuais foram suspensos devido à greve dos caminhoneiros -, por si só, é insuficiente para afastar a intempestividade, pois não foram acostados os documentos necessário para comprovar a alegada suspensão do prazo processual. Com efeito, os comprovantes de fls. 1.960/1.963 foram acostados pelo agravado, ora embargante.
+Incumbia, portanto, ao agravante comprovar a suspensão do prazo no ato de interposição do agravo em recurso especial, o que não ocorreu no caso em apreço. Corroboram essa conclusão os julgados a seguir:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A INTEMPESTIVIDADE DO APELO EXTREMO.INSURGÊNCIA RECURSAL DA AUTORA.
+1. In casu, incidem as regras estabelecidas pelo CPC/15, visto que à época da publicação do decisum recorrido já estava em vigor o novo regramento processual.
+1.1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+1.2. Para efeito de tempestividade, a prova da suspensão do expediente forense deve ser feita pela parte interessada por meio de documento idôneo, não servindo cópia de notícia extraída da internet. Precedentes.
+1.3. "No caso, todavia, a parte recorrente não apresentou documentação idônea apta a comprovar a suspensão do prazo recursal referente à alegada "greve dos caminhoneiros", ocorrida em maio de 2018. Não servem a essa finalidade as notícias relacionadas quando da interposição do agravo em recurso especial, porquanto a mera juntada de informações não se revela documento hábil a comprovar a tempestividade do recurso, por ausência de fé pública."(AgInt nos EDcl no AREsp 1347288/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/06/2020, DJe 25/06/2020).
+2. Agravo interno desprovido."
+(AgInt no AREsp 1500256/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/08/2020, DJe 27/08/2020, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO APÓS O PRAZO PREVISTO NO ART. 1.003, § 5º, DO CPC DE 2015. NÃO COMPROVADA A ALEGADA SUSPENSÃO DOS PRAZOS PROCESSUAIS PELO TRIBUNAL DE ORIGEM.FALTA DE DOCUMENTO HÁBIL. AGRAVO IMPROVIDO.
+1. Nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, todos do Código de Processo Civil de 2015, o prazo para interposição do recurso especial e do agravo em recurso especial é de 15 (quinze) dias úteis.
+2. A jurisprudência desta Corte é no sentido de que deve ser comprovada mediante documento idôneo, eventual suspensão do expediente forense e do prazo recursal, pelo Tribunal de origem.
+3. No caso, todavia, a parte recorrente não apresentou documentação idônea apta a comprovar a suspensão do prazo recursal referente à alegada "greve dos caminhoneiros", ocorrida em maio de 2018. Não servem a essa finalidade as notícias relacionadas quando da interposição do agravo em recurso especial, porquanto a mera juntada de informações não se revela documento hábil a comprovar a tempestividade do recurso, por ausência de fé pública.
+4. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1347288/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/06/2020, DJe 25/06/2020, g.n.)
+Assim, os embargos de declaração merecem acolhimento para, sanando a omissão, conferir-lhes efeitos infringentes para negar provimento ao agravo interno devido à intempestividade do agravo em recurso especial.
+Diante do exposto, acolho os embargos de declaração para, com efeitos infringentes, negar provimento ao agravo interno.
+Publique-se.
