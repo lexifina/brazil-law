@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO DE SEGURIDADE SOCIAL BRASLIGHT em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado doRio de Janeiro, assim ementado:
+"AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA - HOMOLOGAÇÃO DO LAUDO PERICIAL CONTÁBIL - ARGUMENTOS APRESENTADOS PELA AGRAVANTE QUE FORAM RECHAÇADOS PELO EXPERT - AUSÊNCIA DE DEMONSTRAÇÃO TÉCNICA DA OCORRÊNCIA DE EQUÍVOCOS NO LAUDO - MERA INSATISFAÇÃO COM A CONCLUSÃO DO LAUDO PERICIAL QUE NÃO É APTA A DESQUALIFICÁ-LA - DECISÃO AGRAVADA MANTIDA - RECURSO CONHECIDO E DESPROVIDO." (fl. 37)
+Nas razões do recurso especial, aora agravante aponta violação aos arts.1º e 14, III,da Lei Complementar nº 109/2001 e26 da Resolução MPS/CGPC nº 6, de 30/10/03, sustentando, em síntese,a incorreção da perícia apresentada.
+Não foram apresentadas contrarrazões.
+É o relatório.
+De início, ressalta-se quenão é cabível a interposição de recurso especial fundado na violação de regulamento, ato normativo secundário que não está compreendido no conceito de lei federal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DECISÃO QUE NÃO CONHECE DE RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO EM CONFORMIDADE COM ENTENDIMENTO DO STJ EM RECURSO REPETITIVO. RECURSO CABÍVEL. AGRAVO INTERNO. IMPOSSIBILIDADE DE APLICAR-SE O PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. VIOLAÇÃO AOS ARTS. 9º, 10 E 933 DO CPC. PRINCÍPIO DA NÃO SURPRESA. CONEXÃO. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO APONTAMENTO DO DISPOSITIVO DE LEI FEDERAL ACOIMADO DE VIOLADO. SÚMULA 284 DO STF. ART. 42 DO CÓDIGO DE ÉTICA DA OAB. NORMA INFRALEGAL. AUSÊNCIA DE COTEJO ANALÍTICO E SIMILITUDE. CONEXÃO. DIVERGÊNCIA PELA SÚMULA 7 DO STJ.
+ ..
+8. De acordo com a sólida jurisprudência desta Corte, cabe ao STJ, como missão precípua, uniformizar a interpretação das leis federais, nos termos do art. 105 da Constituição Federal, não sendo sua atribuição constitucional apreciar normas infralegais, tais como resoluções, portarias, regimentos internos, regulamentos, etc, razão pela qual o recurso não pode ser conhecido pela suposta afronta ao art. 42 do Código de Ética e Disciplina da OAB.
+9. No caso em tela, a parte agravante traz à colação ementa de julgados, contudo não procede ao cotejo, trecho a trecho, com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esses julgados e o do caso em julgamento.
+10. Além disso, quanto à conexão, deve-se acrescentar que não é possível conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal.
+11. Agravo interno não provido.
+(AgInt no AREsp 1598438/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021)
+Ademais, no que tange à perícia realizada para fins de liquidação da sentença, concluiu o Tribunal de origem:
+Após sucessivas indagações pela Agravante e apresentados laudos complementares, concluiu o Expert que o valor devido à Agravada para pagamento até 29/11/2018, deduzido o valor outrora pago, seria R$ 55.830,42, conforme planilhas acostadas às fls. 500/507.
+Eis a conclusão final do Expert:
+--
+"(..) que ao analisar o Regulamento de Benefícios PLANO C, juntado aos autos às fls. 62/71v, constatou no CAPÍTULO II - DAS DEFINIÇÕES, em seu art. 3º, IX - Índice de Reajuste, como índice definido o IGP-DI. Desta forma, a perícia aplicou, portanto, até 03/2010 (data da citação) a atualização por cota e a partir deste mês, até 07/2012, a atualização pelo índice IGP-DI, tendo como total apurado em 08/2012 o montante de R$ 137.280,80.
+Do montante apurado de R$ 137.280,80 foi deduzido o valor já depositado em 05/09/2012 no total de R$ 116.352,92, sendo apurado um saldo remanescente a pagar de R$ 21.927,88 em 05/09/2012. Sobre o referido saldo remanescente foi atualizado pelo índice do TJRJ e aplicado juros de 1% ao mês pelo períodode 05/09/2012 (data do depósito) até a data do presente laudo de esclarecimentos, sendo apurado o saldo remanescente a pagar de R$ 55.830,42 em 29/11/2018, conforme demonstrado nos Quadros 1 e 2.
+Quanto às impugnações 2, 3, 4 e 5 apresentadas pela Ré, a Perícia esclarece que a partir do cumprimento do determinado pelo Juízo às fls. 595, para aplicação de "correção monetária pelo índice previsto em contrato", os pontos levantados pela parte Ré foram consequentemente ajustados;
+Quanto à aplicação da UFIR/RJ para atualização do saldo remanescente, a Perícia tem a esclarecer que aplicou o índice do TJRJ - Lei nº 6.899/81, tendo em vista não haver determinação do Juízo para aplicação de índice diverso ao habitualmente aplicado até a data do presente Laudo Complementar."
+--
+Em que pese o inconformismo da Agravante, os seus argumentos não se mostram suficientes para infirmar as conclusões do Perito.
+A simples contrariedade entre a conclusão do laudo pericial e o interesse da parte, sem prova objetiva e técnica de equívocos, não é apta a desqualificá-la.(fls. 39/40)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+A propósito:
+RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. ALEGAÇÃO DE OFENSA AO ART.535 DO CPC. COISA JULGADA. SÚMULA 7/STJ. IMPROVIMENTO.
+1.- O Tribunal de origem analisou fundamentada e exaustivamente os cálculos apresentados pelo laudo pericial quanto ao valor final devido. Portanto, não há que falar em violação do art. 535 do CPC, uma vez que a controvérsia foi dirimida com a devida e suficiente fundamentação, embora contrariamente à tese do recurso.
+2.- Em liquidação de sentença condenatória decorrente de cobrança de serviços de intermediação e permuta de ativos, a determinação de valores, à analise de laudos periciais e relatórios, matéria julgada em Agravo de Instrumento pelo Acórdão recorrido, o questionamento funda-se, em ultima análise, em questão fática, deslindada pelo tribunal de origem, com base na análise em pericia não havendo como reconhecer ofensa à coisa julgada antecedente, de modo que arredada a alegação de ofensa aos arts. 467, 468 e 475-G do Cód. de Proc.Civil.
+3.- A convicção a que chegou o Acórdão acerca do valor final da condenação apurado na liquidação da sentença, decorreu da análise de pericia do conjunto fático-probatório, de modo que inviável o acolhimento da pretensão recursal, pois demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 desta Corte.
+4.- Recurso Especial improvido.
+(REsp 1433001/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 03/04/2014, DJe 12/05/2014, g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
