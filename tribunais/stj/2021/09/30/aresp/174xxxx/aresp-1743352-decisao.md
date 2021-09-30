@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FABIANA PASSOS DOS SANTOS,contra decisão que inadmitiu recurso especial com fundamento naSúmulan. 283 do STF.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão assim ementado(fl. 240):
+Furto - Princípio da insignificância - Reconhecimento - Impossibilidade - Ré reincidente;
+Furto - Fuga do local com a res furtiva - Prisão graças à eficiente atuação do segurança do estabelecimento que abordou a ré ainda no estacionamento - Inversão da posse do bem, ainda que por pouco tempo - Consumação - Ocorrência - Precedentes jurisprudenciais;
+Furto - Confissão extrajudicial - Redução da pena - Possibilidade - Aplicação da Súmula nº 545 do Superior Tribunal de Justiça - Regime prisional semiaberto - Cabimento - Recurso provido em parte.
+Nas razões do recurso especial (fls. 258-268), o agravante aponta violação do art. 155 do Código Penal, defendendo a atipicidade material da conduta, razão de requerer sua absolvição.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A sentença condenou a recorrente, nos seguintes termos (fls. 168-170):
+Sem dúvida que a absolvição da acusada, à vista da prova existente nos autos, é positivamente descabida, pois os fatos referidos na denúncia foram ao longo da instrução devidamente comprovados.
+ ..
+Mostram-se suficientes à condenação da acusada os elementos coligidos durante a instrução, não se podendo deixar de considerar que tal espécie de delito é em regra dependente de clandestinidade, uma vez que não se pratica o furto às escâncaras justamente para evitar a presença de testemunhas e, por isso mesmo, aprova suficiente à condenação por furto não é daquelas contundentes, vistosas, bastando apreciação de elementos formadores de convicção da certeza de participação da acusada no evento, como o fato da acusada ter sido surpreendida em posse da res furtiva.
+ ..
+Afasta-se, por fim, a alegação de se tratar de crime impossível, a teor do quanto disposto na Súmula nº 567, do STJ, bem como o fato de incidir in casu o princípio da insignificância, dado o fato da acusada ser useira e vezeira na prática de crimes patrimoniais, a tornar dos furtos seu ganho de vida, por isso até que é insubsistente a sua alegação de inexigibilidade de conduta diversa.
+Ante o exposto e considerando tudo o mais que dos autos consta, JULGO PROCEDENTE a ação penal para condenar FABIANA PASSOS DOS SANTOS, como incurso nas penas do artigo 155, caput, do Código Penal.
+O Tribunal de origem, por sua vez,assim decidiu(fls. 242-245):
+Vale dizer, se a lei conceitua a conduta como criminosa independentemente do valor da coisa subtraída, não pode, data venia, o Magistrado alterar o tratamento destinado ao agente autor do crime, devendo apenas aplicar a Lei.
+De qualquer forma, a aplicação do princípio da insignificância, sempre ressalvado o entendimento contrário, acaba por estimular a prática de delitos dessa natureza, além de gerar um sentimento de impunidade simplesmente porque o objeto subtraído muitas vezes em razão do agente não ter oportunidade de subtrair outros objetos tem pouco valor.
+ ..
+De mais a mais, a ré é reincidente (fls. 160/161) e, sendo assim, mesmo para aqueles que entendem possível o benefício invocado, não poderia ser aplicado à apelante.
+ ..
+Não há, dessa forma, como aceitar a pretensão de ver reconhecida a atipicidade da conduta em decorrência do pequeno valor dos bens furtados (R$ 400,60 fls. 11/12), com aplicação do princípio da insignificância ao caso concreto, razão pela qual a condenação era de rigor.
+Verifica-se que o entendimento do Tribunal de origem encontra amparo na jurisprudência desse Superior Tribunal de Justiça, uma vez que,ao afastar a aplicação do princípio da insignificância, levou em consideraçãotantoo valor dos bens furtados, que não deve ser considerado ínfimo (R$ 400,60), pois supera o parâmetro de 10% do salário mínimo vigente à época dos fatos, que era de R$ 954,00, critério utilizado por esta Corte para aferição da relevância da lesão patrimonial, quanto àhabitualidadeda ré que "é reincidente (fls. 160/161)" (fl. 244).
+Incide na espécie a Súmula n. 83 do STJ.
+A respeito, menciono os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. INSIGNIFICÂNCIA. VALOR SUPERIOR A 10% DO SALÁRIO-MÍNIMO. HABITUALIDADE DELITIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior tem seguido, na última década, o entendimento de que para a aplicação do princípio da insignificância deverão ser observados os seguintes vetores: a) mínima ofensividade da conduta do agente; b) ausência periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente e d) inexpressividade da lesão jurídica. Tais vetores interpretativos encontram-se expostos de forma analítica no HC 84.412, Rel. Min.CELSO DE MELLO, SEGUNDA TURMA, julgado em 19/10/2004, DJ 19/11/2004.
+É certo, ainda, que a jurisprudência consolidada do Superior Tribunal de Justiça, para aferir a relevância do dano patrimonial, leva em consideração o salário mínimo vigente à época dos fatos, considerando irrisório o valor inferior a 10% do salário mínimo, independentemente da condição financeira da vítima.
+2. No caso em análise, o furto teria sido praticado no dia 4/8/2018, quando o salário mínimo estava fixado em R$ 954,00 (novecentos e cinquenta e quatro reais). Nesse contexto, seguindo a orientação jurisprudencial desta Corte, a res furtiva avaliada em R$ 114,50 (cento e quatorze reais e cinquenta centavos) não pode ser considerada de valor ínfimo, por superar 10% do salário mínimo vigente à época dos fatos.
+3. Para reconhecimento da habitualidade delitiva em crimes patrimoniais cujo valor da res é de pequena monta, diferentemente do que acontece com a reincidência, não há a necessidade de que o paciente ostente condenações transitadas em julgado.
+4. Agravo Regimental no habeas corpus desprovido.(AgRg no HC 625.422/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma,DJe 24/09/2021.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTOS SIMPLES EM CONTINUIDADE DELITIVA. PEDIDO DE ABSOLVIÇÃO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. VALOR DA RES NÃO IRRISÓRIO. PARÂMETRO DE 10% DO VALOR DO SALÁRIO MÍNIMO VIGENTE AO TEMPO DO FATO. SENTENCIADA TECNICAMENTE PRIMÁRIA. HISTÓRICO CRIMINAL INDICATIVO DE REITERAÇÃO NA PRÁTICA DE CRIMES CONTRA O PATRIMÔNIO. HABITUALIDADE. PECULIARIDADES DO CASO QUE DEMONSTRAM A ACENTUADA REPROVABILIDADE DA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+- O princípio da insignificância deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de certos vetores, como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada (HC n. 98.152/MG, Rel. Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+- O Plenário do Supremo Tribunal Federal, ao examinar conjuntamente os HC n. 123.108/MG, 123.533/SP e 123.734/MG, todos de relatoria do Ministro Roberto Barroso, definiu que a incidência do princípio da bagatela deveria ser feita caso a caso (Informativo n. 793/STF).
+- Nessa linha, a Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS, DJe 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade, no caso concreto, da verificação de a medida ser socialmente recomendável.
+- No caso, não deve ser aplicado o princípio da insignificância, porque o valor do objeto dos delitos, ainda que considerado cada furto isoladamente, ultrapassa o parâmetro prudencial de 10% do valor do salário mínimo vigente à época dos fatos (Salário mínimo de 2014 - R$ 724,00).
+- A extensa Folha de Antecedentes Criminais da agravante, ostentando a prática de vários crimes contra o patrimônio, e até mesmo, com a anotação de uma condenação transitada em julgado, também é circunstância impeditiva ao reconhecimento da insignificância, dado o elevado grau de reprovabilidade da sua conduta.
+- Agravo regimental desprovido. (AgRg no HC n. 585.451/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 31/8/2020.)
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
