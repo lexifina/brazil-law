@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por JOSÉ MARIA DA SILVA RODRIGUES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás (Processo n. 5191878-68.2021.8.09.0000).
+O acórdão do habeas corpus foi assim ementado (fl. 158):
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO CAUTELAR DE REGIME. CABIMENTO. MODO CARCERÁRIO MAIS GRAVOSO. POSSIBILIDADE. 1. Nos termos da jurisprudência do Superior Tribunal de Justiça e com lastro no poder geral de cautela conferido ao Juiz das Execuções Penais, é válida a decisão que determina a regressão cautelar do regime de cumprimento de pena em razão da suposta prática de infração grave, não se falando em ofensa ao contraditório e ampla defesa. 2. Acolhido em pare parecer ministerial de cúpula. 3. Conhecida em parte a impetração. 4. Ordem denegada.
+O Juízo da execução penal reconheceu a prática de falta disciplinar grave e determinou a regressão de regime em razão de o reeducando recusar o trabalho oferecido.
+O recorrente impetrou habeas corpus, requerendo a reinclusão no regime semiaberto e a respectiva expedição de alvará de soltura.
+O Tribunal de origem conheceu parcialmente da ordem, porém denegou o writ.
+O recorrente aponta constrangimento ilegal, afirmando que esclareceu, tanto na Seção de Acompanhamento e Formação dos Apenados dos Regimes Semiaberto e Aberto (SAF) quanto na audiência de justificação, que recursara a vaga de emprego por já possuir ocupação lícita.
+Sustenta que não há falar em falta disciplinar, pois, segundo a legislação e a jurisprudência pátrias, só constitui falta disciplinar a recusa injustificada ao trabalho, o que não é o caso.
+Alega irrazoabilidade e desproporcionalidade da medida imposta.
+Requer, liminarmente e no mérito, o afastamento da falta grave com sua reinclusão no regime semiaberto e consequente expedição de alvará de soltura.
+O pedido de liminar foi indeferido (fls. 200-201).
+Foram prestadas as informações (fls. 206-221).
+O Ministério Público Federal não se manifestou (fl. 223).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Juízo da execução penal reconheceu a prática de falta disciplinar grave nestes termos (fl. 143):
+Dessa forma, ante o Termo de Recusa ao Trabalho assinado pelo apenado enviado pela SAF, nota-se que o apenado, ao recusar voluntariamente o trabalho disponibilizado pela Administração Penitenciária, incorre em prática de falta grave, além de demonstrar total desinteresse e descompromisso com o seu processo de ressocialização e ser pessoa ociosa, pois o trabalho, além de proporcionar a remição da pena, beneficiando-o, é, sem dúvida, o principal pilar da ressocialização, objetivando também prevenir o crime e orientar o retorno á convivência em sociedade.
+Destaco que sua conduta que, repita-se, configura falta disciplinar de natureza grave, nos termos o artigo 118, inciso I, da referida Lei, autoriza a regressão do regime prisional, vejamos:
+Art. 118. A execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado:
+I - praticar fato definido como crime doloso ou falta grave.
+Ao teor do exposto, homologo a falta grave praticada pelo apenado (não desempenho de trabalho externo e REGRIDO O REGIME a que o apenado está submetido - regime SEMIABERTO - para o regime FECHADO.
+O Tribunal de origem manteve a decisão singular, adotando os seguintes fundamentos (fls. 161):
+A seu turno, em que pese a impetrante sustente ofensa ao contraditório e à ampla defesa, a decisão cautelar proferida no processo 0166673-24.2017.8.09.0175 foi fundamentada em documentação constante nos autos que apontou prática de falta grave, sendo o ato judicial provido de motivação concreta para amparar a medida regressiva, nos termos do artigo 118, I da Lei de Execução Penal.
+O Tribunal a quo, soberano na análise dos fatos e das provas dos autos, concluiu que o paciente cometera falta disciplinar de natureza grave por recusa a emprego ofertado.
+Para alterar o entendimento das instâncias ordinárias nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. HOMOLOGAÇÃO DE FALTA GRAVE. NULIDADE. RECUSA AO TRABALHO. ATIPICIDADE MATERIAL. NÃO ACOLHIMENTO. CONVENCIONALIDADE DO TRABALHO NA EXECUÇÃO DA PENA. POSSIBILIDADE. PERDA DE 1/3 DOS DIAS REMIDOS. AUSÊNCIA DE MANIFESTAÇÃO DO EG. TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+I - Consoante previsão dos arts. 50, VI, e 39, V, ambos da LEP, configura falta grave a recusa pelo apenado, à execução de trabalho interno regularmente determinado pelo agente público competente, não havendo que se falar na existência de flagrante ilegalidade no v. acórdão combatido, sobretudo porque, além de a medida não se confundir com a pena de trabalho forçado, vedada pela Constituição Federal (art. 5º, XLVIII, "c"), encontra previsão no art. 6º da Convenção Americana de Direitos Humanos.
+II A insurgência contra a perda de 1/3 (um terço) dos dias remidos não foi examinada pelo eg. Tribunal de origem, o que inviabiliza o seu exame por esta Corte, sob pena de se incorrer em indevida supressão de instância.
+III - No presente agravo regimental não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão agravada, devendo ser mantida por seus próprios fundamentos. Agravo regimental desprovido. (AgRg no HC n. 429.608/SP, relatora Ministro Felix Fischer, Quinta Turma, DJe de 27/4/2018.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. RECUSA INJUSTIFICADA AO TRABALHO. FALTA GRAVE. O DEVER DE TRABALHO IMPOSTO AO APENADO NÃO SE CONFUNDE COM A PENA DE TRABALHO FORÇADO. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo a posição sedimentada pelo Supremo Tribunal Federal, uniformizou o entendimento no sentido de ser inadmissível o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. Contudo, se constatada a existência de manifesta ilegalidade, é possível a concessão da ordem de ofício.
+- O art. 50, inciso VI, da Lei de Execução Penal - LEP prevê a classificação de falta grave quando o apenado incorrer na inobservância do dever previsto no inciso V do art. 39 da mesma lei. Dessa forma, constitui falta disciplinar de natureza grave a recusa injustificada à execução do trabalho, tarefas e ordens recebidas no estabelecimento prisional. Ainda, determina o art. 31 da LEP a obrigatoriedade do trabalho ao apenado condenado à pena privativa de liberdade, na medida de suas aptidões e capacidades.
+- A pena de trabalho forçado, vedada constitucionalmente no art. 5º, inciso XLVIII, alínea "c", da Constituição Federal, não se confunde com o dever de trabalho imposto ao apenado, consubstanciado no art. 39, inciso V, da LEP, ante o disposto no art. 6º, 3, da Convenção Americana de Direito s Humanos.
+- Habeas Corpus não conhecido (HC n. 264.989/SP, relator Ministro Ericson Maranho, Desembargador convocado do TJSP, Sexta Turma, DJe de 19/8/2015.)
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
