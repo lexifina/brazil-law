@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto porMAPFRE VERA CRUZ SEGURADORA S/A contra decisão do tribunal de origem que não admitiu o recurso especial,a partir dos seguintes fundamentos: a) ausência de prequestionamento, no que se refere aos arts. 127, 128, 273, 331, I, 460 e 588, II,do CPC/73, 422, 475, 476 e 781 do CC e 14.1, e, do Pacto Internacional dos Direitos Civis e Políticos incorporados pelo Decreto 592/92,b) não cabimento de recurso especial, por ofensa a dispositivo constitucional, c) necessidade de reexame probatório, incidindo o óbice da Súmula 7/STJ, quanto à alegada violação dos arts. 330 e 333, I, do CPC/73 e 8º do Pacto de São José da Costa Rica, bem assim, em relação aos arts. 757, 758, 765, 778, 779 e 781 do CC, tendo em vista a necessidade daanálise de cláusula contratuale e) inexistência de prequestionamento da matéria relativamente à apontada divergência jurisprudencial.
+É o relatório. Decido.
+Nos termos do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+O recurso não merece ser conhecido.
+Na hipótese, a parte agravante não rebateu, como lhe competia, todos os fundamentos da decisão agravada.
+A petição de agravo, além de tratar de questões de mérito do recurso especial, alega que houve prequestionamento da matéria, deixando de impugnar especificamenteos demais fundamentos da decisão que inadmitiu o recurso especial.
+O agravo previsto no art. 544 do CPC/1973 tem por objetivo o processamento do recurso especial não admitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada - o que no caso não ocorreu.
+Nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Incide, na hipótese, por analogia, o princípio cristalizado na Súmula 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC/1973 que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/1973). AÇÃO CONDENATÓRIA. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO, DIANTE DA AUSÊNCIA DE DIALETICIDADE RECURSAL. INSURGÊNCIA RECURSAL DA RÉ.
+1. Razões do agravo (art. 544 do CPC/73) que não impugnaram especificamente os fundamentos invocados na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental desprovido (AgRg no AREsp 141.729/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe, 10.4.2017).
+Ante o exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
