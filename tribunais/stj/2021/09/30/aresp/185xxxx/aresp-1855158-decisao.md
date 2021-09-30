@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por BRADESCO VIDA E PREVIDÊNCIA S.A., em face de acórdão assim ementado (fl. 354):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO DE VIDA EM GRUPO - AUTORA PORTADORA DE DOENÇA FUNCIONAL AGRAVADA PELO TRABALHO - INCAPACIDADE PARCIAL E PERMANENTE - CONSTATAÇÃO ANTES DO FIM DA VIGÊNCIA DA APÓLICE - SEQUELAS DEFINITIVAS - CONCAUSA COMPROVADA POR LAUDO PERICIAL MÉDICO - EQUIPARAÇÃO A ACIDENTE DE TRABALHO - EXISTÊNCIA DO DEVER DE INDENIZAR - SENTENÇA REFORMADA -PREQUESTIONAMENTO - RECURSO CONHECIDO E PROVIDO.
+Demonstrado que a enfermidade tem caráter progressivo e que as atividades exercidas pela autora atuou como concausa para o agravamento das lesões, que lhe incapacitou de modo parcial e permanentemente para o labor, a doença equipara-se a acidente de trabalho, sendo devida, portanto, a indenização prevista no contrato, que estava em plena vigência quando constatada a incapacidade.
+Os primeiros embargos de declaração foram acolhidos parcialmente para esclarecer acerca dos seguintes pontos: ciência da tabela da susep pela segurada - omissão do último salário e da correção monetária (fls. 398/401).
+Os segundos embargos foram rejeitados (fls. 424/429).
+Nas razões do especiala parte ora agravante alega, entre outros argumentos, ofensa aos arts. 489, §1º, IV, e 1.022, II, do Código de Processo Civil/2015, apontando omissão do Tribunal de origem, ao não se pronunciar sobre as seguintes questões: "a) prévia ciência sobre os termos do contrato, conforme declarado na proposta de contratação assinada pela segurada/recorrida; b) concessão de cobertura superior aos limites estabelecidos na avença firmada entre as partes; c) dupla correção do capital segurado, que provoca o enriquecimento ilícito da parte recorrida" (fl. 434).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Assiste razão à recorrente.
+O acórdão recorrido efetivamente foi omisso, não abordando as questões supracitadas, sobretudo quanto ao cumprimento, ou não, do dever de informação das cláusulas limitativas e as omissões não foram supridas, a despeito da oposição de embargos de declaração.
+Em face do exposto, prejudicada a análise dos demais pontos, conheço do agravo para, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, com vistas ao julgamento das questões postas em discussão.
+Intimem-se.
