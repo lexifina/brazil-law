@@ -1,0 +1,15 @@
+Trata-se de recurso ordinário em habeas corpus com interposto contra decisão da Sexta Turma do Superior Tribunal de Justiça que negou provimento ao AgRg no HC 613.763/SC (documentos eletrônicos 24-25).
+    O recorrente pede
+    “[...] a aplicação, ao caso, do princípio da consunção com relação aos CRLV’s dos veículos receptados, pois é inerente ao comércio de automóveis adulterados que seus respectivos documentos os acompanhem e sejam modificados de acordo com as adulterações, servindo de meio necessário à perpetuação do crime-fim, que é a venda dos veículos como se regulares fossem. Do contrário, toda e qualquer documentação, peça, parte ou objeto encontrado dentro dos veículos seria considerado delito autônomo e, assim, os réus estariam incursos em incontáveis receptações, o que não se coaduna com os princípios da proporcionalidade e razoabilidade como limitadores do poder punitivo estatal” (págs. 5-6 do documento eletrônico 27).
+    É o relatório necessário. Decido.
+    Traslado, por oportuno, a ementa que sintetiza o teor da decisão combatida:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE RECEPTAÇÃO EM CONTINUIDADE DELITIVA E DE ASSOCIAÇÃO CRIMINOSA. INCIDÊNCIA DA CONSUNÇÃO. MATÉRIA NÃO EXAMINADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. É inviável que esta Corte aprecie a incidência do princípio da consunção entre os delitos de receptação de documentos falsos e receptação de veículos produto de crime, na hipótese em que tal questão não foi debatida na origem, sob pena de supressão de instância, sobretudo quando o acórdão deixa evidente que os desígnios delituosos dos acusados eram autônomos. Vale dizer, os documentos dos veículos que eram falsificados não tinham relação de meio necessário com o crime de receptação do próprio veículo objeto de crime. 2. Agravo regimental não provido” (documento eletrônico 24).
+    Conforme se verifica, o mérito desta impetração não foi objeto de julgamento pela Corte Superior.
+    A orientação jurisprudencial deste Supremo Tribunal é firme no sentido de que, “[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância” (HC 119.600-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Ainda nesse sentido, a ementa do seguinte precedente:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. CONSTITUCIONAL. PROCESSUAL PENAL. EXECUÇÃO PENAL. COMETIMENTO DE FALTA. ALEGAÇÃO DA EXISTÊNCIA DE JUSTIFICATIVA IDÔNEA. MATÉRIA NÃO SUBMETIDA À ANÁLISE DEFINITIVA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. 1. Inexistindo prévia manifestação definitiva do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância. Precedentes. 2. Agravo regimental ao qual se nega provimento” (HC 120.373-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Isso posto, nego seguimento ao presente recurso ordinário (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de setembro de 2021.
+Ministro Ricardo Lewandowski
+Relator
