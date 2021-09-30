@@ -1,0 +1,55 @@
+Decisão:
+
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada pela Construtora REMO Ltda. em face de acórdão proferido pela 9ª Turma do Tribunal Regional do Trabalho da 3ª Região, que teria afrontado a autoridade e a eficácia do que decidido na ADPF 324 e na Súmula Vinculante nº 10.
+
+    Reporto-me ao relatório, que bem elucida os fatos, exarado quando da análise do pedido liminar pelo Ministro Luiz Fux:
+
+    “Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Construtora REMO Ltda contra acórdão proferido pela 9ª Turma do Tribunal Regional do Trabalho da 3ª Região nos autos do Processo 0012300-24.2008.5.03.0060, por suposta ofensa à Súmula Vinculante 10 e à autoridade da decisão proferida por esta Corte na Arguição de Descumprimento de Preceito Fundamental 324.
+
+    Eis a ementa da decisão ora reclamada, in verbis:
+
+    ‘RESPONSABILIDADE SUBSIDIÁRIA. TOMADOR DE SERVIÇOS. A jurisprudência consubstanciada no item IV da Súmula n. 331 do TST consagra entendimento segundo o qual o inadimplemento das obrigações trabalhistas por parte do empregador implica a responsabilidade subsidiária do tomador de serviços, quanto àquelas obrigações.’
+
+    Narra a parte reclamante que é demandada em processo no qual se discute a responsabilização subsidiária pelo pagamento de verbas trabalhistas.
+
+    Relata que o Tribunal a quo manteve a sentença que julgou parcialmente procedente a ação, declarando ilícita a terceirização e condenando a reclamante subsidiariamente ao pagamento das verbas em questão.
+
+    Discorre que “o acórdão do Tribunal Regional do Trabalho da 3ª Região invocou o enunciado da Súmula nº 331 do TST, e, sem base constitucional ou legal, condenou a Reclamante a pagar ao obreiro benefícios coletivos oriundos da CEMIG por considerar a existência de ilicitude na terceirização realizada”.
+
+    Sustenta que o juízo reclamado, ao acolher a tese de ilicitude da terceirização da atividade-fim, negou vigência ao § 1º do artigo 25 da Lei 8.987/95 sem, contudo, declarar a sua inconstitucionalidade, violando a Súmula Vinculante 10 e o entendimento firmado nas decisões proferidas por esta Corte na Arguição de Descumprimento de Preceito Fundamental 324 e no RE 958.252, Tema 725 da repercussão geral.
+
+    Requer, liminarmente, a suspensão da decisão impugnada e da tramitação do Processo 0012300-24.2008.5.03.0060. No mérito, pugna pela procedência da reclamação para cassar a decisão reclamada, “em razão da violação à Súmula Vinculante n. 10 do STF, ao artigo 97 da CF/88 e ainda violação a decisão proferida por este egrégio Supremo Tribunal Federal em controle concentrado de constitucionalidade na ADPF nº 324, determinando-se o retorno dos autos ao TRT da 3ª Região para que a Turma em questão realize novo julgamento com fulcro em tudo que ora pleiteado na presente peça, observando, via de consequência, a reserva de plenário e o que decidido pelo STF em controle concentrado de constitucionalidade”.
+
+    Por meio de decisão publicada em 05/02/2020, o Ministro Luiz Fux deferiu o pedido liminar ”para suspender os efeitos do acórdão proferido pela 9ª Turma do Tribunal Regional do Trabalho da 3ª Região nos autos do Processo 0012300-24.2008.5.03.0060, até o julgamento final desta reclamação”.
+
+    É o relatório. Decido.
+
+    Compulsados os autos verifico que a sessão de julgamento em que formado o acórdão reclamado ocorreu em 03/02/2009 (e-Doc 25), sendo, portanto, anterior às publicações das atas de julgamento da ADPF 324, de relatoria do ministro Roberto Barroso, e do RE 958.252 (Tema 725 RG), de relatoria do ministro Luiz Fux, as quais se deram em 10/09/2018.
+
+    Em sede reclamatória, a jurisprudência do STF pacificou-se no sentido de não admitir reclamação que tenha como objeto decisão anterior ao paradigma vinculante de controle. Vide precedentes:
+
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ATO RECLAMADO ANTERIOR À DECISÃO PROFERIDA NOS AUTOS DA ADC 48. INVIABILIDADE DA RECLAMAÇÃO. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO. 1. O acórdão impugnado, o qual analisou o pedido de suspensão processual, foi proferido pelo TRT da 1ª Região em Sessão realizada na data de 27/11/2019, enquanto que a ADC 48 (Rel. Min. ROBERTO BARROSO) foi julgada pelo STF em 16/4/2020. 2. A jurisprudência desta SUPREMA CORTE firmou-se no sentido de que inexiste ofensa à autoridade de decisão do TRIBUNAL se o ato reclamado é anterior ao paradigma de controle (Rcl 23.619 AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 16/5/2019; Rcl 18.920 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 11/3/2015; Rcl 12.741 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 18/9/2014),razão pela qual é inviável a presente Reclamação. 3.Recurso de agravo a que se nega provimento.” (Rcl 43954/RJ-AgR, Relator o Ministro Alexandre De Moraes, Primeira Turma, DJe de 16/12/2020)
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. AÇÃO INDENIZATÓRIA. REPARAÇÃO DE DANOS DECORRENTE DE ACIDENTE DE TRABALHO. COMPETÊNCIA. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE 22 DO SUPREMO TRIBUNAL FEDERAL. DECISÃO RECLAMADA ANTERIOR AO PARADIGMA INVOCADO. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A reclamação é incabível por alegação de afronta à autoridade de decisão ou de súmula vinculante do Supremo Tribunal Federal proferida ou editada posteriormente ao ato reclamado. 2. In casu, o ato apontado como reclamado reafirmou a competência da justiça comum estadual para o julgamento da ação de reparação de danos decorrente de acidente de trabalho, em decisão proferida e acobertada pelo trânsito em julgado em momento anterior à da edição da Súmula Vinculante 22. 3. Agravo regimental desprovido.” (Rcl nº 18.920/RJ-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe de 11/3/15)
+
+    “RECLAMAÇÃO – ALEGADO DESRESPEITO À AUTORIDADE DO JULGAMENTO DA ADPF 130/DF – IMPOSSIBILIDADE – DECISÃO RECLAMADA PROFERIDA EM DATA ANTERIOR À PUBLICAÇÃO, NA IMPRENSA OFICIAL, DE REFERIDA DECISÃO – AUSÊNCIA DO INTERESSE DE AGIR – INVIABILIDADE DA UTILIZAÇÃO PROCESSUAL DO INSTRUMENTO DA RECLAMAÇÃO COMO INADMISSÍVEL SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO. ANTERIORIDADE DA DECISÃO RECLAMADA E AUSÊNCIA DE PARÂMETRO. – Impõe-se à parte reclamante, para ter legítimo acesso à via reclamatória, demonstrar que o ato de que se reclama tenha sido proferido posteriormente à publicação, na imprensa oficial, da decisão invocada como paradigma de confronto. – Inexiste ofensa a pronunciamento vinculante do Supremo Tribunal Federal se o ato de que se reclama é anterior à publicação de referido ‘decisum’” (Rcl nº 14.747/RN-AgR, Relator o Ministro celso de Mello, Segunda Turma, DJe de 10/2/15).
+
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. RECLAMAÇÃO. DECISÃO RECLAMADA PROFERIDA EM DATA ANTERIOR AO PRONUNCIAMENTO DO STF DOTADO DE EFICÁCIA VINCULANTE. NÃO CABIMENTO. PRECEDENTES. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO. 1. A jurisprudência deste Supremo Tribunal Federal é pacífica quanto ao não cabimento de reclamação quando o ato reclamado é anterior à decisão tida por violada. 2. Agravo regimental não provido” (Rcl nº 10.199/SC-AgR, Relator o Ministro Teori Zavascki, Tribunal Pleno, DJe de 19/2/14).
+
+    Outrossim, após consulta ao sistema eletrônico pela numeração única do Processo nº 0012300-24.2008.5.03.0060, verifico que o TST, em despacho publicado no DEJT 01/09/2017, determinou o sobrestamento dos recursos extraordinários interportos por CEMIG DISTRIBUIÇÃO S.A e CONSTRUTORA REMO LTDA. até o trânsito em julgado de decisão do STF no Tema 383 RG. Desse modo, o julgamento da causa à luz do precedente obrigatório do STF deve ser buscado junto ao TST, tendo em vista a conclusão do julgamento do Tema 383 da repercussão geral, sendo fixada a seguinte tese:
+
+    “A equiparação de remuneração entre empregados da empresa tomadora de serviços e empregados da empresa contratada (terceirizada) fere o princípio da livre iniciativa, por se tratarem de agentes econômicos distintos, que não podem estar sujeitos a decisões empresariais que não são suas.” (Tema 383 RG)
+
+    Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF. Casso a liminar deferida anteriormente.
+
+    Considerando que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, a reclamante fica também advertida, na hipótese de recurso dessa decisão, da possibilidade de aplicação ipso facto da multa processual prevista no art. 1.021, §4º, do CPC/2015.
+
+    Publique-se. Int..
+
+    Brasília, 30 de setembro de 2021.
+
+Ministro Dias Toffoli
+
+Relator
+
+Documento assinado digitalmente
