@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial,fundadonoart. 105, III, "a" e "c", da Constituição Federal, interpostoporLUIS FERNANDO NOVAGA ALVES contra v.acórdãodo eg. Tribunal de Justiça doEstado do Goiás, assim ementado(fls.513):
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. CÉDULA-RURAL PIGNORATÍCIA. ABUSIVIDADE CONTRATUAL. PROVA PERICIAL. DESNECESSIDADE. CERCEAMENTO NÃO VERIFICADO. CAPITALIZAÇÃO MENSAL. CONTRATADA EXPRESSAMENTE. DIREITO DO PRODUTOR AO ALONGAMENTO DA DÍVIDA RURAL. SÚMULA Nº 298, DA COLENDA CORTE DA CIDADANIA. 1. Não há cerceamento de defesa em caso de julgamento antecipado da lide, porquanto o debate relacionado encargos contratuais se refere a matéria de direito, sendo que as questões fáticas podem ser aferidas pela prova documental juntada aos autos, não havendo necessidade de realização de prova pericial. 2. Havendo a previsão da capitalização mensal dos juros no contrato em discussão, impõe-se a manutenção do pactuado entre os litigantes, consoante inteligência da Súmula 93 do STJ. Embora seja direito do devedor o alongamento de dívidas originárias de crédito rural, desde que preenchidos os requisitos legais. Inteligência do enunciado Sumular nº 298, da colenda CorteSuperior de JustiçA 4. Em razão do desprovimento do recurso interposto pela parte vencida, impõe-se a majoração dos honorários (§11 do artigo 85 do CPC). APELAÇÃO CONHECIDA E DESPROVIDA."
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 536-548.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aos arts. 489 do CPC/2015 e14 da Lei n.4.829/65. Sustenta, em síntese, que: a) o acórdão estadual não está fundamentado; b) os juros não podem ser capitalizados mensalmente, ante a inexistência de pactuação expressa; c) restou evidenciado cerceamento ao direito de defesa; e d) não se pode negar o direito ao alongamento da dívida, por ausência de comprovação da frustração da safra, se é indeferida a prova pericial requerida.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação dos art. 489 doCPC/2015, umavez que o eg. TJ-GO analisou os pontosessenciaisaodeslinde da controvérsia, dando-lhes robusta e devida
+fundamentação.
+Comefeito, é uníssona a jurisprudência desta eg. Corte no sentido dequeomagistrado não está obrigado a responder a todososargumentosapresentados pelos litigantes, desde que aprecie a lide emsuainteireza,com suficiente fundamentação. Nesse sentido, destacam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃODECOBRANÇA C/C PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS.CUMPRIMENTODESENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, ERRO MATERIALOUOBSCURIDADE. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC.INOCORRÊNCIA.FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DOACÓRDÃO NÃOIMPUGNADO. SÚMULA 283/STF.COMPENSAÇÃO COM PREJUÍZO DE DIREITODETERCEIRO. IMPOSSIBILIDADE.
+(..)
+3. Devidamente analisada e discutida a questão controvertida,efundamentado corretamente o acórdão recorrido, de modo a esgotaraprestação jurisdicional, não há que se falar em violação do art. 489doCPC.
+(..)
+7. Agravo interno não provido."
+(AgInt no AgInt no AREsp 1576971/RS, Rel. Ministra NANCY ANDRIGHI,TERCEIRA TURMA, julgado em 01/06/2020, DJe 04/06/2020)
+No tocante ao alegado cerceamento de defesa, o Tribunal de origem, com arrimo no acervo fático-probatório, assim dirimiu a controvérsia:
+Quanto a preliminar de cerceamento de defesa, destaco que o entendimento jurisprudencial deste Tribunal de Justiça se fixou no sentido de ser desnecessária a produção de prova pericial para aferição de encargos contratuais abusivos, mormente porque tal debate verte-se apenas sobre questão de direito.
+(..)
+É válida a capitalização mensal de juros na cédula rural devidamente contratada, especificadamente no evento 3, arquivo 5, fls. 96,conforme enunciado 93 do Superior Tribunal de Justiça. Confira-se:
+(..)
+No que tange o pedido de alongamento do débito rural, destaco que o referido requerimento comporta estudo detalhado de vários requisitos exigidos pelas legislações específicas que regem a matéria, uma vez que o alongamento da dívida não é conferida, de plano, ao devedor solicitante sem que antes seja verificada a sua adequação. Nesta linha, chamo a lume as restrições levantadas nas normas especiais, a exemplo da Lei nº 9.138/95, que trata sobre o alongamento, bem como a Lei nº 7.843/89. Vejamos:
+(..)
+Como se extrai, para o deferimento do pedido de prorrogação do pagamento do débito rural(alongamento), faz-se necessáriaa comprovação da frustração da safra, ou da falta de mercado para os produtos ou de motivo alheio à vontade e diligência do produtor. No caso dos autos, o autor/apelante não comprova de forma cabal a frustração da safra. Não o bastante, a Resolução nº 4.591/2017 do Banco Central, a mais recente legislação sobre a renegociação de crédito rural, traz as seguintes exigências:
+(..)
+Infere-se da mencionada Resolução que não houve implemento da condição pois ausente o reconhecimento pelo Ministério daIntegração Nacional da alegada "frustração de safra". Assim, por se tratar de requisitos imprescindíveis, sem o reconhecimento de frustração de safra por órgão público ligado à agricultura afigura-se impossível a concessão do benefício almejado.
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu pela inexistência de cerceamento de defesa, bem como assentou que não houve o implemento das condições para o prolongamento da dívida, pois ausente o reconhecimento, pelo Ministério da Integração Nacional, da alegada "frustração da safra".
+Nesse contexto, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. CERCEAMENTO DE DEFESA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As conclusões do acórdão recorrido no tocante à inexistência de cerceamento de defesa, e do ato ilícito, apto a gerar o dever de indenizar; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, o reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ, que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 1786936/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/08/2021, DJe 24/08/2021)
+Por fim, inexiste similitude fático-jurídica entre os acórdãos em comparação, no tocante ao alegado dissídio jurisprudencial acerca da cobrança dos juros capitalizados mensalmente, motivo pelo qual o recurso também não merece prosperarnesse ponto.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios de R$2.500,00 (dois mil e quinhentos reais) para R$2.750,00 (dois mil setecentos e cinquenta reais), observada eventual gratuidade de justiça, nos termos do art. 98, § 3º, do CPC/2015.
+Publique-se.
