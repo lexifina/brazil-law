@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, receber os embargos de declaração como agravo regimental e a elenegar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EMRECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS DO ART. 619 DO CPP. MERA IRRESIGNAÇÃO COM O DECISUM PROLATADO NOS AUTOS. PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA.NÃO OCORRÊNCIA.
+1. Considerando que não foi indicado nenhum dos vícios do art. 619 do Código de Processo Penal na petição ora analisada econsiderandotratar-se deirresignação com o conteúdo do decisum combatido, os embargos declaratórios devem ser recebidos como agravo regimental.
+2. Embargos de declaração recebidos como agravo regimental e improvido.
+RELATÓRIO
+Embargos de declaração opostos por Washington da Silva ao decisum, de minha lavra, assim ementado (fl. 214):
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NÃO CONFIGURADO. PEDIDO DE RECONSIDERAÇÃO INTEMPESTIVO.
+Recurso improvido. Pedido de reconsideração de fls. 208/213 indeferido.
+Nas razões, a defesa do embargante não demonstra nenhum vício na decisão impugnada, mas simplesmente repisa os fundamentos do writ, pugnando pela revogação da prisão preventiva, face o excesso de prazo na formação da culpa.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EMRECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS DO ART. 619 DO CPP. MERA IRRESIGNAÇÃO COM O DECISUM PROLATADO NOS AUTOS. PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA.NÃO OCORRÊNCIA.
+1. Considerando que não foi indicado nenhum dos vícios do art. 619 do Código de Processo Penal na petição ora analisada econsiderandotratar-se deirresignação com o conteúdo do decisum combatido, os embargos declaratórios devem ser recebidos como agravo regimental.
+2. Embargos de declaração recebidos como agravo regimental e improvido.
+VOTO
+Considerando que não foi indicado nenhum dos vícios do art. 619 do Código de Processo Penal na petição de fls. 220/223 econsiderandotratar-se de irresignação com o conteúdo do decisum combatido, recebo os embargos declaratórios como agravo regimental.
+A despeito das alegações defensivas, não vejo motivos para alterar a conclusão da decisão de fls. 214/217, a qual mantenho integralmente (fls. 214/216):
+ ..
+É o relatório.
+Antes da análise do pedido liminar, solicitei informações ao Magistrado de piso sobre o andamento da ação penal, o qual assim manifestou (fl. 140 - grifo nosso):
+ ..  Ressalte-se que em 5 de maio de 2020 foi determinada a citação do acusado, sendo que em 22 de junho de 2020 foi expedido o respectivo mandado, o qual foi cumprido em 25 de junho, sendo juntado aos autos somente em 23 de julho 2020 e a defesa preliminar em 17 de setembro de 2020. A audiência de instrução e julgamento foi designada inicialmente para a data de 29 de outubro de 2020, contudo, em razão da defesa ter expressamente manifestadocontrariamente à realização do ato virtualmente, esta magistrada cancelou a audiência designada. Assim, a douta magistrada titular, após rever seu posicionamento acerca da obrigatoriedade das audiências pela via virtual, em estrita observância ao disposto nas Portarias 1025 e 1047 do TJMG, redesignou a audiência para a data de 26 de novembro de 2020, cuja instrução fora devidamente encerrada na aludida data. Restava pendente apenas a devolução da carta precatória expedida para a oitiva de uma testemunha de defesa, cuja oitiva o douto causídico insistiu na realização, tendo esta sido juntada em 7 de janeiro de 2021. Por fim, em 20 de janeiro de 2021, foi determinada a abertura de vista para as alegações finais, as quais não foram apresentadas até a presente data.
+Do acórdão impugnado extrai-se (fl. 107):
+ ..  consta das informações prestadas pelo impetrado que foi designada audiência de instrução e julgamento para o dia 29/10/2020, mas o ato foi posteriormente cancelado em virtude de a própria Defesa ter se manifestado contrariamente à sua realização na modalidade virtual. Ora, considerando a oposição à audiência virtual, não se pode olvidar de que, diferentemente do alegado na inicial, a Defesa do paciente contribuiu para o atraso contra o qual se insurge. Além disso, informou que a audiência foi redesignada para o dia 26/11/2020 e que está pendente apenas a devolução de uma carta precatória expedida para oitiva de testemunha em que insistiu a Defesa para que a instrução seja encerrada. Naturalmente, é direito das partes a insistência na oitiva de testemunhas por elas arroladas e, em determinadas circunstâncias, a oposição à realização de atos processuais em condições atípicas. Não se pode permitir, no entanto, que tais posturas sejam desconsideradas quando da aferição da ocorrência de excesso de prazo para a formação da culpa no feito originário. Destarte, entendo que as aludidas circunstâncias justificam a morosidade atacada pela impetrante, em muito contribuindo para que o encerramento da fase instrutória seja mais moroso e inviabilizando o reconhecimento do apontado excesso de prazo.
+De mais a mais, em consulta ao portal eletrônico do Tribunal de Justiça mineiro, verifiquei que, em 6/5/2021, foi realizada audiência de instrução e julgamento, com a juntada da certidão de intimação de testemunha; encontrando-se os autos com carga ao Ministério Público estadual.
+Pois bem, de acordo com o que consta dos autos e considerando as peculiaridades do contexto atual, o processo de origem tem tramitado regularmente e todos os atos processuais têm sido praticados em tempo razoável, não constatada nenhuma conduta desidiosa por parte da Autoridade Judicial ou do Ministério Público.
+ ..
+Ante o exposto, recebo os embargos de declaração como agravo regimental e nego-lhe provimento.
