@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PREVIDENCIÁRIO E PROCESSO CIVIL.AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REDUÇÃO DA CAPACIDADE LABORATIVA REEXAME PROBATÓRIO. SÚMULA 7/STJ.
+1. Não há como se analisar recurso especial que demande incursão na seara probatória, porquanto a Corte de origem afastou a existência de razoabilidade para concessão de auxílio-acidente com base nos elementos de prova dos autos.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por Nilton Alexandre Pereiracontra decisão que não conheceu do recurso especial.
+O agravante aduz não ser caso de aplicação da Súmula 7/STJ, porquanto o exame da tese recursal não demanda incursão na seara probatória, já que o acórdão deixou claro a redução da capacidade laboral do recorrente.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO E PROCESSO CIVIL.AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REDUÇÃO DA CAPACIDADE LABORATIVA REEXAME PROBATÓRIO. SÚMULA 7/STJ.
+1. Não há como se analisar recurso especial que demande incursão na seara probatória, porquanto a Corte de origem afastou a existência de razoabilidade para concessão de auxílio-acidente com base nos elementos de prova dos autos.
+2. Agravo interno a que se nega provimento.
+VOTO
+A decisão agravada da Presidência foi assim redigida:
+Cuida-se de agravo apresentado por NILTON ALEXANDRE PEREIRA contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AÇÃO DE BENEFÍCIO PREVIDENCIÁRIO.AUXÍLIO-ACIDENTE. SENTENÇA DE PROCEDÊNCIA.QUALIDADE DE SEGURADO E NEXO CAUSAL COM O ACIDENTE DE TRABALHO CARACTERIZADOS. LESÃO NO PUNHO ESQUERDO. PONDERAÇÃO QUANTO ÀS ESPECIFICIDADES DO CASO CONCRETO. SEGURADO DESTRO. PERÍCIA QUE CONCLUIU DE FORMA OBJETIVA QUE A MOBILIDADE E FORÇA ESTÃO PRESERVADAS.CARÁTER ESPORÁDICO DA INCAPACIDADE. DOR APENAS AO REALIZAR ATIVIDADES QUE DEMANDEM MAIOR ESFORÇO DO PUNHO ESQUERDO QUE NÃO É SEU MEMBRO DOMINANTE. SEGURADO COM TRINTA E SETE ANOS DE IDADE. NECESSIDADE DE REPERCUSSÃO FÁTICA NA ESFERA LABORAL QUE IMPLIQUE DIMINUIÇÃO DA PRODUTIVIDADE.REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO NÃO PREENCHIDOS.RECURSO DE APELAÇÃO CONHECIDO E PROVIDO PARA JULGAR IMPROCEDENTE O PEDIDO. REEXAME PREJUDICADO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega, além de dissídio jurisprudencial, violação do art. 86 da Lei n.8.213/91, no que concerne ao preenchimento dos requisitos para a concessão do benefício de auxílio-acidente, trazendo, em síntese, os seguintes argumentos:
+Portanto, o entendimento do Tribunal de justiça do Estado do Paraná foi contrária do disposto no art. 86, da Lei 8.213/91 em sua redação original e está em total dissonância ao entendimento consolidado por esta Corte quanto a possibilidade de concessão de auxílio acidente, em situações em que houver lesão/sequelas, anda que mínimas, em decorrência de acidente de trabalho (fl. 165).
+Neste sentido, cumpre destacar que o auxilio-acidente tem previsão no art. 86 da Lei 8.213/91. o qual estabelece que este beneficio possui caráter indenizatório. sendo devido aos segurados que apresentem redução em sua capacidade laborativa. em razão das sequelas oriundas da consolidação das lesões decorrentes de acidente de qualquer natureza (fl. 168).
+Logo, tem-se que, para a concessão do benefício em apreço, é imprescindível a ocorrência de um acidente de qualquer natureza ou causa, que pode ser acidente de trabalho ou não, e que seja determinante de uma moléstia que resulte em incapacidade parcial para o trabalho exercido. Requisitos estes devidamente preenchidos no presente caso.
+Sendo incontroversa o nexo de causalidade das enfermidades apresentadas pelo Recorrente, as sequelas resultantes do acidente de trabalho, a redução da capacidade laborativa, bem como a impossibilidade de retorno à atividade habitualmente exercida, a concessão do benefício de auxílio-acidente torna-se fato incontroverso, devendo para tanto ser reformado o acórdão proferido pelo Tribunal de justiça do Paraná, ora combatido que reformou a sentença de primeiro grau que havia concedido o benefício de auxílio-acidente à parte Recorrente (fl. 168).
+Por todo o exposto, demonstrado que as lesões decorrentes do acidente laborai - ainda que mínimas - ensejam a concessão do benefício de auxílio-acidente, em obediência ao disposto no caput do art. 86 da Lei 8.213/91, e de acordo com jurisprudência pacífica deste Egrégio Tribunal, o Acórdão que vedou a possibilidade de concessão da benesse pretendida deve ser reformado, para condenar o INSS a conceder o benefício de auxílio-acidente a partir de 31/12/2017, nos termos da sentença de primeiro grau (fl. 171).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Não se deixa de reconhecer, outrossim, que a jurisprudência do Superior Tribunal de Justiça defere o benefício de auxílio-acidente aos casos em que a lesão é mínima, tal qual o presente. Todavia, a ausência de ponderação das minúcias de cada caso concreto, implica na concessão desenfreada de benefícios previdenciários a quem está em plenas condições de readaptação profissional, o que, em última análise, obstaculiza a Previdência Social como um todo, legando ao desamparo aqueles que dela realmente necessitam.
+A última objeção a ser feita, é que para fixação do auxílio-acidente não basta a mera redução da capacidade laboral, mas se faz necessária a efetiva repercussão no trabalho do segurado que lhe impinja redução fática na sua produtividade.
+ ..
+Assim, tendo em vista a incapacidade mínima e esporádica, somada aofato de que a lesão se dera na mão esquerda, quando o Autor é destro, a reforma da sentença é medida que se impõe (fls. 85/86).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, Relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019).
+Efetivamente, não se mostra cabível, nesta via, perquirir acerca da razoabilidade da conclusão da Corte de origem sobre a existência de incapacidade no caso concretodevido ao óbice constante da Súmula 7/STJ. Os fatos são aqui recebidos tal como estabelecidos pelo Tribunal a quo. E, se a violação do dispositivo legal invocado perpassa pela necessidade de se fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre:
+Recurso especial.
+Não ofende o princípio da Súmula 7 emprestar-se, no julgamento do especial, significado diverso aos fatos estabelecidos pelo acórdão recorrido. Inviável é ter como ocorridos fatos cuja existência o acórdão negou ou negar fatos que se tiveram como verificados. (AgRg nos EREsp 134.108/DF, Rel. Ministro EDUARDO RIBEIRO, CORTE ESPECIAL, julgado em 2/6/1999, DJ 16/8/1999, p. 36).
+PROCESSUAL CIVIL E ADMINISTRATIVO. REGISTRO NO CRQ. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. INVIABILIDADE DE UTILIZAÇÃO COMO VIA RECURSAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO DEMONSTRADA. EXISTÊNCIA DE MATÉRIA NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF, APLICÁVEIS POR ANALOGIA. VERIFICAÇÃO DA OCORRÊNCIA DE FATO GERADOR. AFERIÇÃO DA ATIVIDADE PREPONDERANTE DE SOCIEDADE EMPRESÁRIA. SÚMULAS 5 E 7 DO STJ.
+ ..
+4. O Tribunal de origem entendeu, à luz do contrato social e das provas dos autos, que as indústrias vinícolas e os associados representados pelo SINDUSVINHO possuem, como objetos sociais, produção, engarrafamento e comercialização de vinhos, ou seja, atividades não inerentes à química, o que afastaria a obrigatoriedade de registro no Conselho Regional de Química. Insuscetível de revisão o referido entendimento, por demandar interpretação de cláusulas contratuais e reexame do conjunto fático-probatório, atraindo a aplicação das Súmulas 5 e 7 do STJ.
+Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1.425.008/SP, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 4/11/2014, DJe 14/11/2014).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
