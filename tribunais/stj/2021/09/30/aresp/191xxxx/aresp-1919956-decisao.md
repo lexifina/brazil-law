@@ -1,0 +1,21 @@
+DECISÃO
+Agrava-se decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+APELAÇÃO CRIMINAL. ROUBO SIMPLES -RECURSO DA DEFESA. MATERIALIDADE E AUTORIADELITIVAS COMPROVADAS - PALAVRA DA VÍTIMA -DEPOIMENTO DOS AGENTES PÚBLICOS - FATORESSUFICIENTES PARA JUSTIFICAR O ÉDITO CONDENATÓRIO.FIXAÇÃO DA PENA BASE NO PISO- IMPOSSIBILIDADE -PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS -MAUS ANTECEDENTES - CRIME PRATICADO COM USO DEFACA -AUMENTO MOTIVADO. RECONHECIMENTO DACONFISSÃO -DESCABIMENTO - CONFISSÃO QUALIFICADA- ADMISSÃO QUE NÃO SERVIU DE FUNDAMENTO PARA ASENTENÇA. REGIME FECHADO Ê O ADEQUADO -GRAVIDADE CONCRETA DO CRIME - PERSONALIDADE DOAGENTE -PRESENÇA DE MAUS ANTECEDENTES.SENTENÇA MANTIDA. RECURSO DESPROVIDO. (e-STJ fl. 292)
+A defesa apontaa violação dos arts. 33 e 67do Código Penal, alegando, em síntese, que a a confissão do recorrente ficou comprovada, devendo, portanto, ser realizada a compensação da agravante da reincidência com a referida atenuante na segunda fase da dosimetria.Aduz, também, que estão presentes os requisitos para a imposição do regime aberto de cumprimento de pena.
+Contrarrazões às e-STJ fls. 334/340.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 373/378.
+É o relatório. Decido.
+A irresignação merece prosperar, em parte.
+Os elementos existentes nos autos informam que o Tribunal de Justiça de São Paulo negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente à pena de 1 ano, 7 meses e 6 dias de reclusão, em regime fechado pelo cometimento do crime do art. 157, caput, do Código Penal.
+A defesa pede, inicialmente, o reconhecimento da atenuante da confissão. sobre o tema o TJSP assim se pronunciou:
+Na segunda etapa, a pena permaneceu no quantum acimadestacado, porquanto ausentes agravantes e/ou atenuantes, não sendo o casode reconhecimento da atenuante da confissão, porquanto, ela não foi total, foiqualificada, uma vez que o recorrente negou o uso da faca, fato comprovadopelas provas colhida nos autos e, ainda, conforme Súmula 545, do C.Superior Tribunal de Justiça, a confissão qualificada é admitida quando servede fundamento para a decisão, o que não é o caso. (e-STJ fl. 296 - grifo nosso)
+Veja-se que o TJSP decidiu a questão em observância ao entendimento deste Tribunal Superior firme no sentido de quemesmo nas hipóteses de confissão qualificada ou parcial, deve incidir a atenuante prevista no art. 65, inciso III, alínea d, do Código Penal, desde que tenha sido utilizada como elemento de convicção do julgador (ut,AgRg no HC 551.031/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 23/6/2020)
+Ainda no mesmo sentido:AgRg no AREsp 1763911/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 24/6/2021 eAgRg no REsp 1796095/PE, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 16/12/2020.
+No caso em tela, de fato, a confissão não serviu como fundamento da condenação que está amparada em depoimentos testemunhais produzidos em juízo.
+Quanto ao regime prisional, parcial razão assiste à defesa, isso porqueconsiderando o quantum da pena aplicada (1 ano, 7 meses e 6 dias de reclusão) e a existência de circunstância judicial desfavorável, adequado o regime semiaberto para o cumprimento da pena. Confira-se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006.QUANTIDADE DE DROGA. APLICAÇÃO DA FRAÇÃO EM 1/2. RAZOABILIDADE.REGIME SEMIABERTO. CIRCUNSTÂNCIA CONCRETA DESFAVORÁVEL. RECURSO NÃO PROVIDO.
+ ..
+3. Estabelecida a pena em patamar inferior a 4 anos e sendo primário o réu, o modo semiaberto é o adequado para o cumprimento da pena reclusiva, diante da valoração negativa das circunstâncias do caso concreto, nos termos do art. 33, §§ 2º e 3º, e art. 59, ambos do CP.
+4. Agravo regimental não provido.(AgRg no HC 674.613/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 17/8/2021)
+Ante o exposto, com fundamento no art. 932, inciso V, alínea "a", do CPC, e no art. 255, § 4º, inciso III, do RISTJ, e na Súmula n. 568/STJ, conheço do agravo e dou provimento ao recurso especial apenas para fixar o regime semiaberto para o cumprimento da reprimenda.
+Intimem-se.
