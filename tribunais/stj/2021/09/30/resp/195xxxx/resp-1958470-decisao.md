@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por Terezinha Nogueira Pimenta contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA AFAZENDA PÚBLICA. CONSECTÁRIOS LEGAIS DACONDENAÇÃO. JUROS ENTRE A DATA DA CONTA E A DATA DOPAGAMENTO - JUROS SOBRE HONORÁRIOS
+1. É certo que a definição sobre os índices de correção monetária e juros foi diferida para a fase de execução de sentença, o que permitiria ao credor, depois da requisição do valor incontroverso, postular as diferenças.
+2. Acontece que, depois do trânsito em julgado o INSS apresentou os cálculos de execução invertida e a parte exequente concordou expressamente, sendo o valor homologado.
+3. Desse modo, o superveniente julgamento de inconstitucionalidade de determinado dispositivo legal pelo STF não tem o condão de modificar os critérios amparados pela coisa julgada, consoante estabelecido no julgamento do RE 730462.
+4. Consigna-se que, ainda que o título executivo tenha diferido para a fase de execução a definição dos consectários legais ou autorizado a adoção de entendimento superveniente das Cortes Superiores, certo que não se autoriza a emissão de precatório complementar para modificação dos índices adotados com concordância expressa da parte, consoante cálculo devidamente homologado em decisão preclusa, sob pena de ofensa, não apenas ao instituto d a preclusão, mas também ao princípio da segurança jurídica.
+5. Ressalta-se que, mesmo que a concordância tenha ocorrido em data anterior ao julgamento do Tema nº 810, caberia à parte manifestar sua ressalva quanto à intenção de execução futura do complemento ou requerer o sobrestamento do feito sobre a parcela controversa, o que não ocorreu no caso concreto.
+6. A questão concernente à incidência de juros moratórios entre a conta de liquidação e o efetivo pagamento aguardava manifestação do Supremo Tribunal Federal no RE 579.431/RS; em sessão plenária de 19 de abril de 2017, aquela Corte, por unanimidade e nos termos do voto do Relator, Ministro Marco Aurélio, apreciando o Tema 96 da repercussão geral, negou provimento ao recurso, fixando a seguinte tese: "Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório."
+7. Portanto, os juros, que incidem entre a apresentação da conta de liquidação e a data-limite para apresentação dos precatórios no Tribunal, ou, no caso de RPV, até a data de sua autuação na Corte, são aqueles fixados na Lei nº 11.960/2009 - o percentual de juros aplicados sobre os depósitos em caderneta de poupança.
+8. Não sendo o valor devido pago no prazo constitucional (31 de dezembro do ano subsequente ao da inscrição no orçamento), no caso deprecatório, ou até sessenta dias após a autuação, no caso de RPV, recomeçamos juros.
+9. Diferentemente da questão relacionada aos consectários legais(considerando a concordância expressa aos cálculos, sem ressalvas), a matéria relativa ao Tema 96 do STF não se encontra preclusa.
+10. Desse modo o cálculo deve ser elaborado mediante aplicação dos juros entre a data da conta e a data da expedição da requisição, apenas, eis que o valor foi pago dentro do prazo constitucional, o que não autoriza que os juros de mora voltem a fluir.
+Nas razões de recurso especial manejado com fundamento na alínea "a" do permissivoconstitucional, aponta a recorrente violação aos artigos 269, 270, 278,280 e 925 do CPC.
+Defende a nulidade da extinção do cumprimento de sentença, aduzindo, para tanto, que"o cumprimento de sentença fora extinto por total liberalidade da Serventia do juízo, fundada em portaria manifestamente ilegal que delegou, à Secretaria, o poder de exercer a atividade judicante do magistrado", que "a parte exequente não teve nem mesmo a oportunidade de informar se os valores foram verdadeiramente recebidos ou se os mesmos satisfizeram o crédito de forma integral, ou se careciam de eventual complementação de valores, inexistindo ainda qualquer decisão de mérito (SENTENÇA) que viesse a extinguir corretamente o cumprimento de sentença, o que permitiria, inclusive, a interposição de eventual apelação em caso de discordância das partes a respeito dos termos da extinção".
+Não foram apresentadas contrarrazões.
+Após juízo positivo de admissibilidade do recurso especial, ascenderam os autos a esta Corte.
+É o relatório.Decido.
+Inicialmente cumpre dizer que o presente recurso atrai a aplicação do Enunciado Administrativo 3/STJ.
+Da leitura do inteiro teor do aresto recorrido verifica-se ausência de manifestação da Corte de origem sobre a tese recursal com enfoque nos dispositivos legais tido por violados, tampouco foram opostos embargos declaratórios para sanar eventual omissão.
+Inexistindo oposição de embargos declaratórios para tais fins, resta patente a ausência do indispensável requisito do prequestionamento, circunstância que atrai, o óbice das Súmulas 282/STF e 356/STF, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada";"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FALTA DE PREQUESTIONAMENTO. REEXAME PROBATÓRIO SÚMULAS 7/STJ, 284, 282 E 356/STF.
+1. A suscitada violação do art. 535 do Código de Processo Civil foi deduzida de modo genérico, o que justifica a aplicação da Súmula 284/STF.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, a teor do que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Não há como se analisar recurso especial que demande incursão na seara probatória, nos termos preconizados pela Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 642.986/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/08/2015, DJe 31/08/2015).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço dorecurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. RECURSO NÃO CONHECIDO.
