@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DO RIO DE JANEIRO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO AÇÃO DECLARATÓRIA SISTEMA DE BILHETAGEM ELETRÔNICA FUNÇÃO DE COBRADOR PORTARIA ESTADUAL N 131817 INVALIDADE RECONHECIDA EM MANDADO DE SEGURANÇA CONEXO EDIÇÃO DE PORTARIA REVOGADORA DO ATO IMPUGNADO SENTENÇA DE EXTINÇÃO DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS PRINCÍPIO DA CAUSALIDADE.
+Quanto à controvérsia pela alínea "a" do permissivo constitucional, alega violação do art. 85, § 10, do CPC, no que concerne à necessidade de atribuir o pagamento de honorários advocatícios à parte autora, que deu causa ao ajuizamento da ação, ou a fixação da sucumbência, ao menos, de forma recíproca, trazendo os seguintes argumentos:
+Quem deu causa a extinção do feito sem análise de mérito foi o autor, que entendeu ter o novo instrumento normativo atendido seus interesses, razão pela qual não precisava mais do processo para alcançar os objetivos que intentava (fl. 509).
+ ..
+Portanto, na hipótese, a sucumbência deveria ser fixada, no mínimo, de forma recíproca, atendendo-se ao comando do art. 85, parágrafo 10º do CPC/15, violado pelo v.acórdão recorrido (fl. 512).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+É de se concluir, portanto, que a autarquia ao editar ato administrativo de teor normativo ilegal deu causa ao ajuizamento da presente demanda.
+Nessa linha de intelecção, não se afigura admissível que ao autor seja imputado o ônus sucumbencial, quando a perda do objeto resultou da revogação do ato administrativo impugnado, exatamente por ser esse ilegal (fls. 462/463)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
