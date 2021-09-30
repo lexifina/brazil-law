@@ -1,0 +1,33 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. ART. 37, CAPUT, DA CF/1988.VIOLAÇÃO DE NORMA CONSTITUCIONAL. NÃO CABIMENTO. USURPAÇÃO DE COMPETÊNCIA DO STF. ART. 8º DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DO PARTICULAR.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto por BRUNO PESSANHA SIMÕES, com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL-AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO-CONCURSO PÚBLICO DE ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO (2014) -PROVA OBJETIVA -QUESTÕES DE HISTÓRIA -ANULAÇÃO -DESCABIMENTO -AUSÊNCIA DE ILEGALIDADE -MÉRITO ADMINISTRATIVO -PRECEDENTES JURISPRUDENCIAIS -RECURSO EXTRAORDINÁRIO Nº 632.853-CE.
+-É uníssono o entendimento da jurisprudência no sentido da excepcionalidade da anulação de questões objetivas de prova de concurso público.
+-Ao Judiciário não cabe se substituir à Banca Examinadora, apreciando critérios de formulação das questões, correção de prova e atribuição de nota.
+-A análise a ser feita pelo magistrado deve se ater ao aspecto da legalidade das normas instituídas no edital e dos atos praticados na realização do certame.
+-Ilegalidade que para ser declarada pelo Judiciário deve conter o vício da questão de forma evidente, ou seja, aferível primo ictu oculi, o que não se verifica no caso em tela.
+-Ausente a flagrante ilegalidade das questões impugnadas pelo Autor, devendo prevalecer o poder discricionário da Administração.
+-O Supremo Tribunal Federal no RE 632.853-CE, com repercussão geral, já se pronunciou sobre a matéria em questão.
+-Sentença de improcedência que se mantém.
+-Recurso conhecido e desprovido (fls. 550/555).
+2. Os embargos de declaração opostos foram rejeitados (fls. 609/612).
+3. Nas razões do seu recurso especial (fls. 627/638), a parte agravante sustenta violação do art. 37, caput, da CF/1988 e art. 8º do CPC/2015.Argumenta, para tanto, que:(a)a não anulação das questões do concurso violou o princípio da legalidade, por possuírem mais de uma alternativa correta e não constarem do programa do edital;(b) a intervenção do Poder Judiciário em questões de prova é possível quando ficar comprovada a ilegalidade, como no presente caso.
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 726/739).
+5. Sobreveio o juízo de admissibilidade negativo (fls. 741/745), fundadona incidência das Súmulas 7 e 83 do STJ; razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+9. Quanto à alegada afronta ao art. 37 da CF/1988, é incabível o recurso especial para apreciação de violação de norma constitucional, uma vez se tratar de matéria própria veiculada no recurso extraordinário, a qual deve ser apreciada pelo colendo Supremo Tribunal Federal, sob pena de usurpação da sua competência, consoante o disposto no art. 102, inciso III, da CF/1988. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..).
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+(..).
+VI -Agravo Interno improvido (AgInt no REsp 1836774/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 10/08/2020, DJe 14/08/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+(..).
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido (AgInt no REsp 1377313/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/04/2017, DJe 26/04/2017).
+10. Ainda, verifico que oart. 8º do CPC/2015não foi apreciado pelo Tribunal de origem, tampouco sua violação foi alegada nos embargos de declaração opostos para sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matériaimpugnada, objetodorecurso excepcional,impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+11. Em face do exposto, conheço do agravo para não conhecer do recurso especial do particular.
+12. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+13. Publique-se. Intimem-se.
