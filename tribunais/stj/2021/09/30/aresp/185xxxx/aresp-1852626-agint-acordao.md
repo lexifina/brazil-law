@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer dorecurso especial pelos seguintes fundamentos: i) incidência da Súmula 284/STF porquanto a agravante não indicou precisamente os dispositivos legais que teriam sido violados nas razões de irresignação quanto àilegitimidade passiva da parte ora recorrente, à inaplicabilidade da responsabilidade civil objetiva, àausência de elementos ensejadores do dever de indenizar, àausência de comprovação de conduta culposa da parte ora recorrente, bem como à ausência de nexo de causalidade, e àexorbitância do montante arbitrado a título de danos morais; ii) no tocante à alegação de inaplicabilidade da responsabilidade civil objetiva no sentido de que o risco não derivou de execução de serviço público sob concessão da parte ora recorrente, houvefundamento constitucional autônomo no acórdão recorrido e não houve apresentação do devido recurso extraordinário, atraindo aincidência da Súmula 126/STJ; iii) incidência da Súmula 7/STJ para a revisão dos temas sobre a ausência de comprovação de conduta culposa da parte ora recorrente, bem como a ausência de nexo de causalidade, a ausência de demonstração de dano material indenizável e,quanto àexorbitância do montante arbitrado a título de danos morais, uma vez que, necessariamente, demandaria revolvimento do acervo fático-probatório.
+No presente recurso sustenta a inaplicabilidade da Súmula 284 do STF, pois, foi aberto um tópico específico a fim de debater cada ponto objeto do recurso e cada dispositivo de lei argumentado.
+No tocante à incidência da Súmula 126 do STJ, esclareceque a matéria diz respeito, basicamente à ilegitimidade da ora agravantepara figurar no polo passivo da presente ação, em razão da existência de contrato celebrados às partes, motivo pelo, qual não haveria necessidade de interposição de recurso extraordinário.
+Por fim, no que diz respeito à incidência da Súmula 7 do STJ, esclareceque a apreciação da legitimidade de uma das partes em nada se confunde com apreciação de mérito.
+Pugna, por fim, a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO ATACA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTIGO 932, III, 3ª PARTE, DO CPC/2015. ÔNUS DA DIALETICIDADE DESCUMPRIDO. INCIDÊNCIA DO ART. 1021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravo em recurso especial não pode ser conhecido, pois a parte agravante não cuidou de impugnar, em bases concretas e específicas, os bastantes fundamentos da decisão agravada.
+2. Dispõe o Código de Processo Civil de 2015 que não deve ser conhecido o recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, 3ª parte). Tem-se por descumprido o ônus da dialeticidade, previsto no art. 1021, § 1º do CPC/2015. Incidência, pois, à espécie, o enunciado da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O agravo interno não admite conhecimento.
+Isso porquea decisão monocrática proferida pela Presidência do STJ conheceu do agravo para não conhecer do recurso especial pelos seguintes fundamentos:
+i) incidência da Súmula 284/STF porquanto a agravante não indicou precisamente os dispositivos legais que teriam sido violados nas razões de irresignação quanto à ilegitimidade passiva da parte ora recorrente, à inaplicabilidade da responsabilidade civil objetiva, à ausência de elementos ensejadores do dever de indenizar, à ausência de comprovação de conduta culposa da parte ora recorrente, bem como à ausência de nexo de causalidade, e à exorbitância do montante arbitrado a título de danos morais;
+ii) no tocante à alegação de inaplicabilidade da responsabilidade civil objetiva no sentido de que o risco não derivou de execução de serviço público sob concessão da parte ora recorrente, houve fundamento constitucional autônomo no acórdão recorrido e não houve apresentação do devido recurso extraordinário, atraindo a incidência da Súmula 126/STJ;
+iii) incidência da Súmula 7/STJ para a revisão dos temas sobre a ausência de comprovação de conduta culposa da parte ora recorrente, bem como a ausência de nexo de causalidade, a ausência de demonstração de dano material indenizável e, quanto à exorbitância do montante arbitrado a título de danos morais, uma vez que, necessariamente, demandaria revolvimento do acervo fático-probatório.
+Neste agravo interno, a agravantesustenta a inaplicabilidade daSúmula 284 do STFalegando que foi aberto um tópico específico a fim de debater cada ponto objeto do recurso;que a matéria diz respeito, basicamente à ilegitimidade da ora agravante para figurar no polo passivo da presente ação, o que afasta a incidência da Súmula 126 do STJ pela não interposição de recurso extraordinário;que a apreciação da legitimidade de uma das partes em nada se confunde com apreciação de mérito, o que afasta a incidência da Súmula 7 do STJ.
+Assim, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, pois limita-se a apresentar razõesgenéricas que não especificam por quais motivos os óbices apontados não são aplicáveis, de modo que não se contrapõe, especificamente, quanto aos fundamentos da decisão monocrática, descumprindo, assim, o ônus da dialeticidade previsto no art. 1021, § 1º do CPC/2015.
+Dispõe o Código de Processo Civil de 2015 que não deve ser conhecido o recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, 3ª parte).
+Ressalto que a impugnação deve ser específica e suficientemente demonstrada, não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido.
+Nesse diapasão:
+PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. SÚMULA 182 DO STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ.
+2. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada.
+3. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica, dos fundamentos da decisão agravada.
+Agravo regimental improvido.
+(AgInt no AREsp 855.681/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/04/2016, DJe 15/04/2016)
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 544, § 4º, I, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ, POR ANALOGIA.
+1. Compete ao recorrente, nas razões do agravo, infirmar especificamente todos os fundamentos expostos na decisão que inadmitiu o recurso especial (art. 544, § 4º, I, do CPC).
+2. Diante da decisão que inadmitiu o recurso especial, a defesa não impugnou nenhum dos fundamentos do Tribunal local. Incidência da Súmula 182/STJ.
+3. À luz da jurisprudência desta Corte e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia. De mais a mais, a impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, somente em sede de agravo regimental, não tem o condão de afastar a aplicação da Súmula 182/STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp 705.564/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/08/2015, DJe 25/08/2015)
+Nenhuma censura merece o decisório recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
