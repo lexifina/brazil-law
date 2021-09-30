@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial, interposto por MARCELO MENDES DE AZEVEDOe OUTRO, com fundamento no art. 105, III, "a" e "c",da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AÇÃO ANULATÓRIA CUMULADA COM CONSIGNAÇÃO EM PAGAMENTO. IMÓVEL ALIENADO FIDUCIARIAMENTE. DEVEDORES FIDUCIANTES INADIMPLENTES. PURGA DA MORA. NOTIFICAÇÃO. PAGAMENTO NÃO REALIZADO. CONSOLIDAÇÃO DA PROPRIEDADE EM NOME DO CREDOR FIDUCIÁRIO. VALIDADE.SENTENÇA DE IMPROCEDÊNCIA. MANUTENÇÃO.
+Ação proposta pelos recorrentes, mutuários que deixaram de quitar parcelas de um contrato de financiamento imobiliário garantido por alienação fiduciária, com o objetivo de invalidar a consolidação da propriedade fiduciária em nome do recorrido, mediante o depósito judicial das parcelas vencidas e vincendas, tendo em vista que não assinaram a notificação para purgação da mora.
+A sentença de improcedência não merece reparo.
+1. A certidão passada pelo substituto do oficial do serviço notarial, que tem fé pública, atesta que o primeiro apelante foi notificado em 22 de novembro de 2014 a purgar a mora, recusando-se a exarar sua ciência, apesar de ter recebido a respectiva cópia.
+2. Nos termos do parágrafo segundo da cláusula 22 inserida no contrato firmado, os devedores fiduciantes outorgaram reciprocamente poderes especiais para que cada um, isoladamente, representasse o outro no recebimento de citações ou intimações judiciais ou extrajudiciais.
+Forçoso, pois, é considerar que a segunda apelante também foi intimada, na pessoa do primeiro recorrente, a satisfazer as prestações vencidas naquela mesma oportunidade.
+3. O bem foi levado a leilão por duas vezes, mas não foi arrematado. E não há evidência de que os autores tentaram fazer o pagamento da dívida até 26/05/2014, data do segundo leilão." (e-STJ, fl. 451)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, o ora agravante aponta violação aos artigos 26, 39, da Lei 9.514/97, Decreto Lei 70/66, 22, e 29 a 41, da Lei 9.517/77.e divergência jurisprudencial. Sustenta,em síntese, que a)"o título é totalmente nulo, eis que assinado por terceiro, ou seja, nenhum dos Autores assinou a Notificação, não foram devidamente cientificados sobre o aviso da execução" (fl. 487) e b) "o credor pode purgar a mora a qualquer momento, desde que não realizada a arrematação" (fl. 492).
+Não foram apresentadas contrarrazões.
+É o relatório.
+Inicialmente, no que tange à alegação nulidade em razão da falta de intimação dos recorrentes, a Corte de origem manifestou-se nos seguintes termos:
+"Segundo a certidão lavrada pelo substituto do titular do serviço notarial e registral incumbido da diligência (pasta 000161, fl.4), em 22 de novembro de 2014, o primeiro apelante foi notificado no endereço do imóvel objeto do contrato de financiamento garantido por alienação fiduciária, recusando-se a exarar sua ciência, apesar de ter recebido a respectiva cópia.
+Cumpre observar que, de acordo com o parágrafo segundo da cláusula 22 do referido instrumento (pasta 000052, fl.5), os devedores fiduciantes outorgaram reciprocamente, em caráter irrevogável e irretratável, poderes especiais para que cada um, isoladamente, representasse o outro no recebimento de citações ou intimações judiciais ou extrajudiciais.
+Assim, forçoso é considerar que a segunda apelante foi efetivamente intimada, na pessoa do primeiro recorrente, a purgar a mora naquela mesma oportunidade.
+Nos termos do art. 26, §1º, da Lei 9514/97, uma vez notificados, eles tinham de 15 dias para satisfazer as prestações inadimplidas e as que se vencessem até o término desse prazo, mas se mantiveram inertes. E não adotaram qualquer providência nesse sentido até a data da realização do segundo leilão (pasta 000296), no qual imóvel também não foi arrematado.
+Como a presente ação foi proposta em 06/11/2015, quando de há muito esgotada a possibilidade de purga da mora, inclusive se levado em conta o limite máximo aceito pela jurisprudência então predominante, Sua Excelência assentou compreensão no sentido de que a perda do imóvel decorrera da inércia dos demandantes em adotar a iniciativa correta para a quitação da dívida, rejeitando, por via de consequência, as questões preliminares deduzidas na inicial.
+Portanto, a nulidade vislumbrada inexiste." (e-STJ, fls. 453/454)
+Nesse contexto, concluir de forma diametralmente oposta, como pretende orecorrente em suas razões recursais,no caso em voga, demandaria o revolvimento de suportefático-probatório dos autos, o que é inviável em sede de recurso especial,a teor do que dispõe a Súmula 7 deste Pretório.
+Avançando, os recorrentes alegama possibilidade de realizar a purgação da mora/débito a qualquer momento, mesmo depois de consolidada a propriedade fiduciária, porém desde que até a assinatura do auto de arrematação, sobre a matéria o Tribunal local consignou, na oportunidade, o seguinte:
+"A certidão passada pelo substituto do oficial do serviço notarial, que tem fé pública, à luz do disposto no art. 161 da Lei de Registros Públicos, atestou a efetiva entrega da notificação extrajudicial, bastando, assim, como prova de que os devedores fiduciantes foram intimados pessoalmente a quitar as prestações inadimplidas no prazo estabelecido pela lei regente, a despeito da noticiada recusa ao primeiro apelante em apor sua ciência.
+No mais, verifico que o bem foi levado a leilão por duas vezes, mas não foi arrematado. E não há evidência de que os autores tentaram fazer o pagamento da dívida até 26/05/2014, data do segundo leilão.
+De acordo com a certidão negativa emitida pelo leiloeiro (pasta 000296), como não foi ofertado lance igual ou superior ao valor das prestações inadimplidas, das despesas, dos prêmios de seguro, dos encargos legais, inclusive tributos, e das contribuições condominiais, a dívida foi considerada extinta, e o credor fiduciário, exonerado da obrigação de devolver eventual montante que sobejasse, passando a ter livre disposição sobre a propriedade do imóvel em foco, nos exatos termos da previsão contida no art. 27, §5º, da Lei nº 9.514/97.Tendo em vista que tais fatos ocorreram muito antes da propositura desta demanda, mostra-se inócuo o debate quanto à possibilidade de purgação da mora até a data da arrematação.
+A sentença deve ser mantida como prolatada."(e-STJ, fls. 454/455)
+Dessa forma, a pretensão de alterar tal entendimento, nos moldes em que ora postulado, também demandaria o revolvimento do suporte fático-probatório,o que é inviável em sede de recurso especial, conforme dispõe aSúmula den. 7 do STJ.
+Nessa linha de intelecção, confira-se oseguinteprecedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BEM IMÓVEL. POSSIBILIDADE DE PURGAÇÃO DA MORA. CONSOLIDAÇÃO DA PROPRIEDADE. LEILÃO EXTRAJUDICIAL. NOTIFICAÇÃO PESSOAL DO DEVEDOR.
+OCORRÊNCIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE.
+SÚMULA 83/STJ. REVISÃO. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, a Súmula n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+2. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no REsp 1841965/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 31/08/2020, DJe 08/09/2020)
+Por fim, orecurso também não merece prosperar pela alínea "c" do permissivo constitucional. É impossível conhecer da alegada divergência jurisprudencial, tendo em vista que a incidência da Súmula 7/STJ na questão controversa apresentada também é, consequentemente, óbice para a análise do apontado dissídio. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA E VIOLAÇÃO AO ART. 357 DO CPC. NÃO OCORRÊNCIA. SÚMULA 7/STJ.
+DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. SÚMULA 7/STJ.
+1. O indeferimento parcial do pleito em decorrência da ausência de provas não significa falha no saneamento do feito, nem mesmo violação ao art. 357 do CPC.
+2. Os agravantes não comprovaram a ocorrência de negativação indevida a ensejar necessidade de reparação patrimonial por meio de indenização por dano moral.
+3. Não é possível rever a decisão da Corte de origem que afastou a ocorrência de cerceamento de defesa, em virtude do óbice previsto na Súmula º 7 do STJ 4. O recurso especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+5. Aplicada a Súmula 7/STJ quanto à alínea "a" do permissivo constitucional, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal.
+6. Agravo interno não provido.
+(AgInt no AREsp 1368264/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/05/2019, DJe 16/05/2019)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA. TRIBUNAL A QUO ENTENDEU PELA AUSÊNCIA DE CONDUTA ILÍCITA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. AGRAVO DESPROVIDO.
+1. Rejeita-se a apontada violação ao art. 535 do CPC/73, pois o v. acórdão a quo não possui vício de omissão, obscuridade ou contradição, mas mero julgamento em desconformidade com os interesses do agravante.
+2. O eg. Tribunal a quo, soberano na análise do acervo fático-probatório carreado aos autos, concluiu pela ausência de nexo causal entre o alegado dano e a conduta atribuída à ora agravada. Pretensão de revisar tal entendimento demandaria revolvimento fático-probatório, inviável em sede de recurso especial, conforme Súmula 7/STJ.
+3. A mera transcrição de ementas não é suficiente para dar abertura ao apelo especial pela alínea c do permissivo constitucional.
+4. Não é possível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa é, por consequência, óbice também para a análise do apontado dissídio.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1120663/SE, de minha Relatoria, QUARTA TURMA, julgado em 13/03/2018, DJe 16/03/2018 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao agravado de 12% para 13% sobre o valor da causa.
+Publique-se.
