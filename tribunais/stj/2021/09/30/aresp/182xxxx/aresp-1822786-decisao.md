@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO SANTANDER (BRASIL) S.A em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DATA INICIAL. JUROS DE MORA. PRECLUSÃO. INADMISSIBILIDADE. NÃO CONHECIMENTO.
+1. É inadmissível a interposição de recurso de agravo sobre tema (início da contagem dos juros de mora) definido em decisão pretérita, por força da preclusão.
+2. Recurso não conhecido, à unanimidade." (fl. 242)
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 7, 502, 995, 1.015, parágrafo único, e 1.022, II, do Código de Processo Civil de 2015 e arts. 69 e 73 da Lei n. 8.245/91, bem como divergência jurisprudencial, sustentando, em síntese, (a) a negativa de prestação jurisdicional, (b) a concessão de efeito suspensivo ao especial; (c) a inexistência de preclusão acerca do termo inicial de fluência dos juros moratórios; (c) ausência de tratamento paritário dos litigantes; (d) cabimento de agravo de instrumento contra decisão interlocutória em cumprimento de sentença; e (e) "determinou como termo inicial para a incidência de juros sobre as diferenças dos aluguéis a data da citação, quando o correto seria a data da intimação para pagamento, no cumprimento de sentença, após o trânsito em julgado, quando o valor se torna exigível." (fl. 263).
+Apresentadas contrarrazões ao apelo nobre (fls. 304-313).
+É o relatório.
+De início, registre-se que a parte recorrente apontou violação ao art. 1.022 do CPC/15, entretanto, não desenvolveu argumentação que evidenciasse a ofensa, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284/STF. É de se ressaltar que sequer embargos de declaração foram opostos ao acórdão recorrido, não sendo plausível a alegação de ofensa ao dispositívo em testilha.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE RECONSIDEROU DELIBERAÇÃO DA PRESIDÊNCIA DESTA CORTE PARA, DE PLANO, NEGAR PROVIMENTO AO RECLAMO.INSURGÊNCIA DO AUTOR.
+1. Revela-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos artigos 489 e 1.022 do CPC/15 se faz de forma genérica, sem a demonstração dos pontos omissos, contraditórios ou obscuros que o acórdão tenha incorrido. Incide, no ponto, o teor da Súmula 284/STF. Precedentes.
+(..)
+3. Agravo interno desprovido." (AgInt no AgInt no AREsp 1669362/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2020, REPDJe 12/11/2020, DJe 03/11/2020, g.n.)
+Quanto à alegada violação dos arts. 7 e 1.015, parágrafo único, do CPC/15 e arts. 69 e 73 da Lei n. 8.245/91, verifica-se que o conteúdo normativo dos artigos invocados, não foi apreciado pelo eg. Tribunal de origem, tampouco foram opostos embargos declaratórios para sanar eventual omissão, no tocante à matéria de tais dispositivos. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+2. A transcrição da ementa ou do inteiro teor dos julgados tidos como divergentes é insuficiente para a comprovação de dissídio pretoriano viabilizador do recurso especial.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014)
+O eg. Tribunal de origem consigna que "Após a apreciação da liminar por esta relatoria, sobreveio decisão do Juízo da causa em que se verifica que, o objeto de discussão deste agravo (início da contagem dos juros de mora) já foi matéria de outro recurso. O Juízo atestou que a decisão de fl. 607 definiu a data inicial de incidência dos juros de mora, e o a quo agravo de instrumento interposto pelo executado não foi conhecido, com o trânsito em julgado da decisão. Diante dos fatos novos surgidos no curso da lide, em melhor análise ao recurso, entendo que este não reúne condições de admissão. Isso porque, é defeso à parte discutir no descortino do processo as questões já decididas, a cujo respeito se operou a preclusão." (fl. 244)
+Nesse contexto, consoante fica claro a partir da leitura da petição do especial, o recorrente pretende, em verdade, que esta Corte reveja o conteúdo dos atos decisórios proferidos na causa para atestar se a matéria relativa ao início da contagem dos juros de mora, nos estritos termos em que esta foi deferida, teria sido atingida pela preclusão, providência vedada nesta sede pela Súmula n. 7/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Prejudicada a análise de concessão de efeito suspensivo ao especial.
+Publique-se.
