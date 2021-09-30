@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GMO SANTOS EIRELI, à decisão de fls. 395/396, que não conheceu do recurso.
+Sustenta a parte embargante que:
+5. Ocorre que, tal decisão é omissa no tocante a não verificação de que, por conta do agravamento da pandemia do COVID-19, os prazos foram suspensos (fl. 400).
+6. Cabe destacar, que a publicação da 3ª Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro que inadmitiu o Recurso Especial interposto, foi publicada em 16/03/2020, conforme certidão em anexo (Doc. 01).
+7. Contudo, devido ao agravamento da pandemia do COVID-19 e às medidas de prevenção pelo Governo do Estado do Rio de Janeiro, os prazos processuais permaneceram suspensos até o dia 30/04/2020, consoante o que dispõe os atos normativos do Tribunal de Justiça do Estado do Rio de Janeiro, tais como:
+ ..
+8. Sendo assim, iniciou-se novamente o prazo no primeiro dia útil subsequente, qual seja, 04/05/2020 (segunda-feira). Ocorre que, mais uma vez, os prazos processuais foram suspensos a partir do dia 14/05/2020, por meio do Ato Normativo nº 14 do TJRJ, que suspendeu os prazos dos processos eletrônicos e físicos até 31/05/2020.
+9. Desse modo, a contagem dos prazos apenas retornou no dia 01/06/2020 (segunda-feira).
+10. Portanto, é notório a tempestividade do Agravo em Recurso Especial, uma vez que foi devidamente protocolado em 08/06/2020, dentro do prazo legal estipulado, de 15 (quinze) dias úteis, nos termos do art. 994 VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil (fl. 401).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ n. 313, de 19 de março de 2020, voltando a fluírem, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+A propósito: AgRg no AREsp 1774897/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/06/2021; AgInt no AREsp 1724837/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 16/06/2021; AgInt no AREsp 1756715/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1757717/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Deixo de apreciar o pedido de fls. 405/408 em razão da preclusão consumativa e do princípio da unirrecorribilidade recursal.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
