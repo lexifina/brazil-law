@@ -1,0 +1,17 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL No. 1005691-76.2017.8.11.0041
+APELANTE: ENECOL ENGENHARIA E MANUTENCAO LTDA
+APELADA: ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A.
+Vistos etc.
+Cuida-se de recurso de apelação cível interposto pelo ENECOL ENGENHARIA E MANUTENCAO LTDA , visando infirmar a r. sentença proferida pelo MM. Juízo da 4a Vara Cível da Comarca de Cuiabá/MT, Dra. Vandymara G.R. Paiva Zanolo, lançada nos autos da “Ação de Reparação de Dano Material c/c Perdas e Danos” no. 1005691-76.2017.811.0041, que julgou improcedentes os pedidos vindicados na peça inaugural e condenou a autora, ora apelante, ao pagamento das custas processuais e honorários advocatícios, fixados em R$ 10.000,00.
+Pois bem.
+Da análise dos autos, verifica-se que o pedido de justiça gratuita formulado pela ora apelante foi deferido no Juízo a quo no despacho inaugural e o pedido de concessão da benesse fora reiterado, nesta instância recursal, sob o argumento de impossibilidade econômica da apelante em arcar com às custas e despesas recursais processuais, em razão da inatividade da empresa recorrente.
+Pois bem. Inicialmente, pondera-se que não se desconhece o entendimento jurisprudencial que autoriza que as pessoas jurídicas, ainda que em regime de falência e/ou liquidação extrajudicial, sejam contempladas com o benefício em análise (Súmula 481 do STJ[1]). Porém, sua admissão apenas é possível em condições excepcionais, se comprovado que a instituição financeira requisitante efetivamente não ostenta possibilidade alguma de arcar com as custas do processo e dos honorários advocatícios, já que “Não é presumível a existência de dificuldade financeira da empresa em face de sua insolvabilidade pela decretação da falência para justificar a concessão dos benefícios da justiça gratuita." (REsp 1.075.767/MG, Rel. Ministro Castro Meira, Segunda Turma, DJe 18.12.2008).” (AgRg no AREsp 775.579/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2015, DJe 01/02/2016).
+No caso, o simples fato de encontrar-se em inatividade, por si só, não lhe retira o ônus de demonstrar a impossibilidade de arcar com os encargos processuais, pelo menos as relativas a este recurso.
+Por oportuno, a juntada de mera cópia de balancetes contábeis sintéticos desatualizados e demonstrativos de resultados do exercício (ano de 2019 – Id 99146477) não podem ser tidos como prova hábil e eficaz a demonstrar a apontada hipossuficiência, sobretudo porque consta um patrimônio líquido da empresa de R$ 9.645.852,45 no quarto trimestre de 2019, pelo que indefiro o pedido de assistência judiciária gratuita nesta via recursal. Da mesma forma, não há se falar em diferimento das custas ao final do processo, porquanto tratar-se de medida excepcional (art. 456 da CNGC/MT), somente concedida em casos pontuais em que a parte interessada comprova a necessidade de tal beneplácito, que igualmente não é justificável pela simples inatividade empresarial.
+Por consequência, determino a intimação da instituição apelante para que, no prazo de 05 (cinco) dias, efetue o recolhimento do preparo simples, sob pena de deserção, conforme estabelecido no art. 1.007, do CPC/15.
+Cumpra-se.
+Cuiabá/MT, 30 de setembro de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
+[1] Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais.
