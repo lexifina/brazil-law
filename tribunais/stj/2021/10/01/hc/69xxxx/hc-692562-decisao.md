@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Matheus Gomes Ferreira, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n.1500380-56.2018.8.26.0312) - fl. 559:
+APELAÇÃO - TRÁFICO DE DROGAS - RECURSO MINISTERIAL - Afastamento da causa de diminuição de pena prevista no § 4º, do art. 33, da Lei nº 11.343/06 - Não preenchimento dos requisitos legais - Demonstração da dedicação dos apelados a atividades criminosas - Regime fechado de rigor - Delito gravíssimo, equiparado a hediondo - Recurso ministerial provido.
+Consta dos autos que opaciente, em primeiro grau, foicondenadocomo incursono art. 33, capute § 4º, da Lei n. 11.343/2006 (226,3 gde maconha, 214,75 g de cocaína e 13,92 g porçõesde crack - fl. 25), à pena de 1anoe 8meses de reclusão, além do pagamento de 166 dias-multa (fls. 283/293).
+O recurso de apelação interposto peloMinistério Público foi provido para afastar o redutor do § 4º do art. 33 da Lei Antidrogas, considerada a quantidade de droga apreendida, elevando-se a pena para 5 anos de reclusão, mais o pagamento de 500 dias-multa,impondo, ainda, o regime prisional inicial fechado.
+Alega-se que é devida a incidência daminorante prevista no § 4º do art. 33 da Lei de Drogas, não havendoindícios de que opacienteintegreorganização criminosa, tendo em vista que se tratade réu primário, apreendido com quantidade não exorbitante de droga, absolvido pela prática do delito tipificado no art. 35 da Lei n.11.343/2006.
+Requer, assim, o restabelecimento da sentença, que reconheceu o redutor do tráfico privilegiado.
+Não houve pedido de liminar.
+Prestadas as informações (fls. 580/603), o Ministério Público Federal manifestou-se pelo não conhecimento e, se conhecida, pela denegação da ordem (fls. 605/608).
+É o relatório.
+Assiste razão à impetrante.
+Com efeito, o acórdão objurgado não apontou fundamentos idôneos para afastar aaplicação do redutor, previsto no § 4º do art. 33 da Lei n.11.343/2006, reconhecido pelo Magistrado sentenciante, uma vez que estábaseadoprincipalmente na quantidade de drogas, não se apontando qualquer outro elemento concreto para comprovar a habitualidade ou a dedicação a atividades criminosas, a não ser meras ilações.Confira-se (fl. 562):
+Ocorre que, no presente caso, a quantidade de drogas apreendidas, a sua variedade e o contexto em que flagrados os acusados demonstram que não são eles traficantes eventuais, mas, sim, que possuem íntima ligação com o comércio de entorpecentes, fazendo do tráfico seu meio de vida. Ora, foram eles flagrados em poder de 135 porções de maconha, 168 porções de cocaína e 45 porções de crack, tendo eles, outrossim, se deslocado entre diferentes localidades do Estado para a prática do comércio espúrio. De se salientar, ainda, que o réu Julio, a despeito de ser tecnicamente primário, já havia se enveredado na prática do mesmo delito em apreço em oportunidade passada (fls.135/136).
+Ocorre que a jurisprudência desta Corte está consolidada na linha de que a quantidade e a diversidade de drogas, por si sós, não constituem fundamentação suficiente para afastar a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Ademais,o mais recente posicionamento de ambas as Turmas do SupremoTribunal Federal é no sentido de que, em regra, inquéritos policiaise ações penais em andamento não constituem fundamentação idôneaapta a respaldar a não aplicação do redutor especial de redução depena relativa ao reconhecimento da figura privilegiada do crime detráfico de drogas(AgRg no REsp n. 1.936.058/SP, Ministra Laurita Vaz, Sexta Turma, DJe 24/9/2021).
+Observa-se, ainda, que a quantidade apreendida na espécie não se revela manifestamente elevada.
+Oportuno ressaltar quea apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo (AgRg no AREsp n. 875.891/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/9/2017).
+Firmadas essas premissas e verificando que os corréus se encontram em situação idênticaà do paciente, deve ser reconhecido a eles o direito àincidência da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n.11.343/2006,nos termos do art. 580, c/co art. 654, § 2º, todos do Código de Processo Penal.
+Com essas considerações, concedo a ordem para restabelecer a sentença condenatória, com extensão aos corréus (Júlio César Sobrinho e Jean do Carmo Gonçalves), proferida pelo Juízo da Vara Única da comarca de Juquiá/SP (Ação Penal n. 1500380-56.2018.8.26.0312).
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DROGAS. DOSIMETRIA. TRÁFICO PRIVILEGIADO. QUANTIDADE DE ENTORPECENTES. FUNDAMENTAÇÃO INIDÔNEA.SENTENÇA RESTABELECIDA.EXTENSÃO DA ORDEM AOS CORRÉUS (ART. 580 DO CPP).
+Ordem concedida nos termos do dispositivo, com extensão aos corréus.
