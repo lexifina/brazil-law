@@ -1,0 +1,5 @@
+O texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.gov.br/mcr.
+RESOLUÇÃO BCB Nº 140, DE 15 DE SETEMBRO DE 2021
+Dispõe sobre a criação da Seção 9 (Impedimentos Sociais, Ambientais e Climáticos) no Capítulo 2 (Condições Básicas) do Manual de Crédito Rural (MCR).
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 8 de setembro de 2021, com base no art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, e tendo em vista o art. 68 do Ato das Disposições Constitucionais Transitórias, os arts. 4º e 6º da Lei nº 4.829, de 5 de novembro de 1965, o art. 3º da Lei nº 8.171, de 17 de janeiro de 1991, o art. 78-A da Lei nº 12.651, de 25 de maio de 2012, a Lei nº 9.985, de 18 de julho de 2000, o art. 18 da Lei nº 6.001, de 19 de dezembro de 1973, o art. 5º do Decreto nº 1.775, de 8 de janeiro de 1996, o art. 17 do Decreto nº 4.887, de 20 de novembro de 2003, o Decreto nº 4.340, de 22 de agosto de 2002, e o art. 1º, inciso II, da Resolução CMN nº 4.883, de 23 de dezembro de 2020,
+R E S O L V E :
