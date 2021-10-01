@@ -1,0 +1,10 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo em Recurso Especial daUNIÃO(fls. 244/250e), objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal Regional Federal da 1ª Região(fls. 235e).
+Feito breve relato, decido.
+No caso,o Recurso Extraordináriointerposto pela UNIÃO(fls. 201/226e) teve seguimento negado em razão da ausência de repercussão geral da matéria suscitada  Recurso Extraordinário 1.183.025/MA, DJ de 5.6.2019(fls. 236/237e) e oRecurso Especial (fls. 177/186e) não foi admitido sob fundamentos de que ausente violação ao art. 1.022 do Código de Processo Civil de 2015, bem como porque incidiriam as Súmulas ns. 7 e 83 desta Corte, segundo as quais, respectivamente, "a pretensão de simples reexame de prova não enseja recurso especial" e "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", tanto para o recurso interposto pela alínea a, quanto para a c, do permissivo constitucional(fl. 235e).
+Em sequência, o mencionado entefederativointerpôs o Agravo Interno de fls. 240/243e, contra a decisão que negou seguimento ao Recurso Extraordinário e Agravo em Recurso Especial (fls. 244/250e), contra a decisão que inadmitiu o Recurso Especial.
+Às fls. 253/258e, a Corte Especial do Tribunal Regional Federal da 1ª Regiãodecidiu, por unanimidade, dar provimento ao agravo interno paradeterminar o sobrestamento do processo até o deslinde da controvérsia submetida ao Supremo Tribunal Federal, na sistemática da Repercussão Geral, a partir do Processo n. 0083295-97.2015.4.01.3700, em tramitação naquelaCorte.
+Assim, diante do contexto dos autos, o encaminhamento do feito a esta Corte afigura-se-me equivocado, revelando-se, de rigor, a devolução ao tribunal de origem, paraque seja observada a determinação constante às fls. 253/258e.
+Posto isso, DETERMINO A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM para que seja cumprida a determinação constante noacórdão de fls. 253/258e, procedendo à baixa na distribuição.
+Publique-se e intimem-se.
