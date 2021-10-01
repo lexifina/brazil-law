@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por FUTURATUR RECEPTIVO LTDA. contra a decisão que não admitiu o recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "a",da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de Goiásassim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA ANTECIPADA. ILEGITIMIDADE PASSIVA E ATIVA. AUSÊNCIA DE INTERESSE RECURSAL. MULTA PROTELATÓRIA APLICADA EM PRIMEIRA INSTÂNCIA AFASTADA.
+1. O agravo de instrumento é recurso pelo qual sua análise cinge-se no acerto ou desacerto do ato judicial agravado.
+2. Não se vislumbrando intenção protelatória no presente recurso, afasta-se a aplicação de multa por litigância de má-fé.
+3. Atinente à ordem de bloqueio de suas contas bancárias, via Bacenjud, mister a exclusão do mesmo, conf. decidido pelo i. Juízo a quo, no despacho do evento 110 do processo originário nº 5135398.59.2019.8.09.0091, pelo qual o MM. Magistrado tornou tal bloqueio de penhora sem efeito.
+4. Quanto à suspensão das determinações de inclusão de restrição de alienação no veículo objeto da ação originária (Marcopolo/Volare W9 ON, Placa ODQ-7658, UF-ES), de propriedade da Agravante, via Renajud, impõe-se a sua respectiva manutenção, a fim de preservar o bem, até o julgamento final da demanda originária.
+AGRAVO DE INSTRUMENTO CONHECIDO E, PARCIALMENTE, PROVIDO. DECISÃO REFORMADA, EM PARTE"(fl. 115 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 142/150 e-STJ).
+Nas razões do recurso especial (fls. 154/169 e-STJ), arecorrente aponta a violação dos arts. 489, § 1º,II e IV, 507, 1.022,II, e 1.026 do Código de Processo Civil de 2015.
+Apresentadas as contrarrazões (fls. 179/186 e-STJ), foi negado seguimento ao recurso especial (fls. 191/193 e-STJ), dando ensejo à interposição do presente agravo (fls. 197/210 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelorecurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Ultrapassados os requisitos de admissibilidade, passa-se ao exame do recurso especial.
+A pretensão merece acolhimento quanto àviolação daregra de interrupção do art. 1.026 do Código de Processo Civil de 2015.
+A matéria fática foi devidamente esclarecida pelo Tribunal de origem no julgamento dos embargos de declaração, nos seguintestermos:
+"(..)
+A Embargante assevera a ocorrência do vício de omissão no Acórdão embargado; justificando a oposição destes
+Aduz: "Restou, ainda, consignado no v. Acórdão a ausência de interesse recursal da Agravante, aqui Embargante, em relação às teses de ilegitimidade passivada Agravante e ativa do Agravado, que não foram por ele dirimidas sob o entendimento de que não foram objeto da decisão agravada e sequer teriam sido apreciadas pelo i. Juízo primevo."
+Defende que, conf. decisão saneadora constante da mov. nº 68 do processo originário, as teses acerca da sua ilegitimidade passiva e a ilegitimidade ativa do Embargado foram apreciadas.
+Alterca que a decisão constante da mov. nº 68 foi ainda integrada pelas decisões constantes das movs. n."s 72, 81 e 94; impondo-se a apreciação da tese altercada no recurso anterior (agravo de instrumento) e, alegadamente, não apreciada por esta egr. Corte.
+Ao final, rogam pelo saneamento dos vícios apontados.
+(..)
+Ademais, compulsando o processo originário, mormente, a decisão do evento 68, observo que a Embargante não se insurgiu; sobrevindo, tão somente, embargos de declaração (mov. nº 70 do processo originário) opostos pelo Embargado, clamando pela penhora, via BECENJUD e a restrição do veículo junto ao RENAJUD, conf. decisão constante da mov. nº16 do processo originário.
+Daqueles aclaratórios, sobreveio a decisão constante da mov. nº72 do processo originário, acolhendo os embargos de declaração do Embargado (mov. nº70 do processo originário), determinando: "a inclusão da restrição de transferência do veículo MARCOPOLO/VOLARE W9ON, placas ODQ-7658, pertencente a empresa executada FUTURATUR RECPTIVO LTDA., inscrita no CNPJ sob o nº 08.156.906/0001-01, a ser realizada via sistema RENAJUD."
+Em seguida, a Embargante opôs embargos de declaração (mov. nº75 do processo originário) insurgindo-se contra a decisão da mov. nº68; quando já preclusa a matéria atinente à discussão acerca de sua ilegitimidade passiva na ação originária e a ilegitimidade ativa do Embargado; o que se mostra inviável ao momento processual"(fls. 145/147 e- STJ).
+O Tribunal considerou ocorrida a preclusão porque a decisão que resolveu a questão da legitimidade das partes (movimentação 68) apenas foi embargada pelo adversário darecorrente.
+No entanto, a lei expressamente assegura a todas as partes a interrupção do prazo recursal como efeito da interposição dos embargos de declaração.
+Confira-se:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EFEITOS INFRINGENTES. OMISSÃO. ART. 1.026 DO CPC. PRAZO DO AGRAVO INTERNO. INTERROMPIDO. TEMPESTIVIDADE. MÉRITO DO AGRAVO INTERNO. CAPITAL SEGURADO. CORREÇÃO MONETÁRIA. TERMO INICIAL. APÓLICE RENOVADA. DATA DO SINISTRO.
+1. Omissão constatada em razão de ter sido desconsiderada a interrupção da contagem do prazo recursal para interposição de agravo interno, uma vez que a parte contrária havia oposto embargos de declaração.
+2. A correção monetária incide desde a data da celebração do contrato de seguro de vida até o dia do efetivo pagamento da indenização, pois a apólice deve refletir o valor contratado atualizado.
+3. Em caso de renovações sucessivas de contrato de seguro, entende-se que a cada renovação há uma novo capital segurado, de modo que o termo inicial de correção monetária dele é a data da renovação que vigia ao tempo do sinistro.
+4. Embargos de declaração acolhidos com efeitos modificativos, para negar provimento ao recurso especial interposto pela parte embargada."(EDcl no AgInt nos EDcl no REsp 1.852.164/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/03/2021, DJe 07/04/2021 -grifou-se)
+Muito embora a redação do art. 1.026 do Código de Processo Civil de 2015não tenha repetido de forma idêntica a redação do art. 538 do Código de Processo Civil de 1973, a jurisprudência entende que, mesmo na vigência do Código de 2015, a oposição de embargos de declaração interrompe o prazo para a interposição de recurso por qualquer das partes.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. RAZÕES DE RECURSO DISSOCIADAS DOS FUNDAMENTOS SUFICIENTES CONTIDOS NA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ. SÚMULA 284/STF. APLICAÇÃO POR ANALOGIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC/2015.
+1. Não pode ser admitido o agravo interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 ("Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada") e na Súmula 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+2. Tal atitude fere também a Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: "Aplica-se, por analogia, a Súmula 284/STF quando os fundamentos do agravo interno se mostram dissociados dos alicerces esposados na decisão agravada"(AgInt na Rcl 31.573/DF, Rel. Min. Sérgio Kukina, Primeira Seção, julgado em 14/9/2016, DJe 21/9/2016).
+3. Não merece acolhida o argumento de que o entendimento do STJ na decisão atacada foi sedimentado na vigência do CPC/1973, e que o CPC/2015 trouxe inovação no tema, ao prever expressamente, no art. 1.026, que "os embargos de declaração não possuem efeito suspensivo e interrompem o prazo para a interposição de recurso". Isso porque, como é cediço, o art. 538 do CPC/1973 já continha norma idêntica: "Os embargos de declaração interrompem o prazo para a interposição de outros recursos, por qualquer das partes."
+4. Agravo interno a que se nega provimento, em virtude da sua manifesta improcedência, condenando-se a agravante a pagar à agravada multa fixada em 5% do valor atualizado da causa, com amparo no art. 1.021, § 4º, do CPC/2015."(AgInt nos EDcl no MS 25.472/DF, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 07/04/2020, DJe 17/04/2020 -grifou-se)
+Dessa feita, nos termos narrados nojulgamento dos embargos de declaração pelo Tribunal de origem, a sucessiva oposição de embargos de declaração na primeirainstância àdecisão saneadora interrompeu o prazo para a interposição de agravo de instrumento desafiando sua conclusão a respeito da legitimidade das partes, motivo pelo qualo tema não pode ser considerado precluso.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e determinar que o Tribunal de origem prossiga no julgamento do agravo de instrumento, apreciando as preliminares acerca da legitimidade das partes.
+Publique-se.
+Intimem-se.
