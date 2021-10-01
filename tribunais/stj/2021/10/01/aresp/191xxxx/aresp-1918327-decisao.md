@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 402/407).
+O acórdão recorrido está assim ementado (e-STJ fl. 298):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO - CONTRATO DE COMPRA E VENDA DE IMÓVEL COM ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL EM GARANTIA - AUSÊNCIA DE REGISTRO NO RESPECTIVO CARTÓRIO DE REGISTRO DE IMÓVEIS -DESISTÊNCIA - POSSIBILIDADE -RESILIÇÃO DO NEGÓCIO POR INICIATIVA DO PROMITENTE COMPRADOR - MULTA CONTRATUAL -RAZOABILIDADE - JUROS DE MORA - TERMO INICIAL.
+- Nos termos do art. 23 da Lei n. 9.514/97, a propriedade fiduciária de coisa imóvel é constituída somente mediante o registro do contrato no competente Registro de Imóveis, não havendo que se falar em transferência da propriedade quando ausente o registro do título, o que possibilita a rescisão do contrato por desistência.
+-Tratando-se de resilição contratual por vontade do comprador, cabível a aplicação da multa, autorizando-se ao promitente vendedor a reter parte das parcelas pagas, para cobertura de despesas com administração, comercialização do imóvel e outros gastos havidos em razão da desistência do comprador, todavia, deverá obedecer ao princípio da razoabilidade.
+-O STJ firmou entendimento com relação ao Tema 1.002, no sentido de que os juros de mora incidem a partir do trânsito em julgado nos casos de rescisão contratual por culpa do comprador.
+Nas razões do recurso especial (e-STJ fls. 315/326), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega ofensa aos arts. 221, 389 e 475 do CC/2002, sustentando, em síntese, que "o ônus pela rescisão contratual deve recair exclusivamente sobre o Recorrido, eis que este a deu causa, ante a sua desistência"(e-STJ fl. 319).
+Afirma aindaa validade da retenção de valores atítulo de despesas com corretagem e comercialização do imóvel.Argumentando, subsidiariamente, a necessidade de majoração do percentual de retenção para 25% (vinte e cinco por cento) sobre montante pago.
+No agravo (e-STJ fls. 482/492), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 514/526).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 301/309):
+De início, quanto ao deferimento do pedido de rescisão, argumenta a recorrente que o contrato foi firmado nos termos da Lei n. 9.514/97, com garantia da alienação fiduciária, perfeitamente legal e acabado, não se podendo admitir seja rescindido, com devolução do imóvel e restituição dos valores pagos.
+(..)
+Observando, rigorosamente, os citados comandos legais, verifica-se que a ré, proprietária do imóvel discriminado no contrato objeto dos autos, vendeu-o aos autores que, no mesmo ato, o deram em garantia fiduciária. Todavia, não consta dos autos prova de que referido contrato foi regularmente registrado no competente Registro de Imóveis, deixando, assim, de ser transferida ao autor a propriedade resolúvel, como disposto no artigo 23do mesmo diploma legal. Desse modo, como a ausência de registro do contrato de compra e venda no competente Registro de Imóveis inviabiliza a utilização do procedimento previsto na Lei n. 9.514/97, para a rescisãodo contrato, neste caso, deve-se seguir aregra geral em matéria de contratos, restando permitida, portanto, tal rescisão, nos termos do artigo 423 e 474 do Código Civil, devendo a sentença ser mantida neste ponto.
+(..)
+Por outro lado, o MM. Juiz primevo determinou que a requerida restituísse aos autores 80% dos valores por eles pagos, tendo retido o percentual de 20%, a título de compensação por todos os gastos efetuados com o empreendimento. Sobre a restituição de valores anterior à consolidação da propriedade fiducuária, preceitua a cláusula 13ª:
+(..)
+Todavia, na hipótese, não há no contrato cláusula que transfira aos compradores, ora autores, a obrigação de pagar a corretagem. Ainda que tenham sido emitidos os recibos separadamente, consta que os valores foram pagos diretamente à requerida, ora apelante, o que afasta a aplicação do julgamento paradigma acima.
+Assim, não há que se falar em retenção da totalidade da referida quantia paga a título de comissão de corretagem, ou, ainda, 5% do total da venda do bem, como pactuado na citada cláusula 13, parágrafo primeiro, do contrato em discussão.
+Quanto à porcentagem de 10% de retenção referente à taxa de administração, acrescida de mais 10% de retenção a título de multa convencional, indubitável que resta configurado "bis in idem", na medida em que possuem a mesma natureza, pois ambas tem a finalidade de ressarcir a vendedora dos custos havidos com a venda do imóvel, quer sejam administrativos ou com propaganda.
+Por fim, quanto ao desconto também previsto na referida cláusula no que se refere ao "ressarcimento de todos os tributos incidentes sobre o negócio", ressalte-se que, além de tais despesas estarem incluídas nos 10% acima citados, sequer há prova de quanto fora gasto com tais tributos.
+(..)
+Neste contexto, em que pese ser o meu entendimento no sentido de que a retenção do percentual de 10% do valor a ser restituído aos autores seria razoável, deve ser mantida a sentença quanto à determinação de 20% de retenção de tal valor, diante da ausência de recurso por parte dos autores, sob pena de infringência ao princípio do "reformatio in pejus".
+Alterar tais fundamentos e reconhecer a inexistência de abusividade dos valores cobrados a título de rescisão do contrato demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
