@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WELLINGTON APARECIDO AMARO - preso cautelarmente no dia 25/3/2021pela suposta prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006 - contra decisão liminar de Desembargador do Tribunal de Justiça do Estado de São Paulo(HC n. 2220897-02.2021.8.26.0000).
+Segundo consta dos autos, o paciente foi preso preventivamente na posse detrês porções de maconha com peso de 40,8g; cinco porções pesando 66,9g; e dezesseis porções, acondicionadas em plástico, com peso de 1.675g.
+Homologado o flagrante foi decretada a prisão preventiva (e-STJ fls. 84/90).
+Inconformada, a defesa, impetrou habeas corpus na Corte estadual, alegando naquela oportunidade, ausência de fundamentos válidos para o decreto preventivo. O Relator da ação na origem, indeferiu a liminar (e-STJ fls. 9/13).
+Na presente oportunidade, a defesa alega a negativa de autoria, afirmando não ser dele a droga encontrada, mas do seu cunhado, dono do imóvel.
+Reafirma a ausência de fundamentos idôneos para a manutenção do decreto prisional contra o paciente.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva do paciente.
+É o relatório.Decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Quanto à alegada negativa de autoria, registro ser inviável a análise, no âmbito restrito do habeas corpus, de teses que, por sua própria natureza, demandam dilação probatória. As provas dos autos devem ser apreciadas durante a instrução criminal, sob o crivo do contraditório, não sendo esta a via adequada para a sua revisão. Nesse sentido:
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO. IMPOSSIBILIDADE. ORGANIZAÇÃO CRIMINOSA ARMADA. PARTICIPAÇÃO DE ADOLESCENTE E CONCURSO DE FUNCIONÁRIO PÚBLICO. CONEXÃO COM OUTRAS FACÇÕES CRIMINOSAS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. INDÍCIOS SUFICIENTES DA AUTORIA. PRESENÇA.NEGATIVA DE COMETIMENTO DO DELITO. INVIABILIDADE DE EXAME NA VIA ELEITA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. CIRCUNSTÂNCIAS DOS DELITOS. GRAVIDADE DIFERENCIADA DO MODUS OPERANDI EMPREGADO PELA ORGANIZAÇÃO.NECESSIDADE DE INTERROMPER A PRÁTICA REITERADA DE CRIMES PELO GRUPO INVESTIGADO. ACUSADA REINCIDENTE. PRISÃO DOMICILIAR. ART. 318, INCISO V, DO CPP. INCOMPATIBILIDADE DO BENEFÍCIO COM A PERICULOSIDADE SOCIAL DA PACIENTE.MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. COAÇÃO ILEGAL NÃO DEMONSTRADA. WRIT NÃO CONHECIDO.
+(..).
+3. A análise acerca da negativa de cometimento do delito é questão que não pode ser dirimida em habeas corpus, por demandar o reexame aprofundado das provas a serem produzidas no curso da instrução criminal, vedado na via sumária eleita.
+(..).
+9. Habeas corpus não conhecido. (HC 367.698/SC, Rel. Min. JORGE MUSSI, Quinta Turma, julgado em 13/12/2016, DJe de 1º/2/2017)
+Por outro lado, o presente writ,é mera reiteração do HC n. 665.270/SP- apresenta as mesmas partes, causa de pedir e pedido, o qual em decisão monocrática por mim proferida em 10/5/2021, não conheci do habeas corpus, mantendo a prisão preventiva.
+Com efeito, " r evela-se manifestamente incabível o habeas corpus que veicula pedido idêntico ao formulado em pleito anterior, que tramita nesta Corte." (AgRg no HC 253.038/SP, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), Sexta Turma, julgado em 11/4/2013, DJe 23/4/2013).
+Em outras palavras, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
