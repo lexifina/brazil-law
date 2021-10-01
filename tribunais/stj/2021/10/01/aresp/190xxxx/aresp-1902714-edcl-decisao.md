@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTÔNIO AUGUSTO DA SILVA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta que a decisão embargada é omissa, contraditória e obscura, posto que a "argumentação está equivocada com relação ao artigo de lei ao qual foi negado vigência pelo Tribunal local" (fl. 476). Traz os seguintes argumentos:
+3 - Que a v. decisão alega questão constitucional, mas admite na argumentação que o artigo violado ou negado provimento é da lei do inquilinato, ou seja, artigo 82 das disposições finais e transitórias da lei 8245/91 acrescentou o inciso VII ao artigo 3º da Lei 8009/90 permitindo a penhora em bem de família por obrigação decorrente da fiança concedida em contrato de locação.
+4 - Que não resta dúvida que se o artigo violado foi da lei do inquilinato, uma jurisprudência esparsa e que não foi unânime no STF, não faz com que o referido artigo passe a fazer parte da Constituição.
+5 - Que o embargante, requer se digne V. Exa., de dizer qual artigo constitucional teria sido violado para justificar que o recurso adequado seria o Recurso Extraordinário e não o Recurso Especial (fl. 476, grifo meu).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No presente caso, o decisum embargado entendeu que a própria tese recursal possui natureza constitucional, não obstante se alegue violação de dispositivo infraconstitucional. Confira-se:
+ ..  é incabível o recurso especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicada nas razões do recurso especial violação ou interpretação divergente de dispositivos de lei federal (fl. 471, grifo meu).
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
