@@ -1,0 +1,8 @@
+DECISÃO
+Publicada a decisão de fls. 418/420, e-STJ que não conheceu do agravo em recurso especial, a parte apresentou petição (fls. 424/434, e-STJ) na qual informa equívoco ao protocolar o recurso de agravo interno no tribunal local e "requer seja desentranhado o Recurso do Tribunal de Justiça e recebido por Vossa Excelência a fim de não trazer prejuízo à parte, ante os princípios da primazia da resolução de mérito, da cooperação e da boa-fé."
+É, no essencial, o relatório.
+Diante da ausência de qualquer recurso contra a decisão de fls. 296/297, e-STJ, e de seu consequente trânsito em julgado, verifica-se o exaurimento da prestação jurisdicional deste Tribunal Superior.
+Registre-se, por oportuno, que a tempestividade de recurso interposto contra decisão exarada por esta Corte Superior é aferida pelo registro no protocolo da Secretaria deste tribunal, sendo certo que a protocolização do recurso no Tribunal de origem, ainda que no prazo legal, não possui o condão de afastar sua intempestividade. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO.VIA ORIGINAL. INTEMPESTIVIDADE. PROTOCOLO. APRESENTAÇÃO EM TRIBUNAL DIVERSO. IMPOSSIBILIDADE. 1. A tempestividade de recurso interposto com o objetivo de impugnar decisão proferida pelo STJ é aferida com base na data da entrada da petição no protocolo da secretaria dessa Corte, não se admitindo o protocolo, no prazo previsto, em outro Tribunal. 2. Agravo regimental não conhecido. (AgRg nos EAg 1239908/SP, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 12/8/2013).
+Ante o exposto, indefiro o pedido de juntada do agravo interno e determino a baixa dos autos à origem.
+Publique-se. Intimem-se
