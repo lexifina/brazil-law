@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se, na origem, de agravo de instrumento interposto por Banco do Brasil S.A. contra decisão que, nos autos do cumprimento individual de sentença coletiva promovida por Carlos Roberto Prezotto, julgou improcedente a impugnação apresentada pela instituição financeira.
+A Décima Oitava Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve a decisão monocrática proferida pelo Desembargador Relator, a qual deu provimento à insurgência para excluir os juros remuneratórios do montante exequendo.
+O acórdão assim ementado (e-STJ, fl. 170):
+AGRAVO INTERNO - Legitimidade ativa caracterizada - Desnecessidade da associação do poupador ao IDEC -Possibilidade do ajuizamento da execução no foro da comarca do domicílio do credor - Prescrição não caracterizada - Utilização dos índices da Tabela Prática do Egrégio Tribunal de Justiça do Estado de São Paulo para a correção monetária do débito exequendo - Incidência dos juros moratórios, a partir da citação do Banco, na ação coletiva - Ausência do interesse recursal quanto aos juros remuneratórios - Pré-questionamento - Recurso conhecido em parte e, na parte conhecida, improvido.
+O Banco do Brasil S.A. interpõe recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de divergência jurisprudencial, violação aos arts. 204, 205 e 206 do Código Civil; 867 do CPC/2015; 21 da Lei n. 4.717/1965; 16 da Lei 7.347/1985; 2º-A da Lei n. 9.494/1997.
+Defende estar configurada a prescrição quinquenal para o ajuizamento do cumprimento de sentença e a ilegitimidade do Ministério Público do Distrito Federal e Territórios para propor cautelar de protesto para interrupção de prescrição.
+Sustenta a necessidade de se restringir os efeitos da sentença coletiva aos limites territoriais do órgão julgador prolator da sentença, bem como a ilegitimidade ativa dos poupadores que não integravam o quadro associativo da autora da ação coletiva de conhecimento para promover a liquidação da sentença.
+Aduz, também, que o termo inicial para incidência dos juros de mora é a data da citação do banco na fase de cumprimento.
+Sem contrarrazões.
+Brevemente relatado, decido.
+A questão de direito tratada no recurso especial - Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude doajuizamento de ação de protesto pelo Parquet - foi afetada pela Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, a decisão exarada pelo Relator, Ministro Raul Araújo, no REsp 1.801.615/SP, DJe de 30/10/2019, delimitou o Tema 1.033 nos seguintes termos:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SOLUÇÃO CONCENTRADA E VINCULANTE. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, para os efeitos dos arts. 927 e 1.036 do CPC, acerca do seguinte tema: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas".
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim deque, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.033/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AJUIZAMENTO DE PROTESTO JUDICIAL POR LEGITIMADO EXTRAORDINÁRIO. PRESCRIÇÃO. INTERRUPÇÃO. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS (PROAFR NO RESP N. 1.801.615/SP E NO RESP N. 1.774.204/RS).TEMA 1.033. SUSPENSÃO DO FEITO. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
