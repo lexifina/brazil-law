@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de demonstração daofensa ao artigode lei indicadoe (b) falta de cotejo analítico para comprovar o dissídio jurisprudencial(e-STJ fls. 424/426).
+O acórdão do Tribunal de origem está assim ementado (e-STJ fl. 326):
+RESCISÃO DE CONTRATO - Rescisão do contrato de venda e compra de imóvel, por desistência da compradora - Sentença de improcedência - Recurso da autora - Provimento parcial. DEVOLUÇÃO DOS VALORES PAGOS - Cabimento - Requerida que deverá devolver a totalidade dos valores pagos pela autora, de uma só vez, nos termos da Súmula nº 2 desta Corte, observada a retenção de 20% para ressarcimento dos prejuízos decorrentes da própria rescisão contratual, por se mostrar percentual razoável no caso. JUROS DE MORA - Termo inicial que deve ser fixado a partir do trânsito em julgado desta decisão e não da citação, porquanto, nesta hipótese de rescisão contratual, inexiste mora anterior da vendedora - Jurisprudência assente do STJ. CORREÇÃO MONETÁRIA - Incidência a partir de cada desembolso, sob pena de enriquecimento ilícito - Inaplicabilidade do art. 1º, § 2º, da Lei nº 6.899/81. HONORÁRIOS ADVOCATÍCIOS - Fixação em benefício da autora sobre o valor da condenação e, em contrapartida, em favor da requerida em percentual sobre o pedido não atendido. RECURSO DA AUTORA PROVIDO EM PARTE.
+Os embargos de declaração foram rejeitados (e-STJ fls. 343/346).
+Nas razões do recurso especial (e-STJ fls. 350/370),fundamentado no art. 105, III, alíneas "a" e "c", da CF, a recorrente indicoudivergência interpretativa e desrespeito ao art. 1º, § 2º, da Lei n. 6.899/1981, afirmando que incidiria correção monetária sobre os valores a serem restituídos à compradora, a partir do ajuizamento da ação, e não do desembolso das parcelas do imóvel.
+Foram ofertadas contrarrazões (e-STJ fls. 422/423).
+No agravo (e-STJ fls. 429/451), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Contraminutaapresentada (e-STJ fls. 454/456).
+É o relatório.
+Decido.
+A Corte de origem não se manifestou sobre:(i) o art. 1º, § 2º, da Lei n. 6.899/1981, e(ii) a tese de que a correção monetária incidente sobre os valores a restituir seria devida a partir da data do ajuizamento da demanda, e não do pagamento das parcelas do imóvel. Assim, sem terem sido objeto de debate na decisão recorrida, a despeitodos aclaratórios opostos, a matéria contida em tal dispositivo e a referida tese carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 do STF e 211 do STJ.
+Ademais, segundo a jurisprudência consolidada desta Casa, "em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide a partir de cada desembolso" (AgInt no AREsp n. 208.706/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/8/2017, DJe 13/9/2017).
+Do mesmo modo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. CONTRATO DE COMPRA DE IMÓVEL. DESFAZIMENTO. VALOR PAGO. PERCENTUAL DE RETENÇÃO. MATÉRIA FÁTICO-PROBATÓRIA. CLÁUSULAS CONTRATUAIS. REEXAME.IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. CORREÇÃO MONETÁRIA. TERMO INICIAL. DESEMBOLSO.
+(..)
+4. O termo inicial da correção monetária das parcelas pagas a serem restituídas em virtude da rescisão do contrato de compra e venda é a data de cada desembolso, nos termos da jurisprudência do Superior Tribunal de Justiça.
+5. Agravo interno não provido.
+(AgInt no REsp n.1.791.907/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/3/2021, DJe 12/3/2021.)
+Ainda nesse sentido: AgRg no AREsp n. 478.627/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/5/2014, DJe 15/8/2014, e REsp n. 1.661.139/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/5/2017, DJe 16/5/2017.
+O TJSP concluiu que (e-STJ fl. 330):
+A correção monetária, instrumento tipicamente brasileiro, forjado em tristes tempos de espiral inflacionária daninha, é fator de mera recomposição da moeda; qualquer afastamento de sua incidência, em hipótese de ressarcimento de valor pago, que não seja o de efetivo desembolso, não recupera o valor aquisitivo da moeda despendida, proporcionando o enriquecimento ilícito de quem deve repor o valor, o que jurídica e moralmente seria inaceitável.
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais arecorrentenão se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
