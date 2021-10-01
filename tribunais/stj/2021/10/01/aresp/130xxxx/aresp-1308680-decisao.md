@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 282 do STF (e-STJ fls. 496/499).
+O acórdão recorrido está assim ementado (e-STJ fls. 415/416):
+AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - PRELIMINARES: INADEQUAÇÃO DA VIA ELEITA - MATÉRIA AFETA AO MÉRITO RECURSAL - OFENSA AO PRINCÍPIO DA DIALETICIDADE - INOCORRÊNCIA - MÉRITO: CUMPRIMENTO PROVISÓRIO DE SENTENÇA - PRESTAÇÃO DE CAUÇÃO - AUSÊNCIA DE ATOS EXPROPRIATÓRIOS E/OU GRAVE DANOS AO EXECUTADO - DESNECESSIDADE DE GARANTIA DO JUÍZO - NECESSIDADE DE AVALIAÇÃO DOS BENS JÁ PENHORADOS - IMPUGNAÇÃO À AVALIAÇÃO QUE PODE SER REALIZADA POSTERIORMENTE, MEDIANTE SIMPLES PETIÇÃO NOS AUTOS - REDISCUSSÃO DE MATÉRIA APRECIADA NA AÇÃO ORIGINÁRIA - IMPOSSIBILIDADE - RECURSO CONHECIDO E IMPROVIDO.
+A teoria dos recursos é informada por uma série de princípios e dentre eles, figurando como um dos mais importantes, temos o princípio da dialeticidade, segundo o qual o recorrente deve confrontar os fundamentos utilizados na decisão impugnada, deixando explícito seu interesse recursal, manifestado pelo combate à tese pronunciada no decisum vergastado.
+Por expressa disposição legislativa (art. 520, I e IV, do NCPC), a prestação de caução em sede de cumprimento de sentença provisório é necessária somente nos casos em que o credor pleitear o levantamento de quantias depositadas, a expropriação de bens do devedor e/ou alienação de bens constritos.
+Nos termos do art. 525, §11, do NCPC, as questões relativas à avaliação de bens penhorados em procedimento executivo podem ser arguidas por simples petição, tendo o executado o prazo de 15 (quinze) dias para formular esta arguição.
+Em cumprimento de sentença, é vedada a rediscussão de questão decidida no título judicial, em virtude da coisa julgada.
+Nas razões do recurso especial (e-STJ fls. 425/443), fundamentado no art. 105, III, alíneas "a" e "c", da CF, o recorrente apontou dissídio jurisprudencial e ofensa aos seguintes dispositivos legais:
+(i) arts. 475-J do CPC/1973 e 525, IV, do CPC/2015 afirmando que referidos dispositivos permitem a impugnação da avaliação do bem e o valor do crédito executado,
+(ii) art. 504, I e II, do CPC/2015 sustentando ser caso de relativização da coisa julgada, argumentando que "está suportando uma constrição patrimonial indevida em face de uma indenização que não deveria existir tendo em vista que ficou demonstrado nos autos da ação penal que este não deu azo ao acidente" (e-STJ fl. 435)
+(iii) arts. 525, § 1º, III, 917, I, do CPC/2015, asseverando que "os bens penhorados superam muito o débito do executado, sendo latente o excesso de penhora, haja vista que diversos imóveis do RECORRENTE encontram-se indisponíveis devido à penhora imposta, sendo o patrimônio constrangido muito superior ao valor da execução" (e-STJ fl. 436), ferindo o princípio da menor onerosidade ao executado,
+(iv) art. 525, § 6º, do CPC/2015, alegando ser necessária a concessão de efeito suspensivo à impugnação ao cumprimento provisório da sentença.
+No agravo (e-STJ fls. 501/521), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foram apresentadas contrarrazões (e-STJ fls. 526/536).
+É o relatório.
+Decido.
+Na origem, trata-se de agravo de instrumento interposto contra decisão proferida em cumprimento provisório de sentença, ao qual se negou provimento.
+O conteúdo jurídico dos arts. 475-J do CPC/1973, 525, § 1º, III e IV, e 917, I, do CPC/2015 não foi objeto de análise pelo acórdão recorrido, portanto, inviável o exame da questão em recurso especial por faltar o requisito do prequestionamento. Incide a Súmula n. 211 do STJ.
+Acrescente-se que a parte não logrou demonstrar de que forma tais artigos teriam sido violados, visto que a Corte estadual não negou a possibilidade de impugnação da avaliação ou do valor executado. Dessa forma, incide também a Súmula n. 284 do STF.
+O mesmo óbice impede o exame do art. 504, I e II, do CPC/2015, invocado pela parte para pugnar pela relativização da coisa julgada, pois tal dispositivo não tem conteúdo normativo para sustentar a tese defendida pela parte.
+Ademais, conforme constou do acórdão recorrido, a absolvição na esfera penal foi considerada na fase de conhecimento, concluindo-se que a excludente de antijuridicidade reconhecida não exime o dever de indenizar. Tal fundamento, contudo, não foi impugnado no recurso especial, atraindo a incidência da Súmula n. 283 do STF
+A alegação de excesso de penhora foi afastado pelo Tribunal de origem nos seguintes termos (e-STJ fl. 421):
+(..) fica prejudicado o exame do alegado excesso de penhora, pois, como dito acima, inexiste avaliação dos bens penhorados, sendo necessário, ademais, a atualização dos cálculos apresentados pelos agravados em relação às parcelas vencidas, de modo que a certeza sobre os valores exigíveis e a importância das garantias obtidas apenas surgirá após a concretização de tais atos, circunstância que, por si só, impede a desconstituição da penhora.
+Referido fundamento não foi impugnado pelo recorrente, de modo que incide novamente a Súmula n. 283 do STF.
+Por fim, inviável o acolhimento da pretensão recursal de atribuição de efeito suspensivo à impugnação ao cumprimento de sentença, pois, para se verificar a presença dos requisitos legais,seria necessária a análise de matéria fática, vedado em recurso especial ante o óbice da Súmula n. 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - EFEITO SUSPENSIVO DEFERIDO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DO EXEQUENTE.
+1. Consoante a nova sistemática do processo satisfativo, introduzida pelas Leis 11.232/2005 e 11.382/2006, a defesa do executado, seja por meio de impugnação ao cumprimento da sentença (art. 475-M do CPC/73), ou mediante os embargos à execução do título (art. 739-A do CPC/73), ordinariamente, é desprovida de efeito suspensivo, podendo o juiz conceder tal efeito se presentes os pressupostos do fumus boni iuris e periculum in mora e, como regra, garantido integralmente o juízo.
+2. É vedado, em sede de recurso especial, o exame da presença dos pressupostos para a atribuição de efeito suspensivo aos embargos à execução, porquanto tal providência demandaria a incursão nos elementos fático-probatório dos autos, atraindo a incidência da Súmula n. 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 934.712/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
