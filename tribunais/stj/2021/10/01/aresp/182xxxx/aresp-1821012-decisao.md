@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 380/394).
+O acórdão do Tribunal de origem está assim ementado (e-STJ fl. 338):
+Apelação Cível. Ação de obrigação de fazer c/c indenizatória. Plano de saúde. Fornecimento de remédio para "hepatite c". Recusa na cobertura, apesar da existência de cláusula contratual prevendo expressamente a cobertura para a doença. A circunstância de o tratamento ser ministrado na residência do apelante, por via oral, não descaracteriza a obrigação da empresa de seguro de saúde. Dano moral configurado. Valor corretamente arbitrado em R$ 6.000,00. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 357/368), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação do art. 10, VI, da Lei n. 9.656/1998, sustentando, em síntese, a inexistência de cobertura contratual para o fornecimento de medicamento domiciliar.
+Indicou ainda afronta aos arts. 186, 187 e 927 do CC/2002, aduzindo a inexistência de danos morais.
+No agravo (e-STJ fls. 406/418), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 423).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 339/340):
+No que diz respeito à obrigação da operadora de saúde, em regra, o "fornecimento de medicamentos para tratamento domiciliar "não está no inserido no rol de cobertura(art. 10, VI, da Lei 9.656/98). Contudo, no caso dos autos, não se trata de obrigar a operadora a fornecer qualquer tipo de medicamento de uso domiciliar, mas somente aquele essencial ao tratamento da hepatite, cuja cobertura está prevista. Não fosse assim, estar-se-ia esvaziando a própria essência do contrato de saúde, cujo escopo é fornecer os meios necessários à preservação digna do segurado.
+Veja-se que, se o paciente estivesse internado a ele seria ministrado o fármaco. A circunstância do tratamento sem internação é até benéfica para a seguradora, pois evita os altos custos hospitalares. A negativa, portanto, foi indevida. Assim sendo, a orientação do enunciado da súmula 339 do TJRJ, "A recusa indevida ou injustificada, pela operadora de plano de saúde, de autorizar a cobertura financeira de tratamento médico enseja reparação a título de dano moral."
+A verba fixada em R$ 6.000,00, à míngua de recurso para a majoração, deve ser mantida. Veja-se que o autor, portador de doença grave, viu-se obrigado a ajuizar ação indenizatória para compelir o réu a autorizar tratamento essencial à manutenção da sua vida.
+A decisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que, "nos casos em que há previsão de cobertura para a doença do consumidor, consequentemente haverá cobertura para procedimento ou medicamento necessário para assegurar o tratamento de doenças previstas no referido plano, inclusive quando se tratar de medicamento domiciliar" (AgInt no AREsp n. 885.772/SP, Relator Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 24/10/2017, DJe 31/10/2017).
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO DE USO DOMICILIAR. NEGATIVA DE COBERTURA. CONDUTA ABUSIVA. TRATAMENTO PRESCRITO POR PROFISSIONAL HABILITADO. RECUSA INDEVIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. É possível que o plano de saúde estabeleça as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização, de acordo com o proposto pelo médico. Precedentes.
+2. A jurisprudência desta Corte firmou o entendimento de que é "abusiva a recusa de custeio do medicamento prescrito pelo médico responsável pelo tratamento do beneficiário, ainda que ministrado em ambiente domiciliar" (AgInt no AREsp 1.433.371/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 24/9/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1904349/SP, RelatorMinistro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/5/2021, DJe 9/6/2021.)
+Da mesma forma, segundo a jurisprudênciadesta Corte a "hipótese em que se reputa abusiva a recusa da operadora do plano de saúde de cobertura do procedimento médico prescrito para o tratamento da doença que acometeu a beneficiária, recusa essa que, por causar o agravamento da situação de angústia e a piora do seu estado de saúde, configura dano moral"(AgInt no REsp n. 1920118/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/08/2021, DJe 02/09/2021).
+Além disso, dissentir das conclusões do acórdão impugnado quanto à cobertura contratual e a configuração de danos morais, implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20%(vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
