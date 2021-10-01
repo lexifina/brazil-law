@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por CONDOMÍNIO RESERVA TOSCANA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. DESPESAS CONDOMINIAIS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. Ainda que a natureza dos débitos seja "propter rem", apenas os direitos de posse sobre o imóvel detidos pelos Executados podem ser objeto de penhora, já que o bem encontra-se ainda registrado como propriedade fiduciária de instituição financeira. Manutenção da r. decisão. RECURSO DO EXEQUENTE NÃO PROVIDO" (e-STJ fl. 153).
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 11 e 489, § 1º, IV, do Código de Processo Civil de 2015, haja vista a nulidade do acórdão por deficiência de fundamentação, e
+(ii) arts. 373, 374, 799, I e 835, V, do Código de Processo Civil de 2015, 1.345 do Código Civil e 12 da Lei nº 4.591/1964, pois a existência de contrato de alienação fiduciária não impede a penhora da unidade devedora das taxas condominiais.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Inicialmente, consigna-se que o tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No mais, cinge-se a controvérsia a definir se é possível a penhora do imóvel gerador de dívida condominial que se encontra alienado fiduciariamente em favor de terceiro (no caso, instituição financeira).
+O tribunal estadual, ao dirimir a controvérsia, concluiu pela impossibilidade de penhora do bem, mantendo a decisão agravada que deferiu a constrição apenas dos direitos sobre o imóvel, com base nos seguintes fundamentos:
+"(..) Já é sabido que, mesmo que tenha legitimidade o comprador possuidor do imóvel para figurar no polo passivo da demanda executória, a natureza "propter rem" dos débitos condominiais não pode fazer com que sejam alcançados direitos de terceiros, não titularizados pelo devedor propriamente dito.
+Como decorrência, na hipótese dos autos, pois, a propriedade fiduciária do imóvel pertence a terceira pessoa (e-fls. 40/43, autos originários), não se podendo, então, alcançar a propriedade do imóvel por meio de constrição judicial. O que se poderia realizar nos presentes autos seria, tal como lançado na r. decisão agravada, a penhora sobre os direitos efetivamente titularizados pelos Executados" (e-STJ fl. 154).
+Acerca do tema, a jurisprudência do Superior Tribunal de Justiça assentou o entendimento no sentido da impossibilidade de penhora do bem alienado fiduciariamente em execução promovida por terceiros contra o devedor fiduciante, haja vista que o patrimônio pertence ao credor fiduciário. Permite-se, contudo, a constrição dos direitos decorrentes do contrato de alienação fiduciária.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. TAXAS CONDOMINIAIS. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DIREITOS DO DEVEDOR FIDUCIANTE. PENHORA DO IMÓVEL DEVEDOR. IMPOSSIBILIDADE.
+1. Cumprimento de sentença.
+2. A técnica diferenciada de julgamento, prevista no artigo 942, caput, §3º, inciso III, do CPC, só será exigível nas hipóteses em que o Agravo de Instrumento julgue antecipadamente o mérito da demanda, o que permite a interpretação de que tal dispositivo se dirige às ações de conhecimento, não se aplicando, assim, ao processo de execução, como na hipótese dos autos, haja vista tratar-se de cumprimento de sentença.
+3. Não se admite a penhora do bem alienado fiduciariamente em execução promovida por terceiros contra o devedor fiduciante, visto que o patrimônio pertence ao credor fiduciário, permitindo-se, contudo, a constrição dos direitos decorrentes do contrato de alienação fiduciária. Precedentes.
+4. Agravo interno desprovido"(AgInt no AREsp 1.654.813/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 1º/7/2020).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. DEMANDA EM QUE PLEITEIA A COBRANÇA DE DESPESAS CONDOMINIAIS. NATUREZA PROPTER REM. PENHORA DO IMÓVEL GERADOR DO DÉBITO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. IMPOSSIBILIDADE. VIABILIDADE, CONTUDO, DA CONSTRIÇÃO DOS DIREITOS DO DEVEDOR FIDUCIANTE ORIUNDOS DO CONTRATO. PRECEDENTES. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO"(AgInt no REsp 1.823.763/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 8/5/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. PENHORA DE BEM IMÓVEL. POSSIBILIDADE NO CASO. MODIFICAÇÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULA 7/STJ. 2. DIREITOS DO DEVEDOR FIDUCIANTE. ALIENAÇÃO FIDUCIÁRIA. POSSIBILIDADE DE PENHORA. 3. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. 4. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 5. AGRAVO IMPROVIDO.
+1. Impossível a revisão do julgado quanto à alegação de impenhorabilidade do bem de família, se tal procedimento demanda o reexame do conjunto fático-probatório da causa. Incidência da Súmula 7 do STJ.
+2. De fato, "o STJ firmou o entendimento de que o bem alienado fiduciariamente, por não integrar o patrimônio do devedor, não pode ser objeto de penhora. Nada impede, contudo, que os direitos do devedor fiduciante oriundos do contrato sejam constritos" (REsp 1.646.249/RO, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 3/4/2018, DJe 24/5/2018).
+3. A divergência jurisprudencial com fundamento na alínea c do permissivo constitucional, nos termos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Sendo assim, não é bastante a simples transcrição de ementas sem o necessário cotejo analítico, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não ocorreu no caso dos autos.
+4. Pedido de condenação por litigância de má-fé. Não se vislumbra a ocorrência de nenhuma das hipóteses autorizadoras previstas no art.
+80 do CPC/2015. Frise-se que não se pode confundir má-fé com a equivocada interpretação do direito.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 1.370.727/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 28/3/2019).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. BEM MÓVEL COM ALIENAÇÃO FIDUCIÁRIA. CONSTRIÇÃO DOS DIREITOS. POSSIBILIDADE.
+1. O STJ firmou o entendimento de que o bem alienado fiduciariamente, por não integrar o patrimônio do devedor, não pode ser objeto de penhora. Nada impede, contudo, que os direitos do devedor fiduciante oriundos do contrato sejam constritos.
+2. Recurso Especial provido" (REsp 1.646.249/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/5/2018).
+Logo, não merece reforma o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se. Intimem-se.
