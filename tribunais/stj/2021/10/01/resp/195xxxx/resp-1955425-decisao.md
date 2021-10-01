@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por Aymoré Crédito, Financiamento e Investimento S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 159):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR.
+NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR CONSTANTE NO CONTRATO, DESATENDENDO, POIS, O DISPOSTO NO ART. 2º, §2º, DO DECRETO-LEI Nº 911/69. INVALIDADE DO ATO. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO (ART. 485, INC. IV, DO CPC/15). EXTINÇÃO DA PRESENTE AÇÃO.
+APELAÇÃO IMPROVIDA.
+Nas razões do apelo especial, a recorrente alega, além da existência de divergência jurisprudencial, violação dos arts. 3º e 2º, § 2º, do Decreto-Lei n. 911/1969; 133 e 422 do Código Civil; 4º, 10, 85, 139, IX, 188, 277 e 321 do Código de Processo Civil de 2015 e; 14 e 15 da Lei n. 9,492/1997, sob as seguintes assertivas:
+(i) validade da notificação juntada aos autos, haja vista que a carta registrada com aviso de recebimento foi enviada ao endereço informado no contrato pelo devedor e não foi recebida pelo motivo "desconhecido";
+(ii) possibilidade de a notificação extrajudicial ser realizada após o ajuizamento da ação, tendo em conta a inexistência de exigência legal, bem como a necessidade de ser oportunizar às partes a regularização de eventuais vícios processuais, devendo ser oportunizado ao recorrente a emenda à inicial;
+(iii) os ônus sucumbenciais devem recair integralmente sobre o recorrido, vistoque ele incorreu em inadimplemento obrigacional, dando causa à propositura da demanda.
+Sem contrarrazões, fl. 221 (e-STJ).
+O apelo extremo foi admitido na origem (fls. 224-228, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+De início, observa-se que, consoante o teor da Súmula 72 do Superior Tribunal de Justiça, a demonstração da mora é indispensável ao ajuizamento da ação de busca e apreensão do bem alienado fiduciariamente. Logo, descaracterizada a mora, impõe-se a extinção da busca e apreensão.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. JUROS REMUNERATÓRIOS. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. DESCARACTERIZAÇÃO DA MORA. RECONHECIMENTO DE ÍNDOLE ABUSIVA DE ENCARGO INCIDENTE NO PERÍODO DA NORMALIDADE. EXTINÇÃO DA AÇÃO. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Agravante que deixou de impugnar especificamente a incidência da Súmula 83/STJ, aplicada pela decisão agravada, o que atrai o disposto na Súmula 182/STJ. Precedente.
+2. "Consoante o teor da Súmula 72 desta Corte, a demonstração da mora é indispensável ao ajuizamento da ação de busca e apreensão do bem alienado fiduciariamente. Assim, descaracterizada a mora, impõe-se a extinção da busca e apreensão" (REsp 1.396.500/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 17/10/2013, DJe de 06/11/2013).
+3. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp 1378505/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/02/2019, DJe 13/03/2019)
+Na espécie, o Tribunal estadual, observadas as peculiaridades da causa, concluiu pela ausência de notificação válidae consequente ausência dos requisitos referentes à efetiva comprovação da mora, sob os seguintes fundamentos (e-STJ, fl. 157):
+No caso concreto, não houve válida notificação. Constata-se que a notificação extrajudicial deixou de ser entregue no endereço do devedor constante no contrato (evento 1 - notificação 8), também não se podendo considerar válido protesto (evento 32 - informação 2) eis que realizado após ajuizamento da demanda, desatendendo, pois, o disposto no art. 2º, §2º, do Decreto Lei nº 911/69, o que acarreta a invalidade da medida para fins de comprovação da mora.
+Assim, não atendido(s) requisito(s) legal(ais) atinente(s) à efetiva comprovação da mora, está ausente pressuposto de constituição e de desenvolvimento válido e regular do processo (art. 485 inciso IV, do Código de Processo Civil/2015), impondo-se a extinção da presente ação.
+Sendo assim, para rever a premissa de que a carta registrada com aviso de recebimento foi enviada ao endereço informado no contrato pelo devedor, seria imprescindível o reexame de fatos e provas dos autos, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. CONSTITUIÇÃO EM MORA. NECESSIDADE DE NOTIFICAÇÃO EXTRAJUDICIAL. SÚMULA 83/STJ. NOTIFICAÇÃO NÃO EFETIVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Pacífico o entendimento, neste Superior Tribunal de Justiça, no sentido de que, em casos de alienação fiduciária, a mora pode ser comprovada por meio de notificação extrajudicial entregue no domicílio do devedor, sendo dispensada a notificação pessoal. Incidência da Súmula 83/STJ.
+2. O acórdão recorrido consignou descaracterizada a mora em razão da ausência de notificação do devedor. Inviável, portanto, o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, nos termos da vedação imposta pelo enunciado n. 7 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.339.973/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/02/2019, DJe 14/02/2019)
+Ademais, o fundamento do acórdão recorrido acerca da necessidade da efetiva comprovação da mora para constituição e de desenvolvimento válido e regular do processo não foi especificamente impugnado pela recorrente nas razões do recurso especial, ensejando a aplicação, por analogia, do óbice da Súmula 283/STF, segundo o qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. ART. 3º DO DECRETO-LEI 911/1969. NECESSIDADE DE NOTIFICAÇÃO AO DEVEDOR ACERCA DA MORA. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO INATACADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é no sentido de que a concessão de medida liminar em ação de busca e apreensão decorrente do inadimplemento de contrato com garantia de alienação fiduciária está condicionada à mora do devedor que, nos termos do art. 2º, § 2º, do Decreto-Lei n. 911/69, deverá ser comprovada por carta registrada expedida por intermédio de Cartório de Títulos e Documentos a ser entregue no domicílio do devedor, sendo dispensada a sua notificação pessoal. Precedentes desta Corte.
+2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, o óbice das Súmulas 283 e 284 do STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1675490/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+No que diz respeito à alegada afronta ao art. 85 do Código de Processo Civil de 2015, constata-se que o conteúdo do citado normativo não foi objeto de exame pela instância ordinária, nem foram opostos embargos de declaração a fim de suscitar a discussão dos temas neles contidos, razão pela qual incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+O dissídio jurisprudencial não merece conhecimento, porque não foi realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 1.029 do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+Veja-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. RESPONSABILIDADE CIVIL DO TRANSPORTADOR. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Inexiste negativa de prestação jurisdicional quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal analisou a prova dos autos para concluir que houve a informação adequada por parte da seguradora quanto aos termos e à exclusão da cobertura. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+4. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, não bastando para tanto a mera transcrição de ementas (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausente tal requisito, incide a Súmula n. 284/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.595.985/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020)
+Diante do exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. 1. VALIDADE DA NOTIFICAÇÃO. SÚMULAS N. 7/STJ E 283/STF. 2. ÔNUS SUCUMBENCIAIS. FALTA DE PREQUESTIONAMENTO DO ARTIGO DE LEI TIDO POR VIOLADO. SÚMULAS 282 E 356/STF. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. RECURSO ESPECIAL NÃO CONHECIDO.
