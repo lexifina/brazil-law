@@ -1,0 +1,1 @@
+Art. 23-A. A competência normativa regulamentar prevista no parágrafo único do art. 1º e no inciso IX do caput do art. 23 deste Código restringe-se a matérias especificamente autorizadas em lei, sendo vedado ao Tribunal Superior Eleitoral tratar de matéria relativa à organização dos partidos políticos.
