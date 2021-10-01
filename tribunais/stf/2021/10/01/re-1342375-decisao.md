@@ -1,0 +1,16 @@
+DECISÃO
+    Cuida-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, no ponto em que ratificou a antecipação de tutela de procedência de pagar valores a título de salário-maternidade, cuja parte da ementa abaixo transcrevo (com meus grifos):
+    APELAÇÃO CÍVEL. PREVIDENCIÁRIO. SALÁRIO-MATERNIDADE. TRABALHADOR(A) RURAL. ATIVIDADE RURAL COMPROVADA POR PROVA TESTEMUNHAL BASEADA EM INÍCIO DE PROVA MATERIAL. CORREÇÃO MONETÁRIA. JUROS DE MORA. HONORÁRIOS ADVOCATICIOS. CUSTAS. ANTECIPAÇÃO DE TUTELA. POSSIBILIDADE. REQUISITOS PREENCHIDOS. […].
+    Alega o INSS, em suas razões recursais, que “[…] o acórdão do Tribunal Regional ‘a quo’ determinou a implantação imediata de benefício de salário-maternidade em favor da parte autora com base em seu caráter alimentar […]”, porém “[…] não se atentou que tal beneficio não é de prestação continuada e que as parcelas são devidas em atraso, de modo que, no presente momento processual, a antecipação de tutela prevista no art. 273 do CPC viola o art. 100 da CF/88”.
+    Ao fim, requer “[…] seja dado provimento ao presente Recurso Extraordinário, a fim de reformar o v. Acórdão que antecipou a tutela para pagamento do beneficio em questão”.
+    É, no essencial, o relato. Decido.
+    Pontuo, a respeito da matéria em causa, que a Primeira Turma desta Suprema Corte, ao julgar o RE 1.006.626-AgR/AC, ministro Roberto Barroso, fixou entendimento assim ementado (com meus grifos):
+    DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SALÁRIO-MATERNIDADE. ANTECIPAÇÃO DE TUTELA. IMPLEMENTAÇÃO IMEDIATA E PAGAMENTO DE ATRASADOS. IMPOSSIBILIDADE. 1. O Supremo Tribunal Federal firmou o entendimento pela necessidade de observação do regime de pagamento por precatórios ou por requisição de pequeno valor – RPV, mesmo tratando-se de crédito de natureza alimentícia e na hipótese de hipossuficiência de uma das partes. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento.
+    O acórdão recorrido, a toda evidência, está em desconformidade com o aludido entendimento.
+    Em face do exposto, com amparo no inciso VIII do art. 932 do CPC c/c o § 1º do art. 21 do RISTF, dou provimento ao recurso extraordinário para determinar a observância do rito estabelecido no art. 100 da Lei Maior para quitação do débito condenatório.
+    Quanto aos honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm eles autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo porque, na hipótese de descabimento ou de ausência de fixação anterior em favor da parte ora recorrente – como na espécie dos autos –, a sua incidência é indevida.
+    Nesse sentido, entre muitos outros, os seguintes acórdãos proferidos no Superior Tribunal de Justiça: AgInt no REsp-1.341.886/SP, DJ de 30.5.2019; EDcl no REsp-1.731.612/RS, DJ de 23.4.2019; e AgInt no AREsp-1.167.338/DF, DJ de 26.3.2019.
+    Publique-se.
+Brasília, 1º de outubro de 2021.
+Ministro NUNES MARQUES
+Relator
