@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Trata-se de Conflito Negativo de Competência instaurado entre o JUÍZO FEDERAL DA 5A VARA CÍVEL DE SÃO LUISeo TRIBUNAL REGIONAL DO TRABALHO DA 16A REGIÃO, nos autos de Reclamação Trabalhista.
+O Juízo suscitado declinou da competência argumentando que "no presente caso, tem-se que o tema central da reclamação diz respeito à pretensão de nomeação do autor, em razão de aprovação em concurso público levado a efeito por empresa estatal.A controvérsia em questão faz emergir a competência material da Justiça Comum para a apreciação do feito, tendo em vista o que restou decidido pelo Pleno do STF em 05/03/2020, com repercussão geral, ao julgar o RE 960429" (fl. 27/28e).
+O Juízo suscitante alega que "o Supremo Tribunal Federal, ao julgar os Embargos de Declaração no bojo do RE 960429 (Tema 992 - Repercussão Geral), acolheu, por maioria, o pedido de modulação dos efeitos da decisão proferida, fixando a competência da Justiça do Trabalho quanto aos processos em que se proferiu sentença de mérito até 6 de junho de 2018.  .. Tendo em vista que a sentença no caso em apreço foi proferida em 24 de março de 2018, não há se falar em competência da Justiça Federal (Id. 327865361 - pág. 232)" (fl. 31e).
+O Ministério Público Federal manifestou-se às fls. 40/43e, opinandopela competência do Juízo suscitado.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+O art. 955, parágrafo único, I, do Código de Processo Civil autoriza o julgamento doconflito de competênciapor decisão monocrática quando a decisão fundar-se em tese firmada em Súmula do Supremo Tribunal Federal ou desta Corte.
+Nessa linha, cabe destacar o enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca dotema.
+No caso, verifico que a matéria foi examinada pelo Supremo Tribunal Federal no julgamento do RE 960.429/RN (Tema 992), com repercussão geral reconhecida, tendo sido firmada a tese segundo a qual "Compete à Justiça Comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoas, salvo quando a sentença de mérito tiver sido proferida antes de 6 de junho de 2018, situação em que, até o trânsito em julgado e a sua execução, a competência continuará a ser da Justiça do Trabalho".
+In casu, como bem assinalou o Ministério Público Federal, a sentença de mérito foi proferida em 24/3/2018, razão pela qual a competência para o julgamento da demanda permanece com a Justiça do Trabalho, nos termos da orientação vinculante.
+Posto isso, nos termos do art. 955, parágrafo único, do Código de Processo Civil, combinado com art. 34, XVIII, do Regimento Interno desta Corte, conheço do conflito e declaro competente o TRIBUNAL REGIONAL DO TRABALHO DA 16A REGIÃO oSuscitado.
+Comunique-se ao Juízo Suscitante e ao Juízo Suscitado.
+Publique-se e intimem-se.
