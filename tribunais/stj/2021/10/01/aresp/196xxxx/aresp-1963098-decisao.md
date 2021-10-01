@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de agravo interposto por CERAMICA URUSSANGA S/A contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Inicialmente consigne-se que ao presente recurso incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso dos autos, a decisão ora agravada obstou o recurso especial aos seguintes fundamentos: (i) em regime de recurso repetitivo, o Superior Tribunal de Justiça "decidiu que incide contribuição previdenciária sobre as horas extras (Tema 687) e sobre os adicionais noturno (Tema 688) e de periculosidade (Tema 689) (REsp 1.358.281, rel. Min. HERMAN BENJAMIN, Primeira Seção, DJe 05/12/2014)", razão por que negou seguimento ao recurso, com fundamento no art. 1.030, I, b, do CPC/2015; e (ii) não admitiu o recurso especial, quanto às demais verbas, a jurisprudência do STJ encontra-se sedimentada no sentido de que incide contribuição previdenciária sobre os adicionais de insalubridade e de transferência.
+Inicialmente, quanto à negativa de seguimento ao recurso com fundamento no art. 1.030 do CPC/2015, o Novo Estatuto Processual prevê expressamente o cabimento do agravo interno contra a decisão da Corte de origem que inadmitir o apelo nobre com base em entendimento desta Corte firmado em recurso repetitivo.
+Na espécie, contudo, o agravante não interpôs agravo interno quanto às questões não admitidas com fundamento em entendimento firmado em recurso repetitivo, o que configura erro grosseiro e inviabiliza o conhecimento do agravo em recurso especial.
+A propósito:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. CONFORMIDADE COM RECURSO REPRESENTATIVO DE CONTROVÉRSIA. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. IMPUGNAÇÃO POR AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO.
+1. É manifestamente inadmissível o agravo em recurso especial interposto contra decisão que nega seguimento a recurso especial, por estar o acórdão recorrido em consonância com entendimento exarado no regime de julgamento de recursos repetitivos.
+2. Segundo o art. 1.030, I, "b", § 2º, do CPC/2015, o recurso adequado nessa hipótese é o agravo interno do art. 1.021 desse diploma normativo.
+3. O manejo de agravo em recurso especial configura erro grosseiro (art. 1.042 do CPC/2015), o que afasta a aplicação do princípio da fungibilidade recursal.
+4. O recurso manifestamente improcedente atrai a multa prevista no art. 1.021, § 4º, do CPC/2015, na razão de 1% a 5% do valor atualizado da causa.
+5. Agravo interno desprovido, com aplicação de multa.
+(AgInt no AREsp 1.097.673/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 23/2/2018)
+AGRAVO INTERNO NA RECLAMAÇÃO CONSTITUCIONAL (CF, ART. 105, I, F, E ART. 988, § 5º, II, DO CPC/2015. CABIMENTO VINCULADO AO EXAURIMENTO DA INSTÂNCIA DE ORIGEM. NÃO OCORRÊNCIA NA HIPÓTESE CONCRETA. AGRAVO INTERNO NÃO PROVIDO.
+1. "Após a vigência do art. 988, do CPC/2015, passou a ser admitida a reclamação para garantir a observância de acórdão proferido em julgamento de recurso especial repetitivo após o esgotamento das instâncias ordinárias com o julgamento pelo Órgão Especial da Corte de Origem do agravo interno previsto no art. 1.030, § 2º, do CPC/2015, interposto da decisão que inadmitiu o recurso especial por considerar o acórdão recorrido em conformidade com o entendimento do Superior Tribunal de Justiça exarado no regime de julgamento de recursos repetitivos" (Rcl 32.391/SP, Relator Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 18/12/2017).
+2. A admissibilidade da reclamação prevista no art. 988, § 5º, II, do CPC/2015 vincula-se ao prévio esgotamento de instância.
+3. Agravo interno não provido.
+(AgInt na Rcl 36.130/DF, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 10/10/2018, DJe 16/10/2018)
+TRIBUTÁRIO. DECISÃO QUE INADMITIU RECURSO ESPECIAL. DECISÃO EM CONFORMIDADE COM PRECEDENTE FIRMADO POR ESTA CORTE. NÃO CABIMENTO DE AGRAVO. IMPOSSIBILIDADE DE QUALQUER OUTRO RECURSO. INTERPOSIÇÃO DE AGRAVO INTERNO CASO ENTENDA INCORRETA O ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. AUSÊNCIA DE RECOLHIMENTO DE MULTA PROCESSUAL.
+NÃO CONHECIMENTO DO RESP. I - Trato inicialmente do agravo em recurso especial, interposto contra decisão de inadmissibilidade do recurso especial publicada em data posterior a 17 de março de 2016.
+Assim, conforme prevê o enunciado administrativo n. 3 do STJ, o art. 1.042 do CPC/2015 é plenamente aplicável aos autos, o qual estabelece não ser cabível a interposição de agravo contra a decisão que não admite o recurso especial, quando a matéria, nele discutida, tiver sido decidida pelo tribunal de origem em conformidade com precedente firmado por esta Corte sob o rito do art. 1.036 do CPC/2015.
+II - Não é possível a apresentação de qualquer outro recurso a esta Corte Superior contra tal decisão, posto que incumbe ao tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador da sistemática dos recursos representativos de controvérsia, instituída pela Lei n.
+11.672/2008. Nesse sentido: AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/08/2016, DJe 26/08/2016.
+III - Ressalte-se que, caso a parte recorrente entendesse ser incorreta a aplicação do entendimento firmado no julgamento de recurso representativo de controvérsia, o recurso cabível para impugnar essa decisão é o agravo interno, nos termos do art. 1.030, § 2º, do CPC/2015. Nesse sentido: AgInt no AREsp 1097673/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 23/02/2018; RMS 54.878/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017.
+IV - Em relação às demais matérias, o recurso especial não comporta conhecimento, visto que, de acordo com a jurisprudência do STJ, o prévio recolhimento da multa do § 4º do art. 1.021 do CPC/2015, imposta pelo tribunal de origem, constitui pressuposto de admissibilidade do recurso especial. Nesse sentido: AgInt no AREsp 1173359/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 12/03/2018; AgInt no AREsp 1185988/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/03/2018, DJe 02/04/2018; AgInt no AREsp 1084253/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/06/2017, DJe 26/06/2017.
+V - No caso dos autos, não foi comprovado o recolhimento da multa processual quando da interposição do recurso especial, o que impede seu conhecimento.
+VI - Agravo interno improvido
+(AgInt no REsp 1.721.598/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 18/9/2018, DJe 21/9/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. INADMISSÃO COM BASE NO ART. 1.030, I, B, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Revela-se manifestamente inadmissível a interposição de Agravo em Recurso Especial para impugnar decisão mediante a qual o Recurso Especial teve seguimento negado (art. 1.030, I, b, do CPC/15) porque o acórdão recorrido estaria em consonância com o entendimento fixado em recurso repetitivo, porquanto cabível agravo interno.
+III - É inviável a determinação de retorno dos autos ao tribunal de origem, para que o agravo em recurso especial interposto seja apreciado como agravo interno, porquanto na sistemática vigente deixou de existir dúvida objetiva acerca do recurso cabível. Precedentes da 3ª e 6ª turmas desta Corte.
+IV - Não se conhece do Agravo em Recurso Especial que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+ ..
+(AgInt no AREsp 1.246.287/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/8/2018, DJe 22/8/2018)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE INADMITIDO COM FUNDAMENTO NO ART. 1030, I, "B", DO NOVO CPC. CABIMENTO DE AGRAVO INTERNO NA ORIGEM. EXEGESE DO ART. 1030, § 2º, DO MESMO CÓDEX. INTERPOSIÇÃO DE ARESP. NÃO CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. AUSÊNCIA DE DÚVIDA OBJETIVA. EXPRESSA PREVISÃO LEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Consoante o que dispõe o artigo 1.030, § 2º, do novo Código de Processo Civil, não cabe agravo em recurso especial ao STJ contra decisão que nega seguimento ao apelo nobre com base no artigo 1.030, inciso I, alínea "b", do mesmo Diploma Legal, sendo da competência do próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de equívoco na aplicação de precedente do STJ em recurso especial representativo da controvérsia.
+2. "A aplicação do princípio da fungibilidade recursal, que pressupõe a existência de dúvida objetiva quanto ao recurso cabível, afigura-se inviável ante a previsão expressa do recurso adequado". (AgRg na SS 416/BA, Rel. Min. AMÉRICO LUZ, CORTE ESPECIAL, DJ 27/05/1996)
+ ..
+(AgInt no AREsp 982.074/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 25/10/2016, DJe 17/11/2016)
+No tocante à inadmissão do recurso em virtude da jurisprudência do STJ encontra-se sedimentada no sentido de que incide contribuição previdenciária sobre os adicionais de insalubridade e de transferência, o recurso não merece provimento.
+Com efeito, a orientação desta Corte é firme no sentido de que o adicional de insalubridade integra o conceito de remuneração e se sujeita à incidência de contribuição previdenciária.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. REGIME GERAL DA PREVIDÊNCIA SOCIAL. INCIDÊNCIA SOBRE AS SEGUINTES VERBAS: ADICIONAIS DE HORAS-EXTRAS, NOTURNO, INSALUBRIDADE, PERICULOSIDADE E TRANSFERÊNCIA.
+ ..
+2. A orientação desta Corte é firme no sentido de que o adicional de insalubridade integra o conceito de remuneração e se sujeita à incidência de contribuição previdenciária (AgRg no AREsp 69.958/DF, 2ª Turma, Rel. Min. Castro Meira, DJe de 20.6.2012; AgRg no REsp 957.719/SC, 1ª Turma, Rel. Min. Luiz Fux, DJe de 2.12.2009).
+ ..
+4. Agravo regimental não provido ( AgRg no REsp 1474581 / SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 05/11/2014, grifo nosso).
+TRIBUTÁRIO PREVIDENCIÁRIA. FÉRIAS GOZADAS. INCIDÊNCIA. PRECEDENTES. ADICIONAL DE INSALUBRIDADE. INCIDÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. SUCUMBÊNCIA RECÍPROCA. ART. 21 DO CPC. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Coaduna-se com a jurisprudência do STJ o entendimento firmado pela Corte de origem no sentido de que incide contribuição previdenciária sobre as férias gozadas e adicional de insalubridade. Súmula 83/STJ.
+2. Pretendem as recorrentes que seja afastada a sucumbência mínima fixada no acórdão recorrido com fundamento no art. 21 do CPC. A referida discussão enseja o revolvimento da matéria fático-probatória, vedada nesta Corte pela Súmula 7/STJ.
+Agravo regimental improvido (AgRg no REsp 1495293 / SC, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 09/02/2015, grifo nosso).
+No tocante ao adicional de transferência, a orientação desta Corte e de que ele tem natureza salarial. Desse modo, admite-se a incidência da contribuição previdenciária.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. ART. 22, INCISO I, DA LEI N. 8.212/91. FÉRIAS GOZADAS E ADICIONAL DE TRANSFERÊNCIA. INCIDÊNCIA.
+ ..
+2. O adicional de transferência previsto no art. 469, § 3º, da CLT tem natureza salarial. Precedentes.
+3. Desse modo, admite-se a incidência da contribuição previdenciária patronal por ocasião do pagamento das citadas verbas ao trabalhador, uma vez que essas situações fáticas se enquadram na hipótese tributária prevista no art. 22, I, da Lei n. 8.212/91.
+4. Agravo regimental a que se nega provimento. (AgRg no REsp 1489187 / PR, Rel. Min. OG FERNANDES, SEGUNDA TURMA, 04/02/2015, grifo nosso).
+PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. ADICIONAL NOTURNO, DE INSALUBRIDADE, DE PERICULOSIDADE, DE HORAS EXTRAS E DE TRANSFERÊNCIA. AUXÍLIO QUEBRA-CAIXA. INCIDÊNCIA.
+1. Hipótese em que o Tribunal local consignou que "é clara a natureza salarial dos pagamentos feitos a título de horas extras, adicionais noturno, de insalubridade, periculosidade, transferência e quebra de caixa, haja vista o notório caráter de contraprestação".
+ ..
+3. No mesmo sentido, está o posicionamento deste Tribunal Superior que consolidou o entendimento de que o adicional de transferência possui natureza salarial. Nesse sentido: AgRg no Ag 1.207.843/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17.10.2011.
+4. Agravo Regimental não provido. (AgRg no REsp 1480163 / RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 09/12/2014, grifo nosso)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. REGIME GERAL DA PREVIDÊNCIA SOCIAL. INCIDÊNCIA SOBRE AS SEGUINTES VERBAS: ADICIONAIS DE HORAS-EXTRAS,NOTURNO, INSALUBRIDADE, PERICULOSIDADE E TRANSFERÊNCIA.
+ ..
+3. A orientação do Superior Tribunal de Justiça, em casos análogos, firmou-se no sentido de que o adicional de transferência possui natureza salarial, conforme firme jurisprudência do Tribunal Superior do Trabalho, pois, da leitura do § 3º do art. 463 da CLT, extrai-se que a transferência do empregado é um direito do empregador, sendo que do exercício regular desse direito decorre para o empregado transferido, em contrapartida, o direito de receber o correspondente adicional de transferência (REsp 1.217.238/MG, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 3.2.2011; AgRg no REsp 1.432.886/RS, 2ª Turma, Rel. Min. OG Fernandes, DJe de 11.4.2014).
+4. Agravo regimental não provido. (AgRg no REsp 1474581 / SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 05/11/2014, grifo nosso).
+Dessa forma, no ponto, o acórdão recorrido não merece reforma, pois está em conformidade com a jurisprudência desta Corte.
+Por fim, resta prejudicado o pedido de compensação e restituição.
+Ante o exposto, conheço em parte do agravo em recurso especial para, nessa parte, negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO EM ENTENDIMENTO FIRMADO EM REPETITIVO. HIPÓTESE DO ART. 1.030, I, B, E § 2º, DO CPC/2015. NÃO CABIMENTO DE AGRAVO. DEMAIS FUNDAMENTOS. CONTRIBUIÇÃO PREVIDENCIÁRIA. ADICIONAL DE INSALUBRIDADE E DE TRANSFERÊNCIA. INCIDÊNCIA. AGRAVO CONHECIDO EM PARTE. RECURSO ESPECIAL DESPROVIDO.
