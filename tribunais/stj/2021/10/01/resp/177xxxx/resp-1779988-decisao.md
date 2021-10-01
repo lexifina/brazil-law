@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto porGILBERTO RAMIRO COSTA MARINHO, com fundamento no art. 105, III, alíneas a ec, da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+Na instância de origem, a parte ora recorrente interpôs agravo contra a decisão que, na fase de execução, indeferiu o pedido liminar de suspensão da constrição de bem objeto da execução.
+O Tribunal a quonegouprovimento ao recurso, em acórdão assim ementado (fls. 185-186):
+AGRAVO DE INSTRUMENTO NO NOVO CPC. Os Recursos são definidos pela natureza do ato judicial: Sentença, Decisão Interlocutória ou Despacho. O Agravo de Instrumento, no Código de Processo Civil de 2015, consiste no Recurso que tem por Objeto a Relação Jurídica sobre Decisão Interlocutória, envolvendo tutelas distintas sobre duas situações jurídicas processuais: a Evidência e a Urgência. Não estão dissociadas na Finalidade ou Função do Recurso estritamente definido.
+EVIDÊNCIA. Consiste na Situação Jurídica derivada da Relação Jurídica projetando a Pretensão à obtenção do dever jurídico, buscado pela Parte diante de Ato Jurídico Processual, e exposto no conjunto ou variedade de atos confluentes da Lide, da Causa, da Demanda ou dos Pressupostos Processuais. A Interlocução própria da Jurisdição é o princípio a estabelecer diretriz do Processo ou do Recurso, porquanto a Ação é proposta e o Recurso interposto, na dicção precisa de Pontes de Miranda. Os pressupostos Processuais e as Condições da Ação são elementos considerados, em cada etapa ou fase, com Atos Processuais, quando não incorrem, em cada caso, no exame dos Atos meramente ordinatórios, nos simples Despachos. Ou, nas hipóteses terminativas encerrando literalmente a Prestação Jurisdicional de Mérito com a Sentença, e/ou com a Execução.
+URGÊNCIA. Como poder-dever cautelar busca no exame da situação, de ato ou fato jurídico, realçar a utilidade da Jurisdição de modo Imediato, a realização do Direito Objetivo e, de modo Mediato, o Direto subjetivo buscado no Pedido intercorrente para obtenção do Dever Jurídico; a Obrigação de quem de Direito. A Urgência está atinada sempre à Evidência.
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. DECISÃO. TUTELA DE EVIDÊNCIA. TUTELA DE URGÊNCIA. RESOLUÇÃO JUDICIAL DE 1º GRAU. REGRAS PROCESSUAIS RECURSAIS E REGIMENTAIS. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. PRECEDENTES. UNIFORMIZAÇÃO DA JURISPRUDÊNCIA. INTERPRETAÇÃO. BOA-FÉ. ELEMENTOS. ARGUMENTOS EM TESE. COLISÃO ENTRE NORMAS. RAZÕES. COLISÃO ENTRE NORMAS. PONDERAÇÃO. PREMISSAS FÁTICAS. INCIDÊNCIA DE NORMAS. PREMISSAS FÁTICAS. ATINÊNCIA.
+Trata-se de Agravo Interno interposto à Decisão proferida em Agravo de Instrumento abordando Tutela de Evidência e Tutela de Urgência no exame de Resolução Judicial de 1º Grau.
+Aplicam-se ao Agravo Interno as regras processuais recursais e regimentais atinentes à Decisão, no caso, proferida em Agravo de Instrumento, que examinou a possibilidade da pretensão de Tutela de Evidência e de Tutela de Urgência sem Retratação, onde estão reproduzidos os Fundamentos relativamente à Impugnação Específica.
+Uniformização da Jurisprudência, com a manutenção da estabilidade, integridade e coerência, compreendendo, inclusive, os casos em que a lei for omissa, pressupõe a decisão de acordo com a Analogia, os Costumes e os Princípios de Direito (Art. 926 e Art. 4º do NCPC).
+A Doação do Imóvel aos Filhos ocorreu anos após a Citação do Executado e Genitor do Agravante, nos autos da Execução de Título Extrajudicial, o qual, atualmente, é objeto de Locação, a excluir a condição de Bem de Família prevista na Lei nº 8.009/1900.
+Apresentadas as Contrarrazões ao Agravo de Instrumento e estando este pronto para julgamento, fica Prejudicado o Agravo Regimental.
+Desprovimento do Agravo de Instrumento e Agravo Regimental Prejudicado.
+Opostos embargos de declaração, foram eles rejeitados (fls. 220-224).
+Nas razões do recurso especial, o recorrente alega ofensa ao art.1º da Lei n. 8.009/1990, porquanto o fato de que o imóvel objeto de penhora está destinado a locação não afasta seu caráter de bem de família.
+Suscita, ainda, divergência com entendimento firmado em julgado deste Superior Tribunal de Justiça em 2016.
+Contrarrazões às fls. 258-268.
+É o relatório. Decido.
+Verifica-se que a conclusão da Corte de origem a respeito da possibilidade de penhora do imóvel objeto da execução fundou-se em dois aspectos: a doação do imóvel aos filhos deu-se em momento posterior à citação do executado, e o imóvel não serve à família como moradia, mas fonte de renda advinda da locação.
+Confira-se trecho do acórdão recorrido (fl. 185):
+A Doação do Imóvel aos Filhos ocorreu anos após a Citaçãodo Executado e Genitor do Agravante, nosautos da Execução de Título Extrajudicial, o qual, atualmente, é objeto de Locação, a excluir a condição de Bem de Família prevista na Lei nº 8.009/1900.
+O recorrente, ao elaborar seus argumentos de recurso especial somente no sentido de possibilidade de reconhecimento do imóvel como bem de família, se distanciou do fundamento adotado pelo acórdão recorrido a respeito do momento inoportuno em que ocorreu a doação do imóvel.
+Tem-se que uma vez apresentadas razões de recurso especial dissociadas do fundamento do acórdão combatido que se mostra suficiente para manter o decisum atacado, resta inviabilizada a exata compreensão da controvérsia por deficiência na argumentação recursal. Incidência das Súmulas 284/STF e 283/STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. NOTIFICAÇÃO PARA APRESENTAÇÃO DE DEFESA PRÉVIA (ART. 17, § 7º, DA LEI 8.429/92). NULIDADE RELATIVA. NÃO COMPROVAÇÃO DO PREJUÍZO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+2. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência da Súmula 283.
+ ..
+(AgInt no REsp 1754247/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021, grifos nossos).
+TRIBUTÁRIO E PROCESSUAL CIVIL. INEXISTÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. FUNDAMENTO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7 DO STJ. APLICAÇÃO DA SÚMULA 283 DO STF.
+ ..
+5. Existe fundamento não impugnado pelo recorrente nas razões do Recurso Especial, visto que se limitou a manifestar seu inconformismo com o resultado que lhe foi desfavorável e deixou de refutar especificamente os fundamentos do acórdão objurgado. Logo, estando as razões do recurso dissociadas da fundamentação adotada na origem, incide na hipótese, por analogia, a Súmula 283 STF.
+6. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp 1653723/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/02/2021, DJe 01/03/2021).
+Ademais, rever a conclusão do julgador em relação às datas em que ocorreu a doação do bem imóvel ao agravado pelo agravante, implicaria, necessariamente, no reexame do conjunto probatório constante dos autos da execução, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NULIDADE DO TÍTULO EXECUTIVO. AUSÊNCIA DE DECISÃO DE MÉRITO. REVISÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A pretensão de revisão do entendimento proferido na origem acerca da alegação da nulidade por ausência de decisão meritória implica, no caso, reexame da matéria fático-probatória dos autos, o que é vedado em Recurso Especial, conforme Súmula 7/STJ.
+2. Recurso Especial não conhecido.
+(REsp 1661866/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/06/2017, DJe 30/06/2017)
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Deixo de aplicar a previsão do art. 85,§ 11, do CPC/2015, por não se tratar de hipótese de majoração de honorários recursais.
+Publique-se. Intimem-se.
