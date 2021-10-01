@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FERNANDA FRAGA FERRARIcontra decisão indeferitória de provimento urgente do Desembargador Relator do HC n.1.0000.21.179863-2/000, em trâmite no Tribunal de Justiça do Estado de Minas Gerais.
+A Paciente foi presa preventivamente, em23/10/2020, pela suposta prática do delito previsto no art.2.º, § 2.º, da Lei n. 12.850/2013.
+Consoante a decisão impugnada, a Paciente é advogada criminalista" .. no estado do Espírito Santo e está sendo investigada por supostamente integrar uma complexa organização criminosa atuante no tráfico ilícito de entorpecentes, que transportava expressiva quantidade de drogas do estado do Paraná até a comarca de Divino/MG, onde é distribuída para o comércio varejista, com ramificação da distribuição do material ilícito para o estado do Espírito Santo" (fl. 45).
+Consta, ainda, da decisão ora atacada,que a atuação da Acusada, em tese, consistiria em "intermediar o contato entre os líderes do grupo criminoso, que estão presos em penitenciárias de segurança máxima, e seus subordinados, colhendo e transmitindo informações, possibilitando assim o prosseguimento das atividades ilícitas" (fl. 45).
+Impetrado prévio writperante o Tribunal aquo, o Desembargador Relator do feito indeferiu a liminar (fls. 45-49).
+Neste writ, a Defesa sustenta, inicialmente,a carência de fundamento da decisão que indeferiu a liminar na origem.Alega, ainda, a ausência de fundamentação para a prisão preventiva, a desproporcionalidade da medida extrema ea existência de condições pessoais favoráveis à Paciente.Assevera, também, a suficiência das cautelares alternativas.
+De outra parte, aduza necessidade de observância ao disposto no art. 580 do Código de Processo Penal, afirmando que a Paciente encontra-se em igualdade fático-processual com outra Acusada, também advogada.
+Argumenta que impetrou o HC n.694.828/MG nesta Corte, cuja petição inicial foi "liminarmente indeferida sob fundamento de suposta ocorrência de supressão de instância, impossibilidade de superação da súmula 691 do STF e por ausência de teratologia - decisão anexa, publicada na presente data" (fl. 16). Entende, contudo, que, deixar de analisar a situação da Paciente sob tal fundamento" .. é permitir que a mesma permaneça presa injustamente e ilegalmente, simplesmente por burocracias judiciárias" (fl. 16).
+Assim, requer, liminarmente e no mérito, seja garantido à Paciente o direito de aguardar em liberdade o julgamento da ação penal. Subsidiariamente, pleiteia a conversão da custódia em prisão domiciliar, mediante o uso de tornozeleira eletrônica.
+É o relatório.Decido.
+NoHC n. 694.828/MG(DJe de 24/09/2021) impetrado em favor daora Paciente, foi formulada pretensão idêntica à veiculada neste writ.
+Naquele mandamus, indeferi liminarmente a petição inicial, tendo em vista a incidência da Súmula n. 691/STF (conforme afirma a própria Defesa nesta ação mandamental).
+Veja-se, a propósito, o seguinte trecho do referido decisum (grifos no original):
+"Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FERNANDA FRAGA FERRARI contra decisão indeferitória de provimento urgente do Desembargador Relator do HC n. 1.0000.21.179863-2/000, em trâmite no Tribunal de Justiça do Estado de Minas Gerais.
+ ..
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 10/03/2020, e HC 543.255/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 12/03/2020).
+ ..
+Na espécie, todavia, não é possível ultrapassar tal vedação, pois não se constata ilegalidade flagrante ou teratologia capaz de justificar a supressão de instância.
+Com efeito, quanto ao pleito de aplicação do disposto no art. 580 do Código de Processo Penal à Paciente, o Tribunal a quo não teve sequer a oportunidade de analisar se estão presentes, na hipótese, os elementos fáticos caracterizadores do alegado constrangimento ilegal.
+Observe-se que, ao indeferir a liminar e requisitar as informações do Juízo processante, o Desembargador Relator ressaltou que " ..  não é possível verificar, de plano, que a paciente e a corré Sharlene de Fátima se encontram em identidade de situações, não havendo que se falar, a princípio, na aplicação do art. 580 do Código de Processo Penal"(fl. 37).
+Desse modo, mostra-se inviável, neste momento, a extensão de eventual benefício concedido a outra Acusada, sem que o Tribunal de origem se manifeste, previamente, à luz das informações requisitadas, sobre a alegada similitude fático-processual entre ambas.
+Quanto às demais questões suscitadas, destacou-se na decisão ora atacada que "parte das teses sustentadas na presente impetração se tratam, ao que tudo indica, de reiteração de pedidos formulados nos autos dos habeas corpus de nº 1.0000.20.564217-6/000, nº 1.0000.20.583877-4/000, nº 1.0000.21.006871-4/000 e nº 1.0000.21.074774-7/000"(fl. 36), sendo certo que a Defesa não juntou aos presentes autos os arestos proferidos em tais impetrações, o que inviabiliza a manifestação desta Corte em razão da instrução deficiente do writ. .. "(HC 694.828/MG,DJe 24/09/2021.)
+Esta impetração, portanto, é mera reiteração de pedido, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas a mesma decisão.
+Assim, concluo pela inadmissibilidade deste habeas corpus, por estar evidenciada a hipótese de litispendência.
+No mesmo sentido, v.g.: AgRg no HC 584.120/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2020, DJe 13/08/2020; e HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019.
+Ademais, quanto à insurgência contra a fundamentação da decisão por mim proferida no mencionado HC n.694.828/MG, convém registrar que, nos termos do art. 102, inciso I, alíneai, da Constituição Federal, compete ao Supremo Tribunal Federal processar e julgar pedido de"habeas corpus,quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância" (grifei).
+A propósito:
+"PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.  .. .INCOMPETÊNCIA DESTE STJ PARA JULGAR IMPETRAÇÃO EM FACE DE ATO SINGULAR OU COLEGIADO DE SEUS MINISTROS.  .. . HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Em relação à alegação de pretenso constrangimento ilegal decorrente da decisão proferida por ministro desta Corte, que não conheceu do recurso especial anteriormente interposto, convém registrar a incompetência desta Corte, na medida em que a competência originária para julgamento de ato coator emanado deste Superior Tribunal de Justiça está disposta no art. 102, I, "i", da Constituição Federal.
+ ..
+9. Habeas corpus não conhecido."(HC 628.708/GO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/03/2021, DJe 29/03/2021; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSOPENAL.REITERAÇÃO DO PLEITO FORMULADO NO HC N. 694.828/MG. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
