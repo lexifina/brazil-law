@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANA BATISTA LIMA BERNARDOcom fundamento no art. 105, a e c, da Constituição Federal, contra acórdão assim ementado:
+CONSTITUCIONAL. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL CONTEMPORÂNEO AOS FATOS ALEGADOS. SÚMULA 149 DO STJ. APLICABILIDADE. QUALIDADE DE SEGURADO NÃO DEMONSTRADA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO DE OFÍCIO. AUSÊNCIA DE PROVA DO TRABALHO RURAL. VERBAS DE SUCUMBÊNCIA. DEVER DE PAGAMENTO SUSPENSO. GRATUIDADE DA JUSTIÇA. APELAÇÃO DA PARTE AUTORA PREJUDICADA.
+1 - A aposentadoria por idade do trabalhador rural encontra previsão no art. 48, §§1º e 2º, da Lei nº 8.213/91.
+2 - Deve a autora comprovar o exercício do labor rural, em período imediatamente anterior ao implemento do requisito etário (2007) por, pelo menos, 156 (cento e cinquenta e seis) meses, conforme determinação contida no art. 142 da Lei nº 8.213.
+3 - Foram acostadas aos autos cópias da certidão de casamento da autora, realizado em 1972, na qual o marido foi qualificado como lavrador;
+e de CTPS do marido da autora, na qual constam registros de caráter rural, em períodos diversos, entre 1972 e 2000.
+4 - Os registros em CTPS de caráter rural do marido não se consubstanciam em início de prova material que possam ser aproveitados pela autora, por não serem documentos indicativos de labor em regime de economia familiar, única modalidade de atividade rural que permite o aproveitamento de documentos de cônjuge.
+5 - Em relação à certidão de casamento, ainda que se tratasse de labor rural em regime de economia familiar, não pode ser aproveitada por ser anterior ao período de carência.
+6 - Ante a ausência de início de prova material contemporâneo aos fatos alegados, resta inviabilizado o reconhecimento de labor rural por todo o tempo pleiteado.
+7 - Extinção da demanda, sem resolução do mérito, a fim de possibilitar a propositura de nova ação, caso a requerente venha a conseguir documentos que comprovem o labor desenvolvido na qualidade de rurícola até o implemento do requisito etário. Entendimento consolidado do C. STJ, em julgado proferido sob a sistemática dos recursos repetitivos, conforme art. 543-C do CPC/1973: REsp 1.352.721/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 16/12/2015, DJe 28/04/2016.
+8 - Mantida a condenação da parte autora no pagamento das despesas processuais e dos honorários advocatícios, observados os benefícios da assistência judiciária gratuita (arts. 11, §2º, e 12, ambos da Lei 1.060/50, reproduzidos pelo §3º do art. 98 do CPC), já que deu causa à extinção do processo sem resolução do mérito.
+9 - Extinção do processo sem resolução do mérito de ofício. Ausência de prova do trabalho rural. Verbas de sucumbência. Dever de pagamento suspenso. Gratuidade da justiça. Apelação da parte autora prejudicada.
+O recorrente aponta a violação a dispositivos da lei 8213/91, sustentando, em suma,que a autora apresentou início de razoável prova documental suficiente para reconhecer o tempo de serviço rural necessário para a obtenção da aposentadoria.
+É o relatório. Decido.
+O presente recurso não é cognoscível, inicialmente verifica-se que o recorrente não apontou especificamente qual o dispositivo legal que foi violado, nem tão pouco como teria ocorrido o malferimento, o que impede a análise do eventual confronto de interpretação, atraindo o óbice da súmula 284/STF,.
+Por outro lado, mesmo que afastado o referido óbice verifica-se que a tese do recorrente vai de encontro àconvicção do Tribunal a quo a respeito da insuficiência probatória. Para rever tal posição seria necessário o reexame do conjunto de provas carreado aos autos, o que é vedado no âmbito do recurso especial. Incidência da súmula 7/STJ.
+Quanto ao alegado dissidio jurisprudencial, verifica-se que o óbice da súmula 7/STJ obsta ao exame dessa parcela recursal.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
