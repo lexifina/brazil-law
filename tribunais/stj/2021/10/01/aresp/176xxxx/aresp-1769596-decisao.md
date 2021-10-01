@@ -1,0 +1,38 @@
+DECISÃO
+SANTA CLARA INDÚSTRIA DE PAPEL E EMBALAGENS (SANTA CLARA) opôs embargos à execução contra MPR MARINGÁ COMÉRCIO DE PAPÉIS E RECICLAVEIS LTDA. (MPR MARINGÁ), objetivando a inexigibilidade dos títulos e o reconhecimento do excesso de penhora.
+Em primeira instância, os embargos a execução foram julgados improcedente pedido foi julgado improcedentes. SANTA CLARA foi condenada ao pagamento das custas, despesas processuais e honorários advocatícios que foram arbitrados em 10% sobre o valor da causa atualizado.
+O Tribunal de Justiça do Estado do Paraná negou provimento ao recurso interposto pela SANTA CLARA, assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PEDIDO DE RECONHECIMENTO DE INEXIGIBILIDADE DE DUPLICATA. INSUBSISTÊNCIA. TÍTULO SUBMETIDO A PROTESTO POR INDICAÇÃO E ACOMPANHADO DO COMPROVANTE DE RECEBIMENTO DA MERCADORIA. PRECEDENTES DO STJ. PREENCHIMENTO DOS REQUISITOS DE LIQUIDEZ, CERTEZA E EXIGIBILIDADE. TÍTULO IDÔNEO A AMPARAR DEMANDA EXECUTIVA. PEDIDO DE REFORMA DO JULGADO PARA QUE PASSE A CONSTAR QUE O TERMO INICIAL DOS JUROS DE MORA INCIDENTES SOBRE OS HONORÁRIOS DE SUCUMBÊNCIA COINCIDE COM O TRÂNSITO EM JULGADO DA DECISÃO, NOS TERMOS DO ART. 85, §16 DO CPC. AUSÊNCIA DE INTERESSE RECURSAL PARA QUE SEJAM REPRODUZIDOS NO JULGADO DISPOSITIVOS DO ESTATUTO PROCESSUAL. INEXISTÊNCIA DE PREJUÍZO AO APELANTE. QUESTÃO QUE PODE SER REVISITADA E DECIDIDA EXPRESSAMENTE NA FASE DE CUMPRIMENTO DE SENTENÇA. APELO NÃO CONHECIDO NESTA PORÇÃO.
+Apelação cível parcialmente conhecida e desprovida (e-STJ, fl.320).
+.
+Os embargos de declaração opostos pela SANTA CLARA foram rejeitados (e -STJ, fls. 351/353)
+Irresignada, SANTA CLARA interpôs recurso especial, com base no art. 105, III, a e c, da CF, sustentando, a par de dissídio jurisprudencial, violação dos arts. 803, I, 330, III, 485, IV, do NCPC. Alegou, em síntese, que (1) ao propor a ação de execução de títulos extrajudiciais, MPR MARINGÁ deveria ter embasado o seu pedido em títulos certos, líquidos e exequíveis, assim observa-se que o título de nº 963/2 não era exigível no momento do ajuizamento da demanda; e (2) diante da ausência de requisito essencial para a propositura do feito executivo, qual seja a exigibilidade do título cobrado, forçoso reconhecer a carência de ação e a consequente necessidade de sua extinção.
+O apelo nobre não foi admitido em virtude da aplicação do óbice contido nas Súmula nº 7 do STJ.
+Nas razões do presente agravo em recurso especial, SANTA CLARA sustentou a inaplicabilidade da Súmulas nº 7 do STJ.
+Não foi apresentada contraminuta (e-STJ, fl. 520).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação do art. 803, I, do NCPC.
+SANTA CLARA sustentou queao propor a ação de execução de títulos extrajudiciais, MPR MARINGÁ deveria ter embasado o seu pedido em títulos certos, líquidos e exequíveis, assim observa-se que o título de nº 963/2 não era exigível no momento do ajuizamento da demanda.
+O TJPR assim se manifestou sobre a questão:
+O TJPR, fundado nos elementos constantes dos autos, concluiu que a duplicata 963/2 é exigível desde a sua emissão, nos termos da fundamentação abaixo:
+Ocorre que a irresignação do Apelante concerne apenas à duplicata 963/2, título de crédito que segundo ele adquiriu liquidez, certeza e exigibilidade somente em fevereiro de 2016, com o julgamento do recurso de apelação interposto nos autos 0001400-97.2010.8.16.0092, ou seja, muito tempo após a propositura da demanda executiva, o que aconteceu em setembro de 2010.
+ ..
+Acompanhando a evolução do comércio jurídico, o Superior Tribunal de Justiça passou a mitigar o princípio da cartularidade, sedimentando o entendimento de que a duplicata virtual, vinculada a boleto bancário, acompanhada do comprovante de entrega da mercadoria e do protesto por indicação se reveste dos requisitos de liquidez, certeza e exigibilidade suficientes para dar amparo a demanda executiva.
+Por tudo isso, infere-se que a liquidez, certeza e exigibilidade da dívida consubstanciada na duplicata estão presentes sempre que verificados os requisitos acima descritos e exsurgem de forma autônoma do próprio título cuja execução se pretende.
+Assim, não merece ser acolhida a tese do Apelante de que a duplicata em questão adquiriu contornos de liquidez, certeza e exigibilidade somente a partir do momento no qual o Poder Judiciário julgou improcedente a ação declaratória de inexigibilidade que a tinha como objeto.
+Neste compasso, não há dúvida que o provimento jurisdicional prolatado nos autos 0001400-97.2010.8.16.0092 é de natureza declaratória, porque simplesmente reconheceu a existência de uma situação jurídica já consolidada, qual seja, a exigibilidade da duplicata 963/2 desde sua emissão.
+Diferente fosse, anuir a tese do Apelante seria o mesmo que reduzir a cinzas a característica da autonomia de que se revestem os títulos de crédito, pois precisariam ser sempre ser pelo Poder Judiciário para confirmados adquirir os requisitos de liquidez, certeza e exigibilidade antes de serem executados pelo credor, o que soa absurdo.
+Por estes motivos, não merece guarida a tese do Apelante de que a duplicata 963/2 passou a ser exigível somente com o advento da decisão judicial que julgou improcedente a ação declaratória de inexigibilidade que a tinha como objeto (e-STJ, fls. 322/323).
+Nesse contexto, para alterar o decidido no acórdão impugnado, que reconheceu que a duplicata 963/2 é exigivel desde a sua emissão, seria necessário o reexame de fatos e provas, vedado em recurso especial pela Súmula nºs 7, do STJ.
+(2) Da alegada violação dos arts.330, III, 485, IV, do NCPC.
+SANTA CLARA sustentou que diante da ausência de requisito essencial para a propositura do feito executivo, qual seja a exigibilidade do título cobrado, forçoso reconhecer a carência de ação e a consequente necessidade de sua extinção.
+Observa-se que as questões tais como postas nas razões do recurso especial não foram objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração para suprir eventual omissão. Incidem, portanto, as Súmulas nºs 282 e 356 do STF.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em favor do SANTA CLARA em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS A EXECUÇÃO. PEDIDO DE RECONHECIMENTO DE INEXIGIBILIDADE DE DUPLICATA. INSUBSISTÊNCIA. TÍTULO SUBMETIDO A PROTESTO POR INDICAÇÃO E ACOMPANHADO DO COMPROVANTE DE RECEBIMENTO DA MERCADORIA.PREENCHIMENTO DOS REQUISITOS DE LIQUIDEZ, CERTEZA E EXIGIBILIDADE. TÍTULO IDÔNEO A AMPARAR DEMANDA EXECUTIVA.INVERSÃO DE ENTENDIMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS Nº 7 DO STJ. ARTS.330, III, 485, IV, DO NCPC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS NºS 282 E 356 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
