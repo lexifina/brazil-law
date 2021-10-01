@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por TEREZINHA DE OLIVEIRA, em face da decisão acostada às fls. 415-416 e-STJ, proferida pelo Ministro Presidente deste Superior Tribunal de Justiça, que não conheceu do agravo (art. 1.042 do CPC/15), por meio do qual a ora agravante pretendia ver admitido recurso especial.
+Em julgamento monocrático, não se conheceu do reclamo por ofensa ao princípio da dialeticidade.
+Inconformada, interpôs o presente agravo interno (fls.419-428 e-STJ) aduzindo que impugnou especificamente os fundamentos da decisão agravada, com a devida demonstração de violação da legislação infraconstitucional; efetiva indicação dos dispositivos tidos por malferidos; estar a matéria prequestionada; não ser caso de aplicabilidade da Súmula 7/STJ e não ser cabível a Súmula 13 do STJ por ter demonstrado a divergência jurisprudencial com julgados de outros tribunais.
+Sem impugnação (fl. 628 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA AUTORA.
+1. Razões do agravo em recurso especial que não impugnaram especificamente os fundamentos da decisão proferida em juízo prévio de admissibilidade, violando o princípio da dialeticidade, o que autorizou o não conhecimento do reclamo, nos termos do art. 932, inc. III, do CPC/2015.
+2. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Consoante entendimento desta Corte, pelo princípio da dialeticidade, compete à parte recorrente infirmar todos os fundamentos da decisão agravada.
+A ausência de impugnação específica torna forçoso o não conhecimento do reclamo, por aplicação do quanto disposto nos artigos 932, inc. III, do CPC/15.Aplicável, ainda o óbice enunciado na Súmula 182 do STJ, a saber: "É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art.1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Com efeito, para afastar a incidência da Súmula 7/STJ, deveria a parte demonstrar que o conhecimento da sua pretensão não demanda o reexame de fatos e provas, não bastando a mera afirmação de que busca o reconhecimento da contrariedade à lei federal e da divergência jurisprudencial, como foi o caso dos autos.
+Como bem esclarece a Ministra Nancy Andrighi, "na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula 7 do STJ, deve a parte agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que, neste processo, não foi feito" (AgInt no AREsp 1344236/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/02/2019, DJe 20/02/2019).
+No caso em comento, a decisão proferida em juízo prévio de admissibilidade (fls. 377-379 e-STJ) fundamentou-se em: (i)quanto à supostaofensa aos arts. 3º, 5º e 10 da Lei 10.741de 2003, 4º, III, e 171, I, do CC, a mesma não ficou demonstrada; (ii) ainda quanto ao mesmos artigos, incidência da Súmula 7/STJ; (iii) ausência de demonstração do dissídio pretoriano; e, (iv) incidência da Súmula 13/STJ.
+Nas razões do agravo em recurso especial (fls. 382-393 e-STJ), a parte insurgente sustentou, em resumo, que: (i) houve infração aos arts. 3º, 5º, e 10 da Lei 10.741 de 2003, 4º, III, e 171, ambos do CC, pois a recorrente não possuía total discernimento das ações praticadas na época do fato, portanto, o ato é nulo; e (ii) haver demonstração do dissidio jurisprudencial, nos termos da legislação.
+No entanto, deixou de impugnar de modo específico todos os fundamentos da decisão agravada, porquanto não se manifestou a respeito da incidência das Súmulas 7 e 13 do STJ.
+1.1. Ademais, a agravante afirma, nas razões do agravo interno, que não incide o óbice das Súmulas 7 e 13/STJ, uma vez que seria desnecessária qualquer análise de provas e haver dissídio com julgados de outros tribunais.
+Trata-se de impugnação tardia a fundamento da decisão proferida em juízo prévio de admissibilidade, o que caracteriza indevida inovação recursal, não tendo o condão de infirmar o não conhecimento do agravo, em face da preclusão consumativa. Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA N. 182/STJ. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA.
+1. O agravo que deixa de impugnar especificamente os fundamentos da decisão agravada não é passível de conhecimento em virtude da expressa previsão legal (CPC/1973, art. 544, § 4º, I) e da incidência, por analogia, da Súmula n. 182/STJ.
+2. Incabível se faz, em sede de agravo interno, a impugnação tardia dos fundamentos utilizados na origem para inadmitir o processamento do recurso especial. Ocorrência de preclusão consumativa. Precedentes do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 502.058/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/06/2020, DJe 01/07/2020)
+No mesmo sentido, vejam-se: AgInt no AREsp 1229709/GO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/05/2018, DJe 09/05/2018; AgInt no AREsp 1201388/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/06/2018, DJe 26/06/2018; AgInt no AREsp 937.134/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/04/2017, DJe 16/05/2017.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
