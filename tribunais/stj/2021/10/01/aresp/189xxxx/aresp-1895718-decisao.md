@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 133/134).
+O acórdão recorrido está assim ementado (e-STJ fl. 98):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ADIMPLEMENTO CONTRATUAL. BRASIL TELECOM. DECISÃO INTERLOCUTÓRIA QUE DETERMINOU A EXIBIÇÃO DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA. INSURGÊNCIA DA EMPRESA DE TELEFONIA. PRELIMINAR. AGRAVO INTERNO CONTRÁRIO A DECISÃO MONOCRÁTICA DESTE RELATOR QUE INDEFERIU A ANTECIPAÇÃO DA TUTELA RECURSAL. RECURSO QUE NÃO CONSTITUI ÓBICE PARA A ANÁLISE DO MÉRITO DO RECURSO PRINCIPAL, MAS ACARRETA SOMENTE EM SUA PERDA DO OBJETO. AGRAVO INTERNO PREJUDICADO. MÉRITO. EXIBIÇÃO DO CONTRATO. PRETENSÃO DE UTILIZAR O VALOR CONTIDO NA RADIOGRAFIA. NÃO CABIMENTO. CONTRATAÇÃO PELA MODALIDADE PLANO DE EXPANSÃO - PEX. VALOR DESEMBOLSADO PELO PROMITENTE-ASSINANTE QUE CORRESPONDE A QUANTIA CONVERTIDA EM AÇÕES. NECESSIDADE DE EXIBIÇÃO DE DOCUMENTO. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO E AGRAVO INTERNO NÃO CONHECIDO.
+No especial (e-STJ fls. 107/121), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 333, I, 357, 358, III, 359, 365, V,e 475-B do CPC/1973 e 373, I, 398, 399, 400, 425, V, e 524 do CPC/2015, visto que o Tribunal considerou insuficiente, para apuração do valor a ser executado, a radiografia do contrato de participação financeira celebrados entre as partes.
+No agravo (e-STJ fls. 141/147), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 149/152).
+É o relatório.
+Decido.
+A Corte estadual concluiu que a radiografia do contrato não é documento suficiente paracálculodo débito a ser executado, sendo imprescindível para fase de cumprimento de sentença a apresentação do contrato de participação financeira, nos seguintes termos (e-STJ fl. 95):
+Em sede de cumprimento de sentença, este Relator possui o posicionamento quanto à necessidade de exibição dos contratos firmados na modalidade Plano de Expansão - PEX, pois o cálculo do valor devido pauta-se no montante representado nele, uma vez que a radiografia não reproduz o valor efetivamente integralizado. Assim, o montante pago pelo consumidor nos contratos PEX, à título de participação financeira, era efetivamente revertido em ações, diferentemente do que ocorre nos contratos PCT.
+Assim, para acolher a pretensão recursal- considerandosuficientea radiografia do contrato para instruir o cumprimento de sentençae reputandoinaplicável a pena do art. 524, § 5º, do CPC/2015 -, seria necessário o reexame da matéria fática, vedado em recurso especial, por força das Súmulas n. 5 e 7 do STJ. No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. TELEFONIA. RADIOGRAFIA DO CONTRATO. INSUFICIÊNCIA. NECESSIDADE DE EXIBIÇÃO DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA. INÉRCIA DA CONCESSIONÁRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme pacificado na jurisprudência desta Corte de Justiça, rever as conclusões das instâncias ordinárias acerca da suficiência ou não da radiografia do contrato de participação financeira para elaboração dos cálculos na fase de cumprimento de sentença esbarra nas Súmulas 5 e 7/STJ. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.499.038/SC, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/11/2019, DJe 3/12/2019.)
+Por fim, esta Corte tem entendimento no sentido de que a incidência das Súmulas n. 5 e 7 do STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
