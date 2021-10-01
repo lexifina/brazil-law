@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado peloESTADO DO PARANÁ, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 263):
+APELAÇÃO CÍVEL - PREVIDENCIÁRIO INCONSTITUCIONALIDADE DE COBRANÇA DECONTRIBUIÇÃO PREVIDENCIÁRIA COM ALÍQUOTAPROGRESSIVA - ENTENDIMENTO PACIFICADO NESTA CORTE - CORREÇÃO MONETÁRIA- NÃO INCIDÊNCIA DO CONTIDO NO ART. 1 F DA LEI 9494/97 - APELOS DOS RÉUS DESPROVIDOS - SENTENÇA MODIFICADA EM PARTE, EM REEXAME NECESSÁRIO.
+Opostos embargos de declaração foram acolhidos com efeitos modificativos nos seguintes termos (fl. 373):
+EMBARGOS DE DECLARAÇÃO 01 - JUROS DE MORA - APRECIAÇÃO DÀ ADIN 4357 PELO STF COM DECLARAÇÃO DE M"ODULAÇÃO - EMBARG6S ACOLHIDOS COM EFEITOS MODIFICAT1VOS.
+EMBARGOS DE DECLARAÇÃO 02 - ILEGITIMIDADE PASSIVA DO PARANÁ PREVIDÊNCIA - JULGAMENTO DE INCIDENTE DE INCONSTITUCIONALIDADE PELO ÓRGÃO ESPECIAL DA CORTE - JUROS DE MORA - EMBARGOS ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+A parte recorrente aponta violação aos arts. 512, 515 e 535 do CPC/73 e 1º-F da Lei 9.494/97. Sustenta, além da negativa de prestação jurisdicional, que "constata-se a violação ao artigo 1º-F da Lei nº 9.494/97 uma vezque os índices da correção monetária e termo inicial dos juros não estão adequadossegundo a modulação de efeitos do Supremo Tribunal Federal." (fl. 394).
+À fl. 404, a Vice-presidência do Tribunal de origem determinou a suspensão do recurso especial, ante a afetação do Tema 905/STJ.
+Após o julgamento do Tema 905/STJ, os autos foram remetidos ao órgão colegiado para que fosse realizado o juízo de conformidade (fls. 424/426).
+Às fls. 334/340, a Corte local, por meio de decisão colegiada, realizou juízo de retratação para adequar o acórdão anteriormente exarado (fls. 263/271) com o referido precedente.
+Encaminhados os autos à Vice-Presidência do Tribunal de origem, foi proferida nova decisão, admitindo o recurso especial (fls. 434/435).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Consoante antes relatado, a Corte localanalisou a questão posta no recurso especial de fls. 389/399à luz do entendimento consolidado no julgamento dos REsp 1.492.221/PR eREsp 1.495.144/MG - Tema 905/STJ -, realizando o juízo de retratação e adequandoo acórdão recorrido a esse precedente.
+É o que se verifica da respectiva ementa (fl. 334):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - JUÍZO DERETRATAÇÃO - SUBMISSÃO DO ACÓRDÃO ANTERIORMENTEPROLATADO AO PROCEDIMENTO PREVISTO NO ARTIGO 1.030, II,DO CÓDIGO DE PROCESSO CIVIL DE 2015 - TEMA 905, DO STJ ETEMA 810, DO STF - ALÍQUOTA PROGRESSIVA DE CONTRIBUIÇÃOPREVIDENCIÁRIA - AÇÃO DE REPETIÇÃO DE INDÉBITO -NATUREZA TRIBUTÁRIA DAS CONTRIBUIÇÕES PREVIDENCIÁRIASRECONHECIDA PELO STF - CONSECTÁRIOS LEGAIS - JUROS DEMORA E CORREÇÃO MONETÁRIA - INAPLICABILIDADE DOARTIGO 1º-F DA LEI  9.494/97, COM REDAÇÃO DADA PELA LEI  11.960/09 PARA AS CONDENAÇÕES DE NATUREZA TRIBUTÁRIAIMPOSTAS À FAZENDA PÚBLICA - APLICAÇÃO DOS MESMOSÍNDICES DE JUROS E CORREÇÃO MONETÁRIA UTILIZADOS PELAFAZENDA PÚBLICA PARA REMUNERAR SEUS PRÓPRIOS CRÉDITOS- INCIDÊNCIA, NO CASO, DA TAXA SELIC, POR SER ESTE OCRITÉRIO PREVISTO NA LEGISLAÇÃO ESTADUAL - REFORMA DOACÓRDÃO QUANTO AOS CONSECTÁRIOS LEGAIS.
+Nesse contexto, resta prejudicada a apreciação do recurso especial, pois, no caso dos autos, o Tribunal de origem reformouo acórdão recorrido adequando este àtese adotada no precedente indicado,o que afasta o disposto no art. 1.041 do CPC/2015, segundo o qual "mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.".
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
