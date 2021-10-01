@@ -1,0 +1,4 @@
+Resolução CVM nº 45, de 2021
+Dispõe sobre o rito dos procedimentos relativos à atuação sancionadora no âmbito da Comissão de Valores Mobiliários, e revoga as Instruções CVM nº 607, de 17 de junho de 2019, nº 613, de 30 de agosto de 2019, nº 624, de 13 de maio de 2020, e as Deliberações CVM nº 501, de 3 de março de 2006, nº 855, de 30 de abril de 2020, e nº 861, de 23 de julho de 2020.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS – CVM torna público que o Colegiado, em reunião realizada em 11 de agosto de 2021, com fundamento no disposto nos arts. 8º, inciso I, 9º, incisos V, VI e § 2º, 11 e 12 da Lei nº 6.385, de 7 de dezembro de 1976, e no art. 33 e seguintes da Lei nº 13.506, de 13 de novembro de 2017, bem como nos arts. 5º a 9º do Decreto nº 10.139, de 28 de novembro de 2019, APROVOU a seguinte Resolução:
+CAPÍTULO I – ÂMBITO E FINALIDADE
