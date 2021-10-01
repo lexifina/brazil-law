@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 58):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ATO QUE PÕE FIM A EXECUÇÃO. SENTENÇA. RECURSO CABÍVEL. APELAÇÃO. AGRAVO DE INSTRUMENTO PROVIDO. (6)
+1. O Código de Processo Civil disciplina o sistema recursal em razão da natureza da decisão impugnada e não em função da matéria objeto do recurso. Da sentença caberá apelação; das decisões interlocutórias caberá agravo (artigos 513 e 522).
+2. O ato do Juiz que põe fim à execução caracteriza-se como sentença, que desafia recurso de apelação.
+3. Agravo de instrumento provido, a fim de determinar o regular processamento do recurso de apelação interposto nos autos de origem.
+Opostos embargos declaratórios, foram rejeitados (fl. 70).
+Aponta o recorrente violação ao art. 1022, II e III, do CPC/2015, na medida em que o Tribunal de origem não sanou a omissão apontada nos embargos de declaração, "referente à questão da intempestividade do recurso de apelação interposto pela parte autora" (fl. 76).
+Sustenta que, "contrariedade do v. acórdão ora guerreado, haja vista que não apreciou a questão deduzida nos embargos de declaração, conquanto pertinente ao deslinde da controvérsia" (fl. 78).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+No presente caso, a Autarquia Federal, nas razões dos embargos de declaração, requereu expressamente ao Tribunal a quo que se manifestasse a respeito das seguintes questões, verbis (fls. 62/63):
+Conforme bem anotado na decisão que indeferiu a antecipação e tutela no agravo, de fls. 37, a apelação interposta pelo agravante, embora seja o recurso correto, foi intempestiva. A sentença foi proferida em novembro de 2008, ao passo que o recurso somente foi protocolado em 19/02/2009, ou seja, praticamente noventa dias depois da decisão recorrida.
+A omissão do acórdão ora embargado sobre este aspecto essencial da demanda é evidente, merecendo ser esclarecido o ponto.
+Diante do exposto, requer o acatamento dos presentes aclaratórios para suprir a omissão apontada, declarando a intempestividade do recurso de apelação da parte autora e certificando o trânsito em julgado da sentença monocrática.
+Entretanto, a Corte de origem não se pronunciou sobre esseponto.
+Com efeito, sabe-se que às Cortes Superiores, em sede de recursos de natureza extraordinária, não é dado reexaminar o contexto fático da causa, cuja moldura definitiva deve provir das instâncias ordinárias. Daí a razão de ser das Súmulas 7/STJ e 279/STF.
+Em tal cenário, o recurso de embargos declaratórios ganha distinguido relevo nos tribunais locais, que, por meio da súplica integrativa, podem colmatar os contornos da controvérsia suprindo omissões relacionadas à apreciação e valoração de fatos que, embora relevantes, tenham sido desconsiderados na decisão embargada.
+Por isso, e com razão, Tereza Arruda Alvim Wambier enfatiza que "cabe à parte, exercendo legitimamente sua atividade de prequestionar, i.e., fazer constar da decisão a questão federal ou a questão constitucional, pleitear do órgão a quo que faça também constar do acórdão circunstâncias fáticas aptas a demonstrar, pela mera leitura da decisão recorrida, que a solução normativa pela qual se optou na decisão impugnada (pela via do recurso extraordinário ou do recurso especial) está equivocada, estando-se, pois, assim, em face de uma ilegalidade ou de uma inconstitucionalidade" (Embargos de declaração e omissão do juiz. 2. ed. ampl. São Paulo: RT, 2014, p. 215).
+Na espécie, a pretensão recursal merece acolhida pelo art. 1,022, II e III do CPC, porquanto não prestada a jurisdição de forma integral, uma vez que a instância ordinária, mesmo instada a fazê-lo, quedou silente, rejeitando os pertinentes embargos declaratórios, limitando-se apenas a afirmar a inexistência de qualquer omissão quanto à questão apresentada.
+ANTE O EXPOSTO, dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que, em novo julgamento dos embargos de declaração, manifeste-se sobre as questões levantadas pelo INSS.
+Publique-se.
