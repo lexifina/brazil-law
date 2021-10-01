@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito negativo de competência estabelecido entre o r. JUÍZO FEDERAL DA 1.ª VARA DE SÃO VICENTE-SJ/SP, suscitante, e o r. JUÍZO DE DIREITO DA 2.ª VARA CÍVEL DE PRAIA GRANDE-SP, suscitado.
+Ação: Carta Precatória n.º 0000101-32.2021.8.26.0477/SP expedida no âmbitoda Ação de Reintegração/Manutenção de Possen.º 5000688-63.2017.4.03.6141,movida pela Caixa Econômica Federal contra Marcos Antonio Silva e Outros, em curso perante o r. Juízo Federal da 1.ª Vara de SãoVicente-SJ/SP, objetivando a citação da ré.
+Decisão do Juízo suscitado: declinou da competência em favor do juízosuscitante, devolvendo a carta precatória recebida, sem cumprimento, sob o fundamento de que "(..) o juízo deprecante limitou-se a reproduzir genericamente um julgado do STJ prolatado em processo diverso, sem evidenciar qualquer necessidade concreta para a prática do ato". (fl. 16).
+Decisão do Juízo suscitante: suscitou o presente conflito negativo decompetência, sob o fundamento de que "(..)a sede deste Juízo é localizada em São Vicente, município distinto do local do cumprimento da diligência - que, por outro lado, é sede de Vara Estadual, a qual, por conseguinte, deve ser a responsável pelo seu cumprimento." (fl. 22).
+Instado a se manifestar, o MPF opinou pelo reconhecimento da competênciado r. juízo suscitado. (fls. 32-35).
+É o relatório.
+Decide-se.
+O conflito merece ser conhecido.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal deJustiça para o exame do presente incidente, uma vez que envolve juízosvinculados a Tribunais diversos, nos termos do que dispõe o artigo 105,inciso I, alínea "d", da Constituição Federal.
+2. Nos exatos termos do art. 267 do CPC, este Superior Tribunal de Justiçatem se posicionado no sentido de que a recusa ao cumprimento da carta precatória apenas terá lugar quando presente alguma das hipóteses alielencadas (I - a carta não estiver revestida dos requisitos legais; II -faltar ao juiz competência em razão da matéria ou da hierarquia; e III - ojuiz tiver dúvida acerca e sua autenticidade). Nesse sentido: AgRg no CC158.878/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO,julgado em 22/08/2018, DJe 27/08/2018; CC 40406/SP, Rel. Ministro CASTROMEIRA, PRIMEIRA SEÇÃO, julgado em 11/02/2004, DJ 15/03/2004, p. 145; CC62.249/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em28/06/2006, DJ 01/08/2006, p. 365.
+Considerando que na situação dos autos não se verificou qualquer umadelas, ressai a competência da Justiça Comumpara o cumprimento daprecatória em questão.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/cSúmula 568/STJ e no parecer ministerial, conheço do presente conflito e,por conseguinte, declaro a competência do r. Juízo de Direito da 2.ª Vara Cível de Praia Grande-SP, suscitado.
+Publique-se. Intimem-se.
