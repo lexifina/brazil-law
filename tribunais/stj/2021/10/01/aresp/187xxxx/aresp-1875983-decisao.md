@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por CONSELHO REGIONAL DE CONTABILIDADE DO RIO GRANDE DO SUL, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. PENHORA DE VEÍCULO DE BAIXO VALOR COMERCIAL E LIQUIDEZ. DESCABIMENTO.
+A jurisprudência em matéria tributária nesta Corte indica o descabimento de penhora de veículo de pequeno valor comercial e baixa liquidez" (fl. 39e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 47/49e), os quais restaram rejeitados, nos seguintes termos:
+"TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO.
+Não havendo no acórdão obscuridade, contradição, omissão ou erro material, improcedem os embargos de declaração" (fl. 57e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violaçãoaos arts. 10 da Lei 6.830/80, assim como 789 e 797, caput, do CPC, sustentando que "o fato do veículo indicado ser antigo não retira a possibilidade de sua constrição. Trata-se de único bem, até então, localizado em nome do devedor e, dessa forma, há o interesse em tê-lo em garantia da execução fiscal, em atenção às regras dos artigos10 da LEF e 789 (antigo 591) e 797 (antigo 612) do CPC" (fl. 67e).
+Pondera que "o veículo que se pretende penhorar, apesar de ser antigo, possui valor de mercado muito superior ao valor executado". Ainda, "quanto ao argumento de que o bem "não se figura idôneo à satisfação do crédito exequendo" (pelo seu reduzido valor de mercado, com mais de 20 anos de uso e pela dificuldade de sua alienação judicial), decorre de uma "suposição", pois conforme mencionado acima, pelo valor de mercado, o veículo é plenamente capaz de satisfazer a execução, em sua integralidade. Ademais, o veículo SEQUER foi avaliado. Poderia tratar-se de veículo conservado e original oque, inclusive, lhe traria valor ainda maior" (fl. 68e).
+Destaca também que "quanto ao licenciamento estar vencido, por si só, não conduz à presunção de que o veículo não esteja em uso, sobretudo, considerando que se trata do único bem localizado pelo recorrente" (fl. 69e).
+Por fim, assevera que "é facultado ao credor o seu direito de satisfazer seu crédito por meio da penhora do bem de titularidade do devedor, não podendo ser antecipado eventual e desconhecido resultado da hasta pública" (fl. 70e).
+Inadmitido o Recurso Especial (fl. 88/89e), foi interposto o presente Agravo (fls. 94/103e).
+A irresignação merece prosperar.
+O Tribunal de origem, ao analisar a controvérsia, consignou o seguinte:
+"Na linha do decidido pelo Juízo de origem, tem-se que a efetivação do ato constritivo e de medidas executórias subsequentes envolve custos financeiros e operacionais, cuja realização não se justifica em relação a bem que, à toda evidência, não se afigura idôneo à satisfação do crédito exeqüendo - seja pelo seu reduzido valor de mercado (automóvel Renault/Scenic RXE 2.0,ano/modelo 1999, placas IMR1000, com mais de 20 anos de uso, seja pela dificuldade de sua alienação judicial.
+A jurisprudência em matéria tributária nesta Corte indica o descabimento de penhora de veículo de pequeno valor comercial e baixa liquidez (..)" (fl. 42e).
+Contudo, verifica-se quea conclusão da Corte estadual está em dissonância com a jurisprudência desta Corte.
+Com efeito, conforme precedente, inclusive trazido como paradigma pela parte recorrente nas razões do apelo especial, "após infrutíferas tentativas de localizar outros bens, manifestando o exequente o propósito de penhorar veículos antigos do executado, não cabe ao magistrado indeferir a constrição, ainda que sob o fundamento de que a potencial iliquidez dos automóveis pudesse conduzir à inutilidade da penhora, pois a execução é realizada no interesse do credor (art. 612 do CPC)" (STJ,REsp 1523794/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/05/2015, DJe 01/06/2015).
+No mesmo sentido, cita-se decisão monocrática proferida no Agravo em Recurso Especial 1915562/PR, Rel. MinistroBENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 26/05/2021.
+A propósito, confira-se:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO NÃO CARACTERIZADA. EXECUÇÃO FISCAL DE DÍVIDA NÃO TRIBUTÁRIA. INTERESSE DO CREDOR. ART. 612 DO CPC/73.
+1. Inexiste violação do art. 535 do CPC/73 quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. A execução é realizada, invariavelmente, no interesse do credor.
+Desse modo, o princípio da economicidade ou a alegação de iliquidez do bem penhorado não pode superar o princípio da maior utilidade da execução para o credor.
+3. Frustradas as diligências para localização de outros bens em nome da devedora (BACEN JUD), obedecida a ordem legal de nomeação de bens à penhora e manifestando a exequente o propósito de penhorar "a prensa hidráulica" da executada, não cabe ao magistrado indeferir a constrição, ainda que sob o fundamento de que a potencial iliquidez do bem pudesse conduzir à inutilidade da penhora, pois a execução é realizada no interesse do credor (art. 612 do CPC).
+Recurso especial parcialmente provido"(STJ, REsp 1592547/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 17/08/2016).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo, para dar provimento ao Recurso Especial, a fim de que reconhecer a possibilidade de penhora do automóvel (Renault/Scenic RXE 2.0,ano/modelo 1999, placa IMR 1000), para satisfação da execução fiscal ora em comento.
+I.
