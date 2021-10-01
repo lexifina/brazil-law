@@ -1,0 +1,3 @@
+Art. 26-G. As despesas decorrentes do pagamento do auxílio-inclusão correrão à conta do orçamento do Ministério da Cidadania.
+§ 1º O Poder Executivo federal compatibilizará o quantitativo de benefícios financeiros do auxílio-inclusão de que trata o art. 26-A desta Lei com as dotações orçamentárias existentes.
+§ 2º O regulamento indicará o órgão do Poder Executivo responsável por avaliar os impactos da concessão do auxílio-inclusão na participação no mercado de trabalho, na redução de desigualdades e no exercício dos direitos e liberdades fundamentais das pessoas com deficiência, nos termos do § 16 do art. 37 da Constituição Federal.

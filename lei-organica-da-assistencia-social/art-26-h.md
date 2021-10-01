@@ -1,0 +1,1 @@
+Art. 26-H. No prazo de 10 (dez) anos, contado da data de publicação desta Seção, será promovida a revisão do auxílio-inclusão, observado o disposto no § 2º do art. 26-G desta Lei, com vistas a seu aprimoramento e ampliação.
