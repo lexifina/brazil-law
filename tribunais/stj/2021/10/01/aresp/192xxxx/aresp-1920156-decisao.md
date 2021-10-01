@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por Daniel Struwka contra decisão que não admitiu o processamento do apelo extremo.
+Cuida-se, na origem, de agravo de instrumento contra decisão interlocutória que, nos autos da ação de rescisão contratual cumulada com despejo e cobrança, em fase de cumprimento de sentença, deferiu o pedido de restrição de circulação sobre os veículos encontrados por meio do sistema renajud.
+A Décima Oitava Câmara Cível do Tribunal de Justiça do Estado do Paraná, apreciando aquele agravo, negou-lhe provimento, consoante acórdão assim ementado (e-STJ, fl. 88):
+AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DESPEJO E COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA - DECISÃO AGRAVADA QUE DEFERIU O PEDIDO DE RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULOS ENCONTRADOS EM NOME DO AGRAVANTE - EXECUTADO QUE NÃO INDICA A LOCALIZAÇÃO DOS BENS OU OS ENTREGA - FUNDAMENTO QUE SEQUER RESTOU ATACADO PELO RECORRENTE - CABIMENTO DA MEDIDA DIANTE DA EXCEPCIONALIDADE DO CASO - PRECEDENTES DESTA CORTE - RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, o recorrente alegou, além da existência de divergência jurisprudencial, violação dos arts. 139, IV, 805 e 1.022, II, do Código de Processo Civil de 2015.
+Sustentou omissão no julgado no tocante a questões apresentadas determinantes para o julgamento da lide.Asseverou que a restrição de circulação dos veículos, destinados à atividade rural do recorrente, foi indevida, tendo em conta que não foram esgotadas as medidas típicas antes da aplicação da medida excepcional, em ofensa aos princípios da razoabilidade e da proporcionalidade.
+Acrescentou a ausênciados requisitos necessários para que se efetue a restrição, como localização do devedor ou dos bens, informações sobre tentativa de ocultação ou embaraço para localização dos veículos ou necessidade de localização destes pela polícia no caso de crime.
+Sem contrarrazões, fl. 194 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta não apresentada, fl. 235 (e-STJ).
+Brevemente relatado, decido.
+No tocante à alegação de omissão no julgado, destaca-se que a parte ora recorrente limitou-se a defender genericamente a ocorrência de violação do art. 1.022, II, do CPC/2015, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do Supremo Tribunal Federal, aplicada analogicamente pelo STJ.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. CORRETOR DE IMÓVEIS. ILEGITIMIDADE PASSIVA. COMPROVAÇÃO. REEXAME DE PROVAS. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. No caso, o eg. Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, reconheceu a ilegitimidade passiva do recorrido em razão da falta de comprovação da alegada desídia na prestação de serviço de corretagem. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1.782.468/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/08/2021, DJe 31/08/2021)
+No mérito, observa-se que a jurisprudência deste Superior Tribunal é no sentido da possibilidade de restrição de circulação de veículo, por via do sistema renajud, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo.
+Confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO. RENAJUD. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui precedentes favoráveis à possibilidade de restrição de circulação de veículo, por via do sistema Renajud, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo.
+2. Agravo Interno não provido.
+(AgInt no REsp 1.820.182/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/10/2019, DJe 18/10/2019)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO. RENAJUD. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui precedentes favoráveis à possibilidade de restrição de circulação de veículo, por via do sistema RENAJUD, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo. Nesse sentido, as seguintes decisões monocráticas: REsp 1.669.427/RS, Rel. Ministro Mauro Campbell Marques, DJe 9/6/2017; AREsp 1.165.070/MG, Rel. Ministro Marco Aurélio Bellizze, DJe 7/11/2017; AREsp 1.076.857/MG, Rel. Ministro Luis Felipe Salomão, DJe 5/5/2017; AREsp 1.071.742/MG, Rel. Ministra Isabel Gallotti, DJe 18/4/2017; AREsp 1.062.167/MG, Rel. Ministro Antonio Carlos Ferreira, DJe 5/9/2017; e AREsp 1.155.900/MG, Rel. Ministro Moura Ribeiro, DJe 2/10/2017.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.678.675/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+Na espécie, o Tribunal estadual, observadas as peculiaridades da causa, assim se manifestou (e-STJ, fls. 91-92):
+Cinge-se a controvérsia recursal ao deferimento do pedido de restrição de circulação sobre os veículos encontrados por meio do sistema Renajud em nome do ora recorrente.
+Para tanto, fundamentou o juízo singular que "que o aqui executado é parte em cerca de seis dezenas de feitos em tramitação nesta comarca, em parte significativa na condição de devedor, sem notícia de pagamento de débitos que são devidos", bem como que "o executado, a despeito de pedir que sejam os ditos veículos examinados para fins de excesso de penhora, no entanto, não entrega os bens móveis ou indica seu paradeiro, de forma que procede em comportamento nitidamente contraditório e aparentemente contrário a boa-fé processual".
+O agravante, no entanto, argumenta que a determinação de restrição de circulação de veículos é medida excepcional, e, assim, para seu deferimento, devem estar presentes alguns requisitos, como dificuldade na localização do devedor, dificuldade na localização dos bens, informações sobre tentativa de ocultação ou embaraços para a localização dos veículos bloqueados, necessidade de localização de veículos pela polícia em hipóteses de crime.
+Afirmou que, no caso, não ocorreu qualquer das hipóteses em comento, bem como que a atitude tomada pelo juízo a quo colide contra os princípios da proporcionalidade, da razoabilidade e da menor onerosidade do devedor, isso porque a restrição na circulação afeta diretamente o desenvolvimento da atividade do agravante, que é agricultor e precisa dos veículos para manter seu sustento e o de sua família.
+Pleiteou, destarte, a reforma da decisão agravada.
+Sem razão, no entanto.
+E assim porque se encontra prevista hipótese, até mesmo dentre aqueles indicadas pelo próprio recorrente, que autoriza o deferimento da restrição de circulação, uma vez que desconhecido o paradeiro dos bens.
+Note-se que, de forma expressa, afirmou o juízo singular que "o executado, a despeito de pedir que sejam os ditos veículos examinados para fins de excesso de penhora, no entanto, não entrega os bens móveis ou indica seu paradeiro, de forma que procede em comportamento nitidamente contraditório e aparentemente contrário a boa-fé processual".
+Entretanto, apesar de ter sido este o fundamento utilizado para o deferimento questionado, ou seja, que o executado não indica a localização dos veículos, bem como não os entrega, a parte recorrente nada versa sobre a questão, limitando-se a indicar que o exequente deveria diligenciar em encontrá-los, o que, evidentemente, não soa razoável.
+Dessa forma, o entendimento firmado pelo Colegiado estadual está em consonância com o desta Corte
+Outrossim, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial. Dessa maneira, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE DE TRÂNSITO. RESTRIÇÃO DE LICENCIAMENTO E CIRCULAÇÃO DE VEÍCULOS PENHORADOS. PEDIDO DE DESBLOQUEIO. APLICAÇÃO DA SÚMULA 7/STJ.
+1. A adoção de entendimento diverso por esta Corte quanto à necessidade de bloqueio ao licenciamento do veículo, contrariamente à conclusão do acórdão recorrido, demandaria reexame do acervo fático-probatório dos autos, o que não é possível em recurso especial, nos termos do enunciado 7 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1021050/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/10/2017, DJe 17/10/2017)
+Ademais, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. CERCEAMENTO DE DEFESA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As conclusões do acórdão recorrido no tocante à inexistência de cerceamento de defesa, e do ato ilícito, apto a gerar o dever de indenizar; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, o reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ, que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.786936/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/08/2021, DJe 24/08/2021)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. 2. POSSIBILIDADE DE RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO, POR VIA DO SISTEMA RENAJUD, PARA VIABILIZAR A LOCALIZAÇÃO E APREENSÃO DO BEM. PRECEDENTES. PREMISSAS FÁTICAS. SÚMULA N. 7/STJ. 3. DIVERGÊNCIA PREJUDICADA. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
