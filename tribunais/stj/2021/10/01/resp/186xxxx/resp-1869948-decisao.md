@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial (CPC/2015, art. 1.029) interposto contra acórdão do TJSP assim ementado (e-STJ fl. 184):
+*EXPURGOS INFLACIONÁRIOS - EXTINÇÃO DA EXECUÇÃO INDIVIDUAL COM RESOLUÇÃO DO MÉRITO  Prescrição não configurada  Aplicação da Súmula nº 150 do Supremo Tribunal Federal e do informativo nº 0484 do Superior Tribunal de Justiça - Existência de ação cautelar de protesto interruptivo do lapso prescricional - Legitimidade ativa do parquet para o ajuizamento da mencionada medida cautelar - Inteligência da alínea "c", do inciso VII, do artigo 6o da Lei Complementar n" 75/1993 c.c. os artigos 82 e 83 do Código de Defesa do Consumidor - Recurso provido.
+INTERESSES TRANSINDIVIDUAIS - EXECUÇÃOINDIVIDUAL  Julgamento com fulcro no parágrafo 3ºdo artigo 1.013 do Novo Estatuto Adjetivo Civil  Eficácia erga omnes da r. sentença proferida na ação coletiva  O credor pode promover o cumprimento do julgado no foro da comarca do seu domicílio  Legitimidade ativa e passiva caracterizada  Desnecessidade da comprovação da associação do poupador ao IDEC - Descabimento da rediscussão da legitimidade do Banco, reconhecida nos autos da ação civil pública - Impossibilidade da violação à coisa julgada -Descabimento do recolhimento das custas processuais, na fase do cumprimento do julgado - Subsunção ao artigo 513 do Novo Estatuto Adjetivo Civil - A apuração do quantum debeatur depende de meros cálculos aritméticos  Incidência dos juros moratórios a partir da citação nos autos da ação civil pública  Inteligência do artigo 405 do Código Civil Brasileiro  Aplicação da Tabela Prática do Tribunal de Justiça do Estado de São Paulo para a correção monetária do débito - Descabimento da propalada compensação - Possibilidade do arbitramento dos honorários advocatícios - Incidência da Súmula n" 517 do Superior Tribunal de Justiça - Impossibilidade da inclusão dos juros remuneratórios no cálculo da dívida  Recurso provido, para os fins de desconstituir a r. sentença e julgar parcialmente procedente a impugnação ao cumprimento da sentença *
+No recurso especial (e-STJ fls. 210/250), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente aduz violação:
+(a)do art. 16 da Lei n. 7.385/1985, porque o feito ajuizado no foro de domicílio dorecorridodeveria ser extinto, visto que a sentença coletiva apenas teria eficácia erga omnes nos limites da competência territorial do órgão prolator da decisão, carecendo a parte recorrida, por não residir em tal foro, de legitimidade ativa para a oferta da demanda(e-STJ fls. 216/228),
+(b)do art. 97 do CDC, alegando queseria necessária a liquidação da sentença coletiva, a fim de definir os titulares e o dano sofrido (e-STJ fls. 235/236).
+Defende que:
+(a) seria devido atribuirefeito suspensivo ao agravo de instrumento, ante a possibilidade de grave lesãocom a tramitação do processo (e-STJ fls. 221/222),
+(b) seria necessária a suspensão do feito, diante daafetação do REsp n. 1.438.263/SP, tratando de tema discutido nos autos, conforme determina o art. 1.036 do CPC/2015(e-STJ fls. 225/228),
+(c) não seriam devidos,nos cálculos do cumprimento individual de sentença,juros remuneratórios não contemplados na decisão da ação coletiva (e-STJ fls. 236/238),
+(d) os juros de mora somente seriam devidos a partir da citação no cumprimento individual de sentença (e-STJ fls. 238/240),
+(e) seria vedado o uso da Tabela Prática da Corte de origem para a realização da correção monetária (e-STJ fls. 240/242),
+(f) os cálculos do recorrido estariam impugnados, para todos os efeitos legais (e-STJ fls. 242/245),e
+(g) não seriadevido fixarhonorários de sucumbênciano cumprimento individual de sentença (e-STJ fls. 248/249).
+Sem contrarrazões (e-STJ fl. 261).
+O recurso foi admitido na origem (e-STJ fls. 278/281).
+É o relatório.
+Decido.
+Cuidam os autos de execução de sentença proferida pelo JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA - DF na Ação Civil Pública n. 1998.01.1.016798-9, ajuizada pelo IDEC contra o Banco do Brasil S.A.
+Pedido de Suspensão do Processo
+Preliminarmente, não há falar em suspensão do processo, tendo em vista que a questão discutida nos autos não se refere às ações ajuizadas pelo IDEC contra o BAMERÍNDUS e a NOSSA CAIXA S.A., sucedido pelo Banco do Brasil S.A., uma vez que os autos cuidam de execução de sentença proferida pelo JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA - DF na Ação Civil Pública n. 1998.01.1.016798-9, ajuizada pelo IDEC contra o Banco do Brasil S.A.
+O caso, portanto, não se insere no Tema n. 948, afetado à Segunda Seção do STJ pelo em. Ministro RAUL ARAÚJO, nos autos do REsp n. 1.438.263/SP, para julgamento segundo o rito previsto no art. 1.036 do CPC/2015.
+Súmula n. 284/STF
+Nas razões recursais, o recorrente não indicou a legislação federal objeto de afronta pela Corte de origem ao argumentar sobre: (a) a proibição de incluir, nos cálculos, juros remuneratórios não previstos na sentença coletiva (e-STJ fls. 236/238), (b) a incidênciados juros de mora somente a partir da citação no cumprimento individual de sentença (e-STJ fls. 238/240), (c) a vedação de usoda Tabela Prática da Corte de origem para a realização da correção monetária (e-STJ fls. 240/242), (d) a impugnação dos cálculos do recorrido(e-STJ fls. 242/245)e (e) a impossibilidade de fixarhonorários de sucumbência no cumprimento individual de sentença (e-STJ fls. 248/249).
+Ausente citada providência, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF, como óbice ao recurso.
+A propósito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula 284 do STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+Súmula n. 284/STF - Alcance normativo
+A fim de sustentar a necessidade de prévia liquidação da sentença coletiva genérica, para lhe conferir eficácia executiva ao definir a titularidade e o valor do crédito objeto de execução, o recorrente apontou tão somente afronta ao art. 97 do CDC, o qual não possui, isoladamente, alcance normativo para amparar referida tese.
+Dessa forma, a fundamentação recursal mostra-se deficiente, atraindo a aplicação, por analogia, da Súmula n. 284/STF, como óbice ao recurso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR. EXCEÇÃO DE INCOMPETÊNCIA. 1. FORO DE ELEIÇÃO. COMPETÊNCIA FIRMADA PELO TRIBUNAL LOCAL COM BASE NA ANÁLISE DA EXORDIAL, NA TROCA DE CORRESPONDÊNCIA ELETRÔNICA ENTRE AS PARTES E NOS TERMOS DO CONTRATO. CONTROVÉRSIA DOS AUTOS QUE SE RELACIONA À LIQUIDAÇÃO DAS OBRIGAÇÕES DO DISTRATO. SÚMULAS 5 E 7 DO STJ. 2. INVOCAÇÃO DE VIOLAÇÃO DOS ARTS. 87 E 263 DO CPC/1973. AUSÊNCIA DE PERTINÊNCIA COM O OBJETO DA LIDE. SÚMULA 284 DO STF. 3. AGRAVO IMPROVIDO.
+(..)
+2. Os comandos normativos dos arts. 87 e 263 do CPC/1973 não guardam pertinência com o tema da controvérsia. Incide, portanto, a Súmula 284 do STF.
+3. Agravo improvido.
+(AgInt no AREsp n. 1.069.872/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. DESPESAS COM DEPÓSITO E ESTADIA DE VEÍCULOS. CONSTRIÇÃO JUDICIAL. DISPOSITIVO LEGAL QUE NÃO AMPARA A TESE SUSTENTADA PELA INSURGENTE. INCIDÊNCIA DA SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Alegação de incidência de dispositivos legais que não se referem à matéria tratada nos autos. A indicação de dispositivo legal que não ampara a pretensão recursal atrai a incidência da Súmula 284/STF.
+(..)
+3. Agravo regimental desprovido.
+(AgRg no AREsp 616.268/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/8/2015, DJe 17/8/2015.)
+Legitimidade ativa e abrangência dos efeitos da sentença coletiva
+O Tribunal de origem reconheceu, além da abrangência nacional da sentença proferida na ação civil pública ajuizada pelo IDEC, a legitimidade ativa da parte recorrida para a propositura do cumprimento de sentença, independentemente de prova de sua filiação à entidade de classe à época do ajuizamento da demanda coletiva (e-STJ fls. 189/194).
+A decisão da Corte local, em tais pontos, está em sintonia com o entendimento firmado pela Segunda Seção no REsp n. 1.391.198/RS, julgado sob o rito do art. 543-C do CPC/1973, a respeito dos temas. Confira-se:
+AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL). EXPURGOS INFLACIONÁRIOS OCORRIDOS EM JANEIRO DE 1989 (PLANO VERÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil: a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal;
+b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798-9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+2. Recurso especial não provido.
+(REsp n. 1.391.198/RS, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 2/9/2014.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "a" quanto àqueles fundamentados pela alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
