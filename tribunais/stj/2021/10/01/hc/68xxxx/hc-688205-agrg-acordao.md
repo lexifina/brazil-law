@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porEDSON AUGUSTO FERREIRA e por RONALDO ALVES DOS SANTOS contra a decisão de fls. 51-54, quenão conheceu dohabeas corpusimpetrado em seu favor, em que fora apontado como autoridade coatora o Tribunal de Justiça do Estadode São Paulo (HC n. 2140922-28.2021.8.26.0000).
+Os agravantes tiveram a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 19-22) e foram denunciados por suposta prática do delito de furto em concurso de agentes.
+Em suas razões, alegam queestão sendo vítimas de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar. Afirmam que não há motivo idôneo para a decretação da preventiva e que o crime não envolve violência ou grave ameaça.
+Defendem a possibilidade de adoção de medidas cautelares, considerando a situação emergencial de saúde pública decorrente da covid-19.
+Requerem seja o presente agravo recebido e provido a fim de que seja expedidoalvará de solturae/ousubstituída a prisão preventiva por medidas cautelares alternativas.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. FURTO.PRISÃO PREVENTIVA.AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA.SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE. RECOMENDAÇÃO CNJ N. 62/2020. CARÁTER EXCEPCIONAL DA MEDIDA. NÃO COMPROVAÇÃO.AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPPimpede a aplicação dasmedidas cautelares alternativas previstas no art. 319 do CPP.
+2.A Recomendação CNJ n. 62/2020 não prescreve a flexibilização da medida extrema da prisão de forma automática, sendo indispensável a demonstração do inequívoco enquadramento do presono grupo de vulneráveis à covid-19, da impossibilidade de receber tratamento médico na unidade carcerária em que se encontra e da exposição a maior risco de contaminação no estabelecimento prisional do que no ambiente social.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração dehabeas corpusem substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 26-28, destaquei):
+Vale dizer,existem indícios de que os pacientes cometeram crime de furto tentado, sendo surpreendidos enquanto se encontravam no interior de um imóvel subtraindo ferros, louças, fiação e tubulação (fls. 08/12),numa ação que traduz um acentuado grau de culpabilidade da conduta.
+4. Pois bem, assentado o "fumus comissi delicti", a hipótese enseja a prisão preventiva dos pacientes Edson e Ronaldo.
+Edson possui condenação pela prática do crime de tráfico ilícito de entorpecentes(fls. 126/127).
+E uma análise mais detida dos autos evidencia que, embora não conste nenhuma condenação na certidão estadual de distribuições criminais deRonaldo(fls. 135),trata-se de paciente reincidente e portador de maus antecedentes por condenações criminais no Estado de Sergipe, tendo cumprido a última pena em 2018(fls. 159/163).
+Ou seja, tem-se um quadro, para os dois pacientes, de reiteração delitiva.
+O cenário sugere que, em liberdade, existe uma significativa probabilidade de que os pacientes voltem a delinquir. Deveras, conforme leciona GUILHERME DE SOUZA NUCCI, a reiteração na prática criminosa "é motivo suficiente para constituir gravame à ordem pública, justificador da decretação da prisão preventiva".
+Circunstâncias concretas a revelar que a colocação dos pacientes em liberdade representa um perigo para a segurança pública.Trata-se de um quadro a autorizar a prisão preventiva para garantia da ordem pública.
+Deveras, "a preservação da ordem pública não se restringe às medidas preventivas da irrupção de conflitos e tumultos, mas abrange também a promoção daquelas providências de resguardo à integridade das instituições, à credibilidade social e ao aumento da confiança da população nos mecanismos oficiais de repressão às diversas formas de delinqüência" (STJ, HC nº 89.467,rel. Min. Napoleão Nunes Maia Filho).
+Na lição de JULIO FABBINI MIRABETE, a prisão preventiva para garantia da ordem pública justifica-se como medida a evitar que o agente "pratique novos crimes contra a vítima ou qualquer outra pessoa, quer porque seja acentuadamente propenso à prática delituosa, quer porque, em liberdade, encontrará os mesmos estímulos relacionados com a infração cometida" (Código de Processo Penal Interpretado, Saraiva, 11ª edição, pág. 803).
+Fatores a desnudar que a prisão preventiva, por ora, mostra-se necessária, não sendo possível a substituição por outra medida cautelar, nem tampouco a prisão domiciliar.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Na situação dos autos, os maus antecedentes e o risco de reiteração delitivajustificam a imposição da medida extrema para garantia da ordem pública, em detrimento das demais cautelares substitutivas.
+Registre-se ainda que a existência de maus antecedentes e a reincidência justificam aprisão preventiva como forma de evitar a reiteração delitiva e garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+Assim, como não foram demonstradas as situações descritas, não se verifica o cabimento da adoção de medidas cautelares diversas da prisão.
+Inviáveis, portanto, as teses recursais suscitadas.
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
