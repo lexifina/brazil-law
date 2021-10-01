@@ -1,0 +1,17 @@
+DECISÃO
+    Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo que, ao fundamento de inadequação do controle concentrado de constitucionalidade para impugnar atos normativos de efeitos concretos, decretou a extinção, sem resolução de mérito, daquela ação. O correspondente acórdão recebeu a seguinte ementa:
+    "AÇÃO DIRETA DE INCONSTITUCIONALIDADE – LEI COMPLEMENTAR Nº 311, DE 12 DE JULHO DE 2019, DO MUNICÍPIO DE BRODOWSKI, QUE 'DISPÕE SOBRE A AUTORIZAÇÃO PARA DOAÇÃO DE ÁREA DE TERRENO DE PROPRIEDADE DO MUNICÍPIO PARA A ORDEM DOS ADVOGADOS DO BRASIL – SEÇÃO DE SÃO PAULO (OAB SP)' – ATO NORMATIVO DE EFEITOS CONCRETOS, SEM CARACTERÍSTICAS DE GENERALIDADE E ABSTRAÇÃO – LEI DESPROVIDA DE DENSIDADE NORMATIVA SUFICIENTE PARA SER QUESTIONADA PELA VIA DA AÇÃO DIRETA – IMPOSSIBILIDADE DE CONTROLE ABSTRATO DE CONSTITUCIONALIDADE PRECEDENTES DO C. ÓRGÃO ESPECIAL E DO E. SUPREMO TRIBUNAL FEDERAL – EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DE MÉRITO, COM FUNDAMENTO NO ARTIGO 485, INCISO IV, DO CÓDIGO DE PROCESSO CIVIL.
+    Não se mostra hábil à instauração da jurisdição constitucional abstrata a impugnação de atos normativos de efeitos concretos, ainda que editados sob a roupagem de lei formal.”
+    O recorrente alega violação a dispositivos da Constituição Federal, requerendo, ao final, seja declarada a “inconstitucionalidade da Lei Complementar nº 311, de 12 de julho de 2019, do Município de Brodowski/SP”.
+    Esse o sucinto relatório. Decido.
+    Correto o acórdão recorrido.
+    O entendimento jurisprudencial, no âmbito desta Corte, se encontra consolidado no sentido de que não são admitidas como objeto de ação direta de inconstitucionalidade leis de efeitos concretos, porque desprovidas dos necessários aspectos de generalidade e abstração.
+    Tal entendimento tem se amparado no escopo de se prestigiar a autonomia das deliberações das Assembleias Legislativas dos Estados-membros, em respeito à expressão da vontade popular e à representatividade democrática. Nesse sentido, em casos fronteiriços, há, entre muitos outros, os seguintes precedentes: ADI 4.040/DF, Ministra Cármen Lúcia; ARE 1.250.047/GO, Ministro Ricardo Lewandowski; ADI 1.372-MC/RJ, Ministro Celso de Mello; ARE 1.013.117/SP, Ministro Edson Fachin.
+    Nesse contexto, tendo em vista que a lei alusiva à doação de bem imóvel específico à Seccional de São Paulo da Ordem dos Advogados do Brasil não ostenta natureza de norma geral e abstrata, mas se reveste, sim, de caráter individual e apresenta efeitos concretos, o Tribunal Estadual decidiu em conformidade com a aludida jurisprudência consolidada.
+    Em face do exposto, com amparo no inciso VIII do art. 932 do Código de Processo Civil, nego provimento ao recurso extraordinário.
+    Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo por que, na hipótese de descabimento ou de ausência de fixação anterior – como na espécie dos autos –, a sua incidência é indevida.
+    Nesse sentido, entre muitos outros, os seguintes acórdãos proferidos no Superior Tribunal de Justiça: AgInt no REsp 1.341.886/SP, DJ de 30.5.2019; EDcl no REsp 1.731.612/RS, DJ de 23.4.2019; e AgInt no AREsp 1.167.338/DF, DJ de 26.3.2019.
+    Publique-se.
+Brasília, 1º de outubro de 2021.
+Ministro NUNES MARQUES
+Relator
