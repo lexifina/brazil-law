@@ -1,0 +1,17 @@
+DECISÃO
+DAGMAR BRAZ MATHIAS (DAGMAR) ajuizou ação de obrigação cumulada com repetição de indébito edanos morais contra ATHIA PLANO DE BENEFÍCIOS LTDA (ATHIA) .
+Em primeira instância, os pedidos foram julgados parcialmente procedentes, a fim de (1) impor à empresa requerida a obrigação de corrigir a metodologia de aplicação do índice de reajuste anual do valor da mensalidade (IGP-M/FGV), aplicando o índice cumulado no período de janeiro a dezembro do ano imediatamente anterior ao reajuste; (2) condenar ATHIA a restituir à parte autora os valores cobrados a mais, em decorrência da não aplicação da metodologia de reajuste fixada no item "a", alusivo ao período de 2018/2019, com atualização monetária (Tabela Prática do TJSP) desde cada desembolso e com juros moratórios (1% ao mês) desde a citação; e, (3) julgar Improcedente o pedido de indenização por danos morais, por não configuração do instituto; e, (4) fixar a sucumbência recíproca (e-STJ, fls. 120/129).
+Apelaram as partes.
+O Tribunal bandeirante negou provimento aos recursos, em acórdão da lavra do Des. CRISTINA ZUCCHI, assim ementado:
+PRESTAÇÃO DE SERVIÇOS FUNERÁRIOS. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. EMISSÃO DE CARNÊS COM REAJUSTE SUPERIOR AO FIXADO CONTRATUALMENTE. PREVISÃO CONTRATUAL QUANTO À POSSIBILIDADE DE REAJUSTE, NÃO QUANTO À SUA OPERACIONALIZAÇÃO DE FORMA UNILATERAL. RESTITUIÇÃO DAS QUANTIAS PAGAS A MAIOR DEVIDA. RESTITUIÇÃO EM DOBRO.
+DESCABIMENTO. AUSÊNCIA DE PROVA DA MÁ-FÉ DA RÉ OU DO INTUITO DE PREJUDICAR O CONSUMIDOR COM O LANÇAMENTO DAS COBRANÇAS. DANOS MORAIS NÃO CONFIGURADOS. MERO DESCUMPRIMENTO CONTRATUAL QUE NÃO É ENSEJADOR DO DANO MORAL. SENTENÇA DE PARCIAL PROCEDENCIA MANTIDA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELA ATUAÇÃO NESTA SEDE RECURSAL (ART. 85, §§ 2.º, 8º E 11, DO CPC).
+Apelações não providas.(e-STJ, fl. 241).
+Os embargos de declaração opostos por ATHIA foram rejeitados (e-STJ, fls. 268/274).
+No recurso especial, fundado no art. 105, III, a, da CF, ATHIA alegou violação do art. 4º, III, e 47 do CDC; 489, § 1º, IV e 1022, II, ambos do NCPC, ao sustentar que (1) os acórdãos proferidos em apelação e nos embargos de declaraçãodesconsideram toda a logística e operacionalização de confecção e envio de carnês aos clientes, adotando fundamento da r. sentença de que seriam questões apenas da álea empresarial, violando, assim, o que dispõe o código consumerista, em seu artigo 4º, III, que resguardou o equilíbrio e harmonização dos interesses das duas partes da relação jurídica (empresa e consumidor); e, (2) a aplicação da metodologia da empresa na correção das parcelas do plano funerário adquirido por DAGMAR não implica prejuízo ao consumidor.
+Após a apresentações das contrarrazões, o recurso foi inadmitido na origem, ao entender que não foram violados os dispositivos arrolados e pela incidência da Súmula n. 7 do STJ(e-STJ, fls. 276/288).
+Nas razões do agravo em recuso especial, ATHIA afirmou que seu recurso merecia trânsito, porque preenchidos os requisitos necessários à admissibilidade, refutando, ademais, a incidência da Súmula n. 7 do STJ (e-STJ, fls. 312/321).
+Foi apresentada contraminuta (e-STJ, fls. 324/327).
+É o relatório.
+DECIDO.
+Para melhor examinar as controvérsias suscitadas, CONHEÇO do agravo para determinar a sua autuação como recurso especial (art. 253, II, d, do Regimento Interno do STJ).
+Publique-se. Intimem-se.
