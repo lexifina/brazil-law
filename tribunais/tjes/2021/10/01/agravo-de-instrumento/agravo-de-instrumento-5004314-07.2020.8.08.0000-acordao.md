@@ -1,0 +1,289 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+1ª CÂMARA CÍVEL
+
+PROCESSO Nº
+5004314-07.2020.8.08.0000
+AGRAVO DE INSTRUMENTO (202)
+AGRAVANTE: ANA MARIA CARDOSO DOS SANTOS DAZZI
+AGRAVADO: INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS DO MUNICIPIO DE VILA VELHA (ES)- IPVV e outros
+RELATOR(A
+):EWERTON SCHWAB PINTO JUNIOR
+
+Composição de julgamento: 023 - Gabinete Des. EWERTON SCHWAB PINTO JÚNIOR - EWERTON SCHWAB PINTO JUNIOR - Relator / 005 - Gabinete Des. ANNIBAL DE REZENDE LIMA - ANNIBAL DE REZENDE LIMA - Vogal / 008 - Gabinete Des. FABIO CLEM DE OLIVEIRA - FABIO CLEM DE OLIVEIRA - Vogal
+_______________________________________________________________________________________________________________________________________________________________________________
+
+NOTAS ORAIS
+
+PRIMEIRA CÂMARA CÍVEL
+
+31/08/2021
+
+V O T O
+
+(PEDIDO DE VISTA)
+
+QUESTÃO DE ORDEM*
+
+O SR. DESEMBARGADOR ANNIBAL DE REZENDE LIMA:-
+
+Estou suscitando uma Questão de Ordem e submetendo-a ao entendimento de Vossas Excelências.
+
+*(Questão de Ordem juntada ao Processo Eletrônico)
+
+*
+
+V
+
+O
+
+T
+
+O**
+
+O SR. DESEMBARGADOR EWERTON SCHWAB PINTO JÚNIOR (RELATOR):-
+
+Tenho condições de votar, Presidente.
+
+Recebi e preparei a manifestação e encaminhei também a Vossa Excelência e aos eminentes Pares.
+
+Vossa Excelência suscitou a Questão de Ordem referente à ausência
+
+de apreciação
+
+do capítulo recursal, em que a recorrente pretende o recebimento
+
+da proporcionalidade do seu sexênio, totalizando
+
+4% (quatro por cento).
+
+Em meu voto digo que a agravante recebe 35 % (trinta e cinco por cento) pelos triênios completados no cargo. Todavia, não foi contemplada pela proporcionalidade do sexênio, no importe de 4% (quatro por cento).
+
+A meu sentir agiu com acerto o culto magistrado de Primeiro Grau, tendo em vista
+
+a impossibilidade de cumulação
+
+de duas vantagens provenientes
+
+de um mesmo fato gerador, o que ocasionaria a denominada sobreposição
+
+de vantagens, instituto vedado pelo nosso Ordenamento Jurídico.
+
+Trago um julgado do eminente Desembargador Álvaro Manoel Rosindo Bourguignon da Primeira Câmara Cível, o Relator foi substituído pelo Desembargador Délio Rocha Sobrinho, e também um julgado de Relatoria de Vossa Excelência, desta Primeira Câmara de 10 de maio de
+
+2011.
+
+Concluo, Presidente, com os acréscimos das razões acima expostas. Estou também rejeitando o pedido da agravante referente ao recebimento do sexênio
+
+proporcional
+
+ao tempo de serviço prestado à municipalidade, mantendo
+
+o restante do voto
+
+em seus demais termos.
+
+É como voto, Senhor Presidente.
+
+**(Voto juntado ao Processo Eletrônico)
+
+*
+
+V O T O S
+
+O SR. DESEMBARGADOR FABIO CLEM DE OLIVEIRA:-
+
+Acompanho o voto do eminente Relator.
+
+*
+
+O SR. DESEMBARGADOR ANNIBAL DE REZENDE LIMA:-
+
+Também estou acompanhando o eminente Relator.
+
+*
+
+con*
+
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+
+AGRAVO DE INSTRUMENTO N. 5004314-07.2020.8.08.0000
+
+AGRAVANTE: ANA MARIA CARDOSO DOS SANTOS DAZZI
+
+AGRAVADOS: INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS DO MUNICIPIO DE VILA VELHA (ES)- IPVV E MUNICIPIO DE VILA VELHA
+
+RELATOR: DES. EWERTON SCHWAB PINTO JÚNIOR
+
+QUESTÃO DE ORDEM
+
+Pedi vista dos presentes autos após o voto proferido pelo eminente e culto Relator, Desembargador Ewerton Schwab Pinto Júnior, que conheceu e deu parcial provimento ao presente agravo de instrumento, no que foi acompanhado pelo não menos eminente e culto Desembargador Fabio Clem de Oliveira.
+
+Rememoro cuidarem os autos de agravo de instrumento interposto contra decisão parcial de mérito que, na origem, jugou parcialmente procedente a pretensão autoral para condenar os Agravados ao pagamento dos valores correspondentes à assiduidade, de 19% (dezenove por cento), respeitada a prescrição quinquenal, bem como
+improcedentes
+os pedidos de danos morais, abono, e adicional de tempo de serviço, ficando pendente de exame o pedido de gratificação de produtividade, visto estar pendente de julgamento o Incidente de Resolução de Demandas Repetitivas (IRDR) sobre a matéria.
+
+Após atenta leitura das razões recursais e do voto proferido pelo eminente Relator, verifico, salvo melhor juízo, que não foi apreciado o pedido constante no capítulo recursal intitulado “DA CORREÇÃO DO PERCENTUAL E BASE DE CÁLCULO TRIÊNIO E DA PROPORCIONALIDADE E BASE DE CÁLCULO SEXENIO”, o que poderia, em tese, ensejar a nulidade do presente julgamento.
+
+Ante o exposto, suscito a presente questão de ordem, submetendo-a ao eminente e culto Relator, Desembargador Ewerton Schwab Pinto Júnior, relativamente à ausência de apreciação do aludido capítulo das razões recursais do Agravante.
+
+É como me manifesto.
+
+VOTO VENCEDOR
+
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+1ª Câmara Cível
+Endereço: Rua Desembargador Homero Mafra 60, 60, Enseada do Suá, VITÓRIA - ES - CEP: 29050-906
+Número telefone:( )
+
+Processo nº
+5004314-07.2020.8.08.0000
+
+AGRAVO DE INSTRUMENTO (202)
+
+AGRAVANTE: ANA MARIA CARDOSO DOS SANTOS DAZZI
+
+Advogado do(a) AGRAVANTE: GUILHERME CIPRIANO DAL PIAZ - ES15863
+AGRAVADO: INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS DO MUNICIPIO DE VILA VELHA (ES)- IPVV, MUNICIPIO DE VILA VELHA
+
+VOTO
+
+Preliminar de Não Conhecimento do Recurso
+
+O artigo 1.015, inciso II, do Código de Processo Civil, prevê que é cabível o recurso de agravo de instrumento contra decisão que aprecia o mérito do processo.
+
+Trilha essa senda o nosso egrégio Sodalício:
+
+A hipótese de cabimento prevista no art. 1.015, II, do Código de Processo Civil, abrange não apenas a decisão parcial de mérito que resolve algum dos pedidos cumulados ou parte deles, mas, também, àquela que decide sobre a prescrição ou decadência.
+(TJES, Classe: Agravo de Instrumento, 024209002633, Relator: ANNIBAL DE REZENDE LIMA, Órgão julgador: PRIMEIRA CÂMARA CÍVEL, Data de Julgamento: 26/01/2021, Data da Publicação no Diário: 03/02/2021).
+
+O Agravo de Instrumento é cabível nas hipóteses previstas no art. 1.015 do CPC, podendo ser interposto contra decisão interlocutória que verse sobre o mérito do processo, nos termos do inc. II do referido dispositivo. No caso dos autos, o Recurso ora manejado busca reformar Sentença parcial de mérito, ou seja, uma decisão interlocutória que versa sobre o mérito do processo e, assim, a sua interposição mostra-se em consonância com o regramento processual. Sendo assim, não merece abrigo a preliminar arguida, de não cabimento do Recurso.
+(TJES, Classe: Agravo de Instrumento, 011199002087, Relator: ARTHUR JOSÉ NEIVA DE ALMEIDA, Órgão julgador: QUARTA CÂMARA CÍVEL, Data de Julgamento: 27/01/2020, Data da Publicação no Diário: 10/02/2020).
+
+Na origem, o Juízo singular acolheu o pedido referente ao adicional de assiduidade e postergou a análise do pedido de recebimento da gratificação de produtividade em razão da suspensão da matéria pelos IRDR’s nºs 0033536-47.2016.8.08.0000 e 0038064-27.2016.8.08.0000.
+
+Assim, por se tratar a decisão recorrida de interlocutória parcial de mérito, a interposição de agravo de instrumento mostra-se adequada e cabível ao caso, motivo pelo qual,
+REJEITO
+a preliminar de não conhecimento do recurso suscitada pelos agravados.
+
+É como voto.
+
+VOTO
+
+Preliminar de Julgamento
+Citra Petita
+
+Carece de melhor sorte a preliminar de julgamento
+citra petita
+, uma vez que as matérias relativas à responsabilidade dos agravados pelo recolhimento da parcela previdenciária, pela correção dos cálculos do triênio e sexênio, bem como em relação ao abono da Lei nº 5.458/2013 foram apreciadas no bojo da presente decisão recorrida, bem como pelo
+decisum
+integrativo, proferido em sede de recurso de embargos de declaração.
+
+Referidos pedidos foram rejeitados pelo Juízo primevo e serão reexaminados na análise do mérito do presente recurso de agravo de instrumento.
+
+Diante dos argumentos acima expostos,
+REJEITO
+a preliminar de julgamento
+citra petita
+.
+
+É como voto.
+
+VOTO
+
+Preliminar de Prescrição do Fundo de Direito
+
+Desnecessárias maiores digressões para refutar a presente preliminar, tendo em vista que o adicional de assiduidade é devido todo mês, sendo, portanto, uma relação de trato sucessivo.
+
+Dessa forma, mostra-se escorreita a r. decisão recorrida, ao reconhecer a prescrição tão somente das parcelas vencidas antes do quinquênio anterior à propositura da ação originária.
+
+Diante do exposto,
+REJEITO
+a preliminar de prescrição do fundo de direito.
+
+É como voto.
+
+VOTO
+
+Mérito
+
+Conforme relatado, trata-se de recurso de agravo de instrumento, sem pedido de efeito suspensivo, interposto em face da r. decisão que nos autos do processo nº 0018586-88.2017.8.08.0035, julgou parcialmente procedentes os pedidos da requerente, ora agravante, a fim de condenar os requeridos, ora agravados, ao pagamento dos valores correspondentes à assiduidade, de 19% (dezenove por cento) desde a data devida e respeitada a prescrição quinquenal, prevista no art. 1º do DL 20.910/32.
+
+Inicialmente, quanto a responsabilidade pelo recolhimento da parcela previdenciária por parte dos agravados, entendo da mesma forma que o ilustre magistrado singular, uma vez que o recolhimento previdenciário sobre eventual parcela devida à agravante decorre de lei própria, razão pela qual, dispensa-se a manifestação do Poder Judiciário quanto a este pedido.
+
+Noutro giro, o percentual referente ao adicional de assiduidade somente pode incidir sobre o vencimento/provento base, não podendo recair sobre outras vantagens pessoais e gratificações.
+
+Assim, agiu com acerto o culto magistrado singular ao indicar os reflexos apenas sobre o décimo terceiro e o terço de férias, consoante disposto, na Lei Complementar nº 06/2002 do Município de Vila Velha/ES.
+
+No que pertine ao abono previsto na Lei nº 5.458/13, destinado aos servidores da ativa, entendo não assistir razão à agravante.
+
+Os artigos 1º e 3º, da referida legislação preveem,
+in verbis
+:
+
+Art. 1º. O Poder Executivo Municipal de Vila Velha concederá abono no valor de R$ 1.200,00 (mil e duzentos reais) aos servidores do magistério em exercício, sejam efetivos, contratados e/ou comissionados, na condição de professores, pedagogos e coordenadores, lotados na Secretaria Municipal de Educação – SEMED.
+
+Art. 3º. Os abonos a que se referem os arts. 1º e 2º serão concedidos em reconhecimento aos relevantes serviços prestados e como incentivo à atuação desses profissionais em suas atribuições, no alcance de metas de aprendizagem ainda mais expressivas para os alunos da Rede Municipal de Ensino.
+
+Da leitura dos aludidos dispositivos legais, extrai-se que o abono em questão é destinado apenas aos servidores da ativa e em determinado período, não se estendendo aos servidores inativos.
+
+Assim, não prospera o argumento da agravante quanto ao recebimento do abono em respeito à regra da paridade.
+
+Ademais, revela-se escorreita a r. decisão ao reconhecer a sucumbência recíproca das partes, na proporção de 1/4 (um quarto) para os agravados e 3/4 (três quartos para a agravante), já que dos 04 (quatro) pedidos da recorrente, apenas 01 (um) foi acolhido, sendo os outros 03 (três) rejeitados.
+
+Todavia, a fixação equitativa não se mostra correta, tendo em vista a iliquidez da sentença parcial de mérito prolatada pelo Juízo primevo, fato que torna imperiosa a aplicação do artigo 85, § 4º, inciso II, do Código de Processo Civil, a fim de que se postergue a fixação do percentual dos honorários advocatícios para após a liquidação do julgado, devendo, na ocasião, ser observado o escalonamento previsto no artigo 85, § 3º, incisos I a V, do mesmo diploma legal.
+
+Sob os argumentos acima expostos,
+CONHEÇO
+e
+DOU PARCIAL PROVIMENTO
+ao presente recurso de agravo de instrumento, a fim de
+REFORMAR
+a r. decisão vergastada e postergar a fixação do percentual dos honorários advocatícios para após a liquidação do julgado, devendo, na ocasião, ser observado o escalonamento previsto no artigo 85, § 3º, incisos I a V, do Código de Processo Civil.
+
+É como voto.
+
+VOTO
+
+Questão de Ordem
+
+O eminente e culto Desembargador Annibal de Rezende Lima suscitou questão de ordem referente à ausência de apreciação do capítulo recursal em que a recorrente pretende o recebimento da proporcionalidade do seu sexênio, totalizando 4% (quatro por cento).
+
+De fato, assiste razão a Vossa Excelência, razão pela qual, acolho a questão de ordem suscitada e passo a examinar o capítulo recursal acima indicado.
+
+Conforme narrado na peça recursal, a agravante recebe 35% (trinta e cinco por cento) pelos triênios completados no cargo, todavia, não foi contemplada pela proporcionalidade do sexênio, no importe de 4% (quatro por cento).
+
+A meu sentir, agiu com acerto o culto magistrado singular, tendo em vista a impossibilidade de cumulação de duas vantagens provenientes de um mesmo fato gerador, o que ocasionaria a denominada “sobreposição de vantagens”, instituto vedado pelo nosso ordenamento jurídico.
+
+Segue aresto do nosso colendo Sodalício:
+
+Neste particular, ainda é importante registrar que, em contrarrazões, fora asseverado que o recorrente não recebe o adicional em tela em razão de orientação do TCE⁄ES, haja vista que o apelante percebe licença-prêmio, incorporada no percentual de 25% em sua remuneração, que possui a mesma razão de existir da assiduidade (tempo de serviço), sendo vedado pelo ordenamento a sobreposição de vantagens provenientes de um mesmo fato gerador. (TJES, Classe: Apelação, 35040070316, Relator: ANNIBAL DE REZENDE LIMA, Órgão julgador: PRIMEIRA CÂMARA CÍVEL, Julgamento: 10⁄05⁄2011, Publicação: 07⁄06⁄2011).
+(TJES, Classe: Agravo de Instrumento, 035179002429, Relator: ÁLVARO MANOEL ROSINDO BOURGUIGNON - Relator Substituto: DELIO JOSE ROCHA SOBRINHO, Órgão julgador: SEGUNDA CÂMARA CÍVEL, Data de Julgamento: 26/09/2017, Data da Publicação no Diário: 10/10/2017).
+
+Dessa forma, com os acréscimos das razões acima expostas, rejeito o pedido da agravante referente ao recebimento do sexênio proporcional ao tempo de serviço prestado à Municipalidade.
+
+É como voto.
+
+VOTOS VOGAIS
+005 - Gabinete Des. ANNIBAL DE REZENDE LIMA - ANNIBAL DE REZENDE LIMA (Vogal)
+Proferir voto escrito divergente
+008 - Gabinete Des. FABIO CLEM DE OLIVEIRA - FABIO CLEM DE OLIVEIRA (Vogal)
+Acompanhar
+
+EMENTA
+
+EMENTA: AGRAVO DE INSTRUMENTO. PRELIMINARES DE NÃO CONHECIMENTO DO RECURSO, DE JULGAMENTO
+CITRA PETITA
+E DE PRESCRIÇÃO DO FUNDO DE DIREITO REJEITADAS. MÉRITO. RECOLHIMENTO DA PARCELA PREVIDENCIÁRIA. DECORRÊNCIA DE LEI. ADICIONAL DE ASSIDUIDADE QUE INCIDE APENAS NO DÉCIMO TERCEIRO SALÁRIO E NO 1/3 (UM TERÇO) DE FÉRIAS. SEXÊNIO. IMPOSSIBILIDADE CUMULAÇÃO DE DUAS VANTAGENS COM O MESMO FATO GERADOR. ABONO DA LEI Nº 5.458/13. DEVIDO AOS SERVIDORES DA ATIVA. AUSÊNCIA DE PARIDADE QUANTO AOS INATIVOS. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. FIXAÇÃO EQUITATIVA. IMPOSSIBILIDADE. VALORES ILÍQUIDOS. PERCENTUAL A SER FIXADO APÓS A LIQUIDAÇÃO DA SENTENÇA. OBSERVÂNCIA DO ESCALONAMENTO DO PERCENTUAL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. O artigo 1.015, inciso II, do Código de Processo Civil, prevê que é cabível o recurso de agravo de instrumento contra decisão que aprecia o mérito do processo. Na origem, o Juízo singular acolheu o pedido referente ao adicional de assiduidade e postergou a análise do pedido de recebimento da gratificação de produtividade em razão da suspensão da matéria pelos IRDR’s nºs 0033536-47.2016.8.08.0000 e 0038064-27.2016.8.08.0000. Assim, por se tratar a decisão recorrida de interlocutória parcial de mérito, a interposição de agravo de instrumento mostra-se adequada e cabível ao caso. Preliminar rejeitada. 2. Carece de melhor sorte a preliminar de julgamento citra petita, uma vez que as matérias relativas à responsabilidade dos agravados pelo recolhimento da parcela previdenciária, bem como em relação ao abono da Lei nº 5.458/2013 foram apreciadas no bojo da presente decisão recorrida, bem como pelo decisum integrativo, proferido em sede de recurso de embargos de declaração. Ambos os pedidos foram rejeitados pelo Juízo primevo e serão reexaminados na análise do mérito do presente recurso de agravo de instrumento. Preliminar rejeitada. 3. Desnecessárias maiores digressões para refutar a presente preliminar, tendo em vista que o adicional de assiduidade é devido todo mês, sendo, portanto, uma relação de trato sucessivo. Dessa forma, mostra-se escorreita a r. decisão recorrida, ao reconhecer a prescrição tão somente das parcelas vencidas antes do quinquênio anterior à propositura da ação originária. Preliminar rejeitada. 4. Mérito: Inicialmente, quanto a responsabilidade pelo recolhimento da parcela previdenciária por parte dos agravados, entendo da mesma forma que o ilustre magistrado singular, uma vez que o recolhimento previdenciário sobre eventual parcela devida à agravante decorre de lei própria, razão pela qual, dispensa-se a manifestação do Poder Judiciário quanto a este pedido. 5. Noutro giro, o percentual referente ao adicional de assiduidade somente pode incidir sobre o vencimento/provento base, não podendo recair sobre outras vantagens pessoais e gratificações. Assim, agiu com acerto o culto magistrado singular ao indicar os reflexos apenas sobre o décimo terceiro e o terço de férias, consoante disposto, na Lei Complementar nº 06/2002 do Município de Vila Velha/ES. 6.
+Conforme narrado na peça recursal, a agravante recebe 35% (trinta e cinco por cento) pelos triênios completados no cargo, todavia, não foi contemplada pela proporcionalidade do sexênio, no importe de 4% (quatro por cento).
+
+7.
+
+A meu sentir, agiu com acerto o culto magistrado singular, tendo em vista a impossibilidade de cumulação de duas vantagens provenientes de um mesmo fato gerador, o que ocasionaria a denominada “sobreposição de vantagens”, instituto vedado pelo nosso ordenamento jurídico. 8.
+No que pertine ao abono previsto na Lei nº 5.458/13, destinado aos servidores da ativa, entendo não assistir razão à agravante. 9. Da leitura dos artigos 1º e 3º, da Lei nº 5.458/13, extrai-se que o abono em questão é destinado apenas aos servidores da ativa e em determinado período, não se estendendo aos servidores inativos. 10. Assim, não prospera o argumento da agravante quanto ao recebimento do abono em respeito à regra da paridade. 11. Ademais, revela-se escorreita a r. decisão ao reconhecer a sucumbência recíproca das partes, na proporção de 1/3 (um terço) para os agravados e 2/3 (dois terços para a agravante), já que dos 03 (três) pedidos da recorrente, apenas 01 (um) foi acolhido, sendo os outros 02 (dois) rejeitados. 12. Todavia, a fixação equitativa não se mostra correta, tendo em vista a iliquidez da sentença parcial de mérito prolatada pelo Juízo primevo, fato que torna imperiosa a aplicação do artigo 85, § 4º, inciso II, do Código de Processo Civil, a fim de que se postergue a fixação do percentual dos honorários advocatícios para após a liquidação do julgado, devendo, na ocasião, ser observado o escalonamento previsto no artigo 85, § 3º, incisos I a V, do mesmo diploma legal.
+
+DECISÃO
+À unanimidade, rejeitar as preliminares e, no mérito, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
