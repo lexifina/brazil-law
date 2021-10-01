@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, fundamentado no art. 105, inciso III, alínea "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 555 e-STJ):
+Apelação cível. Plano de saúde. Autor menor, portador de transtorno de espectro autista (TEA). Tratamento multidisciplinar segundo prescrição médica. Sentença de procedência. Inconformismo da ré. Boa-fé contratual que emana da lei civil. Proteção do CDC. Doença com cobertura contratual. Impossibilidade de limitação do número de sessões das terapias indicadas quando indispensáveis ao tratamento. Obrigação de custeio pelo plano, na rede credenciada ou mediante reembolso integral, na hipótese de ausência de profissionais e clínicas credenciados oferecerem tratamento. Manutenção da sentença. Recurso desprovido.
+Não foram opostos embargos de declaração.
+Em suas razões de recurso especial (fls. 565-585 e-STJ), a recorrente aduz a existência de dissídio jurisprudencial, afirmando que, "em situações similares à presente, este Egrégio Superior Tribunal de Justiça concedeu interpretação diversa daquela atribuída pelo E. Tribunal prolator do v. acórdão recorrido, notadamente do caso do Recurso Especial nº 1.733.013/PR, AREsp 1.610.020/SP e AREsp nº 1609480/SP, que tratam com exatidão os termos discutidos na presente demanda" (fls. 569 e-STJ). Defende, assim, a legalidade da negativa de cobertura do procedimento médico perseguido pelo segurado, eis que não está inserido no rol taxativo de procedimentos e eventos em saúde editado pela ANS.
+Sem contrarrazões, o apelo nobre foi admitido na origem.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. Em relação ao dissídio suscitado, observa-se que o recorrente deixou de apontar o dispositivo cuja interpretação foi divergente.
+Todavia, "a jurisprudência desta Corte é firme no sentido de que é imprescindível à demonstração do dissídio jurisprudencial a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria a divergência, sob pena de inviabilizar a exata compreensão da controvérsia, atraindo a aplicação da Súmula nº 284 do STF" (AgInt no REsp 1735241/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/10/2018, DJe 10/10/2018).
+Neste sentido, ainda: AgInt no REsp 1840095/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020; AgInt no AREsp 1261882/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/08/2020, DJe 18/08/2020; AgInt no AREsp 1264067/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/10/2018, DJe 15/10/2018; AgInt no AREsp 1295999/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/09/2018, DJe 01/10/2018.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nega-se provimento ao agravo e, com base no art. 85, § 11, do CPC/2015, majora-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte recorrida
+Publique-se.
+Intimem-se.
