@@ -1,0 +1,23 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por ENERGISA MATO GROSSO DISTRIBUIDORA DE ENERGIA S.A, em face de decisão prolatada pelo Juízo da 2a Vara Cível da Comarca de Primavera do Leste, nos autos da Ação Declaratória de Inexigibilidade de Débito c/c Obrigação de Fazer e danos Morais no 1006941-25.2018.8.11.0037, proposta por LUIZ ANTONIO PEREIRA, que rejeitou a insurgência quanto ao valor de honorários periciais fixados.
+A agravante alega, em síntese, que a demanda na origem tem por objeto revisão de fatura de energia elétrica e deferida pelo Juízo a produção de prova pericial, com a nomeação de perito, o qual apresentou proposta de honorários no valor de R$ 3.706,54.
+Sustenta que impugnou a proposta de honorários periciais, por entender ser excessivo o valor, mas rejeita a impugnação e homologado o valor proposto, sendo a Agravante incumbida do ônus do pagamento.
+Defende que o valor postulado de honorários periciais pelo profissional indicado pelo Juízo é desproporcional as atividades que serão desenvolvidas neste caso.
+Argumenta não ser a parte adversa hipossuficiente, devendo suportar a divisão do valor da perícia. Pontua que, para aferição da razoabilidade e proporcionalidade do quantum dos honorários periciais, é necessário observar o tempo de despendido, grau de dificuldade e custo para elaboração do laudo.
+Destaca que a proposta honorária está em desacordo com os parâmetros fixados pelo CNJ, requerendo a adequação dos valores, na linha da jurisprudência sobre o assunto, conforme recentes decisões expostas do TJ/MT.
+Consigna que “somente se admite valores que excedam os parâmetros do CNJ se a perícia for complexa (perícias extensas, que demandam longo período de trabalho, deslocamentos, estudos técnicos, exames complementares, como no caso de perícias ambientais, agropecuárias e contábil de alta extensão, por exemplo), e desde que devidamente fundamentada a decisão, como exige o art. 11 do CPC”.
+Com essas considerações, requer seja concedido o efeito suspensivo, para sobrestar os efeitos da decisão agravada. No mérito, pugna pelo provimento do recurso, para reformar o decisum e determinar o rateio dos honorários proporcionais, em igual medida, para ambas as partes, “visto que as duas se valerão das conclusões da perícia para a comprovação dos direitos e considerando que, não houve a inversão automática do ônus da prova”. Requesta ainda que os honorários periciais sejam arbitrados no valor de R$ 1.800,00.
+É o relatório.
+DECIDO
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (...)”.
+Pois bem.
+No que se refere a medida vindicada, ao analisar os argumentos apresentados pela Agravante, identifico como relevantes os fundamentos, a ensejar a concessão da medida requerida.
+Isso porque dos argumentos vertidos na peça inaugural, tenho que o caso comporta o efeito suspensivo pretendido, uma vez que a discussão cinge-se acerca da razoabilidade ou não do valor de honorários periciais, para realização de perícia para apuração do fato gerador do aumento de faturamento de energia, com proposta de honorários apresentada no valor de R$ 3.706,54 (três mil setecentos e seis reais e cinquenta e quatro centavos), que requer detida análise do caso concreto.
+Dessa forma, sem prejuízo de uma análise mais acurada após as informações do Juízo a quo e resposta do Agravado, DEFIRO a almejado efeito suspensivo, para sobrestar os efeitos da decisão agravada, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intime-se o Agravado, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Des. Sebastião BARBOSA FARIAS
+RelatorParte inferior do formulário
