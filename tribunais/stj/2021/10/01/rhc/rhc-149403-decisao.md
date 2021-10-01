@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por IDERLAN LIMA DA SILVA JUNIOR contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS no julgamento do HC n. 0809181-63.2020.8.02.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 17/4/2016, convertido em preventiva, e restou denunciado, juntamente com outros agentes, pela suposta prática dos crimes previstos no art. 121, §2º, I e IV, por três vezes, e no art. 125, caput , ambos do Código Penal (triplo homicídio qualificado e aborto provocado por terceiro). Posteriormente foram indeferidos pedidos de revogação da custódia. Em 2/5/2018 foi proferida sentença de pronúncia, ocasião na qual o Juiz sentenciante manteve a custódia antecipada. A defesa interpôs recurso em sentido estrito.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado:
+"HABEAS CORPUS. CRIMES DE HOMICÍDIO QUALIFICADO, EM CONCURSO FORMAL, E ABORTO PROVOCADO POR TERCEIRO (ART. 121, § 2º, I E IV, C/C ART. 69, C/C ART. 70, C/C ART. 125, CAPUT, TODOS DO CÓDIGO PENAL). PLEITO DE SOLTURA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO NO DECISUM SEGREGATIVO E POSSIBILIDADE DE SUBSTITUIR A PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES DIVERSAS. TESES APRESENTADAS EM HABEAS CORPUS ANTERIOR. IMPOSSIBILIDADE DE AVALIAR ARGUMENTOS REPETITIVOS DA DEFESA. OFENSA À COISA JULGADA. ALEGADO CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DO JUÍZO DEFINITIVO DE CULPA. NÃO VERIFICAÇÃO. ANÁLISE DO CASO À LUZ DO PRINCÍPIO DA RAZOABILIDADE. PACIENTE PRONUNCIADO A JÚRI POPULAR. INTELIGÊNCIA DA SÚMULA Nº 21 DO STJ. CONSTATAÇÃO DE DIVERSOS RECURSOS MANEJADOS PELOS RÉUS. DEMORA NO ANDAMENTO DO FEITO NÃO IMPUTÁVEL AO JUDICIÁRIO. APLICAÇÃO DA SÚMULA Nº 64 STJ. ATUAÇÃO DILIGENTE DO JUÍZO PROCESSANTE. ORDEM CONHECIDA EM PARTE E DENEGADA." (fl. 1086).
+No presente recurso, a Defensoria Pública sustenta a existência de excesso de prazo para o encerramento do feito, destacando que o recorrente está preso há mais de 4 anos e 9 meses, sem que tenha sido julgado pelo Tribunal do Júri. Aponta ofensa ao princípio da razoável duração dos processos e pondera a necessidade de superação das Súmulas 21/STJ e 52/STJ.
+Afirma que a defesa não deu causa à demora, a qual atribui à ineficiência estatal.
+Alega, ainda, a ausência de fundamentação idônea, destacando que foi baseada exclusivamente na gravidade abstrata do delito e em elementos constitutivos do tipo penal. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal - CPP.
+Requer, em liminar e no mérito, o relaxamento ou a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 1129/1131. Informações prestadas às fls. 1136/1140, 1141/1143 e 1146/1148. O Ministério Público Federal opinou pelo parcial conhecimento do recurso, e nessa extensão, por seu desprovimento em parecer acostado às fls. 152/1157 .
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isso porque, em consulta à página eletrônica do Tribunal de origem, verifica-se que, na Ação Penal n. 0700334-32.2016.8.02.0056, de que aqui se cuida, em 27/9/2021, o recorrente foi submetido a julgamento pelo Tribunal do Júri e restou absolvido, nos termos do art. 386, inciso IV, do CPP, tendo sido expedido alvará de soltura em seu favor.
+Desse modo, constata-se a perda superveniente do objeto do presente mandamus.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário habeas corpus.
+Publique-se.
+Intimem-se.
