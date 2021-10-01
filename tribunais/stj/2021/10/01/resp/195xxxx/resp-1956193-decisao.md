@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de recurso especial interposto por VALDINEI GERALDO FERREIRA DOS SANTOS, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da CF, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 202, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL - SENTENÇA DE PROCEDÊNCIA DECLARANDO A ILEGALIDADE DA COBRANÇA DO SEGURO ANTE A OCORRÊNCIA DE VENDA CASADA.
+APELAÇÃO DA INSTITUIÇÃO FINANCEIRA - LEGALIDADE DA COBRANÇA - OPÇÃO EXPRESSA E LIVREMENTE PACTUADA - PROPOSTA DE ADESÃO ASSINADA E ENCARTADA NOS AUTOS, CONTENDO TODAS AS INFORMAÇÕES SOBRE A COBERTURA - RESP Nº 1.639.259/SP E RESP Nº 1.639.320/SP (TEMA 972 DO STJ) - INVERSÃO DOS ÔNUS SUCUMBENCIAIS - SENTENÇA REFORMADA - RECURSO CONHECIDO E PROVIDO.
+APELAÇÃO DA PARTE AUTORA - PEDIDO DE INCLUSÃO DOS REFLEXOS NA CONDENAÇÃO - ANÁLISE PREJUDICADA ANTE O PROVIMENTO DO RECURSO DE APELAÇÃO DA INSTITUIÇÃOFINANCEIRA.
+Tendo o consumidor contratado o seguro por sua livre e espontânea vontade, ciente de todas as condições de contratação, não resta caracterizada a ocorrência de venda casada.
+Nas razões do apelo extremo (fls. 212-219, e-STJ), o insurgente aponta, além de dissídio jurisprudencial, ofensa aos artigos 758 e 759 do Código Civil.
+Sustenta, em síntese: (a) a impossibilidade de demonstração da existência de relação securitária por mera previsão contratual em documento diverso de apólice; e (b) o Tribunal a quo não aplicou da forma correta a tese nº 2.2 do tema 972, do Recurso Especial nº 1.639.320/SP.
+Contrarrazões ofertadas às fls. 225-238, e-STJ.
+O recurso foi admitido na origem (fls. 239-240 , e-STJ), ascendendo os autos a esta Corte Superior de Justiça.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Quanto à alegada ofensa aos arts. 758 e 759 do Código Civil, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente.
+De fato, em relação ao seguro objeto da lide, o Tribunal de origem concluiu pela inexistência de prova da venda casada do seguro nos seguintes termos (fls. 204-205, e-STJ):
+"Sustenta a instituição financeira ora apelante que a cobrança do seguro é legal, haja vista que o contrato foi livremente aceito pelas partes, então suas cláusulas são plenamente válidas.
+O Superior Tribunal de Justiça, em sede de Recurso Repetitivo REsp 1.639.259/SP, consolidou entendimento pela legalidade da cobrança de Seguro de proteção financeira, desde que contratado de forma facultativa, em instrumento separado à operação de financiamento.
+Nos termos do acórdão proferido no RESP1.639.320/SP, que fixou a tese do Tema 972, não há abusividade quando a tarifa de seguro prestamista é contratada de forma livre e independente.
+No caso dos autos, pelos contratos acostados no mov. 29.2, é possível evidenciar que o autor optou pela contratação do seguro de proteção financeira, tendo ciência da contratação e lançando sua assinatura na proposta de adesão do seguro"(mov. 26.1)
+Por seu turno, o recorrente aponta violação dos artigos 758 e 759 do Código Civil, sob a alegação de impossibilidade de demonstração da existência de relação securitária por mera previsão contratual em documento diverso de apólice (fl. 216, e-STJ).
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017)
+E nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência do óbice contido na Súmula nº 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou no sentido de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020.
+Nesse cenário, impõe-se a prejudicialidade do exame da divergência jurisprudencial.
+De fato, os óbices os quais impedem a análise do recurso pela alínea "a" prejudicam o exame do especial manejado pela alínea "c" do permissivo constitucional para questionar a mesma matéria.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. TITULARIDADE DOS CRÉDITOS EXECUTADOS. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS E NA INTERPRETAÇÃO DE CLÁUSULAS CLÁUSULAS CONTRATUAIS. REVISÃO. SÚMULAS N. 05 E 07/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III - Revela-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem, bem como quando a arguição de ofensa ao dispositivo de lei federal é genérica ou não aponta o dispositivo de lei federal violado. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - In casu, rever o entendimento do Tribunal de origem acerca da titularidade dos créditos executados demandaria interpretação de cláusula contratual e revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas n. 05 e 07/STJ.
+V - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria. Precedentes.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do m ero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1883971/PR, de minha relatoria, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020) grifou-se
+2. Do exposto, não conheço do recurso especial. Com base no art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pelo Tribunal de origem (fls. 205-206, e-STJ) em favor da parte ora recorrida, observando-se o disposto no artigo 98, § 3º, do CPC/2015.
+Publique-se. Intimem-se.
