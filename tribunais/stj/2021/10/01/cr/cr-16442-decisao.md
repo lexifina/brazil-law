@@ -1,0 +1,3 @@
+DECISÃO
+Devidamente cumprida a diligência comanotificação pessoal daparteinteressada, com assinatura,conforme documentosde fls. 124-125, consideroconsumadooobjetodacomissãoedeterminoadevoluçãodosautosàJustiça rogante(art. 216-XdoRISTJ)porintermédiodaautoridadecentralcompetente.
+Publique-se.
