@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus,substitutivo de recurso especial,impetrado em favor de EVANDERSON DOS SANTOS DA SILVA, contra o v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no Agravo em Execução n. 0009715-38.2019.8.24.0008.
+Depreende-se dos autos que o d. Juízo da Vara de Execuções Penais da Comarca de Blumenau/SC declarou a remição de 50 (cinquenta) dias das penas do paciente, em razão da aprovação total no ENCCEJA - Exame Nacional para Certificação de Competências de Jovens e Adultos - ensino médio (fl. 76).
+Irresignada, a il. Defesa interpôs agravo em execução perante o eg. Tribunal de origem, o qual deu parcial provimento ao recurso para determinar o acréscimo à decisão impugnada de 16 (dezesseis) dias de remição, conforme v. acórdão de fls. 51-60, assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL. INCONFORMISMO DO APENADO. REMIÇÃO PELO ESTUDO INFORMAL.CONCLUSÃO DO ENSINO MÉDIO COM A CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS  ENCCEJA/2018. APROVAÇÃO NAS CINCO ÁREAS DO CONHECIMENTO. INSURGÊNCIA CONTRA O CÁLCULO.DECISÃO JUDICIAL QUE DECLAROU A REMIÇÃO NO IMPORTE DE 50 (CINQUENTA) DIAS DE PENA.PRETENDIDA MAJORAÇÃO PARA 133 (CENTO E TRINTA E TRÊS). IMPOSSIBILIDADE. PARÂMETROS CONTIDOS NOS ART. 126 DA LEI DE EXECUÇÃO PENAL E ART. 4.º, INCS. II E III E PARÁGRAFO ÚNICO DA RESOLUÇÃO N.03/2010 DO CONSELHO NACIONAL DE EDUCAÇÃO, ALÉM DA RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA OBSERVADOS. NECESSIDADE, TODAVIA, DE ACRÉSCIMO DA BONIFICAÇÃO PREVISTA NO 126, § 5º, DA LEI DE EXECUÇÃO PENAL. TOTAL DE 66 DIAS DE REMIÇÃO. REPARO NESSE PARTICULAR QUE SE IMPÕE.
+"O cálculo, para fins de remição, deverá ser elaborado partindo de 50% da carga horária do ensino médio, que representa 600 horas, estas divididas por 12 horas, que perfaz o montante de 50 dias para aprovação de todas as áreas do conhecimento, além de 16 dias equivalentes ao acréscimo de 1/3 (um terço) pela conclusão do ensino médio (LEP, art. 126, § 5º)" (Agravo de Execução Penal n.0005514-64.2019.8.24.0020, de Turvo, rel. Des. Carlos Alberto Civinski, Primeira Câmara Criminal, j. 22-8-2019).
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO."
+Daí o presente writ, em que oimpetrante argumenta que a aprovação total no referido exame dá direito a 133 (cento e trinta e três) dias de remição, nos termos da Resolução n. 44/2013 do CNJ, e não apenas a 66 (sessenta eseis) dias, como decidido pelas instâncias de origem.
+Argumenta que "não resta dúvida que o cálculo apresentado pelo Tribunal de origem, está em total desacordo com a jurisprudência desse Superior Tribunal de Justiça, no sentido de que aprovação em todas as áreas do ensino fundamental implica na concessão de 133 (cento e trinta e três dias) de remição" (fl. 10).
+Requer, ao final, a concessão da ordem"para reconhecer o paciente a complementação de 67 (sessenta e sete) dias de remição, comunicando-se com urgência juízo da execução, diante da aproximação da data de progressão de regime" (fl. 11).
+Não foi formulada pretensão liminar.
+Informações prestadas às fls. 76-99.
+O d. Ministério Público Federal, à fl. 103, manifestou-se pelo reconhecimento da perda de objetodo habeas corpus, nos termos de r. parecer assim ementado:
+"HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO.ENCCEJA. SUPERVENIENTE DEFERIMENTO PELO JUÍZO DA EXECUÇÃO PENAL. PERDA DO OBJETO."
+É o relatório.
+Decido.
+De acordo com as informações minuciosamente prestadas às fls. 76-77, afere-se queo d. Juízo monocrático determinou o acréscimo ao cálculo de liquidação de penas do ora paciente de 67 (sessenta e sete) dias de remição, em razão de aprovação total no ENCCEJA - ensino médio,perfazendo o total de 133 (cento e trinta e três) dias, in verbis (fl. 76 - grifei):
+"Na data de hoje, diante da nova orientação jurisprudencial, procedi o acréscimo de mais 67 dias de remição ao paciente, totalizando 133 dias pela aprovação no ENCCEJA, em razão da aprovação em cinco áreas do conhecimento, o que conferiu 20 dias de remição para cada área, além do acréscimo de 1/3 por conclusão do Ensino Médio."
+Destarte, verifica-se que o pleito aduzido pela il. Defesa na presente impetração restou devidamente acolhido na origem, configurando-se, portanto, na hipótese, a perda superveniente do objeto do presente writ.
+Ante o exposto, julgo prejudicado o presente habeas corpus, com fulcro no art. 34, XX, do RISTJ.
+P. I.
