@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 145):
+Apelação. Compra e venda de imóvel loteado. Resolução a pedido do adquirente. Impossibilidade de pagamento do preço. Objeção da demandada fundada na previsão contratual de alienação fiduciária do bem, ensejando liquidação do contrato na forma prevista na Lei nº 9.514/97. Não comprovação do registro da alienação fiduciária. Requisito essencial para constituição do direito real, sem o qual remanesce apenas o direito obrigacional, que não é óbice à resolução do contrato a pedido do adquirente. Irrelevância da responsabilidade pela falta de realização do registro, requisito essencial para constituição da garantia real, sendo de interesse do credor. Resolução admitida, com restituição dos valores pagos e retenção de 20%. Recurso parcialmente provido.
+Nas razões apresentadas (e-STJ fls. 156/167), a recorrente sustenta dissídio jurisprudencial e contrariedade aos arts. 26 e 27 da Lei n. 9.514/1997, argumentando que, na hipótese de compromisso de compra e venda de imóvel com cláusula de alienação fiduciária, a rescisão do ajuste seria inviável.Desse modo, deveriaocorrer a consolidação da propriedade do imóvel em nome da credora fiduciária, a realização de leilão público para quitar o débito e, somente após essas providências,a restituição de eventual saldo em benefício docomprador, ora recorrido.
+Foram ofertadas contrarrazões (e-STJ fls. 245/252).
+O recurso foi admitido na origem (e-STJ fls. 253/256).
+É o relatório.
+Decido.
+O Tribunal de origem não debateu o conteúdo dos arts. 26 e 27 da Lei n. 9.514/1997 sob o enfoque pretendido pela recorrente. Dessa forma, sem tersido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tais dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A Corte local indeferiu o pedido de aplicação da Lei n. 9.514/1997, tendo em vista que (e-STJ fl.146):
+A despeito da previsão contratual da alienação fiduciária, figurando como credor fiduciário o próprio vendedor, é imprescindível o registro (art. 23 da Lei nº 9.514/97) para aquisição do direito real e transferência do domínio resolúvel, com constituição da propriedade fiduciária. Sem o registro não há direito real, remanescendo as partes apenas na esfera obrigacional, inviabilizando nascimento da propriedade fiduciária.
+A respeito de tal razão de decidir, a parte não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
