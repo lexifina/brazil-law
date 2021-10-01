@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de ação rescisória ajuizada por DEVANI DE SOUZA MODESTO, "com fulcro noart 966 e seguintes do NCPC"(fl. 1), com o objetivo de desconstituir decisão monocrática, da lavra doem. MinistroRICARDO VILAS BOAS CUÊVA, dando provimento aorecurso especial nº 1.708.769/SP, nos seguintes moldes, em resumo:
+"(..) a jurisprudência desta Corte é no sentido de que na hipótese de contrato de mútuo habitacional firmado no âmbito do Sistema Financeiro Habitacional (SFH), é ânuo o prazo prescricional da pretensão do mutuário/segurado para fins de recebimento de indenização relativa ao seguro habitacional obrigatório" (grifou-se, fls. 22/24).
+Sustenta a parte autora que "essaação rescisória se funda em prova nova, em decorrência do Termo de Negativa de Cobertura - TNC, CT nº 289590/Gerência de Operações de Sinistros - GERES, datado de 31 de agosto de 2018, data em que inicia o prazo prescricional de 1 (um) ano para interposição de ações contra seguradoras" e que "este documento não existia no processo de origem, onde foi prolatada decisão de mérito que o extinguiu, motivo pelo qual, após o surgimento desta prova, POSTERIOR à r. decisão, necessária se faz a interposição da presente ação, tendo em vista haver prova que modifica o conteúdo processual, devendo a r. decisão ser revista"(grifou-se, fl. 1).
+Em síntese, a autora alega que a ação rescisória deve ser provida, nos moldes do art. 966, II, do Código de Processo Civil, quando "obtiver o autor, posteriormente ao trânsito em julgado, prova nova cuja existência ignorava ou de que não pôde fazer uso, capaz,por si só, de lhe assegurar pronunciamento" (na fl. 3).
+Desse modo, defende a rescisão da decisão monocrática para que se afaste o decreto de prescrição.
+É o relatório.Decido.
+Odocumento arrolado pela autora, o Termo de Negativa de Cobertura - TNC, CT nº 289590/Gerência de Operações de Sinistros - GERES,não pode ser considerado como prova novapara o efeito pretendido, rescisão da decisão monocrática com o consequente novo julgamento do recurso especial.
+Deveras, nos moldes do art. 966, inciso VII, do Código de Processo Civil, prova nova é aquela "cuja existência ignorava ou de que não pôde fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável".
+Ou seja, a prova nova é aquela contemporânea ao acórdão que se pretende rescindir e não aquela produzida posteriormente ao trânsito em julgado do decisum rescindendo, caso dos autos. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA.AÇÃO RESCISÓRIA. PROVA NOVA. REEXAME DE PROVAS. IMPOSSIBILIDADE.SÚMULA N. 7/STJ. FUMUS BONI IURIS. NÃO CONFIGURAÇÃO. DECISÃO MANTIDA.
+1. Segundo a jurisprudência dessa Corte, "o documento novo que propicia o manejo da ação rescisória, fundada no art. 485, VII, do Código de Processo Civil, é aquele que, já existente à época da decisão rescindenda, era ignorado pelo autor ou do qual não pôde fazer uso, capaz de assegurar, por si só, a procedência do pronunciamento jurisdicional" (AgRg no REsp 1407540/SE, Rel.Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/12/2014, DJe 19/12/2014).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.7/STJ).
+3. No caso concreto, a reforma do acórdão recorrido, que entendeu pela não comprovação de documento novo, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+4. "A conexão não determina a reunião dos processos, se um deles já foi julgado" (Súmula n. 235/STJ), o que ocorreu.
+5. O deferimento de tutela provisória de urgência pressupõe a demonstração de elementos que evidenciem a probabilidade do direito alegado e o perigo de dano ou o risco ao resultado útil do processo.
+6. No caso concreto, os agravantes não lograram demonstrar a viabilidade das teses deduzidas no recurso especial.
+7. Agravo interno a que se nega provimento.
+(AgInt no TP 2.858/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/10/2020, DJe 26/10/2020)
+Na presente hipótese, a decisão rescindenda transitou em julgado em 20/02/2018 e se reportava a fatos anteriores a, pelo menos, à data da inicial da ação originária, de 04/06/2012 (fl. 35 dos autos do recurso especialnº 1.708.769/SP) enquanto a prova nova é o Aviso de Sinistro protocoladoem03/08/2018.
+Ante o exposto, indefiro a petição inicial e julgo extinto o processo, sem resolução do mérito, nos termos do art. 485, IV, c/c art. 932, VIII, do CPC/2015 e c/c art. 34, XVIII, "a" do RISTJ.
+Publique-se.
