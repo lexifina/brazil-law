@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial, este interposto por ALINE DOS SANTOS FAUSTINO, com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 108):
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. SALÁRIO-MATERNIDADE. QUALIDADE DE SEGURADA. TRABALHADORA RURAL. CONJUNTO PROBATÓRIO INSUFICIENTE. INVERSÃO DO ÔNUS DASUCUMBÊNCIA.
+1. O STJ, no RE 1352721/SP, decidiu que nos processos em que se pleiteia a concessão de aposentadoria, a ausência de prova material apta a comprovar o exercício da atividade rural caracteriza carência de pressuposto de constituição e desenvolvimento válido do processo a ensejar a extinção da ação sem exame do mérito.
+2. Conjunto probatório insuficiente para demonstrar o exercício da atividade rural da autora próximo à datado parto e sua qualidade de segurada.
+3. Não comprovados os requisitos para concessão do benefício, nos termos dos artigos 71 a 73 da Lei nº8.213/91.
+4. Inversão do ônus da sucumbência. Exigibilidade condicionada à hipótese prevista no artigo 12 da Lei nº1.060/50.
+5. De ofício, processo extinto sem resolução de mérito em relação ao pedido de reconhecimento do labor rural. Apelação prejudicada.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial,ofensa aoart. 55, § 3º, da Lei 8.213/91, sustentando, em síntese, que restou devidamente comprovado nos autos a sua condição de rurícola, motivo pelo qual faz jus ao benefício pleiteado.
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE AFUNDAMENTAÇÃO.
+O recurso não prospera.
+Isso porque o labor campesino deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+Conforme construção jurisprudencial desta Corte, são aceitos, como início de prova material da qualidade de rurícola, em regime de economia familiar, os documentos em nome de outros membros da família, inclusive cônjuge ou genitor, que o qualificam como lavrador, desde que acompanhados de robusta prova testemunhal (AgRg no AREsp 188.059/MG, Rel. Ministro Herman Benjamin, DJe 11/09/2012).
+De outro lado, o posterior exercício de atividade urbanaafasta a eficácia probatória dos documentos apresentados, devendo ser juntada prova material em nome próprio que demonstre a permanência do segurado nas lides campesinas.
+Este entendimento foi reiterado pela Primeira Seção desta Corte ao apreciar o Resp 1.304.479/SP, submetido ao rito do art. 543-C do CPC, que foi assim ementado:
+RECURSO ESPECIAL. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. TRABALHO RURAL. ARTS. 11, VI, E 143 DA LEI 8.213/1991. SEGURADO ESPECIAL. CONFIGURAÇÃO JURÍDICA. TRABALHO URBANO DE INTEGRANTE DO GRUPO FAMILIAR. REPERCUSSÃO. NECESSIDADE DE PROVA MATERIAL EM NOME DO MESMO MEMBRO. EXTENSIBILIDADE PREJUDICADA.
+1. Trata-se de Recurso Especial do INSS com o escopo de desfazer a caracterização da qualidade de segurada especial da recorrida, em razão do trabalho urbano de seu cônjuge, e, com isso, indeferir a aposentadoria prevista no art. 143 da Lei 8.213/1991.
+2. A solução integral da controvérsia, com fundamento suficiente, não evidencia ofensa ao art. 535 do CPC.
+3. O trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais, devendo ser averiguada a dispensabilidade do trabalho rural para a subsistência do grupo familiar, incumbência esta das instâncias ordinárias (Súmula 7/STJ).
+4. Em exceção à regra geral fixada no item anterior, a extensão de prova material em nome de um integrante do núcleo familiar a outro não é possível quando aquele passa a exercer trabalho incompatível com o labor rurícola, como o de natureza urbana.
+5. No caso concreto, o Tribunal de origem considerou algumas provas em nome do marido da recorrida, que passou a exercer atividade urbana, mas estabeleceu que fora juntada prova material em nome desta em período imediatamente anterior ao implemento do requisito etário e em lapso suficiente ao cumprimento da carência, o que está em conformidade com os parâmetros estabelecidos na presente decisão.
+6. Recurso Especial do INSS não provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+(REsp 1.304.479/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 10/10/2012, DJe 19/12/2012)
+E, na espécie, o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu pela não comprovação da condição de rurícola da parte autora, diante da ausência de prova em nome próprio em período posterior ao exercício de labor urbano pela própria recorrente, nos seguintes termos (fl. 105):
+No caso concreto
+Para comprovar as suas alegações, a autora apresentou: I) certidão de nascimento de filho, nascido em16/12/14, na qual o marido figura como lavrador (ID 87800935, pág. 14); II) cópia da sua CTPS, na qualconsta 01 (um) vínculo rural de 01/06/2009 a 28/02/2011, e como doméstica de 01/12/2011 a 02/04/2012 (ID87800935, págs. 15/17); III) cópia da CTPS do marido, na qual constam vínculos rurais descontínuos de 2001a 2011 (ID 87800935, págs. 18/23).
+Nenhum dos documentos apresentados serve para comprovar a atividade rural da autora no período gestacional (que seria mais ou menos de 10 meses antes do parto).
+Assim, nota-se que o entendimento da Corte de origem encontra-se alinhada à jurisprudência do STJ, de forma que aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
