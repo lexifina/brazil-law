@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por E.Z.L.I. EMPREENDIMENTO IMOBILIÁRIO LTDA, contra decisão que não admitiu recurso especial (fls. 243/245, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 201, e-STJ):
+COMPRA E VENDA. Ação De Rescisão Contratual Cumulada Com Indenização. Sentença de improcedência. Insurgência da autora em relação ao valor da causa e à restituição de valor desembolsado com notificação extrajudicial. Ação de rescisão contratual ajuizada pela vendedora tem por proveito econômico o valor do contrato e esse deve ser o valor da causa. Art. 292, inciso II, do CPC. Não evidenciado inadimplemento contratual a justificar notificação extrajudicial. Despesa deve ser arcada pelo notificante. Sentença mantida. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, arecorrente aponta ofensa aos artigos 85, § 8º, 86, parágrafo único, e 292, II, do CPC/15; 389, 395 e 475, do CC/02.
+Sustenta, em síntese: (a) "o valor dado à causa na inicial tem correlação ao proveito econômico almejado, dizendo respeito apenas ao valor discutido no processo"; (b) a responsabilidade do devedor "de indenizar todos os prejuízos causados pelo seu inadimplemento"; (c) "a imposição do ônus de sucumbência integralmente ao Recorrido, como decorrência do princípio da causalidade"; e (d) que os honorários advocatícios sejam fixados por equidade.
+Sem contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) não houve demonstração das vulnerações legais suscitadas; e (ii) incidência da Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Depreende-se dos autos que o conteúdo normativo dos artigos 85, § 8º, 86, parágrafo único, do CPC/15, -aplicação do princípio da causalidade e fixação dos honorários por equidade -, não foi objeto de exame pelo acórdão recorrido, razão pela qual, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+Tampouco cabe falar em prequestionamento ficto face ao art. 1025 do CPC/15.
+Nos termos da jurisprudência desta Casa, para se possibilitar a sua incidência, cabe a parte alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do CPC15 de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei"(REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+2. Quanto ao valor da causa, o Tribunal de origem consignou o seguinte (fl. 202, e-STJ):
+Não assiste razão à apelante em manter o valor da causa na forma como atribuído.
+Em se tratando de ação de rescisão contratual ajuizada pela parte vendedora, o proveito econômico guarda relação com o valor do contrato que pretende rescindir, e não, com o valor pago pelo adquirente até o ajuizamento da ação.
+Com efeito, o entendimento perfilhado pela Corte local é consentâneo com a jurisprudência deste Tribunal Superior:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO. COMPRA E VENDA. RESOLUÇÃO. VALOR DA CAUSA. VALOR DO CONTRATO. PRÉVIA NOTIFICAÇÃO. SÚMULA Nº 5/STJ. (..) 3. O valor da causa em que se pretende a rescisão contratual é o do próprio contrato. Precedentes. (..)5. Agravo interno não provido. (AgInt nos EDcl no AREsp 1075542/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/06/2019, DJe 14/06/2019)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO VALOR DA CAUSA. VALOR DOS CONTRATOS. APLICAÇÃO DO ART. 259, V, DO CPC. SÚMULA Nº 83 DO STJ. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVA. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. 1. Nos termos do art. 259, V, do Código de Processo Civil , o valor da causa em que se pretende a rescisão contratual é o do próprio contrato. Incidência da Súmula nº 83 do STJ. (..)3. Agravo regimental não provido. (AgRg no AREsp 737.949/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/02/2016, DJe 22/02/2016)
+PROCESSO CIVIL - RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - VALOR DA CAUSA - APLICAÇÃO DO ARTIGO 259, INCISO V, DO CÓDIGO DE PROCESSO CIVIL - RECURSO NÃO CONHECIDO. 1 - A teor da jurisprudência desta Corte, tendo o litígio por objeto a rescisão de contrato firmado entre as partes, o valor da causa deve corresponder ao valor do contrato em sua integralidade, por aplicação do artigo 259, inciso V, do Código de Processo Civil. 2 - Recurso não conhecido. (REsp 771.690/MT, Rel. Ministro JORGE SCARTEZZINI, QUARTA TURMA, julgado em 07/03/2006, DJ 20/03/2006, p. 300)
+Além da aplicação da Súmula 83 do STJ,infirmar as conclusões a que chegou o Tribunal de origem, demandaria, necessariamente, incursão na seara probatória dos autos ea interpretação das cláusulas contratuais, o que não é permitido nesta instância especial, nos termos das Súmulas 5 e 7 do STJ.
+3.No que diz respeito à ofensa aos artigos389, 395 e 475, do CC/02, observa-se que a parte agravante alega genericamente violação aos dispositivos citado. Ante a deficiente fundamentação do recurso, incide, por analogia, a Súmula 284 do STF.
+Ademais, no ponto, o Tribunal de origem asseverou que (fl. 203, e-STJ):
+Quanto à restituição do valor desembolsado para a realização da notificação extrajudicial, também não merece provimento.
+A ação foi ajuizada em 12/07/2017, quando então não existia mais débito pendente, tanto que a parte ré juntou cópia da matrícula do imóvel às fls. 124/129; escritura pública de venda e compra com alienação fiduciária em garantia, lavrada em 27/06/2017 (fls.130/139) e cópia do extrato (fls. 140), onde não se evidencia valor aberto a partir do mês de maio/2017, como apontado na inicial.
+Dessa forma, deverá arcar com eventual valor desembolsado para a notificação extrajudicial.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado e o revolvimento das provas juntadas aos autos, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
