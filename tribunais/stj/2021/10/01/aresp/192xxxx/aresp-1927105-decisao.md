@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA REJEITADA. INSURGÊNCIA DA PARTE EXECUTADA. PRETENDIDA UTILIZAÇÃO DO VALOR PATRIMONIAL POR AÇÃO (VPA) RELATIVO A MÊS POSTERIOR À INTEGRALIZAÇÃO DO CONTRATO. IMPOSSIBILIDADE. AÇÕES ORIUNDAS DA TELEBRÁS S.A. CUJOS BALANCETES ERAM DIVULGADOS TRIMESTRALMENTE. APLICAÇÃO DO VPA INFORMADO EM BALANCETE DIVULGADO EM MÊS ANTERIOR, O QUAL VIGORAVA NA DATA DO INVESTIMENTO. SENTENÇA MANTIDA. ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. OBSERVÂNCIA AO DISPOSTO NO ART. 85, § 2º, DO CPC/15. RECURSO CONHECIDO E DESPROVIDO." (fl. 314/322)
+Os embargos de declaração foram rejeitados (e-STJ fl. 380/386)
+Nas razões do recurso especial, a ora agravante aponta violação aos arts. 502, 503, 508 e 1022 do Código de Processo Civil de 2015, sustentando, em síntese, omissão no acórdão recorrido eofensa à coisa julgada, pois foi utilizado o valor patrimonial anterior à data da integralização do contrato e não o VPA da data da integralização, divulgado no balancete de DEZEMBRO de 1988, no valor de (Cz$102,76).
+É o relatório. Decido.
+De início, não se vislumbra a alegada violação ao art. 1022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+De fato, inexiste qualquer omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+No tocante ao valor patrimonial da ação, o eg. Tribunal de origem consignou:
+"Entretanto, em se tratando do cômputo de ações da Telebrás S.A., cumpre ressaltar que a Planilha disponibilizada pela Corregedoria-Geral da Justiça informa os respectivos balancetes da empresa trimestralmente, e não mês a mês como defende a apelante.
+Sendo assim, este Órgão Fracionário vem adotando o entendimento de que, caindo a data da integralização em mês não expressamente disposto na Planilha, deve-se aplicar o VPA do balancete anterior à integralização do contrato.
+No caso dos autos, o balancete do mês de setembro de 1988, que dispunha VPA de Cz$ 53,720 vigeu até o mês de novembro do mesmo ano, porquanto apenas em dezembro o valor passou a ser Cz$ 102,7600." (fl. 319/320)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. AQUISIÇÃO DE LINHA TELEFÔNICA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. VALOR PATRIMONIAL DA AÇÃO (VPA) A SER CONSIDERADO NO CÁLCULO DO NÚMERO DE AÇÕES. REEXAME DE PROVAS.
+1. Não tendo havido o prequestionamento dos temas ventilados no recurso especial, incidem as súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. O recurso especial discute o valor patrimonial da ação (VPA) utilizado no cálculo, admitido pela Corte de origem como correto. A reforma do acórdão recorrido, no ponto, requer incursão nos elementos fático-probatórios do processo, o que é inviável em recurso especial (súmula 7 do Superior Tribunal de Justiça - STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 273.059/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/08/2016, DJe 31/08/2016)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
