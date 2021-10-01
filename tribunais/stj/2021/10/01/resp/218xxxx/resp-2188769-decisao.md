@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por WALDIRENE TOME contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e"c", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado do Paranáassim ementado:
+"AGRAVOS DE INSTRUMENTO NPU 0054030-66.2020.8.16.0000 (WALDIRENE TOME) e NPU 0054809-21.2020.8.16.0000 (BANCO BRADESCO S/A). NULIDADE DA DECISÃO AGRAVADA. FALTA DE FUNDAMENTAÇÃO. NÃO VERIFICAÇÃO. AÇÃO DE COBRANÇA. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA. CÁLCULOS DA CONTADORIA DO JUÍZO. ACOLHIMENTO. IMPOSSIBILIDADE. JUROS REMUNERATÓRIOS. INCIDÊNCIA. CORREÇÃO MONETÁRIA E JUROS DE MORA. TERMO FINAL. DEPÓSITOS JUDICIAIS. HONORÁRIOS ADVOCATÍCIOS DO PROCESSO DE CONHECIMENTO. BASE DE CÁLCULO. CASO CONCRETO. DÉBITO ATUALIZADO. MULTA DO ART. 475-J, DO CPC/1973, E HONORÁRIOS ADVOCATÍCIOS DA FASE DE EXECUÇÃO. APLICAÇÃO SOBRE O DÉBITO ATUALIZADO, ACRESCIDO DOS HONORÁRIOS DO PROCESSO DE CONHECIMENTO. DECISÃO AGRAVADA REFORMADA.
+1. Não há que se falar em nulidade da decisão agravada, por falta de fundamentação, se as controvérsias forem enfrentadas de maneira motivada.
+2. Nos cálculos de cumprimento de sentença de ação de cobrança de expurgos inflacionários, devem ser computados os juros remuneratórios sobre as diferenças de correção monetária não creditadas nas cadernetas de poupança, até o efetivo pagamento, quando houver expressa previsão no título judicial.
+3. "A exigência de juros moratórios e correção monetária do devedor, incidentes sobre os valores depositados para garantia do juízo, acarretaria bis in idem, estando o referido depósito sujeito à remuneração específica a cargo da instituição financeira depositária"(AgInt no REsp 1717801/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/12/2018, DJe 01/02/2019).
+4. Os honorários advocatícios fixados no processo de conhecimento devem incidir apenas sobre a base de cálculo definida no título judicial.
+5. A multa do artigo 475-J, do Código de Processo Civil de 1973, e os honorários advocatícios da fase de cumprimento de sentença devem ser calculados sobre o débito principal, acrescido dos honorários advocatícios do processo de conhecimento, que também integrarem a execução.
+6. Agravo de instrumento NPU 0054030-66.2020.8.16.0000 conhecido e parcialmente provido. Agravo de instrumento NPU 0054809-21.2020.8.16.0000 conhecido e parcialmente provido"(e-STJ fls. 65/66).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 101/104).
+No especial (e-STJ fls. 113/127), além de divergência jurisprudencial, arecorrente alega violação dos artigos 394 do Código Civil e 523 do Código de Processo Civil de 2015.
+Aponta dissídio jurisprudencial no tocante à possibilidade de o devedor ser condenado ao pagamento dos consectários legais sobre o valor depositado a título de garantia do juízo.
+Aduz que deve incidir juros e correção monetária em virtude de o depósito judicial para garantia do juízo não se confundircom o pagamento por não ter efeito liberatório.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 158/166), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Nos termos da Questão de Ordemno REsp 1.820.963/SP, proferida no dia 7/10/2020, aCorte Especial do Superior Tribunal de Justiça decidiu revisar o Tema nº 677, nos termos da seguinteementa:
+"QUESTÃO DE ORDEM. REVISÃO DE TEMA REPETITIVO. TEMA 677/STJ. APARENTE DIVERGÊNCIA JURISPRUDENCIAL NO ÂMBITO DO STJ. ADMISSÃO DO RITO.SUSPENSÃO DO PROCESSAMENTO DOS RECURSOS ESPECIAIS E AGRAVOS EM RECURSOS ESPECIAIS QUE VERSEM SOBRE IDÊNTICA QUESTÃO.
+1. O Tema 677/STJ enuncia que "na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação do devedor, nos limites da quantia depositada".
+2. No julgamento do REsp 1.475.859/RJ, a Terceira Turma deu nova conformação a esse entendimento, fixando a orientação de que a obrigação da instituição financeira depositária pelo pagamento dos juros e correção monetária sobre o valor depositado convive com a obrigação do devedor de pagar os consectários próprios de sua mora, segundo previsto no título executivo, até que ocorra o efetivo pagamento da obrigação ao credor.
+3. A partir de então, a jurisprudência da Terceira e Quarta Turmas passou a oscilar entre a aplicação, ou não, do Tema 677/STJ nas hipóteses em que o depósito judicial não é feito com o propósito de pagamento ao credor, repercutindo a divergência nos demais juízos e Tribunais pátrios.
+5. Contexto em que se mostra adequada a instauração de procedimento de revisão do entendimento firmado no Tema 677/STJ, para que a Corte Especial se manifeste sobre a preservação, ou não, do respectivo enunciado.
+6. Delimitação do tema submetido à revisão: "revisão da tese relativa ao Tema 677/STJ: definir se, na execução, o depósito judicial do valor da obrigação, com a consequente incidência de juros e correção monetária a cargo da instituição financeira depositária, isenta o devedor do pagamento dos encargos decorrentes da mora, previstos no título executivo judicial ou extrajudicial, independentemente da liberação da quantia ao credor".
+7. Determinação de suspensão do processamento dos recursos especiais e agravos em recurso especial que versem sobre idêntica questão de direito e que estejam pendentes de apreciação em todo o território nacional.
+8. Questão de ordem acolhida"(QO no REsp 1.820.963/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 07/10/2020, DJe 28/10/2020).
+Diante disso, em observância à economia processual e ao artigo 256-L do RISTJ, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação atualmente disciplinado pelos artigos 1.039 e 1.040 do CPC/2015.
+Somente após a análise de conformidade, se for o caso, o recurso especial deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para exame das demais questões jurídicas nele suscitadas que eventualmente não tenham ficado prejudicadas.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão dos recursos especiais repetitivos, observando-se, em seguida, os procedimentos previstos nos arts. 1.039 e 1.040 do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
