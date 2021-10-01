@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por ANGELICAGONÇALVES RIBEIRO MARINHO,em face da decisão acostada às fls. 1.160-1.164e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelaora agravante.
+O apelo extremo, fundado nasalíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 1.087-1.095 e-STJ, proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. ATROPELAMENTO. PARTE AUTORA QUE AFIRMOU TER O MOTORISTA DE COLETIVO ULTRAPASSADO SINAL VERMELHO, OCASIONANDO ACIDENTE. SENTENÇA DE IMPROCEDÊNCIA QUE DEVE SER MANTIDA. DEMANDANTE QUE NÃO LOGROU COMPROVAR MINIMAMENTE SUAS ALEGAÇÕES, ARROLANDO TESTEMUNHAS QUE NADA ACRESCENTARAM AO DESLINDE DA CONTROVÉRSIA. POR OUTRO LADO, A MATÉRIA JORNALÍSTICA ADUNADA AOS AUTOS, REALIZADA NO LOCAL DOS FATOS, NARROU TER A VÍTIMA DESRESPEITADO SEMÁFORO, INOBSTANTE TER REALIZADO A TRAVESSIA DENTRO DA FAIXA DE PEDESTRES, EVIDENCIANDO-SE A SUA PRÓPRIA CULPA. RECURSO AO QUAL SE NEGA PROVIMENTO.
+Opostos embargos declaratórios (fls. 1.097-1.099, e-STJ), restaram rejeitados na origem (fls. 1.113-1.116,e-STJ).
+Nas razões de recurso especial (fls. 1.118-1.138, e-STJ), alega ainsurgente, além de divergência jurisprudencial,violação aos artigos:
+(i)489, §1º, IV e VI, e 1.022, II, do CPC/2015, porquanto o Tribunal de origem omitiu-se sobre as relevantes questões suscitadas na lide;
+(ii) 369, 371, 479 e 489do CPC/2015, 186 e 927 do Código Civil, 29, 34, 35, 38, 58 e 181 do Código de Trânsito Brasileiro, pois"comprovou através da prova produzida nos autos que não restou a menor dúvida, por mínima que seja que o evento narrado na inicial ocorreu por culpa única e exclusiva do motorista/recorrido, que empreendeu manobra de conversão à direita sem adotar as cautelas necessárias a modo de preservar a segurança do condutor do veículo de menor porte" (fl. 1.128e).
+Contrarrazões às fls. 1.145-1.152,e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre, ensejando a interposiçãodopresente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 1.183-1.200,e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta àsfls. 1.228-1.233; 1.234-1.241, e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1.Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem, de modo expresso e fundamentado, concluiu pela configuração da culpa exclusiva da vítima, a afastar a responsabilidade civil das agravadas(fls. 1.093-1.094, e-STJ).
+Nota-se, portanto, que as alegações vertidas pelainsurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 1022 do CPC/2015 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018) grifo nosso
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018) grifo nosso
+2. Com relação à alegação de violação aos artigos 369, 371, 479 e 489 do CPC/2015, 186 e 927 do Código Civil, 29, 34, 35, 38, 58 e 181 do Código de Trânsito Brasileiro, a parte alegaque o acidente, aocontrário do reconhecido pelas instâncias ordinárias, ocorreu por culpa exclusiva do motorista do ônibus da empresa ré.
+A esse respeito, todavia, o acórdão recorridoconcluiu pela configuração da culpa exclusiva da vítima, a afastar a responsabilidade civil das agravadas, nos seguintes termos (fls. 1.093-1.094, e-STJ):
+Com razão o ilustre magistrado quando afirmou não ter a autora produzidos provas mínimas no sentido de corroborar suas alegações.
+Ainda que tenha afirmado ter sido atropelada em razão de ultrapassagem indevida de semáforo por parte do motorista da viação 1001, fato é que as testemunhas por ela arroladas nada acrescentaram de útil ao deslinde da controvérsia, tendo a Sra Eliane afirmado não se recordar dos fatos ( fls 663 ) e a Sra Edna declarado não saber se o sinal se encontrava fechado para o coletivo ( fls 664) - índice 662.
+Por outro lado, a reportagem jornalística veiculada sob o título " Mulheres são atropeladas no Centro" consignou que, "apesar de a autora ter atravessado na faixa de pedestres, o sinal estava aberto para os veículos " e que " o veículo estava em baixa velocidade, o que amenizou o impacto da batida, não causando ferimentos graves " ( fls 30 - índice 03 ).
+Assim, ainda que se trate de responsabilidade objetiva, que se desponta independentemente da averiguação de culpa, certo é que deve haver um liame entre o atuar do suposto agente causador e os danos ocasionados.
+Decerto que a culpa exclusiva da vítima rompe o nexo de causalidade, afastando a responsabilidade da empresa ré.
+Igualmente improsperáveis são as alegações carreadas em apelação no sentido de ter havido a abertura do sinal enquanto a vítima realizava a travessia.
+Além de não haver prova alguma quanto a isso, a afirmação da apelante destoa de suas próprias alegações cunhadas em peça exordial, no seguinte sentido: " o preposto do Réu de forma imprudente avançou o sinal vermelho do semáforo ali existente e atropelou 02 (dois) pedestres que regularmente atravessavam a rua sobre a faixa de pedestre ".
+Assim, não comporta reforma a sentença prolatada.
+Desse modo,o provimento do pleito recursal, sob a ótica darecorrente, demandaria que taispremissas fossem derruídas. Para tanto, todavia, seria necessária a reanálise de matériafático-probatória, providência vedada em sede de recurso especial, nos termos daSúmula7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL. FALHA NA PRESTAÇÃO DE SERVIÇO BANCÁRIO. RESPONSABILIDADE OBJETIVA. NÃO CONFIGURAÇÃO. CULPA EXCLUSIVA DA VÍTIMA E DE TERCEIRO. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. "Tratando-se de consumidor direto ou por equiparação, a responsabilidade da instituição financeira por fraudes praticadas por terceiros, das quais resultam danos aos consumidores, é objetiva e somente pode ser afastada pelas excludentes previstas no CDC, como por exemplo, culpa exclusiva da vítima ou de terceiro" (REsp 1.199.782/PR, Rel. Ministro Luis Felipe Salomão, SEGUNDA SEÇÃO, julgado em 24/08/2011, DJe de 12/09/2011).
+3. Na hipótese, o Tribunal de origem entendeu que não houve falha na prestação do serviço bancário, ficando evidenciada a culpa exclusiva da vítima e de terceiro na realização de depósito fraudulento em terminal de autoatendimento. A modificação de tal entendimento demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância especial, a teor do disposto na Súmula 7 do STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1660099/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/08/2020, DJe 26/08/2020)
+3.Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nego provimento ao agravo em recurso especial, e, com base no artigo 85, § 11, do CPC/2015, majoro em 10% os honorários advocatícios sucumbenciais incidentes sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
