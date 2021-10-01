@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por UNIMED DE SÃO ROQUE COOPERATIVA DE TRABALHO MÉDICO em facede decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunalde Justiça do Estado de São Paulo, assim ementado:
+"Preparo. Recolhimento acertado. Preliminar de deserção repelida.
+Cerceamento de defesa. Inocorrência. Prova documental que poderia ser produzida a qualquer tempo, não carecendo da designação de audiência.
+Plano de saúde. Cláusula de remissão. Autora que tem direito à cláusula de remissão porque era dependente do titular do contrato. Contratação expressa. Sequentes aditamentos que não revogaram a disposição contratual.
+Recurso desprovido." (e-STJ, fl. 333)
+Nas razões do recurso especial, aora agravante aponta violação aos arts. 113, 441, 442 e 884, do CC. Sustenta,em síntese, que o v. acórdão desconsiderou a "existência de cláusula no aditamento contratual que passou a exigir que houvesse efetiva inscrição de beneficiários dependentes na avença para que pudessem fazer jus à qualquer direito oriundo do contrato" (e-STJ, fl. 343), no caso, a inclusão no "plano de extensão assistencial" - PEA, o que acarretou o enriquecimento ilícito da agravante.
+É o relatório. Decido.
+No caso dos autos, o Tribunal de origem, analisando o conjunto fático-probatório contido nos autos, concluiu que a agravada tem direito de usufruirdo "plano de extensão assistencial", diante do falecimentodo titular do plano de saúde, consignando, in verbis:
+"A cláusula 10" do "Contrato para prestação de serviços médicos e hospitalares" (fls. 21/36) dispõe acerca da continuidade da prestação do serviço médico-hospitalar gratuito, pelo prazo de cinco anos, no caso de falecimento do titular do plano de saúde, bastando que (I) a filiação do titular ao plano fosse por prazo superior a sete meses e (II) apresentação, pelos beneficiários, de documentos que comprovassem a relação de dependência com o falecido.
+A cláusula 2.2, de seu turno, estabelece que, para fins contratuais, dentre os considerados dependentes, está o cônjuge.
+Os aditivos realizados em 1 1 de outubro de 1997 (fls.54/61) e 27 de fevereiro de 2012 (fls. 39/52), como o nome diz, acrescentam, mas não revogam o contrato anterior, de maneira que as disposições acima continuam vigentes, fazendo a apelada, portanto, jus à cláusula de remissão.
+Na verdade, a questão é bastante simples: examinado o contrato original  expressamente não revogado pelos aditamentos que se seguiram  vê-se que, enquanto a cláusula 2.2 refere a possibilidade de agregar ao plano usuários que fossem dependentes do falecido, a já referida cláusula 10 trata apenas de dependente, exatamente a situação da autora." (e-STJ, fl. 335)
+Por ser elucidativo, transcrevo trecho da sentença (e-STJ, fls. 183/184):
+"A existência do contrato de prestação de serviços médicos firmado entre a requerida e Alberto da Silva Neto é fato incontroverso nos autos, vindo, ademais, demonstrada pelos documentos de fls. 21/61.
+A cláusula 10a do referido contrato prevê a continuidade dos serviços médicos em caso de falecimento do titular do plano. As condições contratualmente previstas para gozo desse benefício estão discriminadas na referida cláusula, quais sejam: (i) filiação do titular ao plano por prazo superior a sete meses e (ii) apresentação, pelos beneficiários, de documentos que comprovem a relação de dependência com o falecido (fls. 32).
+A cláusula 2.2 da mesma avença, por sua vez, estabelece que, para fins contratuais, são considerados dependentes, entre outros, o cônjuge (fls. 22).
+Vale ressaltar que os aditamentos feitos em 1997 e 2012 (fls. 35/52) não tiveram o condão de modificar a relação jurídica inicial, de modo que as cláusulas acima referidas permanecem vigentes.
+Como acima observado, a cláusula que regulamente a continuidade dos serviços em caso de falecimento do seu titular estabelece os requisitos necessários para gozo do beneficio.
+(..)
+No caso dos autos, não há qualquer previsão no sentido de que somente os dependentes previamente cadastrados teriam direito ao plano de continuidade de assistência. A cláusula 10a, acima citada, faz referência aos dependentes, devendo ser considerados como tais aqueles indicados na cláusula 2 a do mesmo instrumento.
+Oportuno observar que o prévio cadastro dos dependentes, pelo que se depreende do instrumento contratual em tela, constitui providência necessária para utilização dos serviços médicos enquanto seu titular estiver vivo.
+No caso de falecimento, de acordo com a cláusula 10º acima mencionada, cujos requisitos devem ser analisados e interpretados de forma restritiva, o cadastramento defendido pela autora não se fazia necessário." (e-STJ, fls. 247/248, g.n.)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido,para concluir que a agravante não faz jus ao "plano de extensão assistencial" por não estar efetivamente inscrita no plano de saúde, após a novação contratual,demandaria a interpretação de cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a,do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
