@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIODE SANTO ANDRÉ (SP), com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O valor da causa é deR$ 10.229,32 (dez mil, duzentos e vinte e nove reais e trinta e dois centavos), conforme se extrai do andamento juntado à fl. 53.
+Na instância de origem, a parte ora recorrente interpôs agravocontra a decisão que, na fase de execução, determinou a liquidação do julgado de juros de mora mesmo diante da inércia da exequente.
+O Tribunal a quonegouprovimento ao recurso, em acórdão assim ementado (fl. 24):
+Agravo-Matéria processual -Iniciativa do processo de execução da coisa julgada - Interpretação do disposto no art. 570 c/c o art. 605,ambos do CPC e os efeitos relativos à mora debitoris.
+Opostos embargos de declaração, foram esses rejeitados (fls. 26-28).
+Nas razões do recurso especial, a Municipalidade alega ofensa ao artigo 570 do CPC/1973 porquanto não pode o ente ser penalizado com o cômputo dos juros moratórios por inércia exclusiva da exequente, que não promoveu a execução em momento processual oportuno.
+Sem contrarrazões.
+Decisão de fls. 46-47 inadmitindo o recurso especial interposto, em 8/8/2007.
+Em 9/5/2013 foi expedido ofício peloTribunal de Justiça do Estado de São Paulo à 3ª Vara Cível da Comarca de Santo André solicitando a devolução dos autos em que contendem as partes, a pedido deste Superior Tribunal de Justiça (fl. 56).
+Despacho à fl. 60, datado de 16/12/2013, do Presidente da Seção de Direito Público daquele Tribunal Estadual determinando o retorno dos autos à primeira instância uma vez que os autos solicitados são aqueles doAgravo de Instrumento nº 0080610-48.2006.
+Certidão de encaminhamento dos autos ao TJSP à fl. 64, em5/11/2014.
+Remessa do feito ao STJ em 28/4/2015, à fl. 65.
+Ofício deste STJ à fl. 66 ao TJSP reiterando a solicitação outrora feita dos autos em sua integralidade, esclarecendo que os autos remetidos diziam respeito a outra demanda.
+Certidão à fl. 68 da 1ª Vara da Fazenda Pública da Comarca de Santo André apontando o encaminhando dos autos solicitados, tendo sido necessário sua restauração a partir da documentação restante e do fornecimento de peças pela Municipalidade.
+Às fls. 69-80 confere-se os esforços institucionais para complementação e integração dos autos.
+É o relatório. Decido.
+A decisão recorrida foi publicada sob a égide da legislação processual civil anterior. Por isso, em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, observam-se as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+No que diz respeito à alegada ofensa ao artigo 570 do CPC/1973, vinculado à tese de que não pode a Fazenda Pública, devedora, arcar com o ônus moratório por não ter dado causa ao prolongamento da dívida, mas esseter sido causadoexclusivamente pela exequente, observa-se que o artigo indicado como violado não contém comando normativo capaz de sustentar a tese suscitada. Aplica-se à hipótese a Súmula 284/STF. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO INDICADO COMO VIOLADO. COMANDO NORMATIVO. AUSÊNCIA. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. IMPUGNAÇÃO. INEXISTÊNCIA.
+1. Conforme entendimento sedimentado na Súmula 284 do STF, não se conhece de recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida.
+2. O art. 12, II, da LIA, que trata das penas previstas para a prática de improbidade administrativa, não é capaz de infirmar os fundamentos do acórdão recorrido, que versou sobre a impossibilidade de vários pedidos de naturezas distintas na mesma ação, porém, contra réus diferentes.
+3. Incide a Súmula 283 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+4. Agravo interno desprovido.
+(AgInt no REsp 1899386/RO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/06/2021, DJe 16/06/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. RESPONSABILIDADE CIVIL DO ESTADO. ERRO MÉDICO, DURANTE O PARTO, QUE CAUSOU SEQUELAS PERMANENTES EM RECÉM-NASCIDO. NECESSIDADE DE TRATAMENTO MÉDICO E FISIOTERÁPICO RECONHECIDO, PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE COMANDO JUDICIAL GENÉRICO. ART. 491 DO CPC/2015.AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE PARA AMPARAR A TESE RECURSAL. SÚMULA 284/STF. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. O art. 491 do CPC/2015 ("Na ação relativa à obrigação de pagar quantia, ainda que formulado pedido genérico, a decisão definirá desde logo a extensão da obrigação, o índice de correção monetária, a taxa de juros, o termo inicial de ambos e a periodicidade da capitalização dos juros, se for o caso"), além de não ter sido prequestionado, não possui comando normativo suficiente para amparar a tese recursal de que o comando judicial relacionado à obrigação de fazer seria genérico e indeterminado, o que revela a deficiência na fundamentação no recurso e impede o conhecimento do Recurso Especial em razão da incidência da Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+V. No caso, o Tribunal de origem, à luz do contexto fático-probatório dos autos, notadamente do laudo pericial, condenou o ente público à obrigação de fazer, consistente na disponibilização, à terceira autora, de todo o tratamento médico e fisioterápico necessário para melhora do seu quadro de saúde, afastando a alegação recursal de que o pedido seria incerto e indeterminado, consignando, no ponto, que "o pedido inicial de obrigação de fazer está devidamente delimitado e especificado, razão pela qual foi analisado e deferido". Tal entendimento, firmado pelo Tribunal a quo não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Nesse sentido: STJ, REsp 1.237.508/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 23/08/2011.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1787248/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 12/04/2021, DJe 19/04/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO EM QUE DEVE SER APLICADO O IPCA-E A TÍTULO DE CORREÇÃO MONETÁRIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1888761/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/02/2021, DJe 01/03/2021)
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
