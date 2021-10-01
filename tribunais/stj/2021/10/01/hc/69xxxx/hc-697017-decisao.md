@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JOÃO PAULO DE PAULA, em face de decisão proferida por Desembargador Relator do Tribunal de Justiça do Estado de Goiás, que indeferiu a liminar (e-STJ, fls. 17-19).
+Neste writ, o impetrante alega constrangimento ilegal causado ao paciente em face da não realização de audiência de justificação, motivo pelo qual pleiteia a restituição de sua liberdade.
+Assevera que "é pacífico o entendimento que a audiência de justificação deve ocorrer antes do decreto da prisão, sendo que há jurisprudência firme, inclusive deste Superior Tribunal de Justiça, acerca da efetiva necessidade da realização desta audiência antes de recrudescer a forma que o apenado está cumprindo sua pena" (e-STJ, fl. 5).
+Argumenta que o art. 5º, V, da Recomendação n. 62/2020 do Conselho Nacional de Justiça orienta "a suspensão temporária do dever de apresentação regular em juízo das pessoas em cumprimento de pena no regime aberto, prisão domiciliar, penas restritivas de direitos, suspensão da execução da pena (sursis) e livramento condicional, pelo prazo de noventa dias" (e-STJ, fl. 6).
+Afirma que, desde 16/3/2020, o reeducando não se apresenta para cumprimento da prestação de serviços, devido à decisão da casa Lar dos Idosos Astrogildo Ribeiro que, em obediência ao decreto municipal, suspendeu as visitas e o comparecimento do sentenciado. Conclui que o paciente jamais descumpriu a sentença condenatória e ressalta que ele é o único provedor dos filhos.
+Requer, inclusive liminarmente, a concessão do alvará de soltura. Alternativamente, pugna pela conversão da prisão em recolhimento domiciliar.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar").
+Ilustrativamente:
+"PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.  .. ." (HC n. 486.900/SP, deste Relator, Quinta Turma, DJe de 26/2/2019.)
+Na hipótese, o Desembargador Relator do writ originário fundamentou o indeferimento da liminar da seguinte forma:
+"A concessão de liminar, em âmbito de "Habeas Corpus", reserva-se aos casos excepcionais de ofensa manifesta ao direito de locomoção do paciente, desde que preenchidos os seus pressupostos legais, quais sejam, o "fumus boni juris" e o "periculum in mora".
+Preambularmente, observo que o paciente foi recolhido na Unidade Prisional de Piracanjuba em 22 de setembro de 2021, em cumprimento à decisão proferida em 19 de setembro, pela Juíza da Vara de Execução Penal da comarca de Piracanjuba, que determinou a reconversão cautelar das penas restritivas de direito em privativa de liberdade, em razão do descumprimento.
+O lapso temporal transcorrido desde a data da decisão que determinou a reconversão, bem como da data da prisão, causa certa estranheza, pois a defesa teve tempo hábil para o manejo do pedido em expediente regular, preferindo, porém, aportar seu pedido em plantão judicial, na noite de hoje, 26.09.2021, o que não coaduna com a alegação de urgência.
+Além disso, em que pesem as alegações do impetrante, identifico que os documentos instrutórios carreados aos autos pouco acrescentam para a formação do convencimento deste magistrado, ainda que em sede de cognição sumária, sendo imprescindíveis os informes da autoridade coatora.
+Consoante infere-se dos autos, houve reconversão das penas restritivas de direito para privativa de liberdade, em razão do descumprimento daquelas.
+A juíza da execução penal determinou, outrossim, que, após a prisão, os autos deveriam ser conclusos para designação da audiência de justificação.
+Desta feita, não vislumbro, em primeira análise, qualquer ilegalidade naquela decisão, tampouco patente constrangimento ilegal da liberdade do paciente.
+Adentrar ao mérito dos pedidos formulados pelo impetrante, neste momento de cognição rarefeita, consistiria em supressão de instância, sendo mais prudente, neste momento, oportunizar os informes da autoridade coatora, considerando, ademais, o célere rito deste writ constitucional.
+Destarte, considerando os estreitos limites de cognição deste momento, restrito à apreciação da pretensão liminar, não reputo prudente a concessão imediata de liminar para soltura do paciente. Assim sendo, ainda que sejam relevantes as alegações do impetrante, o dever geral de cautela não me autoriza, de pronto, a concessão da liminar, mormente ante à deficitária instrução da peça exordial.
+Portanto, tenho como indispensáveis para o amadurecimento da causa os informes da autoridade coatora e o respectivo parecer ministerial de cúpula, visto que não observo, numa análise perfunctória, os requisitos autorizadores da medida liminar.
+Ante o exposto, por não vislumbrar os requisitos legais, DENEGO a liminar pleiteada, ao tempo em que determino que seja oficiada a autoridade acoimada de coatora para que, no prazo de 48 horas, preste as informações pertinentes.
+Após, ouça-se o ilustre Procurador de Justiça.
+Cumpra-se e intimem-se." (e-STJ, fls. 63-64, grifou-se).
+Nesse contexto, não se verifica flagrante ilegalidade passível de justificar o processamento desta ordem.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
