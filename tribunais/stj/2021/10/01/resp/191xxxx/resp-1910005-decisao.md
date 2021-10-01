@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especialinterposto por MARCELO MATIAS BONERI, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Outro caso envolvendo adquirentes que receberam unidades de um empreendimento de quatro torres e não querem participar do rateio para conclusão das demais unidades e das coisas comuns. A Quarta Câmara de Direito Privado decide, pela sua atual composição, que todos devem pagar pela conclusão da obra como um todo indivisível, evitando desigualdade entre os iguais. Sucessão da Bancoop em empreendimento de blocos de apartamentos, dividindo os compradores em proprietários de unidades prontas e outras em construção. O Tribunal considera correto preservar a isonomia entre os sujeitos da relação jurídica indivisível, até porque a demanda dirigida ao empreendedor primitivo (Bancoop) não poderá prejudicar as atividades e a receitas programadas de quem assume o dever de completar o projeto in totum (Condomínio de Construção). Não é adequado fragmentar os compradores que estão nivelados no mesmo grau de responsabilidade, colocando os afortunados que receberam primeiro as unidades prontas (os únicos) com o empenho de todos, livres de pagamentos complementares e necessários para que todas as unidades e partes comuns sejam concluídas. Os demais que contribuíram e nada receberam serão prejudicados diante desse entendimento. O reconhecimento da responsabilidade permite o leilão extrajudicial do inadimplente, meio legítimo de persecução (art. 63, §§ 3º e 4º, da Lei 4591/64). Não provimento dos recursos dos autores e provimento do recurso do Condomínio, para observar o valor atual do saldo devedor, deferida a gratuidade" (e-STJ fl. 2.961).
+Em suas razões recursais (e-STJ fls. 3.054-3.109), o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 109 e 489, § 1º, II e IV, do Código de Processo Civil de 2015, 1.354 do Código Civil e 63 da Lei nº 4.591/1964.
+Apresentadas as contrarrazões (e-STJ fls. 3.116-3.136), e inadmitido o recurso na origem, determinou-se a reautuação do agravo (AREsp nº 1.751.148/SP) como recurso especial para melhor exame da matéria.
+É o relatório.
+DECIDO.
+O acórdão impugnado foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O acórdão que rejeitou os embargos de declaração opostos na origem foi disponibilizado no Diário da Justiça Eletrônico de 28/11/2019 (quinta-feira), considerando como data da publicação o primeiro dia útil seguinte, nos termos do art. 4º, 3º, da Lei nº 11.419/2006, ou seja, 29/11/2019 (sexta-feira).
+O prazo recursal estabelecido no art. 1.003 do CPC/2015 passou a fluir em 2/12/2019 (segunda-feira), ficando suspenso nos dias compreendidos entre 20/12/2019 e 20/1/2020, nos termos do art. 220 do mesmo diploma legal.
+Findou-se o prazo recursal no dia 21/1/2020, de modo que é intempestivo o recurso especial interposto somente no dia 27/1/2020.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
