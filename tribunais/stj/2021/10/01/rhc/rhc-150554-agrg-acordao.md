@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINAcontra a decisão que deu provimento ao recurso e concedeu a ordem para cassar a decisão das instâncias ordinárias e determinar como marco inicial da pretensão executória o trânsito em julgado da decisão condenatória para a acusação.
+O agravante sustenta o seguinte (fls. 148-153):
+A extinção da pretensão executória em razão do decurso do prazo prescricional está intrinsecamente relacionada com a ideia de inércia na atuação do Estado.
+Dessa maneira, o pressuposto do início da contagem do prazo prescricional é justamente a possibilidade de se executar o título judicial condenatório, de modo que não se pode admitir que o curso do prazo prescricional tenha início se a pretensão executória nem sequer pode ser exercida. Em outras palavras, não se pode admitir que o prazo prescricional da pretensão executória tenha fluência antes mesmo da implementação de sua condição de existência.
+Sem perder isso de vista, sabe-se que o Código Penal prevê, no inciso I do art. 112, que a prescrição começa a correr "do dia em que transita em julgado a sentença condenatória, para acusação".
+Todavia, a referida disposição remonta à reforma do Código Penal de 1984, época em que a execução provisória da pena era amplamente admitida no ordenamento jurídico brasileiro, o que nem sequer era objeto de maiores discussões.
+Naquele cenário, em que a execução da reprimenda era, em regra, possível a partir da condenação, considerar o trânsito em julgado para a acusação como termo inicial da pretensão executória é perfeitamente coerente, porquanto naquela fase processual a pretensão executória do Estado já era passível de satisfação.
+Entretanto, como é cediço, a possibilidade de execução provisória da pena foi afastada pelo STF, no julgamento do Habeas Corpus n. 84.078/MG, de relatoria do Ministro Eros Grau, julgado no dia 5-2-2009, sob o argumento de que o art. 5º, LVII, da CF impõe que a execução da pena aguarde o trânsito em julgado para ambas as partes.
+ ..
+Veja-se que a previsão constante do art. 112, I, do CP tem como consectário lógico a possibilidade de execução provisória da pena. Consequentemente, em havendo alteração dessa premissa, impõe-se, também, que a interpretação do dispositivo seja modificada, a fim de manter a coerência do sistema.
+ ..
+Não há dúvida, pois, em observância ao posicionamento do STF, que se deve considerar como termo inicial da prescrição da pretensão executória a data a partir da qual foi possível a execução do título judicial condenatório.
+No caso concreto, o trânsito em julgado para ambas as partes ocorreu em 19-10-2019(e-STJ fl. 37).
+Dessa forma, tendo em vista que a pena fixada foi de 2 (dois) anos e 1 (um) mês de reclusão, não há falar em prescrição da pretensão executória, na medida em que esta passou a fluir, consoante entendimento sedimentado pelo STF, apenas em 19-10-2019.
+Portanto, nos termos do art. 109, IV, do CP, o prazo prescricional de 8 (oito) anos somente se implementará em 18-10-2027.
+Requer, assim, o provimento do presente agravo regimental para que seja cassada a decisão agravada e para que o recurso em habeas corpus seja desprovido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, I, DO CÓDIGO PENAL. DECISÃO MANTIDA.
+1. O termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação (art. 112, I, do Código Penal).
+2. Nos casos em que se discute o termo a quo para a contagem do prazo da prescrição da pretensão executória, mantém-se o entendimento consolidado pelo STJ, a quem compete uniformizar a interpretação da legislação infraconstitucional, pois, embora reconhecida a repercussão geral do tema no ARE n. 848.107/DF, o mérito ainda não foi apreciado pelo STF.
+3. Agravo regimental desprovido
+VOTO
+O recurso não reúne condições de êxito.
+Não obstante a irresignação do Ministério Público do Estado de Santa Catarinaquanto à matéria alegada, a orientação do STJ mantém-se inalterada, no sentido de que "o termo a quo para contagem do prazo, para fins de prescrição da pretensão executória, é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal do art. 112, I, do Código Penal, mais benéfica ao condenado" (AgRg nos EDcl nos EREsp n. 1.376.031/PR, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, DJe de 12/2/2021).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. USO DE DOCUMENTO FALSO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, INCISO I, DO CÓDIGO PENAL. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, conforme disposto expressamente no art. 112, inciso I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação.
+2. Neste caso, a decisão condenatória transitou em julgado para o Ministério Público em 22 de junho de 2012, de modo que o prazo de oito anos foi suplantado, acarretando a extinção da punibilidade nos termos do art. 107, inciso IV, do Código Penal.
+3. Agravo regimental improvido. (AgRg no HC n. 590.235/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 31/8/2020.)
+Deve-se destacar que, apesar da existência de precedente do Supremo Tribunal Federal em sentido contrário, ou seja, em que se estabeleceu a data do trânsito em julgado para ambas as partes como marco inicial da prescrição da pretensão executória, a decisão foi proferida pela maioria dos integrantes de apenas um dos órgãos fracionários daquela Corte, tendo sido ainda reconhecida a repercussão geral do tema no ARE n. 848.107-RG/DF, pendente de julgamento. Assim, mantém-se o entendimento do STJ, a quem compete uniformizar a interpretação da legislação infraconstitucional. A propósito:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. FURTO SIMPLES PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A Corte Especial deste Tribunal Superior, no julgamento do AgRg no RE nos EDcl no REsp n. 1.301.820/RJ, de relatoria do Ministro Humberto Martins, assentou o entendimento de que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional, ainda que modifique a pena fixada, nos termos descritos no artigo 117, inciso IV do Código Penal.
+III - A existência de decisões do Supremo Tribunal Federal, desprovidas de efeito vinculante, em dissonância com o entendimento deste Superior Tribunal de Justiça com relação à mesma matéria, não obsta a este Sodalício que continue exercendo sua função constitucional e aplicando o entendimento que concluir mais adequado à legislação infraconstitucional" (AgRg no AREsp n. 1.422.105/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 25/06/2019).
+IV - In casu, tem-se que o prazo para a extinção da punibilidade, pelo decurso do prazo da prescrição da pretensão executória, consumou-se em 05/02/2020, uma vez que entre o dia do trânsito em julgado para acusação (05/02/2016) e até a presente data, não houve o início da execução das penas. Agravo regimental desprovido. (AgRg no HC n. 545.998/SP, relator Ministro Leopoldo de Arruda Raposo, Desembargador convocado do TJPE, Quinta Turma, DJe de 16/3/2020.)
+Ainda no mesmo sentido: AgRg no RHC n. 100.842/SP, relator ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/10/2018; e AgRg no REsp n. 1.710.939/PB, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/10/2018.
+Dessa forma, correta a decisão agravada ao concluir que o marco inicial para a prescrição da pretensão executória é a data do trânsito em julgado da sentença condenatória para a acusação.
+Assim, não apresentando o Ministério Público do Estado de Santa Catarina argumentos suficientemente aptos a ensejar a modificação da decisão agravada, mantenho-a por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto
