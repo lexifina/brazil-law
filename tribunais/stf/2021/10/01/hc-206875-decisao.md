@@ -1,0 +1,17 @@
+Decisão: Trata-se de habeas corpus submetido a esta Presidência pela Ministra Cármen Lúcia para análise de redistribuição, tendo em vista que a Defesa alegou ausência da prevenção apontada.
+    Em sede de informações, a Coordenadoria de Processamento Inicial esclareceu o seguinte:
+    “Trata-se de Habeas Corpus impetrado em favor dos pacientes Cláudia Aparecida Gali, Paulo César Martins e Inês Aparecida Machado, contra acórdão do Superior Tribunal de Justiça nos autos do HC nº 626.384 e do RHC nº 137.734. A origem do feito é a ação penal nº 5062286-04.2015.4.04.7000, da 13ª Vara Federal de Curitiba, relacionada à Operação Fidúcia (Inquérito Policial nº 5015169-56.2011.404.7000).
+    Em 23/09/2021, este Habeas Corpus foi distribuído por prevenção à Exma. Sra. Ministra Cármen Lúcia, vinculado ao HC nº 174.751, dos mesmos pacientes e com origem na mesma ação penal nº 5062286-04.2015.4.04.7000.
+    O HC nº 174.751, por sua vez, foi distribuído por prevenção ao HC nº 135.041 em 22/08/2019. Teve seu seguimento negado pela Relatora em 02/09/2019. Interposto Agravo Regimental, houve desistência, homologada em decisão de 27/11/2019, com trânsito em julgado em 07/12/2019. Não houve, nos autos do HC nº 174.751, questionamento quanto à prevenção apontada.
+    O HC nº 135.041 teve origem no Inquérito policial nº 5004889- 26.2011.404.700, também da 13ª Vara Federal de Curitiba, relativo à chamada Operação Déja Vu II, que investigava crimes de peculato, corrupção, fraudes em licitação e documentais, lavagem de dinheiro e de quadrilha contra os dirigentes e pessoas associadas à organizações sociais civis de interesse público (OSCIPs).
+    Consta na denúncia da Operação Fidúcia, juntada aos autos do HC nº 174.751 (doc. 2) e reproduzida neste feito (doc. 7), que o feito tinha por objeto investigar ‘organização criminosa estruturada em Curitiba, com atuação em todo o Estado do Paraná, que utilizou-se indevidamente de pessoas jurídicas qualificadas como Organizações da Sociedade Civil de Interesse Público - OSCIPs, com base na Lei nº 9.790/99, para celebrar convênios e termos de parceira com a Administração Pública, mediante recebimento de verbas federais’, e também que ‘a investigação dos fatos descritos na presente denúncia desenvolveu-se nos autos de inquérito policial nº 5015169- 56.2011.404.7000, instaurado em 20/06/2011 a partir de indícios apurados no bojo da denominada ‘Operação Déja Vu II’ (IPL nº 5004889- 26.2011.404.7000). As investigações foram concentradas na Superintendência da Polícia Federal em Curitiba, tendo em vista que as duas OSCIPs e demais empresas investigadas eram sediadas em Curitiba/PR’.
+    Assim, considerando tratar-se a Operação Fidúcia de desdobramento da Operação Déja Vu II, foi apontada a prevenção do HC nº 174.751 ao HC nº 135.041.
+    Por fim, considerando a identidade de origens e partes entre este processo e o HC nº 174.751, foi apontada a prevenção entre os feitos, nos termos do art. 77-D do Regimento Interno do Supremo Tribunal Federal e art. 6º, parágrafo único da Resolução nº 706/STF.”
+    É o relatório. Decido.
+    Diante das informações prestadas pela Secretaria, e considerando que “Não houve, nos autos do HC nº 174.751, questionamento quanto à prevenção apontada”, MANTENHO a distribuição do presente writ à Ministra Cármen Lúcia.
+    Restituam-se os autos ao gabinete da eminente Relatora.
+    Publique-se. Cumpra-se.
+    Brasília, 1º de outubro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
