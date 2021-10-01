@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL com fundamento no art. 105, a, da Constituição Federal, contra acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL - CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO - INCAPACIDADE NÃO DECORRENTE DE ACIDENTE DE TRABALHO - COMPETÊNCIA DA JUSTIÇA FEDERAL. Considerando que a alegada invalidez que acomete o autor não decorre de acidente de trabalho, há que se reconhecer a competência da Justiça Federal para o processamento e julgamento desta ação.
+V.V REMESSA NECESSÁRIA - AUXÍLIO ACIDENTE - RESTABELECIMENTO - POSSIBILIDADE - COMPROVAÇÃO DA INCAPACIDADE - JUROS - CORREÇÃO MONETÁRIA - HONORÁRIOS ADVOCATICIOS - SUMULA 111 STJ. 1. Estando presentes os requisitos para a concessão do benefício de auxílio- doença, este deve ser concedido. 2. São devidos juros moratôrios, a contar da citação, pelos mesmos percentuais aplicados à caderneta de poupança, de acordo com o disposto no art. 1 0-1= da Lei n. 9.494/97, com a alteração promovida pela Lei 11.96012009. 3. As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.43012006, que incluiu o art. 41-A na Lei 8.213191.4. Para o cálculo dos honorários advocatícios, devem ser excluídas as prestações vincendas, estas entendidas como sendo as que venham a vencer após a prolação da sentença, nos termos da Súmula 111 do STJ.
+Os embargos de declaração opostos foram rejeitados.
+O recorrente aponta como violados os arts. 329, I e II, do CPC/2015, argumentando, em suma, que na exordial o autor teria requerido a concessão de benefício acidentário, o que implicaria na competência da Justiça Estadual, não podendo por isso o Tribunal a quo, de ofício, declinar a competência para a Justiça Federal.
+É o relatório. Decido.
+O recurso não é cognoscível.
+O Tribunal a quo para manter a decisão pela competência da Justiça Federal, consignou, in verbis:
+Pondero que, a matéria relativa à incompetência da Justiça Estadual já foi analisada no julgamento do agravo de instrumento nº 1.0686.13.014405-41001.1 - Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial. (Nos casos de recurso especial inadmissível - óbices -, prejudicado ou que não tiver impugnado todos os fundamentos da decisão - Súm. 182/STJ).
+Como o recorrente não impugnou esse fundamente, apto por si só, para manter a decisão recorrida, incorreu no óbice contido da súmula 283/STF, o que inviabiliza o presente recurso.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
