@@ -1,0 +1,41 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que BANCO DO ESTADO DO RIO GRANDE DO SUL - BANRISUL (BANRISUL) ajuizou execução de título extrajudicial em desfavor de TALES LUIZ REALE e outro (TALES e outro).
+O d. Juízo de primeira instância deferiu a liberação de valores de R$ 2.782,57 (dois mil, setecentos e oitenta e dois reais e cinquenta e sete centavos) e de R$ 625,15 (seiscentos e vinte e cinco reais e quinze centavos) em favor de TALES e outro, considerando-os impenhoráveis.
+Contra essa decisão interlocutória, TALES e outro interpuseram agravo de instrumento sustentando que (1) os valores bloqueados em outras contas também era impenhoráveis, visto que tinham caráter salarial; e (2) os valores penhorados são inferiores a quarenta salários mínimos, sendo intangíveis.
+O Tribunal Gaúcho negou provimento ao agravo de instrumento nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE AFASTOU A ALEGAÇÃO DE IMPENHORABILIDADE DOS VALORES CONSTRITOS NA CONTA BANCÁRIA DOS AGRAVANTES. O art. 835, I, do CPC/15 estabelece a prioridade do dinheiro para a incidência de penhora, enquanto que o art. 833 estabelece as hipóteses de impenhorabilidade. No caso, a constrição recaiu em conta de titularidade do devedor. Assim, a hipótese não se enquadra na regra do art. 833, X, do CPC. Impenhorabilidade não reconhecida. AGRAVO DE INSTRUMENTO DESPROVIDO, POR MAIORIA (e-STJ, fl. 97).
+Os embargos de declaração opostos por TALES e outro foram acolhidos, para sanar omissão, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VALORES CONSTRITOS EM CONTA-CORRENTE. Omissão. Ocorrência em relação a alegação de impenhorabilidade com base no disposto no art. 833, IV, do CPC. No caso,os documentos trazidos não são suficientes para comprovar que o valor constrito se trata de verba alimentar. De acordo com o artigo 854, § 3º, I, CPC/15, é ônus do devedor comprovar a impenhorabilidade que alega. Precedentes. EMBARGOS DE DECLARAÇÃO ACOLHIDOS (e-STJ, fls. 555/558).
+Inconformados, TALES e outro manejaram recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação do art. 833, IV e X, do NCPC, bem como dissídio jurisprudencial, ao sustentar que são impenhoráveis valores depositados em conta corrente até o limite de quarenta salários mínimos (e-STJ, fls. 168/187).
+Não foi oferecida contraminuta.
+O apelo nobre foi admitido (e-STJ, fls. 218/225).
+É o relatório.
+DECIDO.
+O recurso comporta acolhimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da incidência da Súmula nº 568 do STJ
+Nas razões do presente recurso, TALES e outro afirmaram a violação do art. 833, IV e X, do NCPC, bem como dissídio jurisprudencial, sustentando que são impenhoráveis valores depositados em conta corrente até o limite de quarenta salários mínimos (e-STJ, fls. 168/187).
+Sobre o tema o Tribunal estadual consignou que a impenhorabilidade prevista no art. 833, X, do NCPC não se estende ao montante depositado em conta corrente, confira-se:
+No caso, o dinheiro que restou penhorado estava depositado em conta-corrente, e não em conta poupança. Assim, a hipótese não se enquadra na regra do art. 833, inc. X, do CPC.
+Pondero, como já tenho manifestado em votos anteriores, que a seguir a orientação de que o numerário inferior a 40 salários mínimos e encontrado em conta-corrente é daqueles tido por impenhorável, isso implicará, dentre outras situações, em simplesmente erradicar a penhora de dinheiro no sistema dos Juizados Especiais, onde o valor do teto das demandas lá propostas é de exatamente 40 salários mínimos (e-STJ, fl. 105).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que é impenhorável a quantia até 40 salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, considerando-se para aferição do limite a integralidade das contas de titularidade do executado, ressalvada a comprovação de má-fé, abuso de direito ou fraude, o que não foi demonstrado nos autos.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. Esta Corte possui entendimento no sentido de que "a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família" (AgInt no REsp 1407062/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/02/2019, DJe 08/04/2019).
+1.1. É impenhorável valor depositado em caderneta de poupança até o limite de 40 salários mínimos, devendo-se ter, quanto a esse comando, interpretação restritiva, admitindo-se, apenas, a mitigação dessa ordem, no caso de pagamento de prestação alimentícia ou de comprovada má-fé ou fraude. Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.829.036/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. em 30/03/2020, DJe 02/04/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DISSÍDIO NOTÓRIO. CONTA CORRENTE BANCÁRIA. IMPENHORABILIDADE. LIMITE. QUARENTA SALÁRIOS MÍNIMOS.
+1. Julgamento sob a égide do CPC/15.
+2. Ação de execução de título extrajudicial.
+3. A existência de dissídio notório autoriza a flexibilização dos requisitos de admissibilidade para o conhecimento do recurso especial fundado na alínea "c" do permissivo constitucional.
+4. Exceto se comprovada a ocorrência de abuso, má-fé ou fraude e ainda que os valores constantes em conta corrente percam a natureza salarial após o recebimento do salário ou vencimento seguinte - a quantia poupada pelo devedor, no patamar de até 40 salários mínimos, é impenhorável. Súmula 568/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp 1.786.530/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 17/06/2019, DJe 19/06/2019)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, DOU PROVIMENTO ao recurso especial, para determinar a remessa dos autos ao TJ/RS, a fim de que examine a questão da impenhorabilidade à luz do entendimento do STJ, notadamente no que concerne ao limite máximo de quarenta salários mínimos.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE. CONTA CORRENTE. LIMITE DE QUARENTA SALÁRIOS MÍNIMOS. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO.
