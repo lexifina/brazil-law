@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Audi do Brasil Indústria e Comércio de Veículos Ltda., com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (e-STJ, fl. 561):
+AGRAVO DE INSTRUMENTO. DIREITO DAS RELAÇÕES DE CONSUMO. EXISTÊNCIA DE VÍCIO NO AUTOMÓVEL ADQUIRIDO PELA CONSUMIDORA. RECORRENTE REAPARECIMENTO DOS INCONVENIENTES. DISPONIBILIZAÇÃO DE VEÍCULO RESERVA SEMPRE QUE AQUELE DE PROPRIEDADE DA AGRAVANTE APRESENTAR DEFEITOS QUE IMPEÇAM O SEU REGULAR FUNCIONAMENTO. LIMITAÇÃO APENAS NO PERÍODO EM QUE PERDURAR OS EVENTUAIS REPAROS. RECURSO PARCIALMENTE PROVIDO. DECISÃO REFORMADA.
+1. , forçoso reconhecer que a tese autoral se funda em aparente direito legítimo, In casu violado por força da impossibilidade do consumidor de usar o bem adquirido segundo a finalidade a que se presta. É que, devidamente demonstrado nos autos que o automóvel já seguiu por várias oportunidades à concessionária agravada em virtude de diversos problemas elétricos e mecânicos, não tendo sido, a princípio, sanados os vícios no primeiro momento.
+2. Destarte, nada mais justo do que oportunizar ao consumidor o acesso a produto similar àquele supostamente viciado enquanto impossibilitado de utilizar o de sua propriedade.
+3. Nesta senda, já se afiguraria suficiente para garantir a efetividade da ulterior decisão, se favorável à consumidora, determinar o fornecimento do veículo reserva apenas durante o tempo em que privada esta do uso do produto, na medida em que permite a satisfação da precípua finalidade a que se propõe o bem de consumo.
+4. Recurso parcialmente provido. Decisão reformada.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 620-634).
+Nas razões do recurso especial (e-STJ, fls. 642-660), a ora agravante apontou violação dos arts. 489, § 1º, VI, e 1.022, II, do CPC/2015, sustentando negativa de prestação jurisdicional e ausência de fundamentação.
+Alegou também vulneração do art. 18, §§ 1º e 3º, do CDC, sob o argumento de que lhe foi subtraída a possibilidade de sanar o vício no prazo de 30 (trinta) dias, além de inexistir dispositivo legal que a obrigue a disponibilizar imediatamente veículo reserva para locomoção do consumidor.
+Não foram apresentadas contrarrazões (e-STJ, fls. 673-674).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+É consabido que a jurisprudência desta Corte é pacífica ao proclamar que, se as razões do julgado bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Assim sendo, cumpre registrar que a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente, tratando-se, na verdade, de pretensão de novo julgamento da matéria, conforme se observa do trecho transcrito a seguir (e-STJ, fls. 626-627):
+Cumpre ressaltar, que, o instituto jurídico denominado astreintes, meio coercitivo indireto de natureza pecuniária, se destina a viabilizar a tutela jurisdicional mediata.
+Evidentemente, só terá lugar a incidência da multa diária em caso de descumprimento da decisão, de sorte que o objetivo precípuo do seu arbitramento não é o enriquecimento da parte a quem aproveita o provimento, mas que aquela a quem fora direcionada a decisão realize a prestação determinada. Assim, em sendo obedecido o mandamento judicial, sequer se falará em percepção de qualquer valor pelo agravado.
+Assim, "devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489, II, e 1.022 do CPC/15" (REsp 1.736.593/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 11/02/2020, DJe 13/02/2020).
+Ademais, ao contrário do que se sustenta, a decisão está efetivamente fundamentada, ainda que de forma concisa, o que, na linha dos precedentes desta Corte, não se confunde com a ausência ou deficiência de fundamentação.
+Por fim, os dispositivos legais apontados pela recorrente - §§ 1º e 3º do art. 18 do CDC - não foram enfrentados pelo acórdão impugnado, incidindo o óbice da Súmula n. 211/STJ.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXISTÊNCIA DE VÍCIO NO AUTOMÓVEL. CONCESSÃO DE EFEITO SUSPENSIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E DEFICIÊNCIA DE FUNDAMENTAÇÃO NÃO EVIDENCIADAS. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
