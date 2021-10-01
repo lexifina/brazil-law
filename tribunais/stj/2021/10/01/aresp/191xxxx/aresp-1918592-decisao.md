@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 488 e-STJ):
+APELAÇÃO CÍVEL. Direito do consumo. Plano de saúde. Portador de paralisia cerebral com grave comprometimento motor. Tratamento médico na modalidade domiciliar - home care. Atendimento domiciliar que se constitui prolongamento da internação hospitalar devendo ser tida como cláusula integrante dos contratos de plano de saúde. Alegação de inadimplemento consistente na demora em efetuar a troca do equipamento de aferição de sinais vitais e não fornecimento de equipamento - cadeira de rodas, cuja utilização era necessária para dar continuidade ao tratamento, melhora da saúde e da qualidade de vida do paciente. Comprovada a necessidade e adequação do tratamento ao quadro clínico do autor, mostra-se abusiva a recusa da empresa ré a arcar com o custo do fornecimento da cadeira de rodas. Falha na prestação do serviço, além de conduta violadora da boa-fé objetiva e contrária à própria natureza do contrato. Dano Moral configurado. Incidência dos Verbetes Sumulares nº 209 e nº 338, desta Corte de Justiça. Reparação cujo arbitramento não considerou os princípios da razoabilidade e proporcionalidade a merecer adequação. PROVIMENTO PARCIAL DO RECURSO.
+Opostos embargos de declaração (fls. 510-514 e-STJ), esses foram rejeitados (fls. 518-523 e-STJ).
+Em suas razões de recurso especial (fls. 529-541 e-STJ), a parte recorrente aponta que o acórdão recorrido violou os seguintes dispositivos legais:
+(i)artigos 10, inc. VI, 12 da Lei nº 9.656/98; e 51 do Código de Defesa do Consumidor, aduzindo que o contrato do plano de saúde exclui expressamente o tratamento domiciliar, não havendo qualquer abusividade na referida limitação contratual;e
+(ii) artigos 186, 188, inc. I, 927 e 944, parágrafo único, do Código Civil, sustentando que não houve ilicitude na negativa de cobertura pelo plano de saúde, inexistindo danos morais indenizáveis, e, no caso de sua manutenção, que sejam reduzidos de forma proporcional ao caso dos autos.
+Contrarrazões às fls. 568-574 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 576-579 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os fundamentos dos óbices das Súmulas 7 e 83 do STJ.
+Daí o agravo (fls. 594-602 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 616-625 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1.  Cinge-se  a  pretensão  recursal  à  verificação  acerca  do  cabimento  da  cobertura  do  procedimento  de  home  care  prescrito  para  o  tratamento  do  beneficiário.
+Com efeito, a jurisprudência do STJ é firme em considerar abusiva a cláusula contratual que veda internação domiciliar com alternativa à hospitalar.
+A título ilustrativo, confiram-se as ementas dos seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. INTERNAÇÃO HOSPITALAR. ATENDIMENTO MÉDICO DOMICILIAR. CONVERSÃO. POSSIBILIDADE. HOME CARE. CLÁUSULA CONTRATUAL OBSTATIVA. ABUSIVIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A Segunda Seção desta Corte Superior consagrou o entendimento de não se aplicar o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, haja vista a inexistência de relação de consumo (Súmula nº 608/STJ).
+3. É abusiva a cláusula contratual que veda a internação domiciliar como alternativa à internação hospitalar, visto que, da natureza do negócio firmado (arts. 423 e 424 do CC), há situações em que tal procedimento é altamente necessário para a recuperação do paciente sem comprometer o equilíbrio financeiro do plano considerado coletivamente.
+4. Agravo interno não provido.
+(AgInt no AREsp 1185766/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/06/2018, DJe 18/06/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA DE TRATAMENTO DOMICILIAR. IMPRESCINDIBILIDADE COMPROVADA. AUSÊNCIA DE CERCEAMENTO DE DEFESA. DANOS MORAIS CONFIGURADOS. QUANTUM. VALOR RAZOÁVEL. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+2. No caso, a Corte a quo concluiu que as provas produzidas nos autos eram suficientes para comprovar a necessidade do atendimento em regime de home care. A modificação de tal entendimento demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Precedentes.
+4. A recusa indevida, pela operadora de plano de saúde, em autorizar a internação domiciliar (home care), no caso dos autos, conforme reconhecido pelas instâncias ordinárias, agravou a situação de aflição psicológica e de angústia no espírito do beneficiário, o que enseja a reparação do dano moral.
+5. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante, o que não ocorreu no caso dos autos, em que fixado em R$ 14.310,00 em decorrência de recusa de cobertura de tratamento domiciliar (home care).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1673498/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020)  grifou-se
+Destarte,  aplica-se  ao  ponto  orientação  prevista  no  enunciado  83/STJ.
+2.  De  outra  parte,  rever  a  conclusão  das  instâncias  ordinárias  quanto  à  configuração  do  dano  moral,  demandaria  o  reexame  dos  elementos  fáticos  e  probatórios  da  lide,  providência  vedada  em  sede  de  recurso  especial,  a  teor  do  óbice  da  Súmula  07  do  STJ.
+Sobre  o  tema:
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  RECUSA.  REALIZAÇÃO  DE  CIRURGIA.  DANO  MORAL.  REEXAME  DE  PROVAS.  INVIABILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Rever  a  conclusão  do  julgado  demandaria  o  reexame  do  contexto  fático-probatório,  procedimento  vedado  na  estreita  via  do  recurso  especial,  a  teor  da  Súmula  nº  7/STJ.
+3.  O  Superior  Tribunal  de  Justiça  tem  jurisprudência  consolidada  no  sentido  de  não  ser  possível  a  revisão  do  valor  fixado  a  título  de  dano  moral,  visto  implicar  reexame  de  matéria  fático-probatória  (Súmula  nº  7/STJ).  A  alteração  da  condenação  somente  é  viável  nas  hipóteses  em  que  o  montante  se  revelar  irrisório  ou  exagerado,  circunstâncias  inexistentes  na  espécie.
+4.  Agravo  interno  não  provido.
+(AgInt  no  AREsp  1123697/MG,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  06/03/2018,  DJe  12/03/2018)  grifou-se
+3. Do mesmo modo, no que se refere à revisão do valor da condenação por danos morais, fixada em R$ 15.000,00 (quinze mil reais), para o acolhimento do apelo extremo nessa extensão, seria imprescindível derruir afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, atraindo, mais uma vez, o óbice da Súmula 07 do STJ.
+Vale anotar, ainda, que nos termos da orientação deste Pretório, o valor estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ARTS. 7º, 141 E 492 DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALEGAÇÃO DE INEXISTÊNCIA DE RECUSA AO PROCEDIMENTO CIRÚRGICO NÃO COMPROVADA PELA OPERADORA. ENTRAVES ADMINISTRATIVOS QUE CONFIGURAM NEGATIVA DE COBERTURA. DANOS MORAIS CONFIGURADOS. REVER A CONCLUSÃO DO ACÓRDÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. QUANTUM INDENIZATÓRIO RAZOÁVEL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+4. Em relação ao quantum indenizatório, a jurisprudência desta Corte Superior tem firmado entendimento no sentido de que o valor estabelecido pelas instâncias ordinárias somente deve ser revisto nas hipóteses em que a condenação se revelar irrisória ou excessiva, em desacordo com os princípios da razoabilidade e da proporcionalidade, o que não ocorre no caso dos autos. Dessa forma, levando-se em consideração as particularidades do caso, em que foram sopesadas a situação socieconômica do ofensor e a avaliação da repercussão do evento danoso na vida do paciente, verifica-se que a quantia indenizatória fixada em R$ 15.000,00 (quinze mil reais) não se mostra desproporcional e sua revisão demandaria, inevitavelmente, o reexame de matéria fático-probatória, razão pela qual deve ser ratificada a aplicação da Súmula n. 7 do STJ.
+5. Agravo interno improvido.
+(AgInt no AREsp 1386578/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/02/2019, DJe 13/03/2019)
+4. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nega-se provimento ao agravo e, com base no art. 85, § 11, do CPC/2015, majora-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte recorrida
+Publique-se.
+Intimem-se.
