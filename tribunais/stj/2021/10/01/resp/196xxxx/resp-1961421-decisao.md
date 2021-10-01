@@ -1,0 +1,32 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso infere-se que MAXIMILIANO UNGLAUBER VELOSO (MAXIMILIANO) ajuizou ação de cobrança de multa c/c obrigação de fazer e indenização por danos morais e materiais contra VILAURBE EMPREENDIMENTOS IMOBILIÁRIOS LTDA,JORGE ROSSELÓ SALVÁ, e MONDRAGO EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA (VILAURBE e outros).
+No curso do feito foi proferida decisão excluindo a possibilidade de formação de litisconsórcio ativo necessário.
+Contra essa decisão, VILAURBE e outros interpuseram agravo de instrumento, afirmando que (1)deve ser reconhecido o litisconsórcio necessário, sob pena de incidência dos efeitos previstos no artigo 115 do NCPC; (2) os pedidos deduzidos na inicial interferem no atual estado do imóvel e do respectivo registro imobiliário,afetando necessariamente direito dos terceiros coproprietários do imóvel, sendo devida a formação de litisconsórcio ativo ; (3) deve ser revogado o benefício da "gratuidade"; (4) o autor, embora maior interditado, está representado por Advogado particular, possui imóveis em nome próprio (e outros em nome de sua genitora e Curadora), aufere renda através de aluguel, além de pensão deixada pelo falecido pai; e,(5) deve ser determinada a suspensão do andamento processual, inclusive com a interrupção do prazo para contestação e a citação dos demais coproprietários do imóvel (v. fls. 1/17).
+Ao julgar o agravo, o Tribunal bandeirante negou-lhe provimento, em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Ação de Cobrança c.c.
+Obrigação de Fazer e Indenização por Danos Materiais e Morais. Instrumento Particular de Compromisso de Compra e Venda de Bem Imóvel. DECISÃO que indeferiu o pedido de reconhecimento de litisconsórcio ativo necessário e deferiu a "gratuidade" ao autor. INCONFORMISMO dos demandados deduzido no Recurso. EXAME: Copropriedade que não implica, no caso, a formação de litisconsórcio ativo necessário. Aplicação do artigo 114 do Código de Processo Civil. Decisão que defere o benefício da "gratuidade" que não integra o rol do artigo 1.015 do Código de Processo Civil. Pedido de revogação do benefício passível de exame na Vara de origem. Decisão mantida. RECURSO NÃO PROVIDO NA PARTE CONHECIDA (e-STJ, fl. 133).
+Os embargos de declaração opostos por VILAURBE e outros foram rejeitados (e0-STJ, fls. 150154).
+No recurso especial, interposto com fundamento no art. 105, III, a, da CF, VILAURBE alegou violação dos arst.4, 11, 114, 489, II e 1022, todos do CPC, ao sustentar que o acórdão recorrido deixou de enfrentar tema essencial para o desate da controvérsia, notadamente quanto ao cancelamento da incorporação imobiliária existente na certidão de matrícula do imóvel objeto da discussão dos autos (e-STJ, fls. 159169).
+Após apresentadas as contrarrazões, o recurso foi admitido na origem (e-TJ, fls. 178/182 e 190/191).
+É o relatório.
+DECIDO.
+O presente recurso comporta parcial provimento.
+De plano vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1.022 do NCPC
+No presente recurso, VILAURBE e outros alegaram a violação do art. 1.022, do NCPC em virtude da omissão quanto ao cancelamento da incorporação imobiliária existente na certidão de matrícula do imóvel objeto da discussão dos autos.
+Com razão.
+De fato, em seu embargos de declaração a VILAURBE e outrosrequereram a manifestação do TJSPquantoao cancelamento da incorporação imobiliária existente na certidão de matrícula do imóvel objeto da discussão dos autos.
+Contudo, da acurada análise do acórdão que julgou os aclaratórios verifica-se que a Corte estadualnão tratou sobre o tema, visto que apenas consignou:
+ ..  A mera existência de condomínio entre o autor e os copróprietários do imóvel em causa não impõe, por si só, a formação do litisconsórcio ativo necessário, mesmo porque o caso dos autos não envolve pretensão relativa a direito real.
+Na verdade, denota-se solidariedade entre os copróprietários do imóvel, notadamente em relação à reparação do prejuízo material reclamado decorrente da danificação da casa e do pomar que existiam no terreno vendido aos requeridos. Essa solidariedade contudo não implica necessariamente a participação dos demais proprietários desse imóvel no polo ativo da lide, "ex vi" do artigo 114 do Código de Processo Civil ("O litisconsórcio será necessário por disposição de lei ou quando, pela natureza da relação jurídica controvertida, eficácia da sentença depender da citação de todos que devam ser litisconsortes)." ("sic", fls. 137/138).
+O tema também não foi tratado no acórdão de e-STJ, fls. 132/141.
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razõestenha sido analisada pelo acórdão objurgado.
+Recusando-se o TJSPa se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+Assim, medida de rigor o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), DOU PARCIAL PROVIMENTO ao recurso especial determinando o retorno dos autos ao TJSPpara que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA CUMULADA OM DANOS MORAIS E MATERIAIS. AGRAVO DE INSTRUMENTO. ART. 1022 DO NCPC. DISCUSSÃO QUANTO AOCANCELAMENTO DA INCORPORAÇÃO IMOBILIÁRIA EXISTENTE NA CERTIDÃO DE MATRÍCULA DO IMÓVEL. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL ESTADUAL PARA SANAR O VÍCIO APONTADO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
