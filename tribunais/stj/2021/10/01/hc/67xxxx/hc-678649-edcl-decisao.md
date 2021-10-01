@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que não conheceu dohabeas corpus.
+Alega a possibilidade de exame da matéria por se mostrar ilegalidade flagrante, passívelde concessão de habeas corpus de ofício.
+Requer o acolhimento dos embargos de declaração, concedendo efeitos infringentes, a fim de declarar a nulidade do processo ou reduzir a pena, com fundamento no art. 16 do CP.
+A decisão embargada está assim fundamentada (fl. 183):
+Verifica-se que as matérias referentes à nulidade e ao arrependimento posterior não foram objeto de análise pelo colegiado do Tribunal de origem. Sendo assim, esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+Dessa forma, verificada a supressão de instância, não há como perquirir acerca destas questões. Nesse sentido: HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018; HC 430.992/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/03/2018, DJe 02/04/2018; AgRg no HC 363.567/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/09/2017, DJe 02/10/2017.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão.
+No caso, não há falar em vício no acórdão embargado, pois a matéria foi decidida com a devida e clara fundamentação, pois não havendo o enfrentamento das teses defensivaspelo Tribunal de origem, não cabe a esta Corte Superior a análise direta da matéria, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. QUESTÃO NÃO APRECIADA PELA CORTE DE ORIGEM NO ACÓRDÃO RECORRIDO. SUPRESSÃO DE INSTÂNCIA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. IMPOSSIBILIDADE DE AFERIR A OCORRÊNCIA DA CAUSA EXTINTIVA SEM REEXAME DE MATÉRIA FÁTICA. RECURSO NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. O Tribunal de origem não conheceu do writ originário porque "não passa de mera reiteração de habeas corpus anterior já decidido," o que impede o conhecimento do recurso sob pena de supressão de instância e de violação ao princípio da dialeticidade.
+2. Com efeito, em razão de não ter sido analisado o mérito no acórdão recorrido, é vedada a apreciação do pleito pelo Superior Tribunal de Justiça. Outrossim, o Impetrante deixou de infirmar de maneira clara e específica os fundamentos do acórdão hostilizado, colacionando argumentação totalmente dissociada das razões de decidir contidas no habeas corpus originário, pois se limita a repisar a tese de que há prescrição da pretensão executória.
+3. Ademais, além de não estar demonstrada, estreme de dúvidas, a arguida causa extintiva, "Esta Corte possui entendimento de que a análise do pleito de extinção da punibilidade pela prescrição da pretensão executória cabe ao juízo da execução, uma vez que demanda a verificação de diversas informações, não apenas quanto ao trânsito em julgado para a acusação e início da execução da pena, como também acerca da ocorrência de incidentes que interferem diretamente na contagem do prazo prescricional, nos termos do disposto nos arts.
+116, parágrafo único e 117, incisos V e VI, ambos do CP. Julgado: AgRg no HC 457.810/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 8/11/2018, DJe 23/11/2018" (AgRg no HC 473.344/PB, Rel.
+Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/03/2020, DJe 26/03/2020).
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no RHC 122.683/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/02/2021, DJe 22/02/2021)
+Ademais, sequer cabe a concessão dehabeas corpusde ofício, porquanto não se evidencia ilegalidade flagrante, tendo em vista queas questões trazidas pela defesa demandariam revolvimento do conjunto fático-probatório, inadmissível pela via dowrit.
+Observa-se, portanto, que o embargante pretende apenas a rediscussão da matéria, visando alterar a conclusão que lhe resultou desfavorável, o que é incabível na via eleita, pelo querejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
