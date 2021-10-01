@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS AUGUSTO CHAGAS CALDAS contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+.. o Agravo interposto por decisão que inadmitiu o Recurso Especial, que teve fundamento no art.105, inciso III, da Constituição Federal e que foi considerado sim a Sumula 7 do STJ, visto que não foi solicitado o Reexame do Mérito mais a reforma do Acórdão proferido pelo Tribunal Regional Federal da 2ª Região, diante dos prejuízos causados ao Agravante.(fl. 2370)
+ ..
+O indeferimento do seguimento do AGRAVO, pela decisão atacada, teve como base os TEMAS 339 e 660, os quais não se aplica neste caso, devendo a decisão atacada, ser reformada para ver acolhido e provido o Recurso Especial. Trata-se de Agravo contra decisão em forma de Certidão de fls.1.714/1.715, que não admitiu o Recurso Especial de fls.1.600/1.611, não existindo no site deste Tribunal o Inteiro Teor de sua fundamentação, somente sendo visualizado e aparecendo na Publicação feita em Diário Oficial..(fl.2371)
+ ..
+.. O Acórdão, embargado, deveria, antes do seu julgamento, ter apreciado, sob pena de CERCEAMENTO DE DEFESA, a petição de fls. 1521 e 1522, e deferido a parte Recorrente o direito, constitucional de fazer a SUSTENTAÇÃO ORAL EM PLENARIO.
+Pelo que se vê dos autos, houve ofensa aos artigos 5º, LV e 93, IX da C.F., o julgamento se deu sem que a parte pudesse fazer a sua SUSTENTAÇÃO ORAL apesar de requerida inclusive em plenário com comparecimento. (fl.2375)
+ ..
+.. REQUER seja recebido este Recurso Especial, para anular o ACÓRDÃO e marcar nova sessão de julgamento em plenário para que o Recorrente possa fazer a sua SUSTENTAÇÃO ORAL. (fl.2376)
+ ..
+.. houve infringência a Lei Federal, Código de Processo Civil em seus Artigos 1.022, Inciso I e 489 § 1º Inciso I, pois em momento algum sequer foi explicado pelo juízo de primeira instância na Sentença e no Acórdão como se chegou e se definiu os respectivos valores de condenação em Multa Civil, pois simplesmente condenar sem explicar o critério de condenação arbitrando valores excessivos e sem nenhuma explicação lógica fica extremamente difícil de ser entendido, sendo ilegal, é o que se requer que seja revisto e reformado por este Tribunal. (fls. 2376/7)
+ ..
+O ACORDÃO, ao determinar a reativação do Bloqueio de Bens do Recorrente, deveria, antes de mais nada, intimar o Recorrente a fazer o depósito ou apresentar bem a penhora para a garantia do Juízo. Porem, isto não foi feito.
+ ..
+Em face do exposto, requer o provimento deste Recurso Extraordinário, para corrigir o Acórdão, objeto deste Recurso, CANCELANDO A ORDEM DE BLOQUEIO DE BENS para determinar a intimação do Recorrente para fazer o depósito judicial do valor do Bloqueio ou apresentar bens a ser objeto da garantia.(fl. 2381)
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, Súmula 7/STJ e ausência de similitude fática, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020; e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Relativamente à Súmula n. 7 do STJ, não basta a parte "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/6/2020).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. MULTA POR OCUPAÇÃO IRREGULAR DE IMÓVEL. DESCONTOS À TÍTULO DE OCUPAÇÃO. INDENIZAÇÃO POR DANOS MORAIS. REPETIÇÃO DE INDÉBITO. DESVINCULAÇÃO DA ENTREGA DO IMÓVEL DOS ATOS DA CEDAE. IMPROCEDENTE A INDENIZAÇÃO POR DANOS MORAIS. PARCIALMENTE PROCEDENTE A REPETIÇÃO DE INDÉBITO. DEMAIS PEDIDOS PROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+ ..
+II - Inadmitiu-se o recurso especial com base nos óbices referentes à incidência da Súmula n. 7/STJ e da Súmula n. 83/STJ. Agravo nos próprios autos que não impugna os fundamentos da decisão recorrida.
+III - São insuficientes para considerar como impugnação aos fundamentos da decisão que não admite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+IV - No caso em que foi aplicado o Enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+V - Agravo interno improvido. (AgInt no AREsp n. 1.474.472/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/10/2019.)
+O momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo porventura tratada no recurso especial.
+A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
