@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pela Uniãodesafiando decisão que negou provimento ao agravo pelos seguintes fundamentos: (I) não houve ofensa aos arts.489, § 1º, e 1.022, II, do CPC; (II)nos termos da jurisprudência firmada no âmbito desta Corte de Justiça, tanto aUnião quanto o DNIT possuem legitimidade para figurar no polo passivo da ação reparatória proposta com fundamento na ocorrência de acidente automobilístico em rodovia federal; (III) incidência da Súmula 7/STJ, pois rever as conclusões do acórdão a respeito dacaracterização da responsabilidade civil do ente estatal demandaria o reexame de provas; (IV) rever o valor da indenização também atrai a incidência da Súmula 7/STJ; (V)quanto ao termo inicial para incidência dos juros moratórios, o Tribunal de origem decidiu de acordo com o entendimento destaCorte, segundo a qual deve-se considerar como termo inicial para a incidência dos juros, nos casos de responsabilidade extracontratual, a data do evento danoso.
+Inicialmente, nas alegações do agravo interno, a União pondera que somente tem interesse em impugnar o ponto da decisão pertinente aos juros moratórios.
+Para tanto, alega que somente passam a incidir com a fixação do valor devido, poisa retroação à data do evento danoso implicará em remunerar o capital que já está remunerado pelo tempo de espera, sendo, pois, inaplicável, a espécie, a Súmula 54/STJ.
+Impugnação às fls.419/420.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RESPONSABILIDADE CIVIL. ACIDENTE EM RODOVIA. ANIMAL NA PISTA.RELAÇÃO EXTRACONTRATUAL. JUROS MORATÓRIOS. TERMO INICIAL. EVENTO DANOSO. SÚMULA 54/STJ.
+1.Em se tratando de responsabilidade civil extracontratual, como na espécie, os juros moratórios incidem desde a data do evento danoso, a teor da Súmula 54/STJ.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): O inconformismo não comporta êxito.
+Como antes asseverado na decisão agravada, devem ser mantidos os critérios fixados pelo Tribunal de origem, que, em conformidade com a jurisprudência firme desta Corte, determinou que por tratar-se deresponsabilidade extracontratual,os juros de mora incidam a partir do evento danoso (Súmula 54/STJ).
+Em reforço:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ESTADO.HOMICÍDIO. OBRA IMPUTADA A POLICIAS MILITARES. RECONHECIMENTO NO PLANO LEGISLATIVO. COMPANHEIRA, FILHOS, NETO, SOBRINHOS E SOBRINHOS-NETOS DA VÍTIMA. LITISCONSÓRCIO. CÚMULO OBJETIVO DE PEDIDOS. RESISTÊNCIA AMPLA. DANOS MORAIS. EXORBITÂNCIA OU A ÍNDOLE IRRISÓRIA DA IMPORTÂNCIA ARBITRADA. NÃO VERIFICADA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ.
+I - Trata-se de ação pleiteando, em suma, indenização por danos materiais e morais em virtude do falecimento de Calupe Florindo Ferreira, parentes dos autores e vítima no episódio conhecido como "Chacina da Baixada", atingindo por disparos de arma de fogo de policiais.
+II - A sentença julgou os pedidos parcialmente procedentes para um dos autores e julgou improcedentes os pleitos indenizatórios deduzidos pelos demais autores.
+III - O Tribunal do Estado do Rio de Janeiro reformou parcialmente a sentença para, mantendo os termos da condenação ao pagamento de danos morais, fixar pensão à esposa da vítima, arbitrar indenização para a aquisição de sepultura e jazigo, fixar a data da citação como termo inicial dos juros moratórios e redistribuir os ônus da sucumbência.
+IV - No tocante à pretensão de revisão da verba indenizatória, a jurisprudência desta Corte firmou o entendimento de que é admissível o reexame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. A propósito, confiram-se: AgInt no REsp 1.287.225/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/3/2017, DJe 22/3/2017 e AgInt no AREsp 873.844/TO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/3/2017, DJe 27/3/2017.
+V - Nesse panorama, para que se considere a verba irrisória ou excessiva, é necessário efetuar um parâmetro com precedentes em casos, senão idênticos, ao menos análogos, em que se possa verificar eventual disparidade. Em análise à jurisprudência deste Tribunal, colhem-se os seguintes precedentes: AgInt no AREsp 163.076/RJ, relator Ministro Gurgel De Faria, Primeira Turma, julgado em 24/8/2020, DJe 1º/9/2020 e REsp 1.124.471/RJ, relator Ministro Luiz Fux, Primeira Turma, julgado em 17/6/2010, DJe 1º/7/2010.
+VI - Com base nos precedentes citados, tais verbas não se mostram irrisórias, diante das peculiaridades do caso in concreto, bem delineado na instância ordinária, para que possam ser revistas nesta Corte, no que a pretensão, de fato, esbarra no óbice sumular n.
+7/STJ.
+VII - Quanto à insurgência sobre o termo a quo da incidência dos juros moratórios da verba indenizatória, se a partir do evento danoso, consoante defendem os recorrentes, ou a partir da citação, conforme consignado no acórdão recorrido, é forçoso esclarecer que o STJ tem posicionamento consolidado de que os juros moratórios, em caso de responsabilidade extracontratual  situação dos autos, fluem a partir do evento danoso, nos termos da Súmula n. 54/STJ.
+VIII - Agravo interno improvido.
+(AgInt no REsp 1848829/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 09/08/2021, DJe 13/08/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. HOMICÍDIO PERPETRADO POR POLICIAL MILITAR DURANTE O HORÁRIO DE SERVIÇO.VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. DANOS MORAIS. REVISÃO DO VALOR DA INDENIZAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RELAÇÃO EXTRACONTRATUAL. JUROS MORATÓRIOS. TERMO INICIAL.EVENTO DANOSO. SÚMULA 54/STJ.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489 e 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A jurisprudência deste Superior Tribunal admite, em caráter excepcional, a alteração do quantum arbitrado a título de danos morais, caso o valor se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu no caso concreto.
+3. Em se tratando de responsabilidade civil extracontratual, como na espécie, os juros moratórios incidem desde a data do evento danoso, a teor da Súmula 54/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1525615/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 12/03/2020)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
