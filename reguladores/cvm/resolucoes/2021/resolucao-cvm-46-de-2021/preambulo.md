@@ -1,0 +1,4 @@
+Resolução CVM nº 46, de 2021
+Dispõe sobre a tramitação de processos administrativos não sancionadores no âmbito do Colegiado da Comissão de Valores Mobiliários e revoga as Deliberações CVM nº 463, de 25 de julho de 2003, nº 468, de 7 de julho de 2004, nº 510, de 18 de outubro de 2006, nº 558, de 12 de novembro de 2008, nº 771, de 31 de maio de 2017, nº 780, de 4 de setembro 2017, nº 814, de 3 de abril de 2019, e nº 819, de 25 de junho de 2019.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS – CVM torna público que o Colegiado, em reunião realizada em 11 de agosto de 2021, com fundamento no disposto nos arts. 6º, da Lei nº 6.385, de 7 de dezembro de 1976, e 6º, VI e VII, e 8º, II, do Anexo I à Resolução CVM nº 24, de 5 de março de 2021, bem como nos arts. 5º a 9º do Decreto nº 10.139, de 28 de novembro de 2019, APROVOU a seguinte Resolução:
+CAPÍTULO I – ÂMBITO E FINALIDADE
