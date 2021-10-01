@@ -1,0 +1,21 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de divergência opostos por MARIMEX DESPACHOS TRANSPORTES E SERVIÇOS LTDA contra acórdão proferido pela 2ª Turma do STJ (rel. Min. Mauro Campbell Marques) que, ao negar provimento ao agravo interno apresentado pela ora embargante, manteve a decisão que conheceu o agravo paraconhecer parcialmente o recurso especial e, nesta extensão, negar-lhe provimento. O acórdão recorrido foi assim ementado:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AOS ARTIGOS 489, § 1º, INCISOS III E IV, 1.022, INCISO II, AMBOS, DO CPC/2015. NÃO CARACTERIZAÇÃO. IPTU. INCIDÊNCIA. FUNDAMENTOS CONSTITUCIONAIS DO ACÓRDÃO RECORRIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, ao asseverar expressamente "a imunidade recíproca prevista no art. 150, inciso VI, alínea "a" da Constituição Federal não se estende à empresa privada arrendatária de imóvel público, quando seja ela exploradora de atividade econômica com fins lucrativos, sendo nesta hipótese constitucional a cobrança do IPTU (..)" (fls. 570, e-STJ). Neste sentido, cabe mencionar que os embargos de declaração opostos pela contribuinte ora recorrente na origem, em nenhum momento pugnou pelo enfrentamento da controvérsia sob o viés dos artigos 32 e 34 do CTN, tampouco provocaram o Tribunal bandeirante a analisar este viés infraconstitucional. Portanto, não remanesce nenhum vício processual que possa suscitar a declaração de vício na fundamentação.
+2. Agravo Interno não provido. (e-STJ, fl. 968)
+Sustenta a embargante que o acórdão recorrido divergiu de orientação firmada pela Corte Especial(EDcl no AgInt no RE nos EDcl no AgInt no AgInt no AREsp658.517/RJ), sob o fundamento de que não é possível a aplicação do"Tema 385 da Repercussão Geral aos presentes autos, sem a verificação da atividade exercida pela embargante, se de interesse público ou não, em que pese a oposição de aclaratórios precisamente para tal finalidade" (e-STJ, fl. 1.081).
+É o breve relatório.
+Decido.
+Os embargos de divergência devem ser indeferidos, tendo em vista a sua manifesta inadmissibilidade.
+É que a impugnação específica de todos os fundamentos da decisão recorridaé pressuposto ao conhecimento de qualquer recurso.
+No caso, o acórdão ora embargado negou provimento ao agravo interno, reafirmando "não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, ao asseverar expressamente "a imunidade recíproca prevista no art. 150, inciso VI, alínea "a" da Constituição Federal não se estende à empresa privada arrendatária de imóvel público, quando seja ela exploradora de atividade econômica com fins lucrativos, sendo nesta hipótese constitucional a cobrança do IPTU (..)" (fls. 966, e-STJ).
+Todavia, a parte embargante, referindo-se apenas a "(..) discussão quanto à questão de fundo dos presentes autos, relativa à aplicação do Tema 385 da Repercussão Geral (..), sem a verificação da atividade prestada (..)" (fl. 966), circunstância não debatida no acórdão orarecorrido.
+Incidência, por analogia, do princípio inserto nas súmulas182/STJ e 284/STF, a estabelecer a necessidade de ataque específico aosfundamentos da decisão impugnada.
+Esse contexto, aliás, também evidencia a aplicação da orientação contidana súmula 315/STJ ao caso concreto - já que a questão trazida no recurso especial relativa ao Tema 385 não foi apreciada-, bem assim a falta de similitude entre osjulgados postos à confrontação, o que igualmente impede o conhecimento dospresentes embargos.
+Ante o exposto, com fundamento no art. 266-C, do Regimento Interno desta Corte, indefiro os embargos de divergência.
+A apresentação de novos incidentes manifestamente infundados ou protelatórios será reputada litigância de má-fé.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA RECURSAL.
+INDEFERIMENTO LIMINAR.
