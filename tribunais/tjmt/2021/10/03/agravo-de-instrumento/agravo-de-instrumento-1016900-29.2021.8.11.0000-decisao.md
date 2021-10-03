@@ -1,0 +1,20 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por ALBERTO KERN, com o fito de suspender a decisão que, nos autos da Ação de Interdito Proibitório de n. 1000844-10.2020.8.11.0014, manejada por CLEO JONAS CEZIMBRA CORREA e GELSON ROGERIO CEZIMBRA CORREA, deferiu o pedido liminar e determinou a expedição de mandado proibitório para proteger os autores, ora agravados, da violência iminente e mantê-los na posse da área turbada, sob pena de multa pecuniária.
+Para tanto, o agravante alega que não estão presentes os requisitos para a concessão da liminar de proteção possessória, sobretudo porque os agravados ou os seus antecessores jamais detiveram ou exerceram a posse sobre os 5.635 hectares em discussão.
+Pondera que é proprietário da Fazenda JK desde o ano de 2008 e que somente deslocou a cerca que ele próprio construiu para o seu antigo lugar para extrair pedras que se encontram no local, atividade que, aliás, alega ser devidamente regulamentada pela SEMA.
+Afirma que nunca abriu mão de sua posse e propriedade, sendo a alteração da cerca em tempo pretérito apenas uma cortesia, uma mera liberalidade, para auxiliar e facilitar a situação das propriedades vizinhas.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, por maior esforço que dedique o agravante, não decorre da análise da questão posta, fundamento bastante para convencer da concessão da liminar recursal pretendida.
+Consoante se infere da decisão de base, a liminar possessória, objeto do presente recurso, foi conferida em favor dos agravados, justamente porque eles comprovaram o preenchimento dos requisitos exigidos pelos artigos 561 e 567 do Código de Processo Civil, acostando aos autos os documentos do imóvel, dentre eles matrícula, contrato de compra e venda e a escritura, além do boletim de ocorrência que demonstra, a princípio, a prática do esbulho e a sua respectiva data (id. 37114773).
+Soma-se a isso, o fato de a decisão ter sido deferida mediante audiência de justificação prévia, oportunidade em que foram colhidas provas testemunhais que, por sua vez, reforçaram a prova fática do exercício da posse pelos autores, ora agravados.
+Dessa feita, havendo indícios de que os autores/agravados exerciam a posse na área, impõe-se a manutenção da decisão de base.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intime-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
