@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deGISELE CRISTINA RIBEIROapontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penaln. 0006772-67.2020.8.26.0037).
+Depreende-se dos autos que a paciente cumpre penapela prática dos delitos previstos no art. 33, caput, e no art. 35, ambos da Lei n.11.343/2006e, alegando exercer o poder familiar em favor de criança,pleiteoua retificação do cálculo de pena para adotar a fração de 1/8para progressão de regime, com base no art.112, § 3º, inciso III, da Lei n.7210/1984, mas o Juízo a quo indeferiu o pedido(e-STJ fl. 56).
+Interposto agravo em execução na origem, o Tribunal a quo negou provimento ao recurso.O acórdão está assim ementado (e-STJ fl. 100):
+AGRAVO DE EXECUÇÃO PENAL -Impugnação à decisão que indeferiu o pedido de retificação do cálculo de penas - Agravante mãe de infante - Pleito de aplicação da fração de 1/8 (um oitavo) -Condenação pela prática de tráfico de drogas e de associação para o tráfico -Artigo 112, § 3º, inciso V da Lei nº 7.210/84 - Impedimento legal - Decisão fundamentada-Agravo DESPROVIDO.
+Daí o presente writ, no qual a Defensoria Pública do Estado de São Paulo afirmaque "a jurisprudência é clara no sentido de que nem mesmo a anterior condenação pelo artigo 35, da Lei 11.343/2006, tem o condão de inviabilizar a aplicação do artigo 112, § 3º, da Lei 7.210/1984, uma vez que os tipos penais de "associação para o tráfico"(artigo 35, da Lei 11.343/2006) e de "integrar organização criminosa"(art. 1º, § 1º, da Lei n. 12.850/2013) são distintos" (e-STJ fl. 8).
+Por isso, requer, liminarmente e no mérito, "seja reconhecida a incidência do disposto no artigo 112, § 3º, da Lei 7210/1984, com redação dada pela Lei n. 13.964/2019, determinando-se a aplicação da fração de 1/8(um oitavo), em relação a todos os crimes, para fins de progressão de regime no cálculo de penas da parte paciente"(e-STJ fls. 10/11).
+Indeferida a liminar (e-STJ fls. 113/114) e prestadas as informações (e-STJ fls. 118/129 e 133/143), manifestou-se o Ministério Público Federal pela denegação da ordem (e-STJ fls. 145/148).
+É, em síntese,o relatório.
+Acerca da controvérsia, assim consignou o Tribunal de origem (e-STJ fls. 101/102):
+No caso em tela, observa-se que a agravante é primária, foi condenada pela prática dos delitos previstos no artigo 33, caput, e no artigo 35, ambos da Lei nº 11.343/06 (vide folhas 23/26 da origem), e é mãe de duas crianças, conforme certidões de nascimento juntadas nas folhas 05/06 dos autos de origem.
+O juízo a quo indeferiu o pedido de retificação dos cálculos, nas folhas 37/38, sob os seguintes fundamentos:
+"Observo que, conforme certidão de fls. 14, a condenação em razão do cometimento do crime previsto no art. 35 da Lei n. 11.343/2006 revela que, em realidade, a sentenciada integra organização criminosa - expressão essa empregada pelo legislador em sentido lato -, fator impeditivo à concessão da progressão especial almejada, nos termos da regra inserta no art.112, § 3º, inciso V, da Lei de Execução Penal."
+A lei nº 13.769/18 disciplinou o regime de cumprimento de pena privativa de liberdade de condenadas mães, gestantes, responsáveis por crianças ou por pessoas com deficiência, inserindo, no artigo 112 da Lei nº 7210/84, o § 3º com o seguinte teor:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos: (..)
+§ 3º No caso de mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, os requisitos para progressão de regime são, cumulativamente:
+I - não ter cometido crime com violência ou grave ameaça a pessoa;
+II - não ter cometido o crime contra seu filho ou dependente;
+III - ter cumprido ao menos 1/8 (um oitavo) da pena no regime anterior;
+IV - ser primária e ter bom comportamento carcerário, comprovado pelo diretor do estabelecimento;
+V - não ter integrado organização criminosa.
+No presente caso, como bem pontuado na decisão impugnada, há impedimento legal para a fixação da fração de 1/8 (um oitavo) para fins de progressão de regime em caso de condenação pela prática do delito de associação para o tráfico, ante o teor do artigo 112, § 3º, inciso V, da Lei nº 7210/84, de modo que não há como ser aplicada a fração de 1/8 (um oitavo) para progressão de regime da agravante(grifos no original).
+O entendimento da Cortea quonão merece reparos.
+Com efeito, a utilização de fração reduzida para mulheresgestantes ou mães ou responsáveis por crianças ou pessoas com deficiência não se revela possível em caso de condenadas pelo delito de associação para o tráfico de drogas, uma vez que tal tipo penal implica, necessariamente,a estabilidade e permanência da organizaçãoespecialmente voltada ao cometimento do delito de tráfico.
+No particular, rememoro a lição de Renato Marcão, em que o referido autor pontua que, " p ara a forma descrita no caput, exige-se a pluralidade de agentes, duas ou mais pessoas, ligadas entre si por um animus associativo, para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 da Lei n. 11.343/2006. É necessário que a associação seja estável; é preciso identificar certa permanência na societas criminis, que não se confunde com mera coautoria" (MARCÃO, Renato. Tóxicos: Lei n. 11.343, de 23 de agosto de 2006: Lei de drogas anotada e interpretada. 11 ed. rev., ampl. e atual. São Paulo: Saraiva, 2017, p. 195).
+Nesse sentido, não há que se falar em constrangimento ilegal, pela ausência de cumprimento do requisito previsto no inciso V do §3º do art. 112da LEP,in verbis:
+§ 3º No caso de mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, os requisitos para progressão de regime são, cumulativamente:
+I - não ter cometido crime com violência ou grave ameaça a pessoa;
+II - não ter cometido o crime contra seu filho ou dependente;
+III - ter cumprido ao menos 1/8 (um oitavo) da pena no regime anterior;
+IV - ser primária e ter bom comportamento carcerário, comprovado pelo diretor do estabelecimento;
+V - não ter integrado organização criminosa(grifei).
+No mesmo sentido, o seguinte precedente:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE.EXECUÇÃO PENAL. ART. 112, §3º, DA LEI DE EXECUÇÃO PENAL. LEP.CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. WRIT NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+2. O ordenamento jurídico brasileiro, possui mais de uma definição para o que vem a ser uma organização criminosa, dentre eles a Lei n.12.850/2013, Decreto n. 5.015/2004 (Convenção de Palermo) e Lei n.12.694/2012. Assim, o conceito de organização criminosa não está atrelado a apenas um dispositivo legal, tendo como traço característico uniforme a reunião de pessoas com a intenção de estabilidade para a prática de crimes. Tal característica também está presente no crime de associação para o tráfico de drogas.
+3. Na hipótese, como bem salientado pela instâncias ordinárias, a apenada foi também condenada pelo delito de associação ao tráfico de drogas, o que afasta a possibilidade de incidência do lapso diferenciado para progressão, uma vez que, consoante previsto no art. 112, § 3º, V, da Lei de Execução Penal, é necessário que a sentenciada não  tenha  integrado organização criminosa" (AgRg no HC 534.836/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/9/2020, DJe 30/9/2020).
+4. Habeas Corpus não conhecido(HC 645.236/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 30/03/2021, DJe 13/04/2021, grifei).
+Ante o exposto,denego a ordem.
+Publique-se. Intimem-se.
