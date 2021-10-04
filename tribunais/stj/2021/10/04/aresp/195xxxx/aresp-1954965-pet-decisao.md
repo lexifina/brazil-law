@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de petição (fls. 709/710) apresentada por CELSO ROBERTO CARACAS, em que alega que:
+ ..  a parte respondeu tempestivamente quanto o recolhimento das custas e comprovou juntando a tabela de custas referente a 2020 assim como o seu recolhimento, sendo motivo de AGRAVO EM RECURSO ESPECIAL, onde ficou comprovada a regularidade do recolhimento pertinente à Tabela de Custas vigente para 2020, sendo que, à época em que foi aviado o Recurso Especial, não havia sido publicada e sequer existia a tabela de custas 2021 (fl. 709).
+Nesses termos pede e espera deferimento para ACOLHER O RECURSO ESPECIAL AFASTANDO A SUA DESERÇÃO, tendo em vista que as custas foram recolhidas de acordo com a tabela do ano de 2020, no ano em que foi aviado, ou seja, em 29 de novembro DE 2020 e protocolado em 02 DE dezembro DE 2020, quando ainda não estava disponível a tabela de custas de 2021 (fl. 710).
+É, no essencial, o relatório. Decido.
+A decisão embargada restou clara. O recurso é deserto, uma vez que a parte não recolheu as custas devidas ao STJ.
+Ademais, foi dada oportunidade, na origem, à parte para sanar o vício, mas ela não regularizou, insistindo em dizer que as custas foram devidamente recolhidas de acordo com a tabela vigente à época.
+Cumpre esclarecer que nos termos da jurisprudência desta Corte, "a parte recorrente deve comprovar, no momento da interposição do recurso especial, o recolhimento das custas e do porte de remessa e retorno devidos à União, bem como dos valores locais, estipulados pelo Tribunal de origem" (AgInt no REsp 1660202/SP, relator Ministro Lázaro Guimarães (Desembargaor Convocado do TRF 5ª Região), Quarta Turma, DJe de 27/2/2018.)
+Assim, o preparo abrange o pagamento das custas locais (se houver), das custas do Superior Tribunal de Justiça (Lei 11.636/2007), bem como do porte de remessa e retorno dos autos (a depender do Tribunal de origem). Nesse sentido: AgRg no AREsp 707.553/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/10/2015, DJe 06/10/2015; e RCD no REsp 1520031/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/09/2015, DJe 06/10/2015.
+No caso, a parte recolheu apenas as custas locais, deixando de recolher as custas devidas ao Superior Tribunal de Justiça de acordo com a Lei 11.636/2007 e RESOLUÇÃO STJ/GP N. 2 DE 1º DE FEVEREIRO DE 2017.
+Assim, indefiro o pedido da parte.
+Registre-se que o pedido não tem o condão de interromper ou suspender o prazo para apresentação do recurso cabível, assim, certifique-se o trânsito em julgado e, após, sejam os autos baixados à origem para as providências cabíveis.
+Publique-se. Intimem-se.
