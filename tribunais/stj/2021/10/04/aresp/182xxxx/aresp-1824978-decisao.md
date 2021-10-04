@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LINO REGIS PEREIRA DA SILVA contra a decisão proferida pelo Tribunal de Justiça do Estado de Mato Grosso do Sul que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 611/613, in verbis:
+Trata-se de agravo (e-STJ, fls. 570/578) de inadmissão de recurso especial (e-STJ, fls. 521/542) com suporte na alínea a do permissivo constitucional contra aresto do Tribunal de Justiça do Estado do Estado de Mato Grosso do Sul (e-STJ, fls. 504/512) que rejeitou preliminar de conversão do julgamento em diligência de formalização de representação da vítima de crime estelionato com esteio da Lei n.13.964/19, com esta ementa:
+ ..
+Em recurso especial a diligente defesa reputara violado o artigo 171, §5º, do CP a pretexto de que o advento da Lei n.13.964, de 24/12/2019 ao tornar a ação penal pública por crime de estelionato, tipificado no artigo 171, do CP, condicionada a representação salvo exceções, não bastando que a vítima noticie a conduta criminosa à autoridade policial por necessário formalizar em regra expressa vontade de que o Estado persiga e responsabilize penalmente o autor do crime contra seu patrimônio, implicara in casu na necessidade de conversão do julgamento em diligência para adoção de providências no sentido de intimar a vítima para que registre formalmente tal novel condição de procedibilidade (,sic, e-STJ, fls. 521/542). Inadmitido na origem (e-STJ, fls. 556/560) haja vista conformidade do veredito à jurisprudência pátria (Súmula n.83/STJ), adveio agravo (e-STJ, fls. 570/578), contraminutado (e-STJ, fls. 590/596), certificando-se formalmente "vista pessoal legal" ministerial "para parecer" em 03/03/2021 (e-STJ, fl. 610).
+O Parquet opinou pelo desprovimento do agravo em recurso especial.
+É o relatório. Decido.
+"Em consonância à orientação do Supremo Tribunal Federal, a Terceira Seção deste STJ, no julgamento do HC 610.201/SP em 24/3/2021, superando divergência entre as Turmas, pacificou a controvérsia e decidiu pela irretroatividade da norma que instituiu a condição de procedibilidade no delito previsto no art. 171 do Código Penal, quando já oferecida a denúncia" (AgRg no HC n.625.333/SC, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/4/2021, DJe 16/4/2021). É o caso dos autos.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RETROATIVIDADE DA LEI N. 13.964/2019 (PACOTE ANTICRIME). ESTELIONATO. AÇÃO PENAL CONDICIONADA À REPRESENTAÇÃO. NORMA DE NATUREZA HÍBRIDA QUE NÃO DEVE ATINGIR ATO JURÍDICO PERFEITO E ACABADO (DENÚNCIA OFERECIDA).AUSÊNCIA DE OMISSÃO. MATÉRIA PRECLUSA. INOVAÇÃO RECURSAL.SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR MULTA NÃO SOCIALMENTE RECOMENDÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A retroatividade da norma que condicionou a ação penal relativa ao crime de estelionato à representação da vítima, por sua natureza híbrida,processual e material, não deve atingir o processo, haja vista a existência de ato jurídico perfeito e acabado (oferecimento da denúncia). Incidência da Súmula n. 83 do STJ.
+2. A questão relativa à vetorial circunstância do crime não foi examinada pela Corte antecedente, ao argumento de se tratar de matéria preclusa e inovação recursal.
+3. Não é socialmente recomendável a substituição da pena privativa de liberdade por multa quando esta já está prevista no preceito secundário do tipo penal incriminado, conforme a hipótese dos autos.Incidência da Súmula n. 83 do STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp 1943377/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/09/2021, DJe 21/09/2021.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ESTELIONATO. PLEITO PELA APLICAÇÃO RETROATIVA DO § 5.º DO ART. 171 DO CÓDIGO PENAL.ALEGADA NECESSIDADE DE REPRESENTAÇÃO DA VÍTIMA COMO CONDIÇÃO DE PROCEDIBILIDADE DA AÇÃO PENAL. DENÚNCIA OFERECIDA ANTES DO INÍCIO DA VIGÊNCIA DA LEI N. 13.964/2019. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento adotado pela jurisprudência da Terceira Seção desta Corte está fixado no sentido de que a necessidade de representação dos ofendidos, no crime de estelionato, trazida ao mundo jurídico com a entrada em vigor da Lei n. 13.964/2019, não alcança os processos cuja denúncia foi apresentada antes da vigência do citado Diploma legal, tal como ocorre na hipótese dos autos.
+2. Agravo regimental desprovido.
+(AgRg no HC 594.928/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 17/08/2021, DJe 27/08/2021.)
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.CRIME CONTRA O PATRIMÔNIO. ESTELIONATO. ACORDO DE NÃO PERSECUÇÃO PENAL. DENÚNCIA RECEBIDA. REPRESENTAÇÃO DA VÍTIMA. RETROATIVIDADE.IMPOSSIBILIDADE. LEI N. 13.964/2019. ENTENDIMENTO DO STJ. DECISÃO MANTIDA.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+2. O acordo de não persecução penal, previsto no art. 28-A do CPP, aplica-se a fatos ocorridos antes da Lei n. 13.964/2019, desde que não recebida a denúncia.
+3. Em razão das alterações promovidas pela Lei n. 13.964/2019, a retroatividade da representação no crime de estelionato não alcança o processo cuja denúncia já foi oferecida.
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+5. Agravo regimental desprovido.
+(AgRg no HC 641.684/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 03/08/2021, DJe 06/08/2021.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
