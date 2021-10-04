@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO HENRIQUE DE OLIVEIRA VERAScontra acórdão do Tribunal de Justiça do Estado do Piauíproferido no HC n.0753234-77.2020.8.18.0000.
+Consta dos autos que o Paciente - preso em flagrante no dia 13/06/2019 ebeneficiado,por ocasião daaudiência de custódia realizada no dia 14/06/2019 (fls. 27-30),com liberdade provisória mediante o cumprimento demedidas cautelares diversas da prisão- foi condenado, em 19/11/2019, às penas de 3 (três) anos, 2 (dois) meses e 3 (três) dias de reclusão, em regime inicial fechado, e 60 (sessenta) dias-multa, como incurso no art. 14,caput, da Lei n. 10.826/2003. OJuiz sentenciante negou o apelo em liberdade e, consequentemente, decretou a custódia preventiva do Condenado (fls. 17-22).
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 33-37).
+Neste writ, o Impetrante sustenta, em suma, a inexistência dos requisitos autorizadores para a decretação da prisão preventiva, notadamente em razão de ocrime previsto no art. 14, caput, da Lei n. 10.826/2003ser punido com pena privativa de liberdade máxima não superior a 4 (quatro) anos de reclusão.
+Assevera, ainda, que há constrangimento ilegal na fixação do regime prisional fechado, pois o Paciente é primário,não ostenta maus antecedentes e a pena fixada na sentença éinferior a 4 (quatro) anos.
+Requer, em liminar e no mérito:
+"a revogação da prisão preventiva do paciente, posto que afligido de patente constrangimento ilegal, por ter sido impedido de recorrer em liberdade em processo penal que respondeu solto a todos os atos, situação agravada ainda pelo fato de a sentença penal que cerceou seu direito de liberdade, ao negar o direito de recorrer livre, fixa pena de 03 (três) anos de reclusão em regime inicial "fechado", mesmo o recorrente não sendo reincidente nem possuindo maus antecedentes, o que afronta o disposto na súmula 269/STJ;" (fl. 13)
+O pedido liminar foi parcialmente deferido para"fixar, até o julgamento final deste writ, o regime semiaberto para o início de cumprimento da reprimenda e, consequentemente, determino a compatibilização da prisão cautelar com as regras próprias do referido regime" (fl. 42).
+Foram prestadas informações às fls. 49-68.
+O Ministério Público Federal opinou pelo não conhecimento dowrit,mas pela concessão da ordem de ofício "apenas para conformar ou compatibilizar prisão preventiva com regras próprias de regime prisional semiaberto fixado em sentença condenatória, confirmando-se a v. liminar já nesta instância alcançada" (fl. 75).
+É o relatório. Decido.
+Em consulta ao endereço eletrônico do Tribunal estadual, verifiquei que o Recurso de Apelação n.0701673-14.2020.8.18.0000, interposto pelo Sentenciado, foiparcialmente provido pelo Colegiado estadual "para fixar definitivamente em 02 (dois) anos de reclusão, em regime semiaberto, em consonância com o que dispõe o artigo 33, § 1º, alínea b, e §3º, do Código Penal, e a pena de multa de 10 (dez) das multa, calculadas sobre um trigésimo (1/30) do salário mínimo vigente à época dos fatos, em consonância com o parecer ministerial superior".
+Ademais, o acórdão de apelação transitou emjulgado no dia 08/04/2021.
+Desse modo, houve a perda superveniente do objeto destewrit, porquanto eventual pedido de fixação do regime prisional aberto exige impugnação própria em face do acórdão de apelação. Além disso, a prisão, atualmente, decorre documprimento da pena, tendo em vista o trânsito em julgado.
+Ante o exposto, JULGO PREJUDICADO ohabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. SUPERVENIÊNCIA DE ACÓRDÃO DE APELAÇÃO QUE FIXOU O REGIME PRISIONAL SEMIABERTO. TRÂNSITO EM JULGADO. A PRISÃO DECORRE, ATUALMENTE, DO CUMPRIMENTO DA PENA. PERDA DO OBJETO.HABEAS CORPUSPREJUDICADO.
