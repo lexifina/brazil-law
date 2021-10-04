@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 1.300/1.303).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.254):
+PROCESSUAL CIVIL - SENTENÇA - NULIDADE - CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA - NULIDADE AFASTADA - PRELIMINAR REPELIDA. O juiz é o destinatário da prova e deve decidir quais provas são relevantes à formação de sua convicção, a teor do disposto nos artigos 370 e 371, do Código de Processo Civil, sendo, no caso, dispensada a produção de prova pericial.
+LOCAÇÃO DE IMÓVEIS AÇÃO DECLARATÓRIA C.C.REVISIONAL PRETENSÃO DE REDUÇÃO DO VALOR DO ALUGUEL IMPERTINÊNCIA - AUSÊNCIA DE JUSTA CAUSA A JUSTIFICAR A INTERVENÇÃO JUDICIAL NO CONTRATO RECONHECIMENTO DO REGIME DE BUILT TO SUIT - OBRAS EXECUTADAS NOS IMÓVEIS ALUGADOS DE AMPLA REESTRUTURAÇÃO, COM DIVERSAS MELHORIAS REALIZADA PELA RÉ (LOCADORA) PARA PROPICIAR PLENO ATENDIMENTO À ATIVIDADE PROFISSIONAL DESEMPENHADA PELAS AUTORAS (LOCATÁRIAS) REVISÃO DAS CLÁUSULAS CONTRATUAIS EM RAZÃO DE PANDEMIA DESCABIMENTO - SENTENÇA MANTIDA RECURSO NÃO PROVIDO. Não trazendo a parte apelante fundamentos suficientes a modificar a sentença de primeiro grau, que reconheceu a ausência de justa causa a lastrear a intervenção judicial no contrato em apreço, mesmo diante de contexto mundial atípico, em razão de pandemia, sob pena de violar a autonomia da vontade, de rigor a manutenção integral da sentença, cujos fundamentos se adotam como razão de decidir.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.269/1.272).
+No especial (e-STJ fls. 1.274/1.285),fundamentadono art. 105, III, "a", da CF, asrecorrentesalegaramofensa aos arts. 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Indicaramainda afronta ao art. 54-A da Lei n. 8.245/1991, aduzindo a nulidade do regimebuilt to suit,uma vez quetal regime não estaria caracterizado.
+No agravo (e-STJ fls. 471/477), afirma a presença de todos os requisitos de admissibilidade do especial.
+Petiçãoapresentada às fls. 1.327/1.340(e-STJ) sustentando a existência de fato superveniente.
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 1.257/1.259):
+"(..) descabida a pretensão voltada à declaração de nulidade do regime contratual de Built To Suit, adotado expressamente no contrato pactuado.
+Com efeito, o que diferencia o tratamento jurídico dado um contrato de locação não residencial comum de um de natureza Built To Suit é o maior prestígio à autonomia da vontade que deve ser conferido a este último, em detrimento do regramento geral previsto na Lei nº 8.245/90. Esta é a exegese do art. 54-A da Lei do Inquilinato, inserido pela Lei 12.744/2012.
+Registra-se que tais disposições visam primordialmente garantir que o valor do locativo e o prazo do contrato privilegiem não só a contraprestação pelo uso do bem, mas, sobretudo, o retorno do investimento realizado no local pelo locador.
+É por essa razão que não se cogita reconhecer qualquer abuso ou ilegalidade na cláusula penal prevista no parágrafo terceiro do art.2º do contrato, ainda que considerada a atual situação de pandemia.
+(..)
+Trata-se, pois, de cláusula penal que decorre diretamente do objeto principal do contrato, que é de possibilitar ao contratante concretizar a consecução de sua atividade empresária, e ao locador o retorno de seu investimento no prazo de duração convencionado pelas partes. Além disso, o valor da cláusula penal não excede o da obrigação principal nem é manifestamente excessivo, lembrando que o cálculo da multa já leva em conta os pagamentos realizados pela autora. Os argumentos afastam, assim, a incidência do art. 413 do Código Civil.
+Frustrada, outrossim, a tentativa da parte autora de descaracterizar o contrato pactuado livremente entre as partes (sendo uma das locatárias, como bem pontuou o magistrado"a quo", sociedade de advogados), como de regime Built To Suit.".  g.n.
+Restou demonstrado nos autos a natureza dessa operação, sendorealizada pela parte locadora grande adaptação do imóvel para atender as atividades das apelantes, em especial o call center, com unificação de trinta conjuntos comerciais.
+Para alterar os fundamentos acima transcritos e reconhecer a abusividade alegada, bem como a descaraterização da natureza jurídica do contrato, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7/STJ.
+Por fim, o ajuizamento de ação de indenização, para rever valores de supostos gastos para obras de reestruturação do conjunto de imóveis locados às agravantes, não caracteriza fato superveniente apto a afastar o julgamento do recurso, vistonão haverprejudicialidade entre as demandas.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
