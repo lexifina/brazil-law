@@ -1,0 +1,25 @@
+DECISÃO
+ANDERSON BRITTO XAVIER alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. 0016771-14.2021.8.21.7000.
+O paciente teve a prisão preventiva decretada, em 27/2/2019 (fl. 66), e, posteriormente, foi denunciado pelos crimes doart. 2º, §§ 2º, 3º e 4º, I e IV, da Lei n. 12.850/2013 e do art. 33,c/c o art.40, III, ambos da Lei n. 11.343/2006.
+Nesta impetração, a defesa busca a soltura do acusado, ao argumento de que há excesso de prazo na formação da culpa, bem como ausência de fundamentaçãoidônea para a manutenção da custódia preventiva.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou, subsidiariamente, pela sua denegação (fls. 126-136).
+Decido.
+I. Prisão preventiva- reiteração de pedido
+Em consulta ao sistema informatizado do Superior Tribunal de Justiça, verifico que a idoneidade dos motivos ensejadores da prisão cautelar foi previamente analisadano HC n. 584.827/SP.
+Naquela oportunidade, a Sexta Turma manteve a medida constritiva ao asserir:"O periculum libertatis foi devidamente demonstrado pelo histórico delitivo do acusado (três condenações transitadas em julgado e processo em curso), pela circunstância de ser apontado como líder de organização criminosa, condição esta exercida de dentro da unidade prisional".
+Dessa forma, não se pode conhecer desta impetração, pois consubstancia-se mera reiteração de pedido já examinado por esta Corte Superior, uma vez que possui as mesmas partes, o mesmo fundamento e idêntico objeto do habeas corpus citado.
+II. Excesso de prazo não configurado
+Quanto ao alegado excesso de prazo, a Corte de origem assim se manifestou (fls. 20-23):
+No mais, como tenho reiteradamente afirmado, o princípio da razoável duração do processo não impõe tempo exato para a conclusão de determinado feito ou ato processual; imprescindível é verificar, em cada caso concreto, a razoabilidade do tempo decorrido, consideradas suas peculiaridades.
+Nesse passo, não vislumbro ilegalidade no presente caso, ainda que o paciente esteja preso há dois anos, tenho que a complexidade do feito autoriza um alargamento do prazo para o início da instrução.
+Com efeito, o processo em apreço conta com nada menos do que 34 acusados, os quais precisam ser citados e apresentar defesas prévias antes de ser iniciada a coleta da prova testemunhal; e isso, por si só, já aumenta sua complexidade, tornando aceitável um alargamento do prazo para o início da instrução.
+Soma-se a isso o grave aumento dos casos de covid-19, que ocasionou o fechamento de fóruns em todo o país e a suspensão de prazos processuais, aliado ao recente ataque hacker sofrido pelo Tribunal de Justiça que ensejou a impossibilidade de acesso aos sistemas. Igualmente contribuíram para o pequeno atraso no início da instrução, sem, contudo, configurar o excesso de prazo alegado.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Consoante o entendimento desta Corte Superior, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+Na hipótese, o decreto preventivo foi prolatado em 27/2/2019 pela prática, em tese, dos crimes de organização criminosa majorada e tráfico de drogas majorado. Aotempo dessa decisão, o acusado já estava custodiadoem razão de outros processos criminais.
+Em 6/6/2021, a alegação defensiva de excesso de prazo do processo de origem foi analisada pela Sexta Turma do STJ, ocasião em que o órgão colegiado concluiu o seguinte: "Embora o lapso temporal da instrução criminal não seja o ideal (prisão decretada nesta ação penal em 27/2/2019), não foi constatada desídia do juízo instrutor na condução do processo. O feito é complexo e envolve pluralidade de réus (34) e de condutas a serem investigadas (2)" (AgRg no HC n.584.827/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 22/6/2021).
+Deveras, as peculiaridades do caso concreto- notadamente a apuração de condutas criminosas complexas praticadas por trinta e quatro réus no mesmo feito- ensejam maior elastecimento do andamento processual. Ademais, em consulta ao site do TJRS, verifica-se que, de junho de 2021 até o presente momento, o Magistrado de primeira instância tem dado impulso ao processo, com a concessão de prazos para manifestação das partes e juntadas de documentos.
+Tais fatores afastam, por ora, a alegação defensiva de que há desídia ou mora desarrazoada atribuível ao Poder Judiciário.
+III. Dispositivo
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão,denego a ordem.
+Publique-se e intimem-se.
