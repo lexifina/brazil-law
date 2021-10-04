@@ -1,0 +1,27 @@
+DECISÃO
+GILBERTO PEREIRA LOPES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, que manteve a sua prisão preventiva.
+A defesa pretende a expedição de alvará de soltura em favor do paciente - cujo flagrante pela posse de 7 porções de maconha foi convertido em preventiva -, sob o argumento de ausência de preenchimento dos requisitos legais para a prisão preventiva.
+Deferida a liminar (fls. 142-144) e prestadas as informações (fls. 151-184 e 189-207), foram os autos ao Ministério Público Federal, que se manifestou pela concessão da ordem (fls. 209-210).
+Decido.
+Expõem os autos que a Magistrada de primeiro grau converteu em constrição preventiva o flagrante do paciente, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006, sob estes fundamentos (fls. 82-84):
+Passo à análise da necessidade da conversão do flagrante em prisão preventiva.
+A prisão preventiva, de natureza cautelar, é medida excepcional, e pode ser decretada pelo Magistrado em qualquer fase do inquérito policial ou da instrução criminal, desde que se entenda pela necessidade da custódia, o que se afere através da presença dos pressupostos consignados nos arts. 312 e313 do Código de Processo Penal.
+Destarte, examinando-se os presentes autos, verifica-se a existência de indícios acercada autoria e materialidade, bem comoque estão presentes os pressupostos autorizadores do decreto preventivo do mesmo. Em tese, observa-se o envolvimento do Flagranteado GILBERTO PEREIRA LOPES em crime doloso, que possui pena máxima, privativa de liberdade, superior a 04 (quatro) anos, punível com reclusão, incidindo a regra do Art. 313, inciso I, do CPP.
+Há a necessidade e a adequação da custódia cautelar do Inculpado, impondo a promoção da garantia da ordem pública justamente para que se evite a prática de outros delitos, impeça o próprio preso de executar outros crimes, dê efetividade ao efeito preventivo da sanção penal, e faculte que não se impere na sociedade o sentimento de impunidade do ilícito penal, pois ela não se permite tolerar o retorno do Flagranteado ao seu convívio, ao menos temporariamente.
+In casu, há evidências da periculosidade social do flagranteado e do risco de continuidade na prática criminosa caso libertado, autorizando a segregação preventiva.
+Entendo, pois, que, por ora, não se impõe a concessão de liberdade provisória ao Acusado, posto que os elementos colacionados ao APF demonstram a necessidade da segregação cautelar do Conduzido.
+ ..
+A prova da materialidade e os indícios de autoria restaram demonstrados nos autos.
+Assim, como forma de evitar a reiteração de atos desta natureza pelo Inculpado, portanto, afigura-se pertinente a permanência da segregação, com espeque na garantia da ordem pública e da aplicação da Lei Penal, não se revelando, neste momento, indicada a sua soltura.
+Diante do exposto, homologando o flagrante lavrado acolho a promoção ministerial e GILBERTO PEREIRA pela Autoridade Policial, CONVERTO A PRISÃO EM FLAGRANTE DE LOPES EM PRISÃO PREVENTIVA, DIANTE DA NECESSIDADE DE GARANTIR A ORDEM PÚBLICA E A CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL.  ..
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, verifico que não foram indicados, pelo Juízo de origem, elementos idôneos para decretar a custódia provisória, pois se limitou a afirmar " haver  evidências da periculosidade social do flagranteado e do risco de continuidade na prática criminosa caso libertado, autorizando a segregação preventiva".
+Concluo, dessa forma, não haver sido demonstrada a exigência cautelar justificadora da prisão provisória do paciente.
+Nesse sentido:
+ ..
+1. Segundo a jurisprudência desta Corte Superior de Justiça, toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade. Nem a gravidade abstrata do delito nem meras conjecturas servem de motivação em casos que tais.
+ ..
+3. Habeas corpus concedido para revogar a prisão preventiva do paciente, garantindo-lhe o direito de aguardar em liberdade o julgamento da ação penal objeto destes autos, se por outro motivo não estiver preso, e ressalvada a possibilidade de haver nova decretação de prisão, caso se apresente motivo concreto para tanto.
+(HC n. 362.072/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/2/2017, destaquei)
+À vista do exposto, concedo a ordem, confirmada a liminar,para tornar sem efeito o decisum que impôs o cárcere preventivo ao paciente - sem prejuízo do estabelecimento de outras medidas cautelares, que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, desde que devidamente justificadas, assim como do restabelecimento daprisãoprocessual, se sobrevier situação que configure a exigência da cautelar mais gravosa.
+Publique-se e intimem-se.
