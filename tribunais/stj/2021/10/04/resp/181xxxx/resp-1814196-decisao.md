@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundadonoart. 105, III, "a" e "c", da Constituição Federal, interposto por BANCO DO BRASIL SAcontra v.acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado(fl. 147):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE INDEFERIU O PEDIDO DE SOBRESTAMENTO DO FEITO E DE CHAMAMENTO AO PROCESSO E JULGOU IMPROCEDENTE A IMPUGNAÇÃO APRESENTADA PELO AGRAVANTE. IMPOSSIBILIDADE DE SUSPENSÃO. SITUAÇÃO DISCUTIDA NO REFERIDO RECURSO QUE NÃO ENCONTRA SIMILITUDE COM AS QUESTÕES DO PRESENTE FEITO. DISPOSIÇÕES DO ART. 1-F DA LEI Nº. 9.494/97 APLICÁVEIS SOMENTE ÀS CONDENAÇÕES DA FAZENDA PÚBLICA. ILEGITIMIDADE PASSIVA. CHAMAMENTO AO PROCESSO DA UNIÃO. DESCABIMENTO. LITISCONSÓRCIO PASSIVO NECESSÁRIO. BANCO DO BRASIL E UNIÃO FEDERAL. DESNECESSIDADE. PRÉVIA LIQUIDAÇÃO DO TÍTULO JUDICIAL PARA A EXECUÇÃO. REALIZAÇÃO DE PERÍCIA CONTÁBIL. DESCABIMENTO. HIPÓTESE EM QUE É POSSÍVEL OBTER O VALOR DEVIDO ATRAVÉS DE CÁLCULO ARITMÉTICO. RECURSO DESPROVIDO. UNÂNIME.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 213-219.
+Nas razões do recurso especial, BANCO DO BRASIL SA alega violação aos arts. 520 e 1.005 do Código de Processo Civil de 2015, ao argumento, entre outros, que "(..) o sobrestamento parcial decretado pelo Tribunal Regional Federal da Quarta Região não existe no ordenamento jurídico nacional. Trata-se de inovação jurisprudencial que altera substancialmente o espírito do texto legal de regência. Na verdade, a Corte Regional, ao assim decidir, extrapola suas funções jurisdicionais, transfigurando-se em verdadeiro legislador. Por isso, inviável vingar a tese de que o sobrestamento do feito possa afetar somente parte do acórdão, conforme decidido no acórdão ora embargado, haja vista que o título executivo é um só e ainda não transitou emjulgado, podendo até mesmo ser revertido, como reconheceu o Ministro Relator do recurso especial n. 1319232-DF (..)". (fl.186)
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Com efeito, a parte recorrente alega quenão há condições de admissibilidade dos cumprimentos provisórios de sentença coletiva, em face de que há recurso perante o Superior Tribunal de Justiça dotado de efeito suspensivo, o que impede a distribuição/tramitação dos referidos procedimentos vinculados à ação coletiva. Por sua vez, o TJ-RS assim decidiu a controvérsia:
+"Cuida-se de agravo de instrumento interposto em face de decisão de Primeiro Grau que julgou improcedente a impugnação ao cumprimento de sentença proposta pelo agravante e indeferiu os pedidos de sobrestamento do feito e chamamento ao processo. Nenhum reparo merece a decisão. Isso porque, diversamente do alegado pelo agravante, consoante constou da decisão que recebeu o presente recurso, o artigo 1º-F da Lei nº. 9.494/97 não se aplica ao recorrente, limitando-se aos casos de condenações impostas à Fazenda Pública, já que os embargosde divergência opostos pela União em facedo Recurso Especial nº. 1.319.232/DF discute a seguinte questão:
+(..)
+Dessa forma, sendo o cumprimento de sentença proposto somente em desfavor do Banco do Brasil, qualquer discussão estabelecida nos embargos de divergência no mencionado Recurso Especial não importará para o deslinde do presente feito, inexistindo razão para o sobrestamento.
+(..)
+As cédulas rurais objeto do cumprimento de sentença foram pactuadas diretamente com o agravante, de forma que legítima a instituição financeira para responder ao presente feito, não havendo que falar em litisconsórcio necessário, ainda que a condenação na ação civil pública tenha se estendido aos entes federais.
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu que por não ter caráter de Fazenda Pública e, "sendo o cumprimento de sentença proposto somente em desfavor do Banco do Brasil, qualquer discussão estabelecida nos embargos de divergência no mencionado Recurso Especial não importará para o deslinde do presente feito, inexistindo razão para o sobrestamento."Assentou, também que "As cédulas rurais objeto do cumprimento de sentença foram pactuadas diretamente com o agravante, de forma que legítima a instituição financeira para responder ao presente feito, não havendo que falar em litisconsórcio necessário, ainda que a condenação na ação civil pública tenha se estendido aos entes federais."
+Diante das razões recursais, observa-se que a recorrente deixou deimpugnar especificamente o referido fundamento, que éautônomo e capaz,por si só, de manter o acórdão estadual, fazendoincidir, por analogia, oóbice da Súmula 283/STF. Nessa linha de intelecção, confiram-se osseguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTO DE VIOLAÇÃO ÀSÚMULA. IMPROPRIEDADE. SÚMULA 518 DO STJ. EMBARGOS DE DECLARAÇÃOMANIFESTAMENTE PROTELATÓRIOS. MULTA DO ART. 1.026, § 2º, DO CPC.SÚMULA 98 DO STJ. FRAUDE À EXECUÇÃO. SÚMULA 7/STJ. TESE DE EQUÍVOCO NAAPLICAÇÃO DA SÚMULA 283 DO STF. IMPROCEDENTE. DISSÍDIO JURISPRUDENCIAL.AUSÊNCIA DE COTEJO ANALÍTICO.
+(..)
+4. A ausência de impugnação direta, inequívoca e efetiva aos fundamentosdo acórdão recorrido, fato que, por si só, é suficiente para asubsistência do decisum, atrai a incidência, por analogia, da Súmula283/STF.
+(..)
+6. Agravo interno não provido."
+(AgInt no AREsp 1587105/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTATURMA, julgado em 15/06/2020, DJe 18/06/2020)
+AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SÚMULA 267/STF.AUSÊNCIA DE DEMONSTRAÇÃO DA TERATOLOGIA DA DECISÃO IMPUGNADA. FUNDAMENTOSDO ACÓRDÃO RECORRIDO, ADEMAIS, NÃO IMPUGNADOS PELAS RAZÕES DO RECURSO.SÚMULA 283/STF.
+(..)
+3. As razões do recurso não fazem impugnação específica a todos osfundamentos do acórdão recorrido, o que atrai a incidência, por analogia,do verbete 283 da Súmula do Supremo Tribunal Federal.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no RMS 54.301/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTATURMA, julgado em 01/06/2020, DJe 05/06/2020)
+Ademais, a incidência da Súmula 283/STF pela alínea "a" também obsta oconhecimento do recurso fundado no dissídio jurisprudencial, alínea "c" dopermissivo constitucional. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE RESPONSABILIDADESECURITÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DOS AUTORES.
+1. A ausência de enfrentamento da questão objeto da controvérsia peloTribunal de origem, não obstante a oposição de embargos de declaração,impede o acesso à instância especial, porquanto não preenchido o requisitoconstitucional do prequestionamento, nos termos da Súmula 211/STJ. 2. Aausência de impugnação a fundamento do acórdão recorrido atrai o óbice da Súmula 283/STF, aplicável por analogia.
+3. Outrossim, "o óbice da Súmula 283/STF aplica-se indistintamente aosrecursos especiais apresentados com fundamento na alínea "a" e na alínea"c" do permissivo constitucional" (AgInt no AREsp 1207118/SP, Rel.Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO),
+QUARTA TURMA, julgado em 03/04/2018, DJe 06/04/2018). Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1102946/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA,julgado em 08/05/2018, DJe 17/05/2018)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto,não conheço do recurso especial.
+Publique-se.
