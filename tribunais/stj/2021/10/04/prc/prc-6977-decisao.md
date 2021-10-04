@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de requisição de pagamento oriunda da ExeMS 7386 (201401236414), expedida em favor de MARIO FERREIRA DUARTE - ESPÓLIO, MARCELO LAVOCAT GALVAO ePAULO SERGIO CUNHA, estes beneficiários de destaque de honorários advocatícios contratuais.
+Intimados acerca da regularidade formal, a UNIÃO e o Ministério Público manifestaram-se favoravelmente.
+Decisão de fls. 35-37 julgou prejudicado o pedido de habilitação, uma vez fora deferido nos autos principais. Na mesma ocasião foi indeferido o levantamento de valores pelos herdeiros dada a ausência de partilha do crédito.
+Mediante a Petição n. 00461861/2021 (fls. 44-45), foi apresentadaplanilha de partilha com solicitação de expedição de alvará de levantamento, vindo, na sequência, ofício da 3ª Vara de Família, Órfãos e Sucessões da Comarca de Macapá/AP requerendo informações a respeito de valores em nome do falecido (fls. 48-50 e 51-53).
+Certidão da Seção de Precatórios e RPV acostada à fl. 47 noticiando a disponibilidade de verba para liquidação deste precatório.
+É, no essencial, o relatório. Decido.
+No que diz respeito ao pedido de levantamento de valores pelos herdeiros, verifica-se queo plano de partilha apresentado à fl. 44 não está homologado pelo juízo do inventário, não competindo a esta Corte Superior realizar o procedimento.
+Tal como consignado na decisão de fls. 35-37, para levantamento do crédito é indispensável a realização da partilha, que poderá ser realizada judicialmente, perante o juízo competente, ou administrativamente, na forma do art. 610, § 1º, do CPC. Em qualquer dos casos, a partilha deve relacionar o valor que se pretende levantar e a cota cabível a cada herdeiro.
+Dessa forma, não tendo sido atendidas as normas pertinentes à espécie, indefiro a expedição de alvará de levantamento.
+No tocante à solicitação da 3ª Vara de Família, Órfãos e Sucessões da Comarca de Macapá/AP apresentada às fls. 48-50 e 51-53, oficie-se ao juízo do inventário com as informações requeridas e com a indicação deque, se for caso, o valor poderá ser transferidoà sua ordem e disposição.
+Ante o exposto, considerando a concordância manifestada com a regularidade formale a notícia de disponibilidade financeira, determino o pagamento desta requisição mediante abertura de conta remunerada em nome do(s) beneficiário(s) em instituição financeira conveniada, reservados os recursos das requisições anteriores pendentes de pagamento (art. 12 da Instrução Normativa STJ/GP n. 3/2014).
+Em havendo pedido de disponibilização de valores, e considerando que se trata de crédito de herança - uma vez que o óbito se deu após o período de apuração dos valores devidos (fls. 1143 e 1808 da execução) -, fica desde logo autorizada a transferência da quantia requisitada emnome de MARIO FERREIRA DUARTE, após os descontos legais, se houver, à ordem e à disposição da 3ª Vara de Família, Órfãos e Sucessões da Comarca de Macapá/AP, vinculado ao Processo n. 0017082-03.2011.8.03.0001, que decidirá sobre o levantamento (art. 19 da IN STJ/GP n. 3/2014).
+Transcorrido o prazo de 10 (dez) dias, cumpra-se (art. 59 da Lei n. 9.784/99).
+Comunique-se. Publique-se. Intimem-se.
