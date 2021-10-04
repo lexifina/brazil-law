@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo regimental interposto por DANILO RODRIGUES DE JESUS contra decisão monocrática da lavra do MINISTRO PRESIDENTE DESTA CORTE, que não conheceu do agravo pela incidência da Súmula 283 do STF.
+O agravante alega a inaplicabilidade da referida súmula, isso porque o fundamento para o aumento da pena base em fração diversade 1/6 não foi a condutapraticada na frente da filha do casal mas a discricionariedade do juiz.
+É o relatório. Decido.
+Compulsando-se os autos, verifica-se que procede a argumentação trazida no agravo regimental. Passa-se, então, ao reexame do recurso especial.
+Extrai-se dos autos que o recorrente foi condenado à pena de 5 meses e 27 dias de detenção, em regime aberto, concedido o sursis pelo período de 2 anos, pelo cometimento do crime do art. 129, § 9º, do Código Penal.
+A defesa alega a desproporcionalidade no aumento da pena-base na fração de1/8 (um oitavo), incidentesobre o intervalo da pena cominada parao crime do art. 129, § 9º,do CP,emrazão da análise negativa do vetor judicialdas circunstânciasdo crime. Pede que seja aplicada a fração de 1/6 sobre a pena mínima.
+O pleito não procede, isso porque como bem entendeu o Tribunal de origem às e-STJ fls. 238/239, "alegislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático.  ..  Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada)" (AgRg no HC n. 603.620/MS, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 9/10/2020).
+Ainda nessa mesma linha:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. DOSIMETRIA DA PENA. ELEVAÇÃO DA REPRIMENDA BÁSICA EM 1/8 SOBRE O INTERVALO DAS SANÇÕES PREVISTAS EM ABSTRATO.VALIDADE DO CRITÉRIO ADOTADO NA ORIGEM. VALORAÇÃO NEGATIVA DA PERSONALIDADE E CIRCUNSTÂNCIAS DO CRIME. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fixação da pena-base não precisa seguir um critério matemático rígido, cabendo ao magistrado, no exercício de sua discricionariedade motivada, fixar o quantum que entender adequado à luz das circunstâncias do art. 59 do CP.
+2. Não há direito subjetivo do réu à elevação da pena-base em somente 1/6 para cada vetorial desfavorável. O critério adotado pela Corte de origem (exasperação de 1/8 sobre o intervalo entre as penas máxima e mínima do preceito secundário), ademais, é considerado válido pela jurisprudência deste STJ.
+3. Para o exame da personalidade do réu, no momento da fixação da reprimenda básica, é desnecessária a existência de prova pericial.
+4. A premeditação do delito autoriza a exasperação da sanção na primeira fase da dosimetria.
+5. Agravo regimental desprovido.(AgRg no AREsp 1873693/TO, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 20/09/2021)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DOSIMETRIA. PENA-BASE.FRAÇÃO. 1/6 SOBRE A PENA MÍNIMA OU 1/8 SOBRE O INTERVALO DAS PENAS.AGRAVO IMPROVIDO.
+1. Nos termos do entendimento desta Corte, Considerando o silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada e outro de 1/8 (um oitavo) a incidir sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador (AgRg no AgRg nos EDcl no AREsp 1617439/PR, Rel.
+Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 28/09/2020).
+2. Agravo regimental não provido.(AgRg no REsp 1922380/PR, desta Relatoria, DJe 20/08/2021)
+Ante o exposto, reconsidero a decisão de e-STJ fls. 304/307 e conheço do agravo para negar provimento aorecurso especial.
+Intimem-se.
