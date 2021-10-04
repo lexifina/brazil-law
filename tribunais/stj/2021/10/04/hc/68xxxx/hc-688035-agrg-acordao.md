@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FRANCISCO BENEDITO GOMES JUNIOR, contra decisão monocrática de fls. 48/49, através da qual a Presidência desta Corte Superior indeferiu liminarmente o habeas corpus, conforme o disposto no enunciado sumular n. 691 do Supremo Tribunal Federal.
+No presente recurso, alegaque o decreto prisional carece de fundamentação idônea, uma vez que pautado exclusivamente na gravidade abstrata do delito. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal -CPP.
+Salienta o excesso de prazo para o oferecimento da denúncia, porquanto a custódia cautelar perdura por 49 dias sem que a exordial acusatóriatenha sido ofertada.
+Observa que possui filho com 1 ano e 2 meses de idade, acometido de doenças graves, que depende de seus cuidados.
+Requer, assim,a revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. DECISÃO FUNDAMENTADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Diante de fundamentada decisão que indefere a liminar na impetração originária, não há que se falar em flagrante ilegalidade a ensejar a superação do enunciado n. 691 doSTF.
+2. Agravo regimental desprovido.
+VOTO
+Em que pese o esforço daagravante, a decisão deve ser mantida por seus próprios fundamentos.
+Destaque-se que o habeas corpusfoi impetrado contra decisão de desembargador relatorque indeferiu o pedido de liminar no feito originário. Dessa forma, incide sobre a matéria o enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF, o que inviabiliza o conhecimento do writ.
+A superação do referido enunciado sumular é possível apenas na hipótese de flagrante constrangimento ilegal, o que não ocorre no presente caso.
+Com efeito, destaco o seguinte trecho da decisão proferida pelo Tribunal de origem:
+"Como se infere dos autos, busca o impetrante a revogação da prisão preventiva por cerceamento de defesa pela não realização do estudo social pela autoridade policial, bem como por haver excesso de prazo na conclusão do inquérito policial.
+A concessão de liminar em habeas corpus pressupõe a configuração dos requisitoslegais, quais sejam: fumus boni iuris e periculum in mora. O fumus boni iuris deve ser compreendido como o elemento da impetração que indica a existência de ilegalidade no constrangimento. Enquanto o periculum in mora consubstancia a probabilidade do dano irreparável.
+Do cerceamento de defesa
+De início, menciono que a questão afeta ao filho portador de microcefalia e epilepsia e síndrome de Torch já foram objeto de análise no Habeas Corpus n.º 0757005-29.2021.8.18.0000, e mais uma vez, o paciente se insurge com o mesmo argumento, agregando apenas ter requerido a realização de laudo pericial e estudo social do paciente, tendo em vista que foi transferido da penitenciária mista, inviabilizando o acesso da família e ainda, o exercício de defesa.
+Ao cotejar os documentos anexados pela defesa do paciente, verifico não constar nenhuma comprovação de que tal pleito tenha sido objeto de apreciação pela autoridade de primeiro grau, e nesse contexto, a sua análise diretamente neste TJPI, implica em supressão de instância.
+Demais disso, os documentos acostados aos autos (ID 4770615, pág. 2 e 477061,pág. 2), evidenciam que a autoridade tida por coatora atendeu ao pleito vindicado pela defesa do paciente, o qual foi periciado encontrando-se o laudo pericial nos autos (ID477061, pág. 2). Assim, se houve omissão ou não atendimento ao que fora determinado pela autoridade apontada como coatora, tal omissão se deu por parte do delegado que preside o inquérito policial, e assim sendo, a competência para análise do que reclama o paciente é do juízo de primeiro grau, haja vista que tal questão deve ser apreciada inicialmente pelo juízo de primeiro grau, razão pela qual não conheço da referida alegação por entender que tal questão não fora submetida à autoridade coatora e o conhecimento por este magistrado implicará em supressão de instância.
+Da alegação de excesso de prazo
+A alegação de excesso de prazo, por sua vez, não se abstrai da simples soma aritmética dos prazos processuais, necessário, averiguar se a demora decorre unicamente do aparato estatal.
+Infere da decisão (ID 4770615, pág. 2), que o pedido da defesa fora atendido pela magistrada de primeiro grau, a qual determinou fosse oficiada à autoridade policial para prestar as informações requeridas pela defesa do paciente, e ainda, atendendo ao pleito ministerial, determinou fosse expedido ofício para a autoridade policial que preside a investigação do processo solicitando informações acerca do inquérito policial, não se vislumbrando, a priori, do parquet tampouco da autoridade tida por coatora.
+Assim, neste juízo preambular de cognição, não vislumbro manifesto constrangimento ilegal a ensejar o deferimento da medida de urgência, razão pela qual INDEFIRO a liminar pretendida.
+Outrossim, determino seja oficiada a autoridade coatora para prestar as informações sobre a petição (ID n.º 4769759, pág. 1/6), conforme preceitua o Provimento n.º003/2007, da Corregedoria Geral de Justiça, c/c art. 662, CPP e art. 209, do RITJPI, no prazo de 05 (cinco) dias."(fls. 21/22)
+Assim, diante de fundamentada decisão do desembargador relator, não se vislumbra hipótese de superação do enunciado n. 691 da Súmula do STF.
+A propósito, confiram-se alguns precedentes:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO. LAVAGEM DE DINHEIRO. ILEGALIDADE DO INQUÉRITO POLICIAL INSTAURADO CONTRA O RECORRENTE. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MANDAMUS ORIGINÁRIO IMPETRADO CONTRA DECISÃO DE MAGISTRADO QUE INDEFERIU PEDIDO LIMINAR EM WRIT.INCIDÊNCIA DO ENUNCIADO 691 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL.AUSÊNCIA DE FLAGRANTE ILEGALIDADE. COAÇÃO ILEGAL NÃO CONFIGURADA.DESPROVIMENTO DO RECLAMO.
+1. A aventada ilegalidade da instauração de inquérito policial contra o recorrente não foi alvo de deliberação pela Corte de origem no aresto impugnado, circunstância que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.Precedentes.
+2. Não há qualquer mácula no não conhecimento do mandamus originário, pois foi foi impetrado em face de decisão singular de magistrado que indeferiu a liminar pleiteada em prévio writ, o que atrai a incidência do enunciado 691 da Súmula do Supremo Tribunal Federal.
+3. Não há que se falar em superação do referido óbice sumular, como excepcionalmente se admite, tendo em vista que, consoante destacado pelo Tribunal de origem, em uma análise perfunctória, não se vislumbra constrangimento ou ilegalidade manifestos passíveis de serem reconhecidos. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no RHC 122.341/PA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 22/4/2020).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. INCIDÊNCIA DA SÚMULA N. 691/STF. CRIME DE TORTURA PARA OBTENÇÃO DE INFORMAÇÕES. ALEGADA NULIDADE DA ORDEM DE PRISÃO DEFINITIVA. AUSÊNCIA DE PATENTE ILEGALIDADE. RECONHECIMENTO DE PRESCRIÇÃO. QUESTÃO PASSÍVEL DE INDEFERIMENTO DO PEDIDO LIMINAR.MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA.PRECEDENTES. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. A questão referente ao reconhecimento da prescrição é passível de indeferimento do pedido de liminar quando não for evidenciada de plano, por demandar mais aprofundada análise do caso, em exame próprio do mérito da impetração (AgRg no HC 484.437/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/3/2019, DJe de 18/3/2019).
+3. No caso dos autos, não há que se falar em superação do referido óbice sumular, como excepcionalmente se admite, tendo em vista que, consoante destacado pela Juíza Federal, em substituição de Desembargador Federal, Relatora do mandamus originário, em uma análise perfunctória, não se vislumbra constrangimento ou ilegalidade manifestos passíveis de serem reconhecidos em sede liminar.
+4. Agravo regimental improvido.
+(AgRg no HC 545.259/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 9/12/2019).
+Ante o exposto, voto pelo desprovimento do presente agravo regimental.
