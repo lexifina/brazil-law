@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JULIANA PALMIERI DE SOUZA, apontando como autoridade coatora a 3.ª Câmara Criminal do Tribunal de Justiça de São Paulo.
+Em razões, aponta a nulidade das interceptações telefônicas que serviram de base para a sua condenação, que, em momento algum foi anexado aos autos.
+Requer:
+"a provisão do presente writ, conhecendo o pedido LIMINAR para que, ao final, seja TOTALMENTE PROVIDA, em razão da ausência das mídias de interceptação telefônica, o que é flagrante óbice para o ordinário exercício do contraditório e da ampla defesa, sendo inconteste sua NULIDADE ABSOLUTA assim como presente os dispositivos delineados pelo artigo 386, incisos V e VII, do CPP cabendo a devida absolvição da paciente como medida de JUSTIÇA!" (e-STJ, fl. 9)
+O pedido liminar foi indeferido por decisão da Vice-Presidência desta Corte (e-STJ, fls. 1887-1889).
+Foram apresentadas informações (e-STJ, fls. 1896-1933).
+O Ministério Público opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 1935-1941).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A questão preliminar acerca da suposta nulidade agora apontada foi objeto de apreciação no voto convergente proferido pelo Desembargador Revisor Ruy Alberto Leme Cavalheiro, segundo o qual:
+" ..  O D. Defensor de Andreia de Fátima Coelho Rodrigues arguiu preliminar de cerceamento de defesa por não ter sido possível acessar a mídia da interceptação telefônica. Ressaltou seu ingresso nos autos em fase de apelação, mas considerou tal como prejudicial.
+Outrossim, durante a fala da D. Defensora de Juliana Paumieli de Souza foi por ela salientado trechos da interceptação, inclusive se referindo a "JU", sua defendida; disse que com a denominação "JU" existem várias pessoas. Também fez menção à perícia em relação a tal denominação, "JU", pelo que tenho que ela teve acesso à mídia, à perícia. Se isso foi possibilitado para um Defensor, por certo que estava disponível nos autos de processo crime.
+Com isso, tenho que fica reforçado a não ocorrência de cerceamento de defesa. A mídia estava disponível, podendo tal Defensora a acessar. Se o Defensor anterior ao que se manifestou na sessão de julgamento não o fez, trata-se de análise de estratégia dele, para aquele momento. Mas o cerceamento de Defesa, com certeza, não se faz presente, pelo que rejeito a preliminar arguida em sustentação oral de julgamento.
+ISTO POSTO e o que mais dos autos consta, conhecendo dos apelos apresentados por ANDREIA DE FATIMA COELHO RODRIGUES , JULIANA PAUMIELI DE SOUZA , FRANCIS DE SOUZA E DANIEL DA SILVA SOUZA, é DADO PARCIAL PROVIMENTO AOS RECURSOS." (e-STJ, fls. 662-663; grifos diversos do original. )
+Dentro desse contexto, não há nulidade a ser declarada na hipótese, uma vez que, ao contrário do que alega o impetrante, as mídias foram disponibilizadas à defesa.
+E consoante registrado pelo Ministério Público em seu parecer:
+"Não há como acolher a tese de nulidade ora sustentada, porquanto, como visto, a defesa da paciente questionou, em sustentação oral, aspectos relativos ao conteúdo da escuta, tal como a atribuição da denominação "JU" à pessoa da paciente, argumentando que "existem várias pessoas com tal denominação" e destacando a necessidade de realização de perícia, o que evidencia que obteve pleno acesso à mídia que continha os áudios da interceptação telefônica." (e-STJ, fl. 1938; sem grifos no original.)
+Verifica-se que a defesa pretende renovar pretensão arguida em 2017, devidamente refutada quando do julgamento do recurso de apelação, em 30/5/2017. Saliente-se que todos os recursos subsequentes interpostos pela defesa da ora paciente já foram julgados e rejeitados (embargos de declaração), inadmitido (recurso especial) e não conhecido (agravo em recurso especial). Este último recurso foi alvo de várias impugnações perante esta Corte (agravo regimental, recurso extraordinário, novo agravo regimental e embargos de declaração), tendo todos sido negados.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
