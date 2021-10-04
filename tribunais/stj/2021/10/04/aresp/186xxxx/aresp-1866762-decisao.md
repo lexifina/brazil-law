@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por HSBC BANK BRASIL S/A - BANCO MÚLTIPLO, contra decisão que não admitiu recurso especial (fls. 418/421 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 200, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTEN Ç A. A ÇÃ O CIVIL P Ú BLICA. "DEC. HSBC. JUROS REMUNERATORIOS ESTABELECIDOS NA DECISÃO TRANSITADA EM JULGADO. PERCENTUAL DE 0,5% A. M. QUE DEVE INCIDIR DESDE AS DATAS EM QUE DEVERIAM TER SIDO REALIZADOS OS CR É DITOS AT É A DATA DO PAGAMENTO, DE ACORDO COM A SENTENÇA. DECISÃO REFORMADA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA REJEITADA. DESCABIMENTO DE HONORÁRIOS ADVOCATÍCIOS. RESP 1.134.186/RS. RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 231/237, e-STJ).
+Em suas razões de recurso especial, orecorrente, ora agravante, aponta ofensa aos artigos 490, 492 e 1022 do CPC/15. Sustenta, em síntese: i) negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre os seguintes pontos: a) na ação ajuizada pelo IDEC não houve pedido de condenação por juros remuneratórios; e b) não houve manifestação sobre os artigos apontados como violados; ii) não há condenação aos juros remuneratórios nos meses posteriores ao do expurgo decorrente do Plano Verão na ação coletiva, de modoque a sua cobrança no cumprimento individual se mostra indevida.
+Sem contrarrazões, o apelo não foi admitido na origem (fls. 418/421, e-STJ), dando ensejo ao agravo (fls. 463/473, e-STJ), visando destrancar o processamento daquela insurgência, no qual orecorrenterefuta os óbices aplicados pela Corte estadual.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1.Inicialmente, verifica-se que a apontada violação do art. 1022 do CPC/15 não se configura, haja vista o Tribunal estadual ter dirimido clara e integralmente a controvérsia acerca da incidência dos juros remuneratórios, porém em sentido contrário ao pretendido pela agravada. É, aliás, o que se observa dos seguintes excertos do acórdão recorrido (fls. 202, e-STJ):
+"Isto porque a incidência de juros remuneratórios foi expressamente prevista na sentença exequenda, senão vejamos: "Pelo exposto, JULGO PROCEDENTE a ação para condenar o réu a pagar as diferenças existentes entre o índice de 71,13% apurado em janeiro de 1989 (inflação de 70,28% mais juros de 0,5%), e o creditado nas cadernetas de poupança (22,97%), aplicando-se ao saldo existente em janeiro de 1989, computados juros e correção monetária das datas em realizados os créditos (..)". Assim, "constando do título a condenação do vencido a pagar "juros", sem qualquer ressalva, há de ser tida por compreendido nele a imposição ao pagamento de juros remuneratórios, eis que da essência dos contratos de depósito em cadernetas de poupança." (TJPR - 13 2 C. Cível - AI - 1274282-4 - Curitiba - Rel.: Luiz Henrique Miranda - Unânime - - J. 05.11.2014).".
+Portanto, verifica-se que a controvérsia foi integralmente solucionada pelo Tribunal de origem, com fundamento suficiente, não estando caracterizada a ofensa ao artigo 1.022, CPC/15, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+Nesse sentido:
+PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. AUSÊNCIA DE ANÁLISE DE QUESTÃO RELEVANTE PARA O JULGAMENTO DA LIDE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N.282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 165, 458, II, e 535, II, do CPC/1973 quando o acórdão recorrido apresenta fundamentos suficientes para embasar a decisão, enfrentando todas as questões pertinentes para a solução da lide e manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+(PET no AREsp 489.892/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 12/03/2018)
+2. Na hipótese, a Corte local entendeu que seriam devidos os juros remuneratórios, pois constaram do título judicial exequendo (fl. 202, e-STJ).
+Por outro lado, a parte recorrente sustenta a violação à coisa julgada, pois os juros remuneratórios não constaram do título judicial.
+Assim, para rever a conclusão da Corte local e, por conseguinte, acolher a pretensão relativa à violação a coisa julgada seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.AÇÃO DE COBRANÇA. TÍTULO EXEQUENDO. EXCESSO DE EXECUÇÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 535 do CPC/1973. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. A Corte local, interpretando o título exequendo, afastou o alegado excesso de execução, violação à coisa julgada e enriquecimento sem causa, de modo que, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. Se é incontroverso nos autos, como afirmado pelo próprio agravante, que o título executivo judicial se fundamentou no entendimento do Superior Tribunal de Justiça resultante do julgamento do REsp n. 43.055/SP, a outra conclusão não se pode chegar senão a de que o acórdão do Tribunal de origem bem aplicou o entendimento desta Corte Superior ao adotar, como índice único de correção monetária para todo o mês de janeiro de 1989, o percentual de 42,72%.
+4. Agravo interno não provido.
+(AgInt no AREsp 1113455/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2018, DJe 19/04/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BRASIL TELECOM S/A. CUMPRIMENTO DE SENTENÇA. TÍTULO GENÉRICO. OFENSA À COISA JULGADA. REVISÃO DE PROVA. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. A análise acerca de como ocorreu a ofensa à coisa julgada no cumprimento de sentença na forma em que definido pelas instâncias ordinárias importaria, necessariamente, novo exame do conjunto fático-probatório dos autos, providência vedada em sede especial, a teor da Súmula 7 do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1368081/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/02/2014, DJe 26/02/2014)
+3.Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
