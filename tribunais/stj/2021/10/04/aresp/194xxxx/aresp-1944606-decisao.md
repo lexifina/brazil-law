@@ -1,0 +1,20 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ITAÚ UNIBANCO HOLDING S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+AGRAVO DE INSTRUMENTO NEGÓCIOS JURÍDICOS BANCÁRIOS AÇÃO DE PRESTAÇÃO DE CONTAS FUNDO 157 INTERESSE DE AGIR DA AUTORA PARA A PROPOSITURA DA AÇÃO DE PRESTAÇÃO DE CONTAS EVIDENCIADO O FUNDO 157 NÃO POSSUÍA PREVISÃO DE RESGATE TAMPOUCO DE VENCIMENTO NÃO HAVENDO QUE SE FALAR EM PRESCRIÇÃO DA PRETENSÃO DE PRESTAÇÃO DE CONTAS NEGARAM PROVIMENTO AO RECURSO UNÂNIME
+Opostos
+Nas razões do recurso especial, aponta a parte recorrenteofensa ao disposto nosarts.17, 485, VI, 927, III, 1.022,1.038, § 3º, do CPC/2015, 287, II, a, da Lei 6.404/1976, 206, § 3º, IV e V, ou 205 do CC. Alega omissão no julgado. Afirma que "os elementos considerados no acórdão recorrido não são suficientemente hábeis a evidenciar o interesse processual da Recorrida para a propositura da presente ação". Sustenta prescrição trienal ou, alternativamente, decenal.
+Decido.
+2.Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2.015. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+3. Tampouco se verifica divergência em relação à tese firmada no recurso repetitivo Resp 1.349.453/MS. Isso porque norepetitivodecidiu-se pelanecessidade de pedido prévio e pagamento do custo do serviço em caso de propositura de ação cautelar de exibição de documentos, o que se distingue do caso em concretoque trata deação de exigir contas.
+4. No tocante à prescrição, concluiu o Tribunal de origem que "o Fundo 157 não possuía previsão de resgate, tampouco de vencimento, não havendo que se falar em prescrição da pretensão deduzida pela demandante."
+Rever esseentendimento demandariaa incursão no acervo probatório dos autos e o exame das cláusulas do contrato entabulado entre as partes, providência vedada em sede de especial, a teor das Súmulas n. 5 e n. 7/STJ, que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+Nessesentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.BANCÁRIO. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. FUNDO 157.PRESCRIÇÃO AFASTADA. SÚMULAS 5 E 7 DESTA CORTE. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem afastou a alegada prescrição da pretensão de exigir contas dos valores administrados pelo banco, sob o fundamento de que o Fundo 157, instituído pelo Decreto-Lei n. 157/1967, não possuía nenhuma previsão de resgate ou prazo de vencimento. Rever tal conclusão esbarra no óbice das Súmulas n. 5 e 7 deste Tribunal.
+2. Não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1791387/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/05/2021, DJe 05/05/2021)
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
