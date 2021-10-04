@@ -1,0 +1,26 @@
+DECISÃO
+CLAUDIOMIRO SOUZA RODRIGUES alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação n. 0005081-71.2016.8.24.0018/SC.
+Consta dos autos que o paciente foi condenado à pena de 2 anos de reclusão, em regime aberto, pela prática do delito previsto no art. 155, § 4º, I e IV, do Código Penal, substituída a reprimenda privativa por duas restritivas de direitos.
+A defesa requer que a pena privativa de liberdade seja substituída por uma restritiva de direitos e uma multa, porque a substituição mais gravosa ao réu foi escolhida sem a devida fundamentação.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 693-698).
+Decido.
+No tocante à pretendida substituição da pena privativa de liberdade por uma restritiva e multa, o acórdão que julgou a apelação foi assim redigido (fls. 254-255):
+Dessa forma, cumpridos os requisitos previstos no art. 44 do Código Penal, substitui-se a pena privativa de liberdade por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária no valor de um salário-mínimo vigente na época do pagamento.
+Destaca-se que dentre as demais opções elencadas no rol do artigo 43 do Código Penal, a prestação de serviços à comunidade é extremamente efetiva na reprovação do crime, uma vez que exigirá esforço do acusado, o que permitirá a reflexão dos fatos ocorridos e facilitará "no propósito pessoal de ressocializar-se, fator indispensável no aperfeiçoamento do ser humano" (BITTENCOURT, Cezar Roberto. Tratado de Direito Penal. Vol. 1 - Parte Geral, São Paulo: Saraiva, 2018, p. 698).
+No tocante à prestação pecuniária, entende-se que esta também se mostra efetiva para a prevenção da reiteração delitiva, notadamente porque, por óbvio, demanda dispêndio financeiro, além de que o crime em questão foi praticado justamente com o intuito de obter vantagem econômica.
+O art. 44, § 2º, do CP estabelece que, "na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos".
+Como se vê, constitui direito subjetivo do acusado a substituição da pena privativa de liberdade se forem atendidos os requisitos previstos naquele dispositivo. Assim, o magistrado deve fundamentar a escolha que faz entre as alternativas legais: a) prestação pecuniária; b) perda de bens e valores; c) prestação de serviço à comunidade ou a entidades públicas; d) interdição temporária de direitos; e) limitação de finais de semana.
+Quanto ao tema, esta Corte Superior entende: "Preenchidos os requisitos para a substituição da pena corporal por restritiva de direitos, mas estabelecida a sanção corporal abaixo de 1 (um) ano, a substituição pode ser feita por multa ou por medida restritiva, cabendo a escolha ao magistrado sentenciante, no exercício da discricionariedade vinculada, desde que apresente fundamentação adequada"(AgRg no HC n. 415.618/SC, Rel. Ministro Jorge Mussi, 5ª T., DJe 4/6/2018).
+Ainda assim, "Se ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, § 2º, 2ª parte do Código Penal.  ..  Hipótese em que a pena restritiva de direitos de prestação pecuniária, de índole reparadora, melhor atenderá ao caráter ressocializador da reprimenda, podendo inclusive ser convertida em pena corporal, se descumprida" (HC n. 416.530/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 19/12/2017, destaquei).
+Na espécie, o Tribunal de origem, substituiu a pena de 2 anos de reclusão por duas restritivas de direito - prestação pecuniária e prestação de serviços comunitários -, mantida a multa cumulativa, prevista para o delito de furto qualificado.
+Embora a instância antecedente não haja apresentado fundamentação específica para aplicar as duas restritivas de direito, a jurisprudência do STJ considera não ser socialmente recomendável a aplicação da multa substitutiva em crimes cujo tipo penal prevê multa cumulativa com a pena privativa de liberdade.
+Tais elementos afastam a plausibilidade jurídica do direito tido como violado, pois, afastada a possibilidade de imposição da multa substitutiva, devem ser mantidas as restritivas de direito em lugar da privativa de liberdade, de índole reparadora e passível de conversão.
+Nesse sentido:
+ ..
+2. Atendidos os requisitos para a substituição da pena corporal (art. 44, § 2º, do CP), o Magistrado deve escolher, mediante fundamentação idônea, a alternativa prevista em lei que mais bem atenda ao caráter ressocializador da reprimenda.
+3. Não é socialmente recomendável a aplicação de multa substitutiva em crimes cujo tipo penal já prevê multa cumulativa com a pena privativa de liberdade, hipótese em que a restritiva de direitos menos gravosa para o réu é a prestação pecuniária, de índole reparadora e passível de conversão.
+Precedentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 398.255/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 3/4/2019)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
