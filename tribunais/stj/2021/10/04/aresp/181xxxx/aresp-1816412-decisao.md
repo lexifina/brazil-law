@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por JOÃO LUIZ GATTO contra decisão que inadmitiu recurso especial, cuja controvérsia gira em torno da possibilidade de ser consideradoo tempo de contribuição posterior ao ajuizamento da ação, reafirmando-se a data de entrada do requerimento -DER -para o momento de implementação dos requisitos necessários à concessão de benefício previdenciário.
+Passo a decidir.
+A questão, objeto do apelo extremo, foi submetida à Primeira Seção dessa Corte Superior para ser julgada pela sistemática dos recursos repetitivos (Tema n. 995), a qual fixou a tese de que:
+É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.(REsp n. 1.727.063/SP,REsp n. 1.727.064/SP eREsp n. 1.727.069/SP, relator Ministro Mauro Campbell Marques, Julgado em 23/10/2019, DJe de 02/12/2019).
+Impende ressaltar que, na oportunidade, a Primeira Seção concluiu que os fatos supervenientes devem ser levados em consideração, no exame dos pressupostos para a concessão da aposentadoria, sendo certo que talmedida "só pode ser tomada, nos termos do art. 933 do CPC/2015, até o julgamento de segunda instância. Sendo inviável tal medida em instância superior(REsp. 1.727.063/SP, rel. MinistroMAURO CAMPBELL MARQUES, DJe 2.12.2019)"(AgInt no AREsp 1280125/SP, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020).
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
