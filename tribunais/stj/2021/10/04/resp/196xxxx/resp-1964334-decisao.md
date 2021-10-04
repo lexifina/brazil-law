@@ -1,0 +1,13 @@
+DECISÃO
+1. Cuida-se de agravo interposto por WEVERTON ROCHA MARQUES DE SOUSA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado:
+CONSTITUCIONAL CIVIL E PROCESSUAL CIVIL AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO REJEITADA MÉRITO REPORTAGEM VEICULADA EM REVISTA INFORMAÇÕES DE INTERESSE PÚBLICO REFERÊNCIA AO NOME DO AUTOR LIBERDADE DE IMPRENSA DIREITO À INFORMAÇÃO INEXISTÊNCIA DE ABUSO DE DIREITO ATO ILÍCITO NÃO CARACTERIZADO IMPROCEDÊNCIA DO PEDIDO INICIAL ACOLHIMENTO DO RECURSO INTERPOSTO PELA RÉ RECURSO DE APELAÇÃO INTERPOSTO PELO AUTOR JULGADO PREJUDICADO.
+1. Não estando evidenciada a inovação recursal alegada pela parte apelada, não há como ser acolhida a preliminar de não conhecimento do recurso.
+2. Havendo colisão entre direitos fundamentais amparados pela Carta Magna, a solução do litígio deve amparar-se no princípio da proporcionalidade.
+3. Somente nos casos em que há abuso do direito à informação, com o desvirtuamento dos fatos, de forma a depreciar a moral alheia, afetando diretamente a honra ou a imagem do indivíduo, é cabível o reconhecimento do direito à indenização por danos morais.
+4. Constatado que as informações veiculadas em matéria jornalística observaram o regular exercício do direito constitucional de informação, atendo-se a narrar fatos de interesse coletivo, não se encontra configurada a prática de ato ilícito apto a ensejar o cabimento de indenização por danos morais.
+5. Apelações Cíveis conhecidas. Preliminar rejeitada. No mérito, recurso de apelação interposto pela ré conhecida e provida. Recurso de Apelação interposto pelo autor julgado prejudicado.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 186, 187, 188, I, e 927 do CC. Argumenta que "a exclusão do ato ilícito deve estar associada diretamente ao exercício regular de um direito, cuja prática não tolera excessos e abusos por parte dos veículos de comunicação e seus prepostos. E, para a análise do exercício regular de um direito pela imprensa, não é suficiente a verificação do interesse público revestido nos fatos noticiados".
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhorexame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
