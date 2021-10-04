@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática que determinou a devolução dos autos à origem para aguardar julgamento do Tema 1.076 pelo STJ.
+A parte agravante sustenta, em suma (fls. 784-796 e 809-812/e-STJ):
+(..)
+4. Após interposição do referido recurso, V. Exa. proferiu nova decisão que, acertadamente, conheceu do Agravo para não conhecer do Recurso Especial interposto pelo MUNICÍPIO DE SÃO PAULO por entender que "o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar se não havia, ao tempo da propositura da ação, qualquer fato comprovadamente impeditivo da propositura da execução ou causa capaz de importar na extinção do crédito relativo à obrigação acessória", sendo, portanto, aplicável ao caso o óbice contido na Súmula n. 7/STJ.
+5. Diante disso, a pretensão recursal do KUMON ficou esvaziada (item i), de modo que o Agravo Interno de fls. 784-796 e-STJ perdeu o objeto, tão somente, com relação ao pedido análise do Agravo em Recurso Especial da MUNICIPALIDADE, cujas razões foram declinadas no capítulo intitulado de "II.1. Existência de Relação de Prejudicialidade: Necessidade de Análise do Agravo em Recurso Especial Interposto pela Municipalidade".
+6. Por sua vez, persiste o interesse do MACHADO MEYER no julgamento do Agravo Interno (item ii), especificadamente na análise do capítulo "II.2. Inexistência de Determinação de Suspensão Nacional Para Aguardar Julgamento do Tema Repetitivo n. 1.076/STJ", a fim a de que seja reconsiderada a r. decisão de fls. 746-747 e-STJ e, consequentemente, afastado o sobrestamento do referido recurso.
+(..)
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TEMA 1.076/STJ. NÃO SUSPENSÃO. ART. 1.037 DO CPC. DEVOLUÇÃO À ORIGEM. POSSIBILIDADE.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+2. Com efeito, a determinação de devolução do Recurso Especial para que se aguarde novo juízo de admissibilidade após o julgamento da Repercussão Geral funda-se na racionalidade do sistema processual, que preza pela uniformidade de julgamento sobre a mesma matéria nas Cortes de Justiça (art. 1.039 do CPC/2015).
+3. Outrossim, a suspensão do processamento dos feitos por força do art. 1.037, II, do CPC é uma providência que pode ser aplicada às instâncias ordinárias e, portanto, não tem correspondência com a ordem de devolução dos autos à origem, realizada pelo relator no Superior Tribunal de Justiça, em virtude da afetação de matéria ao Regime dos Recursos Repetitivos.
+4. Ainda que não vedado o seguimento dos processos nessa seara, o exame do Recurso Especial antes do julgamento realizado nos termos dos arts. 1.036 e seguintes do Código de Processo Civil daria azo à prolatação de decisões conflitantes e colocaria em risco tanto a eficiência quanto a economia processual.
+5. A mesma lógica deve ser aplicada para as teses que, embora submetidas à sistemática dos Recursos Repetitivos, não tiveram os respectivos processos suspensos. Afinal, a técnica de devolução dos autos à origem só alcança os feitos já tramitados nas instâncias inferiores e, tal como no outro caso de suspensão, não produz prejuízo algum às partes, além de racionalizar a atuação do sistema judicial como um todo.
+6. Dessarte, conforme a jurisprudência do STJ, havendo o reconhecimento de Repercussão Geral, ou afetação para julgamento como Repetitivo de Recurso Especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria-paradigma. Nesse sentido: AgInt nos EDcl no AREsp 1.131.306/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 15.2.2019; AgInt no REsp 1.615.887/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 12.2.2019.
+7. Ademais, tal decisão de devolução dos autos à origem é irrecorrível, por não gerar nenhum prejuízo para a parte. Eventual argumentação de distinguish também pode ser formulada no juízo a quo.
+8. Precedente da Segunda Turma do STJ determinando a mesma medida em relação a Recurso Especial cuja controvérsia corresponde ao Tema 1.076/STJ, caso dos autos.
+9. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 24.8.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Com efeito, a determinação de devolução do Recurso Especial para que se aguarde novo juízo de admissibilidade após o julgamento da Repercussão Geral funda-se na racionalidade do sistema processual, que preza pela uniformidade de julgamento sobre a mesma matéria nas Cortes de Justiça (art. 1.039 do CPC/2015).
+Outrossim, a suspensão do processamento dos feitos por força do art. 1.037, II, do CPC é uma providência que pode ser aplicada às instâncias ordinárias e, portanto, não tem correspondência com a ordem de devolução dos autos à origem, realizada pelo relator no STJ, em virtude da afetação de matéria ao Regime dos Recursos Repetitivos.
+Ainda que não vedado o seguimento dos processos nessa seara, o exame do Recurso Especial antes do julgamento realizado nos termos dos arts. 1.036 e seguintes do Código de Processo Civil daria azo à prolatação de decisões conflitantes e colocaria em risco tanto a eficiência quanto a economia processual.
+A mesma lógica deve ser aplicada para as teses que, embora submetidas à sistemática dos recursos repetitivos, não tiveram os respectivos processos suspensos. Afinal, a técnica de devolução dos autos à origem só alcança os feitos já tramitados nas instâncias inferiores e, tal como no outro caso, de suspensão, não produz prejuízo algum às partes, além de racionalizar a atuação do sistema judicial como um todo.
+Dessarte, conforme a jurisprudência do STJ, havendo o reconhecimento de Repercussão Geral, ou afetação para julgamento como Repetitivo de Recurso Especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria-paradigma. Nesse sentido: AgInt nos EDcl no AREsp 1.131.306/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 12/2/2019, DJe 15/2/2019; AgInt no REsp 1.615.887/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 7/2/2019, DJe 12/2/2019.
+Ademais, tal decisão é irrecorrível, por não gerar nenhum prejuízo para a parte. Eventual argumentação de distinguish também pode ser formulada no juízo a quo.
+Precedente da Segunda Turma do STJ determinando a mesma medida em relação a Recurso Especial cuja controvérsia corresponde ao Tema 1.076/STJ, caso dos autos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE EQUIDADE. VALOR DA CAUSA. TEMA 1.076/STJ. ALEGAÇÃO DE ERRO. NÃO SUSPENSÃO. ART. 1.037 DO CPC. DEVOLUÇÃO À ORIGEM. POSSIBILIDADE.
+1. A alegação de erro, se justificada, autoriza o conhecimento do agravo interno manejado contra a decisão que determina o retorno dos autos à origem com base no art. 1.040, II, do CPC.
+2. A suspensão do processamento dos feitos por força do art. 1.037, II, do CPC é uma providência que pode ser aplicada às instâncias ordinárias e, portanto, não tem correspondência com a ordem de devolução dos autos à origem, realizada pelo relator no STJ, em razão da afetação de matéria ao regime dos recursos repetitivos.
+3. Ainda que não vedado o seguimento dos processos nessa seara, o exame do recurso especial antes do julgamento realizado nos termos dos arts. 1.036 e seguintes do Código de Processo Civil daria azo à prolatação de decisões conflitantes e colocaria em risco tanto a eficiência quanto a economia processual.
+4. A mesma lógica deve ser aplicada para as teses que, embora submetidas à sistemática dos recursos repetitivos, não tiveram os respectivos processos suspensos. Afinal, a técnica de devolução dos autos à origem só alcança os feitos já tramitados nas instâncias inferiores e, tal como no outro caso, de suspensão, não produz prejuízo algum às partes, além de racionalizar a atuação do sistema judicial como um todo.
+5. Precedente da Primeira Turma do STJ determinando a mesma medida em relação a recurso especial cuja controvérsia corresponde ao Tema 1.076/STJ, caso dos autos.
+6. Agravo interno a que se nega provimento. (AgInt no REsp 1878169/PE, Rel. Min. OG FERNANDES, SEGUNDA TURMA, DJe 18/08/2021).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
