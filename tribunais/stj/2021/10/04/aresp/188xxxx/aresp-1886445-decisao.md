@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por TRR GILIOLI LTDA. e OUTROS, contra decisão que não admitiu recurso especial (fls. 603/605 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alíneas"a" e "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 544, e-STJ):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE DO TIPO CONTAGARANTIDA. VALIDADE DA CLÁUSULA QUE ESTABELECE O REAJUSTE MENSAL DA TAXA DE JUROS REMUNERATÓRIOS COM INFORMAÇÃO À MUTUÁRIA POR MEIO DOS EXTRATOS DE MOVIMENTAÇÃO. VARIAÇÃO QUE, NO CASO CONCRETO, NÃO REVELA ABUSIVIDADE EM COMPARAÇÃO COM A TAXA MÉDIA DE MERCADO DIVULGADA PELO BANCO CENTRAL. SUCUMBÊNCIA MÍNIMA DO EMBARGADO. ARTIGO 86, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL DE 2015. ÔNUS QUE É IMPOSTO, COM EXCLUSIVIDADE, AOS EMBARGANTES. MAJORAÇÃO DOSHONORÁRIOS ADVOCATÍCIOS EM RAZÃO DO TRABALHO REALIZADOEM GRAU DE RECURSO PELO ADVOGADO DO EMBARGADO. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSOPROVIDO.
+Em suas razões de recurso especial, os recorrentes, ora agravantes, apontam, além de dissídio jurisprudencial,ofensa aos artigos 122 do CC/02, 51, X e XIII, do CDC. Sustentam, em síntese, que a cláusula que estipulou a alteração das taxas de juros remuneratórios é ilícita.
+Após a apresentação das contrarrazões (fls. 583/585, e-STJ),o apelo não foi admitido na origem (fls. 603/605, e-STJ), dando ensejo ao agravo (fls. 615/623, e-STJ), visando destrancar o processamento daquela insurgência, no qual os recorrentes refutaram os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 626/636, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1.Na espécie, a Corte local afastou a suscitada abusividade, pois o "título executivo previu a incidência de taxa de juros remuneratórios flutuante, o que nada tem de abusivo, contanto que a taxa praticada não se mostre abusiva em comparação com a taxa média de mercado divulgada pelo Banco Central do Brasil"(fls. 540/542, e-STJ).
+No entanto, a adoção da taxa de juros flutuantes destoa do entendimento desta Corte no sentido da necessidade de expressa pactuação, sobretudo por violar o direito de informação, de modo que "nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor. " (Súmula 530/STJ).
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. NEGÓCIOS JURÍDICOS BANCÁRIOS. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. TAXA DIÁRIA NÃO INFORMADA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ABUSIVIDADE. PRECEDENTE ESPECÍFICO DA SEGUNDA SEÇÃO DO STJ: RESP 1.826.463/SC, MINHA RELATORIA, DJE DE 29/10/2020.AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no REsp 1842813/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/09/2021, DJe 23/09/2021)
+Assim, ante a abusividade, deve ser aplicada a taxa média de mercadopraticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor.
+2.Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de, reformando o acordão recorrido, afastar aincidência dataxa de juros remuneratórios flutuante, devendo ser aplicada a taxa média de mercado,salvo se a taxa cobrada for mais vantajosa.
+Condeno o recorrido ao pagamento dos honorários advocatícios em 10% sobre o proveito econômico, nos termos do art. 85, § 2º, do CPC/15.
+Publique-se. Intimem-se.
