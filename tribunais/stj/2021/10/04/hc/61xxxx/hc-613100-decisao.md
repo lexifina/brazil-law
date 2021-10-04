@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor de GILBERTO AMARAL HIPOLITO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono julgamento do HC n. 2191135-72.2020.8.26.0000.
+Consta nos autos que o Paciente foi preso em flagrante, em 28/07/2020, com posterior conversão em custódia preventiva, pela suposta prática do crime de tentativa de feminicídio qualificadomotivado porciúmes, pois teria esfaqueado a Vítima, que era sua colega de trabalho e com aqual mantinha um relacionamento amoroso.
+O pleitode revogação da custódia cautelar foi indeferido pelo Juízo singular (fls. 32-34).
+Irresignada, a Defesa impetrou préviohabeas corpusjunto ao Tribunal de origem, que denegou a ordem (fls. 35-44).
+No presentewrit, sustenta a ParteImpetrante, inicialmente,a ausência de fundamentação idônea do decreto prisional e dos requisitos para a decretação da prisão preventiva. Destaca, ainda, que o Acusado possuicondições pessoais favoráveispara permanecer em liberdade.
+Salienta, ademais, que a atual pandemia causada pelo novo coronavírus reforça a possibilidade de revogação da segregação provisória, mormente em razão da situação precária do do estabelecimento prisional onde o Investigado se encontra custodiado.
+Requer, inclusive liminarmente, a imediata soltura do Paciente.
+O pedido liminar foi indeferido (fls. 47-49).
+Asinformações foram prestadas às fls. 103-151.
+O Ministério Público Federal manifestou-se pelo não conhecimento dohabeas corpus (fls. 153-160).
+É o relatório.Decido.
+Segundo informações colhidas no endereço eletrônico do Tribunal de origem,verifica-se que, em 11/08/2021, o Paciente foi supervenientemente pronunciado nos autos da Ação Penal n. 1500718-86.2020.8.26.0594 como incurso no art. 121, § 2.º, incisosI e VI, e § 2.º-A, inciso I, c.c. o art. 14, inciso II, todos do Código Penal.
+Na oportunidade, o Juízo de origem manteve a constrição provisória consignando o que se segue:
+"Não tendo havido alteração das situações de fato e de direito, deverá o réu aguardar encarcerado o julgamento perante o Tribunal do Juri. Acresça-se não haver dúvida da intranquilidade e insegurança que imperariam meio social, se colocado em liberdade agente que, aparentemente, comete feminicídio valendo-se de uma faca, mormente se se considerar a busca da sociedade atual pelo fim do modelo patriarcal de família e pela igualdade de gêneros".
+Vale dizer, foi acrescentada fundamentação diversa daquela utilizada para a conversão da prisão em flagrante em preventiva, in verbis (fls. 130-131):
+"Também está presente o periculum in mora, ante gravidade concreto do delito, evidenciada pelo modus operandi do autuado, que, por ciúmes, desferiu golpes de faca contra a vítima no intuito de matá-la (animus necandi), conforme, inclusive, admitiu em seu próprio interrogatório perante a autoridade policial.
+ ..
+Registre-se, outrossim, que o crime de homicídio é de extrema gravidade e violência e têm causado repúdio e enorme insegurança à comunidade laboriosa e ordeira do País, motivo pela qual a manutenção de sua custódia cautelar é de rigor, para a garantia da ordem pública e para que a sociedade não venha se sentir privada de garantias para sua tranquilidade."
+Desse modo, há novo título a respaldar a custódia cautelar do Paciente, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram complementadas pelo superveniente fundamento apresentado na sentença de pronúncia, que ainda não foi objeto de análise pelo Tribunal impetrado.
+Assim, a verificação de eventual constrangimento ilegal, por se tratar de novo título, em que foram agregados novos fundamentos, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior se adiantar em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso I, alínea c).Nesse sentido:
+" ..
+1. A superveniência de sentença de pronúncia, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Agravo regimental desprovido."(AgRg no RHC 112.178/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 15/06/2020.)
+" ..
+VI - Pleito de revogação da prisão preventiva ante a alegada ausência de fundamentação do decreto prisional prejudicado pela superveniência da sentença de pronúncia, que constitui novo título, com novos fundamentos para a prisão preventiva, os quais não foram impugnados na presente impetração, tampouco analisados pelo eg. Tribunal de origem.
+Habeas corpus não conhecido." (HC 495.012/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/06/2019, DJe 25/06/2019).
+Por fim, convém registrar que a Parte Impetrante alega, genericamente, a situação decorrente da pandemia causada pela Covid-19, sem, contudo, demonstrar, de modo específico e fundamentado, a viabilidade dessa pretensão à luz do disposto na recomendação n. 62/2020 do CNJ, mormente porque foi destacado no acórdão impugnado que "o Paciente possui 46 anos de idade e não comprovou estar em grupo de risco em relação ao "Coronavírus". Pelo contrário, em Delegacia de Polícia, declarou que não possui doenças crônicas, bem como não apresentou sintomas para a COVID-19 nos dias que antecederam a prisão" (fl. 43).
+Nos termos da jurisprudência deste Superior Tribunal de Justiça, para que seja determinada a soltura do Acusado em decorrência da atual pandemia, é imprescindível que demonstre: "a)sua inequívoca adequação no chamado grupo de vulneráveis do COVID19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, causa mais risco do que o ambiente em que a sociedade está inserida, inocorrente na espécie." (AgRg no HC 561.993/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020.), o que não ocorreu na hipótese.
+Ante o exposto,JULGO PARCIALMENTE PREJUDICADO o write, no mais, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TENTATIVA DE FEMINICÍDIO QUALIFICADO.SUPERVENIÊNCIA DE PRONÚNCIA COM A ADOÇÃO DE NOVOS FUNDAMENTOS PARA MANUTENÇÃO DA PRISÃO CAUTELAR. QUESTÃOPREJUDICADA. PLEITO DE SOLTURA AMPARADO NA RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. REQUISITOS NÃO DEMONSTRADOS. HABEAS CORPUS PARCIALMENTE PREJUDICADO E, NO MAIS, DENEGADA A ORDEM.
