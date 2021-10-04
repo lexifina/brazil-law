@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por Jakson da Silva contra a decisão proferida pelo Tribunal de Justiça do Distrito Federal e dos Territórios, que, em juízo de admissibilidade, não admitiu o recurso especial por ele apresentado, com fundamento no art. 105, III, a, do permissivo constitucional, contra o acórdão prolatado na Apelação Criminal n. 0704001-60.2020.8.07.0019, assim ementado (fls. 280/281):
+DIREITO PENAL. APELAÇÃO CRIMINAL. ROUBO TENTADO. MATERIALIDADE E AUTORIA COMPROVADAS. DOSIMETRIA. VALORAÇÃO NEGATIVA DOS VETORES ANTECEDENTES, CONDUTA SOCIAL E CONSEQUÊNCIAS DO CRIME MANTIDA. PATAMAR DE AUMENTO. CRITÉRIO OBJETIVO-SUBJETIVO. TENTATIVA. FRAÇÃO. ITER CRIMINIS. RECURSO CONHECIDO E DESPROVIDO.
+1. A conduta social deve ser avaliada observando-se o papel do réu na comunidade, inserido no contexto da família, vizinhança e outras mais, de modo que, tendo o réu praticado o delito de tentativa de roubo em desfavor de um vizinho, mantém-se a avaliação desfavorável da referida circunstância judicial. Ademais, a prática de crime durante benefício concedido na execução da pena anterior não se confunde com condenação anterior e pode fundamentar a valoração negativa desse vetor.
+2. Mantém-se a valoração negativa das consequências do crime, quando a vítima é atingida em seu rosto, determinando afastamento do emprego por cinco dias, porquanto extrapola as normais para a espécie.
+3. Acertado o aumento de 1/8 (um oitavo) do quantum de pena obtido da diferença entre os patamares máximo e mínimo cominados abstratamente ao tipo, devido à valoração de três circunstâncias judiciais, conforme preceitua o critério objetivo-subjetivo de fixação da pena-base. Precedentes.
+4. Considerando que o iter criminis afastou-se do início, mas não se aproximou da consumação, considerando que sequer ocorreu a inversão da posse do bem, uma vez que a vítima entrou em luta corporal com o réu, a qual, mesmo ferida, conseguiu correr e fugir da cena do crime, adequada a fração média (1/2) para redução da pena em face da tentativa.
+5. Recurso conhecido e desprovido.
+Nas razões do especial, apontou a Defensoria Pública contrariedade ao art. 14, parágrafo único, do Código Penal, argumentando, em síntese, que a consumação do crime de roubo passou longe de sua concretização, percorrendo uma parcela mínima do iter criminis, devendo a redução, pela tentativa, ser concedida em seu grau máximo legal, ou seja, 2/3. Contestou, com isso, a fração utilizada de 1/2, sendo o caso de aplicação da fração máxima de 2/3 (fls. 296/303).
+Apresentadas contrarrazões (fls. 309/311), o recurso especial não foi admitido, por incidência da Súmula 7/STJ (fls. 314/315).
+Daí o presente agravo (fls. 322/330). Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do agravo, para que seja negado seguimento ao recurso especial, nos seguintes termos (fl. 351):
+AGRAVO EM RECURSO ESPECIAL. ROUBO TENTADO. MODIFICAÇÃO DO REDUTOR DA PENA PELA TENTATIVA. ITER CRIMINIS. MODIFICAÇÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REVOLVIMENTO DE MATÉRIA FÁTICO PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. PARECER PELO CONHECIMENTO DO AGRAVO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+- Para que o Superior Tribunal de Justiça pudesse modificar o entendimento da Corte a quo, o qual analisou o iter criminis percorrido pelo recorrente para confirmar a escolha da fração de redução de  (um meio) a ser aplicada à tentativa de roubo em questão, seria necessário o revolvimento de todo acervo fático probatório, o que atrai a incidência da Súmula nº 7/STJ.
+- Parecer pelo conhecimento do agravo, para que seja negado seguimento ao recurso especial.
+É o relatório.
+Presentes os requisitos de admissibilidade, o recurso merece ser conhecido.
+Contudo, a irresignação não prospera.
+Consta da sentença condenatória (fl. 217 - grifo nosso):
+ ..  Na TERCEIRA FASE ausente causas de aumento. Por outro lado, diviso a causa de diminuição de pena referente à tentativa. Dessa forma, considerando que o réu anunciou o assalto, tentou inverter a posse do bem com o uso da força, bem como entrou em luta corporal com a vitima, mas não chegou a deter a posse da coisa, aplico o redutor da tentativa em sua fração intermediária, de 1/2 (metade), tendo em vista o iter criminis percorrido, e, de consequência, ESTABELEÇO A PENA QUE TORNO DEFINITIVA E CONCRETA EM 03 (TRÊS) ANOS E 06 (SEIS) MESES DE RECLUSÃO.  ..
+Por sua vez, a Corte a quo redimensionou as penas aplicadas, mediante os seguintes fundamentos (fls. 285/286 - grifo nosso):
+ ..  Na terceira fase, o MM. Juiz considerou ausente causas de aumento. Por outro lado, reconheceu a causa de diminuição de pena referente à tentativa, aplicando a fração de  (metade).
+A defesa requer a aplicação do fator de redução máximo para o crime na sua forma tentada.
+O critério sedimentado na jurisprudência para estabelecer esse percentual é inversamente proporcional à proximidade com a consumação, ou seja, quanto maior o iter criminis percorrido pelo agente, menor será a razão da causa de diminuição.
+No caso em concreto, o acusado afastou-se do início do iter criminis, mas não se aproximou da consumação, uma vez que anunciou o assalto, tentou subtrair o bem à força, mas entrou em luta corporal com a vítima, o que inviabilizou a inversão da posse
+Nesses casos é adequada a fração média (1/2), tal como consta do decisum.
+Nesse sentido já decidiu esta Casa de Justiça:
+ ..  Nada a reparar quanto à fração de redução referente à tentativa, razão pela qual mantenho a pena, concreta e definitiva, em 03 (três) anos e 06 (seis) meses de reclusão.  ..
+Infere-se das transcrições acima que o Tribunal Distrital, soberano na análise das provas dos autos, reconheceu como adequada a redução da reprimenda na fração de 1/2 imposta pela sentença, em face do iter criminis percorrido pelo acusado relativamente próximo da consumação, destacando que o acusado anunciou o assalto, tentou subtrair o bem à força, mas entrou em luta corporal com a vítima, o que inviabilizou a inversão da posse (fl. 2866).
+Deste modo, é evidente que, para se infirmar a conclusão a que chegou o Tribunal de origem, no sentido de que o iter criminis não se aproximou do resultado consumativo, seria necessária incursão na esfera fático-probatória dos autos, o que se mostra inviável na via eleita, em razão do óbice da Súmula 7/STJ.
+A propósito: AgRg no REsp n. 1.925.430/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/8/2021; AgRg no AREsp n. 1.859.174/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/6/2021; REsp n. 1.832.207/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 30/6/2020; AgRg no AREsp n. 982.992/TO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 8/3/2018, dentre outros.
+Ante o exposto, com fundamento no art. 253, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO TENTADO. DOSIMETRIA. TERCEIRA FASE. MODIFICAÇÃO DO REDUTOR DA PENA PELA TENTATIVA. ITER CRIMINIS. INVIABILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
