@@ -1,0 +1,60 @@
+DECISÃO
+1. Cuida-se de agravo interposto por HAPVIDA ASSISTENCIA MEDICA LTDAcontra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim ementado:
+EMENTA: APELAÇÃO CÍVEL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. INTERNAMENTO URGÊNCIA/EMERGÊNCIA. PRAZO DE CARÊNCIA. CONTRATOPREVÊ 180 DIAS. ABUSIVO. ART. 12, V, "C" DA LEI Nº. 9.656/98. RECURSO NÃOPROVIDO. DECISÃO UNÂNIME.1. A Lei nº 9.656/98, em seu art. 12, V, "b" e "c", estabelece prazo de carência de no máximo de 180 (cento e oitenta) dias para os demais casos e 24 (vinte e quatro)horas para tratamentos de urgência e emergência, respectivamente.2. In casu, comprovada a situação de urgência/emergência alegada pela recorrida capaz de ensejar o dever de autorização do internamento, tendo em vista a cirurgia de emergência do requerido.3. Recurso não provido. Decisão unânime.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts.12, V, "b" e "c", e 35-C da Lei nº 9.656/98;373, I, do Código de Processo Civil e 186 e 927 do Código Civil.
+Defende que não estáconfiguradanos autos situação deurgência e emergência, visto que não há qualquer menção a risco imediato de vida ou lesões irreparáveis, nem foi comprovada aexistência de perigo de dano ou lesão imediato. Argumenta que não foram comprovados os requisitos necessários à concessão de indenização por danos morais.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 344.
+É o relatório.
+DECIDO.
+2. O tribunal de origem assim decidiu as questões suscitadas (fls. 312 - 314 e-STJ):
+Presentes os requisitos de admissibilidade recursal, passo a analisar o mérito.
+Cinge-se o debate do presente recurso sobre a possibilidade de cobertura do plano de saúde para internação, em que pese o fato da beneficiária ainda se encontrar em cumprimento de carência contratual de assistência médico-hospitalar para internamento hospitalar.
+Analisando a argumentação apresentada pela apelante, tenho que não restou demonstrado nos autos motivos capazes de modificar a decisão açoitada.
+In casu, o contrato foi celebrado em 26/12/18 (Id. 11633585 ), porém, no dia 25/03/2019, em situação de emergência com crise hipertensiva e fortes na lombar associado à alteração abrupta da função renal (Id 11633572), dirigiu-se ao Hospital Ilha do Leite, onde foi atendido emergencialmente, porém, foi negada a internação (conforme ID 11633563), haja vista que a parte autora encontrava-se cumprindo o prazo de carência de 180 (cento e oitenta) dias para cobertura de internamento clínico.
+Percebe-se que a parte autora deu entrada para internação emergencial no Hospital, todavia, o plano tentou transferi-la para o sistema público de saúde. As evidências do processo são claras acerca da urgência da internação, e tal fato é inconteste, não havendo razão lógica para a transferência do paciente que, beneficiário de Plano de Saúde Particular da Apelante, foi compelido a dar continuidade ao seu tratamento pelo sistema SUS. Ora, a bondade do Plano de Saúde em "conceder" sua ambulância para transferir o SEU paciente para o SUS é no mínimo temerosa. Estamos diante de uma nítida burla ao Contrato que prevê a internação em casos de urgência e emergência, e sua omissão ao internamento do autor certamente poderia incorrer em omissão de socorro, crime previsto em Lei.
+A Hapvida negou o internamento alegando que o beneficiário está com 89 dias de contrato e "procedimento indeferido por Carência Contratual, assim em conformidade com a CLAUSULA DÉCIMA" (11633563)
+Todavia, a parte autora se enquadra na exceção prevista na cláusula 12 do contrato. Primeiramente insta salientar que os prazos de carências dos planos e seguros privados de assistência à saúde são previstos pelo artigo 12 da Lei nº 9.656/1998, vejamos:
+"Art. 12. Art. 12. São facultadas a oferta, a contratação e a vigência dos produtos de que tratam o inciso I e o § 1o do art. 1o desta Lei, nas segmentações previstas nos incisos I a IV deste artigo, respeitadas as respectivas amplitudes de cobertura definidas no plano-referência de que trata o art. 10, segundo as seguintes exigências mínimas:
+ ..
+V - quando fixar períodos de carência:
+ ..
+b)prazo máximo de cento e oitenta dias para os demais casos;
+c) prazo máximo de vinte e quatro horas para a cobertura dos casos de urgência e emergência;"(grifei)
+Da leitura do mencionado dispositivo resta clarividente que a regra é a previsão do prazo de carência de 180 dias para autorização de realização demais casos e a exceção pode ser observada nas situações de urgência/emergência, quando as operadoras de planos de saúde são obrigadas a respeitarem a carência de apenas 24 horas. Tal interpretação é amplamente pacificada perante os Tribunais nacionais:
+(..)
+In casu, o apelado assinou o contrato de plano de assistência à saúde por adesão ofertado pela apelante, e, sendo assim, em condições fáticas normais de cumprimento do contrato a recorrida ainda não havia concluído o período de carência para a internação hospitalar, mas pela Legislação acima reportada faz jus ao procedimento requerido.
+A par disso, imprescindível se faz analisar se houve a alegada urgência/emergência capaz de ensejar a responsabilização da apelante pela negativa de autorização do procedimento.
+Conforme já citado, os documentos juntados aos autos, bem como a própria doença que acometia o beneficiário, caracterizaram a urgência e consequente internação a ser realizado como de urgência/emergência, o qual, a Lei nº 9.656/1998, em seu artigo 12, V, "c", prevê prazo de carência de, no máximo, 24 (vinte e quatro) horas, prazo este já cumprido pelo consumidor.
+Portanto, a internação e o procedimento negado pela operadora apelante eram de cobertura obrigatória, não tendo respaldo a alegação de que existe cláusula contratual a qual estabelece prazo de carência de 180 (cento e oitenta) para a internação requisitada.
+Assim, verifica-se que a conduta da operadora, primeira apelante, negando autorização para o internamento, em caráter de urgência/emergência, não recebe chancela do Poder Judiciário, pois que é de pronto considerada abusiva.
+Assim, o Plano de Saúde deve arcar com os custos da internação, pois, como visto, é de obrigatória a cobertura a internação de urgência, ainda que em casos de cumprimento de carência.
+Na espécie, a Corte local, concluiu que a parte recorrida faz jus ao custeio da internação de emergência e indenização por danos morais diante da recusa indevida da parte recorrente de prestar atendimento integral a recorridaem caso de emergência.
+Resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. PLANO DE SAÚDE. STENTS FARMACOLÓGICOS. IMPLANTAÇÃO. SITUAÇÃO DE URGÊNCIA.FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. DANO MORAL.CONFIGURAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+ ..  3. Na hipótese, rever a conclusão do aresto impugnado acerca da configuração do dano moral encontra o óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+4. Agravo interno não provido.
+(AgInt no AREsp 1413869/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/10/2019, DJe 17/10/2019)
+___________
+PROCESSUAL CIVIL. ADMINISTRATIVO. FORNECIMENTO DE MATERIAIS PARA PROCEDIMENTO CIRÚRGICO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535, INCISOS I e II, DO CPC/73. DANO MORAL EXISTENTE. REVISÃO. REEXAME DE PROVA. SÚMULA N. 7 DO STJ.RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.
+ ..  II - Havendo o Tribunal de origem, com base no acervo fático-probatório dos autos, concluído que ficou comprovado o caráter emergencial do procedimento cirúrgico; que a natureza da intervenção foi indicada pelo médico da parte recorrida, como a melhor técnica considerando sua idade avançada; e, ainda, que ficou configurado dano moral a ser reparado, a inversão do julgado implicaria, necessariamente, no reexame das provas carreadas aos autos, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ.
+III - Agravo interno improvido.
+(AgInt no AREsp 1016832/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/09/2017, DJe 25/09/2017)
+Ademais, considerando a moldura fática delineada no acórdão recorrido, verifica-se que o entendimento da Corte local está em conformidade com a jurisprudência do STJ.
+É assente nesta Corte Superior que "a cláusula de carência do contrato de plano de saúde deve ser mitigada diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e razão de ser do negócio jurídico firmado". Ademais, "a recusa indevida de tratamento médico - nos casos de urgência - agrava a situação psicológica e gera aflição, que ultrapassam os meros dissabores, caracterizando o dano moral indenizável" (AgInt no AREsp 892.340/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2016, DJe 16/8/2016).
+Também nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA TRATAMENTO DE EMERGÊNCIA DE DOENÇA GRAVE. PERÍODO DE CARÊNCIA.CLÁUSULA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento emergencial, como ocorrido no presente caso, em que a autora buscava realizar procedimento para tratamento de câncer, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento.
+2. A cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência 3. Agravo interno não provido. (AgInt no AREsp 872.156/CE, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 07/03/2017, DJe 20/03/2017)
+_____________
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SITUAÇÃO DE EMERGÊNCIA OU URGÊNCIA. MITIGAÇÃO DO PRAZO DE CARÊNCIA. PROTEÇÃO DA VIDA. RECUSA INDEVIDA.DANO MORAL. DECISÃO MANTIDA.
+1. "A cláusula de carência do contrato de plano de saúde deve ser mitigada diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e razão de ser do negócio jurídico firmado" (AgInt no AREsp 892.340/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 09/08/2016, DJe 16/08/2016).
+2. A recusa indevida da operadora de plano de saúde a autorizar o tratamento do segurado é passível de condenação por dano moral, uma vez que agrava a situação de aflição e angústia do segurado, comprometido em sua higidez físico-psicológica pela enfermidade.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 949.288/CE, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/10/2016, DJe 24/10/2016)
+_____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. EMERGÊNCIA. RECUSA NO ATENDIMENTO. PRAZO DE CARÊNCIA. CLÁUSULA. ABUSIVIDADE. PRECEDENTES. SÚMULA Nº 568/STJ. INCIDÊNCIA.
+1. Esta Corte Superior firmou o entendimento de que o período de carência contratualmente estipulado pelos planos de saúde não prevalece diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e a razão de ser do negócio jurídico firmado.
+Incidência da Súmula nº 568/STJ.
+2. Agravo interno não provido. (AgInt no AREsp 858.013/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 09/08/2016, DJe 16/08/2016)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
