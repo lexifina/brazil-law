@@ -1,0 +1,14 @@
+DECISÃO
+CLEVERTON SANTOS NUNES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 1408386-92.2021.8.12.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que "o paciente, juntamente com a pessoa de Carolina Creviane Ramos, foi preso em flagrante, no dia 04 de maio de 2021, por suposta prática do delito previsto no artigo 33, caput, c/c art. 40, inciso V, ambos da Lei n. 11.343/06" (fl. 93).
+Consoante apontado pelo Parquet, " n o presente recurso, alega-se constrangimento ilegal frente a ausência de fundamentos para manutenção da prisão preventiva, o que infringe o princípio da não culpabilidade. Requer, portanto, a expedição do alvará de soltura em favor da recorrente" (fl. 154).
+Instado a se manifestar, o Ministério Público Federal pugnou pelo não provimento do recurso.
+Decido.
+Consoante destacado pelo Juízo singular, " a  periculosidade do conduzido advém das próprias circunstâncias em concreto da prática delitiva a ela imputada, tendo havido apreensão com ela de 1,350kg (um quilo, trezentos e cinquenta gramas). A natureza da droga - skunk a quantidade, a forma de acondicionamento e as circunstâncias do fato autorizam, em análise inicial, a custódia do requerente, como incurso no artigo 33 da Lei n. 11.343, de 2006" (fl. 20, grifei).
+A Corte de origem, por sua vez, apontou que "o decreto prisional está fundamentado na gravidade acentuada da conduta criminosa em apuração, haja vista que, segundo consta dos autos de inquérito, o paciente foi flagrado, supostamente, transportando 1,350 kg (um quilo e trezentos e cinquenta gramas) de "skank", em compartimento oculto do veículo, bem como, 02 (duas) trouxinhas de maconha, pesando 3g (três gramas), sendo que o destino final do entorpecente seria outro Estado da Federação, conforme o auto investigativo" (fl. 98, grifei).
+A esse respeito, a jurisprudência desta Corte Superior é firme ao asseverar que " n ão é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos delituosos, cifrada na significativa quantidade de substância entorpecente apreendida" (RHC n. 93.740/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 12/3/2018, destaquei).
+Nesse sentido:
+ ..
+4. A prisão preventiva encontra-se suficientemente justificada na necessidade de garantia da ordem pública, considerada a gravidade concreta do crime imputado, uma vez que foram apreendidos dois tijolos de maconha, com peso de 1,6kg (um quilo e seiscentos gramas), além de R$ 535,00 (quinhentos e trinta e cinco) em dinheiro  ..  (AgRg no HC n. 692.502/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/9/2021, grifei).
+À vista do exposto, nos termos do art. 34, XX, c/c o art. 246, ambos do RISTJ, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
