@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo interposto por RUTE SOLcontra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado:
+EMENTA - APELAÇÕES CÍVEIS - AÇÃO DE CONHECIMENTO DE NATUREZA CONSTITUTIVO-CONDENATÓRIA - OFENSA AO PRINCÍPIO DA DIALETICIDADE - PRELIMINAR AFASTADA - MÉRITO - ADESÃO DA AUTORA AO SERVIÇO DE CARTÃO DE CRÉDITO DISPONIBILIZADO PELO BANCO - RESERVA DE MARGEM CONSIGNÁVEL - USO DO CARTÃO PARA AQUISIÇÃO DE BENS - COMPROVAÇÃO ATRAVÉS DE EXTRATOS - VÍCIO DE CONSENTIMENTO E FALHA NA PRESTAÇÃO DOS SERVIÇOS DO BANCO AFASTADOS - MAJORAÇÃO DE HONORÁRIOS E DO DANO MORAL - MATÉRIAS NÃO CONHECIDAS - PREJUDICIALIDADE DO RECURSO DA AUTORA - INVERSÃO DA SUCUMBÊNCIA - RECURSO DA AUTORA NÃO CONHECIDO - RECURSO DO RÉU PROVIDO .
+(i) Se o banco combate os principais fundamentos da sentença, não há ofensa ao princípio da dialeticidade.
+(ii) Constando do instrumento contratual assinado pela autora o seu objeto - emissão de cartão de crédito consignado - não há se falar em ilegalidade da relação jurídica, notadamente quando a consumidora dá a ele destinação essencial, qual seja, aquisição de bens, devidamente comprovada pelas faturas.
+(iii) Os encargos rotativos são cobradas a partir do momento que deixa o consumidor de pagar o valor total da fatura, os quais são distinguidos mês a mês no demonstrativo de pagamento.
+(iv) O reconhecimento da legalidade do contrato implica em prejudicialidade do recurso da parte ex adversa e a inversão da sucumbência.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts.112, 113, 422 e 423, do Código Civil e artigos 47 e 51, § 2º, do CDC, bem como dissídio jurisprudencial. Busca a declaração de nulidade do contrato de cartão de créditoeindenização por danos morais. Assevera que "a parte recorrente sempre acreditou que na verdade, a contratação se referia a um empréstimo consignado pessoal e não uma contratação para reserva de margem de cartão de crédito" (fl. 405).
+Decido.
+2. Na espécie, a Corte local, com base nos elementos fático-probatórios dos autos e na interpretação do contrato, concluiu pelaimprocedência do pedido autoral, ao concluir que houve a contratação sem vício de consentimento, além de ter considerado lícito o desconto mensal.
+A propósito, confira o seguinte trecho do acórdão recorrido:
+Ainda que todas as vias da PROPOSTA PARA EMISSÃO DE CARTÃO DE CRÉDITO (f. 136-141) não estejam vistadas pela autora, as derradeiras estão, como se vê às f. 137 e 140. E mais, depreende-se dos termos do instrumento ter a autora aderido ao serviço de cartão de crédito em sua essência, tanto que consta das faturas (f. 114-122) aquisição de bens em 01.06.2019 na empresa Volmei 1 e, segundo pude coletar na internet, trata-se de loja de materiais de construção existente no município de Sidrolândia, o mesmo da residência da autora, a ser quitado em 5 parcelas de R$ 398,94 (trezentos e noventa e oito reais e noventa e quatro centavos) e a partir da fatura com vencimento para 08.11.2019, lançamentos de mercancia junto ao itunes.com/bill.
+Não se trata, portanto, de empréstimo via cartão de crédito como alegou a autora na inicial (f. 2) mas de adesão ao serviço de cartão de crédito usado para pagamento de aquisição de bens/serviço.
+A consignação de valor mínimo foi opção da autora.
+ ..
+Comprovado o uso do cartão de crédito para pagamento de bens adquiridos pela autora, após aderir ao serviço ofertado pelo banco, não há se falar em ilegalidade do contrato, de repetição do indébito e indenização moral.(fl. 374-376).
+Desse modo, constata-se que a revisão do acórdão recorrido e a análise da pretensão recursal demandariam a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, e a interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CARTÃO DE CRÉDITO. ABUSIVIDADE. AFERIÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem, com base na interpretação dos elementos de convicção anexados aos autos, concluiu pela caracterização do contrato como de cartão de crédito, pela ciência da parte quanto à modalidade de contratação e pela inexistência de abuso na taxa de juros remuneratórios praticada. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1518620/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/02/2020, DJe 20/02/2020)
+3. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
