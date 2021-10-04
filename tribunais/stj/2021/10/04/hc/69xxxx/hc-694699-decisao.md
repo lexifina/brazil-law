@@ -1,0 +1,17 @@
+DECISÃO
+GEOVANE RODRIGUES PEREIRAalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado de Minas Geraisno HC n. 1.0000.21.145626-4/000.
+Nesta Corte, a defesa postula arevogação da prisão preventiva do réu, por considerar inidôneos os elementos descritos para manter a cautela extrema, na sentença que o condenou à pena de 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, como incurso no art. 33,caput, da Lei n. 11.343/2006.
+Extrai-se dos autos que o paciente teve sua prisão em flagrante, pela suposta prática do crime de tráfico de drogas, convolada em constrição provisória pelos seguintes motivos (fl. 24, grifei):
+No caso dos autos, há indícios suficientes de autoria e materialidade delitivas do crime dotráfico de drogas,  ..  diante das declarações colhidas na lavratura do APFD, considerando que o indivíduo foi flagrante pelos militares supostamente vendendo drogas na posse de casa. Osuposto usuário foi ouvido na DEPOL, confirmando as circunstâncias da prisão. Naposse direta do autuado foi arrecadado uma porção de maconha e dentro da residência outras 29 (vinte e nove) porções. Vejo que a prisão cautelar do autuado se faz necessária para a garantia da ordem pública, diante da gravidade do delito supostamente praticado e das circunstâncias em que ocorreu. Ainda, o acusado foi preso no último dia 19, sob a mesma acusação. Apesar de ter sido beneficiado com a liberdade provisória quando do primeiro fato, o autuado aparentemente insiste na prática delitiva, evidenciando que cautelares diversas da prisão não surtirão nenhum efeito.
+Não é possível verificar, dos documentos que instruem este habeas corpus, o montante total de entorpecentes apreendidos com o acusado.
+Ao proferir sentença, o Juízo singular consignou (fl. 34, destaquei): "Tendo em vista que o acusado respondeu o processo preso e que se dedica habitualmente ao tráfico de drogas, e visando a garantia da ordem pública, deixo de reconhecer-lhe o direito de recorrer da presente sentença em liberdade".
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Na hipótese, são idôneos os fundamentos exarados para manter a prisão provisória do acusado, pois evidenciam o risco de reiteração delitiva, visto que, poucos dias antes da prisão em flagrante que ensejou a persecução criminal objeto destewrit, o paciente já havia sido autuado pela suposta prática de delito de mesma natureza e, naquela oportunidade, foi beneficiado com a concessão de liberdade provisória, circunstâncias suficientes, nos termos da jurisprudência desta Corte Superior, para lastrear a imposição da cautela extrema. A propósito:
+ ..
+4. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando não apenas a quantidade de entorpecente apreendido, mas o fato de ser reincidente específico, bem como ter praticado o crime em gozo de liberdade provisória por outro crime de tráfico.
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC n. 678.064/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 17/9/2021, grifei)
+Dessa forma, não constato flagrante ilegalidade na espécie.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
