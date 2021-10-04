@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Rodolfo Borges Barbosa de Souza, apontando-se como autoridade coatora o Tribunal de Justiça da Bahia, que não conheceu do HC n. 8020589-27.2021.8.05.0000 (fls. 108/120).
+Narram os autos que o paciente foi sentenciado à pena de 9 anos e 3meses de reclusão, em regime fechado, mais 653 dias-multa, pela prática dos delitos previstos no art. 33, caput, da Lei n. 11.343/2006, e art. 333 do Código Penal.
+Aduz-se, inicialmente, que o Tribunalde origemnão conheceu do habeas corpussob argumento de sua inadmissibilidade para atacar a desnecessidade de prisão mantida na sentença condenatória, já que interposta a apelação concomitantemente (fl. 4). Afirma-se que as questões discutidas no writ não eram meritórias ou probatórias, buscando a defesa apenas debater a ausência de contemporaneidade e desnecessidade da constrição cautelar (fl. 4).
+Aponta-se a ausência de fundamentação idônea a justificar a negativa do direito de recorrer em liberdade. Sustenta-se que um dos argumentos utilizados para a manutenção da constrição foia existência de uma sentença em que houve extinção da punibilidade, na qual nem sequer o autor cumpriu qualquer tipo de sanção penal (fl. 10).
+Requer-se, em liminar e no mérito, a revogação da prisão preventiva; ou, subsidiariamente, a substituição por prisão domiciliar.
+É o relatório.
+Pelo exame dos autos, o presente habeas corpus não deve ser conhecido.
+No caso,o Tribunal de origem não conheceu do writ, apontando a interposição de recurso de apelação em que constamdiversas alegações defensivas, entre elas pedidos idênticos aos formulados no habeas corpus (fl. 112).Eis o teor, no que interessa, da mencionada decisão (fls. 112/116):
+Observando atentamente os pedidos constantes da petição inicial, em confronto com a racionalidade do sistema recursal pátrio, chega-se à conclusão de que este Writ não comporta conhecimento.
+Explico.
+Contra a sobredita Sentença Condenatória a Defesa do Paciente interpôs o Recurso de Apelação Criminal nº 0512375-60.2020.8.05.0001, que encontra-se na Procuradoria de Justiça desde12.08.2021.
+No referido Apelo, com 44 laudas, constam diversas alegações defensivas, entre elas pedidos idênticos aos formulados neste writ, a saber:
+ ..
+Esta Turma já se debruçou sobre esses temas - ausência de fundamentação idônea da prisão preventiva e nulidade das provas por invasão de domicílio - em outrosHabeas Corpus que objetivavam a soltura do Paciente.
+A luta que a combatida Defesa vem travando nesta Corte é por deveras reconhecida, pois seus patronos desenvolvem os maiores esforços em prol de seu constituinte. Sucede, contudo, que os pedidos constantes deste Habeas Corpus são exatamente os mesmos que foram deduzidos na Apelação Criminal.
+Decerto, como cediço, o objeto que a ação constitucional do Habeas Corpus ampara é o bem mais precioso, depois do direito à vida - a liberdade de ir e vir - o que atrai a necessidade de ampla interpretação de sua cognoscibilidade.
+E é justamente observando o próprio objeto do Habeas Corpus (o direito de ir e vir) que se denota a especificidade do caso em tela, a impor um olhar sistêmico do direito de defesa e da realidade contida no processo, a justificar o aguardo do desfecho do julgamento da Apelação, interposta com as mesmas razões, em face de sua maior amplitude intelectiva e exauriente.
+Com efeito, nota-se que a Defesa, por força da própria necessidade em ver o Paciente solto, optou pela interposição do Recurso e a impetração deste Writ, obviamente, pela rapidez de seu desfecho.
+ ..
+No presente caso, perfilho o entendimento do Ministro Rogério Schietti Cruz pelo uso racional do sistema recursal, vejamos:
+"HABEAS CORPUS. SENTENÇA CONDENATÓRIA. NULIDADES. HABEAS CORPUSIMPETRADO NA ORIGEM DE FORMA CONTEMPORÂNEA À APELAÇÃO, AINDAPENDENTE DE JULGAMENTO. MESMO OBJETO. SUPRESSÃO DE INSTÂNCIA. COGNIÇÃO MAIS AMPLA E PROFUNDA DA APELAÇÃO. RACIONALIDADE DO SISTEMARECURSAL. HABEAS CORPUS NÃO CONHECIDO.
+1. A existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção.
+2. A tutela constitucional e legal da liberdade humana justifica algum temperamento aos rigores formais inerentes aos recursos em geral, mas não dispensa a racionalidade no uso dos instrumentos postos à disposição do acusado ao longo da persecução penal, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada, acurada e correta, permeado pelas limitações materiais e humanas dos órgãos de jurisdição, se vê comprometido - em prejuízo da sociedade e dos jurisdicionados em geral - com o concomitante emprego de dois meios de impugnação com igual pretensão. (..)" (STJ, TerceiraSeção, HC n.482.549/SP, Relator Min. Rogerio Schietti Cruz, DJe 3.4.2020).
+Da leitura dos trechos transcritosobserva-se que, em princípio, o Tribunal decidiu em consonância com o entendimento desta Corte Superior, não admitindo a utilização de dois meios de impugnação com idênticos pedidos e destacando que, na hipótese, a apelação é a via mais adequada para tratar das questões apresentadas pela defesa.
+Então, considerando que as questões apontadas pela defesa no presente writ não foram objeto de debate pelo Tribunal de origem e que é vedada a pretendida supressão de instância, o writ não comporta conhecimento.
+Por outro lado, também é firme o entendimento desta Corte Superior de que a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção(HC n. 482.549/SP,Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 3/4/2020).
+E, insurgindo-se a defesa contra a negativa do direito de recorrer em liberdade, a impetração, neste ponto, deveria ter sido conhecida e apreciada, pois destina-se à tutela direta da liberdade de locomoção.
+Assim, considerando-se que o recurso de apelação ainda não foi julgado pelo Tribunal de origem, mostra-se necessário afastar, nesse ponto, a ilegalidade.
+Ante o exposto, não conheço do presente habeas corpus. Concedo a ordemde ofício, para determinar que o Tribunal de origem prossiga no julgamentodo Habeas Corpus n.8020589-27.2021.8.05.0000, analisandoa questão relacionada com a negativa do direito de recorrer em liberdade,como entender de direito.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. MANUTENÇÃO DA PRISÃO PREVENTIVA NA SENTENÇA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE CONHECIMENTO, NO PONTO, DO WRIT NA ORIGEM. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Habeas corpus não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
