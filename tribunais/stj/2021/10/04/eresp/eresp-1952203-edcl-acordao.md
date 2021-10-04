@@ -1,0 +1,34 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 306 DO CTB. ART. 77 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAS NEGATIVAS. LEGALIDADE. VÍCIOS. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir pela ausência de prequestionamento do art. 77 do CP e pela impossibilidade da substituição, uma vez que, além do acusado ser reincidente, teve sua pena-base exasperada em razão do desvalor de circunstâncias judicias negativas, o que justifica a referida negativa.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração opostos por GERSON DA SILVA GUIMARÃES (e-STJ fls. 335/343) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ fls. 324/325):
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 306 DO CTB. ART. 77 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. EXASPERAÇÃO SUPERIOR A 1/6. FUNDAMENTAÇÃO IDÔNEA. REGIME MAIS GRAVOSO E IMPOSSIBILIDADE DE SUBSTITUIÇÃO. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A questão acerca da violação do art. 77 do CP não foi objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas 211/STJ e 282/STF.
+2. No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+3. A jurisprudência desta Corte firmou-se no sentido de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro da fração de 1/6 (um sexto) para cada circunstância judicial negativa, fração que se firmou em observância aos princípios da razoabilidade e proporcionalidade. Diante disso, a exasperação superior à referida fração, para cada circunstância, deve apresentar fundamentação adequada e específica, a qual indique as razões concretas pelas quais a conduta do agente extrapolaria a gravidade inerente ao teor da circunstância judicial. Precedentes.
+4. No caso concreto, na primeira fase da dosimetria, a Corte de origem majorou a pena-base em patamar superior a 1/6 (um sexto) para as circunstâncias judiciais, tendo em vista que elas extrapolam o tipo penal, haja vista a concentração de álcool no sangue do acusado ter superado quatro vezes o limite legal, além de ter sido comprovado também o consumo de cocaína. Ademais, ele colidiu contra o muro de um imóvel, a revelar maior reprovabilidade de sua conduta. Assim, tendo em vista tais fundamentos, a exasperação da reprimenda inicial, como realizada pelas instâncias de origem, mostra-se razoável e proporcional ao caso concreto, não merecendo reforma.
+5. Em atenção aos artigos 33 e 44 do CP, embora estabelecida a pena definitiva do acusado em 9 meses de detenção, além de ser reincidente, teve sua pena-base exasperada em razão do desvalor de circunstâncias judicias negativas, fundamentos a justificar a imposição de regime prisional mais gravoso, no caso, o semiaberto, e a impossibilidade da substituição.
+6. Agravo regimental não provido.
+Sustenta a parte embargante a ocorrência de omissão acerca da possibilidade da substituição da pena privativa de liberdade por restritivas de direito e do cabimento da suspensão condicional da pena.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 306 DO CTB. ART. 77 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAS NEGATIVAS. LEGALIDADE. VÍCIOS. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir pela ausência de prequestionamento do art. 77 do CP e pela impossibilidade da substituição, uma vez que, além do acusado ser reincidente, teve sua pena-base exasperada em razão do desvalor de circunstâncias judicias negativas, o que justifica a referida negativa.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Não existem vícios a serem sanados no acórdão embargado.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir pela ausência de prequestionamento do art. 77 do CP e pela impossibilidade da substituição, uma vez que, além do acusado ser reincidente, teve sua pena-base exasperada em razão do desvalor de circunstâncias judicias negativas, o que justifica a referida negativa.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
