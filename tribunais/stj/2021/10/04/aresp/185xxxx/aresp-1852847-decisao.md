@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por aplicação do art. 1.030, I, do CPC/2015 e incidência das Súmulas n. 5, 7 e 83 do STJ, 282 e 356 do STF (e-STJ fls. 267/270).
+O acórdão recorrido está assim ementado (e-STJ fl. 187):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. ALIENAÇÃO FIDUCIÁRIA. BEM MÓVEL.
+CÓDIGO DE DEFESA DO CONSUMIDOR. APLICABILIDADE. APLICÁVEL O CDC AOS CONTRATOS BANCÁRIOS NOS TERMOS DA SÚMULA 297DO STJ. VEDADO O CONHECIMENTO DE OFÍCIO ACERCA DAS ABUSIVIDADES (SÚMULA N. 381 DO STJ)
+CAPITALIZAÇÃO MANTIDA. POSSÍVEL A CAPITALIZAÇÃO DE JUROS PACTUADA EM PERIODICIDADE INFERIOR À ANUAL, NOS TERMOS DA MEDIDA PROVISÓRIA N.º 2.170-36/2001, DESDE QUE EXPRESSAMENTE PACTUADA. ORIENTAÇÃO DO STJ, ORIUNDA DO RESP N.º 973.827/RS E SÚMULA N.º539. CARACTERIZAÇÃO DA MORA. INEXISTENTE ABUSIVIDADE NOS ENCARGOS DO PERÍODO DA NORMALIDADE. CARACTERIZAÇÃO DA MORA, NOS TERMOS DOS RESPS. NºS 1.061.530/RS E 1.639.320/SP. SEGURO DE PROTEÇÃO FINANCEIRA. NÃO CONFIGURADA A VENDA CASADA, NO CASO. AUSÊNCIA DE PROVA ACERCA DA ARGUIDA COMPULSORIEDADE NA CONTRATAÇÃO. RUBRICA MANTIDA. COMPENSAÇÃO E REPETIÇÃO DO INDÉBITO. REQUERIMENTO PREJUDICADO ANTE A NÃO REVISÃO DO CONTRATO. TUTELA ANTECIPADA. INDEFERIMENTO. NÃO CONSTATADA ABUSIVIDADE NOS ENCARGOS DA NORMALIDADE. AUSÊNCIA DOS REQUISITOS SEDIMENTADOS NO JULGAMENTO DO RESP. Nº1.061.530/RS AO DEFERIMENTO.
+APELO DESPROVIDO.
+As razões do recurso especial (e-STJ fls. 194/203), fundamentadas no art. 105, III, alínea "c", da CF, versam sobre afronta aos arts. 6º, 46, 47 e 52 do CDC e 28, § 1º, I, da Lei n. 10.931/2004 e dissídio jurisprudencial.
+Sustenta a recorrente que (e-STJ fls. 198/201):
+O Tribunal de Justiça Estadual, como já dito, decidiu a mesma questão no acórdão recorrido diferentemente do entendimento acima, pois considerou cabível a incidência de juros diariamente capitalizados sobre o negócio em tela, cujo contrato não traz previsão da respectiva taxa diária capitalizada em seus termos.
+A dissidência entre o julgamento do Tribunal de Origem e o Superior Tribunal de Justiça é evidente, inequívoco o cabimento do presente recurso especial, posto tratar-se da única via existente para a correção do descabido impasse entre as Cortes.
+ .. Ao contrário do decidido pela Corte Estadual, portanto, a cobrança de capitalização diária nos contratos bancários não poderá ser presumida, nem mesmo através do cálculo do duodécuplo, absolutamente ilegal se cobrada à revelia da previsão da respectiva taxa diária, à luz do decidido no próprio acórdão paradigmático.
+Acrescenta que, "Conforme entendimento pacificado junto às Cortes, a descaracterização da mora é consequência da alteração dos encargos inicialmente contratados" (e-STJ fl. 201).
+No agravo (e-STJ fls. 277/287), afirma a presença de todos os requisitos de admissibilidade do especial.
+A agravada apresentou contraminuta (e-STJ fls. 293/306).
+É o relatório.
+Decido.
+A Corte local assim decidiu (e-STJ fl. 184):
+Tal entendimento foi consolidado na Súmula n.º539 do egrégio STJ: "É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada".
+Dessa forma, considerando-se que o contrato prevê expressamente a capitalização(item "M - Promessa de Pagamento" - doc. CONTR6) e foi celebrado em data posterior à vigência da referida MP, permite-se a capitalização dos juros em periodicidade inferior à anual, não havendo ilegalidade a corrigir.
+A Segunda Seção desta Corte, no julgamento do REsp n. 973.827/RS (Relatora para o acórdão a Ministra MARIA ISABEL GALLOTTI, julgado em 8/8/2012, DJe 24/9/2012), submetido ao rito dos recursos especiais repetitivos (art. 543-C do CPC/1973), consolidou o seguinte entendimento sobre a capitalização de juros:
+É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada.
+A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. JUROS, CAPITALIZAÇÃO E MORA. QUESTÕES PACIFICADAS POR ESTE TRIBUNAL SUPERIOR. ÍNCONTROVERSA CONTRATAÇÃO E DEFINIÇÃO DOS JUROS APLICADOS NOS ACORDOS CELEBRADOS. NÃO HÁ FALAR EM AFASTAMENTO DA COBRANÇA. NÃO EXISTINDO ABUSIVIDADE NO PERÍODO DE NORMALIDADE EM RELAÇÃO A ALGUNS DOS CONTRATOS DISCUTIDOS, REMANESCE A MORA E OS SEUS CONSECTÁRIOS QUANTO A ESTES.
+1. Segundo a orientação jurisprudencial da Segunda Seção do STJ, "é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados.  (REsp n.º 1.112.879/PR, submetido o art. 543-C do CPC). Aplica-se a taxa média, ainda, às hipóteses em que não acostado o instrumento contratual.
+2. "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada". (REsp 973.827/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe 24/09/2012).
+3. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1833241/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 30/08/2021, DJe 02/09/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA COM PEDIDO DE TUTELA DE URGÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AUTORES.
+1. Os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº. 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF, de forma que a abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos.
+2. "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada." REsp 973.827/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08.08.2012, DJe 24.09.2012.
+3. A Corte de origem decidiu em consonância com a jurisprudência desta Corte, no sentido de ser cabível a comissão de permanência, desde que prevista contratualmente e não cumulada com os demais encargos de mora. Súmula 83/STJ.
+4. Rever o entendimento do Tribunal local, no sentido de verificar a abusividade ou não da taxa de juros contratada, seria imprescindível a incursão no acervo fático e probatório dos autos e a análise de cláusulas contratuais, providências vedadas na via estreita do recurso especial, ante aos óbices estabelecidos pelas Súmulas 5 e 7/STJ .
+5. O recurso especial é um meio impugnativo processual de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado. A ausência de indicação expressa de dispositivo legal tido por vulnerado ou objeto de interpretação divergente não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1765886/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/08/2021, DJe 17/08/2021.)
+Incide, portanto, a Súmula n. 83 do STJ.
+Ademais, para alterar tais fundamentos e concluir que não houve pactuação, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ. A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ALEGAÇÃO DE FALTA DE CIÊNCIA DAS CLÁUSULAS CONTRATUAIS SUPOSTAMENTE ASSUMIDAS NO CONTRATO DE MÚTUO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. INEXISTÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS. CAPITALIZAÇÃO DOS JUROS. JUROS COMPOSTOS. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. TARIFA DE CADASTRO. TARIFA DE AVALIAÇÃO. TARIFA DE REGISTRO.CABIMENTO.
+1. Ausente o prequestionamento, exigido inclusive para as matérias de ordem pública, incide o óbice do enunciado n. 282 da Súmula do STF.
+2. A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Rel. p/ acórdão Ministra Maria Isabel Gallotti, SEGUNDA SEÇÃO, DJe de 24.9.2012).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas n. 5 e 7/STJ).
+4. A jurisprudência do STJ entende que é permitida a cobrança das tarifas de cadastro, de avaliação e de registro. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1772547/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/06/2021, DJe 24/06/2021.)
+Diante do exposto, CONHEÇO do agravo e NEGO PROVIMENTO ao recurso.
+Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois, na origem, a verba honorária foi estabelecida no percentual legal máximo (e-STJ fl. 186).
+Publique-se e intimem-se.
