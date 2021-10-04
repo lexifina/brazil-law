@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto peloINSS,com fundamento no art. 105, III, "a", da Constituição da República,contra acórdão do Tribunal Regional Federal da 1ª Região,assim ementado (e-STJ fl. 151):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. TRABALHADOR URBANO. LAUDO PERICIAL CONCLUSIVO. INCAPACIDADE LABORAL. CONSECTÁRIOS DA CONDENAÇÃO.
+1. A aposentadoria por invalidez é devida ao segurado que, havendo cumprido, quando for o caso, o período de carência, estando ou não em gozo de auxílio-doença, for considerado incapaz e insuscetível de reabilitação para o exercício de atividade que lhe garanta a subsistência, e ser-lhe-á paga enquanto permanecer nesta condição.
+2. Os requisitos indispensáveis para a concessão do benefício previdenciário de auxílio-doença/aposentadoria por invalidez são: a) a qualidade de segurado; b) a carência de 12 (doze) contribuições mensais, salvo nas hipóteses previstas no art. 26, II, e 39, I, da Lei 8.213/91; c) incapacidade para o trabalho ou atividade habitual por mais de 15 dias ou, na hipótese da aposentadoria por invalidez, incapacidade (permanente e total) para atividade laboral.
+3. Consectários da condenação são fixados de acordo com o entendimento jurisprudencial da Segunda Turma desta Corte Regional Federal, levando-se em consideração no tocante à correção monetária e juros de mora, inclusive, a conclusão do julgamento do RE 870947, pelo Supremo Tribunal Federal.
+4. Apelação do INSS parcialmente provida (consectários da condenação).
+Os embargos de declaração foram rejeitados(e-STJ fl. 164).
+Orecorrente alegaviolação doartigo1.022, II e III, do CPC/2015, ao argumento de que o acórdão recorrido contém erro material e é obscuro, pois não se manifestou acerca da ocorrência do reformatio in pejus, pois "embora a parte autora não tenha recorrido da sentença, o v. acórdão embargado modificou a condenação, para fixar o termo inicial da aposentadoria por invalidez a partir do primeiro dia da cessação do auxílio-doença"(e-STJ fl. 157, grifos no original).
+Contrarrazões não apresentadas (e-STJ fl. 174).
+Juízo positivo de admissibilidade às e-STJ fls. 175-176.
+É o relatório. Passo a decidir.
+O recurso merece prosperar.
+Com efeito, orecorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional que remanesce omisso o julgamento da controvérsia.
+De fato, houve omissão quanto àsalegações trazidas nos embargos de declaração no tocante àocorrência do reformatio in pejus.
+Diante da deficiência na prestação jurisdicional, impõe-se o acolhimento da alegação de violação do art. 1.022 do CPC/2015 a fim de determinar o retorno dos autos à Corte de origem para que sejam sanados os vícios apontados.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. (..) OFENSA AOS ART. 1.022, II, E 489, § 1º, DO CPC/15. OMISSÕES. (..) AUSÊNCIA DE PRONUNCIAMENTO QUANTO A ASPECTOS ENVOLVENDO MATÉRIA FÁTICO-PROBATÓRIA RELEVANTE. DEVOLUÇÃO DOS AUTOS À ORIGEM. NECESSIDADE. PRECEDENTES.
+(..)
+II - De acordo com o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e iii) corrigir erro material.
+III - A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento. Considera-se omissa, ainda, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, do CPC/15.
+(..)
+VI - Extrai-se dos julgados deste Superior Tribunal sobre a matéria que o reconhecimento de eventual violação ao art. 1.022 do CPC/15 dependerá da presença concomitante das seguintes circunstâncias processuais: i) oposição de embargos de declaração, na origem, pela parte interessada; ii) alegação de ofensa a esse dispositivo, nas razões do recurso especial, de forma clara, objetiva e fundamentada, acerca da mesma questão suscitada nos aclaratórios; iii) publicação do acórdão dos embargos sob a vigência do CPC/15; e iv) os argumentos suscitados nos embargos declaratórios, alegadamente não examinados pela instância a quo, deverão: iv.i) ser capazes de, em tese, infirmar as conclusões do julgado; e iv.ii) versar questão envolvendo matéria fático-probatória essencial ao deslinde da controvérsia.
+VII - In casu, verifica-se a ausência de pronunciamento da Corte de origem a respeito de matéria fática relevante.
+VIII - Recurso especial provido para determinar o retorno dos autos à origem, nos termos da fundamentação.(REsp 1.670.149/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 22/3/2018)
+PROCESSUAL CIVIL (..). OMISSÃO VERIFICADA. AUSÊNCIA DE ENFRENTAMENTO DA TESE PELO TRIBUNAL LOCAL. NECESSIDADE DE NOVO JULGAMENTO DOS DECLARATÓRIOS. RECURSO ESPECIAL PROVIDO.
+1. Assiste razão à parte recorrente no que tange às afrontas aos artigos 11, 489, §1º, 1.022, I, II, III, todos do CPC/2015 pelo Tribunal local.
+2. O acórdão atacado manteve a sentença de piso que julgou improcedente o pedido da recorrente, que, em suma, almejava o direito de utilizar "créditos tributários calculados sobre produtos químicos relacionados á higienização e desinfecção de máquinas e equipamentos do processo industrial" (fl. 199, e-STJ).
+3. A Corte mineira adotou a Instrução Normativa 01/1986, que define o "conceito do produto intermediário, para efeito do direito de crédito do ICMS" (fls. 200-202, e-STJ).
+4. Não obstante, vê-se que um dos argumentos centrais da recorrente - e ventilado já na Apelação - é o da possível inconstitucionalidade e ilegalidade da mesma Instrução Normativa aplicada pela Corte estadual, a qual teria, contra os ditames da LC 87/1996 e do art. 155, XII, "c", da Constituição Federal, mantido "a exigência quanto à necessidade de os produtos intermediários serem consumidos no processo de industrialização, ou integrarem o produto final" (fls. 131-132, e-STJ).
+5. Após alegar tal omissão, o Tribunal mineiro se limitou a dizer que "o julgado objurgado reconheceu a legalidade das leis e atos normativos que regem a espécie, aplicando-as. Considerou-se que as normas infralegais apenas completavam o sentido da norma constitucional, em nada confrontando-a" (fl. 229, e-STJ).
+6. Na verdade, observa-se que o colegiado estadual não apreciou efetivamente a tese exposta pela parte, pois somente mencionou que a Carta Magna não impediu o legislador ordinário de regulamentar o regime de compensação do ICMS de forma mais benéfica ao contribuinte.
+7. Falhou, portanto, o Tribunal mineiro, pois se omitiu em sua decisão, na medida em que não enfrentou a tese de ilegalidade e inconstitucionalidade da Instrução Normativa 01/1986 em relação à LC 87/1996 e ao art. 155, XII, "c", da Constituição Federal. Análise do dissídio jurisprudencial prejudicada.
+8. Recurso Especial provido, determinando-se o retorno dos autos à Corte de origem, para que, em novo julgamento dos Embargos de Declaração, manifeste-se expressamente quanto à possível ilegalidade e inconstitucionalidade da Instrução Normativa 01/1986 no que toca à LC 87/1996 e ao art. 155, XII, "c", da Constituição Federal.
+(REsp 1.780.149/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/3/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO (..) HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO NOS TERMOS DO ART. 85, §§ 2º E 3º DO CPC/2015. (..)
+1. Esta Corte definiu que o cumprimento de sentença impugnado pelo executado enseja a fixação de honorários sucumbenciais, sendo, estes, regidos pela lei processual em vigor.
+2. Na aferição do montante a ser arbitrado a título de honorários advocatícios deverão ser considerados os requisitos previstos nos §§ 2º a 10º do art. 85 do estatuto processual civil de 2015.
+3. Cabe ao juízo das instâncias ordinárias a análise dos fatos e das circunstâncias da causa, para a efetiva fixação do montante adequado dos honorários advocatícios.
+4. Retorno dos autos ao Tribunal de origem para que este fixe os honorários advocatícios nos termos do artigo 85 do CPC/2015.
+5. Embargos de declaração acolhidos, com efeito integrativo.(EDcl nos EDcl no AgInt no REsp 1760167/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 27/11/2019)
+Diante do exposto, dou provimentoao recurso especial, tornando nulo o acórdão proferido no julgamento dosembargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios doINSS.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. TRABALHADOR URBANO. LAUDO PERICIAL CONCLUSIVO. INCAPACIDADE LABORAL. ARTIGO 1.022, I E II, DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO PROVIDO.
