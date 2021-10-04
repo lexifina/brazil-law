@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FERES SABINO em face da decisão acostada às fls. 275/278, e-STJ, integrada pelos embargos de declaração de fls. 290/291; 304/305; 334/335, da lavra deste signatário, em que se conhece do agravo para negar seguimento ao recurso especial, ante a inexistência de ofensa ao art. 535 do CPC/73, e quanto a apontada ofensa ao art. 21 do CPC/73, entender ser caso de incidência da Súmula 83 do STJ, no sentido de que havendo sucumbência recíproca, impõem-se a compensação dos honorários advocatícios e custas processuais na proporção em que vencidas as partes.
+Nas razões dos aclaratórios (fls. 338/357, e-STJ) o embargante alegou contradição na decisão agravada pois "se houve sucumbência recíproca, como vossa excelência reconhece, só é possível legalmente a proporcionalidade da compensação da verba honorária, afastando-se de sua exclusão da verba, na dicção plena do art. 21 do antigo CPC." (fls. 340, e-STJ)
+Sem impugnação.
+É o relatório. Decide-se.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+No caso em tela, o embargante alega contradição na decisão embargada, porquanto a mesma reconhece a existência de sucumbência recíproca, mas não aplica o art. 21 do CPC/73.
+Razão lhe assiste.
+Conforme afirma a decisão embargada:
+Com amparo nos elementos de fato constantes dos autos, concluiu o Tribunal a quo que houve sucumbência recíproca, devendo as partes arcarem proporcionalmente com as custas e despesas processuais, impondo-se a elas a compensação dos honorários advocatícios.
+É o que se extrai do seguinte excerto do aresto impugnado (fls. 160/
+É o relatório.
+O douto Juiz de Direito, em 18/11/2010, proferiu o seguinte despacho: ".. Assiste razão à impugnante no que diz respeito aos juros de mora. Prevalece o dispositivo da sentença (proferida já na vigência do novo Código Civil), segundo a qual os juros moratórios foram fixados no patamar de 0,5% ao mês. Caso houvesse dúvida ou insurgência da exequente acerca desse ponto, deveria ingressar com os recursos cabíveis, mas deixou de fazê-lo. Quanto aos honorários advocatícios, mais uma vez as partes desrespeitaram o v. acórdão. A decisão é bastante clara ao declarar a sucumbência recíproca entre as partes, "devendo cada qual arcar com metade das custas e despesas realizadas neste processo, nos termos do art. 21, "caput", do CPC, mantida, no mais, a r. sentença". Não houve, portanto, condenação em honorários (foram compensados nos termos do artigo 21), os quais, evidentemente, não podem ser executados."
+(..)
+No que se refere aos honorários advocatícios, desmerece reparo a r. decisão agravada. Isto porque houve sucumbência recíproca, motivo pelo qual prevalece o instituto da compensação, não havendo que se falar em honorários advocatícios. Aliás, bem fundamentado o v. acórdão sobre o tema.
+Com efeito, em que pese ter a decisão embargada consignado que em havendo sucumbência recíproca, as custas processuais e os honorários advocatícios devem ser recíproca e proporcionalmente distribuídos e compensados, manteve o acórdão local que consignou a existência de sucumbência reciproca, "motivo pelo qual prevalece o instituto da compensação, não havendo que se falar em honorários advocatícios", o que demonstra a obscuridade da decisão embargada no ponto, merecendo novo julgamento quanto a esse.
+Em interpretação do CPC/1973 o STJ já decidiu que a compensação de honorários advocatícios é válida nas hipóteses em que configurada sucumbência recíproca (Súmula 403/STJ).
+Assim, proferido o aresto impugnado na vigência do CPC/1973, havendo sucumbência recíproca, devem ser compensados os honorários advocatícios (REsp 963.528/PR, Rel. Ministro LUIZ FUX, Corte Especial, DJe, 4.2.2010).
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO DE JUROS. MORA DO DEVEDOR. COMPENSAÇÃO DE HONORÁRIOS. QUESTÕES DECIDIDAS EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO NÃO PROVIDO.
+1. A decisão agravada está em conformidade com a jurisprudência consolidada desta Corte, firmada em sede de recursos especiais repetitivos (REsp 1.061.530/RS, REsp 973.827/RS e REsp 963.528/PR).
+2. A limitação dos juros remuneratórios somente se justifica quando verificada significativa discrepância entre a taxa média de mercado e aquela praticada pela instituição financeira, o que não é o caso dos autos. Admitida, por outro lado, a capitalização de juros, porquanto expressamente pactuada, afastando-se a descaracterização da mora do devedor, em razão da inexistência de encargo remuneratório abusivo.
+3. Na vigência do CPC/73, era permitida a compensação de honorários advocatícios 4. Agravo interno não provido.
+(AgInt no REsp 1349695/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/02/2019, DJe 15/03/2019)
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO DOS VÍCIOS. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 165 E 458, II, DO CPC.
+NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS.
+AÇÃO E RECONVENÇÃO. COMPENSAÇÃO. POSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. 1. Ação ajuizada em 02/06/2011. Recurso especial interposto em 20/05/2015 e atribuído ao gabinete em 25/08/2016. Julgamento: CPC/73.
+2. O propósito recursal é definir: i) se há negativa de prestação jurisdicional; ii) se há violação da coisa julgada; iii) se é possível a compensação de honorários advocatícios fixados na ação e na reconvenção; iv) se há dissídio jurisprudencial.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts.165, 458, II, 535, do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Em interpretação do CPC/73 o STJ já decidiu que a compensação de honorários advocatícios é válida nas hipóteses em que configurada sucumbência recíproca.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1656180/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/11/2017, DJe 29/11/2017)
+Assim, de rigor a reforma do julgado no sentido de ser admitida a compensação dos honorários advocatícios, nos termos do entendimento pacificado desta Corte de Justiça.
+2. Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para dar provimento ao agravo de instrumento para, em razão da sucumbência recíproca, determinar a compensação, entre as partes, dos honorários de advogado, condenando, cada qual, ao pagamento de 50% (cinquenta por cento) das custas processuais.
+Publique-se. Intimem-se.
