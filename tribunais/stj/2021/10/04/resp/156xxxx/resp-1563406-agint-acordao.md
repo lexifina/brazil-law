@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado pela Fazenda do Estado de São Paulo desafiando decisão de fls. 787/790, que deu provimento ao recurso especial da parte contribuinte, com espeque na Súmula 461/STJ, em ordem a lhe assegurar o direito de compensar o indébito tributário, de acordo com a legislação de regência.
+A parte agravante sustenta, em suma, a inexistência de ofensa ao verbete sumular 461/STJ, ao argumento de que "jamais foi retirado do contribuinte o direito de optar por receber o indébito por precatório ou por compensação", mas "somente condicionou-se o exercício da compensação à liquidação e apuração do "quantum" devido, em obediência à própria decisão proferida em ação ordinária, já transitada em julgado, que declarou a existência do direito do contribuinte ao recebimento do indébito tributário" (fl. 796).
+Aberta vista à parte agravada, Alliage S.A. Indústrias Médico Odontológica (atual denominação deDabi Atlante S/A Indústrias Médico Odontológicas) apresentou impugnação às fls. 805/820, postulando o desacolhimento do recurso.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. SENTENÇA DECLARATÓRIA TRANSITADA EM JULGADO. COMPENSAÇÃO. POSSIBILIDADE. DESNECESSIDADE DE PRÉVIA EXECUÇÃO JUDICIAL DO TÍTULO. SÚMULA 461/STJ. PRECEDENTES.
+1. "O contribuinte pode optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado" (Súmula 461/STJ)
+2. "A opção entre a compensação e o recebimento do crédito por precatório ou requisição de pequeno valor cabe ao contribuinte credor pelo indébito tributário, haja vista que constituem, todas as modalidades, formas de execução do julgado colocadas à disposição da parte quando procedente a ação que teve a eficácia de declarar o indébito" (REsp 1.114.404/MG, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 01/03/2010).
+3. Dessa forma, é franqueado ao contribuinte pleitear a compensação do indébito na via administrativa, quando amparado por sentença declaratória transitada em julgado, sendo despicienda a execução judicial do título, a qual só será necessária se o pedido for a restituição via precatório. A propósito: AgInt no AgInt nos EDcl no REsp 1.616.074/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 15/04/2021.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de recurso especial fundado no CPC/73, manejado por Dabi Atlante S/A Indústrias Médico Odontológicas, interposto com base no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 525):
+Mandado de Segurança - Direito conferido ao impetrante em ação declaratória que transitou em julgado, que menciona a necessidade de execução do julgado - Ação fiscalizatória que não viola direito líquido e certo do impetrante a ensejar correção por este mandamus - Recurso improvido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73 (fls. 553/561).
+No recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 131, 458, II, 467, 468, 469, 474, 535, II, e 730 do CPC. Sustenta, em síntese, que: (I) o acórdão recorrido "não enfrentou as questões de direito colocadas sob apreciação do Poder Judiciário pela Recorrente, a saber: o que na decisão transitada em julgado se encontra acobertado pelo manto da coisa julgada material  Poderia o Recorrido exigir a prévia "execução judicial" das importâncias, não estando esta exigência acobertada pela coisa julgada material  Como coadunar uma prévia "execução judicial", nos termos do artigo 730, do CPC, com o creditamento em escrita fiscal (compensação do ICMS), se ambas são formas distintas de repetição do indébito tributário " (fl. 576); e (II) a parte requerente possui direito ao creditamento extemporâneo dos valores de ICMS indevidamente recolhidos, conforme lhe foi assegurado em título judicial transitado em julgado, sendo desnecessária a prévia execução do julgado para posterior compensação.
+Contrarrazões apresentadas pela Fazenda do Estado de São Paulo às fls. 650/657, postulando o não conhecimento do apelo raro, ante os óbices das Súmulas 282/STF, 284/STF e 356/STF, e, no mérito, o seu desprovimento.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Adiante, não assiste razão à parte recorrida relativamente às preliminares de não-conhecimento do recurso especial, o qual cumpre os requisitos legais e constitucionais exigidos para a sua admissão. Sobre os óbices alegados, cumpre apenas dizer que houve o prequestionamento da matéria discutida e o recurso foi devidamente fundamentado.
+No mérito, as razões de recurso especial defendem que "em nenhum momento o v. acórdão transitado em julgado fala em "execução judicial", mas tão-somente em execução, pura e simples", a qual "deve ser entendida como o encontro de contas a ser efetuado pela Recorrente e pela Fazenda do Estado" (fl. 93).
+No ponto, a irresignação merece acolhida.
+Na espécie, assentou o Tribunal de origem que não se estaria negando "a possibilidade do apelante em se creditar dos valores que pagou a maior", mas apenas rechaçando o creditamento unilateral, afirmando a necessidade de "delimitação do "quantum" do crédito, o que somente pode ser apurado em sede de execução" (fl. 72).
+Ao assim decidir, atuou em desconformidade com a orientação da jurisprudência do Superior Tribunal de Justiça, consolidada na Súmula 461 do STJ, segundo a qual: "O contribuinte pode optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado", inexistindo a necessidade de prévia execução judicial para esse fim.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. RESTITUIÇÃO OU COMPENSAÇÃO. OPÇÃO DO CONTRIBUINTE.
+1. Conforme enuncia a Súmula 461 do STJ, "o contribuinte pode optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado".
+2. No caso, o recurso foi provido porque o órgão julgador entendeu que o pedido expresso da sociedade empresária pela restituição, via precatório, prejudicaria a possibilidade de o título executivo ser objeto de pedido de compensação; o que não ocorre.
+3. Agravo interno não provido.
+(AgInt no REsp 1.454.765/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/09/2020)
+PROCESSUAL CIVIL. TRIBUTÁRIO. SENTENÇA DECLARATÓRIA DO DIREITO À COMPENSAÇÃO DE INDÉBITO TRIBUTÁRIO. ICMS-ST. PESSOA JURÍDICA PÚBLICA. FUNDAMENTAÇÃO EFICAZ.
+ ..
+IV - O STJ tem jurisprudência firme no sentido de que o contribuinte pode optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado. Nesse sentido: AgInt no REsp 1.778.268/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/3/2019, DJe 2/4/2019; REsp 1.596.218/SC, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 2/8/2016, DJe 10/8/2016.
+V - Agravo interno improvido.
+(AgInt no AREsp 1.644.745/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 02/12/2020).
+Com efeito, "A opção entre a compensação e o recebimento do crédito por precatório ou requisição de pequeno valor cabe ao contribuinte credor pelo indébito tributário, haja vista que constituem, todas as modalidades, formas de execução do julgado colocadas à disposição da parte quando procedente a ação que teve a eficácia de declarar o indébito" (REsp 1.114.404/MG, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 01/03/2010).
+Por estar em desconformidade com esse entendimento, merece reparos o acórdão recorrido.
+Ante a solução adotada, fica prejudicada a análise das demais alegações constantes do apelo raro.
+ANTE O EXPOSTO, dou provimento ao recurso especial da parte contribuinte para lhe assegurar o direito de compensar o indébito tributário, de acordo com a legislação de regência.
+Custas pela parte impetrada. Sem honorários (Súmula 105/STJ e art. 25 da Lei 12.016/2009).
+Publique-se.
+Conforme antes consignado, a dicção da Súmula 461/STJ expressamente autoriza ao contribuinte pleitear a compensação ou a restituição do indébito na via administrativa, quando amparado por sentença declaratória transitada em julgado, sendo despicienda a execução judicial do título no caso do pleito de compensação, hipótese dos autos.
+Em reforço:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. DECLARAÇÃO DO DIREITO DE CRÉDITO. COMPENSAÇÃO OU RECEBIMENTO POR PRECATÓRIO. FACULDADE DO CONTRIBUINTE. ORDEM PARA ASSEGURAR A RESTITUIÇÃO EM ESPÉCIE. IMPOSSIBILIDADE.
+1. Consoante enuncia a Súmula 213 do STJ, "o mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária".
+2. Declarado o direito de crédito, a parte pode pedir a restituição e/ou a compensação no âmbito administrativo, conforme as regras aplicáveis por ocasião do pedido; ou executar o título judicial para o fim de recebimento por precatório.
+3. Esse entendimento está em conformidade com a Súmula 461 do STJ e a tese firmada no REsp 1.114.404/MG, segundo o qual "a opção entre a compensação e o recebimento do crédito por precatório ou requisição de pequeno valor cabe ao contribuinte credor pelo indébito tributário, haja vista que constituem, todas as modalidades, formas de execução do julgado colocadas à disposição da parte quando procedente a ação que teve a eficácia de declarar o indébito" (Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 10/02/2010, DJe 01/03/2010).
+4. Porém, a pretensão de ver assegurada a ordem de restituição, na via do mandamus, não é possível, tendo em vista essa providência, acaso deferida, conferir natureza de ação de cobrança à ação mandamental.
+5. Agravo interno não provido.
+(AgInt no AgInt nos EDcl no REsp 1.616.074/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 15/04/2021)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
