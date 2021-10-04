@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÕES CÍVEIS. DANO AMBIENTAL.ROMPIMENTO DO OLEODUTO OLAPA.PRETENSÃO DE INDENIZAÇÃO POR DANOS MORAIS EM RAZÃO DA INTERDIÇÃO TEMPORÁRIA DA PESCA. SENTENÇA DE PARCIAL PROCEDÊNCIA. QUESTÃO DE ORDEM PÚBLICA. EFEITO TRANSLATIVO. LEGITIMIDADE ATIVA AD CAUSAM. EXERCÍCIO DA ATIVIDADE DE PESCA PROFISSIONAL À ÉPOCA DO EVENTO DANOSO. AUSÊNCIA DE PROVAS IDÔNEAS.ILEGITIMIDADE ATIVA RECONHECIDA.EXTINÇÃO DO PROCESSO, DE OFÍCIO, SEM RESOLUÇÃO DE MÉRITO. ART. 485, VI, DO CPC/15. RECURSOS PREJUDICADOS.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial, o recorrente aponta violação aos artigos 128, 131, 332, 333 e 460, do Código de Processo Civil de 1973, e 141, 369, 371, 373 e 492, do Código de Processo Civil/2015, afirmando, para tanto, que sua condição de pescador restou devidamente comprovada nos autos, razão pela qual detém legitimidade para figurar no polo ativo da demanda.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origemassim dispôs:
+11. Note-se que, enquanto condição da ação, é certo que a efetiva demonstração da legitimidade ativa incumbe à parte autora, cabendo a ela diligenciar no sentido de comprová-la.
+12. Ademais, importante frisar que segundo o entendimento firmado pelo STJ acima referido, impõe-se a prova de registro junto a órgão oficial, o que se dá por meio de documentos que deveriam instruir a exordial.
+13. No caso em mesa, foi apresentada com a exordial "carteira de pescador profissional" emitida pela Secretaria Especial de Aquicultura e Pesca - SEA/PR", na qual consta como data do 1º registro 21/05/2002.
+14. Ou seja, o documento comprova o exercício da atividade apenas em momento posterior ao evento danoso.
+15. Note-se que não se trata da mera emissão em data posterior, mas do próprio registro junto ao órgão competente.
+16. Observe-se que a licença para o exercício da pesca profissional há muito é exigida, conforme disposição já prevista nos artigos 26 e 28, §1º do Decreto-lei nº 221/1967.
+17. Outrossim aos maiores de 14 (quatorze) anos era autorizado o embarque na condição de aprendiz, sendo dado ao autor obter matrícula provisória, nos termos dos arts. 27 e 28 do Decreto-Lei nº 221/1967, revogado pela Lei nº 11.959/09.
+18. Na espécie, embora o requerente alegue que ao tempo do acidente contava com 17 (dezessete) anos e já pescava diariamente há quase 3 (três) anos, somente obteve inscrição como pescador passados mais de 15 (quinze) meses do evento danoso.
+19. Ademais, oportunizada a instrução probatória, foi ouvido o depoimento de um informante que ajuizou demanda idêntica contra o réu. E de uma testemunha que assentiu conhecer o autor há muitos anos e que ao tempo do acidente já era pescador.
+20. Não obstante, a prova oral não é apta a corroborar o exercício da pesca profissional na época. Isso porque o informante possui idêntica ação em face do réu, sendo manifesto o interesse no resultado da causa, o que lhes retira a credibilidade.
+21. Além disso, a testemunha compromissada contrariou as próprias declarações do autor quanto à questão da pesca em alto mar e do horário em que o autor frequentava a escola, sem contar que a testemunha não soube dizer a quantidade de peixes que o requerente costumava pescar por dia, o que demonstra pouco conhecimento sobre a atividade alegadamente exercida pelo autor.
+22. De se ressaltar que o requerente alegou vender o produto da pesca a "mercado, peixarias, mas geralmente para turistas", mas estranhamente não indicou como testemunha nenhum de seus clientes habituais, fato que causa estranheza, eis que a clientela teria melhores condições de esclarecer aspectos relevantes sobre a atividade profissional supostamente exercida pelo requerente.
+Com efeito, para modificar a conclusão do acórdão recorrido, no sentido de que o recorrente não teria registro de pescador profissional junto ao órgão competente, para fins de legitimidade ad causam,seria necessário o reexamedas provas, e dos fatos já analisados, providência vedada em sede de recurso especial em razão da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS. OFENSA AOS ARTS.  .. AUSÊNCIA DE DEMONSTRAÇÃO MÍNIMA DE QUE OS AUTORES DA AÇÃO SERIAM PESCADORES PROFISSIONAIS À ÉPOCA DO FATO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. .. 3. O Tribunal estadual assentou que os recorrentes não faziam jus à indenização por danos morais ou materiais, pois não teriam comprovado a condição de pescador profissional na data do sinistro.Essa conclusão foi fundada na apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ.4. Agravo interno desprovido.(AgInt no AgInt no AREsp 967.678/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 13/11/2017).
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
