@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA QUE MANTÉM A PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTO IDÔNEO. RECURSO NÃO PROVIDO.
+1. Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+2. Na hipótese dos autos, o Magistrado processante, ao negar o apelo em liberdade, reconheceu ainda estarem presentes os requisitos que levaram à decretação da prisão preventiva, destacando ser tal medida necessária para resguardar a ordem pública, haja vista o risco de reiteração delitiva do agente, tendo sido ressaltado na sentença condenatória que o recorrente já possui envolvimento anterior com a traficância.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por ALEXSANDER MACHADO NORATO de decisão na qual neguei provimento ao recurso em habeas corpus.
+O agravante sustenta que "é primário, ostentando bons antecedentes, não ser possuir sequer de condenações por atos infracionais, nem tampouco inquéritos policias ou mesmo ações penais em curso contra sua pessoa deve-se lógico e necessariamente, conforme entendimento desta nobre Corte, desaguar na conclusão de que não se trata de paciente com alta periculosidade. Consequentemente, sua liberdade não configura ameaça à ordem pública".
+Pleiteia a reconsideração da decisão agravada ou a submissão do feito ao colegiado para que seja concedida a liberdade provisória.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA QUE MANTÉM A PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTO IDÔNEO. RECURSO NÃO PROVIDO.
+1. Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+2. Na hipótese dos autos, o Magistrado processante, ao negar o apelo em liberdade, reconheceu ainda estarem presentes os requisitos que levaram à decretação da prisão preventiva, destacando ser tal medida necessária para resguardar a ordem pública, haja vista o risco de reiteração delitiva do agente, tendo sido ressaltado na sentença condenatória que o recorrente já possui envolvimento anterior com a traficância.
+3. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O recurso não comporta provimento, pois a decisão, a seguir transcrita, está em consonância com a jurisprudência desta Corte.
+Vejamos:
+" ..  No mais, o Juiz sentenciante negou o apelo em liberdade nos seguintes termos:
+"Estando os réus condenados encarcerados, bem como tendo em vista a quantidade da pena e o regime prisional impostos, e os demais motivos acima expostos quanto da fixação da pena e regime prisional, e que ora reitero, não concedo aos acusados condenados o direito de apelar desta sentença em liberdade, merecendo sua custódia ser mantida para resguardar a ordem pública e a assegurar a aplicação da lei penal.
+Recomendem-se os réus na prisão em que se encontram, oficiando-se" (e-STJ, fl. 68).
+Quanto ao tema, o acórdão impugnado dispôs ainda:
+"Primeiramente, observo pela impetração que a prisão preventiva do paciente, agora, é decorrente de condenação em Primeira Instância, devidamente fundamentada e motivada, conforme se observa às folhas 45/69. Foi interposto recurso de apelação, ainda pendente de julgamento.
+Nesse cenário, vejo que o paciente respondeu ao processo preso, não se justificando que, neste momento, diante de sua condenação, ainda que sem trânsito em julgado, seja solto, pois inexiste o benefício de apelar em liberdade, para quem já se encontra preso por força de custódia preventiva. Consoante já decidiu o C. Superior Tribunal de Justiça, "inaplicável a outorga do benefício a quem já se encontra preso, em flagrante ou preventivamente, por ocasião da sentença condenatória".
+Além disso o MM. Juiz a quo manteve a prisão do paciente para garantir a ordem pública, coibindo que novos delitos sejam perpetrados, e para assegurar a aplicação da lei penal, posto que não se pode ter certeza de que o sentenciado não empregará fuga, caso esteja solto.
+Sendo assim, filio-me às argumentações do Juízo de Primeira Instância, pois a sociedade não pode ficar à mercê de crimes nefastos como o tráfico, pois é o tipo de delito que traz consigo outros tantos crimes reflexos que prejudicam sobremaneira a coletividade.
+Acrescento, ainda, que é dever do Estado proteger a sociedade civil e garantir que a lei seja cumprida. Não há como assegurar que o acusado não empregará fuga durante o julgamento de seu recurso. Não havendo, portanto, qualquer possibilidade de adoção de medidas cautelares diversas do cárcere privado.
+ ..
+2 Acrescento, por oportuno, que o disposto no artigo 312 do Código de Processo Penal foi observado, uma vez que cumpridos os requisitos da prisão preventiva, pois com a condenação há prova da materialidade e da autoria do crime. No tocante às condições pessoais favoráveis do paciente, essas não garantem eventual direito à liberdade provisória ,quando presentes os requisitos da prisão preventiva" (e-STJ, fls. 93-95).
+Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+Na hipótese dos autos, o Magistrado processante, ao negar o apelo em liberdade, reconheceu ainda estarem presentes os requisitos que levaram à decretação da prisão preventiva, destacando ser tal medida necessária para resguardar a ordem pública, haja vista o risco de reiteração delitiva do agente, tendo sido ressaltado na sentença condenatória que o recorrente já possui envolvimento anterior com a traficância (e-STJ, fl. 66).
+Impende anotar que a validade da prisão cautelar já foi analisada por essa Corte Superior, no julgamento do RHC 126.974/SP, em decisão proferida nos seguintes termos:
+" ..  Ademais, o magistrado indicou que o recorrente ostenta inúmeras passagens por atos infracionais com aplicação de medidas socioeducativas.
+Com efeito, nos termos da jurisprudência desta Corte Superior, "a preservação da ordem pública justifica a imposição da custódia cautelar quando o agente tem maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. Precedentes." (RHC 126.796/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/08/2020, DJe 12/08/2020, grifouse). No mesmo sentido: "A prisão preventiva foi adequadamente motivada, tendo sido demonstrada pelas
+instâncias ordinárias, com base em elementos concretos, a periculosidade do agente, pois, apesar de a quantidade da droga localizada não ser das mais elevadas - 4,5 g de cocaína - o paciente ostenta registros pela prática de atos infracionais análogos ao delito em apreço, evidenciando risco ao meio social e a necessidade de evitar a reiteração delitiva, recomendando a sua custódia cautelar para garantia da ordem pública." (HC 558.269/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 30/06/2020, grifou-se)
+Assim, não se constata qualquer flagrante ilegalidade a permitir a concessão da ordem nesta instância."
+Do mesmo modo, não há se falar em ausência de contemporaneidade na segregação cautelar, uma vez que ela foi decretada desde o início da persecução penal e, no momento da prolação da sentença condenatória, constatou-se ainda a presença do periculum libertatis. Ou seja, que a colocação do recorrente em liberdade representa risco concreto à ordem pública.  .. ."
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
