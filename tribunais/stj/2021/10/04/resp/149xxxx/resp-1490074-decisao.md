@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto, com amparo no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão assim ementado (fl. 215):
+EMBARGOS INFRINGENTES - ADMINISTRATIVO - PROCESSUAL CIVIL - AÇÃO DECLARATÔRIA DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS OMISSÃO DO IPSEMG EM FORNECER INSUMO NECESSÁRIO PARA CIRURGIA DO SEGURADO - TABELA DE PROCEDIMENTOS - MANIFESTA ABUSIVIDADE DA CONDUTA - INSUBSISTÊNCIA - DESACOLHIMENTO DA PRETENSÃO.
+1. Conquanto considerada injurídicaa recusa do IPSEMG de fornecer a segurado insumo necessário para a realização de procedimento cirúrgico, não subsiste a pretensão de ressarcimento por danos morais, se se verifica que, além de inaplicável ao caso as normas do Código de Defesa do Consumidor, a negativa se amparou na tabela de procedimentos daquela Autarquia, assim não evidenciada a manifesta abusividade da conduta.
+2. Embargos infringentes acolhidos.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 12, 186, 187 e 927 do Código Civil; arts. 2º, 3º, 4º, 6º, incisos I e VI, 22 e 51, inciso IV e § 1º, incisos I, IIe III, do Código de Defesa do Consumidor; arts. 1º, inciso III, e 5º da Constituição Federal; arts. 14, incisosI e III, alíneas "e" e "h", e 17 do Decreto nº 42.897/2002; arts. 2º e 9º da Lei nº 10.741/2003 (Estatuto do Idoso); e arts. 20, § 3º, alíneas "a", "b" e "c", do Código de Processo Civil; além de divergência jurisprudencial.
+Sustenta que aconduta abusiva e ilícita do recorrido, ao negar-lhe os insumos necessários à cirurgia cardíaca, causou, por si só, dano moral a ser reparado, não havendo necessidade de comprovação da ocorrência de prejuízo, o qual seria presumido, diante daaflição, angústiaerisco de vidaa que foi submetido o segurado.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+A propósito, destaco que a Súmula nº 568 desta Corte Superior dispõe que: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Quanto ao alegado dano moral, o Tribunal de origem concluiu pela não configuração de conduta ilícita capaz de ensejar o dever de indenizar, conforme se verifica do seguintetrecho do julgado (fl. 220):
+Lado outro, conquanto considerada insubsistente, na via judicial, a recusa do embargante ao fornecimento dos stents ao embargado, observa-se que esta conduta se amparou na limitação dos valores cobertos conforme a tabela de procedimentos de f. 39, motivo pelo qual não é de se reputar flagrante ou injustificável a ilegalidade perpetrada pela entidade autárquica.
+Além disto, não obstante os incômodos e o aborrecimento que tal negativa possa ter causado ao embargado, observa-se que ele propôsincontinenti a presente ação declaratória de obrigação de fazer, na qual logrou obter "in limine litis" a cobertura integral dos insumos para o procedimento cirúrgico (f. 40/42 e 54/55). Destarte, sob tal aspecto, tampouco prospera a alegação de que teria sofrido danos morais.
+Como se vê, o entendimento adotado no acórdão recorrido está em harmonia com a orientação jurisprudencial desta Corte Superior no sentido de que "o inadimplemento do contrato, por si só, pode acarretar danos materiais e indenização por perdas e danos, mas, em regra, não dá margem ao dano moral, que pressupõe ofensa anormal à personalidade" (AgRg no REsp 1.132.821/PR, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe de 29.3.2010).
+Incide à espécie, portanto, o enunciado da Súmula 83 do STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal sefirmou no mesmo sentido da decisão recorrida" (Corte Especial, julgado em 18/6/1993, DJ 2/7/1993), cujo entendimento é aplicável aos recursos interpostos por ambas as alíneas do inciso III do art. 105 da Constituição Federal.
+No mesmo sentido, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE TRATAMENTO MÉDICO. MERO INADIMPLEMENTO CONTRATUAL. DANO MORAL. AUSÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da recente jurisprudência desta Corte Superior de Justiça, a negativa indevida de plano de saúde para cobertura das despesas com tratamento médico do segurado não configura, de imediato, dano moral indenizável, devendo a possível reparação ser verificada com base no caso concreto, diante da constatação de situação que aponte a afronta a direito da personalidade.
+2. Agravo interno improvido.
+(AgInt no REsp 1.878.771/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 30/11/2020, DJe 04/12/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. TUTELA ANTECIPADA EM CARÁTER ANTECEDENTE. PLANO DE SAÚDE. CUSTEIO DE MEDICAMENTO. NEGATIVA DE FORNECIMENTO. DANO MORAL. NÃO CONFIGURAÇÃO. AGRAVO DESPROVIDO.
+1. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente no Superior Tribunal de Justiça, no sentido de que o descumprimento contratual por parte da operadora de saúde que culmina em negativa ilegítima de cobertura para procedimento de saúde somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico e prejuízos à saúde já debilitada do paciente. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.879.234/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020.)
+Ademais, a desconstituição das premissas firmadas no acórdão recorrido, a fim de concluir pela configuração de dano moral indenizável, como pretendido pela parte recorrente, demandaria o reexame do acervo fático-probatório dos autos, providência inviável, em recurso especial, ante o óbice da Súmula 7 do STJ.
+Exemplificativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA PARTE AUTORA.
+1. A conclusão a que chegou o Tribunal de origem, sobre a inexistência de dano moral indenizável, fundamenta-se nas particularidades do caso concreto, de modo que a reforma desse entendimento demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.656.684/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/08/2020, DJe 11/09/2020.)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do referido dispositivo legal, bem como as disposições legais referentes à gratuidade de justiça.
+Intimem-se.
