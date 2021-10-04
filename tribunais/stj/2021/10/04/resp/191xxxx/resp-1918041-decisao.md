@@ -1,0 +1,65 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por DHOMAS HENRIQUE DE LIMA FARIA, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado:
+RECURSO DE AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULOEXTRAJUDICIAL - EXCEÇÃO DE PRÉ EXCUTIVIDADE - CÉDULA DE CRÉDITOBANCÁRIO - NECESSIDADE - JUNTADA DO ORIGINAL DA CÉDULA DE CRÉDITOBANCÁRIO - PRESCINDIBILIDADE - EXECUÇÃO INSTRUÍDA COM EXTRATOSDEMONSTRANDO A EVOLUÇÃO DO DÉBITO - LIMINAR REVOGADA - DECISÃO "A QUO" MANTIDA - RECURSO DESPROVIDO. É pacífico na jurisprudência o entendimento segundo o qual não énecessária a apresentação da via original da cédula de crédito bancário para sua execução, bastando a juntada de simples cópia legível. O art. 28 da Lei 10.931 dispõe expressamente que, "a Cédula de Crédito Bancário é título executivo extrajudicial e representa dívida em dinheiro, certa, líquida e exigível, seja pela soma nela indicada, seja pelo saldo devedor demonstrado em planilha de cálculo, ou nos extratos da conta corrente, elaborados conforme previsto no§ 2º".
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts.90, § 1º, 319, VI, 489,775, parágrafo único, 798, 803, I, 1.022, II e parágrafo único, II, e1.025, do Código de Processo Civil; 28 e art. 29 da Lei n. 10.931/04.
+Sustenta nulidade do acórdão recorrido, pois, não obstante a oposição de embargos de declaração, os vícios apontados não foram sanados.
+Defende que cédula de crédito bancário apresenta o atributo da cartularidade, motivo pelo qual o pretenso credor, ao exigir o crédito nela consubstanciado, deve depositar cártula original em juízo.
+Alega que falta liquidez e certeza a cédula de crédito bancárioque concede crédito genérico para desconto de duplicatas e cheques, se não apresentados esses títulos.
+Argui, por fim, que deve ser estabelecida condenação de pagamento de honorários sucumbenciais sobre o valor da execução que fora objeto de renúncia durante o processo de execução.
+Contrarrazões ao recurso especial às fls. 373-380.
+Crivo positivo de admissibilidade na origem (fls. 831-833).
+É o relatório.
+DECIDO.
+2. Sobre a alegada necessidade de depósito da Cédula de Crédito Bancário original, assim se manifestou o tribunal de origem (fls. 196 - 205 e-STJ):
+A exceção de pré-executividade é cabível apenas nos casos de nulidade absoluta e defeitos irreversíveis que possam prejudicar a execução, limitando-se a questões formais de preenchimento de pressupostos processuais, sob pena de se violentar o sistema processual em vigor, pelo qual a defesa do executado se dá via de embargos à execução.
+Pois bem.
+Em uma análise mais acurada, tenho que o caso não comporta provimento, uma vez que os argumentos do juízo a quo são consistentes, quando afirma ser desnecessária ajuntada da via original do título executivo, por força do art. 424, art. 425, §1º do Código de Processo Civil, transcrevo:
+"(..)A dívida constante da cédula, é líquida, certa e exigível, posto que, resta claro que o valor foi disponibilizado aos excipientes. Até porque segundo a o Relatório de Operações Vencidas juntado no id. 18833450, constam todos os débitos realizados e o índice de correção, taxa de juros e mora aplicados. No referido documento consta ainda a evolução da dívida. Ademais, as taxas de juros aplicadas e os encargos incidentes diferentemente do que alegado pelos executados/excipientes.
+Quanto a tese de necessidade de depósito em juízo dos documentos originais, primeiro que, não estamos diante de hipótese de nulidade da execução, pois é totalmente desnecessária a juntada da via original do título executivo, por força do art. 424, art. 425, §1º do Código de Processo Civil. Ademais, nos termos da Resolução n. 004/2013/PRES, que dispõe sobre a regulamentação do Processo Judicial Eletrônico, no art. 14, §1º, expõe que:
+(..)
+Trata-se de medida desnecessária, pois a cópia assinada é suficiente para embasar a execução de título extrajudicial. Tal imposição configura excesso de formalismo, tendo em vista a boa-fé que rege as relações processuais, notadamente em casos como o presente, em que aparte executada não nega a existência da dívida, limitando-se a requerer a extinção da execução com base em aspectos formais.
+Neste ponto, improcede o referido argumento.
+No tocante a ausência de liquidez do título visto que na cédula(id.18833450), todas as taxas, encargos e juros cobrados foram descritos. Assim, não
+há que falar em falta de liquidez do título. Diante do exposto e considerando o que mais consta dos autos NÃOACOLHO a Exceção de Pré-Executividade, por entender que os argumentos da exceção não tem prevalência para nulificar a execução.".
+Isso porque, o título exequendo se trata de cédula de crédito bancário, regulamentada pela Lei 10.931/2004, e a teor do seu art. 28, temos que:
+(..)
+Assim, resta demonstrado nos autos a liquidez do crédito buscado através da execução ajuizada pela recorrida em face do agravante, com todas as taxas, encargos e juros cobrados (id. 18833450); ainda, não há óbice a concessão de crédito, devidamente assinado, legível e íntegro.
+Portanto, não se tratando de título cambial, mas sim de cédula de crédito bancário, é desnecessária a juntada do instrumento contratual original para fins de aparelhar a demanda executiva, nos termos do inciso VI do art. 425 do Código de Processo Civil.
+Ademais, é pacífico na jurisprudência o entendimento segundo o qual não é necessária a apresentação da via original da cédula de crédito bancário para sua execução, bastando a juntada de simples cópia legível.
+(..)
+No mais, não merece prosperar o argumento do agravante quanto a necessidade de apresentação de documento original, por ser pacífico na jurisprudência que não énecessária a apresentação da via original da cédula de crédito bancário para sua execução, bastando a juntada de simples cópia legível.
+Demais teses suscitadas na irresignação recursal, as quais ainda não foram enfrentadas pelo juiz da causa, são inoportunas nesta seara processual, uma vez que a apreciação delas redundaria em supressão de instância. Desse modo, conclui-se que não há motivos razoáveis para desqualificar a decisão agravada.
+Verifica-se que o entendimento da Corte local está em dissonância com a jurisprudência do STJ quanto à necessidade de juntada do original do documento no qual lastreado o alegado crédito.
+A propósito, "A juntada da via original do título executivo extrajudicial é requisito essencial à formação válida do processo de execução e visa assegurar a autenticidade da cártula apresentada, bem como afastar a hipótese de ter o título circulado" (REsp 337.822/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/11/2001, DJ 18/02/2002, p. 424).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DECISÃO QUE DETERMINA A APRESENTAÇÃO DA VIA ORIGINAL DA CÉDULA DE CRÉDITO BANCÁRIO EXECUTADA. IMPRESCINDIBILIDADE.PRECEDENTES. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. O entendimento da Corte de origem encontra-se de acordo com a jurisprudência desta Corte Superior, segundo a qual cabe ao Juízo, quando a parte instrui a inicial com cópia autenticada do título executivo, abrir prazo para que emende a inicial juntando o título original.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1743487/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/03/2021, DJe 13/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. CÓPIA SEM AUTENTICAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. A juntada do original do documento representativo de crédito líquido, certo e exigível é a regra, sendo requisito indispensável para todas as demandas nas quais a pretensão esteja amparada na referida cártula. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria de fato (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 899.121/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/08/2018, DJe 11/09/2018)
+RECURSO ESPECIAL - AÇÃO DE BUSCA E APREENSÃO - DETERMINAÇÃO DE EMENDA À INICIAL A FIM DE QUE FOSSE APRESENTADO O TÍTULO ORIGINAL DA CÉDULA DE CRÉDITO BANCÁRIO - PROVIDÊNCIA NÃO ATENDIDA SEM CONSISTENTE DEMONSTRAÇÃO DA INVIABILIDADE PARA TANTO - TRIBUNAL A QUO QUE MANTEVE A SENTENÇA DE INDEFERIMENTO DA PETIÇÃO INICIAL, NOS TERMOS DO ART. 267, INC. I, DO CPC, POR AFIRMAR QUE A CÓPIA DO CONTRATO DE FINANCIAMENTO É INÁBIL PARA EMBASAR A DEMANDA. INSURGÊNCIA DA CASA BANCÁRIA.
+Hipótese: Controvérsia acerca da necessidade de apresentação do título original do contrato de financiamento com garantia fiduciária (cédula de crédito bancário) para instruir a ação de busca e apreensão.
+1. Possibilidade de recorrer do "despacho de emenda à inicial".Excepciona-se a regra do art. 162, §§ 2º e 3º, do Código de Processo Civil quando a decisão interlocutória puder ocasionar prejuízo às partes. Precedentes.
+2. Nos termos da Lei nº 10.931/2004, a cédula de crédito bancário é título de crédito com força executiva, possuindo as características gerais atinentes à literalidade, cartularidade, autonomia, abstração, independência e circulação.
+O Tribunal a quo, atento às peculiaridades inerentes aos títulos de crédito, notadamente à circulação da cártula, diligente na prevenção do eventual ilegítimo trânsito do título, bem como a potencial dúplice cobrança contra o devedor, conclamou a obrigatoriedade de apresentação do original da cédula, ainda que para instruir a ação de busca e apreensão, processada pelo Decreto-Lei nº 911/69.
+A ação de busca e apreensão, processada sob o rito do Decreto-Lei nº 911/69, admite que, ultrapassada a sua fase inicial, nos termos do artigo 4º do referido regramento normativo, deferida a liminar de apreensão do bem alienado fiduciariamente, se esse não for encontrado ou não se achar na posse do devedor, o credor tem a faculdade de, nos mesmos autos, requerer a conversão do pedido de busca e apreensão em ação executiva.
+A juntada do original do documento representativo de crédito líquido, certo e exigível, consubstanciado em título de crédito com força executiva, é a regra, sendo requisito indispensável não só para a execução propriamente dita, mas, também, para todas as demandas nas quais a pretensão esteja amparada na referida cártula.
+A dispensa da juntada do original do título somente ocorre quando há motivo plausível e justificado para tal, o que não se verifica na presente hipótese, notadamente quando as partes devem contribuir para o adequado andamento do feito, sem causar obstáculos protelatórios.
+Desta forma, quer por força do não-preenchimento dos requisitos exigidos nos arts. 282 e 283 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, o indeferimento da petição inicial, após a concessão de prévia oportunidade de emenda pelo autor (art. 284, CPC), é medida que se impõe. Precedentes.
+3. Recurso especial desprovido.
+(REsp 1277394/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/02/2016, DJe 28/03/2016)
+Nesse contexto, tendo em vistaos princípios da instrumentalidade das formas e da economia processual e do aperfeiçoamento da ação executiva intentada, deve ser oportunizado à parte recorrida/exequente a apresentação dos originais do título exequendo, sob pena de extinção do processo sem resolução do mérito.
+3. Ficam prejudicadas as demais teses suscitadas no recurso especial.
+4. Ante o exposto, dou provimento ao recurso especial para reconhecera necessidade de apresentação dos originais do título exequendoe determinar o retorno dos autos à origem para que seja oportunizada à parte exequente a juntada dos originais da cédula de crédito bancário objeto da execução, sob pena de extinção.
+Intimem-se. Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE CÉDULA DE CRÉDITO BANCÁRIO. APRESENTAÇÃO DO ORIGINAL. NECESSIDADE.
+1. "A juntada da via original do título executivo extrajudicial é requisito essencial à formação válida do processo de execução e visa assegurar a autenticidade da cártula apresentada, bem como afastar a hipótese de ter o título circulado" (REsp 337.822/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/11/2001, DJ 18/02/2002, p. 424).
+2. "Cabe ao Juízo, quando a parte instrui a inicial com cópia autenticada do título executivo, abrir prazo para que emende a inicial juntando o título original ".AgInt no AREsp 1743487/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/03/2021, DJe 13/04/2021).
+3. Recurso especial provido.
