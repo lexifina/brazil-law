@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedidoliminar, impetrado em favor de DIEGO RODRIGO ROCHA e ELIZEU LEONARDO DOS SANTOScontra acórdão proferido pelo Tribunal de Justiça do Estado do Paranána Revisão Criminal n.0051862-28.2019.8.16.0000.
+Consta dos autos que os Pacientes foramcondenados como incursos no art.121, § 2.º, incisos I e IV, e no art. 121, § 2.º, inciso I e IV,c.c. o art. 14, inciso II, todos doCódigo Penal, por quatro vezes, em concurso formal impróprio, às penas de 35 (trinta e cinco) anos e 21 (vinte e um) dias de reclusão, em regime inicial fechado (fl. 19).
+Após o trânsito em julgado da condenação, aDefesa ajuizou revisão criminal no Tribunal de origem, que não a conheceu, nos termos da seguinte ementa (fl. 11):
+"REVISÃO CRIMINAL. CONDENAÇÃO POR HOMICÍDIO QUALIFICADO. ARTIGO 121, § 2º, INCISOS I E IV, DO CÓDIGO PENAL CUMULADO COM O ARTIGO 14, INCISO II, DO MESMO DIPLOMA LEGAL. PLEITO REVISIONAL QUESTIONANDO MATÉRIA JÁ ENFRENTADA EM RECURSO DE APELAÇÃO. AÇÃO REVISIONAL QUE NÃO SE PRESTA COMO SEGUNDA APELAÇÃO E NEM PARA REEXAMINAR QUESTÕES JÁ APRECIADAS ANTERIORMENTE. AUSÊNCIA DE QUALQUER DAS HIPÓTESES DO ARTIGO 621 DO CÓDIGO DE PROCESSO PENAL. REVISÃO CRIMINAL NÃO CONHECIDA."
+Nestewrit, oImpetrante sustenta que a condenação imposta aos Pacientes deve ser reformada, aplicando-se a regra do concurso formal próprio entre os delitos imputados, pois "se praticou uma única ação, não há como se admitir que existiam desígnios autônomos, dolo eventual, como entendeu o Tribunal de origem" (fl. 6).
+Pleiteia, liminarmente e no mérito, a concessão da ordem para aplicar a regra do concurso formal próprio entre os crimes objeto da condenação.
+O pedido liminar foi indeferido (fls. 82-83).
+O Ministério Público Federal opinou pelo não conhecimento dowrite pela não concessão da ordem de ofício (fls. 86-96).
+É o relatório. Decido.
+ACorte de origem, após analisar a dinâmica dos fatos à luz das provas dos autos, concluiu que os"os delitos concorrentes, oriundos de uma só conduta, resultaram de desígnios autonômos" (fl. 25), pois"os Réus, com o objetivo de atingir uma única pessoa, assumiram o risco de atingir as demais presentes ao atirarem a ermo. Assim, caracterizando o dolo eventual. No dolo eventual o agente não quer propriamente o resultado, no entanto, assume o risco de produzi-lo.  .. Em consequência dessa caracterização, vale dizer, do reconhecimento da independência das intenções do agente, as penas devem ser aplicadas cumulativamente, conforme a regra do concurso material" (fl. 25).
+A fundamentação apresentada pelainstânciaordináriaestá em consonância com a jurisprudência desta Corte Superior de Justiça, quejá se manifestou no sentido de que "a expressão "desígnios autônomos" refere-se a qualquer forma de dolo, seja ele direto ou eventual. Vale dizer, o dolo eventual também representa o endereçamento da vontade do agente, pois ele, embora vislumbrando a possibilidade de ocorrência de um segundo resultado, não o desejando diretamente, mas admitindo-o, aceita-o" (HC 191.490/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/9/2012, DJe 9/10/2012).
+No mesmo sentido:HC n. 463.973/SC, Rel. Ministro RIBEIRO DANTAS, DJe 16/04/2021; e AREsp 1.245.492/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 23/02/2021.
+Ademais, o exame das alegações suscitadas na impetração exigiria aprofundada incursão em matéria fático-probatória, o que não se admite nos estreitos limites de cognição do habeas corpus.
+Sobre o tema, confira-se:
+"HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL.IMPROPRIEDADE DA VIA ELEITA. HOMICÍDIOS, TENTADO E CONSUMADO.CONCURSO FORMAL IMPRÓPRIO. MOTIVAÇÃO. DESÍGNIOS AUTÔNOMOS. REEXAME DAS PROVAS. IMPOSSIBILIDADE. QUANTUM DE DIMINUIÇÃO. ITER CRIMINIS.MOTIVAÇÃO ADEQUADA. INOBSERVÂNCIA DO ART. 14, II, DO CÓDIGO PENAL.ILEGALIDADE PATENTE. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+ ..
+2. Hipótese em que o Tribunal de origem entendeu adequada a aplicação do concurso formal impróprio, haja vista os desígnios autônomos. Esclareceu que o paciente teria assumido o risco de matar ou ferir a segunda vítima, o que configura o dolo eventual.Inviável, pois, nesta via estreita, a análise aprofundada das provas para se chegar a conclusão diversa acerca do elemento subjetivo.
+ .. (HC 200.919/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 08/10/2013, DJe 21/10/2013;sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO POR QUATRO VEZES. CONCURSO FORMAL IMPRÓPRIO. DESÍGNIOS AUTÔNOMOS. DOLO EVENTUAL. CABIMENTO. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
