@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar,interposto por ALLAN VITOR FELIX SOAREScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS no julgamento do HC n. 0807601-95.2020.8.02.0000.
+Extrai-se dos autos que o recorrente foi preso preventivamente em 24/3/2017 e posteriormente pronunciado por ter supostamente praticado odelitotipificadono art. 121, § 2º, I e IV, do CP(homicídio qualificado).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. DUPLO HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO. NÃO VERIFICAÇÃO. ATUAÇÃO DILIGENTE DO JUÍZO PROCESSANTE. INEXISTÊNCIA DE DESÍDIA DO PODER JUDICIÁRIO OU DA ACUSAÇÃO. ANÁLISE DO CASO SOB A ÓTICA DO PRINCÍPIO DA RAZOABILIDADE. PACIENTE PRONUNCIADO. INCIDÊNCIA DA SÚMULA 21 DP STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. MANUTENÇÃO DA MEDIDA RESTRITIVA DE LIBERDADE. ORDEM CONHECIDA E DENEGADA, COM RECOMENDAÇÃO"(fl. 164).
+No presente recurso, sustenta excesso de prazo para a formação da culpa ao argumento de que está preso há mais de 3 anos e 7 meses, sem previsão para a conclusão da instrução e prolação de sentença, não tendo a defesa dado causa ao atraso.
+Requer, liminarmente e no mérito,o relaxamento da prisão preventiva, com a expedição de alvará de soltura.
+A liminar foi indeferida (fls. 200/201).
+O Ministério Público Federal se manifestou pelo desprovimento do recurso (fls.205/208).
+É o relatório.
+Decido.
+De acordo com andamento processual obtido na página eletrônica do Tribunal de origem, verifica-se que, em 30/9/2021, nos autos da Ação Penal n. 0732875-89.2016.8.02.0001, foi proferida sentença condenando orecorrente pela prática do delito previsto no artigo 121, caput, do Código Penal,àpenade 7anos e 11meses de reclusão,em regime inicial fechado, tendo sido negado o recurso em liberdade.
+Assim, com o encerramento da instrução criminal, e superveniência da sentença condenatória, restam superadas as alegações de constrangimento por excesso de prazo, nos termos do enunciado n. 52 da Súmula do Superior Tribunal de Justiça - STJ, que prevê:
+"Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+Anote-se, ainda, oseguinteprecedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ROUBO. HOMICÍDIOS QUALIFICADOS. NULIDADE. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EM SENTIDO ESTRITO. DEFENSOR INTIMADO DA PRONÚNCIA. PRINCÍPIO DA VOLUNTARIEDADE DOS RECURSOS. AUSÊNCIA DE ILEGALIDADE. ALEGAÇÃO DE QUE O PACIENTE TERIA PERMANECIDO INDEFESO. RENÚNCIA DO ADVOGADO CONSTITUÍDO. NOMEAÇÃO DA DEFENSORIA PÚBLICA. INDICAÇÃO DO INTERESSE DO RÉU NOS AUTOS. ILEGALIDADE NÃO DEMONSTRADA. PRIMEIRA FASE DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. ALEGAÇÃO DE NULIDADE FORMULADA APÓS O JULGAMENTO PELO CONSELHO DE SENTENÇA. PRECLUSÃO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SÚMULA 52/STJ. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Supremo Tribunal Federal, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - A ausência de interposição de recurso em sentido estrito pelo defensor do réu, devidamente intimado, não pode ser equiparada à ausência de defesa, pois vige no sistema processual pátrio o princípio da voluntariedade recursal.
+III - No caso, o próprio paciente, ao ser intimado da sentença de pronúncia, manifestou-se no sentido de deixar a cargo de sua defesa técnica a avaliação quanto à conveniência de recorrer da decisão, do que se denota que não há ilegalidade a ser reconhecida.
+IV - A alegação de que o paciente teria permanecido indefeso, desde a renúncia do seu advogado constituído, até a nomeação da Defensoria Pública para patrociná-lo em Juízo, foi rechaçada pelo eg. Tribunal a quo, de forma fundamentada.
+V - Na hipótese, ao apresentar a petição de renúncia, o advogado contratado afirmou que havia interesse do réu em ser assistido pela Defensoria Pública, indicando onde se encontrava tal manifestação nos autos, motivo pelo qual foi nomeado o Defensor Público para patrocinar os interesses do acusado.
+VI - A nomeação da Defensoria Pública para realizar a defesa do acusado não foi contestada por ele em qualquer ocasião que se seguiu à nomeação, e, inclusive, não há qualquer insurgência por parte do réu na ata da sessão de julgamento do Tribunal do Júri.
+VII - As alegações de nulidades supostamente ocorridas na primeira fase do procedimento dos feitos de competência do Tribunal do Júri, impugnadas somente após o julgamento perante o Conselho de Sentença, já não são passíveis de apreciação, em razão da preclusão.
+VIII - A alegação de excesso de prazo para a formação da culpa encontra-se superada, tendo em vista que a instrução criminal está encerrada, e, inclusive, sobreveio a condenação do paciente pelo Conselho de Sentença. Incide no caso, portanto, o enunciado sumular n. 52 desta Corte Superior, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Habeas corpus não conhecido.
+(HC 479.448/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 19/02/2019).
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
