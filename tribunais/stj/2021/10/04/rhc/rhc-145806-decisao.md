@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ANTONIO DE LIMA ARAUJO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento do HC n.
+Extrai-se dos autos que o recorrente foi condenado a 11 anos e 10 meses de reclusão, em regime fechado, pela prática dos crimes descritos nos artigos 121, § 2º, incisos II e IV, 155 e 211, todos do Código Penal (homicídio qualificado, furto e ocultação de cadáver). Foi decretada a prisão e cumprida a ordem em 04/09/2020.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. EXECUÇÃO PENAL. ILEGALIDADE DA ORDEM PRISIONAL PARA INICIAR A EXECUÇÃO DA PENA. PEDIDO DE LIBERDADE. INVIABILIDADE. 1 - Embora verificado que o paciente não foi procurado no endereço por ele fornecido nos autos para ser intimado da audiência admonitória que daria início ao resgate da pena, não se admite falar em concessão da liberdade, uma vez constatado que se trata de condenado definitivo a cumprir pena superior a oito anos de reclusão e que o tempo de pena provisória não lhe garante nenhum benefício previsto na Lei de Execuções Penais. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA E DETRAÇÃO. NÃO CONHECIMENTO. 2 - A via estreita do Habeas Corpus não admite análise de questão relativa a abatimento de tempo da prisão provisória, bem como de eventual prescrição da pena, uma vez que exige análise pormenorizada de todo o processo, o que somente pode ser feito pelo manejo de recurso especificado na Lei de Execuções. ORDEM PARCIALMENTE CONHECIDA, E NESTA PARTE, DENEGADA." (fl. 99)
+No presente recurso, o recorrente sustenta que só houve uma tentativa de intimação para audiência admonitória onde o oficial de justiça narrou que: se dirigiu ao endereço do irmão do sentenciado, onde foi informado que este não trabalhava mais no local a mais de 6 anos. Afirma que após 9 anos da decisão que decretou a prisão, foi preso em sua casa, sendo que mora na mesma residência, tem trabalho fixo, família constituída. Aduz que não há fundamento idôneo que justifique a manutenção da prisão. Alega que, intimado pessoalmente ou por edital, após 20 dias, se o réu não comparecer para cumprimento da pena, a suspensão ficará sem efeito e a pena será executada.
+Pleiteia, em liminar e no mérito, a revogação da sua prisão preventiva, anulando a decisão que decretou-lhe a prisão.
+Liminar indeferida às fls. 131/132.
+Informações prestadas às fls.138/205.
+O Ministério Público Federal opinou pelo desprovimento do recurso, conforme parecer de fls. 214/219.
+É o relatório.
+Decido.
+Inicialmente, cumpre destacar que a prisão do recorrente, diferentemente do que alega a douta defesa, decorre de condenação transitada em julgado a pena de 11 anos e 10 meses de reclusão, em regime inicialmente fechado, e não de constrição cautelar. Logo, não há falar em contemporaneidade do decreto de prisão preventiva.
+Tampouco há falar em transcurso do prazo da prescrição da pretensão executória, tendo em visto que o trânsito em julgado ter ocorrido em 3/2/2012, conforme informações prestadas às fls. 208/212.
+Por fim, a necessidade de intimação da audiência admonitória prevista nos arts. 160 e161, da Lei de Execução Penal, diz respeito apenas aos casos em que houve a suspensão condicional da pena, nos termos do art. 156 e seguintes, do mesmo diploma legal. O que não é o caso dos autos.
+Ausente, portanto, qualquer constrangimento que justifique o provimento do recurso.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao presente recurso em habeas corpus.
+Publique-se.
