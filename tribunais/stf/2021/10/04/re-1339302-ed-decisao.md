@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de Embargos de Declaração opostos pelo Presidente da Câmara Municipal de Valinhos, em face de decisão monocrática que deu provimento ao Recurso Extraordinário interposto pelo Procurador-Geral de Justiça do Estado de São Paulo, para declarar a inconstitucionalidade da Lei Municipal 5.872, de 28 de junho de 2019, que instituiu hipótese de não incidência do IPTU sem apresentar o respectivo impacto orçamentário e financeiro, em desconformidade com o artigo 113 do ADCT (norma aplicável a todos os entes federados).
+    Postula o embargante a modulação dos efeitos da decisão, haja vista que “a declaração da nulidade total da norma, sem qualquer modulação poderá implicar em situação injusta capaz de inquinar o princípio da segurança jurídica. Isso porque, desde a edição da lei em apreço, que foi publicada em 28 de junho de 2019, uma gama de contribuintes beneficiados pela isenção do imposto predial e territorial urbano - IPTU serão cobrados retroativamente, o que igualmente demonstra o excepcional interesse social da modulação” (Vol. 27, fl. 10).
+    É o relatório. Decido.
+    O Código de Processo Civil prevê o recurso de embargos de declaração para fins de aperfeiçoamento da prestação jurisdicional. Trata-se de instrumento colocado à disposição das partes com o fito de eliminar do julgado omissões, contradições, obscuridades ou erros materiais.
+    No presente caso, contudo, o acórdão embargado não apresenta nenhum desses vícios. O ofício judicante realizou-se de forma completa e satisfatória, não se mostrando necessários quaisquer reparos.
+    A modulação dos efeitos da declaração de inconstitucionalidade de uma norma é medida excepcional, que somente se justifica quando demonstrado risco irreversível à segurança jurídica e à ordem social.
+    Há, portanto, um juízo de proporcionalidade em sentido estrito envolvido nessa excepcional técnica de julgamento. A preservação de efeitos inconstitucionais ocorre quando o seu desfazimento implica prejuízo ao interesse protegido pela Constituição em grau superior ao provocado pela própria norma questionada.
+    Em que pese o seu caráter excepcional, a experiência demonstra que é próprio do exercício da Jurisdição Constitucional promover o ajustamento de relações jurídicas constituídas sob a vigência da legislação invalidada, e essa CORTE tem se mostrado sensível ao impacto de suas decisões na realidade social subjacente ao objeto de seus julgados.
+    Por outro lado, há um ônus argumentativo de maior grau em se pretender a preservação de efeitos inconstitucionais, que não vislumbro superado no caso em debate.
+    No caso concreto, conforme bem delineado na decisão embargada, a Lei 5.872/2019, do Município de Valinhos, que incluiu e alterou dispositivos legais no Código Tributário Municipal, trouxe hipótese de renúncia de receita sem a correspondente estimativa do impacto orçamentário e financeiro, em clara violação ao artigo 113 do ADCT, bem como a precedentes desta SUPREMA CORTE.
+    A declaração de inconstitucionalidade da norma local teve o condão de extirpar do ordenamento jurídico o § 4º do artigo 116 do Código Tributário Municipal (Lei Municipal 3.915/2005), afastando, portanto, a renúncia de receita; bem como de repristinar a redação original do § 2º do artigo 116, afastando a menção que fazia ao § 4º.
+    No que se refere a eventual prejuízo aos contribuintes que deixaram de recolher o tributo durante a vigência da lei inconstitucional, o administrador, desde que autorizado pelo Poder Legislativo, poderá amenizar os efeitos valendo-se do instituto da remissão, conforme o artigo 172 do Código Tributário Nacional.
+    Por todo o exposto, REJEITO os Embargos de Declaração.
+    Publique-se.
+    Brasília, 4 de outubro de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
