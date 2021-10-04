@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor deSIDNEI APARECIDO BARCELOS NASCIMENTOcontra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO,que manteve o regime fechado para início do cumprimento da pena de 6 anos e 8 meses de reclusão pela prática do delito de roubo circunstanciado (art. 157, § 2º, II e V, e § 2º-A, I, do Código Penal).
+O impetrante requer, em liminar e no mérito, com fundamento nos Enunciados n. 718 e 719 da Súmula do STF, bem como no Enunciado n. 440 da Súmula desta Corte, a fixação do regime semiaberto, tendo em vista o quantum de pena, a primariedade do paciente, a aplicação da pena-base no mínimo legal e a ausência de fundamentação concreta na fixação do regime inicial fechado.
+É o breve relatório.
+Decido.
+Primeiramente, verifico que ohabeas corpus não merece ser conhecido, pois foi impetrado emsubstituição ao recurso próprio. Nesse sentido: HC 358.398/SP, Relator MinistroJORGEMUSSI, QUINTA TURMA, DJe 09/08/2016.
+Também não se mostra cabível a concessão da ordem, de ofício, uma vez que o regime fechado está fundamentado na gravidade concreta do delito de roubo praticado pelo paciente, em circunstâncias que extrapolaram a normalidade para o tipo penal, conforme seextrai do seguinte trecho do acórdão:
+" ..
+O regime prisional inicial para o cumprimento das penas aplicadas deve ser o fechado. Em que pese o montante de pena imposto e a primariedade dos apelantes Sidnei e Samara, deve-se destacar que se trata aqui de roubo a residência, envolvendo ataque não apenas ao patrimônio mas também à intimidade da vítima, no caso pessoa com mais de sessenta anos de idade que, além disso, foi amarrada e amordaçada, todos fatores que demonstram concretamente a maior culpabilidade dos acusados e, portanto, a necessidade de resposta proporcionalmente mais gravosa por parte do Estado.
+ .. "
+Quanto ao tema, trago os seguintes julgados:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DELITO DE ROUBO MAJORADO. REGIME INICIAL PARA O CUMPRIMENTO DA PENA. CONCURSO DE AGENTES. GRAVE AMEAÇA. EMPREGO DE ARMA DE FOGO. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. REGIME FECHADO. DECISÃO MANTIDA.
+1. Na fixação do regime inicial de cumprimento de pena, deve o julgador, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, observar a quantidade da pena aplicada, bem como a primariedade do agente e a existência das circunstâncias judiciais desfavoráveis do art. 59 do CP.
+2. Admite-se a imposição de regime prisional mais gravoso do que o indicado pelo quantum da pena quando presente a gravidade concreta do delito, evidenciada pelo modus operandi.
+3. Ainda que o réu seja primário e não apresente circunstâncias judiciais desfavoráveis, é correta a fixação do regime inicial mais gravoso para o cumprimento da pena quando o delito de roubo foi praticado em concurso de agentes, mediante grave ameaça, exercida com emprego de arma de fogo para forçar a vítima a entregar objetos, o que evidencia maior periculosidade do agente.
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+5. Agravo regimental desprovido.
+(AgRg no HC 601.089/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 12/03/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. WRIT INDEFERIDO LIMINARMENTE. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. ROUBO COMETIDO CONTRA VÍTIMAS IDOSAS. AUSÊNCIA DE VIOLAÇÃO ÀS SÚMULAS 440/STJ E 718 E 719/STF.AGRAVO IMPROVIDO.
+1. Tendo sido fixado o regime inicial mais gravoso com a indicação de fundamentação concreta, evidenciada na expressa referência à gravidade da conduta imputada, praticada mediante grave ameaça e violência contra vítimas idosas, não há falar em ilegalidade.
+2. Havendo motivação suficiente e amparada em dados concretos do fato delituoso, justifica-se o regime prisional fechado, hipótese em que são inaplicáveis as Súmulas n. 440 do STJ e 718 e 719 do STF.
+3. Agravo regimental improvido.
+(AgRg no HC 669.051/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA,DJe 17/09/2021)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO EM CONTINUIDADE DELITIVA. REGIME PRISIONAL INICIAL.DETRAÇÃO. ART. 387, § 2º, DO CÓDIGO DE PROCESSO PENAL. INSTITUTO DISTINTO DA PROGRESSÃO DE REGIME. DETRAÇÃO NÃO APLICADA PELO JUIZ SENTENCIANTE. COMPETÊNCIA CONCORRENTE DO JUIZ DA EXECUÇÃO, QUE DISPORÁ DE MAIS ELEMENTOS PARA AVALIAR A POSSIBILIDADE DE O RECORRENTE INICIAR O CUMPRIMENTO DA PENA EM REGIME MAIS BRANDO, CONSIDERANDO O TEMPO DE PRISÃO CAUTELAR. MANUTENÇÃO DO REGIME PRISIONAL INICIAL FECHADO. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. ROUBOS PRATICADOS POR 03 AGENTES, TENDO COMO UMA DAS VÍTIMAS MOTORISTA DE APLICATIVO, QUE FOI LEVADO A CRER SEREM OS ASSALTANTES SIMPLES PASSAGEIROS. ART. 33, § § 2.º E 3.º, DO CP.AGRAVO REGIMENTAL DESPROVIDO.
+- A detração, prevista no art. 387, § 2.º, do Código de Processo Penal, não se confunde com a progressão de regime, dependendo, exclusivamente, da análise objetiva da possibilidade de o desconto do tempo cumprido em prisão cautelar modificar o regime prisional inicial recomendado para o quantum da pena imposta.
+- Na hipótese, a detração penal não foi aplicada, constando do acórdão impugnado que o referido instituto, como espécie de progressão de regime, contaria também com requisito subjetivo, e que não haveria informações no processo que atestassem o bom comportamento carcerário do agravante.
+- A detração, quando não aplicada pelo juiz sentenciante, deverá ser pleiteada e analisada pelo juiz da execução, conforme autorização prevista no art. 66, inciso III, alínea "c", da Lei de Execução Penal, pois ele terá mais elementos para computar o tempo efetivamente cumprido pelo condenado em prisão provisória e avaliar se o desconto desse tempo do total da pena fixada modificará o regime prisional inicial recomendado pela lei.
+- A jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, sendo inidônea a mera menção à gravidade abstrata do delito. Súmulas n.º 440/STJ, 718/STF e 719/STF.
+- No caso, o regime inicial fechado foi aplicado pela gravidade concreta da conduta, a qual foi ressaltada pelo Tribunal a quo, tendo em vista as circunstâncias que envolveram os delitos, os quais foram cometidos mediante concurso de três agentes, sendo que, em um dos roubos, os assaltantes se passaram por passageiros para abordar motorista de aplicativo, elementos que tornam patente a especial gravidade do modus operandi dos delitos.
+- Agravo regimental desprovido.
+(AgRg no HC 659.738/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 03/05/2021)
+Ante o exposto, não conheço do habeas corpus, com fundamento no art. 34, XX, do RISTJ
+Publique-se.
+Intimações necessárias.
