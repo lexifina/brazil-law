@@ -1,0 +1,92 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ESTELIONATO. PLEITO ABSOLUTÓRIO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. ILEGALIDADE FLAGRANTE. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Na espécie, não se verifica ilegalidade patente a ser sanada de ofício, pois a instância revisora, soberana quanto à análise das provas e dos fatos que instruem o processo, concluiu pela prática do crime de estelionato, tendo se baseado no exame das circunstâncias fáticas colhidas nos autos, especialmente dos depoimentos da vítima e da própria irmã da Condenada, a qual teve as cártulas de cheque furtadas pela Ré para serem apresentadas como garantia de compra no estabelecimento comercial da ofendida.
+3. Para se acolher a pretendida absolvição - sob a alegação de que a Agravante não agiu com dolo, não obteve vantagem ilícita e não causou prejuízo à vítima -, seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+4. Agravo desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por LUCIMAR DIAS MIRANDA contra decisão por mim proferida às fls. 316-319, ementada nos seguintes termos (fl. 316):
+"HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ESTELIONATO. PLEITO DE ABSOLVIÇÃO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. INVIABILIDADE. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE."
+A Agravante foi condenada às penas de 1 (um) ano de reclusão, em regime inicial aberto, e pagamento de 10 (dez) dias-multa, pela prática no crime previsto no art. 171, caput, do Código Penal. Na ocasião, a pena privativa de liberdade foi substituída por uma sanção restritiva de direitos (fls. 173-180).
+Isso porque, conforme consta no aresto que julgou o recurso de apelação defensivo (fl. 278; sem grifos no original):
+"A acusação acolhida, ensejadora da condenação, é a de que a recorrente obteve, para si, vantagem ilícita no valor de R$ 2.200,00, em prejuízo de Gislene Garcia de Oliveira Cruz, induzindo-a em erro, mediante artifício e meio fraudulento.
+Segundo a exordial, a ré se apropriou de folhas de cheque do Banco Bradesco, pertencentes a sua irmã, as quais subtraíra de uma gaveta da residência em que residem.
+Em seguida, decidiu utilizar-se de sobreditas cártulas, preenchendo-as no valor de R$ 1.100,00, cada, e as assinando em nome da correntista.
+Assim, a apelante foi até o estabelecimento vítima e efetuou uma compra no valor de R$ 2.245,00 e deixou os cheques como caução.
+Todavia, a suplicante deixou de efetuar o pagamento da dívida e quando a ofendida depositou as cártulas, soube que elas haviam sido sustadas junto ao banco sacado, devido ao extravio do talonário."
+O recurso de apelação interposto pela Sentenciada foi desprovido pelo Tribunal de origem. O acórdão foi assim ementado (fl. 276):
+"Estelionato - Recurso defensivo - Conjunto probatório suficiente para o reconhecimento da prática delitiva - Absolvição - Impossibilidade Pena adequada e motivadamente dosada, necessária e suficiente para reprovação e prevenção da conduta - Sentença mantida - Recurso desprovido."
+Conforme certidão acostada à fl. 288, a condenação transitou em julgado para a Defesa em 29/10/2020.
+O writ impetrado junto a esta Corte Superior foi indeferido liminarmente às fls. 316-319.
+Neste agravo regimental, a Defesa salienta, de início, que é certo que a condenação já transitou em julgado e que a absolvição por meio do writ é medida excepcionalíssima, entretanto, assevera que, "quando é manifesta a ausência de elementos para a condenação, é possível que tal ação seja ventilada por meio do habeas corpus" (fl. 322).
+Reitera, ademais, que "a Agravante foi condenada indevidamente, ante a atipicidade da conduta, por ausência de dolo e dos elementares do tipo" (fl. 322). Ressalta que "a conduta é atípica, eis que os elementos previstos no artigo 171, do CP, consistentes em obtenção de vantagem ilícita e de prejuízo à vítima estão ausentes" (fl. 323).
+Afirma, assim, que a Apenada "não pretendia causar qualquer prejuízo à vítima e tão somente atrasou as prestações por dificuldades financeiras", bem como que "a dívida fora paga, mesmo que em mora" (fl. 324).
+Conclui que " n ão há estelionato, mas pretenso ilícito cível" (fl. 324).
+Requer, desse modo, seja reconsiderada a decisão combatida para que a liminar seja analisada, com a suspensão da execução do título penal condenatório ou, então, seja submetido o feito à análise do Órgão Colegiado para que a Agravante seja absolvida.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ESTELIONATO. PLEITO ABSOLUTÓRIO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. ILEGALIDADE FLAGRANTE. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Na espécie, não se verifica ilegalidade patente a ser sanada de ofício, pois a instância revisora, soberana quanto à análise das provas e dos fatos que instruem o processo, concluiu pela prática do crime de estelionato, tendo se baseado no exame das circunstâncias fáticas colhidas nos autos, especialmente dos depoimentos da vítima e da própria irmã da Condenada, a qual teve as cártulas de cheque furtadas pela Ré para serem apresentadas como garantia de compra no estabelecimento comercial da ofendida.
+3. Para se acolher a pretendida absolvição - sob a alegação de que a Agravante não agiu com dolo, não obteve vantagem ilícita e não causou prejuízo à vítima -, seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+4. Agravo desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O inconformismo não prospera.
+No caso, o acórdão do Tribunal de Justiça do Estado de São Paulo apontado como ato coator (Apelação Criminal n. 0005949-78.2016.8.26.0637) transitou em julgado para a Defesa no dia 29/10/2020 (fl. 288). Diante dessa situação, reafirmo que não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+De fato, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Sobre a questão, cito os seguintes precedentes das Turmas que compõem a Terceira Seção desta Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO MONOCRÁTICA. PRINCÍPIO DA COLEGIALIDADE. NÃO VIOLAÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Não deve ser conhecido o habeas corpus substitutivo de revisão criminal de decisões proferidas por outros Tribunais, por não haver sido inaugurada a competência do STJ. Só compete a esta Corte Superior apreciar pedidos de revisão criminal de seus próprios julgados, nos termos do art. 105, I, "e", da Constituição Federal.
+ ..
+4. Agravo regimental não provido." (AgRg no HC 499.382/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/08/2020, DJe 01/09/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR. Agravo regimental improvido." (AgRg no HC 494.794/MA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/04/2019, DJe 11/04/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido." (AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019; sem grifos no original.)
+No mesmo sentido, as seguintes decisões monocráticas: HC 512.674/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 30/05/2019; e HC 482.877/SP, Rel. Ministro JORGE MUSSI, DJe 29/03/2019.
+Ademais, reitero que não há ilegalidade flagrante capaz de autorizar a concessão de habeas corpus, de ofício, por esta Corte Superior.
+Na hipótese, o Tribunal estadual consignou o seguinte ao julgar o recurso de apelação defensivo (fls. 278-281; sem grifos no original):
+" ..
+A materialidade está demonstrada pelo boletim de ocorrência (fls. 04/05); pelo auto de exibição e apreensão (fls. 07/08); pelo laudo de exame grafotécnico (fls. 37/44), bem como pela prova oral produzida em Juízo.
+De igual modo, a autoria recai, som segurança, sobre a acusada.
+Na Delegacia de Polícia, Lucimar admitiu que fez uma compra no estabelecimento da vítima e, como garantia, deu dois cheques do banco Bradesco, em nome de sua irmã, além de assinar duplicatas, combinando que os títulos seriam resgatados após quitação do pagamento. Não teve intenção em causar prejuízos à loja, mas, por problemas financeiros, não conseguiu efetuar os pagamentos e a proprietária depositou os cheques (fls. 15).
+Em Juízo, afirmou que era cliente da vítima e que tinha restrição em seu nome e, por isso, deixou cheques como caução pra efetuar compras. Juntamente com os cheques, assinava promissórias. Não conseguiu honrar o pagamento de algumas parcelas e, por isso, as cártulas foram depositadas e sustadas. Por fim, assinalou que tinha compulsão por compras e que se submeteu a tratamento psicológico (depoimento colhido via streaming, encartado aos autos digitais).
+A prova colhida sob o crivo do contraditório edificou-se em desfavor da recorrente.
+Gislaine Garcia de Oliveira Cruz, em juízo, reafirmou que Lucimar foi cliente de seu estabelecimento comercial e que, antes dos fatos, já apresentara problemas em adimplir dívidas contraídas. Na data dos fatos, ela retornou a sua loja, mas, devido a seu histórico, recusara-se a conceder-lhe crédito. Lucimara, então, sugeriu dar cheques de sua irmã, pessoa conhecida por sua idoneidade, como forma de caução. A compra foi dividida em parcelas e, caso o pagamento não fosse realizado, efetuaria o depósito. O acordo não foi cumprido e, após algum tempo tentando negociar, depositou os cheques, que voltaram por terem sido sustados. Entrou em contato com a irmã da ré, que afirmou que o talonário havia sido subtraído e que não tinha ciência do fato. Tentou entrar em acordo com a acusada, mas não recebeu o valor devido e, por isso, registrou a ocorrência policial (idem).
+Urge obtemperar, a propósito, que, em tema de crimes patrimoniais a palavra da vítima assume especial relevância na elucidação dos fatos e na identificação dos autores, tanto porque em consonância com os demais elementos probantes, quanto porque não detectado qualquer interesse em prejudicá-los gratuita e falsamente.
+No mais, Rosimeire Dias Miranda, irmã da acusada, confirmou que a proprietária do estabelecimento comercial a procurou, após a devolução de duas folhas de cheque emitidas em seu nome. Cerca de um ano antes, havia registrado um boletim de ocorrência pelo desaparecimento dos cheques e não tinha conhecimento de que a responsável havia sido a própria irmã. Por fim, informou ter ciência de que a acusada se envolveu em fatos semelhantes e que ela chegou a fazer tratamento em razão de sua compulsividade por compras (idem).
+Como se vê, restou bem delineado que a apelante, mediante expediente ardiloso, consistente na entrega de cártulas dadas em garantia, preenchidas sem conhecimento da titular da conta, induziu e manteve a vítima em erro para oferta de crédito, obtendo vantagem em prejuízo alheio.
+ ..
+Nesse contexto, a condenação era mesmo de rigor, não havendo se falar em atipicidade da conduta."
+Como se vê dos trechos acima transcritos, a instância revisora, soberana quanto à análise das provas e dos fatos que instruem o processo, concluiu pela prática do crime de estelionato, tendo se baseado no exame das circunstâncias fáticas colhidas nos autos, especialmente dos depoimentos da vítima e da própria irmã da Condenada, a qual teve as cártulas de cheque furtadas pela Ré para serem apresentadas como garantia de compra no estabelecimento comercial da ofendida.
+Destaca-se, assim, que o Tribunal de origem concluiu que a Agravante, "mediante expediente ardiloso, consistente na entrega de cártulas dadas em garantia, preenchidas sem conhecimento da titular da conta, induziu e manteve a vítima em erro para oferta de crédito, obtendo vantagem em prejuízo alheio" (fl. 281).
+Dessa forma, conforme destacado na decisão impugnada, para se acolher a pretendida absolvição - sob a alegação de que a Agravante não agiu com dolo, não obteve vantagem ilícita e não causou prejuízo à vítima -, seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. ABSOLVIÇÃO. REVOLVIMENTO PROBATÓRIO. IMPOSSIBILIDADE. DOSIMETRIA. PENA-BASE. CULPABILIDADE. CONSEQUÊNCIAS. FUNDAMENTAÇÃO VÁLIDA. AGRAVO IMPROVIDO .
+1. Tendo as instâncias ordinárias concluído pela autoria e materialidade delitiva, porquanto não constatada a hipótese de estelionato, é certo que a reversão das premissas fáticas do acórdão recorrido, para fins de absolvição, demandaria em revolvimento do conjunto fático-probatório, inadmissível na via estreita do writ.
+ ..
+4. Agravo regimental improvido." (AgRg no HC 629.301/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021; sem grifos no original.)
+" ..
+3. "O acolhimento da tese de que o paciente não teria agido com dolo demandaria ampla incursão em matéria fático-probatória a ser devidamente esclarecida no curso da ação penal, não sendo possível a análise nestes autos de habeas corpus, de cognição sumária" (HC n. 477.243/DF, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/4/2019, DJe 7/5/2019).
+ ..
+7. Ordem parcialmente conhecida e, nessa extensão, denegada." (HC 532.052/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020; sem grifos no original.)
+" ..
+1. Além de não se admitir a utilização do writ como sucedâneo de uma segunda apelação dirigida a esta Corte, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem mais a utilização do habeas corpus como substitutivo do meio processual adequado, sejam recursos próprios ou mesmo a revisão criminal, salvo situações excepcionais.
+2. Para acolher a pretensão da defesa de absolvição do ora agravante do crime de estelionato, nos moldes como colocado na impetração, seria necessário reexame de provas, inviável na via eleita.
+ ..
+5. Agravo regimental improvido." (AgRg nos EDcl no HC 507.612/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/06/2019, DJe 18/06/2019; sem grifos no original.)
+" ..
+ESTELIONATO. ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO MANDAMUS. LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO IMPUGNADO. COAÇÃO ILEGAL INEXISTENTE.
+1. A pretendida absolvição do paciente quanto ao crime de estelionato é questão que demanda aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via estreita do remédio constitucional.
+2. No processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não se admitindo no âmbito do habeas corpus a reanálise dos motivos pelos quais a instância ordinária formou convicção pela prolação de decisão repressiva em desfavor do acusado. Precedentes.
+ ..
+2. Habeas corpus não conhecido." (HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; sem grifos no original.)
+Assim, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
