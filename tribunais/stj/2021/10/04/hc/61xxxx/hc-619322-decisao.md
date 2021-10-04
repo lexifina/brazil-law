@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VICTOR HUGO MARTINS DE MELO contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, no HC n. 5441174-12.2020.8.09.0000.
+Consta dos autos que o Paciente foi preso em flagrante, em 14/11/2019, com outro corréu, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão do total de 1,522kg de maconha e 55 comprimidos inteiros e 8 comprimidos fragmentados de ecstasy, avaliados em R$ 13.551,00 (treze milquinhentos e cinquenta e um reais). A prisão foi convertida em preventiva pelo Juízo de primeira instância em 19/11/2019.
+Diante disso, a Defesa impetrou habeas corpus perante o Tribunal a quo, que denegou a ordem.
+Neste writ, a parte Impetrante sustenta a ilegalidade da conversão da prisão em flagrante em preventiva de ofício pelo Juízo de primeira instância.
+Aduz que "as alterações promovidas pela Lei n. 13.964/2019 (Pacote Anticrime) excluíram a possibilidade de decretação de prisão preventiva de ofício pelo magistrado" (fl. 7).
+Requer, liminarmente e no mérito, a imediata soltura do Paciente.
+Indeferi o pedido liminar às fls. 69-72; o de reconsideração foi indeferido àfl. 98.
+As informações foram prestadas às fls. 77-81.
+O Ministério Público Federal opinoupelo não conhecimento dowrit(fls. 83-85).
+É o relatório. Decido.
+Inicialmente, ressalto que a prisão em flagrante do Paciente foi convertida em preventiva em 19/11/2019, antes da vigência da Lei n. 13.964, de 24/12/2019.
+Portanto, em que pese a Terceira Seção do Superior Tribunal de Justiça,em 24/02/2021, no julgamento do RHC 131.263/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, ter fixado a orientação que o novo texto legalnão permite que a prisão em flagrante seja, de ofício, convertida em preventiva, o ato foi corretamente realizado pelo Juízo de primeiro grau, em consonância com a regra procedimental vigente à época, inexistindo constrangimento ilegal a ser sanado.
+Com efeito,as duas Turmas Criminais desta Corte têm entendido que, por serem normas processuais, os arts. 282, § 2.º, e 311, ambos do Código de Processo Penal (com redações dadas pela Lei n. 13.964/2019)não possuemefeito retroativo.A propósito:
+"AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. DECRETAÇÃO DE OFICIO ANTES DA LEI N. 13.964/2019. AUSÊNCIA DE ILEGALIDADE. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. MODUS OPERANDI. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A determinação dos arts. 282, § 2º, e 311 do CPP, imposta pela Lei n. 13.964/2019, de natureza processual, está sob a égide do princípio tempus regit actum, de modo que sua incidência não retroage para atingir atos praticados antes da sua vigência (AgRg no HC n. 643.479/SP, Ministro Felix Fischer, Quinta Turma, DJe 29/3/2021).
+2. De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+3. Presente na decisão guerreada fundamentação idônea suficiente a manter a prisão cautelar, consistente no modus operandi e na gravidade concreta do crime de homicídio qualificado, pois o recorrente, supostamente, matou a vítima, com extrema brutalidade, desferindo nela cerca de 30 facadas, evidenciando sua periculosidade.
+4. Eventuais condições pessoais favoráveis do réu não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva.
+5. Agravo regimental improvido." (AgRg nos EDcl no RHC 124.648/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/06/2021, DJe 21/06/2021; sem grifos no original.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. ART. 34, XVIII, "B", DO RISTJ. HOMICÍDIO QUALIFICADO. PRONÚNCIA. DECRETAÇÃO DA PRISÃO PREVENTIVA. DECISÃO ANTERIOR À VIGÊNCIA DA NORMA. LEI N. 13.964/2019. TEMPUS REGIT ACTUM. NÃO RETROATIVIDADE DA NORMA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO CONFIGURAÇÃO. PANDEMIA. PARALISAÇÃO. IRRESIGNAÇÃO DA DEFESA CONTRA A PRONÚNCIA. PUBLICAÇÃO DA DECISÃO, NOS AUTOS DO ARESP N. 1.807.393/SP, EM 18/2/2021. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O RISTJ, no art. 34, XVIII, "b", dispõe que o Relator pode decidir monocraticamente para "negar provimento ao recurso ou pedido que for contrário a tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda, a jurisprudência dominante sobre o tema"(grifei).
+II - A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante.
+III - Plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral.
+IV - A determinação dos arts. 282, § 2º e 311 do CPP, imposta pela Lei n. 13.964/2019, de natureza processual, está sob a égide do princípio tempus regit actum, de modo que sua incidência não retroage para atingir atos praticados antes da sua vigência.
+ ..
+Agravo regimental desprovido." (AgRg no HC 643.479/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/03/2021, DJe 29/03/2021; sem grifos no original.)
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS.PRISÃO PREVENTIVA DECRETADA EX OFFICIO ANTES DA VIGÊNCIA DA LEI N. 13.964/2019.PRINCÍPIO TEMPUS REGIT ACTUM. IMPOSSIBILIDADE DE RETROAÇÃO DA LEI PROCESSUAL PENAL. NULIDADE INEXISTENTE. ORDEM DENEGADA.
