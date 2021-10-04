@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Juliano Santos Domingos, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo (HC n. 2178706-73.2020.8.26.0000 - fls. 123/129).
+Depreende-se dos autos que o paciente foi preso em flagrante em 28/7/2020 e acusado pela suposta prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006 (45 porções de maconha, com peso líquido de 63,95 g; 200 porções de cocaína na forma de crack, com peso líquido de 39,1 g; e 13 porções de cocaína, com peso líquido de 4,3 g - fl. 125), com prisão convertida em preventiva pelo Juízo de Direito da Vara Plantão da comarca de Mogi das Cruzes/SP na data de 29/7/2020 (Processo n. 1501518-48.2020.8.26.0616 - fls. 90/92).
+Irresignada, a defesa impetrou o HC n. 2178706-73.2020.8.26.000 (fls. 123/136), objetivando a revogação da custódia cautelar, contudo, o Tribunal a quo, por unanimidade, denegou a ordem, nos termos da seguinte ementa (fl. 124):
+"Habeas corpus" hostilizando a prisão preventiva. 1. Prisão cautelar que se mostra necessária para garantia da ordem pública. 2. Prisão que deve ser mantida, mesmo à luz da Recomendação nº 62, do CNJ. 3. Decisão judicial fundamentada. Ordem denegada.
+Sobreveio o presente writ, no qual a Defensoria Pública estadual sustenta constrangimento ilegal suportado pelo ora paciente decorrente de: (i) ausência do periculum libertatis; (ii) ausência dos requisitos legais autorizadores da custódia cautelar, previstos no art. 312 do Código de Processo Penal; (iii) ausência de fundamentação idônea para justificar a decretação e manutenção da prisão preventiva; (iv) prognóstico de aplicação da pena em regime diverso do fechado, na hipótese de condenação e consequente vulneração ao princípio da proporcionalidade; (v) atual cenário de pandemia causada pelo novo coronavírus (Covid-19) e risco de contágio e propagação da doença no interior dos estabelecimentos prisionais, ante a precariedade das condições de estrutura (superpopulação carcerária, pouca ventilação, compartilhamento de bens de uso comum, dificuldade de higienização pessoal e coletiva).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal, com expedição de alvará de soltura em prol do ora paciente.
+Liminar indeferida (fls. 139/141).
+Prestadas as informações (fls. 148/162 e 172/174), o Ministério Público Federal opinou pela denegação da ordem (fls. 177/178).
+É o relatório.
+As informações obtidas no endereço eletrônico da Cortede origem dão conta de que, em 19/7/2021, o Juízo de Direito da 1ª Vara Criminal da comarca de Mogi das Cruzes/SP determinou a imediata expedição de alvará de soltura em favor do ora paciente, em cumprimento da veneranda ordem do egrégio Tribunal, fato que esgota a pretensão contida na presente impetração, dada a alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (arts. 659 do CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMEDE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIENTE EXPEDIÇÃO DO ALVARÁ DE SOLTURA DETERMINADA PELO JUÍZO SINGULAR EM CUMPRIMENTO À ORDEM DO TRIBUNAL A QUO. RELEVANTE ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
