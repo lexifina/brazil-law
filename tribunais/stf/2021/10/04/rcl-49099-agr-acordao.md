@@ -1,0 +1,636 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+04/10/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 49.099 SANTA CATARINA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: CLEITON CRISTIANO RODRIGUES
+: THOMAS EDSON REGIS DE MELO E OUTRO(A/S)
+: NÃO INDICADO
+
+EMENTA: AGRAVO REGIMENTAL NA RECLAMAÇÃO. HIPÓTESE
+DE CONTRADIÇÃO AO ENTENDIMENTO FIRMADO NO ÂMBITO
+DO RECURSO EXTRAORDINÁRIO 603.616 RG/RO (TEMA 280).
+INOCORRÊNCIA. SUPOSTA ILEGALIDADE NA INVASÃO DO
+DOMICÍLIO DO AUTOR. NÃO RECONHECIMENTO. DECLARAÇÃO
+DE NULIDADE E DESENTRANHAMENTO DAS PROVAS DOS
+AUTOS, CASSANDO AS DECISÕES DOS AUTOS ORIGINÁRIOS. NÃO
+CABIMENTO. POSTULAÇÃO QUE NÃO PASSA DE SIMPLES PEDIDO
+DE REVISÃO DO ENTENDIMENTO APLICADO NA ORIGEM. USO
+INADEQUADO DA VIA ELEITA. AUSÊNCIA DE ESTRITA ADERÊNCIA
+ENTRE O ATO IMPUGNADO E O ATO PARADIGMA INVOCADO.
+AGRAVO A QUE SE NEGA PROVIMENTO.
+
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, os Ministros do Supremo
+Tribunal Federal, em Sessão Virtual da Primeira Turma, sob a Presidência
+do Senhor Ministro DIAS TOFFOLI, em conformidade com a ata de
+julgamento e as notas taquigráficas, por unanimidade, acordam em negar
+provimento ao Agravo Regimental, nos termos do voto do Relator.
+Brasília, 4 de outubro de 2021.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 40A3-7292-F546-F6DA e senha A40F-37C0-2E0B-EF7D
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+RCL 49099 AGR / SC
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 40A3-7292-F546-F6DA e senha A40F-37C0-2E0B-EF7D
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+04/10/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 49.099 SANTA CATARINA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: CLEITON CRISTIANO RODRIGUES
+: THOMAS EDSON REGIS DE MELO E OUTRO(A/S)
+: NÃO INDICADO
+RE LAT Ó RI O
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Regimental interposto contra decisão
+monocrática de minha lavra, que negou seguimento à Reclamação, por
+ausência de aderência estrita entre o ato impugnado e o paradigma
+invocado.
+Na inicial, o reclamante alegou, em síntese, que "de início, cabe frisar
+que a Reclamação ajuizada não implica reanálise de fato, pois está apenas
+discutindo a interpretação e a aplicação dos dispositivos constitucionais
+indicados, que indubitavelmente guardam ligação com os fatos comprovados ou
+não pelas provas dos autos.". Alegou, ainda, que "diferente do informado pelos
+agentes de segurança pública, nunca houve consentimento dos proprietários da
+residência para que aqueles pudessem adentrar e efetuar revista no interior da
+casa.". Aduziu que "as leituras das transcrições demonstram que houve abuso
+de autoridade pelos agentes policiais militares, que se valeram da possível
+fragilidade emocional da então acusada Eliane Pranger e por via de pressão
+psicológica fizeram com que ela os levasse até as residências. As declarações dos
+policiais são unânimes ao afirmar que conversaram somente com a acusada e esta
+foi quem os levou até as residências. Existe a clareza que a ação penal se originou
+da possível prática do delito previsto no artigo 155, parágrafo 4º, incisos I e IV do
+Código Penal, bem como os objetos tidos como furtados pela suposta vítima foram
+recuperados antes dos policiais militares adentrarem na residência do autor, ou
+seja, foram recuperados dentro do veículo e na primeira residência, não houve
+qualquer objeto encontrado na segunda residência.". Argumenta, ainda, que "o
+caderno investigativo colacionado ao processo, bem como a instrução processual
+deixam claro que nunca houve investigação ou indícios suficientes de que o
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B84-9B87-0D20-8938 e senha 0ADA-D407-57B0-48D6
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+RCL 49099 AGR / SC
+Autor fosse possuidor de arma de fogo. As declarações dos policiais quando
+confrontadas as prestadas na fase policial com as da fase judicial demonstram que
+houve uma mudança brusca no relato quando o assunto é a arma de fogo. [...]
+Assim, sendo uníssonas as declarações da existência de agressão psicológica dos
+policiais militares para com a esposa do recorrente a Senhora Eliane Pranger, bem
+como não haver elementos demonstrativos da suspeição da ocorrência de suposto
+crime permanente de posse de arma de fogo, não há alternativa além de constatar
+ter havido grave afronta ao Princípio da Dignidade da Pessoa Humana, mais
+específico ao artigo 5º, inciso XI da CRFB/88, com o escopo único de violar o
+domicílio do casal.".
+Portanto, requereu, "a suspensão dos autos originários até o trânsito em
+julgado da presente Reclamação. O reconhecimento da ilegalidade na invasão do
+domicílio do autor, declarando a nulidade e desentranhamento das provas dos
+autos, cassando destarte as decisões dos autos originários que estão em nítida
+afronta ao entendimento jurisprudencial sedimentado pela Suprema Corte.". Por
+decisão monocrática, neguei seguimento à Reclamação.
+Neste recurso, a defesa do agravante volta a sustentar os argumentos
+de que "sendo uníssonas as declarações da existência de agressão psicológica dos
+policiais militares para com a esposa do Recorrente a senhora Eliane Pranger,
+bem como não haver elementos demonstrativos da suspeição da ocorrência de
+suposto crime permanente de posse de arma de fogo, não há alternativa além de
+constatar ter havido grave afronta ao Princípio da Dignidade da Pessoa Humana,
+mais específico ao artigo 5º, inciso XI da CRFB/88, com escopo único de violar o
+domicílio do casal.".
+Requer, assim, "o conhecimento e provimento do recurso para que seja
+levado ao órgão colegiado superior a Reclamação Constitucional, nos termos do
+artigo 39, da Lei 8.038/90, sendo conhecida e provida para que se declare a
+ilegalidade na invasão do domicílio do Autor, declarando a nulidade e
+desentranhamento das provas dos autos, cassando destarte as decisões dos autos
+originários que estão em nítida afronta ao entendimento jurisprudencial
+sedimentado pela Suprema Corte.".
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B84-9B87-0D20-8938 e senha 0ADA-D407-57B0-48D6
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+04/10/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 49.099 SANTA CATARINA
+VOTO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Não há reparo a fazer, pois o agravo interno não apresentou
+qualquer argumento apto a desconstituir os fundamentos apontados,
+pelo que se reafirma o seu teor.
+A respeito do cabimento da Reclamação para o SUPREMO
+TRIBUNAL FEDERAL, dispõem o art. 102, I, "l", e o art. 103-A, caput e §3º,
+ambos da Constituição Federal:
+Art. 102. Compete ao Supremo Tribunal Federal,
+precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+l) a reclamação para a preservação de sua competência e
+garantia da autoridade de suas decisões;
+Art. 103-A. O Supremo Tribunal Federal poderá, de ofício
+ou por provocação, mediante decisão de dois terços dos seus
+membros, após reiteradas decisões sobre matéria constitucional,
+aprovar súmula que, a partir de sua publicação na imprensa
+oficial, terá efeito vinculante em relação aos demais órgãos do
+Poder Judiciário e à administração pública direta e indireta, nas
+esferas federal, estadual e municipal, bem como proceder à sua
+revisão ou cancelamento, na forma estabelecida em lei.
+[...]
+§3º Do ato administrativo ou decisão judicial que
+contrariar a súmula aplicável ou que indevidamente a aplicar,
+caberá reclamação ao Supremo Tribunal Federal que, julgandoa procedente, anulará o ato administrativo ou cassará a decisão
+judicial reclamada, e determinará que outra seja proferida com
+ou sem a aplicação da súmula, conforme o caso.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+RCL 49099 AGR / SC
+Veja-se também o art. 988, I, II, III e IV, do Código de Processo Civil:
+Art. 988. Caberá reclamação da parte interessada ou do
+Ministério Público para:
+I – preservar a competência do tribunal; II – garantir a
+autoridade das decisões do tribunal;
+III – garantir a observância de enunciado de súmula
+vinculante e de decisão do Supremo Tribunal Federal em
+controle concentrado de constitucionalidade;
+IV – garantir a observância de acórdão proferido em
+julgamento de incidente de resolução de demandas repetitivas
+ou de incidente de assunção de competência.
+
+O parâmetro invocado é o RE 603.616/RO (Tema 280), cuja tese foi
+fixada pelo Plenário desta CORTE nos seguintes termos:
+A entrada forçada em domicílio sem mandado judicial só é
+lícita, mesmo em período noturno, quando amparada em
+fundadas razões, devidamente justificadas a posteriori, que
+indiquem que dentro da casa ocorre situação de flagrante
+delito, sob pena de responsabilidade disciplinar, civil e penal do
+agente ou da autoridade, e de nulidade dos atos praticados
+
+A defesa busca nesta Reclamação "o reconhecimento da ilegalidade na
+invasão do domicílio do autor, declarando a nulidade e desentranhamento das
+provas dos autos, cassando destarte as decisões dos autos originários que estão
+em nítida afronta ao entendimento jurisprudencial sedimentado pela Suprema
+Corte.". Ocorre que, o Tribunal de Justiça do Estado de Santa Catarina, ao
+julgar a apelação interposta pelo reclamante, decidiu:
+[...]
+2. Recurso interposto pelo réu Cleiton
+Por sua vez, a Defesa de Cleiton pleiteou o
+reconhecimento da prova ilícita com a consequente absolvição
+pelo delito previsto no art. 12 da Lei n. 10.826/2003, sob a
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+RCL 49099 AGR / SC
+justificativa de que a apreensão da arma de fogo ocorreu após
+os Policiais Militares ingressarem em sua residência sem a sua
+autorização ou de sua esposa, em flagrante violação ao
+domicílio.
+Razão, contudo, não lhe assiste.
+É cediço que a Constituição Federal de 1988, em seu art. 5º,
+XI, assegura a casa como asilo inviolável do indivíduo,
+"ninguém nela podendo penetrar sem consentimento do morador,
+salvo em caso de flagrante delito ou desastre, ou para prestar socorro,
+ou, durante o dia, por determinação judicial".
+Sobre o flagrante delito, com exceção à garantia
+fundamental admitida pela redação constitucional, dispõe o art.
+302 do Código de Processo Penal:
+Art. 302. Considera-se em flagrante delito quem:
+I - está cometendo a infração penal;
+II - acaba de cometê-la;
+III - é perseguido, logo após, pela autoridade, pelo
+ofendido ou por qualquer pessoa, em situação que faça
+presumir ser autor da infração;
+IV - é encontrado, logo depois, com instrumentos,
+armas, objetos ou papéis que façam presumir ser ele
+autor da infração. (grifou-se).
+Ainda sobre o tema, Guilherme de Souza Nucci elucida:
+Contitui-se na situação do agente que, logo depois da
+prática do crime, embora não tenha sido perseguido, é
+encontrado portando instrumentos, armas, objetos ou
+papéis que demonstrem, por presunção, ser ele o autor da
+infração penal. É o que comumente ocorre nos crimes
+patrimoniais quando a vítima comunica à polícia a
+ocorrência de um roubo e a viatura sai pelas ruas do
+bairro à procura do carro subtraído, por exemplo. (in
+Código de processo penal comentado. 13. ed., Rio de
+Janeiro: Editora Forense, 2014, p. 674).
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+RCL 49099 AGR / SC
+
+No presente caso, denota-se dos depoimentos prestados
+pelos Policiais Militares Louzar, Jean Carlos e Gilberto, que,
+após receberem a informação sobre o veículo envolvido no
+crime, monitoraram a região e lograram êxito na prisão em
+flagrante dos acusados no interior do mencionado automóvel,
+isto é, em uma situação de flagrante delito.
+Por essas razões, não há falar em violação de domicílio,
+mormente porque o ingresso nas residências dos denunciados
+foi amparado pela anuência da ré Eliane que, voluntariamente,
+forneceu a localização dos imóveis.
+Portanto, afasta-se a pretensão formulada por Cleiton.
+Ante o exposto, vota-se no sentido de conhecer dos
+recursos e negar-lhes provimento.
+Este é o voto
+
+É de se ver que a postulação não passa de simples pedido de revisão
+do entendimento aplicado na origem, o que confirma a inviabilidade
+desta ação. Esta CORTE já teve a oportunidade de afirmar que a
+Reclamação tem escopo bastante específico, não se prestando ao papel de
+simples substituto de recursos de natureza ordinária ou extraordinária
+(Rcl 6.880-AgR/SP, Rel. Min. CELSO DE MELLO, Plenário, DJe de
+22/2/2013).
+Assim, por serem estranhos às hipóteses de cabimento da
+Reclamação, os pedidos formulados pelo reclamante não poderão ser
+conhecidos na via reclamatória, consoante entendimento reiterado desta
+SUPREMA CORTE (Rcl 30.343/SP, Min. GILMAR MENDES, DJe de
+14/06/2018; Rcl 28.178 AgR/RS, Rel. Min. LUIZ FUX, Primeira Turma, DJe
+de 12/06/2018 e Rcl 29.956/PE, Rel. Min. ROSA WEBER, DJe de
+30/05/2018).
+Logo, ausente a estrita aderência entre o ato impugnado e os
+paradigmas invocados, consoante entendimento reiterado desta CORTE
+(Rcl 29.590/SP, Rel. Min. ALEXANDRE DE MORAES, DJe de 19/06/2018;
+Rcl 27.890/SP, Rel. Min. DIAS TOFFOLI, DJe de 21/09/2017; Rcl 18.946/SP,
+Rel. Min. LUIZ FUX, DJe de 05/11/2014 e Rcl 17.108 AgR/SP, Rel. Min.
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+RCL 49099 AGR / SC
+TEORI ZAVASCKI, DJe de 01/07/2014), inviável a análise desta
+Reclamação.
+Ora, o instituto da Reclamação, cuja finalidade tem previsão
+constitucional taxativa, não "pode ser utilizado como um (inadmissível) atalho
+processual destinado a permitir, por razões de caráter meramente pragmático, a
+submissão imediata do litígio ao exame direto do Supremo Tribunal Federal" (Rcl
+4.381 AgR/RJ, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de
+5/8/2011).
+Por outro lado, consta que o RE interposto pelo reclamante foi
+inadmitido com amparo no que esta CORTE estabeleceu no referido
+leading case, oportunidade em que foi fixada tese nos termos da seguinte
+ementa:
+Recurso extraordinário representativo da controvérsia.
+Repercussão geral. 2. Inviolabilidade de domicílio – art. 5º, XI,
+da CF. Busca e apreensão domiciliar sem mandado judicial em
+caso de crime permanente. Possibilidade. A Constituição
+dispensa o mandado judicial para ingresso forçado em
+residência em caso de flagrante delito. No crime permanente, a
+situação de flagrância se protrai no tempo. 3. Período noturno.
+A cláusula que limita o ingresso ao período do dia é aplicável
+apenas aos casos em que a busca é determinada por ordem
+judicial. Nos demais casos – flagrante delito, desastre ou para
+prestar socorro – a Constituição não faz exigência quanto ao
+período do dia. 4. Controle judicial a posteriori. Necessidade de
+preservação da inviolabilidade domiciliar. Interpretação da
+Constituição. Proteção contra ingerências arbitrárias no
+domicílio. Muito embora o flagrante delito legitime o ingresso
+forçado em casa sem determinação judicial, a medida deve ser
+controlada judicialmente. A inexistência de controle judicial,
+ainda que posterior à execução da medida, esvaziaria o núcleo
+fundamental da garantia contra a inviolabilidade da casa (art. 5,
+XI, da CF) e deixaria de proteger contra ingerências arbitrárias
+no domicílio (Pacto de São José da Costa Rica, artigo 11, 2, e
+Pacto Internacional sobre Direitos Civis e Políticos, artigo 17, 1).
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+RCL 49099 AGR / SC
+O controle judicial a posteriori decorre tanto da interpretação
+da Constituição, quanto da aplicação da proteção consagrada
+em tratados internacionais sobre direitos humanos
+incorporados ao ordenamento jurídico. Normas internacionais
+de caráter judicial que se incorporam à cláusula do devido
+processo legal. 5. Justa causa. A entrada forçada em domicílio,
+sem uma justificativa prévia conforme o direito, é arbitrária.
+Não será a constatação de situação de flagrância, posterior ao
+ingresso, que justificará a medida. Os agentes estatais devem
+demonstrar que havia elementos mínimos a caracterizar
+fundadas razões (justa causa) para a medida. 6. Fixada a
+interpretação de que a entrada forçada em domicílio sem
+mandado judicial só é lícita, mesmo em período noturno,
+quando amparada em fundadas razões, devidamente
+justificadas a posteriori, que indiquem que dentro da casa
+ocorre situação de flagrante delito, sob pena de
+responsabilidade disciplinar, civil e penal do agente ou da
+autoridade e de nulidade dos atos praticados. 7. Caso concreto.
+Existência de fundadas razões para suspeitar de flagrante de
+tráfico de drogas. Negativa de provimento ao recurso. (RE
+603.616, Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de
+10/5/2016).
+
+No caso em tela, a negativa de seguimento ao Recurso
+Extraordinário interposto pela defesa ocorreu nos seguintes termos:
+[...]
+É o relatório.
+De plano, adianta-se que o Recurso Extraordinário não
+reúne condições de ascender à Corte de destino.
+A defesa alegou ofensa ao art. 5º, XI, e LVI, da
+Constituição da República, porque, a seu ver, a entrada dos
+policiais em sua residência ocorreu mediante violação de
+domicílio.
+Diante disso, requereu a declaração de ilegalidade da
+prova obtida por meio ilícito, e por consequência, a absolvição
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+RCL 49099 AGR / SC
+do recorrente.
+Todavia, o tópico ora suscitado integra uma
+multiplicidade de recursos fundados em idêntica questão de
+direito, qual seja, "Provas obtidas mediante invasão de domicílio por
+policiais sem mandado de busca e apreensão", com reconhecimento
+da repercussão geral da questão constitucional invocada
+(TEMA 280/STF).
+Nesse passo, no julgamento do RE 603.616/RO, de
+relatoria do Min. Gilmar Mendes, sob a sistemática da
+repercussão geral, o Supremo Tribunal Federal adotou a
+seguinte tese: “A entrada forçada em domicílio sem mandado judicial
+só é lícita, mesmo em período noturno, quando amparada em fundadas
+razões, devidamente justificadas a posteriori, que indiquem que dentro
+da casa ocorre situação de flagrante delito, sob pena de
+responsabilidade disciplinar, civil e penal do agente ou da autoridade,
+e de nulidade dos atos praticados".
+Cita-se a ementa do acórdão paradigma:
+[...]
+In casu, verifica-se que a conclusão exarada no acórdão
+impugnado está em consonância com aquela firmada pelo STF
+no julgamento do RE n. 606.616/RO (TEMA 280/STF),
+porquanto bem registrado que "não há falar em violação de
+domicílio, mormente porque o ingresso nas residências dos
+denunciados foi amparado pela anuência da ré Eliane que,
+voluntariamente, forneceu a localização dos imóveis" (evento 44).
+Portanto, estando o aresto combatido em conformidade
+com a jurisprudência da Corte destinatária em regime de
+repercussão geral, aplica-se à hipótese, novamente, o disposto
+no art. 1.030, I, "a", no CPC/15, para negar seguimento ao
+reclamo (TEMA 280/STF).
+Ante o do exposto, com fulcro no art. 1.030, I, "a", do
+Código de Processo Civil, nega-se seguimento ao Recurso
+Extraordinário, em atenção ao TEMA 280 do STF.
+Publique-se e intimem-se.
+
+Contra essa decisão, a defesa interpôs o Agravo Interno, que foi
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+RCL 49099 AGR / SC
+negado pelo Tribunal de Justiça do Estado de Santa Catarina, consoante a
+seguinte ementa:
+AGRAVO DO ART. 1.042 DO CPC INTERPOSTO
+CONTRA DECISÃO QUE NEGOU SEGUIMENTO A
+RECURSO EXTRAORDINÁRIO, COM FULCRO NO ART.
+1.030, I, "A", DO MESMO CÓDIGO. CABIMENTO DO
+AGRAVO INTERNO, PREVISTO NO ART. 1.021 DO
+REFERIDO DIPLOMA LEGAL. AUSÊNCIA DE DÚVIDA
+OBJETIVA QUANTO AO RECURSO CABÍVEL. ERRO
+GROSSEIRO
+CONFIGURADO.
+INVIABILIDADE
+DE
+ADOÇÃO DA FUNGIBILIDADE RECURSAL. RECLAMO
+NÃO CONHECIDO.
+"A decisão que nega seguimento a recurso extraordinário
+com base na aplicação da sistemática da repercussão geral
+desafia o agravo do art. 1.021 do CPC/2015, e não o do art. 1.042
+do mesmo Códex, configurando-se erro grosseiro a interposição
+de um pelo outro" (TJSC, Recurso Extraordinário com Agravo
+n. 0337925-54.2014.8.24.0023, da Capital, rel. Des. 2º VicePresidente, Câmara de Recursos Delegados, j. 2-8-2019).
+
+A propósito, o inteiro teor do julgado:
+[...]
+1. A 2ª Vice-Presidência, fundada em precedente do
+Supremo Tribunal Federal, firmado sob a sistemática da
+repercussão geral (RE n. 606.616/RO – Tema 280/STF), negou
+seguimento a recurso extraordinário interposto pela parte ora
+agravante, nos termos do art. 1.030, inciso I, alínea "a", do CPC
+(Evento 86).
+De antemão, necessário consignar: o presente recurso não
+deve ser conhecido. Isso porque a ferramenta recursal cabível
+contra decisão que aplica a sistemática dos recursos repetitivos
+ou da repercussão geral é a prevista no art. 1.021 do Código de
+Processo Civil, e não a do art. 1.042 do mesmo diploma legal,
+configurando-se erro grosseiro a interposição de uma pela
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+RCL 49099 AGR / SC
+outra.
+A propósito do tema, leciona Humberto Theodoro Júnior:
+[...]
+Com efeito, não há dúvida jurídica sobre qual dos dois
+recursos é cabível, porque o Código de Processo Civil de 2015
+apresenta regramento suficientemente claro acerca do tema,
+distinguindo perfeitamente as duas situações.
+A respeito, confira-se elucidativa decisão monocrática, da
+lavra do Min. Luiz Fux, exarada em caso análogo:
+[...]
+A mais disso, mister registrar que o Pretório Excelso tem
+orientado no sentido da inexistência de usurpação de
+competência nas hipóteses em que o Tribunal de origem não
+conhece diretamente do agravo erroneamente manejado contra
+a decisão que analisou o recurso extraordinário à luz da
+sistemática dos recursos repetitivos.
+Nesse horizonte, veja-se:
+[...]
+Desse modo, reitera-se: o presente agravo não logra
+ultrapassar o juízo de admissibilidade.
+2. Por todo o exposto, voto no sentido de não conhecer do
+recurso.
+
+Ora, verifica-se a plena conformidade do caso reclamado com as
+balizas estabelecidas no indigitado precedente vinculante.
+O entendimento adotado pelo SUPREMO TRIBUNAL FEDERAL
+impõe que os agentes estatais devem permear suas ações, em tais casos,
+motivadamente e com base em elementos probatórios mínimos que
+indiquem a ocorrência de situação de flagrante. A justa causa, portanto,
+não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a
+respeito.
+No caso de que se trata, o Tribunal de Justiça do Estado de Santa
+Catarina demonstrou, de forma clara e precisa, as fundadas razões que
+recomendaram o ingresso dos policiais no local dos fatos, uma vez que "a
+conclusão exarada no acórdão impugnado está em consonância com aquela
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+RCL 49099 AGR / SC
+firmada pelo STF no julgamento do RE n. 606.616/RO (TEMA 280/STF),
+porquanto bem registrado que não há falar em violação de domicílio, mormente
+porque o ingresso nas residências dos denunciados foi amparado pela anuência da
+ré Eliane que, voluntariamente, forneceu a localização dos imóveis (evento 44).".
+Assim, a existência da justa causa para o ingresso no domicílio
+estando "em conformidade com a jurisprudência da Corte destinatária em
+regime de repercussão geral, aplica-se à hipótese, novamente, o disposto no art.
+1.030, I, a, no CPC/15, para negar seguimento ao reclamo (TEMA 280/STF).".
+Esta é a orientação que vem sendo adotada pelo SUPREMO
+TRIBUNAL FEDERAL em julgados recentes (HC 201.874 AgR/SP, Rel.
+Min. EDSON FACHIN, DJe de 30/06/2021; HC 202.040 MC/RS, Rel. Min.
+NUNES MARQUES, DJe de 11/06/2021; RHC 201.112/SC, Rel. Min.
+NUNES MARQUES, DJe de 28/05/2021; HC 202.344/MG, Rel. Min. ROSA
+WEBER, DJe de 28/05/2021; RE 1.305.690/RS, Rel. Min. ROBERTO
+BARROSO, DJe de 26/03/2021; RE 1.170.918/RS, Rel. Min. ALEXANDRE
+DE MORAES, DJe de 03/12/2018), da qual destaco o RHC 181.563/BA, Rel.
+Min. CÁRMEN LÚCIA, DJe de 24/03/2020, que registrou:
+O crime de tráfico é permanente e, portanto, a busca
+domiciliar no imóvel não configura contrariedade ao inc. XI do
+art. 5º da Constituição da República. No caso dos autos, há,
+ainda, a notícia judicialmente adotada pelo Tribunal de origem
+de que "...constata-se que agentes policiais, após receberem
+denúncias sobre a ocorrência de tráfico de drogas, apontando a
+alcunha e o endereço do recorrente, empreenderam diligências
+a fim de averiguar o quanto informado e lograram surpreendêlo com excessiva quantidade de maconha, tendo,
+posteriormente, com o consentimento do réu, consoante extraise do seu próprio interrogatório, dirigido até sua residência,
+local onde encontraram mais drogas" (grifos nossos).
+
+Deste modo, não há qualquer ilegalidade na ação dos policiais, as
+fundadas razões para a entrada dos policiais no domicílio tendo sido
+devidamente justificadas no curso do processo, em correspondência com
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+RCL 49099 AGR / SC
+o entendimento da CORTE no RE 603.616/RO, Rel. Min. GILMAR
+MENDES, Tribunal Pleno, DJe de 10/5/2016.
+Em conclusão, não há reparo a fazer no entendimento aplicado, pois
+o agravo interno não apresentou qualquer argumento apto a desconstituir
+os fundamentos apontados.
+Diante do exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2E7E-115C-BD6E-E32C e senha 53EC-75C6-0DB7-A402
+
+Supremo Tribunal Federal
+Extrato de Ata - 04/10/2021
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NA RECLAMAÇÃO 49.099
+PROCED. : SANTA CATARINA
+RELATOR : MIN. ALEXANDRE DE MORAES
+AGTE.(S) : CLEITON CRISTIANO RODRIGUES
+ADV.(A/S) : THOMAS EDSON REGIS DE MELO (42140/SC) E OUTRO(A/S)
+AGDO.(A/S) : NÃO INDICADO
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Primeira Turma, Sessão
+Virtual de 24.9.2021 a 1.10.2021.
+Composição: Ministros Dias Toffoli (Presidente), Cármen Lúcia,
+Rosa Weber, Luís Roberto Barroso e Alexandre de Moraes.
+
+Luiz Gustavo Silva Almeida
+Secretário da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 15B5-CDE4-9F39-AA30 e senha A2A7-E63F-686C-AC34
