@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Luis Rodrigo Lopes Alves Ferreira contra o entendimento firmado, pelo Tribunal de Justiça de São Paulo, no acórdão dos embargos de declaração do Incidente de Resolução de Demandas Repetitivas n.2103746-20.2018.8.26.0000.
+Consta dos autos que o Juízo da Execução Criminal - DEECRIM 2ª RAJ - da comarca de Araçatuba/SP, ao atualizar o cálculo de penas do reeducando, considerou como data-base para futuros benefícios a data em que implementado o último requisito (objetivo ou subjetivo) (PEC n. 0003742-97.2019.8.26.0509).
+Aduz-se que o Juízo da execução se posicionoude acordo e alinhado ao atualposicionamento da Turma Especial Criminal do Tribunal de Justiça de São Paulo, firmado no acórdão dos embargos de declaração do Incidente de Resolução de Demandas Repetitivas n.2103746-20.2018.8.26.0000, datado de 13/10/2020, que determinou que a data-base para a concessão da progressão ao regime aberto seja a data em que os condenados, tenham de fato comprovado o preenchimento do requisito subjetivo ( data da realização do exame criminológico) e que portanto, de acordo com este entendimento o ora Paciente atingirá o lapso (requisito objetivo), somente em 3/2/2022 (fl. 5).
+Salienta-se, ainda, quea defesa do ora pacientesó não ingressou com um recurso (agravo de execução e/ou habeas corpus), diretamente a 2ª instância, qual seja o TJSP, por ser este o entendimento majoritário e firmado no acórdão dos embargos de declaração do Incidente de Resolução de Demandas Repetitivas nº 2103746- 20.2018.8.26.0000, datado de 13/10/2020. Motivo pelo qual, entendeu-se por bem, em ingressar com a presente ordem de habeas corpus, junto a este Colendo Superior Tribunal (fl. 5).
+Por fim, pugna-se pela concessão da ordempara que sedetermine que o cartório do eg. DEECRIM da 9ª RAJ de São Jose dos Campos, realize um novo cálculo de penas do ora paciente, estabelecendo que marco inicial para a subsequente progressão seja 15.08.2020 (data em que o paciente efetivamente cumpriu os requisitos legais) e não em 02.02.2021 (data que realizou o exame criminológico), como entendido pelo o MM Juiz de primeiro grau (fl. 6).
+Informações prestadas pelo Tribunal de origem esclarecendo que não foram encontrados recursos interpostos pelo paciente no âmbito daquela Corte (fls. 201/208).
+O Ministério Público Federal opina pelo não conhecimento do writ ou pela denegação da ordem (fls. 212/221).
+É o relatório.
+O writ não comporta seguimento.
+Infere-se dos autos que a tese suscitada pela defesa - alteração da data-base para fins de progressão de regime- não foi apreciada pelo Tribunal de origem, uma vez que não foi interposto recurso no âmbito daquela Corte.
+Assim, se o Tribunal a quo nem sequer se manifestou acerca da questão ora suscitada, fica impedida esta Corte Superior de proceder à sua análise, sob pena de incorrer em indevida supressão de instância.
+Confiram-se, entre vários, o HC n. 584.762/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 12/2/2021;e o AgRg no RHC n. 111.659/RN, da minha relatoria, Sexta Turma, DJe 7/10/2019.
+De mais a mais, importante esclarecer que, consoante orientação jurisprudencial desta Corte Superior de Justiça não cabe habeas corpus contra ato normativo em tese, como o ora impugnadoIncidente de Resolução de Demandas Repetitivas n.2103746-20.2018.8.26.0000. Nesse sentido, o acórdão que não informa aprecisa indicação de atos concretos e específicos inviabiliza, processualmente, o conhecimento da ação constitucional de habeas corpus.
+Pelo exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE. MATÉRIA NÃO ENFRENTADA PELA INSTÂNCIA A QUO. SUPRESSÃO DE INSTÂNCIA. WRIT CONTRA ATO ABSTRATO. INVIABILIDADE.
+Writ não conhecido.
