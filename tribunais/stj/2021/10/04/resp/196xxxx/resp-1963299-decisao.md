@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JSANTA ODETE EMPREENDIMENTOS IMOBILIARIOS LTDA e OUTRA fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em:16/12/2019.
+Concluso ao gabinete em:01/10/2021.
+Ação:indenizatóriaajuizada por JOSIMAR SOUZA DOS SANTOS em face de JSANTA ODETE EMPREENDIMENTOS IMOBILIARIOS LTDA E OUTRA,em razão de atraso na entrega de imóvel.
+Sentença:julgou parcialmente procedentes a ação.
+Acórdão:negou provimento às apelações interpostas porJOSIMAR SOUZA DOS SANTOS e JSANTA ODETE EMPREENDIMENTOS IMOBILIARIOS LTDA E OUTRA,nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. COMPRA E VENDA. Ação de obrigação de fazer cumulada com indenização. Recurso interposto por ambas as partes em face de sentença de parcial procedência, para condenar a ré: "a) danos materiais, consistente no recebimento de 0,5% do valor do contrato, corrigido mês a mês e a partir de dezembro de 2011, com juros de mora tirados da citação, até efetiva imissão na posse; b) aplicação do INCC até novembro de 2011, passando a partir daí para o IGPM, até efetiva entrega do imóvel; c) danos morais, no valor de vinte mil reais, atualizável a partir da sentença e com juros de mora tirados da citação;
+devolução de taxas de condomínio antes da entrega das chaves ou a declaração de sua inexigibil idade, antes dessa entrega; d) tornar definitiva a liminar para impor obrigação de entregar as chaves e o imóvel; e) restituir taxa de condomínio eventualmente paga antes da entrega das chaves ou declarar inexigível a taxa de condomínio antes dessa entrega." DESPESAS CONDOMINIAIS exigidas antes da imissão na posse devem ficar a cargo da vendedora. Orientação do Superior Tribunal de Justiça neste sentido.
+ATRASO NA ENTREGA DO IMÓVEL. Ocorrência. Obra não concluída no prazo contratual. Alegações de escassez de mão de obra e materiais que encerram"res inter alios acta" em relação ao compromissário adquirente. Aplicação da Súmula nº 161 deste Tribunal.
+LUCROS CESSANTES. Descumprido o prazo para a entrega do imóvel objeto do compromisso de venda e compra, é cabível a condenação da vendedora por lucros cessantes, havendo a presunção de prejuízo do adquirente, ainda que não demonstrada a finalidade negocia) da transação. Aplicação da Súmula nº 162 deste Tribunal.. Tese nº OS do IRDR Tema nº 04 deste Tribunal confirmada pelo STJ no julgamento do REsp nº 1.729.593/SP (Tema 996).
+CLÁUSULA PENAL. Possibilidade, em tese, de inversão da multa contratual prevista exclusivamente para a hipótese de atraso do adquirente no pagamento do preço do imóvel. Impossibilidade, contudo, de cumulação da cláusula penal moratória com lucros
+cessantes já arbitrados no caso em tela. Teses fixadas pelo Colendo Superior Tribunal de Justiça, em julgamento de recursos especiais repetitivos (Temas nº 970 e 971). Não acolhimento do recurso , nesse aspecto.
+DANOS MORAIS. Indenização decorrente da negativação indevida que impediu o financiamento para pagamento do saldo devedor pelo comprador . Ré que em sua apelação apresenta razões dissociadas da r. sentença . Recurso da ré não conhecido quanto ao ponto.
+Sentença confirmada. Honorários majorados. NEGADO PROVIMENTO AOS RECURSOS, NA PARTE CONHECI DA. ". (fls. 281/282, e-STJ).
+Recurso especial:alega violação dos arts. 107, 421, 422, 844 e 944 do CC/02e 373, I, 485, VI, do CPC/2015.
+Sustenta,em síntese: i)a ilegitimidade passiva para o pagamento de despesas condominiais, pois contratualmente, são de responsabilidade do adquirente; ii) a autonomia da vontade das partes na celebração do contrato para se manter a correção de saldo residual conforme estipulado, pelo INCC; iii) a inexistência de danos materiais (lucros cessantes), poishaveria justo motivo para o atraso na entrega do empreendimento, em razão da ocorrência de fato de terceiro, caso fortuito externo e força maior e de não ter sido provado o prejuízo no atraso da entrega do imóvel; iv) a inexistência de danos morais indenizáveis em decorrência do atraso na entrega do imóvel; e v) que a incidência dos juros de mora sobre os lucros cessantes incidam a partir do trânsito em julgado da decisão e não da citação.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/2015
+1. Das despesas condominiais e IPTU (Súmula 568/STJ)
+Inicialmente, quanto à responsabilidade pelas despesas condominiais e IPTU, as duas Turmas de Direito Privado do STJ entendem que "as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de ter o IPTU como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse" (AgInt nos EDcl no REsp 1839792/RJ, 3ª Turma, DJe de 17/08/2020).
+Ainda nesse sentido: AgInt no REsp 1829925/SP, 4ª Turma, DJe de 23/02/2021.
+Na hipótese sob julgamento, o Tribunal de origem decidiu o seguinte:
+"Não há que se falar em ilegitimidade quanto ao pleito relativo à taxa condominial, visto que a obrigação foi repassada pela ré ao comprador no instrumento contratual de forma abusiva.
+Com efeito, a orientação jurisprudencial, notadamente do Colendo Superior Tribunal de Justiça, é no sentido de que a responsabilidade do comprador pelas despesas condominiais somente se inicia quando é imitido na posse do bem." (fl. 285, e-STJ).
+Diante da consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ.
+2. Dos lucros cessantes (Súmula 568/STJ)
+Em relação aos lucros cessantes, a 2ª Seção desta Corte Superior entende que "o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador". Assim, seria devida a indenização por lucros cessantes no período de atraso na entrega do imóvel, contado até o ingresso na posse do bem (EREsp 1341138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 22/05/2018).
+No mesmo sentido, as duas Turmas de Direito Privado do STJ entendem que é cabível a condenação ao pagamento de lucros cessantes nos casos de descumprimento do prazo para entrega de imóvel objeto de compromisso de compra e venda, presumindo-se o prejuízo do promitente comprador. Nesse sentido: AgInt no REsp 1783184/RJ, 3ª Turma, DJe de 27/09/2019; e AgInt no AREsp 970.022/MG, 4ª Turma, DJe de 12/09/2019.
+Na hipótese, o Tribunal de origem entendeu que, diante do descumprimento do prazo para entrega do imóvel, é cabível a condenação por lucros cessantes, havendo a presunção de prejuízo do adquirente, independentemente da finalidade do negócio (fls. 287/288, e-STJ), em consonância com o entendimento dominante sobre o tema nesta Corte.
+Quanto ao termo inicial dos juros moratórios, o TJ/SP aplicou corretamente a jurisprudência do STJ no sentido de que a citação é o marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual (EREsp 1.341.138/SP, 2ª Seção, DJe de 22/5/2018).
+Logo, nesse ponto, o recurso especial não merece provimento, com base na Súmula 568/STJ.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+3. Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca da tese atinente à autonomia da vontade das partes na celebração do contrato para se manter a correção de saldo residual conforme estipulado, pelo INCC, indicada como razão recursal. Por isso, o julgamento do recurso especial, na espécie, é inadmissível. Aplica-se, no ponto, a Súmula 282/STF.
+4. Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da configuração de danos morais indenizáveis, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados em 3% sobre o valor da condenação devidos pelorecorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃOINDENIZATÓRIA. ATRASO NA ENTREGA DE IMÓVEL. DESPESAS CONDOMINIAIS E IPTU. LUCROS CESSANTES. JUROS MORATÓRIOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. CORREÇÃO DE SALDO RESIDUAL.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DANOS MORAIS.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Açãoindenizatória, ajuizada em razão de atraso na entrega de imóvel.
+2. As despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de ter o IPTU como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse. Precedentes.
+3.O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Precedente.
+4.A citação é o termo inicial para a incidência dos juros de mora, no caso de responsabilidade contratual. Precedente.
+5. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+6. A ausência de decisão acerca da tese indicada como razão recursal,impede o conhecimento do recurso especial.
+7. O reexame de fatos e provas em recurso especial éinadmissível.
+8. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
