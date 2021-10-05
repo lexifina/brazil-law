@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto peloESTADO DO RIO GRANDE DO SUL contra decisãodo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que não admitiu o recurso especial com amparo na suficiência do acórdão recorrido e na falta do interesse recursal.
+Impugnado especificamente odecisum, passo à análise do apelo nobre.
+O recurso especial foi interposto, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição da República, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. ADMINISTRATIVO. SERVIDOR PÚBLICO. VALE-REFEIÇÃO. LEI ESTADUAL Nº. 10.002/93. PRECEDENTE DO STF. UNIFORMIZAÇÃO DE JURISPRUDÊNCIA EM ASSUNÇÃO DE COMPETÊNCIA PELA 2º TURMA DESTE TRIBUNAL DE JUSTIÇA. EDIÇÃO DA SÚMULA Nº. 33 DO TJ/RS. REAJUSTE DO BENEFÍCIO, PELO ÍNDICE IEPE/UFRGS, NO PERÍODO COMPREENDIDO ENTRE 2000 E 2010, RESSALVADA A PRESCRIÇÃO QUINQUENAL PARA FINS DE PAGAMENTO DE DIFERENÇAS, BEM COMO A COMPENSAÇÃO DE VALORES PAGOS NA VIA ADMINISTRATIVA, POR INTERMÉDIO DO DECRETO Nº. 43.102/2004. CORREÇÃO MONETÁRIA DAS PARCELAS VENCIDAS PELO IGP-M, DESDE O VENCIMENTO DE CADA PARCELA, E JUROS DE MORA DE 6% AO ANO DA CITAÇÃO (CASO ESTA TENHA OCORRIDO ANTES DE 30.06.2009), APLICANDO-SE, A PARTIRDE 30.06.09, AS DISPOSIÇÕES DA LEI N. 11.960/09. PREQUESTIONAMENTO.DERAM PARCIAL PROVIMENTO AO RECURSO DE APELAÇÃO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 149-154).
+O recorrente aponta violação do art. 535, I e II, do CPC/1973, alegando obscuridade e omissão com respeito aos juros de mora.
+Refere contrariedade aos arts. 405 do CC; 219 do CPC/1973; e 1º-F da Lei n. 9.494/1997, dizendo que " .. os juros moratórios nos débitos da Fazenda Pública continuam existindo, e, por conseguinte, continuam sendo devidos a contar da data da citação do réu, pois este é o momento em que o demandado é constituído em mora" (e-STJ, fl. 178).Afirma divergência jurisprudencial no ponto.
+Sem contrarrazões.
+É o relatório.
+Tem-se, na origem, ação ordinária ajuizada por servidor público estadual pretendendo o recebimento de valores supostamente devidos a título de vale-refeição. O juiz julgou improcedente o pedido.
+O Tribunala quo, em apelação, reformou a sentença, estabelecendo o direito à vantagem em determinado período. Com respeito aos consectários legais, assim dispôs (e-STJ, fls. 136-138):
+Com relação ao montante das parcelas vencidas, deve incidir correção monetária pelo IGP-M, desde o vencimento de cada parcela, além de juros de mora de 6% ao ano, a partir da citação (caso esta tenha ocorrido antes de 30.06.2009), aplicando-se, a partir de 30.06.09, as disposições da Lei nº. 11.960/09, na esteira do entendimento pacificado no âmbito do Superior Tribunal de Justiça.
+Na hipótese de o ato citatório ter ocorrido após 30.06.2009, vale salientar que tal circunstância não impede a aplicação das disposições da Lei 11.960/09,a contar da sua vigência, tendo em vista que tal diploma legal estabelece um critério único para fins de atualização monetária e de incidência de juros de mora. Ou seja, na hipótese ventilada, deverá incidir correção monetária pelo IGP-M, desde o vencimento de cada parcela,aplicando-se as disposições da nova Lei a contar de 30.06.2009, como critério único, independentemente de a citação ter ocorrido em momento posterior a sua vigência.
+Embora não isenta de crítica a redação do excerto, não resta dúvida de que o colegiado estabeleceu como termo inicial dos juros de mora a data da citação. Quando se refere ao vencimento de cada parcela, trata da correção monetária.
+Relativamente à Lei n. 11.960/2009, fixa a data de 30/6/2009 comomarco para a sua aplicação, de modo que, se a citação tiver ocorrido após essa data, incidem os índices descritos nessa norma; se antes, tais índices apenas incidirão a partirde 30/6/2009.
+Por isso, não é possível afirmar a existência de omissão ou obscuridade no julgado.
+Definido isso, fica inviável o exame da alegação fundada nos arts. 405 do CC, 219 do CPC/1973 e 1º-F da Lei n. 9.494/1997, por ausência do interesse de recorrer, já que estabelecidos os juros moratórios e a correção monetária pretendidos.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
