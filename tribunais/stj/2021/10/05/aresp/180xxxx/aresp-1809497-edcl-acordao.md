@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher parcialmente os embargos, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração opostos porIRENI CARDOSO BRIZIS e DALMO BRIZIS DE MATOSem face do acórdão proferido pela Quinta Turma desta Corte Superior em que foi negado provimento ao agravo regimental dos ora embargantes (fls. 694/700), nos termos da seguinte ementa:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CONTRABANDO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. RECONHECER AUSÊNCIA DE DOLO E MATERIALIDADE DELITIVA E INSUFICIÊNCIA DE PROVAS PARA CONDENAÇÃO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não há que se falar em afronta ao princípio da colegialidade e/ou cerceamento de defesa, pois a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, afastando o vício suscitado pela agravante" (AgRg no AREsp 1462366/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/8/2019, DJe 10/9/2019).
+2. Para desconstituir o entendimento do Tribunal a quo, no sentido de reconhecer ausência de dolo e da materialidade delitiva, assim como a insuficiência de provas para condenação, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7/STJ.3. Agravo regimental desprovido."
+Os embargantes apontam 3 omissões, a saber: a) incompetência a Receita Federal para fins de regulamentar o que pode entrar no território nacional, de modo a afastar a materialidade do contrabando; b) Ausência de legitimidade da Secretaria de Comércio Exterior para não conceder licenças para importação de máquinas caça-níqueis ou seus componentes, para fins da configuração da contravenção penal de jogos de azar (art. 50 do Decreto-lei n. 3688/41); e c) as placas-mãe e os noteiros apreendidos no estabelecimento comercial dos embargantes já estavam no Brasil quando proibida a importação, de modo a afastar o contrabando.
+Pretende atribuição de efeitos infringentes aos presentes embargos.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1) OMISSÃO SANADA. 2) REDISCUSSÃO.3) EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Admite-se na jurisprudência desta Corte a utilização de instruções normativas da Receita Federal para fins de constatação da materialidade delitiva do delito de contrabando.
+2. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, hipótese não configurada nos autos, tratando apenas de inconformismo da parte.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado.
+Na espécie, verifica-se que os três apontamentos constaram do recurso especial e do agravo regimental.
+Sobre a incompetência da Receita Federal para delimitar o que não pode ingressar no território nacional, consoante trecho reproduzido no acórdão embargado, a materialidade foi reconhecida na origem com base na Instrução Normativa SRF n. 309/2003. Tal proceder encontra respaldo nesta Corte. Citam-se precedentes (grifos nossos):
+PROCESSUAL PENAL. CONTRABANDO DE MÁQUINAS ELETRÔNICAS PROGRAMÁVEIS (MEP"s). INSTRUÇÕES NORMATIVAS DA RECEITA FEDERAL QUE PROÍBEM A IMPORTAÇÃO. LAUDOS PERICIAIS ATESTANDO A EXISTÊNCIA DE COMPONENTES ESTRANGEIROS. JUSTIÇA FEDERAL. COMPETÊNCIA. DENÚNCIA. ASSOCIAÇÃO CRIMINOSA. CONTRABANDO. LAVAGEM DE DINHEIRO. CRIME CONTRA A ECONOMIA POPULAR. PORTE ILEGAL DE ARMA DE FOGO. INÉPCIA. NÃO OCORRÊNCIA.LAVAGEM DE DINHEIRO. REDAÇÃO ORIGINAL DA LEI 9.613/1998. CRIME ANTECEDENTE. CONTRABANDO. POSSIBILIDADE.
+1. Segundo decidido pela Terceira Seção, havendo instruções normativas da Receita Federal proibindo a importação de máquinas eletrônicas programáveis, vulgarmente conhecidas como caça-níqueis, bem como laudos periciais atestando a existência de diversos componentes de origem estrangeira, de diversos países, não há falar em incompetência da Justiça Federal.
+ ..
+4. Recurso ordinário não provido.
+(RHC 45.141/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/11/2015, DJe 10/12/2015).
+CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE JUIZ FEDERAL E ESTADUAL.INQUÉRITO POLICIAL. POSSÍVEL CONTRABANDO/DESCAMINHO INTERNACIONAL DE MÁQUINAS (COMPUTADORES) PROGRAMADAS PARA EXPLORAÇÃO DE JOGOS DE AZAR (CAÇA-NÍQUEIS) ACESSADOS VIA INTERNET. INDÍCIOS SUFICIENTES DA ORIGEM ESTRANGEIRA DAS MÁQUINAS E DE SUA ENTRADA ILEGAL NO PAÍS.COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A 5ª e a 6ª Turmas desta Corte têm entendido que, para a caracterização do delito de contrabando/descaminho internacional de máquinas programadas para exploração de jogos de azar, é necessária a demonstração de fortes indícios (e/ou provas) da origem estrangeira das máquinas e de sua entrada ilegal no país.
+2. Situação em que a procedência estrangeira dos componentes das máquinas (computadores) destinadas à exploração de jogos de azar está fundada em laudo de exame pericial.
+3. Por sua vez, a ilegalidade da entrada dos aparelhos eletrônicos no país advém tanto da não apresentação de notas fiscais e/ou guias de importação pelo proprietário dos aparelhos, quanto do fato de que Instrução Normativa SRF n. 309, de 18/03/2003, proíbe a importação de máquinas eletrônicas (assim como suas partes, peças e acessórios) programadas para a exploração de jogos de azar.
+4. A possibilidade de descoberta de outras provas e/ou evidências, no decorrer das investigações, levando a conclusões diferentes, demonstra não ser possível firmar peremptoriamente a competência definitiva para julgamento do presente inquérito policial. Isso não obstante, tendo em conta que a definição do Juízo competente em tais hipóteses se dá em razão dos indícios coletados até então, revela-se a competência da Justiça Federal para condução do Inquérito Policial.
+5. Conflito conhecido, para declarar a competência do Juízo Federal da 2ª Vara de Niterói/RJ, o suscitante.
+(CC 134.715/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 9/9/2015, DJe 17/9/2015).
+Sobre a legitimidade da Secretaria de Comércio Exterior, não há omissão relevante, pois não requerido no recurso especialaaplicação doart. 50 do Decreto-lei n. 3688/41. Cita-se precedente:
+EMBARGOS DE DECLARAÇÃO E AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.EMBARGOS DE DECLARAÇÃO. OMISSÃO INEXISTENTE. MERA REDISCUSSÃO. EMBARGOS REJEITADOS. AGRAVO REGIMENTAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.ABSOLVIÇÃO. REEXAME DE MATÉRIA FÁTICA.DOSIMETRIA. PENA-BASE. CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME.FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE DO AUMENTO. PENA INALTERADA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. Conforme a jurisprudência desta Corte, somente a omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal (REsp 1653588/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/06/2017, DJe 21/06/2017).
+ ..
+7. Embargos de declaração rejeitados e agravo regimental improvido.
+(EDcl no AREsp 1630967/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/10/2020, DJe 19/10/2020).
+Sobreas placas-mãe e os noteiros apreendidos no estabelecimento comercial dos embargantes já estarem no Brasil quando proibida a importação, consoante constou no acórdão proferido na origem e reproduzido no acórdão embargado, perquerir a data de internalização das mercadorias foi prescindível, pois a conduta foi configurada pelo fato dos embargantes saberem da introdução clandestina no território nacional. Destaca-se que os fatos delitivos ocorrem em 2012 e 2013, sendo utilizado para materialidade Instrução Normativa de 2003. Mantém-se, portanto, o óbice da Súmula n. 7 do STJ.Cita-se precedente (grifo nosso):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ARGUMENTOS NOVOS PARA ATACAR A DECISÃO IMPUGNADA. CONTRABANDO.CAÇA-NÍQUEIS. AUSÊNCIA DE COMPONENTE ESTRANGEIRO NA MÁQUINA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7. AGRAVO REGIMENTAL IMPROVIDO.
+1. O agravo regimental não traz argumentos novos capazes de alterar o entendimento anteriormente firmado, razão por que mantenho a decisão que, monocraticamente, negou provimento ao recurso por incidência da Súmula 7/STJ, sob o fundamento de que acatar a tese de defesa de que apenas uma ou nenhuma das peças da máquina era de procedência estrangeira a fim de que se reconheça a atipicidade do delito de contrabando é matéria que demanda reexame fático-probatório.
+2. Agravo regimental improvido.
+(AgRg no AREsp 1020606/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/9/2017, DJe 27/9/2017).
+Em verdade, o embargante pretende a modificação do provimento anterior, com rediscussão da questão e solução jurídica diversa, o que não se coaduna com a medida integrativa. No mesmo sentido, cita-se precedente (grifo nosso):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.CERCEAMENTO DE DEFESA. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. NÃO CABIMENTO.OMISSÃO. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. NÃO CABIMENTO. OMISSÃO.INEXISTÊNCIA. REDISCUSSÃO. DISPOSITIVO CONSTITUCIONAL. PREQUESTIONAMENTO.EMBARGOS REJEITADOS.
+1. Apenas se admite embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP.
+ ..
+3. Não se prestam os embargos de declaração para a rediscussão do acórdão recorrido quando revelado mero inconformismo com o resultado do julgamento.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 1281062/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 5/3/2020, DJe 9/3/2020).
+Ante o exposto, voto no sentido de acolher em parte os embargos de declaração, sem efeitos infringentes.
