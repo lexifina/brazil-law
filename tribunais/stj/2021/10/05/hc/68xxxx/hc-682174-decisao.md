@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contraacórdãoassim ementado (fl. 31):
+EMENTA: HABEAS CORPUS - TRÁFICO DE DROGAS, PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E ADULTERAÇÃO DE SINAL DE VEÍCULO AUTOMOTOR - ALEGAÇÃO DE CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA DE OFÍCIO - VIOLAÇÃO AOS ART. 310 E 311 DO CPP - INOCORRÊNCIA - PEDIDO ANTERIOR DO MINISTÉRIO PÚBLICO PELA SEGREGAÇÃO CAUTELAR -PRISÃO PREVENTIVA - REVOGAÇÃO - INVIABILIDADE - PRESENÇA DOS REQUISITOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL - PRISÃO FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA - PRESUNÇÃO DE INOCÊNCIA - COMPATIBILIDADE COM A PRISÃO PREVENTIVA -CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. De acordo com os artigos 282, § 2º, e 311 do Código de Processo Penal, com a redação dada pela Lei 13.964/2019, édefeso ao juiz decretar, de ofício, a prisão preventiva. Se a prisão em flagrante foi convertida em preventiva, com o requerimento do Ministério Público ou representação da autoridade policial, estão satisfeitas as determinações legais. Não há ilegalidadena decretação da prisão preventiva quando demonstrado, com base em fatos concretos, que a segregação é necessária para acautelar a ordem pública, principalmente diante do risco de reiteração delitiva e da gravidade concreta da conduta, em tese, praticada. O princípio da presunção de inocência, por si só, não obsta a manutenção da prisão preventiva.
+Consta dos autos que o paciente foi preso em flagrante, custódia convertida em preventiva, pela prática do delito previsto no art. 33 da Lei 11.343/06 c/c art. 16, § 1º, IV da Lei 10.826/03 c/c art. 311 da Lei 9503/97.
+No presente writ, o impetrante alega que não foi encontrado nada de ilícito em poder do paciente.
+Sustenta que se trata de delito que não envolve violência ou grave ameaça e que, diante do quadro de pandemia, a liberdade provisória pode ser concedida nos termos da Resolução 62/2020 do CNJ.
+Aduz a ilegalidade da prisão decretada de ofício, requerendo a revogação da prisão preventiva para que o paciente responda ao processo em liberdade, ainda que mediante a aplicação de medidas cautelares diversas.
+Indeferida a liminar e prestadas informações, oMinistério Público Federal opinou pelo não conhecimentodaordem.
+Em consulta ao sistema processual desta Corte Superior, verifica-se que a presente impetração possui idêntico teor ao já apreciado HC 685.013/MG, que transitou em julgado em 23/08/2021.
+Ante o exposto, não conheço dohabeas corpus.
+Publique-se.
+Intimem-se.
