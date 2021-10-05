@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 2, p. 59/60):
+    “AGRAVO EM EXECUÇÃO PENAL. RECURSO DEFENSIVO OBJETIVANDO A REFORMA DA DECISÃO QUE INDEFERIU O PEDIDO DE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA POR AUSÊNCIA DE LAPSO TEMPORAL.
+    1. Agravante condenado a 04 (quatro) anos e 26 (vinte e seis) dias de reclusão por infração ao art. 171 do Código Penal, por dezesseis vezes, n/f do art. 71 do Código Penal. Concurso de crimes, cujo prazo prescricional depende da análise da pena de cada delito individualizado. Art. 119 do Código Penal e Súmula nº 497 STF.
+    2. Pena de cada crime, sem o cômputo do acréscimo decorrente do crime continuado fixada em 02 (dois) anos, 05 (cinco) meses e 10 (dez) dias de reclusão. Prazo prescricional de 08 (oito) anos, nos termos do art. 109, IV, do Código Penal.
+    3. Decisão agravada que indeferiu o pedido de reconhecimento da prescrição da pretensão executória por entender que o termo inicial para contagem do prazo prescricional seria a data do trânsito em julgado definitivo, ou seja, tanto para a Defesa, como para a Acusação.
+    4. Tese defensiva que se mostra juridicamente amparada – termo inicial para a contagem da prescrição executória – trânsito em julgado para a acusação, nos termos do art. 112, I, do Código Penal.
+    5. Interpretação literal do art. 112, I, do Código Penal, que prevê o marco inicial da contagem do prazo prescricional da pretensão executória como sendo o trânsito em julgado para a acusação que deve ser aplicada, não sendo possível aplicação mais gravosa ao acusado do que aquela dada pelo legislador.
+    6. Certidão do trânsito em julgado para o órgão acusador que apresenta erro material, tratando-se a data correta de 09/12/2009.
+    7. Decurso de mais de 08 (oito) anos entre o trânsito em julgado para o Ministério Público – 09/12/2009 – e a decisão agravada de cumprimento do mandado de prisão expedido em desfavor do agravante – 09/04/2018. Extinção da punibilidade pela prescrição da pretensão executória que se impõe.
+    RECURSO CONHECIDO E PROVIDO.” (grifei)
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, alega-se violação ao art. 5º, II, XXXV e LVII, da Constituição Federal. Busca-se, em suma, o cômputo da prescrição da pretensão executória a partir do trânsito em julgado da condenação penal para ambas as partes.
+    Assenta, nesse sentido, que “a prescrição somente pode ser reconhecida na hipótese de inércia da parte, o que inexistia na época ante ausência de título passível de ser executado, em observância ao princípio da presunção de inocência, razão pela qual apenas com o trânsito em julgado da sentença condenatória para ambas as partes é possível o cômputo do prazo da prescrição da pretensão executória” (eDOC 2, p. 140).
+    É o relatório. Decido.
+    De plano, observo que, recentemente, o órgão máximo deste Supremo Tribunal Federal, no julgamento do AI 794.971-AgR, Rel. Min. Roberto Barroso, Redator para Acórdão Min. Marco Aurélio, Tribunal Pleno, DJe 28.06.2021, apreciou a matéria aqui controvertida, tendo assentado o entendimento de que o termo inicial para a contagem do prazo da prescrição da pretensão executória é o trânsito em julgado para ambas as partes. Confira-se a síntese do julgado:
+    “PRESCRIÇÃO – RECURSO – INADMISSIBILIDADE. Enquanto não proclamada a inadmissão de recurso de natureza excepcional, tem-se o curso da prescrição da pretensão punitiva, e não a da pretensão executória.
+    PRESCRIÇÃO – PRETENSÃO PUNITIVA. Transcorrido, entre os fatores interruptivos, período previsto no artigo 109 do Código Penal, tem-se prescrição da pretensão punitiva do Estado.
+    PRESCRIÇÃO – PRETENSÃO EXECUTÓRIA – TERMO INICIAL. A prescrição da pretensão executória, no que pressupõe quadro a revelar a possibilidade de execução da pena, tem como marco inicial o trânsito em julgado, para ambas as partes, da condenação.” (AI 794971 AgR, Relator(a): ROBERTO BARROSO, Relator(a) p/ Acórdão: MARCO AURÉLIO, Tribunal Pleno, DJe 28.06.2021)
+    No caso dos autos, o Tribunal de origem reconheceu a extinção da punibilidade do réu, ora recorrido, ao fundamento de que “o termo inicial da prescrição se dá com o trânsito em julgado para o Ministério Público, independentemente da existência de recurso defensivo” (eDOC 2, p. 62), de modo que tal entendimento encontra-se em divergência com a atual compreensão deste Supremo Tribunal acerca da matéria.
+    Ante o exposto, dou provimento ao recurso extraordinário para cassar o acórdão recorrido e determinar ao Tribunal de origem que promova novo julgamento em adequação ao entendimento desta Corte, nos termos do art. 21, § 2º, do RISTF.
+    Publique-se.
+    Brasília, 5 de outubro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
