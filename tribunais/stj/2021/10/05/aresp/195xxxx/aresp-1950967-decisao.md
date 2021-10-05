@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSTRUTORA MARINHO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL EM AÇÃO DE COBRANÇA. ÔNUS DA PROVA. CONVICÇÃO DE VERDADE. CONVICÇÃO FUNDADA NA VEROSSIMILHANÇA. CERCEAMENTO DE DEFESA E NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. OMISSÃO DO JULGADO QUANTO À TAXA DE INCIDÊNCIA DOS JUROS DE MORA. SUPRESSÃO DE OFÍCIO.
+I- O ônus da prova, enquanto regra de julgamento, tem natureza subsidiária, dirige-se ao juiz que chega ao final do procedimento sem convicção formada a respeito de como os fatos se passaram.
+II- Via de regra, o magistrado deve decidir as questões que lhe são trazidas com base em seu convencimento sobre a verdade dos fatos, que pressupõe a participação plena das partes na formação do material probatório.
+III- Em situações especiais, pode o juiz decidir o mérito da demanda com fundamento em convicção de verossimilhança, formada por acervo integrado por indícios ou presunções.
+IV- Na espécie, o contexto probatório autoriza a formação da convicção fundada na verossimilhança, porquanto a defesa apresentada na fase pré-processual, aliada aos indícios de inadimplência que instruíram a inicial, são incompatíveis com a argumentação ofertada pela ré em juízo.
+V- Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando existirem no feito dados suficientes à formação do convencimento.
+VI- Não é nula por ausência de fundamentação a sentença que, por meio de raciocínio lógico devidamente exposto, resulta em conclusão contrária à defendida pelo recorrente.
+VII- Cabendo ao julgador definir na ação relativa à obrigação de pagar quantia, a taxa de juros de mora, cumpre suprir a omissão do julgado, para que incidam no patamar de 1% ao mês, tal como determinado nos arts. 406 do CC e 161, § 1º, do CTN.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Quanto à controvérsia trazida nos autos, alega violação do art. 373, I, do CPC, no que concerne ao ônus de comprovar as alegações é do credor, não havendo prova hábil comprovando a entrega e o recebimento da mercadoria, trazendo o seguinte argumento:
+18. Ao longo do recurso de apelação apresentado, a Recorrente tentou demonstrar ao Juízo a quo que os documentos que embasaram a distribuição da Ação de são inábeis para este fim.
+19. Isto porque, a Recorrida se limita a alegar ser credora do valor de R$ 95.604,88 (noventa e cinco mil, seiscentos e quatro reais e oitenta e oito centavos), sem juntar aos autos documentos que corrobore com tais alegações.
+20. Sabe-se que o ônus de comprovar as alegações é do credor, que dele não se desincumbiu, nos termos do artigo 373, I, do CPC.
+ ..
+28. Verifica-se que em nenhum dos documentos juntados pelo recorrido constam o comprovante de entrega, não existe assinatura.
+29. Portanto, ausente prova hábil a comprovar a entrega e o recebimento da mercadoria e omisso da recorrida quanto à adoção das cautelas pertinentes à aceitação formal do título, de rigor o provimento deste recurso diante da nítida violação ao art. 373, I, do CPC (fls. 164-166).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Com efeito, os Documentos Auxiliares das Notas Fiscais Eletrônicas e as Notas Fiscais Eletrônicas anexadas ao processo, somados aos e-mails contendo discussões sobre prazos e valores dos pagamentos em aberto, permitem a segura conclusão de que as relações comerciais ocorreram em sua plenitude, restando entregues as mercadorias e em mora a apelante.
+As afirmações eletrônicas de prepostos da recorrente de que "Temos grande interesse em quitar os mesmos, porém estamos enfrentando alguns impasses financeiros", "Não consigo efetivar todos os pagamentos em um único montante, porém se houver um parcelamento no valor eu terei maior facilidade", e "estou com grande dificuldade financeira nestes últimos meses e por esse motivo estamos nos esquivando da carta de confissão de dívida, tenho receio de não conseguir efetivar os devidos débitos em aberto no prazo demonstrado na carta", são incompatíveis com a defesa apresentada em juízo, de inexistência de prova sobre a entrega das mercadorias, que, por isso, não deve prosperar.
+Por esse raciocínio, revela-se dispensável a produção de prova em audiência, o que afasta a alegação da apelante de cerceamento do seu direito de defesa.
+ ..
+Noutro passo, ainda que o magistrado de primeira instância não tenha expressamente enfrentado a alegação da defesa de que "notas fiscais não são hábeis a comprovar a relação comercial (precedentes)", há de se concluir que a matéria fora esgotada, pois, ao lado das notas ficais, foram invocados, para a formação do seu convencimento, os e-mail da autora confirmando a entrega, a notificação para pagamento e a planilha atualizada do débito cobrado.
+Bem por isso, não merece acolhida a tese de nulidade da sentença por ausência de fundamentação (fls. 152-153)
+Aplicável, portanto, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
