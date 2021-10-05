@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Campina Grande contra decisão denegatória de admissibilidade a recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl.193):
+TRIBUTÁRIO. AÇÃO ORDINÁRIA. CONTRIBUIÇÕES PREVIDENCIÁRIAS PATRONAIS. ART. 22 DA LEI 8.212/91. FÉRIAS USUFRUÍDAS. INCIDÊNCIA. NATUREZA REMUNERATÓRIA.
+1. A jurisprudência do STJ e desta Corte Regional já pacificou o entendimento segundo o qual a contribuição previdenciária incide sobre as férias efetivamente gozadas, que integram o salário de contribuição e tem natureza salarial . Precedentes.
+2. Apelação improvida.
+Opostos embargos de declaração, foram estes rejeitados (fls. 210/215).
+Nas razões do recurso especial, a parte ora agravante alega violação aos arts. 1.022, II, do CPC, e 4º, §1º, da Lei 10.887/2004, bem como dissídio jurisprudencial. Alega, em síntese, que: (I) apesar da oposição de embargos de declaração, o Tribunal de origem manteve-se omisso quanto a questões relevantes ao deslinde da controvérsia; e (II) é inexigível a contribuição previdenciária sobre os valores pagos a título de férias usufruídas, ante o caráter indenizatório de tais verbas e de sua não incorporação aos proventos na inatividade, sendo certo que não há mais dúvida sobre o tema, que sobre as parcelas das férias usufruídas creditadas ao servidor, não incide a exação tributária previdenciária patronal em face de sua não retributividade de serviço algum prestado pelo servidor, bem como pela sua não incorporação aos proventos da aposentadoria. Daí correta a pretensão do Município-Recorrido pela desoneração da contribuição previdenciária patronal sobre férias usufruídas, em face de referidas importâncias não retribuírem qualquer trabalho prestado, nos termos já estabelecidos na jurisprudência pacífica e dominante do Superior Tribunal de Justiça acima indicadas." (fl.240).
+Foram apresentadas contrarrazões às fls. 306/312.
+Recurso extraordinário interposto às fls. 269/285.
+Decisão desta Corte às fls. 374/377, determinando o envio dos autos à Corte de origem, a fim de que se procedesse a eventual juízo de conformação (art. 543-B e seguintes do CPC/73), frente ao quanto decidido pelo Supremo Tribunal Federal nos autos do RE 565.160 RG/SC - Tema nº 20.
+Encaminhado os autos à Turma julgadora, em juízo de adequação, a Segunda Turma da Corte regional manteve o acórdão recorrido (fls. 414/416).
+Subiram os autos, então, ao Superior Tribunal de Justiça (fl.420).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A presente irresignação não merece guarida.
+Inicialmente, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022, II, do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro RAUL ARAÚJO, PRIMEIRA TURMA, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 25/9/2019.
+Por outro lado, ressalta-se que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da matéria inserta no art. 4º, §1º, da Lei 10.887/2004 , porquanto remanesce ausente o indispensável prequestionamento quanto a tais matérias (Súmula 282/STF).
+Por fim, inviável se torna o conhecimento do recurso especial pelo dissídio jurisprudencial invocado, uma vez que o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, sendo certo que não foram atendidos os requisitos exigidos pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OFENSA AO ART. 535 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. FALTA DE PREQUESTIONAMENTO DO ART. 116, PARÁG. ÚNICO DO CTN. NULIDADE DA CDA. PRESCRIÇÃO E SOLIDARIEDADE. INVERSÃO DO JULGADO QUE DEMANDARIA INCURSÃO NA SEARA PROBATÓRIA DOS AUTOS. SÚMULA 7 DO STJ. ÓBICES QUE INVIABILIZAM O SEGUIMENTO DO RECURSO PELA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..  4. O mesmo óbice imposto à admissão do Recurso Especial pela alínea a do permissivo constitucional - incidência da Súmula 7/STJ - obsta a análise recursal pela alínea c, restando o dissídio jurisprudencial prejudicado.
+5. Agravo Regimental desprovido.
+(AgRg no AREsp 206.773/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 01/03/2013)
+DIREITO CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LOCAÇÃO. OFENSA AOS ARTS. 458, II, 463, II E 535, I E II, DO CPC. NÃO-OCORRÊNCIA. NOVAÇÃO. EXISTÊNCIA. AFERIÇÃO. EXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. EXIGÊNCIA DE DUPLA GARANTIA. PREVALÊNCIA DA FIANÇA, OFERTADA EM PRIMEIRO LUGAR. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. (omissis)
+4. A inviabilidade de conhecimento do recurso especial pela alínea "a" do permissivo constitucional prejudica o exame do dissídio jurisprudencial.
+5. Agravo regimental improvido.
+(AgRg no Ag 853.312/SP, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 18/12/2007, DJe 17/03/2008).
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
