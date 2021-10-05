@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GILBERTO ROSA contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+.. falta, Excelência, d.v., na decisão ora embargada, é a demonstração de como se concretizou essa referida "análise dos autos" para chegar o Tribunal à conclusão a que chegou.(fl. 311);
+.. é indiscutível que se a parte não procedeu de forma efetiva, concreta e pormenorizada, na sua impugnação, tal constatação há, também, de merecer do Tribunal uma demonstração inequívoca desse "acontecimento". Tal é o que o peticionante ora pede, respeitosamente, a Vossa Excelência para que possa prosseguir na defesa de seus direitos.(fl.312)
+Acredita a parte, eminentíssimo Sr. Ministro, que nada contém esta petição a ponto de ser determinada a majoração dos honorários, acaso devidos, em favor da parte recorrida.(fl.313)
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da análise do agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente o fundamento Súmula 7/STJ, da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020).
+Relativamente à Súmula n. 7 do STJ, não basta a parte "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/6/2020).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. MULTA POR OCUPAÇÃO IRREGULAR DE IMÓVEL. DESCONTOS À TÍTULO DE OCUPAÇÃO. INDENIZAÇÃO POR DANOS MORAIS. REPETIÇÃO DE INDÉBITO. DESVINCULAÇÃO DA ENTREGA DO IMÓVEL DOS ATOS DA CEDAE. IMPROCEDENTE A INDENIZAÇÃO POR DANOS MORAIS. PARCIALMENTE PROCEDENTE A REPETIÇÃO DE INDÉBITO. DEMAIS PEDIDOS PROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+ ..
+II - Inadmitiu-se o recurso especial com base nos óbices referentes à incidência da Súmula n. 7/STJ e da Súmula n. 83/STJ. Agravo nos próprios autos que não impugna os fundamentos da decisão recorrida.
+III - São insuficientes para considerar como impugnação aos fundamentos da decisão que não admite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+IV - No caso em que foi aplicado o Enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+V - Agravo interno improvido. (AgInt no AREsp n. 1.474.472/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/10/2019.)
+O momento adequado para impugnação dos fundamentos da decisão que inadmite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Quanto ao honorários recursais, esclareça-se que o marco temporal que autoriza a majoração dos honorários sucumbenciais é a publicação do acórdão que ensejou a interposição do recurso especial, no caso dos autos 12/12/2019, (fl. 217), portanto na vigência do Código de Processo Civil de 2015.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO INTERNO E DE SEGUNDO RECURSO ESPECIAL CONTRA DECISÃO QUE INADMITIU O PRIMEIRO RECURSO ESPECIAL ANTERIORMENTE INTERPOSTO. ERRO GROSSEIRO. RECURSO MANIFESTAMENTE INADMISSÍVEL. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. DECISÃO MANTIDA. LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURAÇÃO. MULTA DO ART. 1.021, § 4º, DO CPC. DESCABIMENTO. HONORÁRIOS RECURSAIS. MAJORAÇÃO. INVIABILIDADE. AGRAVO INTERNO IMPROVIDO.
+ ..
+6. A orientação jurisprudencial desta Corte é no sentido de não ser cabível o arbitramento de honorários advocatícios recursais em razão da interposição de agravo interno ou embargos de declaração, porquanto os honorários recursais incidem apenas quando houver a instauração de novo grau recursal, e não a cada recurso interposto no mesmo grau de jurisdição. Precedentes.
+7. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.587.340/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 1º/6/2020.)
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
