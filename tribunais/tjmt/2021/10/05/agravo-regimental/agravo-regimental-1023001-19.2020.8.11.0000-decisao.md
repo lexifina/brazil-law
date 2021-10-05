@@ -1,0 +1,42 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO
+PJE - AGRAVO REGIMENTAL CÍVEL (206) 1023001-19.2020.8.11.0000
+AGRAVANTE: NASLE DOGAN
+AGRAVADO: ESTADO DE MATO GROSSO, ASSEMBLEIA LEGISLATIVA DO ESTADO DE MATO GROSSO
+Vistos etc.
+Trata-se de Agravo Interno interposto por NASLE DOGAN, em face de decisão unipessoal, que reconheceu a ilegitimidade passiva dos EXMOS. PRESIDENTE DA MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE MATO GROSSO e PRIMEIRO SECRETÁRIO DA MESA DIRETORA DA ALMT, com fulcro no art. 6o, § 3o e 5o da Lei n. 12.016/2009, denegando a segurança quanto à estes, e reconheceu a INCOMPETÊNCIA deste Sodalício, para o julgamento do mandamus face ao Ilmo. Secretário de Gestão de Pessoas da ALMT, razão determinou a remessa dos autos à uma das Varas Especializadas da Fazenda Pública da Capital.
+Alega que, “a atribuição do Secretário de Gestão de Pessoas contida no art. 13 da Lei n.o 7.860/2002 não tem qualquer relação com o presente mandado de segurança e quiçá induz a conclusão de que a aludida autoridade dispõe de competência e poderes para a concessão das progressões e promoções dos servidores da ALMT”. (sic)
+Sustenta ainda, que “a Mesa Diretora da ALMT, representada pelo 1o e 2o Impetrados, delegou ao Secretário de Gestão de Pessoas, por meio do Ato 040/2019, competência apenas para emitir portaria de concessão do adicional de tempo de serviço (ID. 65478471).”
+Ao final, requer a retratação da decisão hostilizada, ou a submissão do presente Agravo Interno à Turma julgadora, pugnando pelo provimento do recurso, “a fim de reconhecer a legitimidade do 1o e 2o Impetrados para figurar no polo passivo da presente ação, e via de consequência, que seja reconhecida a competência do Egrégio Tribunal de Justiça do Estado de Mato Grosso para o processamento e julgamento do presente writ.”
+As contrarrazões foram apresentadas sede em que a parte adversa pugna pelo desprovimento do recurso (id.725554670).
+A par da possível perda de objeto da ação mandamental, intimada para se manifestar, a Recorrente pugnou pelo prosseguimento da ação, registrando que não teria se beneficiado do suposto acordo firmado. (Id 87506970)
+É o relato necessário.
+Decido.
+Conforme relatado, pretende a Recorrente a reforma da decisão que reconheceu a ilegitimidade passiva dos Exmos. Srs. Presidente da Mesa Diretora e Primeiro Secretário da Mesa Diretora da ALMT, denegando a segurança quanto a estes, e declinou da competência para uma das Varas Especializadas da Fazenda Pública para conhecer e julgar o mandado de segurança, face ao Ilmo. Sr. Secretário de Gestão de Pessoas da ALMT.
+Presentes os pressupostos de admissibilidade, conheço do agravo interno, e exerço o juízo de retratação, conforme previsto no artigo 1.021, § 1o, do CPC/15.
+Ao analisar a ação mandamental pontuei que a autoridade coatora é quem pratica o ato, ou se omite de praticá-lo, e que a Impetrante busca o reconhecimento de progressões que entende possuir direito, considerando o preenchimento dos requisitos legais.
+Colacionei julgado desta Turma de Câmara Cíveis Reunidas no sentido de que o Presidente da Mesa Diretora e o Primeiro Secretário da Mesa Diretora da ALMT não possuem competência para correção do ato acoimado de coator, a par do pedido formulado “concessão de benefícios”, e a causa de pedir “nulidade do Memorando”.
+Sublinhei, ainda, a competência do Secretário de Gestão de Recursos Humanos para os requerimentos formulados pela Requerente, com base na Lei no 7.860/2020, artigos 13 e 23, o qual não detém de foro por prerrogativa de função.
+No entanto, a Turma de Câmaras Cíveis Reunidas, após o voto vista do Des. Luiz Carlos da Costa, sobre o tema, modificou o posicionamento, ressaltando que a Lei 7.860/2002 apenas autorizou o Secretário de Gestão de Pessoas a fazer o reenquadramento dos servidores dentro dos novos cargos e atribuições estabelecidas, mas cabe ao Presidente e Primeiro Secretário da Mesa Diretora da ALMT a correção de “eventual ilegalidade materializada na decisão administrativa proferida pelo Secretário de Gestão de Pessoas”. (TJMT, RAR 1007084-57.2020 – Voto Des. Luiz Carlos da Costa)
+Assim, ressalvando o meu entendimento, rendo-me as considerações trazidas pelo eminente colega no julgamento do Agravo Interno no 1007084-57.2020, para, exercendo o juízo de retratação, afastar a declaração de ilegitimidade passiva das aludidas autoridades impetradas.
+Ultrapassada essa questão, constata-se a ocorrência de perda superveniente do objeto da ação mandamental, uma vez que o ato coator que, em tese, violaria direito líquido e certo da Impetrante, Memorando no 1372/2018/Presidência/ALMT, não mais subsiste.
+Embora a Recorrente afirme que o acordo firmado entre o Sindicato da sua classe e a ALMT não a teria alcançado, fato é que, nas razões deste agravo, restou salientado que o ato que viola direitos e interesses seria o Memorando 1372/2018/PRESIDÊNCIA/ALMT. (Id 69386973 – p. 7)
+Extrai-se do aludido ato a seguinte determinação:
+“(...)
+Senhor Secretário,
+Na ocasião em cumprimentar Vossa Senhoria, e tendo como objetivo honrar a responsabilidade e o comprometimento desta Presidência em adimplir, em dia, com o pagamento dos salários, e demais responsabilidades que temos com os servidores desta Casa de Leis, e atendendo ao Limite Prudencial previsto na Lei de Responsabilidade Fiscal que impõe ao gestor público cautela quanto as despesas de pessoal, prevenindo que se incorra em excesso, DETERMINO a suspensão de ATS E PROGRESSÕES, ficando para a Nova Mesa Diretora, a responsabilidade de decidir sobre o Retorno desses Benefícios.” (Id 65478465)
+Ocorre que, conforme registrado no despacho lançado no Id 84271961, nos autos do Mandado de Segurança no 1007860-57.2020.822.0000, da relatoria da Exma. Desa. Maria Aparecida Ribeiro, onde o Sindicato dos Servidores da Assembleia Legislativa de Mato Grosso visava a suspensão da aplicabilidade do Memorando 1372/2018/PRESIDENCIA/ALMT, fora requerida a extinção da ação, diante da Resolução Administrativa n. 007/SPMD/MD/2020, que aponta a existência de Acordo Extrajudicial firmado entre a categoria e os servidores.
+Inclusive, extrai-se do andamento processual daquele feito, que este foi extinto, tendo a Desa. Relatora sublinhado a perda do objeto em razão do acordo extrajudicial firmado entre as partes.
+Ao analisar a Resolução Administrativa citada, é inegável que houve um acordo entre a Assembleia Legislativa de Mato Grosso e o Sindicato dos Servidores da Assembleia Legislativa do Estado de Mato Grosso, garantindo a “todos os servidores que tiverem os critérios preenchidos, durante o período de suspensão da Progressão Funcional, compreendido entre novembro de 2018 a novembro de 2020, o direito a progressão funcional, nos termos constantes no Termo de Compromisso de Acordo Coletivo, em consonância com o Parecer no 016/2021 da Procuradoria Geral, homologado pela Mesa Diretora”. (Art. 1o, § 1o, da Resolução Administrativa 007/SPMD/MD/2020, publicada em 09/02/2021)
+Assim, evidente a ocorrência de prejudicialidade externa, considerando que o Memorando tido como ilegal não mais existe no mundo jurídico, não podendo ser atacado via do presente mandamus, ante a ausência de pressuposto de desenvolvimento válido e regular do processo.
+A propósito:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. SUPERVENIENTE REVOGAÇÃO DO ATO ADMINISTRATIVO QUE SUPOSTAMENTE DERA CAUSA À ALEGAÇÃO DE CONSTRANGIMENTO. MANDADO DE SEGURANÇA PREJUDICADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A revogação do ato administrativo que dera causa à suposta alegação de constrangimento ilegal trouxe como consequência a superveniente prejudicialidade do mandado de segurança, por perda do seu objeto. II - Impossibilidade de se ter o prosseguimento da ação mandamental em face da ausência de pressuposto de desenvolvimento válido e regular do processo. Precedente. III – Agravo regimental a que se nega provimento. (STF - RE: 598609 MG, Relator: Min. RICARDO LEWANDOWSKI, Data de Julgamento: 05/08/2014, Segunda Turma, Data de Publicação: ACÓRDÃO ELETRÔNICO DJe-157 DIVULG 14-08-2014 PUBLIC 15-08-2014)
+Diante disso, verifica-se a perda superveniente do objeto da Ação Mandamental.
+Feitas essas considerações, denego o mandado de segurança, nos termos do artigo 6o, § 5o, da Lei no 12.016/2009, c/c 485, inciso VI, do CPC.
+Sem custas. Sem honorários.
+Publique-se.
+Intimem-se.
+Cumpra-se.
+Após, arquivem-se os autos, com as devidas baixas.
+Cuiabá, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relatora
