@@ -1,0 +1,34 @@
+DECISÃO
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça que, confirmado em sede de embargos de declaração, está assim ementado:
+    RECURSO EM HABEAS CORPUS. OPERAÇÃO BETUME. CORRUPÇÃO ATIVA (ART. 333, CAPUT, DO CP). VERBAS ORIUNDAS DE CONVÊNIO ENTRE O MINISTÉRIO DAS CIDADES (GOVERNO FEDERAL) E O MUNICÍPIO DE BARRETOS/SP. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. RECURSO IMPROVIDO.
+    1. O art. 109, I, da Constituição Federal, determina que a Justiça Federal é competente para processar a julgar as ações em que a União for interessada.
+    2. A existência de convênio entre o Ministério das Cidades - Governo Federal, e o Município de Barretos/SP evidencia o interesse da União no processamento do feito, sendo, portanto, a Justiça Federal competente.
+    3. Recurso em habeas corpus improvido.
+    (Recurso ordinário em habeas corpus n. 141.993, Ministro Nefi Cordeiro)
+    Em suas razões, a parte impetrante sustenta, em síntese, que “não há evidências da malversação de verbas federais em decorrência dos delitos de corrupção ativa e passiva narrados na denúncia”, o que afasta a competência da Justiça Federal para o processamento do feito.
+    Requer, desse modo, a concessão da liminar “para suspender o andamento da Ação Penal nº 5000772-05.2019.4.03.6138, tendo em vista que a audiência de instrução, debates e julgamento foi designada para o próximo dia 6 de outubro de 2021”.
+    É o relatório. Decido.
+    Em juízo de sumária cognição, sem examinar o mérito da presente impetração, cumpre apreciar a presença, no caso, da plausibilidade jurídica do pleito cautelar formulado pela parte impetrante e do perigo da demora na prestação jurisdicional.
+    Inicialmente, é de se afirmar que o monopólio da titularidade da ação penal pública é do Ministério Público, conforme expresso no artigo 129, I, da Constituição Federal, onde afirma que o referido órgão tem como função institucional “promover, privativamente, a ação penal pública, na forma da lei”.
+    Em virtude desse citado monopólio constitucional, em delitos de ação penal de iniciativa pública, como no caso dos autos, compete aos membros do Ministério Público a prerrogativa de oferecer denúncia ou propor o arquivamento de quaisquer peças de informação ou de inquérito policial, sempre que entenderem inviável, a partir dos elementos até então disponíveis, a formação da “opinio delicti”.
+    Nesse sentido, como bem ressalvado pelo ilustre Ministro Luiz Fux no julgamento do RHC 120.379/RO: “O sistema acusatório confere ao Ministério Público, exclusivamente, na ação penal pública, a formação da ‘opinio delicti’, separando a função de acusar daquela de julgar” .
+    No caso dos autos, como bem destacou a parte impetrante, o próprio Ministério Publico Federal, em informação dirigida ao magistrado da 1ª Vara da Subseção Judiciária de Barretos, coloca em dúvida a natureza das verbas apuradas na persecução penal, afirmando que “não há evidências da malversação de verbas federais em decorrência dos delitos de corrupção ativa e passiva, narrados na denúncia” (com meus grifos).
+    Transcrevo, por relevante, o seguinte trecho de referido documento (doc. 2, fls. 67):
+    Conforme se verifica da denúncia, os fatos delitivos narrados envolvem a oferta e a entrega de vantagens indevidas a agentes públicos do Município de Barretos, e de outro giro, o recebimento pelos agentes denunciados das referidas vantagens em decorrência da função pública por eles exercida.
+    As referidas vantagens não buscavam retardar a prática de ato de ofício ou que estes fossem praticados em desconformidade com a lei, mas, sim, a estimular que os agentes públicos cumprissem seus misteres, a fim de que a Prefeitura de Barretos quitasse os pagamentos devidos à empresa Scamatti & Seller Ltda., em razão das obras realizadas por força das Concorrências 03/12 e 04/12.
+    No entanto, embora não se tenha obtido evidências da malversação de verbas federais em decorrência dos delitos de corrupção ativa e passiva, narrados na denúncia, no âmbito criminal o Ministério Público Federal entende que referidos crimes afetaram os interesses da União, ainda que não seu patrimônio, na adequada execução do objeto do convênio, atraindo assim a competência da Justiça Federal, nos termos do art. 109, inc. IV, da Constituição Federal.(com meus grifos)
+    De outro lado, em juízo de sumária cognição, não vislumbro ocorrer, no caso em apreço, ofensa direta e específica a interesse da União, cuja ausência, consequentemente, afasta a competência da Justiça Federal prevista no art. 109, inciso IV, da Constituição da República.
+    Destaco, em sentido semelhante, o seguinte precedente deste Supremo Tribunal Federal:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MATÉRIA CRIMINAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. INTELIGÊNCIA DO ART. 109, IV, DA CF/88. AUSÊNCIA DE INTERESSE DIRETO E ESPECÍFICO DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. JURISPRUDÊNCIA DA CORTE. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO DESPROVIDO.
+    1. É firme a jurisprudência deste Supremo Tribunal no sentido de que a competência da Justiça Federal para julgar o crime de falsificação de documentos somente será fixada nos casos em que comprovada a intenção do agente em causar lesão a bens, interesse ou patrimônio da União. Precedentes.
+    2. No caso dos autos, verifica-se que o entendimento prolatado pelo Tribunal a quo, ao fixar a competência do feito perante a Justiça Comum Estadual, não destoa da jurisprudência desta Corte Suprema, eis que deixou expressamente consignado que “a prática do ilícito penal, tinha como escopo falsificar Certidões de Quitação Eleitoral, para atender uma formalidade da FENASG (Federação Nacional das Empresas de Seguros Privados e de Capitalização) e, desta forma, inexiste qualquer lesão ao interesse da União”.
+    …...................................................................................................
+    4. Agravo regimental a que se nega provimento.
+    (Agravo regimental nos embargos de declaração no recurso extraordinário n. 1.231.125, Ministro Edson Fachin – com meus grifos)
+    Sendo assim, entendo que há plausibilidade jurídica (fumus boni juris) nas alegações da parte impetrante, bem como possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), no caso da continuidade da realização dos atos processuais.
+    Em face do exposto, defiro a medida liminar, apenas para, nos termos do pedido formulado pela parte impetrante, determinar a suspensão da Ação Penal nº 5000772-05.2019.4.03.6138 no estado em que se encontra, até o posterior julgamento do mérito do presente habeas corpus.
+    Vista ao Ministério Público Federal.
+    Intime-se. Publique-se.
+Brasília, 05 de outubro de 2021.
+Ministro NUNES MARQUES
+Relator
