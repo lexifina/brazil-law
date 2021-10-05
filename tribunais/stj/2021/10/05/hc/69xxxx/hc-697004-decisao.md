@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que a paciente cumpre pena de 9 anos e 4 meses de reclusão, em regime fechado, pela prática do crime de roubo majorado.
+Em dia de visitação, a genitora da paciente foi flagrada ao tentar entrar na unidade prisional com material entorpecente e um carregador de celular escondidos dentro de uma lâmpada.
+O Juízo de Execuções Penais declarou nulo o procedimento disciplinar e indeferiu o pleito ministerial de interrupção de lapso temporal para fins de progressão de regime, após a prática de falta grave pela apenada.
+Interposto agravo em execução, o Tribunal de origem concedeu a liminar, suspendendo os efeitos da decisão atacada até o julgamento de mérito.
+Daí o presente writ, em que sustenta a impetrante "que a medida adotada em segunda instância guarda absoluta incompatibilidade o disposto no artigo 197, da Lei nº 7.210/1985, jáque há expressa vedação de efeito suspensivo em se tratando de recurso de agravo" (fls. 6-7).
+Requer, liminarmente e no mérito, acassação dadecisão impugnada e do efeito suspensivo empregado ao recurso interposto pelo MP, bem como o restabelecimento da decisão do Juízo das Execuções.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Na hipótese, a Corte Estadual concedeu efeito suspensivo ao agravo em execução ministerial em decisão devidamente fundamentada (fls. 33-34):
+Trata-se de Agravo em Execução Penal, interposto pelo Ministério Público do Estado do Rio de Janeiro (fls. 09/15), em face da Decisão, proferida pelo Juízo da Vara de Execuções Penais, que declarou nulo o Procedimento Disciplinar nº SEI-210081/000628/2020 e indeferiu o pleito Ministerial de interrupção do lapso temporal para fins de progressão de regime, após a prática de falta grave pela Agravada.
+Sustenta o Agravante que a apenada cumpre pena total de 09 anos e 04 meses de reclusão, em regime fechado, pela prática do delito de roubo majorado. Em dia de visitação, a genitora da apenada foi flagrada ao tentar entrar na unidade prisional com material entorpecente e um carregador de celular escondidos dentro de uma lâmpada. Argumenta o MP que a Comissão Técnica concluiu, nos autos do Procedimento Disciplinar em referência, que a conduta configura falta disciplinar de natureza grave, nos moldes do artigo 52 da LEP, razão pela qual deve ser interrompido o prazo para progressão ao regime semiaberto e elaborado o c álculo de 1/6 do remanescente da pena a contar da data do cometimento da referida falta, aplicando-se o artigo 118, inciso I, da LEP.
+Com efeito, tal entendimento coaduna-se com o teor da Súmula nº 534 do STJ:
+"A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração" (Súmula nº 534, TERCEIRA SEÇÃO, julgado em 10/06/2015, DJe 15/06/2015).
+Assim, tendo em vista as razões expostas, nesta sede sumaríssima de cognição, vislumbro que há plausibilidade no requerimento apresentado pelo Ministério Público, motivo pelo qual CONCEDO A LIMINAR, a fim de suspender os efeitos da Decisão atacada até o julgamento do mérito.
+Vale acrescentar que a jurisprudência desta Corte também adota posicionamento segundo o qual "embora o art. 197 da Lei da Execução Penal discipline o agravo em execução "sem efeito suspensivo", é equivocado concluir que a redação veda de modo absoluto a atribuição desse efeito, quando de sua ausência possa decorrer perigo de dano iminente irreparável ou de difícil reparação" ((HC 577.558/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/05/2020, DJe 09/06/2020).
+Assim, a pretensão defensiva será melhor apreciada porocasião do julgamento de mérito na origem, sem o qual esta Corte fica impedida de apreciaro alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto,indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
