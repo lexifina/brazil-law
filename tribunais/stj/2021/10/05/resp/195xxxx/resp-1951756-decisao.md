@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A., com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado (fl. 102):
+AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR. INVALIDADE. EXTINÇÃO DA AÇÃO ORIGINÁRIA. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR, DESATENDENDO, POIS, O DISPOSTO NO ART. 2º, §2º, DO DECRETO-LEI 911/69. INVALIDADE DO ATO. EXTINTA A AÇÃO ORIGINÁRIA DE BUSCA E APREENSÃO POR AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO - ART. 485, INC. IV, DO CPC/2015. RECURSO PROVIDO.
+Os embargos declaratórios opostos foram rejeitados.
+A instituição financeira recorrente sustenta violação dos artigos 85,§ 10, e 1022 do Código de Processo Civil; 2º, §§ 2º e 3ºdo Decreto-Lei 911/69; 395do Código Civil, bem como divergência jurisprudencial, alegando negativa de prestação jurisdicional. Afirma que "Não há, portanto, que se refutar a validade da notificação recusada, eis que remetida ao endereço do devedor, o que está em consonância com a jurisprudência dos Tribunais Superiorescomo determina a legislação pertinente à espécie" (fl. 144).
+Requer "a condenação da Parte Ré, ora Recorrida aos ônus sucumbenciais, com azo na teoria da causalidade, é medida que se impõe" (fl. 147).
+Assim posta a questão, passo a decidir.
+No tocante às alegações de ofensa ao art. 1.022 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar.
+Isso porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1º/3/2016.
+Esta Corte Superior tem remansoso entendimento no sentido de que a entrega da notificação no endereço contratual do devedor fiduciante, ainda que recebida por terceira pessoa, é bastante para constituí-lo em mora.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE NOTIFICAÇÃO. PROVA DO RECEBIMENTO NO ENDEREÇO DO DEVEDOR. NECESSIDADE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme o entendimento assente deste Superior Tribunal, para a constituição do devedor em mora nos contratos de alienação fiduciária, é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento, o que não ocorreu no caso dos autos, segundo as instâncias ordinárias, ocasionando a extinção da ação.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1829084/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 19.12.2019.)
+AGRAVO INTERNO. RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. ART. 3º DO DECRETO-LEI 911/1969. NECESSIDADE DE NOTIFICAÇÃO AO DEVEDOR ACERCA DA MORA. ENTREGA NO ENDEREÇO DO DEVEDOR INFORMADO EM CONTRATO. DECISÃO AGRAVADA MANTIDA.
+1. A concessão de medida liminar em ação de busca e apreensão decorrente do inadimplemento de contrato com garantia de alienação fiduciária está condicionada à mora do devedor, que, nos termos do art. 2º, § 2º, do Decreto-Lei n. 911/69, poderá ser comprovada por carta registrada efetivamente entregue no domicílio do devedor, sendo dispensada a sua notificação pessoal.
+2. Inviabilidade de alterar conclusão do tribunal de origem de ausência de entrega de notificação no endereço indicado no contrato, pois demanda incursão na seara fático-probatória, atividade não realizável nesta via especial, a teor da súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1828198/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 24.10.2019.)
+Incide, portanto, o enunciado 83 da Súmula do STJ.
+No acórdão proferido pelo Colegiado de origem, ficou consignado que, "No caso concreto, a notificação não foi válida. Constata-se que a notificação extrajudicial deixou de ser entregue no endereço do devedor constante no contrato, desatendendo, pois, o disposto no art. 2º, §2º, do Decreto-Lei 911/69, o que acarreta a invalidade da medida para fins de comprovação da mora, salientando-se, ainda, que em tendo sido recusado o recebimento da notificação, não foi procedido posterior protesto via edital.Assim, não atendido(s) requisito(s) legal(is) atinente(s) à efetiva comprovação da mora, está ausente pressuposto de constituição e de desenvolvimento válido e regular do processo, impondo-se a extinção da Ação originária de busca e apreensão (art. 485, inc. IV, do Código de Processo Civil/2015)" (fl. 100).
+Assim, a alteração dessa premissa implicaria necessariamente o reexame do conjunto fático-probatório, o que é vedado na via do recurso especial, em virtude da Súmula 7 do STJ.
+Quanto aos honorários advocatícios, o Colegiado local condenou"o autor ao pagamento das custas processuais e honorários advocatícios do patrono da parte ré, estes fixados em 10% sobre o valor atualizado da causa"(fl. 100).
+O Tribunal de origem entendeu que o autor deveria ser condenado ao pagamento de honorários advocatícios ao patrono da parte ré estes fixados em 10% sobre o valor atualizado da causa.
+Quem efetivamente deu causa à extinção do processo foi o ora recorrente.Essa partefoi quem ingressou com a ação de busca e apreensão em face do requerido, cuja decisão foi desfavorável ao ora demandante.
+Assim, deve o julgado recorrido ser mantido, pois, nos termos do art. 82 do Código de Processo Civil de 2015: "A sentença condenará o vencido a pagar honorários advogado do vencedor."
+Diante do exposto, nego provimento ao recurso.
+Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
