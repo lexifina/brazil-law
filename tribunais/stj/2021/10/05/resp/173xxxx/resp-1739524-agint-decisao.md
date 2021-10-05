@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno manejado por Banco Bradesco S.A. e outros desafiando decisão que conheceu em parte do recurso especial e, nessa extensão, negou provimento (fls. 827/830).
+Os agravantes, às fls. 938/940, atravessaram petição informando que "a Procuradoria da Fazenda Nacional, tendo sido intimada a se manifestar quanto à procedência do pedido em razão da Portaria ME 410/2020 em diversos outros casos idênticos ao presente (Recurso Especial nº 1.741.055/SP; Recurso Especial 1.935.453; Recurso Especial nº 1.943.889 e Resp 1.620.600), interposto pelos próprios recorrentes em mandados de segurança idênticos relativo a anos-calendário distintos, reconheceu expressamente em todos eles que "De fato, a Portaria ME 410/2020 atribuiu efeito vinculante à Súmula 139 do CARF. Assim, a Fazenda Nacional RECONHECE A PROCEDÊNCIA DO PEDIDO, amparada no art. 7º da Portaria PGFN nº 502, pugnando pela não condenação em honorários advocatícios"" (fl. 939).
+Aberta vista à Fazenda Nacional para manifestação quanto ao alegado pelos agravantes (fl. 947), o ente público apresentou a petição de fl. 949 (PET 00866464/2021), por meio da qual "reconhece a procedência do pedido, amparada no art. 7º da Portaria PGFN nº 502, pois, de fato, a Portaria ME 410/2020 atribuiu efeito vinculante à Súmula 139 do CARF. Pugna, ainda, pela não condenação em honorários advocatícios".
+É O BREVE RELATO.
+Considerando o efeito regressivo próprio do agravo interno e a manifestação expressa da Fazenda Nacional reconhecendo a procedência do pedido veiculado no mandamus subjacente, torno sem efeito a decisão de fls. 827/830.
+ANTE O EXPOSTO, (i) reconsidero a decisão de fls. 827/830, tornando-a sem efeito; e (ii) homologo, para que produza seus efeitos jurídicos e legais, o reconhecimento da procedência do pedido formulado na presente ação (fls. 494), extinguindo o feito com resolução do mérito, com espeque no art. 487, III, a, do CPC.
+Custas pelo impetrado (art. 90 do CPC).
+Sem honorários (Súmula 105/STJ).
+Publique-se.
