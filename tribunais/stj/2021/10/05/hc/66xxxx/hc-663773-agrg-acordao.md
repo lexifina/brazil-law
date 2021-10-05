@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus por inexistência de ilegalidade flagrante, que buscava a substituição da pena privativa de liberdade por multa, sob a alegação de ausência de fundamentação para afastar o maior benefício previsto no art. 44, §2º do Código Penal.
+Reitera o agravante a inexistência de fundamentação idônea para a pena mais grave de prestação de serviços à comunidade, buscando sua substituição por multa.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÂNSITO. LESÃO CORPORAL CULPOSA. ART. 303 C/C 302, I E II, DA LEI N. 9.503/1997. PLEITO DE SUBSTITUIÇÃO DA PENA RESTRITIVA DE DIREITO DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE POR MULTA. IMPOSSIBILIDADE. PREVISÃO EXPRESSA DO ART. 312-A DO CÓDIGO DE TRÂNSITO BRASILEIRO - CTB. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, em "uma interpretação teleológica da legislação especial sobre os crimes de trânsito permite considerar que a prestação de serviços à comunidade é a alternativa padrão, devido à sua finalidade pedagógica, que é evidenciada pelo art. 312-A da Lei n. 9.503/1997, sendo certo que o paciente, no caso destes autos, foi condenado pelo crime de lesão corporal culposa na direção de veículo automotor, previsto no art. 303, caput, do CTB, crime que está entre aqueles para os quais aquele dispositivo prevê a substituição de pena privativa de liberdade por pena restritiva de direitos" (AgRg no HC 617.512/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/11/2020, DJe 27/11/2020).
+2. Agravo regimental improvido.
+VOTO
+O agravo regimental foi interposto contra decisão assim fundamentada:
+"Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+O Tribunal local assim se pronunciou acerca da pena aplicada:
+Persegue a defesa a substituição da pena privativa de liberdade por restritiva de direitos, qual seja a pena de multa, afastada a de prestação de serviços à comunidade, ante a ausência de fundamentação na decisão e por ser medida mais benéfíca ao acusado.
+Todavia, vislumbra-se impossível a substituição a ser feita.
+Segundo menciona o art. 44, §2º, do Código Penal:
+Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos (grifou-se).
+Respeitada a discricionariedade do magistrado sentenciante, a pena restritiva imposta em favor do apelante, tal como a prestação de serviços à comunidade, mostra-se adequada ao caso concreto.
+Colhe-se da sentença:
+A substituição por pena restritiva de direitos (CP, art. 44) é viável, haja vista que se trata de condenado primário condenado a pena inferior a 4 anos, cujas circunstancias judiciais indicam a suficiência da medida. Logo, aplico a seguinte medida substitutiva: a) prestação de serviços à comunidade, na proporção de 1 hora para cada dia de condenação, em instituição a ser indicada na posterior fase de execução  ..  (ev. 80).
+Ressalta-se que a pena de multa, diante da vulnerabilidade econômica da apelante, improvavelmente será adimplida, e não alcançará a repressão necessária pretendida pela norma penal.
+ ..
+Dessa feita, de se manter a substituição da pena privativa de liberdade por uma restritiva de direito fixada ao recorrente nos termos da sentença (ev. 80). (fls. 402/404)
+Como se observa, as instâncias ordinárias descaram que o paciente faz jus à substituição de penas e entendeu adequado ao caso a fixação da medida de prestação de serviços à comunidade.
+Na espécie, pretende o paciente que seja fixada a pena alternativa de prestação pecuniária.
+Ocorre que este Sodalício já se pronunciou em diversas oportunidades no sentido de ser recomendável nos crimes de trânsito a substituição da pena privativa de liberdade por prestação de serviços à comunidade atendendo ao disposto no art. 312-A, CTB:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE. ART. 306, CAPUT, DA LEI N. 9.503/1997. PLEITO DE SUBSTITUIÇÃO DA PENA RESTRITIVA DE DIREITO DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE POR PENA PECUNIÁRIA. IMPOSSIBILIDADE. SÚMULA 171/STJ. INCIDÊNCIA. PREVISÃO EXPRESSA DO ART. 312-A DO CÓDIGO DE TRÂNSITO BRASILEIRO. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - Na hipótese, o agravante foi condenado como incurso nas sanções do art. 306, do Código de Trânsito Brasileiro, que prevê, em seu preceito secundário, a cominação de pena de detenção, de 6 (seis) meses a 3 (três) anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor, substituída a pena corporal por prestação de serviços à comunidade.
+II - Não se vislumbra constrangimento ilegal na espécie, uma vez que o v. acórdão vergastado está em consonância com a orientação jurisprudencial desta Corte de Justiça, segundo a qual "se ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, § 2º, 2ª parte do Código Penal" (AgRg no HC n. 415.618/SC, Quinta Turma, Rel. Min.
+Jorge Mussi, DJe de 04/06/2018).
+III - Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado sumular nº 171 desta Corte Superior, in verbis: "Cominadas cumulativamente, em Lei Especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa.". Precedentes.
+IV - Acrescente-se, por oportuno, que a escolha da pena restritiva de direitos, nos termos do art. 44, § 2º, do Código Penal, está afeita ao juízo de discricionariedade do juízo, não se vislumbrando, na hipótese, desproporcionalidade ou flagrante ilegalidade capaz de ensejar sua revisão por esta Corte.
+V - Em complemento, ressalte-se que para o crime previsto no art. 306 da Lei n. 9.503/1997 (Código de Trânsito Brasileiro), nos casos de substituição de pena privativa de liberdade, a pena restritiva de direitos deverá ser, obrigatoriamente de prestação de serviços à comunidade, por determinação expressa do dispositivo legal contido no seu art. 312-A. Precedentes.
+VI - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC 622.369/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. LESÕES CORPORAIS NA DIREÇÃO DE VEÍCULO AUTOMOTOR POR PESSOA NÃO HABILITADA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PRESTAÇÃO DE SERVIÇOS À COMUNIDADE DEVIDAMENTE FUNDAMENTADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 44, § 2º, primeira parte, do Código Penal prevê a possibilidade de substituição da pena privativa de liberdade, nas condenações iguais ou inferiores a 1 ano, por uma restritiva de direitos ou por multa, cabendo ao Magistrado processante, de forma motivada, eleger qual medida é mais adequada ao caso concreto, como na hipótese (HC n. 557.121/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 25/8/2020.
+2. Na hipótese, o Magistrado local converteu a pena privativa de liberdade por prestação de serviços à comunidade enfatizando a preferência por atividades voltadas à educação e prevenção de eventos de trânsito, justificativa que se mostra idônea.
+3. Nesse contexto, esclareça-se que uma interpretação teleológica da legislação especial sobre os crimes de trânsito permite considerar que a prestação de serviços à comunidade é a alternativa padrão, devido à sua finalidade pedagógica, que é evidenciada pelo art. 312-A da Lei n. 9.503/1997, sendo certo que o paciente, no caso destes autos, foi condenado pelo crime de lesão corporal culposa na direção de veículo automotor, previsto no art. 303, caput, do CTB, crime que está entre aqueles para os quais aquele dispositivo prevê a substituição de pena privativa de liberdade por pena restritiva de direitos.
+4. Agravo regimental não provido.
+(AgRg no HC 617.512/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/11/2020, DJe 27/11/2020)
+Assim, inexiste ilegalidade a ser reparada.
+Ante o exposto, não conheço do habeas corpus."
+Como se observa, não foi conhecido o habeas corpus em razão da inexistência de ilegalidade flagrante na pena fixada ao paciente, condenado por crime de trânsito, ocasião em que foi aplicada pena de prestação de serviços à comunidade, considerando que para delitos desta natureza a própria jurisprudência desta Corte admite a obrigatoriedade da fixação da pena substitutiva de prestação de serviços à comunidade nos termos do art. 312-A, CTB.
+As razões do agravo regimental não foram capazes de afastar os fundamentos da decisão agravada, em especial a sua consonância com a jurisprudência desta Quinta Turma, razão pela a sua manutenção é necessária.
+Ante o exposto, voto por negar provimento ao agravo regimental.
