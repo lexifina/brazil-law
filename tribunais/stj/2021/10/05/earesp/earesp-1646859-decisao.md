@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por CLAUDIA MARIA MATTOSO NEVES com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com o REsp n. 1.730.974/PB, proferido pela 2ª Turma, assim ementado:
+"PROCESSUAL CIVIL, CONSTITUCIONAL E ADMINISTRATIVO. RECONHECIMENTO ADMINISTRATIVO DO PEDIDO. FALTA DE DOTAÇÃO ORÇAMENTÁRIA. ESPERA INDEFINIDA. PAGAMENTO VIA PRECATÓRIO OU RPV. POSSIBILIDADE. JUROS DE MORA E CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO.
+SÚMULA 282/STF.
+1. Na hipótese dos autos, o entendimento do Sodalício a quo está em conformidade com a orientação do Superior Tribunal de Justiça de que, caso inexista disponibilidade orçamentária para o imediato atendimento da ordem, o pagamento deverá ser efetuado por meio de regular processo de execução contra a Fazenda Pública, com a expedição de precatório ou, em analogia, RPV (art. 730 do CPC). Portanto, está presente o interesse de agir.
+2. Não se conhece de Recurso Especial quanto a matéria não especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+3. Recurso Especial não provido."
+A título de reforço junta ainda os paradigmas de fls. 274/299.
+Explica que "A interposição recursal decorre de má interpretação A interposição recursal decorre de má interpretação processual e processual e de inobservância a vedação ao enriquecimento sem causa inobservância a vedação ao enriquecimento sem causa e a responsabilidade e a responsabilidade objetiva da Administração objetiva da Administração, pois, o órgão da instância de origem incidiu em , pois, o órgão da instância de origem incidiu em equívoco equívoco ao invocar ao invocar o instituto da prescrição previsto no o instituto da prescrição previsto no art. 1º do Decreto do Decreto 20.910/32, o qual, 20.910/32, o qual, não se aplica ao caso, visto que, não se aplica ao caso, visto que, não houve não houve satisfação da satisfação da obrigação de fazer/pagar e nem houve obrigação de fazer/pagar e nem houve instauração prévia de procedimento instauração prévia de procedimento administrativo administrativo para para quantificar o valor devido quantificar o valor devido e o ordenamento jurídico veda e o ordenamento jurídico veda a incidência de enriquecimento sem causa da Administração a incidência de enriquecimento sem causa da Administração." (fls. 269)
+Requer, desse modo, o provimento dos embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da intempestividade recursal. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Determino a majoração dos honorários recursais em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, no importe de 15% sobre o valor já arbitrado de honorários sucumbenciais, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
