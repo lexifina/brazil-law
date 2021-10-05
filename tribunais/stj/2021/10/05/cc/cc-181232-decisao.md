@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado por JRA - Empreendimentos e Engenharia Ltda. apontando como suscitados o Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de São Paulo/SP e o Juízo da 65ª Vara do Trabalho de São Paulo/SP.
+Sustenta, em síntese, que, "diante das dificuldades econômicas e financeiras que vinha sofrendo, viu-se obrigada a se socorrer dos benefícios legais da Cautelar Antecedente de Recuperação Judicial, nos termos doartigo 6º, caput, da LREF, bem comoexpressamente previsto no art. 20-B, § 1º da mesma lei, tendo o feito sido distribuído no dia 26 de maio de 2.021, perante o MM JUÍZO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO/SP, sob o número 1053832-87.2021.8.26.0100" (e-STJ, fls. 3-4).
+Afirma, ainda, que, em 2/6/2021, a tutela de provisória foi parcialmente deferida pelo Juízo da recuperação a fim de suspender todas as ações e execuções promovidas em seu desfavor, pelo prazo de 60 (sessenta) dias.
+Aduz que, em razão disso, peticionou nas ações contra ela promovidas, informando a concessão da liminar, contudo, não obstante a maioria dos Juízos tenham atendido a ordem do Juízo recuperacional, "o MM. JUÍZO DA 65ª VARA DO TRABALHO DE SÃO PAULO negou-se a cumprir a determinação do juízo recuperacional e determinou a penhora de bens da Suscitante no importe de R$1.500,00 (mil e quinhentos reais)" (e-STJ, fl. 4).
+Diante disso, assevera estar configurado o conflito de competência e pugnou pela "concessão liminar de tutela específica, com efeito "erga omnes", nos termos do art. 66 do Códigode Processo Civil c/c art. 196 do RI-STJ para o fim de que seja determinada a imediata suspensão do processamento da Reclamação Trabalhista n.º 1000220-49.2021.5.02.0006, movida por DIMAS DA SILVA MINUTI, que tramita perante MM. JUÍZO 65ª VARA DO TRABALHO DE SÃO PAULO(JUÍZO SUSCITADO), além da anulação de todos os atos expropriatórios já praticados e que possam vir a ser praticados" (e-STJ, fl. 13).
+No mérito, requer declaração da competência do Juízo da recuperação para deliberar sobre os atos executórios praticados pelo Juízo trabalhista.
+A liminar foi deferida pela Presidência do STJ, a fim de suspender os atos executórios (e-STJ, fls. 47-50).
+Prestadas informações pelos Juízos suscitados (e-STJ, fls. 57-60 e 63-64), o Ministério Público ofertou parecer opinando pelo não conhecimento do conflito (e-STJ, fls. 503-506).
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 66 do CPC de 2015, somente se configura conflito positivo de competência quando dois ou mais juízes se consideram competentes para o julgamento de uma mesma causa.
+No caso dos autos, ao prestar informações a este Superior Tribunal de Justiça, o Juízo da 65ª Vara do Trabalho de São Paulo/SPinformou que deferiu o pedido da ora suscitante e ordenoua suspensão dos atos executórios pelo prazo de 60 (sessenta) dias, conforme determinado pelo Juízo da recuperação judicial (e-STJ, fl. 59).
+Portanto, diante das informações prestadas pelo Juízo suscitado, verifica-se não haver conflito de competência entre o Juízo laboral e o Juízo recuperacional, pois os atos de constrição do patrimônio da sociedade recuperandaforam suspensos pelo prazo estabelecido pelo Juízo da recuperação.
+A propósito:
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO TRABALHISTA E FALIMENTAR. INVASÃO DE COMPETÊNCIA. INOCORRÊNCIA.
+1. Para a caracterização de conflito de competência, nos termos do art. 115 do CPC, faz-se necessário que dois ou mais juízos declarem-se competentes ou incompetentes para o processamento e julgamento da mesmademanda, ou divirjam a respeito da reunião ou da separação de processos.
+2. A ausência de qualquer constrição sobre bens ou créditos da suscitante praticada pelo juízo trabalhista e a determinação, pelo próprio juízo trabalhista, de que seja habilitado o crédito junto ao juízo da recuperação judicial impõe o não conhecimento do conflito.
+3. Conflito de competência não conhecido. (CC 111.602/DF, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 28/09/2011, DJe 11/10/2011)
+Ante o exposto, não conheço do conflito de competência e revogo a liminar anteriormente deferida.
+Publique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO JUDICIAL. JUÍZO TRABALHISTA. REVOGAÇÃO DOS ATOS DE CONSTRIÇÃO DO PATRIMÔNIO DA SOCIEDADE RECUPERANDA PELO PRAZO DETERMINADO PELO JUÍZO DA RECUPERAÇÃO. CONFLITO NÃO CONHECIDO.
