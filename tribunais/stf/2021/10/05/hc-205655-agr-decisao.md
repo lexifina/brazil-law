@@ -1,0 +1,13 @@
+Despacho: O agravante requer, por meio da Petição eDOC 51, a realização de sustentação oral.
+    1. O pleito, entretanto, não comporta acolhimento.
+    Conquanto as alterações promovidas na Resolução 642/2019, que disciplina o julgamento em ambiente eletrônico no âmbito do Supremo Tribunal Federal, tenham objetivado, em primeiro plano, a modernização e a transparência dessas sessões, dilatando o espaço de participação da defesa constituída, de modo a possibilitar-lhe atuação similar àquela conformada no modo presencial, a exemplo da possibilidade de prestar esclarecimentos sobre a matéria de fato ou de realização de  sustentação  oral, por meio de peticionamento eletrônico no Supremo Tribunal Federal, esta última hipótese cinge-se, por óbvio, às hipótese cabíveis.
+    Nessas circunstâncias, há óbice intransponível à prática do ato processual almejado, expressamente assentado pelo Pleno desta Suprema Corte, no sentido de que “[n]o âmbito da jurisdição do Supremo Tribunal Federal, não cabe    sustentação  oral  no julgamento de agravo regimental de decisão monocrática proferida pelo Relator em sede de  habeas  corpus. Constitucionalidade do art. 131, § 2º, do RISTF. Precedentes” (HC 164.593 AgR, Rel. Min. Edson Fachin, j. 4.5.2020).
+    Esse entendimento, em verdade, já era o adotado por ambas as Turmas desta Suprema Corte. À guisa de exemplo, os seguintes julgados:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS SUSTENTAÇÃO ORAL EM SEDE DE AGRAVO REGIMENTAL INADMISSIBILIDADE- CONSTITUCIONALIDADE DA VEDAÇÃO REGIMENTAL (RISTF, ART. 131, § 2º) PRETENDIDO RECONHECIMENTO DE NULIDADE ABSOLUTA EM FACE DE ALEGADO CERCEAMENTO DE DEFESA ELEMENTOS INFORMATIVOS, PRODUZIDOS NOS AUTOS POR ÓRGÃO ESTATAL, QUE CONTRARIAM REFERIDA ALEGAÇÃO PRESUNÇÃO JURIS TANTUM DE VERACIDADE DAS INFORMAÇÕES OFICIAIS CIRCUNSTÂNCIA QUE FAZ INSTAURAR SITUAÇÃO DE ILIQUIDEZ EM RELAÇÃO AOS FATOS SUSCITADOS NA IMPETRAÇÃO REAPRECIAÇÃO DE MATÉRIA FÁTICO- -PROBATÓRIA INVIABILIDADE DESSA ANÁLISE NA VIA SUMARÍSSIMA DO HABEAS CORPUS PRECEDENTES PARECER DA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO DO AGRAVO RECURSO DE AGRAVO IMPROVIDO. (RHC 156.511 AgR, Relator(a): Min. CELSO DE MELLO, Segunda Turma, julgado em 12/4/2019, grifei)
+    “É inviável pedido de sustentação oral em agravo regimental no habeas corpus, nos termos do § 2º do artigo 131 do Regimento Interno deste Supremo Tribunal Federal. O advento do CPC/2015 não alterou o entendimento vigente a respeito da matéria.” (HC 128684 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 05/10/2018)
+    2. Ante o exposto, indefiro o pedido.
+    Publique-se. Intime-se.
+    Brasília, 5 de outubro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
