@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 3ª Regiãoassim ementado (e-STJ, fls. 1.021-1.023):
+AGRAVO REGIMENTAL EM AÇÃO RESCISÓRIA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO POR ABANDONO DA CAUSA. INTIMAÇÃO PESSOAL. ART. 267, § 1º, DO CPC. MANIFESTAÇÃO QUE NÃO ATENDEU AO DESPACHO. SÚMULA 240 DO E. STJ INAPLICÁVEL. IMPRESCINDIBILIDADE DA MANIFESTAÇÃO PARA AFERIR O INTERESSE DE AGIR. AGRAVO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+1. Nas ações rescisórias, assim como nas execuções não embargadas, não se há falar em interesse do réu na continuidade do processo, pois, ao contrário de outras ações, em que o réu possui interesse na improcedência do pedido do autor, a fim de que a coisa julgada surja como obstáculo à repropositura de ação idêntica, aqui, o réu é titular de direito reconhecido por sentença transitada em julgado, cabendo reconhecimento de interesse no prosseguimento da ação rescisória somente naqueles casos em que o biênio legal não restou superado. A tutela objetivada pela ação rescisória, mais do que qualquer outra, possui natureza predominantemente pública, tanto que ao revel não se impõem um dos efeitos da revelia, que é a presunção de veracidade dos fatos alegados pelo autor. Outrossim, todos os réus foram declarados revéis.
+2. Falta de prova de eventual impedimento ao acesso dos autos por mais de seis meses. Ausência de cópia de eventual pedido de vista deduzido nos autos originários ou de obstáculo criado pelo Cartório da respectiva Vara.
+3. Manifestação que não atende ao determinado. A fundamentação exigida é a do caso concreto. Evidente, portanto, a inutilidade da resposta oferecida pela autarquia, que se limitou a afirmar que a decisão rescindenda é dotada de eficácia, somente passível de ser desconstituída via rescisória.
+4. Nada impedia o INSS de manifestar-se nos termos do agravo, dentro do prazo fixado, prorrogado por diversas vezes. Ao fazê-lo somente em sede de agravo regimental, passados mais de oito meses da determinação, não deve ser essa parte do recurso conhecida, pois diz com o interesse de agir, ao passo que a decisão, sem ingressar nessa questão, extinguiu o processo sem resolução de mérito, por abandono da causa, única matéria passível de devolução à Seção.
+5. Agravo regimental parcialmente conhecido e, na parte conhecida, desprovido.
+A parte recorrente alega contrariedade aos arts. 3º, 46, 47, parágrafo único, 48, 128, 267, III, IV e VI, 460 e 557, § 1º, do CPC/1973.
+Sustenta, em suma, que a violação teria ocorrido quando o Tribunal a quo decretou a extinção do feito, sem julgamento do mérito, por entender que a autarquia deixou de manifestar seu interesseno prosseguimento do feito, o que teria caracterizado o abandono da causa por mais de trinta dias.
+Afirma que, no recurso de agravo, ficou demonstrado o interesse de ação e que não houve abandono de causa.
+Contrarrazões apresentadas (e-STJ, fls. 1.051-1.061).
+Admitido o recurso especial na origem (e-STJ, fls. 1.078-1.080), subiram os autos a esta Corte de Justiça.
+O Ministério Público Federal apresentou o parecer pelo não conhecimento do recurso especial (e-STJ, fls. 1.095-1.098).
+É o relatório.
+O Tribunal de origem afirmou o abandono da causanestes termos (e-STJ, fls. 1.017-1.018):
+Destarte, nada impedia o INSS de manifestar-se nos termos supra, dentro do prazo fixado, prorrogado por diversas vezes. Ao fazê-lo somente emsede de agravo regimental, passados mais de oito meses da determinação, não deve ser essa parte do recurso conhecida, pois diz com o interesse de agir, ao passo que a decisão, sem ingressar nessa questão, extinguiu o processo sem resolução de mérito, por abandono da causa, única matéria passível de devolução à Seção.
+Em vistadisso, para reformar o acórdão recorrido, necessário seria o revolvimento do material fático-probatório, o que é obstado pelo teor da Súmula 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja recurso especial.".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
