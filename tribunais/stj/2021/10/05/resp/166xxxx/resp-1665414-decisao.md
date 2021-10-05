@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJfls. 228-232):
+PREVIDENCIÁRIO. CIVIL E PROCESSO CIVIL. JUÍZO DE RETRATAÇÃO. DECADÊNCIA. OCORRÊNCIA.
+Nos termos do RE 626.489 (Relator: Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 16/10/2013, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL), que tratou da revisão do ato de concessão de benefícios previdenciários, o prazo decadencial de 10 (dez) anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição.
+Os embargos de declaração foram rejeitados (e-STJfls. 287-291).
+Defende a autarquia, em síntese, que ocorreu decadência da pretensão da parte autora, uma vez que, tendo em vista o interregno superior a 10 (dez) anos entrea publicação da Medida Provisória n. 1.523-9/1997, em 28 de junho de 1997, convertida na Lei n. 9.528/1997, e o ajuizamento da ação revisional, em 08 de fevereiro de 2010, a decisão em ação civil pública não pode ser considerada como causa de interrupção do prazo decadencial.
+Sem contrarrazões, o recurso especial foi admitido na origem(e-STJfl. 310).
+Parecer pelo Ministério Público Federal pelodesprovimento do recurso especial(e-STJfls. 325-329).
+É o relatório.
+Cumpridos os requisitos de admissibilidade do recurso especial, passo a decidir.
+Inicialmente, cumpre destacar que o posicionamento deste Tribunal é no sentido de que "incide o prazo de decadência do art. 103 da Lei 8.213/1991, instituído pela Medida Provisória 1.523-9/1997, convertida na Lei 9.528/1997, no direito de revisão dos benefícios concedidos ou indeferidos anteriormente a esse preceito normativo, com termo a quo a contar da sua vigência (28.6.1997)" (Tema 544), o que se aplica ao caso em questão.
+Na origem, o prazo decadencial, embora ultrapassados os 10 anos entre a vigência da norma e o ajuizamento da ação, foi de que teria ocorrido interrupção do prazo decadencialem razão de decisão em ação civil pública.
+Contudo, tal entendimento vai de encontro aojulgamento realizado sob o rito dos recursos especiais repetitivos (Tema 975), em que a Primeira Seção do Superior Tribunal de Justiça (STJ) fixou a tese de que é aplicável o prazo decadencial de dez anos, estabelecido no caput do art. 103 da Lei n. 8.213/1991, aos pedidos de revisão de benefício previdenciário nas hipóteses em que a questão controvertida não foi apreciada no ato administrativo de concessão do benefício. Decidiu-se nos seguintes termos:
+PREVIDENCIÁRIO. CONTROVÉRSIA SUBMETIDA AO REGIME DOS ARTS. 1.036 E SEGUINTES DO CPC/2015. TEMA 975/STJ. REGIME GERAL DE PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. REVISÃO DO ATO DE CONCESSÃO. QUESTÕES NÃO DECIDIDAS. DECADÊNCIA ESTABELECIDA NO ART. 103 DA LEI 8.213/1991. CONSIDERAÇÕES SOBRE OS INSTITUTOS DA DECADÊNCIA E DA PRESCRIÇÃO. AFASTAMENTO DA APLICAÇÃO DO PRINCÍPIO DA ACTIO NATA.
+ ..
+6. Por subtender a violação do direito, o regime prescricional admite causas que impedem, suspendem ou interrompem o prazo prescricional, e, assim como já frisado, a ação só nasce ao titular do direito violado.
+7. Já a decadência incide sobre os direitos exercidos independentemente da manifestação de vontade do sujeito passivo do direito, os quais são conhecidos na doutrina como potestativos. Dessarte, para o exercício do direito potestativo e a consequente incidência da decadência, desnecessário haver afronta a esse direito ou expressa manifestação do sujeito passivo para configurar resistência, pois o titular pode exercer o direito independentemente da manifestação de vontade de terceiros.
+8. Não há falar, portanto, em impedimento, suspensão ou interrupção de prazos decadenciais, salvo por expressa determinação legal (art. 207 do CC).
+9. Por tal motivo, merece revisão a corrente que busca aplicar as bases jurídicas da prescrição (como o princípio da actio nata) sobre a decadência, quando se afirma, por exemplo, que é necessário que tenha ocorrido a afronta ao direito (explícito negativa da autarquia previdenciária) para ter início o prazo decadencial.
+ ..
+12. Fosse a intenção do legislador exigir expressa negativa do direito vindicado, teria ele adotado o regime prescricional para fulminar o direito malferido. Nesse caso, o prazo iniciar-se-ia com a clara violação do direito e aplicar-se-ia o princípio da actio nata.
+13. Não é essa compreensão que deve prevalecer, já que, como frisado, o direito que se sujeita a prazo decadencial independe de violação para ter início.
+ ..
+15. Considerando-se, por fim, a elasticidade do lapso temporal para os segurados revisarem os benefícios previdenciários, a natureza decadencial do prazo (não aplicação do princípio da actio nata) e o princípio jurídico básico de que ninguém pode alegar desconhecimento da Lei (art. 3º da LINDB), conclui-se que o prazo decadencial deve ser aplicado mesmo às questões não tratadas no ato de administrativo de análise do benefício previdenciário. (grifo nosso).
+(REsp 1.648.336/RS, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 11/12/2019, DJe 4/8/2020).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568/STJ, dou provimentoao recursoespecial,nos termos da fundamentação, para reconhecer a decadência do direito de revisão de benefício previdenciário.
+Determino a inversão dos ônus de sucumbência, ressalvando que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC/2015.
+Publique-se. Intimem-se.
