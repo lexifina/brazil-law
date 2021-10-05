@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ALEX SANDRO OSÓRIO,contra acórdão do Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n.2123985-40.2021.8.26.0000).
+Consta dos autos que o Juízo das Execuções indeferiu ao apenado o pedido de saída temporária.
+Irresignada, a defesa impetrou prévio writ no Tribunal de origem, que denegou a ordem,em julgamento assim resumido:
+"Habeas Corpus - Execução de pena - Decisão que, nos autos do pedido de providências nº 0005939-75.2021.8.26.0502, indeferiu pedido de concessão do benefício da saída temporária formulado pela defesa do reeducando - Impetração pleiteando o acolhimento da referida pretensão, sob o argumento de que "a exigência de cumprimento de 1/6 da pena para quem teve fixado regime inicial semiaberto é manifestamente ilegal e é o mesmo que impedir o direito, já que, como é sabido, após o lapso de um sexto o apenado poderá progredir para o regime aberto"- Descabimento - Hipótese que ensejaria o não conhecimento da impetração, considerando que o impetrante pretende se insurgir contra decisão contra a qual caberia agravo em execução - Inteligência do artigo 197 da Lei de Execução Penal - Pretensão que, todavia, é excepcionalmente apreciada na estreita via eleita em razão do manifesto afrouxamento interpretativo por parte dos Tribunais Superiores, mormente durante a pandemia de COVID-19 - Réu condenado no regime inicial semiaberto que não cumpriu 1/6 (um sexto) da pena - Requisito objetivo legalmente previsto não preenchido - Inteligência do artigo 123, inciso II, da Lei de Execução Penal - Ausência de coação ilegal, atual ou iminente, ao direito de permanência ou locomoção do paciente ou de outrem - Precedentes do Colendo Superior Tribunal de Justiça e desta Colenda Câmara em casos análogos - Constrangimento ilegal não demonstrado - ORDEM DENEGADA." (fl. 57)
+Em suas razões, o recorrente aduz que"aquestão posta no presente "writ"é simples e diz com a impossibilidade de se exigir o cumprimento do lapso temporal de 1/6 para obtenção da saída temporária de preso cujo regime inicial fixado foi o semiaberto, sob pena de se esvaziar por completo a aplicação do instituto" (fl. 75).
+O Ministério Público Federal opinou pelo desprovimento do recurso, nos termos da seguinte ementa:
+"PENAL - PROCESSUAL PENAL - RECURSO EM HABEAS CORPUS - SAÍDA TEMPORÁRIA - REQUISITO OBJETIVO NÃO CUMPRIDO - INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL .
+PARECER PELO DESPROVIMENTO DO RECURSO."(fl. 126)
+É o relatório.
+Decido.
+O acórdão recorrido entendeu que o apenado"iniciou a expiação da reprimenda dia 18/01/2021 e fará jus ao benefício da saída temporária em 08/03/2022.Portanto, nos termos do artigo 123, inciso II, da Lei de Execução Penal, o paciente não cumpriu o requisito objetivo legalmente exigido, ou seja, o resgate de 1/6 (um sexto) da pena, sendo descabido o pleito"(fl. 62).
+A concessão da saída temporária para o preso em cumprimento de pena definitiva em regime inicial semiaberto depende do cumprimento de requisitos objetivos e subjetivos a serem avaliados pelo Juízo das Execuções no curso do resgate da reprimenda.
+Na hipótese dos autos,se não foi preenchido sequer o requisito objetivo de cumprimento de 1/6 da pena corporal, não há falar em constrangimento ilegal a ser sanado por esta Corte.A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. REGIME INICIAL SEMIABERTO. SAÍDA TEMPORÁRIA. REQUISITO OBJETIVO NÃO CUMPRIDO. NECESSIDADE DE CUMPRIMENTO DE 1/6 (UM SEXTO) DA PENA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço, mormente porque o entendimento desta Corte Superior é no sentido de que, à luz do disposto no art. 123, inciso II, da Lei de Execução Penal, o condenado deve atender ao requisito do prazo mínimo de cumprimento da pena, mesmo nos casos de condenados em regime inicial semiaberto.
+3. Agravo regimental desprovido.
+(AgRg no HC 550.844/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2020).
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
