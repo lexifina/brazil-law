@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetradoem face de acórdão, assim ementado (fl. 10):
+EMENTA: AGRAVO DE EXECUÇÃO PENAL. NÃO COMPARECIMENTO AO TRABALHO EXTERNO DURANTE PERÍODO DE SAÍDA TEMPORÁRIA. VEDAÇÃO DE ATRIBUIÇÃO DE FALTA GRAVE. IMPOSSIBILIDADE. RECURSO CONHECIDO E IMPROVIDO.
+1. O trabalho externo e a saída temporária constituem benesses distintas, previstas na Lei nº 7.210/1984, sendo cabível as suas concessões de forma simultânea.
+2. Diante da impossibilidade de reconhecimento de vínculo de emprego em razão da expressa previsão legal disposta na Lei nº 7.210/1984 (Precedente TRT 4ª Região), que deriva do fato de o preso não ter a liberdade de contratar, resta inviável a equiparação entre as férias dos trabalhadores livres e o período de saída temporária dos apenados.
+3. Quando concedidos, os benefícios devem ser cumpridos de forma simultânea, não sendo cabível falar em mitigação de um direito em detrimento do outro.
+4. O apenado que se ausenta do trabalho externo sem autorização judicial incide no art. 50, inciso VI, c/c art. 39, inciso V, da Lei de Execução Penal. Precedente STJ.
+5. Recurso conhecido e improvido.
+O paciente ingressou com Agravo em Execução perante o Tribunal de origem a fim de requerer que nos dias de saída temporária do cárcere, pudesse se ausentar do local de trabalho, sob pena de impossibilitar sua convivência familiar.
+A impetrante sustenta que tal decisão desrespeita os deveres previstos no art. 39, da Lei n. 7.210/1984, motivo pelo qual requer a reforma da decisão objurgada.
+Entende que a não exigibilidade de comparecimento ao trabalho externo durante o gozo da saída temporária decorreria da ausência do direito às férias do apenado, sendo razoável a equiparação entre essas benesses.
+Alega, ainda, que o entendimento esposado no acórdão atacado dificulta, ou até mesmo impossibilita, a experiência do convívio familiar pelo apenado.
+Requera concessão da ordem para afastar a obrigatoriedade do paciente comparecer ao respectivo local de trabalho durante todo o período da saída temporária, assim como afastar a possibilidade de incorrer em falta grave.
+As informações foram prestadas.
+O Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento do writ ou pela sua denegação.
+No tema, assim se manifestou o Tribunal de origem (fls. 12-15):
+Trata-se de Agravo em Execução, interposto por EDNEY RIBEIRO DOS SANTOS, face decisão proferida pela MM. Juíza de Direito da 2ª Vara Criminal de Viana, queconcedeu o benefício da saída temporária ao reeducando, ressalvando, no entanto, caso o mesmo desempenhe atividade laborativa externa, a obrigatoriedade de comparecimento ao respectivo local de trabalho durante todo o período, sob pena de incorrer em falta grave.
+Nas razões recursais, alega, em síntese, o defensor do recorrente, que a não exigibilidade de comparecimento ao trabalho externo durante o gozo da saída temporária decorre da ausência do direito às férias do apenado, sendo razoável a equiparação entre essas benesses. Alega ainda, que a decisão agravada dificulta, ou até mesmo impossibilita, a experiência do convívio familiar pelo apenado.
+Por fim, registra a inexistência de dispositivos legais que estabelecem regras específicas para a execução do trabalho, bem como entendimentos pacíficos quanto a possibilidade de o não comparecimento ao local de labor durante o período da saída temporária constituir desrespeito aos deveres previstos no art. 39, da Lei 7.210/1984, motivo pelo qual requer a reforma da r. decisão objurgada.
+Pois bem.
+Ao compulsar os autos, verifico que a Magistrada a quo, concedeu as saídas temporárias referentes aos anos de 2020 e 2021 em momento posterior à autorização para o labor externo, ressalvando, assim, a necessidade de comparecimento do apenado em seu local de trabalho no referido período.
+Apesar de não desconhecer os fundamentos suscitados pela nobre Defensoria Pública Estadual nas razões recursais, reputo adequada a condição imposta na decisão agravada, tendo em vista que o trabalho externo e a saída temporária constituem benesses distintas, previstas na Lei nº 7.210/1984, sendo cabível as suas concessões de forma simultânea.
+A Lei de Execuções Penais preceitua em seu artigo 28, que o trabalho realizado pelo apenado, seja no âmbito interno ou externo da unidade prisional, corresponde a um dever social e condição da dignidade humana, possuindo finalidade educativa e produtiva. Contudo, em virtude de previsão expressa na referida lei, a atividade não se encontra sujeita ao regime da Consolidação das Leis do Trabalho.
+Sendo assim, embora sustente-se que o referido dispositivo legal não constitui empecilho para o reconhecimento de vínculo empregatício na atividade laborativa externa, motivo pelo qual é razoável a equiparação da importância das férias ao período de saída temporária dos apenados, friso recente julgado do Tribunal Regional do Trabalho da 4ª Região em que se destacou o seguinte, in verbis:
+TRABALHO DO PRESO. VÍNCULO DE EMPREGO. IMPOSSIBILIDADE JURÍDICA. Nos termos do art. 28, §2º, da Lei de Execuções Penais a prestação de trabalho por apenados não gera vínculo de emprego celetista. (ROT 0021007-46.2015.5.04.0241, Rel. Des. Manuel Cid Jardon, Quinta Turma, Julgado em 28/08/2019).
+Desse modo, diante da impossibilidade de reconhecimento de vínculo de emprego, em razão da expressa previsão legal disposta na Lei nº 7.210/1984, que deriva do fato de o preso não ter a liberdade de contratar, resta inviável a equiparação pleiteada nas razões recursais.
+Registro, por oportuno, que nos termos do art. 36, §3º, da Lei de Execuções Penais, a prestação de trabalho externo às entidades privadas depende do consentimento expresso do apenado que, ao aceitar, assina um termo com a tomadora de serviço em que constam os respectivos direitos e obrigações entre estes, consoante o disposto o art. 109, parágrafo único da Portaria 332-S, da Secretaria de Estado da Justiça - SEJUS.
+Dessa forma, ciente de suas responsabilidades perante a entidade privada, deve o reeducando contemplá-las de forma integral sob pena de revogação do benefício.
+Outrossim, dispõe o art. 108, § 2º, da Portaria 332-S, de 03.07.2003, um limite de horas a serem laboradas diariamente, de modo que não haverá interferência na reinserção do apenado ao convívio familiar, sendo, portanto, compatível a coexistência e cumprimento dos benefícios em discussão.
+Por fim, entendo que a exigência do comparecimento ao trabalho no período da saída temporária não se encontra ligada às finalidades lucrativas da empresa, mas ao próprio objetivo da benesse que, além do caráter ressocializador, poderá, inclusive, auxiliar na remição da pena do reeducando.
+Assim, considerando o exposto, compartilho do entendimento de que, quando concedidos, os benefícios devem ser cumpridos de forma simultânea, não sendo cabível falar em mitigação de um direito em detrimento do outro.
+Noutro giro, salienta o d. defensor público que, quanto ao reconhecimento de falta disciplinar, é inviável invocar o disposto no art. 50, inciso VI, da Lei de Execução Penal, haja vista que as condutas estabelecidas no art. 39, inciso V, da mesma lei, apresentam caráter vago e indeterminado. Entretanto, consoante entendimento manifestado pelo Superior Tribunal de Justiça, o termo trabalho abarca a atividade externa realizada pelo apenado, de forma que, em caso de descumprimento, incidirá a falta grave, senão vejamos:
+ ..
+Diante do exposto, CONHEÇO DO RECURSO MAS NEGO-LHE PROVIMENTO, mantendo-se a decisão atacada pelos seus próprios e jurídicos fundamentos.
+A decisão do Juízo das execuções, por sua vez, consignou que (fl. 9):
+ ..
+POR TODO O EXPOSTO
+AUTORIZO o reeducando em epígrafe a ausentar-se da PAES nos períodos estabelecidos acima, CIENTIFICANDO-O, desde já, que as saídas acontecerão sempre às 09:00h do dia indicado para início do gozo do benefício, devendo o apenado retornar à PAES até às 17:00h da data determinada para seu retorno.
+A Autorização da Saída Temporária ficará condicionada a(o):
+I. fornecimento do endereço onde reside a família a ser visitada ou onde poderá ser encontrado durante ogozo do benefício;
+II. recolhimento à residência visitada, no período noturno (diariamente a partir das 21:00 horas até às 06:00 horas do dia seguinte e nos domingos e feriados)
+III. proibição de frequentar bares, casas noturnas e estabelecimentos congêneres;
+IV. proibição de ingerir bebida alcoólica;
+V. obrigação de fornecer as informações solicitadas pelos órgãos e entidades encarregados da fiscalizaçãodas presentes condições.
+Caso o reeducando cometa falta disciplinar em data anterior ao gozo do benefício, isto é, antes de qualquer período acima descrito, a Direção do Presídio deverá sustar a saída comunicando imediatamente o fato a este Juízo, e assim permanecer até ulterior deliberação. .. .
+Observa-se do acórdão transcrito que a concessão da saída temporária pelo Juízo da execução foi posterior à concessão do trabalho externo, tendo a decisão imposto condições a ser observadas, mormente a necessidade de comparecimento do apenado em seu local de trabalho no referido período. Entendeu também a Corte local que "adequada a condição imposta na decisão agravada, tendo em vista que o trabalho externo e a saída temporária constituem benesses distintas, previstas na Lei nº 7.210/1984, sendo cabível as suas concessões de forma simultânea" (fl. 13).
+Pois bem, os arts. 36 e 37 da Lei de Execução penal assim preveem o trabalho externo:
+Art. 36. O trabalho externo será admissível para os presos em regime fechado somente em serviço ou obras públicas realizadas por órgãos da Administração Direta ou Indireta, ou entidades privadas, desde que tomadas as cautelas contra a fuga e em favor da disciplina.
+§ 1º O limite máximo do número de presos será de 10% (dez por cento) do total de empregados na obra.
+§ 2º Caberá ao órgão da administração, à entidade ou à empresa empreiteira a remuneração desse trabalho.
+§ 3º A prestação de trabalho à entidade privada depende do consentimento expresso do preso.
+Art. 37. A prestação de trabalho externo, a ser autorizada pela direção do estabelecimento, dependerá de aptidão, disciplina e responsabilidade, além do cumprimento mínimo de 1/6 (um sexto) da pena.
+Parágrafo único. Revogar-se-á a autorização de trabalho externo ao preso que vier a praticar fato definido como crime, for punido por falta grave, ou tiver comportamento contrário aos requisitos estabelecidos neste artigo.
+Já a saída temporária está assim prevista na Lei 7.210/1984, no que interessa:
+Art. 124. A autorização será concedida por prazo não superior a 7 (sete) dias, podendo ser renovada por mais 4 (quatro) vezes durante o ano.
+§ 1º Ao conceder a saída temporária, o juiz imporá ao beneficiário as seguintes condições, entre outras que entender compatíveis com as circunstâncias do caso e a situação pessoal do condenado: (Incluído pela Lei nº 12.258, de 2010)
+I - fornecimento do endereço onde reside a família a ser visitada ou onde poderá ser encontrado durante o gozo do benefício; (Incluído pela Lei nº 12.258, de 2010)
+II - recolhimento à residência visitada, no período noturno; (Incluído pela Lei nº 12.258, de 2010)
+III - proibição de frequentar bares, casas noturnas e estabelecimentos congêneres.
+§ 2 o Quando se tratar de frequência a curso profissionalizante, de instrução de ensino médio ou superior, o tempo de saída será o necessário para o cumprimento das atividades discentes. (Incluído pela Lei nº 12.258, de 2010)
+§ 3 o Nos demais casos, as autorizações de saída somente poderão ser concedidas com prazo mínimo de 45 (quarenta e cinco) dias de intervalo entre uma e outra. (Incluído pela Lei nº 12.258, de 2010)
+Art. 125. O benefício será automaticamente revogado quando o condenado praticar fato definido como crime doloso, for punido por falta grave, desatender as condições impostas na autorização ou revelar baixo grau de aproveitamento do curso.
+Como se vê, e ressalvada a eventual incompatibilidade de horários, a dicção legal não traz nenhuma proibição para a concessão simultânea de ambos os benefícios, necessitando apenas que o magistrado realize a compatibilização das duas benesses, e estabeleça as respectivas condições, nos termos acima expressos. O apenado poderá exercer seu direito à saída temporária para, por exemplo, visitar sua família, desde que não o faça em dias de trabalho.
+Outra não pode ser a conclusão, uma vez que adentrar no mérito das condições impostas pela Vara das execuções demandaria revolvimento fático-probatório, inviável na via estreita do writ.
+Ademais, o TJ decidiupela não comparação do instituto da saída temporária com férias, de modo que o paciente possa usufruir dela sem ter que frequentar o trabalho, diante "da impossibilidade de reconhecimento de vínculo de emprego, em razão da expressa previsão legal disposta na Lei nº 7.210/1984, que deriva do fato de o preso não ter a liberdade de contratar" (fl. 14), não havendoprevisão legal para aequiparação do benefício da saída temporária com as férias previstas na Consolidação das Leis do Trabalho.
+Sendo assim, não tendo observado o paciente o dever de apresentação no trabalho externo, sem autorização judicial, o fato constitui falta grave, nos termos do art. 50, VI, c/c art. 39, V, da LEP. Nesse sentido, o precedente deste Superior Tribunal de Justiça:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. PRÁTICA DE FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA NO TRABALHO EXTERNO SEM AUTORIZAÇÃO JUDICIAL. CONFIGURAÇÃO. REGRESSÃO DE REGIME. QUESTÃO PREJUDICADA. PERDA DOS DIAS REMIDOS NO PERCENTUAL MÁXIMO. POSSIBILIDADE. GRAVIDADE DA FALTA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Consoante art. 50, VI, c/c art. 39, V, da LEP, pratica falta grave o reeducando que se ausenta do trabalho externo sem autorização judicial.
+III - São consectários do reconhecimento da prática de falta grave a regressão do regime prisional, bem como a perda dos dias remidos, nos termos dos arts. 118 e 127 da LEP.
+IV - A insurgência contra a regressão de regime perdeu o objeto diante da unificação de pena fixada em novo título executivo, que determinou o cumprimento do quantum total no modo fechado.
+V - A natureza grave da falta e o comportamento recalcitrante do apenado, que reitera na prática de faltas disciplinares, fundamenta a perda dos dias remidos na fração máxima (art. 57, da LEP). Habeas corpus não conhecido. (HC 459.205/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/10/2018, DJe 08/10/2018.)
+Ante o exposto,denego o habeas corpus.
+Publique-se.
+Intimem-se.
