@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus , com pedido liminar, interposto por MATHEUS SANTOS LEMOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no julgamento do HC n. 8008679-03.2021.8.05.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 31/3/2021 por ter supostamente praticado os delitos tipificados no art. 33 da Lei n. 11.343/2006, e no art. 180 do Código Penal (tráfico de entorpecentes e receptação). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado:
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUSLIBERATÓRIO. PACIENTE ACUSADO PELA PRÁTICA DAS CONDUTAS DESCRITAS NO ART. 33, DA LEI Nº 11.343/2006 E 180, DO CP. REUNIÃO DOS FEITOS PARA JULGAMENTO CONJUNTO. CUSTÓDIA CAUTELAR DEVIDAMENTE FUNDAMENTADA, ANTE A GRAVIDADE DOS CRIMES PRATICADOS. AUSÊNCIA DE ILEGALIDADE A SER RECONHECIDA.
+Extrai-se dos respectivos fólios, que na data de 31.03.2021, durante uma abordagem de rotina realizada1. pela Polícia Militar, o Paciente foi surpreendido conduzindo um veículo com restrições de furto/roubo, além de ser apreendido no interior do automóvel 509g (quinhentos e nove) gramas de substância conhecida como "crack", conforme descrevem o Auto de Exibição e Apreensão e Laudo de Exame Pericial (evento 14240821). Ao ser interrogado, na fase policial, o Paciente manteve-se em silêncio, mas relatou aos Policiais Militares que havia adquirido por R$ 10.000,00 (dez mil reais), e seria entregue na cidade de Camamu a um cigano, e que a droga seria destinada a uma mulher cujo nome não sabia indicar.
+2. Ante a existência de um outro Habeas Corpus impetrado em favor do Paciente, tombado sob o número8009043-72.2021.8.05.0000, distribuído, posteriormente, no qual foi apontada como Autoridade Coatora o Juiz de Direito da 1ª Vara Criminal da comarca de Ilhéus, sob a alegação de fato novo relativo à manutenção da custódia cautelar sem fundamentação concreta, impõe-se o julgamento conjunto em respeito ao princípio da economia processual.
+3. Atualmente o Paciente encontra-se recolhido em virtude de novo título prisional prolatado agora pelo Juízo natural da causa, qual seja, a Juíza de Direito da 1ª Vara Criminal de Ilhéus, que recebeu o Auto de prisão em flagrante, bem como a denúncia ofertada pelo Ministério Público Estadual, nos autos da ação penal nº 0700312-67.2021.8.05.0103, ratificando, implicitamente a segregação cautelar, restando superadas eventuais irregularidades provenientes do auto de prisão em flagrante.
+4. A decisão prolatada pelo Juízo Plantonista lastreou-se na necessidade de salvaguardar a ordem pública, ante a gravidade dos crimes praticados, notadamente na quantidade de droga apreendida no veículo conduzido pelo Paciente, não se verificando constrangimento ilegal a ser reparado.
+5. No mesmo sentido não há que se falar em constrangimento ilegal ocasionado pelo Juízo da 1ª Vara Criminal de Ilhéus, encontrando-se os autos originários no aguardo da apresentação de Defesa Escrita.
+HABEAS CORPUS CONHECIDOS, ORDENS DENEGADAS" (fls. 141/142).
+No presente recurso, alega que o decreto prisional carece de fundamentação idônea, uma vez que pautado exclusivamente na gravidade abstrata do delito. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal. Aponta violação ao art. 315 do CPP.
+Observa que a autoridade policial não representou pela prisão preventiva do acusado, o que evidencia a desnecessidade da medida.
+Ressalta as circunstâncias pessoais favoráveis do recorrente e aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 189/190. O Ministério Público Federal opinou pelo desprovimento do recurso em parecer acostado às fls. 193/195 .
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônica do Tribunal de origem, verifica-se que na Ação Penal n. 0700312-67.2021.8.05.0103, de que aqui se cuida, em 8/9/2021 , sobreveio sentença condenando o recorrente à pena de 3 anos de reclusão, em regime aberto, e ao pagamento de 210 dias-multa, pela prática dos delitos previstos no art. 33, § 4º, da Lei n. 11.343/2006, e no art. 180 do Código Penal, tendo sido substituída a sanção privativa de liberdade por 2 restritivas de direitos e determinada a expedição de alvará de soltura.
+Dessa forma, inegável a perda superveniente do objeto do recurso.
+Ante o exposto, com base no art. 34, XI , do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
