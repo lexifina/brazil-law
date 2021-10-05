@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOÃO VITOR SEIXAS ROSSI interpõe agravo regimental contra decisão de fls. 654-660, em que concedi em parte a ordem a fim de aplicar em 1/3 a causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 e, por conseguinte, reduzir a reprimenda da paciente para 3 anos e 4 meses de reclusão e pagamento de 333 dias-multa e fixar o regime semiaberto de cumprimento de pena.
+A defesa reitera a sua compreensão de que a conduta perpetrada pelo réu se amolda ao delito descrito no art. 28 da Lei de Drogas. Afirma a existência de bis in idem em considerar a quantidade da droga apreendida para exasperar a pena-base e para a escolha da fração da redução prevista no art. 33, § 4º, da Lei de Drogas e a necessidade de imposição do modo aberto.
+Requer a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja concedida a ordem na totalidade.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. MINORANTE NA FRAÇÃO MÁXIMA. INCABÍVEL. REGIME ABERTO INADEQUADO. QUANTIDADE DE DROGA APREENDIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006). Por essas razões, mostra-se inviável a desclassificação da conduta imputada ao réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente, tal como ocorreu no caso.
+2. Nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+3. Para entender-se pela desclassificação da conduta imputada ao agravante para o delito descrito no art. 28 da Lei n. 11.343/2006, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível em recurso especial, a teor do que enunciado na Súmula n. 7 do STJ.
+4. Não há bis in idem se não utilizado o mesmo argumento na análise de duas etapas da dosimetria da pena.
+5. Cabível o regime semiaberto ao réu que, apesar de primário e condenado a reprimenda inferior a 4 anos, foi apreendido com grande quantidade de drogas.
+6. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+I. Desclassificação do delito - impossibilidade
+No que tange à pretendida desclassificação da conduta imputada ao paciente para o crime previsto no art. 28 da Lei de Drogas, observo que a instância ordinária determinou a condenação como incurso no delito de tráfico de drogas porque ficou evidente a prática da conduta prevista no art. 33 da Lei n. 11.343/2006.
+De acordo com o Tribunal de origem, em que pese os depoimentos das testemunhas de defesa, que afirmam que o réu não é traficante, os relatos dos policiais militares são consistentes e harmônicos entre si e, com convicção, afirmam "terem visto os acusados realizando o embalo das drogas, sendo que ambos já eram conhecidos dos agentes públicos e estes chegaram bem perto para observá-los, afastando-se a possibilidade de identificação equivocada dos acusados" (fl. 26).
+Desse modo, consoante concluiu a Corte local, "o conjunto probatório, formado durante a persecução penal, descortina que os réus, agindo em conjunto, guardavam considerável quantidade de drogas, sendo que Rogério ainda guardava mais drogas em um imóvel, tudo na linha do explicitado na denúncia e no auto de exibição e apreensão" (fl. 26).
+Ressalto que, conforme consta dos autos, com os réus foram apreendidos 1.562,63 g de maconha, 187,04 g de crack, apetrechos relacionados ao embalo da droga (balança, saquinhos e facões).
+Assim, com base nesses argumentos, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelos crimes de tráfico de drogas.
+Por essas razões, mostra-se inviável a desclassificação da conduta a ele imputada, sobretudo ao se considerar que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, tal como verificado nos autos.
+Dessa forma, para entender-se pela desclassificação da conduta para o delito descrito no art. 28 da Lei n. 11.343/2006, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível na via do recurso especial, nos termos da Súmula n. 7 do STJ.
+II. Fração da minorante
+No decisum recorrido, concedi em parte a ordem para aplicar a causa de diminuição da pena do art. 33, § 4º, da Lei de Drogas na fração de 1/3. Para tanto, mencionei em especial a quantidade de drogas, de modo que não há que falar em bis in idem porque, consoante leitura do acórdão, a pena-base do agravante foi majorada em razão da natureza da droga apreendida.
+III. Regime de cumprimento da pena
+Busca a defesa, após a nova dosimetria realizada, a imposição do modo aberto para cumprimento da pena. Entretanto, em que pese ser o réu primário, ter sido beneficiado com a minorante do tráfico e haver sido condenado a sanção inferior a 4 anos, deve ser mantida a imposição do regime semiaberto, em especial, pela quantidade de drogas apreendidas. Esclareço, ainda, que o agravante tem circunstância judicial negativa, tanto que a pena-base foi fixada acima do mínimo legal, o que também justifica a imposição do modo intermediário.
+Não faz jus à substituição da pena privativa de liberdade por restritivas de direitos em razão das circunstâncias do caso concreto, especialmente a quantidade de drogas apreendidas, que demonstram que a conversão não é suficiente (art. 44, III, do Código Penal).
+IV. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
