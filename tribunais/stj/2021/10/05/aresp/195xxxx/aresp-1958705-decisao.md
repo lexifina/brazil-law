@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO DO BRASIL SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS.
+INDEFERIMENTO DA INICIAL, COM BASE NAS ALEGAÇÕES GENÉRICAS, FALTA DE JUNTADA DE DOCUMENTOS INDISPENSÁVEIS (CONTRATOS), E VIOLAÇÃO DO ART. 330, § 2º, DO CPC. SENTENÇA DE EXTINÇÃO. INCONFORMISMO DOS AUTORES.
+(1) PEDIDO DE REVISÃO CONTRATUAL DEVIDAMENTE FUNDAMENTADO, NOS TERMOS DA SÚMULA N. 381 DO STJ. (2) OBSERVÂNCIA DO DISPOSTO NO ART. 330, § 2º, DO CPC. (3) CABIMENTO DO PEDIDO DE EXIBIÇÃO INCIDENTAL DE DOCUMENTOS COMUM À S PARTES, SOB A GUARDA DA INSTITUIÇÃO FINANCEIRA. RELAÇÃO DE CONSUMO. EXEGESE DO ART. 399, III, DO CPC E DO VERBETE SUMULAR N. 297 DO STJ.
+PRECEDENTES JURISPRUDENCIAIS. (4) INDICAÇÃO DO VALOR INCONTROVERSO E DEPÓSITO JUDICIAL. PRESCINDIBILIDADE.
+ELEMENTO QUE NÃO CONSTITUI REQUISITO DA PETIÇÃO INICIAL. DECISÃO CASSADA. RETORNO DOS AUTOS À ORIGEM PARA REGULAR PROCESSAMENTO DO FEITO. RECURSO CONHECIDO E PROVIDO.
+Sustenta a parte recorrente, pela alínea "a" do permissivo constitucional, violação do art. 330, § 3º, do CPC, no que concerne ao reconhecimento da inépcia da petição inicial, trazendo o(s) seguinte(s) argumento(s):
+A questão em debate refere-se à aplicação do artigo 330, caput, §§ 2º e 3º do Código de Processo Civil, nos quais está determinada a exigência de, nas ações de revisão de obrigações, o autor, sob pena de inépcia da petição, discriminar, dentre as obrigações contratuais, aquelas que pretende controverter, além de quantificar o valor incontroverso do débito, pagando-o no tempo e modo contratados. A hipótese dos autos envolve pedido revisional de inúmeros contratos de mútuo firmados entre as partes, alegando a parte autora que as cláusulas que fixaram os encargos são abusivas. Logo, a petição inicial, sem sombra de dúvidas se submete ao referido preceito legal.
+ .. .
+Todavia, apesar de todo esse grau de detalhamento, admitido pelo acórdão, a parte deixou de informar o quantum incontroverso, deixando de promover, conforme expressa exigência do §3 2 do artigo 330 do CPC, o seu pagamento no tempo e modo devidos. Esta exigência não foi observada pela parte e é premissa que consta do acórdão. Ao dispensar a parte deste pressuposto, necessário e indispensável ao afastamento da inépcia da petição inicial, o acórdão violou o disposto no §3 2 do artigo 330 do CPC. (fls. 593/595).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Inclusive, a peça inaugural está acompanhada de alguns dos contratos, extratos bancários e respectivos demonstrativos de atualização dos valores com aplicação dos encargos que os Apelantes entendem devidos (Evento 1 - INF5 a INF13). Logo, apenas não foram coligidos parte dos instrumentos contratuais, assim como os seus cálculos.
+ .. .
+Nesse trilhar, não existe violação ao disposto no art. 330, § 2 9 , do CPC retromencionado.
+De igual maneira, foi observado o verbete sumular n. 381 do Superior Tribunal de Justiça, que enuncia: "Nos contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas.".
+Nesse diapasão, a ação de revisão contratual está devidamente fundamentada, bem como foi quantificado o valor incontroverso do débito (provisório) com base nos documentos que estão em poder dos Apelantes. Oportunamente, caso os contratos sejam exibidos pelo BANCO DO BRASIL S.A., é que será possível apurar a quantia efetivamente devida. Além do mais, na situação hipotética de falta de juntada da documentação na fase de conhecimento, e com o julgamento de procedência, ainda poderá ser apurado o montante em liquidação de sentença.
+Insta registrar que este Tribunal de Justiça possui entendimento no sentido de que incumbe à Instituição Financeira comprovar a contratação, sobretudo porque caracterizada a relação de consumo, nos termos da Súmula n. 297 do Superior Tribunal de Justiça.
+ .. .
+Nesse jaez, é perfeitamente possível a determinação de exibição incidental dos contratos e extratos no caso em enfoque, com esteio na relação de consumo, sendo a documentação comum, e estando sob a guarda do Banco.
+ .. .
+No que tange à indicação dos valores incontroversos e seu depósito judicial, ressalto que tal não constitui pressuposto essencial para o ajuizamento da ação revisional de contrato.
+ .. .
+Por todo explicitado, concluo que os requisitos da petição inicial estão preenchidos, ao passo que os Apelantes coligiram os documentos indispensáveis a propositura da ação revisional, sendo admitido o pedido incidental de exibição de documentos comuns às partes, a fim de que a Instituição Financeira apresente todos os instrumentos contratuais, extratos e demais documentos pertinentes que envolvem a relação de consumo, com espeque no art. 399 do Código de Processo Civil (fls. 563/568).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
