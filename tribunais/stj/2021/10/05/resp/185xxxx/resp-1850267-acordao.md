@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. DIREITO A SAÚDE. FORNECIMENTO DE MEDICAMENTO. IMPOSIÇÃO DE MULTA DIÁRIA CONTRA O ESTADO POR DESCUMPRIMENTO DE OBRIGAÇÃO. POSSIBILIDADE. REVISÃO DO VALOR ARBITRADO. INVIABILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o entendimento adotado pela Corte de origem está em harmonia com a jurisprudência do Superior Tribunal de Justiça, segundo a qual é cabível a cominação de multa contra a Fazenda Pública por descumprimento de obrigação de fazer. No caso em tela, a apreciação dos critérios previstos no art. 461 do CPC/1973 para a fixação de seu valor demandaria o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7/STJ.
+2. Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante, o que não é o caso dos autos, em que foi imposta multa diária de R$1.000,00, principalmente em se considerando a recalcitrância do Estado em cumprir a determinação judicial.
+3. Recurso Especial parcialmente conhecido e, nessa extensão, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, negou-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão assim ementado:
+Mandado de segurança - Medicamento - Necessidade comprovada - Risco de óbito - Alto custo - Impossibilidade de tratamento com recursos próprios - Direito à saúde - Obrigação de custeio pelo Estado - Retenção de receita médica - Período quadrimestral - Multa diária - Possibilidade - Segurança concedida.
+1. A concessão de segurança para que o paciente, pobre no sentido legal e em tratamento de doença, tenha direito ao recebimento de remédio não fornecido pelo programa popular, a expensas do Poder Público, configura cumprimento da garantia constitucional de direito à saúde prevista no artigo 6º da Constituição da República.
+2. Razoável a determinação ao paciente de apresentação quadrimestral de receita médica atualizada perante o órgão da Administração Pública para obtenção do fármaco pleiteado.
+3. Tem previsão legal a fixação de multa contra o Estado para a hipótese de descumprimento da obrigação.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega, em Recurso Especial, ofensa ao art. 461, § 6º, do Código de Processo Civil (CPC/1973) e 26 da Lei 8.666/1993. Argumenta não ser possível o fornecimento de medicamentos antes de cumpridas as exigências legais referentes à licitação, tampouco cabível a multa imposta pelo não fornecimento do medicamento.
+O Ministério Público Federal emitiu parecer assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. SUS. FORNECIMENTO DE MEDICAMENTO. FIXAÇÃO DE ASTREINTES CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. VALOR FLAGRANTEMENTE DESPROPORCIONAL AO DIREITO TUTELADO. REDUÇÃO. PELO PROVIMENTO PARCIAL DO RECURSO.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Na hipótese dos autos, o entendimento adotado pela Corte de origem está em harmonia com a jurisprudência do STJ, segundo a qual é cabível a cominação de multa contra a Fazenda Pública por descumprimento de obrigação de fazer.
+No caso em tela, a apreciação dos critérios previstos no art. 461 do CPC/1973 para a fixação de seu valor demandaria o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7/STJ.
+Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante, que não é o caso dos autos, em que foi imposta multa diária de R$1.000,00, principalmente em se considerando a recalcitrância do Estado em cumprir a determinação judicial.
+A propósito.
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO A SAÚDE. FORNECIMENTO DE MEDICAMENTO. NÃO VIOLAÇÃO DO ART. 1.022, II DO CPC/2015. IMPOSIÇÃO DE MULTA DIÁRIA POR DESCUMPRIMENTO DE OBRIGAÇÃO (R$500,00). IMPOSSIBILIDADE DE REVISÃO DO VALOR ARBITRADO. AGRAVO INTERNO DO ESTADO DE PERNAMBUCO A QUE SE NEGA PROVIMENTO.
+1. O entendimento adotado pela Corte de origem está em harmonia com a jurisprudência do STJ, segundo a qual é cabível a cominação de multa contra a Fazenda Pública por descumprimento de obrigação de fazer. No caso em tela, a apreciação dos critérios previstos no art.
+461 do CPC/1973 para a fixação de seu valor demandaria o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7/STJ.
+Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante.
+2. Na hipótese, o valor diário de R$ 500,00 não se mostra excessivo, a ensejar a sua revisão por esta Corte Superior, especialmente por se tratar de hipótese de fornecimento de medicamentos e tratamento de saúde e por somente ser devido em caso de descumprimento da ordem.
+3. Agravo Interno do Estado de Pernambuco a que se nega provimento. (AgInt no AREsp 1103844/PE, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julg.10/04/2018, DJe 19/04/2018)
+PROCESSUAL CIVIL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. FAZENDA PÚBLICA. IMPOSIÇÃO DE MULTA DIÁRIA AO ENTE ESTATAL COMO MEIO DE COMPELIR O DEVEDOR A ADIMPLIR A OBRIGAÇÃO. POSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE PARA DEMONSTRAR OMISSÃO NO JULGADO. ÓBICE SÚMULA N. 284/STJ. VALORAÇÃO DE HONORÁRIOS. REEXAME FÁTICO-PROBATÓRIO. NECESSIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I - De acordo com a jurisprudência do STJ, não cabe, em regra, a revisão da verba honorária na instância especial, salvo se o valor fixado for irrisório ou excessivo, observadas às particularidades do caso concreto.
+II - O artigo 20, § 4º, do Código de Processo Civil de 1973, determina que, nas causas de pequeno valor, naquelas em que não houver condenação ou for vencida a Fazenda Pública, além das execuções, os honorários advocatícios serão fixados consoante apreciação equitativa do juiz.
+III - Todavia, vencida a Fazenda Pública, a jurisprudência do STJ entende que a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado, como base de cálculo, o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do Código de Processo Civil de 1973, ou mesmo um valor fixo, segundo o critério de equidade (REsp 1.155.125/MG, Rel. Ministro Castro Meira, Primeira Seção, julgado em 10/03/2010, sob o regime do artigo 543-C, do CPC/73, DJe de 06/04/2010).
+IV - Ademais, e ressalvadas as hipóteses de arbitramento em quantia notoriamente excessiva ou aviltante, qualquer delas não ocorrente na espécie, é certo que para se apurar se a fixação dos honorários sucumbenciais atendeu ou não aos parâmetros do juízo de equidade preconizados no artigo 20, §4º, do CPC, deve-se proceder a uma nova análise dos autos, o que esbarra invariavelmente no enunciado da Súmula n. 07/STJ.
+V - No que se refere à violação do art. 461, § 4º, do CPC/73, verifica-se que para chegar ao valor da multa o Tribunal a quo analisou o contexto fático-probatório, avaliando a necessidade da paciente, chegando à conclusão pela necessidade de manutenção da multa para desestimular um eventual inadimplemento do cumprimento da obrigação, uma vez que o medicamento é indispensável, sendo inviável a pretensão de se discutir a apontada violação do art. 461, §4º, do CPC/73 sem malferir o óbice da Súmula n. 7/STJ.
+VI - Sendo assim, a parte agravante não comprova a necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com a jurisprudência desta Corte, razão pela qual não há como se prover o agravo interno.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1024505/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/08/2018, DJe 17/08/2018)
+Por tudo isso, conheço parcialmente do Recurso Especial e, nessa extensão, nego-lhe provimento.
+É o voto.
