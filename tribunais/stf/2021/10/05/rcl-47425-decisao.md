@@ -1,0 +1,47 @@
+Decisão:
+    1. Trata-se de reclamação ajuizada contra ato do Juízo da 2ª Vara Criminal da comarca de Ji-Paraná, Rondônia, em que se articula ofensa à Súmula Vinculante 56.
+    Narra a reclamante que obteve a progressão para o regime semiaberto, mas continua custodiada em regime fechado.
+    Afirma que o Juiz da Execução negou o pedido de prisão domiciliar formulado pela defesa em razão de a apenada não ter comprovado possuir “filhos menores e/ou residência de familiares nesta comarca”e manteve-a em cela dentro da penitenciária, em unidade prisional destinada a presos do regime fechado.
+    As informações foram prestadas (eDOC 18).
+    O Ministério Público Federal manifestou-se pela improcedência da reclamação (eDOC 26).
+    A reclamada ajuizou a Petição 55.091/2021 (eDOC 19), por meio da qual reitera o pedido liminar e apresenta ofício do Diretor-Geral da “Penitenciária Dr. Agenor Martins de Carvalho”, respondendo a quesitos acerca das instalações da unidade prisional.
+    Por meio da Petição 56.241/2021 (eDOC 21), a reclamada junta decisão do Juízo da Vara de Execuções que, em outro feito, concedeu prisão domiciliar a apenada em regime semiaberto.
+    Instado a manifestar-se, o Magistrado singular prestou novas informações (eDOC 34).
+    É o relatório. Decido.
+    2. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, “l”, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    Portanto, a função precípua da reclamação constitucional reside na proteção da autoridade das decisões de efeito vinculante proferidas pela Corte Constitucional e no impedimento de usurpação da competência que lhe foi atribuída constitucionalmente. A reclamação não se destina, destarte, a funcionar como sucedâneo recursal ou incidente dirigido à observância de entendimento jurisprudencial sem força vinculante.
+    3. Fixadas tais premissas, consigno que a Súmula Vinculante 56 desta Corte enuncia que:
+    “A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.”
+    Por sua vez, no julgamento do RE 641.320/RS, concluiu-se que:
+    “Havendo déficit de vagas, deverão ser determinados: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado.” (RE 641.320, Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 11.05.2016)
+    Como se vê, a decisão do Plenário da Corte, por um lado, impede que a execução da pena extrapole os limites do título condenatório, afastando-se o regime mais gravoso na hipótese em que cumpridos os requisitos para tanto. Para propiciar o atingimento desse objetivo, a posição do Plenário da Corte autoriza a adoção de medidas que não contêm previsão legal expressa, circunstância que, por si, contraria as ponderações explicitadas na decisão reclamada.
+    Contudo, o Plenário assentou:
+    “Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como “colônia agrícola, industrial” (regime semiaberto) ou “casa de albergado ou estabelecimento adequado” (regime aberto) (art. 33, § 1º, alíneas “b” e “c”). No entanto, não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado.” (RE 641.320, Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 11.05.2016, grifei)
+    Nessa perspectiva, cabe ao Juiz da Execução Penal a avaliação da compatibilidade entre o estabelecimento prisional e o regime semiaberto, ainda que não seja o caso de colônia agrícola ou industrial.
+    No caso concreto, o reclamado prestou as seguintes informações (eDOC 34, grifei):
+    “A apenada ROSILENE SALAZAR DA SILVA, após ser agraciada com o benefício da progressão, atualmente cumpre pena no regime SEMIABERTO.
+    Diferentemente do alegado no objeto da reclamação, ressalta-se que, data vênia, no entender deste juízo, não houve violação da súmula vinculante 56, visto que a apenada atualmente cumpre pena em ala específica para os condenados em regime semiaberto.
+    A título explicativo, cumpre ressaltar que a penitenciária Dr. Agenor Martins de Carvalho possui as seguintes alas: presos provisórios, condenados ao regime fechado e condenados ao regime semiaberto, na qual a executada se encontra.
+    Ocorre que nesta comarca, em caráter absolutamente excepcional, este juízo tem deferido às mulheres o cumprimento de tal semiaberto domiciliar mediante monitoração eletrônica, comprovado ter ela filhos menores e/ ou residência de familiares nesta comarca, condição para sua liberação, em especial com vistas a convivência, fortalecimento dos respectivos laços, em relação aos quais, smj, o endereço não restou provado.
+    Entretanto, no caso da apenada ROSILENE SALAZAR DA SILVA, não foi comprovado no pedido de "domiciliar semiaberto" que esta tivesse qualquer parente na comarca, condição da mesma forma imprescindível para a liberação excepcional, desta comarca, do regime semiaberto domiciliar, mediante o uso de tornozeleira eletrônica.
+    Diante dessa situação, facultou-se a ela requerer a transferência para outra comarca que possa melhor atendê-la (Decisão constante da seq. 148.1).
+    Assim, data a máxima vênia, entendeu este juízo não ter a executada preenchido os requisitos para tal benefício, repita-se, excepcional, razão pela qual seguiu normalmente cumprindo sua pena na ala destinada a presas do regime SEMIABERTO, na penitenciária local.
+    Quanto à alegação de que em outros casos este magistrado deferiu às mulheres o cumprimento de tal semiaberto domiciliar mediante monitoração eletrônica, data máxima vênia e atento ao princípio da individualização da pena, cada caso sempre será analisado de per si.”
+    Conforme se verifica, em observância ao verbete sumular, o Magistrado de origem assentou que a Penitenciária Dr. Agenor Martins de Carvalho, onde a reclamante está custodiada, possui ala específica para o regime semiaberto.
+    Vale ressaltar, no ponto, o parecer do Ministério Público Federal (eDOC 26, grifei):
+    “[…] o fato de no mesmo estabelecimento prisional também estarem presos do regime fechado não é suficiente, por si só, para comprovar a inadequação do local para o cumprimento da pena no regime semiaberto, desde que sejam estabelecidas condições diversas para os regimes.”
+    Nesse contexto, e na linha do que firmado pelo Plenário desta Corte, para o cumprimento de pena no regime semiaberto, são aceitáveis estabelecimentos que não se qualifiquem como “colônia agrícola, industrial” (regime semiaberto), no entanto, não deverá haver alojamento conjunto de presos dos regimes semiaberto com presos do regime fechado. Da mesma forma, devem ser estabelecidas condições diversas para os regimes.
+    Quanto ao pleito de concessão do regime “semiaberto domiciliar mediante monitoração eletrônica”, o reclamado esclareceu que o benefício costuma ser deferido, de forma excepcional, a mulheres que comprovem ter filhos menores e/ ou residência de familiares nesta comarca, o que não é o caso da reclamante.
+    Na mesma ocasião, informou-se que foi facultada à reclamante a transferência para outra comarca que pudesse melhor atendê-la.
+    Nessa medida, a decisão não desrespeita a autoridade desta Corte, já que se trata de avaliação de conformidade implementada à luz da própria Súmula Vinculante. Ademais, considerando que a reclamação configura via afunilada despida de dilação probatória, não há como divergir dessa conclusão sem proceder ao reexame de fatos e provas.
+    Nesse sentido, a jurisprudência desta Suprema Corte:
+    [...] 2. Firme na excepcionalidade da via processual da reclamação, a jurisprudência do Supremo Tribunal Federal se assentou no sentido da inviabilidade do uso da reclamação para o revolvimento do conjunto fático probatório do processo de origem. Precedentes: Rcl 35.657 AgR/RS, Rel. Min. Rosa Weber, Primeira Turma, DJe 11/12/2019; Rcl 29.200 AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, DJe 29/11/2018 (RCL 38973, Relator(a) Min. Luiz Fux, Primeira Turma, DJe 13.05.2020).
+    [...] 2. Inviável o uso da reclamação para reexame de conjunto probatório. Precedentes [...] (RCL 19849 AgR, Relator(a) Min. Rosa Weber, Primeira Turma, DJe 09.05.2017).
+    [...] Inviabilidade do uso da reclamação para se operar o reexame do conteúdo do ato reclamado e de todo o conjunto fático-probatório para se chegar a conclusão diversa. Precedentes. [...] (RCL 25497 AgR, Relator(a) Min. Dias Toffoli, Segunda Turma, DJe 13.03.2017)
+    4. Pelo exposto, nos termos do art. 21, § 1°, do RISTF, julgo improcedente a presente reclamação.
+    Comunique-se o teor desta decisão ao Juízo reclamado.
+    Publique-se. Intime-se.
+    Brasília, 5 de outubro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
