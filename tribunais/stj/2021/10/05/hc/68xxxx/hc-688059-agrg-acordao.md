@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL NO ÂMBITODOMÉSTICO. AMEAÇA. PRISÃO PREVENTIVA. REGIME SEMIABERTO. COMPATIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Segundo a orientação pacificada no Superior Tribunal de Justiça, não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o início de cumprimento da pena.
+III - Na hipótese, inexiste flagrante ilegalidade a justificar a concessão da ordem de ofício, pois a Corte de origem bem determinou a adequação da prisão preventiva com o regime estabelecido na sentença condenatória.Destarte, fixado na sentença condenatória o regime semiaberto para o início do cumprimento da reprimenda, deve o paciente aguardar o julgamento de eventual recurso em tal regime, compatibilizando-se a prisão cautelar com o modo de execução determinado na sentença condenatória, exatamente como ocorreu in casu, não havendo que se falar em incompatibilidade entre a prisão preventiva e a imposição do regime semiaberto para início do cumprimento da reprimenda.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de LUIZ PAULO NUNES contra decisão monocrática, a qual não conheceu do habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+No presente agravo, a defesa reitera que: "é manifesta a ilegalidade da decisão que mantém o Paciente em prisão cautelar mais gravosa que o regime estabelecido na condenação recorrida apenas pela defesa, por violar flagrantemente o postulado da proporcionalidade e apontar para uma grave incoerência do ordenamento jurídico."
+Postula, assim, a reconsideração da decisão, para revogar a prisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento (fls. 476-480).
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL NO ÂMBITODOMÉSTICO. AMEAÇA. PRISÃO PREVENTIVA. REGIME SEMIABERTO. COMPATIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Segundo a orientação pacificada no Superior Tribunal de Justiça, não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o início de cumprimento da pena.
+III - Na hipótese, inexiste flagrante ilegalidade a justificar a concessão da ordem de ofício, pois a Corte de origem bem determinou a adequação da prisão preventiva com o regime estabelecido na sentença condenatória.Destarte, fixado na sentença condenatória o regime semiaberto para o início do cumprimento da reprimenda, deve o paciente aguardar o julgamento de eventual recurso em tal regime, compatibilizando-se a prisão cautelar com o modo de execução determinado na sentença condenatória, exatamente como ocorreu in casu, não havendo que se falar em incompatibilidade entre a prisão preventiva e a imposição do regime semiaberto para início do cumprimento da reprimenda.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa sustenta que: "é manifesta a ilegalidade da decisão que mantém o Paciente em prisão cautelar mais gravosa que o regime estabelecido na condenação recorrida apenas pela defesa, por violar flagrantemente o postulado da proporcionalidade e apontar para uma grave incoerência do ordenamento jurídico."
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Conforme consta na decisão agravada, na hipótese,inexiste flagrante ilegalidade a justificar a concessão da ordem de ofício, pois a Corte de origem bem determinou a adequação da prisão preventiva com o regime estabelecido na sentença condenatória.
+Destarte, fixado na sentença condenatória o regime semiaberto para o início do cumprimento da reprimenda, deve o paciente aguardar o julgamento de eventual recurso em tal regime, compatibilizando-se a prisão cautelar com o modo de execução determinado na sentença condenatória, exatamente como ocorreu in casu, não havendo que se falar em incompatibilidade entre a prisão preventiva e a imposição do regime semiaberto para início do cumprimento da reprimenda.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
