@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Jose Roberto Vitor de Amorim, condenado a 1 ano e 2 meses de reclusão, em regime inicial aberto, e 11 dias-multa, substituída a pena privativa de liberdade pelas penas restritivas de direitos de prestação de serviços à comunidade e prestação pecuniária, pela prática do crime de falsidade ideológica.
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de São Paulo no Agravo de Execução Penal n. 0007757-23.2021.8.26.0224 (fls. 94/97), que determinou a continuidade do cumprimento da prestação de serviços à comunidade pelo período remanescente, cassando, assim, decisão que julgou extinta pelo cumprimento a pena de prestação de serviços à comunidade proferida na Execução n. 0019683-69.2019.8.26.0224 (fl. 85), da Vara das Execuções Criminais da comarca de Guarulhos/SP.
+Alega-se constrangimento ilegal consistente na continuidade da execução da pena restritiva de direitos - cuja execução estava suspensa, em razão da pandemia de Covid-19 - e requer-se a concessão da ordem, inclusive em caráter liminar, para que seja extinta a pena do paciente, reconhecendo o lapso temporal em que foi suspensa a apresentação mensal em juízo como pena efetivamente cumprida (fl. 6).
+É o relatório.
+A pretensão mandamental - reconhecimento de cumprimento ficto da pena restritiva de direitos de prestação de serviços à comunidade durante o período de pandemia da Covid-19 - não merece acolhida, pois, para este Tribunal Superior,não é admissível, por ausência de previsão legal, que se considere como cumprida a pena daquele que já obtivera - por motivo de força maior e para não se expor a maior risco em virtude da pandemia - o benefício da suspensão da pena restritiva de direitos, sendo absolutamente necessário o efetivo cumprimento da pena como instrumento tanto de ressocialização do apenado como de contraprestação em virtude da prática delitiva, a fim de que o reeducando alcance o requisito necessário para a extinção de sua punibilidade (AgRg no HC n. 644.942/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/6/2021).
+No mesmo sentido: AgRg no REsp n. 1.934.076/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/8/2021.
+Conclui-se, então, que a impetração não demonstrou evidente constrangimento ilegal no acórdão ora hostilizado.
+Em razão disso, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REPRIMENDA RESTRITIVA DE DIREITOS. PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. SUSPENSÃO. COVID-19. PRETENSÃO DEEXTINÇÃO DA PUNIBILIDADE. CUMPRIMENTO FICTO DE PENA ALTERNATIVA DURANTE O PERÍODO DE PANDEMIA. IMPOSSIBILIDADE. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
