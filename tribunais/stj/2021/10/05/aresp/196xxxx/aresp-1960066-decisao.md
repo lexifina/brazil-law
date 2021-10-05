@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por PAULO ROBERTO SBARAINI e OUTROS, contra decisão que negou seguimento a recurso especial fundamentadonasalíneas"a"e "c" do permissivo constitucional.
+Ação: de execução de título extrajudicial, ajuizada pelos agravantes, em face de AMADA BERNADETE DOS SANTOS DE ARAUJO.
+Decisão interlocutória: autorizou a penhora mensal de 10% dos proventos recebidos pela agravada a título de pensão.
+Acórdão: deu provimento à apelação interposta pelos agravantes, a fim de afastar a penhora dos proventos recebidos pela agravada. O acórdão foi assim ementado:
+Agravo de instrumento. Cumprimento de sentença. Autorização de penhora sobre proventos de aposentadoria da executada. Impossibilidade de afastamento da regra geral de impenhorabilidade. Inteligência do art.833, IV do CPC. Mínimo existencial não garantido. Executada abarrotada de dívidas, idosa e com problemas de saúde. Proventos inferiores a 50 salários mínimos. Precedentes do Superior Tribunal de Justiça. Decisão reformada.
+1. ..  5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes. 6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família. 7. Recurso não provido.(EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTEESPECIAL, julgado em 03/10/2018, DJe 16/10/2018).
+2. ..  1. Esta Corte possui entendimento no sentido de que "a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais,ressalvando-se eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família" (AgInt no REsp 1407062/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em (AgInt no AREsp26/02/2019, DJe 08/04/2019).2. Agravo interno desprovido.1246954/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em01/06/2020, DJe 10/06/2020).
+3. Recurso conhecido e provido.
+Recurso especial: alega violação de dispositivos legais, bem como dissídio jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+O recurso especial é inadmissível por ser intempestivo.
+Os agravantes foramintimados do acórdão recorrido em 27/12/2020(e-STJfl. 162). Considerada asuspensão dos prazos até o dia 20/01/2021, o prazo legal para interposição do recurso especial exauriu-se em 10/02/2021, quarta-feira. No entanto, a petição do recuso especial foi protocolizada em 11/02/2021, quinta-feira (e-STJfl. 169), ou seja, fora do prazo legal de 15 dias úteis.
+Ressalte-se que, nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. Nesse sentido: AgInt no AREsp 957.821/MS (Corte Especial, DJe 19/12/2017).
+Dessa forma, em razão da ausência de comprovação da suspensão do prazo processual quando da interposição do recurso especial, a intempestividade do referido recurso há de ser reconhecida.
+Forte nessas razões, CONHEÇO do agravo, para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO.
+1. É intempestivo o recurso especialinterposto fora do prazo recursal de quinze dias úteis.
+2. Agravo conhecido. Recurso especial não conhecido.
