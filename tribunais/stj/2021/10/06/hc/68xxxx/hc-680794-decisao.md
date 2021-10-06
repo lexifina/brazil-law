@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de FERNANDO MANTOAN JÚNIOR contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos do writ n. 2092762-69.2021.8.26.0000.
+Depreende-se dos autos que o paciente foi denunciado, em primeira instância, pela prática do delito previsto no art. 14 da Lei n. 10.826/2003 (fls. 179-181).
+Inconformada, a defesa impetrou habeas corpus perante o eg. Tribunal de origem, que, por unanimidade, denegou a ordem, consoante voto condutor do v. acórdão de fls. 20-31.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois incide na espécie o princípio da insignificância, ante a pequena quantidade de cartuchos apreendidos.
+Pugna pela "concessão da ordem com base na atipicidade da conduta e aplicação do princípio da insignificância no porte de munição, com expedição do incontinenti alvará de soltura, bem como consequente trancamento da ação penal" (fl. 8).
+Sustenta inexistir motivos hábeis a justificar a segregação cautelar do paciente.
+Afirma que possui dois filhos menores que dependem do paciente.
+Defende que os requisitos do art. 313 do Código de Processo Penal não estão preenchidos.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 220-222).
+Informações prestadas às fls. 227-242.
+O Ministério Público Federal, às fls. 249-258, manifestou-se pelo não conhecimento do writ, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. PROCESSO PENAL. CRIME DE POSSE ILEGAL DE MUNIÇÃO DE ARMA DE FOGO DE USO PERMITIDO. ALEGADA INSIGNIFICÂNCIA DA CONDUTA. NÃO DEMONSTRAÇÃO. RELEVÂNCIA DA CONDUTA. RÉU MULTIRREINCIDENTE. PRECEDENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. INDÍCIOS SUFICIENTES DE AUTORIA E MATERIALIDADE DO FATO COMPROVADOS. GARANTIA DA ORDEMPÚBLICA. MAIOR REPROVABILIDADE DA CONDUTA PRATICADA POR RÉU MULTIRREINCIDENTE. SENTENÇA PROLATADA EM 28/07/2021. CONDENAÇÃO À PENA DE 02 ANOS E 03 MESES DE RECLUSÃO EM REGIME SEMIABERTO. NEGADO O DIREITO DE RECORRER EM LIBERDADE. DETERMINAÇÃO DE COMPATIBILIZAÇÃO DA CUSTÓDIA CAUTELAR COM O REGIME FIXADO NA SENTENÇA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. PARECER PELO NÃO CONHECIMENTODO HABEAS CORPUS." (fl. 249).
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração: i) o trancamento da ação penal; ii) a revogação da prisão preventiva.
+À fl. 228, o Tribunal de origem informou que o paciente "foi condenado no processo em comento como incurso no art. 14 da Lei nº 10.826/03, às penas de 02 anos e 03 meses de reclusão, no regime inicial semiaberto, e 11 dias-multa, vedado o recurso em liberdade".
+Com efeito, "o pleito de trancamento da ação penal perde força argumentativa após a prolação de sentença condenatória, que pressupõe o estudo aprofundado e exauriente dos temas citados, induzindo à perda do objeto do habeas corpus por meio do qual se pretenda trancar a ação penal por qualquer um daqueles motivos. Nesse sentido, o Superior Tribunal de Justiça editou o enunciado sumular n. 648, in verbis: A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus" (AgRg no HC n. 656.638/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 25/06/2021).
+De outro lado, assinale-se que "a superveniência de sentença condenatória enseja a perda do objeto do writ, outrora impetrado contra o decreto preventivo, tão somente se o novo título judicial amparar a manutenção da custódia cautelar do sentenciado sob novas razões - diversas das adotadas na decisão prévia -, não submetidas ao Tribunal de origem. Se os motivos subsequentes não foram previamente apreciados pela Corte de segundo grau, a análise da matéria diretamente por este Tribunal Superior configura indevida supressão de instância.  ..  Na espécie, os impetrantes não colacionaram aos autos cópia da decisão que encerrou o primeiro grau de jurisdição. Dessarte, presente é a impossibilidade de se constatar se o decisum condenatório repetiu a motivação do decreto preventivo ou se apresentou nova fundamentação para preservar a constrição cautelar - ônus do qual a defesa não se desincumbiu" (AgRg no HC n. 610.034/ES, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 02/12/2020, grifei).
+Ante o exposto, julgo prejudicada a ordem, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
