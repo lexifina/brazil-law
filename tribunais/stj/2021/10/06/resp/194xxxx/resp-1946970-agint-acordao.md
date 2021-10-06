@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Michelle de Lima contra decisão monocrática desta relatoria, proferida nos seguintes termos (e-STJ, fl. 475):
+RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. AUSÊNCIA DE DANO MORAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL IMPROVIDO.
+Em suas razões (e-STJ, fls. 482-490), a agravante sustenta que "nas decisões desta Corte que fundamentaram o pedido de dissídio Jurisprudencial foi reconhecido que a recusa injustificada do plano de saúde na cobertura de tratamento  caracteriza  dano moral in re ipsa". Menciona o REsp n. 1.408.548/PR, de relatoria do Ministro Moura Ribeiro, e o AREsp n. 1.493.595/SP, de relatoria do Ministro Luis Felipe Salomão, não havendo falar em incidência da Súmula n. 7/STJ.
+Repisa os argumentos do recurso especial.
+Foi apresentada impugnação (e-STJ, fls. 506-514).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. AUSÊNCIA DE DANO MORAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Conforme consignado na decisão agravada, o Tribunal de origem, ao julgar os embargos de declaração, consignou o seguinte (e-STJ, fls. 411-412):
+A justificativa da requerida não convence, já que, conforme destacou a autora, houve negativa de autorização de diversos procedimentos, e não apenas da monitorização neurofisiológica intraoperatória (fl. 381). Ademais, não houve demonstração de que a justificativa indicada a fl. 363 tenha sido efetivamente informada à paciente, ou que a operadora tenha buscado informações acerca da efetiva observância das determinações do Conselho Federal de Medicina pelo profissional médico responsável. E não se afigura razoável a negativa de autorização de procedimento médico urgente com fundamento em mera suspeita ou presunção de inobservância de resolução do CFM. Assim, era mesmo caso de julgar procedente o pedido de condenação à obrigação de fazer.
+Os danos morais, por outro lado, não ficaram configurados. O que houve foi mero inadimplemento contratual, e o descumprimento do contrato, por si só, não gera dano moral. Não se discute que a negativa de autorização e cobertura dos procedimentos de que necessitava a autora pode ter causado dissabores e aborrecimentos, mas os pedidos médicos foram integralmente atendidos com o deferimento da tutela de urgência, o que assegurou o seu tratamento. Não foi comprovado pela autora, por nenhum meio (ônus que lhe cabia), que seu problema de saúde tenha se agravado de alguma forma, dentro do período de tempo compreendido entre a negativa da ré e o ajuizamento da ação, com o deferimento da liminar, ressaltando-se que os danos morais, nesse caso, não se presumem, devendo ser comprovados.
+Eventuais constrangimentos e ansiedades experimentados, quando da negativa, não caracterizam a dor moral grave que justifica uma condenação pecuniária com caráter indenizatório. Houve, portanto, mero inadimplemento contratual, sem que houvesse violação a direito da personalidade. (Sem grifo no original).
+O entendimento desta Corte Superior de Justiça é de que a negativa indevida de plano de saúde para cobertura das despesas com tratamento médico do segurado não configura, de imediato, dano moral indenizável, devendo a possível reparação ser verificada com base no caso concreto, diante da constatação de situação que aponte a afronta a direito da personalidade.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO HOME CARE. NEGATIVA. ABUSIVIDADE. DOENÇA COBERTA PELO PLANO. ENTENDIMENTO EM HARMONIA COM O STJ. DANO MORAL. OCORRÊNCIA. REEXAME. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. RAZOABILIDADE NA FIXAÇÃO. SÚMULA 7/STJ.
+1. Descabida a negativa de cobertura de procedimento indicado pelo médico como necessário para preservar a saúde e a vida do beneficiário do plano de saúde. Precedentes do STJ.
+2. A recusa indevida pela operadora do plano de saúde em autorizar a cobertura de Home Care devidamente prescrito para o tratamento de doença coberta pelo plano, configurou danos morais indenizáveis.
+3. Valor indenizatório estabelecido pelo Tribunal de origem que não se mostra excessivo a justificar sua reavaliação em recurso especial.
+4. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.586.923/RJ, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/5/2021, DJe 20/5/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MEDICAMENTO. RECUSA. INADIMPLEMENTO CONTRATUAL. DANOS MORAIS. AUSÊNCIA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação ordinária que objetiva a cobertura de medicamento e a compensação por danos morais.
+3. Em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+4. Há situações em que existe dúvida jurídica razoável na interpretação de cláusula contratual, não podendo ser reputada ilegítima ou injusta, violadora de direitos imateriais, a conduta de operadora que optar pela restrição de cobertura sem ofender, em contrapartida, os deveres anexos do contrato, tal qual a boa-fé, o que afasta a pretensão de compensação por danos morais.
+5. No caso concreto, o tribunal de origem concluiu pela ausência de prova de prejuízo à personalidade da agravante com a recusa da operadora do plano de saúde em fornecer o medicamento requerido. A revisão do julgado esbarra no óbice da Súmula nº 7/STJ.
+6. Em virtude do decaimento do pedido de danos morais da parte autora, é de rigor o reconhecimento da sucumbência recíproca.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.656.393/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/3/2021, DJe 12/3/2021).
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE DESPESAS COM O TRATAMENTO CIRÚRGICO DE DERMOLIPECTOMIA NAS COXAS, PROCEDIMENTO COMPLEMENTAR À CIRURGIA BARIÁTRICA. DANO MORAL.
+1. "Havendo indicação médica para cirurgia plástica de caráter reparador ou funcional em paciente pós-cirurgia bariátrica, não cabe à operadora negar a cobertura sob o argumento de que o tratamento não seria adequado, ou que não teria previsão contratual, visto que tal terapêutica é fundamental à recuperação integral da saúde do usuário outrora acometido de obesidade mórbida, inclusive com a diminuição de outras complicações e comorbidades, não se configurando simples procedimento estético ou rejuvenescedor" (REsp 1.757.938/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 05.02.2019, DJe 12.02.2019).
+2. A recusa indevida/injustificada do plano de saúde em proceder à cobertura financeira de procedimento médico ou medicamento, a que esteja legal ou contratualmente obrigado, poderá ensejar o dever de reparação a título de dano moral, quando demonstrado o agravamento da situação de aflição psicológica e de angústia no espírito do usuário, já combalido pela própria doença. Situação configurada na hipótese.
+3. A fixação do valor devido a título de indenização por danos morais, segundo a jurisprudência desta Corte, deve considerar o método bifásico, sendo este o que melhor atende às exigências de um arbitramento equitativo da indenização por danos extrapatrimoniais, uma vez que minimiza eventual arbitrariedade ao se adotar critérios unicamente subjetivos do julgador, além de afastar eventual tarifação do dano(REsp 1.445.240/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10.10.2017, DJe 22.11.2017).
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.809.457/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/2/2020, DJe 3/3/2020).
+Em face disso, a alteração das conclusões adotadas pela Corte de origem quanto à afronta a direito da personalidade da autora e à ocorrência de danos morais indenizáveis demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula n. 7/STJ.
+Cabe ressaltar que, nos precedentes citados pela agravante, houve a aplicação da Súmula n. 7/STJ.
+Por fim, quanto ao dissídio jurisprudencial, cumpre reafirmar que, tendo o Tribunal local concluído com base na apreciação de fatos e provas dos autos, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
