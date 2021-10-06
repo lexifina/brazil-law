@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por A! Bodytech Participações S/A contra decisão de fls. 688/691, por meio da qual seu recurso especial foi parcialmente conhecido e, na parte conhecida, desprovido.
+Sustenta a parte embargante, em resumo, que"ao não conhecer do apelo especial pela alínea "c" do permissivo constitucional, V. Exa.afirmou "que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ". Todavia, permissa venia, a decisão revela-se obscura, pois não aponta em qual medida as aludidas exigências não teriam sido atendidas, o que impossibilita que a ora EMBARGANTE possa manejar recurso contra tal entendimento.  .. 4. Ressalta-se que, de acordo com os parágrafos 40 a 53 de seu recurso especial (fls. 586/599), a EMBARGANTE cumpriu expressamente o quanto disposto no §1º do art. 1.029 do CPC e no §1º do art. 255 do RISTJ, por não apenas por ter realizado o devido cotejo analítico entre o v. acórdão recorrido e os acórdãos indicados como paradigmas, como por ter juntado a íntegra dos arestos paradigmas (docs. 02, 03 e 04 - fls. 608-646)." (fl. 693).
+Transcorrido in albis o prazo para impugnação (fl. 701).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o estatuído no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado na decisão embargada que o acórdão recorrido está em consonância com o entendimento desta Corte no sentido de que é possível à inclusão do adicional relativo às bandeiras tarifárias na base de cálculo do ICMS sobre o fornecimento de energia elétrica.
+Ademais, ao afastar o dissídio jurisprudencial, foi utilizada a seguinte fundamentação (fl. 691):
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Da leitura do teor da decisão embargada, é de fácil percepção que o termo "os mesmos motivos" significa que, em razão da aplicação de óbices processuais e da consolidação do entendimento desta Corte, o disposto nos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJnão poderá ser observado, impossibilitando-se o conhecimento do apelo raro com base na alínea "c" do permissivo constitucional.
+De fato, nas hipóteses em que são impostos óbices processuais ao conhecimento do recurso especial, ou quando a acórdão está em sintonia com a jurisprudência consolidada do STJ, não se perfaz a divergência de teses. Diante disso, não se configura a alegada obscuridade.
+Nesse contexto, resta evidenciado que a intenção da embargante é apontar a existência de error in judicando, propósito incompatível com a via integrativa.
+Portanto, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
