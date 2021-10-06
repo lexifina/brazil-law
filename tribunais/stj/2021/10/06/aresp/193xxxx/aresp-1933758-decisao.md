@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado pelo Sindicato dos Trabalhadores no Poder Judiciário do Estado de Rondônia contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fl. 2.773):
+Apelação cível. Sindicato. Servidor público. Diferenças pecuniárias. Incorporação. Abono salarial de 40%. Fundo de direito.Prescrição quinquenal. Configuração.
+1. A pretensão de pagamento de diferenças decorrentes de incorporação de abono salarial previsto em legislação extinta está sujeita à prescrição quinquenal, tendo como termo a quo o início da eficácia da norma, momento em que supostamente teriam sido prejudicados os servidores não contemplados com o benefício salarial, não havendo falar, entretanto, em obrigação de trato sucessivo, na medida em que a vantagem pecuniária pretendida incorporou-se aos vencimentos dos servidores beneficiados, alterando a própria natureza da relação servidor- administrado não de forma periódica.
+2. Não se configura a prestação de trato sucessivo quando a ação está fundada em pedido principal consubstanciado no direito de receber o auxílio- moradia e o recebimento se traduz em mero reflexo pecuniário.
+3. Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 2.810/2.817).
+Nas razões do recurso especial, a parte agravante apontaviolação aoart. 3º do Decreto nº 20.910/32. Sustenta, em síntese, a não ocorrência de prescrição, sob a alegação de que "em razão da natureza do pagamento realizado aos servidores, que ensejou na renovação do dano a cada mês, pois, independente do mês de incorporação do abono, o qual não há dúvida que se deu apenas em julho de 1990, todas os reajustes e revisões constitucionais sequenciais foram aplicados a menor. (..) Nesse sentido, fala-se em prescrição pois, continuamente, o marco inicial do prazo ajuizamento da ação se renova." (fls. 2.822/2.823)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Colhe-se do acórdão o seguinte trecho, verbis (fls. 2.781/2.782):
+As leis nas quais os apelantes buscam guarida legal são, respectivamente, de 1990 e 1991; a ação de cobrança data de 2/6/2011, isto é, mais de vinte anos após a edição de tais regramentos. Portanto, não se pode confundir a prescrição das parcelas não reclamadas no quinquênio que antecedeu a propositura da ação nas obrigações de tratos sucessivos com a prescrição do próprio fundo de direito, que é o caso em julgamento, em que é forçosa a conclusão de que não configura prescrição de trato sucessivo quando a ação está fundada em pedido principal consubstanciado no direito de perceber o abono, caso em que o seu recebimento se traduz em meros reflexos financeiros.
+Outro ponto a ser destacado é a questão de novas normas terem entrado em vigor após a edição das leis aqui discutidas, modificando diversas vezes a forma e a estrutura remuneratória dos servidores públicos do Estado de Rondônia, ou seja, é evidente que novas vantagens e benefícios foram criados, alterando nomenclaturas e estruturas antes existentes para pontos que já vinham sendo pagos, não sendo mais possível, portanto, discutir tais fatos em razão do tempo transcorrido.
+(..)
+Portanto, a ausência de reivindicação do direito no lapso temporal oportuno levou à ocorrência da prescrição, como prevê o art. 1º do Decreto Lei n.
+20.910/32
+(..)
+Dessa forma, o pleito encontra-se prescrito por terem decorrido mais de 5 anos entre o suposto surgimento do alegado direito e a propositura da ação principal (cobrança), impossibilitando o pagamento de diferenças relativas à incorporação do abono salarial de 40%.
+Com efeito, não há como examinar a alegação de que não teria ocorrido a prescrição do próprio fundo de direito, tal como colocada a questão pelo ora recorrente e enfrentada pelo Tribunal de origem, sem passar pela análise da forma como o próprio direito do recorrido que foi tratado pela legislação estadual de regência, pretensão insuscetível em sede de recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não caberecurso extraordinário.").
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO. ART. 535 DO CPC. VIOLAÇÃO NÃO CARACTERIZADA. OMISSÃO INEXISTENTE. PRESCRIÇÃO. FUNDO DE DIREITO. LEI LOCAL. SÚMULA 280/STF.
+1. Não há a alegada violação do art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Com efeito, não há falar em omissão quanto à manifestação acerca de artigos constitucionais e matéria relativa à gratificação, conforme se pode depreender da leitura da ementa e do voto do embargos declaratórios.
+3. O afastamento da arguição de prescrição do fundo de direito decorreu de análise do direito existente em legislação local, qual seja, a Lei Complementar n. 59/2004 do Estado de Pernambuco. O exame de normas de caráter local é inviável na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+Agravo regimental improvido.
+(AgRg no AREsp 502.072/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/06/2014, DJe 12/06/2014)
+Em hipóteses semelhantes, confiram-se as seguintes decisões: AREsp 899.505/RO, Relatora a Ministra Assusete Magalhaes, DJe de 1/9/2016 e AREsp 564.656/RO, Relator o Ministro Benedito Gonçalves, DJe de 15/10/2014.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
