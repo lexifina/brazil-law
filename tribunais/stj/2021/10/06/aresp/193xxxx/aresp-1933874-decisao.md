@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro cuja ementa é a seguinte:
+Execução Fiscal. CDA. Exceção de Pré-executividade. Sentença que julgou extinta a execução e condenou o Estado ao pagamento de honorários advocatícios, fixados em 5% (cinco por cento) do valor da execução, na forma do art. 85, §3º, I, c/c 90, §4º,do CPC. Inconformismo da empresa executada, com a redução pela metade dos honorários advocatícios, nos termos do artigo90, §4º, CPC/15. Cinge-se a controvérsia recursal quanto à aplicação do art. 90, § 4º, do CPC/2015, no tocante à redução dos honorários advocatícios pela metade. Jurisprudência que vem se consolidando no sentido de que a conduta da Fazenda Pública -ao deixar de impugnar a exceção de pré-executividade apresentada pelo executado, reconhecendo o equívoco -equipara-se ao reconhecimento da procedência do pedido, fazendo jus, portanto, à redução pela metade dos honorários advocatícios, nos termos do art. 90, §4º, do CPC/2015. Precedentes do Superior Tribunal de Justiça. Sentença que se mantém. Honorários recursais inaplicáveis à espécie. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa aos arts. 489, 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts. 11 e 90, § 4º, do CPC/2015.
+Sustenta, em síntese, que:
+No que se refere aos fatos - essenciais para a correta compreensão da lide - restou evidenciado que o v. acórdão considerou o caso como apenas um "equívoco" do Estado do Rio de Janeiro e que, tendo percebido o erro, simplesmente consentiu com a extinção da Execução Fiscal originária.
+ ..
+Veja-se, Ministros, que no presente caso, conforme foi amplamente demonstrado e comprovado nos autos, a atuação do Estado do Rio de Janeiro encontra-se absolutamente distante da definição de um mero equívoco, que se configura quando alguém se engana, interpreta mal, age, muitas vezes, sem intenção de causar prejuízo.
+ ..
+Nesta perspectiva, o Recorrente pede vênia para destacar trecho do acórdão proferido no julgamento do Agravo Interno no Recurso Especial nº 1.674.687/SC, citado acima, no qual o Exmo. Ministro Og Fernandes assentou que " O s honorários advocatícios devem ser fixados na forma do art. 85, §§ 3º e 5º, do CPC/2015, cuja ratio recomenda e exige dos procuradores da União maior responsabilidade no trato das questões atinentes ao erário e sua relação com os contribuintes, de modo a evitar demandas sem justa causa, mas que causam prejuízo às partes"
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 403/406, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem decidiu que:
+De fato, em casos como os dos presentes autos, a jurisprudência vem se consolidando no sentido de que a conduta da Fazenda Pública -ao deixar de impugnar a exceção de pré-executividade apresentada pelo executado, reconhecendo o equívoco - equipara-se ao reconhecimento da procedência do pedido, fazendo jus, portanto, à redução pela metade dos honorários advocatícios, nos termos do art. 90, § 4º, do CPC/2015.
+ ..
+Daí que, inegavelmente, a sentença aplicou correta solução ao litígio e, portanto, não merece reparo.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 489, 1.022 do CPC/2015.
+No mérito, note-se que, ao decidir pela redução dos honorários advocatícios, a Corte de origem alinhou-se ao entendimento firmado no âmbito deste Sodalício sobre o tema.
+Vejam-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS DE ADVOGADO. VALOR DO ARBITRAMENTO. ATENÇÃO AOS LIMITES ESTATUÍDOS PELO §2º DO ART. 85 DO CPC. DISCUSSÃO ABREVIADA EM FACE DO RECONHECIMENTO DO PEDIDO PELO EMBARGADO. REDUÇÃO À METADE DA VERBA HONORÁRIA DEVIDA. 1. Aplicação do entendimento fixado quando do julgamento do REsp 1.746.072/PR pela Colenda Segunda Seção, calculando-se os honorários de advogado, decorrentes da extinção dos embargos de terceiro, sobre o valor do imóvel objeto da constrição, expressão do proveito econômico.
+2. A atribuição da sucumbência ao vencedor por conta do princípio da causalidade, cerne, aliás, do enunciado 303/STJ ("em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios"), não afasta o fato de que o proveito econômico ou o valor da causa (concebido pelo juízo de origem no valor de R$ 683.160,00) dever orientar o valor da verba honorária na espécie. 3. A regra do §2º do art. 85 do CPC está voltada à quantificação dos honorários, sendo, pois, aplicável mesmo na hipótese em que o pagamento da referida verba não seja imputado ao vencido, mas ao vencedor, tendo em vista o princípio da causalidade.
+4. Aplicação, no entanto, do §4º do art. 90 do CPC, reduzindo pela metade o valor da verba honorária devido ao réu em face do reconhecimento do pedido formulado nos embargos e, assim, o sentenciamento da ação, pouco mais de um mês após o ajuizamento, pois esvaziada, por completo, a complexidade da demanda e reduzido sobremaneira o trabalho dos advogados.
+4. Agravo interno desprovido.
+(AgInt no REsp 1679739/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 02/09/2019, DJe 05/09/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL JULGADO POR DECISÃO MONOCRÁTICA. EXISTÊNCIA DE PRECEDENTES DO STJ. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. AÇÃO ANULATÓRIA DO DÉBITO FISCAL.DECLARAÇÃO DA FAZENDA PÚBLICA DE QUE NÃO SERÁ APRESENTADA CONTESTAÇÃO AO FEITO. HONORÁRIOS ADVOCATÍCIOS REDUZIDOS PELA METADE.
+ART. 90, § 4º, DO CPC.
+ ..
+3. No que diz respeito à aplicação do art. 90, § 4º, do CPC, como bem observado no Tribunal a quo, embora não tenha havido "expressa" manifestação de concordância com o pedido deduzido na ação, a Fazenda do Estado do Paraná ingressou nos autos apenas para informar que deixaria de apresentar contestação porque havia ato administrativo do Poder Executivo local dispensando a prática do referido ato processual, prontificando-se a extinguir o crédito tributário tão logo intimada da sentença favorável à parte autora (ora agravante). Na sequência, a Corte estadual confirmou que a demanda tramitou por apenas três meses, tendo o ente público providenciado a baixa do crédito tributário logo após intimado da sentença do juízo do primeiro grau.
+4. Nas circunstâncias peculiares do caso, acima relatadas, agiu com acerto o Tribunal a quo, pois atitude em sentido contrário implicaria comprometimento da finalidade perseguida pela norma, que é a redução da litigiosidade, conduta a que inquestionavelmente aderiu a Fazenda Pública no caso em apreço.
+5. Agravo Interno não provido.
+(AgInt no REsp 1.903.180/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/4/2021, DJe 1º/7/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. RECONHECIMENTO DO PEDIDO. VALOR DA VERBA HONORÁRIA. REDUÇÃO PELA METADE. SÚMULA 83/STJ.
+1. No que se refere à condenação em honorários advocatícios em embargos de terceiro, deve-se atentar para a Súmula 303 do STJ, cuja redação é a seguinte: " Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios".
+2. No caso, o acórdão recorrido foi proferido com fundamento no reconhecimento do pedido pela parte embargada, de modo a incidir a regra constante no art. 90, § 4º, do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1.877.102/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020)
+Diante do exposto, com fundamento no art. 932, IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. DISCUSSÃO ABREVIADA EM FACE DO RECONHECIMENTO DO PEDIDO PELO EMBARGADO. REDUÇÃO À METADE DA VERBA HONORÁRIA DEVIDA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
