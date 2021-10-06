@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por JULIO CEZAR CAVALCANTI DE AZEVEDO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 71 do Código Penal, no que concerne à existência de continuidade delitiva, trazendo os seguintes argumentos:
+No entanto, verifica-se que o artigo 71 do Código Penal exige, para reconhecimento da continuidade delitiva, que os crimes sejam praticados nas mesmas condições de tempo, lugar, maneira de execução e outras semelhantes, de forma que os subsequentes devem ser havidos como continuação do primeiro (fl. 482).
+Por meio da simples leitura da denúncia fica claro que as duas condutas foram praticadas nas mesmas circunstâncias de tempo, lugar e modo de execução (fl. 482).
+De fato, as duas receptações foram praticadas na Comarca de São Paulo (fl. 483).
+Ainda, há o pequeno intervalo temporal de 1 (um) mês e 7 (sete) dias entre as duas receptações (30 de março e 06 de maio de 2016) (fl. 483).
+Além disso, o modus operandi foi semelhante, já que o recorrente e o corréu absolvido Davismar adquiriram e receberam em concurso e previamente conluiados, no exercício de atividade comercial, dois veículos do tipo caminhão, ambos provenientes de crimes de roubo ocorridos anteriormente (fl. 483).
+É, no essencial, o relatório. Decido.
+Com relação ao recurso apresentado, quanto à controvérsia, na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
