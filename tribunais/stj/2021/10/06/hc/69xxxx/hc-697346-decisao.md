@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor deEDSON STEFANI ANTUNES contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido no Agravo em execução n. 50198311720218240018/TJSC.
+Consta dos autos que, diante do não comparecimento do apenado perante o Juízo da Execução da Comarca deJoaçaba/SC, com o translado do processo de execução entre Comarcas, houve interrupção da execução da pena.
+Interposto agravo em execução, pela defesa, o Tribunal negou provimento ao recurso, em acórdão àsfls. 1.021-1.026.
+No presente writ, aimpetrante sustenta, em síntese, queno prazo de 5 dias contado da audiência admonitória não seria possível a apresentação do paciente, pois teria ocorrido o translado do PEC.
+Assevera que "com exceção do requisito impossível de ser efetuado pelo Paciente, já que o processo não se encontrava na Comarca, este seguiu absolutamente à risca as determinações fixadas na primeira Audiência Admonitória, o que pode ser confirmado pela ausência de quaisquer insurgências nesse tocante" (fl. 7), sendo que a "demora nos trâmites de remessa dos autos não pode ser imputada ao Paciente que, conforme acima mencionado, sempre obedeceu às condições impostas para fins de cumprimento da pena no regime aberto, em especial, a comunicação de mudança de endereço" (fl. 8).
+Requer, em liminar e no mérito, seja computada a pena cumprida de 15/06/2017 a 15/08/2017, período detranslado do processo de execução.
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+No caso, o Tribunal a quomanteve a decisão singular, sob a seguinte fundamentação:
+" ..
+A celeuma decorre do fato de que, na ocasião da audiência de ingresso no regime mais brando (14/06/2017) o reeducando indicou novo endereço localizado no município de Joaçaba/SC, o que motivou a declinação da competência à referida comarca para fiscalização da pena imposta. Na ocasião, o recorrente foi devidamente cientificado de que, no prazo de 5 dias, deveria comparar ao fórum daquela comarca para dar início ao cumprimento da pena (seq. 1.119).
+Em 21/07/2017 o Juiz de Direito Márcio Umberto Bragaglia determinou a intimação pessoal do apenado no endereço por ele informado para comparecer em Cartório no prazo de 10 (dez) dias, a fim de ser cientificado acerca das condições do regime aberto desta Comarca (seq. 1.126).
+Devidamente intimado em 10/08/2017 (seq. 1.128), o recorrente, observando o prazo estabelecido, compareceu em juízo para dar continuidade ao cumprimento da reprimenda em 16/08/2017 (seq. 1.132).
+Com efeito, malgrado os argumentos apresentados, fato é que, na ocasião da audiência de ingresso no regime mais brando, realizada na comarca de Videira, o recorrente foi devidamente cientificado de que, no prazo de 5 dias, deveria comparar ao fórum da comarca de Joaçaba para dar início ao cumprimento da pena, o que não ocorreu.
+Nesse sentido, ainda que se admita que o recorrente não foi o responsável pela demora no translado do PEC para a comarca de Joaçaba, é indubitável que ele deixou de observar determinação expressa imprescindível à continuidade do resgate da pena. Não há como o apenado obedecer a condição para o cumprimento da pena que sequer era por ele conhecida.
+Por tais motivos, não vejo razões para modificar o entendimento registrado pelo juízo de origem.
+A idêntica conclusão chegou o Ilustre Procurador de Justiça:
+Insurge-se o Agravante contra a decisão supratranscrita, ao argumento de que o período compreendido de 15/06/2017 a 15/08/2017 não pode ser considerado como interrupção de pena, na medida em que não teria dado causa ao mesmo.
+Nesse sentido, a defesa alega que Edson informou a troca de endereço na audiência que fixou as condições de cumprimento do regime aberto na Comarca de Videira, sendo que a demora no translado do PEC para a Comarca de Joaçaba, o que ensejou o decurso do prazo mencionado para a realização da audiência admonitória, não pode ser imputada ao apenado, que teria obedecido as condições impostas para cumprimento do regime.
+Em que pese as alegações defensivas, tem-se que o pleito não merece guarida.
+Analisando o termo da audiência que consignou a troca de endereço, fixou as condições de cumprimento do regime aberto e declinou a competência do PEC à Comarca de Joaçaba, observa-se que o agravante foi cientificado que deveria comparecer ao fórum, em cinco dias a contar da audiência, para dar início ao cumprimento da pena, o que não fez.
+ ..  Dessa forma, comprovado que o agravante foi cientificado a comparecer ao Fórum da Comarca de Joaçaba, em até cinco dias da realização da audiência, para ser admoestado e dar início ao cumprimento da pena no regime aberto, o que efetivamente não fez.
+Assim, não merece prosperar a alegação de que Edson não deu causa à interrupção no cumprimento da pena, uma vez que, mesmo diante do período para translado dos autos, deveria o agravante ter comparecido ao Fórum de Joaçaba para dar início ao cumprimento da pena no regime aberto, já que a pendência da audiência de admoestação decorreu exatamente da troca de endereço.
+Em resumo, bastava que o apenado tivesse cumprido com a determinação do Juízo da Comarca de Videira, em relação à qual foi devidamente cientificado (ev. 10).
+Ante o exposto, voto no sentido de conhecer do recurso e negar-lhe provimento."(fls. 1.024-1.025).
+Com efeito, "nos termos da jurisprudência do Superior Tribunal de Justiça, se a Paciente não compareceu em Juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida" (HC n. 445.879/SP, Rel. Ministra LAURITA VAZ,SEXTA TURMA, DJe 4/2/2019).No mesmo sentido, confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL.DESCUMPRIMENTODAS CONDIÇÕES IMPOSTAS NO REGIME ABERTO. NÃO COMPARECIMENTO EM JUÍZO. PERÍODO DE PENA NÃO COMPUTADO COMO PENA CUMPRIDA. FRUSTRAÇÃO DA EXECUÇÃO. EXTINÇÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Se o paciente não compareceu em juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida. Sendo assim, não há falar em extinção da pena pelo cumprimento da pena remanescente.
+2. Outrossim, a situação posta nos autos refere-se aodescumprimentode condições impostas ao apenado em regime aberto, situação distinta daquelas que justificam a aplicação do verbete sumular n. 617/STJ, específico para as hipóteses de concessão de livramento condicional, o que impede a sua incidência.
+3. Agravo regimental improvido.
+(AgRg no HC 606.027/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/02/2021, DJe 10/02/2021)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO DA PENA.
+DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS NO REGIME ABERTO. NÃO COMPARECIMENTO EM JUÍZO. PERÍODO DE PENA NÃO COMPUTADO COMO PENA CUMPRIDA. FRUSTRAÇÃO DA FINALIDADE DA EXECUÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Se o apenado descumpre as condições do regime aberto ou não comparece para dar cumprimento às condições impostas, não há falar em extinção da pena pelo cumprimento da pena remanescente, o qual sequer se inicia efetivamente em tais casos. Precedente do STJ. (HC 380.077/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017).
+3. No caso, o paciente descumpriu uma das condições que lhe foi imposta para cumprimento no regime aberto, qual seja, o comparecimento trimestral, tendo ficado foragido desde 30/6/2016 até 23/5/2017, dia em que foi preso em flagrante. Dessa forma, não só cometeu falta grave (art. 50, V, LEP), como também crime, tendo frustrado, assim, por duas vezes, os fins da execução, demonstrando que a autodisciplina e a reponsabilidade exigidas no regime aberto não foram atendidas pelo paciente, como mencionou o Tribunal coator.
+4. Habeas corpus não conhecido.
+(HC 482.915/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/06/2019, DJe 27/06/2019).
+Ademais, o acolhimento da tese defensivademandaria o revolvimento fático-probatório dos autos, providência inviável em sede de habeas corpus. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. DESPROPORCIONALIDADE DA REGRESSÃO DE REGIME. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.PRECEDENTES.
+1. Não é cabível a desconstituição de falta grave na via estreita do habeas corpus, dada a necessidade de revisão fático-probatória.
+2. A via do habeas corpus não é adequada para análise de questões que demandem dilação probatória (precedentes). Na hipótese, portanto, mostra-se inviável o reconhecimento de desproporcionalidade da regressão de regime do paciente pelo cometimento de falta grave, ante a justificativa para a não apresentação perante o Juízo no curso de execução de pena em regime mais brando (AgRg no HC n. 303.477/SC, Ministro Felix Fischer, Quinta Turma, DJe 1º/10/2015) 3. Agravo regimental improvido.
+(AgInt no HC 399.635/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 16/08/2017).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
