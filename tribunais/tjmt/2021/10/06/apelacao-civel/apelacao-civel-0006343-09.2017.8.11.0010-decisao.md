@@ -1,0 +1,12 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CÍVEL n. 0006343-09.2017.8.11.00010
+RECORRENTE: COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO VALE DO CERRADO – SICREDI VALE DO CERRADO
+RECORRIDO: CARLOS ALBERTO PACHECO
+Vistos.
+Devolvam-se os autos à Quarta Câmara de Direito Privado para cumprimento da decisão proferida pela Instância Superior do id. 102454951.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
