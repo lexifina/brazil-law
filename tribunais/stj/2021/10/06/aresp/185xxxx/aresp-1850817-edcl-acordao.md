@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuidam-se de embargos de declaração no agravo interno no agravo em recurso especial, opostos por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS, contra acórdão que negou provimento ao agravo interno que interpusera, e que foi assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido. (e-STJ Fl. 203)
+No presente recurso, aponta a embargante possível equívoco da decisão embargada, sob o fundamento de que "o Tribunal de origem, em absoluta contrariedade à jurisprudência desta Corte, firmou o entendimento no sentido de que é devida a concessão de reajustes de benefícios de aposentadorias e pensões sem a realização do prévio aporte de recursos pela assistida, mormente ao rejeitar a impugnação ao cumprimento de sentença, com clarividente excesso de execução, ante a equivocada metodologia para a aplicação de juros, uma vez que a autora considerou os dias corridos, quando na Justiça o correto é o mês comercial, ou seja, 1 % ao mês, totalizando 12% ao ano" (e-STJ Fl. 211). Assevera que o "acórdão embargado segue omisso exatamente neste ponto, na medida em que já restou demonstrado no Agravo Interno que, ao contrário do entendimento firmado pelo Tribunal de origem, não há que se falar em reajuste sem a devida formação da reserva matemática, sem a qual ferir-se-á o equilíbrio econômico atuarial do Plano de Benefícios, afetando uma enorme massa de participantes e assistidos." (e-STJ Fl. 211)
+É o breve relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no julgado embargado.
+2. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+É notória a busca de efeitos infringenciais, não havendo a alegada omissão, porquanto a decisão embargada trata expressamente da matéria novamente vertida nestes embargos de declaração.
+Consoante consignado no acórdão embargado, "cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Assim, cabia à agravantes demonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno." (e-STJ Fl. 204).
+O acórdão embargado, portanto, não padece de omissão, pois o agravo em recurso especial não foi conhecido em razão de sua irregularidade formal (Súmula 182 do STJ), o que lhe prejudica o exame do mérito recursal, notadamente em relação às matérias alegadas pela embargante e novamente reiteradas no presente recurso.
+Desse modo, importa salientar que os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, erro material, contradição ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador, não se prestando à simples reexame da causa, nem a modificar o entendimento do órgão julgador.
+Verifica-se que a embargante pretende, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema. Os fundamentos de seus aclaratórios revelam tal inconformidade e o claro desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Dissociado, o pleito, de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a rejeição dos embargos de declaração.
+Forte em tais razões, REJEITO os embargos de declaração e, tendo em vista o seu manifesto caráter protelatório, condeno a embargante ao pagamento de multa em favor da parte embargada, no montante correspondente a 1 % do valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC/2015, sem prejuízo da elevação da penalidade na hipótese de reiteração.
