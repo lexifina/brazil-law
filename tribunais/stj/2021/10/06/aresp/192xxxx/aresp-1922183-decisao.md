@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPAÇÕES contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea"a"da Constituição Federal.
+Agravo em recurso especial interposto em:10/03/2021.
+Concluso ao gabinete em:24/09/2021.
+Ação:de cobrança ajuizada por GUILHERME MINOZZI VICENTE em face de CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPAÇÕES na qual requer o pagamento pela prestação de serviços de levantamento de dados para captação de áreas para incorporação imobiliária, conforme contrato particular celebrado entre as partes.
+Sentença:julgou procedente o pedido.
+Acórdão: negou provimento à apelação interpostapor CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPAÇÕES, nos termos da seguinte ementa:
+"APELAÇÃO. Prestação de serviços. Ação de cobrança julgada procedente. Comissões pela venda de dois conjuntos de imóveis, prevista no instrumento de distrato celebrado entre as partes.
+Serviços assemelhados aos de corretagem.
+Negativa da ré ao pagamento. Alegação de que os negócios foram fechados após o decurso do prazo estabelecido no distrato (180 dias). Não cabimento. Levantamento de dados para captação de áreas que seriam objeto de incorporação imobiliária pela ré comprovados pela autora.
+Resultado útil dos serviços prestados pela autora verificado quando assinados os compromissos de compra e venda. Interpretação equivocada de cláusula contratual que subordina a eficácia do negócio jurídico à lavratura das escrituras para a aquisição do direito vindicado na exordial, situação que acaba por instituir cláusula puramente potestativa em violação à segunda parte do art. 122 do CC. Situação que permitiria à ré postergar a assinatura das escrituras para depois do prazo de 180 dias, frustrando o recebimento das comissões por trabalhos realizados preteritamente pela autora. Condição verificada na data das assinaturas doscompromissos de compra e venda, pena de albergar atitude maliciosa da ré contrariando o que dispõe o art. 129 do CC. Quebra do sigilo e confidencialidade por parte da autora.
+Inocorrência. Alegação que carece de seriedade, porquanto os "e-mails"trocados pela autora não contém informações comerciais confidenciais que pudessem servir aos interesses de empresas concorrentes em prejuízo dos negócios da ré, ausente comprovação que a alegada quebra de sigilo influenciou no preço da venda dos imóveis.
+Comissões devidas. Sentença mantida.
+RECURSO DESPROVIDO, majorados os honorários advocatícios, nos termos do art. 85, § 11, do CPC, de 15% para 17% do valor atualizado da causa." (fls. 458/459, e-STJ).
+Embargos de declaração:opostos por CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPAÇÕES, foram rejeitados.
+Recurso especial:alega violação dos arts. 113, 476 e 884 do CC, sustentando, em síntese, i) a "impossibilidade de a Recorrida exigir o pagamento das comissões sendo que não cumpriu com sua obrigação contratual de sigilo e confidencialidade, o que evidencia exceção do contrato não cumprido" (fl. 498, e-STJ), ii) o enriquecimento sem causa advindo da conclusão ter ocorrido através de outra empresa, não sendo possível o pagamento dacomissão requerida pela recorrida; iii) a ausência de cumprimento de cláusula do distrato, pois o pagamento apenas seria devido "caso as negociações de ambos os imóveis se concretizassem em até 180 dias após a assinatura do distrato" (fl. 500, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento:aplicação do CPC/2015.
+- Do reexame de fatos e provas
+No tocante à alegada quebra do dever de sigilo e confidencialidade por parte da recorrida,o acórdão recorrido assim se pronunciou:
+"(..) a alegada violação do dever de sigilo por parte da apelada carece de seriedade, porquanto os e-mails reportados no recurso (fls. 195/196) não contém informações comerciais confidenciais que pudessem servir aos interesses de empresas concorrentes em prejuízo dos negócios da apelante.
+E como a apelante não comprovou que alegada quebra de sigilo influenciou no preço da venda dos imóveis, forçoso reconhecer que o argumento não ultrapassou o campo da mera retórica, ausente o mínimo elemento probatório confiável a esse respeito." (fl. 465, e-STJ).
+Quanto à tese atinente ao enriquecimento ilícito da recorrida em receber comissão indevida porquanto a prestação de serviço supostamente foi realizada por outra empresa, o Tribunal de origem assentou o que segue:
+"A contratação de outras duas empresas para a finalização dos negócios não exonera a apelante do cumprimento do contrato firmado com a parte contrária, mormente porque não impugnado o levantamento de dados, mapeamento, captação de áreas, reuniões presenciais com os proprietários dos imóveis, entre outros serviços, e que culminaram com a efetivação da aquisição dos imóveis pela empresa recorrente.
+Ademais, as partes disciplinaram no contrato a redução da comissão em 50% (cláusula IV.2), percentual que, por óbvio, considera a atuação parcial da apelada, pois não fosse assim, não haveria razão de ser a existência da cláusula em comento." (fl. 464, e-STJ).
+E, por fim, relativamente ao argumento de que não cabe opagamento da comissão, este somente ocorreria na hipótese de negociação dos dois imóveis dentre do prazo de 180 dias após a assinatura do distrato, o aresto vergastado se fundamentou nos seguintes termos:
+"Com relação aos imóveis situados na Rua Bento Branco, onde o compromisso de venda e compra foi assinado em 08/05/2013, ou seja, após o prazo previsto no distrato para o recebimento da comissão, a irresignação recursal é insuficiente para afastar os escorreitos fundamentos declinados na r. sentença, adotados como razões de decidir para evitar desnecessária repetição, como autoriza o art. 252 do Regimento Interno do Tribunal de Justiça, in verbis:
+"Assim, mais compatível com o objeto do contrato de prestação de serviços existente entre as partes e com as máximas da boa-fé objetiva, interpretação segundo a qual, realizada a aproximação entre a Ré e o alienante, ainda que formalizado esse negócio jurídico 23 dias após oprazo final estabelecido no distrato, é devida a comissão ao Autor.
+Corrobora essa conclusão o fato de a requerida ter sonegado do autor os documentos pertinentes às compras, o que estava obrigado a fazer, nos termos da cláusula IV.3 do distrato (fls. 79/80). Com efeito, o autor somente teve acesso a cópia dos contratos por ordem judicial em ação de exibição de documentos."
+Assinale-se que a apelante não logrou êxito em demonstrar que o negócio relativo ao mencionado imóvel decorreu da exclusiva atuação de uma das empresas que contratou e sem qualquer participação do representante legal da apelada, de modo a elidir a pretérita prestação dos serviços pela parte contrária e dentro do prazo de 180 dias previsto no instrumento de distrato, ainda que posteriormente formalizada a negociação, mas não se desincumbiu desse encargo." (fls. 464/465, e-STJ).
+Desse modo, alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados em 3% sobre o valor da causa devidos pelorecorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de cobrança
+2.O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo em recurso especial conhecido. Recurso especial não conhecido.
