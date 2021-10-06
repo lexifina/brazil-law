@@ -1,0 +1,17 @@
+DECISÃO
+Tratam-se de Embargos de Declaração opostos pelo Esteio Engenharia e Aerolevantamentos S.A., contra decisão singular por mim proferida, cuja ementa assim estabelece,in verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AOS ARTS. 489 DO CPC E 151 E 206 DO CTN. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ISS. SUJEITO ATIVO DA RELAÇÃO TRIBUTÁRIA. SEDE DO ESTABELECIMENTO PRESTADOR DO SERVIÇO PARA FATOS GERADORES OCORRIDOS NA VIGÊNCIA DO DECRETO-LEI 406/68. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
+Nas razões dos aclaratórios, o recorrente pugna pela modificação do julgado, ao sustentar que na condição de prestadora de serviços, a autora recolhe para os municípios onde eventualmente exerce suas atividades, impostos sobre serviços  ISS, nos termos da interpretação dos artigo 12 do DL 406/68 e Artigos 3º e 4º da LC 116/03.
+Impugnação aos aclaratórios às fls. 1.205/1.206 (e-STJ).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ:"aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A presente lide pretende averiguar qual o local define o Município competente para a imposição tributária, se o da prestação de serviço ou se o local do estabelecimento do prestador do serviço. A recorrente defende que os serviços por ela prestados se inserem na previsão do inciso III do art. 3º da LC 116/2003, pelo que o município competente para a tributação seria o do território em que efetivamente prestado o serviço, e não o município de Curitiba.
+Com efeito, o Tribunal de origem em nenhum momento aludiu qual seria a atividade econômica desempenhada pela ora embargante, tampouco a enquadrou nas atividades descritas na lista anexa da LC 116/2003, tendo genericamente asseverado que a competência tributária do sujeito ativo, de acordo com a jurisprudência local, seria do município no qual houve a prestação do serviço, afastando a competência da sede ou do domicílio do contribuinte.
+Nesse sentido, tenho havido a definição genérica de competência pelo aresto recorrido, cabe alertar que porregra geral, a teorda Lei Complementar 116/2003, afirma-se queo imposto é devido no local do estabelecimento prestador, compreendendo-se como tal o local onde a empresa que é o contribuinte desenvolve a atividade de prestar serviços, de modo permanente ou temporário, sendo irrelevantes para caracterizá-lo as denominações de sede, filial, agência, posto de atendimento, sucursal, escritório de representação, contato ou quaisquer outras que venham a ser utilizadas.
+A propósito:
+TRIBUTÁRIO. ISS. COMPETÊNCIA DO MUNICÍPIO DO ESTABELECIMENTO PRESTADOR. 1. Para fins de definição do lugar do fato gerador do ISS e do município competente para exigi-lo, a Primeira Seção, em Recurso Especial repetitivo (art. 543-C do CPC), entendeu que o local da prestação do serviço é o do estabelecimento prestador (art.12 do DL 408/68 e 3º da LC 116/03).
+2. Recurso Especial não provido.
+(REsp 1714828/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/03/2018, DJe 16/11/2018)
+Ante o exposto, rejeitos os aclaratórios e torno prejudicado os aclaratórios opostos às fls. 1.180/1.198 (e-STJ).
+Publique-se.
+Intimem-se.
