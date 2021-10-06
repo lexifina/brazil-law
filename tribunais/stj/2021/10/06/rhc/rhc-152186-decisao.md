@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar,interposto porYgor Dorea da Costa, impugnando-se oacórdão proferido pela Décima Quinta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo no HC n. 2117438-81.2021.8.26.0000, que denegou o writ de origem, na parte conhecida, mantendo-o segregado cautelarmente em razão da suposta prática da conduta descrita no art. 33, caput, da Lei n. 11.343/2006 (Processo n. 1511575-91.2021.8.26.0228 - 10ª Vara Criminal Central da Capital/SP).
+O acórdão do Tribunal a quo foi assim ementado (fl. 120):
+HABEAS CORPUS - Tráfico de entorpecentes (artigo 33, "caput", da Lei nº 11.343/06). Apreensão de considerável quantidade e variedade de droga (13 frascos plásticos contendo lança-perfume, com quantia líquida de 208,0 mililitros; 64 porções de cocaína sob a forma de crack, com peso líquido de 18,10 gramas; 53 porções de cocaína pesando 25,20 gramas; e 75 porções de maconha com peso líquido de 112,9 gramas) - Pressupostos da segregação cautelar presentes - Inócuas outras medidas do artigo 319 do CPP - Constrangimento ilegal não caracterizado - Acordo de não persecução penal. Benefício não proposto pelo Ministério Público. Ausência de impugnação pela via adequada (CPP, artigo 28-A, § 14º). Impossibilidade de utilização do writ como sucedâneo do procedimento próprio. Não conhecimento - Ordem conhecida em parte e, nesta, denegada.
+Nas razões recursais, alega a defesa, em síntese, que a prisão preventiva foi decretada com base na gravidade abstrata do crime, sem levar em conta a primariedade e os bons antecedentes do recorrente, que não tem ligação com quaisquer organizações criminosas, inexistindo motivação idônea para a manutenção de sua segregação cautelar (fls. 137/145).
+Requer, em liminar e no mérito, a liberdade provisória, mediante a imposição de medidas cautelares diversas da prisão e com expedição de alvará de soltura, para permitir que o recorrente aguarde a conclusão da instrução processual em liberdade (fl. 174).
+Liminar deferida (fls. 167/169)
+Informações prestadas (fls. 176/179), o Ministério Público Federal ofereceu parecer pela prejudicialidade do recurso (fls. 181/183).
+É o relatório.
+O presente recursoperdeu seu objeto, diante de substancial alteração fático-processual.
+Isso porque, as informações prestadas pelo Juízo10ª Vara Criminal da comarca de São Paulo/SP dão conta de queno dia 03/08/2021, sobreveio sentença condenatória à pena privativa de liberdade de 4 anos e 2 meses de reclusão no regime aberto e ao pagamento de 416 dias-multa, no mínimo legal. A pena corporal foi substituída por uma pena restritiva de direitos consistente em prestação de serviços à comunidade e 10 dias-multa no mínimo legal, sendo deferido o direito de apelar em liberdade, com expedição de alvará de soltura clausulado (fl. 177).
+Ante o exposto, julgo prejudicado o recurso, tornando sem efeito a liminar anteriormente deferida.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA. DIREITO DE RECORRER EM LIBERDADE DEFERIDO PELO JUÍZO SENTENCIANTE. ALTERAÇÃO FÁTICO-PROCESSUAL. PERDA DO OBJETO.
+Recurso prejudicado, liminar tornada sem efeito.
