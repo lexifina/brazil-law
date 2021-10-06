@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Vanilda Aparecida Iassia de Mello e outroscontra decisão que deu provimento ao recurso especial (fls. 448/456), com base no fundamento de que "oSupremo Tribunal Federal, em sede de repercussão geral, no julgamento do Recurso Extraordinário n. 870.947/SE (Tema 810), assentou a compreensão de que "o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina"; estabeleceu, ainda, que a correção monetária deve observar o IPCA-E."
+A parte embargante, sustenta, em resumo, que a decisão recorrida restou omissa "quanto à inversão do ônus sucumbencial, tendo em vista que os Autores foram condenados pela decisão interlocutória, mantida pelo v. acórdão, ao pagamento de honorários advocatícios fixados em 10% sobre o excesso alegado."(fl. 458)
+É o relatório.
+Assiste razão à embargante.
+Com efeito, odecisumembargado, aoprover o recurso especial da parte ora embargante, efetivamentenada dispôs acerca da inversão dos ônus sucumbenciais, devendo ser suprimida a omissão ora apontada.
+Assim, acolho os embargos para sanar tal omissão e determinar que, uma vez provido o recurso especial interposto às fls. 255/174, devem ser invertidos os ônus sucumbenciais,devendoser suportados pela parte ora embargada.
+Publique-se.
