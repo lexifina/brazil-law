@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado peloDepartamento Nacional de Infraestrutura de Transportes - DNIT contra decisão que não conheceu do recurso especial.
+O agravante sustenta que não incide o óbice da Súmula 211/STJ, pois, embora o Tribunal de origem não tenha feito menção aos dispositivos legais, emitiu juízo quanto ao tema.
+É o relatório.
+Aquestão jurídica objeto do presente recurso constitui tema dos Recursos Especiais n. 1.908.497/RN e 1.913.392/MG, afetados como recursos especiais repetitivos -Tema 1.104- com o seguinte teor:
+Definir a possibilidade de imposição de tutela inibitória, bem como de responsabilização civil por danos materiais e morais coletivos causados pelo tráfego com excesso de peso em rodovias.
+O entendimento do STJ é no sentido de que qualquer irresignação que tenha por objeto matéria tratada em recurso representativo da controvérsia deve ser devolvida ao tribunal de origem, a fim de que exerça o juízo de retratação antes da apreciação do respectivo recurso especial por esta Corte Superior.
+Nesse toar:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. RESTITUIÇÃO AO ERÁRIO. ERRO DA ADMINISTRAÇÃO. TEMA AFETADO AO RITO DOS REPETITIVOS (RESP 1.769.306/AL E RESP 1.769.209/AL). EXEGESE DOS ARTS. 1.040 e 1.041 DO CPC/2015. DEVOLUÇÃO E SOBRESTAMENTO DO ESPECIAL NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. A matéria referente à devolução ao Erário de valores recebidos de boa-fé pelo servidor público, quando pagos indevidamente por erro operacional da Administração Pública, foi afetada pela Primeira Seção do STJ ao rito dos recursos especiais repetitivos (REsp 1.769.306/AL e REsp 1.769.209/AL, Rel. Ministro Benedito Gonçalves, DJE 02/05/2019 - TEMA 1.099/STJ).
+2. Mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos dos recursos representativos da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores, com a restituição dos autos ao Tribunal de origem, para que lá se observe o iter delineado nos arts. 1.040 e 1.041 do CPC/2015.
+(EDcl no AgInt no AREsp 1.445.132/MG, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/9/2019, DJe 23/9/2019).
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. MEDIDAS CONSTRITIVAS. TEMA AFETADO AO RITO DOS REPETITIVOS EM PROCESSOS DIVERSOS (REsp 1.694.261/SP, REsp 1.694.316 e REsp 1.712.484/SP). EXEGESE DOS ARTS. 1.040 e 1.041 DO CPC/2015. DEVOLUÇÃO E SOBRESTAMENTO DO ESPECIAL NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. No caso, quanto à matéria de fundo, qual seja, a "Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal", ressalta-se a recente afetação ao rito dos repetitivos, tendo por representativos da controvérsia o REsp 1.694.261/SP, REsp 1.694.316 e REsp 1.712.484/SP - Tema 987 dos Recursos Repetitivos (Primeira Seção, Rel. Min. Mauro Campbell Marques, DJe 20/02/2018).
+2. Em razão da afetação do tema em discussão ao rito dos recursos especiais repetitivos, de rigor o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos a serem proferidos no julgamento dos noticiados recursos representativos da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para determinar o cancelamento das decisões anteriores e a restituição dos autos ao Tribunal Regional Federal da 4ª Região.
+(EDcl no AgInt no REsp 1.478.016/SP, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+Ante o exposto, torno sem efeito a decisão de e-STJfls. 683-686, e determino a devolução dos autos ao Tribunal de origem para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC, de modo que se: I) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou II) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Fica prejudicado, por consequência,o agravo interno aviado porDepartamento Nacional de Infraestrutura de Transportes - DNIT(e-STJfls. 729-739).
+Publique-se. Intimem-se.
