@@ -1,0 +1,38 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus, interposto por Juraci Oliveira da Silva, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimental no HC 643.978 – RS.
+    Consta dos autos que o paciente foi condenado pela prática dos delitos descritos nos arts. 121, § 2º, I e IV c/c o art. 14, II, (três vezes), todos do Código Penal, à pena de 12 anos e 9 meses de reclusão, a ser cumprida inicialmente em regime fechado.
+    Sobreveio apelação criminal que decotou a continuidade delitiva e redimensionou a reprimenda para 24 anos e 6 meses de reclusão.
+    A ação penal transitou em julgado.
+    Ainda irresignada, a defesa ajuizou revisão criminal no TJRS alegando, em suma, que a condenação estaria contrária às provas dos autos.
+    A ação foi julgada improcedente, nos termos da ementa a seguir transcrita:
+    “REVISÃO CRIMINAL. TENTATIVAS DE HOMICÍDIO QUALIFICADO (TRÊS VEZES). DECISÃO MANIFESTAMENTE CONTRÁRIA À EVIDÊNCIA DOS AUTOS: NÃO CARACTERIZAÇÃO. A revisão criminal não constitui uma segunda apelação e, por isso, não se admite em seu âmbito a reapreciação de provas já amplamente examinadas. CRIME CONTINUADO. NÃO RECONHECIMENTO. O reconhecimento do crime continuado exige certa periodicidade entre as condutas, fazendo permitir o reconhecimento da ficção jurídica de que os crimes cometidos em curto espaço de tempo (conforme a jurisprudência majoritária, num período de até 30 dias) sejam considerados como um crime apenas. Na hipótese dos autos, conforme a própria denúncia e os elementos colhidos na prova oral, os ofendidos foram alvo do ataque determinado pelo réu no mesmo evento criminoso. Conforme foi evidenciado, os atiradores, a mando do recorrente, direcionaram suas condutas contra Vladimir e Otacílio, desferindo disparos de arma de fogo enquanto ambos estavam em frente ao ponto de tráfico. Ato contínuo, dispararam contra Luis Fernando que se dirigia para casa de sua namorada. REVISÃO CRIMINAL JULGADA IMPROCEDENTE, POR MAIORIA”. (eDOC 2, p. 88)
+    Daí a impetração de habeas corpus no Superior Tribunal de Justiça. Na ocasião, a defesa alegou nulidade no julgamento da revisão criminal, bem como postulou a aplicação da continuidade delitiva.
+    A ordem foi denegada.
+    Impugnou-se a decisão por meio de agravo regimental, o qual foi desprovido nos termos da ementa a seguir transcrita:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVAS DE HOMICÍDIO QUALIFICADO. REVISÃO CRIMINAL. MERO REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. ALEGAÇÃO DE NULIDADE. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. ANÁLISE PELO STJ. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. CONCURSO MATERIAL E FORMAL DE CRIMES. DESCARACTERIZAÇÃO. NECESSIDADE DE INCURSÃO NOS FATOS E PROVAS. IMPOSSIBILIDADE.
+    1. O Superior Tribunal de Justiça já pacificou o entendimento pelo não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP (HC 206.847/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/02/2016, DJe 25/02/2016).
+    2. O Tribunal de origem, por ocasião do julgamento do recurso de apelação da defesa, afastou a tese de ausência de indícios de autoria, afiançando que foram produzidos elementos idôneos e aptos a demonstrar o envolvimento do paciente nas três tentativas de homicídio.
+    3. Proceder a amplo reexame e revaloração dos fatos e provas coligidos nos autos, a fim de desconstituir o que foi decidido pelas instâncias ordinárias acerca da existência de indícios de autoria, como pretende o impetrante, não apenas é inviável na estreita via do habeas corpus, que não admite revolvimento fático-probatório, como, sobretudo, significaria clara usurpação da competência do Tribunal do Júri, Juízo natural da causa, nos termos do art. 5º, XXXVIII, da Constituição da República. (HC 537.546/RS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019.)
+    4. No que diz respeito à alegação de nulidade do julgamento da revisão criminal, em razão de impedimento de Desembargador, malgrado se trate de nulidade absoluta, a defesa não instou o Tribunal de origem a se pronunciar, por ocasião da oposição dos embargos de declaração. Não tendo sido a matéria suscitada, tampouco apreciada pelo Colegiado a quo, exsurge evidente que sua análise pelo Superior Tribunal de Justiça implica indevida supressão de instância.
+    5. As pretensas nulidades do processo, sob os mais variados argumentos (suspeição de Desembargador, impedimento de testemunha, existência de prova nova, exiguidade da sessão de julgamento etc.), além da indevida supressão de instância, não são evidentes a ponto de ensejar a concessão de habeas corpus de ofício. (AgRg no HC 373.973/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/08/2018, DJe 21/08/2018).
+    6. A revisão do entendimento adotado pelo Tribunal de origem, que afastou a continuidade delitiva por entender caracterizado o concurso formal e material de crimes, exige a incursão nos fatos e provas, providência incompatível com a via do writ.
+    7. Agravo regimental improvido”. (eDOC 25)
+    Nesta Corte, o recorrente reitera os pedidos pretéritos e enfatiza a fragilidade das provas que lastrearam a condenação.
+    Argumenta que um dos desembargadores que participou do julgamento da revisão criminal teria si declarado impedido quando do julgamento da apelação.
+    Por fim, postula o reconhecimento da continuidade delitiva.
+    Este writ veio a mim distribuído por prevenção a RCL 10.779/RS. (eDOC 47)
+    É o relatório.
+    Passo a decidir.
+    As razões não merecem acolhimento.
+    No presente recurso, a defesa insiste na redução do quantum da pena pelo reconhecimento da continuidade delitiva.
+    No entanto, verifica-se que, após exaustivamente analisadas pelas instâncias antecedentes, as condenações do acusado foram lastreadas no acervo fático-probatório constante dos autos, de modo que estariam suficientemente comprovadas a autoria e a materialidade de cada delito.
+    Portanto, não procede as alegações arguidas pela defesa.
+    Isso porque, conforme jurisprudência desta Corte, cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+    Desse modo, o acórdão impugnado atende aos princípios da proporcionalidade e da individualização da pena, possuindo motivação legítima.
+    Ademais, quanto a suposta nulidade no curso do julgamento da revisão criminal, verifico que a matéria não foi objeto de análise nem pelo TJRS quanto pelo STJ.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 103.282/PA, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.8.2013 e HC 114.867/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.8.2013.
+    Ante o exposto, com fundamento no artigo 192, caput, do RISTF, nego provimento ao presente recurso ordinário.
+    Publique-se.
+    Brasília, 6 de outubro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
