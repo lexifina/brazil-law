@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de GERINALDO BATISTA GOUVEIA, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no Recurso em Sentido Estrito n.1500859-67.2020.8.26.0542.
+Consta dos autos que o paciente foi pronunciado, em 14/04/2019,pela prática dos delitos de homicídio qualificado consumado (art. 121, § 2º, II e IV, do Código Penal - CP) e de homicídio qualificado tentado (art. 121, § 2º, incisos IV e V, c/c artigo 14, inciso II,ambos do Código Penal).
+Inconformada, a defesa do paciente interpôs recurso em sentido estrito, o qual foi desprovido em acórdão assim ementado:
+"RECURSO EM SENTIDO ESTRITO - HOMICÍDIO DUPLAMENTE QUALIFICADO E TENTATIVA DE HOMICÍDIO DUPLAMENTE QUALIFICADO - NULIDADE DO PROCESSO, DESPRONÚNCIA, LEGÍTIMA DEFESA, QUE SEJAM AFASTADAS AS QUALIFICADORAS - IMPOSSIBILIDADE - HÁ DUAS VERSÕES NOS AUTOS, QUE DEVEM SER APRESENTADAS AOS SENHORES JURADOS, CONSTITUCIONALMENTE COMPETENTES PARA EXAME EXAURIENTE DO MÉRITO - PRONÚNCIA MANTIDA - PRELIMINAR REJEITADA E RECURSO DESPROVIDO"(fl. 484).
+No presente writ, o impetrante sustenta que não há nenhuma prova que autorize a pronúncia, pois o acórdão não indicou os quais os depoimentos colhidos e "em Juízo, ouviram-se apenas uma testemunha que nada soube dizer dos fatos, bem como os agentes policiais, que não presenciaram o ocorrido e centraram toda a sua suspeita em "ouvir dizer": são um típico hearsay testemony, que é inidôneo à pronúncia." (fl. 9).
+Assevera queque houve excesso de linguagem, sendo que "o Juízo deve apenas especificar as qualificadoras, se entender que estão presentes. Não há autorização para que afirme que ocorreram, como fez. E isso porque, nos termos do art. 472, parágrafo único, do CPP, o jurado deverá receber cópia da decisão de pronúncia antes do julgamento."(fl. 13).
+Requer, em liminar eno mérito, a concessão da ordem para: "a) seja decretada a despronúncia do réu, em razão de que a decisão de piso violou o art. 155 do CPP e o art. 413 do CPP;b) subsidiariamente, seja reconhecida a nulidade da decisão de pronúncia, pois incorreu em excesso de linguagem quanto às qualificadoras, com seu desentranhamento;c) por fim, a concessão de liberdade em favor do acusado, que está preso desde a data do flagrante (15/04/2020)."(fl. 13).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção dopaciente, capaz de justificar a concessão da ordem de ofício.
+Conforme relatado,o pacientefoi pronunciado pela prática de doisdelitos de homicídio qualificado (um consumado e outro tentado).
+O art. 413 do Código de Processo Penal dispõe queo juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação. O legislador, portanto, deixa claro que se trata de um juízo de probabilidade, vigorando a regra in dubio pro societate.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. HOMICÍDIO QUALIFICADO. SENTENÇA DE PRONÚNCIA. AUTORIA DELITIVA. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. A decisão de pronúncia tem por escopo a admissibilidade da acusação de prática de crime doloso contra a vida, remetendo o caso à apreciação do Tribunal do Júri. Por sua natureza perfunctória, prevalece nessa fase o princípio in dubio pro societate, segundo o qual se preserva as elementares do tipo penal a serem submetidas à avaliação dos jurados, dispensando-se fundamentação exauriente.
+3. A reversão do entendimento exarado pela decisão de pronúncia não é possível sem exame verticalizado e aprofundado do conjunto probatório, providência que não se coaduna com os estreitos limites cognitivos do habeas corpus.
+4. Por outro lado, não prospera a alegação de excesso de linguagem por ocasião da sentença de pronúncia, uma vez que o julgador de primeiro grau, em momento algum, declinou um juízo de convicção a respeito da culpabilidade do paciente, cuidando apenas de apresentar elementos de prova mínimos - e estritamente necessários - para reconhecer a prova da materialidade e indícios da autoria de crime doloso contra a vida, a ser julgado pelo Tribunal do Júri, o que afasta o apontado constrangimento ilegal.
+5. Habeas corpus não conhecido.
+(HC 623.614/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 19/03/2021).
+No caso, restou devidamente demonstrado no acórdão impugnado que existem indícios suficientes da autoria dos delitos de homicídio em desfavor do paciente, mostrando-se acertada a sentença de pronúncia. Ademais, as alegações apresentadas neste writ dizem respeito ao mérito da acusação, cujo juízo decerteza cabe ao Tribunal do Júri.
+Confiram-se, a propósito, os fundamentos do Tribunal a quo:
+" ..
+No entanto, suas escusas não poderiam ser desde já acolhidas, pois há duas versões nos autos, a acusatória e a defensiva, e somente os jurados poderão dizer qual prevalece.
+Ensina JOSÉ FREDERICO MARQUES que a pronúncia, "é sentença processual de conteúdo declaratório, em que o juiz proclama admissível a acusação, para que esta seja decidida no plenário do Júri". Essa decisão "exige a comprovação do crime, ou corpus delicti, bem como a existência de prova indiciária sobre a autoria. Se o juiz não se convencer de uma coisa e de outra, então impronunciará o réu" (Elementos de Direito Processual Penal, Ed. Forense, 2ª ed., vol. III, p. 176).
+No caso, ambos os requisitos exigidos estão presentes e foram apontados pela decisão hostilizada.
+Quanto à autoria dos dois crimes, há indícios suficientes, ao menos nos termos em que exigido para a decisão de pronúncia, pois o réu admitiu ter agredidos os ofendidos, mas alegou, em Juízo, que o fez em legítima defesa.
+Embora não se tenha colhido o depoimento da vítima sobrevivente em Juízo, as demais provas, em especial os depoimentos das testemunhas colhidas em contraditório, indicam como os fatos ocorreram.
+Damiana, na fase investigativa (fls.78/79), disse que houve a cobrança do aluguel, mas de forma amigável, sem ter havido discussão. Estava ela e seu companheiro Antônio, quando o réu chegou e já se iniciaram as agressões.
+Quando ele a viu, partiu para cima dela, e disse que também iria "matá-la".
+Não bastasse isso, a corroborar os indícios suficientes de autoria, há o laudo de exame de corpo de delito e as fotografias de fls. 93/98 e 266/267.
+Há, portanto, duas versões nos autos, sendo precipitado antecipar qual deve prevalecer, pois impossível o exame exauriente das provas, tarefa que incumbe, apenas e tão somente, aos Senhores Jurados.
+O mesmo deve ser dito quanto à qualificadoras apontadas, coerentes com a versão acusatória, caso seja essa a eleita pelos jurados.
+Portanto, irretocável a respeitável sentença de pronúncia, cujos fundamentos ficam aqui incorporados integralmente como razão de decidir"(fls. 489/490).
+Por fim, oalegado excesso de linguagem da pronúncia não prospera em face dademonstração da materialidade do fato e a indicação da existência deindícios suficientes de autoria do delito de homicídio doloso.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO. TENTATIVA DE HOMICÍDIO. PRONÚNCIA. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA.
+MENÇÃO ÀS PROVAS DOS AUTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O judicium accusationis constitui mero juízo de admissibilidade da acusação. Assim, muito embora a decisão de pronúncia, dada sua importância para o réu, deva ser bem fundamentada, sob pena de nulidade, nos termos do art. 93, IX, da Constituição Federal, o magistrado deve utilizar linguagem sóbria e comedida, a fim de não exercer nenhuma influência no ânimo dos jurados e ficar adstrito ao reconhecimento da existência do crime e de indícios de autoria.
+2. Não se configura excesso de linguagem quando, por ocasião da prolação da decisão de pronúncia, o magistrado se refere às provas constantes dos autos, para verificar a ocorrência da materialidade e a presença de indícios suficientes de autoria, aptos a ensejar o julgamento do feito pelo Tribunal do Júri. Precedentes.
+3. Na hipótese, não prospera a alegação de excesso de linguagem na decisão que pronunciou o acusado por homicídio tentado e homicídio consumado, porquanto o Magistrado de primeiro grau não foi peremptório em afastar o álibi apresentado pelo réu ou em emitir um juízo de culpa - como afirma a defesa. O Juiz, a partir do cotejo das provas e das versões apresentadas no processo, entendeu pela admissibilidade da acusação e fundamentou o decisum com trechos dos depoimentos das testemunhas.
+4. Agravo regimental não provido.
+(AgRg no RHC 141.548/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/03/2021, DJe 30/03/2021).
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimações necessárias.
