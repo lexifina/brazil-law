@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado:
+AGRAVO EM EXECUÇÃO RECURSO MINISTERIAL IRRESIGNAÇÃO CONTRA DECISÃO QUE DEFERIU PEDIDO DE PROGRESSÃO PARA O REGIME ABERTO SEM A SUBMISSÃO DO CONDENADO AO EXAME CRIMINOLÓGICO PARCIAL PROVIMENTO Tendo em vista a existência de circunstâncias concretas que demonstram situação excepcional, de rigor a realização do exame criminológico para, assim, poder apurar, de forma segura, a presença do requisito de ordem subjetiva para a concessão da progressão de regime. Agravo parcialmente provido, para cassar a decisão impugnada, determinando a submissão do agravado ao exame criminológico e, com a juntada do referido exame, seja o pedido de progressão de regime novamente apreciado pelo Juízo a quo.
+Consta dos autos que oJuízo da Vara das Execuções Criminais deferiu pedido de progressãoao regime aberto.Irresignado, o Ministério Público estadual interpôs agravo em execução, que foi provido pelo Tribunala quo.
+Aimpetrante argumenta, em suma, que a exigência do exame criminológico, para a concessão da progressão de regime, teve como base fundamentação inidônea, requerendo, liminarmente e no mérito, a progressão do paciente ao regime aberto.
+A liminar foi indeferida.
+Foram prestadas informações.
+O Ministério Público Federal opina pela concessão da ordem.
+O acórdão impuganadodeu provimento ao agravo em execução ministerial pelos seguintes fundamentos(fls. 15-17):
+O recurso deve ser conhecido porque tempestivo e, no mérito, merece ser parcialmente provido, a fim de cassar a r. decisão agravada, determinando que o ora Agravado seja submetido ao exame criminológico e, com a juntada do referido exame, seja o pedido de progressão de regime novamente apreciado pelo Juízo a quo.
+Com efeito, observe-se que os requisitos para a progressão de regime prisional estão claramente enunciados no artigo 112 da LEP: cumprimento do lapso temporal no regime anterior e bom comportamento carcerário.
+"In casu", o agravado preencheu o requisito objetivo, não havendo irresignação a esse respeito.
+Quanto ao requisito subjetivo, muito embora apresente bom comportamento durante a execução da pena, de acordo com o atestado de comportamento carcerário de fls. 119, consta dos autos que oagravado está cumprindo pena de 08 anos, 09 meses e 19 dias de reclusão pela prática do crime de roubo em concurso de agentes, com emprego de arma de fogo (fls. 102/123).
+Desta forma, tratando-se de uma situação excepcional, entendo que a hipótese justifica uma maior cautela.
+Convém ressaltar que, conforme entendimento jurisprudencial, somente existindo razões excepcionais que justifiquem uma maior cautela do Magistrado, deve ser determinada a realização do exame criminológico, que não mais é obrigatório, apenas facultativo.
+Com efeito, segundo esse entendimento, a alteração legislativa promovida pela Lei nº 10.792 de 2003 não proibiu a elaboração de exame criminológico, apenas deixou de exigi-lo como condição para a concessão do benefício, ressalvados os casos em que o juiz entenda necessário para a formação de seu livre convencimento por decisão fundamentada, a teor do que dispõe a Súmula 439 do STJ:
+"Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Nessas situações, não bastará o atestado de conduta carcerária para que seja concedido ao apenado o benefício, como se verifica no caso dos autos.
+(..)
+De fato, in casu, vislumbra-se a existência de uma situação excepcional e que exige maior cautela, como exposto.
+Anoto, portanto, que a realização do exame não está fundada exclusivamente na gravidade abstrata do delito praticado pelo sentenciado ou em razão da longa pena a cumprir, porque a lei não faz esses tipos de restrições, nem mesmo em relação aos crimes hediondos, mas sim na situação excepcional do caso concreto.
+Destarte, tendo em vista a excepcionalidade do caso concreto, a decisão ora guerreada deve ser reformada, para que seja realizado o exame criminológico e, assim, poder apurar, de forma segura, a presença do requisito de ordem subjetiva para a concessão da progressão de regime.
+Pelo exposto, dou parcial provimento ao agravo em execução, para cassar a r. decisão agravada, determinando que o ora agravado seja submetido ao exame criminológico e, com a juntada do referido exame, seja o pedido de progressão de regime novamente apreciado pelo Juízo a quo.
+Como se vê, o Tribunal de Justiça entendeu ser necessária a realização de exame criminológico para fins de progressão de regimeem razão da gravidade do delito praticado(roubo em concurso de agentes ecom emprego de arma de fogo) e da longa pena a cumprir, consignando que "consta dos autos que o agravado está cumprindo pena de 08 anos, 09 meses e 19 dias de reclusão pela prática do crime de roubo em concurso de agentes, com emprego de arma de fogo".
+Contudo, fatores relacionados aos crimes praticados, como a gravidade do delito e o tempo de pena a cumprir, são determinantes para a aplicação da pena, mas não justificam diferenciado tratamento para a progressão de regime ou livramento condicional, de modo que o indeferimento dos referidos benefícios somente poderá fundar-se em fatos ocorridos no curso da própria execução penal. Nesse sentido: HC 379.664/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/02/2017, DJe 02/03/2017 e HC 367.947/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/10/2016, DJe 4/11/2016.Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DETERMINAÇÃO DO EXAME CRIMINOLÓGICO PARA AFERIÇÃO DO MÉRITO DO SENTENCIADO. GRAVIDADE ABSTRATA DO DELITO E LONGEVIDADE DA PENA. FUNDAMENTAÇÃO INIDÔNEA. FUGA COMETIDA NO CUMPRIMENTO DE EXECUÇÃO ANTERIOR. IRRELEVÂNCIA. NÃO APRESENTAÇÃO DE ARGUMENTOS NOVOS PELO AGRAVANTE PARA INVALIDAR A DECISÃO AGRAVADA. MANUTENÇÃO POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Esta Corte Superior é firme no entendimento de que a longevidade da pena e a gravidade do delito não são aptos, por si só, a fundamentar a exigência de realização do exame criminológico ou a negativa de concessão de benefícios, porquanto o que se exige do reeducando é que demonstre seu mérito no curso da execução de sua pena.
+2. Consolidou-se neste Tribunal diretriz jurisprudencial no sentido de que faltas graves antigas, já reabilitadas pelo decurso do tempo, não justificam o indeferimento da progressão de regime prisional (HC n. 544.368/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2019).
+3. In casu, o agravante não apresentou argumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+4. Agravo regimental improvido.
+(AgInt no HC 554.750/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020)
+Ante o exposto, concedo ohabeas corpuspara cassar o acórdão do Tribunal de Justiça e restabelecer a decisão do Juízo da Execução Penal que deferiu a progressão do paciente aoregime aberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
