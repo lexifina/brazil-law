@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por DIVA DE CAMPOS MONTEIRO DA SILVA E OUTROS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu o recurso especial com amparo na Súmula 7/STJ.
+Impugnado especificamente odecisum, passo à análise do apelo nobre.
+O recurso especial foi interposto, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição da República, contra acórdão assim ementado:
+Apelação. Pretensão de recálculo (URV). Impossibilidade. Reestruturação da carreira dos apelantes. Prescrição quinquenal. Sentença de extinção da execução mantida. Recurso improvido.
+Os recorrentes questionam o reconhecimento da prescrição com o argumento de que, "sendo os valores devidos mês a mês, renova-se o direito à percepção de eventual aumento e, via de consequência, sem o pagamento renova-se a lesão de direito" (e-STJ, fl. 210).
+Aduzem que "de fato as Leis Complementares organizaram e reestruturaram o quadro de funcionários das secretarias inclusive no que se refere a salários e vencimentos, entretanto não houve qualquer reajuste pecuniário e tão pouco extinção das gratificações já percebidas pelo servidores e após instituídas novas gratificações" (e-STJ, fl. 210).
+Invocam, a propósito, o teor das Súmulas 85/STJ e 443/STF, acrescentando que o acórdão recorridodifere e confronta a atual e dominante jurisprudência dos Tribunais Superiores.
+Defendem, ademais, que a reestruturação de carreira não pode ser aventada neste momento processual, em observância à coisa julgada.
+Contrarrazões apresentadas (e-STJ, fls. 228-250).
+É o relatório.
+As teses não merecem conhecimento, porquantonão há, nas razões recursais, indicação dos artigos de leis federais supostamente contrariados pelo aresto impugnado ou objeto de interpretação controvertida. Tal falta compromete a fundamentação do recurso, atraindo o óbice da Súmula 284/STF.
+Registro que a indicação de normas de forma esparsa não supre essa deficiência.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.SERVIDORES ESTADUAIS. INDICAÇÃO ESPARSA DE DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. O Recurso Especial interposto pela alínea "a" do permissivo constitucional exige a demonstração inequívoca de ofensa a dispositivo infraconstitucional, bem como sua particularização, a fim de possibilitar seu exame em conjunto com o decidido nos autos.
+2. Ressalto que a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do Recurso Especial, não supre a exigência de fundamentação adequada do apelo especial.
+3. Dessa forma, ante a deficiência na fundamentação, o conhecimento do Recurso Especial encontra óbice, por analogia, na Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.".
+4. Ademais, ainda que superasse tal óbice, o recurso não prosperaria. Isso porque o Tribunal de origem decidiu a controvérsia relativa à coisa julgada com fundamento constitucional, especificamente com base no artigo 5º, XXXVI, e 60, § 4º, da Constituição Federal, de modo que o Recurso Especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao STF.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1.738.090/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/2/2021, DJe 1º/3/2021).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITOS DE ALTERAÇÃO DA PENA E DO REGIME. MATÉRIA APRECIADA NO HABEAS CORPUS Nº 405.010/SP. ORDEM DENEGADA. AGRAVO EM RECURSO ESPECIAL PREJUDICADO. EXISTÊNCIA DE PEDIDO DISTINTO. NÃO OCORRÊNCIA. TEMA DISPOSTO NO RECURSO ESPECIAL DE FORMA ESPARSA, ASSISTEMÁTICA E SEM INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO.FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AUSÊNCIA DE ILEGALIDADE NA DOSIMETRIA DA PENA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Em consulta aos assentos eletrônicos desta Corte Superior de Justiça, constata-se o julgamento do HC nº 405.010/SP, também de minha relatoria, publicado em 15.02.2018, impetrado em favor do ora recorrente, e com causa de pedir idêntica à posta no apelo nobre, onde se denegou a ordem. Assim, verifica-se ter se esvaído o objeto do agravo em recurso especial, diante da efetiva prestação jurisdicional por esta Corte quanto a matéria tratada no recurso especial.
+2.In casu, constata-se a inexistência de pedidos distintos dos tratados no HC nº 405.010/SP, mormente quanto o pleito de reconhecimento debis is idemnão consta dentre os requerimentos destacados à fl. 438 do recurso especial. Além disso, observa-se que a tese referente à ocorrência debis in idemestá disposta no apelo nobre de forma esparsa e assistemática, sem indicação do dispositivo legal violado. Súmula 284/STF.
+3. Diante da existência de duas condenações transitadas em julgado, é possível que uma seja utilizada para valorar negativamente os maus antecedentes e a outra seja utilizada para agravar a pena sem que isso configure bis in idem. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1.266.945/SP, Rel. Min. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/6/2018, DJe 2/8/2018).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/co art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
