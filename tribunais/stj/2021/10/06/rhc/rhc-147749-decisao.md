@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto porANDERSON FONTES VIEIRAcontra acórdão doTribunal Regional Federal da 1ª Região, proferido no julgamento do HC n. 1039991-97.2020.4.01.0000.
+Extrai-se dos autos que foi determinada a prisão preventiva do paciente nos autos daAção Cautelar Criminal n. 1002166-98.2020.4.01.3305, em que são investigados suposto esquema de desvio de recursos públicos, fraude à licitação e apropriação indébita previdenciária implementado por quadrilha no âmbito do Hospital Regional de Juazeiro/BA.
+Irresignada, a defesa impetrouhabeas corpusperante o Tribunal de origem,o qual, ratificou a decisão liminar, e concedeu parcialmente a ordempara confirmar a substituição da prisão preventiva por prisão domiciliar, cumulada commedidas cautelares, nos termos do acórdão que restou assim ementado:
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. CRIME DE DESVIO DE RECURSOS PÚBLICOS. OPERAÇÃO METÁSTASE. PEDIDO DE REVOGAÇÃO. PRISÃO DOMICILIAR. POSSIBILIDADE. RELAÇÃO DE CONFIANÇA. ACUSADO EM LIBERDADE. MEDIDAS CAUTELARES. ORDEM PARCIALMENTECONDEDIDA.
+1. Habeas Corpus em que se busca a liberação do paciente da prisão preventiva que lhe foi imposta por supostas infrações de desvios de recursos públicos.
+2. O acusado é apontado como pessoa de confiança do líder da empreitada criminosa.
+3. O quadro fático descrito aponta que as condutas criminosas investigadas são delitos sem violência ou grave ameaça à pessoa, sem carga lesiva apta a comprometer o meio social.
+4. O relator convocado, no curso do caderno processual, substituiu a prisão preventiva por prisão domiciliar cumulada com outras medidas cautelares.
+5. As medidas cautelares utilizadas são suficientes para a manutenção da ordem pública e aplicação da lei penal.
+6. Ordem de habeas corpus parcialmente concedida, decisão liminar ratificada" (fl. 212)
+No presente recurso, a defesa reitera o pedido formulado nowritoriginário, no sentido do reconhecimento da incompetência absoluta do Juízo da Vara Cível e Criminal da Subseção Judiciária de Juazeiro/BA, que decretou a prisão, em razão da existência de vara especializada para processar e julgar os crimes de lavagem de dinheiro e organização criminosa, no caso,a 2ªVara Federal da Seção Judiciária da Bahia. Sustenta que, não obstante o Tribunala quotenha entendido que ainda não"se pode aferir com exatidão se os crimes contra a administração pública foram praticados por organização criminosa ou configuram lavagem de dinheiro",o Juiz de Primeiro Grau afirmou a existência de"indícios da prática dos crimes de lavagem de dinheiro e de organização criminosa"o que é suficiente para o reconhecimento de sua incompetência.
+Por outro lado, sustenta a ausência dos requisitos necessários à manutenção da custódia.
+Pretende, em liminar, a revogação da prisão preventiva. No mérito, pugna pela declaração de incompetência da Vara Cível e Criminal da Subseção Federal de Juazeiro/BA e revogação definitiva da prisão. Alternativamente, pugna pela manutenção das medidas cautelares fixadas, revogando-se a prisão domiciliar, face à ausência de proporcionalidade e adequação.
+O pedido liminar foi indeferido às fls. 266/268, as informações foram prestadas às fls. 272/275 e 337/340.
+Apresentado pedido de reconsideração do indeferimento liminar, alegando que o recorrente faz jus à extensão dos benefícios concedidos aos corréus, o pleito foi por mim indeferido às fls. 345/346.
+O Ministério Público Federal manifestou-se pelodesprovimento do recurso ordinário.
+Às fls. 354/412, peticiona a defesainformando que recentemente foi julgado novomandamuspelo TRF/1ª Região (HC n. 1016146-02.2021.4.01.0000), impetrado em favor do ora recorrente. O Tribunal de origem concedeu parcialmente a ordem para substituir a prisão domiciliar do ora recorrente pela aplicaçãode medidas cautelares diversas do art. 319, do CPP, dentre elas, a monitoração eletrônica. Contra essa decisão, afirma que interpôs recurso ordinário queainda se encontra em processamento perante o Tribunal federal. Diz que o presente recurso não perdeu seu objeto, tendo em vista o pedido de extensão formulado, nos termos do art. 580 do CPP, é um tema que ainda não se encontra exaurido.
+É o relatório.
+Decido.
+De início ressalto que no tocante à insurgência da prisão do recorrente, de acordo com o noticiado pela própria defesa (fls. 354/412), verifica-se que, em 17/8/2021, o TRF/1ª Região, em julgamento de um novo habeas corpusimpetrado em favor do ora recorrente (HC n. 1016146-02.2021.4.01.0000), revogoua prisão domiciliar, mantendo a aplicação de algumas medidas cautelares, tendo sido o julgado, inclusive, objeto de novo recurso ordinário emhabeas corpus.
+Assim, diante do novo contexto fático, evidente a perda do objeto dopresente recurso emhabeas corpus, nesse tópico.
+Quanto à irresignação acerca da apontada incompetência doJuízo da Vara Cível e Criminal da Subseção Judiciária de Juazeiro/BA, verifica-se que o acórdão recorrido não conheceu do tema por entender que ensejaria dilação probatória,incompatível com a via estreita dohabeas corpus. Assim sendo, ficaesta Corte impedida de apreciar referida matéria sob pena de incidir em indesejada supressão de instância.
+Outrossim, a questão acerca da extensão dos benefícios concedidos aos corréus, sequer foi levada ajulgamento pelo Tribunal do origem, o que obsta a análise direta por esta Corte Superior de Justiça, sob pena de incorrer em supressão de instância.
+A propósito, confiram-se os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. INDÍCIO DE AUTORIA. SUPRESSÃO DE INSTÂNCIA. DILAÇÃO PROBATÓRIA. PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE MANIFESTA.IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O não enfrentamento de matéria pelas instâncias originárias impede sua análise pelo STJ, sob pena de supressão de instância.
+2. A análise da alegação de inexistência de indícios de autoria demanda dilação probatória, procedimento incompatível com a ação de habeas corpus.
+3. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art.319 do CPP.
+4. Eventuais condições subjetivas favoráveis do recorrente, por si sós, não obstam a prisão preventiva quando presentes os requisitos legais para sua decretação.
+5. Agravo regimental desprovido.
+(AgRg no RHC 136.214/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 06/08/2021)
+HABEAS CORPUS. ROUBO MAJORADO TENTADO, RECEPTAÇÃO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS.FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA.HABEAS CORPUS CONHECIDO EM PARTE. ORDEM DENEGADA.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 a 315 do CPP).
+2. O Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação suficiente para decretar a prisão preventiva, ao salientar, para resguardar a ordem pública, a real periculosidade do agente, evidenciada pela gravidade concreta dos crimes praticados, por meio de estrutura organizada de 16 agentes, oriundos de diferentes estados, com armas de grosso calibre e modus operandi especializado.
+ ..
+4. A questão atinente ao excesso de prazo para o término da instrução criminal não foi analisada pelo Tribunal de origem, circunstância que inviabiliza seu exame nesta oportunidade, por configurar supressão de instância.
+5. Habeas corpus conhecido em parte e, nessa extensão, denegada a ordem
+(HC 541.199/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA,DJe 17/03/2020).
+Ante o exposto, não conheço do presente recurso ordinário emhabeas corpus.
+Publique-se.
+Intimem-se.
