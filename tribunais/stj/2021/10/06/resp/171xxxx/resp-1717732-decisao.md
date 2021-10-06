@@ -1,0 +1,29 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. ANÁLISE IMPOSSIBILITADA. ACÓRDÃODE ORIGEM BASEADO EM FUNDAMENTOCONSTITUCIONAL.IMPOSSIBILIDADE DE APRECIAÇÃO DA CONTROVÉRSIA NA VIA ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de recurso especial interposto pelo INSS,com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 2ª Região, assim ementado:
+ADMINISTRATIVO E CONSTITUCIONAL - REINTEGRAÇÃO DE SERVIDOR - ART. 19 DO ADCT E ART. 39 DA CONSTITUIÇÃO FEDERAL - LEI Nº 8.112/90 - RECURSO PROVIDO.
+1- Cinge-se a controvérsia emsaber se o Apelante faz jus à estabilidade prevista no art. 19 do ADCT, na medida que teria ingressado no INSS em 07/02/83, vindo a ser demitido em 19/06/97, sem que houvesse justificativa ou processo administrativo.
+2- No caso, embora o Autor tenha sido admitido na condição de servidor celetista, verifica-se que sua situação jurídica enquadra-se no art. 19 do ADCT da Constituição Federal de 1988, tendo em vista que o vínculo empregatício foi reconhecido através de sentença trabalhista transitada em julgado.
+3- Ressalte-se que o art. 243 da Lei nº 8.112/90 instituiu o Regime Jurídico Único, em sua redação originária, ao regulamentar o art. 39 da Constituição Federal, e o art. 22 da mencionada lei estabeleceu , por seu turno, que o servidor estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou de processo administrativo disciplinar no qual lhe seja assegurada ampla defesa.
+4- A demissão do Apelante, estável no serviço público por orça do art. 19 do ADCT, só poderia ter sido efetuada mediante regular processo administrativo disciplinar, assegurando-lhe a ampla defesa, o que não ocorreu.
+5- Dessa forma, o Autor faz jus à reintegração no cargo anteriormente ocupado, com o ressarcimento de todas as vantagens, nos termos do art. 28 da Lei nº 8.112/90.
+6- Recurso provido. Sentença reformada para julgar o pedido procedente, determinando a reintegração do Apelante no cargo que detinha perante o INSS, com o ressarcimento de todas as vantagens legais(fl.512).
+2. Aosembargos declaratóriosopostos foi negado provimento (fls. 535/546).
+3. Nas razões do seurecurso especial (fls. 551/561), a parte recorrentesustentaviolação dos artigos 10 e112 daLei 8.112/90 e53 daLei9.784/99.Argumenta, para tanto queos atos administrativos são vinculados, não poderia a Administração reintegrar o autor sem a prévia aprovação em concurso público, conforme determina o artigo 37, 11 da CF e o artigo 10 da Lei 8112/90, de forma que plenamente acertada a decisão de afastamento do autor dos quadros da entidade, incidindo, in casu. o artigo 112, da Lei nº 8.112/90, artigo 53 da Lei nº 9.784/99 e a Súmula 473 do STF:
+A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial. (fl.560)
+4. Devidamente intimada, a parte recorridaapresentou as contrarrazões (fls. 582/589). O recurso especial foi admitido na origem (fls. 744).
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Nos termos do que decidido pelo plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+8.Consoante depreende-se do julgado, o acórdão impugnado possui, como fundamento, matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art.37 da Constituição da República.
+9. O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna. Nesse sentido, confiram-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. ISENÇÃO. ÁREA DESAPROPRIADA. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentemente constitucionais, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp 537.171/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014.
+REAJUSTE CONCEDIDO. VANTAGEM PECUNIÁRIA INDIVIDUAL. NATUREZA DIVERSA. CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A Corte local concluiu pela diversidade da natureza jurídica da VPNI, instituída pela Lei 10.698/2003 em relação à Revisão Geral Anual, prevista no art. 37, X, da CF/1988.
+2. Verifica-se que o acórdão recorrido contém fundamento exclusivamente constitucional, sendo defeso ao STJ o exame da pretensão deduzida no recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo Regimental não provido (AgRg no AREsp 467.850/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2014, DJe 22/04/2014.
+10. Diante desse cenário, considerando que a tese defendida pelo INSSenvolveu a aplicação dosarts. 37 da Constituição da República e19 do ADCT, o conhecimento da matéria implica, obrigatoriamente, o enfrentamento de matéria constitucional, inviável em sede de recurso especial.
+11. Ante o exposto, não se conhece do Recurso Especial doINSS.
+12 . Publique-se. Intimações necessárias.
