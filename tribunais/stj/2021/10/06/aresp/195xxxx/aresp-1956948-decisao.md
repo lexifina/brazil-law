@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por RODRIGO ALVES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por RODRIGO ALVES, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO PATRIMÔNIO CRIMINAL CRIME CAPUT CONTRA O ART 180 DO CÓDIGO PENAL FATO PREFACIAL REJEITADA EXISTÊNCIA DO COMPROVADOS AUTORIA E DOLO CONDENAÇÃO CONFIRMADA PREFACIAL DE NULIDADE REJEITADA MÉRITO RECURSAL DESPROVIDO
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega violação das Súmulas 269 e 440 do STJ, no que concerne à fixação de regime menos gravoso em razão da conclusão de que as circunstâncias judiciais previstas no art. 59 foram favoráveis ao recorrente, trazendo o(s) seguinte(s) argumento(s):
+"irresignado com o Acordáo que deixou de aplicar ao recorrente as Súmulas 269 e 440 do Superior tribunal de Justiça. Requer que depois de processado o presente recurso, desse vista a Procuradoria Geral de Justiça, e, após o devido juízo de admissibilidade, sejam os autos remetidos ao Superior Tribunal de Justiça, na conformidade das razões anexas.
+ ..
+Com efeito, o posicionamento adotado pelo Tribunal local divergiu da Súmula 440 do Superior Tribunal de Justiça, que admite a fixação do regime de pena menos gravoso quando favoráveis às circunstâncias judiciais (fls. 310/312).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, pela alínea a, não é cabível recurso especial fundado na ofensa a enunciado de súmula dos tribunais, inclusive em se tratando de súmulas vinculantes.
+Assim, incide o óbice da Súmula n. 518 do STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido: "A interposição de recurso especial não é cabível com fundamento em violação de súmula vinculante do STF, porque esse ato normativo não se enquadra no conceito de lei federal previsto no art. 105, III, "a" da CF/88". (REsp n. 1.806.438/DF, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/10/2020.)
+Nesse sentido: AgInt no AREsp 1.630.476/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/8/2020; AgInt no AREsp 1.630.025/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 14/8/2020; AREsp 1.655.146/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe 7/8/2020; AgRg no REsp 1.868.900/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe 3/6/2020; AgInt no REsp 1.743.359/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 30/3/2020; AgRg no AREsp n. 1.632.328/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 02/09/2020.
+Ademais, não foi comprovada a divergência jurisprudencial, uma vez que não cabe alegação de dissídio com súmula, ainda que vinculante, mas apenas com os julgados que lhe deram origem.
+Nesse sentido: "não é admissível a realização do cotejo analítico com súmula, mas apenas com os julgados que a originaram". (AgInt no REsp 1.681.656/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 27/6/2019.)
+Confiram-se ainda os seguintes precedentes: AgRg no REsp 1.293.337/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/11/2016; AgInt no AREsp 959.727/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 20/10/2016; e AgRg no AREsp 468.219/RS, relator Ministro Sidnei Beneti, Terceira Turma, DJe de 13/6/2014.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
