@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 21):
+Roubo triplamente circunstanciado Apelação Conjunto probatório suficiente para o reconhecimento do crime Absolvição Descabimento Penas motivadamente dosadas, porém com afastamento do concurso formal - Sentença reformada nesta extensão Recursos parcialmente providos.
+Consta dos autos que o paciente e outro corréu foram condenados como incursos no art. 157, § 2º, I, II e V (por duas vezes) c/c art. 70, todos do CP, às penas de 8 anos, 3 meses e 5 dias de reclusão, em regime inicial fechado, e pagamento de 19 dias-multa.
+Em sede de apelação, o Tribunal de Justiça reformou parcialmente a sentença para reduzir a pena para 7 anos e 1 mês, além de 17 dias-multa, mantido nos demais termos o édito condenatório.
+No presente writ, o impetrante requer seja fixado o regime semiaberto para início de cumprimento de pena, tendo em vista que a primariedade do paciente e as circunstâncias judiciais favoráveis.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Quanto ao regime prisional, o acórdão impugnado tem a seguinte fundamentação (fls. 30-31):
+O regime prisional fechado não comporta qualquer modificação, pois é o único que se coaduna à espécie, porque as circunstâncias concretas apresentam-se concretamente desfavoráveis (os réus abordaram trabalhadores, durante sua jornada, para praticarem roubo à carga, e conduziriam as vítimas, sob constante ameaça exercida com emprego de arma de fogo, para o interior de uma comunidade), conjuntura que evidencia reprovabilidade acentuada e patenteia a indispensabilidade de se impor a segregação social mais severa.
+Da leitura do acórdão, verifica-se que foi mantido o regime prisional mais gravoso - o fechado - em virtude da presença de fundamentos concretos, tendo em vista a gravidade concreta do delito, pois "os réus abordaram trabalhadores, durante sua jornada, para praticarem roubo à carga, e conduziriam as vítimas, sob constante ameaça exercida com emprego de arma de fogo, para o interior de uma comunidade".
+Verifica-se, desse modo, que para a fixação do regime fechado foi utilizada fundamentação baseada no caso concreto, porquanto valorada negativamente as circunstâncias do crime, mostrando-se idônea e suficiente para justificar o regime mais gravoso do que o quantum da pena aplicada permitiria, nos estritos termos do art. 33, §§ 2º e 3º, c/c o art. 59, ambos do Código Penal. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO QUALIFICADO. PENA INFERIOR A OITO ANOS. REGIME PRISIONAL FECHADO. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA.DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência desta Corte superior.2. A imposição do regime mais gravoso fundou-se nas circunstâncias do caso concreto, especificamente na prática do roubo dentro de um mercado, de ter o agente empreendido fuga em automóvel, bem como por haver atuação direta de um adolescente e uso de arma de fogo, motivos concretos que demonstram a maior reprovabilidade da conduta e se constituem fundamentos idôneos ao estabelecimento do modo mais severo, inexistindo ilegalidade a ser sanada.
+3. Agravo regimental improvido. (AgRg no HC 478.850/SP, por mim relatado, SEXTA TURMA, julgado em 21/03/2019, DJe 02/04/2019).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. REGIME INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA DO DELITO. TRÊS ROUBO EM INTERVALO DE TEMPO INFERIOR A UMA HORA MEDIANTE GRAVE AMEAÇA EXERCIDA COM EMPREGO DE ARMA EM COMPARSARIA COM ADOLESCENTE. WRIT NÃO CONHECIDO.
+ ..
+II - Sendo o paciente primário, fixada a pena-base no mínimo legal e considerada como favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal, o regime inicial semiaberto mostrar-se-ia mais adequado para o resgate da reprimenda, nos termos do art. 33, § 2º, b, do Código Penal.
+III - Por outro lado, a jurisprudência desta Corte Superior se firmou no sentido de que, havendo fundamentação concreta, e diante das circunstâncias do caso, é possível a fixação de regime inicial mais gravoso para o cumprimento da pena.
+IV - Na presente hipótese, o regime mais gravoso fundamentou-se nas circunstâncias do caso concreto, ou seja, três roubos praticados em um intervalo de tempo inferior a uma hora mediante grave ameaça exercida com o emprego de arma de fogo em conjunto com menor. Assim, ausente o alegado constrangimento ilegal.
+Habeas corpus não conhecido. (HC 478.484/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/12/2018, DJe 01/02/2019).
+Assim, não se verifica ilegalidade flagrante que justifique a concessão da ordem de habeas corpus.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
