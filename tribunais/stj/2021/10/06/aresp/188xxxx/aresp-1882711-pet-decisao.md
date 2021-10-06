@@ -1,0 +1,5 @@
+DECISÃO
+Na Petição 00829902/2021, de fls. 684/687,e-STJ, BUNGE FERTILIZANTES S/Arequer a manutenção da minha relatoria para ojulgamento deste recurso especial, uma vez que "a matéria objeto do presente recurso não é de direito público, mas sim de direito privado, pois é relativa à indenização pleiteada pelosAgravados em virtude de supostos danos causados em decorrência indireta do acidente com Navio Bahamas." (fls. 684/685, e-STJ).
+Confirmo o já analisado no sentido de que a ação de indenização discute matéria relativa a dano ambiental em razão de acidente ocorrido com o Navio Bahamas em agosto de 1998; ocasião em que foi bombeada ao mar a carga de ácido sulfúrico transportada no navio.
+Dessa forma, por cuidarde matéria de direito público, a apreciação do presente recurso foge à competência desta 2ª Seção, a teor do que dispõe o art. 9º, § 1º, IX, do RISTJ, determino o encaminhamento dos autospara a 1ª Seção do STJ.
+Forte nessas razões, com fundamento nos arts. 9º, §1º, XIV e 71 do RISTJ,determino o cumprimento da determinação de fl. 658, e-STJ,referente àredistribuição dos autos a uma das Turmas da 1ª Seção deste Tribunal.
