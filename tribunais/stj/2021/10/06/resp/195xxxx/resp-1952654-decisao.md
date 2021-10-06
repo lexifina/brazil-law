@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu provimento ao recurso da defesa.
+Aponta o Ministério Públicoviolação dos arts. 157, § 2º, II, e §2º-A, I, do CP, ao argumento de que prescindível a "apreensão e perícia da arma que venha a ser utilizada pelo agente na prática do crime de roubo para caracterizar a majorante do art. 157, § 2º, inciso I, do Código Penal" (fl. 213).
+Contrarrazoado e admitido, manifestou-se o Ministério Público pelo provimento do recurso especial.
+O recorrente foi condenado à pena de 8 anos,10 meses e 20 dias de reclusão, em regime fechado, e 21 dias-multa, como incurso no art. 157, § 2º,II, § 2º-A,I, do Código Penal. Interposto recurso de apelação, foi provido paraafastar a majorante do emprego de arma de fogo, totalizando a pena de 5 anos e 4 meses de reclusão e 13 dias-multa, no regime semiaberto.
+A causa de aumento do emprego de arma de fogo foi afastada pelos seguintes fundamentos(fl. 191):
+A configuração da causa de aumento prevista no § 2º, I do artigo 157 do CP depende de que a arma de fogo seja apreendida e periciada, de modo a determinar sua potencialidade lesiva, haja vista que não há, em princípio, quando a arma não chegou a ser disparada durante o crime, outro meio de definir o perigo real a que esteve sujeita a vítima, sendo imperioso que exista efetiva capacidade na potencialidade da arma de fogo empunhada pelo agente, o que só se pode aferir mediante perícia.
+Registrou o acórdão quea ausência de apreensão e perícia da arma de fogo impede a incidência da causa de aumento de pena do art. 157, §2º-A, I, do CP.
+A orientação adotada, contudo, diverge doentendimento desta Corte de que prescindível a apreensão e perícia da arma de fogo para a caracterização de causa de aumento de pena prevista no art. 157, § 2º, I, do CP, quando evidenciado o seu emprego por outros meios de prova. Nesse sentido AgRg no AREsp 1403414/PA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/06/2019, DJe 27/06/2019; AgRg no AREsp 1577702/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/08/2020, DJe 01/09/2020).
+Na hipótese, consoante consta da sentença, "a prática do crime ocorreu com prévio ajuste pelo acusado e por dois indivíduos ainda não identificados, diante, inclusive, das declarações da vítima acerca da dinâmica dos fatos, notadamente, do momento de sua abordagem, o ora acusado a abordando com uma arma de fogo e anunciando o assalto e a agredindo com a referida arma e os demais dando a cobertura necessária para o sucesso da ação delituosa" (fl. 121). Assim, deve ser restabelecida a causa de aumento de pena do emprego de arma de fogo.
+Ante o exposto, dou provimento ao recurso especial para restabelecer a sentença condenatória.
+Publique-se.
+Intimem-se.
