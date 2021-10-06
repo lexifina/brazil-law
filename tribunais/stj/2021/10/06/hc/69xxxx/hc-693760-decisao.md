@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor deCHARLES HENRIQUE DA SILVA, no qual se indica como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, prolator de acórdão assim ementado (e-STJ, fls. 13-18):
+"HABEAS CORPUS- HOMICÍDIO QUALIFICADO - NULIDADEDO RECONHECIMENTO PESSOAL - INOBSERVÂNCIA DOPROCEDIMENTO LEGAL - TRANCAMENTO DA AÇÃO PENAL -SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO - QUESTÃOATINENTE À REVISÃO CRIMINAL - INEXISTÊNCIA DE FLAGRANTEILEGALIDADE - NÃO CABIMENTO DO "WRIT"- CONDENAÇÃO MANTIDAPOR TURMA JULGADORA EM SEDE DE APELAÇÃO CRIMINAL -COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. A desconstituiçãoda coisa julgada é medida excepcional somente admitida em hipótesestaxativamente previstas no artigo 621 do Código de Processo Penal, nãosendo possível a apreciação, em sede de "habeas corpus", de matéria objetode revisão criminal, se ausente indícios de flagrante ilegalidade. Em setratando de suposto constrangimento ilegal proveniente de condenaçãomantida por Turma Julgadora do TJMG, o Tribunal de Justiça se tornaautoridade coatora, competindo ao Superior Tribunal de Justiça o julgamentode eventual "habeas corpus" que impugna o acórdão (art. 105, I, "c", CF)".
+Em suas razões, a parte impetrante alega que o reconhecimento pessoal feito no inquérito teria violado o art. 226 do CPP, eivando de nulidade a ação penal e a condenação subsequentes.
+Liminar indeferida à fl. 29 (e-STJ) e informações prestadas às fls. 33-41 e 42-60 (e-STJ).
+Ouvido, o MPF manifestou-se pela parcial concessão da ordem, apenas para determinar que o TJ/MG julgueo mérito da impetração (e-STJ, fls. 65-66).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 - pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Inicialmente, não pode ser examinada a matéria referente ao reconhecimento pessoal, porque o tema não foi apreciado pela Corte de origem.Assim, sua análise direta por este STJ configuraria supressão de instância, não admitida em nosso sistema processual. É assim que a jurisprudência deste Tribunal Superior tem se manifestado a respeito da questão, como mostram os seguintes precedentes:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA.PERICULOSIDADE DO AGENTE. QUANTIDADE DAS DROGAS APREENDIDAS.CIRCUNSTÂNCIAS DO CRIME. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA.CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. EXCESSO DE PRAZO NA CONSTRIÇÃO.SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+7. A questão do alegado excesso de prazo na constrição não foi submetida à análise do Tribunal de origem, não podendo ser diretamente examinada por esta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+8 . Habeas Corpus não conhecido".
+(HC 675.593/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/09/2021, DJe 20/09/2021)
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. CUSTÓDIA PREVENTIVA.PERICULUM LIBERTATIS. ARTS. 312 E 315 DO CPP. FUNDAMENTAÇÃO IDÔNEA.CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+ ..
+4. O pedido de prisão domiciliar devido ao risco de contaminação pela COVID-19 no ambiente prisional não foi apreciado pelo Tribunal a quo, o que impede a análise do tema por essa Corte, sob pena de indevida supressão de instância.
+5. Recurso em habeas corpus não provido".
+(RHC 141.414/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/08/2021, DJe 30/08/2021)
+E, ao contrário do que propôs o MPF, também não é possível ordenar que o Tribunal local se pronuncie sobre a tese ora apresentada pelo réu. Afinal, como destacou o TJ/MG, a defesa impetrou ohabeas corpuscontra acórdão condenatóriojá transitado em julgado daquela Corte, o que revela a existência de dois obstáculos intransponíveis ao conhecimento dowritmanejado na origem: (I) a incompetência do TJ/MG para julgarhabeas corpuscontra seus próprios atos, nos termos do art. 105, I, "c", da CR/1988; e (II) a inviabilidade de se utilizar a via mandamental como substituta da revisão criminal.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
