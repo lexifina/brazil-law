@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Icatu Holding S.A. e Conuma Engenharia S.A., em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 685):
+AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL PRECEDIDO DE RESCISÃO DE OUTRA PROMESSA FIRMADA COM TERCEIRO. ANTERIOR PROMISSÁRIO QUE É RÉU EM AÇÃO DE EXECUÇÃO DE ALIMENTOS. RECONHECIMENTO DE FRAUDE À EXECUÇÃO PELO JUÍZO DE FAMÍLIA, TORNANDO INEFICAZ O DISTRATO. DECADÊNCIA NÃO APLICADA AO CASO. RELAÇÃO OBRIGACIONAL DE NATUREZA PESSOAL. PRESCRIÇÃO DECENAL. SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 283/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, as agravantes alegam que a negativa de prestação jurisdicional não foi analisada devidamente, uma vez que não houve pronunciamento a respeito dos pontos suscitados nos aclaratórios, que levariam a um resultado divergente na demanda.
+Salientam, ademais, a inaplicabilidade da Súmula n. 83/STJ, tendo em vista que o presente caso se refere a vício de consentimento, cujo prazo decadencial é de 4 anos.
+Asseveram, outrossim, a ocorrência de prequestionamento de toda a matéria colocada em debate, inclusive com menção expressa dos artigos tidos por violados.
+Requerem, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação apresentada (e-STJ, fls. 715-719).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL PRECEDIDO DE RESCISÃO DE OUTRA PROMESSA FIRMADA COM TERCEIRO. ANTERIOR PROMISSÁRIO QUE É RÉU EM AÇÃO DE EXECUÇÃO DE ALIMENTOS. RECONHECIMENTO DE FRAUDE À EXECUÇÃO PELO JUÍZO DE FAMÍLIA, TORNANDO INEFICAZ O DISTRATO. DECADÊNCIA NÃO APLICADA AO CASO. RELAÇÃO OBRIGACIONAL DE NATUREZA PESSOAL. PRESCRIÇÃO DECENAL. SÚMULA N. 83/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido de forma contrária à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2. De acordo com o entendimento do Superior Tribunal de Justiça, nas ações de natureza pessoal se aplica, na vigência do CC/1916, a prescrição vintenária prevista no art. 177, ou, na vigência do CC/2002, a prescrição decenal.
+3. O prequestionam ento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Dessa forma, há a necessidade de a causa ser decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto.
+3.1. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+4. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. OBRIGAÇÃO DE PAGAR. DOTAÇÃO ORÇAMENTÁRIA. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AUSÊNCIA DE INTERESSE DE AGIR. RECONHECIMENTO ADMINISTRATIVO DA DÍVIDA SEM PAGAMENTO. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Verifica-se não ter ocorrido ofensa ao artigo 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+ ..
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. (AREsp 1.654.562/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/6/2020, DJe 25/6/2020)
+Outrossim, verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião das partes agravantes, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses das partes, como ocorreu na espécie.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia.
+Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Lado outro, o Tribunal de origem assim se manifestou (e-STJ, fl. 509):
+Ab initio, afasto a prejudicial de decadência suscitada pelas rés pois, conforme se depreende da petição inicial, a pretensão do autor não se refere apenas a vício de consentimento, mas a um somatório de pedidos (declaratório, de rescisão contratual e indenizatórios) que levam à conclusão de tratar-se de ação pessoal cujo prazo prescricional é de dez anos, na forma do art. 205, do Código Civil.
+Efetivamente, correto o acórdão a quo ao afastar a sua aplicação e adotar a regra geral de prescrição de 10 (dez) anos, ao caso, pois a hipótese em apreço não se refere a vício de consentimento, consubstanciando-se, na verdade, em rescisão do contrato, de natureza pessoal. Incidência, no ponto, da Súmula 83/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação de prestação de contas (segunda fase).
+2. O rito especial da ação de prestação de contas não comporta a pretensão de alterar ou revisar cláusula contratual, em razão das limitações ao contraditório e à ampla defesa. Tema repetitivo 908.
+3. A cobrança da capitalização anual de juros nos contratos bancários depende de previsão contratual expressa. Súmula 568/STJ.
+4. Alterar o decidido no acórdão impugnado, no que se refere à ausência de previsão contratual expressa em relação à capitalização de juros em periodicidade anual, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+5. A ação de prestação de contas tem por base obrigação de natureza pessoal, a ela se aplicando, na vigência do CC/16 a prescrição vintenária prevista no art. 177 ou na vigência do CC/02 a prescrição decenal. Súmula 568/STJ.
+6. Agravo interno não provido.
+(AgInt no REsp 1809429/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020)
+Por fim, no que tange à contrariedade ao art. 458 do Código Civil de 2002, observa-se que seu conteúdo normativo não foi objeto de apreciação pelo Colegiado local. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada, o que atrai a incidência da Súmula n. 211/STJ.
+Cumpre destacar que o Tribunal de origem apenas se limitou a afirmar que o referido dispositivo não se aplicava ao caso, por se tratar de hipóteses distintas, conforme se observa do seguinte trecho do aresto impugnado (e-STJ, fl. 516):
+Não se aplica, ainda, à hipótese a regra do art. 458, CC, como defendido pelas primeiras apelantes, pois o compromisso de compra e venda firmado não tratou de fatos ou coisas futuras.
+Ressalta-se, por fim, que o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo -se como um dos principais pressupostos ao conhecimento do recurso especial. Sendo que há a sua ocorrência quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
