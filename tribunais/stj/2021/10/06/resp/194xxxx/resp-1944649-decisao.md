@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por GUSTAVO SALAZAR MOLINA, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO que deu provimento ao recurso em sentido estrito doParquet, para restaurar a prisão preventiva (e-STJ, fls. 126-132).
+Em suas razões recursais, a parte recorrente aponta violação doart. 312, § 2º, do CPP. Aduz para tanto, em síntese, que jamais houve fuga de sua parte, tendo o TRF incorrido em erro ao fazer tal afirmativa. Defende que a restauração da prisão preventiva teria levado em conta apenas sua condição de estrangeiro, ignorando os princípios da isonomia e da presunção de inocência, bem comoo regular cumprimento das medidas cautelares impostas em primeira instância.
+Com contrarrazões (e-STJ, fls. 170-180), o recurso especial foi admitido na origem (e-STJ, fl. 181).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso (e-STJ, fls. 315-320).
+É o relatório.
+Decido.
+Como se depreende do acórdão recorrido, o TRF decretou a custódia cautelar do recorrente por entender que, uma vez beneficiado com a liberdade provisória no ano de 2011,o réu evadiu-se do distrito da culpa, reaparecendo somente após quase 10 anos. É o que diz o seguinte trecho do aresto:
+"Preso ainda na fase de investigação, o recorrido Gustavo Salazar Molina foi beneficiadocom a concessão de liberdade provisória, em janeiro de 2011, o que não o impediu de se ocultar, evitando, assim, aaplicação da lei penal, por quase uma década, até a recente prisão de ser irmão, efetivada na Venezuela, em 24 dejaneiro de 2020.
+Ora, é clara a falta de compromisso do recorrido com a jurisdição brasileira, tendo em vistaa inobservância das obrigações decorrentes da liberdade provisória e ocultação por quase uma década, restandoevidenciada a inadequação e insuficiência das medidas cautelares previstas no art. 319 do Código de ProcessoPenal para assegurar a aplicação da lei penal" (e-STJ, fl. 128).
+Com efeito, a jurisprudência desta Corte Superior entende que a prévia fuga do acusado é, sim, razão idônea para manter a prisão preventiva, do que fazem exemplo os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. FUGA DO RÉU DO DISTRITO DA CULPA. RISCO DE REITERAÇÃO. EXCESSO DE PRAZO. FEITO COMPLEXO.REGULAR ANDAMENTO DO FEITO.
+1. Reveste-se de legalidade a prisão cautelar quando baseada em elementos concretos, nos termos do art. 312 do CPP, consubstanciados na fuga do paciente do distrito da culpa, como forma de assegurar a aplicação da lei penal e para evitar a reiteração delitiva.
+2. O agravante foi segregado cautelarmente em junho/2020. Em 27/8/2020, o juízo deferiu medida cautelar de monitoramento eletrônico, requerida pela Administração do Presídio Estadual de Encantado - RS, ocasião em que o agravante empreendeu fuga enquanto escoltado para tratamento médico, passando à condição de foragido.
+Em 31/8/2020, foi determinada a expedição do mandado de prisão.
+Houve a citação por edital em 11/9/2020 e, somente em 16/11/2020, veio a ser recapturado.
+3. Agravo regimental improvido".
+(AgRg no HC 668.945/RS, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 14/09/2021, DJe 17/09/2021)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO.INADEQUAÇÃO DA VIA ELEITA. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA.AGRAVANTE QUE PERMANECEU FORAGIDO POR MAIS DE 2 ANOS. CAPTURA EM OUTRO ESTADO DA FEDERAÇÃO. NECESSIDADE DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. PRISÃO DOMICILIAR. COVID-19. SUPRESSÃO DE INSTÂNCIA.AGRAVO DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art.
+5º, LXI, LXV, LXVI e art. 93, IX, da CF). Exige-se, ainda, na linha inicialmente perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal e agora normatizada a partir da edição da Lei n. 13.964/2019, que a decisão esteja pautada em motivação concreta de fatos novos ou contemporâneos, bem como demonstrado o lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato e revelem a imprescindibilidade da medida, vedadas considerações genéricas e vazias sobre a gravidade do crime.
+3. No caso, o paciente evadiu-se do distrito da culpa, ensejando o desmembramento do processo, bem como a suspensão processual nos termos do art. 366 do Código de Processo Penal. Somente foi capturado após mais de 2 anos, em outro Estado da Federação.
+Assiste, portanto, razão ao Tribunal a quo, que, ao restabelecer a custódia, considerou que a concessão da liberdade foi prematura, eis que temerária a hipótese que novamente tome rumos não sabidos, ensejando novamente o decurso de anos até sua localização.
+ ..
+5. Agravo desprovido".
+(AgRg no HC 679.879/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/09/2021, DJe 20/09/2021)
+Embora afirme que tal fuga jamais ocorreu,a defesa não indica qualquer elemento dos autos capaz de subsidiar sua assertiva. Tampouco opôs embargos de declaração em face do acórdão recorrido, para provocar uma manifestação do TRF sobre o tema e, com isso, permitir a elucidação de eventual erro material. No atual estado do processo, a tese recursal contraria expressamente a narrativa fática do aresto impugnado, inexistindo nestes autos algum elemento que permita verificar, de plano, que o Tribunal local estava equivocado ao narrar a fuga do recorrente.
+Assim, a inversão do julgado, no ponto, demandaria o aprofundado reexame do conjunto fático-probatório da causa, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ,não conheço do recurso especial.
+Publique-se. Intimem-se.
