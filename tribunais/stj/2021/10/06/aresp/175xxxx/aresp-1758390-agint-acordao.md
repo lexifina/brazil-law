@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por SINDICATO DOS TRABALHADORES DO MUNICÍPIIO DE GOIÂNIAcontra decisão da Presidência desta Corte,assim redigida(e-STJ, fls. 386-388):
+Cuida-se de agravo apresentado por SINDICATO DOS TRABALHADORES DO MUNICÍPIO DE GOIÂNIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE QUANTIAS PAGAS E ANTECIPAÇÃO DE TUTELA. PRÊMIO VIDA . ENCERRAMENTO POR CONSTITUIÇÃO E FUNCIONAMENTO IRREGULAR . TERMO DE COMPROMISSO, RESPONSABILIDADE E AJUSTE DE CONDUTA. DIREITO AO DESLIGAMENTO E DE DEVOLUÇÃO DO MONTANTE ADIMPLIDO.
+1. Diante do Termo de Compromisso, Responsabilidade e Ajuste de Conduta firmado entre representantes do Parquet estadual e o SINDIGOIÂNIA, no qual ficou expressamente avençado o encerramento do benefício denominado PRÊMIO VIDA, em decorrência de irregularidades na sua constituição e administração e assegurou-se aos sindicalizados o direito de desistência e recebimento das importâncias quitadas, imperiosa a manutenção da sentença atacada que julgou procedente o pedido e determinou a devolução dos valores pagos às autoras/apeladas.
+RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia apresentada, pela alínea "a" do permissivo constitucional, alega violação do art. 373, I e II, do CPC, no que concerne à distribuição do ônus da prova, trazendo o(s) seguinte(s) argumento(s):
+No caso em comento, embora a Recorrida afirme que foi requerida ao Recorrente a restituição dos valores prestados a título de adesão ao PRÊMIO VIDA, em nenhum momento comprovou o alegado.
+Ora, de acordo com aquilo que foi tomado no Termo de Ajustamento de Conduta, a iniciativa do sindicalizado é requisito essencial para a materialização do direito à restituição.
+Somente a partir da regular solicitação é que o aderido se habilita à inclusão na lista de credores.
+Por conseguinte, resta configurada a violação ao artigo 373, I, II, do Código de Processo Civil, já que a parte Recorrida deveria comprovar que realizou o requerimento administrativo, contido, em nenhum momento praticou esse ato. Veja que, o requerimento administrativo, em decorrência da deliberação da assembleia geral soberana -, atribui ao pedido administrativo a condição de procedibilidade para ter o acesso ao benefício.
+Em outras palavras, a aposentadoria, por si só, não é ato suficiente para o recebimento do benefício, posto que deve a parte interessada realizar o requerimento, e somente a partir desse momento passa a ter o direito ao recebimento do benefício. (fl. 345).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Do compulso dos autos, verifica-se que as autoras alegaram, na inicial, que, na qualidade de servidoras municipais, foram automaticamente inscritas no denominado Prêmio Vida, criado no ano de 2002, cujo projeto estabeleceu condições para a participação, contribuição e recebimento do respectivo prêmio, por ocasião da aposentadoria,  .. . Assim, inobstante a aprovação do referido projeto pela Assembleia Geral Extraordinária dos associados ao SINDIGOIÂNIA, os pagamentos aos beneficiados não foram efetuados em conformidade com o estatuto, gerando uma grande fila de espera. Demais disso, em virtude da inexistência de autorização legal dos órgãos responsáveis para o funcionamento do Prêmio Vida, surgiram uma série de denúncias direcionadas ao Centro de Apoio Operacional do Consumidor, Usuários de Serviços Públicos, Falimentar, Questões Agrárias e Terceiro Setor do Ministério Público do Estado de Goiás. .. .
+Outrossim, diante do Termo de Compromisso, Responsabilidade e Ajuste de Conduta, no qual ficou expressamente avençado o encerramento do benefício em testilha em decorrência de irregularidades na sua administração, assegurou-se aos sindicalizados o direito de desistência e recebimento das importâncias quitadas. Por esse motivo, imperiosa a manutenção da sentença atacada que julgou procedente o pedido e determinou a devolução dos valores pagos às autoras/apeladas.
+Isso porque, como não se pode olvidar, cuida-se o Termo de Compromisso, Responsabilidade e Ajuste de Conduta de típico meio de solução extrajudicial de conflitos, por meio do qual o agente causador do dano (compromitente) se dispõe, perante o órgão público legitimado (compromissário), a ajustar sua conduta de modo a sujeitá-la às exigências legais (fls. 296/299).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, incide também o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg nos EREsp 1138634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; e AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Afirma oagravante que não incideaSúmula284/STF e nem a Súmula 211/STJ.
+Não foram apresentadas contrarrazões (e-STJ, fl. 427 e fl. 428).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS DO QUE FOI DECIDIDO NO ACÓRDÃO OBJETO DO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA211/STJ.
+1. Se as razões do recurso especial suscitam questão federal dissociada do que foi realmente decidido no acórdão do tribunal de origem, a deficiência recursal é flagrante, atraindo o veto da Súmula 284/STF.
+2. Questão federal que não foi decidida no julgado combatidocarece do necessário prequestionamento. Incidência da Súmula 211/STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não merece acolhida.
+De fato, é entendimento pacífico desta corte que, estando as razões do especial dissociadas do que decidido no acórdão recorrido, há deficiência recursal, apta a atrair o veto da Súmula 284/STF.
+Confiram-se as seguintes ementas, a título exemplificativo e guardadas as devidas particularidades:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS AUTORES.
+1. A revisão do valor dos danos morais encontra óbice na Sumula 7 do STJ, pois imprescindível a incursão na seara fático-probatória dos autos.
+2. Relativamente à arguição de que os danos morais do ascendente não excluem os parentes colaterais, a ausência de indicação dos dispositivos de lei federal violados, ou em torno dos quais haveria divergência jurisprudencial, caracteriza deficiência na fundamentação do recurso , a atrair o óbice da Súmula 284 do STF.
+3. Quanto à legitimidade ativa dos sobrinhos da vítima para pleitear indenização por danos morais em razão de sua morte, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp 1915569/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. VERBA QUE NÃO INCIDE SOBRE PRESTAÇÕES VINCENDAS APÓS A DECISÃO CONCESSIVA DO BENEFÍCIO.FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ACÓRDÃO EM HARMONIA COM A ORIENTAÇÃO DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DO PARTICULAR NÃO PROVIDO.
+1. Com efeito, este egrégio Superior Tribunal de Justiça já se manifestou no sentido de que é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido, incidindo, por analogia, o Enunciado Sumular 284/STF.
+2. Ademais, o entendimento veiculado no acórdão recorrido está alinhado à orientação desta egrégia Corte Superior sobre o tema, segundo a qual a verba honorária deve ser fixada sobre as parcelas vencidas até a prolação da decisão concessiva do benefício, em consonância com o disposto na Súmula 111/STJ, que não foi revogada pelas disposições do CPC/2015.
+3. Agravo interno do particular não provido.
+(AgInt no AREsp 1780291/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 23/08/2021, DJe 27/08/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANO MORAL.PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO.PRECEDENTES. DISPOSITIVOS DE LEI FEDERAL INSUFICIENTES PARA SUSTENTAR A TESE DEFENDIDA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. DANO MORAL. NÃO CONFIGURAÇÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+3. A jurisprudência desta Corte é firme no sentido de que, quando a parte apresenta razões dissociadas do que foi decidido pela Corte local, incide a Súmula nº 284 do STF, ante a impossibilidade de compreensão da controvérsia.
+4. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+5 . Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1792032/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+De outra parte, também não há como fugir da Súmula 211/STJ, pois a matéria referente ao art. 373, I e II, do CPC não foi decidida no acórdão objeto do especial, padecendo a súplica do necessário prequestionamento.
+É o entendimento pacífico do STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.EMBARGOS DE TERCEIROS. PROTEÇÃO DA MEAÇÃO. OMISSÃO NÃO CARACTERIZADA. PREQUESTIONAMENTO. INEXISTÊNCIA. BEM DE FAMÍLIA.RESIDÊNCIA DA FAMÍLIA NÃO CARACTERIZADA. REEXAME DE FATOS E PROVAS.AGRAVO INTERNO NÃO PROVIDO.
+1. Não se verifica violação ao artigo 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. No tocante à alegada ofensa ao art. 832, § 2º, do Código de Processo Civil de 2015, tem-se que os conteúdos normativos desses dispositivos legais não foram examinados pelo eg. Tribunal a quo, ficando inviabilizado o conhecimento de tema ante a ausência de prequestionamento (Súmula 211 do STJ).
+3. Na hipótese, o Tribunal a quo, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela ausência de demonstração da condição de bem de família. Pretensão de alterar esse entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória.
+4. Agravo interno não provido.
+(AgInt no AREsp 1135831/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/06/2021, DJe 04/08/2021)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ARTS. 502, 506, 507, 508, 884, PARÁGRAFO ÚNICO, E 901, § 1º, TODOS DO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO. IPTU. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DO ACÓRDÃO RECORRIDO. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. RECURSO IMPROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de debate ou deliberação pelo Tribunal fluminense acerca da alegada coisa julgada e a comissão do leiloeiro impede o conhecimento do apelo nobre ante os óbices das Súmulas nºs 211 do STJ e 282 do STF.
+3. O desconto no valor depositado, correspondente a cota parte do IPTU, de responsabilidade do coproprietário obedece ao capítulo da sentença, transitada em julgado, razão pela qual não há que se falar em julgamento extra petita.
+4. Do cotejo entre o acórdão recorrido e as razões do recurso especial, verifica-se que não houve a necessária impugnação do fundamento adotado pelo Tribunal, atraindo a incidência da Súmula nº 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1637343/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+Ante o exposto, nego provimento aoagravo interno.
+É como voto.
