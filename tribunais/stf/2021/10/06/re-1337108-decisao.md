@@ -1,0 +1,59 @@
+DECISÃO
+
+    Vistos.
+
+    Instituto Nacional do Seguro Social - INSS interpõe recurso extraordinário contra acórdão proferido pela Sexta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+
+“PREVIDENCIÁRIO. PROCESSUAL CIVIL. CUMPRIMENTO. IMPUGNAÇÃO. REQUISIÇÃO COM STATUS BLOQUEADO. 1. É possível a expedição de requisitório com status bloqueado antes do trânsito em julgado da impugnação ao cumprimento de sentença.
+
+2. O art. 535 do CPC não prevê a suspensão automática ou necessária do cumprimento da sentença pela apresentação de impugnação pela Fazenda Pública.
+
+3. À luz dos princípios da celeridade processual e duração razoável do processo, é de medida que evita desnecessária perda do prazo final para a transmissão dos precatórios, não acarretando dano irreparável ao INSS.
+
+4. O valor requisitado apenas será liberado após a finalização definitiva da fase de cumprimento de sentença, seja pela preclusão da decisão que julgar a impugnação, seja pelo escoamento de prazos; se reconhecida a existência de excesso nos valores requisitados - ou mesmo na hipótese de nada ser devido - o montante remanescente será devolvido ao Tribunal, não havendo qualquer liberação de quantia que não seja efetivamente devida.”
+
+    Sustenta o recorrente violação dos artigos 5º, inciso XXXV, e 100, §§ 1º, 5º e 8º, da Constituição Federal. Pleiteia o provimento do recurso extraordinário para que seja reconhecida a impossibilidade de expedição de precatório sem o trânsito em julgado da fase de cumprimento de sentença.
+
+    Decido.
+
+    Merece prosperar a irresignação uma vez que o Plenário do Supremo Tribunal Federal, no julgamento do RE nº 573.872/RS, de relatoria do Ministro Edson Fachin, julgado sob a sistemática da repercussão geral (Tema 45), onde se discutia a possibilidade de execução provisória de obrigação de fazer contra a Fazenda Pública, reafirmou o entendimento no sentido da impossibilidade de execução provisória de prestação de pagar quantia certa contra a Fazenda Pública após o advento da Emenda Constitucional 30/2000. Esse julgado restou assim ementado:
+
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO CONSTITUCIONAL FINANCEIRO. SISTEMÁTICA DOS PRECATÓRIOS (ART. 100, CF/88). EXECUÇÃO PROVISÓRIA DE DÉBITOS DA FAZENDA PÚBLICA. OBRIGAÇÃO DE FAZER. SENTENÇA COM TRÂNSITO EM JULGADO. EMENDA CONSTITUCIONAL 30/2000.
+
+    1. Fixação da seguinte tese ao Tema 45 da sistemática da repercussão geral: “A execução provisória de obrigação de fazer em face da Fazenda Pública não atrai o regime constitucional dos precatórios.”
+
+    2. A jurisprudência do STF firmou-se no sentido da inaplicabilidade ao Poder Público do regime jurídico da execução provisória de prestação de pagar quantia certa, após o advento da Emenda Constitucional 30/2000. Precedentes.
+
+    3. A sistemática constitucional dos precatórios não se aplica às obrigações de fato positivo ou negativo, dado a excepcionalidade do regime de pagamento de débitos pela Fazenda Pública, cuja interpretação deve ser restrita. Por consequência, a situação rege-se pela regra regal de que toda decisão não autossuficiente pode ser cumprida de maneira imediata, na pendência de recursos não recebidos com efeito suspensivo.
+
+    4. Não se encontra parâmetro constitucional ou legal que obste a pretensão de execução provisória de sentença condenatória de obrigação de fazer relativa à implantação de pensão de militar, antes do trânsito em julgado dos embargos do devedor opostos pela Fazenda Pública.
+
+    5. Há compatibilidade material entre o regime de cumprimento integral de decisão provisória e a sistemática dos precatórios, haja vista que este apenas se refere às obrigações de pagar quantia certa.
+
+    6. Recurso extraordinário a que se nega provimento” (DJe de 11/09/2017).
+
+    Aplicando essa orientação, anotem-se os seguintes julgados de ambas as Turmas da Suprema Corte:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO PROVISÓRIA CONTRA A FAZENDA PÚBLICA. IMPOSSIBILIDADE. AGRAVO A QUE SE NEGA PROVIMENTO. I – Consoante a jurisprudência do Supremo Tribunal Federal, não se admite a execução provisória de prestação de pagar quantia certa contra a Fazenda Pública. II - Agravo regimental a que se nega provimento” (ARE nº 1.154.961/SP-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1º/10/2019 - grifei).
+
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. OFENSA CONSTITUCIONAL REFLEXA. TEMAS 660 E 45 DA REPERCUSSÃO GERAL. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STF.
+
+    (...)
+
+    3. O Plenário desta CORTE, no RE 573.872-RG (Rel. Min. EDSON FACHIN, Tema 45, DJe de 11/9/2017), decidiu que, após o advento da Emenda Constitucional 30/2000, é inaplicável ao Poder Público o regime jurídico da execução provisória de prestação de pagar quantia certa. 4. O acórdão recorrido encontra-se em desconformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 5. Embargos de Declaração recebidos como Agravo Interno, ao qual se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)” (ARE nº 1.290.080/SP-ED, Primeira Turma, Relator o Ministro Alexandre de Moraes, DJe de 09/12/2020 - grifei).
+
+    “EXECUÇÃO PROVISÓRIA – FAZENDA PÚBLICA – OBRIGAÇÃO DE DAR – INVIABILIDADE – PRECEDENTE. Execução de pagar quantia certa pressupõe a preclusão maior relativamente ao decidido contra a Fazenda Pública. Precedente: recurso extraordinário nº 573.872-8, relator ministro Edson Fachin, julgado sob o ângulo da repercussão geral, acórdão publicado no Diário da Justiça de 11 de setembro de 2017” (AI nº 453.444/RJ-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 12/6/18).
+
+    Nessa conformidade, verifica-se que o acórdão recorrido divergiu do entendimento deste Supremo Tribunal Federal acerca da matéria em questão.
+
+    Ante o exposto, nos termos do artigo 932, inciso V, do Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015), dou provimento ao recurso para assentar a necessidade do trânsito em julgado da decisão para a expedição de precatório nas ações de obrigação de pagar contra a Fazenda Pública.
+
+    Publique-se.
+
+    Brasília, 6 de outubro de 2021.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
