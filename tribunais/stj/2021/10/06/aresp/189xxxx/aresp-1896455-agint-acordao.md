@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto porPRUDENTIAL DO BRASIL VIDA EM GRUPO S.A. - SUCESSORA DE ITAU SEGUROS S.A.,contra decisão que não conheceu do agravo em recurso especial.
+Ação: indenização securitária ajuizada por LORENA VIEIRA GENTZ em face de ITAÚ SEGUROS S.A. Paralelamente, K L e B L manejaram intervenção de terceiro pretendendo que metade do valor segurado fosse reservado às herdeiras do segurado.
+Sentença: julgou parcialmente procedente a (i) ação para condenar a ré ao pagamento de 196.546,87 em favor da parte autora, bem como acolheu em parte a (i) oposição para condenar a seguradora ao pagamento de R$ 98.273,43, a título de indenização securitária, em favor de cadaopoente.
+Acórdão: negou provimento ao recurso de apelação interposto pela ré e deu provimento ao apelo da autora para condenar a seguradora ao pagamento do valor total de R$ 789.187,50 em favor da autora, julgando prejudicado o recurso adesivo das opoentes. Eis aementa do julgado (e-STJ, fls. 904/905):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. OPOSIÇÃO OFERTADA POR HERDEIRAS DO SEGURADO, QUE PRETENDEM O RECEBIMENTO DA QUOTA DA INDENIZAÇÃO SECURITÁRIA QUE CABERIA AO BENEFICIÁRIO PRÉ-MORTO. SEGURO DE VIDA EM GRUPO. INDENIZAÇÃO POR MORTE. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DAS PARTES.
+ADMISSIBILIDADE RECURSAL. RECURSO ADESIVO INTERPOSTO PELAS OPOENTES. INOVAÇÃO RECURSAL QUANTO A VIGÊNCIA DO CONTRATO DE SEGURO. TESE NÃO APRESENTADA NA INICIAL DA OPOSIÇÃO. RECURSO NÃO CONHECIDO NO PONTO.
+DEVER DE INDENIZAR. ALEGAÇÃO DA SEGURADORA DE INEXISTÊNCIA DE COBERTURA PARA O SINISTRO. AGRAVAMENTO DE RISCO. EMBRIAGUEZ DO SEGURADO. INSUBSISTÊNCIA. SEGURO DE VIDA.COBERTURA AMPLA. APLICAÇÃO DA SUMULA 620 DO SUPERIOR TRIBUNAL DE JUSTIÇA. EXCLUSÃO VEDADA.DEVER DE INDENIZAR MANTIDO.
+TITULARIDADE DO SEGURO. AUTORA DA DEMANDA PRINCIPAL QUE, DIANTE DO FALECIMENTO DE GERCI JENTZ, PASSA A SER A ÚNICA BENEFICIÁRIA DO SEGURO. INCIDÊNCIA DA REGRA DISPOSTA NO ARTIGO 794, CAPUT, DO CÓDIGO CIVIL. INDENIZAÇÃO SECURITÁRIA QUE NÃO SE SUJEITA A APLICAÇÃO DO ARTIGO 792 DO CCB, QUANDO HOUVER INDICAÇÃO EXPRESSA DOS BENEFICIÁRIOS. ENTENDIMENTO JURISPRUDENCIAL DE QUE NA HIPÓTESE DE BENEFICIÁRIO PRÉ-MORTO AO SINISTRO, O SEGURO DEVERÁ RECAIR INTEGRALMENTE EM FAVOR DOS BENEFICIÁRIOS QUE PERSISTIREM INDICADOS NO CONTRATO. IMPOSSIBILIDADE DE APLICAÇÃO DA REGRA SUBSIDIÁRIA DO ART. 792 DO CÓDIGO CIVIL.INTERPRETAÇÃO SISTEMÁTICA DA LEGISLAÇÃO CIVILISTA. SENTENÇA REFORMADA PARA RECONHECER A AUTORA COMO ÚNICA BENEFICIÁRIA DO SEGURO E JULGAR IMPROCEDENTE A OPOSIÇÃOAPENSA AOS AUTOS.
+INDENIZAÇÃO SECURITÁRIA. PRETENSO RECEBIMENTO DO CAPITAL SEGURADO RELATIVO À COBERTURA BÁSICA POR MORTE ALÉM DA INDENIZAÇÃO POR MORTE ACIDENTAL ARBITRADA NA SENTENÇA. ACOLHIMENTO. CLÁUSULA DISPOSTA NAS CONDIÇÕES GERAIS DA CONTRATAÇÃO QUE PREVÊ A POSSIBILIDADE DE CUMULAÇÃO DAS DUAS COBERTURAS. INCIDÊNCIA DO ART. 757 DO CÓDIGO DE CIVIL. RECONHECIMENTO DA PERCEPÇÃO DE AMBAS AS COBERTURAS, PELA SEGURADORA, NA CONTESTAÇÃO. INDENIZAÇÃO AMPLIADA SOMENTE EM RELAÇÃO À AUTORA POR CONTA DA IMPROCEDÊNCIA DA OPOSIÇÃO. RECURSO ADESIVO DAS OPOENTES PREJUDICADO NO PONTO.
+CORREÇÃOMONETÁRIA.QUANTO IRRESIGNAÇÃO DA SEGURADORA QUANTO AO TERMO INICIAL.PRETENDIDAREADEQUAÇÃO PARA A DATA DA PROPOSITURA DA DEMANDA. NÃO ACOLHIMENTO.INCIDÊNCIA A PARTIR DA ÚLTIMA ATUALIZAÇÃO DO CAPITAL DO SEGURADO.
+PLEITO DA SEGURADORA DE REDUÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. REJEIÇÃO. VERBA ARBITRADA EM CONSONÂNCIA COM OS CRITÉRIOS ESTABELECIDOS PELO ARTIGO 85, § 2º E 8º, DO CÓDIGO DE PROCESSO CIVIL.
+SENTENÇA REFORMADA. ÔNUS SUCUMBÊNCIAS QUE DEVEM SER INTEGRALMENTE SUPORTADOS PELA RÉ. SUCUMBÊNCIA MÍNIMA DA AUTORA. INTELIGÊNCIA DO ARTIGO 86, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL.
+RECURSOS CONHECIDOS SENDO DESPROVIDO O RECURSO DA R É E PROVIDO O APELO DA AUTORA.RECURSO ADESIVO DAS OPOENTES CONHECIDO EM PARTE E, NESTA EXTENSÃO PREJUDICADO. FIXAÇÃO DE HONORÁRIOS RECURSAIS EM FAVOR DO PATRONO DA AUTORA.
+- "2. No seguro de vida, ao contrário do que ocorre no seguro de automóvel, é vedada a exclusão de cobertura na hipótese de sinistros ou acidentes decorrentes de atos praticados pelo segurado em estado de insanidade mental, de alcoolismo ou sob efeito de substâncias tóxicas (CartaCircular SUSEP/DETEC/GAB nº 8/2007). Precedentes. 3. As cláusulas restritivas do dever de indenizar no contrato de seguro de vida são mais raras, visto que não podem esvaziar a finalidade do contrato, sendo da essência do seguro de vida um permanente e contínuo agravamento do risco segurado" (STJ, Aglnt no REsp 1.728.428/SC, rel. Min.Ricardo Villas Bôas Cueva).
+Decisão agravada proferida pela Presidência desta Corte: não conheceu do agravo em recurso especial interposto pela parte agravante, em razão da ausência de impugnação específica dos fundamentos da decisão denegatória de seguimento do recurso especial (Súmula 182/STJ).
+Agravo interno: a parte agravante alega que rebateu todos os óbices apresentados e requer areconsideração da decisão denegatória de processamento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+2. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada não conheceu do agravo em recurso especial, ante a incidência daSúmula 182/STJ, porque a agravante deixou de impugnar especificamente um dos óbices invocados pelo Tribunal de origem para inadmitir o apelo extremo, qual seja, a incidência da Súmula 83/STJ, em relação à alegação de violação dos arts. 757, 760,768 e 792 do Código Civil.
+Da análise das razões do agravo em recurso especial, verifica-se que, de fato, não houve a adequada impugnação ao óbice acima mencionado.
+Cumpre salientar, que na hipótese em que se pretende afastar o óbice daSúmula 83/STJ, deve a parte demonstrar que as razões de decidir do acórdãorecorrido estariam em discordância com o entendimento desta Corte,colacionando em suas razões recursais julgados recentes deste Tribunal acerca da matéria, oque não foi realizado na presente hipótese.
+Assim, a incidência da Súmula 182/STJ deve ser mantida.
+Forte nessas razões, NEGO PROVIMENTO aopresente agravo.
