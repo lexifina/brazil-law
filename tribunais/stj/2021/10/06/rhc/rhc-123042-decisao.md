@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por FRANCISCO SANZIO DE LIMA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2189681-91.2019.8.26.0000.
+Consta dos autos que o Recorrente foi preso temporariamente, em 05/06/2019, com posterior conversão em preventiva,pela suposta prática do crime dehomicídio qualificado.
+Conforme apurado,
+"o indiciado suspeitava que a vítima tivesse subtraído seus pertences, enfatizando o desaparecimento de um telefone celular. Nesse contexto, o indiciado desferiu violentos golpes contra Marcelo, matando-o. O crime foi praticado por motivo torpe, qual seja, represália pelo fato de o indiciado suspeitar que o desaparecimento de seus pertencentes era responsabilidade da vítima. O crime foi cometido mediante emprego de meio cruel uma vez que o ofendido recebeu violentos golpes na região da cabeça desferidos com agente contundente, cenário revelador de brutalidade incomum e em descompasso com o mais elementar sentimento de piedade" (fl. 23).
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 71-77).
+Nas razões deste recurso, a Defesa sustenta, em suma, a inexistência de fundamentação idônea e dos requisitos autorizadores para a decretação da prisão preventiva.
+Assevera, ainda, que há excesso de prazo para a formação da culpa.
+Requer, em liminar e no mérito, a concessão de liberdade provisória, ainda que condicionada ao cumprimento de medidas cautelares alternativas.
+Não foi formulado pleito liminar.
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 109-110).
+É o relatório.
+Decido.
+De início, não é possível analisar a tese deinexistência de fundamentação idônea e dos requisitos autorizadores para a decretação da prisão preventiva, na medida em que os autos foram mal instruídos. Com efeito, o Impetrante não juntou a cópia da decisão que decretou a prisão preventiva do Recorrente, peçanecessáriaà devida compreensão da controvérsia.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ademais, em consulta ao endereço eletrônico do Tribunal estadual (Processo n.1500639-21.2019.8.26.0052), verifiquei que foi proferida sentença depronúncia em 17/06/2020, na qual foi mantida a prisão processual do Recorrente.
+Assim, tendo em vistaque o acórdão ora impugnado (HC n. 2189681-91.2019.8.26.0000) foi julgado em data anterior (21/11/2019), eventual existência de constrangimento ilegal praticado peloJuízo de primeira instância após a pronúnciadeve ser suscitadoprimeiramente perante a Corte estadual, sob pena de indevida supressão de instância,considerando que se trataráde novo ato coator.
+No mais, diante da superveniência dadecisão de pronúncia, está superada a tese deexcesso de prazo. A propósito:
+" .. 7. A alegação de excesso de prazo para o encerramento da instrução fica superada pela superveniência da sentença de pronúncia, nos termos do enunciado n. 21 da Súmula do Superior Tribunal de Justiça. .. "(RHC 138.585/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/06/2021, DJe 24/06/2021.)
+Ante o exposto, julgo PREJUDICADO o recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. MAL INSTRUÍDO. IMPOSSIBILIDADE DE ANÁLISE DA CONTROVÉRSIA.SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA QUE MANTEVE A CUSTÓDIA. NOVO ATO COATOR. SUPRESSÃO DE INSTÂNCIA.EXCESSO DE PRAZOSUPERADO. RECURSOPREJUDICADO.
