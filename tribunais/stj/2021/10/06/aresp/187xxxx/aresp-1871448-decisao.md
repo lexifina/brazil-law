@@ -1,0 +1,35 @@
+DECISÃO
+Vistos etc.
+Trata-se agravo em recurso especial interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEFcontra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que não admitiu recurso especial manejado em face de acórdão assim ementado (e-STJ Fl. 775):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. FUNCEF. ERRO DA ENTIDADE PREVIDENCIÁRIA NO CÁLCULO DO BENEFÍCIO. COBRANÇA RETROATIVA PELA ENTIDADE DOS VALORES RECEBIDOS A MAIOR. DESCABIMENTO. AUTORA QUE RECEBEU OS VALORES DE BOA-FÉ. IRREPETIBILIDADE. POSSIBILIDADE DE REVISÃO ADMINISTRATIVA. AINDA QUE TENHA HAVIDO EQUÍVOCO NO CÁLCULO DO VALOR DO BENEFÍCIO DA AUTORA, INEXISTE DIREITO ADQUIRIDO A RECEBER O VALOR EQUIVOCADO, SOB PENA DE ENRIQUECIMENTO INDEVIDO, DE FORMA A COMPROMETER AS RESERVAS FINANCEIRAS E PREJUDICAR OS DEMAIS PARTICIPANTES DO PLANO DE BENEFÍCIOS. COM RELAÇÃO À COBRANÇA RETROATIVA PELA ENTIDADE DOS VALORES RECEBIDOS A MAIOR, NO QUAL ORIGINOU A DÍVIDA ALEGADA, MELHOR SORTE NÃO ASSISTE A RÉ. COM EFEITO, ESTA CÂMARA POSSUI O ENTENDIMENTO QUE A DEMANDANTE QUANDO RECEBEU TAIS VALORES "A MAIOR", OS RECEBEU DE BOA-FÉ, SENDO A VERBA DE CARÁTER SABIDAMENTE ALIMENTAR E COM CARÁTER DE DEFINITIVIDADE, NÃO HAVENDO, PORTANTO, QUE SE FALAR EM DEVOLUÇÃO DEVIDO A SUA IRREPETIBILIDADE. NEGARAM PROVIMENTO AO APELO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ Fls. 797/802).
+Nas razões do recurso especial, a parte alega ofensa aos seguintes dispositivos legais: 884 do Código Civile1º da Lei Complementar 109/2001.
+Sustenta, em síntese,que, "caso mantidos os termos do acórdão proferido, haverá clara ofensa ao art. 884, do Código Civil, uma vez que, as recorridas se apossarão de valor maior do que realmente lhe era devido, ou seja, de valor indevido, o que não deve prosperar" (e-STJ Fl. 819).
+Defende, portanto, que "deve ser utilizada a mesma linha de raciocínio para fundamentar a possibilidade de devolução à FUNCEF dos valores pagos a mais para as recorridas, em decorrência do erro material no cálculo do benefício complementar, uma vezque o valor recebido a mais pelas recorridas não foi previamente por elas custeado, o que torna o seu recebimento indevido" (e-STJ Fl. 820).
+Por fim, requer a concessão da justiça gratuita.
+Pede o provimento do recurso.
+É o relatório.
+Passo a decidir.
+Defiro a gratuidade da justiça, contudo, sem efeitos retroativos.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob a vigência da Lei 13.105/2015, razão por que o juízo de admissibilidade é realizado na forma deste novo édito, conforme Enunciado Administrativo nº 3/STJ.
+Com efeito, relativamente à suposta violação aos artigos tido por violados,o acórdão recorrido, ao analisar as peculiaridades fáticas da demanda, concluiu, de forma expressa, pela não configuração de enriquecimento ilícito por parte das agravadas.
+Eis o que se colhe, quanto ao tema, do aresto combatido (e-STJ Fls. 771/774, gn):
+(..)
+Feitas estas considerações acerca da matéria de fundo, com relação à cobrança retroativa pela entidade dos valores recebidos a maior, no qual originou a dívida alegada, melhor sorte não assiste a ré.
+Possuo o entendimento que a demandante quando recebeu tais valores "a maior", os recebeu de boa-fé, sendo a verba de caráter sabidamente alimentar e com caráter de definitividade, não havendo, portanto, que se falar em devolução devido a sua irrepetibilidade.
+(..)
+Destaca-se ainda, o fato de que não se trata de caso de devolução de valores a título de revogação de tutela antecipada em processo que fora posteriormente julgado improcedente, no qual se tem jurisprudência farta, acerca da possibilidade de devolução devido a precariedade da medida, trata-se de erro perpetuado pela própria Fundação ré, que não justifica tal devolução.
+Diante de tal circunstância, os valores já descontados do benefício da parte autora para abatimento da suposta dívida em decorrência dos pagamentos a maior devem ser devolvidos à demandante, mantida a sentença, pelos seus próprios fundamentos".
+Percebe-se, de acordo com a transcrição do acórdão recorrido alhures transcrito, que o acórdão recorridodecidiu a controvérsia posta em conformidade com a jurisprudência do STJno sentido de que "os valores recebidos de boa-fé pelo assistido, quando pagos indevidamente pela entidade de previdência complementar em razão de interpretação equivocada ou de má aplicação de norma do regulamento, não estão sujeitos à devolução".
+À propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PAGAMENTOS INDEVIDOS DECORRENTE DE ERRO ATRIBUÍVEL EXCLUSIVAMENTE À ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. DEVOLUÇÃO DOS VALORES PAGOS A MAIOR. DESCABIMENTO. VERBAS DE NATUREZA ALIMENTAR RECEBIDAS DE BOA-FÉ. JUSTA EXPECTATIVA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. (AgInt nos EDcl no AREsp 1309011/DF, Rel. Ministro PAULODE TARSOSANSEVERINO, TERCEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020)
+No mesmo sentido: ""Os valores recebidos de boa-fé pelo assistido, quando pagos indevidamente pela entidade de previdência complementar em razão de interpretação equivocada ou de má aplicação de norma do regulamento, não estão sujeitos à devolução, pois cria-se falsa expectativa de que tais verbas alimentares eram legítimas, possuindo o contrato de previdênciaprivada tanto natureza civil quanto previdenciária"(REsp n. 1.626.020/SP, Rel. Ministro RICARDO VILLAS M AS CUEVA, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016)" (AgInt no AREsp 1.180.152/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 02/09/2019, DJe 05/09/2019).
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em R$1.700,00(e-STJ fls. 774), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para R$ 1.900,00é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para, desde logo, negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.PREVIDÊNCIA PRIVADA. PAGAMENTOS INDEVIDOS DECORRENTE DE ERRO ATRIBUÍVEL EXCLUSIVAMENTE À ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. DEVOLUÇÃO DOS VALORES PAGOS A MAIOR. DESCABIMENTO. VERBAS DE NATUREZA ALIMENTARRECEBIDAS DE BOA-FÉ. JUSTA EXPECTATIVA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
