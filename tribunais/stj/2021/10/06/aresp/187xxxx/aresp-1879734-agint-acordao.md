@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+JoséSamoel de Oliveira Reisinterpôs recurso especial contra os acórdãos de fls. 289-312 e 359-362 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementados:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PRELIMINARES REJEITADAS - CERCEAMENTO DE DEFESA NÃO CONFIGURADO - CONTRATO DE PRESTAÇAO DE SERVIÇOS ADVOCATÍCIOS - CLAUSULA PENAL - ENRIQUECIMENTO SEM CAUSA -IMPOSSIBILIDADE. Não se visualiza qualquer irregularidade no fato de o primeiro apelo não repetir a qualificação já constante nos autos. As provas carreadas aos autos são suficientes para ensejar a entrega da prestação jurisdicional. O advogado tem o direito de receber a verba honorária, devida na proporção em que prestados os serviços advocatícios, em razão do rompimento antecipado do contrato. Existe óbice percepção integral dos honorários, devendo a remuneração ser proporcional ao trabalhoefetivamente executado - art. 22, §2º, da Lei nº. 8.906/94 - sob pena de enriquecimento sem causa do advogado. A pretensão de se obter o pagamento integral de honorários contratuais, por meio de uma cláusula penal, traduz evidente desproporção, com a qual não pode coadunar o Poder Judiciário.
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DE MATÉRIA. Os embargos de declaração não se destinam à rediscussão da matéria devidamente apreciada pela instância recursal, mas apenas para esclarecer os termos do que foi decidido na decisão.
+Nas razões do recurso especial (e-STJ, fls. 365-384), apontou o insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 5º, LIV e LV, da CF/1988; 1.022, II, parágrafo único, do CPC/2015; e 22, caput e § 2º, da Lei 8.906/1994. Sustentou, em síntese: i) ocorrência de negativa de prestação jurisdicional; e ii) ser válida a cláusula penal do contrato de prestação de serviços advocatícios, que impõe o pagamento integral da verba honorária no caso de rompimento contratual.
+Foram apresentadas contrarrazões às fls. 412-424 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) descabimento do recurso especial contra suposta violação da Constituição; b) não ocorrência de negativa de prestação jurisdicional; e c) incidência da Súmula 7/STJ.
+Interposto o agravo em recurso especial, no qual se pediu a gratuidade de justiça, em decisão monocrática de fls. 520-523 (e-STJ), esta relatoria conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, concedendo, todavia, a gratuidade de justiça sem efeitos retroativos.
+Daí a apresentação deste agravo interno (e-STJ, fls. 528-567), no qual defendem Hélio Gomes Amaral dos Santos e outras o descabimento da concessão da gratuidade de justiça, alegando que o agravado é advogado e patrocina muitas ações na Comarca de Belo Horizonte.
+Impugnação às fls. 570-577 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS.GRATUIDADE DE JUSTIÇA. PRECLUSÃO. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Deveriam os agravantes terem contestado o pedido de gratuidade de justiça feito pela parte adversa na impugnação ao agravo emrecurso especial, o que não aconteceu, estando preclusa a matéria.
+2.Também incide a Súmula 7/STJ a obstar apretensão de análise da condição financeira do agravado.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se pelo conhecimento apenas parcial do recurso especial, tendo em vista a incidência daSúmula284/STF e, na parte conhecida, pelo seu desprovimento, considerada a jurisprudência desta Corte sobre a matéria. Todavia, foi deferido o pedido de gratuidade de justiça feito no agravo.
+Veja-se às fls. 521-523 (e-STJ):
+Tendo em vista que o agravante abriu mão da alegada violação dos dispositivos constitucionais, ela será desconsiderada.
+Da acurada análise do presente recurso, verifica-se que a alegação de negativa de prestação jurisdicional foi feita de forma preventiva/genérica, sem especificar, objetivamente, os pontos da demanda sobre os quais o Tribunal de origem teria deixado de se pronunciar.
+Veja-se à fl. 370 (e-STJ):
+Com efeito, preliminarmente, fica requerido, na hipótese de se ter por não prequestionada alguma das matérias pontuadas nos Embargos de Declaração, ou que se queira aplicar a Súmula- 7/STJ por ausência dedeclaração de elementos ausentes do texto do v. acórdão recorrido, então embargado, que o recurso especial seja conhecido e provido por violação ao Art. 5º, incisos II, LIV e LV da CF (configuração da exigência de ato não exigido por lei e cerceamento de defesa; da ampla defesa e meios a ela inerentes), bem como a violação aos arts. 1.022, II, e Parágrafo único e 1.025 do Código de Processo Civil, pois o quanto devolvido a MM: 2ª Instância em sede recursal ordinária não foi, e continua não apreciado, haja vista que a inapreciação se deveu a resistência da Eg.13ª Câmara Cível do TJMG. E conhecido, de prover o recurso especial para a baixa dos autos a referida Câmara Cível do TJMG, a fim de que aprecie, na extensão como propostos, os embargos de declaração manejados pelo ora Recorrente.
+A alegação de negativa de prestação jurisdicional de forma genérica faz incidir a Súmula 284/STF a impedir o conhecimento do recurso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DO DIREITO DE DEFESA. REEXAME. SÚMULA Nº 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.1. O recurso especial que indica violação dos artigos 489 e 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.2. Não configura cerceamento de defesa o julgamento da causa sem a produção de prova quando o tribunal de origem considerar substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento. Rever tal conclusão acarreta a incidência da Súmula nº 7/STJ.3. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 211 do STJ.4. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.5. Agravo interno não provido.(AgInt no AREsp 1.140.214/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 09/11/2017, DJe 20/11/2017).
+Por fim, sem razão o recorrente quando defende a validade da cláusula penal contida no contrato, a qual prevê que, sendo rescindida a avença, os contratantes teriam que pagar a integralidade dos honorários contratados.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DESERVIÇOS ADVOCATÍCIOS. CLÁUSULA AD EXITUM. REVOGAÇÃO DO MANDATO. APLICAÇÃO DA CLÁUSULA PENAL. IMPOSSIBILIDADE. SÚMULA 83/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.1. A resilição unilateral do contrato de mandato é faculdade atribuída pela lei tanto ao mandante como ao mandatário (CC/2002, art. 473, c/c o art. 682, I). Portanto, a revogação, pelo mandante, do mandato outorgado ao advogado é causa lícita de rescisão do contrato de prestação de serviços advocatícios, não ensejando o pagamento de multa prevista em cláusula penal, conforme já decidido por esta Corte: "Não é possível a estipulação de multa no contrato de honorários para as hipóteses de renúncia ou revogação unilateral do mandato do advogado, independentemente de motivação, respeitado o direito de recebimento dos honorários proporcionais ao serviço prestado" (REsp 1.346.171/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2016, DJe de 07/11/2016). 2. Nos termos da jurisprudência desta Corte, a Súmula 83 do STJ aplica-se aos recursos especiais interpostos tanto com fundamento na alínea c quanto na alínea a do permissivo constitucional.3. Agravo interno a que se nega provimento.(AgInt no REsp 1.803.346/MT, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 27/08/2019, DJe 11/09/2019).
+Diante do exposto, conheço do agravo de José Samoel de Oliveira Reis para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Defiro o pedido de gratuidade de justiça, não retroativo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado das partes recorridas em 3% (três por cento) sobre o valor cobrado na presente ação, devendo ser considerado o provimento do recurso especial interposto pelas partes adversas. Tal majoração deve observar a gratuidade de justiça concedida nesta instância.
+Publique-se.
+Na presente insurgência, defendem os agravantes o descabimento da concessão da gratuidade de justiça, alegando que o agravado é advogado e patrocina muitas ações na Comarca de Belo Horizonte.
+Visto que os agravantes não apresentaram esse argumento por ocasião da impugnação ao agravo em recurso especial, tal matéria se mostra preclusa.
+Nesse sentido:
+PROCESSUAL CIVIL BENEFÍCIO DA JUSTIÇA GRATUITA COMPROVAÇÃO DOCUMENTAL DO ESTADO DE MISERABILIDADE DE PESSOA JURÍDICA QUESTÕES NÃO ARGUIDAS EM CONTRARRAZÕES AO RECURSO ESPECIAL PRECLUSÃO CONSUMADA.
+1. A pessoa jurídica deve comprovar o estado de miserabilidade para a concessão da justiça gratuita. Precedentes do STJ.
+2. In casu, restou comprovada a situação da recorrente, com a juntada de documentos que não foram objetos de contestação nas contrarrazões de recurso especial.
+3. Inviável, apenas em sede de agravo regimental, impugnar o pedido de justiça gratuita se a matéria não foi ventilada oportunamente, por ocasião das contrarrazões do recurso especial, em razão da preclusão. Precedentes.
+Agravo regimental improvido.
+(AgRg no REsp 1.104.416/RS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/06/2009, DJe 01/07/2009).
+Como se não bastasse, a análise da capacidade financeira do agravado demandaria incursão no conjunto probatório, medida obstada pela incidência da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  EMBARGOS DE TERCEIRO DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DO EMBARGANTE.
+1. A ausência de indicação clara e precisa dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF. Precedentes.
+2. A presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido.
+Precedentes. Inafastável o óbice da Súmula 83 STJ.
+2.1. A pretensão de que seja avaliada pelo Superior Tribunal de Justiça a condição econômica da parte agravante exigiria o reexame de provas, o que é vedado em sede de recurso especial, em face do óbice contido na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.671.512/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 19/10/2020, DJe 23/10/2020).
+Dessa forma, prevalecem os fundamentos da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
