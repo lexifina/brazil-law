@@ -1,0 +1,9 @@
+DECISÃO
+Vistos, etc.
+A controvérsia devolvida ao conhecimento desta Corte Superior mediante orecurso especial interposto por DOW AGROSCIENCES INDUSTRIAL LTDA,limita-se àquestão afetada ao rito do art. 1.036 do Código de Processo Civil de 2015(Tema 1046), com o objetivo de uniformizar o entendimento acercada"possibilidade de fixação de honorários advocatícios com fundamento emjuízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código deProcesso Civil de 2015".
+Nesse contexto, os recursos que tratam da mesma controvérsia nesteSuperior Tribunal de Justiça devem aguardar, no Tribunal de origem, asolução da questão, viabilizando, assim, o juízo de conformação,atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015,apenas após essas providências é que o recurso especial, se for o caso,deverá ser reencaminhado a este Tribunal Superior, independentemente deratificação, para análise das demais questões jurídicas nele suscitadasque eventualmente não fiquem prejudicadas pela conformidade do acórdãorecorrido com a decisão sobre o tema repetitivo ou pelo novopronunciamento do Tribunal de origem.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem paraque o recurso especial permaneça suspenso até a publicação do acórdãoparadigma (TEMA 1046/STJ), nos termos do art. 1.037, inciso II, do CPC/2015,observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 doCPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte,a presente decisão possui recorribilidade limitada à demonstraçãododistinguishing, na forma do art. 1.037, §§9º e 10, inciso IV, do CPC,sendo que não será conhecido o eventual agravo interno ou pedidodereconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatóriosdaráazo à aplicação das penalidades legalmente previstas.
+Intimem-se.
