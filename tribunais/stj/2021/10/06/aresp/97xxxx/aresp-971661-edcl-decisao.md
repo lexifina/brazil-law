@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LENNON TELES CELESTINO contra a decisão que conheceu de seu agravo para conhecer parcialmente do recurso especial e lhe dar provimento.
+Nas razões destes aclaratórios, o embargante alega que "aprescrição é matéria de ordem pública e pode ser reconhecida em qualquer tempo ou grau de jurisdição. Neste diapasão, prevê o caput do artigo 61 do Código de Processo Penal que, "em qualquer fase do processo, o juiz, se reconhecer extinta a punibilidade, deverá declará-lo de ofício"". Aduz que,"considerando-se que transcorreram mais de 2 anos entre esses marcos, entende-se que está consumada a prescrição da pretensão punitivapela pena em concreto, nos termos do artigo 109, inciso V, c/c o artigo 115 do Código Penal" (e-STJ fl. 431). Ao final, requer a extinção da punibilidade.
+É o relatório. Decido.
+Os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão, inexistentes no caso.
+Na hipótese, aquestão relacionada à prescrição da pretensão punitiva nem sequer foi objeto do recurso especial, razão pela qual não há que se falar em omissão.
+Todavia, não se olvida que "a ocorrência da extinção da punibilidade em virtude da prescrição da pretensão punitiva estatal constitui matéria de ordem pública, que pode ser conhecida de ofício, em qualquer grau de jurisdição, nos termos do art. 61 do CPP" (AgRg no AREsp n. 1.504.204/CE, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 22/10/2019, DJe 30/10/2019).
+A prescrição penal depois do trânsito em julgado para a acusação ou depois de desprovido seu recurso é regulada pela pena aplicada concretamente, conforme dispõe o § 1º do art. 110 do CP, com base nos prazos prescricionais enumerados no art. 109 do CP.
+Na hipótese, o réu foi condenado como incurso no art. 125, inciso XII,da Lei n. 6.815/1980. Após o julgamento do recurso especial, a pena foi estabelecida em1 ano e 25 dias de detenção.
+Ademais, na data do fato (2/8/2011), o réu era menor de 21 anos de idade (e-STJ fl. 5).
+Então, o prazo prescricional é 2anos (art. 109, inciso V, c/co art. 115, ambos doCP).
+Cumpre esclarecer, ainda, que o Supremo Tribunal Federal, no julgamento do HC n. 176.473, de relatoria do Ministro Alexandre de Moraes, ao interpretar a alteração trazida pela Lei n. 11.596/2007 ao inciso IV do art. 117 do Código Penal, pacificou novo posicionamento acerca do tema, fixando a premissa segundo a qual, " n os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta" (EDcl no AgRg no RHC n. 109.530/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/5/2020, DJe 1º/6/2020).
+Diante de tudo o que foi delineado, verifica-se que já transcorreu o prazo prescricional, considerando o último marco interruptivo da prescrição, qual seja, o acórdão confirmatório julgado em 14/4/2015 (e-STJ fl. 324).
+Sendo assim, está prescrita a pretensão punitiva estatal.
+Ante o exposto, rejeito os embargos de declaração. Todavia, declaro extinta a punibilidade pela prescrição, nos termos do art. 107, inciso IV, do Código Penal.
+Publique-se. Intimem-se.
