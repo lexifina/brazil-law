@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Trata-se de embargos de declaração contra acórdão assim ementado (e-STJ fl. 917):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIÇO DE FORNECIMENTO DE ÁGUA. CONDOMÍNIOS. CÁLCULO. CONSUMO REAL AFERIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Decorre o recurso especial de demanda objetivando recálculo do consumo de fornecimento de água, aplicando-se a tabela progressiva com base no consumo total de água registrado no hidrômetro, dividindo-se tal consumo pelo número de economias apenas e tão somente para o fim de enquadramento na faixa de consumo prevista na referida tabela progressiva.
+2. O TJ/RJ manteve a sentença de procedência do pedido pelo fundamento de que é ilegal a cobrança de consumo pela tarifa mínima multiplicada pelo número de economias, determinando que a tarifa progressiva só deve ser aplicada após ser encontrado o consumo médio, obtido pela divisão do consumo total pelo número de economias existentes, ou seja, incidência do encargo na forma híbrida pleiteada.
+3. O acórdão recorrido merece reparos, pois, conforme decidido pela Primeira Seção no julgamento do REsp 1166561/RJ, Rel. Ministro Hamilton Carvalhido, DJe 05/10/2010, "A cobrança pelo fornecimento de água aos condomínios em que o consumo total de água é medido por único hidrômetro deve se dar pelo consumo real aferido".
+4. Agravo interno não provido.
+A parte agravante sustenta quea fundamentação do acórdão partiude premissa equivocada de que a pretensão consistiria na aplicação híbrida dos institutos da "taxa mínima" e da "progressividade". Pelo contrário, o embargante pretende, tão somente, ser enquadradoda progressividade da tarifa de água e esgoto, levando-se em consideração o número e economias/unidades existentes no respectivo condomínio, objetivando propiciar um tratamento isonômico entre os condomínios, bem como entre estes e os consumidores individuais.
+Afirma que o pedido formulado na inicial, em momento algum, deixou evidente que sua finalidade era aplicação de forma híbrida, mas tão somente, que a cobrança a ser realizada pelas concessionárias de serviço público deve obedecer ao princípio da proporcionalidade para se chegar a uma solução razoável, em que hajao equilíbrio entre a prestação de serviço efetivamente prestado pelas concessionárias e o valor de sua remuneração.
+Pugna pelo conhecimento dos embargos para que se reformeo acórdão e seja observadaa proporcionalidade entre o entendimento firmado no Recurso Especial nº 1.166.561/RJ e a Súmula 407 do STJ, para determinar que a cobrança dos serviços de água considereo volume efetivamente medido no hidrômetro, dividido pelo número de economias.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NORECURSO ESPECIAL. AUSÊNCIA DAS HIPÓTESES DE CABIMENTO. FINALIDADE. REEXAME DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+As razões são improcedentes.
+Registra-se que os embargos de declaração - como recurso de fundamentação vinculada que é - tem por fim a integração do pronunciamento judicial, deforma a sanar possível obscuridade, contradição ou omissão de algum ponto do julgado, quando tais vícios estejam aptos a comprometer a verdade e os fatos postos nos autos.
+Contudo, não se prestam à finalidade de sustentar eventual incorreção do decisum hostilizado, de modo a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+Ocorre que o acórdão embargado posicionou-se de forma clara, adequada e suficiente acerca do não provimento do agravo interno tendo em vista que o agravante, ora embargante, ajuizou a demanda não para afastar fórmula de cobrança com base na sua ilegalidade, e sim para que os valores cobrados a título de serviço de fornecimento de água resultassem de cálculo que entendesse mais adequado.
+Ilustrativamente, foi transcrito no acórdão o pedido lançado na inicial (fl. 921-e):
+(..)
+5) Requer que a cobrança praticada pela Ré com base na tarifa mínima multiplicada pelo número de unidades autônomas do condomínio SEJA DECLARADA NULA, bem como seja a Ré compelida a cobrar o consumo efetivo mensal, considerando o número de economias a que o hidrômetro único atende para que, então, possa enquadra-lo na faixa de consumo correta, ou seja, dividindo o medido pelo hidrômetro pelas 128 (cento e vinte e oito) economias, fixando multa diária para a hipótese de descumprimento da ordem, com fulcro nos artigos 497 cumulado com 537, ambos do Código de Processo Civil, bem como qualquer medida que considerar adequadas para efetivação da tutela, com base nos dispositivos 297 cumulado com 139, IV, ambos do NCPC;
+Observa-se que este pedido é o mesmo da parte final dos presentes embargos.
+Restou asseverado no acórdão ora embargado que se discutia a aplicação combinada entre o entendimento desta Corte Superior sobre a aplicação da tabela progressiva (Súmula 407) e a orientação firmada noRecurso Especial Repetitivo nº 1.166.561/RJ acerca da ilicitude da cobrança de tarifa de água no valor do consumo mínimo multiplicado pelo número de economias existentes no imóvel, quando houver único hidrômetro no local.
+Registra-se que o Tribunal de origemmanteve a sentença de primeiro grau, cuja conclusão adotada e, naprimeira parte de forma acertada,foi no sentido de que é ilegal a cobrança de consumo pela tarifa mínima multiplicada pelo número de economias.
+Entretanto, determinou-se que a tarifa progressiva só deveria ser aplicada após ser encontrado o consumo médioobtido pela divisão do consumo total pelo número de economias existentes, ou seja, incidência do encargo na forma híbrida pleiteada pelo embargante conforme pedido da inicial "número 5" descrito acima, sendo esta forma de cobrançapelo consumo de água destoante do estabelecido pela Primeira Seção em julgamento de recurso especial, que é pelo consumo real aferido, motivo para reforma do acórdão recorrido.
+Depreende-se assim, quebusca o embargante apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que só é admitido em hipóteses excepcionais, pois, em regra, a presente via possui efeito apenas integrativo.
+Dessa feita, nenhum dos argumentos apresentados no presente apelo comporta exame nessa senda recursal, tampouco pode alterar o resultado do julgamento tal como posto.
+Não havendo omissão, contradição, obscuridade ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
