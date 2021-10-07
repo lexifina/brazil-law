@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Na origem, trata-se de ação ordinária em que se pleiteia a concessão de benefício de auxílio acidente/doença ou aposentadoria por invalidez, sob a alegação de ser portador de incapacidade relacionada à atividade profissional. Na sentença, julgou-se procedente o pedido para condenar o INSS a conceder o benefício de auxílio-doençapor acidente de trabalho desde maio/2017. No Tribunal a quo, a sentença foi reformada para determinar a conversão dos auxílios-doença previdenciários em seus homólogos acidentários e julgar improcedente o pedido de indenização por danos morais, conforme a seguinte ementa do acórdão:
+ACIDENTE DO TRABALHO APELAÇÕES DAS PARTES (A DO OBREIRO NA FORMA ADESIVA) E REEXAME NECESSÁRIO CONSIDERADO INTERPOSTO SENTENÇA DE PROCEDÊNCIA.
+ACIDENTE TÍPICO, ACIDENTE IN ITINERE E L.E.R./D.O.R.T. MEMBROS INFERIORES, MEMBROS SUPERIORES (COTOVELOS, PUNHOS E MÃOS), COLUNA E MALES PSICOLÓGICOS AUSÊNCIA DE INCAPACIDADE IMPROCEDÊNCIA Provada pericialmente a inexistência de moléstia profissional incapacitante nestes segmentos, descabe indenização acidentária Benefício acidentário incabível.
+L.E.R./D.O.R.T. OMBRO DIREITO INCAPACIDADE TEMPORÁRIA E PARCIAL FATO ATÍPICO NA SEARA INFORTUNÍSTICA Provada pericialmente a inexistência de incapacidade indenizável, descabe a concessão de benefício acidentário.
+CONVERSÃO DOS AUXÍLIOS-DOENÇA PREVIDENCIÁRIOS EM ACIDENTÁRIOS, RELACIONADOS AO ACIDENTE IN ITINERE NEXO CAUSAL PROCEDÊNCIA Demonstrada a existência de liame entre a afecção e o labor é devida a conversão dos benefícios previdenciários em acidentários.
+SENTENÇA "CITRA PETITA" Conhecimento de ofício Pleito indenizatório não apreciado Possibilidade de imediato julgamento por esta Corte (art. 1.013, § 3º, III, do C.P.C./2015) DANO MORAL Não cabimento, na hipótese dos autos Prejuízo extrapatrimonial não reconhecido, não se verificando dano à honra ou ao íntimo do autor diante do fato ocorrido Decretação de improcedência do pleito indenizatório.
+De ofício, reconhece-se ser "citra petita" a sentença em relação ao pleito de danos morais para, ao apreciá-lo, julgá-lo improcedente Decretação de improcedência em relação ao benefício acidentário Procedência da conversão dos auxílios- doença previdenciários em acidentários Recursos
+Negou-se seguimento ao recurso especial interposto. Após interposição de agravo nos próprios autos, não se conheceu do recurso ante a falta de impugnação aos fundamentos de negativa de seguimento ao recurso especial na origem.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA.CONCESSÃO DE BENEFÍCIO DE AUXÍLIO ACIDENTE/DOENÇA OU APOSENTADORIA POR INVALIDEZ. INCAPACIDADE RELACIONADA À ATIVIDADE PROFISSIONAL. PEDIDO PROCEDENTE PARA A CONVERSÃO DOS AUXÍLIOS-DOENÇA PREVIDENCIÁRIOS EM SEUS HOMÓLOGOS ACIDENTÁRIOS. IMPROCEDÊNCIA NO PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária em que se pleiteia a concessão de benefício de auxílio acidente/doença ou aposentadoria por invalidez, sob a alegação de ser portador de incapacidade relacionada à atividade profissional. Na sentença, julgou-se procedente o pedido para condenar o INSS a conceder o benefício de auxilio-doença por acidente de trabalho desde maio/2017. No Tribunal a quo, a sentença foi reformada para determinar a conversão dos auxílios-doença previdenciários em seus homólogos acidentários e julgar improcedente o pedido de indenização por danos morais.
+II - Inadmitiu-se o recurso especial com base na ausência de afronta ao artigo 1.022 do CPC, na ausência de afronta à dispositivo legal (arts. 186, 187, 927 e 944 do CC; arts.42, 45, 59, 61 e 86 da Lei n. 8.213/91), na incidência da Súmula n.7/STJ e na divergência não comprovada. Agravo nos próprios autos que não impugna os fundamentos da decisão recorrida.
+III - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feitade maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+IV - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+V - Agravo interno improvido.
+Interposto novo agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL.CONCESSÃO DE BENEFÍCIO DE AUXÍLIO ACIDENTE/DOENÇA OU APOSENTADORIA POR INVALIDEZ. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.AGRAVO INTERNO INTERPOSTO CONTRA ACÓRDÃO. NÃO CABIMENTO. RECURSO CABÍVEL SOMENTE PARA IMPUGNAR DECISÕES MONOCRÁTICAS.
+I - Na origem, trata-se de ação ordinária em que se pleiteia a concessão de benefício de auxílio acidente/doença ou aposentadoria por invalidez, sob a alegação de ser portador de incapacidade relacionada à atividade profissional. Na sentença, julgou-se procedente o pedido para condenar o INSS a conceder o benefício de auxílio-doençapor acidente de trabalho desde maio/2017. No Tribunal a quo, a sentença foi reformada para determinar a conversão dos auxílios-doença previdenciários em seus homólogos acidentários e julgar improcedente o pedido de indenização por danos morais.
+II - Os arts. 1.021, caput, do Código de Processo Civil de 2015 e 258 do Regimento Interno do STJ preveemo cabimento de agravo interno somente contra decisão monocrática.
+III - A interposição de agravo interno contra decisão colegiada constitui erro grosseiro, sendo inviável a aplicação do princípio da fungibilidade recursal para o recebimento do recurso como embargos de declaração.
+IV- Agravo interno não conhecido.
+VOTO
+O recurso não comporta conhecimento.
+Os arts. 1.021, caput, do Código de Processo Civil de 2015 e 258 do Regimento Interno do STJ preveemo cabimento de agravo interno somente contra decisão monocrática.
+A interposição de agravo interno contra decisão colegiada constitui erro grosseiro, sendo inviável a aplicação do princípio da fungibilidade recursal para o recebimento do recurso como embargos de declaração.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
