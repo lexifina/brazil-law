@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEFFERSON LUIZ MARTEGANHA RODRIGUES, apontando como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul.
+Informa o impetrante que foi preso preventivamente no dia 21/6/2019 e condenado em 9/4/2020, como incurso no crime de tráfico de drogas e associação para o tráfico de drogas, à pena de 09 anos de reclusão, negado o direito de recorrer em liberdade.
+Na presente oportunidade, a defesa alega o excesso de prazo para o julgamento do recurso de apelação, ressaltando que o paciente se encontra preso preventivamente há 02 anos, 02 meses e 22 dias.
+Alega ainda, a ausência de fundamentos para que o paciente recorra em liberdade da sentença.
+Assim, pede, em liminar e no mérito, a revogação daprisãopreventivadopaciente.
+A liminar foi indeferida (e-STJ fls. 37/39). As informações foram prestadas (e-STJ fls. 42/94). O Ministério Público Federal, previamente ouvido, manifestou-se pela denegação da ordem (e-STJ fls. 98/101).
+É o relatório. Decido.
+A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX, da CF).
+Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato e revele a imprescindibilidade da medida, vedadas considerações genéricas e vazias sobre a gravidade do crime.
+Destaco os seguintes precedentes do Supremo Tribunal Federal e desta Corte que traduzem bem essa compreensão: STF, AgRg no HC n. 128.615, Relator Ministro CELSO DE MELLO, Segunda Turma, julgado em 18/8/2015, publicado em 30/9/2015;STF, HC n. 126.815, Relator Ministro MARCO AURÉLIO, Relator p/ acórdão Ministro EDSON FACHIN, Primeira Turma, julgado em 4/8/2015, publicado em 28/8/2015; STJ, HC n. 321.201/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 6/8/2015, DJe 25/8/2015; e STJ, HC n. 296.543/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/10/2014, DJe 13/10/2014.
+Preliminarmente, em relação aos fundamentos para a negativa do paciente de recorrer em liberdade, verifica-se que já foi objeto de análise por esta Corte de Justiça, onde em decisão monocrática por mim proferida em 3/2/2021, não conheci do writ, por entender que não havia constrangimento ilegal a ser sanado por esta Corte, mantendo a prisão preventiva.
+Ao prestar as informações o Tribunal, assim esclareceu (e-STJ fl. 47- grifei):
+ ..
+Em atenção ao pedido de informações no Habeas Corpus nº 693.624/RS, dessa Colenda 5" Turma, tenho a honra de encaminhar-lhe os seguintes documentos:
+- decisão monocrática da 1" Câmara Criminal no Habeas Carpas no 70085338549;
+- acórdão da 1 a Câmara Criminal no Agravo Regimental nº 70085346344;
+- sentença;
+- situação prisional Informo-lhe que, conforme consulta processual, (I) ainda não há sentença registrada pelo cartório na ação penal nº 008/2.19.0012017-0 e, (II) em acesso ao Sistema Multicomarcas (themislg), verifica-se que o paciente está preso preventivamente na Cadeia Pública de Porto Alegre desde 22/06/2019.
+Por fim, consigno que, em 11 de maio de 2016, foi encaminhado pela 2" Vice-Presidência desta Corte oficio ao ilustre Ministro Presidente do Superior Tribunal de Justiça informando que, em razão da solicitação dos eminentes Ministros integrantes da Quinta e Sexta Turmas de envio de senha de acesso a consultas processuais, o TJRS implementou o cadastramento de entes públicos no Portal do Processo Eletrônico, o que permite a inscrição como administrador do sistema e a inclusão de usuários para visualização dos processos.
+Aproveito a oportunidade para lhe apresentar protestos de apreço e consideração.
+Para a caracterização do excesso de prazo, a demora excessiva deve estar vinculada à desídia do Poder Público, em decorrência, por exemplo, de eventual procedimento omissivo do magistrado ou da acusação, o que não se verifica na espécie, uma vez que, em visita ao site do Tribunal de Justiça do Rio Grande do Sul, verifica-se que na data de 4/10/2021, os autos foramconclusos ao Relator, para julgamento.
+Além disso, não se ignora a inevitável suspensão de trabalhos presenciais em razão das medidas adotadas para evitar a disseminação do novo coronavírus, sendo certo reconhecer, portanto, que tais circunstâncias naturalmente contribuem para o prolongamento da instrução processual, de modo que não há que se cogitar em descaso da autoridade judiciária.
+Assim, considerados os dados do processo, considerando, ainda, que a nova audiência de instrução para a oitiva do acusado, encontra-se agendada, não vislumbro ofensa aos princípios constitucionais da proporcionalidade e da razoável duração do processo (art.5º, LXXVIII, da Constituição Federal), o que afasta o acolhimento da tese defensiva de excesso de prazo.
+Ante o exposto, denego o habeas corpus.
+Intimem-se.
