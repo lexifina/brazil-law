@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de segundos embargos de declaração opostos por NDDigital S.A. Software em face de acórdão prolatado pela Eg. Primeira Turma assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em
+questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+A parte embargante, em suas razões, sustenta haver omissão no aresto embargado, aduzindo "a necessidade de pronunciamento sobre a exclusão do PIS e da COFINS da base de cálculo da Contribuição Previdenciária Patronal, diante do reconhecimento da inexistência de repercussão geral pelo e. STF" (fl. 655) e que, "caso tal questão tivesse sido observada, esta e. Corte teria se pronunciado expressamente sobre a ilegalidade da inclusão do PIS e da COFINS na base de cálculo da CPRB, o que de fato não ocorreu" (fl. 655).
+Impugnação às fls. 658/659.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC. CARÁTER INFRINGENTE E PROTELATÓRIO. APLICAÇÃO DA MULTA PREVISTA NO ARTIGO 1.026, § 2º, DO CPC.
+1. De acordo com a norma prevista no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo nãocaracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal" (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Considerando-se que os embargos declaratórios vertentes são os segundos opostos pela ora embargante, resta evidenciado o seu intuito infringente e protelatório, a ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC. A propósito: EDcl nos EDcl no AgInt nos EDv nos EAREsp 523.426/SP, Rel. Ministro Paulo de Tarso Sanseverino, Corte Especial, DJe 26/3/2021; e EDcl nos EDcl no AgInt no RE nos EDcl no AgRg no AgRg no Ag 1.116.683/PR, Rel. Ministro Jorge Mussi, Corte Especial, DJe 11/3/2021.
+5. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): Da simples leitura do relatório antes realizado, extrai-se o nítido intento da parte de infringir o julgado, o que não se coaduna com a via integrativa.
+Realmente, conforme dispõe o artigo 1.022 do CPC, os embargos de declaração somente são cabíveis nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. No caso, uma vez mais, não se verifica a existência de quaisquer das referidas deficiências.
+Conforme já explicitado nos embargos aclaratórios anteriores (fls. 649/650 - g.n.):
+Com efeito, ficaram devidamente consignadas no aresto hostilizado as razões pelas quais o agravo interno não logrou ultrapassar a barreira de cognoscibilidade, tendo-se registrado, outrossim, a latere, não ser cabível o sobrestamento do recurso em razão do Tema 1.067/STF.
+A propósito, confiram-se os seguintes trechos do acórdão embargado (fl. 626):
+ ..  nas razões do agravo interno em exame, cingiu-se a parte apenas a referir que o recurso especial deveria ter sido sobrestado em razão do Tema 1.067/STF, deixando, pois, de impugnar in totum os fundamentos do decisum alvejado.
+Nesse contexto, incide a Súmula 182/STJ.
+Registre-se, apenas para que não pairem dúvidas a respeito, que o Tema 1.067/STF ("Recurso extraordinário em que se discute, à luz do artigo 195, inciso I, alínea b, da Constituição Federal, a constitucionalidade da inclusão da COFINS e da contribuição ao PIS em suas próprias bases de cálculo") não possui perfeita adequação com o caso concreto dos autos, no qual se pugnou pela exclusão de ISS, PIS e COFINS da receita bruta do contribuinte para fins de apuração da contribuição social patronal substitutiva (cf fl. 514).
+Importante assinalar que a alegação relativa ao Tema 1.135/STF sequer constou das razões de agravo interno (cf fls. 602/606), o qual, como já apontado, nem mesmo ultrapassou a barreira de admissibilidade recursal; não havendo, pois, sob qualquer dos ângulos, como tachar o acórdão embargado de omisso a respeito da aludida questão.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A questão ora apontada como omitida ("a necessidade de pronunciamento sobre a exclusão do PIS e da COFINS da base de cálculo da Contribuição Previdenciária Patronal, diante do reconhecimento da inexistência de repercussão geral pelo e. STF" - fl. 655), porque igualmente não constou do agravo interno de fls. 602/606 - o qual, reitere-se, nem sequer ultrapassou a barreira de cognoscibilidade -, segue a mesma sorte da alegação relativa ao Tema 1.135/STF já destacada no aresto ora embargado, i.e., não perfaz omissão capaz de ensejar a oposição do recurso integrativo.
+Nesse panorama, não há qualquer omissão a suprir, ressaindo evidente, isso sim, o intuito da parte de infringir o julgado, bem assim de inovar argumentação recursal por meio de embargos declaratórios, o que, como cediço, é inadmissível.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal" (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.574.004/SE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 11/03/2021)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO. REJEIÇÃO DOS EMBARGOS.
+1. Não há, nas razões do recurso especial, do agravo em recurso especial, do agravo interno, bem como dos embargos de declaração ofertados na seqüência, nenhuma irresignação quanto aos honorários advocatícios fixados na sentença, de modo que as alegações formuladas nos presentes embargos de declaração consubstanciam inovação descabida em sede recursal a respeito da qual já se consumou a preclusão. Ainda que assim não fosse, não seria possível a esta Corte enfrentar a questão, haja vista a ausência de prequestionamento a atrair o óbice da Súmula nº 282 do STF.
+2. Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp 1.392.882/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/02/2020, DJe 10/02/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, DE OBSCURIDADE E DE CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. INOVAÇÃO RECURSAL. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO DO PRESENTANTE MINISTERIAL REJEITADOS.
+1. A teor do disposto no art. 1.022 do Código Fux, os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não se verifica no caso dos autos, porquanto o acórdão embargado dirimiu todas as questões postas de maneira clara, suficiente e fundamentada.
+2. Com efeito, o acórdão embargado consignou, claramente, que, nos termos da jurisprudência desta Corte Superior, inexistindo a previsão de prazo prescricional específico na Lei 7.347/1985, aplica-se à Ação Civil Pública, por analogia, a prescrição quinquenal instituída pelo art. 21 da Lei 4.717/1965 - até mesmo em razão da existência, amplamente reconhecida, do microssistema de tutela coletiva (fls. 495).
+3. É inviável a análise da inovação recursal em sede de Embargos de Declaração em razão da preclusão consumativa. Julgados: EDcl no AgInt nos EDcl no AREsp. 1.210.012/MG, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27.5.2019, DJe 30.5.2019; AgInt nos EDcl no REsp. 1.724.143/DF, Rel. Min. REGINA HELENA COSTA, DJe 2.5.2019; EDcl no AgInt no AREsp. 1.251.812/SP, Rel. Min. FRANCISCO FALCÃO, DJe 2.4.2019.
+4. Embargos de Declaração do Presentante Ministerial rejeitados.
+(EDcl no AgInt no AREsp 814.391/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 23/09/2019, DJe 30/09/2019)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. CONTRATO VERBAL. VEDAÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 284 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. INOVAÇÃO EM EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+I - Trata-se de embargos de declaração opostos contra acórdão que desproveu agravo interno.
+II - Os aclaratórios somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - A alegação da parte embargante relativamente à omissão quanto à matéria de ordem pública não foi suscitada em agravo interno, configurando indevida inovação recursal em embargos de declaração.
+V - Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.608.922/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 17/04/2018, DJe 23/04/2018)
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+Anote-se, por fim, que, tendo em vista que estes são os segundos embargos aclaratórios opostos pela ora embargante, com notório intuito infringente e, mais, ostentando indevida inovação recursal, resta conceber o recurso como manifestamente protelatório. Nesse panorama, deve incidir a multa prevista no § 2º do art. 1.026 do CPC.
+Nessa esteira:
+PROCESSO CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. INTIMAÇÃO ELETRÔNICA. PRAZO RECURSAL. INÍCIO. DIA SEGUINTE AO DO DECÊNIO LEGAL. INTEMPESTIVIDADE. INOVAÇÃO RECURSAL. DESCABIMENTO. SEGUNDOS EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. MANIFESTO INTUITO PROTELATÓRIO. MULTA.
+1. O termo de início do prazo recursal é o dia seguinte ao término do decênio legal para ciência da intimação, salvo se este ocorrer em dia não útil.
+2. A inovação recursal por ocasião dos segundos aclaratórios, ambos descabidos, traduz evidente intuito protelatório, ensejando a aplicação da multa do art. 1.026, § 2º, do CPC/2015.
+3. Segundos embargos de declaração não conhecidos, com imposição de multa fixada em 1% do valor atualizado da causa.
+(EDcl nos EDcl no REsp 1.189.006/AC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 11/12/2018, DJe 17/12/2018)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DECLARATÓRIOS. AGRAVO INTERNO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL INEXISTENTES. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL MANIFESTAMENTE PROTELATÓRIA. MULTA POR LITIGÂNCIA DE MÁ-FÉ. EMBARGOS REJEITADOS.
+1. Nestes segundos declaratórios, o ora recorrente, ignorando completamente o julgamento anterior deste Colegiado nos primeiros aclaratórios, sustenta de forma expressa que se insurge contra o acórdão proferido no julgamento do agravo interno.
+2. Conforme já tinha feito em seus anteriores recursos de competência desta Corte Especial embargos de divergência, agravo interno e embargos declaratórios repisa todos os argumentos relativos ao mérito da controvérsia analisada no apelo nobre que, conforme já afirmado exaustivamente nas insurgências pregressas, não pode ser revisto neste Colegiado Maior, porque não configurado o dissenso pretoriano.
+3. E como se não bastasse a impertinência das alegações acima referidas, inova o então recorrente nestes segundos declaratórios, sustentando que todas as decisões anteriores deste Sodalício tanto da Segunda Turma, quanto da Corte Especial padecem de falta de fundamentação, ilegalidade e inconstitucionalidade, violando vários dispositivos do CPC/2015, da Carta Magna e outros.
+4. Tal postura, além de não encontrar amparo nas hipóteses do artigo 1.022 do CPC/2015 porque inexistentes obscuridade, omissão, contradição ou erro material no julgamento embargado, apenas demonstra o caráter infringente e protelatório deste segundo recurso integrativo.
+5. Incidência da sanção prevista no § 2º do artigo 1.026 do CPC/2015, mediante a fixação de multa de 1% (um por cento) sobre o valor da causa. Precedentes da Corte Especial.
+6. Referida multa será recolhida na forma do § 3º do referido dispositivo legal, por ser o ora embargante beneficiário da Justiça Gratuita.
+7. Embargos declaratórios rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt nos EDcl nos EREsp 1.464.842/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 06/12/2017, DJe 06/02/2018)
+ANTE O EXPOSTO, rejeitam-se os segundos embargos de declaração, com aplicação de multa, fixada em 2% sobre o valor atualizado da causa (cf fl. 31).
+É o voto.
