@@ -1,0 +1,35 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de Tauan de Souza Einecke e Ederson Junior dos Santos - condenados como incursos nos crimes de tráfico de drogas e associação para o tráfico (Apelação Criminal n.70082707605 e Embargos Infringentes e de Nulidade n.70084912054. do Tribunal de Justiça do Rio Grande do Sul) -, sob alegação denulidade verificada na audiência de instrução, decorrente da ausência de requisição dos pacientes para o ato processual, requer-se,em liminar e no mérito, sejam cassados os acórdãosproferidos pela Segunda Câmara Criminal e pelo Primeiro Grupo Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, de modo a reconhecer a nulidade processual a partir da audiência realizada em 15 de abril de 2019(fl. 7).
+É o relatório.
+A ordem não merece concessão.
+Na esteira da orientaçãojurisprudencial desta Corte e do STF, quaisquer nulidades demandam, paradeclaração, prova de efetivo prejuízo, inclusive aquelas verificadas em audiência de instrução, sendo que, especificamente com relação a essa nulidade, também se exige a manifestação oportuna da defesa por ocasião do ato:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. AUSÊNCIA DE REQUISIÇÃO DA RÉ PARA COMPARECER À AUDIÊNCIA DE INSTRUÇÃO REALIZADA POR CARTA PRECATÓRIA. PRECLUSÃO. INCIDÊNCIA DA SÚMULA N.º 523/STF.PREJUÍZO NÃO DEMONSTRADO. AGRAVO DESPROVIDO.
+1. A presença de réu preso em audiência de inquirição de testemunhas, embora recomendável, não é indispensável para a validade do ato, consubstanciando-se em nulidade relativa, cujo reconhecimento exige a efetiva demonstração de prejuízo à Defesa, nos termos do art. 563 do Código de Processo Penal, não verificado na hipótese.
+2. No caso, as instâncias ordinárias assinalaram não ter havido a demonstração de efetivo prejuízo à ora Agravante, sendo certo que o Juízo deprecado, ao realizar a oitiva da testemunha, nomeou Defensor ad hoc para acompanhar o ato, o qual atuou "ativa e diligentemente, inclusive fazendo perguntas às testemunhas".
+3. Agravo regimental desprovido.
+(AgRg no HC n. 451.082/SC, Ministra Laurita Vaz, Sexta Turma, DJe 15/3/2019 - grifo nosso)
+ ..
+11. No que tange à pretensão de reconhecimento da nulidade da instrução processual, desde o interrogatório, por suposta violação do art. 400, do CPP, a Quinta Turma deste Superior Tribunal de Justiça consolidou o entendimento de que, para se reconhecer nulidade pela inversão da ordem de interrogatório,"é necessário que o inconformismo da Defesa tenha sido manifestado tempestivamente, ou seja, na própria audiência em que realizado o ato, sob pena de preclusão. Além disso, necessária a comprovação do prejuízo que o réu teria sofrido com a citada inversão" (HC 446.528/SP, Rel. p/ acórdão Min. Felix Fischer, julgado em 11/9/2018, DJe 20/9/2018), o que não ocorreu na hipótese dos autos.
+12. Agravo regimental não provido.
+(AgRg no AREsp n. 1.573.424/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/9/2020 - grifo nosso)
+HABEAS CORPUS. AUTODEFESA. AUSÊNCIA DO RÉU PRESO NA OITIVA DE TESTEMUNHAS DE ACUSAÇÃO POR MEIO DE CARTA PRECATÓRIA. NULIDADE RELATIVA. FALTA DE COMPROVAÇÃO DO PREJUÍZO. NULIDADE NÃO CONSTATADA.PRISÃO. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. ORDEM DENEGADA.
+1. O direito de presença - como desdobramento da autodefesa (que também comporta o direito de audiência) - assegura ao réu a possibilidade de acompanhar os atos processuais, sendo dever do Estado facilitar seu exercício, máxime quando o imputado está preso, impossibilitado de livremente deslocar-se para o fórum.
+2. Contudo, não se trata de direito indisponível e irrenunciável do réu, tal qual a defesa técnica - conforme positivado no art. 261 do CPP, cuja regra ganhou envergadura constitucional com os arts. 133 e 134 da Carta de 1988 -, de modo que o não comparecimento do acusado às audiências de inquirição das testemunhas de acusação, por meio de carta precatória, não pode ensejar, por si, a declaração da nulidade absoluta do ato, dada a imprescindibilidade da comprovação de prejuízo e de sua arguição no momento oportuno. Precedentes do STF e do STJ.
+3. A falta de requisição de réu preso para a audiência de inquirição das testemunhas de acusação, realizada por meio de cartas precatórias, constitui nulidade relativa, que deve ser apontada em momento oportuno, acompanhada da comprovação de prejuízo efetivo para a parte, o que não ocorreu na hipótese. 4. Por não constatar a nulidade e considerar que o réu permaneceu preso ao longo de toda a instrução processual, bem como já haver sido julgada a apelação (pendente apenas o julgamento dos embargos declaratórios opostos), não há que se falar em excesso de prazo e nem, consequentemente, na necessidade de soltura do paciente.
+5. Ordem denegada.
+(HC n. 333.602/MT, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/4/2017 - grifo nosso)
+ ..
+4. A jurisprudência do Superior Tribunal de Justiça, primando pelasegurança jurídica e lealdade processual, tem se orientado no sentido deque as nulidade denominadas absolutas também devem ser arguidas em momentooportuno, sujeitando-se à preclusão temporal. Precedentes.
+5.Hodiernamente, a jurisprudência desta Corte Superior não admite adeclaração de nulidades por presunção, razão pela qual a parte interessadatem o ônus de demonstrar o prejuízo sofrido pela irregularidade, mesmo noscasos das denominadas nulidades absolutas. Precedentes.  ..
+(HC n. 344.693/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe15/2/2017)
+No caso, a defesa não manifestou nenhuma oposição à realização do ato processual, e o acórdão atacado firmou a ausência dedemonstração de prejuízo concreto aos pacientes -conclusão essa que não foi sequer infirmada na presente impetração -, circunstâncias que obstam a declaração de nulidade almejada
+Eis o que constou do acórdão impugnado (fl. 643):
+ ..
+O fato de os réus não terem sido conduzidos para comparecimento às audiências não, torna nulo os atos, porque, conforme disposto no art. 563 do CPP, "Nenhum ato será declarado nulo, se da nulidade não resultar preludio para a acusação ou para a defesa." No caso dos autos, não foi demonstrado qualquer prejuízo aos réus, e, ademais, observa-se pelo termo de audiência (fls. 178 e 191) que o Defensor Dativo nomeado ao ato não manifestou qualquer objeção a realização do ato em face da ausência dos acusados, razão pela qual não vislumbro a alegada nulidade, restando preclusa tal alegação.
+Ademais, a altiva foi acompanhada tanto pelo Ministério Público, como pela Defesa nomeada para o ato, sendo oportunizado devidamente a possibilidade de contraditar e questionar as testemunhas.
+ ..
+Ante o exposto, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS.TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. SUPOSTA NULIDADE NA AUDIÊNCIA DE INSTRUÇÃO POR AUSÊNCIA DE REQUISIÇÃO DOS PACIENTES. IMPROCEDÊNCIA. DEFESA QUE MANIFESTOU OPOSIÇÃO AO ATO PROCESSUAL. PRECLUSÃO. INEXISTÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO CONCRETO. ART. 563 DO CPP. PRECEDENTES DESTA CORTE.
+Ordem denegada.
