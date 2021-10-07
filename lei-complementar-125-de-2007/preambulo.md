@@ -1,0 +1,2 @@
+Institui, na forma do art. 43 da Constituição Federal, a Superintendência do Desenvolvimento do Nordeste - SUDENE; estabelece sua composição, natureza jurídica, objetivos, áreas de atuação, instrumentos de ação; altera a Lei nº 7.827, de 27 de setembro de 1989, e a Medida Provisória nº 2.156, de 24 de agosto de 2001; revoga a Lei Complementar nº 66, de 12 de junho de 1991; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
