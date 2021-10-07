@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Orlando Antonietto Júnior ajuizou ação de reparação de danos contra a Prefeitura Municipal de Fazenda Rio Grande/PR e o particular Geraldo de Souza Ramalhoobjetivando tutela jurisdicional da pretensão de indenização por danos materiais e lucros cessantes, decorrentes de acidente de trânsito de que foi vítima, provocado por veículo (ambulância) de propriedade do ente federado, primeiro réu, que na ocasião era conduzido pelo segundo corréu.
+O Tribunal de Justiça do Estado do Paraná, em grau recursal, negou provimento ao recurso de apelação da municipalidade, mantendo incólume a decisão monocrática de parcial procedência da ação com a condenação do ente federado ao pagamento apenas de lucros cessantes (fls. 242-247), nos termos da seguinte ementa (fl.296):
+APELAÇÃO CÍVEL. ACIDENTE DE TRÂNS:TO, RESPONSABILIDADE OBJETIVA DO MUNICÍPIO. COLISÃO ENVOLVENDO AMBULÂNCIA QUE ADENTROU NO CRUZAMENTO NO SINAL VERMELHO, SEM O DEVIDO CUIDADO, ATINGINDO A MOTOCICLETA ONDE ESTAVA O AUTOR, CAUSANDO-LHES FERIMENTOS. DANO E NEXO CAUSAL DEMONSTRADOS.BOLETIM DE OCORRÊNCIA QUE GOZA DE PRESUNÇÃO DE VERACIDADE "JURIS TANTUM". CONDUTOR DA AMBULÂNCIA QUE, APESAR DO VEÍCULO ESTAR COM A SIRENE IGADA, NÃO AGIU COM CAUTELA, AO TRANSPOR UM CRUZAMENTO COM O SINAL FECHADO. AUSÊNCIA DAS EXCLUDENTES DA RESPONSABILIDADE. DANOS MATERIAIS. CORREÇÃO MONETÁRIA.INCIDÊNCIA A PARTIR DA DATA DO EVENTO DANOSO. IPCA-e. JUROS DE MORA DE 1% AO MÊS (ART. 406 DO CC). ALTERAÇÃO DA DECISÃO DE OFÍCIO. HONORÁRIOS ADVOCATÍCIOS FIXADOS ADEQUADAMENTE PELO MAGISTRADO. MANUTENÇÃO. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram eles parcialmente acolhidos para suprir omissão quanto à incidência do art. 1º-F da Lei n. 9.494 de 1997, (fls. 353-358).
+Município de Fazenda Rio Grande/PR interpôs recurso especial, fundamentado no art.105, III, a, da Constituição da República, no qual aponta contrariedade ao art. 535, II, do CPC de 1973, visto que, em suma, quedou-se silente a Corte Estadual do enfrentamento do conteúdo dos arts. 29, VII, e 189 do Código de Trânsito Brasileiro.
+Aduz contrariedade aos mesmos dispositivos legais, tidos como não enfrentados no aresto recorrido, sob a alegação da responsabilidade exclusiva do recorrido pelo acidente de trânsito no qual se julga na condição de vítima, porquanto não teria dado preferência à passagem da ambulância que estaria em serviço de urgência e devidamente identificada por dispositivos regulamentares de alarme sonoro e iluminação.
+Não foram ofertadas contrarrazões, e o recurso especial não foi admitido pelo Tribunal a quo (fls. 401-402), tendo sido interposto agravo.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nesta parte, negar-lhe provimento."
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ACIDENTE DE TRÂNSITO.RESPONSABILIDADE OBJETIVA DO MUNICÍPIO. ALEGADA VIOLAÇÃO DO ART. 1022 DO CPC/2015.NÃO VERIFICADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.IMPOSSIBILIDADE. SÚMULA N.7/STJ.
+I - Trata-se de ação de reparação de danos objetivando tutela jurisdicional da pretensão de indenização por danos materiais e lucros cessantes, decorrentes de acidente de trânsito de que foi vítima, provocado por veículo (ambulância) de propriedade do ente federado, primeiro réu, que na ocasião era conduzido pelo segundo corréu.
+II - O Tribunal de Justiça do Estado do Paraná, em grau recursal, negou provimento ao recurso de apelação da municipalidade, mantendo incólume a decisão monocrática de parcial procedência da ação com a condenação do ente federado ao pagamento apenas de lucros cessantes.
+III - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - Relativamente à alegação de contrariedade aos arts. 29, VII, e 189 do CTB, a Corte Estadual, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Relativamente àalegação de contrariedade aos arts. 29, VII, e 189 do CTB, a Corte Estadual, a Cortea quoanalisou os argumentos da parte com os seguintes fundamentos:
+ ..
+Alega o apelante que o dano não decorreu da conduta do servidor, inexistindo nexo de causalidade no evento lesivo, sendo o apelado o causador do acidente.
+Contudo, restou evidenciada a presença de nexo causal entre o fato danoso, consubstanciado na colisão com o apelado e conduta da Administração, traduzida na condução do veículo automotor por servidor público municipal.
+Consta no boletim de ocorrência, que a ambulância transitava na Rua José de Alencar, nesta Capital, e transpôs o sinal vermelho, em alta velocidade, quando o autor que trafegava na motocicleta, na pista da Av. Souza Naves, não parou, vindo a causar a colisão (fls. 21 e 22).
+Dessarte, ainda que não lenha sido produzida prova testemunhal, os elementos constantes dos autos revelam que quem causou o acidente foi o motorista da ambulância, ao não tomar as cautelas necessárias antes de transpor a via pública.
+Cumpre notar que o fato de a ambulância ter preferência de passagem, bem como estar com a sirene ligada, não a autoriza a desrespeitar as normas de trânsito, ao transpor o cruzamento com o sinal fechado sem reduzir a velocidade, ignorando os demais automóveis.
+O fato de o autor, condutor da motocicleta, não ter dado passagem à ambulância, não gera culpa concorrente, na medida em que este não infringiu norma de trânsito, tampouco foi o motivo determinante para a ocorrência do acidente.
+ ..
+Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
