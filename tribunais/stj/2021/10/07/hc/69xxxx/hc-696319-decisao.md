@@ -1,0 +1,24 @@
+DECISÃO
+MARCELO PEREIRA NASCIMENTOrequer a reconsideração da decisão de fls. 127-128, por meio da qual indeferi liminarmente este habeas corpus, em razão da insuficiência da instrução.
+Diante da juntada a peça faltante (fls. 142-145), reconsidero o referido decisum e passo ao exame do pedido.
+O impetrante busca o restabelecimento da decisão do Juiz da execução que deferiu ao paciente a progressão ao regime semiaberto.
+A Corte de origem, ao reformar a decisão primeva, ressaltou que, " n ão se pode ignorar  .. que o sentenciado, ao longo de sua estadia carcerária, praticou sete faltadisciplinares de natureza grave (evasão, tentativa de fuga, abandono, apologia ao crime e posse de entorpecente), o que parece mesmo exigir maior cautela" .
+O exame criminológico é o estudo sobre a personalidade do reeducando, com foco na observação de sua periculosidade, com o objetivo de auxiliar o Juiz a realizar um prognóstico de reiteração delitiva. Com a Lei n. 10.792/2003, a perícia deixou de ser requisito obrigatório para a progressão de regime, mas, como o legislador não proibiu sua realização, o Magistrado pode exigi-la, para auxiliar a formação de sua convicção, desde que fundamente a necessidade da prova de maneira idônea, com lastro em dados relacionados à execução penal.
+Dito isso, não verifico a possibilidade de conceder a ordem.
+Ao compulsar a guia penal, depreende-se que o sentenciado foi preso em flagrante nos anos de 1990, 2007e 2018. Suas faltas disciplinares são: a) entorpecente, 12/8/2018; b) apologia ao crime, 18/4/2012; c) abandono (saída temporária), 16/3/2010; d) abandono, 19/10/2007; e) evasão, 17/10/2003;f) tentativa de fuga, 15/3/2001; g) evasão, 31/3/1992.
+Consta, ainda, no referido documento, o seguinte histórico de abandonos de cumprimento de pena (fl. 61):
+a) abandono livramento condicional - de 26/7/2017 e 14/1/2018 (preso em flagrante);
+b) prisão em flagrante durante vigência de livramento condicional - 27/9/2013 a 11/3/2014;
+c) abandono - de 16/3/2010 a 20/7/2011 (preso em flagrante - fl. 66);
+d) abandono - de 16/10/2007 a 12/12/2007 (preso em flagrante - fl. 66);
+e) abandono - de 17/10/2003 a 2/4/2004;
+f) abandono - de 31/3/1992 a 6/10/1992.
+Destaco que o últimoabandono do pacienteocorreu em 26/7/2017 -quando estava em livramento condicional -e findou-se em 14/1/2018, quando foi preso em flagrante pela suposta prática de novo delito (execução n. 8 - fl. 68).
+O período de reabilitação das faltas, previsto nos códigos penitenciários de cada unidade federativa, não pode ser adotado como referência para ignorar o comportamento do reeducando, sob pena de transformar o Juiz da Execução em mero chancelador de documentos emitidos pela unidade prisional.
+Ademais, regimentos internos de unidades penais não vinculam o Poder Judiciário na análise de benefícios do sistema progressivo, pois é certo que somente a União pode legislar sobre a lei penal. Normas de organização interna, dizem respeito à classificação administrativa do comportamento dos detentos, para fins de separação, emissão de atestados e demais providências intramuros.
+Para aplicação da lei de execução penal, não existe previsão sobre o período depurador do ato de indisciplina. Assim, é necessário suprir a lacuna. Por analogia à legislação federal, o julgador poderá valer-se, por exemplo, de normas que regulamentam a perda dos efeitos de uma tendência antissocial (arts. 64, I, e 94, ambos do CP) ou mesmo do entendimento jurisprudencial sobre a prescrição da pretensão disciplinar (3 anos), sempre atento às características da falta grave e ao montante de pena a cumprir, para evitar o efeito ad eternum da conduta desabonadora.
+Ante a natureza das faltas (em sua maioria, fuga),seu histórico prisional(o apenado abandonou a execução por 6 vezes e, nas últimas 4, retornou ao sistema penitenciário em razão de prisõesem flagrante) e reiteração, utilizo como parâmetro, para análise do caso concreto, a norma mais severa que, no Código Penal, dispõe sobre o período depurador de cinco anos relacionado à perda dos efeitos da reincidência (art. 64, I, do CP).
+Verificado que transcorreu pouco mais de três anos desde a última falta grave, esse período é insuficiente para relevar a conduta do apenado e para concluir, indene de dúvidas, que ele tem capacidade de ser transferido ao regime menos rigoroso, sem frustrar novamente a execução. Não considero aplicável, em seu benefício, o direito ao esquecimento.
+O acórdão recorrido está em conformidade com o teor da Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". Dito isso, não verifico patente ilegalidade ao direito de ir e vir do sentenciado.
+À vista do exposto, reconsidero a decisão de fls. 127-128 eindefiro liminarmenteo habeas corpus.
+Publique-se e intimem-se.
