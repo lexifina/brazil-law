@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Adriana Oliveira dos Santos da Silva, na execução de pena privativa de liberdade de 11 anos e 4 meses de reclusão, em razão de condenação pela prática dos crimes de homicídio qualificado e ocultação de cadáver (fl. 181).
+Ataca-se acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2209954-23.2021.8.26.0000 (fls. 179/183), quecondicionou a análise do pedido de progressão ao regime semiaberto à realização de exame criminológico, proferida na Execução n. 0013278-13.2021.8.26.0041 (fls. 164/165), da Unidade Regional de Departamento Estadual de Execução Criminal (DEECRIM 1ª RAJ) da comarca de São Paulo/SP.
+Alega-se, em síntese, que não se pode fundamentar a realização do exame pela gravidade abstrata do delito ou suas consequências (fl. 6) e requer-se a concessão da ordem para que se determine ao Juízo de primeiro grau o julgamento do pleito referente à progressão de regime de acordo com os requisitos estabelecidos pela LEP, independentemente da realização de exame criminológico (fl. 9).
+É o relatório.
+Sobre o tema, tem-se que, para este Tribunal Superior, admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Enunciado n. 439 da Súmula do STJ, Terceira Seção, DJe 13/5/2010).
+Ao que se tem, a necessidade de realização de exame criminológico foi fundamentada pelo Juízo da execução penal, aos seguintes fundamentos (fl. 164):
+Ante a peculiaridade do caso, em que pese o cumprimento do requisito objetivo necessário à obtenção do benefício, consoante cálculo de fls. 59/60, faz-se necessária uma análise mais profunda da personalidade do reeducando e de suas reais condições para ser beneficiado com a progressão de regime e retornar, ao convívio social.
+Isso porque a sentenciada possui condenação pela prática de homicídio doloso qualificado (crime hediondo) contra o próprio cônjuge, bem como ocultação de cadáver. Com efeito, é absolutamente razoável, e por que não dizer recomendável, que, em casos tais, em razão da gravidade em concreto da conduta perpetrada e à vista dos demais elementos constantes dos autos, o magistrado tenha cautela e socorra-se de técnicos para auxiliá-lo na formação do seu convencimento sobre a conveniência da progressão do sentenciado para regime de cumprimento de pena mais brando.
+Convém destacar ainda que o regime aberto baseia-se na autodisciplina e senso de responsabilidade do condenado, o que torna ainda mais imprescindível a necessidade de um prognóstico minimamente favorável.
+Por sua vez, a Corte estadual afastou a alegação mandamental, ao fundamento de que o MM. Juiz justificou a necessidade do exame criminológico com base na gravidade concreta dos delitos praticados pela paciente  homicídio qualificado e ocultação de cadáver  , e para averiguar a sua personalidade, sua periculosidade, eventual arrependimento e a possibilidade de voltar a cometer crimes (fl. 183).
+Então, razão assiste à impetração, pois,a teor da jurisprudência pacífica desta Corte, a longa pena a cumprir e a gravidade do crime praticado pelo sentenciado, por si sós, não justificam a determinação da prova, pois são fatores não relacionados ao período de resgate da pena (AgRg no HC n. 656.265/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/6/2021).
+Nesse mesmo sentido: HC n. 653.014/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/4/2021.
+Conclui-se, então, que a impetração evidenciou constrangimento ilegal na decisão ora hostilizada.
+Em razão disso, concedo liminarmente a ordem impetrada para determinar ao Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal (DEECRIM 1ª RAJ) da comarca de São Paulo/SP que analise o pedido de progressão de regime prisional formulado pela paciente na Execução n. 0013278-13.2021.8.26.0041, independentemente da realização de exame criminológico.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. NECESSIDADE. FUNDAMENTAÇÃO. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
