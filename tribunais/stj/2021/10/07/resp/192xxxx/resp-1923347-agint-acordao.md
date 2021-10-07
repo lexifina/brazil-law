@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Município de Lençóis Paulista contra decisão que não conheceu do recurso especial, sob os seguintes fundamentos: (I) ausência de prequestionamento da matéria pertinente aos arts. 123, I e § 1º, e 134 do Código de Trânsito Brasileiro (Súmula 282/STF); e (II) incidência da Súmula 7 do STJ.
+A parte agravante, em suas razões, sustenta que: (I) "se viu tolhido do seu direito de corrigir o vício de fundamentação recursal, consoante dispõe o artigo 932, parágrafo único do Novo Código de Processo Civil" (fl. 176); (II) os artigos violados foram objeto de debate do acórdão recorrido; e (III) "por não tratar-se de reexame dos fatos, mas sim por ofensa à legislação federal, forçoso o raciocínio pelo provimento do agravo para que o Recurso Especial seja conhecido, processado e provido, declarando a fraude à execução e, assim, para se restabelecer a legalidade da cobrança do crédito tributário, revertendo-se os ônus sucumbenciais." (fl. 180).
+Transcorrido in albis o prazo para a impugnação (fl. 189).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 282/STF. ACÓRDÃO RECORRIDO ALICERÇADO NO ACERVO FÁTICO-PROBATÓRIO. REFORMA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. A matéria pertinente aos arts. 123, I e § 1º, e 134 do Código de Trânsito Brasileiro não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. A alteração das conclusões adotadas pela Corte de origem quanto à inocorrência defraude à execução, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3.O não conhecimento do especial pela alínea a do permissivoconstitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Registre-se, inicialmente, que, nos termos da jurisprudência desta Corte Superior, oprazo referido no art. 932, parágrafo único, do CPC/2015só se aplica aos casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto, como no caso concreto.A propósito: AgInt no AREsp 692.495/ES, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 18/8/2016; AgInt no REsp 1.389.204/MG, Rel. Ministro Og Fernandes, Segunda Turma,DJe 3/8/2020; eAgInt no AREsp 1.490.629/SP, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 25/8/2021.
+No mais, airresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Colhe-se dos autos que o recurso especial foi interposto pelo Município de Lençóis Paulista,com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 57):
+APELAÇÃO interposta pela Municipalidade. Execução fiscal. Embargos de terceiro. Bloqueio judicial de bem pertencente a terceiro. Conjunto hábil a demonstrar a propriedade do bem. Má-fé e manobra fraudulenta não demonstradas. Sentença mantida. RECURSO DESPROVIDO.
+Nas razões do recurso especial, o município recorrente defendeu a ocorrência de fraude à execuçãocom base nos arts. 185 do CTN e 123, I e § 1º, e 134 do Código de Trânsito Brasileiro, assim como a existência de dissídio pretoriano.
+Não houve contrarrazões (fl. 117).
+Às fls. 144/146, proferi decisão determinando o retorno dos autos à Corte de origem para adequação ao que decidido no REsp 1.141.990/PR (Tema 290/STJ). Na sequência, o órgão colegiado local compreendeu ser desnecessária a retratação, considerando que o acórdão antes proferido não destoa do que decidido no repetitivo. Confira-se a ementa do julgado (fl. 155):
+ADEQUAÇÃO - Devolução dos autos para a Turma Julgadora por determinação do D. Presidente da Seção de Direito Público - REsp nº 1.141.990/PR - Tema nº 290/ STJ (fraude à execução fiscal) - Desnecessária adequação do acórdão porque não há provas de que não haja bens suficientes a saldar a dívida - ACÓRDÃO NÃO ADEQUADO.
+A decisão agravada não conheceu do apelo raro baseando-se em dois alicerces: (I) ausência de prequestionamento dos arts. 123, I, § 1º, do Código de Trânsito Brasileiro (Súmula 282/STF); e (II) incidência do obstáculo da Súmula 7/STJ, porquanto a revisão do que decidido pela Corte local demandaria exame de matéria fática.
+De fato, verifica-se que não houve o prequestionamento dos arts. 123, I,§ 1º, e 134 do Código de Trânsito Brasileiro, e a parte ora agravante nem sequer opôs aclaratórios para suprir eventual omissão, sendo inafastável o óbice da Súmula 282/STF no ponto.
+Oportuno relembrar que, para a jurisprudência deste STJ, o prequestionamento da matéria pressupõe o efetivo debate pelo Tribunal a quo sobre a tese jurídica veiculada nas razões do recurso especial, não sendo suficiente, para tanto, que a questão tenha sido suscitada pelas partes nos recursos que aviaram perante aquele Sodalício.
+A propósito:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO SUPERVENIENTE EM SEDE DE RECURSO ESPECIAL. REQUISITO CONSTITUCIONAL DO PREQUESTIONAMENTO. MATÉRIAS DE ORDEM PÚBLICA.
+1. Para a apreciação de matéria pelo STJ no julgamento de recurso especial, é necessário ter havido o efetivo debate da legislação infraconstitucional no Tribunal de origem.
+2. Não cabe a apreciação de direito superveniente invocado pela parte somente em recurso especial e no STJ, em face do não cumprimento do requisito constitucional do prequestionamento.
+3. A exigência do prequestionamento prevalece também quanto às matérias de ordem pública.
+4. Embargos de divergência rejeitados.
+(EREsp 805.804/ES, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 01/07/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ART. 5º DA LINDB. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PRÁTICA ABUSIVA. VALOR DA MULTA. VERIFICAÇÃO DE CRITÉRIOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. NORMA LOCAL. SÚMULA 280/STF. PORTARIA PROCON. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido.  ..
+6. Agravo interno não provido.
+(AgInt no AREsp 1.145.530/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 31/10/2017)
+Adiante, confira-se o excerto pertinente à configuração ou não de fraude à execução(fls. 156/157):
+É certo que restou assentado no REsp nº 1.141.990/PR - Tema nº 290/ STJ que considera-se fraudulenta a alienação ocorrida depois do lançamento do débito em dívida fiscal. Contudo, há que se levar em conta que deve o devedor executado não possuir bens suficientes para saldar a dívida, o que não restou comprovado nos autos.
+Assim, para que a venda seja fraudulenta e, por consequência anulada, deve ser comprovada a ausência de outros bens ou meios financeiros para pagar a dívida, de acordo com o decidido no REsp nº 1.141.990/PR, in verbis:
+Conclusivamente: (a) a natureza jurídica tributária do crédito conduz a que a simples alienação ou oneração de bens ou rendas, ou seu começo, pelo sujeito passivo por quantia inscrita em dívida ativa, sem a reserva de meios para quitação do débito, gera presunção absoluta (jure et de jure) de fraude à execução (lei especial que se sobrepõe ao regime do direito processual civil);
+Grifamos.
+Portanto, a fraude somente é caracterizada se ocorrer a venda do bem, feita quando já lançado o débito tributário em dívida ativa, sem que o devedor tenha outros meios de saldar o débito, o que não restou comprovado no autos.
+Por isso, o acórdão não deve ser adequado, estando de acordo com o decidido no REsp 1.141.990/PR.
+Assim, a alteração das conclusões adotadas pela Corte local, quanto à inocorrência de fraude à execução, considerando-se que não há a notícia nos autos de inexistência de outros bens ou meios financeiros para pagar a dívida,tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por fim, o não conhecimento do apelo raro pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano.
+Nessa esteira:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. OCORRÊNCIA DE DANO MORAL. SÚMULA 7/STJ. REVISÃO DO VALOR DA INDENIZAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não deve ser afastada a incidência da Súmula 7/STJ na hipótese em apreço. O Tribunal de origem, soberano na análise do conjunto fático probatório dos autos, concluiu que "a prisão indevida do consumidor, em razão de imputação de furto de energia elétrica não cometido por este, constitui ato ilícito e legitima o prejudicado a buscar reparação pelo dano moral suportado" e que o valor arbitrado à título de danos morais é adequado para os parâmetros do caso. Assim sendo, a reversão do entendimento exposto no acórdão, como pretende o recorrente, exige o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+2. Frise-se que o Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie.
+3. Ressalte-se, por fim, que o mesmo óbice imposto à admissão do Recurso Especial pela alínea "a" do permissivo constitucional obsta a análise recursal pela alínea "c", restando o dissídio jurisprudencial prejudicado.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1.665.976/MS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/11/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO DA PRESIDÊNCIA DO STJ. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS. SÚMULA 211/STJ. ALEGAÇÕES DISSOCIADAS. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS 284 E 283 DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Inadmissível o recurso especial referente à tese de ofensa ao art. 85, §§ 1º e 8º, do Código de Processo Civil de 2015, a despeito da oposição de embargos declaratórios, o qual não foi objeto de análise, nem sequer implicitamente pela Corte de origem. Incidência do óbice da Súmula 211 do STJ.
+2. A apresentação de razões dissociadas e a falta de impugnação específica à fundamentação adotada no acórdão, capaz por si só de manter o resultado do julgado, inviabilizam o conhecimento do recurso. Incidem à hipótese as Súmulas 284 e 283 do STF.
+3. O mesmo óbice imposto à admissão do recurso especial pela alínea a do art. 105, III, da CF - aplicação das Súmulas 211 do STJ e 283 e 284 do STF - obsta a análise recursal pela alínea c, ficando o exame do dissídio jurisprudencial prejudicado.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.658.980/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 16/09/2020)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
