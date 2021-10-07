@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por GILSON CARLOS CAMARA, contra acórdão que, nos termos de minha relatoria, por unanimidade, não foi provido o agravo interno, assim ementado (e-STJ, fl. 295):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. TEMPESTIVIDADE DO APELO NOBRE NÃO COMPROVADA. AUSÊNCIA DE JUNTADA DE DOCUMENTO IDÔNEO QUE ATESTE A SUSPENSÃO DOS PRAZOS NA INTÂNCIA DE ORIGEM DURANTE O FERIADO DE CORPUS CHRISTI. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+Em suas razões recursais a parte alega que "o v. acórdão embargado padece de contradição e erro material (pois, baseado em premissa equivocada), uma vez que independentemente da ausência de comprovação da suspensão do prazo no dia 11/06/2020 (feriado de Corpus Christi),o recurso especial interposto em 23/06/2020 é cabalmente tempestivo, porquanto se fosse considerado comprovada a suspensão do prazo no dia 11/06/2020, o termo final para apresentar o apelo nobre se daria em 24/06/2020" (e-STJ, fl. 300).
+Impugnação apresentada às fls. 308/311.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. Embargos de declaração rejeitados.
+VOTO
+Eminentes colegas, os presentes embargos de declaração não devem ser acolhidos.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese, pois todas as questões aduzidas em sede de especial foram devidamente analisadas.
+Nas razões do declaratório, a parte afirmou que "o v. acórdão embargado padece de contradição e erro material (pois, baseado em premissa equivocada), uma vez que independentemente da ausência de comprovação da suspensão do prazo no dia 11/06/2020 (feriado de Corpus Christi),o recurso especial interposto em 23/06/2020 é cabalmente tempestivo, porquanto se fosse considerado comprovada a suspensão do prazo no dia 11/06/2020, o termo final para apresentar o apelo nobre se daria em 24/06/2020" (e-STJ, fl. 300).
+Ocorre que, consoante se depreende da leitura dos autos, a parte recorrente foi intimada do acórdão recorrido em 15/05/2020, sendo o recurso especial interposto somente em 23/06/2020. Levando em consideração que o prazo se iniciou no dia 1º de junho de 2020, pois os prazos estavam suspensos do dia 14 ao dia 31 de maio, e que no dia 12/06/2020 não houve expediente forense, todos devidamente comprovados, o prazo final para a interposição do especial foi o dia 22/6/2020.
+Quanto a alegação de que dia 11/06/2020 foi feriado, éde se ressaltar que "esta Corte adota o entendimento de que o Dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar nos autos, por documento idôneo, a suspensão do expediente forense no Tribunal local, o que não ocorreu na hipótese" (AgInt no AREsp 1784619/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/04/2021,DJe 15/04/2021). Assim, a parte apenas fez juntar aos autos uma cópia da Lei Federal que instituiu a data, mas sem fazer referência quanto a suspensão no Tribunal local.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Ilustrativamente, veja-se o seguinte precedente: EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Nesse contexto, advirta-se que a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
