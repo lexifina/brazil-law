@@ -1,0 +1,23 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL. DIREITO INTERNACIONAL PÚBLICO. EXPULSÃO DE ESTRANGEIRO. ALEGAÇÃO DE OFENSA À AL. B DO INC. II DO ART. 55 DA LEI N. 13.445/2017. COMPETÊNCIA DECLINADA. REMESSA DOS AUTOS AO SUPERIOR TRIBUNAL DE JUSTIÇA. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Habeas Corpus, com requerimento de medida liminar, impetrado por Marcos Pereira Sousa e outro, advogados, em favor de Arturo Caminati, em que se questiona a “Portaria do Ministério da Justiça n. 0766, publicada no dia 1º de maio de 2006”, pela qual teria sido determinada a expulsão do paciente do território brasileiro.
+    2. Narra-se na inicial que
+    “o paciente foi preso em flagrante delito no Brasil processado e condenado por trafico de drogas e posteriormente expulso deste país através de Decreto de Autorização de Expulsão 11771365 e Termo de Expulsão 11771414, de 21 DE NOVEMBRO DE 1991, de maio de 2006.
+    Ocorre que o paciente já cumpriu toda a pena imposta a sua pessoa, bem como é casado com uma braseira (doc. anexo) razão pela qual tentou reingressar neste pais entretanto foi deportado ainda no aeroporto sob alegação de ainda estar vigente o decreto de expulsão.
+    Em que pesem os argumentos lançados para impor a expulsão, ao paciente, não pode ser aplicado tal penalidade de maneira perpetua, pois o mesmo já cumpriu toda a pena imposta na condenação, bem como se enquadra em hipótese que impede o cabimento de tal sanção”. (fl. 2, e-doc. 1)
+    Sustentam os impetrantes ofensa à al. b do inc. II do art. 55 da Lei n. 13.445/2017, afirmando-se que “o estrangeiro que tiver cônjuge ou poderá recorrer a quem competir de direito para que possa avaliar e conceder visto de permanência”. (fl. 3, e-doc. 1)
+    Asseveram que “a expulsão deverá durar no máximo o tempo de pena aplicada no Brasil, já tendo o paciente cumprido toda a pena imposta”. (fl. 3, e-doc. 1)
+    São os requerimentos e o pedido:
+    “Por todo o exposto, restando configurado o fumus boni iuris, demonstrado no contexto da fundamentação jurídica do presente habeas corpus, em que a situação fática, de forma escorreita, subsumiu-se a orientação jurisprudencial desta corte Superior de Justiça, bem como o periculum in mora, em vista do constrangimento ilegal imposto ao paciente vem requerer a Vossa Excelência que seja concedida LIMINARMENTE a presente ORDEM DE HABEAS CORPUS … no sentido de que seja[m] suspenso[s] os efeitos da portaria de expulsão contra … ARTURO CAMINATI, de 31 de maio de 2006, que determinou a expulsão do paciente, uma vez que já cumpriu toda a pena importa, não havendo no Brasil pena de caráter perpétuo conforme preceitua a CFRB-1988 e ele se encontra resguardado por hipótese de não expulsabilidades previstas no art. 75 da Lei n° 6.815/80, requerendo, ademais: a) seja o presente habeas corpus distribuído a um dos eminentes Ministros deste Tribunal; b) sejam solicitadas as informações de estilo; c) seja colhido o parecer do Ministério Público Federal; d) seja revogada a Portaria de expulsão de Arturo Caminatti de 21 de novembro de 1991, de maio de 2006 que determinou a expulsão do paciente do território nacional”. (fls. 5-6, e-doc. 1)
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. Pelo que se depreende da petição inicial, o ato questionado e apontado como coator nesta ação, não juntado aos autos pelos impetrantes, teria sido portaria do Ministério da Justiça.
+    A competência do Supremo Tribunal Federal para julgar habeas corpus é determinada constitucionalmente em razão do paciente ou da autoridade coatora (al. i do inc. I do art. 102 da Constituição da República).
+    No rol constitucionalmente afirmado não se inclui atribuição do Supremo Tribunal para processar e julgar, originariamente, ação de habeas corpus contra ato de Ministro de Estado.
+    A matéria não admite discussão mínima, por se cuidar de regra de competência constitucional expressa, que não possibilita interpretação extensiva.
+    4. Conforme se dispõe na al. c do inc. I do art. 105 da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar originariamente “os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea a, ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral”.
+    5. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e determino a imediata remessa dos autos ao Superior Tribunal de Justiça para análise do alegado.
+    Publique-se.
+    Brasília, 7 de outubro de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
