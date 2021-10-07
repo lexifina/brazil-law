@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de recurso especial interposto por NICOLINA MINICHILLO ARAÚJO e OUTROS,no qual se discute "reintegração de posse instaurada pela União contra os recorrentes no ano de 1982, sob o fundamento de que os recorrentes estariam supostamente ocupando imóvel de sua propriedade, por ter sido objeto de confisco realizado com base em decretos expedidos na década de 1970 de bens de propriedade da ESTRADA DE FERRO PERUS-PIRAPORA S/A. e da COMPANHIA BRASILEIRA DE CIMENTO PORTLAND PERUS da família de JOSÉ JOÃO ABDALLA FILHO" (e-STJ fl. 576).
+Por se tratar de matéria de direito público, a apreciação do presente recurso foge à competência desta 2ª Seção, a teor do que dispõe o art. 9º, § 1º, II,VII e XIVdo RISTJ.
+Assim sendo, determino a remessa dos autos à Coordenadoria de Análise e Classificação de Temas Jurídicos e Distribuição de Feitos - CTJU, para a redistribuição dos autos a uma das Turmas da 1ª Seção deste Tribunal.
