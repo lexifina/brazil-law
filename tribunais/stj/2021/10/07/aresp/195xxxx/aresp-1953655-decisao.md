@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Agravo, interposto por RAIZEN ENERGIA S/A, mediante o qual se impugna decisão que inadmitiu seu Recurso Especial, esse tirado de acórdão, promanado do Tribunal Regional Federal da 3ª Região, assim ementado:
+"EMBARGOS À EXECUÇÃO FISCAL - PROCESSO CIVIL -LITISPENDÊNCIA CONFIGURADA - ERRO FAZENDÁRIO AO CANCELAR AS INSCRIÇÕES EM DÍVIDA ATIVA DA EXECUÇÃO INAUGURAL, NÃO A LITISPENDENTE, QUE INOPONÍVEL AO DEBATE, CUIDANDO-SE DE PROVIDÊNCIAS INTERNAS AO PRÓPRIO ERÁRIO - HONORÁRIOS - CAUSALIDADE CONTRIBUINTE EVIDENCIADA - EXCLUSÃO DA VERBA HONORÁRIA - PROCEDÊNCIA AOS EMBARGOS - PARCIAL PROVIMENTO À APELAÇÃO FAZENDÁRIA E À REMESSA OFICIAL.
+1. A significar a litispendência a reiteração de demanda a conter, em repetição, os elementos essenciais da ação, de molde a existir identidade entre os da primeira e da segunda causa, revela-se presente enfocado vício processual.
+2. Destaque-se que a duplicidade de cobrança é incontroversa.
+3. Efetivamente, "data venia", inoponível maior ou menor organização/desorganização interna do Erário, tanto quanto maior ou menor afinamento entre cliente e Advocacia, ao sentido de que o feito litispendente, autos 0010371-63.2007.403.6109, o segundo, este a ser extinto, ao mais incumbindo ao Poder Público o conjunto de providências tocante à execução fiscal primeva, a qual nada a ter a ver com o açodado ajuizamento executivo da última, de novo "data venia".
+4. Exprime a honorária sucumbencial, como de sua essência e assim consagrado, decorrência do exitoso desfecho da causa, em prol de um dos contendores, de tal sorte a assim se recompensar seu patrono, ante a energia processual dispendida, no bojo do feito.
+5. Neste cenário, presente pacificação ao rito dos Recursos Representativos da Controvérsia a respeito da necessidade de apuração da causalidade, para fins de arbitramento da verba honorária advocatícia (Resp 1.111.002).
+6. Com razão a União ao apontar que a causalidade para a demanda decorre de erro praticado pelo contribuinte, que retificou declaração de débito que já estava parcelado e, com isso, ensejou a duplicidade em questão, ID 86113485 - Pág.76, devendo ser excluída a sujeição fazendária sucumbencial, conforme o pedido contido no apelo.
+Ausentes honorários recursais, porque sentenciada a causa sob a égide do CPC/1973, Súmula Administrativa nº 2, STJ, EDcl no AgInt no REsp 1.573.573/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 04/04/2017, DJe08/05/2017.
+Parcial provimento à apelação e à remessa oficial, parcialmente reformada a r. sentença, unicamente para excluir a sujeição sucumbencial a cargo da União, na forma aqui estatuída" (fls. 390/391e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta a existência de dissenso pretoriano e violação aoart. 85, § 3º, do CPC/2015.
+Sustenta, em síntese, que:
+"(..)o REQUERIMENTO DE PROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO se deu em razão da cobrança em duplicidade, devidamente reconhecida pela Recorrida, sendo esta a única razão para a apresentação dos embargos à execução. Ademais, ainda que houvesse apresentação de declarações retificadoras, o fato é que, antes do ajuizamento da execução fiscal correspondente, caberia ao fisco verificar todas as condições da ação, inclusive, cobrança em duplicidade.
+Assim, é incontroverso o fato de que houve a apresentação dos presentes embargos por contada cobrança em duplicidade reconhecida pela União e com ajuizamento de execução fiscal.
+Sendo assim, a Recorrente teve a necessidade e o ônus com a contratação de advogado, bem como com o alto custo para a constituição da garantia, o que demonstra o interesse de agir na data em que ajuizada a ação, por culpa da União.
+Ainda, importante esclarecer, que a União impugnou a presente ação, requerendo a improcedência da ação e condenação da Recorrente em honorários de sucumbência.
+Percebe-se, portanto, que houve a necessidade do ajuizamento dos embargos a execução, o que resta ainda mais evidente em virtude da resistência apresentada pela União com a apresentação de impugnação, inclusive alegando parcelamento, falta de interesse de agir, dentre outros.
+Não estamos diante da hipótese do artigo 485, IV, do CPC/15 e extinção da ação sem análise do mérito, pois foi necessário o ajuizamento dos embargos e houve impugnação.
+Portanto, comprovado está a necessidade da condenação da União em honorários de sucumbência, exatamente em função do princípio da causalidade, nos termos do artigo 85, §3º do CPC/15.
+Ao contrário do que consta no acórdão recorrido, houve, portanto, afronta ao regramento imposto pelo art. 85 do CPC, para fins de fixação da verba sucumbencial, notadamente ao parágrafo 3º: (..)" (fls. 413/414e).
+Requer, assim, "seja deferido o recurso especial interposto, com a remessa dos autos ao Colendo SUPERIOR TRIBUNAL DE JUSTIÇA, onde há de ser conhecido e provido para o fim de reformar o v. acórdão recorrido, com a condenação da União em honorários de sucumbência, com fundamento no princípio da causalidade, nos termos do artigo 85, §3º do CPC/15, conforme razões expostas" (fl. 421e).
+Contrarrazões, a fls. 438/451e.
+Recurso Especial inadmitido (fls. 455/460e), com base naSúmula 7/STJ, o que ensejou a interposição de Agravo (fls. 463/476e).
+Contraminuta, a fl. 481e.
+A irresignação não merece prosperar.
+Pacífica a jurisprudência do STJ no sentido de que a condenação da Fazenda, no pagamento de verba sucumbencial, somente se justifica, em sede de execução fiscal, quando o ajuizamento da execução não tenha sido motivada por erro atribuível ao próprio contribuinte-exequendo.
+Nessa linha, confiram-se osseguintes precedentes ilustrativos:
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AJUIZAMENTO POR ERRO DO CONTRIBUINTE. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. MATÉRIA JULGADA SOB O RITO DO ART. 543-C DO CPC.
+1. O Tribunal de origem isentou a União da condenação em honorários advocatícios em razão de a ora agravante ter apresentado declaração retificadora somente após o ajuizamento da presente Execução Fiscal.
+2. Aquele que der causa à instauração da demanda ou do incidente processual deve arcar com despesas dela decorrentes, segundo o princípio da causalidade.
+3. Orientação reafirmada pela Primeira Seção ao julgar o REsp 1.111.002-SP, sob o rito dos recursos repetitivos (art. 543-C do CPC). 4. Agravo Regimental não provido" (STJ, AgRg no Ag 1.249.474/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2010).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. AJUIZAMENTO POR ERRO DO CONTRIBUINTE. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO-PROVIDO.
+1. Aquele que der causa à instauração da demanda ou do incidente processual deve arcar com despesas dela decorrentes, segundo o princípio da causalidade. Na espécie, a decisão monocrática não merece reparos, visto que o Tribunal de origem isentou a União da condenação em honorários advocatícios em razão de a ora agravante ter apresentado retificadora somente após o ajuizamento da presente execução fiscal.
+2. A análise da matéria concernente ao erro do contribuinte que ocasionou o ajuizamento da presente execução fiscal demandaria necessariamente reexame do conjunto fático-probatório trazido aos autos, o que é vedado consoante o teor da Súmula 7/STJ.
+3. Agravo regimental não-provido" (STJ, AgRg no Ag 1.062.936/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 12/02/2009).
+Assinalado, nas instâncias ordinárias, que a execução fiscal somente foi ajuizada em razão de equívoco, cometido pelo contribuinte, ao preencher seus documentos fiscais -matéria insuscetível de reexame, no âmbito do Recurso Especial, face a vedação contida na Súmula 7/STJ -, nada há a reparar no julgado recorrido.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Sem honorários recursais. Ausente condenação em honoráriosde sucumbência nas instâncias ordinárias.
+I.
