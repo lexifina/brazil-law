@@ -1,0 +1,28 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça local assim ementado:
+RECURSO DE AGRAVO EM EXECUÇÃO - LIVRAMENTOCONDICIONAL - PREECHIMENTO DOS REQUISITOS DE ORDEMOBJETIVA E SUBJETIVA - DECISÃO REFORMADA - RECURSOPROVIDO. A decisão que indeferiu o livramento condicional deve serreformada, uma vez o agravado comprovou comportamento satisfatórionos últimos doze meses. Provimento ao recurso é medida que se impõe(e-STJ fl. 354).
+O recorrente aponta a violação dos arts. 83, III, do Código Penal e 619 do Código de Processo Penalalegando, em síntese, que o cometimento de falta grave(fuga em 2019) no curso da execução impede a concessão do livramento condicional por ausência do requisito subjetivo.
+Apresentadas as contrarrazões (e-STJ fls. 401/408), e admitido o recurso (e-STJ fl. 415), manifestou-se o Ministério Público Federal, nesta instância, pelo provimento do recurso especial (e-STJ fls. 433/434).
+É o relatório. Decido.
+O recurso é tempestivo, e a matéria foi devidamente prequestionada.
+São estes os fundamentos do acórdão recorrido (e-STJ fls. 354/358):
+Extrai-se do instrumento de agravo, que o agravante resgatapena privativa de liberdade total de 04 (quatro) anos e 08 (oito) mesesde reclusão, conforme atestado de penas de ordem nº 91.
+Verifica-se que durante o curso da execução penal, o agravantecometeu uma única falta grave, consistente em fuga, ocorrida em29/11/2019 (ordem nº 93).
+No entanto, a decisão agravada, ao negar o benefício dolivramento condicional ao reeducando, destacou que:
+ ..
+No caso em análise, é verdade que o reeducando não esteveapto à ressocialização, evidenciando indisciplina e irresponsabilidade,ao praticar a falta acima descrita. Porém, a falta foi praticada há maisde um ano.
+Dessa maneira, a decisão agravada deve ser reformada, eis queo agravante não demonstrou desrespeito e irresponsabilidade nocumprimento da pena privativa de liberdade nos últimos doze meses(e-STJ fls. 357/358).
+A prática de falta grave pelo apenado, no curso da execução penal, constitui motivo suficiente para justificar a negativa do livramento condicional, por ausência do preenchimento dos requisitos subjetivos.
+O art. 83, III, do Código Penal, por sua vez, não limita a aferição do requisitos subjetivos aos últimos dozemeses de execução da pena, impondo-se ao magistrado a análise de todo o período.
+A propósito do tema, os seguintes precedentes desta Corte:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTAS DISCIPLINARES MÉDIAS E GRAVES. DECISÃO DEVIDAMENTE FUNDAMENTADA. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente. 2. As faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo.
+3. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+4. O afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito subjetivo do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus. 5. Habeas corpus não conhecido(HC n.º 564.292/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 16/6/2020, DJe 23/6/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ART. 83 DO CÓDIGO PENAL COM REDAÇÃO DADA PELA LEI N.13.964/2019. AUSÊNCIA DO REQUISITO SUBJETIVO. EXISTÊNCIA DE FALTAS DISCIPLINARES. EXIGÊNCIA DE BOM COMPORTAMENTO DURANTE O CUMPRIMENTO DA PENA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. Para a concessão do livramento condicional, nos termos do art.83, inciso III, alínea a, do Código Penal, com a redação dada pela Lei n. 13.964/2019, deve o Apenado preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento durante a execução da pena).
+2. Na presente hipótese, as instâncias ordinárias consignaram que o Apenado praticou falta disciplinar grave no curso da execução penal, consistente em fuga quando recebeu anterior progressão para o regime semiaberto, evasão que perdurou por dois anos, sendo a indisciplina recentemente reabilitada.
+3. A inclusão da alínea b no inciso III do art. 83 do Código Penal pela Lei n. 13.964/2019, não significa que a ausência de falta grave no período de doze meses seja suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional, tampouco que eventuais faltas disciplinares ocorridas anteriormente não possam ser consideradas pelo Juízo das Execuções Penais para aferir fundamentadamente o mérito do Apenado.
+4. Agravo regimental desprovido(AgRg no HC 666.504/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 16/6/2021).
+Diante de tais considerações, com fulcro no art. 932, VIII, do CPC, c/c o art. 255, § 4º, III, dou provimento ao recurso especial para revogar o livramento condicional concedido em favor do ora recorrido.
+Intimem-se.
