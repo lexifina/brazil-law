@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EUNICE MARIA DE ABREU ITTAVO à decisão de fls. 627/628, que não conheceu do recurso.
+Sustenta a parte Embargante que a decisão é contraditória.
+Alega, em síntese, que o agravo de instrumento, previsto no art. 1.015 do CPC, é o recurso cabível para impugnar decisões interlocutórias sobre decadência e prescrição, como na hipótese dos autos, em que o tribunal de origem considerou consumada a prescrição para o ajuizamento da execução individual de sentença proferida em ação civil pública.
+Requer o conhecimento e acolhimento dos embargos declaratórios para, sanado o vício apontado, seja conhecido o recurso especial, negado na origem.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios, tendo apresentado impugnação às fls. 640/649.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+De início, convém ressaltar que os embargos de declaração são cabíveis em face da decisão proferida imediatamente anterior ao recurso, não sendo possível sua utilização para atacar decisões anteriores, bem como não representam "a via adequada para nova impugnação do mérito." (AgRg no AREsp n. 1486766, relator Ministro Felix Fischer, Quinta Turma, DJe 01/08/20019)
+No caso, observa-se que a parte se vale dos presentes aclaratórios para se insurgir contra o posicionamento do tribunal de origem que, dando provimento à apelação da parte adversa, reconheceu prescrita a pretensão da parte, em consonância com o Tema 515/STJ.
+Ocorre que a embargante, ao se insurgir contra a decisão que negou seguimento ao seu recurso especial, com base no art. 1.030, I, "b", do CPC, equivocou-se no manejo dos recursos previstos no CPC, do que resultou o reconhecimento da preclusão consumativa, quando finalmente interpôs o recurso adequado (agravo interno).
+Ainda insatisfeita, busca dar prosseguimento à execução, com a apresentação do presente agravo de instrumento diretamente nesta Corte, ao argumento de que o reconhecimento da prescrição é matéria que autoriza o seu manejo.
+Resta evidenciado, portanto, que a embargante almeja a reforma do acórdão da apelação, olvidando, por certo, que tal atividade é desenvolvida de acordo com regras e princípios processuais cogentes, que devem nortear a todos os operadores do direito.
+Ademais, ao enveredar por essa forma de defesa, a embargante incorreu em outro equívoco, pois, limitando-se a repetir as alegações de mérito da sua pretensão, deixou de estabelecer conexão entre os fundamentos da decisão de não conhecimento do presente agravo - pautado apenas na falta de técnica processual para apresentação da insurgência - e os destes aclaratórios, em total afronta ao princípio da dialeticidade.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
