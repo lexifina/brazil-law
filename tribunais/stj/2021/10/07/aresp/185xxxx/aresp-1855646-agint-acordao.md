@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de agravo de decisão que conheceu do agravo para não conhecer do recurso especial, conforme a seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO E RECURSO ESPECIAL. ATO JURÍDICO PERFEITO. ATO ADMINISTRATIVO. REGULARIZAÇÃO FUNDIÁRIA. EXAME DE DIREITO LOCAL. REEXAME DE MATÉRIA DE FATO. SÚMULAS7/STJ E 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante insurge-se contra as Súmulas n. 280 do STF e 7 do STJ, asseverando que (e-STJ, fl. 2.149):
+Assim, (i) é induvidosa e perfeitamente circunscrita e delineada a situação fática sobre a qual se debate a existência ou não de ato jurídico perfeito; (ii) o acórdão recorrido consigna, para além de qualquer espécie de dúvida ou entre dúvida, que um ato administrativo afirmou a existência do direito subjetivo da Agravante à consolidação de domínio; e (iii) na etapa em que se dava execução a esse ato, houve a reconsideração da decisão anteriormente proferida, impedindo o aperfeiçoamento do comando nele estampado.
+(..)
+Assim, não há necessidade de examinar documento algum para apreciação jurídica da questão posta em debate no recurso especial interposto pela Agravante. Basta o exame do acórdão recorrido, no qual esta questão fática foi posta, para, assim, concluir pela qualificação da decisão administrativa que reconheceu o direito subjetivo da agravante a consolidação de domínio como ato jurídico perfeito. E isso porque, insista-se, o acórdão recorrido afirmou que a desconstituição daquela decisão administrativa se deu na fase da consolidação daquela decisão, oportunidade na qual se expediria o título dominial, com a assinatura do respectivo termo.
+Afirma ainda que a matéria foi devidamente prequestionada, tendo sido opostos embargos declaratórios para o pronunciamento sobre os dispositivos de lei federal apontados como violados. Nesse contexto, destaca (E-STJ, fl. 2.149):
+Assim, a modificação de interpretação jurídica a respeito dos confins normativos de um dado preceito legal, não pode atingir a "coisa julgada administrativa" ou produzir efeitos retroativos, como pedagogicamente assinalam o art. 2º, XIII, da Lei federal de processo administrativo (Lei federal 9.784, de 1999), o art. 146 do CTN, e os já mencionados os arts. 6º, 23 e 24 da LINDB.
+É que o direito adquirido se forma, no bojo de um processo administrativo, após a conclusão da fase instrutória e dispositiva. O direito adquirido edifica-se, pois, com a formação da "coisa julgada administrativa".
+Neste contexto, é sabido e ressabido que a modificação de entendimento quanto ao conteúdo, sentido e alcance de um preceito normativo não pode resultar na decretação de ilegalidade dos atos administrativos fundados em interpretação jurídicaaté então corrente. E isso sob pena de dar-se à nova interpretação da Administração efeitos retroativos, malferindo o ato jurídico perfeito e a "coisa julgada administrativa". E é precisamente este o caso dos autos.
+Daí porque, ante a flagrante afronta aos arts. 6º, 23 e 24 da LINDB, a decisão recorrida deve ser reformada.
+Requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo órgão colegiado.
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO LOCAL. SÚMULA N. 280/STF.REEXAME DE MATÉRIA DE FATO. PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. Não é cabível em sede de recurso especial reformar o acórdão recorrido quando sua fundamentação decorre de lei estadual. Tal fundamento não pode ser revisto,por óbice da Súmula 280/STF.
+2. A verificação dos requisitos para configuração do ato jurídico perfeitono caso concretodemandaria, também, o revolvimento do acervo fático-probatório dos autos, o que é inviável, em sede de Recurso Especial, em face da Súmula 7 desta Corte.
+3. O Tribunal de origem não se manifestou sobre os dispositivos legais apontados como violados pela agravante, impondo-se, portanto, o reconhecimento da falta de prequestionamento.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): A insurgência não prospera.
+Inafastável a incidência da Súmula n. 280/STF pois a modificação das conclusões do acórdão recorrido a respeito do cumprimento dos requisitos para caracterização do ato jurídico perfeito, demandaria, necessariamente, o reexame da lei estadual.Além disso, a verificação pretendida, importaria o revolvimento do acervo fático-probatório, vedado em recurso especial, a teor da Súmula n. 7/STJ.
+A propósito, reitera-se a fundamentação da decisão agravada (e-STJ, fls. 2.140/2.141):
+Sobre a possibilidade de revisão do ato administrativo, no caso concreto, a Corte local assim se pronunciou (e-STJ, fl. 1.883/1.887):
+Anoto que o ato impugnado, considerando o princípio da revisão dos atos administrativos, indeferiu a regularização da posse por falta de atendimento do requisito de extensão territorial.
+A controvérsia gravita em torno da violação ao ato jurídico perfeito que teria sido conferido à impetrante pelo anterior titular da Secretaria da Justiça, consistente no direito de regularização de posse em terras devolutas,com base na Lei 11.600/2003.
+(..)
+Na hipótese dos autos, a decisão favorável do anterior Secretário de Justiça seguido do pagamento pela apelada não foram suficientes para a configuração do ato administrativo perfeito. Para a transferência do domínio da área o art. 12 da Lei 11.600/exige, além do pagamento do valor da gleba, a assinatura da escritura de venda e compra pelo ocupante, pelo Procurador Geral do Estado e pelo Secretário da Justiça e da Defesa da Cidadania. Contudo, quando o Termo de consolidação de Domínio TCD foi encaminhado para a Procuradoria Geral do Estado e Secretaria de Justiça não foram apostas as assinaturas dos titulares, deixando de ser implementada a condição imprescindível para o aperfeiçoamento da transferência de domínio público em favor da apelante.
+Nesse quadro, o título dominial efetivamente perseguido pela apelante não chegou a ser aperfeiçoado, não produzindo qualquer efeito jurídico, tampouco prejuízo, porquanto o valor depositado deverá ser imediatamente restituído com a correção monetária devida.
+Como se sabe, o procedimento administrativo estadual é regulamentado pela Lei Estadual 10.177/98 que em seu artigo 51 estabelece que"após esgotados os recursos a decisão final tomada em procedimento administrativo formalmente regular não poderá ser modificada pela Administração, salvopor anulação ou revisão, ou quando o ato, por sua natureza,for revogável".
+(..)
+Ora, sendo lícito à Administração Pública realizar a revisão do ato administrativo perfeito e acabado, do qual já decorreram efeitos concretos, "a fortiori" poderá rever manifestação anterior durante o trâmite de procedimento administrativo não exaurido, onde o ato administrativo ainda não se aperfeiçoou.
+Nem há de se falar que o deferimento da regularização fundiária já havia produzido efeitos concretos em razão do pagamento do preço da gleba. Como se sabe, a lei civil, para conferir validade aos negócios jurídicos tendo por objeto a transferência de direito sobre imóveis,condiciona-o à lavratura de escritura pública (art. 108, do Código Civil).
+Com muito maior razão, deve ser observada a forma de transferência de imóvel de domínio público que, aliás, anteriormente já fora de fraudado. A Lei em questão exige, após o pagamento do valor da gleba, a lavratura de escritura pública, que deve ser assinada pelo ocupante,Procurador do Estado e Secretário da Justiça. Sem a reunião de todos esses requisitos não há como reconhecer que a apelado ostentasse título dominial,tampouco há de se falar em ato jurídico perfeito, ou em direito adquirido.
+Assim, como não houve pronunciamento definitivo da Pasta acerca da emissão do título, porquanto não foi aposta a assinatura indispensável para o aperfeiçoamento do ato jurídico de regularização de domínio pelo possuidor da área, conclui-se pela possibilidade de a Administração, no exercício do dever de autotutela para preservação do interesse público, rever o posicionamento do titular anterior da pasta e indeferir o pedido de regularização da posse.
+O Tribunal de origem firmou a premissa fática de que o ato administrativo não teria exaurido seus efeitos, uma vez não cumpridos os requisitos da lei estadual n. 11.600, em seu art. 12.
+Nesse contexto, a modificação das conclusões do acórdão recorrido, a respeito da caracterização do ato jurídico perfeito demandaria o revolvimento do acervo fático-probatório dos autos, bem como o reexame de lei local, procedimentos vedados em recurso especial a teor dos óbices das Súmulas 7 do STJ e 280 do STF.
+Dito de outra forma, não é cabível em sede de recurso especial reformar o acórdão recorrido quando sua fundamentação decorre de lei estadual (e não de lei federal), assim como não é possível rever o cumprimento de todas as normalidades do ato administrativo.
+Igualmente inafastável o óbice da ausência de prequestionamento, diante da ausência de pronunciamento específico do Tribunal de origem sobre os arts.. 2º, XIII, da Lei n. 9.784/1999, 146 do CTN, 6º, 23 e 24 da LINDB.
+Dessa forma, a decisão agravada deve ser mantida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
