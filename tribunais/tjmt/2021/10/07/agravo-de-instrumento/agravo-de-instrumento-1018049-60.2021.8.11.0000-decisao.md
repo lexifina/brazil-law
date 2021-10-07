@@ -1,0 +1,23 @@
+Vistos, etc.
+Agravo de Instrumento interposto por ANTÔNIO APARECIDO DE SOUZA JUNIOR contra decisão proferida nos autos da Ação de Manutenção de Posse com Pedido de Liminar no 1001756-68.2020.8.11.0026 da Vara Única da Comarca de Arenápolis que acolheu os Embargos opostos por JOSÉ BATISTA DOS SANTOS que deferiu a medida liminar postulada, determinando “a manutenção do autor na posse do imóvel rural registrado sob Matrículas no 5284 e 5798 no Cartório de Registro de Imóveis de Arenápolis –MT, estabelecendo por ora, o meio do corixo (nascente do córrego sucuri), como divisa entre as propriedades do requerente e do requerido”.
+Preliminarmente requer a concessão da Justiça Gratuita.
+Alega o agravante que é legítimo possuidor e proprietário da área de 5,2920 hectares objeto do conflito, fazendo parte de uma área maior de 70,96 hectares conforme matrícula n. 4428 do CRI de Arenápolis/MT, área esta recebida por meio de herança do seu finado pai; que nunca deixou de exercer a posse sobre a extensão de toda a sua propriedade, e entre ela está a área de 5,2920 hectare que o agravado alega fazer pare de sua propriedade.
+Explica que a área em discussão é a frente de sua propriedade, sendo que a divisa nunca foi o curso da agua; que a divisa é provida de cerca e porteira; que entre as propriedades conflitantes existe cerca de arame liso em respeito aos marcos de aroeira cravados a mais de 35 anos; que delimitação da propriedade sempre foi consentida pelo agravado, tanto é que ele mesmo ajudou a fazer a cerca de divisa.
+Afirma que acredita que o agravado, ao fazer a medição de sua propriedade, identificou no primeiro momento que a quantidade de área era menor que a área da matricula do imóvel, e o fato de conseguir bebedouro para o seu gado, fez tomar a decisão ilícita de invadir os limites de propriedade do seu vizinho, ora agravante.
+Trouxe declarações com reconhecimento de firma do Sr. José Afonso Toffolo, proprietário da fazenda vizinha das partes do processo, informando o ponto em comum das quatro propriedades. Também do técnico em engenharia que elaborou o georreferenciamento do agravante.
+Pontua que a represa pertence ao agravante e foi construída pelo seu finado pai “negó Tó”; também explica que o agravado alterou os limites de sua propriedade por meio do georrefenciamento e levou tal instrumento a registro sem a anuência e assinatura dos confrontantes entre eles está o próprio agravante e também a Sra. Terezinha Severino Miranda de Souza proprietária do Sítio Santo Antônio também confrontante do agravado que declara que não deu a sua anuência no referido instrumento conforme espelho de declarações.
+Acrescenta que no momento do protocola do georreferenciamento levado a registro na data de 17/02/2921 a MP que supostamente dispensava assinatura dos confrontantes não estava mais vigente; que o georreferenciamento do requerente foi levado a registro ao arrepio da Lei, onde já havia requerimento de Impedimento de Registro protocolado no dia 22/10/2020 pelo requerido junto ao RCI conforme documentos anexado aos autos, onde o mesmo deveria ser remitido as vias judiciais e nesse entendimento o TJ do Mato Grosso”.
+Liminarmente, requer a concessão do efeito suspensivo.
+É o relatório.
+DECIDO.
+Para concessão do efeito requerido, necessário se faz os pressupostos autorizadores da medida de urgência, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, que exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 300, do CPC.
+Em sede de cognição sumária não identifico o preenchimento dos requisitos.
+A princípio, não identifico desacerto na decisão inaugural do processo que se encontra devidamente fundamentada; também porque as matérias trazidas pelo agravante em suas razões demandam estudo mais aprofundada e o devido contraditório, pois, foram juntada nos autos originários em 04/10, junto com a contestação, sendo que nem o agravado, nem o juízo “a quo” tiveram acesso.
+Outrossim, não identifico a urgência necessária para suspender a decisão, pois, o agravado já se encontra na posse.
+Ante todo exposto, INDEFIRO O PEDIDO, sem prejuízo de reanálise no mérito.
+Intimem-se o agravante para fazer prova da hipossuficiência alegada, com a juntada de comprovação dos rendimentos e gastos mensais, extrato de banco dos dois últimos meses, imposto de renda do último exercício e outros que entenda relevantes para fins de comprovar sua impossibilidade de pagamento do preparo recursal, sob pena de indeferimento.
+Comunique-se o juiz da causa.
+Intimem-se a parte agravada para, querendo, apresentar contrarrazões.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
