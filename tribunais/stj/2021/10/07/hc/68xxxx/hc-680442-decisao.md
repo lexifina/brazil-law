@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se dehabeas corpus substitutivo de recurso próprio,com pedido de liminar, impetrado em favor deHUGO THALHES ALVES NEVESeWILLIAN GODOI NEPOMUCENO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(HCN. 2139534-90.2021.8.26.0000).
+Consta dos autos os pacientes foram presos em flagranteem 15/6/2021, e tiveram,posteriormente, acustódia convertida em preventiva, pela suposta prática dos delitos tipificadosnos artigos 33 e 35, da Lei n. 11.343/06.
+Nesta Corte, a defesa sustenta a nulidade da prisão em flagrante realizada por integrantes da guarda municipal, a insuficiência de fundamentação do decreto prisional, a ausência dos requisitos autorizadores da custódia cautelar e a violação aos princípios do contraditório e da ampla defesa. Ressalta a existência de circunstâncias pessoais favoráveis aos pacientes e a possibilidade de aplicação das medidas cautelares menos gravosas.
+Requer "a concessão da medida LIMINAR até o julgamento deste writ, para substituir a prisão preventiva dos Pacientes HUGO THALHES ALVES NEVES e WILLIAN GODOI NEPOMUCENO pelas medidas cautelares do artigo 319 do CPP, bem como seja expedido com extrema urgência os competentes ALVARÁS DE SOLTURA, bem como os ofícios necessários. Após as informações prestadas, requer seja definitivamente CONCEDIDA A ORDEM DO PRESENTEHABEAS CORPUS, confirmando-se a liminar, como medida da mais lídima e cristalina JUSTIÇA!" (fl. 16)
+É o relatório.
+Decido.
+Conforme ofício encaminhado pelo STF, no julgamento do HC 204.936/SP, em 1º/9/2021,a ordem foi concedida "afim de revogar a prisão decretada em desfavor dos pacientes, se por outromotivo não estiver preso. Em substituição, determino a imposição dasseguintes medidas cautelares diversas da prisão, na forma do art. 319 doCPP: a) comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz de origem, para informar e justificar atividades (inciso I); b) recolhimento domiciliar noturno, das 21h às 7h; e c) proibição de se ausentar da comarca sem autorização do Juízo deprimeiro grau."
+Ante o exposto, julgo prejudicadoestehabeas corpus.
+Publique-se. Intimem-se.
