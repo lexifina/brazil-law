@@ -1,0 +1,63 @@
+DECISÃO
+FRANCISCO MOURÃO DA SILVA  interpõe  recurso  especial,  fundado  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de Justiça do Estado do Acre na  Apelação  Criminal  n.  0005612-53.2016.8.01.0001.
+O  recorrente  foi  condenado, pelos crimes dos arts. 306 da Lei n. 9.503/1997 e 329 do Código Penal, a 1 ano, 1 mês e 20 dias de detenção mais 10 dias-multa, em regime inicial semiaberto, além da suspensão da habilitação pelo prazo de 6 meses.
+A  defesa  alega  violação  dos  arts.  386, VII, do Código de Processo Penale 33, § 2º, "c", 59 e 77 do Código Penal. Pleiteia, em síntese, a absolvição dos crimes imputados por insuficiência probatória e, eventualmente, a redução da pena-base e a modificação do regime inicial.
+O  Ministério  Público  Federal , em parecer daSubprocuradora-Geral da República Célia Regina Souza Delgado, às fls. 380-387, opinou  pelo  não provimento do recurso especial.
+Decido.
+I. Absolvição -inviabilidade
+O  recorrente  insurge-se contra a condenação que lhe foi imposta. Coloca sob suspeição o depoimento dos policiais que realizaram sua prisão em flagrante, ao argumento de que foi indevidamente agredido pelos agentes e que teria havido direcionamento das versões para justificar suas ações.
+Aduz que "constituem-se (os policiais) em algozes e detratores do recorrente, de modo que possuíam e ainda possuem interesse direto e indisfarçável na (sic) êxito da ação penal da qual foram seus principais mentores" (fl. 327).
+Conclui que "as provas coligidas estão "VICIADAS"E INDIGNAS DE FÉ capazes de ensejar uma condenação criminal, já que os policiais apenas reproduziram uma versão para justificar a INVASÃO DE DOMICÍLIO E A TREMENDA SURRA QUE APLICARAM NO RECORRENTE" (fl. 329).
+A  Corte  de  origem,  por  sua  vez,  assim se manifestou  (fls. 303-305):
+ ..
+Sobre a autoria, extraio do relatório de constatação dos sinais e alteração da capacidade psicomotora, que no momento em que foi abordado, o apelante apresentava visíveis sinais de embriaguez alcoólica, dentre eles "olhos vermelhos, desordem nas vestes, odor de álcool no hálito, agressividade, exaltação e falante". Consta que ele negou ter ingerido bebida alcoólica.
+Diante da recusa do agente de se submeter ao teste do bafômetro, a embriaguez pode ser identificada pelos sinais que indiquem a alteração da sua capacidade psicomotora, como ocorreu no caso concreto. Por outro lado, não há dúvida também de que esse fato constitui circunstância que milita contra o condutor.
+De relevante, colho as declarações prestadas em Juízo pelo policial militar Maiquel da Silva Rodrigues, o seguinte:
+"Estava na operação de Álcool Zero, na função de selecionador. O acusado estava em zigue-zague na pista. Foi dada a ordem de parada. Inicialmente ele parou. Quando o policial se aproximou para fazer a abordagem, ele fugiu. Saímos em perseguição a ele. Por mais de três vezes parei ao lado dele e dei ordem de parada e mesmo assim ele não parou. Ele passou por cima de uma rotatória, quase capotou o carro. Passou em velocidade altíssima em radar de limite de velocidade. Eu parei a moto ao lado dele e ele jogou em cima da motocicleta e chegou a me derrubar. O acusado chegou e entrou na residência;  ..  ele começou a agredir a guarnição com socos e pontapés. O acusado conseguiu se desvencilhar e retornou com uma faca. Retraímos e voltamos para o portão. O acusado e os demais passageiros entraram na residência. Nisso se ouvia os gritos entre eles. Chegamos na porta de trás e pedimos para ele sair. O acusado ameaçou e disse que se entrássemos ele iria furar. Entramos e ele ainda estava com a faca na mão. Entramos na força e conseguimos realizar a prisão do acusado. Ele foi contido na cozinha da casa.  ..  ele estava com olhos vermelhos. Seguiu pela contramão e quase tombou o veículo. Chegamos próximo dele e sentimos o odor etílico e a fala alterada. Ele próprio chegou a admitir que ingeriu bebida alcoólica.  ..  Foi utilizada a arma de fogo no momento em que ele estava com a faca na mão".
+A testemunha Talisson Ruy Batista da Silva prestou depoimento semelhante, salientando que o apelante se recusou a fazer o teste de bafômetro, no entanto, ele apresentava olhos avermelhados e odor etílico.
+A não validade do depoimento dos Policiais a embasar a condenação, só encontra respaldo quando existirem provas de que o agente público agiu com má-fé, intenção de prejudicar a parte ou mesmo tem interesse na causa. o que não é o caso dos autos.
+Conforme se observa, o Tribunal de origem consignou a legitimidade do depoimento dos policiais que efetuaram a prisão do acusado, ao asseverar a ausência decomprovação de que eles agiram de má-fé ou que tinham interesse na causa.
+Não é função do Superior Tribunal de Justiça, no âmbito do recurso especial, empreender dilação probatóriacom a finalidade de apurar a licitude da atuação dos agentes policiais que atuaram no caso, haja vista o disposto na Súmula n. 7 do STJ.
+A conduta dos agentes públicosdescritapela defesa caracteriza, em tese, crimes que deveriam ou poderiam haver sido apurados em ação investigativa própria. Contudo, não há evidências de quealgo dessa natureza tenha acontecido.
+Sobre o crime de resistência, o acórdão assim dispôs (fl. 306):
+ ..
+Já a autoria restou comprovada através das (sic) depoimentos dos Policiais que efetuaram a prisão do apelante.
+De acordo com as declarações, o apelante ficou agressivo ao ser abordado e a partir desse momento, ele passou a desferir socos e pontapés, tentando-se livrar da Guarnição e ao entrar na sua casa, apossou-se de uma faca, ameaçando-os. Por essa razão, foi dada voz de prisão contra o mesmo, sendo necessário o uso de algemas para o conter, pois o mesmo não obedeceu o comando.
+Ressalto ser irrelevante que o apelante estivesse embriagado, exaltado ou em estado colérico, porquanto a embriaguez ou a perda do autocontrole não são suficientes para afastar o dolo específico do crime.
+ ..
+Assim, restou comprovado que o apelante dirigia veículo automotor embriagado e quando foi abordado, resistiu à ordem dada pelos policiais, razão pela qual mantenho a sua condenação.
+A defesa aponta que a conduta é atípica, pois nenhum policial havia dado voz de prisão ao recorrente. A Corte de origem, por sua vez, asseverou que o acusado ameaçou os agentes públicos com uma faca, entre outras ações. Por certo,eventualausência de uma "voz de prisão" é circunstância insuficiente para descaracterizar o ato de resistência. No mais, a pretensão absolutória implicaria a necessária incursão vertical na prova dos autos, procedimento vedado pelo entendimento da Súmula n. 7 do STJ.
+Quanto à validade do depoimento dos agentes policiais, cito o seguinte julgado:
+ ..
+3. A jurisprudência desta Corte é firmada no sentido de que "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso" (HC n. 477.171/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/11/2018, DJe 22/11/2018) ..
+5. Agravo regimental desprovido.(AgRg no AREsp n. 1.770.014/MT, Rel. Ministro Antonio Saldanha Palheiro, 6ª T.,DJe 15/12/2020)
+II. Dosimetria
+A defesa se insurge contra a avaliação desfavorável da vetorial consequências do crime. Alega não ter havido nenhuma consequência decorrente da conduta imputada.
+Consta do acórdão impugnado (fls. 307-309):
+ ..
+O apelante se insurge contra a pena base quanto ao crime de embriaguez ao volante, que foi fixada em nove meses e vinte e dois dias de detenção. Diz que é excessiva e que não foi aplicada de maneira idônea.
+No ponto, o Juiz singular julgou de forma desfavorável ao apelante a circunstância judicial consequências do crime, elevando a pena base em três meses e vinte dias acima do mínimo legal.
+Disse o Juiz singular:
+"No tocante as consequências do crime valoro negativamente, eis que o julgado empreendeu fuga no momento da abordagem dos policiais militares. Não obedeceu a ordem de parada dos agentes públicos, andava na contramão e em zigue-zague durante a perseguição, sendo que ainda causou a queda da motocicleta de um dos policiais militares".
+O apelante dirigia fazendo zigue-zague e empreendeu fuga em alta velocidade, colocando em risco a sua vida e a de terceiros. Desse modo, está correta a valoração negativa da circunstância judicial consequências do crime.
+ ..
+Não há nenhum exagero na fixação da pena base. A proximidade do Juiz singular com a colheita da prova lhe dá suporte para bem sopesar as circunstâncias judiciais, razão pela qual esta Corte só deve modificar a pena base, quando estiver desproporcional à conduta praticada. Não é o caso dos presentes autos.
+ ..
+Anoto que em razão da obrigatoriedade de individualização da pena, o Juiz, utilizando-se do seu livre convencimento motivado, deve adequar a pena aplicável ao caso concreto, balizando-se dentro dos limites mínimo e máximo, de forma a dar efetividade à reprimenda e buscando inibir reiteração de condutas criminosas.
+Portanto, julgo que o Juiz singular bem avaliou a circunstância judicial, concluindo que uma delas é desfavorável ao apelante. Com fundamentação suficiente demonstrou porque fixou a pena base acima do mínimo legal, aplicando os critérios da razoabilidade e proporcionalidade.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelos oito fatores indicativos relacionados no caput do art. 59 do Código Penal, os quais não deve se furtar de analisar individualmente. São eles: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime, assim como comportamento da vítima.
+Na hipótese, foi consideradadesfavorávelavetorialconsequências do crime. Avaliou-se a circunstância de o acusado haver empreendido fuga, na contramão e em zigue zague durante a perseguição, o que colocou em risco a própria vida e a de terceiros, além de ter provocado a queda da motocicleta de um dos policiais. A fundamentação é idônea e justifica a exasperação da pena-base acima do mínimo legal.
+Vale ressaltar que não há nenhuma contradição em se fixar a pena-base do crime de resistência no fixada no mínimo legal, justamente pela necessáriaavaliação individual de cada conduta ilícita.
+O acréscimo de3meses e 22 dias para a citadavetorial desfavorável é proporcional e razoável, considerado o intervalo de 3anos entre o máximo e o mínimo de pena prevista no tipo penal.
+III. Regime inicial e suspensão condicional da pena
+O modo inicial semiaberto foi estabelecido com base na reincidência do réu, qual justifica de forma idônea a fixação do mencionado regime de prisãoaos condenados àpena privativa de liberdade inferior a 4 anos. A propósito:
+ ..
+6. No que tange ao regime inicial de cumprimento de pena, de acordo com a Súmula 269/STJ, é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior à inicial de quatro anos, se favoráveis as circunstâncias judiciais.
+7. No caso, apesar de o acusado ser reincidente, as circunstâncias judiciais previstas no art. 59 do Código Penal são todas favoráveis, tendo sido a pena-base fixada no mínimo legal. Dessa forma, estabelecida a reprimenda em 1 ano de reclusão, correta a fixação do regime semiaberto de cumprimento de pena, nos termos do art. 33, § 2º, alínea "b", e § 3º, do Código Penal.
+8. Agravo regimental não provido. (AgRg no AgRg no AREsp n. 1.907.243/TO, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T.,DJe 27/9/2021)
+Vale destacar que o recorrente foi condenado, nestes autos, por crime doloso e não culposo, conforme indicado pela defesa. Portanto, não estão preenchidos os requisitos necessários para concessão do benefício do art. 77 do Código Penal.
+IV. Dispositivo
+À  vista  do  exposto,  conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se  e  intimem-se.
