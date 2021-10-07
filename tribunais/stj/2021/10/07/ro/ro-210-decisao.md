@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso ordinário interposto por REGINA MENDONÇA DA SILVA E OUTROS, com fundamento no art. 105, II, "c", da CF/88.
+Ação: de indenização, proposta pelos ora recorrentes em face da REPÚBLICA FEDERAL DA ALEMANHA, em razão do óbito de Joaquim Mata de Navarra, tio dos autores e um dos dez tripulantes do barco pesqueiro "Changri-lá", que foi atingido por torpedos oriundos do submarino nazista U-199, no mar territorial brasileiro, nas proximidades de Cabo Frio/RJ, durante a Segunda Guerra Mundial (julho/1943).
+Sentença: extinguiu o processo, sem resolução do mérito, em razão da imunidade de jurisdição invocada pela REPÚBLICA FEDERAL DA ALEMANHA.
+Recurso ordinário: argumenta que a imunidade de jurisdição só poderia ser alegada pela recorrida em contestação, apresentada por seu representante com capacidade postulatória, o que não ocorreu na hipótese, visto que a recorrida se manifestou apenas por nota verbal expedida por sua Embaixada para o Ministério das Relações Exteriores do Brasil. Aduz que a imunidade de jurisdição não pode ser conhecida de ofício, mas somente após a citação válida do estado estrangeiro, e que, de todo modo, a imunidade não se aplica na espécie, porquanto: (i) o fato foi praticado no Brasil; (ii) trata-se de ato atentatório aos direitos humanos e, (iii) deve ser garantida aos recorrentes, hipossuficientes financeiros, o acesso à Justiça Brasileira, pois não possuem condições de ajuizar a ação na ALEMANHA.
+Decisão unipessoal: determinou a suspensão do recurso até o julgamento do Tema 944 pelo Supremo Tribunal Federal.
+RELATADO O PROCESSO, DECIDE-SE.
+O Supremo Tribunal Federal, nos autos do ARE 954.858/RJ, em recente julgamento, na sistemática da repercussão geral, pacificou a matéria objeto de controvérsia nos autos, fixando a tese de que "os atos ilícitos praticados por Estados estrangeiros em violação a direitos humanos não gozam de imunidade de jurisdição".
+Referido leading case teve por substrato fático demanda idêntica à presente, em que sucessores de tripulante do navio pesqueiro "Changri-lá" postulavam indenização, em face da REPÚBLICA FEDERAL DA ALEMANHA, pela morte de seu familiar em razão do ataque pelo submarino nazista U-199.
+Assim, ante a identidade dos processos, impõe-se a aplicação, na hipótese dos autos, da tese firmada pela Corte Suprema, de modo a cassar a sentença que extinguiu o processo sem resolução do mérito, em razão da invocada imunidade de jurisdição.
+Forte nessas razões, com fundamento no art. 932, V, "b", do CPC/2015, DOU PROVIMENTO ao recurso ordinário interposto por REGINA MENDONÇA DA SILVA E OUTROS, para cassar a sentença extintiva e determinar o regular processamento da demanda, perante o juiz do 1º grau de jurisdição.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CONSTITUCIONAL. RECURSO ORDINÁRIO. AÇÃO DE INDENIZAÇÃO PROPOSTA CONTRA ESTADO ESTRANGEIRO, POR VIOLAÇÃO DE DIREITOS HUMANOS. IMUNIDADE DE JURISDIÇÃO. INAPLICABILIDADE.
+1. Cuida-se, na origem, de ação de indenização proposta por familiares de um dos dez tripulantes do navio pesqueiro "Changri-lá", que foi atingido por torpedos oriundos do submarino nazista U-199, no mar territorial brasileiro, nas proximidades de Cabo Frio/RJ, durante a Segunda Guerra Mundial (julho/1943).
+2. Consoante o entendimento do Supremo Tribunal Federal, "os atos ilícitos praticados por Estados estrangeiros em violação a direitos humanos não gozam de imunidade de jurisdição" (Tema 944 da repercussão geral).
+3. Recurso ordinário provido.
