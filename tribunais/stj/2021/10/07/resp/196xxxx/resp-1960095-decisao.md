@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARCELO PASTORELLO e MAXIMINO PASTORELLO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso Especial interposto em: 15/04/2020.
+Concluso ao gabinete em: 23/09/2021.
+Ação: de execução, ajuizada por BANCO LUSO BRASILEIRO S/A em face dos recorrentes, fundada em duas cédulas de crédito bancário, na modalidade de empréstimo para capital de giro.
+Decisão interlocutória: rejeitou a exceção de pré-executividade apresentada pelos recorrentes, de modo a dispor que "os benefícios de eventual recuperação judicial quanto à empresa devedora não se estendem aos demais coobrigados, não sendo caso de se determinar o sobrestamento da ação executiva quanto a eles" (e-STJ, fl. 46).
+Acórdão: negou provimento ao agravo de instrumento interposto pelos recorrentes, nos termos da seguinte ementa:
+Execução  Exceção de pré-executividade rejeitada  Execução fundada em duas cédulas de crédito bancário, na modalidade de empréstimo para capital de giro  Recuperação judicial prevista na Lei 11.101/2005 que não atinge os direitos de crédito detidos em face de devedores solidários, fiadores e avalistas  Art. 49, § 1º, da citada lei  Agravantes que ocupam o polo passivo da execução em virtude de figurarem como avalistas e devedores solidários nos títulos representativos do débito  Novação operada na recuperação judicial que difere da novação prevista no Código Civil  Art. 59, "caput", e art. 50, § 1º, ambos da Lei 11.101/2005  Liberação das garantias que reclama a anuência expressa do credor  Rejeição da exceção de pré-executividade que se legitima  Agravo desprovido. (e-STJ, fl. 233) (grifo nosso)
+Embargos de declaração: opostos pelos recorrentes, foram rejeitados.
+Recurso especial: alega a violação dos arts. 37, 47, 49, 50, 52, 59 e 61, todos da Lei 11.101/05; 313 do CPC/15, bem como a existência de dissídio jurisprudencial. Sustenta que o prosseguimento da demanda executiva em face dos recorrentes restou prejudicado devido a previsão de cláusula no Plano de Recuperação Judicial do Grupo GP, que prevê a extinção das garantias reais e fidejussórias se aprovado o referido plano por maioria dos credores.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 37, 47, 52 e 61, todos da Lei 11.101/05 e 313 do CPC/15, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, portanto, a Súmula 211/STJ.
+Ressalta-se que eventual alegação de serem de ordem pública os temas insertos nos dispositivos legais mencionados não torna indispensável o devido prequestionamento. Nesse sentir: AgInt no AREsp 1.021.641/MG (3ª Turma, DJe 19/05/2017) e AgInt no AREsp 613.606/PR (4ª Turma, DJe 17/05/2017).
+- Da concordância expressa do credor para a ocorrência de supressão de garantias (Súmula 568/STJ)
+A Segunda Seção do STJ, no âmbito do REsp 1.885.536/MT (Dje 29/06/2021) e do REsp 1.794.209/SP (Dje 29/06/2021), firmou entendimento no sentido de que a anuência do titular de garantia, real ou fidejussória, é indispensável para que o plano de recuperação judicial possa estabelecer sua supressão ou substituição.
+Para o colegiado, a cláusula supressiva apenas gera efeitos aos credores que aprovaram o plano de recuperação sem ressalvas quanto a ela, não sendo eficaz, portanto, em relação àqueles que não participaram da assembleia, que se abstiveram de votar ou que se posicionaram contra tal disposição.
+A jurisprudência desta Corte Superior também é firme no sentido de que a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei 11.101/2005. Nesse sentir: Súmula 581/STJ (2ª Seção, DJe 19/09/2016) e REsp 1.333.349/SP (2ª Seção, DJe 02/02/2015).
+A Corte de origem, por sua vez, ao entender pela que "a novação operada no plano de recuperação judicial não atinge os devedores solidários e coobrigados em geral, sendo a liberação das garantias permitida quando o credor expressamente assim o consentir, o que não ficou demonstrado na espécie" (e-STJ, fl. 239/238), alinhou-se à citada jurisprudência do STJ.
+Dessa forma, nos termos da Súmula 568/STJ, o acórdão recorrido não merece reforma quanto ao ponto.
+Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à não demonstração de que o recorrido/credor anuiu expressamente com a liberação das garantias prestadas pelos recorrentes/devedores, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do pedido de concessão de efeito suspensivo
+Consoante a jurisprudência do STJ, havendo manifestação superveniente do órgão julgador sobre o tema, não subsiste o pedido de tutela provisória que pretendia conceder efeito suspensivo ao recurso já julgado. Nesse sentido, vale conferir: TP 2.852/DF (Corte Especial, DJe 03/11/2020).
+Dessa forma, encontra-se prejudicada a análise do pedido de concessão de efeito suspensivo ao presente recurso especial.
+Forte nessas razões, CONHEÇO PARCILAMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III, IV, "a" do CPC/15, bem como na Súmula 568/STJ, via de consequência, DECLARO PREJUDICADA a análise do pedido de concessão de efeito suspensivo a este recurso.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. SUPRESSÃO DE GARANTIAS. INEFICÁCIA DA CLÁUSULA DO PLANO EM RELAÇÃO AOS CREDORES QUE COM ELA NÃO ANUÍRAM. PRECEDENTES DA SEGUNDA SEÇÃO DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de execução.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A Segunda Seção do STJ firmou entendimento no sentido de que a cláusula do plano de recuperação judicial que prevê a supressão de garantias somente é eficaz em relação aos credores que com ela anuíram. Súmula 568/STJ.
+4. A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei 11.101/2005. Súmula 568/STJ.
+5. Alterar o decidido no acórdão impugnado, no que se refere à não demonstração de que o recorrido/credor anuiu expressamente com a liberação das garantias prestadas pelos recorrentes/devedores, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
