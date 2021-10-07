@@ -1,0 +1,47 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto porSOCIEDADE UNIFICADA DE ENSINO AUGUSTO MOTTAcontra acórdão prolatado, por unanimidade, pela 5ª Câmarado Tribunal de Justiça do Estado do Rio de Janeirono julgamento de apelação, assim ementado (fl. 1.277e):
+TRIBUTÁRIO. EMBARGOS. EXECUÇÃO FISCAL. IPTU. ENTIDADE DE EDUCAÇÃO E BENEFICENTE DE ASSISTÊNCIA SOCIAL SEM FINALIDADE LUCRATIVA. IMUNIDADE TRIBUTÁRIA.
+Embargos à execução fiscal de crédito de IPTU do exercício de 2010 baseados na imunidade tributária da entidade de educação e de assistência social sem finalidade lucrativa. A Embargante comprova o direito à imunidade prevista no artigo 150, VI, "c", da Constituição Federal, de vez que atende aos requisitos da lei, em especial os estabelecidos no artigo 14 do Código Tributário Nacional. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 1.315/1.317e).
+Com amparo no art. 105, III, a, da Constituição da República,aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+I. Art. 1.022, III, do Código de Processo Civil - "(..) tendo em vista o vício de erro material existente no acórdão que apreciou o recurso de apelação da ora recorrida(fls. 1.291/1.295), e a ausência de adequada fundamentação no acórdão dos embargos de declaração (fls. 1.330/1.331),reclama necessário saneamento com o julgamento de nulidade da decisão, necessário se faz o retorno dos autos para prolação de novo julgamento dos embargos declaratórios" (fl. 1.334e); e
+II. Art. 85, §§ 2º, 3º e 8º, do Código de Processo Civil - "Ao julgar o Recurso especial n. o1746072/PR6,aSegunda Seção deste Egrégio Superior Tribunal de Justiça(STJ) assentou o entendimento de que os honorários advocatícios devem ser fixados com base na equidade de forma subsidiária, quando não for possível o arbitramento pela regra geral ou quando inestimável ou irrisório o valor da causa. (..) Por essa razão, cabível a conclusão de incidência do artigo 85, parágrafo 8o, do Diploma Processual Civil, visto que se mostrou crível concluir no presente caso pela existência de proveito econômico irrisório, atrelado a um valor da causa muito baixo" (fls. 1.338/1.340e).
+Com contrarrazões (fls. 1.351/1.356e), o recurso foi inadmitido (fls. 1.358/1.360e), tendo sido interposto Agravo, posteriormente convertido (fl. 1.407e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não se pode conhecer a apontada violação ao art. 1.022 do Código de Processo Civil de 2015, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+(AgRg no REsp 1450797/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2014, DJe 11/06/2014)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA DE INDICAÇÃO CLARA E OBJETIVA DOS PONTOS SUPOSTAMENTE OMITIDOS. INCIDÊNCIA DA SÚMULA 284/STF. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO TERCEIRO. NÃO INDICAÇÃO CLARA E OBJETIVA DOS DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se à hipótese o óbice da Súmula 284 do STF. Precedentes: REsp 1.595.019/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/5/2017; AgInt no REsp 1.604.259/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/9/2016.
+2. A mera divagação sobre a tese recursal, com simples citação de alguns dispositivos legais, não supre a necessidade da indicação clara e objetiva dos normativos supostamente violados. Incidência da Súmula 284/STF. Precedentes: AgInt no AREsp 922.685/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/9/2016; EDcl no AREsp 127.113/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 21/3/2012; REsp 712.800/CE, Rel. Ministro Castro Meira, Segunda Turma, DJ 5/9/2005).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1631747/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 09/08/2017).
+RECURSO ESPECIAL. RETENÇÃO DE MERCADORIAS. DIREITOS ANTIDUMPING. MULTA. LEI 9.019/95. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REVISÃO. ART. 7º, § 4º, DA LEI 9.019/1995. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 1.022 do CPC/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+3. Recurso Especial não conhecido.
+(REsp 1668052/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/06/2017, DJe 20/06/2017).
+Quanto à questão de fundo, o tribunal de origem fixou os honorários advocatícios sucumbenciais e os majorounos seguintes termos (fls. 1.177/1.281e):
+Pelo exposto, JULGO PROCEDENTE o pedido para: a) declarar a imunidade tributária da embargante, conforme dispõe o art. 150, inciso VI, "c", da CR/88; b) anular o lançamento fiscal atinente à cobrança de IPTU, objeto da Execução Fiscal n.º 0468405-30.2014.8.19.0001, em apenso, devendo a mesma prosseguir apenas com relação à cobrança da TCDL. Condeno o Município ao pagamento dos honorários advocatícios sobre o valor atualizado do crédito tributário em questão, pelo percentual mínimo de cada faixa fixada nos incisos do §3º do artigo 85 do NCPC e, sendo o caso, na forma do respectivo §5º.
+ ..
+Nestes termos, nega-se provimento ao recurso, majorados os honorários de advogado para 15% (quinze por cento) sobre o valor do proveito econômico obtido na forma do artigo 85, § 3º, I, e § 11, do Código de Processo Civil.
+No caso, considerando as circunstâncias abstraídas no acórdão recorrido, não vislumbro excepcionalidade a justificar a revisão da verba honorária fixada, o que enseja a aplicação da Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 8º, DO CPC/2015. APRECIAÇÃO EQUITATIVA. POSSIBILIDADE NO CASO. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. ACÓRDÃO A QUO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. FIXAÇÃO MEDIANTE CRITÉRIO DE EQUIDADE. POSSIBILIDADE. REVISÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Esta Corte entende ser possível a fixação dos honorários advocatícios mediante critério de equidade, em observância ao art. 85, § 8º, do CPC/2015, em causas em que o proveito econômico não é inestimável ou irrisório ou, ainda, em que o valor da causa não é muito baixo. Precedentes: REsp 1.771.147/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 25/9/2019 e REsp 1.795.760/SP, Relator Ministro Gurgel de Faria, Primeira Turma, DJe 3/12/2019.
+2. Prevalece no STJ a orientação segundo a qual a fixação por equidade da verba honorária envolve a apreciação de matéria de ordem fática, de sorte que não se admite seu reexame na via especial ante o óbice da Súmula 7. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1824002/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. EXPOSIÇÃO AO AGENTE NOCIVO RUÍDO NÃO COMPROVADA. ALTERAÇÃO DO ACÓRDÃO A QUO. SÚMULA 7/STJ. HONORÁRIOS. MAJORAÇÃO. SÚMULA 7.
+1. O Tribunal a quo, soberano na análise do conjunto probatório, entendeu pela ausência de comprovação de exposição à atividade insalubre. Dessa forma, modificar tal conclusão demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+2. A fixação da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7.
+Agravo interno improvido.
+(AgInt no AREsp 824.714/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/05/2016, DJe 12/05/2016)
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
