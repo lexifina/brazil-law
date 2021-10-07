@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ABEDALA ISSA SAID MIZHER, com fundamento nas alíneas "a" e "c" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (e-STJ, fls. 124-138):
+"PROCESSO PENAL. OPERAÇÃO EQUIPOS. INCIDENTE DERESTITUIÇÃO DE COISAS APREENDIDAS. MONTANTE DO VALORARRECADADO COM A ALIENAÇÃO ANTECIPADA DO VEÍCULOAPREENDIDO. ILEGALIDADE DA CONSTRIÇÃO. TRANSCURSO DOTEMPO. DENÚNCIA NÃO APRESENTADA. INOCORRÊNCIA.
+1. A decisão que decretou a constrição patrimonial de sequestrosedeu em contexto em que também investigados crimes praticados peloparticular contra a administração.
+2. A legalidade da alienação antecipada do veículo, cujocorrespondente econômico busca restituição o apelante, já foi sindicada emduas oportunidade por este tribunal, nos autos de mandado de segurançaimpetrado para sustar a determinação de alienação antecipada, e nojulgamento da apelação interposta da decisão que denegou o pedido derestituição do veículo alienado.
+3. O transcurso do tempo desde a medida de constrição, sem aapresentação da denúncia, no caso, está justificada pela complexidade dosfatos investigados.
+4. Apelação desprovida".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 125 e 137 do CPP, bem como do art. 2º, § 1º, do Decreto 3.240/1941. Aduz para tanto, em síntese, que: (I) o bem constrito e alienado antecipadamente teria procedência lícita, sendo inválido seu sequestro; e (II) decorridos mais de 4 anos desde a implementação da medida, sem oferecimento de denúncia, o montante da alienação lhe deveria ser restituído.
+Com contrarrazões (e-STJ, fls. 258-275), o recurso especial foi admitido na origem (e-STJ, fl. 278).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 292-299).
+É o relatório.
+Decido.
+A insurgência recursal é procedente.
+Como se colhe do acórdão recorrido, a parte recorrente teve um veículo de sua propriedade sequestrado em 2/8/2017 (e-STJ, fl. 133) ealienado antecipadamente em 5/12/2017 pelo valor de R$ 40.700,00 (e-STJ, fl. 125), cuja restituição o interessado agora pleiteia; desde então,sequer foi oferecida denúncia em desfavor do recorrente.Para essa espantosa demora doParquet, o TRF forneceu apenas a justificativa de que os fatos investigados são complexos (e-STJ, fl. 134), sem ao menos detalhar em quê, precisamente, constituiria essa complexidade. De forma semelhante, as contrarrazões do MPF ao recurso especial também não explicam por qual razão não foi possível oferecer a denúncia nessesmais de 4 anosdesde a data da constrição.
+Tal cenário viola completamente o princípio da razoabilidade, porquanto ultrapassados em muito os prazos dos arts. 131, I, do CPP e 2º, § 1º, do Decreto-lei 3.240/1941, sem nenhuma justificativa plausível para tamanha demora. Investigações infinitas, mormente quando causam ônus patrimoniais severos sobre pessoas presumidas inocentes, não podem ser toleradas por este STJ.
+Destaco, a propósito, osseguintesprecedentes:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO CUSTO BRASIL. SEQUESTRO DE BENS. LEVANTAMENTO DETERMINADO PELO TRIBUNAL DE ORIGEM. EXCESSO DE PRAZO DA MEDIDA CONSTRITIVA. ART. 131, I, DO CPP. NÃO OFERECIMENTO DA AÇÃO PENAL.ENTENDIMENTO QUE GUARDA CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. AUSÊNCIA DE PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA PARA JUSTIFICAR EVENTUAL PERSECUÇÃO PENAL. REVISÃO.INVIABILIDADE. SÚMULA 7/STJ. ALEGAÇÃO DE OFERECIMENTO DA DENÚNCIA.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. A manutenção de medidas constritivas por mais de 2 (dois) anos, desde a data de sua imposição, sem nenhum indiciamento ou instauração de ação penal pela prática de qualquer crime, revela manifesta ofensa ao princípio da razoabilidade, situação que não pode ser tolerada pelo Poder Judiciário. Precedentes.
+ ..
+4. Agravo regimental improvido".
+(AgRg no AREsp 1685251/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/03/2021, DJe 29/03/2021; grifei)
+"PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO EM MANDADO DE SEGURANÇA. OPERAÇÃO LAMA ASFÁLTICA. INVESTIGAÇÃO POLICIAL.SEQUESTRO. DECRETAÇÃO. BLOQUEIO DE BENS E ATIVOS FINANCEIROS. ART.4º DO DECRETO-LEI N. 3.240/1941. CRIME QUE RESULTA PREJUÍZO PARA A FAZENDA PÚBLICA. REPARAÇÃO AO ERÁRIO. DECISÃO GENÉRICA E ABSTRATA.INVIABILIZAÇÃO DO EXERCÍCIO DAS ATIVIDADES ECONÔMICAS LÍCITAS.OFENSA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.EXCESSO DE PRAZO VERIFICADO.
+1. A medida prevista no art. 4º do Decreto-Lei n. 3.240/1941 deve ser suficiente para a garantia do ressarcimento dos prejuízos e atingir o seu objetivo, qual seja, atender ao princípio da proporcionalidade e da razoabilidade. O manejo indiscriminado da referida medida, sem particularização do que seria resultado de atos teoricamente praticados pelo ora agravante, ao fundamento único de resguardar os interesses da Fazenda Pública, não pode ser admitido.
+ ..
+3. Outrossim, indica o órgão ministerial que os fatos suspeitos tiveram origem no ano de 2007; a decisão de bloqueio data de 2017, abrangendo toda a renda auferida pelo agravante e perdura até a presente data, o que claramente fere o princípio da razoabilidade.
+4. O art. 5º, LXXVIII, da Constituição Federal assegura a todos a duração razoável do processo, de modo a impedir que as partes se sujeitem por tempo incompatível aos efeitos deletérios de uma ação judicial, que se mostram ainda mais gravosos no âmbito penal.
+5. Agravo regimental provido, a fim de conceder a segurança postulada, assegurando ao ora agravante o direito de movimentar as suas contas bancárias".
+(AgRg no RMS 60.870/MS, Rel. Ministra LAURITA VAZ, Rel. p/ Acórdão Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/09/2019, DJe 11/10/2019; grifei)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ,dou provimentoao recurso especial, para deferir o pedido de restituição dos valores decorrentes da alienação antecipada do veículo de ABEDALA ISSA SAID MIZHER.
+Publique-se. Intimem-se.
