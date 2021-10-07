@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por CAMILA VIGARIO GUEDES FONTE, SIMONE APARECIDA ALMEIDA DOS SANTOS eTHAMIRIS LIMA PEDRO contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal.
+A defesa aponta negativa de vigência aos arts. 41, 381e 564, IV, do CPP, bem como do art. 489 do CPC/2015.Aduz, em síntese: a) inépcia da denúncia ante o descumprimento dos requisitos formais do art. 41 do CPP;e b) ausência de demonstração, no acórdão recorrido, quanto às provas aptas a fundamentar a condenação das recorrentes.
+Foram apresentadas as contrarrazões (e-STJ, fls. 793-802).
+O recurso foi inadmitido em razão da aplicação do óbice da Súmula 7/STJ (e-STJ, fls. 805). Daí este agravo (e-STJ, fls. 810-816).
+O Ministério Público Federal manifestou-se não conhecimento do recurso especial (e-STJ, fls. 839-842).
+É o relatório.
+Decido.
+Está inscrito na denúncia:
+"Relata o incluso inquérito policial que no dia 26 de junho de 2018, por volta das 15h04min, no estabelecimento comercial Lojas Pernambucanas, na Av. Condessa de Vimiciros, nº 17, Centro, nesta cidade c comarca de Itanhaém, as agentes supra apontadas, agindo previamente ajustadas e com identidade de propósitos, subtraíram, para si, coisas alheias móveis, consistentes em uma blusa feminina cinza, uma camiseta feminina, uma jaqueta feminina estampada, uma camiseta vermelha, uma blusa feminina estampada, uma blusa feminina estampada preta pertencentes às LOJAS PERNAMBUCANAS.
+Noticia, ainda, o anexo caderno investigatório, que na mesma data, no estabelecimento comercial Bazar e Bijouteria, na Praça Narciso de Andrade IV 104 e 146, Centro, nesta cidade e comarca de Itanhaém, as agentes supra apontadas, agindo previamente ajustadas e com identidade de propósitos, subtraíram, para si, coisas alheias móveis, consistentes em um óculos infantil roxo, dois ioiôs, um telefone infantil, duas camisetas do brasil, uma cartela de ferramentas infantil, um vestido listado cinza e branco, três nécessaires, três chinelo feminino havaiana preto/ rosa e coral, dois jogos de presilhas de cabelo, um brinco de bolinha dourada, pertencentes ao BAZAR E BIJOUTERIA. (auto de avaliação fls.33)
+Segundo se apurou, na ocasião dos acontecimentos, as denunciadas, aproveitando-se da distração de vendedores das lojas vítimas, ingressaram nos comércios acima mencionados e, de forma continuada, furtaram as mercadorias acima descritas.
+Acontece que as denunciadas foram reconhecidas na loja Chilly Beans como autoras de crime em data anterior, razão pela qual foi acionada a polícia.
+As denunciadas se separaram para tentar se evadirem, mas acabaram sendo localizadas e detidas. Na posse das denunciadas e no veículo que utilizavam foram localizados vários produtos novos, sendo que em diligências junto às vítimas, apurou-se que haviam sido furtados dos comércios em questão.
+As denunciadas confessaram perante a Autoridade Policial a autoria delitiva, alegando terem furtado para comprar drogas" (e-STJ, fls. 330-331).
+Sobre a alegada inépcia da denúncia, a jurisprudência desta Corte Superior entende que a superveniência da sentença condenatória torna prejudicada a discussão quanto a esta específica tese recursal. A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.COMPARTILHAMENTO DE DADOS DA RECEITA FEDERAL COM ÓRGÃOS DE PERSECUÇÃO PENAL. PRECEDENTE DO STF. REPERCUSSÃO GERAL (TEMA 990).VIABILIDADE. INÉPCIA DA DENÚNCIA. SENTENÇA PROLATADA. COGNIÇÃO EXAURIENTE. PREJUDICIALIDADE. INDEFERIMENTO DE DILIGÊNCIA. DECISÃO FUNDAMENTADA. POSSIBILIDADE. GRAVE DANO À COLETIVIDADE. ART. 12, I, DA LEI N. 8.137/1990. CAUSA DE AUMENTO. VALOR DO CRÉDITO TRIBUTÁRIO SONEGADO DESCRITO NA DENÚNCIA. DESNECESSIDADE DE PERÍCIA.
+PRECEDENTE. AGRAVO DESPROVIDO.
+ ..
+2. Após a prolação de sentença condenatória, em que é realizado um juízo de cognição mais amplo, perde força a discussão acerca de eventual inépcia da denúncia. Precedentes.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no REsp 1836170/SP, de minha relatoria, QUINTA TURMA, julgado em 18/08/2020, DJe 25/08/2020)
+No que se refere à condenação dos recorrentes pelos crimes de furto, colhe-se a seguinte fundamentação utilizada pelo Tribunal de origem:
+"Destarte, em que pesem os esforços desenvolvidos pela combativa Defesa, o convencimento firmado a partir das provas é no sentido de que as acusadas praticaram o crime de furto, conforme a narrativa acusatória. Os elementos probatórios trazidos aos autos são mais que suficientes para incutir no Julgador o juízo de certeza necessário à condenação.
+O furto aqui tratado restou consumado, até mesmo pela desnecessidade da posse mansa e pacífica, bastando para sua consumação o mero desapossamento da res. No caso em questão, as rés foram surpreendidas pelos Policiais em posse das mercadorias furtadas, bem como foram encontrados outros objetos deorigem ilícita no veículo em que estavam" (e-STJ, fls. 763-764).
+Como se vê, o acórdão recorrido motivadamente concluiu pela presença de provas suficientes a comprovar a autoria e a materialidade do delito, o que afasta a alegada ofensa aos arts. 489 do CPC/2015 e 381 do CPP.
+Destaco que "nos moldes do entendimento deste Sodalício, o magistrado, ao apreciar a contenda, deve apresentar as razões que o levaram a decidir desta ou daquela maneira, apontando fatos, provas, jurisprudência, aspectos inerentes ao tema e a legislação que entender aplicável ao caso, porém não é obrigado a se pronunciar, ponto a ponto, sobre todas as teses elencadas pelas partes, desde que haja encontrado razões suficientes para decidir" (HC 370.708/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/10/2016, DJe 21/10/2016).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravopara negar provimentoao recurso especial.
