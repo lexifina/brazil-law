@@ -1,0 +1,8 @@
+DECISÃO
+JOEL GOMES DE OLIVEIRA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 00135205-04.2021.8.26.0000, em que foi mantida a desconsideração dos dias remidos como pena efetivamente cumprida para a obtenção de benefícios executórios.
+Assere a defesa que "a interpretação legal, reconhecida pela jurisprudência citada é simples. Basta reconhecer o tempo remido como pena cumprida para obtenção dos benefícios legais" (fl. 6).
+Salientou a Corte de origem que "a lei procura beneficiar o preso de todas as formas; porém, a interpretação dela não pode atentar contra a lógica e o bom-senso (para não falar da Física, operando com o tempo e seu decorrer um milagre que deixaria o próprio Einstein boquiaberto)" (fl. 56).
+Entretanto, segundo a jurisprudência do Superior Tribunal de Justiça, " n os termos do art. 128 da Lei de Execuções Penais, e da jurisprudência deste Tribunal Superior "os dias remidos pelo apenado por estudo ou por trabalho devem ser considerados como pena efetivamente cumprida" (HC n. 194.838/SP, Quinta Turma, Rel. Min. Gilson Dipp, DJe de 1º/08/2012), devendo ser somados ao tempo de pena para verificação do preenchimento dos requisitos necessários para a concessão de eventuais benefícios executórios" (HC n. 462.464/SP, Rel. Ministro Felix Fischer, 5ª T,, DJe 28/9/2018).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, o habeas corpus para determinar que os dias remidos sejam considerados como pena efetivamente cumprida.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
