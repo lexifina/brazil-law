@@ -1,0 +1,34 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO. INGRESSO POLICIAL APOIADO EM ATITUDE SUSPEITA DO ACUSADO. FUGA NO MOMENTO DA ABORDAGEM. AUSÊNCIA DE JUSTA CAUSA. VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A mera irresignação com o resultado do julgamento, visando, assim, à reversão do que já foi regularmente decidido, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. O cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso dos autos.
+3. Na espécie, tanto o acórdão quanto a sentença condenatória delineiam situação fática em que o ingresso forçado na casa onde foram apreendidas as drogas não se sustenta em fundadas razões. Isso, porque a diligência apoiou-se em mera denúncia anônima e no comportamento suspeito do acusado, que descartou material e empreendeu fuga no momento da abordagem, circunstâncias que não justificam, por si sós, a dispensa de investigações prévias ou do mandado judicial. Posto isso, o contexto fático narrado não corrobora a conclusão inarredável de que na residência praticava-se o crime de tráfico de drogas.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA ao acórdão assim ementado (e-STJ fl. 175):
+HABEAS CORPUS. TRÁFICO DE DROGAS. APREENSÃO DE 450G (QUATROCENTOS E CINQUENTA GRAMAS) DE MACONHA E 12G (DOZE GRAMAS) DE COCAÍNA. VIOLAÇÃO DE DOMICÍLIO. INGRESSO POLICIAL APOIADO EM MERA DENÚNCIA ANÔNIMA E NO COMPORTAMENTO SUSPEITO DO ACUSADO. AUSÊNCIA DE JUSTA CAUSA. APLICAÇÃO DO ENTENDIMENTO FIRMADO NO HC N. 598.051/SP. ORDEM CONCEDIDA.
+1. Tendo como referência o recente entendimento firmado por esta Corte, nos autos do HC n. 598.051/SP, o ingresso policial forçado em domicílio, resultando na apreensão de material apto a configurar o crime de tráfico de drogas - 450g (quatrocentos e cinquenta gramas) de maconha e 12g (doze gramas) de cocaína -, quando apoiado em mera denúncia anônima, no comportamento suspeito do acusado, que descartou material e empreendeu fuga no momento da abordagem, não traz contexto fático que justifica a dispensa de investigações prévias ou do mandado judicial para a entrada dos agentes públicos na residência, acarretando a nulidade da diligência policial, como no caso dos autos.
+2. Ordem concedida para anular as provas decorrentes do ingresso forçado no domicílio.
+Em suas razões, afirma omissão quanto à análise da tese arguida no agravo regimental. Para tanto afirma: "É que, além da denúncia anônima que justificou a realização de rondas na localidade, os policiais visualizaram movimentação típica de narcotraficância em frente à residência. Além disso, as circunstâncias da abordagem - fuga do Embargado pelos fundos da residência para se desfazer de objeto posteriormente identificado como maconha - também motivaram a entrada dos agentes na residência, enrijecendo a suspeita dos policiais militares de que o crime de tráfico estava sendo praticado naquele exato momento, o que foi confirmado, posteriormente, com a apreensão de uma porção de 12,7g de cocaína, uma porção de 452,9g  quatrocentos e cinquenta e dois gramas e nove decigramas  de maconha e outras duas porções com massa total de 14,6g  quatorze gramas e seis decigramas  de maconha" (e-STJ fls. 196/197).
+Requer o "conhecimento e acolhimento dos presentes embargos de declaração, para suprir a omissão indicada, com a manifestação expressa acerca do preceito constitucional insculpido no art. 5º, XI, da CF " (e-STJ fl. 198).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, conforme o art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, que não se fazem presentes no caso em análise.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.  ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn n. 613/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+As conclusões constantes da decisão recorrida não encerram nenhum dos vícios acima mencionados.
+As razões dos aclaratórios revelam, na verdade, o inconformismo da parte com o desfecho da causa e objetivam puramente a rediscussão da matéria.
+Na espécie, tanto o acórdão quanto a sentença condenatória delineiam situação fática em que o ingresso forçado na casa onde foram apreendidas as drogas não se sustenta em fundadas razões. Isso, porque a diligência apoiou-se em mera denúncia anônima e no comportamento suspeito do acusado, que descartou material e empreendeu fuga no momento da abordagem, circunstâncias que não justificam, por si sós, a dispensa de investigações prévias ou do mandado judicial. Posto isso, o contexto fático narrado não corrobora a conclusão inarredável de que na residência praticava-se o crime de tráfico de drogas.
+Tal o contexto, ausentes os vícios imputados à decisão combatida, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
