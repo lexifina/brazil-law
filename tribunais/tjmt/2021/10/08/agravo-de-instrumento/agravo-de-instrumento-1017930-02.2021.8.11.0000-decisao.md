@@ -1,0 +1,33 @@
+AGRAVO DE INSTRUMENTO No 1017930-02.2021.8.11.0000
+AGRAVANTE:- TOKIO MARINE SEGURADORA S.A.
+AGRAVADO:- HIGOR ANACLETO VIEIRA EIRELI
+Agravo de Instrumento n. 1017930-02.2021.8.11.0000 de decisão da 11a Vara Cível da Comarca de Cuiabá que, em Ação de Cumprimento de Contrato c/c Obrigação de Fazer, deferiu a tutela de urgência determinando que a parte requerida, no prazo de 48 (quarenta e oito) horas, efetue o pagamento da quantia de R$ 154.108,49 (cento e cinquenta e quatro mil cento e oito reais e quarenta e nove centavos) referentes as despesas fixas e de aluguel dos meses de maio e junho, bem como determino o pagamento mensal das despesas fixas e de aluguel, até cinco dias após o recebimento da documentação do fato gerador, sob pena de aplicação das medidas necessárias para a efetivação da tutela, conforme art. art. 297, do Código de Processo Civil.
+A agravante alega que o feito foi ajuizado porque o agravado pretende receber apólice de seguro em razão de incêndio no local do risco, culminando na destruição total do imóvel.
+Aduz que esse fato ocorreu após 73 dias da assinatura do contrato e está sendo investigado pela Polícia Civil do Estado de Mato Grosso pois, segundo o laudo pericial emitido pela Politec/MT, trata-se de incêndio intencional.
+Diz que ajuizou Ação de Exibição de Documentos n. 1026855-58.2021.8.11.0041, pois até o momento não é possível verificar se o sinistro está coberto pela apólice n. 6190180 0001485396, já que a agravada não lhe entrega os documentos necessários à conclusão da regulação, nos termos da cláusula 20.1.5 da apólice.
+Afirma que, se concluído pela cobertura, eventual liquidação “somente poderá ser efetuado após terem sido relatadas as circunstâncias da ocorrência do sinistro, apuradas as suas causas, provados os valores a indenizar e o direito de recebê-los, cabendo ao segurado, ou quem o representar, prestar toda a assistência para que isto seja concretizado”, conforme cláusula 24 da apólice.
+Argumenta que, para que haja o reembolso das despesas fixas é preciso a comprovação do pagamento feito pela segurada, o que não ocorreu, uma vez que não foram apresentados recibo de aluguel, prestação de serviços contábeis ou advocatícios, declaração de imposto de renda, fatura de energia etc.
+E mais, durante a regulação do sinistro a agravada não forneceu documentos fiscais e particulares essenciais à regulação do sinistro, não tendo apresentado livros fiscais, declarações do Simples Nacional referente a 2021, balanço patrimonial, imposto de renda, nota fiscais dos bens e serviços relacionados as suas atividades empresariais ou documentos comprobatórios de todos os bens de terceiro afetados pelo incêndio.
+Pede o efeito suspensivo ou, alternativamente, que seja prestada caução.
+É o relatório.
+A agravada ajuizou o feito objetivando o cumprimento parcial do contrato de seguro empresarial firmado em 19-2-2021.
+Aduz que em 3-5-2021 ocorreu um incêndio com a total destruição do imóvel, e então acionou imediatamente a seguradora comunicando sobre o fato.
+Afirma que encaminhou o contrato de locação, solicitando ainda a cobertura contratada referente as despesas fixas (salários, honorários, encargos trabalhistas, impostos, entre outros), porém a seguradora não efetivou o pagamento.
+Por sua vez, a agravante afirma que a segurada não apresentou todos os documentos necessários para a conclusão da regulação, nos termos da cláusula 20.1.5 da apólice.
+A tutela de urgência foi concedida nos seguintes termos:
+(...)
+Analisando detidamente os autos e os novos documentos e argumentos trazidos pelo autor por ocasião do pedido de reconsideração, entendo que o pedido possui competência para a modificação da decisão anteriormente proferida pelo juízo.
+Conforme apólice de seguro acostada no id 60383456 e 60383457, observa-se que há previsão de pagamento de cobertura no caso de incêndio, despesas de aluguel decorrentes de incêndio e despesas fixas oriundas do sinistro ocorrido, desse modo, deve ser realizado o trâmite junto à seguradora para o encaminhamento dos documentos necessários para a análise do pagamento das coberturas previstas.
+Nota-se nos autos que a parte autora encaminhou para a requerida inúmeros documentos solicitados para a análise e término da regulação, sendo solicitado documentos específicos, contudo, a autora informa a impossibilidade de apresentação, posto que queimado no sinistro em questão.
+Pois bem. Não se mostra razoável a atitude da seguradora em exigir documentação que, conforme reiterado pela parte autora, tenha sido completamente destruída pelo incêndio ocorrido no imóvel.
+Desse modo, incabível, nesse momento processual, a exposição da parte autora e terceiros ao excessivo prejuízo, diante da injustificada solicitação de documentos impossíveis de serem apresentados, seja diretamente à seguradora ou em juízo, uma vez que a documentação deixou de existir na ocorrência do sinistro discutido na regulação.
+Por fim, verifica-se presente a probabilidade do direito e o perigo de dano ou o risco resultado útil do processo, tendo em vista a existência de cobertura específica para os riscos de incêndio, despesas com a aluguel e despesas fixas.
+Diante do exposto, revogo a decisão de id 61019244 DEFIRO a tutela de urgência pleiteada e determino que a parte requerida, no prazo de 48 (quarenta e oito) horas, efetue o pagamento da quantia de R$ 154.108,49 (cento e cinquenta e quatro mil cento e oito reais e quarenta e nove centavos) referentes as despesas fixas e de aluguel dos meses de maio e junho, bem como determino o pagamento mensal das despesas fixas e de aluguel, até cinco dias após o recebimento da documentação do fato gerador, sob pena de aplicação das medidas necessárias para a efetivação da tutela, conforme art. 297, do Código de Processo Civil. (Id 104515961 - Pág. 5/6)
+A matéria é delicada e exige cautela na análise, visto que no contrato são indicados diversos documentos a serem apresentados em caso da ocorrência de sinistro e, ao que consta, não foi totalmente cumprido pela agravada.
+São questões que precisam ser apreciadas com cuidado, o que será feito após a contraminuta, juntamente com todos os documentos apresentados.
+Não se nega aqui o interesse da agravada na rápida solução, todavia, é importante registrar que o Agravo de Instrumento tem tramitação célere e, tão logo apresentada a contraminuta, será imediatamente incluído em pauta para julgamento.
+Posto isso, defiro, por ora, o efeito suspensivo.
+Comunique-se a juíza da causa e intime-se a parte adversa para oferecer resposta em quinze dias.
+Cuiabá, 8 de outubro de 2021.
+Des. Rubens de Oliveira Santos Filho
+Relator
