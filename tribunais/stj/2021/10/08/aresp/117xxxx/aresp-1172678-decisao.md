@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo CONSELHO REGIONAL DE MEDICINAVETERINÁRIA DO ESTADO RIO GRANDE DO SUL contra decisão do TribunalRegional Federal da 4ª Região, que não admitiu recurso especial fundadonas alíneas "a" e "c" do permissivo constitucional para desafiar acórdãoassim ementado (e-STJ fl. 168):
+CONSELHO REGIONAL DE MEDICINA VETERINÁRIA. COMÉRCIO DE PRODUTOS AGROPECUÁRIOS, VETERINÁRIOS E ANIMAIS VIVIOS. CONTRATAÇÃO DE PROFISSIONAL MÉDICO-VETERINÁRIO E INSCRIÇÃO NO CRMV. DESNECESSIDADE. HONORÁRIOS ADVOCATÍCIOS.
+Somente as empresas que têm como atividade-fim o exercício profissional da medicina veterinária é que estão obrigadas a se registrarem no conselho Regional de Medicina Veterinária.
+Empresas que se dedicam ao ramo de comercialização de produtos agropecuários de alimentação animal e medicamentos, bem como de pequenos animais, não estão obrigadas a se inscreverem no Conselho Regional de Medicina Veterinária, pois não desenvolvem atividades peculiares à medicina veterinária, estando tampouco obrigadas a contratarem profissionais médicos veterinários.
+Honorários reduzidos.
+No especial obstaculizado, o ora agravante aponta, além de divergênciajurisprudencial, violação dos arts. 5º, "c", "d"e "e", 6º, 27 e 28 da Lei n.5.517/1968e 1ºdaLei n. 6.839/1980.Para tanto, sustenta que há a necessidade de registro no Conselho Regionalde Medicina Veterinária e de contratação de profissional responsáveltécnico pelo estabelecimento.
+A decisão a quo inadmitiu o recurso especial  em razão da conformidade do acórdão recorrido com o Tema STJ 616..
+O Conselhointerpôs agravo em recurso especial requerendo o sobrestamento dos autos até o julgamento final dos Temas 616 e 617 do STJ, bem como arguiu que não houve trânsito do julgamento do RESp 1.338.942, pendente de análise os embargos dedeclaraçãoopostos peloConselho,razão pela qual deve prosseguir o presente recurso.
+Contraminuta às e-STJ fls. 310/317.
+Passo a decidir.
+Inicialmente, cumpre destacar que aos recursos interpostos com fundamentono CPC/2015 (relativos a decisões publicadas a partir de 18 de março de2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista(Enunciado Administrativo n. 3).
+Isso considerado, verifico que a irresignação recursal não mereceprosperar.
+Como relatado, o juízo denegatório realizado pelo Tribunal de origem negouseguimento ao recurso especial, tendo em vista o julgamento definitivo do Tema 616pelo STJ sob o rito dos recursos repetitivos. De forma que o recurso teve seu seguimento negadonos termos do art. 1.030,I, "b", do CPC/2015, cuja irresignação só pode ser arguida em sede deagravo interno, em obediência ao disposto no § 2º do referido artigo dalei processual, o que não ocorreu na espécie.
+Com efeito, deve-se mencionar que esta Corte não admitia a interposição doagravo de instrumento contra a decisão que, com base no art. 543-C, § 7º,I, do CPC/1973, negava seguimento a recurso especial (QO no Ag1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe12/05/2011), nem tem, atualmente, na vigência do CPC/2015, admitido ainterposição de Agravo em Recurso Especial (AgInt no AREsp1.097.673/SP, de minha relatoria, Primeira Turma, DJe 23/02/2018).
+Vale salientar que, no caso, o juízo de admissibilidade negou seguimento aparte do apelo extremo, com base na legislação processual de 2015 (art.1.030, I, "b"), o que afasta qualquer possibilidade de retorno dos autos àorigem para que aprecie o presente recurso como agravo interno (AgInt no AREsp 1.177.182/SP, rel. Ministra Assusete Magalhães, SegundaTurma, DJe 21/05/2018).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃOCONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
