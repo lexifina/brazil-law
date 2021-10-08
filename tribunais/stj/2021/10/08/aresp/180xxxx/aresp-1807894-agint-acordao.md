@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão de fls. 2.367-2.370, proferida pelo Presidente desta Corte Superior, o qual conheceu do agravo para não conhecer do recurso especial.
+A parte agravante sustenta que houve negativa de prestação jurisdicional na hipótese dos autos. Afirma que "Ocorre que, a ora agravante embargou demonstrando que acórdão restou omisso já que não analisou que existe expressamente a cláusula de renovação automática do crédito, eis que não foi observado que a pactuação dos encargos cobrados se estendeu para além do prazo contratual em detrimento de tal renovação. Os embargos de declaração não foram aceitos pelo Tribunal local por entender que inexiste qualquer omissão no julgado quanto a declaração de validade do pactuação de renovação automática do crédito." (fl. 2.378).
+Argumenta que, "Diante dos tópicos trazidos, mesmo com a demonstração de que havia expressa cláusula de renovação automática contida no contrato juntado aos autos, o tribunal local se limitou a não conhecer os embargos de declaração por motivos genéricos, não sanando as omissões apontadas, razão pela qual o recurso especial com base no art. 1.022, II do CPC foi interposto" (fl. 2.379).
+Houve impugnação apresentada pela parte agravada (fls. 2.411-2.421, e-STJ), requerendo que a parte recorrente seja condenada de multa na forma do art. 1.021, § 4º, do Cógido de Processo Civil.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. NÃO PROVIMENTO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): O inconformismo não merece prosperar.
+Anoto, preliminarmente, que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de ofensa ao art. 1.022 do Código de Processo Civil de 2015.
+O Tribunal de origem enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece reparo algum. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+No caso em exame, o Tribunal de origem se manifestou nos seguintes termos (fls. 2.160-2.162):
+Conta corrente nº 93966-8 e cédulas de crédito bancário nos 340755248, 56704894, 313878829 e 268408846
+Consoante registros de movimentação da conta corrente nº 93966-8 (seq. 264.3), constata-se que ocorreu fluxo financeiro desde 28/04/2009 até 05/10/2016.
+De referido intervalo de tempo, anota-se que apenas em parcela do relacionamento bancário a instituição financeira se encontrava apoiada contratualmente para a exigência de juros capitalizados.
+Isso em razão de, quando da celebração das Cédulas de Crédito Bancário n os 340755248, 56704894, 313878829 e 268408846, as quais são ligadas à conta corrente objeto de revisão (nº 93966-8), há manifesta informação da capitalização, em periodicidade mensal e taxas de juros, respectivamente, nos percentuais mensais de 2,90% (mov. 1.14, p. 35); 2,55% (mov. 1.14, p. 25); 2,55% (mov. 1.14, p. 14) e 2,80% (mov. 1.4, p. 04), conforme cláusulas 5 e 5.2 para todos os contratos, a seguir transcritas:
+ ..
+As CCB"s referem-se às contratações particulares de liberação de crédito, com período demarcado de duração, de 28/04/2009 (data de início da cédula nº 340755248) a 19/09/2012 (data de vencimento da cédula nº 268408846), não suprindo ausência de contratação dos juros no período final posterior ao assinalado (em consequência da falta de cláusula contratual de prorrogação automática), referente aos contratos de abertura de crédito em conta corrente.
+Outrossim, contando desde a instrumentalização das cédulas de crédito bancário, apura-se que a constância da capitalização resta refletida nos contratos, consoante item 1.11.3 dos instrumentos, no qual consta o intervalo mensal de exigência dos juros capitalizados.
+Ressalta-se, por oportuno, que inexiste qualquer violação ao dever de informação e transparência, porquanto as cláusulas 5 e 5.2, que estipularam que os encargos seriam exigíveis de acordo com os dados descritos no cabeçalho do instrumento contratual, foram grafadas em termos claros, não se observando óbice de compreensão de seu conteúdo.
+Consequentemente, tendo em vista a concreta pactuação da capitalização de juros, a partir das transações específicas e no período delimitado (28/04/2009 até 19/09/2012), não há que se falar em ilegalidade dessa prática, sendo necessária a conservação do decisum nesse ponto.
+Entretanto, na conta corrente e nos períodos sem a efetiva demonstração da contratação, nula é a sua cobrança, como argumentam os recorrentes.
+Na espécie, não há, nos autos, contrato da conta corrente (seja a proposta ou o instrumento específico), razão pela qual a instituição financeira não provou, consoante lhe cabia, estar expressamente autorizada a cobrar juros capitalizados, ressalvada a regularidade a contar do intervalo de tempo supra designado.
+Desse modo, acolhe-se a pretensão de afastamento da capitalização de juros, mas apenas no lapso temporal posterior a 19/09/2012, vez que a falta de instrumentalização específica obsta a sua exigência.
+Assim, a alegada afronta ao art. 1.022 do CPC não merece prosperar, porque o acórdão recorrido examinou devidamente a controvérsia dos autos, fundamentando suficientemente sua convicção, não havendo se falar em negativa de prestação jurisdicional porque não ocorrentes nenhum dos vícios previstos no referido dispositivo legal, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Confiram-se, nesse sentido: AgInt no AREsp n. 1.652.952/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt no AREsp n. 1.606.785/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/8/2020; AgInt no AREsp n. 1.674.179/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 28/8/2020; AgInt no REsp n. 1.698.339/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgRg no AREsp n. 1.631.705/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; e AgRg no REsp n. 1.867.692/SP, relator Ministro Jorge Mussi, DJe de 18/5/2020.
+Assim, não tendo a parte recorrente trazido nenhum fundamento capaz de modificar a decisão agravada, deve ela prevalecer nos termos em que proferida.
+Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 18/12/2017).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
