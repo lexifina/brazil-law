@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de SABRINA MORAES DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo Regimental n. 0047860-55.2021.8.21.7000).
+A paciente foi condenada à pena de 4 anos e 2 meses de reclusão no regime semiaberto como incursa no art. 33, § 4º, da Lei n. 11343/2006.
+A defesa pleiteou prisão domiciliar, que foi indeferida pelo Juízo da execução.
+Impetrado writ na origem, o Tribunal não conheceu do habeas corpus em acórdão assim ementado (fl. 12):
+AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA. REJEITADO.
+Não se conheceu do habeas corpus, pois, como destacado na decisão monocrática, ele não se enquadrar nas hipóteses previstas no artigo 648 do Código de Processo Penal. A discussão proposta está ligada a benefício na execução da pena do paciente que determina exame mais profundo dos fatos e da Lei de Execução Penal.
+Agravo regimental rejeitado, por maioria.
+Alega existência de constrangimento ilegal, tendo em vista que a paciente possui um filho menor de 6 anos, que depende de seus cuidados.
+Salienta a Recomendação CNJ n. 62/2020, a fim de avaliar a concessão de saída antecipada e de prisão domiciliar, nos casos previstos em lei, para evitar a disseminação da covid-19 nos estabelecimentos prisionais.
+Faz referência ao art. 117 da LEP.
+Requer, liminarmente e no mérito, seja concedida a prisão domiciliar com monitoramento eletrônico.
+É o relatório. Decido.
+Da análise dos autos, verifica-se que a questão discutida neste recurso não foi objeto de exame no acórdão impugnado. Desse modo, o STJ está impedido de apreciá-la, sob pena de indevida supressão de instância.
+Do writ originário não se conheceu por não caber habeas corpus para discussão de questões afetas à execução penal, sendo incabível sua utilização como sucedâneo recursal, nestes termos (fls. 14-20):
+2. Rejeito o agravo regimental. A decisão monocrática, que não conheceu o habeas corpus impetrado em favor da agravante está correta.
+O Código de Processo Civil estabeleceu em seus artigos 926 e seguintes a situação para aplicação de decisões monocráticas. E estes artigos são aplicáveis aos procedimentos penais por força do artigo 3º do Código de Processo Penal.
+Tanto que o é que Capítulo IV do Regimento Interno deste Tribunal, que disciplina a Seção Criminal, prevê em seu artigo 20-C: "Às Turmas de Julgamento compete: I - uniformizar a jurisprudência criminal, (grifei) observados os artigos 926 e 927, bem como o artigo 978 do Código de Processo Civil, e na forma deste Regimento; II.."
+Inicio a fundamentação pelo artigo 926 que prescreve: "Os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente."
+Concluindo, entendo que não precisa esperar a instalação e funcionamento das Turmas referidas acima, para decidir a respeito de certa hipótese em julgamento, quando ela, como ocorre aqui, a hipótese em discussão e julgamento não se enquadrava em nenhum dos incisos do artigo 648.
+Quando da decisão, afirmei:
+"Monocraticamente, não conheço do habeas corpus. Isto porque o pedido do impetrante não se enquadra naquelas situações que, mesmo não sendo o recurso apropriado, é possível conhecê-lo e julgá-lo.
+Sobre o assunto, venho defendendo é possível conhecer de pedido de habeas corpus, formulado como um sucedâneo de recurso. Afinal, trata-se de ação constitucional própria a atacar constrangimento ilegal existente, ou iminente, ao exercício do direito de locomoção, o que pode ocorrer ou durante a ação penal ou no cumprimento da reprimenda criminal.
+Todavia, não é todo o writ que se deva conhecer. É cabível apenas, quando a matéria versada for unicamente de direito, não havendo dúvidas quanto aos fatos. Se, por ventura, demandar um melhor exame da prova, ou até mesmo do direito em discussão, a questão deve ser apreciada em recurso próprio, sempre mais abrangente.
+A respeito, eu trago, por exemplo, a correta lição de Júlio Mirabete:
+"É evidente, ensinam a doutrina e a jurisprudência, que em princípio, não há qualquer impedimento em que seja o habeas corpus, embora tenha sido interposta apelação de sentença condenatória, se a matéria versada no writ for apenas de direito, não havendo dúvidas quanto aos fatos. É o que se tem denominado, impropriamente, de habeas corpus substitutivo. Se a coação porventura pode ser corrigida mediante o meio sumário do mandamus, não há como deixar-se que ela permaneça enquanto tramita o procedimento do recurso, o que nem sempre ocorre com rapidez. Se, entretanto, os fundamentos de ambos são idênticos, as peculiaridades do caso exigindo melhor exame de prova, não é aconselhável o habeas corpus e o julgador deve remeter o exame da matéria para a via do recurso de maior abrangência. "Não há impedimento em que seja impetrado habeas corpus, embora tenha sido interposta apelação da sentença condenatória, se a matéria versada no writ for apenas de direito, não havendo dúvidas quanto aos fatos" (STF, RT 599/448). No mesmo sentido, STF: RT 547/414, 574/460, RTJ 123/104; RSTJ 46/454-5, JSTJ 33/307, 38/264, RT 691/372; TJSP: RT 623/296, 649/272, RJTESP 116/530." (Código de Processo Penal Interpretado, Atlas, 3ª ed. págs. 756/757).
+No mesmo sentido, tem-se manifestado o Superior Tribunal de Justiça, a Corte responsável pela interpretação da lei federal e sua correta aplicação. Exemplos:
+ ..
+É a situação do presente writ: pedido de prisão domiciliar face à apenda ter criança e em razão da epidemia. Ou seja, há a necessidade de adequado exame dos fatos e dos requisitos previstos na Lei de Execução Penal. A situação alegada, portanto, é inviável na via estreita do habeas corpus.
+Ademais, há a obrigatoriedade da intimação e eventual intervenção do Ministério Público de primeiro grau e ligado à execução da pena dos apenados, como determina o artigo 67 da Lei de Execução Penal, o que não ocorreria aqui.
+Assim, nos termos supra, monocraticamente, não conheço do habeas corpus."
+3. Assim, nos termos supra, rejeito o agravo regimental.
+Contudo, o Superior Tribunal de Justiça firmou jurisprudência no sentido de que, embora não se admita a impetração do writ substitutivo de recurso próprio, cabe ao órgão julgador aferir a existência de eventual coação ilegal imposta à paciente, a justificar a concessão da ordem de ofício.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE SUSTENTAÇÃO ORAL. INADMISSIBILIDADE. DESCABIMENTO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO RETROATIVA DA LEI N. 13.964/2019. QUESTÃO NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MATÉRIA DE DIREITO. VIABILIDADE DO MANDAMUS ORIGINÁRIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA, DE OFÍCIO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. É incabível o pedido de sustentação oral no julgamento de agravo regimental na esfera penal, pois, nos termos dos arts. 159, inciso IV, e 258 do Regimento Interno do Superior Tribunal de Justiça, o agravo regimental em matéria penal deve ser levado para julgamento em mesa.
+2. Como a matéria arguida não foi analisada pelo Tribunal a quo, não pode ser originariamente examinada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. A existência de recurso específico não inviabiliza a impetração de ordem de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a análise recai sobre questão pacificada e meramente de direito, consubstanciada na análise da possibilidade de retificação do cálculo de penas do Paciente, com a aplicação retroativa da Lei n. 13.964/2019. A recusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidade flagrante.
+4. Ressalte-se que, apesar de ser o agravo o recurso próprio cabível contra decisão que resolve incidente em execução, não há óbice ao manejo do habeas corpus quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas e exista possibilidade de lesão à liberdade de locomoção do indivíduo, como na espécie.
+5. Agravo regimental desprovido. (AgRg no HC n. 609.783/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/10/2020.)
+RECURSO ORDINÁRIO DE HABEAS CORPUS. AUSÊNCIA DE EXAME DO MÉRITO DA CAUSA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE DO CONHECIMENTO DAS TESES DEFENSIVAS. NECESSIDADE DE RETORNO DOS AUTOS. RECURSO ORDINÁRIO PARCIALMENTE PROVIDO.
+1. In casu, constata-se que a Corte estadual limitou-se ao não conhecimento do writ originário, sem avaliar a existência de eventual ilegalidade perpetrada em desfavor do ora recorrente.
+2. De plano, mostra-se inviabilizado o conhecimento da questão suscitada no presente recurso, diretamente por esta Corte, sob pena de indevida supressão de instância, uma vez que o tema não chegou a ser apreciado pelo Tribunal a quo.
+3. Com efeito, nos moldes da orientação do STJ e do STF, é indispensável que se afaste por completo a existência de flagrante constrangimento ilegal, sob pena de ofensa ao art. 5º, LXVIII, da CF.
+4. Nesse contexto, a solução passa pelo retorno dos autos ao Tribunal de origem para que examine a fundamentação expendida pelo impetrante, ora recorrente.
+5. Recurso ordinário em habeas corpus a que se dá parcial provimento para determinar o retorno dos autos à instância de origem, a fim de que se examine o mérito do pedido, como for de direito. (RHC n. 104.808/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/12/2018.)
+Ante o exposto, não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para determinar que o Tribunal de origem examine o mérito da impetração (HC n. 0047860-55.2021.8.21.7000) a fim de verificar a existência ou não de flagrante ilegalidade a justificar a concessão da ordem .
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
