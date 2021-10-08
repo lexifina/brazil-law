@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado pelo Distrito Federal contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 37):
+PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. PRAZO PARA DESOCUPAÇÃO DE IMÓVEL. AMPLIAÇÃO. MULTA DIÁRIA. REDUÇÃO OU EXCLUSÃO. IMPOSSIBILIDADE.
+I - Por conta do estado de emergência em que se encontra o Distrito Federal, por conta das medidas de combate ao COVID-19, e da complexidade das providências a serem adotadas, reputa-se razoável a pretensão de duplicar o prazo para cumprimento da ordem.
+II - A finalidade da fixação de astreinte é conferir eficácia coercitiva ao preceito cominatório, bem como inibir o intento do devedor de descumprir a ordem judicial, cujo procedimento encontra respaldo no art. 536, § 1º, do CPC.
+III - Em razão do longo tempo de tramitação do processo - mais de vinte anos e contando com sucessivas prorrogações do prazo -, em atenção ao princípio constitucional da duração do processo (CF, art. 5º, LXXVIII), não se verifica a existência de motivo para excluir ou reduzir o valor da multa, mesmo porque se apresenta razoável e proporcional para assegurar o cumprimento do preceito.
+IV - Deu-se parcial provimento ao recurso.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 537, § 1º, I e II, do CPC. Sus tenta, em síntese, que é cabível a redução do montante das astreintes, porquanto a parte agravante tem dado cumprimento à decisão judicial, acrescentando que o valor da multa é excessivo.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Ao dirimir a controvérsia, a Instância a quo adotou os seguintes fundamentos (fl. 39):
+Por conta do estado de emergência em que se encontra o Distrito Federal, por conta das medidas de combate ao COVID-19, e da complexidade das providências a serem adotadas, reputa-se razoável a pretensão de duplicar o prazo para cumprimento da ordem.
+Por outro lado, a finalidade da fixação de astreinte é conferir eficácia coercitiva ao preceito cominatório, bem como inibir o intento do devedor de descumprir a ordem judicial, cujo procedimento encontra respaldo no art. 536, § 1º, do CPC.
+(..)
+No caso em apreço, em razão do longo tempo de tramitação do processo - mais de vinte anos e contando com sucessivas prorrogações do prazo -, em atenção ao princípio constitucional da razoável duração do processo (CF, art. 5º, LXXVIII), não se verifica a existência de motivo para excluir ou reduzir o valor da multa - fixada em R$30.000,00 (trinta mil reais), limitada a R$1.000.000,00 (um milhão de reais), mesmo porque se apresenta razoável e proporcional para assegurar o cumprimento do preceito,
+Verifica-se que o Tribunal de origem, ao decidir a questão relativa ao pleito de redução das astreintes, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgInt no AREsp 1702175/GO, Rel. Ministro Marco Aurélio Belize, Terceira Turma, DJe 4/12/2020; AgInt no AREsp 1642570/SP , Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
