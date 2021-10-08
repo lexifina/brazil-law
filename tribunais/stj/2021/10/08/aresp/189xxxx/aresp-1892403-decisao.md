@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de ERNESTO CORREA DA SILVA da decisão que inadmitiu recurso especial interposto, com fundamentona alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 71):
+TRIBUTÁRIO - AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - PRESCRIÇÃO - INOCORRÊNCIA.
+1. A prescrição material é de cinco anos (art. 174, do CTN). Sua contagem se inicia a partir da constituição definitiva do crédito, por qualquer uma das modalidades de lançamento.
+2. Iniciado o prazo, este se interrompe de duas formas, conforme definido pela a 1ª Seção do STJ, ao julgar o REsp. nº 1.120.295/SP: a) para ações ajuizadas após 10/06/2005 (início de vigência da LC nº 118/2005), pelo despacho ordenando citação; b) para ações ajuizadas antes da LC nº 10/06/2005 (redação original do CTN), pela citação pessoal feita ao devedor, retroagindo à data da propositura da ação, nos termos do art. 219, §1º, do CPC.
+3. Agravo improcedente.
+Os embargos de declaração foram rejeitados (e-STJ fls. 99/103).
+No apelo nobre, a recorrente alega violação doart. 240, §§ 1º e 2º, do CPC/2015 e do art. 156 e 174 do CTN, por entender, em essência, que, constituído o crédito tributário em execução em 28/12/2007, "e não existindo a citação da devedora principal capaz de interromper a prescrição, o crédito se encontra totalmente prescrito, uma vezque o sócio Cícero foi citado apenas em 06 de junho de 2014,e o embargante, somente em 17 de agosto de 2018" (e-STJ fl. 118).
+Contrarrazões às e-STJ fls. 125/127.
+Contra a decisão que não admitiu o recurso especial (e-STJ fls. 143/145) foi interposto agravo (e-STJ fls. 153/167).
+Passo a decidir.
+Impende ressaltar que o Tribunal de origem negou provimento ao agravo de instrumento, a fim de manter a decisão que rejeitouexceção de pré-executividade, ao fundamento de que não houve transcurso do prazo prescricional no curso da execução fiscal.
+Na hipótese, assentou o voto condutor do julgado, no que interessa (e-STJ fl. 78):
+O despacho citatório data de 20/12/2012 (ev. 01, DESPDECCARTINT4), sendo o débito constituído em 28/12/2007, não transcorrendo mais de 5 anos entre referidas datas. Por sua vez, o redirecionamento foi determinado em 05/09/2013 (ev. 01, AGRAVO14), com citação do sócio em 17/08/2018 (ev. 01, CARTCIT6), também sem transcurso do prazo prescricional.
+Em relação à ausência de citação da devedora principal, verifica-se que não consta documentação comprovando referida alegação, não tendo sido juntada cópia da íntegra do processo. Ademais, ao que se depreende, a agravante sugere o início do prazo prescricional em 2006 e 2007, quando na verdade referidas datas correspondem somente ao período de competência dos tributos, datas que não servem de marco para o prazo prescricional.
+A parte recorrente, em suas razões de recurso especial, não impugnou fundamento basilar, que ampara o acórdão recorrido, no sentido da inexistência de documentos, nos autos do agravo de instrumento, a demonstrar a suscitada prescrição.
+Assim, o recurso especial esbarra no obstáculo da Súmula 283 do STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Nesse contexto, constata-se claramente que a agravante não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, limitando-se a alegar ofensa a dispositivos de lei federal cujos conteúdos normativos apresentam-se incapazes de determinar a reforma do acórdão recorrido, circunstância que atrai a aplicação, por analogia, da Súmula 284 do STF.
+Ademais, in casu, verifica-se que o Tribunal de origem, ao afastar a alegação de que não teria havido citação da devedora principal, decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem fixação de verba honorária recursal, pois não houve condenação da agravante ao pagamento de honorários advocatícios na origem.
+Publique-se. Intimem-se.
