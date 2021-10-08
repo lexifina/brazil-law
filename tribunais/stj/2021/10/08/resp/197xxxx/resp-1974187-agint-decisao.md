@@ -1,0 +1,14 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno interposto pelo BANCO ITAU VEICULOS S.A. contra decisão monocrática, proferida pelo Excelentíssimo Ministro Humberto Martins, Presidente desta Corte, que conheceu do agravo para não conhecer do recurso especial, fundamentada na ausência de violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015 e na aplicação, por analogia, das Súmulas ns. 283 e 280 do Supremo Tribunal Federal.
+Sustenta o Agravante que "a r. decisão agravada deixou de apreciar a sua admissibilidade quanto às questões processuais alegadas pela Agravante, relevantes por si para anulação do acórdão recorrido, por importarem patente violação aos artigos 10, 141, 374 e 938, § 3º, do CPC" (fl. 1.042e).
+Afirma que "o tribunal de origem não analisou de forma satisfatória a controvérsia; em vez disso, deixou de prestar a jurisdição, em clara ofensa aos artigos 489, § 1º, inciso IV e 1.022, inciso II, parágrafo único, inciso II, ambos do CPC, conforme demonstrado no recurso especial" (fl. 1.046e).
+Narra que "as questões atinentes à realização ou não de pagamento à FENASEG, foram devidamente impugnadas pela Agravante em seu recurso especial, no ponto em que essa demonstra que o v. acórdão recorrido se equivocou completamente e violou norma federal ao simplesmente presumir a inexistência de tal pagamento sem ter havido ampla discussão e contraditório sobre essa questão nos autos. Assim, não há que se falar em aplicação da Súmula nº 283/STF, devendo o presente agravo ser provido para julgamento do mérito do recurso especial" (fl. 1.048e).
+Aduz que "ao contrário do que concluiu a r. decisão, as violações veiculadas no recurso especial não implicam qualquer análise de direito local ou revisão de resolução (ato infralegal) que regula a TSD em discussão" (fl. 1.049e).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 1.059/1.068e.
+Feito breve relato, decido.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil de 2015, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração.
+Observo a presença dos pressupostos de admissibilidade do Agravo e, face às circunstâncias que envolvem a lide e à necessidade de melhor exame do objeto do Recurso Especial. Desse modo, afigura-se necessária a reautuação.
+Posto isso, nos termos do § 2º art. 1.021 do Código de Processo Civil de 2015, RECONSIDERO a decisão de fls. 1.027/1.036e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 1.040/1.055e, e CONHEÇO do Agravo e determino sua CONVERSÃO em Recurso Especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada no momento processual oportuno.
+Publique-se e intime-se.
