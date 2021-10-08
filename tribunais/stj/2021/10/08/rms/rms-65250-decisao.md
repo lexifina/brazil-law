@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto pelo Estado do Pará, com fundamento no art. 1.027, do CPC/2015, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ,assim ementado:
+MANDADO DE SEGURANÇA. DIREITO TRIBUTÁRIO. REVOGAÇÃO DE REGIME ESPECIAL DE EXPORTADOR POR PENDÊNCIA DE DÉBITOS FISCAIS. MEDIDA QUE IMPORTA EM INVIABILIZAÇÃO DA ATIVIDADE COMERCIAL DO CONTRIBUINTE. INFRINGÊNCIA AO PRINCÍPIO DA LIVRE INICIATIVA. HIPÓTESE DE SANÇÃO POLÍTICA. SEGURANÇA CONCEDIDA. DECISÃO UNÂNIME.
+1. Em matéria tributária, é de sabença que o Estado não pode se valer de meios indiretos de coerção, convertendo-os em instrumentos de acertamento da relação tributária, para, em função deles, a exemplo da restrição ao exercício da atividade profissional, constranger o contribuinte em adimplir obrigações fiscais eventualmente em atraso. É dizer que revelam-se inadmissíveis as restrições que impeçam ou inviabilizem a fruição do direito ao livre exercício de atividade econômica em razão da simples existência de débitos tributários.
+2. No caso vertente, extrai-se que a impetrante se encontra com a situação fiscal de ativo regular junto à Administração Tributária Estadual por conta de autuações fiscais lançadas em 23/07/2018, cujo valor das multas arbitradas em decorrência de falta de retificação nas Declarações de Informações Econômico Fiscais alcança o valor de R$ 377.861,33 (trezentos e setenta e sete mil e oitocentos e sessenta e um reais e trinta e três centavos). Diante disso, foi ela notificada de que o regime especial de exportador seria revogado pela pendência mencionada.
+3. Nesse contexto, tem-se que a supressão do regime especial da impetrante importa em óbice ao desempenho da sua atividade econômica,de modo que a atitude do Fisco infringe o princípio da livre iniciativa previsto nos artigos 1º, IV e 170, caput, ambos da Constituição da República, dado que referida medida se mostra gravosa ao ponto de se configurar sanção política. Precedentes STF e STJ.
+4. Segurança concedida. À unanimidade.
+Parecer do Ministério Público Federal às fls. 400-402, pelo não conhecimento do recurso.
+É o relatório. Decido.
+O recurso não comporta conhecimento.
+O Superior Tribunal de Justiça é competente para julgar, em recurso ordinário, os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão (CF, art. 105, II, "b").
+Conforme se verifica da ementa acima transcrita a Corte local concedeu a segurança requerida porGUAMÁCOMERCIO E REPRESENTAÇÕESLTDA - EPP,para compelir a autoridade impetrada a não revogar o regime especial de tributação para exportação, em favor da impetrante (fl. 340).
+Ante o exposto, com fulcro no art. 932, inciso III, do CPC/2015, não conheço do recurso ordinário em mandado de segurança.
+Deixo de condenar o recorrente em honorários recursais porque inaplicável o regime do art. 85, § 11, do CPC/2015, diante da especialidade da norma prevista no art. 25 da Lei 12.016/2009.
+Publique-se. Intimem-se.
