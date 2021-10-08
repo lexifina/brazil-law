@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo manejado por IGUAÇU CELULOSE, PAPEL S/A em face de decisão que negou admissibilidade ao recurso especial em razão da ausência de ofensa aos arts. 489 e 1.022 do CPC, eis que o acórdão recorrido teria julgado integralmente a lide, não havendo vício de omissão a ser sanado.
+A agravante insurge-se contra a decisão agravada reiterando a alegação de ofensa aos arts. 489 e 1.022 do CPC, uma vez que o acórdão recorrido, a despeito da oposição de embargos de declaração, teria deixado de analisar os pontos/argumentos levantados nos aclaratórios relativos à: (i) morosidade administrativo do Estado do Paraná; e (ii) prática de atos vinculados pela Administração; forte em tais argumentos não analisados a agravante assevera ter o direito ao início do benefíciofiscal de diferimento do pagamento de ICMS na data de 14/2/2014.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Contrarrazões às fls. 1451-1.453 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso foi interposto na vigência do CPC/2015, o que atrai a incidência do Enunciado Administrativo Nº 3: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+A irresignação não merece acolhida.
+Da análise do acórdão recorrido, verifica-se que ele enfrentou as questões postas a sua apreciação de forma clara e fundamentada, concluindo de forma contrária à pretensão da ora recorrente, confira-se o seguinte excerto do voto-condutor do julgado: (fls. 1.236-1.246 e-STJ)
+"(..)
+Sendo assim, a controvérsia recursal cinge-se a análise do termo inicial da concessão do diferimento fiscal decorrente de Protocolo de Intenções firmado pela apelante com o Estado do Paraná.
+Pois bem. O Programa Paraná Competitivo foi criado pelo Decreto nº 630/2011, com o objetivo de "atrair novos investimentos, gerar emprego e renda, promover a descentralização regional e a preservação ambiental, pela indução do desenvolvimento industrial do Estado, e se destina a estabelecimento industrial, sediado ou que venha a se instalar no território paranaense, que realizar investimento permanente".
+Segundo o art. 2º do referido decreto, os benefícios fiscais para as empresas participantes seriam os seguintes:
+(..)
+No caso dos autos, a apelante possuía especial interesse no diferimento do pagamento de ICMS.
+Narra a autora que o Estado do Paraná vinha negando sua pretensão de usufruir do benefício conforme acordado no protocolo de intenções, embora a empresa já tivesse realizado os investimentos programados.
+Sustentou, ainda, que o ato administrativo a ser realizado pelo réu era vinculado e que teveorigem no "imperativo categórico" manifestado no termo "fica diferido" presente no caput do art.9º do Decreto nº 630/2011.
+Analisando o conteúdo do referido Decreto, constata-se que o direito ao diferimento não é autoaplicável, pois era necessário que a empresa interessada apresentasse uma série de documentos para participar do programa, realizando também pedido formal de concessão do benefício fiscal, o qual seria apreciado pelo Secretário de Estado e Fazenda, que também fixaria os limites do diferimento e determinaria a operacionalização do benefício pela empresa fornecedora de energia elétrica.
+Confira-se:
+(..)
+O pedido administrativo da IGUAÇU CELULOSE, PAPEL S/A para usufruir dos benefícios fiscais foi realizado em 14/02/2014 (Protocolo nº 13.087.932-2), oportunidade em que requereu a o enquadramento para a fruição do benefício estabelecido no item 2.2 do Protocolo de Intenções:
+(..)
+A apelante alega que o Estado do Paraná usou de subterfúgios para postergar a implementação do Protocolo de Intenções firmado entre as partes.
+Contudo, conforme consta da documentação fornecida pelo réu juntamente com a contestação(mov. 45), além da perda de objeto de parte da ação, a demora para a aplicação do benefício decorreu da morosidade da parte autora em apresentar todos os documentos exigidos pelo art.5º do Decreto nº 630/2011.
+A propósito, destaco da contestação:
+(..)
+Essas alegações trazidas pelo Estado do Paraná encontram respaldo na documentação juntada com a contestação, bem como na Informação CAEC/SAIF 011/2016, lavrada pelo Auditor Fiscal Luiz F de Moraes Junior, a pedido da Procuradoria do Estado (mov. 45.2, fls. 01/07).
+Vale destacar, ainda, que não houve prejuízo com relação ao prazo de duração do benefício (96meses), pois conforme prevê o art. 9º, § 1º, inciso IV do Decreto nº 630/2011, o termo inicial para a contagem do referido prazo é aquele da informação da Coordenação da Receita do Estado -CRE a fornecedora de energia elétrica, autorizando a aplicação do diferimento na fatura (nota fiscal) de energia.
+No caso, o ofício da Receita Estadual foi encaminhado para a COPEL em 21/12/2015, onde consta o valor de investimento homologado para efeitos de limite do diferimento em R$222.127.354,11, o qual será utilizado a partir do mês de janeiro de 2016 a dezembro de 2023.
+Sendo assim, não há como acolher o pedido da apelante de implementação do diferimento desde 2014, em primeiro lugar porque o direito ao diferimento previsto no Decreto nº 630/2011 não era autoaplicável, já que dependia da análise de requisitos e autorização pelo Secretário de Estado da Fazenda, para posterior implantação pela empresa fornecedora de energia elétrica, em segundo lugar entendo que não ficou demonstrada que a demora na concessão do benefício decorreu da morosidade do Estado.
+(..)"
+Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+De comum sabença, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso (c.f. AgRg no AREsp 107.884/RS, Rel. Ministro Humberto Martins, DJe 16/05/2013), não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (c.f. EDcl no AgRg no AREsp 195.246/BA, Rel. Min. Napoleão Nunes Maia Filho, DJe 04/02/2014). Relembre-se, conjuntamente, que a motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC.
+Com efeito, o acórdão recorrido entendeu, com base no Decreto Estadual nº 630/2011 que o direito ao diferimento do ICMSnão era autoaplicável e dependia da análise de requisitos e autorização pelo Secretário de Estado da Fazendapara posterior implantação pela empresa fornecedora de energia elétrica, e que, na hipótese, não ficou demonstrado que a demora na concessão do benefício decorreu da morosidade do Estado.
+Dito isto, não se verifica a existência de vício no acórdão recorrido, mas apenas decisão contrária aos interesses da recorrente, o que por si só não enseja o acolhimento de violação aos arts. 489 e 1.022 do CPC.
+Por outro lado, não é possível a estaCorte adentrar desde já no mérito da questão de fundo, eis que, como visto, demandaria reexame de aspectos fáticos-probatórios dos autos bem como análise de legislação local, providências inviáveis em sede de recurso especial em razão dos óbices das Súmulas nº 7 desta Corte e 280 do STF.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO LASTREADO EM LEGISLAÇÃO LOCAL E NAS PROVAS DOS AUTOS. SÚMULAS NºS 7 DO STJ E 280 DO STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
