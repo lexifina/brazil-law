@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIEL MARCELO AUGUSTO DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná (HC n. 037682-36.2021.8.16.0000).
+O paciente foi preso em flagrante, em 29/5/2021, e teve sua prisão convertida em preventiva a pedido do Ministério Público por suposta prática do delito de homicídio qualificado, descrito no art. 121, § 2º, I e IV, c/c o art. 29, todos do Código Penal e no art. 1º, I, da Lei n. 8.071/1990 (fl. 18).
+O decreto prisional fundou-se na prova da materialidade, nos indícios suficientes da autoria, em especial diante dos depoimentos prestados e na confissão extrajudicial do paciente, bem como na gravidade do delito, praticado mediante "paga ou promessa de recompensa", o que demonstra a periculosidade do paciente (fls. 20-21).
+Impetrado writ na origem, a ordem foi denegada (fl. 16).
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois a decisão que decretou a prisão preventiva utilizou fundamentação genérica, considerando a gravidade abstrata do delito, sem reportar efetivamente um elemento concreto (fl. 6), caracterizando-se, portanto, o caráter de antecipação da pena.
+Argumenta que não há nos autos qualquer elemento capaz de demonstrar efetivo risco à sociedade que justifique a manutenção da prisão preventiva do paciente (fl. 7).
+Ressalta que o paciente é primário, possui bons antecedentes, trabalho lícito e endereço certo (fl. 9).
+Como se trata de dependente químico, solicita como solução mais efetiva a substituição da prisão preventiva pelo internamento compulsório (fl. 10).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que sejam decretadas demais medidas cautelares diversas. Subsidiariamente, pleiteia a internação compulsória do paciente.
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 126-127.
+As informações foram prestadas às fls. 131-141.
+O Ministério Público Federal manifestou-se pela denegação da ordem(fls. 243-249).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fls. 20-21, destaquei):
+Com efeito, na espécie, a pena prevista ao fato, em tese, praticado por GABRIEL supera 04 (quatro) anos(CPP, art. 313, I) e existe prova da materialidade e indícios suficientes da autoria, em especial diante dos depoimentos prestados e confissão extrajudicial do autuado.
+ ..
+Os fatos atribuídos são graves, envolvendo, em tese, a prática do crime de homicídio qualificado mediante paga ou promessa de recompensa, que, pela sua forma de execução, causou grande repercução na comunidade local.
+Aliás, trata-se, em tese, de crime premeditado, planejado e executado com a utilização de enforcamento e depois atropelamento da vítima com seu próprio automóvel, em local ermo e possivelmente de surpresa (o que dificulda a defesa), elementos que, ao mesmo tempo em que indicam a extrema friezado agente e sua alta periculosidade, recomendam a manutenção da prisão para se resguardar a ordem pública.
+Some-se a isso a informação do próprio preso, em interrogatório policial, de que era "amigo" da vítima e de que esteve no hospital quando a vítima estava sendo atendida. A amizade com a vítima revela a maior reprovabilidade na conduta; enquanto o fato de ter comparecido ao hospital, ao saber que o ofendido tinha sido socorrido, aponta para a extrema ousadia do autuado, ambas as circunstâncias confirmatórias da periculosidade do agente e da necessida de prisão provisória.
+Diante da natureza do caso e consoante a fundamentação, revelam-se inadequadas e insuficientes as medidas cautelas diversas da prisão, porquantonenhuma delas é suficiente para acautelar, no presente caso, a ordem pública e evitar eventual reiteração criminosa.Nesse sentido:
+ ..
+Por fim, destaca-se que providências foram tomadas para evitar o contágio da população carcerária; e no presente caso se está diante de réu perigoso, de modo quena ponderação dos valores, a soltura do autuado poderia vulnerar ainda mais a comunidade local, sendo preferível, ao menos no atual estado de coisas, a conversão da custódia em preventiva.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso,a gravidade concreta do delito, a necessidade de garantia da ordem pública, destacando-se a violência com a qual o delito foi supostamente cometido e a consequente periculosidade do agenteforam consideradas pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Ademais, eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Por fim, no que se refere à alegação de antecipação da pena, o Superior Tribunal de Justiça entende que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (AgRg no RHC n. 126.010/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 10/12/2020).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
