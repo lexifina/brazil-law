@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo INSS contra decisão de minha lavra (e-STJ fls. 518/520), a qual conheceu em parte do recurso da autarquia e, nessa extensão, negou-lhe provimento.
+Alega o ente público federal que a matéria se encontrava devidamente prequestionadae dispensava revolvimento de questão fática, já que toda a situação (exclusivamente de direito) foi enfrentada na decisão monocrática, parte integrante do acórdão que lhe manteve. Aduz, ainda, que enfrentou o argumento de que estaria se utilizando da ação rescisória como sucedâneo recursal, visto que fundamentou não haver preclusão para matéria de ordem pública, admitindo-se a rescisão de decisão proferida por juízo absolutamente incompetente.
+Sem impugnação ao recurso.
+Passo a decidir.
+Adianto que tem razão o INSS.
+Entendi inexistente o prequestionamento da matéria e resolvi aplicar o óbice da Súmula 7 desta Corte porque, numa leitura isolada do acórdão (e-STJ fls. 462/466), assim parecia a decisão adequada ao caso.
+Ocorre, todavia, que o acórdão local manteve na íntegra a decisão monocrática de e-STJ fls. 451/453, a qual, por sua vez, expressamente se manifestou sobre a competência do juízo da execução.
+Logo, a matéria, de fato, encontrava-se devidamente prequestionada na origem. E, somente com a leitura da decisão de e-STJ fls. 451/453, sem necessidade de revolvimento dos fatos, permite-se concluir que o juízo de origem contrariou a legislação federal. Explico.
+Para a Corte local, ainda que a execução tenha se processado em juízo incompetente, o INSS em momento algum se insurgiu contra esse fato jurídico, pelo que preclusa a questão. Além disso, no entender daquele órgão julgador, o art. 475-P do CPC/1973 teria admitido que o exequente escolhesse o melhor juízo para executar a sentença, sendo incabível sustentar a competência absoluta do juízo que formou o título para sua execução.
+Em sentido contrário ao primeiro fundamento, de acordo com a jurisprudência deste STJ, a preclusão não é obstáculo ao cabimento da ação rescisória. A ação rescisória é cabível exatamente quando ocorre a preclusão máxima, decorrente da coisa julgada (AR 5.780/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 09/06/2021, DJe 30/06/2021).
+E, de maneira divergente ao segundo argumento, é também firme o entendimento deste Tribunal que o cumprimento de sentença será da competência do juízo que processou e julgou a causa no primeiro grau de jurisdição; e, ainda, que a competência é de índole absoluta e não pode ser questionada após o trânsito em julgado da fase de conhecimento (CC 146.213/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 13/06/2018, DJe 28/08/2018).
+Além disso, como no apelo especial houve fundamentação no sentido de sustentar a incompetência absoluta do juízo exequente, bem como que era matéria passível de alegação em ação rescisória, tem-se que, realmente, houve impugnação suficiente ao fundamento apresentado pelo órgão a quo.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 518/520 e DOU PROVIMENTO ao recurso especial, anulando o acórdão impugnado e determinando a devolução dos autos ao juízo de origem, para prosseguimento do feito.
+AgInt de e-STJ fls.524/533 prejudicado.
+Publique-se. Intimem-se.
