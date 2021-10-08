@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado nos autos da ação ordinária ajuizada por SOLANGE SANTANA em face da FACULDADE DA ALDEIA DE CARAPICUÍBA e da ASSOCIAÇÃO DE ENSINO SUPERIOR DE NOVA IGUAÇU, objetivando a declaração de validade do Diploma do Curso em Pedagogia, expedido em 13/6/2014, posteriormente cancelado pela segunda requerida no ano de 2019.
+Inicialmente o processo foi distribuído ao Juízo de Direito da 5ª Vara Cível da Comarca de Presidente Prudente/SP, ora suscitado, que se declarou incompetente para processar e julgar o feito, por entender necessária a presença da UNIÃO no polo passivo, determinando, assim, a remessa dos autos à Justiça Federal (fls. 99/102).
+A seu turno, o Juízo da 5ª Vara Federal de Presidente Prudente - SJ/SP, ora suscitante, também se declarou incompetente para processar e julgar o feito, sob o fundamento de que inexiste interesse da UNIÃO na causa (fls. 103/105).
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República AURÉLIO VIRGÍLIO VEIGA RIOS, opinou pelo conhecimento do conflito, a fim de que seja declarado competente o Juízo de Direito da 5ª Vara Cível da Comarca de Presidente Prudente/SP, ora suscitado (fls. 116/119).
+Em 4/8/2021 proferi decisão unipessoal conhecendo do conflito a fim de declararcompetente para processar e julgar a causa o Juízo de Direito da 5ª Vara Cível da Comarca de Presidente Prudente/SP, ora suscitado (fls. 121/123).
+Contra esse decisum foi interposto agravo interno (fls. 128/173).
+Sem impugnação (fl. 367).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+A decisão agravada, ao declarar a competência do Juízo Estadual, reproduziu o entendimento adotado no âmbito deste Superior Tribunal quanto ao tema. Ilustrativamente:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. DEMANDA PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR. REGISTRO DE DIPLOMA. CONTROVÉRSIA ENTRE PARTICULARES. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Trata-se, na origem, de demanda contra a Associação de Ensino Superior de Nova Iguaçu (UNIG) e Associação Piaget de Educação, postulando determinação para que a primeira proceda à revalidação de registro de diploma da autora, bem como condenação de ambas ao pagamento de indenização por danos morais.
+2. O Conflito deve ser conhecido, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal.
+3. No caso, afirmou o Juízo Federal: "a UNIÃO não foi sequer incluída no polo passivo da demanda. E nem poderia ser diferente, já que, salvo melhor juízo, a causa é decorrente de negócio jurídico de natureza privada, consistente em contrato de prestação de serviço educacional firmado pela parte autora com instituições privadas de ensino superior" (fls. 8, e-STJ).
+4. De fato, é o que se depreende da causa de pedir deduzida na Petição Inicial que deflagrou o processo: "não há qualquer razoabilidade nas posturas adotadas pelas rés, a autora teve prejuízos em razão da total falta de informações com relação à situação de irregularidade da empresa bem como o risco que corria com relação ao registro dos diplomas" (fl. 20, e-STJ).
+5. Consequentemente, deve ser mantida a decisão agravada, que reconheceu a competência da Justiça Estadual. Nesse sentido: AgInt no CC 171.790/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 3.8.2020; AgInt no CC 166.565/SP, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 17.12.2019; AgInt no CC 166.407/SP, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 17.12.2019.
+6. Agravo Interno não provido.
+(AgInt no CC 178.569/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 1º/7/2021)
+Sucede que o Pleno do Supremo Tribunal Federal, nos autos do RE 1.304.964/SP, em Repercussão Geral (Tema 1.154/STF), julgado em 24/6/2021, consolidou a seguinte tese:
+Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização.
+Referido precedente foi assim ementado:
+RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. CONSTITUCIONAL. COMPETÊNCIA. INSTITUIÇÃO DE ENSINO SUPERIOR. SISTEMA FEDERAL DE ENSINO. CONTROVÉRSIA RELATIVA À EXPEDIÇÃO DE DIPLOMA DE CONCLUSÃO DE CURSO SUPERIOR. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ARTIGO 109, I, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. ACÓRDÃO RECORRIDO DIVERGE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+(RE 1.304.964 RG, Rel. Ministro LUIX FUX, TRIBUNAL PLENO, DJe 19/8/2021)
+Nesse diapasão, uma vez que a hipótese dos autos versa sobre situação análoga àquela apreciada na aludida repercussão geral, torna-se impositiva a adequação do julgado para reconhecer a competência da Justiça Federal para processar e julgar a subjacente ação ordinária.
+ANTE O EXPOSTO, em juízo de retratação, torno sem efeito a decisão de fls. 121/123, a fim de declarar competenteo Juízo da 5ª Vara Federal de Presidente Prudente - SJ/SP, ora suscitante. Prejudicado o agravo interno.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
