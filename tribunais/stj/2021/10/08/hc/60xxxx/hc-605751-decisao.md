@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARCOS PAULO VIEIRA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0028768-85.2014.8.26.0602).
+O paciente foi condenado às penas de 4 anos e 6 meses de reclusãoem regime inicial fechado e de 45 dias-multa, por infração ao art. 171, caput, do Código Penal.
+À apelação interposta pela defesa foi negado provimento.
+Eis a ementa do julgado (fl. 750):
+Apelação. Estelionato. Art. 171, caput, do CP. Autoria bem comprovada por meio da prova oral. Validade da palavra da vítima. Dolo comprovado. Dosimetria perfeita. Folha de antecedentes que se presta a comprovar maus antecedentes e reincidência. Multirreincidência específica por ao menos nove condenações que justifica o aumento da pena-base e em razão da reincidência nos patamares fixados na r. sentença. Recurso não provido.
+Neste writ, a impetrante aponta constrangimento ilegal em razão da desproporcional elevação da pena devido ao histórico criminal do paciente.
+Alega que a folha de antecedentes é "pouco compreensível" e que, na dúvida, a interpretação deve ser favorável ao réu.
+Defende que, para a caracterização dos maus antecedentes, os apontamentos devem estar acobertados pelo trânsito em julgado e não podem configurarreincidência, sob pena ofensa ao princípio da presunção de inocência.
+Requer a redução da pena.
+O Ministério Público Federal opinou pela inadmissão do writ, entendendo descabida a concessão daordem de ofício (fls. 785-790).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Acerca das questões, consta da sentença penal condenatória o seguinte (fls. 694-695):
+Passo, então, à dosimetria da pena.
+Atentando-se para as diretrizes contidas no artigo 59 do Código Penal, em especial os maus antecedentes, baseados em delitos constantes e de mesma natureza, fixo a pena-base em 03 (três) anos de reclusão (aumento do triplo).
+Na segunda fase, aumento a pena em  (metade), por força da multirreincidência específica, obtendo-se a pena privativa de liberdade de 04 (quatro) anos e 06 (seis) meses de reclusão, tornando-a definitiva nesse patamar, ausentes causas outras que autorizem sua modificação.
+Adotado o mesmo critério supra, fixo a pena pecuniária em 45 (quarenta e cinco) dias-multa, no valor unitário mínimo legal, com atualização monetária.
+Diante dos maus antecedentes e da multirreincidência específica, rechaçada a possibilidade de qualquer benefício.
+O Tribunal de origem manteve a sentença pelasseguintes razões(fls. 753-50):
+No tocante à dosimetria de pena, de plano ressalto que o C. STJ tem entendido que "a falta de certidão cartorária (certidão de objeto e pé) não impede o reconhecimento dos maus antecedentes, o que pode ser feito pela folha de antecedentes criminais" (HC nº 287.090/SP, C. 6ª Turma, Rel. Min. Sebastião Reis Júnior, j. 08/05/2014), raciocínio que se estende à comprovação da reincidência, e a presença de dez execuções definitivas (os dados constantes da folha de antecedentes permitem verificar que houve condenação definitiva em ao menos nove delas, cf. fls. 540/541) indica que o apelante é criminoso contumaz, e faz do estelionato sua profissão, de modo que bem justificada a fixação da pena-base em patamar elevado, sendo razoável e proporcional a pena inicial de 03 (três) anos de reclusão.
+Na segunda fase, considerando a multirreincidência específica, e ponderando condenações definitivas diversas das valoradas na primeira fase da dosimetria, houve o adequado aumento de  (um meio), que também fica mantido, chegando-se a uma pena de 04 (quatro) anos e 06 (seis) meses de reclusão, e 45 (quarenta e cinco) dias-multa.
+Na terceira e última fase, inexistem causas de aumento ou diminuição a serem ponderadas.
+No Superior Tribunal de Justiça, é assente a orientação de que "a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena" (AgRg no AREsp n. 1.677.105/PB, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2020).
+Esta Corte também entende que o aumento da pena-base em virtude das circunstâncias judiciais desfavoráveis do art. 59 do CP depende de fundamentação concreta e específica que extrapole os elementos inerentes ao tipo penal.
+Quanto à valoração negativa relativa dos maus antecedentes, "não se cogita manifesta desproporcionalidade na dosimetria da pena, na utilização de condenações, relativas a fatos anteriores, transitadas em julgado, diversas e remanescentes àquela utilizada como fundamento da agravante de reincidência, como reforço ao quantum da agravante de reincidência ou como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos antecedentes, conforme seja necessário e suficiente para a prevenção e reprovação da infração penal, ficando apenas vedado o bis in idem" (HC n. 613.196/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/9/2021).
+Ademais, "predomina na jurisprudência do Superior Tribunal de Justiça o entendimento de que a multireincidência constitui justificativa idônea para acréscimo superior a 1/6 (um sexto) na segunda fase da dosimetria da pena" (HC n. 349.705/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/4/2016).
+No caso, não se verifica desproporcionalidade no cálculo das penas do paciente, já que as instâncias ordinárias fundamentaram a exasperação da pena-base em pelo menos nove condenações definitivas, que denotam queo paciente faz do estelionato"sua profissão", bem como nautilização de outras condenações definitivas para o aumento decorrente da multireincidência específica.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
