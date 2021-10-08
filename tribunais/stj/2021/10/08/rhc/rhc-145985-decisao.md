@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ALCIVAN ALVES DA ROCHA JÚNIOR contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norteproferido no julgamento do HC n. 0800531-25.2020.8.20.5400.
+Depreende-se dos autos que, em 04/12/2020, o Recorrente foi preso em flagrante pela prática dos crimes previstos nos arts. 180, 299 e 311, todos do Código Penal. No dia seguinte, o Juízo da 3.ª Vara Criminal da Comarca de Assu/RN converteu o flagrante em prisão preventiva (fls. 11-15).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordemconforme ementa abaixo transcrita (fls. 124-125):
+"EMENTA: CONSTITUCIONAL E PROCESSUAL PENAL. HABEASCORPUS COM PEDIDO LIMINAR. CRIMES DE RECEPTAÇÃO (ART. 180 DO CÓDIGO PENAL), FALSIDADE IDEOLÓGICA (ART. 299 DO CÓDIGO PENAL) E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR (ART. 311 DO CÓDIGO PENAL). PRETENSA REVOGAÇÃO DO DECRETO PREVENTIVO. ALEGADO EXCESSO DE PRAZO NA CONCLUSÃO DO INQUÉRITO POLICIAL E OFERECIMENTO DA DENÚNCIA. PEDIDO PREJUDICADO. PEÇA ACUSATÓRIA DEVIDAMENTE RECEBIDA PERANTE O JUÍZO A QUO. ALEGADA AUSÊNCIA DE REQUISITO ENSEJADOR DA CUSTÓDIA CAUTELAR. IMPOSSIBILIDADE. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA.GRAVIDADE CONCRETA DO DELITO. COMPROVADO O RISCO DE REITERAÇÃO DELITIVA. PEDIDO DE CONCESSÃO DA PRISÃO DOMICILIAR EM RAZÃO DA PANDEMIA PELO NOVO CORONAVÍRUS(COVID-19). INVIABILIDADE. AUSÊNCIA DE DOCUMENTOS APTOS A COMPROVAR QUE O PACIENTE NAS HIPÓTESES PREVISTAS NA RECOMENDAÇÃO ENCONTRA-SE Nº 62 DO CONSELHO NACIONAL DE JUSTIÇA. PRISÃO EM CONSONÂNCIA COM AS HIPÓTESES DO ARTS. 312 E 313 DO CÓDIGO DE PROCESSO PENAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA PARTE, DENEGADA. DISSONÂNCIA COM O PARECER DA1ª PROCURADORIA DE JUSTIÇA."
+Nas presentes razões recursaissustenta-se o excesso de prazo para a conclusão do inquérito policial. Nesses termos, argumenta-se que "a decisão da Autoridade Coatora, referendada pelo recorrido Tribunal Potiguar, negligenciara o taxativo prazo prisional para conclusão inquisitorial. Neste dizer, mantendo, e até hoje, a prisão cautelatória trazida à baila, inobstante a mácula a exigência procedimental estampada no art. 10, do CPP" (fl. 160).
+Requer-se,em liminar e no mérito, o relaxamento da prisão preventiva do Recorrente(fls. 159-162).
+O Ministério Público Federal opinoupelo parcial conhecimento do recurso e, nessa extensão, pelo seu desprovimento (fls. 170-178).
+É o relatório. Decido.
+O Tribunal de origem reconheceu a prejudicialidade da alegação, diante do oferecimento da denúncia. A seguir, a fundamentação (fls. 126-127):
+"Inicialmente, cumpre destacar que o pedido atinente ao apontado constrangimento ilegal decorrente do excesso de prazo para a conclusão do inquérito policial e oferecimento da denúncia se tornou prejudicado. Isso porque, em consulta realizada ao sistema PJE (Processo Judicial Eletrônico), consta em decisão prolatada nos autos de nº o 0804157-79.2020.8.20.5100 recebimento da denúncia pelo juízo a quo.
+Nesse sentido preleciona o Superior Tribunal de Justiça, vejamos:
+ ..
+In casu, depreende-se que nos autos do processo nº 0804157-79.2020.8.20.5100 consta o recebimento da peça acusatória pelo magistrado no dia 08 de a quo março de 2021, ou seja, após a impetração da presente ordem de habeas corpus, o que inviabiliza a análise do alegado excesso de prazo, por deixar de existir o apontado constrangimento ilegal.
+Assim, deve o referido pleito ser julgado prejudicado, a teor do que determina o art. 659 do Código de Processo Penal, in verbis:
+ .. ."
+Nos termos da orientação desta Corte Superior, o oferecimento da denúncia torna prejudicada a alegação de excesso de prazo para a conclusão do inquérito policial. Com essa compreensão:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. EXCESSO DE PRAZO PARA CONCLUSÃO DE INQUÉRITO POLICIAL. RECEBIMENTO DA DENÚNCIA. PERDA SUPERVENIENTE DE OBJETO. RECURSO PREJUDICADO.
+1. O superveniente oferecimento da denúncia implica a perda de objeto do agravo e do habeas corpus que impugnavam excesso de prazo para conclusão de inquérito policial.
+2. Agravo regimental prejudicado."(AgRg no RHC 143.457/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 22/06/2021, DJe 28/06/2021; sem grifos no original.)
+Ademais, em consulta ao andamento da ação penal, constatoter sido proferida sentença condenatória em que se reconheceu a responsabilidade do Recorrente pela prática dos crimes previstos nos arts. 180, caput, e 307, ambos do do Código Penal, em concurso material, impondo-se-lhe, respectivamente,a pena de 1 (um) ano,4 (quatro) meses e 15 (quinze) dias de reclusão e 48 (quarenta e oito) dias-multa; e de4 (quatro) meses e 3 (três) dias de detenção, noregime inicial semiaberto.
+Portanto, com o oferecimento da denúncia e posterior prolação de sentença, é inviável o reconhecimento da nulidade, diante do encerramento da fase inquisitorial.
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PROCESSUAL PENAL. RECEPTAÇÃO. FALSA IDENTIDADE. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO INQUÉRITO POLICIAL. POSTERIOR OFERECIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA. MATÉRIA SUPERADA. RECURSO DESPROVIDO.
