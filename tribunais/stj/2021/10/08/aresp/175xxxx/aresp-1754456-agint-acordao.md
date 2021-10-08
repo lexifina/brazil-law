@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINIST RO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por CYRELA SUÉCIA EMPREENDIMENTOS IMOBILIÁRIOS LTDA, contra decisão monocrática de fls. 541-546, e-STJ, da lavra deste signatário, que negou provimento ao agravo em recurso especial do ora agravante.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fl. 388-389, e-STJ):
+CIVIL E PROCESSO CIVIL. AÇÃO ORDINÁRIA. SENTENÇA DE PROCEDÊNCIA PARCIAL. APELAÇÃO CÍVEL. PRELIMINAR DE CARÊNCIA DE AÇÃO POR FALTA DE INTERESSE DE AGIR SUSCITADA PELA APELANTE. REJEIÇÃO. MÉRITO. PLEITO DE NULIDADE DE CLÁUSULA CONTRATUAL QUE PREVIA O DIREITO DE RETENÇÃO NA SUA METADE. POSSIBILIDADE. CLÁUSULA ABUSIVA. APLICAÇÃO DO ART. 5 I. INCISO IV. DO CÓDIGO DE DEFESA DO CONSUMIDOR. REGRA QUE POSICIONA O CONSUMIDOR EM DESVANTAGEM NO CONTRATO. RESCISÃO CONTRATUAL POR CULPA EXCLUSIVA 1)0 COMPRADOR. RETENÇÃO DE VALORES NA PROPORÇÃO ENTRE 10% E 25%. DANO MORAL CONFIGURADO. INCLUSÃO INDEVIDA. VALOR FIXADO DE ACORDO COMOS PRINCIPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. APELO CONHECIDO E DESPROVIDO.
+1. É evidente que a cláusula que admite a restituição de 50% (cinquenta por cento) do valor pago se mostra vantajosa à construtora. ora apelante, tratando-se de encargo oneroso às autoras/apeladas. o que demonstra abusividade. colocando o consumidor em grande desvatagem. aplicando-se o art. 51. inciso IV. do Código de Defesa do Consumidor.
+2. Acerca da retenção do percentual, nos casos de rescisão contratual por culpa da compradora. segundo o entendimento firmado pelo Superior Tribunal de Justiça. em se tratando de relação consumerista. ainda que o consumidor/adquirente dê causa à resolução de contrato de compra e venda de imóvel, tem este o direito de ser restituído, em parte, do valor contratual efetivamente adimplido, admitindo-se a retenção de percentual entre 10% (dez por cento) e 25% (vinte e cinco por cento) pela vendedora.
+3. Precedentes do STJ (AeRg no AREsp 600.887/PE. Rel. Min. Raul Araújo, Quarta Turma. j. 19/05/2015).
+4. Apelo conhecido e desprovido.
+Opostos embargos de declaração, esses foram rejeitados (fls. 409-414, e-STJ).
+Nas razões do recurso especial (fls. 416-458, e-STJ), a insurgente aponta violação aos seguintes dispositivos: i) art. 489, §1º, do CPC/15 e art. 725 do CC, ante a negativa de prestação jurisdicional; ii) art. 472, do CC, afirmando existir dissídio jurisprudencial quanto ilegalidade da clausula de retenção de 50% do valor tendo em vista a clausula de plena quitação, a inexistência de vício de consentimento quando da assinatura do distrato e violação ao princípio do pacta sunt servanda; iii) argumenta existência de divergência quanto ao termo inicial dos juros de mora.
+Em decisão monocrática, este relator negou provimento ao reclamo ante a incidência das Súmulas 83do STJ e 284 do STF.
+Opostos embargos de declaração, esses foram rejeitados (fls. 559-561, e-STJ).
+No presente agravo interno (e-STJ, fls. 563-571), a parte agravante sustenta a inaplicabilidade da Súmula 284 do STF.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A indicação de dispositivo que não possui carga normativa apta sustentar a tese suscitada, constitui vício de fundamentação que inviabiliza o conhecimento da insurgência. Aplicação da Súmula 284/STF.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Insurge-se a recorrente quanto à incidência da Súmula 284 do STF ao ponto referenteao termo inicial dos juros de mora.
+Neste ponto, no qual a insurgente fundamenta seu recurso na alínea "c" do permissivo constitucional, verifica-se que não houve a - necessária - indicação dos dispositivos que teriam sido violados pelo acórdão recorrido, circunstância esta que impede a exata compreensão da controvérsia, fazendo incidir o teor da Súmula 284 do STF, por analogia.
+O recurso especial é um meio impugnativo processual de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado. A ausência de indicação expressa de dispositivo legal tido por vulnerado não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Dessa forma, é de rigor a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA - CORRENTE. CAPITALIZAÇÃO DE JUROS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. DISSÍDIO NÃO DEMONSTRADO. SÚMULA N. 284/STF. REPETIÇÃO SIMPLES DO INDÉBITO. POSSIBILIDADE. DECISÃO MANTIDA. 1. No recurso interposto pela alínea "a" do inciso III do artigo 105 da CF/1988, é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula n. 284/STF.  ..  4. Agravo regimental a que se nega provimento. (AgRg no REsp 1545012/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/10/2015, DJe 14/10/2015)  grifou-se
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF. RECURSO IMPROVIDO.  ..  2. O recurso especial é reclamo de natureza vinculada e, dessa forma, para o seu cabimento, imprescindível que se demonstre de forma clara os dispositivos eventualmente malferidos pela decisão combatida, sob pena de inadmissão. 3. No caso concreto, a fundamentação apresentada no recurso se mostra deficiente, atraindo, por conseguinte, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal, aplicável por simetria. 4. Agravo regimental improvido. (RCD nos EDcl no AREsp 636.445/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/04/2016, DJe 28/04/2016)  grifou-se
+Inafastável, portanto, o óbice da Súmula 284 do STF, por analogia.
+Ademais, conforme ressaltado no julgamento dos embargos de declaração (fl. 560, e-STJ),o conteúdo do art. 489 do CPC/15 não guarda relação e seria incapaz de infirmar os fundamentos do acórdão do Tribunal de piso, circunstância atrativa dos óbices contidos nas Súmulas 283 e 284 do STF, que se estende sobre a alegada divergência jurisprudencial.
+Por fim, considera-se preclusa a discussão dos demais pontos julgados na decisão de fls. 541-546, e-STJ, visto que não houve recurso.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
