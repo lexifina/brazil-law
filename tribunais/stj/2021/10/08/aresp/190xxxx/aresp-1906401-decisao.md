@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto porJonathan Joel dos Santos contra a decisão proferida pelo Tribunal de Justiça de Alagoas, que inadmitiu o recurso especial por ele apresentado, com fundamento no art. 105, III,a, da Constituição Federal, contra o acórdão prolatado na Apelação Criminal n.0700263-60.2017.8.02.0067 (fls. 222/232).
+Nas razões do recurso especial (fls. 237/247), a defesa afirma que o acórdão violou os arts. 59 do Código Penal e42da Lei n. 11.343/2006 ao aplicar aumento de dois anos com base na natureza e quantidade de drogas apreendida (7 g de crack e 19 g de maconha) - fl. 239.
+Apresentadas contrarrazões (fls. 254/258), o recurso especial foi inadmitido pela Corte de origem por incidência da Súmula 7/STJ (fls. 260/262). Contra tal decisão foi interposto o agravo em análise (fls. 268/273), com contraminuta ofertada às fls. 281/283.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 298/301).
+É o relatório.
+A irresignação volta-se, tão somente, quanto à exasperação da pena-base, por entender o agravante ser inidôneo o agravamento de suapena em dois anos na primeira fase da dosimetria, considerando a pequena quantidade de drogas apreendida (7 gde crack e 19 g de maconha).
+O Tribunal de origem concluiu que a fixação da pena-base se mostrou proporcional e adequada ao caso concreto, observando os ditames do art. 59 do Código Penal (fl. 230).
+Entretanto, mesmo considerada a sua natureza e variedade (crack e maconha), a quantidade total dos entorpecentes apreendidos (7 g de crack e 19 g de maconha) não justifica, por si só,o patamar de aumento adotado no acórdão, o qual se mostra desproporcional.
+Em casos análogos, nos quais foram apreendidos quantidades semelhantes, e até pouco maiores, esta Corte Superior entendeu ser inidôneo, até mesmo, o aumento da pena-base por tal vetor:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS.DOSIMETRIA. PENA-BASE. NATUREZA DA SUBSTÂNCIA ENTORPECENTE.QUANTIDADE NÃO EXPRESSIVA.
+1. A dosimetria da pena é o momento em que o juiz, dentro dos limites abstratamente previstos pelo legislador, deve eleger, fundamentadamente, o quantum ideal da sanção a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito praticado.
+2. Nos termos da jurisprudência vigente no Superior Tribunal de Justiça, a revisão da dosimetria da pena, no âmbito do recurso especial, é medida excepcional, a qual apenas se justifica quando constatada flagrante ilegalidade ou teratologia. Precedentes.
+3. No caso concreto, o Tribunal de origem decotou da pena-base o aumento imposto pelo Juízo de primeiro grau em razão da quantidade e da natureza da droga.
+4. Com efeito, malgrado não se discuta o poder nocivo da substância entorpecente apreendida (cocaína), a quantidade não se mostra expressiva. Assim, não se justifica a exasperação da pena na primeira fase da dosimetria, razão por que deve ser mantido o decote do incremento correlato. Precedentes.
+5. Agravo regimental desprovido.
+(AgRg no REsp nº 1.852.997/MS, Ministro Jorge Mussi, Quinta Turma, DJe 14/02/2020. Quantidade de droga apreendida na hipótese:5 porções de cocaína, com peso de 1,4 g; 3 porções de maconha, com peso de 67,2g; 139 porções depasta-base de cocaína, totalizando 48,3 g).
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXACERBAÇÃO DA PENA-BASE.AUSÊNCIA DE MOTIVAÇÃO VÁLIDA. PEQUENA QUANTIDADE DE DROGA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. FALTA DE ELEMENTOS VÁLIDOS QUE INDIQUEM A HABITUALIDADE DELITIVA DO RÉU.APLICAÇÃO. NECESSIDADE DE READEQUAÇÃO DA PENA E DO REGIME PRISIONAL.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. POSSIBILIDADE AGRAVO NÃO PROVIDO.
+1. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+2. Na hipótese, verifica-se ser manifesta a ilegalidade imposta ao ora agravado, pois as instâncias ordinárias sopesaram considerações genéricas e elementos inerentes ao próprio tipo penal, bem como a pequena quantidade de droga apreendida (82g de maconha) para majorar a pena-base. Necessidade de readequação da pena-base.
+ ..
+(AgRg no HC n.503.421/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 2/9/2019)
+Dessa forma, passo ao redimensionamento da pena pelo tráfico de drogas, tão somente para desconsiderar a negativação em razão da quantidade de droga apreendida, fixando a pena-base no mínimo legal (5 anos de reclusão). Ausentes circunstâncias agravantes ou atenuantes, bem como causas de aumento ou de diminuição,fica a pena definitiva fixada em 5 anos de reclusão e 500 dias-multa, mantidos os demais termos da condenação.
+Ante o exposto, com fundamento no art. 253, II,c, do RISTJ,conheçodo agravo paradar provimentoao recurso especial e excluir o aumento da pena-base, redimensionandoa reprimenda imposta ao acusado pelo delito de tráfico de drogas para 5 anos de reclusão e 500 dias-multa, nos termos da presente decisão, mantidas as demais determinações do acórdão.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APREENSÃO DE 7 G DE CRACK E 19 G DE MACONHA.DOSIMETRIA. ELEVAÇÃO DA PENA-BASE. QUANTIDADE POUCO EXPRESSIVA PARA JUSTIFICAR A EXASPERAÇÃO.
+Agravo conhecido para dar provimento ao recurso especiale excluir o aumento da pena-base, redimensionando a reprimendapara 5 anos de reclusão e 500 dias-multa, nos termos da decisão, mantidas as demais determinações do acórdão.
