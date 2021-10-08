@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada por WALMIR APARECIDO MARINcontra decisão daExmo. Juizde DireitodaVara Única da Comarca de Carapebus/ Quissamã - RJ,que teria descumprido decisão proferida por esta Corte Superior de Justiça nos autos doHabeas Corpus 568.693/ES.
+O Reclamante afirma que, em 30/11/2020, teve decretada contra si prisão preventiva, nos autos da ação penal n.0000129-44.2020.8.19.0084. Contudo em 16/08/2021, a prisão preventiva foi revogada, tendo sido fixado,como medida cautelar, o pagamento do valor de R$ 50.000,00 (cinquenta mil reais) a título de fiança.
+Alega que "a defesa do reclamante requereu a revogação da cautelar de pagamento de fiança, em razão das dificuldades financeiras enfrentadas pelo reclamante, que está preso há quase dez meses e, por sua vez, impossibilitado de trabalhar. Subsidiariamente, requereu a redução do valor arbitrado" (fl. 6). Entretanto, o pleito foi indeferido.
+Assevera que"a autoridade reclamada -data maxima venia - desrespeitou ordem emanada do Superior Tribunal de Justiça, notadamente porque a decisão proferida pela Terceira Seção no habeas corpus coletivo 568.693/ES determinou expressamente a soltura dos presos a quem foi concedida liberdade provisória condicionada ao pagamento de fiança em todo o território nacional" (fl. 6).
+Pretende a concessão de medida liminar para que seja determinada"a revogação da cautelar de pagamento de fiança decretadanos autos 0000129-44.2020.8.19.0084, pela eminente magistrada da Vara única da Comarca de Comarca Carapebus / Quissama - RJ, expedindo-se alvará de soltura em favor do reclamante Walmir" (fl. 9).
+Ao final, requer aprocedência da reclamação para que seja revogada a cautelar de pagamentode fiança.
+É o relatório.
+Decido.
+Insta consignar, inicialmente, que de acordo com o texto constitucional (art. 105, inciso I, alínea f), compete ao Superior Tribunal de Justiça julgar a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões. O Código de Processo Civil regulamenta a reclamação nos artigos 988 e seguintes, prevendo ser cabível para garantia da "autoridade das decisões do tribunal" (art. 988, inciso II, do CPC).
+Com efeito, a reclamação não é instrumento processual adequado para questionar a decisão proferida, mas para garantir a autoridade das decisões proferidas ou autoridade deste Superior Tribunal de Justiça, não havendo qualquer das hipóteses no caso concreto.
+In casu, pretende aReclamante seja reconhecida por este Superior Tribunal a não observância pela Autoridade Reclamada da decisão proferida por esta Corte no Habeas Corpus 568.693/ES, do qual a ora reclamante sequer foi parte.
+Da leitura dos autos, verifica-se quenão há qualquer relação entreos fatos tratadosno habeas corpus impetrado anteriormente nesta Corte, e a matéria que foi objeto dedeliberação na ação penal nº 0000129-44.2020.8.19.0084, em trâmite perante a VaraÚnica da Comarca de Carapebus/ Quissamã - RJ.
+Assim, não se presta o presente instrumento para revisar ou rejulgar decisão contrária ao interesse dareclamante, devendo se valer do meio processual adequado.
+Nesse sentido, verifica-se a jurisprudência do col. Supremo Tribunal Federal sobre o tema:
+AGRAVO INTERNO NA RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE Nº 42. INEXISTÊNCIA. AUSÊNCIA DE IDENTIDADE DE TEMAS ENTRE O ATO RECLAMADO E O PARADIGMA DESTA CORTE. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. NEGATIVA DE SEGUIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+ ..
+4. A reclamação não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade se revela estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedente: Rcl 4.381-AgR, Rel. Min. Celso de Mello, Plenário, DJe de 5/8/2011.
+5. Agravo interno a que se nega provimento." (Rcl 24126 AgR, Primeira Turma, Rel. Min. LUIZ FUX, DJe 02/12/2016, grifei)
+Oportuno ainda, transcrever julgado dessa Corte:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECLAMAÇÃO. DESCABIMENTO DE RECLAMAÇÃO CONTRA ALEGADA VIOLAÇÃO DE SÚMULA DESTA CORTE.
+1. A Reclamação dirigida ao STJ não se presta a proteger o jurisdicionado de decisões judiciais que não tenham seguido o posicionamento majoritário da jurisprudência desta Corte ou tese posta em enunciado de súmula deste Tribunal.
+Tal entendimento deflui do fato de que o único inciso do art. 988 do CPC/2015 que faz alusão ao cabimento de Reclamação para garantir a observância de enunciado de súmula é o inciso III que restringe a proteção da Reclamação à ofensa às súmulas vinculantes do Supremo Tribunal Federal. Precedentes.
+2. O art. 976, I, do CPC não se aplica às Reclamações dirigidas a Cortes Superiores, mas, sim, aos incidentes de demandas repetitivas, instituto concebido para ser instaurado no segundo grau de jurisdição, replicando na segunda instância mecanismo de solução de controvérsias repetitivas já existente nas instâncias extraordinárias, por meio dos recursos repetitivos e da repercussão geral.
+Nesse sentido, a Reclamação prevista no art. 988, IV, primeira parte, do CPC/2015, destinada a garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas, será dirigida ao segundo grau de jurisdição.
+3. É incabível o manejo da reclamação como sucedâneo recursal, tanto mais quando há evidências de que o Reclamante interpôs o recurso cabível apto a questionar a suposta afronta à súmula do STJ no seu caso concreto.
+4. Agravo regimental a que se nega provimento." (AgRg na Rcl 37.232/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 27/02/2019, DJe 15/03/2019, grifei)
+"AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSO PENAL. ALEGAÇÃO DE DESRESPEITO DE MATÉRIA JULGADA EM HABEAS CORPUS COLETIVO. FATOS DISTINTOS. NÃO CABIMENTO. RECLAMAÇÃO JULGADA EXTINTA SEM RESOLUÇÃO DO MÉRITO.
+A reclamação não se mostra como a via adequada para impugnar descumprimento de decisão proferida em sede de habeas corpus coletivo, ou ainda para revisar ou rejulgar decisão contrária ao interesse da reclamante, devendo se valer do meio processual adequado.
+Agravo regimental desprovido."(AgRg na Rcl 41.443/PR, Terceira Seção, Rel. Ministro Felix Fischer, DJe 04/05/2021)
+Ante o exposto, com fundamento no artigo 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, julgo extinta a reclamação, sem resolução do mérito. Prejudicada a análise do pedido liminar.
+EMENTA
+RECLAMAÇÃO. PROCESSO PENAL. ALEGAÇÃO DE DESRESPEITO DE MATÉRIA JULGADA EMHABEAS CORPUSCOLETIVO. FATOS DISTINTOS.NÃO CABIMENTO. RECLAMAÇÃO JULGADA EXTINTA SEM RESOLUÇÃO DO MÉRITO.
