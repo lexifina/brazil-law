@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por RICARDO ORSI, com fundamento nas alíneas "a" e "c"do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fls. 593-600):
+"HOMICÍDIO CULPOSO. Delito de trânsito. Prova robusta da autoria e da materialidade delitiva. Réu que, na condução de veículo automotor, agiu imprudentemente ao perder o controle da direção e invadir a pista oposta, colidindo frontalmente com o veículo conduzido pela vítima e provocando a sua morte. Culpa evidenciada. Condenação mantida. Penas no piso. Pena corporal substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária, fixado o regime aberto. Apelo improvido".
+Em suas razões recursais, a parte recorrente aponta violação doart. 28-A do Código de Processo Penal. Aduz para tanto, em síntese, que "referida norma penal tem natureza híbrida, pois reflete diretamente na punição do réu e, por esta razão, deve retroagir em seu benefício" (e-STJ, fl. 636).
+Com contrarrazões (e-STJ, fls. 578-686), o recurso especial foi parcialmente admitido na origem (e-STJ, fls. 689-690).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não provimento do recurso (e-STJ, fls. 764-774).
+É o relatório.
+Decido.
+A controvérsia em análise cinge-se em definir os limites e critérios paraaplicação do acordo de não persecução penal. Acerca do tema, merecedestaque a seguinte passagem do acórdão combatido:
+Ressalte-se que é incabível, após a prolação da sentença condenatória, a aplicação retroativa do acordo de não persecuçãopenal do novo "Pacote Anticrinne" (e-STJ, fls. 623-624).
+Iniciada a persecução penal com o recebimento da denúncia e, nocaso, coma condenação, inclusive, doora recorrenteem segunda instância,restaafastada a possibilidade de acordo de não persecução penal,por não secoadunar com o propósito do instituto despenalizadorpré-processual.Ademais, esta Corte Superior sedimentou a compreensão de que a
+possibilidade de oferecimento do acordo de não persecução penal, previstono artigo 28-A do Código de Processo Penal,inserido pela Lei n.13.964/2019, é restrita aos processos em curso até o recebimento dadenúncia, o que não se enquadra na hipótese em apreço. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO.ACORDO DE NÃO PERSECUSÃO PENAL. INAPLICABILIDADE. PROCESSO COM APELAÇÃO CRIMINAL JÁ JULGADA. PRETENSÃO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE APENAS POR MULTA. INVIABILIDADE. RECURSO IMPROVIDO.
+1. Descabida a aplicação retroativa do instituto mais benéfico previsto no art. 28-A do CP (acordo de não persecução penal) inserido pela Lei n. 13.964/2019 quando a persecução penal já ocorreu, estando o feito sentenciado, inclusive com condenação confirmada por acórdão proferido pelo Tribunal de Justiça no caso em tela.
+2. "Não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal possuir previsão de multa cumulada com a pena privativa de liberdade, devendo-se privilegiar a incidência de duas medidas restritivas de direitos nessa hipótese" (AgRg no HC n.480.970/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/6/2019, DJe 18/6/2019).
+3. Agravo regimental improvido".
+(AgRg no HC 626.873/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/09/2021, DJe 24/09/2021)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A FAUNA. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). RETROATIVIDADE DO ART. 28-A DO CPP.LIMITE TEMPORAL. RECEBIMENTO DA DENÚNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acordo de não persecução penal é instituto mediante o qual o órgão acusatório e o investigado celebram negócio jurídico em que são impostas condições, as quais, se cumpridas em sua integralidade, conduzem à extinção de punibilidade do agente.
+2. O caráter predominantemente processual, em que pese ter reflexos penais, e a própria razão de ser do instituto  evitar a deflagração de processo criminal -, conduzem a se sustentar que sua retroatividade, diversamente do que ocorre com as normas híbridas com prevalente conteúdo material (de que é exemplo o dispositivo que condiciona a ação penal à prévia representação da vítima), deve ser limitada ao recebimento da denúncia, isto é, à fase pré-processual da persecutio criminis.
+3.No caso dos autos, a denúncia foi recebida em 4/9/2018 -antes das alterações promovidas pela Lei n. 13.694/2019, que entraram em vigor em 23/1/2020 -e a sentença condenatória já havia sido proferida e confirmada pelo Tribunal a quo, inclusive. Assim, ao se considerarem os marcos temporais mencionados, não havia possibilidade de oferecimento do ANPP e, portanto, não está caracterizada a infringência do art. 28-A do CPP.
+4. Agravo regimental não provido".
+(AgRg no REsp 1937513/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/09/2021, DJe 21/09/2021)
+Ante o exposto, com fundamento no art. 255, §4º, II, do Regimento Interno do STJ,nego provimento ao recurso especial.
+Por fim, considerando que a matéria tratada no recurso especial é restrita a um único tema, inteiramente tratado em linhas volvidas, julgoprejudicado o agravo interposto às fls. 695-713 (e-STJ).
+Publique-se. Intimem-se.
