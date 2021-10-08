@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO BRADESCO S. A.contra decisão da Presidência do Superior Tribunal de Justiça (e-STJ fls. 271/273) que não conheceu do agravo em recurso especial, por falta de impugnação dos fundamentos da decisão agravada.
+Inconformado, oagravanteinterpõeo presente recurso (e-STJ fls. 275/286), postulando a reforma da decisão agravada, sob a alegação de que impugnou todos os fundamentos da decisão de admissibilidade do recurso especial, assinalando principalmente a desnecessidade de reexame de matéria de prova, "sobretudo quando considerado que o objeto do recurso é estritamente processual".
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Considerando a manifestação dos recorrentes, faz-se imperiosa a reconsideração da decisão de fls. 271/273e-STJ e passa-se ao exame do agravo em recurso especial interposto porBANCO BRADESCO S. A..
+Ultrapassados os requisitos de admissibilidade do agravo, verifica-se que o recurso especial (fls. 148/161e-STJ), fundamentado naalínea "a" do permissivo constitucional, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiroassim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. FASE DE CUMPRIMENTO DEFINITIVO DE SENTENÇA. INDEFERIMENTO DE SUBSTITUIÇÃO DOS VALORES JÁ DEPOSITADOS PELO SEGURO-GARANTIA. POSTERIOR LEVANTAMENTO DA QUANTIA PELA PARTE CREDORA. PERDA DO INTERESSE/UTILIDADE. RECURSO PREJUDICADO.
+1. Na origem, trata-se de ação de cobrança, em fase de cumprimento de sentença, tendo o juízo a quo proferido decisão no sentido de indeferir o pedido de substituição dos valores depositados pelo seguro-garantia.
+2. A decisão atacada foi bem fundamentada no sentido de que os valores depositados, os quais se pretende substituir pelo seguro-garantia, tratam-se de incontroversos, tendo o executado concordado expressamente com o referido débito, considerando, ainda, o grande porte da instituição financeira.
+3. Ao compulsar os autos principais, verifica-se que já houve o levantamento pelas empresas exequentes, ora agravadas, da quantia depositada em juízo pelo exequente, razão pela qual a providência requerida não possui maisqualquer utilidade ao agravante, havendo a perda superveniente do interesse recursal.
+4. Impende salientar que o levantamento do valor depositado foi amparado por decisão judicial e refere-se à parte do cumprimento definitivo do julgado, não havendo mais interesse e utilidade a substituição pelo seguro-garantia.
+5. Com relação à alegação do recorrente de que a liquidação de sentença prosseguirá com a realização de nova perícia, de certo que em momento oportuno poderá a questão ser novamente ventilada, ou seja, quando houver o cumprimento definitivo da segunda parte do julgado.
+6. Recurso prejudicado, o qual não se conhece"(e-STJ fl. 69).
+Nas razões do recurso especial (e-STJ fls. 148/161),orecorrentealegaque o acórdão violou os artigos 520, 805, 835 § 2º, do CPC/2015, ao argumento de que
+"independentemente de as Recorridas terem efetuado olevantamento do valor, é certo que com a reforma da decisão dever ser determinado a devolução em juízo, o que demonstra que não houve perda de objeto e, consequentemente, deve prevalecer a regra da execução menos gravosa, conforme disposto expressamente no art. 805, do Código de Processo Civil"
+A pretensão recursal não merece acolhida.
+Com efeito, as conclusões do Tribunal de origem acerca daausência de interesse em razão do indeferimento da substituição da garantia e levantamento do valor incontroverso decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"Na origem, trata-se de ação de cobrança, em fase de cumprimento de sentença, tendo o juízo a quo proferido decisão no sentido de o pedido de substituição dos valores depositados pelo seguro-garantia.
+A decisão atacada foi bem fundamentada no sentido de que os valores depositados, os quais se pretende substituir pelo seguro-garantia, tratam-se de incontroversos, tendo o executado concordado expressamente com o referido débito, considerando, ainda, o grande porte da instituição financeira.
+A tese recursal é no sentido de que a medida pretendida não causa nenhum prejuízo às agravadas, afinal, em se tratando de Instituição Financeira sólida, não há que se questionar acerca da idoneidade do seguro ofertado.
+Pontua o agravante também que deve ser aceito o seguro-garantia ofertado com fulcro a suspender a determinação de penhora e liberação de valores, visto que é equiparado a dinheiro tanto quanto a carta de fiança, desde que acrescido do percentual de 30% e não há qualquer exigência acerca do prazo de validade da apólice, a qual poderá ser renovada até o final de sua vigência.
+Ao compulsar os autos principais, verifica-se que já houve o levantamento pelas empresas exequentes, ora agravadas, da quantia depositada em juízo pelo exequente, razão pela qual a providência requerida não possui mais qualquer utilidade ao agravante, havendo a perda superveniente do interesse recursal.
+Impende salientar que o levantamento do valor depositado foi amparado por decisão judicial e refere-se à parte do cumprimentodefinitivo do julgado, não havendo mais interesse e utilidade a substituição pelo seguro-garantia.
+Com relação à alegação do recorrente de que a liquidação de sentença prosseguirá com a realização de nova perícia, de certo que em momento oportuno poderá a questão ser novamente ventilada, ou seja, quando houver o cumprimento definitivo da segunda parte do julgado"(e-STJ fls. 138/139).
+Com efeito, rever o entendimento do acórdão impugnado implicaria o reexame do contexto fático-probatório, procedimento inadmissível no recurso especial pela incidência da Súmula nº 7/STJ.
+Ante o exposto, reconsidero a decisão agravada (fls. 271/273e-STJ), conhecendo do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
