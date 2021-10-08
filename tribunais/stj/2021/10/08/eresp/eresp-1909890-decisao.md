@@ -1,0 +1,55 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Maria Zenaide de Souza de Paulo, com amparo nas alíneas "a" e "c"do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Regiãoassim ementado (e-STJ, fl. 125):
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. VIOLAÇÃO LITERAL A DISPOSITIVO DE LEI. JUROS DE MORA E CORREÇÃO MONETÁRIA. LEI Nº 11.960/2009. INOCORRÊNCIA. SÚMULA 343 DO STF. CABIMENTO. IMPROCEDÊNCIA.
+1. Com a edição da Lei nº 11.960/2009, a forma de atualização monetária dos débitos da Fazenda Pública virou tema controvertido, mas, obviamente, de interpretação razoável, dada a legislação vigente. O fato de sobrevir posicionamento do Supremo Tribunal Federal conferindo outra exegese ao tema não pode retirar a higidez da coisa julgada, sob a ilação de ter sido violado literal dispositivo de lei, ou mesmo de regra constitucional.
+2. O fato de o STF ter reputado o assunto como de repercussão geral e que será examinado sob o aspecto constitucional no RE 870.947 (TEMA 810), só vem a demonstrar que, efetivamente, ao tempo do julgado rescindendo e, atualmente, aludido assunto pendia de pacificação.
+3. Não prospera a alegação de ofensa aos dispositivos legais invocados na inicial, revelando-se o Enunciado 343 da Súmula do STF, portanto, como óbice à rescisória.
+4. Improcedência da ação rescisória.
+A recorrente aponta divergência jurisprudencial ao argumento de que a decisão de mérito do Tribunal de Justiça de Santa Catarina foi de forma diversa do entendimento do Superior Tribunal de Justiça e do Tribunal Regional Federal da 4ª Região.
+Defende a aplicação da decisão proferida pelo STF, no julgamento das ADIs4.357 e 4.425, afastando a incidência da Lei n. 11.960/2009 e restabelecendo a sistemática anterior quanto aos juros e correção monetária.
+Admitido o recurso especial na origem (e-STJ, fl. 214), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+De início, verifica-se que a insurgente deixou de indicar os dispositivos eventualmente violados da questão alegada nas razões do especial, o que implica a deficiência de fundamentação, atraindo a incidência da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. APOSENTADORIA. ATO COMPLEXO. ANÁLISE PELO TCU DEPOIS DE TRANSCORRIDOS MAIS DE CINCO ANOS. GARANTIA DE CONTRADITÓRIO E AMPLA DEFESA AO SERVIDOR. PRECEDENTES. LITISCONSÓRCIO PASSIVO NECESSÁRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça entende que é possível a revisão do ato administrativo de aposentadoria, mas transcorrendo lapso superior a cinco anos e quando os referidos atos implicarem invasãoda esfera jurídica dos interesses individuais de seus administrados, é obrigatória a instauração de prévio processo administrativo, no qual seja observado o devido processo legal e os corolários da ampla defesa e do contraditório.
+2. A ausência de indicação de dispositivo de lei federal violado impede o conhecimento do recurso especial, nos termos da Súmula 284/STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1.530.348/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/4/2020, DJe 27/4/2020).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. INDICAÇÃO. AUSÊNCIA.
+1. Não se conhece de recurso especial que não aponta o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+2. Ressalvado o entendimento do relator, idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg noREsp n. 1.346.588/DF, relator Min. ARNALDO ESTEVES LIMA, CorteEspecial, DJe 17/03/2014).
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.601.323/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 4/5/2020, DJe 7/5/2020).
+Por outro lado, o Tribunal de origem entendeu pela ausência de coisa julgada inconstitucional e pela aplicação da Súmula 343/STF sob a seguinte fundamentação (e-STJ, fl. 122):
+Logo, não é possível a rescisão do julgado porque não há coisa julgada inconstitucional, uma vez que o Supremo Tribunal Federal não afirmou isso até o presente momento.
+Quer dizer, além de não ser cabível a ação rescisória por se tratar de matéria, senão pacificada, ao menos controvertida à época do julgamento do provimento judicial rescindendo, ainda pairam incertezas sobre o indexador oficial para a correção dos débitos da fazenda pública.
+Frise-se ainda que, nos termos do art. 525, §§ 11, 12, 13, 14 e 15 do novo Código de Processo Civil, havendo questões controvertidas quanto ao pagamento, é possível o manejo de ação rescisória, a contar do trânsito em julgado da decisão proferida pelo Supremo Tribunal Federal, quer em controle concentrado ou difuso sobre a matéria.
+Assim, considerando que não há coisa julgada inconstitucional, à luz do que decidiu o Supremo Tribunal Federal no RE 590.809 e por haver contrariedade à Súmula 343/STF, não é cabível a rescisão do julgado.
+Nesse contexto, nota-se que as questões não foram devidamente impugnadas pela interessada, nas razões doespecial, o que, por si só, mantém incólume o aresto combatido.
+A não contestação específica de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO RESCISÓRIA. DESCABIMENTO. INCIDÊNCIA DA SÚMULA N. 343/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - O recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula n. 83/STJ.
+III - O acórdão recorrido adotou orientação do Supremo Tribunal Federal, em precedente julgado sob o rito da repercussão geral, a qual reconhece a validade do enunciado da Súmula n. 343 daquela Corte, no sentido de não ser cabível ação rescisória por violação de literal dispositivo de lei quando a matéria era controvertida nos Tribunais à época do julgamento, excepcionados apenas os casos submetidos a controle concentrado de constitucionalidade.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.683.751/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 14/11/2017, DJe 21/11/2017).
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. RAZÕES RECURSAIS DISSOCIADAS DO DECIDIDO NO ACÓRDÃO RECORRIDO. RECURSO DEFICIENTE. APLICAÇÃO DAS SÚMULAS 283 E 284 DO STF. ACÓRDÃO RECORRIDO TIRADO DE AÇÃO RESCISÓRIA FUNDADA EM VIOLAÇÃO À NORMA CONSTITUCIONAL. INCOMPETÊNCIA DESTA CORTE. DISSÍDIO JURISPRUDENCIAL. EXAME INVIABILIZADO.
+1. O Tribunal de origem julgou improcedente a Ação Rescisória por entender: "(..) naquele juízo preambular, não vislumbrei a probabilidade do direito invocado pelo Estado de Minas Gerais, eis que a inconstitucionalidade do auxílio-invalidez (publicação em 04/12/2015) não alcança o acórdão rescindendo cujo trânsito em julgado se deu em 29/10/2013, na medida em que a hipótese contida no inciso V do art. 966 do CPC/15 (violação a norma jurídica) diz respeito a decisão transitada em julgado que aplicou norma em desacordo com entendimento já firmado pelo e. STF (vício congênito), de modo que, no presente caso, o vício de inconstitucionalidade foi reconhecido posteriormente ao trânsito em julgado do acórdão rescindendo, devendo prevalecer, a meu sentir, a supremacia da coisa julgada, conforme venho manifestando de forma reiterada sobre o tema (julgamento das ações rescisórias nº 1.0000.16.037731-3/000, em 24/04/2017, e nº 1.0000.16.027488-2/000, em 10/08/2017, oportunidade em que fui acompanhada pelos meus pares integrantes desta 8ª Câmara Cível, por unanimidade)" (fls. 213-214, e-STJ, grifou-se).
+2. Razões do Apelo Nobre dissociadas daquilo que ficou decidido pela Corte Regional, o que caracteriza deficiência na fundamentação do Recurso Especial e atrai, por analogia, os óbices das Súmulas 283 e 284 do Supremo Tribunal Federal.
+3. Ademais, o Superior Tribunal de Justiça possui jurisprudência no sentido de que "o acórdão que, julgando o mérito de Ação Rescisória, afirma a existência ou a inexistência de violação da Constituição, está sujeito a controle por Recurso Extraordinário, e não por Recurso Especial, porquanto tal análise demanda interpretação de matéria cuja competência é exclusiva do Supremo Tribunal Federal, nos termos do art. 102, III, a, da Constituição da República" (AgInt no REsp 1.763.042/CE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 21.3.2019).
+4. Os óbices impostos à admissão do Recurso Especial pela alínea "a" do permissivo constitucional inviabilizam sua análise pela alínea "c".
+5. Recurso Especial não conhecido.
+(REsp 1.802.368/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/12/2019, DJe 25/5/2020).
+Por fim, o óbice processual por deficiência na fundamentação impede o conhecimento do recurso fundado em divergência jurisprudencial.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes:
+1) no caso de ter sido aplicado, na origem, o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva;
+2) no caso de ter sido utilizado, na origem, o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma;
+3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento).
+Ficam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
