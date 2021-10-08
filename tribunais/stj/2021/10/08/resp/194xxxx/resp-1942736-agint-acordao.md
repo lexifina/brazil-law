@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por CASSIUS CLAY CARDOSO ALENCAR contra a decisão monocrática da lavra deste signatário, que negou provimento ao recurso especial.
+O apelo extremo, a seu turno, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 402, e-STJ):
+APELAÇÃO. CÉDULA RURAL HIPOTECÁRIA. CODEVEDOR. PAGAMENTO. SUB-ROGAÇÃO. CORREÇÃO MONETÁRIA. INPC. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. OBSERVÂNCIA AO CPC 85, §2º. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA.
+1. Opera-se o pagamento com sub-rogação pelo codevedor que quita a dívida do devedor principal (CCB 346), a fim de elidir a penhora do imóvel de sua titularidade dado em garantia.
+2. Correção monetária pelo INPC, índice eleito pelo TJDFT.
+3. Licitude da condenação do vencido ao pagamento de honorários advocatícios, que, fixado conforme os critérios do CPC 85, §2º, não enseja redução.
+4. O exercício regular do direito de defesa não caracteriza litigância de má-fé.
+Opostos embargos de declaração (fls. 410/416, e-STJ), esses foram rejeitados.
+Nas razões do especial (fls. 430/443, e-STJ), o insurgente apontou violação aos artigos 18, 489 e 1022 do Código de Processo Civil/15. Sustentou, em síntese: i) negativa de prestação jurisdicional, por não terem sido supridas as omissões e as contradições suscitadas nos aclaratórios no que tange à ilegitimidade ativa e a inépcia da inicial; ii) não há prova nos autos de que a dívida foi quitada pelas ora recorridas.
+Aduziu, ainda, que "a execução - proc. nº 2015.01.1.000357.4 - de fato foi extinta pelo pagamento, mormente não mencionar a sentença quem seja o pagador. Também é incontroverso que os ID 12142779 e 12142784 mostram declaração do credor e tabela da negociação da dívida, mas, isso, não quer dizer que a dívida tenha sido quitada pelas recorridas, estas, que subscreveram o acordo em conjunto com a irmã Daniela Alves Ferreira, ex-companheira do recorrente. Desse modo, evidente sub-rogação não atesta que as recorridas postulam créditos próprios, porque o reconhecimento de suas legitimidades ordinárias se deu por obviedade, e não por análise detida das assertivas colacionadas aos autos, isso, é o consta no acórdão combatido" (fls. 439/440, e-STJ).
+Contrarrazões (fls. 468/475, e-STJ), e após decisão de admissão do recurso especial (fls. 486/487, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Por decisão monocrática (fls. 556/559, e-STJ), este relator negou provimento ao recurso, sob os seguintes fundamentos: i) ausência de negativa de prestação jurisdicional; ii) incidência da Súmula 7 do STJ.
+No agravo interno (fls. 561/567, e-STJ), o insurgente repisa as alegações expedidas no apelo extremo e pugna pelo afastamento dos supracitados óbices.
+Impugnação às fls. 571/576, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO RÉU.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+2. Para superar as premissas em que se baseou o Tribunal local, a fim de reconhecer a existência de comprovação de fato constitutivo do direito da autor, consubstanciado no não pagamento da dívida, necessário seria o revolvimento de conteúdo fático-probatório constante dos autos, hipótese vedada na presente esfera processual, ante o óbice insculpido na Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Consoante asseverado na decisão agravada, merece ser afastada a alegada violação aos artigos 489 e 1022 CPC/15, visto que o Tribunal de origem julgou integralmente a lide, fundamentando o decisum de acordo com os fatos apresentados e com a interpretação dos regramentos legais que entendeu aplicáveis, demonstrando suficientemente as razões de seu convencimento.
+Segundo a parte recorrente, o acórdão recorrido teria sido omisso no que tange à ilegitimidade ativa das recorridas e a inépcia da inicial.
+Todavia, da leitura do decisum impugnado, denota-se que toda a matéria posta a apreciação fora objeto de deliberação pelo órgão julgador, consoante se infere dos seguintes trechos do acórdão recorrido (fls. 422/423, e-STJ):
+A demanda funda-se no direito de sub-rogação.
+Consoante a inicial (1D 12142772), o apelante contraiu obrigação com o Banco Bradesco S/A, representada pela Cédula Rural Hipotecária nº201305036, no valor originário de R$ 332.205,30, oportunidade em que oferecido como garantia da dívida o imóvel "Fazenda Piripiri", localizada em Vila Boa, na Zona Rural de Formosa - GO.
+O bem dado em garantia é de titularidade das apeladas e da irmã delas, Daniela Alves Ferreira, ex-companheira do recorrente, as quais, por ocasião daquele negócio jurídico, participaram como intervenientes garantidoras (ID 12142791).
+A dívida não foi paga pelo devedor principal, o que ensejou demanda executiva pelo credor - Proc. nº. 2015.01.1.000357-4, ID 12142885 -, com a consequente penhora do imóvel dado em garantia (ID 12142792).
+Assim, visando a impedir a alienação do imóvel em leilão, as apeladas, juntamente com Daniela Alves Ferreira, fizeram um acordo com o credor (ID 12142776), no valor R$ 311.176,34, em parcela única, com data de vencimento em 29/07/17.
+A execução - Proc. nº 2015.01.1.000357-4 -foi extinta com base no pagamento, CPC 924, III, consoante ID 12142911, cujo trânsito em julgado operou-se em 31/01/18 (ID 12142912).
+Não bastasse isso, há declaração do credor quanto à negociação da dívida (ID 12142779), com tabela anexa (ID 12142784), na qual consta que o valor de R$ 311.176,34 deveria ser pago no prazo de 40 dias.
+É evidente, pois, a sub-rogação das apeladas (CCB 346, III), que pagaram a dívida do devedor originário, ora apelante, independentemente do adimplemento de outros contratos porventura firmados com o mesmo credor.
+Depreende-se da leitura dos trechos supratranscritos, que o órgão julgador dirimiu as questões que lhe foram postas à apreciação e importantes ao julgamento da causa, de forma clara e sem contradições ou omissões, embora não tenha acolhido a pretensão da recorrente, portanto não ocorre ofensa aos citados dispositivos legais.
+A propósito, este é o entendimento desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia.
+Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+2. No mérito, cinge-se a pretensão recursal na verificação da existência de prova do pagamento da dívida pelas ora recorridas.
+O Tribunal de origem, com base na análise dos elementos fáticos e probatórios da lide, entendeu que houve o pagamento da dívida pelas ora apeladas, nos seguintes termos (fls. 422/423, e-STJ):
+A dívida não foi paga pelo devedor principal, o que ensejou demanda executiva pelo credor - Proc. nº. 2015.01.1.000357-4, ID 12142885 -, com a consequente penhora do imó vel dado em garantia (ID 12142792).
+Assim, visando a impedir a alienação do imóvel em leilão, as apeladas, juntamente com Daniela Alves Ferreira, fizeram um acordo com o credor (ID 12142776), no valor R$ 311.176,34, em parcela única, com data de vencimento em 29/07/17.
+A execução - Proc. nº 2015.01.1.000357-4 -foi extinta com base no pagamento, CPC 924, III, consoante ID 12142911, cujo trânsito em julgado operou-se em 31/01/18 (ID 12142912).
+Não bastasse isso, há declaração do credor quanto à negociação da dívida (ID 12142779), com tabela anexa (ID 12142784), na qual consta que o valor de R$ 311.176,34 deveria ser pago no prazo de 40 dias.
+É evidente, pois, a sub-rogação das apeladas (CCB 346, III), que pagaram a dívida do devedor originário, ora apelante, independentemente do adimplemento de outros contratos porventura firmados com o mesmo credor.
+Para derruir as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar se as recorridas pagaram a dívida, segundo as alegações vertidas nas razões do apelo extremo, seria imprescindível o revolvimento da matéria fático-probatória, providência vedada na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. TRANSPORTE DE COISAS. INDENIZAÇÃO PELO EXTRAVIO. VALOR INTEGRAL DO DANO MATERIAL. APRESENTAÇÃO DE DECLARAÇÃO ESPECIAL DOS BENS OBJETO DO CONTRATO DE TRANSPORTE. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO.
+1. Conforme entendimento desta Corte Superior, o art. 22, alínea 3, da Convenção de Montreal estabelece que, no transporte de carga, a responsabilidade do transportador em caso de destruição, perda, avaria ou atraso se limita a uma quantia de 17 Direitos Especiais de Saque por quilograma, a menos que o expedidor haja feito ao transportador, ao entregar-lhe o volume, uma declaração especial de valor de sua entrega no lugar de destino, e tenha pago quantia suplementar, se for cabível. Com efeito, o Diploma transnacional não impõe uma forçosa tarifação, mas faculta ao expedidor da mercadoria que se submeta a ela, caso não opte por fazer declaração especial - o que envolve, em regra, pagamento de quantia suplementar. Precedentes.
+2. Na hipótese vertente, o Tribunal de origem, amparado nos elementos fático-probatórios dos autos, concluiu que: "No caso dos autos, o valor das mercadorias avariadas foi declarado, pois constava da fatura comercial mencionada no conhecimento de transporte. Também restou demonstrada a reparação dos danos sofridos pela segurada e a consequente sub-rogação da apelada no direito dela.". Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno provido.
+(AgInt no AREsp 1472850/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/12/2020, DJe 09/12/2020)
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
