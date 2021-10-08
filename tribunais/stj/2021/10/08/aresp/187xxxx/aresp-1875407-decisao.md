@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por TELEFÔNICA BRASIL, em face de acórdão assim ementado (fl. 149):
+AGRAVO DE INSTRUMENTO. Plano de saúde vigente nos moldes do art. 31 da Lei nº 9.656/98. Discussão quanto a valores, reajustes e cobertura. Prescrição. Inocorrência. Prazo decenal do art. 205 do CC aplicável em virtude da ausência de previsão específica acerca do tema. Precedentes.
+Decisão mantida. Adoção parcial do art. 252 do RITJ.
+RECURSO DESPROVIDO.
+Nas razões do especial, a parte ora agravante alega ofensa aos arts. 489, § 1º, III, IV e VI, e 1.022, II, do Código de Processo Civil/2015, bem como dissídio jurisprudencial. Preliminarmente, aponta omissão do Tribunal de origem, ao não se pronunciar sobre as questões postas em debate nos embargos de declaração. No mérito, argui afronta aos arts. 11 da Consolidação das Leis do Trabalho; 31 da Lei n. 9.656/98; e 205, caput, do Código Civil, arguindo que prescrita a pretensão, pois, a relação existente entre as partes tem origem em contrato de trabalho sendo aplicável, ao caso, o prazo prescricional de 2 (dois) anos.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, verifico que não há omissão alguma ou ausência de fundamentação na apreciação das questões suscitadas.
+Ressalte-se que não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões proferidas pela origem.
+Esclareça-se, também, que não se traduz em omissão a motivação contrária ao interesse da parte ou que deixe de se pronunciar acerca de pontos considerados irrelevantes.
+Observe-se, ainda, que "A jurisprudência é firme no sentido de que os embargos de declaração, ainda que opostos com o objetivo de prequestionamento visando à interposição de recursos nos Tribunais Superiores, não podem ser acolhidos quando inexistentes omissão, contradição ou obscuridade na decisão recorrida (EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 27.2.2018).
+Quanto ao mérito o Tribunal de origem, ao julgar o agravo de instrumento, concluiu pela não prescrição da pretensão em virtude da aplicação do prazo decenal, assim se pronunciando (fls. 152/153):
+(..) por mais que a lei nº 9.656/98 nada disponha a respeito de prazos prescricionais em específico para a hipótese concreta, solução outra não há senão se apegar o intérprete à previsão residual constante no art. 205 do CC, destinada a discussões desta estirpe. Neste senso desponta a jurisprudência deste E. TJSP:
+(..) é certo que a insurgência dos agravados e os prejuízos colocados em xeque, decorrem de novo contrato UNILATERALMENTE IMPOSTO pela parte ora recorrente no ANO DE 2016:
+constatação suficiente a afastar a incidência do prazo prescricional em detrimento de qualquer um dos envolvidos (fls. 7, 161 e outras).
+Acrescente-se que a conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de que "o prazo prescricional aplicável em hipóteses em que se discute a manutenção das mesmas condições da época do vínculo de trabalho é de 10 (dez) anos" (AgRg no REsp 1547482/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27.10.2015). Na mesma direção:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO POR DECISÃO MONOCRÁTICA. SÚMULA N. 568/STJ.
+PLANO DE SAÚDE. MANUTENÇÃO DE CONDIÇÕES. PRAZO PRESCRICIONAL DECENAL. SÚMULA N. 568/STJ. DECISÃO MANTIDA.
+1. "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema" (Súm 568 do STJ).
+2. Conforme o entendimento desta Corte, "o prazo prescricional aplicável em hipóteses em que se discute a manutenção das mesmas condições da época do vínculo de trabalho é de 10 (dez) anos" (AgRg no REsp 1547482/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1439011/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 26.10.2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MANUTENÇÃO. PRESCRIÇÃO. DEZ ANOS. AGRAVO NÃO PROVIDO.
+1. Nas ações em que se pretende a manutenção de plano de saúde coletivo após a extinção do contrato de trabalho, a prescrição é decenal, conforme disposto no art. 205 do Código Civil. 2. "Segundo a jurisprudência do STJ, a prescrição anual (art. 206, § 1º, II, do CC/2002) é inaplicável às pretensões baseadas nos denominados contratos de seguro saúde porque estes também se enquadram como planos privados de assistência à saúde, nos termos do art. 2º da Lei n. 10.185/2001" (AgRg no REsp 1.580.619/SP, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 21/03/2017).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1099455/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 30.5.2018)
+Incidente, no ponto, o óbice da Súmula 83/STJ, aplicável ao recurso especial interposto com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
