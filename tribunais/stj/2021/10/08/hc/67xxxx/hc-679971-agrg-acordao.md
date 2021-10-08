@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III -Os requisitos previstos na causa de diminuição (o agente ser primário, de bons antecedentes, não se dedicar às atividades criminosas nem integrar organização criminosa) são de observância cumulativa, vale dizer, a ausência de qualquer deles, implica a não aplicação da causa de diminuição de pena.
+IV - Na hipótese, houve fundamentação concreta e idônea para o afastamento do tráfico privilegiado, lastreada no fato de que "os novos delitos foram cometidos após ele ter obtido liberdade provisória em outro processo no mês de julho de 2019, ou seja, menos de um ano depois, quando ainda respondia ao primeiro processo", elementos aptos a justificar o afastamento da redutora do art. 33, parágrafo 4º, da Lei n. 11.343/06, pois demostram que o paciente se dedicava às atividades criminosas.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de ALEXSANDRO OLIVEIRA SENA DA SILVA contra decisão monocrática, a qual não conheceu do habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+No presente agravo, a defesa sustenta que não houve fundamentação idônea a justificar a nãoaplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, vez que o paciente é primário, de bons antecedentes, bem como não há provas de que se dedique às atividades criminosas e nem que integre organizações criminosas.
+Postula, assim, a reconsideração da decisão, para que incida o privilégio descrito no parágrafo 4º, do art. 33 da Lei n. 11.343/06, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento (fls. 527-535).
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III -Os requisitos previstos na causa de diminuição (o agente ser primário, de bons antecedentes, não se dedicar às atividades criminosas nem integrar organização criminosa) são de observância cumulativa, vale dizer, a ausência de qualquer deles, implica a não aplicação da causa de diminuição de pena.
+IV - Na hipótese, houve fundamentação concreta e idônea para o afastamento do tráfico privilegiado, lastreada no fato de que "os novos delitos foram cometidos após ele ter obtido liberdade provisória em outro processo no mês de julho de 2019, ou seja, menos de um ano depois, quando ainda respondia ao primeiro processo", elementos aptos a justificar o afastamento da redutora do art. 33, parágrafo 4º, da Lei n. 11.343/06, pois demostram que o paciente se dedicava às atividades criminosas.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa sustenta que não houve fundamentação idônea a justificar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, vez que o paciente é primário, de bons antecedentes, bem como não há provas de que se dedique às atividades criminosas e nem que integre organizações criminosas.
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Conforme consta na decisão agravada, na hipótese,houve fundamentação concreta e idônea para o afastamento do tráfico privilegiado, lastreada no fato de que os novos delitos foram cometidos após ele ter obtido liberdade provisória em outro processo no mês de julho de 2019, ou seja, menos de um ano depois, quando ainda respondia ao primeiro processo, elementos aptos a justificar o afastamento da redutora do art. 33, parágrafo 4º, da Lei n. 11.343/06, pois demostram que o paciente se dedicava às atividades criminosas.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
