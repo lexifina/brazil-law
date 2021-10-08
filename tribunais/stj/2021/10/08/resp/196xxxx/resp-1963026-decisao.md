@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Agência Nacional de Transportes Terrestres (ANTT) com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 96):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. CONDIÇÃO DE HIPOSSUFICIÊNCIA DEMONSTRADA. 1. O artigo 5º, LXXIV, da Constituição Federal, garante a todos a assistência jurídica gratuita pelo Estado, comprovada a insuficiência de recursos pelo interessado, não fazendo distinção entre pessoa física e pessoa jurídica. 2. Assim, o conceito de "necessitado", contido no artigo 2º da Lei nº 1.060/50, deve ser interpretado extensivamente, a fim de atender ao comando constitucional, que não distingue entre as espécies de pessoa s existentes no ordenamento jurídico. 3. Contudo, enquanto para a pessoa física é suficiente à declaração de impossibilidade de arcar com as despesas do processo sem prejuízo de sua manutenção ou de sua família, para a pessoa jurídica é imprescindível a comprovação de sua precária situação financeira. 4. No caso dos autos, a documentação acostada comprova a alegada hipossuficiência. 5. Agravo de instrumento provido.
+A parte recorrente aponta violação ao art. 2º da Lei n. 1.060/50. Sustenta que, conforme enunciado da Súmula 418/STJ, a concessão do benefício da justiça gratuita a pessoa jurídica depende da comprovação da hipossuficiência, situação não caracterizadanos autos.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Ao confirmar a decisão de piso que deferiu a gratuidade da justiça em favor da parte recorrida, a Corte regional consignou (fl. 90):
+O artigo 5º, LXXIV, da Constituição Federal, garante a todos a assistência jurídica gratuita pelo Estado, comprovada a insuficiência de recursos pelo interessado, não fazendo distinção entre pessoa física e pessoa jurídica.
+Assim, o conceito de "necessitado", contido no artigo 2º da Lei nº 1.060/50, deve ser interpretado extensivamente, a fim de atender ao comando constitucional, que não distingue entre as espécies de pessoa s existentes no ordenamento jurídico.
+Contudo, enquanto para a pessoa física é suficiente à declaração de impossibilidade de arcar com as despesas do processo sem prejuízo de sua manutenção ou de sua família, para a pessoa jurídica é imprescindível a comprovação de sua precária situação financeira.
+No caso dos autos, a documentação acostada comprova a alegada hipossuficiência.
+Verifica-se que a Instância a quo, com base em premissas fáticas, concluiu que a parte recorrida demonstrou a hipossuficiência financeira, confirmado a decisão que deferiu a gratuidade da justiça. Assim, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte adversa tem ou não condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito do tema, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. PESSOA JURÍDICA EM LIQUIDAÇÃO EXTRAJUDICIAL. PROVA DA INSUFICIÊNCIA DE RECURSOS. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Conforme a jurisprudência do STJ, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos.
+2. O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial depende da demonstração de sua impossibilidade de arcar com os encargos processuais.
+3. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou a prova dos autos para indeferir o pedido de justiça gratuita. Alterar tal conclusão é inviável em recurso especial.
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1887233/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/09/2021, DJe 23/09/2021)
+ANTE O EXPOSTO, não conheço dorecurso especial.
+Publique-se.
