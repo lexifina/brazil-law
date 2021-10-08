@@ -1,0 +1,10 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - APELAÇÃO CÍVEL (198) 1000839-22.2019.8.11.0111
+APELANTE: MUNICIPIO DE MATUPA
+APELADO: ANTONIO MIRANDA DE SOUZA, ESTELA REGINA FAGUNDES MILLANESE SOUZA
+Vistos etc.
+Colha-se o parecer da d. Procuradoria Geral de Justiça.
+Após, conclusos os autos.
+Cuiabá-MT, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relatora
