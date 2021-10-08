@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de petição apresentada por Reinaldo Rocha Portelaem que manifesta oposição ao julgamento virtual do recurso em mandado de segurança em epígrafe, pautado para 5.10.2021 à 11.10.2021, "uma vez que tal procedimento não consente que seja sustentado oralmente as razões, o que consequentemente inviabiliza o efetivo exercício do contraditório e da ampla defesa" (fls. 177).
+Nos termos do art. 184-A do RISTJ, podem ser submetidos ao julgamento virtual os seguintes recursos: embargos de declaração (inciso I); o agravo interno (inciso II); agravo regimental (inciso III).
+As partes podem em cinco dias úteis, contados da publicação da pauta de julgamento no Diário da Justiça eletrônico, de forma fundamentada, expressar a sua não concordância com o julgamento virtual, bem com poderão, por meio de advogado, apresentar memoriais (art. 184-D, parágrafo único, I e II, do RISTJ).
+Nessa sistemática, há um interstício de sete dias corridos para que os membros do Órgão colegiado decidam, bem como é possível que qualquer integrante do Órgão Julgador expresse não concordância com o julgamento virtual (arts. 184-E e 184-F, § 2º, do RISTJ).
+Como se percebe, no julgamento virtual, as normas regimentais garantem o respeito ao contraditório e à ampla defesa, assegurando aos advogados das partes apresentarem memoriais que auxiliem no esclarecimento das questões de fato e de direito que emergem do caso concreto (AgInt nos EAREsp 369.513/GO, Rel. Ministro Herman Benjamin, Corte Especial, DJe 26/6/2019).
+Outrossim, conforme o disposto no art. 159, inc. IV, do RISTJ, não há previsão legal e regimental de sustentação oral por ocasião do julgamento do agravo interno nem mesmo na sessão presencial.
+Em sendo assim, não procede o argumento da parte no sentido de que faz jus ao direito de sustentar oralmente no presente julgamento.
+No mesmo sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. ATOS ADMINISTRATIVOS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73 (ART. 1.022 DO CPC/15). OMISSÃO. CONTRADIÇÃO. AUSÊNCIA. INEXISTÊNCIA. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 481, 482, 485 E 489 DO CPC/15. AUSÊNCIA DE PREQUESTIONAMENTO. POR ANALOGIA DOS ENUNCIADOS SUMULARES N. 282 E 356 DO STF. ALEGAÇÃO DE VIOLAÇÃO DO ART. 70 do CPC/73 (ART. 125 DO CPC/15). DEFICIÊNCIA RECURSAL. INCIDÊNCIA POR ANALOGIA DOS ENUNCIADOS SUMULARES N. 282 E 356 DO STF. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DOS ENUNCIADOS SUMULARES N. 5 E N. 7 DA SÚMULA DO STJ.
+I - As partes recorrentes requerem o adiamento do julgamento. Alegam que um dos advogados teria um compromisso em outro estado da federação. Considerando-se que se trata de julgamento de agravo interno, em que não há sustentação oral, e que há procuração nos autos com mais de um representante processual habilitado, indefiro o pedido de retirada de pauta.
+(..)
+IX Agravo interno improvido(AgInt no REsp 1.760.459/TO, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 22/10/2019).
+E ainda: RtPaut no REsp 1.481.199/SE, Rel. Min. Sérgio Kukina, DJ de 28/10/2020; RtPaut no AREsp 1.680.623/SP, Rel. Min. Herman Benjamin, DJde 26/10/2020 e RtPaut no AgInt no REsp 1.615.874/PE, Rel. Min. Napoleão Nunes Maia Filho, DJ de 26/10/2020.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
