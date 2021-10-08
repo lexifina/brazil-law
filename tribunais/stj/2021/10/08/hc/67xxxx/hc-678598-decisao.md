@@ -1,0 +1,23 @@
+DECISÃO
+TIAGO RODRIGO MORAES DOTTI alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que denegou o HC n.70085014611.
+O paciente foi autuado em flagrante, em 3/2/2019, por tráfico de drogas. No dia 4/12/2019, foi condenado a 7 anos e 7 meses de reclusão, em regime inicial fechado, mais multa, por incursão no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006, ocasião em que lhe foi negado o direito de recorrer em liberdade.
+A defesa busca a revogação da prisão preventiva mantida na sentença condenatória pelo Juízo da 2ª Vara Criminal da Comarca de Caxias do Sul, nos autos do processo nº 010/2.19.0001640-8, que veio a ser confirmada nos autos do HC nº 70085014611. Aponta a "ausência de fundamentação idônea" (fl. 5) da decisão judicial e a manifesta violação do art. 387, § 1º, do CPP.
+Requer a concessão, ao réu, do direito de apelar em liberdade.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+Decido.
+I. Contextualização
+Infere-se dos autos que "em 3/2/2019 "o denunciado CARLOS FELIPE SILVA trouxe consigo, transportou e forneceu aos denunciados RAFAEL BORGES VELHO e TIAGO RODRIGO MORAES DOTTI,  ..  mais de 1,0 kg (um quilo) de cocaína, pesando cerca de 1099 g (mil e noventa e nove gramas)" (fl. 36).
+Com "o denunciado TIAGO foi apreendida uma sacola preta contendo a quantia de R$ 23.808,00  .. , que estava sendo dada ao denunciado CARLOS como pagamento pelo fornecimento da droga oriunda do Estado de Santa Catarina" (fl. 38).
+O paciente está preso preventivamente desde o dia 4/2/2019 (fls. 63/64). Em 4/12/2019, o Juiz manteve sua segregação por ocasião da sentença condenatória (arts. 33, caput, c/c 40, V, ambos da Lei n.º 11.343/2006).
+II. Negativa do direito de recorrer em liberdade - fundamentação idônea
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O art. 387, § 1º, do CPP, assim dispõe: "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta".
+Na hipótese, foi negado ao réu o direito de apelar em liberdade porque: Com relação aos corréus Rafael e Tiago, ambos os réus responderam a todo o processo segregados, diante do risco concreto à ordem pública, haja vista as passagens anteriores de ostentam, com risco de reiteração em crime de natureza gravíssima" (fl. 56).
+Deveras, desde o início da persecução penal, os suspeitos estavam segregados, justamente porque, autuados em contexto de apreensão de grande quantidade de droga (1 kg de cocaína) e de dinheiro (R$ 23 mil), apresentavam risco elevado de reiteração delitiva, haja vista possuírem "registro de outro processo criminal ou inquérito pelo mesmo delito" (fl. 26, destaquei). A motivação judicial denota que não é suficiente ou adequada a fixação de providências cautelares do art. 319 do CPP, mormente quando existe condenação, a mais de 7 anos de reclusão, no regime inicial fechado.
+Não se verifica a violação do art. 93, IX, da CF, ou do art. 387, § 1º, do CPP. Na sentença, constou dado concreto que justifica o periculum libertatis. Consoante a jurisprudência desta Corte, "inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no RHC 150.461/AL, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 24/9/2021).
+Aplico ao caso o entendimento de que: "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC 138.716/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 28/9/2021).
+O Juiz evidenciou a real possibilidade de que, uma vez solto, o réu volte a delinquir, a ensejar, por conseguinte, a necessidade de manutenção da sua custódia preventiva para a garantia da ordem pública.
+III. Dispositivo
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
