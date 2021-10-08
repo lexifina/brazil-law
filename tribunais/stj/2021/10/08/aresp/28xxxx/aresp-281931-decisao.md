@@ -1,0 +1,7 @@
+DECISÃO
+Vistos.
+Tendo em vista o ofício de fls. 278/287e, determinei a suspensão do processo, em razão da notícia do falecimento do Agravado -KERGINALDO DIAS (fl. 286e) -,bem como a intimação do patrono anteriormente constituído para que providenciasse a substituição, da parte ré, pelo espólio ou sucessores (fl. 300e).
+O mencionado despacho foi publicado no Diário da Justiça Eletrônico/STJ em 29.11.2019 (fl. 301e), bem como realizou-se a intimação por carta (fls. 304 e 307/308e), tendo decorrido,in albiso prazo para providência assinalada (certidão de fl. 309e).
+Entretanto, aUNIÃO já havia manifestado seu interesse noprosseguimento do feito, diante da possibilidade desucessão causa mortis em demandas que objetivam o ressarcimento ao erário, porqueo patrimônio transferido pelo réu falecido deveria responder pelo dano a ser ressarcido, informando não ter localizadoa existência de inventário judicial ou extrajudicial instaurado em relação aos bens do ora Agravado, bem como requerendo, nos termos dos arts. 110 e 313, §§ 1º e 2º do Código de Processo Civil de 2015, a intimação por carta do cônjuge supérstite do demandado, na condição de administrador provisório dos bens (fls.295/298e).
+Posto isso,DEFIROo requerido às fls. 295/298e a fim de que aSra. Cicera de Azevedo Dias seja citada, na condição de cônjuge supérstite, no endereço declinado (fl. 298e), nos termos dos arts. 246, I e 247, do Código de Processo Civil de 2015.
+Publique-se. Intime-se. Cumpra-se.
