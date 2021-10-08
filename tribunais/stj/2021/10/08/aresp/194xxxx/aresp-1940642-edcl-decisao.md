@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOÃO VIEIRA NETO à decisão de fls. 224/225, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Como podemos analisar na movimentação do processo, na primeira oportunidade em que foi solicitado esta comprovação, ela foi feita regularmente e dentro do prazo de 5 dias, no dia 24/03/2021. Posteriormente, no dia 09/04/2021 foi inserida informação de que não houve manifestação da parte JOÃO VIEIRA. Assim, percebe-se um equívoco nesta manifestação (fl. 233).
+ ..
+Além disso, foi solicitado um ofício ao CORAC para fornecimento da informação sobre o recolhimento do preparo. Em resposta no dia 11/01/2021, o CORAC afirmou que nao foi encontrado o recolhimento das custas do Recurso Especial.
+Ocorre que o embargante solicitou novamente esta informação ao CORAC que declarou que a guia nº 0000.20.01722704-0 relativa aos autos do processo nº 1134436-76.2019.8.13/0000 foi devidamente paga no dia 02/12/2020, conforme declaração anexada a este recurso. Ressalta-se que na referida GRCTJ consta como referência do recolhimento a descrição Recurso Especial.
+Aduz ainda, que:
+Noutro giro, a decisão ainda majorou pra 15% a condenação em honorários advocatícios em face da embargante. Contudo, este entendimento não deve prosperar, tendo em vista que a parte cumpriu os pressupostos necessários do Recurso Especial.
+Data máxima vênia, a r. decisão não merece prosperar, pois não houve falta de preparo, visto que a comprovação do pagamento e da referida guia foi juntada ao processo no dia 02/12/2020 (fl. 234).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas locais, e sem a guia de custas devidas ao STJ e o respectivo comprovante de pagamento (fl. 149).
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+No caso, mesmo após a intimação da parte, no Tribunal de origem, para sanear o vício, não houve a devida regularização, uma vez que, limitou-se a recolher apenas as custas locais.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Quanto aos honorários, observe-se que, no presente caso, não há omissão uma vez que o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario sensu, como não houve prévia fixação, não haverá, também, majoração.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
