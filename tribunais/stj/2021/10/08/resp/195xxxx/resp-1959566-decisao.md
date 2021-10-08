@@ -1,0 +1,29 @@
+DECISÃO
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. DESCONTOS EFETUADOS EM CONTA CORRENTE. LIMITE DE DESCONTOS EM ATÉ 30% DA RENDA MENSAL LÍQUIDA. RECURSO ESPECIAL A QUE SE DÁPROVIMENTO.
+1. Trata-se de recurso especial interposto por PAULO ROBERTO SILVA DE VARGAS, com fundamento no art. 105, inciso III, alíneas a ec, da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 4ª Região, assim ementado:
+ADMINISTRATIVO. CIVIL. BANCÁRIO. AÇÃO DE PROCEDIMENTO COMUM. EMPRÉSTIMO CONSIGNADO. DESCONTO EM FOLHA DE PAGAMENTO. SERVIDOR PÚBLICO MUNICIPAL. PORTO ALEGRE. DECRETO 15.476/2007. LIMITAÇÃO/SUSPENSÃO DE 30% SOBRE O SALÁRIO. IMPOSSIBILIDADE. NULIDADE CONTRATO. INEXISTÊNCIA DE VÍCIO DO CONSENTIMENTO. SEGURO PRESTAMISTA. AUSÊNCIADE CONTRATAÇÃO.
+1. O Decreto Municipal 15.476/2007 da Prefeitura Municipal de Porto Alegre dispõe que o servidor público municipal poderá dispor de até 60% de sua remuneração mensal total para fins de obtenção de mútuo com pagamento mediante desconto em folha. Precedente da Segunda Seção da Corte.
+2. Inexiste ato ilícito cometido pelo Agente Financeiro, eis que ausente qualquer tipo de ilicitude por parte deste, uma vez que o ora Apelante aceitou o desconto em folha de pagamento no momento das contratações dos empréstimos.
+3. Ausente contratação do seguro prestamista, razão pela qual a insurgência é inócua.
+2. Nas razões do seurecurso especial (fls. 269/276), a parte recorrentesustentaviolação aos artigos da Lei 10.820/2003.Argumenta, para tanto, em suma, que o desconto global não pode ultrapassar o patamar de 30%, sob pena de ofensa à dignidade da pessoa humana.
+3. Sem contrarrazões, orecurso especial foi admitido na origem(fls. 283/284).
+4. É o relatório.
+5. A irresignação merece prosperar.
+6.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+7. De acordo com a jurisprudência desta Corte Superior, os descontos na folha de pagamento de Servidor Público devem ser limitados a 30% (trinta por cento) de sua remuneração, em função do princípio da razoabilidade e do caráter alimentar dos vencimentos.
+8. Corroborando tal entendimento, destacam-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DESCONTOS EM FOLHA DE PAGAMENTO. LIMITE DE 30% DOS VENCIMENTOS. MATÉRIA PACIFICADA. AGRAVO INTERNO DO BANCO BMG S/A A QUE SE NEGA PROVIMENTO.
+1. No tocante aos empréstimos consignados, esta Corte pacificou o entendimento de que a autorização para o desconto na folha de pagamento de prestação de empréstimo contratado não constitui cláusula abusiva, porquanto se trata de circunstância que facilita a obtenção do crédito com condições mais vantajosas, contanto que a soma mensal das prestações destinadas ao desconto dos empréstimos realizados não ultrapasse 30% dos vencimentos do trabalho, em função do princípio da razoabilidade e do caráter alimentar dos vencimentos.
+2. Não há que se falar em violação às Súmulas 5 e 7/STJ, na análise de tal controvérsia, uma vez que não se faz necessário reexame da prova dos autos ou do contrato bancário para o provimento do Recurso Especial, tratando-se apenas de aplicação do entendimento sedimentado nesta Corte.
+3. Agravo Interno do BANCO BMG S/A a que se nega provimento (AgInt no AREsp. 194.810/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 22.2.2017).
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DESCONTOS DE EMPRÉSTIMO EM FOLHA. LIMITAÇÃO A 30% DOS DESCONTOS CONSIGNADOS DO SERVIDOR PÚBLICO ESTADUAL. POSSIBILIDADE. NORMATIZAÇÃO FEDERAL QUE NÃO COLIDE COM A NORMA ESTADUAL. RECURSO DESPROVIDO.
+1. É válida a cláusula que autoriza o desconto em folha de pagamento da prestação de empréstimo contratado, desde que não ultrapasse o limite de 30% do salário bruto do devedor, excluídos os valores relativos ao imposto de renda e fundo previdenciário.
+2. Não há antinomia entre a norma estadual e a regra federal, pois os artigos 2o., § 2o., I, da Lei 10.820/2003; 45 da Lei 8.112/90 e 8o. o Decreto 6.386/2008, impõem limitação ao percentual de 30% apenas à soma das consignações facultativas (REsp 1.169.334/RS, Quarta Turma, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 29.9.2011).
+3. Agravo regimental desprovido. (AgRg no RMS 30.821/RS, Rel. Min. RAUL ARAÚJO, DJe 4.2.2014)
+PROCESSUAL. ADMINISTRATIVO. SERVIDORES. DESCONTO EM FOLHA DE PAGAMENTO. LIMITAÇÃO. 30% DOS VENCIMENTOS.
+1. Diferentemente do que alega a União, não se discute, no caso, cancelamento de amortização de empréstimo, mas redução do percentual descontado com o objetivo de adequar-se aos limites legalmente estabelecidos.
+2. Nada obstante a concordância do mutuário na celebração do contrato de empréstimo com a instituição financeira, cabe ao órgão responsável pelo pagamento dos proventos fiscalizar os descontos em folha, como a cobrança de parcela de empréstimo bancário contraído, a fim de limitar a quantia descontada ao percentual de 30% da remuneração ou proventos. Precedentes.
+3. O acórdão recorrido limitou o valor das consignações em 40%. Entretanto, esta Corte tem reduzido esse percentual para 30% dos vencimentos do servidor, em razão da natureza alimentar dosalário e do princípio da razoabilidade. Todavia, para não incidir na reformatio in pejus, mantém-se o aresto impugnado.
+4. Agravo regimental não provido (AgRg no Ag 1.425.860/DF, Rel. Min. CASTRO MEIRA, DJe 12.3.2012).
+9. Ante ao exposto, dou provimento ao Recurso Especial do particularpara limitar o desconto consignado em 30% (trinta por cento) dos rendimentos líquidos do servidor público.
+10. Publique-se.Intimações necessárias.
