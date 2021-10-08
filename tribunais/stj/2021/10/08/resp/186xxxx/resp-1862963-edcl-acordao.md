@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaraÃ§Ã o, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+WMS SUPERMERCADOS DO BRASIL LTDA. opõe embargos de declaração contra o acórdão proferido em sede de agravo interno, que, por unanimidade, negou-lhe provimento, cuja ementa transcrevo (fl. 522e):
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO.INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. CAUTELAR DE CAUÇÃO PRÉVIA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. AUSÊNCIA DE RECURSO DA PARTE CONTRÁRIA. REFORMATIO IN PEJUS. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II Revela-se deficiente a fundamentação do recurso quando a arguição de ofensa ao dispositivo legal é genérica, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - A questão decidida na ação ajuizada com o objetivo de antecipar a penhora na execução fiscal tem natureza jurídica de incidente processual inerente à própria execução, não guardando autonomia a ensejar condenação em honorários advocatícios em desfavor de qualquer da partes. Precedentes.
+IV - Considerando a ausência de recurso da parte contrária, devem ser mantidos os honorários advocatícios fixados na instância ordinária, sob pena de incorrer reformatio in pejus.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+Sustenta, em síntese, omissão ao deixar de enfrentar a alegação de ofensa ao art. 85, § 3º, do CPC/2015, bem como a afetação de Tema como repetitivo.
+Requer o acolhimento dos embargos de declaração para aclarar os pontos suscitados como omissos, a fim de dar provimento ao recurso especial.
+Impugnação às fls. 546/550e.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para os presentes Embargos de Declaração.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - Embargos de declaração rejeitados.
+VOTO
+Por primeiro, conforme o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Nesse sentido, confira-se a doutrina de Nelson Nery Junior e Rosa Nery:
+Não enfrentamento, pela decisão, de todos os argumentos possíveis de infirmar a conclusão do julgador. Para que se possa ser considerada fundamentada a decisão, o juiz deverá examinar todos os argumentos trazidos pelas partes que sejam capazes, por si sós e em tese, de infirmar a conclusão que embasou a decisão. Havendo omissão do juiz, que deixou de analisar fundamento constante da alegação da parte, terá havido omissão suscetível de correção pela via dos embargos de declaração. Não é mais possível, de lege lata, rejeitarem-se, por exemplo, embargos de declaração, ao argumento de que o juiz não está obrigado a pronunciar-se sobre todos os pontos da causa. Pela regra estatuída no texto normativo ora comentado, o juiz deverá pronunciar-se sobre todos os pontos levantados pelas partes, que sejam capazes de alterar a conclusão adotada na decisão. (Código de Processo Civil Comentado, São Paulo, Revista dos Tribunais, 2016, p. 1.249-1.250, destaque no original).
+Esposando tal entendimento, precedentes desta Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. FAIXA DE DOMÍNIO DE RODOVIA SOB CONCESSÃO. COBRANÇA EM DESFAVOR DE CONCESSIONÁRIA DE SERVIÇO DE TELEFONIA. POSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A prescrição trazida pelo art. 489 do CPC/2015, na esteira interpretativa sufragada no Superior Tribunal de Justiça, significa que o julgador deve enfrentar apenas as questões capazes de infirmar a conclusão adotada na decisão recorrida, hipótese aqui não verificada (EDcl no MS n. 21315/DF, Primeira Seção, DJe 15/06/2016).
+3. A Primeira Seção desta Corte firmou o entendimento de que o poder concedente, com respaldo no art. 11 da Lei n. 8.987/1995 (Lei de Concessões e Permissões), pode autorizar a concessionária a efetuar cobrança pela utilização de faixas de domínio de rodovia, mesmo de outra concessionária de serviços públicos, desde que haja previsão no contrato de concessão da rodovia, como verificado na hipótese.
+4. A Primeira Turma desta Corte tem reconhecido o caráter manifestamente inadmissível ou improcedente do agravo interno, a ensejar a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015 quando a decisão agravada está fundamentada em precedente julgado sob o regime da repercussão geral, sob o rito dos recursos repetitivos ou com base em jurisprudência pacífica de ambas as Turmas da 1ª Seção.
+5. Agravo interno desprovido, com aplicação de multa.
+(AgInt no AREsp 1079824/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 07/03/2018)
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. INEXISTENTE. ACÓRDÃO QUE ENFRENTOU TODAS AS QUESTÕES NECESSÁRIAS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Conforme pacífico entendimento desta Corte, o órgão julgador não é obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A determinação contida no art. 489 do CPC/2015 "veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+II - A corte de origem analisando o contexto fático-probatório dos autos concluiu (fl. 270): "Neste caso, ainda que houvesse buracos no asfalto e ainda que a pista apresentasse irregularidades, é certo que o acidente que vitimou fatalmente  ..  somente ocorreu por culpa do motociclista que invadiu a contramão da via em alta velocidade".
+III - Para alterar tais conclusões seria necessário o reexame fático-probatório, vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual: "pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido
+(AgInt no AREsp 1037131/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2017, DJe 22/11/2017).
+O Tema afetado à Corte Especial é diverso daquele abordado no acórdão recorrido, de modo que oausência de manifestação sobre a afetação não enseja nulidade no acórdão embargado por ofensa ao art. 1.022, II, do CPC/2015.
+Nesse contexto, também não cabe falarem omissão acerca do art. 85, § 3º, do CPC/2015, que, a toda evidência, disciplina relação jurídica diversa.
+Outrossim, incabível alegação de omissãoou deficiência de fundamentação no acórdão apoiado na orientaçãoconsolidada na Corte, pois tal consolidação é resultante da interpretação dos dispositivos pertinentes à matéria.
+Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL.OMISSÃO. FUNDAMENTAÇÃO POR MEIO DE JURISPRUDÊNCIA PACIFICADA DO SUPERIOR TRIBUNAL DE JUSTIÇA. POSSIBILIDADE.
+1. Conforme precedentes do Superior Tribunal de Justiça, inexiste omissão no acórdão cujo fundamento faz remissão à jurisprudência consolidada nos Tribunais Superiores. Precedentes.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1057324/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2013, DJe 03/10/2013)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.EXECUÇÃO FISCAL. DESISTÊNCIA APÓS JULGAMENTO DOS EMBARGOS À EXECUÇÃO. HONORÁRIOS DE SUCUMBÊNCIA DEVIDOS. SÚMULA 153/STJ. IMPOSSIBILIDADE DE REEXAME DE FATOS ANALISADOS NA INSTÂNCIA INFERIOR. SÚMULA 07/STJ.
+1. Inexiste omissão no bojo do acórdão que, manifestando-se sobre todos os temas necessários ao deslinde do feito, decidiu com base na jurisprudência pacificada deste Sodalício, devidamente consolidada na súmula 153/STJ.
+2. Ocorrendo a desistência da execução fiscal após o julgamento dos embargos à execução e a interposição de recurso de apelação pelo causídico da parte executada, perfeitamente possível a condenação da Fazenda ao pagamento das verbas honorárias sucumbenciais.
+Precedentes.
+3. Tendo o acórdão proferido pelo Tribunal a quo (fls. 183/186), apreciando expressamente a aplicabilidade, à espécie, da Lei 9.441, com base em elementos fáticos dos autos, qualquer conclusão em sentido contrário, demandaria, necessariamente, o reexame de elementos fático-probatório, o que é vedado na via especial, à vista do conteúdo da Súmula 7 desta Corte.
+4. Embargos rejeitados.
+(EDcl no AgRg no REsp 937.924/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/10/2008, DJe 05/11/2008)
+PROCESSUAL PENAL. EDCL NO AGRG NO AGRG NO AGRG NO AG.OMISSÃO INEXISTÊNCIA. EFEITOS INFRINGENTES.IMPOSSIBILIDADE. INTEMPESTIVIDADE DO RECURSO.JURISPRUDÊNCIA CONSOLIDADA NO STJ. ALEGAÇÃO DE IRREGULARIDADE NA PROTOCOLIZAÇÃO. AUSÊNCIA DE COMPROVAÇÃO. ÔNUS DO RECORRENTE. PRECEDENTES.
+1. Inexiste omissão, se o acórdão embargado enfrentou a matéria e decidiu de acordo com a jurisprudência consolidada nesta Corte.
+2. A aferição da tempestividade do recurso se faz pela data do protocolo judicial, informação, esta, dotada de fé pública, que não se afasta em face de mera alegação da parte, a quem cabe o ônus de provar a alegada falha no processamento do recurso atribuída ao Tribunal.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no AgRg no Ag 700.857/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/06/2007, DJ 06/08/2007, p. 707)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INTERVENÇÃO ESTADUAL. DECISÃO POLÍTICO- ADMINISTRATIVA. IMPOSSIBILIDADE DE ACESSO À VIA EXCEPCIONAL. INCIDÊNCIA DA SÚMULA 637/STF. ATIVIDADE DE CUNHO ADMINISTRATIVO. INCIDÊNCIA DA SÚMULA 311/STJ.FUNDAMENTAÇÃO POR MEIO DE JURISPRUDÊNCIA PACIFICADA OU SÚMULA DE TRIBUNAIS SUPERIORES. POSSIBILIDADE.
+1. É pacífico o entendimento deste Tribunal de que a decisão que outorga a intervenção estadual em Município é de natureza político-administrativa, sendo incabível a oposição de Recurso Especial para impugná-la .
+2. Aplicação, por analogia, da Súmula 637/STF: "Não cabe recurso extraordinário contra acórdão de Tribunal de Justiça que defere pedido de intervenção estadual em município."
+3. Incidência da Súmula 311/STJ: "Os atos do presidente do tribunal que disponham sobre processamento e pagamento de precatório não têm caráter jurisdicional."
+4. "Não caracteriza ausência de fundamentação citação de jurisprudência consagrada e pacificada ou de súmulas de Tribunais Superiores, pois ambas representam a uniformização do posicionamento da respectiva Corte sobre determinada matéria." (AgRg no Ag 721.024/SP, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, DJ 16/10/2006).
+5. Agravo Regimental não provido.
+(AgRg no Ag 742.578/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/02/2007, DJ 19/12/2007, p. 1200)
+Como apontado, o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão, sobretudo se notório o caráter de infringência, como o demonstra o julgado assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, DE OBSCURIDADE E DE CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO DOS PARTICULARES REJEITADOS.
+ ..
+4. Com efeito, o acórdão embargado consignou, claramente, a inviabilidade de manejo de Embargos de Divergência para discussão acerca de admissibilidade de Recurso Especial, tal como ocorre com a aplicação das Súmulas 211 e 7 do STJ. Não tendo o Recurso Unificador ultrapassado o juízo de conhecimento, descabe analisar o mérito da controvérsia.
+5. Destaca-se, ainda, que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, a todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado.
+6. Embargos de Declaração dos Particulares rejeitados.
+(EDcl no AgInt nos EREsp 703.188/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 10/09/2019, DJe 17/09/2019)
+Ressalto que, de acordo com a jurisprudência desta Corte, o recurso integrativo não se presta a corrigir eventual desconformidade entre a decisão embargada e a prova dos autos, ato normativo, acórdão proferido pelo tribunal de origem em outro processo, o entendimento da parte, outras decisões deste Tribunal, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO. NÃO CARACTERIZAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+(..)
+4. Ademais, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. No caso em exame, o dispositivo do acórdão embargado está em perfeita consonância com a fundamentação que lhe antecede, não havendo contradição interna a ser sanada.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 308.455/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/09/2013, DJe 10/09/2013).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 535, INCS. I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA.
+(..) 3. A contradição que autoriza os embargos de declaração é a interna do acórdão, e não aquela em que o fundamento do voto colidiria com a jurisprudência em caso análogo - error in judicando.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 438.306/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/04/2014, DJe 20/05/2014).
+Assim, a pretexto de omissão, a irresignação objetiva a revisão da própria pretensão recursal, clara e exaustivamente apreciada na decisão monocrática e no acórdão recorrido, embora em adversidade aos interesses da parte.
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Posto isso, REJEITO OS EMBARGOS DE DECLARAÇÃO.
