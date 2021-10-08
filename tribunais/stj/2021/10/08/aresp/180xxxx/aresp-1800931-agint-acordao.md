@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Fundação CEEE de Seguridade Social - Eletroceee contra decisão mediante a qual conheci do agravo e dei provimento ao recurso espeical interposto pela parte contrária, nos termos da consolidada orientação deste Tribunal, no sentido de que, na hipótese em que o salário de contribuição relativo à competência do mês de fevereiro de 1994 integrou a base de cálculo de salário real de benefício, tem o beneficiário direito à aplicação do índice de 39,67%, correspondente ao IRSM do referido período, na correção dos salários de contribuição utilizados no cálculo de seu benefício de complementação de aposentadoria.
+Afirma a agravante que "da análise das disposições regulamentares, verifica-se que não assiste razão à parte autora, ora agravada, no que concerne à inclusão do IRSM de 39,67% referente ao mês de fevereiro de 1994, sendo que a base de cálculo do benefício deveria representar a média aritmética dos últimos 36 (trinta e seis) meses salários-reais-de-contribuição, conforme preceitua o art. 15 do Regulamento da entidade".
+Impugnação da agravada às fls. 933-943.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RENDA MENSAL INICIAL. REVISÃO DO CÁLCULO. IRSM. FEVEREIRO DE 1994 (39,67%). APLICAÇÃO. FONTE DE CUSTEIO FORMAÇÃO. PLANO DE CUSTEIO. DISTINÇÃO.
+1. Hipótese em que não se cogita de falta de prévio custeio pelo participante, sendo incontroverso que a contribuição incidiu sobre todo o salário de contribuição, nas épocas próprias. Discute-se o critério de correção do próprio custeio para a finalidade de cálculo do salário real de benefício.
+2. Concedido o benefício de complementação de aposentadoria após 1º de março de 1994, e havendo previsão no plano de benefícios de utilização do mesmo índice de reajuste adotado pelo INSS, é devida a revisão do salário de contribuição com a aplicação do índice de 39,67%, correspondente ao IRSM de fevereiro de 1994, na hipótese de o salário de contribuição desse mês de competência ter sido considerado no cálculo do salário real de benefício.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Sem pertinência alguma as alegações da agravante.
+E isso porque, conforme demonstrei na decisão agravada, nos termos da consolidada orientação das Turmas que compõem a Segunda Seção deste Tribunal, é devida a aplicação do índice de 39,67%, correspondente ao IRSM de fevereiro de 1994, nos casos em que (1) o salário de contribuição desse mês de competência tiver sido utilizado no cálculo do salário real de contribuição e (2) o benefício de complementação de aposentadoria tiver sido concedido após 1º de março de 1994.
+Nos termos em que também ressaltei na decisão agravada, demonstrado que a autora da ação, ora agravada, atende aos requisitos estabelecidos no art. 21 da Lei 8.880/94, razão pela qual tem ela direito à aplicação do índice de 39,67%, correspondente ao IRSM de fevereiro de 1994, na correção dos salários de contribuição utilizados no cálculo de seu benefício de complementação de aposentadoria.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE BENEFÍCIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA FUNDAÇÃO RÉ.
+1. Nos termos da jurisprudência desta Corte, em se tratando de demanda buscando a revisão da renda mensal inicial do benefício de previdência privada, por se tratar de prestação de trato sucessivo, a prescrição não atinge o próprio fundo do direito, mas apenas as parcelas vencidas anteriormente ao quinquênio que antecede o ajuizamento da ação. Incidência da Súmula 83/STJ.
+2. "A patrocinadora não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma" (Tema/Repetitivo 936/STJ).
+3. Concedido o benefício de complementação de aposentadoria após 1º de março de 1994, e havendo previsão no plano de benefícios de utilização do mesmo índice de reajuste adotado pelo INSS, é devida a revisão do salário de contribuição com a aplicação do índice de 39, 67%, correspondente do IRSM de fevereiro de 1994, na hipótese de o salário de contribuição desse mês de competência ter sido considerado no cálculo do salário real de benefício. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.719.686/RS, Quarta Turma, Relator Ministro Marco Buzzi, DJ 28.5.2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DIREITO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RENDA MENSAL INICIAL. REVISÃO DO CÁLCULO. IRSM. FEVEREIRO DE 1994 (39,67%). APLICAÇÃO.
+1. Inexistência de maltrato ao art. 1.022, incisos I e II, do Código de Processo Civil, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+2. Conforme a jurisprudência do Superior Tribunal de Justiça, concedido o benefício de complementação de aposentadoria após 1º de março de 1994, e havendo previsão no plano de benefícios de utilização do mesmo índice de reajuste adotado pelo INSS, é devida a revisão do salário de contribuição com a aplicação do índice de 39, 67%, correspondente do IRSM de fevereiro de 1994, na hipótese de o salário de contribuição desse mês de competência ter sido considerado no cálculo do salário real de benefício.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(Terceira Turma, Relator Ministro Paulo de Tarso Sanseverino, DJ 29.10.2019)
+Reafirmo que não se trata de pleitear a inclusão, no cálculo do benefício de previdência complementar, de parcelas salariais sobre as quais não incidiu a contribuição ao plano, como ocorre quando são reconhecidas, pela Justiça do Trabalho, novas parcelas salariais, sobre as quais não houve, na época própria, incidência de contribuição.
+No caso dos autos, houve o correto custeio, no tempo próprio. A controvérsia reside no critério de correção do próprio custeio. Isso porque, nos termos do regulamento, o salário real de benefício deveria ser calculado a partir da média aritmética dos salários de contribuição dos 36 meses anteriores ao pedido de aposentadoria, devidamente corrigidos pelos mesmos índices de correção adotados pela previdência social.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
