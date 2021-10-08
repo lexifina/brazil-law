@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo de Direito da2ª Vara Criminal de Joinville/SC, que recusou sua competência para o processamento de inquérito e subsequente ação penal relativos a suposto estelionato cometido em desfavor de Alberto Ricardo Priess Júnior. Consta nos autos que a vítima teria sido ludibriada e convencida a promover uma transferência de sua conta corrente de agência bancária sediada em Joinvile/SC para determinada conta corrente de agência bancária situada em Mogi Guaçu/SP,para pagamento de uma suposta dívida.
+É pressuposto de conhecimento do conflito de competência a existência de entendimentos conflitantes entre autoridades judiciárias, circunstância ausente na espécie. De fato, reza o artigo 114 do Código de Processo Penal, in verbis:
+Art. 114. Haverá conflito de jurisdição:
+I - quando duas ou mais autoridades judiciárias se considerarem competentes, ou incompetentes, para conhecer do mesmo fato criminoso;
+II - quando entre elas surgir controvérsia sobre unidade de juízo, junção ou separação de processos.
+Em verdade, o que se vislumbra nos autos é a existência de conflito de atribuições entre as polícias judiciárias, que divergiram quanto ao local de desenvolvimento das investigações. De fato, o delegado de Mogi Guaçu/SP encaminhou o boletim de ocorrência para Joinville/SC (fl.15), que o restituiu ao remetente (fls. 17); houve subsequente determinação de devolução dos autos à Delegacia de Mogi Guaçu/SP (fls.23), que os devolveu novamente à Delegacia de Joinville (fl.24). Ocorre quenão houve, nos autos, manifestação alguma do Juízo de Mogi Guaçu/SP, não havendo que se falar, portanto, de conflito de competência entre autoridades judiciárias.
+Com essas considerações, deixo de conhecer deste conflito de competência, determinando a devolução dos autos ao juízo suscitante.
+Nada mais havendo, ao arquivo.
