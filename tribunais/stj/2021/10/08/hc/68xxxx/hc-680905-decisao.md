@@ -1,0 +1,35 @@
+DECISÃO
+IGOR DA COSTAalega sofrer coação ilegal em decorrência de acórdão proferido peloTribunal de Justiça do Estado de São Paulo, que denegou a ordem no HC n. 2121940-63.2021.8.26.0000.
+Depreende-se dos autos que o paciente foi denunciado e preso preventivamentepela prática do delito de homicídio qualificado.
+Neste writ, a defesa aponta aausência dos requisitos para a decretação da prisão preventiva, ausentes os requisitos do art. 312 do Código de Processo Penal.
+Requer, liminarmente, a soltura do paciente ou a fixação de medidas cautelares diversas.
+Indeferida a liminar (fls. 319-320) e prestadas as informações (fls. 323-363), veio o parecer do Ministério Público Federal (fls. 367-371), que opinou pela denegação da ordem.
+Decido.
+Quanto aos requisitos da prisão preventiva, assim considerou o Juízo de primeiro grau:
+6. Finalmente, a D. Autoridade Policial representou pela prisão preventiva do acusado (fls. 137), e o Ministério Público, igualmente, requereu a decretação da medida extrema em desfavor do denunciado (fls. 141/142).
+ ..
+No caso dos autos, o denunciado, mediante recurso que dificultou a defesa da vítima, teria matado Marcelo Della Rosa, mediante disparos de arma de fogo, fugindo do local dos fatos, na sequência. Em solo policial, o acusado negou a prática delitiva, dizendo que nada sabia sobre o homicídio, e que, na hora dos fatos, estava entregando bananas na cidade de Bebedouro. O acusado negou ainda que teria proferido ameaças contra a vítima, bem como que, com relação às imagens da câmera de segurança, não era ele no veículo, afirmando que não possui referida motocicleta.
+Conquanto tenha negado a prática do crime de homicídio, reputo presentes os requisitos para justificar a segregação cautelar do denunciado, pois, primeiro, a materialidade delitiva restou comprovada, conforme boletins de ocorrência (fls. 10/13) e pelo laudo da perícia necroscópica (fls. 40/46). Ademais, trata-se de crime com natureza hedionda, de maior gravidade, punido com pena privativa de liberdade máxima superior a 04 anos e praticado com o emprego de arma de fogo, o que demonstra a periculosidade do denunciado diante das circunstâncias do caso.
+Não bastasse, há indícios suficientes de autoria a justificar a persecução penal e o cárcere preventivo do acusado, isto porque, as provas documentais são fortes e robustas a indicar que IGOR tenha cometido o crime que lhe é imputado.
+Demais disso, é inegável a reprovabilidade e potencial gravidade da conduta supostamente praticada pelo denunciado, e, nessa conjuntura, resta evidenciado que sua liberdade traz risco à ordem pública, posto que agiu, como apontado pelo Ministério Público, de forma fria e premeditada, disparando diversas vezes contra a vítima, que foi pega de surpresa. Verifica-se que a ordem pública se encontra ameaçada por conta das peculiaridades do caso concreto, visto que avítima foi assassinada após sair da delegacia, local onde estava prestando declarações. Tal circunstância, com a prática do crime em local próximo ao distrito policial, comprova, em tese, o total desrespeito do denunciado pelas autoridades constituídas.
+A prisão preventiva do acusado se faz necessária, ainda, para a conveniência da instrução criminal, pois imprime celeridade ao processo, permitindo a rápida apuração dos fatos e preservando a boa instrução criminal, evitando-se, ainda, eventual tentativa do réu de influenciar no ânimo das testemunhas que serão ouvidas em juízo, mormente a testemunha Lilian, viúva da vítima e com quem o denunciado já manteve relacionamento, sendo a segregação cautelar também necessária para a conveniência da instrução criminal.
+Finalmente, considerando que as circunstâncias que exigem e obrigam à medida cautelar extrema da prisão preventiva se fazem presentes, é consequência lógica, contrario sensu, que as medidas cautelares diversas da prisão seriam insuficientes para a garantia da ordem pública.
+Não garantem a ordem pública, isoladas ou cumulativamente, a medida cautelar diversa da prisão de comparecimento periódico em juízo, proibição de acesso ou frequência a determinados lugares, proibição de manter contato com pessoa determinada, proibição de ausentar-se da comarca, recolhimento domiciliar noturno, suspensão de função pública ou atividade ou mesmo a fiança (fls. 31-32, grifei).
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Os elementos apresentados afastam a plausibilidade jurídica do direito tido como violado.Com efeito,oJuiz de direito destacou omodus operandiempregado na ação delituosa, ao mencionar queo paciente efetuou os disparos contra a vítima quando ela saída da delegacia, onde prestava declarações, além do risco de eventual constrangimento à sua viúva, com quem o denunciado já manteve relacionamento.
+Essas circunstâncias denotam a presença de motivação idônea para a decretação da custódia preventiva doacusado, para a garantia da ordem pública, baseada em elementos concretos dos autos, que evidenciam a gravidade concreta da conduta que lhe é imputada, dado omodus operandiempregado na ação delituosa, conforme descrito.
+Exemplificativamente:
+ ..
+1. Deve ser mantida a decisão monocrática em que se denega a ordem pretendida, quando evidenciado que a prisão preventiva foi mantida na decisão de pronúncia, mediante elementos concretos.
+2. Em casos como o dos autos, em que a prisão cautelar se encontra consubstanciada em elementos que denotam a periculosidade concreta do agravante, em especial, pelomodus operandido crime, praticado, em tese, mediante frieza e premeditação, este Superior Tribunal tem entendido fundamentado o decreto de prisão para a garantia da ordem pública. Precedente.
+3. Agravo regimental improvido.
+(AgRg no HC n. 540.080/ES, Rel. MinistroSebastião Reis Júnior, 6ª T., DJe 9/6/2020)
+Do mesmo modo, diante da gravidade concreta das condutas imputadas ao acusado e do fundado risco de este se furtar à aplicação da lei penal, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+Nesse sentido:
+ ..
+4. A gravidade concreta do crime como fundamento para a decretação ou manutenção da prisão preventiva deve ser aferida, como no caso, a partir de dados colhidos da conduta delituosa praticada pelo agente, que revelem uma periculosidade acentuada a ensejar uma atuação do Estado cerceando sua liberdade para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal.
+5. Ademais, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas.
+ ..
+(AgRg no RHC n. 123.485/AL, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/5/2020)
+À vista do exposto,denego a ordem.
+Publique-se e intimem-se.
