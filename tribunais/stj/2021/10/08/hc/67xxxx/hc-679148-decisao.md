@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 359):
+Roubo majorado Artigo 157, § 2º, inciso II, e parágrafo 2º- A, inciso I, do Código Penal - Absolvição por insuficiência de provas Impossibilidade Reconhecimento da participação de menor importância Inapropriado - Redução da pena-base no mínimo legal Incabível Afastamento da causa de aumento de pena relativa ao emprego de arma de fogo Inatendível Fixação de regime inicial mais brando Incogitável Aplicação da detração penal Inviável - Autoria e materialidade comprovadas - Robusto conjunto probatório Pena e regime mantidos - Recurso improvido.
+Opaciente foi condenado a 9 anos e26 dias de reclusãoem regime inicial fechado, e de20 dias-multa,pela prática do crime previstono art. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal.
+A impetrante sustenta a ocorrência de constrangimento ilegal decorrente do nãoreconhecimento da atenuante da confissão, ainda que qualificada.
+Afirma que, não obstante tal pleito não tenha sido objeto das razões de apelação, o Tribunal de origem deveria terreconhecido a incidência da atenuante, pois foi utilizada na fundamentação da sentença condenatória econfirmada integralmente noacórdão, ato apontado como coator.
+Requer, liminarmente e no mérito, a concessão da ordem para "reconhecer a confissão, ainda que existente retratação e qualificada" (fl. 6).
+A liminar foi indeferida. Prestadas as informações, o Ministério Público Federal manifestou-sepela denegação da ordem.
+O Tribunal de origem assim decidiu quanto à dosimetria da pena do paciente (fls. 368-374):
+O M.M. Juízo a quo aplicou a pena na sentença, condenando o apelante em 1/6 acima da pena-base, perfazendo 04 anos e 08 meses de reclusão e 11 dias-multa, no valor mínimo legal, tendo em vista que o crime foi praticado em concurso de agentes, agravando as circunstâncias em que o delito foi praticado.
+Incabível o pleito defensivo de redução da pena-base para o mínimo legal, visto que o concurso de agentes restou devidamente caracterizado e comprovado, porquanto o recorrente e o indivíduo não identificado agiram juntos e estavam previamente ajustados. Ademais, a vítima foi enfática ao narrar que mais de um agente praticou o delito, relatando que dois indivíduos passaram em um veículo com os vidros abaixados e anunciaram o assalto, mostrando uma arma de fogo, ao que o comparsa do acusado desembarcou e subtraiu diversos de seus pertences.
+Outrossim, considerando a presença de duas majorantes, uma delas foi considerada como circunstância judicial desfavorável, o que se mostra perfeitamente possível.
+O artigo 68, parágrafo único, do Código Penal, estabelece que na hipótese de causas de aumento ou diminuição da Parte Especial, pode o juiz limitar-se a um só aumento ou uma só diminuição, prevalecendo, todavia, a que mais aumente ou diminua.
+Observando-se o léxico em sua forma literal pode se dizer que há aqui maior espectro de discricionariedade, já que a lei permite que o juiz escolha se aplica todos os aumentos ou apenas um, não sendo obrigatória a aplicação de todos, ao contrário do que se dá com majorantes ou causas de diminuição da Parte Geral.
+O Superior Tribunal de Justiça, adotando a corrente que preza pela não obrigatoriedade da aplicação de única causa, amparado em julgados do Pretório Excelso também permite a computação das majorantes adicionais  ..
+No caso em tela, a consideração do concurso de pessoas na primeira fase não enseja bis in idem e torna a resposta penal mais adequada, vez que entender de maneira contrária levaria ao completo desprezo do incrementado desvalor decorrente da participação de dois agentes na empreitada delitiva, o que não se mostra razoável.
+Portanto, observa-se que o aumento da pena-base está devidamente motivado na valoração negativa das circunstâncias do delito, conforme artigo 59 do Código Penal.
+ ..
+Na segunda fase da dosimetria, em face da agravante relativa à reincidência, a pena foi majorada em 1/6, atingindo o patamar de 05 anos, 05 meses e 10 dias de reclusão e 12 dias- multa, no valor mínimo legal.
+Na terceira fase da dosimetria, diante da majorante relativa ao emprego de arma de fogo, a pena foi aumentada em 2/3, restando definitiva em 09 anos e 26 dias de reclusão, bem como no pagamento de 20 dias-multa, no valor mínimo legal.
+Impossível o afastamento da causa de aumento da pena relativa ao emprego de arma de fogo, a qual restou devidamente comprovada.
+ ..
+Outrossim, a vítima não é obrigada a saber se a arma tem potencialidade lesiva ou não, bastando, portanto, o emprego da arma para sofrer a grave ameaça.
+O acórdão impugnado, contudo, expressamente faz menção à confissão do paciente quando da análise da autoria do delito, utilizando-a para fundamentar a condenação.Confira-se (fls. 363):
+A autoria do crime também é inconteste.
+O apelante JOSÉ CARLOS DE LIMA JUNIOR, ouvido em sede policial, relatou que fez uma corrida para o indivíduo que realizou os atos de execução do roubo contra a vítima, sendo que confirmou ter plena e integral ciência de que este pretendia perpetrar um roubo, consentindo com tal empreitada criminosa, bem como sabia que ele portava consigo uma arma, a qual alegou que seria um mero simulacro.
+Nos termos do entendimento desta Corte, consolidado na Súmula 545/STJ, deve incidir a atenuante da confissão, prevista no art. 65, III, d, do Código Penal, ainda que esta se dê de forma parcial, qualificada ou retratada posteriormente. Nesse sentido, os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. FOLHA DE ANTECEDENTES CRIMINAIS. DOCUMENTO APTO PARA CONFIGURAR A CIRCUNSTÂNCIA JUDICIAL E A REINCIDÊNCIA. AGRAVANTE CONFIGURADA. COMPENSAÇÃO INTEGRAL DA REINCIDÊNCIA COM A CONFISSÃO PARCIAL. POSSIBILIDADE. EMPREGO DE ARMA. AFASTAMENTO. IMPOSSIBILIDADE. APREENSÃO E REALIZAÇÃO DE PERÍCIA. DESNECESSIDADE. OUTROS MEIOS DE PROVA. PALAVRA DA VÍTIMA. INCIDÊNCIA DA MAJORANTE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+V - Nos termos do enunciado n. 545 da Súmula desta Corte "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal", independente de ter sido parcial, qualificada ou retratada.
+VI - Reconhecida a confissão espontânea pelas instâncias ordinárias, ainda que parcial, cumpre destacar que a Terceira Seção desta Corte, no julgamento do EREsp 1.154.752/RS, uniformizou o entendimento de que a aludida atenuante deve ser compensada com a agravante da reincidência.
+VII - A Terceira Seção desta Corte, quando do julgamento do EREsp 961.863/RS, firmou o entendimento no sentido de que, para a incidência da causa de aumento relativa ao emprego de arma de fogo, é dispensável a apreensão e realização de perícia no respectivo objeto, desde que comprovada a utilização da arma na prática delituosa por outros meios de prova, como na espécie.
+Habeas Corpus não conhecido. Ordem parcialmente concedida, de ofício, para compensar integralmente a agravante da reincidência com a atenuante da confissão parcial
+(HC 474.512/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/11/2018, DJe 28/11/2018).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL. DOSIMETRIA. SEGUNDA FASE. CONFISSÃO ESPONTÂNEA DE FURTO EM DETRIMENTO DO ROUBO. CONFISSÃO PARCIAL. UTILIZAÇÃO PARA EMBASAR A SENTENÇA. INCIDÊNCIA DA ATENUANTE. COMPENSAÇÃO. AGRAVANTE DA REINCIDÊNCIA ESPECÍFICA. POSSIBILIDADE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, se a confissão do réu, ainda que parcial, retratada ou qualificada, for utilizada pelo magistrado para fundamentar a condenação, deve incidir a respectiva atenuante. Súmula n. 545 desta Corte.
+2. "Embora a simples subtração configure crime diverso - furto -, também constitui uma das elementares do delito de roubo - crime complexo, consubstanciado na prática de furto, associado à prática de constrangimento, ameaça ou violência, daí a configuração de hipótese de confissão parcial." (HC 396.503/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017)
+3. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n.º 182 desta Corte).
+4. Agravo regimental a que se nega provimento
+(AgRg no HC 452.897/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/08/2018, DJe 14/08/2018).
+Nesse contexto, é de refazer-se a dosimetria da penaMantida a pena-base em 4 anos e 8 meses de reclusão e 11 dias-multa. Na segunda etapa, presentes a atenuante da confissão e a agravante da reincidência, as quais se compensam, permanece a pena no mesmo patamar. Na terceira fase,diante da majorante relativa ao emprego de arma de fogo, aumenta-seem 2/3 a pena, restando definitiva em 7 anos, 9 meses e 10 dias de reclusão e 18 dias-multa.
+O regime de cumprimento da pena será o fechado, ante a reincidência do réu.
+Ante o exposto, concedo o habeas corpus a fim de (re) fixar a pena do paciente em7 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, e 18 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
