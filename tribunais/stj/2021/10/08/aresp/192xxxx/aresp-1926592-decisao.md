@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por LOJAS AMERICANAS S.A. e outra contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado no art. 105, alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"LOCAÇÃO DE IMÓVEL LOJA EM SHOPPING CENTER EMBARGOS À EXECUÇÃO ALEGAÇÃO DE COBRANÇA INDEVIDA DE IPTU MATÉRIA OBJETO DE AÇÃO DECLARATÓRIA C. C. REPETIÇÃO DE INDÉBITO, JULGADA IMPROCEDENTE CONEXÃO POR PREJUDICIALIDADE REEXAME DO TEMA NESTE FEITO DESCABIMENTO.
+Conforme pleiteado pelas embargantes, o Juízo Singular determinou a suspensão do feito, eis que, após a interposição da ação executiva, aforaram ação contra a locadora, com o fito de obter a declaração do efetivo conteúdo de sua obrigação relativa ao IPTU, visando abster-se de cobrança de prestação supostamente indevida, além da condenação em repetição de indébito. Assim sendo, com a improcedência dos aludidos pedidos, restou afastada a pretensão de revisão dos valores cobrados de IPTU e, portanto, as assertivas deduzidas nos embargos não mais comportavam rediscussão, prevalecendo os requisitos de liquidez, certeza e exigibilidade do título exequendo, no caso, o contrato de locação sucessivamente renovado. Inteligência do artigo 505 do Código de Processo Civil. Sentença mantida. Recurso improvido." (fls. 1.417/1.418, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 1.437/1.439, e-STJ).
+Nas razões do especial (fls. 1.442/1.456, e-STJ), além do dissídio jurisprudencial, a parte recorrente aponta negativa de vigência dos arts. 489, § 5º, 504 e 505 do Código de Processo Civil/2015.
+Arguiu a nulidade do acórdão por negativa de prestação jurisdicional. Além disso, sustenta, em síntese, que não há falar em coisa julgada material, tendo em vista que não "se tratou da impossibilidade de se cobrar de IPTU da área exclusiva em metragem maior do que aquela que a cláusula permite" (fl. 1.448, e-STJ).
+Oferecidas as contrarrazões (fls. 1.485/1.495, e-STJ), o recurso não foi admitido. Daí o presente agravo no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Não há falar em negativa de prestação jurisdicional, tendo em vista que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parterecorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CHEQUES. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+6. Agravo interno provido. Agravo conhecido. Recurso especial não conhecido" (AgInt no AREsp 1.033.786/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 20/6/2017 - grifou-se).
+Além disso,as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)Como visto, logo após o ajuizamento da ação executiva, locatária e garante aforaram ação contra a locadora, com o fito de obter a declaração do efetivo conteúdo de sua obrigação relativa ao IPTU, visando abster-se de cobrança de prestação indevida, além da condenação em repetição de indébito(fls. 03 e 11).
+Diante da insistência das executadas, que apontavam conexão das ações, haja vista a identidade da causa de pedir (art. 55, § 2º, I, CPC), o Juízo Singular reconheceu a existência de prejudicialidade externa, suspendendo o andamento do feito até o julgamento daquela ação.
+Ocorre que houve improcedência do pleito declaratório e condenatório, com trânsito em julgado, ausente insurgência recursal e, neste apelo, pretendem as recorrentes quese rediscuta tema levantado e sacramentado naquela ocasião.
+De fato, imperiosa a improcedência dos embargos à execução, à luz do artigo 505 do Código de Processo Civil. Com efeito, ao revés do deduzido pelas apelantes, os fundamentos exarados na ação declaratória acolheram a defesa expendida pela locadora, ao destacar que, ao longo dos anos houve interposição de duas ações renovatórias, uma em 2012 e outra em 2017, circunstâncias que ensejaram a novação do pacto, arbitrado o valor do aluguel mensal, sem questionamento "sobre a forma de cobrança dos demais encargos"(fls. 1.358/1.367).
+Consigne-se que aquela ação foi julgada improcedente, revogada a tutela então deferida, rejeitados os embargos de declaração opostos pelas autoras e acolhidos os embargos declaratórios opostos pela ré, cujo pleito reconvencional foi julgado procedente, condenando as reconvindas no pagamento de IPTU"s vencidos desde julho de 2018, não contemplados na ação executiva (fl. 914, daqueles autos).
+Por claro, ficou mantida a cobrança praticada pela locadora, inclusive acolhendo-se a reconvenção para pagamento das parcelas vencidas a partir de julho de 2018.
+Portanto, uma vez afastada a pretensão de revisão dos valores cobrados de IPTU, as assertivas deduzidas nos embargos não mais comportavam rediscussão, prevalecendo os requisitos de liquidez, certeza e exigibilidade do título exequendo, no caso, o contrato de locação sucessivamente renovado"(fls. 1.421/1.423, e-STJ- grifou-se).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe oenunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários advocatícios foram fixados em 15% (quinzepor cento) sobre o valor atualizado da causa, os quais deverão ser majorados para 18% (dezoitopor cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
