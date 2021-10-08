@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso interposto por FRANCINALDO SOARES SOUZA contra o acórdão do TRIBUNAL DE JUSTIÇA DE MINAS GERAIS no HC n. 1.0000.21.112692-5/000, lavrado nos termos desta ementa (fl. 81):
+HABEAS CORPUS - TRÁFICO DE DROGAS - POSSE DE ARMA DE FOGO OU MUNIÇÕES DE USO PERMITIDO - VIOLAÇÃO DE DOMICÍLIO - INVIOLABILIDADE QUE NÃO ABARCA AGENTES EM ESTADO DE FLAGRÂNCIA - PRISÃO PREVENTIVA - MANUTENÇÃO - PRESENÇA DOS REQUISITOS AUTORIZADORES - DESPROPORCIONALIDADE - DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI DE TÓXICOS - TESES DE MÉRITO - CARACTERÍSTICAS PESSOAIS ABONADORAS QUE, POR SI SÓS, NÃO AUTORIZAM A SOLTURA - COVID-19 - AUSÊNCIA DE DEMONSTRAÇÃO DE QUE O PACIENTE PERTENCE A GRUPO DE RISCO OU DA IMPOSSIBILIDADE DE SUA MANUTENÇÃO EM CÁRCERE - ORDEM DENEGADA.
+Consta dos autos que o recorrente foi preso em flagrante em 8/6/2021 pela suposta prática dos delitos inscritos no art. 33 da Lei n. 11.343/2006 e no art. 12 da Lei do Desarmamento, prisão essa posteriormente convertida em preventiva (APFD n. 0271.21.001752-8, da 1ª Vara Criminal e de Execuções Penais da comarca de Frutal/MG). Ele foi denunciado pela prática desses crimes em 9/7/2021, e o feito aguarda a realização da audiência de instrução e julgamento designada para 25/10/2021.
+Neste recurso, alega-se, em síntese, quenão estão presentes os requisitos para a manutenção da prisão preventiva; que a decisão carece de fundamentação; que o recorrente é primário, possui bons antecedentes, residência fixa e trabalha em lavoura de abacaxis, tem filho menor que depende de seu sustento; que ele não é traficante, mas, sim, usuário de drogas.
+Requer-se a imediata expedição de alvará de soltura; e, ao final, a reforma do acórdão e o provimento do recurso, reconhecendo-se a ilegalidade da prisão cautelar.
+Sem contrarrazões.
+O pedido liminar foi indeferido (fls. 112/113).
+Depois das informações (fls. 135/145), o Ministério Público Federal opinou pela negativa de provimento do recurso, conforme este resumo (fl. 148):
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO OU MUNIÇÃO DE USO PERMITIDO (ART. 33 LEI Nº 11.343/2006 E 12 DA LEI Nº 10.826/03). PRISÃO PREVENTIVA FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. ELEVADA QUANTIDADE DE DROGAS. APREENSÃO DE PETRECHOS, MUNIÇÃO DE ARMA DE FOGO. INDÍCIOS DE TRAFICÂNCIA HABITUAL.GRAVIDADE CONCRETA DA CONDUTA. AUSÊNCIA DE ILEGALIDADE. ALEGADA DESPROPORÇÃO DA CUSTÓDIA CAUTELAR. IMPOSSIBILIDADE DE AFERIÇÃO.
+- Parecer pelo conhecimento e improvimento do recurso ordinário.
+É o relatório.
+O recurso não merece prosperar.
+Com efeito, há motivação idônea para manter a custódia cautelar do recorrente para garantia da ordem pública. O entendimento das instâncias ordinárias encontra respaldo na jurisprudência desta Casa, uma vez que há indicativo de dedicação a atividades criminosas, dadas as circunstâncias da prisão em flagrante, a revelar a periculosidade concreta do agente. Por exemplo,AgRg no RHC n. 148.609/MG, Ministra LAURITA VAZ, SEXTA TURMA, DJe 18/8/2021;RHC n. 103.186/MG, da minha relatoria, SEXTA TURMA, DJe 1º/2/2019; e AgRg no HC n. 567.732/SP, Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 5/5/2020.
+Não é outra a opinião do Subprocurador-Geral da República Renato Brill de Góes, cujo parecer também adoto como razão de decidir (fls. 150/151):
+O pleito de revogação da preventiva não merece prosperar, eis que as instâncias ordinárias mantiveram a custódia cautelar do ora recorrente com fundamento na gravidade concreta dos crimes praticados, notadamente porque foi encontrado em seu poder, no momento de sua prisão em flagrante, além das drogas, uma balança de precisão, microtubos plásticos vazios, munições de calibre 22 e uma réplica de airsoft de um fuzil (fls. 82).
+Ademais, conforme consta do acórdão recorrido, "a decisão que converteu a prisão em flagrante do paciente em preventiva acha-se devidamente motivada e fundamentada, sem afronta ao art. 93, IX da Constituição Federal ou ao novo art. 315 do Código de Processo Penal, demonstrados prova da materialidade e indícios suficientes de autoria, além da gravidade concreta do delito em tese perpetrado, a evidenciar o perigo da liberdade do agente." (fl. 84).
+A decisão que homologou o flagrante consignou que o recorrente não exerce atividade laborativa, e a denúncia ainda noticia que "Indagado, o denunciado confessou ser usuário de drogas, mas que também as comercializa.
+Também assumiu a propriedade das munições." (fl. 138).
+Pela manutenção da preventiva, colaciona-se o seguinte julgado assim ementado:  ..
+Assim, presente requisito do artigo 312 do Código de Processo Penal, imperiosa a manutenção da segregação cautelar em exame, independente de possíveis condições pessoais favoráveis do paciente, além do que, inviável a imposição de medidas cautelares alternativas.
+Pelo exposto, nego provimento ao presente recurso. Julgo prejudicadosos pedidos de reconsideração da decisão liminar (fls. 118/124 e 126/132).
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO/MUNIÇÃO DE USO PERMITIDO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. INDÍCIOS DE TRAFICÂNCIA HABITUAL. GRAVIDADE CONCRETA DA CONDUTA. PRECEDENTES. PARECER ACOLHIDO.
+Recurso improvido. Pedidosde reconsideração da decisão liminar prejudicados.
