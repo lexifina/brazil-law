@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de ALAN MOURA DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (Apelaçãon. 0704119-91.2019.8.07.0012).
+Opacientefoi condenado às penas de 9anos e 4meses de reclusãono regime inicial fechadoe de 24dias-multa, pelaprática dodelitodescritonoart. 157, § 2º, II, do Código Penal.
+A Defensoria Pública alega constrangimento ilegal, afirmandoque a pena-base deve ser reduzida ao mínimo legal ante a impossibilidade de se considerar o uso de arma brancacomo circunstância judicial negativa, poiso uso corresponde a grave ameaça, elemento constitutivo do tipo penal.
+Requerseja concedida a ordem.
+O Ministério Público Federal opinou pelo não conhecimento da impetração.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Relativamente àmatéria suscitada, consta dasentença o seguinte (fls. 23-25):
+De qualquer forma, o emprego desse tipo de instrumento confere maior gravidade ao comportamento, não podendo ser valorado da mesma maneira que um roubo executado sem o emprego de arma, o que será considerado por ocasião da análise das circunstâncias judiciais do art. 59 do CP.
+ ..
+Quanto às circunstâncias, o emprego de arma branca deve ser considerado como fator de distinção na dosimetria da pena.
+Não obstante a inovação legislativa promovida pela Lei nº 13.654/2018, a jurisprudência tem se posicionando no sentido de ser possível a utilização de tal fato na primeira fase da dosimetria da pena, ou seja, nas circunstâncias judiciais.
+A esse respeito, confiram-se: Acórdão n.1125863, 20160810063453APR, Relator: J. J. COSTA CARVALHO, Revisor: CARLOS PIRES SOARES NETO, 1ª TURMA CRIMINAL, Data de Julgamento: 20/09/2018, Publicado no DJE: 26/09/2018. Pág.: 70/78 e Acórdão n.1109724, 20170410071020APR, Relator: WALDIR LEÔNCIO LOPES JÚNIOR, Revisor: DEMETRIUS GOMES CAVALCANTI, 3ª TURMA CRIMINAL, Data de Julgamento: 05/07/2018, Publicado no DJE: 20/07/2018. Pág.: 151/152.
+A razão da diferenciação é simples: o uso de arma branca demonstra maior periculosidade na conduta do agente, pois se vale de meio mais gravoso e ameaçador à integridade física da vítima, sem falar, ainda, na maior potencialidade lesiva apresentada.
+E a consideração na primeira fase não anula a modificação legislativa, uma vez que a majoração ora estabelecida será de 1/6 sobre a pena mínima. Antes da modificação legislativa, o aumento era equivalente ao dobro (1/3).
+O que não pode é equiparar fatos com gravidades distintas, sob pena de violação da individualização da pena, principalmente em caso como o sob análise, no qual a vítima foi perseguida pelo autor da subtração com o referido instrumento.
+Por sua vez, o Tribunal de origem assim decidiu(fl. 34):
+Quanto à circunstância judicial referente às circunstâncias do crime, o Juízo de origem considerou o emprego da arma branca como fator de distinção na dosimetria da pena-base nos seguintes termos:
+ ..
+O emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para a majoração da pena-base, dada a maior culpabilidade e desvalor na conduta do agente, reputando-se correta a valoração negativa feita na origem.
+O Superior Tribunal de Justiça entende que, embora o emprego de arma branca não configure mais causa de aumento do crime de roubo, poderá ser utilizado para aumentar a pena-base quando houver justificativaconcreta para sua incidência. No caso, não foi apontada circunstância concreta que demonstrasse a maior reprovabilidade da conduta pelo empregode arma branca a justificar o aumentar da pena-base.
+Nesse sentido,os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. LEI N. 13.654/2018. NOVATIO LEGIS IN MELLIUS. ARMA BRANCA (FACA). CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AFASTAMENTO. AUSÊNCIA DE MAIOR REPROVABILIDADE. REGIME ABERTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Verifica-se nos autos que o delito em análise foi praticado com o emprego de arma branca (faca), situação não mais abrangida como majorante do crime de roubo, uma vez que a Lei n. 13.654/2018 revogou o inciso I do §2º do art. 157 do CP. Assim, tendo em vista a abolitio criminis, promovida pela referida lei, e em observância ao art. 5º, inciso XL, da Constituição Federal, é de rigor a aplicação da novatio legis in mellius, devendo ser excluída a causa de aumento do art. 157, §2º, inciso I, do CP do cálculo dosimétrico.
+2. O emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem (HC n. 436.314/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 16/8/2018, DJe 21/8/2018).
+3. No presente caso, pela leitura da denúncia, da sentença condenatória e do acórdão recorrido, verifica-se que, no caso concreto, não foi apontada qualquer circunstância que demonstrasse a maior reprovabilidade da conduta pelo uso da arma branca (faca) a justificar o aumento da pena-base, configurando a referida ameaça inerente ao tipo penal de roubo. Necessário, portanto, o decote de referida exasperação da pena-base.
+4. Estabelecida a pena definitiva do acusado em 4 anos de reclusão, sendo favoráveis as circunstâncias do art. 59 do CP, primário o recorrente e sem antecedentes, não havendo qualquer outro elemento concreto a justificar o regime mais gravoso, o regime aberto é o adequado à prevenção e reparação do delito.
+5. Agravo regimental não provido.(AgRg no AREsp n. 1.847.944/SP, relatorMinistro Reynaldo Soares da Fonseca, Quinta Turma,DJe de 14/5/2021.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ROUBO SIMPLES. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE. CIRCUNSTÂNCIAS DO CASO CONCRETO. O USO DA FACA NÃO AGREGOU DESVALOR À CONDUTA. EXASPERAÇÃO DA PENA-BASE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.decisão vergastada pelos próprios fundamentos.
+II - "O emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem" (HC n. 436.314/SC, Quinta Turma, de minha relatoria, DJe de 21/8/2018, grifei).
+III - Pela leitura da sentença condenatória e do acórdão impugnado, não foi apontada qualquer circunstância concreta que demonstrasse a maior reprovabilidade da conduta pelo uso da arma branca a justificar o aumento da pena-base. Nesse contexto, se as instâncias ordinárias não constataram maior reprovabilidade da conduta em virtude do uso da faca, não pode ser o fundamento utilizado na via eleita para fins de exasperar a pena-base.
+IV - Ademais, via de regra, não se presta o habeas corpus à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias, admitindo a jurisprudência desta Corte, em caráter excepcional, o reexame da aplicação das penas, apenas nos casos de manifesta violação aos critérios dos arts. 59 e 68, do Código Penal, sob o aspecto da legalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica, o que não é o caso dos autos, como já assinalado.
+Agravo regimental desprovido.(AgRg nos EDcl no HC n. 525.916/DF, relatorMinistro Felix Fischer, Quinta Turma,DJe de 17/4/2020.)
+Passo pois à dosimetria da pena.
+Na primeira fase, valoro negativamente a culpabilidade e os antecedentes, razão pela qual aplicoa fração de aumento de 1/6 em relação a cada circunstância, ficando apena-base em 5 anos e 4 meses dereclusão e em 13dias-multa.
+Na segunda fase, em face da reincidência, aplico o aumento de1/6, na forma da sentença, fixando a pena intermediária em 6 anos, 2 meses e 20 dias de reclusão e em 15 dias multa.
+Na terceira fase,procedo ao aumento de 1/3, em face do concurso de pessoas, fixandoa pena definitiva em 8anos, 3meses e 16 dias de reclusão e em 20dias-multa.
+Mantidosos demais termos da sentença.
+Ante o exposto,  não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, a fim de excluir o emprego de arma branca como justificativa para o aumento da pena-base.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
