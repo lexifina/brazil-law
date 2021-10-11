@@ -1,0 +1,28 @@
+DECISÃO
+Consta dos autos que TATIANA DE LIMA CARDOSO (TATIANA) ajuizou ação de indenização por dano moral em virtude de contaminação ambiental causada por rejeito do beneficiamento industrial de mineração deixado a céu aberto (chumbo e outros metais pesados).
+No curso do feito, o Juízo da Vara Cível de Bocaiúva do Sul proferiu decisão determinando a suspensão da "Ação de Reparação de Dano Moral" originária em virtude da existência de ações coletivas em trâmite perante a Justiça Federal que tem por objeto a indenização por dano moral das pessoas expostas à contaminação ambiental em razão do descarte a céu aberto e nos rios da região dos rejeitos de beneficiamento industrial de mineração, especialmente chumbo.
+Contra essa decisão, TATIANA interpôs agravo de instrumento, que não foi provido pelo TJPR,em decisão monocrática ementada nos seguintes termos:
+DECISÃO MONOCRATICA. AGRAVO DE INSTRUMENTO. "AÇÃO DE REPARAÇÃO DE DANO MORAL - . SUSPENSÃO DO PROCESSO ATÉ O JULGAMENTO DE DEMANDAS COLETIVAS EM TRÂMITE PERANTE A JUSTIÇA FEDERAL. RATIFICAÇÃO DA DECISÃO SINGULAR. PRECEDENTE DESTA CORTE E ENTENDIMENTO DOMINANTE NO STJ. APLICAÇÃO DO ART. 557 DO CPC.
+NEGATIVA DE SEGUIMENTO AO RECURSO. (e-STJ, fls. 1071/1083).
+O agravo regimental que se seguiu não foi provido pelo TJPR (e-STJ, fls. 1.109/1.115).
+Os embargos de declaração de TATIANA foram rejeitados (e-STJ, fls. 1.134/1.142).
+Ainda insatisfeito, TATIANA interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, no qual alegou violação dos arts. 214, 219 e 265, § 5º, 535, I e II, e 538 do CPC/73; art. 2º, parágrafo único, da Lei n. 7.347/85; 81 e 104 do CDC (e-STJ, fls. 1.283/1.306).
+Após apresentadas as contrarrazões, o recurso foi admitido na origem (eSTJ, fls. 1749/1787 e 1823/1824).
+Em decisão monocrática de minha relatoria, determinei o retorno dos autos à origem, com base na seguinte fundamentação:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL.IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO CPC/73. AÇÃO INDENIZATÓRIA. DANO MORAL. CONTAMINAÇÃO AMBIENTAL CAUSADA POR REJEITO DE BENEFICIAMENTO INDUSTRIAL DE MINERAÇÃO DEIXADO A CEU ABERTO. MATÉRIA FOI AFETADA PARA JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS, NOS AUTOS DO RESP Nº 1.525.327/PR (DJE 22/4/2015) VINCULADO AO TEMA Nº 923. SUSPENSÃO DO FEITO.RETORNO DOS AUTOS À ORIGEM. (e-STJ fls. 1519).
+Após o trânsito em julgado de referida decisão, os autos retornaram à origem (e-STJ, fls. 1525).
+Na sequência, o 1º Vice-Presidente do TJPR remeteu os autos a esta Corte, alegando "que persiste a insurgência pertinente à incidência da multa prevista no artigo 538, parágrafo único, do Código de Processo Civil de 1973, - a qual, inclusive, já havia franqueado a subida do recurso -, razão pela qual se impõe encaminhar os autos novamente à Corte Superior" (e-STJ, fl. 1.527/1.528).
+É o que havia para relatar.
+DECIDO.
+Verifica-se dos autos que a questão jurídica relativa ao pedido de indenização por dano ambiental, em razão de "suposta exposição à contaminação ambiental decorrente da exploração de jazida de chumbo no Município de Adrianópolis-PR", objeto das ações civis públicas ns. 5004891-93. 2011.4004.7000 e n. 2001.70.00.019188-2, em tramitação na Vara Federal Ambiental, Agrária e Residual de Curitiba, foi afetada, no bojo do Resp. 1.525.327/PR (Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, Dj. 12/12/2018, DJe 1º/3/2019), para julgamento sob o rito dos recursos repetitivos.
+Dessarte, a medida mais adequada que se revela, no presente caso, é mesmo o retorno dos autos ao Tribunal estadual, para que lá seja esgotada a jurisdição e promovido o juízo de adequação diante do que vier a ser decidido pela Seção de Direito Privado desta Corte Superior.
+E somente após tal providência é que a Corte estadual decidirá se ainda há razão para apreciação do apelo nobre nesta instância especial, quando, então, se decidirá acerca da alegada ofensa ao art. 538 do CPC/73, que se refere à multa aplicada pelo reconhecimento do caráter procrastinatório dos embargos de declaração.
+Nesse sentido, veja-se o precedente abaixo:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADES CONCOMITANTES. SALÁRIOS DE CONTRIBUIÇÃO. MATÉRIA SUBMETIDA A JULGAMENTO REPETITIVO. SOBRESTAMENTO.
+ .. .
+3. Nos casos em que o órgão colegiado procede a julgamento de matéria submetida à sistemática repetitivo, o recurso integrativo deve ser acolhido para, atribuindo-se-lhe efeitos modificativos, seja anulado o acórdão embargado e determinado o sobrestamento do feito na instância de origem, onde a controvérsia deve aguardar o julgamento do paradigma, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+4. Hipótese em que é necessário o retorno dos autos ao Tribunal de origem para que lá seja esgotada a jurisdição e promovido o juízo de adequação diante do que vier a ser decidido pelo Supremo Tribunal Federal, sendo certo que, após tal providência, a Corte local decidirá, então, se ainda há razão para apreciação do apelo nobre por este Tribunal, o que evitará a cisão no julgamento.
+5. Embargos de declaração acolhidos, com efeitos modificativos, para tornar sem efeito os julgamentos anteriores e determinar a devolução dos autos ao Tribunal de origem.
+(EDCl no AgInt no REsp n. 1.825.554/RS, Rel. Ministro GURGEL DE FARIA, Primeira, Turma, j. 8/2/21, DJe 5/3/2021).
+Nessas condições, DETERMINO o retorno dos autos ao Tribunal paranaense, para que lá permaneçaaté o julgamento do Resp. 1.525.327/PR (Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, Dj. 12/12/2018, DJe 1º/3/2019), afetado como recurso representativo de controvérsia (Tema 923 do STJ).
+Publique-se. Intimem-se.
