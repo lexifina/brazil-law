@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de Companhia Estadual de Águas e Esgotos - CEDAE, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE "ICMS" SOBRE FORNECIMENTO DE ÁGUA CANALIZADA, CUMULADA COM REPETIÇÃO DE INDÉBITO. A ÁGUA, POR SER BEM PÚBLICO, É INALIENÁVEL (ARTS. 44 E 46 DA LEI 24.643/34). SERVIÇO ESSENCIAL. IMPOSSIBILIDADE DE SER CONSIDERADA MERCADORIA, SENDO INCABÍVEL A INCIDÊNCIA DO TRIBUTO (art. 155, li, DA CF). DEVIDA A RESTITUIÇÃO DOS VALORES PAGOS PELO CONTRIBUINTE, OBSERVADA A PRESCRIÇÃO DE DEZ ANOS. PRECEDENTES DO STJ E TJ/RJ. RECURSO PROVIDO PARA JULGAR PROCEDENTE O PEDIDO, DECLARANDO A INEXIGIBILIDADE DO "ICMS" SOBRE O FORNECIMENTO DE ÁGUA CANALIZADA AOS AUTORES, BEM COMO CONDENANDO O ESTADO DO RIO DE JANEIRO A RESTITUIR OS VALORES COMPROVADAMENTE PAGOS, ACRESCIDOS DE CORREÇÃO MONETÁRIA CONTADA DE CADA DESEMBOLSO E JUROS LEGAIS DE 0,5% A PARTIR DO TRÂNSITO EM JULGADO (SÚMULA 188, STJ), RESPEITANDO-SE O PRAZO PRESCRICIONAL DE DEZ ANOS. CONDENAÇÃO DOS RÉUS A ARCAREM COMAS DESPESAS PROCESSUAIS E HONORÁRIOS DE ADVOGADO FIXADOS EM 10% SOBRE O VALOR DA IMPUTAÇÃO.
+Opostos dois embargos de declaração, foram os primeiros parcialmente acolhidos para sanar omissão com relação à distribuição dos ônus sucumbenciais e os segundos, rejeitados.
+No recurso especial, a recorrente alega violação dos seguintes dispositivos: a) art. 1.022, III, do Código de Processo Civil, sustentando que o acórdão recorrido padece de erro material; b) arts. 20 e 23 doCódigode Processo Civil de 1973, aduzindo impossibilidade de condenação da recorrente em 20% dos honorários sucumbenciais na medida em que a partenão restouvencida.
+Não houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade pela ausência de negativa de prestação jurisdicional, bem como pelaincidência da Súmula n. 83/STJ.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 1378/1381).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+A insurgência não merece prosperar.
+Preliminarmente, sustenta-se que o acórdão padece de erro material uma vez que condenou a recorrente ao pagamento de 20% dos ônus sucumbenciais como se a parte tivesse sucumbido na demanda, o que não ocorreu.
+No ponto, o aresto que julgou os aclaratóriosfundamentou que (e-STJfl. 1279):
+Considerando que apenas o Estado do Rio de Janeiro foicondenado à restituição do ICMS pago indevidamente, em razão de ser odestinatário do tributo arrecadado pela CEDAE, a concessionária deveráarcar com parcela menor da sucumbência, limitada à inexigibilidade dacobrança da exação nas faturas de fornecimento de água.
+Assim, não verifico a existência de erro material, mas de decisão contrária aos interesses da parte na medida em que entendeu pela sua parcial responsabilidade pelos honorários na medida em que sucumbiu com relação à inexigibilidade da cobrança da exação.
+Afasto, portanto, a preliminar suscitada.
+No mérito, melhor sorte não assiste a parte.
+Isso porque, a revisãodo percentual em que cada litigante foi vencedor ou vencido é matéria que exige o reexame do acervo fático-probatório dos autos, providência inviável a teor da Súmula n. 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DANOS MORAIS. PLEITO RECHAÇADO NAS INSTÂNCIAS ORDINÁRIAS. SUCUMBÊNCIA RECÍPROCA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.AGRAVO INTERNO DO PARTICULAR NÃO PROVIDO.
+1. O agravo interno não trouxe argumentos novos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar as teses já veiculadas no especial.
+2. O Tribunal de origem, após detida análise dos elementos informativos dos autos, reconheceu que não foi demostrada qualquer ação por parte da autarquia federal capaz de configurar o dever de indenizar, uma vez que não houve a comprovação de requerimento do benefício ao INSS ou ao IPAJM (órgão estadual do Espírito Santo), que tivesse sido, porventura, indevidamente indeferido.
+3. Assim, a adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+4. Igualmente inviável o conhecimento do apelo nobre quanto à alegada inocorrência de sucumbência recíproca, uma vez que a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ (AgInt no AREsp 866.420/MS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 3/3/2020).
+5. Agravo interno do particular não provido.
+(AgInt no REsp 1677413/ES, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. OFENSA AO ART. 1.022, III, DO CPC. ERRO MATERIAL. INEXISTÊNCIA. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
