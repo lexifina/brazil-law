@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de AUGUSTO EVERTON REIS MOURA contra ato do Tribunal Regional Federal da 5ª Região.
+O paciente foi denunciado pela prática dos crimes do art. 139, caput, e art. 141, incisos II e III, do Código Penal. Segundo a denúncia, o réu publicou vídeos no YouTube com insinuações, acusações e ataques contra a honra do Juiz da 17ª Vara Federal de Petrolina e contra servidores da Justiça Federal.
+Em 12 de novembro de 2018, o Juízo da 8ª Vara Federal da Subseção Judiciária de Petrolina, Pernambuco, julgou procedente a pretensão acusatória e condenou o paciente a 8 (oito) meses e 16 (dezesseis) dias de detenção, além de 225 (duzentos e vinte e cinco) dias-multa. A pena privativa de liberdade foi substituída por prestação de serviços à comunidade.
+O recurso de apelação foi interposto apresentando, em preliminar, alegação de nulidade em razão de indisponibilidade do link da audiência, ofensa ao princípio do juiz natural, incompetência territorial e vício decorrente da suspensão do processo. Quanto ao mérito, aduziu atipicidade da conduta e bis in idem na fixação da pena. O julgamento foi designado para o dia 12 de agosto de 2021.
+Nesta impetração, a defesa pretende suspender o trâmite do recurso de apelação, bem como anular a sentença condenatória, sob a alegação de ofensa à garantia constitucional de ampla defesa.
+Este writ foi inicialmente distribuído ao eminente Ministro Rogério Schietti Cruz, da Sexta Turma deste Tribunal (e-STJ, fl. 814), que solicitou informações ao juízo de primeiro grau em 13 de setembro de 2021 (e-STJ, fl. 815). Em 14 de setembro, a Justiça Federal de Pernambuco encaminhou ofício relatando o andamento do processo, trazendo, em anexo, cópia da sentença condenatória (e-STJ, fls. 818-830). Também foram prestadas informações pelo Tribunal Regional Federal da 5ª Região (e-STJ, fls. 832-835).
+O relator designado realizou consulta acerca de eventual prevenção deste relator, tendo em vista a prévia distribuição do Conflito de Competência n.º 155.064/PE, julgado em 20 de novembro de 2017. A prevenção foi aceita, e o processo, redistribuído (e-STJ, fl. 855).
+Em consulta ao endereço eletrônico do Tribunal Regional Federal da 5ª Região, obteve-se a informação de que, em 23 de setembro de 2021, a Primeira Turma daquela Corte julgou o recurso de apelação, desacolhendo a questão de ordem e negando provimento à apelação.
+É o relatório. Decido.
+Com a realização do ato que se pretendia suspender, constata-se a prejudicialidade deste writ, em razão da perda superveniente de seu objeto. Quanto ao pleito de reconhecimento de nulidade, a alteração no quadro fático processual impede o exame da postulação, considerando que o Tribunal de origem rechaçou o pleito defensivo levado a seu conhecimento por meio de questão de ordem, cabendo à defesa, caso entenda, reapresentar a questão a esta Corte pela via processual adequada.
+Nesse sentido, mutatis mutandis:
+1. A superveniente alteração relevante no quadro fático-processual objeto
+do habeas corpus justifica a prejudicialidade da impetração pela perda do
+objeto.  ..  (AgRg nos EDcl nos EDcl no HC n.º 374.276/RJ, Rel. MinistroSEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 12/2/2020)
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado este habeas corpus.
+Intimem-se.
