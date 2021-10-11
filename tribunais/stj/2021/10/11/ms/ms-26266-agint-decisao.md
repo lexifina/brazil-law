@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado pela UNIÃO contra a decisão de e-STJ, fls. 88-93, que concedeu a segurança para decretar a nulidade da notificação e dos atos que lhe seguiram no processo administrativo de revisão de anistia política, com fundamento na violação do art. 26, § 1º, VI, da Lei n. 9.784/1999 e na afronta aos princípios do contraditório e da ampla defesa.
+Sustenta a agravante, em síntese, a decadência do direito de impetrar o mandado de segurança contra a notificação, haja vista o transcurso do prazo de 120 dias contados a partir do recebimento dessa comunicação.
+Argumenta que a notificação atende a todos os requisitos legais e constitucionais pertinentes, diante da indicação das informações necessárias ao exercício da ampla defesa, bem como ressalta a regular atuação da autoridade coatora, porquanto não desbordou dos limites traçados pelo Supremo Tribunal Federal em decisão proferida no RE 817.338/DF.
+Destaca que não houve cerceamento de defesa, bem como que caberia ao impetrante demonstrar, por meio de sua defesa, eventual desacerto do ato, por não se enquadrar na situação noticiada. Porém, essa demonstração não foi realizada. Defende que tanto a Portaria n. 3.076/2019 quanto a notificação encaminhada ao interessado possuem todos os requisitos e elementos mínimos necessários à legalidade, impessoalidade e publicidade dos atos administrativos, especialmente quanto à sua defesa.
+Sustenta, ainda, haver prejuízo ao sistema jurídico nacional em razão da mudança na jurisprudência deste Tribunal Superior.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação da parte agravada às e-STJ, fls. 114-121.
+Através da petição de e-STJ, fls. 122-128, a União informa sobre aimpossibilidade de reativação do pagamento do anistiado político pelo motivo de falecimento, e requer, ante anatureza mandamental e personalíssima do writ, a extinção do processo sem o julgamento de mérito.
+É o relatório.
+Tenho que a decisão agravada merece reforma.
+Com efeito, conforme se extrai da petição inicial do mandamus, o objeto da impetração é a instauração do procedimento de revisão do ato que considerou anistiado o ora impetrante, consubstanciando-se na Notificação nº 736/2020/DGTI/CCP/CGP/CA.
+É cediço que o mandado de segurança, remédio constitucional de rito abreviado, demanda que aprova do direito seja pré-constituída, mostrando-se inviável a dilação probatória.
+Na presente hipótese, contudo,verifica-se que a petiçãoinicial não traz consigo ajuntadado ato apontado como coator, inexistindo nos autos cópia do propalado ato de notificação, que se aponta como eivado de nulidade.
+Nesse contexto, também não houve a comprovação da data em que oimpetrante teria sidonotificadoacerca da instauração do procedimento de revisão de anistia, o que inviabiliza a análise da eventual decadência do mandado de segurança, nos moldes do art. 23 da Lei n. 12.016/2009.
+Destarte, oque se extrai das informações prestadas pela autoridade apontada como coatora, é que, em 9de janeiro de 2020, foi encaminhada a Notificação nº 736/2020/DGTI/CCP/CGP/CA, para que a parte interessada, no prazo de10 (dez) dias, apresentassesuas razões de defesa, nos termos da Lei n. 9.784de 1999 (e-STJ, fl. 57).
+Entretanto, o writ foi impetrado apenas em 2 de junho de 2020, lapso temporal que sugere a extrapolação do prazo decadencial, configurando-se ônus do impetrante a demonstração em sentido contrário, o que, como visto, não ocorreu.
+Note-se, outrossim, que o ora agravado, ao apresentar impugnação ao presente agravo interno, em momento algum se manifestou quanto a tais aspectos, apenas ratificando as razões iniciais no que tange ao cerceamento de defesa no processo administrativo de revisão do ato de anistia.
+Não bastasse isso, há notícia do falecimento do impetrante, o que ensejaria por si a extinção do presente mandamus.
+Ante oexposto,dou provimento ao agravo interno da União para, reconsiderando a decisão agravada, extinguir o presente writ sem análise do mérito.
+Publique-se. Intimem-se.
