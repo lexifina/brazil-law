@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por HDI SEGUROS S.A. contra a decisão que negou provimento ao recurso especial em virtude da incidência das Súmulas nº 282/STF e nºs 5 e 7/STJ (fls. 1.599-1.602, e-STJ).
+Nas presentes razões, a agravante alega que as referidas súmulas não se aplicam à espécie.
+Aponta que os arts. 757, 760 e 765 do Código Civil e 926 e 927, IV, do Código de Processo Civil de 2015 foram violados.
+Sustenta que
+"(..) não há como se admitir que a seguradora tenha que assumir o pagamento por danos não contratados ou além de seu respectivo limite.
+(..)
+Assim, não pode, em total desrespeito à relação contratual, compreender a condenação em danos morais e estéticos na cobertura de danos corporais" (fls. 1.613-1.614, e-STJ).
+Foi apresentada impugnação (fls. 1.620-1.630, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. DANOS ESTÉTICOS. EXCLUSÃO EXPRESSA. NÃO EXISTÊNCIA. NECESSIDADE. REEXAME. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A apólice de seguro contra danos corporais pode excluir da cobertura tanto o dano moral quanto o dano estético, desde que o faça de maneira expressa e individualizada para cada uma dessas modalidades de dano extrapatrimonial. Precedentes.
+3. Na hipótese, inviável rever as conclusões do aresto recorrido quanto à cobertura de danos estéticos sem a análise das provas dos autos e do contrato firmado pelas partes , o que atrai a incidência das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A agravante não trouxe argumentos suficientes para infirmar a decisão atacada .
+Com efeito, a despeito do alegado pela parte, quanto à exclusão ou não de coberturas, o Superior Tribunal de Justiça tem jurisprudência firme no sentido de que "(..) a apólice de seguro contra danos corporais pode excluir da cobertura tanto o dano moral quanto o dano estético, desde que o faça de maneira expressa e individualizada para cada uma dessas modalidades de dano extrapatrimonial" (AgInt no AREsp 1.505.516/RS, Rel. Ministro Luis Felipe Salomão , DJe 7/6/2021 - grifou-se), o que não ocorreu na espécie.
+Registra-se, por oportuno, a fundamentação do tribunal estadual ao analisar a controvérsia:
+"(..)
+A despeito das alegações recursais, de acordo com o entendimento sumulado pelo colendo Superior Tribunal de Justiça, são cumuláveis as indenizações por danos materiais, morais e estéticos:
+"Súmula nº 37, STJ: São cumuláveis as indenizações por dano material e dano moral oriundos do mesmo fato."
+"Súmula nº 387, STJ: É lícita a cumulação das indenizações de dano estético e dano moral."
+(..)
+Com relação às indenizações por danos morais e estéticos, devem ser enquadradas, em princípio, na cobertura por danos morais. No entanto, apesar da restrição prevista e das alegações da seguradora recorrente, a aplicação dessa cláusula contratual deve ser afastada no caso concreto.
+Como visto acima, a seguradora fez distinção entre as coberturas para danos morais e corporais ao definir o âmbito de abrangência da apólice, fixando os capitais em quantias muito disformes, dado que o valor referente aos danos corporais (R$ 150.000,00) é 6 (seis) vezes mais elevado do que o capital destinado aos danos morais (R$ 25.000,00). Em relação aos danos estéticos, não consta na tela geral de coberturas previsão expressa.
+Contudo, ainda que a apólice apresente valor autônomo para a cobertura dos danos morais e não contenha previsão dos danos estéticos, as concepções dessas modalidades de dano podem ser perfeitamente enquadradas como dano corporal.
+Isso porque, independentemente da terminologia adotada (danos corporais, pessoais etc..), a ideia de dano corporal abrange todo e qualquer prejuízo causado à pessoa, seja em sua esfera patrimonial, ou extrapatrimonial. Tal entendimento decorre de um longo e percuciente amadurecimento jurisprudencial, cristalizado após sucessivos debates e decisões proferidas pelas Cortes Superiores.
+O Superior Tribunal de Justiça, já na década de 1990, reconhecia que "o contrato de seguro por" (REsp nº 106.326/PR), ao entendimento de que "danos pessoais compreende o dano moral o dano pessoal é aquele que atinge um direito da personalidade, seja ele de ordem física," (REsp nº 153.837/SP), somática ou psíquica, de natureza patrimonial ou extrapatrimonial.
+Referido posicionamento prosseguiu incólume a partir dos anos 2000, dando ensejo à edição da Súmula nº 402, que, acolhendo a orientação acima transcrita, sedimentou a jurisprudência daquela Corte Superior no sentido de que "o Contrato de seguro por danos pessoais" compreende os danos morais, salvo cláusula expressa de exclusão.
+Vê-se, portanto, que o Superior Tribunal de Justiça há muito vem adotando o entendimento de que, nos contratos securitários, os danos morais estão abrangidos pelo conceito de danos pessoais (ou corporais).
+Entretanto, embora tal jurisprudência tenha posto fim à distinção entre a concepção de danos morais e corporais/pessoais nos contratos de natureza securitária, apresenta uma exceção que, inadvertidamente, tem gerado certa confusão e divergência, principalmente, nos entendimentos firmados nos Tribunais de segundo grau. Isso porque a já citada Súmula ressalva que a incorporação dos danos morais na cobertura para danos corporais poderá ser afastada no caso de expressa exclusão contratual, levada ao conhecimento do consumidor/segurado.
+Embora referida exceção seja de fácil assimilação, já que eventual cláusula de exclusão afastaria a cobertura para danos morais - por simples silogismo -, certo é que sua aplicação demanda grande esforço hermenêutico, mormente nas relações de consumo em que muitas vezes há manifesta vulnerabilidade técnica e econômica do consumidor.
+Nessas situações, além de o consumidor aderente, na maioria dos casos, não dispor de conhecimento técnico adequado para compreender o alcance de cada cobertura descrita na apólice, as exclusões impostas pela seguradora, frequentemente, são dúbias e incompletas. É o caso, por exemplo, das hipóteses em que há cobertura para danos corporais na apólice e, logo em seguida, a inclusão de uma cláusula limitativa indicando a cobertura para danos morais no valor de R$ 0,00 (zero reais) ou 0% (zero por cento).
+Como se percebe, malgrado restrinja as coberturas contratadas, tal cláusula acaba por desnaturar a garantia referente aos danos corporais, pois, como visto acima, a delimitação do dano extrapatrimonial é abrangida pela concepção de danos corporais/pessoais.
+Por tal motivo, referida exceção legal tem sido aplicada com parcimônia por alguns julgadores, especialmente quando há demonstração de que a exclusão desvirtua ou esvazia a própria essência de outras garantias contratadas pelo segurado. Perfilando desse entendimento, esta Corte, em alguns julgados, tem decidido que sempre que houver cobertura para danos corporais/pessoais, eventuais prejuízos morais e/ou estéticos sofridos pelas vítimas também deverão ser ressarcidos pela seguradora, ainda que haja cláusula expressa excluindo esses tipos de coberturas.
+Nesse sentido, vale citar a decisão proferida por esta colenda 9ª Câmara Cível, que, afastando a incidência da cláusula de exclusão de cobertura para danos morais, reconheceu que a expressa contratação de garantia para danos corporais, em qualquer caso, deve abranger todo e qualquer prejuízo físico ou moral sofrido pela vítima.
+(..)
+Como se vê, a orientação adotada por este colegiado aponta que o conceito de danos corporais deve ser o mais abrangente possível, alcançando, assim, todo e qualquer dano que a vítima possa sofrer (físico ou extrapatrimonial).
+Portanto, ainda que a referenciada Súmula nº 402, do STJ, reserve às seguradoras o direito de excluir os danos morais do alcance da cobertura para danos corporais/pessoais, denota-se, claramente, que tal possibilidade acaba por esvaziar o núcleo da garantia contratada e paga pelo consumidor.
+Afirmo isso porque a restrição imposta pela seguradora, ao excluir os danos morais e/ou estéticos, funciona, na verdade, como um reduto para limitar sua responsabilidade por uma garantia que foi comercializada no mercado de consumo pelo preço integral. Veja-se que, ao oferecer essa cobertura ao consumidor (danos corporais/pessoais), a seguradora calcula o valor do prêmio sobre o valor integral do capital segurado, não deduzindo nenhuma quantia por conta da exclusão dos danos extrapatrimoniais.
+Em resumo, a simples contratação de cobertura para danos pessoais/corporais deve, em todo caso, alcançar qualquer prejuízo indenizável à vítima, independentemente de eventual restrição, porquanto, seguindo o entendimento firmado no precedente acima citado, a noção de dano corporal deve ser analisada de maneira abrangente, e não restritivamente.
+Tal entendimento pode, perfeitamente, ser aplicado ao presente caso, tanto em relação aos danos estéticos, cuja cobertura não foi pactuada, quanto em relação aos danos morais, previstos em cláusula independente. Afinal, essas previsões não excluem a garantia para danos corporais, também contratada pela parte consumidora" (fls. 1.451-1.467, e-STJ - grifou-se).
+Assim, é inviável a este Tribunal Superior rever o entendimento firmado pelas instâncias ordinárias sem a análise das provas dos autos e do contrato firmado pelas partes , o que atrai a aplicação das Súmulas nºs 5 e 7/STJ.
+Confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. MORTE DO ESPOSO E GENITOR DOS AUTORES. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. ARTS. 26, 34, 38 E 39 DO CÓDIGO DE TRÂNSITO BRASILEIRO. ARTS. ARTS. 39 E 51 DO CÓDIGO DE DEFESA DO CONSUMIDOR. ART. 765 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DEVER DE INDENIZAR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INDEPENDÊNCIA ENTRE JUÍZOS CÍVEL E CRIMINAL. COBERTURA SECURITÁRIA. DANOS MORAIS. EXCLUSÃO EXPRESSA. SÚMULA Nº 83/STJ. VALOR DA INDENIZAÇÃO. RAZOABILIDADE. REDUÇÃO. IMPOSSIBILIDADE. JUROS DE MORA. TERMO INICIAL. SÚMULA Nº 54/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta.
+2. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+3. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+4. Consoante a jurisprudência consolidada nesta Corte Superior, a absolvição no juízo criminal, em virtude da relativa independência entre tal juízo e o juízo cível, apenas vincula este quando restar reconhecida pelo primeiro a inexistência do fato ou restar evidenciada a negativa de autoria, o que não se verificou na hipótese dos autos.
+5. A apólice de seguro contra danos corporais pode excluir da cobertura tanto o dano moral quanto o dano estético, desde que o faça de maneira expressa e individualizada para cada uma dessas modalidades de dano extrapatrimonial. Precedentes.
+6. A consonância do acórdão recorrido com a jurisprudência sedimentada nesta Corte Superior implica na incidência da Súmula nº 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", que é aplicável a ambas as alíneas autorizadoras.
+7. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que não se pode afirmar exorbitante a indenização de R$ 50.000,00 (cinquenta mil reais) fixada em prol dos dois filhos e da esposa de falecido em acidente de trânsito causado por empregado da empresa demandada e condutor de veículo de sua propriedade.
+8. Em caso de responsabilidade extracontratual, os juros moratórios fluem a partir do evento danoso (Súmula nº 54/STJ).
+9. Agravo regimental não provido."
+(AgRg no AREsp 643.074/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 3/9/2015, DJe 10/09/2015 - grifou-se).
+"CIVIL. RESPONSABILIDADE CIVIL. DANO MATERIAL, MORAL E ESTÉTICO. CUMULAÇÃO. POSSIBILIDADE. CONTRATOS. SEGURO. COBERTURA PARA DANOS CORPORAIS. ALCANCE. LIMITES.
+1. Ação ajuizada em 31.08.2000. Recurso especial concluso ao gabinete da Relatora em 20.09.2013.
+2. Recurso especial em que se discute a cumulatividade dos danos materiais, morais e estéticos, bem como, o alcance, em contratos de seguro, da cobertura por danos corporais.
+3. É lícita a cumulação das indenizações por dano material, moral e estético. Incidência do enunciado nº 387 da Súmula/STJ.
+4. A apólice de seguro contra danos corporais pode excluir da cobertura tanto o dano moral quanto o dano estético, desde que o faça de maneira expressa e individualizada para cada uma dessas modalidades de dano extrapatrimonial, sendo descabida a pretensão da seguradora de estender tacitamente a exclusão de cobertura manifestada em relação ao dano moral para o dano estético, ou vice-versa, ante a nítida distinção existente entre as rubricas.
+5. Hipótese sob julgamento em que a apólice continha cobertura para danos corporais a terceiros, com exclusão expressa apenas de danos morais, circunstância que obriga a seguradora a indenizar os danos estéticos.
+6. Recurso especial parcialmente provido."
+(REsp 1.408.908/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/11/2013, DJe 19/12/2013 - grifou-se).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
