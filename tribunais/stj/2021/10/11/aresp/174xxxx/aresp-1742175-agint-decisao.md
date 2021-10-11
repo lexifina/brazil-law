@@ -1,0 +1,9 @@
+DECISÃO
+Vistos.
+FRANCISCO DIONÍSIO ALPENDRE DOS SANTOS (FRANCISCO) interpôs agravo interno contra decisão de minha lavra que reconsiderou decisão da Presidência do STJ e, em novo exame, conheceu do agravo para dar provimento ao recurso especial interposto por LUIZ CARLOS DELAZARI (LUIZ).
+Na petição do presente agravo interno (e-STJ, fls. 301/308), FRANCISCO noticiou nulidade da decisão unipessoal ora agravada, haja vista a nulidade de sua intimação para apresentação de impugnação ao agravo interno interposto por LUIZ, porquanto endereçada a advogado diverso do que o representava.
+Diante dessa alegação, determinou-se à Coordenadoria de Direito Privado que esclarecesse o ocorrido, a qual certificou que realizou a retificação da autuação para "fazer constar como advogado do agravado apenas BRUNO FERNANDES DOS SANTOS  .. " (e-STJ, fl. 321).
+Nesse contexto, assiste razão a FRANCISCO, visto que do cabeçalho da decisão da Presidência do STJ que não conheceu do agravo em recurso especial observa-se que constava como advogado de FRANCISCO apenas o Dr. WALTER BRUNETTA FILHO, advogado que já havia substabelecido seus poderes, sem reservas, em momento anterior (e-STJ, fl. 8, apenso).
+Portanto, verifica-se a nulidade da decisão de e-STJ, fls. 271/278, que deu provimento ao agravo interno interposto por FRANCISCO, porquanto a intimação para impugnação ao referido agravo interno de e-STJ, fls. 254/260 operou-se em nome de advogado que não mais representava os interesses de FRANCISCO.
+Diante disso, torno sem efeito a decisão de e-STJ, fls. 271/278, determino a intimação de FRANCISCO para oferecer impugnação ao agravo interno de e-STJ, fls. 254/260 e julgo prejudicados os agravos internos interpostos por LUIZ (e-STJ, fls. 280/297) e FRANCISCO (e-STJ, fls. 301/308).
+Publique-se. Intimem-se.
