@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por IMOBILIARIA E COMERCIAL PIRUCAIA LTDA e OUTRO à decisão de fls. 573/574, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Importante ressaltar que houve o prévio juízo de admissibilidade do Egrégio Tribunal de Justiça, o qual ressaltou que houve esgotamento dos recursos do Tribunal de origem, tendo em vista que o Recurso Especial fora interposto em razão do v. acórdão de fls. 461/471.
+Digne a embargante esclarecer que o Tribunal de Origem não poderia ter julgado os Embargos de Declaração opostos pela recorrente de forma monocrática, eis que total em desrespeito ao que preconiza o inciso III do artigo 932 do Código de Processo Civil, que assim determina: (fl. 578).
+ ..
+Isto porque, data vênia, foram opostos Embargos de Declaração de fls. 475/480 (os quais não foram conhecidos tendo em vista o modo do peticionamento utilizado), deixando de se aplicar o princípio da fungibilidade recursal.
+Pontua-se que o nome iures da petição e a tempestividade foram devidamente comprovadas, incorrendo em erro a ora embargante apenas quando fora realizado o peticionamento eletrônico.
+ ..
+Nota-se que se trata de erro material não causando prejuízo algum ao andamento do processo.
+Ora, se o próprio Desembargador "a quo" entendeu que os Embargos Declaratórios possuíam intenção de obter efeitos infringentes, os mesmos devem ser conhecidos pelo mesmo como Agravo Interno fungível, em obediência ao princípio da fungibilidade recursal (fl. 579).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Observe-se que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+Consta da decisão embargada que o recurso especial foi interposto contra decisão monocrática proferida pelo Tribunal a quo (fls. 490/493).
+O STJ, com base na Súmula n. 281 do STF, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial, ou seja, a apresentação de recurso especial pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem.
+Essa orientação também se aplica a hipóteses como a dos autos, em que a acórdão do Tribunal de origem foram opostos embargos de declaração, julgados de forma monocrática, e, contra essa decisão, foi interposto recurso especial sem que houvesse o necessário exaurimento das instâncias ordinárias.(AgInt no AREsp 1621900/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/6/2020; e AgInt no AREsp 1527034/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 14/2/2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
