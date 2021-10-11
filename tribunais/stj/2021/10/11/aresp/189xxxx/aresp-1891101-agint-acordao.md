@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu agravo em recurso especial interposto pelo Ibama, com fundamento no art. 105, III, a, da Constituição Federal.
+O recurso visa reformar acórdão do Tribunal Regional Federal da 1ª Região, ementado nestes termos (fl. 245):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CRÉDITO CONSTITUÍDO NO VENCIMENTO DA MULTA APLICADA NO AUTO DE INFRAÇÃO. PRESCRIÇÃO QUINQUENAL. OCORRÊNCIA.
+1. O art. 1º-A da Lei nº 9.873/1999 prescreve que: "Constituído definitivamente o crédito não tributário, após o término regular do processo administrativo, prescreve em 5 (cinco) anos a ação de execução da administração pública federal relativa a crédito decorrente da aplicação de multa por infração à legislação em vigor".
+2. A Primeira Seção do egrégio Superior Tribunal de Justiça, no julgamento do REsp 1.105.442/RJ, submetido ao regime do art. 543-C do Código de Processo Civil de 1973, firmou o entendimento de que: "É de cinco anos o prazo prescricional para o ajuizamento da execução fiscal de cobrança de multa de natureza administrativa, contado do momento em que se torna exigível o crédito (artigo 1º do Decreto nº 20.910/32)" (REsp 1105442/RJ, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA SEÇÃO, julgado em 09/12/2009, DJe 22/02/2011).
+3. "Tratando-se de créditos da União de natureza não tributária, afasta-se tanto a prescrição prevista no Código Tributário Nacional quanto a do Código Civil. Aplicável, no caso, a prescrição qüinqüenal do art. 1º do Decreto n. 20.910, de 06/01/1932 (STJ, REsp n. 623023/RJ, Rel. Min. ELIANA CALMON, T2, ac. un, DJ 14/11/2005 p. 251) e a suspensão do prazo prescricional por 180 dias após a inscrição em dívida ativa (art. 2º, § 3º, da Lei n. 6.830/1980" (AC 0029322-26.2015.4.01.9199/MT, Rel. DESEMBARGADORA FEDERAL ÂNGELA CATÃO, SÉTIMA TURMA, e-DJF1 p. 1657 de 11/09/2015).
+4. Não havendo o pagamento, nem a impugnação do valor cobrado no auto de infração, é de se concluir que o crédito foi definitivamente constituído no seu vencimento, em 16/02/2006, portanto, já atingido pela prescrição quando da propositura da ação, em 10/04/2012.
+5. Apelação não provida.
+Na origem, trata-se de exceção de pré-executividade ajuizada por V. S. Rodrigues - Madeiras nos autos da execução fiscal proposta pela Ibama para cobrança de multa administrativa em razão do transporte irregular de madeiras. Na sentença, acolheu-se a exceção de pré-executividade e extinguiu a execução fsical. No Tribunal a quo, a sentença foi mantida. Nesta Corte, determinou-se a baixa dos autos ao Tribunal de origem para que processe o recurso de agravo interno.
+No recurso especial, o Ibama alega ofensa aos arts. 1º e 1º-A, da Lei n. 9.873/199, Sustenta que não ocorreu a prescrição, uma vez que o termo inicial conta-se do término do processo administrativo.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, tendo em vista a manifesta incompetência do Superior Tribunal de Justiça, determino a baixa destes autos ao Tribunal de origem para que processe o recurso de agravo interno."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, nesses termos (fl. 297):
+No caso dos autos, está comprovado que houve mera irregularidade formal na capa do agravo, o que não pode prejudicar o direito de defesa da autarquia. Além de que não houve qualquer prejuízo à parte contrária, que, inclusive, apresentou, às fls. 286, contraminuta ao agravo em recurso especial.
+O entendimento do STJ é de que mero equívoco no endereçamento do recurso apresentado tempestivamente não impede o seu recebimento. Nesse sentido: REsp 1690544/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/10/2017, DJe 23/10/2017; AgInt no AREsp 313.802/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/02/2018, DJe 23/02/2018
+Portanto, por se tratar de erro escusável, passível de aproveitamento, e protocolado no prazo legal, é de se conhecer do agravo em recurso especial.
+É relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. IBAMA. MULTA ADMINISTRATIVA. TRANSPORTE IRREGULAR DE MADEIRA. EXECUÇÃO FISCAL. EXTINÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVADE. PROVIMENTO. RECURSO ESPECIAL. INADMISSIBILIDADE. AGRAVO. IMPUGNAÇÃO DA DECISÃO. PEDIDO DE RECONSIDERAÇÃO OU ANÁLISE PELO ÓRGÃO COLEGIADO. COMPETENCIA DA CORTE DE ORIGEM. ART.1.021, § 2º, do CPC de 2015.
+I - Na origem, trata-se de exceção de pré-executividade ajuizada por V. S. Rodrigues - Madeiras nos autos da execução fiscal proposta pela Ibama para cobrança de multa administrativa em razão do transporte irregular de madeiras. Na sentença, acolheu-se a exceção de pré-executividade e extinguiu a execução fsical. No Tribunal a quo, a sentença foi mantida. Nesta Corte, determinou-se a baixa dos autos ao Tribunal de origem para que processe o recurso de agravo interno.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se o recurso foi dirigido ao próprio órgão prolator da decisão impugnada, compete ao Tribunal de origem a sua análise, nos termos do art. 1.021, § 2º, do CPC de 2015.
+III - No agravo em recurso especial, a agravante manifestou nestes termos: "Em face da decisão proferida nos autos indicados em epígrafe que negou seguimento ao Recurso Especial, com fulcro no artigo 1.030, §2º c/c 1.021 do CPC e de acordo com fatos e fundamentos que se seguem. Requer a Vossa Excelência, caso não haja por bem reconsiderar a decisão agravada, o processamento do recurso com o julgamento final conforme razões adiante aduzidas."
+IV - Verifica-se, portanto, que o inconformismo do agravante foi dirigido a decisão de inadmissibilidade do recurso especial pela Corte de origem, e o objetivo das razões recursais e a reconsideração da decisão ou a análise pelo órgão colegiado da Corte a quo.
+V - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão agravada deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça, firme no sentido de que, se o recurso foi dirigido ao próprio órgão prolator da decisão impugnada, compete ao Tribunal de origem a sua análise, nos termos do art. 1.021, § 2º, do CPC de 2015.
+No agravo em recurso especial, a agravante manifestou nestes termos (fl. 266):
+Em face da decisão proferida nos autos indicados em epígrafe que negou seguimento ao Recurso Especial, com fulcro no artigo 1.030, §2º c/c 1.021 do CPC e de acordo com fatos e fundamentos que se seguem.
+Requer a Vossa Excelência, caso não haja por bem reconsiderar a decisão agravada, o processamento do recurso com o julgamento final conforme razões adiante aduzidas.
+Verifica-se, portanto, que o inconformismo do agravante foi dirigido a decisão de inadmissibilidade do recurso especial pela Corte de origem, e o objetivo das razões recursais e a reconsideração da decisão ou a análise pelo órgão colegiado da Corte a quo.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
