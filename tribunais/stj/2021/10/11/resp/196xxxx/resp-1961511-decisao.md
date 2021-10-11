@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo interposto por EVERTON CANUTO DOS SANTOScontra decisão que inadmitiu o seu recurso especial manejado em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o MM. Juízo de primeiro grau condenou o ora recorrente como incurso nas sanções do art. 121,§ 2º, inciso II, c.c. o art. 14, inciso II, ambos do Código Penal, à pena de 12 (doze) anos e 6 (seis) meses de reclusão, no regime inicial fechado (fls. 1.289-1.297).
+O eg. Tribunal de origem, por unanimidade,negou provimento aapelação criminal ali interposta pela Defesa (fls. 1.498-1.504). Eis a ementa do acórdão:
+"APELAÇÃO CRIME. TRIBUNAL DO JÚRI. HOMICÍDIO TENTADO.PRELIMINAR DE NULIDADE DO RECONHECIMENTO PESSOAL.INOCORRÊNCIA DE PRECLUSÃO. POSSIBILIDADE DE REALIZAÇÃO DO PROCEDIMENTO NO INQUÉRITO E NA VIA JUDICIAL. FORMALIDADES DO ART. 266 DO CPP QUE NÃO POSSUEM O CONDÃO DE ENSEJAR NULIDADE NO JULGAMENTO. PRECEDENTES DESTE TRIBUNAL. AFASTAMENTO DA PRELIMINAR DE NULIDADE QUANTO À MENÇÃO DO SILÊNCIO DO RÉU PERANTE OS JURADOS. AUSÊNCIA DE UTILIZAÇÃO DE JUÍZO DE VALOR OU ARGUMENTO DE AUTORIDADE PELA ACUSAÇÃO. MÉRITO. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS JUDICIAIS DE CULPABILIDADE E CONSEQUÊNCIAS DO CRIME ADEQUADAMENTE VALORADAS. SENTENÇA CONDENATÓRIA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO."
+Sobreveio recurso especial, interposto com fundamento no art. 105, inciso III, alíneaa, do permissivo constitucional, no qual se sustentou violação ao art. 478, inciso II, do Código de Processo Penal(fls. 1.510-1.526).
+Para tanto, argumenta que:" ..  considerando o uso do silêncio enquanto direito fundamental de defesa do acusado, há de se relevar o pressuposto que é fundado pelo princípio nemo tenetur se detegere, no sentido de, optando o réu por permanecer em silêncio, desta escolha não poderá defluir qualquer carga ideológica" (fl. 1.518);
+Aduz, outrossim, que"o Promotor de Justiça ainda se utilizou do silêncio como parâmetro para comparar a vítima ao apelante, como se a vítima, por ter prestado depoimento no processo, possuísse maior credibilidade em relação ao acusado; e por ter a vítima falado, ela dizia a verdade. Já o réu como se calou, não é digno de credibilidade" (fl. 1.519).
+Ao final, requer "seja recebido e processado o presente recurso especial, para que no final ele seja provido, com o reconhecimento da nulidade processual decorrente da menção do silêncio do réu durante sessão de julgamento do Tribunal do Júri" (fl. 1.526).
+Apresentadas as contrarrazões (fls. 1.536-1.539), o eg. Tribunal de origem admitiu o apelo nobre, e os autos foram encaminhados a este Superior Tribunal(fls. 1.541-1.543).
+O Ministério Público Federalmanifestou-se pelo não conhecimento do agravo, por ausência de interesse recursal(fls. 1.555-1.558). Confira-se a ementa do parecer:
+"RECURSO ESPECIAL. CRIME DE HOMICÍDIO TENTADO. PLEITO DE RECONHECIMENTO DE NULIDADE SUPOSTAMENTE OCORRIDA APÓS A PRONÚNCIA. MENÇÃO PELO PROMOTOR DE JUSTIÇA EM PLENÁRIO DO TRIBUNAL JÚRI SOBRE O SILÊNCIO DO ACUSADO AO SER INTERROGADO.PRETENSÃO IDÊNTICA À DEDUZIDA EM HABEAS CORPUS JÁ JULGADO PELA QUINTA TURMA.LITISPENDÊNCIA. PELO NÃO CONHECIMENTO."
+É o relatório.
+Decido.
+O presente recurso encontra-se prejudicado.
+Com efeito,por ocasião do julgamento do HC n. 687.712/PR, de minha relatoria,apósexaminar todas as teses ali aventadas,não conheci dohabeas corpus, no qual se formulou idêntico pedido ao que deduzido no presente recurso especial.
+De fato, ao decidir o referido writ, foi analisadaatesealegadano presente recurso.Transcrevo, por oportuno, no que interessa ao caso, excertos do referido decisum:
+"Para melhor delimitar a controvérsia, transcrevo os seguintes trechos do v.
+acórdão, na parte que importa (fls. 25-31):
+"Trata-se de Apelação crime interposta em face da sentença que condenou o apelante pela prática do crime previsto no art. 121, § 2º, II e IV c/c o art. 14, II, do Código Penal sob o rito do Tribunal do Júri (mov. 466.1/autos de origem).
+Preliminarmente, a defesa do recorrente alega a existência de duas nulidades processuais: a. o reconhecimento do acusado pela vítima em sessão plenária sem pedido anterior em violação ao art. 226 do CPP; e b. da utilização do silêncio do acusado em seu desfavor, em descumprimento do art. 478, II, do CPP.
+No mérito, a defesa alega erro na aplicação da pena, em razão da valoração inadequada das circunstâncias judiciais de culpabilidade e consequências do crime.
+Assim, requer: a. preliminarmente, o reconhecimento das nulidades alegadas, com o fim de submeter o recorrente a novo julgamento; b. no mérito, sejam afastadas as majorações da pena-base.
+(..)
+As teses recursais em exame serão analisadas na seguinte ordem:a. Preliminares: nulidade do reconhecimento e silêncio do réu;
+(..) A defesa sustenta preliminarmente a existência de duas nulidades no caso dos autos que seriam aptas a invalidar o julgamento: o reconhecimento do réu pela vítima e a valoração do réu.
+Tais teses, no entanto, não comportam provimento.
+Explica-se.
+No caso dos autos, os motivos elencados para a nulidade do reconhecimento são: a. a produção da prova se encontra preclusa, pois não foi requerida em momento oportuno de acordo com o art. 422 CPP; b. o reconhecimento em plenário após dois outros reconhecimentos é eivado de vício, uma vez que se trata de prova irrepetível; e c.o reconhecimento se deu de forma incompatível com o art. 266 do CPP, uma vez que houve a separação da vítima e do ofendido por vidro, ocorreu ausência de contato visual e houve apresentação de foto do réu à vítima em audiência de instrução anteriormente realizada.
+Quanto à alegação de preclusão, o requerimento do de produção de tal prova em plenário foi de acordo Parquet com o §3º do art. 473 do Código de Processo Penal, que preconiza a possibilidade de requerimento das partes ou dos  1  jurados do reconhecimento de pessoas durante a instrução plenária.
+Em relação ao argumento de que a prova seria irrepetível, uma vez que já oreconhecimento já teria sido realizado anteriormente (mov. 11.20/autos de origem), verifica-se que o reconhecimento por meio de fotografia que se deu no inquérito policial possui a função de basear a justa causa para prosseguimento da persecução penal, o que não impede que novo reconhecimento seja realizado na via judicial.
+Nesse sentido, o entendimento desta Corte de Justiça é de que o referido meio de prova pode ser realizado na fase extrajudicial e confirmada por em fase judicial (..).
+(..)
+Ainda, no caso concreto, as razões elencadas para amparar tal inobservância do art. 226, qual sejam, a visualização do réu por meio de vidro translúcido e ausência de contato visual entre réu e ofendida não configuram motivos suficientes para aferir o descumprimento do procedimento previsto na legislação processual penal.
+Quanto ao segundo pleito preliminar, a defesa sustenta a existência de nulidade na utilização do silêncio do acusado em seu prejuízo, em violação ao art. 478, II, do CPP, pois o Promotor de Justiça teria questionado aos  4  jurados "porque o réu não veio falar, tem algo a esconder  A vítima veio falar".
+Em suas contrarrazões, o representante do Órgão Ministerial postula que a fala não se deu nestes termos, que destacou a garantia constitucional do silêncio do réu e estava apenas mencionando o fato de que a vítima, mesmo com medo, depôs perante o plenário.
+Assim, não se verifica a presença de indevida menção ao silêncio do acusado por ocasião de seu interrogatório, em prejuízo do réu ou em influência à imparcialidade dos jurados, de modo a configurar a apontada nulidade.
+Sobre a questão, o entendimento desta Colenda Corte de Justiça é de que a menção isolada do silêncio do acusado, sem juízo de valor, não constitui nulidade (..).
+Analisadas as questões preliminares, passa-se ao mérito.
+(..) III. DECISÃO Ante o exposto, acordam os Desembargadores da 1ª Câmara Criminal do TRIBUNAL DE JUSTIÇA DO PARANÁ, por unanimidade de votos, em julgar CONHECIDO O RECURSO DE PARTE E NÃO-PROVIDO o recurso de EVERTON CANUTO DOS SANTOS" (grifei).
+Pois bem.
+Inicialmente, acerca da suposta utilização do silêncio do paciente em seu desfavor, deve-se destacar que o v. acórdão concluiu se tratar de simples menção pela d.
+Acusação, de forma isolada e em relação à questão de medo, e não da possibilidade de forma de autodefesa de quem se tem por acusado.
+Verbis (fl. 27):
+"(..) Quanto ao segundo pleito preliminar, a defesa sustenta a existência de nulidade na utilização do silêncio do acusado em seu prejuízo, em violação ao art. 478, II, do CPP, pois o Promotor de Justiça teria questionado aos  4  jurados "porque o réu não veio falar, tem algo a esconder  A vítima veio falar".
+Em suas contrarrazões, o representante do Órgão Ministerial postula que a fala não se deu nestes termos, que destacou a garantia constitucional do silêncio do réu e estava apenas mencionando o fato de que a vítima, mesmo com medo, depôs perante o plenário" (grifei).
+Assim, bem explicado no v. acórdão que o silêncio do acusado não foi utilizado em seu desfavor.
+Embora a irresignação defensiva, não se vislumbrou a utilização, seja de forma pejorativa em Plenário seja no decreto condenatório.
+Nos termos do pacífico entendimento desta eg. Corte Superior, o processo penal é regido pelo "princípio do pas de nullité sans grief e, por consectário, o reconhecimento de nulidade, ainda que absoluta, exige a demonstração do prejuízo (CPP, art. 563). Precedente" (HC 365.684/PB, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 20/9/2016).
+Novamente, o v. acórdão (fl. 27):
+"Assim, não se verifica a presença de indevida menção ao silêncio do acusado por ocasião de seu interrogatório, em prejuízo do réu ou em influência à imparcialidade dos jurados, de modo a configurar a apontada nulidade (..)" (grifei).
+Fato é que as alegações defensivas não justificam o reconhecimento da eventual nulidade, sem se demonstrar concretamente qualquer prejuízo."
+De fato, conforme jurisprudência deste Superior Tribunal, "Não podem ser processadosnesta Corte, concomitantemente, dois processos nos quais se constatalitispendência, instituto que se configura exatamente quando háigualdade de partes, de objeto e de causa de pedir. Em atenção aoprincípio da unirrecorribilidade das decisões, não é possível aimpetração de habeas corpus para tratar de máculas já suscitadas emrecurso especial. Precedentes."(AgRg no HC n. 492.527/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 19/02/2019).
+Nos termos do que consignado pelo d. representante do Ministério Público Federal, em seu parecer:
+"A hipótese é de inadmissibilidade.
+É que a insurgência ora deduzida é idêntica àquela que já foi apreciada por essa Quinta Turma, por meio Habeas Corpus nº 687712 - PR, julgado no dia 22.09.2021, como se lê da ementa do julgado:
+ ..
+Impõe-se, portanto, o reconhecimento da litispendência e, em consequência, o não conhecimento do recurso especial." (fls. 1.555-1.557, grifei)
+No mesmo sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DEPEDIDO FORMULADO EM AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte.
+2. No caso em exame, não obstante as causas de pedir expostas no recurso especial sejam mais amplas daquela formulada neste writ, opedido final de absolvição foram feitos em ambos processos, nãotendo a defesa trazido qualquer fato novo a ensejar o reexame poresta Corte do pleito deduzido no AREsp 608.198/SP.
+3. Hipótese em que a defesa pretende, ao impetrar este writ após ainterposição do agravo em recurso especial, a obtenção da mesmaprestação jurisdicional nas duas vias de impugnação, circunstânciaque caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais.
+4. Agravo regimental não provido." (AgRg no HC n. 476.445/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 19/02/2019).
+"AGRAVO REGIMENTAL. HABEAS CORPUS INDEFERIDO LIMINARMENTE. PEDIDODEDUZIDO EM ARESP ANTERIORMENTE JULGADO. REITERAÇÃO DE PEDIDOS.IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA.
+1. A causa de pedir e o pedido deste habeas corpus são idênticos aos do AREsp n. 1.764.720/RJ, interposto contra o mesmo acórdão e também atribuído a esta relatoria. Desse agravo se conheceu para não seconhecer do recurso especial. A decisão foi publicada e, não tendosido interposto recurso pelas partes, ocorreu o trânsito em julgadoe os autos baixaram ao Tribunal de origem.
+2. Apesar de o mencionado agravo em recurso especial ter sidoconhecido para não se conhecer do recurso especial, as matériasjurídicas suscitadas pela defesa foram devidamente analisadas nomomento do julgamento do recurso, o que revela a reiteração de pedido.
+3. Tratando-se de idênticos pedidos, sob exatamente os mesmosfundamentos, inexistem meios processuais diversos à discussãorediscussão da matéria, sob pena de afronta aos mais comezinhosprincípios constitucionais e processuais penais. Precedentes.
+4. Com efeito, " n ão prospera a tese de que a prejudicialidade daimpetração só ocorreria pelo total provimento do recurso especial,uma vez todos temas foram submetidos à apreciação desta Corte, com a efetiva prestação jurisdicional. Adotar entendimento diversoimplicaria novo julgamento da causa pela mesma instância. Não podem ser processados nesta Corte, concomitantemente, dois processos nos quais se constata litispendência, instituto que se configuraexatamente quando há igualdade de partes, de objeto e de causa depedir  .. " (AgRg no HC n. 492.527/SP, relator Ministro SEBASTIÃOREIS JÚNIOR, SEXTA TURMA, julgado em 17/11/2020, DJe 20/11/2020). "Hipótese em que a defesa pretende, ao impetrar este writ após a interposição do agravo em recurso especial, a obtenção da mesmaprestação jurisdicional nas duas vias de impugnação, circunstânciaque caracteriza ofensa ao princípio da unirrecorribilidade dasdecisões judiciais" (AgRg no HC n. 476.445/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/2/2019, DJe 19/2/2019).
+5. Agravo regimental desprovido."(AgRg no HC n. 642.167/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe 30/03/2021).
+Ante o exposto, nos termos do que preceitua o art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado orecurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSUALPENAL.RECURSO ESPECIAL. AGRAVO EM EXECUÇÃO PENAL. JULGAMENTO DO HC N. 687.712/PR. IDÊNTICOS PEDIDOS. PRETENSÕES DEDUZIDAS CONCOMITANTEMENTE EM HABEAS CORPUS E NO PRESENTE APELO NOBRE. PRESTAÇÃO JURISDICIONAL DEVIDAMENTE PRESTADA. PRINCÍPIO DA UNIRRECORRIBILIDADE. PARECER PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL, POR FALTA DE INTERESSE RECURSAL. RECURSO ESPECIAL PREJUDICADO.
