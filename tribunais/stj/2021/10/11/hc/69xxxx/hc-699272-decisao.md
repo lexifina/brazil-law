@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MATHEUS SILVA DOS SANTOScontra acórdão do Tribunal de Justiça do Estado do São Paulo.
+Consta dos autos que o paciente foi condenado a cumprir a pena de 5anos e 4meses de reclusão, tendo o Tribunal dado parcial provimento a apelação ministerial reformando o regimepara o fechado,por infração ao artigo 157, §2º, II, do Código Penal.
+Nesse mandamus, o impetrante sustenta que o regime foi estabelecido sem motivação concreta, considerando a fixação da pena-base no piso legal e o quantum de reprimenda a ele imposto.
+Aduz que não há fundamentação concreta para o agravamento do modo de cumprimento da pena.
+Pugna, assim, pelo restabelecimentodo meio prisional semiaberto.
+É o relatório.
+Decido.
+Esta Corte -HC 535.063, TerceiraSeção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, PrimeiraTurma, Rel. Min.Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, SegundaTurma, Rel. Min.Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No caso, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Está inscrito no acórdão impugnado:
+"Ainda que reconhecida a ausência de circunstâncias judiciais desfavoráveis aos apelados Caio e Mathews e que a pena tenha alcançado quantum inferior a oito anos de reclusão, o modelo prisional para o cumprimento da sanção corporal deve ser o regime fechado, tendo em vista as circunstâncias do fato concreto, praticado por, pelo menos cinco indivíduos, os quais subjugaram a vítima a entregar seu bem, perturbando-a moral e psicologicamente, demonstrando, com isso, comportamento antissocial, o que, por si só, justifica sejam a eles aplicadas reprimendas mais severas, provido, assim, o apelo ministerial" (e-STJ, fl. 446,grifou-se).
+Com efeito, os fundamentos mantidos pela Corte de origemnão podem ser tidos por genéricos e, portanto, constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), não havendo falar em violação da Súmula 440/STJ, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+Por certo, nada obstante o fato de a pena-base ter sido imposta no piso legal, o estabelecimento do regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na gravidade concreta do delito.De fato, considerando que o crime foi perpetradopor cincoagentes,que se aproveitaram da superioridade numérica, renderam avítima,descabe falar em fixação de meio prisional semiaberto,dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena.
+Em verdade, a aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Estatuto Repressor, desde que mediante fundamentação idônea.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DELITO DE ROUBO MAJORADO EM CONCURSO FORMAL. REGIME INICIAL PARA O CUMPRIMENTO DA PENA. GRAVIDADE CONCRETA DO CRIME. NÃO INCIDÊNCIA DA SÚMULA N. 440/STJ. JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA.
+1. Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravida abstrata do delito. (Súmula n.
+440 do STJ).
+2. Não obstante seja a primariedade e a inexistência de circunstâncias judiciais desfavoráveis, cabível a fixação do regime inicial mais gravoso com base na gravidade concreta do crime, praticado em concurso de vários agentes, com posse de diversas armas de fogo (revólveres e metralhadoras) e com restrição à liberdade das vítimas, que foram rendidas, amarradas e colocadas no vestiário da empresa, ali ficando até a manhã seguinte.
+3. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+4. Agravo regimental desprovido.
+(AgRg no HC 595.707/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 13/10/2020, DJe 20/10/2020).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. ARGUIÇÃO DE ILEGALIDADE NO REGIME INICIAL DE PENA. EXISTÊNCIA DE ELEMENTOS CONCRETOS A DETERMINAR A MAIOR GRAVIDADEDO DELITO. ELEMENTO APTO A JUSTIFICAR O REGIMEINICIAL MAIS GRAVOSO. ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE.
+1. Não constitui ofensa ao princípio da colegialidade a decisão monocrática do relator, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental. Precedentes 2. A estreita via do habeas corpus apenas admite a revisão da dosimetria da pena, e seus consectários, nas hipóteses de ofensa aos critérios legais ou flagrante desarrazoabilidade.
+3. Não há ilegalidade flagrante na hipótese vertente, porquanto, não obstante a tenha sido fixada no mínimolegal, a jurisprudência desta Corte admite a fixação de regime mais gravoso quando demonstrada a gravidade concreta do delito perpetrado, como na hipótese vertente, em que o roubo ocorreu mediante a invasão da residência das vítimas, que foram amarradas e ameaçadas com uma faca.4. Agravo regimental improvido"
+(AgRg no HC 563.481/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/08/2020, DJe 24/08/2020).
+Ante o exposto, não conheço do writ.
+Publique-se. Intimem-se.
