@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE GUARUJÁ, com base no art. 105, III,a ec, daConstituição Federal, visando a reforma do acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado (e-STJ, fl. 148):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - Concurso de credores - De acordo com o C. STJ, os créditos referentes a honorários advocatícios são equiparados aos trabalhistas para fins de reconhecimento da preferência no concurso de credores- Honorários advocatícios de sucumbência, portanto, que preferem ao crédito tributário Art. 85, § 14, do CPC - Precedentes desta Corte - Negado provimento.
+Nas razões do recurso especial, o recorrente alega violação aos arts.130, parágrafo único, 186 e 187 do CTN.
+Sustenta, em síntese, que é descabida a preferência do crédito de honorários advocatícios sucumbenciais em detrimento do crédito tributário.
+Sem contrarrazões.
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a esta Corte (e-STJ, fls. 192-194).
+Brevemente relatado, decido.
+Consoante análise dos autos, constata-se que a controvérsia se refere à discussão acerca da preferência dos créditos tributários em detrimento dos decorrentes de honorários advocatícios, cuja matéria é de competência da Primeira Seção e de suas respectivas Turmas, conforme o disposto no art. 9º, § 1º, IX, do Regimento Interno do Superior Tribunal de Justiça.
+Em casos semelhantes ao dos autos, as Turmas que compõem a Primeira Seção já se pronunciaram a respeito da matéria, como se colhe dos seguintes precedentes:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. NATUREZA JURÍDICA ALIMENTAR. EQUIPARAÇÃO A CRÉDITO TRABALHISTA. PREFERÊNCIA SOBRE O CRÉDITO TRIBUTÁRIO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto pela Prefeitura Municipal de Guarujá contra a decisão que, nos autos de cumprimento de sentença de débitos condominiais, reconheceu a preferência do crédito dos honorários de sucumbência e das despesas de condomínio ao crédito tributário. No Tribunal a quo, negou-se provimento ao recurso. Nesta Corte, conheceu-se do recurso especial para negar-lhe provimento.
+II - O acórdão recorrido encontra-se em consonância com a jurisprudência recente do STJ, no sentido de que os créditos referentes a honorários advocatícios são equiparados aos trabalhistas para fins de reconhecimento da preferência no concurso de credores, nos termos da ressalva contida no art. 186 do CTN.Nesse sentido, confiram-se: (REsp n. 1.812.770/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/9/2019, DJe de 14/10/2019 e REsp n. 1.133.530/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/6/2015, DJe 25/6/2015).
+III - Agravo interno improvido.
+(AgInt no REsp 1.869.435/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 19/10/2020, DJe 22/10/2020)
+PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO. ART. 1.022 DO CPC. HONORÁRIOS ADVOCATÍCIOS. NATUREZA JURÍDICA ALIMENTAR. EQUIPARAÇÃO A CRÉDITO TRABALHISTA. PREFERÊNCIA SOBRE O CRÉDITO TRIBUTÁRIO.
+1. Não se configurou a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. A Corte Especial, quando da apreciação do EREsp 1.351.256/PR, Rel. Ministro Mauro Cambpell Marques, DJe, 19.12.2014, ratificou o entendimento proferido no REsp 1.152.218/RS, Rel. Ministro Luis Felipe Salomão, julgado sob o rito dos Recursos Repetitivos, de que os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam-se aos trabalhistas para efeito de habilitação em falência.
+3. O STJ, ao analisar os Embargos de Declaração nos EREsp 1.351.256/PR, consignou que a "controvérsia a ser analisada diz respeito à classificação do crédito relativo a honorários advocatícios no concurso de credores em sede de execução fiscal". Dessa forma, não há mais dúvidas de que os honorários advocatícios estão incluídos na ressalva do art. 186 do CTN.
+4. Recurso Especial não provido.
+(REsp 1.800.273/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 11/4/2019, DJe 31/5/2019)
+TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. EXECUÇÃO FISCAL. HABILITAÇÃO. CRÉDITO DE NATUREZA ALIMENTAR. ART. 24 DA LEI N. 8.906/1994. EQUIPARAÇÃO A CRÉDITO TRABALHISTA. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL NO JULGAMENTO NOS EDCL NOS ERESP 1.351.256/PR.
+1. Os créditos resultantes de honorários advocatícios ostentam natureza alimentar e detêm privilégio geral em concurso de credores, equiparando-se ao crédito trabalhista, mesmo em sede de execução fiscal. Observância do entendimento firmado pela Corte Especial no julgamento dos EDcl nos EREsp 1.351.256/PR (Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 20/03/2015).
+2. Considerando-se aplicável à espécie o disposto no art. 186 do CTN, no sentido de que "o crédito tributário prefere a qualquer outro, seja qual for sua natureza ou o tempo de sua constituição, ressalvados os créditos decorrentes da legislação do trabalho ou do acidente de trabalho", impõe-se o reconhecimento da preferência do crédito decorrente de honorários advocatícios em face dos créditos tributários.
+3. Recurso especial a que se dá provimento.
+(REsp 1.133.530/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/06/2015, DJe 25/06/2015)
+Ante o exposto, determino sejam os autos encaminhados para redistribuição a um dos Ministros integrantes das Turmas da Primeira Seção.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PREFERÊNCIA DO CRÉDITO TRIBUTÁRIO. ART. 9º, § 1º, INCISO IX, DO RISTJ. MATÉRIA DA COMPETÊNCIA DA PRIMEIRA SEÇÃO. REDISTRIBUIÇÃO DO FEITO A UM DOS MINISTROS INTEGRANTES DAS TURMAS DA PRIMEIRA SEÇÃO.
