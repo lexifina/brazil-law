@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por BUNGE ALIMENTOS S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL TRANSPORTE RODOVIÁRIO DE MERCADORIAS TRANSPORTADORES AUTÔNOMOS AÇÃO DE COBRANÇA POR ATRASO NO DESCARREGAMENTO DAS MERCADORIAS SUPERIOR A 5 HORAS DIÁRIAS DEVIDAS SENTENÇA REFORMADA PRECEDENTES
+Quanto à controvérsia dos autos, apresentada pela alínea "a" do permissivo constitucional, alega violação da Lei Ordinária 11442, art. 11, § 1, no que concerne à cobrança indevida das estadias tendo em vista a ausência de comunicação da chegada da carga, trazendo os seguintes argumentos:
+13. O fato é que o Recorrido, por sua livre conveniência, realizou a entrega/descarregamento da mercadoria SEM O AGENDAMENTO PRÉVIO, para que esta verificasse a disponibilidade para recebimento da carga, sendo este fato totalmente incontroverso.
+14. Nesse diapasão, ao contrário do quanto mencionado no V. Acórdão atacado, a Lei Ng 11.442/07 é clara, senão vejamos:  .. .
+21. Assim, restando claro que a cobrança das estadias é indevida, havendo a clara afronta aos dispositivos infraconstitucionais apontados, as decisões deverão ser revistas. (fls. 123/124).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+A obrigação dos autor, que integra a Associação Nacional dos Caminhoneiros, era de levar a soja até a demandada, como efetivamente o fez, conforme prova carreada aos autos.
+Saliento que, além da mercadoria ter sido entregue dentro do prazo acordado e que era dever da requerida estar preparada para receber a soja, sendo de todo dissociado do contexto a alegação desta de que, entre ela, ré, e a fornecedora da soja houve pacto particular de agendamento para entrega do produto, o qual não é oponível ao autor.
+Na espécie, ainda que em regra, os transportadores, não participam do contrato de compra e venda, não podendo ser opostos a eles os termos, sob pena de ferir o princípio da relatividade dos contratos, efetivamente, o autor, motorista e transportador cumpriu com seu encargo.
+A mercadoria foi entregue, tempestivamente, no local determinado pela ré, qual seja, nas instalações da destinatária, em Rio Grande/RS. Contudo, o descarregamento somente foi finalizado tempo bem superior após a chegada da carga. (fls. 109, grifo nosso).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
