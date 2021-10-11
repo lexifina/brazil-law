@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALEXANDRE JOSÉ MARINHO, em face da decisão de fls. 808-814, e-STJ, da lavra deste signatário, a qual deu parcial provimento ao recurso especial manejado pela ora agravada.
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 615-644, e-STJ):
+APELAÇÃO -OBRIGAÇÃO DE FAZER C/C REPETIÇÃO DE INDÉBITO - PLANO DE SAÚDE COLETIVO -REAJUSTE DE MENSALIDADE - AUMENTO DA SINISTRALIDADE - RISCO AO EQUILÍBRIO ECONÔMICO FINANCEIRO - LICITUDE. O reajuste das mensalidades de plano de saúde deve ser realizado em patamar razoável, pois se tratando de relação de consumo consideram-se nulas as cláusulas contratuais que estabeleçam obrigações iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou que sejam incompatíveis com a boa-fé ou a equidade. Não havendo comprovação de má-fé, a repetição de pagamento indevido deve ser feito na forma simples. VV. É lícito o reajuste de mensalidade de plano de saúde coletivo, visando o equilíbrio financeiro atuarial, desde que a operadora demonstre o respectivo e proporcional incremento da utilização por parte dos usuários.
+Opostos embargos de declaração (fls. 647-656 e 669-678, e-STJ), esses foram rejeitados (fls. 660-666 e 680-687, e-STJ).
+Nas razões do recurso especial (fls. 690-710, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação aos seguintes artigos:
+(i) 16, XI, da Lei 9656/98, na medida em que é inviável a utilização dos percentuais de reajuste delimitados pela ANS no caso em tela;
+(ii) 6o, 51 e 54 do CDC, já que não há abusividade no reajuste por sinistralidade;
+Contrarrazões às fls. 723-731, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que deu ensejo a agravo.
+Em desfavor de tal decisão foi oposto agravo.
+Às fls. 781-785, e-STJ, este signatário negou provimento ao apelo, com fundamento nas Súmulas 5 e 7 do STJ.
+Interposto recurso de agravo interno (fls. 788-796, e-STJ), este signatário exerceu juízo de retratação, e, às fls. 808-814, e-STJ, deu parcial provimento ao recurso especial apresentado pela operadora de planos de saúde.
+Opostos embargos de declaração (fls. 816-820, e-STJ), foram rejeitados (fls. 835-841, e-STJ).
+Irresignado, o sucumbente maneja o presente agravo interno (fls. 843-856, e-STJ), no qual sustentam, em suma, a incorreção do decisum atacado.
+Impugnação às fls. 861-872, e-STJ.
+Às fls. 874-876, e-STJ, indeferiu-se o pedido de concessão de efeito suspensivo formulado no agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO APELO .
+INSURGÊNCIA RECURSAL DOS REQUERENTES.
+1. A análise do recurso especial não esbarra nos óbices previstos nas Súmulas 5 e 7, do STJ, na medida em que avaliar a licitude, em abstrato, do uso de critérios de sinistralidade para a fundamentação de reajustes em contratos de plano de saúde constitui questão eminentemente jurídica, cuja apreciação não demanda revolvimento de matéria probatória.
+2. De acordo com a jurisprudência desta Corte, não é abusiva, por si só, a previsão contratual que prevê reajustes em contratos de planos de saúde com base em critérios de sinistralidade. Precedentes
+2.1. Hipótese em que a Corte local, em abstrato, reputou inviável a fixação de reajuste contratual com base em critérios de sinistralidade.
+2.2. Necessário retorno dos autos ao Tribunal a quo para que, fixada a premissa de licitude da cláusula contratual que prevê a existência de reajustes com base na sinistralidade do grupo segurado, seja reavaliada, no caso concreto, se as majorações aplicadas no curso da relação contratual teriam natureza abusiva.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, na medida em que os argumentos apresentados pela parte não infirmam a decisão atacada.
+1. Inicialmente, contudo, cumpre refutar a alegada incidência das Súmulas 5 e 7 do STJ à questão em debate.
+Diferentemente do que aduz a ora agravante, o debate acerca da possibilidade de imposição de reajustes com base em critérios de sinistralidade - questão efetivamente debatida nos presente autos - constitui matéria exclusivamente jurídica, ligada à melhor interpretação dos artigos 16, XI, da Lei 9656/98, e 6o, 51 e 54 do CDC, dentre outros.
+Destaque-se, por oportuno, que segundo a jurisprudência desta Corte, não há incidência dos óbices ora tratados nas hipóteses em que, a análise da pretensão exige tão somente a revaloração jurídica das circunstâncias fático-probatórias contidas nos autos.
+Sobre o tema, citam-se os seguintes precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. REVALORAÇÃO JURÍDICA. INEXISTÊNCIA DO ÓBICE PREVISTO NA SÚMULA 7, DO STJ. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL IMOTIVADA. FORNECIMENTO DE PLANO INDIVIDUAL. NÃO COMERCIALIZAÇÃO. IMPOSSIBILIDADE. PRECEDENTES.
+(..)
+2. Nos termos da jurisprudência já consolidada desta Corte, a análise do recurso especial não esbarra no óbice previsto na Súmula 7, do STJ, quando se exige somente a revaloração jurídica das circunstâncias fático-probatórias contidas nos autos.
+(..)
+(AgInt no AREsp 1684459/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/06/2021, DJe 17/06/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSOLUÇÃO DE SOCIEDADE EMPRESARIAL. APURAÇÃO DE HAVERES. EXECUÇÃO. PENHORA DE VALORES DEPOSITADOS EM CONTA-CORRENTE E CONTA-POUPANÇA. IMPENHORABILIDADE DE QUANTIA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. PERDA DO OBJETO DO RECURSO EXCEPCIONAL. INOVAÇÃO RECURSAL. REVALORAÇÃO JURÍDICA DOS FATOS. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Segundo entendimento jurisprudencial deste Tribunal Superior, é possível a revaloração dos fatos reconhecidos pelas instâncias ordinárias, pois essa requalificação jurídica consiste apenas em atribuir o devido valor jurídico a matéria fática incontroversa (REsp 1.766.261/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 18/05/2021, DJe 24/05/2021). 4. Agravo interno desprovido. (AgInt no AREsp 1826475/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/06/2021, DJe 25/06/2021)
+Logo, de fato, inaplicáveis ao caso os enunciados das Súmulas 5 e 7 do STJ.
+2. No que toca à questão de fundo, melhor razão não assiste à insurgente.
+Com efeito, conforme disposto na decisão agravada, segundo a jurisprudência desta Corte, é lícita a fixação de reajustes com base em critérios de sinistralidade, em contratos de plano de saúde.
+Eventual abusividade do reajuste deve ser aferida a partir da análise do caso concreto, a partir da eventual compatibilidade das majorações com os índices de utilização do serviço médico observados, bem como sob o aspecto do direito do consumidor à clara informação acerca dos termos do contrato. Precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE POR AUMENTO DE FAIXA ETÁRIA. POSSIBILIDADE.
+REDIMENSIONAMENTO DE ACORDO COM A VARIAÇÃO DA SINISTRALIDADE. ÓBICE DA SÚMULA 7/STJ. NÃO OCORRÊNCIA. CÁLCULO REALIZADO EM FASE DE CUMPRIMENTO DE SENTENÇA. PRECEDENTES. VIOLAÇÃO DO DEVER DE INFORMAÇÃO CLARA E PRECISA. REVISÃO DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. NÃO PROVIMENTO.
+1. A manutenção da decisão recorrida não esbarra no óbice da Súmula 7/STJ, tendo em vista a determinação de que o reajuste a ser aplicado deverá ser apurado na fase de cumprimento de sentença. 2. É "possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel.
+Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2015, DJe de 10/6/2015).
+3. Nos termos da jurisprudência consolidada deste Superior Tribunal de Justiça, são validos os reajustes em razão da mudança de faixa etária, desde que atendidas as seguintes condições: a) previsão no instrumento negocial; b) respeito aos limites e demais requisitos estabelecidos na Lei Federal n. 9.656/98; e c) observância do princípio da boa-fé objetiva, que veda índices de reajuste desarrazoados ou aleatórios, que onerem em demasia o segurado. (REsp 1280211/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 23/4/2014, DJe 4/9/2014).
+4. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e matéria fática da lide, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1756524/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/06/2019, DJe 01/07/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO/EMPRESARIAL. REAJUSTE DECORRENTE DE SINISTRALIDADE.
+CLÁUSULA EXPRESSA NO CONTRATO. INEXISTÊNCIA DE ABUSIVIDADE.
+INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DISSÍDIO NÃO DEMONSTRADO.
+AGRAVO INTERNO IMPROVIDO.
+1. A violação do art. 1.022 do CPC/2015 não merece conhecimento, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+2. A jurisprudência do STJ entende que é possível o reajuste de contratos coletivos de saúde, em face do implemento de idade, quando a mensalidade mostrar-se irrisória diante da variação de custos ou do aumento de sinistralidade (AgInt no AREsp 894.701/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/4/2018, DJe 16/4/2018). No caso, o Tribunal de origem assinalou que os segurados, ora agravantes, fazem parte de um contrato coletivo empresarial, em que o índice de sinistralidade foi expressamente contratado como fator de revisão das mensalidades, ressaltando, ainda, que o reajuste aplicado não apresenta onerosidade excessiva. Nesse contexto, a alteração das conclusões do acórdão recorrido demandaria o necessário reexame de fatos, provas, e cláusulas contratuais, o que é vedado em recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ.
+3. O dissídio jurisprudencial não foi demonstrado nos moldes legais, visto que os recorrentes não apontaram o dispositivo cuja interpretação tenha sido divergente a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal. Além disso, consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no AREsp 1375878/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/05/2019, DJe 24/05/2019)
+AGRAVO INTERNO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA RECURSAL DOS REQUERENTES.
+1. De acordo com a jurisprudência desta Corte, não é abusiva, por si só, a previsão contratual que prevê reajustes em contratos de planos de saúde com base em critérios de sinistralidade. Precedentes.
+1.1. No caso em tela, o Tribunal local, atento ao entendimento jurisprudencial supracitado, assentou que o reajuste aplicado em 2014, seria abusivo. Apontou, ademais, ser impossível a análise da abusividade de reajustes futuros, na medida em que, para tanto, seria necessária a apreciação das particularidades da causa. Logo, sua revisão esbarra no óbice contido nas Súmulas 5 e 7 do STJ.
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp 1725797/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MENSALIDADES. REAJUSTE. AUMENTO DA SINISTRALIDADE. ABUSIVIDADE DECLARADA. ÍNDICES DA ANS E INDEXADORES DE INFLAÇÃO. IMPOSSIBILIDADE. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A majoração das mensalidades do plano de saúde em virtude da sinistralidade é possível, a partir de estudos técnico-atuariais, para buscar a preservação da situação financeira da operadora. O reajuste não pode, no entanto, ser declarado abusivo apenas com base nos índices de majoração anuais divulgados pela ANS e nos indexadores que medem a inflação, sob pena de ferir o equilíbrio atuarial do plano.
+3. Agravo interno não provido.
+(AgInt no REsp 1852390/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/09/2020, DJe 28/09/2020)
+No caso em tela, diferentemente do que aduz o insurgente em sede de agravo interno, a análise do caso não seguiu tais parâmetros judiciais, na medida em que o Tribunal local assentou que o critério de sinistralidade, por si só, não poderia fundamentar o reajuste, porquanto constituiria prática que colocaria em posição desvantajosa o consumidor. Não houve, pois, a análise em concreto propugnada pela jurisprudência desta Corte. Veja-se (fls. 623-634, e-STJ):
+Os mesmos autores fornecem três linhas argumentativas contrárias à adoção do reajuste por sinistralidade: (i) uma de ordem formal, intimamente ligada ao princípio da transparência, que orienta as relações de consumo; (ii) outra de aspecto material, pela eliminação de um dos traços essenciais a todo contrato de seguro, de que a assistência à saúde é umaespécie; e (iii) uma de cunho moral, dados os deveres de cooperação e solidariedade, exigidos em todo contrato relacional. Vejamos:
+(..)
+Os renomados autores, concluem, de forma categórica:
+"(..)
+Nesse diapasão, a relação estabelecida entre o beneficiário e a operadora de plano de saúde faz deste um contrato tipicamente relacional. Com efeito, assevera Claudia Lima Marques que a execução do contrato de plano de saúde envolve uma complexa e contínua relação entre o beneficiário e a operadora, sendo certo que a própria operacionalização dos serviços oferecidos exige o desenvolvimento de uma relação jurídica baseada no convívio reiterado e na confiança. Ademais, em virtude do bem da vida transacionado, o plano de saúde gera, no decorrer dos anos, uma situação não apenas de catividade, mas também de dependência do consumidor. Não são raras as situações em que os beneficiários, especialmente os idosos, comprometem grande parte de sua renda para pagar o plano de saúde. Ora, não se pode admitir nesse tipo de contratação que uma das partes dote uma postura puramente egoística ou que atue apenas para instrumentalizar os seus interesses econômicos. E, como decorrência lógica, qualquer cláusula contratual que tenha inspiração meramente individualista contraria a essência do próprio contrato de plano de saúde. Conforme o exposto, o reajuste por sinistralidade, ao vincular o valor da contraprestação devida pelo consumidor à intensidade da utilização dos serviços disponibilizados pela operadora, acarreta verdadeira transferência de riscos que é incompatível com os deveres de solidariedadee reciprocidade que caracterizam o plano de saúde. Trata-se de cláusula contratual que visa apenas a garantia dos interesses econômicos da operadora justamente no momento em que o consumidor está mais vulnerável, ou seja, quando houve efetiva necessidade do serviço disponibilizado pela operadora. (grifo nosso) (ob. cit., p. 243-244)"
+E o mesmo raciocínio é válido para argumentos semelhantes usualmente utilizados em feitos como este, tal como a redução de número de usuários.
+Assim, na hipótese controvertida, a atuação da operadora de planos de saúde se mostra totalmente desvinculada dos preconizados preceitos da boa-fé objetiva, e dos deveres de solidariedade e reciprocidade, inerentes ao contrato em voga, bem como se afigura especialmente egoísta, frente à gama de consumidores que compõe a carteira do plano que é objeto da lide.
+Com efeito, deve-se observar o princípio da boa-fé objetiva que tem por escopo preservar as legítimas expectativas dos contratantes, exigindo deles condutas pautadas na honestidade e lealdade. A segurança dos contratantes está no fato de ser tido como antijurídico qualquer conduta que gere vantagem injustificável e onerosidade excessiva para uma das partes, capaz de frustrar a satisfação dos interesses legítimos.
+(..)
+A alteração acentuada das condições de contrato cativo, de longa duração, no curso da execução do contrato, se constitui em abuso de direito e coloca o consumidor em posição extremamente desvantajosa. Essa particularidade foi objeto de aprofundada reflexão na VI Jornada de Direito Civil, e ensejou a edição do Enunciado nº 543, com a seguinte redação:
+(..)
+Nesse diapasão, muito embora seja válido o reajuste anual do plano de saúde, a forma como efetivado nos autos torna indene de dúvidas a abusividade do reajuste, gerando margem de discricionariedade ao fornecedor a lhe permitir benefício elevado em detrimento do consumidor, configurando verdadeira cláusula-barreira para que o consumidor continue utilizando os serviços de assistência médica prestados pela fornecedora.
+Nesse contexto, de rigor a manutenção da decisão agravada, a qual deu parcial provimento ao recurso da operadora, no sentido de determinar o retorno dos autos ao Tribunal de origem, para que este, afastada a premissa de abusividade em abstrato da cláusula de reajuste por sinistralidade, aprecie o reajuste ora questionado à luz da jurisprudência desta Corte.
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
