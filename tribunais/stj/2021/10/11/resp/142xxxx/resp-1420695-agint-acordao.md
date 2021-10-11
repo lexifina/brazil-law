@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto pelaUniãodesafiando decisão que negou seguimento ao recursoespecial, sob o fundamento de que é inafastável o óbice da Súmula 343/STF na espécie, porque à época da prolação do acórdão rescindendo era divergente, no âmbito deste Tribunal Superior, a jurisprudênciasobre a possibilidade de cobrança de laudêmio pela transferência da detenção de terreno de marinha irregularmente ocupado.
+Inconformada, a parte agravante sustenta que, "desde o final de 2010 e o início de 2011, época do acórdão rescindendo, a jurisprudência dessa Corte Superior já tinha se firmado entendimento no sentido de que o laudêmio é exigido para a transferência do imóvel e benfeitorias, ainda que em regime de ocupação, nos termos do art. 3º do Decreto-Lei 2.398/1987" (fl. 367), de forma que oóbice da Súmula 343/STF deveria ser afastado.
+O recurso foi impugnado às fls. 372/373.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. TERRENO DE MARINHA. REGIME DE OCUPAÇÃO.ACÓRDÃO RESCINDENDOQUE JULGOU INDEVIDA A COBRANÇA DE LAUDÊMIO.MATÉRIA CONTROVERTIDA À ÉPOCA DA PROLAÇÃO. SÚMULA 343 DO STF. APLICAÇÃO.
+1."A data relevante para se aferir se o acórdão rescindendo é passível de rescisão, em face do óbice da Súmula 343/STF, é a data em que foi ele prolatado e não a do respectivo trânsito em julgado, que pode ter sido bastante posterior, em função de recurso julgado insusceptível de conhecimento." (AgInt no AgInt no AREsp 1.534.370/RS, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 23/4/2021).
+2.À época da prolação do acórdãorescindendo, nãoera pacífica a jurisprudência das Turmas que compõem a Primeira Seção desta Corte a respeito da possibilidade de cobrança de laudêmio, em caso de transferência onerosa de terreno de marinha irregularmente ocupado.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): O inconformismo não mereceprosperar.
+De início, cumpre asseverar que "A data relevante para se aferir se o acórdão rescindendo é passível de rescisão, em face do óbice da Súmula 343/STF, é a data em que foi ele prolatado e não a do respectivo trânsito em julgado, que pode ter sido bastante posterior, em função de recurso julgado insusceptível de conhecimento." (AgInt no AgInt no AREsp 1.534.370/RS, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 23/4/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. APLICABILIDADE DO CPC/2015. DIVERGÊNCIA QUANTO AO ÍNDICE DE CORREÇÃO MONETÁRIA. INTERPRETAÇÃO CONTROVERTIDA NO ÂMBITO DOS TRIBUNAIS. INCIDÊNCIA DA SÚMULA 343 DO STF.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado 3 do Plenário do STJ).
+2. À época do julgado rescindendo, havia divergência de entendimentos nos tribunais quanto ao índice oficial de correção monetária. A adoção de uma dentre as interpretações possíveis não é suficiente para justificar a procedência da ação rescisória.
+3. Incide à situação em análise o disposto no enunciado n. 343 da Súmula do STF a qual dispõe que "não cabe ação rescisória por ofensa a literal dispositivo de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+4. A aplicabilidade da Súmula 343 do STF foi ratificada pelo Pretório Excelso, no RE 590.809/RS, inclusive quando a controvérsia de entendimentos basear-se na aplicação de norma constitucional.
+Precedente.
+5. "A data relevante para se aferir se o acórdão rescindendo é passível de rescisão, em face do óbice da Súmula 343/STF, é a data em que foi ele prolatado e não a do respectivo trânsito em julgado, que pode ter sido bastante posterior, em função de recurso julgado insusceptível de conhecimento."AgInt no AgInt no AREsp 1.534.370/RS, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 23/4/2021.
+6. Agravo interno não provido.
+(AgInt no REsp 1.905.862/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 07/06/2021, DJe 10/06/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - SÚMULA N.º 343/STJ - INCIDÊNCIA DO ENUNCIADO DA SÚMULA N.º 168/STJ - DELIBERAÇÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA.INSURGÊNCIA DA EMBARGANTE.
+1. Nos moldes do enunciado da Súmula n.º 168/STJ, "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+1.1. É incabível o ajuizamento de ação rescisória com fundamento em violação legal, quando havia divergência jurisprudencial a respeito da interpretação da referida legislação no momento de prolação do referido decisum, nos estritos limites da Súmula n.º 343/STF.Precedentes: AgInt nos EREsp 1717140/RS, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 14/08/2019, DJe 27/08/2019; AgInt no AREsp 1229778/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/05/2018, DJe 21/05/2018; AgRg no REsp 1038564/SC, Rel.Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/03/2013, DJe 22/03/2013; AgInt no REsp 1703626/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/02/2019, DJe 20/02/2019; AgInt nos EAREsp 1404784/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 05/05/2020, DJe 08/05/2020
+2. Agravo interno desprovido.
+(AgInt nos EDv nos EAREsp 1.363.955/RS, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020)
+No caso concreto, como acertadamente apontou a União, a decisão agravada equivocou-se ao apontar que o acórdão rescindendo teria sido prolatado em 2007, porém a data que indicou nãoé a correta ("proferido no final de 2010 e transitou em julgado em 2011" - fl. 365), pois, no acórdão recorrido, consignou-se à fl. 220 que "à época em que proferido o r. acórdão rescindendo, em junho de 2010".
+Pois bem, firmada a data em que o acórdão rescindendo foi prolatado, observa-se que nestelapso temporala jurisprudência doSTJ acerca da matéria era divergente. Para ilustrar, sobressaem os seguintes julgados:
+ADMINISTRATIVO. TERRENO DA MARINHA. LAUDÊMIO. ENFITEUSE. NÃO OCORRÊNCIA. DECRETO-LEI 2.398/87. NÃO PAGAMENTO. MERA OCUPAÇÃO.RECURSO NÃO PROVIDO.
+1. A enfiteuse ou aforamento, modalidade de direito real sobre coisa alheia, consiste na divisão do domínio em direto, exercido pelo proprietário ou senhorio, e útil, transmitido ao enfiteuta ou foreiro, que fica obrigado ao pagamento de uma pensão anual ou foro.
+2. Tratando-se de direito real de caráter perpétuo, o domínio útil é passível de transação onerosa, hipótese em que, caso não seja exercido o direito de opção pelo senhorio direto, será devido pelo enfiteuta o pagamento do laudêmio.
+3. O art. 3º do Decreto-Lei 2.398/87 dispõe que o pagamento de laudêmio sobre terreno da União, correspondente a 5% do valor atualizado do domínio pleno e das benfeitorias nele realizadas, somente é devido na hipótese de constituição de enfiteuse.
+4. Não tendo havido na hipótese dos autos a enfiteuse, mas a mera ocupação de terreno da Marinha, conforme restou destacado pelas instâncias ordinárias, não há como submeter a alienação do imóvel ao prévio pagamento de laudêmio. Precedente do STJ.
+5. Recurso especial não provido.
+(REsp 1.128.194/SC, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 02/09/2010, DJe 22/09/2010)
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC.
+INOCORRÊNCIA. BENS PÚBLICOS. LAUDÊMIO. MERA TOLERÂNCIA. OCUPAÇÃO DE TERRENO DE MARINHA. INEXISTÊNCIA DE DESDOBRAMENTO DA POSSE, DE CONTRATO OU DE TRANSFERÊNCIA DO DOMÍNIO ÚTIL A TÍTULO ONEROSO.NÃO-CABIMENTO DE LAUDÊMIO.
+1. Os órgãos julgadores não estão obrigados a examinar todas as teses levantadas pelo jurisdicionado durante um processo judicial, bastando que as decisões proferidas estejam devida e coerentemente fundamentadas, em obediência ao que determina o art. 93, inc. IX, da Lei Maior. Isso não caracteriza ofensa ao art. 535 do CPC.
+2. Pacífico nesta Corte Superior o entendimento segundo qual, em caso de ocupação irregular de terreno de marinha por mera tolerância da União, é incabível a cobrança de laudêmio pela transferência da detenção. Precedente: REsp 926.956/RS, Rel. Min. Humberto Martins, Segunda Turma, DJe 17.12.2009.
+3. Recurso especial provido.
+(REsp 1.108.953/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/08/2010, DJe 10/09/2010)
+Ademais, é absolutamente irrelevante o fato de oREsp 1.128.194/SC(Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 2/9/2010, DJe 22/9/2010) ter sido reformado em sede de embargos de declaração(EDcl no REsp 1.128.194/SC, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 15/2/2011, DJe 25/2/2011), porque o cerne da questão é a verificação dadivergência jurisprudencial quando da prolação do acórdão rescindendo, em junho de 2010, conforme restou demonstrado pelas ementas acima transcritas.
+Em situação semelhante, esta Primeira Turma decidiu:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. TERRENO DE MARINHA. REGIME DE OCUPAÇÃO. LAUDÊMIO.COBRANÇA. DECISÃO RESCINDENDA. EXIGÊNCIA INDEVIDA NO REGIME DE OCUPAÇÃO. MATÉRIA CONTROVERTIDA À ÉPOCA. SÚMULA 343 DO STF.APLICAÇÃO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A admissão de ação rescisória ajuizada com fulcro no art. 485, V, do CPC/1973 pressupõe a demonstração clara e inequívoca de que a decisão de mérito impugnada tenha contrariado a literalidade do dispositivo legal suscitado, atribuindo-lhe interpretação jurídica absolutamente insustentável.
+3. Em razão dessa premissa normativa, tem-se que a adoção, pela decisão rescindenda, de tese jurídica razoável, ainda que não fosse a melhor, não enseja a desconstituição da coisa julgada, mormente se fundada em disposição legal de interpretação controvertida nos tribunais, consoante inteligência da Súmula 343 do STF.
+4. Hipótese em que ação rescisória foi ajuizada, com fulcro no art. 485, V, do Código de Processo Civil, com o escopo de desconstituir acórdão que, amparado em texto legal de interpretação controvertida nos tribunais, in casu, o art. 3º do Decreto-Lei n. 2.398/1987, entendeu que em caso de ocupação irregular de terreno de marinha por mera tolerância da União, é incabível a cobrança de laudêmio pela transferência da detenção.
+5. Não é possível concluir, no caso, que a decisão rescindenda seja flagrantemente ilegal ou tenha contrariado a jurisprudência desta Corte Superior à época em que proferida, impondo-se a aplicação da Súmula 343 do STF.
+6. Agravo interno desprovido.
+(AgInt no REsp 1.398.070/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 05/06/2018, DJe 13/08/2018)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
