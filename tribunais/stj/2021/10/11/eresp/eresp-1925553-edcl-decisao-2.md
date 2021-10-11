@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Kirton Bank S.A. - Banco Múltiploà decisão monocrática de fls. 308-312 (e-STJ), na qual esta relatoria deu parcial provimento ao seu agravo interno para, em juízo de reconsideração, negar provimentoao recurso especial interposto pela ora embargada.
+O julgado está assim ementado (e-STJ, fl. 308):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. 1. NULIDADE LEVANTADA NAS CONTRARRAZÕES. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. QUESTÃO DE ORDEM PÚBLICA. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. 2. PEQUENA PROPRIEDADE RURAL. EXPLORAÇÃO FAMILIAR. ÔNUS DA PROVA DO DEVEDOR. PRECEDENTES DA TERCEIRA TURMA. 3. AGRAVO INTERNO PROVIDO EM PARTE PARA, EM JUÍZO DE RECONSIDERAÇÃO, NEGAR PROVIMENTO AO RECURSO INTERPOSTO POR TANIA MARA BORDIGNON.
+Em suas razões recursais (e-STJ, fls. 314-335), defende oembargante a existência de omissão com relação à readequação daverba honorária sucumbencial.
+Impugnação às fls. 343-346 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo apenas cabíveis nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Na hipótese dos autos, oinsurgente alegaque se busca"a inversão ou minimamente a readequação da verba sucumbencial, para que seja fixada em observância ao juízo de equidade, utilizando-se outro parâmetro que não seja o valor atualizado da causa; ou para que seja redistribuído o ônus proporcionalmente entre as partes (5% para cada); ou, ainda, para que seja fixado em valor compatível com o com o trabalho desempenhado pelos patronos das partes e em observância aos Princípios norteadores da Causalidade, Razoabilidade e Proporcionalidade" (e-STJ, fl. 315).
+Não há omissão no julgado, visto que não houve alteração do acórdão recorrido quando do julgamento do recurso especial interposto pela ora embargada, motivo pelo qual não há falar em readequação dos honorários advocatícios sucumbenciais.
+Cumpre destacar, ademais, que a questão da modificação da base de cálculo dos honorários advocatícios não foi objeto de discussão na instância ordinária,tampouco foram opostos embargos de declaração a fim de suscitar sua discussão, de forma que não houve o devido prequestionamento da matéria, o que constituiria em indevida supressão recursal a sua análise por esta Corte.
+Diante do exposto, rejeitos os embargos de declaração opostos por Kirton Bank S.A. - BancoMúltiplo.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. READEQUAÇÃO.INVIABILIDADE. BASE DE CÁLCULO. FALTA DE PREQUESTIONAMENTO. EMBARGOS OPOSTOS PORKIRTON BANK S.A. - BANCO MÚLTIPLOREJEITADOS.
