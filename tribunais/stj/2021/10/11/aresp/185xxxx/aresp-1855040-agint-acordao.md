@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por MUNICÍPIO DE SOROCABA contra decisão de minha lavra, proferida com a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO RAZOÁVEL. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. AGRAVO DO MUNICÍPIO DESPROVIDO.
+2. Inconformado, o recorrente sustenta que o exame da suposta exorbitância dos honorários sucumbenciais não demandaria o revolvimento de matéria fático-probatória, não incidindo o óbice da Súmula 7/STJ.
+3. Decorrido o prazo legal, não foi apresentada impugnação.
+4. É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO RAZOÁVEL. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO NO AGRAVO DO MUNICÍPIO DESPROVIDO.
+1. Nos termos do art. 85, § 11, do CPC/2015, nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º, o qual estabelece os seguintes critérios: I - o grau de zelo do profissional; II - o lugar de prestação do serviço; III - a natureza e a importância da causa; IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+2. Na hipótese, o pedido principal da exordial tem natureza imaterial, consistente na declaração de nulidade de disposições contidas em resolução da ANVISA.
+3. Nesses casos, a revisão da condenação estipulada para os honorários sucumbenciais somente é possível quando verificada a irrisoriedade ou a exorbitância dos valores fixados, o que não se observa na hipótese em apreço, sob pena de incidência da Súmula 7/STJ.
+4. Agravo Interno desprovido.
+VOTO
+1. Não merece reforma a decisão agravada.
+2. Nos termos do art. 85, § 11, do CPC/2015,nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º, o qual estabelece os seguintes critérios: I - o grau de zelo do profissional; II - o lugar de prestação do serviço; III - a natureza e a importância da causa; IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+3. Na hipótese, o pedido principal da exordial tem natureza imaterial, consistente na declaração de nulidade de disposições contidas em resolução da ANVISA.
+4. Nesses casos, a revisão da condenação estipulada para os honorários sucumbenciais somente é possível quando verificada a irrisoriedade ou a exorbitância dos valores fixados, o que não se observa na hipótese em apreço, sob pena de incidência da Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS DE SUCUMBÊNCIA. DEFENSORIA PÚBLICA INTEGRANTE DE ENTE FEDERATIVO DIVERSO. CABIMENTO. RECURSO ESPECIAL REPETITIVO 1.108.013/RJ. CRITÉRIOS LEGAIS DE FIXAÇÃO DA VERBA HONORÁRIA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+(..).
+2. A jurisprudência desta Corte Superior é no sentido de que, em regra, não é admitida a revisão de honorários advocatícios na via especial ante o óbice contido na Súmula 7/STJ, salvo se o valor fixado for exorbitante ou irrisório, excepcionalidade essa não configurada nos presentes autos.
+3. Agravo interno não provido.(AgInt no REsp 1786806/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 12/08/2019, DJe 14/08/2019).
+PROCESSUAL CIVIL. CIVIL. FORNECIMENTO DE PRÓTESE. HONORÁRIOS ADVOCATÍCIOS. ALTERAÇÃO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+(..).
+V - Com relação à questão, a jurisprudência do STJ se consolidou no sentido de que a revisão dos honorários advocatícios, via de regra, encontra óbice na Súmula n. 7/STJ, sendo que tal entendimento, excepcionalmente, pode ser mitigado diante da irrisoriedade ou da exorbitância do valor arbitrado nas instâncias ordinárias.
+VI - Para a hipótese dos autos, o arbitramento da verba honorária em R$ 2.000,00 (dois mil reais) não se mostra irrisória a ponto de macular o art. 85 do CPC/2015, consoante se verifica dos seguintes julgados: (AgInt no REsp n. 1.763.983 / AL, Relator Ministro Benedito Gonçalves, Primeira Turma, julgamento em 23/9/2019, DJe 25/9/2019 e REsp n. 1.799.626 / GO, Relator Ministro Herman Benjamin, Segunda Turma, julgamento em 9/4/2019, DJe 22/5/2019).
+VII - Ademais, ainda que que se pudesse afastar o óbice do Enunciado Sumular n. 7/STJ, é forçoso destacar que, nas ações em que se busca o fornecimento de medicação gratuita e de forma contínua pelo Estado, para fins de tratamento de saúde, esta Corte Superior tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, tendo em vista que o proveito econômico obtido, em regra, é inestimável (AgInt no AREsp n. 1.234.388/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 4/12/2018, DJe 5/2/2019). Confiram-se os julgados sobre a questão: (AgInt no AREsp n. 1.490.947 / SP, Relator Ministro Sérgio Kukina, Primeira Turma, julgamento em 3/12/2019, DJe 9/12/2019 e REsp n. 1.799.841 / SP, Relator Ministro Herman Benjamin, Segunda Turma, julgamento em 14/5/2019, DJe 2/8/2019).
+VIII - Agravo interno improvido.(AgInt no AREsp 1613105/MS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 28/09/2020, DJe 30/09/2020).
+5. Ante o exposto, nega-se provimento ao Agravo Interno.
+6. É como voto.
