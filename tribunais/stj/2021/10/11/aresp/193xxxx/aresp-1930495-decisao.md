@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especialinterposto em face de decisão que inadmitiu o recurso especial.
+Alega o agravante violação dos arts. 33 e59 do CP e dissídio jurisprudencial.
+Sustenta que a pena-base foi exasperada com base em ações penais em andamento e o regime foi fixado com fundamento na gravidade abstrata do delito e periculosidade presumida do agente em razão dos processos em andamento em seu desfavor.
+Requer o provimento do recurso.
+Contrarrazoado e inadmitido na origem,manifestou-se o MPF peloprovimento do recurso.
+O Tribunal de Justiça apreciou as questões ora deduzidas medianteos seguintes fundamentos (fls. 385-388):
+Quanto à pena, insta alguma ponderação.
+A base foi estabelecida no patamar mínimo, contra o que se insurge o Ministério Público.
+No ponto, assiste razão ao ilustre Dr. Promotor de Justiça oficiante, vez que o acusado possui conduta social negativa e personalidade voltada à criminalidade, tanto é que responde a uma dezena de processos pela prática de roubo. De se observar, ainda, que em quatro destas ações penais foi ele condenado, em primeira instância, pelo cometimento de tal delito patrimonial (certidões de fls. 95, 96, 100 e 108). Ele, à evidência, é "contumaz perpetrador de delitos patrimoniais", ou seja, ostenta conduta social negativa e personalidade voltada à criminalidade.
+Assim, fixa-se a pena-base metade (1/2) acima do patamar mínimo, ou seja, em seis (06) anos de reclusão e quinze (15) dias- multa.
+Na segunda fase, permanece ela inalterada, vez que ausentes circunstâncias atenuantes ou agravantes.
+Por fim, o laudo de exame psiquiátrico, concluiu que o acusado era apenas parcialmente capaz de entendimento e determinação e, portando, improcede, no ponto o reclamo ministerial.
+Com efeito, bem reconhecida de forma coerente e fundamentada a semi-imputabilidade do réu, dependente químico (laudo pericial encartado ao apenso), correta a diminuição da pena, nos termos do artigo 46 da Lei nº 11.343/2006. A redução da pena éproporcional ao grau de incapacidade comprovado pelos "experts", sendo que a adoção de uma fração, em detrimento de outra, é ato discricionário do Juiz, não havendo motivos para reforma da sentença neste aspecto.
+Assim, face à reconhecida semi-imputabilidade do réu, e adotado o mesmo critério da r. sentença, reduz-se a pena em dois terços (2/3), finalizando ela em dois (02) anos de reclusão e multa de cinco (05) diárias.
+Por outro lado, quanto ao regime prisional imposto na sentença, com razão o nobre representante do "Parquet" de Primeira Instância em seu inconformismo. É que, trata-se de crime grave que, cada vez mais e de forma incessante, vem trazendo desassossego à sociedade em geral, desvelando, ademais, a periculosidade de seus agentes. Estes merecem, portanto, receber uma resposta enérgica do Poder Judiciário. É o que espera e vem pedindo a sociedade. O estabelecimento de regime prisional diverso para tais casos certamente revelar-se-ia medida insuficiente para a reprovação e prevenção de tal espécie delituosa. Assim, o estabelecimento de regime prisional aberto para o caso certamente revelar-se-ia medida insuficiente para a reprovação e prevenção de tal crime, ainda mais em face da concreta e evidente maior periculosidade do agente e de seu manifesto desajuste para a vida em sociedade. Daí porque seacolhe o recurso ministerial para fixar o regime fechado.
+Dessarte, nega-se provimento ao apelo defensivo, provendo, por outro lado, mas em parte, o recurso ministerial para aumentar a pena para dois (02) anos de reclusão e multa de cinco (05) diárias, bem como para fixar o regime prisional inicial fechado, restando mantida, no mais, a r. sentença atacada, cujos fundamentos são aqui também acolhidos e, ainda, nos termos do artigo 252 do Regimento Interno do Tribunal de Justiça de São Paulo.
+Como se vê,exasperou-se a pena-base com apoio na valoração negativa de duasvetoriais - conduta social e personalidade.
+Para tanto aponta o acórdão recorrido pela existência de condenações não definitivas em desfavor do réu.
+Com efeito, nos termos da Súmula 444/STJ, ações penais em andamento não podem ser sopesadas para a exasperação da pena-base, sob pene de ofensa ao princípio da não culpabilidade, sequer se admitindocondenações criminais transitadas em julgado, o que não é o caso dos autos,para a valoração negativa dasvetoriais da personalidade, conduta social ou culpabilidadedo agente.
+Dessa forma, verifica-se que o acórdão impugnado encontra-se, no tópico, em desacordo com a jurisprudência firmada por este STJ, motivo pelo qual deve ser afastada a valoração negativa da personalidade e da conduta social.
+Passo, assim, ao redimensionamento da pena.
+Na primeira fase, afastada a valoração negativa da personalidade e da conduta social,reduzo a pena-base ao mínimo legal, de 4anos de reclusão, mais 10dias-multa, a qual permanece no mesmo patamar na segunda etapa, ausentes agravantes ou atenuantes a serem consideradas, reduzindo-se, por fim, de 2/3 ante a semi-imputabilidade do réu, tornando-sedefinitiva em 1 anoe 4 meses de reclusão e 3dias-multa.
+Ante a redução da pena ora implementada, uma vez fixada a pena-base no mínimo legal ao réu primário, faz jus ao regime aberto.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial parareduzir as penas dorecorrentea1anoe 4 meses de reclusão e 3dias-multa, fixando o regime aberto para o cumprimento da pena reclusiva.
+Publique-se.
+Intimem-se.
