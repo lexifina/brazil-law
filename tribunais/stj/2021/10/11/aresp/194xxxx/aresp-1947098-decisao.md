@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo interposto por ALEXANDRE LOBA FERREIRA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ALEXANDRE LOBA FERREIRA, a parte recorrente apesar de juntado tempestivamente, no dia 20/7/2021, o termo de protocolo do Agravo em Recurso Especial (fls. 333/334), deixou de apresentar as razões do recurso. Essa irregularidade formal impede a análise da controvérsia (AgInt nos EDcl no RE no AgRg nos EDcl no AREsp 235.721/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 23/06/2020, DJe 26/06/2020).
+Registre-se que as razões do agravo em recurso especial, protocoladas em 27/07/2021, quando já transcorrido o prazo recursal, não podem ser consideradas, uma vez que operada a preclusão consumativa com a prática da interposição da petição de fls. 333/334 (AgInt no RMS 63.187/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/09/2020, DJe 22/09/2020; e gInt nos EDcl nos EDcl no REsp 1097248/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/05/2019, DJe 13/05/2019).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
