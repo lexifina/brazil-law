@@ -1,0 +1,40 @@
+DECISÃO
+ONIVALTER APARECIDO DACARO (ONIVALTER) ajuizou ação de obrigação de fazer com pedido de tutela provisória de urgência contra UNIMED CAMPINAS - COOPERATIVA DE TRABALHO MÉDICO (UNIMED CAMPINAS), objetivando que esta operadora restabeleça o plano de saúde, mantendo-o, assim como seu dependente, como beneficiários (e-STJ, fls. 1/20).
+Em primeira instância, o pedido foi julgado improcedente, com fulcro no art.487, I, do NCPC (e-STJ, fls. 467/472).
+O apelo de ONIVALTER teve a preliminar rejeitada e, no mérito,foi parcialmente provido, para o fim de julgar a ação procedente em parte, e condenar aparte seguradora na manutenção do contrato, condenando UNIMED, ainda, em razão da sucumbência mínima da parte autora, ao pagamento das custas, despesas processuais e honorários advocatícios de 15% sobre o valor atualizado da causa, nostermos do acórdão de relatoria do Des. J.L. MÔNACO DA SILVA, assim ementado:
+OBRIGAÇÃO DE FAZER - Plano de saúde - Rescisão unilateral do contrato coletivo - Improcedência do pedido - Inconformismo do autor - Acolhimento parcial - Autor aposentado que foi mantido com sua dependente no contrato, conforme art. 31 da Lei n. 9.656/98 - Falência da ex-empregadora do autor - Impossibilidade de manutenção do contrato coletivo - Seguradora que, no entanto, deve ofertar plano individual ou familiar, sem carência, mantidas as mesmas condições de cobertura, nos termos da Resolução n. 19 do CONSU - Sentença reformada para condenar a seguradora a manter o autor e sua dependente como beneficiários em plano individual ou familiar, sem carências, a ser escolhido no prazo de sessenta dias, devendo o autor assumir o pagamento integral das mensalidades - Recurso provido em parte. Preliminar rejeitada e recurso provido em parte(e-STJ, fls. 627).
+Os embargos de declaração opostos por ONIVALTER foram parcialmente providos, a fim de majorar a verba honorária sucumbencial para R$ 1.500,00 (mil e quinhentos reais),sendo desprovidos os aclaratórios opostos pela UNIMEDCAMPINAS (e-STJ, fl. 690/694 e 725/727, respectivamente).
+Insatisfeita, a UNIMED CAMPINAS interpôs recurso especial, com fundamento no art.105, III, a e c, da CF, alegando violação dos arts. 4º e 10 da Lei nº 9.961/2000; e 13 da Lei nº 9.656/1998, ao sustentar que (1) não merece prosperar a manutenção de ONIVALTER no plano de inativos extinto pela UNIMED CAMPINAS; (2) o cancelamento do plano de saúde se deu por inadimplência da ex-empregadora; e, (3) que comunicou sua intenção de rescisão do contrato por meio do Sindicato da categoria, informando que o plano de saúde estava sendo cancelado, e oferecendo a todos os beneficiários do contrato da ex-empregadora MABE a contratação de novo plano de saúde individual ou familiar com a portabilidade de carências (cf. fl. 645).
+Ascontrarrazões foram apresentadas (e-STJ, fls. 732/745).
+O recurso foi admitido na origem (e- STJ, fls. 746/748).
+Nesta Corte, o apelo nobrefoi conhecido e provido, nos termos da decisão monocrática da minha lavra, assim indexada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO NA ÉGIDE DO NCPC. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER.DESFAZIMENTO UNILATERAL. INCONFORMISMO. BENEFICIÁRIO IDOSO. PLANO INDIVIDUAL. MIGRAÇÃO. IMPOSSIBILIDADE.MODALIDADE. NÃO COMERCIALIZAÇÃO. PORTABILIDADE DE CARÊNCIAS. ADMISSIBILIDADE. ART. 478 DO CC/02.RESTABELECIMENTO DA SENTENÇA. RECURSO ESPECIAL CONHECIDO E PROVIDO(e-STJ, fl. 755).
+Dessa decisão, UNIMED CAMPINAS opôs embargos de declaração, afirmando que o acórdão recorrido padeceu deobscuridade, no tocante à renovação da ciência de ONIVALTER sobre aextinção do vínculo, incluído o direito de exercício da portabilidade de carências, isso porque ela já foi efetivadaà época da extinção do plano coletivo empresarial, além de a decisãoser ultra petita, na medida em que não houve pedidoalternativopara portabilidade de carências, limitando-se, em seu pedido, ao restabelecimento do plano anterior (e-STJ, fls. 763/767).
+Foi apresentada impugnação (e-STJ, fls. 806/812).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O recurso não merece prosperar.
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se ojuiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+No caso, UNIMED CAMPINAS apontou a existência de violação do art. 1.022 do NCPC, em virtude de obscuridade, no tocante à renovação da ciência de ONIVALTER sobre a extinção do vínculo, incluído o direito de exercício da portabilidade de carências, isso porque ela já foi efetivada à época da extinção do plano coletivo empresarial, além de a decisão ser ultra petita, na medida em que não houve pedido alternativo para portabilidade de carências, limitando-se, em seu pedido, ao restabelecimento do plano anterior.
+Contudo, sem razão.
+Isso porque, a decisão recorrida foi clara quanto ao direito subjetivo de ONIVALTER na manutenção no plano de saúde, nas mesmas condições de que gozava na vigência do contrato do trabalho, desde que assuma o pagamento integral da mensalidade, nos termosdo art. 31 da Lei nº 9.656/1998 e, em, razão da impossibilidade da manutenção do contrato coletivo, pela falência da ex-empregadora, atender ao quanto disposto na Resolução nº 19 da CONSU e disponibilizar ao segurado a contratação de plano individual ou familiar, sem carência, a ser escolhido em 60 dias,mantidas as mesmas condições de cobertura.
+Como se vê, inexiste o suscitado vício.
+De forma que, não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. PRETENSÃO DE PREQUESTIONAMENTO DE QUESTÕES CONSTITUCIONAIS. INVIABILIDADE.
+ ..
+2. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+ ..
+4. Embargos de declaração no agravo interno no agravo em recurso especial
+rejeitados.
+(EDcl no AgInt no AREsp 1.814.371/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 30/8/2021, DJe 2/9/2021 - sem destaques no original)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração,.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER.DESFAZIMENTO UNILATERAL. INCONFORMISMO. BENEFICIÁRIO IDOSO. PLANO INDIVIDUAL. MIGRAÇÃO. IMPOSSIBILIDADE.MODALIDADE. NÃO COMERCIALIZAÇÃO. PORTABILIDADE DE CARÊNCIAS. ADMISSIBILIDADE. ART. 478 DO CC.RESTABELECIMENTO DA SENTENÇA.VIOLAÇÃO DO ART. 1.022 DO NCPC.OBSCURIDADE. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
