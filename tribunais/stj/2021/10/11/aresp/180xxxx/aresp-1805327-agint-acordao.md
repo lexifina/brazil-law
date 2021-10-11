@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 627/636) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante alega que "para alterar a conclusão a que chegou o E. TJRJ acerca do percentual do valor pago pelos Agravados que deverá ser restituído não há a necessidade de se alterar a realidade fática exposta no acórdão, como constou da r.decisão agravada"(e-STJ fl. 632).
+Afirma aindaque(e-STJ fl. 634):
+30. Contudo, no caso dos autos a premissa seria diversa, a depender do provimento do recurso para reconhecer que a rescisão do contrato se dará por culpa dos Agravados, e não dos Agravantes.
+31. Em tal hipótese, como também uníssono na jurisprudência desse E. STJ, tanto que cristalizado em sede de recurso especial repetitivo (Tema 1.002), o termo inicial dos juros moratórios é o trânsito em julgado, o que representa, efetivamente, a pretensão dos Agravantes.
+Ao final, pede a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+Impugnação apresentada pela parte recorrida requerendo aplicação de multa(e-STJ fls. 637/649).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ATRASO NA ENTREGA DE OBRA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. CITAÇÃO.DECISÃO MANTIDA.
+1.O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal de origem reconheceu a existência de inadimplemento contratual,pois ultrapassado o prazo para a entrega da unidade imobiliária. Alterar esse entendimento demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+3. "Acitação é o marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual"(EREsp 13.41.138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 22/05/2018).
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+Não há, no presente recurso, nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 621/624):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 5, 7 e 83 do STJ (e-STJ fls. 536/544).
+O acórdão recorrido está assim ementado (e-STJ fls. 385/387):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITOS C/C INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. AUTORES ADIMPLENTES. SENTENÇA DE PROCEDÊNCIA PARA DECLARAR RESCINDIDO O CONTRATO, A INEXISTÊNCIA DE DÉBITO E CONDENAR AS RÉS A RESTITUÍREM INTEGRALMENTE A IMPORTÂNCIA ADIMPLIDA, AO PAGAMENTO DE R$ 4.500,00 A TÍTULO DE MULTA CONTRATUAL, BEM COMO A QUANTIA DE R$ 10.000,00 A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS.APELAÇÃO DAS DEMANDADAS.
+1. Questões relativas ao índice de correção das prestações e lucros cessantes que não merecem ser conhecidas, na medida em que as matérias não são discutidas nos autos, restando ausente interesse recursal.
+2. Ausência de recurso contra a rescisão contratual, estando a decisão preclusa neste ponto, com força de coisa julgada, nos termos do art. 1.013, caput, do CPC, cingindo-se a controvérsia em verificar se decorre da mora da apelante a ensejar restituição integral, multa contratual e danos na esfera moral dos autores/apelados.
+3. A responsabilidade é objetiva nas relações de consumo, à luz do art. 14 do CDC, podendo ser afastada pela culpa exclusiva do consumidor, de terceiro ou fortuito externo. Precedente: AI 0009608-61.2016.8.19.0000, Rel.Des. WERSON REGO, Cível. Julgamento: 02/03/2016, 25" Câmara
+4. Contrato que previa prazo para a conclusão das obras em novembro de 2017, já computada a tolerância de 180 dias, sendo que, ultrapassada a data, os autores pleitearam administrativamente o distrato, obtendo como resposta proposta de restituição parcial, conforme contrato, ou integral, apenas após a alienação do bem para terceiro, o que foi recusado.
+5. Atraso na entrega da unidade imobiliária configurado, na medida em que o habite-se somente foi expedido quatro meses após o prazo contratual máximo.
+6. Cláusula contratual que prevê a entrega do bem 90 dias após a expedição do habite-se que não desconfigura o atraso, uma vez que ultrapassado o prazo contratual.
+7. Recorridos que estavam adimplentes com as parcelas mensais, efetuaram o pedido de rescisão vencido o prazo para entrega e, até a propositura da demanda, se dispuseram a eventual distrato administrativo, deixando, apenas, de adimplir o saldo devedor na data aprazada porque fixada na entrega do bem, o que não ocorreu.
+8. A eventual impossibilidade de obras durante o horário comercial, em razão de o empreendimento estar situado ao lado de colégio e em área residencial, cuida de fortuito interno incapaz de elidir a responsabilidade das recorrentes.
+9. Restituição integral das parcelas pagas pelos promitentes compradores, retornando as partes ao status quo ante, aplicando-se o Enunciado de Súmula nº 543 do E. STJ. Precedentes: 0002662-80.2016.8.19.0030  Apelação - Des(a). Luiz Fernando de Andrade Pinto - Julgamento:17/04/2019 - Vigésima Quinta Câmara Cível; 0014848-20.2015.8.19.0209  Apelação - Des(a). Werson Franco Pereira Rêgo - Julgamento: 02/05/2019 - Vigésima Quinta Câmara Cível.
+10. A condenação das promitentes vendedoras ao pagamento de multa contratual não é compatível com o pedido de rescisão, em razão de sua natureza indenizatória, destinando-se à reparação dos danos patrimoniais sofridos pelo promitente comprador durante o período da mora.Precedentes: 0008471-33.2015.8.19.0209  APELAÇÃO - Des(a). SÉRGIO SEABRA VARELLA - Julgamento: 07/08/2019 - VIGÉSIMA QUINTA CÂMARA CÍVEL. 0022171-50.2017.8.19.0001 - APELAÇÃO Des(a).WERSON FRANCO PEREIRA RÉGO - Julgamento: 26/06/2019 - VIGÉSIMA QUINTA CÂMARA CÍVEL.
+11. Orientação do STJ no sentido de que o atraso na entrega da obra apta a gerar dano moral deve ser suficiente para causar lesão ao direito da personalidade do comprador. Precedente: REsp repetitivo nº 1.551.968, de Relatoria do Ministro Paulo de Tarso Sanseverino, julgado em 22/06/2016, Segunda Seção.
+12. O distrato administrativo foi requerido poucos dias após findo o prazo contratual e a presente demanda aforada logo no mês seguinte, não sendo os fatos suficientes para violar direitos da personalidade a ponto de gerar danos extrapatrimoniais, na medida em que apelados não descreveram ou comprovaram a existência de situações que superem o mero descumprimento contratual. Precedente: 0034930-80.2016.8.19.0001  APELAÇÃO - Des(a). LUIZ FERNANDO DE ANDRADE PINTO - Julgamento: 11/12/2018 - VIGÉSIMA QUINTA CÂMARA CÍVEL.
+13. Recurso parcialmente conhecido e, nesta extensão, parcialmente provido para excluir as condenações ao pagamento de multa contratual e de indenização por danos morais, reconhecendo -se a sucumbência recíproca.(e-STJ Fl.387)Documento recebido eletronicamente da origem.
+Os embargos de declaração foram parcialmente acolhidos (e-STJ fls.428/435).
+No especial (e-STJ fls. 467/484), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aos arts. 397, caput e parágrafo único, 389, 394, 402, 405, 421, 422, 425, 475, e 476 do CC/2002 e 240 do CPC/2015, sustentando, em síntese: (i) inexistência de inadimplemento contratual, (ii) rescisão motivada por desistência dos recorridos, o que inviabiliza a restituição integral dos valores pagos e (iii) que os juros de mora seja contados somente a partir do trânsito em julgado.
+No agravo (e-STJ fls. 567/575), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 581/592).
+É o relatório.
+Decido.
+No caso, o Tribunal de origem reconheceu a existência de inadimplemento contratual com base nos seguintes fundamentos (e-STJ fl. 391):
+Não há, ainda, que se falar em ausência de mora em razão da cláusula contratual que prevê a entrega do bem 90 dias após a expedição do habite- se, uma vez que ultrapassado o prazo contratual.
+Ademais, eventual impossibilidade de obras durante o horário comercial, em razão de o empreendimento estar situado ao lado de colégio e em área residencial, cuida de fortuito interno incapaz de elidir a responsabilidade das recorrentes.
+Desta sorte, houve atraso na entrega da unidade imobiliária, porquanto tinha como termo final o mês de novembro de 2017 e somente houve a expedição do habite-se 4 meses após o prazo final, no curso desta ação.
+Assim, resta caracterizado o inadimplemento contratual por culpa das apelantes, ante o atraso injustificado na entrega da unidade imobiliária, de modo que não se pode falar em exceção do contrato não cumprido, consoante art. 476 do Código Civil, ensejando a rescisão contratual com retorno das partes ao status quo ante.
+Para alterar tais fundamentos e reconhecer a inexistência de inadimplemento contratual, de forma a se afastar a restituição integral dos valores pagos, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Quanto aos juros de mora, a decisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que "a citação é o marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual" (EREsp n.1341138/SP, Relator Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 9/5/2018, DJe 22/5/2018).
+Nesse mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. 1.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2.COBRANÇA DE JUROS COMPENSATÓRIOS ANTES DA ENTREGA DAS CHAVES. LEGALIDADE. 3. REPETIÇÃO DE INDÉBITO EM DOBRO.COMPROVAÇÃO DA MÁ-FÉ. NECESSIDADE. AUSÊNCIA. REVISÃO.INCIDÊNCIA DA SÚMULA 7/STJ. 4. LUCROS CESSANTES. JUROS.TERMO A QUO. CITAÇÃO. SÚMULA 83/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. A Segunda Seção, no julgamento do EREsp n. 670.117/PB, concluiu que "não se considera abusiva cláusula contratual que preveja a cobrança de juros antes da entrega das chaves, que, ademais, confere maior transparência ao contrato e vem ao encontro do direito à informação do consumidor (art. 6º, III, do CDC), abrindo a possibilidade de correção de eventuais abusos" (EResp n. 670.117/PB, Relator o Min. Sidnei Beneti, Rel.p/ Acórdão Min. Antonio Carlos Ferreira, Segunda Seção, dje 26/11/2012).
+3. A revisão do julgado quanto à demonstração de má-fé importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+4. Em se tratando de ilícito contratual, o termo inicial dos juros de mora é a data da citação. Entendimento do Tribunal de origem que se coaduna com o do STJ.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1780672/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/4/2020, DJe 24/4/2020.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20%(vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+OTJRJ reconheceua existência de inadimplemento contratual poisultrapassado o prazo para a entregada unidade imobiliária.
+Ficou assentado nas instâncias de origem queaexpedição do habite-se só ocorreu quatromeses após o prazo final estabelecido no contrato (novembro de 2017).
+Tendo a Justiça localassim decidido com base nos elementos de prova, concluir diversamente atrai as Súmulas n. 5 e 7 do STJ.
+Além disso, a decisão recorridanão destoa da jurisprudência desta Corte, no sentido de que, "em caso de responsabilidade contratual, os juros moratórios incidem a partir da citação"(REsp n. 1.884.887/DF, RelatorMinistra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/8/2021, DJe 16/8/2021).
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Indefiro o pedido, da parte agravada, de aplicação da multa, porque não evidenciada até o momento conduta maliciosa ou temerária a justificar tal sanção.
+É como voto.
