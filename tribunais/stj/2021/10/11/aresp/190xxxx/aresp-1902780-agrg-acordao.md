@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. PROVIMENTO IMPLÍCITO DO AGRAVO. INEXISTÊNCIA. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Émanifestamente descabida a alegação de nulidade do julgamento monocrático proferido pela Presidência do Superior Tribunal de Justiça, trazida sob o argumento de que a decisão agravada, invadindo a competência da Turma Julgadora,teria adentrado ao mérito do recurso especial e, ao assim fazer,implicitamente deu provimento ao agravo em recurso especial. No caso concreto,oagravo em recurso especial sequer chegou a ser conhecido, por ser considerado intempestivo. Por consequência,não houve nenhuma manifestação acerca das questões suscitadas no recurso especial e, tampouco, provimento implícito do agravo.
+2. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por JONNH WEVERSON PEREIRA, contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, pela sua intempestividade.
+Alega o Agravante, inicialmente, que teria havido provimento implícito do agravo "de instrumento", pelo Presidente do Tribunal, pois este teria apreciado as questões suscitadas no recurso especial. Assim, o recurso deveria ter sido submetido à apreciação do Colegiado.
+Outrossim, sustenta a tempestividade do agravo, protocolado em 04/01/2021, em razão da existência de recesso forense que prorrogou, para 07/01/2021, o termo final para a interposição do agravo em recurso especial.
+Pede o provimento do agravo regimental, com o acolhimento do recurso especial e a reforma da sentença condenatória.
+O Ministério Público Federal manifesta-se no sentido de que o agravo regimental seja admitido para não conhecer ou negar provimento ao recurso especial (fls. 901-909).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. PROVIMENTO IMPLÍCITO DO AGRAVO. INEXISTÊNCIA. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Émanifestamente descabida a alegação de nulidade do julgamento monocrático proferido pela Presidência do Superior Tribunal de Justiça, trazida sob o argumento de que a decisão agravada, invadindo a competência da Turma Julgadora,teria adentrado ao mérito do recurso especial e, ao assim fazer,implicitamente deu provimento ao agravo em recurso especial. No caso concreto,oagravo em recurso especial sequer chegou a ser conhecido, por ser considerado intempestivo. Por consequência,não houve nenhuma manifestação acerca das questões suscitadas no recurso especial e, tampouco, provimento implícito do agravo.
+2. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+3. Agravo regimental não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+De início, émanifestamente descabida a alegação de nulidade do julgamento monocrático proferido pela Presidência do Superior Tribunal de Justiça, trazida sob o argumento de que a decisão agravada, invadindo a competência da Turma Julgadora, teria adentrado ao mérito do recurso especial e, ao assim fazer, implicitamente deu provimento ao agravo em recurso especial.
+No caso concreto, o agravo em recurso especial sequer chegou a ser conhecido, por ser considerado intempestivo. Por consequência, não houve nenhuma manifestação acerca das questões suscitadas no recurso especial e, tampouco, provimento implícito do agravo.
+No mais, disse o decisum que não conheceu do agravo em recurso especial(fls. 869-870; sem grifos no original):
+"Mediante análise do recurso de JONNH WEVERSON PEREIRA, a parte recorrente foi intimada da decisão agravada em 15/12/2020, sendo o agravo somente interposto em 04/01/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Cumpre observar que, "de acordo com a jurisprudência desta Corte, não se aplica o disposto no art. 220 do CPC, regulamentado pela Resolução CNJ n. 244, de 19/9/2016, nos feitos com tramitação perante a justiça criminal, ante a especialidade das disposições previstas no art. 798, caput, e § 3º, do CPP, motivo pelo qual não há falar em suspensão dos prazos entre os dias 20 de dezembro a 20 de janeiro". (AgRg no AREsp 1698961/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/8/2020.) Além disso, em consonância com o regramento do art. 798, caput e § 3º, do Código de Processo Penal, de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado, o "recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão. (AgRg no AREsp 1612424/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/6/2020.)
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido por esta Corte, providência que não foi cumprida. Nesse sentido: AgRg no AREsp 1259368/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 17/8/2018."
+Como se verifica, a decisão agravada, ao julgar intempestivo o agravo em recurso especial, afirmou que a existência de feriado local deve ser demonstrada no ato de interposição do recurso, o que não teria ocorrido. As razões do agravo regimental, entretanto, não refutaram o fundamento, mas se limitaram a sustentar que o agravo seria tempestivo, em razão de suspensão dos prazos no Tribunal de origem.
+Sendo assim, ausente a impugnação ao fundamento que deu suporte à decisão agravada, o recurso interno não comporta conhecimento, pela falta de observância da dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal), bem assim pela aplicação da Súmula n. 182 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Consoante reiterada jurisprudência deste Superior Tribunal de Justiça, as razões do agravo regimental devem se limitar a atacar especificamente os fundamentos da decisão agravada, sob pena de atração, por analogia, da incidência da Súmula n. 182/STJ.
+2. In casu, o agravante deixou de impugnar o principal fundamento da decisão agravada, qual seja, a aplicação da Súmula 182 do STJ.
+ ..
+4. Agravo regimental não conhecido."(AgRg no AREsp 1.605.293/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/02/2020, DJe 28/02/2020.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.CRIMES DE ESTELIONATO CONSUMADO E TENTADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O APELO RARO. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL EM QUE INCIDE O MESMO ÓBICE. INVIABILIDADE DE EXAME DO RECURSO. USURPAÇÃO DA COMPETÊNCIA DO STJ. NÃO CONFIGURADA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recorrente não atacou especificamente os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial, o que atrai o óbice da Súmula n. 182/STJ.
+2. No agravo regimental, as razões recursais incidem no mesmo vício, porquanto não impugnam especificamente o fundamento da decisão monocrática proferida nesta Corte Superior, atraindo, outra vez, o óbice da Súmula n. 182/STJ.
+ ..
+4. Agravo regimental não conhecido."(AgInt no AREsp 1.258.683/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/02/2020, DJe 17/02/2020.)
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
+É o voto.
