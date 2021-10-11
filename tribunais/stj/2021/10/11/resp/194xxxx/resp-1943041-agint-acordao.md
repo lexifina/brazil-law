@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 718/734) interposto contra decisão desta relatoria que não conheceudo recurso especial.
+Em suas razões, as agravantes reiteram a tese de negativa de prestação jurisdicional, destacando que (e-STJ fls. 723/724).
+Ora, demonstrou-se nas razões do recurso especial não conhecido que (i) existia documento jurídico apontando a concordância do agravado com a regra de custeio que lhe seriaaplicada; e (ii) existiam cláusulas regulamentares que amparam a cobrança de mensalidades do Programa Assistencial. Não há, contudo, qualquer menção pelo v. acórdão recorrido a esse documento e/ou às cláusulas mencionadas pelos agravantes em suas razões recursais, ainda que fosse para pronunciar que esses elementos de prova não possuíam o sentido que os agravantes lhe atribuem e/ou não modificariam a sorte da demanda.
+Afirmam não ser caso de incidência das Súmulas n. 5 e 7 do STJ, aduzindoapossibilidade de cobrança de mensalidades do Programa Assistencial.
+Suscitam divergência jurisprudencial.
+Ao final, pedem a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+O agravadoapresentou contrarrazões (e-STJ fls.738/749).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ.DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2.O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu pela invalidade das alteraçõescontratuais supervenientes. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da similitude fática entre os acórdãos confrontados.
+5. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+Os agravantes não trouxeram nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 714/716):
+Trata-se de recurso especial interposto contra acórdão do TJSP, o qual recebeu a seguinte ementa (e-STJ fl. 612):
+Ação cominatória - Manutenção do custeio de plano de saúde e de assistência médica e hospitalar - Programa assistencial complementar - Empresas que assumiram o risco e a responsabilidade de custeio das despesas dos funcionários aposentados, mediante coparticipação de 12% da remuneração recebida da entidade de previdência privada - Superveniência de alteração compulsória e unilateral da obrigação pactuada anteriormente - Ilegitimidade por potestatividade - Violação de direito adquirido e do ato jurídico perfeito - Convenção privada, de caráter patrimonial e disponível a critério dos envolvidos - Exigibilidade do cumprimento - Repetição de indébito - Prescrição trienal, retroativa à propositura - Sentença mantida - Recurso não provido, com observação.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 670/673).
+No recurso especial (e-STJ fls. 617/644), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta, além de divergência jurisprudencial, ofensa ao arts. 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Segundo afirma, o aresto vergastado, "ao concluir que, genericamente, as regras de custeio de plano de saúde constituem direito adquirido do recorrido, de modo que qualquer alteração nessas regras seria ilegal, o v. acórdão incorreu em violação ao art. 422 do Código Civil, pois, de acordo com a jurisprudência do E. STJ, a simples alteração na regra de custeio de plano de saúde (ou mais precisamente do Programa Assistencial da Unileveprev) não é ilegal, nem viola a boa-fé objetiva" (e-STJ fl. 638).
+Foram apresentadas contrarrazões (e-STJ fls. 617/644).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e- STJ fl. 613):
+Inconsistente o recurso porque, na espécie, se os réus/apelantes assumiram o risco e se responsabilizaram perante os funcionários aposentados com a obrigação de custeio e disponibilização de plano de saúde e de assistência médico hospitalar, apenas e tão somente exigindo do autor/apelado a coparticipação, mediante contribuição mensal de 12% da remuneração recebida da entidade de previdência privada da companhia empregadora, opção aceita, foi mesmo ilegítima e potestativa a tentativa superveniente de modificação compulsória da obrigação anteriormente consolidada, com a supressão da cobertura das mensalidades, em virtude de violação retilínea ao ato jurídico perfeito e do direito adquirido do beneficiário, mormente inexistindo consentimento expresso, ou a anuência, com as alterações e ajustes unilaterais promovidas nas condições primitivas vigentes na relação, agora reavaliadas pelo patrocinador sob o fundamento da necessidade da preservação do equilíbrio financeiro do programa assistencial complementar.De resto, irrelevante o fato de que a aposentadoria se deu no exercício de 2002, pois foram as próprias empresas rés/apelantes que reconheceram a condição de beneficiário do autor/apelado, de acordo com as reiteradas missivas exibidas nos autos, assim como a incidência, ou não, das regras contidas na legislação especial, na medida em que o dissídio, aqui, tratou do inadimplemento de convenção privada, de cunho eminentemente patrimonial e disponível a critério dos envolvidos, donde a esterilidade dos argumentos suscitados nas razões e a exigibilidade do seu cumprimento.
+Para alterar os fundamentos acima transcritos, reconhecer a validade da alteração contratual e afastar a violação do princípio da boa-fé objetiva, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático- probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+A incidência da Súmula n. 7/STJ também inviabiliza o exame do recurso especial pela alínea "c" da norma autorizadora.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Na verdade, sob o pretexto de sanar supostos vícios, a parte demonstra inconformismo com as conclusões do Tribunal de origem. Desse modo, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+No caso, o TJSP reconheceu a impossibilidade demodificação compulsória da obrigação anteriormente consolidada, com a supressão da cobertura das mensalidades, em virtude de violaçãodireta do ato jurídico perfeito e do direito adquirido do beneficiário. Afirmou ainexistência deconsentimento expresso, ou anuência, às alterações e aosajustes unilaterais promovidos nas condições primitivas vigentes na relação jurídica pactuada.
+Tendo o Tribunal de origem assim decidido com base nos elementos de prova, concluir diversamente atrai as Súmulas n. 5 e 7 do STJ.
+O recurso especial fundado na alínea "c" do permissivo constitucional também não reúne condições de êxito, ante a inexistência de similitude fática entre os acórdãos tidos por divergentes.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
