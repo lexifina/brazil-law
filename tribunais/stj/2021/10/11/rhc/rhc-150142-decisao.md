@@ -1,0 +1,11 @@
+DECISÃO
+Perdeu o objeto o presente recurso. Isso porque, em 29/9/2021,naAçãoPenaln.5069288-06.2021.8.13.0024, da 8ªVara Criminal da comarcade Belo Horizonte/MG, foi proferida sentença condenatória.
+Segundo reiterada jurisprudência desta Corte Superior, asuperveniência de sentença penal condenatória, por constituirnovotítulojudicial a embasar a constrição cautelar do acusado,tornaprejudicadooexame de writ que questiona decreto de prisãopreventivaanterior(HC n. 365.344/SP,Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/8/2017).
+De qualquer maneira, as decisões constantes destes autos não revelamnenhuma ilegalidade aparente, uma vez que a custódiaseamparou em fator real de cautelaridade, qual seja, o modus operandi e a gravidade concreta da conduta praticada pelo ora recorrente -roubo duplamente majorado pelo concurso de agentes e pelo emprego de arma branca (estilete), praticado contra um motorista de aplicativo de transporte de passageiros, o qual atendeu o chamado do acusado e foi surpreendido com o assalto antes mesmo de a corrida começar.
+A propósito do que se tem nestes autos, confiram-se oHC n. 534.218/PR, de minha relatoria, Sexta Turma, DJe 5/11/2019; oRHC n. 108.498/MG, Ministro Joel Ilan Paciornik, Quinta Turma,DJe 28/3/2019; eoHC n. 449.429/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/8/2018 (todos citados no parecer).
+Outrossim, quanto à aplicabilidade da Recomendação n. 62/2020, do Conselho Nacional de Justiça, ao caso, conforme bem observou a Subprocuradora-Geral da República Elianede Albuquerque Oliveira Recena, além de a questão não ter sido enfrentada no acórdão recorrido,não se encontram preenchidos os requisitos exigidos pela citada Recomendação  .. e a prática de crimes graves, envolvendo inclusive violência ou grave ameaça contra a pessoa o que, por si só já afasta a incidência daquela Recomendação, sob pena de se instalar um caos social paralelo igual ou maior do que o caos sanitário já provocado pela pandemia(fl. 340).
+Pelo exposto, julgo prejudicado o recurso emhabeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA.RECOMENDAÇÃO N. 62/CNJ. INAPLICABILIDADE. CRIME COMETIDO COM VIOLÊNCIA OU GRAVE AMEAÇA. REQUISITOS DA CUSTÓDIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO.
+Recurso prejudicado.
