@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto porTALYSSON MARQUES DE CARVALHO contra decisão que inadmitiu seu recurso especial manifestado, com fundamento no art. 105, III, a, da Constituição Federal, em oposição ao acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0024.18.099610-01001).
+Consta dos autos que o ora agravante foi condenado pelo crime previsto no art. 37 da Lei 11.343/2006, àpenade 2 anos de reclusão,em regime aberto, substituída por duas restritivas de direitos, mais pagamento de 300dias-multa.
+Irresignada, a defesa apelou. O Tribunal de origem, por maioria, negou provimento ao recurso.
+Os embargos infringentes opostos foram rejeitados.
+Daí o presente recurso especial, no qual a defesa argumenta ofensa aoart. 37 da Lei n. 11.343/2006. Para tanto, alega, em síntese, que, "não havendo provas no sentido de que o ora recorrente, com sua conduta, contribuiu com um grupo de traficantes, configurada está a atipicidade da conduta de colaborador com o tráfico de drogas, sendo assim, imperiosa a absolvição" (e-STJ fl. 219).
+Requer, por isso, a absolvição do recorrente.
+O recurso foi admitido na origem.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+Presentes os requisitos de admissibilidade, conheço do agravo.
+Passo à análise das razões expendidas no recurso especial.
+O recurso não merece prosperar.
+Sobre o lastro probatório a embasar a condenação, extrai-se do acórdão recorrido que a "materialidade do delito previsto no ad. 37 da Lei 11.343106 afigura-se inconteste, restando demonstrada através do boletim de ocorrência (f..1011 2-v), auto de apreensão (f. 09), laudo preliminar de constatação (f.09A) e pela prova oral colhida"(e-STJ fl. 175). O Tribunal de origem registrou também que "aautoria também restou devidamente comprovada nos autos, através da confissão do apelante, ouvido apenas em sede policial, ocasião em que afirmou que exercia a função de "olheiro", recebendo de trinta a quarenta reais por dia de "serviço"(f. 05), corroborada pela prova testemunhal (f. 02103 e mídia audiovisual de f. 87), não sendo questionada no presente recurso"(e-STJ fl. 177).
+Sobre a tipicidade da conduta, consignou que a "conduta praticada pelo acusado é típica, uma vez que ele colaborava com grupo destinado á prática do tráfico de drogas, abrangendo oermo "grupo"a reunião de pessoas em concurso eventual para a realização da traficância, o que restou amplamente comprovado nos autos, tanto é assim que, após o acusado gritar "galo doido", os policiais militares visualizaram dois traficantes se evadindo e dispensando uma sacola na qual continha drogas, não sendo necessária a prova do animus associativo, com caráter permanente"(e-STJ fls. 177/178).
+Verifica-se, portanto, que o Tribunal de origem, a quem cabe a análise das questões fático-probatórias dos autos, reconheceu a existência de elementos de provas suficientes a embasar o decreto condenatório pelocrime do art. 37 da Lei n. 11.343/2006.
+Desse modo,no caso, conforme entendimento firmado nesta Corte, com o intuito de acolher atesede absolvição por atipicidade da conduta, a mudança da conclusão alcançada pela Corte local exigiria o reexame das provas, o que é vedado na via do recurso especial, a teor da Súmula n. 7/STJ.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO E FIXAÇÃO DO REGIME DIVERSO DO FECHADO. MAUS ANTECEDENTES E CIRCUNSTANCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTOS INATACADOS SUFICIENTES PARA MANTER O ACÓRDÃO. SÚMULA Nº 283/STF.PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. REVISÃO.IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a embasar a condenação, a absolvição e a desclassificação, porquanto é vedado na via eleita o reexame de fatos e provas. Súmula nº 7/STJ.
+ ..
+4. Agravo regimental a que se nega provimento(AgRg no AREsp 1241298/AC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018, grifei)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.TRÁFICO DE DROGAS. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA USO. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA.INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A pretensão do agravante de modificar o entendimento firmado pelas instâncias ordinárias - no sentido de que não há provas acerca da prática do delito em questão, da desclassificação do delito de tráfico para o uso e da aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06 - demandaria reexame de provas, o que é inviável na via do recurso especial, segundo dispõe o enunciado n. 7 da Súmula do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial").
+2. Agravo regimental não provido(AgRg no AREsp 900.716/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2016, DJe 26/08/2016, grifei)
+Ademais, o entendimento esposado no acórdão alinha-se à jurisprudência desta Corte no sentido de que a conduta capitulada no art. 37 da Lei de Drogas pressupõe vínculo esporádico eeventual de colaboração do agente com o tráfico de drogas, tal como narrado no aresto recorrido, incidindo, na espécie, a Súmula n. 83/STJ, também aplicável ao especial interposto pela alínea a do permissivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE COMPROVAÇÃO DO VÍNCULO ESTÁVEL E PERMANENTE. ABSOLVIÇÃO RECONHECIDA. OLHEIRO. NÃO DEMONSTRAÇÃO DE CONTRIBUIÇÃO ESTÁVEL E PERMANENTE. DESCLASSIFICAÇÃO MANTIDA.PENA-BASE. CONSEQUÊNCIAS DO CRIME. FUNDAMENTO INERENTE. AGRAVO IMPROVIDO.
+1. Firmou-se neste Superior Tribunal de Justiça a orientação no sentido de que se mostra indispensável, para fins de configuração do crime de associação para o tráfico, a evidência do vínculo estável e permanente dos acusados com outros indivíduos, o que, consoante as premissas estabelecidas no acórdão recorrido, não ocorreu, razão pela qual indevida a condenação, não havendo falar em exame aprofundado da prova
+2. Admite-se a desclassificação para a capitulação jurídica nos termos do art. 37 da Lei de Drogas, à conduta de "olheiro", quando não demonstrada na origem a prática mediante contribuição estável e permanente aos destinatários das informações que possibilitariam o cometimento do tráfico de drogas, já que a referida figura típica pressupõe o vínculo esporádico e eventual.
+ ..
+5. Agravo regimental improvido.(AgRg no HC 632.550/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/03/2021, DJe 12/03/2021, grifei)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
