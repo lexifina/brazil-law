@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Joelson Rodrigues Pena, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0001294-95.2021.8.26.0602).
+Narram os autos que o Juízo de primeiro grau indeferiu o pedido de livramento condicional feito pelo ora paciente.
+Neste mandamus, os impetrantes alegam, em apertada síntese, que o paciente preencheu os requisitos legais para a concessão do livramento condicional, destacando que, embora ele tenha praticado faltas disciplinares, a lei traz previsão de reabilitação e tais requisitos de reabilitação foram preenchidos(fl. 5).
+Requerem, inclusive em liminar, a concessão do benefício do livramento condicional.
+Prestadas as informações (fls. 57/67), o Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 71/80).
+É o relatório.
+Como é cediço, a ausência do preenchimento do requisito subjetivo é fundamento, por si só, suficiente para justificar o indeferimento do livramento condicional e da progressão de regime.
+Ao indeferir o pleito de concessão de livramento condicional, asseverou o Magistrado de primeiro grau (fl. 113):
+O pedido é improcedente.
+Conquanto tenha preenchido o requisito objetivo (fls. 6), depreende-se do histórico carcerário que o sentenciado praticou três faltas disciplinares durante o cumprimento de pena, apresentando conduta reabilitada há pouco tempo (em junho de 2020) - fato que, apesar de não provocar a interrupção do período aquisitivo, a teor da Súmula 441 do egrégio STJ, é suficiente para afastar a presença do requisito subjetivo.
+Frise-se, ainda, que o postulante foi regredido ao regime fechado em virtude de não ter demonstrado adaptação ao estágio intermediário que lhe havia sido confiado. Outrossim, ostenta longa pena a cumprir (término para 2027). Desta forma, é possível, ante o histórico prisional desfavorável do executado, verificar elementos que desaconselham, neste momento, a ampla liberdade, devendo ser mantido no atual regime, a fim de assimilar melhor da terapia prisional e desenvolver os predicados necessários à convivência em sociedade, sem prejuízo de posterior reapreciação.
+O Tribunala quocorroborou a decisão.
+Assim, verifica-se que não há flagrante ilegalidade a ser sanada.
+Emboraa jurisprudência desta Corteaponte quenão há obrigatoriedade de o apenado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal (RHC n. 116.324/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/9/2019), também possui entendimento consolidado no sentido de queaprática de faltas graves é indicativoda ausência de cumprimento do requisito subjetivo, não se aplicando limite temporal à análise desse pressuposto.
+Assim, deve ser analisado todo o período de execução, a fim de se averiguar o mérito do apenado;e a eventual circunstância de o paciente já haver se reabilitado, pela passagem do tempo ou pela aplicação de sanção, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal.
+Por oportuno, confira-se:
+PENAL. PROCESSO PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA. DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.decisão agravada por seus próprios fundamentos.
+II - A jurisprudência deste Tribunal Superior firmou-se no sentido de que o cometimento de falta grave no curso da execução, conquanto não interrompa o lapso temporal para a concessão do livramento condicional (Enunciado Sumular n. 441/STJ), pode impedir a concessão do benefício, por ausência de implementação do requisito subjetivo, nos termos do art. 83, III, do Código Penal. Precedentes.
+III - In casu, o eg. Tribunal estadual sustentou o indeferimento do livramento condicional ao apenado com fundamento na prática de falta disciplinar de natureza grave, em 9/4/2019, bem como nos aspectos desfavoráveis relacionados no exame criminológico realizado, no qual restou consignado que o apenado ostenta traços que sugerem imaturidade e dificuldade no controle racional de suas emoções, fatos que indicam, a toda evidência, a ausência do preenchimento do requisito subjetivo para fins de obtenção do livramento condicional.Assim, a existência de fatos concretos ocorridos no curso da execução da reprimenda, notadamente o cometimento de falta grave, denotam a ausência do requisito subjetivo e constituem motivação idônea para a negativa do livramento condicional.
+IV - Ademais, é também firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para o livramento condicional ou outro benefício, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita. Precedentes.
+V - Desta forma, verifica-se que o v. acórdão combatido está em consonância com a jurisprudência desta Corte Superior de Justiça, não restando configurada a ilegalidade apontada.
+Agravo regimental desprovido.
+(AgRg no HC n. 680.239/SP,Ministro Jesuíno Rissato (Desembargador Convocado doTJDFT), Quinta Turma,DJe 27/9/2021 - grifo nosso)
+Nesse contexto, a inversão do julgado exigiria incursão na seara fático-probatória, providência sabidamente inviávelna estreita via dohabeas corpus, ação constitucional de rito célere e cognição sumária. No mesmo sentido: AgRg no HC n. 512.625/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 30/8/2019; e AgRg no HC n. 600.011/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/10/2020.
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE REQUISITO SUBJETIVO DEVIDAMENTE DEMONSTRADA. INEXISTÊNCIADE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
