@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ADELINO RODRIGUES DE PAIVA FILHO contra o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, que negou provimento ao Agravo em Execução n. 0005222-51.2021.8.26.0506. A Sétima Câmara de Direito Criminal manteve, assim, a decisão do Juízo da Vara das Execuções Criminais da comarca de Presidente Prudente/SP de indeferimento do pedido de livramento condicional no PEC n. 966.741.
+A defesa alega, em síntese, que os fundamentos utilizados pelo Tribunal de Justiça para negar a benesse são inidôneos, pois, quando do alcance do requisito objetivo, em 13/9/2018, o paciente preenchia todos os requisitos dos arts. 131 e 83 da Lei de Execução Penal. Argumenta que a negativa em conceder o livramento condicional, dá-se pautada apenas na impossibilidade de progressão por salto, o que, nos termos da jurisprudência, configura constrangimento ilegal (fl. 6).
+Requer, assim, a concessão da liminar e, ao final, da ordem, a fim de conceder o livramento condicional do paciente, em face do preenchimento de todos os requisitos legais (fl. 7).
+É o relatório.
+Ocorre que os autos estão mal instruídos. Não há cópia da decisão tomada em primeira instância, pelo Juízo da execução.
+Ora, o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 445.031/PB, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/6/2018).
+Ademais, a leitura da ementa do acórdão ora impugnado não revela a existência de constrangimento ilegal, uma vez que, segundo o Tribunal local, o paciente não comprovou o requisito subjetivo (fl. 18):
+Agravo em Execução - LIVRAMENTO CONDICIONAL Ausência de fundamentação Inocorrência - Sentenciado cumpre pena no regime fechado - Concessão do pleito importaria em progressão por salto - Sentenciado não comprovou requisito subjetivo - Pedido corretamente indeferido - Agravo improvido.
+Vale lembrar que esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento tanto do pleito de progressão de regime prisional quanto do de concessão de livramento condicional pelo inadimplemento do requisito subjetivo (AgRg no HC n. 584.224/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020).
+No caso, não parece que tenha havido debate na origem exatamente acerca do ponto suscitado agora na impetração no que diz respeito ao mérito do reeducando.
+Por fim, a modificação da conclusão da Corte estadual quanto ao preenchimento do requisito subjetivo e à possibilidade de deferir o livramento condicional exigiria o aprofundado exame de fatos e de provas, providência inadmissível na via eleita.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. DEFICIÊNCIA NA INSTRUÇÃO DO PEDIDO. DILAÇÃO PROBATÓRIA. INADMISSIBILIDADE. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PREENCHIMENTO CONCOMITANTE DOS REQUISITOS OBJETIVO E SUBJETIVO. QUESTÃO ESPECÍFICA NÃO DEBATIDA/DECIDIDA PELO TRIBUNAL ESTADUAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Writ indeferido liminarmente.
