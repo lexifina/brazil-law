@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR):Trata-se de agravo interno interposto contra decisão assim ementada (fl. 133):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. BEM IMÓVEL OFERECIDO À PENHORA. RECUSA JUSTIFICADA DA FAZENDA. REVISÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+A parte agravante aponta a inaplicabilidade da Súmula 7/STJ, tendo em vista que a matéria discutida nos autos é eminentemente de direito, referente à inobservância do princípio da menor onerosidade além da violação à ordem legal de penhora estabelecida pelo CPC. De outro lado, sustenta que o acórdão recorrido analisou a matéria de direito alegada pela recorrente, mesmo sem ter feito menção expressa aos dispositivos normativos, sendo o caso de afastar a incidência da Súmula 282/STF. Alega que houve recusa injustificada da Fazenda quanto ao imóvel oferecido à penhora, postulando pela aplicação do princípio da menor onerosidade. Argumenta que a penhora sobre o seu faturamento poderá acarretar danos irreparáveis à empresa.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. BEM IMÓVEL OFERECIDO À PENHORA. RECUSA JUSTIFICADA DA FAZENDA. REVISÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF.
+1. APrimeira Seção, no julgamento do REsp 1.337.790/PR, sob o regime dos recursos repetitivos, sedimentou o entendimento segundo o qual a Fazenda Pública pode recusar bem oferecido à penhora quando não observada a ordem legal de preferência, sendo ônus da parte executada comprovar a necessidade de afastá-la, inexistindo a preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre a efetividade da tutela executiva.
+2.Na espécie, o Tribunal de origem concluiu que houve recusa justificada da Fazenda quanto ao imóvel oferecido à penhora pela ora recorrente, utilizando-se da análise do suporte fático-probatório dos autos para tanto. Assim, para rever tal conclusão, imprescindível o reexame de matéria probatória, o que é inviável em recurso especial pelo óbice da Súmula 7/STJ.
+3.A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR):O inconformismo recursal não alcança êxito.
+Com efeito, a Primeira Seção, no julgamento do REsp 1.337.790/PR, sob o regime dos recursos repetitivos, sedimentou o entendimento segundo o qual a Fazenda Pública pode recusar bem oferecido à penhora quando não observada a ordem legal de preferência, sendo ônus da parte executada comprovar a necessidade de afastá-la, inexistindo a preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre a efetividade da tutela executiva.
+Confira-se, na parte que interessa, com grifos nossos:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA. PRECATÓRIO. DIREITO DE RECUSA DA FAZENDA PÚBLICA. ORDEM LEGAL. SÚMULA 406/STJ. ADOÇÃO DOS MESMOS FUNDAMENTOS DO RESP 1.090.898/SP (REPETITIVO), NO QUAL SE DISCUTIU A QUESTÃO DA SUBSTITUIÇÃO DE BENS PENHORADOS. PRECEDENTES DO STJ.
+1. Cinge-se a controvérsia principal a definir se a parte executada, ainda que não apresente elementos concretos que justifiquem a incidência do princípio da menor onerosidade (art. 620 do CPC), possui direito subjetivo à aceitação do bem por ela nomeado à penhora em Execução Fiscal, em desacordo com a ordem estabelecida nos arts. 11 da Lei 6.830/1980 e 655 do CPC.
+ ..
+4.A Primeira Seção do STJ, em julgamento de recurso repetitivo,concluiu pela possibilidade de a Fazenda Pública recusar a substituição do bem penhorado por precatório (REsp 1.090.898/SP, Rel. Ministro Castro Meira, DJe 31.8.2009). No mencionado precedente, encontra-se como fundamento decisório a necessidade de preservar a ordem legal conforme instituído nos arts. 11 da Lei 6.830/1980 e 655 do CPC.
+5.A mesmaratio decidenditem lugarin casu, em que se discute a preservação da ordem legal no instante da nomeação à penhora.
+6. Na esteira da Súmula 406/STJ ("A Fazenda Pública pode recusar a substituição do bem penhorado por precatório"), a Fazenda Pública pode apresentar recusa ao oferecimento de precatório à penhora, além de afirmar a inexistência de preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre o da efetividade da tutela executiva.Exige-se, para a superação da ordem legal prevista no art. 655 do CPC, firme argumentação baseada em elementos do caso concreto. Precedentes do STJ.
+7.Em suma: em princípio, nos termos do art. 9º, III, da Lei 6.830/1980, cumpre ao executado nomear bens à penhora, observada a ordem legal. É dele o ônus de comprovar a imperiosa necessidade de afastá-la, e, para que essa providência seja adotada, mostra-se insuficiente a mera invocação genérica do art. 620 do CPC.
+8. Diante dessa orientação, e partindo da premissa fática delineada pelo Tribunal a quo, que atestou a "ausência de motivos para que (..) se inobservasse a ordem de preferência dos artigos 11 da LEF e 655 do CPC, notadamente por nem mesmo haver sido alegado pela executada impossibilidade de penhorar outros bens (..)" - fl. 149, não se pode acolher a pretensão recursal.
+9. Recurso Especial parcialmente provido apenas para afastar a multa do art. 538, parágrafo único, do CPC. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+(REsp 1.337.790/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 12/6/2013, DJe 7/10/2013)
+Na espécie, o Tribunal de origem concluiu que houve recusa justificada da Fazenda quanto ao imóvel oferecido à penhora pela ora recorrente, consoante os seguintes fundamentos (fls. 33/34):
+Uma vez oferecido bem imóvel em substituição de outro, abre-se a possibilidade de recusa da União, desde que fundamentadamente. A propósito, menciono a jurisprudência desta Corte sobre a possibilidade de recusa por parte do exequente de bem oferecido em garantia de dívida:
+ ..
+No caso dos autos, a recusa da União foi acolhida pelo juízo da causa e se apresenta plenamente justificada. Interessante destacar da manifestação de recusa que nunca houve declaração da área rural pela executada, embora sua aquisição remonte ao ano de 1989. Além disso, o imóvel rural oferecido localiza-se no estado do Amazonas, distante da capital, onde sabidamente muitas comunidades indígenas vivem, o que torna duvidosa a viabilidade econômica do imóvel.
+Merece transcrição parte dos fundamentos lançados pela exequente para recusar o imóvel oferecido (evento 26 - PET1):
+(..) Indica a empresa a propriedade de imóvel no Amazonas, na cidade de Maué, adquirido em 1989, por NCZ$ 800,00 (oitocentos cruzados novos). Veja-se que em que pese ter adquirido o bem há longa data, nunca houve declaração territorial rural - DITR em nome da empresa (..)A omissão de tal declaração, somada as características do imóvel, situado em área no Estado do Amazonas, distante da capital, em Município com a presença de muitas comunidades indígenas, inclusive na área "Nova Esperança" descrita na matrícula, põe em dúvida a efetiva viabilidade econômica do bem indicado. Indica-se também que não há o georeferenciamento da área registrado junto a matrícula, o que impede a correta localização e aferição do bem, inclusive impedindo sua constrição e avaliação.
+Sendo assim, nenhuma indicação de idoneidade e suficiência da garantia oferecida se pode verificar.
+Diante desse quadro, tenho por razoável a recusa da Fazenda. Não é demasiado lembrar, aliás, que embora a execução deva observar o princípio da menor onerosidade ao devedor, ela se processa no interesse do credor (art.797 do CPC).
+Como asseverado acima, o acórdão recorrido expressamente reconheceu que houve recusa justificada da Fazenda quanto ao imóvel oferecido pela recorrente em substituição a outro imóvel, utilizando-se da análise do suporte fático-probatório dos autos para tanto. Assim, para rever tal conclusão, imprescindível o reexame de matéria probatória, o que é inviável em recurso especial pelo óbice da Súmula 7/STJ.
+Por fim, a parteagravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 282/STF.
+O prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se manifestou a respeito dos arts. 176, § 3º e 4º da Lei 6.015/1973, 1.245 e 1.247 do CC/2002 indicados no recurso especial, o que denota a falta de pronunciamento ou prequestionamento sobre a(s) controvérsia(s) suscitadas.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 282/STF:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Diante dessas considerações, nego provimento ao agravo interno.
+É como voto.
+PROCESSUAL CIVIL. (CADEIA RECURSAL). AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF.
+1. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo interno/regimental.
+É como voto.
