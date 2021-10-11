@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão assim ementado (fl. 61):
+PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. MATERIALIDADE E AUTORIA COMPROVADAS. DEPOIMENTO DE POLICIAIS. VALIDADE. DOSIMETRIA. CAUSA DE DIMINUIÇÃO AFASTADA ANTE A EXISTÊNCIA DE PROCESSOS EM CURSO. POSSIBILIDADE. SENTENÇA MANTIDA.
+1. O policial no desempenho da função estatal goza de presunção de idoneidade, e seu depoimento tomado na condição de testemunha serve para respaldar o decreto condenatório, especialmente quando não há qualquer razão para se duvidar da veracidade de suas declarações.
+2. Inviável o reconhecimento do tráfico privilegiado, quando se observa que o réu responde a outras ações penais, ainda que em curso, pois indica que ele se dedica à atividade criminosa com habitualidade, portanto, não deve ser beneficiado com a causa especial de diminuição.
+3. Recurso conhecido e improvido.
+Consta dos autos condenação pela prática do crime tipificado no art. 33 da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa.
+No presente writ, o impetrante alega a falta de fundamento idôneo para o afastamento da causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/06.
+Requer, assim, a aplicação da minorante da Lei de Drogas, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Acerca das questões aduzidas, assim se manifestou o Tribunal local (fls. 242/245):
+ ..  Quanto à não aplicação da referida causa de diminuição, o magistrado sentenciante fundamentou nos seguintes termos (ID 26843059):
+Por fim, com relação à incidência da causa de diminuição de pena constante do art. 33, § 4º da Lei 11.343/06, é cediço que a minorante visa beneficiar o "traficante de primeira viagem", não podendo ser aplicada ao réu que se dedica à prática de delitos.
+No caso em análise, repita-se, a abordagem do acusado se deu em virtude de mais de uma postagem de venda de drogas publicada por MARCOS VINÍCIUS em suas redes sociais. Além disso, analisando a sua Folha de Antecedentes Penais, observo que o acusado responde à ação penal n. º 0735758-29.2020.8.07.0001, em trâmite na 4º Vara de Entorpecentes de Brasília (ID. 76963458 - Pág. 2), também em razão da prática de crime de tráfico de entorpecentes (maconha).
+Tudo isso me leva a concluir que o presente delito não se tratou de um fato isolado na vida do acusado, restando evidente a sua dedicação a atividades criminosas, razão pela qual não faz jus à aplicação da causa de diminuição de pena prevista no art. 33, § 4º da LAD.
+Irretocável a decisão de primeiro grau. De fato, o dispositivo legal que prevê a minorante sob exame dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+A jurisprudência deste Tribunal orienta-se no sentido de que o benefício é reservado ao traficante que atue de modo individual e ocasional, e não para aquele que se dedica à criminalidade como meio de vida.
+Conforme asseverado na sentença, não obstante se trate de réu tecnicamente primário, o fato é que, apesar da pouca idade, já responde à ação penal nº 0735758-29.2020.8.07.0001, em trâmite na 4ª Vara de Entorpecentes de Brasília, também em razão de crime de tráfico de entorpecentes (ID 26842558 - Pág. 2)
+Conforme entendimento do Superior Tribunal de Justiça, é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o réu se dedica a atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/06.
+ ..
+Assim, dever ser mantido o afastamento da figura privilegiada do tráfico prevista no art. 33, § 4º, da Lei 11.343/06.  ..
+No caso, para o afastamento da causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, nota-se que as instâncias ordináriasconsideraram o contexto delitivo para denegá-la, destacando que "No caso em análise, repita-se, a abordagem do acusado se deu em virtude de mais de uma postagem de venda de drogas publicada por MARCOS VINÍCIUS em suas redes sociais".
+Trata-se da apreensão de 3 porções de maconha com no total 157,78g (fl. 32).
+Inferiu-se, então, a partir de elementos constantes dos autos, a dedicação do paciente aatividades e/ou organizações criminosas, pela venda de entorpecente utilizando-se de rede social aberta ao público, vedação expressa à aplicação do redutor em apreço contida no art. 33, § 4º, daquela legislação,inviabilizando-se conclusão contrária por esta Corte, porquanto, como se sabe, desserve a presente ação constitucional à análise probatória. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E DIVERSIDADE DOS ENTORPECENTES. NÃO INCIDÊNCIA. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. REGIME FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Concluído pela instância antecedente, com fulcro na quantia e variedade das substâncias apreendidas - 237 porções de cocaína (207g), 374 de maconha (751g) e 1.329 de crack (260g) -, assim como nos demais elementos constantes dos autos, que o paciente se dedica ao tráfico de drogas, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+3. Embora o paciente seja primário e a pena tenha sido fixada em patamar inferior a 8 anos de reclusão, o regime fechado mostra-se adequado para o início do cumprimento da sanção imposta, diante da aferição desfavorável de circunstâncias judiciais (quantidade, variedade e natureza dos entorpecentes), nos termos dos art. 33 do CP c.c o art. 42 da Lei n. 11.343/2006.
+4. Agravo regimental não provido. (AgRg no HC 595.235/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/03/2021, DJe 29/03/2021).
+Por fim, mantidas as penas e fixado regime semiaberto, permanece a impossibilidade de substituição.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
