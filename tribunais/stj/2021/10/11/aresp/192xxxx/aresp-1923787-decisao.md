@@ -1,0 +1,91 @@
+DECISÃO
+Trata-se de agravo interposto por Companhia de Seguros Aliança do Brasilcontra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça de Minas Gerais assim ementado (e-STJ, fl. 760):
+AÇÃO DE COBRANÇA - INDENIZAÇÃO SECURITÁRIA - ILEGITIMIDADE PASSIVA - TEORIA DA APARÊNCIA - INFORMAÇÃO ERRÔNEA PRESTADA PELO SEGURADO - AUSÊNCIA DE DILIGÊNCIA - CONTRATO FORMALIZADO - BOA-FÉ - LEGÍTIMA EXPECTATIVA - INDENIZAÇÃO DEVIDA - DANOS MORAIS - MERO ABORRECIMENTO.
+1. A instituição financeira, é parte legítima para figurar no polo passivo da ação que discute o pagamento de indenização securitária, consistente na quitação de parcelas do financiamento contrato com o consumidor.
+2. O contrato de seguro está amparado pela boa-fé objetiva, ou seja, a exigência de comportamento legal e honesto entre as partes contratantes, de modo a preservar as legítimas expectativas geradas pelo contrato. A seguradora assume o risco de cobrir eventuais sinistros decorrentes do contrato, ao aceitar a contratação sem exigir do segurado a comprovação de inexistência de doença preexistente.
+3. Ao firmar o contrato de seguro com o segurado sem a devida diligência, aceitando os prêmios pagos por ele, a seguradora cria no consumidor expectativa de que o contrato está regular, não podendo posteriormente se furtar da obrigação de pagar a indenização sob a justificativa de que o contrato era inválido.
+4. Só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação que, fugindo à normalidade, interfira intensamente no comportamento psicológico do indivíduo, causando-lhe aflições, angústia e desequilíbrio em seu bem-estar. Mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral, porquanto, além de fazerem parte da normalidade do nosso dia-a-dia, no trabalho, no trânsito, entre os amigos e até no ambiente familiar, tais situações não são intensas e duradouras, a ponto de romper o equilíbrio psicológico do indivíduo.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 798-801).
+Nas razões do apelo especial (e-STJ, fls. 805-819), arecorrente alegou a violação dos arts. 489 do Código de Processo Civil de 2015; 422 e 765 do Código Civil de 2002.
+Sustentou, em síntese, a ausência de fundamentação, aduzindo que o Tribunal de origem não analisou as razões do recurso de apelação, proferindo decisão absolutamente desconexa com a matéria devolvida no referido recurso.
+Asseverou que o segurado era portador de câncer quando da contratação dos seguros e que, na época da contratação do seguro,apesar de questionado, o segurado omitiu seu real estado de saúde, o que por si só configura sua má-fé, estando claraa existência de risco excluído, sendodespicienda a exigência de perícia médica quando da contratação.
+Não foram apresentadas contrarrazões (e-STJ, fl. 828).
+O Tribunal de origem não admitiu o processamento do recurso especial ante aincidência daSúmulan.7 do STJ (e-STJ, fls. 829-832).
+Brevemente relatado, decido.
+Com efeito, a orientação jurisprudencial desta Corte firmou-se no sentido de que a recusa da seguradora ao pagamento da indenização contratada, sob a alegação de doença preexistente, pressupõe a realização de exame médico antes da contratação ou a comprovação de que o contrato de seguro foi celebrado pelo segurado com má-fé.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COBRANÇA. SEGURO DE VIDA. DOENÇA PRE-EXISTENTE. ALEGADA MÁ-FÉ DO SEGURADO. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. O acórdão estadual está em harmonia com o entendimento adotado neste Sodalício, no sentido de que a doença preexistente só pode ser oposta pela seguradora ao segurado mediante a realização de prévio exame médico ou prova inequívoca de sua má-fé o que, na espécie, não ocorreu. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.622.988/RS, RelatorMinistro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/2/2021, DJe 3/3/2021).
+Nesse contexto, é certo que o simples fato de ter o segurado omitido a preexistência de doença não seria suficiente para concluir por sua má-fé, mormente quando verificadas as seguintes considerações estaduais (e-STJ, fls. 765-779):
+Cinge-se a questão na recusa da seguradora no pagamento da cobertura securitária pretendida pelo autora, MARIA DA CONCEICAO MARQUES DE PAULA, cônjuge do segurado falecido, ao fundamentode que foram prestadas informações inverídicas na apólice de seguro de vida/crédito protegido, notadamente com relação a existência de doença preexistente, requisito esse necessário para a validade do contrato.
+Primeiramente, há que se registrar a aplicabilidade do Código de Defesa do Consumidor, tendo em vista que a empresa segurada é a destinatária final do contrato de seguro.
+(..)
+Assim, não há mais que se falar em intangibilidade do conteúdo do contrato, sendo certo que os estritos termos da avença deixaram de ser a única fonte de elementos de convicção para que os magistrados decidam lides como esta.
+Com efeito, a evolução doutrinária do direito contratual determina uma interpretação teleológica do contrato, um respeito maior pelos interesses sociais envolvidos, pelas expectativas legítimas das partes, especialmente daquelas que somente tiveram a liberdade de aderir ou não aos termos pré-elaborados. Nesse diapasão, deve-sesempre buscar o justo equilíbrio contratual, mitigando-se, quando necessário, o clássico princípio do pacta sunt servanda. Nesse sentido, é a lição de Paulo Luiz Netto Lobo:
+(..)
+Dada a circunstância de o contrato ser redigido pela seguradora, resultando, pois, num desequilíbrio de força dos contratantes, os tribunais, como lembra Pedro Alvim, "passaram a interpretar as cláusulas do contrato no interesse do segurado para liberá-lo de certas obrigações, invocando seja a força maior, seja a boa-fé do segurado, seja a renúncia do segurador, seja a ambiguidade, a imprecisão e, mesmo, a contradição das cláusulas".
+Certo que o contrato de seguro está amparado pela boa-fé presente nos artigos 4º, III e 51, IV do CDC e na cláusula geral do art. 422 do CC, tendo ainda, um artigo próprio no Código Civil no qual está explicita a boa-fé exigida nesta espécie contratual. Dispõe o art. 765, do Código Civil:
+(..)
+A boa-fé acima referida é a objetiva, ou seja, a exigência de comportamento legal e honesto entre as partes contratantes, de modo a preservar as legítimas expectativas geradas pelo contrato. O segurado tem a expectativa de receber o prêmio caso ocorra o sinistro, no valor do capital assegurado, por sua vez, a seguradora confia nas declarações recebidas.
+A questão relativa à interpretação do contrato, na esteira dos preceitos que regulam as relações negociais modernas, foi analisada com maestria em texto do renomado jurista Humberto Theodoro Júnior, cuja transcrição se mostra bastante oportuna:
+(..)
+Nesta senda, cumpre ressaltar que a boa-fé objetiva não se limita a exigir dos contratantes lealdade e retidão, porquanto também restringe a conduta dos mesmos, vedando o exercício abusivo de direitos. A respeito, Eliton Vargas Lemos Prado nos esclarece que:
+(..)
+Ademais, o exercício de todo e qualquer direito deve respeitar não apenas os limites contratuais, mas também os decorrentes do postulado da boa-fé.
+Seguindo a linha de raciocínio, constata-se a estreita proximidade existente entre a boa-fé e o exercício abusivo de direitos,na medida em que este consubstancia em quebra da confiança e frustração de legítimas expectativas.
+(..)
+Interessa-nos, para fins de solução desta lide, o desleal não exercício de direito, situação na qual o titular do direito adota atitudes deslealmente contraditórias, gerando inicialmente na contraparte uma confiança justificada em que não exerceria o seu direito para, em seguida, o fazer valer ao seu alvedrio e em detrimento daquela.
+Na espécie, o cônjuge falecido da autora, firmou junto aos réus contratos de empréstimo financeiro com seguro em garantia dos valores. Todavia, em suas razões recursais, a segunda apelante alega a impossibilidade de pagar a indenização securitária, vez que o autor omitiu a existência de doença preexistente.
+Data vênia, os apelantes não comprovaram que no momento da contratação exigiu do segurado documentos que atestassem a veracidade de suas alegações, mormente quanto a inexistência de doença preexistente.
+Ora, a seguradora não trouxe aos autos qualquer laudo médico pericial demonstrando que antes da efetiva celebração do pacto,submeteu o segurado à exames com a finalidade de constatar a existência de doenças.
+Assim, de fato, ao aceitar a contratação sem exigir do segurado a comprovação de que não possuía doença preexistente, a seguradora assumiu o risco de cobrir eventuais sinistros decorrentes do contrato. Aliás, assumir riscos é da essência dessa espécie contratual.
+Cumpriria à seguradora agir com zelo e cuidado no momento da contratação, verificando a fundo as informações concedidas pelo consumidor. Todavia, ao optar por contratações massificadas, a fornecedora corre o risco de pagar por indenizações fora de seus limites contratuais.
+Com efeito, não é razoável que a seguradora exija a documentação apenas no momento da regularização do sinistro, quando já recebeu diversos prêmios por parte do segurado e, só então, alegar que o contrato é irregular e se negar a realizar a cobertura.
+Assim, ao firmar o contrato e receber os prêmios decorrentes, a seguradora apelante vinculou-se ao ato por ela praticado, conforme sábia lição do professor Luciano de Camargo Penteado:
+(..)
+Nesse diapasão, o princípio da boa-fé tolhe por completo a possibilidade da seguradora recorrente exercer agora seu direito em patente contradição com o comportamento que livre eespontaneamente adotou. Por oportuno, confira-se a lição de Paulo Mota Pinto, citado pelo Professor Camargo em seu ensaio:
+(..)
+Com efeito, ao firmar o contrato de seguro com o de cujus sem a devida diligência, aceitando os prêmios pagos por ele, a seguradora criou no mesmo e em sua família legítima expectativa de que o contrato estaria regular, não podendo a seguradora apelante neste momento se furtar da sua obrigação de pagar a indenização sob a justificativa de que o contrato era inválido.
+Registra-se, ainda, que os elementos dos autos não comprovam a má-fé do segurado ao preencher o questionário de avaliação de risco, ocasionando o agravamento deste, mesmo porque a boa-fé é presumida, enquanto aquela deve ser exaustivamente comprovada.
+(..)
+Nesta senda, em que pese ser incontroverso nos autos que o segurado, quando da contratação, já possuía adenocarcinoma (câncer),nota-se que conforme consta do laudo pericial produzido durante a instrução processual, o de cujus foi submetido a procedimentos médicos no ano de 2011 para tratamento da moléstia,os quais tiveram resultado satisfatórios, sendo que nos vários exames posteriores não foram diagnosticadas alterações no quadro de saúde.
+Assim, é crível que o segurado possa ter entendido que estava curado, não subsistindo qualquer patologia, haja vista que se trata de homem médio, que não possui maiores conhecimentos técnicos acerca da medicina. Nesta ordem de ideias, é importante frisar que a recidiva da doença, ocorreu somente após a contratação dos seguros.
+Destarte, a má-fé não se presume, sendo ônus da seguradora a prova de que o segurado assim procedeu. Aliás, não é de se duvidar que estejam as seguradoras se valendo destes possíveis "furos", para se esquivarem propositalmente do pagamento de eventuais sinistros.
+Com tais considerações, tem-se devida a indenização do seguro, não merecendo reforma a sentença recorrida neste particular. (Sem grifo no original).
+Registre-se que a instância ordinária solucionou de forma clara as questões que lhe foram submetidas, não configurando a ofensa ao art. 489, § 1º, do CPC/2015, isso porque, conforme entendimento desta Corte o inconformismo com os fundamentos do acórdão recorrido não significa ausência ou deficiência de motivação, porquanto não se confunde solução jurídica contrária aos interesses da parte com inexistência de efetiva fundamentação.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC.
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia 5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.582.425/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/8/2021, DJe 19/8/2021).
+Além disso, verifica-se que a revisão do julgado recorrido exigiria o revolvimento das cláusulas pactuadas entre as partes e das circunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação daSúmulan.7 desta Corte.
+Outrossim, é firme a orientação jurisprudencial do STJ de que "a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado" (Súmula n. 609).
+Por conseguinte, de acordo com as premissas fáticas estabelecidas no acórdão recorrido no sentido de que não houve exigência, antes da contratação, de exames médicos por parte da seguradora e de que não foi comprovada a má-fé do segurado, as conclusões alcançadas pelo Tribunal de origem estão ajustadas ao entendimento da jurisprudência do STJ, sendo o caso de incidência da Súmula n. 83/STJ.
+Na mesma linha:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. SEGURO PRESTAMISTA. DOENÇA PRÉ-EXISTENTE NÃO INFORMADA PELO SEGURADO.OCORRÊNCIA DO SINISTRO. AUSÊNCIA DE COMPROVAÇÃO DE MÁ-FÉ DO SEGURADO. DISTINÇÃO ENTRE TRATAMENTO MÉDICO E ACOMPANHAMENTO MÉDICO.AUSÊNCIA DE PREVISIBILIDADE DO ÓBITO NO CURSO DO CONTRATO DE MÚTUO.ILICITUDE DA RECUSA DE COBERTURA PELA SEGURADORA. APLICAÇÃO DO ENUNCIADO DA SÚMULA 609/STJ. JURISPRUDÊNCIA DESTA CORTE SUPERIOR.
+1. Controvérsia acerca da recusa de cobertura de seguro prestamista na hipótese em que o segurado faleceu três meses após a contratação, tendo sido apontada como "causa mortis" doença preexistente (miocardiopatia dilatada) não informada na declaração de saúde.
+2. Caso concreto em que o quesito da declaração de saúde indagava acerca da submissão a tratamento médico nos três anos anteriores à contratação, tendo sido respondido negativamente pelo segurado.
+3. Ausência de comprovação de inveracidade da informação prestada pelo segurado, pois o quesito indagava acerca de doença em tratamento nos últimos três anos, não sobre toda e qualquer doença preexistente.
+4. Ausência também de prova de que o segurado estivesse em tratamento no momento da contratação, sendo necessário distinguir tratamento médico e acompanhamento médico.
+5. Ausência, outrossim, de evidência de má-fé do segurado, pois as condições de saúde deste não apontavam para a ocorrência do óbito no curso da contratação acessória, cuja finalidade era garantir o pagamento do saldo devedor do contrato principal de mútuo.
+6. Aplicação ao caso da Súmula 609/STJ, segundo a qual: "a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado".
+7. Ilicitude da recusa de cobertura no caso concreto.
+8. RECURSO ESPECIAL PROVIDO.
+(REsp n. 1.753.222/RS, RelatorMinistro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 23/3/2021, DJe 25/3/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COBRANÇA. SEGURO DE VIDA. DOENÇA PRE-EXISTENTE. ALEGADA MÁ-FÉ DO SEGURADO. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal da alegada má-fé do segurado demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2. O acórdão estadual está em harmonia com o entendimento adotado neste Sodalício, no sentido de que a doença preexistente só pode ser oposta pela seguradora ao segurado mediante a realização de prévio exame médico ou prova inequívoca de sua má-fé o que, na espécie, não ocorreu. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.622.988/RS, RelatorMinistro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/2/2021, DJe 3/3/2021).
+Ante o exposto, conheço do agravo para conhecer parcialmente dorecurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida para 15% sobre o valor da causa.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. SEGURO SAÚDE. AUSÊNCIA DE AFRONTA AO ART. 489 DO CPC/2015. NÃO CABIMENTO DA RECUSA DE COBERTURA. DOENÇA PREEXISTENTE. INEXISTÊNCIA DE PEDIDO DE EXAMES PRÉVIOS À CONTRATAÇÃO. SÚMULA 609/STJ. SÚMULA 83/STJ. MÁ-FÉ NÃO COMPROVADA.REEXAME. SÚMULA7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
