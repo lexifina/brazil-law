@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de THIAGO DE OLIVEIRA NASCIMENTO, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 1.0000.21.071381-4/000.
+Extrai-se dos autos que, em 18/9/2020, o paciente foi preso em flagrante, pela suposta prática dos delitos tipificados nos arts. 33 e 35, ambos da Lei 11.343/2006 (tráfico de drogas e associação para o narcotráfico). Referida custódia foi convertida em prisão preventiva.
+Alegando excesso de prazo, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS-TRÁFICO DE DROGAS -EXCESSO DE PRAZO -RAZOABILIDADE -NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS -DILAÇÃO JUSTIFICADA -AUSÊNCIA DE CONSTRANGIMENTO ILEGAL -ORDEM DENEGADA. 1. O prazo legal para a conclusão de processo de réu preso não pode ser resultado da simples somatória dos lapsos para a realização de todos os atos previstos na lei, mas deve se adequar à complexidade da causa. 2. Denegado o habeas corpus (fl. 8).
+No presente writ, aponta a impetrante a ocorrência de excesso de prazo na formação da culpa, estando o paciente preso há 8 meses esperando seu julgamento, e sem nenhuma previsão.
+Sustenta que foge da razoabilidade, admitir que um cidadão fique custodiado por oito meses aguardando a audiência de instrução e julgamento.
+Requer, em liminar e no mérito, a expedição de alvará de soltura em favor do paciente.
+Indeferido o pedido de liminar (fls. 21/22) e prestadas as informações solicitadas (fls. 26/59); o Ministério Público Federal opinou pela concessão da ordem (fls. 64/70).
+É o relatório.
+Decido.
+Verifica-se, em consulta à página eletrônica do Tribunal de origem que, em 17/9/2021 , nos autos da Ação Penal n. 0052846-12.2020.813.0145, houve audiência de instrução e julgamento, ocasião em que foi realizado interrogatório final e encerrada a instrução, o que atrai ao caso a incidência da Súmula n. 52 deste Superior Tribunal de Justiça, que prevê: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Anote-se, ainda, o seguinte precedente:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE EXCESSO DE PRAZO. ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. ENUNCIADO Nº 52 DA SÚMULA DO STJ. PRISÃO PREVENTIVA. ELEVADA QUANTIDADE E REPROVÁVEL NATUREZA DOS ENTORPECENTES APREENDIDOS. INDÍCIOS DE VINCULAÇÃO COM A FACÇÃO CRIMINOSA "PCC". GRAVIDADE CONCRETA. CIRCUNSTÂNCIAS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Nos termos do enunciado nº 52 da Súmula do Superior Tribunal de Justiça, "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+2. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF) que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+3. No caso, as instâncias ordinárias destacaram os indícios de dedicação às atividades criminosas, ressaltando a elevada quantidade de entorpecentes apreendidos - 12 porções de cocaína, pesando 281g, 16 porções de maconha, do tipo skunk, com peso de 420,8g, e mais 340 porções de cocaína, com peso não informado -, bem como a natureza especialmente reprovável das drogas. Sublinharam, ainda, que o recorrente, em sede policial, afirmou fazer parte da facção criminosa Primeiro Comando da Capital - PCC, o que reveste a conduta de especial gravidade.
+4. O entendimento desta Corte é assente no sentido de que, estando presentes os requisitos autorizadores da segregação preventiva, eventuais condições pessoais favoráveis não são suficientes para afastá-la.
+5. As circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+6. Recurso parcialmente conhecido e desprovido.
+(RHC 113.306/RR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 08/10/2019)
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
