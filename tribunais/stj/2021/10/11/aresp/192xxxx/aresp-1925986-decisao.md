@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por Banco Santander Brasil S.A. contra a decisão de fls. 307-316 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 263-270 e 281-285 (e-STJ), prolatados pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementados:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. Juros remuneratórios. Há abusividade nos juros remuneratórios contratados junto ao banco, razão pela qual às taxas vão limitadas à taxa média do mercado divulgada pelo BACEN. Capitalização. Admitida a capitalização de juros em periodicidade inferior à anual em contratos celebrados após 31.3.2000, data da publicação da MP 2.170-36/2001 e desde que expressamente pactuada, conforme Súmula nº 539 do STJ. Em relação ao contrato de cheque especial, não vindo aos autos tal instrumento, a incidência de tal encargo deve ser afastada. Descaracterização da mora. A cobrança de encargos abusivos no período da normalidade autoriza a descaracterização da mora em relação aos contatos revisados. Apelo desprovido.
+EMBARGOS DE DECLARAÇÃO. DIREITO PRIVADO NÃO ESPECIFICADO. CABIMENTO DO RECURSO CONDICIONADO À EXISTÊNCIA DOS PRESSUPOSTOS PREVISTOS NO ART. 1.022 DO CPC/15. CONTRADIÇÃO, INEXISTÊNCIA OBSCURIDADE DE OU OMISSÃO, ERRO MATERIAL NO ACÓRDÃO. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Nas razões do recurso especial (e-STJ, fls. 288-299), apontou o insurgente, além de dissídio jurisprudencial, a existência de violação do art. 4º, IX, da Lei 4.565/1964.
+Sustentou, em síntese: i) descabimento da adoção da taxa de juros médiademercado, porquanto não há abusividade da taxa contratada, estando pouco acima da taxa média; e ii) que a descaracterização da mora somente ocorre quando há abusividade das taxas cobradas no períodode normalidade.
+Sem contrarrazões (e-STJ, fls. 305-306).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) incidência da Súmula 83/STJ com relação à taxa de juros aplicada; b) incidência das Súmulas 5 e 7/STJà pretensão de revisar a conclusão pela abusividade da taxa de juros contratada; c) inviabilidade da análise do dissídio jurisprudencial em razão da incidência das Súmulas 5 e 7/STJ; d) incidência da Súmula 283/STF no tocante aos juros do cheque especial; e) aplicação do art. 1.030, I, b, do CPC/2015 no tocante à descaracterização da mora.
+Daí o presente agravo, no qual o insurgente contesta a aplicação dos óbices.
+Sem contraminuta(e-STJ, fls. 366-367).
+Brevemente relatado, decido.
+Inicialmente, vale ressaltar que, referente à tese de não descaracterização da mora, orecurso foi inadmitido na origem com fundamento no art. 1.030, I, b, do Código de Processo Civil de 2015, tendo em vista que o posicionamento adotado pelo acórdão a quo estaria em harmonia com a jurisprudência desta Corte Superior, sedimentada em julgamento de recurso repetitivo.
+Veja-se à fl. 315 (e-STJ):
+Quanto ao mais, a mora do devedor restou descaracterizada, diante do reconhecimento de encargo abusivo incidente no período da normalidade contratual, nos termos do que determina a jurisprudência consolidada do Superior Tribunal de justiça, que firmou, em sede de Recurso Repetitivo, a seguinte orientação: "O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, Dje 10/03/2009 -TEMA 28/STD.
+ ..
+III. Ante o exposto, NEGO SEGUIMENTO ao recurso especial, tendo em vista o REsp 1.061.530/RS (TEMAS 24 a 28 do ST)), e o REsp 1.112.879/PR (TEMAS 233 e 234 do STI), e NÃO ADMITO o recurso quanto às demais questões.
+Ocorre que a compreensão desta Corte é no sentido de que não cabe agravo em recurso especial contra a decisão que inadmite o apelo extremo com fundamento no referido artigo, hipótese em que deveria ter sido apresentado agravo interno para o próprio Tribunal de origem.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.030, I, B, DO CPC. RECURSO CABÍVEL. AGRAVO INTERNO PERANTE O TRIBUNAL DE ORIGEM. APLICAÇÃO DO ART. 932, III, DO CPC E DA SÚMULA 182/STJ. MANUTENÇÃO.
+1. De acordo com o art. 1.030, I, b, § 2º, do CPC, cabe agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão em conformidade com tese firmada em recurso repetitivo.
+2. Assim, mantém-se a decisão agravada que não conheceu do recurso, pois o agravo em recurso especial não é instrumento adequado para afastar a aplicação de tese de recurso repetitivo, razão pela qual deve ser mantido o não conhecimento do recurso nesse ponto.
+3. "O juízo de admissibilidade negativo feito na origem, quando contiver capítulos decisórios fundados autonomamente no inciso I e II do art. 1.030 do CPC/2015 e também no inciso V do mesmo preceito legal, desafia a interposição concomitante de agravo interno e de agravo em recurso especial, hipótese em que admitida exceção à regra da unirrecorribilidade." (AgInt no AREsp 827.564/BA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/12/2017.) 4. O Tribunal de origem, além de negar seguimento em parte ao recurso especial, não o admitiu, quanto ao mais, em virtude da ausência de omissão no acórdão recorrido a ser sanada. Tal fundamento não foi devidamente impugnado pela parte insurgente na petição de agravo em recurso especial.
+5. A jurisprudência do STJ é uníssona no sentido de que a emissão de juízo sobre o mérito do recurso especial, pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.635.740/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 03/08/2021, DJe 13/08/2021).
+Portanto, não há como conhecer do agravo, no tocante à tese de não descaracterização da mora, tendo em vista o descabimento do recurso.
+Quanto à tese de que não houve abusividade na taxa de juros contratada, porquanto pouco acima da taxa média de mercado, incidentes as Súmulas 5 e 7/STJ a obstar o conhecimento do recurso.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. OPOSIÇÃO AO JULGAMENTO VIRTUAL.INDEFERIMENTO. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE.TAXA MÉDIA DO MERCADO. REVISÃO. SÚM. 5 e 7/STJ.
+1. A jurisprudência desta Corte é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF, de forma que a abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos.
+2. É inviável rever a conclusão do Tribunal estadual de que os juros remuneratórios, no caso, são abusivos quando comparados à taxa média de mercado, pois demandaria reexame de provas e interpretação de cláusula contratual, providências vedadas em recurso especial (Súmulas 5 e 7/STJ). Precedentes.
+3. Agravo interno não provido. Indeferida a oposição ao julgamento virtual.
+(AgInt no REsp 1.918.538/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/08/2021, DJe 26/08/2021).
+Diante do exposto, conheço parcialmente do agravo para não conhecer recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais em favor das advogadas da parte recorridaem R$ 500,00 (quinhentos reais).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. ABUSIVIDADE DA TAXA CONTRATADA. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. DESCARACTERIZAÇÃO DA MORA. APLICAÇÃO DO ART. 1.030, I, B, DO CPC/2015. DESCABIMENTO DO AGRAVO. AGRAVO PARCIALMENTE CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
