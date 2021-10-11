@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANEEL. RECEITAFEDERAL. DUPLA INDICAÇÃO DE AUTORIDADE COATORA. COMPETÊNCIA. SEDE DE QUALQUER DAS AUTORIDADESIMPETRADAS. I. Havendo a indicação de mais de uma autoridade coatora, omandado de segurança pode ser impetrado na sede de qualquer uma delas,competindo ao Juízo analisar o mérito da questão em relação a todas asautoridades impetradas. II. Agravo de instrumento provido.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a recorrente aponta violação ao art. 1.022 do CPC/2015, aduzindo que ter sido sanada a omissão quanto ao , asseverando (e-STJ, fl. 134):
+No caso dos autos, reitere-se que a União pleiteou NA manifestação do evento 8 a renovação da intimação para apresentação de contrarrazões na pessoa do DD. representante da Procuradoria Regional da União perante esse e. Tribunal, visto que a matéria objeto do feito não está afeta às atribuições da Procuradoria Geral da Fazenda Nacional, a teor do constante do art. 12 da Lei Complementar n. 73/93. Reconhecido que se tratava de matéria administrativa, de competência da 2ª Seção do TRF4ª Região, impor-se-ia com ainda mais razão a necessidade dessa intimação.
+Não obstante isso, o DD. Juízo a quo não renovou a intimação, o que fez com que não fosse oportunizado o regular contraditório em favor da União no ponto, desafiando o constante dos arts. 8, 9º, 10 e 1.019, II, todos do CPC.
+Houve contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial merece provimento.
+Tem razão, em parte, a recorrente quanto aponta ofensa ao art. 1.022 do CPC/2015.
+Os embargos de declaração foram opostos para sanar suposta omissão quanto ao art.12 da Lei Complementar n. 73/1993.
+O Tribunal de origem, porém, mesmo provocado por meio de embargos de declaração, não se pronunciou de modo suficiente sobre tal questão.
+Nesses termos, impõe-se a anulação do acórdão dos embargos de declaração para que novo julgamento dos aclaratórios seja realizado, de forma sejam novamente apreciados os argumentos da ora recorrente. Nessa linha de consideração, citam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPENSAÇÃO DE CHEQUES PARA PAGAMENTO DE TRIBUTOS. FALHA NA PRESTAÇÃO DE SERVIÇO BANCÁRIO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+1. A necessidade de impugnação específica - prevista no art. 932, III, do CPC/2015 e Súmula 182/STJ - não se aplica ao fundamento relativo à violação de norma constitucional, pois se trata de matéria a ser apreciada no recurso extraordinário. Com isso, reconsidera-se a decisão agravada, passando-se a novo exame do recurso.
+2. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca dos elementos fáticos que não podem ser examinados, de plano, na via estreita do recurso especial. Omitindo-se a Corte de origem em se manifestar sobre temas relevantes, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra a omissão existente. Na hipótese, a Corte de origem quedou-se inerte no exame de questões relevantes para o deslinde da controvérsia, a respeito da apontada falha de segurança no serviço de compensação de cheques.
+3. Agravo interno provido para conhecer do agravo a fim de dar provimento ao recurso especial, anulando-se o acórdão proferido em sede de embargos declaratórios na origem, para que outro seja proferido e, assim, sanado o vício constatado. (AgInt no AREsp 1399348/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/02/2020, DJe 13/03/2020)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022, II e III, DO CPC/2015. VIOLAÇÃO. EXISTÊNCIA. DECISÃO MONOCRÁTICA. POSSIBILIDADE.
+1. Configurada a violação do art. 1.022, II e III, do Código de Processo Civil/2015, faz-se necessária a declaração de nulidade do acórdão que apreciou os aclaratórios, para que os vícios sejam sanados pelo Tribunal de origem.
+2. Os órgãos judiciais estão obrigados a se manifestar, de forma adequada, coerente e suficiente, sobre as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, mormente quando provocados por meio de embargos de declaração, caso em que, persistindo a omissão, fica caracterizada a violação do art. 1.022 do CPC/2015.
+3. O art. 255, § 4º, do RISTJ faculta ao relator "dar provimento ao recurso especial após vista ao recorrido, se o acórdão objurgado for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência ou, ainda, a súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça".
+4. "A alegação de violação do art. 535 do Código Buzaid (1.022 do Código Fux) pode ser apreciada monocraticamente nesta Corte Superior, tanto pela negativa quanto pelo provimento do recurso, porquanto possui entendimento sedimentado nesta Corte, preenchendo as exigências constantes no art. 932 do Código Fux" (AgInt no REsp 1571891/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 26/08/2019, DJe 28/08/2019).
+5. Agravo interno não provido. (AgInt no REsp 1797390/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 02/12/2019, DJe 06/12/2019)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. CONFIGURAÇÃO. OMISSÃO RELEVANTE NÃO SANADA PELA CORTE DE ORIGEM. RECURSO ESPECIAL PROVIDO.
