@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porBANCO BRADESCO S. A.contra decisão que negou seguimento a recurso especial fundamentadonas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/06/2021.
+Concluso ao gabinete em: 06/10/2021.
+Ação: declaratória de existência de contrato verbal de permuta de imóvel cumulada com pedido de manutenção de posse ajuizada porJOÃO MARIA DA ROCHA e MARA LUCI DE LARA DA ROCHA em face do recorrente e de outro.
+Sentença: julgou improcedente a ação e condenou o recorrente como litigante de má-fé.
+Acórdão: negou provimento aos recursos de apelação interpostos pelas partes, nos termos da seguinte ementa (e-STJ, fl. 1.382):
+AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE CONTRATO DE PERMUTA DE IMÓVEL C/C PEDIDO COMINATÓRIO E DE MANUTENÇÃO DE POSSE.AUTORES QUE FIRMARAM CONTRATO VERBAL DE PERMUTA DE IMÓVEL ALIENADO FIDUCIARIAMENTE. POSTERIOR ÓBITO DO DEVEDOR FIDUCIÁRIO. ALEGAÇÃO DE NULIDADE DA VENDA DO BEM EM LEILÃO PELO CREDOR FIDUCIÁRIO, EM RAZÃO DA AUSÊNCIA DE CIÊNCIA DAS PARTES.FATO ALHEIO À CAUSA DE PEDIR E AO PEDIDO. OFENSA AO PRINCÍPIO DA ESTABILIZAÇÃO DA DEMANDA. NÃO CONHECIMENTO. ALIENAÇÃO DO IMOVEL PARA TERCEIRO. AUSÊNCIA DE OBRIGATORIEDADE DO BANCO EM ANUIR COM A TRANSFERÊNCIA. FALTA, ADEMAIS, DE PAGAMENTO INTEGRAL DO DÉBITO. CONDUTA PROCESSUAL DA INSTITUIÇÃO FINANCEIRA QUE NÃO TEM EFEITO NO DIREITO MATERIAL DAS PARTES.AUSÊNCIA DE RECUSA ILÍCITA À PURGAÇÃO DA MORA E/OU DE ANUÊNCIA À TRANSFERÊNCIA A TERCEIRO DO IMÓVEL ALIENADO FIDUCIARIAMENTE.INJUSTIFICADA DEMORA DO CREDOR FIDUCIÁRIO EM INFORMAR, NOS AUTOS, A ARREMATAÇÃO DO BEM, APÓS TER SINALIZADO A POSSIBILIDADE DE ACORDO. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. APELO DOS AUTORES CONHECIDO EM PARTE E NÃO PROVIDO. SUCUMBÊNCIA RECURSAL. RECURSO DA INSTITUIÇÃO FINANCEIRA CONHECIDO E NÃO PROVIDO.
+Embargos de Declaração: opostos pelo recorrente foram rejeitados.
+Recurso especial: alega violação dos arts. 80, 81 e 142 do CPC/15, bem como dissídio jurisprudencial.
+Sustenta que não ficou caracterizada a litigância de má-fé, eis que, "em nenhum momento o ora Recorrente se esquivou de prestar as informações necessárias; o que houve foi uma desídia dos Recorridos e do Espólio em solucionar o débito existente, e ainda uma omissão do juízo a quo em definir a situação existente entre as partes. Mas nunca houve qualquer ato do recorrente que pudesse traduzir uma tentativa de induzir o juízo em erro ou causar prejuízos às partes envolvidas" (e-STJ, fl. 1.548).
+Acrescenta, ainda, a legalidade dos atos de consolidação da propriedade, nos termos do art. 22 da Lei 9.514/97, não havendo qualquer abusividade na execução extrajudicial.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca doart. 22 da Lei9.514/97, indicadocomo violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Noutro vértice, consignou o Tribunal de origem, ao reconhecer a caracterização da litigância de má-fé, o seguinte:
+Quanto ao apelo do credor fiduciário, restrito à sua condenação por litigância de má-fé, é oportuno fazer uma narrativa cronológica dos fatos.
+O herdeiro do Espolio foi notificado, na pessoa de sua genitora, para purgação da mora em 10 de novembro de 2015, fato que foi levado aos autos em 10 de fevereiro de 2016 (mov. 128.2).
+No mov. 133, a magistrada possibilitou aos autores a purgação da a quo mora tendo em vista a preservação da propriedade do imóvel, objeto do financiamento.
+Os autores se manifestaram (mov. 143.1) em 07 de março de 2016 no sentido de purgar a mora, apresentando comprovante de depósito do valor constante na notificação extrajudicial de mov. 128.2.
+Ao se manifestar sobre esse depósito, a instituição se manifestou a fim de alegar a insuficiência do valor depositado pelos autores, requerendo prazo para indicar o valor atualizado do saldo devedor (mov. 153.1) o que foi feito no mov. 184.1. Após, requereu à Caixa Econômica Federal extrato referente à conta em que os autores realizaram o depósito, o que foi atendido (mov. 194.2) na data de 29 de junho de 2016.
+Então, se manifestou no sentido de concordar com a possibilidade de realizar acordo com as partes, sendo necessária tão somente a verificação do cálculo apresentado (mov. 199.1).
+Fato é que a anotação de referida demanda na matrícula do imóvel objeto do financiamento foi realizada em 21 de janeiro de 2015, e a averbação da propriedade do imóvel mencionado em favor do Banco Bradesco é datada de 18 de fevereiro de 2016 (AV-2, mov. 292.20). Ainda, em 28 de setembro de 2016 foi averbada na matrícula do imóvel a extinção da dívida referente ao financiamento e em 14 de fevereiro de 2017 a alienação do bem ao terceiro de nome Carlos Felipe Sass (mov. 292.20) Desses fatos, fica evidente a má-fé da instituição bancária. Isso porque, embora tenha acenado com a possibilidade de purgação da mora, não cessou os atos de alienação extrajudicial do bem, vindo a informar a sua arrematação meses depois de ocorrida, propiciando desnecessariamente a prática de atos processuais inúteis, a começar pelo deferimento de tutela de urgência pelo juízo de origem para obstar o procedimento de consolidação e venda do imóvel, já que essa decisão foi proferida em dezembro de 2016 e o leilão positivo ocorrera em agosto do mesmo ano.
+Ainda a comunicação da alienação do imóvel por meio de leilão extrajudicial se deu apenas em sede de agravo de instrumento (mov. 265.2), interposto em face da decisão acima citada e que deferiu tutela provisória cautelar para o fim de obstar os atos deconsolidação da propriedade em seu favor.
+Como se percebe, ao contrário do que sustenta a instituição financeira, a demora em informar a arrematação é suficiente para caracterizar a litigância de má-fé.
+Aliás, é despropositada a afirmação de que, por se tratar de instituição de grande porte, seria justificada essa demora. Com todo o respeito, mas isso é bem mais próximo de desorganização do que entraves burocráticos, ainda mais nos dias atuais, em que a comunicação é instantânea. De todo modo, isso é irrelevante, pois o que importa é que o banco deu causa à prática desnecessária de inúmeros atos processuais. É o que basta para a configuração de litigância de má-fé. (e-STJ, fls. 1.386/1.387)
+Assim, alterar o decidido no acórdão impugnado, no particular, tal como pretendido no recurso, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Por fim, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC/73 ou 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRATO DE PERMUTA.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA211/STJ.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.DISSÍDIOJURISPRUDENCIAL. PREJUDICADO. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
