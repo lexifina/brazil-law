@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial manejado, porque não teria sido impugnado, especificamente, o fundamento adotado pelo Tribunal local alusivo à incidência da Súmula 7/STJ (e-STJ, fls. 475-477).
+Em suas razões, o agravante afirma ter combatido, de modo específico, a não aplicaçãoao casoda Súmula 7/STJ, o que motivou pedido de reforma da decisão agravada.
+Houve impugnação (e-STJ, fls. 493-501).
+Em nova análise dos autos, verifico haver plausibilidade nas alegações da parte agravante quanto à impugnação realizada, razão pela qual, com fundamento no art. 259, caput, do RISTJ, reconsidero a decisão de fls. 475-477 (e-STJ) e passo a novo exame do agravo em recurso especial.
+Trata-se de agravo interposto por Jivago Klein Garciacontra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Paraná assim ementado (e-STJ, fl. 122):
+AGRAVO DE INSTRUMENTO. FRAUDE À EXECUÇÃO RECONHECIDA. INEFICÁCIA DA VENDA DO IMÓVEL DE MATRÍCULA Nº 9.406. EXAURIMENTO DOS MEIOS DE PESQUISA PARA ACOMPROVAÇÃO DA INEXISTÊNCIA DE BENS. DESNECESSIDADE. ELEMENTOS NOS AUTOS CAPAZES DE EVIDENCIAR A INSOLVÊNCIA DOS EXECUTADOS. ALEGADA EXISTÊNCIA DE BEM PENHORADO SUFICIENTE À GARANTIA DA EXECUÇÃO. BEM QUE SE ENCONTRAVA PENHORADO EM RAZÃO DE AÇÃO TRABALHISTA. IMÓVEIS APONTADOS QUE NÃO FAZIAM MAIS PARTE DO PATRIMÔNIO DOS EXECUTADOS OU QUE JÁ SE ENCONTRAVAM CONSTRITOS EM RAZÃO DE OUTRAS DÍVIDAS. INSOLVÊNCIA DOS DEVEDORES CONFIGURADA. SCIENTIA FRAUDIS VENDA DE IMÓVEL À FILHA E AO GENRO DO . EXECUTADO. ADQUIRENTES QUE TINHAM CIÊNCIA DOS DIVERSOS DÉBITOS E DEMANDAS EXECUTIVAS. FRAUDE À EXECUÇÃO CONFIGURADA. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 300-302).
+Nas razões do recurso especial, o recorrente apontou violação aosarts.1.245 do Código Civil;64da Lei n. 8.934/94, bem como divergência jurisprudencial(e-STJ, fls. 337-356).
+Sustentou, em suma, que oacórdão recorrido deixou de considerarque a transmissão da propriedade imobiliária ocorre somente com o respectivo registro do título translativo no Registro de Imóveis.
+Não foram apresentadas contrarrazões (e-STJ, fl. 370).
+Juízo de admissibilidade negativo, o que originou a interposição deste agravo (e-STJ, fls. 373-374).
+Deixou-se de ofertar contraminuta(e-STJ, fl. 443).
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+No caso, ao julgar a apelação, o Tribunal estadual deixou consignado o seguinte (e-STJ, fls. 126-129):
+Pois bem. A configuração da fraude à execução exige a pendência de ação capaz de reduzir o devedor à insolvência (artigo 593, II, do CPC/73) e o elemento subjetivo, qual seja, scientia fraudis pelo terceiro adquirente
+Embora não tenham sido exauridos todos os meios de pesquisa para comprovação da inexistência de bens, tais como buscas via RENAJUD e BACENJUD, tal fato, por si só, não impede o reconhecimento da fraude à execução, notadamente quando constar nos autos elementos capazes de evidenciar que os devedores, ao tempo em que tramitava a execução, alienaram bens com o objetivo de frustrar a execução e, de consequência, a atividade jurisdicional.
+Note-se que, ao formular o pedido de reconhecimento de fraude, a credora trouxe documentos comprovando a transferência dos imóveis ao tempo da execução. Circunstância, a toda evidência, que enseja o pedido do reconhecimento da fraude à execução e viabiliza o exame da questão pelo magistrado.
+(..)
+Na hipótese, para garantia da execução promovida em face dos agravantes, em 14/03/2008, foi penhorado o imóvel matriculado sob nº 56.643, avaliado em R$950.000,00 (novecentos e cinquenta mil reais), conforme se vê no mov. 1.20.
+Todavia, esse imóvel já se encontrava penhorado em ação trabalhista, em virtude de dívida no valor de R$ 248.831,11, e, como bem destacou o il. Juiz de Direito, "irrelevante, portanto, se mostra o fato de que, na presente execução, havia penhora incidentes sobre imóvel avaliado em valor superior ao débito".
+Além disso, consoante afirmam os recorrentes, o valor obtido na alienação desse bem foi totalmente distribuído dentre as dívidas com preferência. Assim, e como consignou o Juízo a quo diante da preferência do crédito trabalhista, o valor auferido com a arrematação foi utilizado para o pagamento de débitos de tal natureza, não havendo saldoremanescente para pagar nem parte do débito exequendo
+Dessarte, revela-se inócua a discussão acerca do ônus da exequente de registrar a constrição na matrícula daquele imóvel.
+Noutro ponto, sustentam os agravantes que os executados não se encontravam insolventes, pois eram proprietários dos imóveis de matrículas nº 4.085, 4.697,10.078 e 12.307 à época da venda do imóvel de matrícula nº 4.406 (maio/2009).
+Aduzem que os imóveis nº 4.697 e 4.085 foram transmitidos à empresa MAVIPAM ADMINISTRADORA DE BENS LTDA para integralização de capital, em 30/10/2009 e 05/08/2009 (mov. 112.1, p. 5/6), de forma que em 15/05/09 os devedores ainda eram proprietários dos referidos bens.
+Contudo, o que se observa do contrato social da empresa, a transferência desses bens ocorreu em momento anterior, sendo 50% em 28/11/06 (mov. 112.1, p. 5/6, itens 6e 9) e os demais 50% em 30/04/07 (mov. 112.2, p. 4, itens 2 e 3), conforme verificou o Juízo a na decisão de mov. 125.1:
+(..)
+Assim, também não merece prosperar o argumento dos agravantes em relação a esses imóveis.
+Por sua vez, o imóvel matriculado sob nº 10.078, à época da alienação discutida, também já não era integralmente de propriedade dos devedores. Isso porque 50%das datas das terras foram integralizados ao capital social da empresa anteriormente mencionada quando do ingresso das sócias Maria da Graça Da Silva de Mattos Belini e Aparecida Conceição Vicentini Belini, em 30/04/2007 (mov. 112.2, p. 4).
+Ainda, conforme bem consignou a decisão atacada, "quanto aos 50% do lote de terras sob matrícula nº10.078 do CRI de Maringá, tal não pode ser considerado como suficiente a comprovar a inexistência do estado de insolvência, eis que não há qualquer" (mov. indicação de seu real valor, bem como da inexistência atual de eventual constrição193.1).
+Por conseguinte, observa-se que os executados não comprovaram no momento oportuno que o bem possuía valor capaz de demonstrar sua solvência.
+Ademais, verifica-se, no que diz respeito ao imóvel matriculado sob nº 364,que "50% do bem foi utilizado, em 2006, para integralização do capital social na ocasião da constituição da empresa Mavipam - Administradora de Bens Ltda (mov. 112.1). O contrato social indicou, ainda, que a fração equivaleria a R$ 27.757,39, quantia que não seria suficiente (mov. 41.1). para o pagamento do crédito exequendo"
+Por fim, em relação ao imóvel matriculado sob nº 12.307, observa-se que, a despeito de a penhora incidente sobre esse imóvel ter ocorrido em 24/07/2009 e, portanto, em momento posterior ao ato de alienação (15/05/2009), tal circunstância não é apta, por si só, a comprovar a solvência dos devedores.
+Isso porque inexiste nos autos qualquer elemento capaz de demonstrar qual seria o valor desse imóvel, tampouco se o referido bem superaria o valor da execução. A mera existência do respectivo imóvel, frente a todos os demais elementos constantes nos autos, não é suficiente para afastar a redução patrimonial que conduziu os devedores à insolvência.
+(..)
+A venda do imóvel de matrícula nº 9.406 (mov. 1.36) ocorreu em15/05/2009, ou seja, posteriormente ao ajuizamento da execução (26/12/2007), e aos ora agravantes, JIVAGO KLEIN GARCIA e PATRICIA MICHELI DE MATTOS BELINI GARCIA, genro e filha dos executados HÉLIO BELINI e MARIA DA GRAÇA DA SILVA DE MATTOSBELINI.
+Assim, diante da relação de parentesco entre o executado e os adquirentes do bem, presume-se fraudulenta a alienação de imóvel.
+Nesse contexto, concluiu-se que se encontravam presentes os requisitos legais para manter a declaração da ocorrência de fraude à execução.
+Assim sendo, a alteração do entendimento do Tribunal local - sobre documentos comprovando transferência de imóveis;a condição de insolvência dos agravantes;e a ciência da fraude, caracterizada pela alienação de bem entre parentes -, não prescindiria do reexame do acervo fático-probatório, o que não é possível nesta esfera recursal em razão do disposto na Súmula 7/STJ.
+Ademais, cabe salientar que, em virtude da incidência do referido óbice sumular, fica prejudicada a análise da divergência jurisprudencial, pois inexistente similitude fático-jurídica entre os julgados confrontados.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, mediante juízo de reconsideração.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. NOVA ANÁLISE DO AGRAVO. EXECUÇÃO EXTRAJUDICIAL. FRAUDE À EXECUÇÃO. RECONHECIMENTO. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
