@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de JESSICA FERNANDA DOS SANTOS ROCHA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento da Apelação Criminal n. 1500476-82.2018.8.26.0567.
+Consta dos autos que a paciente foi condenada em primeira instância por infração ao artigo 329, caput, e ao artigo 129, § 12, na forma do artigo 69, todos do Código Penal (resistência e lesão corporal), foi condenada à pena de onze (11) meses e dezesseis (16) dias de detenção, em regime prisional inicial semiaberto (furto qualificado), conforme sentença de fls. 41/55.
+A defesa apelou perante a Corte Estadual que deu parcial provimento ao recurso para reduzir as penas a cinco (05) meses e doze (12) dias de detenção, para o delito de lesão corporal, e para dois (02) meses e vinte e um (21) dias de detenção, quanto ao delito de resistência, nos termos do acórdão de fls. 25/38.
+No presente writ, o impetrante alega que a paciente preenche os requisitos para ter sua pena privativa de liberdade fixada no regime aberto e substituída por restritiva de direitos.
+Argumenta que se faz "necessária a substituição da pena corpórea pela pena restritiva de direitos, ou se não, que a paciente cumpra sua obrigação com a justiça no regime aberto, para que possa preservar sua integridade como mãe lactante mas também cumprir com sua obrigação, como cumpriu com êxito em outras vezes".
+Pugna, assim, em liminar e no mérito, para que "seja concedida a imediata SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS sentenciada pelo MM. Juízo da 1ª Vara Criminal Comarca de Piedade/SP, ou O CUMPRIMENTO INICIAL DA PENA NO REGIME ABERTO POR SE TRATAR DO MAIS ADEQUADO A SUA PENA E A SUA CONDIÇÃO COMO MULHER LACTANTE, expedindo-se o CONTRAMANDADO DE PRISÃO em favor da paciente JESSICA FERNANDA DOS SANTOS ROCHA, e ao final, em julgamento de mérito, requer-se a concessão da ordem, confirmando a decisão liminar, com a substituição da pena privativa de liberdade por restritiva de direitos ou o cumprimento inicial da pena no regime aberto por se tratar do mais proporcional a sua pena de 08(oito) meses e 02 (dois) dias" (fl. 23).
+É o relatório.
+Decido.
+Não há como dar seguimento ao pedido.
+Com efeito, a presente impetração traz pedido idêntico ao formulado no HC 694.169/SP, já julgado nesta Corte Superior, e em ambos ataca acórdão do do Tribunal de Justiça do Estado de São Paulo proferido no julgamento da Apelação Criminal n. 1500476-82.2018.8.26.0567.
+Assim, diante de inadmissível reiteração de pedidos, fica obstaculizado o conhecimento deste mandamus.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ. MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO. I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma. II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos. Agravo regimental desprovido (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se.
