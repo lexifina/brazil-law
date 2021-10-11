@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ESTEVES TRES RIOS MATERIAIS DE CONSTRUCAO LTDA à decisão de fls. 708/709, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Conforme se observa da decisão embargada, o Ilustre Presidente do STJ considerou que a parte recorrente foi intimada do acórdão recorrido em 10/11/2020, sendo o recurso especial interposto somente em 02/12/2020, motivo pelo qual este seria supostamente intempestivo, nos termos o § 6º do art. 1.003 do CPC/15.
+No entanto, com a devida vênia, o Ilustríssimo Presidente do STJ não se atentou para o fato de que a Empresa comprovou a ocorrência de feriado local no ato da interposição do seu Recurso Especial, qual seja o dia da Consciência Negra, ocorrido em 20/11/2020, conforme se observa das fls. 163 (e-STJ) dos presentes autos, a qual segue novamente em anexo na presente peça processual.
+Assim, como será explorado nos tópicos seguintes o Recurso Especial foi interposto dentro do prazo, no 15º dia útil após a publicação do acórdão recorrido, observado o calendário processual do Tribunal de Justiça do Estado do Rio de Janeiro.
+ ..
+Neste sentido, o prazo de 15 (quinze) dias úteis previstos para a interposição do Recurso Especial teve início em 11/11/2020 e expirou-se em 02/12/2020, considerando a suspensão dos prazos processuais no dia 20/11/2020 em razão do feriado do Dia da Consciência Negra, nos termos do Calendário de Feriados - Suspensão de Prazos Processuais e Expediente Forense do TJRJ, já anexado aos presentes autos às fls. 157-163 (e-STJ) (fls. 714/715).
+ ..
+Como restou comprovado, o Recurso Especial em epígrafe é tempestivo, visto que interposto dentro do prazo estabelecido em lei, de maneira manifestamente comprovada, nos termos do art. 1.003, § 6º, do CPC/2015 (fl. 717).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, o calendário ou mera relação de feriados juntados às fls. 157/163, sem o inteiro teor do respectivo ato normativo, não têm o condão de afastar a intempestividade do recurso.
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
