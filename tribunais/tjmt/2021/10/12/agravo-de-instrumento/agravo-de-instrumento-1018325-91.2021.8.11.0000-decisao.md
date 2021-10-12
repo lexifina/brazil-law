@@ -1,0 +1,11 @@
+Recurso de Agravo de Instrumento no 1018325-91.2021.8.11.0000 - Capital
+Agravante: Adilson Pereira da Silva
+Agravado: Município de Cuiabá
+V I S T O S.
+Trata-se de recurso de agravo de instrumento interposto por Adilson Pereira da Silva em face da r. decisão proferida pelo MM. Juiz de Direito da Vara Especializada do Meio Ambiente da Comarca de Cuiabá, que nos autos da ação civil pública proposta pelo Município de Cuiabá, deferiu a tutela de urgência pretendida, para determinar aos invasores/requeridos ou aos atuais ocupantes que, no prazo de 30 (trinta) dias, desocupem as áreas públicas (logradouro e área verde) do Bairro Coophamil/Cidade Verde, nesta capital, com a consequente demolição e remoção de construções, ficando, ainda, impedidos de explorarem, promoverem ou permitirem que se promovam quaisquer atividades danosas no local, sob pena de multa diária de R$ 1.000,00 (mil reais).
+Inconformado, o agravante sustenta que merece reforma a r. decisão, uma vez que o agravado não promoveu a notificação de todos os comerciantes existentes na área e, por consequência, não os incluiu no polo passivo da lide. Alega a ausência dos requisitos ensejadores da concessão da tutela, mormente em razão de o recorrido ter permanecido inerte por mais de 40 (quarenta) anos. Defende que a lide demanda dilação probatória e, além disso, foi protocolado pedido de conciliação junto à Procuradoria Geral do Município de Cuiabá/MT, visando a formalização de Termo de Ajustamento de Conduta – TAC. Pugna pela concessão do efeito suspensivo.
+Pois bem. Ao que me parece, e em princípio, este caso não se enquadra nas medidas prescritas na Resolução que instituiu o plantão judiciário na segunda instância, bem como na editada pelo CNJ, mormente ante a ausência de prejuízo, não havendo qualquer mácula que deva ser dirimida no plantão judiciário, até porque em análise superficial, a decisão singular foi proferida em 30.09.2020, ocorrendo a citação do agravante em 15.09.2021, estando em prazo razoável para ser analisado pela Câmara competente.
+Assim, aguarde-se o expediente normal de trabalho, quando se distribuirá este recurso na forma do RITJMT.
+Cuiabá, 12 de outubro de 2021.
+CARLOS ALBERTO ALVES DA ROCHA
+Plantonista
