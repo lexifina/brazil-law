@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão monocrática de fls. 601-604, e-STJ, que tem a seguinte parte dispositiva:
+Ante o exposto, dou provimento ao Recurso Especial para anular o aresto proferido em sede de Embargos Infringentes, restabelecendo o anterior acórdão que julgou os Embargos de Declaração e reconheceu, de ofício, a nulidade do processo de execução por falta de intimação da Fazenda no processo de conhecimento. Determino a inversão do ônus sucumbenciais.
+O recorrente sustenta, às fls. 606-613, e-STJ, que houve omissões, uma vez que a decisão acatada não teria se manifestado em relação: i) ao não cabimento da Ação Rescisória, ii) à alegação de incompetência do Tribunal local para julgar a Rescisória, iii) à incidência da Súmula 283 do STF e iv) à incidência da Súmula 284 do STF.
+Contraminuta às fls. 619-621, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 31 de agosto de 2021.
+Os Embargos de Declaração merecem acolhimento, apenas para fins de esclarecimentos, em relação à alegação de incompetência do Tribunal local para julgar a Rescisória, porém sem efeitos modificativos.
+Consta no decisum recorrido (fls. 602-603, e-STJ, grifamos):
+Na origem, o Sindicato dos Trabalhadores em Saúde, Trabalho e Previdência Social do Estado de Alagoas - SINDPREV/AL ajuizou ação ordinária contra a União Federal objetivando a implantação do reajuste de 47,94%, relativo à variação no IRSM nos meses de janeiro e fevereiro de 1994, nos vencimentos dos servidores por ele substituídos.
+O pedido constante da inicial foi julgado improcedente, tendo a sentença de primeiro grau sido reformada integralmente pelo Tribunal Regional Federal da 5ª Região, que reconheceu a existência de direito adquirido ao reajuste pleiteado. A União Federal interpôs Recursos Especial e Extraordinário, ambos inadmitidos pelo Tribunal de origem.
+Ato contínuo, os autores promoveram a execução, oferecendo a União embargos que foram julgados parcialmente procedentes. Irresignadas, as partes apelaram, restando provido o recurso dos autores/exequentes e desprovido o apelo apresentado pela União.
+Opostos Embargos de Declaração pela União, proclamou-se, de ofício, a nulidade do processo de execução em razão da falta de intimação pessoal da Advocacia Geral da União - AGU da decisão que não admitiu os Recursos Especial e Extraordinário na ação de conhecimento. Esse acórdão, tomado por maioria de votos, foi desafiado por Embargos Infringentes opostos pelos autores/exequentes que foram acolhidos (fls. 21/30, e-STJ) para que a execução tivesse continuidade.
+A Fazenda Pública interpôs Recurso Especial, o qual não foi conhecido pelo STJ.
+A União, então, interpôs a presente Ação Rescisória em que aponta violação a literal disposição de lei (arts. 966, V, do CPC/2015 ou 456 e 530 do CPC/1973), ao argumento de que não apreciou o mérito o acórdão que declarou, de ofício, a nulidade de todo o processo de execução em decorrência da falta de intimação pessoal da Advocacia Geral da União em relação à decisão que inadmitiu os Recursos Extraordinário e Especial na fase de conhecimento.
+O Tribunal de origem negou provimento à Ação Rescisória do recorrente sob o fundamento de que havia interpretação controvertida nos Tribunais em relação aos dispositivos apontados por violados.
+Aduz o embargante que o Recurso Especial da Fazenda Pública, ao contrário do que relatado na decisão atacada, foi conhecido e não provido pelo STJ no REsp 921.449/AL.
+Aqui cabem os seguintes esclarecimentos:Com efeito, o Recurso Especial da Fazenda Pública (REsp 921.449/AL) foi conhecido e, no mérito, não foi provido. Contudo, a alegação de que, em razão disso, a competência para apreciar a Ação Rescisória seria do STJ já foi apreciada e decidida pelo próprio STJ na presente demanda, conforme se observa nas fls. 458-464, e-STJ, em acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. AÇÃO RESCISÓRIA. MATÉRIA NÃO APRECIADA NO STJ. SÚMULA 515/STF. INCIDÊNCIA.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC.
+2. O Tribunal regional, ao dirimir a controvérsia, entendeu ser caso de extinguir a Ação Rescisória sem resolução do mérito, sob o fundamento de que "a decisão aqui atacada, traduzida nos embargos infringentes, foi levada ao STJ, via de recurso especial, o que exclui a competência deste Tribunal" (fl. 247, e-STJ).
+3. Por outro lado, é assente o entendimento no Superior Tribunal de Justiça de que a competência para a apreciação da Ação Rescisória é do juízo que examinou o tema que serve de fundamento ao pleito rescisório - inteligência da Súmula 515/STF.
+4. Na hipótese dos autos, como a questão referente à inaplicabilidade do art. 530 do CPC não foi submetida ao STJ, permanece a competência da Corte Regional para o processamento da Rescisória.
+5. Recurso Especial provido para, reconhecendo a competência do TRF da 5ª Região para o processamento da Ação Rescisória, determinar o retorno dos autos para que prossiga no julgamento do feito.
+Como se observa, foi decidido que, nos termos da Súmula 515 do STF, a competência para a apreciação da Ação Rescisória é do Juízo que examinou o tema que serve de fundamento ao pleito rescisório. Isso porque no REsp 921.449/AL apreciou-se a questão referente à preclusão da alegação de nulidade da intimação na ação de conhecimento, enquanto que na presente Ação Rescisória, diversamente,discute-se ofensa à hipótese de cabimento dos Embargos Infringentes, nos termos do art. 530 do CPC/1973. Por tal motivo, foi decidido que a competência é do Tribunal de origem.
+Em relação às demais alegações de omissões, a insurgência não merece prosperar.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos processuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ao contrário do que afirma a parte recorrente, não há omissão no decisum. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, só muito excepcionalmente admitida. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. RESPONSABILIDADE CIVIL DA UNIÃO. OMISSÃO. INEXISTÊNCIA. ANISTIA. PERQUIRIÇÃO DA NULIDADE DA PORTARIA INTERMINISTERIAL 122/2000. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE PREMISSAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o acórdão embargado foi bastante claro ao consignar que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para verificar se as premissas fáticas adotadas pelo Tribunal a quo não se enquadram nos precedentes judiciais adotados como fundamento do decisum objurgado. Incide, in casu, o óbice da Súmula 7/STJ.
+2. O recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp 1.608.546/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24/11/2020, grifamos)
+Pelo exposto, dou parcial provimento aos Embargos de Declaraçãoapenas para prestar os esclarecimentos nos termos da fundamentação acima, sem efeitos infringentes.
+Publique-se.
+Intimem-se.
