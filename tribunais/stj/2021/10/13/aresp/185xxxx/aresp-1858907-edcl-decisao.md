@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Companhia de Habitação Popular de Curitiba à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 329):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO, AINDA QUE SUCINTA, DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. TESES NÃO PREQUESTIONADAS. SÚMULA 211/STJ. PARCELAS VINCENDAS SÃO ALCANÇADAS PELA EXECUÇÃO. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO, PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões dos aclaratórios (fls. 339-343, e-STJ), sustenta a parte embargante a ocorrência de contradição e obscuridade no julgado, ao argumento de que a oposição dos aclaratórios já faz o prequestionamento da matéria.
+Aduz que não deve incidir, portanto, a aplicação da Súmula 211/STJ à espécie, por ofensa ao princípio da ampla defesa e por negativa de prestação jurisdicional.Assim sendo, requer o acolhimento destes aclaratórios.
+Impugnação não foi apresentada, conforme certidões às fls. 347-349 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante destacar que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material no julgado embargado, não possuindo natureza de efeito modificativo.
+Consoante se depreende dos autos in casu, a decisão proferida por esta relatoria decidiu a controvérsia com base em fundamentação sólida, sem omissões, obscuridades ou contradições. Na verdade, somente se resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente.
+Oportuno registrar que o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Dito isso, cabe rememorar que a ora embargante, em desfavor do acórdão proferido pelo TJPR, interpôs recurso especial (fls. 183-195, e-STJ), que não foi admitido (fls. 234-238, e-STJ), ensejando o manejo do agravo em recurso especial (fls. 253-267, e-STJ), do qual não se conheceu.
+Foi interposto agravo interno, que reconsiderou a decisão da Presidência desta Corte Superior, analisando novamente o agravo em recurso especial, ocasião em que se conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nas razões do recurso especial (fls. 183-195, e-STJ), a parte agravante alegou a violação dos arts. 323, 489, II, e 1.022, II, do Código de Processo Civil de 2015; 206, § 5º, I, do Código Civil de 2002.
+Sustentou que houve omissão e falta de fundamentação no acórdão recorrido e insurgiu-se, em suma, contra a conclusão do Tribunal de origem em manter o cumprimento de sentença que julgou procedentes os valores das prestações sucessivas e manteve a condenação da agravante ao pagamento das taxas condominiais que venceram no curso da demanda.
+Aduziu que houve a prescrição do período desamparado pelo título executivo. Ressaltou não ser possível incluir na condenação as taxas condominiais, tendo em vista que são obrigações futuras, e a execução deve ser líquida e certa.
+Na decisão embargada, apesar de ter sido reconsiderada a decisão agravada, esta relatoria concluiu que o Tribunal estadual examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da insurgente.
+Em relação à alegada violação ao art. 206, § 5º, I, do Código Civil de 2002, a decisão monocrática desta relatoria consignou que o conteúdo do referido normativo não foi objeto de debate pela instância ordinária, mesmo após a interposição de embargos declaratórios.
+Sendo assim, concluiu-sepela aplicação do óbice da Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Além disso, ressalta-se, conforme já mencionado na decisão embargada, que o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial.
+Ademais, sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada no caso em comento.
+Constata-se, por consequência, que o acórdão embargado solucionou a questão de forma satisfatória, concluindo pela ausência da negativa de prestação jurisdicional alegada e pela incidência dos óbices das Súmulas 83 e 211/STJ, os quais impossibilitaram a análise do reclamo.
+Desse modo, a decisão contestada julgou sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional, pretendendo a parte, na verdade, a rediscussão do julgado, o que não autoriza a oposição dos embargos.
+Ademais, verifica-se que foi utilizado o óbice da Súmula 211/STJ adequadamente, tendo em vista que não houve a análise necessária do art. 206, § 5º, I, do Código Civil de 2002, pela instância ordinária, mesmo após a interposição de embargos declaratórios.
+Por conseguinte, mesmo que a solução tenha sido contrária à pretensão da ora insurgente, não se pode negar ter havido efetivo enfrentamento e resposta aos temas controvertidos.
+Logo, ausentes pontos obscuros, contraditórios ou outros vícios processuais, não cabe falar em provimento destes embargos de declaração.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. RESPONSABILIDADE CIVIL. "MÁFIA DO APITO". JOGOS DE FUTEBOL. ARBITRAGEM. FRAUDE. DANO MORAL COLETIVO. NÃO CONFIGURAÇÃO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO VERIFICADAS. DISPOSITIVOS CONSTITUCIONAIS. PREQUESTIONAMENTO. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados
+(EDcl no REsp 1.664.186/SP, Rel. Ministro Ricardo Villas Bõas Cueva, Terceira Turma, julgado em 13/04/2021, DJe 16/04/2021).
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados
+(EDcl no REsp 1.789.667/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 04/02/2020, DJe 13/02/2020).
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Com esses fundamentos, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
