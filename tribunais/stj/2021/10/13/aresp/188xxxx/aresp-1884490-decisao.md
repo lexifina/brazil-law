@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo visando admitir Recurso Especial (105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EMPRÉSTIMO COMPULSÓRIO SOBRE CONSUMO DE ENERGIA ELÉTRICA, RESTITUIÇÃO, CORREÇÃO MONETÁRIA E JUROS.
+A recorrente alega, em preliminar, afronta aos arts. 394, 396 e 401, I, do Código Civile ao art. 8º da Lei Complementar 151/2015 Argumenta que "retirar as garantias que este instituto oferece descaracteriza-o por completo e torna o processo excessivamente oneroso ao executado, tendo em vista o depositante só encontrar desvantagens à sua prática, tanto de ordem econômica pela descapitalização precoce, como processuais pela afronta ao princípio da menor onerosidade" (fl. 156, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.8.2021.
+A tese recursal diz respeito à dispensa ou não ao devedor dos encargos moratórios em depósito judicial, o que foi objeto de questão de ordem no âmbito da egrégia Corte Especial, em 7.10.2020, nos autos do REsp 1.820.963/SP, Rel. Min. Nancy Andrighi, tendo o referido órgão judicial decidido por instaurar procedimento de revisão do entendimento firmado no Tema 677/STJ, delimitando a controvérsia da seguinte forma:
+Revisão da tese relativa ao Tema 677/STJ: definir se, na execução, o depósito judicial do valor da obrigação, com a consequente incidência de juros e correção monetária a cargo da instituição financeira depositária, isenta o devedor do pagamento dos encargos decorrentes da mora, previstos no título executivo judicial ou extrajudicial, independentemente da liberação da quantia ao credor.
+A propósito, a Corte Especial determinou "(..) a suspensão do processamento dos recursos especiais e agravos em recurso especial que versem sobre idêntica questão de direito e que estejam pendentes de apreciação em todo no território nacional, no segundo grau de jurisdição ou nesta Corte."
+A ementa da referida questão de ordem está assim redigida:
+QUESTÃO DE ORDEM. REVISÃO DE TEMA REPETITIVO. TEMA 677/STJ. APARENTE DIVERGÊNCIA JURISPRUDENCIAL NO ÂMBITO DO STJ. ADMISSÃO DO RITO. SUSPENSÃO DO PROCESSAMENTO DOS RECURSOS ESPECIAIS E AGRAVOS EM RECURSOS ESPECIAIS QUE VERSEM SOBRE IDÊNTICA QUESTÃO.
+1. O Tema 677/STJ enuncia que "na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação do devedor, nos limites da quantia depositada".
+2. No julgamento do REsp 1.475.859/RJ, a Terceira Turma deu nova conformação a esse entendimento, fixando a orientação de que a obrigação da instituição financeira depositária pelo pagamento dos juros e correção monetária sobre o valor depositado convive com a obrigação do devedor de pagar os consectários próprios de sua mora, segundo previsto no título executivo, até que ocorra o efetivo pagamento da obrigação ao credor.
+3. A partir de então, a jurisprudência da Terceira e Quarta Turmas passou a oscilar entre a aplicação, ou não, do Tema 677/STJ nas hipóteses em que o depósito judicial não é feito com o propósito de pagamento ao credor, repercutindo a divergência nos demais juízos e Tribunais pátrios.
+5. Contexto em que se mostra adequada a instauração de procedimento de revisão do entendimento firmado no Tema 677/STJ, para que a Corte Especial se manifeste sobre a preservação, ou não, do respectivo enunciado.
+6. Delimitação do tema submetido à revisão: "revisão da tese relativa ao Tema 677/STJ: definir se, na execução, o depósito judicial do valor da obrigação, com a consequente incidência de juros e correção monetária a cargo da instituição financeira depositária, isenta o devedor do pagamento dos encargos decorrentes da mora, previstos no título executivo judicial ou extrajudicial, independentemente da liberação da quantia ao credor".
+7. Determinação de suspensão do processamento dos recursos especiais e agravos em recurso especial que versem sobre idêntica questão de direito e que estejam pendentes de apreciação em todo o território nacional.
+8. Questão de ordem acolhida. REsp 1.820.963/SP, Rel. Min. Nancy Andrighi, Dje de 28/10/2020.
+Na mesma linha de entendimento sobre o presente sobrestamento, confira-se: REsp 1.757.632/SP, Rel. Min. Maria Isabel Gallotti, DJe 18.5.2021; EREsp 1.475.859/RJ, Rel. Min. Marco Buzzi, DJe 10.5.2021; EREsp 1.584.765/SP, Rel. Min. Mauro Campbell Marques, DJe 7.5.2020.
+Diante disso, para resguardar a uniformidade na prestação jurisdicional no âmbito da Segunda Seção, determino o sobrestamento do feito, na Coordenadoria da Segunda Seção, até o pronunciamento definitivo da Corte Especial no âmbito do REsp 1.820.963/SP.
+Publique-se.
+Intimem-se.
