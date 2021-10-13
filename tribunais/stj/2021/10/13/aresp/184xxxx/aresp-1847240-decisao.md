@@ -1,0 +1,46 @@
+DECISÃO
+1. Cuida-se de agravo interposto por SISTEMA FACIL, INCORPORADORA IMOBILIARIA - PORTO ALEGRE II - SPE LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL PROMESSA DE COMPRA E VENDA AÇÃO INDENIZATÓRIA PRELIMINAR RECURSAL DE ILEGITIMIDADE PASSIVA E DE AUSÊNCIA DE INTERESSE DE AGIR RECHAÇADAS DANOS MORAIS DEMONSTRADOS QUANTUM INDENIZATÓRIO MANTIDO
+Preliminares:
+- Da ilegitimidade passiva da parte ré: Observando-se a relação de consumo havida entre as partes, concluo que a parte ré tem responsabilidade pela obrigação contratual, na medida em que restou comprovada a participação da mesma na venda e construção do empreendimento. Outrossim, a requerida é responsável pelos prejuízos causados à autora, assim como participou do negócio jurídico. Preliminar recursal rechaçada.
+- Da ausência de interesse de agir da parte autora: A parte autora comprova sua condição de proprietária do imóvel, bem como que residia no imóvel na época dos fatos. O interesse de agir, por conseguinte, encontra-se presente no caso em comento, tendo em vista que é dado pelo binômio necessidade de se socorrer do Poder Judiciário para obtenção do resultado pretendido e adequação do pedido ao meio processual escolhido. Preliminar recursal rechaçada.
+Mérito:
+- Dos danos morais: No caso dos autos se está diante de ocorrência de circunstância excepcional, caracterizadora do dano moral, que certamente resultou em angústia da parte autora na forma exigida para esses casos, de modo que cabível a fixação de indenização por danos morais. Quantum indenizatório mantido, pois de acordo com as peculiaridades do caso em comento e ponderado o caráter pedagógico com o dano causado. Sentença mantida.
+APELO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nosarts. 944 do CC, 17,18 e 109 do CPC, bem como dissídio jurisprudencial.
+Sustenta que não existem motivos capazes para indenizar os recorridos por danos morais, pois cumpriu com o contrato e entregou o imóvel em perfeitas condições. Além disso, afirma que o reparo na unidade foi providenciado antes do ajuizamento da ação. Alega que se manteve no polo ativo parte manifestamente ilegítima.
+Decido.
+2. Acerca da legitimidade passiva e dos danos morais alegados, o Tribunal de origem assim se manifestou:
+Da análise do contrato acostado (fls. 117-126) e considerando a relação de consumo havida entre as partes, concluo que a parte ré tem responsabilidade pela obrigação contratual, na medida em que restou comprovada a participação da mesma na venda e construção do empreendimento. Outrossim, a requerida é responsável pelos prejuízos causados à autora, assim como participou do negócio jurídico.
+ ..
+Analisando os autos, verifico que a parte autora ficou por sete meses convivendo com as quedas de energia elétrica em seu imóvel, sendo possível verificar que restou transbordada a esfora do mero dissabor. Além disso, referiu a autora que seus filhos eram recém-nascidos e portadores de problemas respiratórios, que ensejavam cuidados e uso de nebulizador. Portanto, as quedas de energia elétrica acabaram por dificultar a situação vivenciada pela autora.
+Assim, quanto à ocorrência de dano moral, deve-se destacar que, de regra, o mero descumprimento contratual não gera danos morais, pois, para a configuração desse danoextrapatrimonial necessária a comprovação de circunstância excepcional que coloque o contratante em situação de extraordinária angústia ou humilhação.
+Então, devemos verificar se da situação vivenciada pela parte autora, além da reprovável atitude da parte ré, se foi atingida a excepcionalidade exigida para caracterizar o seu direito a percepção do dano imaterial que nomina de dano moral.
+Entendo que ficou configurada ofensa aos direitos da personalidade da parte autora, na medida em que suportou os danos decorrentes das quedas diárias de energia elétrica durante meses.
+Ademais, note-se que foram frustradas as expectativas da parte autora de residir no imóvel novo e próprio que adquiriu, sendo esse incômodo que ultrapassa a barreira do mero dissabor.
+Então, analisando esses fatos, entendo ter ocorrido circunstância excepcional, caracterizadora do dano imaterial, que certamente resultou em angústia da autora na forma exigida para esses casos.
+Nesse contexto, o acolhimento da pretensão recursal, seja no tocante à legitimidade passiva, seja em relação ao reconhecimento de dano moral indenizável,exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. VÍCIOS DE CONSTRUÇÃO. CONSTATAÇÃO NO PRAZO DE GARANTIA PREVISTO NO ART. 618 DO CPC.
+PRAZO PRESCRICIONAL VINTENÁRIO. DANOS MORAIS E MATERIAIS. COMPROVAÇÃO.
+REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ. AGRAVO DESPROVIDO. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. DECISÃO MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 122.119/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 03/09/2013, DJe 09/09/2013)
+CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA DE OBRIGAÇÃO DE FAZER C/C PERDAS E DANOS. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTENTE. COMPRA E VENDA. IMÓVEL NOVO. EXISTÊNCIA DE INFILTRAÇÃO.
+DANO MATERIAL E MORAL COMPROVADOS. PLEITO DE REDUÇÃO DO VALOR INDENIZATÓRIO E DA MULTA COMINATÓRIA. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. DISSÍDIO JURISPRUDENCIAL. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em omissão ou negativa da prestação jurisdicional quando o acórdão se manifesta, clara e fundamentadamente, sobre os pontos necessários para o desate da controvérsia.
+2. O Tribunal local, com base no acervo fático-probatório dos autos, reconheceu ser devido o pagamento de indenização por dano moral bem como multa cominatória por descumprimento de decisão judicial, fixando seus respectivos valores. Reformar a decisão a fim de alterar o quantum fixado atrai a incidência da Súmula nº 7 desta Corte.
+3. Não sendo a linha argumentativa apresentada pela agravante capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo regimental não provido.
+(AgRg no AREsp 656.138/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/08/2015, DJe 28/08/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ÔNUS DA SUCUMBÊNCIA. CONCLUSÃO DO JULGADO FUNDADO EM FATOS E PROVAS. SÚMULA 7/STJ. FALTA DE INTERESSE RECURSAL. IMÓVEL COM VÍCIO DE QUANTIDADE. PROPAGANDA ENGANOSA.
+PROMESSA DE DUAS VAGAS DE GARAGEM. ENTREGA DE APENAS UMA VAGA DE GARAGEM. DANO MORAL. SÚMULA 7 DO STJ. VALOR RAZOÁVEL. LEGITIMIDADE PASSIVA ASSENTADA NA ORIGEM. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. A análise da pretensão recursal sobre a distribuição do ônus da sucumbência, aplicação do princípio da causalidade e o valor dos honorários advocatícios demandaria o reexame do conjunto fático-probatório, o que é inviável nesta via especial. Incidência da Súmula 7/STJ.
+2. Inexiste interesse recursal da parte agravante quando a Corte de origem dá provimento à apelação para determinar a distribuição dos ônus sucumbenciais da forma como pleiteia os recorrentes.
+3. O Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou o caráter irrisório da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. 4. In casu, a Corte de origem constatou vício de quantidade e condenou os agravantes a indenizar cada um dos recorridos no montante de R$ 10.000,00 (dez mil reais) em razão de propaganda enganosa, uma vez que o material publicitário prometia a entrega do imóvel com duas vagas de garagem ao passo que o imóvel foi entregue com apenas uma vaga.
+5. Para alterar os fundamentos do acórdão recorrido a fim de afastar a legitimidade passiva da recorrente, seria imprescindível a reavaliação das cláusulas contratuais e o reexame das provas do processo, o que é inviável no âmbito do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp 1404780/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/06/2019, DJe 28/06/2019)
+3. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
