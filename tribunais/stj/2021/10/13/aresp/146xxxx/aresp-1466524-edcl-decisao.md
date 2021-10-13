@@ -1,0 +1,18 @@
+DECISÃO
+Por intermédio da detalhada decisão proferida às fls.1.721-1.726 (e-STJ), esta relatoria julgou prejudicado o presente agravo em recurso especial.
+Manifestando inconformismo com a referida decisão, os agravantes, José Henrique Ferreira Gonçalves e outros, a ela opõem estes embargos de declaração, tendo formulado as seguintes alegações:
+Muito embora possam ter os recursos interpostos de acórdão do TJDFT contemplado todas as partes numa mesma peça (Topázio, José Henrique, Itajubá, Eveline e Contato) o foram somente para prestigiar o julgamento conjunto das 03 apelações derivadas dos 03 embargos à execução, mas tal peça restou protocolizada separadamente para cada feito.
+Se o egrégio STJ tivesse julgado conjuntamente todos os AREsp"s seria lógica a conclusão da r. decisão, ora embargada, mas preferiu o e. STJ julgar separadamente e ao fazê-lo não poderia privar estes embargantes de ter apreciada a questão a estes somente atinente, qual seja, a imposição de verba sucumbencial àqueles que lograram êxito na demanda, especialmente por violar jurisprudência consolidada desta Corte que prestigia a teoria da causalidade.
+Estando pendente de decisão estes declaratórios, os embargantes protocolizaram a Petição n. 836.845/2021 (e-STJ, fls. 1.742-1.752), insistindo no pedido de atribuição de efeito suspensivo que já haviam deduzido na Pet n. 14.288/DF.
+Brevemente relatado, decido.
+Não há, na decisão de fls. 1721-1726 (e-STJ), nenhuma omissão a ser suprida, contradição a ser corrigida, nem obscuridade a ser esclarecida, estando ela alicerçada em suficiente e esclarecedora fundamentação.
+Para chegar à conclusão de que o agravo em recurso especial estaria prejudicado, esta relatoria, após extenso e minudente relato da demanda originária, expôs os seguintes fundamentos:
+Ora, o fato de serem idênticos não só os três recursos especiais, como também os três subsequentes agravos em recurso especial apresentados conjuntamente por Topázio e pelos demais executados/embargantes, tem a seguinte implicação: em razão de, nesta Corte Superior, o processamento de referidos recursos ter sido realizadoem separado, a circunstância de o julgamento de um deles ser concluído, com decisão transitada em julgado, é suficiente para tornar prejudicados os demais.
+E isso é assim por não ser admissível, por óbvias razões, que o mesmo recurso seja julgadomais de uma vez, ainda que em decorrência de uma situação processual totalmente anômala, como na presente hipótese.
+O fato de os três agravos em recurso especial terem sido apreciados nesta Corte em momentos distintos não altera a conclusão acima apontada. A prejudicialidade, em verdade, decorre do fato de as três petições recursais - e isso foi observado em relação aos recursos especiais e aos subsequentes agravos - se apresentarem como idênticas cópias umas das outras.
+Se havia interesses recursais distintos, os recursos deveriam ter sido elaborados de forma a deixar evidenciada essa diferenciação, mas não foi isso o que aconteceu.
+Presentes essas razões, rejeito os presentes declaratórios, ficando prejudicado, por conseguinte, o pedido de atribuição de efeito suspensivo deduzido às fls. 1.742-1.752 (e-STJ).
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO VERIFICADAS NA DECISÃO EMBARGADA. DECLARATÓRIOS UTILIZADOS COMO VEÍCULO DO INCONFORMISMO DOS AGRAVANTES, COM NÍTIDA INTENÇÃO DE SE OBTER O REJULGAMENTO DO RECURSO, O QUE NÃO SE ADMITE. REITERAÇÃO DE PEDIDO DE EFEITO SUSPENSIVO, ANTERIORMENTE INDEFERIDO. EXAME PREJUDICADO.
+Embargos de declaração rejeitados, prejudicado o pedido de efeito suspensivo.
