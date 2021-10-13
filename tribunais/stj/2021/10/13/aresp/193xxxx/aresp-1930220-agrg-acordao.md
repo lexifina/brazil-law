@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. POSSE DE ARMA DE FOGO DE USO RESTRITO. INTEMPESTIVIDADE. AGRAVO REGIMENTAL INTERPOSTO FORA DO PRAZO LEGAL DE 5 (CINCO) DIAS. NÃO CONHECIMENTO.
+I - Consoante o art. 258 do RISTJ, "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+II - In casu, a decisão objeto deste agravo regimental foi disponibilizada em 06/08/2021 e considerada publicada em 09/08/2021 (fl. 647). O agravo regimental, contudo, somente foi interposto em 17/08/2021 (fl. 1.050), quando já havia sido ultrapassado o quinquídio legal, sendo, pois, manifesta a intempestividade do recurso, conforme Certidão de fl. 1.060.
+Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): Trata-se de agravo regimental interposto por LEANDRO AUGUSTO DA SILVA MOTA e MATHEUS VINÍCIUS DA SILVA MOTA contra a decisão de fls. 1.046-1.047, da Presidência, na qual não se conheceu do agravo em recurso especial.
+Consta dos autos que o eg. Tribunal a quo, em decisão unânime, deu parcial provimento ao apelo da defesa (fls. 870-892):
+"APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTES E POSSE DE ARMA DE FOGO DE USO RESTRITO (ART. 33, DA LEI Nº 11.343/2006 E ART. 16, DA LEI 10.826/2003) - SENTENÇA CONDENATÓRIA - APELANTE MATHEUS - PEDIDO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA - NÃO CONHECIMENTO - ATENUANTE JÁ RECONHECIDA E APLICADA NA SENTENÇA - PEDIDO DE ABSOLVIÇÃO QUANTO AO CRIME DE TRÁFICO DE DROGAS FORMULADO POR AMBOS OS APELANTES - AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS NOS AUTOS - PALAVRAS DOS POLICIAIS QUE EFETUARAM A PRISÃO EM FLAGRANTE DOS APELANTES ALIADAS ÀS CIRCUNSTÂNCIAS EM QUE OCORREU O CRIME - POLICIAIS QUE LOGRARAM ÊXITO EM APREENDER AO TODO COM OS APELANTES 655 GRAMAS DE COCAÍNA, 43 PONTOS DE LSD, R$ 11.054,00 (ONZE MIL E CINQUENTA E QUATRO REAIS), UMA PISTOLA 9MM E 12 MUNIÇÕES INTACTAS - CONDENAÇÃO MANTIDA - APELANTE PEDIDO DE ABSOLVIÇÃO LEANDRO - QUANTO AO DELITO DE POSSE DE ARMA DE FOGO - ALEGAÇÃO DE IMPOSSIBILIDADE DE CONFIGURAÇÃO DE COAUTORIA - NÃO ACOLHIMENTO - CONTEXTO DA APREENSÃO DA ARMA QUE INDICA QUE O ARTEFATO ESTAVA À DISPOSIÇÃO DE AMBOS OS APELANTES, OS QUAIS TRANSPORTAVAM A PISTOLA CIENTES DESTA CONDIÇÃO - DOLO DOS APELANTES EVIDENCIADO - MANUTENÇÃO DA CONDENAÇÃO PARA AMBOS OS APELANTES - NECESSÁRIA A DESCLASSIFICAÇÃO DO DELITO PARA A INFRAÇÃO PENAL TIPIFICADA NO ART. 14 DO ESTATUTO DO DESARMAMENTO - PORTARIA Nº 1.222 DE 12.08.2019 DO EXÉRCITO BRASILEIRO, QUE APÓS O DECRETO-LEI Nº 9.847/2019, PASSOU A CONSIDERAR DE USO PERMITIDO ARMA E MUNIÇÃO CALIBRE 9MM - APLICAÇÃO DO PRINCÍPIO DO - NOVATIO LEGIS IN MELLIUS READEQUADAÇÃO DA PENA - FIXAÇÃO DO REGIME INICIAL ABERTO AO APELANTE - SUBSTITUIÇÃO DA PENA LEANDRO PRIVATIVA DE LIBERDADE POR RESTRITITVAS DE DIREITOS PARA AMBOS OS RÉUS.
+RECURSO PARCIALMENTE CONHECIDO E NESTA EXTENSÃO, PARCIALMENTE PROVIDO."
+Foi interposto recurso especial, pela Defesa (fls. 577-591), com fulcro na alínea a, do permissivo constitucional, no qual se alegou violação, em síntese, que "para haver tipicidade penal não basta a mera subsunção do fato à norma penal, mas exige-se que a conduta praticada pelo agente seja, necessariamente, contrária à norma anteposta ao tipo penal e afete, também, o bem jurídico por ele tutelado" (fl. 915).
+Aduziram, outrossim, que "não há outro caminho que não absolver o acusado, LEANDRO, eis que sua conduta, no presente feito, não pode ser considerada típica por ausência de previsão legal, considerando que a arma de fogo encontrada estava de fato na mochila encontrada com MATHEUS, conforme coerência das provas trazidas aos autos" (fl. 916).
+Apresentadas as contrarrazões (fls. 947-9529), o apelo nobre foi inadmitido na origem pela aplicação da Súmula n. 7/STJ e pela aplicação da Súmula n. 83/STJ (fls. 601-608).
+Sobreveio agravo em recurso especial, por meio do qual se reiterou os argumentos expendido no apelo nobre (fls. 980-989).
+Em decisão de fls. 1.046-1.047, a d. Presidência deste Superior Tribunal de Justiça não conheceu do agravo em recurso especial, por intempestividade.
+Daí a interposição do presente agravo regimental (expediente avulso), por meio do qual se alega, em síntese, que "somente em 12/02/2021 os autos foram novamente remetidos para a Turma recursal e posteriormente invalidados e, somente em 23/03/2021, vinculado como Sub-recurso de Agravo de Instrumento Criminal" (fl. 1.053).
+Pela Certidão de fl. 1.060, foi informado que "O prazo para interposição de agravo regimental em relação à decisão de folha 1046 teve início em 10/08 /2021 e término em 16/08/2021, e que a petição n. 730695/2021 (AgRg) foi protocolizada em 17/08/2021".
+Pelo despacho de fl. 1.064, foi determinada a redistribuição dos autos.
+Conforme Termo de Distribuição e Encaminhamento de fl. 1.067, o feito foi a mim atribuído.
+O d. representante do Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental (fls. 1.069-1.070).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. POSSE DE ARMA DE FOGO DE USO RESTRITO. INTEMPESTIVIDADE. AGRAVO REGIMENTAL INTERPOSTO FORA DO PRAZO LEGAL DE 5 (CINCO) DIAS. NÃO CONHECIMENTO.
+I - Consoante o art. 258 do RISTJ, "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+II - In casu, a decisão objeto deste agravo regimental foi disponibilizada em 06/08/2021 e considerada publicada em 09/08/2021 (fl. 647). O agravo regimental, contudo, somente foi interposto em 17/08/2021 (fl. 1.050), quando já havia sido ultrapassado o quinquídio legal, sendo, pois, manifesta a intempestividade do recurso, conforme Certidão de fl. 1.060.
+Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): O presente agravo regimental não merece ser conhecido, pois intempestivo.
+O Código de Processo Civil/2015 modificou as regras acerca da interposição dos agravos regimentais, agora denominados agravos internos, estabelecendo que este recurso será dirigido ao respectivo órgão colegiado contra decisão do relator, observando-se, quanto ao processamento, as regras do regimento interno de cada Tribunal (art. 1.021 do Código de Processo Civil/2015).
+Porém, as alterações promovidas pela nova legislação processual não são aplicáveis aos recursos internos nos Tribunais Superiores. Isto porque o art. 39 da Lei n. 8.038/90 permanece em vigor, prevendo que, das decisões monocráticas proferidas pelo Presidente do Tribunal, Presidente de Seção, Presidente de Turma ou pelo Relator, que causarem gravame à parte, caberá agravo, no prazo de cinco dias.
+O mesmo está dito no art. 258 do Regimento Interno deste Superior Tribunal de Justiça, que dispõe, verbis: "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+Pois bem.
+No caso dos autos, a r. decisão ora agravada foi disponibilizada em 06/08/2021 e considerada publicada em 09/08/2021, conforme certidão de fl. 1.048. O prazo inicial para a interposição do respectivo recurso iniciou-se no dia 10/08/2021. O agravo regimental, contudo, somente foi interposto em 17/08/2021 (fl. 1.050), quando já havia sido ultrapassado o quinquídio legal, sendo, pois, manifesta a sua intempestividade.
+De fato, nos termos da Certidão de fl. 1.060, foi informado que "O prazo para interposição de agravo regimental em relação à decisão de folha 1046 teve início em 10/08 /2021 e término em 16/08/2021, e que a petição n. 730695/2021 (AgRg) foi protocolizada em 17/08/2021".
+Nesse sentido, confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 258 DO RISTJ. PRAZO. CINCO DIAS. INTEMPESTIVIDADE. INAPLICABILIDADE DAS DISPOSIÇÕES DO NOVO CPC. NÃO CONHECIMENTO.
+1. O agravo contra decisão monocrática de Relator nos tribunais superiores, em matéria penal, não obedece às regras no novo CPC, referentes à contagem dos prazos em dias úteis e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração.
+ ..
+3. Agravo interno não conhecido" (AgRg no AREsp n. 908.275/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 11/10/2016, grifei).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INTEMPESTIVIDADE. REMESSA DOS AUTOS À DEFENSORIA PÚBLICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental protocolado nesta Corte quando já escoado o prazo de cinco dias, previsto no art. 258 do Regimento Interno do Superior Tribunal de Justiça e no art. 39 da Lei n. 8.038/90.
+ ..
+3. Agravo regimental não conhecido" (AgRg no HC n. 360.436/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 20/9/2016).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
