@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especialmanejado porALICE SOAREScontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ, fls. 530/536):
+PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. REVISÃO DOCÁLCULO DA RMI (RENDA MENSAL INICIAL).
+1. Hipótese em que as parcelas salariais reconhecidas em anteriorreclamatória trabalhista não integram o período básico de cálculo do benefícioe, portanto, não importam em alteração da renda mensal inicial, inexistindodiferenças a receber.
+2. Nos termos da tese fixada no IRDR nº 4 (TRF4 5052713-53.2016.4.04.0000, 3ª Seção, Relator Des. Federal Fernando Quadros da Silva,03.10.2018) "A regra permanente do art. 29, I e II, da Lei 8.213/91 somente aplica-se aos novos filiados ao Regime Geral de Previdência Social, não sendo aregra de transição prevista no art. 3º da Lei 9.876/99 desfavorável aossegurados que já estavam filiados ao sistema, em comparação com oregramento antigo".
+É o relatório.
+A questão jurídica referente à aplicação dosartigos art. 34 e 29, I ambos da Lei n. 8.213/1991, em detrimento da regra de transição, quando mais favoráveis ao segurado,foi submetida ao regime dosprecedentes qualificados vinculantes pelo Supremo Tribunal Federalnos seguintes termos:
+Tema 1102/STF:Possibilidade de revisão de benefício previdenciário mediante a aplicação da regra definitiva do artigo 29, incisos I e II, da Lei nº 8.213/91, quando mais favorável do que a regra de transição contida no artigo 3º da Lei nº 9.876/99, aos segurados que ingressaram no Regime Geral de Previdência Social antes da publicação da referida Lei nº 9.876/99, ocorrida em 26/11/99.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/15, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
