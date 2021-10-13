@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KAIQUE SILVA DE ALMEIDA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2221515-44.2021.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva e foi denunciado por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na expressiva quantidade e variedade dos entorpecentes apreendidos - 36 porções de lança-perfume (1.212ml), 62 microtubos de cocaína (94g), 64 porções de maconha (207g) e 29 porções de skunk (38g). Impetrado writ originário, a ordem foi denegada.
+A defesa sustenta a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea do decreto preventivo, fundado na gravidade abstrata do delito.
+Aduz ainda violação do princípio da homogeneidade. Afirma que, em caso de eventual condenação, o paciente fará jus a regime de cumprimento de pena menos gravoso que o atual.
+Destaca que o paciente ostenta condições pessoais favoráveis.
+Re quer a concessão da ordem para que seja revogada a prisão preventiva do paciente.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fl. 96):
+ ..
+Existem indícios de autoria e prova da materialidade do delito, notadamente quando o requerido foi surpreendido na posse de entorpecentes, com embalagens individuais típicas do comércio, conforme narra o auto de prisão em flagrante.
+A medida cautelar em apreço é adequada à gravidade do crime, às circunstâncias do fato e às condições pessoais do acusado, eis que, em caso de procedência da pretensão punitiva, a pena que ao final poderá ser aplicada seria cumprida em regime inicialmente fechado.
+Destarte, a própria Constituição Federal veda a liberdade provisória com fiança, demonstrando que as demais medidas cautelares em meio aberto são insuficientes e inadequadas à gravidade do fato (artigo 5º, inciso XLIII, CF), assim como não é possível garantir a incidência da causa de diminuição pertinentes à figura privilegiada diante da grande quantidade e variedade de drogas apreendidas (36 porções de lança-perfume (1212 mililitros), 62 microtubos de cocaína (94 gramas), 64 porções de maconha (207 gramas) e 29 porções de skunk (38 gramas).
+Ainda, a contabilidade verificada no caderno de anotações sugere dedicação a esta atividade ilícita.
+ ..
+A exigência acima, em princípio, foi cumprida no acórdão impugnado, motivo pelo qual não há razão para o acolhimento dos pedidos.
+No caso, a quantidade e a variedade dos entorpecentes apreendidos (1.212ml de lança-perfume, 94g de cocaína, 207g de maconha, 38g de skunk) foram consideradas pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Por fim, "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Como visto, na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar .
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
