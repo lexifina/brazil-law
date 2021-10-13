@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Jeferson Luiz do Prado (ou Jefferson Luiz do Prado), condenado a 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 15 dias-multa, pela prática do crime de roubo circunstanciado.
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de São Paulo (fls. 39/44), que manteve sentença prolatada na Ação Penal n. 1527124-78.2020.8.26.0228 (fls. 23/36), da 12ª Vara Criminal do Foro Central Criminal da comarca de São Paulo/SP.
+Alega-se constrangimento ilegal consistente na imposição do regime inicial fechado e requer-se a concessão da ordem, inclusive em caráter liminar, para que seja alterado o regime inicial.
+É o relatório.
+Busca a impetração a alteração do regime inicial fixado na condenação do paciente a 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 15 dias-multa, pela prática do crime de roubo circunstanciado.
+Inicialmente, transcreve-se a fundamentação da sentença condenatória, em relação à pretensão mandamental (fls. 33/34):
+Os condenados iniciarão o cumprimento da reprimenda em regime fechado, e isso porque praticaram crime de natureza grave, e delito de tal ordem se cumpre, necessariamente, em regime fechado (JUTACrim 94/334; Revista de Julgados e Doutrina do TACrim 16/145).
+Neste sentido, também: "Quem pratica crime de roubo à mão armada demonstra audácia e temilidade, características de personalidade que recomendam a imposição de um período de segregação carcerária mais rigorosa no regime prisional fechado." (TACrim, Ap.918.023/1 São Paulo, 2ª Câmara, rel. juiz Ricardo Lewandowski, j.26.1.95)
+Ademais, este regime de cumprimento de pena privativa de liberdade se justifica ante a gravidade do delito cometido pelos réus, em especial ante o fato de tratar-se de roubo praticado em concurso de pessoas e com emprego de ameaça. A sociedade está aterrorizada diante do crescimento da criminalidade e da violência, em especial ante a abundância de delitos contra o patrimônio, praticados cada vez de modo mais frio e arrojado.
+A seu turno, a Corte local manteve a sentença, dispondo sobre o regime inicial, aos seguintes fundamentos (fl. 44):
+Por fim, o regime prisional fechado se justifica para ambos, em razão da gravidade concreta do crime. Trata-se de crime cometido em prejuízo de uma padaria, exatamente no momento de sua abertura, por volta das 6 da manhã, circunstância que indica que o delito foi premeditado. Três ladrões ingressaram no local (comparsas dos sentenciados), sendo que um obrigou a vítima M.R.D. a ficar sentado na copa, ao passo que outro foi abordar outra pessoa ali dentro. Aproveitaram a oportunidade para roubar a padaria, o ofendido M.R.D. e um cliente que ali estava. Não bastasse, houve disparos de arma de fogo momentos depois, lesionando, inclusive, o braço de um dos militares, circunstância que eleva a gravidade concreta e impõe a necessidade de maior rigor penal, em reverência à finalidade repressiva da pena. Tudo isso se soma aos péssimos antecedentes de Constâncio, como se observa à fl. 81/83.
+Então, tem-se que o regime foi agravado em razão da gravidade do delito cometido e por se tratar de roubo praticado em concurso de pessoas e com emprego de ameaça (fl. 34).
+Assim, inexiste ilegalidade na fixação do regime mais gravoso, uma vez que fundamentada na gravidade concreta do delito, com suporte em elementos que evidenciam a maior gravidade da conduta delitiva: prática da ação com grave ameaça à pessoa, emprego de arma e em concurso de agentes (AgRg no AREsp n. 1.481.688/SP, de minha relatoria, Sexta Turma, DJe 4/9/2019).
+Conclui-se, então, que a impetração não evidenciou constrangimento ilegal no acórdão ora hostilizado.
+Em razão disso, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. REGIME INICIAL. ROUBO CIRCUNSTANCIADO. REGIME FECHADO. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA. AMEAÇA. CONCURSO DE PESSOAS. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
