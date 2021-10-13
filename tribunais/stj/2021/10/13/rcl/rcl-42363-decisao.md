@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de reclamação apresentada por BGMAXX BA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA, contra a decisão que, no exame de admissibilidade do recurso especial, determinou o sobrestamento do feito, para aguardar o julgamento do Tema 1046 dos recursos repetitivos deste STJ.
+Alega o reclamante que a decisão viola expressamente a determinação de não suspensão nacional dos processos do Tema.
+É o relatório. Decido.
+Conforme previsão dos arts. 105, I, f, da Constituição, e 187, do RISTJ, a Reclamação dirigida a ao STJ tem cabimento para preservar sua competência ou assegurar a autoridade de suas decisões.
+O art. 988 do CPC/2015, acrescenta que se presta a "garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência".
+Esta Corte já decidiu que "A reclamação, na sua origem, constitui instrumento de tutela da decisão do caso concreto, sendo assim ela não deve ser vista como meio de tutela do precedente ou da jurisprudência vinculante. Entretanto, o art. 988 do CPC/15 trouxe a previsão, nos seus incisos III e IV, da garantia de observância, pelas cortes inferiores, de enunciados de súmula vinculante, precedente em controle concentrado de constitucionalidade e incidente de resolução de demandas repetitivas e assunção de competência" (AgInt na Rcl 39.878/PR, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 29/09/2020, DJe 02/10/2020).
+No caso dos autos, o sobrestamento efetivado no âmbito do Tribunal a quo não implica em desobediência à autoridade das decisões exaradas por este Superior Tribunal de Justiça, nem tão pouco, em inobservância de tese versada em demanda repetitiva.
+No caso concreto, a reclamação foi ajuizada em virtude de decisão do Tribunal de origem que consignou "o sobrestamento do julgamento do recurso especial" até decisão do Tema 1046/STJ.
+Nesse contexto, constata-se que a presente insurgência não se enquadra em nenhuma das hipóteses acima mencionadas. Isso porque entre as hipóteses possíveis de reclamação, não vinculadas ao caso concreto, não está a decisão que determina ou não o sobrestamento do feito. Assim, por ausência de previsão legal, a presente reclamação é inadmissível. Nesse sentido: Rcl n. 32.391/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 13/12/2017, DJe 18/12/2017 e AgInt nos EDcl na Rcl n. 32.709/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 26/4/2017, DJe 2/5/2017.
+Veja-se também:
+PROCESSUAL CIVIL. RECLAMAÇÃO. SUSPENSÃO DOS AUTOS PARA AGUARDAR JULGAMENTO REPETITIVO. DESCABIMENTO.
+1. A Corte Especial do STJ, na sessão realizada em 05/02/2020, decidiu que não cabe reclamação para o exame da correta aplicação de precedente obrigatório formado em julgamento de recurso especial repetitivo à realidade do processo (Rcl 36.476/SP). Ressalva do ponto de vista do relator.
+2. O fato de a reclamação ser proposta contra decisão que determinou o sobrestamento da ação e de não ter havido interposição do recurso especial nos autos principais não modifica o raciocínio adotado ante a circunstância de que o controle da aplicação de r ecurso repetitivo compete às instâncias ordinárias. Precedente.
+3. Agravo interno desprovido. (AgInt na Rcl 39.901/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 01/09/2020, DJe 14/09/2020)
+Ante o exposto, com fundamento no art. 34, XVIII, do RISTJ, não conheço da Reclamação.
+Publique-se. Intime-se
