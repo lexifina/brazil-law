@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ANS. MULTA ADMINISTRATIVA. REPARAÇÃO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. In casu, o Tribunal de origem consignou: "Como destacado, há fatura emitida pelo Hospital, indicando a cobrança do valor relativo ao material utilizado no procedimento cirúrgico (p. 15/16 e 18 - PROCADM3 - Evento 1). E embora a operadora não possa ser instada a ressarcir a beneficiária, pois não há prova de que tenha efetivamente desembolsado o valor, a única forma de caracterizar a reparação voluntária e eficaz e, assim, afastar a multa por negativa de cobertura (que, de fato, ocorreu), seria a prova do pagamento do material à entidade hospitalar, inexistente nos autos." (fl. 337, e-STJ)
+2. A instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 389-392, e-STJ) que não conheceu do Recurso Especial.
+A parte agravante refuta a aplicação da Súmula 7/STJ.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ANS. MULTA ADMINISTRATIVA. REPARAÇÃO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. In casu, o Tribunal de origem consignou: "Como destacado, há fatura emitida pelo Hospital, indicando a cobrança do valor relativo ao material utilizado no procedimento cirúrgico (p. 15/16 e 18 - PROCADM3 - Evento 1). E embora a operadora não possa ser instada a ressarcir a beneficiária, pois não há prova de que tenha efetivamente desembolsado o valor, a única forma de caracterizar a reparação voluntária e eficaz e, assim, afastar a multa por negativa de cobertura (que, de fato, ocorreu), seria a prova do pagamento do material à entidade hospitalar, inexistente nos autos." (fl. 337, e-STJ)
+2. A instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 5.8.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, no presente caso, o Tribunal de origem se manifestou nos seguintes termos:
+(..) o material foi utilizado no procedimento cirúrgico e está sendo cobrado da beneficiária, tanto que tal questão é referida na reclamação que gerou o procedimento administrativo em questão, que é posterior ao pedido de reembolso.
+O que se vê, portanto, é que a ANS compreende que não restou demonstrado o pagamento da quantia referente ao material.
+O afastamento da penalidade pela configuração do instituto previsto pelo art. 11 da RN 48/2003 exige a reparação voluntária e eficaz de "todos os prejuízos e danos eventualmente causados"; o que, diante das peculiaridades do caso concreto, demandaria, além do reembolso à beneficiária das despesas com anestesista e instrumentador, o pagamento do valor de R$ 2.067,77 diretamente à entidade hospitalar, do que também não se tem comprovação nos autos do processo administrativo.
+A Unimed alegou nos seus embargos de declaração, e a sentença acolheu, que realizou o pagamento diretamente ao hospital. Ocorre que não há qualquer demonstração nesse sentido. Se é correto, de um lado, afirmar-se que não há demonstração de que a beneficiária suportou o pagamento, de modo que não seria de se exigir o reembolso, é igualmente correto afirmar-se que houve cobrança particular por parte do hospital, até porque incontroverso que o material foi utilizado. Nessa linha, deveria a Unimed, tratando-se de anulação de ato administrativo, demonstrar que realizou o pagamento relativo ao material utilizado, o que, no caso, segundo alega, deu-se em benefício do hospital. Há mera alegação, desacompanhada de prova, de que foi feito o pagamento ao hospital, prova simples, da qual não se desincumbiu a embargante.
+Assim, configurada a existência da infração e demonstrado não ter havido a "reparação voluntária e eficaz" (art. 11 da RN nº 48/2003), é de ser mantida a higidez do auto de infração nº 39931, bem como da multa administrativa aplicada no PA nº 33902.219019/2010-01. (fls. 305/306).
+Como destacado, há fatura emitida pelo Hospital, indicando a cobrança do valor relativo ao material utilizado no procedimento cirúrgico (p. 15/16 e 18 - PROCADM3 - Evento 1). E embora a operadora não possa ser instada a ressarcir a beneficiária, pois não há prova de que tenha efetivamente desembolsado o valor, a única forma de caracterizar a reparação voluntária e eficaz e, assim, afastar a multa por negativa de cobertura (que, de fato, ocorreu), seria a prova do pagamento do material à entidade hospitalar, inexistente nos autos (fl. 337).
+Como destacado, há fatura emitida pelo Hospital, indicando a cobrança do valor relativo ao material utilizado no procedimento cirúrgico (p. 15/16 e 18 - PROCADM3 - Evento 1). E embora a operadora não possa ser instada a ressarcir a beneficiária, pois não há prova de que tenha efetivamente desembolsado o valor, a única forma de caracterizar a reparação voluntária e eficaz e, assim, afastar a multa por negativa de cobertura (que, de fato, ocorreu), seria a prova do pagamento do material à entidade hospitalar, inexistente nos autos
+Como se vê, a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
