@@ -1,0 +1,15 @@
+RECLAMAÇÃO. INCIDENTE DE SUSPENSÃO AJUIZADO PERANTE A PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DA PRESIDÊNCIA DESTE SUPREMO TRIBUNAL FEDERAL. REFORMA DA DECISÃO RECLAMADA. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. RECLAMAÇÃO QUE SE EXTINGUE SEM JULGAMENTO DO MÉRITO.
+    Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Estado de Goiás contra decisão proferida pelo Superior Tribunal de Justiça, nos autos da Suspensão de Liminar e Sentença 2.778, por usurpação da competência do Supremo Tribunal Federal e suposta violação à decisão proferida por esta Suprema Corte na Suspensão de Liminar 1.331.
+    Relata que o Município de Goiânia ajuizou a Suspensão de Liminar 1.331 perante este Supremo Tribunal Federal, objetivando suspender a liminar deferida na Tutela Cautelar Antecedente 5183984.19.2020.8.09.0051, sendo que o então Presidente, Ministro Dias Toffoli, deferiu a liminar requerida. Posteriormente, o Município ajuizou pedido de extensão dos efeitos da liminar deferida à decisão proferida no Agravo de Instrumento nº 5369833.23.2020.8.09.0000, que manteve o deferimento de liminar nos autos da Ação Civil Pública 5296722.47.2020.8.09.0051, contudo o pedido de extensão restou indeferido.
+    Discorre que, inconformado, o Município de Goiânia ajuizou no Superior Tribunal de Justiça a SLS 2.778, apresentando os mesmos argumentos expendidos no pedido de extensão protocolado no Supremo na SL 1.331 e objetivando igualmente suspender os efeitos da liminar deferida na Ação Civil Pública 5296722.47.2020.8.09.0051, sendo que o STJ deferiu a liminar pleiteada.
+    Sustenta que, ao assim proceder, a decisão proferida pelo STJ nos autos da SLS 2.778 descumpre decisão desta Suprema Corte, proferida nos autos da SL 1.331, que havia indeferido o pedido de extensão relacionado à decisão cujos efeitos o STJ suspendeu, em clara usurpação da competência desta Corte e desrespeito à autoridade de suas decisões.
+    Requer, por estes fundamentos, a procedência do pedido para cassar a decisão proferida pelo Superior Tribunal de Justiça na Suspensão de Liminar 2.778.
+    É o relatório. DECIDO.
+    Ab initio, verifica-se a ocorrência de circunstância capaz de gerar a perda o objeto da presente reclamação, a saber, a superveniência de decisão da Presidência do Superior Tribunal de Justiça, julgando prejudicada a SLS 2.778, “uma vez que a matéria aqui discutida já foi apreciada pela Presidência do STF em suspensão de liminar idêntica que expressamente reconheceu o cunho constitucional da demanda” .
+    Com efeito, tendo o Presidente do STJ reconhecido sua incompetência para o processamento do incidente de suspensão e julgado extinta a SLS 2.778, objeto desta reclamação, não subsiste a alegada usurpação de competência que fundamentou a propositura da presente reclamação, deixando de haver interesse processual in casu.
+    Ex positis, EXTINGO SEM JULGAMENTO DE MÉRITO a presente reclamação, com fundamento nos artigos 485, VI, § 3º e 932, VIII, do CPC.
+    Publique-se.
+    Brasília, 13 de outubro de 2021.
+Ministro Luiz Fux
+Presidente
+Documento assinado digitalmente
