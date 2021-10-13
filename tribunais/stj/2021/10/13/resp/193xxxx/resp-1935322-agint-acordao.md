@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AUSÊNCIA DE OFENSA AO ART. 1.022, II, DO CPC. QUESTÃO ANALISADA PELO ACÓRDÃO RECORRIDO. LIMITE SUBJETIVO ESTABELECIDO PELO TÍTULO JUDICIAL.
+1. Não se configurou a ofensa aos arts. 489 e 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+2. Depreende-se pela análise dos autos, que a Corte a quo examinou o todos os argumentos lançados pela União em seu recurso, inclusive quanto ao limite subjetivo estabelecido pelo título exequendo.
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão deste Relator, que negou provimento ao recurso.
+A parte agravante insiste no argumento de omissão do acórdão proferido pelo Tribunal de origem, visto que não teria analisado a alegação de que o "título exequendo havia estabelecido um limite subjetivo" (fl. 650, e-STJ).
+A parte agravada apresentou impugnação às fls. 660-672, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AUSÊNCIA DE OFENSA AO ART. 1.022, II, DO CPC. QUESTÃO ANALISADA PELO ACÓRDÃO RECORRIDO. LIMITE SUBJETIVO ESTABELECIDO PELO TÍTULO JUDICIAL.
+1. Não se configurou a ofensa aos arts. 489 e 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+2. Depreende-se pela análise dos autos, que a Corte a quo examinou o todos os argumentos lançados pela União em seu recurso, inclusive quanto ao limite subjetivo estabelecido pelo título exequendo.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 3.8.2021.
+A irresignação não merece prosperar.
+Como afirmando na decisão recorrida, não se configurou a ofensa aos arts. 489 e 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição. Confira-se:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/15 E ART. 12 DA LEI N. 8.429/92. OMISSÃO. NÃO OCORRÊNCIA. ENTENDIMENTO FIRMADO POR JURISPRUDÊNCIA DO STJ. NÃO OBRIGAÇÃO. PRAZO PRESCRICIONAL. ART. 489 DO CPC/15. VÍCIOS. AUSÊNCIA. PROPORCIONALIDADE. SANÇÕES. REVISÃO. IMPOSSIBILIDADE. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. INCIDÊNCIA DO ENUNCIADO 7 DA SÚMULA DO STJ.
+I - Trata-se, na origem, de ação civil pública por ato de improbidade administrativa, decorrente de descumprimento injustificado e reiterado de ordem judicial objetivando condenação do agravante na suspensão dos direitos políticos; proibição de contratar com o poder público ou receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi reformada julgando procedente o pedido. Nesta Corte, conheceu-se em parte do recurso especial e, na parte conhecida, foi negado provimento.
+II - O agravante alega violação do art. 1.022, II, do Código de Processo Civil e do art. 12 da Lei n. 8.429/92, bem como sustenta existir divergência jurisprudencial. No tocante à alegada omissão do Tribunal de origem, não lhe assiste razão. O acórdão recorrido não se ressente de omissão, porquanto apreciou a controvérsia com fundamentação suficiente, embora contrária ao interesse do recorrente.
+III - É fácil perceber que o Tribunal de Justiça do Estado de Minas Gerais declinou, de forma suficiente, dos motivos por que considerou correto o procedimento adotado pelo Juiz de primeiro grau. A pretexto de que haveria omissão no acórdão, pretende o recorrente, na realidade, a modificação do v. aresto impugnado.
+IV - Conforme entendimento pacífico desta Corte, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS n. 21.315/DF, Rel. Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016). A pretensão de reformar o julgado não se coaduna com as hipóte.ses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+V - Para além do alegado vício de fundamentação e omissão, suscitou o recorrente a violação do art. 12 da Lei de Improbidade Administrativa, tendo em conta a sustentada desproporcionalidade da sanção imposta. Na forma como aplicada e à luz da conduta descrita no acórdão recorrido, inexiste desproporção que justifique a excepcional intervenção corretiva do STJ. A propósito, a orientação remansosa nesta Corte é de que, apenas no caso de patente afronta ao princípio da proporcionalidade, afigura-se possível a revisão das sanções aplicadas pela prática de ato de improbidade administrativa.
+VI - Portanto, falta ao recurso especial fundado na alínea a do inciso III do art. 105 da CF requisito específico de admissibilidade. Consequência disso é a inadmissibilidade do recurso também quanto à alegada existência de dissídio jurisprudencial (CF, art. 105, III, c). Afinal, se não analisado o mérito da decisão recorrida, o que esbarraria no óbice na Súmula n. 7 do STJ, não há como investigar se a interpretação dada ao caso é divergente da empregada nos outros julgamentos expostos.
+VII - Agravo interno improvido.
+(AgInt no REsp 1.812.069/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 26/5/2021).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício a ensejar esclarecimento ou a integração do que decidido no julgado.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1739212/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 28/5/2021).
+Depreende-se pela análise dos autos, que a Corte a quo examinou o todos os argumentos lançados pela União em seu recurso, inclusive quanto ao limite subjetivo estabelecido pelo título exequendo, senão vejamos:
+De acordo com a UNIÃO, o título executivo formado na ação coletiva teria se limitado a afastar o limite fixado pela Administração nas Resoluções CRAV, para que outro limite máximo fosse aplicado, o da Medida Provisória 831/1995, não havendo, portanto, determinação para pagamento da RAV utilizando na base de cálculo 8 (oito) vezes o maior vencimento de qualquer categoria.
+No entanto, a determinação de realizar liquidação por artigos fora modificada em grau de apelação pelo TRF1, não tendo sido objeto de manifestação do STJ.
+Além disso, a liquidação se mostrou desnecessária exatamente porque como restou esclarecido pelo Coordenador Geral de Gestão de Pessoas do COGEP/SPOA/SE-MF, não houve a implantação do indigitado modelo de aferição, consoante preconizado pela legislação de regência, de sorte que os pertinentes pagamentos foram realizados considerando-se a pontuação máxima, em relação aos servidores inativos e, para os TTN"s em atividade, o valor máximo da gratificação, com a limitação prevista no art. 14 do Decreto nº 97.667/89, alterado pelo art. Io do Decreto nº 98.967/90 e pelo Decreto nº 2.107/96, na forma prevista na Resolução CRAV nº 2, de 30/08/93, e Resolução CRAV nº 1, de 12/06/95.
+Tem-se que - ao contrário do que afirma a UNIÃO - a decisão agravada não determinou fosse utilizado o teto de 8 (oito) vezes o maior vencimento de qualquer categoria como base de cálculos das diferenças a serem apuradas.
+Dessa maneira, não tendo sido infirmadas as razões que nortearam o decisum impugnado, não se pode acolher a irresignação.
+Com essas considerações, não provejo o Agravo Interno.
+É como voto.
