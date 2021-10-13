@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO COM PEDIDO DE EFEITO SUSPENSIVO INTERPOSTO EM FACE DE DECISÃO QUE DEFERIU TUTELA ANTECIPADA.
+Ação de obrigação de fazer com pedido de tutela antecipada cumulada com pedido de repetição do indébito e indenização por danos morais.
+Decisão agravada que deferiu tutela provisória de evidência, impondo à ré que, no prazo de 30 (trinta) dias contados da intimação pessoal da presente, promova a cobrança relativa ao hidrômetro de nº F17AA0000211, com base no consumo real aferido pelo medidor, abstendo-se de realizar a cobrança por estimativa (mínimo), bem como deferiu a tutela provisória de urgência, para que a apuração da progressividade seja realizada após a divisão do consumo real pelo número de economias, sob pena de multa equivalente ao dobro do montante excedente cobrado em desacordo com esta decisão.
+Pretensão fundamentada na ilicitude da cobrança de tarifa mínima multiplicada pelo número de economias. Inteligência da tese firmada no julgamento do Tema nº 414 do STJ e da Súmula nº 191 do TJRJ.
+Possibilidade da cobrança da tarifa progressiva, observada a proporcionalidade a partir da média de consumo calculada após divisão do consumo total entre as unidades do condomínio. Tema nº 153 do STJ e Súmula nº 82 do TJRJ. Presentes os requisitos para concessão da tutela antecipada.
+Ademais, só se revoga deferimento ou não de antecipação de tutela, se teratológica, contrária à lei ou à evidente prova dos autos, o que não ocorre na hipótese. Inteligência do verbete nº 59 da Súmula deste Tribunal de Justiça.
+Decisão recorrida que deve ser mantida.
+RECURSO CONHECIDO E NÃO PROVIDO.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega, em síntese:
+(..)
+Perceba-se, desde já, que o acórdão combatido inova a ordem jurídica, reputando como abusivo o critério de multiplicação da tarifa de água pelo número de economias, determinando, de forma contraditória, que para fins de incidência da tarifa progressiva, seja considerado o número de economias que compõem o Condomínio Recorrido (448 economias), implantando um sistema tarifário híbrido e incompatível com a estrutura tarifária constante do edital, do contrato e seus aditamentos e da proposta, cujos instrumentos, sabidamente, são normas vinculantes da relação concessória, a teor do artigo 3º da Lei 8.666/93 e dos artigos 4º e 14 da Lei 8.987/95.
+O acórdão tal qual lançado inova em benefício sem causa do Recorrido e, por conseguinte, em evidente prejuízo para a Recorrente e para os serviços públicos municipais que se lhe foram outorgados através de concessão, aplicando-se a tarifa progressiva tomando por base as economias que compõe o condomínio, e não apenas o consumo aferido no medidor, sendo imperiosa, portanto, a pronta remessa dos autos a uma das Turmas do Colendo Superior de Justiça.
+(..)
+Entretanto, como será demonstrado a seguir, as contradições e omissões lançadas nas razões de Embargos Declaratórios, a despeito dos argumentos invocados pela E. Desembargadora Relatora, não foram sanadas, restando, pois, caracterizada ofensa ao art. 1.022, incisos I e II, parágrafo único, II, do Código de Processo Civil c/c art. 489, § 1º, inciso IV, também do CPC.
+(..)
+1 - em nada se manifestou sobre a unicidade da política tarifaria decorrente de ato jurídico perfeito ao qual se obrigou a Recorrente, e que jamais foi objeto de qualquer reclame judicial - Edital licitação e contrato de concessão;
+2 - não se manifestou acerca da alegada ofensa perpetrada aos 3º da Lei 8.666/93, assim como dos artigos 4º, 9º e 14 da Lei 8.987/95, na medida em que alterou a política tarifária vigente no âmbito do Município, que está estabelecida no edital de licitação e no contrato de concessão, estes, sabidamente, normas regulamentares da concessão;
+3 - não se manifestou acerca do desequilíbrio econômico- financeiro do contrato de concessão ocasionado pela alteração na política tarifária, tampouco quanto à intangibilidade do equilíbrio econômico- financeiro do contrato, na apreciando a questão à luz do disposto nos arts.29 e 30 da Lei 11.445/07 e arts. 45, 46 e 47 do Decreto nº 7.217/2010, na medida em que ao estipular forma de emissão de contas em relação ao Recorrido em total desacordo a política tarifária, a qual encontra respaldo nas disposições contratuais culmina por ocasionar um desequilíbrio econômico-financeiro, afetando a intangibilidade do contrato, o que deve ser preservado pelo Poder Judiciário;
+4 - não se manifestou acerca do tratamento desigual dispensado às partes, em flagrante ofensa aos arts. 7º e 139, inciso I do NCPC, iniquidade esta decorrente do fato de que se o critério das economias é ilegal para fins de cobrança da tarifa mínima, por que o seria legal para fins de incidência da tarifa progressiva, que repita-se não integrou a lide;
+5 - não se manifestou acerca dos precedentes do STJ (EDcl no RECURSO ESPECIAL Nº 625.221 - RJ (2003/0238382-7) - STJ - Relator: Min. Denise Arruda e AgRg no RECURSO ESPECIAL Nº 997.405 - RJ (2007/0244399-2) - STJ - Relator: Min. Humberto Martins) e AgInt no REsp 1745659/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/09/2019, DJe 16/09/2019.
+6 - Não se manifestou sobre a violação ao art. 2ª da Constituição Federal, pois sem o devido processo legal alterou a política tarifária estabelecida pelo município de Campos, sendo certo que trata-se de ato próprio do poder executivo.
+(..)
+Ressalte-se por importante, que não foi apenas o Exmo.
+Ministro Mauro Campbell Marques quem decidiu monocraticamente a questão, pois no momento do julgamento do Agravo Interno a 2ª Turma do STJ, por unanimidade, manteve a decisão do Relator, ou seja, pela inaplicabilidade do critério Híbrido de cobrança.
+(..)
+Por estes motivos, é possível afirmar que o entendimento atual dominante do STJ é no sentido de que essa nova forma de cobrança criada pelos E. Desembargadores do TJRJ - critério híbrido, onde ocorre a divisão do consumo aferido pelo único hidrômetro pelo número de economias apenas e tão somente para o fim de enquadramento na faixa de consumo prevista na referida tabela progressiva - é INAPLICÁVEL, ILEGAL e SEM QUALQUER PREVISÃO CONTRATUAL.
+(..)
+Resta, portanto, demonstrado que o Superior Tribunalde Justiça já fixou o critério a ser adotado para fins de cobrança para os imóveis onde houver hidrômetro instalado e houver pretensão de afastamento do critério de cobrança da tarifa mínima multiplicada por economia, TENDO SIDO DETERMINADO QUE A TARIFA PROGRESSIVA INCIDIRÁ, EM SUAS DIVERSAS FAIXAS DE CONSUMO, SOBRE O CONSUMO TOTAL MEDIDO, NÃO HAVENDO QUALQUER RELEVÂNCIA O NÚMERO DE UNIDADES EXISTENTES.
+Portando, o E. Tribunal a quo simplesmente proferiu uma decisão baseada no Tema 414 do e. STJ (REsp nº 1.166.561/RJ), sem se atentar aos termos do Agravo de Instrumento e Embargos de Declaração apresentados pela Concessionária, em que restou demonstrado que o PRÓPRIO STJ já se manifestou no sentido de que o Tema 414 NÃO É APLICÁVEL AOS CASOS EM QUE SE DISCUTE CRITÉRIO HÍBRIDO DE COBRANÇA, de forma o que o tema supramencionado diz respeito tão somente a inaplicabilidade do critério de multiplicação do consumo mínimo pelo número de economias, não fazendo qualquer menção à consideração do número de economias para fins de fixação da tarifa progressiva.
+(..)
+A questão da cobrança da tarifa mínima multiplicada pelo número de economias, de fato, como consta do v. acórdão recorrido, foi abordada no julgamento do Recurso Repetitivo nº 1.166.561/RJ, contudo, sem o devido enfretamento à luz das regras constantes dos § 1º e 2º do art. 8 DECRETO Nº 7.217, DE 21 DE JUNHO DE 2010, questão essa que, repita-se, sequer foi abordada no acórdão recorrido, conquanto tenha sido claramente devolvida à Instância Revisora quanto da interposição do recurso de Embargos de Declaração.
+(..)
+Ora, ao fixar o entendimento no precedente julgado pela sistemática do recurso repetitivo esta Colenda Corte Superior de Justiça não analisou a questão a luz do que consta no referido decreto que veio a Regulamenta a Lei n o 11.445, de 5 de janeiro de 2007, estabelecendo diretrizes nacionais para o saneamento básico.
+Portanto, o caso em análise distingue-se do precedente constante do REsp 1.166.561 / RJ julgado sob a sistemática dos recursos repetitivos (art. 543-C do CPC/1973) em razão de tratar de tema não analisado naquele caso (distinguishing) e, ainda, alteração legislativa (overruling).
+(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.9.2021.
+O Tribunal de origem, ao decidir avexata quaestio,consignou::
+(..)
+Da análise dos autos, sobretudo dos documentos de fls. 45/47 do processo originário de nº 0030059-60.2019.8.19.0014, verifica-se que as provas referidas indicam que a ré vem realizando o faturamento da tarifa de água fornecida para o condomínio autor com base em estimativa, cobrando tarifa mínima e desconsiderando o consumo real aferido pelo hidrômetro.
+Ao entender pela ilicitude da cobrança de tarifa mínima multiplicada pelo número de economias, a decisão agravada coincide com a orientação firmada pelo Superior Tribunal de Justiça, por oportunidade do julgamento do mérito do REsp nº 1.166.561/RJ, paradigma da matéria nele tratada, que corresponde ao Tema nº 414 do Superior Tribunal de Justiça:
+(..)
+Quanto à possibilidade da cobrança progressiva, novamente a decisão agravada aplicou o entendimento consagrado pelo Superior Tribunal de Justiça, quando do julgamento do REsp nº 1.113.403/ RJ, paradigma do Tema nº 153 do Superior Tribunal de Justiça, cuja tese foi fixada com o seguinte teor:
+(..)
+Ressalte-se que a conclusão no sentido de que o número de economias deve ser observado apenas para aplicação da tabela progressiva em proporção é decorrência lógica da aplicação das teses acima referidas. Não se justificaria enquadrar todos os condôminos na última faixa de consumo em razão simplesmente do grande número de unidades (economias) do condomínio. Isso acabaria por gerar uma distorção, de modo que a única interpretação razoável é que a aplicação da tarifa progressiva se dê após cálculo da média de consumo entre as unidades, considerando a divisão do consumo total pelo número de economias.
+Sendo assim, evidenciada está a probabilidade do direito alegado. O perigo de dano também fica evidente diante da natureza do serviço prestado. Estão presentes, portanto, os requisitos autorizadores do deferimento da tutela de urgência, como prevista no artigo 300 do Código de Processo Civil.
+(..)
+Preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara no sentido de que está evidenciada a probabilidade do direito alegado, estando, portanto, presentes os requisitos autorizadores da tutela de urgência.
+Conforme orientação do Superior Tribunal de Justiça, éincabível, em regra, o Recurso Especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária.Incidência da Súmula 735 do Supremo Tribunal Federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.INSURGÊNCIA DA PARTE AGRAVANTE.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe a incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3. É incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária.Incidência da Súmula 735 do STF.
+3.1. Outrossim, o exame da presença dos pressupostos para a atribuição de efeito suspensivo aos embargos à execução demandaria a incursão nos elementos fático-probatórios dos autos, atraindo a incidência da Súmula 7 do STJ. Precedentes.
+4. Agravo interno provido para reconsiderar a decisão de fls.
+110-111 e-STJ, e agravo em recurso especial desprovido.
+(AgInt no AREsp 1804102/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+Outrossim, extrai-se do acódão objurgado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, o que não se admite ante o óbice da Súmula 7/ST.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
