@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminarimpetrado em favor de JAILSON AMORIM LIMAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado da Paraíba(Agravo em Execução n. 0815905-23.2020.815.0000).
+O Juízo de primeiro grau indeferiu o pedido de progressão de regime feito pelo paciente por ausência de requisito objetivo.
+Interposto agravo em execução pela defesa, o Tribunal de origem negouprovimento ao recurso.
+Sustenta a defesa a ocorrência de flagrante ilegalidade, visto queo paciente preencheu todos os requisitos legais para concessão do benefício.
+Alega que encontra-se preso desde 6/3/2012, devendoser esta a data-base e não a data da última falta grave homologada em 3/9/2020.
+Requer a concessão da ordem de habeas corpus para que seja concedida a progressão de regime ao paciente.
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 136-137.
+As informações foram prestadas às fls. 141-193 e 198-202.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 204-208).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Juízo da execução indeferiu o pedido de progressão de regime em decisão assim fundamentada (fls. 42-43):
+No caso dos presentes autos, o(a) apenado(a) não preenche o requisito objetivo necessário à concessão do benefício em epígrafe, nos termos do Código Penal e da Lei de Execução Penal.
+Com efeito, para obter o beneficio de progressão de regime, o(a) apenado(a) deverá , o que cumprir mais de 1/6 da pena imposta a partir da data da última falta grave somente ocorrerá em 20.11.2024.
+O D. Promotor de Justiça emitiu, inclusive, o seguinte parecer, cujo teor torno parte integrante desta decisão: "Processo nº. 0012030-67.2012.8.15.2002 MM. Juiz(a), O presente dossiê de execução penal pertencente ao apenado JAILSON AMORIM DE LIMA, veio com vista ao Órgão Ministerial para analisar pedido de progressão de regime (sequencial 22.3). Para a concessão do pleito, faz-se imprescindível a presença de dois requisitos, sendo o primeiro de ordem objetiva que nada mais é do que o cumprimento do lapso temporal exigido por lei, enquanto que o outro se encontra relacionado à existência de mérito. In casu, no que se refere ao critério objetivo, considerando o quantum da pena, tem-se que o período necessário à concessão do benefício pleiteado só será atingido em 20/11/24, conforme certifica a Escrivania, por meio do Sistema SEEU. Ante o exposto, não preenchido o critério objetivo no caso concreto, o Ministério Público da Paraíba pugna pelo indeferimento da progressão de regime, nos termos do art. 112 da Lei de Execução Penal. João Pessoa/PB, data e assinatura eletrônica ".
+Diante o exposto, pela aplicação do art. 131 e ss. da LEP, bem como pelo art. 83 do CPB, em favor do(a) apenado(a) INDEFIRO A PROGRESSÃO DE REGIME PARA O SEMIABERTO JAILSON AMORIM DE LIMA, determinando a manutenção do cumprimento da pena no regime prisional em que se encontra.
+O Tribunal de origem negou provimento ao recurso interposto pela defesa nestes termos (fls.79-81):
+Como se verifica no decisum agravado acima transcrito, não há que se falar em falta de fundamentação, já que este restou legalmente motivado em elementos concretos nos autos. Senão vejamos.
+Compulsando os autos, verifica-se que o apenado cumpre uma carga penal de 47 (quarenta e sete) anos, 06 (seis) meses e 21 (vinte e um) dias de reclusão, oriunda de cinco condenações criminais distintas dos processos 0009765-24.2004.8.20.0001 (5ª Vara Criminal de Natal/RN); 0000258-02.2005.8.20.0002 (2ª Vara Criminal de Natal/RN); 0000001-11.2004.8.20.0002 (11ª Vara Criminal de Natal/RN);0001531-41.2004.8.20.0102 (Vara Única de Ceará-Mirim/RN) e 0000618-68.2012.8.17.0100 (2ª Vara de Abreu e Lima/PE), conforme se vê Relatório da Situação Processual Executória, inserto no id. 9223925, págs. 27-34.
+Com efeito, para obter o beneficio de progressão de regime, o apenado deverá cumprir mais de 1/6 da pena imposta a partir da data da última falta grave - ocorrida no dia 28/02/19, consubstanciada na posse de aparelhos celulares e um espeto (id. 9223925, pág. 19) - e , verifica-se na certidão de cálculo da pena (id. 9223925, pág. 27), que o agravante só tem direito à benesse requerida na data de 20/11/2024.
+Ademais, a data-base deve ser entendida como o marco inicial para a avaliação dos benefícios que demandam do resgate de determinada quantidade ou fração de pena.
+A prática de falta disciplinar de natureza grave configura evento que determina a necessidade de inauguração de novo dies a quo para o atendimento do requisito objetivo. Tanto é o que se extrai da da Súmula 534 do STJ:
+"A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração".
+ ..
+Assim, observa-se que o agravante não cumpriu o lapso temporal, requisito de ordem objetiva, visto não ter alcançado o tempo necessário para o benefício da progressão de regime prisional - que, frise-se, só ocorrerá em 20/11/2024.
+A conclusão da Corte de origem coaduna com o entendimento do Superior Tribunal de Justiça, firmado no sentido de que a prática de falta grave durante o período de cumprimento da pena acarreta alteração da data-base para fins de progressão de regime.
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTO EM HABEAS CORPUS. TEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO. NÃO OCORRÊNCIA DE INTEMPESTIVIDADE. AGRAVO CONHECIDO.EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. FALTA GRAVE. INTERRUPÇÃO DO PRAZO PARA CONCESSÃO DO BENEFÍCIO. FUNDAMENTO IDÔNEO.CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. O agravoregimental não foi conhecido por intempestividade. Se demonstrado de que o recurso foi interposto dentro do quinquídio legal, necessário o conhecimento do recurso.
+2. A Terceira Seção desta Corte firmou o entendimento no sentido de que a prática de falta grave interrompe o prazo para a progressão de regime, acarretando a modificação da data-base e o início de nova contagem do lapso necessário para o preenchimento do requisito objetivo (REsp n. 1.364.192/RS, de minha relatoria, Terceira Seção, DJe 17/9/2014).
+3. Agravo regimental de fls. 2.316/2.318 provido para conhecer do agravo regimental de fls. 2.302/2.311 e negar-lhe provimento." (AgRg no AgRg no HC n. 451.407/SC, relator Ministro Sebastião Reis Júnior,Sexta Turma,DJe de 22/9/2020.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS.EXECUÇÃO PENAL. FALTA GRAVE. POSSE DE CELULAR E TABLET DURANTE A REALIZAÇÃO DE TRABALHO EXTERNO. REGRESSÃO DE REGIME.ALTERAÇÃO DO MARCO INICIAL PARA CONCESSÃO DE NOVOS BENEFÍCIOS, EXCETO PARA FINS DE LIVRAMENTO CONDICIONAL, INDULTO E COMUTAÇÃO DA PENA. PERDA DE 1/3 DOS DIAS REMIDOS. CONSTRANGIMENTO ILEGAL.INEXISTÊNCIA.
+1. De acordo com a jurisprudência desta Corte, a posse de celular durante a realização de trabalho externo, ainda que fora do estabelecimento prisional, configura a prática de falta grave.
+2. Uma vez reconhecida a tipicidade da conduta, classificada como falta grave, qualquer discussão acerca da configuração da infração disciplinar ou até mesmo sua desclassificação para falta de natureza média demandaria o reexame de matéria fático-probatória dos autos, procedimento incompatível com a estreita via do habeas corpus.
+3. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.364.192/RS, consolidou o entendimento de que "a prática de falta grave interrompe o prazo para a progressão de regime, acarretando a modificação da data-base e o início de nova contagem do lapso necessário para o preenchimento do requisito objetivo", excetuando, no entanto, a alteração do marco inicial para a concessão de livramento condicional, indulto e comutação da pena.
+4. A perda dos dias remidos em grau máximo encontra-se devidamente fundamentada na natureza, nas consequências do fato e no histórico carcerário do faltoso, não havendo, assim, falar em falta de fundamentação idônea ou desproporcionalidade da punição aplicada.
+5. Recurso ordinário a que se nega provimento." (RHC n. 96.193/SP, relator Ministro Antônio Saldanha Palheiro,Sexta Turma,DJe de 3/6/2020.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
