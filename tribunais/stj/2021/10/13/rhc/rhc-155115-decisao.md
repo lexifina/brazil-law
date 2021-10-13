@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por JOSÉ CRISTIANO DA CONCEIÇÃOcontra acórdão do Tribunal de Justiça do Estado de Alagoas (HC n. 0803258-22.2021.8.02.0000).
+Orecorrente teve a prisãopreventiva decretadaem 2/8/2019, diante de representação da autoridade policial (fls. 25). Foi denunciadopor suposta prática do delito descrito no art. 121, §2º, II, do Código Penal (fl. 27).
+O decreto prisional fundou-se na prova da materialidade e nos indícios suficientes de autoria, na gravidade da conduta e no fato de orecorrente ter-se evadido do distrito da culpa(fl. 26).
+Impetrado writ originário, a ordem foi denegada (fl. 243).
+Orecorrente alega que está sendo vítima de constrangimento ilegal,porquanto configuradoexcesso de prazo na formação da culpa, estando preso há 2anos e 1 mês, sem que tenha sido submetido a julgamento popular (fl. 259).
+Destaca que sua prisão ultrapassa, e muito, os limites da razoabilidade (fl. 262).
+Ressalta que nem elenem a defesa"contribuíram de algum modo para esse atraso" (fl. 263).
+Requer a revogação daprisão preventiva e a expedição de alvará de soltura.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 247-248):
+21. Feito esse breve relato do andamento processual, impende destacar que as testemunhas não possuem endereços definidos, sendo qualificadas como moradores de rua, fato que, aliado às restrições causadas pela pandemia mundial, tem dificultado a localização para que sejam ouvidas em juízo. Desse modo, o suposto atraso, quando analisado sob este aspecto, não pode ser imputado ao Ministério Público ou ao Poder Judiciário, sendo, em verdade, uma peculiaridade do caso concreto.
+22. Vale salientar, ainda, a suspensão dos atos processuais ocorrida em todo o território nacional em razão da pandemia pelo coronavírus, o que acabou por acarretar num retardamento da marcha processual em todo o País.
+ ..
+23. Por outro lado, tem-se que a ação penal vem sendo impulsionada devidamente pelo Juízo, tanto que por mais de uma vez houve, nos autos, a análisedo pleito de liberdade, de modo que, ao menos por ora, não há falar em desídia ou morosidade estatal.
+24. Para além, não se pode deixar de atentar para a gravidade concreta do delito praticado pelo paciente, que teria cometido o crime de feminicídio qualificado pelo motivo fútil (art. 121, § 2º, II e VI, do CP), por ter supostamente ceifado a vida da vítima, com quem mantinha um relacionamento íntimo, cavado uma cova na praia e depositado o corpo, e, em seguida, evadindo-se do local do fato. Tais circunstâncias revelam a periculosidade do agente e o risco de fuga, a ensejar a necessidade de garantir a ordem pública e a aplicação da lei penal.
+25. Destaca-se, por fim, que o tempo de prisão cautelar não se mostra desarrazoado quando analisado em face do intervalo de pena cominada abstratamente ao delito imputado ao paciente, consistente em doze a trinta anos de reclusão.
+26. À luz de todo esse contexto, não há que se falar em desídia ou ineficácia do Poder Judiciário, tampouco em retardo deliberado ocasionado pela acusação, tendo em vista a regularidade na marcha processual, talvez não com a celeridade desejada pelo impetrante, mas dentro das possibilidades do Juízo processante.
+27. Assim, com esteio no Princípio da Duração Razoável do Processo (art. 5º, LXXVIII da CF/88), no momento, não vislumbro o excesso de prazo idôneo a configurar constrangimento ilegal.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Registre-se ainda ser notório que o contexto pandêmico ocasionado pelacovid-19 acarretou inarredável prolongamento no trâmite processual de causas em todo o território nacional. Nesse sentido, não há como ignorar o impacto dessa circunstância concreta no funcionamento da estrutura do Poder Judiciário, razão pela qual, na hipótese, não há falar em violação dos princípios da razoável duração do processo e da proporcionalidade.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
