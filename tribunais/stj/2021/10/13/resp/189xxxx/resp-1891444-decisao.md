@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por Centro Trasmontano de São Paulo, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 165):
+APELAÇÃO - PLANODESAÚDE - Cumprimento de Sentença - Seguradora que pretendeo ressarcimento das despesas atinentes ao serviço de homecare,emrazãoda extinção daação hajavista o falecimentodasegurada - Impossibilidade- Inexistência de título executivo aembasar esse pedido - Ausência de comprovação quanto ao direito da segurada quanto aohomecare - Controvérsiaquedeveser discutida emaçãoprópria-Sentença mantida - NEGARAM PROVIMENTO AO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 204-206).
+Em suas razões de recurso especial, o recorrente alega violação ao art.302 do Código de Processo Civil de 2015.
+Sustenta, em síntese, que foi deferido pedido de tutela antecipatória para cobrir o serviço de home care à parte autora, mas, em decorrência do seu falecimento, houve a extinção do feito. Pretende, dessa forma, a recomposição material, nos próprios autos, pelos prejuízos decorrentes do cumprimento de decisão que deferiu a antecipação da tutela.
+Não foram apresentadas contrarrazões.
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 209-213).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Ao julgar o recurso de apelação, o Tribunal de Justiça concluiu no sentido da impossibilidade de repetição dos valores, sob os seguintes fundamentos (e-STJ, fl. 166):
+Ao que se apura dos autos, a r. sentença que extinguiu a ação de obrigação de fazer, não determinou o ressarcimento pela parte segurada dos valores despendidos pela seguradora com a cobertura do serviço de home care, ou seja, inexiste título executivo a embasar o pedido da seguradora.
+A propósito, tal determinação nem sequer seria possível, na medida em que o feito foi extinto em razão do falecimento da segurada e, nesta oportunidade ainda não se havia aferido seu direito material atinente à cobertura pretendida. Isto é, não houve julgamento do mérito.
+Em outras palavras,enquanto não constatada a existência ou não de direito ao serviço de home care, impossível se aferir o direito da seguradora quanto ao ressarcimento aqui discutido, razão pela qual impossível a aplicação do artigo 302 do CPC.
+Nessa toada, somente em ação própria é que, mediante a prova de inexistência de direito à cobertura em favor da segurada, é que se poderá requerer a reparação pelas quantias pagas.
+De acordo com as informações acima mencionadas, a revogação da antecipação de tutela não decorreu da inexistência do direito da parte autora, tendo o processo sido extinto apenas em razão de sua morte, tendo em vista que o objeto da demanda era apenas a concessão de assistência à saúde em favor da paciente falecida. Dessa forma, o STJ firmou entendimento no sentido de que, não havendo indícios de conduta contrária à boa-fé na postura da paciente falecida ou de sua família, é incabível a restituição dos valores despendidos.
+A esse respeito:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. SAÚDE SUPLEMENTAR. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. PEDIDO DE ANTECIPAÇÃO DA TUTELA. SERVIÇO DE HOMECARE. TUTELA DEFERIDA. PACIENTE PORTADORA DE MAL DE ALZHEIMER. MORTE DA AUTORA NO DECORRER DO PROCESSO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. REVOGAÇÃO DA TUTELA ANTECIPADA. EFEITOS EX TUNC. RESTITUIÇÃO DOS VALORES DESPENDIDOS COM FÁRMACOS, ALIMENTAÇÃO E MATERIAIS HOSPITALARES. DESCABIMENTO. BOA-FÉ DA DEMANDADA EVIDENCIADA.
+1. O cerne da controvérsia situa-se em torno do pedido de restituição dos gastos suportados para o cumprimento da decisão interlocutória concessiva da tutela provisória à parte autora, tendo em vista a posterior revogação da medida quando da prolação da respectiva sentença.
+2. Em relação aos benefícios previdenciários complementares, o posicionamento da Segunda Seção do Superior Tribunal de Justiça é no sentido de que há direito à devolução dos valores percebidos, em razão da revogação da antecipação dos efeitos da tutela pela sentença de mérito.
+3. Entretanto, a repetibilidade da verba recebida, com base em antecipação de tutela, deve ser examinada sob o prisma da boa-fé objetiva.
+4. Consoante destacado pelo acórdão recorrido, na hipótese dos autos, não há evidência de conduta contrária à boa-fé na postura da paciente falecida ou de sua família.
+5. A revogação da antecipação de tutela não decorreu da inexistência do direito da postulante, tendo o processo sido extinto apenas em razão da morte da demandante e a inexistência de conteúdo condenatório que aproveitasse aos herdeiros da requerente, pois o objeto da demanda era apenas a concessão de assistência à saúde em favor da paciente falecida.
+6. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
+(REsp 1725736/CE, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/04/2021, DJe 21/05/2021)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONCESSÃO DA TUTELA PROVISÓRIA. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO. CUMPRIMENTO DE SENTENÇA FORMULADO PELA PARTE RÉ PLEITEANDO O RESSARCIMENTO DOS VALORES DESPENDIDOS EM RAZÃO DO DEFERIMENTO DA TUTELA PROVISÓRIA. REVOGAÇÃO DA TUTELA ANTECIPADA.RESTITUIÇÃO DOS VALORES DESPENDIDOS COM SERVIÇO HOME CARE.DESCABIMENTO. BOA-FÉ DA DEMANDADA EVIDENCIADA. RECURSO ESPECIAL IMPROVIDO.
