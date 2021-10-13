@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ARRESTO CAUTELAR. ANTECIPAÇÃO DE TUTELA DE URGÊNCIA QUE SE MANTÉM. Decisão agravada que deixou de apreciar o requerimento de concessão da tutela de urgência para autorizar o arresto de bens e direitos dos executados, ora agravados. Configurados os requisitos autorizadores da medida pela probabilidade do direito (título executivo) e o perigo de risco ao resultado útil do processo (probabilidade de insolvência e dilapidação do patrimônio), bem como a possibilidade de reversão dos efeitos da decisão, a concessão da tutela de urgência para a promoção do arresto inaudita altera pars se mostra plenamente justificável in casu. Impenhorabilidade de verbas trabalhistas limitada a 50 salários-mínimos mensais, na forma do artigo 833, IV, §2º do Código de Processo Civil. Provimento parcial do recurso.
+Alegou-se, no especial, violação dos artigos1.022, II, 18, 300 e 298, 203, §§ 2º e 3º, e 1,001 do Código de Processo Civil e3º e 4º, da Lei 9.307/96, associada a dissídio jurisprudencial, sob o argumento de que o acórdão local é omisso;que contra despachos não cabe recurso; que não foram demonstrados os requisitos para a concessão de tutela de urgência; que a agravada não tem interesse e legitimidade; e que as parte elegeram juízo arbitral, o que subtrai a competência do juízo estatal para o julgamento da causa.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omisso, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+No que toca à legitimidade ao interesse, tais questões não foram discutidas ou suscitadas no Tribunal de origem, o que atrai a incidência dos enunciados n. 282 da Súmula do Supremo Tribunal Federal e 211 desta Corte.
+Quanto à competência, cuida-se, como se lê do acórdão local, de execução, para o que não tem competência o juízo arbitral.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL CALCADA EM CONFISSÃO DE DÍVIDA. JUÍZO ARBITRAL.AUSÊNCIA DE PODERES COERCITIVOS. COMPETÊNCIA DO PODER JUDICIÁRIO PARA EXECUTAR O TÍTULO. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no AREsp 1642737/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/9/2021, DJe 23/9/2021)
+A respeito da suposta irrecorribilidade, vê-se que a tutela provisória não foi deferida, o que torna evidente que se trata de decisão recorrível, de modo que sobre a questão recai o óbice de que trata o verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Quanto ao mais, verificar se estão ou não presentes os requisitos para o deferimento da tutela de urgência é intento que não cabe na via do recurso especial, haja vista as disposições dos verbetes n. 7 da Súmula desta Casa e 735 do Supremo Tribunal Federal.
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
