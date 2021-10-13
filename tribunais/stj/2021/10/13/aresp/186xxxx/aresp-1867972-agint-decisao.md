@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 304/307 e-STJ, 243/244 e-STJ.
+Os agravantes sustentam, em síntese, que impugnou todos os óbices impostos pela decisão de admissibilidade, não sendo o caso de aplicação da Súmula n. 182 do STJ.
+À vista dos fundamentos expostos, reconsidero a decisão ora agravada e passo à análise do especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CAIXA ECONÔMICA FEDERAL. CUMPRIMENTO DE SENTENÇA. CÁLCULOS JUDICIAIS. DEPÓSITO COMPROVADO.
+- A Caixa Econômica Federal efetuou o depósito do valor apurado, juntando aos autos os devidos comprovantes, de modo que não houve o descumprimento da determinação judicial, a despeito do entendimento da parte agravante.
+A parte agravada sustenta, em resumo, que o acórdão estadual é omisso e que a Caixa Econômica Federal não efetuou o depósito no prazo especificado, motivo por que deve incidir a cobrança de multa e honorários advocatícios sobre o valor em atraso.
+Quanto ao tema, a Corte de origem consignou o seguinte:
+A decisão agravada foi proferida nos seguintes termos:
+"Indefiro o pedido do evento 193. A CEF não descumpriu nenhuma determinação deste Juízo. Tinha prazo até o dia 12/02/2019 para efetuar o depósito (evento 178) e o fez no dia06/02/2019, como se pode ver na autenticação mecânica do documentoCOMP2: CEF06520602193390005001378 (evento 181). Ademais, se a correção for pela TR o valor permaneceria (R$ 685,16); se for pelo IPCA-e o valor passa para R$ 686,12 e se for pela poupança, R$ 692,03. Se a cada vez que a CEF for intimada para efetuar um depósito, sendo-lhe concedido um prazo, houver reclamação de eventual falta de correção monetária, o processo nunca terá fim. Intimem-se. Saliento que, em caso de discordância, deverá a parte embargante manejar tempestivamente o recurso oportuno. De outro norte, caso o causídico da parte embargante concorde, deverá indicar seus dados bancários para que seja feita a transferência dos valores depositados, fazendo-se os autos conclusos para sentença."
+De fato, a partir da análise do trâmite da demanda originária, é possível verificar que após a Caixa juntar a petição do Evento 171, nos autos dos embargos à execução, discordando dos cálculos apresentados pela parte embargante, foram remetidos os autos ao Núcleo de Cálculos Judiciais para elaboração de novos cálculos (Evento 173), sendo fixado o prazo de 15 (quinze) dias para manifestação das partes a partir da apresentação dos valores apurados, com termo final fixado em 12/02/2019 (Evento 178).
+Dentro do prazo fixado, mais precisamente no dia 06/02/2019, a Caixa Econômica Federal efetuou o depósito do valor apurado, juntando aos autos os devidos comprovantes no dia 12/02/2019 (Evento 181), de modo que não houve o descumprimento da determinação judicial, a despeito do entendimento da parte agravante.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
