@@ -1,0 +1,37 @@
+DECISÃO
+Na origem, Sul América CompanhiaNacional de Seguros ajuizou ação de ressarcimento de indenização contra F. N. da Silva Funilaria e Pintura (Art Brilho Estética Automotiva), objetivando o reembolso dos valores pagos à sua segurada, decorrente do furto do seu veículo, o qual foi deixado com a requerida para conserto, ocasião em que foi furtado.Contudo, o Juízo de primeiro grau julgou improcedente o pedido inicial (e-STJ, fls. 100-103).
+Interposto recurso de apelação pela parte autora, a Trigésima SextaCâmara de Direito Privadodo Tribunal de Justiça de São Paulo deu provimento ao apelo em aresto assim ementado (e-STJ, fl. 200):
+Apelação. Regressiva. Seguradora que pede reembolso da indenização paga à segurada. Veículo segurado estacionado na via pública, em frente à oficina do réu, enquanto aguardava vaga para serviços de reparo.Furto do carro após ser entregue aos cuidados da oficina mecânica. Dever de indenização que incumbe ao proprietário da oficina, por força de guarda e depósito. Ressarcimento devido. Sentença reformada.
+Recurso provido.
+Opostos embargos de declaração pela parte requerida, foram acolhidos, mas sem efeitos infringentes, apenas para constar expressamente a suspensão da exigibilidade do pagamento dos ônus sucumbenciais(e-STJ, fls. 213-216).
+Nas razões do recurso especial, a recorrente, com fundamento nas alíneasae c do permissivo constitucional, alegou, além de divergência jurisprudencial, violação aos arts. 927 do CC/2002; e 14, § 3º, do CDC.
+Aduziu que não há elementos de convicção capazes de configurar a existência de conduta ilícita de sua parte, uma vez que não movimentou o veículo da segurada ou dele fez uso, o qual estava estacionado em via pública.
+Além disso, sustentou que, nos termos da Súmula 130/STJ, o seu dever de guarda e vigilância decorre apenas se o dano tiver ocorrido no interior do estacionamento.Defendeu ainda, com base na legislação consumerista,a existência de excludente de responsabilidadeenquanto prestadora de serviço por conduta de terceiro.
+Contrarrazões apresentadas às fls. 280-286 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial pela ausência de vulneração aos dispositivos tidos por violados, bem como pela incidência daSúmula7 do STJ.
+Às fls. 315-317 (e-STJ), foi proferida decisão pela Presidência desta Corte, a qual não conheceu do recurso, por falta de impugnação aos fundamentos da decisão de inadmissibilidade.
+Em suas razões de agravo interno, F. N. da Silva Funilaria e Pintura (Art Brilho Estética Automotiva) assevera, em síntese que, impugnou expressamente os pontos ventilados na decisão de inadmissibilidade.
+A impugnação não foi apresentada, conforme certidão defl. 329 (e- STJ).
+Brevemente relatado, decido.
+No caso, cumpre observar que a decisão do TJSP que negou seguimento ao recurso especial foi impugnada pela agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259 do RISTJ, reconsidero a decisão de fls. 315-317 (e- STJ), tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015, e, constatando-se o preenchimento dos requisitos de admissibilidade recursal, passo a novo exame do recurso especial.
+Com efeito, o acórdão recorrido dirimiu a questão com base nos seguintes fundamentos (e-STJ, fls. 201-205 - sem grifo no original):
+Assiste razão à recorrente.
+Em que pese o respeito ao entendimento do douto magistrado de primeiro grau, verifica-se a existência de contrato de depósito estabelecido entre aoficina e a segurada.
+Nesse sentido, conforme lição de Caio Mario da Silva Pereira:
+"Quando o proprietário do veículo o confia a uma oficina mecânica para revisão ou reparos ou quando o recolhe a um posto de gasolina que o recebe para guardar, ocorre o contrato de depósito e consequente responsabilidade do estabelecimento. O proprietário, sem deixar de sê-lo, transfere a guarda da coisa, e, com esta, o dever de vigilância, determinante da responsabilidade do garagista, ou do proprietário da oficina, ou do posto, pelo furto (inclusive) do veículo" (Instituições de Dir. Civil, For pág. 251, nº 199-A).
+Ora, é inquestionável nos autos que o veículo segurado havia sido deixado aos cuidados da oficina do réu para manutenção, quando foi furtado, havendo responsabilidade do apelado, diante da guarda e depósito bem demonstrados.
+Conforme consta dos autos, não havia vaga dentro do estabelecimento do réu quando a segurada buscou seus serviços para reparo do bem, motivo pelo qual o carro foi estacionado na via pública, o que é confirmado em contestação e na oitiva da segurada em audiência.
+Na ocasião, houve a efetiva entrega das chaves do carro à oficina, tanto que o réu afirmou que, antesda ocorrência, sua funcionária havia manobrado o veículo, a fim de deixá-lo mais próximo do estabelecimento, do que se conclui que o furto do mencionado bem ocorreu quando o réu tinha o dever de vigilância.
+Nesse sentido, mostra-se irrelevante que a segurada tivesse ciência de que o carro ficaria estacionado na via pública enquanto não houvesse a liberação de vaga no interior da oficina, pois o réu assumiu a responsabilidade ao aceitar as chaves do veículo.
+(..)
+Nesse aspecto, a responsabilidade do estabelecimento é objetiva, nos termos do artigo 14 do CDC, o que inviabiliza a tese adotada pelo réu, na ausência dequalquer excludente ou efetiva demonstração de caso fortuito ou força maior.
+Destarte, de rigor o acolhimento do pleito recursal para julgar procedente a ação, condenando o réu ao pagamento do valor pleiteado na inicial, com correção monetária desde o desembolso e juros de mora a partir da citação, carreando-lhe ainda o pagamento dos ônus da sucumbência e honorários advocatícios de 10% sobre o valor da condenação.
+Isto posto, pelo meu voto, dou provimento ao recurso.
+Dos trechos acima transcritos, observa-se que a Corte local concluiu pela existência de contrato de depósito entre as partes, haja vista que houve efetiva entrega das chaves do carro à oficina, a qual tinha o dever de vigilância e guarda, de modo que a responsabilidade da agravante é objetiva, não havendo que falar em excludente de de responsabilidade.
+Dessamaneira, o acolhimento da tese recursal acerca do dever de guarda e vigilância da oficinaesbarra no óbice da Súmula 7/STJ, porquanto demandaria nova incursão no conjunto probatório, medida obstada pela incidência da referida súmula.
+Além disso, não prospera a pretensão da aplicação da Súmula 130/STJ. Isso porque, na hipótese dos autos, não se está diante daqueles casos comuns, típicos da relação de consumo entre cliente e sociedade empresária, em que oestabelecimento é dotado de estacionamento com o fim de angariar clientela. Nesse sentido:REsp 545.752/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 17/12/2015, DJe 24/2/2016.
+Diante do exposto, conheço do agravo, mediante juízo de retratação, para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% sobre o valor da condenação, suspensa a exigibilidade em razão da gratuidade de justiça deferida à recorrente.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE INDENIZAÇÃO. 1.CARACTERIZAÇÃODO DEVER DE GUARDA E VIGILÂNCIA. RESPONSABILIDADE OBJETIVA. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. 2.INAPLICABILIDADE, NA HIPÓTESE, DA SÚMULA 130/STJ. PRECEDENTE. 3. AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RETRATAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
