@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+Trata-se de Conflito de Competência suscitado pelo JUÍZO DA 1ª VARA FEDERAL DE LAGES - SJ/SC em face do JUÍZO DE DIREITO DA VARA ÚNICA DA COMARCA DA ANITA GARIBALDI/SC, nos autos de Ação Civil Pública proposta pelo Ministério Público do Estado de Santa Catarina, em favor de pessoa hipossuficiente, contra o Estado de Santa Catarina, objetivando o fornecimento de fármaco para tratamento médico.
+O juízo suscitante aponta, em síntese, que " ..  a parte autora escolheu litigar apenas contra o ESTADO DE SANTA CATARINA sendo que, somente após a provocação do Juízo, emendou a inicial para incluir a União no polo passivo" (fl. 405e).
+Feito breve relato, decido.
+Com efeito, na espécie não se verifica o preenchimento das hipóteses legais para o conhecimento do conflito de competência, ante o exaurimento da prestação jurisdicional por um dos Juízos conflitantes.
+Compulsando os autos, constata-se que o processo se encontra na fase de cumprimento da sentença de fls. 248/252e, já transitada em julgado (certidão de fl. 399e), prolatada pelo Juízo de Direito da Vara Única da Comarca de Anita Garibaldi/SC, mediante a qual foi julgado procedente o pedido formulado na presente ação civil pública, fazendo incidir, na espécie, a Súmula n. 59 desta Corte Superior, verbis:
+Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes.
+Nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL.
+PROLAÇÃO DE DECISÃO DEFINITIVA NO ÂMBITO DESTA CORTE. TRÂNSITO EM JULGADO. SÚMULA 59 DO STJ. JUÍZO DE VALOR ACERCA DA ESSENCIALIDADE OU NÃO DO BEM AO FUNCIONAMENTO DA EMPRESA. ATRIBUIÇÃO DO JUÍZO DA RECUPERAÇÃO JUDICIAL. EXCEÇÃO LEGAL PREVISTA NA PARTE FINAL DO § 3º DO ARTIGO 49 DA LEI N. 11.101/2005.
+1. Tendo em vista que esta Corte de Justiça apreciou o recurso tirado da demanda reinvindicatória - com trânsito em julgado -, não há falar em conflito a ser dirimido por este Tribunal Superior, consoante dispõe a Súmula 59/STJ, in verbis: "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízes conflitantes".
+2. O juízo de valor acerca da essencialidade ou não do bem ao funcionamento da empresa cumpre ser realizada pelo Juízo da recuperação judicial, que tem acesso a todas as informações sobre a real situação dos bens da empresa em recuperação judicial.
+3. Agravo regimental a que se dá provimento, a fim de não conhecer do conflito, determinando o retorno dos autos ao Juízo da Vara Única da Comarca de Brasilândia/MS.
+(AgRg no CC 126.894/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/11/2014, DJe 19/12/2014).
+AGRAVO REGIMENTAL - CONFLITO DE COMPETÊNCIA - NÃO CONHECIMENTO - INCIDÊNCIA DO ENUNCIADO N. 59 DA SÚMULA DO STJ, IN VERBIS: "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes" - APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL - IMPOSSIBILIDADE - ERRO GROSSEIRO - AGRAVO IMPROVIDO.
+I - Nos termos do art. 115, inciso I, do Código de Processo Civil, à configuração de conflito de competência, positivo ou negativo, é necessário que duas ou mais autoridades judiciárias, de esferas diversas, declarem-se competentes ou incompetentes para apreciar e julgar o mesmo feito, ou que incida a prática de atos processuais na mesma causa, por mais de um juiz;
+II - Na espécie, contudo, tais pressupostos não se encontram presentes, na medida em que um dos Juízos conflitantes exauriu sua prestação jurisdicional, com a prolação de sentença transitada em julgado, não se afigurando possível, por conseguinte, este Juízo (que exauriu sua prestação jurisdicional) incorrer em conflito de competência com qualquer outro Juízo;
+III - Na verdade, incumbe à parte veicular, segundo sua compreensão, a insurgência atinente à alegada violação da coisa julgado no bojo da ação em que esta teria se verificado, e não por meio de conflito de competência, que, como visto, não se presta a tal finalidade. Inafastável, assim, a incidência do Enunciado n. 59 da Súmula do STJ, in verbis: "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+IV - Efetivamente, não paira qualquer dúvida, na doutrina ou na jurisprudência, quanto ao recurso cabível contra a decisão que nega seguimento ao recurso especial, mormente porque o artigo 544 do CPC é expresso quanto ao cabimento do agravo, consubstanciando erro grosseiro, para tal hipótese, a veiculação de conflito de competência.
+V - Agravo improvido.
+(AgRg no CC 120.584/GO, Rel. Ministro MASSAMI UYEDA, SEGUNDA SEÇÃO, julgado em 27/06/2012, DJe 01/08/2012).
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO ESTADUAL. SERVIDOR PÚBLICO MUNICIPAL. PARCELAS EM QUE SUJEITO AO REGIME TANTO CELETISTA QUANTO ESTATUTÁRIO. JUÍZO EM QUE PROPOSTA A AÇÃO. SÚMULA 170/STJ. JULGADAS PRESCRITAS AS PARCELAS DE CUNHO TRABALHISTA. TRÂNSITO EM JULGADO. INEXISTÊNCIA DE CONFLITO. SÚMULA 59/STJ.
+I. Se a ação envolve obtenção de verbas decorrentes de regimes distintos, celetista e estatutário, deve-se aplicar o entendimento das Súmulas 97 e 170 desta Corte.
+2. No caso, a lide foi proposta na Justiça Trabalhista, que julgou o pedido no limite da sua jurisdição ao considerar prescritas as parcelas sujeitas ao regime celetista. Houve o trânsito em julgado dessa decisão.
+3. Inexiste conflito a ser dirimido, segundo dispõe a Súmula 59 desta Corte: "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+4. Conflito de competência não conhecido.
+(CC 97.406/RS, Rel. Ministro CELSO LIMONGI - DESEMBARGADOR CONVOCADO DO TJ/SP, TERCEIRA SEÇÃO, julgado em 25/03/2009, DJe 07/04/2009).
+Na mesma linha, destaco as seguintes decisões monocráticas: CC 137.808/RN, Rel. Min. Og Fernandes, DJe de 24.02.2015; CC 135.842/RN, Rel. Min. Assusete Magalhães, DJe de 03.12.2004; CC 135.631/PA, Rel. Min. Mauro Campbell Marques, DJe de 03.10.2014; CC 127.876/RS, Rel. Min. Assusete Magalhães, DJe de 06.12.2013; CC 129.777/RN, Rel. Min. Benedito Gonçalves, DJe 28/11/2013; CC 126.774/CE, Rel. Min. Luis Felipe Salomão, DJe 13.09.2013.
+Posto isso, nos termos do art. 955 do Código de Processo Civil, NÃO CONHEÇO DO CONFLITO.
+Após as providências cabíveis, arquivem-se os autos.
+Publique-se. Intime-se. Comunique-se.
