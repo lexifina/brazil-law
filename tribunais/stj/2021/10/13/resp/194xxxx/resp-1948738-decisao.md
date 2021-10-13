@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Queiroz Galvão Paulista 12 Desenvolvimento Imobiliário Ltda. contra os acórdãos de fls. 423-431, 457-459 e 472-474 (e-STJ), proferidos pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+AÇÃO DE IMISSÃO NA POSSE CUMULADA COM PERDAS E DANOS E INDENIZAÇÃO POR DANOS MORAIS  Compra e venda de unidade autônoma entre construtoras  Sentença que julgou a ação procedente em parte, condenando a requerida ao pagamento de lucros cessantes, à devolução dos valores pagos pela autora em IPTU e condomínio de forma simples, e indeferindo a condenação por danos morais  Insurgência de ambas as partes, uma adesivamente. RECURSO DA REQUERIDA  Alegação de que não houve atraso mas simples cumprimento de requisitos de qualidade  Descabimento  Prazo constante do contrato que presume o cumprimento de todas as obrigações da construtora no prazo por ela própria estipulado  Alegação de que não seria possível a presunção do pagamento dos lucros cessantes  Descabimento  Lucros cessantes em casos que tais que é presumido  Súmula 162 desta Corte. RECURSO ADESIVO DA AUTORA  Alegação de que os valores pagos em IPTU e condomínio deveriam ser em dobro  Descabimento  Ausência de prova de má-fé inequívoca no atraso  Alegação de que o tempo de atraso justificaria a condenação por danos morais  Descabimento  Autora que não é consumidora, de forma que o atraso constatado não supera a tempo limite de simples frustração pelo descumprimento contratual  Ratificação dos fundamentos da sentença  RECURSOS DESPROVIDOS.
+EMBARGOS DECLARATÓRIOS - Omissão - Ausência de menção a artigos do Código Civil - Inocorrência - Parte que apenas tenta prequestionar a matéria - Prequestionamento que tem de estar embasado pela identificação e localização de um dos vícios do art. 1.022 do CPC, o que não ocorreu - Inconformismo com o resultado do julgamento que deve deduzido pelas vias próprias - Acórdão mantido - EMBARGOS REJEITADOS.
+EMBARGOS DECLARATORIOS - Oposição contra Acórdão que rejeitou outros embargos declaratórios - Alegação de que o julgado seria omisso, pois não enfrentou o pedido de reconhecimento de manifesto intuito protelatório na oposição dos embargos - Inocorrência - Acórdão que reconhece o intuito de prequestionar a matéria, que não se confunde com pretensão de protelar o andamento do feito - Súmula 98 do STJ - Acórdão mantido - EMBARGOS REJEITADOS.
+Nas razões do recurso especial (e-STJ, fls. 434-444), aponta a insurgente a existência de violação dos arts. 186, 402 e405 do CCB; e 374, IV, do CPC/2015.
+Sustenta, em síntese: i) inexistência de atraso na entrega do imóvel, ou, subsidiariamente, que o atraso seja considerado de julho/2018 a dezembro/2018; e ii) descabimento dos lucros cessantes, quer porquanto não houve provas dos danos e eles não podem ser presumidos, quer porque não houve pedido nesse sentido.
+Contrarrazões às fls. 480-499 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 510-511), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Inicialmente, o acolhimento das teses recursais, de que não houve atraso na entrega do imóvel, ou de que o atraso se deu tão somente entre julho/2018 a dezembro/2018, esbarra no óbice das Súmulas 5 e 7/STJ, porquanto demandaria nova incursão no conjunto contratual e probatório dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO POR DANOS MATERIAIS.PROMESSA DE COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE PREQUESTIONAMENTO.INCIDÊNCIA DA SÚMULA 211/STJ. CULPA EXCLUSIVA DA PROMITENTE-VENDEDORA. RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS PELOS COMPRADORES. SÚMULA 543/STJ. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. ALTERAÇÃO. IMPOSSIBILIDADE.NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E REVISÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 7 E 5 DO STJ. AGRAVO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+2. De acordo com a jurisprudência desta Corte, "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+3. Estando a decisão de acordo com a jurisprudência do STJ, o recurso encontra óbice na Súmula 83/STJ.
+4. Ademais, a pretensão de modificar o entendimento firmado acerca da responsabilidade das agravantes, no tocante ao atraso da obra e à culpa exclusiva da rescisão contratual, gerando dever de indenizar, demandaria o revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+5. Agravo interno desprovido.
+(AgInt no REsp 1.900.822/AC, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 29/03/2021, DJe 29/04/2021).
+Quanto aos lucros cessantes, o entendimento desta Corte é pela sua presunção.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE FATOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação indenizatória, fundada no atraso na entrega de imóvel.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+4. O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Precedentes.
+Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+5. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1.926.473/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 20/09/2021, DJe 22/09/2021).
+Logo,não procedeo argumento recursal de descabimento da indenização por inexistência de prova dos lucros cessantes.
+Referente ao argumento de que não houve alegação do autor sobre lucros cessantes, verifica-se a falta de prequestionamento.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre atesejurídicaem torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Note-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DA CONSTITUIÇÃO. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. REVISÃO DO CÁLCULO DO PAGAMENTO POR MORTE.
+NECESSIDADE DE CUSTEIO E VIGÊNCIA DO REGULAMENTO NA DATA DO CUMPRIMENTO DOS REQUISITOS. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, alínea a, da CF/88.
+3. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 1.933.737/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 23/09/2021).
+Diante do exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 3% (três por cento) sobre o valor da condenação.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE IMISSÃO NA POSSE CUMULADA COM PERDAS E DANOS E INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DO IMÓVEL E PERÍODO DE ATRASO. REVISÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. LUCROS CESSANTES PRESUMIDOS. NÃO NECESSIDADE DE PROVA. FALTA DE PEDIDO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. RECURSO ESPECIAL CONHECIDO PARCIALMENTE E, NESSA EXTENSÃO, DESPROVIDO.
