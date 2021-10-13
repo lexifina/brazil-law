@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdãocuja ementa é a seguinte:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA COMINADA PELO PROCON. PEDIDO DE ATRIBUIÇÃO DE EFEITO S U S P E N S I V O . V I A I N A D E Q U A D A . M É R I T O ADMINISTRATIVO. SEPARAÇÃO DOS PODERES. LIMITES À REVISÃO JUDICIAL. ILEGALIDADE PROCEDIMENTAL NÃO DEMONSTRADA. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DAS CERTIDÕES DE INSCRIÇÃO EM DÍVIDA ATIVA.SÚMULA 34 TJGO. MANUTENÇÃO DA SANÇÃO PECUNIÁRIA. PROPORCIONALIDADE E RAZOABILIDADE.SENTENÇA MANTIDA.
+1. Não merece conhecimento o pedido de atribuição de efeito suspensivo à apelação, visto que não deduzido adequada e oportunamente, por meio de petição em apartado, com requerimento específico, dirigido ao Relator da apelação, nos termos do artigo 1.012, § 3º, do Código de Processo Civil. 2. O PROCON é órgão integrante do Sistema Nacional de Defesa do Consumidor e possui atribuição para processar, julgar e impor sanção àquele que atentar contra as condutas dispostas na legislação consumerista. 3. O controle judicial dos atos administrativos deve se adstringir à análise de sua conformidade com as normas legais, notadamente a proporcionalidade e razoabilidade da pena pecuniária, não sendo permitido pronunciar-se sobre o mérito administrativo, sob pena de afronta ao princípio constitucional da separação dos poderes.4. As CDA"s gozam de presunção de liquidez e certeza, cuja prova em contrário é ônus do Executado/Embargante (Súmula 34/TJGO). 5. Evidenciada a legalidade do procedimento administrativo, não se evidencia irregularidade na constituição do crédito executado. 6. Observado os princípios da razoabilidade e proporcionalidade na aplicação da multa administrativa mediante ponderação sobre a gravidade da infração, vantagem auferida e condição econômica do fornecedor, impõe-se declarar a sua validade e a confirmação de seu quantum.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Os Embargos de Declaração foram rejeitados (fl. 918, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. , sob o argumento de que .
+Contraminuta apresentada às fls. 1.094-1.105.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.9.2021.
+A decisão do Tribunal de origem que inadmitiu o recurso consignou:
+Em análise dos requisitos de admissibilidade do recurso sub examine, ressai dos autos a falta de um deles, atinente à tempestividade.
+A bem da verdade, o artigo 1.003 do Código de Processo Civil apregoa, de forma clara, que, excetuados os embargos de declaração, o prazo para interpor os recursos e para resposta é de 15 (quinze) dias. E o art. 219 do CPC dispõe que, na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão, tão somente, os dias úteis.
+Com efeito, nos termos do § 6º do artigo 1.003 do Código de Processo Civil, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior. Veja-se que o dia do Servidor Público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da Paixão e, também, o dia de Corpus Christi, não são feriados forenses previstos em lei federal para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Nesse contexto, verifica-se que o recurso apresenta-se extemporâneo, umavez que a recorrente não comprovou a existência de feriado local (quarta-feira e quinta-feira que precedem a sexta-feira da Paixão), no ato de sua interposição, a fim de interromper a contagem do prazo (termo ad quem), conforme determina o artigo 1.003, § 6º, do Código de Processo Civil.
+O acórdão dos aclaratórios foi publicado em 15/03/2021 (segunda-feira) - evento n. 55, de modo que o termo final para a interposição do recurso especial foi o dia 06/04/2021 (terça-feira). Todavia o protocolo do recurso ocorreu apenas no dia 08/04/2021 (quinta-feira) - evento n. 57.
+Com efeito, como não houve a comprovação de suspensão de expediente forense nos referidos dias, por documento idôneo, no momento da interposição do Recurso Especial, não há como afastar a intempestividade do recurso. Salienta-seque asimples menção no corpo recursalao feriado local não supre talrequisito.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.INTEMPESTIVIDADE. SUSPENSÃO DE EXPEDIENTE FORENSE. DOCUMENTO IDÔNEO.AUSÊNCIA. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/15.
+1. Ação de obrigação de fazer cumulada com indenização por danos materiais e compensação por danos morais, em fase de cumprimento de sentença.
+2. Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou a suspensão do expediente forense do Tribunal de origem no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação de suspensão de expediente forense, por documento idôneo quando de sua interposição, não há como afastar a intempestividade do recurso.
+4. Nos termos da jurisprudência do STJ, é dever da parte providenciar certidão da secretaria ou outro documento equivalente que possibilite a verificação da tempestividade do recurso, no ato da interposição do recurso . Precedentes.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1878732/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021)
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
