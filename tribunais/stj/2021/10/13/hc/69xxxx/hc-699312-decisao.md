@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CEIDER MALAFAIA ALVES contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, proferido nos autos do HC n. 0067968-13.2021.8.19.0000.
+Consta dos autos que o Paciente foi denunciado, juntamente com outro corréu, pela suposta prática do crime previsto no art. 157, § 3.º, inciso II, do Código Penal, pois, em 19/03/2021, teriam subtraído da Vítima um celular, cartão bancário com senha, certa quantia em dinheiro e documentos pessoais, mediante violência consistente em disparos de arma de fogo, socos e tapas, o que ocasionou, em tese, a morte da Ofendida.
+Narra o Impetrante que a prisão temporária foi decretada em 20/03/2021, sendo renovada por mais trinta dias em 21/04/2021. Não há notícia nos autos sobre a expedição de mandado de prisão preventiva ou sobre o cumprimento do mandado de prisão.
+Foi impetrado habeas corpus no Tribunal de origem, cuja ordem foi denegada, reconhecendo atendidos os pressupostos e motivo autorizadores do art. 312 do Código de Processo Penal (fls. 6-8).
+O Impetrante alega que o Paciente (fl. 4):
+"é um rapaz trabalhador que exerce a atividade de Auxiliar de construção Civil e além disso possui uma mãe com problemas de saúde que depende dele para seus cuidados, possui residência fixa com a sua mãe, assim, preenche os requisitos para responder a presente ação em liberdade, comprometendo-se a comparecer em juízo sempre que for solicitado para o esclarecimento da verdade.
+Assim, diante do exposto, requer a revogação da prisão preventiva e o consequente expedição de alvará de soltura do paciente."
+Requer, inclusive liminarmente, seja revogada a prisão preventiva, com ou sem imposição de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos. Com efeito, oImpetrante não juntou acópiada decisão que decretou a prisão preventiva do Paciente, peçanecessáriaà devida compreensão da controvérsia.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ". (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019.)
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição inicial deve ser liminarmente indeferida, porque a Defesanão se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019;RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel.Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019;AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019;AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto que não há óbice ao manejo denovowritpara a análise da controvérsia,desde que seja juntadaadocumentaçãofaltante.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
