@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Rondônia.
+Embargos de Declaração rejeitados (fl. 138)
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, dos arts. 833, IV, § 2º, e 927, V, do CPC/2015. Defende:
+Depreende-se do acórdão combatido que o TJ/RO violou o art. 833 do CPC ao aplicá-lo literalmenteno caso concreto, sem observar entendimentoda Corte Superior,sob a justificativa de que"o entendimento que prevalece, nesses casos, segue a dicção do §2º do artigo 833 do Código de Processo Civil, admitindo a penhora de verba vencimental quando exceder a cinquenta vezes o valor do salário, o quea toda evidência, não é o caso dos autos". O acórdão impugnado violou ainda o art. 927, inciso V do CPC, ao afirmar que os precedentes REsp 1.582475/MG e EREsp n. 1.518.169/DF, emanados pela Corte Especial, não possuiriam caráter vinculante, motivo pelo qual não seriam de aplicação obrigatória pelos tribunais. Do mesmo modo, violou oart. 489, § 1º, inciso IV do CPC/15, por não analisar todos os argumentos trazidos pelo Estado de Rondônia em sua defesa, principalmente em relação à matéria fática (capacidade econômica do devedor) e entendimentos do Superior Tribunal de Justiça acerca do tema. Por fim, o decisumviolou o art. 1.022, II, e parágrafo único, II, do CPC/15, ao, reiteradamente, não analisar a capacidade econômica do executado, mesmo após a oposição de Embargos de Declaração, o que, inclusive, oportuniza o prequestionamento da matéria nos termos do art. 1.025 doCPC/15.
+Transcorreu in albis o prazo para apresentação de contrarrazões (certidão de fl. 237, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19.9.2021.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido: "Contudo, em observância ao princípio da dignidade do ser humano, entendo que a penhorano percentual de 10% (dez por cento) sobre a remuneração recebida pelo agravado mostra-se razoável,não inviabilizando a sobrevivência digna do conjunto familiar".
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Por fim, destaco que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..)
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido. (AgRg no REsp 1472530/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/10/2014, DJe 31/10/2014).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço parcialmente do Recurso Especial, apenas com relação à violação do art. 1.022 do CPC e, nessa parte, não o provejo.
+Publique-se.
+Intimem-se.
