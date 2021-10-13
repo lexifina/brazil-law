@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de manifestação da autoridade policial (OFÍCIO Nº 64/2021/DELEMAPH/DRCOR/SR/PF/DF), por meio da qual, “considerando o arquivamento o INQ 4828-STF e existência de material apreendido (mídias computacionais)”, indaga se “poderá intimar os proprietários para proceder a respectiva restituição”.
+    É o breve relato. Decido.
+    Efetivamente, em decisão de 1º/7/2021, acolhi a manifestação da Procuradoria-Geral da República e determinei o arquivamento deste Inq. 4.828/DF, instaurado para “a apuração de fatos ocorridos no dia 19 de abril de 2020 e seus antecedentes”, em virtude da ocorrência de “aglomerações de indivíduos diante de quartéis do Exército brasileiro das quais foram noticiadas pretensões de animosidade entre as Forças Armadas e as instituições nacionais”, nos termos do art. 3º, I, da Lei 8.038/1990, c/c os arts. 21, XV, e 231, § 4º, do RISTF, ressalvada a hipótese do art. 18 do Código de Processo Penal.
+    Na mesma decisão, determinei a instauração de inquérito específico, autuado e distribuído por prevenção ao Inq. 4.781/DF, de minha relatoria, nos termos do art. 77, I e III, do Código de Processo Penal, para o prosseguimento das investigações dos eventos nºs 01/02/03/04/05 identificados pela Polícia Federal, em virtude da presença de fortes indícios e significativas provas apontando a existência de uma verdadeira organização criminosa, de forte atuação digital e com núcleos de produção, publicação, financiamento e politico absolutamente semelhantes àqueles identificados no Inq. 4.781/DF, com a nítida finalidade de atentar contra a Democracia e o Estado de Direito; o que, em tese, caracteriza os crimes previstos no art. 18, art. 22, I e IV e art. 23, I, II e IV, todos da Lei n. 7.170/1983; art. 2º, da Lei n. 12.850/2013; art. 1º, I e II, art. 2º, I, ambos da Lei n. 8.137/1990; art. 22, parágrafo único, da Lei n. 7.492/1986 e art. 1º, da Lei n. 9.613/1998 (Inq. 4.874/DF).
+    Conforme se depreende do art. 118 do Código de Processo Penal (Antes de transitar em julgado a sentença final, as coisas apreendidas não poderão ser restituídas enquanto interessarem ao processo), os bens apreendidos poderão ser restituídos quando não mais interessarem à investigação, como na hipótese de arquivamento de inquérito policial.
+    No entanto, conforme ressaltado, na decisão que determinou a instauração deste inquérito, foi aberta nova investigação (Inq. 4.874/DF), para apuração de fatos relacionados à investigação inicial, de modo que a devolução de bens não pode ser geral e irrestrita.
+    Diante do exposto, AUTORIZO a Polícia Federal a proceder à devolução, no que diz respeito a estes autos, tão somente dos bens já periciados ou dos bens não passíveis de perícia, dada a eventual desnecessidade, bem como daqueles que não pertencem às pessoas que continuam sendo investigadas no Inq. 4.874/DF.
+    Comunique-se à autoridade policial.
+    Ciência à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 13 de outubro de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
