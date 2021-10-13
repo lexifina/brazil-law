@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 663, e-STJ):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. FAZENDA PÚBLICA. IMPUGNAÇÃO REJEITADA. SÚMULA 519/STJ. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+Os Embargos de Declaração foram rejeitados (fl. 766, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1.022 do CPCe, no mérito, dos arts. 85, 86 e 492 do CPC. Defende:
+In casu, muito embora ambas as partes tenham anexado aos autos novos cálculos, a fim de adequar aos parâmetros fixados na sentença quanto aos juros moratórios, verifica-se que a União Federal sucumbiu em todos os seus pleitos.
+Portanto, resta latente e indiscutível que a União Federal sucumbiu em parte máxima dos pedidos, fazendo incidir as normas esculpidas nos arts. 85 e 86, parágrafo único, do Código de Processo Civil, sendo devido aos exequentes honorários sucumbenciais.
+Contrarrazões às fls. 807-813, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 30 de setembro de 2021.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Além disso, observo que o Tribunal local não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Acrescente-se que não se pode conhecer da irresignação contra a ofensa a dispositivos legais que não foram analisados pela instância de origem, ainda que se trate de matéria de ordem pública, como a prescrição.
+Apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita a exigência se não houvea emissão de juízo de valor sobre a matéria.Ausente, destarte, o requisito do prequestionamento.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 662-663):
+A matéria aqui devolvida para análise deste Tribunal diz respeito à possibilidade de cumulação de honorários advocatícios pelo ajuizamento da execução e pela impugnação ao cumprimento de sentença em desfavor da Fazenda Nacional, em sede de execução individual de sentença em ação coletiva.
+O entendimento adotado na decisão recorrida está em conformidade com a Súmula 519 do STJ ( Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios ), bem como com a tese fixada no REsp 1.134.186/RS, submetido ao rito do art. 543-C, do CPC/1973, no sentido de que: "1.2. Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença. 1.3. Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC".
+Registre-se que não há qualquer notícia de que tenha havido a revisão das teses fixadas no referido repetitivo, valendo salientar, inclusive, que em recentes julgados o eg. STJ vem aplicando tal entendimento. Nesse sentido: REsp 1.812.245/SP, DJe 01/07/2019; REsp 1.665.343/PE, DJe 21/02/2019; AgInt no AREsp 1.337.504/RS, DJe 11/12/2018.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça. Afasta-se, assim, a ideia de simples valoração da prova, ante a incidência, no caso, da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Rel. Min. Castro Meira, DJe de 2.6.2010.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
