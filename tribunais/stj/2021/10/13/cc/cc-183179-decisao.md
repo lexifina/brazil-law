@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência suscitado pelo Tribunal de Justiça do Estado de São Paulo em relação ao Tribunal Regional Federal da 3ª Região, nos domínios da ação proposta por João Mignaco contra o Instituto Nacional do Seguro Social - INSS, por meio da qual pugna pela revisão da aposentadoria de ex-ferroviário da Fepasa, garantindo-se a complementação prevista no art. 2º da Lei n. 8.186/1991.
+Segundo o Juízo suscitado (e-STJ, fls. 234-235):
+No caso dos autos o autor afirma que foi ex-ferroviário da FEPASA e exerceu a atividade de ferroviário até data anterior a aposentadoria, informa que foi admitido anteriormente a 31 de outubro de 1969, no entanto, não comprova com documentos a data de ingresso na FEPASA.
+Da escassa documentação acostada se verifica que o autor já recebe a complementado de aposentadoria paga pelo Governo do Estado de São Paulo e recebe Aposentadoria Especial pela Previdência Social, com data de inicio em 11 de outubro de 1977 (fl. 11).
+Assim, se observa que a aposentação se deu antes da incorporação da FEPASA pela RFFSA e a complementação da aposentadoria continua sendo paga até hoje pela Fazenda do Estado de São Paulo (fl. 12), uma vez que a RFFSA não havia assumido o contrato de compra e venda das ações da FEPASA à época.
+Acresça-se, quanto ao reconhecimento da ilegitimidade passiva da União Federal, cumpre invocar os termos da Súmula 150 do E. STJ: "Compete a Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas Autarquias ou Empresas Públicas".
+Sendo assim, deve a União ser excluída da lide, não havendo qualquer interesse jurídico ou patrimonial para sua manutenção na condição de sucessora da RFFSA, a qual, não sendo responsável pelo pagamento da complementado das aposentadorias e pensões dos ex-ferroviários aposentados pela FEPASA, igualmente não tem legitimidade para atuar no feito.
+Nesse sentido:
+"CONFLITO DE COMPETÊNCIA_ SOCIEDADE DE ECONOMIA MISTA (ELETROPAULO). INTERESSE DA UNIÃO AFASTADO PELA JUSTIÇA FEDERAL APLICAÇÃO DAS SUMULAS 150 E 254 DO STJ. - "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da Unido, suas autarquias ou empresas públicas" (Súmula 150 do STJ). - A Justiça Federal entendeu não figurar na lide os entes elencados no art. 109 da CF-88, afastando assim a sua competência. - "A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminado no Juízo Estadual." (Súmula 254/STJ). - Conflito de competência conhecido para julgar competente o Juízo de Direito da 13ª Vara da Fazenda Pública do Estado de São Paulo." (STJ, 1ª Seção, CC nº 200500194547, Rel. Francisco Peçonha Martins," 08.02.06, v. u., DJ 22.05.06, p. 138)."
+Destarte, resta patente a incompetência absoluta da Justiça Federal para processar e julgar este feito, consoante o disposto no inciso I, do art. 109, da Constituição Federal.
+Para o Juízo suscitante, entretanto (e-STJ, fl. 260):
+Como a aposentadoria é previdenciária, de competência da Justiça Federal, e, por outro lado, a complementação da aposentadoria é paga pelo Estado de São Paulo, cuja competência é da Justiça Estadual, torna-se inviável a cumulação de tais pedidos em uma única demanda, por força do disposto no art. 327, II, do CPC.
+Porém, como a ação foi proposta primitivamente perante a Justiça Federal, e, diante das circunstâncias aqui expostas, não há como este Tribunal de Justiça: a) anular sentença proferida por juiz federal; b) apreciar o recurso do INSS, em razão da matéria, porque a aposentadoria do segurado é previdenciária; c) determinar a emenda da inicial, para a inclusão da Fazenda Estadual, pois é providência que deve ser adotada/verificada em ação própria.
+Assim, como a presente ação possui caráter exclusivamente previdenciário, cuja competência é, inquestionavelmente, da Justiça Federal, resta suscitar o necessário conflito de competência.
+Parecer do Ministério Público Federal pelo reconhecimento da competência da Justiça estadual (e-STJ, fls. 273-274).
+É o relatório.
+O tema do presente conflito não é novo e já foi decidido pela Terceira Seção deste Superior Tribunal, nestes termos:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. SUCESSÃO LEGAL DA RFFSA. INGRESSO DA UNIÃO NO FEITO. DESLOCAMENTO DA COMPETÊNCIA DO FEITO PARA A JUSTIÇA FEDERAL. COMPETÊNCIA RATIONE PERSONAE. ART. 109, I, DA CF/88. SÚMULA 365/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça reconhece a possibilidade de conversão dos embargos de declaração em agravo regimental, de acordo com o princípio da fungibilidade recursal.
+Precedentes.
+2. A Lei nº 11.483/07 estabeleceu que a União é sucessora da extinta RFFSA, que havia incorporada a FEPASA, ressalvando apenas as causas envolvendo pessoal da ativa.
+3. Nesse passo, entendo que não procede a alegação da União no sentido de que, no tocante à complementação das aposentadorias e pensões concedidas aos antigos funcionários da FEPASA, a empresa teria sido sucedida pelo Estado de São Paulo, porquanto o mencionado contrato firmado entre o Estado e a União não pode se sobrepor ao disposto na lei federal.
+4. Assim, considerando a legitimidade da União para atuar no feito como sucessora legal da extinta RFFSA, impõe-se reconhecer a competência da Justiça Federal, nos termos do art. 109, I, da CF/88, bem como do enunciado nº 365 da Súmula desta Corte.
+5. Agravo regimental a que se nega provimento.
+(EDcl no CC n. 105.228/SP, relatora Ministra Maria Thereza De Assis Moura, Terceira Seção, DJe de 6/5/2011).
+Ademais, apesar de o J uízo suscitado ter excluído a União do polo passivo do feito, remanesce a presença do Instituto Nacional do Seguro Social, atraindo a competência da Justiça Federal, nos termos do art. 109, I, da Constituição Federal.
+Ante o exposto, conheço do presente conflito e declaro competente o Tribunal Regional Federal da 3ª Região, o suscitado.
+Publique-se. Intimem-se.
