@@ -1,0 +1,27 @@
+Decisão
+    Trata-se de Embargos de Declaração (Vol. 63) opostos pela Associação dos Aposentados da Fundação CESP (AAFC) contra decisão que conheceu do Agravo da AAFC e deu provimento ao Recurso Extraordinário da referida entidade associativa.
+    No julgado monocrático, ora embargado, confirmou-se a tutela cautelar deferida na Pet 7340-MC e decidiu-se condenar os recorridos a (I) manter o pagamento dos beneficiários admitidos até o dia 13 de maio de 1974, da mesma forma que vinham percebendo até a data do julgamento das Apelações Cíveis interpostas nos processos conexos; e (II) quitar as diferenças devidas a esses beneficiários no período de janeiro/2004 a agosto/2005; sendo que os juros moratórios incidem desde a citação, além da correção monetária, no cálculo das diferenças devidas aos beneficiários no período de janeiro/2004 a agosto/2005. Por fim, inverteram-se os ônus da sucumbência.
+    Nas razões dos declaratórios, a AAFC sustenta que há omissão e contradição no julgado em relação:
+    (a) “ao pagamento das diferenças devidas também no período de agosto a novembro/2017 (4 meses), em que os associados da embargante tiverem seus benefícios igualmente reduzidos, da mesma forma em que ocorreu entre janeiro/2004 a agosto/2005, com a incidência de juros moratórios e correção monetária” (Vol. 63, fl. 2); e
+    (b) “à incidência da verba honorária sucumbencial sobre o valor total da condenação, considerando que (…) a “sentença foi proferida já na vigência do atual Código de Processo Civil,” (Vol. 63, fl. 2) (...) a qual havia condenado a associação embargante ao pagamento da verba honorária no percentual de 20% sobre o valor atribuído à causa para cada um dos embargados, o que foi mantido pelo v. acórdão recorrido; (...) impõem-se “por conseguinte, que a fixação dos honorários sucumbenciais incida sobre o VALOR DA CONDENAÇÃO (art. 85, § 2º, CPC) (Vol. 63, fl. 4).
+    Sem contrarrazões.
+    É o relatório. Decido.
+    No que tange ao item “a” dos embargos de declaração (pagamento das diferenças devidas também no período de agosto a novembro/2017 (4 meses), não há omissão na decisão embargada. A informação de que a determinação contida na PET 7.340-MC, para o restabelecimento do pagamento integral dos benefícios, somente foi cumprida em dezembro de 2017, sem a quitação das diferenças retroativas, é fato novo, trazido só agora, nos presentes declaratórios.
+    De qualquer forma, se o juízo de procedência do pedido inicial transitar em julgado, os valores devidos pelo comprovado descumprimento à decisão na Pet 7.340 poderão ser cobrados na fase de cumprimento de sentença.
+    Quanto aos honorários advocatícios, efetivamente, a sentença julgou extinto o processo, sem exame do mérito, nos termos do art. 485, V, do CPC/2015. Assim, condenou a AAFC ao pagamento da verba honorária em 20% sobre o valor atribuído à causa para cada Ré.
+    Esse julgado foi proferido em 30/5/2016, sendo publicado em 7/6/2016; portanto, após a vigência do novo CPC.
+    O Tribunal de Justiça de São Paulo deu parcial provimento à apelação da AAFC, unicamente para afastar a condenação de indenização às rés pelos prejuízos que sofreram por conta da tutela concedida pela Justiça do Trabalho. Quanto ao restante, a sentença foi mantida.
+    Com referi, o Recurso Extraordinário da AAFC foi provido, para condenar os recorridos a quitar as diferenças devidas a serem calculadas na fase de cumprimento de sentença.
+    Assim, sobre esse valor deverão incidir os 20% a título de verba honorária, a ser paga à Associação vencedora da causa, por cada uma das Rés (CESP/CTEEP e FUNDAÇÃO CESP).
+    Com relação à sucumbência da FAZENDA DO ESTADO DE SÃO PAULO, fixam-se os honorários advocatícios em 10% sobre o valor a ser pago aos beneficiários da AAFC, também a serem calculados na fase de cumprimento de sentença.
+     Logo, impõe-se suprir a omissão para fazer constar no dispositivo da decisão embargada o seguinte:
+    “Diante do exposto, com base no art. 21, §§ 1º e § 2º, do Regimento Interno do Supremo Tribunal Federal, CONHEÇO DO AGRAVO E DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO, para confirmar a tutela cautelar deferida na Pet 7340-MC, e condenar os recorridos a (I) manter o pagamento dos beneficiários admitidos até o dia 13 de maio de 1974, da mesma forma que vinham percebendo até a data do julgamento das Apelações Cíveis interpostas nos processos conexos, bem como (II) quitar as diferenças devidas a esses beneficiários no período de janeiro/2004 a agosto/2005, corrigidas monetariamente, acrescidas de juros moratórios desde a citação.
+    Invertam-se os ônus de sucumbência fixados em 20% na origem, os quais, todavia, devem incidir sobre o valor da condenação (art. 85, § 2º, CPC/2015), a ser calculado na fase de cumprimento de sentença.
+    Para a Fazenda Pública do Estado de São Paulo, fixam-se os honorários advocatícios em 10% sobre o valor a ser pago aos beneficiários da AAFC, também a serem calculadas na fase de cumprimento de sentença (art. 85, § 3º, CPC/2015).
+    No mais, ausentes omissão, contradição, ou erro material no julgado, não há razão para qualquer reparo. O ofício judicante realizou-se de forma completa e satisfatória, não se mostrando necessários quaisquer reparos, além do esclarecimento aqui apresentado.
+    Diante do exposto, ACOLHO, EM PARTE, OS EMBARGOS DE DECLARAÇÃO, na forma da fundamentação supra.
+     Publique-se.
+    Brasília, 13 de outubro de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
