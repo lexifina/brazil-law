@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, a, da CF, interposto contra acórdão assim ementado:
+Apelação. Responsabilidade civil. Estado. Erro médico. Ocorrência. Indenização. Dano moral. Morte.Genitora. Proporcionalidade. Razoabilidade. Modificação. Impossibilidade.
+1. A responsabilidade do estado por erro médico é objetiva, independe de culpa, há apenas a necessidade de comprovar o nexo de causalidade entre a atividade pública e o dano.
+3. O valor da indenização pro dano moral deve ser fixado observando os limites dos princípios da proporcionalidade e razoabilidade, não merecendo ser reduzido quando em harmonia com patamares comumente fixados em casos análogos no âmbito do STJ.
+Os Embargos de Declaração foram rejeitados.
+O recorrente aponta violação dos arts. 884,944 e 945 do Código Civil. Sustenta (fl. 303, e-STJ):
+É notório que o valor estipulado pelo Acórdão ora recorrido está em completa dissonância com o padrão de valores estabelecidos por esta Corte, visto que, em casos semelhantes, em que há morte decorrente de erro médico, os montantes indenizatórios são muito inferiores, conforme acima demonstrado.
+Nesse diapasão, ao apreciar as peculiaridades fáticas do caso concreto o julgador deve ponderar a gravidade do fato em si e suas consequências; a intensidade do dolo ou o grau de culpa do agente; a eventual participação culposa do ofendido; a condição econômica do ofensor e as condições pessoais da vítima, de modo a dar uma veste mais objetiva possível ao arbitramento do quantum indenizatório.
+O Ministério Público Federal, mediante parecer de fls. 352-359, e-STJ, opinou pelo não conhecimento do Recurso Especial.
+É o relatório.
+Decido.
+Os autos foram recebidos nesse Gabinete em 31.8.2021.
+O Tribunal de origem, ao reconhecer a responsabilidade estatal sobre os danos morais sofridos pelos recorridos em decorrência do óbito de sua mãe, manteve o quantum indenizatório com base nos seguintes fundamentos (fls. 262-263, e-STJ):
+Extrai-se, então, que a responsabilidade Estadual decorre da teoria do risco administrativo, o qual afirma que há apenas a necessidade de comprovação do nexo de casualidade entre a atividade pública e o dano, excetuando-se a culpa exclusiva da vítima, o caso fortuito, força maior e culpa de terceiro Logo, o Estado responde objetivamente pelos danos causados, em virtude do não cumprimento de seus deveres administrativos que permeiam o caso, essas que também contribuíram para a ocorrência do episódio e por isso, são de real relevância no exame de todo para que se concretize não só legal, mas especialmente justo.
+Era dever do Ente Público na pessoa do seu representante, médico, agir com perícia e prudência na realização do procedimento cirúrgico.
+O conjunto probatório carreado aos autos, demonstra o nexo entre as atividades médicas realizadas na entidade pública e a morte da genitora dos apelados.
+(..)
+In casu, o juízo a quo arbitrou os danos morais no valor de R$ 315.010,00 (trezentos e quinze mil e dez reais).
+A indenização dos danos deve ser fixado em valor razoável, de sorte que não implique em enriquecimento indevido, e sirva tão somente como compensação, uma espécie de lenitivo à dor sofrida pela perda do ente querido, isso em relação aos ofendidos.
+Com relação ao ofensor, que sirva como uma forma de punição pelo ato lesivo praticado e prevenção a fim de que não mais incorra em tal conduta. Para tanto, devem ser levadas em conta todas as circunstâncias em derredor do fato, tais como a gravidade da ofensa e o grau da culpabilidade dos envolvidos, bem como as condições sociais e financeiras das partes.
+A meu ver, assim, a fixação da indenização por danos morais e estéticos no valor total de R$ 315.010,00 (trezentos e quinze mil e dez reais) para todos os requerentes (4) está em completa Harmonia com o princípio da razoabilidade e proporcionalidade, conforme entendimento do Superior Tribunal de Justiça.
+Nesse contexto, para se adotar a tese recursalde que houve desproporcionalidade do valor indenizatório em face do caso concreto, é necessário o revolvimento do conjunto de fatos e provas dos autos, o que encontra óbice na Súmula 7/STJ.A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. VALOR DA INDENIZAÇÃO. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso dos autos, conforme se extrai do acórdão recorrido, cuida-se de ação de indenização por danos morais e materiais decorrentes de erro médico, na rede pública de saúde, que culminou em amputação de membro superior da parte autora. Em primeira instância, os pedidos foram julgados parcialmente procedentes e, em sede de reexame necessário, o Tribunal a quo alterou os critério de correção monetária e juros de mora, mantendo a sentença nos demais termos.
+2. Não há falar em omissão pelo Tribunal de origem e violação do artigo 1.022 do CPC, pois é possível perceber da leitura do acórdão recorrido que o Tribunal local, analisando as provas dos autos e de maneira fundamentada nas circunstâncias do caso - e não genericamente como aduz o agravante - concluiu que o valor fixado a título de danos morais e estéticos foi adequado para as circunstâncias da espécie. Ora, a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao artigo 1.022 do CPC/2015, pois não há que se confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+3. Ademais, a reversão do entendimento exposto no acórdão, com o reconhecimento, como pretende o recorrente, de que o valor da indenização deveria ser reduzido, exige o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ. Frise-se que o Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie.
+4. Agravo interno não provido. (AgInt no Aresp 1.811.585/DF; Rel. Min. Mauro Campbell Marques, 2ª Turma; DJe 26.8.2021)
+Ante o exposto, nãoconheçodo Recurso Especial.
+Intimem-se.
+Publique-se.
