@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 381, e-STJ):
+PREVIDENCIÁRIO. REVISÃO. RMI D E APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADES EXERCIDAS SOB CONDIÇÕES ESPECIAIS. DENTISTA. . PRESUNÇÃO LEGAL. DECRETOS 53.831/64 E 83.080/79 PPP. DIB. REQUERIMENTO ADMINISTRATIVO. CORREÇÃO MONETÁRIA. INPC. APELAÇÃO PROVIDA, EM PARTE.
+Os Embargos de Declaração foram rejeitados (fl. 420, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, no mérito, dos arts. 22, 57 e 58 da Lei 8.213/1991. Defende que "é vedada a possibilidade de concessão de aposentadoria especial ao antigo trabalhador autônomo, hoje enquadrado como contribuinte individual" (fl. 431, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 30 de setembro de 2021.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (fls. 380-381, e-STJ):
+Assim, trabalhadores expostos a agentes nocivos poderiam fazer a conversão dos anos trabalhados, a qualquer tempo.
+Em relação ao interregno temporal de 01/12/1993 até 28/04/1995, laborado como dentista na Sociedade de Proteção à Maternidade e à Infância de Ipu/CE, ficou comprovado o caráter especial das atividades exercidas de dentista, visto que está em consonância com o item 2.1.3 do Decreto nº 53.831/64 e itens 1.3.4 e 2.1.5, do Decreto nº 83.080/79, bastando o enquadramento da categoria profissional a que pertence o trabalhador no rol constante dos anexos que os integravam, prevalecendo a presunção legal decorrente do exercício da atividade profissional.
+No tocante ao período trabalhado após a vigência da Lei nº 9.032/95, faz-se necessária a comprovação da efetiva exposição a agentes nocivos, para fins de enquadramento do tempo de serviço como especial.
+Entre 29/04/1995 a 30/04/2011, como bem consignado no bojo do ato monocrático, a parte autora se submeteu à exposição a agentes agressivos biológicos -micro-organismos, como vírus, fungos e bactérias, além de atender diariamente pacientes portadores de tuberculose, hanseníases, HIV, dentre outras doenças -, consoante se infere do Perfil Profissiográfico Previdenciário (Id. 4058103.1679253), além da ausência da informação da eficácia do EPI utilizado em relação aos agentes nocivos biológicos. O aludido período deve ser considerado especial.
+Importa registrar que a jurisprudência é pacifica no sentido de que o segurado contribuinte individual pode obter reconhecimento de atividade especial, desde que comprove a exposição a agentes nocivos à saúde (08064212320184058000, AC -Apelação Civel-, Desembargador Federal Rogério Fialho Moreira, 3ª Turma, Julg.: 12/04/2019, Pub.; 08042682020144058400, Desembargador Federal Paulo Roberto de Oliveira Lima, 2ª Turma, Julg.: 15/08/2016).
+Ademais, houve o recolhimento de contribuições previdenciárias pelo Autor conforme relação extraída do CNIS trazida aos autos (Id. 4058103.16792355).
+No que tange à questão sobre princípios do equilíbrio atuarial e financeiro da prévia fonte de custeio, a Lei 8.212/91 impõe esse ônus ao empregador, e não ao empregado, sem nenhuma obrigação de comprovar a contribuição complementar. O mesmo se diga em relação ao preenchimento da GFIP, não podendo o funcionário ser prejudicado por obrigação que não lhe diz respeito (Processo: 08072304720174058000, AC - Apelação Civel -, Desembargador Federal Carlos Rebêlo Júnior, 3ª Turma, Julg.: 29/03/2019, Pub.:).
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Assim, afasta-se de ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
