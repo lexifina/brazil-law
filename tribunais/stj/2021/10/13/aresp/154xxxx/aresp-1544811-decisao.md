@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Banco do Brasil S.A., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fls. 317-318):
+APELAÇÕES CÍVEIS. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO ORDINÁRIA. CÉDULA RURAL PIGNORATÍCIA E HIPOTECÁRIA.
+SENTENÇA ULTRA PETITA. JUROS REMUNERATÓRIOS.
+A parte autora é quem fixa os limites da lide, deduzindo sua pretensão por meio da petição inicial, a qual o magistrado deve ficar adstrito. Portanto, o Juízo de origem, ao revisar os juros remuneratórios, extrapolou os limites da lide, o que caracteriza a sentença como ultra petita. Apelo da parte autora provido, no ponto, para declarar a nulidade parcial da sentença no que tange à revisão dos juros remuneratórios.
+PRESCRIÇÃO. REVISÃO. CAPITALIZAÇÃO DE JUROS. CONFIGURADA.O prazo prescricional para as ações revisionais de contrato bancário, nas quais pede o reconhecimento da existência de cláusulas contratuais abusivas é vintenário, pois fundadas em direito pessoal e, no caso dos autos, o pacto foi assinado em 13.11.1987, portanto, sob a égide CCB/1916. Assim, cabe declarar a prescrição da pretensão à revisão da cláusula contratual atinente à capitalização de juros, tendo em vista a data de ajuizamento da demanda, ou seja, 01.03.2010. No ponto, apelo da parte autora prejudicado e apelo da parte ré provido.
+PRESCRIÇÃO. RESTITUIÇÃO. PARCIAL. A prescrição, nos casos de repetição do indébito de diferença de correção monetária aplicada em cédula de crédito rural, era vintenária, nos termos do art. 177, do CCB/1916. Com o advento do CCB/2003, em 11.01.2003, restou estabelecido, no seu art. 2028, que o prazo previsto no código anterior somente é aplicável se, em 11.01.2003, já houvesse transcorrido mais da metade do prazo prescricional, caso contrário, de acordo com o atual entendimento do STJ, é aplicável o prazo previsto no art. 206, § 32, IV do CCB/2002. No caso em exame, se constata a ocorrência da prescrição no que tange a parcela vencida em 31.07.1993. No ponto, apelo da parte ré parcialmente provido. CÓDIGO DE DEFESA DO CONSUMIDOR. A Lei nº 8.078/90 (Código de Defesa do Consumidor - CDC) é aplicável às instituições financeiras, portanto, aplica-se aos contratos bancários. Súmula nº 297 do STJ. No entanto, a sua incidência depende da comprovação de abusividade. Apelo da parte ré desprovido no ponto.
+INVERSÃO DO ÔNUS DA PROVA. Na revisão de contratos submetidos à disciplina jurídica do CDC, admite-se a inversão do ônus da prova, em favor do tomador do crédito, quando constatada a hipossuficiência deste ou a verossimilhança das suas alegações. Recurso da parte ré desprovido no ponto.
+REVISÃO DE CONTRATO EXTINTO. POSSIBILIDADE. Amparada em preceitos constitucionais e nas regras de direito comum, a revisão judicial dos contratos bancários é juridicamente possível, inclusive, de contratos extintos, consoante entendimento consubstanciado pelo STJ, mediante a edição da Súmula nº 286. Apelo da parte ré desprovido no ponto.
+REPETIÇÃO DO INDÉBITO. Em respeito ao princípio que veda o enriquecimento sem causa, cabe a repetição do indébito, de forma simples. Apelo da parte ré desprovido no ponto.
+JUROS REMUNERATÓRIOS. Prejudicado o apelo da parte ré, no ponto, diante da declaração de nulidade parcial da sentença no que tange à revisão dos juros remuneratórios.
+HONORÁRIOS DE SUCUMBÊNCIA. REDUÇÃO. Prejudicado o apelo da parte ré, no ponto, diante do redimensionamento da sucumbência.
+APELAÇÕES PARCIALMENTE PROVIDAS.
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, o recorrente alegou violação aos arts. 404, 405 e 884 do CC/2002; 1.063 do CC/1916; 4º, VI e IX, 17 e 18 da Lei 4.595/1961, além de afirmar a existência de dissídio jurisprudencial.
+Contrarrazões apresentadas (e-STJ, fls. 387-392).
+O Tribunal de origem negou seguimento ao recurso especial em razão do decidido no REsp n. 1.361.730/RS (Tema 919), e não admitiu o seu processamentoem virtude da incidência daSúmula83/STJ (e-STJ, fls. 416-424).
+Foi interposto agravo em recurso especial às fls. 450-464 (e-STJ), e contraminuta apresentada às fls. 467-471 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, à luz da dialeticidade recursal, a parte agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgInt no AREsp 1720732/PR, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 28/06/2021, DJe 01/07/2021).
+O entendimento desta Corte é no sentido de que a parte recorrente deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge especificamente contra todos eles.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. AUSÊNCIA.
+1. Ação de rescisão contratual c/c restituição de valores pagos e indenização por danos morais, em fase de cumprimento de sentença.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1862564/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015.INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art.
+1.029 do do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+4. Agravo interno não provido.
+(AgInt no AREsp 1490629/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/08/2021, DJe 25/08/2021)
+No caso em exame, nos termos da decisão de admissibilidade (e-STJ, fls. 416-424), o Tribunal originário negou seguimento ao recurso especial em razão do decidido no REsp n. 1.361.730/RS (Tema 919), e não admitiu o seu processamento em virtude da incidência da Súmula 83/STJ.
+Todavia, da leitura da petição de agravo em recurso especial (e-STJ, fls. 450-464), constata-se que a parte agravante não procedeu à impugnação específica de todos os argumentos mencionados pela Corte estadual para inadmitir o apelo especial, especificamente o da incidência da Súmula 83/STJ.
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Ante o exposto, não conheço do agravo em recurso especial de Banco do Brasil S.A.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO DE BANCO DO BRASIL S.A. NÃO CONHECIDO.
