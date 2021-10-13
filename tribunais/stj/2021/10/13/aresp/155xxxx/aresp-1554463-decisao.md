@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por Francisca de Fátima Muniz Borgescontra a decisão proferida pelo Tribunal de Justiça do Rio de Janeiro, que inadmitiu o recurso especial por elaapresentado, com fundamento no art. 105, III,a e c, da Constituição Federal, contra o acórdão prolatado na Apelação Criminal n. 0007534-15.2010.8.19.0042(fls. 605/622).
+Nas razões do recurso especial (fls. 803/807), a defesa requer sejam nulificados todos os atos após a juntada da procuração dos causídicos anteriores (fl. 803). Reconhece que, em que pese a interposição anterior do respectivo recurso, esta defesa técnica visualizou fragilidade na defesa técnica efetiva da recorrente, bem como visualizou uma ilegalidade que traz nulidade absoluta e deve ser imediatamente verificada pelo egrégio Tribunal de Justiça (fl. 804). Salienta que está interpondo Recurso Especial com fundamentação em idêntica questão de direito baseando-se no processo em tela, bem como demais processos também em fase de recursos excepcionais (fl. 805) razão pela qual entende necessária  ..  a instauração do incidente de demandas repetitivas (idem). Nomérito,aponta a significativa violação ao art. 59 do Código Penal, uma vez que na fixação da pena estabeleceu-se o quantum muito acima do mínimo legal sem fundamentação idônea e que fosse extrínseca à conduta criminosa (fl. 814).
+Orecurso especial foi inadmitido pela Corte de origem por tratar-sede uma "segunda" e indevida manifestação recursal da parte, a qual se apresenta não apenas intempestiva, como também manifestamente incabível, por desrespeito ao princípio da unirrecorribilidade (fls. 1.078/1.082 - grifo nosso).
+Contra tal decisão foi interposto o agravo em análise (fls. 1.093/1.396), com contraminuta ofertada às fls. 1.400/1.407.
+À fl. 1.428, foi proferido despacho determinando o retorno dos autos a fim de que o Tribunal de origem se manifestasse acerca da admissibilidade do primeiro recurso especial interposto nos autos(fls. 715/734).
+Em resposta, foramjuntadas a decisão de inadmissão ao recurso especial manejado inicialmente pela defesa (fls. 1.472/1.482), bem como a certidão de publicação de referida decisão (fl. 1.501) e dasintimações respectivas (fl.1.502), sem notícias nos autos de posterior manifestação da defesa sobre tal decisão.
+O Ministério Público Federal emitiu parecer opinando pela manutenção da decisão agravada (fls. 1.509/1.512). Destacou, ainda, que o Tribunal de origem não admitiu o primeiro recurso especial interposto pela defesa e a parte, apesar de ser devidamente intimada, não apresentou o devido agravo (fl. 1.511 - grifo nosso).
+É o relatório.
+A decisão agravada deve ser mantida.
+E assim afirmo porque, à luz do princípio da unirrecorribilidade, contra qualquer provimento judicial recorrívelé tão somente cabível um recurso(AgRg no REsp n. 772.723/PR, Ministro Benedito Gonçalves, Primeira Turma, DJe 12/4/2010).
+Com efeito, ainterposição de dois recursos pela mesma parte contra a mesma decisão inviabiliza o exame daquele que tenha sido protocolizado após o primeiro, em razão da ocorrência de preclusão consumativa e ante a aplicação do princípio da unirrecorribilidade das decisões(AgRg no AREsp n. 1.810.855/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 22/6/2021).
+Nomesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. INTERPOSIÇÃO DE RECURSOS ESPECIAIS DISTINTOS. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. PRECEDENTES DO STJ.
+1. Foram interpostos recursos especiais distintos, contra os acórdãos que julgaram a apelação e os embargos de declaração, caracterizando, dessa forma, a preclusão consumativa.
+2. O segundo recurso especial interposto não foi reiteração do primeiro, razão pela qual não pode ser conhecido, sob pena de ofensa ao princípio da unirrecorribilidade das decisões. Nesse sentido: REsp 966.076/DF, Rel. Min. Arnaldo Esteves Lima, DJe 14/12/2009;
+AgRg no REsp 1.120.929/SC, Rel. Min. Humberto Martins, DJe 25/09/2009; REsp 1.080.690/RS, Rel. Min. Felix Fischer, DJe 08/09/2009, REVFOR vol. 405, p. 545.
+3. Recurso especial não conhecido.
+(REsp n. 1.242.108/RS, Ministro Mauro Campbell Marques, Segunda Turma, DJe 15/4/2011)
+E também:REsp n. 966.076/DF, Ministro Arnaldo Esteves Lima, Quinta Turma, DJe 14/12/2009 eAgRg no REsp n. 1.120.929/SC, Ministro Humberto Martins, Segunda Turma, DJe 25/9/2009, entre outros.
+Na hipótese, conforme relatei inicialmente, o recurso especial fora manejado após a interposição de um primeiro recurso especial. Noponto, citando o bem colocado parecer ministerial, anoto que a constituição de novo advogado não enseja a renovação de atos processuais em andamento ou concluídos, pois o novo patrono recebe o feito no estado em que se encontra (fl. 1.511).
+Outrossim, não encontra amparo nos autos a afirmação defensiva no sentido de haver nulidade claríssima que colocou e colocaria em risco todo o andamento do feito(fl. 1.096), consistente em procuração que não fora assinada por Francisca de Fátima Muniz Borges(idem). Isso porque, à fl. 595, consta procuração devidamente assinada pela ré, dando poderes ao causídico signatário do primeiro recurso especial.
+Ante o exposto, com fundamento no art. 253, II,a, do RISTJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CRIMES DE ESTELIONATO E USO DE DOCUMENTO FALSO. INTERPOSIÇÃO DE DOIS RECURSOS ESPECIAIS EM MOMENTOS DISTINTOS. UNIRRECORRIBILIDADE.
+Agravo conhecido para não conhecer do recurso especial.
