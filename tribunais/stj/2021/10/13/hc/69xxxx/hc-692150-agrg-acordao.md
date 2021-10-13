@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porCleison PereiraPortoe Marcelo da Silva Santos contra a decisão monocrática que indeferiu liminarmente o pedido de habeas corpus, conforme esta ementa (fl. 628):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO. CONDENAÇÃO. ALEGAÇÃO DE NULIDADES. INSURGÊNCIAS NÃO ANALISADAS PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A JUSTIFICAR A SUPERAÇÃO DO ÓBICE.
+Writ indeferido liminarmente.
+Pretendem os agravantes, em síntese, a reforma da decisão objurgada, para que seja reconsiderada a r. decisão monocrática, concedendo a ordem, ainda que de ofício, a fim de reconhecer as nulidades apontadas(fl. 641).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. ROUBO. CONDENAÇÃO. ALEGAÇÃO DE NULIDADES. INSURGÊNCIAS NÃO ANALISADAS PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. ACÓRDÃO DO TRIBUNAL ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+Agravo regimental improvido.
+VOTO
+O agravo regimental não merece prosperar, porquanto os agravantes não conseguiraminfirmar os fundamentos adotados na decisão de fls. 628/630, deste teor, a qual confirmo:
+ ..  É o relatório.
+A despeito da oposição dos embargos de declaração, os quais foram apresentados pela defesa perante o Tribunal de Justiça, não houve manifestação da Corte estadual sobre as insurgências aqui apresentadas, incorrendo, aqui e agora, sua análise em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVAS DE HOMICÍDIO QUALIFICADO. REVISÃO CRIMINAL. MERO REEXAME DE FATOS E PROVAS.IMPOSSIBILIDADE. ALEGAÇÃO DE NULIDADE. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. ANÁLISE PELO STJ. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. CONCURSO MATERIAL E FORMAL DE CRIMES. DESCARACTERIZAÇÃO.NECESSIDADE DE INCURSÃO NOS FATOS E PROVAS. IMPOSSIBILIDADE.
+1. O Superior Tribunal de Justiça já pacificou o entendimento pelo não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP (HC n. 206.847/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/02/2016, DJe 25/02/2016).
+2. O Tribunal de origem, por ocasião do julgamento do recurso de apelação da defesa, afastou a tese de ausência de indícios de autoria, afiançando que foram produzidos elementos idôneos e aptos a demonstrar o envolvimento do paciente nas três tentativas de homicídio.
+3. Proceder a amplo reexame e revaloração dos fatos e provas coligidos nos autos, a fim de desconstituir o que foi decidido pelas instâncias ordinárias acerca da existência de indícios de autoria, como pretende o impetrante, não apenas é inviável na estreita via do habeas corpus, que não admite revolvimento fático-probatório, como, sobretudo, significaria clara usurpação da competência do Tribunal do Júri, Juízo natural da causa, nos termos do art. 5º, XXXVIII, da Constituição da República. (HC n. 537.546/RS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+4. No que diz respeito à alegação de nulidade do julgamento da revisão criminal, em razão de impedimento de Desembargador, malgrado se trate de nulidade absoluta, a defesa não instou o Tribunal de origem a se pronunciar, por ocasião da oposição dos embargos de declaração. Não tendo sido a matéria suscitada, tampouco apreciada pelo Colegiado a quo, exsurge evidente que sua análise pelo Superior Tribunal de Justiça implica indevida supressão de instância.
+5. As pretensas nulidades do processo, sob os mais variados argumentos (suspeição de Desembargador, impedimento de testemunha, existência de prova nova, exiguidade da sessão de julgamento etc.), além da indevida supressão de instância, não são evidentes a ponto de ensejar a concessão de habeas corpus de ofício. (AgRg no HC 373.973/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/08/2018, DJe 21/08/2018).
+6. A revisão do entendimento adotado pelo Tribunal de origem, que afastou a continuidade delitiva por entender caracterizado o concurso formal e material de crimes, exige a incursão nos fatos e provas, providência incompatível com a via do writ.
+7. Agravo regimental improvido.
+(AgRg no HC n. 643.978/RS, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região, Sexta Turma, DJe 20/8/2021).
+De mais a mais, ainda que superado o referido óbice, as insurgências apresentadas não são evidentes a ponto de ensejar a concessão da ordem de ofício.
+Bom, é uníssono o entendimento desta Casa a respeito do tema. Além dos precedentes citados na decisão agravada, confiram-se estes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVAS DE HOMICÍDIO QUALIFICADO. REVISÃO CRIMINAL. MERO REEXAME DE FATOS E PROVAS.IMPOSSIBILIDADE. ALEGAÇÃO DE NULIDADE. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. ANÁLISE PELO STJ. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. CONCURSO MATERIAL E FORMAL DE CRIMES. DESCARACTERIZAÇÃO.NECESSIDADE DE INCURSÃO NOS FATOS E PROVAS. IMPOSSIBILIDADE.
+ ..
+5. As pretensas nulidades do processo, sob os mais variados argumentos (suspeição de Desembargador, impedimento de testemunha, existência de prova nova, exiguidade da sessão de julgamento etc.), além da indevida supressão de instância, não são evidentes a ponto de ensejar a concessão de habeas corpus de ofício. (AgRg no HC n. 373.973/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/08/2018, DJe 21/08/2018).
+6. A revisão do entendimento adotado pelo Tribunal de origem, que afastou a continuidade delitiva por entender caracterizado o concurso formal e material de crimes, exige a incursão nos fatos e provas, providência incompatível com a via do writ.
+7. Agravo regimental improvido.
+(AgRg no HC n. 643.978/RS, Sexta Turma, Ministro Olindo Menezes (Desembargador convocado do TRF1ª Região), DJe 20/08/2021)
+HABEAS CORPUS. OPERAÇÃO NECATOR. CRIMES DE LAVAGEM DE CAPITAIS COMETIDOS EM CONTINUIDADE DELITIVA E CONCURSO MATERIAL POR PARTICULARES E AGENTES PÚBLICOS DO MUNICÍPIO DE SÃO PAULO (MÁFIA DO ISS). ALEGAÇÃO DE NULIDADE. ILEGALIDADE NA ORDEM DE APRESENTAÇÃO DAS ALEGAÇÕES FINAIS ENTRE DELATADO E DELATOR. DUPLA SUPRESSÃO DE INSTÂNCIA. FALTA DE INDICAÇÃO DO CONCRETO PREJUÍZO. PRETENSÃO DE APLICAÇÃO DO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO HC N. 166.373. PENDÊNCIA DE FIXAÇÃO DAS DIRETRIZES E ALCANCE DO JULGADO PELO STF. PARECER ACOLHIDO.
+1. O Plenário do Supremo Tribunal Federal, por maioria, decidiu, no HC n. 166.373, que as alegações finais dos réus colaboradores, quando possuem carga acusatória, devem preceder os memoriais dos corréus delatados, sob pena de nulidade, ocasião em que assentou que formularia a tese jurídica sobre a matéria, para definir os critérios de aplicação da nova interpretação, sobretudo eventual modulação de efeitos, o que ainda não ocorreu.
+2. É inadmissível o pronunciamento do Superior Tribunal de Justiça a respeito dessa questão neste writ, porquanto não levantada oportunamente perante as instâncias ordinárias, não debatida nem decidida no acórdão impugnado, a configurar nítida supressão de instância.
+3. A Lei Processual Penal em vigor adota, nas nulidades processuais, o princípio da pas de nullité sans grief, segundo o qual somente há de se declarar a nulidade se, alegada em tempo oportuno, houver demonstração ou comprovação de efetivo prejuízo para a parte.
+4. É, portanto, inviável a aplicação do entendimento adotado pelo Plenário da Suprema Corte no referido julgamento à hipótese em análise, porque não houve o questionamento à época por parte da defesa, tampouco houve a indicação concreta de prejuízo e também porque o novel entendimento não é prontamente aplicável de forma irrestrita.
+5. Habeas corpus denegado. Prejudicado o agravo regimental.
+(HC 541.162/SP, Sexta Turma, de minha Relatoria, DJe 15/06/2021)
+Ante o exposto, nego provimento ao agravo regimental.
