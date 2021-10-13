@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. ADICIONAL DE 25%. PRINCÍPIO DA ISONOMIA. DIGNIDADE DA PESSOA HUMANA E DAS PESSOAS PORTADORAS DE DEFICIÊNCIA.
+1. Dispõe a legislação que o acréscimo de 25% ao benefício de aposentadoria por invalidez somente é devido quando o segurado necessitar da assistência permanente de outra pessoa (Art. 45, da Lei nº 8.213/91).
+2. Dar à norma infraconstitucional (Art. 45, da Lei 8.213/91) uma interpretação restritiva, e contemplar somente a aquele que adquiriu a invalidez antes de adquirido o direito à aposentadoria por idade ou tempo de contribuição, acarreta a vulneração ao direito de proteção da dignidade da pessoa humana e das pessoas portadoras de deficiência. Privá-lo desse adicional não se afigura justo nem razoável com aqueles que mais contribuíram para o sistema p r e v i d e n c i á r i o .
+3. É vedado criar tratamentos diferenciados a pessoas que se encontram em situações idênticas, e, por isso torna-se inaceitável a utilização do discrímen "aposentadoria por invalidez". Interpretação conjunta dos Arts. 5º, caput, da Constituição Federal, 45, da Lei nº 8.213/91, e 28.2 da Convenção Internacional sobre os Direitos da Pessoa com deficiência, equivalente à emenda constitucional (Art. 5º, § 3º, da CF). Precedentes da TNU e do TRF da 4 ª R e g i ã o .
+4. A c. 1ª Seção do e. Superior Tribunal de Justiça quando do julgamento do recurso repetitivo REsp nº 1720805, fixando a seguinte tese: " Comprovada a necessidade de assistência permanente de terceiro, é devido o acréscimo de 25%, previsto no artigo 45 da Lei 8.213/1991, a todas as modalidades de aposentadoria.
+5. A dependência permanente de terceiros restou constatada pela perícia médica judicial.
+6. Preenchidos os requisitos faz jus a autora ao acréscimo legal de 25% sobre a aposentadoria por idade.
+7. A correção monetária, que incide sobre as prestações em atraso desde as respectivas competências, e os juros de mora devem ser aplicados de acordo com o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, observando-se a aplicação do IPCA-E conforme decisão do e. STF, em regime de julgamento de recursos repetitivos no RE 870947, e o decidido também por aquela Corte quando do julgamento da questão de ordem nas ADIs 4357 e 4425.
+8. Os juros de mora incidirão até a data da expedição do precatório/RPV, conforme decidido em 19.04.2017 pelo Pleno do e. Supremo Tribunal Federal quando do julgamento do RE 579431, com repercussão geral reconhecida. A partir de então deve ser observada a Súmula Vinculante nº 17.
+9. Os honorários advocatícios devem observar as disposições contidas no inciso II, do § 4º, do Art. 85, do CPC, e a Súmula 111, do e. STJ.
+10. A autarquia previdenciária está isenta das custas e emolumentos, nos termos do Art. 4º, I, da Lei 9.289/96, do Art. 24-A, da Lei 9.028/95, com a redação dada pelo Art. 3º, da MP 2.180-35/01, e do Art. 8º, § 1º, da Lei 8.620/92. As demais despesas processuais são devidas.
+11. Remessa oficial, havida como submetida, e apelação providas em parte.
+Em suas razões recursais, o INSS alega violação dos arts. 1.022, I e II, parágrafo único, I e II, do CPC/2015;e 4º e 20 da LINDB.
+Sustenta, em suma, que o adicional previsto no referido dispositivo legal aplica-se exclusivamente à hipótese de aposentadoria por invalidez.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21 de setembro de 2021.
+Inicialmente, no tocante à alegada ofensa ao art. 1.022 do CPC/2015, verifica-se que a recorrente não interpôs Embargos de Declaração contra o acórdão recorrido, o que torna deficiente o arrazoado apresentado no presente Recurso Especial, tendo em vista que a alegação de violação do referido dispositivo é admitida somente quando interpostos Aclaratórios. Incide, nesse ponto, a Súmula 284/STF.
+No mais, cinge-se a controvérsia à possibilidade de extensão do "auxílio-acompanhante", previsto no art. 45 da Lei 8.213/1991para os segurados aposentados por invalidez, às demais espécies de aposentadoria do Regime Geral da Previdência Social - RGPS.
+Com efeito, o entendimento quanto à matéria controvertida estava pacificado no STJ, em razão do julgamento do Tema 982/STJ, no sentido de que, "comprovadas a invalidez e a necessidade de assistência permanente de terceiro, é devido o acréscimo de 25% (vinte e cinco por cento), previsto no art. 45 da Lei n. 8.213/91, a todos os aposentados pelo RGPS, independentemente da modalidade de aposentadoria".
+Ocorre, porém, que o Plenário do Supremo Tribunal Federal, nos autos do Recurso Extraordinário 1.221.446/RJ, reconheceu repercussão geral do tema relativo à "constitucionalidade da extensão do adicional de 25% (vinte e cinco por cento), previsto no artigo 45 da Lei 8.213/1991, aos segurados do Regime Geral de Previdência Social que comprovarem a invalidez e a necessidade de assistência permanente de outra pessoa, independentemente da espécie de aposentadoria" (Tema 1.095/STF).
+Naquela oportunidade, o STF decidiu que, "no âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar ou ampliar benefícios e vantagens previdenciárias, não havendo, por ora, previsão de extensão do auxílio da grande invalidez a todas às espécies de aposentadoria".
+Eis a ementa do referido julgado:
+Direito Previdenciário e Constitucional. Recurso extraordinário. Sistemática da repercussão geral. Preliminar de conhecimento. Questão constitucional. Debate originário. Superior Tribunal de Justiça. Ausência de Preclusão. Precedentes. Mérito. Auxílio-acompanhante. Adicional de 25%. (art. 45 da Lei nº 8.213/1991). Necessidade de assistência permanente de terceiro. Aposentadoria por invalidez. Extensão do benefício a outras modalidades de aposentadoria. Impossibilidade. Princípio da reserva legal. (art. 45 da Lei nº 8.213/91). Fonte de custeio. Distributividade. Modulação de efeitos. Valores percebidos de boa-fé. Recurso extraordinário provido.
+1. Na dicção do art. 45 Lei nº 8.213/91, o benefício intitulado "auxílio-acompanhante" tem como destinatários os aposentados por invalidez, não sendo possível sua extensão para os demais segurados, beneficiários de outras modalidades de aposentadoria, em observância dos princípios da reserva legal, da distributividade e da regra de contrapartida.
+2. Modulação dos efeitos da tese de repercussão geral, de forma a se preservarem os direitos dos segurados cujo reconhecimento judicial tenha se dado por decisão transitada em julgado até a data do presente julgamento.
+3. São irrepetíveis os valores alimentares recebidos de boa-fé por força de decisão judicial ou administrativa até a proclamação do resultado do presente julgamento.
+4. Fixada a seguinte tese de repercussão geral: "No âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar ou ampliar benefícios e vantagens previdenciárias, não sendo possível, por ora, a extensão do auxílio da grande invalidez (art. 45 da Lei n. 8.213/91) a todas às espécies de aposentadoria".
+5. Recurso extraordinário a que se dá provimento.
+(RE 1.221.446/RJ, Rel. Min. Dias Toffili, Tribunal Pleno, DJe 4/8/2021)
+Desse modo, acolhendo o atual entendimento do Supremo Tribunal Federal, deve ser reformado o acórdão proferido no Tribunal de origem.
+Ante o exposto, conheço do Agravo para dar provimento do Recurso Especial.
+Publique-se.
+Intimem-se.
