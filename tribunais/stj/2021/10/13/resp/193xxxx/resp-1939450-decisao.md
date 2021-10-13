@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+DA REMUNERAÇÃO DO DEVEDOR. IMPENHORABILIDADE. ART. 833, INC. IV E § 2º, DO CÓDIGO DE PROCESSO CIVIL. MITIGAÇÃO. CRÉDITO DE NATUREZA ALIMENTAR. HONORÁRIOS DE ADVOGADO. POSSIBILIDADE. DECISÃO REFORMADA.
+1. A hipótese consiste em avaliar da possibilidade de penhora de valores recebidos pelo devedor a título de remuneração para a satisfação de crédito relativo a honorários de advogado.
+2. O artigo 833, inc. IV, do CPC, estabelece a impenhorabilidade dos vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios, ou mesmo das quantias recebidas por liberalidade de terceiro, destinadas ao sustento do devedor e sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal. 2.1. O montante penhorável é o que ultrapasse o montante de 50 (cinquenta) salários-mínimos mensais, nos termos do art. 833, § 2º, do CPC. 2.2. O referido artigo estabelece uma ressalva que possibilita a penhora desses valores apenas para a satisfação de crédito alimentar.
+4. No presente caso trata-se de crédito de honorários de advogado, que têm natureza alimentar, razão pela qual é possível a penhora de parte da remuneração do devedor com a finalidade de satisfação do aludido crédito.
+5. No caso, a penhora do valor correspondente a 10% (dez por cento) do valor da remuneração mensal revela-se mais adequada à compatibilização dos interesses conflitantes das partes, pois gera baixo impacto na situação econômica do devedor.
+6. Recurso conhecido e parcialmente provido para determinar ao Juízo singular que promova a penhora do valor correspondente a 10% (dez por cento) da remuneração bruta mensal recebida pelo devedor, com a finalidade de satisfação apenas do crédito referente aos honorários de advogado.
+Alega-se violação do artigo 833, IV, do Código de Processo Civil, sob o argumento de que as verbas recebidas a título de salário são impenhoráveis.
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte firmou entendimento no sentido de que, com a retirada do vocábulo "absolutamente" no artigo 833 do Código de Processo Civil, que constava no artigo 649 do revogado Código de Processo Civil, é possível, em situações excepcionais, a penhora de verbas salariais.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.EXECUÇÃO. PENHORA DE PERCENTUAL DO SALÁRIO DE DEVEDOR.IMPOSSIBILIDADE. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA. REEXAME.SÚMULA 7 DESTA CORTE. AGRAVO NÃO PROVIDO.
+1. O novo Código de Processo Civil, em seu art. 833, deu à matéria da impenhorabilidade tratamento um tanto diferente em relação ao Código anterior, no art. 649. O que antes era tido como "absolutamente impenhorável", no novo regramento passa a ser "impenhorável", permitindo, assim, essa nova disciplina maior espaço para o aplicador da norma promover mitigações em relação aos casos que examina, respeitada sempre a essência da norma protetiva.
+Precedente: EREsp 1.582.475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, REPDJe 19/03/2019, DJe de 16/10/2018.
+2. No caso, a Corte de origem reformou a decisão que determinava a penhora em folha de pagamento do valor correspondente a 10% do valor líquido do salário do executado, consignando que "mesmo dez por cento do líquido recebido importará em redução significativa que implicará na impossibilidade de o agravante fazer frente às suas despesas básicas e de sua família". Na hipótese, a pretensão de revisar tal entendimento demandaria revolvimento fático-probatório.
+3. Agravo interno não provido.
+(AgInt no AREsp 1784691/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 31/5/2021, DJe 1/7/2021)
+No caso dos autos, cuida-se de execução de verba de natureza alimentar (honorário advocatícios), entendendo a Corte local que "a penhora do percentual de 10% (dez por cento) do valor da remuneração mensal revela-se mais adequada à compatibilização dos interesses conflitantes das partes, pois gera baixo impacto na situação econômica do devedor, ou seja, tem menos potencial de comprometer a sua subsistência de maneira digna" (e-TJ, fl. 311), de modo que reexaminar a questão esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao recurso especial.
+Intimem-se.
