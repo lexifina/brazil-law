@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TJMS, assim ementado (fls. 251):
+EMENTA - RECURSO DE APELAÇÃO - DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - CONSTATAÇÃO DE IRREGULARIDADE NO EQUIPAMENTO MEDIDOR - OBSERVÂNCIA DAS NORMAS CONSTANTES NA RESOLUÇÃO 414 DA ANEEL - COBRANÇA DEVIDA.
+1.O artigo 129 da Resolução 414/2010 da ANEEL estabelece procedimento a ser adotado para apurar consumo de energia elétrica não faturado. A concessionária deve emitir termo de ocorrência, solicitar perícia técnica a seu critério ou a requerimento do consumidor e, nos casos necessários, retirar o equipamento, acondicionando-o em invólucro específico, lacrado no ato da retirada com intuito de encaminha-lo ao laboratório.
+2. Constatada fraude no equipamento medidor, o consumidor é responsável pelo pagamento de energia elétrica consumida e não paga.
+Recurso provido.
+Embargos de declaração rejeitados.
+A recorrente sustenta, preliminarmente, violação do artigo 1.022, II, do CPC/2015, diante negativa de prestação jurisdicional.
+Quanto ao mérito aponta,além de divergência jurisprudencial, ofensa aos artigos 6º e 14, do CDC, pois, "a) não é possível presumir que a autoria da suposta fraude do medidor seja do consumidor, em razão somente de considerá-lo depositário de tal aparelho e b) não é possível responsabilizar o consumidor de energia elétrica por débito de consumo, sem a comprovação inequívoca de sua autoria na fraude do medidor.
+Com contrarrazões.
+Decisão de reversão em recurso especial às fls. 393.
+É o relatório. Passo a decidir.
+Inicialmente, tem-se que a insurgência apresentada não diz respeito a eventual vício de integração do acórdão impugnado, mas à interpretação que lhe foi desfavorável, motivação essa que não se enquadra nas hipóteses de cabimento dos aclaratórios. Inexiste, pois, a alegada afronta ao artigo 1.022 do Código de Processo Civil.
+No que pertine a violação dos demais artigos tidos por violados, verifica-se que o acórdão embasou toda sua decisão na Resolução nº 414/2010 e Portaria do INMETRO n. 285/2008,para estabelecer os critérios para proceder a recuperação de consumo não paga, pois comprovada a fraude no equipamento medidor. É o que se depreende do acórdão de fls. 251/254:
+O artigo 129 da Resolução 414/2010 da ANEEL estabelece procedimento a ser adotado para apurar consumo de energia elétrica não faturado. A concessionária deve emitir termo de ocorrência, solicitar perícia técnica a seu critério ou a requerimento do consumidor e retirar o equipamento quando necessário, o qual será acondicionado em invólucro específico, lacrado no ato da retirada e encaminhado ao laboratório.
+Observadas essas regras, admite-se proceder a recuperação da energia elétrica consumida e não paga, desde que comprovada irregularidade no equipamento medidor.
+Os documentos juntados demonstram a adoção do procedimento administrativo previsto na referida resolução para apurar as irregularidades no equipamento medidor. A empresa ré lavrou termo de ocorrência (f. 86/87), substituiu o equipamento, comunicou a data da perícia (f. 88) e o encaminhou para inspeção (f. 89).
+De acordo com laudo da Agência Estadual de Metrologia, órgão delegado do INMETRO, o medidor instalado instalado na residência da autora não está em conformidade com os parâmetros da Portaria do INMETRO n. 285/2008.
+O histórico de consumo corrobora a existência da fraude (f. 90/92).
+Relativamente aos 33 (trinta e três) meses anteriores à troca do equipamento medidor, os registros de consumo médio foram de 50 kwh, o mínimo previsto na legislação. Já os consumos posteriores à substituição do equipamento variaram entre 68 e 248 kwh, ou seja, todos maiores do que o anteriormente registrado, sendo a conta do mês de março de 2.013 quase 5 (cinco) vezes superior a média anterior.
+A constatação da fraude por funcionários da empresa ré e a perícia realizada são presumidamente verdadeiras, por serem documentos emitidos por concessionária de serviço público e órgão do Governo do Estado.
+Essas provas e o histórico de consumo da autora/apelada são suficientes para demonstrar a existência das irregularidades no equipamento medidor.
+O artigo 167, inciso I, da Resolução da ANEEL n. 414/2010 atribui responsabilidade ao consumidor por dano causado em razão da má utilização e conservação das instalações, por isso a autora/apelante tem ônus de arcar com a energia consumida e não paga.
+Dai se vê que não é viável a análise da insurgência, posto que as questões foram respondidas por base na Resolução n.414/2010 e Portaria do INMETRO n. 285/2008, que não é apta a ensejar recurso especial, por não se enquadrar no conceito de lei federal.
+Ademais, ainda que fosse para analisar os artigos de lei federal suscitados pela recorrente, indispensável seria a reapreciação do conjunto probatório existente no processo, o que é vedado em recurso especial, em virtude do preceituado na Súmula n. 7/STJ: "A pretensão de simples reexame de provas não enseja recurso especial".
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO.RECURSO ESPECIAL. FORNECIMENTO DE ENERGIA ELÉTRICA. VIOLAÇÃO DO ART. 1.022 DO CPC. INOCORRÊNCIA. FRAUDE NO MEDIDOR. ACÓRDÃO BASEADO EM RESOLUÇÃO E PORTARIA. INCABÍVEL A ANÁLISE EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO NÃO PROVIDO.
