@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, compedido liminar, impetrado em favor de MARCIO ANTONIO DE SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono Agravo de Execução Penal n. 0001429-02.2021.8.26.0637.
+Consta dos autos que o Juízo da Execução Criminal indeferiu o pedido de comutação de pena formulado pelo Sentenciado com fundamento no Decreto Presidencial n. 9.246/2017.
+O Tribunal estadual, por sua vez, negou provimento ao agravo em execução do Apenado (fls. 10-13).
+No presente writ, alega a Defesa, em suma, que o art. 7, parágrafo único, do Decreto n. 9.246/2017 "deve ser interpretado no sentido de que a ausência de deferimento da comutação com relação aos Decretos anteriores não é óbice à aplicação de referido normativo, não o contrário, como se fez" (fl. 5). Assim, argumenta que o dispositivo é meramente explicativo-concessivo e não restritivo de direito e, portanto, é possível a concessão de comutações sucessivas.
+Requer seja concedida a comutação de penas pelo Decreto Presidencial n. 9.246/2017 ao Apenado.
+É o relatório.
+Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL.HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS.REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME.OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART.112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta".(AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido."(AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+O Juízo da Vara das Execuções Criminais da Comarca de Tupã/SPindeferiu o pleito de comutação fundado no Decreto n. 9.246/2017 à base da seguinte motivação (fl. 14):
+"Da análise dos autos, verifica-se que o sentenciado não preenche os requisitos para a sua concessão.
+De acordo com artigo 7º, parágrafo único, do Decreto n. 9.246/2017, o benefício de comutação de penas somente será concedido a pessoas condenadas que não tenham garantido o direito em razão de comutações fundamentadas em decretos anteriores.
+Conforme consta às fls. 17 dos autos digitais n. 1005309-19.2020.8.26.0637, o sentenciado foi agraciado com comutação nos termos dos Decretos n. 5620/2005 e n. 5993/2006, razão pela qual fica vedada a concessão da benesse.
+A interpretação do dispositivo é literal. Desta forma, se o sentenciado já foi beneficiado, não terá direito a novo benefício com base no Decreto do ano de 2017.
+O indulto e a comutação de pena são atos privativos e discricionários do Presidente da República, que tem o poder para definir a extensão dos benefícios, na forma do disposto no artigo 84, inciso XII, da Constituição Federal, não cabendo ao Poder Judiciário restringir o alcance da benesse, muito menos amplia-lo.
+Diante do exposto, ausente os requisitos do Decreto n. 9.246/2017,indefiro o pedido de comutação de penas formulado pelo sentenciado."
+O Tribunal estadual, ao manter o decisum, consignou (fls. 11-13):
+"Com efeito, apesar dos argumentos trazidos pela combativa defesa, o agravante não faz mesmo jus ao benefício pretendido.
+De fato, como se vê do Boletim Informativo acostado aos autos nº 1005309-19.2020.8.26.0637 (fl. 17), o sentenciado já obteve comutação de suas penas com fundamento nos Decretos nº 5.620/05, nº 5.993/06 e nº 6.294/07, de modo que não poderia ser novamente beneficiado, diante daexpressa prevista no artigo 7º, parágrafo único, do Decreto Presidencial nº 9.246/2017, quanto à concessão de nova comutação a quem já a obtivera com base em decretos anteriores.
+Realmente, cabe observar que, ao contrário do alegado pela combativa defesa, não houve interpretação equivocada da norma em tela pelo douto juiz de primeiro grau, pois o dispositivo em questão é de absoluta clareza ao dispor que "A comutação a que se refere o caput será concedida às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de fevereiro de 2017, obtido as comutações decorrentes de Decretos anteriores, independente de pedido anterior.", de modo que a inserção dessa regra deixou claro o ato discricionário de vontade do Senhor Presidente da República de não mais tornar o benefício em tela cumulativo.
+Em que pesem as ponderações postas nas razões de recurso, a interpretação ampliativa que a douta defesa busca dar à norma em referência não pode ser admitida, pois não tem ela o alcance que se lhe pretende emprestar. Aliás, é regra de hermenêutica que normas de caráter restritivo devem ser interpretadas restritivamente.
+ .. "
+Dos trechos acima transcritos, verifico que o entendimento das instâncias ordináriasestá em consonância com a jurisprudência do Superior Tribunal de Justiça no sentido de que a exegese do art. 7.º, parágrafo único, do Decreto n.9.246/2017, expressamente, limita o deferimento da comutação a quem não tenha obtido comutação decorrente de decreto anterior.
+Confira-se:
+"AGRAVO REGIMENTAL. EXECUÇÃO PENAL. COMUTAÇÃO DE PENAS. DECRETO PRESIDENCIAL N. 9.246/2017. ATO DE INDULGÊNCIA DO PRESIDENTE DA REPÚBLICA. ÓBICE IMPOSTO NO DIPLOMA LEGAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, é vedada expressamente a concessão da benesse, visto que, consoante disposto no parágrafo único do artigo 7º do referido decreto presidencial, " a  comutação a que se refere o caput será concedida às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2017, obtido as comutações decorrentes de Decretos anteriores, independentemente de pedido anterior".
+2. Agravo regimental não provido." (AgRg no HC 605.583/PR, Rel.Ministro ROGERIO SCHIETTI CRUZ, DJe30/09/2020.)
+No mesmo sentido, vejam-se, ainda, as seguintes decisões: HC n. 677.462, Rel. Ministro JOÃO OTÁVIO DE NORONHA, DJe 17/09/2021; HC 690.835, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 10/09/2021.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. DECRETO N.9.246/2017. COMUTAÇÃO DE PENA.FALTA DE REQUISITO OBJETIVO. BENESSE RESTRITA AOS CONDENADOS QUE NÃORECEBERAM O BENEFÍCIO ANTERIORMENTE. PRECEDENTES. ORDEMDENEGADA.
