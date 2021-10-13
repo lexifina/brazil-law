@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+CIVIL. SISTEMA DE FINANCIAMENTO DA HABITAÇÃO FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS. COBERTURA. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL.
+1. Consoante a jurisprudência desta Corte, o prazo prescricional para a cobrança pelo agente financeiro de saldo devedor remanescente de financiamento habitacional, perante o Fundo de Compensação de Variações Salariais, era de 20 (vinte) anos, sob a vigência do Código Civil de 1916 (art. 177), porquanto aplicável a regra geral prevista para as ações pessoais. Com o advento do novo Código Civil, em vigor a partir de 2003, passou a existir o prazo específico de cinco anos para o exercício da pretensão de cobrança de dívidas líquidas (art. 216 do CC/2002).
+2. O termo inicial da contagem do prazo de prescrição é a data da liquidação/quitação do contrato de financiamento.
+Os Embargos de Declaração foram parcialmente providos.
+O agravante, nas razões do Recurso Especial, alega que ocorreu violação do art. 1.022 do CPC/2015e dos arts. 189 e 205 do Código Civil. Afirma que houve negativa de prestação jurisdicional. Defende que o prazo prescricional seria de 10 anos, cujo marco inicial é a negativa administrativa da habilitação dos créditos pela CEF, e não a data da liquidação do contrato de financiamento habitacional. Aduz, em suma:
+Portanto, o FCVS foi criado com o intuito de quitar eventual saldo devedor existente após a extinção do contrato, resíduo este decorrente de fenômeno inflacionário. Como suas características afastam o atributo de liquidez, não se aplica o prazo de cinco anos previsto no art. 206, § 5º, inc. I, do CC, e sim o disposto no art. 205 do CC, que restou violado pelo acórdão recorrido no caso em apreço.
+O recurso deve ser provido no ponto, portanto, para reconhecer que o prazo aplicável é dez anos, com fundamento no art. 205 do Código Civil.
+(..)
+Ora, o que se está cobrando não são valores em atraso dos mutuários, mas sim valores que deveriam ter sido pagos e não o foram pela Caixa Econômica Federal.
+Assim, a prescrição começa a contar a partir da negativa da Caixa Econômica Federal, ou seja, a partir de quando o recorrente teve seu direito de receber os valores violado.
+Portanto, deve ser reformado o acórdão recorrido.
+Houve juízo de admissibilidade negativo na instância de origem, o que deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.9.2021.
+A irresignação não merece prosperar.
+Inicialmente, constato que não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+A mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Ilustrativamente:
+AGRAVO INTERNO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE EM LINHA FÉRREA. OMISSÃO OU CONTRADIÇÃO. INEXISTÊNCIA. JULGADO DEVIDAMENTE FUNDAMENTADO. (..) IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, § 1º, IV, e 1.022, II, do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+(..) 5. Agravo interno desprovido.
+(AgInt no REsp 1.864.804/SP, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 7/6/2021)
+No mérito, melhor sorte não assiste ao agravante.
+Na hipótese dos autos, o Tribunal de origem, ao dirimir a controvérsia, concluiu:
+Efetivamente, de acordo com precedentes desta Corte em casos semelhantes, o prazo prescricional para pretensões de cobrança de agente financeiro perante o FCVS, em relação ao saldo devedor remanescente, era de 20 (vinte) anos sob a vigência do Código Civil de 1916, conforme previsto no art. 177 daquele codex, porquanto aplicável a regra geral prevista para as ações pessoais.
+No entanto, com o advento do novo Código Civil, em vigor a partir de 2003, passou a existir prazo específíco para o exercício da pretensão de cobrança de dívidas líquidas, tal como a que ora se analisa, conforme estatui o art. 216 do CC/2002:
+(..)
+No caso dos autos, a quitação do contrato - quando o prazo prescricional começou a fluir - ocorreu em 27/04/1995, ou seja, em data anterior à do Código Civil de 2002, que entrou em vigor a partir de 11/01/2003, de forma que incide a regra de transição do art. 2028.
+Em 11/01/2003 ainda não havia transcorrido metade do prazo prescrional de 20 anos, razão pela qual o prazo a ser adotado é o do Código Civil de 2002 - de cinco anos - contados da vigência desse código e, portanto, encerrando-se em 11/01/2008, já que não há qualquer causa suspensiva ou interruptiva da prescrição anterior ao ajuizamento da demanda (CC, arts. 197 a 202).
+Neste diapasão, tendo a ação sido ajuizada em 09/09/2019, está configurada a prescrição.
+Ante o exposto, diante do reconhecimento da prescrição quinquenal, voto por negar provimento à apelação, em maior extensão.
+Consoante a jurisprudência do STJ, "deve incidir o prazo prescricional quinquenal previsto no art. 206, § 5º, I, do Código Civil de 2002, quando se trate de títulos executivos extrajudiciais, consubstanciados em espécie de instrumento particular que veicula dívida líquida" (AgInt no AREsp 793.457/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30/8/2016), como no caso dos autos.
+Na mesma linha:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA PRESCRIÇÃO QUINQUENAL. DÍVIDA LÍQUIDA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Aplica-se a prescrição quinquenal, prevista na regra do art. 206, § 5º, I, do Código Civil de 2002, às ações de cobrança em que se requer pagamento de dívida líquida constante de instrumento particular. Precedentes.
+(..)
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 775.399/RJ, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 18/11/2015)
+ADMINISTRATIVO. AÇÃO DE RESSARCIMENTO. CONTRATO HABITACIONAL. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022. INEXISTÊNCIA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 206 DO CÓDIGO CIVIL. PRAZO PRESCRICIONAL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE.
+I - Na origem, trata-se de ação de rito ordinário proposta pelo Estado do Rio Grande do Sul contra a Caixa Econômica Federal - CEF, postulando o pagamento dos valores relativos a cada um dos saldos devedores residuais de responsabilidade do FCVS, no montante de R$ 141.551,76 (cento e quarenta e um mil, quinhentos e cinquenta e reais e setenta e seis centavos), atualizado até abril de 2017, com incidência de correção monetária e juros de mora legais. Sentenciando, declarou-se "a prescrição integral do débitos relativo ao saldo residual do contrato de financiamento". No Tribunal a quo, a sentença foi mantida. Em decisão da Presidência desta Corte, não se conheceu do recurso especial.
+II - Não há violação do 535 do CPC/73 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - No caso dos autos, a Corte de origem se manifestou expressamente sobre o início do prazo prescricional, afastando a tese de que a contagem se iniciaria a partir da "negativa da cobertura", conforme se confere do seguinte trecho do acórdão: "O termo inicial da contagem do prazo de prescrição deve contar a partir da data da liquidação (quitação) dos contratos de financiamento e não da data da negativa da CEF em prestar a cobertura do FCVS sobre o saldo devedor residual. Nesse sentido, cito jurisprudência desta Turma ao abordar a matéria em caso análogo".
+IV - Quanto ao prazo, a Corte considerou que se trata de prazo quinquenal, por ser a dívida vencida e líquida. É pacífico o entendimento desta Corte de que deve incidir o prazo prescricional quinquenal previsto no art. 206, § 5º, I, do Código Civil de 2002, quando se trate de títulos executivos extrajudiciais, consubstanciados em espécie de instrumento particular ou público que veicula dívida líquida. É o que se confere dos seguintes precedentes: AgInt no REsp 1.419.757/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/3/2017, DJe 22/3/2017; AgInt no AREsp 793.457/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 30/8/2016.
+V - A verificação da circunstância de se tratar de dívida líquida ou não é atividade típica das instâncias ordinárias, cujo reexame, nesta Corte, encontra obstáculo no enunciado n. 7 da Súmula do STJ. Esse é o entendimento desta Corte, conforme se confere dos seguintes precedentes: AgInt no REsp 1.823.959/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/11/2020, DJe 19/11/2020; AgInt no REsp 1.836.902/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/3/2020, DJe 2/4/2020; AgInt nos EDcl no AREsp 1.138.095/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/3/2019, DJe 26/3/2019.
+VI - Agravo interno improvido.
+(AgInt no AREsp 1.708.438/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 15/3/2021)
+Portanto, diante das razões acima expendidas, verifica-se que o Tribunal a quo decidiu de acordo com a jurisprudência do STJ, de modo que se aplica à espécie o enunciado da Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Ressalte-se que o entendimento pacificado no âmbito do Superior Tribunal de Justiça é de admitir a aplicação da Súmula 83/STJ aos Recursos Especiais interpostos com fundamento na alínea "a" do aludido permissivo constitucional (AgRg no AREsp 354.886/PI, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 11/5/2016).
+Ademais, a Corte de origem reconheceu a ocorrência da prescrição da pretensão autoral, levando em conta o caráter particular da relação contratual firmada entres as partes e a liquidez da dívida representada no referido instrumento, sendo certo que a alteração do julgado, nos termos pretendidos, demandaria a incursão no conjunto fático-probatório, notadamente o exame das cláusulas dos financiamentos em apreço, providência inviável em Recurso Especial, nos termos das Súmulas 7 e 5 do STJ.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PRESCRIÇÃO. TERMO INICIAL. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO. ACERVO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Hipótese em que a Corte de origem reconheceu a ocorrência da prescrição da pretensão autoral, levando em conta o caráter particular da relação contratual firmada entres as partes e a liquidez da dívida representada no referido instrumento, sendo certo que a alteração do julgado, nos termos pretendidos, demandaria a incursão no conjunto fático-probatórios, notadamente o exame das cláusulas dos financiamentos em apreço, providência inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1691437/RS, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 17/09/2021)
+No mesmo sentido, recente decisão monocrática: AREsp 1.860.227/RS, Rel. Min. Herman Benjamin, DJe 29/06/2021.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas em relação ao art. 1.022 do CPC/2015, e, nessa parte, negar-lhe provimento.
+Publique-se.
+Intimem-se.
