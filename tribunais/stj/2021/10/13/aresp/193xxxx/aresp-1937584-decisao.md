@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado:
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORA PÚBLICA. MUNICÍPIO DE ANGRA DOS REIS. CUMULAÇÃO DE CARGOS DE PEDAGOGA. EXONERAÇÃO. PRETENSÃO ANULATÓRIA DE ATO ADMINISTRATIVO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA POR INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. SENTENÇA QUE CONCEDEU A SEGURANÇA. IRRESIGNAÇÃO DO IMPETRADO.
+Trata-se de apelação contra sentença proferida em mandado de segurança que se volta contra ato administrativo praticado pelo Secretário de Administração do município de Angra dos Reis, que determinou a exoneração da Impetrante sob a alegação de cumulação indevida de dois cargos de pedagogo. Magistrado sentenciante que entendeu pela necessidade da adoção do rito de processo administrativo disciplinar para exoneração que decorre de recomendação do Tribunal de Contas do Estado. Penalidade - exoneração -, aplicada por ato de Secretário Municipal. Vedação constitucional à cumulação remunerada de cargos públicos, que comporta exceções - art. 37, VI, da Constituição.
+Princípio do devido processo legal que se estende aos procedimentos administrativos - art. 5º, inciso LV, da Constituição. Garantia do contraditório e da ampla defesa. Necessidade de procedimento administrativo para exoneração de servidor público concursado.
+Precedente do E. STF. Lei Municipal nº 412/1995 que regula a aplicação de penalidades e o procedimento administrativo disciplinar. In casu, o ato de exoneração não observou as formalidades legais.
+Evidente violação aos princípios da ampla defesa, contraditório e do devido processo legal ante a ausência de instauração do competente processo administrativo. Acerto da sentença. DESPROVIMENTO DO RECURSO.
+Aponta a parte recorrente, em Recurso Especial, violação, no mérito, dos arts. 67, § 2º, da Lei Federal 9.394/96 - Lei de Diretrizes e Bases da Educação, com a redação alterada pelos arts. 1º e 61 da Lei Federal 11.301/2006, que estabeleceu as Diretrizes e Bases da Educação Nacional (LDB). Argumenta:
+No plano regional e local, esses profissionais da educação devem ser contemplados com cargos públicos específicos. Desse modo, acrescer ao cargo de pedagogo as funções que precipuamente pertencem aos professores contrapõe-se ao sistema previsto no referido dispositivo da LDB.
+Embora o v. acórdão tenha citado a decisão vinculante do STF, observamos correlação a respeito do tema com a ADIN nº 3.772, o qual vale um apanhado histórico para a compreensão do tema e ao final uma interpretação divergente do v. acórdão.
+Em 26 de novembro de 2003, o Supremo Tribunal Federal, interpretando as disposições do art. 40, § 5º, da Constituição Federal, mais especificamente o alcance da expressão " exclusivamente tempo de efetivo exercício das funções de magistério", editou a Súmula 726, asseverando que "Para efeito de aposentadoria especial de professores, não se computa o tempo de serviço prestado fora da sala de aula".
+Posteriormente, o art. 67, § 2º, da Lei Federal nº 9.394/96 - Lei de Diretrizes e Bases da Educação, com a redação alterada pelo art. 1º da Lei Federal nº 11.301/06, ampliou as condições para a aposentadoria especial.
+Contraminuta às fls. 721-730, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 30 de setembro de 2021.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 538-540):
+Em sequência, constou despacho do Secretário Municipal de Administração, datado de 10/07/2017, que expressamente determina o encerramento das atividades laborativas da Impetrante a partir de 14/07/2017 (índice 000056).
+Pois bem. Como se sabe, o nosso ordenamento jurídico veda a cumulação remunerada de cargos públicos; contudo, comporta exceções, a saber, quando houver compatibilidade de horários, e desde que a cumulação observe o rol do art. 37, VI, da Constituição: dois cargos de professor; um cargo de professor com outro técnico ou científico; ou dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas.
+Ocorre, porém, que a controvérsia recursal não paira sobre o tema da acumulação de cargos, mas em verdade sobre a necessidade de adoção de procedimento administrativo para exoneração de servidor público concursado.
+De fato, o que se examina é o acerto (ou não) da decisão de primeira instância que concedeu a segurança, sob o fundamento de ser necessária a adoção do rito de processo administrativo disciplinar para regularização de situação funcional.
+O entendimento exarado pelo magistrado sentenciante vai ao encontro do previsto no inciso LV, do art. 5º, da Constituição, segundo o qual, "aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes".
+Há, ainda, que se registar que o desfazimento de atos dos quais decorram efeitos concretos, como no caso em apreço, que importa na supressão da repercussão financeira decorrente do exercício de uma das matrículas da impetrante, só pode ser realizado se precedido de regular processo administrativo.
+A via estreita do Recurso Especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular 284 do STF. Nessa esteira:
+AGRAVO REGIMENTAL. PROCESSO CIVIL. TAXA DE EXPEDIÇÃO. IMPORTAÇÃO. INCONSTITUCIONALIDADE DA LEI N. 2.145/33. COMPENSAÇÃO. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À PROPOSITURA DA AÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS NODAIS DO ARESTO RECORRIDO. SÚMULAS 283 E 284 DO STF. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+(..)
+3. Incide a Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), acarretando a inadmissibilidade do recurso especial, quando os motivos que embasaram a alegação de violação não guardam pertinência com o disposto no dispositivo legal indicado (Precedentes: REsp 441.800/CE, 5ª T., Rel. Min. Jorge Scartezzini, DJ 06/05/2004; AGREsp 363.511/PE, 2ª T., Rel. Min. Paulo Medina, DJ 04/11/2002).
+(..)
+7. Agravo Regimental desprovido.(AgRg no REsp 947.901/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 6/8/2009)
+PROCESSO CIVIL. TRIBUTÁRIO. IR E CSSL. ART. 535 DO CPC. VIOLAÇÃO. NÃO-OCORRÊNCIA. PREJUÍZOS FISCAIS. COMPENSAÇÃO. LIMITES. LEI N. 8.981/95. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO-COMPROVAÇÃO. SÚMULA N. 83/STJ.
+1. Alegação genérica de ofensa a lei federal não é suficiente para delimitar a controvérsia, sendo necessária a especificação do dispositivo legal considerado violado (Súmula n. 284 do STF).
+(..)
+5. Recurso especial parcialmente conhecido e, nessa parte, não-provido.(REsp 462.204/RN, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, DJ 18/8/2006 p. 366)
+Com relação à alegada violação da legislação local, registre-se que a sua análise é obstada em Recurso Especial, por analogia, nos termos da Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário."
+Nesse sentido:
+PROCESSUAL CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. OFENSA AO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO MANIFESTA. AUSÊNCIA. CONCLUSÃO LÓGICO-SISTEMÁTICA DO DECISUM. PRECEDENTES. INADEQUAÇÃO DA VIA ELEITA. LEI LOCAL. SÚMULA 280/STF. AGRAVO INTERNO DESPROVIDO.
+(..)
+IV - O manejo do recurso especial reclama violação ao texto infraconstitucional federal, sendo defeso ao Superior Tribunal de Justiça reexaminar a aplicação de legislação local, a teor do verbete Sumular 280/STF.
+V- Agravo interno desprovido.(AgRg no Ag 715.367/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, DJ 13/3/2006 p. 361).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
