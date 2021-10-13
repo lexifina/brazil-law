@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+Responsabilidade civil do Estado - Compensação por danos extrapatrimoniais em razão de prisão supostamente ilegal - Prisão em virtude das circunstâncias do momento do flagrante indicaram a existência de materialidade e autoria do ilícito penal - Ausência de excesso de prazo na prisão em flagrante - Persecução penal realizada com observância do devido processo legal - Indenização cabível apenas quando da comprovação de flagrante conduta ilegal, o que não restou evidenciado nos autos - Posterior absolvição não gera, por si só, direito à compensação ou indenização - Inteligência do art. 373, I do CPC - Precedentes deste E. Tribunal de Justiça - Sentença de procedência parcial reformada - Recurso provido.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 186 e 927 do Código Civil.
+Aduz:
+Conforme fartamente narrado, não se indaga o Poder da Polícia Judiciária em agir, quando se depara com circunstância autorizadora, contudo, a objeção do Recorrente e o que levou a manejar o presente Recurso Especial - foi justamente, a circunstância fraudulenta em que o Recorrente foi envolvido, em virtude de uma vingança pessoal, que culminou em dano moral, diante da prisão indevida.
+Contrarrazões apresentadas às fls. 337-347, e-STJ.
+Houve juízo de admissibilidade negativo na instância de origem, o que deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 374-386, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2.9.2021.
+No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos:
+Pois bem. Cinge-se a controvérsia em se verificar a existência de danos extrapatrimoniais a serem indenizados ou compensados pelo Estado, em virtude da prisão do autor no contexto acima descrito.(..)
+No caso em análise, entretanto, não se verifica a hipótese reparatória do demandante.(..)
+Porém, em que pesem irregularidades eventualmente apuradas com relação a tais observações, como já afirmado, os policiais que efetuaram a prisão em flagrante do demandante tinham o dever de fazê-lo frente às circunstâncias descritas, não importando a que circunscrição estivessem vinculados.
+Aliás, quanto às circunstâncias da prisão, não se negou que capazes de ensejar a prisão em flagrante, tanto que afirmado na sentença a incompreensão gerada sobre a "não realização da prisão em flagrante do réu desde logo pelo próprio 1º DP, vez que, a rigor, podia ser o
+caso desde logo, já que não se vê indício de qualquer ilicitude" (fls. 191) Importante ressaltar que não houve excesso de prazo na prisão, a qual, inclusive, cessou-se com o pagamento da fiança arbitrada.
+Ademais, a posterior absolvição, decorrente da atipicidade constatada somente após necessária instrução criminal, não macula de ilegalidade a prisão, tampouco a persecução criminal. Copiosa a jurisprudência deste E. Tribunal de Justiça:(..)
+Quadra não perder de vista que o pleito indenizatório singra a contradição porque a mesma relação processual que culminou com a absolvição do demandante não pode, à luz de argumentos discricionários, ter-lhe sido a um tempo flagrantemente ofensiva aos direitos da personalidade, posto que o desfecho favorável somente se tornou factível porque o devido processo legal foi palmilhado à risca e, por isso, chegou-se a uma veridicção que pode ser recepcionada como justa e intocável.
+Diante da ausência de erro, falha ou qualquer omissão estatal, não há que se conceder o pleito reparatório pretendido pelo requerente (extrapatrimonial).
+No presente caso, para rever o entendimento da Corte de origem, a fim de atender ao Apelo da parte recorrente, seria necessário revolver o contexto fático-probatório dos autos. Incidência, na hipótese, da Súmula 7 do STJ.
+Vejam-se os precedentes:
+PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DANO MORAL. PRISÃO EM FLAGRANTE. ERRO JUDICIÁRIO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação indenizatória contra a União e o Distrito Federal, sob o fundamento de que os autores foram presos indevidamente, assim permanecendo pelo período aproximado de 33 dias, causando-lhes diversos prejuízos de ordem moral. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+II - O Tribunal recorrido assentou-se no acervo probatório dos autos para entender pela ausência de configuração de dano moral in casu, ante a ausência de erro judiciário.
+III - Para se concluir de modo diverso do acórdão recorrido, seria necessário o revolvimento do acervo fático-probatório delineado nos autos, procedimento esse vedado no âmbito do recurso especial, por óbice da Súmula n. 7/STJ. A esse respeito, os seguintes julgados: (REsp 1.804.833/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/5/2019, DJe 18/6/2019 e EDcl no AREsp 770.563/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 23/2/2016, DJe 29/2/2016).
+IV - Agravo interno improvido.(AgInt no AREsp 1.527.974/DF, Rel. Min. Francisco Falcão, Segunda Turma, DJe 17/3/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. PRISÃO PREVENTIVA. INDENIZAÇÃO POR DANOS MORAIS. ERRO JUDICIÁRIO. INEXISTÊNCIA. RESPONSABILIDADE OBJETIVA DO ESTADO NÃO CONFIGURADA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O Tribunal de origem consignou que "dentro dos fatos acolhidos, não entendo por haver qualquer o arbitrariedade ou imprudência no ato de prender e processar a ora demandante, visto que não faltaram indícios de seu envolvimento numa organização criminosa, indícios esses, suficientes à denúncia por parte do Ministério Público Estadual, que estava no exercício do seu mister. Dito posto, avanço na apreciação da e atuação do Estado. Quanto a sua permanência presa, a autora/apelante alega ter sido mantida em presídio por mais de 10 (dez) meses indevidamente (Declaração de fl. 13), posto que foi absolvida por Sentença Criminal, fatos que causaram danos morais e materiais a sua pessoa. Em análise à Sentença do juízo criminal da 17º Vara da Capital, mais especificamente em sua fl. 28, o Magistrado declara a absolvição de (..) das acusações imputadas com fundamento no art. 386, inciso VI, do o Código de Processo Penal, aduzindo, expressamente, que diante da inexistência de provas contundentes que levem a condenação de alguns denunciados, a absolvição é o o único caminho. Isso quer dizer que a declaração de inocência da autora no processo criminal se deu por falta de provas, e não por erros na apuração de materialidade ou autoria, portanto, tendo em vista o princípio do in dubio pro reo, não se pode condenar o alguém sem a devida comprovação de envolvimento no crime" (fl. 151, e-STJ).
+2. No presente caso, para rever o entendimento da Corte de origem, a fim de atender ao apelo da recorrente, é necessário revolver o contexto fático-probatório dos autos. Incidência, na hipótese, da Súmula 7 do STJ.
+3. Agravo Interno não provido.(AgInt no AgInt no AREsp 1.681.624/AL, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18/12/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. PRISÃO CAUTELAR. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ERRO JUDICIÁRIO. INEXISTÊNCIA. RESPONSABILIDADE OBJETIVA DO ESTADO NÃO CONFIGURADA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O Tribunal a quo, com base em minuciosa análise das provas trazidas aos autos, consignou expressamente que "não restou comprovado nos autos que a prisão cautelar se deu com abuso de poder, excesso ou desvio na execução, não há falar em dever de indenizar".
+2. No presente caso, para rever o entendimento da Corte de origem, a fim de atender ao apelo da recorrente, seria necessário revolver o contexto fático-probatório dos autos. Incidência, na hipótese, da Súmula 7 do STJ.
+3. Recurso Especial não provido.(REsp 1.804.833/MT, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18/6/2019)
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional. Nessa senda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. QUANTUM INDENIZATÓRIO. FIXAÇÃO EM PATAMAR RAZOÁVEL E PROPORCIONAL. REVISÃO.SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Nos termos do entendimento desta Corte Superior, não se conhece do recurso pela alínea c, tendo em vista que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+3. Agravo interno desprovido.(AgInt no AREsp 1.808.447/MS, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 29/4/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..)
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.(AgInt no REsp 1.251.683/RJ, Rel. Min. Og Fernandes, Segunda Turma, DJe 19/4/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.(AgInt no AREsp 1.673.561/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 25/3/2021)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
