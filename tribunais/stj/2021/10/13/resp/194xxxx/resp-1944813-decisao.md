@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 338, e-STJ):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. PLEITO ANTECIPATÓRIO DE URGÊNCIA DE CARÁTER SATISFATIVO DEFERIDO PARCIALMENTE. NÃO PREENCHIMENTO DO REQUISITO DO "PERICULUM IN MORA" PARA O DEFERIMENTO TOTAL. LINHA FÉRREA EM DESUSO. AUSÊNCIA DE PERIGO NA NÃO DEMOLIÇÃO DO IMÓVEL CONSTRUÍDO PELO PARTICULAR. NÃO PROVIMENTO DO AGRAVO DE INSTRUMENTO.
+Os Embargos de Declaração foram rejeitados.
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, dos arts. 99, 100 e 102 do CC; 183, § 3º, e 191, parágrafo único, da Constituição da República e daSúmula 340/STF. Defende que a posse sobre bem público não se convalidaria, pois seria mera detenção; e que houve violação dos arts. 9º,§ 2º, do Decreto 2.089/1963 e 4º, III, da Lei nº 6.769/79, por entender que não teriam sido aplicados devidamente os conceitos dos institutos da faixa de domínio e da área não edificável.
+Sustenta, ainda, que "a proteção da referida área se dá justamente no azo de evitar acidentes, pelo que o fato de tal evento ainda não ter ocorrido, não significa na possibilidade de se tolerar a presença de construções erguidas ali, além de representarem patente ilegalidade" (fls. 379-415).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9 de setembro de 2021.
+Inicialmente, verifique-se que a apreciação dos argumentos de violação direta a dispositivos da Constituição e a princípios tipicamente constitucionais é competência exclusiva do Supremo Tribunal Federal, conforme arts. 102 e 105 da CF. Assim, não cabe ao STJ, em Recurso Especial, examiná-los.
+No mérito, a irresignação não merece prosperar.
+No âmbito do Recurso Especial, não se permite o reexame dos requisitos da fumaça do bom direito e do perigo na demora para o deferimento da medida liminar pelo juízo de origem, seja em razão do óbice constante da Súmula 7/STJ, seja pela incidência do disposto no enunciado da Súmula 735/STF.
+O Tribunal a quo manteve a decisão do Juízo de piso que deferiu parcialmente tutela provisória de urgência, para reintegrar a recorrente à posse de faixa de domínio da ferrovia, indeferindo, contudo, a imediata demolição de construção particular nela edificada, por ausência de periculum in mora.
+Confiram-se os seguintes excertos do aresto impugnado (fls. 289/ 974):
+  De plano, antes de adentrar no objeto litigioso recursal propriamente dito, observo que a parte autora busca a concessão de tutela provisória de urgência satisfativa (imediata demolição de imóvel construído pelo particular), gizada no art. 300 do CPC, a qual possui os seguintes requisitos:
+comprovação da probabilidade do direito ("fumus boni iuris"), demonstração do perigo de dano ou de ilícito ou comprometimento da utilidade do resultado final que a demora do processo representa ("periculum in mora"), além da reversibilidade dos efeitos da decisão antecipatória (art. 300, § 3º, do CPC).
+Ocorre que a tutela provisória não preenche o requisito do perigo da demora, podendo aguardar o julgamento do feito em cognição exauriente.
+Para se evitarem repetições ociosas, transcrevo o seguinte trecho da decisão denegatória da liminar:
+"No caso dos autos, não se encontra presente a urgência necessária ao deferimento do pedido de antecipação da tutela, uma vez que a linha férrea se encontra em desuso, inexistindo elementos que permitam reconhecer o eminente perigo de acidentes. A simples alegação da FTL, sem subsídio em qualquer elemento de prova, de que o trecho do trilho em questão pode retornar às atividades tão logo seja necessário, não preenche tal requisito de urgência.
+Por outro lado, há perigo da irreversibilidade do provimento, de maior gravidade, já que a concessão da liminar pleiteada submeteria o agravado às consequências drásticas de uma desocupação forçada, com a demolição de sua residência, baseada em uma mera cognição sumária da demanda." Destarte, não resta demonstrada, nessa cognição perfunctória, a urgência apreciada em cognição exauriente.
+Conforme inteligência da Súmula 735/STF, salvo violação direta ao dispositivo legal que regula a medida de urgência, é inviável a análise de apelo excepcional em face de decisão que defere ou indefere pedido cautelar, dada a impossibilidade de incursão no mérito da demanda principal. O deferimento ou indeferimento de tutela no âmbito liminar não pode ser considerado "coisa julgada" a autorizar a inauguração da via extraordinária.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
