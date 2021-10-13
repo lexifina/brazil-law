@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+SAIN CHAMASopõe segundosembargos de declaração aacórdão da Terceira Seçãoque rejeitou anteriores embargos declaratórios.
+Alega a existência de omissãono julgado, relativamente a defeito que surgiu no julgamento do acórdão ora embargado.
+Sustenta que levantounulidade do julgado do agravo interno em vista de que sua fundamentação apenas repetia os termos da decisão monocrática, conduta que, no seu entender, violaria o art. 1.021, § 3º, do Código de Processo Civil. Afirma terem os presentes a finalidade de prequestionarem a matéria surgida no julgamento do referido recurso.
+Apontaque a decisão proferida violou o art. 97 da Constituição Federal, "na medida em que procedeu a interpretação ab-rogante do art.1.021, § 3º, do código de processo civil" (fl. 814). Aduz considerações a respeito do dispositivo constitucional, bem como quanto à jurisprudência do Supremo Tribunal Federal.
+Requer o acolhimento dos embargos de declaração, inclusive para fins de prequestionamento, a fim de que seja suprida a omissão do art. 97 da Constituição Federal, relativamente à alegação de ofensa ao art. 1.021, § 3º, do CPC.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO DA SÚMULA N. 315DO STJ.PREQUESTIONAMENTO DE DISPOSITIVOCONSTITUCIONAL. INVIABILIDADE.EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado (art. 619 do CPP).
+2. É inviável ao Superior Tribunal de Justiça intervir em matéria da competência do Supremo Tribunal Federal, ainda que para prequestionar questões constitucionais, sob pena de contrariar as rígidas atribuições recursais previstas na Carta Magna.
+3.Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado, o que não se verifica na presente hipótese.
+A Terceira Seção, ao julgar o agravo regimental, manteve a incidência daSúmula n. 315do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Por sua vez, no julgamento dos anteriores aclaratórios, ante a inexistência de quaisquer dos vícios do art. 619 do Código de Processo Penal, ainda se dispôsque (fl. 799):
+No mais, não há nulidade no acórdão ora embargado no tocante à alegada ofensa ao art. 1.021, § 3º, do CPC, visto que, diante de não apresentação de argumento capaz de infirmar a decisão agravada, aplicou-se ao caso a Súmula n. 315 do STJ,mantendo-se, assim, o decisum defls. 700-701, da Presidência deste Tribunal.
+Com efeito, a Corte Especialjá concluiu pela inexistência de nulidade em reproduzir, no acórdão do agravo regimental, os fundamentos do julgado agravado, quando a parte recorrente não apresenta argumento novo e suficiente para infirmar as razões de decidir do julgador monocrático.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA DE IMPROBIDADE ADMINISTRATIVA. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA UNIÃO E DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. DISSENSO NÃO DEMONSTRADO. ALEGADA OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. "Deve-se interpretar o comando do art. 1.021, § 3º, do CPC/2015 em conjunto com a regra do art. 489, § 1º, IV, do mesmo diploma. Na hipótese em que a parte insiste na mesma tese, repisando as mesmas alegações já apresentadas em recurso anterior, sem trazer nenhum argumento novo - ou caso se limite a suscitar fundamentos insuficientes para abalar as razões de decidir já explicitadas pelo julgador - não se vislumbra nulidade quanto à reprodução, nos fundamentos do acórdão do agravo interno, dos mesmos temas já postos na decisão monocrática" (EDcl no AgInt no AREsp 1.411.214/MG, Rel.Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/08/2019, DJe 20/08/2019.)
+2. No mais, a insurgência, nos termos em que foi deduzida pela Embargante, não disfarça o intento de rediscutir questão já examinada e decidida, desiderato que não se coaduna com a estreita via integrativa dos embargos de declaração.
+3. Embargos de declaração rejeitados.(EDcl no AgInt nos EAREsp n. 996.192/SP, relatoraMinistra LauritaVaz, Corte Especial,DJe de 10/12/2019.)
+Discordando do entendimento posto, alega-seviolação do art. 97 da Constituição Federal, motivo de se buscar o prequestionamento do mencionado dispositivo com o intuito de posterior interposição de novorecurso constitucional.
+Não obstante, conforme já se dispôs, éincabível o prequestionamento de matéria constitucional para possibilitar a apresentação de recurso ao Supremo Tribunal Federal. Ora, tal desiderato não se coaduna com a natureza da função jurisdicional do Superior Tribunal de Justiça,que, na instância especial, deve restringir-se à apreciação de questões federais infraconstitucionais, sob pena de contrariar as rígidas atribuições previstas na Carta Magna.
+A propósito, vejam-se estes precedentes da Corte Especial:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. REEXAME DE DECISÕES ANTERIORES. IMPOSSIBILIDADE. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE. INEXISTÊNCIA DE VÍCIO PASSÍVEL DE CORREÇÃO. DECLARATÓRIOS REJEITADOS.
+I - Nos termos do artigo 1.022 do Código de Processo Civil, são cabíveis embargos de declaração quando houver na decisão vício consistente em omissão, contradição, obscuridade ou erro material, o que inexiste na hipótese.
+II - Na espécie, a arguida ofensa à segurança jurídica e ao art. 5º, XXXVI, da Constituição Federal, referem-se ao acórdão proferido no julgamento do Recurso Especial n. 1.604.412, sob a sistemática do incidente de assunção de competência, cujo mérito não foi tratado nos Embargos de Divergência. Assim, inadmissível os aclaratórios, por pretenderem rediscutir acórdão pretérito ao proveniente dos Embargos de Divergência.
+III - É firme a jurisprudência do Superior Tribunal de Justiça no sentido de ser inviável a análise de suposta violação a dispositivos constitucionais, ainda que haja propósito de prequestionamento, sob pena de usurpação de competência própria do Supremo Tribunal Federal.
+IV - O reexame do ponto do recurso de embargos de divergência alusivo à modulação dos efeitos restou reapreciado e inadmitido pela decisão de fls. 534/538, a qual restou inatacada, inexistindo assim omissão no posterior acórdão dos Embargos de Divergência.
+Embargos de declaração rejeitados.(EDcl nos EREsp 1604412/SC, relatorMinistro Felix Fischer, Corte Especial, DJe 31/08/2020.)
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO.MANDADO DE SEGURANÇA. VOTO CONDUTOR DO JULGADO QUE NÃO PADECE DE OMISSÃO. ACLARATÓRIOS INTERPOSTOS SOMENTE POR IRRESIGNAÇÃO QUANTO À PRESTAÇÃO JURISDICIONAL. PRETENSÃO DE NOVO EXAME DA CONTROVÉRSIA.MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. EMBARGOS REJEITADOS.
+1. Nos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material. Precedentes.
+2. Na espécie, inexiste vício que permita o manejo da presente insurgência, evidenciando-se o seu descabimento, pois visa a parte embargante - ao repetir os argumentos utilizados em seu agravo interno - o reexame da controvérsia devidamente solucionada pela Corte Especial, a qual chancelou integralmente e por unanimidade o voto condutor do julgado, não havendo se falar em omissões.
+3. Por outro vértice, não é demais lembrar que, consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, sequer a título de prequestionamento.
+4. No caso posto, portanto, inexistem os vícios apontadas pela embargante, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+5. Embargos declaratórios rejeitados.(EDcl no AgInt no MS 24.113/DF, relatorMinistro Jorge Mussi, Corte Especial,DJe 13/09/2019.)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
