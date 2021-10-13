@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por AUTO OMNIBUS FLORAMAR LTDA contra acórdão assim ementado (fl. 528):
+APELAÇÃO CÍVEL - ACIDENTE DE TRANSITO - PASSAGEIRO QUE SOFRE LESÕES FÍSICAS NO INTERIOR DE ÔNIBUS COLETIVO - RESPONSABILIDADE OBJETIVA - DANO MORAL CONFIRMADO - MAJORAÇÃO DO VALOR NECESSÁRIA - AUSÊNCIA DE SUCUMBÊNCIA NA LIDE SECUNDÁRIA - AUSÊNCIA DE SOLIDARIEDADE.
+- Confirmado pelo conjunto probatório, que o ônibus coletivo se envolveu em grave acidente e que a passageira sofreu danos físicos ao cair no interior do ônibus, cumpre validar o dano moral indenizável, devendo o valor ser arbitrado com esteio nos princípios da moderação e razoabilidade.
+- Na denunciação da lide, não havendo resistência ao pedido pelo denunciado, não há que se falar em condenação nos ânus da sucumbência.
+- Não havendo a inclusão da seguradora no pólo passivo da ação principal, mas somente na lide secundária, incabível se mostra o reconhecimento de condenação solidária.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 600/603).
+Em suas razões, a parte recorrente alega afronta aos arts. 406 e 944 do Código Civil; e 1.022, II, do Código de Processo Civil/2015, bem como dissídio jurisprudencial. Preliminarmente argui omissão do Tribunal de origem, por não se pronunciar sobre as questões postas em debate nos embargos de declaração. No mérito, aduz que "a partir da vigência do Novo Código Civil (Lei nº. 10.406/2002), os juros moratórios passaram a observar a taxa que estiver em vigor para mora do pagamento de impostos devidos à Fazenda Nacional que, atualmente, é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC" (fl. 559).
+Passo a decidir.
+O Tribunal de origem, ao julgar a apelação, determinou "a aplicabilidade dos juros e correção na forma da lei 6.024/74" (fl. 535) salientando que "a correção monetária e a incidência dos juros moratórios atende abalizada jurisprudência do STJ e, inclusive, da súmula 54 do STJ citada, não havendo que se falar em aplicação da taxa Selic, porquanto tal taxa é reservada para as obrigações tributárias, o que não é o caso destes autos" (fl. 533).
+A conclusão acima reproduzida está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, que já se posicionou no sentido de que "a fixação da taxa dos juros moratórios, a partir da entrada em vigor do artigo 406 do Código Civil de 2002, deve ser com base na taxa Selic" (AgInt no REsp 1918258/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 27.9.2021). Na mesma direção:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. TRANSPORTE COLETIVO. RESPONSABILIDADE OBJETIVA. DANO MORAL. TERMO INICIAL DOS JUROS DE MORA. SÚMULA 54/STJ. APLICAÇÃO DA TAXA SELIC. AGRAVO INTERNO NÃO PROVIDO.
+1. Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual (Súmula 54/STJ).
+2. "A taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, por ser ela a que incide como juros moratórios dos tributos federais. Precedente da Corte Especial" (REsp n.
+1.658.079/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 6/3/2018, DJe 13/3/2018).
+3. Nas condenações posteriores à entrada em vigor do Código Civil de 2002 (janeiro de 2003), deve-se aplicar a Taxa Selic, que é composta de juros moratórios e de correção monetária, ficando vedada sua cumulação com qualquer outro índice de atualização monetária.
+4. Agravo interno a que se nega provimento. (AgInt no REsp 1752361/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 1.7.2021)
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial, para determinar que seja aplicável a taxa SELIC para os juros de mora e para a correção monetária.
+Intimem-se.
