@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e/ou "c", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fl. 394/403 ):
+ADMINISTRATIVO. PROCESSO CIVIL. DESAPROPRIAÇÃO. EMBARGOS À EXECUÇÃO.HONORÁRIOS ADVOCATÍCIOS. INCLUSÃO DE JUROS COMPENSATÓRIOS.IMPOSSIBILIDADE. OFENSA À COISA JULGADA. APELAÇÃO PROVIDA. AGRAVO RETIDONÃO CONHECIDO.
+1. Não se conhece do agravo retido quando não consta nas razões ou nas contrarrazões do apelopedido expresso para sua apreciação, conforme art. 523, §1º, do Código de Processo Civil de1973, vigente à época.
+2. A sentença e o acórdão na ação de conhecimento fixaram como base de cálculo para oshonorários advocatícios a diferença entre a oferta e a indenização, ambas corrigidasmonetariamente, sem menção aos juros moratórios e compensatórios. Ó Magistrado a quoconsiderou que o "referido acessório compõe a indenização, devendo, portanto, integrara base decálculo para apuração da verba honorária". Todavia, esse argumento não pode prevalecer, umavez que no título judicial os juros compensatórios e moratórios não foram incluídos na base decálculo dos honorários.
+3. "Nas ações de desapropriação, incluem-se no cálculo da verba advocaticia as parcelasrelativas aos juros compensatórios e mora tórios, devidamente corrigidas, conforme determina aSúmula 131 do STJ, sendo certo que, não havendo a inclusão de tais verbas no titulo executivo, évedado ao juiz modificar os critérios adotados na fixação do "quantum debeatur" em sede deexecução, por força do art. 463, I, do CPC/1973" (STJ, REsp 1336882/MA, Primeira Turma, Rel.Ministro Gurgel de Faria, DJe de 21/02/2017).
+4. Apelação provida.
+5. Agravo retido não conhecido.
+Embargos de declaração parcialmente acolhidos com efeitos modificativos, assim ementado (fls. 436/447):
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO. EMBARGOS DE DECLARAÇÃO. EMBARGOS AEXECUÇÃO. HONORÁRIOS ADVOCATICIOS. INCLUSÃO DE JUROS COMPENSATÓRIOS.IMPOSSIBILIDADE. OFENSA A COISA JULGADA. HONORARIOS ADVOCATICIOS.EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015.OMISSÃO. RECURSO PARCIALMENTE ACOLHIDO.
+1. Nos termos do art. 1.022 do Código de Processo Civil de 2015, são cabíveis embargos dedeclaração contra qualquer decisão judicial para: I - esclarecer obscuridade ou eliminarcontradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz deoficio ou a requerimento; III - corrigir erro material.
+2. No que tange aos honorários advocatícios, considerando o trabalho adicional realizado e oscritérios previstos nos parágrafos 2º a 6º do art. 85 do Código de Processo Civil de 2015, reduzo opercentual arbitrado nesta Corte para 2% (dois por cento) sobre o valor executado em excesso.
+3. Embargos de declaração parcialmente acolhidos com efeitos modificativos.
+O recorrente alega violação dos artigos15-A e 15-B do Decreto Lei nº 3.365/41, bem como divergência jurisprudencial, evidenciada pela Súmula 131/STJ, tendo em vista que a incidência de juros compensatórios e moratórios sobre o valor daindenização deve serfixada em montante superior ao ofertadoinicialmente pelo Recorrido, para os primeiros, e os segundos, a ocorrência doatraso no pagamento respectivo.
+Semcontrarrazões.
+Juízo positivo de admissibilidade às fls. 492/494.
+É o relatório. Passo a decidir.
+O recorrente, ao indicar ofensa aos artigos15-A e 15-B do Decreto Lei nº 3.365/41edissídio jurisprudencial, direcionandosua tese no sentido de que deve haver incremento no valor dos juros moratórios e compensatórios, na diferençada oferta inicial e o valor da indenizaçãode calculo dos honorários,deixou de impugnar o fundamento do acórdão recorrido segundo o qual "fixada a base de cálculo dos honorários advocatícios no processo deconhecimento, a sua modificação para fazer incluir as parcelas relativas aos jurosmoratórios e compensatórios configura ofensa à coisa julgada" (fl. 184).
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese/ao caso a Súmula 283/STF.
+Por fim, gize-se que, segundo entendimento desta Corte, a inadmissão dorecurso especial interposto com fundamento no artigo 105, III, "a", daConstituição Federal, em razão da incidência de enunciado sumular,prejudica o exame do recurso no ponto em que suscita divergênciajurisprudencial se o dissídioalegado diz respeito ao mesmo dispositivolegal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt noREsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria,Primeira Turma, DJe 23/3/2017.
+Isso posto, conheço dorecurso especial e nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO
+DE DESAPROPRIAÇÃO HONORÁRIOS ADVOCATÍCIOS. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF.DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO NÃO PROVIDO.
