@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se Agravo interposto contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) no qual se impugna acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO - PENSÃO POR MORTE - FILHO MENOR DE 21 ANOS - RECEBIMENTO DE AUX LIO-DOENÇA ATÉ O ÓBITO POR FORÇA DE TUTELA ANTECIPADA, POSTERIORMENTE REVOGADA - QUALIDADE DE SEGURADO DA "DE CUJUS" MANTIDA - CONCESSÃO DO BENEFÍCIO - TUTELA ANTECIPADA CONFIRMADA - HONORÁRIOS RECURSAIS - APELAÇÃO DO INSS DESPROVIDA - CORREÇÃO MONETÁRIA ALTERADA DE OFÍCIO
+1) Por ter sido a sentença proferida sob a égide do Código de Processo Civil de 2015 e, em razão de sua regularidade formal, conforme certificado nos autos, a apelação interposta deve ser recebida e apreciada em conformidade com as normas ali inscritas.
+2) O benefício de independe de carência, devendo ser comprovados, pensão por morte para a sua obtenção, (i) o óbito ou a morte presumida, (ii) a condição de segurado do falecido e (iii) a condição de dependente do requerente.
+3) O artigo 16 da Lei nº 8.213/91 prevê três classes de dependentes (incisos I a III) - a primeira, cuja dependência econômica é presumida; outras duas, cuja dependência depende de comprovação (parágrafo 4º) -, estabelecendo, entre elas, uma hierarquia, segundo a qual a existência de dependente de uma classe exclui, do direito às prestações, os das classes seguintes (parágrafo 1º).
+4) No período de gozo de benefício por incapacidade, ainda que por força de antecipação dos efeitos da tutela posteriormente revogada, a falecida manteve a sua condição de segurada, pois, nessa situação, não poderia retornar ao trabalho (Lei nº 8.213/91, arts. 46 e 60, § 6º), nem estava obrigada ao recolhimento da contribuição (art. 29). Entendimento diverso não só contraria a legislação previdenciária, mas ofende os princípios da boa-fé e da segurança jurídica. Nesse sentido, ademais, dispõe o artigo 13 do Decreto nº 3.048/99 que mantém a qualidade de segurado, independentemente de contribuições, "até doze meses após a cessação de benefício por incapacidade ou após a cessação das contribuições, o segurado que deixar de exercer atividade remunerada abrangida pela (inciso II). previdência social ou estiver suspenso ou licenciado sem remuneração"
+5) Além disso, dispõe o artigo 15, I, da Lei 8.213/91 que "Mantém a qualidade de segurado, independentemente de contribuições: I - sem limite de prazo, quem está em gozo de benefício". Precedente: TRF 3ª Região, 7ª Turma, ApelRemNec - APELAÇÃO / REMESSA NECESSÁRIA - 0004236-87.2016.4.03.9999, Rel. Desembargador Federal CARLOS EDUARDO DELGADO, julgado em 29/04/2020, e - DJF3 Judicial 1 DATA: 05/05/2020.
+6) Sendo presumida a dependência econômica do , nos termos filho menor de 21 anos do art. 16, I e § 4º, da Lei nº 8.213/91, a parte autora jus à obtenção da pensão por faz morte.
+7) O termo inicial do benefício fica mantido 03/08/2015, data do requerimento administrativo, sob pena de reformatio in pejus, pela ausência de recurso da parte autora.
+8) O valor da pensão por morte deverá ser calculado na forma prevista no artigo 75 da Lei nº 8.213/91.
+9) Para o cálculo dos juros de mora e correção monetária, devem ser aplicados os índices previstos no Manual de Orientação de Procedimentos para os Cálculos da Justiça Federal, aprovado pelo Conselho da Justiça Federal, à exceção da correção monetária a partir de julho de 2009, período em que deve ser observado o Índice de Preços ao Consumidor Amplo Especial - IPCA-e, critério estabelecido pelo Pleno do Egrégio Supremo Tribunal Federal, quando do julgamento do Recurso Extraordinário nº 870.947/SE, realizado em 20/09/2017, na sistemática de Repercussão Geral, e confirmado em 03/10/2019, com a rejeição dos embargos de declaração opostos pelo INSS.
+10) Se a sentença determinou a aplicação de critérios de juros de mora e correção monetária diversos, ou, ainda, se ela deixou de estabelecer os índices a serem observados, pode esta Corte alterá-los ou fixá-los, inclusive de ofício, para adequar o julgado ao entendimento pacificado nos Tribunais Superiores.
+11) Confirmada a tutela anteriormente concedida, vez que presentes os seus requisitos - verossimilhança das alegações, conforme exposto nesta decisão , e o perigo na sentença da demora, o qual decorre da natureza alimentar do benefício.
+12) Vencido o INSS, a ele incumbe o pagamento de honorários advocatícios, fixados em 10% do valor das prestações vencidas até a data da sentença (Súmula nº 111/STJ).
+13) Os honorários recursais foram instituídos pelo CPC/2015, em seu artigo 85, parágrafo 11, como um desestímulo à interposição de recursos protelatórios, e consistem na majoração dos honorários de sucumbência em razão do trabalho adicional exigido do advogado da parte contrária, não podendo a verba honorária de sucumbência, na sua totalidade, ultrapassar os limites estabelecidos na lei.
+14) Desprovido o apelo do INSS interposto na vigência da nova lei, os honorários fixados na sentença devem, no caso, ser majorados em 2%, nos termos do artigo 85, parágrafo 11, do CPC/2015.
+15) Apelação desprovida. Correção monetária alterada de ofício.
+Os Embargos de Declaração opostos foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, alega violação dos arts. 21, 28 e 30, II, da Lei 8.212/1991, 102 da Lei 8.213/1991e 5ºda Lei 10.666/2003.
+Sustenta, em suma, ser "indevida a pensão por morte, na medida em que o "de cujus" não ostentava a qualidade de segurado quando de seu óbito" (fl. 233, e-STJ).
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 20 de setembro de 2021.
+Não prospera a irresignação.
+A Corte a quo decidiu a controvérsia nos seguintes termos:
+O benefício de pensão por morte destina-se aos dependentes do segurado que falece, seja ele aposentado ou não, devendo a sua concessão observar, por força do princípio tempus regit actum, a legislação vigente à época do óbito.
+Nos termos da Lei nº 8.213/91, em seus artigos 74 a 79, que regulam atualmente a pensão por morte, esta independe de carência, devendo ser comprovados, para a sua obtenção, (i) o óbito ou a morte presumida, (ii) a condição de segurado do falecido e (iii) a condição de dependente do requerente.
+O artigo 16 da Lei nº 8.213/91 prevê três classes de dependentes (incisos I a III) - a primeira, cuja dependência econômica é presumida; outras duas, cuja dependência depende de comprovação (parágrafo 4º) -, estabelecendo, entre elas, uma hierarquia, segundo a qual a existência de dependente de uma classe exclui, do direito às prestações, os das classes seguintes (parágrafo 1º).
+No caso dos autos, o óbito ocorreu em 05/05/2015, conforme ID 59279926.
+Não se verifica a alegada perda da condição de segurada da Previdência.
+Com efeito, quando foi concedida a antecipação dos efeitos da tutela, nos autos da Ação Ordinária nº 0005472-67.2013.4.03.6302, a falecida era segurada da Previdência. E permaneceu quando e faleceu, em 05/05/2015, já que a aludida tutela foi revogada por decisão da C. Turma Recursal do Juizado Especial Federal Cível da Terceira Região - Seção Judiciária de São Paulo proferida em 28/05/2015 (ID 59279974).
+Isso porque, no período de gozo de benefício por incapacidade, ainda que por força de antecipação dos efeitos da tutela posteriormente revogada, a falecida manteve a sua condição de segurado, pois, nessa situação, não poderia retornar ao trabalho (Lei nº 8.213/91, artigos 46 e 60, parágrafo 6º), nem estava obrigada ao recolhimento da contribuição (artigo 29). Entendimento diverso não só contraria a legislação previdenciária, mas ofende os princípios da boa-fé e da segurança jurídica.
+Além disso, dispõe o artigo 15, I, da Lei 8.213/91 que "Mantém a qualidade de segurado, independentemente de contribuições: I - sem limite de prazo, quem está em gozo de benefício".
+Ademais, preceitua o artigo 13 do Decreto nº 3.048/99 que mantém a qualidade de segurado, independentemente de contribuições, "até doze meses após a cessação de benefício por incapacidade ou após a cessação das contribuições, o segurado que deixar de exercer atividade remunerada abrangida pela previdência (inciso II). social ou estiver suspenso ou licenciado sem remuneração"
+(..)
+Por outro lado, a parte autora é filho menor de 21 anos da segurada falecida, conforme ID 59279926, sendo presumida a sua dependência econômica, nos termos do artigo 16, inciso I e parágrafo 4º, da Lei nº 8.213/91 Desse modo, presumida a sua dependência econômica, a parte autora faz jus à obtenção da pensão por morte.(fls. 176-178, e-STJ).
+O Tribunal de origem, examinando o acervo probatório dos autos, concluiu ter sido demonstrada a qualidade de segurado da suposto instituidor da pensão por morte.
+Assim, a alteração das conclusões adotadas pela Corte de origem demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+Nessa linha:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF, POR ANALOGIA. ACÓRDÃO QUE, FUNDAMENTADO NOS ASPECTOS CONCRETOS DA CAUSA, CONCLUIU PELA CONDIÇÃO DE SEGURADO DO INSTITUIDOR DA PENSÃO POR MORTE, NO MOMENTO DO ÓBITO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. O Tribunal de origem concluiu, à luz das provas do processo, que, "no caso dos autos, a parte autora, na condição de cônjuge do instituidor do benefício, faz jus ao benefício de pensão por morte, previsto nos arts. 18, II, "a" e 74 e incisos da Lei 8.213/91, porquanto as provas constantes dos autos são suficientes para demonstrar a condição de segurado do de cujus e a dependência econômica do requerente".
+IV. Considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+V. Agravo interno improvido.
+(AgInt no AREsp 1.034.271/GO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/8/2017)
+RECURSO ESPECIAL. PREVIDENCIÁRIO. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PENSÃO POR MORTE. QUALIDADE DE SEGURADO CONFIGURADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES.
+1. (..)
+2. A reforma do acórdão que concluiu pela condição de segurado do instituidor da pensão por morte, no momento do óbito, implica revolvimento dos aspectos fáticos e probatórios, procedimento vedado no âmbito do Recurso Especial, pela Súmula 7/STJ. Precedentes do STJ.
+3. Recurso Especial não provido.
+(REsp 1.615.349/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 6/9/2016)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
