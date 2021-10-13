@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto porDAYANE DA SILVA ALVEScontra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISno julgamento do HC n.1.0000.20.450707-3/000.
+Extrai-se dos autos que o recorrente foi preso preventivamente em 08/06/2020, no curso de procedimento que apura a prática doscrimes previstos nosart. 1º, inciso II, da Lei n.º 9.455/97, c/c art. 13, §2º, "a" e "c" do Código Penal, c/c art. 33, §1º, inciso III, da Lei n.º 11.343/06, c/c art. 148, art. 171 (por sete vezes) e art. 288, todos do Código Penal (tortura, tráfico de drogas, sequestro e cárcere privado, estelionato e associação criminosa).
+Irresignada, a defesa impetrouhabeas corpusperante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - TORTURA, TRÁFICO DE DROGAS, SEQUESTRO/CÁRCERE PRIVADO, ESTELIONATO E ASSOCIAÇÃO CRIMINOSA - REVOGAÇÃO DA PREVENTIVA - IMPOSSIBILIDADE - INADEQUAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. 1. Indícios de que a paciente integra associação criminosa que se utiliza de uma clínica de reabilitação de toxicômanos para a prática de vários crimes. 2. Notícias de que a clínica é de propriedade de sua família e a agente era responsável por realizar a captação de pacientes e por manter contato direto com os familiares destes, cobrando-lhes valores significativos pelas internações, mas supostamente submetendo os internos a tratamento degradante, cruel e desumano, com enorme sofrimento físico, mental, psicológico e espiritual. 3. Informações de que endossava outro acusado a propiciar a entrada de prostitutas no local. 4. Estaria tentando dispensar as vítimas, de modo a dificultar a apuração dos fatos, havendo suspeitas de que a empreitada criminosa esteja sendo mantida em outra cidade. 5. Indicou residência fora do distrito da culpa. 6. Ordem denegada"(fl. 797).
+No presente recurso, aponta a ausência de motivação da decisão que determinou a prisão preventiva, deixando de indicarconcretamente qualquer conduta da recorrente que justificasse a determinação da prisão. Afirma que odecreto prisional apresenta motivação genérica. Assevera a possibilidade de determinação de medida cautelares diversas.
+Pretende em liminar e no mérito, a substituiçãoda custódia por medida cautelar diversa, especialmente o monitoramento eletrônico.
+Indeferido o pedido de liminar (fls. 844/845) e prestadas as informações solicitadas (fls. 851/950); o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 952/956).
+É o relatório.
+Decido.
+O presente reclamo traz pedido idêntico ao formulado no RHC 144.254/MG, cuja fundamentação do decreto prisional foi devidamente avaliada em decisão publicada e transitada em julgado.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste recurso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC N.º 112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo, não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz, que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+Ante o exposto, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
