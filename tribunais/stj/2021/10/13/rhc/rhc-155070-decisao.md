@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por JOÃO VICTOR DE ANDRADE ZAMBONINcontra acórdão do Tribunal de Justiça do Estado do Paraná(HC n. 44530-39.2021.8.16.0000).
+Orecorrente teve a prisão temporária decretadaem 20/11/2020,diante de representação da autoridade policial (fl. 911), posteriormente transformada em preventiva (fls.42-43). Foidenunciadopor suposta prática dodelito descrito no art. 121, §2º, II e IV, do Código Penal.
+O decreto prisional fundou-se na gravidade da conduta, na periculosidade do recorrente,na motivação fútil e na utilização de recursos que dificultarama defesa da vítima (fl. 45).
+Impetrado writ originário, a ordem foi denegada (fl. 123).
+Orecorrente alega que está sendo vítima de constrangimento ilegal, uma vez que"os fatos ensejadores da manutenção cautelar não são contemporâneos, e tampouco, houve fundamentação do juiz de origem para sua manutenção" (fl. 109).
+Pugna pela aplicação de medidas cautelares alternativas em razão de sua comprovadasuficiência (fl. 109).
+Argumenta que o Tribunal acrescentou novo requisito para a manutenção da custódia preventiva, o que torna o ato ilegal (fl. 110).
+Destaca que não hácontemporaneidade entre a prisão e os fatosensejadores da medida (fl. 107).
+Requer a concessão de liberdadepara que o paciente aguarde livre o julgamento da ação penal.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 120-122):
+Foi o decreto prisional assim motivado:
+"Com relação aos itens "a prova da existência do crime" (delito central: homicídio "2 vezes" qualificado) e "os indícios da autoria" (recaindo nos 4 agentes denunciados  1 agente adolescente), dentre outros dados de prova, vale consignar o que segue:
+a) o registrado no "Laudo do Exame de Necropsia": "a morte de Jhonatan Lourenço Maidl foi produzida por lesões crânio-encefálicas e torácicas por instrumentos pérfuro-contundentes - projéteis de arma de fogo";
+ ..
+Observa-se que a periculosidade revelada na conduta atribuída aos acusados é extremamente elevada, o que se extrai, anote-se novamente, sem maior delonga, da simples leitura da narrativa fática anotada na denúncia.
+O caso em tela não autoriza a aplicação das medidas previstas nos incs. I, IV, V, VIII e IX, do art. 319, do CPP, sobretudo porque não garantem, por si só, a ordem pública e a instrução processual, bem como a aplicação da lei penal".
+Ao pronunciar o Paciente, consignou a Autoridade impetrada:
+"Mantém-se o réu JOÃO VICTOR em prisão processual, eis que permanece presente o quadro fático e jurídico indicado na decisão judicial anotada neste feito no item 40.1, em seu nº 7, que disse pela prisão preventiva, valendo observar, outrossim, que na data presente o indicado réu restou julgado pronunciado pela prática do "hediondo" crime de homicídio consumado (duas vezes) qualificado tendo ele, ainda, registros criminais anteriores pelo delito de posse de droga para uso próprio."
+3. Como se vê, foi a segregação provisória mantida em razão da subsistência do cenário fático até então delineado por ocasião do decreto prisional, em que se consignara a imprescindibilidade da medida extrema para a garantia da ordem pública: o modus operandi na execução do crime imputado denota periculosidade do Agente.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No caso,o modus operandi do crime,a reincidência, o risco de reiteração delitiva, os maus antecedentes, a gravidade concreta da conduta ea periculosidade do agenteforam consideradas pelo Juízo de primeiro grau para a decretação da prisão preventiva e justificam a imposição da medida extrema para garantia da ordem pública, em detrimento das demais cautelares substitutivas.
+Ademais,o delito em questão foi praticado mediante o emprego de violência contrapessoa, situação que, conjugada com os requisitos previstos nos arts. 312, 313 e 315 do Código de Processo Penal, permite a prisão cautelar como solução idônea para assegurar o acautelamento da ordem pública (RHC n. 92.308/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 27/3/2018).
+Registre-se que a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Por fim, não há falar em falta de contemporaneidade nas situações em que os atos praticados no processo respeitaram a sequência necessáriaàdecretação, em tempo hábil, de prisão preventiva devidamente fundamentada (HC n. 620.306/SP,relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 27/11/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
