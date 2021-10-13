@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de ISRAEL DOS SANTOS LIRA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado da Paraíba (HC n. 0806301-04.2021.8.15.0000).
+Depreende-se dos autos quefoi decretada a prisão preventiva do paciente, denunciado como incurso no art. 121, § 2º, I, III e IV, do Código Penal.
+Impetradowritna origem, a ordem foi denegada em acórdão assim ementado (e-STJ fls. 67/68):
+HOMICÍDIO QUALIFICADO. PRISÃO HABEAS CORPUS PREVENTIVA DECRETADA. ALEGADA ILEGALIDADE DA PRISÃO POR AUSÊNCIA DE REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA. QUESTÃO SUPERADA. DECISÃO DE MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. EXCESSO DE PRAZO. COMPLEXIDADE DO DELITO. PLURALIDADE DE RÉUS. INSTRUÇÃO PROCESSUAL CONCLUÍDA.PRINCÍPIO DA RAZOABILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. DENEGAÇÃO DA ORDEM FUNDAMENTAÇÃO INIDÔNEA DA DECISÃO DE MANUTENÇÃO DA PRISÃO CAUTELAR DO PACIENTE.AUSÊNCIA DOS REQUISITOS DO ARTIGO 321 DO CÓDIGO DE PROCESSO PENAL. DECISÃO NÃO JUNTADA AOS AUTOS. INSTRUÇÃO DEFICIENTE. INCIDÊNCIA DA ÚLTIMA PARTE DO ART. 252 DO RITJ/PB. INEXISTÊNCIA DE INDÍCIOS DE AUTORIA. TESE REFERENTE AO MÉRITO.DEMANDA QUE EXIGE ACURADO EXAME DE PROVAS.INVIABILIDADE PELA VIA ESTREITA DO. HABEAS CORPUS. APLICAÇÃO DE MEDIDAS NÃO CONHECIMENTO CAUTELARES. PEDIDO PREJUDICADO.
+1. O paciente encontra-se preso, por força de decreto preventivo, já reanalisado, e mantido, pelo juízo processante, conforme informações prestadas pela autoridade apontada como coatora.Assim, não há que se falar em nulidade da prisão, pela não realização da audiência de custódia, posto que não restou demonstrada violaçãoàs garantias processuais e constitucionais, em detrimento da não ocorrência do referido ato, entendimento, este, consolidado pela Corte Superior de Justiça.
+2. O prazo para o encerramento da instrução criminal depende das peculiaridades do caso concreto, à luz do princípio da razoabilidade.In caso, não há excesso de prazo, tão pouco, inércia do aparelho judiciário e o processo está sendo devidamente impulsionado.
+3. A alegação de inexistência de testemunha ocular, e de que um dos réus assumiu sozinho a autoria do delito, diz respeito ao mérito, impossível de ser analisada na via estreita do habeas corpus.
+4. O pedido de habeas corpus deve ser instruído, suficientemente, com prova consistente e pré-constituída, não se conhecendo do writ que não venha a preencher tal requisito, mormente em se tratando de impetração subscrita por advogado.
+5. Torna-se prejudicada a análise do pedido alternativo para aplicação de medidas cautelares diversas da prisão em razão da manutenção do cárcere.
+Alega a defesa, na presente impetração, que o decreto prisional carece de fundamentação concreta, pois está apoiado apenas na gravidade abstrata do delito. Postula, ainda, a reavaliação da necessidade de manutenção da prisão cautelar.
+Requer, liminarmente, a expedição de alvará de soltura.
+O pedido liminar foi por mim indeferido (e-STJ fls. 84/86).
+Prestadas as informações de estilo, o Ministério Público Federal opinou pelo não conhecimento da impetração e, no mérito, pela denegação da ordem (e-STJ fls. 119/128).
+É, em síntese, o relatório.
+Decido.
+Inicialmente, impende frisar que, conforme informações prestadas pelo Juízo da 1ª Vara Mista de Cajazeiras/PB, às e-STJ fls. 115/116, foi prolatada decisão de pronúncia no dia 28/9/2021, nos autos da Ação Penal n. 0800741-76.2021.8.15.0131, objeto do presente writ,ocasião em que foi mantida a segregação cautelar.Desse modo, está prejudicado o pedido de reavaliação da custódia cautelar, porquanto tal reavaliação já foirealizadapelo Magistrado de piso ao proferir a decisão de pronúncia.
+No que se refere ao pedido de revogação da custódia cautelar por ausência de fundamentação idônea do decreto prisional,tem-se que a tese não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Com efeito, o Tribunal de origem não conheceu da impetração quanto a esse ponto, aos seguintes fundamentos (e-STJ fl. 74):
+No tocante às alegações de fundamentação inidônea da decisão que manteve a segregação cautelar do paciente; ausência dos requisitos previstos no artigo 312 do Código de Processo Penal; e falta de justa causa, verifica-se que nos autos inexiste cópia do decreto preventivo em desfavor do paciente, tampouco da decisão que o manteve, inviabilizando, assim, a análise da existência ou não de constrangimento ilegal quanto ao não preenchimento dos critérios legais para a decretação da prisão preventiva.
+Efetivamente, não há documentos que comprovem a assertiva de fundamentação genérica da decisão em alusão, de modo que este julgador não pode conhecer do pedido, neste ponto, por não haver subsídios para averiguar a veracidade dos fatos articulados na inicial.
+A propósito, destaco o seguinte precedente desta Corte:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.(RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ante o exposto,não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
