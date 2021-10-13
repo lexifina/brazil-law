@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) em que se apontaviolação dos arts.85, §§ 3º e 8º, do CPC/2015, com pedido expresso de condenação da "Fazenda Nacional em honorários segundo os critérios percentuais do art. 85, § 3º e 5º, do CPC (10% e, no que exceder, 8% e, depois, 5%), com isso desautorizando a aplicação do § 8º do art. 85 fora de suas hipóteses normativas" (fls. 1.421-1.435, e-STJ).
+Conforme deliberação da Segunda Turma do STJ, levando-se em conta a afetação do REsp 1.644.077/PR, do REsp 1.850.512/SP e do REsp 1.877.883/SP (os dois últimos mediante aplicação da técnica de julgamento dos recursos repetitivos), devem ser remetidos às instâncias de origem, para ulterior juízo de adequação (art. 1.040, II, do CPC), os recursos que versem exclusivamente sobre o Tema Repetitivo 1.076/STJ: "Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados".
+Publique-se.
+Intimem-se.
