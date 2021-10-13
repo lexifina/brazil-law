@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo interposto contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) no qual se impugna acórdão assim ementado:
+PREVIDENCIÁRIO. PENSÃO POR MORTE. FILHOS MENORES DE 16 ANOS. REQUISITOS. ÓBITO DO INSTITUIDOR. VÍNCULO DE DEPENDÊNCIA ECONÔMICA PRESUMIDO. CONDIÇÃO DE SEGURADO ESPECIAL COMO TRABALHADOR RURAL VOLANTE, DIARISTA OU BOIA FRIA. NÃO COMPROVAÇÃO. INÍCIO DE PROVA MATERIAL INEXISTENTE. ÚLTIMA QUALIFICAÇÃO URBANA. EMPREGO INFORMAL. AUSÊNCIA DE RECOLHIMENTOS. CONSECTÁRIOS DA SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. INVERSÃO. AJG. INEXIGIBILIDADE TEMPORÁRIA.
+1. A concessão do benefício de pensão por morte depende da ocorrência do evento morte, da demonstração da qualidade de segurado do de cujus e da condição de dependente de quem objetiva a pensão.
+2. A dependência econômica em relação aos  lhos menores de idade é presumida, por força da lei. O deferimento do amparo independe de carência.
+3. A qualidade de segurado especial do de cujus deve ser comprovada por início de prova material, corroborada por prova testemunhal, no caso de exercer atividade agrícola como volante ou boia-fria ou mesmo como trabalhador rural em regime de economia familiar. Como é corrente na jurisprudência, este início de prova material deve ser complementado por uma prova testemunhal convincente e idônea, a dizer que a simples qualificação documental - na maior parte das vezes uma outorga própria - deve constituir- se em mais que uma realidade subjetiva e pessoal, mas uma ocupação de caráter público e notório.
+4. Refutado o labor em meio rural, ante os documentos que atestam a condição de emprego informal e urbano, extrai-se a fragilidade da prova testemunhal colhida, que se incompatibiliza com as evidências materiais acostadas. Como é curial, a comprovação do trabalho rural não admite a prova exclusivamente testemunhal. Os precedentes são unânimes neste sentido, de que um início de prova não há que ser prova cabal, mas deve constituir-se de algum registro (escrito) que possa estabelecer um liame entre o universo fático e aquilo expresso pela prova testemunhal, que se torna frágil em sua ausência.
+5. Invertida a sucumbência, condena-se a parte autora ao pagamento das custas processuais e de honorários advocatícios, estes fixados em 10% sobre o valor da causa atualizado, considerando as variáveis dos incisos I a IV do § 2º e o § 11, ambos do artigo 85 do CPC, suspendendo-se a sua exigibilidade temporariamente em face do benefício da assistência judiciária gratuita.
+Os Embargos de Declaração opostos foram desprovidos.
+Nas razões do apelo especial, a parte recorrente alega violação dos arts. 11, VII, e 26, I, da Lei 8.213/1991; e 5º do Decreto-Lei 4.657/1942, ao argumento de ficou devidamente comprovada a qualidade de segurado do instituidor da pensão.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 31 de agosto de 2021.
+A irresignação não prospera.
+O STJ, no julgamento do Recurso Especial 1.110.565/SE, submetido ao rito do art. 543-C do CPC/1973, firmou entendimento de que a concessão do benefício de pensão por morte condiciona-se ao preenchimento dos requisitos de segurado do falecido, ressalvando-se apenas a hipótese prevista no Enunciado 416 das Súmulas deste Superior Tribunal: "É devida a pensão por morte aos dependentes do segurado que, apesar de ter perdido essa qualidade, preencheu os requisitos legais para a obtenção de aposentadoria até a data do seu óbito."
+O Tribunal de origem, examinando o acervo probatório dos autos, concluiu que não ficou demonstrada a qualidade de segurado do suposto instituidor da pensão por morte, sob os seguintes fundamentos:
+A controvérsia a ser solvida cinge-se à (im)possibilidade de outorga à parte autora, do benefício previdenciário de pensão por morte, em razão do falecimento de sua genitora, segurada especial da previdência social como trabalhadora rural boia fria, da qual eram dependentes.
+(..)
+CASO CONCRETO
+No caso em tela, para comprovar a condição de rurícola, fora juntado:
+Certidão de nascimento da filha Amanda, de 2006, constando profissão do pai como operador de máquinas e da mãe como vendedora autônoma; Certidão de nascimento da filha Thaynara, de 1997, onde consta a ocupação da genitora como do lar (todos em evento1).
+Não há, portanto, qualquer início de prova material que possa fazer a conexão entre a hipótese vestibular e a atividade campesina.
+Mesmo os testemunhos colhidos igualmente relatam que antes de falecer a instituidora já não mais estaria laborando no campo, mas teria migrado para trabalho urbano, alegadamente mais leve. (Evento 63) Ademais, o único recolhimento previdenciário, efetivado apenas 3 (três) dias antes do passamento também não pode ser aproveitado, uma vez que o diagnóstico da causa mortis como neoplasia maligna (em útero) conduz a inferência por um quadro incapacitante que é prévio a tentativa de ingresso no sistema, o que é vedado pela legislação de regência.
+(..)
+Como é curial, a comprovação do trabalho rural não admite a prova exclusivamente testemunhal. Os precedentes são unânimes neste sentido.
+Segundo entendo, início de prova não há que ser prova cabal, mas deve constituir-se de algum registro (escrito) que possa estabelecer um liame entre o universo fático e aquilo expresso pela prova testemunhal, que se torna frágil em sua ausência.
+(..)
+Ausente a qualidade de segurado, impossível o provimento da pensão por morte decorrente. (fls. 348-354, e-STJ)
+Assim, a alteração das conclusões adotadas pela Corte de origem demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.Nessa linha:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. EXERCÍCIO DE ATIVIDADE RURAL. INÍCIO DE PROVA MATERIAL NÃO COMPROVADO. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DURABILIDADE DO BENEFÍCIO. TERMO INICIAL.
+1. A pensão por morte está prevista no art. 74 da Lei 8.213/1991, pago aos dependentes em virtude do falecimento do segurado. Para fazer jus ao referido benefício, é imprescindível que os dependentes comprovem o preenchimento dos requisitos necessários à obtenção, quais sejam: o óbito do de cujus, a relação de dependência entre este e seus beneficiários e a qualidade de segurado do falecido.
+2. In casu, o Tribunal regional consignou: "A qualidade de dependente da autora é incontroversa, eis que viúva do instituidor, conforme comprova a certidão de casamento juntada aos autos (ev. 1.4). (..) tanto a prova documental como a testemunhal comprovam a qualidade de trabalhador rural, até o advento da sua morte (..) a prova material juntada aos autos foi devidamente corroborada pela prova testemunhal colhida no processo, que de forma unânime, confirmou que o "de cujus", sempre trabalhou como boia-fria até à época do óbito" (fl. 172, e-STJ).
+3. O Tribunal de origem consignou que "a autora faz jus ao benefício pelo período de 15 anos, a contar do trânsito em julgado da decisão concessiva" (fl. 286, e-STJ). Ocorre que não há previsão legal para fixar o termo a quo da durabilidade do benefício a partir do trânsito em julgado da decisão. Ademais, no caso dos autos, o acórdão determinou a imediata implantação do benefício (fl. 288, e-STJ), não havendo que se aguardar, assim, o trânsito em julgado da ação para que se inicie a contagem do prazo de duração do benefício.
+Dessa forma, entendo que o termo inicial da contagem deve observar, por analogia, o disposto no art. 74 da Lei 8.213/1991, ou seja, a DIB. No caso dos autos, o Tribunal de origem manteve a DIB fixada na sentença, qual seja "a contar da DER em 01/06/2016" (fl. 284, e-STJ), devendo ser esse o termo inicial da contagem de duração da pensão pro morte, conforme requerido pelo recorrente.
+5. Recurso Especial parcialmente conhecido e, nessa extensão, provido para fixar o termo inicial da contagem de duração do benefício a partir da DIB.
+(REsp 1.801.172/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/6/2019)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RURAL. PENSÃO POR MORTE. ATIVIDADE RURAL NÃO COMPROVADA. FALTA DE QUALIDADE DE SEGURADO. REAVALIAÇÃO PROBATÓRIA QUE CONFIRMA A IMPROCEDÊNCIA DO PEDIDO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Se o falecido não se enquadra efetivamente como Segurado Especial (art. 11, VII, da Lei 8.213/1991), revela-se indevida a concessão de pensão por morte aos seus dependentes.
+2. No caso dos autos, o Tribunal de origem, competente para a análise das provas dos autos, ao negar à autora o benefício de pensão por morte, consignou que de acordo com o extrato do CNIS, juntado às fls. 43, o de cujus migrou para as atividades urbanas em 1.7.1992, tendo ocorrido a descaracterização de sua condição de trabalhador rural.
+3. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 660.882/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 19/12/2018)
+Ante o exposto,conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
