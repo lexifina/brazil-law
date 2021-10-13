@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto PARQUE SÃO BENTO EMPREENDIMENTOS IMOBILIÁRIOS LTDA., contra a decisão de fls. 601-603 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 561, e-STJ):
+RESTITUIÇÃO DE VALORES. Sentença de Procedência parcial. Comprador que não teria pago quota parte de valores relativos a melhoramentos e infraestrutura do loteamento. Quitação integral das prestações pelos autores. Valores relativos a melhoramentos que devem ser cobrado em ação própria. Rescisão contratual indevida. Aplicação da teoria do adimplemento substancial. Dever de restituir as parcelas, devidamente corrigidas. Impossibilidade de indenização pelo valor atual de mercado. Danos morais não configurados. Recursos desprovidos.
+Nas razões do recurso especial (fls. 576-590, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 418, 419, 476, 884 do Código Civil de 2002; e 14 do Decreto-Lei 58/1937.
+Sustentou, em síntese:
+(i)ser incontroverso nos autos o inadimplemento integral, por parte das recorridas, das obrigações contratualmente previstas, relativas ao pagamento da taxa de infraestrutura do empreendimento, motivo pelo qual a rescisão contratual foi efetuada, nos termos do permissivo legal e no contrato entabulado entre as partes, motivo pelo qual indevida a indenização concedida pelo Tribunal de origem;
+(ii)que, à época da aquisição do lote, as adquirentes tinham pleno conhecimento da existência da referida taxa, com a qual anuíram, tanto pela assinatura do contrato quanto pelo registro do instrumento mediante averbação na matrícula do imóvel;
+(iii)em razão da rescisão contratual, o referido lote foi revendido a terceiros de boa-fé, os quais cumpriram integralmente com as obrigações contratuais; e
+(iv)fazer jus à retenção dos valores pagos a título de entrada (arras) considerando que a rescisão contratual se deu por culpa das recorridas; bem como do importe de 25% a 30% dos valores efetivamente por ela pagos.
+Em juízo de admissibilidade (fls. 601-603, e-STJ), a Corte de origem negou o processamento do recurso especial pelos seguintes fundamentos:a) não houve demonstração das vulnerações legais suscitadas; e b) aplicação da Súmula 7/STJ para revisão das conclusões estaduais.
+Irresignada (fls. 606-611, e-STJ), aduz a agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Sem contraminuta, conforme certificado à fl. 613 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novoCódigo de Processo Civil. Sendo assim, sua análise obedecerá ao regramentonele previsto. Portanto, aplica-se, na hipótese, o EnunciadoAdministrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016,segundo o qual "aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que diz respeito à alegada afronta ao art. 14 do Decreto-Lei 58/1937, constata-se que o conteúdo do citado normativo nãofoi objeto de exame pela instância ordinária, nem foram opostos embargosde declaração a fim de suscitar a discussão dos temas neles contidos,razão pela qual incidem, na espécie, as Súmulas 282 e 356 do SupremoTribunal Federal, nestes termos:
+Súmula 282. É inadmissível o recurso extraordinário, quando não ventilada,
+na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos
+embargos declaratórios, não pode ser objeto de recurso extraordinário, por
+faltar o requisito de prequestionamento.
+No que se refere às alegações - de fazer jus à retenção dos valores pagos a título de entrada (arras) considerando que a rescisão contratual se deu por culpa das recorridas; bem como do importe de 25% a 30% dos valores efetivamente por elas pagos- cumpre assinalar que orecurso especial é de fundamentação vinculada, no qual o efeito devolutivose opera tão somente nos termos do que foi impugnado.
+Assim, a ausência de indicação dos artigos tidos por vulnerados nãopermite verificar se a legislação federal infraconstitucional ficou, ounão, malferida, sendo de rigor a incidência da Súmula n. 284 doSupremo Tribunal Federal.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. RECUSA NA COBERTURA DE TRATAMENTO DE CÂNCER. REEMBOLSO NOS LIMITES DA TABELA DO PLANO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AFASTAMENTO DA CONDENAÇÃO POR DANO MORAL. FALTA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alegação de que o reembolso deve ser realizado nos limites das obrigações contratuais não foi deduzida no recurso especial, o que inviabiliza sua veiculação diretamente em agravo interno, por configurar inovação recursal.
+3. Em relação ao descabimento da condenação ao pagamento de indenização por danos morais, o recorrente não indicou o artigo de lei federal eventualmente violado, fazendo incidir à hipótese, por analogia, o óbice da Súmula nº 284 do STF, aplicável também ao recurso especial interposto pela alínea c do permissivo constitucional.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido (AgInt no AgInt no AREsp 1.683.359/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 23/09/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. ALEGAÇÃO GENÉRICA DE CONTRARIEDADE A DISPOSITIVOS LEGAIS. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A falta de indicação do artigo de lei eventualmente violado, bem como a arguição de ofensa ao dispositivo legal de forma genérica, sem demonstração efetiva da contrariedade, configura deficiência na fundamentação, justificando a incidência da Súmula n. 284 do STF.
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, entender pela ocorrência de cerceamento de defesa, pela ausência de razoabilidade e proporcionalidade da decisão que fixou o pagamento de pensão vitalícia e pela redução do valor fixado a título de danos morais demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento (AgInt nos EDcl no AREsp 1.829.293/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/08/2021, DJe 01/09/2021).
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 562-564 e 566-567, e-STJ, sem grifos no original):
+Houve a quitação integral das prestações por parte dos autores, no que se refere ao preço ajustado pelo lote compromissado.
+Isso, por si só, afasta a aplicabilidade da cláusula segunda da avença, que permite a rescisão contratual somente na hipótese de "atraso no pagamento de 3 (três) prestações, consecutivas ou não".
+Assim, não se inclui nas hipóteses de rescisão o não pagamento dos valores relativos aos melhoramentos de infraestrutura exigidos na cláusula décima terceira do contrato.
+Ademais, mesmo que se admitisse o descumprimento da cláusula décima terceira do contrato, não haveria que se falar em rescisão contratual em virtude do inadimplemento mínimo, porquanto o principal da dívida foi quitado, nos termos contratados, sob pena de flagrante desproporcionalidade e violação aos princípios da boa-fé e equilíbrio contratual, basilares das relações contratuais.
+O melhor entendimento, adotado por inúmeros julgados do Superior Tribunal de Justiça, é o de que a extinção do contrato por inadimplemento do devedor somente se justifica quando a mora causa ao credor dano de tal envergadura que não lhe interessa mais o recebimento da prestação devida, pois a economia do contrato está afetada.
+(..)
+Em outras palavras, o exercício do direito potestativo de resolução do contrato deve guardar correlação com a relevância do inadimplemento, sob pena de se converter em abuso de direito.
+(..)
+Evidente que a gravidade do descumprimento, capaz de levar à resolução do contrato, deve ser aferida caso a caso.
+(..)
+Em poucas palavras, não se nega à autora o direito de executar o contrato, em virtude do confessado inadimplemento parcial da obrigação do apelado, comprador. O que não se admite é que o não pagamento de poucas parcelas implique a resolução do contrato.
+(..)
+Dessa forma, incumbe aos Apelantes buscar a tutela jurisdicional pelas vias ordinárias para a satisfação dos valores que entendem inadimplidos a título de melhoramentos e infraestrura.
+(..)
+Por tais razões, uma vez demonstrado o exclusivo descumprimento contratual da Apelante, e, restando impossibilitada a reintegração de posse, exsurge o dever de indenizar, consistente na restituição dos valores pagos pelo lote, devidamente atualizados na forma estabelecida em sentença, não havendo que se falar em indenização pelo valor de mercado, sob pena de enriquecimento sem causa por parte dos autores.
+Dessa forma, reverter a conclusão do Tribunal de origem, paraacolher a pretensão recursal nos moldes em que pretendido, demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, dado os óbices das Súmulas 5 e 7/STJ.
+Não é demais acrescentar que as próprias razões recursais remetem à necessidade, para confirmá-las, de reexame da prova dos autos.
+Ademais, o Tribunal de origem concluiu que a cobrança dos valores relativos à taxa de infraestrutura deveria ser efetuada por meio de ação própria para esse fim.
+Contudo, não tratou a recorrente de impugnar tal fundamento, cujasubsistência inviabiliza a apreciação do recurso especial e propicia oconsequente desprovimento do presente agravo, pela aplicação da Súmula n.283 do STF: "É inadmissível o recurso extraordinário, quando a decisãorecorrida assenta em mais de um fundamento suficiente e o recurso nãoabrange todos eles".
+Diante do exposto, conheço do agravo para não conhecer do recursoespecial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honoráriossucumbenciais fixados em favor do patrono da parte recorrida em R$ 1.000,00 (mil reais).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL INDEVIDA. RESTITUIÇÃO DE VALORES DESEMBOLSADOS PELAS COMPRADORAS. PREQUESTIONAMENTO DO ARTIGO DE LEI TIDO POR VIOLADO NÃO EFETUADO. SÚMULAS 282 E 356/STF. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AUSÊNCIA DEIMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
