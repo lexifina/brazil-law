@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial por incidência da Súmula 7/STJ e ausênciade ofensa ao art. 1.022 do CPC.
+A questão gira em torno das denominações "tarifa de excesso de limite" ou "adiantamento à depositante" a justificar a incidência de ISSQN.
+Itaú Unibanco S.A. alega, em suas razões recursais, que houve ofensa ao disposto nos artigos 373, I, 464 e 473 do Código de Processo Civil, 110 do Código Tributário Nacional e 1º da Lei Complementar nº 116/2003. Defende:
+Como se verifica da transcrição acima a decisão de inadmissibilidade data máxima venha excedeu em sua competência ao adentrar no mérito do recurso destinado ao C. Superior Tribunal de Justiça.
+ ..
+A decisão de inadmissibilidade não pode, nem merece prosperar quanto aos fundamentos de contrariedade a súmula 7/STJ, visto que a análise da matéria não demanda revisão de fatos e provas.
+ ..
+Conforme se depreende da transcrição acima, a multa foi fixada sob o fundamento de que não foram vislumbrados no julgado os vícios apontados pelo recorrente, assim não há qualquer necessidade de se revisitar fatos e fundamentos, mas tão somente o teor do recurso interposto.
+ ..
+Com efeito, o próprio Recurso Especial em análise, ao discutir o dissídio jurisprudencial, trouxe precedente do e. STJ em que foi analisada a não incidência de ISS sobre o "adiantamento a depositantes", superando-se o óbice da súmula 7 do e. STJ.
+ ..
+Discute-se, portanto, se nos termos do art. 1º da LC 116/03 c/c " art. 110 do CTN, basta a cobrança de tarifa para se configurar o fato gerador do ISS.
+ ..
+Não se trata, portanto, de rediscussão dos fatos e provas. Assim, o Recurso Especial, que busca o reenquadramento legal das atividades autuadas não pode encontrar óbice na supracitada súmula 7 do STJ. Ademais, inexistindo o óbice da súmula 7 do e. STJ quanto à tese de ofensa a Lei Federal, não pode prosperar o despacho denegatório também quanto à análise do dissídio jurisprudencial.
+ ..
+Conforme citado acima, se vê que não como falar em ausência de identidade das decisões, visto que, por citarem resolução do Banco Central do Brasil os Acórdãos descrevem as atividades tributadas de forma idêntica. Assim, a inadmissão do Recurso Especial não pode prevalecer.
+Contraminuta às fls. 582-586, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8 de setembro de 2021.
+O Superior Tribunal de Justiça entende que não há usurpação de competência quando o Tribunal local não admite o Recurso Especial sob o fundamento da inexistência de contrariedade ou negativa de vigência à lei federal, pois, conforme tem reiteradamente decidido esta Corte, é possível o juízo de admissibilidade adentrar ao mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia (AgRg no Ag 173.195/SP, Rel. Min. Sálvio de Figueiredo Teixeira, Quarta Turma, DJ 21.9.1998).
+O Tribunal de origem consignou no recurso integrativo (fls. 506-512, e-STJ):
+Apesar da discordância da embargante, o acórdão deixou claro o posicionamento adotado pela Turma Julgadora acerca da aplicação do disposto no precedente do AREsp 669.755/RJ e nos arts. 464 c/c 473, CPC. Neste sentido, confiram-se trechos do julgado: ..
+Ou seja, é imprescindível que se analise se o contrato prevê a cobrança pelo serviço independentemente da aprovação do crédito, caso em que o serviço não constituirá atividade meio.
+Sem a produção da referida prova, com a juntada do contrato que ensejou a cobrança da tarifa, não há como avaliar se a incidência do ISSQN no caso se deu sobre atividade meio ou atividade fim.
+Bem assim, o que se infere do laudo pericial de fls. 311/326 é que a atividades autuadas encontram previsão nos subitens do item 15 da Lista Anexa à Lei Complementar nº 116/2003 e "todas trataram - se de remunerações passíveis de tributação", conforme resposta ao quesito nº 4 do embargante.
+Bem assim, em resposta ao quesito nº 1 do embargado o laudo pericial esclareceu que "analisando os documentos juntados aos autos, entendemos que todos os serviços descritos nos Mapas de Apuração são susceptíveis de incidência do IMPOSTO SORE SERVIÇOS DE QUALQUER NATUREZA  ISSQN".
+A embargante não se desincumbiu do ônus da prova para desconstituir a presunção iuris tantum de legalidade da autuação fiscal.
+Conforme Relatório de fl. 70 a questão sequer foi objeto de processo administrativo para que fosse analisada a ocorrência de recolhimento centralizado e, conforme planilha juntada unilateralmente pelo apelante às fls. 149/150, os valores apresentados a título de recolhimento centralizado buscam enquadrar as agências 8276, 9164 e a centralizadora 0321 em um mesmo recolhimento, mas o valor total mostra-se divergente do total devido.
+Como a questão não foi tratada pela prova técnica e há divergência em relação à planilha apresentada pela apelante, há que prevalecer a presunção de legalidade da autuação fiscal.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+Da leitura atenta do voto condutor, vê-se que o Tribunal de origem manifestou-se de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais a recorrente alega omissão.
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos artigos 489 e 1.022 do CPC/2015.
+A revisão da conclusão a que chegou o acórdão recorrido, respaldada em laudo pericial, de que as contas consideradas pelo fisco correspondem ou não à prestação de serviços bancários tributáveis pelo ISS, pressupõe o reexame de matéria fático-probatória, inviável no âmbito do Recurso Especial, nos termos da Súmula 7 do STJ. (AgInt nos EDcl no AREsp 163.723/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 3.5.2018).
+Veja-se ainda:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 535, II, DO CPC/1973. INOCORRÊNCIA. ISSQN. SERVIÇOS BANCÁRIOS. LISTA DE SERVIÇOS TAXATIVA. INTERPRETAÇÃO EXTENSIVA. POSSIBILIDADE. RECURSO ESPECIAL REPETITIVO 1.111.234/PR. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Não se configura a alegada ofensa ao art. 535, II, do CPC/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco correção de erro material, mas sim inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da recorrente.
+2. O órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentam. Precedentes do STJ.
+3. A Corte a quo decidiu em consonância com o entendimento do STJ, de que "é taxativa a Lista de Serviços anexa ao Decreto-lei 406/68, para efeito de incidência de ISS, admitindo-se, aos já existentes apresentados com outra nomenclatura, o emprego da interpretação extensiva para serviços congêneres", firmado no julgamento do Recurso Especial repetitivo 1.111.234/PR.
+4. Dessume-se, assim, que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+5. Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal. Nesse sentido: AgRg no AREsp 677.039/SC, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 5.5.2015; AgRg nos EDcl no REsp 1.459.299/DF, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 31.3.2015.
+6. A parte recorrente afirma que: a) o acórdão vergastado não realizou a devida demonstração da correlação entre as atividades autuadas e os serviços elencados na Lista de Serviços anexa a Lei Complementar 116/2003; b) a natureza das receitas autuadas é incontroversa; c) a decisão recorrida desconsiderou o fato de que a presente demanda versa sobre matéria de direito.
+7. Ao dirimir a controvérsia, a Corte de origem consignou de forma expressa: "(..) os serviços Renda de Adiantamento a Depositante e Renda de Outros Serviços "Tarifa Excesso de Limite - Realmaster", "Tarifa de Encerramento de conta corrente" e "Tarifa de Excesso de Limite - Real Empresa", embora não registrados de forma categórica na lista dos serviços tributados, cumpre destacar que o ponto principal para cobrança do imposto é a real natureza do serviço prestado, e não, exatamente sua denominação, sua nomenclatura".
+8. Rever o entendimento do acórdão recorrido, quanto ao enquadramento das atividades autuadas ou às provas apresentadas, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+9. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.761.018/MT, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17.12.2018)
+Sem motivos para a reforma do juízoprelibatório.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
