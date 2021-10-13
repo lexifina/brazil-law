@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte (fl. 44, e-STJ):
+Ação cautelar incidental conexa a execução fiscal. ICMS. Indeferimento do pedido de extinção. Alegação de falta de observância do prazo de sessenta dias, a contar da determinação de indisponibilidade, para promover o redirecionamento da execução em face dos corresponsáveis pelo débito fiscal. Medida cautelar incidental que não se sujeita ao prazo do art. 11 da Lei n. 8397/92. Não ocorrência de cessação da eficácia da medida cautelar. Decisão mantida. Agravo de instrumento não provido.
+As partes agravantes, nas razões do Recurso Especial, alegam que ocorreu, além de divergência jurisprudencial, violação dos arts. 11 e 13, I, da Lei 8.397/1992. Afirmam que a decisão recorrida deve ser reformada "com o fito de extinguir a medida cautelar fiscal de origem em relação às recorrentes" (fl. 79, e-STJ). Sustentam, em suma, que a Fazenda do Estado de São Paulo está obrigada a redirecionar a execução em face dos corresponsáveis pelo débito fiscal no prazo de 60 dias a contar da determinação de indisponibilidade dos bens.
+Contrarrazões apresentadas às fls. 4.258-4.279, e-STJ.
+O recurso foi inadmitido na origem (fls. 4.280-4.281, e-STJ), o que deu ensejo à interposição do Agravo de fls. 4.284-4.308, e-STJ. Contraminuta às fls. 4.317-4.340, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.9.2021.
+A irresignação não merece prosperar.
+Na hipótese dos autos, o acolhimento da pretensão recursal esbarra no óbice da Súmula 7/STJ. Isso porque o acórdão recorrido não delimitou os marcos temporais necessários para se mensurar a suposta perda de eficácia da medida cautelar fiscal pelo transcurso do prazo previsto em lei. Nesse panorama, não cabe ao STJ, na via especial, sobrepor aos elementos fáticos processuais necessários para a análise detida da matéria. A propósito, confira o seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO OCORRÊNCIA. MEDIDA CAUTELAR FISCAL. CESSAÇÃO DA EFICÁCIA POR DECURSO DO PRAZO. SÚMULA 7/STJ. QUESTIONAMENTO DA IDONEIDADE E DA VALORAÇÃO DAS PROVAS CONSIDERADAS PARA SE CONCLUIR NA PRÁTICA DE FRAUDE EMPRESARIAL NA FORMAÇÃO DE GRUPO ECONÔMICO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa aos artigos 489, § 1º, IV, e 1.022, incisos I e II, do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide, fundamentando seu proceder de acordo com os fatos apresentados e com a interpretação dos regramentos legais que entendeu aplicáveis, demonstrando as razões de seu convencimento.
+2. O Tribunal de origem, soberano na análise dos fatos e provas produzidas na demanda, não delimitou os marcos temporais necessários para se mensurar uma suposta perda de eficácia da medida cautelar fiscal, pelo transcurso do prazo previsto em lei. Neste sentido, não cabe a esta Corte sobrepor aos elementos fáticos processuais necessários para a análise detida da matéria, razão pela qual, neste sentido recai na pretensão, o óbice da Súmula 7/STJ.
+3. O STJ possui firme jurisprudência no sentido de que o Magistrado não está obrigado a julgar a questão posta a seu exame de acordo com o entendimento das partes, mas, sim, conforme sua orientação, utilizando-se de provas, fatos e aspectos pertinentes ao tema. Nesse contexto, não configura violação ao art. 373 do CPC/2015 quando o Julgador, entendendo substancialmente instruído o feito, motiva a sua decisão na existência de elementos suficientes para formação da sua convicção, conforme o princípio do livre convencimento motivado ou da persuasão racional, tal como feito na hipótese. Incidência, no ponto, da Súmula 83/STJ, aplicável a ambas as alíneas autorizadoras.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.874.400/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 18/12/2020, grifos acrescentados)
+Ademais, a Corte de origem, ao dirimir a controvérsia, assim se manifestou (fls. 47-48, e-STJ):
+Não bastasse, o julgado do STJ citado pelo agravante tem como razão de decidir a mesma regra inserta no art. 806 do CPC/73, ou seja, evitar que o requerente credor, protegido por medida cautelar, protele a propositura da ação principal, em prejuízo do requerido, o que não ocorreu aqui, posto já haver execução fiscal em curso em face da devedora original e seus corresponsáveis. Não se mostra razoável e prudente, então, reconhecer a cessação da eficácia da medida cautelar, na forma pretendida pelo agravante.
+Há que se assegurar a efetividade da execução fiscal, cujo débito envolve valor elevado e suposto esquema complexo de ilicitudes tributárias.
+In casu, as insurgentes, nas razões do Recurso Especial, olvidaram-se de impugnar o embasamento acima transcrito e grifado. Remanescendo no julgado objurgado fundamento suficiente para a manutenção da sua conclusão e contra o qual não se insurgiram as partes recorrentes, afigura-se inviável o processamento do Recurso Especial ante a incidência, por analogia, do óbice da Súmula 283/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. (..) FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+(..)
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+(..)
+6. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1.754.246/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 13/2/2019)
+Por fim, consoante a jurisprudência do STJ, "uma vez aplicada a Súmula 7/STJ, quanto à alínea "a", fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal" (AgInt no AREsp 1.651.863/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 2/9/2021). Na mesma linha: AgInt no REsp 1.510.202/PE, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 9/9/2021; AgInt no AREsp 1.794.551/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 31/8/2021; AgInt no AREsp 1.533.261/SP, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 19/8/2021.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
