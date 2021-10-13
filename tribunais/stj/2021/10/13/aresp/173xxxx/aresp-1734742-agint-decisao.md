@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 929/930 e-STJ, proferida pelo Ministro Presidente do STJ, que aplicou ao recurso especial interposto o óbice processual do enunciado 182 da Súmula do STJ, dada a inexistência de impugnação à aplicação da Súmula n. 83/STJ.
+O agravante sustenta, em síntese, que o princípio da dialeticidade foi cumprido quando da interposição do agravo em recurso especial.
+À vista dos fundamentos expostos, reconsidero a decisão agravada, pois a matéria foi devidamente impugnada nas razões expostas às fls. 876/880 e-STJ. Passo à análise do agravo em recurso especial especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE PASSIVA. ARGUIÇÃO. IMPOSSIBILIDADE. EFICÁCIA PRECLUSIVA DA COISA JULGADA. NULIDADE DOS ATOS PROCESSUAIS. CASO CONCRETO. NÃO VERIFICAÇÃO. INTIMAÇÕES REGULARES EM NOME DOS ADVOGADOS CONSTITUÍDOS NOS AUTOS. DECISÃO AGRAVADA MANTIDA.
+1. Em sede de cumprimento de sentença, não se admite discussão sobre a legitimidade da parte para ser demandada no processo de conhecimento, mas tão somente na execução, dada a eficácia preclusiva da coisa julgada.
+2. Não se vislumbra nulidade dos atos processuais, quando as intimações foram feitas em nome dos procuradores constituídos nos autos, até a notícia da incorporação do banco réu por outra instituição financeira e a nomeação de novo advogado pela incorporadora.
+3. Agravo de instrumento conhecido e não provido.
+A parte agravante sustenta que o acórdão estadual é omisso. Argumenta que não poderia ser condenado no processo, pois não há sucessão universal entre o patrimônio do Banco Bamerindus e o Banco HSBC, ao contrário. Afirma que o Banco Sistema é anova razão social do Banco Bamerindus, por isso não é parte legítima para responder pelo débito expresso na sentença que julgou a segunda fase da ação de prestação de contas.
+Quanto à alegada violação ao art. 1.022, II, do Código de Processo Civil, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Quanto ao mais, inviável o inconformismo, pois a parte não logrou infirmar o fundamento do acórdão recorrido segundo o qual o art. 525, §1º, II, do Código de Processo Civil de 2015 (artigo 475-L, IV, do Código de Processo Civil de 1973), só admite a discussão, em sede de cumprimento de sentença, acerca da ilegitimidade passiva, quando esta for superveniente ao título exequendo - caso distinto dos autos. Incide, quanto ao tema, o verbete sumular n. 283/STF.
+Além disso, não merece reparos o entendimento segundo o qual a matéria da legitimidade foi objeto de discussão no processo de conhecimento, e foi decidida de forma desfavorável ao agravante, incidindo quanto a ela os efeitos da preclusão, o que impede sua rediscussão, a despeito de se tratar de matéria de ordem pública. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE PASSIVA AD CAUSAM.
+INCORPORAÇÃO DA INSTITUIÇÃO FINANCEIRA DEVEDORA PELO RECORRENTE. MATÉRIA DECIDIDA E NÃO IMPUGNADA. COISA JULGADA MATERIAL. PRECLUSÃO PRO JUDICATO. OMISSÃO. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência consolidada pelo Superior Tribunal de Justiça, "as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já foram objeto de anterior manifestação jurisdicional" (AgInt no REsp 1.756.189/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe de 12/06/2020).
+2. Uma vez reconhecida a preclusão da matéria relativa à ilegitimidade passiva da parte, o exame das demais questões correlatas ao tema, arguidas no agravo de instrumento, ficou prejudicado, não havendo que se falar em omissão.
+3. "A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa.
+Nessa linha, o juiz não precisa, ao julgar procedente a ação, examinar-lhe todos os fundamentos. Se um deles é suficiente para esse resultado, não está obrigado ao exame dos demais" (EDcl no REsp 15.450/SP, Rel. Ministro ARI PARGENDLER ,SEGUNDA TURMA, DJ de 6/5/1996).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1027166/PE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/12/2020, DJe 01/02/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ILEGITIMIDADE DO EXEQUENTE. INEXISTÊNCIA DO TÍTULO EXECUTIVO. DECISÃO ANTERIOR. TESES NÃO REBATIDAS EM MOMENTO OPORTUNO. QUESTÕES DE ORDEM PÚBLICA. PRECLUSÃO CONSUMATIVA. POSSIBILIDADE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça manifesta-se no sentido de que se sujeitam ""à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio"" (REsp 1.745.408/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Rel. p/ Acórdão Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/03/2019, DJe 12/04/2019).
+2. No caso em exame, além de os temas referentes à ilegitimidade ativa do recorrido e à inexigibilidade do título de crédito já terem sido objeto de decisão, não foram impugnados pela recorrente em momento oportuno.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1842557/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
