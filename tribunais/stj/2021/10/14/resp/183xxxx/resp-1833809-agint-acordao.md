@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Na origem, trata-se de exceção de pré-executividade objetivando o reconhecimento de litispendência. Por sentença, o processo foi extinto.No Tribunal a quo, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+EXECUÇÃO FISCAL. ART. 19,1 §1º DA LEI Nº 10.522. INAPLICABILIDADE. CONDENAÇÃO AO PAGAMENTO DE VERBA HONORÁRIA. ART. 85, §3º, INCISO II, DO NCPC. RECURSO DESPROVIDO.
+- E. STJ já se posicionou, por ocasião do julgamento dos Embargos de Divergência em Recurso Especial - EREsp 1120851/RS, acolhendo a divergência para que nas hipóteses em que houver o reconhecimento da procedência do pedido pela Fazenda Nacional, ao ser citada para apresentar resposta, deverá ser afastada a condenação em honorários advocatícios, nos termos do art. 19, § 1.", I, da Lei nº10.522/02.
+- O reconhecimento do pedido por parte da Fazenda Nacional ocorreu apenas em sede de resposta à exceção de pré-executividade apresentada pelo devedor, ou seja, após a contratação de advogado para defender-se, razão pela qual de rigor a sua condenação ao pagamento de verba honorária. Vale dizer que o art. 19, §1º, da Lei nº 10.522 dispõe que para que a Fazenda não sofra condenação em honorários advocatícios, é preciso que reconheça expressamente a procedência do pedido quando citada para apresentar resposta, sem que haja pretensão resistida, situação diversa da apresentada no presente caso .
+- O art. 85, §3, inciso II, do NCPC, que se tratando de causas em que figura como parte a Fazenda Nacional e cujo proveito econômico obtido revela-se acima de quatrocentos salários  mínimos, de rigor a manutenção do :quantum de 8% sobre o valor da causa atualizado, conforme arbitrado na sentença de primeiro grau, em razão da sua razoabilidade.
+-Recurso desprovido.
+No recurso especial, a parte recorrente aponta como violados os arts. 489 e 1022 do CPC/2015, alegando omissão acerca de questões por ela apresentadas.
+Adiante, indica como ofendido o art. 19, §1º, da Lei 10522, afirmando serisenta da condenação em honorários, tendo em vista ter reconhecido o pedido na exceção de pré-executividade.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar a exclusão dos honorários advocatícios em desfavor da Fazenda Nacional."
+Interposto agravo interno, a parte agravante alega que o recurso especial da parte agravada seria inadmissível, ante a incidência das súmulas 211/STJ e 284/STF, além de sustentar, resumidamente, que:
+A reconhecimento da litispendência não está no rol das matérias do art. 19 ou do art. 18 da Lei 10.522/2002, razão pela qual não há amparo legal para a isenção da FN ao pagamento de honorários advocatícios em execução fiscal proposta em duplicidade e extinta por litispendência.
+ ..
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO PELA FAZENDA NACIONAL DA PROCEDÊNCIA DO PEDIDO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. REDAÇÃO DADA PELA LEI N. 12.844/2013. NÃO CABIMENTO. PRECEDENTES.
+I - Na origem, trata-se de exceção de pré-executividade objetivando o reconhecimento de litispendência. Por sentença, o processo foi extinto. No Tribunal a quo, a sentença foi mantida. Nesta Corte, foi dado provimento ao recurso especial.
+II - De acordo com a atual redação do inciso I do § 1º do art. 19 da Lei n. 10.522/2002, que foi dada pela Lei n. 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002, não sendo mais aplicável o entendimento no EREsp 1.215.003/RS, julgado em 28/03/2012. No mesmo diapasão, confiram-se: REsp 1759051/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 13/12/2018, DJe 18/12/2018 e AgInt no AREsp 1544450/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/12/2019, DJe 12/12/2019.
+III -Correta, portanto, a decisão monocrática que deu provimento ao recurso especial da Fazenda Nacional.
+IV - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+A Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp 1.119.820/PI, Relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgInt no REsp 1865084/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/08/2020, DJe 26/08/2020; AgRg no REsp 1.429.300/SC, Relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag 1.421.517/AL, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014).
+De acordo com a atual redação do inciso I do § 1º do art. 19 da Lei n. 10.522/2002, que foi dada pela Lei n. 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002, não sendo mais aplicável o entendimento no EREsp 1.215.003/RS, julgado em 28/03/2012.
+No mesmo diapasão, confiram-se:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO PELA FAZENDA NACIONAL DA PROCEDÊNCIA DO PEDIDO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. REDAÇÃO DADA PELA LEI N. 12.844/2013. NÃO CABIMENTO. PRECEDENTES.
+I - Com o advento da Lei n. 12.844/2013, prevalece o entendimento de que "a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002." (AgInt no AgInt no AREsp n. 886.145/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, Dje em 25/5/2016).
+II - Recurso especial improvido.
+(REsp 1759051/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 13/12/2018, DJe 18/12/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. CONDENAÇÃO DA FAZENDA NACIONAL EM HONORÁRIOS DE ADVOGADO. DESCABIMENTO. ART. 19, § 1º, I, DA LEI 10.522/2002 (COM A REDAÇÃO DADA PELA LEI 12.844/2013). APLICABILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. "De acordo com a atual redação do inciso I do § 1º do art. 19 da Lei n. 10.522/2002, que foi dada pela Lei n. 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002" (AgInt no AgInt no AREsp 886.145/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/11/2018, DJe 14/11/2018).
+4. Agravo interno não provido.(AgInt no AREsp 1544450/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/12/2019, DJe 12/12/2019)
+Correta, portanto, a decisão monocrática que deu provimento ao recurso especial da Fazenda Nacional.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
