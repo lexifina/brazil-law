@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DARIANO DE ALMEIDA CAMPOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2202832-56.2021.8.26.0000).
+Opaciente teve a prisão em flagrante convertida em preventiva e foi denunciado porsuposta prática dos delitos descritos nos arts. 33, caput, e 35, caput, c/c o art. 40, III, todos da Lei n. 11.343/2006,c/co art.61, II, j, do Código Penal.
+O decreto prisional fundou-se na reincidência específica dopaciente.Impetrado writ originário, a ordem foi denegada.
+A defesa sustenta a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea do decreto preventivo, tendo em vista a inexistência de elementos concretos a justificar a necessidade de segregação.
+Alega que o flagrante foi realizado por guardas civismunicipais, que exerceramilegalmente atividade de polícia.
+Requer a concessão da ordem para que seja revogada a prisão preventiva e trancada a ação penal, desentranhando-se dos autosas provas obtidas em decorrência da prisão em flagrante do paciente.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fl. 71):
+ ..  A manutenção da custódia cautelar do autuado DARIANO DE ALMEIDA é medida que se impõe, pois o autuado deu mostras de que faz do comércio ilícito seu meio de vida, tratando-se de indivíduo reincidente específico (fls.29/34), observando-se que estava cumprindo pena em meio aberto (fls. 33),denotando-se que a condenação anterior não foi suficiente para demovê-lo da conduta ilegal, pois voltou ao comércio ilícito, de modo que se for colocado em liberdade certamente voltará a delinquir, sendo necessária a custódia para garantia da ordem pública.
+ ..
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No caso,a reincidência específica dopaciente foi consideradapelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Registre-se que a reincidência específica evidencia maior envolvimento dopaciente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No que diz respeito àilegalidade das provas obtidas na abordagem realizada por integrantes da guarda municipal, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
