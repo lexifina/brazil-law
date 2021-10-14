@@ -1,0 +1,47 @@
+DECISÃO
+Este agravo interno foi interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial manejado, porque não teria sido impugnado, especificamente, o fundamento adotado pelo Tribunal local alusivo à incidência ao caso da Súmula 83/STJ (e-STJ, fls. 264-266).
+Em suas razões, a agravanteafirma ter combatido, de modo específico,a aplicação do óbice da Súmula 83/STJ, o que motivou pedido de reforma da decisão agravada.
+Não houve impugnação(e-STJ, fl. 282).
+Brevemente relatado, decido.
+Em nova análise dos autos, verifico haver plausibilidade nas alegações da agravante quanto à impugnação realizada, razão pelaqual, com fundamento no art. 259, caput, do RISTJ, reconsidero a decisão de fls. 264-266(e-STJ) e passo a novo exame do agravo em recurso especial.
+Trata-se de agravo interposto por Irmandade de Nossa Senhora das Graças contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça de Minas Geraisassim ementado (e-STJ, fl. 206):
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - CONTRATAÇÃO -COMPROVAÇÃO DA PRESTAÇÃO DE SERVIÇOS - DÍVIDA - EXISTÊNCIA - FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR - AUSÊNCIA - CORREÇÃO MONETÁRIA - JUROS DE MORA - TERMO INICIAL - VENCIMENTO DA DÍVIDA - VALOR COBRADO INDEVIDAMENTE - RESTITUIÇÃO EM DOBRO- MÁ FÉ- NÃO COMPROVAÇÃO - INAPLICABILIDADE DO ART. 940, CC.- Comprovada a existência da dívida, incumbe ao devedor provar existência de fato impeditivo, modificativo ou extintivo do direito do autor (CPC, art. 373, II). Ausente essa prova, a cobrança da dívida é procedente.- O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor (CC, art.397), devendo, a partir daí, ter incidência de correção monetária e juros moratórios.- Não há que se falar em restituição em dobro da cobrança por dívida já paga se não comprovada a existência de má fé do suposto credor, afastando a incidência do artigo 940 do Código Civil
+Nas razões do recurso especial, a recorrente apontou violação aos arts. 240 do CPC/2015;405 e 940, ambos do Código Civil; e1º, § 2º, da Lei n. 6.89919/81(e-STJ, fls. 216-224).
+Sustentouque o marco inicial para o cômputo dos encargos moratórios deve ser a data da citação e que a correção monetária só deve incidir apartir do ajuizamento da ação de cobrança.
+Além disso, defende que arepetição do indébito deve se dar em dobro, independentemente da verificação ou não de má-fé.
+Foram apresentadas contrarrazões (e-STJ, fls. 230-239).
+Juízo de admissibilidade negativo, o que originou a interposição deste agravo(e-STJ, fls. 243-245).
+O inconformismo não merece prosperar.
+No que se refere à pretensão de restituição em dobro dos valores cobrados, a Corte estadual afastou o pleito ao concluir, com base nos elementos de fato dos autos, que não ficou comprovada a má-fé da autora, afastando, daí,a incidência do art. 940 do Código Civil (e-STJ, fl. 211).
+Assim sendo, a alteração do entendimento do Tribunal local a esse respeito não prescindiria doreexame do acervo fático-probatório, o que não é possível nesta esfera recursal em razão do disposto na Súmula 7/STJ.
+Quanto aos termos iniciais dos juros e correção monetária, a decisão atacada refletiu o entendimento desta Corte, razão pela qual não merece reforma.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA RÉ.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos. Precedentes.
+2. O Tribunal estadual, após analisar o acervo fático-probatório dos autos, constatou a existência de contrato escrito de prestação de serviços firmado entre as partes e consignou, com base no laudo técnico, as quantias bruta e líquida, já devidamente atualizadas, devidas à parte agravada. Assim, modificar esse entendimento acerca da liquidez do título, dos valores devidos e da titularidade do crédito ora discutido exigiria, necessariamente, o reexame das circunstâncias fático-probatórias, tais como o aludido laudo técnico e as demais provas contábeis que instruem os autos, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado 7 da Súmula deste Tribunal. Precedentes.
+3. Consoante entendimento firmado por esta Corte Superior, em se tratando de dívida líquida e com vencimento certo, a data do vencimento da obrigação será o termo inicial para incidência dos juros moratórios e da correção monetária. Incidência da Súmula 83/STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1235545/SP, Rel. Min. MARCO BUZZI, DJe 20/2/2020).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. TAXA SELIC. INCIDÊNCIA. RECURSO ESPECIAL. FUNDAMENTAÇÃO VINCULADA. MATÉRIA NÃO DEVOLVIDA. IMPOSSIBILIDADE DE EXAME. DECISÃO MANTIDA.
+1. Em nada interfere no termo a quo dos juros de mora o fato de ter sido manejada ação monitória, sendo certo que, em regra, incidem a partir da data do vencimento da dívida, em se tratando de obrigação positiva e líquida. Precedentes do STJ.
+2. O recurso especial possui fundamentação vinculada, de modo que não cabe ao STJ imiscuir-se em questões que não lhe tenham sido devolvidas especificamente. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1325685/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 23/08/2019)
+Nesse contexto, o acórdão recorridodecidiu em conformidade com a jurisprudênciadeste Tribunal Superior, o que atrai a incidência da Súmula 83do STJ, válida paraos recursos interpostos tanto pela alíneaacomopelacdo permissivo constitucional, entendimento há muito fixado nesta Corte, como se constata dos seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. PEDIDO DE CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA FORMULADO NAS RAZÕES DO RECURSO. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. DETERMINAÇÃO PARA DEMONSTRAR A ALEGADA HIPOSSUFICIÊNCIA. INSUFICIÊNCIA DE RECURSOS NÃO DEMONSTRADA. BENEFÍCIO INDEFERIDO. POSSIBILIDADE. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO DO STJ. VERIFICAÇÃO DE CONDIÇÃO ECONÔMICA EM RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O uso da fórmula aberta "e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF. Isso porque o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente.
+(..)
+5. Ao contrário do defendido pelo ora agravante, é possível a aplicação da Súmula 83 do STJ aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional, de acordo com a jurisprudência do STJ.
+6. Agravo interno não provido.
+(AgInt no REsp 1.788.335/SC, Rel. MinistroLUIS FELIPE SALOMÃO, DJe 3/3/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Violação ao artigo 1.022 do CPC/15 não configurada. Acórdão estadual que enfrentou os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissões. Precedentes.
+2. Nos termos do entendimento jurisprudencial adotado por esta Superior Tribunal de Justiça, "com a decretação da quebra, há a perda da legitimação ativa e passiva do falido como consequência lógica da impossibilidade de dispor de seus bens e de administrá-los, haja vista que os interesses patrimoniais passam a ser geridos e representados pelo síndico da massa falida" (REsp 1323353/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/12/2014, DJe 15/12/2014). Incidência da Súmula 83/STJ.
+3. Segundo a orientação firmada por esta Colenda Corte, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.923.333/RJ, Rel. Ministro MARCO BUZZZI, DJe 26/8/2021)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, mediante juízo de reconsideração.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da recorrida para 15% (quinze por cento) sobre o valor da causa.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ.RECONSIDERAÇÃO. NOVA ANÁLISE DO AGRAVO.AÇÃO MONITÓRIA. JUROS E CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DO VENCIMENTO DO TÍTULO. RESTITUIÇÃO DE VALORES COBRADOS. IMPOSSIBILIDADE. AUSÊNCIA DE MÁ-FÉ. REVISÃODAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIADA SÚMULA 7/STJ. SÚMULA 83/STJ. APLICAÇÃO A RECURSOS INTERPOSTOS PELAS ALÍNEAS AE C. POSSIBILIDADE. PRECEDENTES. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
