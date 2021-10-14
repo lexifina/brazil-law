@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por ESPÓLIO de LEO PETERSEN FETT contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO TERRITORIAL RURAL. ÁREA TRIBUTÁVEL. RESERVA LEGAL E RESERVA PARTICULAR DO PATRIMÔNIO NATURAL. AVERBAÇÃO. ACÓRDÃO CUJA CONCLUSÃO NÃO PODE SER REVISTA EM REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+1. Não há violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. No caso dos autos, considerado o delineamento fático-probatório realizado pelo órgão julgador a quo, forçoso reconhecer que o conhecimento do recurso encontra óbice na Súmula 7 do STJ, quanto à pretensão de atribuição de efeito ex nunc à sentença; e quanto àquela relacionada à suficiência da prova dos autos.
+3. "Não é possível conhecer de fato ou direito superveniente em sede de recurso especial, porquanto ausente o requisito constitucional do prequestionamento" (AgInt nos EAREsp 129.858/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 25/10/2019). Assim, este Tribunal Superior não pode conhecer de decisões administrativas supervenientes que veiculam fundamentos favoráveis à tese recursal.
+4. Agravo interno não provido.
+A parte embargante sustenta, em síntese (fls. 1113/1116):
+O acórdão ora embargado apresenta a seguinte obscuridade e contradição que merecem ser esclarecidas. O artigo 493 do CPC dispõe que "Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão". O ora embargante, com fulcro neste dispositivo legal, noticiou e submeteu à apreciação dessa Colenda Corte a ocorrência de fato superveniente, posterior à interposição do Recurso Especial, a partir do qual se depreende com clareza a necessidade de reforma da r. decisão agravada. Tal fato refere-se a processo administrativo fiscal de cobrança de ITR incidente sobre o mesmo objeto do lançamento fiscal impugnado neste recurso, porém, em relação aos exercícios dos anos de 2004 e 2005. Trata-se de recentes decisões proferidas nos autos do Processo Administrativo nº 10140.720530/2008-92 e 10140.720016/2009-38, ambas anexadas ao Agravo Interno, as quais foram prolatadas em 18 de dezembro de 2019 pelo Conselho Administrativo de Recursos Fiscais, eque, ao analisar os Recursos Especiais interpostos pela Fazenda Nacional entenderam ser "incabível a manutenção da glosa da RPPN, por falta de apresentação de Ato Declaratório Ambiental (ADA), quando consta a respectiva averbação na matrícula do imóvel, efetuada antes da ocorrência do fato gerador". Em ambas as decisões acima citadas, o CARF negou provimento aos recursos especiais da Fazenda Nacional sob o fundamento de que "a averbação da área de Reserva Particular do Patrimônio Natural (RPPN) à margem do registro do imóvel, antes da ocorrência do fato gerador, supre a necessidade de apresentação do Ato Declaratório Ambiental (ADA)". Portanto, estas decisões do CARF, prolatadas em 18 de dezembro de 2019,consideraram a averbação da área da RPPN na matrícula imobiliária para fins de não tributação da mesma, isto é, retiraram esta área da base de cálculo da cobrança do ITR dos exercícios de 2004 e 2005.
+Sem impugnação pela parte embargada (fl. 1123).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO. INEXISTÊNCIA.
+1. Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício de integração a ser sanado pois está expresso no acórdão embargado: "este Tribunal Superior não pode conhecer de decisões administrativas supervenientes não declinadas no acórdão recorrido, até porque ausente o requisito do prequestionamento".
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, com o destaque de que o acórdão recorrido não analisou o mérito da pretensão recursal em razão do não preenchimento dos requisitos de admissibilidade, não se observa vício de integração a ser sanado pois está expresso:
+Com relação ao alegado fato superveniente, não sendo possível o conhecimento do recurso, à luz da Súmula 7 do STJ, este Tribunal Superior não pode conhecer de decisões administrativas supervenientes não declinadas no acórdão recorrido, até porque ausente o requisito do prequestionamento.
+A respeito, dentre outros:
+ ..
+3. A conclusão adotada pelo acórdão recorrido está em conformidade com a jurisprudência deste Sodalício, de que não é possível conhecer de fato ou direito superveniente em sede de recurso especial, porquanto ausente o requisito constitucional do prequestionamento. Precedentes: EREsp 805.804/ES, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 01/07/2015; AgInt nos EREsp 1.462.237/SC, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 21/03/2019; REsp 536.853/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 05/04/2019. Incidência da Súmula 168 do STJ.
+4. Agravo interno não provido.
+(AgInt nos EAREsp 129.858/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 25/09/2019, DJe 25/10/2019)
+No contexto, portanto, devem ser rejeitados os embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
