@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+SANDRA MIRA TRIGOLO (SANDRA)ajuizou ação indenizatória por danos moraiscontra PASTIFICIO SELMI S.A. (PASTIFICIO), alegando ter adquirido macarrão por esta produzido e que, no momento do preparo, percebeu que o alimento estava com insetos.
+Requereu a sua condenação ao pagamento de R$ 30.000,00 (trinta mil reais)por danos morais.
+Em primeira instância, o pedido foi julgado parcialmente procedente para condenar PASTIFICIO ao pagamento de R$ 5.000,00 (cinco mil reais),com correção monetária e juros de mora, bem como a arcar com custas e despesas do processo e com honorários advocatícios, estes fixadosem 15% sobre o valor da condenação.
+A apelação interposta por PASTIFICIOnão foi provida pelo Tribunal de Justiça de São Paulo nos termos do acórdão de relatoria do Des. CAMPOS PETRONI, assim ementado:
+Compra e venda de produto alimentício (macarrão). Ação indenizatória. Suposta presença de corpo estranho (insetos vivos e mortos). R. sentença de parcial procedência, com apelo só da fabricante ré. Preliminares de inépcia da inicial e carência de ação afastadas. Prova dos autos que indica a contaminação do alimento, sem indícios de consumo. Questão polêmica. Recente entendimento do C. STJ, com o qual se coaduna este signatário, que reconhece o abalo (desassossego) sofrido pela consumidora independentemente da ingestão. Defeito/fato do produto indicado.
+Produto que não oferece a segurança que legitimamente dele se espera. Responsabilidade objetiva. Danos morais vislumbrados e que foram arbitrados dentro da razoabilidade e/ou proporcionalidade. Sucumbência. Aplicação do enunciado da Súmula 326, do C. STJ. Decisum mantido na íntegra. Art. 252 do Regimento Interno. Nega-se provimento ao recurso da ré.(e-STJ, fl. 432)
+Os embargos de declaração opostos por PASTIFICIO foram rejeitados(e-STJ, fls. 513/522).
+Irresignado, PASTIFICIOinterpôs recurso especial com fulcro no art. 105, III,aec, da CF, alegando dissídio jurisprudencial ea violação doart. 12 do CDCao sustentar que não ficou caracterizado o dano moral, especialmente porque, além de o alimento não ter sido ingerido por SANDRA,oinseto encontrado no produto não oferece risco à saúde do consumidor.
+Foram apresentadas as contrarrazões (e-STJ, fls. 615/622).
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ(e-STJ, fls. 623/625).
+Seguiu-se oagravo em recurso especial interposto porPASTIFICIO que foi conhecido para negar provimento ao apelo nobre, nos termos da decisão monocrática de minha relatoria, assim ementada:
+CONSUMIDOR. PROCESSUAL CIVIL.AGRAVO EM RECURSO ESPECIAL.AÇÃO INDENIZATÓRIA POR DANOS MORAIS. AQUISIÇÃO DE PACOTES DE MASSA COM CORPO ESTRANHO. NÃO INGESTÃO. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E SEGURANÇA. FATO DO PRODUTO. DANO MORAL CONFIGURADO. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.(e-STJ, fl. 698)
+O agravo interno interposto por PASTIFICIO não foi provido pelaTerceira Turma desta Corte, consoante oacórdão de minha relatoria assim ementado:
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. COMERCIALIZAÇÃO DE PRODUTO IMPRÓPRIO PARA O CONSUMO. AQUISIÇÃO DE PACOTES DE MASSACONTENDOCORPO ESTRANHO.LESÃO EXTRAPATRIMONIAL CONFIGURADA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A eg. Terceira, no julgamento do REsp nº 1.644.405/RS (Rel. Ministra NANCY ANDRIGHI, j. 9/11/2017, DJe 17/11/2017) firmou o entendimento de quea aquisição de produto de gênero alimentício contendo em seu interior corpo estranho, expondo o consumidor à risco concreto de lesão à sua saúde e segurança, ainda que não ocorra a ingestão de seu conteúdo, dá direito à compensação por dano moral, dada a ofensa ao direito fundamental à alimentação adequada, corolário do princípio da dignidade da pessoa humana.
+3. Agravo interno não provido. (e-STJ, fl. 740)
+Nos presentes embargos de declaração,PASTIFICIO sustentou a violação do art. 1.022 do NCPC por entender que o acórdão embargado (1)partiu de premissa equivocada ao considerar que o consumidor foi exposto a risco concreto de lesão à sua saúde e segurança, mesmo que não tenha ingerido o corpo estranho;e (2) não se pronunciou sobre a alegação de que o deslinde dado à presente controvérsia deve estar em consonância com a tese firmada no julgamento do REsp 1.899.304/SP, submetido ao rito dos recursos repetitivos pela Segunda Seção do STJ (e-STJ, fls. 748/758).
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. COMERCIALIZAÇÃO DE PRODUTO IMPRÓPRIO PARA O CONSUMO. AQUISIÇÃO DE PACOTES DE MASSACONTENDOCORPO ESTRANHO.LESÃO EXTRAPATRIMONIAL CONFIGURADA. VIOLAÇÃO DO ART. 1.022DO NCPC. NÃO CONFIGURADA.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece ser provido.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões destes aclaratórios, PASTIFICIO sustentou a violação do art. 1.022 do NCPC por entender que o acórdão embargado (1) partiu de premissa equivocada ao considerar que o consumidor foi exposto a risco concreto de lesão à sua saúde e segurança, mesmo que não tenha ingerido o corpo estranho; e (2) não se pronunciou sobre a alegação de que o deslinde dado à presente controvérsia deve estar em consonância com a tese firmada no julgamento do REsp 1.899.304/SP, afetado ao rito dos recursos repetitivos pela Segunda Seção do STJ.
+Contudo, sem razão.
+Da acurada análise dos autos se verifica que o acórdão embargado foi claro ao pontuar que o risco concreto de lesão à saúde do consumidor fica caracterizado com a simples comercialização de produto alimentício contendo corpo estranho, independentementeda sua ingestão.
+A propósito, transcreve-se:
+Em que pese a existência de precedente da eg. Quarta Turma de que a ausência de ingestão de produto considerado impróprio para o consumo não configura o dano moral indenizável, esta eg. Terceira Turma reafirmou sua jurisprudência no sentido de quea aquisição de produto de gênero alimentício contendo em seu interior corpo estranho, expondo o consumidor à risco concreto de lesão à sua saúde e segurança, ainda que não ocorra a ingestão de seu conteúdo, dá direito à compensação por dano moral, dada a ofensa ao direito fundamental à alimentação adequada, corolário do princípio da dignidade da pessoa humana(REsp 1.644.405/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 17/11/2017). (e-STJ, fl. 742/743)
+Além disso, destaca-se que a divergência até então existente entre a Terceira e a Quarta Turmas a respeito do tema foi superada no recente julgamento do REsp1.899.304/SP pela Segunda Seção do STJ, que consagrou o entendimento esposado pela Terceira Turma no sentido de que a ocorrência dedano moral no caso de produto com corpo estranho é presumida e não depende da ingestão do mesmo.
+Observa-se, dessa forma, que não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.ALEGAÇÃO DE EXISTÊNCIA DOS VÍCIOS TIPIFICADOS EM LEI. NÃO OCORRÊNCIA.
+1. Consoante estabelecido pelo art. 1.022, e seus incisos, do novo Código de Processo Civil, os embargos de declaração são cabíveis nas hipóteses de obscuridade, contradição, omissão ou até mesmo na ocorrência de carência de fundamentação válida.
+2. No caso dos autos, inexiste qualquer dos vícios tipificados no art. 1.022, do Código de Processo Civil, a inquinar a decisão embargada.
+3. EMBARGOS DECLARATÓRIOS REJEITADOS.
+(EDcl no REsp 1.721.472/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 17/9/2021)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração.
