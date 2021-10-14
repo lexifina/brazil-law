@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por EDNAMERICO TADEU DE OLIVEIRA, IOLANDA GONÇALVES PEREIRA DE OLIVEIRA, ROBERTO TADEU PEREIRA DE OLIVEIRA E VIVIAN HELENA GONCALVES COSTA OLIVEIRA, em face de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). PEDIDO DE CUMRIMENTO DE SENTENÇA. ACORDO HOMOLOGADO QUE NÃO IMPEDE O DIREITO DE AÇÃO DA PARTE INTERESSADA. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DIREITO DE AÇÃO DA PARTE INTERESSADA. AUSENCIA DE PARTICIPAÇÃO NO ACORDO. REVISÃO. SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo, a parte agravante alega inaplicabilidade da Súmula nº 7/STJ e repisa as alegações da peça inicial de negativa de prestação jurisdicional e que os Recorridos restaram inadimplentes em uma obrigação líquida e certa, descumprindo acordo, uma vez que não exoneraram os Recorrentes ou quitaram a obrigação junto ao Banco do Brasil.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). PEDIDO DE CUMRIMENTO DE SENTENÇA. ACORDO HOMOLOGADO QUE NÃO IMPEDE O DIREITO DE AÇÃO DA PARTE INTERESSADA. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DIREITO DE AÇÃO DA PARTE INTERESSADA. AUSENCIA DE PARTICIPAÇÃO NO ACORDO. REVISÃO. SÚMULA Nº 7/STJ.
+AGRAVO DESPROVIDO.
+VOTO
+Eminentes colegas, a irresignação recursal não merece acolhida.
+Com efeito, percebe-se que as razões trazidas no agravo interno, de inaplicabilidade da Súmula nº 7/STJ, repisando as alegações da peça inicial de negativa de prestação jurisdicional e que os Recorridos restaram inadimplentes em uma obrigação líquida e certa, descumprindo acordo, uma vez que não exoneraram os Recorrentes ou quitaram a obrigação junto ao Banco do Brasil, não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação assim consignando, em sede de embargos, quanto à matéria:
+Registre-se que no acórdão embargado o colegiado assim se posicionou:
+"Fazendo uma breve digressão processual, tem-se que os autores/apelantes (Ednamérico e Roberto) eram sócios da empresa CENTERCOM, juntamento com o requerido/apelado (José Alberto), tendo no decorrer processual transacionado acerca de obrigações recíprocas assumidas após a cisão societária, sendo o acordo devidamente homologado pela juíza a quo.
+Em razão do Banco do Brasil ter ingressado com ação monitória em desfavor dos apelantes, e também contra o apelado, uma vez que figuram como garantidores no contrato firmado com a referida instituição financeira, ingressaram os recorrentes com o pedido de cumprimento de sentença, ao argumento de que os apelados, na ocasião do acordo, assumiram obrigações, de forma que devem quitar imediatamente a dívida objeto de litígios nos autos mencionados.
+De plano, vejo que razão não assiste aos apelantes.
+Embora não se descure do acordo entabulado entre as partes, observa-se que os apelantes figuram como garantidores no contrato entabulado com o Banco do Brasil, de modo que a instituição financeira poderá invocar seu direito, uma vez que ela está apenas utilizando-se do seu direito de ação.
+Portanto, cabem aos apelantes insurgirem-se no bojo daquela ação monitória, alegando o que entenderem de direito. Inclusive, denota-se que os apelantes apresentaram embargos à monitória, ainda pendente de análise naquele juízo.
+Como bem pontuou a magistrada de piso:
+"trata-se do direito de ação conferido à parte que deverá demonstrar a necessidade e utilidade daquele provimento, sob pena dos consectários processuais e legais. Na realidade, qualquer uma das partes neste feito pode utilizar o meio de defesa adequada naquele, a fim de, entendendo ser o caso, sustentar sua ilegitimidade, inclusive utilizando o acordo aqui homologado como subsídio a eventual pleito." Portanto, como dito alhures, toda a matéria de defesa deve ser naqueles autos alegada, fugindo da alçada da juíza sentenciante adentrar no mérito da questão, podendo os apelantes utilizarem-se do acordo como subsídio dos seus direitos.
+Ademais, o autor/credor (Banco do Brasil) não participou do acordo firmado entre as partes, não podendo por ele ser prejudicado.
+Nessa conformidade, correta a conclusão adotada pela juíza de primeiro grau, razão pela qual deve ser mantida."
+Percebe-se, portanto, a patente distorção pelos embargantes quanto aos fundamentos expendidos, de forma clara, no voto.
+Em momento algum no acórdão se fala que o acordo não é oponível em face do Banco do Brasil, e sim que a instituição não pode ser impedida do seu direito de ação, posto que não é crível ser prejudicado por acordo do qual não participou. De outro lado, podem os ora embargantes utilizarem-se do referido acordo como subsídio nos autos da ação monitoria, como forma de defesa, cabendo sua análise àquele juízo. (e-STJ fls. 1004/1006).
+Destarte, não justifica a alegação de violação aos artigos 489 e 1022 do CPC, uma vez que ocorreu pronunciamento efetivo e claro sobre as questões postas. Ademais, o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido. (AgInt no AREsp 1157866/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2018, DJe 15/03/2018).
+Na verdade, a parte recorrente pretendeu rediscutir em sede de aclaratórios matérias já apreciadas pelo Tribunal a quo, providência vedada nesta espécie recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. AUSÊNCIA DO PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. VALORAÇÃO DA PROVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC. Além disso, os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito. (grifou-se)
+2. Em relação ao cerceamento de defesa, a irresignação não merece prosperar, uma vez que a Corte local não emitiu juízo de valor sobre a matéria alegada. É necessária a efetiva discussão do tema pelo Tribunal a quo, ainda que em Embargos de Declaração. Incidência da Súmula 211/STJ.
+3. Ademais, é evidente que, para modificar o entendimento firmado no acórdão impugnado, reconhecendo-se o cerceamento do direito de defesa da parte recorrente, ou a insuficiência das provas, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial. Súmula 7/STJ.
+4. Agravo Regimental não provido. (AgRg no AREsp 216.688/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/03/2014, DJe 19/03/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente. (grifou-se)
+2. A reapreciação do suporte fático-probatório dos autos é vedada nesta Corte, pelo óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental não provido." (AgRg no AREsp 373.162/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/10/2014, DJe 14/10/2014).
+Quanto ao cumprimento de sentença para que os apelados promovam a quitação das cobranças advindas da ação monitória proposta pelo Banco do Brasil, o Tribunal de origem, considerando as alegações dos recorrentes e as peculiaridades do caso concreto, concluiu que os recorrentes são garantidores no contrato entabulado com o Banco do Brasil e que este esta exercendo seu direito de ação e que por não participar do acordo firmado entre as partes, não pode ser por ele prejudicado. Assentou, ainda, que o acordo pode ser utilizado como subsídio nos autos da ação monitoria, como forma de defesa, cabendo sua análise àquele juízo, nestes termos:
+Embora não se descure do acordo entabulado entre as partes, observa-se que os apelantes figuram como garantidores no contrato entabulado com o Banco do Brasil, de modo que a instituição financeira poderá invocar seu direito, uma vez que ela está apenas utilizando-se do seu direito de ação.
+Portanto, cabem aos apelantes insurgirem-se no bojo daquela ação monitória, alegando o que entenderem de direito. Inclusive, denota-se que os apelantes apresentaram embargos à monitória, ainda pendente de análise naquele juízo.
+Como bem pontuou a magistrada de piso: "trata-se do direito de ação conferido à parte que deverá demonstrar a necessidade e utilidade daquele provimento, sob pena dos consectários processuais e legais. Na realidade, qualquer uma das partes neste feito pode utilizar o meio de defesa adequada naquele, a fim de, entendendo ser o caso, sustentar sua ilegitimidade, inclusive utilizando o acordo aqui homologado como subsídio a eventual pleito."
+Portanto, como dito alhures, toda a matéria de defesa deve ser naqueles autos alegada, fugindo da alçada da juíza sentenciante adentrar no mérito da questão, podendo os apelantes utilizarem - se do acordo como subsídio dos seus direitos.
+Ademais, o autor/credor (Banco do Brasil) não participou do acordo firmado entre as partes, não podendo por ele ser prejudicado. (e-STJ fls. 945/946).
+Em sede de embargos de declaração asseverou que
+Em momento algum no acórdão se fala que o acordo não é oponível em face do Banco do Brasil, e sim que a instituição não pode ser impedida do seu direito de ação, posto que não é crível ser prejudicado por acordo do qual não participou. De outro lado, podem os ora embargantes utilizarem-se do referido acordo como subsídio nos autos da ação monitoria, como forma de defesa, cabendo sua análise àquele juízo.(e-STJ fls. 1006).
+Deste modo, para aferir as alegações dos recorrentes e afastar as premissas firmadas pelo Tribunal de origem, seria necessário o revolvimento do conteúdo-fático probatório dos autos, procedimento vedado na via especial, nos termos da Súmula nº. 7 desta Corte Superior.
+Destarte, a pretensão recursal não merece prosperar.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
