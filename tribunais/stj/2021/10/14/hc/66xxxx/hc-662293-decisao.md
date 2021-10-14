@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de YUNA ISIS CAMILA DOS SANTOS DE SANTANA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 0000493-67.2013.8.26.0439.
+Extrai-se dos autos que a paciente foi condenada pela prática dos crimes de tráfico e associação para o tráfico às penas de 10 (dez) anos de reclusão, em regime fechado, e 1533 (mil, quinhentos e trinta e três) dias-multa, no piso, reconhecido o direito de recorrer em liberdade.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual deu parcial provimento ao recurso, reduzindo a pena da paciente para 8 (oito) anos de reclusão, em regime fechado, e 1200 dias-multa, nos termos do acórdão que restou assim ementado:
+TRÁFICO e ASSOCIAÇÃO. Condutas de se associaram para a prática do tráfico, bem como de guardar e vender, 9 gramas de cocaína para fornecimento a consumo de terceiros. Configuração. Materialidade e autoria demonstradas. Prisão cm flagrante. Confissão da corré DEISE, que assumiu a autoria, isentando as demais. Negativa isolada das corrés YURI e YUNA. Versões infirmadas pelo depoimento dos policiais militares que realizaram a prisão e a apreensão da droga em poder de DEISE. Vínculo associativo, estável e permanente, confirmado por testemunha que freqüentava o local e ali adquiriu entorpecente junto às três acusadas. Prova suficiente para a procedência da ação penal. PENA. Redução da pena-base dos delitos para o mínimo legal devido à pequena quantidade apreendida, não obstante a natureza do entorpecente. Reconhecimento da atenuante da confissão espontânea de DEISE em relação ao tráfico e da menoridade favor da corré YURI, sem reflexo na pena. Súmula nº 231 do STJ. Concretização em 8 anos de reclusão e 1200 dias-multa, no piso, mantido o regime prisional fechado. Apelos defensivos parcialmente providos. (fl. 21).
+Foi interposto recurso especial, ao qual se negou seguimento.
+No presente writ, a defesa sustenta que a paciente é mãe de quatro filhos, sendo dois deles menores de 12 anos de idade, e que precisam de seus cuidados, sendo que é primária, tem domicílio certo, emprego fixo e jamais se envolveu em outro crime. Salienta flagrante ilegalidade na decretação da prisão da paciente em regime fechado, fazendo jus à prisão domiciliar. Afirma que não requereu ao juízo da execução, pois se trata de processo físico e, com a pandemia, os fóruns estão sem atendimento presencial.
+Pleiteia, em liminar e no mérito, a substituição da prisão da paciente em regime fechado por prisão domiciliar, sob pena de revogação, em caso de descumprimento.
+Liminar indeferida às fls. 35/37.
+Informações prestadas às fls. 41/46.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus, conforme parecer de fls. 79/80.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Ademais, a matéria trazida na presente impetração não foi analisada pelo Tribunal de origem, o que afasta o conhecimento da matéria por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+Destaca-se que, em que pese a alegação de dificuldade de peticionamento durante o período da pandemia de Covid-19, pedido similar ao que consta aqui já foi formulado ao Juízo das Execuções no âmbito do PEC n. 0006849-75.2021.8.26.0996, pendente a análise do mérito do recurso interposto.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.
+Publique-se.
