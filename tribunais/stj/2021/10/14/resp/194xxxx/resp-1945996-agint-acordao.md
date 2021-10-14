@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 28496):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC2015. NÃO OCORRÊNCIA. RECURSO NÃO PROVIDO.
+COLAR EMENTA
+O agravante alega que o Tribunal de origemviolou os artigos 489, §1º, III e IV e 1.022, II, do CPC2015, poislimitou-se a transcrever a decisão de primeira instância e a decisão que deixou de atribuir efeito suspensivo ao recurso, deixando de se pronunciar sobre questões relevantes para a correta apreciação da lide, não obstante instado a fazê-lo mediante a oposição de embargos declaratórios.
+Aponta ter deixado de analisar os seguintes pontos:
+"(a) vícios flagrantes do processo administrativo, que conduzem à sua nulidade, como (i) a incongruência entre a investigação e a condenação e (ii) a violação do contraditório e da ampla defesa do embargante, que se viu alijadoda produção de prova pertinente e necessária (itens 38/50 e itens 62/75 do recurso de fls. 3/47);
+(b) não obstante o crédito público gozar de presunção de legalidade e legitimidade, esta pode, e deve, ser afastada diante da evidente probabilidade de direito (itens 105/109 do recurso de fls. 3/47);
+(c) a impugnação ao ato administrativo esvazia a sua presunção de legitimidade e veracidade (itens 105/109 do recurso de fls. 3/47);
+(d) a recente jurisprudência no sentido de que, "diante da probabilidade do direito, a necessidade de depósito judicial ou de outra garantia idônea perde o sentido", pois "a tutela de urgência constitui fundamento autônomo do impedimento da cobrança do débito, sem qualquer condicionante" (TRF-3, 3ª T., AI nº 0023993-96.2013.4.03.0000, rel. Des. Fed. ANTONIO CEDENHO, p. 29.05.17)(item 114 do recurso defls. 3/47); e
+(e) o manifesto perigo de dano no caso em questão, uma vez que, caso não seja deferida a liminar postulada, a execução fiscal já proposta contra o embargante (processo nº 5012835-33.2018.4.02.5101) seguirá seu trâmite normal com a realização de atos de constrição e expropriação de bens de propriedade do agravante, em que pese a flagrante irregularidade da CDA que lhe serve de fundamento (itens 110/119, fls. 44/47).
+Comimpugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ART. 1.022 E 489 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Afasta-se a alegada violação dos artigos 1.022 e 489 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porqueo acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Com efeito, a Corte de origem indeferiua tutela de urgência com base na inexistência deelementos que evidenciem a probabilidade do direito e, por conseguinte, nanecessidade de dilação probatória para a concessão da medida, que diz respeito ao próprio mérito da demanda e se mostra incompatível com os limites da cognição sumária. Confira-se:
+Ademais, verifica-se que as referidas alegações apresentadas na petição inicial dizem respeito ao próprio mérito da demanda, pois o cerne da discussão posta nos autos diz respeito justamente à violação das garantias processuais do autor durante a tramitação do processo administrativo. Dessa maneira, afigura-se incompatível com os limites da cognição sumária aprofundar-se na análise das questões apresentadas, sem antes permitir a pertinente dilação probatória e o adequado exercício do contraditório por parte da CVM.
+Também é importante ressaltar que o crédito público goza de proteção reforçada, sendo firme a jurisprudência do STJ no sentido de que "o ajuizamento de Execução Fiscal não obsta que o devedor exerça o direito constitucional de ação para ver declarada a nulidade do título ou a inexistência da obrigação. Nessa hipótese, deve haver a reunião das ações por conexão para possibilitar o julgamento simultâneo e evitar decisões conflitantes (..) Contudo a suspensão do executivo fiscal subordina-se à garantia do juízo ou ao depósito do valor integral da dívida, nos termos do art. 151 do CTN" (AgRg no REsp 822.491/RR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/12/2008 DJe 13/03/2009, grifo nosso).
+Na hipótese, a execução fiscal não se encontra garantida, de modo que não se afigura possível determinar a suspensão da execução fiscal com fundamento no art.151, V, do CTN.
+Com base nesse entendimento, INDEFIRO a tutela de urgência requerida, uma vez que as alegações deduzidas na inicial demandam dilação probatória para se aferir sua verossimilhança."
+(..)
+Em que pesem as irresignadas alegações da parte agravante, deve ser mantida a decisão agravada, pois inexistem, num juízo de cognição sumária, elementos que evidenciem a probabilidade de provimento do recurso, considerando necessária a dilação probatória destinada a evidenciar as alegadas irregularidades do procedimento administrativo, bem como o fato de que os atos administrativos gozam de presunção de legitimidade.
+Trata-se de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional, razão pela qualafasta-se a alegada afronta ao artigo 489, § 1º, IV, do CPC/2015.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
