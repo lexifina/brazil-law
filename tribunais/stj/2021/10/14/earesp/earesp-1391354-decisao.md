@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por OI S/A - Em Recuperação Judicial (sucessora deTELEMAR NORTE LESTE S/A) contra acórdão da Primeira Turma, Relator o Ministro Gurgel de Faria, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. COMPENSAÇÃO. HOMOLOGAÇÃO ADMINISTRATIVA. AUSÊNCIA. EMBARGOS À EXECUÇÃO. CRÉDITO LÍQUIDO E CERTO. INEXISTÊNCIA. FUNDAMENTO NÃO IMPUGNADO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+2. " Não será admitida reconvenção, nem compensação, e as exceções, salvo as de suspeição, incompetência e impedimentos, serão argüidas como matéria preliminar e serão processadas e julgadas com os embargos." (§ 3º, art. 16, Lei n. 6.830/1980).
+3. Hipótese em que a Corte Regional não decidiu de forma contrária ao entendimento do STJ no que se refere à interpretação do referido dispositivo nem tampouco à do art. 74, § 2º, da Lei n. 9.430/1996.
+4. As razões do recurso especial não infirmaram a conclusão do acórdão recorrido de que a contribuinte não possui crédito a ser compensado e, por esse motivo, seria correta a incidência da vedação contida no art. 16, § 3º, da Lei n. 6.830/1980, dando ensejo à aplicação das Súmulas 283 e 284 do STF.
+5. A alteração da premissa fática de que a contribuinte não possui crédito a ser compensado importaria em reexame de fatos e provas, inviável nos termos da Súmula 7 do STJ.
+6. Agravo interno desprovido.
+A embargante alega que o acórdão da Primeira Turma é divergente de outroproferido pelo mesmo órgão julgador, no AgRg no REsp nº 1.142.293/RS:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. DECISÃO QUE INDEFERIU PEDIDO DE COMPENSAÇÃO.RECURSO ADMINISTRATIVO. ART. 151, III, DO CTN. CAUSA DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. MATÉRIA PACIFICADA NO STJ (ERESP N. 850.332/SP). AUSÊNCIA DE VIOLAÇÃO DO ARTIGO 16, § 3º, DA LEF. MATÉRIA OBJETO DE RECURSO REPETITIVO.
+1. Caso em que se aduz que: a) o fundamento de pendência de pedido administrativo de compensação quando do ajuizamento da execução fiscal não foi tratado pela parte agravada nos embargos à execução, e nem foi objeto de recurso perante o Tribunal de origem; e b) não se está diante de compensação já efetivada, razão pela qual impossível essa alegação em sede de embargos à execução.
+2. A primeira insurgência configura-se inovação recursal em sede de agravo regimental, tendo em vista que o recurso especial interposto pela União às fls. 183-192 limitou-se a impugnar a violação do art.16, § 3º, da LEF, no sentido de que há vedação expressa para a hipótese de compensação tributária em sede de embargos à execução.
+3. No concernente à possibilidade de alegar em sede de embargos à execução compensação já efetivada, o Tribunal a quo foi claro ao manifestar que trata-se de compensação já pleiteada na via administrativa, antes de iniciada a execução fiscal (fl. 161).
+4. Agravo regimental não provido.
+(AgRg no REsp 1142293/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 02/09/2010, DJe 13/09/2010).
+Para apresentarparadigma da mesma Turma, a embargante invoca o art. 1.043, § 3 , do CPC/2015, demonstrando que houve substancial alteração na composição do colegiado.
+É o relatório. Decido.
+São estes os fundamentos do acórdão embargado:
+Depreende-se do excerto transcrito que o acórdão recorrido considerou como ponto central do seu entendimento o fato de que o contribuinte não possuía crédito líquido e certo reconhecido, não podendo, por isso, alegar a compensação em sede de embargos.
+Contudo, esse fundamento (ausência de crédito líquido e certo reconhecido) não foi impugnado nas razões do apelo extremo. Essa circunstância atrai, por óbvio, a incidência das Súmulas 283 e 284 do STF, segundo as quais:
+Súmula 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+SÚMULA 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+O que se observa, conforme se verifica da leitura da petição do recurso especial, é que toda a argumentação da parte recorrente parte da premissa fática de que a contribuinte possui crédito reconhecido pelo ente fazendário e, portanto, passível de compensação. Ocorre que alterar a conclusão do julgado recorrido de que o contribuinte não possui crédito líquido e certo passível de compensação demandaria o reexame fático-probatório, o que é vedado em sede de recurso especial, nos termos do que dispõe a Súmula 7 do STJ.
+Quanto aos demais argumentos suscitados pela recorrente: a) impossibilidade de compensação de ofício pela Receita Federal e b) mesmo que se considerasse essa possibilidade, caberia ao contribuinte a indicação de qual tributo deveria ser compensado, verifica-se que não foram objeto de discussão pela Corte Regional, o que atrai o óbice das Súmula 282 do STF e 211 do STJ.
+Ademais, nesse ponto, mesmo que ultrapassada a ausência de prequestionamento, o exame dessas questões também dependeria da alteração da conclusão do julgado recorrido de que a contribuinte não possui crédito a ser compensado, esbarrando, mais uma vez, na Súmula 7 do STJ.
+Com esses fundamentos o recurso especial não foi conhecido.
+Os embargos de divergência não se prestam a reexaminar a aplicação de regras técnicas relativas ao conhecimento do recurso especial.
+Ver, nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA.INADMISSIBILIDADE. MÉRITO DO RECURSO ESPECIAL NÃO APRECIADO. SÚMULA N. 315 DO STJ. NÃO CABIMENTO PARA ANÁLISE DE REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL.
+I - Na origem, trata-se de ação que objetiva a impenhorabilidade de bem imóvel constrito nos autos descritos na inicial, por tratar-se de bem de família. Na sentença, julgou-se improcedente o pedido. No Tribunal de Justiça do Estado de São Paulo, a sentença foi mantida, por meio de decisão monocrática (fl. 628).
+II - Verifica-se que a Terceira Turma manteve a decisão monocrática que não conheceu do agravo em recurso especial por ausência de impugnação específica aos fundamentos da decisão que negou seguimento ao recurso especial interposto.
+III - Dessa forma, o acórdão embargado não enfrentou o mérito da controvérsia, incidindo, no caso, o óbice que dispõe a Súmula n. 315 do Superior Tribunal de Justiça, in verbis: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." Nesse sentido: AgRg nos EAREsp n. 1.217.230/SC, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 28/8/2019, DJe 9/9/2019; AgInt nos EAREsp n. 1.079.571/SP, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 27/8/2019, DJe 2/9/2019 e AgInt nos EDv nos EAREsp n. 1.080.007/SP, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 13/8/2019, DJe 16/8/2019.
+IV - Cumpre destacar, ademais, que, em sua versão original, o Código de Processo Civil de 2015 (art. 1.043, II), previa a possibilidade de oposição de embargos de divergência em se tratando de arestos relativos ao juízo de admissibilidade. Ocorre que tal dispositivo foi revogado na edição da Lei n. 13.256/2016, ratificando o entendimento já prestigiado por esta Corte de Justiça, que assim se manifestou a respeito do assunto: AgInt nos EREsp n. 1.473.968/RS, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 17/8/2016, DJe 30/8/2016.
+V - É que os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça quando se verificarem idênticas situações fáticas nos julgados, mas se tenha dado diferente interpretação na legislação aplicável ao caso. Não se prestam para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento e, muito menos, confrontar tese de admissibilidade com tese de mérito.
+VI - Portanto, com fundamento nos arts. 932, III, do CPC, e 266-C do RISTJ, correta a decisão que indeferiu liminarmente os embargos de divergência.
+VII - Agravo interno improvido.
+(AgInt nos EAREsp 1400802/SP, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 26/05/2020, DJe 01/06/2020).
+Ante o exposto, com esteio nos arts. 932, III, do CPC/2015 e 266-C, do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
