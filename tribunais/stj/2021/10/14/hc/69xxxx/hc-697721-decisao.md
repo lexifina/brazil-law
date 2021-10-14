@@ -1,0 +1,6 @@
+DECISÃO
+DOUGLAS FIGUEIREDO SILVEIRA, condenado por extorsão, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Groso do Sul, que não reconheceu a incidência da atenuante da confissão espontânea, objetivo este reiterado nesta oportunidade.
+Entretanto, como bem ressaltou o Ministério Público Federal, "todos os documentos juntados pela impetrante tratam de caso analisado nos autos da ação penal nº 0000456-54.2021.8.12.0017/MS, contra a pessoa de Walisson Tiago da Silva, que respondeu e foi condenado pelo crime de narcotráfico, à pena de 6 anos, 9 meses e 20 dias de reclusão" (fl. 335).
+Logo, as alegações feitas pela defesa, em relação ao paciente, vieram desacompanhadas de documentos essenciais que possibilitem o exame da controvérsia. Realço, por oportuno, que a permissividade de se impetrar habeas corpus perante esta Corte, destituído de qualquer formalidade essencial, não se traduz na desnecessidade de instruí-lo com os documentos essenciais que permitam avaliar a existência ou não de constrangimento ilegal. Nesse sentido é pacífica a orientação desta Corte (AgRg no HC n. 285.578/AM, Rel. Ministro Marco Aurélio Bellizze, DJe 2/5/2014).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
