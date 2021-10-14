@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por ISMD - INSTITUTO SUPERIOR DE MEDICINA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO - DANO MORAL - CAMPANHA DIFAMATÓRIA - ATO ILÍCITO - AUSÊNCIA DE PROVA - INDENIZAÇÃO INDEVIDA. Não ficando provada a suposta prática da conduta difamatória ou mesmo qualquer outro ato ilícito praticado pelo órgão da classe médica, fica afastado o dever de indenizar.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação dos arts. 186 e 927 do CC, no que concerne à necessidade de condenação da recorrida ao pagamento de indenização por danos morais, trazendo os seguintes argumentos:
+Foi delineado no acórdão recorrido que, ao ser julgada improcedente a ação, constou na r. sentença que  "o mero repasse de informações não pode ser suficiente para ensejar na responsabilização do autor da publicação (..) O auxílio na averiguação da regularidade dos cursos oferecidos também faz parte do fim para o qual requerida foi criada, conforme Estatuto Social."
+ ..
+Perceba: a afirmação por parte do recorrente de que a recorrida praticou ato ilícito não decorre do exercício (simples) de seu estatuto social. Decorre da conduta ilícita e abusiva de afirmar nas redes sociais, em verdadeira campanha, que o ISMD praticava crime.
+E mais: o recorrente jamais afirmou que as denúncias perante os órgãos públicos responsáveis caracterizaria ato ilícito. O que caracteriza ato ilícito é a divulgação, na internet, antes de qualquer conclusão das investigações (as quais foram favoráveis ao recorrente), de que a instituição incorria em crime e que os certificados decorrentes de seus cursos não tinham validade.
+É nítida a extrapolação do dever estatutário e a incidência em ato ilícito a partir da divulgação de informações falsas e caluniosas, manchando o bom nome da instituição perante parceiros e alunos (fls. 402-404).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A ré/apelada é um órgão de classe (médica) e, nos termos de seu estatuto social, tem a finalidade de fiscalizar a regularidade dos cursos de pós-graduação ofertados no Brasil, bem como de informar às autoridades competentes e à sociedade médica sobre a existência de quaisquer irregularidades que possa atingir ou influenciar a vida profissional dos médicos.
+Então, ao verificar indícios de irregularidade em alguns cursos de pós-graduação, cumpriu sua obrigação estatutária ao alertar, por meio das redes sociais, a comunidade médica sobre supostas irregularidades que estariam sendo apuradas.
+ ..
+Diante disso, não se pode concluir pela existência de uma "campanha difamatória" para denegrir a imagem da apelante. A publicidade levada a efeito pela apelada não extrapolou o dever de informação e transparência do órgão de classe, muito menos evidenciou o intuito deliberado e consciente de prejudicar a apelante.
+ ..
+Logo, não restando demonstrada a ocorrência do dano moral alegado, não há nada para ser alterado na sentença (fls. 391-392).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
