@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SALVA SERVICOS MEDICOS DE EMERGENCIA LTDA, contra decisão que negou seguimento a recurso especial fundamentadonaalínea"a"do permissivo constitucional.
+Agravo em recurso especial interposto em:13/05/2021.
+Concluso ao gabinete em: 06/10/2021.
+Ação:de reparação de danos materiais e moraisajuizada por MARCIA DE JESUS DE MEIRA MORILHAS, VINICIUS JOSE MORILHAS eSTEFANY DE JESUS MORILHAS em face de SALVA SERVICOS MEDICOS DE EMERGENCIA LTDA, na qual requer indenização por danos morais e materiais advindos da demora e ineficácia no atendimento médico do cônjuge e pai dos autores, que ocasionou a sua morte.
+Sentença: julgou procedente o pedido.
+Acórdão: deu parcial provimento ao recurso de apelação interposto por SALVA SERVICOS MEDICOS DE EMERGENCIA LTDA, e não conheceu do recurso adesivo interposto por MARCIA DE JESUS DE MEIRA MORILHAS, VINICIUS JOSE MORILHAS e STEFANY DE JESUS MORILHAS, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. "AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS."
+1. VÍTIMA QUE FALECEU EM DECORRÊNCIA DE "TROMBOEMBOLISMO PULMONAR AGUDO". QUADRO EMERGENCIAL ATENDIDO CERCA DE 40 MINUTOS APÓS A PRIMEIRA CHAMADA. TRATAMENTO DISPENSADO PARA "INFARTO AGUDO DO MIOCÁRDIO". AMBULÂNCIA QUE TEVE O TRAJETO DESVIADO. AUSÊNCIA DE OXÍMETRO OU DO USO DO MEDIDOR, INDISPENSÁVEL NO CASO PARA UM MELHOR DIAGNÓSTICO.DESFIBRILADOR DENTRO DA UTI MÓVEL SEM CONDIÇÕES DE FUNCIONAMENTO. PACIENTE QUE A DESPEITO DA GRAVIDADE DO QUADRO, NÃO FOI LEVADO DE MACA ATÉ A AMBULÂNCIA.
+PROFISSIONAIS QUE AUTORIZARAM SUA CAMINHADA. AVALIAÇÃO CLÍNICA IMPRECISA. EMBORA O PACIENTE SE QUEIXASSE DE DORES TORÁCICAS (SINTOMA COMUM EM CASOS DE "TEP"E "IAM"), O MÉDICO INTERVENCIONISTA NÃO ESGOTOU TODAS AS POSSIBILIDADES PARA A ELABORAÇÃO DE UM DIAGNÓSTICO MAIS CORRETO E ADEQUADO. AUSÊNCIA DE ANOTAÇÃO NOS REGISTROS DE QUE TERIA SE UTILIZADO DE "OXÍMETRO"PARA AFASTAR OU CONFIRMAR EVENTUAL DIAGNÓSTICO DE "TEP", DEIXANDO AINDA DE DISCUTIR A POSSIBILIDADE COM O MÉDICO REGULADOR DA REQUERIDA, CONDUTA RECOMENDADA EM SITUAÇÕES QUEENVOLVAM URGÊNCIA OU EMERGÊNCIA NO ÂMBITO DA "TELEMEDICINA". ATENDIMENTO PRECÁRIO DESDE O INÍCIO.
+MÉDICO REGULADOR QUE CLASSIFICOU O QUADRO COMO "CRISE DE ANSIEDADE", INTERROMPENDO O ENVIO DE UMA UTI MÓVEL AO LOCAL. VEÍCULO COM EQUIPAMENTO BÁSICO DANIFICADO (DESFIBRILADOR). SOCORRO DISPONIBILIZADO 43 MINUTOS . NEXO CAUSAL VINCULADO À APÓS A PRIMEIRA SOLICITAÇÃO PERDA DE UMA CHANCE DE SOBREVIVÊNCIA. DEVER DE INDENIZAR PRESENTE.
+2. DANOS MATERIAIS.2.1. PENSÃOALIMENTÍCIA.2.3. MORTE DO MARIDO E PAI DOS AUTORES, ÀÉPOCA MENORES DE IDADE. FAMÍLIA HUMILDE. PRESUMIDA DEPENDÊNCIA ECONÔMICA DA ESPOSA E DOS FILHOS. 2.4.TERMO FINAL DA PENSÃO. 25 ANOS NO QUE TANGE AOS FILHOS, E COM RELAÇÃO À ESPOSA, ALTERADO PARA A DATA EM QUE O FINADO DEVERIA COMPLETAR 70 ANOS, SENDO ESTE O MARCO DEFINIDO NA INICIAL.
+3. DANOS MORAIS COMPROVADOS.INDENIZATÓRIO QUE DEVE SER FIXADO EM ATENÇÃO QUANTUM AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE E ÀS PARTICULARIDADES DO CASO. ATENÇÃO AO CARÁTER PUNITIVO E PEDAGÓGICO DA REPRIMENDA. JUROS MORATÓRIOS DE 1% AO MÊS A INCIDIR DA DATA DA CITAÇÃO.RESPONSABILIDADE CONTRATUAL (ART. 405, CC). RECURSOCONHECIDO E PARCIALMENTE PROVIDO.
+RECURSO ADESIVO. PEDIDO DE RETIFICAÇÃO DO VALOR DA PENSÃO. CRITÉRIOS PARA O CÁLCULO NÃO DEDUZIDOS NA EXORDIAL E CONSEQUENTEMENTE, NÃO SUBMETIDOS AO CRIVO DO CONTRADITÓRIO E AO ESCRUTÍNIO DO JUÍZO DE PRIMEIRO GRAU. INOVAÇÃO RECURSAL. VIOLAÇÃO AOS PRINCÍPIOS DA ESTABILIDADE DA LIDE, DO DUPLO GRAU DE JURISDIÇÃO E DO EFEITO DEVOLUTIVO DA APELAÇÃO. RECURSO NÃO CONHECIDO." (fls. 181/182, e-STJ).
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Recurso especial: alega violação dos arts. 492 e 1.022do CPC/2015, sustentando, em síntese,a negativa de prestação jurisdicional quanto ao julgamento fora do pedido (extra petita), bem comoo julgamento além dos limites impostos no pedido inicial ao argumento de que " "ao cessar para um dos beneficiários o direito de receber pensão, sua cota-parte deverá ser acrescida à dos demais"deixou de considerar que tal questão não foi posta ao contraditório e a ampla defesa, surgindo de forma surpreendente quando do julgamento da apelação em nítido caráter extra petita pois não foi requerido na peça exordial" (fl. 450, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento:aplicação do CPC/2015.
+1.Da violação doart.1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação; ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos pontos supostamente omissos, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Nesse sentido, o Tribunal de origem ao julgar os embargos de declaração opostos quanto àquestão atinente ao julgamento fora do pedido, assim assentou:
+"Por fim, a determinação de que "ao cessar para um dos beneficiários o direito de receber pensão, sua cota-parte deverá ser acrescida à dos demais", justifica-se considerando que, caso o de cujus continuasse vivo, e deixasse de assistir a um de seus beneficiários, utilizaria essa parcela de seu salário para melhor assistir aos demais.
+(..)
+Assim, descabe a alegação de a medida configura julgamento extra petita (isto é, concedeu algo a mais do que foi pedido), porquanto meramente se determinou de que modo deverá se dar o pensionamento mensal requerido pelos autores, ao longo do tempo." (fls. 307/308, e-STJ).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto a Súmula 568/STJ.
+2.Do julgamento fora do pedido (extra petita) -Súmula 568 do STJ
+Da detida análise dos autos, verifica-se a decisão proferida pelo Tribunal de local está de acordo coma jurisprudência do STJno sentido de que não configura "julgamento além do pedido"quando o Tribunaldecide questão que é reflexo do pedido na inicial, pois este deve ser interpretado em consonância com a pretensão deduzida como um todo.
+Assim,o acolhimento da pretensão extraídada interpretação lógico-sistemática da peça inicial não implica em "julgamento além do pedido".
+Nesse sentido: REsp 863.890/SC,TERCEIRA TURMA, julgado em 17/02/2011, DJe 28/02/2011 eAgInt no AREsp 1428896/SP, QUARTA TURMA, julgado em 30/05/2019, DJe 03/06/2019.
+Assim, com fundamento na Súmula 568/STJ, o acórdão recorrido não merece reforma.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados em 3% sobre o valor da condenação devidos pelarecorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. JULGAMENTO ALÉM DO PEDIDO. NÃO CONFIGURAÇÃO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DA PETIÇÃO INICIAL. SÚMULA 568/STJ. PRECEDENTES.
+1.Açãode reparação de danos materiais e morais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Ajurisprudência do STJ é no sentido de que não configura "julgamento além do pedido"quando o Tribunal decide questão que é reflexo do pedido na inicial, pois este deve ser interpretado em consonância com a pretensão deduzida como um todo.
+4. Assim, o acolhimento da pretensão extraída da interpretação lógico-sistemática da peça inicial não implica em "julgamento além do pedido". Precedentes.
+5. Agravo conhecido. Recurso especial conhecido e não provido.
