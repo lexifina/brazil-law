@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIADE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, napetição do seu agravo interno, impugnar especificamente os fundamentos dadecisão agravada, o que, na hipótese dos autos, não foi atendido.
+2.No caso, ao invés de confrontar a fundamentação contida na decisão agravada, que entendeu por afastar a suscitada ofensa ao art. 1.022, II, do CPC, a parte agravante limitou-se a reiterar os argumentos que, sob sua ótica, demonstrariam a existência de omissão no acórdão proferido pelo Tribunal de origem.
+3. Incidência da Súmula 182/STJ, a saber: "É inviável o agravo do art. 545 do CPCque deixa de atacar especificamente os fundamentos da decisão agravada.".
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno manejado porESTADO DO PARANÁcontra decisão exarada pela Presidência do STJ que conheceu do agravo para conhecerem parte do recurso especial e, nessa extensão, negar-lhe provimento.
+A parte agravante reitera os argumentos no sentido de que houve violação do art. 1.022, II, do CPC, sob o fundamento de que o Tribunal de origem foi omisso quanto à existência de ações discriminatórias transitadas em julgado que reconhecem a natureza de terra devoluta do imóvel objeto da ação de usucapião.
+Assevera que o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná foi lacônico a respeito da alegação trazida no recurso de apelação, em que se demonstra a existência de sentença transitada em julgado reconhecendo que a Gleba 4 - Cerrado era pública.
+Requer a reforma da decisão agravada, a fim de que o recurso especial seja conhecido e, no mérito, provido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIADE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, napetição do seu agravo interno, impugnar especificamente os fundamentos dadecisão agravada, o que, na hipótese dos autos, não foi atendido.
+2.No caso, ao invés de confrontar a fundamentação contida na decisão agravada, que entendeu por afastar a suscitada ofensa ao art. 1.022, II, do CPC, a parte agravante limitou-se a reiterar os argumentos que, sob sua ótica, demonstrariam a existência de omissão no acórdão proferido pelo Tribunal de origem.
+3. Incidência da Súmula 182/STJ, a saber: "É inviável o agravo do art. 545 do CPCque deixa de atacar especificamente os fundamentos da decisão agravada.".
+4. Agravo interno não conhecido.
+VOTO
+A decisão agravada foi exarada nos seguintes termos (e-STJ, fls. 638-639):
+No caso em exame, o Tribunal de origem se manifestou nos seguintes termos:
+De pronto, verifica-se que o presente recurso deve ser desprovido. É que a sentença proferida na ação discriminatória nº 49/77 (mov. 170.2) teve por objeto apenas o imóvel denominado "Campina Alta", de sorte que não há coisa julgada reconhecendo que o imóvel usucapiendo, situado na Gleba nº 04 - Cerrado, seja terra devoluta e, via de consequência, de domínio público. Além disso, verifica-se que o próprio Estado do Paraná, na contestação (mov. 69.1), reconhece que "A área usucapida está sob a incidência da transcrição n. 4.587 do livro 3/5 de origem questionável, portanto é terra devoluta, de titularidade do Estado do Paraná". Ora, o réu reconhece que existe transcrição particular do imóvel, de sorte que desarrazoada sua afirmação de que o imóvel seria devoluto, pois a terra devoluta presume a inexistência de registro - frise-se que sequer há indícios de inexistência de domínio particular, no caso, já que se trata de um imóvel que claramente vem sendo utilizado há tempos por particulares. Tampouco é aplicável, no caso, o argumento também trazido na contestação de que "Em caso de controvérsia, cabe ao particular o ônus de provar o seu domínio"; aqui, a presunção é do contrário, pois trata-se de imóvel com registro e o réu é quem afirma que esse registro seria "questionável", de forma que deveria provar sua nulidade (art. 1.245 § 2º do CCB). E ainda que o registro indicado fosse de origem duvidosa, é entendimento pacífico deste Tribunal que a simples inexistência de registro imobiliário não faz presumir que o imóvel seja devoluto (fls. 516-517).
+Assim, a alegada afronta ao art. 1.022 do CPC não merece prosperar, porque o acórdão recorrido examinou devidamente a controvérsia dos autos, fundamentando suficientemente sua convicção, não havendo se falar em negativa de prestação jurisdicional porque inocorrentes quaisquer dos vícios previstos no referido dispositivo legal, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Da leitura do presente agravo interno, observa-se que a parte insurgentenão infirmou, de modo específico, a argumentação que foi apresentada pela decisão agravada, limitando-se a reiterar os fundamentos pelos quais entendeu que o Tribunal de origem afrontou o disposto no art. 1.022, II, do CPC.
+Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, napetição do seu agravo interno, impugnar especificamente os fundamentos da
+decisão combatida, o que, na hipótese dos autos, não foi atendido.
+Incide na espécie o óbice da Súmula 182/STJ: "É inviável o agravo do art.545 do CPC que deixa de atacar especificamente os fundamentos da decisãoagravada."
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. A decisão ora agravada não conheceu do Agravo em Recurso Especial, em razão de sua intempestividade, ressaltando que a comprovação da existência de feriado local deve se dar no momento da interposição do recurso, por documento idôneo (cópia da lei, ato normativo ou certidão exarada por servidor habilitado), não servindo para tanto a juntada de calendário do Tribunal de origem, nos termos da jurisprudência do STJ.
+III. O Agravo interno, porém, não impugna, especificamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EAREsp 608.466/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 30/04/2018; AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016; AgInt no AREsp 860.148/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/05/2016; AgRg no AgRg no AREsp 731.339/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 06/05/2016; AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 13/05/2016. IV. Agravo interno não conhecido. (AgInt na PET no AREsp 1.602.964/SE, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/11/2020, DJe 30/11/2020).
+PROCESSO CIVIL. PREVIDENCIÁRIO. EXECUÇÃO. NEGADO PROVIMENTO A RECURSO ESPECIAL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ. ADMISSIBIILIDADE.
+I. Em virtude da aplicação do princípio da dialeticidade previsto, para os agravos internos, no §1º do art. 1.021 do Código de Processo civil, não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida.
+II. No agravo interno, a parte agravante não impugnou todos os fundamentos da decisão que pretende reformar, determinando a aplicação do enunciado n. 182 da súmula do STJ.
+III. Agravo interno não conhecido. (AgInt no AREsp 877.856/RJ, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 8/11/2016, DJe 23/11/2016).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
