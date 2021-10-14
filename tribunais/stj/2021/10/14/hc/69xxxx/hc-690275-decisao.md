@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deEDRIANO LIMA DE SOUZAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE(Apelaçãon. 202100314758).
+Depreende-se dos autos que o réu foi condenado "às penas do art. 155, § 4º, inciso II, c/c art. 14, II, e, art. 307, na forma do art. 69, todos do Código Penal Brasileiro,fixando em desfavor do mesmo as reprimendas, nos seguintes moldes: PARA O CRIME DE FURTO QUALIFICADO PELA ESCALADA, NA FORMA DO ART. 14, II DO CP, restou fixada a pena definitiva em 01 (um) ano e 10 (dez) de reclusão, a ser cumprida, inicialmente, em regime fechado, em razão dos maus antecedentes e reincidência, além da pena de multa de 20 (vinte) dias-multa, estabelecendo o valor do dia-multa, em função da situação econômica do réu, 1/30 (um trigésimo) do salário-mínimo vigente à época do fato. PARA O CRIME DE FALSA IDENTIDADE, torno a pena definitiva em 05 (cinco )meses e 04(quatro) dias de detenção, a ser cumprida inicialmente em regime semiaberto, também em razão da reincidência e dos maus antecedentes" (e-STJ fl. 107).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (e-STJ fls. 106/110).
+Daí o presente writ, no qual sustenta a defesa que "o acórdão combatido contrariou as disposições dos artigos 158, 167 e 171, do CPP, visto que reconheceu a qualificadora escalada sem a produção de prova pericial e sem apresentar qualquer justificativa no sentido de que os vestígios da infração tenham desaparecido ou que as circunstâncias do crime não permitiram a confecção do laudo" (e-STJ fl. 10).
+Requer, liminarmente e no mérito, seja decotada a qualificadora da escalada.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+É o relatório.
+Decido.
+No tocante ao pedido de afastamento da qualificadora da escalada, a Corte a quo assim se manifestou(e-STJ fls. 40/41):
+DO AFASTAMENTO DA QUALIFICADORA DA ESCALADA
+No caso examinado, cumpre-me aferir que no caso examinado, o recorrente para ingressar na igreja e subtrair os objetos, inicialmente, pulou um portão da igreja de aproximadamente 3 metros.
+O desate da questão é justamente se existe a necessidade de perícia ou não para reconhecimento da qualificadora.
+Dessa forma, cumpre registrar que a exigência de prova pericial somente deve ser feita quando a existência de determinado elemento do crime só puder ser provada por meio de conhecimento técnico e, nesta senda, havendo um fato qualquer cuja existência está ao alcance do conhecimento comum, pode ser comprovada por outro meio de prova.
+A propósito, a Câmara Criminal desta Corte já se manifestou nos seguintes precedentes:
+ ..
+Ora, neste sentido, trago a colação a fundamentação idônea da sentença que esclarece: " (..)Lado outro, entendo que a qualificadora da escalada (art. 155, § 4º, II, do CP) deve ser reconhecida nesse caso, tendo em vista que foi necessário ao agente subir em algum ponto mais alto que o seu caminho natural (..).
+E, ainda, trago a colação as provas coligidas aos autos, especialmente os depoimentos das testemunhas que esclarecem a dinâmica dos fatos:
+ANTÔNIO DE SOUZA (testemunha - audiência em 12/03/2021):"..que ele pulou o portão da frente, que é muito alto, e arrombou uma janela para entrar na igreja. Que o portão deve ter uns três metros..".
+MARCELO DA SILVA BRITO (policial militar - audiência em 12/03/2021):"..que tem umas grades com lanças e ele teria pulado; que tem mais de dois metros, com certeza.."
+Ademais, não olvido, a confissão do acusado em juízo confira-se:
+EDRIANO LIMA DE SOUZA (réu - interrogado em 12/03/2021):"..que entrei na igreja; tentei subtrair os objetos. Que pulei o portão de mais ou menos dois metros de altura. Que cortei a grade e entrei. Que peguei a televisão e o som e fui para fora, foi logo quando a polícia chegou e me prendeu."
+Ora, neste passo vejo que quanto à qualificadora prevista no art. 155, §4º, inciso II do CP, qual seja:"escalada", entendo que o seu afastamento é inadmissível. Isso porque, pode-se denotar através dos depoimentos colacionados, e, ainda, a própria confissão do acusado, indica que o apelante escalou o portão da igreja, objetivando atingir o seu intento criminoso.
+E, ainda, cumpre-me asseverar que, a escalada, em geral, não deixa vestígios, inviabilizando a realização da prova pericial e possibilitando a sua comprovação por outros meios, como no caso dos autos.
+O reconhecimento da qualificadora relativa à escalada prescinde de perícia técnica, podendo ser verificado por outros meios de prova. Na espécie, a referida qualificadora deve ser mantida, pois restou comprovado pelo depoimento da testemunha policial, da vítima e pela confissão do acusado que o recorrente pulou o portão para ter acesso ao local da subtração.
+Ora, embora não haja laudo pericial atestando o reconhecimento da escalada, a prova testemunhal e, sobretudo, a própria confissão do réu, assegura que o apelante subtraiu a res furtiva após ingressar dentro do local mediante escalada, situação diferente seria se houvesse dúvidas se o réu teria mesmo escalado o muro, ou, ingressado por outro mecanismo, a exemplo do emprego de chave falsa ou, quando a porta encontra-se entreaberta, hipóteses em que o laudo pericial é indispensável.
+No caso dos autos, todas as provas apontam que a subtração se deu mediante escalada, não havendo nenhuma versão divergente.
+Portanto, rejeito o pedido de afastamento da qualificadora. (Grifei.)
+Como se vê, no que tange ao pedido de afastamento da qualificadora da escalada, manifestou-se o tribunal de origem no sentido de que, a despeito de não realizada a perícia, a prova oral seria suficiente para se chegar à conclusão de que o delito havia sido praticado na forma qualificada descrita no art. 155, § 4º, II, do CP.
+A jurisprudência desta Corte, contudo, é assente no sentido de que a substituição do laudo pericial por outros meios de prova apenas pode ocorrer se o delito não deixar vestígios, se estes tiverem desparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo. Nesse sentido: HC n. 557.197/MS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/2/2020, DJe 27/2/2020; AgRg no REsp n. 1.842.785/MS, relator Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJPE), QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019; AgRg no REsp n. 1.227.513/RS, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/8/2017, DJe 30/8/2017; AgRg no AgRg no REsp n. 1.419.093/DF, relator Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 10/3/2015, DJe 26/3/2015.
+No caso, embora o delito até possa não terdeixado vestígios,nenhuma das hipóteses que inviabilizam a realização do laudo pericial foi mencionada pela Corte a quo, razão pela qual merece ser acolhida a pretensão defensiva para o afastamento da qualificadora da escalada. Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. ESCALADA.DESAPARECIMENTO DE VESTÍGIOS. PROVA ORAL. QUALIFICADORA.POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento da qualificadora da escalada, prevista no art.155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo, como ocorrido nestes autos.
+2. Agravo regimental não provido.
+(AgRg no AREsp 1519470/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/06/2020, DJe 01/07/2020, grifei)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL.FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO E ESCALADA. LAUDO PERICIAL. DESAPARECIMENTO DOS VESTÍGIOS. REPAROS EFETUADOS PELA VÍTIMA. OUTROS ELEMENTOS DE PROVAS. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 158 do Código de Processo Penal determina que, quando a infração deixar vestígios, será indispensável o exame de corpo de delito. Todavia, o art. 167 deste mesmo diploma normativo prevê que, não sendo possível o exame de corpo de delito, por haver desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta.
+2. No caso, a Corte de origem expressamente consignou que houve o desaparecimento dos vestígios, pois a própria vitima esclareceu, ainda na fase do inquérito, que não preservou o local para a realização da perícia técnica.
+3. A jurisprudência desta Corte Superior entende ser admissível a prova testemunhal na comprovação das qualificadoras do delito de furto quando os vestígios da infração forem removidos/alterados pela vítima após os fatos com o objetivo de garantir a sua segurança.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1809401/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/06/2020, DJe 04/08/2020, grifei)
+No caso, afastada a qualificadora da escalada, desclassifico a conduta para o art. 155, caput, do Código Penal.
+Passo, portanto, ao redimensionamento da reprimenda.
+Na primeira fase, elevo a sanção em 1/6, haja vista os maus antecedentes do paciente, razão pela qual fixo a pena-base em 1 ano e 2 meses de reclusão, mais pagamento de 11 dias-multa.
+Na segunda fase, a pena permanece no mesmo patamar, haja vista a compensação da agravante da reincidência com a atenuante da confissão.
+Na derradeira etapa, em razão do conatus, reduzo a sanção em 1/3, fixando-a,definitivamente,em 9 meses e 10 dias de reclusão, mais pagamento de 7dias-multa.
+O regime prisional mantém-se o fechado, nos termos do art. 33, §§ 2º e 3º, do Código Penal, haja vista a reincidência e o afastamento da pena-base do mínimo legal.
+Ante o exposto, concedo o habeas corpus, a fim de reduzir a pena do paciente, apenas no tocante aodelito de furto, para 9meses e 10 dias de reclusão,mais pagamento de 7dias-multa.
+Publique-se. Intimem-se.
