@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de PAULO EDUARDO ALMADA RODRIGUES JUNIOR, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem originária e manteve a prisão cautelar do paciente pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+Nesta Corte, a defesa alega, em suma, ausência de fundamentação adequada para a manutenção da segregação provisória.
+Sustenta que "não houve também a reavaliação da necessidade da prisão preventiva a cada 90 dias, ou seja, fazem 120 dias que o Magistrado a quo não se manifesta nos autos sobre nenhum dos pedidos e requerimentos da defesa".
+Ressalta que o paciente é primário, de bons antecedentes e reside em local fixo.
+Aduz que não há contemporaneidade do encarceramento preventivo e que "existe uma declaração de uma das passageiras do paciente e ré nos autos originários assumindo que a droga era dela e que o paciente era apenas um motorista de APP contratado por ela, fatos ignorados pelo Magistrado a quo bem como no acórdão".
+Argumenta que a custódia cautelar é descabida, uma vez que, caso seja condenado, será imposta sanção menos gravosa em virtude de se tratar de "mula do tráfico".
+Afirma, ainda, serem suficientes medidas cautelares diversas da prisão.
+Requer, assim, a revogação da prisão preventiva, ainda que com a imposição de medidas cautelares diversas.
+É o relatório.
+Decido.
+Esta  Corte  -  HC  535.063/SP,  Terceira  Seção,  Rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/6/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  180.365,  Primeira  Turma,  Rel.  Min.  Rosa  Weber,  julgado  em  27/3/2020;  AgR  no  HC  147.210,  Segunda  Turma,  Rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018  -,  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado. Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+Da análise dos autos, observa-se que as teses de ausência de fundamentos concretos para a prisão preventiva e de indícios de autoria dos delitos ora imputados, já foram objeto de análise no HC 693317/SP, de minha relatoria, o que constitui óbice ao seu conhecimento.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DO PLEITO FORMULADO NO HC N.º 481.921/DF. LITISPENDÊNCIA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido formulado no HC n.º 483.855/DF é mera reiteração daquele veiculado no HC n.º 481.921/DF, pois há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria
+2. Não podem ser processados, nesta Corte, concomitantemente, habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+3. Agravo Regimental desprovido." (AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 19/02/2019)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE HABEAS CORPUS. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDOS. NÃO CABIMENTO DE NOVA IMPETRAÇÃO. DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se conhece de habeas corpus que deduz pretensão já apreciada e julgada em anterior impetração.
+2. Hipótese em que a irresignação manifestada no presente habeas corpus tem por objeto as mesmas questões já debatidas por esta Corte no julgamento do HC n. 451.646/SP, impetrado em favor do mesmo paciente, oportunidade em que o Superior Tribunal de Justiça emitiu juízo sobre a legalidade dos fundamentos exarados pelo Tribunal local para não aplicar o redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, para refutar a tese de ocorrência de bis in idem na primeira e terceira fases da dosimetria e para manter o regime prisional mais gravoso, prejudicadas as demais teses.
+3. (..).
+4. Agravo regimental improvido."
+(AgRg no HC 469.249/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+No que concerne à ausência de reavaliação da custódia cautelar, vale anotar que esta Corte tem entendimento de que a mera extrapolação do prazo de 90 não torna, por si só, ilegal a custódia provisória.
+Conforme assentado, "o prazo de 90 dias para reavaliação da prisão preventiva, determinado pelo art. 316, paragrafo único, do CPP, é examinado pelo prisma jurisprudencialmente construído de valoração casuística, observando as complexidades fáticas e jurídicas envolvidas, admitindo-se assim eventual e não relevante prorrogação da decisão acerca da mantença de necessidade das cautelares penais" (AgRg no HC 579.125/MA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020).
+No caso, o Tribunal de origem (e-STJ, fl. 18) consignou que a prisão em flagrante e a sua conversão em custódia preventiva ocorreram em 9/6/2021, com oferecimento de denúncia no dia 24/6/2020 e seu recebimento no dia 7/7/2020. Determinada a citação do paciente e dos demais corréus, foi designada audiência de instrução e julgamento para o dia 30/8/2020, a qual foi redesignada para o dia 3/11/2020 em razão da ausência de testemunhas.
+Destarte, como se verifica, o processo segue tramite regular. Assim, o pequeno atraso de um mês no reexame da custódia é insuficiente para torná-la ilegal.
+Ante o exposto, indefiro liminarmente o habeas corpus. Recomenda-se, entretanto, ao Juízo processante, que revise a necessidade da manutenção da prisão, nos termos do que determina o art. 316 do Código de Processo Penal, com as alterações promovidas pela Lei n. 13.964/2019.
+Publique-se. Intimem-se.
