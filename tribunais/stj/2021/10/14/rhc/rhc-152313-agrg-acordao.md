@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. FEMINICÍDIO. ILEGALIDADES NA AÇÃO PENAL. WRIT DEVIDAMENTE NÃO CONHECIDO PELO TRIBUNAL LOCAL. APRECIAÇÃO NESTA CORTE SUPERIOR. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O Tribunal local atuou em conformidade com a jurisprudência deste Tribunal Superior ao não conhecer do habeas corpus originário. Diante do não conhecimento da tese pelo Tribunal de origem, o debate nesta Corte Superior implicaria indevida supressão de instância, com explícita violação à competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por MISAEL WILLIAM MATOS contra decisão de minha lavra, em que indeferi liminarmente a petição recursal, ementada nos seguintes termos (fl. 1982):
+"RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. FEMINICÍDIO. ILEGALIDADES NA AÇÃO PENAL. WRIT DEVIDAMENTE NÃO CONHECIDO PELO TRIBUNAL LOCAL. APRECIAÇÃO NESTA CORTE SUPERIOR. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. INDEFERIDO LIMINARMENTE."
+Nas razões recursais, sustenta o Agravante, em síntese, que o habeas corpus originário e o recurso ora interposto devem ser apreciados, diante das "ilegalidades" praticadas durante a ação penal.
+Pede, desse modo, a reconsideração da decisão impugnada ou a apreciação do feito pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. FEMINICÍDIO. ILEGALIDADES NA AÇÃO PENAL. WRIT DEVIDAMENTE NÃO CONHECIDO PELO TRIBUNAL LOCAL. APRECIAÇÃO NESTA CORTE SUPERIOR. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O Tribunal local atuou em conformidade com a jurisprudência deste Tribunal Superior ao não conhecer do habeas corpus originário. Diante do não conhecimento da tese pelo Tribunal de origem, o debate nesta Corte Superior implicaria indevida supressão de instância, com explícita violação à competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+2. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA) :
+A irresignação não deve prosperar.
+A Corte Local, no caso, não apreciou a tese sobre as supostas ilegalidades no curso da ação penal. Consignou que " ..  o habeas corpus, em regra, não se presta a desconstituir decisão condenatória transitada em julgado. Para tanto existe ação própria - revisão criminal" (fl. 1903), afirmando que "não se evidenciou, de plano, qualquer ilegalidade na ação penal 2016.06.1.004758-8" (fls. 1944-1945).
+Ao justificar a ausência de flagrante ilegalidade quanto à tese sustentada, a Corte local consignou que (fls. 1945-1946):
+"O agravante questiona o desempenho do causídico que atuou na ação penal - diz, entre outras alegações, que "não apresentou as eventuais preliminares importantes ao caso em comento, não alegou os pontos que interessava a defesa do Paciente, não ofereceu em tempo hábil os documentos necessários para a elucidação da condição psíquica do Paciente, não especificou as provas que pretendia produzir, de modo que se limitou a arrolar testemunhas de forma genérica (..) as alegações finais por memorial apresentadas pela defesa não abordou qualquer fato ou direito que pudesse beneficiar o Paciente." (ID 27103587). A deficiência da defesa, no processo penal, constitui nulidade relativa. Só anula o processo se houver prova de prejuízo para o réu (súmula 523 do c. STF).
+ ..
+O advogado constituído manifestou-se em todas as situações - participou dos atos e termos processuais. Não houve demonstração do efetivo prejuízo. E, como se disse, a questão foi examinada na apelação. Reitere-se que a deficiência de defesa ou suspeição - questões passíveis de gerar nulidade relativa - impõem sejam alegadas em tempo oportuno, sob pena de preclusão (art. 571, I e II, do CPP)."
+Tais fundamentos afastam a possibilidade de constatação de flagrante ilegalidade da tese alegada pela defesa na instância a quo, pois estão em consonância com o entendimento desta Corte Superior.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DEFESA INEXISTENTE. NÃO OCORRÊNCIA. PREJUÍZOS NÃO DEMONSTRADOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+Conforme posicionamento jurisprudencial deste Tribunal Superior, em homenagem ao art. 563 do CPP, não se declara a nulidade de ato processual se a irregularidade não foi suscitada em prazo oportuno e não vier acompanhada da prova do efetivo prejuízo para a parte. Nos termos da Súmula n. 523 do Supremo Tribunal Federal, "no processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu". Hipótese em que o Tribunal de origem evidenciou que não há, nos autos, prova de que a defesa foi inexistente nem realizada com prejuízo ao acusado. Agravo regimental não provido." (AgRg no REsp 1.895.469/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/12/2020, DJe 15/12/2020.)
+Assim, o Tribunal local atuou em conformidade com a jurisprudência deste Tribunal Superior ao não conhecer do habeas corpus originário.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. "OPERAÇÃO FÊNIX". CRIMES DE ORGANIZAÇÃO CRIMINOSA, TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO. ALEGADA NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS E DOS ELEMENTOS DE PROVAS DECORRENTES. INOCORRÊNCIA INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Precedentes: STF, HC 147.210-AgR, Rel. Ministro EDSON FACHIN, DJe de 20/2/2020; HC 180.365AgR, Relatora Ministra ROSA WEBER, DJe de 27/3/2020; HC 170.180-AgR, Relatora Ministra CÁRMEM LÚCIA, DJe de 3/6/2020; HC 169174-AgR, Relatora Ministra ROSA WEBER, DJe de 11/11/2019; HC 172.308-AgR, Rel. Ministro LUIZ FUX, DJe de 17/9/2019 e HC 174184-AgRg, Rel. Ministro LUIZ FUX, DJe de 25/10/2019. STJ: HC 563.063-SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 10/6/2020; HC 323.409/RJ, Rel. p/ acórdão Ministro FELIX FISCHER, Terceira Seção, julgado em 28/2/2018, DJe de 8/3/2018; HC 381.248/MG, Rel. p/ acórdão Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 22/2/2018, DJe de 3/4/2018.
+ ..
+8. Habeas corpus não conhecido." (HC 562.471/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/04/2021, DJe 13/04/2021; sem grifos no original.)
+Desse modo, diante do não conhecimento da tese pelo Tribunal de origem, o debate nesta Corte Superior implicaria indevida supressão de instância, com explícita violação à competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+Nesse sentido:
+"RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. NEGATIVA DO RECURSO EM LIBERDADE. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO INIDÔNEA. REGIME. SUPRESSÃO DE INSTÂNCIA. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE.
+ ..
+4. A matéria relativa ao regime inicial de cumprimento de pena não foi efetivamente analisada pelo Tribunal de Justiça estadual, o que não autoriza a inauguração, neste ponto, da competência do Superior Tribunal de Justiça.
+5. Recurso parcialmente conhecido e, nessa extensão, provido em parte para assegurar aos recorrentes Mateus e Anderson o direito de responder à ação penal em liberdade até que se esgote a prestação jurisdicional pelas instâncias ordinárias, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida alternativa, nos termos do art. 319 do CPP." (RHC 101.887/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/02/2019, DJe 11/03/2019; sem grifos no original.)
+Dessa forma, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, que estão em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
