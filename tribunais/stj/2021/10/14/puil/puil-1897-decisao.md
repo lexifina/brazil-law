@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei manejado por GUSTAVA CARVALHO MAGALHÃES, com fulcro no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão prolatado pelo Colégio Recursal de São José dos Campos/SP assim ementado (e-STJ fl. 16):
+RECURSO INOMINADO. ESTADO DO RIO GRANDE DO SUL. AJUDA DE CUSTO. LEI COMPLEMENTAR ESTADUAL Nº 13.452/2010. PRESCRIÇÃO. PRAZO QUINQUENAL. SÚMULA 383 DO SUPREMO TRIBUNAL FEDERAL.
+1) Nos termos do artigo 1º do Decreto nº 20.910/32, as dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.
+2) Do que se infere do exame dos autos, tem- se, estreme de controvérsias, que o termo inicial do prazo prescricional inicioucom a posse no cargo da parte autora, em 30/06/2010 (fl. 133). Por outro lado, quanto à interrupção, que só pode ocorrer uma vez, nos termos do artigo 8º do referido Decreto, esta ocorreu com o pedido administrativo de concessão da ajuda de custo, datado de 18/08/2010, e retomou o seu curso, pela metade do prazo (vide artigo 9º do Decreto 20.910/32), a contar da ciência, pela parte autora, da decisão proferida no processo administrativo, o que ocorreu em 28/06/2012 (fl. 05).
+3) Avaliando o Enunciado nº 383 do Supremo Tribunal Federal em cotejo com o caso concreto, anota-se que o interstício mínimo de 05 (cinco) anos do início da prescrição (30/06/2010), que foi interrompida na primeira metade do prazo, encerrou-se em 30/06/2015. Considerando-se, a partir dessas premissas, que a presente demanda foi ajuizada somente em 22/05/2017, não há outra solução que o reconhecimento da prescrição da pretensão veiculada na inicial.
+RECURSO PROVIDO. UNÂNIME.
+Declaratórios rejeitados (e-STJ fls. 87/90).
+A requerente sustenta que o aresto atacado divergiu da orientação daTurmas Recursal Fazendária Extraordináriado Estado do Rio de Janeiro, no sentido de que, "como não tinha se esgotado o prazo de 5 anos desde a decisão do processo administrativo (último ato - notificação do indeferimento no âmbito administrativo), a Turma carioca entendeu que não havia prescrição" (e-STJ fl. 110).
+Passo a decidir.
+Dispõem os arts. 18, §§ 1º, 2º e 3º,e 19 da Lei n. 12.153/2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1o O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2o No caso do § 1o, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3o Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1o do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência
+Consoante previsto nos referidos dispositivos, bem como no art. 67, parágrafo único, VIII-A do RISTJ, o pedido de interpretação de lei submetido ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, somente é cabível - em questão de direito material - em três hipóteses: (i) quando as Turmas Recursais dos Juizados Especiais de Fazenda Pública de diferentes Estados derem a lei federal interpretações divergentes; (ii) quando a decisão proferida estiver em contrariedade com súmula do STJ; (iii) quando a Turma de Uniformização contrariar súmula desta Corte.
+Feito esse registro, o incidente não deve ser conhecido.
+Com efeito, conforme jurisprudênciado STJ, deve-se demonstrar a divergência mediante: juntada de certidão oude cópia autenticada do acórdão paradigma, ou, em sua falta, da declaraçãopelo advogado da autenticidade dessas; citação de repositório oficial,autorizado ou credenciado, em que o acórdão divergente foi publicado e;cotejo analítico, com a transcrição dos trechos dos acórdãos em que sefunda a divergência, além da demonstração das circunstâncias queidentificam ou assemelham os casos confrontados.
+Na presente hipótese, a parte requerente limitou-se colacionar trechos do voto proferido pela Turma Recursal do RJe não efetivou aindispensável"transcrição de trechos do relatório e do voto do acórdão recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de caracterizar a divergência jurisprudencial." (AgRg Pet 10.607/AC, Rel.Min.MAURO CAMPBELL MARQUES, Primeira Seção, DJe 24/02/2015), sendo certo que a mera transcrição do voto condutor do aresto paradigmanão basta para o conhecimento do incidente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.AUSÊNCIA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DE EMENTAS. AUSÊNCIA DESIMILITUDE FÁTICA ENTRE OS JULGADOS. ARGUMENTOS INSUFICIENTES PARADESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em09.03.2016, o regime recursal será determinado pela data da publicação do
+provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se oCódigo de Processo Civil de 2015.
+II - A parte deve proceder ao cotejo analítico entre os arestosconfrontados e transcrever os trechos dos acórdãos que configurem odissídio, sendo insuficiente, para tanto, a mera transcrição de ementas.
+III - É entendimento pacífico dessa Corte que o Pedido de Uniformização de
+Interpretação de Lei não pode ser conhecido quando ausente similitudefática entre os julgados confrontados.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes paradesconstituir a decisão recorrida.
+V - Agravo Interno improvido. (AgInt no PUIL 268/RN, Rel. Ministra REGINAHELENA COSTA, PRIMEIRA SEÇÃO, julgado em 10/05/2017, DJe 15/05/2017) .
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido de uniformização.
+Publique-se. Intimem-se.
