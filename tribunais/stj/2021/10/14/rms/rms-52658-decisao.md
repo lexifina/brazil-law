@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário interposto com fundamento no art. 105, II, "b", da CFcontra acórdão do Tribunal de Justiça de Minas Geraisassim ementado (e-STJ fl. 97):
+MANDADO DE SEGURANÇA - SERVIDOR PÚBLICO ESTADUAL - PROMOÇÃO POR ESCOLARIDADE ADICIONAL -PROVA- LEI ESTADUAL Nº 14.695/2003 - NÃO PREENCHIMENTO DOS REQUISITOS - DENEGAÇÃO DA SEGURANÇA.
+Defende a impetrante, em resumo, que observando a grade curricular do curso na qual se graduou, resta claro que tem sim relação com a atividade de agente penitenciário, pelo que faria jus à promoção por escolaridade adicional.
+Contrarrazões (e-STJ fls. 133/147).
+Parecer do MPF opinando pelo não provimento do recurso (e-STJ fls. 153/159).
+Passo decidir.
+Entendo que o recurso não merece guarida.
+Esta Corte, em casos idênticos ao ora em exame, firmou entendimento de que a discussão sobre se a formação complementar guarda ou não relação com a natureza do cargo demanda dilação probatória, incompatível com o mandado de segurança.
+Exemplificativamente, cite-se o seguinte precedente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. AGENTE PENITENCIÁRIO. GRADUAÇÃO EM CIÊNCIAS CONTÁBEIS. PROMOÇÃO POR ESCOLARIDADE ADICIONAL. ART. 11, § 3º, DA LEI ESTADUAL 14.695/2003. DECRETO ESTADUAL 44.769/2008. REQUISITOS. FORMAÇÃO RELACIONADA COM A NATUREZA E A COMPLEXIDADE DA CARREIRA. NÃO CUMPRIMENTO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE, NA VIA DO MANDADO DE SEGURANÇA. AGRAVO INTERNO IMPROVIDO.
+I. In casu, trata-se de Mandado de segurança, impetrado por servidor público estadual, ocupante do cargo de Agente de Segurança Penitenciário, contra suposto ato ilegal do Secretário de Estado de Defesa Social de Minas Gerais, objetivando a concessão da promoção por escolaridade adicional, anteriormente indeferida, por entender que preenche todos os requisitos previstos no art. 11 da Lei estadual 14.695/2003.
+II. O art. 11, § 3º, da Lei estadual 14.695/2003 - que criou a carreira de Agente de Segurança Penitenciário e deu outras providências -, com redação dada pela Lei estadual 15.788/2005, assegurou o direito, aos integrantes da carreira, à promoção/progressão por escolaridade adicional, consignando, expressamente, que, mediante decreto regulamentador, a progressão ou promoção em análise, entre outros requisitos, perfaz-se quando a formação complementar ou superior está "relacionada com a natureza e a complexidade da respectiva carreira".
+III. É pacífica a jurisprudência desta Corte no sentido de que "o Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do mandamus" (STJ, RMS 45.989/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015).
+IV. Na forma da jurisprudência, "perquirir se a graduação (..) ostenta correlação com as funções desempenhadas por ocupante do cargo de Agente Penitenciário demandaria dilação probatória, o que não é possível em sede de mandado de segurança, via processual na qual se exige prova documental pré-constituída" (STJ, AgInt no RMS 52.261/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 18/10/2017). Nesse sentido: STJ, RMS 54.118/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 12/09/2017; AgInt no RMS 55.047/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 27/11/2017; AgRg no RMS 39.018/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 07/03/2014.
+V. Agravo interno improvido.
+(AgInt no RMS 54.204/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/06/2018, DJe 28/06/2018) (Grifos acrescidos)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
