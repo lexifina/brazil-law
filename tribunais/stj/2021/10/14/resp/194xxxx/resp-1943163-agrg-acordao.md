@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. REVALORAÇÃO DE PROVA. SÚMULA 7/STJ. NÃO INCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INADMISSIBILIDADE. CRIME PRATICADO COM VIOLÊNCIA OU GRAVE AMEAÇA.
+1. O exame da questão relacionada ao afastamento do princípio da insignificância em crime de roubo não é obstada pela Súmula 7/STJ, tendo em vista que constitui revaloração jurídica de fato incontroverso pelas instâncias ordinárias, situação que, por não demandar o reexame detalhado de fatos ou provas, é plenamente admitida na via do recurso especial.
+2. "A jurisprudência desta Corte é firme em assinalar que, nos crimes praticados mediante violência ou grave ameaça contra a vítima, como no roubo, não é aplicável o princípio da insignificância" (AgRg no AREsp 1013662/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/02/2017, DJe 16/02/2017).
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que deu provimento ao recurso especial do Ministério Público.
+Alega o recurso ofensa à Súmula 7/STJ, diante da necessidade de reexame probatório para afastar a incidência do princípio da insignificância em crime de roubo. Requer a reconsideração da decisão ou provimento do recurso para que seja restabelecida a absolvição. Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Conforme relatado, busca o recorrente o restabelecimento da absolvição, estando a decisão recorrida assim lançada (fls. 727/729):
+Consta dos autos que o recorrido foi condenado, como incurso no art. 157, §§ 1º e 2º, do CP, tendo o Tribunal de origem dado provimento ao apelo defensivo para absolver o réu, com base nos seguintes argumentos (fls. 368/369):
+No presente caso o apelante e corréu subtraíram da mercearia de propriedade da vítima Armelinda Tedesco, 01 (um) litro de bebida alcoólica (vodka), que valia aproximadamente R$ 15,00 (quinze reais), conforme declarado pela própria vítima em Juízo.
+A vítima frisou em seu depoimento que os réus estavam bêbados e que pediram o litro da bebida alcoólica e saíram sem pagar, proferindo ameaças, as quais se resumiram na exigência da vítima ficar quieta, pois do contrário, iriam atear fogo em sua casa.
+Tais ameaças, no caso em tela, possuem a finalidade de garantir o vício, diante do fato de que os réus estavam bêbados e adentraram à mercearia pedindo bebida alcoólica, ao que pegaram o litro e saíram sem pagar. Não se parece com ameaça voltada a assegurar a detenção da coisa para si, com a finalidade de lucro fácil.
+Ademais, consigne-se que o réu apelante é filho de clientes da mercearia, os quais fazem compras mensais, conforme declarado pela vítima, a qual conhece o apelante anteriormente ao delito e, enfatizou que os dois réus estavam bêbados.
+Portanto, da análise fática da situação, vislumbro que os requisitos para a aplicação do princípio da da insignificância encontram-se presentes: (a) mínima ofensividade conduta do agente (res que custava aproximadamente R$ 15,00); (b) nenhuma periculosidade social da ação (agente primário - mov. 83.1 e 83.2); (c) reduzidíssimo grau de reprovabilidade do comportamento; e, (d) inexpressividade da lesão jurídica provocada.
+Mostra-se, portanto, de rigor, a aplicação do princípio da insignificância e, de consequência, a atipicidade da conduta.
+Frisa-se, ainda, que os réus são primários e não ostentam antecedentes criminais, desta feita não há demonstração nos autos de que os réus fazem de delitos patrimoniais, seus meios de vida.
+Portanto, há de se reconhecer a aplicação no presente caso, do princípio da bagatela ou insignificância, concluindo - se que a conduta perpetrada pelo apelante e corréu é atípica e o fato não constitui infração penal.
+Pelo exposto, o voto é pelo conhecimento e provimento do presente recurso de apelação, para o fim de reconhecer a atipicidade da conduta, absolvendo o apelante e corréu (art. 580, CPP), com fulcro no art. 386, inc. III, do Código de Processo Penal.
+Verifica-se que o acórdão recorrido diverge da jurisprudência desta Corte, no sentido de que é incabível o princípio da insignificância em relação aos crimes de roubo, visto que praticado o delito mediante violência ou grave ameaça. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AGRAVO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA 182/STJ. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO DO RECURSO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. INCIDÊNCIA DE SÚMULA 83/STJ. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL MAS LHE NEGAR PROVIMENTO.
+1. Havendo impugnação específica quanto aos fundamentos da decisão agravada, deve ser conhecido o recurso.
+2. Nos termos da jurisprudência pacífica desta Corte, o princípio da insignificância não se aplica aos delitos cometidos mediante violência ou grave ameaça a pessoa, como é o caso do crime de roubo. Precedentes.
+3. Agravo regimental provido para conhecer do agravo em recurso especial mas lhe negar provimento.
+(AgRg no AREsp 1450515/PI, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/10/2019, DJe 24/10/2019)
+Ante o exposto, dou provimento ao recurso especial para, afastada a atipicidade material, determinar a devolução dos autos ao Tribunal de origem para que prossiga no julgamento da apelação, como entender de direito.
+O exame da questão relacionada ao afastamento do princípio da insignificância em crime de roubo não incide a Súmula 7/STJ, tendo em vista que constitui revaloração jurídica de fato incontroverso pelas instâncias ordinárias, situação que, por não demandar o reexame detalhado de fatos ou provas, é plenamente admitida na via do recurso especial.
+Por sua vez, "a jurisprudência desta Corte é firme em assinalar que, nos crimes praticados mediante violência ou grave ameaça contra a vítima, como no roubo, não é aplicável o princípio da insignificância" (AgRg no AREsp 1013662/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/02/2017, DJe 16/02/2017).
+Desse modo, constatada a prática de roubo, incabível o reconhecimento do princípio da bagatela, diante da maior gravidade concreta da conduta e elevada reprovabilidade do comportamento, razão por que nego provimento ao agravo regimental.
+É o voto.
