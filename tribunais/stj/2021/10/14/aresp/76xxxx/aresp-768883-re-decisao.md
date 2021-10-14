@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por COMERCIAL DE VIDROS SAO PEDRO LTDA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 3211):
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERENTE.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+2. A conclusão a que chegou o Tribunal de origem, relativa à necessidade de juntada de novos documentos para a conclusão de perícia contábil, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (e-STJ fls. 3266/3273).
+Sustenta a recorrente a repercussão geral da matéria objeto de irresignação, aduzindo a violação ao art. 93, inciso IX, da Constituição Federal.
+Alega que o STJ teria incorrido em negativa de prestação jurisdicional, porquanto não teria se pronunciado de forma individualizada a respeito das diferentes e autônomas violações apontadas no recurso especial.
+Afirma que "com exceção do art. 535 do CPC/73, não se conheceu do recurso especial no que se refere as demais violações legais, sem que NADA TENHA SIDO dito a respeito dos arts. 421, § 1º, I e II, 425, 467e 474 do CPC/73" (e-STJ fl. 3292).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 3320/3328.
+É o relatório.
+Ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118.)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quais o agravo interno não foi provido, valendo destacar o seguinte excerto (e-STJ fls. 3215/3218):
+"O agravo interno não merece acolhida, na medida em que os argumentos apresentados pela parte não infirmam a decisão atacada.
+1. Não restou configurada a negativa de prestação jurisdicional. Conforme a iterativa jurisprudência deste Tribunal superior, deve ser afastada a alegação de ofensa aos artigo 1.022 do CPC/15, "na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional " (RCD no AREsp 1297701/RS, Rel. Ministro SÉRGIO KUKINA,PRIMEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018).
+No mesmo sentido, vejam-se, a título de exemplo: EDcl no Ag 749.349/DF, Rel. Ministro MAURO CAMPBELL MARQUES,SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no REsp 1716263/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE,TERCEIRA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no AREsp 1241784/SP, Rel. Ministro LUIS FELIPE SALOMÃO,QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018.
+No caso em tela, conforme destacado na decisão agravada, o Tribunal local, de modo expresso e fundamentado, consignou que não foi autorizada à parte a faculdade de novamente prestar contas, mas tão somente se determinou a juntada de novos documentos que permitissem a conclusão de perícia contábil.
+Pontuou, ademais, que houve cerceamento de defesa em relação à impugnação ao segundo laudo pericial apresentada pela instituição financeira.
+Logo, não há se falar em negativa de prestação jurisdicional, mas em mero inconformismo da parte com o acolhimento de tese jurídica por parte do Tribunal local.
+2. Conforme disposto da decisão atacada, compete ao juiz, nos termos do art. 130 do CPC/1973, atual art. 370 do CPC/2015, determinar, de ofício ou a requerimento, a produção das provas necessárias à elucidação das questões apresentadas pelas partes. Como consequência de tal potestade, prevê o parágrafo único do referido dispositivo, inclusive, que o magistrado deverá indeferir as diligências inúteis ou meramente protelatórias. No caso em tela, nota-se que a Corte local, diante das particularidades da controvérsia, asseverou que o juízo de primeiro grau, por considerar necessária a realização de perícia, determinou a juntada, por parte da instituição financeira, de documentos que permitissem a realização do trabalho do expert. Pontuou, desse modo, que não haveria se falar em preclusão, na medida em que a documentação acostada aos autos pelo banco, bem como a impugnação ao estudo pericial, não constituiriam nova oportunidade para prestação de contas, mas apenas providências relacionadas ao exercício do contraditório ligado à prova pericial demandada após a prestação de contas, nos termos do art. 915, § 3o, do CPC/73. Veja-se (fls. 2800-2801, e-STJ):
+ ..
+Logo, não obstante as alegações dispostas em sede de agravo regimental, tem-se que o provimento do recurso demandaria, necessariamente, o revolvimento de matéria probatória. Trata-se, contudo, de providência que encontra óbice na Súmula 7/STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial". Precedentes:
+ ..
+Assim, de rigor a manutenção da decisão agravada, por seus próprios fundamentos."
+Ademais, foram expostos os fundamentos para rejeitar os aclaratórios opostos na sequência, valendo destacar o seguinte excerto (e -STJ fls. 3269/3273):
+"Os embargos de declaração não merecem acolhimento, visto que o embargante não demonstrou a existência de nenhum vício a macular o julgado.
+1. Nos estreitos limites do artigo 1.022 do CPC/2015, o recurso de embargos de declaração objetiva suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a parte. Precedentes:
+ ..
+No caso em tela, restou consignado no acórdão embargado, de modo expresso e fundamentado, inexistir negativa de prestação jurisdicional por parte do Tribunal local, na medida em que foram enfrentadas todas as controvérsias relevantes ao julgamento da lide. No mais, consignou-se a aplicabilidade da Súmula 7/STJ às demais pretensões deduzidas nos apelo extremo.
+No ponto, relevante a menção ao seguinte trecho do voto condutor do julgamento (fls. 3215-3217, e-STJ):
+ ..
+Logo, não há falar em vícios a serem sanados no acórdão embargado, o qual adotou fundamentação clara e suficiente ao deslinde da controvérsia, representando os presentes aclaratórios mero inconformismo da parte em relação ao julgamento desfavorável às suas pretensões. A propósito:
+ ..
+2. Por fim, assevera-se que, não obstante a rejeição dos aclaratórios, deixa-se de aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, na medida em que se trata de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios.
+Nesse sentido, relevante a menção ao seguinte precedente desta Turma:
+ ..
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada."
+Conclui-se, portanto, que os acórdãos encontram-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7. Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01-09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1. No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO.
