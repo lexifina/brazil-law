@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de requisição de pagamento oriunda da ExeMS 6051 (200601376325), expedida em favor de NOEMIA BASTOS AMAZONAS eADVOCACIA ILMAR GALVAO, este beneficiário de destaque de honorários advocatícios contratuais.
+Intimada acerca de regularidade formal, a UNIÃO não se opôs. Informou, porém, que requereu nos autos principais o decote/abatimento dos honorários sucumbenciais devidos pelo(a) requerente quando do pagamento da requisição.
+OMinistério Público Federal opinou pela suspensão do pagamento até deliberação pelo juízo da execução.
+Em razão de penhora determinada nos autos principaisrelativa aos honorários de sucumbência fixados em favor do advogado público (fl. 24), arequerente principal foi intimada, deixando transcorrer o prazo sem manifestação(fl. 28).
+Mediante a Petição n. 00475665/2021 (fls. 30-35), EMILENA REGO informou o falecimento de NOEMIA BASTOS AMAZONAS, pugnando por sua habilitação. Juntou certidão de óbito, documento pessoal e procuração.
+Certidão da Seção de Precatórios e RPV noticiando a disponibilidade de verba para liquidação deste precatório (fl. 38).
+É, no essencial, o relatório. Decido.
+No que diz respeito ao pedido de fls. 30-35, cumpre esclarecer que a habilitação deherdeiros tem o sentido de garantir a continuidade do processo, não tendo ligação direta e necessária com a questão relativa à definição dos quinhões hereditários e à divisão dos bens do de cujus, que deve ser discutido no juízo do inventário.
+É possível, em tese, que se admita a habilitação de herdeiros que, ao final, não receberão os bens objeto do processo, mas estarão regularmente aptos a dar prosseguimento ao feito.
+Por isso é que o fato de se admitir a habilitação não implica em autorização para levantar valores nos autos, tendo em vista que, para tanto, é imprescindível a apresentação da certidão de inventariança ou do formal/certidão de partilha, nos termos do art. 655 do CPC, ou da escritura pública de inventário e partilha, consoante art. 610, § 1º, do CPC. Em qualquer caso (inventário judicial ou administrativo), o documento deve relacionar o crédito que se pretende levantar.
+No caso dos autos, não foi comprovada a partilha do valor requisitado, não sendo competência desta Corte realizar o procedimento. Para fins de levantamento de valores deve ser providenciada a partilha do crédito (art. 3º, §§ 6º e 7º, da IN STJ/GP n. 3/2014, com redação dada pela IN STJ/GP n. 17/2019) ou, se for o caso, requerida a transferência para o juízo sucessório (art. 19 da IN STJ/GP n. 3/2014).
+Ante o exposto, tendo sido comprovado que a interessada é irmã de NOEMIA BASTOS AMAZONAS, defiro a habilitação pretendida apenas para recompor a regularidade processualda demanda.
+Por fim, considerando a concordância com a regularidade formal ea disponibilidade financeira, determino o pagamento desta requisição mediante abertura de conta remunerada em nome do(s) beneficiário(s) em instituição financeira conveniada, reservados os recursos das requisições anteriores pendentes de pagamento (art. 12 da Instrução Normativa STJ/GP n. 3/2014), observada a penhora anotada, cujo valor deverá ser decotado da quantia a serdisponibilizada àbeneficiária principal e depositado na conta DARF -GRU -91710-9, tal como indicado pela UNIÃO.
+Transcorrido o prazo de 10 (dez) dias, cumpra-se (art. 59 da Lei n. 9.784/99).
+Publique-se. Intimem-se.
