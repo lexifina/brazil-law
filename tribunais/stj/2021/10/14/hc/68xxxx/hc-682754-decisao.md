@@ -1,0 +1,38 @@
+DECISÃO
+JOANÃ MIGUEL DA SILVA PRADO alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado do Maranhão. Requer a revogação de sua prisão preventiva, em face da falta de fundamentação do periculum libertatis.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+I. Contextualização
+Infere-se da denúncia (fls. 109-112) que, em 18/12/2020, policiais "avistaram um indivíduo em atitude suspeita, numa motocicleta  .. , o qual empreendeu fuga". O motociclista "caiu ao passar por um quebra-molas  .. , ocasião em que foi abordado pelos policiais, que o encontraram na posse de 08 (oito) cabeças da substância vegetal entorpecente identificada preliminarmente como maconha, 01 (um) papelote  ..  aparentando ser cocaína e a quantia de R$ 90,00".
+O condutor informou à guarnição "a existência de drogas em sua residência, ..  bem como na de seu parceiro" (fl. 110). Na residência de JOSÉ VINÍCIUS, agentes estatais apreenderam "maconha, pesando aproximadamente 500g". Em seguida, se "deslocaram até a casa de JOANÃ MIGUEL, onde o encontraram e, em revista pessoal, apreenderam em seu bolo um papelote de tamanho médico de  ..  maconha, além da quantia de R$ 599,00". Dentro do quarto do averiguado, "numa bolsa pequena, econtraram 6 munições calibre 38" (fl. 111, destaquei).
+De acordo com o laudo preliminar, o pacote continha massa bruta de 1.523g e "massa líquida total de 0,961g" (fl. 34) de maconha.
+II. Prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+In casu, o Juiz homologou a prisão em flagrante do paciente, por suposta incursão nos arts. 33, da Lei n. 11.343/2006 e 12, da Lei n. 10.826/2003 e explicou o risco de o réu voltar a praticar delitos.
+Data venia, o flagrante não sinaliza, por si só, o tráfico de drogas, uma vez que a apreensão de papelote de maconha, com menos de 1 g, é compatível com o uso próprio. Resta a indicação de posse de seis munições e a menção de que "o requerente  ..  responde a outro processo nessa Comarca, pela prática deste mesmo delito, cuja circunstância demonstra a periculosidade acentuada" (fl. 192).
+Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro Antonio Saldanha Palheiro, 6ª T., DJe 12/3/2019).
+Todavia, os fatos tidos como delituosos não justificam o uso da prisão preventiva, medida caráter excepcional, conforme disciplina expressamente o art. 282, § 6º, do Diploma Processual.
+O réu é primário e sua conduta denota gravidade inerente ao tipo penal. Assim, apesar do registro criminal anterior, em juízo de proporcionalidade, reputo suficiente e adequada a substituição da medida extrema por providência do art. 319 do CPP. Em casos similares e até mais graves, as Turmas que compõem a Terceira Seção já decidiram:
+"Embora o decreto mencione que o paciente é reincidente específico, em virtude de possuir sentença condenatória com recente trânsito em julgado, dado indicativo de aparente reiteração, somente isso não é suficiente para justificar a prisão.
+ ..
+4. No caso, o fato imputado não se reveste de maior gravidade - apreensão de 5,6 gramas de cocaína, 21,3 gramas de maconha, uma balança de precisão quantidade que não autoriza o total cerceamento da liberdade do paciente. Em outras palavras, a conduta imputada não revela qualquer excepcionalidade que justifique a medida extrema.
+5. Agravo regimental conhecido e improvido
+(AgRg no HC 649.857/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 29/3/2021).
+ ..  Não obstante as instâncias ordinárias tenham feito menção a elementos concretos do caso, indicando a necessidade de se garantir a ordem pública, verifica-se que a quantidade de droga apreendida 5,2g de crack não se mostra exacerbada, o que permite concluir que a potencialidade lesiva da conduta imputada ao paciente não pode ser tida como das mais elevadas. Em que pese a paciente seja reincidente, tem- se que as circunstâncias do delito não ultrapassam a normalidade do tipo penal, o que, somado ao fato de não haver nos autos notícias de seu envolvimento com organização criminosa e ser o crime em questão praticado sem violência ou grave ameaça à pessoa, indica a prescindibilidade da prisão preventiva e a suficiência das medidas cautelares menos gravosas.
+ ..
+(HC 648.587/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 31/5/2021).
+ ..
+Na espécie, o decreto de prisão está devidamente motivado, pois destacou o Juízo de piso a reiteração delitiva do paciente.
+ .. , a despeito de existir fundamentação capaz de justificar a custódia cautelar, verifica-se que o crime perpetrado, em tese, foi o de tráfico de drogas com a apreensão de quantidade pequena - "01 (uma) porção de cocaína, com peso de 0,6g (seis decigramas), 02 (duas) porções de maconha, com peso de 3,08g (três gramas e oito centigramas), mais 22 (vinte e duas) porções de maconha, com peso de 33,1g (trinta e três gramas e um decigrama) e 02 (duas) porções de crack, com peso de 0,5g (cinco decigramas)" -, e não há notícia de que o paciente se envolva com organizações criminosas.
+ ..
+6. Assim, as particularidades do caso demonstram a suficiência, adequação e proporcionalidade da imposição das medidas menos severas previstas no art. 319, em atenção ao preceito de progressividade das cautelas disposto no art. 282, §§ 4º e 6º, todos do Código de Processo Penal, em razão da pequena quantidade de droga apreendida, aliada ao fato de os delitos não terem sido cometidos mediante emprego de violência ou grave ameaça.
+7. Ordem concedida em parte para substituir a prisão preventiva por medidas cautelares diversas a serem fixadas pelo Juiz singular.
+ ..
+(HC 630.116/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 20/4/2021)
+ ..
+4. O Magistrado de primeiro grau apontou a reincidência como fundamento para a decretação da prisão preventiva. Conquanto as decisões de origem não estejam desprovidas de fundamentação, há outras medidas, com igual eficácia e adequação, aptas a afastar o periculum libertatis. O delito supostamente praticado não envolveu violência ou grave ameaça à pessoa, além de ser pequena a quantidade de drogas apreendida em poder do réu (56,54 g de maconha, 9,69 g de cocaína e 23,31 g de crack).
+5. Ordem concedida, confirmando-se a liminar, para substituir a prisão preventiva imposta ao paciente por medidas cautelares a serem fixadas pelo Juízo de origem, sem prejuízo da decretação da custódia provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+(HC 618.498/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 15/3/2021, destaquei).
+III. Dispositivo
+À vista do exposto, concedo o habeas corpus para substituir a prisão preventiva do paciente por comparecimento em juízo, nos atos instrutórios para os quais for intimado, oportunidade em que deverá informar atividades, sem prejuízo da imposição de outras cautelares pelo Juiz, consoante seu prudente arbítrio.
+Publique-se e intimem-se.
