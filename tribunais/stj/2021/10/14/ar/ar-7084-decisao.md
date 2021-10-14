@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de ação rescisória proposta por MARCIANO LOPES DOS SANTOS JUNIORcom fulcro no art. 966, Ve VII, do CPC/2015que visarescindir decisão monocrática proferida pelo Presidente do Tribunal de Justiça do Estado de Pernambuco.
+Defende o autor que:
+a) a sentença "foi julgada procedente para DETERMINAR ao Exmo. Sr. Desembargador Presidente do Egrégio Tribunal de Justiça do Estado de Pernambuco, que promova os meios legais para NOMEAR o Sr. MARCIANO LOPES DOS SANTOS JUNIOR, bem qualificado na atrial desta ação, dentro do prazo de 10 (dez) dias, úteis, a contar da data da intimação desta sentença pela Procuradoria Regional do Estado de Pernambuco, sob as penas da lei" (e-STJ fl. 5); e
+b) posteriormente, oPresidente do TJPE suspendeu o aludido decisum em "flagrante violação a norma jurídica prevista no inciso V, do art.966 do CPC, consistente na ofensa a Súmula 15 do Supremo Tribunal Federal, em razão do surgimento de novas vagas e a preterição do candidato de forma arbitrária e imotivada por parte da administração" (e-STJ fl. 5).
+Passo a decidir.
+De logo, cumpre destacar a presença de obstáculo intransponível para oprocessamento do presente feito.
+É que, nos termos do art. 105, I, e, da CF/1988, compete ao SuperiorTribunal de Justiça processar e julgar, originariamente, as açõesrescisórias de seus próprios julgados.
+No caso em apreço, a parte autora pretende a rescisão de decisão monocrática proferida no âmbito do Tribunal de Justiça do Estado de Pernambuco, o que afasta a competência do STJ para processar e julgar a ação rescisória.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. SERVIDOR
+PÚBLICO. FUNÇÃO COMISSIONADA. ÍNDICE DE 28,86%. COMPENSAÇÃO COM REAJUSTE CONCEDIDO COM BASE NA LEI N. 8.627/1993. MATÉRIA NÃO DECIDIDA PELA DECISÃO RESCINDENDA. INCIDÊNCIA DA SÚMULA 515 DO STF.
+1. Considerando que as causas de desconstituição do julgado apontadas na exordial, relativas à violação de literal disposição de lei e ao erro de fato, se existentes, não surgiram no julgamento do recurso especial, mas por ocasião da apreciação da apelação pelo Tribunal Regional, é de se reconhecer a incompetência do Superior Tribunal de Justiça para julgar a ação rescisória.
+2. Na espécie, a decisão desta Corte Superior restringiu-se a negar seguimento ao recurso especial ao fundamento de que o acórdão recorrido observou a jurisprudência do STJ, de que o índice de 28, 86% também alcança as funções comissionadas ou gratificadas. Nada decidiu sobre a causa de pedir ora invocada, a de que a requerente teria sido beneficiada com reajuste que deveria ser compensado com o aludido percentual assegurado pela sentença coletiva.
+3. Incide, por analogia, a Súmula 515 do STF: "A competência para a ação rescisória não é do Supremo Tribunal Federal, quando a questão federal, apreciada no recurso extraordinário ou no agravo de instrumento, seja diversa da que foi suscitada no pedido rescisório."
+4. Agravo regimental não provido. (AgRg na AR 4.441/RS, de minha relatoria, TERCEIRA SEÇÃO, DJe 09/09/2015).
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. SERVIDOR PÚBLICO FEDERAL. ART. 485, IV, DO CÓDIGO DE PROCESSO CIVIL. OFENSA A COISA JULGADA. EX-COMBATENTE. ACÓRDÃO RESCINDENDO QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA EM RAZÃO DA APLICABILIDADE DA SÚMULA 7/STJ. INCOMPETÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 515/STF. PEDIDO SUBSIDIÁRIO. REMESSA DOS AUTOS AO JUÍZO COMPETENTE. IMPOSSIBILIDADE. INICIAL QUE SE INSURGE CONTRA ACÓRDÃO EQUIVOCADO. PRECEDENTES. AÇÃO RESCISÓRIA EXTINTA SEM RESOLUÇÃO DE MÉRITO.
+1. Não tendo havido o exame do mérito pelo STJ, na medida que o acórdão rescindendo limitou-se a aplicar o óbice da Súmula 7/STJ, patente é a sua incompetência para processar e julgar a presente demanda rescisória, a qual deve se voltar contra o acórdão do Tribunal regional. Incidência da Súmula 515/STF.
+2. O pedido subsidiário não merece acolhida, porquanto o STJ perfilha entendimento no sentido de que, proposta equivocadamente a rescisória, é incabível a remessa dos autos ao juízo competente, na medida em que a inicial se insurge contra acórdão equivocado, caso em que não poderia o relator corrigir o mérito do pedido.
+3. Ação rescisória extinta sem resolução de mérito (AR 4.515/RN, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 19/03/2015).
+Ante o exposto, DECLARO A INCOMPETÊNCIA desta CorteSuperior para processar e julgar a presente ação rescisória edetermino a remessa dos autos ao Tribunal de origem, a fim de que decida a lide como entender de direito.
+Publique-se. Intimem-se.
