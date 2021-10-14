@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Setpar Grupofort II Empreendimentos Imobiliários SPE Ltda. contra a decisão de fls. 214-219 (e-STJ), da lavra deste signatário, que negou provimento ao recurso especial.
+O apelo especial foi deduzido com fundamento nas alíneas a e c do permissivo constitucional, com o intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 116):
+Apelação. Compromisso de compra e venda de bem imóvel, consistente em lote de terreno. Ação de rescisão contratual c./c. restituição de valores. Sentença de parcial procedência. Rescisão contratual a pedido do promitente comprador. Aplicação das Súmulas 1 e 2 deste Tribunal. Determinação de devolução de 90% do valor pago, com retenção no importe de 10% do montante pago, taxa de fruição (0,5% mensal do valor do contrato) e eventuais valores devidos de IPTU e taxas de condomínio. Apelo do autor para afastamento da taxa de fruição. Lote de terreno sem edificação. Incidência de taxa de fruição. Descabimento. Embora o comprador estivesse na posse precária do lote, não há provas de seu uso efetivo por meio de construção, edificação, benfeitorias ou proveito econômico. Honorários advocatícios que não comportam majoração em razão da baixa complexidade da demanda e o reduzido tempo de tramitação. Sentença parcialmente reformada. Sucumbência mantida. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 124-139), a recorrente alegou violação aos arts. 402, 475 e 844 do Código Civil de 2002, bem como a existência de divergência jurisprudencial, sustentando, em síntese, que deve ser paga a taxa de ocupação independentemente da efetiva edificação.
+Em face do juízo positivo de admissibilidade, os autos ascenderam a esta Corte de Justiça, ocasião em que houve o desprovimento do reclamo nos termos da seguinte ementa (e-STJ, fl. 214):
+RECURSO ESPECIAL. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. TAXA DE FRUIÇÃO. LOTE NÃO EDIFICADO. MERA IMISSÃO NA POSSE. INDENIZAÇÃO INDEVIDA. PRECEDENTES. RECURSO ESPECIAL DESPROVIDO.
+Neste agravo interno (e-STJ, fls. 222-234), a insurgente assevera que a jurisprudência do Superior Tribunal de Justiça ainda não está consolidada quanto ao tema, haja vista a existência de julgados em direções diametralmente opostas ao destacado na decisão agravada.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo Colegiado.
+Sem impugnação (e-STJ, fl. 237).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. TAXA DE FRUIÇÃO. LOTE NÃO EDIFICADO. MERA IMISSÃO NA POSSE. INDENIZAÇÃO INDEVIDA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme jurisprudência do Superior Tribunal de Justiça,"não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem" (AgInt no REsp 1.896.690/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/08/2021, DJe 26/08/2021).
+2. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Cinge-se a controvérsia sobre a possibilidade de cobrança de taxa de fruição de imóvel, durante o período de posse exercido sobre o bem pelo adquirente, independentemente da efetiva edificação.
+Consoante destacado na decisão agravada, o pagamento de indenização pelo interregno de fruição do bem pressupõe o efetivo uso e gozo do imóvel, sendo insuficiente tão somente a imissão na posse, uma vez que essa verba visa afastar eventual enriquecimento sem causa do promitente comprador decorrente de moradia graciosa.
+Nesse sentido, confiram-se os seguintes precedentes das Turmas da Segunda Seção:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. AÇÃO DE RESCISÃO CONTRATUAL. TAXA DE OCUPAÇÃO DO BEM. TERRENO NÃO EDIFICADO.
+IMPOSSIBILIDADE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Consoante entendimento desta Corte, não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem. Precedente.
+2. A Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.896.690/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021 - sem grifo no original)
+RECURSO ESPECIAL. CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESILIÇÃO UNILATERAL. RETORNO. STATUS QUO ANTE. PERCENTUAL DE RETENÇÃO. 25%. VALORES PAGOS PELOS ADQUIRENTES. PRECEDENTE DA SEGUNDA SEÇÃO. DÍVIDAS TRIBUTÁRIAS E CONDOMINIAIS. RESPONSABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. TERRENO PARA EDIFICAÇÃO. TAXA DE OCUPAÇÃO. FUNDAMENTO. ENRIQUECIMENTO SEM JUSTA CAUSA. ART. 884 DO CC/02. CONFIGURAÇÃO. REQUISITOS CUMULATIVOS. EMPOBRECIMENTO PRÓPRIO E ENRIQUECIMENTO ALHEIO. HIPÓTESE CONCRETA. AUSÊNCIA.
+1. Ação de resilição contratual de promessa de compra e venda de imóvel residencial, cumulada com devolução de quantias pagas.
+2. Recurso Especial interposto em: 29/12/2017; concluso ao gabinete em: 03/06/2020. Aplicação do CPC/15.
+3. O propósito recursal consiste em determinar: a) quem deve ser responsabilizado pelas dívidas tributárias e condominiais incidentes sobre o imóvel durante o período em que durou o contrato desfeito; b) se a compradora pode ser condenada ao pagamento de taxa de ocupação na resilição de contrato de compra e venda de terreno para edificação; e c) qual o percentual das parcelas pagas pelo comprador que pode ser retido pelo vendedor na hipótese de resilição unilateral do contrato de promessa de compra e venda de imóvel residencial.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. O desfazimento do negócio jurídico de compra e venda de imóvel motiva o retorno das partes ao estado anterior à celebração do contrato, podendo sujeitar o promissário comprador ao pagamento da taxa de ocupação pelo tempo que ocupou o imóvel.
+7. A taxa de ocupação evita que o comprador se beneficie da situação do rompimento contratual em prejuízo do vendedor, se relacionando, pois, à vedação ao enriquecimento sem causa. Precedentes.
+8. A vedação ao enriquecimento sem causa - que oferece fundamento à previsão da taxa de ocupação - dá origem a uma obrigação de ressarcimento, haja vista representar o nascimento de uma obrigação de indenizar em todas as hipóteses em que, faltando ou vindo a faltar a causa eficiente da aquisição de um benefício ou vantagem, haverá, como consequência, o dever de restituir o proveito a quem sobre ele tenha o melhor direito.
+9. São requisitos do nascimento da obrigação em decorrência da vedação ao enriquecimento sem causa: a) enriquecimento de alguém; b) empobrecimento correspondente de outrem; c) relação de causalidade entre ambos. Precedente da Corte Especial.
+10. O empobrecimento de alguém, requisito para o dever de indenizar relacionado à vedação ao enriquecimento sem causa, corresponde: a) ao deslocamento indevido de um bem já incorporado ao patrimônio do sujeito ao patrimônio de um terceiro; ou b) ao impedimento do ingresso uma vantagem que certa e seguramente adentraria no patrimônio do sujeito e que, sem justificativa, é acrescida a patrimônio alheio.
+11. Quanto ao que razoavelmente deixou de ganhar o vendedor, o ingresso do citado proveito em seu patrimônio deve ter a característica de ser plausível e verossímil, diante de previsão razoável e objetiva de lucro, aferível a partir de parâmetro concreto e prévio.
+12. No contrato de compra e venda de imóveis residenciais, o enriquecimento sem causa do comprador é identificado pela utilização do bem para sua moradia, a qual deveria ser objeto de contraprestação mediante o pagamento de aluguéis ao vendedor pelo tempo de permanência.
+13. Na presente hipótese, o terreno não está edificado, de modo que não existe possibilidade segura e concreta, diante dos fatores anteriores ao momento da contratação e sem qualquer outra nova interferência causal, de que a recorrente auferiria proveito com a cessão de seu uso e posse a terceiros, se não o tivesse concedido à recorrida, estando, pois, ausente o requisito de seu empobrecimento; tampouco seria possível o enriquecimento da compradora, que não pode residir no terreno não edificado.
+14. Em contrato de compra e venda de imóvel residencial anterior à Lei 13.786/2018, ausente qualquer peculiaridade que justifique a apreciação da razoabilidade, deve prevalecer o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes. Precedente da Segunda Seção.
+15. Recurso especial parcialmente conhecido e, no ponto, parcialmente provido, apenas para modificar o percentual de retenção das parcelas pagas.
+(REsp 1.863.007/SP, Rel. MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/03/2021, DJe 26/03/2021 - sem grifo no original)
+Na hipótese, de acordo com o acórdão recorrido, o imóvel em questão - um lote - não foi edificado, o que afasta a possibilidade de aplicação da taxa de ocupação pretendida pela recorrente, pois não teria havido a efetiva utilização do bem.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
