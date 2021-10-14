@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão assim ementado (e-STJ fls. 470/471):
+TRIBUTÁRIO. IMPORTAÇÃO. AERONAVE. COFINS IMPORTAÇÃO. REDUÇÃO À ALÍQUOTA ZERO. POSSIBILIDADE. SENTENÇA MANTIDA. (1)
+1. Ficam reduzidas a 0 (zero) as alíquotas das contribuições, nas hipóteses de importação de aeronaves, classificadas na posição 88.02 da NCM; partes, peças, ferramentas, componentes, insumos, fluidos hidráulicos, lubrificantes, tintas, anticorrosivos, equipamentos, serviços e matérias-primas a serem empregados na manutenção, reparo, revisão, conservação, modernização, conversão e industrialização das aeronaves  .. , de seus motores, suas partes, peças, componentes, ferramentas e equipamentos. (§ 12, incisos VI e VII, do art. 8º da Lei 10.865/2004).
+2. Não prevalece a exigência do adicional de 1% da COFINS no caso de importação de aeronaves porque a inclusão do § 21 ao art. 8º da Lei 10.865/2004, que instituiu o adicional, não revogou o § 12 do referido artigo. Hipótese de conflito aparente de normas, no qual a norma especial, que prevê a alíquota zero para o setor de aeronaves, não foi revogada pela norma geral que acresceu de 1% a alíquota de incidência tributária da COFINS-importação, interpretado à luz do disposto no artigo 2º, § 2º, da Lei de Introdução às Normas do Direito Brasileiro, que estabelece que a lei nova geral posterior não revoga a anterior que seja especial em relação a ela.
+3. No caso, o Estado reviu o seu modelo de concessão do benefício fiscal, dentro do juízo próprio de conveniência e oportunidade de sua política fiscal, com o acréscimo de 1% da alíquota do tributo questionado para os importadores em geral, mantendo hígida, todavia, por razões de extrafiscalidade, a alíquota zero de aeronaves e respectivas peças importadas prevista no § 12, incisos VI e VII, do artigo 8º da Lei 10865/2004, com a redação dada, respectivamente, pelas Leis 10.925/2004 e 11.727/2008. Se, ao contrário, se tivesse pretendido a incidência geral da COFINS- Importação no setor de aviação, deveria ter expressamente revogado os mencionados incisos, como o fez, em diversas oportunidades com outros incisos do mesmo diploma legal.
+4. Honorários advocatícios incabíveis na espécie (art. 25, da Lei n. 12.016/2009). Custas ex lege.
+5. Apelação e remessa oficial não providas.
+Em suas razões, a parte recorrente alega que o Tribunal de origem violou o art.8º, § 21, da Lei n. 10.865/2004. Para tanto, defende a legalidade da exigibilidade do adicional de 1% da Cofins-importação em relação aos bens sujeitos à alíquota zero.
+Contrarrazões apresentadas (e-STJ fls. 496/539).
+Decisão de admissibilidade (e-STJ fls. 541/542).
+Passo a decidir.
+A questão controvertida dos autos consiste em definir se o adicional de 1% da Cofins-Importação é aplicável à importação de motor de aeronave, o qual teve o benefício de redução à alíquota zero concedido pela Lei n. 10.925/2004.
+Pois bem, em julgamento realizado em 05/10/2021, no RESP n. 1.926.749 (acórdão pendente de publicação), a Primeira Turma desta Corte Superior, por maioria, decidiu que o adicional de 1% da alíquota de Cofins-Importação previsto no § 21 do art. 8º da Lei n. 10.865/2004 incide sobre os bens que foram anteriormente taxados com alíquota zero no § 12, VI e VII, do referido dispositivo legal.
+Nesse sentido, também é a jurisprudência da Segunda Turma:
+TRIBUTÁRIO E PROCESSUAL CIVIL. COFINS-IMPORTAÇÃO. ADICIONAL DE 1%. AERONAVES. ANTERIOR ALÍQUOTA ZERO. AUSÊNCIA DE INCOMPATIBILIDADE. INTERPRETAÇÃO EXTENSIVA. DESCABIMENTO. PRECEDENTE DA SEGUNDA TURMA DO STJ.
+1. A questão principal consiste em definir se o adicional de 1% à Cofins-Importação pela Lei 12.844/2013 que acrescentou o § 21 ao art. 8º da Lei 10.865/2004 é aplicável às aeronaves classificadas na posição 88.02 da NCM, as quais tiveram o benefício de redução à alíquota zero concedido pela Lei 10.925/2004.
+2. Não há incompatibilidade alguma entre a instituição de adicional de 1% e a existência de norma anterior que estabelece alíquota zero para determinado bem.
+3. Conforme prescreve o art. 12, III, da LC 95/1998, a alteração de lei pode ocorrer "por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo".
+4. In casu, o legislador optou pelo acréscimo de dispositivo (§ 21), o qual se dirige de forma ampla a todas as alíquotas do art. 8º ao enunciar que "As alíquotas da Cofins-Importação de que trata este artigo ficam acrescidas de um ponto percentual..".
+5. A Segunda Turma do STJ, em julgamento realizado no dia 24.10.2017, apreciando recurso de idêntica natureza, também interposto pela ora recorrente, concluiu que é exigível a exação em tela sobre a importação de aeronave classificada na posição 88.02 da NCM, à alíquota de 1%, nos termos do art. 8º, § 21, da Lei 10.865/2004 (REsp 1.660.652/RS, Relator Ministro Francisco Falcão, DJe 31.10.2017).
+6. Agravo Interno não provido.
+(AgInt no REsp 1899384/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/06/2021, DJe 01/07/2021)
+Portanto, na hipótese dos autos, a Corte Regional adotou conclusão dissonante da referida orientação jurisprudencial.
+Ante o exposto, nos termos do art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial da Fazenda Nacional para DENEGAR a segurança.
+Publique-se. Intimem-se.
