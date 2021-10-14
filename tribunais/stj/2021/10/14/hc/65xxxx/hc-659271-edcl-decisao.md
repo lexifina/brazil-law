@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos por DIONNATAM DONIZETH DE ANDRADEcontra decisão acostada às fls. 110-127, pela qual não se conheceu do writ, por não se aferir qualquer ilegalidade passível da concessão da ordem, ainda que de ofício.
+Nas razões deste recurso, a defesa sustenta a ocorrência de contradição e carência de fundamentação idônea na decisão embargada, ao argumento de que a ação penal que resultou na sua condenação está eivada de diversas nulidades, invocando a aplicação do entendimento esposado no RHC 128.382.
+Acrescenta que o órgão prolator do acórdão recorrido não poderia fazê-lo, diante da anterior anulação de julgamento originário, levando a ocorrência de impedimento, ainda mais porque o embargante foi"condenado por simples achismo e por uma perícia mal feita, mal elaborada e presunções advindas do entendimento isolado nos autos da acusação, ou seja, toda robusta prova do embargante de nada serviu e, por isso, fica claramente que não há defesa contra a presunção acusatória"(fl. 154).
+Por fim, requer o acolhimento dos embargos, com efeitos infringentes, a fim de que seja concedida a ordem.
+É o relatório.
+Decido.
+O presente recurso não merece ser conhecido, diante da suaintempestividade.
+Com efeito, como bem observado na certidão de fl. 157, o prazo para interposição de embargos teve seu início em 3/8/2021 e término em 4/8/2021, considerando que a decisão embargada foi publicada em 2/8/2021 (segunda-feira), conforme certidão de fl. 128. Contudo, a presente irresignação foi interposta somente em 27/9/2021, sendo manifesta a sua intempestividade.
+Outrossim, não há que se falar que o presente recurso foi interposto contra o acórdão que negou provimento ao agravo regimental, diante da ausência de qualquer referência aos fundamentos deste, que foi publicado em 29/9/2021 (fl. 179).
+Quanto ao tema, confiram-se:
+"PROCESSUAL PENAL. EMBARGOS DECLARATÓRIOS. PRAZO DE 2 DIAS. ART. 263 DO RISTJ, C/C O ART. 619 DO CÓDIGO DE PROCESSO PENAL. APLICAÇÃO.INTEMPESTIVIDADE.
+1. São intempestivos os embargos de declaração opostos fora do prazo de 2 dias previsto no art. 619 do Código de Processo Penal, c/c o art. 263 do Regimento Interno do Superior Tribunal de Justiça.
+2. Embargos de declaração não conhecidos."(EDcl no AgRg no AREsp 1881359/ES, Quinta Turma, Rel. Ministro João Otávio de Noronha, DJe 27/08/2021)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. INTEMPESTIVIDADE DO APELO NOBRE. EMBARGOS DE DECLARAÇÃO INTEMPESTIVOS NÃO INTERROMPEM O PRAZO PARA INTERPOSIÇÃO DE OUTROS RECURSOS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os embargos de declaração opostos fora do prazo legal de 2 dias não possuem efeito interruptivo do prazo para a interposição de outros recursos, como o especial. Precedentes.
+2. No presente caso, a defesa foi intimada do primeiro acórdão proferido pelo TJ/PR em 21/9/2020 (e-STJ, fl. 2.558), tendo oposto os aclaratórios somente em 24/9/2020 (e-STJ, fl. 2.565-2.572), quando já terminado o prazo do art. 619 do CPP. Assim, o prazo de 15 dias para interposição do recurso especial (que não foi interrompido pela oposição dos embargos intempestivos) começou em 22/9/2020 e terminou em 6/10/2020, enquanto o apelo nobre foi apresentado em 9/12/2020 (e-STJ, fls. 2.597-2.604), muito após o fim do prazo recursal.
+3. Agravo regimental desprovido."(AgRg no AREsp 1860797/PR, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 30/08/2021, grifei)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. OPOSIÇÃO FORA DO PRAZO DE 2 (DOIS) DIAS.INAPLICABILIDADE DO ART. 540 DO CÓDIGO DE PROCESSO PENAL MILITAR.EMBARGOS NÃO CONHECIDOS.
+I - O prazo para a oposição de embargos de declaração, em feitos criminais, é de 2 (dois) dias, nos termos do que dispõem os arts.619, caput, do CPP e 263 do RISTJ.
+II - "É intempestivo o recurso protocolado após o prazo de dois dias de que tratam os arts. 263 do Regimento Interno do Superior Tribunal de Justiça - RISTJ e 619 do Código de Processo Penal - CPP, não tendo aplicação o novo Código de Processo Civil, uma vez que o prazo no processo penal possui disciplina própria" (EDcl no AgRg nos EAREsp n. 843.777/MG, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 30/11/2016).
+III - Nos termos da jurisprudência consolidada no âmbito deste Superior Tribunal de Justiça, "não se aplica ao caso o prazo de 5 dias previsto no art. 540 do Código de Processo Penal Militar, para oposição de embargos de declaração, uma vez que a hipótese naquele narrada se refere a aclaratórios opostos unicamente contra decisum proferido pelo Superior Tribunal Militar. Ainda, a possibilidade de aplicação subsidiária do Código de Processo Penal, em casos em que o CPPM seja omisso, está prevista em seu art. 3º." (AgRg nos EDcl no AgRg nos AREsp n. 1.594.740/RJ, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 08/10/2020).
+Embargos de declaração não conhecidos."(EDcl no AgRg no AREsp 1855344/SP, Quinta Turma, de minha Relatoria, DJe 24/08/2021, grifei)
+Ante o exposto, não conheço dos embargos de declaração.
+P. e I.
