@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminarimpetrado em favor de JOÃO ISRAEL FANTENELEem que se aponta como autoridade coatora Tribunal de Justiça do Estado do Rio Grande do Sul(Agravo em Execução n.5080934- 49.2020.8.21.7000).
+O acórdão do agravo em execução foi assim ementado (fl. 254):
+AGRAVO EM EXECUÇÃO. PRISÃO PROVISÓRIA ANTERIOR AO COMETIMENTO DO DELITO.DETRAÇÃO. IMPOSSIBILIDADE.NÃO HÁ COMO RECONHECER O DIREITO À DETRAÇÃO POR PERÍODO EM QUE O APENADO ESTEVE PRESO ANTES DO COMETIMENTO DO DELITO, PELO QUAL CUMPRE PENA. DECISÃO REVOGADA. AGRAVO PROVIDO. UNÂNIME.
+O Tribunal de origem cassou a decisão do Juízo da execução penal que concedera ao paciente o benefício da detração penal.
+Aimpetrante aponta constrangimento ilegal decorrente da decisão que cassou o benefício, alegando que a detração "é a forma que tem o Estado de reparar o grave dano causado ao cidadão que foi preso injustamente, motivo pelo qual deve o instituto ser interpretado da forma mais ampla possível, coadunando-se com o princípio da dignidade da pessoa humana, considerando que o mínimo que deve ser concedido àquele que esteve preso injustamente é a utilização desse período para diminuir sua pena atual, pouco importando se tal período refere-se a processo diverso e/ou anterior ao cometimento do delito pelo qual cumpre sua pena" (fl. 6).
+Requer, liminarmente e no mérito,seja restabelecida a decisão monocrática.
+O pedido de liminar foi indeferido às fls. 259-260.
+As informações foram prestadas às fls. 263-277.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 282-288).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Tribunal de origem deu provimento ao agravo ministerial nestes termos (fls. 251-252):
+O apenado JOÃO ISRAEL FANTENELE está cumprindo pena por delito praticado em 16.11.2013 e obteve a detração do período de 31.12.2002 a 12.01.2004, durante o qual esteve preso cautelarmente.
+No entanto, não há como reconhecer o direito à detração por período em que o apenado esteve preso antes do cometimento do delito, pelo qual cumpre pena.
+Entendimento diverso significaria que o réu, antes mesmo de cometer novo delito, já teria um "crédito" contra o Estado, a ser usado para a impunidade de posteriores infrações. Ou seja, se preso provisoriamente peloperíodo de seis meses e, posteriormente, viesse a ser absolvido, já teria seis meses a menos de pena a cumprir, caso cometesse nova infração e viesse a ser condenado.
+ ..
+Nessas condições, voto por dar provimento ao agravo para revogar a decisão que concedeu a detração de pena do período de 31.12.2002 a 12.01.2004 ao agravado.
+No presente caso, o acórdão proferido pelo Tribunal de origem está de acordo com o entendimento doSuperior Tribunal de Justiça.
+Para efeito de detração penal, não sepodeconsiderar período deprisão provisória anterior ao crime que ensejou a condenação.
+Entendimento diverso geraria a possibilidade de crédito de penaao preso provisório que venhaa ser absolvido, impossibilitando ou limitando a aplicação de novas penaspor eventuais novos delitos.
+A propósito, confiram-se os julgados a seguir:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO.DENÚNCIA. TRÁFICO DE DROGAS. CONDENAÇÃO. PORTE DE DROGAS PARA USO PRÓPRIO. TEMPO DE PRISÃO PROVISÓRIA UTILIZADO PARA DECRETAR A EXTINÇÃO DA PUNIBILIDADE.DELITO QUE NÃO PREVÊ PENA PRIVATIVA DE LIBERDADE.DESPROPORCIONALIDADE. CONSTRANGI- MENTO ILEGAL VERIFICADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - Este Superior Tribunal de Justiça, alinhando-se ao entendimento firmado pela Corte Suprema no julgamento do RE 430.150/RJ, sedimentou orientação de que a Lei n. 11.343/06 não descriminalizou a conduta que tipificou no art. 28, porém ocorreu a despenalização, assim entendida como a ausência de previsão, para o tipo, de pena privativa de liberdade como sanção.
+III - A jurisprudência pacífica desta Corte superior admite a detração do tempo de prisão processual ordenada em outro processo em que o sentenciado foi absolvido ou foideclarada a extinção da punibilidade, desde que em relação a crimes cometidos anteriormente à custódia cautelar cujo lapso temporal se pretende descontar.
+IV - Feitas tais considerações, fica evidente que o indeferimento do pedido de detração configura flagrante constrangimento ilegal, uma vez que o tempo de prisão provisória foi utilizado como tempo de pena cumprida na sentença que extinguiu a punibilidade em razão do delito descrito no art. 28 da Lei n. 11.343/06, em franca desproporcionalidade.
+Habeas corpus não conhecido. Ordem concedida de ofício, para que seja possibilitada a detração do período em que o paciente ficou preso preventivamente nos autos da ação penal que desclassificou a conduta de tráfico para porte de droga para consumo pessoal, desde que em relação a crimes cometidos anteriormente (HC n. 391.101/DF, relator Ministro Felix Fischer, Quinta Turma, DJe de 30/10/2017.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. VIA INADEQUADA.DETRAÇÃO. ANTERIORES PRISÕES CAUTELARES EM PROCESSOS DISTINTOS. IMPOSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. É possível a detração do tempo de prisão processual ordenada em outro processo em que absolvido o sentenciado ou tenha sido declarada a extinção da sua punibilidade da pretensão punitiva, desde que a data do cometimento do crime de que trata a execução seja anterior ao período pleiteado.
+3. Hipótese em que as vias ordinárias indeferiram o pedido de detração adotando o fundamento de que as segregações impostas foram anteriores à sanção corporal que ora cumpre e que as respectivas ações penais não resultaram em absolvição ou tiveram as pretensões punitivas extintas.
+4. Habeas corpus não conhecido (HC n. 326.654/RS, relator Ministro Gurgel de Faria, Quinta Turma, DJe de 5/2/2016.)
+PROCESSUAL PENAL. HABEAS CORPUS. AGRAVO EM EXECUÇÃO JULGADO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INVIABILIDADE. VIA INADEQUADA. DETRAÇÃO DO TEMPO DE SEGREGAÇÃO PREVENTIVA EFETIVADA EM PROCESSO DIVERSO. CRIME POSTERIOR AO PERÍODO POSTULADO. IMPOSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Segundo entendimento firmado por esta Corte Superior, a detração do tempo de segregação preventiva efetivada em processo diverso somente pode ocorrer se o crime pelo qual se cumpre pena atualmente for anterior ao período pleiteado.
+3. Na hipótese vertente, conforme se extrai dos autos, o período de prisão cautelar em relação ao qual se pretende a detração está compreendido entre 28/2/2007 e 14/3/2007, antes do cometimento da infração pela qual o paciente passou a cumprir a pena privativa de liberdade, perpetrada em 5/10/2010.
+4. Tendo em vista, portanto, a inexistência de constrangimento ilegal e que se trata de habeas corpus substitutivo de recurso especial, não merece ser conhecido o writ.
+5. Habeas corpus não conhecido (HC n. 325.893/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 1º/9/2015.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
