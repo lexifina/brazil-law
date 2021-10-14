@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de petição formulada de próprio punho por WELLINGTON DE SOUSA FERREIRA, na qual pugna o requerente pela redução de sua pena.
+Solicitadas informações prévias, foram prestadas às e-STJ fls. 11/292, das quais depreende-se que o requerente fora condenado nos autos do Processo n. 701.09.286198-1, da 3ª Vara Criminal da Comarca de Uberaba/MG, pela prática do delito de tráfico de entorpecentes, à pena de 5 anos e 6 meses de reclusão, em regime fechado (e-STJ fls. 135/140).
+Intimada, a Defensoria Pública da União manifestou-se pela concessão da ordem, "nos termos do Art. 654, § 2º, do Código de Processo Penal, para compensar a atenuante da menoridade com a agravante da reincidência, e fixar a pena definitiva em 05 anos de reclusão (excluído o excesso de 06 meses)" - e-STJ fl. 298.
+O Ministério Público Federal, às e-STJ fls. 303/311, manifestou-se pela concessão da ordem.
+É, em síntese, o relatório.
+Decido.
+Assiste razão ao requerente.
+Com efeito, depreende-se da denúncia (e-STJ fls. 20/22), que o requerente era menor de 21 anos à época da prática do delito de tráfico de drogas.
+No entanto, a atenuante da menoridade relativa não foi considerada na dosimetria da pena, consoante se verifica do seguinte excerto da sentença condenatória (e-STJ fls. 139/140):
+Atento as diretrizes do art. 59 c/c art. 68 do CP, passo a dosar-lhea reprimenda.
+Culpabilidade compatível com o fato, tendo obrado com doloapropriado à espécie, em circunstâncias em que lhe era exigido comportamentodiverso; registra antecedentes criminais, uma vez que constam destes autosregistro de condenação com trânsito em julgado, o qual serve para caracterizarreincidência: conduta social e personalidade, sem elementos para avaliá-lascom segurança; motivos do crime, certamente a busca de lucro fácil e rápido;circunstâncias, considerando a prova testemunha produzida nos autos,notadamente o depoimento prestado pelo usuário Luciano dos Reis Rosa,inegável que referida substância se destinava á mercancia; conseqüências,presumivelmente graves para toda a sociedade, pois o uso de entorpecentesestimula o cometimento de diversos outros delitos, além de prejudicar a saúdedos incautos viciados, levando-os, não raro à morte; não há se falar, no caso, emcomportamento da vitima. Por fim, o acusado se declara pobre na acepçãojurídica da palavra.
+À vista dessas circunstâncias analisadas individualmente é que fixoa pena-base em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa,cada um no equivalente a um trigésimo do salário mínima vigente ao tempo dofato delituoso, em observância ao disposto pelo artigo 33, caput, da Lei 11.343/06.
+Na segunda fase, presente circunstânca agravante caracterizadapela reincidência, nos termos do artigo 61, I, do Código/Penal, exacerbo a penapassando esta para 05 (CINCO) ANOS E 06 (SEIS) MESES DE RECLUSÃO E 583 (QUINHENTOS E OITENTA E TRÊS) DIAS-MULTA.
+Ausentes outras circunstâncias agravantes ou atenuantes a seremobservadas.
+A míngua de outras causas de aumento ou de diminuição da penaou de quaisquer outras circunstâncias modificadoras concretizo e tornodefinitiva a pena em 05 (CINCO) ANOS E 06 (SEIS) MESES DE RECLUSÃO E583 (QUINHENTOS E OITENTA E TRÉS) DIAS-MULTA, calculados sob afração mínima do artigo 49 do Código Penal.(Grifei.)
+Ocorre que, consoante preconiza a jurisprudência desta Corte, a atenuante da menoridade relativa e a agravante da reincidência são igualmente preponderantes; portanto, devem serintegralmente compensadas.
+Nesse sentido:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CONDENAÇÃO. DOSIMETRIA DA PENA. PENA-BASE. MAUS ANTECEDENTES. EQUÍVOCO DO MAGISTRADO.ILEGALIDADE. ATENUANTE DA MENORIDADE. AGRAVANTE DA REINCIDÊNCIA.PREPONDERÂNCIA DE AMBAS. COMPENSAÇÃO. NÚMERO DE CAUSAS DE AUMENTO.ACRÉSCIMO DA PENA ACIMA DO MÍNIMO. CONSTRANGIMENTO ILEGAL. SÚMULA 443/STJ. ORDEM CONCEDIDA.
+1. Hipótese em que o magistrado de primeiro grau considerou os maus antecedentes do paciente para fixar a pena-base acima do mínimo legal. Contudo, ao prestar informações a esta Corte, esclareceu o equívoco cometido, pois a valoração negativa dos antecedentes decorreu de certidão de outro processo, relativa a outra pessoa. De rigor, portanto, a redução da pena-base do paciente para o mínimo legal.
+2. Interpretando o art. 67 do Código Penal, o Superior Tribunal de Justiça entende que a atenuante da menoridade e a agravante da reincidência são igualmente preponderantes, razão pela qual devem ser compensadas, via de regra.
+3. O Superior Tribunal de Justiça vem reiteradamente decidindo que, em se tratando de roubo com a presença de mais de uma causa de aumento, o acréscimo requer devida fundamentação, com referência a circunstâncias concretas que justifiquem um aumento mais expressivo, não sendo suficiente a simples menção ao número de majorantes presentes.
+4. Reduzida a reprimenda para patamar inferior a 8 (oito) anos, e diante das circunstâncias judiciais favoráveis, com a fixação da pena-base no mínimo legal, fica estabelecido o regime prisional semiaberto, a teor do art. 33, § 2º, "b", do Código Penal, e da Súmula 440 desta Corte.
+5. Habeas corpus concedido.
+(HC 391.586/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/5/2017, DJe 24/5/2017.)
+Ante o exposto, concedo a ordem de habeas corpus, de ofício, para compensar a agravante da reincidência com a atenuante da menoridade relativa e, assim, redimensionar a pena do requerente para 5 anos de reclusão, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
