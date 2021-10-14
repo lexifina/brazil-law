@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido de liminar, impetrado em face de acórdão assim ementado (fls. 710/711):
+CLEITON MARCOS DE SOUZA MATIAS, JEAN RICARDO DE SOUZA MATIAS e RICARDO ADOLFO GUIRÃO foram denunciados por furto duplamente qualificado (rompimento de obstáculo à subtração da coisa e concurso de pessoas), praticado durante o período de repouso noturno.
+Regularmente processados, acabaram assim condenados por infração ao artigo 155, parágrafos 1º e 4º, incisos I e IV, do Estatuto Repressivo:
+CLEITON MARCOS, ao desconto de 4 anos, 1 mês e 23 dias de reclusão, em regime inicial semiaberto, mais o pagamento de 18 dias-multa, no piso;JEAN RICARDO, ao cumprimento de 5 anos, 6 meses e 10 dias de reclusão, além do pagamento de 24 dias-multa, no limiar;
+RICARDO ADOLFO, ao desconto de 4 anos, 10 meses e 1 dia de reclusão, em regime inicial fechado, mais o pagamento de 21 dias-multa, no piso (fls. 532/549).
+Descontentes com tal desfecho, apelam os réus.
+RICARDO ADOLFO alega que as provas coligidas ao processo não são suficientes para alicerçar a sua condenação, razão pela qual pede ser absolvido. Subsidiariamente, pleiteia a desclassificação do crime de furto duplamente qualificado para o de tentativa de furto simples. Se assim não for, requer o afastamento da causa de aumento relativa ao repouso noturno e o abrandamento do regime prisional (fls. 593/602).
+CLEITON MARCOS e JEAN RICARDO requerem o cancelamento da causa de aumento de pena relativa ao repouso noturno, afirmando que tal exasperação só é possível no caso de furto simples (fls. 603/608).
+Os recursos foram respondidos (fls. 613/637).
+O parecer da douta Procuradoria-Geral de Justiça encontra-se a fls. 686/694.
+É o relatório.
+Ospacientesforam condenados "por infração ao artigo 155, parágrafos 1º e 4º, incisos I eIV, do Estatuto Repressivo" às penas de "4 anos, 1 mês e 23 dias de reclusão, em regime inicial semiaberto" e "5 anos, 6 meses e 10 dias de reclusão", respectivamente (fl. 710-711), entendimento mantido pelo Tribunal em razão do desprovimento da apelação.
+A parte impetrante sustenta que não é cabível o aumento de pena previsto no art. 155, § 1º, do CP, porquanto necessário que o ambiente esteja habitado.Afirma que "o delito em tela foi praticado em local inabitado: num posto de combustível que estava fechado e sem ninguém dentro durante o horário do dito crime, conforme narrado pelo proprietário do estabelecimento" (fl. 6).
+Argumenta ainda que "é pacífico na jurisprudência pátria que, no caso de furto qualificado, não há que se falar em aumento de pena pelo repouso noturno" (fl. 7).
+Requer a concessão da ordem para readequação da pena.
+Indeferida a liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Ao manter a causa de aumento relativaao repouso noturno, o Tribunal de Justiça assim se manifestou(fl. 714):
+Quanto ao afastamento da causa de aumento de pena referente ao repouso noturno, é pedido impossível de ser atendido.
+Aliás, a ratio essendi dessa causa de aumento é o notório afrouxamento da vigilância no período reservado ao repouso noturno e, por isso mesmo, é claro que ela se aplica a qualquer espécie de furto, simples ou qualificado, consumado ou tentado.
+O entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte, segundo a qual "a causa de aumento do art. 155, §1º, do CP, é aplicável tanto para o furto simples como para oqualificadoe independe de o local do fato encontrar-se habitado ounão durante a execução do crime (AgRg no REsp 1726761/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/11/2019, DJe 03/12/2019). No mesmo sentido:
+HABEAS CORPUS. ART. 155, §§ 1.º E 4.º, INCISO II, E ART. 155, §§ 1.º E 4.º, INCISO II, C.C. O ART. 14, INCISO II, TODOS DO CÓDIGO PENAL.FURTO. ESCALADA. AUSÊNCIA DE PERÍCIA. CRIME QUE DEIXA VESTÍGIOS.OUTROS MEIOS DE PROVA. IMPOSSIBILIDADE DE INCIDÊNCIA DA QUALIFICADORA. PRECEDENTES. DOSIMETRIA. ART. 59 DO CÓDIGO PENAL.PENA-BASE. ANTECEDENTES. REINCIDÊNCIA. DUAS CONDENAÇÕES COM TRÂNSITO EM JULGADO. POSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REDUÇÃO PELA TENTATIVA. CONSIDERADO O ITER CRIMINIS. FUNDAMENTO IDÔNEO. INVERSÃO DO JULGADO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INCOMPATÍVEL COM A VIA ESTREITA DO WRIT. AUMENTO DE PENA DECORRENTE DO REPOUSO NOTURNO. POSSIBILIDADE. REGIME INICIAL DE CUMPRIMENTO DE PENA. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E REINCIDÊNCIA DO ACUSADO. REGIME FECHADO. CABIMENTO.PRECEDENTES. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. ORDEM DE HABEAS CORPUS PARCIALMENTE CONCEDIDA.
+1. É imprescindível, para a constatação da qualificadora referente à escalada no crime de furto, a realização do exame de corpo de delito, o qual pode ser suprido pela prova testemunhal ou outro meio indireto somente quando os vestígios tenham desaparecido por completo ou o lugar se tenha tornado impróprio para a constatação dos peritos, o que não foi evidenciado nos autos.
+2. A jurisprudência desta Corte é firme no sentido de que condenações pretéritas podem ser utilizadas tanto para valorar os maus antecedentes, na primeira fase, bem como para agravar a pena, na segunda fase, a título de reincidência, sem ocorrência de bis in idem, desde que as anotações sejam de fatos diversos, como no caso.
+3. As reduções das penas privativas de liberdade em razão das tentativas foram aplicadas com base no iter criminis percorrido pelo Agente, não se mostrando inidôneo tal proceder.
+4. A inversão do julgado, de forma a verificar se deve ser aplicada a fração máxima do redutor pela tentativa, implicaria profunda análise do arcabouço fático-probatório, o que é defeso na via estreita do habeas corpus.
+5. A causa de aumento de pena prevista no § 1.º do art. 155 do Código Penal, relativa à prática de furto durante o repouso noturno, é aplicável na qualificada do delito, bem como independe se o local está habitado.
+6. Embora a pena definitiva tenha sido fixada em menos de 4 (quatro) anos, reconheceu-se, além da reincidência, a existência de circunstâncias judiciais desfavoráveis ao Paciente, o que levou à fixação da pena-base acima do mínimo legal. Desse modo, encontra-se justificado o estabelecimento do regime prisional fechado, conforme a interpretação conjunta dos arts. 59 e 33, §§ 2.º e 3.º, do Código Penal.
+7. É possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando esgotada a jurisdição ordinária.
+8. Ordem de habeas corpus parcialmente concedida para, reformando o acórdão recorrido, afastar a qualificadora do art. 155, § 4.º, inciso II, do Código Penal, restabelecendo-se a sentença.(HC 456.927/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/03/2019, DJe 28/03/2019.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO.MAJORANTE DO REPOUSO NOTURNO. COMPATIBILIDADE. PRECEDENTES DO STJ.FATO INCONTROVERSO. VALORAÇÃO JURÍDICA. POSSIBILIDADE. GRAVO IMPROVIDO.
+1. A causa de aumento prevista no § 1º do art. 155 do Código Penal, que se refere a prática do crime durante o repouso noturno, é aplicável ao furto qualificado.
+2. Tratando-se de valoração jurídica de fato incontroverso, não há falar em incidência da Súmula 7/STJ, a obstar o processamento do recurso especial.
+3. Agravo regimental improvido.(AgRg no REsp 1731115/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/09/2018, DJe 24/09/2018.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
