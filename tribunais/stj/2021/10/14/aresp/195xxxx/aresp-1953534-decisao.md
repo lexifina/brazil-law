@@ -1,0 +1,34 @@
+DECISÃO
+ANTONIO GONÇALVES PIMENTA e MARIA APARECIDA DE CASTRO PIMENTA (ANTONIO e outra)ajuizaram ação declaratória cumulada com pedido cominatório contra ESPÓLIO DE JONAS TEODORO FRANCO (ESPÓLIO) .
+ESPÓLIO contestou e reconviu.
+A sentença julgou o pedido autoral improcedente acolhendo a prescrição, e condenou ANTONIO e outra nas custas e honorários fixados em 10% sobre o valor da causa; e julgou procedente o pedido reconvencional para declarar a inexistência de débito relativo a nota promissória emitida por Jonas Teodoro Franco, no valor original de R$ 270.000,00, com vencimento em 31 de agosto de 2009, condenando os autores/reconvindos nas custas e honorários fixados em 10% sobre o valor da reconvenção.
+ANTONIO e outra interpuseram apelação à qual foi negado provimento por meio de decisão monocrática (e-STJ, fls. 222/226)
+ANTONIO e outra ingressaram com agravo interno apreciado pelo Tribunal Estadual conforme acórdão assim ementado:
+AGRAVO INTERNO. APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - PRETENSÃO DE COBRANÇA - NOTA PROMISSÓRIA SEM FORÇA EXECUTIVA - PRAZO PRESCRICIONAL QUINQUENAL - ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO - SÚMULA 504, DO STJ - IMPROCEDÊNCIA DO PEDIDO - RECURSO NÃO PROVIDO. 1. Se a prova testemunhal se mostra desnecessária ou inútil para a apreciação da lide, o julgamento antecipado é medida que se impõe, não havendo que se falar em nulidade por cerceamento ao direito de defesa. 2.Embora os autores tenham atribuído à ação o nome de declaratória, trata-se de inegável pretensão de cobrança, a qual está sujeita à prescrição. 3. No julgamento do Recurso Especial nº 12620561SP, submetido à sistemática dos recursos repetitivos, o STJ pacificou o entendimento segundo o qual a ação monitória fundada em nota promissória sem força executiva é quinquenal, a contar do dia seguinte ao vencimento do título. Súmula 504, do STJ. 4.Considerando que a ação foi ajuizada quando já decorrido o lustro prescricional, deve ser mantida a decisão monocrática que negou provimento à apelação nos termos do art. 932, IV, "a" e "b", do CPC. 5. Recurso não Provido(E-stj, FL. 251).
+ANTONIA e outra interpuseram recurso especial com base no art. 105, III, a e c, da CF, onde alegaram violação dos arts. 369 e 370, parágrafo único do NCPC, 191 e 320 do CC/2002 e dissídio jurisprudencial, pelos seguintes fundamentos (1) cerceamento de defesa; (2) estão presentes nos autos os elementos necessários para declarar a quitação; (3) os credores não podem deixar de receber a dívida reconhecida pelo ESPÓLIO , e o pagamento voluntário resulta em renúncia à prescrição.
+Foram apresentadas contrarrazões 9e-STJ, fls. 280/288).
+O Tribunal recorrido inadmitiu o recurso nobre por deserção (e-STJ, fls.300/302).
+ANTONIO e outra ingressaram com agrvo em recurso especial sustentando que o recurso não pode ser declarado deserto, pois a decisão agravada desconsiderou a suspensão dos prazos processuais em razão da inatividade do Poder Judiciário com o objetivo de evitar o contágio pela nova COVID, conforme as várias Portarias baixadas pelo Poder Judiciário do Estado de Minas Gerais, da Presidência e do Conselho Nacional de Justiça.
+Sem contraminuta.
+É o relatório.
+DECIDO
+A irresignação não prospera.
+Deve-se consignar que "A Resolução n. 313/2020 do CNJ, além de outras disposições, suspendeu os prazos processuais de 19/3/2020 a 30/4/2020, ante a situação pandêmica de Covid-19.
+Conforme salientou a decisão agravada a parte foi intimada em 11/03/2020para complementar o preparo no prazo de 5 dias (e-STJ, fl. 293).
+No entanto o comprovante de recolhimento complementar foi protocolizado apenas em 21/05/2020 e juntado aos autos em 26/05/2020, sem que os recorrentes tivessem comprovado mediante documento idôneo a suspensão do expediente nos Tribunais de Justiça estaduais.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO. INTIMACÃO PARA REGULARIZACÃO, NÃO ATENDIMENTO. DESERCÃO. SUSPENSÃO DOS PRAZOS PROCESSUAIS PELO TRIBUNAL DE ORIGEM. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. PRECEDENTE DA CORTE ESPECIAL. NÃO PROVIMENTO.
+Nos termos do ad. 1.003, § 61 , do Código de Processo Civil/201 5, a comprovação de feriado local deverá ser feita no ato da interposição do recurso, não havendo possibilidade de regularização posterior.
+É deserto o recurso especial se, concedida oportunidade (cinco dias) para comprovação da regularidade do preparo efetuado ou, caso necessário, para efetivação de novo recolhimento, na forma do artigo 1.007 do Código de Processo Civil/2015, a parte não o faz tempestivamente.
+Agravo interno a que se nega provimento.(Agint no AREsp nº 1.301.954/MA, Rela. Mi n. a Maria Isabel Gallotti, DJe de 1410612019)
+DECISÃO DA PRESIDÊNCIA DO STJ. DESERÇÃO DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAR O PREPARO. RECOLHIMENTO EM DOBRO. NÃO ATENDIMENTO. DESERÇÃO. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. EXIGÊNCIA DE DOCUMENTO IDÔNEO. AGRAVO NÃO PROVIDO.
+1. É deserto o recurso especial se a parte não comprova, adequada e tempestivamente, o recolhimento do preparo recursal, a despeito de haver sido regularmente intimada na forma do art. 1.007, § 4º, do CPC/2015.
+2. "A parte recorrente deve comprovar a existência do feriado ou o ato de suspensão por meio de documentação idônea, não servindo a essa finalidade mera menção, no corpo da petição, da existência de legislação ou ato normativo" (AgInt no AREsp 1090574/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 07/11/2017, DJe 19/12/2017).
+3. "Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ 313, de 19 de março de 2020, voltando a fluir o prazo, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso."(AgInt no AREsp 1733695/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/02/2021, DJe 17/02/2021)
+4.Agravo interno não provido.
+(AgInt no REsp 1915493/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/06/2021, DJe 01/07/2021).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECERdo recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL NA ÉGIDE DO NCPC. DESERÇÃO DO RECURSO ESPECIAL. PREPARO. INTEMPESTIVO. AUSÊNCIA DE COMPROVAÇÃO DE SUSPENSÃO DO EXPEDIENTE FORENSE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
