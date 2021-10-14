@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por Nilamar Santana contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Rio Grande do Norte assim ementado (e-STJ, fls. 874-875):
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. SENTENÇA DE IMPROCEDÊNCIA. APELAÇÃO CÍVEL. PLEITO DE PAGAMENTO DE HONORÁRIOS PROFISSIONAIS. APELANTE CONTRATADA PARA PRESTAR SERVIÇO DE ARQUITETA DA EMPRESA. ELABORAÇÃO DE PROJETO ARQUITETÔNICO DURANTE A VIGÊNCIA DO CONTRATO. APELANTE QUE RECEBIA MENSALMENTE A QUANTIA ESTABELECIDA EM SEDE DE CONTRATO. ALEGAÇÃO DE PLÁGIO DE PROJETO. DOCUMENTOS TRAZIDOS PELO APELADO QUE DEMONSTRAM A DISTINÇÃO DOS PROJETOS. APELO CONHECIDO E DESPROVIDO.
+1. Diante do caso apresentado, temos que no período em que o projeto do empreendimento mencionado foi efetuado no período em que a apelante prestava serviço para as empresas. com isso o pagamento do referido trabalho executado foi inserido no valor pago mês a mês.
+2. Ausência de documentos que demonstrem a ocorrência de cópia do projeto arquitetônico do empreendimento, deixando de apresentar pareceres técnicos ou plantas comparativas que comprovassem a ocorrência de plágio.
+3. Apelo conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 902-908).
+Nas razões do recurso especial, a recorrente apontou violação ao art. 1.022 do CPC/2015, sustentando que, conforme se denota da leitura do acórdão dos declaratórios, o Tribunal local deixou de sanar os erros materiais apontados, ou mesmo de justificar os motivos pelos quais entendeu inexistentes os referidos defeitos (e-STJ, fl. 920).
+Juízo de admissibilidade negativo, o que provocou a interposição deste agravo (e-STJ, fls. 935-941).
+Contraminuta ofertada (e-STJ, fls. 970-985).
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+De início, tenha-se em conta que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão na qual se atribuiu haver obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Além disso, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar a conclusão adotada, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No que tange à suposta negativa de prestação jurisdicional, o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a resultado diferente.
+De fato, além de ter se manifestado na apelação sobre os pontos principais da demanda - afastando a alegação de pagamento de honorários, porque a agravante era contratada da empresa agravada e sobre a ausência de documentos que demonstrassem a ocorrência de cópia do projeto arquitetônico -, ao julgar os embargos de declaração, o Tribunal estadual se expressou motivada e adequadamente, solucionando a controvérsia com a aplicação do direito que entendeu cabível, não havendo como afirmar que a Corte local não se pronunciou sobre o pleito do agravante, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+Veja-se o seguinte precedente desta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Ação declaratória de inexistência de relação jurídica cumulada com compensação por danos morais em razão de ter sido impedido de trocar a categoria de sua habilitação para condução de veículos automotores por constar dezoito pontos em seu prontuário do Detran, referentes à motocicleta objeto de suposto contrato de financiamento.
+2. Ausentes os vícios do art. 1022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas. 6. Agravo interno no agravo em recurso especial não provido (AgInt nos EDcl no AREsp 1.237.692/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/6/2019, DJe 26/6/2019)
+Relativamente à alegação da existência de erro material, a jurisprudência desta Corte Superior é firme no sentido de que "erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1.234.057/PR, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 28/6/2011, DJe 1º/7/2011).
+Veja-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DOS ACLARATÓRIOS. IRRESIGNAÇÃO DA PARTE AGRAVANTE.
+1. Inviável o acolhimento do pedido da parte - para conhecer dos aclaratórios como agravo interno - ante a intempestividade dos embargos de declaração. 1.1. Ademais, "compete ao relator - e não à parte - decidir se o recurso deve ser processado como embargos de declaração ou se, em razão de seu manifesto teor infringente, seguir o figurino do agravo interno" (AgInt nos EDcl no RMS 37.523/AP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/05/2020, DJe 12/05/2020).
+2. O erro material, passível de ser corrigido a qualquer tempo, é aquele relativo à inexatidão perceptível à primeira vista e cuja correção não modifica o conteúdo decisório do julgado. Caso contrário, trata-se de erro de julgamento, hipótese na qual a parte deve lançar mão das vias de impugnação apropriadas
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 161632/SP, Rel. Ministro MARCO BUZZI, DJe de 1º/10/2020)
+Na espécie, constata-se que não havia inexatidão material a ser sanada pela origem, pretendendo a parte, na verdade, infirmar o teor do julgamento em si, o que não é cabível por intermédio dos embargos de declaração.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Majoro os honorários advocatícios para 15% (quinze por cento) sobre o valor da causa, nos termos do art. 85, § 11, do CPC/2015, ficando suspensa a sua exigibilidade pela concessão da gratuidade judiciária.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PAGAMENTO. HONORÁRIOS PROFISSIONAIS. ARQUITETO. AFASTAMENTO. SERVIÇO REMUNERADO POR CONTRATO. PLÁGIO DE PROJETO. NÃO COMPROVAÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ERRO MATERIAL. INEXISTÊNCIA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
