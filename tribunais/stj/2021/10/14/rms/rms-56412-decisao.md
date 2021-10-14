@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por RODRIGO GUIMARÃES NOGUEIRA contra acórdãoproferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 67):
+Mandado de segurança - Injúria - Queixa-crime - Impetração requerendo a concessão dos benefícios da Justiça gratuita - Decisão que indeferiu o pedido fundamentada a contento - Impetrante que é advogado atuante na Comarca e ofereceu a queixa-crime em causa própria - Declaração de Imposto de Renda apresentada apenas nos autos do mandado de segurança, a qual demonstra que o impetrante possui condições financeiras para arcar com o recolhimento da taxa judiciária - Ausência de comprovação da alegada pobreza - Direito Líquido e certo à benesse perseguida inexistente - Segurança denegada.
+Colhe-se dos autos que orecorrente impetrou mandado de segurança na origem contra a decisão que indeferiu o pedido de justiça gratuita.
+Neste recurso ordinário, orecorrente sustenta que "não há nos autos qualquer prova de que o Recorrente possua condições de arcar com as elevadas custas judiciais de mais de R$ 2.500,00 (dois mil e quinhentos reais), para que possa defender sua honra por queixa crime"(e-STJ fl. 78).
+Diante disso, requer seja o recurso provido para deferir seu pedido dejustiça gratuitae para determinar que o Magistrado de primeiro grau dê regular seguimento ao feito.
+Contrarrazões às e-STJ fls. 82/84.
+O Ministério Público Federal manifestou-se pelo desprovimento do recursoem parecer assim ementado (e-STJ fl. 119):
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. JUSTIÇA GRATUITA. DECLARAÇÃO DE POBREZA. INDEFERIMENTO DO BENEFÍCIO. POSSIBILIDADE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. DESPROVIMENTO.
+1. A declaração de hipossuficiência estabelecida na Lei nº 1.060/50 goza de presunção relativa de veracidade, podendo o magistrado, fundamentadamente, indeferir ou revogar o benefício. Precedentes.
+2. Pelo desprovimento do recurso ordinário.
+É o relatório.
+Decido.
+Nos termos do art. 1º da Lei n. 12.016/2009 (repetindo a redação da Lei n. 1.533/1951), o mandado de segurança visa à proteção de direito líquido e certonão amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça.
+No presente caso, como antes relatado, o impetrantese insurgiu contra a decisão do Magistrado de primeiro grau que indeferira o seu pedido de concessão de justiça gratuita.
+Ocorre que, nos termos do art. 5º, inciso II, da Lei n. 12.016/2009, não cabe mandado de segurança contra decisão judicial da qual caiba recurso com efeito suspensivo. No mesmo sentido, dispõe o enunciado 267 da Súmula do Supremo Tribunal Federal quenão cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+Mesmo que se flexibilize esse entendimento, não se infere nenhuma ilegalidade ou teratologia da decisão combatidaque justifique a admissão excepcional de mandado de segurança contra ato judicial.
+Com efeito,não há direito líquido e certo ao benefício da justiça gratuita pela simples apresentação da declaração de hipossuficiência, uma vez que tal afirmação de pobreza possui presunção de veracidade relativa, podendo o magistrado, fundamentadamente, indeferir ou revogar o benefício.
+In casu, o Juízo de origem indeferiu o pedido de justiça gratuita ao argumento de que o impetrante não comprovou que possui condição financeira que o impeça de arcar com as custas processuais, uma vez que se trata de advogado atuante na comarca.
+O acórdão recorrido denegou a ordem por concluir que "o impetrante é advogado, que atua em causa própria nestes autos e regulamente na Comarca, bem como exerceu o cargo de Procurador do Município de Lins/SP. A matéria jornalística revela que o impetrante patrocina várias ações judiciais questionando atos do legislativo e do executivo na cidade de Lins (fls. 14/15). Já a declaração de ajuste anual/exercício 2017 demonstra que possui um imóvel,residencial no valor de R$ 60.000,00 e uma carreta para transporte de carga, no valor de R$ 600,00, bem como rendimentos tributáveis recebidos de pessoa jurídica pelo titularno valor de R$ 18.060,01(fls. 24/25)" (e- STJ fl. 70).
+Conforme manifestação do Parquet Federal, o acolhimento das alegações do recorrente e a alteração da conclusão a que chegaram os Magistrados de origem exigiriam dilação probatória;o que, entretanto, é inadmissível na via do mandado de segurança, ou de seu respectivo recurso.
+Ante o exposto, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
