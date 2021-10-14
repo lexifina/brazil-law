@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+JOSÉ MAURÍCIO MACHADO E ASSOCIADOS - ADVOGADOS E CONSULTORES JURÍDICOS (JOSÉ) promoveu ação de cobrança contra COMPANHIA SIDERÚRGICA NACIONAL (COMPANHIA), objetivando receber valores referentes a serviços prestados em favor da companhia GalvaSud S.A., que foi por ela incorporada. Requereu, assim, a procedência do pedido.
+Em primeira instância, o pedido foi julgado procedente para condenar a COMPANHIA ao pagamento (1) dehonorários de êxito obtidos no Processo nº 18471.000525/2005-87, acrescidos de mora; (2) de honorários de êxito obtidos no Processo nº 18471.000606/2005-87, com juros de mora; e(3) das custas e despesas processuais e dos honorários advocatícios fixados em 10% do valor atualizado da condenação.
+A apelação interposta pela COMPANHIA não foi provida pelo Tribunal de Justiça de São Paulo, nos termos do acórdão prolatado pelo Des. RENATO SARTORELLI, assim ementado:
+"PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS - AÇÃO DE COBRANÇA - CONSTITUIÇÃO EM MORA DA DEVEDORA INADIMPLEMENTO DO DÉBITO - INCIDÊNCIA DE JUROS E CORREÇÃO MONETÁRIA - ART. 395 DO CÓDIGO CIVIL - ALEGAÇÃO DE EXCESSO DE COBRANÇA - AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA CAPAZ DE ABALAR OS CÁLCULOS DO CREDOR - RECURSO IMPROVIDO, REJEITADA A PRELIMINAR".
+Não basta a parte impugnar a conta. É indispensável que, além de indicar cifra ou operação indevida que a contaminou, apresente o cálculo pormenorizado que entenda correto, sob pena de impedir que a Superior Instância possa aquilatar, com precisão, as razões do seu inconformismo"(e-STJ, fls. 615/616).
+Os embargos de declaração opostos pela COMPANHIA foram rejeitados.
+Inconformada, COMPANHIA manejou recurso especial, com amparo no art. 105, III, alíneaa, da CF, alegando violação dos arts. 5º, LV, da CF e 369 e 489, § 1º, IV, do NCPC. Sustentou que (1) ocorreu erro material; (2) houve cerceamento de defesa, uma vez que não foi possível especificar provas; (3) todos os meios de prova são admitidos; e(4) foi apresentado cálculo em valor excessivo.
+O apelo nobre interposto pela COMPANHIA não foi admitido em virtude do seguinte (1) não cabimento de recurso especial alegando violação de norma constitucional; (2) ausência de afronta ao art. 489 do NCPC; (3) não demonstração de ofensa a legislação federal; e(4) incidência da Súmula nº 7 do STJ.
+Seguiu-se o agravo em recurso especial interposto pela COMPANHIA que, em decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, com amparo nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Em juízo de retratação, em decisão monocrática de minha relatoria, o agravo em recurso especial interposto pela COMPANHIAfoi conhecido para não conhecer do apelo nobre, a teor da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. AÇÃO DE COBRANÇA.PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REFORMA DA PRETENSÃO. INVIABILIDADE. APLICAÇÃODA SÚMULA Nº 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 838 - destaque no original).
+Nas razões do presente agravo interno, COMPANHIAalegou que(1)seu recurso especial foi interposto com amparo na ofensa aos arts. 369 e 397 do NCPC; (2) ocorreu erro material, uma vez que seu apelo nobre não foi interposto com fundamento na violação dos arts. 5º, LV, da CF e 489 do NCPC; (3) ocorreu cerceamento de defesa, pois foram contrariados os arts. 369, 395 e 397 do NCPC; (4) a lide foi julgada de forma antecipada e não foi possível produzir provas, que pretendiam discutir a extensão do débito que justificavam o afastamento do termo de vencimento e, por consequência, os ônus da mora; (5) não é caso de incidência da Súmula nº 7 do STJ; (6) ela ficou impossibilitada de produzir provas oral e pericial; (7) ela pretendia produzir prova pericial contábil justamente para demonstrar o defendido excesso de cálculo; e(8) foram ofendidos os arts. 395 e 397 do CC/2002 no tocante à configuração dos ônus da mora.
+Houve impugnação ao recurso (e-STJ, fls. 862/939).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE COBRANÇA.PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL.DESCABIMENTO. PRECEDENTES. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+3. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula nº 284 do STF.
+4. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+5.Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Inicialmente, apesar de a COMPANHIAalegar que não apontou contradição doart. 5º,LV,da CF, constata-se que, nas razões do seu recurso especial, ela apontou sua violação, sustentando a ocorrência de cerceamento de defesa (e-STJ, fl. 648).
+No entanto, tal assertiva é tese natimorta.
+Nesse ponto, a jurisprudência deste Tribunal Superior expõe que não cabe a apreciação de suposta ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Nesse sentido, veja-se o julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL. TEMPESTIVIDADE COMPROVADA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA CONSTITUCIONAL.
+ ..
+3. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+4. O recurso especial não é sede própria para o exame de matéria constitucional.
+5. Embargos de declaração recebidos como agravo regimental, doqual se conhece para negar-lhe provimento.
+(EDcl no AREsp 168.842/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 16/9/2014, DJe 22/9/2014 - sem destaque no original)
+Outrossim, a COMPANHIAinsurgiu-se contra o aresto recorrido, aduzindo estar este desprovido de fundamentação e ter sido apresentado cálculo em valor excessivo. Sustentou, nesse sentido, violação do art. 489 do NCPC, conforme se vê à e-STJ, fl. 648).
+Dessa forma, apesar de sua assertiva de não ter indicado ofensa ao art. 489 do NCPC, a COMPANHIA, de fato, apontou sua contrariedade.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula nº 284 do STF:É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No presente caso, da leitura das razões do especial, verificou-se que COMPANHIAnão apresentou argumentos claros e concatenados no tocante ao alegado, mas apenas ilações genéricas, pois limitou-se a dizer que oaresto recorrido estariadesprovido de fundamentação.
+Ademais, quanto à afirmaçãode apresentação de cálculo excessivo, a COMPANHIA se olvidou de indicar dispositivos tidos por violados.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. ALEGAÇÃO GENÉRICA DE CONTRARIEDADE A DISPOSITIVOS LEGAIS. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A falta de indicação do artigo de lei eventualmente violado, bem como a arguição de ofensa ao dispositivo legal de forma genérica, sem demonstração efetiva da contrariedade, configura deficiência na fundamentação, justificando a incidência da Súmula n. 284 do STF.
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, entender pela ocorrência de cerceamento de defesa, pela ausência de razoabilidade e proporcionalidade da decisão que fixou o pagamento de pensão vitalícia e pela redução do valor fixado a título de danos morais demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.829.293/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 30/8/2021, DJe 1º/9/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. PROVAS. INDEFERIMENTO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INCÊNDIO EM TERMINAL DE ADMINISTRAÇÃO. DANOS MORAIS. INEXISTÊNCIA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+3. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+4. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz (artigos 370 e 371), o qual preceitua que cabe ao magistrado dirigir a instrução probatória por meio da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+5. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, para acolher a existência de cerceamento de defesa pelo indeferimento da realização da perícia, demandaria a análise de fatos e provas dos autos, procedimento inadmissível em recurso especial, a teor do disposto na Súmula nº 7/STJ.
+6. No caso, o reexame do entendimento firmado pelas instâncias ordinárias, de que o incêndio ocorrido no terminal de administração da ora recorrida não gerou os danos morais alegados pela recorrente, demandaria a análise de circunstâncias fático-probatórias dos autos, o que obstado em recurso especial pela Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.704.662/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 30/8/2021, DJe 3/9/2021)
+Além disso, a COMPANHIA alegou ofensa ao art. 369 do NCPC, sustentando a ocorrência do cerceamento de defesa, porque não pode produzir provas.
+Sobre o tema em debate, a Corte local assim decidiu:
+1) Inocorreu o apregoado cerceamento de defesa na medida em que o julgamento antecipado é faculdade do magistrado, segundo o princípio do livre convencimento e da motivada apreciação da prova, sem que isso importe em qualquer nulidade, sobretudo nos casos como dos autos em que a produção de outras provas revelava-se desnecessária para o desate do litígio.
+Por outro lado, estando presentes os elementos necessários à solução da demanda que autorizam o julgamento antecipado, o despacho saneador é dispensado consoante entendimento sufragado pelo E. Superior Tribunal de Justiça,  ..  (e-STJ, fls. 617/618).
+O Tribunal de Justiça de São Paulo, soberano na análise das provas, concluiu pela não ocorrência de cerceamento de defesa, considerando que, no caso, não havia necessidade de outras provas.
+Assim, deve-se considerar inviável a alteração da conclusão a que chegou o TJSPquanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula nº 7 do STJ.
+Sobre o tema, confiram-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de cobrança c/c compensação por danos morais.
+2. Alterar o decidido no acórdão impugnado, no que se refere à conclusão da ausência de cerceamento de defesa na hipótese, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.864.540/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 20/9/2021, DJe 22/9/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. PROVAS. INDEFERIMENTO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INCÊNDIO EM TERMINAL DE ADMINISTRAÇÃO. DANOS MORAIS. INEXISTÊNCIA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+3. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+4. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz (artigos 370 e 371), o qual preceitua que cabe ao magistrado dirigir a instrução probatória por m eio da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+5. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, para acolher a existência de cerceamento de defesa pelo indeferimento da realização da perícia, demandaria a análise de fatos e provas dos autos, procedimento inadmissível em recurso especial, a teor do disposto na Súmula nº 7/STJ.
+6. No caso, o reexame do entendimento firmado pelas instâncias ordinárias, de que o incêndio ocorrido no terminal de administração da ora recorrida não gerou os danos morais alegados pela recorrente, demandaria a análise de circunstâncias fático-probatórias dos autos, o que obstado em recurso especial pela Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.704.662/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 30/8/2021, DJe 3/9/2021)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.522.643/MT, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 16/8/2021, DJe 18/8/2021)
+Por derradeiro, cumpre destacar quesomente nas razões do agravo internoa COMPANHIA passou a alegar ofensa aos arts. 395 e 397 do CC/2002, o que configura inovação de fundamentos, vedado nesse âmbito processual.
+Assim, como a COMPANHIA não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial, por força do não cabimento de recurso especial por violação de norma constitucional e pelaaplicação das Súmulas nºs 284 do STF e 7 do STJ.
+Nessas condições, pelo meu voto,NEGO PROVIMENTOao agravo interno.
