@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Apoena Imóveis Empreendimentos Imobiliários Ltda. contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 266):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. CELEBRAÇÃO DE CONTRATO DE COMPRA E VENDA. RESULTADO ÚTIL NÃO ALCANÇADO. COMISSÃO INDEVIDA. REEXAME DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL, E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, a parteagravante pretende a reforma da decisão agravada.
+Para tanto, sustenta que, a fim detornar devida a remuneração a que faz jus o corretor, a mediação deve corresponder somente aos limites conclusivos do negócio, mediante acordo de vontade das partes, independentemente da sua efetiva execução.
+Assim,se posteriormente houver o arrependimento de quaisquer das partes, o desfazimento do negócio não repercutirá, em geral, na pessoa do corretor.
+Nocaso, a relação jurídica firmada entre as partes pautou-se em Termo de Oferta e Aceite de Proposta Imobiliária,assinado pelas partes envolvidas na negociação do imóvel, celebrando assim o contrato de prestação de serviços de corretagem.
+Com isso, entende que a venda foiintermediada, não havendo, portanto,justificativa para o não pagamento do valor da corretagem, uma vez queprestou integralmente o serviço para o qual fora contratada.
+Impugnação apresentada,na qual oagravadopede o desprovimento do agravo interno com acondenação da parte agravante ao pagamento de multa prevista no art. 1.021, § 4º, do CPC/2015 (e-STJ, fls. 286-298).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. CONTRATO DE COMPRA E VENDA. RESULTADO ÚTIL NÃO ALCANÇADO. COMISSÃO INDEVIDA. 1. CONCLUSÃO DO ACÓRDÃO RECORRIDO NO SENTIDO DE QUE A PARTE AGRAVANTE NÃO FOI CAPAZ DE COMPROVAR O FATO CONSTITUTIVO DO SEU DIREITO. REVISÃO OBSTADA PELAS SÚMULAS 5 E 7/STJ. 2. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 3. RAZÕES RECURSAIS INSUFICIENTES. 4. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local (acerca do fato de que a parte agravante não foi capaz de comprovar que a sua intermediação teria sido definitiva para o resultado útil do negócio) incorrerá em reexame de matéria fático-probatória e de cláusulas contratuais, o que é inviável devido ao óbice das Súmulas 5 e 7/STJ, não sendo o caso de revaloração das provas.
+1.1.Com efeito, o acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que "a mera aproximação das partes, para que se inicie o processo de negociação no sentido da compra e venda de imóvel, não justifica, por si só, o pagamento de comissão" (AgInt no AREsp 1.351.916/SC, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 11/12/2018, DJe 18/12/2018).
+2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso não comporta provimento.
+De fato, em que pese às alegações deduzidas pela parte agravante, conforme foi consignado na decisão agravada, no que concerne à comissão de corretagem, a Corte estadual concluiu que a parte recorrente não intermediou a negociação, conforme trecho abaixo transcrito (e-STJ, fls. 162-165):
+Sucede que a negociação foi rompida, não tendo ocorrido por causa alheia à vontade dos contratantes, ou seja, o comprador não obteve o financiamento bancário para liquidação do preço, o que afasta a obrigação de remunerar a corretagem.
+Por mais que se considere que a requerente dispensou esforços para a aproximação das partes e que exerceu sua parte do combinado, é induvidoso que houve a desistência quanto à concretização da venda o que, como é cediço, difere-se do arrependimento tratado no artigo 725, do Código Civil.
+Dessa forma, levando-se em conta que a cobrança ora discutida baseia-se em simples proposta rejeitada, sem que tenha havido a celebração de compromisso de compra e venda, por óbvio, não se obteve o resultado previsto no contrato de intermediação imobiliária, sendo descabido falar na ocorrência de arrependimento apto a embasar a condenação do requerido ao pagamento de valores à apelada.
+Assim sendo, fica evidente que a argumentação expendida pela parte agravante, a fim de justificar que a sua intermediação teria sido definitiva para o resultado útil do negócio, está em absoluta contrariedade ao cenário fático delineado pelo Tribunal estadual, portanto, imutável na presente via especial, de maneira que não comporta acolhimento, em atenção ao óbice das Súmulas 5 e 7 desta Corte Superior, não sendo caso de revaloração de provas.
+Além disso, o acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que "a mera aproximação das partes, para que se inicie o processo de negociação no sentido da compra e venda de imóvel, não justifica, por si só, o pagamento de comissão" (AgInt no AREsp 1.351.916/SC, Rel.Ministro Raul Araújo, Quarta Turma, julgado em 11/12/2018, DJe 18/12/2018).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. IMPOSSIBILIDADE DE CONDENAÇÃO AO PAGAMENTO DE COMISSÃO REFERENTE A NEGOCIAÇÃO DISTINTA DAQUELA REPORTADA NA PETIÇÃO INICIAL.JULGAMENTOEXTRA PETITA. COMPRA E VENDA DE IMÓVEL. MERA APROXIMAÇÃO ENTRE AS PARTES. AUSÊNCIA DE PARTICIPAÇÃO NA CONCLUSÃO DO NEGÓCIO. REEXAME DE FATOS E PROVAS.IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A mera aproximação das partes, para que se inicie o processo de negociação, não justifica, por si só, o pagamento de comissão de corretagem. Precedentes.
+2. Após a análise do conjunto probatório coligido nos autos, o Juízo de origem concluiu que não houve a concretização de nenhum contrato de compra e venda entre as demandadas. A concretização do negócio também não foi evidenciada na segunda instância, tendo o relator da apelação apreciado a consumação de negócio jurídico diverso daquele reportado na inicial, ao reconhecer o direito à corretagem sobre a locação do imóvel, proferindo, assim, julgamentoextra petita.
+3. A reforma do acórdão recorrido, quanto à falta de atuação plena e esforço eficaz por parte do corretor, com a conclusão de que, embora tenha aproximado as partes, não demonstrou a efetiva participação na conclusão de negócio por seu intermédio, demandaria o revolvimento do contexto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido" (AgInt no AREsp 1.142.969/GO, Rel. MinistroLÁZARO GUIMARÃES, Desembargador Convocado doTRF 5ª Região, QUARTA TURMA, julgado em 5/12/2017, DJe 12/12/2017)
+Desse modo, tendo em vista que as alegações feitas noagravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Por fim, quanto ao pleito de aplicação de multa, contido na impugnaçãoao agravo interno, esta Corte Superior tem entendido que o mero não conhecimento oua improcedência do agravo interno não acarretaimposição damulta prevista no art. 1.021, § 4º, do CPC/2015, tornando-seimprescindível para tal desiderato que seja nítido o descabimento do recurso, o que não se verifica na espécie.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
