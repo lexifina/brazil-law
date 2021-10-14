@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Ricardo Villas Bôas Cueva.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+CAMPO GRANDE COMÉRCIO E REPRESENTAÇÕES LTDA. (CAMPO GRANDE) ajuizou ação de indenização contra as seguradoras ITAÚ SEGUROS S.A., atualmente denominada ACE SEGUROS SOLUÇÕES CORPORATIVAS S.A. (ACE SEGUROS) e BRADESCO SEGUROS S.A. (BRADESCO), objetivando a cobrança de duas apólices relativas ao seguro incêndio.
+A ação foi julgada procedente estando assim a parte dispositiva da sentença:
+ ..
+Isto posto, com amparo dos dispositivos citados e argumentação expendida, que mantenho desde a primeira decisão e com fundamento no art. 269, I, do CPC, JULGO PROCEDENTE a AÇÃO DE INDENIZAÇÃO DE SEGURO proposta por CAMPO GRANDE COMERCIO E REPRESENTAÇÕES LTDA, contra as seguradoras ITAU SEGUROS S/A e BRADESCO SEGUROS S/A, para condená-las ao pagamento da importância de Cr$ 7.093.890.000,00 (sete bilhões, noventa e três milhões, oitocentos e noventa mil cruzeiros ou moeda correspondente atualizada), 79% (setenta e nove por cento) e 21% (vinte e um por cento) respectivamente, acrescidos de juros e correção monetária a partir da data do evento, a ser paga aos representantes da Autora, resguardado direito aos cessionários de créditos, na forma da lei.
+Quanto ao IRB, na qualidade de litisconsorte/ressegurador e PRUDENTAL ATLANTICA CIA BRASILEIRA DE SEGUROS-CO-SEGURADORA, condeno-os ao ressarcimento de eventual montante ás Seguradoras, em ação de regresso ou nos próprios autos, após o transito em julgado da presente decisão.
+Condeno ainda, as Requeridas (BRADESCO/ITAU), na proporção de suas responsabilidades, ao pagamento das despesas e custas processuais e honorários de advogado à base de 20% (vinte por cento) sobre o "quantum" indenizatório de acordo com o art. 20 e seus §§ do CPC, que serão rateados/divididos proporcionalmente entre os patronos que atuaram no feito, durante todo o desenrolar do feito, conforme diversos processos apensos e pedidos de habilitações nos autos  ..  (e-STJ, fl. 2.527).
+BRADESCO SEGUROS, PRUDENTIAL DO BRASIL SEGUROS DE VIDA S. A. (PRUDENTIAL DO BRASIL), IRB BRASIL RESSEGUROS S.A. (IRB BRASIL) e ACE SEGUROS interpuseram recursos de apelação que foram parcialmente providos pelo Tribunal amazonense nos termos do acórdão, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. PRELIMINARES DE NULIDADE POR CERCEAMENTO DE DEFESA E POR SENTENÇA ULTRA PETITA. REJEIÇÃO. ALEGAÇÃO DE FRAUDE POR PARTE DA SEGURADA. PERÍCIAS CONTRADITÓRIAS. FRAUDE QUE DEVE SER COMPROVADA PELA SEGURADORA. DEMONSTRAÇÃO POR PARTE DA REQUERENTE (APELADA) DOS BENS ATINGIDOS PELO SINISTRO (INCÊNDIO). IN DUBIO PRO SEGURADO. INDENIZAÇÃO DEVIDA. QUANTUM. CONDENAÇÃO EM PATAMAR SUPERIOR AO REQUERIDO NA INICIAL. IMPOSSIBILIDADE. CORREÇÃO MONETÁRIA DESDE O EVENTO DANOSO E JUROS A PARTIR DA CITAÇÃO. SENTENÇA PARCIALMENTE REFORMADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. Merecem rejeição as preliminares de nulidade da sentença por cerceamento da defesa e por julgamento ultra petita, uma vez que, respectivamente, as partes foram devidamente intimadas a respeito do ato judicial que ordenou a conclusão do feito para a sentença e o reconhecimento do julgamento ultra petita não implica a anulação do decisum, mas tão somente na necessidade de reforma do julgado;
+II. Compete ao segurador, sobretudo no caso de alegação de fraude do segurado, para exonerar-se da obrigação de indenizar assumida no contrato de seguro, o ônus da prova de sua irresponsabilidade, subsistindo a obrigatoriedade de pagar a indenização no caso de dúvida. No caso concreto, as perícias, contraditórias entre si, não comprovaram a contento a culpabilidade do segurado, sendo inaptas a
+sustentar a recusa do pagamento da indenização. Sentença mantida neste ponto;
+III. No que tange à alegação de julgamento ultra petita, verifica-se assistir razão às apelantes, vez que a sentença de fato conferiu à apelada indenização em quantia além do que havia requerido na petição inicial. Indenização securitária que deve se limitar no caso concreto à Cr$ 4.731.953.910,00 (quatro bilhões, setecentos e trinta e um milhões, novecentos e cinquenta e três mil e novecentos e dez cruzeiros), devidamente atualizados;
+IV. A correção monetária deve incidir da data do evento danoso e o juros de mora da data da citação. Precedentes STJ;
+VI. Recurso conhecido e provido em parte (e-STJ, fls. 2.928/2.929).
+Tanto os embargos de declaração opostos por BRADESCO SEGUROS, PRUDENTIAL DO BRASIL e IRB BRASIL quanto os de ACE SEGUROS foram rejeitados (e-STJ fls. 2.982/2.990 e 3.015/3.023, respectivamente).
+Inconformadas, BRADESCO SEGUROS, PRUDENTIAL DO BRASIL e IRB BRASIL interpuseram recurso especial com fulcro no art. 105, III, a, da CF, sustentando a violação dos arts. 85, 141, 282, § 2º, e 283, § 3º, 489, II, 492 e 1.022, II, do NCPC; 20, § 3º, 128, 249, § 2º, 250, parágrafo único, e 460 do CPC/73; e 406 do CC/02, sob os argumentos de que(1) o acórdão recorrido teriaincorrido em ausência de fundamentação e negativa de prestação jurisdicional, pois teria deixado de examinar todas as provas produzidas nos autos e se baseado unicamente em laudo pericial anteriormente declarado nulo; (2) os limites do pedido foram desrespeitados, concedendo indenização em valor superior ao postulado e fixá-la em moeda diversa da indicada no pedido; (3) os juros moratórios deveriam ser atualizados pela taxa SELIC; e (4) os honorários de sucumbência foram fixados no patamar máximo, sem que se justificasse elevada condenação diante das peculiaridades do caso (e-STJ, fls. 3.161/3.184).
+Foram apresentadas contrarrazões (e-STJ, fls. 3.193/3.224).
+O apelo nobre não foi admitido (e-STJ, fls. 3.225/3.229), tendo seguimento por força de agravo provido (e-STJ, fls. 3.323/3.327).
+Em decisãode minha relatoria, dei provimento ao recurso especial de BRADESCO SEGUROS, PRUDENTIAL DO BRASIL e IRB BRASIL, determinando o retorno dos autos ao TJAM para que analise as questões trazidas nos embargos de declaração(e-STJ, fls. 3.339/3.343).
+Nas razões do presente agravo interno, CAMPO GRANDE alegou, em síntese, que todas as questõespostas em discussão foramdevidamente enfrentadas, bem como que o recurso nãoimpugnou todos os fundamentosdo acórdão(e-STJ, fls. 3.353/3.371).
+A impugnação foi apresentada (e-STJ, fls. 3.397/3.407).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZAÇÃO SECURITÁRIA.VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART.1.022 DO NCPCCONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o Tribunal estadual não se manifestou sobre os pontos que podem influir no resultado da demanda, e o recurso especial foi interposto com fundamento na violação do art. 1.022 do NCPC, devem os autos retornar para que os temas sejam analisados e solvidos.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Por meio de decisão monocrática, concedi provimento ao recurso especial interposto por BRADESCO SEGUROS, PRUDENTIAL DO BRASIL e IRB BRASIL, determinando o retorno dos autos ao TJAM para que analise as questões trazidas nos embargos de declaração.
+Irresignada, CAMPO GRANDE alegou, nas razões de agravo interno, que todas as questões postas em discussão foram devidamente enfrentadas, bem como que o recurso não impugnou todos os fundamentos do acórdão.
+(1)Da negativa de prestação jurisdicional
+Conforme ressaltado no julgado agravado, BRADESCO SEGUROS, PRUDENTIAL DO BRASIL e IRB BRASIL questionaram, em seus embargos de declaração opostos, a existência deomissões relativasao exame de todas as provas produzidas nos autos e ter se baseado unicamente em laudo pericial anteriormente declarado nulo(e-STJ, fls. 2.955/2.968).
+Assim, de uma leitura atenta dos acórdãos proferidos (e-STJ, fls. 2.928/2.948 e 2.982/2.990), verifica-se que, deveras, o TJAMse manteve silente acerca das questões ali trazidas, que se confundem com o próprio mérito das razões do recurso especial.
+E, embora manejados embargos de declaração para suprir as omissões alegadascom o devido tratamento das questõesventiladas, foram eles rejeitados, sob o fundamento de que as razões dos embargos revelaram tão somente o intuito de reapreciação da causa, o que não se admitiucom a objetividade do recurso manejado.
+Dessa forma, verificada a ofensa ao art. 1.022 do NCPC, e em virtude da relevância das questõessuscitadas, tenho como necessário o debate acerca de tais pontos.
+Nesse sentido, são os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO INCIDENTAL DE ASTREINTES. VIOLAÇÃO AO ART. 535, I e II, DO CPC. OCORRÊNCIA. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL DA LIDE.
+ ..
+6. Caracterização da ofensa ao disposto no art. 535, incisos I e II, do Código de Processo Civil, pois o Tribunal de origem não se manifestou, nem mesmo após a oposição de embargos de declaração, acerca de questão fundamental ao deslinde da controvérsia, que fora objeto de irresignação expressa por parte da empresa recorrente.
+7. Omissão que enseja o retorno dos autos à origem para que seja devidamente sanada. 8. RECURSO ESPECIAL PROVIDO.
+(REsp 1.278.892/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 11/4/2016)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DUPLICATA. ACEITE. FRAUDE. EMBARGOS DO DEVEDOR PROCEDENTES. OMISSÃO. OCORRÊNCIA. ART. 535 DO CPC. VIOLAÇÃO. CONCLUSÃO. FATOS. INDICAÇÃO. AUSÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO. ACÓRDÃO DE EMBARGOS DE DECLARAÇÃO CASSADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. É omisso o acórdão que deixa de examinar questão de fato relevante para o julgamento da causa, violando o art 535 do Código de Processo Civil.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1.387.684/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 19/2/2016).
+Dessarte, no meu entendimento, é mesmo o caso de provimento do recurso especial a fim de que os autos retornem ao TJAMpara o julgamento completo dos embargos de declaração opostos, de modo a haver efetivo pronunciamento acerca das questões ali trazidas, nos termos da fundamentação.
+Por consequência, ao se anular o acórdão proferido pelo TJAMquando do julgamento dos embargos de declaração, as questões de mérito ficam prejudicadas, pois, na oportunidade da prolação de novo acórdão, nova análise será feita ao se sanarem as omissões existentes.
+Por isso, o mérito recursal não pode ser analisado ao se dar provimento ao recurso especial por ofensa ao art. 1.022 do NCPC.
+Anote-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. FGTS. NOTIFICAÇÃO PARA DEPÓSITO DO FUNDO DE GARANTIA (NDFG). REQUISITOS. OMISSÃO CONSTATADA. VIOLAÇÃO AO ART. 535 DO CPC RECONHECIDA. NULIDADE DO ARESTO RECORRIDO.
+ ..
+2. In casu, verifica-se que, de fato, o Tribunal a quo deixou de apreciar questão fundamental para o deslinde da controvérsia, qual seja, o tema relativo à adequação e obediência do instrumento de cobrança (NDFG) aos requisitos impostos pela lei vigente à época de sua constituição. Por ser tema capaz de, individualmente, influenciar no provimento jurisdicional, deve ser objeto de manifestação pelo Colegiado, desde que existentes nos autos os documentos necessários à sua apreciação. Violação ao art. 535, II, do CPC reconhecida.
+3. Demais aspectos do recurso prejudicados em face do provimento do recurso pela omissão do acórdão recorrido.
+4. Recurso especial provido para se determinar o retorno dos autos ao Tribunal a quo para que o mesmo se pronuncie sobre a omissão apontada.
+(REsp 670.689/RJ, Rel. Ministro JOSÉ DELGADO, Primeira Turma, j. 16/12/2004, DJ 21/3/2005).
+Assim, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
