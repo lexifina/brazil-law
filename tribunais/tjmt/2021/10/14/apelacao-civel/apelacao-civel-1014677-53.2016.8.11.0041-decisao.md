@@ -1,0 +1,10 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - APELAÇÃO CÍVEL (198) 1014677-53.2016.8.11.0041
+APELANTE: SINDICATO DOS PROFISSIONAIS DE TRIBUTAÇÃO, ARRECADAÇÃO E FISCALIZAÇÃO ESTADUAL DE MATO GROSSO
+APELADO: ESTADO DE MATO GROSSO
+Vistos etc.
+Colha-se o parecer da d. Procuradoria Geral de Justiça.
+Após, conclusos os autos.
+Cuiabá-MT, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relatora
