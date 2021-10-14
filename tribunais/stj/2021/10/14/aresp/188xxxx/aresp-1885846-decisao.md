@@ -1,0 +1,51 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelaUNIÃO contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que não admitiu o recurso especial com amparo na suficiência do acórdão recorrido e nos óbices das Súmulas 7 e 83 do STJ.
+A agravante aduz que "O acórdão reintegrou militar que não é inválido e cuja doença não tem nexo de causalidade com o serviço militar. Dessa feita, a decisão é contrária à jurisprudência pacificada nesse Egrégio STJ, que exige invalidez e nexo de causalidade.." (e-STJ, fl. 488). Cita, nesse sentido, o julgamento proferido no EREsp 1.123.371/RS (DJe 12/03/2019).
+Afirma violação do art. 1.022 do CPC pelo acórdão recorrido, que "..negou-se a prestar o seu múnus jurisdicional, mediante a articulação de fundamentação clara e suficiente" (e-STJ, fl. 490).
+Questiona a aplicação da Súmula 7/STJ, dizendo que pretende apenas o correto enquadramento da situação, pois "..é incontroverso nos autos que: a) o Autor é militar temporário; b) inexistência de relação de causa e efeito da enfermidade e do serviço militar. c) o autor é parcialmente incapaz para as atividades militares" (e-STJ, fl. 491).
+Contraminuta às e-STJ, fls. 496-501.
+É o relatório.
+A inadmissão do recurso especial na origem fundou-se na inexistência de violação do art. 1.022 do CPC, na necessidade do reexame de fatos e provas para a análise da tese recursal e na consonância do julgado com a jurisprudência do STJ.
+Com respeito a esse último ponto, retira-se ser esse o objeto da controvérsia: "Reconhecida a incapacidade temporária para as atividades militares e civis ao tempo do licenciamento, torna-se imperiosa a anulação desse ato administrativo, com reintegração do militar temporário, sem estabilidade assegurada, na condição de adido para fins de tratamento de saúde e percepção de remuneração, até o pleno restabelecimento da saúde" (e-STJ, fl. 475).
+Dando aplicação ao teor da Súmula 83/STJ, a Vice-Presidência do Tribunala quocitou os julgamentos proferidos pelo STJ no AgInt no AREsp 1.420.598/RS (DJe 15/08/2019), no AgInt no REsp 1.540.930/PB (DJe 14/08/2019), no REsp 1.788.348/RS (DJe 29/05/2019), no AgInt no REsp 1.610.752/RS (DJe 24/05/2019) e no AgRg no AREsp 769.853/SC (DJe 21/05/2019).
+A parte, por outro lado, invoca julgamento no qual se discute o direito à reforma, reclamando que "O acórdão reintegrou militar que não é inválido e cuja doença não tem nexo de causalidade com o serviço militar", quando, na verdade, o Tribunal de origem reconheceu o direito à reintegração apenas para tratamento médico.
+Os argumentos da agravante, portanto, não têm relação com a questão decidida, tampouco demonstram a existência de dissenso pretoriano.
+Além disso, a insurgente apenas genericamente alega a existência de omissãono aresto impugnado.
+Essas faltas tornam inespecífico o combate aos fundamentos dodecisum,atraindo o óbice da Súmula 182/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO DO INSTITUTO NÃO CONHECIDO.
+1. O Recurso de Agravo, tanto aquele previsto no art. 544 do CPC/1973 (atual art. 1.042 do Código Fux) como o dito Regimental ou Interno previsto no art. 545 do CPC/1973 (atual art. 1.021, § 1ºdo Código Fux), objetiva desconstituir os fundamentos que impediram o processamento do Recurso Especial; sem essa providência, não comporta seguimento.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu, como lhe competia, todos os fundamentos da decisão que negou provimento ao Agravo em Recurso Especial, pois deixou de impugnar especificamente a incidência das Súmulas 5 e 7/STJ, bem como a ausência de prequestionamento.
+3. Não cumpre o dever de dialeticidade a parte recorrente que aduz alegações genéricas de inconformismo sem demonstrar, de forma clara e objetiva, a incorreção da decisão impugnada.
+4. Agravo Interno do Instituto não conhecido.
+(AgInt no AREsp 836.931/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/11/2019, DJe 28/11/2019).
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTO INATACADO. INCIDÊNCIA PARCIAL DA SÚMULA 182/STJ. DANO MORAL. VALOR EXCESSIVO. APURAÇÃO. SÚMULA 7/STJ.
+1.Tendo a decisão agravada reconhecido a ausência de prequestionamento da questão federal suscitada, devem as razões de agravo interno indicar especificamente em que momento as instâncias ordinárias apreciaram a tese defendida, sob pena de não ser atendido o comando contido no § 1º do art. 1.021 do CPC/2015 e impossibilitar o conhecimento do recurso no ponto, ante a incidência da Súmula 182/STJ.
+ ..
+4. Agravo interno parcialmente conhecido e, no ponto, improvido.
+(AgInt no AREsp 750.155/RS, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/4/2018, DJe 26/4/2018).
+É necessária, no agravo, a impugnação de todos os fundamentos da decisão denegatória de admissibilidade do recurso especial, sob pena de permanecerem incólumes os que não foram objeto de contestação.
+No ponto, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESOLUÇÃO/STJ 17/2013 E ART. 21-E DO RISTJ. COMPETÊNCIA DO PRESIDENTE DO STJ. PRECEDENTES DO STJ. DECISÃO SOBRE O PRIMEIRO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Os artigos 1º e 3º da Resolução/STJ 17, de 4/9/2013, e o artigo 21-E do RISTJ, incluído pela Emenda Regimental 24/2016, autorizam a Presidência desta Corte, antes da distribuição dos feitos, a não conhecer de recursos que não tiverem impugnado especificamente todos os fundamentos da decisão recorrida.
+2. Para se viabilizar o conhecimento do agravo em recurso especial, é necessário que a parte agravante impugne especificamente todos os fundamentos da decisão de inadmissão, o que não ocorreu na hipótese em exame.
+3. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do artigo 932, III, do Código de Processo Civil de 2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.260.703/CE, Rel. Min. LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, julgado em 11/9/2018, DJe 14/9/2018).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ADEMAIS, OS AGENTES POLÍTICOS SE SUBMETEM À LEI DE IMPROBIDADE ADMINISTRATIVA. AGRAVO REGIMENTAL DO IMPLICADO A QUE SE NEGA SEGUIMENTO.
+1. Pela leitura das razões recursais, constata-se que, o agravante não rebateu, como lhe competia, todos os fundamentos da decisão de inadmissibilidade do Recurso Especial, deixando de impugnar a incidência da Súmula 7 do STJ e ausência de cotejo analítico.
+2. A parte agravante deve infirmar todos os fundamentos da decisão impugnada, autônomos ou não, mostrando-se inadmissível o recurso que não se insurge contra todos eles; incidência da Súmula 182 do STJ.
+3. Ademais, e apenas por amor ao debate, registre-se que a jurisprudência desta Corte orienta que a ação de Improbidade Administrativa deve ser processada e julgada nas instâncias ordinárias, ainda que proposta contra pessoa com prerrogativa funcional. Nesse sentido: REsp. 1.138.173/RN, Rel. Min. HUMBERTO MARTINS, DJe 30.6.2015; REsp. 1.489.024/SP, Rel. Min. BENEDITO GONÇALVES, DJe 11.12.2014; EDcl na AIA 45/AM, Rel. Min. LAURITA VAZ, DJe 28.5.2014; AgRg no AgRg na AIA 35/DF, Rel. Min. ARI PARGENDLER, DJe 10.2.2014).
+4. Agravo Regimental do Implicado a que se nega seguimento.
+(AgRg no AREsp 766.962/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 4/9/2018, DJe 20/9/2018).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. ILEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. INOCORRÊNCIA. AGRAVO IMPROVIDO. EXECUÇÃO ANTECIPADA DEFERIDA.
+1. Não havendo impugnação específica acerca de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula 182 deste Tribunal Superior. (AgRg nos EDcl no AREsp 803.840/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/06/2017, DJe 23/06/2017).
+2. O Ministério Público estadual possui legitimidade ativa recursal nesta Corte, nos processos em que seja parte, conforme entendimento consolidado no EARESP 1.327.573/RJ.
+3. O Superior Tribunal de Justiça firmou o entendimento de que é possível a execução provisória da pena, após prolatado o juízo condenatório por Tribunal de Apelação.
+4. Agravo regimental improvido e deferida a execução provisória da pena.
+(AgRg no AREsp 1.197.888/SC, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, julgado em 14/8/2018, DJe 24/8/2018).
+Destaco que esse posicionamento foi reafirmado pela Corte Especial no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP (DJe 30/11/2018). Na oportunidade, conforme o voto proferido pelo Min. Luis Felipe Salomão, definiu-se que a decisão que inadmite o recurso especial não é formada por diversos capítulos, mas um único dispositivo de inadmissão do recurso, e que, sendo incindível, deve ser impugnada em sua integralidade.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015,c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
