@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Caenge S.A. - Construção Administração e Engenharia contra a decisão de fls. 430-433 (e-STJ), da lavra deste signatário, que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+O apelo especial foi deduzido com fundamento na alínea a do permissivo constitucional, com o intuito de reformar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fls. 316-317):
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSO CIVIL. ATRASO NA ENTREGA DE EMPREENDIMENTO IMOBILIÁRIO. PRELIMINAR DE INCOMPETÊNCIA TERRITORIAL. PRECLUSÃO. PERPETUAÇÃO DA JURISDIÇÃO. INVERSÃO DA CLÁUSULA PENAL EM FAVOR DO CONSUMIDOR. POSSIBILIDADE. TEMA 971 DO STJ. CASO FORTUITO. NÃO COMPROVADO. CULPA EXCLUSIVA DA CONSTRUTORA. RESCISÃO CONTRATUAL. DEVOLUÇÃO DOS VALORES PAGOS. SÚMULA 543 DO STJ. RECURSOS CONHECIDOS E DESPROVIDOS.
+1. A parte ré arguiu preliminar de incompetência territorial na peça contestatória, todavia, foi declarada a sua posterior revelia, razão pela qual se aplica o postulado da perpetuatio jurisdiccionis, precluindo o direito de alegar o vício de competência relativa, e mantendo-se fixada a competência do juízo de primeiro grau. Preliminar de incompetência territorial rejeitada.
+2. Conforme fixado no Tema 971 do STJ, julgado sob o rito dos recursos repetitivos, é cabível a inversão, em favor do consumidor, da cláusula penal estabelecida exclusivamente em favor do fornecedor, quando de seu inadimplemento.
+3. Todas as providências relacionadas à construção civil, junto ao Poder Público ou a fornecedores particulares, cabem ao fornecedor desse tipo de produto/serviço. Assim, inseridos tais percalços no risco do empreendimento, sendo de conhecimento previsível, não cabe a alegação de caso fortuito ou culpa de terceiros para justificar o atraso na entrega das obras conforme contrato firmado entre as partes, do qual, inclusive, consta prazo de tolerância razoável.
+4. Conforme súmula 543 do STJ, na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor. Assim, evidenciada a culpa exclusiva do fornecedor pela rescisão contratual, cabível a restituição da totalidade dos valores pagos pelo consumidor adquirente, não havendo que se falar em quaisquer retenções.
+5. RECURSOS CONHECIDOS E DESPROVIDOS. Sentença mantida.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 355-359).
+Nas razões do recurso especial (e-STJ, fls. 366-380), a recorrente apontou violação dos arts. 373, 489, § 1º, IV, e 1022, II, parágrafo único, do CPC/2015; e 396, 418, 421 e 422 do CC/2002, sustentando, em síntese, negativa de prestação jurisdicional e que o atraso na entrega do imóvel decorreu de culpa exclusiva do autor.
+Em face do juízo prévio negativo de admissibilidade do recurso especial, a insurgente interpôs agravo, o qual foi julgado nos termos da seguinte ementa (e-STJ, fl. 430):
+AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA IMÓVEL. NEGATIVA PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. CULPA EXCLUSIVA DA CONSTRUTORA. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Neste agravo interno (e-STJ, fls. 439-451), a agravante reitera a existência de omissão no julgado sobre tema que, caso fosse enfrentado, teria influenciado diretamente no quadrante de motivação e dispositivo do julgado. Refuta aplicação do enunciado n. 7 da Súmula desta Corte, sob o fundamento de que a matéria dos autos envolve questão meramente jurídica.
+Sem impugnação (e-STJ, fl. 454).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. NEGATIVA PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. CULPA EXCLUSIVA DA CONSTRUTORA. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Apesar de rejeitados os embargos de declaração, a matéria em exame foi suficientemente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente, não havendo falar em negativa de prestação jurisdicional.
+2. O Tribunal local concluiu pela culpa exclusiva da construtora na entrega do empreendimento fora do prazo ajustado no contrato. A modificação das premissas firmadas na origem, de modo a acolher a irresignação recursal, demandaria o reexame do acervo fático-probatório dos autos, procedimento inviável no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+No que tange à alegada negativa de prestação jurisdicional, a agravante destaca que "discorreu sobre a omissão do E. TJDFT em não ter apreciado de maneira apropriada os motivos que ocasionaram o suposto atraso na entrega do bem adquirido pelo Agravado", uma vez que o "Agravado não promoveu junto à companhia de água e esgoto a ligação dos serviços, o que estava previsto em contrato e era de sua exclusiva responsabilidade, e imprescindível para conclusão do serviço" (e-STJ, fl. 444).
+Todavia, verifica-se que o acórdão recorrido expressamente enfrentou as questões suscitadas pelas partes, notadamente ao destacar que os alegados impedimentos informadossão de prévio conhecimento da construtora e integram o risco do empreendimento.
+A propósito, confira-se o seguinte excerto do acórdão recorrido (e-STJ, fl. 321, sem grifos no original):
+De acordo com o contrato entabulado pelas partes, verifica-se que o prazo inicialmente previsto para a entrega do imóvel era 01/08/2013, o qual poderia ser prorrogado por mais cento e oitenta dias, tendo como prazo final a data de 01/02/2014.
+Todavia, no documento de ID nº 11797091, verifica-se informação de outras duas datas para a conclusão e entrega das obras, em fevereiro de 2010 e em julho de 2010. Ocorre que a primeira data consta em um sitio da internet a respeito do empreendimento em questão, ao passo que a segunda data (julho de 2010) consta do que aparenta ser uma comunicação oficial entre a construtora e o autor.
+É fato incontroverso nos autos que as obras de infraestrutura não foram entregues até a data de ajuizamento da presente ação, em 17/11/2016.
+Assim, tem-se que o termo final para a entrega do imóvel é dia 17/11/2014, após o qual as rés entraram em mora e descumprimento contratual.
+As rés alegam que o atraso ocorreu foi caso fortuito, bem como procedimentos burocráticos que lhes podem ser atribuídos. Sem razão, contudo.
+O e. Tribunal de Justiça do Distrito Federal tem entendimento no sentido de que tais fatos já são de prévio conhecimento das construtoras e integram o risco do empreendimento, sendo que tais riscos justificam a prorrogação do prazo de entrega previsto contratualmente.
+(..)
+Assim, as rés entraram em mora por sua culpa exclusiva, pois não entregaram o empreendimento no prazo ajustado em contrato.
+Assim, "devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489, II, e 1.022 do CPC/15" (REsp 1.736.593/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 11/02/2020, DJe 13/02/2020).
+Por outro lado, as assertivas da recorrente relativas ao motivo que ensejou o atraso na entrega do bem, nos termos em que postas, atraem o óbice do enunciado n. 7 da Súmula desta Corte, pois o Tribunal de origem concluiu, diante das peculiaridades do caso, pela culpa exclusiva da construtora na entrega do empreendimento fora do prazo ajustado no contrato.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
