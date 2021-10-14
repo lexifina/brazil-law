@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por OSVALDO RODRIGUEScontra decisão do Tribunal de Justiça do Estado de São Pauloque não admitiu recurso especial manejado contra acórdão assim ementado:
+PRESTAÇÃO DE SERVIÇOS - Oficina mecânica - Retenção detrator como forma de obter o pagamento pelos serviços prestados- Ação de reintegração de posse cumulada com indenização por danos materiais e morais proposta pelo proprietário - Liminar deferida e cumprida - Sentença de parcial procedência - Apelo da ré - Alegação de que a retenção foi acordada entre as partes, pois o veículo somente seria retirado quando houvesse o pagamento pelos serviços prestados - Exercício arbitrário das próprias razões- Retenção indevida - Esbulho - Indenização por danos morais exigível - Valor arbitrado de maneira adequada - Lucros cessantes não caracterizados - Rejeição do pedido de indenização por danos materiais formulado sob tal fundamento - Recurso acolhido nessa parte - Impossibilidade de apreciação do pedido de condenação do autor ao pagamento dos valores referentes ao serviço prestado- Inexistência de reconvenção - Apelação provida em parte.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 385-388).
+Nas razões do recurso especial, a parte recorrente alega ofensa ao art. 402 do Código Civil, sustentando, em síntese, a viabilidade da indenização por lucros cessantes, uma vez que sofreu prejuízos decorrentes da privação do uso do trator, instrumento de seu trabalho. Aduz, ainda, divergência jurisprudencial.
+Não foram apresentadas contrarrazões (e-STJ fl. 425).
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A parte recorrente, em sede de recurso especial, alega ofensa ao art. 402 do Código Civil, sustentando, em síntese, a viabilidade da indenização por lucros cessantes, uma vez que sofreu prejuízos decorrentes da privação do uso do trator, instrumento de seu trabalho. Aduz, ainda, divergência jurisprudencial.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 365-367):
+Ao contrário do que alega a apelante, ficou demonstrado que o trator pertence ao autor, conforme documentos de fls. 24/25, de modo que era mesmo caso de se deferir o pedido de reintegração de posse. Ademais, prova em sentido contrário não foi produzida pela ré.
+Não há controvérsia quanto ao fato de que as partes celebraram acordo para conserto do trator e de que a ré reteve, até o cumprimento da liminar, a posse do veículo. (..)
+Importante destacar que, ainda que o autor tenha se comprometido a pagar o conserto quando da retirada, não competia à ré a retenção do trator como forma de exigir o cumprimento da obrigação.
+Poderia valer-se dos meios legais para resguardar o direito de obter o pagamento, o que, no entanto, não ocorreu.
+Portanto, não há dúvida de que a ré reteve indevidamente o trator como forma de exortar o autor a pagar o valor que alega ser devido pelo conserto do veículo, o que é ilícito e enseja, além da reintegração de posse, o dever de indenizar o autor pelos prejuízos que teve que suportar.
+Quanto aos lucros cessantes, o autor afirma que perdeu serviços que poderia prestar se estivesse na posse do trator, juntando aos autos o contrato de fls. 39/46 como forma de comprovar o alegado. (..)
+Não se nega que o autor, na qualidade de lavrador, tem o trator como instrumento de trabalho e de obtenção de renda para sua sobrevivência. No entanto, a par da roupagem genérica e sem objetividade do pedido de indenização por danos materiais formulado na peça inaugural (condenação "ao pagamento de eventual DANO MATERIAL, a ser apurado em liquidação de sentença, por não emprego do instrumento de trabalho, caso ocorra, devido a não restituição do bem quando da citação da presente ação ou, ainda que seja arbitrado por Vossa Excelência em conformidade com art. 555 do NCPC o valor das perdas e danos diários"), o contrato de fls. 39/45 não se mostra idôneo a demonstrar a exigibilidade do pedido de indenização por danos materiais, modalidade lucros cessantes.
+O autor estava impossibilitado de utilizar o trator desde julho de 2016, de modo que por óbvio não poderia ter dado cumprimento ao contrato de fls. 39/45 celebrado em 1º de março de 2018, não sendo demais lembrar que foi reintegrado na posse do veículo somente em 30 de janeiro de 2019 (fls. 158/163).
+Reputam-se, pois, não caracterizados os lucroscessantes alegados pelo autor, acrescentando-se que não há comprovação também, ou sequer alegação, de que antes da retenção pela ré o veículo era utilizado regularmente e resultava em rendimentos para o autor.
+Com efeito, vislumbra-se que a irresignação da parte agravante não merece guarida, uma vez que,elidir as conclusões do aresto impugnado, mormente a de que, "a par da roupagem genérica e sem objetividade do pedido de indenização por danos materiais formulado na peça inaugural (condenação "ao pagamento de eventual DANO MATERIAL, a ser apurado em liquidação de sentença, por não emprego do instrumento de trabalho, caso ocorra, devido a não restituição do bem quando da citação da presente ação ou, ainda que seja arbitrado por Vossa Excelência em conformidade com art. 555 do NCPC o valor das perdas e danos diários"), o contrato de fls. 39/45 não se mostra idôneo a demonstrar a exigibilidade do pedido de indenização por danos materiais, modalidade lucros cessantes",demandaria a reinterpretação de cláusulas contratuais, bem como o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor das Súmulas 05 e 07/STJ.
+A propósito:
+AGRAVO REGIMENTAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. LUCROS CESSANTES. ESBULHO POSSESSÓRIO DE BEM MÓVEL. DANO. PROVA. APLICAÇÃO DA SÚMULA 7/STJ. DISSÍDIO NÃO CARACTERIZADO. DECISÃO AGRAVADA MANTIDA.
+1.- A desconstituição das conclusões a que chegou o Colegiado a quo a respeito dos danos, como propugnado, ensejaria nova incursão no acervo fático-probatório da causa, o que é vedado à luz da Súmula 7 desta Corte.
+2.- Inviável o conhecimento do recurso especial pelo dissídio, se o recorrente não realiza o devido cotejo analítico, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+3.- O recurso não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido.
+(AgRg no AREsp 179.466/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/06/2012, DJe 27/06/2012) - g.n.
+Destarte, melhor sorte não socorre à parte recorrente, inclusive quanto ao alegado dissídio pretoriano.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO DE REINTEGRAÇÃO DE POSSE C/C REPARAÇÃO DE DANOS. RETENÇÃO INDEVIDA DE BEM. ESBULHO. LUCROS CESSANTES NÃO COMPROVADOS. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 05 E07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
