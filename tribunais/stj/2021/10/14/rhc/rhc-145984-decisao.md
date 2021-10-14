@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto porMarcosVinícius Souza dos Reis,com a alegação de constrangimento ilegal ante a denegação da ordem no HC n. 0068763-53.2020.8.19.0000,pelo Tribunal de Justiça do Rio de Janeiro,e consequente manutenção da prisão preventiva decretada no Processo n.0025535-11.2020.8.19.0038, em curso na 2ª Vara Criminal da comarca de Nova Iguaçu/RJ.
+Argumenta-se quea fundamentação utilizada para segregar a liberdade do recorrenteé carecedora de fundamentação vinculada e concreta, ferindo destarte, o preceito insculpido no art. 93 IX, da CRFB/88(fl. 94).
+Segundo a inicial, também se encontram ausentes os requisitos da prisão cautelar.
+Defende-se a violação do princípio da isonomia, diante da identidade de condições entre o recorrente e oscorréus agraciados com a liberdade provisória.
+Aduz-se a desnecessidade da preventiva,devendo ser substituída por medidas cautelares diversas, as quais se afiguram, no caso, adequadas e suficientes para garantia da instrução criminal e da eventual aplicação da lei penal(fl. 99).
+Requer-se, inclusive em caráter liminar, seja concedida ordem liberatória em favor do acusado.
+Indeferi o pedido liminar (fls. 215/217).
+Informações prestadas pelo Juízo de origem às fls. 223/239.
+Parecer do Ministério Público Federal opinando pelo desprovimento do recurso (fls. 243/248).
+Às fls. 250/253, consta petição da defesa noticiando que a instrução processual se findou em16/4/2021 e,ultrapassados 5 meses, não tivemos até a presente data a entrega da prestação jurisdicional, sendo certo que desde o mês de julho deste corrente ano todos os causídicos já apresentaram suas alegações finais, restando apenas a Defensoria Pública do Estado do Rio de Janeiro. Ao final, requer o relaxamento da prisão do recorrente.
+Solicitei informações, as quais foram prestadas às fls. 269/271.
+É o relatório.
+A despeito da custódia provisória, consta dos autos quea conduta imputada ao recorrente, a prática do delito de associação para o tráfico de drogas majorada pelo emprego de arma de fogo, em um contexto fático em que, supostamente, manteve diálogos acerca da perda de uma carga de drogas e a compra e venda de munições de fuzil, é grave e capaz de gerar repercussão danosa no meio social, o que torna indispensável a prisão preventiva para a garantia da ordem pública (fl. 68).
+Da decisão de primeiro grau, transcrita no acórdão recorrido, extrai-se que o recorrenteé apontado como vizinho e comparsa do acusado ANDRÉ "PARATI", notadamente no tráfico de drogas e munições. Mantém diálogos em que denota claro envolvimento com práticas criminosas e constante preocupação com operações policiais (fl. 415). Mantém diálogos em que explicita situações envolvendo a perda de uma carga de drogas e a compra e venda de munições de fuzil (fls. 416/417). Mantém diálogo em que menciona ter passado por uma operação policial no momento em que estava com um milhão e oitocentos mil dentro do carro (fl. 419) - fl. 67.
+Diante deste contexto, aplicável à espécieo entendimento de que " n ão há ilegalidade na decisão que decreta a prisão preventiva com base em elementos concretos aptos a revelar a real necessidade de se fazer cessar ou diminuir a atuação de suposto integrante de organização criminosa para assegurar a ordem pública" (RHC n. 144.284 AgR, Rel. Ministro EDSON FACHIN, SEGUNDA TURMA, DJe 27/08/2018) -(AgRg no RHC n. 149.783/CE, Ministra Laurita Vaz, Sexta Turma, DJe 24/8/2021).
+Outra não é a opiniãoSubprocuradora-Geral da República Maria Iraneide Olinda Santoro Facchini, para quem a constrição está devidamente embasada na necessidade de tutelar a ordem pública, diante da indicação da periculosidade do agente, evidenciada pela gravidade das circunstâncias em que praticada as condutas delitivas. Aliás, essa Corte Superior possui entendimento de que o fato de o recorrente integrar organização criminosa, por si só, justifica a segregação cautelar(fl. 246).
+Outrossim, mostra-se indevida a aplicação de medidas cautelares diversasda prisão, quando evidenciada a sua insuficiência para acautelar a ordempública (HC n. 446.504/SP, Ministro Reynaldo Soares da Fonseca, QuintaTurma, DJe 12/6/2018).
+Quanto à dita violação doprincípio da isonomia, consta do acórdãoa falta de identidade entre as condições fático-jurídicas do acusado e dos 40 corréus - que não praticaram condutas idênticas -afasta a aplicação do art. 580 do Código de Processo Penal na hipótese.
+Por fim, as alegações relativas ao dito excesso de prazo não foram objeto de debate pela Corte estadual. Dessa forma, inviável a pretendida supressão de instância.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. COMÉRCIO ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA.AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. EXCESSO DE PRAZO. MATÉRIA NÃO SUBMETIDA À APRECIAÇÃO DA CORTEA QUO.SUPRESSÃO DE INSTÂNCIA.
+Recurso improvido.
