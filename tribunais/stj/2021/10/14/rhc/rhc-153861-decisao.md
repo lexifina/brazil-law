@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto porLEONARDO HENRIQUE DE OLIVEIRA e EDUARDO BARBOSA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO(HC n. 0045270-13.2021.8.19.0000, de relatoria do Desembargador Jose Roberto Lagranha Tavora).
+Depreende-se dos autos que os recorrentes encontram-se presos preventivamente, pela prática de uso de documento falso (art. 299 e 304, na forma do art. 297, todos do Código Penal - Leonardo Oliveira;e art. 304, na forma do art. 297, ambos do Código Penal -Eduardo Barbosa)-e-STJ fl. 49.
+Narram os autos que(e-STJ fl. 103):
+No dia 04 de novembro de 2019, em horário que não se pode precisar, na Rua Dr. Pálvaro, nº 999, bairro Itaipu, nesta cidade, os denunciados, consciente e voluntariamente fizeram uso de documentos falsificados, sendo que o primeiro denunciado fez inserir em documento público declaração falsa e o segundo denunciado falsificou documento público, tudo com o fim de escaparem de mandado de busca e apreensão a ser cumprido por equipe de policiais civis da 32ª DP-Muriaé, Mina Gerais no endereço mencionado.
+Impetrado prévio writ na origem, a ordem foi denegada. O acórdão foi assim ementado(e-STJ fls. 49/50):
+ACÓRDÃO
+Pacientes presos preventivamente, em fevereiro/2021, denunciados pela prática de uso de documento falso (art. 299 e 304, na forma do art. 297, todos do Código Penal - Leonardo Oliveira - e art. 304, na forma do art. 297, ambos do Código Penal - Eduardo Barbosa) INCONFORMISMO DEFENSIVO buscando:
+1)-O relaxamento de prisão pelo excesso de prazo. (Inviável) Denúncia ofertada em 26/08/2020, quando do recebimento da mesma, em 03/09/2020, decretada a custódia preventiva, efetivadas as diligências prisionais em desfavor dos pacientes em 12/02/2021 e 14/02/2021. Indeferimento do pleito de relaxamento da custódia em 18/06/2021, por entender o magistrado de piso inexistentes fatos alterando o entendimento antes externado e permanecerem hígidas as condições da segregação. Respostas à acusação já apresentadas.
+Após consulta ao DGJUR no atinente à data para a realização da audiência por videoconferência, ato marcado para 26/10/2021.
+Expedidas Cartas Precatórias para a citação dos réus custodiados em outro Estado- MG. Anormalidade descaracterizada, sem nenhum período de paralisação indevida na marcha processual e justificado o prazo pelo qual se estende o claustro.
+Na presente hipótese, os pacientes usaram papéis falsificados inserindo declaração falsa em um (Leonardo Oliveira - CNH com prenome e data de nascimento semelhantes ao do agente) e contrafazendo outro, público, (Eduardo Barbosa -CNH materialmente mudada, ilegítima) com a finalidade de escaparem ao cumprimento do Mandado de Busca e Apreensão da equipe de policiais civis da 32ª DP- Muriaé- Minas Gerais.
+A exordial aponta o primeiro paciente - Leonardo Oliveira, vulgo "Leo do Crack" - como o maior traficante de drogas da cidade Muriaé e o segundo - Eduardo Barbosa - com ordem de prisão pendente de cumprimento, contexto sugerindo - ao menos em tese - a gravidade da conduta, e cuja mensuração exige a dilação probatória, afigurando-se precoce a soltura na presente fase procedimental.
+DENEGAÇÃO DA ORDEM.
+Daí o presente recurso ordinário, no qual sustenta a defesa estar configurado constrangimento ilegal pelo excesso de prazo para a realização da audiência de instrução e julgamento.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva.
+O pedido liminar foiindeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Insta consignar, por necessário, que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisóriamas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Cumpre esclarecer que o recorrente Leonardo está custodiado desde 14/2/2021 e o recorrente Eduardo desde 12/2/2021, e a defesa alega ocorrência de excesso de prazo.
+Na origem, a ordem foi denegada, firmado o entendimento de que o excesso de prazo não estavaconfigurado. Consignou o voto condutor do acórdão impugnado (e-STJ fls. 53/56):
+De acordo com as informações prestadas, o Mandado de Prisão em desfavor do paciente Eduardo Barbosa foi cumprido em 12/02/2021 e o em desfavor de Leonardo Henrique em 14/02/2021.
+O Ministério Público requereu a citação dos réus nos presídios onde se encontravam, no Estado de Minas Gerais, em 07/04/2021, foram expedidas as Cartas Precatórias para a citação dos pacientes.
+Em consulta ao site do Tribunal de Justiça, verifica-se, em 11/05/2021, certificado que as deprecatas expedidas encontravam-se pendentes de cumprimento, não constando ainda número de autuação e distribuição das mesmas, assim, a magistrada determinou novo encaminhamento das cartas precatória por malote digital ou e-mail, com urgência.
+O pleito de revogação da prisão preventiva dos acusados restou indeferido em 18/06/2021, nos seguintes termos:
+ ..
+Em 06/07/2021, ratificado o recebimento da denúncia e determinada a expedição de ofício para DGJUR solicitando data para designação de Audiência de videoconferência:
+ ..
+Decisão em 28/07/2021, designando a data da Audiência de Instrução e Julgamento para 26/10/2021:
+ ..
+Como relatado, busca o impetrante relaxamento da prisão preventiva em razão de suposto excesso de prazo, contudo, não lhe assiste razão.
+É certo que, não se pode olvidar que o exame de eventual excesso de prazo não decorre de mero cálculo aritmético, sob pena de ofensa às garantias do contraditório e da ampla defesa, pois conforme entendimento do E. STJ, "Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (HC 581.993/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/06/2020, DJe 04/08/2020).
+Destarte, o prazo estabelecido na lei para a prisão processual não tem caráter absoluto, podendo ser prorrogado se o recomendarem a gravidade do delito, o procedimento adotado e os incidentes e dificuldade específicos da relação jurídica. Portanto, na hipótese concreta, o prazo pelo qual se estende a prisão preventiva mostra-se justificado, não restando malferida, assim, a razoabilidade, nem o princípio da duração razoável do processo. (Grifei.)
+Observa-se que os recorrentes foram presos em 12/2/2021 e 14/2/2021, constando, ainda, que, em 7/4/2021, foram expedidas as Cartas Precatórias e,em 6/7/2021, foi ratificada a denúncia e solicitada designação de audiência de videoconferência. E, por fim, em 28/7/2021, foi designada a data da audiência de instrução e julgamento para 26/10/2021.
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, sinalizando, inclusive, para o encerramento da instrução, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO TENTADO E HOMICÍDIO QUALIFICADO TENTADO. (I) PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. (II) EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PLURALIDADE DE RÉUS. EXPEDIÇÃO DE CARTAS PRECATÓRIAS. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. (III) CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. (IV) MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIENTES PARA RESGUARDAR A ORDEM PÚBLICA.
+ ..
+5. "A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC-331.669/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/3/2016, DJe 16/3/2016).
+6. Em não se verificando a alegada desídia da autoridade judiciária na condução da demanda, não há falar em constrangimento ilegal. Ao revés, nota-se que o Magistrado singular procura imprimir à ação penal andamento regular.
+ .. (HC n. 369.976/MG, de minha relatoria, SEXTA TURMA, julgado em 6/12/2016, DJe 16/12/2016.)
+RECURSO ORDINÁRIO DE HABEAS CORPUS. ROUBO MAJORADO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE INJUSTIFICADO EXCESSO DE PRAZO NA INSTRUÇÃO. NÃO OCORRÊNCIA. DILIGÊNCIAS ESPECÍFICAS. INSTRUÇÃO PRÓXIMA DE ENCERRAMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. RECURSO ORDINÁRIO DESPROVIDO.
+1. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+2. No caso, o Tribunal de origem entendeu que o processo tramita dentro do princípio da razoabilidade, sem registro de qualquer atraso relevante atribuído ao Poder Judiciário que possa caracterizar constrangimento ilegal e justificar o relaxamento da prisão. O recorrente encontra-se preso desde 6/11/2016, com denúncia oferecida em 13/12/2016 e resposta à acusação apresentada em 28/7/2016, sendo que, a despeito da necessidade da expedição de cartas precatórias, os autos receberam marcha célere, com designação de audiência de instrução e julgamento para o dia 19/4/2017, somente não realizada devido à não apresentação do acusado pela Secretaria de Ressocialização. Não obstante, a instrução encontra-se na iminência de seu encerramento, com a audiência redesignada para o dia 17/8/2017.
+ .. (RHC n. 82.958/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+Ante o exposto,nego provimentoao recurso emhabeas corpus.
+Publique-se. Intimem-se.
