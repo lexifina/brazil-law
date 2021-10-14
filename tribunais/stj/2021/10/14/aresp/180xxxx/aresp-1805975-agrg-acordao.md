@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ESTELIONATO PRIVILEGIADO. COMUTAÇÃO DA PENA DE RECLUSÃO POR PENA DE DETENÇÃO. FUNDAMENTAÇÃO CONCRETA. REGIME INICIAL SEMIABERTO. MAUS ANTECEDENTES. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Reconhecida a figura do estelionato privilegiado, compete ao Magistrado optar fundamentamente por: (1) substituir a pena de reclusão pela de detenção; (2) diminuí-la de um a dois terços; ou (3) aplicar somente a pena de multa, nos termos do art. 171, §1.º, c.c. o art. 155, § 2.º, ambos do Código Penal.
+2. No caso, a escolha pela substituição por pena de detenção, que é menos benéfica ao Recorrente, está adequadamente fundamentada na gravidade concreta da conduta (fraude pela internet), no valor do prejuízo causado à vítima, pessoa física, e nos péssimos antecedentes do Recorrente, que possui 4 (quatro) condenações pretéritas, transitadas em julgado, todas por crimes patrimoniais.
+3. O Recorrente possui circunstâncias judiciais desfavoráveis, tanto que sua pena-base foi fixada acima do mínimo legal. Assim, verificada a existência de circunstância judicial negativa, revela-se idônea a fixação do regime inicial semiaberto, ainda que a pena final imposta tenha sido inferior a 4 (quatro) anos de reclusão, nos termos do art. 33, §3.º, c.c. o art. 59, ambos do Código Penal e da Súmula n. 440/STJ.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por FABIANO DOS SANTOS DOURADO contra decisão na qual conheci de agravo em recurso especial para dar parcial provimento ao apelo nobre, nos termos da seguinte ementa (fl. 386):
+"AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ESTELIONATO. ABSOLVIÇÃO POR AUSÊNCIA DE DOLO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. MAUS ANTECEDENTES. CONDENAÇÕES PENAIS POR FATOS ANTERIORES, COM TRÂNSITO EM JULGADO POSTERIOR. FUNDAMENTO IDÔNEO. REGIME INICIAL MAIS GRAVOSO. POSSIBILIDADE. ESTELIONATO PRIVILEGIADO. RÉU TECNICAMENTE PRIMÁRIO. PEQUENO VALOR DA FRAUDE. REQUISITOS LEGAIS PREENCHIDOS. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO"
+Nas razões do agravo regimental, aponta-se ofensa ao art. 171, § 2.º, do Código Penal, sob o argumento de que a simples comutação da pena de reclusão em detenção "é pouco, para não se dizer nada, efetiva, devendo ser utilizada a redução de pena, e dentro desta redução, poderão ser considerada as particularidades do caso concreto para se chegar ao patamar de diminuição" (fl. 397).
+Alega-se, ainda, violação do art. 33, § 2.º, do Código Penal, sustentando-se que seria cabível o regime inicial aberto diante da situação concreta do Agravante.
+Pleiteia-se, assim, o provimento do agravo regimental, a fim de que seja reformada a decisão monocrática.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ESTELIONATO PRIVILEGIADO. COMUTAÇÃO DA PENA DE RECLUSÃO POR PENA DE DETENÇÃO. FUNDAMENTAÇÃO CONCRETA. REGIME INICIAL SEMIABERTO. MAUS ANTECEDENTES. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Reconhecida a figura do estelionato privilegiado, compete ao Magistrado optar fundamentamente por: (1) substituir a pena de reclusão pela de detenção; (2) diminuí-la de um a dois terços; ou (3) aplicar somente a pena de multa, nos termos do art. 171, §1.º, c.c. o art. 155, § 2.º, ambos do Código Penal.
+2. No caso, a escolha pela substituição por pena de detenção, que é menos benéfica ao Recorrente, está adequadamente fundamentada na gravidade concreta da conduta (fraude pela internet), no valor do prejuízo causado à vítima, pessoa física, e nos péssimos antecedentes do Recorrente, que possui 4 (quatro) condenações pretéritas, transitadas em julgado, todas por crimes patrimoniais.
+3. O Recorrente possui circunstâncias judiciais desfavoráveis, tanto que sua pena-base foi fixada acima do mínimo legal. Assim, verificada a existência de circunstância judicial negativa, revela-se idônea a fixação do regime inicial semiaberto, ainda que a pena final imposta tenha sido inferior a 4 (quatro) anos de reclusão, nos termos do art. 33, §3.º, c.c. o art. 59, ambos do Código Penal e da Súmula n. 440/STJ.
+4. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O recurso não comporta provimento.
+De início, uma vez reconhecida a figura do estelionato privilegiado, compete ao Magistrado optar fundamentamente por: (1) substituir a pena de reclusão pela de detenção; (2) diminuí-la de um a dois terços; ou (3) aplicar somente a pena de multa, nos termos do art. 171, §1.º, c.c. o art. 155, § 2.º, ambos do Código Penal.
+No caso, a escolha pela substituição por pena de detenção, que é menos benéfica ao Recorrente, está adequadamente fundamentada na gravidade concreta da conduta (fraude pela internet), no valor do prejuízo (R$ 306,00) causado à vítima, pessoa física , e nos péssimos antecedentes do Recorrente, que possui 4 (quatro) condenações pretéritas, transitadas em julgado, todas por crimes patrimoniais.
+Desse modo, diante da fundamentação concreta apresentada, está perfeitamente justificada a opção pela substituição por pena de detenção, tendo em vista que as demais medidas não seriam suficientes para a reprovação e prevenção do crime.
+Nesse sentido:
+" ..
+V - Privilégio descrito no § 2º do art. 155 do Código Penal.
+Extensão lastreada em fundamentos idôneos. Quando o Magistrado reconhece a figura do furto privilegiado, deve declinar as suas razões para optar por quaisquer dos privilégios constantes no § 2.º do art. 155 do Código Penal, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República. Insta ressaltar, que a solução adotada no âmbito da jurisprudência deste Superior Tribunal de Justiça requisita fundamentação concreta do magistrado na escolha do benefício concedido no furto privilegiado, mormente quando a opção não recai sobre a alternativa mais benéfica.
+VI - In casu, não se verifica a ocorrência de ilegalidade. A Corte de origem ao comutar a pena de reclusão para detenção justificou seu proceder, haja vista a forma qualificada do delito e a existência de condenação por fato idêntico  embora não suficiente para caracterizar reincidência. Assim, não há se falar em ausência de motivação na escolha da benesse permitida na figura privilegiado do furto.
+ ..
+Agravo regimental desprovido." (AgRg no HC 664.934/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 17/08/2021, DJe 24/08/2021, sem grifos no original.)
+De outra parte, nos termos do art. 33, § 3.º, do Código Penal, a fixação do regime inicial de cumprimento da pena deve ser feito com observância dos critérios previstos no art. 59 daquele mesmo Código.
+No caso, o Recorrente possui circunstâncias judiciais desfavoráveis, tanto que sua pena-base foi fixada acima do mínimo legal. Assim, verificada a existência de circunstância judicial negativa, revela-se idônea a fixação do regime inicial semiaberto, ainda que a pena final imposta tenha sido inferior a 4 (quatro) anos de reclusão, conforme se extrai, a contrario sensu, da Súmula n. 440/STJ.
+Sobre o tema, confiram-se:
+" ..
+4. Apesar do quantum da pena imposta ser inferior a 4 (quatro) anos de reclusão, a presença de circunstância judicial desfavorável autoriza a fixação do regime inicial mais gravoso e obsta a substituição das penas, nos termos do art. 33, §§ 2.º e 3.º, c. c. os arts. 59 e 44, inciso III, todos do Código Penal.
+5. Agravo regimental improvido." (AgRg no AREsp 1.737.521/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/06/2021, DJe 21/06/2021, sem grifos no original.)
+Ademais, as alegações de que o Recorrente já está em liberdade, não voltou a delinquir depois de solto e possui atualmente ocupação lícita não podem ser discutidas nesta Corte Superior, uma vez que sua análise demandaria dilação probatória, o que encontra óbice na Súmula n. 7/STJ. De fato, o exame destas matérias competirá ao Juízo das Execuções Penais, por ocasião da unificação das penas aplicadas nas diversas condenações impostas ao Agravante, nos termos do art. 111 da Lei de Execução Penal.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
