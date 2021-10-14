@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de DENER DA SILVA ROCHA contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente, em primeiro grau, foi condenado como incurso nos arts. 33, caput, da Lei. 11.343/06 e 14 da Lei n. 10.826/2003 à pena total de 4 anos e 6 meses de reclusão, além do pagamento de 260 dias-multa, em regime inicial semiaberto, sendo negado o apelo em liberdade.
+Em grau recursal, o Tribunal de origem deu provimento ao apelo da acusação para elevar a pena para 5 anos de reclusão e 500 dias-multa, e alterar o regime prisional para o fechado, mantida a prisão cautelar.
+Nesta Corte, o impetrante sustenta, em suma, que a decisão do Tribunal de origem não apresentou fundamentação idônea para a manutenção da custódia cautelar.
+Requer, assim, a concessão da ordem a fim de que o réu aguarde o trânsito em julgado da sentença condenatória em liberdade.
+Pedido liminar indeferido (e-STJ, fl. 76).
+Informações prestadas (e-STJ, fls. 81-112).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 114-120).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A sentença condenatória manteve a prisão cautelar do paciente, embora tenha fixado o regime inicial semiaberto, nos seguintes termos:
+Tendo o acusado respondido preso a instrução processual, deverá aguardar em cárcere o julgamento de eventual recurso.
+Recomende-se o acusado na prisão em que se encontra.
+Nesse ponto, consigno que não é o caso de acatar o pedido da defesa (fls. 139/141) de liberdade provisória do réu em razão da pandemia notória vivenciada no mundo. Conforme exposto acima, o réu foi preso em flagrante delito pelo gravíssimo crime de tráfico de drogas e porte de arma de fogo. Outrossim, há que se considerar que a grande quantidade de droga apreendida em seu poder aliada ao porte de arma, demonstra um elevado grau de periculosidade do réu e não justifica o deferimento da liberdade pleiteada. (e-STJ, fl. 64)
+O Tribunal de origem deu provimento ao recurso da acusação, majorou a pena imposta na sentença condenatória e manteve a custódia cautelar sob os seguintes fundamentos:
+Preso durante a instrução e assim mantidos na sentença, fica, aqui, igualmente mantida a prisão preventiva, haja vista ainda presentes seus requisitos legais, assim o fazendo na forma do artigo 617,c. c. artigo 387, §2º, ambos do Código de Processo Penal. Autor de crime de gravidade concreta, acrescido, no caso, de acintosa ligação com a atividade criminosa, quiçá, com grande possibilidade de integrar organização criminosa, em razão, então, de alta periculosidade observada, evidente a necessidade de se garantir a ordem pública. (e-STJ, fls. 43)
+Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+Na hipótese, observa-se que tanto o Juízo sentenciante quanto o Tribunal de origem negaram ao paciente o apelo em liberdade, por concluir ainda estarem presentes os requisitos que ensejaram a decretação de sua prisão preventiva, haja vista a gravidade concreta da conduta delitiva, pois o paciente foi surpreendido na posse de 495,82g de cocaína e uma arma de fogo de uso permitido , utilizada para assegurar a traficância (e-STJ, fls. 49-50).
+A seguir os julgados que respaldam esse entendimento:
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. DESPROPORCIONALIDADE DA CAUTELA MÁXIMA. CONDIÇÕES FAVORÁVEIS. RELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a periculosidade do agente está demonstrada, pois o paciente foi flagrado em posse de 16g (dezesseis gramas) de maconha, 4g (quatro gramas) de cocaína e uma arma de calibre .22 municiada.
+Dessarte, evidenciada a sua periculosidade e a necessidade da aplicação de cautelas de natureza pessoal.
+3. Não obstante, o agente possui condições pessoais favoráveis e foi flagrado com quantidade não exacerbada de drogas e uma arma de pequeno calibre - uma Beretta calibre .22 -, circunstâncias que justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+4. Ordem concedida para substituir a prisão preventiva por medidas cautelares diversas a serem fixadas pelo Juízo local."
+(HC 578.667/RO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 26/06/2020);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO, COM NUMERAÇÃO SUPRIMIDA. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, a custódia cautelar encontra-se suficientemente fundamentada na necessidade de garantia da ordem pública, diante da quantidade de droga apreendida - 143 gramas de cocaína -, além de um revolver calibre 38, com numeração suprimida e municiado, mais munições e dinheiro. Tais circunstâncias justificam o encarceramento cautelar, consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+3. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura.
+4. O fato de o agravante possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva.
+5. Agravo regimental desprovido."
+(AgRg no HC 548.185/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
