@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinárioemhabeas corpus, com pedido de liminar, interposto por WALAF DIOGO DE JESUS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Segundo se infere dos autos, o recorrente foi condenado à pena de6 anos e 22 meses de reclusão, em regime inicial fechado, pelaprática dodelitotipificadonoart. 33, caput, da Lei 11.343/06, sendo-lhe indeferido o recursoem liberdade.
+Nesta Corte, a defesa alega ausência de fundamentação válida para a manutenção da custódia cautelar, uma vez que não existerazão ulterior à instrução processual a fundamentar a medida.
+Pleiteia, assim, a concessão da ordem para que seja expedido alvará de soltura com ou sem a imposição de medidas cautelares, a fim de aguardar o julgamento do recurso de apelação em liberdade. Subsidiariamente, requer a concessão de prisão domiciliar em virtude do seu estado de saúde mental.
+O pedido liminar foi indeferido (e-STJ, fl. 125).
+Informações prestadas (e-STJ, fls. 128-130, 133-135 e 138-157).
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 158-160).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+O juiz sentenciante mantevea prisão preventiva anteriormente decretada nos seguintes termos:
+Considerando que o réu permaneceu acautelado durante toda a instrução probatória, medida que, de maneira fundamentada mostrou-se a mais adequada ao caso, e que não ocorreram fatos supervenientes que alterassem a situação do segregado, e, considerando ainda, o quantum da pena imposta, denego-lhe o recurso em liberdade, com fulcro no art. 312, c/c art. 387, § 1º, do CPP, sendo a custódia imprescindível "para a garantia da ordem pública e para aplicação da lei penal. (e-STJ, fl. 20)
+O Tribunal de origem denegou a ordem sob os seguintes fundamentos:
+O MM. Juiz a quo deixou consignado em sua sentença que o réu permaneceu acautelado durante toda a instrução probatória e que não ocorreram fatos supervenientes que justificassem a liberação, de modoque não deve ser admitido o recurso em liberdade, inclusive diante da pena imposta.
+A r. decisão atacada, apesar de sucinta, atende ao disposto no artigo 93, IX, da CR/88 e não padece de vício passível de invalidação.
+Requisitos dos artigos 312 e 313 do Código de Processo Penal Inicialmente, torna-se importante registrar que compete ao magistrado, ao proferir sentença condenatória, decidir fundamentadamente sobre a manutenção ou a imposição da prisão preventiva ou de outra medida cautelar, conforme disposição expressa do art. 387, § 1º, do Código de Processo Penal.
+Para a manutenção da medida excepcional da prisão deve se revelar, no caso concreto, ao menos uma das quatro finalidades expressas pela Lei: garantia da ordem pública, da ordem econômica, conveniência da instrução criminal ou assegurar a aplicação da lei penal. Também se faz necessária a presença dos requisitos do art. 313 do CPP.
+No caso dos autos, em que pese a irresignação do advogado impetrante, permanece hígida a necessidade da prisão preventiva do Paciente.
+A materialidade e a autoria foram reconhecidas na sentença após regular instrução, não sendo possível, na via estreita do Writ, infirmar tal conclusão.
+No tocante ao periculum libertatis, conforme consignado no julgamento do HC 1.0000.20.064899-6/000, não resta dúvida quanto à sua configuração.
+O acautelado ostenta extenso histórico delitivo. Além de reincidente, está respondendo judicialmente pela prática de outroscrimes, inclusive pelo crime de homicídio qualificado, e foi flagrado na posse das drogas durante o cumprimento de pena.
+Tais fatos, somados à atual condenação, evidenciam a periculosidade do agente, o seu desinteresse na ressocialização e a necessidade de manutenção da prisão cautelar para garantia da ordem pública e para assegurar a aplicação da lei penal.
+Cumpre ressaltar que o acautelado permaneceu segregado durante toda a instrução processual, de modo que assim deve permanecer enquanto aguarda o julgamento do eventual recurso, até mesmo porque não houve alteração das circunstâncias fáticas que justificaram a custódia.
+Assim, a manutenção da prisão preventiva é medida de rigor, pois permanecem hígidos os requisitos legais que dão ensejo à sua imposição.
+ ..
+Pelo exposto, DENEGO A ORDEM de Habeas Corpus. (e-STJ, fls. 72-75)
+Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+Na hipótese, observa-se que o Juízo sentenciante negou ao recorrente o apelo em liberdade, por concluir ainda estarem presentes os requisitos que ensejaram a decretação de sua prisão preventiva,haja vista a sua reiterada conduta delitiva.Segundo consta, o recorrente é reincidente específico, responde criminalmente por outros crimes, entre os quais o delito de homicídio, e foi flagrado na posse de drogas durante o cumprimento de pena.
+Dessarte, segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Denegada a ordem."
+(HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019).
+Consigne-se, ainda, que é inviável a substituição da prisão preventiva pormedidas cautelares diversas, pois a reiterada atividade delitiva do agenteindica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Quanto ao pedido de revogação da prisão cautelar em razão do seu estado de saúde mental, a Corte de origem assim se manifestou:
+Finalmente, deixa-se mais uma vez consignado que é inviável o acolhimento do pedido de colocação do sentenciado em prisão domiciliar.
+Não há comprovação de que o estabelecimento onde se encontra o acautelado está com ocupação superior à sua capacidade, que o local não dispõe de equipe de saúde apta a lidar com a pandemia e, por fim, que o Paciente faz parte de qualquer grupo de risco de contaminação pelo coronavírus, requisitos necessários para o deferimento da pretensão. (e-STJ, fl. 75)
+Como se verifica, a decisão impugnada está em consonância com a jurisprudência desta Corte.
+A recomendação n. 62 do CNJ prevê várias medidas sanitárias para se evitar o contágio e a disseminação da Covid-19 na população carcerária. Todavia, a colocação do preso provisório em regime domiciliar não é providência automática, devendo ser aferida a particularidade de cada situação.
+No caso, as instâncias ordinárias indeferiram o recolhimento domiciliar, em decisão suficientemente motivada, tendo sido destacado que não restou comprovado que orecorrentefaça parte do grupo de risco de contágio pelo novo coronavírus,ou que o estabelecimento onde se encontra o acautelado está com ocupação superior à sua capacidade, ou ainda que o local não dispõe de equipe de saúde apta a lidar com a pandemia.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
