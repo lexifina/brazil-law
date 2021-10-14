@@ -1,0 +1,11 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL embarga de decisão de minha relatoria, na qual não conheci do writ, porque substitutivo de recurso próprio, não obstante isso, concedi a ordem ex officio, para fixar suas penas do embargado em 5 anos, 8 meses e 1 dias de reclusão, além de 565 dias-multa, mantidos os demais termos de sua condenação.
+No presente recurso, o embargante alega a ocorrência de ambiguidade, ao argumento de que na segunda fase da dosimetria, a sanção foi fixada em 4 anos, 10 meses e 10 dias de reclusão, aquém, portanto, do piso estabelecido para a pena-base em abstrato, em evidente violação ao enunciado n. 231 da Súmula esta Corte de Justiça.
+Desse modo, requer a reforma da decisão embargada, no sentido de reconhecer a ambiguidade apontada, quanto à dosimetria, para então se proceder ao seu refazimento(e-STJ, fl. 68).
+É o relatório. Decido.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de complementar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+No presente caso,verifico a ocorrência do vício apontado, nos termos do art. 619, do Código de Processo Penal, razão pela qual acolho os aclaratórios para redimensionar as sanções do embargado, conforme segue:
+Na primeira fase, em razão do desvalor conferido apenas à personalidade do paciente, exaspero suas penas em 1/6, fixando-as em 5 anos e 10 meses de reclusão, além de 586 dias-multa. Na segunda etapa, ausentes circunstâncias agravantes e presente a atenuante da menoridade relativa, reduzo as sanções para 5 anos de reclusão, e 500 dias-multa, por força da Súmula n. 231 do STJ. Na terceira fase, ausentes causas de diminuição de pena e presente a causa de aumento prevista no art. 40, VI, da LAD, mantenho a fração de 1/6, ficando as reprimendas do paciente definitivamente estabilizadas em 6 anos, 9 meses e 20 dias de reclusão, além de 680dias-multa.
+Desse modo, acolho os embargos de declaração para redimensionar as sanções do embargado para 6 anos, 9 meses e 20 dias de reclusão, além de 680 dias-multa, mantidos os demais termos da condenação.
+Comunique-se, com urgência, ao Tribunal impetrado e ao Juízo de primeiro grau.
+Intimem-se.
