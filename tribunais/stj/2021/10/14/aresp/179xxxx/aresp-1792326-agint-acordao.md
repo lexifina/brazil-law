@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Na origem, trata-se de ação objetivando a concessão do beneficio de aposentadoria por tempo de serviço. A sentença julgou parcialmente procedente o pedido apenas para reconhecer os períodos de atividade especial de 30/01/1995 a 12/03/1995 e 29/01/1996 a 31/03/1996. No Tribunal a quo, a sentença foi parcialmente reformada, conforme a seguinte ementa do acórdão:
+DIREITO PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. RECONHECIMENTO DE ATIVIDADE ESPECIAL E RURAL.CONCESSÃO DE BENEFÍCIO. PREENCHIMENTO DOS REQUISITOS.CONSECTÁRIOS LEGAIS.
+- Com o advento da Emenda Constitucional nº 20/98, a aposentadoria por tempo de serviço foi convertida em aposentadoria por tempo de contribuição, tendo sido excluída do ordenamento jurídico a aposentadoria proporcional, passando a estabelecer o artigo 201 da Constituição Federal o direito à aposentadoria no regime geral de previdência social, nos termos da lei, ao completar 35 (trinta e cinco) anos de contribuição, se homem e 30 (trinta) anos de contribuição, se mulher.
+- Entretanto, o art. 3º da referida Emenda garantiu o direito adquirido à concessão da aposentadoria por tempo de serviço a todos aqueles que até a data da sua publicação, em 16 de dezembro de 1998, tivessem cumprido todos os requisitos legais, com base nos critérios da legislação então vigente.
+- Ao segurado inscrito perante o Regime Geral de Previdência Social anteriormente à promulgação da Emenda Constitucional nº 20/98, mas que, nessa data (16 de dezembro de 1998), ainda não tivesse preenchido os requisitos necessários à sua aposentação, mesmo na forma proporcional, aplicam-se as regras de transição estabelecidas pelo art. 9º da referida normação constitucional.
+- Foram contempladas, portanto, três hipóteses distintas à concessão da benesse:
+segurados que cumpriram os requisitos necessários à concessão do beneficio até a data da publicação da EC 20/98 (16/1 2 / 1 998); segurados que, embora filiados, não preencheram os requisitos até o mesmo prazo; e, por fim, segurados filiados após a vigência daquelas novas disposições legais.
+- No caso dos autos, restou comprovada a atividade rural e especial.
+- A somatória do tempo de serviço laborado pela parte autora autoriza a concessão do beneficio pleiteado, ante o preenchimento dos requisitos legais.
+- A data de inicio do beneficio é, por força do inciso II, do artigo 49 combinado com o artigo 54, ambos da Lei nº 8.213/91, a data da entrada do requerimento e, na ausência deste ou em caso da não apresentação dos documentos quando do requerimento administrativo, será fixado na data da citação do INSS.
+- Os juros de mora são devidos a partir da citação na ordem de 6% (seis por cento) ao ano, até a entrada em vigor da Lei nº 10.406/02, após, à razão de 1% ao mês, consonante com o art. 406 do Código Civil e, a partir da vigência da Lei nº 11.960/2009 (art. 1º-F daLei 9.494/1997), calculados nos termos deste diploma legal.
+- A correção monetária deve ser aplicada em conformidade com a Lei n. 6.899/81 e legislação superveniente (conforme o Manual de Cálculos da Justiça Federal), observados os termos da decisão final no julgamento do RE n. 870.947, Rel. Min. Luiz Fux.
+- Os honorários advocaticios deverão ser fixados na liquidação do julgado, nos termos do inciso II, do § 4º, c.c. §11, do artigo 85, do CPC/2015.
+No referido julgado restou afastado o reconhecimento da especialidade nos intervalos de 06/03/1997 a 20/12/1997, 26/01/1998 a 14/12/1998, 22/02/1999 a 02/07/2001, 03/03/2001 a 18/11/2003 e 06/06/2013 a 24/07/2015.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parterecorrente aponta como violados os arts. 57, §§ 4º e 5º e 58, §§ 1º e 2º, da Lei 8213/91, afirmando, em suma, que trouxe aos autos perfil profissiongráfico previdenciário (PPP) e laudo pericial comprovando a exposição do segurado a agentes nocivos, no período glosado, a viabilizar a concessão do benefício especial. Explicita que o beneficiário nas funções de motorista e de encarregado era exposto, de forma habitual e permanente aos ruídos, hidrocarbonetos e outros compostos de carbono.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. RECONHECIMENTO DE ATIVIDADE ESPECIAL E RURAL. CONCESSÃO DE BENEFÍCIO. PREENCHIMENTO DOS REQUISITOS. CONSECTÁRIOS LEGAIS. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+I - Na origem, trata-se de ação objetivando a concessão do beneficio de aposentadoria por tempo de serviço. A sentença julgou parcialmente procedente o pedido apenas para reconhecer os períodos de atividade especial de 30/01/1995 a 12/03/1995 e 29/01/1996 a 31/03/1996. No Tribunal a quo, a sentença foi parcialmente reformada.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+- 06/03/1997 a 20/12/1997, 26/01/1998 a 14/12/1998 e 22/02/1999 a 02/07/2001:
+Laudo pericial judicial (fls. 389/420) - exposição a ruído (perito não realiza medições dos níveis de ruído, mencionando o valor de 87 db constante do PPP de fls. 222/232) e, "nas verificações das condições dos veículos", a graxas e óleos minerais: inviabilidade de reconhecimento ante a exposição a ruído de nível inferior ao exigido pela legislação previdenciária, bem como em razão da exposição não habitual e permanente ao agente químico, como se infere do laudo e da própria atividade exercida pelo segurado (motorista canavieiro);
+- 01/08/2002 a 31/12/2002, 01/01/2003 a 31/10/2003 e 01/11/2003 a 18/11/2003:
+Laudo pericial judicial (fis. 389/420) - exposição a ruído de 81 db e, "nas verificações das condições dos veículos", a graxas e óleos minerais: inviabilidade de reconhecimento ante a exposição a ruído de nível inferior ao exigido pela legislação previdenciária, bem como em razão da exposição não habitual e permanente ao agente químico, como se infere do laudo e da própria atividade exercida pelo segurado (encarregado de controle de queimada);- 06/06/2013 a 24/07/2015: Laudo pericial judicial (fls. 389/420) - exposição a ruído de 80 db ou abaixo de 85 db e, "nas verificações das condições dos veículos", a graxas e óleos minerais: inviabilidade de reconhecimento ante a exposição a ruído de nível inferior ao exigido pela legislação previdenciária, bem como em razão da exposição não habitual e permanente ao agente químico, como se infere do laudo e da própria atividade exercida pelo segurado (motorista insumos agrícolas).
+Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
