@@ -1,0 +1,33 @@
+DECISÃO
+MÁRCIO ALEXANDRE PINTO VIEIRA (MÁRCIO) ajuizou ação de prestação de contas contra ANTÔNIO LUIZ MONTEIRO PINTO (ANTÔNIO), alegando que este último, por força de procuração a ele outorgada, vendeu um imóvel rural de sua propriedade, mas não repassou integralmente o valor recebido (e-STJ, fls. 1/6).
+O dever de prestar constas foi reconhecido por sentença transitada em julgado (e-STJ, fls. 557/562).
+Na segunda fase da ação de prestação de contas, foi declarado que ANTÔNIO deveria pagar a quantia de R$ 351.665,00 (trezentos e cinquenta e um mil, seiscentos e sessenta e cinco reais) a MÁRCIO (e-STJ, fls. 757/766).
+Contra essa segunda sentença, ANTÔNIO interpôs recurso de apelação ao qual o Tribunal de Justiça de Minas Gerais negou provimento em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDAFASE. PRESCRIÇÃO. INOCORRÊNCIA. ACORDOCELEBRADO EM PROCESSO DISTINTO. AUSENCIA QUITAÇÃO. FIXAÇÃO DE SALDO DEVEDOR EM FAVOR DA PARTE AUTORA-APURAÇÃO POR MEIO DE PERÍCIA TÉCNICA-AUSÊNCIA DEELEMENTOS SUFICIENTES PARA INFIRMAR SUAS CONCLUSÕES -HOMOLOGAÇÃO DEVIDA- SENTENÇA MANTIDA.- A Ação de Prestação de Contas, no que concerne ao dever, ou não, do Réu de prestar contas à parte Autora, tem por base obrigação de natureza pessoal, estando sujeita, portanto, à prescrição decenal prevista no art. 205, do CCB/2002.- O acordo celebrado entre as partes em processo distinto não tem relação com a presenta ação, já que possui como objeto outro imóvel, não abrangendo as transações comerciais objeto dos presentes autos.- Não havendo, nos autos, elementos suficientes para infirmar as conclusões do laudo pericial homologado pela sentença recorrida, de rigor a manutenção da decisão (e-STJ, fl. 868).
+Os embargos de declaração opostos por ANTÔNIO foram rejeitados (e-STJ, fls. 887/890).
+Irresignado, ANTÔNIO interpôs recurso especial com fundamento no art. 105, III, a, da CF, alegando ofensa aos arts. (1) 11, 489 e 1.022 do NCPC, porque os embargos de declaração foram rejeitados sem enfrentamento adequado dos temas suscitados naquela oportunidade, em especial (1.1) a alegação de que MÁRCIO lhe teria doado, conforme indicado na sua declaração de imposto de renda, o montante de R$ 50.000,00 (cinquenta mil reais), (1.2) a alegação de suspeição da testemunha Nagib Bioso Castro Felix; (2) 1º, I, da Lei nº 8.137/90 e 171 do CP, recusar a ocorrência da mencionada doação implicaria o reconhecimento de que ANTÔNIO cometeu crime contra ordem tributária; (3) 178 do CC/02, pois efetivamente ocorreu a doação em pauta; (4) 447, § 3º, do NCPC, nos termos do qual deveria ser reconhecida a suspeição da testemunha Nagib Bioso Castro Felix; e (5) 156 e 173 do NCPC sem, todavia, indicar fundamentos para tanto.
+Apresentadas contrarrazões (e-STJ, fls. 919/933), o recurso especial foi admitido na origem (e-STJ, fls. 935/940).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Negativa de prestação jurisdicional
+ANTÔNIO alegou que o TJMG teria incorrido em negativa de prestação jurisdicional porque não teria se manifestado adequadamente sobre os temas suscitados nos embargos de declaração, em especial sobre (1.1) a alegação de que MÁRCIO lhe teria doado, conforme indicado na sua declaração de imposto de renda, o montante de R$ 50.000,00 (cinquenta mil reais), (1.2) a alegação de suspeição da testemunha Nagib Bioso Castro Felix.
+Com relação à doação (item 1.1) e também à suspeição da testemunha (item 1.2), é possível observar que o recurso de apelação versou sobre essas duas questões, mas o Tribunal estadual, no julgamento desse recurso, não as apreciou.
+Confira-se:
+Ora, como bem salientou o douto sentenciante, o apelante não comprovou que tenha repassado ao autor qualquer valor recebido coma venda do imóvel denominado "São Bento", que tenha recebido uma doação no valor de R$50.000,00 do apelado, que tenha contribuído para a aquisição do imóvel "Fazenda Nossa Senhora de Lourdes", ou mesmo que tenha repassado ao autor qualquer valor com a venda deste último.
+Destarte, não havendo, nos autos, elementos suficientes para infirmar as conclusões do laudo pericial homologado pela sentença recorrida, de rigor a manutenção da decisão.
+Por tais fundamentos, nego provimento ao recurso, mantendo hígida a sentença recorrida.(e-STJ, fl. 871/872).
+Nos embargos de declaração que se seguiram, ANTÔNIO reiterou que referida doação constava da declaração de imposto de renda de MÁRCIO e que Nagib era testemunha suspeita, acrescentando que o TJMG, deixando de se manifestar sobressas questões, teria incorrido em omissão.
+Confira-se:
+Dentre as teses apresentadas no recurso de Apelação, foram ventiladas a questão referente a declaração de imposto de renda do Apelado Márcio, onde constava a doação dos R$50.000,00 ao Apelante. Também foi ventilada sobre a ausência de veracidade das alegações da testemunha Nagib, a qual estava totalmente suspeita para testemunhar.
+Ocorre Excelência, que a D. decisão colegiada, com a devida máxima vênia, não se manifestou sobre tais pontos, quedando-se omissa, infringindo os arts.489, 51º, IV" e1.022, IIZ do CPC bem como o devido processo legal, conforme exposto no art.5º, LIV e LV da CF/883 (e-STJ, fl. 876),
+Referidos embargos foram rejeitados, todavia, sob a alegação genérica de que não haveria omissão, contradição ou obscuridade a serem remediadas.
+De rigor, portanto, reconhecer as omissões indicadas.
+(2) a (5) Demais temas
+Acolhida a alegação de ofensa aos arts. 489 e 1.022 do NCPC, fica prejudicado o exame dos demais temas suscitados no recurso especial.
+Nessas condições, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal estadual para que renove o julgamento dos embargos de declaração com suprimento das omissões apontadas.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. IRRESIGNAÇÃO SUBMETIDA AO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADA. RECURSO ESPECIAL PROVIDO.
