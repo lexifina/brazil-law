@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Ronaldo de Souza Lima contra a decisão, de minha lavra, na qual não conheci do habeas corpus. Eis a ementa do julgado (fl. 300):
+HABEAS CORPUS CONTRA ACÓRDÃO DE APELAÇÃO CONDENATÓRIO TRANSITADO EM JULGADO NA ORIGEM. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE.
+Writ não conhecido.
+Aqui, a defesa alega que a matéria trazida no habeas corpus foi discutida pelo Tribunal a quo no recurso de apelação.
+Aduz queo caso aqui estudado REFLETE irretorquivelmente uma INIDONEIDADE tamanha nas pseudomotivações dadas à dosimetria penal, de modo que é imperioso que esta Turma CONHEÇA DO MANDAMUS E CONCEDA A ORDEM PARA REDIMENSIONAR A REPRIMENDA DO AGRAVANTE (fl. 307).
+Requer, ao final, o provimento do agravo para que seja concedida a ordem de habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS CONTRA ACÓRDÃO DE APELAÇÃO CONDENATÓRIO TRANSITADO EM JULGADO NA ORIGEM. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE.
+1 -O agravo regimental não merece provimento, tendo em vista que a decisão ora agravada se revela consentânea com a jurisprudência deste Superior Tribunal, devendo ser mantida por seus próprios fundamentos.
+2 - Acondenação é definitiva;assim, o habeas corpus é sucedâneo de revisão criminal. Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+3 -Ainda que assim não fosse, é inviável no caso a análise de uma eventual flagrante ilegalidade passível de ser sanada de ofício por esta Corte, posto que os autos foram instruídos com fotos de trechos dos documentos, alguns cortados ou ilegíveis, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+4 - Agravo regimental improvido.
+VOTO
+O agravo regimental não merece provimento, tendo em vista que a decisão ora agravada se revela consentânea com a jurisprudência deste Superior Tribunal, devendo ser mantida por seus próprios fundamentos.
+Reafirmo que, a condenaçãoé definitiva, assim, o habeas corpus é sucedâneo de revisão criminal. Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Sobre o tema, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. INDEFERIMENTO LIMINAR. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. CONDENAÇÃO TRANSITADA EM JULGADO APÓS O JULGAMENTO DO RECURSO DE APELAÇÃO. IMPETRAÇÃO ORIGINÁRIA SUBSTITUTIVA DE REVISÃO CRIMINAL. IRRESIGNAÇÃO QUANTO À DOSIMETRIA. INVIABILIDADE. INADEQUAÇÃO DA VIA. RECURSO IMPROVIDO.
+1. "Nos termos da jurisprudência desta Corte, é possível que o relator negue seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante, sem que se configure ofensa ao princípio da colegialidade, o qual sempre estará preservado, diante da possibilidade de interposição de agravo regimental" (AgRg no RHC n. 116.726/PR, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/4/2020, DJe 15/4/2020).
+2. Na hipótese dos autos, "não se vislumbra qualquer ilegalidade no não conhecimento do writ pela autoridade apontada como coatora no que se refere às vislumbradas eivas, já que se revela descabida a impetração de habeas corpus na origem após o trânsito em julgado da condenação, como sucedâneo de revisão criminal, sendo esta a ação própria para a apreciação das ilegalidades aventadas" (HC n. 199.726/SC, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/4/2013, DJe 8/5/2013).
+3. Agravo regimental a que se nega provimento.(AgRg no HC 602.581/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/10/2020)
+ ..  1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça doEstado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.  ..  (HC n. 288.978/SP, de minha relatoria, rel. p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018 - grifo nosso).
+Ainda que assim não fosse, é inviável, no caso, a análise de uma eventual flagrante ilegalidade passível de ser sanada de ofício por esta Corte, posto que os autos foram instruídos comfotos detrechos dos documentos, algunscortados ou ilegíveis, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+Com efeito, é cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.(AgRg no RHC n. 148.434/AP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/06/2021).
+Ante o exposto, nego provimento ao agravo.
