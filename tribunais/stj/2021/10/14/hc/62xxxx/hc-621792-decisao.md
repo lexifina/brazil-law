@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ALEX APARECIDO DA SILVA BEZERRA contra acórdão do Tribunal de Justiça do Estado do Paraná (Apelação Criminal n. 0004025-37.2018.8.16.0056).
+Em primeira instância, o paciente foi condenado, como incurso nos arts. 33, caput, da Lei n. 11.343/2006, 330 do Código Penal e 34 da Lei de Contravenções Penais, às penas, respectivamente, de 5 anos e 6 meses de reclusão em regime semiaberto;de 1 mês e 15 dias de detenção; e de 1 mês de prisão simples- as duas últimas no regime aberto.
+O Tribunal de origem deu parcial provimento à apelação da defesa para reduzir a pena para 5 anos de reclusão em regime semiaberto, em relação ao crime de tráfico, e para15 dias de prisão simples, no tocante à contravenção penal.
+O impetrante afirma que o paciente faz jus à redutora do § 4º do art. 33 da Lei de Drogas, argumentando que os registros antecedentes são "condutas de pouca ou inexpressiva carga delituosa" e que, assim, "não pode ser considerado como um criminoso inveterado" (fl. 7).
+Aduz que as aludidas condutas "contam com mais de 5 (cinco) anos, portanto, todas as condutas já teriam sido fulminadas pela prescrição" (fl. 7).
+Assevera ser o paciente primário, já que não há condenação, e que se deve respeitar a limitação temporal dos efeitos dos maus antecedentes, adotando-se o parâmetro da reincidência.
+Requer, liminarmente, a concessão de liberdade ao paciente.No mérito, pleiteia a aplicação da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, adequando-se o regime para o aberto.
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 150-151.
+As informações foram prestadas às fls. 155-170.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 176-178).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presentewrité dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+A aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, com o consequente reconhecimento do tráfico privilegiado, exige que o agente seja primário, tenha bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa.
+A partir do julgamento do Recurso Extraordinário n. 591.054/SC, submetido ao regime de repercussão geral, o Supremo Tribunal Federal firmou o entendimento de que inquéritos policiais ou ações penais em curso não podem ser considerados como maus antecedentes para fins de dosimetria da pena. Confira-se a ementa do indicado julgamento:
+PENA - FIXAÇÃO - ANTECEDENTES CRIMINAIS - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA. Ante o princípio constitucional da não culpabilidade, inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais. (RE n. 591.054, relator Ministro Marco Aurélio, Tribunal Pleno, DJe de 26/2/2015.)
+A despeito de os fatos e os questionamentos envolvidos no julgamento do indicado recurso extraordinário terem se limitado à primeira fase da dosimetria, a Primeira e a Segunda Turmas do STF passaram a considerar que, diante da aplicação do princípio constitucional da não culpabilidade, inquéritos policiais ou ações penais em curso também não poderiam ser considerados como maus antecedentes, justificadores do afastamento do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006 (AgRg no RE n. 1.297.769/CE, relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 11/2/2021; e HC n. 166.385/MG, relator Ministro Marco Aurélio, Primeira Turma, DJe de 13/5/2020).
+A Sexta Turma do STJ aderiu ao entendimento consolidado no STF, com ressalva do entendimento de alguns relatores (AgRg no AREsp n. 1.801.313/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 10/3/2021; e AgRg no HC n. 648.079/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 22/4/2021).
+Comungo com o entendimento de que inquéritos policiais e/ou ações penais em curso não constituem fundamento idôneo para provocar o afastamento do tráfico privilegiado, sob pena de ofensa ao princípio constitucional da presunção de não culpabilidade. Esse entendimento fica reforçado pela necessidade de prestígio ao princípio da segurança jurídica, já que o Supremo Tribunal Federal, guardião da Carta Constitucional, entende que folhas de antecedentes sem condenações transitadas em julgado devem ser avaliadas como neutras.
+No caso dos autos, o Tribunal de origem fundou-se unicamente na circunstância de o paciente responder a outros processos criminais ainda não transitados em julgado, o que levou à presunção de dedicação a atividades criminosas para afastar a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006. Confira-se trecho do julgado (fls. 74-76):
+A ilustre Magistrada considerou como desfavorável os antecedentes dos apenados.
+Porém, em consulta ao Sistema Oráculo, verifico não haver qualquer Ação Penal com sentença de natureza condenatória, cujo trânsito em julgado tenha ocorrido anteriormente.
+Diante disso, nos termos da Súmula 444 do Superior Tribunal de Justiça, reduzo a sanção-base de Alex e Fernando para 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, para o delito de tráfico, e 15 (quinze) dias de prisão simples, para a contravenção penal.
+Na segunda fase, restaram ausentes agravantes e atenuantes.
+Assinalo que o pedido recursal para aplicação da causa de diminuição contida no art. 33, § 4º, da Lei Antitóxicos não comporta provimento.
+Isso porque a não incidência da referida minorante foi negada aos recorrentes de maneira justificada, em virtude de se dedicarem à atividade criminosa.
+Embora não sejam reincidentes, possuem diversos processos em andamento, conforme certidão constante nos autos (movs. 135.1 e 136.1  AP), os quais podem ser utilizados para afastar a redução descrita no mencionado dispositivo da Lei nº 11.343/06, conforme entendimento jurisprudencial:
+ ..
+Assim, restando demonstrado que os apelantes se prestavam ao cometimento de ilícitos, não fazem jus ao benefício, pois, conforme previsão legal, o reprochado precisa preencher os seguintes requisitos cumulativos: ser primário, possuir bons antecedentes, não se dedicar a atividades delituosas e não integrar organização criminosa.
+Dessa forma, é de rigor, na espécie, a aplicação da indicada minorante, de acordo com a orientação predominante do Supremo Tribunal Federal.
+Quanto à modulação da fração de redução a ser aplicada, entendo ser tarefa que exige a análise de todo o contexto fático que envolve a conduta delituosa, com a eventual consideração de elementos que não podem ser originariamente valorados pelo STJ.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para reconhecer ao paciente o direito à aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 na terceira fase da dosimetria.
+Comunique-secom urgênciaao Juízo de primeira instância e ao Tribunal de origem para que adotem as providências necessárias.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
