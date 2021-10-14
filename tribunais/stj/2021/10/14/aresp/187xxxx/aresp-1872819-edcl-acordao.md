@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Da leitura da petição de agravo de instrumento, pode-se aferir que MARIA HELENA VERISSIMO FERREIRA PFEIFER e outros (MARIA e outros) ajuizaram ação declaratória contra a FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL (BANRISUL).
+O pedido foi julgado improcedente, sendo MARIA e outroscondenados ao pagamento das custas processuais e dos honorários advocatícios fixados em R$ 2.000,00 (dois mil reais) para cada um.
+Transitada em julgado, a BANRISUL deu início ao cumprimento de sentença atinente aos honorários periciais pagos/adiantados por ela contra MARIA, que apresentou impugnação.
+O Magistrado de primeiro grau julgou procedente a impugnação determinando a retificação do débito exequendo.
+Contra essa decisão, a BANRISUL interpôs agravo de instrumento, que foi provido pelo Tribunal de Justiça do Rio Grande do Sul para julgar improcedente a impugnação ao cumprimento de sentença, em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AÇÃO DE CONHECIMENTO JULGADA IMPROCEDENTE. REEMBOLSO DE DESPESAS COM PERÍCIA JUDICIAL. LITISCONSÓRCIO ATIVO. CONDENAÇÃO AOS ÔNUS SUCUMBENCIAIS. AUSÊNCIA DE DETERMINAÇÃO EXPRESSA DE PROPORCIONALIDADE. CONDENAÇÃO SOLIDÁRIA. I. NÃO HAVENDO NA SENTENÇA DA AÇÃO DE CONHECIMENTO, NOS TERMOS DO ART. 87, § 2º, DO CPC, DISTRIBUIÇÃO ENTRE OS LITISCONSORTES, DE FORMA EXPRESSA, DA RESPONSABILIDADE PELO PAGAMENTO DAS DESPESAS E DOS HONORÁRIOS, A CONDENAÇÃO É SOLIDÁRIA. II. NO CASO CONCRETO, COMO NÃO HOUVE DISTRIBUIÇÃO EXPRESSA DA CONDENAÇÃO ENTRE OS LITISCONSORTES DO POLO ATIVO DA LIDE, NÃO HÁ FALAR EM PAGAMENTO PROPORCIONAL DOS HONORÁRIOS PERICIAIS PELO FATO DE ALGUNS DOS CONDENADOS SEREM BENEFICIÁRIOS DA JUSTIÇA GRATUITA, DEVENDO SER REFORMADA A DECISÃO AGRAVADA PARA JULGAR IMPROCEDENTE A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA (e-STJ, fl. 45).
+Inconformada, MARIA interpôs recurso especial com fundamento no art. 105, a e c, da CF, alegando violação do art. 87, § 1º, do NCPC, ao sustentar que os honorários periciais devem ser distribuídos entre os litisconsortes no valor de R$ 1.700,00 (mil e setecentos) para cada um.
+Em juízo de admissibilidade, o TJRS inadmitiu o referido apelo nobre ante a incidência das Súmulas nºs 7 e 83, ambas do STJ, e deficiência de cotejo analítico (e-STJ, fls. 123/131).
+Sobreveio agravo que, por decisão da lavra do Ministro Presidente desta Corte, não foi conhecido por não ter sido impugnados os referidos fundamentos (e-STJ, fls. 176/177).
+Nas razões do agravo interno, MARIA alegou que foi entendido que o recurso especial por ela interposto é deficiente de cotejo analítico. Contudo, não há necessidade de estabelecer parâmetro entre julgados quando o recurso é apresentado pela alínea a do art. 105 da CF (e-STJ, fls. 180/206).
+A impugnação foi apresentada (e-STJ, fls. 209/213).
+Esta eg. Terceira Turmanão conheceu do agravo interno nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. HONORÁRIOS PERICIAIS. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, a ausência de impugnação específica aos fundamentos da decisão que negou seguimento ao recurso especial (incidência das Súmulas nºs 7 e 83 do STJ e deficiência de cotejo analítico). Inobservância do art. 1.021, § 1º, do NCPC e incidência da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido (e-STJ, fl. 224).
+Nas razões dos presentes embargos de declaração, MARIA alegou, em suma, que
+ ..  Especial destaque merece a omissão quanto à necessidade de aplicação da Súmula 456/STF para que esse STJ analise a questão "Não é possível a modificação do valor de verba honorária fixada em sentença transitada em julgado, sob pena de ofensa à coisa julgada" - nos termos da jurisprudência do Superior Tribunal de Justiça o qual já publicou mais 13 entendimentos sobre honorários sucumbenciais - Na edição 129 do Jurisprudência em Teses.
+ ..
+Verifica-se nas razões do agravo em recurso especial que a ora Embargante combateu os fundamentos da Sumula 7 e incidência da súmula n. 83/STJ tendo, inclusive, aberto um tópico para cada fundamento para tal fim  .. .
+Com relação a Sumula 83 STJ, restou devidamente prequestionada a matéria (e- STJ fls. 160) onde foi fixado e distribuído os honorários; "os quais fixo em R$ 2.000,00 (dois mil reais) para cada um, com fundamento no art. 85 do CPC", e posteriormente o Tribunal de origemmodificou a Sentença transitada em julgado afrontando a orientação Jurisprudencial do Superior Tribunal de Justiça.
+Portanto, resta claro que a Embargante refutou satisfatoriamente todos os fundamentos da decisão agravada, que impediram o processamento do recurso especial, quais sejam: ausência de cotejo analítico os quais demonstram que o Tributal afronta decisão na edição 129 de Tese E Jurisprudência do STJ e Súmula 7, quando da interposição do agravo em recurso especial apontada na decisão recorrida, o que possibilita o processamento do recurso especial(e-STJ, fls. 233/236).
+Houve impugnação ao recurso (e-STJ, fls. 239/242).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. ACÓRDÃO MANTIDO. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu do agravo interno em virtude da incidência da Súmula nº 182 do STJ.
+4.Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+No caso, o acórdão embargado não foi obscuro, omisso, contraditório, tampouco apresentou erro material, tendo concluído que o agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, a ausência de impugnação específica aos fundamentos da decisão que negou seguimento ao recurso especial (incidência das Súmulas nºs 7 e 83 do STJ e deficiência de cotejo analítico), colhendo assim o óbice da Súmula nº 182 do STJ.
+Ficou explicitado que, nas razões do agravo interno,MARIA alegou tão somente que foi entendido que o recurso especial por ela interposto é deficiente de cotejo analítico, bem como não há necessidade de estabelecer parâmetro entre julgados quando o recurso é apresentado pela alínea a do art. 105 da CF.
+Como se sabe, no que concerne à aplicação da Súmula nº 7 do STJ, MARIA deveria ter demonstrado que a alteração do entendimento manifestado pelo TJRS independe do reexame dos elementos de convicção dos autos, o que não foi feito.
+Ou seja, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 7 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas tambémdemonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas.
+Além do mais,não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não estáem consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte,com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisãoagravada(AgRg no AREsp 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+Em resumo, nas razões do agravo interno, MARIA se limitou a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame dequestões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargadoapreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em resumo, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Desse modo, o que se verifica é mero inconformismo da parte.
+Logo, mantém-se o aresto embargado por não haver motivos para se alterá-lo.
+Assim, evidenciado o caráter manifestamente protelatório dos aclaratórios, uma vez verificados o não conhecimento do agravo interno e a rejeição dos presentes aclaratórios com pretensão de efeito infringente, postergando a efetividade da prestação jurisdicional, condeno MARIAao pagamento da multa de 2% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração, com imposição da multa.
