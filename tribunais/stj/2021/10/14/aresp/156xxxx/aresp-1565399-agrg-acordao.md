@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+WAGNER CARNEIRO LEITE agrava de decisão de minha relatoria, em que conheci do agravo para não conhecer do recurso especial e, dessa forma, manter integralmente a pena fixada em razão do crime do art. 302 da Lei n. 9.503/1997.
+O agravante argumenta não haver nenhum impeditivo sumular ao conhecimento do recurso especial. Aduz que a verificação da inidoneidade da fundamentação empregada para justificar a exasperação da pena-base não necessita de revolvimento fático-probatório dos autos. Reitera a ilegalidade e a desproporcionalidade no quantum de diminuição de pena tendo em vista a atenuante da confissão espontânea.
+Requer a reconsideração da decisão agravada ou o julgamento do regimental pelo colegiado.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PENA-BASE. ACRÉSCIMO DE FUNDAMENTOS PELO TJ. POSSIBILIDADE. NÃO REFORMATIO IN PEJUS. SÚMULA N. 83 DO STJ. CONSEQUÊNCIAS DO CRIME. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acréscimo de fundamentos pelo Tribunal na análise do recurso de apelação da defesa não implica reformatio in pejus, desde que seja mantido o quantum de pena, o que ocorreu na hipótese e justificou a incidência do disposto na Súmula n. 83 do STJ. Precedentes.
+2. A verificação da presença de lastro probatório a embasar os fundamentos explicitados pelo acórdão recorrido implica o óbice constante da Súmula n. 7 do STJ.
+3. A avaliação desfavorável da vetorial consequência do delito é idônea, ao excepcional abalo emocional provocado pela morte da vítima (jovem de 16anos de idade) e da ausência de auxílio moral e material por parte do réu.
+4. A fração de atenuação da pena decorrente da confissão espontânea em patamar inferior a 1/6 foi devidamente fundamentada na menor relevância da contribuição para o deslinde dos fatos.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante o esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+O decisum impugnado consignou (fls. 714-715, grifos no original):
+I. Não admissibilidade do recurso especial
+A defesa aponta ilegalidade na fixação da pena-base. Argumentouque o acórdão impugnado, apesar de haver reconhecido a inidoneidade de parte dos fundamentos empregados na sentença condenatória (vetorial consequências do delito), agregou outros não debatidos na origem para manter inalterado o quantum de pena.
+Sobre a primeira fase da dosimetria, aCorte a quoassim se manifestou (fls. 694-695):
+ ..
+No que concerne à dosimetria penal, verifica-se que a magistrada a quo, ao analisar as circunstâncias judiciais  art. 59, CP , reputou deslustradas, "exclusivamente, as consequências do crime, vindo a estabelecer a pena-base em 02 (dois) anos e 06 (seis) meses de detenção.
+A título de fundamentação, consignou que "o fato praticado causou consequências graves, pois, além do óbito da vítima Allyne, os demais passageiros do veículo Celta, ao total de quatro, sofreram graves lesões e ficaram internados por certo período, bem como evidente prejuízo material, desde o dano causado no veículo, o funeral da ofendida Allyne, gastos com medicamentos e hospital, uma vez que o réu não ofereceu qualquer ajuda financeira à família da vítima e demais passageiros do veículo, mesmo tendo conhecimento de seus dados pessoais e de seus endereços nos autos desta ação penal"  fl.487
+No particular, conquanto inidôneo o fundamento a dizer com causação de lesões físicas e danos a terceiros- sob pena de, por via transversa, punir-se o apelante por crimes cuja prescrição foi declarada na sentença-, tem-se por legítimo o recrudescimento promovido, considerado os danos de índole material causados pelo crime e o comportamento do acusado, cuja inércia, diante do ocorrido, restou amplamente certificada pelos elementos de prova angariados, sem que se possa cogitar de mera presunção ou de resultado inerente à conduta delitiva.
+Nesse sentido, a latere da pouca idade da vítima e da circunstância de haver sua genitora presenciado seu óbito, depreende-se do depoimento desta última, Sra. Angélica Feitosa, que o apelante não ofertou qualquer auxílio, seja moral ou material, após o episódio fatídico, sendo realçado, ainda, pelas demais testemunhas, o excepcional abalo moral decorrente do óbito da ofendida, contexto que chancela a negativação das consequências do delito  ..  pelo que se depara legítimo o adensamento invectivado, haja vista o revelar de censurabilidade transcendente.
+Singularmente quanto ao comportamento da vítima, estamos que, sem embargo das asserções defensivas, inviável se depara o seu emprego a fim de minorar a sanção imposta ao acusado, na medida em que não há elementos probatórios a subsidiarem a afirmação de que a adolescente não utilizava o cinto de segurança no momento do evento, havendo, tão somente, o depoimento de outros passageiros que, em juízo, afirmaram que não teriam utilizado o equipamento, pelo que reparo algum há de ser feito, nesse particular.
+Ad ultimum, no que diz com o quantum estabelecido a título de acréscimo, importa revelar que não se apresenta inadequada a fração de acréscimo fixada em 1/4 (um quarto) i.e., 06 (seis) meses de detenção.
+O fato de o Tribunal de origem haver acrescentado fundamentos próprios na avaliação da vetorial consequências do delito não implica indevidareformatio in pejus, consoante o entendimento desta Corte Superior de que a ampla devolutividade do recurso de apelação permite tal cognição, desde que mantido o quantum de pena. Portanto, nesse aspecto, a pretensão defensiva é inviável pelo disposto na Súmula n. 83 do STJ.
+Sobre a questão, cito o seguinte julgado:
+ ..
+3. A ampla devolutividade do recurso de apelação permite ao juízo ad quem o acréscimo de fundamentos diversos dos declinados no decisum primevo. Em tais hipóteses, contanto que não se eleve a reprimenda imposta, ou agrave a situação do apenado, não há falar em reformatio in pejus. Precedentes.
+4. Agravo regimental desprovido(AgRg no HC n. 484.928/SP, Rel. Ministra Laurita Vaz, 6ª T.,DJe 02/09/2019)
+A parte insiste que a fundamentação empregada pela instância antecedentevaleu-se de circunstâncias não apoiadas na prova dos autos, além de inerentes ao próprio tipo penal.
+A verificação da ausência de lastro processualpara subsidiar os elementos indicadospara justificar a manutenção do acréscimoda pena naquela fase do procedimento dosimétrico é inviável, em recurso especial, por demandar incursão fático-probatória vedada pelo entendimento da Súmula n. 7 do STJ.
+A avaliação desfavorável da vetorial consequências foi motivadana circunstânciado excepcional abalo emocional provocado pela morte da vítima (jovem de 16anos de idade) e da ausência de auxílio moral e material por parte do réu.
+A justificativa, em princípio, é de ser considerada idônea, haja vistaos elementos indicados não integrarem o tipo penal. Não há como verificar, nesta instância, a extensão do invocado abalo emocional nem mesmo a quantificação do prejuízo material ante o já indicado óbice disposto na Súmula n. 7 do STJ.
+Sobre a fixação da atenuante da confissão espontânea, a Corte de origem assim se expressou (fl. 725):
+ ..  Seja como for, a redução estabelecida se fez em consonância com a efetiva contribuição da confissão, considerando o amplo arcabouço probatório acerca da autoria e o fato de revestir-se ela de teses tensionadas à isenção da responsabilidade penal  confissão qualificada , a recomendar, pois, o afastamento de standards puramente aritméticos, com vistas, sempre e sempre, à determinação de uma pena "necessária e suficiente para a reprovação e prevenção do crime"  art. 59, CP .
+O STJ reconhece a fração de 1/6 como adequadapara estabelecimento de atenuantes e agravantes em observânciaaos princípios da razoabilidade e da proporcionalidadee qualquer quantum diverso deve apresentar justificativa concreta. Ilustrativamente:
+ ..
+1. Esta Corte Superior orienta que seja aplicado o índice de 1/6 para agravantes e atenuantes, em atenção ao princípio da proporcionalidade, salvo se houver motivação concreta e expressa que justifique a adoção de fração diversa. Precedentes ..
+4. Agravo regimental parcialmente provido, apenas para que seja mantido o regime inicial fechado.(AgRg no HC n. 539.585/MT, Rel. Ministro Rogerio Schietti Cruz, 6ª T.,DJe 10/12/2020)
+Na hipótese, o acórdão impugnado consignou que a fixação da referida atenuante decorreuda análise da efetiva contribuição da chamada confissão qualificada na elucidação dos fatos. A fundamentação, em princípio, é idônea e a investigação das circunstâncias da confissão do acusado implicaria revolvimento fático-probatório dos autos, o que atrai o óbice da Súmula n. 7 do STJ.
+Cumpre reiterar que o acréscimo de fundamentos pelo Tribunal na análise do recurso de apelação da defesa não implica reformatio in pejus, desde que seja mantido o quantum de pena, o que ocorreu na hipótese e justificou a incidência do disposto na Súmula n. 83 do STJ.
+A verificação da presença de lastro probatório a embasar os fundamentos explicitados pelo acórdão recorrido implica o óbice constante da Súmula n. 7 do STJ.
+A avaliação desfavorável da vetorial consequência do delito é idônea, ao excepcional abalo emocional provocado pela morte da vítima (jovem de 16anos de idade) e da ausência de auxílio moral e material por parte do réu.
+A fração de atenuação da pena decorrente da confissão espontânea em patamar inferior a 1/6 foi devidamente fundamentada na menor relevância da contribuição para o deslinde dos fatos.
+À vista do exposto, nego provimento ao agravo regimental.
