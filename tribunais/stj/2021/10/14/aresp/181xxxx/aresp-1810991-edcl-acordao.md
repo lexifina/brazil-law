@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por C. S. G. P. ao acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça, nos termos da seguinte ementa (e-STJ, fl. 1.106):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. OMISSÃO NÃO CONFIGURADA. AGRAVO INTERNO IMPROVIDO.1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido em sentido contrário à pretensão da parte. Em face disso, esta Corte já se manifestou no sentido de que não há "se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação" (EDcl no AgRg nos EREsp 1.213.226/SC, Relator o Ministro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe 22/11/2016).2. Agravo interno improvido.
+Em suas razões, sustenta a embargante que a decisão embargada incorreu em omissão, uma vez que deixou de se pronunciar sobre fato novo suscitado nos autos.
+Busca, assim, que seja sanada a omissão apontada.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDEDO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERROMATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA.IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL.DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART.1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do EnunciadoAdministrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisõespublicadas a partir de 18 de março de 2016) serão exigidos os requisitosde admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecemacolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou àrediscussão do julgado que não conheceu dos primeiros embargos dedeclaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituirprática processual abusiva e protelatória, por ausência dos víciosprevistos no art. 1.022 do NCPC e pela ausência de recolhimento prévio damulta aplicada com amparo no art. 1.021, § 4º, do NCPC, deve ser aplicadaa multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre ovalor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa (EDcl nosEDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRATURMA, julgado em 04/05/2020, DJe 07/05/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERROMATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existênciade obscuridade, contradição, omissão ou erro material (CPC/2015, art.1.022). É inadmissível a sua oposição para rediscutir questões tratadas edevidamente fundamentadas na decisão embargada, já que não são cabíveispara provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível aapreciação de matéria constitucional na via eleita, sob pena de usurpaçãoda competência do eg. Supremo Tribunal Federal, nos termos do que dispõe oart. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS,
+Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe04/05/2020).
+Conforme é possível verificar, o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer em nenhum dos vícios de obscuridade, contradição ou omissão com relação ao ponto controvertido, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Na hipótese dos autos, verifica-se que o aresto embargado elucidou o caso sob os seguintes aspectos (e-STJ, fls. 1.108-1.109):
+No apelo excepcional, a primeira tese defendida pelo agravante refere-se à existência de omissão no acórdão impugnado.
+A irresignação, contudo, não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da parte.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão-situação facilmente constatável no caso-, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte insurgente em embargos declaratórios, cuja rejeição não implica contrariedade aos arts. 489 e 1.022do CPC/2015.
+Assinala-se que, no presente caso, o aresto impugnado expressamente enfrentou as questões suscitadas pelo agravante, tratando-se, na verdade, de pretensão de novo julgamento da matéria.
+A propósito, o Tribunal de origem dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fls. 456-458):
+Contudo, sustenta o recorrente que o prejuízo por ele sofrido decorreria da supressão da dilação probatória, cujo protesto, inclusive, fez-se de forma genérica na impugnação acostada às fls. 233/242, comportamento este repetido em sede recursal.
+Nada obstante, analisando a narrativa fática apresentada no apelo, concluo pela total desnecessidade de desenvolvimento da fase probatória no caso concreto e, por conseguinte, pela inocorrência de cerceamento de defesa.
+Afinal, todas as alegações deduzidas pelo apelante fazem expressa e pontual remissão a documentos já coligidos aos autos, inclusive com a citação das respectivas folhas em que se encontrariam.
+A toda evidência, portanto, as provas que o recorrente reputa relevantes já se encontram coligidas aos autos, revelando a inutilidade do retorno postulado.
+Claro, portanto, que o julgamento antecipado da lide, tal qual anunciado às fls. 383, não se ressente de qualquer mácula, porquanto inexistente prejuízo ao direito de defesa da parte recorrente.
+Vou, então, ao mérito, no que vejo assistir razão ao espólio apelante. Explico.
+Consoante se infere das cópias de fls. 199/203, a cédula de crédito bancário em nome do apelado foi firmada no dia 14/7/2015.
+Por sua vez, os documentos juntados pelo apelante às fls. 246/250, 255/256, 271/272 e 274 comprovam irrefutavelmente que:
+1. o pagamento da entrada acertada para compra do veículo Fusion, no valor de R$ 75.540,00 (setenta e cinco mil quinhentos e quarenta reais), foi realizado por meio da dação de um veículo de propriedade do falecido Nilo Sérgio Picanço, a saber, Peugeot 308, placas KOR-4018, recebido pelo valor de R$ 35.000,00 (trinta e cinco mil reais), além de depósito no valor de R$ 40.540,00 (quarenta mil quinhentos e quarenta reais);
+ii) enquanto vivo, as prestações mensais do financiamento contratada foram pagas por Nilo Sérgio Picanço, o de cujus, e não pelo embargante/apelado.
+Em contrapartida, as versões fáticas apresentadas pelo recorrido se mostram inteiramente desprovidas de consistência e suporte probatório, senão vejamos.
+O apelado sustenta que a entrada ajustada para o negócio teria sido adimplida por meio do valor referente à carta de crédito vinculada ao consórcio CNF, no valor de R$ 74.152,75 (setenta e quatro mil cento e cinquenta e dois reais e setenta e cinco centavos).
+A veracidade de tal explicação, contudo, cede ante o teor dos documentos de fls. 247/250, os quais comprovam que o pagamento não se deu exclusivamente por meio de dinheiro, mas, também, de dação de bem móvel.
+Outro fato concreto e devidamente comprovado, que também infirma a credibilidade da tese do embargante, diz respeito à diferença temporal entre os acontecimentos mencionados, pois enquanto o veículo Fusion foi adquirido em julho de 2015, o crédito citado como fonte do pagamento só foi disponibilizado no dia 2/9/2015, consoante se infere do extrato bancário de fls. 193.
+Não bastasse isso, observo que o suposto comprovante de pagamento da parcela referente ao mês de dezembro de 2015, acostado pelo apelado às fls. 204, não contém a autenticação de qualquer instituição bancária tampouco qualquer outra prova do aludido pagamento.
+E ainda que assim não fosse, o suposto pagamento somente teria ocorrido no mês seguinte ao falecimento de Nilo Sérgio Picanço, em 21/11/2015 (fls. 56).
+Também não convence, por fim, a alegação feita pelo apelado de que o veículo debatido nos autos teria sido cedido ao falecido em virtude deste ter se desfeito do seu próprio automóvel, posto que, como aduzido e comprovado pelo apelante, o outro veículo registrado em nome do falecido, quando do seu falecimento, a saber, Sportage, placas OAF-4969, também faz parte do processo de partilha.
+Por tudo o quanto exposto, razão assiste ao apelante quando alega que o apelado apenas foi a pessoa que emprestou o seu nome para o negócio em destaque, sem qualquer relação de propriedade com o bem adquirido.
+A propósito, sabe-se que em se tratando de bens móveis, a transferência da propriedade se concretiza com a mera tradição, sendo irrelevante, sob a ótica do direito civil, a circunstância de que o automóvel esteja registrado em nome do embargante.
+Por conseguinte, aplica-se à espécie o entendimento pacífico do Superior Tribunal de Justiça segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Relator o Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 2/2/2017).
+Sendo assim, ainda que a solução tenha sido contrária à pretensão da parte insurgente, não se pode negar ter havido efetivo enfrentamento e resposta aos pontos controvertidos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. CONTRADIÇÃO NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+3. Advirto que, conforme preconiza o § 3º, do art. 1.026 do CPC/2015, a reiteração de novos embargos de declaração, poderá acarretar a aplicação de multa de até dez por cento sobre o valor atualizado da causa, e a interposição de qualquer recurso ficará condicionada ao depósito prévio do valor da multa, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que a recolherão ao final.
+4. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp 1316749/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019)
+Dessa forma, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo pretendido pela parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
