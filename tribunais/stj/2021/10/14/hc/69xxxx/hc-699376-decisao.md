@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 33):
+Roubo -Apelação -Conjunto probatório suficiente para o reconhecimento do crime -Absolvição -Impossibilidade -Pena adequada e motivadamente dosada, necessária e suficiente à reprovação e prevenção do delito - Sentença mantida -Recurso desprovido.
+Consta dos autos que o paciente foi condenado, como incurso no art. 157, caput, do CP, à pena de 4 anos de reclusão, em regime inicial semiaberto, e pagamento de 10 dias-multa,
+Neste writ, alega a impetrante, em síntese, constrangimento ilegal em razão da ausência de fundamentação idônea para a fixação de regime inicial de cumprimento de pena mais gravoso que o legalmente previsto.
+Requer, liminarmente e no mérito, a fixação do regime inicial aberto.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+O voto condutor do acórdão impugnado, no que interessa ao deslinde da controvérsia, está assim fundamentado (fls. 40-42):
+Incensurável a reprimenda.
+A pena-base partiu do piso mínimo legal e,ausentes outras causas modificadoras, por força da Súmula 231, do Superior Tribunal de Justiça, a reprimenda totalizou 04 (quatro) anos de reclusão e pagamento de 10 (dez) dias-multa menores.
+Por fim, o regime prisional semiaberto não comporta modificação, pois, à luz do desfavorecimento das circunstâncias delitivas, e, também, do que dispõe a Súmula 269, do Superior Tribunal de Justiça, se coaduna perfeitamente à espécie (roubo praticado contra vítima do sexo feminino, no início da manhã, cujo objeto é valioso  Iphone , valendo-se de fraude  o acusado efetuou compras por aplicativo , após a subtração, o que causou prejuízo concreto à ofendida), enquanto castigo necessário, proporcional e suficiente para se atender aos caracteres curativo, educativo e preventivo da sanção penal.
+Importante consignar, a propósito, que não há qualquer ilegalidade na fixação do regime inicial semiaberto, e nem ofensa às Súmulas 718 e 719, do Excelso Supremo Tribunal Federal, pois os fatos concretos e as circunstâncias delitivas concretamente aferidas, acima listadas, devidamente extraídos dos autos, demonstram não ser recomendável a adoção de regime prisional mais brando, sobretudo para não se provocar afrouxamento excessivo e intolerável estímulo ao criminoso, forjando, em seu espírito, a sensação de uma ilusória impunidade.
+Assim sendo, e não se evidenciando erro técnico ou excessivo rigor, a punição deve ser mantida, tal como monocraticamente estabelecida.
+Ante o exposto, NEGO PROVIMENTO ao apelo interposto defensivamente, mantendo, assim, a respeitável sentença apelada, por seus próprios e jurídicos fundamentos.
+Como se vê, a despeito da pena ter sido fixada em 4 anos de reclusão, patamar que permite o regime aberto, o Tribunal de origemmanteve o regime semiaberto,apresentando fundamentação concreta, ressaltando que foi o "roubo praticado contra vítima do sexo feminino, no início da manhã, cujo objeto é valioso  Iphone , valendo-se de fraude  o acusado efetuou compras por aplicativo , após a subtração, o que causou prejuízo concreto à ofendida.A propósito:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO SIMPLES. ART. 157, CAPUT, DO CP. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. PENA-BASE FIXADA NO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA DA SENTENÇA CONDENATÓRIA E DO ACÓRDÃO QUE A CONFIRMOU. CIRCUNSTÂNCIAS ESPECÍFICAS DO CASO CONCRETO. ABORDAGEM DA VÍTIMA, MULHER GRÁVIDA E NA COMPANHIA DE SEU FILHO DE SEIS ANOS DE IDADE, DEPOIS DE ESTACIONAR O CARRO, COM EMPREGO DE SIMULACRO DE ARMA DE FOGO E EM FRENTE A UM TEMPLO RELIGIOSO. INEXISTÊNCIA DE ILEGALIDADE.PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há impedimento ao Superior Tribunal de Justiça para que possa avaliar os fundamentos colacionados na sentença condenatória, notadamente nas hipóteses, como no caso concreto, em que a Corte de origem corrobora o regime prisional fixado.
+2. A teor da jurisprudência desta Corte Superior, havendo fundamentação concreta e diante das circunstâncias do caso, é possível o estabelecimento de regime inicial mais gravoso para o cumprimento da pena, no caso, o semiaberto.
+3. Agravo regimental improvido.(AgRg no AREsp 1600326/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/05/2020, DJe 13/05/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006 APLICADA NO GRAU MÁXIMO. PEQUENA QUANTIDADE DE DROGA APREENDIDA.AUSÊNCIA DE FUNDAMENTOS IDÔNEOS PARA A IMPOSIÇÃO DO REGIME INICIALMENTE FECHADO DE CUMPRIMENTO DA REPRIMENDA (1 ANO E 8 MESES DE RECLUSÃO). ABRANDAMENTO DO REGIME PRISIONAL PARA O ABERTO.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1.  ..
+2. O regime prisional mais gravoso do que aquele que o patamar de pena aplicada permite ser estabelecido, desde que haja fundamentação específica, com base em elementos concretos extraídos dos autos, conforme o teor das Súmulas n. 440/STJ e 718 e 719/STF.
+3.  ..
+4. Agravo regimental desprovido.(AgRg no HC 514.996/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/08/2019, DJe 29/08/2019.)
+Estando o acórdão impugnado em sintonia com a jurisprudência desta Corte, não há que falar em ilegalidade flagrante, constrangimento ilegal ou teratologia a ensejar a concessão da ordem.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
