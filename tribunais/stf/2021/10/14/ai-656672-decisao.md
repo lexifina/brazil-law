@@ -1,0 +1,13 @@
+DECISÃO
+    1. O Tribunal de Justiça do Estado de São Paulo proferiu juízo de retratação em acórdão assim ementado:
+    MANDADO DE SEGURANÇA — ICMS — Venda de combustível - Regime de substituição tributária — Pretensão de creditamento de valores referentes à venda por preço inferior ao sugerido pelo distribuidor — Art. 66-B da Lei Estadual n° 6.374/89 - Possibilidade de restituição do ICMS recolhido a maior - Transferência ao substituto tributário, sem os entraves previstos no Decreto n° 41.653/97 — Possibilidade - Sentença de parcial procedência modificada — Tema 201 STF - RE 593.849 - É devida a restituição da diferença do ICMS pago a maior no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida - Todavia, mantém-se a competência do Fisco para aferir previamente o cumprimento dos requisitos legais de restituição, mediante prévio requerimento administrativo, nos termos do Decreto Estadual 41.653/970 — Decisão readequada para dar parcial provimento aos recursos oficial e fazendário, improvido o recurso autoral.
+    (grifei)
+    Em recurso extraordinário, alega ter o pronunciamento implicado violência aos arts. 37, 145, §1º, 150, §7º, 155, §2º, I da Constituição Federal.
+    É o relatório do essencial. Decido.
+    2. O Plenário do Supremo Tribunal Federal ao apreciar o ARE 1222648-RG/SP, Tema 1060, reputou tratar-se de matéria infraconstitucional, a ela aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa a procedimentos, critérios e requisitos para a restituição de imposto ou contribuição pago a maior no regime de substituição tributária progressiva. A correspondente ementa está assim redigida:
+    Tributário. Art. 150, § 7º, CF. Impostos e contribuições. ICMS. Regime de substituição tributária para a frente. Base de cálculo inferior à presumida. Procedimentos, critérios e requisitos para a restituição. Legislação infraconstitucional. Ausência de repercussão geral. 1. É infraconstitucional a controvérsia fundada na interpretação de legislação infraconstitucional relativa a procedimentos, critérios e requisitos para a restituição de imposto ou contribuição em regime de substituição tributária para a frente. 2. Ausência de repercussão geral.
+    3. Em face do exposto, considerando que a matéria impugnada é abarcada pelo Tema nº 1.060/RG, determino, com base no art. 328, parágrafo único, do RISTF, a devolução dos presentes autos ao Tribunal a quo, para que adote o disposto nos arts. 1.039, 1.040 e 1.041 do CPC.
+    4. Publique-se.
+Brasília, 14 de outubro de 2021.
+Ministro NUNES MARQUES
+Relator
