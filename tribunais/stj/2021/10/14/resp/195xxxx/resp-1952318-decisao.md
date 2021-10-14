@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto porCARLOS DA SILVA LIMAcom fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL- TJMSem julgamento de APELAÇÃO CRIMINAL n. 0001672-13.2017.8.12.0010.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 155, § 4º, II, c/c71do Código Penal - CP (furto qualificado), à pena de 3anos e 4 mesesde reclusão, em regime inicial semiaberto, e 15dias-multa (fls. 191/192).
+Recurso de apelação interposto pela Defesa foi desprovido, por maioria. O acórdão ficou assim ementado:
+"EMENTA - APELAÇÃO CRIMINAL DEFENSIVA - FURTO QUALIFICADO - PLEITO PELA REDUÇÃO DA PENA INTERMEDIÁRIA AQUÉM DO MÍNIMO LEGAL - IMPOSSIBILIDADE POR ÓBICE DA SÚMULA 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA E REFERENDADA PERANTE O SUPREMO TRIBUNAL FEDERAL - PENA MANTIDA. RECURSO DESPROVIDO.
+Segundo entendimento pacífico compartilhado nos Tribunais Superiores e sedimentado na súmula 231, do STJ, a incidência de circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal. Recurso desprovido, de acordo com o parecer." (fl. 257)
+Em sede de recurso especial (fls. 268/303), a Defesa apontou violação aosartigos 65, I, III, letra "d" e 68 do Código Penal, porque o TJ manteve a dosimetria da pena, nos termos em que realizada na sentença,deixou de reduzir a pena em razão das atenuantes da menoridade e da confissão espontânea, sob o argumento de incidência da Súmula n. 231/STJ.Assevera que as circunstâncias do artigo 65 sempre atenuam as penas. Entende que a Súmula n. 231/STJ está ultrapassada, não correspondendo ao atual cenário normativo. Afirma que não hánenhum dispositivo penal impedir a redução da pena a patamar inferior ao mínimo legal na etapa da determinação da pena intermediária.
+Requer o afastamento da Súmula n. 231/STJ, redimensionando-se a pena aplicada.
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL(fls. 308/313).
+Admitido o recurso no TJ (fls. 315/318) os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo desprovimento/provimento do recurso especial (fls. 454/457).
+É o relatório.
+Decido.
+Sobre a violação aos artigos 65, I, III, letra "d" e 68, ambos do CP, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL manteve a dosimetria da pena nos seguintes termos do voto do relator (grifo nosso):
+"Segundo consta da denúncia, e comprovado nos autos, entre os dias19 de abril de 2017 e 2 de maio de 2017, na agência da Caixa Econômica Federal, na cidade de Fátima do Sul, o acusado, em continuidade delitiva, praticou a conduta de furto qualificado pelo abuso de confiança, contra a vítima e seu tio, Reinaldo Santos Lima, pessoa esta que seria analfabeta. E conforme apurado, o réu foi o responsável por cadastrar as senhas de acesso para utilização do cartão, tendo posteriormente se apropriado do objeto e realizado no período apontado, diversos saques sem permissão do titular, em montante totalizado de R$ 12.700,00 (doze mil e setecentos reais)utilizado em benefício próprio.
+Considerando a gravidade e reprovabilidade da narrativa exposta, bem como a tipificação delitiva imputada ao réu, o magistrado a quo, ao estabelecer a reprimenda necessária, reconheceu na 1ª fase, apenas a circunstância judicial dos antecedentes, mediante fundamento conciso, elevando a pena-base acima do mínimo 2 anos e 4 meses de reclusão. Na pena intermediária da 2ª fase, ante a ausência de agravantes, mas reconhecida em benefício do acusado duas atenuantes (confissão e menoridade), reduziu a pena ao mínimo legal, na esteira do entendimento jurisprudencial sedimentado na súmula 231, do STJ. Por último, na 3ª fase, levando em conta a forma continuada do crime (art. 71, do CP), diante das 11 (onze) subtrações ocorridas no caso, elegeu idoneamente a fração de 2/3 (dois terços), estabelecendo a pena de 03 (três) anos e 04 (quatro) meses de reclusão, e 15 (quinze) dias-multa.
+Nesse contexto, em que pese a extensa discussão defensiva almejando a redução da pena aquém do mínimo legal, ao menos com tal incidência na fase intermediária, o reclame é obstaculizado pela própria dicção da súmula 231, do STJ, bem indicada pelo juízo singular, em que a redação é clara ao apontar que, "A incidência de circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal". (fls. 258/259)
+A jurisprudência desta Corte, ao restringir a aplicação do referido dispositivo, orientou-se pela sistemática adotada no CP, notadamente no que se refere à existência ou não de limites para cada etapa do critério trifásico, consoante artigos 59, 67 e 68, todos do CP. Consolidou-se, assim, no sentido de que na segunda fase da dosimetria da pena são aplicáveis limites para atenuantes e agravantes, o que deu origem a Súmula n. 231 que permanece vigente. Citam-se recentes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 28-A DO CPP. ACORDO DE NÃO PERSECUÇÃO PENAL. IMPOSSIBILIDADE. NORMA DE CUNHO PROCESSUAL. TEMPUS REGIT ACTUM. ART. 2º DO CPP. PROCESSO EM FASE RECURSAL. PRECLUSÃO. RÉU CONDENADO. ART. 65, III, "D", DO CP.ATENUANTE DE CONFISSÃO. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL.SÚMULA 231/STJ. INVIABILIDADE. REVISÃO DO ENTENDIMENTO EM RECURSO ESPECIAL. SÚMULA 518/STJ, POR ANALOGIA. DIVERGÊNCIA JURISPRUDENCIAL.AUSÊNCIA DE CONFRONTO ENTRE OS JULGADOS. DESPROVIMENTO.
+ ..
+3. Nos termos da Súmula n. 231, o reconhecimento de atenuante não pode conduzir a reprimenda a patamar inferior ao mínimo legal.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no REsp 1861320/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/02/2021, DJe 17/02/2021)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO E CORRUPÇÃO DE MENORES. CONCURSO DE AGENTES.ADOLESCENTE. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA.CIRCUNSTÂNCIA ATENUANTE. RECONHECIMENTO. REDUÇÃO ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ.
+ ..
+3. Nos termos do enunciado 231 da Súmula de Jurisprudência deste Tribunal Superior, não é possível que a incidência de circunstâncias atenuantes conduzam a reprimenda a patamar abaixo do mínimo legal.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1632350/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 01/09/2020, DJe 04/09/2020)
+PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. PENA. LIMITE. ATENUANTE.
+I - As atenuantes, ao contrário das minorantes, nunca podem levar a pena privativa de liberdade para nível aquém do mínimo legal que é, até aí, a reprovação mínima estabelecida no tipo (cfe. precedentes do Pretório Excelso e Súmula nº 231-STJ).
+II - O sistema da fixação da pena privativa de liberdade estabelecido nos arts. 59, 67 e 68 do C.P. é o da relativa indeterminação e não da absoluta indeterminação.
+Recurso provido.
+(REsp 424.925/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 6/6/2002, DJ 1º/7/2002, p. 388).
+Incide, pois, o enunciado da Súmula n. 83/STJ.
+Ante o exposto, dou provimento ao agravo regimental, para conhecer do agravo em recurso especial e, com fundamento na Súmula n. 568 do STJ, negar provimento ao recurso especial.
+Publique-se. Intimem-se.
