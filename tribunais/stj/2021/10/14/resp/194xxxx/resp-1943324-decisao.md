@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça daquele Estado, assim ementado (fls. 303-304):
+Apelante primário, preso, CONDENADO, em junho/2020, por roubos majorados por emprego de arma, em concurso formal (art. 157, § 2º-A, inciso I, por três vezes, n/f do artigo 70, ambos do Código Penal) a 8 anos de reclusão, em regime semiaberto, e ao pagamento de 48 dias multa.
+A)-Inconformismo Ministerial objetivando:
+1)- A exasperação da pena base (Incabível)
+Os processos em andamento e sem condenação definitiva, bem como a ausência de peça técnica elaborada por profissional habilitado inviabilizam o incremento da basilar pela personalidade distorcida ou conduta social negativa. Incidência da Súmula 444 do Superior Tribunal de Justiça.
+2)- A fixação do regime fechado (Inviável) A despeito da argumentação do Parquet, as consequências do injusto para as vítimas integram o tipo penal e não possibilitam a imposição de regime mais gravoso. O semiaberto se impõe pelo montante da reprimenda e a primariedade do recorrente. (art. 33, § 2º,"b", do CP). Incidência da Súmula 440/STJ.
+B)-Insurgência Defensiva postulando:
+3)- A absolvição por insuficiência probatória (Incabível)
+Materialidade consubstanciada no registro de ocorrência aditado, termo de reconhecimento e a autoria alicerçada no depoimento colhido sob o crivo do contraditório e da ampla defesa. Em juízo, as vítimas reconheceram o réu, sem hesitar.
+4) - O decote da causa de aumento do emprego de arma de fogo (Admissível). O artefato não restou apreendido ou periciado, logo, não atestada a sua potencialidade lesiva, impondo-se o arredamento de tal majorante.
+Nova dosimetria:
+1ª fase - circunstâncias judiciais favoráveis, sanção fixada no patamar mínimo - 4 anos de reclusão e o pagamento de 10 dias multa
+2ª e 3 ª fases - sem agravantes ou atenuantes, bem como causas de aumento e de diminuição, mantida neste patamar.
+Pelo concurso formal (3 injustos) conservada a fração de 1/5, totalizando 4 anos, 9 meses e 18 dias de reclusão e o pagamento de 12 dias multa, valor mínimo.
+Computado o tempo da prisão provisória desde 02/10/2019, até a presente data, a título de detração (art. 387, § 2º, do Código de Processo Penal), cerca de 01 ano e 05 meses, possível a remodelação do regime para o aberto.
+Comunicação à Secretaria de Administração Penitenciária visando transferir o apelante para estabelecimento prisional compatível, nos termosdo Aviso Conjunto TJ/CGJ nº08/13 e Resolução CNJ nº113/10.
+Nenhuma violação a qualquer norma constitucional ou infraconstitucional.
+RECURSO MINISTERIAL DESPROVIDO E PARCIALMENTE PROVIDO O DEFENSIVO para afastar a majorante do emprego de arma de fogo e redimensionar a reprimenda para 4anos, 9 meses e 18 dias de reclusão e o pagamento de12dias multa, no valor mínimo, remodelado o regime para o aberto, pela detração."
+Nas razões do recurso especial (fls. 579-603), o Parquet sustenta violação do artigo 157, § 2º-A, inciso I, do Código Penal, bem como dos artigos 155, 156, 158, 167 e 564, inciso III, alínea b, todos do Código de Processo Penal, ao argumento de que o v. acórdão recorrido afastou a majorante do emprego de arma de fogo, em razão da"imprescindibilidade da apreensão e perícia da arma para a caracterização da majorante do roubo, causa especial de aumento de pena descrita objetivamente no art. 157, § 2º-A, inciso I, do Código Penal" (fl. 584).
+Aduz que "não tem o menor cabimento exigir-se a apreensão e a perícia da arma, quando comprovado o seu emprego no crime de roubo por outros meios de prova" (fl. 594).
+Requer, ao final, o provimento do recurso especial para que seja reconhecida a incidência da majorante referente ao emprego de arma de fogo, com o consequente aumento da pena na terceira fase da dosimetria.
+Apresentadas as contrarrazões (fls. 607-2045), o recurso foi admitido na origem e os autos ascenderam a esta eg. Corte de Justiça.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 2270-2275).
+É o relatório.
+Decido.
+Depreende-se dos autos que orecorridofoicondenado à pena de 8(oito) anosde reclusão, em regime inicial semiaberto, mais 48 (quarentae oito) dias-multa, pela prática do delito previsto noart. 157, § 2º-A, inciso I, por três vezes, na forma do art. 70, todos do Código Penal (fls. 399-422.
+Em segunda instância, o eg. Tribunal a quo deu parcial provimento ao recurso da defesa para decotar a majorante do inciso I do § 2º-Ado art. 157 do Código Penal (emprego de arma de fogo), fixando-se a pena definitiva em 4(quatro) anos,9(nove) meses e 18 (dezoito) dias de reclusão, além de 12(doze) dias-multa(fls. 542-541).
+A questão a ser analisada cinge-se à aplicação ou não da majorante referente ao emprego da arma de fogo. Trago à colação, no que importa ao caso, excerto do que ficou consignado no v. acórdão da origem, verbis (fls. 537-538):
+"Vale salientar que todas as vítimas reconheceram o apelante Marcelo e ressaltaram a característica de que o mesmo mancava, o fato, inclusive, observado pelo magistrado na audiência.
+Ademais, os Tribunais já firmaram o entendimento que a palavra da vítima assume especial relevância, neste tipo de delito, sendo suficiente para escorar um juízo de reprovação.
+Merece acolhimento o pedido defensivo deafastamento da causa de aumento do emprego de arma de fogo, na presente hipótese, o artefato não foi apreendido ou periciado dificultando a configuração da majorante do inciso I, § 2º-A, do art. 157 do Código Penal, logo, necessário o seu decote."
+No presente caso, o eg. Tribunal de origem concluiu que as declarações prestadas pelas vítimasmostraram-se firmes na descrição da dinâmica dos fatos, contudo, entendeu pela imprescindibilidade da apreensão do artefato e a realização de perícia.
+Sobre o tema, cumpre frisar que o acórdão recorrido encontra-se em desacordo com o entendimento pacificado no âmbito da Terceira Seção deste eg. Tribunal Superior no sentido da prescindibilidade da apreensão e perícia da arma de fogo para a incidência da referida majorante, desde que evidenciada a sua utilização por outros meios de provas, tais como a palavra da vítima ou o depoimento de testemunhas, como é o caso dos autos.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. EMPREGO DE ARMA. PRESCINDIBILIDADE DE APREENSÃO E DE PERÍCIA. INCIDÊNCIA DA MAJORANTE. AGRAVO IMPROVIDO.
+1. As Turmas que compõem a Terceira Seção desta Corte firmaram entendimento no sentido de que, para a incidência da majorante prevista no art. 157, § 2º, I, do Código Penal, é prescindível a apreensão e perícia da arma, quando evidenciada sua utilização por outros meios de prova, tais como a palavra da vítima ou o depoimento de testemunhas.
+2. Agravo regimental improvido" (AgRg no AREsp 1577607/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 09/03/2020, grifei).
+"HABEAS CORPUS. DIREITO PENAL. ART. 157, § 2º, I E II, DO CP. ROUBO MAJORADO. EMPREGO DE ARMA DE FOGO. DESNECESSIDADE DE PERÍCIA DO ARTEFATO BÉLICO COMO REQUISITO PARA INCIDÊNCIA DA AGRAVANTE NO DELITO DE ROUBO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Segundo pacífico entendimento doutrinário e jurisprudencial, dispensável a apreensão e a perícia da arma de fogo para a incidência da causa de aumento de pena no crime de roubo (art. 157, § 2º, I, do CP), quando evidenciada a sua utilização no delito por outros meios de prova, tais como a palavra da vítima ou o depoimento de testemunhas. A configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida segundo os critérios de razoabilidade, tendo em vista as peculiaridades do caso.
+2. Ordem denegada." (HC 534.076/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 02/03/2020, grifei)
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO TRIPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA. PERSONALIDADE. IMPOSSIBILIDADE DE VALORAÇÃO DE TÍTULO CONDENATÓRIO TRANSITADO EM JULGADO. PENA-BASE REDUZIDA AO PISO LEGAL. EMPREGO DE ARMA. DESNECESSIDADE DE APREENSÃO E PERÍCIA DO ARTEFATO UTILIZADO NA SENDA CRIMINOSA. SÚMULA 443/STJ. MOTIVAÇÃO CONCRETA PARA ELEVAÇÃO DA PENA ACIMA DO MÍNIMO LEGAL. REGIME PRISIONAL FECHADO MANTIDO. GRAVIDADE CONCRETA DA CONDUTA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º, I, do art. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como na hipótese, em que há farta comprovação testemunhal atestando o seu emprego.
+ ..
+8. Writ não conhecido. Habeas corpus concedida, de ofício, a fim de estabelecer a pena de 5 anos e 8 meses de reclusão, a ser cumprida em regime prisional fechado, mais 14 dias-multa." (HC 507.533/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 05/12/2019, grifei)
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. CAUSAS DE AUMENTO VALORADAS NA PRIMEIRA FASE DA DOSIMETRIA DA PENA. POSSIBILIDADE. APREENSÃO E PERÍCIA DA ARMA. DESNECESSIDADE. JURISPRUDÊNCIA PACIFICADA. APLICAÇÃO DA SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem decidido que, na hipótese de existir mais de uma causa de aumento no crime de roubo, poderá ser valorada uma(s) como circunstância judicial desfavorável e outra(s) como majorante na terceira fase da dosimetria, para justificarem a elevação da pena, sem que haja qualquer ofensa ao critério trifásico. (Precedentes).
+2. A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º, I, do art. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como na hipótese, em que há comprovação testemunhal atestando o seu emprego.
+3. Agravo regimental não provido" (AgRg no AREsp n. 1.237.603/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/06/2018)
+Ademais, a alteração promovida pela Lei n. 13.654/2018 não acarretou a modificação doentendimento acerca da prescindibilidade de apreensão e perícia da arma para a caracterização da causa de aumento do antigoinciso I, § 2º, do art. 157 do Código Penal.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO PELA UTILIZAÇÃO DE ARMA DE FOGO. ART. 157, § 2º-A, DO CP. DESNECESSIDADE DE APREENSÃO E PERÍCIA. COMPROVAÇÃO POR OUTROS ELEMENTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ tem entendimento de que para a caracterização da majorante relativa à utilização de arma de fogo são dispensáveis a sua apreensão e a perícia. Precedente.
+2. A inclusão do art. 157, § 2º-A, do Código Penal apenas tornou mais severa a pena decorrente da utilização de arma de fogo no delito de roubo e não acrescentou nenhum outro aspecto objetivo ou subjetivo que possa justificar a mudança da jurisprudência.
+3. As instâncias antecedentes apresentaram outros elementos de prova para reconhecer a citada majorante. O habeas corpus não comporta dilação probatória.
+4. Agravo regimental não provido."(AgRg no HC 576.626/SP, Sexta Turma, Rel. Ministro Rogério Schietti Cruz, DJe 23/06/2020)
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Assim, ante o reconhecimento da causa de aumento pelo emprego de arma de fogo,art. 157, § 2º-A, do CP, na terceira fase da dosimetria deve incidir a fração de 2/3 sobre a pena fixada na fase anterior pelo Tribunal a quo, o que resulta em 6 (seis) anos e 8 (oito) meses para cada delito.
+Por fim, reconhecido o concurso formal (art. 70 do CP), mantém-se a fração de 1/5 de exasperação o que resulta na pena total de 8 (oito) anos de reclusão.
+Considerando-se ainda que houve a detração do período de cumprimento de pena provisória (1 ano e 5 meses) para fixação de regime aberto, deve ser readequado o regime para o semiaberto, considerando o quantum de pena a cumprir (6 anos e 7 meses).
+Ante o exposto, com fulcro no art. 255, § 4º, incisoIII, do Regimento Interno do STJ, dou provimento ao recurso especial,para restabelecer a majorante do emprego de arma de fogo, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. ROUBO. CAUSA DE AUMENTO. EMPREGO DE ARMA DE FOGO. PERÍCIA. PRESCINDIBILIDADE. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. POSSIBILIDADE. PRECEDENTES. SÚMULA N. 568/STJ. RECURSO ESPECIAL PROVIDO.
