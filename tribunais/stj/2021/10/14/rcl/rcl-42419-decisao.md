@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de reclamação proposta por CLEBER APARECIDO DOS SANTOS (RECLAMANTE), para que seja determinado o recebimento, pelo Colégio Recursal, do agravo de instrumento interposto contra decisão que determinou a quebra do seu sigilo fiscal.
+É o relatório.
+De acordo com o art. 187 do Regimento Interno do Superior Tribunal de Justiça, para preservar a competência do Tribunal ou garantir a autoridade de suas decisões, caberá reclamação da parte interessada.
+Com a entrada em vigor do NCPC, o art. 988 reproduziu nos incisos I e II o dispositivo regimental.
+Acresceu, ainda, a garantia da observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+Do exame dos autos não se constata a existência de decisão desta Corte proferida em benefício do RECLAMANTE cuja autoridade esteja sendo desrespeitada, de modo a autorizar o processamento da presente reclamação a fim de garanti-la.
+Relativamente à usurpação da competência, o Colegiado reclamado agiu nos exatos limites de sua jurisdição sem nenhuma invasão à área de atuação desta Corte.
+Tampouco verifica-se que o houve pronunciamento, pelo Colégio Recursal da Comarca de Curitiba/PR, sobre tese firmada em incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+Portanto, a presente reclamação é manifestamente inadmissível.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. APLICAÇÃO DE REPETITIVO. IMPOSSIBILIDADE. RECLAMAÇÃO INDEFERIDA LIMINARMENTE. DECISÃO MANTIDA.
+1. A parte requerente sustenta, em sua reclamação, que a decisão impugnada teria contrariado o Tema Repetitivo n. 938 desta Corte Superior (REsp 1.599.511/SP), ante o afastamento indevido, na origem, da cobrança da comissão de corretagem.
+2. A Corte Especial do STJ decidiu que a reclamação constitucional não é "instrumento adequado para o controle da aplicação dos entendimentos firmados pelo STJ em recursos especiais repetitivos" (Rcl 36.476/SP, Relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 5/2/2020, DJe 6/3/2020).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl na Rcl 41.437/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, DJe 11/05/2021)
+AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. ACORDÃO DA CORTE ESPECIAL QUE NÃO CONHECEU DO AGRAVO EM RECURSO EXTRAORDINÁRIO. MERO INCONFORMISMO. NÃO CABIMENTO. INSURGÊNCIA QUE NÃO SE AMOLDA ÀS HIPÓTESES PREVISTAS NO ART. 918 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS ESPECÍFICOS DA RECLAMAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A reclamação prevista no art. 105, inciso I, alínea f, da Constituição Federal constitui garantia destinada à preservação da competência deste Superior Tribunal de Justiça, ou para assegurar a autoridade de suas decisões, em caso de descumprimento ou de cumprimento em desacordo com os limites do julgado proferido por esta Corte.
+2. Tratando-se de instrumento processual com causa de pedir vinculada, é imprescindível, além da observância dos requisitos genéricos da petição inicial, previstos no art. 319 do Código de Processo Civil, que a parte demonstre a adequação do pleito a uma das hipóteses previstas no art. 918 do Código de Processo Civil.
+3. Na espécie, na petição inicial da reclamação, a agravante limitou-se a questionar o acerto do aresto prolatado pela Corte Especial que não conheceu do agravo em recurso extraordinário interposto contra decisão que negou seguimento ao recurso extraordinário, tão somente demonstrando seu inconformismo com a solução perfilhada pelo referido Colegiado.
+4. Ante a inobservância dos requisitos legais específicos da reclamação, não é possível depreender qual seria a decisão do Superior Tribunal de Justiça cuja autoridade se buscar preservar por meio da presente insurgência, sendo de rigor a manutenção da decisão o que indeferiu liminarmente a reclamação.
+5. Agravo interno a que se nega provimento.
+(AgInt na Rcl 40.104/DF, Rel. Ministro JORGE MUSSI, Corte Especial, DJe 16/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. UTILIZAÇÃO PARA ADEQUAÇÃO AO RECURSO ESPECIAL REPETITIVO. NÃO CABIMENTO. PRECEDENTE DA CORTE ESPECIAL. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. INADEQUAÇÃO DA VIA ELEITA.
+1. Trata-se de Agravo Interno interposto contra decisão (fls. 179-189, e-STJ) que indeferiu liminarmente a Reclamação, uma vez que é reconhecida a jurisprudência do STJ no sentido de que não cabe Reclamação constitucional contra julgado que nega provimento a Agravo Regimental interposto contra decisão de inadmissibilidade de Recurso Especial fundada no art. 543-C, §7º, I, do CPC/1973 (art. 1.040, I, do CPC/2015), tendo em vista não estar caracterizada a usurpação de competência deste STJ.
+2. A agravante alega "(..) que a discussão quanto ao cabimento da Reclamação nessa hipótese está pendente de análise pela C. Corte Especial nos autos da Rcl 36.476/SP, de Relatoria da Exma. Ministra Nancy Andrighi. A aludida Reclamação fora afetada à Corte para garantir a uniformização do tema em relação ao cabimento da Reclamação na hipótese de aplicação equivocada de repetitivo pelos Tribunais e está suspensa com o voto favorável do Ministro Og Fernandes".
+3. Na sessão de 5.2.2020, a Corte Especial indeferiu liminarmente a Rcl 36.476/SP, fixando o entendimento de que é incabível Reclamação contra Acórdão que, em Agravo Interno ou Regimental, mantém a decisão da Presidência/Vice Presidência do Tribunal de não admissão de Recurso Especial, por considerar que o acórdão hostilizado seguiu a tese de representativo da controvérsia.
+4. É claro o intento das agravantes de utilizar a Reclamação como sucedâneo recursal, pois buscam reformar acórdão proferido pelo Tribunal de Justiça de São Paulo que, analisando o conjunto fático-probatório dos autos, concluiu que a presente matéria é idêntica à examinada pelo STJ no REsp 1.410.839/SC, Tema 698, sob a sistemática dos repetitivos.5. Agravo Interno não provido.
+(AgInt na Rcl 39.249/SP, Rel. Ministro HERMAN BENJAMIN, Primeira Seção, DJe 17/12/2020)
+Nessas condições, nos termos do art. 34, XVIII, a, do RISTJ, NÃO CONHEÇO da reclamação.
+Publique-se. Intimem-se
