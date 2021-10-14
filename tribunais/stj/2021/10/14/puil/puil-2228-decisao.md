@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei suscitado por JOSÉGOMES com fundamento no art. 18, § 3º, da Lei n.12.153/2009contra acórdão da Segunda Turma Recursal de Florianópolis/SC assim ementado (e-STJ fl. 260):
+RECURSO INOMINADO. FAZENDA PÚBLICA. SERVIDOR MUNICIPAL.MUNICÍPIO DE PAIÇANDU. AÇÃO MONITÓRIA. CONFLITO DE COMPETÊNCIA.COMPETÊNCIA DECLINADA AO JUIZADO ESPECIAL DA FAZENDA PÚBLICA EM RAZÃO DO VALOR DA CAUSA. DETERMINAÇÃO DO TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ. AÇÃO MONITÓRIA NÃO EXCEPCIONADA PELA LEI. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS EM PRIMEIRO GRAU. INTELIGÊNCIA DO ARTIGO 55 DA LEI 9.099/95.ALEGAÇÃO DE SENTENÇA ULTRA PETITA. NÃO CARACTERIZADACONVERSÃO DA LICENÇA ESPECIAL EM PECÚNIA. BASE DE CÁLCULO.VERBAS DE NATUREZA INDENIZATÓRIA E NATUREZA REMUNERATÓRIA NÃO DEVEM INTEGRAR O CÁLCULO. ADICIONAL DE ESCOLARIDADE.EXCLUSÃO. BASE DE CÁLCULO É A REMUNERAÇÃO NO MOMENTO DA APOSENTADORIA. JUROS DE MORA A PARTIR DA CITAÇÃO. ARTIGO 405 DO CÓDIGO CIVIL. APLICABILIDADE. SENTENÇA DE PROCEDÊNCIA.MANUTENÇÃO.
+RECURSO CONHECIDO E DESPROVIDO.
+Declaratórios rejeitados (e-STJ fls. 304/306)
+A requerente sustenta que o aresto atacado divergiu da orientação dasTurmasRecursaisdo Estado de Santa Catarina e do Estado de São Paulo, no que tange a interpretação dos arts. 397 e 884 do Código Civil.
+Contrarrazões (e-STJ fls. 338/345).
+Passo a decidir.
+Dispõem os arts. 18, §§ 1º, 2º e 3º , e 19 da Lei n. 12.153/2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1ºO pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de quetrata o § 1ºdo art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Consoante previsto nos referidos dispositivos, bem como no art. 67, parágrafo único, VIII-A do RISTJ, o pedido de interpretação de lei submetido ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, somente é cabível - em questão de direito material - em três hipóteses: (i) quando as Turmas Recursais dos Juizados Especiais de Fazenda Pública de diferentes Estados derem a lei federal interpretações divergentes; (ii) quando a decisão proferida estiver em contrariedade com súmula do STJ; (iii) quando a Turma de Uniformização contrariar súmula desta Corte.
+Feito esse registro, o presente pedidonão deve ser conhecido.
+Com efeito, a parte requerente não demonstrou a identidade entre os arestos confrontados, limitando-sea transcrever algumas ementas de julgados de Turmas Recursais de outros Estados, sem realizar o necessário cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição do aresto.A propósito:
+PROCESSO CIVIL E ADMINISTRATIVO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ART. 18, § 3º, DA LEI N.
+12.153/2009. JUIZADO ESPECIAL. FAZENDA PÚBLICA. SERVIDOR.
+MAGISTÉRIO ESTADUAL. PROMOÇÃO. PRESCRIÇÃO. DISSÍDIO NÃO COMPROVADO. INOBSERVÂNCIA DE REQUISITOS FORMAIS.
+1. Nos termos do artigo 12, § 4º do Provimento nº 7/2010 do Conselho Nacional de Justiça, para a comprovação do Incidente de Uniformização de Jurisprudência faz-se necessária a realização da prova da divergência "mediante certidão, cópia do julgado ou pela citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou seja, pela reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados".
+2. Na espécie, o agravante não se desincumbiu do ônus de realizar o necessário cotejo analítico entre os julgados postos em confronto, o que impede o conhecimento do incidente. 3. Agravo regimental não provido. (AgRg na Pet 10.598/AC, Relator Ministro BENEDITO GONÇALVES, S1 - PRIMEIRA SEÇÃO Data do Julgamento 22/10/2014, DJe 29/10/2014).
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido de uniformização.
+Publique-se. Intimem-se.
