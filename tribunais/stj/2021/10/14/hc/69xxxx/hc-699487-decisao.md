@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em face de decisão que denegou a liminar nomandamus antecedente.
+O paciente foi preso preventivamentecomo incurso no delito de homicídio qualificado.
+A defesa põe em xeque a credibilidade do depoimento testemunhal que embasou o decreto, apontando contradições e aduzindo ausência dopericulum libertatis. Tambémindica condições pessoais favoráveis.
+Busca a imediata revogação da custódia.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A liminar foi indeferida na instância a quo aos seguintes fundamentos (fls. 34-35):
+Considerando que a medida liminar confunde-se com o mérito da causa, nem tampouco demonstrada ilegalidade manifesta e visível de plano, ou constrangimento ilegal a ser afastado, e, finalmente, sopesadas as circunstâncias do caso porque se trata de crime grave que por si só revela a periculosidade do paciente, não há como de ser deferida a ordem nesta fase de cognição sumária.
+A decisão que decretou a custódia preventiva foi assim lançada (fl. 27):
+O crime imputado ao réu é gravíssimo, de natureza hedionda. O homicídio teria sido cometido por motivo fútil e com emprego de arma de fogo. Ressalto que a vítima teria sido alvejada por cinco disparos.
+In casu, a decretação da prisão preventiva do réu é primordial até para que se evite represálias à testemunha protegida, que presenciou o delito e reconheceu o réu como autor dos fatos, fazendo-se presente o requisito da garantia da instrução criminal e configurando o periculum in libertatis.
+A arguição de que as circunstâncias judiciais são favoráveis não é o bastante para impor o restabelecimento imediato da liberdade. É que "o Superior Tribunal de Justiça, em orientação uníssona, entende que persistindo os requisitos autorizadores da segregação cautelar (artigo 312, do CPP), é despiciendo o paciente possuir condições pessoais favoráveis" (STJ, HC nº 0287288-7, Rel. Min. Moura Ribeiro, Dje. 11/12/2013). "A circunstância de o paciente possuir condições pessoais favoráveis como primariedade e excelente reputação não é suficiente, tampouco garantidora de eventual direito de liberdade provisória, quando o encarceramento preventivo decorre de outros elementos constantes nos autos que recomendam, efetivamente, a custódia cautelar. A prisão cautelar, desde que devidamente fundamentada, não viola o princípio da presunção de inocência" (STJ. HC nº 34.039/PE. Rel. Min. Felix Fisher, j.14/02/2000).
+Ante o exposto, afim de que seja garantida a ordem pública e tendo em vista a conveniência da instrução processual, com fundamento no artigo 312, caput, e 313, I, ambos do Código de Processo Penal, DECRETO A PRISÃO PREVENTIVA de MATHEUS LEAL SOUSA. Expeça(m)-se o(s) mandado(s) de prisão.
+Como se vê, o édito prisional encontra fundamentação idônea, ressaltando ser primordial "para que se evite represálias à testemunha protegida".
+Justifica-se a prisão preventiva em razão da conveniência da instrução criminal, tendo em vista a necessidade de fazer uso de programa de proteção de testemunhas.(AgRg no HC 665.826/SP, Rel.Ministro Ribeiro Dantas, Quinta Turma, DJe 11/06/2021)
+Vale destacarque eventual discussão sobre a fragilidade dodepoimento testemunhalnão é providência a ser aferida nesta via, cujo escopo é assegurar o direito de ir e vir em face de ilegalidade flagrante, não sendo, ademais, cabível a revisão extensa do conjunto de fatos e provas dos autos.
+Assim, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não se vêmanifesta ilegalidade apta a autorizar amitigação da Súmula 691/STF, pois ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise damatériameritória.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
