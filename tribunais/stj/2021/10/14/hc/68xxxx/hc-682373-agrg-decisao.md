@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso de agravo regimental interposto peloPRESIDENTE DA COMISSÃO PARLAMENTAR DE INQUÉRITO BHTRANS DA CÂMARA MUNICIPAL DE BELO HORIZONTE, no uso de suas atribuições, em face de decisão da Presidência deste eg. Tribunal Superior, que concedeu o pedido liminar, nos seguintes termos (fls. 277-285):
+"Ante o exposto, defiro o pedido de liminar para garantir ao paciente, até o julgamento definitivo deste writ, o direito de não comparecer à Comissão Parlamentar de Inquérito da Câmara Municipal de Belo Horizonte para prestar novo depoimento."
+Neste recurso de agravo regimental, busca, em suma, "a) Receber o presente agravo interno e, em juízo de retratão, conforme dispõe o § 2º do art. 21-E do RISTJ, seja reformada monocraticamente a decisãorecorrida, para que se denegue a ordem quanto ao direito de ausência, sendo obrigatório o atendimento à convocação(a ser reagendada) perante a CPI da BHTrans, sob pena de conduçãocoercitiva; bem como seja reconhecido o dever de falar a verdade e de responder tudo quanto diga respeito exclusivamente a fatos de terceiros de que tenha conhecimento o paciente, ressalvando-se, apenas, o direito ao silêncio em relaçãoaos questionamentos cuja resposta possa dar causa àautoincriminação; e b) Eventualmente, caso nãoexercida a retratação (..), ao final, provido o presente agravo interno, na forma do pedido "a", supra"(fls. 327-336).
+É o breve relatório.
+Decido.
+Tendo em vista que o mérito da presente impetração está sendo julgado (pela perda do objeto) nesta data, decido por prejudicado o presente recurso de agravo regimental contra a decisão em sedeliminar.
+P. I.
