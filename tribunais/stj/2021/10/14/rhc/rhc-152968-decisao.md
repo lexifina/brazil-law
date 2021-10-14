@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em face de acórdão assim ementado (fl. 850):
+HABEAS-CORPUS Latrocínio, roubo e furto qualificado Pedido de liminar indeferido - Revogação da prisão preventiva Impossibilidade. Prisão bem fundamentada Inexistência de afronta ao princípio da presunção de inocência excesso de prazo Inocorrência - O prazo para a conclusão da instrução não é fatal, podendo ser excedido em função de peculiaridades específicas do processo, devendo, portanto, ser considerado caso a caso. Ordem Denegada.
+Consta dos autos que o recorrente foi preso preventivamente e denunciado, juntamente com outros corréus, como incursonos arts. 155, § 4º, I e IV; 157, § 3º, II; 157, § 3º, II c/c art.14, II e 157, §2º, II e § 2º-A, I, todos do Código Penal, na forma do art. 69 do mesmo diploma legal.
+No presente recurso, alega a defesa que o recorrente foi preso em 25/9/2019, encontrando-se encarcerado"há 624 dias caracterizando, desse modo, constrangimento ilegal".
+Requer, assim, seja concedida a liminar para que o recorrente aguarde o julgamento do writ em liberdade e, no mérito, pugna pela revogação da prisão preventiva.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo desprovimento do recurso.
+Na origem, encerrada a instrução, o processo 0000997-54.2020.8.26.0075 encontra-se com prazo para apresentação das alegações finais, conforme informação processual eletrônica extraída do site do Tribunal a quo em 6/10/2021.
+Com relação aos prazos consignados na lei processual, deve atentar o julgador às peculiaridades de cada ação criminal. De efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+Extrai-se do acórdão (fls. 856-857):
+No caso concreto, há multiplicidade de vítimas, testemunhas e réus (três vítima, onze testemunhas e cinco réus), havendo ainda que se levar em consideração a situação de pandemia ora enfrentada pelo País, cabendo referir que visando dar regular andamento ao feito, as audiências não foram paralisadas, sendo realizadas em ambiente virtual, cabendo ao Magistrado aguardar disponibilidade de data pelo estabelecimento prisional, para o agendamento da solenidade.
+Fato é que o diligente Magistrado condutor do processo, na medida do possível adotou as providências necessárias ao prosseguimento regular do feito.
+Assim, temos que não restou demonstrada a desídia da autoridade judicial nem do representante do Ministério Público capaz de dar causa a eventual morosidade na tramitação do processo, de forma a permitir o almejado relaxamento da prisão cautelar.
+Verifica-se dos autos que em 20/8/2019 foi decretada a prisão temporária do recorrente e demais investigados, a qual foi prorrogada, por decisão proferida em 24/9/2019.
+O Ministério Público estadual ofereceu denúncia em 1/11/2019, requerendo a prisão preventiva. Em 5/11/2019 houve o recebimento da peça acusatória e o deferimento do pedido deprisão preventiva.
+Consta que o recorrente foi preso em 29/5/2020 e, em 23/11/2020 a defesa apresentou resposta à acusação.
+Conforme informação do sítio eletrônico do Tribunal de Justiça, verifica-se que foram realizadas audiências de instrução e julgamento em 11/2/2021, 10/6/2021 e 13/8/2021. Em 20/9/2021 foiencerrada a instrução processual, com a abertura de prazo para apresentação das alegações finais.
+Assim, não constatada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Outrossim, conforme destacado pela Corte a quo, "há multiplicidade de vítimas, testemunhas e réus (três vítima, onze testemunhas e cinco réus), havendo ainda que se levar em consideração a situação de pandemia ora enfrentada pelo País, cabendo referir que visando dar regular andamento ao feito, as audiências não foram paralisadas, sendo realizadas em ambiente virtual".
+De fato, "Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional" (AgRg no RHC 121.296/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/05/2020, DJe 19/05/2020).
+Ainda, incide na hipótese a Súmula 52 deste STJ, in verbis: "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
