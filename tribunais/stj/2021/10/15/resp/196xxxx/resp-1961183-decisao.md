@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por GLAUBEM ARRUDA MARIZ, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+" AGRAVO DE INSTRUMENTO NO NOVO CPC. Os Recursos são definidos pela natureza do ato judicial: Sentença, Decisão Interlocutória ou Despacho. O Agravo de Instrumento, no Código de Processo Civil de 2015, consiste no Recurso que tem por objeto a Relação Jurídica sobre Decisão Interlocutória, envolvendo tutelas distintas sobre duas situações jurídicas processuais: a Evidência e a Urgência. Não estão dissociadas na Finalidade ou Função do Recurso estritamente definido.
+EVIDÊNCIA. Consiste na Situação Jurídica derivada da Relação Jurídica projetando a Pretensão à obtenção do dever jurídico,buscado pela Parte diante de Ato Jurídico Processual, e exposto no conjunto ou variedade de atos confluentes da Lide, da Causa,da Demanda ou dos Pressupostos Processuais. A Interlocução própria da Jurisdição é o princípio a estabelecer diretriz do Processo ou do Recurso, porquanto a Ação é proposta e o Recurso interposto, na dicção precisa de Pontes de Miranda. Os pressupostos Processuais e as Condições da Ação são elementos considerados, em cada etapa ou fase, com Atos Processuais, quando nãoincorrem, em cada caso, no exame dos Atos meramente ordinatórios, nos simples Despachos. Ou, nas hipóteses terminativas encerrando literalmente a Prestação Jurisdicional de Mérito com a Sentença, e/ou com a Execução.
+URGÊNCIA. Como poder-dever cautelar busca no exame da situação, de ato ou fato jurídico, realçar a utilidade da Jurisdição de modo Imediato, a realização do Direito Objetivo e, de modo Mediato, o Direto subjetivo buscado no Pedido intercorrente para obtenção do Dever Jurídico; a Obrigação de quem de Direito. A Urgência está atinada sempre à Evidência.
+Agravo de Instrumento interposto à Decisão proferida nos autos da Ação de Execução de Título Executivo Extrajudicial nº0016967-03.2005.4.05.8300 em curso na 21ª Vara Federal (PE), que determinou a desocupação de imóvel residencial por parte, do Executado, ora Agravante, em razão de haver sido arrematado em Leilão Judicial, seguido de expedição da respectiva Carta de Arrematação.
+A questão suscitada pelo Agravante sobre a condição de Bem de Família já foi examinada nos Embargos à Execuçãonº 0006406-46.2007.4.05.8300 e nos Agravos de Instrumento nºs 123.627-PE, 145.727-PE, 0806921-04.2016.4.05.000,0807706-29.2017.4.05.0000 e 0808949-08.2017.4.05.0000, que a afastou, a ensejar a preclusão quanto aos desdobramentos(alienabilidade) do reconhecimento da penhorabilidade.
+O Agravo Interno se confundem com o mérito recursal do Agravo de Instrumento, razão pela qual resta Prejudicado.
+Desprovimento do Agravo de Instrumento, restando prejudicado o exame do Agravo Interno." (fl. 718, e-STJ).
+Os embargos de declaração foram rejeitados (fls. 805/809, e-STJ).
+No recurso especial, a recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos, com as respectivas teses:
+(i) artigo 1.022 do CPC/2015 - porque o Tribunal de origem teria deixado de se manifestar quanto (a) à necessidade de intimação pessoal do cônjuge casado sob o regime universal de bens acerca das decisões proferidas nos autos, (b) ao fato de os bens particulares dos sócios não responderem por dívida da sociedade, e (c) à necessidade de consentimento do cônjuge para as ações que versem sobre direito real imobiliário;
+(ii) artigos 1.225, 1.667, I, do Código Civil e 73, caput, § 1º, I, II, e III, do Código de Processo Civil de 2015 (CPC/2015) - porque a recorrente não foi intimada da expedição de mandado de imissão na posse do imóvel que constitui bem de família. Ademais, o cônjuge deve ser citado para a ação que verse sobre direito real imobiliário, especialmente na hipótese em que casados sob o regime de comunhão universal de bens. Entende que os atos praticados sem a sua citação são nulos de pleno direito;
+(iii) artigo 1.024 do Código Civil - porque os bens particulares do sócio não respondem por dívida da sociedade empresária.
+Pede a concessão de tutela antecipada recursal sob o fundamento de ser a legítima possuidora do imóvel, tendo direito a nele ser mantida em caso de turbação. Subsidiariamente, pleiteia seja agregado efeito suspensivo ao recurso especial.
+Requer a reforma do acórdão recorrido com o recolhimento do mandado de imissão na posse.
+Contrarrazões às fls. 935/956 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+No que tange ao art. 1.022 do Código de Processo Civil de 2015, não há falar em negativa de prestação jurisdicional se o Tribunal local, ainda que por fundamentos distintos daqueles apresentados pelas partes, adota fundamentação suficiente para decidir integralmente a controvérsia.
+Cumpre assinalar, ainda, que os dispositivosora apontados como violados (artigos 1.225, 1.667, I, do Código Civil e 73, caput, § 1º, I, II, e III, do Código de Processo Civil de 2015) nem sequer foram levados ao conhecimento do Tribunal estadual nas razões do agravo de instrumento, de modo que não tinham como ser analisados no aresto recorrido.
+No mais, a Corte de origem entendeu que a matéria levada a julgamento, concernente à condição de bem de família do imóvel arrematado em leilão judicial está preclusa, conforme extrai-se do seguinte excerto do acórdão recorrido:
+"(..)
+A questão suscitada pelo Agravante sobre a condição de Bem de Família já foi examinada nos Embargos à Execução nº0006406-46.2007.4.05.8300 e nos Agravos de Instrumento nºs 123.627-PE, 145.727-PE, 0806921-04.2016.4.05.000,0807706-29.2017.4.05.0000 e 0808949-08.2017.4.05.0000, que a afastou, a ensejar a preclusão quanto aos desdobramentos(alienabilidade) do reconhecimento da penhorabilidade.
+Desnecessários, portanto, acréscimos ou aditamentos dada a clareza dos pontos expostos no Recurso e na(s) Decisão(ões)recorrida(s)" (fl. 709, e-STJ - grifou-se).
+A recorrente, em suas razões, não impugna referido fundamento, deixando de apontar violação a dispositivo legal que trata do tema. Incide, no ponto, a Súmula nº 283/STF.
+Por fim, no que respeita ao dissídio jurisprudencial, além da subsistência defundamento inatacado, não foi realizado o indispensável cotejo analítico, o que impede o conhecimento do recurso também neste ponto.
+Ante o exposto, não conheço do recurso especial.
+Fica prejudicada a análise dos pedidos de antecipação de tutela recursal e concessão de efeito suspensivo.
+Publique-se.
+Intimem-se.
