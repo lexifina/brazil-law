@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ASSOCIACAO DOS MORADORES DA GAMELEIRA - AMG contra decisão unipessoal que julgou prejudicado o agravo em recurso especial que interpusera.
+Ação: de reintegração de posse, ajuizada por MARCIO GUEDES PEREIRA JUNIOR (agravado), em face de MST - MOVIMENTO DOS TRABALHADORES RURAIS SEM TERRA (interessado), de IZAIAS BATISTA NEVES, de VALDETE PEREIRA DE SOUZA, de ESPERIDIÃO JOSÉ NEVES, de NATANAEL ANTÔNIO DA ROCHA e DEMAIS COMPONENTES INCERTOS E DESCONHECIDOS, cujo objeto é a proteção possessória para o imóvel denominado Fazenda Gameleira, com área de 4.400ha, composto pelas áreas objeto das matrículas imobiliárias n. 19.031, 19.032, 19.038, 19.039, 19.040, 19.042 e 19.044 do Cartório de Registro de Imóveis da Comarca de Pirapora/MG, cadastrado no INCRA sob o n. 000.051.903.752-1, situado no Município de Buritizeiro/MG.
+Em síntese, o autor afirma ser proprietário e possuidor do imóvel, efetuando o recolhimento dos respectivos tributos. Aduz que a fazenda é utilizada em projeto florestal de eucalipto, em razão da celebração de contrato de prestação de serviços.
+Por derradeiro, assevera o demandante que, em 21/05/2016, teve a posse do bem esbulhada pelos requeridos, os quais teriam ocupado o imóvel e montado acampamento no local.
+Sentença: julgou procedente o pedido, para reintegrar e manutenir MARCIO GUEDES PEREIRA JUNIOR (agravado) na posse do imóvel denominado Fazenda Gameleira, com área de 4.400ha imóvel descrito na inicial, composto pelas áreas objeto das matrículas imobiliárias n. 19.031, 19.032, 19.038, 19.039, 19.040, 19.042 e 19.044 do Cartório de Registro de Imóveis da Comarca de Pirapora/MG, cadastrado no INCRA sob o n. 000.051.903.752-1, situado no Município de Buritizeiro/MG.
+Acórdão: negou provimento à apelação interposta pelo Ministério Público do Estado de Minas Gerais; negou provimento à apelação interposta por RÉUS INCERTOS OU DESCONHECIDOS (agravados) por meio Defensoria Pública do Estado de Minas Gerais, na condição de curadora especial.
+Nesse sentir, é a ementa dos julgados:
+Apelação - Reintegração de posse - Conflito agrário - Comparecimento prévio do magistrado no local do conflito e realização de audiência de conciliação - Resolução 438/2004 que não se sobrepõe ao CPC - Julgamento antecipado - Cerceamento de defesa - Não ocorrência - Mérito - Comprovação da posse e do esbulho possessório - Pedido julgado procedente - Sentença mantida.
+- Ainda que se trate de conflito agrário, a matéria deve ser decidida com fincas no Código de Processo Civil, artigo 561, cabendo salientar que, a resolução 438/2004 é de mera orientação, não tendo o condão de se sobrepor à legislação infraconstitucional.
+- Quando há nos autos elementos que possam informar o Juízo de forma segura sobre os fatos alegados, permitindo a prolação de sentença que dirima completamente a controvérsia, o julgamento antecipado não importa em cerceamento de defesa.
+- Presentes os requisitos do artigo 561 do Código de Processo Civil, impõe-se a procedência do pedido de reintegração de posse. (e-STJ, fl. 861)
+Embargos de declaração: opostos por ALTIVO CÂNDIDO DA SILVA e OUTROS (demandados), foram rejeitados.
+Recurso especial de RÉUS INCERTOS OU DESCONHECIDOS (agravados), representados pela Defensoria Pública do Estado de Minas Gerais, na condição de curadora especial: alega a violação dos arts. 355, I, 369, 373, II e 560, todos do CPC/15; 1.228, § 1º, do CC/02; 9º da Lei 8.629/93. Sustenta:
+i) a ocorrência de cerceamento de defesa, em razão do não deferimento da produção das provas requeridas pelos recorrentes; e
+ii) a análise da tutela jurídica da posse sob a ótica de conformidade com os preceitos constitucionais e infraconstitucionais que determinam sua utilização revestida da função social.
+Recurso especial de ASSOCIACAO DOS MORADORES DA GAMELEIRA - AMG (agravante): a despeito de não indicar expressamente dispositivos infraconstitucionais tidos por vulnerados, sustenta a existência de dissídio jurisprudencial, sob o argumento de que a ausência de citação torna nulo o processo, por ofensa ao contraditório e à ampla defesa. Além disso, assevera:
+i) que nunca houve o cumprimento da função social da propriedade pelo agravado (MARCIO GUEDES PEREIRA JUNIOR);
+ii) a ilegitimidade do autor da ação (agravado MARCIO GUEDES PEREIRA JUNIOR);
+iii) que a posse dos recorrentes é justa e legítima, em razão do devido cumprimento da função social da propriedade; e
+iv) a ausência de comprovação do esbulho.
+Prévio juízo de admissibilidade: o TJ/MG admitiu o recurso especial interposto por RÉUS INCERTOS OU DESCONHECIDOS, representados pela Defensoria Pública do Estado de Minas Gerais, na condição de curadora especial (e-STJ, fl. 1.739/1.743).
+Prévio juízo de admissibilidade: o TJ/MG não admitiu o recurso especial interposto por ASSOCIACAO DOS MORADORES DA GAMELEIRA - AMG, em razão da incidência da Súmula 284/STF e da ausência de realização de cotejo analítico entre acórdãos confrontados para fins de demonstração de divergência jurisprudencial, nos termos do art. 1.030, V, do CPC/15 (e-STJ, fl. 2.137/2.139).
+Decisão Monocrática: conheceu parcialmente do recurso especial interposto pelos agravados RÉUS INCERTOS OU DESCONHECIDOS (representados pela Defensoria Pública do Estado de Minas Gerais, na condição de curadora especial), e, nessa extensão, deu provimento, com fundamento no art. 932, III, V, "a", do CPC/15, bem como na Súmula 568/STJ, para determinar a remessa dos autos ao Tribunal de origem, a fim de que seja proferido novo julgamento do recurso de apelação interposto pelas referidas partes, à luz da jurisprudência do STJ relacionada à análise da função social da propriedade em ação possessória; julgou prejudicado o agravo em recurso especial interposto por ASSOCIACAO DOS MORADORES DA GAMELEIRA - AMG (agravante), em razão da perda de objeto, com fundamento no art. 34, XI, DO RISTJ (e-STJ, fls. 2.205/2.210).
+Decisão monocrática: conheceu dos embargos de declaração opostos pela agravante/embargante (ASSOCIACAO DOS MORADORES DA GAMELEIRA - AMG) como agravo interno, nos termos do art. 1.024, § 3º, do CPC/15 (e-STJ, fl. 2.254/2.254).
+Agravo interno: além de formular pedido de antecipação dos efeitos da tutela recursal, alega - em síntese - as mesmas questões aventadas quando da interposição do recurso especial, quais sejam:
+i) não cumprimento da função social da propriedade pelo agravado (MARCIO GUEDES PEREIRA JUNIOR);
+ii) a ilegitimidade do autor da ação (agravado MARCIO GUEDES PEREIRA JUNIOR);
+iii) posse justa e legítima dos recorrentes, em razão do devido cumprimento da função social da propriedade; e
+iv) a ausência de comprovação do esbulho (e-STJ, fls. 2.256/2.267).
+É O RELATÓRIO.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO NO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de reintegração de posse.
+2. O agravo interposto contra decisão - que não conheceu do agravo em recurso especial - que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não conhecido.
+VOTO
+A decisão agravada julgou prejudicado o agravo em recurso especial interposto pela ASSOCIACAO DOS MORADORES DA GAMELEIRA - AMG (agravante), tendo em vista perda de objeto, em razão de ter conhecido parcialmente do recurso especial interposto pelos agravados RÉUS INCERTOS OU DESCONHECIDOS (representados pela Defensoria Pública do Estado de Minas Gerais, na condição de curadora especial), e, nessa extensão, ter dado provimento, para determinar a remessa dos autos ao Tribunal de origem, a fim de que seja proferido novo julgamento do recurso de apelação interposto pelos agravados, à luz da jurisprudência do STJ relacionada à análise da função social da propriedade em ação possessória.
+Todavia, nas razões do agravo interno, a parte agravante (ASSOCIACAO DOS MORADORES DA GAMELEIRA - AMG), além de formular pedido de antecipação dos efeitos da tutela recursal, limitou-se a alegar as razões constantes no recurso especial, não impugnando o óbice atinente à prejudicialidade do agravo em recurso especial por ela interposto, decorrente do provimento do recurso especial interposto pelos agravados RÉUS INCERTOS OU DESCONHECIDOS (representados pela Defensoria Pública do Estado de Minas Gerais, na condição de curadora especial).
+Desse modo, nos termos da Súmula 182/STJ, mostra-se correto o não conhecimento do agravo interno, tendo em vista a ausência de impugnação específica dos fundamentos contidos na decisão agravada (AgInt no AREsp 1587637/SP, 3ª Turma, DJe 10/06/2020; AgInt no AREsp 1628732/SP, 4ª Turma, DJe 17/06/2020).
+Prejudicada a análise do pedido liminar formulado nas razões do agravo interno, ante o não conhecimento do recurso.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
