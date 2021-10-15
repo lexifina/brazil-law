@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face da decisão de fls. 776 - 778 (e-STJ), da Presidência desta Corte Superior, que, ao conhecer do agravo interposto na origem, negou conhecimento ao recurso especial, com base na aplicação das Súmulas 126 do STJ e 284 do STF; tendo sido registrada a deficiência de fundamentação da parte no que concerne à demonstração da alegada violação aos artigos de lei suscitados.
+A parte agravante refuta a aplicação da Súmula 126/STJ, destacando se tratar de violação reflexa a dispositivos da Constituição Federal; bem como a aplicação da Súmula 284 do STF, ao argumento de que particularizou os dispositivos de lei federal sobre os quais entende haver violação, destacando ainda a presença de prequestionamento quanto a estes.
+A parte agravada apresentou impugnação (e-STJ, fls. 799 - 815) ressaltando a incidência dos óbices sumulares acima mencionados.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo não comporta acolhimento.
+Transcrevo, a seguir, excertos da decisão recorrida (fls. 776 - 778), e-STJ):
+Trata-se de agravo apresentado por ESUCRI - ESCOLA SUPERIOR DE CRICIUMA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL AÇÃO INDENIZATÓRIA POR DANOS MORAIS SENTENÇA DE IMPROCEDÊNCIA NA ORIGEM.
+RECURSO DA UNIVERSIDADE AUTORA.
+PRETENDIDO RECONHECIMENTO DOS PEDIDOS INICIAIS ANTE A RETIRADA ESPONTÂNEA DA NOTÍCIA PELOS REQUERIDOS MERA ESPECULAÇÃO. ADEMAIS, PRETENSÃO NÃO DEDUZIDA EM PRIMEIRA INSTÂNCIA. INOVAÇÃO RECURSAL. ANÁLISE PREJUDICADA.
+COLISÃO ENTRE DIREITOS FUNDAMENTAIS. CONFLITO ENTRE OS PRINCÍPIOS DA LIBERDADE DE EXPRESSÃO (ARTIGO 5º INCISOS IV, IX E XIV, E ARTIGO 220, AMBOS DA CF/1988) E DA INTIMIDADE (ARTIGO 5º, INCISO X, DA CF/1988). REGRA DA PROPORCIONALIDADE. PONDERAÇÃO. ESTLO ELABORADO PELO SEGUNDO REQUERIDO COM BASE NOS DADOS FORNECIDOS PELO MINISTÉRIO DA EDUCAÇÃO (MEC) VEICULAÇÃO DA MATÉRIA PELA REVISTA DEMANDADA. DIVULGAÇÃO DE LISTA CLASSIFICATÓRIA (RANKING) DAS INSTITUIÇÕES DE ENSINO SUPERIOR DO BRASIL. ASSUNTO DE INTERESSE PÚBLICO. EXCESSO NÃO VERIFICADO. AUSÊNCIA DE DEVER DE INDENIZAR.
+RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 12, 196 e 927, parágrafo único, todos do CC, trazendo os seguintes argumentos:
+59. Perceba-se que de pouco adianta os apelados trazerem extensa explicação dos seus "critérios" científicos nestes autos. Os cálculos apresentados são bem questionáveis, é verdade, pois jamais explicam qual o problema com a avaliação do MEC e de onde vem a necessidade de reformulá-la. Mas tudo bem - não é sequer preciso adentrar nessa discussão.
+60. A essa altura, o dano já está feito. Era necessário que tais critérios - se é que existem! - tivessem sido expostos pela matéria jornalística, o que não aconteceu. Os leitores da Exame não têm acesso a estes autos..
+ ..
+76. Assim, está configurado o dever de indenizar - e, ao negar essa realidade, o v. acórdão acaba negando vigência aos dispositivos legais indicados neste recurso especial. (fls. 667/671).
+Quanto à segunda controvérsia, o recurso foi interposto pela alínea "c" do permissivo constitucional.
+É o relatório. Decido.
+No que concerne à primeira controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente não demonstrou, de forma direta, clara e particularizada, como o acórdão recorrido violou cada um dos dispositivos de lei federal apontados, o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que "a argumentação recursal em torno de normas infraconstitucionais não pode ser meramente genérica, sem o desenvolvimento de teses efetivamente vinculadas a elas e sem a demonstração objetiva de como o acórdão recorrido as teria violado. Incidência da Súmula n. 284/STF" (REsp n. 1.293.548/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/6/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.442.952/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/2/2017; EDcl no AgRg no AREsp n. 422.103/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2014; AgRg no AREsp n. 413.345/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 22/10/2015; e AgRg no AREsp n. 634.545/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/5/2015.
+Ademais, também incide o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui fundamento de natureza constitucional suficiente por si só para a manutenção da decisão.
+Nesse sentido: "Existindo fundamento de índole constitucional, suficiente para a manutenção do acórdão recorrido, cabia à parte recorrente a interposição do imprescindível Recurso Extraordinário, de modo a desconstituí-lo. Ausente essa providência, o conhecimento do Especial esbarra no óbice da Súmula 126/STJ, segundo a qual "É inadmissível recurso especial, quando o acórdão recorrido assenta-se em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário". Precedentes do STJ" (AgInt no AREsp 1.288.579/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2018).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 821.329/PB, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 13/2/2019; AgInt nos EDcl no REsp 1.445.887/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018; AgInt no AREsp 1316610/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 6/12/2018; e AgRg no AREsp 800.057/RN, relator Ministro Jorge Mussi, Quinta Turma, DJe de 14/11/2018.
+Em relação à segunda controvérsia, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nessa linha, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+Verifico, no caso dos autos, que as razões do recurso não se prestam a combater os fundamentos da decisão agravada.
+A parte agravante, embora tenha tecido considerações juridicamente relevantes com o fito de afastar a aplicação da Súmula 126/STJ, impugnou o fundamento da Súmulas 284 do STF como se esse houvesse sido aplicado com base na ausência de indicação dos dispositivos de lei violados; todavia o aludido óbice foi aplicado por deficiência de fundamentação justamente por não ter a parte demonstrado de que forma os artigos de lei suscitados teriam sido violados pela Corte local. Portanto, não é possível acolher as razões do agravo interno em estudo como impugnação específica aos fundamentos da decisão agravada, sendo nítida a desconexão entre os fundamentos da decisão agravada e as razões do agravo em estudo.
+Nesse contexto, cabe ressaltar que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos nos art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil, e pela aplicação, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+Nesse sentido, cito os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 968.815/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 7/2/2017, DJe 10/2/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, o não conhecimento do agravo em recurso especial por ter sido apresentado em desacordo com os requisitos do art. 544, § 4º, I, do CPC/73. Incidência da Súmula nº 182 do STJ e violação do art. 1021, § 1º, do NCPC.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 878.403/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/6/2016, DJe 23/6/2016)
+Imprescindível, portanto, para o conhecimento do recurso, que seja feita a impugnação específica de todos os seus motivos determinantes, explicitando-se, de forma articulada e argumentativa, as razões que justificariam a prolação de decisão em sentido diverso.
+Em face do exposto, não cumprida a exigência constante do art. 1.021, § 1º, do Código de Processo Civil, não conheço do agravo interno.
+É o voto.
