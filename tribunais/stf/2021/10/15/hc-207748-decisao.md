@@ -1,0 +1,20 @@
+Habeas corpus. Tráfico de drogas e associação para o tráfico. Julgamento superveniente do writ na Corte local. Perda de objeto. A superveniência de decisão definitiva corresponde a novo ato coator a desafiar ação própria. Precedentes. Writ prejudicado.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Emanuel Barbosa de Lima em favor de Paulo Eduardo Almada Rodrigues Junior, contra acórdão do Superior Tribunal de Justiça, da lavra Ministro Ribeiro Dantas, que negou provimento ao agravo regimental no HC 693.317/SP.
+    O Paciente foi preso em flagrante delito, convertido o título em prisão preventiva, pela suposta prática do crime de tráfico de drogas e associação para o tráfico, tipificados no art. 33, caput, e art. 35, caput, ambos da Lei 11.343/2006 (evento 4, fls. 85-9 )
+    Extraio do ato dito coator (evento 7):
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM NÃO CONHECIDA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FALTA DE FUNDAMENTOS. REAVALIAÇÃO NÃO EFETIVADA. DESPROPORCIONALIDADE. SUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. SÚMULA 691/STF. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO NÃO PROVIDO.
+    1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+    2. Na hipótese, a decisão que rejeitou o pleito liminar não revela ilegalidade apta a justificar pronunciamento antecipado deste Superior Tribunal de Justiça, não sendo o caso de mitigação do referido verbete sumular.
+    3. Agravo regimental desprovido art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.”
+    No presente writ, a Defesa alega, em síntese, inidônea a fundamentação da prisão preventiva, porquanto ausentes os requisitos autorizadores e não realizada a revisão da medida no prazo de 90 dias pelo magistrado de primeiro grau. Argumenta negativa de autoria delitiva. Ressalta a existência de circunstâncias judiciais favoráveis, como primariedade, bons antecedentes, residência fixa e ocupação lícita. Requer, em medida liminar e no mérito, a revogação da prisão preventiva, com a expedição do competente alvará de soltura, e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    É o relatório.
+    Decido.
+    O Superior Tribunal de Justiça não conheceu do writ, porquanto se voltava contra decisão monocrática proferida por Relator do Tribunal de Justiça, que indeferiu liminar em habeas corpus impetrado naquela Corte. Ato contínuo, a Corte Superior negou provimento ao respectivo agravo regimental.
+    Contudo, em consulta ao sítio eletrônico disponibilizado pelo Tribunal de Justiça de São Paulo, verifico que, em 7.10.2021, sobreveio o julgamento colegiado de mérito do HC 2206690-95.2021.8.26.0000, pelo não conhecimento do writ.
+    A superveniência de decisão colegiada de mérito exarada pela Corte Estadual passou constituir novo título, a desafiar nova impetração. Em tal hipótese, a jurisprudência desta Suprema Corte orienta no sentido do prejuízo do writ, porquanto ‘a superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do habeas corpus, faz instaurar situação configuradora de prejudicialidade (RTJ 141/502), justificando-se, em consequência, a extinção anômala do processo’ (HC 83.799-AgR, Rel. Min. Celso de Mello). Ainda, ‘a superveniência do julgamento do mérito do habeas corpus impetrado no tribunal de segundo grau prejudica a análise da impetração (HC 123.431/RJ, Rel. p/ acórdão Min. Roberto Barroso).
+    Ante o exposto, julgo prejudicado o presente habeas corpus (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 15 de outubro de 2021.
+Ministra Rosa Weber
+Relatora
