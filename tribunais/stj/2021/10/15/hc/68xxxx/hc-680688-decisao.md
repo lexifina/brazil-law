@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de VINICIUS SAMUEL MACHADO, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL.
+O paciente foi condenado à pena de 5 anos de reclusão em regime inicial fechado pela prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006 (Processo n. 019/2.14.0011088-7, da 3ª Vara Criminal da comarca de Novo Hamburgo, Apelação n. 0177110-54.2015.8.21.7000 ou 70064917321). A condenação transitou em julgado em 30/11/2015.
+Em 14/7/2021, o impetrante deu entrada no presente writ, sustentando que estão presentes os requisitos legais para o reconhecimento do tráfico privilegiado, uma vez que não há elementos que comprovem a ligação do acusado com organização criminosa. Aduz falta de fundamentação idônea da decisão que justificou o agravamento do regime prisional. Alega risco de contaminação do paciente pelo novo coronavírus (covid-19), em obediência à Recomendação CNJ n. 62/2020.
+Requer, em pedido liminar e no mérito, a concessão da ordem para aplicar a privilegiadora do § 4º do art. 33 da Lei n. 11.343/2006 e o regime correto de cumprimento de pena (semiaberto) (fl. 12).
+O pedido liminar foi indeferido pelo Presidente do Superior Tribunal de Justiça (fls. 50/51).
+Depois de prestadas informações (fls. 57/95), o Ministério Público Federal emitiu parecer (fls. 99/105).
+É o relatório.
+Não tem cabimento este habeas corpus substitutivo de revisão criminal.
+Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR. Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019).
+ ..  1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.  ..
+(HC n. 288.978/SP, Relator p/ o acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+Vale lembrar que a via do habeas corpus não serve para suprir eventuais falhas na interposição de recurso, para que sejam apreciadas alegações trazidas a destempo.
+De todo modo, com relação ao pedido de aplicação da causa especial de redução de pena e de alteração do regime prisional, não verifico a existência de manifesta ilegalidade a justificar a concessão da ordem de ofício.
+De um lado, é cediço que não cabe ampla análise de fatos e provas nos autos de habeas corpus, de cognição sumária, procedimento que seria necessário para afastar a conclusão das instâncias ordinárias de que o contexto dos autos aponta sua dedicação a atividades criminosas  ..  (fl. 13). A Corte estadual levou em conta que, no caso concreto, não há como ser aplicada a causa de redução de pena, porquanto, entre outros aspectos, o acusado não preenche o requisito de não se dedicar às atividades criminosas. Para tanto, basta verificar sua certidão de antecedentes (fls. 129/130) que, embora inexista condenação, revela seu envolvimento em delitos graves - duas tentativas de homicídios qualificados - além de processos por porte ilegal de arma e por tráfico de drogas (fl. 25).
+Sobre o tema, por exemplo, AgRg no AREsp n. 1.570.313/SP, Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 27/2/2020.
+De outro, a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige a indicação de motivação concreta, o que ocorreu no caso dos autos. Houve menção à quantidade e variedade de drogas apreendidas, ao envolvimento do paciente com atividades criminosas, à circunstância de ter sido apreendido também um colete balístico e ao fato de que, na ocasião dos fatos, Vinícius já se encontrava respondendo pela prática de outros três delitos, sendo um deles da mesma espécie, o que denota a sua periculosidade (fl. 29).
+Nessa linha, entre outros, AgRg no AREsp n. 1.787.309/SP, Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 11/6/2021.
+Afora isso, segundo a guia de execução do paciente, ele tem um total de 15 anos e 7 meses a cumprir e teria progredido ao regime semiaberto em 8/6/2021 (PEC n. 0012596-75.2015.8.21.0019). Quer dizer, o exame desse ponto estaria até prejudicado.
+Ante o exposto, não conheço deste habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. SUCEDÂNEO DE REVISÃO CRIMINAL. DROGAS. TRÁFICO. CONDENAÇÃO TRANSITADA EM JULGADO EM 2015. DEDICAÇÃO À ATIVIDADE CRIMINOSA. MATÉRIA FÁTICA. REGIME PRISIONAL. CIRCUNSTÂNCIAS DO CASO CONCRETO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. QUESTÃO PREJUDICADA.
+Habeas corpus não conhecido.
