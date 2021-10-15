@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por Jeisebel Pires de Moraes, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal Regional Federal da 4ª Região nos Embargos Infringentes e de Nulidade na Apelação Criminal n. 5008259-73.2017.4.04.7009/PR (fls. 761/767):
+DIREITO PENAL. CRIME DE MOEDA FALSA. MULTIPLICIDADE DE CONDUTAS EM UM ÚNICO DIA. CONTINUIDADE DELITIVA.
+O indivíduo que comparece em diversos estabelecimentos comerciais com o fito de introduzir em circulação cédulas falsas comete múltiplos crimes tipificados pelo art. 289 e não apenas um. Ainda que as ações se desenvolvam no interregno de um mesmo dia, o fato é que cada conduta é dotada de um elemento volitivo autônomo e, assim, caracterizam nova ação típica, antijurídica e culpável. Continuidade delitiva configurada, forte no art. 71 do CP.
+No presente recurso especial, é indicada a violação do art. 71 do Código Penal.
+Assevera a recorrente que não há crime continuado no delito de moeda falsa quando o agente introduz em circulação notas falsas em oportunidades distintas e num curto espaço de tempo entre uma e outra.  ..  O crime previsto no art. 289 do Código Penal é de ação múltipla, tal como o de tráfico de entorpecentes, e neste não se pune o agente que pratica mais de um dos verbos descritos no caput (v. g. "vender" e "ter em depósito") do art. 33 da Lei n.11.343/2006.  ..  A lógica deve ser a mesma em relação ao crime de moeda falsa. É nesse passo que se percebe da ementa abaixo que se deve afastar o aumento de pena pretendido em detrimento do acusado, uma vez que é da natureza de condutas como a ora em apuração sua eventual delonga no tempo, motivo pelo qual é ilegítima e desproporcional a exacerbação da pena a tal título (fl. 781).
+Destaca, no ponto, que, ao contrário do entendimento do decisório, em curto espaço de tempo, não se pode ter como caracterizada a continuidade delitiva, pois tais eventos, em curto espaço temporal, objetivaram uma unidade de ação tendente a consumação de um único ato, visando apenas, repassar a totalidade do numerário mendaz, não se cuidando de condutas autônomas praticadas em circunstâncias enquadráveis no art. 71 do CP(fl. 782).
+Ao final da peça recursal, requer o afastamento da continuidade delitiva e o reconhecimento de crime único.
+Oferecidas contrarrazões (fls. 792/798), o recurso especial foi admitido na origem (fl. 804).
+O Ministério Público Federal opina pelo não conhecimento e desprovimento da insurgência (fls. 822/829):
+PENAL. PROCESSUAL PENAL. RECURSO ESPECIAL COM FULCRO NA ALÍNEA ""A"" DO PERMISSIVO CONSTITUCIONAL. MOEDA FALSA. PLEITO DEFENSIVO ALEGAÇÃO VIOLAÇÃO AO ARTIGO 71 DO CÓDIGO PENAL. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO Nº. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PARECER PELO NÃO CONHECIMENTO DORECURSO ESPECIAL.
+1. A modificação do entendimento apresentado pela Corte a quo requer a análise do acervo probatório, o que é incompatível com a via do apelo raro. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+2. Em conclusão, o Ministério Público Federal requer o não conhecimento do recurso especial e, caso conhecido, pelo não provimento.
+É o relatório.
+Consta da ementa do combatido aresto que o indivíduo que comparece em diversos estabelecimentos comerciais com o fito de introduzir em circulação cédulas falsas comete múltiplos crimes tipificados pelo art. 289 e não apenas um. Ainda que as ações se desenvolvam no interregno de um mesmo dia, o fato é que cada conduta é dotada de um elemento volitivo autônomo e, assim, caracterizam nova ação típica, antijurídica e culpável. Continuidade delitiva configurada, forte no art. 71 do CP (fl. 766 - grifo nosso).
+Razão não assiste ao recorrente.
+Com efeito, para a jurisprudência desta Corte Superior, demonstrada a ausência de identidade de contexto fático entre as condutas de introduzir moedas em circulação em quatro estabelecimentos comerciais distintos, embora perpetradas em um mesmo dia, impede o reconhecimento de crime único, aplicando-se a regra da continuidade delitiva (AgRg no REsp n. 1.405.268/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 22/8/2016 - grifo nosso).
+A reforçar:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CIRCULAÇÃO DE MOEDA FALSA. CONTINUIDADE DELITIVA RECONHECIDA. LEGALIDADE. PRÁTICA DE MAIS DE UMA CONDUTA DELITUOSA. TRÊS ESTABELECIMENTOS COMERCIAIS DISTINTOS. DIAS SUBSEQUENTES. PRECEDENTES. REGIME FECHADO. PENA INFERIOR A 8 ANOS E SUPERIOR A 4 ANOS. RÉU REINCIDENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Reconhecido pelo Tribunal a quo que o ora agravante, mediante mais de uma ação de introdução de moeda falsa, praticou 3 (três) crimes da mesma espécie (fatos 1, 2 e 3) em estabelecimentos comerciais distintos, dois no dia 14/10/2012 e um no dia 15/10/2012, não há ilegalidade a ser sanada pelo reconhecimento da continuidade delitiva, pois o acórdão se encontra em consonância com o entendimento desta Corte.
+2. Tratando-se de réu reincidente, com pena inferior a 8 anos e superior a 4 anos, a fixação do regime fechado se coaduna com o que estabelece a legislação penal em vigor (art. 33, § 2ª, b, do CP).
+3. Agravo regimental improvido.
+(AgRg no HC n. 500.480/SC, de minha relatoria, Sexta Turma, DJe 3/6/2019 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. MOEDA FALSA. VIOLAÇÃO DO ART. 71 DO CP. PLEITO DE DECOTE DA CONTINUIDADE DELITIVA. MULTIPLICIDADE DE CONDUTAS EM UM MESMO DIA. ESTABELECIMENTOS COMERCIAIS DISTINTOS. INVIABILIDADE DE RECONHECIMENTO DE CRIME ÚNICO. MANUTENÇÃO DA DECISÃO QUE SE IMPÕE. JURISPRUDÊNCIA DO STJ.
+Recurso especial desprovido.
