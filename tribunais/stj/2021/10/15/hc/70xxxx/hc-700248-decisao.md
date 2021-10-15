@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 25):
+Habeas Corpus. Tráfico de drogas. Artigo 33 da Lei nº 11.343/06. Pedido para que o paciente aguarde a tramitação processual em liberdade. Gravidade concreta do delito apta a demonstrar a necessidade da custódia cautelar. Presentes os requisitos da prisão preventiva. Bem fundamentada a decisão que a decretou. Insuficiência e inaplicáveis as medidas cautelares diversas da prisão. Incabível discussão acerca de eventual pena e regime a ser impostos em caso de condenação. Constrangimento ilegal não configurado. Ordem denegada.
+O paciente foi preso em flagrante, convertido em preventiva, como incurso no delito de tráfico de drogas.
+Em síntese, a defesa aduz ausência dos requisitos do art. 312 do CPP, indica condições pessoais favoráveis e aponta o cabimento de medidas cautelares alternativas.
+Busca a imediata concessão da liberdade provisória e sua confirmação no mérito, com subsidiária fixação de medidas cautelares mais brandas.
+Na origem, processo nº1501309-66.2021.8.26.0318, a denúncia foi recebida em 07/10/2021, consoante informações processuais eletrônicas disponíveis na página do TSP em 14/10/2021.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Como cediço, a prisão preventiva (ou o não cabimento da substituição por outra medida cautelar), admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+A prisão preventiva foi assim fundamentada (fl. 16):
+Com efeito, a prova da materialidade vem comprovada pelo auto de prisão em flagrante delito, boletim de ocorrência e depoimentos das testemunhas, auto de exibição e apreensão e laudo de constatação provisória, as quais demonstram a ocorrência do fato criminoso, enquanto que os indícios de autoria estão demonstrados pelos depoimentos das testemunhas juntadas nos autos, de forma que é necessário que o averiguado seja mantido no cárcere para com essa medida a garantia da instrução criminal e aplicação da lei penal.
+A custódia cautelar evitará que o investigado empreenda fuga, bem como resguardará a ordem pública, dado a gravidade em concreto do delito, notadamente em razão da quantidade e espécie de droga apreendida - que possui maior potencial lesivo (117 porções de cocaína), além de petrecho para traficância (400 microtubos plásticos) e considerável quantia em dinheiro (R$ 1498,30), que denota possível habitualidade e dedicação à atividades criminosas, de forma que, em liberdade, poderia retomar a atividade ilícita.
+Como se vê, a custódia preventiva foi decretada com esteio na quantidade e nocividade do entorpecente apreendido, tratando-se de 117 porções de cocaína, perfazendo 15,94g (denúncia às fls. 20-23).
+No caso, não obstante a nocividade do entorpecente em questão, os riscos apontados não demonstram a imperiosidade da custódia, pois a quantidade apreendida não se mostra especialmente relevante.
+Neste contexto, para evitar o risco de reiteração delitiva, suficiente a aplicação de medidas cautelares diversas da prisão, sendo as seguintes (a) apresentação a cada 2 meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade; (b) proibição de mudança de domicílio sem prévia autorização judicial, vinculando o acusado ao processo; e (c) proibição de ter contato pessoal com pessoas envolvidas com o tráfico e outras atividades criminosas, como garantia à instrução e proteção contra a reiteração criminosa.
+Ante o exposto, concedo liminarmente ohabeas corpus a fim de determinar a soltura do paciente, mediante o cumprimento das medidas cautelares acima elencadas.
+Comunique-se.
+Publique-se.
+Intimem-se.
