@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto porCLAUDINE REINALDO CAMPOI E OUTROS contra decisão do Tribunal de origem que inadmitiu o processamento do Recurso Especial.
+O apelo nobre obstado enfrenta acórdão proferido (e-STJ fls. 1.391-1.409).
+No apelo especial (fls. 1.507-1.553), o recorrente alega: a) o acórdão proferido nos embargos de declaração cerceou o direito de defesa dos Apelantes negando vigência ao artigo art. 5% LVI, CRFB e art. 333 - II do CPC., bem como, como deu interpretação divergente a eles, quando rejeitou a produção de provas; b)o v.acordão "sub judice" por entender desnecessário a análise para a caracterização da improbidade da existência ou não do dolo e má intenção do agente, negou vigência ao regramento do artigo 11 e divergiu do entendimento jurisprudencial; e c)Deixou de dosar a aplicação das penalidades, ferindo os princípios da proporcionalidade e razoabilidade, desrespeitando o parágrafo único do artigo 12.
+Com Contrarrazões.
+Decisão de inadmissibilidade às fls. 1.664-1.665, em face da Súmula 7/STJ.
+Neste agravo afirma que inexistem os defeitos formais apontados quando da analise do conhecimento do presente recurso devendo o mesmo ser admitido e provido.
+Sem Contrarrazões.
+Parecer do MPF às fls. 1.768-1.774, pelo não conhecimento do agravo.
+É o relatório. Passo a decidir.
+De início,é pacifico o entendimento desta Corte no sentido de que inexiste cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de provas, além disso, a discussão sobre a necessidade de dilação probatória na espécie implica necessariamente reexame dos fatos e provas delineados nos autos, providência que e vedada em face da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVOS REGIMENTAIS NOS AGRAVOS EM RECURSO ESPECIAL. DISPENSA DE LICITAÇÃO. ILEGALIDADE.ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO SUFICIENTE. ALEGADA IMPOSSIBILIDADE JURÍDICA DO PEDIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO.SÚMULA 284/STF. JULGAMENTO ANTECIPADO DA LIDE. EXISTÊNCIA DE PROVA SUFICIENTE AFIRMADA PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. APONTADA LEGALIDADE DA DISPENSA DE LICITAÇÃO. REEXAME DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+ ..
+3. É inviável rever, em sede de recurso especial, a adequação do julgamento antecipado da lide calcado em suficiência do conjunto probatório, incidindo o óbice da súmula 7/STJ.  ..  (AgRg no AREsp 8407/DF, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 09/04/2014, grifo nosso).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA.IMPROBIDADE ADMINISTRATIVA. LEI DE RESPONSABILIDADE FISCAL.ASSUNÇÃO DE DÍVIDA NOS DOIS ÚLTIMOS QUADRIMESTRE DO MANDATO.ART. 42 DA LC 101/2000. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA NÃO-CONFIGURADO. REEXAME DE PROVAS: SÚMULA 7/STJ.CONFIGURAÇÃO DO ELEMENTO SUBJETIVO.
+1. Não ocorre cerceamento de defesa por julgamento antecipado da lide, quando o julgador ordinário considera suficiente a instrução do processo.
+2. É inadmissível o recurso especial se a análise da pretensão da recorrente demanda o reexame de provas.  ..  (REsp 1252341 / SP. Rel. Min. ELIANA CALMON, SEGUNDA TURMA, DJe 17/09/2013, grifo nosso).
+PROCESSUAL CIVIL. PETIÇÃO ENVIADA POR CORREIO ELETRÔNICO.INTEMPESTIVIDADE. JULGAMENTO ANTECIPADO DA LIDE. REVISÃO.SÚMULA 7/STJ.
+ ..
+2. É inviável a discussão sobre cerceamento de defesa quando o aresto recorrido fundamenta seu convencimento em elementos constantes dos autos do processo, conforme o enunciado da Súmula 7/STJ.  ..  (AgRg nos EDcl no AREsp 111803 / MG, Rel. Min.CASTRO MEIRA, SEGUNDA TURMA, DJe 15/04/2013, grifo nosso).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.IMPROBIDADE ADMINISTRATIVA. JULGAMENTO ANTECIPADO DA LIDE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. PROVA DOCUMENTAL INSUFICIENTE PARA O JULGAMENTO DA DEMANDA. REVISÃO DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A análise quanto à necessidade de dilação probatória, porquanto a prova documental acostada não era suficiente para o julgamento seguro da demanda, implica necessariamente reexame dos fatos e provas delineados nos autos, providência que não encontra espaço na via eleita, nos termos da Súmula 7/STJ.
+2. Agravo regimental não provido. (AgRg no AREsp 222485/RN, Rel. Min. ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe 25/03/2013, grifo nosso).
+No caso dos autos, o recorrente apresentou argumentos dissociados do fundamentoaplicado pelo acórdão recorrido, qual seja, negativa de vigência ao art. 11 da Lei n. 8.429/1992, contudo, o acórdão do Tribunal de origem está fundamentado com base no art. 10 da Lei 8.429/1992.
+A situação não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+Por fim, em relação a desproporcionalidade na aplicação das sanções da Lei 8.429/92, a jurisprudência desta Corte é uníssona no sentido de que a revisão da dosimetria das sanções aplicadas em ações de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, o que esbarra na Súmula 7/STJ, salvo em casos excepcionais, nos quais da leitura do acórdão exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas, o que não é o caso dos autos.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO A PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA. REVISÃO DAS SANÇÕES IMPOSTAS. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte é uníssona no sentido de que a revisão da dosimetria das sanções aplicadas em ações de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, o que esbarra na Súmula 7/STJ, salvo em casos excepcionais, nos quais da leitura do acórdão exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas, o que não é o caso dos autos. Precedentes: AgRg no AREsp 194312 / RN, Rel. Min. Marga Tessler (Juíza Federal Convocada do TRF 4ª Região), Primeira Turma, DJe 17/03/2015, AgRg no AREsp 597359 / MG, Rel. Min. Humberto Martins, Segunda Turma, DJe 22/04/2015.
+2. Agravo regimental não provido (AgRg no REsp 1452792 / SC, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 10/06/2015, grifo nosso).
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. NEPOTISMO. NOMEAÇÃO DE FAMILIARES PARA OCUPAR CARGOS EM COMISSÃO ANTES DA EDIÇÃO DA SÚMULA VINCULANTE 13/STF. DESCUMPRIMENTO DE DEVER LEGAL. VIOLAÇÃO DE PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA. OFENSA AO ART. 11 DA LEI 8.429/1992. DESPROPORCIONALIDADE DAS SANÇÕES. INEXISTÊNCIA.
+ ..
+4. A revisão da dosimetria das sanções aplicadas em ações de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, o que esbarra na Súmula 7/STJ, ressalvados casos excepcionais, nos quais, da leitura dos julgados proferidos na instância ordinária, exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas, o que não ocorre no caso vertente.
+Agravo regimental improvido (AgRg no REsp 1362789 / MG, Rel. Min. Humberto Martins, Segunda Turma, DJe 19/05/2015, grifo nosso).
+Ante o exposto, conheço do agravo para não conhecer o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DILAÇÃO PROBATÓRIA E CERCEAMENTO DE DEFESA.EXISTÊNCIA DE PROVA SUFICIENTE AFIRMADA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.RAZÕES DORECURSO ESPECIAL DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF.DESPROPORCIONALIDADE DAS PENAS. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
