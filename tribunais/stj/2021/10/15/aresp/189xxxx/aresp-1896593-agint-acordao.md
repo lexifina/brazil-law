@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto por ÁGUAS DO PARAÍBA S/Adesafiando a decisão de fls. 730/732, por meio da qual a Presidência desta Corte não conheceu do agravo em recurso especial, pois a parte deixou de impugnar especificamente o fundamento de incidência da Súmula 280/STF.
+A parte agravante, em suas razões, argumenta que seu agravo em recurso especial enfrentou a incidência da Súmula 280/STF. Para fundamentar sua afirmação, procedeu àtranscrição dasalegações de seu agravo em recurso especial.
+O prazo para impugnação transcorreu in albis (fl. 766).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, fundamento adotado pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência da Súmula 182 do STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): De acordo com o art. 1.021, §1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Pois bem, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Dessarte, não se admite a impugnação parcial do julgado (EAREsp701.404/SC e EAREsp 831.326/SP, Relator Ministro Luis Felipe Salomão, DJe de 30/11/2018).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgado e de que haveria concordância com o restante. (AgInt no REsp 1.518.882/SC, Rel. Ministro Sérgio Kukina, DJe 21/2/2019;AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, DJe21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, REPDJe 4/10/2018).
+O entendimento jurisprudencial assim consolidado conta, também, com o aval da autorizada doutrina.
+Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+Com efeito, a parte agravante se limitou, nas razões do agravo em recurso especial, a manifestar genericamente seu inconformismo com a aplicação da Súmula 280/STF, nestes termos (fl. 682):
+Conforme destacado alhures, constou na decisão de inadmissão proferida pela Ilustre Terceira Vice-Presidente que o Recurso Especial não merecia admissão em razão do óbice da Súmula 7 do STJ, na medida em que os julgadores fixaram o seu entendimento sobre o tema a partir da análise tático-probatória dos autos, e que a ora Agravante pretendeu com seu Recurso Especial, por via transversa, a revisão da matéria de fato, além de esbarrar na Súmula 280 do STF, tendo em vista alegação de afronta a direito local.
+ ..
+D.m.v, a r. decisão lançada pela nobre Terceira Vice - Presidente não coaduna com as verdadeiras questões de direito trazidas à lume pela Agravante em seu Recurso Especial, e que, d.m.v., caso fossem corretamente apreciadas na oportunidade do juízo de admissibilidade, certamente teria havido a sua admissão com o seu regular prosseguimento ao Superior Tribunal de Justiça, o que ora se requer.
+ ..
+Nota-se, nobres julgadores, por tudo até aqui exposto, que a Agravante não pretende a reanálise de questões tático - probatórias no seu Recurso Especial, inexistindo óbice quanto a Súmula 7 do STJ ou 280 do STF in casu, além de pretender tão somente que a legislação pertinente seja devidamente aplicada.
+Destarte, verifica-se que a parte agravante, embora tenha manifestadodescontentamento com a aplicação doreferido verbetesumular, realizouimpugnação genérica, revelando um inconformismo desprovido defundamentação, cuja argumentação se limita a negar as conclusões dodecisum, sem elaborar raciocínio capaz de justificar o porquê de suairresignação no caso concreto.
+Assim, o agravo deixou de rebater, de modo específico, todos osfundamentos adotados pelo juízo negativo de admissibilidade do apelonobre.Nesse panorama, escorreita a decisão agravada ao entender como aplicável àespécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC quedeixa de atacar especificamente os fundamentos da decisão recorrida.").
+Nessa linha de percepção:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO QUE INADMITIU AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. SÚMULA 182/STJ.
+1. O Tribunal de origem inadmitiu o Recurso Especial, ante a incidência das Súmulas 280/STF e 7/STJ e a ausência de comprovação da divergência jurisprudencial.
+2. Nas razões do Agravo, a parte deixou de atacar, de forma específica, a decisão recorrida no que se refere à incidência da Súmula 280/STF e da Súmula 7/STJ, limitando-se a afirmar, de forma genérica, que o Recurso Especial não encontra qualquer óbice na Súmula 7 STJ, e Súmula 280 STF, tendo em vista que para conceder a prestação jurisdicional deduzida o STJ não terá de revolver matéria fática.3. Conforme a jurisprudência do STJ,  a alegação genérica de que o acolhimento das razões recursais depende de mero reenquadramento jurídico dos fatos arrolados não atende à necessária dialeticidade recursal, atraindo a incidência da Súmula 182/STJ(AgInt no REsp 1.547.246/CE, Rel. Min. Og Fernandes, Segunda Turma, DJe 20.5.2021).
+Precedentes.
+4. Mantido o óbice da Súmula 7/STJ, fica prejudicada a interposição com base na alínea cdo permissivo constitucional. De qualquer forma, o Recurso Especial não poderia ser admitido nesse ponto.
+Primeiramente, porque foram apresentados acórdãos divergentes de órgãos de um mesmo Tribunal, o que atrai o óbice da Súmula 13/STJ:  A divergência entre julgados do mesmo Tribunal não enseja recurso especial.  Depois, porque não se demonstrou similitude fática entre a decisão recorrida e os julgados paradigmas do Superior Tribunal de Justiça, que tratam da impossibilidade de retroação de nova lei que confere menor proteção ao meio ambiente, em virtude do princípio da proibição do retrocesso ambiental.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1877725/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/08/2021, DJe 31/08/2021)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
