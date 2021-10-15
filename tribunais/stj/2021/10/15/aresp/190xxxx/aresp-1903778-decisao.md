@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto em face da decisão que negou seguimento ao recurso especial ajuizado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE BUSCA E APREENSÃO -ALIENAÇÃO FIDUCIÁRIA - LIMINAR DEFERIDA - MORA CONSTITUÍDA - NOTIFICAÇÃOENTREGUE NO ENDEREÇO INDICADO NO CONTRATO - DECISÃO MANTIDA - RECURSO DESPROVIDO. Conforme o entendimento da jurisprudência deste Tribunal, o envio de notificação extrajudicial ao endereço constante do contrato com retorno por motivo "ausente" e posterior protesto do título em Cartório, autoriza a comprovação da mora.
+A parte agravante sustenta quea mora deve necessariamente ser comprovada no ato da propositura da ação de busca e apreensão, que é uma ação de procedimento especial, logo, exige-se a constituição em mora por carta registrada com aviso de recebimento contendo assinatura do próprio devedor ou até mesmo um terceiro recebedor da notificação, em consonância com o Art. 2º, § 2º do Decreto-Lei n. 911/69.
+A jurisprudência do STJ pacificou-se no sentido de que a mora do devedor, nos casos de ação de busca e apreensão com base no inadimplemento de contrato de financiamento com cláusula de alienação fiduciária, será comprovada pela notificação extrajudicial no endereço indicado no contrato, recebido pelo devedor ou por terceiro, ou pelo protesto do título:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL REALIZADA NO ENDEREÇO CONTRATUAL DO DEVEDOR. MORA COMPROVADA. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Conforme entendimento firmado no âmbito da Quarta Turma do STJ, "a demonstração da mora em alienação fiduciária ou leasing - para ensejar, respectivamente, o ajuizamento de ação de busca e apreensão ou de reintegração de posse - pode ser feita mediante protesto, por carta registrada expedida por intermédio do cartório de títulos ou documentos, ou por simples carta registrada com aviso de recebimento - em nenhuma hipótese, exige-se que a assinatura do aviso de recebimento seja do próprio destinatário" (REsp 1.292.182/SC, Rel.
+Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/09/2016, DJe de 16/11/2016).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1884358/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. ALIENAÇÃO FIDUCIÁRIA.
+BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA DO DEVEDOR. NECESSIDADE.
+1. Não se conhece de agravo regimental interposto em duplicidade em razão do princípio da unirrecorribilidade das decisões e da preclusão consumativa.
+2. É firme a jurisprudência desta Corte no sentido de que, nos contratos de alienação fiduciária, para que ocorra a busca e apreensão do bem, a mora do devedor deve ser comprovada pelo protesto do título ou pela notificação extrajudicial, sendo necessária, nesse último caso, a efetiva entrega da notificação no endereço indicado pelo devedor.
+3. Agravo regimental não provido.
+(AgRg no AREsp 564.262/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 09/05/2016)
+No caso dos autos, a Corte de origem asseverou que foram esgotadas as tentativas para proceder ànotificação do devedor, antes do protesto do título, a qual não se efetuou por recusa de recebimento, inverbis:
+No caso, verifica-se que o banco agravado encaminhou notificação extrajudicial ao endereço informado pela devedora no contrato, todavia, a correspondência foi devolvida ao remetente pelo motivo "ausente" (Id. 23775381 - pág. 3, Id. 23775385 - pág. 3 -autos de origem). Consta dos autos ainda há informação emitida pelos Correios que, por diversas vezes, a entrega da correspondência não pode efetuada porque o Carteiro não foi atendido, "o cliente se recusou a receber".
+Há informações de tentativas entrega pelo Carteiro, que não foi atendido pelo destinatário, nas datas 23.05.2019, 27.05.2019, 29.05.2019, 23.07.2019, 25.07.2019,29.07.2019, 31.08.2019, 03.09.2019 (Id. 23775380 - pág. 3, Id. 23775381 - pág. 2, Id. 23775385 -Pág. 2- autos de origem).
+Cumpre registrar, por oportuno, que no caso concreto não se trata de mudança de endereço do devedor, ou sobre entrega da notificação a terceiros.
+Dessa maneira, o Banco agravado, antes do ajuizamento da ação, realizou protesto da dívida perante o Cartório de Protestos de Cuiabá 4º Ofício, em 18.08.2019 (Id. 23775386 - pág. 1).
+Nota-se, assim, que foram esgotados os meios de localização do devedor, porquanto o protesto estava autorizado.
+A conclusão do Tribunal revisor atinente à regularidade do protesto foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos em face da gratuidade de Justiça.
+Intimem-se.
