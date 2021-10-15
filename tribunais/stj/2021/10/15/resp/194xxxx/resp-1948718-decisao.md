@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGUROSOCIAL - INSS, com fundamento nas alínea a do inciso III do art. 105 daConstituição Federal, contra acórdão proferido pelo Tribunal RegionalFederal da 3ª Região, assim ementado (fl. 178):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO. ART. 557, § 1º, DO CPC/1973. DECISÃO MONOCRÁTICA. APOSENTADORIA ESPECIAL. DESPROVIMENTO.
+- A apreciação do agravo ao lume das disposições constantes do CPC/1973, tendo em conta que sua interposição operou-se sob a égide daquele diploma legal.
+- Não se desconhece o debate, na jurisprudência, acerca da natureza do ofício de tratorista. Parte da jurisprudência considera urbano semelhante mister, ao passo que outros julgadores preferem reputá-lo de índole rural.
+- Comungamos do entendimento no sentido de que mais adequado seria atentar às especificidades de cada caso concreto, a bem de avaliar, detidamente, a possibilidade de configuração de início de prova material de afazer campesino.
+.- No caso dos autos, em especial diante do local da prestação dos serviços e da própria nomenclatura utilizada na definição de atividade do autor, não soa demasiado compreender como rurícola a função de tratorista.
+- Resulta evidenciada a presença, in casu, de princípios de prova documental do labor rural, contemporâneos ao lapso reclamado ao deferimento da benesse (agosto/2001 a agosto/2016).
+- Agravo improvido.
+Opostos embargos de declaração, foram rejeitados (fl. 222)
+Aponta o recorrente violação aos arts. 1.022, I, do CPC, 39, I, 55, § 3º, 108, 142 e 143 da Lei 8.213/91, sustentando, além de negativa de prestação jurisdicional, queafunçãodetratorista é considerada urbana, apesar de ser desempenhada no meio rural, desta forma não restou comprovado o exercício de atividade rural, em regime de economia familiar, razão pela qual, não faz jus a parte autora ao benefício de aposentadoria rural por idade.
+Alega que"a prova coligida não se mostra suficientemente coesa a demonstrar o exercício de atividade rural da parte autora, ainda que de forma descontínua, em número de meses idêntico à carência do benefício, no período imediatamente anterior ao requerimento do benefício.." (fl.226).
+Afirma que os "documentos ATESTAM O EXERCÍCIO DE ATIVIDADE URBANA PELA PARTE AUTORA, como TRATORISTA" (fl. 226).
+Aduz que "O conceito técnico de atividade rural diverge do conceito leigo, pois para o leigo, rural é toda atividade exercida no "campo", incluindo motoristas e operadores de trator. Ocorre, no entanto, que as atividades de motorista ou tratorista, mesmo que exercidas em área rural, são consideradas atividades de natureza urbana.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+De início, verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC, namedida em que o Tribunal de origem dirimiu, fundamentadamente, as questõesque lhe foram submetidas e apreciou integralmente a controvérsia posta nosautos, não se podendo, de acordo com a jurisprudência do SuperiorTribunal de Justiça, confundir julgamento desfavorávelao interesse daparte com negativa ou ausênciade prestação jurisdicional (AgInt noAREsp 1678312/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em22/03/2021, DJe 13/04/2021)
+A tanto, verifica-se, pela fundamentação do acórdão recorrido, integradaem embargos declaratórios, que o Tribunal de origem motivou adequadamentesua decisão e solucionou a controvérsia com a aplicação do direito queentendeu cabível à hipótese. Outrossim, não se descortina negativa deprestação jurisdicional, ao tão só argumentode o acórdão recorrido terdecidido em sentido contrário à pretensão da parte.
+Frise-se, mais,que o Tribunal não fica obrigado a examinar todos osartigos de lei invocados no recurso, desde que decida a matériaquestionada sob fundamento suficiente para sustentar a manifestaçãojurisdicional, tornando dispensável a análise dos dispositivos que pareçampara a parte significativos, mas que para o julgador, senão irrelevantes,constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OMISSÃO. INEXISTÊNCIA. CONVERSÃO DETEMPO COMUM PARA ESPECIAL. TRATORISTA. ENQUADRAMENTO POR ANALOGIA.POSSIBILIDADE. ROL DE ATIVIDADES ESPECIAIS MERAMENTE EXEMPLIFICATIVO.
+1. Na hipótese dos autos, não se configura a ofensa ao art. 1022 do Códigode Processo Civil, uma vez que o Tribunal de origem julgou integralmente alide e solucionou a controvérsia, em conformidade com o que lhe foiapresentado, manifestando-se de forma expressa sobre a especialidade dasatividades desenvolvidas pela parte recorrida, de forma a justificar aconcessão do benefício pleiteado, estabelecendo que a atividade detratorista pode ser equiparada à de motorista de caminhão.
+2. No que diz respeito à atividade de tratorista, ajurisprudência do STJentende que o rol de atividades consideradas prejudiciais à saúde ou àintegridade física descritas pelos Decretos 53.831/1964, 83.080/1979 e2.172/1997 é meramente exemplificativo, e não taxativo, sendo admissível,portanto, que atividades não elencadas no referido rol sejam reconhecidascomo especiais, desde que a situação seja devidamente demonstrada no casoconcreto.
+3. Outrossim, extrai-se do acórdão objurgado que o acolhimento dapretensão recursal demanda reexame do contexto fático probatório, mormentepara avaliar se estão presentes os requisitos para a concessão dobenefício pleiteado, o que não se admite ante o óbice da Súmula 7/STJ.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.691.018/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe de11/10/2017)
+Quanto à questão de fundo, o Tribunal de origem, concluiu que a função detratorista desenvolvida em estabelecimento agrícola, pode ser considerado como exercício de atividade rural. É o que se infere do seguinte trecho extraído do acórdão recorrido (fls. 174/176):
+Não se desconhece o debate, na jurisprudência, acerca da natureza do ofício de tratorista.
+Parte da jurisprudência considera urbano semelhante mister, ao passo que outros julgadores preferem reputá-lo de índole rural.
+Comungamos do entendimento no sentido de que mais adequado seria atentar às especificidades de cada caso concreto, a bem de avaliar, detidamente, a possibilidade de configuração de início de prova material de afazer campesino.
+É, exatamente, o que sucede no caso em tela. Penso que, na particularidade da espécie, em especial diante do local da prestação dos serviços e da própria nomenclatura utilizada na definição de atividade do autor, não soa demasiado compreender como rurícola a função de tratorista.
+Deveras, haure-se das anotações de vínculo empregatício na CTPS (fl. 35) que o autor trabalhou para "Eli Donisete Cardoso e Outros" e "Ricardo Titolo Neto e Outros" na função de tratorista, sob o código 6410-15 - trabalhadores da mecanização agrícola.
+Ora, há de se salientar a natureza rural da função de tratorista exercida em estabelecimento agrícola, conforme descrito na Classificação Brasileira de Ocupações do Ministério do Trabalho e Emprego:
+(..).
+Assim, resulta evidenciada a presença, in casu,de princípios de prova documental do labor rural, contemporâneos ao lapso reclamado ao deferimento da benesse (agosto/2001 a agosto/2016).
+Nesse contexto,nota-se que a alteração das conclusões adotadas pela Cortede origem, acerca da avaliação da natureza da empresa e dos serviçosprestados pelo ora recorrido, se rural ou urbano,tal como colocada a questão nas razões recursais, demandaria,necessariamente, novo exame do acervo fático-probatório constante dosautos, providência vedada em recurso especial, conforme o óbice previstona Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSOESPECIAL. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. NÃO-OCORRÊNCIA.CONTRIBUIÇÕES PREVIDENCIÁRIAS DEVIDAS PELO EMPREGADOR RURAL NO REGIMEANTERIOR À LEI 8.212/1991. TRABALHADORES QUE NÃO EXERCEM ATIVIDADE RURAL.ENCARGOS DEVIDOS À PREVIDÊNCIA URBANA. PEDREIRO. ATIVIDADE ESSENCIALMENTEURBANA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA7/STJ.
+1. Constatado que a Corte de origem empregou fundamentação adequada esuficiente para dirimir a controvérsia, é de se afastar a alegada violaçãodos arts. 458 e 535 do CPC.
+2. No regime anterior à Lei 8.212/1991, o empregado de empresa rural queprestasse serviços eminentemente urbanos estaria sujeito ao regimeprevidenciário urbano. Considera-se, para vinculação a este, a natureza daatividade efetivamente desempenhada pelo empregado, e não a de seuempregador.
+3. Desse modo, o empregador, mesmo que caracterizado como rural,sujeitava-se também aos encargos sociais da previdência urbana, em relaçãoaos trabalhadores que prestavam serviços desta natureza.Precedentes do STJ.
+4. Na hipótese dos autos, o Tribunal de origem reconheceu a validade daNFLD por tratar-se de empregado (pedreiro), cuja atividade éessencialmente urbana. A revisão das conclusões do acórdão recorridodemandaria revolvimento fático-probatório, vedado pelo enunciado da Súmula7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 277.317/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRATURMA, julgado em 13/08/2013, DJe 21/08/2013)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
