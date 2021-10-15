@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se  de  recurso  ordinário  em  habeas  corpus  com  pedido  liminar  interposto  por  LEONARDO  RAFAEL  BRIZOLA  contra  acórdão  prolatado  pelo  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO  RIO  GRANDE  DO  SUL  (HC  n.  5052530-51.2021.8.21.7000).
+Depreende-se  dos  autos  que  o  recorrente  foi  preso  em  flagrante,  custódia  essa  posteriormente  convertida  em  preventiva,  pela  suposta  prática  dos  delitos  de  tráfico  de  drogas  e  de  associação  para  o  mesmo  fim  (arts.  33  e  35,  ambos  da  Lei  n.  11.343/2006),  tendo  em  vista  a  apreensão  de,  aproximadamente,  2g  (dois  gramas)  de  crack  e  76g  (setenta  e  seis  gramas)  de  cocaína  (e-STJ  fl.  47).
+Buscando  a  reversão  do  cárcere,  a  defesa  impetrou  habeas  corpus  no  Tribunal  de  origem.  A  Corte  estadual,  por  maioria,  denegou  a  ordem,  em  acórdão  assim  ementado  (e-STJ  fl.  44):
+HABEAS  CORPUS.  TRÁFICO  DE  ENTORPECENTES.  PRISÃO  PREVENTIVA.  MEDIDA  QUE  SE  IMPÕE.  DETENÇÃO  PROVISÓRIA  MANTIDA.
+Mantém-se  a  prisão  preventiva  motivada  na  garantia  da  ordem  pública.  O  paciente  foi  preso  em  flagrante  com  comparsa  e  na  posse  de  variada  e  quantidade  de  entorpecentes.  Inclusive,  destacou-se  que  o  paciente  foi  detido  no  momento  que  vendia  droga  a  usuário.
+Como  é  consabido,  o  tráfico  de  entorpecentes  e  seus  autores,  direta  ou  indiretamente,  são  os  responsáveis  pela  quase  totalidade  da  violência  que  se  vem  alastrando  de  maneira  incontrolável  pelo  País,  alarmando  e  intranquilizando  toda  a  população.
+Os  traficantes,  seja  qual  o  seu  "status"  na  organização,  são  pessoas  perigosas,  porque,  além  de  disseminarem  a  droga,  atuam  como  o  "exército"  do  traficante  maior,  agindo  com  violência  contra  rivais,  usuários-devedores,  testemunhas  etc.  A  traficância  também  tumultua  a  ordem  pública,  porque  leva  os  usuários  a  cometimento  de  outros  delitos,  em  particular  os  crimes  contra  o  patrimônio,  para  obterem  bens  que  lhes  permitam  a  compra  de  entorpecentes.  Portanto,  é  de  se  manter  a  prisão  provisória  do  paciente  para  garantia  da  ordem  pública.
+Habeas  corpus  denegado.
+Nesta  instância,  a  defesa  alega  carência  de  fundamentação  idônea  a  amparar  a  segregação  provisória  do  recorrente,  destacando  a  pequena  quantidade  de  entorpecentes  apreendidos  e  a  existência  de  voto  vencido  na  origem.
+Assim,  requer,  liminarmente,  a  revogação  da  prisão  ora  objurgada,  até  mesmo  mediante  a  aplicação  de  algumas  das  medidas  previstas  no  art.  319  do  Código  de  Processo  Penal.
+O pedido de liminar foi deferido, a  fim  de  determinar  que  o  recorrente  aguardasse  o  julgamento  definitivo  do  presente  processo,  se  por  outro  motivo  não  estivesse  preso,  em  medidas  cautelares  alternativas  a  serem  fixadas  pelo  Juízo  de  primeiro  grau.
+Prestadas as informações pelas instâncias ordinárias, o Ministério Público Federal opinou pela prejudicialidadedo recurso.
+É o relatório.
+Decido.
+Pois bem. Como apontado pelo Parquet Federal em seu parecer, "as informações prestadas pelo juízode primeiro grau à e-STJ fl. 119 dão conta do deferimento do pedido na data de12.05.2021, mediante o cumprimento de outras cautelares"(e-STJ fl. 126).
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso,tornando sem efeitoa liminar anteriormente deferida (e-STJ fls. 84/87).
+Publique-se. Intimem-se.
