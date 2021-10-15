@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Município de Sorocaba contra decisão que deu provimento ao agravo em recurso especial manejado por Pedra Marcelina do Nascimento, para reformar o acórdão recorrido, a fim de não conhecer do recurso de apelação interposto pelo ente municipal, em razão do entendimento jurisprudencial deste Superior Tribunal de que a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser atacada através de Apelação, enquanto aquela que julga o mesmo incidente, sem extinguir a fase executiva, deve ser atacada por meio de Agravo de Instrumento, bem como que, em ambas as hipóteses, não é aplicável o princípio da fungibilidade recursal (fls. 1.110/1.112).
+Inconformada, a parte agravante afirma que a apelação não foi interposta em sede de decisão que resolveu a impugnação ao cumprimento de sentença tal qual consignado na decisão ora agravada, mas sim em face de sentença que julgou os embargos à execução, sendo portanto, a apelação o recurso cabível e, por conseguinte, não há que se falar em erro grosseiro na interposição deste (fl. 1.117).
+Menciona o art. 920, III do CPC, asseverando que o caso dos autos possui uma peculiaridade. Não se trata de impugnação ao cumprimento de sentença, mas sim de embargos à execução, cuja natureza é de uma ação autônoma. Assim sendo, o recurso cabível contra o julgado que resolve esses embargos é a apelação (fl. 1.119).
+Requer a revisão do julgado que deu provimento ao recurso especial, requerendo-se a admissão deste Agravo interno para que ele seja julgado pela douta Turma julgadora, dando-se provimento ao presente agravo para desprover o recurso especial anteriormente interposto (fl. 1.120).
+A parte agravada não apresentou impugnação (fl. 1.124).
+É o relatório.
+Em face das razões lançadas às fls. 1.115/1.121, reconsidero a decisão de fls. 1.110/1.112, tornando-a sem efeito.
+Após, retornem os autos conclusos para novo exame do agravo em recurso especial de fls. 1.053/1.069.
+Publique-se.
