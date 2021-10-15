@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão proferida às fls. 5.485-5.487, na qual neguei provimento ao agravo em recurso especial interposto pela parte ora recorrente.
+A parte agravante alega que não incide a Súmula 7 desta Corte no presente caso. Afirma que houve negativa de prestação jurisdicional na hipótese dos autos, apontando que "a ofensa ao artigo 489, § 1º, IV do CPC, inclusive, denota desdobramento, haja vista que a tese aventada pela Agravante tem como pressuposto a necessária apuração individual das condutas do Agravado e do seu cliente e, por conseguinte, de sua repercussão na condenação imposta na esfera trabalhista, situação esta que somente poderá ser aquilatada mediante a realização de prova técnica pericial" (fl. 5.495)
+Argumenta que "a decisão monocrática, ora agravada, deve ser reformada, pois evidente a ausência de prestação jurisdicional e a ofensa a legislação processual indicada nas razões recursais, na medida em que subsistentes tais vícios, pois a questão fática, apta a justificar a produção da prova técnica, deixou de ser analisada em sua integralidade pelo Tribunal estadual, sendo insuficiente a sua motivação, no sentido de que o prejuízo material encontra-se quantificado nos autos" (fl. 5.494).
+Sustenta que "Ao deixar o Agravado transcorrer in albis o prazo para apresentação de sua própria defesa (tanto na fase de conhecimento quanto na de impugnação ao cumprimento de sentença), evidente que tal conduta também se mostra passível de apuração de prova técnica pericial, haja vista que poderia ser efetuado um prognóstico de sucesso na demanda ressarcitória para, ao menos, minorar o montante exequendo" (fl. 5.496).
+Foi apresentada impugnação pela parte agravada (fls. 5.526-5.548), requerendo seja aplicada a multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 e pedindo a condenação da parte agravante a arcar com os consectários legais decorrentes de sua inarredável sucumbência, inclusive honorários advocatícios para essa fase processual (art. 85, § 11, do CPC).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REVISÃO DO JULGADO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão adotada na decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Anoto, preliminarmente, que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015.
+O Tribunal local enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece reparo algum. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Com efeito, o Tribunal estadual deixou registrados os seguintes fundamentos (fls. 5.288-5.289):
+Com efeito, a hipótese é de ação de indenização, em que a autora busca o recebimento do seguro contratado para cobertura de prejuízos decorrentes de falhas na prestação de serviços advocatícios. Conforme narrado na inicial, houve perda de prazo para a apresentação de contestação na reclamação trabalhista movida em face da cliente da parte agravada, culminando com a decretação da revelia.
+À vista disso, a agravada respondeu à ação de reparação de danos movida pela referida cliente, tendo sido condenada ao pagamento do valor de R$1.045.490,63, do qual uma parte foi bloqueada em sua conta bancária, e outra parte depositada em juízo.
+Neste contexto, entendo ser desnecessária a realização de perícia técnica, porquanto o valor do prejuízo suportado pela cliente da agravada foi delimitado na ação de reparação de danos acima mencionada, não havendo que se falar em nova apuração de valores, mas, tão somente, em atualização do débito, na hipótese de procedência do pedido, devendo ser observado, ainda, a limitação ao valor da apólice.
+Nesse contexto, o Tribunal de origem entendeu ser desnecessária a realização de perícia técnica, no presente caso, com base no exame do conjunto probatório disposto nos autos. Assim, o reexame dessa questão esbarra no óbice de que trata o verbete n. 7 da Súmula desta Casa.
+Nesse sentido, não trazendo a parte agravante fundamentos capazes de infirmar a decisão agravada, deve ela prevalecer.
+Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 18/12/2017).
+Indefiro, também, o pedido de majoração dos honorários advocatícios, pois, à luz do contido no art. 85, § 11, do CPC/2015, não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição, nos moldes do enunciado 16, da ENFAM (AgInt no REsp 1.286.173/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 22/9/2016).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
