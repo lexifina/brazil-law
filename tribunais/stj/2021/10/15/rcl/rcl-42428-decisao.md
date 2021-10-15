@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de reclamação,com pedidoliminar,ajuizada em favor de DIMITAR MINCHEV DRAGNEV, contra suposta omissão do eg. Tribunal Regional Federal da 3ª Região no cumprimento de julgado desta eg. Corte Superior.
+No presente pleito, sustenta o reclamante que, mesmo após a concessão da ordem no HC n. 362.616/SP, com a devida notificação da autoridade antes indigitada de coatora, não teria se dado cumprimento ao determinado.
+Alega que, após mais de 5 anos da concessão da ordem, ainda constaria, na guia de recolhimento expedida pela Justiça Federal, a condenação que deveria ter sido excluída (ação penal nº 0000118-57.2008.403.61.81).
+Requer, inclusive LIMINARMENTE, seja "expedido comunicado ao d. Juízo da Vara das Execuções Criminais da Comarca de Avaré para determinar o cumprimento da determinação exarada por esta Colenda Corte e, após prestadas informações pelo D. Juízo Reclamado, seja dado provimento à presente reclamação, como medida de justiça" (fl. 4, grifei).
+É o relatório.
+Decido.
+Conforme se extrai dos autos, a d. Defesa já provocou o Juízo a quo para que se pronuncie acerca da suposta negativa de observância da competência desta eg. Corte Superior.
+Disso, o que se constataé que o referido Juízo não manifestou deliberada vontade de descumprir a ordem antes emanada deste Superior Tribunal de Justiça, pelo contrário, em 26/9/2021,se mostrou disposto a sanar o equívocoe consignou que "Para que seja efetuada a ordem do referido writ, há necessidade de seu inteiro teor e de seu trânsito em julgado. Ademais, será necessária a Guia de Recolhimento referente ao Estado do Paraná, a fim de regularizarmos a situação processual do réu" (fl. 53, grifei).
+Corroborando, ainda mencionou que: "somente com a regularização processual do réu, ou seja, o cálculo de penas efetuado com todas as condenações corretas, é que poderemos efetuar os cálculos, para aferir se o réu possui ou não requisitos objetivos e subjetivos, de acordo com cada Decreto" (fl. 53, grifei).
+Nem se olvide que, embora tenham se passado 5 anos do julgamento doHC n. 362.616/SP, o reclamante já era patrocinado pela mesma banca de advogados nesta ação (fl. 31), mas, somente agora,se insurgiuna origem.
+Nesse passo, "Não existindo descumprimento de decisão judicial emanada desta Corte identificável em um juízo perfunctório, a reclamação não preenche todos os requisitos processuais necessários para o seu conhecimento, carecendo de interesse processual, na modalidade "adequação", o que autoriza a sua extinção sem resolução de mérito"(AgRg na Rcl 42.178/MG, Terceira Seção,Rel. Min. Reynaldo Soares da Fonseca, DJe 13/9/2021, grifei).
+Por todo o exposto, indefiro liminarmente a reclamação, por falta de seus pressupostos (art. 988, II, do Código de Processo Civil).
+Contudo, diante do manifestado pelo d. Juízo a quo e com a finalidade de agilizar o processo de correção do erro material, determino que a Secretaria encaminhecópiado acórdão de julgamento do HC n. 362.616/SP,de sua certidão de julgamento e de sua certificação do trânsito em julgado, àVara das Execuções Criminais da Comarca de Avaré/SP, para que proceda à retificação solicitada pela d. Defesa, assim como ao recálculo da pena e dos benefícios, com recomendação de celeridade.
+Intime-se, com urgência, o d. Juízo daVara das Execuções Criminais da Comarca de Avaré/SP, o eg. Tribunal Regional Federal da 3ª Região e sua Corregedoria, para que acompanhe as diligências.
+Dê-se vista ao d. Ministério Público Federal.
+P. I.
