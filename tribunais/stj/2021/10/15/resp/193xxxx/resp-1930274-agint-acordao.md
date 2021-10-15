@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por LENITA THEISGES contra decisão unipessoal que conheceu parcialmente do recurso especial que interpusera e, nessa extensão, negou-lhe provimento.
+Ação: de cobrança, ajuizada pela agravante, em desfavor de BRADESCO VIDA E PREVIDÊNCIA S/A, por meio da qual objetiva a condenação deste ao pagamento de indenização prevista em seguro de vida em grupo para o caso de invalidez permanente.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PRETENSÃO DEDUZIDA PELA SEGURADA. DOENÇA LABORAL INCAPACITANTE. QUADRO SEVERO DE VARIZES. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DA DEMANDANTE.
+PRELIMINARES DE NULIDADE DO DECISUM POR CERCEAMENTO DE DEFESA. DEFENDIDA A NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. ANÁLISE DA PREFACIAL PREJUDICADA ANTE A AUSÊNCIA DE COBERTURA CONTRATUAL DE MOLÉSTIA PROFISSIONAL.
+ALEGAÇÃO DE EXISTÊNCIA DE COBERTURA. ARGUMENTAÇÃO INACOLHIDA. INOCORRÊNCIA DE ACIDENTE DE TRABALHO TÍPICO PATENTEADO NA PRÓPRIA CAUSA DE PEDIR REMOTA. SEQUELAS DERIVADAS DE DOENÇA OCUPACIONAL. GARANTIA EXPRESSAMENTE EXCLUÍDA NO CONTRATO. EQUIPARAÇÃO DA MOLÉSTIA CAUSADORA DA INCAPACIDADE A ACIDENTE DE TRABALHO. INVIABILIDADE. PREVISÃO CONTIDA NO ART. 19, CAPUT, DA LEI N. 8.213/91 RELATIVA ÀS LIDES PREVIDENCIÁRIAS QUE NÃO SE APLICA ÀS RELAÇÕES DE DIREITO PRIVADO. PRECEDENTES DESTA CORTE DE JUSTIÇA. LIBERDADE DE CONTRATAR. COMPLEXIDADE DO SISTEMA SECURITÁRIO. MUTUALIDADE. INVIABILIDADE DE INTERPRETAÇÃO AMPLIATIVA DAS COBERTURAS CONTRATADAS. DOENÇA LABORAL ALEGADA QUE POR GERAR INCAPACIDADE PARCIAL IGUALMENTE NÃO SE AJUSTA À COBERTURA POR INVALIDEZ FUNCIONAL PERMANENTE POR DOENÇA. GARANTIA QUE PELA SUA NATUREZA CARACTERIZA-SE TÃO SÓ NA HIPÓTESE DE QUADRO CLÍNICO IRREVERSÍVEL QUE INVIABILIZE O EXERCÍCIO DAS RELAÇÕES AUTONÔMICAS DO SEGURADO, SERVINDO COMO ANTECIPAÇÃO DA COBERTURA PARA O EVENTO MORTE. INVOCAÇÃO DA INTERPRETAÇÃO FAVORÁVEL AO CONSUMIDOR, NOS MOLDES DOS ARTS. 47 E 51, AMBOS DA LEI N. 8.078/90. INEXISTÊNCIA DE ABUSIVIDADE. NÃO RECONHECIMENTO DA NULIDADE DE PLENO DIREITO DAS CLÁUSULAS ATACADAS. PRECEITOS CONSUMERISTAS QUE NÃO POSSUEM O CONDÃO DE CRIAR OU AMPLIAR COBERTURAS, NOTADAMENTE QUANDO INEXISTE DÚVIDA ACERCA DA AUSÊNCIA DO DIREITO RECLAMADO. PACTO DE NATUREZA EMINENTEMENTE CIVIL QUE NÃO SE CONFUNDE COM AMPARO DE ÍNDOLE PREVIDENCIÁRIA. INVIABILIDADE NAS RELAÇÕES DE CUNHO SECURITÁRIO.
+VIOLAÇÃO DO DEVER DE TRANSPARÊNCIA E DE INFORMAÇÃO. INOCORRÊNCIA. CIENTIFICAÇÃO DOS COMPONENTES DO GRUPO SEGURADO VIA ESTIPULANTE DE ACORDO COM AS NORMAS DE REGÊNCIA. EQUIPARAÇÃO DA ESTIPULANTE AO PRÓPRIO SEGURADO. ATUAÇÃO QUE EQUIVALE A MANDATÁRIO DO INTERESSADO. SENTENÇA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO (e-STJ fls. 368-369).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 6º, III, IV, 14, 25, § 1º, § 2º, 34, 37, § 1º, § 3º, 46, 47, 51, I, III, e 54, § 3º, § 4º, do CDC. Sustenta que, em se tratando de seguro de vida em grupo, a seguradora e a estipulante são solidariamente responsáveis pela prestação de informações claras e adequadas ao segurado sobre as características do contrato de seguro previamente à contratação. Afirma que é objetiva e solidária a responsabilidade de todos os agentes envolvidos na atividade de colocação do produto ou serviço no mercado de consumo. Aduz que a cláusula contratual que transfere ao estipulante o dever de informação ao segurado e/ou exime a seguradora de responsabilidade em caso de descumprimento do referido dever é nula de pleno direito. Por fim, aponta que é inválida a cláusula limitativa de direito quando não for assegurada ao consumidor a oportunidade de tomar prévio conhecimento de seu conteúdo.
+Decisão monocrática: conheceu parcialmente do recurso especial interposto pela agravante, e, nessa extensão, negou-lhe provimento, ante a incidência das Súmulas 211 e 568/STJ.
+Agravo interno: sustenta a inaplicabilidade da Súmula 211/STJ, tendo em vista a anterior oposição de embargos de declaração com fins de prequestionamento e a necessidade de aplicação do disposto no art. 1.025 do CPC/2015. No mais, reitera seus argumentos relativos à responsabilidade solidária da seguradora e da estipulante em prestar informações ao segurado. Aduz que inexiste entendimento dominante nesta Corte Superior acerca do tema, o que afasta a aplicação da Súmula 568/STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. INÉPCIA. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. Ação de cobrança de indenização securitária fundada em seguro de vida em grupo.
+2. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com imposição de multa.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Julgamento: CPC/2015
+A decisão agravada conheceu parcialmente do recurso especial interposto pela agravante, e, nessa extensão, negou-lhe provimento, ante a incidência das Súmulas 211 e 568/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Isso porque não impugna, consistentemente, os fundamentos da decisão ora agravada relativos à incidência da Súmula 568/STJ.
+Ressalte-se que quando o recurso especial não é provido com base na Súmula 568/STJ, incumbe à parte agravante demonstrar que referido óbice não se aplica na espécie, seja mediante a citação de precedentes atuais deste Tribunal, favoráveis à tese defendida no recurso especial, seja mediante razões recursais no sentido de que os precedentes do STJ citados na decisão agravada não guardam similitude com o caso concreto ou representam entendimento já superado nesta Corte sobre o tema.
+Na espécie, verifica-se que a agravante, além de apontar uma decisão monocrática na intenção de comprovar que não há entendimento sobre o tema no âmbito desta Corte Superior - REsp 1.894.449/SC - cita, em verdade, julgado em que se aplicou a mesma orientação firmada no bojo da decisão monocrática ora agravada.
+Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso, à unanimidade, fixo multa de 3% (três por cento) sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
