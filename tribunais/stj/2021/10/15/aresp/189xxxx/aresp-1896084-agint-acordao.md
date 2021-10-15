@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por M & K COMÉRCIO E CONSTRUÇÕES LTDA., contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Ação: obrigação de fazer cumulada com cobrança, ajuizada por JOÃO MARCELO CARLON NOBREGA, MAURÍCIO MEDEIROS DA NOBREGA JÚNIOR, G R DA N (MENOR), representado por D M C DA R, e MARISA MEDEIROS DA NOBREGA, em face de M & K COMÉRCIO E CONSTRUÇÕES LTDA.
+Sentença: julgou procedentes os pedidos contidos na inicial, para decretar a rescisão do contrato mantido entre as partes e condenar a agravante ao pagamento de R$ 1.834.515,62, referente as perdas e danos das 07 (sete) unidades imobiliárias ajustadas no contrato, bem como condenou a agravante ao pagamento dos aluguéis vencidos entre 19/05/2014 até a prolação da sentença, no valor de R$ 2.031,58, por unidade. Ainda, declarou prejudicados os pedidos de apresentar o cronograma de execução da obra e cumprimento da obrigação de construir o empreendimento e entregar as 07 (sete) unidades convencionadas. Assim, em razão da sucumbência, submeteu a parte agravante ao pagamento das custas e dos honorários, que foram fixados em 10% sobre o valor da condenação.
+Acórdão: negou provimento à Apelação interposta pela agravante.
+Decisão monocrática: não conheceu do agravo em recurso especial, ante a incidência da Súmula 182/STJ, nos termos do art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustenta que não há que se falar na incidência da Súmula 182 desta Corte ao caso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COBRANÇA. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de obrigação de fazer cumulada com cobrança.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por M & K COMÉRCIO E CONSTRUÇÕES LTDA., contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A decisão proferida pela Presidência desta Corte consignou que a agravante deixou de impugnar especificamente a incidência das Súmulas 7/STJ e 284/STF.
+Nota-se que, em suas razões de agravo interno, a agravante alega que: i) no caso, impossível a utilização da súmula na presente demanda, visto que a agravante valeu-se de argumento unicamente de direito, sem - em qualquer momento - pretender a rediscussão de aspectos fáticos, que entende consolidados; e, ii) a súmula aplicada por analogia ao Recurso Especial, não encontra respaldo na situação concreta, visto que a peça recursal, construída com todos os tópicos necessários (tempestividade, cabimento, prequestionamento e mérito), bem delimitou a controvérsia para ser sanada pelo STJ.
+No entanto, outro é o entendimento que se extrai do juízo prévio de inadmissibilidade, pois a Corte local consignou que alterar a conclusão do acórdão combatido em relação aos arts. 339 e 478 do Código Civil - no ponto em que se discute a existência de excludente de responsabilidade na execução do contrato firmado entre as partes, implica em necessário reexame fático-probatório, o que é inviável na via eleita, dado o óbice da Súmula 7 do Superior Tribunal de Justiça, bem como que em relação a apontada violação ao art. 535, II do Código de Processo Civil, verifico inexistir pertinência temática entre o artigo tido como violado e a tese discutida na decisão recorrida, incidindo, na espécie, o impedimento contido na Súmula 284, do Supremo Tribunal Federal, aplicável por analogia.
+Observa-se, da leitura do agravo em recurso especial, que a agravante não impugnou especificamente a incidência dos óbices sumulares apontados, o que atrai a incidência da Súmula 182/STJ, como observado pela Presidência desta Corte.
+Assim, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182/STJ, a qual se subsume perfeitamente ao presente recurso.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
