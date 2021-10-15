@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto porASSOCIAÇÃODOS SERVIDORES DO TRIBUNAL DE JUSTICA DO ESTADO DE SÃO PAULO, com fulcro no art. 105, inciso III, "a"e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"AÇÃO REVISIONAL - PLANO DE SAÚDE - CONTRATO COLETIVO - REAJUSTES ANUAIS E SINISTRALIDADE - Embora as cláusulas que prevejam os reajustes por sinistralidade não possam ser declaradas nulas, uma vez que se prestam a manter o equilíbrio contratual e evitar o distrato pela quebra do sinalagma, os reajustes aplicados e questionados em juízo não tiveram sua pertinência e necessidade comprovada, tendo sido utilizados como meio para promover o reajustamento imoderado do valor da mensalidade - Embora as rés tenham defendido a necessidade de revisão contratual por incremento de sinistralidade no período questionado pelo autor, é certo que não trouxeram aos autos documentação apta a comprovar o alegado - Planilhas elaboradas de forma unilateral e não lastreadas em documentos contábeis que não podem ser aceitas como prova cabal do quanto alegado em defesa - Ausente índice que melhor se adeque à situação, deverá haver o recálculo do valor de mensalidade devido pelo segurado no período não prescrito, excepcionalmente, utilizando-se dos percentuais máximos autorizados pela ANS - Prescrição trienal que é aplicável à espécie, consoante entendimento fixado pelo E. STJ - Precedentes desta E. 9ª Câmara de Direito Privado - Valores pagos a maior que devem sofrer repetição simples - Verbas sucumbenciais pelas rés - RECURSO PROVIDO"(fl. 511, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 631/634, e-STJ).
+No recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 876 e 884 do Código Civil, argumentando, em síntese, sua ilegitimidade passiva, pois atua somente como intermediária do plano de saúde, não podendo ser responsabilizada a restituir valores que não recebeu.
+Não foram apresentadas contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Verifica-se que a questão da ilegitimidade passiva da recorrente não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, a parte recorrente não indicou a contrariedade ao art. 1.022 do Código de Processo Civil de 2015.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS. INEXISTÊNCIA DE ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. SÚMULA 211/STJ. CERCEAMENTO DE DEFESA E COMPROVAÇÃO DE DANOS. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM PELA SUFICIÊNCIA DAS PROVAS E PELA INEXISTÊNCIA DE DANOS INDENIZÁVEIS. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+2. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a recorrente suscitar a violação ao art. 1.022 do mesmo diploma, providência não adotada na espécie.
+3. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, medida vedada no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ.
+4. O dissídio jurisprudencial não merece conhecimento, porque não foi realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 1.029 do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+5. Ausência de impugnação a fundamento constante do acórdão estadual. Súmula 283/STF.
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido"(AgInt no AREsp 1.582.554/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/05/2020, DJe 08/05/2020).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANOS MATERIAIS E MORAIS. CONTAMINAÇÃO DE LAVOURA. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 211 STJ.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211/STJ).
+2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4.4.2017, DJe 10.4.2017).
+3. Agravo interno a que se nega provimento"(AgInt no AREsp 1.597.715/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/05/2020, DJe 21/05/2020).
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em 15% (quinze por cento) sobre o valor atualizado da condenação, os quais devem ser majorados para 20% (vinte por cento) em favor do advogado da recorrida, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
