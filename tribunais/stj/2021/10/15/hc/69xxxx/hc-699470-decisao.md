@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deDOUGLAS FERNANDO DOS ANJOS MOREIRAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL(Apelaçãon. 00029248620208120029).
+Depreende-se dos autos que o réu foi condenado a 1anode reclusão, no regime inicialmente aberto, substituída a pena corporal por restritivas de direitos, por haver furtado um tênis no valor de R$ 150,00 (e-STJ fls. 147/153).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (e-STJ fls. 210/215).
+Daí o presente writ, no qual sustenta a defesa fazer o paciente jus à aplicação do princípio da insignificância(e-STJ fl. 7).
+Requer, liminarmente e no mérito, a absolvição do agente (e-STJ fl. 14).
+É o relatório.
+Decido.
+O exame das alegações formuladas pela defesa evidencia, de plano, que a tese declinada no presente writ encontra amparo na jurisprudência firmada nesta Corte, razão pela qual vislumbro ser o caso de concessão liminar da ordem.
+O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada. Preenchidos todos esses requisitos, a aplicação desse princípio possui o condão de afastar a própria tipicidade penal, especificamente na sua vertente material.
+No presente caso, tem-se que a subtração de tênis avaliado em R$ 150,00(e-STJ fl. 147)não demonstra expressiva lesão ao bem jurídico tutelado.
+Há ainda que considerar a primariedade do agente, o fato de o delito tersido praticado sem violência ou grave ameaça, bem como a restituição do bem à vítima, circunstâncias que corroboram o entendimento de que a lesão jurídica provocada pode ser considerada como de mínima ofensividade, bem como de que areprovabilidade da conduta não seria de gravidade acentuada.
+Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. INEXPRESSIVA LESÃO AO BEM JURÍDICO TUTELADO. RESTITUIÇÃO DO OBJETO AO OFENDIDO. OBJETO BÁSICO PARA A SUBSISTÊNCIA - UMA PEÇA DE CARNE. RÉU PRIMÁRIO. ATIPICIDADE MATERIAL DA CONDUTA. RESTABELECIMENTO DA SENTENÇA ABSOLUTÓRIA. AGRAVO PROVIDO.
+1. O presente caso trata-se de subtração praticada por réu primário de objeto alimentício, para a subsistência, que se trata de uma peça de contrafilé avaliada, de acordo com o Auto de Entrega, em R$114, 30 (cento e quatorze reais e trinta centavos), que equivale a 12,2% do salário mínimo vigente à época dos fatos, restituída à vítima após a captura do réu, o que autoriza, excepcionalmente, a incidência do princípio da insignificância.
+2. Esta Corte Superior tem entendido pela aplicação do princípio da insignificância nos casos de furto simples praticado por réu primário de objeto avaliado até 15% do valor do salário mínimo vigente à época do fato, ainda mais quando se trata de objeto básico para a subsistência, como por exemplo, uma peça de carne, e que é restituído à vítima logo após a conduta criminosa.
+3. Agravo regimental provido, a fim de também prover o recurso especial, para restabelecer a sentença, e absolver o agravante, por atipicidade material da conduta imputada, a teor do art. 386, III, do CPP.
+(AgRg no AREsp 1786570/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/03/2021, DJe 12/03/2021)
+HABEAS CORPUS SUBSTITUTIVO. FALTA DE CABIMENTO. TENTATIVA DE FURTO SIMPLES. BENS DE PEQUENO VALOR RESTITUÍDOS À VÍTIMA. REGISTRO DE ANTECEDENTE CRIMINAL. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+ .. 3. A intervenção do Direito Penal há de ficar reservada para os casos realmente necessários. Para o reconhecimento da insignificância da ação, não se pode levar em conta apenas a expressão econômica da lesão. Todas as peculiaridades do caso concreto devem ser consideradas, por exemplo, o grau de reprovabilidade do comportamento do agente, o valor do objeto, a restituição do bem, a repercussão econômica para a vítima, a premeditação, a ausência de violência, o tempo do agente na prisão pela conduta etc.
+4. Nem a reincidência nem a reiteração criminosa, tampouco a habitualidade delitiva, são suficientes, por si sós e isoladamente, para afastar a aplicação do denominado princípio da insignificância.
+5. Na espécie, as oito barras de chocolate foram integralmente restituídas ao supermercado vítima da tentativa de furto, e, não obstante a certidão de antecedentes criminais indicar uma condenação transitada em julgado em crime de mesma natureza, a conduta do paciente não traduz lesividade efetiva e concreta ao bem jurídico tutelado.
+6. Habeas corpus não conhecido. Ordem expedida de ofício, extinguindo-se a ação penal.
+(HC 299.185/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/09/2014, DJe 25/09/2014)
+À vista do exposto, concedo a ordem liminarmente para absolver o paciente em razão da atipicidade material da conduta, conforme ditames do art. 386, inciso III, do Código de Processo Penal.
+Publique-se. Intimem-se.
