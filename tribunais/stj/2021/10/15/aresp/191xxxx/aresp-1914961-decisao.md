@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ AMORIM GONÇALVES NOVO - ESPÓLIO e outroscontra decisão que inadmitiu recurso especial.
+O apelo extremo,fundamentado no art. 105, III, "a", da Constituição Federal,insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiroassim ementado:
+"AGRAVO DE INSTRUMENTO - DIREITO PROCESSUAL CIVIL - AÇÃO DE INDENIZATÓRIA - ALEGAÇÃO DE ABUSO DE PODER E CONCORRÊNCIA DESLEAL - EXIBIÇÃO DE DOCUMENTOS - PERÍCIA CONTÁBIL DEFERIDA - NECESSIDADE DE MANIFESTAÇAO DO PERITO ACERCA DA PERTINÊNCIA DOS DOCUMENTOS POSTULADOS PELOS AGRAVANTES -IN CASU, O JUÍZO DE ORIGEM, REPUTANDO A UTILIDADE DOS DOCUMENTOS PARA O JULGAMENTO DA CAUSA, JÁ HAVIA DETERMINADO A MANIFESTAÇÃO DO EXPERT ACERCA DE SUA PERTINÊNCIA, CONTUDO O PERITO SE QUEDOU INERTE - SE OS ESCLARECIMENTOS PRESTADOS PELO PERITO NÃO SE REVELAREM SATISFATÓRIOS, IMPOE-SE DETERMINAR A EXIBIÇÃO DOS DOCUMENTOS COMO FORMA DE MERA COMPLEMENTAÇÃO DA PROVA TÉCNICA - AGRAVO INTERNO PENDENTE DE JULGAMENTO QUE ORA SE JULGA PELA PERDA DE OBJETO ANTE O JULGAMENTO DO RECURSO PRINCIPAL. DA-SE PARCIAL PROVIMENTO AO RECURSO."(e-STJ fl. 169)
+Os embargos de declaração opostos foram rejeitados (fls. 188/193 e-STJ).
+Nas razões do recurso especial (e-STJ fls. 195/217), os recorrentesapontam aviolação dos artigos 370, 371, 399, 489, §1º, IV, e 1.022, II, doCódigo de Processo Civil de 2015.
+Alegam que o Tribunal de origem, ao rejeitar os embargos de declaração opostos ao acórdão recorrido, negou a completa prestação jurisdicional.
+Além disso, sustentam que, ao determinar que o perito avaliasse a pertinência dos documentos solicitados, o acórdão transferiu ao expert, de forma indevida, função exclusiva do magistrado.
+Por fim, defendem que,ao não enfrentar os argumentos centrais dos recorrentes, o aresto recorrido não teria sido devidamente fundamentado.
+Após a apresentação dascontrarrazões (fls. 233/248 e-STJ), o recurso foi inadmitido na origem, ensejando o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+A irresignação merece prosperar.
+Inicialmente, constata-se que a decisão recorrida padece de obscuridade.
+De fato, o Tribunal de origem reconhece que
+"(..)
+In casu, nota-se que o juízo a quo determinou a manifestação do perito acerca da pertinência dos documentos requeridos pelos agravantes, entretanto, o mesmo se quedou inerte, conforme docs. 131 e 133. Ora, se o laudo e os esclarecimentos até então prestados pelo perito não se revelaram satisfatórios para elucidação da causa, impõe-se determinar a imediata intimação do perito para os fins contidos na decisão agravada, bem como a exibição dos documentos necessários àcomplementação da prova técnica."(fl. 173e-STJ - grifou-se).
+No entanto, ao lavrar a parte dispositiva do acórdão, a Corte estadual deu parcial provimento ao recurso paradeterminar "que o perito se manifeste acerca da pertinência dos documentos contábeis das sociedades postulados pelos agravantes para o deslinde da causa, e, em caso positivo, oficie-se para juntada e apreciação dos mesmos" (fl. 173 e-STJ - grifou-se).
+Portanto, apesar de reconhecer a necessidade de determinar a imediata intimação do perito para os fins contidos na decisão agravada, bem como a exibição dos documentos necessários à complementação da prova técnica, o Tribunal estadual acaba, na parte dispositiva do julgado, por delegar ao perito a incumbência de avaliar a pertinência da exibição dos documentos pleiteados.
+Como se sabe, a jurisprudência do STJ converge em relação à compreensão de que "compete ao magistrado, como destinatário final da prova, avaliar a pertinência das diligências que as partes pretendem realizar, segundo as normas processuais, e afastar o pedido de produção de provas, se estas forem inúteis ou meramente protelatórias, ou, ainda, se já tiver ele firmado sua convicção, nos termos dos arts. 370 e 371 do CPC/2015 (arts. 130 e 131 do CPC/1973)"(AgInt no AREsp 1816381/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 31/05/2021, DJe 01/07/2021).
+Logo, também é evidente a omissão do acórdão recorrido, pois, muito embora tenha sido provocado a se manifestar sobre a alegação de que seria o juiz o responsável por analisar a pertinência da exibição dos documentos pleiteados, o Tribunal de origem limitou-se a repisar a parte expositiva do aresto embargado, no sentido de que "impõe-se determinar a imediata intimação do perito para os fins contidos na decisão agravada, bem como a exibição dos documentos necessários á complementação da prova técnica" (fl. 193 e-STJ), olvidando-se, todavia, que a parte dispositiva do julgado embargado, como visto, ao invés de determinar efetivamente a exibição,deixou a cargo do perito a decisão sobre a relevância e adequação dessa providência.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que outro seja proferido de molde asupriros vícios acima apontados.
+Publique-se.
+Intimem-se.
