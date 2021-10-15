@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno manejado contra decisão proferida às fls. 1.366 - 1.371, em que neguei provimento ao agravo em recurso especial interposto pela parte ora recorrente, destacando a impossibilidade de afastamento da multa aplicada na origem por litigância de má-fé, com base na aplicação da Súmula 7/STJ.
+A parte agravante alega que não incide a Súmula 7 desta Corte no presente caso, sob o fundamento de que: "O exame do caso reclama apenas análise dos artigos tidos por violados e que a conduta do recorrente não se amolda às hipóteses legais " (fl. 1.377, e-STJ).
+Argumenta que "O Eminente Desembargador do Tribunal "a quo" extrapolou o limite de sua competência adentrando no mérito do recurso especial para negar-lhe seguimento, premissa exclusiva deste Egrégio Superior Tribunal de Justiça" (fl. 1.612).
+A parte agravada, devidamente intimada, não apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA POR LITIGÂNCIA DE MÁ-FÉ. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Inicialmente, quanto à alegação de nulidade da decisão de admissibilidade do recurso especial, proferida pelo Presidente do Tribunal a quo, cumpre destacar que a tese não comporta análise no presente momento processual, em virtude da preclusão e ainda da ausência de interesse recursal. No ponto, o agravo interno deveria se voltar contra os fundamentos da decisão singular agravada e não contra a decisão de admissibilidade da Corte de origem. Ao que tudo indica, a parte parece confundir as decisões em lume ao formular sua tese de nulidade, todavia, ainda que se considere que a pretensão tivesse a finalidade de atacar a decisão ora agravada, cumpre destacar que eventual irregularidade fica superada com a reapreciação da matéria, na via do agravo interno, pelo órgão colegiado, pois o agravo "passa a subsistir por decisão colegiada, não monocrática" (Quarta Turma, AgRg no Ag 1.366.083/PR, Rel. Ministro Luis Felipe Salomão, DJe de 3.11.2011).
+Quanto ao mais, observo que os argumentos desenvolvidos pela parte agravante não comportam acolhimento.
+Conforme destacado na decisão agravada, o Tribunal estadual, ao fixar multa por litigância de má-fé, deixou registrados os seguintes fundamentos (fls. 1.207 - 1.209 ):
+As hipóteses de litigância de má-fé vêm exaustivamente previstas no artigo 80 do Código de Processo Civil, in verbis:
+Art. 80. Considerar-se-á litigante de má-fé aquele que:
+I - deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso;
+II - alterar a verdade dos fatos;
+III - usar do processo para conseguir objetivo ilegal;
+IV - opuser resistência injustificada ao andamento do processo;
+V - proceder de modo temerário em qualquer incidente ou ato do processo;
+Vl - provocar incidentes manifestamente infundados.
+VII - interpuser recurso com intuito manifestamente protelatório.
+Nos termos da sentença:
+A despeito do acordo, há diversos fatos praticados nestes autos pela empresa autora (e seus sócios) que não podem ser ignorados.
+O imóvel objeto desta controvérsia foi adquirido por Edison Freitas de Siqueira e Miriam Ferreira Siqueira (ou Miriam dos Santos Ferreira), por meio do contrato de mútuo nº 155550157507 firmado com a CEF em 05.50.2010.
+Diante da inadimplência contratual, a CEF efetivou o procedimento de alienação extrajudicial do imóvel, o que levou os devedores à utilização abusiva de processos em seu nome e no nome de terceiros para evitar a consolidação da propriedade pela instituição financeira.
+1) Inicialmente, Edison Freitas de Siqueira e Miriam dos Santos Ferreira, ao lado de Incorporadora Freitas de Siqueira Ltda. e Edison Freitas de Siqueira Advogados Associados, ajuizaram o pedido de revisão nº 50027551720124047121, nesta Vara Federal, com sentença de extinção em virtude da desistência.
+2) Em seguida, após a desistência, apresentaram a mesma demanda, embora com alteração das partes envolvidas, perante a 17ª Vara Federal da Seção Judiciária do Distrito Federal.
+3) Posteriormente, Edison Freitas de Siqueira e Miriam Ferreira Siqueira ajuizaram o pedido de revisão nº 50005963320144047121, nesta Vara Federal, novamente com sentença de improcedência e a condenação dos autores por litigância de má-fé.
+4) Não bastasse isso, a empresa Cópia Segura propôs esta ação sob julgamento, de nº 50853861320144047100, no dia 18.11.2014, com pedido de redução do valor do imóvel arrematado no leilão extrajudicial, pelo qual sequer efetuou o pagamento do lance realizado por ela.
+5) Ainda, em 07.03.2017 foi proposta a ação de oposição nº 5000891- 65.2017.4.04.7121 por Ligia Rozane dos Santos Ferreira contra a CEF, Edison Freitas de Siqueira e Miriam Ferreira Siqueira, tendo como objeto o imóvel litigioso nestes autos. A advogada da autora da oposição, Gianca Piccolotto, também atuou como advogada da empresa Cópia Segura nestes autos durante quase toda a sua tramitação, apresentando substabelecimento sem reserva de poderes para Edison Freitas de Siqueira (que, como visto, é réu na oposição) neste processo em 11.09.2017 (ev. 182), ou seja, 6 meses após a propositura da oposição. Nos autos da oposição foi proferida sentença de extinção em virtude da desistência pela autora.
+6) Por fim, em 07.06.2017 foi proposta a ação de usucapião nº 5002044- 36.2017.4.04.7121, por Ligia Rozane dos Santos Ferreira, Edison Freitas de Siqueira e Miriam Ferreira Siqueira contra a CEF, tendo como objeto o imóvel litigioso nestes autos. A petição inicial foi indeferida, com sentença transitada em julgado.
+Voltando a este processo, o quarto de seis ajuizados sobre o mesmo imóvel, destaca-se que desde o início foram promovidas diligências para a identificação dos sócios da empresa Cópia Segura Serviços de Cópias de Documentos Sigilosos, Telefonia e Teleserviços Ltda. (que, na petição inicial, diz-se lesada pela CEF pela falta de informações corretas sobre o imóvel no edital), que não cumpria as determinações.
+A advogada da parte autora opôs quatro embargos declaratórios neste processo e não cumpriu a decisão de apresentar o contrato social da parte autora.
+A petição inicial indicava Maria de Lurdes Abreu de Souza como única sócia da empresa. Posteriormente, a CEF comprovou, com extratos de FGTS, que ela era empregada de Ione Freitas de Siqueira, mãe de Edison Freitas de Siqueira (ev. 90).
+Nos documentos enviados a este juízo pela JUCERGS, verifica-se do contrato social que a empresa autora foi constituída em 02.03.2004 e tinha como sócias Miriam Ferreira Siqueira e Tatiana Ferreira Moreno.
+Na primeira alteração social, de 15.05.2007, as sócias passaram a ser Miriam Ferreira Siqueira e Miriane Ferreira Siqueira. Na segunda alteração social, de 04.10.2010, as sócias passaram a ser Miriam Ferreira Siqueira e Maria de Lurdes Abreu de Souza (ev. 55).
+Posteriormente, em outro ato praticado em fraude processual, a parte autora apresentou uma segunda alteração social, incompleta e sem data e diversa daquela registrada na JUCERGS, na qual Maria de Lurdes Abreu de Souza transfere todas as suas cotas da empresa Cópia Segura para Edison Freitas de Siqueira (ev. 124).
+Portanto, a parte autora não podia alegar na petição inicial o desconhecimento do imóvel à venda no leilão extrajudicial, tendo em vista que uma de suas sócias (Miriam Ferreira Siqueira) era a proprietária do bem e signatária do contrato de mútuo com a CEF.
+Resta evidente a má-fé da parte autora e seus sócios, que fizeram uso deste e dos outros cinco processos acima listados para a obtenção de fins ilícitos.
+Assim, ao demandar contra o ordenamento jurídico, a parte autora pretendeu impedir ou protelar a venda do imóvel (e a consequente satisfação do crédito de seu credor) e obter fins ilícitos. Logo, sua conduta violou a boa-fé objetiva e o princípio da cooperação.
+O art. 77, I e III do CPC estipula que são deveres das partes expor os fatos em Juízo conforme a verdade e não formular pretensões, nem alegar defesa, cientes de que são destituídas de fundamento. O art. 80 do CPC prevê que é litigante de má-fé aquele que deduzir pretensão de fato incontroverso e alterar a verdade dos fatos.
+A litigância de má-fé tem se tornado muito comum Judiciário, especialmente nos Juizados Especiais Federais. A ausência de custas processuais é decorrência da maior garantia do acesso ao Judiciário, mas tal benesse vem sendo desvirtuada de seu propósito original.
+Petições, documentos e depoimentos são produzidos em série As partes não pagam custas (ou pagam custas reduzidas), mas o Estado- juiz - e a sociedade, consequentemente - está arcando com os pesados custos do processo.
+Nos termos do artigo 81, caput e § 2º, do CPC, deverá a parte autora Cópia Segura e seus sócios Edison Freitas de Siqueira e Miriam Ferreira Siqueira pagar multa de 10% sobre o valor corrigido da causa, bem como a indenizar o réu pelos prejuízos que sofreu e a arcar com os honorários advocatícios e com todas as despesas que efetuou.
+Ainda que usufrua do benefício da justiça gratuita, a parte não está isenta do pagamento em caso de condenação por litigância de má-fé.
+Em que pese o esforço argumentativo da apelante, entendo caracterizada hipótese de litigância de má-fé em sua conduta, considerando a sequência de atos graves, em notória violação da boa-fé e do princípio da cooperação.
+Colho das contrarrazões da Caixa Econômica Federal, a seguinte síntese:
+a) o Sr. Edison, proprietário da COPIA SEGURA, adquiriu um imóvel através de financiamento pela CAIXA. Inadimpliu o financiamento e, portanto, após os devidos trâmites, o imóvel foi a leilão.
+b) Em leilão, a empresa COPIA SEGURA, surpreendentemente, adquiriu o imóvel. Não satisfeita, sustou o cheque de pagamento à comissão do leiloeiro, sob o argumento de que a casa havia sido construída sob dois terrenos e, portanto, haveria má-fé por parte desta empresa pública, na medida que alienou um imóvel que estava construído sobre dois terrenos;
+c) Porém, a situação do imóvel já era conhecida pelos autores, justamente por ter sido o atual sócio majoritário, Sr. Edison, o anterior proprietário do bem;
+d) Não só, ao longo de todo o processo essa situação foi omitida pela empresa COPIA SEGURA como também pelo seu representante e antigo proprietário do bem, Sr. Edison;
+e) Na pag. 04 de seu recurso, a demandante refere que peticionou, ao evento 61, informando ao juízo que desde 2011 a Sra. Maria de Lourdes era a única sócia da empresa. Acontece que a Sra. Maria de Lourdes exercia há anos atividade laborativa de vinculação direta à família do Sr. Édison, mais especificamente como empregada doméstica de sua mãe, Ione Freitas de Siqueira (..); e f) Além disso, se observado o documento do evento 55, logo em seu início, nota-se que a empresa foi constituída por MIRIAM FERREIRA SIQUEIRA (98% do capital, esposa de Edson e antiga proprietário do imóvel) e TATIANA FERREIRA MORENO. Por sua vez, ÉDISON FREITAS DE SIQUEIRA ratificou o contrato social, conforme firma aposta à pag. 06 do referido documento.
+Esta Corte, aliás, manifestou-se recentemente no sentido de que "A imposição da pena por litigância de má-fé, dada a gravidade da medida, somente é possível quando não houver dúvida acerca da conduta desleal, procrastinadora ou temerária" (TRF4, AC 2008.70.10.000609-8, Segunda Turma, Relatora Luciane Amaral Corrêa Münch, D.E. 14/10/2009) Sendo assim, mantenho a estipulação da multa.
+Nesse contexto, conforme ressaltado na decisão agravada, verifica-se que a Corte de origem aplicou a multa por litigância de má-fé com base em ampla análise do acervo fático-probatório dos autos. Assim, o acolhimento da pretensão de afastar a respectiva multa, demandaria inevitável reexame dos fatos e provas contidos no processo, de modo que o recurso especial esbarra na Súmula n. 7 do STJ.
+Nesse contexto, não trazendo a parte agravante fundamentos capazes de infirmar a decisão agravada, deve ela prevalecer.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
