@@ -1,0 +1,6 @@
+DECISÃO
+Às fls. 807-808, peticiona o ora embargante apontando nulidade de intimação sobre o acórdão de fls. 781 e seguintes, por erro material, implicando ausência de preclusão. Para corroborar com seu apontamento, a parte juntou correspondência eletrônica recebida da OAB/PR, documento sem fé pública (fl. 793).
+Consigne-se, entretanto, que a publicação do acórdão (fl. 785), embora faça menção ao embargado, não está eivada de qualquer irregularidade, uma vez que dela consta o conteúdo da ementa/acórdão, conferindo pleno e inequívoco conhecimento do conteúdo decisório a ambas as partes. Sobretudo, ato seguinte, a parte manifestou-se apenas em 19/02/2020, quando a certificação da publicação da decisão atacada havia ocorrido desde 13/12/2019. Com efeito, resta patente que a manifestação da parte às fls. 807-808 é severamente extemporânea, apresentada após o exaurimento da prestação jurisdicional nesta instância extraordinária, nada havendo a prover quanto aos pedidos formulados.
+Ante o exposto, indefiro o pedido formulado, nada havendo a prover quanto ao peticionamento endereçado a esta Relatoria.
+Determino que se promova a certificação do trânsito em julgado e as posteriores providências para a baixa definitiva.
+Publique-se. Intimem-se.
