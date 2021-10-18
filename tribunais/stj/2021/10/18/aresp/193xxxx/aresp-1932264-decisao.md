@@ -1,0 +1,24 @@
+DECISÃO
+DANIEL CARDOSO DIASagrava de decisão que inadmitiu seu recurso especial - fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios-, motivada na incidência da Súmula n. 7 do STJ.
+Nas razões do recurso especial, a defesa apontou violação do art. 59 do Código Penal. Argumentou ser desproporcional o aumento imposto na primeira fase, em fração acima de 1/6 para uma única vetorial negativada, sem a necessária fundamentação.
+Requereu o provimento do recurso, a fim de que fosse reduzida a reprimenda.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e preenche os demais requisitos de admissibilidade.
+I. Contextualização
+O Tribunal estadual negou provimento ao apelo defensivo e manteve a sentença que condenou o réu a 10meses e 20 dias de reclusão e 8 dias-multa, em regime semiaberto, pela prática do delito tipificado no art. 155, § 1º, c/c o art. 14, II, do Código Penal.
+II. Pena-base - proporcionalidade do aumento na primeira fase
+Acerca da questão, manifestou-se o Tribunal a quo (fl. 269, grifei):
+Insurge-se a defesa tão somente para que seja aplicada a fração de 2/3,prevista no art. 14,parágrafo único, do Código Penal, em razão do crime descrito nos autos ser tentado e ter se distanciado muito da consumação.
+ ..
+Nesses termos, passo a analisar a dosimetria da peua do réu DANIEL CARDOSO DIAS quanto ao crime de furto tentado.
+Na primeira fase,dentre as circunstâncias judiciais elencadas no art. 59 do Código Penal, houve valoraçào negativa dos antecedentes criminais do réu (IDs números 22205850 - Páginas 1 a 4. 22205846 - Páginas 39 a S4 e 22205847 - Pág. 1),com base na qual o juízo o quo fixou a pena-base em 1 (um) ano e 4 (quatro) meses de reclusão, e 13 (treze) dias de multa.
+Verifica-se, face à amplitude de 1 (um) ano a (4) quatro anos da pena em abstrato cominada ao delito, que o nobre magistrado aumentou a pena-base um pouco aquém do que seria proporcional, considerando as 7 ( sete) condenações, por crimes anteriores ao delito dos autos que o réu possui, e o emprego da tração de 1/8 para aumentar a pena,mas sendo recurso só da defesa, mantém-se o aumento em 04 (quatro) meses da pena fixada na origem.
+Saliento ainda que das sete condenações que o réu possui, uma foi usada adequadamente, na segunda fase,pelo juizo de origem, para fins de reincidência (IDs números 22205850 - Páginas 1a 4, 22205846 -Páginas39 a 84 e 22205847 - Pág. 1).
+Cumpre salientar que a jurisprudência deste Tribunal Superior é firme em asseverar que cabe ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, decidir oquantumde exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade. Nesse sentido:AgRg no HC 516.813/PI, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/10/2019, DJe 11/10/2019 eAgRg no REsp 1732388/TO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/08/2020, DJe 14/08/2020.
+No presente caso, como se observa no acórdão, em razão do desvalor dos antecedentes criminais, a pena-base do delito de furto foi elevada em 4 meses. Assim, ao se efetuar a divisão do intervalo entre o mínimo e o máximo da pena em abstrato pelas sete circunstâncias judiciais - excluindo-se a circunstância relativa ao comportamento da vítima, por ser considerada pela doutrina como um vetor neutro -, o acréscimo imposto para uma vetorial desfavorável é legítimo e não fere a proporcionalidade nem a razoabilidade, uma vez que o próprio tipo penal prevê um intervalo, entre a pena mínima e a máxima, de 3 anos.
+Além disso, as instâncias a quoapresentaramfundamento concreto para a elevação da pena-base nesse patamar, ao salientar que, das sete condenações definitivas, uma foi considerada na segunda fase, como agravante, e as outras seis, como maus antecedentes.Entendo, portanto, que, além de fundamentado, éproporcional o incremento da reprimenda realizado.
+Tambéma amparar o entendimento acima, consoante jurisprudênciafirmadanesta Corte, "tanto a concorrência de diversas vetoriais negativas como a existência de uma única vetorial negativa de especial gravidade autorizam pena-base bem acima do mínimo legal (STF - RHC 101576, Rel. Min. Rosa Weber, Primeira Turma, julgado em 26/06/2012, DJe 14/08/2012)" (AgRg no AREsp 1569602/MT, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020). Ainda nesse sentido:AgRg no AREsp 1590957/TO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/06/2020, DJe 09/06/2020 e HC 462.847/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/09/2018, DJe 26/09/2018.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
