@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIA HELENA DA SILVA e MANUEL PEDRO DA SILVA, contra a decisão unipessoal que indeferiu liminarmente os embargos de divergência que opuseram, nos termos da seguinte ementa(e-STJ fl. 1.392):
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. HARMONIA ENTRE O ACÓRDÃO EMBARGADO E A JURISPRUDÊNCIA ATUAL DO STJ. SÚMULA 168/STJ. SEGURO HABITACIONAL. INDENIZAÇÃO. PRESCRIÇÃO. PRAZO ÂNUO.
+1. Não cabem embargos de divergência quando o acórdão embargado encontra-se no mesmo sentido da jurisprudência consolidada deste Tribunal. Súmula 168/STJ.
+2. Segundo a atual jurisprudência desta Corte, a ação ajuizada pelo segurado objetivando o recebimento de indenização por vícios construtivos, no âmbito do Sistema Financeiro da Habitação - SFH, está sujeita ao prazo prescricional ânuo. Precedentes.3. Embargos de divergência indeferidos liminarmente".
+Nas razões do presente recurso, os embargantes afirmam que "não obstante a atual jurisprudência oriunda dessa Egrégia com relação ao lapso prescricional seja ânuo, para o caso vertente (..) tem-se como irrelevante, considerando, o ponto fulcral restringe-se a partir do momento em que começa a contagem, mormente tratando-se de "danos progressivos" onde é impossível aferir-se o marco inicial, nesse sentido, aliás, o julgado paradigma citação no próprio v. acórdão embargado, (AgInt no RESP nº 1.876.017/SP - Terceira Turma, relatado pelo Min. Paulo de Tarso Sanseverino, DJe de 11/12/2020, onde constata-se situação idêntica, ou seja, a impossibilidade de aferir marco inicial para aferição do lapso prescricional, configurando omissão do julgado, culminando como equivocada a solução jurídica dada ao caso vertente" (sic, e-STJ fl. 1.396).
+É O RELATÓRIO. DECIDO.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado, vícios esses que, contudo, não estão presentes na hipótese dos autos.
+Com efeito, observa-se que adecisão embargada indeferiu liminarmente os embargos de divergência opostos pelos ora embargantes em razão daharmonia entre o acórdão embargado e a atual jurisprudência desta Corte, segundo a qual é anual o prazo prescricional da açãoajuizada pelo segurado objetivando o recebimento de indenização por vícios construtivos, no âmbito do Sistema Financeiro da Habitação - SFH.
+E, de fato, não houve manifestação a respeito do termo inicial de contagem do prazo prescricional, mas isso porque tal questão não foi objeto do recurso de embargos de divergência, que se limitaram a sustentar a aplicação do prazo de prescrição vintenário.
+Veja-se, nesse aspecto, que, em sede de embargos de divergência, "é vedado analisar qualquer outra questão que não tenha sido objeto de dissídio entre os acórdãos em cotejo"(AgInt nos EREsp 1.368.018/DF, Corte Especial, DJe 27/02/2019), o que, na hipótese dos autos, se deu exclusivamente em relação ao prazo de prescrição, se vintenário ou ânuo (e-STJ fls. 1.351/1.352).
+Ora, não há que se falar em omissão do julgado a respeito de questão que não foi suscitada pela parte no momento oportuno - in casu, quando da oposição dos embargos de divergência -, não havendo, destarte, qualquer vício a ser sanado na decisão embargada.
+Em suma,considerando que o presente recurso não reúne os pressupostos específicos para o seu acolhimento, nos termos do art. 1.022 do CPC/2015, não merece prosperar a irresignação da parte embargante.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. AUSÊNCIA.
+1. Ausentes os vícios do art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+2. Embargos de declaração rejeitados.
