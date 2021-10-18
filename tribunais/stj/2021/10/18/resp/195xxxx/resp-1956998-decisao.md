@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela UNIÃO, em 18/03/2021, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. UNIÃO. AÇÃO DE EXECUÇÃO. MULTA. PRESCRIÇÃO.
+- Em relação à prescrição, o Supremo Tribunal Federal firmou o entendimento de que o lapso temporal aplicável à fase ou ao processo de execução deve ser o mesmo da ação visando o reconhecimento do direito em questão (Súmula 150).
+- Havendo o título que a União pretende executar transitado em julgado em 2008, não há plausibilidade na alegação" (fl. 82e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 110/117e), os quais restaram parcialmente acolhidos "apenas para fins de prequestionamento", nos termos da seguinte ementa:
+"EMBARGOS DECLARATÓRIOS. HIPÓTESES. PREQUESTIONAMENTO.
+- São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do CPC.
+- A modificação do julgado é admitida apenas excepcionalmente e após o devido contraditório (artigo 1.023, § 2º, do CPC).
+- Não há a necessidade do julgador mencionar os dispositivos legais e constitucionais em que fundamenta sua decisão, tampouco todos os citados pelas partes.
+Embargos acolhidos tão somente para efeitos de prequestionamento" (fl. 147e).
+Nas razões do Recurso Especial, a parte ora recorrente aponta, violação aos arts. 921, §§ 4º e 5º e 1.022, I e II, do CPC/2015 e 1º do Decreto 20.910/32, sustentando a nulidade do acórdão recorrido por omissão e, no mérito, que:
+"Da contrariedade ao art. 1º do Decreto 20910/32; ao artigo 921, §§ 4º e 4º do Código de Processo Civil - da indevida incidência de prescrição no caso em relação à multa aplicada à parte exequente pelo STF.
+Inexiste prescrição a ser declarada no caso dos autos, haja vista não caracterizada inércia da União.
+Como se vê com a leitura dos autos, as partes encontram-se até o presente momento discutindo pormenorizadamente os valores devidos, sendo muitas as contas já apresentadas pelos exequentes, sempre analisadas e devidamente impugnadas pela executada. Desde a fixação da multa pelo STF em desfavor dos exequentes (evento 03, DOC3, fls. 56/60) não houve qualquer inércia, mas sim um intenso debate acerca dos valores que devem ser adimplidos.
+Agora, chegando o momento da conta derradeira (evento 130), necessário se compensar o valor da multa - sob pena de se negar vigência à decisão da Suprema Corte.
+Fica dito que o último Agravo de Instrumento interposto pela UNIÃO (nº 000774193.2010.404.0000), visando a afastar o "saldo remanescente" transitou em julgado em 19.12.2017 (evento 03, DOC4, fl. 310), ou seja, há menos de 05 anos.
+Vale dizer, ao menos até 19.12.2017 as partes se mantiveram discutindo, no plano material, quais os parâmetros para se calcular os valores devidos - sendo descabida, também por esta óptica, a prescrição reconhecida pela decisão agravada (evento 138).
+Portanto, merece reforma da decisão recorrida para que, afastada a prescrição da multa fixada pelo STF, sejam os valores abatidos da conta apresentada pelo exequente, na forma da impugnação oferecida no evento 133.
+Entendimento contrário, conforme consagrado no acórdão recorrido, ao reconhecer a existência de prescrição no caso em análise, acaba por violar a norma do art. 1º do Decreto 20910/32.
+(..)
+Portanto, o instituto em comento visa penalizar o credor inoperante e ocorre quando este não toma as providências ao andamento do processo pelo prazo prescricional estipulado para o exercício da ação. todavia, depois de ouvidas as partes (artigo 921. §§ 4º e 5º do Código de Processo Civil.
+(..)
+Diante do exposto, conclui-se que, para o reconhecimento da prescrição intercorrente, faz-se necessária a conjugação de 02 (dois) requisitos, quais sejam. o decurso do lapso prescricional e a inércia da parte interessada" (fls. 207/210e).
+Requer, ao final, que "Vossas Excelências admitam e dêem provimento ao presente Recurso Especial, para anular o acórdão recorrido e, com isso, determinar o retorno dos autos à origem, a fim de que sejam analisadas as questões suscitadas em embargos de declaração. Caso se entenda superada essa preliminar, requer-se então, sucessivamente, o provimento deste Recurso Especial, para reformar o acórdão recorrido e, assim, dar a devida interpretação aos dispositivos mencionados neste recurso e reconhecer a expressa afronta a lei conforme adrede expendido" (fl. 212e).
+Contrarrazões, a fls. 266/276e.
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 282/283e).
+A irresignação não merece acolhimento.
+Na origem, trata-se de Agravo de Instrumento interposto pela parte ora recorrente, na qual objetiva "a reforma da decisão agravada para que, afastada a prescrição da multa fixada pelo STF, sejam os valores abatidos da conta apresentada pelo exequente, na forma da impugnação oferecida no evento 133" (fls. 6/11e), que foi improvido pelo Tribunal local.
+Opostos Embargos Declaratórios, foram eles parcialmente providos "apenas para fins de prequestionamento".
+Daí a interposição do presente Recurso Especial.
+Inicialmente, em relação à alegação de violação do art. 1.022, I e II, do CPC/2015, por simples leitura do acórdão embargado observa-se que a prestação jurisdicional, certa ou errada, foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou, fundamentadamente e de modo completo, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+Registre-se, outrossim, que não cabem Declaratórios para obrigar o Tribunal a reapreciar provas, sob o ponto de vista da parte recorrente (STJ, AgRg no Ag 117.463/RJ, Rel. Ministro WALDEMAR ZVEITER, TERCEIRA TURMA, DJU de 27/10/97).
+Vale ressaltar, por fim, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 1.689.528/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 25/03/2021; AgInt no AREsp 1.653.798/GO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 03/03/2021; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+No caso, apesar da parte recorrente ter sustentado a suposta violação aos arts. 921, §§ 4º e 5º, do CPC/2015 e1º do Decreto 20.910/32, observa-se que não foi emitido nenhum juízo de valor, pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim, o que atrai incidência da Súmula 211 do STJ, "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. PENSÃO POR MORTE. ESTUDANTE UNIVERSITÁRIO. PRORROGAÇÃO DO BENEFÍCIO ATÉ 24 ANOS DE IDADE. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA N. 280/STF. DISPOSITIVOS DA LEI N. 8.213/91 NÃO PREQUESTIONADOS. SÚMULA N. 211/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Entretanto, é imprescindível que no aresto recorrido a tese tenha sido discutida, mesmo que suscitada em embargos de declaração. Incidência da Súmula n. 211/STJ.
+3. Agravo regimental não provido" (STJ, AgRg nos EDcl no AREsp 726.546/AM, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 04/11/2015).
+Ademais, mesmo que ultrapassado tal óbice, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, conheço em parte do Recurso Especial e, nessa extensão, nego-lhe provimento.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
