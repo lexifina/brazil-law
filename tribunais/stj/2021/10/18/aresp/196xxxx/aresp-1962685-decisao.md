@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por BELMIRO MARTINS FERREIRA JUNIOR contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE REINTEGRAÇÃO DE POSSE ALEGAÇÃO DE COMODATO AUSÊNCIA DOS REQUISITOS AUTORIZADORES À PROTEÇÃO POSSESSÓRIA MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA IMPOSIÇÃO DE HONORÁRIOS RECURSAIS RECURSO DESPROVIDO
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do arts. 1200, 1201 e 1202 do CC, no que concerne à ocorrência de precariedade da posse da recorrida, trazendo os seguintes argumentos:
+17. A c. Corte a quo, em acórdão, negou provimento ao Recurso de Apelação do ora Recorrente, sob o singelo argumento de que não teria sido comprovado o esbulho praticado pela Ré, ora Recorrida, conforme ementa abaixo transcrita:
+ ..
+18. Pois bem. Ocorre que razão alguma assiste ao Tribunal a quo no julgado recorrido.
+19. Conforme demonstrado nos presentes autos, o imóvel em questão é de propriedade única e exclusiva do Recorrente, que também encontra-se na condição de fiel depositário do bem, em razão da ação penal a que responde no âmbito da 6ª Vara Federal Criminal da Seção Judiciária do Rio de janeiro.
+20. Desta forma, por ter celebrado com a Recorrida um Comodato Verbal para uso do imóvel, bem como por não estar com condições financeiras de cumprir o ônus do fiel depósito, solicitou à Recorrida que desocupasse e restituísse o apartamento.
+21. Em razão da reiterada negativa da Recorrida, ao Recorrente não restou outra alternativa além da notificação extrajudicial colacionada aos autos, que não surtiu os efeitos esperados, configurando, sem sombra de dúvidas, o esbulho.
+ ..
+24. Revela-se, desta forma, que tudo o mais, debatido no acórdão recorrido, está viciado, posto que não há que se falar em posse de boa-fé e ausência de esbulho.
+25. Portanto, partindo-se dessa premissa já estabelecida nos autos, conclui-se que o esbulho praticado pela Recorrida foi de evidente má-fé, sendo, inclusive, demonstrada a má-fé continuada no tempo, pois mesmo tendo sido notificada extrajudicialmente, e mais, tendo ciência da presente ação, recusou-se a deixar voluntariamente o local.
+26. Por fim, diante do exposto, uma vez verificada a existência de violação aos dispositivos legais mencionados, é forçoso reconhecer a necessidade de reforma do acórdão recorrido (fl. 452).
+Quanto à segunda controvérsia, foi interposto recurso pela alínea "c" do permissivo constitucional.
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o acórdão recorrido assim decidiu:
+No caso em concreto, restou indene de dúvidas que autor e ré conviveram no referido imóvel, como um casal.
+Extrai-se dos depoimentos das testemunhas, prestados em audiência, que ambos conviveram por, pelo menos, 7 (sete) anos (indexadores, 282, 284 e 286). Vejam-se:
+ ..
+Ao contrário do afirmado pelo apelante, o que restou sobejamente comprovado nos autos foi que a ré, ora apelada, sempre residiu no imóvel na qualidade de companheira do demandante e não por força de contrato de comodato, que se caracteriza por contrato unilateral, benéfico e gratuito, pelo qual uma pessoa entrega a outra uma coisa, móvel ou imóvel, para ser utilizada por tempo determinado, com a obrigação de lhe restituir.
+Embora afirme o autor que emprestou o imóvel, não restou comprovada tal alegação, não bastando para tanto tenha ocorrido a efetiva e legítima notificação ou comunicação de encerramento de um suposto comodato verbal, posto que ele não restou comprovado nos autos. E, portanto, a posse direita continua regular, não se caracterizando o esbulho.
+ ..
+No caso em concreto, a posse da ré não foi adquirida por meios violentos, não é clandestina, já que não ocupa o imóvel às escondidas, e nem é precária, posto que não houve a sua recusa formal à restituição do imóvel, tendo em vista a invalidade da notificação extrajudicial recebida.
+Portanto, não tendo o autor comprovado o esbulho praticado pela ré, conforme lhe incumbia fazer, nos termos do artigo 561 do CPC 2 , correta a rejeição dos pedidos autorais.
+ ..
+Para além disto, impende registrar que a pretensão do apelante está vinculada única e exclusivamente ao título de fls. 17, pelo qual se comprova que o demandante é o titular do bem, entretanto, não se litiga aqui em função do domínio e sim da posse, que pelo depoimento das testemunhas ouvidas é exercida há, pelo menos, 3 (três) anos, sem qualquer oposição, de forma ostensiva, pela parte ré, ora apelada.
+Portanto, verifica-se que a ré tem a posse direta do bem e o autor, teria a indireta, a qual lhe foi suprimida temporariamente pela decisão da 6ª Vara Criminal da Justiça Federal.
+Ocorre que, como bem ressaltado na sentença apelada, há que se prestigiar, em virtude da função social, aquele que detêm o poder de fato sobre a coisa, que é justamente a demandada, sendo irrelevante se o imóvel se encontra em ponto nobre da cidade do Rio de Janeiro (fls. 420/426).
+Aplicável, portanto, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, não foi comprovada a divergência jurisprudencial, uma vez que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
