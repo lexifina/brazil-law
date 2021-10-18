@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por FEDERAÇÃO DE JUDÔ DO AMAZONAScom fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+PROCESSUAL CIVIL. CERTIFICADO DE AUTORIZAÇÃO DA CEF PARA A PRÁTICA DO BINGO. LIMINAR DENEGATÓRIA DO PEDIDO EM MANDADO DE SEGURANÇA. LITISPENDÉNCIA. INGRESSO DE VÁRIAS AÇÕES IDÊNTICAS COM O MESMO PROPÓSITO. VIOLAÇÃO AOS PRINCÍPIOS DA LEALDADE E BOA-FÉ PROCESSUAL. LEGALIDADE DA MULTA DE 20% SOBRE O VALOR DA CAUSA IMPOSTA À PARTE AUTORA (ART. 14, PARÁGRAFO ÚNICO, DO CPC). ILEGALIDADE DA MULTA PECUNIÁRIA IMPOSTA AO ADVOGADO DA PARTE (ART. 18 DO CPC). PRECEDENTES DO STJ. APELAÇÃO PARCIALMENTE PROVIDA.
+1. A parte apelante, não conformada com o indeferimento liminar do pedido veiculado em mandado de segurança precedente, valeu-se do ajuizamento sucessivo de feitos diversos para atingir o mesmo resultado jurídico, qual seja, a renovação do certificado de autorização de exploração do jogo do bingo junto à CEF.
+2. A simples modificação da autoridade impetrada não tem a força de legitimar o ajuizamento de ações idênticas, revelando, antes, a litigância de má-fé. Precedentes desta Corte.
+3. É dever do advogado que litiga em juízo estar ciente das normas processuais que exigem da parte os deveres de lealdade e boa-fé processuais, já que as consequências do ato negligenciado pela sua conduta deverão ser suportadas pela parte que representa, constituindo dever do órgão julgador penalizar atitudes atentatórias ao exercício da prestação jurisdicional (art. 14 do CPC).
+4. Por outro lado, segundo a jurisprudência dominante do Superior Tribunal de Justiça, "o disposto nos arts. 16 a 18 do CPC não se aplica ao advogado, mas, somente, à parte" (STJ, REsp 22.027-4, Min. Nilson Naves, DJ de 14.09.92). É que "os danos eventualmente causados pela conduta do advogado deverão ser aferidos em ação própria para esta finalidade, sendo vedado ao magistrado, nos próprios autos do processo em que fora praticada a alegada conduta de má-fé ou temerária, condenar o patrono da parte nas penas a que se refere o art. 18, do Código de Processo Civil" (REsp 11738481RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJ de 10/05/2010).
+5. Apelação parcialmente provida para excluir da condenação, tão-somente, a fixação de multa pecuniária imposta ao advogado da parte.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, arecorrente alega violação ao art.18,caput,do CPC/1973, por entender exorbitante o valor damultafixada pelo Tribunal de origem porlitigância de má-fé, uma vez que esta foi fixadaem R$10.000,00 (dez mil reais),sendo que o referido dispositivo limita a multa a 1% do valor atualizado da causa, valor este que foi de R$100,00 (cem reais).
+Admitido o recurso na origem, os autos ascenderama esta Corte Superior de Justiça.
+É o relatório.
+Passo a decidir.
+A insurgência merece prosperar.
+Isso porquena origem, houve sentença de extinção sem julgamento do mérito, condenando a autora e seu patrono, Hélder José Falei Ferreira, solidariamente, no pagamento de multa no valor de R$10.000,00 (dez mil reais), com fundamento no art. 18 do CPC/1973, e a Autora em 20% (vinte por cento) do valor atribuído à causa (art. 14, parágrafo único, do CPC/1973).
+O órgão colegiado deorigem, no julgamento do recurso de apelação, após análise dos elementos probatórios dos autos, manteve a aplicação damulta na base de 20% do valor atribuído à causa à parte autora(art. 14, parágrafo único, do CPC/1973).
+Na sequência do julgamento, quanto à multa por litigância de má-fé (art. 18 do CPC/1973), fixada solidariamentepara a autora e seu patrono emR$10.000,00 (dez mil reais), excluiu-a, tão somente, quanto ao advogado.
+Com razão arecorrente em sua insurgência acerca do montante da multafixada, nos termos do art.18,do CPC/73, uma vez que o mencionado dispositivo dispõe que o litigante de má-fé pagará multa não excedente a um por cento sobre o valor atualizado da causa.
+Na espécie, ovalor dado à causafoi de R$ 100,00 (cemreais), razão pela qual o acórdão recorrido está a merecer reforma quanto à multa aplicada àautora com fundamento no art. 18 do CPC/1973.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial nos termos da fundamentação,para fixar a indenização por litigância de má-fé no limite máximo previsto no art. 18, caput, do CPC/73.
+Intimem-se.
+Publique-se
