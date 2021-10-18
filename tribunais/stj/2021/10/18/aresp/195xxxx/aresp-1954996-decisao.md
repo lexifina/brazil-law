@@ -1,0 +1,16 @@
+DECISÃO
+HAROLDO GONÇALVES DE FARIAagrava de decisão que inadmitiu seu recurso especial - fundado no art. 105, III, "a", da Constituição Federal, contra acórdão doTribunal de Justiça do Estado de Goiás- motivada na incidência daSúmula n. 7 do STJ.
+Nas razões do recurso especial, a defesaapontou violação doart. 621, I, do Código de Processo Penal, ao argumento de que á válida análise da ilegalidade da motivação lançada para majorar a pena-base em revisão criminal.
+Requereu o provimento do recurso, a fim de que fosse reformado o acórdão.
+O Ministério Público Federalmanifestou-se pelo não conhecimento do agravo.
+Decido.
+O recurso especial é tempestivo, mas não preencheu todos os requisitos constitucionais, legais e regimentais para seu processamento, porquanto o assunto em discussão não foi prequestionado.
+Conforme reiterada jurisprudência desta Corte, para que se atenda ao requisito do prequestionamento, é necessário que a questão haja sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado, o que não ocorreu na espécie.
+Com efeito, após o trânsito em julgado da condenação do ora recorrente, a Defensoria Pública interpôs revisão criminal, a qual não foi conhecida pelo Tribunal estadual, conforme se observa:
+No presente caso, percebe-se que o objetivo do requerente é obter novo provimento jurisdicional. Contudo, a revisão criminal não deve ser utilizada como sucedâneo recursal, tal qual fosse uma segunda apelação. O acórdão abordou de forma efetiva e exaustiva as questões aventadas na ação rescisória.
+Assim, depreende-se que a presente revisional está totalmente dissociada das hipóteses alinhavadas no art. 621, do Código de Processo Penal, pretendendo unicamente o reexame das matérias já enfrentadas, ensejando a sua carência.
+Conclusão: acolho o parecer da Procuradoria-Geral de Justiça, para julgar o autor carecedor do direito de ação (fls. 1.036-1.037, grifei).
+A defesa nem sequer opôs embargos de declaração.Assim, o mérito das teses veiculadas nas razões do especial não foi analisado pelo Juízo de segundo grau. Incidem, portanto, os óbices daSúmulan.282 do STF, que é observada por esta Corte - "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ainda que assim não fosse, os pleitos defensivos não mereceriam provimento, pois no que tange à primeira etapa da dosimetria, o STJ também é firme em assinalar: " e m relação à dosimetria da pena, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade. Destarte, a revisão não pode ser utilizada como se apelação (ou recurso especial) fosse, para rediscutir, minuciosamente e à luz dos mesmos elementos probatórios, as circunstâncias que já foram valoradas no processo originário(AgRg no REsp 1805996/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 29/03/2021, grifei).
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
