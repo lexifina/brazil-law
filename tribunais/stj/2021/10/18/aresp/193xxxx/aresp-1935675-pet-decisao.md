@@ -1,0 +1,12 @@
+DECISÃO
+1. Trata-se de petição,apresentadapor CAPEMISA SEGURADORA DE VIDA E PREVIDÊNCIA S.A.,contra decisão de fls. 358/359, que determinou a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, sejam tomadas as providências previstas nos arts. 1.040 e.1.041 do CPC/2015.
+Na petição de fls. 361/363, a parte requerente alega que "a questão afetada no Tema 1.046 diz respeito à utilização do § 8º, do artigo 85, do CPC, juízo de equidade, nas causas de elevado valor, sobretudo quando quantificável a condenação ou o proveito econômico.No caso em tela, o debate é o oposto, o uso do juízo de equidade, em causa de baixo valor, igualmente quantificável a condenação e o proveito econômico". Assim, as questões não seriam idênticas, não havendo razão para o presente recurso ser suspenso.
+Pugna pelo regular prosseguimento do feito a apreciação do recurso.
+É o relatório. DECIDO.
+2. Não merece acolhida o pedido ora formulado.
+2.1. Com efeito, de acordo com precedentes desta Corte, é irrecorrível a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.040 e 1.041 do Código de Processo Civil de 2015, uma vez que ela não é capaz de gerar prejuízo às partes.
+A propósito, "A decisão que determina o retorno dos autos com sobrestamento por afetação de recurso repetitivo, como se sabe, é irrecorrível, sendo certo ainda que o pedido de reconsideração também não impede o transcurso de qualquer prazo recursal" (in PET no REsp nº 1.589.815-PB, Rel. Ministro Napoleão Nunes Maia Filho, in DJe 06.05.2020).
+2.2. Ademais, como já consignado na decisão proferida às fls. 358/359, a controvérsia foi afetada para uniformizar o entendimento sobre:"A possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015". (Tema 1.046).
+Nesse contexto, prudente e aconselhável a suspensão do presente recurso, que também trata da fixação de honorários de sucumbência pelo critério da equidade e nos termos do artigo 85, § 8º, do CPC de 2015, apesar de se tratar, como afirmado pelo requerente, da causa de baixo valor, poisnão sabemos qual a interpretação finale a abrangência que o Superior Tribunal de Justiça dará sobre juízo de equidade.
+3. Ante o exposto, indefiro o pedido, confirmando, portanto, o comando exarado na decisão de fls. 358/359.
+Publique-se. Intimem-se.
