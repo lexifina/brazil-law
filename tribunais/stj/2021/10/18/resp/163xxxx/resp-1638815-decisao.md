@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Maria Elisa Ferreira Bastos, com fundamento na alínea "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ, fls. 955-956):
+ADMINISTRATIVO - CONCURSO PÚBLICO - AGENTE DA POLÍCIA FEDERAL - TESTE DE APTIDÃO FÍSICA - BARRA FIXA - MODALIDADE ESTÁTICA - PREVISÃO EDITALÍCIA - ISONOMIA - LEGALIDADE - ALCANCE DA APRECIAÇÃO PELO JUDICIÁRIO.
+1- Em sendo o Edital a lei do concurso, "estabelece-se um vínculo entre a Administração e os candidatos, igualmente ao descrito na Lei de Licitações Públicas, já que o escopo principal do certame é propiciar a toda a coletividade igualdade de condições no ingresso ao serviço público. Pactuam-se, assim, normas preexistentes entre os dois sujeitos da relação editalícia. De um lado, a Administração. De outro, os candidatos. Com isso, é defeso a qualquer das condutas lineares, universais e imparciais adotadas no certame" (STJ, EARESP 657.488, DJ 16/05/2005).
+2- A autora e todos os demais participantes do concurso em questão, tiveram prévia ciência dos critérios que foram estabelecidos no Edital para a realização do teste de aptidão física.
+3- A exigência de que os candidatos ao cargo de Escrivão da Polícia Federal devam demonstrar aptidão física tem respaldo na lei (art. 9º da Lei nº 4.87.8/65 e art. 8º do Decreto-Lei nº 2.320/87), é perfeitamente compatível com as atribuições inerentes ao cargo.
+4- Não se pode falar em ofensa ao princípio da isonomia, na medida em que foram critérios para a realização do teste, diferenciados em função do sexo masculino ou feminino, nos termos da Instrução Normativa nº 003/2004-DGP/DPF, que regulamenta aplicação da prova de capacidade física.
+5 Em tema de Concurso Público, é vedado ao Poder Judiciário reapreciar as notas e provas atribuídas pela Banca Examinadora, procedendo a revisão de provas, limitando-se o controle judicial à verificação da legalidade do edital e do cumprimento de suas normas pela comissão responsável.
+6- In casu, quanto ao acerto ou não da avaliação empreendida pela banca examinadora, não cabe ao Judiciário imiscuir-se em tal aspecto valorativo, eis que se trata de questão adstrita a Reserva de Administração, à luz do Princípio da Divisão Funcional do Poder, o que exclui a possibilidade de conhecimento do feito com atribuição de nota à impetrante, conforme requerido.
+7- Não se vislumbra no acórdão objurgado, qualquer eiva de teratologia, de ilegalidade, ou à evidência de prova dos autos, a justificar a sua reforma; ao reverso, ictu oculi se encontra harmônico com a orientação da Suprema Corte, quanto à vinculação dos candidatos às normas editalícias (STF, STA 106, DJ de 20/3/07), quer no que concerne ao aspecto isonômico (STF, RE 351142, DJ de 01/7/05).
+8- Embargos infringentes desprovidos.
+Os embargos de declaração opostos foram desprovidos (e-STJ, fls. 986-994).
+Nas razões doespecial, a recorrente alega divergência jurisprudencial com fundamento no art. 2º, caput, da Lei n. 9.784/1999.
+Defende, em síntese, que a exigência de teste físico em barra dinâmica para os candidatos do sexo feminino fere a isonomia entre mulheres e homens, bem como a razoabilidade e a proporcionalidade. Pretende que seja aplicado o teste de barra fixa na modalidade estática.
+Aduz ainda que o cargo de escrivão da polícia é de natureza meramente escriturária e que não seria necessário tamanho esforço físico.
+Parecer do Ministério Público Federal pelo provimento do recurso especial (e-STJ, fls. 329-334).
+É o relatório.
+O exame de aptidão física, nos concursos públicos, tem como objetivo aferir a habilidade física relacionada à destreza, agilidade, flexibilidade, força e capacidade respiratória, tendo em vista a natureza do cargo a ser desempenhado.
+O entendimento do Superior Tribunal de Justiça éde que a exigência de exame físico ou mental em concurso público é lícita quando prevista no edital e na lei, levando em consideração as peculiaridades do cargo em disputa (AgRg no RMS 26.379/SC, de minha relatoria, Sexta Turma, julgado em 23/4/2013, DJe 2/5/2013).
+Ao apreciar a controvérsia, o Tribunal de origem entendeu que a exigência de teste físico para o cargo de Escrivão da Polícia Federal tem respaldo legal e é compatível com as atribuições do cargo. Ressaltou, ainda, que não há que se falar em violação do princípio da isonomia, na medida em que foram adotados os critérios para a realização do teste, diferenciados em função do sexo masculino ou feminino. Desse modo, concluiu pela legalidade do teste aplicado.
+É o que se extrai (e-STJ, fl. 951):
+Ademais, a exigência de que os candidatos ao cargo de Escrivão da Polícia Federal devam demonstrar aptidão física tem respaldo na lei (art.9º da Lei nº 4.878/65 e art.8º do Decreto Lei nº 2.320/87), e é perfeitamente compatível com as atribuições inerentes ao cargo.
+Por outro lado, não se pode falar em ofensa ao princípio da isonomia, na medida em que foram adotados critérios para a realização do teste, diferenciados em, função do sexo masculino ou feminino, nos termos da Instrução Normativa nº 003/2004-DGP/DPF, que regulamenta a aplicação da prova de. capacidade física.
+A decisão recorrida não comporta reparos.
+Conforme exposto, esta Corte Superior firmouentendimento de que a exigência de exame físico ou mental em concurso público é lícita quando prevista no edital e na lei, levando em consideração as peculiaridades do cargo em disputa (AgRg no RMS n. 26.379/SC, de minha relatoria, Sexta Turma, julgado em 23/4/2013, DJe de 2/5/2013).
+Exatamente o que se verificou na hipótese, uma vez que a exigência de que os candidatos ao cargo de Escrivão da Polícia Federal devam demonstrar aptidão física tem respaldo na lei (arts. 9º da Lei n. 4.878/1965 e do Decreto-Lei n. 2.320/1987) e também estava previstano edital.
+Ademais, as disposições do edital inserem-se no âmbito do poder discricionário da administração, o qual não está, porém, isento de apreciação pelo Poder Judiciário, se houver comprovação de ilegalidade ou inconstitucionalidade nos juízos de oportunidade e conveniência, o que não se verifica na hipótese.
+Soma-se a isso o fato, a ser usado por analogia, de que esta Corte já firmou que o cargo de escrivão de polícia civil exige a avaliação de capacidade física dos candidatos no concurso público, senão vejamos:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PARA ESCRIVÃO DE POLÍCIA CIVIL. TESTE DE APTIDÃO FÍSICA - TAF. EXPRESSA PREVISÃO LEGAL. LEGALIDADE. PRECEDENTES.
+1. Não se pode reputar ilegal ou abusivo o ato de autoridade administrativa que dá fiel cumprimento às disposições legais e normativas, nem líquido e certo um direito que contraria expressa previsão legal.
+2. A jurisprudência do STJ tem se posicionado no sentido da legalidade da exigência de aprovação no teste de aptidão física no concurso para o cargo de escrivão de polícia civil, desde que amparada em lei e expressamente prevista no edital regulador do certame. Precedentes.
+3. Agravo regimental a que se nega provimento
+(AgRg no RMS n. 47.139/MA, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 22/8/2017).
+Desse modo, não ficou comprovada qualquer ilegalidade nas exigências previstas. Assevero que os precedentes apresentados pela parte não se coadunam com a orientação mais recente deste Superior Tribunal de Justiça.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
