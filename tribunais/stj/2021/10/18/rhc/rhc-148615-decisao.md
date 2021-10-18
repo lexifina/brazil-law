@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto porAlberto Ruan Silveira dos Santoscontra o acórdão proferido pelo Tribunal de Justiça da Bahia noHCn. 8011870-56.2021.8.05.0000,resumido nos termos desta ementa (fls. 76/77):
+HABEAS CORPUS. ROUBO MAJORADO (157, § 2º, I e II, do CP - COMARCA DE TUCANO) E ROUBO QUALIFICADO (ART 157, § 1º E § 3º, DO CP - (LATROCÍNIO COMARCA DE TEOFILÂNDIA), EM CONCURSO MATERIAL. INEXISTÊNCIA DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. ENCERRAMENTO IMINENTE DA INSTRUÇÃO. NÃO CONFIGURADA DESÍDIA NA CONDUÇÃO DO PROCESSO. ORDEM DENEGADA.
+- Os prazos indicados na legislação processual penal não são peremptórios, servindo apenas como parâmetro geral, daí que não se pode concluir pelo excesso a partir de mera soma aritmética dos prazos processuais, podendo-se flexibilizá-los diante das peculiaridades do caso concreto.
+- Embora o art. 319, do CPP, preveja a aplicação de medidas cautelares em substituição à prisão preventiva, a análise do caso concreto não recomenda que as mesmas sejam utilizadas quando,em se considerando a periculosidade do paciente, essas não se revelarem suficientes para assegurar, de forma eficaz, a ordem pública.
+HABEAS CORPUSDENEGADO.
+Aqui, alega-se, em resumo, excesso de prazo para a prolação de sentença na Ação Penal n. 0000125-19.2018.8.05.0261, em curso na Vara Criminal da comarca de Tucano/BA;e fundamentação da manutenção da prisão preventiva inválida, por ausência de previsão no art. 312 do Código de Processo Penal.
+Requer-se a concessão de medida liminar para relaxar a prisão preventiva do recorrente ou a substituição das custódias por medidas cautelares alternativas.
+Indeferi o pedido urgente (fls. 165/167).
+Informações prestadas (fls. 210/211).
+Parecer do Ministério Público Federal opinando peloparcial conhecimento do recurso e, na parte conhecida, pelo seu desprovimento, com recomendação (fls. 192/200).
+É o relatório.
+A questão relacionada ao dito excesso de prazo na formação da culpa está prejudicada.Isso porque, de acordo com as informações recentemente remetidas pelo Juízo de origem no RHC n. 153.327/BA, a fase de instrução foi encerrada.Eis o que noticiou aMagistrada de primeiro grau, àfl. 924 daqueles autos:conforme se depreende dos autos, o processo se encontra em decurso de prazo para que as partes ofereçam as alegações finais, por memoriais, e, a seguir, ser prolata sentença de mérito.
+Dessa forma, ocorre a incidência da Súmula 52 desta Corte: encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo(HC n. 431.607/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/8/2018).
+A matéria referente aos fundamentos da custódia cautelar já foi apreciada por esta Corte no julgamento do HC n. 472.766/BA e, conforme bem ponderouoSubprocurador-Geral da República Rodolfo Tigre Maia,não há que se cogitar de reapreciação da coisa julgada mandamental, à míngua de alteração substancial na realidade fático-jurídica (rebus sic stantibus), que informou o julgamento do mencionado writ, ou de explicitação de novel esforço lógico-argumentativo, que estivesse ausente da demanda pretérita(fl. 195).
+Nohabeas corpusanteriormente impetrado, a Sexta Turmaentendeu que a prisão cautelar foi decretada e mantida com motivação idônea, considerando-se as circunstâncias concretas do fato delituoso, reveladoras, pelo modus operandi empregado, da real gravidade do crime (rouboe latrocíniopraticados em concurso de agentes, mediante grave ameaça exercida com emprego de arma de fogo, contra várias vítimas em estabelecimento comercial e em um posto de combustível, resultando na morte de uma das vítimas por atropelamento).
+Daquele julgado também constou que o fundado receio de reiteração delitiva (decorrente do fato de o réu ostentar histórico criminoso, bem como ter foragido da carceragem)conferiu lastro de legitimidade à manutenção da medida extrema.
+Dessa forma, consideradas as circunstâncias do fato e a gravidade da conduta, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, inciso II, do Código de Processo Penal (AgRg no HC n. 659.579/RS, Ministra Laurita Vaz, Sexta Turma, DJe 28/5/2021).
+Pelo exposto, conheço em parte do recurso e, nessa parte, julgo-o prejudicado.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBO MAJORADO E LATROCÍNIO. EXCESSO DE PRAZO. SUPERVENIENTE ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. APLICAÇÃO DA SÚMULA 52/STJ. PRISÃO PREVENTIVA. MEDIDAS CAUTELARES ALTERNATIVAS. MATÉRIAS APRECIADAS EM WRIT ANTERIORMENTE IMPETRADO. REITERAÇÃO DE PEDIDOS.
+Recurso prejudicado na parte conhecida.
