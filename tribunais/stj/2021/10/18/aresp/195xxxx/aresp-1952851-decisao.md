@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Diego Bernardi Lemos, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 231):
+AGRAVO DE INSTRUMENTO. SEGURO. CUMPRIMENTO DE SENTENÇA. JULGAMENTO DE IMPROCEDÊNCIA. EXECUÇÃO PROVISÓRIA. RESTITUIÇÃO DOS VALORES. AUSÊNCIA DE PRECLUSÃO PRO JUDICATO. 1. O despacho inicial do cumprimento de sentença, que determina a intimação do devedor para pagamento do débito, sob pena de incidência da multa, não forma coisa julgada material, nos termos dos arts. 502 e 503 do CPC, podendo ser revisto pelo Magistrado posteriormente, desde que não tenha sido objeto de julgamento na instância superior, como na espécie. 2. Além disso, a preclusão disposta no art. 507 do CPCé inerente às partes do processo, e não ao julgador. 3. Assim, verificando o juízo a incorreção de despacho anterior, poderá modificá-lo para adequá-lo à lei ou à jurisprudência consolidada. 4. A execução provisória corre por conta e risco do credor; assim, eventual posterior modificação do julgamento impõe ao então credor que arque com as perdas e danos decorrentes, na espécie, consubstanciada na restituição dos valores da verba honorária que havia sido levantada pelo advogado. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 282):
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. SEGURO. CUMPRIMENTO DE SENTENÇA. JULGAMENTO DE IMPROCEDÊNCIA. EXECUÇÃOPROVISÓRIA. RESTITUIÇÃO DOS VALORES. AUSÊNCIA DE PRECLUSÃO PRO JUDICATO. DESACOLHIMENTO. 1. Cabem embargos nos casos de omissão, contradição, obscuridade ou erro material no acórdão embargado. Art. 1.022 c/c 489, § 1º ambos do CPC/2015. 2. As questões aventadas nos autos foram apreciadas peloColegiado, sendo que a conclusão adotada pelo acórdão embargado está devidamente fundamentada e motivada, ausente qualquer vício que implique nulidade do julgado. 3. Pretensão da parte embargante de ver rediscutida a matéria posta no recurso e já apreciada por este Juízo, o que não é permitido pelo sistema processual vigente. 4. Prequestionamento da legislação invocada conforme estabelecido pelas razões de decidir, seguindo compreensão do disposto no art. 1.025 do CPC. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Em suas razões de recurso especial (e-STJ, fls. 287-294), o agravante alegou violação aos arts. 489, § 1º, IV, 505, I, e 1.022, II, do Código de Processo Civll do 2015.
+Sustentou, em síntese, que o acórdão recorrido foi omisso, pois não se manifestou a respeito da aplicabilidade do art. 505, I, do NCPC ao presente caso.
+Asseverou que é defeso ao Tribunal a quo decidir questão já decidida sobre o mesmo objeto da controvérsia.Requereu, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 302-319).
+O processamento do apelo especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 402-418).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material, não possuindo natureza de efeito modificativo.
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste negativa de prestação jurisdicionalapenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. JULGAMENTO EM SESSÃO VIRTUAL. NULIDADE POR CERCEAMENTO DE DEFESA DESCARACTERIZADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver no acórdão embargado obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. Não se constatam os vícios alegados pela parte embargante, que busca rediscutir a admissibilidade de seu recurso, o que é incabível nos aclaratórios.
+3. Nulidade do julgamento em sessão virtual por cerceamento do direito de defesa não caracterizada. Com efeito, nos termos da decisão que indeferiu a retirada de pauta, os então agravantes, ora embargantes, poderiam se comunicar com os demais Ministros do colegiado por diversas formas, apresentando esclarecimentos de fato e de direito que entendessem necessários para apreciação do feito.
+Foi destacado também que o eventual julgamento presencial por videoconferência não viabilizaria sustentação oral. Ademais, não demonstraram efetiva e concretamente qual teria sido o suposto prejuízo à defesa e quais questões de fato - que não se confundem com sustentação oral - deveriam ter sido apresentadas.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EREsp 1637369/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 10/02/2021, DJe 17/02/2021)
+Com relação ao reconhecimento da preclusão pro judicato, o Tribunal de origem assim se manifestou (e-STJ, fl. 242):
+De pronto, assento que não prospera a insurgência da agravante, uma vez que inexiste a preclusão pro judicato na espécie.
+Com efeito, o despacho inicial do cumprimento de sentença não forma coisa julgada material, nos termos dos arts. 502 e 503 do CPC podendo ser revisto pelo Magistrado posteriormente, desde que não tenha sido objeto de julgamento na instância superior, como na espécie, em que não houve irresignação pelo devedor.
+Além disso, cumpre observar que a preclusão constante do art. 507 do CPC é relativa às partes do processo, e não ao julgador.
+Ou seja, verificando o juízo a incorreção de despacho anterior, poderá modificá-lo para adequá-lo à lei ou à jurisprudência consolidada.
+Nesse contexto, apesar dos argumentos deduzidos pela parteinsurgente, reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, no que se refere à existência de preclusão e de violação à coisa julgada, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. COISA JULGADA.INTERPRETAÇÃO. LIMITES. REEXAME DE MATÉRIA FÁTICA DA LIDE.IMPOSSIBILIDADE. CLÁUSULA ABUSIVA. CONHECIMENTO DE OFÍCIO.IMPOSSIBILIDADE. SÚMULA N. 371/STJ.
+1. O acolhimento das alegações de ofensa à coisa julgada dependeria de reexame de matéria fática, o que é inviável em recurso especial, nos termos da Súmula 7 do STJ. Precedentes.
+2. "Nos contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas" (Súmula n. 371/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1860162/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/03/2021, DJe 11/03/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA NÃO CONHECER DO APELO NOBRE.INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Inexiste interesse recursal da parte quando a Corte de origem reconhece o direito pleiteado.
+2.Para reverter a conclusão consignada no Tribunal de origem quanto à matéria discutida estar acobertada pela preclusão seria necessário o revolvimento das provas constantes dos autos, providência esta inviável na via do recurso especial, conforme o enunciado da Súmula 7/STJ.
+3.A jurisprudência do Superior Tribunal de Justiça tem asseverado que o reconhecimento da existência de ato atentatório à dignidade da justiça exige a apreciação de seus requisitos autorizadores, o que demanda o revolvimento do conjunto fático-probatório dos autos, vedado em Recurso Especial, em razão do óbice contido na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1087186/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AUSÊNCIA DE PRECLUSÃO PRO JUDICATO. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
