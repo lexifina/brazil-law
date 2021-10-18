@@ -1,0 +1,48 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por HELEN ZAMPERINI EZICHIELLO com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 292/303e):
+Direito Administrativo municipal. Ação de obrigação de não fazer c/c dano materiais e morais. Imóvel sujeito a desocupação e demolição em razão de ter sido edificado em área "non aedificandi". Sentença de improcedência. Recurso. Desacolhimento.
+A moradia é um direito social fundamental protegido pela Constituição Federal, em seu art. 6º, corolário do princípio da dignidade humana, também assegurado pela Carta Magna. No entanto, incumbe ao Município a demolição de áreas consideradas não edificantes, a fim de evitar danos e prejuízos irreparáveis à sociedade e ao meio ambiente local, como também risco de morte a seus cidadãos em casos especiais.
+Poder de Polícia da Municipalidade que deve ser respeitado.
+Compulsando os autos, tem-se que o imóvel objeto da lide foi edificado em área imprópria, conforme aponta o Laudo de Vistoria Rio- Águas nº 010/2019, à fl. 123, que constatou que algumas moradias foram construídas sobre galeria pluviais e em sua proximidade, sujeitando seus moradores a desabamentos e enchentes em decorrência de temporais.
+Direito a moradia que deve ser afastado, uma vez que a autora não reside no imóvel e o mesmo encontra-se em área de risco.
+Apelante que reconhece não ter feito ainda o registro do imóvel, apesar de ter escritura, e constar dos autos que o imóvel não tinha "habite-se", na forma legal.
+Precedente: 0437256-79.2015.8.19.0001 - Apelação - Des(a) Renata Machado Cotta - Julgamento: 09/10/2020 - Terceira Câmara Cível.
+Desprovimento do recurso. Aplicação de honorários recursais, observada a gratuidade de justiça.
+Nas razões recursais, alega-se, em síntese que (fls. 317/338e):
+A autora é proprietária do imóvel localizado na Rua Corrêa Teixeira, nº 450, Realengo (conforme Escritura definitiva de compra e venda, livro  SB-333, folha 185, Ato 117 realizada em 01 de setembrode 2006. Insta ressaltar que a autora apenas não averbou a escritura no Registro Público pois não possui valor financeiro.
+A propriedade da autora não foi construída de forma irregular, pois teve todos os licenciamentos e seus registros, não há que se falar também em comunidade, considerando que o imóvel é bem localizado, em acesso a vias principais, conforme fotos expostas as casas bem construídas e planejadas, assim como a da autora.
+A vala negra que passa entre o imóvel da autora e do seu vizinho é culpa exclusiva da pavimentação dos réus, que não fez seu papel social, a autora paga seus impostos e foi ameaçada da perda da sua propriedade, sem qualquer fundamentação, exposição, como se a autora fosse absolutamente nada, como se o RGI do imóvel não tivesse qualquer valor, e ao falar em valor para a desapropriação, existe requisitos e pagamento pelo imóvel.
+Ocorre que o loteamento sempre foi legalmente planejado, conforme a planta em anexo, a construção da autora fica ao lado de uma vala de esgoto, assim como as demais casas.
+Os réu não apresentaram qualquer planejamento para que ensejasse a demolição da casa da autora, que possui RGI, paga seus impostos, conta como água e esgoto (em anexo), bombeiros.
+O município quer desapropriar a residência da autora de forma ilegal. A planta da área apenas proibiu o lote 01, Quadra A, os demais estão legalizados com PA o da autora é 5.777, seu lote sempre esteve regularizado e registrado. Vale ressaltar que a vala de esgoto, é culpa exclusiva dos réus, considerando que a rua é pavimentada boa localização no bairro.
+Logo o ato administrativo é nulo, não tendo qualquer legalid pois não tem fundamentação ou amparo legal para a demolição da propriedade da autora.
+O ato dos réus vem causando danos para a autora eis que sua locatária, poderá processar a autora por culpa da notificação. Na planta o lote da propriedade da autora lote 49 quadra A está localizado em baixo da letra "B" PA 5.777.
+A autora possui o imóvel à 13 anos e nunca teve qualquer problemas, nem seus vizinhos. Sabe-se que a moradia é desde os tempos remotos uma necessidade fundamental dos seres humanos de baixa renda  que é a grande maioria  pois, para os detentores do "poder" parece não ser. O grande problema da falta de moradia para tantos cidadãos, além de proceder de um passado histórico, é fruto não só de ausência de políticas públicas, mas, também de uma política que sempre esteve voltada para os interesses individuais, deixando de lado os menos favorecidos, burlando, assim, todos os tratados internacionais e os direitos sociais garantidos pela Carta Magna.
+Sem contrarrazões, subiram os autos a esta Corte (fl. 341e), sendo aqui autuada como Petição - PET n. 14.645/RJ.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No caso, a Requerente ajuizou a ação de rito ordinário, com provimento de obrigação de fazer cumulada com indenização por dano material e moral emface do Município do Rio de Janeiro/RJ e da Fundação Instituto de Águas do Município do Rio de Janeiro, sustentando serproprietária do imóvel localizado na Rua Corrêa Teixeira nº 450, Realengo, o qual mantém alugado para obtenção de renda. Aduz que recebeu notificação (nº 173/2019  processo nº 02/530.252/2018) da Rio-Águas avisando da necessidade de sua demolição e objetivando acondenação dos réus: a) a lhe pagar indenização pela desapropriação do bem; b) em danos morais no valor não inferior a R$ 50.000,00; c) a pagar valor equivalente ao da perda da sua renda de aluguel (fls. 05/39e).
+O Juízo de primeiro grau julgou improcedente o pedido (fls. 199/200e).
+O Tribunal de origem negou provimento ao recurso (fls. 292/303e).
+Portanto,o recurso cabível é o Recurso Especial, previsto no art. 105, III, da Constituição da República.
+O recurso ordinário não foi interposto dentro de uma dashipóteses de cabimento previstas nos arts. 105, II, da Constituição da República e1.027, II, do Código de Processo Civil de 2015.
+O recebimento do recurso ordinário comorecurso especial não é devido, pois se trata de um erro grosseiroque afasta o princípio da fungibilidade.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA.CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INADEQUAÇÃO DA VIA ELEITA. FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. ERRO GROSSEIRO.ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I  Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II  É incabível a interposição de recurso ordinário constitucional contra acórdão proferido em sede de apelação, sendo o recurso especial meio próprio para o fim a que se destina.
+III  A aplicação do princípio da fungibilidade depende do preenchimento dos seguintes requisitos: i) dúvida objetiva quanto ao recurso a ser interposto; ii) inexistência de erro grosseiro; e iii) que o recurso interposto erroneamente tenha sido apresentado no prazo daquele que seria o correto. In casu, nenhum dos requisitos restou cumprido.
+IV  Não existe dúvida objetiva quanto ao recurso a ser interposto, configurando-se erro grosseiro e impedindo seu conhecimento.
+V  Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI  Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII  Agravo Interno improvido.
+(AgInt no RMS 62.073/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 01/03/2021, DJe 05/03/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. HIPÓTESE DE CABIMENTO. NÃO OCORRÊNCIA.INCIDÊNCIA DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso ordinário não foi interposto dentro de uma das hipóteses de cabimento previstas no art. 105, II, da CF/1988 ou no art. 1.027, II, do CPC/2015. O recebimento do recurso ordinário como recurso especial não é devido, pois se trata de um erro grosseiro que afasta o princípio da fungibilidade.
+2. A inadmissibilidade manifesta do agravo interno atrai a aplicação da multa prevista nos arts. 1.021, § 4º, do CPC/2015.
+3. Agravo interno não provido com aplicação de multa.
+(AgInt no RO 232/BA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/09/2021, DJe 30/09/2021).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Ordinário.
+Publique-se e intimem-se.
