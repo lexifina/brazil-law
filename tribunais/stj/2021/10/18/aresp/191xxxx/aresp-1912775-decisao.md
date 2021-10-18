@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou admissão a recurso especial interposto por ERIK MACEDO MARQUES, com fundamento no art. 105,III, letras a e c, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Na instância de origem, a parte ora recorrenteinterpôs apelação contra a sentença que, na fase de cumprimento do título judicial, extinguiu o feito, com base no art. 485, VI, do CPC/2015, por ilegitimidade do procurador municipal para executar, em nome próprio, os honorários advocatícios sucumbenciais fixados na sentença favorável ao município.
+A sentença fixou honorários de 10% sobre o proveito econômico da causa.
+Valor atribuído à causa (fl. 3): R$ 5.540,38 (cinco mil, quinhentos e quarenta reais e trinta e oito centavos),em janeiro/2020.
+O Tribunal a quo negou provimento ao recurso em acórdão assim ementado (fl. 76):
+APELAÇÃO CÍVEL.
+1. Cumprimento de sentença Acolhimento de impugnação Decisão judicial atacável por intermédio de recurso de apelação,uma vez que houve a extinção da execução Entendimento firmado no âmbito do E. STJ - Incidente individualmente instaurado por Procurador Municipal para a cobrança de honorários advocatícios fixados em favor do Município de Leme Descabimento - Verba que integra o patrimônio da Fazenda Pública, não constituindo direito autônomo dos Procuradores do Município - Precedentes jurisprudenciais Manutenção da sentença.
+2. Recurso não provido.
+O Tribunal majorou os honorários em 2% (CPC/2015, art. 85, § 11).
+Opostos embargos de declaração, foram eles rejeitados pelo acórdão de fls. 149-155.
+Nas razões do recurso especial, alega-se, inicialmente, ofensa ao art. 489, § 1º, IV, do CPC/2015. Sustenta-se que, embora provocado por embargos de declaração, a Corte estadual deixou de se manifestar sobre os arts 18 e 85. § 19, do CPC/2015; 23 da Lei nº 8.909/94 e sobre a Lei Municipal nº 3.082/2010.
+Em seguida, alega-se ofensa aos arts 18 e 85,§ 19, do CPC/2015,23 da Lei nº 8.909/94 e à Lei Municipal nº 3.082/2010. Argumenta-se, em síntese, que (fls. 238-239):
+a cada um dos integrantes é ex lege dado o poder de representação judicial do ente público, mais acertado ainda a cada um destes integrantes ser também reconhecido o interesse e legitimidade de ser parte e postular para a execução dos honorários das demandas em que a Procuradoria, órgão ao qual pertence,é chamada a atuar. Com efeito, aqui cabe a máxima "in eo quod plus est semper inest et minus".
+ ..  os Procuradores Municipais submetem-se ao regime da Lei 8906/94, conforme o § 1º do art. 3º deste Diploma 2 , deve pois ser a estes reconhecida a legitimidade para pleitear, em nome próprio, os honorários incluídos na condenação, pois o advogado tem direito autônomo para executar a sentença no que cabe aos honorários, conforme art. 23 desta mesma lei:
+Foram apresentadas contrarrazões pelo improvimento do recurso especial (fls. 318-319).
+A decisão de inadmissibilidade às fls. 321-323.
+O agravo apresenta argumentos que visam a infirmar os fundamentos da decisão agravada.
+É o relatório. Decido.
+O agravante impugnou os fundamentos da decisão agravada e estão atendidos os demais pressupostos de admissibilidade do agravo. Assim, passo ao exame do recurso especial.
+Afasto a alegação de ofensa ao art. 489 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+Não cabe, em recurso especial, alegação de ofensa a texto de lei municipal.
+Por outro lado, esta Corte Superior tem jurisprudência no sentido de que não é reconhecida ao procurador municipal legitimidade para executar em nome próprio, autonomamente,os honorários advocatícios sucumbenciais fixados na sentença favorável ao ente público. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALEGAÇÕES GENÉRICAS. VERBA HONORÁRIA DEVIDA A ENTE PÚBLICO. PRECATÓRIO. COMPENSAÇÃO. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. A jurisprudência do STJ é assente em admitir a possibilidade de compensação de parte do precatório com a verba honorária devida ao ente público em impugnação de cumprimento de sentença julgada procedente, pois os honorários de sucumbência não constituem direito autônomo do procurador judicial, visto que integram o patrimônio público da entidade, sendo possível a compensação com o crédito previsto no título.
+2. A falta de argumentação ou sua deficiência implica não conhecimento do recurso especial quanto à questão deduzida, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1907197/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/05/2021, DJe 02/06/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA.HONORÁRIOS DE SUCUMBÊNCIA. VENCEDOR O ENTE PÚBLICO. COMPENSAÇÃO.POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA.ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual os honorários advocatícios de sucumbência, quando vencedor o ente público, não constituem direito autônomo do procurador judicial porque integram o patrimônio público da entidade, assim, legítima a compensação determinada pelo Juízo de origem.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Honorários recursais. Não cabimento. V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1715808/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/04/2018, DJe 02/05/2018).
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS.VENCEDOR O ENTE PÚBLICO. NÃO CONFIGURADO DIREITO AUTÔNOMO DO PROCURADOR MUNICIPAL. DECRETO DO MUNICÍPIO DE ARARANGUÁ/SC QUE DETERMINA O RECOLHIMENTO DOS VALORES SUCUMBENCIAIS AOS COFRES PÚBLICOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme em que os honorários de sucumbência, quando vencedor o ente público, não constituem direito autônomo do Advogado Público, porque integram o patrimônio da entidade, não pertencendo ao procurador ou representante judicial.
+2. Agravo Regimental desprovido.
+(AgRg no AgRg no Ag 970.240/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 16/11/2010, DJe 13/12/2010).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO POPULAR QUE OBJETIVA O RESSARCIMENTO AOS COFRES PÚBLICOS MUNICIPAIS DOS HONORÁRIOS ADVOCATÍCIOS PERCEBIDOS PELOS PROCURADORES MUNICIPAIS. ACÓRDÃO RECORRIDO QUE JULGA PROCEDENTE, EM PARTE, O PEDIDO, EM VIRTUDE DE HAVER LEGISLAÇÃO LOCAL (DECRETO MUNICIPAL) QUE AUTORIZA O PERCEBIMENTO DE PARTE DOS VALORES. ALEGAÇÃO DE VIOLAÇÃO DO ART. 23 DA LEI N. 8.906/94. NÃO OCORRÊNCIA. IMPOSSIBILIDADE DE O STJ ANALISAR A ALEGAÇÃO DE INCONSTITUCIONALIDADE DE ARTIGO DE LEI.
+1. Agravo regimental no qual se discute a titularidade dos honorários advocatícios de sucumbência, quando o vencedor é o ente federado.
+2. Por força do art. 4º da Lei n. 9.527/94, os honorários advocatícios de sucumbência, quando vencedor o ente público, não constituem direito autônomo do procurador judicial, porque integram o patrimônio público da entidade. Ausente, portanto, a alegada violação do art. 23 da Lei n. 8.906/94. Precedentes: REsp 668.586/SP, Rel. Ministra Denise Arruda, Primeira Turma, DJ 23/10/2006 p. 260; EDcl no AgRg no REsp 825.382/MG, Rel. Ministra Denise Arruda, Primeira Turma, DJe 26/3/2009; REsp 1.008.008/SC, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 28/4/2008; REsp 623.038/MG, Rel. Ministro Francisco Falcão, Primeira Turma, DJ 19/12/2005 p. 217; REsp 147.221/RS, Rel. Ministro Milton Luiz Pereira, Primeira Turma, DJ 11/6/2001 p. 102.
+3. Não cabe ao STJ, em sede de recurso especial, analisar eventual contrariedade a dispositivos constitucionais, nem mesmo para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+(AgRg no REsp 1101387/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 02/09/2010, DJe 10/09/2010).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro em 1 (um) ponto percentual os honorários recursais fixados no acórdão recorrido (CPC/2015, art. 85, § 11).
+Publique-se. Intimem-se.
