@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, sem pedido liminar, interposto por ROBERTO APARECIDO PEREIRA DOS SANTOS JUNIOR e JOÃO WILLIAM AURÉLIO DOMENICIcontra acórdão do Tribunal de Justiça do Estado de São Pauloproferido no HC n. 2161813-07.2020.8.26.0000.
+Consta dos autos que os Pacientes foram presos preventivamente, no dia 27/06/2018, e denunciados como incursos no art. 148, caput, e no art. 121, § 2º, inciso I, na forma do art. 29, caput, e do art. 69, todos do Código Penal, porqueteriam privado a vítima de sua liberdade mediante sequestro, e concorrerampara que os Corréus, por motivo torpe, a matassem.
+Em 19/11/2019 foram pronunciados, nos termos da denúncia, mantida a custódia cautelar.O pedido de revogação da custódia cautelar foi indeferido (fls. 246-247).
+Alegando excesso de prazo na prisão preventiva, a Defesa impetrou owritoriginário, que foi denegado nos termos do acórdão de fls. 299-306.
+Sustenta o Recorrente, em suma,excesso de prazo na formação da culpa (fl. 318):
+"considerando que, no caso dos autos os Pactes. são primários, de bons antecedentes, sem qualquer mácula em sua vida anteacta, trabalhadores legalmente estabelecidos, e com residência fixa, estão presos e recolhidos no Centro de Detenção Provisória de Pontal, exclusivamente em virtude da prisão cautelar, imposta nos autos; considerando que não é justo nem direito que os Pactes., que já estão presos há mais 2 anos, permaneçam presos por mais tempo ainda indefinido, depois de serem tratados no curso do processo como verdadeiros culpados"
+Aduz que, ainda,os riscos derivados da pandemia do novo coronavírus no sistema prisional.
+Busca, assim, liminarmente e no mérito, a revogação da custódia cautelar ou sua substituição por medidas cautelares diversas da prisão.
+Não houve pedido liminar.
+As judiciosas informações foram prestadas às fls. 84-94 e 100-103.
+O Ministério Público Federal manifestou-se às fls. 380-386, opinando pelo desprovimento do recurso.
+É o relatório. Decido.
+Aoindeferir o pedido de revogação da custódia, o Juízo de primeiro grauregistrou que os"delitos são de extrema gravidade e aquele que pratica tais condutas revela elevada periculosidade. A custódia provisória visa agora, às vésperas de designação de Plenário, assegurar a ordem pública e viabilizar a aplicação da lei penal"(fl. 247).
+Quanto ao excesso de prazo para o julgamento do Réu pelo Tribunal do Júri, oColegiado estadual expôs as seguintes razões ao denegar a ordem dehabeas corpus(fls. 301-303; sem grifos no original):
+"Inexistente a ocorrência de excesso de prazo atribuível ao Juízo impetrado, eis que "a denúncia foi oferecida em 15/05/2018 e recebida em 23/05/2018, ocasião em que foi decretada a prisão preventiva dos pacientes.
+Os mandados de prisão foram cumpridos em 27/05/2018.
+Citados em 03/08/2018, os pacientes apresentaram resposta à acusação em 20/08/2018.
+Devido a problemas técnicos para realização da teleaudiência em 10/12/2018, o D. Juízo impetrado designou audiência para fins de interrogatório dos pacientes para o dia 28/02/2019, a qual deixou de ocorrer a pedido da Defesa, a fim de que esta pudesse ter prévio acesso ao contido no processo nº 0034276-04.2017.8.26.0506.
+A solenidade foi redesignada para 02/05/2019, data em que foi declarada encerrada a instrução.
+Memoriais foram apresentados pelo Dr. Promotor de Justiça em 21/05/2019, ao passo que a Defesa, após reiteradas intimações (fls. 710, 727 e 740 do processo na origem), somente ofereceu as alegações finais em 05/11/2019.
+Sentença de pronúncia foi proferida em 19/11/2019, sendo mantida a prisão cautelar dos pacientes.
+Pela Defesa foi interposto Recurso em Sentido Estrito em 27/11/2019, cujo recebimento ocorreu em 28/11/2019. Em 30/12/2019 sobreveio pedido de desistência do recurso, o qual foi homologado em 08/01/2020.
+Em 22/05/2020 foi cumprido o disposto no artigo 316, parágrafo único, do CPP, sendo mantida a segregação dos pacientes.
+Ultrapassada a fase do artigo 422 do Código de Processo Penal, a douta autoridade impetrada, em 18/06/2020, manteve a suspensão da realização do Plenário do Júri em obediência ao Provimento CSM nº 2.561/2020." (fl. 292/297).
+Por fim, conforme se extrai do processo na origem (fl.929), foi designado o dia 01/12/2020 para o julgamento dos pacientes pelo JúriPopular.
+Ora, não se configura o excesso de prazo hábil a ensejar a liberdade dos réus quando, notadamente conforme se extrai dos documentos colacionados, os autos seguiram o trâmite normal."
+Como é cediço, de acordo com o entendimento do Superior Tribunal de Justiça, os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, jamais sendo aferíveisapenas a partir da mera soma aritmética dos prazos processuais, pois variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade.
+Exemplificativamente:
+"4. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadosnão só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade,bem como quaisquer fatores que possam influir na tramitação da ação penal." (RHC 121.045/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/02/2020, DJe 17/02/2020, sem grifos no original.)
+Embora o julgamento plenário não tenha ocorrido na data marcada, por motivos que sequer foram debatidos na Corte a quo, consoante informações disponibilizadas no endereço eletrônico do Tribunal paulista, o julgamento plenário foi remarcado para o dia 13/12/2021, sendo a custódia dos Recorrentes mantida no dia 23/07/2021, após reavaliada a necessidade da segregaçãopelo Juiz Presidente do Tribunal do Júri.
+Assim, na hipótese,não constatoa presença do sustentado excesso de prazo, porquanto, além de incidir o enunciadoda Súmula n. 21/STJ, segundo oqual, "pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução",mesmo considerando a paralização do julgamentos em virtude da pandemia mundial, o Juízo de origem reavaliou a necessidade da custódiae vem empreendendo esforços para a formação definitiva da culpa, tanto quejá foi designada a Sessão Plenária do Tribunal do Júri para data próxima.Tais circunstâncias evidenciam que estão sendo adotadas providências para o regular andamento do feito.
+De outra parte, no que concerne à alegação de que a permanência dos Recorrentes no cárcere o colocaria em situação de risco de uma eventual contaminação pelo coronavírus, cumpre salientar que a Recomendação n. 62/2020 do CNJ não orienta a concessão de liberdade indistinta a quaisquer presos, mas sugere a análise individualizada das condições do encarceramento.
+ACorte local consignou que(fl. 304):
+"Ciente da Recomendação nº 62 do CNJ, no entanto, entendo que os pacientes não preenchem seus requisitos, e, portanto, não fazem jus à liberdade provisória ou à prisão albergue domiciliar.
+Nos presentes autos, não se fez prova de maneira pré-constituída de que o estabelecimento prisional não dispõe de equipe de saúde ou mesmo da inexistência de espaço adequado para isolamento.
+Na minha visão, saliento que os presos estão mais protegidos dentro dos estabelecimentos prisionais, uma vez que é dever do Poder Público zelar pela saúde da população carcerária e, no caso específico do novo coronavírus, identificar e isolar custodiados que, eventualmente, venham a contrair a doença."
+É certo que em razão da pandemia causada pelo novo coronavírus, não se ignora a necessidade de realizaro juízo de risco inerente à custódia cautelar com maior preponderância das medidas alternativas ao cárcere, a fim de evitar a proliferação da Covid-19; todavia, essa exegese da Recomendação do CNJ não permite concluir pela automática substituição da prisão preventiva pela domiciliar.
+No caso, verifica-se que foi apresentada fundamentação suficiente para o indeferimento do pleito defensivo, pois não se verifica que os Réus estejam em risco iminente ou extraordinário em razão da pandemia da Covid-19, pois, como ressaltado pelo Tribunala quo, não demonstraram integrar grupo de risco ea impossibilidade de obter assistência à saúde no Estabelecimento Prisional.
+A propósito:
+" ..
+2. A recomendação contida na Resolução n. 62, de 18 de março de 2020, do CNJ não implica automática substituição da prisão decorrente da sentença condenatória pela domiciliar. É necessário que o eventual beneficiário do instituto demonstre: a) sua inequívoca adequação no chamado grupo de vulneráveis da COVID-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, cause mais risco do que o ambiente em que a sociedade está inserida, inocorrente na espécie.
+ ..
+5. Agravo regimental a que se nega provimento."(AgRg no HC 580.959/SC,Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/06/2020, DJe 17/06/2020.)
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS.PROCESSUAL PENAL. SEQUESTRO E PARTICIPAÇÃO EM HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA.EXCESSO DE PRAZONÃO CONFIGURADO. RÉUS PRONUNCIADOS E DESIGNADO O JULGAMENTO PELO TRIBUNAL DO JÚRI PARA DATA PRÓXIMA. PRISÃO DOMICILIAR. COVID-19. AUSÊNCIA DOS REQUISITOS. RECURSO DESPROVIDO.
