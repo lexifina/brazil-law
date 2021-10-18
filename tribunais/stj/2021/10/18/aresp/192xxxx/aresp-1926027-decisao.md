@@ -1,0 +1,35 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BV FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. MANUTENÇÃO DO PROTESTO DE FORMA INDEVIDA. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES.
+APELAÇÃO DA RÉ.
+ADMISSIBILIDADE. DOCUMENTOS JUNTADOS AO FEITO SOMENTE EM FASE RECURSAL. INVIABILIDADE.ESCRITOS QUE SÃO ANTERIORES À SENTENÇA, INEXISTINDO JUSTIFICATIVA PARA NÃO TÊ-LOS APRESENTADO NO MOMENTO OPORTUNO.PRECLUSÃO EVIDENCIADA. EXEGESE DOS ARTIGOS 434 E 435 DO CPC/2015.
+"(..) Juntada de documentos novos em segunda instância. Impossibilidade de conhecimento por não se tratar de documento referente a fato novo. Inteligência dos artigos 434 e 435 do novo Código de Processo Civil.  ..  4. Apelo conhecido e desprovido." (TJSC, Apelação Cível n.0307462-13.2015.8.24.0018, de Chapecó, rel. Des. Raulino Jacó Brüning, Primeira Câmara de Direito Civil, j.12-04-2018).
+OUTROSSIM, TEMÁTICA ATINENTE AO ENVIO DA CARTA DE ANUÊNCIA COM RETORNO DO AR POR MUDANÇA DE ENDEREÇO, CARECEDORA DE CONHECIMENTO, PORQUANTO NÃO VENTILADA EM MOMENTO OPORTUNO, TAMPOUCO ANALISADA PELA SENTENÇA RECORRIDA. INOVAÇÃO RECURSAL.IMPOSSIBILIDADE DE APRECIAÇÃO, SOB PENA DE SUPRESSÃO DE INSTÂNCIA.
+RECURSO NÃO CONHECIDO NOS PONTOS.
+MÉRITO. PLEITO DE AFASTAMENTO DO DEVER DE INDENIZAR, FUNDAMENTADO NA AUSÊNCIA DE DEMONSTRAÇÃO DO DANO. TESE INACOLHIDA.CONJUNTO PROBATÓRIO COLACIONADO AO BOJO DO PROCESSADO COMPROVANDO QUE A PARTE AUTORA SOLICITOU À INSTITUIÇÃO FINANCEIRA A BAIXA OU A CARTA DE ANUÊNCIA PARA EXCLUSÃO DO PROTESTOOBJETO DA CONTENDA. INÉRCIA DA INSTITUIÇÃO FINANCEIRA REQUERIDA QUE ENSEJA NA RESPONSABILIDADE PELOS DEMANDANTE, DANOS MORAIS CAUSADOS MANUTENÇÃO AO EM RAZÃO DEVER DA INDEVIDA DO PROTESTO. DE INDENIZAR INCONTESTE. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE.
+"Em regra, incumbe ao devedor o cancelamento do protesto, quando lavrado de forma lícita. Excepcionalmente, se não lhe forem restituídos os títulos quitados ou outorgada carta de anuência, cabe ao credor a realização do ato, sob pena de incidir em ilícito civil. A prova destas situações excepcionais, todavia, cabe ao devedor, quando este almeja a responsabilização civil do credor." (TJSC, AC n.2010.071476-0, 16.12.2010)" rel. Des. Sérgio Izidoro Heil, Cível j. em n. (TJSC, Apelação 0604679-39.2014.8.24.0008, de Blumenau, rel. Des. Raulino Jacó Brüning, Primeira Câmara de Direito Civil, j.28-05-2020).
+PLEITO DE MINORAÇÃO DA VERBA INDENIZATÓRIA QUE SERÁ ANALISADA CONJUNTAMENTE COM O RECLAMO DA PARTE AUTORA.
+RECURSO ADESIVO DA AUTORA.
+QUANTUM INDENIZATÓRIO. PLEITO DA PARTE AUTORA FIXADA, ATINENTE ENQUANTO À A MAJORAÇÃO REQUERIDA DA QUANTIA POSTULA PELA SER AOS RESPECTIVA MINORAÇÃO. VALOR QUE DEVE MANTIDO, EIS QUE FIXADO EM CONSONÂNCIA PARÂMETROS FRACIONÁRIO, PRINCÍPIOS UTILIZADOS POR ESTE ÓRGÃO ATENDENDO, OUTROSSIM, OS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+PRETENSA MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. INSUBSISTÊNCIA.PATAMAR FIXADO EM OBSERVÂNCIA À NORMA DISPOSTA NO ART. 85, § 2º E 8º, DO CPC/2015.
+HONORÁRIOS RECURSAIS. OBEDIÊNCIA AODISPOSTO NOS §§ 1º E 11º DO ARTIGO 85 DO REFERIDO DIPLOMA LEGAL. NECESSIDADE DE FIXAÇÃO ANTE O DESPROVIMENTO DO APELO DA RÉ.CONTUDO, IMPOSSIBILIDADE DE FIXAÇÃO AO PATRONO DA RÉ, PORQUANTO TAL VERBA NÃO FOI ATRIBUÍDA AO EX ADVERSO NA ORIGEM.
+RECURSO DE APELAÇÃO DA RÉ CONHECIDO EM PARTE E, NESTA, DESPROVIDO.
+RECURSOADESIVO DA AUTORA CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 186 e 188, inciso I, segunda parte, do CC.
+Alega, em síntese, que não seriam cabíveis os danos morais, já que ocorreram apenas meros dissabores.
+No mais, pugna pela redução dos valores fixados a título de danos morais (R$ 10.000,00 - dez mil reais).
+É o relatório.DECIDO.
+2. Amatériatratadanoartigo 188, inciso I, do CCnão foiobjeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que a ausência de manifestação judicial a respeito dareferidamatériatrazidaà cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+3. Por outro lado, com base no conjunto fático-probatório presente nos autos, o Tribunal de origem reconheceu o cabimento dos danos morais.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ, que impede o conhecimento do recurso por ambas as alíneas do dispositivo constitucional.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Por fim, em relação ao pedido de redução do quantum indenizatório,a alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. INCIDÊNCIA DAS SÚMULAS 7 e 211 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO NÃO PROVIDO.
+ .. .
+4. Em relação à alegação de excessivo valor da indenização e quanto ao termo inicial para correção monetária, constata-se, ao se compulsarem as razões do apelo especial, que a parte recorrente olvidou-se da indicação clara e inequívoca dos dispositivos legais direta e eventualmente violados pelo v. acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula 284 do e. Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+5. Agravo interno não provido.
+(AgInt no AREsp 972.110/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
