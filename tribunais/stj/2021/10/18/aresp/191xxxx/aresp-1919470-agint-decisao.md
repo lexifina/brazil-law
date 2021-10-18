@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto por ENERGISA MATO GROSSO - DISTRIBUIDORA DE ENERGIA S.A, contra decisão da Presidência deste Superior Tribunal que não conheceu do agravo em recurso especial, por incidência da Súmula n. 182/STJ.
+Nas suas razões, a parte agravante alega, em síntese, ser inaplicável a Súmula n. 182/STJ, uma vez impugnados os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Requer, assim, a reconsideração da decisão agravada ou que seja o feito submetido à julgamento no órgão colegiado.
+É o relatório. Passo a decidir.
+De fato, com razão a parte agravante.
+Com efeito, nas razões do agravo de fls. 1.281/1.300(e-STJ), a agravante impugnou todos os fundamentos da decisão de inadmissibilidade. Nesse contexto, reconsidero a decisão de fls. 1.333/1.335(e-STJ); e passo à análise do agravo em recurso especial.
+O Tribunal de Justiça do Estado do Mato Grossonegou provimento ao apelo interposto pela agravante, conforme a ementa a seguir:
+APELAÇÃO - AÇÃO REGRESSIVA - REEMBOLSO VALOR PAGO PARA SEGURADO DECORRENTE DE INDENIZAÇÃO ADVINDA DE PREJUÍZOS CAUSADOS POR FALHA NO SERVIÇO PRESTADO PELA FORNECEDORA DE ENERGIA ELÉTRICA,AQUI APELANTE - CERCEAMENTO DE DEFESA AFASTADO - RESPONSABILIDADE DA CONCESSIONÁRIA DE ENERGIA ELÉRICA E DIREITO DE REGRESSO DEMONSTRADOS- APELAÇÃO DESPROVIDA - SENTENÇA MANTIDA.
+Sem razão a alegação de cerceamento de defesa, se o conjunto probatóriorevelou-se suficiente para a análise do processo e, em especial, para o reconhecimento do direito vindicado pelo autor. Também sem razão a alegação de falta de interesse de agir decorrente de eventual falta de prévia comunicação administrativa dos prejuízos, porquanto viola o princípio da inafastabilidade da jurisdição, previsto no art. 5º, XXXV, da CF/1988, conforme entendimento desta e. Câmara, em caso análogo, proferido na Apelação nº 0030429-82.2016.811.0041,julgada em 11.12.2019. Demonstrados o nexo causal entre os prejuízos e a falha na prestação dos serviços pela concessionária de energia elétrica, possível sua condenação ao pagamento dos prejuízos que causou e isso independente de demonstração da culpa, máxime por se tratar de responsabilidade objetiva.
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, a agravante alega ofensa ao art. 26 do CDC, aduzindo ter ocorrido a decadência do prazo para o ajuizamento da ação regressiva.
+Alega violação dos arts. 14, 15, 204, 205 e 210 da Resolução n. 414/2010, sustentando a responsabilidade do consumidor pela conservação e segurança da rede interna, o que afastariaa responsabilidade da concessionária.
+Afirma a legalidade e legitimidade administrativa das atividades desenvolvidas pela Concessionária, com fundamento no art. 175 da CF.
+Sustenta a inaplicabilidade do CDC em casos de sub-rogação de direitos.
+Por fim, insurge-se contra a inversão do ônus da prova, com fundamento no art. 6ª, VIII, do CDC, asseverando (e-STJ, fl. 1.224):
+Pois bem, partindo desta premissa, há que se registrar que na presente demanda, a Parte Autora não trouxera qualquer documento hábil à demonstração da verossimilhança ou da plausibilidade de suas alegações, o que se afigura essencial, inclusive nas demandas de cunho consumerista, tendo em mente que a inversão do ônus da prova não pode se dar de modo automática e irrestrita, mas sim, desde que condicionada a um indício de prova, o qual fica a cargo, exclusivamente, do consumidor demandante.
+Assim, denote-se que, nas lides que tenham por objeto relações de consumo, não deve vigorar a regra absoluta da inversão do onus probandi, devendo a mesma ser temperada com a regra do art. 373, do CPC. Em outras palavras, referido instituto consumerista (Art. 6º, VIII, CDC) somente deve incidir, mitigando a distribuição do ônus de prova do CPC, após a valoração, pelo magistrado, da parte que, in concreto, tem mais condições técnicas de suportar tal dever.
+Foram apresentadas contrarrazões.
+O Tribunal de origem não tratou do debate dos arts. 6º, VIII, e 26 do CDC. Dessa forma, ausente o requisito do prequestionamento, incidente o óbice da Súmula n. 211/STJ.
+O recurso especial não é a via adequada para a discussão de norma infralegal e matéria constitucional.
+Ao afirmar a inaplicabilidade do CDC em caso de sub-rogação de direitos pela seguradora, a agravante não apresentou fundamento legal pertinente a embasar a insurgência. Dessa forma, uma vez deficiente a fundamentação do recurso especial, incidente a Súmula n. 284/STF.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA. ENERGIA ELÉTRICA. AÇÃO REGRESSIVA. SEGURADORA. INVERSÃO DO ÔNUS DA PROVA. RESOLUÇÃO DA ANATEL. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTAÇÃO DEFICIENTE.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
