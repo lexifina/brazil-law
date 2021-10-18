@@ -1,0 +1,38 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial de decisão denegatória de recurso especial interposto com fulcro no artigo 105, inciso III, alíneas"a" e "c", da Constituição Federal.
+Alega o recorrente omissão, obscuridade, divergência jurisprudenciale que o recorrido ajuizou ação "objetivando a reintegração de posse do imóvel situado na Cidade do Rio de Janeiro, na Estrada do Pontal nº 875 - Recreio dos Bandeirantes".
+Pondera que ofereceu contestação comprovando que sua posse é anterior ao ano de 2009, e que o recorrente não exerceu posse sobre o imóvel, não sendo hábil o formal de partilha para reconhecimento da propriedade do bem.
+Diz que "merece especial relevo a ata de audiência realizada junto ao Juízo da 14ª Vara de Família do Rio de Janeiro, que data de 03/05/2000 (fls.110), onde se comprova de forma incontestável que o Recorrente já residia no imóvel, possuindo o mesmo de forma mansa e pacífica".
+Obtempera que o Juízo de primeira instância não observou que a pretensão de usucapir o imóvel foi formulada em ação própria, extinta sem julgamento do mérito, o que poderia ser constatado mediante simples leitura de documentação contida nos autos.
+Acena que o entendimento do Relator originário em caso semelhante foi diverso, e que está na iminência de perder a posse do imóvel, o que caracteriza violação do direito fundamental à moradia e á dignidade da pessoa humana.
+Aponta que caberia ao recorrido ou ao seu falecido genitor provar a posse sobre a área objeto do litígio, e que a Súmula 382/STJ orienta que para o acolhimento da pretensão reintegratória ou de manutenção impõe-se a prova da posse, do esbulho ou turbação, a data em que ocorreu, como também a continuação da posse.
+No recurso especial, o recorrente aduz tambémque: a) a prova documental produzida em contestação demonstra de forma categórica que o recorrente encontra-se na posse do imóvel; b) residia há mais de uma década no imóvel, conforme se constata na ata de audiência realizada pelo Juízo de primeira instância; c) todas as questões estão documentadas nos autos, bastando consultar as fls. 84-85 e 230-232; d) não foi observado na ação de reintegração de posse que a pretensão de usucapir o imóvel foi formulada em ação própria, extinta sem julgamento do mérito; e) o recorrido não demonstrou sua posse ou o esbulho possessório; f) não se discute propriedade em ação possessória, e cabe ao autor demonstrar sua posse.
+2. Observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. Ébem de ver que o acórdão recorrido dispôs que o requerente é mero detentor da área litigiosa e que a questão da retenção por benfeitorias nem sequer foi suscitada no recurso de apelação.
+Note-se:
+Em primeiro lugar o registro de que o Recurso não aborda temas como o usucapião, já resolvido por sentença terminativa, nem do Agravo interposto contra a rejeição da prova testemunhal.
+Não há mais o que ser discutido a respeito, sobrando só o julgamento do mérito recursal.
+Nesse terreno é fato que o Apelado recebeu por herança o imóvel de seu finado pai, passando a ter sobre ele a posse como consequência da abertura da sucessão.
+O título registrado pesa inclusive a seu favor.
+Em contrapartida há a alegação do Apelante de que recebeu o bem do finado genitor do Recorrido, a título de serviços prestados e que o ocupa de longa data com animus de dono.
+ ..
+A tese suposta, de que teria se legitimado como possuidor e não mero detentor do imóvel não foi sequer suscitada na fase de defesa própria, vindo só ao depois para os autos.
+O Autor da ação provou por sua vez ter justo título, e a ação de Usucapião desmoronou no curso do litígio e não há prova de que o Apelante tenha se legitimado nessa posse e ultrapassado a condição de mero detentor (em relação ao pai do Apelado), por força de uma dação em pagamento.
+Acertada pois a sentença por conceder posse ao Apelado.
+O eventual direito a benfeitorias, que em tese poderia justificar a retenção do bem para a devida reparação não fez parte do recurso e aqui não pode ser apreciado.
+Nessas condições o que se tem a fazer é confirmar o decisum, em sua integralidade.
+Ademais, compulsando os autos, constato que na apelação não é suscitada a violação a nenhum dispositivo de lei federal, de modo que não se constata o adequado prequestionamento.
+Verifique-se:
+RECURSOS ESPECIAIS. ERRO MÉDICO. DILAÇÃO PROBATÓRIA. PROVA. ÔNUS. INVERSÃO. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME. SÚMULA N. 7-STJ. NÃO CONHECIMENTO.
+1. As questões relacionadas à prova das alegações do autor e da ré, à inversão do ônus da prova e à necessidade de diligência para a produção de novas provas somente foram alegadas em embargos de declaração opostos ao acórdão de apelação cível, o que traduz tentativa de posquestionamento, inadmissível. Incidência das Súmulas n. 282-STF e 211-STJ. Precedentes.
+2. A conclusão pelo Tribunal de origem no sentido de que não foram comprovados o nexo causal e a culpa da profissional médica nas lesões sofridas pelo autor são imunes ao crivo do recurso especial, a teor da Súmula n. 7-STJ. Precedentes.
+3. A ausência de demonstração a analítica da divergência e da citação do repositório oficial ou autorizado de jurisprudência em que foram reproduzidos os acórdãos paradigmas impede o seu conhecimento por este fundamento.
+4. Igualmente infensas ao recurso especial as questões relacionadas à suposta má-fé ou atuação protelatória da ré, como ensina a Súmula n. 7-STJ, a par de valer-se apenas de instrumentos processuais previstos na lei processual para a defesa de sua tese. Precedentes.
+5. Recursos especiais não conhecidos.
+(REsp 975.693/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/12/2011, DJe 02/08/2012)
+Ademais, aquestão de retenção por benfeitorias, na linha do apurado, constitui inovação, nem sequer suscitada no recurso julgado pelo acórdão vergastado.
+Ora, a par da inexistência de prequestionamento, "na ação possessória, o pedido de retenção e a especificação das benfeitorias deve ser formulado na contestação. Precedentes"(AgInt nos EDcl no REsp 1705437/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/08/2019, DJe 30/08/2019).
+Outrossim, a fundamentação adotada pelo acórdão recorrido é bastante para a solução, visto que apura que o requerente nem sequer tem posse, pois é mero detentor. "O artigo 1.208 do Código Civil dispõe que "não induzem posse os atos de mera permissão ou tolerância assim como não autorizam a sua aquisição os atos violentos, ou clandestinos, senão depois de cessar a violência ou a clandestinidade" (REsp 888.417/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/06/2011, DJe 27/06/2011).
+Por último, no tocante às demais teses suscitadas no recurso especial, só seria possível a revisão do decidido mediantereexame de provas, obstado pela Súmula 7/STJ, a impedir o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+4. Diante do exposto, nego provimento ao recurso.Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
