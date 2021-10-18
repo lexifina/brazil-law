@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONDOMÍNIO JARDIM BOTÂNICO VIcontra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios.
+Na origem, cuida-se de ação de cobrança de taxas condominiais proposta contra MARIA DA CONCEIÇÃO CHAGAS, tendo em vista a sua inadimplência referente às cotas condominiais doimóvel de sua propriedade.
+A sentença julgou parcialmente procedente o pedido para condenar a requerida ao pagamento das taxas condominiais e fundo de reserva relativos aos mesesde novembro e dezembro de 2019 e janeiro a abril de 2020,cujo valor deverá ser acrescido de juros de mora de 1% a. m. e correção monetária, pelo INPC, desde o vencimento, além da multa de 10%, incluídas as demais obrigações vencidas e inadimplidas no curso do processo, consoante o disposto no art. 323 do CPC (e-STJ, fls. 151-155 e 176-177).
+A Oitava Turma Cível negou provimento ao recurso de apelação da parte autora, consoante acórdão assim ementado (e-STJ, fls. 225-231):
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRELIMINAR DE JULGAMENTO ULTRA PETITA REJEITADA. MÉRITO. FIXAÇÃO DE JUROS MORATÓRIOS SOBRE A TAXA CONDOMINIAL INADIMPLIDA. PATAMAR EXCESSIVO. VIOLAÇÃO DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REDUÇÃO JUDICIAL. CABIMENTO. SENTENÇA MANTIDA.
+1. Incabível o acolhimento da preliminar de julgamento ultra petita, quando observado que a d. Magistrada de primeiro grau analisou a questão referente ao percentual de juros moratórios com base nos limites objetivos da lide.
+2. Nos termos do artigo 1.336, § 1º, do Código Civil, a Convenção de Condomínio pode estipular a cobrança de taxa de juros moratórios em patamar superior a 1% (um por cento) ao mês na hipótese de inadimplência do condômino.
+3. A estipulação de taxa de juros em percentual superior ao piso legal deve obedecer aos princípios da razoabilidade e da proporcionalidade, de forma a não configurar enriquecimento ilícito do Condomínio.
+4. Apelação Cível conhecida. Preliminar rejeitada. No mérito, recurso não provido.
+Nas razões de recurso especial, interposto com fundamento no art. 105, inciso III, alíneasae c, da Constituição Federal, o recorrente alega, além da divergência jurisprudencial, violação ao art. 1.336, § 1º, do Código Civil, pois deixoude aplicar os encargos moratórios previstos em regimento interno do Condomínio, por considerá-los abusivos, mesmo sem que fosse apresentada reconvenção para revisão da norma aplicável.
+O recurso especial foi admitido pelo Tribunal de origem (e-STJ, fls. 278-279).
+É o relatório. Decido.
+De início, impende registrar que a controvérsia dos autos possui entendimento sedimentado por ambas as Turmas que compõem o STJ, por essa razão, percebe-se divergência notória entre o acórdão locale a jurisprudência desta Corte Superior, o que mitiga os requisitos formais de admissibilidade.
+Dito isso, nos termos da orientação jurisprudencial desta Corte, após a vigência do art. 1.336, § 1º, do CC/2002, é possível à convenção de condomínio a fixação de juros moratórios acima de 1% ao mês, em caso de inadimplemento das obrigações condominiais.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. INADIMPLEMENTO. CONVENÇÃO DO CONDOMÍNIO. JUROS MORATÓRIOS. FIXAÇÃO ACIMA DE 1% AO MÊS. POSSIBILIDADE. CONFLITO ENTRE AS REGRAS ADOTADAS EM ASSEMBLEIA ORDINÁRIA EM FACE DO QUE DISPÕE A CONVENÇÃO DO CONDOMÍNIO. PRETENSÃO DECLARATÓRIA DE NULIDADE. NÃO CABIMENTO. PRECLUSÃO. FIXAÇÃO EFETIVA DO PERCENTUAL NA CONVENÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Conforme estabelece a jurisprudência do STJ, "Após o advento do Código Civil de 2002, é possível fixar na convenção do condomínio juros moratórios acima de 1% (um por cento) ao mês em caso de inadimplemento das taxas condominiais" (Terceira Turma, REsp 1.002.525/DF, Rel. Ministra Nancy Andrighi, DJe de 22.9.2010).
+2. Decidido pelo acórdão estadual que o percentual dos juros de mora foi estabelecido na convenção de condomínio e que em ação de cobrança proposta pela entidade condominial não é possível discutir a nulidade dessa estipulação, ocorre a preclusão da matéria em prejuízo da agravante, que não interpôs recurso especial.
+3. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1734133/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+No caso dos autos, o acórdão recorrido, embora tenha reconhecido que os juros moratórios no percentual de 3% (três por cento) no primeiro mês e 9%(nove por cento) a.m. no restante do períodoforam estipulados pela convenção do condomínio, limitou os referidos juros em 1%(um por cento)a.m., sob o fundamento de serem abusivos e não observarem os princípios da proporcionalidade e da razoabilidade.
+Confiram-se os termos do julgado (e-STJ, fl. 230):
+No caso dos autos, o Regimento Interno do Condomínio autor, em seu artigo 45, § 2º, prevê o índice de 3% (três por cento) de juros moratórios no primeiro mês de inadimplência e de 9% (nove por cento) a partir do segundo mês, bem como a correção de acordo com o maior índice oficial (ID n. 24974178), configurando, assim, excessividade dos juros pactuados, o que impõe a adequação do percentual mensal a ser aplicável consoante os critérios de razoabilidade e proporcionalidade bem como a adoção do INPC, por se tratar de índice que melhor reflete a variação inflacionária.
+Desse modo, em que pese aos argumentos utilizados pelo Tribunal de Justiça local, a decisão recorrida está em dissonância à jurisprudência desta Corte, sendo imperativa a reforma do acórdão recorrido.
+Ante o exposto, dou provimento ao recurso especial para determinar a aplicação dos juros moratórios previstos na convenção condominial em caso de inadimplência.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CONDOMÍNIO. REDUÇÃO DOS JUROS MORATÓRIOS PREVISTOS PELA CONVENÇÃO. IMPOSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
