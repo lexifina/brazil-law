@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Valdori de Jesus Wolff, com fundamento na alínea "a" do inciso III do art. 105 da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 297):
+ADMINISTRATIVO. REINTEGRAÇÃO QUADRO DA OAB. PAGAMENTO DAS VANTAGENS NO PERÍODO DE AFASTAMENTO. IMPOSSIBILIDADE. REGIME CELETISTA.
+1. Impossibilidade de reintegração do embargante nos quadros na OAB.
+2. Ingresso sem concurso público, após a Constituição de 1988 e a Lei nº 8.112/90. Regime de trabalho celetista.
+O recorrente alega a existência de contrariedade ao art.148 da Lei n. 4.215/1963.
+Sustenta que ingressou nos quadros da OAB em 1992, época em que a instituição era regulada pela Lei n. 4.215/1963, cujo art. 148 determinava a aplicação das normas da Lei 8.112/1990. Portanto, somente poderia ser demitido nos casos previstos no art. 132 desta última norma. Alega não ter optado pelo regime celetista, submetendo-se ao regime da Lei n. 8.112/1990.
+Assevera, ainda, que o "fato de o art. 148 da Lei 4.215/63 prever a aplicação da Lei 8.112/90 para reger os direitos e deveres dos funcionários da OAB não eleva estes funcionários a categoria de servidor públicos, não havendo necessidade, portanto, de concurso público após a promulgação da Constituição para tal ingresso" (e-STJ, fl. 304).
+Foram apresentadas contrarrazões.
+É o relatório.
+A Corte de origem negou a pretensão do recorrente com base no seguinte (e-STJ, fls. 292-294):
+De plano, insta consignar que, de fato, a ADJN n. 3026-4 foi julgada improcedente, conforme o sustentado pelo embargante. A parte final do.
+parágrafo 10 do artigo 79 da Lei n. 8.906/94 não foi declarada inconstitucional, bem assim restou fixada a inexigibilidade da prestação de concurso público para provimento de cargos celetistas da OAB. Nas razões de decidir, o Supremo Tribunal Federal considerou ser a OAB instituição sui generis. entidade autônoma e independente, de tal sorte que incompatível com o regime. estatutário.
+Passando ao largo de qualquer digressão sobre o decidido na referida ação direta de inconstitucionalidade - até mesmo porque, conforme entendimento recentemente reafirmado pelo próprio Plenário do STF, em casos como o telado, é inaplicável a teoria da transcendência das razões de decidir2 nas ações constitucionais - o fato é que o autor ingressou no quadro de funcionários da OAB em 01/02/1992 (fls. 23 e 76), isto é, após a edição da Lei n. 8.112/90, sem prestar concurso público.
+O texto do artigo em debate é expresso ao dispor que somente os servidores sujeitos ao regime da Lei n. 8.112/90, vale dizer, aqueles com ingresso na instituição mediante concurso público, poderiam realizar a opção pelo regime celetista. De acordo com o disposto na lei, aos demais servidores - aqueles com ingresso sem concurso público - aplica-se o regime celetista. de plano.
+A partir do exame dos autos, vê-se que o autor ingressou no quadro de funcionários da OAB após a publicação da Lei n. 8.112/90, sem prestar concurso público, inclusive, realizando opção pela percepção de Fundo de Garantia por Tempo de Serviço, com o respectivo saque (fls. 40. 76, 81/82) - traço característico do regime "celetista de trabalho. Em 05/12/2006 (fl. 23), o recorrente foi despedido sem justa causa, na forma correspondente ao regime jurídico pelo qual admitido. Destarte, inviável a pretensão do recorrente de readmissão ao posto de trabalho anteriormente ocupado, porque a despedida sem justa causa integra o âmbito de atuação do direito potestativo do empregador, nos termos do regime de trabalho aplicável ao embargante.
+Nesse sentido, aliás, é o excerto consignado no bem lançado voto-vista proferido no recurso de apelação:
+"Por fim, no caso dos autos, verifica-se que o autor ingressou na OAB/SC em 1%2/1992, ou seja, durante a vigência da Lei nº 8.112/90, porém, não prestou concurso público. Logo, o autor não se submete ao regime estatutário, mas sim, ao regime celetista, podendo ser demitido sem prévio aviso".
+Consabidamente, após a promulgação da Constituição de 1988. inexiste direito à estabilidade no serviço, exceto no caso dos servidores públicos concursados e a daqueles enquadrados na hipótese do art. 19 do ADCT, não merecendo guarida o pleito do requerente.
+Cumpre salientar, por oportuno, que o artigo 148 da Lei n. 4.215/63 mostra-se inaplicável ao embargante, já que esse ingressou no quadro de funcionários da ré após a vigência da Constituição Federal de 1988 e da Lei n. 8.112/90. Aliás, o regime estatutário, preconizado na norma em exame, já havia sido afastado desde a edição do Decreto n. 968/1969, o que reforça a tese aqui defendida. Descabe, de tal forma, cogitar da necessidade de instauração de procedimento administrativo ou decisão judicial para a despedida do autor, fazendo-se necessário indeferimento do pleito do requerente.
+ ..
+Por último, cumpre destacar que a necessidade de concurso público para o provimento de cargo na condição de servidor público não é matéria nova ou inovação recursal, porque exaustivamente debatida ao longo do feito, mormente, quando do exame da ADIn n. 3.026-4.
+Como bem salientado pela Corte de origem que, " ..  após a promulgação da Constituição de 1988, inexiste direito à estabilidade no serviço, exceto no caso dos servidores públicos concursados e a daqueles enquadrados na hipótese do art. 19 do ADCT  .. ".
+Nesse contexto, não cabe ao Superior Tribunal de Justiça, emrecurso especial, examinar acórdão combatido com possui fundamento exclusivamente constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSO CIVIL. SERVIDOR PÚBLICO. ENQUADRAMENTO NO REGIME JURÍDICO ÚNICO. IMPOSSIBILIDADE. CONTRATAÇÃO PRECÁRIA. ACÓRDÃO BASEADO EM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO DA MATÉRIA, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF.
+1. A controvérsia dos autos acerca da efetivação dos recorrentes em cargo público foi dirimida com fundamento predominantemente constitucional, especificamente com base no artigo 37, inciso II, da Constituição Federal, artigo 19 do ADCT, e nos princípios da segurança jurídica, legalidade, impessoalidade e moralidade, o que torna impossível o seu reexame em recurso especial, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, em sede de apelo extraordinário, conforme disposto no art. 102 da Carta Política. Assim, presente a fundamentação constitucional no ponto, afasta-se a possibilidade de revisão pelo Superior Tribunal de Justiça.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.157.107/GO, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/9/2015, DJe de 14/9/2015).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA ADMITIDA COM BASE NO DECRETO Nº 77.242/76.ENQUADRAMENTO NO REGIME JURÍDICO ÚNICO. IMPOSSIBILIDADE. ART. 19 DO ADCT. CONTROVÉRSIA SOLVIDA PELA INSTÂNCIA ORDINÁRIA À LUZ DE FUNDAMENTO CONSTITUCIONAL. INVIABILIDADE DE EXAME DA MATÉRIA EM SEDE ESPECIAL.
+1. O Tribunal de origem afastou a pretensão autoral de enquadramento no regime jurídico único ao concluir que a servidora não preencheu os requisitos do art. 19 do ADCT.
+2. A controvérsia foi, assim, solvida à luz de fundamento eminentemente constitucional, circunstância que torna inviável o exame da matéria em sede de recurso especial.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 656.970/DF, relatorMinistroSÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/3/2015, DJe de 30/3/2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. GUARDA MUNICIPAL. INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL. ACÓRDÃO DECIDIDO POR FUNDAMENTO CONSTITUCIONAL.
+ ..
+2. Decidida a questão por fundamentos de natureza eminentemente constitucional, é inviável o reexame da matéria na via do recurso especial, sob pena de se adentrar a competência do Supremo Tribunal Federal.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 855.794/RJ, relatora Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 3/9/2013, DJe de 16/9/2013).
+Verifica-se, ainda, que a matéria controvertidanão foi impugnada por meio de recurso extraordinário, circunstância que atrai o óbice da Súmula 126/STJ, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
