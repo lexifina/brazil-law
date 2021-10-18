@@ -1,0 +1,34 @@
+Decisão: Trata-se de habeas corpus impetrado por Alberto Matos Celestino dos Santos, em favor de Alexandra Gomes de Camargo, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do HC 675.930/SP.
+    Colho da decisão impugnada:
+    “Trata-se de agravo regimental interposto por ALEXANDRA GOMES DE CAMARGO contra decisão de minha lavra, ementada nos seguintes termos (fl. 661):
+    "HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ALEGAÇÃO DE AUSÊNCIA DE ELEMENTOS DE AUTORIA E MATERIALIDADE. NECESSIDADE DE ANÁLISE DE PROVAS. VIA INADEQUADA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. ENVOLVIMENTO COM ESTRUTURADA ASSOCIAÇÃO CRIMINOSA QUE ATUA NO COMÉRCIO ILEGAL DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE SE INTERROMPER AS ATIVIDADES. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NA HIPÓTESE. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, DENEGADA A ORDEM."
+    Consta nos autos que a Agravante foi denunciada pela suposta prática dos crimes previstos nos arts. 33 (por três vezes) e 35, ambos da Lei n. 11.343/2006, pois teria se associado a outras 9 (nove) pessoas para o fim de praticar o crime de tráfico de drogas. A Acusada seria responsável pela guarda das drogas e, eventualmente, ficava encarregada de transportá-las até os pontos de venda. No curso das investigações, foram apreendidos cerca de 111 kg (cento e onze quilos) de maconha e 2.548,3g (dois mil quinhentos e quarenta e oito gramas e três decigramas) de cocaína.
+    A prisão preventiva da Acusada foi decretada em 03/05/2021 (fls. 336-354). Contra o decreto prisional, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 11-18).
+    Nas razões do habeas corpus, o Impetrante sustentou que não estão presentes os requisitos para a decretação da prisão preventiva. Afirmou que a Ré é primária e possui residência fixa.
+    Asseverou que não foi interceptada nenhuma ligação da Paciente para os outros Acusados.
+    Defendeu a substituição da prisão preventiva pela domiciliar, ao argumento de que a Acusada possui três filhos, sendo que dois são menores de 12 (doze) anos de idade e um deles, que possui um ano e cinco meses, necessita da amamentação materna.
+    Requereu a soltura da Paciente ou a substituição da prisão preventiva pela domiciliar. Subsidiariamente, pugnou pela aplicação de medidas cautelares diversas da prisão.
+    A decisão de fls. 661-669 conheceu parcialmente do writ e, na parte conhecida, denegou a ordem.
+    Neste agravo regimental, a Defesa alega que a decisão impugnada, ao indeferir o pedido de prisão domiciliar, divergiu da orientação firmada pela Suprema Corte nos autos do Habeas Corpus coletivo n. 143.641/SP.
+    Assevera que "a Paciente, primária, portadora de ótimos antecedentes criminais, é genitora de três filhos menores, o ARTHUR com 1 ano, a AGATHA com 9 anos e ANTONIO com 12 anos de vida, e está presa preventivamente desde o dia 07 de maio de 2021 pela suposta prática de tráfico de drogas, crime previsto no artigo 33, caput, da Lei n.º 11.343/2006, crime desvestido de violência ou grave ameaça" (fl. 675).
+    Afirma que, "ao tratar da reavaliação das prisões provisórias dando ênfase ao novel artigo 316 do CPP, acrescido pela Lei n.º 13.964/2019, a Recomendação n.º 62/2020 do CNJ reforça a ideia de excepcionalidade da prisão preventiva, ainda mais no atual estágio da pandemia" (fl. 677).
+    Requer, desse modo, seja reconsiderada a decisão agravada ou submetido o feito à análise do Órgão Colegiado”. (eDOC 5)
+    No STJ, o habeas corpus foi denegado. Interposto agravo regimental, negou-se-lhe provimento.
+    Nesta Corte, a defesa insiste no pedido formulado naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, destaco que, nos termos das Regras de Bangkok, de dezembro de 2010, a adoção de medidas não privativas de liberdade deve ter preferência, no caso de grávidas e mulheres com filhos dependentes. Transcrevo o dispositivo das Regras de Bangkok:
+    “Mulheres grávidas e com filhos dependentes
+    Regra 64
+    Penas não privativas de liberdade serão preferíveis às mulheres grávidas e com filhos dependentes, quando for possível e apropriado, sendo a pena de prisão apenas considerada quando o crime for grave ou violento ou a mulher representar ameaça contínua, sempre velando pelo melhor interesse do filho ou filhos e assegurando as diligências adequadas para seu cuidado”.
+    A necessidade de observância das Regras de Bangkok, acrescente-se, foi apontada pelo Ministro Ricardo Lewandowski, no julgamento do HC 126.107/SP, e tem sido constantemente invocada pelo Ministro Celso de Mello em seus pronunciamentos orais na Segunda Turma. Sobre o tema, menciono também as seguintes decisões monocráticas de membros da Primeira Turma do STF: HC 134.979/DF, DJe 1º.8.2016; HC 134.130/DF, DJe 30.5.2016; HC 133.179/DF, DJe 5.4.2016; e HC 129.001/SP, DJe 3.8.2015, todos de relatoria do Ministro Roberto Barroso; HC 133.532/DF, Rel. Ministro Marco Aurélio, DJe 12.5.2016. E mais recente: HC 134.734-MC/SP, Rel. Min. Celso de Mello, DJe 7.4.2017.
+    Assim, a inserção da paciente em prisão domiciliar tem a finalidade de preservar o interesse de seus filhos, o que, no presente caso, pode ter efeito contraproducente.
+    Isso porque, como asseverado pelo Tribunal de origem ao negar a substituição, “no caso, a excepcionalidade está presente, considerando que a paciente transportava drogas na companhia dos filhos infantes, bem como era responsável pela guarda dos entorpecentes na residência compartilhada com os menores. Além do mais, ela responde a outro processo e estava em liberdade provisória quando foi presa em flagrante em razão do presente feito, de modo a revelar que a prisão domiciliar não é a medida adequada. Nestas circunstâncias, ausente qualquer constrangimento ilegal, a ordem deve ser denegada”. (consulta ao sítio eletrônico do TJSP)
+    Destaco decisões de minha lavra, por meio das quais neguei o direito à prisão domiciliar a mães que traficavam dentro de sua residência: HC 160.365; Rcl 32.413; Rcl 33.096. A esta mesma conclusão chegou a Segunda Turma desta Corte, verbis:
+    “Agravo regimental no habeas corpus. 2. Paciente, mãe de menor de doze anos, que traficava dentro de sua residência, de modo a submeter seus filhos à ambiência criminosa. Impropriedade. 3. Agravante que, no momento da prisão, já ostentava condenações definitivas anteriores. Foragida. Risco concreto de reiteração delitiva. 4. Agravo desprovido”.(AgR no HC 187.189, de minha relatoria, julgado em 24.8.2020)
+    Desse modo, denego a ordem. (art. 192, caput, RISTF)
+    Publique-se.
+    Brasília, 18 de outubro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
