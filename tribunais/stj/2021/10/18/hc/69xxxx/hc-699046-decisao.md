@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor deALEXANDRE DOS SANTOS RUELAcontra decisão indeferitória de liminar proferida pelo Desembargador Relator do HC n. 1.0000.21.218033-5/000, em tramitação no Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o Paciente teve sua prisão temporária decretada nos autos do Processo n. 1451554-45.2021.8.13.0024.
+Irresignada, aDefesa impetrou prévio habeas corpus perante o Tribunal de origem. O Desembargador Relator indeferiu o pedido liminar (fls. 10-12).
+Neste writ, a Parte Impetrante alega que, a despeito de protocolada a petição de habilitação do advogado, o ato não ocorreu de forma automática, razão pela qual não foi possível obter acesso aos autos do processo originário.
+Assevera que "o paciente já teve sua prisão decretada, sem sequer saber o motivo" (fl. 5).
+Menciona a Súmula Vinculante n. 14/STF.
+Requer, inclusive liminarmente,o "relaxamento da prisão, com o consequente recolhimento do mandado de prisão temporária, e que seja reconhecido o direito constitucional de acesso às provas, com vista aos autos de origem" (fl. 8).
+É o relatório.
+Decido.
+Conforme entendimentofirmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691 do Supremo Tribunal Federal ("Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (v.g.: AgInt no HC 495.842/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 16/10/2019; AgInt no HC 486.524/SP, Rel. Ministra ISABEL GALLOTTI, QUARTA TURMA, DJe 07/06/2019; AgRg no HC 568.995/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 04/05/2020; AgRg no HC 550.844/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2020).
+Assim, ordinariamente, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências) -, o que não constato na espécie.
+Na decisão combatida, o Desembargador Relator ressaltou que "a inicial foi instruída, tão somente, com a cópia da procuração e das petições de habilitação e de vista aos autos, apresentadas pela defesa do paciente perante o juízo "a quo"" (fl. 11), razão pela qual entendeu "ser necessário requisitar informações ao juízo de origem, para que esclareça a situação do processo e elucide as características do caso concreto" (fl. 11), o que, em princípio, não se mostra inidôneo.
+A propósito:" ..  não tendo o impetrante demonstrado, por intermédio de prova pré-constituída, suposta negativa de acesso aos autos do inquérito policial, não há se falar em infringência ao teor da súmula vinculante nº 14"(HC 398.527/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 13/06/2017, DJe 23/06/2017).
+Diante do que registrado acima - em que não se observa, ao menosprimo ictu oculi, nenhuma teratologia -, não há como se reconhecer, de plano, ilegalidade patente que autorize a mitigação da Súmula n.691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+Destaque-se que, não havendo notícia de que o Tribunal de Justiça do Estado de Minas Gerais tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação das matérias ventiladas nowritoriginário, sendo defesoa esta Corte adiantar-se nesse exame, sobrepujando a competência da Corte de origem, mormente se owritestá sendo regularmente processado.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
