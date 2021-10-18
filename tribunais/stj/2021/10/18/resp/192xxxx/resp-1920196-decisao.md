@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especialinterposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que confirmou a decisão do juízo singular que decretou a prescrição.
+No recurso especial, interposto com base naalínea "a" do permissivo constitucional, orecorrente aponta ofensa ao art. 174 do CTN, c/c o art. 240 do CPC/2015 e o art. 202 do CC, bem como aos arts.9ºe 10 do CPC/2015, c/c o art. 1º da Lei 6.830/80, alegando, em síntese, que:
+Fixada a regra geral supra, com precisão cirúrgica, pelo próprio STJ, por unanimidade, pouco mais a dizer no presente processo. uma vez que, como já se disse, a Execução Fiscal distribuída em 17/12/2004, tendo ocorrido o despacho que ordena a citação em 2008. (fl. 07)! Desta forma, que dúvida pode pairar de que inexistiu prescrição no presente processo, se o despacho fora publicado em 2008 (fl. 09), ou seja, estando em vigência a Lei Complementar nº 118/2005  I!
+Portando, o v. Acórdão da 15. Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro ao deixar de aplicar o inciso I, do parágrafo único do art. 174 do CTN e o § 1 2 do art. 240 do CPC/2015 (antigo 219 § 1. 2 ), bem como os arts. 9. 2 e 10 2 do CPC/2015 e ao dissentir no decidido no REsp. n. 2 1.102.431.
+O recurso foi admitido pelo Tribunal de origem.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 2, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Constou do acórdão recorrido que:
+Na espécie, a execução foi distribuída em 17/12/2004, oportunidade em que o crédito referente ao exercício de 1999 já estava fulminado pelos efeitos da prescrição quinquenal.
+No tocante aos créditos de 2000 e 2001 não houve a citação válida a tempo de interromper o lustro prescricional, consoante o que dispunha a antiga redação do artigo 174, I do CTN, tendo o despacho citatório ocorrido em 2008, também quando já transcorrido o prazo prescricional.
+Por outro lado, não merece prosperar a alegação do Apelante de que a demora na efetivação na citação decorreu por inércia do Poder Judiciário.
+Tenha-se presente, ademais, que, em se tratando de execução fiscal, entende o E. STJ que o princípio do impulso oficial não é absoluto, cabendo ao credor movimentar a máquina judiciária, zelando pelo regular andamento do feito.
+À evidência, o Recorrente abandonou o feito e busca atribuir ao Judiciário responsabilidade pela consumação da prescrição, invocando em seu benefício a Súmula n.º 106, do STJ.
+Ressalte-se, por oportuno, que não pode a parte mais fraca da relação processual ser penalizada pelo mau funcionamento do Estado lato sensu, já que o cidadão não colaborou para agilizar ou retardar o pronunciamento judicial. Em nome do princípio da segurança jurídica e da razoável duração do processo é inconcebível que o contribuinte seja penalizado com a inclusão de seu nome como réu em processo que se prolonga por mais de 13 anos.
+Verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado -e se afastara ocorrência da prescrição -, é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Ressalte-se que: 1) por força do disposto na Súmula 106/STJ, "a perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário"; 2) é inviável a rediscussão do tema, pois "a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 07/STJ" (REsp 1.102.431/RJ, 1ª Seção, Rel. Min. Luiz Fux, DJe de 1º.2.2010  recurso submetido ao regime dos recursos repetitivos).
+Diante do exposto, com base no art. 932, III, do CPC/2015 c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ.EXECUÇÃO FISCAL. DISCUSSÃO SOBRE A APLICAÇÃO DO DISPOSTO NA SÚMULA 106/STJ. QUESTÃO ATRELADA AO REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Recurso especial não conhecido.
