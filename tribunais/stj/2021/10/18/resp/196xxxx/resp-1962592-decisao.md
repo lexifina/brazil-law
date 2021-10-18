@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelaUniversidade Federal do Rio Grande do Norte, com amparo na alínea "a" do inciso III do art. 105 da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ, fl. 560):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. UFRN. RUBRICA RT 1012/89 - PCCS - ATIVO. DECADÊNCIA CONFIGURADA. ART. 54, PARÁGRAFO 1º, LEI 9.784/99. APELAÇÃO IMPROVIDA.
+1. Apelação interposta pela UFRN contra sentença que, em Ação ordinária, julgou procedente o pedido para declarar a nulidade do ato administrativo que determinou a exclusão da rubrica "RT1012/89 - PCCS - ATIVO" dos contracheques da parte autora, condenando a UFRN a restabelecer o seu pagamento nos moldes em que vinha sendo feito antes da edição do ato impugnado. Os valores atrasados, relativos ao período em que o pagamento se manteve suspenso, serão acrescidos de juros de mora e correção monetária segundo o Manual de Cálculos da Justiça Federal, respeitando-se ainda a prescrição quinquenal.
+2. O simples fato de o ato questionado decorrer de acórdão prolatado pelo Tribunal de Contas da União não atrai a legitimidade da União para o processo em que é ré UFRN, autarquia federal dotada de autonomia administrativa e financeira, responsável pelo pagamento da rubrica "RT 1012/89 - PCCS - ATIVO" suprimida com base no Acórdão nº 2615/2017 do TCU.
+3. Preliminares de ilegitimidade passiva da UFRN e de litisconsórcio necessário com a União rejeitadas.
+4. O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada a má-fé (art. 54, da Lei nº 9.784/99).
+5. No caso dos autos, os Apelados tiveram a rubrica "RT 1012/89 - PCCS - ATIVO" incorporados em seus proventos desde 1993 e apenas no ano de 2019 foram notificados pela Diretora de Administração de Pessoal da UFRN da exclusão da rubrica de seus contracheques.
+6. Com efeito, se a verba tinha origem em outro regime jurídico e, por essa razão, não mais poderia ser paga à requerente, caberia à Administração sua transformação em VPNI na época devida, para efetiva compensação a cada reestruturação da carreira até a consumação total do valor da vantagem pessoal.
+7. Decorridos mais de vinte anos da incorporação da rubrica aos proventos dos autores, decaiu do direito da Administração de rever o modo de reajuste da verba objeto dos autos, com base no artigo 54, parágrafo 1º, da Lei 9.784/99.
+8. Apelação improvida. Condenação da recorrente ao pagamento de honorários recursais, nos termos do art. 85, § 11, CPC/2015, ficando os honorários sucumbenciais que lhe cabem majorados de 10% (dez por cento) sobre o valor da condenação para 12% (doze por cento) sobre o referido valor.
+Embargos de declaração rejeitados.
+Em suas razões, a recorrente aponta violação do art. 54 da Lei n. 9.784/1999, ao argumento de que a decadência não poderia ter sido reconhecida, ante o fato de que a administração pública apenas implementou a rubrica em função de decisão judicial, não por ato voluntário favorávelaos destinatários. Aduzo que se trata de relação de trato sucessivo, renovando-se mês a mês.
+Ato contínuo, sustenta ainda sua ilegitimidade passivaad causam, haja vista queo ato exercido pela autarquia decorre de ordem proveniente do Tribunal de Contas da União.
+Com contrarrazões.
+É o relatório.
+Dos autos,depreende-se que, a despeito da oposição de embargos de declaração, não houve juízo de valor por parte da Corte de origem a respeito dodispositivotidopor violadoem relação àstesesvinculadas (relação de trato sucessivo e mera implementação de decisão judicial), ou nem sequer o tema relativo à ilegitimidade passiva, de forma que o exame da pretensão caracterizada indevida supressão de instância. Incidência da Súmula 211/STJ.
+Noutro passo, constata-se aindaque nem sequer houve indicação específica de dispositivo de lei federal tido por violado no que tange à tese de ilegitimidade passiva, com o devido cotejo demonstrativo de sua irreverência, situação que atrai a incidência do óbice contido na Súmula 284/STF.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
