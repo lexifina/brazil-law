@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara Cível e Criminal de Uberlândia - SJ/MG e o Juízo de Direito da 3ª Vara Cível de Araguari - TJMG, em ação ajuizada por Cartegiane Rocha Amaral, contra a Junta Comercial do Distrito Federal e o Cartório do 3º Ofício de Notas e Protestos de Títulos de Brasília.
+O autor da demanda originária pleiteia danos morais, materiais e anulação de registro público alegando que houve negligência dos réus, ao não verificarem a autenticidade de documentos indevidamente utilizados para o registro de estabelecimento comercial em seu nome.
+Distribuído o feito ao Juízo estadual, este, entendendo haver interesse da União no feito, declinou a competência em favor da Justiça Federal, uma vez que "a Junta Comercial do Distrito Federal (JCDF), está subordinada administrativa e tecnicamente ao Departamento Nacional de Registro do Comércio  DNRC, que por sua vez é órgão vinculado à Administração Pública Direta da União" (fls. 7-8).
+Recebidos os autos, o Juízo federal suscitou o presente conflito, argumentando que a "Junta Comercial do Distrito Federal, a partir da Medida Provisória nº 861/2018, (..) tecnicamente está subordinada ao DREI e, administrativamente ao Governo do Distrito Federal.". (fls. 3-6).
+É o relatório. Decido.
+Com razão o juízo suscitante.
+De fato, conforme argumenta o Juízo federal, a Lei n. 13.833/2019 transferiu, da União para o Distrito Federal, a Junta Comercial do Distrito Federal e as atividades de registro público de empresas mercantis e atividades afins no Distrito Federal, fato que, por si só, ensejaria a competência da Justiça Estadual para processar e julgar a lide originária.
+Ainda que assim não o fosse, todavia, persistiria a competência da justiça comum, uma vez que conforme jurisprudência deste Superior Tribunal, o pedido formulado na ação originária é decorrência de eventual prática de ilícitos realizados por terceiros e, não se questionando a lisura da atividade exercida pela Junta Comercial, outrora subordinada à autarquia federal, remanesce a competência da Justiça Estadual.
+A propósito, confiram-se os seguintes precedentes:
+CONFLITO DE COMPETÊNCIA. JUNTA COMERCIAL. ANULAÇÃO DE ALTERAÇÃO CONTRATUAL. ATO FRAUDULENTO. TERCEIROS. INDEVIDO REGISTRO DE EMPRESA.
+1. Compete à Justiça Comum processar e julgar ação ordinária pleiteando anulação de registro de alteração contratual efetivado perante a Junta Comercial, ao fundamento de que, por suposto uso indevido do nome do autor e de seu CPF, foi constituída, de forma irregular, sociedade empresária, na qual o mesmo figura como sócio. Nesse contexto, não se questiona a lisura da atividade federal exercida pela Junta Comercial, mas atos antecedentes que lhe renderam ensejo.
+2. Conflito conhecido para declarar competente o Tribunal de Justiça do Estado de Rondônia, o suscitado.
+(CC 90.338/RO, Rel. Ministro FERNANDO GONÇALVES, SEGUNDA SEÇÃO, julgado em 12/11/2008, DJe 21/11/2008)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA - AÇÃO DECLARATÓRIA DE FALSIDADE DE DOCUMENTO PÚBLICO - JUNTA COMERCIAL - ANULAÇÃO DE ALTERAÇÃO CONTRATUAL - ATO FRAUDULENTO - TERCEIROS - INDEVIDO REGISTRO DE EMPRESA - ATIVIDADE FEDERAL DELEGADA NÃO AFETADA - COMPETÊNCIA DA JUSTIÇA ESTADUAL - AGRAVO REGIMENTAL IMPROVIDO.
+(AgRg no CC 101.060/RO, Rel. Ministro MASSAMI UYEDA, SEGUNDA SEÇÃO, julgado em 23/06/2010, DJe 30/06/2010)
+Ademais, o interesse jurídico da União foi explicitamente afastado pelo Juízo federal, a quem compete decidir sobre a matéria, nos termos da Súmula n. 150/STJ:
+Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas.
+Ressalte-se, por derradeiro, que eventual (in)competência territorial, em virtude de os réus serem sediados no Distrito Federal e a ação ter sido proposta no Estado de Minas Gerais, sequer foi aventada na lide originária, em que foi decretada a revelia, conforme informação de fl. 6,motivo pelo qual deixo de me manifestar arespeito.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 3ª Vara Cível de Araguari - TJMG, o suscitado.
+Publique-se. Intimem-se.
