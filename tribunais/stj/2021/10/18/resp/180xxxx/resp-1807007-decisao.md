@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS fundamentado, exclusivamente,naalínea"a" e "c" do permissivo constitucional.
+Ação:de conhecimento, sob o rito ordinário, ajuizada pelo recorrido na qual pleiteia que a recorrente i) efetueo recálculo da suplementação dos benefícios previdenciários que recebe através do recálculo da renda mensal inicial com a inclusão no período básico de cálculo dos valores pagos a título de "PL DL 1971 ou VP DL 1971", de acordo com o regulamento básico da PETROS; ii) pague reflexos das diferenças postuladas nos itens "a" nos 13º salários; iii) incorporeas diferenças postuladas nos itens "a" em folha de pagamento, sob pena de multa diária no descumprimento; bem como exiba documentos requeridos na petição inicial(e-STJ fls. 199/200).
+Sentença:julgou improcedentes os pedidos.
+Acórdão:deu provimento à apelação do recorrido, nos termos da seguinte ementa:
+PREVIDÊNCIA PRIVADA. Ação visando o recálculo da suplementação do benefício previdenciário. Prescrição afastada. Prazo quinquenal que não alcança o direito abstrato do Autor, atingindo apenas as parcelas vencidas há mais de 05 anos contados da data da propositura da ação. Cálculo inicial do benefício efetuado pela ré em dissonância com o artigo 31 do Estatuto. Necessidade de revisão que se impõe. Pretendido reconhecimento do caráter salarial da verba denominada PL-DL 1971. Cabimento. A partir do Decreto-lei 1971/82, a parcela de participação nos lucros (PL-DL 1971), passou a ser fixa e paga mensalmente, incorporando-se aos salários dos empregados, sem relação com os lucros da empresa, devendo, portanto, integrar a base de cálculo da aposentadoria. Ilegitimidade da corré Ultrafértil, para figurar no polo passivo, dada sua condição de mera patrocinadora Recurso provido. (e-STJ fl. 301)
+Recurso especial: alega violação dos arts. 5º,LV da CF/88, 3º da LC108/01; 17, 18 e 68, §1º, daLC109/2001; 6º, §1ºda LINDB;236, 535, 552 do CPC/73; além de divergência jurisprudencial
+Defende sua ilegitimidade porque não manteve relação de emprego com o recorrido e nem participou do acordo coletivo firmado entre o Sindicato da categoria profissional, o SINDIPETRO/RJ e a PETROBRAS. Afirma, ainda, ser necessário a formação de litisconsórcio passivo necessário com a patrocinadora, ea não distribui qualquer parcela do seu patrimônio a título de lucro ou participação de resultado.Pugna, outrossim, pelo reconhecimento da prescrição total, pois o recorrido recebe complementação de aposentadoria desde 18/03/1993eajuizoua presente demanda somente em 01/12/2015.
+Assevera que asparcelas requeridas "não estão incluídas no salário de contribuição e, por consequência, o participante não contribuiu para os benefícios que deseja receber e uma vez que não houve o custeio para o pagamento da parcela pleiteada, tem-se que o seu processamento acarretará desequilíbrios financeiros atuariais, os quais serão inevitavelmente suportados pelos próprios participantes, assistidos e pela Patrocinadora" (e-STJ fl. 319), violando o ato jurídico perfeito e causando o enriquecimento ilícito do recorrido em prejuízo dos demais participantes do plano.
+Aduz serindevido o pleito de integração da parcela PUDL 1971 e demais verbas ao salário, uma vez que tal verba não possui natureza salarial, decorrendo, em verdade, da incorporação da participação nos lucros à remuneração mensal da aposentada em razão de imposição legal, não sendo tomada como base para contribuições previdenciárias, tanto para o INSS quanto para a Petros.
+Por fim, caso mantida a condenação, requer seja admitida a dedução do IRRF sobre os créditos deferidos ao recorrido e que a correção monetária respeite a Lei6.899/81.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da fundamentação deficiente
+Os argumentos invocados pela recorrentenão demonstram como o acórdão recorrido violou os arts.236, 535, 552 do CPC/73.
+Além disso, constata-se da leitura das razões do recurso especial, que quanto às teses sobreprescrição, sua ilegitimidade, a necessidade do litisconsórcio necessário, e a correção monetária,arecorrentenão alega violação de qualquer dispositivo infraconstitucional, o que também importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 3º da LC 108/01; 17, 18 e 68, §1º, da LC 109/2001; 6º, §1º da LINDB, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+Forte nessas razões, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fls. 307) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a fixação das penalidades dos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL.VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação de conhecimento, sob o rito ordinário, na qual o recorrido requer o recálculo da suplementação dos seus benefícios previdenciários e o pagamento dos seu reflexo.
+2.A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3.A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. Recurso especial não conhecido.
