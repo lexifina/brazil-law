@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo regimental (eDOC 38) interposto m face de decisão na qual dei provimento ao recurso interposto pelo Município de Jundiaí do Sul/PR, ora Agravado (eDOC 37), em que se discutia a pretensão de servidor público municipal aposentado pelo RGPS de ser reintegrado, sem prestar novo concurso público, ao mesmo cargo no qual se aposentou, para fins de acumulação de proventos e remuneração. No caso, a legislação do ente federativo estabelece que a aposentadoria é causa de vacância.
+    De plano, verifica-se a inclusão superveniente da controvérsia em exame na sistemática da Repercussão Geral, Tema 1150, cujo recurso paradigma é o RE 1.302.501-RG, de relatoria do Min. Presidente.
+    Na oportunidade (17.06.2021), DJe 25.08.2021, o Plenário Virtual reconheceu a existência de Repercussão Geral da questão constitucional suscitada e reafirmou a jurisprudência dominante desta Corte sobre a matéria, em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). LEGISLAÇÃO DO ENTE FEDERATIVO QUE ESTABELECE A APOSENTADORIA COMO CAUSA DE VACÂNCIA. MANUTENÇÃO OU REINTEGRAÇÃO AO CARGO SEM SUBMISSÃO A NOVO CONCURSO PÚBLICO. IMPOSSIBILIDADE. PRECEDENTES. ACUMULAÇÃO DE PROVENTOS E VENCIMENTOS. POSSIBILIDADE APENAS NO CASO DE CARGOS, FUNÇÕES OU EMPREGOS ACUMULÁVEIS NA ATIVIDADE. PRECEDENTES. RE 655.283. TEMA 606 DA REPERCUSSÃO GERAL. DISTINGUISHING. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO”.
+    Ante o exposto, reconsidero a decisão agravada e, em consequência, julgo prejudicado o agravo regimental, bem como determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do CPC, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 18 de outubro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
