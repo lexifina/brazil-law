@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto pela Federação das Empresas de Transporte de Passageiros dos Estados do Paraná e Santa Catarina - FEPASC contra acórdão do Tribunal Regional Federal da 4ª Região que manteve decisão de indeferimento do pedido de tutela de urgência formulado emação coletiva proposta com o objetivo depreservar a integridade do serviço público de transporte intermunicipal de passageiros no Estado do Paraná, que estaria sendoameaçada por atos da Agência Nacional de Transportes Terrestres - ANTT, no contexto da usurpação de competência dos entes competentes estaduais.
+Após a distribuição do presente recurso nesta Corte(em que se objetiva, ao fim e ao cabo, a concessão da tutela de urgência), o Tribunal Regional Federal da 4ª Região, por meio do Ofício40002791243, informou que "foi proferida sentença, no processo nº 50718255220194047000 PARANÁ que deu origem ao REsp/AREsp antes indicado e em trâmite nesta Corte" (fl. 623-e).
+Nessas circunstâncias, está configurada a perda do objeto da presente insurgência(v.g.AgInt nos EDcl no AREsp 1478614/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 9/3/2021; EDcl no Ag 1433723/DF, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 16/9/2019).
+Ante o exposto, JULGO PREJUDICADO o presente agravo em recurso especial,
+nos termos do art. 34, XI, do RISTJ.
+Publique-se. Intimem-se.
