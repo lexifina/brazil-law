@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos declaratórios de fls. 12704/12708 opostos por CARLOS LUIZ BATISTA GONCALVES em face de decisão de minha lavra de fls. 12660/12666 que conheceu do seu agravo em recurso especial para conhecerem parte do recurso especial e, com fundamento na Súmula 568 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ, negou-lhe provimento.
+Em relação ao parcial conhecimento do recurso especial decorrente do provimento do recurso especial de corréu para que fosse realizado novo julgamento de embargos de declaração pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - TJRJ acerca de nulidade de provaque pode refletir na condenação do embargante, o embargante aponta contradição. Segundo o embargante, a contradição consiste no julgamento do recurso especial, embora reconhecida uma prejudicial externa, nos termos do art. 313, V, "a", do Código de Processo Civil - CPC, e desconsiderada a preclusão pro judicato, nos termos do art. 505 do CPC. Entende que, diante da possibilidade do reconhecimento de nulidade de provas, o julgamento do recurso do embargante deveria ter sido suspenso.
+Requer seja sanado o vício, se for o caso com recebimento dos aclaratórios a título de agravo regimental.
+É o relatório. Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Inexistente a contradiçãoapontada, pois a contradição que se admite é interna do julgado. No caso concreto, o embargante pretende rediscutir a solução jurídica para obter reflexo diverso no seu recurso em razão do provimento do recurso de corréu.Acrescente-se que aDefesa do embargante já apresentou tempestivo agravo regimental com apontamento do mesmo vício a título de error in procedendo, acrescido de outras impugnações, recurso adequado para o fim pretendido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
