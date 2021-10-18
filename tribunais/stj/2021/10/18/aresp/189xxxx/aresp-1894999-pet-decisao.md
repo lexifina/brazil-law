@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de petição apresentada pela advogada constituída nos autos na qual requer a intimação pessoal da recorrente, acerca do v. acórdão que não conheceu do agravo regimental no agravo em recurso especial por ausência de impugnação dos fundamentos da decisão agravada (fls. 1.457-1.463).
+Tendo em vista a decisão proferida por esta relatoria e publicada em 06/10/2021 (fl. 1.472), por meio da qual foi indeferido esse mesmo pedido (fl. 1.471), tem-se que o presente pedido perdeu o objeto, uma vez que já analisada a pretensão requerida.
+De fato, por meio da decisão de fl. 1.466, indeferi o pedido então formulado, nos seguintes termos:
+"Conforme Certidão de fl. 1.464, o acórdão que não conheceu do agravo regimental foi "Disponibilizado no Diário da Justiça Eletrônico/STJ, em 24/09/2021, EMENTA / ACORDÃO de fls. 1456 e considerado publicado em 27 de setembro de 2021, nos termos do artigo 4º, § 3º, da Lei 11.419 /2006".
+Também do andamento processual contido no sítio eletrônico desta eg. Corte Superior, no endereço eletrônico " https://processo.stj.jus.br/processo/pesquisa/ tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202101605245&totalRegistrosPorPagina=40&aplicacao=processos.ea ", verifica-se que no dia 27/09/2021 foi "Publicado EMENTA / ACORDÃO em 27/09/2021 Petição Nº 558374/2021 - AgRg (92)" Assim, verifica-se que, ao contrário do que pleiteado pela Defesa, não é caso de intimação pessoal da recorrente, pelo que, com fulcro no art. 34, inciso XVIII, alínea a , do RISTJ, que indefiro a petição de fl. 1.466-1.467."
+Diante disso, julgo prejudicada a presente petição (fl. 1.468-1.469), nos termos do artigo34, inciso XI, do Regimento Interno desta Corte de Justiça, em razão da perdade objeto.
+P. e I.
