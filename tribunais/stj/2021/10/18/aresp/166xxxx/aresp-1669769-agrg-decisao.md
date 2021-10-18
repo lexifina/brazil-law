@@ -1,0 +1,17 @@
+DECISÃO
+JOSÉ RAIMUNDO OLIVEIRA agrava de decisão da Presidência desta Corte Superior que não conheceu do seu agravo com base na Súmula n. 182 do STJ.
+No regimental, a defesa sustenta que os motivos de inadmissão do recurso especial foram devidamente infirmados na petição de fls. 330-335 e postula o conhecimento do pleito.
+Decido.
+Na hipótese, observo assistir razão à defesa quanto à efetiva impugnação das razões da negativa de seguimento do recurso especial, motivo pelo qual reconsidero a decisão de fls. 350-351.
+Extrai-se dos autos que o réu foi condenado, em primeira instância, à pena de 1 ano de reclusão mais 10 dias-multa, em regime aberto, pela prática do delito previsto no art. 171, caput, c/c o art. 14, II, ambos do Código Penal. Irresignado, o sentenciado interpôs recurso de apelação perante a Corte estadual, que lhe negou provimento (fls. 270-274).
+No especial, a defesa suscita a negativa de vigência ao art. 17 do Código Penal, ao argumento de que a conduta perpetrada se trata de crime impossível, ante a absoluta ineficácia do meio.
+Requer o provimento do recurso, para que o acusado seja absolvido.
+Narra a denúncia queo agravante, no dia 22/6/2018, no estabelecimento comercial denominado JMahfuz, "tentou efetuar compraspor crediário na referida loja, com a utilização de documentos falsos". Todavia, "os funcionários da referida pessoa jurídica verificaram no sistema a notícia de que o denunciado já havia passado por outras redes da loja, oportunidades em que também se verificou a existência de divergências em seus documentos" (ambos à fl. 156).
+O Tribunal a quo, ao negar provimento ao apelo defensivo, consignou (fls. 272-273, grifei):
+Conclui-se, então, que agiu o acusado com consciência e voluntariedade, utilizando-se de meio fraudulento, de modo a se beneficiar, ao menos, com a utilização de uma cédula de identidade em nome de terceiro.
+E não se cogita de crime impossível, como apregoado pela defesa, eis que os meios empregados pelo acusado eram sim suficientes para ludibriar o homem médio, tanto que outras compras foram realizadas sem despertar desconfiança dos vendedores, saindo o réu, tranquilamente, das lojas, na posse das mercadorias adquiridas ilicitamente. No caso, a compra só não se concretizou porque o gerente desconfiou da alteração cadastral solicitada pelo funcionário, o qual já tinha dado início ao procedimento de venda do bem.
+O simples fato de o representante da vítima já ter informações acerca da prática de golpes perpetrados por estelionatário contra a empresa, fazendo com suspeitasse da conduta do increpado e acionasse a polícia, de maneira alguma tornou o crime absolutamente inviável.
+Realmente, não se pode dizer que de forma nenhuma o réu conseguiria concretizar o golpe, inclusive porque, se existente informação precedente, como na espécie, tal circunstância é sempre falível, podendo a conduta passar despercebida por funcionários menos atentos.
+Assim, não há falar de meio absolutamente ineficaz ou objeto absolutamente impróprio e de violação do art. 17 do CP. Rever o entendimento consignado na instância ordinária demandaria imprescindível reexame do acervo fático-probatório delineado nos autos, procedimento vedado em recurso especial, por força da Súmula n. 7 do STJ.
+À vista do exposto, reconsidero a decisão de fls. 350-351, para conhecer do agravo e não conhecer do recurso especial.
+Publique-se e intimem-se.
