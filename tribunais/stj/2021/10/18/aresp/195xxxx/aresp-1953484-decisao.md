@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por MB Engenharia SPE 040 S.A. e outras, com base no art. 105, III, c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 392):
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DA UNIDADE IMOBILIÁRIA. RESCISÃO. CABIMENTO. DEVOLUÇÃO INTEGRAL DOS VALORES PAGOS. RETENÇÃO DE PARTE DOS VALORES PAGOS PELOS PROMITENTES COMPRADORES. NÃO CABIMENTO. MULTA CONTRATUAL. APLICAÇÃO. MANUTENÇÃO. INVERSÃO DA CLÁUSULA PENAL PACTUADA PARA O CASO DE ATRASO NO PAGAMENTO DAS PARCELAS DO CONTRATO. IMPOSSIBILIDADE.
+1. O atraso na entrega do imóvel objeto de contrato de promessa de compra e venda constitui circunstância apta a justificar o acolhimento da pretensão de rescisão do negócio jurídico, com o consequente retorno das partes ao status quo ante, mediante a restituição da integralidade dos valores pagos pelo promitente comprador, não sendo admitida a retenção de qualquer quantia por parte das promitentes vendedoras.
+2. Caracterizada a inadimplência da promitente compradora quanto à obrigação de entrega da unidade imobiliária no prazo pactuado, mostra-se correta a aplicação de cláusula penal prevista para esta hipótese.
+3. Havendo previsão de incidência de multa especificamente para o caso de atraso na entrega do imóvel, não há razão para que seja invertida a multa prevista para o caso de atraso no pagamento das parcelas pactuadas.
+4. Recurso de apelação e recurso adesivo conhecidos e não providos.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 478):
+EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. APELAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL. OMISSÃO. INOCORRENTE. RECURSO CONHECIDO E NÃO PROVIDO. INTUITO PROTELATÓRIO. OCORRÊNCIA. MULTA APLICADA. ACÓRDÃO MANTIDO.
+1. Inexiste omissão no caso, pois todas as alegações da parte foram devidamente analisadas.
+2. O acórdão foi claro ao fundamentar a inocorrência de inadimplemento contratual por parte do embargado, esclarecendo que as parcelas não pagas decorreram do fato de as embargantes não terem entregado o imóvel na data avençada.
+3. Os embargos de declaração não se revelam como o meio processual adequado para o reexame do mérito da demanda. Precedentes.
+4. Ausentes os vícios previstos no art. 1.022 do CPC, necessária a rejeição dos embargos de declaração, ainda que para fins de prequestionamento.
+5. Apesar da apresentação de recursos legalmente previstos não configurar intenção protelatória, o que se observa é que as embargantes buscam, na realidade, rediscutir questões já analisadas com o escopo de evitar o trânsito em julgado da decisão condenatória. Devida a aplicação de multa nos termos do artigo 1.026, §2º do Código de Processo Civil.
+6. Recurso conhecido e não provido. Acórdão mantido.
+Em suas razões de recurso especial (e-STJ, fls. 490-499), as agravantes alegaram a existência de dissídio jurisprudencial.
+Sustentaram, em síntese, a possibilidade de retenção de até 25% dos valores pagos pelo promitente comprador na hipótese de rescisão contratual. Ainda, defenderam que os juros moratórios devem incidir somente a partir do trânsito em julgado da decisão.
+Foram apresentadas contrarrazões (e-STJ, fls. 520-527).
+O processamento do apelo especial não foi admitido pela Corte local com base no art. 1.030, I, b, do CPC/2015, bem como na Súmula n. 284/STF, levando as insurgentes a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 543-548).
+É o relatório. Decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Registre-se que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão.
+Na hipótese, verifica-se que a argumentação apresentada no recurso especial, acerca do direito de retenção de até 25% das parcelas pagas pelo promitente comprador e do termo inicial dos juros de mora, mostra-se deficiente, em razão da não indicação de dispositivo de lei federal supostamente violado ou cuja interpretação tenha sido divergente pelos tribunais, o que atrai a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. PREVIDÊNCIA PRIVADA. ENTIDADE FECHADA. CDC. INAPLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE INTERPRETAÇÃO DIVERGENTE. DECISÃO MANTIDA.
+1. O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas (Súmula n. 563/STJ, SEGUNDA SEÇÃO, julgado em 24/02/2016, DJe 29/02/2016).
+2. O conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas.
+3. A ausência de indicação do dispositivo de lei federal objeto de interpretação divergente impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1638040/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/11/2020, DJe 09/12/2020)
+Ademais, constata-se que foi negado seguimento ao recurso especial, nos termos do art. 1.030, I, b, do CPC/2015, pois a questão acerca da devolução integral das parcelas pagas pelo promitente comprador fora decidida na Corte local em conformidade com precedente firmado por este Superior Tribunal de Justiça em recurso especial repetitivo, REsp n. 1.300.418/SC - Tema 577, que assim dispõe:
+ ..
+1. Para efeitos do art. 543-C do CPC: em contratos submetidos ao Código de Defesa do Consumidor, é abusiva a cláusula contratual que determina a restituição dos valores devidos somente ao término da obra ou de forma parcelada, na hipótese de resolução de contrato de promessa de compra e venda de imóvel, por culpa de quaisquer contratantes. Em tais avenças, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento.
+ ..
+(REsp 1300418 SC, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/11/2013, DJe 10/12/2013)
+O Tribunal de origem, ao analisar a tese defendida pelas recorrentes, fundamentou-se nos seguintes termos (e-STJ, fl. 396):
+(..)
+As rés defenderam o direito à retenção de multa rescisória, na forma prevista contratualmente.
+No entanto, a rescisão do contato de promessa de compra e venda de imóvel firmado pelas partes não decorre do inadimplemento ou da desistência manifestada pelos promitentes compradores, mas em virtude do descumprimento contratual por parte das promitentes vendedoras, quanto ao prazo de entrega da unidade imobiliária.
+A alegação de inadimplência da parte autora não encontra amparo nas provas produzidas nos autos, porquanto ficou demonstrado que todas as prestações pactuadas, com exceção daquelas que só seriam exigíveis com a entrega do imóvel, foram devidamente pagas.
+Portanto, em virtude da rescisão contratual, as partes devem retornar ao status quo ante, com a restituição integral e em única parcela das quantias desembolsadas pela autora para a aquisição do imóvel, não se mostrando cabível a retenção de quaisquer valores por parte das empresas rés, sob pena de enriquecimento ilícito.
+Verifica-se, portanto, que o entendimento alcançado pelo acórdão recorrido está alinhado à jurisprudência desta Corte, de modo que não há direito de retenção no caso em apreço, devendo serem restituídas integralmente as parcelas pagas pelo promitente comprador, aplicando-se ao caso a Súmula n. 83/STJ.
+Vale mencionar, por fim, que a análise da lide demandaria ampla cognição fático-probatória, cujo reexame é vedado em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, conheço do agravo paraconhecer em parte do recurso especial e, nesta extensão,negar-lhe provimento.
+No tocante aos honorários recursais, constata-se que não estão presentes os requisitos cumulativos necessários para a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do CPC/2015 (AgInt nos EREsp n. 1.539.725/DF, Rel. Min. Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe 19/10/2017)
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA. 1. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE PELOS TRIBUNAIS. INCIDÊNCIA DA SÚMULA 284/STF. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM. MATÉRIA JULGADA DE ACORDO COM ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO: TEMA 577. SÚMULA N. 83/STJ. 3. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME INVIÁVEL. SÚMULA N. 7/STJ. 4. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO,NEGAR-LHE PROVIMENTO.
