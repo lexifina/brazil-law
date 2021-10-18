@@ -1,0 +1,23 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado por Ronaldo Camilo e outro, em favor de Kauan Vinicius Maciel Santos da Silva, contra decisão monocrática proferida por Ministro do STJ, nos autos do HC 699.384/PR.
+    Colho da decisão impugnada:
+    “Consta que o Paciente foi preso em flagrante, em 12/08/2021, com posterior conversão da custódia em preventiva (fls. 151-158), em razão da suposta prática, em concurso com corréu, do ilícito tipificado no art. 33, caput, da Lei n. 11.343/2006, pois foi surpreendido recebendo do carteiro uma caixa, contendo 5g (cinco gramas) de maconha, endereçada a sua companheira, e, em sua residência foram encontrados "diversos tabletes de 'maconha', sementes da mesma droga, 'maconha' a granel, frações de haxixe, 01 (uma) faca de cabo preto com resquícios da substância, 01 (uma) forma de alumínio com substância conhecida como haxixe, 01 (um) caderno de anotação de venda de drogas, 07 (sete) cartelas de adesivos e 02 (dois) pés pequenos de 'maconha', plantados no quintal" (fl. 153). As drogas apreendidas perfazem cerca de 50g (cinquenta gramas) de haxixe e 12,9kg (doze quilos e novecentos gramas) de maconha.
+    […]
+    Neste writ, a Parte Impetrante sustenta, em suma, que: (i) o decreto prisional é genérico; (ii) o Paciente possui as condições pessoais favoráveis à concessão da liberdade provisória; (iii) a medida extrema é desproporcional, pois, em caso de eventual condenação, a reprimenda a ser imposta será mais branda do que o cárcere; e (iv) não estão presentes na hipótese os requisitos legais autorizadores da decretação da prisão preventiva.
+    Requer, em medida liminar e no mérito, a revogação da custódia preventiva, e, subsidiariamente, sua substituição por medidas cautelares diversas. (eDOC 4)
+    No STJ, a ordem foi denegada em 14.10.2021. Ainda está aberto o prazo para interposição de agravo regimental.
+    Nesta Corte, reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    É que, ausente pronunciamento colegiado naquele Tribunal, não houve lá esgotamento da instância. Sem o esgotamento da instância, a análise por esta Corte resulta em sua supressão. Cito precedentes:
+    “Agravo regimental no habeas corpus. 2. Habeas corpus que impugna decisão monocrática de mérito proferida por Ministro do Superior Tribunal de Justiça. Supressão de instância. Ausência de pronunciamento colegiado. Necessidade de interposição de agravo regimental. 3. Superação do óbice possível apenas nos casos de flagrante ilegalidade. Não ocorrência no caso concreto. 4. Agravo não provido”. (AgR no HC 184.614, de minha relatoria, Segunda Turma, DJe 16.6.2020)
+    “Agravo regimental no habeas corpus. 2. Habeas corpus impetrado contra decisão monocrática proferida por Ministro de Tribunal Superior. Supressão de instância. Não há manifesta ilegalidade no caso concreto a autorizar a concessão da ordem. 3. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5 Agravo improvido”. (AgR no HC 180.489, de minha relatoria, Segunda Turma, DJe 14.4.2020)
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    O impetrante, em 91 (noventa e uma) laudas, em petição de difícil compreensão, requer o restabelecimento da liberdade do paciente, preso com “5g (cinco gramas) de maconha, endereçada a sua companheira, e, em sua residência foram encontrados "diversos tabletes de 'maconha', sementes da mesma droga, 'maconha' a granel, frações de haxixe, 01 (uma) faca de cabo preto com resquícios da substância, 01 (uma) forma de alumínio com substância conhecida como haxixe, 01 (um) caderno de anotação de venda de drogas, 07 (sete) cartelas de adesivos e 02 (dois) pés pequenos de 'maconha', plantados no quintal" (fl. 153). As drogas apreendidas perfazem cerca de 50g (cinquenta gramas) de haxixe e 12,9kg (doze quilos e novecentos gramas) de maconha.”
+    Não é possível vislumbrar flagrante ilegalidade a autorizar a indevida supressão.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 18 de outubro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
