@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de LEANDRO FELICIANO DE JESUS, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que deu provimento ao recurso interposto pelo Parquet, nos termos da seguinte ementa:
+"Agravo em Execução. Progressão concedida na origem. Inconformismo ministerial. Impossibilidade de concessão do benefício. Prática de crimes de receptação e roubos. Crimes graves, gravíssimos. Ausência de condição subjetiva, até aqui, para a obtenção do benefício. Agravo provido" (e-STJ, fl. 372).
+Consta dos autos que o juízo de primeiro grau deferiu ao paciente o pedido de progressão ao regime, por entender preenchidos os requisitos objetivo e subjetivo.
+Inconformado, o Ministério Público interpôs recurso de agravo em execução perante o TJSP, que reformou a decisão e indeferiu o pedido de progressão de regime, por entender estar ausente o requisito subjetivo.
+Neste writ, o impetrante alega constrangimento ilegal ante a ausência de fundamentação idônea apta a ensejar o indeferimento do pleito.
+Sustenta que "mesmo com lapso temporal e bom comportamento carcerário, o paciente está sendo mantido em regime mais gravoso do que lhe é cabível, o que constitui patente ilegalidade" (e-STJ, fl. 5).
+Aduz que o paciente preencheu todos os requisitos exigidos pela lei para concessão da progressão de regime, vez que cumpriu o requisito objetivo e possui atestado de bom comportamento carcerário.
+Requer a concessão da ordem, inclusive liminarmente, para que seja concedida a progressão ao regime aberto.
+A liminar foi indeferida (e-STJ, fls. 608-609).
+Informações prestadas (e-STJ, fls. 640-653).
+O Ministério Público Federal manifestou pelo não conhecimento da ordem (e-STJ, fls. 655-659).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+O Tribunal a quo deu provimento ao recurso interposto pelo Ministério Público para indeferir o pedido de progressão de regime, pelos seguintes fundamentos:
+"Ademais, consta do boletim informativo do agravado o cometimento de 5 faltas disciplinares, 3 delas graves, uma delas de evasão, e há duas ainda em andamento (f. 154). Tudo a reforçar a conclusão de que ele não demonstra - até aqui - absorção da terapêutica penal e não possui mérito para a benesse.
+ ..
+Não há provas suficientes a demonstrar, enfim, que o sentenciado, na espécie, reúna condições de ser colocado em regime prisional mais brando" (e-STJ, fls. 375-376).
+A jurisprudência deste Superior Tribunal de Justiça tem se manifestado no sentido de que, a análise desfavorável do mérito do condenado no curso de sua execução penal, com base nas peculiaridades do caso, justifica o indeferimento do pleito de progressão por ausência do requisito subjetivo.
+Nesse sentido, confiram-se os seguintes precedentes:
+"Agravo regimental. Habeas Corpus. Progressão de regime prisional. Inadimplemento do requisito subjetivo. Indicação de elemento concreto. Prática de novo crime durante a evasão do sistema prisional. Constrangimento ilegal. Ausência.
+1 - Deve ser mantida a decisão monocrática na qual se indefere liminarmente a inicial, quando não evidenciado constrangimento ilegal manifesto à liberdade de locomoção do apenado.
+2 - Hipótese em que a progressão de regime prisional foi indeferida não só com base na gravidade abstrata dos crimes pelos quais o apenado cumpre pena nem da longa reprimenda aplicada, mas em razão da notícia da reiteração delitiva praticada durante a evasão do sistema prisional.
+3 - Agravo regimental improvido" (AgRg no HC 669.713/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/6/2021, DJe 18/6/2021).
+"Agravo regimental. Habeas Corpus. Execução Penal. Progressão de regime. Requisito subjetivo não preenchido. Prática de falta grave. Abandono da execução da pena. Elemento concreto. Fundamentação idônea. Análise do requisito de ordem subjetiva na via estreita do writ. Inviabilidade. Agravo regimental desprovido.
+I - Para a progressão de regime, deve o apenado preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva, nos termos do art. 112 da LEP.
+II - Esta Corte Superior de Justiça possui entendimento consolidado no sentido de que "a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fato ocorrido durante a execução da pena (fuga do estabelecimento prisional), justifica o indeferimento do pleito de progressão de regime prisional, por inadimplemento do requisito subjetivo" (AgRg no HC 387.056/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 12/05/2017).
+III - Não se vislumbra ilegalidade no v. acórdão impugnado, que manteve o indeferimento do benefício da progressão de regime, ao entender que não está configurado o requisito subjetivo, considerando a prática de falta grave no curso da execução penal, consistente em fuga, ou seja, com base elemento concreto da execução penal.
+IV - Nos termos da jurisprudência sedimentada nesta Corte Superior de Justiça, é inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para a progressão de regime, uma vez que tal providência implica reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita. Agravo regimental desprovido" (AgRg no HC 448.403/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 27/8/2018).
+Por fim, o "atestado de boa conduta carcerária não assegura o livramentocondicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC 572.409/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/06/2020, DJe 10/06/2020).
+Nesse contexto, não verifico a ocorrência de flagrante ilegalidade no acórdão impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
