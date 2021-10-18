@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ANDERSON BACELAR DE JESUS, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que não conheceu de mandamus prévio, em acórdão assim ementado:
+"Habeas Corpus - Execução Penal - Insurgência contra a permanência do preso no regime fechado, após o deferimento da sua progressão ao semiaberto - Inadmissibilidade - Hipótese em que, por ocasião do deferimento da progressão, foi determinada a transferência do réu para o regime adequado e a observância da Súmula nº 56 do Supremo Tribunal Federal - Pretensão de imediata remoção do preso ao regime intermediário ou sua colocação em prisão domiciliar, não manifestada, por primeiro, ao Juiz das Execuções Criminais - Não conhecimento da ação constitucional - O Juízo das Execuções Criminais é o competente para conhecer e julgar incidentes em execução de pena (cf. art. 66, III, "f", Lei 7.210/84), afigurando-se descabida a pretensão manifestada diretamente nesta Corte de Justiça - A ação constitucional, portanto, não é de ser conhecida, máxime por afronta ao princípio do juiz natural (art. 5º, LIII, CF).
+Habeas corpus não conhecido." (e-STJ, fl. 76).
+Neste writ, o impetrante alega constrangimento ilegal, na medida em que, embora o paciente tenha sido promovido ao regime semiaberto em 14/5/2021, até o momento ainda se encontra em regime fechado, devido à ausência de vagas em estabelecimento adequado.
+Requer, inclusive liminarmente, que o reeducando seja transferido, imediatamente, para o regime prisional semiaberto. Pugna pela colocação em prisão domiciliar, no caso de ausência de vagas até que o Estado tome as providências necessárias para sua inserção na unidade prisional compatível.
+A liminar foi indeferida pelo Ministro Vice-Presidente deste Tribunal, em exercício da Presidência (e-STJ, fls. 85-87).
+Prestadas as informações (e-STJ, fls. 94-110), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 112-113).
+É o relatório.
+Decido.
+Na hipótese, o Tribunal a quo não conheceu do habeas corpus, mediante a seguinte fundamentação:
+"Cabe registrar, de início, que o paciente se insurge contra a sua permanência em regime prisional fechado, malgrado lhe tenha sido outorgada progressão ao regime semiaberto, em 14 de maio de 2021.
+Contudo, embora não se desconheça o comando normativo da Súmula Vinculante nº 56 do Supremo Tribunal Federal, importa observar que inexiste indicativo nos presentes autos de que o ilustre impetrante, antes de bater às portas deste Egrégio Tribunal, tenha informado ao douto Magistrado de primeiro grau acerca do não cumprimento de sua decisão e requerido junto ao Juízo competente a adoção das providências necessárias para imediata remoção do paciente ao estabelecimento adequado ao regime semiaberto ou sua colocação em prisão domiciliar.
+Aliás, verifica-se que o MM. Juiz a quo, ao deferir a progressão de regime ao paciente, determinou a sua transferência para estabelecimento prisional adequado e a observância da Súmula nº 56 do Supremo Tribunal Federal, de modo que a falta de providência no âmbito administrativo haveria de ter sido comunicada, por primeiro, ao Juízo das Execuções Criminais.
+Logo, não cabe a esta Corte de Justiça conhecer e decidir acerca desse pleito específico ainda não apreciado pelo Juízo das Execuções Criminais competente, nos termos da alínea "f" do inciso III do artigo 66 da Lei de Execução Penal, sob pena de perpetrar-se verdadeira supressão de instância, com inaceitável vulneração do princípio constitucional do juiz natural (art. 5º, LIII, CF).
+Frente a esse quadro, por não ser dado ao ilustre impetrante valer-se da via eleita para discutir questão ainda não submetida à apreciação do Juízo de origem, a denunciar a falta de interesse de agir, na perspectiva da adequação processual, exsurge inafastável o não conhecimento do mandamus.
+3. Ante o exposto, não se conhece da ação de habeas corpus." (e-STJ, fls. 77-79).
+Da leitura do voto condutor do acórdão estadual, observa-se que a Corte local não se manifestou sobre a ilegalidade apontada neste writ.
+Tal fato impossibilita a análise do pleito por esta Corte Superior, sob pena da indevida supressão de instância.
+Nesse sentido, confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVA SUPERIOR A 10% (DEZ POR CENTO) DO SALÁRIO MÍNIMO. HABITUALIDADE DELITIVA. REINCIDÊNCIA. INAPLICABILIDADE. REGIME ABERTO. INVIÁVEL. PLEITO DE AGUARDAR SURGIMENTO DE VAGA NO REGIME SEMIABERTO EM REGIME ABERTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+5. O pleito referente à possibilidade de o Acusado aguardar no regime aberto, até o surgimento de vaga no semiaberto, não foi ventilado nas instâncias de origem, sendo que o seu exame por este Tribunal Superior caracteriza indevida supressão de instância. Deve ser postulado, primeiramente, junto ao Juízo da Execução.
+6. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial ao arrepio das regras processuais.
+7. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido." (AgRg no AREsp 1.550.027/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/05/2020, DJe 02/06/2020, grifou-se).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA QUE INDEFERE PEDIDO LIMINAR. NÃO CABIMENTO. SÚMULA 691/STF. CONCESSÃO DE PRISÃO DOMICILIAR. PEDIDO NÃO ANALISADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. DEPRECAÇÃO DE PENA PARA UNIDADE PRÓXIMA DA RESIDÊNCIA DA FAMÍLIA. CONVENIÊNCIA DA ADMINISTRAÇÃO DA JUSTIÇA. AUSÊNCIA DE VAGAS NO SISTEMA PENITENCIÁRIO LOCAL. FUNDAMENTAÇÃO ADEQUADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Inviável o exame do pedido de concessão de prisão domiciliar em substituição ao regime semiaberto por esta Corte Superior, visto que não foi analisado pelas instâncias ordinárias, sob pena de supressão de instância.
+ ..
+VI - Desse modo, não se vislumbra o constrangimento ilegal apontando na inicial.
+Habeas corpus não conhecido. (HC 487.932/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/03/2019, DJe 19/03/2019, grifou-se).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
