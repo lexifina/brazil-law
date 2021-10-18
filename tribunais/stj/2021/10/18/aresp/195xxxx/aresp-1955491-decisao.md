@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Carlos Alberto Bicudo Siqueira e outros, com base no art. 105, III, a , da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado o Rio Grande do Sul assim ementado (e-STJ, fl. 338):
+RESPONSABILIDADE CIVIL. PRELIMINAR. PROCESSUAL CIVIL. NULIDADE DA SENTENÇA: INOCORRÊNCIA.
+A suposta divergência sobre dado paralelo, sem repercussão quanto ao fato probando do processo, não autoriza seja anulada a sentença para realizar acareação.
+AÇÃO INDENIZATÓRIA. ALEGAÇÃO DE OFENSAS PESSOAIS. ÔNUS DE PROVAR. FATOS CONSTITUTIVOS.
+Alegação de ofensas pessoais proferidas pelo réu aos autores. Ausência de prova conclusiva da versão dada na inicial. Fato constitutivo indemonstrado. A atribuição de termo "mafioso" ao sindicato do qual os autores compunham a diretoria não tem o condão de configurar ofensa moral aos dirigentes. Mero dissabor. Sentença de improcedência mantida.
+PRELIMINAR REJEITADA. APELO DESPROVIDO. UNÂNIME.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 362):
+EMBARGOS DECLARATÓRIO S. ART. 1.022 DO CPC/2015. PREQUESTIONAMENTO. Embargos de Declaração dizem com a ocorrência de alguma das previsões legais do art. 1.022 do CPC/2015. Inocorrentes, o recurso não é de ser acolhido, mesmo para fins de prequestionamento. Mera discordância com o resultado do julgamento. Rediscussão acerca do mérito. Inadmissibilidade dos Embargos. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS. UNÂNIME.
+Em suas razões de recurso especial (e-STJ, fls. 376-385), os agravantes alegaram violação aoart. 1.022, II, do CPC/2015, e aos arts. 20, 186 e 187 do CC/2002.
+Sustentaram, em síntese, que o acórdão recorrido foi omisso, pois não se manifestou a respeito das questões suscitadas nos aclaratórios, imprescindíveis para a solução da controvérsia. Ademais, defenderam a conduta ilícita do agravado que feriu direitos da personalidade dos agravantes, o que culminou em danos morais.
+Foram apresentadas contrarrazões (e-STJ, fls. 401-414).
+O processamento do apelo especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Nas razões do agravo, aparteagravanteimpugnaos fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal.
+Contraminuta apresentada (e-STJ, fls. 442-453).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à violação do art. 1.022 do CPC/2015 por omissão sobre teses suscitadas pela parte, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+O Tribunal de origem, ao dirimir a controvérsia, assim decidiu (e-STJ, fls. 335-337 - sem grifo no original):
+Ao decidir sobre o pedido de acareação disse o juízo a quo:
+Indefiro o pedido de acareação entre as testemunhas Marcelo de Souza Dantas e Eva Daiane Silva Moraes, porquanto do cotejo de seus depoimentos não se verifica a existência de divergências passíveis de interferir na decisão ou na elucidação dos fatos. Isso porque, não controvertem sobre o fato de que a testemunha Marcelo NÃO estava presente no momento da suposta desavença entre as partes. As incongruências sobre sua exata localização (em sua sala no segundo andar ou no corredor paralelo), não tem interferência na solução do deito. Veja-se que a testemunha Eva é categórica ao afirmar que Marcelo não se encontrava no momento e do local onde supostamente estava não sabe precisar se teria escutado algo. Assim, divergências sobre questões paralelas não dão suporte ao pedido de acareação, o qual vai indeferido. Outrossim, defiro o pedido de requisição das gravações das imagens das câmeras da emissora instaladas no hall e que tenham abrangência até o setor de RH, captadas no dia dos fatos (01/10/2015) no horário compreendido entre 9h e 10h30min.
+Como constou, as testemunhas não divergem sobre o fato probando no processo.
+A informação sobre a exata localização da testemunha Marcelo, se no corredor, ou na sua sala, não pode ter o efeito de impor nulidade. Esse dado, paralelo, como dito pelo magistrado a quo, em nada desabona o que foi dito por ambos os depoentes e deve ser valorado para fins deformação da convicção do julgador.
+O que parece ser vital ao deslinde é que Marcelo não presenciou os fatos e isso não vai mudar com a pretendida acareação.
+Por essas palavras, rejeito a preliminar.
+Quanto ao mérito, a sentença vai mantida por seus próprios fundamentos. Verbis:
+As questões controvertidas são singelas e dispensam considerações ou fundamentos aprofundados para a sua adequada e justa solução.
+As partes admitem o encontro nas dependências da empresa naquela data.
+No entanto, a prova produzida não ampara a versão de fato apresentada pelos autores, ou seja, da prática de ofensas verbais por parte do autor de forma a causar constrangimentos passível de reparação pecuniária.
+Na verdade, não fosse o réu admitir que dirigiu a palavra aos autores com referências a atuação do sindicato, nenhum outro elemento de convicção ampararia a alegação.
+As quatro testemunhas não relataram o conteúdo preciso da conversa mantida entre as partes e sequer confirmaram a presença de todos os autores no local naquele momento. Em resumo, reconheceram a existência do encontro, algumas uma discussão, mas sem que isso permita entender que houve a prática de ilícito por parte do réu, destacado que, em meio a uma discussão, tal fato não pode ser simplesmente presumido.
+Assim, como o ônus da prova em relação a esse fato, a existência das ofensas e sua gravidade, pertencia aos autores, é certo entender que não restou por eles comprovado.
+No ponto, relevante referir ainda que até mesmo a busca por imagens foi medida cumprida a partir de pedido dos autores, sendo esclarecido pela empresa Record que não havia sistema de gravação na época.
+Assim, como o juiz não está autorizado a deixar de decidir as questões controvertidas quando inexistente a prova, ele deve fazer uso justamente das regras de distribuição do respectivo ônus para a solução.
+Isso determina que, na ausência de prova suficiente sobre determinado fato, a parte que detém o ônus de provar deve suportar então a rejeição da pretensão ou da defesa fundada no fato não comprovado, disciplina decorrente da previsão do artigo 373 do Código de Processo Civil.
+A pretensão indenizatória deduzida pelos autores, portanto, deve ser rejeitada.
+Conforme prova que veio aos autos, a versão de que o réu teria proferido palavras ofensivas aos autores não foi confirmada.
+Não é demais lembrar que à parte autora incumbia fazer prova dos fatos constitutivos do seu direito, à luz do que dispõe o art. 373, I do Código de Processo Civil, ônus do qual não se desincumbiu a contento, não prosperando, assim, o pedido indenizatório movido.
+Quanto ao fato admitido pelo apelado na resposta ao pedido inicial  "o que vocês fizeram comigo quando eu cheguei aqui em 2008 é coisa de mafioso (..) Esse sindicato é uma máfia." (fl. 11 - Evento 2 - CONT e DOCS2)  não tem o condão de configurar ofensa a direito de personalidade.
+Primeiro, porque a referência é dirigida a uma entidade - sindicato -, não aos autores em si.
+Segundo, conforme qualificação constante da exordial, os demandantes compunham a diretoria do sindicado dos radialistas à época dos fatos. Ou seja, eram/são pessoas preparadas a enfrentar embates mais acalorados.
+Nessa ótica, tenha que a situação vivenciada não tem a lesividade suficiente, que refoge à normalidade das relações sociais, para configurar o dano extrapatrimonial pretendido.
+Destarte, a improcedência do pedido era mesmo de rigor.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito dos recorrentes, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão das partes.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Ademais, impende esclarecer que, segundo orientação jurisprudencial desta Corte Superior, não cabe, em recurso especial, a análise de possíveis equívocos na valoração da prova, exceto quando ocorrer falha na aplicação das regras referentes à instrução probatória, o que não é o caso dos autos. Nesse sentido: AgInt no AREsp 1.316.722/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/4/2021, DJe 16/4/2021.
+Além disso, analisando os autos, observa-se que o acórdão recorrido é claro ao justificar a manutenção da sentença de primeiro grau, conforme os trechos acima destacados.
+Desse modo, observa-se que a pretensão recursal, a pretexto de violações de lei federal, busca, na verdade, o reexame do conjunto fático-probatório acostado aos autos, o que não se admite no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. IMPOSSIBILIDADE DE ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL OU DE RESOLUÇÃO. FALTA DE PREQUESTIONAMENTO. DANOS MORAIS. INEXISTÊNCIA. CONTRATO VÁLIDO. COMPROVAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, concluiu pela validade da contratação do empréstimo bancário, pois o contrato possui a assinatura do autor, acompanhado dos documentos pessoais, bem como foi comprovado que os valores foram disponibilizados na conta do recorrente.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AResp n. 1.790.306/MS. Relator Ministro Raul Araújo, Quarta Turma, DJe 9/6/2021) (grifo nosso).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em R$ 500,00 (quinhentos reais).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. ALEGAÇÃO DE OFENSAS PESSOAIS. DANOS MORAIS NÃO COMPROVADOS. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
