@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de petição apresentada por GERALDO PEREIRA LEITE pela qual requer "seja deferida a inclusão do presente feito no pedido de afetação, conforme cópia anexa, por tratar-se da mesma matéria debatida" (fl. 488).
+É, no essencial, o relatório.
+Tem-se dos autos que o Sr. Hamilton Cardoso Pinheiro participou do programa "Fale com o Presidente", ocasião em que trouxe ao conhecimento desta Presidência a necessidade de uniformização da jurisprudência relacionada ao quadro de taifeiros da Aeronáutica e a Lei n. 12.158/2009.
+Contudo, cumpre-nos esclarecer que caso o incidente de resolução de demandas repetitivas não seja dirigido a esta Corte Superior, em virtude de seus próprios julgados, ele deve ser dirigido ao presidente do Tribunal local Estadual, Federal, Trabalhista ou Eleitoral, por meio de ofício, quando interposto por juiz ou relator, ou por meio de petição, quando interposto por parte, Defensoria Pública ou Ministério Público, devendo tal pedido ser instruído com todos os documentos necessários à demonstração do preenchimento dos pressupostos dos arts. 976, 977 e 978, todos do Código de Processo Civil.
+Dessa forma, o pedido de instauração do incidente ou afetação de eventual matéria repetitiva deve ser feito na Corte de origem, já que pressupõe a existência de processos repetitivos sobre a mesma matéria de direito em sua jurisdição e a ausência de afetação de recurso repetitivo em tribunal superior.
+Registre-se, ainda, que somente após o julgamento do mérito do incidente na origem será cabível a interposição de recurso especial ou extraordinário, que será analisado pelo STJ ou pelo STF, apenas como instâncias recursais, nos termos do art. 987 do NCPC.
+Nesses termos, não conheço do pedido formulado na petição de f. 488 e alerto o agravante que o prazo recursal não foi interrompido com a apresentação desta petição.
+Publique-se. Intimem-se.
