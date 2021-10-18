@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo regimental de JACKISON CORREIA LIMA de fls. 12724/12738 em face de decisão de minha lavra de fls. 12691/12697 que conheceu o seuagravo em recurso especial para não conhecer do recurso especial em razão da intempestividade (fls. 12691/12697).
+O agravante sustenta que a intimação realizada por meio do portal eletrônico do Tribunal de Justiça, consoante art. 5º da Lei n. 11419/06, prevalece sobre a intimação em razão de publicação do ato em Diário de Justiça eletrônico, nos termos do art. 4º,§ 2º, da lei n. 11.419/06.Destaca o decidido no EAREsp n. 1.663.952/RJ, DJe 9/6/21, em favor de sua tese. Aduz que, no caso concreto, a intimação eletrônica foi disponibilizada no dia 12/7/19, efetivando-se em 22/7/19, eis que não houve consulta efetiva, tendo o prazo do recurso especial iniciado em 23/7/19 e terminado em 21/8/19, sendo certo que protocolado em 1/8/19.
+Requer a reconsideração ou o provimento do agravo regimental para que seja afastada a intempestividade do recurso especial.
+É o relatório.
+Decido.
+O agravante possui razão quanto à tempestividade do recurso especial, pois deve ser observado o precedente da Corte especial para que o prazo de interposição do recurso especial seja contado a partir da data da intimação eletrônica e não da publicação no Diário de Justiça eletrônico. Cita-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE.SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO DO AGRAVO EM RECURSO ESPECIAL. AGRAVO NÃO PROVIDO.
+1. A Corte Especial, no julgamento do EAREsp 1.663.952-RJ, em 19.05/2021, firmou entendimento de que, na hipótese de duplicidade de intimações, deve prevalecer a intimação eletrônica sobre a publicação no Diário de Justiça eletrônico.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp 1831107/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+No caso, a intimação eletrônica data de 12/7/19 (fls. 10831/10833 e 10837/10839) e o agravante trouxe cópia de tela do sistema do Tribunal de Justiça acusando o recebimento da referida intimação em 23/7/19 (fl. 12735), a denotar a tempestividade do recurso especial.
+Com essas considerações, reconsidero a decisão agravada para reconhecer a tempestividade do recurso especial. Passa-se à análise das alegações constantes do recurso especial e já relatadas na decisão agravada.
+Sobre a apontadaviolação ao artigo 619 do Código de Processo Penal - CPP, porquanto o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO -TJRJ não sanou vícios de omissão a respeito: a)da ilicitude da prova produzida unilateralmente pela parte ou imprestabilidade do laudo técnico apresentado, em atenção ao disposto nos artigos 159, 276 e 280, todos do CPP, e 6º, § 1º, da lei n. 9.296/96; e b) da atenuante da coação moral resistível prevista no art. 65, III, "c", do CP, no julgamento dos embargos de declaração, o TJRJ limitou-se a negar a existência de vícios a serem aclarados. Cita-se o trecho:
+"Não há nos autos quaisquer omissões, contradições ou obscuridades a serem aclarada, ou muito menos capazes de reformar o decisum através do presente recurso." (fl. 10822).
+Destaque-se que as duas teses defensivas constaram do recurso de apelação do agravante (fls. 9697/9703 e 9717/9718).
+Especificamente sobre a ilicitude da prova produzida unilateralmente pela acusação ou imprestabilidade do laudo técnico,o TJRJ, no julgamento do recurso de apelação,se utilizou do material do anexo 7 para ratificar a condenação, sem tecer qualquer comentário a respeito de sua legalidade. Cita-se o trecho (grifos nossos):
+"A conduta do Apelante Jackison Correa Lima também foi de prometer vantagem indevida para que o Fiscal de Rendas Marco Antônio deixasse de lançar tributos devidos.
+"Diálogo nº 590
+Telefone: 99829265
+Data: 11/07/2007
+Marco se identifica: Marco Antonio da inspetoria. Diz que os livros já estão prontos. Os dele e os do Almídio. Informa que estará na inspetoria no dia seguinte até 11h. Pergunta se Jackison pode resolver no dia seguinte. Jackison diz que se não puder ir manda alguém. Marco pede para a pessoa aproveitar e levar material."
+"Diálogo nº 594
+Telefone: 99829265
+Data: 12/07/2007
+Marco pergunta se Jackison já mandou. Jackison pede o número da conta de Marco e diz que assim fica mais fácil pois não está podendo sair. Marco fornece: Itaú Ag. 6004 c.c. 03388-9. Jackison fala que segunda ou terça conversam."
+"Diálogo nº 598
+Telefone: 99829265
+Data: 17/07/2007
+Marco pergunta se Jackison esqueceu na quinta-feira. Jackison fala que mandará alguém com um envelope para Marco. Marco diz que o menino pode aproveitar e levar os livros"
+Além dos diálogos acima apresentados temos a própria confissão parcial do Apelante Jackison (anexo 1 fls. 1070/1075) que relatou ter sido extorquido pelo fiscal Marco Antônio, senão vejamos:
+".. que foi extorquido pelo fiscal Marco Antônio, o qual exigiu os honorários do interrogando, pois repetia, com frequência;..; que tinha que levar algum;..; que o dono da empresa, Silvio, não aceitou pagar nenhuma propina e não iria pactuar com esse tipo de conduta; ..; que o fiscal Marco Antônio ameaçava o interrogando de lavrar algum auto de infração das empresas em que trabalhava, comprometendo a migração das mesmas para o sistema do Supersimples; .. que o maior temor era de que as empresas não pudessem se enquadrar no Supersimples por conta de um auto de infração indevidamente lavrado; que também sabia que o dono das empresas iria para a imprensa;..; que a divulgação na imprensa seria um problema para o interrogando, pois os cliente não desejam um contador com envolvimento em escândalo; que chegou a entregar os mil reais em espécie ao fiscal Marco Antônio, dentro da inspetoria de Botafogo..". (grifei)
+No mesmo sentido foram seus esclarecimentos em sede policial:
+".. que as sociedades empresárias para as quais prestava serviço e seriam inspecionadas por Marco Antônio estivessem em dia com as obrigações fiscais, Marco Antônio afirmou que teria que ganhar alguma, caso contrário multaria as sociedades empresárias, exigindo a quantia de R$ 5.000,00 para cada uma destas.." (fls. 10334/10336).
+Especificamente sobre a atenuante da coação moral resistível prevista no art. 65, III, "c", do CP, o TJRJ, no julgamento do recurso de apelação, nãoteceuqualquer comentário a respeito de sua aplicabilidade. Cita-se o trecho do recurso de apelação que tratou da dosimetria da pena do agravante:
+"8ºApelante (Jackison) - Não merece qualquer reparo a sanção aplicada. Pena-base que foi corretamente afastada do seu mínimo legal, tendo o magistrado sentenciante fundamentado o decisum de maneira satisfatória.
+Não que se falar em reconhecimento da circunstância atenuante da confissão espontânea, uma vez que se deu de forma parcial.
+Acerto na fixação do regime prisional, assim como pela não substituição da pena privativa de liberdade por restritivas de direitos, nos termos do artigo 44, III do Código Penal, ante a culpabilidade da agente criminosa.
+Quantum de pena que impede a concessão de suspensão condicional da pena nos termos do artigo 77 do Código Penal." (fl. 10343)
+Assim, forçoso o reconhecimento de omissões relevantes para o deslinde da controvérsia. No mesmo sentido, citam-se precedentes (grifos nossos):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1.OFENSA AO ART. 619 DO CPP. OMISSÃO RELEVANTE.VIOLAÇÃO DE SIGILO FUNCIONAL. DANO CAUSADO À ADMINISTRAÇÃO PÚBLICA. NEXO DE CAUSALIDADE NÃO INDICADO. 2. AGRAVO A QUE SE DÁ PROVIMENTO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. As alegações da defesa indicam particularidades que não foram devidamente analisadas pelo Tribunal de origem e que são relevantes para o deslinde da causa.Com efeito, não obstante a Corte local ter efetivamente examinado a incidência da qualificadora constante do § 2º do art. 325 do Código Penal, não é possível aferir que as três condutas narradas nos presentes autos geraram prejuízo financeiro a terceiros nem que repercutiram nas condenações constantes do Processo n.2013.01.1.083090-0. Trata-se de uma nuance dos presentes autos que faz diferença para a manutenção ou para o decote da qualificadora. Constata-se, portanto, que há omissão relevante no julgado recorrido, o que revela violação do art. 619 do Código de Processo Penal.
+2. Agravo regimental provido, para dar provimento ao recurso especial, reconhecendo a ofensa ao art. 619 do Código de Processo Penal, devendo os autos retornar à origem para novo exame dos embargos de declaração.
+(AgRg no AREsp 1809367/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 30/03/2021, DJe 08/04/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADA AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL DA CORTE ESTADUAL.AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284 DO STF. RECURSO IMPROVIDO.
+ ..
+HOMICÍDIO QUALIFICADO. CAUSA INDEPENDENTE SUPERVENIENTE (ART. 13, § 1º, DO CÓDIGO PENAL). AUSÊNCIA DE EXAME DA TESE LEVANTADA NAS RAZÕES DE APELO E RENOVADA NOS ACLARATÓRIOS. RELEVÂNCIA. PERSISTÊNCIA DA OMISSÃO. ARTIGO 619 DO CÓDIGO DE PROCESSO PENAL. OFENSA. EXISTÊNCIA DE CONSTRANGIMENTO ILEGAL NO DECISUM ESTADUAL. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Verifica-se a ocorrência de violação ao artigo 619 do Código de Processo Penal quando, apesar da oposição de embargos de declaração, persiste a omissão do Tribunal na análise de tese relevante suscitada pela defesa, capaz de alterar substancialmente o teor da condenação, devendo portanto ser anulado o acórdão.
+2. Hipótese em que a Corte recorrida deixou de apreciar a tese suscitada pela defesa, relacionada à ocorrência de causa independente superveniente ensejadora do óbito da vítima, matéria levantada nas razões de apelo e renovada nos aclaratórios opostos, e que, acaso acolhida, poderá ensejar a alteração da figura típica imputada ao recorrente, devendo ser reconhecida a violação ao art. 619 do CPP.
+3. Agravo regimental improvido. Ordem concedida de ofício, a fim de anular o julgamento dos embargos declaratórios opostos na origem, determinando ao Tribunal estadual que prossiga no julgamento do recurso e se manifeste quanto ao ponto omisso apontado pela defesa (AgRg no AREsp 1205832/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 20/04/2018).
+Fica prejudicada a análise das demais alegações.
+Ante o exposto, com fundamento no art. 258, § 3º, do Regimento interno do STJ, reconsidero a decisão agravada para reconhecer a tempestividade do recurso especial, conhecer em parte do recurso especial e, com fundamento na Súmula 568 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ, dar-lhe provimentopara determinar que o TJRJ realize novo julgamento dos embargos de declaração do recorrente com fim de sanar omissão sobre a ilicitude da prova produzida unilateralmente pela acusação ou imprestabilidade do laudo técnico, bem como sobre a incidência da atenuante da coação moral resistível prevista no art. 65, III, "c", do CP.
+Publique-se.
+Intimem-se.
