@@ -1,0 +1,21 @@
+DECISÃO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Trata-se de agravo interno apresentado contra decisão monocrática do Ministro Presidente/STJ que indeferiu liminarmente os embargos de divergência
+A agravante alega, em suma, que a divergência foi demonstrada de modo adequado.
+Requer seja provido o recurso.
+Verifica-se que, no que se refere aos aspectos formais, a divergência jurisprudencial foi demonstrada de modo adequado, razão pela qual o indeferimento liminar dos embargos de divergência, no caso,constitui rigor excessivo, o que não se coaduna com a orientação deste Tribunal.
+A despeito disso, impõe-se que os embargos sejam inadmitos, pois não existe divergência atual entre as Turmas que integram a Primeira Seção/STJ, conforme demonstram os precedentes a seguir:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO.CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. REGIME GERAL DA PREVIDÊNCIA SOCIAL. INCIDÊNCIA SOBRE GRATIFICAÇÃO NATALINA PROPORCIONAL AO AVISO PRÉVIO INDENIZADO.
+1. "A circunstância de o aviso prévio indenizado refletir na composição da gratificação natalina é irrelevante, devendo a contribuição previdenciária incidir sobre o total da respectiva verba" (AgRg no REsp 1383613/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/09/2014, DJe 10/10/2014). Assim, "a jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que "incide contribuição previdenciária sobre os valores relativos ao décimo terceiro proporcional ao aviso prévio indenizado, ante o caráter remuneratório de tais verbas  .. " (AgRg no REsp 1.569.576/RN, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 1º/3/2016)" (REsp 1825158/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/08/2019, DJe 06/09/2019).
+2. Agravo interno não provido.
+(AgInt no REsp 1849802/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 03/09/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. REGIME GERAL DA PREVIDÊNCIA SOCIAL. INCIDÊNCIA SOBRE O DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO, FÉRIAS GOZADAS, SALÁRIO-MATERNIDADE, ADICIONAL DE HORAS EXTRAS, ADICIONAIS NOTURNO, DE PERICULOSIDADE E DE INSALUBRIDADE.
+1. As Turmas que integram a Primeira Seção do STJ, em casos análogos, aos dos autos, adotam entendimento de que é legítima a incidência de contribuição previdenciária sobre o décimo terceiro salário, inclusive o pago (de forma indenizada e proporcionalmente) por ocasião da rescisão do contrato de trabalho.
+2. Assim, é pacífico o posicionamento do STJ quanto à incidência da contribuição previdenciária patronal sobre o décimo terceiro proporcional ao aviso prévio indenizado. Precedentes: AgInt nos EDcl no REsp 1.693.428/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/5/2018; AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 21/6/2016; AgRg no REsp 1.569.576/RN, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 1º/3/2016.
+3. No julgamento dos Recursos Especiais repetitivos 1.230.957/RS e 1.358.281/SP, a Primeira Seção firmou a compreensão de que incide contribuição previdenciária patronal sobre as seguintes verbas: salário-maternidade, salário-paternidade, horas extras, adicional de periculosidade e adicional noturno.
+4. No que tange às demais verbas (férias gozadas e adicional de insalubridade), também é pacífico o entendimento do STJ de que nelas incede a contribuição previdenciária patronal.
+5. Recurso Especial não provido.
+(REsp 1814866/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/10/2019, DJe 18/10/2019)
+Desse modo, aplica-se o disposto na Súmula 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+Diante do exposto, reconsidero a decisão agravada, mantendo, no entanto, a inadmissão dos embargos de divergência, por outros fundamentos.
+Publique-se. Intimem-se.
