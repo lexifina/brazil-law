@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado por Adenisia Marques Santanna e Outros com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 282):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. PENSÃO POR MORTE. EXECUÇÃO DE SENTENÇA. ÍNDICE DE CORREÇÃO MONETÁRIA. JUROS DE MORA.
+Aplicação da decisão proferida nas ADIs 4357 e 4425, com modulação de efeitos realizada pelo Plenário do Supremo Tribunal Federal. A atualização das dívidas da Fazenda Pública, de natureza não tributária, deve observar as seguintes balizas:
+- até 30/06/2009, deve ser observada a decisão transitada em julgado;
+- de 30/06/2009 até 25/03/2015, deve haver aplicação exclusiva do índice oficial de remuneração básica da caderneta de poupança, a TR, e juros da caderneta de poupança;
+- a partir de 26/03/2015, o cômputo de correção monetária ocorre pelo IPCA-E e juros simples de 0,5% ao mês, contados da citação, a teor da Súmula n 2 204 do Superior Tribunal de justiça.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Opostos embargos declaratórios, foram rejeitados (fls. 301/310).
+A parte recorrente sustenta, em síntese, que "deve ser respeitada a decisão transitada em julgado, restando inalterado o índice de correção e juros. (..)resta cristalino que o índice de correção aplicado nesse feito estava equivocado, devendo ser aplicado o IGPM ou, caso não seja esse o entendimento desse Nobre Juízo, seja aplicado o IPCA, além dos juros previstos na ordem judicial transitada em julgado ou, caso ali inexista previsão, merecem ser aplicados os juros legais.Existindo decisão transitada em julgado no sentido da aplicação do IGPM, somente tal decisum poderia ser alterado através de ação rescisória, o que o não ocorreu no caso em concreto." (fl. 319)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Inicialmente, verifica-se que foram manejados dois recursos especiais de conteúdo idêntico (fls. 317/323e 392/399) contra o acórdão de fls. 281/291. Pois bem, em atenção aos princípios da preclusão consumativa e da unirrecorribilidade, apenas o primeiro recurso (fls. 317/323) será apreciado.
+Não conheço, pois, da petição de fls. 392/399 e passo à análise do recurso remanescente.
+Cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro AntônioCarlos Ferreira, Quarta Turma, DJe 12/03/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 08/03/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 01/03/2021.
+Do mesmo modo, na interposição do recurso especial com base na alínea c do permissivo constitucional é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Nesse mesmo sentido, destacam-se os seguintes precedentes: AgInt no AREsp 1742361/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 03/03/2021; AgInt no REsp 1791633/CE, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 04/03/2021; AgInt no AREsp 1650251/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 09/09/2020.
+ANTE O EXPOSTO, não conheçodo recurso especial.
+Publique-se.
