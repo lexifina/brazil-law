@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Thayani Cristina de Souza ao decisum, de minha lavra, assim ementado (fl. 752):
+AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PARECER ACOLHIDO.
+Agravo em recurso especial não conhecido.
+Nas razões, a defesa da embargante suscita a existência de contradição na decisão embargada, aduzindo, em síntese, que houve erro cometido pelo próprio Tribunal de Justiça, decorrente de falha no sistema EPROC (fls. 758/759).
+Assevera que a divergência tanto em relação ao marco inicial quanto a data final do prazo, não se trata de mera irregularidade, não tendo sido oportunizada à parte a detida análise de suas alegações nos Recursos interpostos, configurando latente cerceamento de defesa, sendo o caso de se utilizar de interpretação analógica, o art. 183, §§ 1º e 2º, do CPC, determina o afastamento do rigorismo na contagem dos prazos processuais quando o descumprimento decorrer de fato alheio à vontade da parte (fl. 759).
+Pugna, assim, pelo reconhecimento da contradição apontada, inclusive com a atribuição de efeitos modificativos ao julgado embargado (fl. 761).
+É o relatório.
+A pretensão da embargante não merece acolhida.
+Inicialmente, a contradição passível de correção, por ofensa ao art. 619 do Código de Processo Penal, é aquela ocorrida internamente, ou seja, entre as proposições e conclusões do próprio julgado, e não entre a fundamentação da decisão impugnada e outro parâmetro externo (EDcl no RHC n. 126.813/PB, Ministra Laurita Vaz, Sexta Turma, DJe 11/3/2021).
+No mesmo sentido: EDcl no AgRg no Inq n. 1.190/DF, Ministro Felix Fischer, Corte Especial, DJe 18/12/2020 e EDcl no AgRg na Rcl n. 39.139/SP, Ministro Jorge Mussi, Terceira Seção, DJe 4/8/2020.
+Na espécie, a ora embargante não apontou a existência de nenhuma desarmonia entre a fundamentação e as conclusões da própria decisão capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgado; aduziu, apenas, que razão não assiste aos argumento esposados, uma vez que, o erro não se insurgiu por parte do advogado de defesa mas sim, do sistema judicial eletrônico - EPROC, o qual alterou o marco inicial para interposição recursal (21/1/2021), consequente- mente, alterando, do mesmo modo, a data final do prazo para interposição dos recursos cabíveis (4.2.2021) - fl. 758, o que, evidentemente, não constitui hipótese a autorizar o manejo dos presentes embargos de declaração.
+Ademais, a decisão agravada lançou fundamentação suficiente, inclusive com lastro em precedentes desta Corte, para não conhecer do agravo, ante a intempestividade do recurso especial.
+A esse respeito, cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado com repercussão geral, no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes), circunstância verificada no caso, eis a ementa do julgado:
+ ..  Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral Em face do exposto, rejeito os embargos de declaração.  ..
+O que se verifica, no caso, é a tentativa da embargante de, por via oblíqua, rediscutir a conclusão do julgado, providência descabida na via eleita.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO EXTERNA AO ACÓRDÃO EMBARGADO. INTUITO DE REJULGAMENTO DAS QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. OBSCURIDADE INEXISTENTE.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, bem como eliminar contradição ou ambiguidade eventualmente existentes no julgado impugnado. Não servem, por outro lado, como recurso de revisão, isto é, são inadmissíveis quando forem pautados exclusivamente pela pretensão de rediscutir a matéria decidida e quando ausentes os vícios que autorizam sua oposição. Precedente.
+2. É assente nesta Corte Superior o entendimento de que a "contradição que autoriza o conhecimento dos embargos declaratórios é a contradição interna ao julgado, caracterizada por proposições inconciliáveis entre si" (EDcl no AgRg no AREsp 246.939/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2015, DJe 12/08/2015). Precedente.
+3. O acórdão recorrido está amparado em fundamentação suficiente, não havendo razão para taxá-lo de obscuro.
+ ..
+(AgRg no AgRg nos EDcl no AREsp n. 1.619.066/SP, Ministro Jorge Mussi, Quinta Turma, DJe 28/05/2020)
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir a embargante de que a oposição de novos aclaratórios (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, inclusive a determinação de baixa dos autos à origem, com certificação do trânsito em julgado (EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. INEXISTÊNCIA. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
