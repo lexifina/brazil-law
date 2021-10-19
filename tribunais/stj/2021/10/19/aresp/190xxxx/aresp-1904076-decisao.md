@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento ao recurso especial, no qual se alega violação dos arts. 507 e 508 do Código Civil; 47 e 52 do Código de Defesa do Consumidor; e 1º da Lei n. 10.820/2003,além de dissídio jurisprudencial. O acórdão recorrido estáretratado naseguinte ementa(fls. 531/532):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. INSTITUIÇÃO FINANCEIRA. EMPRÉSTIMO CONSIGNADO. CONTRATAÇÃO POR CARTÃO DE CRÉDITO. UTILIZAÇÃO DO CARTÃO PARA EFETUAR INÚMEROS SAQUES. AUSÊNCIA DE ILICITUDE DA CONDUTA DO RÉU NA HIPÓTESE.
+- Cinge-se a controvérsia acerca da licitude do empréstimo consignado na modalidade de cartão de crédito, bem como, dos valores cobrados referente ao pagamento das parcelas para quitação do contrato.
+- A contratação de empréstimo consignado por cartão de crédito, a princípio, não é ilegal, desde que seja informado ao consumidor o que se está contratando.
+- O autor além do empréstimo inicial R$ 3.000,00, utilizou-se do cartão de crédito para realizar inúmeros saques, empréstimos, conforme demonstrados no index 273/274.
+- Some-se ainda, que para esquivar-se do limite da margem consignável para desconto optou por tal celebração. Isto porque, segundo o autor, o mesmo efetuou o primeiro empréstimo em 2010 e não realizou o pagamento de qualquer parcela do empréstimo até 2013, quando então, passou a ser descontado em sua folha de pagamento pelo valor mínimo.
+- Saliento, que a parte autora em sua inicial, relata que efetuou inúmeros saques, "perdendo" a conta do valor que utilizou a título de empréstimo, em razão de dificuldade financeira.
+- Com efeito, a parte ré trouxe aos autos o contrato de serviço de cartão de crédito consignado assinado pela parte autora, fls. 382/386 - termo de adesão.
+- Resta assim, comprovado nos autos, que a parte autora tinha inequívoco conhecimento de que estava contratando serviço de cartão de crédito que disponibilizaria limite de saque, o qual seria pago aomenos o valor mínimo da fatura debitado em seu benefício.
+- Em relação ao valor cobrado referente aos empréstimos, o autor não logrou demonstrar irregularidade na cobrança, eis que cabia a ele demonstrar o valor que entendia como correto ou sua irregularidade. No entanto, desistiu da prova pericial, o que o impossibilitou de demonstrar os fatos constitutivos do seu direito.
+-Manutenção da sentença.
+NEGADO PROVIMENTO AO RECURSO.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 560):
+EMBARGOS DE DECLARAÇÃO EM SEDE DE DECISÃO COLEGIADA. AUSÊNCIA DE ERRO, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO NO JULGADO. EMBARGOS DE DECLARAÇÃO QUE SE REJEITAM.
+Sustenta o agravante, em síntese, que o contrato celebrado entre as partes está em branco, bem como assevera que não constam informações mínimas necessárias ao consumidor.
+Assim posta a questão, passo a decidir.
+Inicialmente,incideoenunciadon. 282daSúmuladoSTF quanto aos arts. 507 e 508 do Código Civil, pois são estranhos aojulgadorecorrido, a eles faltando o indispensável prequestionamento, doqual não estão isentas sequer as questões de ordem pública.
+Observo, por outro lado, que o Tribunal de origem concluiu que não houve ilicitude na conduta do banco, conforme se extrai dos seguintes trechos (fls. 536/543 e 561/562):
+(..)
+Da análise do contrato, indexador 208/212, verifica-se que a autora contratou cartão de crédito, autorizando o desconto em folha de pagamento.
+O autor além do empréstimo inicial R$ 3.000,00, utilizou-se do cartão de crédito para realizar inúmeros saques, empréstimos, conforme demonstrados no index 273/274. Vejamos:
+(..)
+Nessa linha, nota-se que a parte autora, utilizou-se de vantagem oferecida pelo cartão de crédito, que é a utilização de crédito pré-aprovado para saque, empréstimo, o que demonstra que tinha conhecimento de que estava contratandoserviço de cartão de crédito.
+Some-se ainda, que para esquivar-se do limite da margem consignável para desconto optou por tal celebração. Isto porque, segundo o autor, o mesmo efetuou o primeiro empréstimo em 2010 e não realizou o pagamento de qualquer parcela do empréstimo até 2013, quando então, passou a ser descontado em sua folha de pagamento pelo valor mínimo.
+Saliento, que a parte autora em sua inicial, relata que efetuou inúmeros saques, "perdendo" a conta do valor que utilizou a título de empréstimo, em razão de dificuldade financeira.
+Com efeito, a parte ré trouxe aos autos o contrato de serviço de cartão de crédito consignado assinado pela parte autora, fls. 382/386 - termo de adesão -, o que justifica a cobrança do débito na modalidade indicada no contracheque da parte autora, bem como, diversos saques no cartão.
+Resta assim, comprovado nos autos, que a parte autora tinha inequívoco conhecimento de que estava contratando serviço de cartão de crédito que disponibilizaria limite de saque, o qual seria pago ao menos o valor mínimo da fatura debitado em seu benefício.
+Em relação ao valor cobrado referente aos empréstimos, o autor não logrou demonstrar irregularidade na cobrança, eis que cabia a ele demonstrar o valor que entendia como correto ou sua irregularidade. No entanto, desistiu da prova pericial, o que o impossibilitou de demonstrar os fatos constitutivos do seu direito.
+Por fim, ressalto que ante a ausência de margem consignável, o banco réu fica impedido de efetuar cobrança, dependendo da existência de margem para abater o crédito. No mais, diante dos muitos empréstimos realizados pelo autor a sua margem disponível se torna variável, o que dificulta a existência de valor fixo das parcelas.
+Desta forma, conclui-se, que na hipótese, não há ilicitude na conduta da parte ré, não ensejando, portanto, indenização por danos morais.
+(..)
+Alega o embargante que há omissão em razão de não ter havido manifestação quanto ao descumprimento total do que determina o art. 52 do CDC, devendo prevalecer o disposto no art. 47 do CDC, bem como que não foi levado em consideração pelo acórdão o fato de no ano de 2010 não haver nenhuma previsão em lei ou até mesmo qualquer regulamentação ou autorização do BACEN que autorizasse descontos de parcelas de empréstimos consignados em contracheques de servidores. No entanto, não assiste razão ao embargante. Isto porque, o acórdão, fundamentou pela legalidade do empréstimo consignado por cartão de crédito desde que informado ao consumidor o que se está contratando.
+No presente a parte autora contratou cartão de crédito autorizando desconto em folha de pagamento conforme constante no contrato no index 208/212. Assim tinha ciência do que estava contratando, tanto é assim, que utilizou do cartão de crédito para efetuar inúmeros saques, o que só seria possível com a modalidade cartão de crédito.
+Assim, não houve violação aos art. 52 e 47 do Código de Defesa do Consumidor como alegado.
+No que tange a alegada afirmação em embargos de que os TED"s foram produzidos unilateralmente, estando em triplicidade e não há confirmação de autenticidade, e que há contradição quando se afirma serem saques com cartão de crédito ou depósitos na conta corrente do embargante, também não merece prosperar. Isto porque, a parte autora não apresentou qualquer impugnação quando de sua apresentação, bem como, embora conste 3 vias no mesmo documento a parte ré comprova que a parte autora utilizou o crédito disponível nos valores de R$ 300,00, R$ 6.638,65, R$ 368,35, R$ 387,56, R$ 376,34 e R$ 148,12. O saque com cartão de crédito, é uma modalidade de crédito pré-aprovado em que o consumidor pode escolher sacar o valor ou depositar em sua conta corrente, no caso o autor optou por crédito em conta, não havendo qualquer impropriedade ou relevância que possa trazer modificação na apreciação do caso em apreço.
+In casu, a parte autora utilizou-se de vantagem oferecida pelo cartão de crédito, que é a utilização de crédito pré-aprovado para saque, empréstimo, o que comprova que tinha conhecimento de que estava contratando.
+Cabe a parte autora a comprovação dos fatos constitutivos de seu direito, na forma do art. 373, I do CPC, não tendo logrado demonstrar irregularidade na cobrança.
+(..)
+Anoto que rever o entendimento do Tribunal de origemdemandaria o reexame do acervo contratual e fático dos autos, o que encontraóbicenosenunciados n. 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor daparterecorrida,observados os limites estabelecidos nos §§ 2º e 3º domesmoartigo, ônussuspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
