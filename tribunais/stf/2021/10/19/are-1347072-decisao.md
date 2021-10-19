@@ -1,0 +1,33 @@
+Decisão
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (Vol. 75):
+    “ADMINISTRATIVO. REGISTRO E PORTE DE ARMA DE FOGO. RENOVAÇÃO. REQUISITOS LEGAIS. NÃO COMPROVAÇÃO.
+    A comprovação de idoneidade é requisito essencial para a obtenção de registro de arma de fogo.
+    É firme na jurisprudência o entendimento no sentido de que a expedição/renovação de certificado de registro e autorização de porte de arma de fogo estão condicionadas à comprovação de não estar o interessado respondendo a inquérito policial ou a processo criminal, e, na análise do implemento dos requisitos legais, há margem para a atuação discricionária da administração”.
+    No RE (Vol. 83), interposto com amparo no art. 102, III, “a” e “b”, da Constituição Federal, a parte recorrente sustenta que o acórdão recorrido violou o artigo 5º, LVII, da CF/1988.
+    O Tribunal de origem negou seguimento ao RE aos fundamentos de que (a) a matéria não foi prequestionada, incidindo os óbices das Súmulas 282 e 356 do STF; e (b) a ofensa constitucional, se existente, é meramente reflexa (Vol. 104).
+    No Agravo, a parte refutou os óbices apontados aduzindo que (a) cumpriu o requisito do prequestionamento; e (b) trata-se de ofensa direta à Constituição (Vol. 112).
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    No caso, ao sustentar a repercussão geral da matéria a parte recorrente aduziu o seguinte (Vol. 83, fl. 1):
+    “II.I – Da repercussão geral
+    A repercussão geral no caso dos autos é patente. O disposto no dispositivo legal impugnado tem aplicação ampla para todos os cidadãos, de modo que o resultado desse processo será estendido para todos aqueles que pretenderem possuir seus registros de armas de fogo.
+    Logo, presente está o requisito da repercussão geral.”
+    Assim, não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Quanto ao mais, o Tribunal de origem concluiu que o recorrente não preencheu os requisitos necessários para renovação de porte de arma de fogo. Vejam-se os motivos do julgado:
+    “Com efeito, é firme na jurisprudência o entendimento no sentido de que a expedição/renovação de certificado de registro e autorização de porte de arma de fogo estão condicionadas à comprovação de não estar o interessado respondendo a inquérito policial ou ação penal, e, na análise do implemento dos requisitos legais, há margem para a atuação discricionária da Polícia Federal.
+    (...)
+    No caso concreto, o autor é réu na ação penal nº 0000686- 63.2009.8.16.0031, perante a 2ª Vara Criminal da Comarca de Guarapuava/PR - por tal motivo, foi indeferido o pedido de renovação de porte de arma pelo Exército Brasileiro (evento 1, OUT3-OUT4). Correta, pois, a decisão proferida pela autoridade administrativa, pois o autor responde a ação penal perante a Justiça Estadual, não sendo necessária a existência de sentença condenatória nem de trânsito em julgado para o afastamento do requisito de idoneidade moral, como sustenta o apelante.”
+    A argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Nesse sentido, veja-se o seguinte precedente:
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Lei 10.826/2003, que dispõe sobre o registro, posse e comercialização de armas de fogo. Requisitos para posse/porte de arma de fogo não demonstrados. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negativa de provimento ao agravo regimental. Sem majoração da verba honorária.” (RE 1109834 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 9/10/2019).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 19 de outubro de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
