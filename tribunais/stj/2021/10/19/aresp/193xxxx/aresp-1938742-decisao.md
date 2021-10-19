@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porANDRE LUIZ MOREIRA AGUIAR,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, naalínea"a" do permissivo constitucional.
+Ação:de dissolução de sociedade limitada cumulada com prestação de contas e apuração de haveres, ajuizada pelo agravante, em face da agravada, na qual pleiteia seja declarada a dissolução parcial da empresa A. L. M. Aguiar & Cia Ltda., com a sua liquidação.
+Decisão interlocutória:homologou o laudo pericial apresentado pelo perito judicial, eis que, no entender do juízo de primeira instância, "tendo o laudo observado os limites objetivos do processo e utilizado metodologia adequada de cálculo,a presentando fundamentação clara e consistente, deve a conclusão nele contida prevalecer sobre as planilhas unilateralmente elaboradas por uma das partes, impondo-se a sua homologação".
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO DE DISSOLUÇÃO DE SOCIEDADE EM FASE DE CUMPRIMENTO DE SENTENÇA - DECISÃO HOMOLOGATÓRIA DE LAUDO PERICIAL -OBSERVÂNCIA ÀS DISPOSIÇÕES DA SENTENÇA - QUESTIONAMENTO DE DOCUMENTOS QUE SUBSIDIARAM O LAUDO PERICIAL - CRITÍCAS ABSTRATADAS DESAMPARADAS DE PROVAS -DECISÃO MANTIDA - RECURSO DESPROVIDO.
+1. Cuidando-se de matéria eminentemente técnica, a impugnação ao laudo pericial somente deve ser acolhida quando amparada por elementos que o subsidiem com firmeza.
+2. Se o laudo pericial apresenta cálculo elaborado em estrita observância às disposições da sentença, impõe-se a homologação dos cálculos, sobretudo quando o impugnante não aponta, tampouco comprova a existência de efetiva irregularidade nas contas elaboradas pelo perito. (e-STJ Fl. 3.390)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação doart. 489, § 1º, IV, do CPC/15. Além de negativa de prestação jurisdicional, sustenta que a Corte estadual "não se atentou ao que fora apresentado no recurso de Agravo de Instrumento, pois no r. acórdão consta que o impugnante não apontou e nem comprovou a existência de efetiva irregularidade nas contas elaboradas pelo perito, o que vai CONTRA as provas juntadas nos autos." (e-STJ Fl. 3.453)
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação doart. 489 do CPC/2015
+No ponto em que questionado pelo agravante, consta expressamente do acórdão recorrido que:
+(..)
+"Como se constata, o agravante insiste em que "os cálculos elaborados pelo Perito Judicial estão totalmente incorretos", contudo, sequer houve propriamente impugnação, tampouco arguição de "questões prejudiciais", pois, tendo pleiteado a realização de novos cálculos em conformidade com suas próprias convicções, não apontou e comprovou a existência de efetiva irregularidade nas contas elaboradas pelo perito.
+Como se não bastasse, o que o agravante pretende é questionar a legalidade/validade dos recibos, notas promissórias etc e demais documentos que ampararam o laudo pericial, pois, pede, inclusive, seja expedido ofício a Real Assessoria de Cobrança "para que informe ao r. Juízo quem retirou as duplicatas de fls. 446/447"( ), o que não se mostra cabível; de todo modo, ao designar a realização da prova pericial e nomear perito, é oportunizado as partes indicarem assistentes técnicos que poderão acompanhar a realização e análise da prova pericial, emitindo, ao final, parecer com suas considerações; no caso, detida análise ao conjunto probatório recursal não constatei que tenha o agravante nomeado assistente técnico para acompanhar a análise e realização da prova pericial contábil. Registre-se, ademais, que conforme constou de sentença proferida nos idos de 2012, "houve expressa concordância do autor (agravante), em pagar à ré (agravada) o valor de 50% da sociedade empresarial equivalente a R$ 180 mil", e que ocorreria "a divisão dos créditos e das responsabilidades pelo pagamento dos débitos"(cf. fls. 05 Id. nº 61610495).
+A simples repetição de críticas ao laudo pericial sem comprovação de erro metodológico ou qualquer outra erronia, não pode ensejar a retificação da conta, pois, o labor pericial se apresenta tecnicamente acertado e condizente com diretrizes traçadas pela sentença e decisões pretéritas.
+Por se tratar de matéria eminentemente técnica, a impugnação ao laudo pericial somente deve ser acolhida quando amparada por elementos que o subsidiem, o que não ocorreu caso, de forma alguma, porquanto, a prova pericial produzida e homologada foi realizada sob o crivo do contraditório e da ampla defesa, ademais, foi elaborada por perito competente, tendo respondido aos quesitos formulados, inclusive o d. perito prestou esclarecimentos complementares, não havendo provas de existência de quaisquer erro na elaboração do cálculo." (e-STJ Fl. 3.394)
+(..)
+Assim, devidamente analisadas e discutidas as questões de mérito, notadamente em relação à regularidade dos cálculos apresentados pelo perito judicial, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação doart. 489 do CPC/2015.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à regularidade dos cálculos apresentados pelo perito judicial, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DISSOLUÇÃO DE SOCIEDADE LIMITADA CUMULADA COM PRESTAÇÃO DE CONTAS E APURAÇÃO DE HAVERES.VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Açãode dissolução de sociedade limitada cumulada com prestação de contas e apuração de haveres.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação doart. 489 do CPC/15.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
