@@ -1,0 +1,22 @@
+Visto.
+Trata-se de Agravo de Instrumento, com pedido de efeito suspensivo, interposto pelo MINISTÉRIO PÚBLICO ESTADUAL em favor da menor ANNA CLARA CARRIJO SILVA SANTOS representada por sua genitora DANIELLI FRANCELINA RAMOS CARRIJO contra decisão proferida pelo Juízo da Vara Especializada da Infância e Juventude da Comarca de Cuiabá/MT, que nos autos da Ação Civil Pública para cumprimento de Obrigação de Dar/Fazer c/c Pedido de Liminar no 1002460-92.2021.8.11.0011 movida em desfavor do ESTADO DE MATO GROSSO e do MUNICÍPIO DE MIRASSOL D’OESTE-MT, que indeferiu a antecipação dos efeitos da tutela que visava o fornecimento do tratamento por meio do protocolo therasuit e demais tratamentos que se fizerem necessário, à menor com 04 (quatro) anos de idade, que possui diagnóstico de Transtorno Cognitivo SOE (F06.7), dependência de cadeira de rodas (Z99.3), infecção congênita do vírus Zika (P35.9), outras malformações congênitas especificadas do encefálo (Q04.8), epilepsia (G40.9), MICROCEFALIA (Q02) e paralisia cerebral tetraplégica espástica ( G80.0).
+Irresignado com a decisão proferida, sustenta o agravante que a saúde da Agravante está em risco, gerando a necessidade de obtenção de tutela jurisdicional urgente para garantir atendimento adequado em seu favor.
+Aduz os documentos médicos colacionados aos autos são suficientes para demonstrarem a necessidade de ser garantido para a paciente criança o tratamento por meio do protocolo Therasuit e o acesso aos demais tratamentos que se fizerem necessário, visando garantir seu desenvolvimento motor, mediante prescrição médica, restando demonstrado o preenchimento de todos os requisitos necessários para a antecipação total da tutela pleiteada.
+Com base nestes fundamentos, pugna pela concessão do efeito suspensivo.
+Prequestiona a matéria, para pronunciamento de forma objetiva, explícita e fundamentada sobre o assunto, quando do julgamento do presente recurso
+Ao final, requer que seja o presente recurso PROVIDO, para, confirmar a liminar a ser deferida, e, dando-lhe caráter definitivo, reformar parcialmente a decisão combatida, decidindo-se em definitivo que a Agravante receba além do tratamento por meio do protocolo Therasuit, s Requeridos forneçam para a Agravante os demais tratamentos/procedimentos/avaliações/exames, cirurgias e medicamentos que se fizerem necessários ao desenvolvimento motor da agravante .
+É o relatório.
+Decido.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de concessão do efeito suspensivo ao agravo de instrumento não merece acolhimento, face a ausência dos pressupostos autorizadores para o seu deferimento.
+In casu, verifica-se que há indícios suficientes nos autos, de que a agravante necessita do tratamento indicado para acompanhamento da doença que a acomete, conforme prescrição médica.
+Importa frisar que cabe ao médico, que é o profissional competente, prescrever o melhor tratamento para o restabelecimento da saúde do paciente.
+Assim, não pode o Poder Judiciário negar a prestação jurisdicional aos necessitados quando se evidencia a morosidade da “máquina estatal”, mormente quando o caso concreto apresenta risco iminente à saúde e à vida humana.
+Somado a isso, é cediço que a proteção da saúde e o dever de assistência médica por parte do Estado é uma atividade indispensável. Tanto é assim que a Constituição Federal resguarda em seu artigo 198 e seguintes como será prestado esse Direito Social, após dispor em seu art. 196 que “a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação”.
+Além disso, a tutela desse direito indisponível também é amparada pela Lei 8.080/90, a qual descreve os princípios do sistema de saúde nacional, reconhecendo que “a saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício” (art. 2o).
+Feitas estas considerações, verifico que se encontra demonstrada a necessidade do tratamento e o risco ao próprio direito à vida, à dignidade e à saúde da agravante.
+Ante o exposto,DEFIRO o pedido de concessão do efeito suspensivo.
+Comunique-se o juízo de primeiro grau.
+Intime-se para apresentar contrarrazões.
+Após, colha-se o parecer da Procuradoria Geral de Justiça.
+Des. Mario Roberto Kono de Oliveira
+Relator
