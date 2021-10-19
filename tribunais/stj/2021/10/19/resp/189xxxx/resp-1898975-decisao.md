@@ -1,0 +1,53 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por AMANDA LORCA CORREIA DOS SANTOS contra o acórdão do Egrégio Tribunal de Justiça do Estado de São Paulo, cuja ementa está assim redigida:
+PLANO DE SAÚDE Beneficiário que sofreu queda de 6 metros de altura, apresentando fratura lombar Laudo médico que atesta necessidade de procedimento cirúrgico urgente, sob risco de perda do movimento dos membros inferiores - Requerimento médico para custeio de artrodese da coluna, com os materiais indispensáveis ao procedimento Sentença de procedência - Apelante que alega que o médico que tratou do apelado não era conveniado, razão pela qual ela não poderia ter sido condenada a custear o tratamento Emenda à inicial, que havia excluído dos pedidos iniciais, o custeio das despesas com o médico escolhido pelo autor - Inexistência de condenação da ré ao pagamento dos honorários do médico escolhido - Dano moral não caracterizado Mero inadimplemento contratual - Liminar que assegurou a internação e a cobertura dos procedimentos necessários ao paciente Ausência de violação a direito da personalidade Litigância de má-fé não configurada Ausência de comprovação inequívoca da presença do elemento subjetivo Recurso parcialmente provido.
+Em suas razões recursais, além de dissídio jurisprudencial, arecorrente alega a afronta aos artigos186, 187 e 927 do Código Civil. Sustenta, em suma, que a recursa injustificada de cobertura do procedimento médico,sobretudo, em razão do grave estado em que se encontrava,enseja a reparação por danos morais.
+Contrarrazões ao recurso especial às fls. 396/403, e-STJ.
+O recurso foi admitido na origem.
+É o relatório.
+Passo a decidir.
+A pretensão recursal merece provimento.
+Esta Corte Superior perfilha o entendimento de que a recusapela operadora do plano de saúde, em autorizar a coberturafinanceira de tratamento médico emergencial ou de urgência, a que esteja legal ou contratualmenteobrigada, enseja a reparação por danos morais,não havendo falar em mero aborrecimento por inadimplemento contratual.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.NEGATIVA DE COBERTURA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. INTERNAÇÃO MÉDICA EM CARÁTER DE URGÊNCIA. DANOS MORAIS. OCORRÊNCIA. PRECEDENTES. 3. REVISÃO DO QUANTUM INDENIZATÓRIO. REVISÃO. SÚMULA 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. Não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação quando a decisão recorrida estiver adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto.
+2. O entendimento firmado no STJ é no sentido de que há caracterização do dano moral quando a operadora do plano de saúde se recusa à cobertura do tratamento médico emergencial ou de urgência, como no caso dos autos, não havendo que se falar em mero aborrecimento por inadimplemento contratual. Súmula n. 83 do STJ.
+3. A revisão do quantum arbitrado para a indenização por danos morais encontra óbice na Súmula 7/STJ, somente sendo possível superar tal impedimento nos casos de valor irrisório ou exorbitante.
+4. Agravo interno improvido.(AgInt no AREsp 1864447/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO.NEGATIVA DE COBERTURA SECURITÁRIA. CUMPRIMENTO DE CARÊNCIA.URGÊNCIA RECONHECIDA. RECUSA INJUSTIFICADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. SÚMULA N. 597 DO STJ. DANO MORAL. CARACTERIZAÇÃO. SÚMULA N. 83 DO STJ. TERMO INICIAL DOS JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O Tribunal de origem afirmou que a parte agravada suportava gravidez de alto risco e necessitava realizar cirurgia cesariana, em situação de emergência. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. "A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação" (Súmula n.597 do STJ).
+4. "A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis" (AgInt no REsp n.1.838.679/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/3/2020, DJe 25/3/2020). Aplicação da Súmula n. 83 do STJ.
+5. A jurisprudência do STJ é firme no sentido de que, tratando-se de danos morais decorrentes de responsabilidade contratual, os juros moratórios incidem a partir da citação. Precedentes.
+6. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.(AgInt no AREsp 1865767/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. CONTRATO DE PLANO DE SAÚDE. OPERADORA CONSTITUI DA NA MODALIDADE DE AUTOGESTA O. ROL DE PROCEDIMENTOS E EVENTOS EM SAU DE DA ANS. NATUREZA EXEMPLIFICATIVA. MEDICAMENTO PRESCRITO PARA TRATAMENTO DE MELANOMA MALÍGNO COM METÁSTASE CEREBRAL. RECUSA INDEVIDA DE CUSTEIO. DANO MORAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. CARACTERIZAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. REDUÇÃO DO VALOR DA CONDENAÇÃO.IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Ação de obrigação de fazer.
+2.  ..
+5. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente, principalmente nas situações de urgência e emergência. Precedentes.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. A modificação do valor fixado a título de compensação do dano moral somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo, tendo em vista os julgados desta Corte em hipóteses assemelhadas.
+8. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pela parte recorrente impede o conhecimento do recurso especial.
+9. Agravo interno não provido.(AgInt no REsp 1887318/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/05/2021, DJe 20/05/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA PROVER O APELO NOBRE DA PARTE ADVERSA.INSURGÊNCIA DO DEMANDADO.
+1. A recusa indevida de cobertura, pela operadora de plano de saúde, nos casos de urgência ou emergência, enseja reparação a título de dano moral, em razão do agravamento ou aflição psicológica ao beneficiário, ante a situação vulnerável em que se encontra.Precedentes.
+2. Nos termos da jurisprudência desta Corte, respondem solidariamente a operadora de plano de saúde e o hospital conveniado, pela reparação dos prejuízos sofridos pela beneficiária do plano, decorrente da má prestação dos serviços, ressalvando-se o direito de regresso, a ser objeto de demanda própria. Precedentes.
+3. Agravo regimental desprovido.(AgRg no AREsp 553.461/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021)
+O acórdão afastou o direito à indenização porque entendeu presente,apenas, mero aborrecimento por parte do paciente em ver denegado o seupleito.
+Esta a linha de raciocínio desenvolvida:
+A necessidade do procedimento cirúrgico para tratamento do autor foi atestada pelo relatório médico de fls. 44 que menciona especificamente a urgência do procedimento, ante o risco de perda irreparável do movimento dos membros inferiores.
+..
+A indenização por dano moral, respeitada a convicção do MM juiz prolator da sentença, não pode ser acolhida, uma vez que houve mero inadimplemento contratual, sem que houvesse violação a direito da personalidade. Foi deferida a liminar, que assegurou a realização da internação e todos os procedimento necessários ao autor, não havendo nenhuma comprovação que o estado dele tenha se agravado.(e-STJ fls. 324/6, passim)
+Verifica-se nessa fundamentação que o procedimento foi realizado por força de liminar, ou seja, o agravamento do quadro da paciente, que corria risco de paraplegia (conforme a sentença), somente não ocorreu por intervenção do judiciário, fato que não aproveita à operadora, que recusou cobertura.
+A recusa de cobertura, nessacircunstância de risco de paraplegia, é fato apto a causar dano moral, independente do efetivo implemento do risco.
+De escassa razoabilidade a justificativa consistente na ocorrência de mero inadimplemento contratual, especialmente em caso de procedimento qualificado como urgente pelo médico assistente, com o risco da paciente ficar paraplégica de maneira irreversível.
+Verificado o vilipêndio a direito da personalidade, consistente na sujeição do paciente a uma situação de risco à incolumidade física,a conclusão não pode ser outra senão pela existência de dano moral.
+Destarte, o recurso especial merece ser provido.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para condenar a recorrida aopagamento de compensação por danos morais, restabelecendo a sentença,inclusive no tocante à distribuição dos ônus sucumbenciais.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. URGÊNCIA. DANO MORAL. CONFIGURAÇÃO.
+1.Esta Corte Superior perfilha o entendimento de que a recusa pela operadora do plano de saúdeem autorizar a cobertura financeira de tratamento médico emergencial ou de urgência, a que esteja legal ou contratualmente obrigada, enseja a reparação por danos morais, não havendo falar em mero aborrecimento por inadimplemento contratual.
+2. A recusa indevida pela operadora do plano de saúde em autorizar a coberturade procedimento qualificado como urgente pelo médico assistente, com o risco da paciente ficar paraplégica de maneira irreversível, gera dano moral.
+3.RECURSO ESPECIAL PROVIDO.
