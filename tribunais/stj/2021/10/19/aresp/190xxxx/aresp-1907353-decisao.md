@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CABELOLISO.COM LTDA. e FRANCISCO RENILDO FERREIRA DOS SANTOS, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 03/08/2020.
+Concluso ao gabinete em: 07/10/2021.
+Ação: obrigação de fazer cumulada com reparação de danos, ajuizada por JOSÉLIA MARQUES COTRIM DE SOUSA, em face de CABELOLISO.COM LTDA. e FRANCISCO RENILDO FERREIRA DOS SANTOS.
+Sentença: julgou improcedentes os pedidos deduzidos na ação principal e parcialmente procedente na ação reconvencional, para condenar a recorrida ao pagamento de indenização contratual no valor de R$ 15.000,00, a partir da notificação extrajudicial (13/12/2016). Ainda, condenou a recorrida ao pagamento das custas e dos honorários, estes fixados em 10% sobre o valor atualizado da causa, ressalvada a concessão do benefício da justiça gratuita. Por fim, considerando que os recorrentes sucumbiram em maior parte na reconvenção, devem arcar com 80% das custas, enquanto a recorrida com 20%. No ponto, fixou os honorários advocatícios em 10% sobre a condenação e sobre o valor atualizado da reconvenção, devidos aos doutos patronos dos recorrentes e da recorrida, respectivamente, vedada a compensação e ressalvada a concessão do benefício da justiça gratuita.
+Acórdão: negou provimento à Apelação interposta pela recorrida e deu parcial provimento à Apelação interposta pelos recorrentes, nos termos da seguinte ementa:
+"Contrato de habilitação técnica e concessão de uso e divulgação da marca CABELOLISO.COM, de titularidade dos réus - Rescisão contratual - Legitimidade ativa de JOSELIA MARQUES, que foi quem celebrou o contrato - Rescisão por culpa da cessionária (autora), que se valeu da marca cedida pelo réu para divulgar técnica própria - Recursos desprovidos neste tópico.
+Recurso adesivo - Contrato de habilitação técnica e concessão de uso e divulgação da marca CABELOLISO.COM - Indenização - Lucros cessantes - Os danos de ordem material devem ser cabalmente demonstrados - Não restou comprovado que os réus tenham deixado de auferir lucros em razão da conduta praticada pela autora, seja em razão do vídeo publicado por ela em redes sociais, seja em razão de qualquer outro comportamento - Artigos 402 e 403, Código Civil - Recurso adesivo dos réus desprovido neste tópico.
+Recurso adesivo - Contrato de habilitação técnica e concessão de uso e divulgação da marca CABELOLISO.COM - Condenação da autora ao pagamento de multas contratuais - Multa prevista por inadimplemento contratual nos Contratos nº 172 e nº 173, além da previsão de multa de R$ 5.000,00 em ambos os contratos em caso de não devolução pela cessionária (autora) dos equipamentos dados em consignação após a rescisão do contrato - Recurso adesivo dos réus provido neste tópico.
+Contrato de habilitação técnica e concessão de uso e divulgação da marca CABELOLISO.COM - Indenização por dano moral - Inocorrência de danos morais - Caso em que não se há falar em reparação por danos morais, vez que houve desavença entre as partes, com troca mútua de ofensas - Diante do acervo probatório, nota-se que as condutas dos réus e autora não foram capazes de gerar situações vexatórias, de humilhação ou qualquer outro transtorno ou desgaste emocional passíveis de ensejar o direito à indenização a qualquer das partes - Recursos desprovidos neste tópico.
+Obrigação de não fazer - Obrigação de ambas as partes de cessar as ofensas por qualquer meio - Conforme decidido em Agravo de Instrumento, a liberdade de expressão e comunicação encontra seu limite na fronteira do abuso - RECURSO DOS RÉUS PROVIDO NESTE TÓPICO." (e-STJ fl. 592/593)
+Recurso especial: alegam violação dos arts. 85, § 2º, I, III, IV, 86, CPC/15. Sustentam que a recorrida não é merecedora do benefício da justiça gratuita, bem como que, no tocante à sucumbência, houve ofensa ao disposto na lei processual civil.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à concessão da gratuidade da justiça, os recorrentes não alegam violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da sucumbência mínima ou recíproca (Súmula 7/STJ)
+A jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatória, incidindo a Súmula 7/STJ.
+Nesse sentido: AgInt nos EDcl no REsp 1.882.165/SP, 4ª Turma, DJe 03/03/2021; AgInt no AREsp 1.708.537/SP, 3ª Turma, DJe 12/02/2021; AgInt no AREsp 1.560.925/RJ, 4ª Turma, DJe 02/02/2021; AgInt nos EDcl no AREsp 1.676.383/SP, 3ª Turma, DJe 29/10/2020; AgInt no AREsp 1.173.934/SP, 3ª Turma, DJe 21/09/2018; EDcl no AgRg no AREsp 151.072/SP, 4ª Turma, DJe 11/09/2018.
+Forte nessas razões, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Mantenho a verba sucumbencial como fixada pela Corte local.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO DE DANOS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REDISTRIBUIÇÃO DA SUCUMBÊNCIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de obrigação de fazer cumulada com reparação de danos.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatória, incidindo a Súmula 7/STJ. Precedentes.
+4. Recurso especial não conhecido.
