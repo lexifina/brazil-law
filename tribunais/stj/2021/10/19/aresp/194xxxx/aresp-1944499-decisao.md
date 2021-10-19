@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado por Egrecon S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, ae c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 414):
+Exceção de Pré-Executividade - Nulidade da execução - Execução Fiscal manejada anteriormente à suspensão de exigibilidade do débito, razão pela qual, a execução deve permanecer suspensa, e não ser extinta - Pedido das partes - Sentença de extinção reformada - Recurso provido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC(fls. 426/428).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022, I, do CPC; 151, III, do CTN;783 do CPC; e 3º da LEF. Sustenta que:(I)"não obstante a força dos seus argumentos, os Embargos de Declaração da Recorrente não foram acolhidos. Na prática, esta rejeição implica na manutenção da omissão que havia - e que ainda há - no Acórdão embargado" (fl. 437); e(II)"o débito ora executado carece de liquidez e, sobretudo, certeza, já que há uma real possibilidade de que ele seja revisto ou até mesmo cancelado pelo Tribunal Administrativo, o que, por consequência, o torna, ao menos neste momento, inexigível" (fl. 438).
+Contrarrazões às fls. 482/508.
+Contraminuta ao agravo às fls. 531/535.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aoart. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Na hipótese dos autos, o Tribunala quoassim se pronunciou acerca da suspensão da execução fiscal ante a discussão administrativa do débito (fls. 416/417):
+Ora, o procedimento administrativo que gerou o AIIM está em discussão na seara administrativa, porém, somente foi concedida a liminar em mandado de segurança nº 1003573-56.2015.8.26.0405 após a inscrição na dívida ativa e o ajuizamento da presente execução fiscal (liminar esta cassada por sentença denegatória, que foi mantida por esta Corte).
+Enquanto pende o recurso administrativo, a execução deveria permanecer suspensa e não ser extinta, como observado pela Fazenda do Estado.
+Assim, a execução deve ser sobrestada até o encerramento definitivo do processo administrativo em curso no Tribunal de Impostos e Taxas conforme pedido da Fazendaem suas razões de apelação, e da própria Executada às fls. 281.
+Por ocasião do julgamento dos aclaratórios, esse entendimento restou assim complementado (fls. 427/428):
+Desse modo, iniciada a execução fiscal, o título era certo, líquido e exigível. A discussão administrativa teveinício após o ajuizamento da execução fiscal, não se verificando ofensa aos artigos 783 do CPC ou ao artigo 3º da LEF.
+Entendimento contrário bastaria para que, iniciada qualquer execução fiscal, o contribuinte poderia anular o processo executivo com simples ingresso na seara administrativa para discutir o mesmo débito, o que não se pode admitir.
+Ademais, o próprio Embargante requereu alternativamente o sobrestamento da execução até o encerramento definitivo do processo administrativo ainda em curso no Tribunal de Impostos e Taxas (fl. 281).
+Como se vê, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, o de que a suspensão do feito executivo tratou de pedido alternativo da própria recorrente,esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
