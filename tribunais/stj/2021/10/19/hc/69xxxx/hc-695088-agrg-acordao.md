@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+MINISTÉRIO PÚBLICO FEDERALinterpõe agravo regimental contra decisão de minha relatoria, em que concedi em parte a ordem, a fim de fixar o regime inicial semiaberto de cumprimento de pena.
+O parquet afirma que "as circunstâncias em que foi cometido o crime de tráfico ilícito de entorpecentes indicam não ser socialmente recomendável a fixação de regime mais brando para o paciente" (fl. 318).
+Assegura que "o fato de ter sido apreendida expressiva quantidade e variedade de drogas (165 porções de crack e 3 porções de maconha) demonstra a maior gravidade e reprovabilidade da conduta, o que, a meu ver, impede a fixação do regime semiaberto, nos termos dos arts. 33, §3º, do Código Penal, e art. 42 da Lei nº 11.343/2006" (fl. 318).
+Pleiteia a reconsideração da decisão anteriormente proferida. Subsidiariamente, pugna pelo encaminhamento deste recurso para julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME SEMIABERTO. PACIENTE PRIMÁRIO, PENA-BASE FIXADA NO MÍNIMO LEGAL E QUANTIDADE NÃO EXPRESSIVA DE DROGAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. ACorte estadual considerou devida a fixação do modo inicialmente mais gravoso com base na quantidade de droga apreendida. Embora haja sido mencionado fundamento concreto e idôneo, o regime inicial fechado se mostra excessivamente gravoso no caso. Isso porque o paciente era tecnicamente primário ao tempo do delito, foi condenado a reprimenda de 5 anos de reclusão, teve a pena-base fixada no mínimo legal e não foi apreendido com quantidade tão expressiva de drogas.
+2. Àluz das particularidades do caso concreto,o regime inicial semiaberto é, efetivamente, o que se mostra o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 3º, do Código Penal e do disposto no art. 42 da Lei n. 11.343/2006.
+3. Agravo regimental não provido.
+VOTO
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Em relação ao modo de cumprimento da reprimenda, faço lembrar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJ 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n.11.343/2006.
+No caso, a Corte estadual manteve a imposição do regime inicial fechado, conforme trechos abaixo (fls. 280-281, grifei):
+Deve ser mantido o regime inicial fechado, quer pela hediondez do delito, quer pela quantidade de drogas apreendidas (mais de 150 porções de crack, além de maconha).
+No caso, conforme visto, a Corte estadual considerou devida a fixação do modo inicialmente mais gravoso com base na quantidade de droga apreendida.
+Contudo, embora haja sido mencionado fundamento concreto e idôneo, entendo que o regime inicial fechado se mostra excessivamente gravoso no caso.Isso porque o paciente era tecnicamente primário ao tempo do delito, foi condenado a reprimenda de 5 anos de reclusão, teve a pena-base fixada no mínimo legal e não foi apreendido com quantidade tão expressiva de drogas (12,6 g de crack e 2,6 g de maconha).
+Portanto, à luz das particularidades do caso concreto, conforme consignado no decisum agravado, entendo que o regime inicial semiaberto é, efetivamente, o que se mostra o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 3º, do Código Penal e do disposto no art. 42 da Lei n. 11.343/2006.
+À vista do exposto, nego provimento ao agravo regimental.
