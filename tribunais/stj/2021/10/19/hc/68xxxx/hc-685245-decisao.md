@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Lucas Barbosa de Oliveira, em que se aponta como autoridade coatora a Sexta Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenadopelo Juízo de Direito da 14ª Vara Criminal da comarca da Capital/SPà pena de 7 anos, 9 meses e 15 dias de reclusão, em regime fechado, e 19 dias-multa, por ter sido incurso no art.157, § 2º, I, II e V, do Código Penal.
+Em sede de apelação (Processo n. 0116528.3/3-0000-000), a defesa apontou ausência de provas para a condenação. A Sexta Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso (fls. 21/28).
+No presente writ, a defesa aponta excesso na dosimetriae alega que não houve idônea fundamentaçãopara a elevação na terceira fase (fls. 3/20).
+Decisão deste Relatorindeferindo a liminar (fls. 43/44).
+Parecer ministerialopinando pela denegação do writ (fls. 47/50).
+É o relatório.
+Ao fixar a pena-base, o Magistrado deixou expresso que, apesar de possuir bons antecedentes,após a prática do crime que gerou este processo, o paciente praticou diversos outros crimes de roubo e que apenas parou quando foi efetuada a sua prisão. Em razão desses fundamentos, entendeu por valorar negativas as vetoriais da conduta social e da personalidade.No entanto, a conduta social e a personalidade não podem ser tidas como prejudiciais ao paciente, em face da prática de delitos, ações penais em andamento ou inquéritos policiais e condenações definitivas. De fato,ajurisprudência da Quinta Turma do Superior Tribunal de Justiça firmou-se no sentido de que a existência de condenação definitiva não constitui fundamento idôneo para a valoração negativa da personalidade do réu e de sua conduta social(AgRg no REsp n. 1.861.088/RS,Ministro Ribeiro Dantas, Quinta Turma, DJe 11/6/2021).
+Assim,a pena-base, para o paciente, deverá ser fixada no piso mínimo de 4 anos de reclusão. Na segunda fase, a pena se manteve no mesmo patamar. Já na terceira fase, o Magistrado aumentou a pena na fração de 5/12, pela existência de três qualificadoras. Não há ilegalidade na sentença, uma vez que,além do concurso de agentes e da utilização de arma de fogo, a instância ordinária considerou que os agentes mantiveram a vítima em seu poder, restringindo sua liberdade de locomoção, extrapolando a grave ameaça do próprio rouboe que a vítima permaneceu em poder dos acusados por tempo bem superior àgrave ameaça do crime contra o patrimônio(fl. 37). Entendo que não há ilegalidade na terceira fase, de modo que aqui se mostra desnecessária a intervenção desta Corte Superior.
+Procedendo-se ao novo cálculo da pena, essa se torna definitiva em 5 anos e 8 meses de reclusão,e 14 dias-multa. Pela existência de três qualificadoras e do porte de arma de fogo, não se mostra ilegal a exasperação do regime de cumprimento da pena para o fechado, tal como decidido pela instância ordinária.
+Ante o exposto, concedo parcialmentea ordem a fim de redimensionar a pena do paciente para5 anos e 8 meses de reclusão, em regime fechado, e 14 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PENA-BASE. REDIMENSIONAMENTO PARA O PISO MÍNIMO. MAJORAÇÃO NA TERCEIRA FASE. IDÔNEA FUNDAMENTAÇÃO.PRESENÇA DE 3 QUALIFICADORAS, ENTRE ELAS, A DE RESTRIÇÃO DA LIBERDADE DA VÍTIMA POR UM LONGO TEMPO. REGIME FECHADO DEVIDAMENTE JUSTIFICADO.
+Ordem parcialmente concedida nos termos do dispositivo.
