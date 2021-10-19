@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE (SUPER CHEQUE). SALDO DEVEDOR APURADO EM 14/12/1994. PRAZO PRESCRICIONAL QUINQUENAL (ART. 206, § 5º, INCISO I, C/C ART. 2.028 DO CC). EXTINÇÃO ANTE A OCORRÊNCIA DA PRESCRIÇÃO INTERCORRENTE NA VIGÊNCIA DO CPC/1973. PARALISAÇÃO DO PROCESSO POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DA PRETENSÃO DE DIREITO MATERIAL. OCORRÊNCIA. TERMO INICIAL APÓS O PRAZO DE SUSPENSÃO OU, NÃO HAVENDO PRAZO, APÓS 1 ANO DO ARQUIVAMENTO. CONTRADITÓRIO E AMPLA DEFESA ATENDIDOS. MANIFESTAÇÃO PRÉVIA DA PARTE QUANTO À EVENTUAL FATO IMPEDITIVO DO RECONHECIMENTO DA PRESCRIÇÃO À SENTENÇA DE EXTINÇÃO. TESE FIRMADA PELO STJ NO TEMA 1 DO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA (RESP 1.604.412/SC). PRECEDENTE DE OBSERVÂNCIA OBRIGATÓRIA. INAPLICABILIDADE DA REGRA DETRANSIÇÃO PREVISTA NO ARTIGO 1.056 DO CPC/2015 E DA SÚMULA 240 DO STJ. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Alegou-se, no especial, violação do artigo 85 do Código de Processo Civil, associada a dissídio jurisprudencial.
+Assim delimitada a controvérsia, passo a decidir.
+A Presidência do Tribunal local não admitiu o recurso especial, por intempestividade (e-STJ, fls. 602/604), porquanto a parte, intimada no dia 29 de dezembro de 2020, somente interpôs o recurso especial no dia 11 de fevereiro de 2021, não tendo comprovado a ausência de expediente entre os dias 20 de dezembro de 2020 e 20 de janeiro de 2021.
+Em que pese o entendimento da Presidência do Tribunal local estar equivocado, haja vista que o recesso forense supramencionado decorre de expressa disposição do Código de Processo Civil, a teor de seu artigo 220,esta Corte tem entendimento de que, intimada a parte durante o recesso forense, o prazo tem curso no primeira dia útil após o dia 20 de janeiro, que, no caso, foi o dia 21 de janeiro de 2021, uma quinta-feira, de modo que, excluindo-se os finais de semana, o termo final para a interposição do recurso especial ocorreu no dia 10 de fevereiro de 2021.
+Para melhor exame:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DA CONTESTAÇÃO.RECESSO FORENSE. ART. 220 DO CPC/2015. SUSPENSÃO DE PRAZO. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos dos precedentes desta Corte, ocorrendo a intimação da decisão judicial durante o recesso forense compreendido entre os dias 20 de dezembro e 20 de janeiro, o prazo recursal tem início no primeiro dia útil após 20 de janeiro.
+2. No caso, o prazo de quinze dias iniciou-se em 21.1.2019, o termo final é 8.2.2019, sendo, portanto, intempestiva a contestação apresentada em 11.2.2019.
+3. Agravo interno não provido.
+(AgInt no REsp 1939427/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/9/2021, DJe 27/9/2021)
+O recurso especial foi, todavia, interposto no dia 11 de fevereiro de 2021, o que o torna irremediavelmente intempestivo.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
