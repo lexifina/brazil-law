@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelaAgência Nacional de Vigilância Sanitária- Anvisa, com amparo naalínea "a"do inciso III do art. 105 da CF/88, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ, fl. 156):
+ADMINISTRATIVO E PROCESSUAL CIVIL. TAXA DE FISCALIZAÇÃO DE VIGILÂNCIA SANITÁRIA. PODER DE POLÍCIA. EXIGIBILIDADE DA AUTORIZAÇÃO DE FUNCIONAMENTO (AFE) ÀS AGÊNCIAS DE NAVEGAÇÃO. RESOLUÇÃO DA ANVISA. AUSÊNCIA DE PREVISÃO LEGAL. POSSIBILIDADE APENAS APÓS A VIGÊNCIA DA LEI Nº 13.043/2014.
+1. Apelação interposta pela ANVISA em face de sentença que julgou procedente o pedido inicial, para declarar a inexistência de relação jurídica entre a empresa autora e a agência que justifique a cobrança de Autorização de Funcionamento da Empresa - AFE, somente no período anterior à vigência da Lei nº 13.043/2014, bem como determinar a restituição dos valores pagos a tal título, observando-se a prescrição quinquenal.
+2. É incontroverso nos autos que a empresa autora atua como agência de navegação, cujas atividades englobam a administração ou representação de negócios em nome do representante legal ou responsável direto por embarcação, tomando as providências necessárias ao seu despacho em portos organizados e terminais aquaviários instalados no território nacional. Nesta condição, foi autuada pela ANVISA em razão da constatação de que operava navios mesmo com AFE com validade expirada, o que teria infringido o art. 108 da Resolução da Diretoria Colegiada RDC nº 217/2001 e art. 2º, I, da Resolução da Diretoria Colegiada RDC nº 345/2002, conduta tipificada no art. 10, XXIII, da Lei Federal 6.437/77.
+3. Em se tratando de taxa (tributo) em decorrência da exigibilidade da obtenção de AFE, somente a lei poderia fixar qual o fato gerador da obrigação tributária (in casu, atividades que exerciam o poder de polícia), o que não pode ser feito mediante resoluções da ANVISA.
+4. Até o advento da Lei nº 13.043/2014, as atividades exercidas pela parte autora não se enquadravam em nenhuma das hipóteses previstas no art. 7º, VII, da Lei nº 9.782/99. Para as agências de navegação, a exigência do adimplemento da taxa de AFE somente se legitimou a partir das alterações promovidas pelo novo regramento, o qual, dando nova redação ao Anexo II da Lei nº 9.782/99, previu expressamente essa exigibilidade (item 5.1.14).
+5. A título de honorários recursais, majora-se a condenação da ANVISA em honorários advocatícios de R$ 3.000,00 para R$ 3.500,00 (art. 85, § 11, do CPC).
+6. Apelação improvida.
+Os embargos de declaração opostosforam rejeitados.
+Em suas razões, a parte recorrente aponta violação do "disposto no art. 8º da Lei n. 9.872/1999, que antes da Lei n. 13.0438/2014 já previa a cobrança da AFE dos agentes marítimos" (e-STJ, fls. 192-193).
+Assevera, ainda (e-STJ, fl. 194):
+Logo, há expressa previsão legal para a exigência de autorização de funcionamento de empresa em relação às atividades de agência marítima desenvolvidas pela ora recorrida, não havendo que se falar em ilegalidade da RDC nº 345/2002, mesmo antes da vigência da Lei n. 13.043/2014.
+Deveras, nada há de ilegal na atuação da ANVISA ao exigir de agência de navegação a apresentação da autorização de funcionamento de empresa (AFE). A Lei nº 9.782/99 (artigos 7º, VII e 8º, §§ 4º e 8º) é clara ao atribuir à ANVISA o controle e a fiscalização sanitária de produtos e serviços relacionados com as atividades de portos, aeroportos e fronteiras e nas estações aduaneiras e terminais alfandegários, serviços de transportes aquáticos, terrestres e aéreos. O anexo II da Lei nº 9.782/99, alterada pela MP nº 2.190-34/2001, refere-se expressamente às agências de navegação.
+Enfim, ao julgar que a cobrança da AFE antes da Lei nº 13.043/2014 não possuía base legal o acórdão recorrido negou vigência ao disposto no art. 8º da Lei nº 9.782/99.
+Contrarrazões recursais apresentadas.
+Admitido o recurso especial na origem, subiram os autos a esta Corte.
+É o relatório.
+Em relação à matéria de fundo, verifico que há entendimento consolidado no sentido da possibilidade de a Anvisa exigir a taxa de autorização de funcionamento de empresa - AFE das agências de navegação, com esteio no item 5.1.14 do Anexo II da Lei n. 9.782/1999, tendo em consideração ser viável tal exigência desde a edição da Medida Provisória n. 2.190-34/2001.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PODER DE POLÍCIA. AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA. TAXA. AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA - AFE. AGÊNCIA DE NAVEGAÇÃO. POSSIBILIDADE. MP Nº 2.190-34/2001. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1.Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A jurisprudência do Superior Tribunal de Justiça pacificou o entendimento no sentido de que é possível a ANVISA exigir das agências de navegação a taxa de autorização de funcionamento de empresa - AFE, com fundamento na previsão contida no item 5.1.14 do Anexo II da Lei n.º 9.782/1999, por tal exigência ser permitida por lei desde a edição da MP nº 2.190-34/2001.
+3. Não é cabível o debate de direito constitucional em recurso especial, ainda que para fins de prequestionamento de futuro recurso extraordinário, sob pena de usurpação de competência do STF.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.635.495/PE, relator MinistroMauro Campbell Marques, Segunda Turma, DJe de 19/11/2018).
+PROCESSO CIVIL. ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 2/STJ. RECURSO ESPECIAL. PODER DE POLÍCIA. AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA. TAXA. AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA - AFE. AGÊNCIA DE NAVEGAÇÃO. PREVISÃO LEGISLATIVA.
+ ..
+2. O art. 23, § 1º, da Lei n.º 9.782/1999 confere à ANVISA a competência para a cobrança da Taxa de Fiscalização de Vigilância Sanitária, conforme as hipóteses previstas no Anexo II.
+3. A hipótese de cobrança da taxa de autorização de funcionamento de empresa das agências de navegação foi introduzida com a edição da Medida Provisória n.º 2.190-34, de 23 de agosto de 2001.
+4. Embora a Lei n.º 13.043/2014 tenha promovido modificações no Anexo II da Lei nº 9.782/1999, a redação do item 5.1.14 manteve-se inalterada.
+5. Assim, sendo incontroverso a possibilidade da ANVISA exigir das agências de navegação a taxa de autorização de funcionamento de empresa, com fundamento na previsão contida no item 5.1.14 do Anexo II da Lei n.º 9.782/1999, e não havendo alteração na descrição da atividade sujeita à fiscalização, tal exigência é por lei permitida desde a edição da medida provisória que a criou.
+6. Recurso especial provido.
+(REsp n. 1.659.348/CE, relator MinistroMauro Campbell Marques, Segunda Turma, DJe de 12/6/2017).
+O aresto combatido, por seu turno, ao reconhecer que, "para as agências de navegação, a exigência do adimplemento da taxa de AFE somente se legitimou a partir das alterações promovidas pelo novo regramento  Lei n. 13.043/2014 , o qual, dando nova redação ao Anexo II da Lei n. 9.782/99, previu expressamente essa exigibilidade (item 5.1.14)(e-STJ, fls. 154-155)", distanciou-se da orientação jurisprudencial desta Corte Superior, motivo pelo qual merece reforma.
+Ante o exposto, com fulcro no art. 932, V, do CPC, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especialpara julgar improcedenteopedidode devolução dos valores recolhidos a título detaxa de autorização de funcionamento de empresa, com fundamentono item 5.1.14 do Anexo II da Lei n. 9.782/1999.
+Ficam invertidos os ônus sucumbenciais.
+Publique-se. Intimem-se.
