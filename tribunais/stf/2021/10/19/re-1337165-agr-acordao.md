@@ -1,0 +1,713 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+19/10/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.337.165 SANTA CATARINA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: OI S.A. - EM RECUPERACAO JUDICIAL
+: FERNANDO CEZAR VERNALHA GUIMARAES
+: LUIZ FERNANDO CASAGRANDE PEREIRA
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: AGENCIA NACIONAL DE TELECOMUNICACOES
+: PROCURADOR-GERAL FEDERAL
+
+Ementa : AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO.
+VIOLAÇÃO
+AO
+DEVIDO
+PROCESSO
+LEGAL.
+OFENSA
+CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO DE PROVAS.
+INADMISSIBILIDADE. SÚMULA 279 DO STF.
+1. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR
+MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito
+adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da
+legalidade, do contraditório, da ampla defesa e do devido processo legal,
+quando se mostrar imprescindível o exame de normas de natureza
+infraconstitucional.
+2. A argumentação recursal traz versão dos fatos diversa da exposta
+no acórdão, de modo que o acolhimento do recurso passa
+necessariamente pela revisão das provas. Incide, portanto, o óbice da
+Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso
+extraordinário.
+3. Agravo interno a que se nega provimento. Na forma do art. 1.021,
+§§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação
+unânime, fica condenado o agravante a pagar ao agravado multa de um
+por cento do valor atualizado da causa, cujo depósito prévio passa a ser
+condição para a interposição de qualquer outro recurso (à exceção da
+Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o
+pagamento ao final).
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7CB2-4B64-DCAA-9A8E e senha A660-FE19-8587-5867
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+RE 1337165 AGR / SC
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, os Ministros do Supremo
+Tribunal Federal, em Sessão Virtual da Primeira Turma, sob a Presidência
+do Senhor Ministro DIAS TOFFOLI, em conformidade com a certidão de
+julgamento, por unanimidade, acordam em negar provimento ao agravo
+interno e, na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil
+de 2015, condenar a parte agravante a pagar à parte agravada multa de
+um por cento do valor atualizado da causa, cujo depósito prévio passa a
+ser condição para a interposição de qualquer outro recurso (à exceção da
+Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o
+pagamento ao final), nos termos do voto do Relator.
+Brasília, 19 de outubro de 2021.
+Ministro ALEXANDRE DE MORAES
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7CB2-4B64-DCAA-9A8E e senha A660-FE19-8587-5867
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+19/10/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.337.165 SANTA CATARINA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: OI S.A. - EM RECUPERACAO JUDICIAL
+: FERNANDO CEZAR VERNALHA GUIMARAES
+: LUIZ FERNANDO CASAGRANDE PEREIRA
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: AGENCIA NACIONAL DE TELECOMUNICACOES
+: PROCURADOR-GERAL FEDERAL
+RE LAT Ó RI O
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Interno contra decisão que negou seguimento ao
+Recurso Extraordinário sob os argumentos de que (a) incide no caso o
+Tema 660 da repercussão geral; e (b) aplica-se ao debate o teor da Súmula
+279 do SUPREMO TRIBUNAL FEDERAL.
+Sustenta a parte agravante, em suma, que (a) é inaplicável ao caso o
+Tema 660; (b) mostra-se desnecessário o exame de fatos e provas
+constantes dos autos, não incidindo o óbice da Súmula 279/STF; (c) não
+subsiste o fundamento utilizado pelo TRF da 4ª Região, considerando que
+o Decreto empregado foi revogado; e (d) ocorreu invasão do Poder
+Judiciário na competência da Anatel, em ofensa ao art. 2º, 21, XI, e 175 da
+Constituição Federal.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 357B-D330-CA28-F27F e senha 281E-02EC-B528-8F77
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+19/10/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.337.165 SANTA CATARINA
+VOTO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Eis a decisão ora agravada:
+“Decisão
+Trata-se de Recurso Extraordinário interposto pela OI S.A
+(Brasil Telecom) em face de acórdão proferido pelo Tribunal
+Regional Federal da 4ª Região, assim ementado (Vol. 200):
+“ADMINISTRATIVO. APELAÇÃO. AÇÃO CIVIL
+PÚBLICA. CUMPRIMENTO DAS OBRIGAÇÕES DE
+UNIVERSALIZAÇÃO DO SERVIÇO DE TELEFONIA
+FIXA (LEI N. 9.472/97 C/C DECRETO N. 4.769/03) DISPONIBILIZAÇÃO DO SERVIÇO NA QUANTIDADE
+NECESSÁRIA
+DOS
+PONTOS
+DE
+VISTA
+FÁTICO/JURÍDICO NOS MUNICÍPIOS DE ILHOTA,
+POMERODE E GASPAR NO ESTADO DE SANTA
+CATARINA
+FIXAÇÃO
+DE
+PARÂMETROS
+REGULATÓRIOS COMPATÍVEIS COM A LEI N. 9.472/97
+QUANTO À UNIVERSALIZAÇÃO DO SERVIÇO DE
+TELEFONIA FIXA COMUTADA - FISCALIZAÇÃO
+ADEQUADA À EMPRESA CONCESSIONÁRIA DO
+SERVIÇO. PRETENSÃO DEDUZIDA PARCIALMENTE
+PREJUDICADA - IMPROCEDÊNCIA DO PEDIDO
+REMANESCENTE. MODIFICAÇÃO EM PARTE DO
+JULGADO.
+DANOS
+MORAIS
+COLETIVOS.
+ANTECIPAÇÃO DE TUTELA DEFERIDA EM RELAÇÃO
+ÀS OBRIGAÇÕES DE FAZER DITADAS À BRASIL
+TELECOM. DIVULGAÇÃO DO JULGADO. CUSTAS EX
+LEGE. PREQUESTIONAMENTO”.
+Opostos Embargos de Declaração pela OI S/A. (Vol. 207),
+foram rejeitados (Vol. 219).
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+RE 1337165 AGR / SC
+
+Opostos Embargos Infringentes por ambas as partes (Vol.
+226 e Vol. 233), não foram conhecidos os opostos pela OI/SA e
+desprovidos os opostos pela ANATEL. Eis a ementa do julgado
+(Vol. 259):
+“AÇÃO
+CIVIL
+PÚBLICA.
+EMBARGOS
+INFRINGENTES.
+NÃO
+CONHECIMENTO
+DO
+RECURSO. INSTALAÇÃO DE SERVIÇO PÚBLICO DE
+TELEFONIA.
+FISCALIZAÇÃO
+DA
+ANATEL.
+INTERVENÇÃO
+DO
+PODER
+JUDICIÁRIO.
+POSSIBILIDADE.
+1. Não se conhece dos embargos infringentes que
+buscam solução não abordada no voto cuja prevalência é
+pretendida.
+2. O direito ao acesso à telefonia é proveniente dos
+direitos de segunda geração, sendo correlacionado aos
+direitos do consumidor (arts. 5, inc. XXXII, e 170, inc. V da
+CRFB) e do acesso à informação.
+3. Incumbe ao Poder Público, na forma da lei,
+diretamente ou sob regime de concessão ou permissão,
+sempre através de licitação, a prestação de serviços
+públicos (art. 175, caput, da CRFB), incluídos os de
+telefonia pública que são de competência da União
+Federal (art. 21, inc. XI, da CRFB).
+4. No caso da telefonia, com a Lei 9.472/97, passou a
+ANATEL a exercer a função de fiscalização dos serviços de
+telecomunicação, controlando o amplo mercado de
+concessionárias de serviço público, presentes no Brasil, e
+averiguando se as normas legais e regulamentares estão
+sendo cumpridas (art. 1, caput e §ú, da Lei 9.472/97).
+5. Ao Poder Judiciário não é lícito afastar lesão ou
+ameaça a direito, nos termos do art. 5, inc. XXXV, de modo
+que, por mais que a fiscalização do regime das concessões
+de telefonia seja do âmbito da administração pública,
+como é proveniente de lei e da própria constituição
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+RE 1337165 AGR / SC
+federal, estando amplamente regulamentado, é lícito ao
+Judiciário intervir na análise do cumprimento desses
+diplomas normativos”.
+Opostos Embargos de Declaração pela ANATEL (Vol. 268),
+foram parcialmente acolhidos exclusivamente para fins de
+prequestionamento (Vol. 274).
+No RE (Vol. 328, fl. 13), interposto com amparo no art. 102,
+III, “a”, da Constituição Federal, Oi S.A. aponta violação a
+dispositivos constitucionais, argumentando, em suma, que (Vol.
+328, fl. 21):
+“(i) há nulidade de todos os atos desde o julgamento
+dos embargos infringentes (inclusive), por ausência de
+intimação da O I, em ofensa ao art. 5º, LV, da CF/88;
+(ii) o Acórdão recorrido, ao reputar ilícita a adoção
+do critério do IBGE pela ANATEL acerca do conceito de
+domicílios adjacentes para determinação de localidade
+para fins do PGMU, ofendeu o princípio da separação dos
+poderes (art. 2º, da CF/88), invadindo a esfera de
+competência do Poder Executivo (art. 21, XI, e 175, da
+CF/88), notadamente, porque: (a) o art. 4º, XIV, do atual
+PGMU (Anexo I do Decreto nº 7.512/11) remete o conceito
+de localidade à regulamentação do Plano, a qual compete
+à ANATEL (art. 32, parágrafo único, do atual PGMU); e (b)
+Acórdão recorrido incluiu áreas que estariam situadas
+dentro de uma classe específica (por ex., rural) dentro de
+outra classe (localidade), desconsiderando os critérios,
+tarifas, condições técnicas e as metas distintas entre as
+áreas e, com isto, majora os custos da concessionária e
+desequilibra não só a relação econômica-financeira do
+contrato de concessão, como também a competitividade e
+a viabilidade financeira da prestação do serviço público”.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+RE 1337165 AGR / SC
+É o relatório. Decido.
+Quanto à apontada violação ao art. 5º, LV, da Constituição,
+a parte recorrente defende a nulidade de todos os atos
+processuais a partir do julgamento dos Embargos Infringentes,
+“por ausência de intimação da parte interessada” (Vol. 328, fl.
+25).
+Quanto à alegação de afronta ao artigo 5º, LV, o apelo
+extraordinário não tem chances de êxito, pois esta CORTE, no
+julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR
+MENDES, Tema 660), rejeitou a repercussão geral da alegada
+violação ao direito adquirido, ao ato jurídico perfeito, à coisa
+julgada ou aos princípios da legalidade, do contraditório, da
+ampla defesa e do devido processo legal, quando se mostrar
+imprescindível o exame de normas de natureza
+infraconstitucional.
+Nesse sentido:
+“AGRAVO
+REGIMENTAL.
+COMPETÊNCIA.
+CÂMARAS DO TRIBUNAL DE JUSTIÇA DO ESTADO
+DE SÃO PAULO. ART. 123 DO CPC, RESOLUÇÃO
+194/2004 E RITJSP. AUSÊNCIA DE INTIMAÇÃO DA
+PARTE ORA AGRAVANTE. ALEGAÇÃO DE OFENSA
+AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO.
+CONTROVÉRSIA
+INFRACONSTITUCIONAL.
+REEXAME
+DE
+LEGISLAÇÃO
+INFRACONSTITUCIONAL. OFENSA REFLEXA OU
+INDIRETA À CONSTITUIÇÃO. Para se chegar a
+conclusão diversa daquela a que chegou o Tribunal de
+origem, seria necessário o reexame da legislação
+infraconstitucional pertinente, o que é vedado em recurso
+extraordinário. Agravo regimental a que se nega
+provimento.” (AI 837.350-AgR, Rel. Min. JOAQUIM
+BARBOSA, Segunda Turma, DJe de 14/8/2021)
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+RE 1337165 AGR / SC
+
+Quanto ao mais, o Tribunal de origem solucionou a
+controvérsia nos seguintes termos (Vol. 200, fl. 1):
+“A demanda hostiliza a forma com que concretizada
+a determinação ínsita na Lei Geral de Telecomunicações
+(Lei n. 9.472/97) no tocante à 'universalização do serviço
+telefônico fixo comutado prestado no regime público' nos
+Municípios de Ilhota, Pomerode e Gaspar, todos do Estado
+de Santa Catarina.
+[...]
+A legislação de regência, notadamente a Lei n.
+9.472/97 - que dispõe sobre a organização dos serviços de
+telecomunicações, a criação e funcionamento de um órgão
+regulador e outros aspectos institucionais, nos termos da
+Emenda Constitucional n° 8, de 1995 -, ao que interessa à
+lide, literaliza –
+Art. 60. Serviço de telecomunicações é o
+conjunto de atividades que possibilita a oferta de
+telecomunicação.
+§1° Telecomunicação é a transmissão, emissão
+ou recepção, por fio, radioeletricidade, meios ópticos
+ou qualquer outro processo eletromagnético, de
+símbolos, caracteres, sinais, escritos, imagens, sons
+ou informações de qualquer natureza.
+§2° Estação de telecomunicações é o conjunto
+de equipamentos ou aparelhos, dispositivos e demais
+meios necessários à realização de telecomunicação,
+seus acessórios e periféricos, e, quando for o caso, as
+instalações que os abrigam e complementam,
+inclusive terminais portáteis.
+(...)
+Art. 62. Quanto à abrangência dos interesses a
+que atendem, os serviços de telecomunicações
+classificam-se em serviços de interesse coletivo e
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+RE 1337165 AGR / SC
+serviços de interesse restrito.
+Parágrafo único. Os serviços de interesse
+restrito estarão sujeitos aos condicionamentos
+necessários para que sua exploração não prejudique
+o interesse coletivo.
+Art. 63. Quanto ao regime jurídico de sua
+prestação, os serviços de telecomunicações
+classificam-se em públicos e privados. Parágrafo
+único. Serviço de telecomunicações em regime
+público é o prestado mediante concessão ou
+permissão, com atribuição a sua prestadora de
+obrigações de universalização e de continuidade.
+Art. 64. Comportarão prestação no regime
+público
+as
+modalidades
+de
+serviço
+de
+telecomunicações de interesse coletivo, cuja
+existência, universalização e continuidade a própria
+União comprometa-se a assegurar. Parágrafo único.
+Incluem-se neste caso as diversas modalidades do
+serviço telefônico fixo comutado, de qualquer
+âmbito, destinado ao uso do público em geral.
+(...)
+Art. 79. A Agência regulará as obrigações de
+universalização e de continuidade atribuídas às
+prestadoras de serviço no regime público.
+§1° Obrigações de universalização são as que
+objetivam possibilitar o acesso de qualquer pessoa ou
+instituição de interesse público a serviço de
+telecomunicações, independentemente de sua
+localização e condição sócio-econômica, bem como as
+destinadas
+a
+permitir
+a
+utilização
+das
+telecomunicações em serviços essenciais de interesse
+público.
+§2° Obrigações de continuidade são as que
+objetivam possibilitar aos usuários dos serviços sua
+fruição de forma ininterrupta, sem paralisações
+injustificadas, devendo os serviços estar à disposição
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+RE 1337165 AGR / SC
+dos usuários, em condições adequadas de uso.
+Art. 80. As obrigações de universalizarão serão
+objeto de metas periódicas, conforme plano
+específico elaborado pela Agência e aprovado pelo
+Poder Executivo, que deverá referir-se, entre outros
+aspectos, à disponibilidade de instalações de uso
+coletivo ou individual, ao atendimento de deficientes
+fisicos, de instituições de caráter público ou social,
+bem como de áreas rurais ou de urbanização precária
+e de regiões remotas.
+§1° O plano detalhará as fontes de
+financiamento das obrigações de universalização,
+que serão neutras em relação à competição, no
+mercado nacional, entre prestadoras.
+§2° Os recursos do fundo de universalização de
+que trata o inciso II do art. 81 não poderão ser
+destinados
+à
+cobertura
+de
+custos
+com
+universalização dos serviços que, nos termos do
+contrato de concessão, a própria prestadora deva
+suportar.
+(…)
+Art. 83. A exploração do serviço no regime
+público dependerá de prévia outorga, pela Agência,
+mediante concessão, implicando esta o direito de uso
+das
+radiofreqüências
+necessárias,
+conforme
+regulamentação.
+Parágrafo único. Concessão de serviço de
+telecomunicações é a delegação de sua prestação,
+mediante contrato, por prazo determinado, no
+regime público, sujeitando-se a concessionária aos
+riscos empresariais, remunerando-se pela cobrança
+de tarifas dos usuários ou por outras receitas
+alternativas e respondendo diretamente pelas suas
+obrigações e pelos prejuízos que causar.
+(…)
+Art. 96. A concessionária deverá:
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+RE 1337165 AGR / SC
+(…)
+V - submeter-se à regulamentação do serviço e
+à sua fiscalização.
+(...)
+À concretização da disciplina do artigo 80, caput, da
+Lei n. 9.472/97, a universalização do serviço telefônico fixo
+comutado prestado no regime público restou disciplinada
+pelo Decreto n. 2.592/1998; depois, pelo Decreto n.
+4.769/2003, com redação alterada pelo Decreto n.
+6.424/2008; e, por último, pelo Decreto n. 7.512/2011.
+Presente a data dos fatos imputados às rés, analiso
+tão só a disciplina dos Decretos 4.769/2003 e 7312/2011.
+Ao que interessa à lide, reza o Decreto n. 4.769/2003 […]
+Ao que interessa à lide, reza o Decreto n. 7.512/2011 [...]
+Em relação à definição adotada pela ANATEL à
+'localidade' e à 'adjacência', a douta Terceira Turma desta
+Corte, quando do julgamento da AC n. 500142592.2010.404.7205/SC em data de 25 de julho de 2012 versando descumprimento do Plano de Metas para
+Universalização do Serviço Telefônico Comutado Prestado
+no Regime Público - PGMU (Decreto n. 2.592/98) -, afastou
+o parâmetro de 50m de distância máxima entre domicílios
+para que sejam considerados de uma mesma 'localidade'.
+[...]
+Assim, presente a orientação adotada pela douta
+Terceira Turma desta Corte em equação símile em cotejo
+com os elementos cognitivos que compõem o caderno
+processual, notadamente o Relatório 0203/2011/U0031 da
+ANATEL de 02/06/2011 produzido no bojo do inquérito
+civil que acompanha a petição inicial - elementos esses
+colhidos em sede de procedimento administrativo que
+goza da presunção de legitimidade e de veracidade e que
+não restou infirmado pela parte ex adversa -, resta
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+RE 1337165 AGR / SC
+demonstrada a irregularidade da conduta perpetrada
+pelas rés. Vale gizar
+- 1) a ANATEL ao 'tomar o conceito de 'localidade'
+emprestado do IBGE, cujos trabalhos têm finalidades
+diversas daquelas que ensejam aplicação ao cômputo do
+retorno e do equilíbrio financeiros de quem se obrigou a
+expandir
+serviço
+público,
+adotando-o
+pura
+e
+simplesmente, sem qualquer fator de depuração,
+incidente, por exemplo, no cálculo da tarifação' e 'permite
+à concessionária Brasil Telecom S.A. deixar de fornecer
+telefones fixos nas localidades onde não há, em casas
+'adjacentes', mais de 300 habitantes no caso de telefones
+fixos individuais (residenciais e comerciais), e mais de 100
+habitantes no caso dos telefones fixos de uso coletivo
+('orelhões')'.
+Também, a adoção pela ANATEL do 'marco espacial
+máximo de 50 metros entre as casas, para contagem de
+habitantes para tornar obrigatória a expansão e o
+fornecimento de telefones fixos comutados' afigura-se
+ilegal porquanto sequer o próprio IBGE utiliza tal medida
+como referência às suas atividades.
+2) a BRASIL TELECOM S.A 'vem descumprindo em
+diversos lugares o Plano de Metas de Universalização
+mesmo com base no número de habitantes residindo casas
+distanciadas em distanciamento máximo de 50 metros
+entre as casas'.”
+Por sua vez, no julgamento dos Embargos Infringentes, o
+Tribunal de origem não conheceu o recurso da OI pelos
+seguintes fundamentos (Vol. 253, fl. 2):
+“A OI/SA opõe estes embargos infringentes
+postulando a prevalência do voto vencido no acórdão da
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+RE 1337165 AGR / SC
+3a Turma do TRF4 que, por maioria de votos, deu
+provimento à apelação do MPF e reformou a sentença
+originária.
+Conforme o artigo 530 do Código de Processo Civil,
+'cabem embargos infringentes quando o acórdão não
+unânime houver reformado, em grau de apelação, a
+sentença de mérito, ou houver julgado procedente ação
+rescisória. Se o desacordo for parcial, os embargos serão
+restritos à matéria objeto da divergência'.
+É esta a situação dos autos.
+Contudo, o recurso interposto não é cabível.
+A divergência dos autos se restringe a possibilidade,
+ou não, de se analisar a questão posta pela Ação Civil
+Pública, na medida em a sentença julgou improcedente a
+ação, por ausência de provas.
+O acórdão reformou a sentença para julgar
+procedente a ação. O voto divergente confirma na
+sentença, a qual entende não haver provas comprobatórias
+do descumprimento de qualquer norma, assim não
+poderia a OI pretender atacar o voto vencedor para
+discutir a aplicabilidade deste ou daquele decreto, já que
+isso não foi objeto do voto vencido. As razões trazidas nos
+embargos infringentes da OI são no sentido de que o
+critério legal utilizado pelo acórdão encontra-se
+ultrapassado e, portanto, não seria aplicável na espécie, de
+modo que, pelo critério atual, a OI teria cumprido suas
+obrigações. Contudo, o voto vencido não tratou disso.
+Assim, não conheço dos embargos infringentes, por
+desbordar os limites da divergência”.
+A argumentação recursal traz versão dos fatos diversa da
+exposta no acórdão, de modo que o acolhimento do recurso
+passa necessariamente pela revisão das provas. Incide,
+portanto, o óbice da Súmula 279 desta CORTE: Para simples
+reexame de prova não cabe recurso extraordinário.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+RE 1337165 AGR / SC
+Diante do exposto, com base no art. 21, § 1º, do Regimento
+Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO
+AO RECURSO EXTRAORDINÁRIO DA OI S.A
+(Brasil
+Telecom).
+Não se aplica o art. 85, § 11, do Código de Processo Civil
+de 2015, tendo em vista que não houve fixação de honorários
+advocatícios nas instâncias de origem.
+Ficam AMBAS AS PARTES advertidas de que:
+- a interposição de recursos manifestamente inadmissíveis
+ou improcedentes, ou meramente protelatórios, acarretará a
+imposição das sanções cabíveis;
+- decorridos 15 (quinze) dias úteis da intimação de cada
+parte sem a apresentação de recursos, será certificado o trânsito
+em julgado e dada baixa dos autos ao Juízo de origem.
+Publique-se.”
+
+Não há reparo a fazer no entendimento aplicado, pois o Agravo
+Interno não apresentou qualquer argumento apto a desconstituir os
+óbices apontados.
+A rigor, a presente impugnação mostra-se manifestamente
+improcedente: sua fundamentação limita-se ao mínimo para se credenciar
+ao conhecimento e não revela qualquer esforço real e efetivo em reverter
+o ato atacado.
+Diante do exposto, nego provimento ao Agravo Interno. Na forma
+do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de
+votação unânime, condeno o agravante a pagar ao agravado multa de um
+por cento do valor atualizado da causa, cujo depósito prévio passa a ser
+condição para a interposição de qualquer outro recurso (à exceção da
+Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o
+pagamento ao final).
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+RE 1337165 AGR / SC
+
+É o voto.
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2BE5-B1A8-A711-1896 e senha A4FB-7013-6AA4-3DC2
+
+Supremo Tribunal Federal
+Extrato de Ata - 19/10/2021
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.337.165
+PROCED. : SANTA CATARINA
+RELATOR : MIN. ALEXANDRE DE MORAES
+AGTE.(S) : OI S.A. - EM RECUPERACAO JUDICIAL
+ADV.(A/S) : FERNANDO CEZAR VERNALHA GUIMARAES (A1652/AM, 20738/PR,
+233281/RJ, 43381/SC, 388423/SP)
+ADV.(A/S) : LUIZ FERNANDO CASAGRANDE PEREIRA (65034/BA, 27375/GO,
+22076/PR, 233282/RJ, 43617/SC, 388261/SP)
+AGDO.(A/S) : MINISTÉRIO PÚBLICO FEDERAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DA REPÚBLICA
+INTDO.(A/S) : AGENCIA NACIONAL DE TELECOMUNICACOES
+PROC.(A/S)(ES) : PROCURADOR-GERAL FEDERAL (00000/DF)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+interno e, na forma do art. 1.021, §§ 4º e 5º, do Código de
+Processo Civil de 2015, condenou a parte agravante a pagar à parte
+agravada multa de um por cento do valor atualizado da causa, cujo
+depósito prévio passa a ser condição para a interposição de
+qualquer outro recurso (à exceção da Fazenda Pública e do
+beneficiário de gratuidade da justiça, que farão o pagamento ao
+final), nos termos do voto do Relator. Primeira Turma, Sessão
+Virtual de 8.10.2021 a 18.10.2021.
+Composição: Ministros Dias Toffoli (Presidente), Cármen Lúcia,
+Rosa Weber, Luís Roberto Barroso e Alexandre de Moraes.
+Convocado o Ministro Gilmar Mendes, para apresentar voto em
+processo suspenso, em razão de empate verificado.
+
+Luiz Gustavo Silva Almeida
+Secretário da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2F87-8045-C14D-BA97 e senha 4736-F933-061E-9FC7
