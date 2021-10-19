@@ -1,0 +1,14 @@
+DECISÃO
+ADEMAR FIRMINO DOS SANTOS alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O impetrante se insurge contra a submissão do apenado aexame criminológico, para fins de exame do pedido de progressão de regime, uma vez que não existe justificativa idônea para tanto.
+Requer a concessão da ordem, para que seja afastada a exigência.
+Decido.
+O habeas corpus comporta solução por decisão monocrática, pois, nos termos da jurisprudência deste Superior Tribunal, consolidada na Súmula n. 439: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+É necessário que o julgador indique sinais desabonadores relacionados ao período da execução, que expliquemnecessidade do estudo de periculosidade para melhor análise do mérito do preso, uma vez que aspectos do crime (gravidade, longa pena a cumprir) já foram sopesados na fase do conhecimento para a condenação e a fixação da pena.
+Opaciente, reincidente, cumpre 79anos, 5 meses e 26 dias de reclusão. O Juiz da VEC, assim deliberou(fl. 121):
+ ..  por considerar que os crimes atribuídos ao sentenciado são de maior gravidade (roubos majorados, uso de documento falso e falsificação de documento público), bem como a quantidade de pena imposta, determino a realização da avaliação preconizada pela Resolução SAP 88, de 28-4-2010,a fim de que o pedido de progressão ao regime semiaberto possa ser analisado de forma mais criteriosa.
+O exame criminológico foi determinado sem motivação idônea e a decisão do Juiz da VEC foi mantida pelo Tribunal de Justiça. Não houve a indicação de faltas disciplinares mais ou menos recentes ou de outro dado concreto relacionado ao histórico carcerário. Assim, não está justificada a dúvida quanto ao requisito subjetivo do art. 112 da LEP.
+É de rigor a concessão da ordem, porquanto, a teor da jurisprudência desta Corte: "a gravidade abstrata, a longa pena a cumprir e a reincidência não constituem fundamentos idôneos a justificar a necessidade de realização de exame criminológico. Precedentes" (AgRg no HC 665.874/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/6/2021).
+Ilustrativamente: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula n. 439 do STJ). A teor da jurisprudência pacífica desta Corte, a longa pena a cumprir e a gravidade do crime praticado pelo sentenciado, por si sós, não justificam a determinação da prova, pois são fatores não relacionados ao período de resgate da pena" (AgRg no HC 656.265/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 2/6/2021).
+À vista do exposto, concedo ohabeas corpus,para determinar que o Juízo das Execuções Penais analiseo pedido de progressão de regime do paciente, independentemente da realização deexame criminológico, com lastro em dados relacionados ao período de cumprimento de suas penas.
+Publique-se e intimem-se.
