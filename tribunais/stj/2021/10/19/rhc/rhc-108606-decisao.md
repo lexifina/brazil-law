@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto porJEAN CARLOS DOS SANTOS desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ(HC n. 0052120-72.2018.8.16.0000) assim ementado:
+HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS, CONSUMADO E TENTADO, EM COAUTORIA (ARTIGOS 121, § 2.º, INCISOS I E IV,ART. 121, § 2.º, INCISOS I E IV, C. C ART. 14, INC. II E ART. 70, 2ª PARTE, TODOS DO CP). NULIDADE DESDE A REALIZAÇÃO DE DUAS AUDIÊNCIAS DE OITIVA DE TESTEMUNHAS POR AUSÊNCIA DE DEFESA TÉCNICA. INOCORRÊNCIA. RÉU DECLARADO REVEL, COM SUSPENSÃO DO PROCESSO E DO CURSO DO PRAZO PRESCRICIONAL. DEPOIMENTOS COLHIDOS EM SEDE DE PRODUÇÃO ANTECIPADA DE PROVAS. POSTERIOR PRISÃO DO ACUSADO, QUE CONSTITUIU ADVOGADO E EXERCEU PLENAMENTE SUA DEFESA. AUSÊNCIA DE EFETIVO PREJUÍZO. EXCESSO DE PRAZO, DE CONSEQUÊNCIA, NÃO CONSTATADO. ORDEM DENEGADA.
+Daí o presente recurso ordinário, no qual sustenta a defesa, em síntese, "anulidade absoluta do processo por ter sido determinada a antecipação de provas em desfavor do ora paciente e, consequentemente, realizadas das audiências de instrução e julgamento sem a presença do defensor técnico do réu, conforme demonstram os movimentos 204.1 e 265.1. Aponta, ainda, a ocorrência de constrangimento ilegal face ao excesso de prazo na formação da culpa" (e-STJ fl. 242).
+O Ministério Público Federal manifestou-se pelo não conhecimento oudesprovimento do recurso.
+É o relatório.
+Depreende-se dos autos que o presente recurso impugna o acórdão proferido pelo Tribunal de Justiça da do Estado do Paranáque denegou a ordem no Habeas Corpus n.0052120-72.2018.8.16.0000.Ocorre que a causa de pedir e o pedido deste reclamo são idênticos aos do HC n. 488.129/PR, de minha relatoria, que teve a ordem parcialmente concedida no dia 26/3/2019.
+Ante o exposto, diante da constatação de que o presente recurso é mera reiteração do HC n. 488.129/PR, dele não conheço.
+Publique-se. Intimem-se.
