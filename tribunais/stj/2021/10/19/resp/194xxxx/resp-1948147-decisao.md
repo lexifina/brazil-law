@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e"c", da Constituição Federal, contra acórdão proferido pelo TJMG, assim ementado (fl. 424):
+EMENTA: APELAÇÃO CÍVEL. PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL -INAPLICABILIDADE, AO CASO, DO ART. 26 DA LEF -CONSEQÜENTE CABIMENTO DA VERBA HONORÁRIA.-Segundo o STJ, a extinção da execução fiscal, após a citação do devedor, possibilita a sucumbência processual, afastando-se a incidência do artigo 26 da Lei n. 6830/80 para que a Fazenda Nacional seja condenada ao pagamento de custas e de honorários advocatícios.
+Embargos de declaração rejeitados às fls. 446-451.
+O recorrente alega, além de divergência jurisprudencial, violação dos artigos 2º e 1.013 do CPC/15, argumentando à fl. 465, quenão eram objeto de apreciação e julgamento pelo tribunal os honorários advocatícios, visto que não estavam previstos em decisão de 1º grau e nem sequer foram objeto de impugnação pela parte contrária. Fixa-los em segundo grau de jurisdição contraria o princípio do dispositivo (art. 2º do CPC) e seu corolário da proibição do reformatio in pejus, além deviolar o efeito devolutivo próprio dos recursos de apelação (art. 1.013 do CPC),motivo por que os acórdãos estão a merecer decreto de reforma, de modo a excluir, de seu teor, a condenação do Estado de Minas Gerais ao pagamento de honorários de sucumbência.
+Aduz ainda que houve invocação do próprio art. 85 do CPC, com consideração de que o princípio da sucumbência deveria ser aplicado, quando o STJ considera que, nestas hipóteses, deveria ser aplicado o da causalidade (art. 85, § 10 do CPC).
+Comcontrarrazões.
+Juízo positivo de admissibilidade às fls. 491-493.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito aos artigos 2º e 1.013 do CPC/15, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+No caso dos autos, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aoartigo85, § 10 do CPC/15, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF.DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
