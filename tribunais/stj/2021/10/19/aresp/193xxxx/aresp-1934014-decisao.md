@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Rosilene Martinez contra decisão proferida pelo Presidente do TRF-3ª Região quenegou seguimento ao seu recurso especial ante o óbice da Súmula 7/STJ.
+Em suas razões de agravo em recurso especial, sustenta a agravante não sero caso de reexame de provas, mas de qualificação jurídica dos fatosrelevantes para reconhecimento de um benefício.
+O prazo para apresentação de contraminuta ao agravo decorreu in albis.
+O recurso especial que se pretende o seguimento, impugna acórdão assimementado:
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. DEFICIÊNCIA. HIPOSSUFICIÊNCIAECONÔMICA. REQUISITOS NÃO PREENCHIDOS.
+1. O benefício assistencial de prestação continuada ou amparo social encontra assento no art.203, V, da Constituição Federal, tendo por objetivo primordial a garantia de renda à pessoa deficiente e ao idoso com idade igual ou superior a 65 (sessenta e cinco anos) em estado de carência dos recursos indispensáveis à satisfação de suas necessidades elementares, bem assim de condições de tê-las providas pela família.
+2. Segundo a Lei 13.146/2015 (Estatuto da Pessoa com Deficiência) "para efeito de concessão do benefício de prestação continuada, considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade. De acordo com a referida lei, entende-se porem igualdade de condições com as demais pessoas "longo prazo o impedimento cujos efeitos perduram pelo prazo mínimo de 02 (dois) anos.
+3. Consoante perícia médica produzida é possível concluir que o estado clínico da parte autora não sugere a existência de qualquer impedimento de longo prazo, o qual, em interação com uma ou mais barreiras, poderia obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas, não devendo, portanto, ser considerada pessoa com deficiência para os efeitos legais.
+4. Apelação desprovida.
+Em suas razões de recurso especial, sustenta a recorrente, ora agravante,que o Tribunal a quo negou vigência ao artigo 20, §§ 1º e 2º, da Lei 8.742/1993,pois preencheu todos os requisitos legais para a concessão do benefícioassistencial, notadamente a incapacidade de longo prazo para a vida independente. Ressalta que a sua incapacidade, apesar de ser parcial, impede a sua participação plena e efetiva na sociedade.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu inalbis.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai aincidência do Enunciado Administrativo 3/STJ: aos recursos interpostos comfundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 demarço de 2016) serão exigidos os requisitos de admissibilidade recursal naforma do novo CPC.
+A agravante impugnou a fundamentação contida na decisão agravada emostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+A controvérsia recursal gira em torno do preenchimento dos requisitos paraa concessão do benefício assistencial.
+O benefício de prestação continuada é uma garantia constitucional, decaráter assistencial, previsto no artigo 203, V, da Constituição Federal,regulamentado pelo artigo 20 da Lei 8.742/1993 e também pela Lei10.741/2003, o Estatuto do Idoso.
+Consiste no pagamento de um salário mínimo mensal às pessoas comdeficiência ou idosas, desde que comprovem não possuir meios de prover aprópria manutenção e nem de tê-la provida por sua família.
+Ressalte-se por oportuno que o § 2º do artigo 20 da Lei 8.742/1993 definepessoa com deficiência como "aquela que tem impedimento de longo prazo denatureza física, mental, intelectual ou sensorial, o qual, em interaçãocom uma ou mais barreiras, pode obstruir sua participação plena e efetivana sociedade em igualdade de condições com as demais pessoas".
+Para concessão do referido benefício, o requerente, além de comprovar suadeficiência ou a idade avançada, deverá demonstrar que a renda familiarmensal per capita é inferior a 1/4 (um quarto) do salário mínimo e aincapacidade de prover a sua sobrevivência ou a de seu núcleo familiar,sendo certo que o requisito relativo à renda per capita foi relativizadopela jurisprudência do STJ, no Recurso Especial Repetitivo 1.112.557/MG.
+In casu, verifica-se que o Tribunal de origem concluiu que não restoudemonstrada a incapacidade de longoda agravante que impediria a sua participação plena e efetiva na sociedade, o que impede a análise do recursoespecial, na medida que a pretensão recursal enseja obrigatoriamente oreexame do conjunto fático-probatório, não admissível por força da Súmula7 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PREVIDENCIÁRIO. BENEFÍCIOASSISTENCIAL DE PRESTAÇÃO CONTINUADA. ALEGADO NÃO PREENCHIMENTO DOSREQUISITOS À CONCESSÃO DO BENEFÍCIO. INCIDÊNCIA DA SÚMULA N.º7. PRECEDENTES.
+1. O eg. Tribunal a quo, entendendo preenchidos os requisitos legais pelorecorrido, nesses incluída a incapacidade de prover o próprio sustento,concedeu-lhe o benefício assistencial de prestação continuada.
+2. Rever esse entendimento, por sua vez, requererá necessariamente orevolvimento do material fático-probatório dos autos, impossível em sedede recurso especial a teor da Súmula n.º 7/STJ ("A pretensão de simplesreexame de prova não enseja recurso especial"). Precedentes.
+3. Agravo regimental a que nega provimento.
+(AgRg no REsp 903.713/PB, Sexta Turma, Relatora Ministra DesembargadoraConvocada do TJ/PE Alderita Ramos de Oliveira, DJe 26/3/2013)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. BENEFÍCIOASSISTENCIAL. RECONHECIMENTO PELAS INSTÂNCIAS DE ORIGEM DA INCAPACIDADE DABENEFICIÁRIA PARA O TRABALHO E PARA A VIDA INDEPENDENTE. ART. 20, § 2o.,DA LEI 8.742/93. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVO REGIMENTAL DO INSS DESPROVIDO.
+1. A Lei 12.435/2011, que alterou o art. 20, § 2º. da Lei 8.742/93,determina que a incapacidade da pessoa portadora de deficiência, para finsde reconhecimento do direito à Assistência Social, seja analisadaconjuntamente com os fatores profissional e cultural do benefíciário.
+2. Tendo o Tribunal a quo concluído, com base nas provas dos autos, aincapacidade para o trabalho, bem como para a vida independente é devida aconcessão do benefício assistencial.
+3. A alteração dessa conclusão, na forma pretendida, demandarianecessariamente a incursão no acervo fático-probatório dos autos, o queencontra óbice na Súmula 7 do STJ.
+4. Agravo regimental do INSS desprovido.
+(AgRg no AREsp 147.558/RO, Primeira Turma, Relator Ministro Napoleão NunesMaia Filho, DJe 30/8/2013)
+PROCESSO CIVIL - ASSISTENCIAL - AMPARO AO DEFICIENTE - INCAPACIDADEPARCIAL - MATÉRIA DE PROVA - SÚMULA 7/STJ - CORREÇÃO MONETÁRIA E JUROS DEMORA - ART. 1º-F DA LEI 9.494/97 - PRECEDENTES.
+1. Desqualificar o juízo de valor efetuado pelo Tribunal de origem quantoà incapacidade para o trabalho do postulante ao benefício assistencialprevisto no art. 20 da Lei 8.472/93 é inviável em sede de recursoespecial, nos termos da Súmula 7/STJ.
+2. O art. 1º-F da Lei 9.494/97, com a redação da Lei 11.960/2009, norma denatureza processual, aplica-se imediatamente aos processos em curso.Precedentes.
+3. Recurso especial conhecido em parte e, nessa parte, provido.
+(REsp 1.312.518/PB, Segunda Turma, Relatora Ministra DesembargadoraFederal do TRF-3ª Região Diva Malerbi, DJe 4/12/2012)
+Ante o exposto, com fulcro no artigo 932, III, do CPC/2015 c/c o artigo253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecerdo recurso especial.Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO 3/STJ. BENEFICIO ASSISTENCIAL. REQUISITOS. INCAPACIDADE DE LONGO PRAZO.SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
