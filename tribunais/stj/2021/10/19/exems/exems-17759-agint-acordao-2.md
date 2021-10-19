@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+RELATÓRIO
+Trata-se de agravo interno de fls. 629-633 interposto pela UNIÃO contra decisão monocrática que, em sede de execução em mandado de segurança, tornou sem efeito anterior decisão proferida nos autos e julgou procedente a impugnação, oposta pelo referido ente público, para extinguir o feito executivo e determinar o cancelamento do precatório expedido. Condenou-se, ainda, na ocasião, o exequente, ora agravado, ao pagamento de honorários sucumbenciais fixados em R$ 1.000,00 (mil reais).
+Os embargos de declaração opostos pelo exequente foram rejeitados.
+A agravante alega, em síntese, que: (a) embora reconhecido que "nada é devido na execução", foi arbitrada verba honorária no valor irrisório de R$ 1.000,00 (mil reais); (b) "o CPC de 2015 foi claro em assentar que nas causas que há valor definido os honorários serão fixados no mínimo de dez e no máximo de 20 por cento sobre o valor da condenação"; e (c) "deve ser majorada a verba honorária em valor correspondente a 20% (vinte por cento) sobre o excesso de execução".
+Requer, por isso, seja provido o recurso.
+O agravado, por sua vez, pleiteia a manutenção da decisão agravada. Argumenta que: (a) "o acórdão ora agravado não violou qualquer dispositivo quanto às razões que levaram ao arbitramento dos honorários advocatícios no valor de R$ 1.000,00 (mil reais), seguindo, conforme indica o art. 85 do CPC, a apreciação equitativa dos valores"; e (b) "o arbitramento dos honorários sucumbenciais deve ser sempre pautado pelos princípios constitucionais da razoabilidade e da proporcionalidade".
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA IMPUGNAÇÃO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. ANULAÇÃO DA PORTARIA ANISTIADORA. SUPERVENIENTE INEXIGIBILIDADE DO TÍTULO JUDICIAL. EXTINÇÃO DO FEITO EXECUTIVO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ALEGADA IRRISORIEDADE. IMPROCEDÊNCIA. AGRAVO IMPROVIDO.
+1. Tendo em vista a extinção do feito executivo, em razão da inexigibilidade do título judicial, impõe-se a fixação dos honorários sucumbenciais por apreciação equitativa, nos moldes do art. 85, § 8º, do CPC, e não segundo os percentuais de que trata o § 2º do mesmo dispositivo, em atenção ao princípio da razoabilidade e para evitar que ocorram distorções no caso concreto.
+2. Agravo interno improvido.
+VOTO
+Declarado inexigível o título judicial tendo em vista que a portaria de anistia do exequente restara anulada na esfera administrativa, a decisão agravada entendeu por tornar sem efeito anterior decisão proferida nos autos e julgar procedente a impugnação oposta, extinguindo a execução e determinando o cancelamento do precatório expedido, o Prc 5257/DF. Outrossim, houve a condenação do sucumbente ao pagamento da verba honorária no valor de R$ 1.000,00 (mil reais).
+A esse respeito, a agravante aduz que a condenação ao pagamento da verba honorária deu-se em montante irrisório, motivo pelo qual pugna por sua majoração "em valor correspondente a 20% (vinte por cento)" sobre o proveito econômico decorrente da extinção da execução por inexigibilidade do título.
+Sem razão, contudo, o ente público agravante, como será explicitado a seguir.
+Na hipótese, impõe-se a fixação dos honorários sucumbenciais por apreciação equitativa, nos moldes do art. 85, § 8º, do CPC, e não segundo os percentuais de que trata o § 2º do mesmo dispositivo, em atenção ao princípio da razoabilidade e para evitar que ocorram distorções no caso concreto.
+Desse modo, não merece reparo a decisão agravada, devendo prevalecer a verba honorária sucumbencial em desfavor do agravado no montante em que restou arbitrada.
+Ante o exposto, voto por negar provimento ao agravo interno.
