@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado pelaNivetec Instrumentação e Controle Ltda.,, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido peloTribunal de Justiça do Estado de São Paulo, assim ementado (fl. 943):
+Ementa: Ação anulatória de AIIM lavrado em razão de creditamento indevido de ICMS - Autora desistindo da ação na fase instrutória, após o oferecimento de defesa pela Fazenda do Estado de São Paulo  Requerente que consignou expressamente a sua renúncia "a qualquer discussão acerca dos débitos constantes do AIIM" - Sentença de extinção do feito, com resolução de mérito, nos termos do art. 487, II. "a", do CPC. mantida nos termos do art. 252 do Regimento Interno desta Corte - Verba honorária corretamente arbitrada - Recurso desprovido, com determinação.
+Opostos embargos pelo recorrente, foram rejeitados (fls. 962/966).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 85, §3º, 489, §1º, IV, e 1.022, I e II, do CPC.Sustenta, em síntese, que a despeito da interposição dos aclaratórios, o Tribunal de origem quedou-se silente quanto a impossibilidade de se arbitrar os honorários com base no valor da causa em razão da existência de proveito econômico mensurável para a Fazenda Pública.
+Contrarrazões apresentadas (fls. 992/997).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC.
+Nas razões dos embargos de declaração, a ora agravante, referindo haver omissão no acórdão embargado, pugnou pelo pronunciamento da Corte de origem, nestes termos (fl. 959):
+2. DA OMISSÃO DO ACÓRDÃO QUANTO À ALEGAÇÃO DA IMPOSSIBILIDADE DE SEARBITRAR OS HONORÁRIOS COM PARÂMETRO NO VALOR DA CAUSA - EXISTÊNCIA DE PROVEITO ECONÔMICO MENSURÁVEL PARA A FAZENDA PÚBLICA - O FUNDAMENTO LEGAL UTILIZADO DISPÕE SOBRE O CRITÉRIO DO PROVEITO ECONÔMICO E NÃO DO VALOR DA CAUSA
+2.1. Em suas razões de apelação, a Embargante abriu um capítulo para demonstrarque a sua condenação ao pagamento de honorários advocatícios pelo valor da causa violaria a regra prevista no artigo 85 do CPC. Contudo, nada foi disposto sobre os argumentos ali dispendidos nos fundamentos do acórdão embargado.
+Contudo, o Tribunal de origem quedou-se silente sobre a tese aventada, a saber, o arbitramento dos honorários advocatícios com base noproveito econômico da demanda, rejeitando os pertinentes aclaratórios da ora agravante, em franca violação ao art. 1.022 do CPC/2015, porquanto não prestada a jurisdição de forma integral (cf. fls. 364/375).
+ANTE O EXPOSTO,conheço do agravo para dar provimento ao recurso especial por violação do art. 1.022 do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
