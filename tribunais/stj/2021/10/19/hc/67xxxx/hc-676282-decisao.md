@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em face de acórdão assim relatado (fls. 183/190):
+1. O presente habeas corpus foi impetrado pelo Defensor Público Marcelo Bonilha Campos, em benefício de Lucas Machado Valler, sob a alegação de que o paciente está a sofrer constrangimento ilegal em virtude de ato praticado pelo MM.
+Juiz de Direito da Vara do Plantão Judiciário da Comarca de Araçatuba.
+Sustenta a impetração, em apertada síntese, que o paciente, preso em flagrante sob a acusação de prática de crime de tráfico de drogas, teve a custódia precautelar convertida em preventiva. Alega a inidoneidade da fundamentação da r. decisão que impôs a prisão preventiva ao paciente, já que baseada na gravidade ínsita ao crime. Assinala ainda que é pequena a quantidade de droga apreendida.
+Aponta também a desproporcionalidade da medida diante da situação de pandemia e da possibilidade, em caso de condenação, de imposição de regime diverso do fechado e substituição da pena privativa de liberdade. Refere, por derradeiro, o cabimento de cautelar diversa da mais gravosa. Requer, à vista disso, a concessão da ordem para que seja suspensa a eficácia do decreto de prisão do paciente.
+A medida liminar foi indeferida.
+Dispensou-se o envio das informações.
+A douta Procuradoria Geral de Justiça, em parecer de lavra dos Drs. ANTÔNIO CALIL FILHO e ARTHUR MEDEIROS NETO, manifestou-se pela denegação da ordem.
+É o relatório.
+Extrai-se dos autos que o paciente foi preso em flagrante, convertido em prisão preventiva, pela prática do delito previsto no art. 33 da Lei 11.343/06.
+Alega a defesa que a prisão não tem fundamentação idônea. Destaca que o paciente é primário e tem bons antecedentes, sendo cabível a aplicação de medidas cautelares diversas da prisão.Por fim, destaca, em apoio à sua pretensão de ser posto em liberdade, a pandemia do novo coronavírus.
+Requer, liminarmente e no mérito, seja o paciente posto em liberdadeaté o julgamento do presente writ. Subsidiariamente, que sejam aplicadas medidas cautelaresdistintas da prisão.
+A liminar foi deferida. Prestadas as informações, o Ministério Público Federal se manifestou pelo não conhecimento do writ, mas pela concessão da ordem de ofício.
+As informações atualizadas são de que na origem foi oferecidadefesa prévia nos autos da ação penal.
+O decreto de prisão preventiva foi assim fundamentado (fls. 70/73):
+ ..
+3- Verifica-se que o auto de prisão em flagrante encontra- se formalmente em ordem. Pelos que consta dos autos, o indiciado foi preso pela prática do crime de tráfico de drogas.
+Conforme depoimentos dos policias militares, após abordagem de rotina, em razão de ter avistado amigo do autuado empinando moto em via pública, o averiguado foi abordado, ocasião em que foram encontradas três porções de maconha no bolso de sua bermuda do investigado e também a quantia de cem reais. Indagado sobre as drogas que portava, teria admitido que praticava o tráfico de drogas e que o dinheiro encontrado em seu poder era proveniente do tráfico. Perguntado se possuía mais drogas, o investigado Lucas teria admitido que guardava mais maconha no interior de sua casa, situada em frente ao local da abordagem. A testemunha policial informou, ainda, que durante da fiscalização, uma vizinha se aproximou e informou que"havia uma frequência grande de gente que entrava e saia da casa de Lucas".
+Após verificação no imóvel do autuado Lucas, com sua autorização, o autuado disse que guardava "um pedaço de tijolo de maconha" na prateleira da cozinha, dentro de uma vasilha plástica. No local indicado foram localizadas drogas e uma faca com resquícios de maconha na lâmina. Foram localizados, ainda, no armário da pia da cozinha, dentro de um pote, uma balança de precisão, dois pedaços de plástico filme, em rolo, e três porções de maconha. Foi apreendida, também, a quantia de R$ 1.065,00. Lucas alegou que essa quantia era proveniente de seu trabalho como cabeleireiro. Informalmente, Lucas admitiu que adquire o "pedaço de maconha por 400 reais e faz 1.000 reais".
+Desse modo, na posse do autuado foram apreendidas seis porções pequenas e uma porção grande da droga conhecida como "maconha", com peso total de 270,70 gramas (auto de exibição e apreensão de fls.14/15 e laudo de constatação de substância entorpecente de fls.17).
+O indiciado, perante a autoridade policial, confessou a prática do tráfico (fls. 4) Desse modo, diante da expressiva quantidade de droga, apreensão de faca com resquícios de maconha, balança de precisão, pedaços de plástico filme, bem como informação de que o autuado comprava pedaço de maconha por 400 reais e "fazia 1.000 reais", conclui-se que o averiguado estava se dedicando ao tráfico de drogas.
+Assim, impõe-se a custódia cautelar para garantia da ordem pública e para impedir que o indiciado continue a praticar crime gravíssimo, equiparado a hediondo, nos termos do artigo 5º, inciso XLIII, da Constituição Federal.
+ ..
+A existência da pandemia covid-19 não justifica automaticamente a concessão de liberdade provisória ou colocação em prisão domiciliar, notadamente quando presentes os requisitos para a prisão preventiva, como é o caso em tela.
+Portanto, nos termos acima, acolho o pedido do Ministério Público para converter a prisão em flagrante em prisão preventiva, ficando indeferido o pedido de liberdade provisória formulado pela Defesa.
+Posto isso, converto a prisão em flagrante em prisão preventiva, com fundamento nos artigos 310, inciso II, 312 e 313, inciso I, todos do Código de Processo Penal.
+Expeça-se mandado de prisão contra o indiciado LUCAS MACHADO VALLER .
+Como se vê, o decreto justifica a necessidade da custódia destacando as circunstâncias da prisão em flagrante, em que o paciente trazia consigo três porções de maconha e R$ 100,00, além de ter em depósito mais quantidade demaconha,uma balança de precisão, dois pedaços de plástico filme e R$ 1.065,00. Ademais, o paciente admitiu a prática do tráfico de drogas, tendo informado que adquire o "pedaço de maconha por 400 reais e faz 1.000 reais".
+Porém, na hipótese, a quantidade de droga apreendida não é expressiva- aproximadamente 270,70 gramas de maconha (fls. 184).
+Assim, suficiente é a imposição das seguintes medidas cautelares penais diversas da prisão processual: (a) apresentação a cada 2 meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade; (b) proibição de mudança de domicílio sem prévia autorização judicial, vinculando oacusadoao processo; e (c) proibição de ter contato pessoal com pessoas envolvidas com o tráfico e com outras atividades criminosas, como garantia à instrução e à proteção contra à reiteração criminosa.
+Ante o exposto, concedo a ordem para a soltura dopaciente,determinandoo cumprimento da medida cautelar de apresentação a cada 2 meses, proibição de mudança de domicílio sem prévia autorização judicial e de ter contato pessoal com pessoas envolvidas com o tráfico de drogas e com outras atividades criminosa.
+Comunique-se.
+Publique-se.
+Intimem-se.
