@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+PREVIDENCIÁRIO. ARTIGO 103 DA LEI 8.213/1991. TEMA 313 DOSTF. DIREITO ADQUIRIDO AO MELHOR BENEFÍCIO. RETROAÇÃO DO PERÍODO BÁSICO DE CÁLCULO. EQUIPARAÇÃO AO ATO DE REVISÃO. NÃO INCIDÊNCIA DO PRAZO DECADENCIAL. TEMA 966 DO STJ.
+1. O art. 103, caput, da Lei 8.213/91 dispõe que é de dez anos o prazo de decadência do direito ou ação do segurado ou beneficiário para revisão do ato de concessão do benefício.
+2. No Tema nº 313, o Supremo Tribunal Federal firmou entendimento de que o prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição.
+3. No Tema nº 966, o Superior Tribunal de Justiça firmou entendimento de que incide o prazo decadencial para reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso.
+4. Hipótese em que não incidiu o instituto da decadência, haja vista que o benefício concedido em data anterior a 27/06/1997 (data de vigência da MP nº 1.523/97), sendo que o prazo decadencial tivera início no dia01/08/1997 e o pedido de revisão foi protocolado antes de 01/08/2007.
+Os embargos declaratórios opostos pelo recorrente foram rejeitados.
+Em razões de recurso especial manejado com fundamento na alínea "a" do permissivo constitucional, o recorrente alega violação aoartigo1022, II, do CPC/2015.
+Apontanegativa de prestação jurisdicional, ao argumento de que "não foram apreciados pelo eg. Tribunal o sentido e o alcance do disposto nos arts 1.008 e 502, 503 e 507 do CPC, na medida em que o acórdão do STJ transitado em julgado, deu provimento ao recurso especial da autarquia, substituiu o acórdão do TRF 4ª Região, prejudicando assim o recurso extraordinário".
+Aduz que "o acórdão do STJ que deu provimento ao recurso especial da autarquia (AgRg no Recurso Especial nº 1.205.814-RS),reconhecendo a decadência, substituiu o acórdão proferido pelo TRF 4ª Região relativamente à questão impugnada (decadência). Por conseguinte, o recurso extraordinário interposto pela autarquia perdeu o objeto no ponto relativo à decadência, não sendo o caso, portanto, de juízo de retratação em relação ao Tema 313 do STF (art. 1.031, §1º, do CPC). Incide no caso, outrossim, o disposto nos arts. 502, 503 e 507 do CPC, na medida em que o acórdão do STJ que deu provimento ao recurso especial da autarquia transitou em julgado, não estando mais sujeita a recurso, operando-se, assim, a coisa julgada e a preclusão. Ante o exposto, a cassação do acórdão recorrido é medida que se impõe, paraque seja determinada a observância do acórdão proferido por esse eg. STJ no AgRg noRecurso Especial nº 1.205.814-RS".
+O prazo para apresentação de contrarrazõestranscorreu in albis.
+Manifestação do Ministério Público Federal às e-STJ fls. 944/950, opinando pelo provimento do recurso especial.
+É o relatório.
+Decido.
+Inicialmente cumpre dizer que recai ao presente recurso o Enunciado Administrativo 3/STJ.
+Reconhece-se a existência da indigitada violação do artigo 1022, II,do CPC/2015, uma vez que o acórdão de origem não se pronunciou acerca de tese desenvolvida na apelação e nos embargos de declaração, qual seja,oimpacto, no presente processo, da existência de acórdão, transitado em julgado, proferido pelo SuperiorTribunal de Justiça, que deu provimento ao AgRg no Resp nº 1.205.814-RS, interposto pelo INSS, reconhecendo a decadência do direito à revisão do benefício previdenciário.
+A jurisprudência deste Superior Tribunal de Justiça é assente no sentido de que a existência de um dos vícios descritos no artigo 1022 do CPC/2015enseja a devolução do feito à origem para a completa análise dos pedidos da parte e integração do julgado.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO. OFENSA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. CONFIGURAÇÃO. RETORNO DOS AUTOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Configurada a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tem-se correto o parcial provimento do recurso especial interposto pela agravada em virtude da necessidade de que o tribunal de origem se manifeste acerca das questões suscitadas nos embargos de declaração ante a relevância da omissão apontada.
+3. Agravo interno não provido. (AgInt no AgInt no REsp 1829014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27/04/2020)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, e na Súmula 568/STJ, dou provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração do INSS.
+Publique-se Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO N. 3/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OCORRÊNCIA. OMISSÃO CARACTERIZADA. NULIDADE DO ACÓRDÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL PROVIDO.
