@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto peloMinistério Público de São Paulo contraa decisão monocrática de fls. 344/347, na qual não conheci do agravo manejadopor Bruno Ricardo Pisoli e, de ofício, concedi habeas corpuspara redimensionar sua reprimenda e fixar-lhe regime semiaberto de cumprimento de pena.
+Nas razões do agravo regimental, oParquetentende que a quantidade de entorpecente apreendida é um seguro meio de prova (dentre tantos outros), que demonstra que o acusado faz do tráfico o seu meio de vida e, portanto, exerce a atividade criminosa, não se tratando de eventual traficante, nada justificando, portanto, a concessão da minorante do tráfico privilegiado (fl. 352).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DELITO DE TRÁFICO DE DROGAS. APREENSÃO DE 1.579,9 G DE MACONHA. CONDENAÇÃO. IRRESIGNAÇÃO MINISTERIAL.TENTATIVA DE REDISCUSSÃO DA MATÉRIA. MANUTENÇÃO DA DECISÃO AGRAVADA
+1.O agravante não logrou êxito em demonstrar qualquer argumento capaz de modificar as razões expostas na decisão ora combatida, numa nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+2. Agravo regimental desprovido.
+VOTO
+Sem razão o recorrente.
+Consoante asseverei monocraticamente, a simples menção à quantidade das drogas, dissociada de qualquer outro elemento, não é suficiente para se concluir acerca da dedicação do paciente às atividades criminosas ou participação em organização criminosa, afastando, peremptoriamente, a incidência da referida benesse(HC n. 403.022/DF, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 9/10/2017).
+Do mesmo modo, o simples fato de o acusado não haver comprovado o exercício de atividade lícita à época dos fatos não pode, evidentemente, levar à conclusão contrária, qual seja, a de que se dedica a atividades criminosas, até porque o desemprego, diante da realidade social brasileira, representa, na verdade, um infortúnio de boa parte da população, e não algo desejado(AgRg no HC n. 382.724/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/9/2017). Também: AgRg no HC n. 556.418/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 11/3/2020.
+Na presente hipótese, entendeu o Magistrado sentenciante ser cabível a aplicação da causa de diminuição prevista no § 4º do art. 33 da Lei de Drogas, pois o réu é primário e atende aos seus requisitos (fl. 169).
+O Tribunal de origem, entretanto, afastou a minorante em questão, por considerar que, embora o réu seja primário, não é o caso de sua aplicação, tendo em vista as circunstâncias em que se deram a prisão, a quantidade e natureza de droga apreendida, além de inexistir nos autos comprovação de que o réu exerça algum tipode atividade lícita (fl. 238). Com base nisso, deduziu-se que, embora o acusado tenha afirmado que era a primeira vez que fazia o transporte da droga, é evidente que havia uma relação de confiança entre ele e a pessoa que o "contratou", especialmente pela grande quantidade de droga que deveria ser transportada, tudo a demonstrar rotina de proceder, inviabilizando a aplicação do referido benefício (idem).
+Pelos trechos, percebe-se claramente que os únicos fatores que levaram à Corte estadual a afastar a benesse em relação ao agravante forama quantidade de droga apreendida - 1.579,9 g de maconha (fl. 232) - e o fato de não ter ocupação lícita.
+Contudo, isoladamente, não me pareceu que tais fatos se revelem suficientemente idôneos a sustentar a conclusão no sentido da dedicação ao tráfico, máxime considerando a afirmação do Magistrado no sentido de que o acusado preenche os requisitos para a concessão perseguida.
+Assim, tenho que oagravante não logrou êxito em demonstrar qualquer argumento capaz de modificar as razões expostas na decisão ora combatida, numa nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+Ante o exposto,nego provimentoao agravo regimental.
