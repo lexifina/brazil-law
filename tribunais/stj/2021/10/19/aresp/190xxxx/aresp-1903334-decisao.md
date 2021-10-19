@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Agravo de Instrumento. Execução de título extrajudicial. Pedido para que a penhora não recaia sobre faturamento da empresa, mas, sim, sobre bem móvel oferecido que consiste em maquinário. Alegação de que não foram exauridas as tentativas de localização de outros bens. Impossibilidade. Agravado que busca o crédito desde 2013 sem êxito. Inércia da Agravante em cooperar com o Juízo para possibilitar que a penhora seja direcionada para rumo que lhe seja menos oneroso. Bem oferecido para penhora que possui mais de 22 anos de utilização, sem ter a Agravante demonstrado seu estado de conservação. Ausência de liquidez ante a especificidade do bem que possui mercado restrito. Falta de aceitação da substituição da penhora pelo Agravado. Parcial provimento do recurso para acolher o pedido subsidiário de minoração dos honorários periciais do responsável na elaboração do plano de administração a possibilitar a penhora. Valores que superam 15% do valor perseguido. Honorários que devem ser fixados em R$ 5.000,00 (cinco mil reais). Decisão parcialmente reformada. RECURSO PARCIALMENTE PROVIDO.
+Alegou-se, no especial, violação dos artigos 1.022, 805, 835, X, 866, 1.036 e 1.037, II, do Código de Processo Civil, sob o argumento de que o acórdão local é omisso, que o processo deveria ter sido suspenso por ter esta Corte afetado o tema em discussão para julgamento pela sistemática dos recursos especiais repetitivos e que, de qualquer modo, foi indevida a penhora de faturamento da agravante.
+Assim delimitada a controvérsia, passo a decidir.
+De início, quanto à pretendida suspensão, a agravante afirma que foi determinada a afetação do recursos especiais1.666.542, 1.835.864 e 1.835.865 para julgamento pela sistemática dos recursos repetitivos, determinando-se a suspensão dos processos que discutam a penhora sobre faturamento.
+Tais recursos, todavia, foram afetados à Primeira Seção desta Casa para a discussão dos requisitos necessários para o deferimento de penhora de faturamento em execução fiscal, o que não é o caso dos autos.
+Incompreensível, pois, a alegação, o que atrai o verbete n. 284 da Súmula desta Casa.
+Não é omisso, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+No mais, concluído que não havia outros bens penhoráveis, já que o oferecido não tinha liquidez no mercado, o reexame da causa esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Para exame:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO NA ORIGEM. CUMPRIMENTO DE SENTENÇA. PENHORA. FATURAMENTO DA EMPRESA.POSSIBILIDADE. AUSÊNCIA DE OUTROS BENS. SÚMULAS 7 E 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. É cabível a penhora de percentual do faturamento líquido da sociedade empresária devedora, em não existindo patrimônio outro suficiente, visando, por um lado, disponibilizar forma de constrição menos onerosa para o devedor e, por outro lado, garantir de forma idônea e eficaz a satisfação do crédito, atendendo, assim, ao princípio da efetividade da execução. Precedentes.
+2. No caso, o Tribunal de Justiça autorizou a penhora de 10% (dez por cento) do faturamento da ora recorrente, reconhecendo ser a medida excepcional, adotada por ter resultado infrutífera a busca por outros bens penhoráveis, sendo os indicados à penhora pela executada inidôneos para a garantia do juízo. Rever a conclusão do acórdão recorrido, quanto à inexistência de outros bens penhoráveis em nome do devedor, demandaria o reexame de provas, o que é vedado pela Súmula 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 1787003/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 9/8/2021, DJe 31/8/2021)
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
