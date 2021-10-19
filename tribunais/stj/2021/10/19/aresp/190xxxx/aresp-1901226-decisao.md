@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. INDEFERIMENTO DA PETIÇÃO INICIAL E EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA DEMANDANTE. JUÍZO SINGULAR QUE, ATENTO À NORMATIVA PREVISTA NA CIRCULAR N. 192/2014 DA CGJ/SC, OPORTUNIZOU A APRESENTAÇÃO DO TÍTULO ORIGINAL PARA VINCULAÇÃO AO PROCESSO DIGITAL. INSTITUIÇÃO FINANCEIRA EXEQUENTE QUE DEIXOU DE ATENDER À DETERMINAÇÃO JUDICIAL. ALEGAÇÃO DE QUE NÃO HOUVE INÉRCIA DE SUA PARTE QUANTO AO ALUDIDO DESPACHO. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ARGUMENTOS NÃO RELACIONADOS AO CASO CONCRETO. OFENSA AO PRINCÍPIO DA DIALETICIDADE. RECURSO NÃO CONHECIDO. SEM HONORÁRIOS RECURSAIS.
+"De acordo com este princípio, exige-se que todo recurso seja formulado por meio de petição na qual a parte, não apenas manifeste sua inconformidade com o ato judicial impugnado, mas, também e necessariamente, indique os motivos de fato e de direito pelos quais requer o novo julgamento da questão nele cogitada."
+A parte agravante sustenta ofensa aos arts. 1.010, II, do Código de Processo Civil, 217, 425, VI, do Código de Processo Civil, além de dissídio jurisprudencial.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto às normas indicadas pelo recorrente, pois são estranhas ao julgado recorrido, a elas faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Além disso, o dissídio jurisprudencial não foi demonstrado nos moldes legais e regimentais, notadamente no que toca à comprovação de similitude dos substratos fáticos dos julgados confrontados e ao cotejo analítico entre acórdãos.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
