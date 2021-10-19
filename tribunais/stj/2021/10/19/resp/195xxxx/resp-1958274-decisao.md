@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ, fl. 324):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. AJUIZAMENTO DA EXECUÇÃO FISCAL POSTERIOR À DECRETAÇÃO DE FALÊNCIA DA EMPRESA EXECUTADA. MODIFICAÇÃO DO SUJEITO PASSIVO. IMPOSSIBILIDADE. SÚMULA392/STJ. EXTINÇÃO DA AÇÃO, SEM RESOLUÇÃO DO MÉRITO. ART. 267, VI, DOCPC/73 (ART. 485, VI, DO ATUAL CPC). PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA.
+I - Execução fiscal nº 2005.61.04.006906-0 ajuizada indevidamente em 13.07.2005, porquanto anteriormente já havia sido decretada a falência da empresa executada (28.06.2002), da qual a exequente teve ciência em 28.04.2004, nos autos da Execução Fiscal nº 2001.61.04.006777-9.
+II - Nos termos do art. 12, III, do CPC/73, cabe ao síndico a representação em juízo, ativa e passivamente, da massa falida, pois, decretada a falência da empresa, esta perde a personalidade jurídica, cabendo ao síndico representá-la em juízo.
+III - Conforme entendimento consolidado do C. STJ, tal irregularidade não se trata de mera formalidade, sendo impossível a modificação do sujeito passivo após o ajuizamento da execução fiscal. Súmula 392/STJ.
+IV - Extinção da execução fiscal, sem resolução de mérito, conforme disposto no art. 267, VI, doCPC73 (art. 485, VI, do atual CPC). Precedentes desta Corte.
+V - Execução Fiscal nº 2001.61.04.006777-9 ajuizada em 13.12.2001. VI - Nulidade da citação da empresa executada, em 01.12.2003, na pessoa de sua representante legal, porquanto, em 28.06.2002, já havia sido decretada a quebra da sociedade.
+VII - Ocorrência de prescrição intercorrente, porquanto entre o ajuizamento da ação (13.12.2001) e a citação efetiva do síndico da massa falida, ocorrida somente em 2007, transcorreu lapso superior a cinco anos.
+VIII - Recurso de apelação da empresa executada provido. Recurso de apelação da União prejudicado.
+Os embargos de declaração opostos pelo contribuinte foram parcialmente acolhidos (e-STJ, fl. 387):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO. ERRO MATERIAL CORREÇÃO. HONORÁRIOS ADVOCATÍCIOS. OMISSÃO EXISTENTE. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Existindo no acórdão embargado omissão ou contradição a serem sanadas, acolhem-se os embargos opostos sob tais fundamentos.
+2. Restou omisso o v. acórdão no tocante à fixação dos honorários advocatícios, nos termos do art. 85, § 3º, I, do CPC, tendo em vista a procedência total dos embargos à execução.
+3. Honorários advocatícios fixados em 10% sobre o valor da causa atualizado, nos termos do art. 85, § 3º, I, do CPC.4. Há evidente erro material, pois na parte dispositiva do voto constou apenas a execução fiscal nº 2001.61.04.006777-9, deixando de mencionar a execução fiscal 2005.61.04.006906-0.5.
+Embargos parcialmente acolhidos.
+Os aclaratórios da Fazenda foram rejeitados.
+Em suas razões, a parte insurgente alega a existência de violação doart. 1.022 do CPC/2015.
+Sustenta, em suma, que "a regra para fixação dos honorários é o Princípio da Causalidade - fundamento tanto da sentença quanto do v. Acórdão - e, nesse contexto, foi a executada que, não pagando o tributo devido, deu ensejo à inscrição em Dívida Ativa da União e ao ajuizamento da execução fiscal, procedimento então absolutamente legítimo do credor, não podendo a União, agora, ser condenada em honorários advocatícios nesta ação" (e-STJ, fl.477).
+Prossegue afirmando que (e-STJ, fl. 477):
+Ora, a execução fiscal foi ajuizada para cobrança de dívida não paga pela executada, gerando gasto para a União com Procuradores da Fazenda Nacional que atuaram no processo e com toda a estrutura do Judiciário. A União, dessa forma, teve gasto com seus Procuradores e com todos os demais mecanismos de cobrança judicial do crédito público, com o objetivo de que o autor arcasse com sua dívida, dívida esta, desde o ajuizamento até a ocorrência da prescrição, plenamente exigível.
+Seria absurda, à evidência, a condenação da União ao pagamento de honorários em um processo cuja origem decorre do não pagamento de uma dívida legítima da outra parte. Aliás, mais absurdo ainda é imaginar que a União, além de não receber um centavo sequer do tributo devido pela executada, ainda poderá ser obrigada a pagar a título de honorários advocatícios a um devedor (ou a seu advogado) que não teve patrimônio localizado, mesmo sabendo-se que, no direito brasileiro, vige o princípio da responsabilidade patrimonial (ou seja, se não é encontrado bem em nome do devedor, a União fica de "mãos atadas").
+Tal eventual situação (de condenação da União em honorários, mesmo reconhecendo expressamente a prescrição intercorrente) beira o absurdo, CHEGANDO A AFRONTAR O PRINCÍPIO DE QUE NINGUÉM PODE SE APROVEITAR DA SUA PRÓPRIA TORPEZA, OU MESMO O PRINCÍPIO DA VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA.
+Requer, assim, "seja provido o presente Recurso Especial, para que o v. acórdão que negou provimento aos embargos de declaração seja reformado e que a omissão do julgado seja, por fim, sanada" (e-STJ,fl. 481).
+Sem contrarrazões recursais (e-STJ, fl. 490).
+É o relatório.
+Assiste razão à parte insurgente no ponto em que sustenta violação do art. 1.022, II, do CPC/2015, pois uma análise detida das decisões proferidas pelo Tribunal de origem (e-STJ fls. 381-387 e 457-461), em cotejo com a petição dos embargos de declaração (e-STJ fls. 400-403), revela que houve omissão no acórdão recorrido quanto ao argumento de que"a regra para fixação dos honorários é o Princípio da Causalidade - fundamento tanto da sentença quanto do v. Acórdão - e, nesse contexto, foi a executada que, não pagando o tributo devido, deu ensejo à inscrição em Dívida Ativa da União e ao ajuizamento da execução fiscal, procedimento então absolutamente legítimo do credor, não podendo a União, agora, ser condenada em honorários advocatícios nesta ação" (e-STJ fl. 401).
+Nesse aspecto, a jurisprudência do Superior Tribunal de Justiça é firme de que a parte deve vincular a interposição do recurso especial à tese de violação do art. 1.022 do CPC quando, mesmo após a oposição de embargos declaratórios, o Tribunal a quo se mantém em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum, ou, ainda, quando persista desconhecendo omissão ou contradição arguida como existente no decisum.
+Em idêntica direção:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CARÁTER INFRINGENTE. POSSIBILIDADE. OMISSÃO RECONHECIDA. NOVO JULGAMENTO DO AGRAVO EM RECURSO ESPECIAL. PROVIMENTO. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. EXISTÊNCIA DE OMISSÕES E CONTRADIÇÕES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+ ..
+3. Constatada a violação do disposto no art. 1.022 do NCPC, diante da ausência de manifestação do Tribunal estadual sobre temas indispensáveis ao deslinde da controvérsia, deve-se anular o v. acórdão recorrido para que sejam novamente julgados os embargos de declaração opostos.
+4. Embargos de declaração acolhidos para, sanada a omissão, dar provimento ao agravo interno e ao recurso especial.
+(EDcl no AgInt no AREsp n.1.530.928/RS, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/6/2020, DJe de 1º/7/2020).
+Por estar configurada a afronta ao disposto no art. 1.022 do CPC, impõe-se a decretação de nulidade do acórdão que apreciou os embargos declaratórios para que os vícios sejam sanados.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especialparaanular o acórdão dos embargos de declaração.
+Determino o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, acerca do quanto alegado nos aclaratórios.
+Publique-se. Intimem-se.
