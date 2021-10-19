@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA E DO DESPACHO DE INADMISSIBILIDADE ATACADOS. AFASTAMENTO DA SUMULA 182/STJ. CRIME MILITAR. INJÚRIA E AMEAÇA. ACESSO AO CELULAR AUTORIZADO POR INTEGRANTE DE GRUPO DE WHATSAPP. PROVA LÍCITA. CONDENAÇÃO BASEADA EM OUTROS ELEMENTOS PROBATÓRIOS.
+1. O agravo regimental é tempestivo e foi impugnado o fundamento da decisão recorrida - incidência da Súm. n. 182/STJ. Igualmente, foi impugnado o único fundamento do despacho de inadmissibilidade - Súm. 83/STJ.
+2. Os dados constantes de aparelho celular obtidos por órgão investigativo - mensagens e conversas por meio de programas ou aplicativos (WhatsApp) - somente são admitidos como prova lícita no processo penal quando há precedente mandado de busca e apreensão expedido por juiz competente ou quando há autorização voluntária de interlocutor da conversa (AgRg no HC 646.771/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 10/08/2021, DJe 13/08/2021).
+3. No caso, as conversas foram fornecidas, espontaneamente, por um dos integrantes do grupo, no qual foi divulgado o conteúdo criminoso (ameaça e injúria).
+4. Ademais, a prática delitiva foi demonstrada também por outros meios de prova, robustos e independentes das mensagens de WhatsApp acessadas no celular apreendido, constando da sentença condenatória que "durante todo o procedimento o acusado reconheceu ser o autor das postagens, inexistindo qualquer questionamento sobre a veracidade dos áudios que embasam a acusação ou de sua autoria".
+5. Agravo regimental provido, tão somente para afastar a incidência da Súmula 182/STJ, negando, todavia, provimento ao recurso especial.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo regimental, tão somente para afastar a incidência da Súmula 182/STJ, negando, todavia, provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental contra decisão da Presidência desta Corte, que, diante da ausência de impugnação a todos os fundamentos da decisão denegatória de admissibilidade (Súmula n. 182/STJ), não conheceu do agravo em recurso especial interposto por MARCOS AUGUSTO DENARDI DOLESKI, condenado por infração aos arts. 216 e 218, incs. II e IV, do Código Penal Militar.
+Alega a defesa que "impugnou notadamente o único fundamento da decisão recorrida, que era a de que não caberia recurso especial, porque o acórdão combatido estaria em conformidade com a jurisprudência do STJ" (e-STJ, fl. 949/950).
+Sustenta, ademais, a ilegalidade das provas obtidas, visto que o acesso ao aparelho telefônico de onde foram extraídas as mensagens e áudios, objeto da acusação, se deu com autorização de um integrante do grupo de whatsapp, porém sem a prévia autorização judicial, violando as disposições do art. 7º, incs. I, II e III, da Lei n. 12.965/2014.
+Requer a reconsideração do decisum ou o julgamento do recurso pelo órgão Colegiado.
+É o relatório.
+AgRg no AGRAVO EM RECURSO ESPECIAL Nº 1.910.871 - RS (2021/0190019-1)
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental é tempestivo e foi impugnado o fundamento da decisão recorrida - incidência da Súm. n. 182/STJ.
+Igualmente, foi impugnado o único fundamento do despacho de inadmissibilidade - Súmula 83/STJ.
+Passo a analisar o recurso especial, no qual a defesa alega violação do art. 7º, incs. I, II e III, da Lei n. 12965/2014, ao argumento de serem ilegais as provas obtidas, pois o acesso ao aparelho telefônico de onde foram extraídas as mensagens e áudios, objeto da acusação, se deu com autorização de um integrante do grupo de whatsapp, porém sem a prévia autorização judicial.
+Com efeito, "o Superior Tribunal de Justiça vem enfatizando, em sucessivos julgados, que é ilícita a tomada de dados, bem como das conversas de Whatsapp, obtidas diretamente pela autoridade policial em aparelho celular apreendido no flagrante, sem prévia autorização judicial" (HC 674.185/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/08/2021, DJe 20/08/2021).
+Assim, os dados constantes de aparelho celular obtidos por órgão investigativo - mensagens e conversas por meio de programas ou aplicativos (WhatsApp) - somente são admitidos como prova lícita no processo penal quando há precedente mandado de busca e apreensão expedido por juiz competente ou quando há autorização voluntária de interlocutor da conversa (AgRg no HC 646.771/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 10/08/2021, DJe 13/08/2021).
+No caso, veja o que disse o Tribunal a quo, ao repelir a alegação defensiva de ilicitude das provas (e-STJ, fls. 807/808):
+Da prova ilícita
+Alega a Defesa que se constata ilegalidade das provas obtidas mediante acesso ao aparelho telefônico do integrante do grupo de whatsapp, uma vez que este se deu sem prévia autorização judicial.
+Sem razão a defesa.
+Com efeito, não há necessidade de autorização judicial na forma como foi obtida a mensagem por parte do ofendido neste caso concreto.
+Os autos denotam que o acusado postou as mensagens descritas na exordial acusatória de forma virtual disponibilizado pelo aplicativo WhatsApp, no Grupo chamado "Brigada Formigueiro".
+Do referido grupo participavam diversos brigadianos, entre eles o Sgt Ávila, que abrindo mão do seu sigilo, acabou mostrando os áudios ao Capitão, ora vítima, afastando qualquer ilicitude.
+ ..
+Aliás, o Sgt. Ávila na condição de Policial Militar e graduado possuía o dever legal de levar ao conhecimento de seu superior o conteúdo das conversas, até para que não fosse acusado, posteriormente, em tese, de condescendência criminosa.
+Ainda, em nada importa se o Sgt. Ávila mostrou ao Capitão os áudios com o desiderato de conseguir uma eventual transferência.
+Giza-se que haveria ofensa ao sigilo se as conversas tivessem sido obtidas do aplicativo whatssap do celular do acusado sem a sua autorização ou sem autorização judicial, o que não ocorreu já que fornecido, espontaneamente, por um integrante do grupo.
+Como se pode observar, as conversas foram fornecidas, espontaneamene, por um dos integrantes do grupo, no qual foi divulgado o conteúdo criminoso (ameaça e injúria).
+Neste contexto, não se configura violação ao direito constitucional de sigilo de dados e das comunicações, não havendo, destarte, falar em prova ilícita ou mesmo de necessidade de prévia autorização judicial, pois, embora não tenha havido autorização judicial para o acesso pelos policiais aos dados constantes do celular, o próprio proprietário, de forma voluntária, autorizou o acesso, situação que afastar a apontada violação dos dados armazenados no aparelho.
+Abaixo, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. JULGAMENTO MONOCRÁTICO. EFETIVIDADE DO PRINCÍPIO CONSTITUCIONAL DA RAZOÁVEL DURAÇÃO DO PROCESSO. NULIDADE. NÃO OCORRÊNCIA. PRISÃO PREVENTIVA. PERICULUM LIBERTATIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Pelos elementos fático-probatórios amealhados até o momento, não há elementos seguros o bastante a autorizar a conclusão pela ilicitude das provas obtidas em desfavor do acusado, porquanto, embora seja certo não ter havido prévia autorização judicial para o acesso dos policiais aos dados constantes no celular, é possível que o próprio proprietário (o corréu Guilherme Santos de Moura) tenha, de forma voluntária, autorizado o acesso ou mesmo fornecido a senha de desbloqueio aos policiais, situação que, caso confirmada, afastaria a apontada violação dos dados armazenados no referido aparelho e, consequentemente, a aventada ilicitude das provas obtidas em desfavor do réu. Essa matéria, portanto, será dirimida e devidamente esclarecida ao longo da instrução criminal, o que torna inviável de, por ora, neste momento processual e na via estreita do habeas corpus, ser acolhida a alegação de que as provas seriam oriundas de elementos informativos obtidos ilegalmente.
+ ..
+8. Agravo regimental não provido. (AgRg no HC 565.532/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/05/2020, DJe 08/06/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. ACESSO A DADOS ARMAZENADOS EM TELEFONE CELULAR. INTIMIDADE E PRIVACIDADE. INVIOLABILIDADE. TERMO CIRCUNSTANCIADO LAVRADO EM SITUAÇÃO DE FLAGRANTE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. NULIDADE NÃO CONFIGURADA. AUSÊNCIA DE PREJUÍZO COMPROVADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. VÍCIOS DOS ARTS. 619 E 620 DO CPP. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+ ..
+III - In casu, entretanto, ao contrário do que alegado pela Defesa, extraiu-se dos autos que o acesso às informações e dados armazenados no aparelho apreendido, bem como no notebook do recorrente, foi precedida de prévia autorização do próprio recorrente (fl. 259).
+ ..
+Embargos de declaração rejeitados. (EDcl no AgRg no RHC 116.792/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/05/2020, DJe 25/05/2020)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. ACESSO AOS DADOS ARMAZENADOS EM APARELHO CELULAR APREENDIDO. AUSÊNCIA DE AUTORIZAÇÃO JUDICIAL. PERMISSÃO DO ACUSADO. NULIDADE. NÃO CONFIGURAÇÃO. CONDENAÇÃO FUNDADA EM PROVAS AUTÔNOMAS. FONTE INDEPENDENTE. APREENSÃO DE ENTORPECENTES. DIVERSIDADE, FRACIONAMENTO E FORMA DE ACONDICIONAMENTO. VALORES EM DINHEIRO. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. DOSIMETRIA PENAL. CONDENAÇÕES ANTERIORES. EXASPERAÇÃO DA PENA. MAUS ANTECEDENTES E CONDUTA SOCIAL. MOTIVAÇÃO INIDÔNEA. BIS IN IDEM. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFICIO.
+ ..
+III - In casu, denota-se que os policiais acessaram as conversas telefônicas do aparelho celular do paciente sem autorização judicial, mas com a permissão do acusado, o que, de fato, não configuraria a ilegalidade. Ademais, ainda que a referida prova fosse desconsiderada, subsistem elementos autônomos suficientes para manter a condenação pelo crime de tráfico de drogas.
+ ..
+Habeas corpus não conhecido. Concedo a ordem, de ofício, somente para determinar que as instâncias ordinárias refaçam os cálculos da dosimetria penal do paciente de forma a desconsiderar os óbices anteriormente apontados. (HC 537.274/MG, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO, DESEMBARGADOR CONVOCADO DO TJPE, QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019)
+Por fim, mesmo que assim não fosse, observa-se que a prática delitiva foi demonstrada também por outros meios de prova, robustos e independentes das mensagens de WhatsApp acessadas no celular apreendido, constando da sentença condenatória que "durante todo o procedimento o acusado reconheceu ser o autor das postagens, inexistindo qualquer questionamento sobre a veracidade dos áudios que embasam a acusação ou de sua autoria" (e-STJ, fl. 654)
+Ante o exposto, dou provimento ao agravo regimental, tão somente para afastar a incidência da Súmula 182/STJ, negando, todavia, provimento ao recurso especial.
+É como voto.
