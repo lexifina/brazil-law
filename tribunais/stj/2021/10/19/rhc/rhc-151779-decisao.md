@@ -1,0 +1,15 @@
+DECISÃO
+LUÍS CARLOS DE BARROS TEIXEIRA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Ceará no HC n.0629410-80.2021.8.06.0000.
+Neste recurso, a defesa busca a soltura do acusado, ao sustentar haver excesso de prazo para a conclusão do processo e inobservância do prazo previsto no art. 316, parágrafo único, do CPP.
+Quanto à primeira tese, em consulta ao site do TJCE, o gabinete verificou que a instrução foi encerrada e o processo está, desde 19/8/2021, em fase de apresentação de alegações finais.
+Portanto, nos termos da Súmula n. 52 do STJ, a alegação de excesso de prazo para a formação da culpa está superada, in verbis: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+No tocante ao reexame da custódia cautelar, o Tribunala quoasseverou que "tal matéria também foi alvo de decisão recente (14/06/21) proferida pelo juízo a quo (proc. nº 0010087-71.2021.8.06.0087)" (fl. 126, destaquei). Assim, não há plausibilidade jurídica no pleito defensivo, uma vez que, à época da prolação do acórdão (21/7/2021), a prisão preventiva do recorrente havia sido analisada há pouco mais de um mês.
+Ressalto que esta Corte Superior entende queeventual descumprimento do prazo de 90 dias para o reexame da prisão preventiva não ocasiona, de forma automática, a revogação da medida cautelar, mas a determinação para que o Juiz verifique se subsistem seus motivos, o que também pode ser provocado pela defesa.
+Nessa perspectiva:
+ ..  O entendimento das duas Turmas Criminais que compõem o Superior Tribunal de Justiça é no sentido de que o prazo de 90 dias para reavaliação dos fundamentos da prisão (conforme disposto no art.316, parágrafo único, do CPP) não é peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade. No mesmo sentido, o Supremo Tribunal Federal, em recente decisão (SL 1.395/SP, Ministro Presidente), firmou entendimento no sentido de que a inobservância da reavaliação da prisão no prazo de 90 dias, previsto no art. 316, parágrafo único, do CPP, com a redação dada pela Lei 13.964/2019, não resulta na revogação automática da prisão preventiva.
+(HC n.621.416/RS, relator Ministro Sebastião Reis Júnior, 6ª T., DJe 16/4/2021).
+ ..  Tendo a segregação cautelar sido reavaliada e mantida pelo Juízo singular, não há falar em ofensa ao parágrafo único do art. 316 do CPP. Cumpre salientar que o período de 90 dias estipulado no referido dispositivo legal não se trata de prazo peremptório, de modo que eventual atraso na reanálise da necessidade da custódia não induz ao reconhecimento automático de ilegalidade da prisão que justifique a liberdade do réu.
+5. Habeas corpus não conhecido.
+(HC n. 618.903/PR, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 16/8/2021)
+À vista do exposto, julgo parcialmente prejudicado o recurso em habeas corpus e, na extensão conhecida, nego-lhe provimento.
+Publique-se e intimem-se.
