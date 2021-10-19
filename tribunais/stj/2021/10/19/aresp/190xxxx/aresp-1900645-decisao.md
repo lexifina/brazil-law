@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+CÍVEL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANOS MORAIS. VÍCIOS CONSTRUTIVOS E DE PROJETO. PROGRAMA MINHA CASA, MINHA VIDA. SENTENÇA DE PROCEDÊNCIA. RECURSO DA CONSTRUTORA REQUERIDA. CONHECIMENTO. ALEGADA INTEMPESTIVIDADE DO RECURSO PELA AUTORA EM CONTRARRAZÕES. NÃO OCORRÊNCIA. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO QUE INTERROMPERAM O PRAZO PARA INTERPOSIÇÃO DE RECURSO. PRAZO RECURSAL QUE TEVE INÍCIO COM A INTIMAÇÃO DA DECISÃO QUE REJEITOU OS EMBARGOS. APELAÇÃO INTERPOSTA DENTRO DO PRAZO. TEMPESTIVIDADE VERIFICADA. RECURSO CONHECIDO. MÉRITO. I. DANOS MORAIS. PRETENDIDA EXCLUSÃO. INVIABILIDADE NO CASO CONCRETO. CIRCUNSTÂNCIAS QUE EVIDENCIAM A SUA OCORRÊNCIA. VÍCIOS CONSTRUTIVOS E DE PROJETO QUE COMPROMETERAM A INCOLUMIDADE E A HABITABILIDADE DO IMÓVEL. ADEMAIS, REPAROS QUE DEMANDARÃO CONSIDERÁVEL LAPSO TEMPORAL. SITUAÇÃO QUE EXCEDE O MERO DISSABOR OU DESCONFORTO. INDENIZAÇÃO DEVIDA. II. QUANTUM INDENIZATÓRIO. PRETENDIDA REDUÇÃO. ADEQUAÇÃO COM OS PARÂMETROS ADOTADOS POR ESTA CÂMARA EM CASOS ANÁLOGOS. SENTENÇA PONTUALMENTE REFORMADA. ÔNUS SUCUMBENCIAIS MANTIDOS.
+RECURSO PARCIALMENTE PROVIDO.
+Nas razões de recurso especial, a ora agravante alega violação dos artigos 884 e 944 do Código Civil.
+Não merece reforma a decisão agravada.
+Com efeito, apenas com o reexame do conjunto fático-probatório dos autos seria possível infirmar as conclusões do Tribunal de origem, que consignou (fls. 1.023-1.025/e-STJ):
+Pugnou a requerida apelante pelo afastamento da condenação por danos morais, ou, sucessivamente, pela redução do indenizatório, arbitrado em R$ quantum 6.000,00.
+Pois bem.
+É certo que a existência de vícios construtivos, por si só, não ocasiona automaticamente o dano moral.
+No caso concreto, porém, ainda que não haja risco imediato ou a médio prazo de desabamento total ou parcial do imóvel, há de se ponderar que os defeitos constatados comprometeram a incolumidade e habitabilidade do imóvel, conforme atestado pelo perito (M. 327.1, f. 11):
+"w) Pode o perito esclarecer se, além dos vícios visivelmente detectados, se existem danos a estrutura provocados pela má qualidade do material utilizado na sua construção, que venham a pôr risco a incolumidade do imóvel
+Resposta: Pelo observado no local, os danos se estabilizaram assim como o que afetou a incolumidade do bem, a reforma deve restaurá-lo.
+x) Informar se há riscos de desabamento total ou parcial do imóvel Resposta: Não se observa tal risco no médio prazo o que deve refletir em tranquilidade aos moradores após a reforma.
+y) Informar os prejuízos causados para à habitabilidade do imóvel do Autor pelos danos encontrados (síndrome do prédio doente);
+Resposta: A habitabilidade está atualmente um pouco comprometida principalmente devido às rachaduras na calçada externa e a problemas com a porta da cozinha, porém não se verifica síndrome do prédio doente."
+Nota-se, portanto, que a apelante projetou, edificou, vendeu e entregou imóvel que não proporcionava a devida e necessária segurança, causando intranquilidade a seus moradores.
+Destaque-se o caráter de essencialidade do imóvel, destinado à moradia da apelada, o que impunha à apelante o máximo cuidado no planejamento, projeto e execução da obra.
+A aquisição da casa própria consiste em um dos maiores objetivos da maioria das pessoas. Logo, a compra de um imóvel sem as básicas condições de uso e moradia, eivado de vícios construtivos como a perícia comprovou no caso, seguramente frustrou a expectativa da autora.
+Ainda, há de se ponderar a extensão dos danos constatados e o tempo estimado para seus reparos, que segundo o perito é de 3 a 4 semanas (cf. M. 327.1, f. 12), além da necessidade de a autora deixar o imóvel durante a reforma para sua segurança (M. 327.1, fs. 8/9):
+"k) A parte autora necessita deixar o imóvel para conserto dos defeitos
+l) Resposta: Sem dúvidas será necessário deixar o bem durante a reforma, pois o porte da reforma necessária inviabiliza durante a mesma, a segurança do imóvel, já que serão removidas portas e janelas. Colocaria em risco a segurança de saúde, já que será gerado uma grande quantidade de pó de toda forma e sujeira em geral, bem como será necessária a demolição local de um pequeno trecho de parede o que coloca em risco a segurança de quem transita próximo Não há como executar tal reforma com os moradores no local."
+Tal situação excede o mero aborrecimento ou desconforto à autora
+Por isso, acertada a condenação da requerida ao pagamento de indenização a título de danos morais à autora.
+Do indenizatório quantum É certo que a indenização por dano moral encerra simultaneamente um caráter punitivo (pois visa a sancionar o autor da lesão de modo que não torne a praticar o ato), compensatório (à medida que objetiva amenizar a dor do ofendido que, com o valor da indenização pode adquirir algum bem ou serviço que lhe dê algum prazer, ou meramente acumulá-lo) e pedagógico (ao servir de lição comum, a toda sociedade, sobre as consequências de ações lesivas a terceiros).
+Já se discorreu acima sobre o ato lesivo.
+No caso, há que se conferir tratamento diferenciado e compatível com o porte da empresa requerida, em comparação à promitente-compradora. Ainda, deve o valor da indenização também servir como fator de desestímulo da reiteração da conduta reprovável.
+Em casos análogos, esta Câmara tem fixado a indenização por danos morais em R$ 5.000,00. A exemplo: Ap. 0003657-90.2015.8.16.0037 (6ª CC - Rel.: Des. Irajá Romeo Hilgenberg Prestes Mattar - J. 29.05.2020); Ap. 0047386-07.2016.8.16.0014 (6ª CC - Rel.: Des. Robson Marques Cury - J. 12.02.2019); Ap. 0005279-46.2016.8.16.0014 (6ª CC - Rel.: Des. Renato Lopes de Paiva - J. 06.11.2018).
+Dessa forma, levando em consideração os transtornos causados à autora e as demais circunstâncias do caso em apreço, a indenização a título de danos morais deverá ser readequada para R$ 5.000,00, montante que esta Câmara entende como adequado e razoável para compensar o dano moral sofrido e cumprir a função punitiva e pedagógica da indenização.
+Assim, é de se dar parcial provimento ao recurso para reformar a sentença neste ponto.
+No mesmo sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. VÍCIOS DE CONSTRUÇÃO. DANOS MORAIS COMPROVADOS. SÚMULA 7/STJ. JUROS MORATÓRIOS. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. CITAÇÃO. 1. O Tribunal de origem concluiu ser devida indenização por danos morais pelos transtornos causados aos agravados em razão dos vícios de construção que impediram a utilização integral do imóvel. A alteração de tal conclusão demanda o revolvimento do suporte fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+2. (..)
+3. Agravo interno não provido.
+(AgInt no REsp 1371045/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 2/5/2018)
+Da mesma forma, no que se refere ao valor da indenização, é certo que o Superior Tribunal de Justiça considera excepcionalmente cabível, em recurso especial, o reexame do valor arbitrado a título de danos morais, quando for ele excessivo ou irrisório (AgInt no AREsp 1.818.409/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20.9.2021, DJe 23.9.2021 e AgInt no REsp 1.869.072/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20.9.2021, DJe 22.9.2021), situação diversa da destes autos, em que o valor estabelecido pelo Tribunal estadual - R$ 5.000,00 (cinco mil reais) - mostra-se dentro dos padrões da razoabilidade e proporcionalidade.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
