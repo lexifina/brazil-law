@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial em razão de sua intempestividade, uma vez quea parte recorrente foi intimada da decisão agravada em 18/02/2020, sendo o agravo somente interposto em 16/03/2020.
+A agravante insurge-se contra a decisão agravada alegando ser manifesta a tempestividade do recurso interposto, porquanto devidamente demonstrada nas razões do recurso a suspensão dos prazos processuais em 21, 24 a 27/02/2020.
+Aduz que o CPC/2015 estabelece o princípio da primazia do mérito, de modo que, constatada a ausência de comprovação de feriado local, incumbia ao relator a intimação da agravante para sanar tal nulidade, porquanto é um vício sanável para acesso à justiça.
+Pugna pela reconsideração da decisão agravada ou apresentação deste agravo em mesa para apreciação do Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTEMPESTIVIDADE. FERIADO LOCAL. SUSPENSÃO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO NA INTERPOSIÇÃO DO RECURSO. REGULARIZAÇÃO POSTERIOR. IMPOSSIBILIDADE. PRECEDENTE DA CORTE ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Encontra-se pacificado nesta Corte entendimento segundo o qual a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção do feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Precedentes.
+3.2. No que diz respeito à comprovação posterior de feriado local, a CorteEspecial do STJ, nos autos do REsp 1.813.684/SP, decidiu que o feriadodeve ser comprovado no ato de interposição do recurso, tendo modulado aquestão no sentido de permitir a comprovação do feriado da segunda-feirade Carnaval aos recursos interpostos até a publicação do julgado emreferência.
+4. Não se conhece do agravo em recurso especial manifestamente inadmissível, porquanto intempestivo, eis que interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c.c. os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil. Inteligência do art. 1.003, § 6º, do CPC/2015.
+5. Agravo interno não provido.
+VOTO
+O presente recurso não merece ser provido.
+Observa-se que a decisão da presidência constatou a intempestividade do agravo em recurso especial da agravante, uma vez que protocolado em 16/03/2020contra a decisão agravada publicada em 18/02/2020, fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c.c. os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Ressalto que o entendimento pacificado nesta Corte é no sentido de que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública (cf. AgRg no AREsp 615.093/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 02/06/2015; AgRg no Ag 1288387/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 18/02/2015; AgRg no AREsp 527.290/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 22/08/2014).
+Cumpre asseverar que a Corte Especial deste Superior Tribunal de Justiça firmou orientação nos autos do REsp 1.813.684/SP que o feriado deve sercomprovado no ato de interposição do recurso, tendo modulado a questão nosentido de permitir a comprovação do feriado da segunda-feira de Carnavalaos recursos interpostos até a publicação do julgado em referência.
+A propósito, a ementa do julgado em referência:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. FERIADO LOCAL. NECESSIDADE DECOMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. MODULAÇÃO DOS EFEITOS DADECISÃO. NECESSIDADE. SEGURANÇA JURÍDICA. PROTEÇÃO DA CONFIANÇA.
+1. O novo Código de Processo Civil inovou ao estabelecer, de formaexpressa, no § 6º do art. 1.003 que "o recorrente comprovará a ocorrênciade feriado local no ato de interposição do recurso". A interpretaçãosistemática do CPC/2015, notadamente do § 3º do art.1.029 e do § 2º do art. 1.036, conduz à conclusão de que o novo diplomaatribuiu à intempestividade o epíteto de vício grave, não havendo sefalar, portanto, em possibilidade de saná-lo por meio da incidência dodisposto no parágrafo único do art. 932 do mesmo Código.
+2. Assim, sob a vigência do CPC/2015, é necessária a comprovação nos autosde feriado local por meio de documento idôneo no ato de interposição dorecurso.
+3. Não se pode ignorar, todavia, o elastecido período em que vigorou, noâmbito do Supremo Tribunal Federal e desta Corte Superior, o entendimentode que seria possível a comprovação posterior do feriado local, de modoque não parece razoável alterar-se a jurisprudência já consolidada desteSuperior Tribunal, sem se atentar para a necessidade de garantir asegurança das relações jurídicas e as expectativas legítimas dosjurisdicionados.
+4. É bem de ver que há a possibilidade de modulação dos efeitos dasdecisões em casos excepcionais, como instrumento vocacionado,eminentemente, a garantir a segurança indispensável das relaçõesjurídicas, sejam materiais, sejam processuais.
+5. Destarte, é necessário e razoável, ante o amplo debate sobre o temainstalado nesta Corte Especial e considerando os princípios da segurançajurídica, da proteção da confiança, da isonomia e da primazia da decisãode mérito, que sejam modulados os efeitos da presente decisão, de modo queseja aplicada, tão somente, aos recursos interpostos após a publicação doacórdão respectivo, a teor do § 3º do art. 927 do CPC/2015.
+6. No caso concreto, compulsando os autos, observa-se que, conformedocumentação colacionada à fl. 918, os recorrentes, no âmbito do agravointerno, comprovaram a ocorrência de feriado local no dia 27/2/2017,
+segunda-feira de carnaval, motivo pelo qual, tendo o prazo recursal seiniciado em 15/2/2017 (quarta-feira), o recurso especial interposto em9/3/2017 (quinta-feira) deve ser considerado tempestivo.
+7. Recurso especial conhecido.
+(REsp 1813684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministro LUISFELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/10/2019, DJe 18/11/2019)
+Com essas considerações, a decisão agravada merece ser mantida em todos os seus termos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
