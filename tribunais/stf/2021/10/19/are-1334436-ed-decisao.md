@@ -1,0 +1,19 @@
+EMBARGOS DE DECLARAÇÃO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. ART. 85 DO CPC/2015. VERBA HONORÁRIA FIXADA NA ORIGEM. OMISSÃO CONFIGURADA. DECLARATÓRIOS ACOLHIDOS. 1. Nos termos do art. 85, § 11, do CPC/2015, “o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente”. 2. Fixada pela instância ordinária, majora-se a verba honorária em 10% (dez por cento), respeitados os limites previstos nos §§ 2º e 3º do art. 85 do CPC/2015. 3. Embargos de declaração acolhidos tão somente para majorar os honorários advocatícios.
+    Vistos etc.
+    1. Tomaz Edison Siqueira Ribeiro opõe embargos de declaração da decisão monocrática pela qual neguei seguimento ao extraordinário em epígrafe. Defende omisso o julgado, à míngua da majoração dos honorários advocatícios.
+    2. Intimada, a Universidade Federal do Rio Grande do Sul – UFRGS não apresentou contraminuta.
+    3. Recurso extraordinário interposto sob a égide do CPC/2015.
+    É o relatório.
+    Decido.
+    1. Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios.
+    2. O art. 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base nesse permissivo legal, procedo à apreciação singular destes declaratórios.
+    3. Preconiza o § 11 do art. 85 do CPC que o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. (destaquei)
+    4. A primeira Turma desta Suprema Corte pacificou o entendimento de que majora-se a verba honorária, ainda quando não apresentadas contrarrazões ao recurso, v.g. ARE 964.347-AgR, Redator p/acórdão Min. Roberto Barroso, DJe 25.10.2016 e ARE 971.774-AgR, Redator p/acórdão Min. Edson Fachin, 06.9.2016, DJe 19.10.2016, bem como ARE 962.642-AgR, no qual tornei-me Redatora do acórdão e cuja ementa transcrevo:
+    “EMENTA DIREITO ADMINISTRATIVO. GRATIFICAÇÃO. PROFESSOR. LEI COMPLEMENTAR ESTADUAL 67/1999. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE CONTRAMINUTA. IRRELEVÂNCIA. PRECEDENTES. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. [...] 2. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. Precedentes: ARE 964.347-AgR, Redator p/ Acórdão Min. Roberto Barroso, 1ª Turma, DJe 25.10.2016, ARE 971774 AgR, Red. p/ Acórdão Min. Edson Fachin, 1ª Turma, DJe 19.10.2016. 3. Agravo regimental conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 5% (cinco por cento) sobre o valor atualizado da causa.” (DJe-087 de 27.4.2017 – destaquei)
+    5. Na hipótese, anteriormente fixada a verba honorária (edoc. 256, fl. 13), expressamente requerida a sua majoração (edoc. 271, fl. 33), bem como ausente benefício da gratuidade da Justiça, de rigor acolher os declaratórios para, sanando o omissão, majorar em 10% (dez por cento) os honorários, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015.
+    5. Embargos de declaração acolhidos tão somente para, sanando a omissão, majorar a verba honorária.
+    Publique-se.
+    Brasília, 19 de outubro de 2021.
+Ministra Rosa Weber
+Relatora
