@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão que não conheceu do Agravo em Recurso Especial, confirmando o Juízo prelibatório.
+A controvérsia diz respeito a responsabilidade pelos custos de remanejamento da infraestrutura instalada nas faixas de domínio das rodovias Estaduais.
+Defende EDP São Paulo Distribuição de Energia S.A.:
+12. Insta salientar que a AGRAVANTE embasou sua tese de defesa e recursal aduzindo flagrante contrariedade ao disposto nos artigos 1º, 2º e 6º do Decreto Federal nº 84.398/1980; artigos 1º, 11, da Lei nº 8.897/1995; artigos 489, II e 1.022, II do CPC/2015.
+ ..
+15. Em que pese todo respeito que a AGRAVANTE nutre pelo i. Ministro, fato é que a r. decisum foi proferido, d.m.v, em completo desacordo com a legislação que regula a matéria, conforme será detalhadamente demonstrado, pelo que, certamente deverá ser revista por esta e. Turma, na forma dos fatos e fundamentos que seguem abaixo aduzidos.
+ ..
+17. Em absoluto, de maneira alguma e em nenhuma hipótese, se pretendeu a discussão de cláusulas contratuais, sejam as estabelecidas entre a Autarquia e sua Agência Reguladora (ANTT), em nome do Poder Concedente, sejam os termos do contrato celebrado entre a Concessionária Agravante junto à ANELL, também Agência Reguladora a representar uma vez mais o Poder Concedente!
+18. Do mesmo modo, o objeto do presente recurso não vislumbra o reexame de fatos ou provas - diga-se, muito pelo contrário -, mas sim a análise da negativa de vigência aos dispositivos do Decreto Federal nº 84.398/1980, assim como aos artigos 1º, 11, da Lei nº 8.987/1995; e, artigos 489, II e 1.022, II do CPC/2015. Todos, mas principalmente o Decreto Federal mencionado, em consonância com a decisão da lavra do Ministro Gilmar Mendes no RE nº 1.242.513, pela validade, vigência e eficácia do mesmo.
+19. Cumpre registrar que a inaplicabilidade das Súmulas 5 e 7 do STJ, d.m.v, foi expressamente demonstrada em subcapítulo próprio do Agravo em Recurso Especial, qual seja III. a, motivo pelo qual, também por este ângulo, a decisão que ora se agrava merece ser reformada!
+20. Neste sentido, a AGRAVANTE é concessionária de serviço público por delegação da União Federal, à vista do artigo 21, XII, "b", e 22, IV, ambos da Carta Magna, tendo celebrado Contato de Concessão de Distribuição nº 202/98 - ANEEL com a Agência Nacional de Energia Elétrica - ANEEL.
+ ..
+27. Portanto, constata-se que eventuais Termos de Compromisso elaborados pelo AGRAVADO ou a existência de genéricas Portarias e Resoluções feitas pelo DNER, ANTT e DNIT simplesmente não podem ser sobrepostas à específica norma e contrato de âmbito Federal.
+28. Neste sentido, da análise de tais argumentos apresentados pela AGRAVANTE, resta cristalino que não há questionamento sobre matéria fático probatória ou muito menos a necessidade de sua reanálise para o deslinde do caso em tela, e portanto, inaplicável, d.m.v., o verbete sumular nº 182 do STJ, assim como a redação do artigo 1.022 do CPC foi exaustivamente debatida e, mesmo instado a se manifestar em relação à negativa de vigência aos dispositivos do Decreto Federal nº 84.398/1980, o Tribunal de Justiça do Estado de São Paulo não o fez, e, desta forma, presentes os requisitos de admissibilidade do presente recurso, confia a AGRAVANTE em seu provimento
+Impugnação às fls. 581-584, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICAÇÃO DE RODOVIA ESTADUAL. REMOÇÃO DE POSTES DE ENERGIA. RESPONSABILIDADE PELOS CUSTOS DE REMANEJAMENTO. VIÉS CONSTITUCIONAL DADO À MATÉRIA. CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. APLICAÇÃO.
+1. Cuida-se de Agravo Interno interposto contra decisão que não conheceu do Agravo em Recurso Especial, confirmando o Juízo prelibatório.
+2. A controvérsia diz respeito à responsabilidade pelos custos de remanejamento da infraestrutura instalada nas faixas de domínio das rodovias estaduais.
+3. O Tribunal a quo manteve integralmente a sentença e assentou que não se aplica ao caso o Decreto 84.398/1980, porque, pelo princípio jurídico da autonomia dos Entes Federados, os regulamentos federais não podem impor sua eficácia às normas dos demais entes, devendo, pois, "ser observado o que dispõe a Portaria SUP/DER-050 de 21.07.2009, que aprovou o regulamento para autorização de uso da faixa de domínio de estradas e rodovias integrantes da malha rodoviária do DER". A Corte estadual ainda afastou a alegação da parte de que foi coagida a aderir às regras do DER, concluindo pela prevalência do contrato entre as partes.
+4. Na decisão ora agravada, entendeu-se que a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos e na análise das cláusulas do contrato administrativo, cujo reexame é inviável no Superior Tribunal de Justiça, ante os óbices das suas Súmulas 5 e 7.
+5. Sem descurar que a motivação acima é suficiente para manutenção do decisum, entendo necessário acrescentar que o acórdão baseou-se no princípio constitucional da tripartição autônoma dos entes federados para afastar o Decreto presidencial em comento (Decreto Federal 84.398/1980). Tal exame está jungido à excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14 de setembro de 2021.
+O Tribunal a quo julgou:
+(..)
+Primeiramente, desnecessária nova análise da tese trazida pela apelante, acerca da necessidade de suspensão do feito até o julgamento do Tema nº 261 do Supremo Tribunal Federal, eis que a questão já foi fartamente discutida em decisão monocrática proferida por este Relator em Petição nº 2027715-85.2020.8.26.0000, posteriormente, por ocasião do julgamento do Agravo Interno nº 2027715-85.2020.8.26.0000/50000 (Voto nº 30101), ocorrido em 20/03/2020 (fls. 422/430), que transcrevo em parte:
+Inaplicável ao presente caso a tese do Tema 261 do STF, tendo em vista que esta diz respeito a ser inconstitucional a cobrança de taxa, espécie tributária, pelo uso de espaços públicos dos municípios por concessionárias prestadoras do serviço público de fornecimento de energia elétrica. No presente caso discute-se a responsabilidade pelo custeio de remoção dos postes de energia elétrica em razão da ampliação da rodovia, diferentemente do discutido no referido tema.
+Da mesma forma, também já analisada na mesma decisão supramencionada, a tese acerca da aplicabilidade ao caso do Decreto Federal nº 84.398/80, nos seguintes termos:
+Também resta superada a previsão contida no Decreto Federal nº 84.398/80, com a redação dada pelo Decreto Federal nº 86.859/82, conforme, inclusive, já decidido por esta C. 9ª Câmara de Direito Público:
+(..)
+À luz de todo o exposto, forçoso reconhecer que os regulamentos federais em comento não podem impor sua eficácia às normas dos demais entes federados. Sendo assim, inaplicável, na espécie, o contido no artigo 6º, inciso I, do Decreto nº 84.398/80, objeto de argumentação legal da ré, para impor à autora o ônus da retirada e recolocação dos postes em questão. (Apelação nº 0216755-43.2008.8.26.0000, Rel. Des. Rebouças de Carvalho, j. 04.03.2009).
+Ademais as previsões contratuais indicadas pela ré como fundamento de seus argumentos visam, apenas, regular as relações entre o poder público concedente e a concessionária tomadora dos serviços de administração da rodovia.
+(..)
+Assim sendo, inequívoca a inaplicabilidade ao caso das regras estabelecidas pelo Decreto Federal nº 84.398/80, devendo, portanto, ser observado o que dispõe a Portaria SUP/DER-050 de 21.07.2009, que aprovou o regulamento para autorização de uso da faixa de domínio de estradas e rodovias integrantes da malha rodoviária do DER, nos seguintes termos:
+(..)
+Ademais, é absurda a alegação da apelante de que teria aderido a tais regras mediante coação do DER, tendo em vista que sequer ingressou com consulta perante às agências reguladoras acerca do assunto ou ingressou com pedido de revisão dos termos definidos.
+Referido regulamento foi expedido em caráter geral e dentro das competências do DER, incidindo o que disciplina o art. 153 do Código Civil, no sentido que: "Não se considera coação a ameaça do exercício normal de um direito, nem o simples temor reverencial".
+E, como bem salientou o Magistrado de Primeiro Grau, a apelante é "uma empresa economicamente robusta e a adesão ao referido regulamento lhe impôs obrigações absolutamente normais, não havendo que se falar em nulidade das cláusulas contratuais".
+Assim sendo, por todo o acima exposto, bem como, pelo fato de ser a concessionária de energia elétrica quem usufrui diretamente dos lucros auferidos pela transmissão e distribuição da energia efetuada através da infraestrutura situada na rodovia administrada pela apelada, deverá arcar com os custos de remoção e realocação de postes e equipamentos da rede, uma vez que tais obras são relacionadas diretamente ao serviço público de distribuição de energia elétrica do qual tem a concessão, bem como em razão dos comandos constitucional e legal de manter um serviço adequado.
+(..)
+Diante disso, entendo correta a r. sentença que julgou procedente a ação, devendo ser mantida por seus próprios fundamentos.
+Por fim, em razão da interposição do presente recurso, nos termos do art. 85, §§1º e 11, do Código de Processo Civil, majoro os honorários advocatícios devidos pela apelante, para o patamar de R$ 6.000,00 (seis mil reais).
+Ocorrendo isto, NEGO PROVIMENTO AO RECURSO, nos termos supramencionados.
+Em resumo, o Tribunal a quo manteve integralmente a sentença e assentou que não se aplica ao caso o Decreto 84.398/1980, porque, pelo princípio jurídico da autonomia dos Entes Federados, os regulamentos federais não podem impor sua eficácia às normas dos demais entes, devendo, pois, "ser observado o que dispõe a Portaria SUP/DER-050 de 21.07.2009, que aprovou o regulamento para autorização de uso da faixa de domínio de estradas e rodovias integrantes da malha rodoviária do DER". A Corte estadual ainda afastou a alegação da parte de que foi coagida a aderir às regras do DER, concluindo pela prevalência do contrato entre as partes.
+O Recurso Especial não foi admitido por incidência da Súmula 7/STJ e ausência de violação aos arts. 489 e 1022 do Código de Processo Civil.
+Confirmando o Juízo prelibatório, esta relatoria consignou:
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos artigos 489 e 1.022 do CPC/2015.
+Conclui-se que a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos e na análise das cláusulas do contrato administrativo, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice das Súmulas 5 e 7 do STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal.
+Sem descurar que a motivação acima é suficiente para manutenção do decisum, entendo necessário acrescentar que o acórdão baseou-se no princípio constitucional da tripartição autônoma dos entes federados para afastar o Decreto presidencial em comento (Decreto Federal 84.398/1980). Tal exame está jungido à excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
