@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TESE SURGIDA APENAS POR OCASIÃO DOS EMBARGOS DE DECLARAÇÃO. NÃO ENFRENTAMENTO DA TESE PELA CORTE A QUO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A exigência constitucional do prequestionamento é inafastável, sendo um dos principais pressupostos ao conhecimento do recurso especial, inclusive quando a questão for de ordem pública.
+2. Para caracterização do prequestionamento, era imprescindível que os argumentos deduzidos no recurso especial - no tocante à alegação de que a intimação pessoal do Defensor Dativo se deu apenas em 16/08/2019 e, portanto, seria tempestivo o recurso integrativo apresentado na mesma data - fossem debatidos pelo Tribunal a quo à luz da legislação federal indicada (art. 370, § 4.º, do Código de Processo Penal), o que não ocorreu na espécie.
+3. O prequestionamento ficto demanda que a parte recorrente, nas razões do recurso especial, aponte violação ao art. 619 do Código de Processo Penal, o que não ocorreu na hipótese em apreço. Precedentes do STJ.
+4. Segundo entendimento desta Corte, "ainda que a pretensa violação de lei federal tenha surgido na prolação do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão. Se assim não se fez, está ausente o necessário prequestionamento" (AgRg no AREsp 949.110/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+5. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por MARCELO NATHAN DO NASCIMENTO SOUZA contra decisão de minha lavra, sintetizada nos termos da seguinte ementa (fl. 824; sem grifos no original):
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TESE SURGIDA APENAS POR OCASIÃO DOS EMBARGOS DE DECLARAÇÃO. NÃO ENFRENTAMENTO DA TESE PELA CORTE A QUO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Segundo o Agravante, a par da clareza do acórdão proferido no julgamento dos aclaratórios, "houve o prequestionamento ficto da matéria quando da interposição do Recurso Especial" (fl. 832; sem grifos no original).
+Pugna, assim, pela reconsideração da decisão agravada ou pela submissão do feito ao Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TESE SURGIDA APENAS POR OCASIÃO DOS EMBARGOS DE DECLARAÇÃO. NÃO ENFRENTAMENTO DA TESE PELA CORTE A QUO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A exigência constitucional do prequestionamento é inafastável, sendo um dos principais pressupostos ao conhecimento do recurso especial, inclusive quando a questão for de ordem pública.
+2. Para caracterização do prequestionamento, era imprescindível que os argumentos deduzidos no recurso especial - no tocante à alegação de que a intimação pessoal do Defensor Dativo se deu apenas em 16/08/2019 e, portanto, seria tempestivo o recurso integrativo apresentado na mesma data - fossem debatidos pelo Tribunal a quo à luz da legislação federal indicada (art. 370, § 4.º, do Código de Processo Penal), o que não ocorreu na espécie.
+3. O prequestionamento ficto demanda que a parte recorrente, nas razões do recurso especial, aponte violação ao art. 619 do Código de Processo Penal, o que não ocorreu na hipótese em apreço. Precedentes do STJ.
+4. Segundo entendimento desta Corte, "ainda que a pretensa violação de lei federal tenha surgido na prolação do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão. Se assim não se fez, está ausente o necessário prequestionamento" (AgRg no AREsp 949.110/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+5. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Mantenho a convicção formada em cognição singular, na qual conheci do agravo para não conhecer do recurso especial, por ausência de prequestionamento.
+Nos termos do inciso III do art. 105 da Constituição da República, compete a este Superior Tribunal "julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios".
+Vale dizer, para que o mérito das razões recursais seja cognoscível na Superior Instância, faz-se necessário que o Tribunal a quo tenha sobre ele se manifestado, ainda que implicitamente, ou não haverá "causa decidida", isto é, prequestionamento.
+Portanto, a exigência constitucional do prequestionamento é inafastável, sendo um dos principais pressupostos ao conhecimento do recurso especial, inclusive quando a questão for de ordem pública.
+Para caracterização do prequestionamento, era imprescindível que os argumentos deduzidos no recurso especial - no tocante à alegação de que a intimação pessoal do Defensor Dativo se deu apenas em 16/08/2019 e, portanto, seria tempestivo o recurso integrativo apresentado na mesma data - fossem debatidos pelo Tribunal a quo à luz da legislação federal indicada (art. 370, § 4.º, do Código de Processo Penal), o que não ocorreu na espécie.
+Incidem, de fato, os óbices dos Enunciados n. 282 e 356 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Ainda, esclareço que o prequestionamento ficto demanda que a parte recorrente, nas razões do recurso especial, aponte violação ao art. 619 do Código de Processo Penal, o que não ocorreu na hipótese em apreço.
+A propósito:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. INAPLICABILIDADE. REINCIDÊNCIA DO RÉU E PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME SEMIABERTO. POSSIBILIDADE. CRIMES DE VIOLAÇÃO DE DOMICÍLIO E LESÃO CORPORAL. DELITOS AUTÔNOMOS. BENS JURÍDICOS DISTINTOS. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes." (AgRg no REsp 1.669.113/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp 1.902.294/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021.)
+Em conclusão, como já dito na decisão agravada, segundo entendimento desta Corte, "ainda que a pretensa violação de lei federal tenha surgido na prolação do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão. Se assim não se fez, está ausente o necessário prequestionamento" (AgRg no AREsp 949.110/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
