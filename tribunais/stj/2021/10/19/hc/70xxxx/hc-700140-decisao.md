@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VANDERSON APARECIDO MOREIRA contra decisão monocrática proferida pelo Desembargador do Tribunal de Justiça do Estado de Minas Geraisque indeferiu o pedido liminar contido no HC n.º 1.0000.21.220990-2/000.
+Depreende-se dos autos que, no dia 4/10/2021, o paciente foi preso em flagrantepela suposta prática dos crimes de roubo e roubo majorado, previstos no art. 157, caput, e no art. 157, §º, inciso II, ambos do Código Penal, sendo a prisão posteriormente convertida em preventiva peloJuízo da Comarca de Conceição das Alagoas/MG.
+Irresignada, a defesa impetrou habeas corpus, com pedido liminar,perante a Corte local, suscitando a incompetência do Juízo que homologou o flagrante e o converteu em prisão preventiva, ao argumento de queos supostos crimes teriam ocorrido no Estado de São Paulo. Ainda, sustentou a ausência de prova da materialidade e indícios de autoria em relação ao paciente, ressaltando que a vítima não teria reconhecido o paciente como autor ou coator dos supostos crimes de roubo.
+Contudo, em decisão monocrática proferida no dia 8/10/2021, o pedido liminar foi indeferido pelo Desembargador Relator, Dr. OCTAVIO AUGUSTO DE NIGRIS BOCCALINI (e-STJ fls. 287/288).
+Daí o presente habeas corpus, no qual a defesa alega ser caso de superação da Súmula 691/STF, insistindo no reconhecimento da incompetência do Juízo que recebeu e homologou os autos de prisão em flagrante, bem como converteu a prisão em flagrante em prisão preventiva de supostos delitos cometidos em Comarca diversa, notadamente no Estado de São Paulo.
+Segundo a inicial, "consta das comunicações feitas pelas Polícia Militar do estado de São Paulo/SP que supostamente havia ocorrido crimes de roubos nas cidades daquele Estado e, que posterior a isto, segundoo APF, já na cidade de Conceição das Alagoas/MG, foi encontrado um veículo semelhante àquele que deu fuga aos supostos assaltantes, sendo que o condutor de tal veículo era o paciente" (e-STJ fl. 11).
+Ao final, requer, liminarmente e no mérito, seja o paciente posto imediatamente em liberdade, reconhecendoa nulidade das decisões praticadas pelo Juízo apontado como incompetente.
+É o relatório. Decido.
+De plano, destaco que não é possível dar seguimento à presente impetração.
+Como é de conhecimento, o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+No mesmo sentido, confira-se o seguinte precedente do STJ:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL - STF. DECISÃO DO RELATOR QUE, EMBORA SUCINTA, FUNDAMENTA O INDEFERIMENTO DA LIMINAR NA AUSÊNCIA DOS REQUISITOS EXIGIDOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE CAPAZ DE SUPERAR O ÓBICE DA SÚMULA 691/STF. IMPOSSIBILIDADE DE MANIFESTAÇÃO DESTA CORTE, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1. Não é teratológica a decisão do Desembargador relator que, vislumbrando a impossibilidade de apreciação da matéria em sede de juízo perfunctório, tendo em vista a faculdade que lhe é concedida, solicita informações ao Juízo de origem para melhor análise do pedido formulado no mandamus originário e delega ao colegiado o julgamento do mérito, após o parecer do Parquet, não se verificando, portanto, hipótese de superação do enunciado691 da Súmula do STF.
+2. De acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+3. Agravo regimental desprovido
+(AgRg no HC n.º 529.007/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 17/9/2019, DJe de 23/9/2019).
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não constatada na espécie, não é de se admitir casos como o dos autos.
+Na hipótese, verifica-se que o decisum impugnado apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator ao indeferir a liminar.
+Veja-se (e-STJ fl. 286):
+É o relatório.Decido.
+Da imprescindibilidade das informações almejam os Impetrantes o relaxamento ou a revogação da Prisão Preventiva, com eventual imposição de Medidas Cautelares Diversas.
+Contudo, no caso, não se verifica, de plano, o preenchimento dos requisitos do periculum in mora e do fumus boni iuris, necessários para o deferimento do pleito, em caráter de urgência.
+Nesse sentido, mostram-se imprescindíveis as informações a serem prestadas pela Autoridade judicial apontada como coatora, para que se possa analisar a situação concreta e apreciar o inconformismo manifestado.
+Posto isso, indefiro a liminar, sem prejuízo do reexame da matéria, por ocasião da análise do mérito do presente Habeas Corpus.
+Requisitadas e prestadas as informações, nos termos do art. 448, parágrafo único, do RITJMG, dê-se vista à Procuradoria-Geral de Justiça.
+P. R. I. C.
+Verifica-se, então, que o Relatornão teceu maiores considerações sobre o tema suscitado pelo impetrante, achando por bem aguardar a vinda das informações, bem comoa manifestação ministerial para fazê-lo.
+Com efeito, destaco que a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado, revelando-se prudente aguardar-se o julgamento do mérito do habeas corpus, em uma análise exauriente das alegações da defesa, pelo Tribunal de origem, sem o qual esta Corte Superior fica impedida de apreciar (em ampla extensão e profundidade) o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
