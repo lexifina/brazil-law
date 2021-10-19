@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE AXIXÁ DO TOCANTINS, desafiando decisão da Presidência do Tribunal de Justiça do Estado do Tocantins, que não admitiu recurso especial com base noseguintefundamento:inexistir adequada indicação de que modo a legislação federal invocada teria sido violada. Incide, nesse caso, o óbice da Súmula 284 do STF, aplicável por analogia ao recurso especial, nos seguintes termos É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia (fls. 203/204).
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou omotivoadotadopelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, apesar de afirmar, genericamente, que não merece ser mantida tendo em vista que o dispositivo legal utilizado pelo Insigne Desembargador dispõe sobre situação diversa da visualizada no presente caso(216),a parte agravante não declinou os motivos pelos quais, no seu entender, o óbice apontado pela Corte de origem não seria aplicável ao caso concreto, limitando-se, então, a defender que a Súmula 284/STFdiz respeito exclusivamente aos recursos extraordinários, que versem sobre questão constitucional(fl. 216).
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+DIANTE DO EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
