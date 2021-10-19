@@ -1,0 +1,22 @@
+DECISÃO
+Por meio destehabeas corpus,com pedido de liminar, impetrado em benefício de Danilo Gomes, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, quenegou provimento à apelação defensiva, mantendo a sentença condenatória proferida pelo Juízo de Direito da 8ª Vara Criminal da comarca da Capital/SPàs penas de 2 anos e 29 dias de reclusão, em regime fechado, como incurso no art. 155, §§ 1ºe 4º, incisos I e II, do Código Penal, busca-sea readequação do regimepara o semiaberto.
+É o relatório.
+Ao que se tem dos autos, a pena-base foi exasperadapelo desvalor dado às circunstâncias judiciais, visto que o ora pacientepraticou o delito apenas uma semana depois de ter sido beneficiado com a liberdade provisória em processo que responde por crime idêntico, praticado no mesmo local(fl. 70).Na segunda fase, foi reconhecida a reincidência específica do sentenciado.
+Assim, considerando o entendimento desta Corte de Justiça, não há ilegalidade na fixação do regime fechado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. FURTO QUALIFICADO. DOSIMETRIA. REGIME FECHADO. PENA INFERIOR A 4 ANOS DE RECLUSÃO. POSSIBILIDADE. ACUSADO MULTIRREINCIDENTE E COM CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL (MAUS ANTECEDENTES).INAPLICABILIDADE DA SÚMULA N. 269 DESTA CORTE. MANUTENÇÃO DO REGIME MAIS GRAVOSO. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.decisão vergastada pelos próprios fundamentos.
+II - Sendo a paciente multirreincidente e portadora de circunstâncias judiciais desfavoráveis, o regime fechado mostra-se o mais adequado, ainda que a pena tenha sido fixada em patamar inferior a 4 (quatro) anos de reclusão, não sendo aplicável a Súmula n. 269/STJ: "É admissível a adoção do regime prisional semi- aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais". Ressalte-se que a incidência da Súmula n. 269/STJ pressupõe que todas as circunstâncias judiciais sejam favoráveis, o que não ocorre na espécie.
+Agravo regimental desprovido.
+(AgRg no HC n. 610.605/SC, Ministro Felix Fischer, Quinta Turma, DJe20/10/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO (ART. 155, § 4º, I, DO CÓDIGO PENAL) POR DUAS VEZES. MANUTENÇÃO DO REGIME FECHADO. RÉU REINCIDENTE COM A PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. INAPLICABILIDADE DA SÚMULA N. 269 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. MAUS ANTECEDENTES UTILIZADOS PELA ELEVAR A REPRIMENDA BÁSICA E JUSTIFICAR O REGIME PRISIONAL MAIS GRAVOSO. AUSÊNCIA DE BIS IN IDEM. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis. Ademais, na esteira da jurisprudência desta Corte Superior, admite-se a imposição de regime prisional mais severo do que aquele que permite a pena aplicada quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+2. Na hipótese, não se observa a existência de constrangimento ilegal na manutenção do regime fechado para o início do cumprimento da sanção aplicada, pois, embora a pena definitiva seja inferior a 4 (quatro) anos de reclusão, a condição de reincidente do réu, somada à análise desfavorável das circunstâncias judiciais, impede a aplicação do disposto na Súmula n. 269 desta Casa. Precedentes.
+3. Não configura ofensa ao princípio do non bis in idem a consideração dos maus antecedentes para elevar a reprimenda básica e fixar o regime mais gravoso para início de cumprimento da reprimenda por serem institutos diversos e decorrerem de expressa previsão legal constante dos arts. 59 e 68, bem como do art. 33, respectivamente, todos do Código Penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 497.220/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 22/10/2019)
+Ante o exposto, indefiro liminarmente owrit.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL.HABEAS CORPUS.FURTO. CONDENAÇÃO. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. REINCIDÊNCIA ESPECÍFICA. REGIME FECHADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Writ indeferido liminarmente.
