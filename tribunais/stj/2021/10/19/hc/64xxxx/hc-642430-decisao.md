@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de DIEGO DE JESUS MUNHOZ em que se aponta como autoridade coatora o Tribunal de Justiça do Estado deSão Paulo(Apelaçãon. 0073136-55.2015.8.26.0050).
+Opacientefoi condenado às penas de 1ano, 4 meses e 10 diasde reclusão em regime inicial fechadoe de 12dias-multa, pelaprática dodelitodescritonoart. 180, caput,do Código Penal.
+A Defensoria Públicaalega constrangimento ilegal ao não se reconhecer a possibilidade de compensação entre a agravante da reincidência e a atenuante da confissão espontânea.
+Afirma haver ilegalidade na fixação do regime fechado para o início do cumprimento da pena, na medida em que viola o princípio da individualização da pena, razão de defender ser cabível o regime semiaberto.Aduzaindaser possível a substituição da pena privativa de liberdade por restritiva de direitos.
+Requer a concessão da ordem.
+O Ministério Público Federal opinoupela concessão parcial da ordem.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+No presente caso,o Tribunal de origem concluiu(fls. 32-34):
+Em juízo, o réu confessou a autoria do delito. Disse que um conhecido seu lhe pediu eu levasse o carro até Itaquaquecetuba, e por isso ele lhe pagaria RS 200,00. Sabia que o carro era "roubado". Está preso por prática de furto, desde 2018. Já foi condenado por prática de receptação.
+Houve a subsunção do fato à receptação. Quanto à livre e consciente vontade, notória a dificuldade da prova do elemento subjetivo do injusto, razão pela qual o Julgador tem que se apegar ao exame conjunto de todos os elementos de convicção existentes no processo para, por meio deles, formar um juízo de valor no que diz respeito à responsabilidade penal do agente.
+ ..
+Dessa forma, estando bem justificada a exasperação adotada nesta primeira fase da dosimetria, fica ela mantida.
+Na segunda fase, a r. sentença reconheceu a circunstância atenuante, ao contrário do afirmado pelo recorrente, e também a existência da agravante da reincidência e exasperou a pena à razão de 1/6, em razão do inequívoco registro desta última, ponderando, corretamente, que a reincidência preponderasobre a atenuante, nos termos do art. 67, do Código Penal.
+Neste ponto, recorreu a defesa buscando a "compensação" entre as referidas circunstâncias. Sem razão.
+A r. sentença bem justificou a exasperação adotada, e consignou o fundamento disposto no artigo 67, do Código Penal, e tal posicionamento está respaldo pelo C. STF.
+Nos termos da Súmula n. 545 do STJ, "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal". Referida súmula incide mesmo nas hipóteses de confissão qualificada ou parcial.
+Nesse sentido, os seguintesjulgados: AgRg no HC n. 558.930/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2020; e HC n. 528.390/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/3/2020.
+Por sua vez, no julgamento do Recurso Especial repetitivo n. 1.341.370/MT, a Terceira Seção firmou o entendimento de que "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+A propósito: HC n. 640.105/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/3/2021; e HC n. 554.155/SP, relatora Ministra Laurita Vaz, DJe de 26/3/2021.
+Desse modo, passo àdosimetria da pena.
+Mantenho a pena-base fixada na origem, ou seja, em1anoe 2 meses de reclusão e em 11dias-multa.
+Na segunda fase, compenso a atenuante daconfissão espontânea com a agravante da reincidência.
+Na terceira fase, inexistindocausas de aumento e de diminuição da pena, fica a pena definitiva fixada em 1 ano e 2 meses de reclusão e em 11 dias-multa.
+No tocante ao regime prisional, segundo o disposto no art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deve observar a quantidade de pena aplicada, a primariedade do agente e a existência de circunstâncias judiciais desfavoráveis (art. 59 do CP) a fim de estabelecer o regime inicial de cumprimento de pena.
+Desse modo, não há constrangimento ilegal na imposição de regime inicial fechado a paciente condenado a pena inferior a 4 anos quando houver fundamentação concreta evidenciada na presença de circunstânciajudicialdesfavorável e na reincidência. Inaplicável, portanto, a Súmula n. 269 do STJ.
+Ademais, também não é cabível a substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que se trata de réu reincidente que teve reconhecida circunstância judicial desfavorável relativa aos maus antecedentes, o que inviabiliza a benesse na forma do art. 44, II e III, do CP, por não se mostrar suficiente para a prevenção e repressão do delito praticado.
+Confiram-se julgados que tratam da questão:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE FURTO QUALIFICADO. CONCURSO DE AGENTES. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA. FORMA QUALIFICADA.  ..  REGIME INICIAL FECHADO. CABIMENTO. REINCIDÊNCIA. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. INVIABILIDADE. INSURGÊNCIA DESPROVIDA.
+1. Com relação ao pleito de abrandamento do regime prisional, não se verifica a ilegalidade arguida, pois, consideradas as circunstâncias judiciais desfavoráveis, quais sejam, os maus antecedentes e as circunstâncias do crime, bem como a reincidência, mesmo que fixada a reprimenda em patamar inferior a 4 (quatro) anos de reclusão, mostra-se adequado o estabelecimento do regime mais gravoso, nos termos do art. 33, § 2º, alínea c, c/c o § 3º, do Código Penal. Precedentes.
+2. A substituição da pena privativa de liberdade por restritiva de direitos não se mostra suficiente para a prevenção e a repressão do delito perpetrado, por tratar-se de réu reincidente que teve valorada negativamente a circunstância judicial relativa aos antecedentes, a teor do disposto no art. 44, incisos II e III, do Código Penal. Precedentes.
+3. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível, e não concedeu a ordem de ofício, em razão da ausência de constrangimento ilegal a ser sanado.
+4. Agravo regimental desprovido. (AgRg no HC n. 521.476/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 15/6/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. PECULATO. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. ENTENDIMENTO PACIFICADO PELO SUPREMA CORTE NAS AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE N.os 43, 44 E 54. REGIME INICIAL DE CUMPRIMENTO DE PENA. RÉU PORTADOR DE MAUS ANTECEDENTES E REINCIDENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR SANÇÕES RESTRITIVAS DE DIREITOS. DESCABIMENTO. AGRAVO PARCIALMENTE PROVIDO.
+ ..
+3. Mesmo que a pena definitiva tenha sido fixada em patamar inferior a quatro anos de reclusão, tratando-se de Réu reincidente e presente circunstância judicial que justifica validamente a majoração da pena-base, seria cabível até mesmo a fixação do regime inicial fechado, nos termos dos arts. 33, §§ 2.º e 3.º, e 59 do Código Penal. Portanto, não há, no caso, constrangimento ilegal na fixação do regime prisional semiaberto.
+4. A reincidência em crime doloso e a valoração negativa da circunstância judicial relativa aos antecedentes não recomendam a substituição da pena privativa de liberdade, nos termos do art. 44, incisos II e III, do Código Penal.
+5. Agravo regimental parcialmente provido, tão somente para assegurar ao ora Agravante o direito de aguardar o trânsito em julgado da condenação em liberdade, resguardada a possibilidade de decretação de nova prisão processual, em deliberação devidamente fundamentada. (AgRg no HC n. 532.269/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 10/12/2019. )
+Ante o exposto, não conheço do habeas corpus, mas, de ofício,concedo a ordem parapermitir a compensação da atenuante da confissão com a agravante da reincidência,nos termos da fundamentação acima.
+Publique-se. Intimem-se.
