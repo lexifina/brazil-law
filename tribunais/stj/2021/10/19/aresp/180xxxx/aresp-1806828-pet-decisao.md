@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de petição, com pedido de efeito suspensivo, protocolada por ASSOCIAÇÃO FILANTRÓPICA NOVA ESPERANÇA, em agravo em recurso especial interposto em face de decisão que não admitiu recurso especial, por sua vez, interposto contra acórdão do Tribunal de Justiça do Estado doRio de Janeiro.
+Nas razões do apelo especial, alega-se violação ao art.833, do CPC, ao argumento de que, caso seja efetivada a penhora de verbas referentes arepasse feito pelo SUS, o tratamento médico de inúmeros pacientesserá comprometido, assim comoo pagamento deprofissionais contratados e a aquisiçãode insumos básicos.
+Na petição ora referida, a peticionária requer o deferimento de efeito suspensivo ao agravo emrecurso especial.
+Da análise dos autos, constata-se que a ora requerente já haviainterpostoa Pet n. 12.898/RJ, com o mesmo pedido de efeito suspensivo, que, na ocasião fora distribuídaao eminente Ministro Marco Buzzi e por Sua Excelência decidido (fl. 112-114, da Pet n. 12.898/RJ)
+Dessa forma, remetam-se os autos ao eminente Ministro Marco Buzzi para que se manifeste sobre possível prevenção deste agravo em recurso especial e, consequentemente, para análise da Petição que requer o efeito suspensivo, nos termos do art. 71, caput, e 72, III, do RISTJ.
