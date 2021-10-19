@@ -1,0 +1,18 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por MARTA CAETANO DIAVAN, com o fito de suspender a decisão que, nos autos dos Embargos de Terceiro de no 1033385-78.2021.8.11.0041, manejados em face da ASSOCIAÇÃO DOS ADVOGADOS DO BANCO DO BRASIL – ASABB e BANCO DO BRASIL S/A, indeferiu o pedido liminar para que fosse suspenso o processo principal (cumprimento de sentença), bem como, os atos expropriatórios concernentes ao Apartamento no 15, do Edifício Genesis, na cidade de Cuiabá-MT, registrado sob a matrícula de no 9.021 e duas vagas de garagem matriculados sob ns. 9054 e 9055, do CRI local.
+Para tanto, a recorrente alega que a expropriação determinada pelo Juízo de origem recaiu sobre bem cuja titularidade também lhe pertence e sobre o qual deve ser respeitada a meação que lhe cabe, na importância de 50%.
+Argumenta que não usufruiu de qualquer benefício concernente ao crédito contraído por seu marido, para cultivo de lavoura, razão pela qual, não pode suportar o pagamento de dívida com a qual não anuiu.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, em cognição sumária, milita em favor da agravante a aparência do direito invocado, bem como a urgência alegada no que diz respeito a decisão objurgada, que determinou o leilão do imóvel residencial penhorado nos autos do cumprimento de sentença.
+Mais precisamente, observa-se que a questão discutida nos autos envolve a meação de imóvel, o qual poderá ser arrematado em leilão judicial que se encontra na iminência de ocorrer e cujo deslinde poderá acarretar prejuízos para a executada ou para terceiros de boa-fé.
+Assim, como cediço, faz-se prudente a concessão da liminar para suspender os atos constritivos sobre o imóvel da agravante, o qual se encontra em vias de ser levado à leilão.
+Ante o exposto, CONCEDO a liminar para suspender a realização do leilão concernente ao Apartamento no 15, do Edifício Genesis, na cidade de Cuiabá-MT, registrado sob a matrícula de no 9.021 e duas vagas de garagem matriculados sob ns. 9054 e 9055, no CRI local.
+Publique-se e intimem-se, advertindo-se o agravado do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
