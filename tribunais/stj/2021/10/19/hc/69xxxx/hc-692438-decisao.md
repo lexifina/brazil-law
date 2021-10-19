@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se dehabeas corpus impetrado em favor de Ederson Gomes de Almeida contra o acórdão da Décima QuartaCâmara de Direito Criminal do Tribunal de Justiça de São Paulo, que negou provimento ao apelo defensivo e deu parcial provimento ao recurso ministerial; recursos esses interpostos contra a sentença proferida pelo Juízo da 9ª Vara Criminal da comarca de São Paulo na Ação Penal n.1502004-96.2021.8.26.0228. Eis a ementa do julgado(fl. 27):
+APELAÇÃO CRIMINAL - RECURSO DEFENSIVO VISANDO A DIMINUIÇÃO DA PENA COM APLICAÇÃO DA TENTATIVA NO PATAMAR MÁXIMO PREVISTO -FIXAÇÃO DE REGIME MAIS BRANDOIMPOSSIBILIDADE - ITER CRIMINIS PERCORRIDO - RECURSO MINISTERIAL PRETENDENDO O RECONHECIMENTO DA AGRAVANTE DA CALAMIDADE PÚBLICA - AFASTAR COMPENSAÇÃO ENTRE CIRCUNSTÂNCIA AGRAVANTE DA REINCIDÊNCIA E CONFISSÃO - ENTENDIMENTO DA CÂMARA - MAJORAÇÃO DA REPRIMENDA PELO CONCURSO DE AGENTES - PARCIAL PROVIMENTO DO RECURSO MINISTERIAL E IMPROVIMENTO DO RECURSO DEFENSIVO.
+Nestes autos, a Defensoria Pública, em síntese,buscaseja afastada a agravante prevista no art. 61, inciso II, j,do Código Penal, referente à calamidade pública gerada pela pandemia decorrente da Covid-19; bem como sejamajorada a fração de diminuição da pena em relação ao delito em sua modalidade tentada, tendo em vista que a vítima, desde o princípio, reagiu à conduta delitiva.
+Informações prestadas pelo Tribunal local (fls. 44/45).
+Parecer do Ministério Público Federal opinando conforme esta ementa (fls. 69/70):
+HABEAS CORPUS SUBSTITUTIVO. ROUBO. PENA.DOSIMETRIA. CALAMIDADE PÚBLICA. PANDEMIA.NEXO. CONDUTA. CIRCUNSTÂNCIAS. AUSÊNCIA.REDUÇÃO. TENTATIVA. 1/2. PROPORCIONALIDADE.
+- Não se conhece de habeas corpus impetrado contra ato judicial passível de recurso próprio, ressalvada a possibilidade de concessão de ofício da ordem, nos termos do § 2º do art. 654 do CPP.
+- Não foi explicitado qualquer nexo entre a conduta delitiva e o estado de calamidade pública imposto pela pandemia, tendo o Tribunal a quo indicado, apenas, o caráter objetivo da agravante que, conforme julgados desse C. STJ, é incapaz de ensejar, de per se, a incidência da agravante prevista no art. 61, II, j, do Código Penal.
+- Quanto ao delito tentado, o Código Penal, em seu art. 14, II, adotou a teoria objetiva relativamente à punibilidade da tentativa, diferenciando a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. O critério de diminuição da tentativa, portanto, opera de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição.
+- No caso em apreço, como bem destacado pela Juíza sentenciante, embora o paciente não tenha chegado a entrar no veículo da vítima, empregou, por duas vezes, ameaça. Desse modo, não há que se falar em ilegalidade na fixação da fração de redução em 1/2.
+- Parecer pelo não conhecimento do habeas corpus e pela concessão da ordem de ofício, apenas para que seja extirpado do cálculo da pena o aumento referente à agravante prevista no artigo 61, inciso II, letra "j" do Código Penal.
+É o relatório.
+Quanto à agravante de crime cometido em situação de calamidadepública, razão assiste à impetrante, uma vez que, para esta CorteSuperior, a incidência da agravante da calamidadepública pressupõe aexistência de situação concreta de que o paciente seprevaleceu da pandemia para a prática delitiva (AgRg no HC n. 655.339/SP,Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/4/2021).
+No caso, não houve a demonstração concreta de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame. A Corte paulista considerou apenas que areferida agravante possui natureza objetiva, aplicando-se independente de comprovação se o acusado se valeu das facilidades da situação de calamidade(fl. 31).
+Assim, conforme bem analisou a Subprocuradora-Geral da República Ana Borges Coelho, merece ser concedida a ordem para que seja excluído do cálculo da pena o aumento referente à referido vetor(fl. 72).
+No que diz respeito à fração aplicada em decorrência da tentativa, não enxergo ilegalidade a ser reparada.
+Na hipótese,ficou delimitadopelas instânciasordináriasque, embora o paciente não tenha chegado a adentrar no veículo da vítima, empregou, por duas vezes, ameaça contra ela.
+Ora, a Corte de origem, soberana na análise dos elementos de fato e prova, concluiu que oiter criminis foi percorrido próximo da totalidade exigida para consumação do roubo, convicção essa que não comporta revisão em sede de cognição sumária, ante a impossibilidade de reexame de circunstâncias fático-probatórias.
+Nesse sentido, confira-se:HC n. 646.042/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/3/2021.
+Necessário, então, o afastamento da causa de aumento relativa à calamidade pública, estabelecendo-se a penaem3 anos, 1 mês e 10 dias dereclusão, em regime inicial fechado (dada a presença de circunstância judicial desfavorável e reincidência), e pagamento de 7 dias-multa.
+Ante o exposto, concedo parcialmente a ordem para que seja excluído do cálculo da pena o aumento referente à agravante prevista no art. 61, inciso II, j, do Código Penal, ficando a reprimenda do paciente conforme esta decisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO.DOSIMETRIA. AGRAVANTE.CONTEXTO DE PANDEMIA. NECESSIDADE DE DEMONSTRAÇÃO DA MAIOR REPROVABILIDADE DA CONDUTA. PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. NÃO OCORRÊNCIA. ILEGALIDADE FLAGRANTE.TENTATIVA. FRAÇÃO DE REDUÇÃO. OBSERVÂNCIA DOITER CRIMINIS PERCORRIDO.ÓBICE AO REVOLVIMENTO FÁTICO-PROBATÓRIO.
+Ordem parcialmente concedidanos termos do dispositivo.
