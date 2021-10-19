@@ -1,0 +1,404 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 10
+
+19/10/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 206.541 S ÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: DOUGLAS LIVINHALI
+: DANIELE BETTAMIO BISPO
+: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+SÃO PAULO
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+
+EMENTA: AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA E ASSOCIAÇÃO PARA
+O TRÁFICO. REVISÃO DA PENA-BASE E DO REGIME PRISIONAL
+APLICADO. NÃO CABIMENTO. VIA PROCESSUAL QUE COMPORTA
+APENAS O CONTROLE DE LEGALIDADE DOS CRITÉRIOS
+INVOCADOS,
+COM
+A
+CORREÇÃO
+DE
+EVENTUAIS
+ARBITRARIEDADES. PRECEDENTES DESTA CORTE. INSTÂNCIAS
+ORDINÁRIAS QUE APRESENTARAM FUNDAMENTAÇÃO JURÍDICA
+IDÔNEA NO SENTIDO DE QUE A PENA-BASE FOI FIXADA DE
+FORMA CORRETA.
+AGRAVO A QUE SE NEGA PROVIMENTO.
+
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, os Ministros do Supremo
+Tribunal Federal, em Sessão Virtual da Primeira Turma, sob a Presidência
+do Senhor Ministro DIAS TOFFOLI, em conformidade com a ata de
+julgamento e as notas taquigráficas, por unanimidade, acordam em negar
+provimento ao Agravo Regimental, nos termos do voto do Relator.
+Brasília, 19 de outubro de 2021.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DE4D-2308-45B4-0959 e senha 858C-F255-5511-D720
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 10
+
+RHC 206541 AGR / SP
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DE4D-2308-45B4-0959 e senha 858C-F255-5511-D720
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 10
+
+19/10/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 206.541 S ÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: DOUGLAS LIVINHALI
+: DANIELE BETTAMIO BISPO
+: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+SÃO PAULO
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+RE LAT Ó RI O
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Regimental interposto contra decisão
+monocrática de minha lavra, que negou provimento ao Recurso
+Ordinário em habeas corpus, sob o fundamento de que o Superior Tribunal
+de Justiça, na trilha do que foi decidido pelas instâncias ordinárias, negou
+a diminuição da pena-base e a alteração do regime prisional, mesmo
+porque do exame das instâncias ordinárias, soberanas na apreciação do
+conteúdo fático-probatório, depreendeu-se que os elementos colhidos sob
+o crivo do contraditório não indicaram irregularidades na pena-base do
+recorrente.
+Consta dos autos, em apertada síntese, que o recorrente foi
+condenado, em primeira instância, às penas de 15 (quinze) anos e 02
+(dois) meses de reclusão, regime fechado, além do pagamento de 1.600
+(um mil e seiscentos) dias-multa, no piso, como incurso no art. 288,
+parágrafo único, do Código Penal e no art. 35, combinado como o art. 40,
+III, IV, V e VI, ambos da Lei n. 11.343/06, na forma do art. 69, caput, do
+Código Penal.
+Interposta a apelação pela defesa, o Tribunal de origem negou
+provimento ao recurso. Os embargos de declaração opostos pela defesa
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E3FD-D8E4-215E-15F0 e senha 1148-06EE-9CA9-D70C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 10
+
+RHC 206541 AGR / SP
+foram rejeitados.
+A defesa, então, impetrou Habeas Corpus no Superior Tribunal de
+Justiça, com pedido liminar, apontando como autoridade coatora o
+Tribunal de Justiça do Estado de São Paulo, alegando, em linhas gerais,
+"constrangimento ilegal na fixação da pena-base acima do mínimo legal,
+sobretudo porque se trata de paciente, à época, primário e portador de
+bons antecedentes.".
+Alegou, ainda, que, "reduzida a pena, faz jus o paciente ao regime
+intermediário.".
+Requereu, portanto, "inclusive liminarmente, seja fixada a pena-base no
+mínimo legal e seja restabelecido o regime semiaberto para início de desconto da
+sanção privativa de liberdade.".
+No Superior Tribunal de Justiça, a liminar foi indeferida. No mérito,
+o Relator, Min. ANTONIO SALDANHA PALHEIRO, em decisão
+monocrática, denegou a ordem de habeas corpus.
+Não satisfeita, a defesa interpôs, perante a Sexta Turma do Superior
+Tribunal de Justiça, Agravo Regimental no Habeas Corpus 663.248/SP, Rel.
+Min. ANTONIO SALDANHA PALHEIRO, a qual, por unanimidade,
+negou provimento ao recurso, conforme a seguinte ementa:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME
+DE ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DA
+PENA. REPRIMENDA BÁSICA FIXADA ACIMA DO MÍNIMO
+LEGAL.
+POSIÇÃO
+DE
+DESTAQUE
+NA FACÇÃO
+CRIMINOSA. FUNDAMENTAÇÃO SUFICIENTE.
+1. Na esteira da orientação jurisprudencial desta Corte,
+por se tratar de questão afeta à certa discricionariedade do
+magistrado, a dosimetria da pena é passível de revisão em
+habeas corpus apenas em hipóteses excepcionais, quando ficar
+evidenciada flagrante ilegalidade, constatada de plano, sem a
+necessidade de maior aprofundamento no acervo fáticoprobatório.
+2. Ademais, "a exasperação da pena deve estar fundamentada
+em elementos concretos extraídos da conduta imputada ao acusado, os
+quais devem desbordar dos elementos próprios do tipo penal. Assim,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E3FD-D8E4-215E-15F0 e senha 1148-06EE-9CA9-D70C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 10
+
+RHC 206541 AGR / SP
+meras alusões à gravidade em abstrato do delito, à potencial
+consciência da ilicitude, ao perigo da conduta, à busca do lucro fácil e
+outras generalizações sem lastro em circunstâncias concretas não
+podem ser utilizadas para aumentar a pena-base" (HC n. 353.839/PB,
+relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,
+julgado em 2/6/2016, DJe 8/6/2016).
+3. Na espécie, correto o aumento da pena-base, tendo em
+vista a posição de destaque e a natureza da atividade
+desenvolvida pelo agravante dentro da facção criminosa
+denominada Primeiro Comando da Capital. Precedentes.
+4. Agravo regimental a que se nega provimento.
+
+Insatisfeita com a decisão da Corte da Cidadania, a defesa interpôs
+Recurso Ordinário em habeas corpus, no qual reiterou os mesmos
+argumentos sustentados no Superior Tribunal de Justiça, bem como
+requereu fosse "concedida a ordem, ainda que de ofício, para que reconheça a
+primariedade, os bons antecedentes, como circunstâncias judiciais favoráveis
+para a fixação da pena-base no seu mínimo legal e, que redimensione a pena do
+ora paciente para 5 (cinco) anos e 10 (dez) meses, com início no regime
+semiaberto, para que seja da mais nobre e sublime Justiça!". Por decisão
+monocrática, neguei provimento ao Recurso Ordinário em habeas corpus.
+Neste recurso, a defesa do agravante insiste, uma vez mais, que a
+dosimetria na forma como foi feita "fere de morte o princípio da
+individualização da pena", bem como contraria o princípio da
+proporcionalidade, ao exasperar a pena-base do recorrente que "a época
+dos fatos era primário e de bons antecedentes (...)".
+Requer, portanto, a reconsideração da decisão impugnada ou o
+provimento do presente recurso, "para que reconheça a primariedade, os bons
+antecedentes, como circunstâncias judiciais favoráveis para a fixação da penabase no seu mínimo legal e, que redimensione a pena do ora paciente para 5
+(cinco) anos e 10 (dez) meses, com início no regime semiaberto (...).".
+É o relatório.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E3FD-D8E4-215E-15F0 e senha 1148-06EE-9CA9-D70C
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 10
+
+19/10/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 206.541 S ÃO
+PAULO
+VOTO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Não há reparo a fazer, pois o agravo interno não apresentou
+qualquer argumento apto a desconstituir os fundamentos apontados,
+pelo que se reafirma o seu teor.
+O Superior Tribunal de Justiça, na trilha do que foi decidido pelas
+instâncias ordinárias, negou a diminuição da pena-base e a alteração do
+regime prisional, nos seguintes termos:
+[...]
+Na espécie, conforme esclareci da decisão monocrática
+combatida, a avaliação dos julgadores a respeito da posição de
+destaque e natureza de atividade desenvolvida pelo réu na
+facção criminosa denominada Primeiro Comando da Capital
+levou à exasperação da pena-base dos crimes de associação
+criminosa e associação para o tráfico de drogas.
+Sobre o tema, rememorei que, de acordo com a orientação
+jurisprudencial desta Corte, o cálculo da pena é questão afeta à
+discricionariedade motivada do magistrado, passível de revisão
+em habeas corpus apenas quando ficar evidenciada notória
+ilegalidade, sem a necessidade de maior aprofundamento no
+acervo fático-probatório.
+A ponderação das peculiaridades da causa não se resume
+a uma simples operação aritmética, uma conta matemática que
+fixa pesos estratificados a cada uma delas. Tal apreciação enseja
+um verdadeiro processo que impõe ao magistrado apontar, de
+forma motivada, as balizas para aplicar a reprimenda que
+melhor servirá para a prevenção e repressão do fato delituoso.
+Ao Superior Tribunal de Justiça cabe a revisão dos casos
+flagrantemente desproporcionais ou desarrazoados, não lhe
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D37D-B906-9F1F-AA29 e senha F135-6997-473A-EDB7
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 10
+
+RHC 206541 AGR / SP
+competindo a análise de toda irresignação defensiva relativa à
+fração de aumento ou de redução da pena.
+No caso em apreço, a persuasão racional dos julgadores
+para fixar o aumento da pena-base não revela flagrante
+ilegalidade, haja vista a apresentação de justificativas concretas,
+relacionadas à posição desempenhada pelo paciente na
+organização criminosa.
+De acordo com o entendimento do Superior Tribunal de
+Justiça, "no processo penal brasileiro, em razão do sistema da
+persuasão racional, o juiz forma sua convicção 'pela livre apreciação
+da prova' (art. 155 do CPP), o que o autoriza a, observadas as
+limitações processuais e éticas que informam o sistema de justiça
+criminal, decidir livremente a causa e todas as questões a ela relativas,
+mediante a devida e suficiente fundamentação" (AgInt no HC n.
+462.238/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe
+13/12/2018).
+No mesmo caminhar, colacionei estes precedentes:
+[...]
+Mantida a valoração negativa das circunstâncias judiciais,
+pareceu-me inviável a alteração do regime inicial de
+cumprimento da sanção para o semiaberto, tendo em vista o
+disposto no art. 33, §3º, do Código Penal.
+Ante o exposto, ratifico os termos da decisão de e-STJ fls.
+198/202 e nego provimento ao agravo regimental.
+É como voto.
+
+De fato, a dosimetria da pena (e também a escolha do regime
+prisional) está ligada ao mérito da ação penal, ao juízo que é realizado
+pelo Magistrado sentenciante após a análise do acervo probatório
+amealhado ao longo da instrução criminal.
+Daí ser inviável, na via estreita do Habeas Corpus, reavaliar os
+elementos de convicção, a fim de se redimensionar a sanção. O que está
+autorizado, segundo reiterada jurisprudência desta CORTE, é apenas o
+controle da legalidade dos critérios invocados, com a correção de
+eventuais arbitrariedades (HC 105.802/MT, Rel. Min. ROSA WEBER,
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D37D-B906-9F1F-AA29 e senha F135-6997-473A-EDB7
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 10
+
+RHC 206541 AGR / SP
+Primeira Turma, DJe de 04/12/2012; HC 110.390/MS, Rel. Min. CÁRMEN
+LÚCIA, Segunda Turma, DJe de 22/10/2012; HC 102.966 AgR/RJ, Rel. Min.
+CELSO DE MELLOz, Segunda Turma, DJe de 21/03/2012; HC 94.125/RJ,
+Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de
+06/02/2009).
+Mesmo porque, do exame das instâncias ordinárias, soberanas na
+apreciação do conteúdo fático-probatório, depreende-se que os elementos
+colhidos sob o crivo do contraditório não indicaram irregularidades na
+pena-base do recorrente.
+Ao proferir a sentença, o Juízo sentenciante, decidiu:
+[...]
+As posições de destaque dos réus dentro da organização
+criminosa e o tipo de atividades que exerciam em muito
+contribuíram para a sua existência e perpetuação. O grupo
+criminoso em questão, o PCC sabidamente atenta contra o
+Estado Democrático e contra a ordem constituída, praticando
+incomensurável número de delitos, de tudo quanto é tipo, como
+restou demonstrado no curso da instrução.
+Aqueles que se associam a esta nefasta organização não
+podem querer ter complacência do Poder Judiciário e nem das
+Autoridades Públicas. Nelson já se viu processado e condenado
+inúmeras vezes (vide certidões de fls. 2562, 2133, 3351) e está
+sendo processado por outros crimes (fls. 3435). Fábio está sendo
+processado por receptação (fls. 2107). Daniel já foi processado e
+condenado em inúmeras oportunidades (fls. 2130, 2131,2224,
+3332, 3549, 3550), sendo que ainda responde a outros processos
+(fls. 2522 e 3809). Douglas é o único que não registra
+antecedentes neste Estado.
+Tudo está a demonstrar que se tratam de pessoas de
+extrema periculosidade e com personalidades desvirtuadas,
+pois, apenas pessoas com tal natureza se vinculam a
+organização criminosa como aquela em que se inseriram.
+[...]
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D37D-B906-9F1F-AA29 e senha F135-6997-473A-EDB7
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 10
+
+RHC 206541 AGR / SP
+O Tribunal de Justiça do Estado de São Paulo manteve o
+entendimento da primeira instância.
+De se ver que as instâncias ordinárias apresentaram fundamentação
+jurídica idônea no sentido de que a pena-base foi fixada de forma correta,
+até porque o Superior Tribunal de Justiça afirmou que "na espécie, correto
+o aumento da pena-base, tendo em vista a posição de destaque e a
+natureza da atividade desenvolvida pelo agravante dentro da facção
+criminosa denominada Primeiro Comando da Capital.".
+Em conclusão, não há reparo a fazer, pois o Recurso Ordinário
+Constitucional não apresentou qualquer argumento apto a desconstituir
+os fundamentos apontados.
+Em igual sentido, não existe reparo a fazer no entendimento
+aplicado, pois o agravo interno não apresentou qualquer argumento apto
+a desconstituir os fundamentos apontados.
+Diante do exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D37D-B906-9F1F-AA29 e senha F135-6997-473A-EDB7
+
+Supremo Tribunal Federal
+Extrato de Ata - 19/10/2021
+
+Inteiro Teor do Acórdão - Página 10 de 10
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 206.541
+PROCED. : SÃO PAULO
+RELATOR : MIN. ALEXANDRE DE MORAES
+AGTE.(S) : DOUGLAS LIVINHALI
+ADV.(A/S) : DANIELE BETTAMIO BISPO (116349/RJ)
+AGDO.(A/S) : MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE SÃO
+PAULO
+AGDO.(A/S) : MINISTÉRIO PÚBLICO FEDERAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DA REPÚBLICA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Primeira Turma, Sessão
+Virtual de 8.10.2021 a 18.10.2021.
+Composição: Ministros Dias Toffoli (Presidente), Cármen Lúcia,
+Rosa Weber, Luís Roberto Barroso e Alexandre de Moraes.
+Convocado o Ministro Gilmar Mendes, para apresentar voto em
+processo suspenso, em razão de empate verificado.
+
+Luiz Gustavo Silva Almeida
+Secretário da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AEA0-75CF-49DA-9552 e senha 539E-4AAD-15AF-011E
