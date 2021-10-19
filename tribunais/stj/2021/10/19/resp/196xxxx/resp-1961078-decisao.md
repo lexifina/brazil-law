@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl.38):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DESENTENÇA. DIFERENÇAS PRETÉRITAS DE BENEFÍCIO DECORRENTES DA REVISÃO DO IRSM DE FEVEREIRO/94. AÇÃO CIVIL PÚBLICA 2003.71.00.065522-8. JUROS E CORREÇÃO MONETÁRIA. COISA JULGADA.
+1. A hipótese dos autos diz respeito a execução de sentença da ACP2003.71.00.065522-8 distribuída em 20/11/2003, que transitou em julgado em 18/02/2015, adotando atualização monetária pela variação integral do IGP-DI e juros de mora equivalentes a 12% (doze por cento) ao ano, contados da citação.
+2. Inaplicável os critérios da Lei 11.960/09, que alterou o art. 1º-F da Lei nº 9.494/97, sob pena de ofensa à coisa julgada, o que é defeso.
+Opostos embargos de declaração, foram rejeitados (fl. 60)
+Aponta orecorrente aponta violação aos arts. 1.022, II, do CPC, 1º-F da Lei nº 9494/97 e 6º da LICC, sustentando, além de negativa de prestação jurisdicional,a aplicação imediata da Lei nº 11.960/2009, de modo a incidirnas ações propostas antes de sua vigência que estejam em curso.
+Aduz que o "Tribunal regional reconheceu a possibilidade de aplicação de juros moratórios de 12% ao ano, sob o fundamento de que foram aplicados os juros na forma prevista no título executivo (ACP), sendo que a eventual alteração ofenderia a coisa julgada. Todavia, não foram aplicadas corretamente às normas de caráter supralegal que regem a aplicação da lei processual aos processos em curso" (fl. 71).
+Afirma, que "os juros de mora incidentes sobre os valores da condenação imposta às entidades públicas federais, deverão ser aplicados, no período anterior a julho de 2009 nos termos previstos na sentença proferida na ACP (12% ao ano) e, a partir da entrada em vigor da Lei nº 11.960, os índices de juros devem ser os mesmos aplicados à caderneta de poupança nos termos do art. 1º-F da Lei 9.494/97" (fl. 75)
+Em novo julgamento para eventual juízo de retração, o acórdão foi mantido,
+cuja ementa se colhe (fl. 96):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. JUÍZO DE RETRATAÇÃO. DESCABIMENTO. EXECUÇÃO DE SENTENÇA. DIFERENÇAS PRETÉRITAS DE BENEFÍCIO DECORRENTES DA REVISÃO DO IRSM DEFEVEREIRO/94. AÇÃO CIVIL PÚBLICA 2003.71.00.065522-8. JUROS. TÍTULO EXECUTIVO. JUROS DE MORA. COISA JULGADA.
+Tratando-se da execução de título executivo transitado em julgado quanto aos juros de mora equivalentes a 12% (doze por cento) ao ano, contados da citação, não é caso de juízo de retratação pela Turma quanto aos Temas 810 do e. STF e 905 do e. STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu,fundamentadamente, as questões que lhe foram submetidas, apreciandointegralmente a controvérsia posta nos autos, não se podendo, ademais,confundir julgamento desfavorável ao interesse da parte com negativa ouausência de prestação jurisdicional.
+Quanto à questão de fundo, da simples leitura dos artigos indicados comomalferidos, ressai evidente quenão possuem comando capazde sustentar atese recursal de inexistência de violação a coisa julgada, relativos aoscritérios de correção monetária, fixados por legislação superveniente àformação do título executivo enem de infirmar o juízo formulado noacórdão recorrido.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a aberturada instância especial e atrai a incidência, por simetria, do disposto naSúmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário,quando a deficiência na fundamentação não permitir a exata compreensão dacontrovérsia.". Para ilustrar, sobressaem os seguintes precedentes:AgIntno REsp 1.894.935/PR, Rel. Ministra Assusete Magalhães, DJE 22/3/2021;AgInt no AREsp 1.689.201/PB, Rel. Ministro Raul Araújo, DJE 22/3/2021;AgInt no AREsp 1.738.090/SP, Rel. Ministro Herman Benjamin, DJE1º/3/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
