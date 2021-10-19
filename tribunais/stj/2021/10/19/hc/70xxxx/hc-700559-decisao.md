@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, em face de acórdão assim ementado (fl. 28):
+Roubo - Agentes que forçam a janela da residência de idosos com ostentação de arma (simulacro) - Fuga diante da constatação da presença de terceiro, capaz de oferecer maior resistência - Tentativa - Caracterização - Ação capaz de intimidar e reduziras vítimas à impossibilidade de resistência-Desclassificação para furto - Impossibilidade-Condenação decretada; Roubo qualificado - concurso de agentes bem caracterizado - Condição de organizador e mandante - Presença desnecessária no local dos fatos - Participação de menor importância - Inocorrência - Reconhecimento da presença de agravantes - Ação que não ultrapassou a esfera da tentativa - Penas reajustadas - Recurso da Acusação provido, com a rejeição daqueles apresentados pela Defesa.
+O paciente foi condenado, em primeiro grau, à pena de 1 ano, 9 meses e 10 dias de reclusão, em regime aberto, e 8 dias-multa, por tentativa de furto qualificado. Interpostas apelações, a conduta foi adequada ao delito de tentativa de roubo qualificado. A pena foi fixada em 2 anos e 8 meses de reclusão, em regime semiaberto, e 6 dias-multa.
+Daí o presente writ, em que a defesa busca, inclusive liminarmente, a consideração do período em que o paciente esteve sob recolhimento domiciliar noturno, para fins de detração penal.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame liminarmente pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Aquestão referente ao reconhecimento da detração do período em que o paciente ficou em prisão domiciliar não foi objeto de análise pelo colegiado do Tribunal de origem (fls. 100-104), razão pela qual não poderá ser conhecido,para não se incorrer em indevidaindevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
