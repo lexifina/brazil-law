@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se  de  agravo  (art.  1.042  do  CPC),  interposto  por  CAIXA ECONÔMICA FEDERAL,  contra  decisão  que  não  admitiu  recurso  especial.
+O  apelo  extremo,  fundamentado  na  alínea  "a"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Santa Catarina,  assim  ementado  (fl.  616,  e-STJ):
+ADMINISTRATIVO. APELAÇÃO. CANCELAMENTO DEHIPOTECA. GRAVAME FIRMADO ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO. INEFICÁCIA EM RELAÇÃO AO ADQUIRENTE. SÚMULA 308/STJ. 1. Conforme o disposto na súmula 308 do STJ, "a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel". 2. Na espécie, cabível a aplicação da referida súmula, devendo ser canceladas as hipotecas que recaem sobre os imóveis objeto da ação.
+Os embargos de declaração foram rejeitados (fls. 645-649, e-STJ)
+Em  suas  razões  de  recurso  especial,  a  recorrente  aponta  ofensa  aos  artigos  54 e 55 da Lei 13.097/15.
+Sustenta,  em  síntese:  a)  a  superação da Súmula 308/STJ em razão da redação dos artigos54 e 55 da Lei 13.097/15; b)a inaplicabilidade do princípio da boa-fé aos adquirentes.
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  presente  agravo  (fls.  693-705,  e-STJ).  Contraminuta  às  fls.  712-715,  e-STJ.
+É  o  relatório.
+Decido.
+A  irresignação  não  merece  prosperar.
+1. De início, alega arecorrente violação aos artigos 54 e 55 da Lei 13.097/2015, sustentando a superação do entendimento da súmula.Da análise do acórdão recorrido, nota-se que o Tribunal local, à luz do entendimento disposto na Súmula 308/, consignou que a hipoteca não seria oponível ao adquirente do imóvel.
+No ponto, relevante a menção aos seguintes trechos do acórdão recorrido (fls. 620-621, e-STJ):
+Observa-se que a súmula protege a boa-fé de terceiro adquirente de imóvel que apresenta natureza residencial. Há o entendimento deque a ciência prévia do adquirente sobre as hipotecas não afasta sua boa-fé, pois inexiste proibição de alienação de imóvel hipotecado, cumprindo referir que o art. 1.475 do CC afirma ser nula a cláusula que proíbe ao proprietário alienar imóvel hipotecado.
+Na espécie, a parte autora firmou Termo Particular de Cessão de Promessa de Compra e Venda de Imóvel (evento 1 - CONTR8 do processo originário), tendo recebido de Jeferson Jair Marquis a cessão de promessa de compra e venda, com a anuência da ré Omnicorp Construções e Incorporações Ltda. Na cláusula quarta, I, a, do instrumento negocial, verifica-se que o preço foi pago na ocasião de sua celebração, estando o imóvel quitado, o que também se pode inferir pelo Termo de Quitação juntado aos autos (evento 1 -OUTR9 do processo originário).
+Diante desse contexto e das provas a apontar que a parte autora é adquirente de boa-fé, cumpridora de suas obrigações contratuais junto à promitente vendedora e que os imóveis tem natureza residencial, cabível a aplicação da Súmula 308 do STJ ao caso concreto, à medida em que o fundamento do referido entendimento jurisprudencial é a segurança jurídica e a proteção ao adquirente de boa-fé, que não pode ser penalizado por débito contraído exclusivamente pela incorporadora junto à instituição financeira.
+ ..
+Outrossim, ressalte-se que se trata de situação previsível pela instituição financeira que, ao conceder crédito à incorporadora para construção de empreendimento imobiliário, sabe que haverá a alienação de frações e/ou unidades autônomas a um sem-número de adquirentes, aos quais compete o pagamento por suas respectivas unidades, mas não por dívidas contraídas para a construção do empreendimento.
+Não se mostra razoável, dessa maneira, que os adquirentes de tais unidades tornem-se devedores hipotecários da instituição financeira, em virtude de empréstimo contraído por terceiro. Por outro lado, eventual dívida remanescente pode ser cobrada da incorporadora que a contraiu, afastando-se apenas a garantia real que se encontra em poder de terceiro de boa-fé.
+Com efeito, cediço nesta Corte Superior o entendimento de que a hipoteca instituída pela construtora do imóvel junto ao agente financeiro não prevalece em relação aos terceiros adquirentes do imóvel, os quais respondem tão-somente pelo pagamento dos respectivos débitos.
+Tal exegese foi cristalizada na Súmula 308/STJ, verbis:
+Súmula 308. A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel.
+Quanto à alegada superação da Súmula 308/STJ pelaLei 13.097/2015, é de ressaltar que a aplicação da nova legislação deve estar em consonância com o entendimento consolidado do Superior Tribunal de Justiça, respeitando os princípios da boa-fé e da segurança jurídica.
+A legislação apontada deve ser interpretada em harmonia com os referidos princípios, que fundamentam o entendimentosumulado, a fim de proteger a parte hipossuficiente da relação. Do contrário, os adquirentes ficariam em situação de extrema desvantagem perante a instituição financeira, que dispõe de diversos métodos alternativos para a garantia do seu crédito.
+E, por esse motivo, mantém-se consolidadaa aplicabilidade da Súmula 308/STJ.A título exemplificativo, vejam-se julgados atuais desta Corte Superior, inclusive proferidos após o ano de 2015 - após a promulgação da Lei n. 13.097/15:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE CANCELAMENTO DE ALIENAÇÃO FIDUCIÁRIA. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 282 DO STF. ALIENAÇÃO FIDUCIÁRIA. CONSTRUTORA E AGENTE FINANCEIRO. INEFICÁCIA. SÚMULA Nº 308 DO STJ. APLICAÇÃO POR ANALOGIA. POSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.  ..
+3. A Súmula nº 308 do STJ também incide em se tratando de alienação fiduciária, não sendo a diferença entre tal modalidade de garantia e a hipoteca suficiente para afastar o âmbito de aplicação do enunciado sumular, visto que a intenção da Corte ao editá-la foi a de proteger o adquirente de boa-fé, que cumpriu sua obrigação firmada no contrato de compra e venda, quitando o preço. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.581.978/PE, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 1º/12/2020, DJe 18/12/2020)  grifou-se
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. ALIENAÇÃO FIDUCIÁRIA FIRMADA ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO. INEFICÁCIA EM RELAÇÃO AO ADQUIRENTE DO IMÓVEL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 308/STJ.  ..
+3. O propósito recursal é definir se a alienação fiduciária firmada entre a construtora e o agente financeiro tem eficácia perante a adquirente do imóvel, de forma a se admitir a aplicação analógica da Súmula 308/STJ.
+4. De acordo com a Súmula 308/STJ, a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel.
+5. A Súmula 308/STJ, apesar de aludir, em termos gerais, à ineficácia da hipoteca perante o promitente comprador, o que se verifica, por meio da análise contextualizada do enunciado, é que ele traduz hipótese de aplicação circunstanciada da boa-fé objetiva ao direito real de hipoteca.
+6. Dessume-se, destarte, que a intenção da Súmula 308/STJ é a de proteger, propriamente, o adquirente de boa-fé que cumpriu o contrato de compra e venda do imóvel e quitou o preço ajustado, até mesmo porque este possui legítima expectativa de que a construtora cumprirá com as suas obrigações perante o financiador, quitando as parcelas do financiamento e, desse modo, tornando livre de ônus o bem negociado.
+7. Para tanto, partindo-se da conclusão acerca do real propósito da orientação firmada por esta Corte - e que deu origem ao enunciado sumular em questão -, tem-se que as diferenças estabelecidas entre a figura da hipoteca e a da alienação fiduciária não são suficientes a afastar a sua aplicação nessa última hipótese, admitindo-se, via de consequência, a sua aplicação por analogia.
+8. Recurso especial conhecido e não provido.
+(REsp n. 1.576.164/DF, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/5/2019, DJe 23/5/2019).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. OUTORGA DE ESCRITURA DEFINITIVA. PRESCRIÇÃO. AUSÊNCIA DO PREQUESTIONAMENTO. SÚMULAS 282 DO STF. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.  ..
+3. Conforme o entendimento sumulado nesta Corte, "a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel" (Súmula 308 do STJ). Incidência da Súmula 83 do STJ.  ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.236.910/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/4/2019, DJe 2/5/2019).
+Incide, no ponto, o teor da Súmula 83/STJ.
+2. A recorrente aduz, ainda, violação ao artigo 422 do CC, sustentando ainaplicabilidade do princípio da boa-fé aos adquirentes.Nesse ponto, cita-se novamente oaresto recorrido (fl. 620, e-STJ):
+Diante desse contexto e das provas a apontar que a parte autora é adquirente de boa-fé, cumpridora de suas obrigações contratuais junto à promitente vendedora e que os imóveis tem natureza residencial, cabível a aplicação da Súmula 308 do STJ ao caso concreto, à medida em que o fundamento do referido entendimento jurisprudencial é a segurança jurídica e a proteção ao adquirente de boa-fé, que não pode ser penalizado por débito contraído exclusivamente pela incorporadora junto à instituição financeira.
+O Tribunal local, diante das peculiaridades  do  caso  concreto  e  a  partir  da  análise  do  conteúdo  fático-probatório  dos  autos, concluiu pela existência de boa-fé. Derruir  as  conclusões  contidas  no  decisum  e  acolher  a  pretensão  recursal  ensejaria  o  necessário  revolvimento  das  provas  constantes  dos  autos,  providência  vedada  em  sede  de  recurso  especial,  ante  o  óbice  estabelecido  pela  Súmula  7/STJ. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EMBARGADOS.  ..
+1.1. No caso em tela, o Tribunal de origem constatou a boa-fé dos adquirentes, que não poderiam ter ciência da lide, uma vez que não havia averbação na matrícula do imóvel nem constavam como parte no processo os alienantes. Incidência das Súmulas 7 e 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp 1574382/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. FRAUDE À EXECUÇÃO. AQUISIÇÃO DE IMÓVEL. BOA-FÉ. AUSÊNCIA. REEXAME. SÚMULAS 7 E 375-STJ. REGISTRO DA PENHORA. INEXISTÊNCIA. RECURSO NÃO PROVIDO. ..
+3. Concluir-se, na hipótese dos autos, pela existência de boa-fé dos recorrentes importa, necessariamente, no reexame de fatos e provas soberanamente delineados pelas instâncias ordinárias. Incidência da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1205294/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/08/2012, DJe 27/08/2012)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO E CONTRATO DE SEGURO DE VIDA. DOENÇA PRE-EXISTENTE.
+VIOLAÇÃO AOS ARTS. 765 E 766, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL E DISSÍDIO JURISPRUDENCIAL. ALEGAÇÃO DE AUSÊNCIA DE BOA-FÉ DO CONTRATANTE. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal da alegada ausência de boa-fé da segurada demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ. ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1149926/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)
+3.Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se
