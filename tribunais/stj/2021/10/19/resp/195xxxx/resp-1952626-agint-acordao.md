@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, dar parcial provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por EDUARDO ERNESTO BAZHUNI MAIAcontra a decisão que não conheceudoRecurso Especial, fundamentada na: i. incidência, por analogia, da Súmula n. 284, do Supremo Tribunal Federal; e ii. aplicação da Súmula n. 07, do Superior Tribunal de Justiça.
+Sustenta o Agravante, em síntese(fls. 471/479e):
+Sobre o enunciado da Sumula nº. 07 deste Egrégio, com a devida vênia, mas não incide o óbice nele previsto, já que, partindo das premissas adotadas no v. acórdão recorrido, o expressamente firmado no voto condutor do julgado, possível constatar a violação ao artigo 240 do Código de Processo Civil, especialmente o previsto em seu §3º, não podendo ser atribuído à máquina do judiciário a culpa exclusiva pela demora na formação da relação processual na ação de execução fiscal em que proferida a r. decisão de 1º grau agravada.
+Expresso no v. acórdão recorrido o lapso temporal em que o processo ficou parado, sem qualquer manifestação das partes (o agravante sequer tinha sido citado), bem como a "justificativa" pela inércia (quando imputado, por consequência, ao mecanismo do judiciário, a culpa exclusiva pela demora para que a relação processual fosse formada), permitindo, assim, sem que nada mais nos autos tenham que ser analisado, mas somente o contido no voto condutor do julgado recorrido, que este Egrégio Tribunal afira, analisando a fundamentação do julgado, se tal pecha pode ser imputada exclusivamente ao serviço judiciário.
+ ..
+Quanto ao firmado na r. decisão ora agravada a respeito da violação ao artigo 1.022 do Código de Processo Civil, ao pensar do agravante, devidamente demonstrada, pois tendo a Colenda Câmara do Egrégio Tribunal a quo justificado a imputação da culpa exclusiva ao serviço judiciário porque teria ocorrido infortúnios com o juiz, então, argumentos capazes, ainda que em tese, de alterar a conclusão do julgado, precisavam ser enfrentados.
+ ..
+Desta forma, coma devida vênia, mas a r. decisão ora agravada está fundada em erro de fato (que se define, verbis: "O erro de fato pressupõe a demonstração de que a decisão admitiu fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido"-AgInt nos EDcl no AREsp 1.129.334/RS, Relator Min. Antonio Carlos Ferreira, Quarta Turma, DJe 8.10.2018), já que considerou como existente, fixação de honorários advocatícios na instância inferior, fato inexistente.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 483/487e.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. PRESCRIÇÃO. MOROSIDADE DO PODER JUDICIÁRIO. ACÓRDÃOEMBASADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. AUSÊNCIA DE CONDENAÇÃO ANTERIOR EM HONORÁRIOS ADVOCATÍCIOS. HONORÁRIOS RECURSAIS.NÃO CABIMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Revela-se deficiente a fundamentação do recurso quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III -Rever o entendimento da Corte de origem, com o objetivo de acolher a pretensão recursal de reconhecer a prescrição, bem como acerca da aplicação da Súmula n. 106/STJ, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte.
+IV - Revela-se incabível a condenação em honorários recursaisquandonão houve a fixação anterior da verba honorária de sucumbência.
+V -Agravo Interno parcialmente provido tão somentepara afastar a condenação em honorários recursais.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Quanto ao mérito recursal, não assiste razão ao Agravante.
+Inicialmente, verifico a ausência de demonstração precisa de como a alegada violação ao art. 1.022 do CPC/2015 teria ocorrido, o que impede o conhecimento do recurso especial, nesse ponto.
+Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+Outrossim,o tribunal de origem, após minucioso exame dos elementos fáticos e probatórios contidos nos autos, afastou a prescrição, como segue (fls. 49/51e e 279e):
+Seguindo a linha de entendimento consagrada no Superior Tribunal de Justiça, este egrégio Tribunal de Justiça editou o verbete nº 218 que assim dispõe: "O crédito não tributário, estadual ou municipal, prescreve em cinco anos. " Portanto, consoante a aplicação isonômica do Decreto nº 20.910/32, bem como, da Súmula nº 218 deste Tribunal, o prazo prescricional para o crédito, decorrente de multa administrativa, é de cinco anos, contados da data de seu vencimento.
+Desta forma, ajuizada a execução fiscal em 24.11.08 5 , a pretensão decobrança dos valores concernentes à multa não havia sido alcançada pela prescrição.
+O despacho liminar positivo foi prolatado aos 13.1.09 6 , certo que nos anos seguintes, o exequente diligenciou a localização do executado para citação.
+Tal como descrito nas contrarrazões:
+Em 21/07/2009, sobreveio resposta negativa da diligência citatória cumprida por oficial de justiça, informando que o Executado, ora Agravante, não foi localizado no endereço fornecido, em duas ocasiões distintas, mesmo com pedido de contato (Anexo 1, index 000056).
+Devidamente intimado, coube ao Estado requerer a expedição de ofício à Secretaria de Receita Federal, a fim de obter informação atualizada do endereço do Executado, em 06/11/2009.
+Contudo, em razão de infortúnios de ordem pessoal que acometeram o Exmo. Juiz titular da 1ª Vara Cível de São Gonçalo, além do atribulado expediente cartorário, somente em 10/06/2014 o processo teve andamento, permanecendo parado em Cartório por quase 5 anos (Anexo 1, index 000058, fls. 60/61).
+Em 28/08/2014, sobreveio resposta ao ofício expedido, informando o endereço atualizado do Executado, motivo pelo qual coube ao Estado requerer a renovação da diligência citatória em novo endereço (Anexo 1, index 000066). Deferido o pedido do Estado, a diligência resultou negativa, posto que o Executado novamente não foi encontrado, desta vez no endereço indicado nos dados cadastrais da Receita Federal, conforme Certidão expedida pelo Oficial de Justiça em 26/10/2016 (Anexo 1, index 000067, fls. 68).
+Em 09/12/2016, o Estado, mais uma vez, requereu a renovação da diligência citatória por Oficial de Justiça em novo endereço, tendo sido o pedido do Estado deferido.
+Em que pese as sucessivas tentativas de localização do Executado nos mais diversos endereços cadastrados perante os órgãos competentes, sobreveio, em 30/08/2017, nova Certidão negativa da diligência citatória, uma vez que o Executado não se encontrava no endereço em que residia em nenhuma das 3 tentativas realizadas em diferentes dias e horários (Anexo 1, index 000067, fls. 77).
+À vista disso, o Estado se manifestou no sentido de requerer a citação por hora certa do Executado, bem como de solicitar o bloqueio eletrônico de valores em contas bancárias da titularidade do Executado, a fim de satisfazer o crédito exequendo, sendo atendido pelo juízo em despacho proferido em 10/10/2017.
+Em 16/10/2017, a parte obteve vista dos autos através de seu representante legal, dando-se por citada e apresentando, em seguida, Exceção de Pré-Executividade, a fim de desconstituir o crédito devidamente inscrito em dívida ativa sob o fundamento de prescrição intercorrente por ter sido citada mais de 8 anos após o ajuizamento da Execução Fiscal.
+Diante disso, nada desabona as premissas adotadas na decisão agravada  ..  em tendo a execução fiscal sido ajuizada depois do advento da Lei Complementar n.º 118/05, houve interrupção da prescrição com o despacho que ordenou a citação, não havendo falar em prescrição intercorrente porque aplicável a Súmula 106 do STJ, segundo a qual:
+Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência.
+O entendimento, ao contrário do alegado, consoa com o disposto no art. 240, § 3.º, do CPC, segundo o qual "a parte não será prejudicada pela demora imputável exclusivamente ao serviço judiciário", certo que expressamente consignado que o exequente não deu causa à demora na citação e, por tal razão, não pode ser prejudicado com o decreto de prescrição.
+Rever tal entendimento, com o objetivo de acolher a pretensão recursal de reconhecer a prescrição, bem como acerca da aplicação da Súmula n. 106/STJ, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Por outro lado, assiste razão ao Agravante quando defende a impossibilidade da majoração dos honorários advocatícios.
+De fato, esta Corte tem firme posicionamento segundo o qual se revelaincabível a condenação em honorários recursais quando não houve a fixação anterior da verba honorária de sucumbência.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ART.1.022 DO CPC/2015. RAZÕES GENÉRICAS. SÚMULA 284/STF. NÃO FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA PELA CORTE DE ORIGEM. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. A alegação genérica de violação do art. 1.022 do CPC/2015, sem demonstração de qual questão de direito não foi abordada ou estaria deficientemente fundamentada no acórdão proferido em sede de embargos de declaração e sua efetiva relevância para fins de novo julgamento pela Corte de origem é situação que não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+2. Incabível a fixação de honorários recursais se não houve condenação anterior em honorários advocatícios nas instâncias ordinárias.
+3. Agravo interno parcialmente provido, para excluir a condenação da agravante em honorários recursais.
+(AgInt no REsp 1646257/AL, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/06/2021, DJe 23/06/2021)
+In casu,a Corte a quo afastou a condenação em honorários de sucumbência (fls. 318/325e).
+Assim, embora o recurso especial seja inadmissível, não existeespaço para a fixação dos honorários recursais.
+Posto isso, DOU PARCIAL PROVIMENTO ao Agravo Interno tão somentepara afastar a condenação em honorários recursais.
