@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. INAPLICABILIDADE DA ISENÇÃO PREVISTA NO ART. 6º, INC. XIV, DA LEI 7.713/1988 AOS RENDIMENTOS DO PORTADOR DE MOLÉSTIA GRAVE QUE SE ENCONTRE NO EXERCÍCIO DE ATIVIDADE LABORAL. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. EXISTÊNCIA DE FATO SUPERVENIENTE PREJUDICIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A tese levantada nas razões do presente Agravo Interno, notadamente quanto à impossibilidade de se estender a isenção prevista no art. 6o., inc. XIV, da Lei 7.713/1988 à remuneração da atividade, não pode ser acolhida neste momento processual, por se tratar de inovação recursal, tendo em vista que o tema não foi levantado nas razões do recurso especial, ocorrendo, desse modo, a preclusão consumativa.
+2. Existência de decisão monocrática, posterior à interposição do Agravo Interno, dando provimento ao Recurso Especial da parte ora agravada para reconhecer o seu direito à reforma. Configuração de fato superveniente prejudicial.
+3. Agravo Interno da Fazenda Nacional não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves (Presidente), Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela FAZENDA NACIONAL contra decisão monocrática de relatoria do Ministro Napoleão Nunes Maia Filho, assim ementada:
+ADMINISTRATIVO E TRIBUTÁRIO. RECURSO ESPECIAL. MILITAR. ISENÇÃO DO IMPOSTO DE RENDA PREVISTA NO ART. 6o., INC. XIV DA LEI 7.713/88. AUSÊNCIA DE SINTOMAS DA ENFERMIDADE. AIDS. JURISPRUDÊNCIA NO SENTIDO DA CONTINUIDADE DO BENEFÍCIO. PRECEDENTES. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+2. Em suas razões recursais (fls. 339/348), a parte agravante defende, em síntese, que nos termos da jurisprudência desta Corte, bem como dos arts. 6o., inc. XIV, da Lei 7.713/1988 e 111, inc. II, do CTN, a isenção do IRPF aos portadores de moléstia grave limita-se aos proventos de aposentadoria, não beneficiando os contribuintes que se encontram no exercício da atividade laboral.
+3. Desse modo, requer a reconsideração da decisão agravada ou a submissão do feito ao Órgão Colegiado competente.
+4. É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. INAPLICABILIDADE DA ISENÇÃO PREVISTA NO ART. 6º, INC. XIV, DA LEI 7.713/1988 AOS RENDIMENTOS DO PORTADOR DE MOLÉSTIA GRAVE QUE SE ENCONTRE NO EXERCÍCIO DE ATIVIDADE LABORAL. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. EXISTÊNCIA DE FATO SUPERVENIENTE PREJUDICIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A tese levantada nas razões do presente Agravo Interno, notadamente quanto à impossibilidade de se estender a isenção prevista no art. 6o., inc. XIV, da Lei 7.713/1988 à remuneração da atividade, não pode ser acolhida neste momento processual, por se tratar de inovação recursal, tendo em vista que o tema não foi levantado nas razões do recurso especial, ocorrendo, desse modo, a preclusão consumativa.
+2. Existência de decisão monocrática, posterior à interposição do Agravo Interno, dando provimento ao Recurso Especial da parte ora agravada para reconhecer o seu direito à reforma. Configuração de fato superveniente prejudicial.
+3. Agravo Interno da Fazenda Nacional não provido.
+VOTO
+1. A despeito das alegações da parte agravante, o recurso não merece prosperar.
+2. Com efeito, a Primeira Seção desta Corte, no julgamento do Resp 1.814.919/DF, submetido ao rito dos recursos repetitivos, firmou o entendimento de que não se aplica a isenção do imposto de renda prevista no inciso XIV do artigo 6º da Lei nº 7.713/1988 (seja na redação da Lei nº 11.052/2004 ou nas versões anteriores) aos rendimentos de portador de moléstia grave que se encontre no exercício de atividade laboral (Tema 1.037/STJ, Rel. Ministro OG FERNANDES, DJe 4.8.2020).
+3. Ocorre que a tese levantada nas razões do presente Agravo Interno, notadamente quanto à impossibilidade de se estender a isenção prevista no art. 6o., inc. XIV, da Lei 7.713/1988 à remuneração da atividade, não pode ser acolhida neste momento processual, por se tratar de inovação recursal, tendo em vista que o tema não foi levantado nas razões do recurso especial, ocorrendo, desse modo, a preclusão consumativa.
+4. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. 1. VIOLAÇÃO AO ART. 1.022, INCISO II, DO CPC/2015. OMISSÃO. INEXISTÊNCIA. 2. COBERTURA. LIMITAÇÃO DO NÚMERO DE SESSÕES. CLÁUSULA ABUSIVA. SÚMULA N. 83/STJ. 3. PEDIDO DE DIREITO À COBRANÇA DE COPARTICIPAÇÃO PARA O CUSTEIO DAS SESSÕES QUE EXCEDEREM O LIMITE CONTRATUAL. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. 4. AGRAVO INTERNO IMPROVIDO.
+1. Observa-se que o aresto recorrido é claro ao justificar a existência de abusividade da cláusula contratual que limita o tratamento médico utilizado pelo contratante, rejeitando, assim, os aclaratórios por entender que a jurisprudência vigente no Superior Tribunal de Justiça obsta o acolhimento de embargos de declaração quando se constata a ausência de qualquer vício descrito no art. 1.022 do CPC/2015.
+2. O entendimento adotado pelo acórdão recorrido está em harmonia com a jurisprudência desta Corte Superior, já que a cláusula contratual de limitação do número de sessões de tratamento a ser realizado pelo segurado, ora recorrido, mostrou-se abusiva. Súmula n. 83/STJ.
+3. Inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+4. Agravo interno improvido (AgInt no REsp 1912262/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/04/2021, DJe 29/04/2021)
+5. E mesmo que assim não fosse, compulsando os autos, verifica-se a existência de fato superveniente prejudicial, qual seja, o provimento do Recurso Especial interposto pela parte aqui agravada reconhecendo o seu direito à reforma (fls. 360/366). A propósito, confira -se a ementa do julgado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MILITAR. HIV. DIREITO À REFORMA. PRECEDENTES DO STJ. AUXÍLIO-INVALIDEZ. REQUISITOS NÃO PREENCHIDOS. SUMULA 7/STJ. RECURSO ESPECIAL DO MILITAR A QUE SE DÁ PARCIAL PROVIMENTO.
+6. Diante dessas considerações, nega-se provimento ao Agravo Interno da Fazenda Nacional.
+7. É o voto.
