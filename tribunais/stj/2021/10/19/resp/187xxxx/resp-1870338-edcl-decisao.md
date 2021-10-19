@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática em que são partes INSTITUTO NACIONAL DO SEGURO SOCIALe THEODORO RAUL STUMPF.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe do seguinte trecho da petição:
+O embargante entende haver contradição na decisão embargada no ponto da majoração de honorários em sede recursal em razão da sucumbência, tendo em vista que estão preenchidos os requisitos para a possibilidade de majoração, eis que houve a fixação de verba honorária na origem, se trata de decisão já na vigência do NCPC e o recurso do INSS não foi provido, inclusive com contrarrazões do embargante. Com efeito, a decisão embargada reconhece como devida a fixação de honorários fixada na origem, todavia entende por não majorar os honorários em sede recursal, conforme sedimentado no art.85, §11º do CPC, decidindo da seguinte forma:
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe do seguinte trecho da decisão:
+Em relação ao pedido formulado pelos exequentes nas contrarrazões ao recurso especial, a pretexto de majoração dos honorários advocatícios de 10% para 20% sobre o valor da execução, não merece acolhida o pedido, uma vez que em recurso exclusivo do INSS não é possível a majoração dos honorários, por configurar reformatio in pejus.
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
