@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de STEVEN VICTOR PEREIRA DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2155351- 34.2020.8.26.0000).
+Depreende-se dos autos que o Juízo das Execuções indeferiu o pleito de prisão domiciliar formulado em favor do paciente(e-STJ fls. 27/28).
+Inconformada, a defesa impetrou habeas corpus; o Tribunal de Justiça denegou a ordem (e-STJ fls. 29/33).
+Daí o presente writ, no qual alega a defesa que o paciente está submetido ao regime fechado, exposto aos riscos que a pandemia de Covid-19 impõe, quando poderia, observada a Recomendação n. 62/2020 do CNJ, estar em prisão domiciliar.
+Acrescenta que "a solução de antecipação de saída para os que estão em unidades superlotadas já deveria ser aplicada, nos termos da Súmula Vinculante n. 56, STF,antes mesmo do quadro atual. Agora, com uma PANDEMIA que tem consequências desconhecidas e pode ocasionar milhares de mortes no sistema prisional, com maior razão deve ser aplicada imediatamente" (e-STJ fl. 17).
+Requer, liminarmente e no mérito, "a substituição da pena privativa de liberdade em estabelecimento prisional pela prisão domiciliar" (e-STJ fl. 22).
+Liminar indeferida às e-STJ fls. 36/37.
+Prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 58/60).
+É o relatório.
+Decido.
+Como visto no relatório, a impetração cinge-se à concessão da prisão domiciliar ante a atual pandemia da COVID-19.
+Todavia, não verifico a existência do constrangimento ilegal alegado.
+Confira-se, no que interessa, o que consta do acórdão impugnado (e-STJ fl. 32):
+A despeito da questão da pandemia de Covid-19, destaca-se que o artigo 5º, III, da Recomendação n. 62, do Conselho Nacional de Justiça 1 , recomenda que seja concedida prisão domiciliar as pessoas presas em cumprimento de pena em regime aberto e semiaberto, mediante condições a serem definidas pelo juiz da execução.
+Todavia, não restou comprovado nos autos que o paciente pertença a qualquer grupo de risco da pandemia ou que esteja submetido a situação excepcional que justifique a concessão da prisão domiciliar.(Grifei).
+Como se vê, a despeito de o paciente ter sido condenado a cumprir pena no regime semiaberto, a condenação se deu pela prática de delito praticado mediante violência e grave ameaça, tendo o Tribunal de origem afirmado não ter sido comprovado que ele pertence ao grupo de risco do coronavírus.
+Registre-se que, em razão da atual pandemia de Covid-19 e ante os reiterados esforços do Poder Público para conter a disseminação do novo coronavírus, inclusive nas unidades prisionais, esta Casa e, particularmente, este relator vêm olhando com menor rigor para os variados casos que aportam a esta Corte, flexibilizando, pontualmente, a jurisprudência do Superior Tribunal de Justiça na hipótese de crimes praticados sem violência ou grave ameaça e/ou que não revelem, ao menos num primeiro momento, uma maior gravidade e uma periculosidade acentuada do agente, o que não corresponde ao caso dos autos, em que se está diante de paciente que cumprepena pela prática de roubo.
+É de relevo mencionar, também, que o Poder Público não se quedou inerte diante da situação. O Conselho Nacional de Justiça publicou a Recomendação n.62/2020, pela qual adotou medidas preventivas à propagação da infecção pelo novo coronavírus (Covid-19) no âmbito dos sistemas de justiça penal e socioeducativo. O Ministério da Justiça e o Ministério da Saúde também publicaram a Portaria Interministerial n. 7, adotando uma série de medidas para o enfrentamento da situação emergencial.
+A propósito do tema, pontuou com maestria o Ministro Rogerio Schietti que "a crise do novo coronavírus deve ser sempre levada em conta na análise de pleitos de libertação de presos, mas, ineludivelmente, não é um passe livre para a liberação de todos, pois ainda persiste o direito da coletividade em ver preservada a paz social, a qual não se desvincula da ideia de que o sistema de justiça penal há de ser efetivo, de sorte a não desproteger a coletividade contra os ataques mais graves aos bens juridicamente tutelados na norma penal" (HC n. 567.408/RJ, DJe de 23/3/2020).
+Não há como se ignorar, também, que, apesar dese tratarde condenação no regime semiaberto, extrai-se do acórdão de origem que o paciente se encontra preso preventivamente pelo suposto cometimento do delito de roubo majorado.
+Logo, ainda que, hipoteticamente, pudesse se cogitar da concessão da prisão domiciliar no tocante à execução da pena a ser cumprida no regime intermediário, custodiado permaneceria o paciente por força de custódia preventiva ordenada em razão da possível prática de novo crime praticado mediante violência e grave ameaça, a saber, roubo majorado.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
