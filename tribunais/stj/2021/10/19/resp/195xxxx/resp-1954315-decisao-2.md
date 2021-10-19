@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto porHIPERHAUS CONSTRUCOES LTDAcom fundamento no art. 105, III, "a", da Constituição Federal de 1988, em face de acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. RGPS. ADICIONAIS DE HORAS EXTRAS, NOTURNO, DE PERICULOSIDADE E DE INSALUBRIDADE. AVISO PRÉVIO INDENIZADO E RESPECTIVO DÉCIMO TERCEIRO PROPORCIONAL. COMPENSAÇÃO. TAXA SELIC.
+1. Não incide contribuição previdenciária sobre verbas pagas a titulo de aviso prévio indenizado, e respectivo décimo terceiro relativo ao mês do aviso prévio Indenizado, por não comportarem natureza salarial, mas nítida feição indenizatória.
+2. Consoante orientação jurisprudencial do Superior Tribunal de Justiça (REsp 1.358.281/SP - recurso representativo da controvérsia - e-DJ de 5/12/2014), deve incidir contribuição previdenciária sobre os adicionais de hora extra, noturno,. de periculosidade, de insalubridade e de transferência. Ressalva do entendimento da relatora, em sentido contrário.
+3. A compensação das contribuições sociais incidentes sobre a remuneração paga ou creditada aos segurados far-se-á com contribuições destinadas ao custeio da Seguridade Social, nos termos do disposto no art. 26, parágrafo único, da Lei 11.457/2007.
+4. A correção monetária do indébito tributário devera incidir desde os recolhimentos indevidos dos valores, em decorrência da Súmula 162 do STJ, com aplicação da Taxa SELIC, desde janeiro de 1996, e de juros obtidos pela aplicação do referido índice (arts. 39, § 4, da Lei 9.250/1995 e 89, § 4 2 , da Lei 8.212/1991, com a redação dada pela Lei 11.941/2009).
+5. Apelação e remessa oficial a que se nega provimento.
+Os embargos de declaração foram rejeitados, conforme fls. 225-229.
+No apelo especial (fls. 233-258), a recorrente alega violação aos artigos 489 e 1.022 do Código de Processo Civil, requerendo o reconhecimento da afronta direta aos artigos indicados, e consequentemente, declarar a inexigibilidade da contribuição social previdenciária pretensamente incidente sobre os valores pagos aos empregados e trabalhadores avulsos a título adicionais a "horas extras", "adicional noturno", "insalubridade", "periculosidade" e "transferên- cia", bem como a compensação dos valores indevidamente recolhidos.
+Com contrarrazões.
+Decisão parcial deadmissibilidade às fls. 354-355.
+É o relatório. Passo a decidir.
+Inicialmente consigne-se que ao presente recurso incide o Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso dos autos, a decisão de admissibilidadeobstou o recurso especial aos seguintes fundamentos: (i) em regime de recurso repetitivo, o Superior Tribunal de Justiça "decidiu que incide contribuição previdenciária sobre as horas extras (Tema 687) e sobre os adicionais noturno (Tema 688) e de periculosidade (Tema 689) (REsp 1.358.281, rel. Min. HERMAN BENJAMIN, Primeira Seção, DJe 05/12/2014)", razão por que negou seguimento ao recurso, com fundamento no art. 1.030, I, b, do CPC/2015; e (ii) não admitiu o recurso especial, quanto às demais verbas, a jurisprudência do STJ encontra-se sedimentada no sentido de que incide contribuição previdenciária sobre os adicionais de insalubridade.
+Inicialmente, quanto à negativa de seguimento ao recurso com fundamento no art. 1.030 do CPC/2015, o Novo Estatuto Processual prevê expressamente o cabimento do agravo interno contra a decisão da Corte de origem que inadmitir o apelo nobre com base em entendimento desta Corte firmado em recurso repetitivo.
+Na espécie, contudo, o recorrentenão interpôs agravo interno quanto às questões não admitidas com fundamento em entendimento firmado em recurso repetitivo, o que configura erro grosseiro e inviabiliza o conhecimento do recurso especial.
+A propósito:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. CONFORMIDADE COM RECURSO REPRESENTATIVO DE CONTROVÉRSIA. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. IMPUGNAÇÃO POR AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO.
+1. É manifestamente inadmissível o agravo em recurso especial interposto contra decisão que nega seguimento a recurso especial, por estar o acórdão recorrido em consonância com entendimento exarado no regime de julgamento de recursos repetitivos.2. Segundo o art. 1.030, I, "b", § 2º, do CPC/2015, o recurso adequado nessa hipótese é o agravo interno do art. 1.021 desse diploma normativo.
+3. O manejo de agravo em recurso especial configura erro grosseiro (art. 1.042 do CPC/2015), o que afasta a aplicação do princípio da fungibilidade recursal.
+4. O recurso manifestamente improcedente atrai a multa prevista no art. 1.021, § 4º, do CPC/2015, na razão de 1% a 5% do valor atualizado da causa.
+5. Agravo interno desprovido, com aplicação de multa.
+(AgInt no AREsp 1.097.673/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 23/2/2018)
+Com efeito, quanto ao adicional de transferência a orientação desta Corte é firme no sentido de que o adicional de insalubridade integra o conceito de remuneração e se sujeita à incidência de contribuição previdenciária.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA.REGIME GERAL DA PREVIDÊNCIA SOCIAL. INCIDÊNCIA SOBRE AS SEGUINTES VERBAS: ADICIONAIS DE HORAS-EXTRAS, NOTURNO, INSALUBRIDADE, PERICULOSIDADE E TRANSFERÊNCIA.
+ ..  2. A orientação desta Corte é firme no sentido de que o adicional de insalubridade integra o conceito de remuneração e se sujeita à incidência de contribuição previdenciária (AgRg no AREsp 69.958/DF, 2ª Turma, Rel. Min. Castro Meira, DJe de 20.6.2012; AgRg no REsp 957.719/SC, 1ª Turma, Rel. Min. Luiz Fux, DJe de 2.12.2009).
+ ..  4. Agravo regimental não provido ( AgRg no REsp 1474581 / SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 05/11/2014, grifo nosso).
+TRIBUTÁRIO PREVIDENCIÁRIA. FÉRIAS GOZADAS. INCIDÊNCIA.PRECEDENTES. ADICIONAL DE INSALUBRIDADE. INCIDÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ.SUCUMBÊNCIA RECÍPROCA. ART. 21 DO CPC. REEXAME DE FATOS E PROVAS.IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Coaduna-se com a jurisprudência do STJ o entendimento firmado pela Corte de origem no sentido de que incide contribuição previdenciária sobre as férias gozadas e adicional de insalubridade. Súmula 83/STJ.
+2. Pretendem as recorrentes que seja afastada a sucumbência mínima fixada no acórdão recorrido com fundamento no art. 21 do CPC. A referida discussão enseja o revolvimento da matéria fático-probatória, vedada nesta Corte pela Súmula 7/STJ.
+Agravo regimental improvido (AgRg no REsp 1495293 / SC, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 09/02/2015, grifo nosso).
+Por fim,, afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Ante o exposto, conheço parcialmente do recurso especial, e nessa extensão, nego provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO.RECURSO ESPECIAL. DECISÃO DE ADMISSBILIDADE. FUNDAMENTO EM ENTENDIMENTO FIRMADO EM REPETITIVO. HIPÓTESE DO ART. 1.030, I, B, E § 2º, DO CPC/2015. DEMAIS FUNDAMENTOS. CONTRIBUIÇÃO PREVIDENCIÁRIA. ADICIONAL DE TRANSFERÊNCIA. INCIDÊNCIA. VIOLAÇÃO AO ART. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E NESSA EXTENSÃO, NÃO PROVIDO.
