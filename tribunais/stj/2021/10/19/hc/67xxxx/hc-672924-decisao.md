@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JULIANO GONCALVES NEPOMUCENO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2215673-20.2020.8.26.0000).
+O paciente teve a prisão em flagrante - ocorrida em 4/6/2020 - convertida em preventiva a pedido do Ministério Público (fl. 70), e foi denunciado por suposta prática dos delitos descritos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.
+Argumenta que houve a quebra da cadeia de custódia com a ausência de lacre nas substâncias apreendidas (fl. 11).
+Ressalta que está configurado o excesso de prazo na formação da culpa, estando o paciente acautelado há mais de 350 dias (fls. 6-7).
+Assevera que houve violação de domicílio, pois os policiais ingressaram na residência do paciente sem ordem judicial ou justa causa (fl. 13).
+Pleiteia o trancamento da ação penal ou, subsidiariamente, a revogação da prisão preventiva do paciente, com a sua substituição por medidas cautelares diversas.
+O pedido de liminar foi indeferido (fls. 348-349).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 381-386).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Quanto à quebra da cadeia de custódia das provas, o Tribunal a quo fundamentou da seguinte forma (fls. 328-329):
+Insurge-se o(a) impetrante contra ato do Juízo da 1ª Vara da Comarca de Ubatuba, aduzindo haver constrangimento ilegal em razão da quebra da cadeia de custódia das provas, pugnando pela revogação da prisão preventiva do paciente e pelo trancamento da ação penal originária.
+A importância de ser preservada a cadeia de custódia, 20764 positivada nos artigos 158-A a 158-F do Código de Processo Penal, é inegável, consoante já afirmado nas folhas 133/136 destes autos, tanto que foram requisitadas informações específicas à autoridade policial de origem, para que esclarecesse os pontos controvertidos suscitados pelo impetrante.
+E com a juntada das informações nas folhas 167/180 destes autos, verifica-se que de fato se tratou de mero equívoco na elaboração e na juntada do laudo pericial às folhas 114/116 da origem, o que foi devidamente sanado através dos laudos às folhas 169/172 e 173/175 e 176/178 destes autos, não havendo mais o que se falar em nulidade da prova da materialidade delitiva.
+Observo, neste ponto, que em momento algum a defesa do paciente suscitou, perante o juízo a quo, o equívoco constatado, tampouco pleiteou a rejeição da denúncia e o trancamento da ação penal por ausência de materialidade delitiva, nem mesmo quando da apresentação de defesa preliminar nas folhas 121/125.
+No caso, o Tribunal de origem entendeu que a discussão a respeito da quebra da cadeia de custódia se deu por mero equívoco na juntada dos laudos periciais, o que foi prontamente corrigido com os documentos acostados "às folhas 169/172 e 173/175 e 176/178 destes autos, não havendo mais o que se falar em nulidade da prova da materialidade delitiva" (fl. 329), situação validada pelo juízo competente com base na análise acerca dos elementos de prova colhidos durante a instrução criminal.
+Dessa forma, não há como desconstituir os fundamentos apresentados pela Corte a quo sem a necessidade de produção probatória, o que é vedado na via estreita do habeas corpus.
+Já em relação às alegações referentes ao excesso de prazo e à violação de domicílio, verifico que a discussão não foi enfrentada pelo Tribunal a quo, o que impede sua análise pelo STJ, sob pena de indevida supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+A título descritivo, vale destacar que eventual nulidade referente à invasão de domicílio do paciente, a despeito do seu não enfrentamento pela instância ordinária, poderá ser objeto de contestação em momento oportuno, durante o prosseguimento da ação penal originária, em respeito ao contraditório e à ampla defesa.
+Por fim, em consulta realizada no site do TJSP ( Ação Penal n. 1502378-68.2020.8.26.0642), verifica-se que foi concedido o habeas corpus para o paciente LUCAS PINHEIRO RODRIGUES DE BARROS, com extensão ao corréu JULIANO GONCALVES NEPOMUCENO, impondo medidas cautelares diversas da prisão, tendo sido o alvará de soltura cumprido.
+Assim, considerando a nova realidade fático-processual, evidencia-se a prejudicialidade do pedido de revogação da prisão preventiva, tendo em vista a perda superveniente de objeto.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
