@@ -1,0 +1,4 @@
+LEI Nº 14.224, DE 18 DE OUTUBRO DE 2021
+Denomina Aeroporto Internacional de Campo Grande - Ueze Elias Zahran o aeroporto internacional da cidade de Campo Grande, no Estado de Mato Grosso do Sul.
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
