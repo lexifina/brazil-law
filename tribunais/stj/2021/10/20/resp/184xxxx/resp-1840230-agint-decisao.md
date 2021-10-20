@@ -1,0 +1,10 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo internomanejadopelo Estado do Paranácontra decisão que deuprovimento ao recurso especialpara reconhecer a inaplicabilidade do § 8º do artigo 85do CPC ao caso (e-STJ, fls. 743-746).
+O agravante aponta quehaveria possibilidade de fixação dos honorários advocatícios em parâmetros inferiores aos previstos nos §§ 2º e 3º do artigo 85 doCPC.
+É o relatório.
+Verifica-se que a matéria deduzida no presente recurso especial ("Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados.") foi afetada para julgamento sob a sistemática do repetitivo, Tema 1.076, nos autos dos REsps n. 1.877.883/SP e 1.850.512/SP, de minha relatoria, submetidos ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, torno sem efeito a decisão de e-STJ,fls. 743-746, e determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte,para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
