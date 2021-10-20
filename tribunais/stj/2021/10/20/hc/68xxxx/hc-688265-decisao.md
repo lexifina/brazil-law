@@ -1,0 +1,14 @@
+DECISÃO
+GABRIEL DA SILVA GONÇALVES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo, em que foi mantida a decisão de primeiro grau, que determinou a elaboração de prova pericial para aferição do requisito subjetivo para o livramento condicional.
+A defesa assere que "a análise promovida pelo órgão julgador de 1º e 2º graus, ao indeferir o pleito de livramento condicional com base na ausência de requisito subjetivo, levou em consideração a prática de falta grave/crime doloso em 07/05/2013, há mais de 8 anos" (fl. 5).
+Requer, liminarmente e no mérito, a concessão do benefício.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 251-255).
+Decido.
+A Corte de origem assim se manifestou sobre a controvérsia (fl. 235):
+Conforme o relatório da situação processual executória emitido em 20.5.2021, o agravante alcançou o requisito objetivo para o livramento condicional em 20.2.2021. Contudo, praticou crime doloso durante o cumprimento da pena, em 7.5.2013, quando se encontrava em regime aberto/domiciliar.
+É incontroverso que o agravante cumpriu os requisitos objetivos para a concessão do livramento condicional. No entanto, o critério subjetivo, no que tange ao bom comportamento, não restou atendido, devido à prática de crime doloso enquanto cumpria a pena em regime aberto/domiciliar.
+Todavia, "A jurisprudência deste Superior Tribunal de Justiça tem se manifestado no sentido de que a gravidade do delito, as faltas graves antigas, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não constituem fundamentos idôneos para o indeferimento do benefício do livramento condicional" (HC n. 384.838/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 7/4/2017, grifei).
+Na hipótese, percebe-se que, à época da análise do pedido (12/5/2021), a infração disciplinar mencionada já distava mais de 8 anos de seu cometimento, visto que foi praticada em 7/5/2013, de modo que não macula, per si, o preenchimento do requisito de ordem subjetiva.
+É imperioso destacar a alteração promovida pela Lei n. 13.964/2019 no inciso III do artigo 83 do Código Penal, cuja redação estabelece que, para a concessão do livramento condicional, é necessário que o apenado comprove o "não cometimento de falta grave nos últimos 12 (doze) meses". Portanto, reside o óbice tão somente nos doze meses antecedentes à solicitação do benefício, o que torna ainda mais desarrazoado seu indeferimento com fulcro em infrações disciplinares cometidas há mais de 8 anos.
+À vista do exposto, concedo a ordem, para determinar ao Juízo da Execução que reexamine o pedido de livramento condicional e, uma vez confirmados o bom comportamento carcerário e o cumprimento do lapso objetivo do art. 83 do CP, nos dias atuais, conceda o benefício ao paciente, sem sopesar dados não relacionados ao período de resgate da pena.
+Publique-se e intimem-se.
