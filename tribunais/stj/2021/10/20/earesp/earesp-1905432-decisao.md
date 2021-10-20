@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de divergência opostos peloMINISTÉRIO PÚBLICO FEDERAcontra acórdão da Sexta Turma, assim ementado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO INFIRMADO ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO CONHECIDO. APELAÇÃO. ACÓRDÃO. CONFISSÃO PARCIAL. UTILIZAÇÃO COMO FUNDAMENTO PARA MANTER A CONDENAÇÃO. ATENUAÇÃO OBRIGATÓRIA. SÚMULA N. 545 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. O recurso especial, quanto ao pleito pelo reconhecimento da atenuante da confissão espontânea, não foi conhecido ante a incidência das Súmulas n. 284 do Supremo Tribunal Federal e n. 7 do Superior Tribunal de Justiça.
+2. Nas razões do agravo regimental não foi infirmado o fundamento relativo à aplicação da Súmula 284/STF, o que atrai a incidência da Súmula n. 182 da Súmula desta Corte Superior, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Constatada a existência de ilegalidade patente, é possível a esta Corte Superior de Justiça corrigi-la por meio da concessão de Habeas Corpus, de ofício.
+4. O Tribunal de origem não aplicou a atenuante da confissão, afirmando que esta não existiu e que, por essa razão, a condenação nela não estaria também fundamentada. Entretanto, tal assertiva é contraditória com o conteúdo do acórdão recorrido que, ao manter a conclusão pela autoria delitiva, lançou mão das declarações dos Agravantes.
+5. Segundo a Súmula n. 545 do STJ, verbis: " q uando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal." O entendimento sumular incide mesmo nos casos de confissão parcial.
+6. Agravo regimental não conhecido. Habeas corpus concedido, de ofício. (e-STJ, fl. 2.358).
+Irresignado, o órgão de acusação afirma, primeiro, que a confissão pressupõe o reconhecimento de responsabilidade. Subsidiariamente, defende que o reconhecimento sobre ter havido ou não confissão deve ficar a cargo das instâncias ordinárias.
+Requer, assim, o acolhimento dos embargos para reformar o acórdão embargado.
+É o relatório.
+Decido.
+Nos termos do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência objetivam uniformizar os julgados entre os seus órgãos fracionários.
+No caso em exame, concluiu-se pela impossibilidade de se analisar o mérito do agravo em recurso especial. Porém, de ofício, concedeu-se a ordem para aplicar a atenuante da confissão espontânea.
+Note-se que, "ajurisprudência do Superior Tribunal de Justiça é firme no sentido de que não é admissível o recurso de embargos de divergência, quando o acórdão embargado não tenha apreciado o mérito ou a controvérsia, como na hipótese dos autos. (..)Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia."(AgInt nos EREsp 1732732/RS, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 02/03/2021, DJe 15/03/2021; grifou-se).
+Com efeito, entendo que a concessão da ordem de habeas corpus de ofício, em agravo no recurso especial, não afasta a regra acima exposta: o âmbito adequado para os embargos de divergência é em sede de recurso especial.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FRAÇÃO DE REDUÇÃO DA PENA PELA CONFISSÃO. AUSÊNCIA DE ANÁLISE DO TEMA NO RECURSO ESPECIAL. IMPOSSIBILIDADE DE CONFIGURAÇÃO DA DIVERGÊNCIA. CONFRONTO ANALÍTICO. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É inviável, nos embargos de divergência, o exame de tema não analisado no recurso especial. Assim, não há como ver caracterizada a divergência em relação à incidência da fração atenuante pela confissão, porquanto não discutida essa questão pela decisão embargada.
+2. Este Superior Tribunal de Justiça possui entendimento pacífico de que a divergência jurisprudencial que autoriza o processamento dos embargos de divergência deve ser precedida do confronto analítico entre os casos apontados como dissidentes. Não basta a mera transcrição de ementas.
+3. Agravo regimental não provido.
+(AgRg nos EAREsp 1376588/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 12/08/2020, DJe 25/08/2020).
+De toda sorte, ainda que assim não fosse, a tese recursal é manifestamente contrária à jurisprudência desta 3ª Seção. Conforme consignado no acórdão recorrido, a decisão condenatória, ao fundamentar a autoria delitiva, "lançou mão das declarações dos Agravantes": "" ..  apesar da manifestação na esfera administrativa negando a utilização desta conta, os acusados DONIZETE, DORIVAL e NELSON confirmaram em juízo os fatos que haviam sido constatados pela fiscalização" (e-STJ, fl. 2365; grifou-se). Sobre o tema, confira-se o entendimento desta 3ª Seção:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA. ARESTOS COM PREMISSAS FÁTICAS DISTINTAS. CONFISSÃO NÃO UTILIZADA NO CASO PARA CONDENAÇÃO.INDEFERIMENTO LIMINAR DOS EMBARGOS. PREVISÃO REGIMENTAL.POSSIBILIDADE.
+1. Inexiste divergência jurisprudencial entre o acórdão impugnado e o apontado como paradigma quando, no primeiro, a sentença não usa a confissão como base para condenação e, no segundo, a confissão, ainda que parcial, é levada em conta pelo édito condenatório.
+2. Uma vez constata a inexistência de caracterização da divergência, prevê o art. 266-C do RISTJ, que, "sorteado o relator, ele poderá indeferir os embargos de divergência liminarmente se intempestivos ou se não comprovada ou não configurada a divergência atual".
+3. Agravo regimental não provido.
+(AgRg nos EAREsp 1295973/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 13/05/2020, DJe 21/05/2020).
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL.NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL.POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ.COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA.FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO.REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA.DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - Na espécie, a incidência da atenuante prevista no art. 65, III, "d", do Código Penal, independe se a confissão foi integral ou parcial, especialmente quando utilizada para fundamentar a condenação. Incidência da Súmula n. 545/STJ.
+ .. VIII - A eventual possibilidade de aplicação do § 2º do art. 387 do Código de Processo Penal não foi enfrentada pelo Tribunal de origem, sendo inviável sua análise neste Tribunal Superior, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido.
+Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação.
+(HC 365.963/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017).
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
