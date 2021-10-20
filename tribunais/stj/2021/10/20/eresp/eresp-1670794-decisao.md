@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por VIPLAN - VIAÇÃO PLANALTO LTDA. contra acórdão da Quarta Turma assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ATROPELAMENTO. ÔNIBUS. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. PENSÃO MENSAL. VINCULAÇÃO AO SALÁRIO MÍNIMO. ATO ILÍCITO. POSSIBILIDADE. SÚMULA N. 83/STJ. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+5. Agravo interno a que se nega provimento.
+Alega a embargante que a posição adotada pela Quarta Turma diverge do entendimento sobre a mesma questão jurídica firmado pela Segunda Turma do STJnos autos do Recurso Especial n.959.072/MS, no sentido de que não é cabível a utilização do salário mínimo como fator de correção monetária.
+Afirma que o estabelecimento da indenização em saláriomínimovigenteà época do vencimento significa utilizá-lo como critério de atualização da condenação, providência vedada pela legislação: arts. 1º da Lei n.6.205/1975, 3º da Lei n. 7.789/1989 e 7º, IV,da CF/88.
+Requer o provimento do recurso para que seja dado provimento ao recurso especial e aplicado o direito à espécie, ou seja, o "exarado nos autos do Recurso Especial nº 959.072/MS".
+É o relatório.
+A pretensão não merece acolhida, pois, nos termos do entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, a admissibilidade dos embargos de divergência exige quetanto o acórdão embargado quanto o paradigma guardem o mesmo grau de cognição e identidade fática, o que não se verifica no caso concreto.
+Sobre o tema aqui em discussão, a Quarta Turma não tratou da aplicação da correção monetária como fator de atualização. Apenasmanteve o acórdão da Corte de origem no que tange à utilização do salário mínimo como base de cálculo da pensão em ação de indenização por ato ilícito, determinando que o pagamento fosse efetuado mensalmente, e não de uma vez, como estabelecidopelo Tribunal a quo.
+De toda sorte, a jurisprudência do STJnão impede que, em casos tais, a correção seja feita conforme o salário mínimo, já que se trata de pensionamento que visa assegurar alimentos aos filhos sobreviventes. O que é vedado é a utilização concomitante de índices de correção monetária e indexação pelo salário mínimo. Observe-se:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. PENSÃO MENSAL. FIXAÇÃO PELO JULGADOR.VALOR DE REFERÊNCIA SALÁRIO MÍNIMO. POSSIBILIDADE. VEDAÇÃO DEINDEXAÇÃO. CONVERSÃO EM VALORES LÍQUIDOS À DATA DO VENCIMENTO E,PARTIR DE ENTÃO, COM INCIDÊNCIA DE CORREÇÃO MONETÁRIA. DPVAT.DEDUÇÃO DA INDENIZAÇÃO FIXADA JUDICIALMENTE. COMPROVAÇÃO DO
+RECEBIMENTO OU DO REQUERIMENTO ADMINISTRATIVO. DISPENSÁVEL. EMBARGOS
+DE DIVERGÊNCIA PROVIDOS.
+1. O julgador pode fixar o valor da pensão mensal tomando como referência o valor do salário mínimo. Contudo, não é devida a indexação do valor da indenização, arbitrando-a com base no salário mínimo com a incidência concomitante de atualização monetária, sem que haja sua conversão em valores líquidos.
+2. As parcelas de pensão fixadas em salário mínimo devem ser convertidas em valores líquidos à data do vencimento e, a partir de então, atualizadas monetariamente. 3. A interpretação a ser dada à Súmula 246/STJ é no sentido de que a dedução do valor do seguro obrigatório da indenização judicialmente fixada dispensa a comprovação de seu recebimento ou mesmo de seu requerimento.
+4. Embargos de divergência providos para dar parcial provimento ao recurso especial em maior extensão. (EREsp n. 1.191.598/DF, relator Ministro Marco Aurélio Bellizze, DJe de 3/5/2017.)
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
