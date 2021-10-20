@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TJPR, assim ementado (fl. 476):
+APELAÇÕES CÍVEIS, RECURSO ADESIVO E REMESSA NECESSÁRIA - AÇÃO ORDINÁRIA PARA DECLARAR A ILEGALIDADE DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS COM RESTITUIÇÃO DOS - VALORES DESCONTADOS - SENTENÇA DE PROCEDÊNCIA CONSECTÁRIOS LEGAIS - ADOÇÃO DO ENTENDIMENTO FIRMADO NO RESP 1.495.146/MG (TEMA 905), NA PARTE REFERENTE ÀS CONDENAÇÕES JUDICIAIS DE NATUREZA TRIBUTÁRIA - ITEM 3.3 DO TEMA 905, DO STJ - JUÍZO DE RETRATAÇÃO EXERCIDO.
+Os embargos de declaração foram rejeitados.
+No apelo especial, orecorrente pugna, em síntese: a) anular o acórdão recorrido, pois caracterizada a afronta aoartigo 535, II, do CPC/73, ante a omissão da Corte julgadora quanto aos artigos 730 do Código de Processo Civil, 17, caput, da Lei Federal nº 10.259/2001, e 394 e 396 do Código Civil de 2002; quanto ao disposto no art. 167, parágrafo único, do Código Tributário Nacional, preceitos de lei federal que disciplinam o termo inicial de incidência de juros de mora nas condenações judiciais impostas à Fazenda Pública, em especial em se tratando de ação de repetição de indébito tributário.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 607-608.
+É o relatório. Passo a decidir.
+Preliminarmente, a análise pormenorizada dos presentes autos evidencia que o acórdão recorrido incorreu em afronta ao art. 535, II, do CPC/1973. Isso porque aquela Corte ao rejeitar os embargos do recorrente furtou-se a emitir juízo a respeito de ponto de suma relevância para o deslinde da controvérsia, qual seja:a) artigos 730 do Código de Processo Civil, 17, caput, da Lei Federal nº 10.259/2001, e 394 e 396 do Código Civil de 2002; quanto ao disposto no art. 167, parágrafo único, do Código Tributário Nacional, preceitos de lei federal que disciplinam o termo inicial de incidência de juros de mora nas condenações judiciais impostas à Fazenda Pública, em especial em se tratando de ação de repetição de indébito tributário.
+Nesse sentido, ao rejeitar os embargos de declaração do ora recorrente, era mister da corte de origem se pronunciar no concernente à questão supra, em homenagem ao princípio do tantum devolutum quantum appellatum que o recurso de apelação encerra, porquanto é defeso ao Superior Tribunal de Justiça debruçar-se sobre a questão ventilada nos embargos de declaração pela primeira vez.
+Isso posto, dou provimento ao recurso especial e declaro violado o 535, II, do CPC/1973. E, como consectário, determino a remessa dos presentes autos ao Tribunal de origem, a fim de que aquela Corte se manifeste sobre a matéria articulada nos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS PELO TRIBUNAL A QUO. OMISSÃO EVIDENCIADA. AFRONTA AO ART. 535 DO CPC/1973CONFIGURADA.RECURSO ESPECIAL PROVIDO.
