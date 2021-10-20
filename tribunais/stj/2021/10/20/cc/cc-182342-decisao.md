@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, suscitado por ENDICON ENGENHARIA DE INSTALAÇÕES E CONSTRUÇÕES LTDA. - EM RECUPERAÇÃO JUDICIAL, em face do r.Juízo de Direito da 13.ª Vara Cível e Empresarial de Belém-PA, onde tramita sua recuperação judicial (Processo n.º0825116-46.2021.8.14.0301e do r. Juízo da 3.ª Vara do Trabalho de Belém-PA, onde tramita Reclamação Trabalhista que lhemove Rosemiro da Silva Lima(Processo n.º 0000240-11.2015.5.08.0003).
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra bens da devedora solidária - Equatorial Pará Distribuidora de Energia S. A - nos autos da mencionada ação trabalhista, na qual figuram como reclamadas, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio.
+Cita, em favor de sua tese, os seguintes julgados deste STJ: AgInt no CC n.º 146.036/RS, Rel. MinistroRICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 20/09/2016; EDcl no AgRg no AgRg no CC 99.233/RJ, Rel. MinistroMARCO BUZZI, DJe de 19/11/2014; AgRg no CC 118.908/SP, Rel. MinistroPAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 27/08/2014, DJe de 26/09/2014; AgInt no CC 159.458/MG, Rel. MinistroLUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/06/2019, DJe 28/06/2019.
+Diante disso, requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição prossiga e inviabilize o processo de soerguimento ao qual está submetida. No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+O pedido liminar foi parcialmente deferido, nos termos da decisão de fls. 365-368.
+Prestadas as informações (fls. 375-384 e 385-386), o Ministério Público Federal opinou peloconhecimento do conflito e competência do juízo da recuperação judicial (fls. 388-391).
+É o relatório.
+Decido.
+1.Inicialmente, nos termos da jurisprudência do Superior Tribunal de Justiça, a Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face de empresa a ele pertencente (AgRg no CC 140.410/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 23/09/2015, DJe 01/10/2015). Confira-se, ainda, o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. COMPETÊNCIA DO JUÍZO TRABALHISTA PARA RECONHECIMENTO DA FORMAÇÃO DE GRUPO ECONÔMICO. DECISÃO MANTIDA.
+1. Esta Corte firmou o entendimento de que não há conflito competência quando o juízo do trabalho reconhece a existência de grupo econômico, para efeito de demanda trabalhista, envolvendo sociedade em recuperação judicial e, nesses termos, redireciona a execução laboral para o patrimônio da empresa que não está em processo de reerguimento, sem praticar atos que atentem contra os bens sujeitos à execução concursal. Precedentes.
+2. "A ficção jurídica do "grupo econômico", afirmada na Justiça do Trabalho, não produz efeitos no Juízo da Recuperação Judicial" (AgRg no CC 114.808/DF, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 13/4/2011, DJe 28/4/2011).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no CC 140.869/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 13/09/2017, DJe 21/09/2017 - grifamos)
+Na hipótese, verifica-seque a justiça laboral limitou-se a redirecionar a execução para a EQUATORIAL, em razão da sua condição de co-devedora.É, aliás, o que se extrai do seguinte excerto ora transcrito das informações de fls. 315-320:
+(..)
+Considerando o requerimento do autor formulado na petição de Id b7d4924; considerando o fato público e notório de que foi deferida a Recuperação Judicial da devedora principal; considerando que esta execução tramita de forma provisória; considerando a incerteza de que o reclamante receberá seus créditos no Juízo da Recuperação judicial que, quase sempre, se estende por vários anos sem que o crédito alimentar do trabalhador seja satisfeito, decido:
+Deferir o requerimento do exequente para determinar a reversão da execução contra a devedora subsidiária (EQUATORIAL), devendo a contadoria do Juízo providenciar a atualização dos cálculos, nos termos da sentença e do acórdão regional.
+Apurada a conta, citar a segunda executada para pagamento da dívida no prazo de 48 (quarenta e oito) horas, sob pena de início dos procedimentos executórios em seu desfavor.
+(..)
+Delimitado o cenário fático dos autos, cumpre destacar que o processamento de execução trabalhista em face de sociedade com personalidade jurídica distinta daquela que adentrou a fase falimentar, ainda que pertencente ao mesmo grupo econômico, não invade a esfera de competência do juízo universal. Nesse sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA - FALÊNCIA - EXECUÇÃO TRABALHISTA REDIRECIONADA - EMPRESA DO MESMO GRUPO ECONÔMICO - COMPETÊNCIA JUÍZO DO TRABALHO - PRECEDENTES DO STJ - DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS - AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há conflito de competência quando o redirecionamento da execução trabalhista, para empresas do mesmo grupo econômico, consideradas pela Justiça do Trabalho sucessoras da empresa em regime de falência, não atingir o patrimônio da empresa em recuperação ou submetida a concurso universal. Precedentes da Segunda Seção.
+2. Agravo regimental desprovido.
+(AgRg no CC 106.998/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 28/10/2015, DJe 05/11/2015)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO FALIMENTAR. EXECUÇÃO. RESPONSABILIDADE PELA DÍVIDA. QUESTÃO DECIDIDA NO ÂMBITO DA JUSTIÇA TRABALHISTA. INEXISTÊNCIA DE CONFLITO ENTRE OS JUÍZOS SUSCITADOS.
+1. O processamento da execução de sentença trabalhista em relação à sociedade com personalidade jurídica distinta daquela que adentrou a fase de recuperação ou logrou a quebra - ainda que do mesmo Grupo Econômico -, e que não está em processo de reorganização ou submetida a concurso universal, não viola o juízo atrativo da falência, não se verificando, assim, conflito entre os juízos suscitados.
+2. Precedentes específicos desta Corte.
+3. Entendimento em conformidade com o enunciado n.º 480 da Súmula do STJ.
+4. AGRAVO REGIMENTAL NÃO PROVIDO.
+(AgRg no CC 123.860/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 28/08/2013, DJe 04/09/2013)
+2. Ante o exposto, com fundamento no art. 955, parágrafo único, do CPC/2015,não conheço do conflito de competência e, por conseguinte, revoga-sea liminar de fls. 365/368.
+Publique-se. Intimem-se.
