@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto porLUIZRICARDODEGANIRAMOS e SÍLVIA MANDETTA PALUMBIcontra decisão que inadmitiu recurso especial (e-STJ, fls. 543-546)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 369):
+Agravo de instrumento. Cheque. Execução. Incidente dedesconsideração da personalidade jurídica. Emissão decheques entre as empresas em nítido caráter de se furtardo pagamento das cártulas. Identidade de sócios e comprovação de transferências dos cheques entre as empresas, o que demonstra, de maneira inequívoca, nãosomente a formação de grupo econômico, mas também a confusão patrimonial entre elas, fato pelo qual se mantéma reconhecida desconsideração de personalidade. Efeitosuspensivo revogado. Recurso improvido, com observação.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 398):
+Embargos declaratórios. Omissão. Inocorrência. Efeito infringente que não encontra supedâneo no artigo 1022, do Código de Processo Civil. Apreciação em sede de embargos declaratórios, que se limita a declarar a omissão e solucionar a contradição ou obscuridade. Embargos rejeitados.
+Nas razões do recurso especial, os recorrentes, com fulcro nas alíneasa e c do permissivo constitucional, alegaram divergência jurisprudencial e violação aos arts. 795 do CPC/2015 e 50 do CC/2002.
+Defenderam existir deficiência na prestação jurisdicional oferecida pelo Tribunal originário.Sustentaram não estarem presentes os requisitos legais para a desconsideração da personalidade jurídica.Afirmaram que a existência de inadimplência não constitui fundamento suficiente para a responsabilização dos sócios da pessoa jurídica.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls.543-546).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 549-553).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No apelo excepcional, os insurgentes defenderam a existência de negativa de prestação jurisdicional.
+Todavia,não há como ser examinada a tese, pois os recorrentes, nas razões recursais, não indicaram os dispositivos da legislação federal violados pelo aresto recorrido, situação que configura deficiência na argumentação.
+É necessário frisar que o recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente a argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão.
+Nesse sentido, incidente, in casu, o enunciado da Súmula 284/STF.
+Quanto à desconsideração da personalidade jurídica, o Tribunal de origem assim se manifestou (e-STJ, fls. 370-371):
+Com efeito, o pedido de desconsideração da personalidade jurídica da empresa traduz medida grave que somente se justifica com a comprovação da prática de atos irregulares de seus administradores, que, agindo contrariamente às finalidades estatutárias ou abusando da personalidade jurídica da empresa, venham a causar prejuízos a terceiros.
+Por outras palavras, a desconstituição da personalidade jurídica será cabível quando a sociedade tenha sido utilizada com intuito fraudulento ou abusivo, nos termos do disposto no artigo 50, do Código Civil:
+ ..
+No caso em tela, além de existir identidade entre os sócios das empresas citadas, nota-se, também, pelas informações prestadas às fls. 351/366 e pelos documentos colacionados às fls. 236/347, destes autos, que os cheques, que já possuíam caráter de título executivo, foram usados de forma fraudulenta pelas empresas para evitar o seu desconto, o que demonstra, de maneira inequívoca, não somente a formação de grupo econômico, mas também a confusão patrimonial entre elas, fato que autoriza a perseguida desconsideração de personalidade.
+Do excerto acima transcrito, depreende-se que a instância originária, após detido exame dos elementos de fatos e provas acostadas aos autos, entendeu que os recorrentes praticaram atos fraudulentos, constituindo, desse modo, confusão patrimonial apta a justificar a desconsideração da personalidade jurídica.
+De fato, a conclusão adotada pelo Tribunal estadual está em sintonia com a jurisprudência do Superior Tribunal de Justiça, a qual entende que, constatados abusos na adminstração da sociedade, indicativos de desvio de finalidade na administração da pessoa jurídica ou confusão patrimonial, é cabível a desconsideração da personalidade jurídica para responsabilização dos sócios.
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO.INSURGÊNCIA DA PARTE AGRAVANTE.
+1. A teoria da desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil, pressupõe a ocorrência de abusos da sociedade, advindo do desvio de finalidade ou da demonstração de confusão patrimonial.
+1.1 A mera dificuldade de encontrar bens suficientes para a satisfação do crédito discutido, associada à eventual constatação do estado de insolvência da empresa demandada, não constituem elementos suficientes para o deferimento do pedido de desconsideração de sua personalidade jurídica.
+2.Incide o óbice contido na Súmula 7/STJ à pretensão voltada para desconstituir os fundamentos que lastrearam o aresto recorrido, notadamente quanto ao não preenchimento dos requisitos necessários para o deferimento do pedido de desconsideração da personalidade jurídica da empresa executada.
+3. Esta Corte Superior de Justiça tem entendimento no sentido de que a incidência do referido óbice impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1872180/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/09/2021, DJe 23/09/2021)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA.ART. 50 DO CÓDIGO CIVIL. REQUISITOS. AUSÊNCIA. SÚMULA Nº 7/STJ. NÃO INCIDÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O entendimento do Superior Tribunal de Justiça é no sentido de que a desconsideração da personalidade jurídica a partir da Teoria Maior (art. 50 do Código Civil) exige a comprovação de abuso, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pelo que a mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não justifica o deferimento de tal medida excepcional.
+3. A falta de integralização do capital da sociedade limitada também não pode ser considerada como fundamento suficiente para a desconsideração da personalidade jurídica.
+4. Não há falar em incidência da Súmula nº 7/STJ porque a solução da controvérsia cinge-se a discutir a qualificação jurídica dos fatos delineados no acórdão recorrido.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1593637/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/06/2021, DJe 17/06/2021)
+Portanto, estando o posicionamento do Tribunal estadual em harmonia com a jurisprudência do STJ,incide a Súmula 83/STJ.
+Ademais, concluindo a Corte local pela existência dos requisistos legais para desconsideração da personalidade jurídica, mostra-se inviável ao STJ modificar os fundamentosadotados, ante a incidênciada Súmula 7/STJ.
+Noutro ponto, aplicados os enunciados sumulares retromencionados, fica prejudicada a análise do dissídio jurisprudencial indicado.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE CITAÇÃO DO DISPOSITIVO DA LEGISLAÇÃO FEDERAL VIOLADO. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ATOS ABUSIVOS. CONFUSÃO PATRIMONIAL. REQUISITOS LEGAIS CONSTATADOS. SÚMULA 83/STJ. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
