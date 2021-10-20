@@ -1,0 +1,32 @@
+DECISÃO
+JOSEILSON BARBOSA CAMELOalega sofrer coação ilegal diante do excesso de prazo para o julgamento da Apelação n. 0173061-27.2018.8.06.0001 peloTribunal de Justiça do Estado do Ceará.
+Nesta Corte, a defesa reputa injustificada a demora para o julgamento do recurso interposto contra a sentença que condenou o réu à pena de 16 anos e 2 meses de reclusão, em regime inicial fechado, e 200 dias-multa, como incurso nos arts. 157, §§ 2º, II, e 2º-A, I, c/c o art. 14, II, e 180, todos do Código Penal, e 2º, § 2º, da Lei n. 12.850/2013, proferida em 6/8/2020. Destaca que a apelação está conclusa com o relator desde 21/5/2021, sem previsão de julgamento do feito. Além disso, narra que o paciente foi progredido ao regime semiaberto, nos autos da execução provisória da pena, mas ainda persiste em estabelecimento compatível com o modo fechado.
+O Juízo singular prestou os seguintes esclarecimentos (fls. 486-487, grifei):
+Inicialmente, cumpre informar que o paciente foi denunciado pelos delitos capitulados no art. 157, §3º, combinado com o art. 14, inciso II, do Código Penal, em concurso material com o art. 180, caput, do Código Penal, também em concurso material (artigo 69 do CPB) com o delito do art. 2.º, §2.º da Lei de Organizações, nos termos da denúncia ofertada pelo Ministério Público em 29/11/2019, juntamente com outros 09 (nove acusados).
+O procedimento investigativo foi instaurado mediante auto de prisão em flagrante em 23/10/2018, restando a prisão do paciente homologada e convertida em custódia preventiva em 31/10/2018.
+Recebida a vestibular acusatória em 06/12/2018, o acusado foi devidamente citado e apresentou defesa preliminar às fls. 768/809. A audiência de instrução foi realizada nos dias 08 e 09 de maio de 2019, sendo declarada encerrada a instrução processual, fls. 1268/1269, ocasião em foi determinada a intimação da Autoridade Policial para apresentar o Laudo de Constatação dos aparelhos celulares apreendidos e a expedição de ofícios solicitando informações acerca do cumprimento das Cartas Precatórias expedidas para os estados de São Paulo, Sergipe, Bahia, Rio Grande do Norte e Distrito Federal.
+As precatórias supracitadas foram acostadas aos autos nos dias 07/06/2019 e 02/08/2019 (fls. 1319/1327 e 1560/1595), tendo sido acostado o Laudo de Constatação dos aparelhos celulares apreendidos no dia 24/10/2019.
+Em 17/03/2020, o paciente apresentou memoriais escritos, por meio de advogado devidamente constituído (fls. 1893/1908).
+Em 06/08/2020, sobreveio sentença em desfavor do paciente, por meio da qual este foi condenado, no total, à pena de 16 (dezesseis) anos e 2 (dois) meses de reclusão - a ser cumprida em regime inicialmente fechado -, além de multa, fixada em 200 (duzentos) dias-multa. Ressalte-se que, ao réu, foi negado o direito de recorrer em liberdade, haja vista a o permanência dos motivos ensejadores do decreto de prisão preventiva, previstos no art. 312 do CPP, mormente para garantir a ordem pública.
+Na data de 12/08/2020, através de advogado devidamente constituído, interpôs recurso de apelação, nos moldes do artigo 593 do Código Processo Penal, sendo o o presente recurso recebido em 17/08/2020.
+Em grau recursal, o paciente apresentou as razões do recurso em 03/12/2020, momento em que requereu o provimento integral do mesmo, bem como a reforma da sentença do Juízo a quo para absolver o apelante (fls. 2657/2698).
+Às fls. 2900/2925, em 20/05/2021, parecer da douta representante do Ministério Público manifestando-se para o parcial conhecimento e parcial provimento do recurso interposto pelo paciente, com o afastamento de ofício da majorante do concurso de agentes da terceira fase da dosimetria, mas acrescendo na primeira fase da dosimetria, quanto a todos os réus (Súmula 55 do TJCE).
+Atualmente o feito encontra-se aguardando o julgamento do recurso de apelação.
+Inicialmente, observo que a questão atinente à progressão do paciente ao regime semiaberto e a suscitada incompatibilidade com o estabelecimento prisional ao qual está recolhido não foi apreciada pela Corte estadual, circunstância que inviabiliza seu exame nesta oportunidade, por configurarsupressão de instância.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Com base nos dados coletados, não constato delonga injustificada para o julgamento da apelação, cerca de 1 ano e 2 meses após a prolação da sentença, os autos foram recebidos na segunda instância, a defesa apresentou razões recursais e o Ministério Público, parecer, eo feito está atualmente concluso para julgamento do mérito recursal. Nesse sentido:
+ ..
+3. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética.
+4. Havendo circunstâncias excepcionais a dar razoabilidade ao elastério nos prazos, como é o caso em análise, não há falar em flagrante ilegalidade.
+ ..
+6. Ordem denegada, com recomendação de celeridade no julgamento da ação penal.
+(HC n. 550.212/AL, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 30/6/2020, destaquei)
+Ademais, a jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a reprimenda estabelecida na sentença condenatória deve ser considerada para fins de análise de suposto excesso de prazo no julgamento da apelação. Nesse sentido:
+ ..
+2. Eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória. No caso, o paciente foi condenado a elevada pena de 84 anos, 1 mês e 8 dias de reclusão em regime inicial fechado e 6 anos, 9 meses e 8 dias de detenção, em regime inicial semiaberto, não restando desarrazoado o prazo para julgamento do recurso defensivo.
+3. Habeas corpus não conhecido. Recomende-se ao Tribunal Federal da 4ª Região que imprima maior celeridade no julgamento do recurso de apelação n. 5005355-04.2017.4.04.7002.
+(HC n. 641.306/PR, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 30/4/2021, grifei)
+Assim, as altas penas impostas aosentenciado- 16 anos e 2 meses de reclusão - mitigam a alegada ocorrência de excesso de prazo no caso.
+Constatadas, então, a compatibilidade da duração do processo com as particularidades do caso concreto e a diligência do Estado no processamento do feito, fica afastada, ao menos por ora, a alegação de excesso de prazo.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
