@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto porMINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL - MPEcom fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL - TJRSem julgamento de apelação criminal n. 0388321-06.2015.8.21.7000.
+Consta dos autos que o recorrido foi condenado pela prática dos delitos tipificados no art. 121, caput, § 3º,do Código Penal - CP, e no art. 14 da lei n. 10.826/03, na forma do art. 69 do CP (fl. 575).
+Recurso de apelação interposto pelo MPEfoi desprovido. O acórdão ficou assim ementado:
+"JÚRI. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. INEXISTENTE. ÍNTIMA CONVICÇÃO DOS JURADOS. DESCLASSIFICAÇÃO MANTIDA. PENA.SUBSTITUIÇÃO OPERADA CONFIRMADA.
+I - Como é do conhecimento geral, os jurados julgam por íntima convicção, sem a necessidade de fundamentar suas decisões. Deste modo, podem utilizar, para seus convencimentos, quaisquer provas contidas nos autos, ainda que não sejam as mais verossímeis. Ou seja, o Conselho de Sentença é livre na escolha da solução que lhe pareça mais justa, ainda que não seja a melhor sob a ótica técnico -jurídica. Só se pode falar em decisão manifestamente contrária à prova dos autos, quando o conjunto probatório não trouxer nenhum elemento a embasar a tese aceita no julgamento, constituindo ela numa aberração, porque divorciada daquele (conjunto probatório). A situação referida acima está amparada pela Constituição Federal em seu artigo 5º, XXXVIII, letra c, e não pode a Câmara usurpar desta competência, anulando a soberana decisão do Conselho de Sentença, quando não tiver amparada na hipótese citada por último. Por este motivo, mantém-se a decisão desclassificatória, porque ela tem amparo na prova.
+II - O recurso não procede quanto ao afastamento da substituição da pena. O artigo 44 do Código Penal é muito claro a respeito, prescrevendo: "As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando: I - aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou qualquer que sela a pena aplicada, se o crime for culposo." DECISÃO: Apelo ministerial desprovido. Unânime." (fl. 627)
+Embargos de declaração opostos pela Acusação foram rejeitados, inclusive após determinação novo julgamento por esta corte. O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO. DECISÃO DO TRIBUNAL DO JÚRI. AUSÊNCIA DE OMISSÃO. REJEITADOS.
+Tendo em vista que os jurados julgam por íntima convicção e, deste modo, não precisam fundamentar suas decisões, o Colegiado não tem como afirmar que a condenação ou a absolvição resultaram desta ou daquela prova ou desta ou daquela tese. Seria um puro exercício de adivinhação. A jurisprudência brasileira, e a doutrina idem, reconhecem que eles (jurados) podem utilizar, para seus convencimentos, quaisquer provas contidas nos autos, ainda que não sejam as mais verossímeis. Portanto, nenhuma omissão existiu no acórdão atacado.
+Embargos de declaração rejeitados." (fl. 898)
+Em sede de recurso especial (fls. 909/933), o MPE apontou violação ao art. 619 do Código de Processo Penal - CPP,porque o TJRSmantém omissão a respeito das provas que eventualmente amparem o decidido pelos jurados ao julgar o seu recurso de apelação interposto com fulcro no art. 593, III, d, do CPP.
+Requer seja determinado novo julgamento dos embargos de declaração.
+Contrarrazões doTIAGO DIAS DO NASCIMENTO(fls. 946/949).
+Admitido o recurso no TJ (fls. 951/958) os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo provimento do recurso especial (fls. 982/990).
+É o relatório.
+Decido.
+Em 10/9/2021, foi distribuída nova Reclamação sob o n. 42.274/RS dando notícia de terceiro descumprimento, desta vez em razão de acórdão proferido pelo TJRS em 19/8/2021 por força do decidido no REsp 1.836.275/RS. Destarte, tem-se que o acórdão impugnado na presente Recurso Especial, de 13/11/19 (fls. 897/903), foi substituído, culminando com a perda do objeto.
+Ante o exposto, com amparo no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o recurso.
+Publique-se.
+Intimem-se.
