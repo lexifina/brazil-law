@@ -1,0 +1,27 @@
+DECISÃO
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça que está assim ementado:
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. EXASPERAÇÃO DA PENA-BASE. REITERAÇÃO. TEMA JÁ ANALISADO ANTERIORMENTE EM AGRAVO EM RECURSO ESPECIAL INTERPOSTO PELA DEFESA DO PACIENTE. DECISÃO JÁ TRANSITADA EM JULGADO. REGIME INICIAL DE CUMPRIMENTO DE PENA. PENA SUPERIOR A 4 ANOS. CIRCUNSTÂNCIAS JUDICIAS DESFAVORÁVEIS. PENA-BASE ACIMA DO MÍNIMO LEGAL. REGIME FECHADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Quanto à insurgência referente à exasperação da pena-base, trata-se de mera reiteração de insurgência já submetida ao exame desta Corte, quando do julgamento de anterior agravo em recurso especial interposto pela defesa, por decisão já transitada em julgado, revelando-se incabível a impetração de habeas corpus para rediscutir o tema.
+    2. No presente caso, não há se falar em ilegalidade da fixação do regime inicial fechado. Não obstante a pena seja inferior a 8 anos de reclusão e o paciente seja primário, as circunstâncias judiciais não lhe eram todas favoráveis, tanto que a pena-base foi fixada acima do mínimo legal. Assim, nos termos do art. 33, § § 2º e 3º, do Código Penal, o regime inicial fechado se mostra mais adequado.
+    3. Agravo regimental não provido.
+    (Agravo regimental no habeas corpus n. 693.246, ministro Reynaldo Soares da Fonseca).
+    Em suas razões, a parte impetrante requer, em síntese, “(...) afastar a elevação da pena ilegalmente editada em desfavor do Paciente, redimensionando-se ao patamar mínimo com a fixação do regime aberto, ou, subsidiariamente e numa análise, para se fixar o regime semiaberto para o início do cumprimento da pena privativa liberdade imposta ao Paciente.”.
+    O processo está em condições de ser julgado, nos termos do art. 52, parágrafo único, do Regimento Interno. Dispenso a remessa ao Ministério Público Federal.
+    Tal o contexto, reputo inadmissível o presente habeas corpus, eis que o acórdão impugnado não apreciou a pretensão formulada pela parte impetrante no ponto em que alega ilegalidade na exasperação da pena-base do paciente .
+    Esta Suprema Corte consolidou sua jurisprudência no sentido de não se conhecer de habeas corpus, quando as razões apresentadas pela parte impetrante não houverem sido apreciadas pelo Tribunal apontado como coator, por caracterizar-se inadmissível supressão de instância, conforme firme entendimento deste Supremo Tribunal Federal  (Agravo regimental no habeas corpus n. 192.077, ministra Cármen Lúcia; Agravo regimental no habeas corpus n. 157.575, ministro Dias Toffoli; Agravo regimental no habeas corpus n. 164.611, ministro Edson Fachin; Habeas corpus n. 190.387, ministro Gilmar Mendes; Agravo regimental no habeas corpus n. 189.201, ministro Luiz Fux; Agravo regimental no habeas corpus n. 190.319, ministro Ricardo Lewandowski; Agravo regimental no habeas corpus n. 188.702, ministro Roberto Barroso).
+    De outro lado, quanto ao pedido subsidiário de fixação do regime semiaberto para início da execução da pena imposta ao paciente, destaco, no ponto, a dicção do Enunciado nº 719 da Súmula do Supremo Tribunal Federal:
+    A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+    Consta dos autos que o paciente foi condenado a uma pena privativa de liberdade inferior a oito anos, tendo sido mantido o regime inicial fechado pelo Superior Tribunal de Justiça com base na seguinte fundamentação (com meus grifos):
+    Não há se falar em ilegalidade na fixação do regime inicial fechado. Isso porque, não obstante a pena seja inferior a 8 anos de reclusão e o paciente seja primário, as circunstâncias judiciais não lhe eram todas favoráveis, tanto que a pena-base foi fixada acima do mínimo legal. Assim, nos termos do art. 33, § § 2º e 3º, do Código Penal, o regime fechado se mostra mais adequado.
+    Assinalo, no ponto, a jurisprudência desta Suprema Corte no sentido de que a existência de circunstância judicial desfavorável é justificativa idônea para a imposição de regime mais gravoso. Exemplificam esse entendimento os seguintes acórdãos (HC 164.716-AgR/SP, Ministra Cármen Lúcia; HC 169.658-Ag/PI, Ministro Edson Fachin; HC 179.399-AgR/SP, Ministro Gilmar Mendes; HC 185.325-AgR/SP, Ministra Rosa Weber; HC 186.098-AgR/PB, Ministro Ricardo Lewandowski; RHC 174.290-AgR/SP, Ministro Luiz Fux):
+    AGRAVO REGIMENTAL EM ‘HABEAS CORPUS’. MATÉRIA CRIMINAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. CRIME DE ROUBO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL DESPROVIDO.
+    …...................................................................................................
+    2. Não há ilegalidade no regime inicial mais gravoso fixado com lastro em circunstâncias judiciais desfavoráveis, conforme inteligência dos artigos 33 e 59, ambos do Código Penal.
+    3. Agravo regimental desprovido.
+                (Habeas Corpus nº 169.227-AgR, Ministro Edson  Fachin)
+    Desse modo, não vislumbro a ocorrência de ilegalidade na fixação do regime fechado para o cumprimento inicial da pena pelo ora paciente.
+    Em face do exposto, conheço em parte do presente habeas corpus e, na parte conhecida, indefiro-o.
+    Publique-se. Intime-se. Arquive-se.
+Brasília, 20 de outubro de 2021.
+Ministro NUNES MARQUES
+Relator
