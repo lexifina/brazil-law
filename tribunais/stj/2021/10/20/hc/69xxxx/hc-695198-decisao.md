@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deADEJAIR GRASSI DE LIMAem que se aponta como autoridade coatorao Tribunal de Justiça do Estado de São Paulo (AC n. 1501146-46.2020.8.26.0666).
+Em primeira instância, o paciente foi condenado às penas de 8 anos e 6 meses de reclusão em regime inicial fechado e de 1.316 dias-multa, pela prática do delito nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, na forma do art. 69 do Código Penal.
+Foi-lhe indeferido o direito de recorrer em liberdade, porsubsistiremos motivos fáticos e jurídicos que ensejaram a decretação da custódia cautelar.
+Interposta apelação defensiva no TJSP, o recurso ainda aguarda julgamento.
+Nas razões do presente writ, a defesa alega constrangimento ilegal decorrente do excesso de prazo no julgamento da apelação, dainépcia da denúncia, da inaplicabilidade da atenuante do tráfico privilegiado,da aplicação, na dosimetria da pena, de bis in idem, porquantoutilizada a mesma droga para aumentar a pena-base em ambos os crimes imputados ao paciente.
+Pugna ainda, pelo reconhecimento daexclusão da pena do crime de associação para o tráfico por ausência de prova e argumentaausência dos requisitos necessários para a decretação da prisão preventiva, tanto que a prisão foi revogada pelo Tribunal e, posteriormente, o magistrado de primeiro grau a decretou novamente diante de novas informações extraídas do celular do paciente.
+Sustenta que a prisão do paciente se deu sem o trânsito em julgado da sentença.
+Alega tratar-sede paciente idoso e quea petição requerendo a prioridade no julgamento sequer fora apreciada, pugnandopela aplicação da Recomendação CNJ n. 62/2020.
+Requer, liminarmente e no mérito, a concessão da ordem para que o paciente possa aguardar em liberdade o julgamento do recurso de apelação, expedindo-se alvará de soltura em seu favor, e, se for o caso, com a aplicação das medidas cautelares.
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 528-529.
+As informações foram prestadas às fls. 533-537 e 538-551.
+O Ministério Público Federal manifestou-se peloparcial conhecimento do habeas corpus para, na parte conhecida, denegar a ordem.(fls. 555-562).
+Às fls. 564-568, por meio daPetição Eletrônica STJ n. 00927978/2021, recebida em 16/10/2021, a defesa solicitou reconsideração do pedido liminarpara que o paciente pudesse aguardaro julgamento da apelação em liberdade.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+No que diz respeito aosrequisitos da preventiva, a aplicação da Recomendação CNJ n. 62/2020, anulidade do processo porinépcia da denúncia,nulidades na dosimetria,ausência de prova do crime de associação para o tráfico,aplicação do redutor de tráfico privilegiado, prisão sem trânsito em julgado e aplicação de medidas cautelares diversas da prisão, as questõesnão foramenfrentadas ainda pela instância de origem, Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+No tocante à alegada demora no julgamento daapelaçãopelo Tribunal a quo, esclareça-se que "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRgno RHC n. 123.274/RJ, relator MinistroAntonioSaldanha Palheiro,DJede 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso do processo.
+Ademais, segundo informações constantes dos autos,prestadas pelo Juízo de primeiro grau e pelo Tribunal estadual, a apelação criminal defensiva foi interposta em 9/4/2021, tendo os autos sidoremetidos para o TJSPem 14/4/2021, encontrando-se atualmente conclusos ao Desembargador Relator, com pedido de tramitação prioritária.
+Ressalte-se também que, nos termos da jurisprudência do STJ, "eventual excesso de prazo no julgamento daapelaçãodeve ser aferido em face da quantidade da reprimenda imposta pela sentença condenatória" (HC n. 388.468/BA, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma,DJede 13/8/2018).
+Na espécie, considerando a pena imposta na sentença - 8 anos e 6 meses de reclusão em regime inicial fechado e de 1.316 dias-multa-, não é desarrazoado o prazo para julgamento daapelaçãodefensiva.
+No mesmo sentido, o precedente abaixo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRAFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. REVISÃO DA PENA A CADA 90 DIAS. IMPOSIÇÃO LEGAL ATÉ A SENTENÇA CONDENATÓRIA. SUPERAÇÃO. DECRETO PRISIONAL. FUNDAMENTAÇÃO. REITERAÇÃO DELITIVA. EXCESSO DE PRAZO NO JULGAMENTO DAAPELAÇÃO. NÃO CONFIGURADO. BENEFÍCIOS DA EXECUÇÃO PENAL. GARANTIA. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+V - Os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+VI - A jurisprudência desta Corte de Justiça sufraga o entendimento de que o excesso de prazo para julgamento daapelaçãodeve ser analisado com base na quantidade de pena aplicada que, incasu, somam 5 anos e 7 meses de reclusão, no regime inicial fechado. Logo, embora decorrido um ano desde a prolação da sentença, não se me afigura desproporcional. Ademais, não demonstrado que, em razão de eventual demora para a apreciação daapelação, o recorrente se encontra impedido de usufruir de benefícios relativos à execução da pena, já tendo sido expedida guia de recolhimento provisória, em 31/1/2020, conforme se denota das informações processuais disponíveis no sítio eletrônico doeg. Tribunal a quo.
+VII - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido. (AgRgno HC n. 624.626/SP, relator Ministro Felix Fischer, Quinta Turma,DJede 9/2/2021.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de reconsideração de fls. 564-568.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
