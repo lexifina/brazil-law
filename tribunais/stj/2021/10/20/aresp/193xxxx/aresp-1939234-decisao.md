@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Giane Dias da Silva, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 194):
+CONTRATO CDHU Cessão de direitos e obrigações decorrentes de termo de adesão e ocupação provisória com opção de compra - Rescisão e reintegração de posse - Inadimplemento por parte da cessionária verificado - Ocupação do imóvel por longo período sem qualquer desembolso - Inocorrência de usucapião constitucional urbana - Posse exercida pela ré que é precária - Hipótese, também, de bem público com destinação especial, insuscetível de usucapião - Art. 183, § 3º, da Constituição Federal, art. 102 do Código Civil e Súmula 340, do Supremo Tribunal Federal Concessão de uso especial para moradia - Impossibilidade - Ausência de preenchimento dos requisitos previstos no art. 1º, da MP nº 2.220/01 (com redação dada pela Lei nº 13.465/17) - Violação do direito à moradia de que não se cogita - Imóvel que há de ser destinado a outra família que dele efetivamente necessite e respeite as regras básicas de convivência social - Sentença mantida - Recurso desprovido.
+Em suas razões de recurso especial (e-STJ, fls. 217-228), a agravante alegou violação ao art. 2º, I, Lei n. 10.257/2001.
+Sustentou, em síntese, que o despejo forçado, bem como a rescisão do contrato, ofende o direito à moradia.
+Asseverou o cabimento de renegociação do débito e a permanência no imóvel.Requereu, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 240-246).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta não apresentada (e-STJ, fls. 274-281).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, observa-se que o Tribunal de origem dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fls. 195-196):
+Segundo se observa, em 30 de agosto de 2006, Celso Fabiano de Almeida e Eva Aparecida Santos de Almeida e a ré celebraram, com anuência da autora, "InstrumentoParticular de Cessão de Transferência com Sub-rogação de Direitos e Obrigações Decorrentes de Termo de Adesão e Ocupação Provisória com Opção de Compra" de unidade habitacional, mediante pagamento de prestações mensais equivalentes a R$ 202,20(fls. 30/33).
+Em razão do inadimplemento de noventa parcelas, em 21 de maio de 2019, foi notificada a ré para regularização da situação (fls. 34/37); entretanto, por ter esta permanecido inerte, ajuizou a autora a presente ação, pretendendo a rescisão do contrato em questão, bem como a consequente reintegração na posse do bem.
+Como se vê a fls. 38/39, o imóvel vem sendo ocupado sem qualquer contraprestação pela ré desde 5 de novembro de 2011.
+Não se duvida, assim, de que a hipótese é de inadimplemento absoluto, o que, por si só, enseja a rescisão do contrato, a reintegração da CDHU na posse do imóvel e a perda dos valores desembolsados pela ré, tal como reconhecido na sentença.
+( )
+Não é, pois, de se cogitar de que a solução adotada na sentença tenha o condão de obstar a concretização de um direito à moradia consagrado na Constituição Federal. O imóvel há de ser destinado a outra família que dele efetivamente necessite e respeite as regras básicas de convivência social. Com efeito, a atitude da autora não importa desrespeito à dignidade da apelante, mas efetiva o princípio da função social do contrato.
+Conforme é possível verificar, a questão foi resolvida com base nos elementos fáticos que permearam a demanda, analisados de forma objetiva. Desse modo, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local exigiria reapreciação do conjunto fático-probatório dos autos, providência que encontra óbice no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da causa, observada a gratuidade de justiça.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CESSÃO DE DIREITOS E OBRIGAÇÕES. RESCISÃO E REINTEGRAÇÃO DE POSSE. INADIMPLEMENTO CONTRATUAL. VIOLAÇÃO AO DIREITO À MORADIA NÃO CARACTERIZADA. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
