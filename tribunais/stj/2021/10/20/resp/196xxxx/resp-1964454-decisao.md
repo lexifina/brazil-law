@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JUCELIA COSTA BARRETO CARDOSO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 10/02/2021.
+Concluso ao gabinete em: 07/10/2021.
+Ação: de cobrança c/c compensação por dano moral ajuizada por JUCELIA COSTA BARRETO CARDOSO em face de CAIXA SEGURADORA S/A, em virtude da negativa de cobertura, no importe de R$ 20.000,00, a título de indenização para doença grave (neoplasia maligna de mama) prevista em contrato de seguro de vida individual.
+Sentença: o Juízo de primeiro grau julgou improcedentes os pedidos.
+Acórdão: o TJ/SC, à unanimidade, negou provimento à apelação interposta por JUCELIA, nos termos da seguinte ementa:
+Apelação cível. Ação de cobrança e indenização por danos morais. Seguro de vida individual. Cobertura de doença grave. Neoplasia de mama. Sentença de improcedência. Irresignação da requerente. Pedido de justiça gratuita. Hipossuficiência demonstrada. Benesse concedida com efeito ex nunc. Acolhimento do recurso no ponto. Pretensão indenizatória em razão de doença grave. Neoplasia maligna de mama. Insubsistência. Contrato que prevê cobertura somente para os casos em que o segurado apresentar neoplasia maligna de mau prognóstico a curto prazo ou for considerado como inválidos para todo e qualquer trabalho em consequência do tratamento, mesmo quando extirpada a lesão neoplásica maligna. Situação não evidenciada nos autos. Interpretação restritiva dos riscos predeterminados. Inteligência do art. 757, caput, do código civil. Alegado desconhecimento das cláusulas limitativas do contrato de seguro. Suposta violação ao dever de informação. Insubsistência. Segurada que assinou proposta de seguro, em que declarou ter ciência quanto as condições gerais e especiais do contrato de seguro. Declaração, que constou em letras garrafais no documento. Aplicabilidade das disposições contratuais que se mostra cabível sem ofensa ao dever de informação. Sentença mantida. Pretendida o recebimento de indenização sob o argumento de que as condições gerais dos seguro não seriam oponíveis em razão de que foram impostas a segurada posteriormente a contratação. Argumentação não suscitada em primeiro grau. Inovação recursal. Vedação do art. 1.014 do cpc. Não conhecimento no particular. Danos morais. Não evidenciados. Mero dissabor. Honorários recursais. Exegese do art. 85, §11, do código de processo civil. Exigibilidade suspensa a teor do art. 98, §3o do cpc. Recurso conhecido parcialmente, e nesta extensão, desprovido.
+Recurso especial: aponta violação dos arts. 6º, VIII, 46, 51 e 54 do CDC, e dos arts. 423 e 424 do CC/2002, bem como dissídio jurisprudencial.
+Defende, em síntese, que as cláusulas restritivas são nulas por inobservância do dever de informação e por restringir a própria essência do contrato de seguro de vida celebrado, além de terem sido impostas posteriormente à contratação, sendo inoponíveis à consumidora.
+Sustenta que "a afirmativa de "baixo potencial da gravidade da neoplasia" é um paradoxo em si, pois a enfermidade em questão é legalmente reconhecida como doença grave, tanto em legislação tributária (isenção de IRPF), quando previdenciária (isenção de carência, etc.), descabendo ao órgão julgador emitir parecer de caráter médico sobre a gravidade ou não da doença" (fl. 371, e-STJ).
+Afirma que não há inovação recursal no que tange à alegação de que as condições gerais do contrato foram impostas à consumidora após a contratação, porquanto "o documento está nos autos desde o início e compete ao julgador analisar os fatos e provas, justamente porque alegar e não provar, é o mesmo que não alegar" (fl. 374, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O TJ/SC não decidiu acerca dos argumentos invocados pela recorrente em seu recurso especial para impugnar a tese da inovação recursal, tampouco foram opostos embargos de declaração para provocar a manifestação do Tribunal de origem sobre essa questão, o que inviabiliza o seu julgamento.
+Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao cumprimento do dever de informar pela seguradora, nos termos do que exige o CDC, assim como à não configuração do risco coberto pelo contrato de seguro de vida, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (dever de informação), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 2% (e-STJ fls. 353) para 3,5% sobre o valor atualizado da causa, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C COMPENSAÇÃO POR DANO MORAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de cobrança c/c compensação por dano moral, fundada na negativa, pela operadora do seguro de vida, de cobertura para doença grave.
+2. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial (súmula 282/STF).
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais, em recurso especial, são inadmissíveis (súmula 5 e 7/STJ).
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial quanto à questão. Precedentes desta Corte.
+6. Recurso especial não conhecido, com majoração de honorários, observada a concessão da justiça gratuita.
