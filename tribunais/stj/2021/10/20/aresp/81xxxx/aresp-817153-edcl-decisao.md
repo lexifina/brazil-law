@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Abril ComunicaçõesS.A, contra decisão que conheceu do agravo e deu provimento ao recurso especial, em ordem a anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento das questãoaqui tida por omitida.
+Em suas razões, a parte embargante sustenta que "aobscuridade reside no fato de que, apesar de constar na r. decisão que o acórdão que apreciou os Embargos de Declaração foi anulado, na segunda parte do parágrafo consta que deverá ocorrer "(..) o expresso enfrentamento da questão aqui tida por omitida".Nesse sentido, com a devida vênia, entende a Embargante que não ficou claro se os autos deverão retornar à origem para que todas as questões objeto dos seus Embargos de Declaração sejam examinadas ou apenas aquelas que foram expressamente citadas na r. decisão monocrática.Diante do exposto, requer a Embargante seja sanada a obscuridade em questão, de modo a que fique expresso que, ante a anulação do acórdão que apreciou os seus Embargos de Declaração, os autos deverão retornar à origem para a análise de todas as questões suscitadas pela Embargante em seus Embargos de Declaração apresentados perante o Tribunal a quo." (fl. 1.217).
+Impugnação às fls. 1.238/1.240.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Como cediço, verifica-se a existência de obscuridade quando há evidente dificuldade na compreensão do julgado. Ocorre quando há a falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial. Em última análise, ocorre a obscuridade quando a decisão, no tocante a alguma questão importante, soluciona-a de modo incompreensível. É o que leciona VICENTE GRECO FILHO:
+A obscuridade é o defeito consistente na difícil compreensão do texto da sentença e pode decorrer de simples defeito redacional ou mesmo de má formulação de conceitos. Há obscuridade quando a sentença está incompreensível no comando que impõe e na manifestação de conhecimento e vontade do juiz. A obscuridade da sentença como os demais defeitos corrigíveis por meio de embargos de declaração prejudicando a intelecção da sentença prejudicará a sua futura execução.
+A dúvida é o estado de incerteza que resulta da obscuridade. A sentença claramente redigida não pode gerar dúvida (in Direito Processual Civil Brasileiro, vol. 2, São Paulo: Saraiva, 2000, p. 241).
+Nessa linha de ideias, inexiste obscuridade a ser sanada na espécie.
+Com efeito, observa-se que a decisão agravada esclareceu de forma clara e compreensível que o novo julgamento realizado pelo Tribunal a quo deve se dar apenas no que tange às questões trazidas no r. decisum. Confira-seo seguinte trecho (fl. 1.213):
+ ..
+conheço do agravo para dar provimento ao recurso especial, em ordem a anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da questão aqui tida por omitida.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Após, voltem-me os autos conclusos para julgamento do agravo interno de
+fls. 1.224/1.235.
+Publique-se.
