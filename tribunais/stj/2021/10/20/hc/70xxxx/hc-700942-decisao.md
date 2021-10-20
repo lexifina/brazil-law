@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Rodrigo de Freitas (Execução n. 3220599-63.2010.8.21.0017), em que se aponta constrangimento ilegal decorrente do julgamento do Agravo de Execução Penal n. 5126930-36.2021.8.21.7000 pelo Tribunal de Justiça do Rio Grande do Sul.
+Argumenta-se, em suma, que o acórdão exarado alcança interpretação que está em desacordo com os princípios regentes da execução penal, com a lei e com a posição jurisprudencial preponderante junto aos tribunais superiores (fl. 3). Aduz-se que a divergêncialimita-se à definição de quais benefícios serão atingidos pela alteração da data-base promovida em razão do reconhecimento de falta grave (fl. 4).Pretende-se a concessão liminar da ordem para determinar que a data-base do benefício de saída temporária não integre os consectários estabelecidos em razão do reconhecimento de falta grave (fl. 7).
+É o relatório.
+No caso, há inquestionável constrangimento ilegal passível de ser reparado por meio da via eleita, diante do que foi decidido pelo Tribunal estadual no acórdão ora atacado. Eis o que consta do decisum (fls. 223/224 - grifo nosso):
+ ..
+Como adiantado quando do julgamento do recurso de agravo em execução interposto pela Defensoria Pública na presente Sessão (nº 5111679-75.2021.8.21.7000/RS), a prática faltosa inaugura novo marco temporal para o alcance de futuros benefícios vinculados à execução da privativa de liberdade.
+Manter-se a data-base original inalterada importaria em fazer tabula rasa do mau comportamento carcerário do reeducando. Atentar-se-ia contra o princípio constitucional da isonomia, visto que reclusos com boa conduta prisional obteriam o mesmo tratamento que aqueles com comportamento desregrado, equiparando-se situações notadamente distintas.
+ ..
+Em concreto, a data em que recapturado o recluso (25-10-2020) marcará o dies a quo para a contagem do novo prazo à progressão de regime nos termos do artigo 112 da Lei de Execução Penal, bem como para outros benefícios que dependam do implemento de fração de pena, englobando a concessão de saídas temporárias, excetuados o livramento condicional, o indulto e a comutação, sendo este o entendimento consolidado no âmbito deste Órgão Fracionário.
+No ponto, destaco, nos termos das Súmulas nº 441 e 535, ambas do Superior Tribunal de Justiça, respectivamente, que "a falta grave não interrompe o prazo para obtenção de livramento condicional" e "a prática de falta grave não interrompe o prazo para fim de comutação de pena ou indulto".
+Assim, o reconhecimento da infração disciplinar interrompe a contagem para obtenção de novos benefícios, excetuados o livramento condicional, o indulto e a comutação, não havendo falar em manutenção da data-base originária para obtenção das saídas temporárias.
+Por fim, de registrar que a alteração englobaria, ao menos em tese, também a concessão de trabalho externo. Contudo, considerando que o recurso ministerial postula a alteração da data-base tão somente em relação às saídas temporárias, apenas quanto a este benefício deverá incidir a pretendida ampliação do consectário ora tratado.
+Ao concluir dessa maneira, a Corte local foi de encontro com o entendimento pacífico desta Corte, segundo o qual a prática de falta grave durante o cumprimento da pena não acarreta a alteração da data-base para fins de saída temporária e trabalho externo (AgRg nos EDv nos EREsp n. 1.755.701/RS, Ministro Nefi Cordeiro, Terceira Seção, DJe 19/6/2019). No mesmo sentido: HC n. 611.195/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/10/2020; e AgRg no REsp n. 1.744.448/RS, de minha relatoria, Sexta Turma, DJe 16/12/2019.
+Ante o exposto, concedo liminarmente a ordem para determinar ao Juízo da Vara de Execução Criminalda comarca de Santa Cruz do Sul/RS a retificação dos cálculos para obenefício dasaída temporária, desconsiderando a interrupção do lapso em razão da prática de falta grave pelo paciente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO.PRÁTICA DE FALTA DISCIPLINAR DE NATUREZA GRAVE. INTERRUPÇÃO DO PRAZO PARA O BENEFÍCIO DA SAÍDATEMPORÁRIA. IMPOSSIBILIDADE.PRECEDENTES. MANIFESTO CONSTRANGIMENTO ILEGAL.
+Ordem concedida liminarmente nos termos do dispositivo.
