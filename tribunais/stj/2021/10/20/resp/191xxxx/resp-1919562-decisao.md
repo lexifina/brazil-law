@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS com fundamento no art. 105, inciso III, "a", da Constituição Federal de 1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS .
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 429/431, in verbis:
+1. Trata-se de recurso especial interposto pelo Ministério Público do Estado de Minas Gerais contra acórdão da 3ª Câmara Criminal do TJMG (fls. 284-98 complementado; fls. 346-9) que, por maioria, em 09-09-2020, (i) deu parcial provimento ao Agravo em Execução Penal nº 1.0210.17.000938-0/001, interposto pelo MP/MG (para reconhecer a falta grave praticada pelo agravado IGOR AUGUSTO BARBOSA); e (ii) deu provimento ao pedido feito pela defesa em contrarrazões (para sobrestar o pagamento das custas processuais pelo qüinqüênio legal). O agravo em execução foi interposto contra decisão do Juízo de Direito da Vara de Execuções Criminais da Comarca de Ribeirão das Neves/MG (fls. 227-8)que, em 15-05-2020, suspendeu o beneficio do livramento condicional do reeducando IGOR AUGUSTO BARBOSA e indeferiu o pedido de apuração de falta grave em razão do cometimento de novo crime (Autos nº 0009380-69.2017.8.13.0210).
+1.1. Em 22-10-2020, o MP/MG interpôs este recurso especial; em suas razões, alega, em síntese, o seguinte: a) violação ao art. 1º; art. 65; art. 66, inciso II, T, da LEP; art. 619, art. 620 e art. 804, do CPP; art. 1022, inciso II, e art. 1025, do CPC; "(..) não há previsão legal a respeito da competência do Tribunal para julgar os incidentes, entre os quais se encontra a análise do pedido de isenção/suspensão da exigibilidade das custas processuais." (fl. 373); compete ao Juízo da Execução Penal avaliar a suspensão da exigibilidade do título executivo da dívida ativa. Requer, ao final, que a isenção/suspensão da exigibilidade do pagamento das custas processuais seja procedida pelo Juízo da Execução, após o trânsito em julgado da sentença condenatória (fls. 367-82).
+1.3. Em 16-11-2020, a defesa do apenado IGOR AUGUSTO BARBOSA apresentou contrarrazões ao recurso especial (fls. 389-93).
+1.3. Em 16-12-2020, o 3º Vice-Presidente do TJMG admitiu o recurso especial (fl. 401-4).
+O Parquet opinou pelo provimento do recurso especial.
+É o relatório. Decido.
+Verifica-se que o Tribunal de origem não examinou especificamente as questões aduzidas no recurso especial, apesar de terem sido opostos embargos de declaração, razão pela qual carecem de prequestionamento, motivo pelo qual não pode ser analisada ante o que preceitua a Súmula n. 211/STJ. Persistindo a omissão, cabia a defesa ter alegado, nas razões do apelo especial, a ocorrência de violação ao art. 619 do Código de Processo Penal, ônus do qual não se desincumbiu.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO CONTRA PREVIDÊNCIA SOCIAL. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. ATENUANTE DA CONFISSÃO, VETORES JUDICIAIS DA CULPABILIDADE E DA CONSEQUÊNCIAS DO CRIME E FRAÇÃO PELO RECONHECIMENTO DA CONTINUIDADE DELITIVA. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO DESPROVIDO.
+ ..
+2. As matérias, objeto do recurso especial, não foram debatidas na instância de origem, ressentindo-se o recurso especial do necessário prequestionamento. Incidência da Súmula 211/STJ.
+3. Agravo regimental não provido. (AgRg no REsp 1618153/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/11/2016, DJe 5/12/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 253 DO RISTJ. DECISÃO MONOCRÁTICA DO RELATOR. CONHECIMENTO DO AGRAVO PARA NEGAR-LHE PROVIMENTO, POIS CORRETA A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. NÃO OCORRÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. RECURSO ESPECIAL QUE NÃO ULTRAPASSOU OS ÓBICES DE ADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7, 83 E 211 DO STJ. RECURSO NÃO PROVIDO.
+ ..
+4. Não houve prévia análise do art. 65, § 3º, do Decreto Lei n. 5.123/2004 e a parte, a despeito da oposição de embargos, não provocou a manifestação do Tribunal de origem, o que atrai a incidência da Súmula n. 211 do STJ, em razão da falta de prequestionamento.
+ ..
+5. Agravo regimental não provido. (AgInt no AREsp 373.458/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 5/5/2016, DJe 17/5/2016. )
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
