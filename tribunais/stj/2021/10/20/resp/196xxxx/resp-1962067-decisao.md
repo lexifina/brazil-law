@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FUNDAÇÃO CENTRO DE ATENDIMENTO SÓCIOEDUCATIVO AO ADOLESCENTE - FUNDAÇÃO CASA - SP, fundamentado naalínea"a" do permissivo constitucional.
+Ação: declaratória de nulidade de cláusula contratual cumulada com restituição de valores ajuizada por SILVIO DE FREITAS em desfavor da recorrente e de AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A, referente aos reajustes por sinistralidade aplicados em contrato de plano de saúde coletivo.
+Sentença:julgou parcialmente procedentes os pedidos, para determinar a substituição dos reajustes pelos percentuais autorizados pela ANS para contratos individuais, pelo período retroativo de 3 (três) anos da data da propositura da ação, bem como condenar as requeridas, solidariamente, à devolução dos valores pagos a maior.
+Acórdão:negou provimento às apelações interpostas pelas rés, nos termos da seguinte ementa:
+Apelação cível. Plano de saúde coletivo por adesão. Ação declaratória de nulidade de cláusula contratual e abusividade de reajustes por sinistralidade cumulada com pedido de restituição de valores. Sentença de parcial procedência. Insurgência das corrés.
+Preliminar de competência de Câmara de Direito Público, uma vez existente a Fundação Casa (autarquia fundacional) no polo passivo do feito e, bem como a discussão sobre aplicação do direito público. Afastamento. Inteligência do artigo 5º, inciso I, item 23 da Resolução 623/2013.
+Preliminar de competência da Justiça Trabalhista. Afastamento. Discussão sobre questões relativas ao plano de saúde do qual o autor é beneficiário, e não sobre o contrato de trabalho propriamente dito. Justiça Estadual. Competência das Câmaras de Direito Privado para análise dos recursos. Preliminares da estipulante afastadas.
+ILEGITIMIDADE PASSIVA. A operadora é parte legítima para figurar no polo passivo da ação, de acordo com a Súmula nº 101 do TJSP. Preliminar da operadora do plano de saúde afastada.
+Mérito. Código de Defesa do Consumidor. Aplicabilidade. Artigos2º e3º da Lei nº 8.078/1990. Súmulas nº 100 deste Egrégio Tribunal de Justiça e nº 608 do Colendo Superior Tribunal de Justiça. Possibilidade de reajuste por sinistralidade e custos dos usuários em planos coletivos, em razão de eventual aumento das despesas pelo grupo segurado. Caso concreto. Previsão contratual. Todavia, inexistência de qualquer base atuarial idônea para justificar os reajustes. Ausência de efetivação do direito básico de informação adequada e clara ao consumidor. Artigo 6º, III, da Lei nº 8.078/1990. Abusividade dos índices aplicados. Caracterização.
+Devolução dos valores pagos a maior devida.
+Prescrição. Pretensão de revisão de cláusulas contratuais que não está sujeita à prescrição. Pretensão de repetição do indébito, por outro lado, que está sujeita à prescrição trienal, nos termos do art.206, § 3º, IV, do Código Civil. Tese sedimentada nos recursos especiais repetitivos nºs 1.360.969/RS e 1.361.182/RS.
+Hipótese em que, para fins de cálculo dos valores a serem restituídos, devem ser afastados os índices de reajuste por sinistralidade aplicados entre os anos de 2013 até 2017 (ajuizamento da demanda), incidindo os percentuais autorizados pela ANS no período, cujo cálculo deverá ser realizado em fase de liquidação de sentença, limitando-se a restituição dos valores pagos a maior aos três anos anteriores ao ajuizamento da ação.
+Recursos desprovidos, com observação quanto ao cálculo a ser realizado na fase de liquidação de sentença, nos termos da fundamentação.
+Embargos de Declaração: opostos pela recorrente, foram rejeitados
+Recurso especial: alega violação dos arts. 884 do CC, 35-E, § 2º, da Lei n. 9.656/98, 506 do CPC. Sustenta a legalidade dos reajustes aplicados, pugnando pela inaplicabilidade dos índices prescritos pela ANS para contratos individuais, sob pena de enriquecimento ilícito. Afirma que o acórdão recorrido extrapolou os limites subjetivos da demanda.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da Súmula 568/STJ
+A Corte de origem, ao afastar o reajuste anual e determinar a aplicação dos índices adotados pela ANS para os contratos individuais e familiares, decidiu em desacordo com a jurisprudência do STJ, firme no sentido de que é possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, descabendo, contudo, a limitação dos reajustes aos índices autorizados pela ANS. Nesse sentido: AgInt no AREsp 1201808/SP, 3ª Turma, DJe 27/03/2019; AgInt no AREsp 1155520/SP, 4ª Turma DJe 15/02/2019; e REsp 1729320/SP, 3ª Turma, DJe 09/08/2018.
+Assim, merece reforma o acórdão recorrido, para, reconhecida a abusividade do reajuste aplicado sem expressa previsão do índice, afastar a aplicação dos índices de reajuste regulados pela ANS para os contratos individuais/familiares, e determinar que a Corte de origem apure o índice de reajuste razoável para o contrato em tela.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 506 do CPC, indicadocomo violado, não tendo a recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para determinar que a Corte de origem apure o índice de reajuste aplicável ao contrato.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL. CONTRATO DE PLANO DE SAÚDE COLETIVO.REAJUSTES ANUAIS. POSSIBILIDADE. ÍNDICES AUTORIZADOS PELA ANS PARA PLANOS INDIVIDUAIS/FAMILIARES. INAPLICABILIDADE. SÚMULA 568/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. OU 211/STJ.
+1. Ação declaratória de nulidade de cláusula de reajuste por sinistralidade em contrato de plano de saúde coletivo.
+2. É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, descabendo, contudo, a limitação dos reajustes aos índices autorizados pela ANS. Precedentes.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. Recurso especial parcialmente conhecido e, nessa extensão, provido.
