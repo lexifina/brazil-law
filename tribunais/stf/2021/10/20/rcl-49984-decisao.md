@@ -1,0 +1,30 @@
+Decisão: Trata-se de reclamação constitucional proposta em favor de Antônio Carlos Pizzolato em face do Juiz de Direito da 5ª Vara Criminal de Santos/SP, que nos autos nº 0000861- 37.2009.8.26.0562, o condenou à pena de 06 (seis,) anos e 03 (três) meses de reclusão, pelo crime do artigo 158 do código penal.
+    O reclamante apresenta o histórico do processo condenatório e aduz ausência de provas para a condenação.
+    Afirma que “injustiça pura é o que ocorre com o autor, não devendo prevalecer a condenação proferida, posto que, o réu não cometeu o crime de extorsão, visto não ter ocorrido a “GRAVE AMEAÇA E A VIOLENCIA” que tipificaria o crime em questão, inexistindo a tipificação, aliás que o próprio representante do MINISTERIO PÚBLICO, assim reconheceu, as fls 65, no pedido de Liberdade Provisória, aliás concedida por esse motivo que expressamente reconheceu a inexistência de qualquer grave ameaça ou violência.”(eDOC 1, p. 11)
+    Acrescenta que “a necessidade de fundamentação do decisium, de modo apropriado a externar as razões jurídicas e fáticas que norteiam o desate jurisdicional, sendo a valoração da prova, entre nós, deve seguir o sistema de persuasão racional, o qual exige fundamentação da decisão. (grifamos e negritamos) Data vênia, a sentença é obscura e contraditória quanto a fundamentação, pois não cita qualquer artigo ou entendimento jurisprudencial ou ainda prova crucial.” (eDOC 1, p.16)
+    Alega a possibilidade desta reclamação conforme a Súmula 734 desta Corte, sob pena da necessidade de utilização de ação rescisória.
+    Requer seja concedida “a LIMINAR DE SUSPENSÇÃO DOS EFEITOS DA CONDENAÇÃO até o julgamento da presente RECLAMAÇÃO CONSTITUCIONAL, expedindo-se competente alvará de soltura, RECONHECENDO A COTA DO MINISTÉRIO PULICO AS FLS. 65 DO PEDIDO DE LIBERDADE PROVISÓRIA, absolvendo o reclamante do artigo 158, pela exclusão do pedido ora imputado e pela atipicidade do mesmo.” (eDOC 1)
+    Por entender que o processo já possui condições de julgamento, dispenso a solicitação de informações e a vista à Procuradoria-Geral da República, nos termos do artigo 52, parágrafo único, do RISTF.
+    É o relatório.
+    Decido.
+    Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, l, da CF/88).
+    Nesses termos, transcrevo abaixo o art. 988 do CPC, que estabelece o rol das hipóteses de cabimento da reclamação, o qual não contempla o caso dos autos:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III- garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV- garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…). (Redação dada pela Lei nº 13.256, de 2016).”
+    No caso, verifica-se que o reclamante apresenta como paradigmas a ADPF 444, a ADPF 395 e a Súmula 734, todos desta Corte.
+    Quanto ao parâmetro invocado na decisão exarada por este STF nos autos das ADPFs 395 e 444, estes reconheceram "a incompatibilidade com a Constituição Federal da condução coercitiva de investigados ou de réus para interrogatório, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de ilicitude das provas obtidas, sem prejuízo da responsabilidade civil do Estado."
+    Por outro lado, o reclamante requer “expedindo-se competente alvará de soltura, RECONHECENDO A COTA DO MINISTÉRIO PULICO AS FLS. 65 DO PEDIDO DE LIBERDADE PROVISÓRIA, absolvendo o reclamante do artigo 158, pela exclusão do pedido ora imputado e pela atipicidade do mesmo, como medida da mais lídima JUSTIÇA! No mérito, seja julgada procedente a presente Reclamação Constitucional, cassando-se, definitivamente, a decisão exorbitante de seu julgado, nos termos do artigo 17 da Lei n° 8.038/90.” (eDOC 1, p. 32).
+    Ou seja, não há qualquer aderência entre os paradigmas indicados e a situação dos autos.
+    No sentido do caráter estrito da competência do STF no conhecimento das reclamações e da necessidade de aderência estrita do objeto do ato reclamado ao conteúdo das decisões paradigmáticas do STF, cito os seguintes precedentes:
+          “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL 395/DF e 444/DF. AUSÊNCIA DE ESTRITA ADERÊNCIA ENTRE O ATO IMPUGNADO E O ATO PARADIGMA INVOCADO. AGRAVO A QUE SE NEGA PROVIMENTO. (Rcl 36989 AgR, Rel. Alexandre de Moraes, Primeira Turma, DJE 9-11-2019).
+    Ementa: AGRAVO REGIMENTAL EM RECLAMAÇÃO. PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. ALEGAÇÃO DE DESCUMPRIMENTO DAS ADPFs 395 E 444. AUSÊNCIA DE ADERÊNCIA ESTRITA. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. A ausência de aderência estrita entre a situação reclamada e os precedentes vinculantes impede o conhecimento da reclamação. 3. Agravo regimental desprovido. (Rcl 40285 AgR, Rel. Edson Fachin, Segunda Turma, DJe 12-03-2021).
+    Quanto à Súmula 734 desta Corte, que disciplina que “não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal” consigno a impossibilidade de análise do pedido, tendo em vista que, além de a petição inicial ser de difícil compreensão, não foram juntados aos autos o ato coator e demais documentos necessários à instrução do feito.
+    Ante o exposto, julgo improcedente a reclamação.
+    Publique-se. Intimem-se.
+    Brasília, 20 de outubro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
