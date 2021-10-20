@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por INSTITUTO DE PREVIDÊNCIA DO SERVIDOR MUNICIPALem face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, que negou admissibilidade a recurso contra acórdão que negou haver prescrição de fundo em relação ao direito da servidora à gratificação de Horas de Trabalho Coletivo (HTC).
+No especial, pugna-se pelo reconhecimento da prescrição.
+Após juízo negativo de admissibilidade sobreveio o presente agravo.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A questão tratada no presente recurso - definição sobre a configuração do ato de aposentadoria de servidor público como negativa expressa da pretensão de reconhecimento e cômputo, nos proventos, de direito não concedido enquanto o servidor estava em atividade, à luz do art. 1º do Decreto 20.910/1932 e da Súmula 85/STJ - foi afetada pela Primeira Seção (Tema 1.017).
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista nos parágrafos sétimo e oitavo do art. 543-C do CPC (art. 5º, III, da Resolução 8/2008 - Presidência/STJ).
+Assim, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicado o acórdão relativo ao recurso representativo da controvérsia, o recurso especial objeto do presente agravo: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; (ou) 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
