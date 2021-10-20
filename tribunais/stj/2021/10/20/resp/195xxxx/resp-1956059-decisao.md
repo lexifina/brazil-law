@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloEstado do Paraná, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão do respectivo Tribunal de Justiçaassim ementado (e-STJ, fl. 289):
+1) DIREITO PROCESSUAL CIVIL. JUROS MORATÓRIOS E ATUALIZAÇÃO MONETÁRIA.INAPLICABILIDADE DO ARTIGO 1º-F, DA LEI Nº 9.494/1997, DECLARADO INCONSTITUCIONAL PELO STF. JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA, QUE PODE SER ALTERADA DE OFÍCIO. a) Por ocasião do julgamento das ADIs nºs 4357 e 4425, o artigo 12 da Constituição Federal na parte que estabelecia esta forma de correção monetária, bem como o referido artigo 1º-F da Lei nº 9.494/1997, foram declarados inconstitucionais. b) Ademais, a matéria atinente aos juros moratórios é de ordem pública, sendo que a sua incidência e a sua alteração, de ofício, não configura "reformatio in pejus". c) Nessas condições, de ofício, impõe-se a reforma da sentença, apenas para fixar a atualização monetária pelo IPCA e os juros de mora, a contar da citação, calculados com base no índice oficial de juros aplicados à caderneta de poupança.
+2) SENTENÇA REFORMADA DE OFÍCIO. APELO PREJUDICADO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do especial, a parte recorrente alega (e-STJ, fl. 579):
+Resta, pois, requerer que esse Egrégio Tribunal, reconhecendo a afronta ao artigo 1.022, inciso II, do Código de Processo Civil, passe a decidir sobre a alegação de que os juros de mora devem incidir do trânsito em julgado - e não da citação, por se tratar de condenação de natureza tributária. Assim, o especial é interposto por afronta aos artigos 1.022, II, do CPC e 167, parágrafo único, do CTN.
+Nos termos do parágrafo único do artigo 167 do CTN: "A restituição vence juros não capitalizáveis, a partir do trânsito em julgado da decisão definitiva que a determinar", o que está reconhecido na Súmula 188/STJ ("Os juros moratórios, na repetição do indébito tributário, são devidos a partir do trânsito em julgado da sentença).
+Foram apresentadas contrarrazões.
+Admitido o recurso especial na origem, subiram os autos a este Tribunal Superior.
+É o relatório.
+Esta Corte de Justiça, na apreciação do REsp n. 1.086.935/SP, processado e julgado sob o rito do art. 543-C do CPC, pacificou o entendimento de que, "nos termos do art. 167, parágrafo único do CTN e da Súmula 188/STJ, "os juros moratórios, na repetição do indébito tributário, são devidos a partir do trânsito em julgado da sentença". Tal regime é aplicável à repetição de indébito de contribuições previdenciárias, que também têm natureza tributária" (REsp n. 1.086.935/SP, relator MinistroTeori Albino Zavascki, Primeira Seção, DJe 24/11/2008).
+Dessa forma, o acórdão recorrido, ao fixar os juros a partir da citação, encontra-se em dissonância com o entendimento desta Corte, razão pela qual deve ser reformado.
+Ante o exposto, aplica-se à espécie a orientação fixada pela Súmula n. 568 do STJ, com base na qual dou provimento ao recurso especialpara reformar o acórdão recorrido e, nesse sentido, determinar a incidência dos juros moratórios a partir do trânsito em julgado da sentença, nos termos do julgamento proferido no repetitivo acima indicado.
+Publique-se. Intimem-se.
