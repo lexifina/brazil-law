@@ -1,0 +1,56 @@
+AGRAVANTE: ESTADO DE MATO GROSSO
+AGRAVADO: JAIR PEREIRA DA SILVA
+PROTOCOLO: 1017875-51.2021.8.11.0000
+LIMINAR
+Visto.
+Trata-se de Agravo de Instrumento, com pedido de efeito suspensivo, interposto pelo ESTADO DE MATO GROSSO contra decisão proferida pelo Juízo da Vara Espec. da Fazenda Pública da Comarca de Sinop/MT nos autos do Pedido de Restituição de Coisa Apreendida n. 1015326-23.2021.8.11.0015, que deferiu a tutela de urgência pleiteada na inicial, para determinar a restituição de uma escavadeira hidráulica caterpillar 320D série CAT0320DEAF02240 apreendidos pela SEMA por meio do termo de apreensão no 21175147, mediante nomeação da parte agravada (JAIR PEREIRA DA SILVA) como fiel depositário do bem.
+Aduz que não existe qualquer irregularidade no termo de apreensão, pois foi constatado pelo agente ambiental, no momento da fiscalização, que o bem apreendido estava sendo utilizado na prática do dano ambiental.
+Sustenta que quando bem é utilizado na pratica de infração ambiental ele pode ser apreendido, “pouco importando nesses casos, a propriedade dos bens apreendidos, se do autuado ou não” (Id. 104429477 - Pág. 6)
+Argumenta que para a apreensão do bem também não é necessária a comprovação de que ele é utilizado de forma reiterada ou rotineira na prática de ilícitos ambientais.
+Assevera que é possível a apreensão, inclusive nos casos em que o bem é locado pelo infrator, pois em razão do princípio da solidariedade que rege o direito ambiental, a responsabilidade administrativa pelo ilícito recai sobre quem, de qualquer forma, contribuiu para a prática da infração ambiental, por ação ou omissão” (Id. 104429477 - Pág. 7).
+Assegura que a apreensão do bem se deu em observância à legislação de regência, não tendo que se falar em ilegalidade e nem em restituição.
+Diz que não se encontram presentes os requisitos necessários para o deferimento da tutela de urgência pleiteada nos autos originários.
+Com base nestes fundamentos, pugna pela concessão de efeito suspensivo recursal.
+Ao final requer que seja dado provimento ao recurso, para indeferir a tutela de urgência pleiteada na exordial.
+É o relatório.
+Decido.
+Para o deferimento da tutela antecipada ou efeito suspensivo ao Recurso de Agravo de Instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, ambos do Novo Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Passo a análise dos requisitos necessários para o deferimento ou não do pedido de efeito suspensivo recursal.
+Na espécie, a parte Agravada requereu em tutela de urgência a restituição do bem apreendido no curso de ação fiscalizatória ambiental por meio do termo de apreensão no 21175147 (uma escavadeira hidráulica caterpillar 320D série CAT0320DEAF02240), pedido esse que foi deferido mediante a nomeação da parte recorrida como fiel depositária.
+Contra essa decisão o Estado de Mato Grosso interpôs o presente recurso alegando, em síntese que a apreensão dos bens é legitima, pois eles estavam sendo utilizados na prática de dano ambiental.
+Sobre o assunto, sabe-se que nos termos dos artigos 25 e 72, inciso IV, da Lei 9.605/1998, os bens e instrumentos utilizados na prática de infração ambientais podem ser apreendidos, como cito:
+“Art. 25. Verificada a infração, serão apreendidos seus produtos e instrumentos, lavrando-se os respectivos autos”
+“Art. 72. As infrações administrativas são punidas com as seguintes sanções, observado o disposto no art. 6o:
+[...]
+IV - apreensão dos animais, produtos e subprodutos da fauna e flora, instrumentos, petrechos, equipamentos ou veículos de qualquer natureza utilizados na infração; [...]”.
+In casu, da análise conjunta do auto de boletim de ocorrência n. 2021.204115, d auto de inspeção e do auto de infração no 211732618 (Id. 104429479 - Pág. 33-34 e Id. 104429479 - Pág. 53-69), evidencia-se que o bem escavadeira hidráulica caterpillar 320D série CAT0320DEAF02240 de propriedade do autor/agravado, provavelmente estavam sendo utilizados em suposta infração ambientais, oriunda da prática de atividade poluidora de garimpo de minério aurífero sem licença do órgão ambiental.
+Deste modo, não vislumbro, por ora, a alegada irregularidade na apreensão dos bens por meio do Termo de Apreensão no 21175147 (Id. 104429479 - Pág. 25).
+Outrossim, insta consignar que de acordo com os artigos 105 e 106 do Decreto 6.514/2008, os bens apreendidos devem ficar sob responsabilidade do órgão ou entidade responsável pela fiscalização, podendo, excepcionalmente, ser nomeado um fiel depositário até o julgamento do procedimento extrajudicial, desde que a posse dos bens não importe em risco de utilização em novas práticas de infrações ambientais, como cito
+“Art. 105. Os bens apreendidos deverão ficar sob a guarda do órgão ou entidade responsável pela fiscalização, podendo, excepcionalmente, ser confiados a fiel depositário, até o julgamento do processo administrativo.
+Parágrafo único. Nos casos de anulação, cancelamento ou revogação da apreensão, o órgão ou a entidade ambiental responsável pela apreensão restituirá o bem no estado em que se encontra ou, na impossibilidade de fazê-lo, indenizará o proprietário pelo valor de avaliação consignado no termo de apreensão.
+Art. 106. A critério da administração, o depósito de que trata o art. 105 poderá ser confiado:
+I - a órgãos e entidades de caráter ambiental, beneficente, científico, cultural, educacional, hospitalar, penal e militar; ou
+II - ao próprio autuado, desde que a posse dos bens ou animais não traga risco de utilização em novas infrações.
+[...]
+§ 2o Os bens confiados em depósito não poderão ser utilizados pelos depositários, salvo o uso lícito de veículos e embarcações pelo próprio autuado. [...]”.
+Além disso, o Superior Tribunal de Justiça, em recurso paradigma (REsp 1133965/BA - Tema Repetitivo 405), se posicionou no sentido de ser possível a liberação do bem apreendido, mediante constituição do proprietário como fiel depositário, desde que exista defesa administrativa pendente de julgamento e o bem não ofereça risco ao meio ambiente.
+A propósito:
+“AMBIENTAL. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-C DO CPC. PODER DE POLÍCIA. APREENSÃO DE VEÍCULO UTILIZADO NO CARREGAMENTO DE MADEIRA SEM AUTORIZAÇÃO. ART. 25, § 4o, DA LEI N. 9.605/98 [...] LIBERAÇÃO CONDICIONADA AO OFERECIMENTO DE DEFESA ADMINISTRATIVA. POSSIBILIDADE. CONSTITUIÇÃO DE FIEL DEPOSITÁRIO NA PESSOA DO PROPRIETÁRIO. [...] 5. Nada obstante, dizer que a autoridade administrativa deve seguir pura e simplesmente o art. 25, § 4o, da LCA em qualquer caso poderia levar à perpetração de violação aos princípios do devido processo legal, do contraditório e da ampla defesa (art. 5o, incs. LIV e LV, da CR/88), especialmente em situações nas quais o suposto infrator oferecesse defesa administrativa - porque esta, eventualmente, poderia vir a ser provida e, daí, seria incabível o perdimento do bem. [...] 9. Despiciendo lembrar, ainda, que a manutenção dos bens apreendidos com a Administração Pública, sem uso, estagnados, apenas tem o condão de causar-lhes depreciação econômica, o que não é proveitoso nem ao Poder Público, nem ao proprietário. 10. Em resumo: o art. 2o, § 6o, inc. VIII, do Decreto n. 3.179/99 (redação original), quando permite a liberação de veículos e embarcações mediante pagamento de multa, não é compatível com o que dispõe o art. 25, § 4o, da Lei n. 9.605/98; entretanto, não há ilegalidade quando o referido dispositivo regulamentar admite a instituição do depositário fiel na figura do proprietário do bem apreendido por ocasião de infração nos casos em que é apresentada defesa administrativa - anote-se que não se está defendendo a simplória liberação do veículo, mas a devolução com a instituição de depósito (e os consectários legais que daí advêm), observado, entretanto, que a liberação só poderá ocorrer caso o veículo ou a embarcação estejam regulares na forma das legislações de regência (Código de Trânsito Brasileiro, p. ex.). [...] 16. Submetendo esta linha de argumentação à situação que deu origem ao presente especial, tendo ficado assentado pelas instâncias ordinárias que a liberação do veículo era medida que se impunha em razão do oferecimento de defesa administrativa - e não do pagamento de multa -, entendo que é caso de dar parcial provimento à pretensão recursal, permitindo a liberação do veículo (como determinada pelo acórdão recorrido), mas condicionada à instituição do depósito em nome do proprietário (com as premissas acima alinhadas). [...]”. (STJ - REsp 1133965/BA, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 25/04/2018, DJe 11/05/2018)
+Ocorre que, na hipótese, não é possível constatar que a parte Agravada apresentou defesa administrativa contra o termo de apreensão em questão e/ou pedido extrajudicial de restituição de bem.
+Com efeito, não se vislumbra, por ora, qualquer irregularidade da Administração Publica quando estabeleceu que o bem apreendido fique sob guarda do órgão ou entidade responsável pela fiscalização ou confiado aos órgãos e entidades de caráter ambiental e/ou penal.
+Por esses motivos, verifica-se a presença do requisito da plausibilidade do direito vindicado nas razões recursais.
+No entanto, embora se observe a presença do requisito da plausibilidade do direito, não se constata, por ora, que a liberação dos bens com a nomeação do Agravado como fiel depositário possa implicar em óbice na apuração de possível infração ou crime ambiental.
+Outrossim, uma vez que os bens apreendidos são de terceiros e não do proprietário e/ou possuidor da área degradada, não é possível afirmar nesse momento cognitivo que os maquinários serão utilizados em nova prática de degradação ambiental.
+Além disso, não visualizo por ora que a imediata produção dos efeitos da decisão objurgada possa implicar em risco de dano grave, de difícil ou impossível reparação, ausentando dessa forma, uma dos requisitos necessários para o deferimento da medida de urgência pleiteada.
+Diante do exposto, indefiro o pedido de efeito suspensivo pleiteado nas razões recursais.
+Comunique-se o teor desta decisão ao Juízo a quo.
+Intime-se o Agravado, para querendo, apresentar resposta no prazo legal.
+À Procuradoria Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Des. Mario Roberto Kono de Oliveira
+Relato
