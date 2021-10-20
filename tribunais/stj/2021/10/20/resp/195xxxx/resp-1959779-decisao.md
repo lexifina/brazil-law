@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Fundação dos Economiários Federais Funcef contra os acórdãos de fls. 105-116 e 309-316(e-STJ), proferidos pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementados:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TITULO EXTRAJUDICIAL. PENHORA. SALDO PREVIDÊNCIA COMPLEMENTAR. CARÁTER ALIMENTAR. IMPENHORABILIDADE. RECURSO NÃO PROVIDO. 1. Conforme a jurisprudência do STJ, a impenhorabilidade dos valores depositados em fundo de previdência complementar deve ser analisada, caso a caso, cabendo ao Magistrado verificar se as provas dos autos demonstram que o plano de previdência privada é utilizado como forma de investimento ou verba alimentar previdenciária. 2. Ausente prova de que o saldo de previdência complementar do executado não possui natureza alimentar, deve ser indeferido o pedido de penhora das contribuições. 3. Recurso não provido.
+EMBARGOS DE DECLARAÇÃO. AÇÃO DE EXECUÇÃO. ACÓRDÃO ANULADO PELO STJ. ACOLHIMENTO SEM EFEITOS INFRINGENTES. Havendo efetiva omissão no acórdão, os embargos de declaração devem ser acolhidos, mas sem efeito modificativo quando a correção do vicio não alterar o resultado do julgamento.
+Nas razões do recurso especial (e-STJ, fls. 319-335), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 833, IV, 835, I, e 1.022 do CPC/2015.
+Sustenta, em síntese: i) ocorrência de negativa de prestação jurisdicional; e ii) possibilidade de penhora do fundo de previdência complementar, porquanto não demonstrado o seu caráter alimentar.
+Sem contrarrazões(e-STJ, fl. 377).
+Admitido o processamento do recurso na origem (e-STJ, fls. 379-381), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Inicialmente, defende a recorrente a ocorrência de negativa de prestação jurisdicional, alegando que o Tribunal de origem foi omisso quanto à aplicação do art. 835, I, do CPC/2015.
+Todavia, observa-se que o Tribunal local se manifestou satisfatoriamente sobre a questão, ainda que não tenha mencionado o dispositivo legal.
+Veja-se às fls. 314-315 (e-STJ):
+Contudo, reexaminando detidamente a questão posta, depreende que não se sustenta a alegada omissão da embargante no sentido de queinexistindoprovas do caráter alimentar daprevidência privada não há como se declarar a impenhorabilidade de tais contribuições, eis que, ao julgar os Embargos de Divergência em RESP nº 1.121.719, a Relatora, Ministra Nancy Andrighi, destacou que "ao menos que fique comprovado que, no caso concreto, o participante resgatou as contribuições vertidas ao Plano, sem consumi-las para suprimento de suas necessidades básicas, valendo-se, pois, do fundo de previdência privada como verdadeira aplicação financeira, o saldoexistente se encontra abrangido pelo art. 649, IV, do CPC", atual art. 833, IV, do CPC/15. Dessa maneira, uma vez que, no caso em concreto, não há provas de que o executado, ora agravado, vem utilizando do fundo de previdência privada como verdadeira aplicação financeira,o saldo existente está abrangido pela regra de impenhorabilidade do art. 833, IV, do CPC, conforme já esclarecidonoacórdão embargado.
+Assim, não assiste razão à recorrente, quando defende a ocorrência de negativa de prestação jurisdicional, porquanto a questão considerada omitida foi apreciada pelo órgão julgador, ainda que de forma equivocada.
+Quanto à penhorabilidade defundo de aposentadoria complementar,o entendimento desta Corte é pela sua presunção, devendo ser provado o caráter alimentar do fundo para efeitos de impenhorabilidade.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. PENHORA. FUNDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. PRECEDENTE. AGRAVO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida m que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Nos termos do entendimento firmado no âmbito da Segunda Seção do STJ, "a impenhorabilidade dos valores depositados em fundo de previdência privada complementar deve ser aferida pelo Juiz casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC" (EREsp 1.121.719/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 12/02/2014, DJe de 04/04/2014).
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.275.604/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 05/12/2019, DJe 19/12/2019).
+No caso presente, concluiu o Tribunal local, conforme trecho do acórdão acima colacionado,que a impenhorabilidade é presumida, não apontando nenhuma evidência do caráter alimentar do fundo.
+Dessa forma, a decisão recorridanão refletiu o entendimento deste Tribunal, razão pela qual merece reforma.
+Diante do exposto, conheço do recurso especial e dou-lhe provimento parcial para permitira penhora do fundo de aposentadoria.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENHORA DE FUNDODE PREVIDÊNCIA COMPLEMENTAR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. NÃO COMPROVAÇÃO DO CARÁTER ALIMENTAR. POSSIBILIDADE DA PENHORA.RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
