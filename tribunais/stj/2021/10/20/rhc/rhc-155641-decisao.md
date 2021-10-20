@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se derecurso ordinário emhabeas corpus, com pedido liminar, interposto interposto por WILLIAN SANTOS DE BASTOS contra acórdão proferido peloTribunal Regional Federal da 4ª Região(HCn.º 5031605-89.2021.84.04.0000).
+Consta dos autos que o recorrente foi preso em flagrante no dia 16/2/2021, e convertida a custódia em preventiva, pela suposta prática docrime de moeda falsa, porqueteria colocado "em circulação duas notas falsas com valor nominal de R$ 200,00, utilizadas para aquisição de produtos no comércio local" (e-STJ fl. 45). Em sua residência, foram encontradas munições de calibre .40.
+O Tribunal Regional Federal da 4ªRegiãosubstituiu a sua prisão preventiva pelamedidacautelar demonitoramento eletrônico.Diante do descumprimento da condição imposta(tornozeleira eletrônica com bateria descarregada), a sua prisão preventiva foiredecretada pelo Magistrado de primeiro grau.
+Contra a decisão, a defesa impetrou a ordem originária, que foi denegada pelo Tribunala quo, em acórdão ementado nos seguintes termos (e-STJfls. 42/43):
+HABEAS CORPUS. TORNOZELEIRA ELETRÔNICA. DESCUMPRIMENTO. TÉRMINO DE BATERIA. VIOLAÇÃO DE ÁREA DE INCLUSÃO. POSSIBILIDADE DE SUBSTITUIÇÃO DA MEDIDA CAUTELAR. CUMULAÇÃO COM OUTRA MEDIDA SUBSTITUTIVA. DECRETAÇÃO DE PRISÃO PREVENTIVA. POSSIBILIDADE. ARTS. 282, § 4º E 312, §1º, DO CPP. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURAÇÃO.
+1. Em caso de descumprimento das medidas cautelares diversas da prisão, revela-se possível sua substituição, sua cumulação com outra medida substitutiva ou mesmo a decretação da prisão preventiva do agente, nos termos dos art. 282, § 4º e 312, §1º, do Código de Processo Penal.
+2. Múltiplas violações de término de bateria caracterizam falta grave, visto que impedem a monitoração eletrônica, o que indica a insuficiência da medida cautelar substitutiva.
+3. Não configura constrangimento ilegal a decretação da segregação cautelar com base em elementos que comprovam o descumprimento reiterado e contumaz do monitoramento eletrônico.
+Na presente oportunidade, a defesa alega, em síntese, que o crime de moeda falsa não envolve violência ou grave ameaça, e que o não carregamento da bateria da tornozeleira eletrônica não é motivo bastante para a redecretação da prisão preventiva do recorrente, especialmente porque não há comprovação da prática de qualquer delito durante operíodo em que a tornozeleira ficou desligada.
+Pondera que o paciente apenas sedistraiu e não carregou a tornozeleira, mas não háevidência de periculosidade social. Sustenta estarem ausentes da espécie os requisitos do art. 312 do Código de Processo Penal.
+Diante disso, pleiteia, liminarmente e no mérito, pela revogação da prisão preventiva do recorrente, mediante orestabelecimento da monitoração eletrônica.
+É o relatório.Decido.
+O presente recurso ordinário emhabeas corpusnão merece ser conhecido,por instrução deficitária.
+É de se ressaltar que o rito do habeas corpus,e do respectivo recurso ordinário, pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n.º 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n.º 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+No particular, apesar de impetrado por advogado -Defensor Público Federal -, o presente mandamus não está instruído com a documentação necessária à perfeita compreensão da controvérsia: o decreto prisional não foi carreado aos autos.
+O não conhecimento do recurso é, portanto, a medida que se impõe.
+Ante o exposto,não conheçodo recurso ordinário emhabeas corpus.
+Intimem-se.
