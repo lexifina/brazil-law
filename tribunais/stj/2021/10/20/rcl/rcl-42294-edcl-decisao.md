@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ESSEX INVESTIMENTOS IMOBILIÁRIOS LTDA. contra decisão, acostada às fls. 43-47, da lavra deste signatário que indeferiu liminarmente a presente reclamação.
+Inconformada, aora embargantesustentaa existência e erro material da decisão embargada, pois"(..) no caso dos autos, não há necessidade de controle de uma suposta aplicação que teria se dado de forma equivocada, mas de aplicação integral e propriamente dita da Tese nº 966."Alega, outrossim,que "(..) neste ponto, é que reside o erro material já que não há um controle de aplicação do tema repetitivo mas um redirecionamento do caso à legalidade da própria tese em si."(fls. 50-52)
+Pugnapelo acolhimento dos aclaratórios.
+Sem impugnação (fl. 53).
+É o relatório.
+Decide-se.
+Os presentes embargos de declaração não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretendem osembargantes.
+Nesse sentido, precedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado.
+É que, a pretexto de omissão, na verdade, pretendea modificação da decisão, cuja via processual é inadequada porquanto oreferidojulgadoconsignou, expressamente, que a decisão reclamada negou provimento ao agravo interno interposto contra decisão que deu parcial provimento às apelações manejadas por ambas as partes, ao fundamento de que "(..) as razões deduzidas pelo agravante não demonstram o desacerto da decisão combatida, pelos fundamentos dela constantes" (fl. 18), de modo que não se verificou o exercício por qualquer órgão julgador dacompetência privativa ou exclusiva deste Tribunal, descumprimento de decisões emanadas do STJ, ou,ainda,a existência de um comando positivo desta Corte Superior cuja eficácia deva ser assegurada, protegida e conservada.
+Merece relevo, ainda,que na oportunidade se destacourecente posicionamento preconizado pela eg. Corte Especial, nos autos da Reclamação n.º 36.476/SP, Rel. Min. Nancy Andrighi, no sentido de que "(..) a admissão da reclamação atenta contra a finalidade da instituição do regime dos recursos especiais repetitivos, que surgiu como mecanismo de racionalização da prestação jurisdicional do STJ, perante o fenômeno social da massificação dos litígios."
+Finalmente, cabe recordar àora embargante, ante a redação do art. 1.026, § 2º, do NCPC, a possibilidade de aplicação de multa a recursos interpostos sem fundamentação idônea, constituindo-se, na realidade, em mero inconformismo com a decisão proferida por este órgão colegiado.
+2. Do exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
