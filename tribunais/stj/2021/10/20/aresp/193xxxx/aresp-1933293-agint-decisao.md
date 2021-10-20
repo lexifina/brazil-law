@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo interno interposto por Pepsico do Brasil Ltda. contra decisão monocrática da Presidência desta Corte que não conheceu do agravo em recurso especial em razão da ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial (e-STJ, fls. 506-508).
+Nas razões do agravo interno, a insurgente defende que impugnou especificamente todos os pontos abordados na decisão agravada (e-STJ, fls. 511-522).
+Sem impugnação (e-STJ, fl. 524).
+Tendo por plausíveis as alegações trazidas pela parte insurgente em seu agravo interno, reconsidero a decisão monocrática de fls. 506-508 (e-STJ) e passo a novo exame do recurso especial.
+Na origem, Jorge Brassanini ajuizou ação declaratória de inexistência de débito c/c indenização por danos morais contra Pepsico do Brasil Ltda.Requereu a declaração de inexistência do débito lançado pela empresa e constante no cadastro de restrição ao crédito, bem como a indenização pelos danos morais decorrentes da referida inscrição indevida.
+O Magistrado de primeiro grau declarou a inexistência de débito pelo qual o autor foi inscrito nos órgãos de restrição ao crédito pela ré e condenou-a ao pagamento de indenização por danos morais no valor de R$ 5.000,00 (cinco mil reais), bem como de despesas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação.
+Interposta apelação, a Quarta Câmara de Direito Civil, por unanimidade, deu parcial provimento ao recurso para majorar o valor da condenação para R$ 10.000,00 (dez mil reais).
+O acórdão foi assim ementado (e-STJ, fl. 329):
+APELAÇÃO CÍVEL. CONSUMIDOR. DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. AQUISIÇÃO DE PRODUTOS. AUSÊNCIA DE CONTRATAÇÃO. INSCRIÇÃO EM CADASTRO RESTRITIVO DE CRÉDITO. SENTENÇA DE PROCEDÊNCIA.
+RECURSO DO AUTOR.
+QUANTUM INDENIZATÓRIO. MAJORAÇÃO CABÍVEL, OBSERVADOS CASOS CONGÊNERES JÁ ANALISADOS POR ESTE ÓRGÃO FRACIONÁRIO. HONORÁRIOS SUCUMBENCIAIS. PERCENTUAL FIXADO CONDIZENTE COM A SINGELEZA DA CAUSA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. ORIENTAÇÃO DO STJ (EDcl no AgInt no REsp 1.573.573/RJ,Rel. Min. Marco Aurélio Bellizze).
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os aclaratórios opostos foram rejeitados com aplicação de 1% sobre o valor atualizado da causa (e-STJ, fls. 361-371).
+Nas razões do recurso especial, a recorrente alegou dissídio jurisprudencial e ofensa aos arts. 884 e 944 do CC/2002; 373, 926,927 e 1.026, § 3º, do CPC/2015.
+Sustentou que não houve a comprovação do dano e sua extensão e que a majoração da indenização por danos morais gerou enriquecimento ilícito. Requereu o afastamento da multa aplicada por oposição de embargos de declaraçãoprotelatórios.
+O Tribunal estadual concluiu que houve inscrição indevida do nome da parte agravada em órgão de restrição ao crédito e determinou o pagamento de indenização por danos morais em R$ 10.000,00 (dez mil reais), conforme se colhe dos excertos da decisão recorrida (e-STJ, fls. 327-335):
+O valor da indenização pelos danos morais foi fixado em R$ 5.000,00, a ser corrigido monetariamente desde o arbitramento e acrescido de juros de mora de 1% ao mês a contar do evento danoso.
+(..)
+Conforme se verifica, os danos morais devem ser fixados com olhosno caso concreto, em montante razoável e proporcional, que não se mostre insignificante a quem recebe nem importe em enriquecimento ilícito.
+No caso, a empresa ré promoveu a inscrição do nome do autor em cadastro restritivo de crédito, malgrado inexistir a dívida, referente à nota fiscal nº 042661-5, datando a inscrição de 13/2/2014 (p. 22), que perdurou por cerca de 3 anos e 9 meses.
+De seu turno, o apelante alegou nas razões recursais que por conta da "sua profissão ser caminhoneiro, ficou impossibilitado de trabalhar devido a restrição de credito existente em seu nome" (p. 228).
+Sopesadas as peculiaridades do caso concreto, viável a majoração do valor da indenização para R$10.000,00.
+(..)
+No que se refere aos consectários incidentes sobre o valor da condenação: em relação aos R$ 5.000,00 fixados na origem, a correção monetária incide desse arbitramento em primeiro grau, via INPC; em relação aos R$ 5.000,00 aqui majorados, a atualização flui da publicação deste acórdão, também via INPC; os juros legais remontam ao evento danoso, consoante a Súmula 54 do Superior Tribunal de Justiça.
+Observa-se que a Corte de origem julgou a demanda em conformidade com o entendimento do STJ no sentido de que, na hipótese de protesto indevido de título ou de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsaindependentemente de prova. Incidência da Súmula n. 83 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. COBRANÇA ILEGAL. PROTESTO INDEVIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DANO MORAL IN RE IPSA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos para concluir pelo abuso da cobrança e pelo protesto indevido do nome da recorrida em órgãos de proteção ao crédito. Alterar tal conclusão é inviável em recurso especial.
+4. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, na hipótese de protesto indevido de título ou de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsaindependentemente de prova. Aplicação da Súmula n. 83 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.858.119/SP. Relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 30/9/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO E NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado, bem como a apresentação de razões recursais dissociadas do que ficou decidido pelo Tribunal de origem, impõe o desprovimento do apelo, a teor do entendimento disposto nas Súmulas 283 e 284 do STF, aplicáveis por analogia. Precedentes.
+2. Nos termos da jurisprudência deste Tribunal Superior, a inscrição indevida do nome do devedor no cadastro de inadimplentes configura ato ilícito e enseja na reparação por dano moral. Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.647.046/PR. Relator Ministro Marco Buzzi, Quarta Turma, DJe 27/8/2020).
+Além disso, aCorte estadual consignou a ilicitude da conduta da insurgente ao realizar a negativação discutida. Assim, a inversão desse entendimento, de forma a acolher a tese da agravante, por certo, demandaria o revolvimento de todo o acervo fático-probatório dos autos, o que é vedado, na via especial, pelo enunciado n. 7 da Súmula desta Corte Superior.
+Outrossim, no contexto dos autos, a revisão do quantum indenizatório estipulado pelas instâncias de origem só é admitida quando irrisório ou exorbitante, o que não se verifica na espécie (fixado em R$ 10.000,00 - dez mil reais), porquanto o montante fixado não destoa dos parâmetros estabelecidos nesta Corte para casos análogos. Desse modo, a análise do tema esbarra no enunciado da Súmula n. 7 do STJ.
+No que concerne ao afastamento da multa aplicada no julgamento dos aclaratórios, cabe observar que o Superior Tribunal de Justiça possui jurisprudência no sentido de que é correta a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, quando as questões tratadas foram devidamente fundamentadas na decisão embargada e ficar evidenciado o caráter manifestamente protelatório dos embargos de declaração.
+Na espécie, verifica-se que o Tribunal local, ao apreciar os embargos de declaração opostos pelarecorrente, deixou claro que o intuito da parte era rediscutir questões já decididas no acórdão, ficando evidente a intenção procrastinatória do recurso.
+Assim, para ultrapassar a conclusão assentada no aresto recorrido,seria necessário o reexame das circunstâncias fáticas da causa, esbarrando a pretensão, mais uma vez, no óbice da referida Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO EMPRÉSTIMO. CAPITAL DE GIRO. ATRASO NO PAGAMENTO DAS PARCELAS. AÇÃO DE EXECUÇÃO. POSTERIOR RENEGOCIAÇÃO DA DÍVIDA. DANO. INEXISTÊNCIA. LITIGÂNCIA DE MÁ-FÉ. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. OCORRÊNCIA. REVISÃO DESTES ENTENDIMENTOS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.669.433/MG, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 29/9/2021).
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. AÇÃO RESCISÓRIA. AÇÃO DE REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO DEMONSTRADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ERRO DE FATO. SÚMULA Nº 7 DO STJ. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME DOS ELEMENTOS DE CONVICÇÃO DOS AUTOS. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Não se conhece da alegação de ofensa aos arts. 489 e 1.022 do NCPC, apresentada de forma genérica, sem indicação efetiva dos pontos omissos nem demonstração analítica dos motivos pelos quais o enfrentamento dessas questões seria relevante para o completo julgamento da causa. Incidência, por extensão, da Súmula nº 284 do STF.
+3. No caso dos autos, a alegação de que a sentença rescindenda está fundada em erro de fato, porque julgou procedente a ação de repetição de indébito relativamente a encargos cobrados em contrato de abertura de conta corrente inexistente, demanda análise de provas, o que veda a Súmula nº 7 do STJ.
+4. Demais disso, não foram impugnados todos os fundamentos invocados pelo acórdão recorrido para afastar a configuração de erro de fato, o que atrai a aplicação subsidiária das Súmulas nºs 283 e 284 do STF.
+5. Segundo precedentes desta Corte, não é cabível o ajuizamento de rescisória para adequar o resultado do julgamento transitado em julgado a uma posterior alteração jurisprudencial, tendo em vista o disposto na Súmula nº 343 do STF - Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais.
+6. No caso dos autos, a multa cominada pelo Tribunal estadual por oportunidade da rejeição dos embargos de declaração está lastreada no acervo fático-probatório dos autos, sendo impossível afastar referida penalidade em grau de recurso especial sem esbarrar na Súmula nº 7 do STJ.
+7. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.535.471/MG. Relator Ministro Moura Ribeiro, Terceira Turma, DJe 26/8/2021).
+Por fim, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7 do STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo, em juízo de retratação, para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em 1% sobre o valor da condenação.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. 1.PROTESTO INDEVIDO. DANO MORAL IN RE IPSA. SÚMULA N. 83 DO STJ. SÚMULA 7 DO STJ. 2. PRETENSÃO DE REDUÇÃO DO MONTANTE INDENIZATÓRIO. SÚMULA 7 DO STJ. 3. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 4.EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7 DO STJ. 5. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO,PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO,NEGAR-LHE PROVIMENTO.
