@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo interno interposto por MARIA DA CONCEIÇÃO OLIVEIRA CRUZem face da decisão de fls. 862-866, da lavra da Presidência desta Corteque indeferiu liminarmente os embargos de divergência manejados, ao fundamento de ausência da comprovação da divergência, nos termos dos arts. 1.043, §4.º do CPC, e 266, §4.º do RISTJ.
+Alega que a decisão agravada merece reforma pois "(..)verifica-se um equívoco na interpretação do Ministro Presidente aplicada ao caso, uma vez que não faz referência à alternatividade dos requisitos para comprovar a divergência jurisprudencial, mas o faz de forma cumulativa.". Sustentaque "(..)o dispositivo legal refere-se que o recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.". Afirma, portanto, que "(..)não pode prosperar o fundamento do Ministro quanto à necessidade de cumulação das providências para a comprovação do paradigma, já que o artigo 1043, §4º, do CPC dispõe sobre a possibilidade de utilizar alternativamente os requisitos."
+Requer, assim, o provimento do presente agravo. (fls. 870-917).
+Não foi apresentada impugnação (fl. 922).
+É o relatório.
+Decide-se.
+1. Ante as razões expendidas no agravo interno, reconsidera-se a decisãomonocrática anteriormente proferida.
+Isso porque, com efeito, eis a dicção do §4.º do art. 1.043 do CPC, litteris:
+Art. 1.043. É embargável o acórdão de órgão fracionário que:
+(..)
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+Desta forma, pela literalidade do mencionado dispositivo legal, ressai o caráter alternativo das possibilidades apresentadas pelo legislador para comprovação da divergência, dispondo que assim se fará por meio da "certidão, cópia OU citação de repositório oficial" (destacamos).
+Nesse sentido, também já se posicionou a jurisprudência desta Corte, no sentido de que "a decisão recorrida não é genérica, pois elenca quais providências deveriam ter sidoalternativamenteadotadas pelo recorrente em sua petição deembargos de divergênciapara caracterizar o suposto dissenso pretoriano, quais sejam: (a) a juntada de certidões; (b) a apresentação decópiasdo inteiro teor dos acórdãos apontados; (c) a citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte." (AgInt nos EAREsp 419.397/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 11/06/2019, DJe 14/06/2019) - grifamos. No mesmo sentido:AgRg nos EAREsp 369.557/SC, Rel. Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 03/09/2014, DJe 23/09/2014.
+2.Do exposto, dou provimento ao agravo interno para tornar sem efeito a decisão de fls. 862-866 que indeferiu liminarmente os embargos de divergência em análise.
+Vista à agravada, ora embargada,para impugnação (art. 267 do RISTJ).
+Após, ao Ministério Público Federal para manifestação (art. 266-D do RISTJ).
+Publique-se. Intimem-se.
