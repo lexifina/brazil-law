@@ -1,0 +1,105 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por VERA LUCIA SANTILI RIBEIRO com fundamento no art. 105, inciso III, alíneas "a" e "c" da Constituição da República contra acórdão do Tribunal de Justiça do Estado de São Paulo (fls. 314/329):
+EMBARGOS À EXECUÇÃO - CÉDULA DE CRÉDITO RURAL - CAPITALIZAÇÃO DOS JUROS - Pretensão de afastar a capitalização mensal dos juros remuneratórios. INADMISSIBILIDADE: O Decreto Lei nº 167/67, em seu artigo 5º, permite a capitalização dos juros em operações de crédito rural. No mesmo sentido, a Lei nº 10.931/04 prevê a capitalização dos juros desde que pactuada. Além do mais, a cédula rural em tela foi emitida quando já em vigor a Medida Provisória nº 1963-17/2000, atual MP 2.170 de 23.08.01, que em seu art. 5º autoriza a capitalização dos juros, por período inferior a um ano. TAXA DE JUROS REMUNERATÓRIOS Pretensão da apelante de que seja declarada nula a cláusula que determina índice de juros remuneratórios acima de 12% ao ano. PEDIDO PREJUDICADO: A análise do contrato mostra que os juros foram pactuados pelas partes em 6,5% ao ano. CÓDIGO DE DEFESA DO CONSUMIDOR - Pretensão deque sejam aplicadas as normas do CDC. NÃO CABIMENTO: Crédito que serve de insumo à atividade agrícola, o que desvirtua a qualidade de destinatário final e a aplicação do CDC. COMISSÃO DE PERMANÊNCIA Defende que sua cobrança deve ser afastada nas cédulas de crédito rural -PREJUDICADO: Embora o contrato preveja a sua aplicação, verifica-se pela análise do demonstrativo de débito que não houve cobrança de comissão de permanência. PRORROGAÇÃO PROVISÓRIA E AUTOMÁTICA DO VENCIMENTO - Pretensão da apelante de prorrogação da sua dívida de acordo com a sua capacidade de pagamento -NÃO CONHECIMENTO: A prorrogação é um direito do devedor (súmula 298 do STJ) e tem o seu deferimento condicionado ao preenchimento de determinados requisitos legais. Requisitos que não podem ser aferidos em processo de execução. A sua análise deve ocorrer em sede de processo de conhecimento e não em embargos à execução. PROCESSUAL CIVIL NULIDADE DA SENTENÇA Alegação de cerceamento de defesa em razão do julgamento antecipado sem a produção de prova pericial.- NÃOOCORRÊNCIA: Ainda que a questão discutida nos autos seja de fato e de direito, se as provas apresentadas foram suficientes para formar a convicção do Magistrado, o julgamento antecipado não gera cerceamento do direito de defesa. RECURSO NÃO CONHECIDO EM PARTE E NA PARTE CONHECIDA DESPROVIDO.
+Trata-se na origem de embargos à execução promovido por VERA LÚCIASANTILI RIBEIRO contra o BANCO DO BRASIL S/A.
+O juízo de primeiro grau julgou improcedentes os embargos determinando o prosseguimento da ação de execução de título extrajudicial n.º 1004341-52.2016.8.26.0047. Em razão da sucumbência, condenou a embargante ao pagamento das custas e despesas processuais, bem como aos honorários advocatícios fixados em 10% do valor dado à causa.
+Interposto recurso de apelação, o Tribunal de Justiça negou provimento ao apelo conforme a ementa acima transcrita.
+Opostos embargos de declaração, estes restaram rejeitados (fl. 338).
+Em suas razões de recurso especial, a recorrente alegou dissídio jurisprudencial quanto à ocorrência de cerceamento de defesa em razão do julgamento antecipado da lide sem a produção da prova pericial contábil requerida. Acenou pela ocorrência de divergência pretoriana em relação à incidência do Código de Defesa do Consumidor. Asseverou pela violação do art. 5º, do Decreto-Lei n.º 167/67, sob o argumento de que ilegal a capitalização mensal de juros. Apontou pela impossibilidade de cobrança dos encargos moratórios, em razão da existência de cobrança abusiva. Apontou pela violação dos arts. 14, da Lei n.º 4.829/65; 13 do Decreto-Lei n.º 167/67 e 1.050, da Lei de Política Agrícola, sob o argumento de que devida a prorrogação do débito agrícola. Requereu o provimento do recurso especial
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial merece parcial provimento.
+1. No que tange ao cerceamento de defesa:
+O Tribunal de Justiça do Estado de São Paulo, ao julgar o recurso de apelação, rechaçou a tese de cerceamento de defesa ao argumento de que (fl. 321):
+(..)
+A alegação de cerceamento de defesa deve ser rejeitada, porque a questão permite o julgamento antecipado da lide e os documentos trazidos são suficientes para esclarecer os fatos e as questões de direito. A matéria em discussão é predominantemente de direito, razão pela qual inexistia necessidade de produção de prova pericial.
+Assim, não há que se falar em cerceamento de defesa e além do mais, não foi caracterizado nenhum prejuízo para se reconhecer a nulidade da sentença.
+Consoante a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa quanto o magistrado, com base no livre convencimento motivado, indefere a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE ANULAÇÃO DE CONTRATO DE EMPRÉSTIMO. CONTRATOS BANCÁRIOS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INDEFERIMENTO DE PROVA PERICIAL. INSTÂNCIAS ORDINÁRIAS QUE ENTENDERAM SER SUFICIENTE À RESOLUÇÃO DA CONTROVÉRSIA A PROVA DOCUMENTAL JÁ ACOSTADA. REVISÃO. SUMÚLA 7/STJ. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA 13/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se admite recurso especial por dissídio entre julgados do mesmo Tribunal nos termos da Súmula 13 do STJ.
+2. O magistrado, com base no livre convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, hipótese em que não se verifica a ocorrência de cerceamento de defesa.
+3. As instâncias ordinárias concluíram que a prova documental acostada aos autos é suficiente para proporcionar ao julgador os elementos necessários à análise da contratação dos empréstimos questionados, sendo desnecessária a prova pericial requerida.
+4. Para se desconstituir a afirmação das instâncias ordinárias, de que há outros elementos dos autos que permitem a análise e solução da controvérsia sem a realização da perícia grafotécnica, seria necessário novo exame do acervo probatório, o que se revela defeso no âmbito de recurso especial ante o óbice da Súmula 7/STJ.
+5. Agravo interno não provido. (AgInt no AREsp 1833031/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2021, DJe 27/09/2021)
+Ademais, modificar o entendimento do Tribunal local, acerca da necessidade de realização de prova pericial, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice do Enunciado n.º 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CERCEAMENTO DE DEFESA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local, acerca da necessidade de realização de prova pericial, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+2. Agravo interno improvido. (AgInt no AREsp 1851368/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021)
+2. No que tange à incidência do CDC:
+O Tribunal de Justiça do Estado de São Paulo afastou a incidência do CDC, sob os seguintes fundamentos (fls. 323/324):
+(..)
+Entretanto, não é o caso de se reconhecer o direito consumerista, porque sendo o empréstimo para pessoa física, produtora rural, o valor obtido tem o objetivo de aumentar a atividade negocial da emitente, cuidando-se de recurso para insumo e não para consumo, o que retira a qualidade de destinatária final da contratante.
+Nesse contexto, verifica-se que o posicionamento do Tribunal de Justiça bandeirante não merece reparos. Com efeito, há entendimento no âmbito do Superior Tribunal de Justiça no sentido de que o produtor rural não deve ser considerado destinatário final no contrato de compra e venda de insumos agrícolas, motivo pelo qual não incide, nesses casos, o Código de Defesa do Consumidor.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CONTRATO DE AQUISIÇÃO DE INSUMOS AGRÍCOLAS. PRODUTOR RURAL. INAPLICABILIDADE DO CDC. PRECEDENTES DO STJ. FIXAÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do STJ, o produtor rural não deve ser considerado destinatário final no contrato de compra e venda de insumos agrícolas, motivo pelo qual não incide, nesses casos, o Código de Defesa do Consumidor. Precedentes. Incidência da Súmula 83/STJ.
+2. A jurisprudência desta Corte é firme no sentido de não ser possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, e a fixação do respectivo quantum, por implicar incursão no suporte fático da demanda, esbarrando no óbice da Súmula 7/STJ.
+3. Agravo interno desprovido. (AgInt no REsp 1536652/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/04/2021, DJe 24/05/2021)
+3. No que tange à capitalização mensal de juros:
+O Tribunal de Justiça do Estado de São Paulo reconheceu a possibilidade de cobrança sob os seguintes argumentos (fl. 326):
+(..)
+Pela análise da cédula de crédito rural (fls.66/74), verifica-se que ela foi emitida em 14.8.2014 (fl. 74), quando já em vigor a Medida Provisória nº 1963-17/2000, atual MP 2.170 de 23.08.01,que em seu artigo 5º autoriza a capitalização dos juros, por período inferior a um ano e houve previsão expressa a respeito da capitalização mensal dos juros (fl. 67).
+Conforme a jurisprudência do STJ, há possibilidade de cobrança de capitalização de juros, desde que pactuada, tendo em vista que o art. 5º do Decreto-Lei n. 167/67 autoriza a cobrança do encargo nas cédulas de crédito rural, industrial e comercial.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. REVISIONAL. CÉDULA DE CRÉDITO RURAL. CDC. MULTA MORATÓRIA. CAPITALIZAÇÃO MENSAL DE JUROS. CORREÇÃO MONETÁRIA. ENCARGOS MORATÓRIOS. PRORROGAÇÃO DA DÍVIDA. SUCUMBÊNCIA MÍNIMA.
+1. O entendimento da Corte local de que se tratando de relação de insumo é inaplicável o CDC está em conformidade com a jurisprudência do STJ.
+2. Considerando a inaplicabilidade do CDC no presente caso, consequentemente deve ser mantida a multa moratória contratada.
+3. Possibilidade de cobrança de capitalização de juros, desde que pactuada, tendo em vista que o art. 5º do Decreto-Lei n. 167/67 autoriza a cobrança do encargo nas cédulas de crédito rural, industrial e comercial.
+4. Rever o acórdão recorrido e acolher a pretensão recursal quanto à alegada hipossuficiência e vulnerabilidade dos recorrentes e ausência de pactuação expressa de capitalização de juros demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, bem como interpretação de cláusulas contratuais, o que é vedado nesta via especial ante os óbices das Súmulas 5 e 7 do STJ.
+5. Nas razões do presente agravo interno, os agravantes não indicaram as premissas fáticas do acórdão recorrido que supostamente permitiriam conclusão jurídica diversa da adotada pelo Tribunal de origem, limitando-se a alegar, genericamente, que não seria necessário o reexame de provas.
+6. A Taxa Referencial (TR) pode ser aplicada como indexador da correção monetária nos contratos posteriores à Lei 8.177/91, desde que pactuada. Incidência da Súmula 83 do STJ.
+7. No tocante ao dissídio sobre a inoponibilidade dos encargos moratórios, a ausência de indicação do dispositivo legal a que se tenha dado interpretação divergente atrai o óbice previsto na Súmula 284/STF, por deficiência de fundamentação do recurso especial a impedir a exata compreensão da controvérsia.
+8. O dissídio jurisprudencial não foi devidamente demonstrado, à míngua do indispensável cotejo analítico.
+9. Quanto às alegações de preenchimento dos requisitos para a prorrogação da dívida e de sucumbência mínima, o acolhimento da pretensão recursal demandaria o revolvimento de matéria eminentemente fática, o que é inviável ante o óbice da Súmula 7 do STJ.
+10. Agravo interno não provido. (AgInt no REsp 1365244/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 02/03/2021)
+4. No que tange ao encargos moratórios:
+Consoante a jurisprudência do STJ, a ausência de indicação do dispositivo legal a que se tenha dado interpretação divergente atrai o óbice previsto no Enunciado n.º 284/STF, por deficiência de fundamentação do recurso especial a impedir a exata compreensão da controvérsia.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. REVISIONAL. CÉDULA DE CRÉDITO RURAL. CDC. MULTA MORATÓRIA. CAPITALIZAÇÃO MENSAL DE JUROS. CORREÇÃO MONETÁRIA. ENCARGOS MORATÓRIOS. PRORROGAÇÃO DA DÍVIDA. SUCUMBÊNCIA MÍNIMA.
+1. O entendimento da Corte local de que se tratando de relação de insumo é inaplicável o CDC está em conformidade com a jurisprudência do STJ.
+2. Considerando a inaplicabilidade do CDC no presente caso, consequentemente deve ser mantida a multa moratória contratada.
+3. Possibilidade de cobrança de capitalização de juros, desde que pactuada, tendo em vista que o art. 5º do Decreto-Lei n. 167/67 autoriza a cobrança do encargo nas cédulas de crédito rural, industrial e comercial.
+4. Rever o acórdão recorrido e acolher a pretensão recursal quanto à alegada hipossuficiência e vulnerabilidade dos recorrentes e ausência de pactuação expressa de capitalização de juros demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, bem como interpretação de cláusulas contratuais, o que é vedado nesta via especial ante os óbices das Súmulas 5 e 7 do STJ.
+5. Nas razões do presente agravo interno, os agravantes não indicaram as premissas fáticas do acórdão recorrido que supostamente permitiriam conclusão jurídica diversa da adotada pelo Tribunal de origem, limitando-se a alegar, genericamente, que não seria necessário o reexame de provas.
+6. A Taxa Referencial (TR) pode ser aplicada como indexador da correção monetária nos contratos posteriores à Lei 8.177/91, desde que pactuada. Incidência da Súmula 83 do STJ.
+7. No tocante ao dissídio sobre a inoponibilidade dos encargos moratórios, a ausência de indicação do dispositivo legal a que se tenha dado interpretação divergente atrai o óbice previsto na Súmula 284/STF, por deficiência de fundamentação do recurso especial a impedir a exata compreensão da controvérsia.
+8. O dissídio jurisprudencial não foi devidamente demonstrado, à míngua do indispensável cotejo analítico.
+9. Quanto às alegações de preenchimento dos requisitos para a prorrogação da dívida e de sucumbência mínima, o acolhimento da pretensão recursal demandaria o revolvimento de matéria eminentemente fática, o que é inviável ante o óbice da Súmula 7 do STJ.
+10. Agravo interno não provido. (AgInt no REsp 1365244/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 02/03/2021)
+5. No que tange ao alongamento da dívida:
+O Tribunal de Justiça do Estado de São Paulo não conheceu do recurso de apelação quanto ao ponto sob os seguintes fundamentos (fls. 321/322):
+(..)
+Destaca-se que o pedido de obter o alongamento da dívida não pode ser reconhecido em sede de embargos à execução.
+O alongamento da dívida rural é um direito do devedor (súmula 298 do STJ) que foi estabelecido pela Lei n.º 9.138/95 e tem o seu deferimento condicionado ao preenchimento de determinados requisitos legais.
+A verificação do preenchimento dos requisitos do alongamento da dívida envolve matéria fática, cuja apreciação não se harmoniza com o processo executivo, em que se busca a satisfação forçada de uma obrigação.
+A sua análise deve ocorrer em sede de processo de conhecimento, porque é nele que os devedores poderão produzir provas destinadas à demonstração desses requisitos, não em embargos à execução.
+A jurisprudência do Superior Tribunal de Justiça flui no sentido de que é direito do devedor, e não faculdade do credor, o alongamento de dívidas originárias de crédito rural, desde que preenchidos os requisitos legais.
+Na hipótese dos autos, os requisitos para a concessão do alongamento da dívida não foram aferidos pelo Tribunal de Justiça do Estado de São Paulo sob o argumento de que indevida a análise em sede de embargos à execução.
+Entretanto, há julgados no âmbito do Superior Tribunal de Justiça no sentido de que a securitização é matéria de defesa alegável em sede de embargos à execução.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CÉDULA DE CRÉDITO RURAL. EMBARGOS À EXECUÇÃO. PEDIDO DE ALONGAMENTO. SECURITIZAÇÃO. POSSIBILIDADE.
+1. É direito do devedor e não faculdade do credor o alongamento de dívidas originárias de crédito rural, desde que preenchidos os requisitos legais (Súmula 289 do STJ).
+2. A securitização é matéria de defesa alegável em sede de embargos à execução. Precedentes.
+3. Tendo decidido a controvérsia amparada no entendimento de que a securitização não poderia ser analisada nos embargos à execução, por não constituir a via adequada, é mister que a Corte de origem efetue nova análise do caso para a verificação do eventual cumprimento dos requisitos ensejadores da securitização, uma vez que estando presentes afastariam a liquidez do título executivo.
+4. Agravo regimental não provido. (AgRg no Ag 968.531/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/03/2012, DJe 10/04/2012)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICAÇÃO DO CPC/1973. AÇÃO MONITÓRIA. CÉDULA RURAL PIGNORATÍCIA E HIPOTECÁRIA. EMBARGOS. SECURITIZAÇÃO DA DÍVIDA. MATÉRIA DE DEFESA. RECONVENÇÃO. DESNECESSIDADE.
+1. Ação ajuizada em 07/06/2013. Recurso especial interposto em 12/12/2014 e atribuído a esta Relatora em 25/08/2016. Aplicação do CPC/73.
+2. O preenchimento dos requisitos legais para a securitização da dívida originada de crédito rural constitui matéria de defesa do devedor, passível de ser alegada em embargos à monitória ou contestação, independentemente de reconvenção.
+3. Recurso especial conhecido e provido. (REsp 1531676/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/05/2017, DJe 26/05/2017)
+Ante o exposto, com arrimo no art. 932, incisos III e V, do Código de Processo Civil, conheço parcialmente do recurso especial e, nesta extensão, dou-lhe parcial provimento para determinar o retorno dos autos à origem para que se verifique a possibilidade de alongamento da dívida, nos termos da fundamentação.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO RURAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO DO JULGADO. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO INCIDÊNCIA.CAPITALIZAÇÃO DE MENSAL DE JUROS. POSSIBILIDADE. ENCARGOS MORATÓRIOS. NÃO CONHECIMENTO. INCIDÊNCIA DO ENUNCIADO N.º 284/STF.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa quanto o magistrado, com base no livre convencimento motivado, indefere a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo.
+2. Modificar o entendimento do Tribunal local, acerca da necessidade de realização de prova pericial, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice do Enunciado n.º 7/STJ.
+3. Entendimento jurisprudencial no âmbito do Superior Tribunal de Justiça no sentido de que o produtor rural não deve ser considerado destinatário final no contrato de compra e venda de insumos agrícolas, motivo pelo qual não incide o Código de Defesa do Consumidor.
+4. Conforme a jurisprudência do STJ, há possibilidade de cobrança de capitalização de juros, desde que pactuada, tendo em vista que o art. 5º do Decreto-Lei n. 167/67 autoriza a cobrança do encargo nas cédulas de crédito rural, industrial e comercial.
+5. A ausência de indicação do dispositivo legal a que se tenha dado interpretação divergente atrai o óbice previsto no Enunciado n.º 284/STF, por deficiência de fundamentação do recurso especial a impedir a exata compreensão da controvérsia.
+6. A jurisprudência do Superior Tribunal de Justiça flui no sentido de que é direito do devedor, e não faculdade do credor, o alongamento de dívidas originárias de crédito rural, uma vez preenchidos os requisitos legais.
+7. Na hipótese dos autos, os requisitos para a concessão do alongamento da dívida não foram aferidos pelo Tribunal de Justiça do Estado de São Paulo sob o argumento de ser indevida a análise em sede de embargos à execução.
+8. Entretanto, a jurisprudência do Superior Tribunal de Justiça é no sentido de ser a securitização matéria de defesa alegável em sede de embargos à execução.
+9. RECURSO ESEPCIAL PARCIALMENTE CONHECIDO E, NESTA EXENSÃO, PARCIALMENTE PROVIDO.
