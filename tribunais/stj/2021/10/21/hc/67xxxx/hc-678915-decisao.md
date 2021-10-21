@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLOS ALBERTO SOUZA DE OLIVEIRA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado como incurso no art. 157, § 2º, II, por três vezes, na forma do art. 70, ambos do Código Penal, às penas de 07 anos, 08 meses e 04 dias de reclusão, em regime inicial fechado, e 19 dias-multa.
+Irresignadas, a defesa e a acusação interpuseram recurso de apelação ao Tribunal de origem, que negou provimento ao reclamo da Defesa e deu provimento ao do Ministério Público a fim de aumentar as sanções, para 14 anos, 02 meses e 20 dias de reclusão e 33 dias-multa, nos termos do acórdão juntado às fls. 89-104.
+No presente writ, o impetrante aduz a ocorrência de flagrante ilegalidade na primeira e segunda etapas da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base ea não incidência da confissão.
+Requer, ao final, a concessão da ordem, para reduzir a reprimenda (fls. 3-11).
+O pedido liminar foi indeferido (fls. 115-116).
+As informações foram prestadas às fls. 122-164.
+O Ministério Público Federal, às fls. 171-175, manifestou-se nos termos da seguinte ementa:
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. ROUBO MAJORADO. REFORMA DA DOSIMETRIA. PENA-BASE E ATENUANTE. VIA ESTREITA. PARECER PELO NÃO CONHECIMENTO DO WRIT."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante aduz a ocorrência de flagrante ilegalidade na primeira e segunda etapas da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base e a não incidência da confissão.
+Acerca do punctum saliens, o Tribunal de origem, quando do julgamento do recurso de apelação, assim se pronunciou, in verbis:
+"3. Passa-se ao exame das penas, e com elas aprecia-se o recurso acusatório.
+A pena de partida foi estabelecida em 1/5 acima da base mínima.
+Contudo, mostrou-se brandamente fixada, frente aos mausantecedentes do acusado e a gravidade concreta do roubo praticado em plena luz do dia, na orla da praia, contra vítimas indefesas que participavam de ensaio fotográfico relativo a casamento.
+De ver-se que o réu ostenta cinco condenações transitadas em julgado, cujas penas somam mais de 14 anos de reclusão.
+As condenações que foram objeto das execuções 1 a 3 serão valoradas na primeira etapa, como maus antecedentes; à vista delas e da gravidade concreta do roubo, conforme acima destacado, fixa-se a pena departida em 1/3 acima do mínimo legal, ou seja, 5 anos e 4 meses de reclusão e 13 dias-multa.
+Na segunda fase, tendo em vista que o acusado ostenta mais de uma condenação configuradora da reincidência (condenações objeto da 4ª e 5ª execuções processos ns. 101222/2005, da 17ª Vara Criminal da Capital e 17623/2012 da 1ª Vara Criminal de São Caetano do Sul), as penas sofrem aumento de 1/3, resultando 7 anos, 1 mês e 10 dias de reclusão e 17 dias-multa.
+A propósito, não incide à espécie a atenuante da confissão espontânea, pois somente a admissão integral da imputação, sem rebuços, é apta a ensejá-la.
+ ..
+No caso em apreço, como se viu, o acusado negou o emprego de arma de fogo, buscando minimizar sua conduta e responsabilidade penal.
+Ademais, nos termos da Súmula 545 do E. Superior Tribunal de Justiça, somente "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Ora, no caso em tela a confissão era prescindível à solução condenatória, já que parte da res foi apreendida em poder do acusado, preso em flagrante delito ainda durante a fuga e reconhecido nas duas fases pelas vítimas, as quais corroboraram os fatos descritos na denúncia."
+Inicialmente, cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Na hipótese, não há que se falar em ilegalidade na fundamentação da exasperação da pena-base do crime de roubo, porquanto demonstrado as circunstânciasdo crime eos antecedentes criminais desfavoráveisao paciente.
+As condenações pretéritaspodem ser utilizadas tanto para valorar os maus antecedentes na primeira fase, quanto para agravar a pena na segunda fase, a título de reincidência, sem acarretar em bis in idem, desde que as condenações sejam de fatos diversos, conforme ocorreu no presente caso, em que o paciente detém cinco condenações, sendo apenas duas valoradas na primeira fase.
+Nesse sentido:
+"PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. ROUBO MAJORADO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA. DOSIMETRIA DA PENA. CONDENAÇÃO PELA PRÁTICA DE TRÊS CRIMES DE ROUBO, EM CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. CRITÉRIO MATEMÁTICO. NÚMERO DE INFRAÇÕES. POSSIBILIDADE. MAUS ANTECEDENTES E REINCIDÊNCIA. BIS IN IDEM. NÃO OCORRÊNCIA. ATENUANTE. CONFISSÃO PARCIAL. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. A jurisprudência desta Eg. Corte Superior já se consolidou no sentido de que o delito de roubo consuma-se com a simples posse da coisa alheia móvel subtraída, ainda que por breves instantes, sendo desnecessário que o bem saia da esfera de vigilância da vítima.
+Prescindível, portanto, a posse tranquila do bem, obstada, muitas vezes, pela imediata perseguição policial ou por terceiro.
+3. O acolhimento da tese defensiva que visa o afastamento da continuidade delitiva para fins de reconhecimento de crime único exigiria o reexame da prova referente ao preenchimento dos pressupostos constantes do art. 71 do Código Penal, o que demandaria o revolvimento do material fático-probatório, providência, como consabido, vedada em sede de habeas corpus.
+4. Nos termos da jurisprudência desta Corte, é matemático o critério de majoração pela continuidade delitiva, proporcionalmente ao número de infrações cometidas. Precedentes.
+5. A existência de condenações anteriores, transitadas em julgado, pode justificar validamente a elevação da pena-base, no tocante aos maus antecedentes, conduta social e personalidade, na primeira fase, e na segunda fase, em razão da reincidência, desde que diferentes as condenações consideradas.
+6. A jurisprudência desta Corte se firmou no sentido de que a confissão, ainda que parcial, deve ser considerada para atenuar a pena, quando utilizada para dar suporte à condenação.
+7. Habeas corpus não conhecido, mas ordem concedida, de ofício, para reduzir a pena do paciente Marcelo a 8 anos de reclusão e 17 dias-multa, a ser cumprida inicialmente em regime fechado." (HC 167.757/RJ, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 23/11/2015).
+Sobre o desvalor das circunstâncias do crime, também houve justificativa concreta, uma vez queo delito foi "praticado em plena luz do dia, na orla da praia, contra vítimas indefesas que participavam de ensaio fotográfico relativo a casamento",fatores que apontam maior censura na conduta e justificam a exasperação da pena-base,em atendimento aos princípios da proporcionalidade e da individualização da pena.
+A propósito:
+"HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. CONFISSÃO ESPONTÂNEA. ATENUANTE CONFIGURADA. COMPENSAÇÃO COM A REINCIDÊNCIA. POSSIBILIDADE. TERCEIRA ETAPA DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO IDÔNEA. REGIME INICIAL MENOS GRAVOSO. IMPOSSIBILIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. O Juízo de primeiro grau indicou dados fáticos suficientes a demonstrar a gravidade concreta do crime - na espécie, delito cometido em plena via pública, contra vítima que nem sequer fala português (estrangeiro refugiado), mediante concurso de quatro agentes, que abordaram o ofendido de maneira agressiva, um dos quais portava arma de fogo.
+6. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+7. Não há ilegalidade no estabelecimento do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime, em especial o modus operandi adotado pelos agentes.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer a atenuante da confissão espontânea, em relação ao primeiro paciente, a ser compensada com a agravante da reincidência, readequando a reprimenda a ele imposta." (HC 355.341/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe 23/06/2016).
+No tocante à segunda fase da dosimetria, consolidou-se o entendimento desta Corte Superior de que, para a caracterização da autoria, quando o juiz utiliza como elemento a confissão do réu, ainda que qualificada, imperioso se revela o reconhecimento da atenuante da confissão espontânea.
+Esse entendimento, inclusive, foi sumulado, consoante dispõe o enunciado n. 545/STJ: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal."
+No presente caso, o magistrado processante não utilizou a confissão do paciente para formar a sua convicção, pois, valeu-se dos fatos de que "parte da res foi apreendida em poder do acusado, preso em flagrante delito ainda durante a fuga e reconhecido nas duas fases pelas vítimas, as quais corroboraram os fatos descritos na denúncia", para reputar presentes os indícios de autoria em desfavor do paciente, de modo que, o acórdão impugnado se encontra em consonância com a jurisprudência desta Corte Superior.
+Nesse sentido:
+HABEAS CORPUS. PENAL. DOSIMETRIA. TRÁFICO ILÍCITO DE DROGAS. PLEITO DE COMPENSAÇÃO INTEGRAL ENTRE A AGRAVANTE DA REINCIDÊNCIA E A ATENUANTE DA CONFISSÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONFISSÃO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. A simples alegação de testemunha no sentido de que o Acusado teria admitido ser "gerente do tráfico" não configura confissão, seja extrajudicial ou judicial, de modo a se aplicar a atenuante prevista no art. 65, inciso III, alínea d, do Código Penal.
+2. O Juízo sentenciante consignou expressamente que o "réu negou a prática do crime, e como tese defensiva tentou desqualificar a diligência policial e alertar para a existência de flagrante forjado" e elencou diversas circunstâncias que embasaram o édito condenatório, inexistindo qualquer referência à suposta confissão.
+3. O entendimento desta corte é no sentido de que "para a configuração da atenuante da confissão espontânea, o acusado deve admitir a prática do fato criminoso que lhe é imputado" (AgRg no AREsp 1.053.378/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/04/2017, DJe 28/04/2017).
+4. Ordem de habeas corpus denegada. (HC 483.208/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe 13/06/2019).
+No que se refere à aventada reformatio in pejus, a alegação da defesa sequer merece conhecimento, pois, conforme fls. 24,o magistrado não utilizou a confissão do paciente para formar a sua convicção, assim comonão reconheceu a confissão, quando do cálculo da pena.
+Ante o exposto, não conheço do writ.
+P. e I.
