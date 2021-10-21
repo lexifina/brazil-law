@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de FERNANDO CUSTODIO BRAIDO, contra acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foicondenado por infração aos arts. 16, parágrafo único, IV, e 15, caput, ambos da Lei nº 10.826/03, às sanções de 05 anos de reclusão, no regime inicial semiaberto, e 20 dias-multa.
+Irresignada, a defesa interpôs recurso de apelação à Corte de origem, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 14-26, com a seguinte ementa:
+"APELAÇÃO CRIMINAL - Crimes do Sistema Nacional de Armas - Posse ilegal de arma de fogo de uso restrito - Disparo de arma de fogo - Recurso da defesa - Absolvição por fragilidade probatória ou por atipicidade da conduta, alegada ausência de dolo por parte do ora apelante, apontando-se para a ocorrência de "disparo acidental" - Improcedência - Provas hábeis a ensejar a condenação, nos termos em que proferida, bem delineado o dolo do agente, não vislumbrada a presença de qualquer causa excludente da ilicitude ou da culpabilidade - Ademais, trata-se de delitos de perigo abstrato que não requerem, para sua caracterização, a demonstração de qualquer situação de risco no caso concreto - Precedentes do C. STJ - Potencialidade lesiva da arma, bem como numeração obliterada e vestígios de disparo recente, constatados po rlaudo pericial - Condenação mantida - Penas e regime bem dosados, não comportando abrandamento, salientada a fixação das reprimendas no mínimo legal e do regime prisional semiaberto, considerado o concurso material de infrações - Recurso defensivo não provido."
+No presente writ, o impetrante alega a ocorrência de constrangimento ilegal na dosimetria, sob a premissa de que o crime de porte ilegal de arma de fogo deve ser absorvido pelo crime de disparo de arma de fogo, em razão daquele ser meio ou instrumento para a perpetração deste último crime de maior gravidade.
+Nesse sentido, aduz que: "o cenário é que o paciente portava arma de fogo em via pública e, nas mesmas circunstâncias de tempo e lugar, disparou arma de fogo em via pública."
+Requer, ao final, a concessão da ordem, para afastar a condenaçãodo crime previsto no art. 16, parágrafo único, do Estatuto do Desarmamento(fls. 3-9).
+As informações foram prestadas às fls. 278-297.
+O Ministério Público Federal, às fls. 305-308, manifestou-se nos termos da seguinte ementa:
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E DISPARO DE ARMA DE FOGO. PEDIDOS DE APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO PARA ABSOLVER O PACIENTE DO DELITO PREVISTO NOARTIGO 16, PARÁGRAFO ÚNICO, IV, DO ESTATUTO DO DESARMAMENTO. AUSÊNCIA DE IMPUGNAÇÃO VIA REVISÃO CRIMINAL. MATÉRIA QUE, ADEMAIS, NÃO FOI DEDUZIDA EM GRAU DE APELO. PRECLUSÃO. SUPRESSÃO DE INSTÂNCIA. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante alega a ocorrência de constrangimento ilegal na dosimetria, sob a premissa de que o crime de porte ilegal de arma de fogo deve ser absorvido pelo crime de disparo de arma de fogo, em razão daquele ser meio ou instrumento para a perpetração deste último crime de maior gravidade.
+Nesse sentido, aduz que: "o cenário é que o paciente portava arma de fogo em via pública e, nas mesmas circunstâncias de tempo e lugar, disparou arma de fogo em via pública."
+Acerca do punctum saliens, considerando queo eg. Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, eis que sequer foram arguidos na origem, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+À guisa de ilustração, cito os seguintes julgados:
+"PROCESSO PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ORGANIZAÇÃO CRIMINOSA E CORRUPÇÃO DE MENORES. INCOMPETÊNCIA DO JUÍZO DE 1º GRAU. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TRANCAMENTO DO PROCESSO-CRIME. EXCEPCIONALIDADE. CARÊNCIA DE JUSTA CAUSA PARA A PERSECUÇÃO PENAL NÃO EVIDENCIADA. TIPICIDADE DAS CONDUTAS DESCRITAS NA PEÇA ACUSATÓRIA. DESCRIÇÃO DOS FATOS CRIMINOSOS ATRIBUÍDOS AO RÉU. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPROPRIEDADE NA VIA DO WRIT. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO CRIMINOSO. PAPEL DE LIDERANÇA EXERCIDO PELO PACIENTE. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+2. A alegada incompetência da 17ª Vara Criminal da Comarca de Maceió/AL não foi objeto de cognição pela Corte de origem, o que obsta a análise de tal tema por este Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância e em violação da competência constitucionalmente definida para esta Corte.
+Precedentes.
+ ..
+14. Writ não conhecido.(HC 406.213/AL, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 17/10/2017).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO ILÍCITO DE ENTORPECENTES. RECEPTAÇÃO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. CIRCUNSTÂNCIAS DO DELITO. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. TENTATIVA DE FUGA. CUSTÓDIA PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. DESPROPORCIONALIDADE ENTRE A SEGREGAÇÃO PREVENTIVA E PENA PROVÁVEL. INVIABILIDADE DE EXAME NA VIA ELEITA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A alegação de excesso de prazo na formação da culpa não foi objeto de exame pela Corte de origem, no acórdão impugnado, o que obsta a sua análise por este Tribunal Superior, sob pena de se incidir em indevida supressão de instância. Precedentes.
+ ..
+Habeas corpus não conhecido."(HC 405.659/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 27/09/2017).
+Ante o exposto, não conheço do writ.
+P. e I.
