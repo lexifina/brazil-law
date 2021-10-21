@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão que negouprovimento ao recurso de apelação da defesa.
+Alega a defesa constrangimento ilegal na consideração de condenação não transitadaem julgado para afastar a redutora do tráfico privilegiado e naausência de fundamentação idônea para a aplicação do regime prisional mais gravoso. Requer a concessão da ordem para aplicar a causa de diminuição de pena em 2/3, fixar o regime aberto e substituir a pena privativa de liberdade por restritiva de direitos.
+O pedido liminar foi indeferido. Prestadas informações, manifestou-se o Ministério Público pela concessão parcial da ordem, apenas para fixar o regime semiaberto.
+O paciente foi condenado como no art. 33, caput, da Lei 11.343/06, à penade 5 anos de reclusão, em regime inicial fechado e500 dias-multa. Interposto recurso de apelação, foi improvido.
+A minorante do tráfico privilegiado foi indeferida, ao fundamento de que "O cárcere atual por novo delito análogo afasta o beneficio do art. 33, §4º, da Lei nº 11.343/06" (fl. 542).
+A Sexta Turma desta Corte, alinhando-se ao Supremo Tribunal Federal, passou a adotar a orientação de que "inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade" (AgRg no HC 641.362/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/06/2021, DJe 30/06/2021).
+Assim, deve ser concedida a ordem para estabelecer a minorante do tráfico privilegiado na fração máxima. Fixada a pena-base no mínimo legal, ausentes agravantes e atenuantes, incide a causa de diminuição de pena do §4º do art. 33 da Lei 11.343/06 em 2/3, resultando a pena de 1 ano e 8 meses de reclusão e 166 dias-multa. Cabível a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritivas de direitos, a ser determinada pelo Juízo das Execuções.
+Ante o exposto, concedo a ordem para fixar a pena de 1ano e 8 meses de reclusão,em regime aberto, e 166dias-multa, substituindo-se a pena privativa de liberdade por restritiva de direitos.
+Publique-se.
+Intimem-se.
