@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 744):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS EM MANDADO DE SEGURANÇA. CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA.SÚMULAS 283 E 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+Oagravantesustenta, em suma, a inaplicabilidade das Súmulas 283 e 284 do STF, visto que "é inconteste que o Agravante atacou a alegada impossibilidade de fixação de honorários advocatícios baseada no art. 25 da Lei n. 12.016/09" (fl. 782).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS EM MANDADO DE SEGURANÇA. CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA.SÚMULAS 283 E 284 DO STF.
+1.A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem caracteriza deficiência na argumentação recursal e, por conseguinte, impede a admissão do apelo especial. Incide ao caso as Súmulas 283 e 284 do STF.
+2.Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Em suas razões, oagravantesustentanão ser cabível a aplicação do enunciado das Súmulas 283 e 284 do STF, visto que teria impugnado adequadamente todos os fundamentos adotados no acórdão a quo.
+Com efeito, vale reiterar que o Tribunal a quo, soberano na análise do acervo fático-probatório dos autos, ao dirimir a controvérsia, concluiu que(fls. 544-546, grifos acrescidos):
+Em que pese inicialmente tenhamos nos manifestados pela condenação da parte exeqüente/embargada, em honorários advocaticios, após discussão plenária, melhor analisando o caso, somos em encampar o posicionamento do Desembargador Cezário Siqueira Neto, pelo não cabimento da fixação de honorários advocaticios, nos seguintes termos:
+"É que, não obstante o reconhecimento da prescrição, há que se levar em conta o principio especialidade das leis.
+O principio da especialidade revela que a norma especial afasta a incidência da norma geral. Lex specialis derogat legi generali. A norma se diz especial quando contiver os elementos de outra (geral) e acrescentar pormenores.
+No caso em tela, o cumprimento de sentença que foi objeto de impugnação por parte do Estado e no qual foi reconhecida, por maioria, a ocorrência do fenômeno da prescrição, se deu em sede de mandado de segurança.
+Ação constitucional do mandado de segurança é regida por lei própria, à qual se aplica, subsidiariamente, o código de processo civil.
+Em que pese o código de processo civil admitir a fixação de honorários advocaticios quando houver acolhimento da impugnação em cumprimento de sentença, temos que observar que no caso da Ação Mandamental, há uma previsão especifica quanto a honorários advocaticios.
+A lei de mandado de segurança (lei nº 12.016/09), em seu art. 25, dispõe:
+Não cabem, no processo de mandado de segurança, a interposição de embargos infringentes e a condenação ao pagamento dos honorários advocatícios, sem prejuízo da aplicação de sanções no caso de litigância de má-fé.
+Sendo o cumprimento de sentença um desdobramento do processo principal, aplica-se o contido no artigo retromencionado ao caso em apreço.
+Nunca é demais trazer a doutrina sobre a matéria. Vejamos a lição do prof.
+Cássio Scarpinella Bueno, em sua obra CURSO SISTEMATIZADO DE DIREITO PROCESSUAL CIVIL:
+A circunstância de a disciplina dos procedimentos especiais seguir imediatamente à do cumprimento de sentença, ocupando todo o Título III do mesmo Livro I da Parte Especial, arts. 539 a 770, só confirma essa regra, característica marcante daqueles procedimentos, ainda quando analisados do ponto de vista histórico, é a conjugação das atividades de conhecimento e de satisfação em um processo. (..)
+O que é processo (só processo, um só, sem qualquer qualicativo) para que o Estado-juiz preste a tutela juridicional que lhe é requerida. (página 237, 8 a edição.) A jurisprudência de outros tribunais, também é nesse sentido.
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. Argumentos renovados em sede de agravo interno que não são capazes de modificar a decisão. Não cabem, no processo de mandado de segurança, a interposição de embargos infringentes e a condenação ao pagamento dos honorários advocatícios, sem prejuízo daaplicação de sanções no caso de litigância de má-fé. Inteligência do art. 25 da Lei nº 12.016/09. Em sendo o cumprimento de sentença um apêndice do mandado de segurança, não há falar em fixação da verba. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME. (Agravo Nº 70077435626, Segunda Câmara Cível, Tribunal de Justiça do RS, Relator: Laura Louzada Jaccottet, Julgado em 25/07/2018). (TJ-RS - AGV: 70077435626 RS, Relator: Laura Louzada Jaccottet, Data de Julgamento: 25/07/2018, Segunda Câmara Cível, Data de Publicação: Diário da Justiça do dia 05/09/2018)
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA EM MANDADO DE SEGURANÇA. DESPROVIMENTO.. Descabida a fixação de honorários de sucumbência em mandado de segurança, mesmo que na fase de cumprimento de sentença, em razão de previsão expressa da lei específica.Com efeito, dispõe o art. 25 da Lei n. 12.016/2009 que: Art. 25. Não cabem, no processo de mandado de segurança, a interposição de embargos infringentes e a condenação ao pagamento dos honorários advocatícios, sem prejuízo da aplicação de sanções no caso de litigância de má-fé . O novo CPC, sendo lei geral, não tem o condão de revogar o disposto no art. 25 da lei do mandado de segurança, que é lei especial.(TRF-4 - AG: 50237737320194040000 5023773-73.2019.4.04.0000, Relator:Relatora, Data de Julgamento: 27/08/2019, QUINTA TURMA).
+Assim, em que pese o acolhimento da impugnação, este se deu em cumprimento de sentença de uma ação mandamental, regida por lei própria e na qual, expressamente, está previsto que não haverá condenação em honorários advocatícios."
+Ocorre que, de fato, o apelo nobre não apresentou argumentação específica contra aconclusãodo acórdão recorrido, acima transcritae grifada.
+Nesse passo,a referida fundamentação, por si só, mantém o resultado do julgamento e a ausência de impugnação a ela caracteriza deficiência na argumentação recursal, implicando na inadmissão do apelo especial.
+Nesse sentido(grifos nossos):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO. INCIDÊNCIA DA SÚMULA 283 E 284/STF, POR ANALOGIA. CONCURSO PÚBLICO PARA INGRESSO NA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. FATOS DESABONADORES APURADOS NA FASE DE INVESTIGAÇÃO SOCIAL DO CANDIDATO. NÃO RECOMENDAÇÃO PARA O CARGO. LEGALIDADE DE SUA EXCLUSÃO DO CERTAME. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA.  ..
+2. A fundamentação utilizada pela Corte de piso para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo. ..
+5. Recurso Especial não conhecido. (REsp 1.789.623/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 29/5/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ART. 535 DO CPC/73. DISPOSITIVOS IMPLICITAMENTE PREQUESTIONADOS. AUSÊNCIA DE VIOLAÇÃO. SÚMULAS N. 283 E 284 DO STF. RAZÕES DISSOCIADAS. CAUSA DE PEDIR. AUSÊNCIA DE IDENTIDADE. REEXAME DO ACERVO FÁTICO. SÚMULA N. 7/STJ. TUTELA ANTECIPADA. REQUISITOS. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. MEDIDA LIMINAR. RECURSO ESPECIAL. IMPOSSIBILIDADE. APLICAÇÃO POR ANALOGIA DA SÚMULA N. 735/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. ..
+III - A parte recorrente deixou de impugnar fundamento suficiente do acórdão recorrido relativo à possibilidade do exercício do juízo de retratação. Desse modo, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal. ..
+IX - Agravo Interno improvido. (AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019)
+Desse modo, mantém-se o não conhecimento do apelo com lastro na aplicação analógica das Súmulas 283 e 284 do STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
