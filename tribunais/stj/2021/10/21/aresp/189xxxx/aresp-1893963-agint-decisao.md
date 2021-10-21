@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interno interpostocontra decisão de fls. 431-433, e-STJ, proferida pela Presidênciadesta Corte, que não conheceu do agravo em recurso especial, por entender que a parterecorrente não impugnou todos os fundamentos da decisão que negou seguimento ao seu recurso especial, notadamente, a "ausência de afronta a dispositivo legal".
+Em suas razões a agravante demonstra que todos os óbices aplicados foram devidamente impugnados em seu recurso, o que de fato se verifica no caso concreto, razão por que reconsidero a decisão agravada, e passo à análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 320, e-STJ):
+APELAÇÕES CÍVEIS Interposições contra sentença que julgou improcedente a ação cominatória e procedente a reconvenção. Descumprimento do contrato de bonificação pela autora. Contrato intrinsicamente ligado ao contrato de operação, que influencia na manifestação de vontade. Honorários advocatícios sobre a reconvenção fixados. Honorários advocatícios majorados, nos termos do artigo 85, § 11, do mesmo ordenamento processual civil. Sentença mantida, com observação.Apelação dos réus provida e apelação da autora não provida.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial arecorrente aponta violação aos artigos 489, parágrafo 1º, inciso IV, e 1.022, inciso II;ambos do Código de Processo Civil/2015 e artigos 184 e 476, ambos do Código Civil, sustentando que tal violação "decorre do entendimento fixado no v. acórdão recorrido que, embora reconhecida a ausência de pagamento de bonificação, deixa de considerar a independência e autonomia dos contratos e determina a rescisão do CONTRATO DE OPERAÇÃO" (fl. 348, e-STJ).
+Contrarrazões apresentadas.
+O recurso especial não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar.
+No que se refere à preliminar suscitada, não observo omissão, contradição ou obscuridade no acórdão, senão julgamento contrário aos interesses darecorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência. Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento.
+Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido. Nesse sentido: EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/8/2016.
+Ao solucionar a controvérsia, o Tribunal de origemassim dispôs:
+Tem-se que as partes firmaram Contrato de Operação de Posto Ipiranga (fls. 31/38), Contrato de Bonificação Antecipada (fls. 39/41) e Contrato de Bonificação Postecipada (fls.42/43), todos datados de 31 de julho de 2017.
+Ao contrário do que alega a autora em suas razões recursais, os contratos estão intrinsicamente coligados, constando no contrato de bonificação que o valor que, em tese, a parte ré receberia quando da assinatura da avença, deveria ser utilizado para a operação do Posto Ipiranga, ou seja, o objeto principal da contratação entre as partes.
+Como bem dito pelo Magistrado a quo na sentença combatida, diante dos altos valores da avença, a bonificação prévia era elemento determinante na formação da vontade para que restasse entabulada a contratação, bem como devidamente executada.
+A autora, quando da elaboração dos termos contratuais, fez constar o recebimento da referida bonificação no ato da assinatura do pacto, o que, de fato, não ocorreu, havendo descumprimento de obrigação a que se sujeitou, já no início da relação entre as partes.
+Portanto, descumprido o contrato pela autora, procede o pedido da reconvenção e improcede o pleito principal, nada havendo que ser alterado no decisum a este respeito.
+Como se vê, o Tribunal de origem decidiu a controvérsia à luz dos fatos e das provas presentes nos autos, de sorte que a modificação do acórdão recorrido é providência que esbarra no óbice das Súmula 7/STJ, visto que demanda o reexame do conjunto fático-probatório levado em consideração para o deslinde da contenda. Assim, "A pretensão de simples reexame de provas não enseja recurso especial".
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
