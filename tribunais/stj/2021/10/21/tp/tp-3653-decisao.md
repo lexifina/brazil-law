@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de pedido de tutela provisória visando a atribuição de efeito suspensivo a recurso especial, interposto contra acórdão assim ementado (e-STJ fl. 157):
+Agravo de instrumento decisão que deferiu liminar de reintegração de posse de imóvel empresa autora que demonstrou ser a sucessora da pessoa jurídica com quem o réu celebrou contrato de comodato - agravo improvido.
+Sustenta a parte que estão presentes os requisitos para a concessão da tutela provisória pretendida.
+Em relação ao fumus boni iuris, defende que, no caso, não era cabível a ação possessória, a qualdeve ser extinta sem resolução do mérito, pois a outra parte nunca teve a posse do imóvel. Assevera que o contrato de comodato firmado entre as partes é nulo visto que, à época da assinatura, a requerida ainda não era a proprietária do bem.
+Argumenta que, ausente a demonstração da posse pela parte autora, não era possível a concessão da liminar de reintegração de posse.
+Afirma que o perigo na demora reside no fato de o recorrente ser pessoa idosa e o cumprimento do mandado de reintegração poderá colocá-lo em situação de extrema vulnerabilidade, mormente considerando a situação crítica decorrente do vírus da COVID-19.
+Ao final, requer o deferimento da liminar para concessão de efeito suspensivo ativo ao recurso especial, suspendendo-se a reintegração de posse concedida na origem.
+É o relatório.
+Decido.
+Na origem, o requerente interpôs agravo de instrumento contra a decisão de primeiro grau que deferiu liminar de reintegração de posse.
+O Tribunal de origem negou provimento ao recurso, mediante os seguintes fundamentos (e-STJ fls. 158/159):
+Melhor analisados os elementos de convicção dos autos, verifica-se que a autora POSTULESTE EMPREENDIMENTOS E PARTICIPAÇÕES LTDA é a atual denominação da GEO CONSTRUTORA LTDA (basta verificar que ambas tem o mesmo CNPJ 13.218.513/0001-15), que adquiriu a propriedade de JORGE SALIM em 16.04.2010 (fls. 79/92), com aditivo em 04.02.2011 (fls. 101), assinando o agravante ANTONIO AUGUSTO PIRES como testemunha em ambos os contratos, pelo que não pode alegar desconhecer a origem da posse e propriedade da agravada.
+5. O agravante era locatário de JORGE SALIM, mas celebrou distrato (fls. 102/103), ocasião em que passou à condição de comodatário da GOE INCORP III em 13.06.2012 (fls. 20/21).
+6. E, desatendida a notificação de desocupação, nada impedia a concessão da liminar de reintegração de posse.
+A parte interpôs recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, apontando violação dos arts. 558, parágrafo único, 561 e 562 do CPC/2015. Alegou que (e-STJ fls. 22/23):
+Insta salientar, que o contrato de comodato foi firmado em 13/06/2012, sendo que a Recorrida adquiriu o imóvel somente no dia 22/06/2012, conforme consta no R.2/126.471, ou seja, no momento da assinatura do contrato a Recorrida ainda não era proprietária do imóvel e emprestou um bem que não lhe pertencia. Em razão da ausência de legitimidade da Recorrida, o contrato de comodato firmado entre as partes deverá ser declarado nulo nos termos do art. 166, I, do CPC, eis que foi assinado por agente absolutamente incapaz.
+32. Importante notar que não cabe ação de reintegração de posse a quem nunca teve a posse. Cabe ação petitória, de imissão na posse, fundada no direito de propriedade, pelo rito ordinário.
+(..)
+Neste linear, considerando que o Agravante exerce a posse sobre o imóvel de forma mansa, pacífica, incontestada e com animus domini, há mais de oito anos, a sua posse é caracterizada como velha, enquadrando-se, portanto, no § único do art. 558 do CPC, deveria a ação ser regida pelo procedimento comum do Código de Processo Civil.
+38. UMA VEZ REGIDA PELO PROCEDIMENTO COMUM, A AÇÃO DE ORIGEM NÃO PODE SE VALER DA CONCESSÃO DE LIMINAR DE REINTEGRAÇÃO PREVISTA NO ART. 562, DO CPC, RAZÃO PELA QUAL O PRESENTE ESPECIAL MERECE SER PROVIDO, POR AFRONTA A TAL DISPOSITIVO LEGAL.
+39. Assim, por tais razões, o v. acórdão recorrido viola frontalmente o art. 98 do CPC, motivo pelo qual este Especial deve ser provido pela alínea "a" do permissivo constitucional, reformando-se o entendimento do E. Tribunal a quo.
+Afirmou, também, a existência de dissídio jurisprudencial na interpretação do art. 561 do CPC/2015, pois concedida liminar reintegratória sem observância do requisito da posse pela parte autora.
+O especial foi inadmitido na origem e foi considerado prejudicado o pedido de efeito suspensivo (e-STJ fls. 33/36). Referida decisão foi disponibilizada em 29/9/2021, não existindo nos autos notícia da interposição do agravo em recurso especial.
+Numa análise preliminar, o especial não merece seguimento.
+A Corte estadual concluiu que a requerida adquiriu o imóvel antes da celebração do contrato de comodato com o requerente e que este tinha conhecimento da venda, tanto que assinou como testemunha no contrato. Dessa forma, tendo sido notificado para desocupar o imóvel e deixando de fazê-lo, era caso de concessão da liminar possessória. O exame dos argumentos recursais referentesà suposta nulidade do contrato de comodato,àausência de posse do requerido eàposse do requerente, o exame dos argumentos recursaisdemandaria análise de matéria fática, inviável em recurso especial ante o óbice da Súmula n. 7 do STJ. Referido óbice também impede a apreciaçãodo alegado dissídio jurisprudencial.
+Acrescente-se que "a jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF" (AgInt no REsp 1343171/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 26/08/2020).
+Em tais circunstâncias, não se vislumbra, ao menos neste momento de exame superficial, o direito alegado.
+Dessa forma, ausente o requisito da probabilidade do direito, não é possível a concessão da liminar, de modo que INDEFIRO o pedido.
+Publique-se. Intimem-se.
