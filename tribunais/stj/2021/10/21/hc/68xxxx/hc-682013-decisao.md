@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ROGERIO FRANCISCO MIRANDA contra acórdão prolatado pelo Tribunal de Justiça do Estado do Espírito Santo.
+Depreende-se dos autos que o paciente foi condenado como incurso nas sanções do art. 157, caput do Código Penal, às penas de 05 (cinco) anos de reclusão, em regime fechado, e 10 (dez) dias-multa.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimentoao apelo, nos termos do acórdão juntado às fls. 23-29, com a seguinte ementa:
+"APELAÇÃO CRIMINAL - ROUBO - REVISÃO DA PENA-BASE - REGIME INICIAL DE CUMPRIMENTO DE PENA - RECURSO NÃO PROVID0.1. Possuindo possui três condenaçõestransitadas em julgado, duas delas foram utilizadas para exasperar a pena-base e a outra como agravante, autorizando o recrudescimento em 01 (um) ano acima do mínimo legal, quantum que se encontra adequado aos parâmetros utilizados pelo Superior Tribunal de Justiça. 2. Mantido o regime fechado, em razão da reincidência. 3. Recurso desprovido."
+No presente writ, o impetrante aduz a ocorrência de flagrante ilegalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base.
+Requer, ao final, a concessão da ordem, para reduzir a reprimenda (fls. 3-12).
+O pedido liminar foi indeferido (fls. 37-38).
+As informações foram prestadas às fls. 42-45.
+O Ministério Público Federal, às fls. 52-57, manifestou-se pelo não conhecimento do writ, nos termos da seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. PENAL. CRIME DE ROUBO (ART. 157, CAPUT, DO CÓDIGO PENAL). DOSIMETRIA DA PENA. 1ª FASE. ANTECEDENTES. CONDENAÇÕES PRETÉRITAS ALCANÇADAS PELO PERÍODO DEPURADOR DE 05 ANOS. POSSIBILIDADE. FRAÇÃO DE AUMENTO DA BASILAR. 1/4. EXASPERAÇÃO POUCO ACIMA DO USUAL (DE 1/6 SOBRE A PENA MÍNIMA PARA CADA VETOR OU 1/8 SOBRE A DIFERENÇA ENTRE A MÍNIMA E A MÁXIMA). JUSTIFICATIVA IDÔNEA. DUAS CONDENAÇÕES, REGIME INICIAL. FUNDAMENTAÇÃO ADEQUADA. REINCIDÊNCIA E MAUS ANTECEDENTES. RECONHECIMENTO DA TENTATIVA. SUPRESSÃO DE INSTÂNCIA. PARECER PELO NÃO CONHECIMENTODO HABEAS CORPUS."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante aduz que houve violação aos princípios da razoabilidade e da proporcionalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base.
+Inicialmente, cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Acerca do punctum saliens, o Tribunal de origem, quando do julgamento do recurso de apelação, assim se pronunciou, in verbis:
+"Na primeira fase, o Magistrado considerou desfavorável os antecedentes criminais, fixando a pena-base em 05 (cinco) anos e 10 (dez) dias-multa.
+Inobstante os argumentos defensivos, o apelante possui três condenações transitadas em julgado, sendo duas delas utilizadas nesta fase para exasperar a pena-base e a outra como agravante, autorizando o recrudescimento em 01 (um) ano acima do mínimo legal, quantum que se encontra adequado aos parâmetros utilizados pelo Superior Tribunal de Justiça."
+Na hipótese, não há que se falar em ilegalidade na fundamentação da exasperação da pena-base do crime de roubo, porquanto demonstrado os antecedentes criminais desfavoráveisao paciente.
+As condenações pretéritas podem ser utilizadas tanto para valorar os maus antecedentes na primeira fase, quanto para agravar a pena na segunda fase, a título de reincidência, sem acarretar em bis in idem, desde que as condenações sejam de fatos diversos, conforme ocorreu no presente caso, em que o pacientepossui três condenações transitadas em julgado, sendo duas delas utilizadas para exasperar a pena-base e a outra como agravante.
+Nesse sentido:
+"PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. ROUBO MAJORADO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA. DOSIMETRIA DA PENA. CONDENAÇÃO PELA PRÁTICA DE TRÊS CRIMES DE ROUBO, EM CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. CRITÉRIO MATEMÁTICO. NÚMERO DE INFRAÇÕES. POSSIBILIDADE. MAUS ANTECEDENTES E REINCIDÊNCIA. BIS IN IDEM. NÃO OCORRÊNCIA. ATENUANTE. CONFISSÃO PARCIAL. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. A jurisprudência desta Eg. Corte Superior já se consolidou no sentido de que o delito de roubo consuma-se com a simples posse da coisa alheia móvel subtraída, ainda que por breves instantes, sendo desnecessário que o bem saia da esfera de vigilância da vítima.
+Prescindível, portanto, a posse tranquila do bem, obstada, muitas vezes, pela imediata perseguição policial ou por terceiro.
+3. O acolhimento da tese defensiva que visa o afastamento da continuidade delitiva para fins de reconhecimento de crime único exigiria o reexame da prova referente ao preenchimento dos pressupostos constantes do art. 71 do Código Penal, o que demandaria o revolvimento do material fático-probatório, providência, como consabido, vedada em sede de habeas corpus.
+4. Nos termos da jurisprudência desta Corte, é matemático o critério de majoração pela continuidade delitiva, proporcionalmente ao número de infrações cometidas. Precedentes.
+5. A existência de condenações anteriores, transitadas em julgado, pode justificar validamente a elevação da pena-base, no tocante aos maus antecedentes, conduta social e personalidade, na primeira fase, e na segunda fase, em razão da reincidência, desde que diferentes as condenações consideradas.
+6. A jurisprudência desta Corte se firmou no sentido de que a confissão, ainda que parcial, deve ser considerada para atenuar a pena, quando utilizada para dar suporte à condenação.
+7. Habeas corpus não conhecido, mas ordem concedida, de ofício, para reduzir a pena do paciente Marcelo a 8 anos de reclusão e 17 dias-multa, a ser cumprida inicialmente em regime fechado." (HC 167.757/RJ, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 23/11/2015).
+Ante o exposto, não conheço do writ.
+P. e I.
