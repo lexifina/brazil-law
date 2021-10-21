@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fundação Nacional de Saúde - FUNASA, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Regiãoassim ementado (fl. 1.536):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO.SERVIDOR PÚBLICO. PROCEDIMENTO. PRECLUSÃO. EXCESSO DE EXECUÇÃO. ART. 739-A, § 5º, DO CPC. INÉPCIA DA INICIAL.INOCORRÊNCIA. DILAÇÃO PROBATÓRIA. DESNECESSIDADE.
+PRESCRIÇÃO. PRAZO. HONORÁRIOS ADVOCATÍCIOS.
+1. Não se insurgindo a parte interessada no momento oportuno, opera-se a preclusão da discussão acerca do procedimento adotado pelo magistrado singular.
+2. Nos termos do art. 739-A, § 5º, do CPC, "quando o excesso de execução for fundamento dos embargos, o embargante deverá declarar na petição inicial o valor que entende correto, apresentando memória do cálculo, sob pena de rejeição liminar dos embargos ou de não conhecimento desse fundamento".
+3. Por não haver exigência legal, mostra-se desnecessário que conste, no demonstrativo de débito que instrui a inicial executiva, a identificação pessoal do responsável pela sua elaboração.
+4. Dependendo a execução de meros cálculos aritméticos, mostra-se desnecessária a realização de perícia contábil.
+5. O excesso de execução é matéria de defesa do executado, nos termos do art. 741, V, do CPC, não podendo ser conhecido de ofício pelo Juízo.
+6. O prazo de prescrição da pretensão executória contra a Fazenda Pública é de cinco anos, a contar do trânsito em julgado da sentença condenatória, em conformidade com o disposto no art. 1º do Decreto 20.910/32 e na Súmula 150 do STF.
+7. Em sede de embargos à execução, não resultando em quantia ínfima ou exorbitante, os honorários advocatícios devem ser fixados em 10% do valor da causa.Precedentes.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.567/1.572).
+A parte recorrente aponta, preliminarmente, ofensa ao artigo 535, II,do CPC, sustentando que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, foi omisso quanto ao exame de questões relevantes para o deslinde da controvérsia.
+Quanto ao mérito, indica violação do art. 1-Fº da Lei 9.494/97, sustentando que os juros de mora e a correção monetária devem observar o disposto no aludido diploma legal, com a redação dada pela Lei 11.960/09.
+Aponta ainda, ofensa aos artigos 467, 468, 471, 474 e 741, V, todos do CPC/73, alegando que "na fase de execução não se pode alterar a coisa julgada com a inclusão de parcela que sequer foi objeto de discussão e julgamento na fase de conhecimento".(fl. 1.602)
+Por fim, aduz ter ocorrido infringência aos artigos 884 e 885 do Código Civil, pois os recorridos não abatarem do cálculo as parcelas que receberam administrativamente.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -- devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Dito isso, verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mérito, colhe-se da fundamentação do aresto hostilizado o seguinte excerto (fls. 1.531) :
+Da simples leitura do acima transcrito, observa-se que foi concedido um prazo residual e improrrogável de seis dias para a apresentação do parecer e da planilha anteriormente requisitados.
+Em caso de discordância, cabia à FUNASA, por meio do recurso adequado, insurgir-se contra os termos daquela decisão. Não o fazendo, deu ensejo à ocorrência do fenômeno da preclusão, razão pela qual, não tendo sido apresentados os referidos documentos no prazo assinalado, correto o magistrado singular ao decidir pelo não conhecimento da alegação de excesso de execução.
+Ademais, assim dispõe o art. 739-A, § 5º, do CPC, inserido no capítulo das "disposições gerais" relativas aos "embargos do devedor", gênero que inclui os "embargos à execução contra a Fazenda Pública":
+§ 5º Quando o excesso de execução for fundamento dos embargos, o embargante deverá declarar na petição inicial o valor que entende correto, apresentando memória do cálculo, sob pena de rejeição liminar dos embargos ou de não conhecimento desse fundamento.
+(Incluído pela Lei nº 11.382, de 2006).
+No caso dos autos, a embargante, em que pese ter alegado o excesso de execução, não apontou na inicial o valor que entendia devido, deixando, ainda, de apresentar, no momento do ajuizamento da ação incidental, a memória do cálculo que embasou aquela alegação.
+Dessa forma, em atenção à regra inserta no dispositivo legal acima transcrito, os embargos, em relação à alegação de excesso de execução, de fato não podem ser conhecidos, sendo indevida a concessão de prazo para a emenda da inicial.
+Aludido fundamento, contudo, não foi impugnado nas razões do apelo especial, esbarrando seu conhecimento, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+Ademais a inversão da conclusão adotada pela Corte de origem quanto a não ter sido demonstrado o alegado excesso de execução, tal como postulado nas razões do apelo especila, exigiria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor da Súmula 7/STJ.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
