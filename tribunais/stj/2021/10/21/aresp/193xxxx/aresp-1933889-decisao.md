@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto por JOÃO FORTES ENGENHARIA S.A. - EM RECUPERAÇÃO JUDICIAL E OUTROS contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiroassim ementado:
+"APELAÇÃO CÍVEL. Relação de Consumo. Por intermédio de corretor de imóveis que atuava em conjunto com construtora e incorporadora, a autora firmou pré -contrato para aquisição futura de unidade imobiliária. Os réus são parceiros comerciais, tanto que apresentaram defesa em conjunto e o corretor de imóveis fez toda negociação prévia com as informações detalhadas repassadas pela construtora e pela incorporadora. A negociação preliminar feita com a autora tinha por objetivo angariar clientes para aquisição futura das unidades imobiliárias. Ao final, a compra e venda não foi ultimada com a autora nem com outras pessoas que previamente contrataram com corretores de imóveis, conforme registro de ocorrência juntado aos autos. Reputa - se lítica a conduta dos réus em buscar clientes antes mesmo da conclusão do empreendimento imobiliário. Nesta fase pré -contratual devem agir com boa -fé, lealdade, transparência e honestidade. Embora tenham formalizado ajuste prévio com autora, não deram nenhum retorno sobre a finalização do negócio nem mesmo justificaram a impossibilidade de assim procederem. O corretor de imóveis tem o dever legal de "prestar ao cliente, espontaneamente, todas as informações sobre o andamento do negócio"(art.723, Código Civil). A autora pode considerar desfeita a negociação preliminar e exigir o pagamento de perdas e danos (art. 465, Código Civil: "Se o estipulante não der execução ao contrato preliminar, poderá a outra parte considerá -lo desfeito, e pedir perdas e danos"). Dano moral caracterizado. PROVIMENTO DO RECURSO" (e-STJ fl. 171).
+Os embargos declaratórios opostos não foram providos(e-STJ fls. 212/216).
+No especial (e-STJ fls. 218/228), osagravantesalegam violação dos artigos 93, IX, da Constituição Federal; 489, § 1º, III e IV, e 1.022, parágrafo único, I e II, do Código de Processo Civil de 2015 e 186, 927 e 944, caput e parágrafo único,do Código Civil.
+Aduzem que o aresto recorrido incorreu em negativa de prestação jurisdicional por ausência de fundamentação no julgado recorrido.
+Sustentam que o simples inadimplemento contratual não enseja indenização por danos morais.
+Afirmam que a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que
+"(..)o dano moral, na hipótese de atraso na entrega de unidade imobiliária, NÃO SE PRESUME, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade da promitente-compradora" (e-STJ fl. 225).
+Mencionam que o aresto recorrido não mencionou qualquer circunstância excepcional que demonstrasse a efetiva violação à personalidade da parte recorrida.
+Pugnam pela redução da verba indenizatória, em atenção aos princípios da proporcionalidade e razoabilidade.
+Ao final, requerem o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 241/249), orecurso foi inadmitido na origem, sobrevindo daí o presente agravo (e-STJ fls. 241/249).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015(Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início,no tocante ao artigo 93, IX,da Constituição Federal, é cediço que não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em recurso especial, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+Quanto à alegada violação dos artigos 489 e 1.022 do CPC/2015, no recurso especial há somente alegação genérica dos artigos, sem especificação das teses que supostamente foram violadas ou não fundamentadas pelo acórdão recorrido.
+Ante a deficiente fundamentação do recurso nesse ponto, incide a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Registra-se, ademais, que mesmo os embargos declaratórios opostos com finalidade prequestionadora devem apontar algum dos vícios elencados no artigo 1.022 do CPC/2015.
+A propósito:
+"PROCESSUAL CIVIL E CIVIL. AGRAVO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE EXPURGOS INFLACIONÁRIOS, EM FASE DE CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+(..)
+4. Agravo não provido" (AgInt no REsp 1.504.611/PE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/02/2017, DJe 09/02/2017).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO NO ACÓRDÃO RECORRIDO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RESCISÃO DO CONTRATO DE SEGURO-SAÚDE. VIGÊNCIA POR 60 DIAS, A CONTAR DA DATA EM QUE PROTOCOLADO O PEDIDO JUNTO À SEGURADORA. PLEITO JÁ ACOLHIDO NAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE INTERESSE RECURSAL. AFERIÇÃO DO TERMO INICIAL E FINAL DESSE PRAZO. IMPOSSIBILIDADE.
+INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Quanto à alegada violação ao art. 1.022 do CPC/2015, ratifica-se a aplicação do óbice da Súmula n. 284 do STF, tendo em vista que a recorrente limitou sua insurgência, no particular, a apontar que o acórdão recorrido não apreciou textos de lei. No caso, a aludida contrariedade foi deduzida genericamente, o que caracteriza deficiência na fundamentação, não permitindo vislumbrar a aduzida violação, pois ela não logrou demonstrar efetivamente a omissão do acórdão recorrido quanto ao ponto.
+2. A parte ora agravante carece de interesse recursal, uma vez que a sua pretensão já foi atendida pelo TJSP, não havendo sucumbência a amparar o recurso especial em apreço. Ainda que se considere subsistir a divergência a respeito do termo a quo ou ad quem do prazo de 60 (sessenta) dias, não haveria como alterar a cognição constante do aresto impugnado, uma vez que tal providência demandaria o revolvimento do conjunto fático-probatório do feito, o que não se admite nesta instância extraordinária, em decorrência do óbice da Súmula 7/STJ.
+3. Agravo interno improvido" (AgInt no AREsp 1.453.720/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2019, DJe 21/11/2019).
+No mais, trata-se, na origem, de ação de obrigação de fazer c/c indenizatória ajuizada por Leila Presídio Oliveira Vellozo em desfavor de Macaé Realty Empreendimentos Imobiliários Ltda., João Fortes Engenharia S.A. - em recuperação judicial e Jocielton Ferreira Graça objetivando a condenação das rés para incluir seu nome no Programa Minha Casa Minha Vida, a restituição em dobro do valor pago a título de comissão de corretagem e danos morais.
+O magistrado de primeiro grau de jurisdição, acolhendoa prejudicial de prescrição para a cobrança da comissão de corretagem, julgou os pedidos improcedentes por entenderque nem o dano moral e nem a relação jurídica estabelecida entre as primeiras rés e a autora restaram comprovados.
+O Tribunal local, por sua vez, deu provimento à apelação da autora para condenar os réus, ora recorrentes, ao pagamento de indenização por danos morais no valor de R$ 5.000,00 (cinco mil reais).
+A partir dos fatos delineados no aresto recorrido é possível extrair as seguintes conclusões:
+(i) a autora não realizou qualquer pagamento, tendo em vista que a nota promissória por ela assinada não foi exigida em virtude da não concretização da venda do imóvel, conforme determina a cláusula 4ª do contrato de prestação de serviços de intermediação imobiliária, firmado entre a recorrida e o recorrente Jocielton;
+(ii) prescrição para a cobrança da nota promissória;
+(iii) o corretor Jocielton agia em parceria com a construtora e a incorporadora, de modo que são solidariamente responsáveis por eventuais danos causados e
+(iv) na fase pré-contratual, devem as partes agir com boa-fé, lealdade, transparência e honestidade e, no caso, apesar de os recorrentes terem "(..) formalizado ajuste prévio com autora, não deram nenhum retorno sobre a finalização do negócio nem mesmo justificaram a impossibilidade de assim procederem" (e-STJ fl. 175).
+Com base nisso enos termos dos artigos 465 e 723 do Código Civil, a instância ordinária consignou ser devido o dano moral "(..) em decorrência da frustração da legítima expectativa da autora de adquirir sua casa própria, bem como pelas falhas dos réus na fase pré-contratual" (e-STJ fl. 176).
+No julgamento dos embargos de declaração, o Tribunal local foi expresso em afirmar que a indenização por danos morais não foi fundamentada com base no dano in re ipsa, mas, sim, no artigo 465 do Código Civil, ante a falha na prestação do serviço na fase pré-contratual.
+Conquanto tenham se levantado contra a indenização por danos morais pela frustração na expectativa de adquirir a casa própria, os recorrentes deixaram de impugnar os seguintes fundamentos do acórdão recorrido, suficientes para a manutenção do julgado:
+(i) ocorrência de falha na prestação do serviço, consistente na falta de transparência e do dever de informação e
+(ii) nos termos do artigo 465 do Código Civil, a parte recorrida poderia desconsiderar desfeita a negociação preliminar e exigir o pagamento de perdas e danos.
+Tal circunstância atrai ao caso a aplicação, por analogia, da Súmula nº 283/STF.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. LEGITIMIDADE. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DAS RAZÕES RECURSAIS. SÚMULA 283 STF. APLICAÇÃO. AGRAVO DESPROVIDO" (AgInt no REsp 1.566.495/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 6/3/2018, DJe 9/3/2018).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE SUBSTITUIÇÃO DE CURADORA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo regimental a que se nega provimento" (AgRg no AgRg no AREsp 570.868/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 6/3/2018, DJe 13/3/2018).
+Por fim, em relação à pretensão recursal de redução do valor arbitrado a título de indenização por danos morais, inviável o seu acolhimento na estreita via do recurso especial.
+Com efeito, o Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 5.000,00 (cincomil reais).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dezpor cento) sobre o valor da condenação, os quais devem ser majorados para 14% (quatorze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observada a justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
