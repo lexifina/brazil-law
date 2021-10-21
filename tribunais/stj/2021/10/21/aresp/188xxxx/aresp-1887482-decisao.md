@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ANGELI FACTORING LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMBARGOS À EXECUÇÃO. Factoring. Nota promissória emitida em garantia à solvabilidade da operação. Inadmissibilidade. Risco do faturizador. Nulidade da nota promissória e do aval. Precedentes do C. STJ e desta C. Câmara. Não bastasse, contrato de factoring não assinado por duas testemunhas. Ausência de título executivo. Inteligência do art. 784, inc. III, do NCPC. Sentença mantida. Honorários advocatícios em grau recursal. Majoração. Inteligência do art. 85, § 11, do NCPC. Recurso não provido" (e-STJ fl. 154).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, IV, e 1.022 do Código de Processo Civil de 2015, ao fundamento de que o acórdão combatido incorreu em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, e
+(ii) art. 784, III, do Código de Processo Civil de 2015, pois a falta da assinatura de duas testemunhas no contrato pode ser superada pela ciência inequívoca do devedor, que nunca suscitou qualquer nulidade sobre o tema.
+Sem as contrarrazões (e-STJ fl. 187), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+De fato, o tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, como se vê do seguinte trecho:
+"(..)
+E mesmo que assim não fosse, a se admitir, em tese, que a execução estaria aparelhada com contrato de factoring, verifica-se que o crédito não é líquido, tampouco foi o contrato assinado por duas testemunhas (fl. 47), a infirmar a sua característica de título executivo extrajudicial, nos termos do art. 784, inc. III, do NCPC" (e-STJ fl. 160).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No mais, a jurisprudência do Superior Tribunal de Justiça entende que, em geral, o documento particular sem a assinatura de duas testemunhas não preenche os requisitos necessários à utilização da via executiva para a cobrança do crédito. No entanto, tal regra pode ser mitigada em casos excepcionais, nos quais a certeza quanto à existência do ajuste pode ser obtida por outro meio idôneo ou no próprio contexto dos autos, como se vê do seguinte precedente:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL - PROCESSUAL CIVIL - EMBARGOS DE DIVERGÊNCIA - ACÓRDÃO ATACADO QUE ADOTOU O MESMO POSICIONAMENTO DESTA CORTE A RESPEITO DO TEMA - SÚMULA N. 168/STJ - AGRAVO INTERNO DESPROVIDO. INSURGÊNCIA DA EMBARGANTE.
+1. A orientação do v. acórdão embargado encontra-se em sintonia com a jurisprudência desta Corte no sentido de que, somente em casos excepcionais, mitiga-se a exigência da assinatura das duas testemunhas no contrato celebrado, de modo a lhe ser conferida executividade, quando os termos do pactuado possam ser aferidos por outro meio idôneo. Precedentes: AgRg nos EDcl no REsp 1.183.496/DF, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 13/08/2013, DJe 05/09/2013; AgRg no AREsp 800.028/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/02/2016, DJe 05/02/2016; REsp 1438399/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2015, DJe 05/05/2015.
+2. "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado." (Súmula n. 168/STJ).
+3. Agravo interno desprovido" (AgInt nos EAREsp 1.269.754/SC, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, DJe 17/6/2021 - grifou-se).
+No caso concreto, o acórdão recorrido não reconheceu a existência da excepcionalidade necessária, motivo pelo qual o acolhimento da pretensão recursal exigiria, no ponto, o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa (R$ 41.767,34 - quarenta e um mil, setecentos e sessenta e sete reais e trinta e quatro centavos), os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
