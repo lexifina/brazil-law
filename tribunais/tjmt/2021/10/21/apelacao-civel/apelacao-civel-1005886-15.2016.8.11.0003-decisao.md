@@ -1,0 +1,68 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1005886-15.2016.8.11.0003
+RECORRENTE: ESPÓLIO DE JUVELITA GIONGO ZIMMERMANN
+RECORRIDA: SANTA CASA DE MISERICÓRDIA E MATERNIDADE DE RONDONÓPOLIS
+Vistos.
+Trata-se de recurso especial interposto por ESPÓLIO DE JUVELITA GIONGO ZIMMERMANN com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, assim ementado (id 86662976):
+RAC – AÇÃO MONITÓRIA – CONTRATO DE PRESTAÇÃO DE SERVIÇOS MÉDICOS E HOSPITALARES – EXTRATO DE FATURAMENTO DOS SERVIÇOS PRESTADOS – ÓBITO DA PACIENTE – PRELIMINAR DE SOBRESTAMENTO DA AÇÃO EM VIRTUDE DO MANEJO DA AÇÃO DE INDENIZAÇÃO POR ERRO MÉDICO – IMPOSSIBILIDADE DE PROLAÇÃO DE DECISÕES CONFLITANTES – CONEXÃO NÃO CONFIGURADA – MÉRITO – CIÊNCIA DA PACIENTE ACERCA DA TABELA DE PREÇOS DOS SERVIÇOS – MORA EX RE – DECISÃO MANTIDA – RECURSO DESPROVIDO. 1 – No caso concreto, não há motivos para suspender o andamento desta Monitória porque o Espólio ajuizou outra demanda visando discutir o erro do médico que realizou a cirurgia vascular, e a responsabilidade civil do Hospital que teria sido negligente durante o período do plantão, com a falta de profissional da medicina habilitado para atender a paciente em 07/10/2015. 2 - Ao contratar os serviços médicos de forma particular e com a acomodação mais onerosa do nosocômio (apartamento completo), a paciente também tomou conhecimento dos valores dos serviços que seriam dispensados naquele ambiente hospitalar, em especial porque, logo de imediato, lhe foi dito que seria necessário ser submetida à intercorrência cirúrgica chamada de arteriografia do membro inferior unilateral (CID I743). 3 - Conquanto o Apelante tente afastar a sua inadimplência apegando-se à suposta falta de ciência prévia dos valores das despesas médicas, não há nos autos algo que indique a contratada não prestou os serviços, ou que não cientificou a paciente dos valores da tabela, inexistindo prova de irregularidade ou incoerência do extrato de faturamento que acompanha o contrato, cuja mora é ex re, inaugurada com o óbito da paciente ocorrido em 07/10/2015.
+(TJ-MT 10058861520168110003 MT, Relator: CLARICE CLAUDINO DA SILVA, Data de Julgamento: 09/06/2021, Segunda Câmara de Direito Privado, Data de Publicação: 10/06/2021)
+Opostos embargos de declaração, estes foram rejeitados (id 97956480).
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de apelação cível, interposto por Espólio de Juvenita Giongo Zimmermann, que negou provimento ao recurso e manteve a sentença que julgou procedente o pedido formulado na ação monitória proposta por Santa Casa de Misericórdia e Maternidade de Rondonópolis.
+A parte recorrente alega a violação ao artigo 489, § 1o, IV, do CPC, ao argumento de que há omissão no aresto recorrido quanto à alegação de exceção do contrato não cumprido.
+Suscita a afronta ao artigo 700 do CPC, porquanto “(...) a Ação Monitória não fora instruída com provas suficientes para o convencimento do juízo sobre a existência da dívida, eis que ação era instruída com documentos unilaterais (...)”.
+Aponta a contrariedade ao artigo 397, parágrafo único do Código Civil, sob a alegação de que a ausência da constituição da mora é óbice para a propositura da ação monitória, de forma que o feito deve ser julgado extinto, sem resolução de mérito.
+Argumenta que o contrato firmado entre as partes não indicou valor líquido ou data de vencimento, de forma que os juros de mora devem incidir a partir da citação.
+Recurso tempestivo (id 101203990) e preparado (id 101177491).
+Contrarrazões apresentadas (id 104066465).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+De início, não restou verificada a existência, no Superior Tribunal de Justiça, de tema que se relativo às questões objeto deste recurso, de forma que não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, na espécie, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Feitas essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Violação ao artigo 489, § 1o, IV, do CPC. Inexistência de omissão
+In casu, a parte recorrente alega a ofensa ao artigo 489, § 1o, IV do CPC, ao argumento de que não há fundamentação no aresto recorrido quanto à alegação de exceção do contrato não cumprido.
+No entanto, verifica-se que a Câmara julgadora se manifestou em relação ao aludido ponto de forma suficientemente fundamentada, como se observa do seguinte excerto:
+“(...) conquanto o Apelante tente afastar a sua inadimplência apegando-se à suposta falta de ciência prévia dos valores das despesas médicas, não há nos autos algo que indique que a contratada não prestou os serviços, ou que não cientificou a paciente dos valores da tabela, inexistindo prova de irregularidade ou incoerência do extrato de faturamento que acompanha o contrato. (...)”. (g.n)
+A partir dessas premissas, não há evidência de violação ao artigo 489, § 1o, IV do CPC.
+Do reexame de matéria fática (Súmula 7 do STJ)
+A teor do que dispõe o artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça está adstrita à aplicação e à uniformização da interpretação das leis federais, de forma que não é cabível o exame de matéria fático-probatória, por força da Súmula 7/STJ.
+In casu, a alegada afronta ao artigo 700 do CPC, está amparada na assertiva de que o feito não foi instruído com provas suficientes para o convencimento do juízo sobre a existência da dívida, pois os documentos apresentados são unilaterais.
+Nesse aspecto, consignou-se no aresto recorrido:
+“(...) O contrato de prestação de serviços está assinado por Juvenita Giongo Zimmermann e consta, no Item 1, § 3.o, que na hipótese de não se obter, no ato da internação, a autorização do respectivo plano de saúde/convênio/seguro de saúde, a contratante/paciente será considerada “particular”.
+No caso concreto, pelo que se vê do preâmbulo do instrumento, a paciente não possuía plano de saúde, e optou pela acomodação “apartamento completo”.
+Já no item 2 diz que a Instituição Hospitalar Contratada forneceu à Contratante a tabela de preços unitários dos serviços, o custo das diárias, dos procedimentos básicos, dos exames complementares ao diagnóstico e necessários ao atendimento, além das taxas vigentes na data da internação e a relação de preços dos medicamentos e dos materiais indispensáveis ao tratamento do enfermo.
+Óbvio que, ao contratar os serviços médicos de forma particular e com a acomodação mais onerosa do nosocômio (apartamento completo), a paciente tomou conhecimento dos valores dos serviços que seriam dispensados naquele ambiente hospitalar, em especial porque, de imediato, lhe foi dito que seria necessário ser submetida à intervenção cirúrgica chamada de arteriografia do membro inferior unilateral (CID I743).
+Ainda que se reconheça a situação delicada em que se encontrava a paciente quando contratou os serviços hospitalares (fortes dores nas pernas), a situação de urgência, por si só, não autoriza que se deixe de adimplir os serviços médico-hospitalares devidamente prestados, sob pena de enriquecimento ilícito.
+(...)
+Desse modo, conquanto o Apelante tente afastar a sua inadimplência apegando-se à suposta falta de ciência prévia dos valores das despesas médicas, não há nos autos algo que indique que a contratada não prestou os serviços, ou que não cientificou a paciente dos valores da tabela, inexistindo prova de irregularidade ou incoerência do extrato de faturamento que acompanha o contrato. (...)”. (g.n)
+Logo, a revisão do entendimento adotado no aresto recorrido nesse aspecto enseja o exame dos fatos e provas dos autos, o que encontra óbice na destacada súmula, conforme o entendimento do STJ:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROCEDÊNCIA. PAGAMENTO. EXIGIBILIDADE. REEXAME DE PROVAS. SÚMULA No 7/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ). 2. Na hipótese, inviável a análise da suficiência das provas dos autos e da satisfação do ônus probatório das partes em virtude da incidência da Súmula no 7/STJ. 3. O tribunal de origem, com base no acervo fático-probatório, julgou procedente a ação monitória pela exigibilidade do valor das notas fiscais que a embasam, cuja revisão atrai a incidência da Súmula no 7/STJ. 4. Agravo interno não provido.
+(STJ - AgInt no REsp: 1715379 RO 2017/0321603-1, Relator: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 24/04/2018, T3 - TERCEIRA TURMA, Data de Publicação: DJe 30/04/2018) (g.n)
+Dessa forma, é incabível a revisão do entendimento adotado no aresto recorrido, por demandar o reexame do conjunto fático-probatório dos autos, o que impede a admissão do recurso.
+Fundamentação incompleta. Súmula 283 do STF.
+Na interposição do Recurso Especial é necessário que nas razões recursais sejam impugnados todos os fundamentos do acórdão recorrido, quando um ou mais forem suficientes para a manutenção da decisão recorrida, conforme disposto na Súmula 283 do STF, aplicada analogicamente ao caso em exame.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO CUMULADA COM REPARAÇÃO DE DANOS MORAIS E MATERIAIS. ACORDO COM EXPRESSA RENÚNCIA DO DIREITO EM QUE SE FUNDA A AÇÃO. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO NÃO PROVIDO.
+1. É inadmissível o inconformismo por deficiência na sua fundamentação, quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284/STF.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do aresto estadual atrai, por analogia, a incidência do óbice da Súmula 283/STF.
+3. O Superior Tribunal de Justiça consagra a orientação no sentido da necessidade de prequestionamento dos temas trazidos no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1416935/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/06/2019, DJe 01/07/2019). (g.n.)
+In casu, a parte recorrente suscita a afronta ao artigo 397, parágrafo único do Código Civil, sob a alegação de que a ausência da constituição da mora é óbice para a propositura da ação monitória, de forma que o feito deve ser julgado extinto, sem resolução de mérito.
+Quanto a este ponto, consignou-se no aresto recorrido que “(...) ao contrário do sustentado pelo Apelante, no caso dos autos, a mora é ex re, porque a dívida é líquida e certa logo que atestado do óbito da paciente, o que significa que a mora configurou-se em 07/10/2015, à luz do artigo 397 do CC, sendo esse o marco inicial para a incidência dos juros de mora. (...)”.
+Com efeito, verifica-se que as razões recursais são incompletas e não impugnam precisamente a fundamentação do acórdão, qual seja, a de que no caso dos autos, a mora é ex re.
+Dessa forma, considerando que as razões recursais não impugnam exatamente os fundamentos do acórdão recorrido, há violação ao princípio da dialeticidade, o que impede a admissão do recurso.
+Da necessidade de identificação do dispositivo legal violado (Súmula 284/STF)
+A ausência de identificação precisa do dispositivo legal supostamente violado, ou objeto de dissídio jurisprudencial, prejudica a análise da controvérsia e caracteriza deficiência de fundamentação das razões recursais, a ensejar a aplicação da Súmula 284 do Supremo Tribunal Federal. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - SEGURO DE VIDA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ. 1. O conhecimento do recurso especial pelas alíneas ‘a"’e ‘c’ do permissivo constitucional exige a indicação de qual ou quais os dispositivos de lei que supostamente teriam sido violados ou objeto de interpretação divergente entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula 284 do STF. Precedentes. 2. O Tribunal de origem, com base na análise do acervo probatório dos autos, concluiu que o segurado faz jus ao recebimento da indenização correspondente à cobertura securitária, por entender que a questão relativa ao pagamento da indenização de forma proporcional ao grau de invalidez do segurado, encontra-se tão somente nas condições gerais da apólice, da qual não há prova de que o autor, na condição de segurado, tomou conhecimento. Assim, para rever o entendimento do acórdão recorrido, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e reinterpretação de cláusulas contratuais, o que é vedado em razão das Súmulas 5 e 7 do STJ. Precedentes. 3. Agravo interno desprovido.
+(AgInt no AREsp 1220109/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/09/2018, DJe 01/10/2018). (g.n)
+In casu, quanto à alegação de que os juros de mora devem incidir a partir da citação, a parte recorrente não demonstrou de forma específica os dispositivos de lei federal supostamente violados pela decisão recorrida, o que faz incidir a Súmula 284/STF e obsta a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
