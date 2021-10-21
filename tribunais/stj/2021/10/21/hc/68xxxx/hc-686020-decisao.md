@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JONATHA DE OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo.
+Colhe-se dos autos que o Juízo das Execuções Criminais, ao conceder o benefício da saída temporária ao reeducando, ressalvou a obrigatoriedade de este, caso desempenhe atividade laborativa externa, comparecer ao respectivo local de trabalho durante todo o período, sob pena de incorrer em falta grave.
+Contra essa decisão, a defesa interpôs agravo em execução perante o TJES cujo provimento foi negado, em acórdão assim ementado (e-STJ, fl. 21):
+""AGRAVO EM EXECUÇÃO. RECURSO DA DEFESA. AFASTAMENTO DA EXIGÊNCIA DE COMPARECIMENTO DOS PRESOS AO TRABALHO DURANTE O GOZO DAS SAÍDAS TEMPORÁRIAS. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+1. O trabalho externo e a saída temporária constituem benesses distintas, previstas na Lei n. 7.210/1984, sendo cabível as suas concessões de forma simultânea.
+2. Diante da impossibilidade de reconhecimento de vínculo de emprego em razão da expressa previsão legal disposta na Lei n. 7.210/1984 (Precedente TRT 4ª Região), que deriva do fato de o preso não ter a liberdade de contratar, resta inviável a equiparação entre as férias dos trabalhadores livres e o período de saída temporária dos apenados.
+3. Quando concedidos, os benefícios devem ser cumpridos de forma simultânea, não sendo cabível falar em mitigação de um direito em detrimento do outro.
+4. O apenado que se ausenta do trabalho externo sem autorização judicial incide no art. 50, inciso VI, c/c art. 39, inciso V, da Lei de Execução Penal. Precedente STJ.5. Recurso improvido.""
+No presente writ, alega a Defensoria Pública que ""determinar o comparecimento do apenado ao trabalho no momento que está usufruindo sua saída temporária violam os objetivos dessa que é promover a gradual reinserção do condenado no mundo exterior, contribuindo, inclusive para o fortalecimento dos laços familiares da pessoa presa"" (e-STJ, fl. 6).
+Afirma que ""a não exigibilidade de trabalho durante a saída temporária a qual constitui o cerne da questão debatida decorre de violação dos direitos dos reeducandos"" (e-STJ, fl. 6).
+Pleiteia a concessão da ordem para afastar a obrigatoriedade do paciente comparecer ao respectivo local de trabalho durante todo o período da saída temporária.
+O Ministério Público Federal opina pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+No caso, a defesa pretende, em suma, que o comparecimento ao local de trabalho externo não seja colocado como condição (obrigação, sob pena de falta grave) quando o paciente estiver usufruindo de saída temporária.
+O Tribunal manteve a condição imposta pelo Juízo das execuções, reputando compatíveis os benefícios da saída temporária e trabalho externo, pelos seguintes fundamentos (e-STJ, fls. 23-25):
+"Apesar de não desconhecer os fundamentos suscitados pela nobre Defensoria Pública Estadual nas razões recursais, reputo adequada a condição imposta na decisão agravada. Explico.
+O trabalho externo e a saída temporária constituem benesses distintas, previstas na Lei nº 7.210/1984, sendo cabível as suas concessões de forma simultânea.
+No caso em específico do trabalho, a ser realizado pelo apenado no âmbito interno ou externo da unidade prisional, aduz o art. 28, da Lei de Execução Penal, que este corresponde a um dever social e condição da dignidade humana, haja vista a finalidade educativa e produtiva do benefício em comento. Contudo, em virtude de previsão expressa na aludida lei, a atividade não se encontra sujeita ao regime da Consolidação das Leis do Trabalho.
+ ..
+Desse modo, diante da impossibilidade de reconhecimento de vínculo de emprego em razão da expressa previsão legal disposta na Lei nº 7.210/1984, que deriva do fato de o preso não ter a liberdade de contratar, resta inviável a equiparação suscitada nas razões recursais.
+Registro, por oportuno, que nos termos do art. 36, §3º, da Lei de Execuções Penais, a prestação de trabalho externo às entidades privadas depende do consentimento expresso do apenado que, ao aceitar, assina um termo com a tomadora de serviço em que constam os respectivos direitos e obrigações entre estes, consoante o disposto no art. 109, parágrafo único da Portaria 332-S, da Secretaria de Estado da Justiça - SEJUS.
+Dessa forma, ciente de suas responsabilidades perante a entidade privada, deve o reeducando contemplá-las de forma integral, sob pena de revogação do benefício.
+Outrossim, dispõe o art. 108, §2º, da Portaria 332-S, um limite de horas a serem laboradas diariamente, de modo que não haverá interferência na reinserção do apenado no convívio familiar, sendo, portanto, compatível a coexistência e cumprimento dos benefícios em discussão.
+Por fim, entendo que a exigência do comparecimento ao trabalho no período da saída temporária não se encontra ligada às finalidades lucrativas da empresa, mas ao próprio objetivo da benesse que, além do caráter ressocializador, poderá, inclusive, auxiliar na remição da pena do reeducando.
+Sendo assim, considerando o exposto, perfilho o entendimento de que, quando concedidos, os benefícios devem ser cumpridos de forma simultânea, não sendo cabível falar em mitigação de um direito em detrimento do outro.
+Noutro giro, salienta o d. defensor público que, quanto ao reconhecimento de falta disciplinar, é inviável invocar o disposto no art. 50, inciso VI, da Lei de Execução Penal, haja vista que as condutas estabelecidas no art. 39, inciso V, da mesma lei, apresentam caráter vago e indeterminado. Entretanto, consoante entendimento manifestado pelo Superior Tribunal de Justiça, o termo trabalho abarca a atividade externa realizada pelo apenado, de forma que, em caso de descumprimento, incidirá a falta grave ."
+Os arts. 36 e 37 da Lei de Execução penal assim preveem o trabalho externo:
+Art. 36. O trabalho externo será admissível para os presos em regime fechado somente em serviço ou obras públicas realizadas por órgãos da Administração Direta ou Indireta, ou entidades privadas, desde que tomadas as cautelas contra a fuga e em favor da disciplina.
+§ 1º O limite máximo do número de presos será de 10% (dez por cento) do total de empregados na obra.
+§ 2º Caberá ao órgão da administração, à entidade ou à empresa empreiteira a remuneração desse trabalho.
+§ 3º A prestação de trabalho à entidade privada depende do consentimento expresso do preso.
+Art. 37. A prestação de trabalho externo, a ser autorizada pela direção do estabelecimento, dependerá de aptidão, disciplina e responsabilidade, além do cumprimento mínimo de 1/6 (um sexto) da pena.
+Parágrafo único. Revogar-se-á a autorização de trabalho externo ao preso que vier a praticar fato definido como crime, for punido por falta grave, ou tiver comportamento contrário aos requisitos estabelecidos neste artigo.
+Já a saída temporária está assim prevista na Lei 7.210/1984:
+Art. 124. A autorização será concedida por prazo não superior a 7 (sete) dias, podendo ser renovada por mais 4 (quatro) vezes durante o ano.
+§ 1º Ao conceder a saída temporária, o juiz imporá ao beneficiário as seguintes condições, entre outras que entender compatíveis com as circunstâncias do caso e a situação pessoal do condenado: (Incluído pela Lei nº 12.258, de 2010)
+I - fornecimento do endereço onde reside a família a ser visitada ou onde poderá ser encontrado durante o gozo do benefício; (Incluído pela Lei nº 12.258, de 2010)
+II - recolhimento à residência visitada, no período noturno;
+(Incluído pela Lei nº 12.258, de 2010)
+III - proibição de frequentar bares, casas noturnas e estabelecimentos congêneres.
+§ 2o Quando se tratar de frequência a curso profissionalizante, de instrução de ensino médio ou superior, o tempo de saída será o necessário para o cumprimento das atividades discentes. (Incluído pela Lei nº 12.258, de 2010)
+§ 3o Nos demais casos, as autorizações de saída somente poderão ser concedidas com prazo mínimo de 45 (quarenta e cinco) dias de intervalo entre uma e outra. (Incluído pela Lei nº 12.258, de 2010)
+Art. 125. O benefício será automaticamente revogado quando o condenado praticar fato definido como crime doloso, for punido por falta grave, desatender as condições impostas na autorização ou revelar baixo grau de aproveitamento do curso.
+Assim, a legislação não traz nenhuma proibição para a concessão simultânea de ambos os benefícios, necessitando apenas que o Magistrado realize a compatibilização das duas benesses, e estabeleça as respectivas condições, nos termos acima expressos.
+Observa-se do acórdão transcrito que a concessão da saída temporária pelo Juízo da execução foi posterior à concessão do trabalho externo, tendo a decisão imposto condições a ser observadas, mormente a necessidade de comparecimento do apenado em seu local de trabalho no referido período.
+No caso, os benefícios do trabalho externo e saída temporária são compatíveis, de modo que o paciente, durante o tempo em que estiver em gozo de saída, deve respeitar, também, as regras do trabalho externo, em especial porque o labor externo não afeta as saídas temporárias para visitação à família, uma vez que há limite de horas para o trabalho.
+A jurisprudência desta Corte trata o trabalho externo como um benefício diverso das saídas temporárias:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ESTABELECIMENTO PRISIONAL ADEQUADO. REVOLVIMENTO FÁTICO-PROBATÓRIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O voto condutor no acórdão recorrido consignou que a Penitenciária Industrial de Joinville para a qual foi autorizada a transferência do reeducando, consiste em estabelecimento prisional adequado, gozando dos benefícios inerentes ao regime intermediário.
+2. "Se o apenado encontra-se alojado em pavilhão independente e autônomo de estabelecimento destinado ao regime fechado, sem ligação física com o restante do presídio, prestando trabalho externo e usufruindo de saídas temporárias, segundo as regras do regime semiaberto, não há constrangimento ilegal a ser sanado, uma vez que o reeducando não se encontra cumprindo pena em regime mais rigoroso do que o devido" (HC n.º 397.368/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/6/2017).
+3. Agravo regimental desprovido.
+(AgRg no HC n.º 533.468/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL. NÚCLEO DE PRÁTICA JURÍDICA. PROCURAÇÃO. DISPENSABILIDADE. PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. INEXISTÊNCIA DE ILEGALIDADE NO CUMPRIMENTO DA PENA NO REGIME SEMIABERTO. INAPLICABILIDADE DA SÚMULA 56/STF. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO, MAS LHE NEGAR PROVIMENTO.
+1. Nos termos da orientação jurisprudencial da Terceira Seção, a nomeação do Núcleo de Prática Jurídica para patrocinar a defesa do réu dispensa a juntada de procuração, por não haver atuação provocada pelo assistido, mas sim exercício do munus público por determinação judicial, sendo, portanto, afastada a incidência da Súmula 115/STJ.
+2. Não há óbices à concessão de prisão domiciliar com monitoração eletrônica ao sentenciado em regime semiaberto quando não há vagas no regime específico ou quando não há estabelecimento prisional adequado ou similar na localidade em que cumpre pena.
+3. Assentado pela Corte de origem que o apenado está em regime semiaberto com autorização ao trabalho externo e às saídas temporárias, sem indicação nos autos de que esteja sendo tolhido de qualquer benefício relacionado ao regime semiaberto, tampouco estando lotado em estabelecimento prisional destinado ao regime fechado, fica afastada a aplicação da Súmula Vinculante n. 56 e RE n.º 641.320/RS.
+4. A pretendida alteração da conclusão alcançada pela instância a quo sobre as condições do recolhimento em tela demandaria indevida incursão fático-probatório, incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária (HC n.º 380.014/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 24/2/2017).
+5. Agravo regimental provido para conhecer do agravo, mas lhe negar provimento.
+(AgRg no AREsp 1635909/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 4/8/2020, DJe 13/8/2020)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. EXECUÇÃO PENAL. COMETIMENTO DE FALTA GRAVE NÃO INTERROMPE O PRAZO PARA CONCESSÃO DE TRABALHO EXTERNO E DE SAÍDAS TEMPORÁRIAS.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. A prática de falta grave durante o cumprimento da pena não acarreta a alteração da data-base para fins de saída temporária e trabalho externo (AgRg nos EDv nos EREsp n.º 1.755.701/RS, Ministro Nefi Cordeiro, Terceira Seção, DJe 19/6/2019).
+3. Agravo regimental improvido.
+(AgRg no REsp 1744448/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/12/2019, DJe 16/12/2019)
+Ressalte-se que, não se observando o paciente o dever de apresentação no trabalho externo, sem autorização judicial, o fato constitui falta grave, nos termos do art. 50, VI , c/c art. 39, V, da LEP.
+Nesse sentido:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL.INADEQUAÇÃO DA VIA ELEITA. PRÁTICA DE FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA NO TRABALHO EXTERNO SEM AUTORIZAÇÃO JUDICIAL. CONFIGURAÇÃO. REGRESSÃO DE REGIME. QUESTÃO PREJUDICADA.PERDA DOS DIAS REMIDOS NO PERCENTUAL MÁXIMO. POSSIBILIDADE.GRAVIDADE DA FALTA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Consoante art. 50, VI, c/c art. 39, V, da LEP, pratica falta grave o reeducando que se ausenta do trabalho externo sem autorização judicial.
+III - São consectários do reconhecimento da prática de falta grave a regressão do regime prisional, bem como a perda dos dias remidos, nos termos dos arts. 118 e 127 da LEP.
+IV - A insurgência contra a regressão de regime perdeu o objeto diante da unificação de pena fixada em novo título executivo, que determinou o cumprimento do quantum total no modo fechado.
+V - A natureza grave da falta e o comportamento recalcitrante do apenado, que reitera na prática de faltas disciplinares, fundamenta a perda dos dias remidos na fração máxima. (art. 57, da LEP). Habeas corpus não conhecido." (HC 459.205/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/10/2018, DJe 08/10/2018.)
+Ante  o  exposto,  não conheço da ordem.
+Publique-se.  Intimem-se.
