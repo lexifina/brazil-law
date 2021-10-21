@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Natália Rosa da Silva contra o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo nos autos da Ação Penal n. 1500620-10.2018.8.26.0356, que proveu o recurso ministerial para afastar a causa de diminuição da pena, impondo a pena de 5 anos e 10 meses de reclusão, em regime fechado.
+Narram os autos que o Juízo da 1ª Vara de Mirandópolis/SP condenou a paciente a 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, substituída a pena por duas restritivas de direitos, além de 194 dias-multa, no valor mínimo legal, pela prática do art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006, por ter sido flagrada com 126,73 g de maconha (fl. 161).
+Reformada a sentença pelo Tribunal de Justiça bandeirante, a defesa aponta constrangimento ilegal pelo afastamento da causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Requer, liminarmentee no mérito, a aplicação do citado redutor, com a consequente fixação do regime aberto para o início de cumprimento da pena.
+É o relatório.
+A impetração merece acolhimento.
+Na hipótese em análise, verifica-se a ocorrência de flagrante ilegalidade capaz de justificar não somente o deferimento do pedido da defesa, mas, também, a concessão da ordem de ofício, para restabelecer a sentença de primeiro grau.
+Com efeito, ao que se observa dos autos, a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, foi afastada no acórdão impugnado, tendo em conta que, a despeito da quantidade, também significativa, reveste-se de reprovabilidade concreta e pede correta responsabilização. Ora, é sabido, que a droga é moeda de troca nos estabelecimentos prisionais. O consumo e tráfico no interior dos presídios gera endividamento entre os presos e contribui para o crescimento e fortalecimento do crime organizado.  ..  Ademais, a conduta afronta duplamente o ordenamento jurídico já que praticado em local onde as pessoas se encontram recolhidas justamente por terem descumprido a lei e estão sob custódia rígida do Estado (fl. 229 - grifo nosso).
+Ao que se observa, o Tribunal de Justiça bandeirante adotou fundamento inidôneo para afastar a mencionada causa de diminuição, sobretudo porque a quantidade de drogaapreendida, a meu ver (126,73 g de maconha), não o justifica, sendo perfeitamente cabível a sua aplicação em patamar máximo, como adotado na sentença.
+Nesse sentido, destaco o entendimento do Superior Tribunal de Justiça de que a apreensão de pequena quantidade de cocaína, não obstante seja considerada uma das mais nocivas, não justifica, por si só, o aumento da reprimenda na primeira fase da dosimetria(AgInt no HC n. 403.668/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 14/11/2017 - grifo nosso).
+Confira-se, ainda: HC n. 406.150/ES, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 31/8/2017.
+Ademais, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas (HC n. 484.438/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/4/2019).
+Ante o exposto, concedo liminarmentee de ofícioa ordem a fim de restabelecer a sentença condenatória proferida pelo Juízo da 1ª Vara de Mirandópolis/SP na Ação Penal n. 1500620-10.2018.8.26.0356.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. 126,73 G DE MACONHA. QUANTIDADE DE DROGA QUE PERMITE A UTILIZAÇÃO DE PATAMAR MÁXIMO DE REDUÇÃO (ART. 33, § 4º, DA LEI N. 11.343/2006), A IMPOSIÇÃO DO REGIME ABERTO E POSSIBILITA A SUBSTITUIÇÃO DA PENA COMO FEITO NA SENTENÇA CONDENATÓRIA. FLAGRANTE ILEGALIDADE NO ACÓRDÃO DA APELAÇÃO.
+Writ concedido liminarmente e de ofício,nos termos do dispositivo.
