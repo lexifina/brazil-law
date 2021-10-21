@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl.621):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC2015. NÃO OCORRÊNCIA. PROVA PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+O agravante alega que houveefetiva violação aos artigos 489, §1º, IV e 1.022 do CPC2015, na medida em que o Tribunal de origem não se manifestou sobre elementos que confirmavam a impossibilidade de se considerarem imprestáveis os laudos já produzidos nos autos para determinar a nomeação de um novo perito.
+Nesse sentido, defende que o acórdão recorrido comporta dois complementos (fl. 643):
+(i) o primeiro, de que a agravante não busca a escolher a perita que elaborou a segunda perícia. Também constou do agravo que havia duas alternativas (ambas recaindo sobre peritos nomeados pelo juízo) (..)
+(ii) o segundo, de que o Agravo não foi interposto apenas sob o argumento de que a primeira perícia "foi utilizada na fundamentação do v. acórdão que reconheceu o direito ao recebimento dos valores expurgados" (o an debeatur), mas principalmente por que, como afirmado nas razões de agravo, as perícias foram complexas, longas e inclusive já se dedicaram à apuração do quantum debeatur (..)
+Quanto à questão de fundo, sustenta não incidir à hipótese a Súmula 7 do STJ, por não ser necessário o reexame de fatos e provas para reconhecimento da violação aos artigos 503, 505, 507 e 464, §1º, II do CPC. Isso porque as conclusões do acórdão que julgou a apelação nos autos da ação origináriadeclarou a validade dos laudos periciais, de modo que, tendo transitado em julgado, não épossível a determinação de nova perícia na fase de liquidação sob o argumento de que tais laudos seriam imprestáveis, sob pena de restar violada a coisa julgada.
+Do mesmo modo, argui que a alegação de ofensa aoartigo 464, §1º, II do CPC também não atrai a incidência da Súmula 7 do STJ, haja vista terem sido consideradas hígidas asduas perícias econômico-contábeis realizadas nos autos da ação principal, as quais se debruçaram tanto em relação ao an debeatur como ao quantum debeatur.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ART. 1.022 E 489 DO CPC/2015. NÃO OCORRÊNCIA. LIQUIDAÇÃO DE SENTENÇA. PROVA PERICIAL. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Afasta-se a alegada violação dos artigos 1.022 e 489 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. A revisão da conclusão a que chegou o Tribunal de origem, no sentido de ser necessária a realização de nova prova pericial, bem como de que referida determinação não viola a coisa julgada, na forma pretendida pelorecorrente, demandaria o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Opresente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito,afasta-se a alegada violação do artigo 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+É o que se evidencia da fundamentação do acórdão (fl. 455):
+Em que pese, o laudo pericial tenha sido adotado como razão de decidir pelo v. acórdão, não há se falar em nulidade do Juízo a quo pela determinação de nova perícia, para apurar efetivamente os valores da diferença dos pagamentos realizados no âmbito dos contratos administrativos.
+Isso porque, a MM. Juíza a quo é a destinatária da prova e a determinação de nova produção, com perito de sua confiança é medida regular de acordo com as disposições do Código de Processo Civil.
+Aliás, a mera nomeação de perito diverso do que confeccionou o laudo na fase de instrução, por si só, não implica em violação objetiva da coisa julgada e tampouco resulta no cerceamento do exercício do contraditório e da ampla defesa.
+Neste sentido, assegurado à particular a participação da produção da prova na fase de cumprimento da sentença a determinar o valor efetivo da diferença de valores. Direito reconhecido pelo v. acordão (fls. 71/81 dos autos principais).
+Assim, ausente qualquer ilegalidade processual pela determinação de perito diverso da fase da instrução, para determinação de valor da condenação, encerrando hipótese de legítimo exercício de faculdade processual do magistrado.
+Tem-se, portanto, que atutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Da mesma forma, afasta-se a alegada afronta ao artigo 489, § 1º, IV, do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ademais, a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Quanto à questão de fundo,a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que: (a)a determinação de nova perícia encontra respaldo na legislação processual e se revela justificável, segundo o juízo de valor da magistradadestinatária da prova;e (b) não háviolação objetiva da coisa julgada, tampouco cerceamento do exercício do contraditório e da ampla defesa.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
