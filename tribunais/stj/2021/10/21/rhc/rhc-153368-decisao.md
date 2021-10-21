@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso em habeas corpus, com pedido de liminar, interposto pela Defensoria Pública em favor de MARCELO BARBOSA DOS SANTOS - preso cautelarmente pela suposta prática da conduta tipificada no artigo 33 e 35 da Lei n.º11.343/2006 - contra acórdão do Tribunal de Justiça de Alagoas (HC n.º 0800051- 15.2021.8.02.0000).
+Consta dos autos que o recorrente, foi preso na companhia de outra pessoa, na posse de 10 (dez) bombinhas de maconha; R$ 15,00 (quinze reais) em dinheiro trocado;1 (uma) balança de precisão; 8 (oito) munições calibre 38, as quais estavam intactase 1 (um) estojo de calibre 38, o qual estava deflagrado.
+Homologado o flagrante, foi decretada a prisão preventiva (e-STJ fls. 72/78).
+Contra essa decisão, a defesa impetrou habeas corpus na Corte estadual. O Tribunal, contudo, denegou a ordem. Eis a ementa:
+HABEAS CORPUS. PENAL. PROCESSO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PORTE ILEGAL DE MUNIÇÕES. PRISÃO PREVENTIVA. QUESTIONADA A PRESENÇA DOS REQUISITOS AUTORIZADORES DA ESPÉCIE. PREENCHIMENTO.ÉDITO PRISIONAL EMBASADO NOS AUTOS. CUSTÓDIA IMPRESCINDÍVEL PARA A GARANTIA DA ORDEM PÚBLICA.
+INDICATIVOS DE DEDICAÇÃO À PRÁTICA DA TRAFICÂNCIA PROFISSIONALIZADA. CONCRETO RISCO DE REITERAÇÃO DELITIVA.PACIENTE QUE FIGURA NO PÓLO PASSIVO DE OUTRO FEITO CRIMINAL DE MESMA NATUREZA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS DO CÁRCERE. FEITO DE ORIGEM EM MARCHA REGULAR. CONSTRANGIMENTO ILEGAL INVOCADO INEXISTENTE. PRISÃO MANTIDA. ORDEM DENEGADA.
+I -O édito prisional aqui impugnado está bem fundamentado e encontra amplo arrimo nos autos, considerando a manifesta periculosidade atribuída ao paciente que foi detido portando 10 (dez) bombinhas de maconha; R$15,00 (quinze reais) em dinheiro trocado; 1 (uma) balança de precisão; 8 (oito) munições calibre 38 (intactas); e 1 (um) estojo de calibre 38 (deflagrado), e na delegacia confessou que fazia parte de uma associação para o tráfico, citando inclusive o nome de outros dois agentes.
+O periculum libertatis caracteriza-se pelos concretos indicativos de reiteração criminosa que recaem sobre o paciente, que figura no pólo passivo de outra ação criminal de mesma natureza, apontando uma provável imersão no tráfico profissionalizado e demonstrando o elevado grau de periculosidade do agente.
+II - É inegável que a prática da traficância, em contexto de aparente habitualidade e profissionalização, denota especial periculosidade no suposto modo de agir do paciente, a reclamar, pois, o acautelamento provisório da sua liberdade, como forma de evitar a reiteração delitiva e, assim, resguardar a ordem pública, não havendo que se falar em medida cautelar diversa do cárcere para a hipótese em testilha.
+III - É assente na Câmara Criminal deste Egrégio Tribunal de Justiça, na esteira do posicionamento firmado pelo Superior Tribunal de Justiça, que as condições subjetivas favoráveis ostentadas pelo acusado não obstam a manutenção da segregação cautelar, quando presentes os seus requisitos legais, como acontece na hipótese em apreço.
+IV -É pacífica a jurisprudência desta Corte, que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (HC n.º 510.988/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/8/2019, DJe 28/8/2019).
+V - O paciente permanece preso provisoriamente há pouco mais de 6 (seis) meses - desde o dia 21/10/2020, lapso temporal este, no meu entender, compatível e proporcional com eventual reprimenda privativa de liberdade que venha a ser imposta no caso de condenação, à luz das peculiaridades do caso em análise e em atenção à vida pregressa do paciente.
+VI -Habeas Corpus conhecido e denegado.
+Na presente oportunidade, o impetrante reafirma a tese de falta de fundamentação para a manutenção da prisão preventiva, ressaltando que o simples fato do recorrente responder a outra ação penal, não é motivo suficiente para a manutenção do decreto prisional.
+Diante disso, pede em liminar e no mérito, a revogação da prisão preventiva do paciente.
+A liminar foi indeferida (e-STJ fls. 145/148). As informações foram prestadas (e-STJ fls. 169/175). O Ministério Público Federal, previamente ouvido, manifestou-se pela prejudicialidade do recurso, pela perda do objeto (e-STJ fls. 176/177).
+É o relatório, decido.
+Com razão o parecer ministerial, o qual adoto como razão para decidir (e-STJ fl. 177):
+ ..
+Preliminarmente, este recurso ordinário está prejudicado.
+2.1. Em 14/9/2021, o Juízo de Direito da Comarca de Leopoldina/AL revogou a prisão preventiva e determinou a expedição de alvará de soltura do recorrente MARCELO BARBOSA DOS SANTOS (fls. 170-4).
+Assim, fica sem objeto o pedido contido no presente Recurso em habeas corpus.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente Recurso em habeas corpus.
+Intimem-se.
