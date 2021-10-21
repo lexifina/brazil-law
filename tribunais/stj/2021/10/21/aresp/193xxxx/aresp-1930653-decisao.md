@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto porLUIZ CARLOS PIMcontra decisão que não admitiu recurso especial. O apelo nobre, fundamentado naalínea"a"do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"RESPONSABILIDADE CIVIL - Desconto de valores referentes à "mensalidade associativa"de benefício previdenciário do autor - Adesão não comprovada - Descontos indevidos - Restituição dos valores ao autor devida, em dobro - Comprovação da má-fé da requerida - Art. 42, parágrafo único, do CDC- Dano moral verificado - Ameaça injusta ao patrimônio do autor constatada - Indenização devida - Indenização majorada para R$ 10.000,00 - Honorários advocatícios majorados para 15% do valor da condenação - Recurso do autor provido em parte e recurso da ré desprovido"(e-STJ fl. 325).
+Nas razões do especial (e-STJ fls. 331/348), orecorrenteaponta violação dos artigos 85, § 2º e489, II, § 1º, IV, do Código de Processo Civil de 2015.
+Sustenta ser irrisório o valor fixado a título de reparação por dano moral.
+Ao final, postula a aplicação do art. 85, § 2º, do CPC/2015, paraqueoshonorários advocatícios sejam arbitrados em 20% (vinte por cento) do valor final da condenação.
+Apresentadas as contrarrazões, o recurso não foi admitido na origem. Daí o presente agravo, o qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A pretensão recursal não merece ser acolhida.
+Primeiramente, conforme exposto no artigo 489 do Código de Processo Civil de 2015, não se considera fundamentada a decisão que não enfrentar todos os argumentos deduzidos no processo.
+Outrossim, impende asseverar que cabe ao julgador apreciar os fatos e provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ.SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS.ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016 - grifou-se).
+Ademais,no tocante ao pedido de majoraçãodo valor da indenização, o Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 10.000,00.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE DAS INSTITUIÇÕES FINANCEIRAS. SÚMULA 479/STJ. FALHA NA PRESTAÇÃO DE SERVIÇO. DESCONTOS INDEVIDOS DE BENEFÍCIO PREVIDENCIÁRIO DA AUTORA.DANO MORAL. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. RAZOABILIDADE.AGRAVO DESPROVIDO.
+1. O Tribunal de origem, com fundamento no conjunto probatório dos autos, concluiu que houve falha na prestação de serviço, ocasionando descontos indevidos do benefício previdenciário da autora. Nesse contexto, afigura-se inviável rever tal conclusão, tendo em vista o óbice da Súmula 7/STJ.
+2. É possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame, pois o valor da indenização, arbitrado em R$ 10.000,00 (dez mil reais), não é excessivo nem desproporcional aos danos sofridos pela parte autora.
+3. Agravo interno a que se nega provimento"(AgInt no AREsp 1201789/MS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 15/03/2018, DJe 22/03/2018)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.DESCONTO INDEVIDO EM BENEFÍCIO PREVIDENCIÁRIO. DANOS MORAIS. VALOR RAZOÁVEL.
+1. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+2. Agravo interno a que se nega provimento"(AgInt no AREsp 1028529/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/10/2017, DJe 18/10/2017)
+"AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - RESPONSABILIDADE CIVIL - CONTRATAÇÃO DE EMPRÉSTIMO NÃO RECONHECIDO PELO CLIENTE - DESCONTO AUTOMÁTICO QUE INCIDIU SOBRE BENEFÍCIO PREVIDENCIÁRIO - ATO ILÍCITO CONFIGURADO - DANOS MORAIS - OCORRÊNCIA - FIXAÇÃO - RAZOABILIDADE - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- A convicção a que chegou o Tribunal a quo quanto à configuração de ato ilícito e ocorrência do dano moral, decorreu da análise do conjunto probatório. O acolhimento da pretensão recursal demandaria o reexame do mencionado suporte. Incide nesse ponto a Súmula STJ/7.
+2.- A intervenção do STJ, Corte de caráter nacional, destinada a firmar interpretação geral do Direito Federal para todo o país e não para a revisão de questões de interesse individual, no caso de questionamento do valor fixado para o dano moral, somente é admissível quando o valor fixado pelo Tribunal de origem, cumprindo o duplo grau de jurisdição, se mostre teratólogico, por irrisório ou abusivo.
+3.- Inocorrência de teratologia no caso concreto, em que houve a fixação do valor da indenização por danos morais em R$ 15.000,00 (quinze mil reais), consideradas as circunstâncias do caso e as condições econômicas das partes, para o dano decorrente de desconto indevido de parcelas de empréstimo não contratado ou autorizado pelo recorrido, incidindo sobre benefício previdenciário do mesmo.
+4.- Agravo Regimental improvido"(AgRg no AREsp 312.642/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 28/05/2013, DJe 19/06/2013)
+No tocante à tese em torno do artigo 85, § 2º, do CPC/2015 apontado como violado no recurso especial, verifica-se que não foi objeto de debate pela instância ordinária, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, orecorrentenão indicoua contrariedade ao art. 1022 do Código de Processo Civil/2015.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.".
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), em razão do parcial provimento do recurso de apelação pelo Tribunal de origem, não sendo caso de majoração da referida verba.
+Publique-se.
+Intimem-se.
