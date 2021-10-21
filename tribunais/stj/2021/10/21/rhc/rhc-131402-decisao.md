@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso emhabeas corpus com pedido liminar interposto porGUILHERME DE FARIA SILVA e RENATO FABRÍCIO SANTOS PEREIRAcontra acórdão do Tribunal de Justiça do Estado de Goiás (HC n. 5272360.37.2020.8.09.0000).
+Consta dos autos que os recorrentesforampronunciados pela suposta prática docrimeprevistonoart. 121, § 2º, II e IV, do Código Penal, ocasião em que foi mantida a custódia cautelar.
+Impetrado habeas corpus no Tribunal de origem objetivando a soltura dos recorrentes, a ordem foi denegada nos termos da seguinte ementa (e-STJ fls. 60/61):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO.EXCESSO DE PRAZO PARA SUBMISSÃO DOS PACIENTES A JULGAMENTO PELO TRIBUNAL DO JÚRI.INOCORRÊNCIA. Encerrada a instrução probatória da primeira fase do procedimento escalonado do Tribunal do Juri, sobrevindo a decisão de pronúncia, resta superada a alegação de constrangimento ilegal por excesso de prazo, consoante a Súmula nº 21, do STJ. Outrossim, constatando- se o regular trâmite do feito principal (ante a ausência de indícios de negligência ou desídia por parte do Estado-Juiz), não há que se falar em constrangimento ilegal por excedimento de marca temporal razoável, com fulcro no teor da Súmula nº 21 do Superior Tribunal de Justiça e, ainda, no princípio da razoabilidade. SUBSTITUIÇÃO DA PRISÃO POR OUTRAS MEDIDAS CAUTELARES. INVIABILIDADE.Vislumbrando-se dos autos que nenhuma das medidasdescritas no artigo 319 do CPP revela-se suficiente e adequada para resguardar efetivamente a ordem pública, impossível a substituição da prisão por outras medidas acautelatórias menos gravosas. necessidade de reavaliação da prisão nos termos do artigo 316, parágrafo único do CPP. Inviável a análise da plausibilidade das alegações do impetrante, porquanto dos documentos jungidos aos autos não é possível identificar que não houve a reavaliação da prisão. APLICAÇÃO DA RECOMENDAÇÃO Nº 62 DO CNJ.Além de não restar comprovado que tal medida foi pleiteada perante o juízo de 1º grau, o impetrante não se desincumbiu de demonstrar, também, que os pacientes estejam no grupo de maior risco, o que inviabiliza a análise do pedido, por ausência de documentos e possibilidade de supressão de instância. ORDEM CONHECIDA E DENEGADA.
+No presente recurso, sustenta a defesa a existência deexcesso de prazo, uma vez que, a despeito de os recorrentes estarem presos desde 1º/7/2017 e terem sido pronunciados em 20/9/2018,até os dias atuais não foi realizado o julgamento perante o Tribunal do Júri.
+Aduz que, " .. em razão da pandemia (COVID 19), a Recomendação CNJ 62/220, aconselha aos magistrados a reavaliação das prisões preventivas que tenham excedido o prazo de 90 dias. (Art.4º, I, c) o que não ocorreu no presente caso, sendo que a prisão preventiva dos Pacientes já perdura por mais de 1.107 (um mil cento e sete) dias" (e-STJ fl. 74).
+Defende a suficiência daimposição demedidas diversas do cárcere, asseverando que militam em favor dos recorrentes condições pessoais favoráveis.
+Busca, inclusive liminarmente, a expedição de alvará de soltura em favor dos recorrentes.
+O pedido liminar foiindeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Em consulta ao sítio processual do Tribunal de Justiça do Estado de Goiás, constata-se que foi realizado o Tribunal do Júri em 1º/7/2021, ficando, portanto, prejudicado o presente recurso emhabeas corpus.
+Ante o exposto,julgo prejudicadoo recurso emhabeas corpus.
+Publique-se. Intimem-se.
