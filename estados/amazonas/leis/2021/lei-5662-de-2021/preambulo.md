@@ -1,0 +1,5 @@
+LEI N. 5.662, DE 21 DE OUTUBRO DE 2021.
+
+ALTERA, na forma que especifica, a Lei n. 3.785, de 24 de julho de 2012. A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
