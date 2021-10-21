@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por ITAÚ UNIBANCO S/A, contra decisão que não admitiu recurso especial (fls. 149/155 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 69, e-STJ):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE PRESTAÇÃO DE CONTAS. FUNDO 157.1. PRESCRIÇÃO. FUNDO 157. OS VALORES INVESTIDOS NO FUNDO 157NÃO POSSUÍAM PREVISÃO DE RESGATE, TAMPOUCO DEVENCIMENTO, RAZÃO PELA QUAL NÃO INCIDE A PRESCRIÇÃO. DESTARTE, A ALEGAÇÃO DE PRESCRIÇÃO, ASSIM COMO, APOSTULAÇÃO DA APLICAÇÃO DA TEORIA DA SUPRESSIO, RESTAMRECHAÇADAS.2. HONORÁRIOS ADVOCATÍCIOS. EM QUE PESE O ART. 550, § 5º, DOCPC DISPONHA QUE O PROVIMENTO QUE RESOLVE A PRIMEIRA FASEDA AÇÃO DE PRESTAÇÃO DE CONTAS SE TRATA DE DECISÃOINTERLOCUTÓRIA, NÃO SE DESCONHECE A EXISTÊNCIA DE LITÍGIOENTRE AS PARTES, NO QUAL UMA DELAS RESTARÁ VENCIDA, ALÉMDO TRABALHO DESENVOLVIDO PELOS PROCURADORES,JUSTIFICANDO, ASSIM, A FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOSPRECONIZADA NO ART. 85, §2º, DO CPC. AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.
+Opostos embargos de declaração, foram rejeitados (fls. 92/97, e-STJ).
+Em suas razões de recurso especial, o recorrente, ora agravante, apontou, além de dissídio jurisprudencial, ofensa aos artigos 1022 do CPC/15, 287, II, "a", da Lei 6404/76, 187, 205, 206, § 3º, IV e V, 422, do CC/02. Sustentou, em síntese: a) negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre a existência do prazo para exigir as contas; b)deve ser reconhecida a prescrição da pretensão.
+Após a apresentação das contrarrazões (fls. 139/146, e-STJ), o apelo não foi admitido na origem (fls. 149/155, e-STJ), dando ensejo ao agravo (fls. 163/174, e-STJ), visando destrancar o processamento daquela insurgência, no qual o recorrente refutou os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 177/181, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Inicialmente, verifica-se que a apontada violação do art. 1022 do CPC/15 não se configura, haja vista o Tribunal estadual ter dirimido clara e integralmente a controvérsia acerca da prescrição, porém em sentido contrário ao pretendido pelo agravante.
+É, aliás, o que se observa dos seguintes excertos do acórdão recorrido (fl. 66, e-STJ):
+"O objeto da presente ação de prestação de contas refere-se ao fundo fixo, denominado Fundo 157, o qual foi criado pelo governo militar pelo Decreto-Lei nº 157, de 10.2.1967, e permitia que os contribuintes que tivessem Imposto de Renda devido investissem parte deste na compra de quotas de fundos de investimento em ações. O valor investido seria abatido do total devido. Além disso, o Fundo 157 não possuía previsão de resgate, tampouco de vencimento, razão pela qual não incide à espécie qualquer prazo prescricional.".
+Portanto, verifica-se que a controvérsia foi integralmente solucionada pelo Tribunal de origem, com fundamento suficiente, não estando caracterizada a ofensa ao artigo 1.022, CPC/15, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+Nesse sentido:
+PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. AUSÊNCIA DE ANÁLISE DE QUESTÃO RELEVANTE PARA O JULGAMENTO DA LIDE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N.282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 165, 458, II, e 535, II, do CPC/1973 quando o acórdão recorrido apresenta fundamentos suficientes para embasar a decisão, enfrentando todas as questões pertinentes para a solução da lide e manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+(PET no AREsp 489.892/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 12/03/2018)
+2. Na hipótese, a Corte local ao afastar a prescrição fundamentou "Além disso, o Fundo 157 não possuía previsão de resgate, tampouco de vencimento, razão pela qual não incide à espécie qualquer prazo prescricional.  ..  Destarte, a alegação de prescrição, assim como, a postulação da aplicação da Teoria da Supressio, restam rechaçadas." (fls. 65/66, e-STJ).
+Assim, para alterar a conclusão do Tribunal local no sentido de que o Fundo 157 não possuía nenhuma previsão de resgaste ou prazo de vencimento apto a atrair a prescrição da pretensão de exigir contas ou mesmo sobre a incidência da teoria da supressio, seria necessário interpretar as cláusulas contratuais e promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor dos óbices da Súmulas 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. BANCÁRIO. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. FUNDO 157. PRESCRIÇÃO AFASTADA. SÚMULAS 5 E 7 DESTA CORTE. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem afastou a alegada prescrição da pretensão de exigir contas dos valores administrados pelo banco, sob o fundamento de que o Fundo 157, instituído pelo Decreto-Lei n. 157/1967, não possuía nenhuma previsão de resgate ou prazo de vencimento. Rever tal conclusão esbarra no óbice das Súmulas n. 5 e 7 deste Tribunal.
+2. Não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1791387/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/05/2021, DJe 05/05/2021)
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Majoro os honorários advocatícios em 10% sobre o valor fixado na instância de origem, nos termos do art. 85, §11º, do CPC/15.
+Publique-se. Intimem-se.
