@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “Recurso Inominado. Direito Administrativo. Servidor Público Inativo. Pretensão de adequação do desconto previdenciário com fulcro no § 2° do art. 9° da Lei Complementar Estadual n° 1.012/2007, alterada pela Lei Complementar Estadual n° 1.354/2020, para que incida de forma progressiva apenas sobre a diferença do valor que exceder o limite do RGPS. Ausência de ilegalidade nos descontos, que foram realizados em observância aos ditames da Lei Complementar n° 1.012/2007, alterada pela Lei Complementar n° 1.354/2020, do Decreto Estadual n° 65.021/2020 que, por sua vez, encontram guarida no art. 149, § 1°-A, da CF, com a redação que lhe deu a Emenda Constitucional 103/2019. Declaração de déficit atuarial. Ausência de violação aos princípios constitucionais da Administração Pública. Recurso provido, para julgar improcedente a demanda” (pág. 2 do documento eletrônico 11).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, ofensa ao art. 149, § 1°-A, da mesma Carta.
+    É o relatório necessário. Decido.
+    O Supremo Tribunal Federal, ao apreciar o ARE 875.958-RG/GO (Tema 933), da relatoria do Ministro Roberto Barroso, julgou haver repercussão geral na questão referente às balizas constitucionais para a majoração de alíquota de contribuição previdenciária de regime próprio de previdência social. O acórdão do referido julgado foi assim ementado:
+    “DIREITO TRIBUTÁRIO E DIREITO PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO. LEI ESTADUAL QUE ELEVA AS ALÍQUOTAS DA CONTRIBUIÇÃO PREVIDENCIÁRIA DOS SERVIDORES. ALEGAÇÃO DE INCONSTITUCIONALIDADE. PRESENÇA DE REPERCUSSÃO GERAL.
+    1. Constitui questão constitucional saber quais são as balizas impostas pela Constituição de 1988 a leis que elevam as alíquotas das contribuições previdenciárias incidentes sobre servidores públicos, especialmente à luz do caráter contributivo do regime previdenciário e dos princípios do equilíbrio financeiro e atuarial, da vedação ao confisco e da razoabilidade.
+    2. Repercussão geral reconhecida ”.
+    Nesse contexto, constato que a matéria em exame nestes autos será impactada pelo julgamento do mencionado leading case, o que impõe a submissão deste recurso ao regime da repercussão geral. Nesse sentido, destaco as seguintes decisões desta Corte, entre outras: Rcl 49.653-MC/SP, Min. Rosa Weber; Rcl 49.657/SP, Min. Alexandre de Moraes; ARE 1.340.644/SP, Rel. Min. Roberto Barroso; ARE 1.340.383/SP, Rel. Min. Fachin; Rcl 48.411/SP, Min. Dias Toffoli; e Rcl 47.009/SP, Min. Gilmar Mendes.
+    Isso posto, determino a devolução deste processo ao Tribunal de origem para que seja observado o disposto nos arts. 1.039, 1.040 e 1.041 do CPC/2015, visto que neste apelo extremo discute-se questão que será apreciada no ARE 875.958-RG/GO (Tema 933 da Repercussão Geral).
+    Publique-se.
+    Brasília, 21 de outubro de 2021.
+Ministro Ricardo Lewandowski
+Relator
