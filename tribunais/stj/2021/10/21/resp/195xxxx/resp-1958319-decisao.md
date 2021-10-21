@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SUBSTITUIÇÃO DE PENHORADE NUMERÁRIO POR SEGURO-GARANTIA.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação dos arts. 535 do CPC/1973, DOS ARTS. 591, 612, 620, 646, 655 e 659 do CPC/2015 e dos arts. 11 e 15 da Lei n. 6.830/1980, sustentando, em síntese (fls. 402/413):
+A substituição da penhora de dinheiro por fiança bancária (e, por consequência, por seguro-garantia, dada a nova redação da LEF) somente pode ocorrer com a anuência da Fazenda Pública, em regra, e que só excepcionalmente pode ocorrer a substituição de dinheiro por fiança bancária (e seguro-garantia, por identidade de razão), somente quando estiver comprovada de forma irrefutável, perante a autoridade judicial, a necessidade de aplicação do princípio da menor onerosidade.
+Contrarrazões apresentadas por UNIMED MOSSORÓ - COOPERATIVA DE TRABALHOS MÉDICOS, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (fls. 418/423).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 294/297):
+Trata-se de agravo de instrumento interposto contra decisão que, em execução fiscal, determinou a penhora de numerários via BACENJUD na conta bancária da executada.
+ ..
+O seguro garantia passou a ser expressamente aceito como forma de garantia do crédito tributário, produzindo os mesmos efeitos do depósito em dinheiro.
+Convém ressaltar, que deve ser preservado o princípio de que a execução deve ser promovida do modo menos gravoso para o executado (art. 805 CPC/2015).
+A substituição do bem penhorado pelo seguro-garantia atende aos interesses da Fazenda Pública, que terá seu crédito devidamente assegurado, não se fazendo cogente o depósito do valor.
+Assim, não há obstáculo para que se possa pedir a substituição da penhora pelo seguro garantia, desde que este preencha todos os requisitos e exigências previstos nas Portarias nºs 477/SUSEP e 164/2014
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 385/386).
+Pois bem.
+Diferentemente do que ocorre com créditos não-tributários (v.g.: AgInt no REsp 1612784/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 11/02/2020, DJe 18/02/2020), o seguro-garantia e a fiança bancária não servem à suspensão da exigibilidade do crédito tributário (v.g.: AgInt no TP 176/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/11/2019, DJe 20/11/2019).
+De fato, a Primeira Seção firmou orientação segundo a qual "a suspensão da exigibilidade do crédito tributário encontra-se taxativamente prevista no art. 151 do CTN, sendo certo que a prestação de caução, mediante o oferecimento de fiança bancária, ainda que no montante integral do valor devido, não ostenta o efeito de suspender a exigibilidade do crédito tributário, mas apenas de garantir o débito exequendo, em equiparação ou antecipação à penhora, com o escopo precípuo de viabilizar a expedição de Certidão Positiva com Efeitos de Negativa e a oposição de embargos" (REsp 1156668/DF, repetitivo, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 24/11/2010, DJe 10/12/2010).
+Portanto, o seguro-garantia e a carta-fiança são instrumentos idôneos à garantia do adimplemento da obrigação e, por isso, aptos a produzir o efeito de suspensão do processo executivo fiscal, mas não o de suspender a exigibilidade do crédito tributário cobrado. A respeito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. SEGURO-GARANTIA. AUSÊNCIA DE PREVISÃO LEGAL.
+1. Diferentemente do que ocorre com créditos não-tributários, o seguro-garantia e a fiança bancária não servem à suspensão da exigibilidade do crédito tributário, mas apenas de garantir o débito exequendo, em equiparação ou antecipação à penhora, com o escopo precípuo de viabilizar a expedição de Certidão Positiva com Efeitos de Negativa e a oposição de embargos. Precedentes.
+2. No caso dos autos, o recurso fazendário foi provido, tendo em vista o TRF da 1ª Região ter decidido de forma contrária ao entendimento jurisprudencial deste Tribunal Superior.
+3. Agravo interno não provido.
+(AgInt no REsp 1854357/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020)
+No mesmo sentido: AgInt no AREsp 1646379/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/09/2020, DJe 01/10/2020.
+Entretanto, a pretensão de substituir o dinheiro por seguro-garantia ou carta-fiança não pode ser acolhida sem a comprovação de sua necessidade.
+Com efeito, só é possível a substituição do dinheiro por fiança ou seguro-garantia, na hipótese em que a penhora possa ocasionar prejuízos desproporcionais à parte executada. Observância da regra da menor onerosidade.
+A Primeira Seção, aliás, no EREsp 1.077.039/RJ, externou entendimento segundo o qual "admite-se, em caráter excepcional, a substituição de um (dinheiro) por outro (fiança bancária), mas somente quando estiver comprovada de forma irrefutável, perante a autoridade judicial, a necessidade de aplicação do princípio da menor onerosidade".
+Ainda a respeito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973 NÃO CONFIGURADA. EXECUÇÃO FISCAL. VALORES BLOQUEADOS VIA BACENJUD. ALEGAÇÃO DE QUE A MANUTENÇÃO DO BLOQUEIO PODERIA COMPROMETER AS ATIVIDADES DA EMPRESA. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+ ..
+2. O STJ entende que, em sede de execução fiscal, a parte devedora não tem direito subjetivo automático à substituição da penhora em dinheiro por outros bens, podendo ser deferida apenas nos casos em que ficar comprovado que a manutenção da garantia sobre o numerário revela-se excessivamente onerosa, em manifesto prejuízo ao exercício das atividades normais da empresa (AgInt no REsp. 1.789.026/RS, Rel. Min. GURGEL DE FARIA, DJe 2.8.2019).
+3. Na hipótese dos autos, conforme consta do acórdão recorrido, a executada/agravante nada demonstrou a respeito da imprescindibilidade do montante bloqueado para a continuidade das atividades empresariais. Assim, o acolhimento das alegações deduzidas no Apelo Nobre ensejaria a incursão no acervo fático-probatório da causa, o que é vedado em sede de Recurso Especial.
+4. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no REsp 1619571/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. PENHORA DE NUMERÁRIO. ORDEM LEGAL. SUBSTITUIÇÃO DOS BENS OFERTADOS. INTERESSE DO CREDOR E MENOR ONEROSIDADE. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. A Primeira Seção desta Corte Superior, quando do julgamento do REsp 1.337.790/PR, realizado na sistemática dos recursos repetitivos, sedimentou entendimento segundo o qual a parte executada deve nomear bens à penhora com a observância da ordem legal de preferência estabelecida no art. 11 da Lei n. 6.830/1980, a qual, por força do princípio da menor onerosidade, só poderá ser mitigada mediante comprovada necessidade.
+2. A penhora em dinheiro, por si só, não revela a excessiva onerosidade, competindo ao devedor o ônus de comprovar in concreto que a indisponibilidade dos recursos financeiros põe em risco a sua subsistência e indicar outras garantias igualmente eficazes para a satisfação do crédito.
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+4. Hipótese em que o Tribunal de origem, fundado no acervo fático e probatório carreado aos autos, consignou que seria hipótese de substituição das garantias anteriormente ofertadas por penhora de numerário, sendo os bens penhorados anteriormente insubsistentes para fazer frente à satisfação do crédito executado, não havendo demonstração pelo recorrente de ofensa ao princípio da menor onerosidade.
+5. Agravo interno desprovido.
+(AgInt no AREsp 870.439/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/08/2019, DJe 20/08/2019)
+Não obstante, não sendo tema passível de preclusão, eventual desproporcionalidade da medida constritiva deve ser demonstrada perante o juízo da execução, e não na via do recurso especial, tendo em vista essa conclusão não poder ser adotada sem exame de provas. V.g.: AgInt no AgInt nos EDcl no REsp 1792568/SP, Rel. Ministro Gurgel De Faria, Primeira Turma, julgado em 10/02/2020, DJe 14/02/2020; AgInt no AREsp 1682592/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/02/2021, DJe 02/03/2021.
+No caso dos autos, após a citação, foi penhorado ativos financeiros da devedora por meio do BACENJUD, mas, com o provimento de agravo de instrumento, o Tribunal Regional Federal permitiu a substituição pelo seguro garantia, mas nada teceu a respeito da necessidade de tal providência, embora seja questão relevante para a correta solução da controvérsia.
+Nesse contexto, o recurso deve ser provido com a cassação do acórdão recorrido e com a determinação de retorno dos autos ao Tribunal Regional Federal para que, atento às alegações das partes e à prova dos autos, julgue novamente o agravo de instrumento.
+Ante o exposto, dou provimento ao recurso especial, casso o acórdão recorrido e determino o retorno dos autos ao Tribunal Regional Federal para que, atento às alegações das partes e à prova dos autos, julgue novamente o agravo de instrumento.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA DE DINHEIRO VIA BACENJUD. AGRAVO DE INSTRUMENTO. OFERECIMENTO DE SEGURO-GARANTIA. ACÓRDÃO RECORRIDO PELA POSSIBILIDADE DE SUBSTITUIÇÃO. FUNDAMENTO INSUFICIENTE. PRINCÍPIO DA MENOR ONEROSIDADE. ANÁLISE DA NECESSIDADE DA SUBTITUIÇÃO. OBRIGATORIEDADE. RECURSO PROVIDO.
