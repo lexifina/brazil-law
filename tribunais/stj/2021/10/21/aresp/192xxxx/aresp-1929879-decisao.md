@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial manifestado em face de acórdão assim ementado:
+Ação declaratória de inexistência de débito. Dano moral.Contrato para uso de cartão de crédito. Prova do negócio extintivos do direito postulado na petição inicial. Ônus do qual a ré se desincumbiu.
+Exibição do instrumento de contrato e das faturas impagas. Impugnação genérica dos documentos acostados pela ré que não favorece o autor. Débito legítimo. Não demonstração do regular adimplemento.Correta inserção do nome do queixoso nos cadastros de inadimplentes.
+Imposição, de ofício, de multa ao autor, por evidente litigância de má-fé, dada a alteração da verdade dos fatos.
+Improcedência dos pedidos. Manutenção.
+Apelação denegada.
+Os embargos declaratórios opostos foram rejeitados.
+Em suas razões do recurso, o agravante sustentou violação dos arts. 373, II, 489,II e § 1º, IV, e 1022 e 1025 doCódigo de Processo Civil/15;4º, I,43, § 1º c/c6º, VIII , 14, 71, 72, 73 do Código de Defesa do Consumidor. Alegou negativa de prestação jurisdicional. Argumentou que "A relação jurídica não foi negada o que negou e nega é a dívida apontada, posto que o recorrente não contraiu dívida alguma e o recorrido não apresentou o título que corresponda ao dado apontado, concluindo-se que divulgou o dado sem que o mesmo tenha lastro em divida que fosse assumida pelo recorrente" (fl. 213).
+Afirmou que "o réu limitou-se a sustentar que efetuou o apontamento legitimamente, mas NÃO demonstrou a existência do título correspondente, portanto, não cabe ao v. acórdão AFRONTAR A LEI E A JURISPRUDÊNCIA DO E. STJ, EM NÍTIDA PROTEÇÃO AO PODER ECONÔMICO, ajustar as discrepâncias não justificadas pelo réu (artigo 373, inciso II do CPC e artigo 6º, VIII, do CDC)" (fl. 213).
+Afirmou que, "Obviamente, para lançar esse apontamento, o recorrido deveria ter em mãos o título que expresse valores e vencimentos correspondentes e como restou demonstrado nos autos, não há título.Não há correspondência entre o que foi apontado e as faturas apresentadas, e isso é o que basta para que se constatasse que a lei não foi atendida" (fl. 214).
+Assim delimitada a controvérsia, passo a decidir.
+No tocante às alegações de ofensa ao art. 1.022 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar.
+Isso porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1º/3/2016.
+Com efeito, verifico que a Corte local decidiu a questão com base no conjunto probatório disposto nos autos, conforme se depreende da leitura do seguinte trecho(fls. 181-183e-STJ):
+A ré, em defesa, comprovou mediante a exibição do instrumento de contrato para uso de cartão de crédito firmado entre as partes, além dos extratos das faturas, a existência da relação jurídica bem como a do débito, demonstrado, ainda, o valor inadimplido. O autor, por sua vez, optou, em replica, por tecer argumentações ligadas ao Código de Defesa do Consumidor e genericamente impugnou os documentos exibidos pela ré, o que, contudo, não surte o efeito desejado de impugnação especificada. Tais documentos seguramente comprovam tanto a relação jurídica existente entre as partes como o débito objeto da inserção do nome nos referidos cadastros.
+Atente-se que o valor negativado é consentâneo com aquele apresentado nos documentos e se refere ao período do mês de abril do ano de 2016.
+A genérica impugnação do autor sobre os documentos exibidos pela ré francamente não lhe favorece, tampouco a afirmação de que desconhece a origem da dívida, após todo o aparato probatório em sentido contrário.
+Não se olvide que o Código de Defesa do Consumidor não é um código de benesses e a insistência do autor à aplicabilidade do artigo 43, parágrafo 1º, novamente, não surte o efeito desejado.
+Daí porque, satisfatoriamente infirmados os fatos relatados na inicial, agiu a ré em regular exercício de direito ao denunciar o nome do autor para referidos órgãos, dada a inadimplência."
+Nesse contexto, cumpre anotar que o Tribunal estadual concluiu queo débito era legítimo, não ficandodemonstradoo regular adimplemento, sendo correta a inserção do nome do queixoso nos cadastros de inadimplentes, no presente caso.
+Assim, a desconstituição das conclusões do acórdão recorrido, na forma como pretendida, demandaria o reexame do acervo fático disposto nos autos, procedimento que, em sede de especial, encontra óbice no enunciado n. 7 da Súmula do STJ.
+Diante do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de concessão de assistência judiciária gratuita.
+Intimem-se.
