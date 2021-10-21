@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei ajuizado por Pedro Gomes Viana, com fundamento nos arts. 14, § 4º, da Lei n. 10.259/2001 e 36 do RISTJ, contra decisão da Presidência da Turma Nacional de Uniformização, que não conheceu do agravo interno, nos termos do art. 29 do RITNU.
+O requerente "entende" que os requisitos legais para o processamento do pedido de uniformização estariam preenchidos, porque a supressão desarrazoada do instrumento lesiona o direito material da parte, que fica alijado dessa garantia contra decisões prolatadas no âmbito dos juizados especiais.
+É o relatório. Passo a decidir.
+É ressabido que o pedido de uniformização de interpretação de lei perante o STJ tem como requisito a divergência na interpretação do direito material, nos termos do art. 14 da Lei n. 10.259/2001. Confira-se a literalidade da norma:
+Lei 10.259/2001
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+ ..
+§ 4º Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça -STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Cabe anotar que o requente pleiteou na origem a implantação em contracheque da GDAPEC em valor idêntico ao que vem sendo pago aos servidores ativose condenar a demandada no pagamento da diferença pecuniária existente entre aquilo que fora pago aos servidores ativos, a título de GDAPEC até que seja efetivamente implantada a atual gratificação.
+A Presidência da Turma Nacional de Uniformização inadmitiu o incidente ao fundamento de que (fls. 148-149):
+ ..
+Sob essa perspectiva, nota-se que o acórdão recorrido está conforme o entendimento da TNU, no sentido de que as diferenças da gratificação de desempenho são devidas até que sejam regulamentados critérios e procedimentos específicos de avaliação de desempenho e processados os resultados da primeira avaliação individual/institucional.
+ ..
+Logo, incide a Questão de Ordem n. 13/TNU: "Não se admite o Pedido de Uniformização, quando a jurisprudência da Turma Nacional de Uniformização dos juizados Especiais Federais se firmou no mesmo sentido do acórdão recorrido".
+A pretensão de alterar as conclusões da origem implica vedada revisão de provas. É o que enuncia a Súmula n. 42/TNU: "Não se conhece de incidente de uniformização que implique reexame de matéria de fato".
+ ..
+O agravo interno não foi conhecido ao entendimento de que "o art. 29 do RITNU afasta a possibilidade da interposição de agravo interno contra decisões (monocráticas) do Presidente da TNU, haja vista que o seu cabimento ficou restrito às decisões (monocráticas) do relator" (fl. 174).
+Como se denota, a requerente se insurge contra decisão da Presidência da TNU que não conheceu do agravo interno pautada em questão de direito processual. Assim, o indeferimento liminar do pedido aqui deduzido é medida que se impõe, haja vista a ausência de enfrentamento de questão de direito material por parte da Turma Nacional de Uniformização.
+A propósito:
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. REAJUSTES DE REMUNERAÇÃO, PROVENTOS OU PENSÃO. INCIDÊNCIA DO ART. 14 DA LEI N. 10.259/2001. INCIDENTE DE UNIFORMIZAÇÃO. PEDIDO CONTRA DECISÃO COLEGIADA. INOCORRÊNCIA. INCIDÊNCIA DO ART. 16 DO RITNU. JULGADO IRRECORRÍVEL. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. INEXISTENTE. ENTENDIMENTO FIRMADO POR JURISPRUDÊNCIA DO STJ.
+I - Na origem trata-se de incidente de uniformização nacional interposto pela parte autora em face de acórdão proferido pela Turma Recursal que afastou a prescrição do fundo de direito, mas julgou improcedente o pleito autoral de reajuste de vencimentos alusivo à URP de abril e maio de 1988, correspondente a 7/30 de 16,19%. Não se admitiu o pedido de uniformização considerando que a jurisprudência da TNU firmou-se no mesmo sentido do acórdão recorrido. Interposto, agravo regimental negou-se seguimento ao incidente de uniformização em decisão monocrática.
+II - Dispõe o art. 14, § 4º, da Lei 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ. Nesse sentido, confira-se o julgado: AgRg na Pet 7.549/PR, 3ª Seção, Min. Og Fernandes, DJe de 8/4/2010.
+III - Conclui-se, portanto, que os pedidos de uniformização de interpretação de lei federal dirigidos ao STJ somente serão cabíveis contra decisão colegiada da TNU, que examina questão de direito material, em contradição à súmula ou jurisprudência dominante do STJ.
+IV - No caso em comento, houve somente decisão monocrática do Presidente da TNU que, ao conhecer do agravo interno, negou seguimento ao incidente, com fundamento no art. 16, §1º, do RITNU, visto que os julgados proferidos pelo presidente da TNU são irrecorríveis. Nesse sentido: STJ, AgRg na Pet 9.586/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Sção, DJe de 25/04/2014.
+V - Ainda que assim não fosse, melhor sorte não socorreria ao recorrente, eis que o acórdão recorrido encontra-se em consonância com o decidido por esta Corte Superior a respeito do tema posto em discussão.
+VI - Ademais, esta Corte Superior, no julgamento do PUIL n. 195/SE, Rel. Min. Assusete Magalhães, ao analisar situação análoga, adotou o seguinte entendimento, plenamente aplicável ao caso em discussão: "(..) Na hipótese dos autos, o presente incidente foi manejado contra acórdão da Turma Nacional de Uniformização que não conheceu do incidente lá apresentado ante a Questão de Ordem 13 da TNU. bem como ao argumento de que os julgados indicados como divergentes não se coadunavam com a decisão então recorrida, que havia utilizado fundamento diverso para não reconhecer o direito vindicado na ação.
+Nesse contexto, não houve qualquer juizo acerca da questão de direito material. No mesmo sentido: STJ. PUIL 404/CE. REL. Min, Gurgel de Faria. DJe de 23/10/2017, Pet 11.103/SE. Rei. Ministro Napoleão Nunes Maia Filho. DJe 29/02/2016: Pet 11.302/SE. Rel. Ministro Maurco Campbell Marques. (..)"
+VII - Agravo interno improvido.
+(AgInt no PUIL 927/PI, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 22/3/2019)
+No mesmo sentido: AgIn no PUIL 864/MS, Rel. Min. Francisco Falcao, Primeira Seção, DJe22/3/2019; AgInt no PUIL 926/RN, Rel. Min. Gurgel de Faria, Primeira Seção, DJe26/3/2019; AgInt no PUIL 790/RN, Rel. Min. Assusete Magalhães, Primeira Seção, DJe11/3/2019; AgInt no PUIL 1.029/PB. Rel. Min. Regina Helena Costa, DJe27/2/2019.
+Ante o exposto, não conheço do pedido de uniformização interpretação de lei com fundamento no art. 34, XVIII, "a" do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DECISÃO DA PRESIDÊNCIA DA TNU QUE NÃO CONHECEU DO AGRAVO INTERNO. QUESTÃO DE DIREITO MATERIAL POR PARTE DA TURMA NACIONAL DE UNIFORMIZAÇÃO. AUSÊNCIA. PEDIDO NÃO CONHECIDO.
