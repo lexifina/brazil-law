@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl.551):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EMRECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 E 489 DO CPC2015. NÃO OCORRÊNCIA. PROCESSO ADMINISTRATIVO. INSTRUÇÃO PROBATÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO E NEGAR-LHE PROVIMENTO.
+O agravante alega que houveviolação dos art. 489, § 1º, IV, e 1.022 do CPC, sob o argumento de que "não foi analisada a absoluta imprestabilidade das supostas "provas"utilizadas pelo PROCON e consequente violação ao quanto disposto no art. 408, parágrafo único, do Código de Processo Civil, e no art. 6º, VIII, do Código de Defesa do Consumidor" (f. 562).
+Quanto à questão de fundo, sustenta não incidir a Súmula 7 do STJ. Isso porque "a questão em exame não diz respeito ao reexame de suposta prova que teria sido produzida na ação, mas sim (..) à (im)possibilidade de o PROCON se utilizar de expedientes unilaterais para aplicar multa aos fornecedores de produtos e serviços, utilizando-se do benefício da inversão do ônus da prova, na seara administrativa, previsto no Código de Defesa do Consumidor" (fl. 563). Aduz que os pré-atendimentossão reclamações desprovidas de qualquer fundamento e não trazem qualquer comprovação de conduta supostamente infrativa da empresa.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ART. 1.022 E 489 DO CPC/2015. NÃO OCORRÊNCIA. AÇÃO ANULATÓRIA. MULTA APLICADA PELO PROCON. COMPROVAÇÃO DAS CONDUTAS LESIVAS.REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Afasta-se a alegada violação dos artigos 1.022 e 489 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. A revisão da conclusão a que chegou o Tribunal de origem, na forma pretendida pelos recorrentes, demandaria o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porqueo acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Confira-se (fl. 347-348):
+Embora o Apelante afirme que a autuação foi lavrada com fundamento em expedientes sem qualquer conteúdo probatório, é possível observar do teor do processo administrativo que referida peça foi instruída com diversos atendimentos relatando reclamações de consumidores.
+Além disso, é possível verificar que o Apelante não produziu contraprova no sentido de infirmar a imputação que lhe foi feita, nem pretendeu produzi-la.
+As condutas praticadas pelo Apelante foram devidamente particularizadas no auto de infração, sendo apontados, um a um, os atendimentos de reclamações de consumidores que tiveram seus pedidos indevidamente rejeitados ou mal atendidos. Cabia ao Apelante, dentro do processo administrativo, produzir provas hábeis a infirmar as acusações que lhe foram feitas, sendo que, se cingiu em questionar de forma absolutamente genérica os termos do auto de infração.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Da mesma forma, afasta-se a alegada afronta ao artigo 489, § 1º, IV, do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+No que diz respeito à questão de fundo, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o processo administrativo foi devidamente instruído, particularizadas as condutas praticadas pela agravante, que não logrou êxito em infirmar referido acervo probatório.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
