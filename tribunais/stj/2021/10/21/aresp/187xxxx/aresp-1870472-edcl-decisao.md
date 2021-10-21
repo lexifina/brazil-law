@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UNITRA IMÓVEIS LTDA.em face de decisão que não conheceu do agravo em recurso especial diante de sua intempestividade.
+O embargante, em suas razões, sustenta que se de um lado foi decidido por majorar os honorários, por consequência o recurso foi recebido e merece acolhimento. Por outro lado, repisa fundamentos de mérito de seu recurso especial. Por fim, argui que a decisão merece reconsideração, visto que o pedido é para o direito à ampla defesa garantida constitucionalmente através do art. 5º, LV, da Constituição Federal.
+O prazo para impugnação transcorreu in albis (fl. 1076).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+Dito isso, verifica-se que a decisão ora embargada concluiu pela intempestividade do agravo em recurso especial interposto em 10/12/2020, pois a decisão que inadmitiu o recurso especial foi disponibilizada no Diário de Justiça Eletrônico em 13/11/2020 (sexta-feira), considerando-se publicada no dia 16/11/2020 (segunda-feira), de maneira que o prazo para interposição do agravo em recurso especial teve início em 17/11/2020 (terça-feira) e término em 7/12/2020 (segunda-feira).
+Verifica-se, portanto, que a parte embargante, sequer aponta qualquer vício a macular a decisão ora embargada ao tempo em que busca ver examinado seu agravo em recurso especial, interposto intempestivamente.
+Ora, a jurisprudência desta Corte alerta que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em24/05/2016, DJe 31/05/2016).
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
+Brasília, 21 de outubro de 2021.
+Sérgio Kukina
+Relator
