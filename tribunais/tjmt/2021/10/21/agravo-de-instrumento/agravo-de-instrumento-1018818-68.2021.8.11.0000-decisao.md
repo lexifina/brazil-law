@@ -1,0 +1,27 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o.2021.8.11.0000
+Vistos etc.
+Cuida-se de Recurso de Agravo de Instrumento interposto pela UNIMED CUIABA COOPERATIVA DE TRABALHO MEDICO em virtude da decisão proferida pelo Juiz da 2.a Vara Cível de Várzea Grande que, nos autos da Ação Declaratória de Inexistência de Débito c/c Indenização por Danos Morais n.o 1030421-35.2021.8.11.0002, ajuizada por LATICÍNIO SERRANO EIRELI ME. e M. C. M. N. D. L., esta representada por sua genitora RENATA COSTA MARQUES NEVES, deferiu tutela de urgência e determinou que a Cooperativa Agravante suspenda a cobrança relativa à coparticipação (ID 66799055- Ação Principal).
+Essa decisão foi complementada pelo decisum ID 67787716, em virtude do acolhimento de Embargos de Declaração, nos seguintes termos:
+“Determino que ré Unimed Cuiabá – Cooperativa de Trabalho Médico suspenda e desmembre a cobrança da coparticipação sobre a fatura do mês de setembro, no valor de R$ 10.626,35 (dez mil, seiscentos e vinte e seis reais e trinta e cinco centavos), com vencimento para 20/09/2021, bem como se abstenha de lançar nas faturas futuras a coparticipação e de interromper o plano de saúde quanto a fatura ora em discussão, até o deslinde desta lide, sob pena de multa diária de R$ 1.000,00 (mil reais), limitada ao valor da causa. (Sem grifos no original)
+Inconformada, a Agravante aduz que não estão presentes dos requisitos autorizadores da tutela de urgência concedida pelo juízo a quo.
+Nas razões recursais, sustenta que, por se tratar de contrato na modalidade de coparticipação, há previsão expressa da cobrança de 30% (trinta por cento) dos valores pagos em consultas, exames de rotina, exames especializados e atendimentos ambulatoriais.
+Assevera que “nessa modalidade (coparticipação), o consumidor divide com a operadora do plano de saúde os riscos do atendimento, devendo desembolsar uma porcentagem do custo de todo atendimento médico, ambulatorial ou hospitalar quando utilizado”, motivo pelo qual não há falar em ilegalidade na cobrança em discussão.
+Por fim, alega que “não é obrigada a suportar sozinha e de forma integral o tratamento da requerente, sob pena de arcar com custos superiores ao contratado” e, sendo a coparticipação cobrada nos limites contratuais (30%), a reforma da decisão agravada é medida que se impõe .
+Com esses argumentos, pugna pela concessão do efeito suspensivo e, no mérito, o provimento do recurso.
+É o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se enquadra no artigo 1.015, inciso I, do CPC, bem como está instruído com os documentos necessários para sua análise e conhecimento.
+É cediço que o artigo 1.019, inciso I, do Código de Ritos dispõe sobre a possibilidade de o Relator conceder efeito suspensivo ao recurso, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do mesmo codex estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Da análise do conteúdo do instrumental, em juízo provisório e nos estritos limites da cognição sumária permitida nesta fase processual, não vislumbro os pressupostos autorizadores para deferimento do efeito suspensivo vindicado.
+Com efeito, embora a parte Recorrente afirme a existência de probabilidade do direito e que a manutenção da decisão lhe causará custos elevados, a irreversibilidade desse custo não está comprovada.
+Conforme ID 67787716 da Ação Principal, o Juiz singular foi claro ao consignar que a suspensão da fatura de setembro, bem como das faturas futuras se refere à cobrança da coparticipação até o deslinde da lide, isto é, a Cooperativa Agravante deverá emitir normalmente as novas faturas sem a inclusão do valor cobrado a título de coparticipação.
+Nesse cenário, ao menos nesta fase de análise perfunctória, não há demonstração de situação que implique perigo de dano decorrente do status atual até o julgamento do mérito recursal.
+Destarte, a Recorrente fez prova do recebimento de fatura no valor de R$ 10.626,35 (dez mil, seiscentos e vinte e seis reais e trinta e cinco centavos) “sem qualquer detalhamento sobre o custo originário da terapia e qual o percentual cobrado de coparticipação”, e por isso, alterar ou sobrestar os efeitos da decisão recorrida, ao menos neste momento, certamente ocasionará danos à Agravada, parte mais frágil da relação contratual (ID 65896821- Ação Principal).
+No que tange às astreintes, também não vislumbro perigo da demora, pois a multa será aplicada somente se a Agravante descumprir a determinação judicial no prazo estipulado, o que ela própria tem possibilidade de evitar. Assim, não sobressaem motivos para inferir que a espera pelo julgamento de mérito deste recurso colocará em risco a eficácia do provimento final.
+Portanto, ausentes os requisitos legais, indefiro o pedido de efeito suspensivo.
+Intime-se a parte agravada para, querendo, apresentar contraminuta, nos termos do art. 1.019, II, do CPC.
+Considerando que no recurso há interesse de incapaz (M. C. M. N. D. L.), encaminhem-se os autos à Procuradoria Geral de Justiça, nos termos do artigo 179, inciso II, do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 20 de outubro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
