@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATEUS FEITOZA DE AZEVEDO, apontando como autoridade coatora o eg. Tribunal de Justiça do Estado de Alagoas.
+Depreende-se dos autos que o pacientefoi denunciado e pronunciado, pela prática do crime dehomicídio previsto no artigo 121, § 2º, inciso III, do Código Penal.
+A Defesa interpôs recurso em sentido estrito pleiteando a absolvição sumária do paciente por ausência de provas.
+Daí o presente habeas corpus, no qual alega a defesa a existência de constrangimento ilegal, em razão do excesso de prazo para o julgamento do recurso em sentido estrito interposto pela defesa em novembro de 2020.
+Pleiteia a revogação da sua prisão preventiva com a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 26-27.
+Informações prestadas às fls. 33-36.
+O d. Ministério Público Federal manifestou, às fls. 38-41, pela Prejudicialidade do writ, em parecer que restou assim ementado:
+"HABEAS CORPUS. HOMICÍDIO. PRONÚNCIA. EXCESSO DEPRAZO. JULGAMENTO DO RECURSO EM SENTIDO ESTRITO.PERDA DE OBJETO. PREJUDICIALIDADE SUPERVENIENTE.
+1. A superveniência do julgamento do recurso em sentido estrito peloTribunal de origem esvazia a pretensão manejada neste writ desanar a suposto excesso de prazo consistente na omissão doTribunal de origem em apreciar o mencionado recurso.
+2. Parecer pelo não conhecimento do habeas corpus em face da suaprejudicialidade" (fl. 38).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça,em seu art.34, inciso XX, permite ao relator"decidir ohabeas corpusquando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal,a jurisprudência dominante acerca do temaou as confrontar".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata dehabeas corpus substitutivo de recurso próprio.
+Quanto a alegação de excesso de prazopara o julgamento do recurso em sentido estrito interposto pela defesa em novembro de 2020, opedido está prejudicado.
+Em consulta ao sítio do Tribunal de origem (www.tjal.jus.br),em 6/10/2021. ocorreu o julgamento do Recurso em Sentido Estrito n.0700007-12.2018.8.02.0026 pela Câmara Criminal do TJAL, que negou provimentoao recurso defensivo.
+Quanto ao pleito de revogação da prisão preventiva com aplicação de medidas cautelares diversas da prisão,verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Ilustrativamente:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. ART. 41 DO CPP. ATIPICIDADE. NÃO AFASTADA DE PLANO. APROFUNDADO REEXAME DO ACERVO FÁTICO E PROBATÓRIO. INVIABILIDADE NESTA VIA ESTREITA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RECURSO ORDINÁRIO DESPROVIDO.
+I - O trancamento da ação penal constitui medida de exceção, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, inépcia da inicial acusatória, atipicidade da conduta, presença de causa de extinção de punibilidade ou ausência de prova da materialidade ou de indícios mínimos de autoria.
+II - Nos termos do art. 41 do CPP, a denúncia conterá a "exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas".
+III - No caso, a exordial acusatória descreveu os fatos criminosos, em tese, praticados, individualizando as condutas dos recorrentes de forma até mesmo exaustiva para a complexidade da causa, assim, compatível com a fase processual, além de adequada a garantir o exercício da ampla defesa e do contraditório.
+IV - Segundo pacífica jurisprudência desta Corte Superior, a propositura da ação penal exige tão somente a prova da materialidade e a presença de indícios mínimos de autoria. Prevalece, na fase de oferecimento da denúncia, o princípio do in dubio pro societate.
+V - No presente caso, é possível verificar a presença dos indícios mínimos necessários para a persecução penal, sendo certo que o acolhimento da tese defensiva - atipicidade das condutas - demandaria necessariamente amplo reexame da matéria fático-probatória, procedimento, a toda evidência, incompatível com a via do habeas corpus e do seu recurso ordinário. Precedentes.
+VI - A decisão que recebe a denúncia (CPP, art. 396) e aquela que rejeita o pedido de absolvição sumária (CPP, art. 397), não demandam motivação profunda ou exauriente, considerando a natureza interlocutória de tais manifestações judiciais, sob pena de indevida antecipação do juízo de mérito, que somente poderá ser proferido após o desfecho da instrução criminal, com a devida observância das regras processuais e das garantias da ampla defesa e do contraditório. Precedentes.
+VII - No caso concreto, não tendo se manifestado o eg. Tribunal a quo acerca das medidas cautelares diversas da prisão preventiva, não compete a esta Corte Superior analisar a matéria em supressão de instância, nos termos do entendimento consolidado neste Tribunal Superior, verbis: "No seio de habeas corpus, não é possível conhecer de temas não tratados na origem, sob pena de supressão de instância" (AgRg no HC n. 400.382/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 23/06/2017).
+Recurso ordinário em habeas corpus desprovido." (RHC 109.737/PR, Quinta turma, rel. min. Felix Fischer, DJe de 04/06/2019-grifei.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de habeas corpus.
+Ante o exposto, com fulcro no art. 34,inciso XX, do RISTJ,não conheço dohabeas corpus.
+P. e I.
