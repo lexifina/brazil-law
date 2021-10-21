@@ -1,0 +1,1 @@
+Artigo 31 - Os cargos do Quadro de Ensino das Secretarias da Segurança Pública, Esportes e Turismo, Cultura, Ciência e Tecnologia, Agricultura e Saúde, passam a integrar os Quadros das respectivas Secretarias, ficando os indicados no Anexo V, com suas denominações, referências, Parte e Tabela alteradas na forma nela indicada.

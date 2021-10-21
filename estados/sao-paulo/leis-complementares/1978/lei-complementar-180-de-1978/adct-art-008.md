@@ -1,0 +1,8 @@
+Artigo 8.º - Para efeito do disposto no artigo 3.º destas Disposições Transitórias, tratando-se de ocupantes de cargos de Agente Fiscal de Rendas, observar-se-ão, aplicada a Tabela I prevista no inciso I do artigo 64 desta lei complementar, as seguintes regras de enquadramento:
+I - apurar-se-á o valor correspondente à soma das parcelas percebidas pelo funcionário com base na legislação vigente em 28 de fevereiro de 1978, a título de:
+a) 2/3 (dois terços) do padrão do cargo;
+b) quotas atribuídas ao cargo na forma do § 2.º do artigo 5.º da Lei Complementar n.º 112, de 15 de outubro de 1974;
+c) adicional por tempo de serviço, previsto no inciso VIII do artigo 92 da Constituição do Estado (Emenda n.º 2), de que tratam os artigos 13 da Lei n.º 6.043, de 20 de janeiro de 1961; 127 da Lei n.º 10.261, de 28 de outubro de 1968; e 28 do Decreto-lei Complementar n.º 11, de 2 de março de 1970;
+d) outras vantagens pecuniárias, exceto a sexta-parte da remuneração, sobre as quais haja incidência de adicional por tempo de serviço aludido na alínea anterior, desde que não fixadas em número de quotas atribuídas em decorrência das extintas função gratificada e gratificação «pro labore» ou do prêmio de produtividade;
+II - o resultado da soma apurada na forma do inciso anterior será multiplicado pele coeficiente de enquadramento referente à classe a que pertença o cargo, constante do Anexo II;
+III - o cargo do funcionário será enquadrado na referencia numérica cujo valor seja igual ao valor obtido na operação prevista no inciso anterior, respeitado o grau em que se encontrar classificado na referência atual.

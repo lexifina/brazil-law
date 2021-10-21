@@ -1,0 +1,4 @@
+Artigo 9.º - Obtido o resultado final decorrente da aplicação das regras previstas nos artigos 4.º a 8.º destas Disposições Transitórias, e respeitado o grau em que se encontrar classificado o funcionário ou servidor, far-se-á o enquadramento mediante observância das seguintes disposições:
+I - se o resultado obtido não for igual ao valor exato de uma referência, o cargo ou função-atividade será enquadrado na referência à qual corresponda o valor mais próximo;
+II - se o resultado obtido for inferior ao valor fixado para a referência inicial da classe, o enquadramento do cargo ou da função-atividade far-se-á nessa referência inicial;
+III - se o resultado obtido for superior ao valor fixado para a referência final da classe, o enquadramento far-se-á na referência à qual corresponda o valor mais próximo do referido resultado, independentemente da amplitude de vencimentos fixada para a classe.

@@ -1,0 +1,1 @@
+Artigo 37 - Dentro de 90 (noventa) dias da vigência desta lei complementar as Secretarias farão publicar a relação dos cargos e funções e dos respectivos titulares, abrangidos pelos artigos 29, 30 e 31 destas Disposições Transitórias.

@@ -1,0 +1,1 @@
+Artigo 34 - O disposto nos artigos 29, 30 e 31 destas Disposições Transitórias aplica-se nas mesmas bases e condições aos inativos, aos extranumerários e aos servidores admitidos nos termos do inciso I do artigo 1.º da Lei n.º 500, de 13 de novembro de 1974, cujas funções tenham denominações idênticas as constantes do Anexo V.

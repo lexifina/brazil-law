@@ -1,0 +1,2 @@
+Artigo 21 - Na hipótese de que trata o § 1.º do artigo anterior, o cargo ou função-atividade será reenquadrado, em referência situada tantas referências acima da inicial da mesma classe, quanto for a parte inteira da divisão, por 5 (cinco), do número de pontos atribuídos com fundamento no referido dispositivo.
+Parágrafo único - O reenquadramento de que cuida este artigo vigorará a partir do primeiro dia do mês subsequente ao da vigência desta lei complementar.

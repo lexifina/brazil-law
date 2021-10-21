@@ -1,0 +1,8 @@
+Artigo 51 - Será integrado na classe de Agente do Serviço Civil, de que trata o artigo 14 destas Disposições Transitórias, mantido o respectivo grau, quando for o caso, bem como a situação de efetividade, o funcionário do Quadro da Secretaria da Assembléia Legislativa, dos Quadros das Secretarias dos Tribunais, das Autarquias e de Municípios, do Estado, que preencha, cumulativamente, os seguintes requisitos: (NR)
+I - seja, na Assembléia Legislativa, nos Tribunais, nas Autarquias ou nos Municípios, do Estado, titular de cargo efetivo com mais de 15 (quinze) anos de serviço público ou nele tenha sido investido em virtude de concurso público. (NR)
+II - esteja ocupando ou exercendo em 28 de fevereiro de 1978, cargo em comissão do Quadro da Administração direta;
+III - conte, na data da publicação desta lei complementar, pelo menos, 2 (dois) anos contínuos ou não de exercício em cargos de provimento em comissão ou de função de assessoramento, dos Quadros da Administração direta.
+§ 1.º - Far-se-á a integração na forma estabelecida no Anexo IV para o cargo em comissão que o funcionário estiver exercendo na data da publicação desta lei complementar.
+§ 2.º - A integração prevista neste artigo dependerá de requerimento a ser formulado, dentro de 30 (trinta) dias, contados da data da publicação desta lei complementar.
+§ 3.° - Aplica-se o disposto neste artigo, inversamente, ao funcionário da Administração direta que esteja ocupando, em 28 de fevereiro de 1978, cargo de provimento em comissão de autarquia do Estado.
+§ 4º - O disposto neste artigo aplica-se, também, ao funcionário público da União que preencha as condições nele previstas. (NR)

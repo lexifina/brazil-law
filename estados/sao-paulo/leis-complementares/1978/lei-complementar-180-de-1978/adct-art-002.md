@@ -1,0 +1,3 @@
+Artigo 2.º - Os atuais funcionários ou servidores ocupantes de cargos ou funções abrangidos pelo Regime de Dedicação Exclusiva a que alude o artigo 75 desta lei complementar, que ainda estejam em Jornada Comum de Trabalho, somente poderão ser incluídos em Jornada Completa de Trabalho mediante convocação pela autoridade competente.
+§ 1.º - A admissão de servidores para o desempenho de funções de serviço público de natureza permanente condiciona-se à prévia convocação, quando cabível, dos atuais funcionários ou servidores da respectiva unidade administrativa em Jornada Completa de Trabalho.
+§ 2.º - Vetado.

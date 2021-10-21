@@ -1,0 +1,1 @@
+Artigo 57 - Fica dispensada da inscrição de que trata o artigo 134 a funcionária ou servidora cujo marido seja contribuinte obrigatório, desde que, em decorrência de legislação anterior, tenha optado por essa situação.

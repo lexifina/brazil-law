@@ -1,0 +1,1 @@
+Artigo 42 - O disposto no § 2.º do artigo 78 não se aplica ao funcionário ou servidor que, à data da vigência desta lei complementar, já tenha incorporado integralmente a gratificação correspondente ao Regime de Dedicação Exclusiva.

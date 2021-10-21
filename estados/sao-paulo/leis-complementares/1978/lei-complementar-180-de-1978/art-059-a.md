@@ -1,0 +1,2 @@
+Artigo 59-A - Nas hipóteses previstas nos artigos 58, § 1º, item 1 e 59, § 1º, item 1, o funcionário ou servidor deverá aguardar em exercício a concessão da exoneração ou dispensa, até o máximo de 15 dias a contar da apresentação do requerimento. (NR)
+Parágrafo único - Não havendo prejuízo para o serviço público, a permanência em exercício a que se refere este artigo poderá ser dispensada pela chefia do órgão em que estiver lotado o funcionário ou servidor. (NR)

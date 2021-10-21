@@ -1,0 +1,25 @@
+Artigo 7.º - Para efeito do disposto no artigo 3.º destas Disposições Transitórias, tratando-se de funcionários ou servidores ocupantes de cargos ou funções policiais civis, sujeitos a Regime Especial de Trabalho Policial, ou ao regime de que trata o artigo 1.º da Lei n.º 7.626, de 6 de dezembro de 1962, observar-se-ão, aplicada a Tabela III prevista no inciso III do artigo 64 desta lei complementar, as seguintes regras de enquadramento:
+I - se o funcionário ou servidor não fizer jus à sexta-parte dos vencimentos:
+a) apurar-se-á o valor correspondente à soma das parcelas percebidas, com base na legislação vigente, em 28 de fevereiro de 1978, a título de:
+1. padrão do cargo ou função;
+2. gratificação pela sujeição ao Regime Especial de Trabalho Policial de que trata a Lei n.º 10.291, de 26 de novembro de 1968, com suas alterações posteriores, ou ao regime de que trata o artigo 1.º da Lei n.º 7.626, de 6 de dezembro de 1962;
+3. adicional por tempo de serviço, previsto no inciso VIII do artigo 92 da Constituição do Estado (Emenda n.º 2), de que tratam os artigos 13 da Lei n.º 6.043, de 20 de janeiro de 1961; 127 da Lei n.º 10.261, de 28 de outubro de 1968; e 28 do Decreto-lei Complementar n.º 11, de 2 de março de 1970;
+4. gratificação de nível instituída pela Lei Complementar n.º 89, de 13 de maio de 1974;
+5. outras vantagens pecuniárias incorporadas e sobre as quais haja incidência do adicional por tempo de serviço aludido no item 3:
+b) o resultado da soma apurada na forma da alínea anterior será multiplicado pelo coeficiente de enquadramento referente à classe a que pertença o cargo ou função, constante do Anexo II;
+c) o resultado da operação referida na alínea anterior será dividido pelo coeficiente 2,2 (dois inteiros e dois décimos);
+d) ao resultado da divisão prevista na alínea anterior somar-se-á a parcela percebida, com base na legislação vigente, em 28 de fevereiro de 1978, a título de vantagem assegurada pelo § 1.º do artigo 9.º do Decreto-lei Complementar n.º 11, de 2 de março de 1970, alterado pelo artigo 1.º do Decreto-lei Complementar n.º 13, de 25 de março de 1970;
+e) o cargo ou função do funcionário ou servidor será enquadrado na referência numérica cujo valor seja igual ao valor obtido na operação prevista na alínea anterior, respeitado o grau em que se encontrar classificado na referência atual;
+II - se o funcionário ou servidor fizer jus à sexta parte dos vencimentos:
+a) apurar-se-á o valor correspondente à soma das parcelas percebidas, com base na legislação vigente, em 28 de fevereiro de 1978, a título de:
+1. padrão do cargo ou função;
+2. gratificação pela sujeição ao Regime Especial de Trabalho Policial, de que trata a Lei n.º 10.291 de 26 de novembro de 1968, com suas alterações posteriores, ou ao regime de que trata o artigo 1.º da Lei n.º 7.626, de 6 de dezembro de 1962;
+3. adicional por tempo de serviço, previsto no inciso VIII do artigo 92 da Constituição do Estado (Emenda n.º 2), de que tratam os artigos 13 da Lei n.º 6.043, de 20 de janeiro de 1961; 127 da Lei n.º 10.261, de 28 de outubro de 1968; e 28 do Decreto-lei Complementar n.º 11, de 2 de março de 1970;
+4. gratificação de nível instituída pela Lei Complementar n.º 75, de 14 de dezembro de 1972, com as alterações da Lei Complementar n.º 89, de 13 de maio de 1974;
+5. sexta-parte dos vencimentos prevista no inciso VIII do artigo 92 da Constituição do Estado (Emenda n.º 2), de que trata o artigo 130 da Lei n.º 10.261, de 28 de outubro de 1968;
+6. outras vantagens pecuniárias incorporadas e sobre as quais haja incidência do adicional por tempo de serviço aludido no item 3 ou da sexta-parte referida no item anterior:
+b) o resultado da soma apurada na forma da alínea anterior será multiplicado pelo coeficiente de enquadramento referente à classe a que pertença o cargo ou função, constante do Anexo II;
+c) o resultado da operação referida na alínea anterior será dividido pelo coeficiente 2,2 (dois inteiros e dois décimos):
+d) ao resultado da divisão prevista na alínea anterior somar-se-á a parcela percebida, com base na legislação vigente, em 28 de fevereiro de 1978, a título de vantagem assegurada pelo § 1.º do artigo 9.º do Decreto-lei Complementar n.º 11, de 2 de março de 1970, alterado pelo artigo 1.º do Decreto-lei Complementar n.º 13, de 25 de março de 1970;
+e) apurar-se-á o valor correspondente a 6/7 (seis sétimos) do resultado da soma prevista na alínea anterior;
+f) o cargo ou função do funcionário ou servidor será enquadrado na referência numérica cujo valor seja igual ao valor obtido na operação prevista na alínea anterior, respeitado o grau em que se encontrar classificado na referência atual.

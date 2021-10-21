@@ -1,0 +1,9 @@
+Artigo 12 - O funcionário que, em 28 de fevereiro de 1978, estivesse ocupando ou se encontrasse no exercício de cargo em comissão, constante no Anexo III, terá o cargo do qual seja titular efetivo transformado em cargo correspondente àquele, desde que conte, na data da publicação desta lei complementar, pelo menos, 2 (dois) anos, contínuos ou não, de exercício como titular ou substituto em cargos de provimento em comissão na área da Administração Pública Estadual, e 5 (cinco) anos de efetivo exercício no serviço público. (NR)
+§ 1.º - A transformação prevista neste artigo dependerá de requerimento a ser formulado dentro de 30 (trinta) dias, contados da data da publicação desta lei complementar.
+§ 2.º - O órgão central de recursos humanos fará publicar a relação nominal de funcionários abrangidos por este artigo indicando a denominação do cargo transformado e a do cargo resultante da transformação.
+§ 3.º - Os cargos decorrentes da transformação prevista neste artigo ficam integrados na Tabela III (SQC-III) das respectivas Secretarias de Estado a que pertençam os cargos em comissão.
+§ 4º - Para os fins do disposto no "caput" deste artigo, computar-se-á, também, o período em que o funcionário exerceu, na área da Administração Pública Estadual: (NR)
+1. cargo função de direção, chefia ou encarregatura; (NR)
+2. cargos de denominações idênticas às dos cargos constantes do Anexo III e anteriormente integrados na Tabela II da Parte Permanente dos respectivos Quadros das Secretarias de Estado. (NR)
+§ 5.º - O disposto neste artigo aplica-se aos servidores que se encontrem na situação nele prevista, os quais, observadas as mesmas condições e prazos, terão as funções de que são titulares transformadas em função-atividade de denominação idêntica àquela do cargo exercido.
+§ 6.º - As funções-atividades de que trata o parágrafo anterior ficam integradas na Tabela II (SQF-II) do Quadro das respectivas Secretarias às quais pertençam os cargos em comissão.

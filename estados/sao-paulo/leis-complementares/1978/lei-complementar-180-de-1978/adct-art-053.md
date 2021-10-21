@@ -1,0 +1,2 @@
+Artigo 53 - Serão consideradas, exclusivamente para fins de enquadramento, nos termos dos artigos 4.º e 5.º destas Disposições Transitórias, as alterações de cargos ocorridas em virtude de leis promulgadas após 28 de fevereiro de 1978 até a data da vigência desta lei complementar.
+Parágrafo único - As alterações de cargos referidas no "caput" serão consideradas, também, para efeito de aplicação do que dispõem os artigos 14 e 16 destas Disposições Transitórias. (NR)

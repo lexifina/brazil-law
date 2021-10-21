@@ -1,0 +1,2 @@
+Artigo 18 - Os servidores admitidos a título precário, abrangidos pelos §§ 1.º e 2.º do artigo 1.º, das Disposições Transitórias, da Lei n.º 500, de 13 de novembro de 1974, ficam sujeitos ao regime instituído pela referida lei.
+Parágrafo único - O enquadramento dos servidores de que trata este artigo far-se-á mediante decreto de acordo com proposta dos órgãos setoriais, ouvido o órgão central de recursos humanos.

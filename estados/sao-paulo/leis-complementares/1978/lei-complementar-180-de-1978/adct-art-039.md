@@ -1,0 +1,1 @@
+Artigo 39 - Observadas as normas dos artigos 29, 30, 31 e 34, serão os cargos e funções constantes da situação nova do Anexo V enquadrados de acordo com os artigos 3.º a 6.º destas Disposições Transitórias, conforme o caso.

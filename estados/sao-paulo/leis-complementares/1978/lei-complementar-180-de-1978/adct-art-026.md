@@ -1,0 +1,4 @@
+Artigo 26 - Aos aposentados e aos atuais funcionários e servidores quando passarem à inatividade, desde que não tenham atingido a referência final da classe a que pertençam, serão atribuídos, anualmente, 5 (cinco) pontos durante o prazo máximo de 4 (quatro) anos, contados a partir da vigência desta lei complementar. (NR)
+Parágrafo único - A atribuição dos pontos prevista neste artigo cessará automaticamente:
+1. quando o beneficiário alcançar a referência final fixada para a classe a que pertença, ainda que esta hipótese venha a se realizar antes de decorridos os 4 (quatro) anos; (NR)
+2. ao término do quarto ano do início da vigência desta lei complementar, ainda que o beneficiário não tenha recebido o benefício de que trata este artigo por 4 (quatro) anos, ou que não tenha alcançado a referência final de sua classe. (NR)

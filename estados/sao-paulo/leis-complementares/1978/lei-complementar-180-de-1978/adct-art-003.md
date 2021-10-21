@@ -1,0 +1,1 @@
+Artigo 3.º - Os atuais cargos ou funções serão enquadrados nas referências numéricas da Escala de Vencimentos, de acordo com a Tabela que, nos termos do artigo 64 desta lei complementar, seja aplicável ao funcionário ou ao servidor.
