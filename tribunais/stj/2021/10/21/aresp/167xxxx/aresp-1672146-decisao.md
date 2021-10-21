@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Camaçari contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 199):
+AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. LICITAÇÃO. DEFERIMENTO DE LIMINAR. SUSPENSÃO DOS EFEITOS DO ATO ADMINISTRATIVO. POSSIBILIDADE DO AGRAVADO PARTICIPAR DO PREGÃO PRESENCIAL. CABIMENTO. PRESENÇA DA FUMAÇA DO BOM DIREITO E DO PERIGO DA DEMORA. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+De acordo com o art. 7º, III, da Lei nº 12.016/2009, ao despachar a inicial, o juiz ordenará que se suspenda o ato que deu motivo ao pedido, quando houver fundamento relevante e do ato impugnado puder resultar a ineficácia da medida, caso seja finalmente deferida, sendo facultado exigir do impetrante caução, fiança ou depósito, com o objetivo de assegurar o ressarcimento à pessoa jurídica.
+In casu, a suspensão dos efeitos do ato administrativo de excluir a agravada do pregão presencial e sua inclusão no procedimento, ao menos em um juízo perfunctório, é medida que se impõe, diante dos requisitos da verossimilhança do direito alegado e do perigo da demora da prestação jurisdicional.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos arts. 86 e 87 da Lei n. 8.666/93; e 7º da Lei n. 10.520/2002. Sustenta, em síntese, que o procedimento administrativo no qual é apurada a prática de infração contratual pelo agravadoobservou os princípios que regem as licitações públicas, razão pela qual deve ser mantida a sanção aplicada à empresa.
+O Ministério Público Federal opinou pelo conhecimento do agravo e pelo não conhecimento do recurso especial, nos termos assim resumidos (fl. 347):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. LICITAÇÃO. LIMINAR CONCEDIDA PARA SUSPENDER OS EFEITOS DO ATO DE SUSPENSÃO TEMPORÁRIA DO DIREITO DE LICITAR E DETERMINAR A REINCLUSÃO DA LICITANTE NO PREGÃO PRESENCIAL 079/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 86 E 87 DA LEI Nº 8.666/93 E ART. 7º DA LEI Nº 10.520/2002. ANÁLISE DO MÉRITO DA DEMANDA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 735/STF, APLICÁVEL AO DISSÍDIO JURISPRUDENCIAL. PELO CONHECIMENTO DO AGRAVO PARA NÃO CONHECER DO ESPECIAL.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Colhe-se dos autos que o presente recurso especial foi tirado de agravo deinstrumento interposto contra decisão de Juiz Singular que, nos autos de mandado de segurançan. 0501423-44.2016.8.05.0039, concedeu a liminar pleiteada.
+Em consulta ao sítio eletrônico do Tribunal a quo, verifica-se que, em 20/08/2020, foi proferida sentençaconcessiva da segurança, tendo sido interposto recurso de apelação,que aguarda julgamento no TJBA.
+Nesse panorama, nos termos da jurisprudência desta Corte Superior, ficaprejudicado, pela perda de objeto, o recurso especial interposto contraacórdão que examinou agravo de instrumento, quando severifica a prolaçãode sentença de mérito, haja vista que nela a cognição éexauriente.
+A esse respeito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO.FORNECIMENTO DE MEDICAMENTOS. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA AD CAUSAMDA UNIÃO. TUTELA ANTECIPADA. SENTENÇA SUPERVENIENTE. EXTINÇÃO DO PROCESSOSEM JULGAMENTO DE MÉRITO EM FACE DE DESISTÊNCIA DA AÇÃO. PERDA DO OBJETO.AUSÊNCIA DE INTERESSE RECURSAL. RECURSO PREJUDICADO.
+1. A presente demanda originou-se de Agravo de Instrumento interposto dedecisão do juiz de primeiro grau que deferiu o pedido de antecipação detutela requerido pela ora embargada.
+2. Em consulta ao site do Tribunal Regional Federal da 4ª Região,constata-se que já foi proferida sentença nos autos da ação principal, aqual homologou o pedido de desistência da ação e, consequentemente,extinguiu o processo sem julgamento do mérito, nos termos do art. 267,VIII, do CPC.
+3. Comprovada a perda de objeto, não mais se verifica o interesse de agirpor parte da embargante, considerando-se, assim, prejudicado o recurso.
+4. Embargos de Declaração prejudicados.
+(EDcl no AgRg no Ag 1225532/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDATURMA, julgado em 16/05/2013, DJe 22/05/2013)
+ANTE O EXPOSTO, julgo prejudicado o recurso, por perda superveniente deseu objeto.
+Publique-se.
