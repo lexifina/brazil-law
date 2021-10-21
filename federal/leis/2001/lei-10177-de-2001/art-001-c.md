@@ -1,0 +1,1 @@
+Art. 1º-C. O del credere do banco administrador, limitado a 3% (três por cento) ao ano, está contido nos encargos financeiros cobrados pelo FNO, pelo FNE e pelo FCO e será reduzido em percentual idêntico ao percentual garantido por fundos de aval.

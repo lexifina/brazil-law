@@ -1,0 +1,1 @@
+Art. 1º-B. Na hipótese de desvio na aplicação dos recursos de que trata esta Lei, o mutuário perderá os benefícios aos quais fizer jus, especialmente aqueles relativos ao bônus de adimplência, sem prejuízo das medidas judiciais cabíveis, incluídas as de natureza executória.

@@ -1,0 +1,6 @@
+Art. 1º-D. O CDR referente às regiões Norte, Nordeste e Centro-Oeste, a que se referem os arts. 1º e 1º-A desta Lei, será calculado pelo IBGE, com base nos indicadores de renda domiciliar per capita e da população residente, apurados pela Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua). (“Caput” do artigo acrescido pela Medida Provisória nº 812, de 26/12/2017, em vigor em 1/1/2018, convertida na Lei nº 13.682, de 19/6/2018)
+§ 1º Para fim exclusivo do cálculo do CDR a ser aplicado nos encargos financeiros incidentes sobre os financiamentos de operações de crédito com recursos dos Fundos Constitucionais de Financiamento, serão considerados os seguintes entes federativos:
+I - FNO: Estados do Acre, Amazonas, Amapá, Pará, Roraima, Rondônia e Tocantins;
+II - FNE: Estados do Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe e Bahia; e
+III - FCO: Estados de Mato Grosso do Sul, Mato Grosso e Goiás e o Distrito Federal.
+§ 2º Ato do Presidente da República regulamentará a sistemática do cálculo e da atualização do CDR. (Primitivo parágrafo único acrescido pela Medida Provisória nº 812, de 26/12/2017, em vigor em 1/1/2018, convertido e transformado em § 2º pela Lei nº 13.682, de 19/6/2018)

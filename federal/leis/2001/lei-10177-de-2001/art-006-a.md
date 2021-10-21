@@ -1,0 +1,2 @@
+Art. 6º-A. Nos financiamentos concedidos com recursos dos Fundos Constitucionais de Financiamento, a partir de 1º de julho de 2004, a beneficiários dos grupos "B", "A/C", Pronaf-Semiárido e Pronaf-Floresta, integrantes da regulamentação do Programa Nacional de Fortalecimento da Agricultura Familiar - Pronaf, o risco será assumido integralmente pelo respectivo Fundo Constitucional.
+Parágrafo único. (Revogado)
