@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por Marcos Vinícius Medeiros dos Santos, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro na Apelação Criminal n. 0099672-46.2018.8.19.0001.
+Consta dos autos que o Juízo de primeiro grau condenou o recorrente como incurso nas iras do art. 33, caput, da Lei n. 11.343/2006, às penas de 5 anos de reclusão, em regime inicial fechado, mais pagamento de 500 dias-multa (fls. 192/213).
+Inconformada com os termos do édito condenatório singular, a defesa interpôs recurso de apelação (fls. 249/265).
+O Tribunal de origem negou provimento ao apelo defensivo (fls. 308/318):
+CRIME CONTRA A SAÚDE PÚBLICA - TRÁFICO ILÍCITO DE DROGAS - APELANTE PRESO EM FLAGRANTE QUANDO TRAZIA CONSIGO, PARA FINS DE TRÁFICO, SEM AUTORIZAÇÃO E EM DESACORDO COM AS DETERMINAÇÕES LEGAIS, 62,0G (SESSENTA E DOIS GRAMAS) DE MACONHA, ACONDICIONADOS EM 03 (TRÊS) TABLETES, COM AS INSCRIÇÕES "HIDROPÔNICA R$ 50,00 COMPLEXO DA MARÉ TCP", BEM COMO 3,50G (TRÊS GRAMAS E CINCO DECIGRAMAS) DE COCAÍNA, ARMAZENADOS EM 06 (SEIS) CÁPSULAS -PROVAS ABSOLUTAS DA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS - MATERIALIDADE, AUTORIA E CULPABILIDADE INDISCUTÍVEIS - DEPOIMENTOS COESOS E HARMÔNICOS DOS POLICIAIS QUE EFETUARAM A PRISÃO - VALIDADE - SÚMULA Nº 70 DO TJERJ - DESTINAÇÃO COMERCIAL SATISFATORIAMENTE DEMONSTRADA -AGENTE CRIMINOSO QUE EM RAZÃO DO LOCAL DA PRISÃO, RECONHECIDAMENTE PONTO DE VENDA DE ENTORPECENTES, DEDICAVA-SE À TRAFICÂNCIA, NÃO SE TRATANDO DE CRIMINOSO EVENTUAL - CIRCUNSTÂNCIAS DA PRISÃO, QUANTIDADE E DIVERSIDADE DE DROGAS E A FORMA DE ACONDICIONAMENTO QUE AFASTAM OS REQUISITOS SUBJETIVOS NECESSÁRIOS A PERMITIR A APLICAÇÃO DO § 4º DO ARTIGO 33 DA LEI DE DROGAS - CORRETO O JUÍZO DE CENSURA - PENA CORRETAMENTE APLICADA - QUANTUM DE PENA QUE IMPEDE A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS - DOSIMETRIA QUE NÃO MERECE REPAROS - DESPROVIMENTO DO RECURSO.
+No presente recurso especial, é indicada a violação do art. 33, § 2º e § 3º, do Código Penal, sob a tese da inidônea fixação do regime prisional fechado, a despeito da ausência de circunstâncias judiciais desfavoráveis.
+Ao final da peça recursal, requer a admissão do recurso e remessa ao STJ, onde deverá ser provido para fixar regime inicial mais brando para cumprimento da pena (fl. 337).
+Oferecidas contrarrazões (fls. 341/345), o recurso especial foi admitido na origem (fls. 347/351).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 369/372):
+RECURSO ESPECIAL. PENAL. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO A 5 ANOS. RECLUSÃO. FIXAÇÃO DO REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INIDÔNEA. DETERMINAÇÃO DO REGIME COM BASE NA GRAVIDADE ABSTRATA DO CRIME E EM ELEMENTARES DO TIPO. PENA ABAIXO DE 8 ANOS DE RECLUSÃO. POSSIBILIDADE DE FIXAÇÃO DE REGIME INTERMEDIÁRIO. QUANTIDADE DE DROGA POUCO EXPRESSIVA. PARECER PELO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Razão assiste ao recorrente.
+Destaca-se, a princípio, que todas as circunstâncias judiciais foram consideradas favoráveis, sendo fixada no mínimo a pena-base do crime de tráfico de drogas por ele perpetrado (5 anos de reclusão, mais pagamento de 500 dias-multa - fls. 210/211 e 318).
+Sendo assim, não há fundamento para dar lastro à imposição de regime prisional mais severo do que permitido pelo quantum da pena, ex vi da Súmula 440/STJ.
+Nesse sentido:
+HABEAS CORPUS. ART. 157, § 2º, INCISOS I E II, DO CÓDIGO PENAL. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. VIA INADEQUADA. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME PRISIONAL. GRAVIDADE GENÉRICA DO CRIME. MOTIVAÇÃO INIDÔNEA. SÚMULAS 718 E 719 DO STF. SÚMULA 440 DO STJ. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+2. Para a exasperação do regime fixado em lei é necessária motivação idônea. Súmulas n.º 718 e n.º 719 do Supremo Tribunal Federal e Súmula n.º 440 deste Superior Tribunal de Justiça.
+3. Hipótese em que o Juiz de primeiro grau considerou, para fins de regime prisional, favoráveis as circunstâncias judiciais, fixando o intermediário. Contudo, o Tribunal de origem estabeleceu o regime fechado sem apresentar motivação idônea. Assentou a gravidade genérica do delito, bem como o entendimento, reiteradamente rechaçado por esta Corte, de que em casos de crime de roubo deve sempre ser imposto o regime fechado.
+4. Habeas corpus não conhecido. Ordem concedida de ofício a fim de garantir o início do cumprimento da pena em regime semiaberto.
+(HC n. 331.754/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/11/2015 - grifo nosso).
+Dessa forma, fixada a pena-base no mínimo legal (5 anos - art. 33, caput, da Lei n. 11.343/2006) e não ostentando o recorrente antecedentes criminais, é descabida a fixação de regime mais gravoso sem a existência de fundamentação idônea, nos termos das referidas súmulas.
+Por conseguinte, levando-se em consideração a pena final cominada (5 anos de reclusão), é possibilitada a imposição do regime semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para abrandar o regime inicial de pena privativa de liberdade ao semiaberto.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (62 G DE MACONHA e 3,5 G DE COCAÍNA). VIOLAÇÃO DO ART. 33, § 2º E § 3º, DO CP. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. REGIME INICIAL FECHADO. PRIMARIEDADE. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENA-BASE ESTIPULADA NO MÍNIMO LEGAL. FUNDAMENTAÇÃO GENÉRICA. SÚMULAS 718 E 719/STF. SÚMULA 440/STJ. REGIME SEMIABERTO QUE SE IMPÕE. APLICAÇÃO DO ART. 33, § 2º, B, DO CP.
+Recurso especial provido nos termos do dispositivo.
