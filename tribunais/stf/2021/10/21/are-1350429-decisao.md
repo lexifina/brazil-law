@@ -1,0 +1,43 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1, Doc. 19):
+    “PROCESSUAL. EXECUÇÃO. EXTINÇÃO PELO CUMPRIMENTO DA OBRIGAÇÃO. EXECUÇÃO COMPLEMENTAR. DESCABIMENTO. Extinta a execução pelo pagamento e configurado o trânsito em julgado da decisão extintiva, incabível o prosseguimento da execução para satisfação de diferenças. A decisão extinguiu o vínculo obrigacional que existia entre o credor e o devedor, produzindo os efeitos da coisa julgada material.”
+    No Recurso Extraordinário (Doc. 28), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, a parte recorrente alega que o acórdão recorrido divergiu do entendimento fixado por esta CORTE no Tema 810.
+    Afirma que, “iniciado o cumprimento de sentença, em 26/09/2013, foram apresentados cálculos de liquidação e, como na época o RE 870.947 ainda não havia transitado em julgado, houve aplicação da TR como índice de correção monetária, com posterior expedição de precatório” (Doc. 28, fl. 3).
+    Aduz que, “diante do julgamento definitivo do RE 870.947 (Tema 810) e consequente declaração de inconstitucionalidade do art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, sem modulação de efeitos, (…) pleiteou nos autos de origem a execução complementar, a fim de que fosse aplicado o entendimento firmado pelo Excelso Pretório. Entretanto, o juízo singular indeferiu o pedido sob o argumento de que a decisão que fixou os consectários legais já transitou em julgado, o que obsta a execução complementar” (Doc. 28, fl. 3).
+    Observa que, “diversamente do entendimento firmado no acórdão, o trânsito em julgado e a baixa dos autos não é óbice à execução complementar, visto que, conforme decidido pelo Excelso Pretório, a Taxa Referencial foi declarada inconstitucional desde a data da edição da lei que o estabeleceu (Lei 1.960/2009) e não houve modulação dos efeitos da decisão” (fl. 7, Doc. 28).
+    Requer, ao final, o conhecimento e provimento do presente recurso a fim de reformar o acórdão recorrido para determinar a aplicação da tese firmada no RE 870.947 (Tema 810), de modo a afastar a incidência da TR como critério de correção monetária em razão de sua inconstitucionalidade.
+    O Tribunal de origem inadmitiu o RE, ao fundamento de que o acórdão recorrido apreciou a matéria à luz da legislação infraconstitucional (coisa julgada formal), tornando meramente indireta ou reflexa a alegada ofensa à Constituição Federal (Doc. 35).
+    No Agravo (Doc. 42), a parte agravante refutou o fundamento da decisão agravada ao argumento de tratar-se de matéria constitucional.
+    É o relatório. Decido.
+    Eis os fundamentos do Tribunal de origem (Doc. 20, fl. 1):
+    “Trata-se de agravo de instrumento contra decisão que indeferiu o pedido de execução complementar quanto à diferença de correção monetária.
+    O agravante sustenta, em síntese, que diante da inconstitucionalidade da TR, reconhecida no julgamento do Tema 810/STF, a sentença de extinção da execução não impede o pagamento complementar da diferença a título de correção monetária.
+    (…)
+    A execução, no caso, foi extinta por sentença passada em julgado no dia 04/02/2016 (evento 156).
+    Portanto, sucedendo a preclusão máxima, não é processualmente viável a reabertura da execução/cumprimento de sentença. Neste sentido é a orientação firmada pelo Superior Tribunal de Justiça (REsp 1143471/PR, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, julgado em 03/02/2010, DJe 22/02/2010).
+    (…)
+    Outrossim, não houve o diferimento para a fase de execução da aplicação do indexador substituto da TR, declarada inconstitucional no julgamento do RE 870.947. Com efeito, a sentença exequenda passou em julgado assim definindo a correção monetária:
+    (…)
+    Então, in casu, não há como superar que a extinção da execução por sentença transitada em julgado impede a sua reabertura.
+    Ante o exposto, voto por negar provimento ao agravo de instrumento.”
+    Da leitura acima, verifica-se que o Tribunal de origem reconheceu a preclusão da questão, razão pela qual não seria mais possível à parte discutir novamente acerca de eventual saldo complementar em execução já extinta.
+    Assim, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    De outro lado, a análise da pretensão recursal está situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Em caso semelhante ao destes autos, em que também se discutia a preclusão da matéria, tendo em vista a concordância da parte com a aplicação da Lei 11.960/2009, o ilustre Ministro DIAS TOFFOLI ponderou que “discussões estritamente processuais, como no presente caso, que trata de preclusão, estão afetas ao ordenamento infraconstitucional, não ensejando a interposição de recurso extraordinário” (ARE 1.318.516, DJe de 29/6/2021).
+    No mesmo sentido, vejam-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Precatório. Preclusão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame de fatos e provas dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1171450-AgR, Rel. Min. DIAS TOFFOLI – Presidente, Tribunal Pleno, DJe de 1º/3/2019)
+    “E M E N T A RECURSO EXTRAORDINÁRIO. AGRAVO INTERNO. INCIDÊNCIA, OU NÃO, DE JUROS DE MORA APÓS O TRÂNSITO EM JULGADO DE EMBARGOS À EXECUÇÃO. ACÓRDÃO RECORRIDO QUE ASSENTOU A PRECLUSÃO DA DISCUSSÃO. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA OU INDIRETA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. INADMISSIBILIDADE. VERBA HONORÁRIA. AUSÊNCIA DE FIXAÇÃO DA ORIGEM. MAJORAÇÃO INCABÍVEL. AGRAVO INTERNO DESPROVIDO.
+    1. A toda evidência, passa necessariamente pelo reexame fático-probatório e pela interpretação de legislação infraconstitucional rever o entendimento perpetrado pelo acórdão recorrido quanto à não incidência dos juros de mora após o trânsito em julgado dos embargos à execução, ao entendimento de nulidade da decisão a qual reapreciara tal matéria, porquanto já estava preclusa nos autos.
+    2. Desse modo, incide, na espécie, o Enunciado nº 279 da Súmula/STF, bem assim faz caracterizar-se como indireta ou reflexa a suposta ofensa ao Texto Constitucional.
+    3. Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo porque, na hipótese de descabimento ou de ausência de fixação anterior – como na espécie dos autos –, a sua incidência é indevida.
+    4. Agravo interno ao qual se nega provimento.” (RE 1.309.745-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 13/8/2021 – grifo nosso)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 21 de outubro de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
