@@ -1,0 +1,67 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/15), interposto por GFCONSULT PARTICIPAÇÕES E ADMINISTRAÇÃO DE BENS PRÓPRIS S/A E OUTRA, em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado naalínea"a" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 312, e-STJ):
+EMENTA
+Acidente de trânsito. Ação de reparação de danos.Demandantes que não lograram demonstrar a ocorrência de conduta culposa da motorista da ré. Ônus da prova que lhes incumbia. Artigo 373, I, do Código de Processo Civil. Se o autor não demonstrar o fato constitutivo do direito invocado, a ré não pode ser condenada por dedução, ilação ou presunção. Conflito de versões. Ação julgada improcedente. Sentença mantida. Recurso improvido.
+Opostos embargos declaratórios (fls. 320-326, e-STJ), restaram rejeitados na origem (fls. 327-332, e-STJ).
+Nas razões do Recurso Especial (fls. 335-352, e-STJ), asrecorrentes alegam ofensa aos artigos329, III, do Código de Trânsito Brasileiro, 186, 187 e927 do Código Civil e 5º, 6º e 341 do CPC/2015, argumentando a responsabilidade da parte agravada no acidente discutido nos autos. Asseveram. ainda, que a recorrida, em sua contestação,não impugnou especificamente as alegações das autoras.
+Contrarrazões às fls. 365-369, e-STJ.
+Em juízo de admissibilidade (fls. 370-373, e-STJ), inadmitiu-se orecurso.
+Irresignadas, as agravantes interpõem o presente agravo (art. 1.042, do CPC/15), no qual sustentam, preliminarmente, que, ao analisar o mérito da questão controvertida, teria o Tribunalaquousurpadoa competência atribuída pela Constituição Federal a esta Colenda Corte. Refutam, por fim, os fundamentos que embasaram odecisumhostilizado(fls. 376-398, e-STJ).
+Contraminuta às fls. 403-407, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1.Em que pesem os argumentos deduzidos pelas recorrentes, cumpre enfatizar que não há usurpação de competência do STJ quando o Tribunal local não admite o recurso especial, sob o fundamento da inexistência de contrariedade ou negativa de vigência à lei federal.
+Conforme esta Colenda Corte tem reiteradamente decidido, "é possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia" (AgRg no Ag 173.195/SP, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, DJ 21/09/1998).
+Esse entendimento, aliás, foi cristalizado na Súmula 123 do STJ, segundo a qual: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais".
+2. Por outro lado, depreende-se dos autos que os arts. 5º, 6º e 341 do CPC/2015, não foramobjeto de exame pelo acórdão recorrido, razão pela qual, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência do prequestionamento.
+Nos termos da jurisprudência deste Tribunal Superior, "para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgRg no AREsp 519.518/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 25/05/2018).
+Tampouco cabe falar em prequestionamento ficto, face ao art. 1.025 do CPC/2015.
+Com efeito, para se possibilitar a sua incidência, cabe a parte alegar, nas razões do recurso especial, a ofensa ao art. 1.022 do CPC/2015, de modo a permitir sanar eventual omissão, caso existente, através de novo julgamento dos aclaratórios, providência não atendida na presente hipótese.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+Nesse sentido, são os seguintes precedentes desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL DE 2015. REEXAME. CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+3. A admissão de prequestionamento ficto (art. 1.025 do Código de Processo Civil de 2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do Código de Processo Civil de 2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. A reforma do julgado demandaria o reexame do contexto fático- probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+5. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+6. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no AREsp 1755866/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/06/2021, DJe 21/06/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO DE SEGURO. DESFAZIMENTO. DEVOLUÇÃO DOS PRÊMIOS PAGOS. PRAZO PRESCRICIONAL. OFENSA AOS ARTS. 475, 476, 884 E 885, TODOS DO CC/02. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO NCPC. NECESSIDADE DE SE APONTAR VIOLAÇÃO DO ART. 1.022 DO NCPC, DE FORMA FUNDAMENTADA. PRESCRIÇÃO ÂNUA. PRETENSÃO FUNDADA EM CONTRATO DE SEGURO. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O DESTA CORTE. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de debate no acórdão recorrido quanto aos temas suscitados no recurso especial evidencia a falta de prequestionamento (Súmula nº 211 do STJ), admitindo-se o prequestionamento ficto somente na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial.
+3. Segundo entendimento firmado pelas Turmas que compõem a eg. Segunda Seção do STJ, o prazo prescricional para a propositura de ação objetivando a restituição de prêmios em virtude de conduta supostamente abusiva da seguradora, amparada em cláusula contratual considerada abusiva, é de 1 (um) ano, por aplicação do art. 206, § 1º, II, "b", do Código Civil(REsp 1.637.474/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 15/5/2018, DJe 18/5/2018).
+4. Agravo interno não provido.
+(AgInt no REsp 1724344/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/05/2021, DJe 20/05/2021)
+3. As insurgentes sustentam, ainda, ofensa aos arts.329, III, do Código de Trânsito Brasileiro, 186, 187 e 927 do Código Civil,argumentando a responsabilidade da parte agravada no acidente discutido nos autos.
+O Tribunal de origem, no entanto, ao analisar a controvérsia, decidiu pela ausência de configuração da responsabilidade civil daagravada, no evento danoso, consoante se extrai dos seguintes trechos(fls. 314-318, e-STJ):
+Os elementos probatórios acostados aos autos não evidenciam a culpa da locatária da ré pelo acidente.
+(..)
+A única alegação das autoras é de que os fatos narrados na inicial restaram provados.
+Mas evidente que não.
+O BO de fls. 26/29, em que se funda a pretensão das autoras, em instante algum revela qualquer culpa da motorista da ré, e apenas traz a versão autoral.
+Tampouco as fotos carreadas a fls. 30/35 indicam qualquer culpabilidade da ré, indicando apenas que a colisão ocorreu na parte lateral dianteira do veículo.
+Como bem observou a douta magistrada, o certo é que as autoras-apelantes não se desincumbiram do ônus de demonstrar a culpa da motorista da ré pelo acidente, fato esse constitutivo do seu direito, requisito essencial para a procedência do pleito reparatório.
+(..)
+Nesse contexto, forçoso reconhecer que a apelante não se desincumbiu do ônus de provar o alegado, tampouco a conduta imprudente da coapelada Joyce, como exige o artigo 333, I, do Código de Processo Civil, de modo que a demanda só podia ser julgada contra ela.
+(..)
+Destarte, não havendo prova para demonstrar que a locatária da ré tenha agido com culpa no acidente, a improcedência da ação foi bem decretada.
+Nesse cenário, alterar a conclusão a que chegou o órgão julgador, no tocante à ausência de configuração da responsabilidade civil e dos danosmorais, no caso concreto, e acolher o inconformismo recursal, no ponto, demandaria o necessário revolvimento dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. ALEGAÇÕES DE UNILATERALIDADE DA PROVA. CULPA EXCLUSIVA DA VÍTIMA COMPROVADA E RESPONSABILIDADE DA RECORRIDA AFASTADA COM APOIO NO SUBSTRATO FÁTICO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 1804844/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL, MATERIAL E ESTÉTICO. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE DO MOTORISTA DO CAMINHÃO PELO ACIDENTE. COMPROVAÇÃO COM BASE NOS FATOS DA CAUSA. REFORMA. NECESSIDADE DE REEMAXE DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DANO MORAL. REDUÇÃO DO VALOR. DESNECESSIDADE. VERBA FIXADA EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. ART. 492 DO NCPC. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. RECURSO ESPECIAL NÃO PROVIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Alterar as conclusões do acórdão do Tribunal estadual para afastar a responsabilidade do motorista da empresa ré pelo acidente que ocasionou à vítima vários ferimentos graves, exigiria indevida incursão no acervo fático-probatório, em afronta a Súmula nº 7 do STJ.
+3. A fixação dos danos morais foi embasada na análise da situação fática de cada um dos autores, observados os princípios da razoabilidade e da proporcionalidade, de modo que rever tal entendimento esbarra no óbice da já citada Súmula nº 7 do STJ.
+4. O art. 492 do NCPC não foi analisado na instância a quo, nem mesmo após a oposição dos embargos de declaração, de modo que não houve apreciação do tema nele contido pelo Tribunal bandeirante. In casu, deixou a recorrente de indicar, nas razões do apelo nobre, a violação do art. 1.022 do NCPC, a fim de que esta Corte pudesse averiguar possível omissão no julgado quanto ao tema, o que não foi feito. Incidência da Súmula nº 211 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp 1901563/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020)
+4.Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo em recurso especial, e, com base no artigo 85, § 11, do CPC/2015, majoro em 10% os honorários advocatícios sucumbenciais incidentes sobre o valor já fixado na origem.
+Publique-se.
+Intime-se.
