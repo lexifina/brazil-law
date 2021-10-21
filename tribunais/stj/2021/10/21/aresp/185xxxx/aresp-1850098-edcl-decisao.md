@@ -1,0 +1,31 @@
+DECISÃO
+MARCELO FERREIRA FIGUEIREDO (MARCELO) propôs ação de reparação de danos contra SCHINCARIOL BEBIDAS (INDÚSTRIA), buscando a condenação ao pagamento de indenização a título de danos materiais e morais em virtude de atropelamento por um caminhão de propriedade da empresa ré, causando sua incapacidade para as atividades laborativas.
+A ação foi julgada procedente, condenando-se INDÚSTRIA ao pagamento de indenização por dano moral em R$ 10.000,00 (dez mil reais), além do pagamento das despesas processuais e dos honorários advocatícios, arbitrados em 10% sobre o valor da condenação, com fulcro no art. 85, § 2º, c/c o art. 86 do CPC (e-STJ, fls. 345/348).
+A apelação interposta por MARCELO foi desprovida, em acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado:
+AÇÃO SUMÁRIA DE REPARAÇÃO DE DANOS. APELAÇÃO CÍVEL. ACIDENTE CAMINHÃO. PEDESTRE. COMPROVAÇÃO DOS ELEMENTOS DA RESPONSABILIDADE CIVIL SUBJETIVA. DANO MORAL CONFIGURADO. VALOR ARBITRADO EM CONSONANCIA COM OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. APLICACAO DA SÚMULA Nº 343, TJ/RJ. CORREÇÃO MONETÁRIA. REFORMA DE OFÍCIO DA SENTENÇA PARA QUE SEJA APLICADA A SÚMULA 362 DO STJ. JUROS DE MORA. APLICAÇÃO DA SÚMULA 54, DO STJ. AUSÊNCIA DE MÁ FÉ DA EMPRESA RÉ A ENSEJAR A APLICAÇÃO DO ART. 80, DO CPC/15. HONORÁRIOS ADVOCATÍCIOS CORRETAMENTE ARBITRADOS, EM CONFORMIDADE COM O ART. 85, § 2º, DO CPC/15. REFORMA DE OFÍCIO DA SENTENÇA. DESPROVIMENTO DO RECURSO (e-STJ, fl. 467).
+Os embargos de declaração opostos por MARCELO foram rejeitados (e-STJ, fls. 496/505).
+Irresignado, MARCELO interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 1º da Lei nº 6.899/81; 186, 398, 927 e 944 do CC; e 80, I, II e IV, 322 e 491 do NCPC ao sustentar que (1) foi ínfimo o valor fixado a título de danos morais, não tendo a decisão cumprido sua função compensatória, insuficiente para atenuar todo o sofrimento causado pelas lesões corporais, que deixaram em MARCELO deformação (cicatriz hipertrófica), escoriações na face do pé esquerdo, e limitação permanente e vitalícia em seu tornozelo e dedos do pé esquerdo; (2) considerando a origem em ato ilícito, a indenização pelos danos morais deve ser corrigida desde o momento da ocorrência do evento danoso, nos termos da Súmula nº 43 do STJ, sendo, ainda, acrescidos de juros, também, desde a data do evento danoso, de acordo com Súmula nº54 do STJ, tendo havido reformatio in pejus no momento da alteração do termo inicial em apelação;(3) existiram atos praticados pela INDÚSTRIA em má-fé processual, devendo haver a condenação respectiva (e-STJ, fls. 507/530).
+Foram apresentadas as contrarrazões (e-STJ, fls. 531/536).
+O apelo nobre não foi admitido em virtude (1) da incidência da Súmula nº 7 do STJ (e-STJ, fls. 575/582).
+Nesta Corte, o agravo emrecurso especial foi conhecido para conhecer em parte do apelo nobre e, nessa extensão, negar-lhe provimentoem decisão monocrática de minha relatoria, assim sintetizada:
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. DANO MORAL. QUANTUM INDENIZATÓRIO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. JUROS DE MORA. TERMO INICIAL. SÚMULA Nº 54 DO STJ. DECISÃO PROFERIDA DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. CORREÇÃO MONETÁRIA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INVIABILIDADE DE REEXAME DAS PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO(e-STJ, fl. 645).
+Nas razões dos presentes embargos de declaração, MARCELOafirmou a existência de violação do art. 1.022, do NCPC em virtude do erro material quanto à menção ao "SANTANDER" à e-STJ, fl. 647, por setratarde parte estranha ao processo(e-STJ, fls. 653/654).
+Aimpugnação não foi apresentada (e-STJ, fl. 659).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+MARCELO afirmou a existência de violação do art. 1.022, do NCPC em virtude do erro material quanto à menção ao "SANTANDER" à e-STJ, fl. 647, por setratarde parte estranha ao processo.
+Com razão.
+É que na decisão embargada, embora conste à e-STJ, fl. 647 a palavra "SANTANDER", o mesmo é parte estranha ao processo.
+Desta forma, para evitar interpretação equivocada, faço constar o seguinteà e-STJ, fl. 647:
+Conheço do agravo de MARCELO e passo à análise do recurso especial.
+Nessas condições, ACOLHO os embargos de declaração, semefeitos infringentes, para sanar o erro materialapontada.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intime-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. VIOLAÇÃO DO ART. 1.022, DO NCPC. CONFIGURADA. OMISSÃO QUANTO À INSTAURAÇÃO DE INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
