@@ -1,0 +1,29 @@
+AGRAVO DE INSTRUMENTO: 1000749-36.2021.8.11.9005 – PJE (FEITO NA ORIGEM 1021327-43.2021.8.11.0001)
+COMARCA DE ORIGEM: JUIZADO ESPECIAL DA FAZENDA PÚBLICA DE CUIABÁ
+AGRAVANTE: BASILIO MARIANO DA CONCEIÇÃO
+AGRAVADO: ESTADO DE MATO GROSSO E MT PREV
+JUIZ RELATOR: MARCELO SEBASTIÃO PRADO DE MORAES
+EFEITO ATIVO INDEFERIDO
+Vistos, etc.
+1-Concedo a gratuidade de justiça, ante a verificação das condições econômicas e pessoais do agravante;
+2-Trata-se de Agravo de Instrumento aviado por BASILIO MARIANO DA CONCEIÇÃO contra a decisão que negou a antecipação de tutela que visa a suspensão do desconto previdenciário realizado na folha de pagamento do mesmo, argumentando que é aposentado por invalidez, de onde nos moldes do artigo 40, § 21 da CF em cumulação com a LC Estadual 202/2004 eram realizados os descontos previdenciários do mesmo levando-se em conta a margem de isenção de até o dobro do valor do teto da previdência do regime geral, de onde, apenas a partir de tal ponto poderia incidir o desconto previdenciário, nos moldes do artigo 2o, IV da mencionada LC Estadual. Aponta que a isenção de outrora vinha sendo aplicada, porém, no mês de referência de junho de 2020, passou a incidir a alíquota de 14% sobre a totalidade de seus proventos, de acordo com a nova redação da LEI COMPLEMENTAR ESTADUAL 654/2020, de onde teria prejuízos com tais descontos, que antes não eram feitos. Traz a discussão acerca da continuidade da aplicação do artigo 2o, IV da LC Estadual 202/2004, com a redação alterada pela LC Estadual 524/2014, que, segundo o mesmo continua em vigor, pugnando pela isenção da contribuição previdenciária, e que os descontos a partir de junho de 2020 trarão grandes prejuízos ao Agravante. Com tais argumentações pugna pela concessão da antecipação de tutela para que permaneçam os descontos como antes.
+Vieram-me conclusos.
+É O RELATÓRIO. FUNDAMENTO E DECIDO.
+Calha o registro atual de que em data de 09/08/2021 houve a edição da LC Estadual 700/2021, sendo que, apesar da ação ter sido aviada em data de 14/06/2021, ou seja, ainda sob a vigência da antiga LC Estadual 700/2021, de onde, a nova lei passou assim a constar sobre o direito pretendido pela parte autora, quando do indeferimento da medida liminar em primeiro grau:
+Art. 3o Ficam alterados o inciso IV e o § 4o do art. 2o da Lei Complementar no 202, de 28 de dezembro de 2004, que passam a vigorar com a seguinte redação:
+"Art. 2o (...) (...)
+IV - 14% (quatorze por cento) da parcela dos proventos de aposentadoria, reserva remunerada ou reforma e pensão que supere o limite máximo estabelecido para os benefícios previdenciários do regime geral de previdência social de que trata o art. 201 da Constituição Federal, quando o beneficiário for portador de doença incapacitante, nos termos desta Lei Complementar.(destaquei)
+Ou seja, realmente, em momento anterior apesar da edição da Emenda à Constituição Federal de número 103/2019 ter revogado a disposição sobre o tema no artigo 40, § 21 da CF, verdade é que, o mesmo ainda teria ficado vigente na LC 202/2004 que tratava do tema, mesmo após as alterações posteriores do tema previdenciário capitaneados pela LC Estadual 654/2020, onde o Estado teria a oportunidade de revogar o instituto local, que tratava sobre o tema, porém, resolveu mantê-lo, mesmo após a alteração da Constituição Federal.
+Diante disso, este relator e a Turma Recursal, de maneira geral, entendeu por bem em manter a aplicabilidade do dispositivo que ainda tratava da aplicação do duplo teto, com 11% de desconto apenas do que sobejasse esse valor, sob a égide de que não haveria se falar em isenção e sim em alíquota aplicada dentro de um determinado valor.
+Porém, como a legislação é fluida, com a edição da LC Estadual 700/2021, com a alteração da legislação local sobre o tema, atendendo ao que dita o artigo 36, II da EC 103/2019, através de Lei de Iniciativa local a referendar eventual isenção, de onde, o assunto recebeu nova roupagem, passando a se aplicar a partir de 09/08/2021 o valor de 14% sobre o valor que ultrapassar o teto da previdência social, e ainda apenas às doenças devidamente descritas no rol legal, com avaliação perante médico perito oficial.
+Então, a pretensão do autor de concessão liminar para que, de imediato se aplique a alíquota de 11% sobre o valor que ultrapassar o duplo teto da previdência, não encontra guarida desde o início do trâmite da presente ação, sendo impossível se conceder uma liminar, para se aplicar um dispositivo expressamente revogado e tratado por outro de forma diversa.
+Eventual pretensão de se receber valores indevidamente descontados, antes da edição da LC Estadual 700/2021, não podem ser alvo de medida liminar, ante a ausência de urgência, cabendo, no muito quando da análise do mérito principal ocorrer a modulação dos efeitos até a edição da novel legislação a tratar do tema, o que, deverá ainda ser enfrentado pelo magistrado de 1o grau em momento apropriado.
+ISTO POSTO, diante das argumentações acima, INDEFIRO o pleito de liminar para a concessão do efeito ativo, ante a ausência de amparo legal à pretensão liminar, no momento atual.
+Comunique-se ao magistrado no feito de origem, acerca da presente decisão e ainda preste informações em 10 (dez) dias, bem como, informar se houve a alteração de sua decisão, ou outro ato que possa gerar eventual perda de objeto do presente recurso.
+Intimem-se o Estado de Mato Grosso e o MT PREV para que apresentem as contrarrazões no prazo legal.
+Desnecessário o envio do feito ao representante do Ministério Público, nos moldes do Ofício 85/2017, de onde, o mesmo poderá se manifestar em sede de eventual sessão de julgamento, acaso se evidencie interesse.
+Após os trâmites, voltem-me conclusos para agendamento da sessão de julgamento.
+Às providências.
+P.I.
+Marcelo Sebastião Prado de Moraes
+Juiz de Direito - Relator
