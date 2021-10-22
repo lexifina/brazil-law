@@ -1,0 +1,13 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça (AgRg no REsp 1.246.868/SP), assim ementado (eDOC 17):
+    PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. MULA. REDUÇÃO EM 1/5. PROPORCIONAL. AGRAVO NÃO PROVIDO. 1. A jurisprudência desta Corte, acompanhando o atual posicionamento do STF, entende que a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso, a autorizar a redução da pena em sua totalidade. Contudo, embora o desempenho dessa função não seja suficiente para denotar que a agravante faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez se reveste de maior gravidade. 2. A ciência do agente de estar a serviço de grupo criminoso voltado ao tráfico internacional de drogas é circunstância apta a justificar a redução da pena em 1/5, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 (Precedentes). 3. Agravo regimental não provido.
+    Busca-se, em síntese, o aumento do patamar do redutor de que trata o art. 33, § 4º, da Lei de Drogas, aplicado em favor da paciente, para o máximo.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar. Abra-se vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 22 de outubro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
