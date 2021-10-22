@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por CLAIMAR OLTRAMARI, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IPI. ISENÇÃO. PORTADORDE DEFICIÊNCIA FÍSICA. AQUISIÇÃO DE VEÍCULO.
+1. Para o reconhecimento do direito à isenção de IPI na aquisição de veículo automotor por pessoa com deficiência física, não há necessidade deque conste restrição na CNH e necessidade de que o veículo seja adaptado, porfalta de previsão legal.
+2. Havendo divergência entre as avaliações médicas do DETRAN e do laudo médico oficial - relativa à comprovação do comprometimento funcional para obtenção de isenção do IPI para aquisição de veículo automotor-, tem-se a necessidade de dilação probatória para solução da demanda, incompatível com a via estreita da ação de Mandado de Segurança.
+No recurso especial, o recorrente aponta como violados os arts. 1º, §1º, da Lei n. 10.690/2003; 1º, IV e §1º da Lei n. 8.989/1995; 3º, I e 4º, I e 1º e 4º da INRF1.769/2017, sustentando, em síntese, que é devida a concessão de isenção de IPI para a aquisição de veículo automotor, tendo em vista a comprovação da deficiência física do contribuinte.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 7 do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+É irrefutável que o Tribunal de origem, ao apreciar o conjunto fático e probatório da presente ação mandamental, consignou expressamente que "a demanda necessita de dilação probatória para a comprovação da incapacidade apta a gerar o benefício fiscal de isenção do IPI (..)", concluindo, em seguida, que "Considerando que o pleito consiste no reconhecimento do direito à isenção de IPI para aquisição de veículo automotor, inviável a sua concessão, pois não se vislumbra a existência de direito líquido e certo, passível de ser tutelado pela via estreita do mandado de segurança.".
+Dessa forma, para rever tal posição, relativa à inexistência de comprovação da deficiência do contribuinte, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
