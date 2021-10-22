@@ -1,0 +1,45 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1000010-23.2020.8.11.0041
+Recorrente: Raimundo Nonato Pereira da Silva
+Recorrido: Banco Bradesco Financiamentos S/A
+Vistos.
+Trata-se de recurso especial interposto por Raimundo Nonato Pereira da Silva, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, em face do v. acórdão exarado pela Eg. Primeira Câmara de Direito Privado, assim ementado (id 76163494):
+“APELAÇÃO CÍVEL – AÇÃO DE REVISÃO CONTRATO BANCÁRIO – JUROS REMUNERATÓRIOS – TAXA PACTUADA DE ACORDO COM A MÉDIA DE MERCADO DIVULGADO PELO BACEN - ABUSIVIDADE NÃO DEMONSTRADA - PRECEDENTES DO STJ - CAPITALIZAÇÃO DE JUROS EM CONTRATO BANCÁRIO – POSSIBILIDADE – TAXAS E TARIFAS – LEGALIDADE - JUROS MORATÓRIOS - MANTIDO – SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+Sobre a questão prevalece no Superior Tribunal de Justiça o entendimento de que, nos contratos firmados posteriormente à entrada em vigor da MP n. 1.963- 17/2000, atualmente reeditada sob o n. 2.170-36/2001, é lícita à capitalização mensal dos juros, desde que pactuada de forma clara e expressa.
+No julgamento do citado aresto paradigmático pelo STJ (REsp 1.578.553/SP), a colenda corte superior reconheceu a ‘Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a abusividade da cobrança por serviço não efetivamente prestado; e a possibilidade de controle da onerosidade excessiva, em cada caso concreto’.
+A jurisprudência do STJ é pacífica no sentido de que, após o período de inadimplência, a comissão de permanência poderá ser exigida no limite dos encargos remuneratórios e moratórios (juros moratórios e multa) previstos no contrato e sem cumulação com estes mesmos encargos (Súmula 472, do STJ)”. (TJMT – Primeira Câmara de Direito Privado – Apelação n. 1000010-23.2020.8.11.0041, Relator: Desembargador Sebastião Barbosa Farias, j. 09/02/2021, p. 18/02/2021).
+Opostos embargos de declaração, estes foram rejeitados no acórdão id 98131992.
+Na espécie, o presente recurso foi interposto contra o aresto que negou provimento à apelação proposta por Raimundo Nonato Pereira da Silva, mantendo, assim, a sentença proferida pelo juízo da 3a Vara Esp. em Direito Bancário da comarca de Cuiabá/MT, que nos autos da ação de Revisão de Contrato com Pedido de Liminar no 1000010-23.8.11.0041 movida em desfavor do Banco Bradesco Financiamentos S.A., julgou improcedentes os pedidos da inicial, nos termos do artigo 487, I, do Código de Processo Civil, para rejeitar a tese de abusividade postas nas pretensões iniciais da parte autora, reputando regulares e razoáveis os encargos contratuais impugnados; condenou o autor ao pagamento das custas processuais e honorários advocatícios da parte contrária, fixando-os em 10% (dez por cento) do valor atribuído a causa, nos termos do artigo 85, I a IV, CPC, ficando, pois, suspensa a exigibilidade das verbas sucumbenciais da parte autora, que somente poderão ser executadas se em até 05 (cinco) anos, contados do trânsito em julgado desta, o credor provar a alteração no estado de hipossuficiência da Autora, nos termos do art. 98, § 3o, do CPC.
+A parte recorrente alega violação aos artigos 141 e 490 do Código de Processo Civil, ao argumento de que a Câmara julgadora não apreciou a pretensão de adequação da cobrança dos juros remuneratórios ao que foi pactuado em contrato de financiamento com alienação fiduciária, o que caracteriza julgamento citra petita.
+Assevera que não houve a comprovação da efetiva prestação de serviços que justifique a cobrança das tarifas de “avaliação de bem” e de “registro de contrato”, o que revela a desconformidade do aresto com a tese fixada no paradigma REsp n. 1.578.553/SP (Tema 958).
+Recurso tempestivo (id 101524958).
+As custas judiciais não foram recolhidas em virtude de a parte recorrente ser beneficiária da assistência judiciária gratuita (id 101447520).
+Sem contrarrazões, conforme id 104833483.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Conforme relatado, a parte recorrente afirma que é genérico o entendimento adotado no aresto impugnado de que houve a prestação dos serviços referentes às tarifas de “avaliação de bem” e de “registro de contrato”, o que implica na desconformidade com a tese fixada no paradigma REsp n. 1.578.553/SP (Tema 958).
+A questão abordada encontra-se afetada pela sistemática de recursos repetitivos, sendo necessária a sua aplicação no caso.
+No julgamento do paradigma REsp n. 1.578.553/SP (Tema 958), o Superior Tribunal de Justiça concluiu pela “validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a abusividade da cobrança por serviço não efetivamente prestado, consoante ementa a seguir transcrita:
+“RECURSO ESPECIAL REPETITIVO. TEMA 958/STJ. DIREITO BANCÁRIO. COBRANÇA POR SERVIÇOS DE TERCEIROS, REGISTRO DO CONTRATO E AVALIAÇÃO DO BEM. PREVALÊNCIA DAS NORMAS DO DIREITO DO CONSUMIDOR SOBRE A REGULAÇÃO BANCÁRIA. EXISTÊNCIA DE NORMA REGULAMENTAR VEDANDO A COBRANÇA A TÍTULO DE COMISSÃO DO CORRESPONDENTE BANCÁRIO. DISTINÇÃO ENTRE O CORRESPONDENTE E O TERCEIRO. DESCABIMENTO DA COBRANÇA POR SERVIÇOS NÃO EFETIVAMENTE PRESTADOS. POSSIBILIDADE DE CONTROLE DA ABUSIVIDADE DE TARIFAS E DESPESAS EM CADA CASO CONCRETO.
+1. DELIMITAÇÃO DA CONTROVÉRSIA: Contratos bancários celebrados a partir de 30/04/2008, com instituições financeiras ou equiparadas, seja diretamente, seja por intermédio de correspondente bancário, no âmbito das relações de consumo.
+2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015: 2.1.
+Abusividade da cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem a especificação do serviço a ser efetivamente prestado; 2.2. Abusividade da cláusula que prevê o ressarcimento pelo consumidor da comissão do correspondente bancário, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva; 2.3. Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a: 2.3.1. abusividade da cobrança por serviço não efetivamente prestado; e a 2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto.
+3. CASO CONCRETO.
+3.1. Aplicação da tese 2.2, declarando-se abusiva, por onerosidade excessiva, a cláusula relativa aos serviços de terceiros (‘serviços prestados pela revenda’).
+3.2. Aplicação da tese 2.3, mantendo-se hígidas a despesa de registro do contrato e a tarifa de avaliação do bem dado em garantia.
+4. RECURSO ESPECIAL PARCIALMENTE PROVIDO”. (REsp 1578553/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 28/11/2018, DJe 06/12/2018). (g.n.)
+O órgão fracionário deste Tribunal, por sua vez, limitou-se a ponderar que “no caso dos autos, houve especificação ‘de forma clara a que se destina a cobrança’ a título de ‘TARIFAS’, não sendo, pois, correta a conclusão decisória de ilegalidade das cobranças” (id 76163494 - Pág. 9).
+Nesse contexto, a parte recorrente afirma que “a ‘avaliação’ em exame no presente caso é voltada à garantia contratual do empréstimo e pressupõe um prestador de serviço, além do pagamento de certa quantia pela respectiva prestação. Quantia essa, vale salientar, repassada ao consumidor. De forma que deve ser clara e exaustivamente demonstrada o seu desembolso a fim de legitimar a cobrança”.
+Nessa linha, afirma o recorrente que “o que se exige com a referida comprovação de efetiva prestação do serviço é que se desincumba a instituição financeira do ônus de provar quem foi o perito que realizou a avaliação, quanto cobrou pela prestação de seus serviços, o resultado de seus trabalhos (laudo) e, sobretudo, demonstre o recebimento do valor (repassado ao consumidor) a título de remuneração pelo serviço de avaliação prestado”.
+Diante desse quadro, constata-se, s.m.j., que não há elementos no acórdão que apontem para a efetiva prestação do serviço, qual seja, a avaliação do bem, inclusive com a pormenorização da quantia despendida pela parte recorrida, o que revela, em princípio, a necessidade do retorno dos autos à Primeira Câmara de Direito Privado, para deliberar sobre a eventual incidência do Tema 958/STJ especificamente quanto à eventual abusividade da cobrança por serviço não efetivamente prestado.
+Ante o exposto, com fundamento no artigo 1.030, inciso II, do Código de Processo Civil, determino o retorno dos autos à Câmara de origem, para realização de possível juízo de conformidade/retratação.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
