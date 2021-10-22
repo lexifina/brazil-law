@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+RELATÓRIO
+Trata-se de embargos de declaração de fls. 161-186 opostos por JOSE DOS SANTOS CORDEIRO contra acórdão ementado nos seguintes termos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. DISCUSSÃO DA VALIDADE DA PORTARIA ANISTIADORA EM MANDADO DE SEGURANÇA. PREJUDICIALIDADE DA QUESTÃO DEBATIDA NESSE WRIT EM RELAÇÃO AO PRESENTE FEITO EXECUTIVO. MANUTENÇÃO DA SUSPENSÃO DO PAGAMENTO DO PRECATÓRIO EXPEDIDO ATÉ DECISÃO DEFINITIVA NAQUELA AÇÃO MANDAMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ÓBICE DA SÚMULA 182/STJ. NÃO OBSERVÂNCIA DO DISPOSTO NO ART. 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. É prudente que se aguarde o trânsito em julgado do MS 19.707/DF, no qual se discute a validade da portaria anistiadora, quando será assentada a conformidade da decisão ali proferida com a orientação firmada pelo Supremo Tribunal Federal no julgamento do RE 817.338/DF (Tema 839).
+2. É evidente, portanto, a prejudicialidade da questão debatida nesse writ em relação à presente execução, que se fundamenta na citada portaria de anistia, impondo-se a manutenção da suspensão do pagamento do precatório expedido até decisão definitiva naqueles autos.
+3. Ausente impugnação específica a fundamento autônomo da decisão agravada, tal situação implica o não conhecimento do agravo interno interposto por força do óbice contido na Súmula 182/STJ e do disposto no art. 1.021, § 1º, do CPC.
+4. Agravo interno não conhecido.
+O embargante alega, em síntese, que: (a) o acórdão embargado "aplicou de forma errônea a Súmula 182/STJ, para o não conhecimento do agravo interno"; (b) "no presente agravo fora atacado especificamente os fundamentos da decisão agravada"; (c) "trata-se de feito originário do STJ, não podendo utilizar-se da súmula nº 182/STJ, para o não conhecimento do agravo interno"; (d) houve omissão quanto à aplicação da orientação firmada no julgamento do RE 553.710/DF, sob o regime da repercussão geral, o que impossibilita a suspensão do pagamento do precatório; e (e) não houve pronunciamento sobre a validade da portaria anistiadora, bem como sobre a preclusão administrativa em relação à possibilidade de revisão do citado ato administrativo.
+Requer sejam acolhidos os embargos.
+Não houve apresentação de contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. ACLARATÓRIOS REJEITADOS.
+1. Consta do acórdão embargado fundamentação apta a evidenciar que o não conhecimento do agravo interno interposto anteriormente ocorreu por falta de impugnação específica a fundamento da decisão agravada, atraindo o óbice da Súmula 182/STJ e o disposto no art. 1.021, § 1º, do CPC.
+2. Inexistente o vício apontado nos moldes preconizados pelo art. 1.022 do CPC, não merecem acolhida os aclaratórios opostos, notadamente quando manifestamente impugnativos, intento esse incompatível com a via eleita.
+3. Embargos de declaração rejeitados.
+VOTO
+Em que pesem as alegações da parte embargante, consta do acórdão embargado fundamentação apta a evidenciar que o não conhecimento do agravo interno interposto anteriormente ocorreu por falta de impugnação específica a fundamento da decisão agravada, atraindo o óbice da Súmula 182/STJ e o disposto no art. 1.021, § 1º, do CPC.
+A propósito, ressalte-se que o aludido óbice sumular aplica-se, também, a processos de competência originária desta Corte Superior desde que no bojo deles tenha havido a interposição do agravo interno previsto no art. 1.021 do CPC. Nesse sentido: "É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ)" (AgInt no AREsp 1706343/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/12/2020, DJe 17/12/2020).
+Assim, revela-se inviável, na hipótese, o pretendido efeito modificativo aos embargos de declaração manejados.
+Desta forma, inexistente o vício apontado nos moldes preconizados pelo art. 1.022 do CPC, não merecem acolhida os aclaratórios opostos, notadamente quando manifestamente impugnativos, intento esse incompatível com a via eleita.
+À toda evidência, os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do que restou julgado. Nesse sentido: "Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum" (EDcl no AgInt no AREsp 1533637/AP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/03/2020, DJe 17/03/2020).
+Diante do exposto, voto por rejeitar os embargos de declaração.
