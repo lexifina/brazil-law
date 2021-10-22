@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de habeas corpus impetrado de próprio punho por Bolivar Osvaldo Sevilla Ovalle, de nacionalidade colombiana, contra ato praticado pelo Ministro da Justiça e Segurança Pública, consubstanciado na edição da Portaria n. 767, de 6 de junho de 2018, que determinou sua expulsão do território nacional.
+Encaminhados os autos à Defensoria Pública da União, não foi verificado por aquele órgão nenhuma das hipóteses descritas no Acordo de Cooperação Técnica STJ n. 2/2020. Por esse motivo, o feito foi devolvido a esta Corte de Justiça para apreciação do pedido veiculado.
+Alega o impetrante que foi condenado a 6 anos, 1 mês e 15 dias de reclusão pelo crime de associação para o tráfico, pena que já cumpriu integralmente.
+Aduz que "existe uma contradição nos fatos que, depois de que a justiça brasileira logrou verificar que era uma pessoa que havia conseguido uma reabilitação total para poder reinserir-me na sociedade e voltar ao convívio social, o MINISTÉRIO DE JUSTIÇA, antecipadamente à execução da pena, determina que não sou apto para conviver na sociedade BRASILEIRA e que a ORDEM PÚBLICA estaria em risco de ser violentada pela minha permanência no território BRASILEIRO E DECIDE QUE DEVO SER EXPULSO POR 12 ANOS DO BRASIL, baseando-se na Lei de 24 de maio 2017" (e-STJ, fl. 6).
+Afirma que a Portaria de Expulsão em comento foi baseada na Lei de 24 de maio de 2017, a qual previu a possibilidade de expulsão por crime comum, modificando a Lei n. 6.815/1980, a qual previa a expulsão somente para os que cometessem crimes hediondos.
+Argumenta, nesse ínterim, que "o MINISTÉRIO DE JUSTIÇA excedeu-se na sua função quando, para meu caso, que vem do ano 2013, aplica uma norma promulgada e vigente desde o ano 2017 aos fatos anteriores a esta, violentando com isto o principio da irretroatividade da lei, faltando deste jeito aos direitos constitucionais do devido processo segundo o artigo, art. 5, incisos XIV" (e-STJ, fl. 7).
+Em vista disso, requer a revogação da precitada portaria de expulsão por contrariar o ordenamento constitucional.
+A liminar foi indeferida às e-STJ, fls. 20-21.
+Solicitadas informações, foram prestadas às e-STJ, fls. 28-245.
+Parecer do Ministério Público Federal pela denegação da ordem (e-STJ, fls. 246-250).
+É o relatório.
+Ohabeas corpusconstitui remédio jurídico-processual, de índole constitucional, cujo escopo visa resguardar a liberdade de locomoção contra ilegalidade ou abuso de poder, sendo marcado por cognição sumária e rito célere, motivo pelo qual não comporta análise de questões que, para seu deslinde, demandem aprofundado exame do conjunto fático-probatório dos autos, peculiar ao processo de conhecimento.
+Por sua vez, o instituto da expulsão é prerrogativa constitucional atribuída ao Poder Executivo, o qual é responsável pela política externa e pelas relações internacionais do Brasil com outros Estados. Dessa forma, imperioso reconhecer que a expulsão é ato discricionário praticado pelo Poder Executivo, ao qual incumbe a análise da conveniência, necessidade, utilidade e oportunidade da permanência de estrangeiro que cometa crime em território nacional, caracterizando verdadeiro poder inerente à soberania do Estado.
+A matéria poderá ser submetida à apreciação do Poder Judiciário, mas este ficará limitado ao exame acerca do cumprimento formal dos requisitos e à inexistência de entraves à expulsão, haja vista o disposto no art. 55 da Lei n. 13.455/2017,in verbis:
+Art. 55. Não se procederá à expulsão quando:
+I - a medida configurar extradição inadmitida pela legislação brasileira;
+II - o expulsando:
+a) tiver filho brasileiro que esteja sob sua guarda ou dependência econômica ou socioafetiva ou tiver pessoa brasileira sob sua tutela;
+b) tiver cônjuge ou companheiro residente no Brasil, sem discriminação alguma, reconhecido judicial ou legalmente;
+c) tiver ingressado no Brasil até os 12 (doze) anos de idade, residindo desde então no País;
+d) for pessoa com mais de 70 (setenta) anos que resida no País há mais de 10 (dez) anos, considerados a gravidade e o fundamento da expulsão.
+No caso, oimpetrante afirma ainaplicabilidade da Lei n.13.445/2017 à hipótese ora em estudo, levando em conta que é posterior à sua condenação, devendo ser aplicada a Lei n. 6.815/1980, que previa a expulsão apenas para crimes hediondos.
+Entretanto, é certo que a Portaria de expulsão do ora paciente data de 6 de junho de 2018, portanto editada sob a égide da nova lei de imigração.
+Confira-se, nesse aspecto, as informações prestadas pela autoridade apontada como coatora:
+24. Deve-se pontuar que o processo de expulsão está em perfeita consonância com os preceitos legais vigentes, tendo sido observadas todas as formalidades legais, com garantia do contraditório e da ampla defesa, inclusive por intermédio da Defensoria Pública da União, conforme apontado no Despacho nº 303/2017/GABDEMIG/DEMIG/SNJ.
+25. A esse respeito, cumpre salientar que, em 09/12/2015, após o encaminhamento, pelo juízo da 3ª Vara Federal Criminal/RJ, de cópia da sentença condenatória proferida nos autos da ação penal nº 0802404-65.2013.4.02.5101, foi determinada, por intermédio do Despacho nº 522/2015/SEXP/DIMEC/DEEST/SNJ, a instauração de inquérito para fim de expulsão, em desfavor do impetrante, com base nos artigos 70 e 71 da Lei nº 6.815/80, vigentes à época, os quais dispunham:
+Art. 70. Compete ao Ministro da Justiça, de ofício ou acolhendo solicitação fundamentada, determinar a instauração de inquérito para a expulsão do estrangeiro. (Renumerado pela Lei nº 6.964, de 09/12/81)
+Art. 71. Nos casos de infração contra a segurança nacional, a ordem política ou social e a economia popular, assim como nos casos de comércio, posse ou facilitação de uso indevido de substância entorpecente ou que determine dependência física ou psíquica, ou de desrespeito à proibição especialmente prevista em lei para estrangeiro, o inquérito será sumário e não excederá o prazo de quinze dias, dentro do qual fica assegurado ao expulsando o direito de defesa. (Renumerado pela Lei nº6.964, de 09/12/81)
+27. Por outro lado, conforme informado pelo Departamento de Migrações, otrânsito em julgado da decisão condenatória ocorreu em 11 de maio de 2018, quando já estava em vigor a Lei nº 13.445/2017, que instituiu a Lei de Migração. Assim, foi determinada a expulsão de referido imigrante nos termos do artigo 54, § 1º II, e § 2º da Lei de Migração, in verbis:
+Art. 54. A expulsão consiste em medida administrativa de retirada compulsória de migrante ou visitante do território nacional, conjugada com o impedimento de reingresso por prazo determinado.
+§ 1º Poderá dar causa à expulsão a condenação com sentença transitada em julgado relativa à prática de: ..
+II - crime comum doloso passível de pena privativa de liberdade, consideradas a gravidade e as possibilidades de ressocialização em território nacional.
+§ 2º Caberá à autoridade competente resolver sobre a expulsão, a duração do impedimento de reingresso e a suspensão ou a revogação dos efeitos da expulsão, observado o disposto nesta Lei. ..  (grifou-se)
+29.Portanto, carece de qualquer amparo a tese defendida pelo impetrante no sentido de que a portaria de expulsão teria violado o princípio da irretroatividade da lei" (fls. 37-38).
+Não bastasse isso, é certo que o impetrante não apresenta nenhuma documentação nos autos hábil a comprovar a referida situação, tampouco apresentacomprovação de plano acerca dequalquer mácula ao devido processo legal durante o processamento da medida de expulsão.
+Aliás, nem se aponta, na inicial, eventual nulidade do ato expulsório, ou qualquer causa de inexpulsabilidade, tampouco demonstra de que forma teria ocorrido ofensa ao postulado da dignidade da pessoa humana, de modo a ensejar a invalidação do decreto expulsório, o que impossibilita o reconhecimento, nesta via, da concessão da ordem.
+Verifica-se, pois, que o decreto expulsório atende o que dispõe o art. 54, § 1º, II, da Lei n. 13.455/2017, encontrando-se motivado em virtude de o paciente ter sido condenado, com sentença transitada em julgado, pela prática do crime de tráfico internacional de drogas em associação.
+Ante o exposto, denego a ordem nohabeas corpus.
+Publique-se. Intimem-se.
