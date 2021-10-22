@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto porROBERTO EUSTÁQUIO ALBINO com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL. DECISÃO QUE JULGA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CONTINUIDADE DO CUMPRIMENTO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO.
+1. Nos termos do parágrafo único do art. 1.015 do CPC, as decisões interlocutórias proferidas na fase de cumprimento de sentença são recorríveis mediante a interposição de agravo de instrumento, salvo quando importar na extinção do cumprimento de sentença, caso em que caberá apelação.
+2. No caso dos autos, a decisão recorrida rejeitou a impugnação apresentada pelo executado, homologando os cálculos elaborados pelo exequente, ou seja, não extinguiu o feito. Logo, considerando a natureza interlocutória da decisão impugnada, o recurso cabível é o agravo de instrumento. Havendo previsão legal expressa, não há dúvida objetiva a autorizar a aplicação do princípio da fungibilidade.
+3. Apelação não conhecida.
+No presente recurso especial, o recorrente aponta violação ao art. 203, § 1º, do CPC/2015. Aduz que o ato judicial que extingue a execução e determina o seu arquivo classifica-se como sentença, a qual desafia a interposição do recurso de apelação.
+É o relatório. Decido.
+O Superior Tribunal de Justiça possuientendimento de que, no sistema do vigenteCódigo de Processo Civil, a apelação é o recurso cabível contra a decisão que acolhe a impugnação ao cumprimento de sentença para extingui-lo. Entende ainda que a decisão que julga improcedente a impugnação, dando, assim, prosseguimento à fase executiva, não tem natureza jurídica de sentença definitiva, desafiando, por isso, agravo de instrumento.
+Nesse sentido,in verbis:
+PROCESSUAL CIVIL. RECURSOS. CPC/2015. DECISÃO QUE ENCERRA FASE PROCESSUAL. SENTENÇA, CONTESTADA POR APELAÇÃO. DECISÕES INTERLOCUTÓRIAS PROFERIDAS NA FASE EXECUTIVA, SEM EXTINÇÃO DA EXECUÇÃO. AGRAVO DE INSTRUMENTO.
+1. Caso em que a Corte de origem entendeu que é cabível Apelação da decisão que julga procedente impugnação em cumprimento de sentença.
+2. O STJ, julgando o tema recentemente, decidiu que "no sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento" (REsp 1.698.344/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 1/8/2018.
+3. Recurso Especial não provido.
+(REsp 1767663/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/11/2018, DJe 17/12/2018)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSOS. CPC/2015. DECISÃO QUE ENCERRA FASE PROCESSUAL. SENTENÇA, CONTESTADA POR APELAÇÃO. DECISÕES INTERLOCUTÓRIAS PROFERIDAS NA FASE EXECUTIVA, SEM EXTINÇÃO DA EXECUÇÃO. AGRAVO DE INSTRUMENTO.
+1. Dispõe o parágrafo único do art.1015 do CPC/2015 que caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário. Por sua vez, o art. 1.009, do mesmo diploma, informa que caberá apelação em caso de "sentença".
+2. Na sistemática processual atual, dois são os critérios para a definição de "sentença": (I) conteúdo equivalente a uma das situações previstas nos arts.485 ou 489 do CPC/2015; e (II) determinação do encerramento de uma das fases do processo, conhecimento ou execução.
+3. Acerca dos meios de satisfação do direito, sabe-se que o processo de execução será o adequado para as situações em que houver título extrajudicial (art. 771, CPC/2015) e, nos demais casos, ocorrerá numa fase posterior à sentença, denominada cumprimento de sentença (art. 513, CPC/2015), no bojo do qual será processada a impugnação oferecida pelo executado.
+4. A impugnação ao cumprimento de sentença se resolverá a partir de pronunciamento judicial, que pode ser sentença ou decisão interlocutória, a depender de seu conteúdo e efeito: se extinguir a execução, será sentença, conforme o citado artigo 203, §1º, parte final; caso contrário, será decisão interlocutória, conforme art.203, §2º, CPC/2015.
+5. A execução será extinta sempre que o executado obtiver, por qualquer meio, a supressão total da dívida (art. 924, CPC/2015), que ocorrerá com o reconhecimento de que não há obrigação a ser exigida, seja porque adimplido o débito, seja pelo reconhecimento de que ele não existe ou se extinguiu.
+6. No sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento.
+7. Não evidenciado o caráter protelatório dos embargos de declaração, impõe-se a inaplicabilidade da multa prevista no § 2º do art. 1.026 do CPC/2015. Incidência da Súmula n. 98/STJ.
+8. Recurso especial provido.
+(REsp 1698344/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/05/2018, DJe 01/08/2018)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial
+Publique-se. Intimem-se.
