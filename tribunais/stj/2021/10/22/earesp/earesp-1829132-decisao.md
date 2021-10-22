@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por ALDERES FERNANDES NEISS com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com o EREsp n. 1.084.522/CE, de relatoria do Min. Marco Aurélio Bellizze, assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. ART. 266 DO RISTJ. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE O ACÓRDÃO RECORRIDO E OS TRAZIDOS COMO PARADIGMAS. ALEGADA OMISSÃO NO DECISUM. INEXISTÊNCIA. APRECIAÇÃO DE TODOS OS ARGUMENTOS LEVANTADOS NAS RAZÕES DO REGIMENTAL. PARTICIPAÇÃO, NO JULGAMENTO DESTA CORTE, DE DESEMBARGADOR CONVOCADO QUE HAVIA VOTADO NO JULGAMENTO DA APELAÇÃO CRIMINAL NA ORIGEM. NULIDADE ABSOLUTA. ART. 252, III, DO CPP. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. Inexistindo omissão no acórdão embargado, mostra-se incabível o acolhimento dos presentes embargos de declaração, porquanto ausentes os requisitos do art. 619 do CPP.
+2. Nos termos do art. 252, III, do CPP, o juiz não poderá exercer jurisdição no processo em que tiver funcionado como juiz de outra instância, pronunciando-se, de fato ou de direito, sobre a questão.
+3. Assim, considerando que o então Desembargador convocado, embora tenha votado no julgamento da apelação criminal no Tribunal de Justiça do Ceará, também participou do julgamento proferido no AgRg no REsp nº 1.084.522/CE, referente a estes embargos de divergência - situação que corresponde à hipótese de impedimento prevista no referido dispositivo legal -, é de rigor o reconhecimento da nulidade absoluta.
+4. Embargos de declaração rejeitados. Concedida ordem de habeas corpus, de ofício, para, anulando as decisões anteriores, determinar a renovação do julgamento do agravo regimental no recurso especial pela Sexta Turma desta Corte.
+Aponta que é "Nítido o paralelismo dos julgados. Enquanto o acórdão paradigma sustenta que pode ser concedido habeas corpus de ofício mesmo nos casos em que o recurso constitucional não for conhecido, podendo, inclusive a parte pugnar pela sua concessão - como se depreende do próprio relatório do acórdão paradigma - o acórdão recorrido sustenta que não é possível a concessão de habeas corpus de ofício nas situações em que o recurso constitucional não é conhecido, não cabendo a parte pugnar por tal concessão." (fls. 1475)
+Requer, desse modo, o provimento dos embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da ausência de impugnação aos fundamentos da decisão recorrida. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
