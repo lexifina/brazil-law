@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 2, p. 211):
+    “EMENTA: REMESSA NECESSÁRIA – MANDADO DE SEGURANÇA – TRANSPORTE IRREGULAR DE PASSAGEIROS – DER/MG – FISCALIZAÇÃO DO TRANSPORTE INTERMUNICIPAL – LEI N°. 19.445/2011 – LIMITAÇÃO – CÓDIGO DE TRÂNSITO BRASILEIRO – APREENSÃO DO VEÍCULO – DESCABIMENTO – IMPOSIÇÃO DE MULTA EM 500 UFEMGS – ILEGALIDADE – OFENSA À CLÁUSULA DE RESERVA DE PLENÁRIO – INEXISTÊNCIA – INCONSTITUCIONALIDADE DECLARADA PELO ÓRGÃO ESPECIAL DO TJMG – VALIDADE DOS EFEITOS DA SEGURANÇA NO QUE SE REFERE À PENALIDADE DE APREENSÃO – ENTRADA EM VIGOR DA LEI FEDERAL N. 13.855/2019.
+    - A previsão contida na Lei Estadual n. 19.445/2011 no que tange à penalidade de apreensão imposta à atividade de transporte irregular de passageiros, destoa da norma inserta no Código de Trânsito Brasileiro, que, em seu artigo 231, apenas estabelece a medida administrativa de retenção do veículo.
+    - Despropositada a majoração superior a 10(dez) vezes, pela norma estadual, do valor da multa da infração de transporte irregular de passageiros, a qual tem montante delineado no próprio Código de Trânsito Brasileiro nos termos do art. 258, III, com a redação conferida pela Lei de n°. 13.281/2016.
+    - A inconstitucionalidade dos arts. 6° e 7° da Lei Estadual de n°. 19.445/2011 já foi declarada pelo Órgão Especial deste Eg. Tribunal, por ocasião da Arguição de Inconstitucionalidade de n°. 1.0024.12.132317- 4/004, não havendo de se falar em violação à cláusula de reserva de plenário.
+    - Considerando a entrada em vigor da Lei Federal n. 13.855/2019, que alterou o artigo 231 do CTB, devem ser limitados os efeitos da concessão da segurança, no que tange à penalidade de apreensão, até 06/10/2019, sendo lícita, a partir de 07/10/2019, a conduta do agente público de apreender/remover o veículo que efetue transporte de passageiro de forma clandestina, com fulcro na Lei Estadual nº 19.445/2011.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 301).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, do texto constitucional, aponta-se violação ao art. 22, XI, da Constituição da República. Nas razões recursais, sustenta-se, em síntese, que (eDOC 2, p. 319):
+    “a Lei 19.445/11 não legisla sobre trânsito, mas tão somente regulamenta o poder de polícia com a imposição de medidas coercitivas a serem exercidas pelo ente competente, no âmbito de suas atribuições (transporte intermunicipal), nos termos do § 1º do art. 25 da Constituição Federal.”
+    Sustenta-se, ainda, que a lei impugnada está em consonância com a Constituição Federal e que o próprio Código de Trânsito Brasileiro prevê a competência dos Estados para regulamentar o transporte intermunicipal e aplicar as penalidades e medidas administrativas por ele previstas, como a apreensão dos veículos e a sanção de multa (eDOC 2, p. 320).
+    É o relatório. Decido.
+    De plano, verifica-se que a controvérsia cinge-se ao Tema 546 da sistemática da repercussão geral, cujo paradigma é o RE 661.702 RG, Rel. Min. Marco Aurélio, Tribunal Pleno, DJe 19.05.2020, assim ementado:
+    “TRANSPORTE COLETIVO – CONTRATO PÚBLICO DE CONCESSÃO – HIGIDEZ – DISCIPLINA NORMATIVA. Surge constitucional previsão normativa local voltada a coibir fraude considerado o serviço público de transporte coletivo, e inconstitucional o condicionamento de liberação de veículo aprendido ao pagamento de multas, preços públicos e demais encargos decorrentes de infração.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 22 de outubro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
