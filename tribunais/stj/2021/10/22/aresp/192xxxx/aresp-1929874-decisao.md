@@ -1,0 +1,9 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso interpostopelo INSTITUTO NACIONAL DO SEGURO SOCIAL- INSS, com amparo na alínea "a"doinciso IIIdo art. 105 da CF/1988, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+Orecorrente, em síntese, aponta, além de ofensa ao art. 1.022 do CPC, que "v. acórdão fere o princípio tempus regict actum, uma vez que o agente insalubre ruído está dentro do limite legal previsto no anexo IV do Decreto nº 2.172/97, substituído pelo Decreto nº 3.048/99, havendo afronta aos artigos: 57, §§ 3º e 4º e 58, §1º, da Lei 8.213/91" (e-STJ, fl. 363).
+É o relatório.
+A questão jurídica referente àpossibilidade de reconhecimento de tempo especial por exposição ao agente ruído em nível inferior a 90dB no período compreendido entre 5/3/1997 e 18/11/2003, por força da aplicação retroativa do limite de 85dB estipulado pelo Decreto n. 4.882/2003 ao Anexo IV do Decreto n. 3.048/1999foi apreciada sob o regime dosprecedentes qualificados vinculantes pelo Superior Tribunal de Justiçanos seguintes termos:
+Tema 694/STJ:O limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6.3.1997 a 18.11.2003, conforme Anexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999, sendo impossível aplicação retroativa do Decreto 4.882/2003, que reduziu o patamar para 85 dB, sob pena de ofensa ao art. 6º da LINDB (ex-LICC).
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
