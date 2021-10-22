@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de requisição de pagamento oriunda daExeMS 17543 (201900997045)expedida em favor de JORGE ALBERTO GIRAO DE SOUZA BARROS eMARISE JUSSARA FRANZ LUVISON, estes beneficiários de destaque de honorários advocatícios.
+Intimada acerca de regularidade formal, a UNIÃOnão se opôs. Informou, porém, que requereu nos autos principais o decote/abatimento dos honorários sucumbenciais devidos pelo(a) requerente quando do pagamento da requisição.
+Em parecer, o Ministério Público Federal opinou pelo sobrestamento do procedimento.
+Certidão da Seção de Precatórios e RPV noticia a disponibilidade de verba para liquidação deste precatório.
+É, no essencial, o relatório. Decido.
+Decisão proferida nos autos principais indeferiu o pedido formulado pela UNIÃO para que seja promovido o decote/abatimento dos honorários sucumbenciais devidos pelo(a) requerente, uma vez que a requisição é relativa a valor incontroverso. Não há que se falar, portanto, em qualquer abatimento no valor requisitado.
+Ante o exposto, e considerando a concordância manifestada em relação à regularidade formal e a notícia de disponibilidade financeira, determino o pagamento desta requisição mediante abertura de conta remunerada em nome do(s) beneficiário(s) em instituição financeira conveniada, reservados os recursos das requisições anteriores pendentes de pagamento.
+Transcorrido o prazo de 10 (dez) dias, cumpra-se (art. 59 da Lei n. 9.784/99).
+Publique-se. Intimem-se.
