@@ -1,0 +1,36 @@
+DECISÃO
+Ministério Público Federal ajuizou ação civil pública, com pedido de antecipação dos efeitos da tutela, contra a União, o Estado de Minas Gerais e o Município de Uberlândia/MGobjetivando compelir os entes federados réus a promoverem a imediata transferência da paciente Guilhercina Moreira Domingos para uma Unidade de Tratamento Intensivo - UTI, tendo em vista a gravidade de seu quadro clínico de infarto agudo do miocárdio e séptico, além do fato de a Unidade de Atendimento Integrado - UAI "Luizote" em que se encontrava não oferecer estrutura física e nem dispor de recursos humanos necessários para atender casos de tamanha gravidade.
+A sentença acolheu a ilegitimidade passiva da União e do Estado de Minas Gerais, julgando procedente a ação para condenar a municipalidade às respectivas despesas (fls. 151-167).
+O Tribunal Regional Federal da 1ª Região, em grau recursal, deu parcial provimento aos recursos de apelação do Ministério Público Federal e do Município de Uberlândia/MG, reformando parcialmente a decisão de primeiro grau para incluir a União e o Estado de Minas Gerais no polo passivo da demanda, nos termos da seguinte ementa (fl. 246):
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL.TRATAMENTO DE SAÚDE. JUSTIÇA FEDERAL. COMPETÊNCIA. MINISTÉRIO PÚBLICO FEDERAL. LEGITIMIDADE. PRELIMINAR REJEITDA. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. CONTROVÉRSIA DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. SENTENÇA PARCIALMENTE REFORMADA.
+1."Por se tratar de órgão da União, o ajuizamento da ação pelo Ministério Público Federal é suficiente para determinar a competência da Justiça Federal (art. 109, I, da Constituição), o que não afasta a necessidade de verificação, pelo juiz, da legitimidade ad causam" (REsp n. 1.060.7591AC  Relator Ministro Herman Benjamin  DJe de 31.08.2009). Preliminar rejeitada.
+2. O Supremo Tribunal Federal, em análise de repercussão geral, reafirmou a sua jurisprudência no sentido de que: "O tratamento médico adequado aos necessitados se insere no rol dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente" (RE n. 855.178/SE, Relator Ministro Luiz Fux, DJe de 16.03.2015).
+3. A União e o Estado de Minas Gerais, portanto, são partes legitimas para figurar no polo passivo da demanda.
+4. Sentença parcialmente reformada.
+5. Apelações providas, para determinar a inclusão da União e do Estado de Minas Gerais no polo passivo da demanda.
+Opostos embargos de declaração pelo Estado de Minas Gerais, foram eles rejeitados (fls. 263-267).
+Estado de Minas Gerais interpôs recurso especial, com fundamento no artigo 105, inciso III, alínea a, da Constituição da República, alegando violação do art. 1.022, II, do CPC de 2015, visto que, em suma, quedou-se silente a Corte Regional do enfrentamento de questão relevante à solução da lide, notadamente da falta de interesse e de legitimidade recursal do Ministério Público Federal para recorrer da sentença que garantiu a internação do paciente na UTI, tendo agido em clara defesa da Fazenda Pública Municipal.
+Não foram apresentadas contrarrazões ao recurso especial.
+Instado a se manifestar, opinou o Ministério Público Federal pelo desprovimento do recurso especial (fls. 303-306).
+É o relatório. Decido.
+Em relação à alegada violação do art. 1.022, II, do CPC/2015, não se vislumbra pertinência na alegação, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação da recorrente evidentemente limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso declaratório.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da violação dos mencionados artigos processuais, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. ART. 1022 DO CPC/2015. OFENSA NÃO VERIFICADA. BASE DE CÁLCULO DA CONTRIBUIÇÃO DEVIDA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ .. .
+3. Agravo interno desprovido (AgInt no REsp 1.643.573/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 8/11/2018, DJe 16/11/2018).
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+ .. .
+6. Agravo interno não provido (AgInt no REsp 1.719.870/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/9/2018, DJe 26/9/2018).
+Ademais, também se constata a falta de interesse recursal do ente federado estadual recorrente, porquanto é notório que o recurso de apelação apresentado pelo Município de Uberlândia também tinha por objeto o reconhecimento da União como parte passiva legítima. A propósito, os seguintes trechos dodecisum(fl. 241):
+Trata-se de apelações interpostas pelo Ministério Público Federal e pelo Município de Uberlândia (MG) em face de sentença que, acolhendo a preliminar de ilegitimidade passiva suscitada pela União e pelo Estado de Minas Gerais,  julgou extinto o processo em relação a eles e, no mérito, julgou procedente o pedido, unicamente em face do Município de Uberlândia, determinando que o mesmo arque com todas as despesas de internação do paciente, em ação mediante a qual se busca a realização de tratamento de saúde.
+Os apelantes alegam, preliminarmente, a nulidade da sentença por incompetência absoluta do juizo, argumentando que, ao excluir da lide a União e o Estado de Minas Gerais, o magistrado afastou a competência da Justiça Federal, devendo o processo ser encaminhado para a Justiça Estadual, caso não seja reconhecida a legitimidade da União.
+Pugnam, assim, pela reforma da sentença, para reconhecer a legitimidade da União e do Estado de Minas Gerais, com a consequente responsabilidade financeira dos entes federados pelo custeio do tratamento fornecido.
+ ..
+Ante o exposto, dou parcial provimento às apelações, apenas para determinar a inclusão da União e do Estado de Minas Gerais no polo passivo da demanda.
+Nesse panorama, nem de longeteria atuado o Parquet Federal em defesa do Município, e eventual provimento do presente recurso não traria qualquer providência objetiva.
+Ante o exposto, com fundamento no art. 255, §4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
