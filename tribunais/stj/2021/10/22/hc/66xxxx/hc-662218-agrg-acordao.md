@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+RICARDO QUEIROZ RODRIGUES interpõe agravo regimental contra decisão que denegou a ordem de habeas corpus e manteve sua prisão preventiva.
+No regimental, sustenta a defesa a ausência dos requisitos autorizadores da segregação cautelar, a não ocorrência dos fatos conforme narrado na denúncia, a ausência de intenção de matar a vítima e a falta de consideração das condições pessoais favoráveis do paciente.
+Requer, diante disso, a reconsideração da decisão anteriormente proferida ou a submissão do feito a julgamento pelo órgão colegiado, para que seja conhecido o agravo e dado provimento ao habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA FUNDAMENTADA. PERICULOSIDADE DO AGENTE. GRAVIDADE EM CONCRETO. CONDIÇÕES PESSOAIS FAVORÁVEIS NÃO IMPEDE PRISÃO PREVENTIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Há motivação suficiente e concreta a justificar a segregação preventiva, sobretudo diante das circunstâncias em que o delito foi cometido, do descumprimento de condições anteriormente impostas à concessão de liberdade provisória pelo juízo de origem e da periculosidade concreta e acentuada do acusado.
+2. O fato de ter praticado novo delito enquanto gozava do benefício de liberdade provisória anteriormente concedida nestes autos reforça a necessidade de sua segregação e é suficiente para evidenciar risco concreto de reiteração delitiva e justificar manutenção de sua segregação cautelar.
+3. Condições pessoais favoráveis ao agente não representam óbice, por si sós, à decretação da prisão preventiva quando identificados os requisitos legais da cautelar.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pela defesa, deve a decisão vergastada ser mantida pelos seus próprios fundamentos.
+Inicialmente, destaco que a motivação do delito e a intenção do recorrente de lesionar ou matar a vítima exigem revolvimento do conteúdo fático-probatório, o que é incabível na via eleita.
+Na espécie, houve motivação suficiente e concreta na decisão impugnada a justificar a segregação preventiva, sobretudo ao destacar as circunstâncias em que o delito foi cometido, o descumprimento de condições anteriormente impostas à concessão de liberdade provisória pelo juízo de origem e a periculosidade concreta e acentuada do acusado - que efetuou disparo contra a vítima dentro de um estabelecimento comercial com outras pessoas no recinto.
+O fato de o réu ter cometido novo delito enquanto gozava do benefício de liberdade provisória anteriormente concedida nestes autos reforça a necessidade de sua segregação. Além de descumprir as cautelares diversas à prisão que lhe foram impostas, o agravante foi preso em flagrante pela prática de novo crime, ao portar nova arma de fogo.
+A defesa argumenta que "em que pese tenha sido surpreendido portando arma de fogo, se tratava de arma de uso permitido, a qual, no momento da prisão, estava coldreada e com as munições intactas, portanto, em nenhum momento foi utilizada, não tendo produzido maiores consequências (fl. 760)".
+No entanto, tais argumentos não desnaturam o fato de ter sido praticado novo delito em descumprimento ao livramento condicional concedido, pelo qual o agente foi condenado a 2 anos de reclusão.
+No regimental, discute-se também a localização geográfica de onde o paciente foi surpreendido quando portava a arma de fogo e o horário em que ocorreu o flagrante, mas o simples fato de novo delito ter sido cometido (e por ele, condenado) já é suficiente para caracterizar o descumprimento do livramento condicional anteriormente concedido e motivar a manutenção de sua segregação cautelar, daí ser desnecessário, para fins deste HC, esmiuçar-se em tais detalhes.
+Assim, embora tal fato seja posterior ao ora apurado e, por isso, não possa ser reconhecido como reincidência ou maus antecedentes, como sustentado pela defesa, é suficiente para evidenciar risco concreto de reiteração delitiva e justificar a manutenção da segregação cautelar do insurgente.
+Esta Corte entende que "o Réu estava, no momento da prisão em flagrante, "em cumprimento de pena no gozo de livramento condicional", o que justifica a segregação cautelar para garantia da ordem pública". (RHC 129.064/MG, Rel. Ministra Laurita Vaz, 6ª T., 19/8/2020).
+A defesa também destaca características pessoais do recorrente, todavia, este Superior Tribunal entende que "a presença de condições pessoais favoráveis ao agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva quando identificados os requisitos legais da cautela" (HC n. 498.771/SP, Relator Ministro Joel Ilan Paciornik, 5ª T., DJe 12/11/2019, grifei).
+Por fim, apenas em agravo regimental trouxe a defesa argumentos de suposto constrangimento ilegal que o paciente estaria sofrendo em razão de não ter sido efetivada "a sua transferência do presídio de Iturama/MG para o de Paranaiba/MS e, posteriormente a sua prisão especial em virtude de ser portador de curso superior" (fl. 762). Aduz que tais medidas já foram determinadas pelo Juízo de origem, mas até o presente momento não teriam sido cumpridas.
+Contudo, o alegado constrangimento não foi objeto de análise pelo Tribunal Estadual, o que impede sua apreciação por esta Corte Superior, sob pena de supressão indevida de instância.
+Dessa forma, não merece reforma o decisum que denegou a ordem de habeas corpus.
+À vista do exposto, nego provimento ao agravo regimental.
