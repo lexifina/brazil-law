@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por MARCOS ANTONIO LOPES GONÇALVEScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n.2049131-75.2021.8.26.0000).
+Em primeiro grau, o recorrente foi condenado às penas de 5 anos e 10 meses de reclusãoem regime fechadoe de 583 dias-multa, pela prática do delito descrito no art. 33,caput, da Lei n. 11.343/2006. Foi-lhe negado o direito de recorrer em liberdade.
+Alega não estarem presentes os requisitos autorizadores da segregação cautelar, porquanto não representa nenhum risco paraa ordem pública e paraa aplicação da lei penal.Sustenta que tanto odecreto quantoa manutenção da prisão preventiva carecem de fundamentação concreta. Aduz ainda que o Tribunal de origem deveria, no acórdão, apontar as razõespara a manutenção da custódia, o que não foi feito.
+Ressalta que a gravidade abstrata do crime não constitui motivação idônea.
+Assevera ser réu primário, terbons antecedentes, família constituída, residência fixa e trabalho lícito. Destacater sido surpreendido pelos policiais quando adquiria entorpecentes para consumo próprio.
+Apontafalta de fundamentação na negativa para a aplicação de medidas cautelares diversas da prisão. Assim, argumenta que a custódia é desproporcional, pois, caso a condenação seja confirmada, certamente a sentença será reformada e iniciará o cumprimento da pena em regime aberto, com base no art. 33, § 2º, c, do Código Penal, c/c o § 4ºdo art. 33da Lei n.11.343/2006.
+Defende a adoção de outras medidas legais.
+Requer, ao final, o provimento do recurso para que se reforme o acórdãocom a consequente concessão de liberdade, com ou sem aplicação de medidas cautelares alternativas, até o julgamento final da ação penal.
+O pedido de liminar foi indeferido às fls. 201-202.
+O Ministério Público Federal manifestou-se pelo parcial conhecimento do recurso ordinário em habeas corpus e, na parte em que conhecido, pelo seu não provimento (fls. 220-225).
+É o relatório. Decido.
+No que diz respeito à desclassificação do crime e à desproporcionalidadeem face de possível futura reforma na pena, as questõesnão foramenfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma,DJede 14/9/2018). Portanto, neste ponto, o recurso não merece conhecimento.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 141-154):
+Com efeito, assim foi exarado o r. decisum:
+"Denego ao acusado o direito de apelar em liberdade. Em fato, o delito de tráfico possui grande perniciosidade social, o qual está sempre associado a uma organização criminosa, em maior ou menor grau de proximidade, e com desdobramentos em outros crimes. Assim, a custódia cautelar do réu é necessária para a garantia da ordem pública. Ademais, o acusado permaneceu preso durante toda a instrução processual, de modo que agora condenado, sua soltura configurar-se-ia em contrassenso. Outrossim, o autuado foi preso em posse de quantidade significativa de entorpecentes ,fracionadas em porções individualizadas e elevado numerário, em local conhecido pelo intenso comércio de entorpecentes a demonstrar, não se tratar de pequeno traficante e denotar a elevada possibilidade de recidiva no comércio espúrio, ante o dinheiro rápido e fácil que ele proporciona."(fls. 234 dos autos principais)
+Como bem ressaltou a r. sentença, o Paciente permaneceu preso durante toda a instrução, em razão de sua prisão preventiva, a qual foi decretada nos seguintes termos:
+ ..
+O tráfico de drogas contribui de forma determinante para a manutenção de uma realidade perniciosa com a qual todos os cidadãos têm que conviver e está diretamente ligado a inúmeros crimes que retiram a tranquilidade da sociedade.
+No caso dos autos, os policiais faziam patrulhamento no local, quando visualizaram o acusado e outro indivíduo. Ao visualizarem a viatura, ambos correram, tendo o acusado dispensado uma pochete ao solo.
+A pochete continha quarenta e três pinos de cocaína, além da quantia de R$125,00 em dinheiro, tendo o acusado alegado que a droga era de propriedade de um desconhecido, o qual havia lhe vendido dois pinos de cocaína.
+Interrogado, o acusado negou a prática do tráfico de drogas, bem como a propriedade da droga que fora encontrada.
+ ..
+A versão exposta pelo acusado deve ser melhor analisada em instrução, especialmente porque os policiais afirmaram ter visto o acusado dispensando a pochete com a droga localizada.
+De fato, há prova da materialidade e indícios da autoria, de modo que, para resguardo da ordem pública, de rigor a conversão da prisão em flagrante em preventiva, até instrução, quando a sua versão poderá ser melhor analisada.
+No caso, a quantidade de drogas apreeendida, a forma de acondicionamento, além da quantia em dinheiro sem comprovação de origem fornecem indícios da prática do tráfico de drogas, de sorte que, pese tecnicamente primário, de rigor, para o resguardo da ordem pública e para a instrução, a manutenção da custódia cautelar.
+De fato, o acusado tentou empreender fuga e a alegação de que a droga pertencia a terceiro deve ser melhor apurada em fase própria de instrução.
+Ante o exposto, presentes os pressupostos do artigo312, bem como os requisitos do artigo 313, inciso I, do Código de Processo Penal, converto a prisão em flagrante em prisão preventiva."(fls. 43/45 dos autos principais)
+Com efeito, diferentemente do que foi narrado na inicial, a segregação excepcional do Paciente se encontra adequadamente justificada, o que afasta a arguição de constrangimento ilegal a que estivesse sendo submetido, com ofensa à sua liberdade individual.
+Desse modo, provada a materialidade e havendo indícios suficientes de autoria, o MM. Juízo a quo considerou a gravidade do crime imputado ao acusado (tráfico de drogas) e, visando assegurar a futura aplicação da lei penal, negou ao Paciente o direito de recorrer em liberdade.
+ ..
+Insta consignar, ainda, que eventuais predicados favoráveis, por si sós, não possuem o condão de impedir a prisão, que, na espécie, mostrou-se a medida mais adequada.
+ ..
+Além do mais, inexiste qualquer desproporcionalidade na decretação da custódia cautelar, ainda que se trate de crime praticado sem violência ou grave ameaça contra a pessoa. Assim, é evidente que as medidas cautelares alternativas à prisão preventiva não se aplicam neste caso, uma vez que não se mostram suficientes, adequadas e proporcionais às circunstâncias que envolvem o fato.
+A prisão preventiva foi fundamentada na garantia da ordem pública e da aplicação da lei penal.
+Observa-se que que está demonstrada a imprescindibilidade da custódia cautelar, porquanto foi apreendida expressiva quantidade de entorpecentesem forma acondicionada - 43 microtubos com cocaína -, o que evidencia o destino para consumo de terceiros, além de quantia em dinheiro sem comprovação de origem.
+Importa ainda destacar a natureza lesiva do entorpecente, que apresenta maior grau de nocividadee dependência química.
+Ademais, o recorrente estaria em local conhecido pelo intenso comércio de drogas e tentado empreender fuga ao visualizar a viatura policial, não alcançando seu objetivo apenas porque foi impedido pelos policiais que efetuaram a prisão em flagrante.
+Assim, a prisão preventiva é necessária para garantir a ordem pública e assegurar a aplicação da lei penal.
+Registre-se que não há constrangimento ilegal em negar ao réu o direito de recorrer em liberdade quando remanescerem os fundamentos que ensejaram a custódia cautelar, principalmente se, durante toda a instrução criminal, ficou preso provisoriamente (HC n. 463.428/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 9/4/2019).
+Por fim, eventuais condições subjetivas favoráveis do recorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto,conheço em parte do recurso e nego-lhe provimento.
+Publique-se. Intimem-se.
