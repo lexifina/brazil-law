@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de WERBEM DE FRANÇA PEREIRA CANHA, em que se indica como coator o Tribunal de Justiça do Estado de Pernambuco, no qual foi protocolado o HC n. 0011665-96.2021.8.17.9000.
+Colhe-se nos autos que, no Processo-crime n. 0026577-81.2011.8.17.0001, o Paciente foi condenado "à pena de 5 anos e 8 meses de reclusão, no regime inicial semiaberto, devido à prática do crime de homicídio simples tentado (art. 121, caput, c/c art. 14, inciso II e parágrafo único, do Código Penal) - cópia da certidão de trânsito em julgado no doc. ID 17845300, pág. 15." (fl. 23).
+Requer-se, no presente writ, em suma, "seja reconhecida a ausência de fundamentação da sentença no tocante à fixação da pena-base para o crime previsto no artigo 121, CAPUT C/C artigo 14 do Código Penal, redimensionando-a para o mínimo legal" (fl. 9).
+É o relato do necessário. Decido.
+O presente writ foi manejado contra decisão singular do Relator no Tribunal de origem (fls. 23-30), sem a interposição de agravo regimental com a finalidade de obter manifestação do Órgão Colegiado. Assim, ausente o exaurimento da instância ordinária, impõe-se reconhecer a incognoscibilidade da presente ação mandamental.
+Cuida-se de entendimento firmado pelas Primeira e Segunda Turmas do Supremo Tribunal Federal:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. SUPRESSÃO INSTÂNCIA.
+1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Precedentes.
+ .. .
+3. Agravo regimental conhecido e não provido." (HC 171.614 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 03/09/2019; grifos diversos do original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. 2. Penal e Processual Penal. 3. Sequestro e cárcere privado, extorsão e corrupção passiva (arts. 148, 158, § 1º, c/c o art. 29, e art. 317, § 3º e 4º, "a" e "c", da Lei 4.898/1965). 4. Retirada do monitoramento eletrônico. 5. Habeas corpus impetrado contra decisão monocrática do STJ. Impossibilidade. Esgotamento das vias recursais. Precedentes. 6. Agravo regimental a que se nega provimento." (HC 170.091 AgR, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, DJe 03/09/2019; grifos diversos do original.)
+No mesmo sentido, confiram-se, ainda, julgados proferidos pelas duas Turmas que compõem a Terceira Seção desta Corte:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM INDEFERIDA LIMINARMENTE. SUPRESSÃO DE INSTÂNCIA. ANÁLISE PER SALTUM. IMPOSSIBILIDADE. AUSÊNCIA DE TERATOLOGIA.
+1. Não cabe habeas corpus contra decisão monocrática de Desembargador relator, porquanto ausente manifestação colegiada do órgão de origem.
+ .. .
+6. Agravo regimental a que se nega provimento." (AgRg no HC 585.813/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 30/06/2020, DJe 04/08/2020.)
+"AGRAVO REGIMENTAL CONTRA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. PEDIDO AJUIZADO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE JULGAMENTO COLEGIADO. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. FURTO QUALIFICADO. CONDENAÇÃO. REGIME INICIAL SEMIABERTO. COMPATIBILIZAÇÃO COM A MANUTENÇÃO DA CUSTÓDIA PREVENTIVA. CONSTRANGIMENTO ILEGAL INEXISTENTE. RECEIO DE CONTAMINAÇÃO PELO COVID-19. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO JUÍZO DE PRIMEIRO GRAU. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido de apelar em liberdade foi indeferido em decisão monocrática do desembargador relator da apelação interposta em favor do apenado, inexistindo provocação ao colegiado para se manifestar acerca do tema. A competência do Superior Tribunal de Justiça - STJ, portanto, não foi inaugurada para apreciar a questão. Precedentes.
+ .. .
+4. Agravo regimental desprovido." (AgRg no HC 567.540/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020.)
+Ad argumentandum, na hipótese não é cabível a concessão de habeas corpus ex officio.
+Conforme relatei, consta nos autos a informação de que a condenação transitou em julgado. Nesse contexto, este writ não pode ser conhecido, pois foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Sobre a questão, cito os seguintes julgados das Turmas que compõem a Terceira Seção desta Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ARTS. 217-A, CAPUT, NA FORMA DO ART. 71, E 343, NA FORMA DO ART. 70, TODOS DO CÓDIGO PENAL. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. ALTERAÇÃO DO POSICIONAMENTO FIRMADO PELAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE INCURSÃO NOS ELEMENTOS DE FATO E DE PROVA DOS AUTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito de desclassificação da conduta praticada, depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual.
+2. A alteração do entendimento firmado demandaria a incursão nos elementos de fato e de prova dos autos, providência vedada em habeas corpus.
+3. Agravo Regimental não provido." (AgRg no HC 573.735/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/04/2021, DJe 30/04/2021; sem grifo no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSÍVEL. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+ .. .
+III - Sustenta-se, in casu, a ilegalidade da dosimetria das penas dos crimes de lavagem de capitais pelos quais o recorrente foi condenado na Ação Penal n. 5026212-82.2014.4.04.7000/PR.
+IV - A Ação Penal n. 5026212-82.2014.4.04.7000/PR transitou em julgado em 4/12/2019, após a tese de ilegalidade da dosimetria das penas haver sido arguida em recurso especial interposto nesta Corte e em recurso extraordinário interposto no Supremo Tribunal Federal.
+V - Não se admite o conhecimento do presente habeas corpus, porquanto impetrado com a única finalidade de substituir o recurso de revisão criminal, cujo processo e julgamento compete exclusivamente ao Tribunal Regional Federal da 4ª Região, por expressa previsão do art. 108, inciso I, alínea "b", da Constituição Federal, especialmente porque, na espécie, não se vislumbra nenhuma ilegalidade flagrante.
+Agravo regimental desprovido." (AgRg no HC 610.106/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021; sem grifo no original.)
+No mesmo sentido, ilustrativamente, as seguintes decisões monocráticas: HC 512.674/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 30/05/2019; HC 482.877/SP, Rel. Ministro JORGE MUSSI, DJe 29/03/2019; HC 675.658/PR, Ministro RIBEIRO DANTAS, DJe 04/08/2021; HC 677.684/SP, Ministro ANTONIO SALDANHA PALHEIRO, 02/08/2021; e HC 611.093/RJ, Ministro JOÃO OTÁVIO DE NORONHA, 04/08/2021.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, todos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO MANEJADA CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. INCOGNOSCIBILIDADE. IMPOSSIBILIDADE DE CONCESSÃO DE PROVIMENTO EX OFFICIO. INSURGÊNCIA CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO DE AÇÃO REVISIONAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
