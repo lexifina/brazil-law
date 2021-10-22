@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JIMMY SGARZI BATISTA opõe embargos de declaração contra o acórdão de fls. 570-576, que negou provimento ao agravo regimental, nos termos desta ementa (fl. 570):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DE FERIADO, POR MEIO DE DOCUMENTO IDÔNEO, NO MOMENTO DA INTERPOSIÇÃO DA INSURGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o agravo em recurso especial interposto após o prazo de 15 dias, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+2. Conforme decidido pela Corte Especial deste Superior Tribunal, "Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada" (AgInt no AREsp n. 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ acórdão Ministra Nancy Andrighi, Corte Especial, DJe 19/12/2017).
+3. Na hipótese, embora a defesa até tenha alegado no agravo em recurso especial que houve feriado local, deixou de comprovar, no momento da interposição do referido recurso, por documento hábil (ato normativo ou certidão cartorária), a sua existência nos dias 7/12/2020 e 8/12/2020, o que só foi feito no agravo regimental 4. Agravo regimental não provido.
+Em suas razões, afirma o embargante que o acórdão foi omisso ao não se manifestar sobre a tese ventilada no regimental, qual seja, a de que na página de interposição do agravo em recurso especial foi comprovado, através da transcrição do provimento local, que houve feriado.
+Requer, diante disso, sejam acolhidos os embargos para sanar a omissão apontada, de modo que o recurso tenha seu regular processamento.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. Na espécie, foi devidamente explicitado que muito embora a defesa até tenha alegado no agravo em recurso especial que houve feriado local, deixou de comprovar, no momento da interposição do referido recurso, por documento hábil (ato normativo ou certidão cartorária), a sua existência nos dias 7/12/2020 e 8/12/2020, o que só foi feito no agravo regimental.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+De início, registro que os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios, situação que não ocorre na espécie.
+Deveras, ao contrário do que alega o embargante, foi devidamente explicitado no acórdão que "embora a defesa até tenha alegado no agravo em recurso especial que houve feriado local, deixou de comprovar, no momento da interposição do referido recurso, por documento hábil (ato normativo ou certidão cartorária), a sua existência nos dias 7/12/2020 e 8/12/2020, o que só foi feito no agravo regimental" (fl. 576), oportundade em que foi juntada cópia do provimento local. Logo, inexiste omissão no decisum embargado.
+Ante o exposto, rejeito os embargos de declaração.
