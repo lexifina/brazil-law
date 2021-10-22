@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto porLOURIVAL MARIANO COSTA, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+Na instância de origem, a parte ora recorrente interpôs apelação contra a sentençaque, na fase de execução, extinguiu o feito com fulcro no artigo 485, VI, e § 3º, do CPC/2015, por ilegitimidade ativa para execução da Ação Coletiva n.0016898-35.2005.4.01.3400, ajuizada pelo Sindicato dos Bancários da Bahia em face da Fazenda Nacional, cujo trâmite se deu perante a 17ª Vara Federal da Seção Judiciária do Distrito Federal/DF.
+O valor da execução (fl. 8): R$ 5.985,41 (cinco mil, novecentos e oitenta e cinco reais e quarenta e um centavos), em fevereiro de 2017.
+O Tribunal a quonegouprovimento ao recurso, em acórdão assim ementado (fl. 140):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. ILEGITIMIDADE. AUTOR NÃO DEMONSTROU O SEU ENQUADRAMENTO NA PREVISÃO ALBERGADA PELO TÍTULO JUDICIAL. LIMITAÇÃO DO TÍTULO EXECUTIVO AOS SUBSTITUÍDOS DO SINDICATO.
+1. Apelação interposta pelo particular em face de sentença que, reconhecendo a ilegitimidade ativa do particular para executar a ação coletiva nº 0016898-35.2005.4.01.3400, extinguiu o cumprimento de sentença sem julgamento do mérito (art. 485, VI, e § 3º, do CPC).
+2. O título judicial apenas contemplou os associados substituídos pelo Sindicato dos Bancários da Bahia, que teve por objeto a não incidência do IRPF sobre o benefício complementar pago a cada um dos substituídos.
+3. Não se trata de se interpretar o dispositivo de maneira a limitar o seu alcance, visto que o pedido inicial da ação coletiva se referiu aos seus associados e não aos membros da categoria representada pelo Sindicato. Ainda mais que o sindicato em tela não possui abrangência nacional, limitando-se aos bancários do Estado da Bahia.
+4. Os efeitos da sentença prolatada em ação coletiva manejada por sindicato não se estendem a todos os integrantes da categoria, sendo necessário o pertencimento à base territorial da entidade sindical. "A sentença civil proferida em ação de caráter coletivo, ajuizada por entidade associativa ou sindicato, na defesa dos interesses e direitos dos seus associados ou da categoria, atinge somente os substituídos que possuam, na data do ajuizamento da ação, domicílio no âmbito da competência territorial do órgão prolator, conforme o disposto no art. 2º-A, da Lei 9.494/97" (Processo 0802857-34.2017.4.05.8400 -Apelação, Relator: Desembargador Federal Edilson Pereira Nobre Júnior, julgado em 16/10/2018).
+5. No caso concreto, o autor não demonstrou a existência de vínculo empregatício no âmbito da competência do órgão prolator da sentença, situado no Distrito Federal/DF, nem que estava inserto na base territorial de atuação do Sindicato dos Bancários da Bahia.
+6.Apelação improvida.
+Honorários advocatícios majorados de 10% para 11% do valor executado, com esteio no artigo85, § 11, do CPC (fl. 139).
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, o recorrente alega ofensa aos seguintes artigos: a) 485, VI, do CPC/2015, porquanto não há limitação territorial aos efeitos da sentença proferida em ação coletiva; b) 8º, III, da CF/1988, pois o sindicato possui legitimidade para representar, como substituto processual, os interesses da categoria como um todo, não se limitando à base territorial do sindicato autor da ação coletiva a ser executada.
+Contrarrazões às fls. 165-169.
+É o relatório. Decido.
+No que diz respeito à abrangência da sentença proferida na ação coletiva que pretende o recorrente ser executada, observa-se que o artigo indicado como violado não contém comando normativo capaz de sustentar a tese suscitada. Aplica-se à hipótese a Súmula 284/STF. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO EM QUE DEVE SER APLICADO O IPCA-E A TÍTULO DE CORREÇÃO MONETÁRIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1888761/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/02/2021, DJe 01/03/2021, grifos nossos)
+Quanto à legitimidade sindical prevista no artigo 8º, III, da CF/1988, verifica-se que o ponto apresentado nas razões de apelo nobre invocando o dispositivo constitucional como respaldo, não permite a apreciação no âmbito desta Corte superior, sob pena de se usurpar a competência do Supremo Tribunal Federal. Nesse sentido, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. PRAZO. A PARTIR DA INTIMAÇÃO PESSOAL DA PENHORA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS ESTÃO ALINHADOS À ORIENTAÇÃO DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Primeiramente, esclareça-se que a análise dos pontos arguidos na argumentação recursal que remetem à suposta afronta ao texto constitucional não se enquadra no âmbito de julgamento destinado ao Recurso Especial pelo permissivo constitucional.
+2. Quanto à suposta afronta ao art. 535 do CPC/1973, verifica-se que as questões submetidas à apreciação perante a Corte de origem foram integralmente resolvidas, não padecendo o julgado de qualquer mácula, no ponto.
+ ..
+5. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no AREsp 934.762/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020, grifos nossos)
+Ainda que superado os supracitados óbices, verifica-se que o recorrente, ao desenvolver seus argumentos recursais no sentido de eficácia abrangente da sentença proferida em ação coletiva e da legitimidade sindical, deixou incólume o fundamento da Corte de origem que apontou limitação expressa aos substituídosno título judicial, o que atrai os óbices das Súmulas 283/STF e 284/STF.
+Destaca-se o trecho do acórdão recorrido em que se fundamentou a questão (fl. 139):
+Apresenta-se incontroverso que o título judicial apenas contemplou os associados substituídos pelo Sindicato dos Bancários da Bahia, que teve por objeto a não incidência do IRPF sobre o benefício complementar pago a cada um dos substituídos.
+E nem poderia ser diferente. Afinal, dos pedidos formulados pelo sindicato na exordial do feito coletivo, verifica-se que foi delimitado o universo dos destinatários da pretensão coletiva, qual seja: o grupo dos substituídos do Sindicato autor.
+E o dispositivo da sentença na ação coletiva, ao se referir aos autores da ação, faz alusão, em verdade, aos substituídos processuais do Sindicato demandante, nos termos requeridos na inicial.
+E para rever tal conclusão, seria necessário o reexame de elementos fático-probatórios da execução, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. COISA JULGADA. AFERIÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Segundo a jurisprudência desta Corte de Justiça, não há violação da coisa julgada quando o magistrado, em sede de liquidação de sentença, interpreta o título executivo, sopesando os critérios de cálculos realizados na perícia, a fim de que a decisão judicial seja efetivamente cumprida.
+3. Ao contrário do alegado pelo agravante, para aferir se, de fato, a instância de origem ultrapassou os limites da coisa julgada, assim como se houve equivoco nos cálculos de liquidação de sentença, não bastaria o simples análise do critério de valoração da prova, mas, sim, do reexame dos elementos de convicção postos no processo, o que não é permitido em sede de recurso especial.
+4. Agravo interno desprovido.
+(AgInt no AREsp 551.455/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 22/06/2020, DJe 26/06/2020)
+honorários
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Majoro em 1 pontopercentualos honorários advocatícios fixados no acórdão recorrido (CPC/2015, art. 85, § 11).
+Publique-se. Intimem-se.
