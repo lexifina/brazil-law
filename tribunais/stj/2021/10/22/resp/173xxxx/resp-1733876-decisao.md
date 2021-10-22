@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União, com fundamento no art. 105, III,a, da Constituição Federal, contra acórdão assim ementado pelo Tribunal Regional Federal da 4ª Região (fl. 258):
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. CÉDULAS DE CRÉDITO RURAL. CONVERSÃO EM CUMPRIMENTO PROVISÓRIO DE SENTENÇA.POSSIBILIDADE DA PRÉVIA LIQUIDAÇÃO. PARTICIPAÇÃO DA UNIÃO NA LIQUIDAÇÃO.
+1. O dispositivo legal que trata sobre a promoção direta do cumprimento de sentença, quando a apuração do valor depender apenas de cálculo aritmético, utiliza o termo "poderá" (artigo 509, §2º, do CPC), autorizando o entendimento de que tal proceder consiste em opção do credor. Se o dispositivo confere a opção (não a obrigatoriedade) da promoção direta do cumprimento da sentença, não seria razoável negar o prévio ajuizamento da liquidação de sentença.
+2. Em casos como o dos autos, mesmo quando ajuizado diretamente o cumprimento individual de sentença, esta Corte tem mantido decisões que, de ofício e como primeiro ato da execução, determinam a juntada de documentos pelo banco executado (em geral, demonstrativo de evolução do financiamento rural), com a finalidade de permitir a verificação da correção dos cálculos exequendos e para eventuais adequações aos limites da condenação. Pelas mesmas razões é de ser permitido o ajuizamento da liquidação de sentença, se o credor assim optar.
+3. Indevida a reclassificação e conversão do feito, na medida em que não há o necessário requerimento do exequente para o cumprimento da sentença (artigo 513, §1º, do CPC), pressuposto processual para essa fase do procedimento.
+4. A forma mais adequada ao caso concreto é a liquidação por arbitramento, principalmente considerando que o novo Código de Processo Civil prevê um procedimento abreviado no artigo 510, que dispensa, inclusive, a realização de prova pericial.
+5. Tratando-se de liquidação de sentença, não há óbice para a participação da União neste momento, ainda que posteriormente se entenda pela impossibilidade do cumprimento provisório de sentença contra a Fazenda Pública ou, ainda, pela eventual impossibilidade de cumulação de ritos no cumprimento de sentença (artigos 520 ou 523 do CPC e artigo 534 do CPC), questão que deverá ser decidida quando do recebimento do cumprimento de sentença.
+6. Agravo de instrumento provido.
+Os embargos de declaração foram parcialmente providos para fins de prequestionamento(fls. 280-289).
+A recorrente aponta a violação do art. 1.022, I e II, do CPC/2015pois, a despeito da oposição dos declaratórios, o Tribunala quodeixou de se manifestar sobre a inexigibilidade da obrigação.
+Em relação ao referido tema de mérito, indica a afronta aos arts. 313, V,a, 520, 521,921, I e II, e 995, parágrafo único, do CPC/2015, aduzindo, em síntese, que a obrigação de pagar quantia certa que é objeto do cumprimento de sentença em questão é inexigível, uma vez que não houve ainda o trânsito em julgado da ação civil públicaque lhe deu origem.
+Contrarrazões ofertadas às fls. 325-337.
+É o relatório. Decido.
+O acórdão recorrido é oriundo de agravo de instrumento interposto contra decisão de primeira instância que, em sede de cumprimento de sentença, manteve o entendimento a quoacerca da participação da União no momento.
+Às fls. 377-379, o Tribunal de origem informa que foi proferida sentença no processo principalque deu origem ao agravo de instrumento, já com trânsito em julgado, o que se constata em consulta ao sítio eletrônico daquela Corte.
+Em 28/05/2021 a ação n.50337520720164047100, cumprimento provisório de sentença, foi julgadaextinta, sem resolução de mérito, nos termos do art. 290 do CPC, com a baixa definitiva em 16/06/2021.
+Dada a superveniência do julgamento da ação originária, não mais persiste a discussão acerca da decisão interlocutória, nos termos do firme entendimento jurisprudencial desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. ANTECIPAÇÃO DE TUTELA. MATRÍCULA EM CRECHE. AGRAVO DE INSTRUMENTO. JULGAMENTO DO PROCESSO PRINCIPAL.PERDA DE OBJETO. RECURSO ESPECIAL PREJUDICADO.
+1. A presente demanda originou-se de Agravo de Instrumento interposto contra decisão interlocutória que indeferiu a tutela de urgência que visava determinar que o Distrito Federal providenciasse vaga para o autor em creche pública próxima à sua residência (fls.30-31, 60-61 e 96-103, e-STJ).
+2. Após consulta ao site do Tribunal de origem, verifica-se que a Ação Principal (Ação de Obrigação de Fazer c/c Antecipação de Tutela nº 2016 011013055-8, fls. 6 e 60, e-STJ) foi julgada procedente para condenar o Distrito Federal a matricular o autor em creche da rede pública de ensino, em período integral, próxima à sua residência.
+3. É entendimento assente no STJ que, proferida sentença no processo principal, perde o objeto o recurso de Agravo de Instrumento interposto contra decisão interlocutória.
+4. Assim, ocorreu a perda do objeto do Recurso Especial, em face do julgamento do processo principal. Nesse sentido: AgInt no AREsp 1.167.654/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 27.3.2018; AgInt nos EDcl no REsp 1.390.811/AM, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 26.6.2017; REsp 1.383.406/ES, Rel. Ministro Og Fernandes, Segunda Turma, DJe 7.11.2017; AgRg no AREsp 555.711/PB, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 20.10.2016; e AgInt no AgInt no AREsp 774.844/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 7.8.2018.
+ ..
+6. Recurso Especial prejudicado.
+(REsp 1676515/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/06/2021, DJe 03/08/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO DE INSTRUMENTO.PROLAÇÃO DE SENTENÇA DE MÉRITO. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.712.508/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/5/2019, DJe 22/5/2019.)
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o presente recurso, em razão da perda superveniente de seu objeto.
+Publique-se. Intimem-se.
