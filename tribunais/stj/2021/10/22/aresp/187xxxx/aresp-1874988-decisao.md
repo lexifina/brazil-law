@@ -1,0 +1,11 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.SERVIDOR PÚBLICO.PROMOÇÃO HORIZONTAL E VERTICAL. TERMO INICIAL DOS JUROS DE MORA.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULAS 282 E 356 DO STF.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto pelo ESTADO DE ALAGOAS, com fundamento no art. 105, III, a,da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado:
+APELAÇÃO C1VEL. DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. PROMOÇÃO HORIZONTAL E VERTICAL DE SERVIDORES PÚBLICOS DO PODER JUDICIÁRIO DE ALAGOAS. PRESCRIÇÃO DE FUNDO DE DIREITO DO PEDIDO DE PROGRESSÃO COM FULCRO NA LEI N. 6.797/2007 E NECESSIDADE DE REGULAMENTAÇÃO DO ART. 15 DESTA LEI. AFASTADAS. LEI ESTADUAL N. 7.210/2010. REESTRUTURAÇÃO DO PLANO DE CARGOS E CARREIRAS. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO PROGRESSIVA. PRECEDENTES PRECEDENTES DO STJ. LEI N. 7.210/2010 QUE DETALHOU TODOS OS REQUISITOS NECESSÁRIOS PARA A PROMOÇÃO HORIZONTAL E VERTICAL. PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS À PROMOÇÃO VERTICAL. ART. 18 E SEGUINTES DA LEI N. 7.210/2010. CONSECTÁRIOS LEGAIS FIXADOS. ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. RECURSO CONHECIDO E NÃO PROVIDO.
+2. Não foram opostos Embargos de Declaração.
+3. Nas razões do Recurso Especial inadmitido, a parte recorrente alegaofensa aos arts. 405 do Código Civil e 240 do Código de Processo Civil, argumentando, em síntese, que o termo inicial de incidência de juros de mora deve ser a partir da citação, e não do inadimplemento.
+4. É o relatório.
+5. A irresignação não merece prosperar.
+6. Verifico que os arts. 240 do CPC/2015 e 405 do CC/2002não foramapreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+7. Diante dessas considerações, conheço do agravo para não conhecer do recurso especial do Estado de Alagoas.
+8. Publique-se. Intimações necessárias.
