@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de KALEO SOUZA, no qual aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul.
+Consta dos autos que o Juízo da Execução reconheceu o cometimento de falta grave pelo paciente (fuga) no curso da execução, determinando a perda de 1/3 (um terço) dos dias remidos (e-STJ, fls. 105-106).
+Inconformada, a defesa ingressou com agravo em execução, ao qual foi dado parcial provimento, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO (ARTIGO 197, DA LEP). FALTA GRAVE (FUGA). CONSECTÁRIOS LEGAIS. INCONFORMISMO DEFENSIVO. NÃO OBSTANTE AS RAZÕES DEFENSIVAS, TENHO QUE, INDEPENDENTE DA JUSTIFICATIVA APRESENTADA, NÃO SE PODE PERMITIR QUE O APENADO DEIXE DE OBSERVAR SEUS DEVERES NO CUMPRIMENTO DE SUA PENA, SEJA POR QUAIS MOTIVOS FOREM, SENDO IMPOSITIVO O RECONHECIMENTO DA FALTA (FUGA) E A CONSEQUENTE APLICAÇÃO DE SEUS CONSECTÁRIOS LEGAIS. EFETIVAMENTE CONFIGURADA A FALTA GRAVE PREVISTA NO ARTIGO 50, INCISO II, DA LEP, IMPOSITIVA A MANUTENÇÃO DOS CONSECTÁRIOS LEGAIS APLICADOS, SENDO ELES, NO CASO, A PERDA DE 1/3 DOS DIAS REMIDOS E A ALTERAÇÃO DA DATA-BASE, A QUAL VAI APENAS LIMITADA À FUTURA PROGRESSÃO DE REGIME.
+AGRAVO PARCIALMENTE PROVIDO." (e-STJ, fl. 63).
+Neste writ, a Defensoria Pública aponta constrangimento ilegal relativo à perda de 1/3 (um terço) dos dias remidos, que foi determinada sem a devida fundamentação, incorrendo em ofensa ao art. 93, IX, da Constituição Federal.
+Requer, inclusive liminarmente, a cassação do acórdão estadual.
+Indeferida a liminar (e-STJ, fl. 72) e prestadas as informações (e-STJ, fls. 76-100), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (e-STJ, fls. 105-109).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem manteve a determinação do Juízo de primeiro que decretou a perda de 1/3 (um terço) dos dias remidos, às seguintes considerações:
+"  ..  a perda de 1/3 de dias remidos encontra amparo no disposto no artigo 127 da LEP, sendo que a fração máxima eleita se justifica em razão da gravidade da conduta do apenado que evadiu-se do cumprimento de sua pena, permanecendo na condição de foragido e, portanto, longe do controle estatal, por aproximadamente vinte dias." (e-STJ, fl. 68).
+Com efeito, de acordo com jurisprudência desta Corte Superior a prática de falta disciplinar de natureza grave implica a perda da remissão, conforme estabelecido no art. 127 da LEP:
+"Art. 127. Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar."
+Nesse sentido:
+" ..
+II - A jurisprudência deste Tribunal entende que "o cometimento de falta grave durante a execução da pena traz como consequência a regressão de regime e a perda dos dias remidos, sem que isso caracterize ofensa à coisa julgada" (AgRg no HC n. 247.606/MG, QUINTA TURMA, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe e 10/4/2013, grifei).
+Agravo regimental desprovido." (AgRg no HC 317.869/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/2/2016, DJe 17/3/2016).
+" ..
+- A prática de falta grave acarreta a alteração da data-base para fins de progressão de regime, a regressão de regime do apenado e a perda de até 1/3 (um terço) dos dias remidos. Precedentes.
+(..)
+- Habeas Corpus não conhecido. Ordem concedida de ofício para restringir a alteração da data base apenas para fins de progressão de regime, não interrompendo o prazo para o benefício da saída temporária e do trabalho externo."
+(HC 327.233/RS, Rel. Ministro ERICSON MARANHO, DESEMBARGADOR CONVOCADO DO TJ/SP, SEXTA TURMA, julgado em 6/10/2015, DJe 28/10/2015).
+A jurisprudência desta Corte Superior é firme no sentido de que a perda de até 1/3 (um terço) dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a própria legislação de regência, segundo a qual devem ser observadas as diretrizes elencadas no art. 57 da LEP (a saber: "a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão").
+A propósito:
+"1. É pacífica a jurisprudência do STF e deste STJ de que o cometimento de falta grave durante a execução da pena poderá ensejar a perda dos dias remidos pelo trabalho, nos termos do art. 127 da Lei de Execução Penal. A partir da Lei 12.433, de 29/6/2011, que alterou a redação do art. 127 da Lei de Execução Penal, a revogação dos dias remidos ficou limitada à fração máxima de 1/3 (um terço).
+2. Nos termos da orientação desta Corte, a escolha da fração de perda dos dias remidos em razão da prática de falta grave deve ser fundamentada pelo Magistrado, consoante disposição expressa do art. 57 da Lei de Execuções Penais.
+ .. ." (AgRg no AREsp 674.125/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/6/2015, DJe 29/6/2015).
+"- O art. 127 da Lei n. 7.210/84, com a nova redação dada pela Lei n. 12.433/11, concede ao juízo da execução a discricionariedade para determinar o patamar de perda do tempo remido, observados os parâmetros do art. 57 da LEP (a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão).
+- Na hipótese dos autos, o juízo da execução declarou a perda de 1/3 do tempo remido, mas não apresentou fundamentação, com base nos parâmetros do art. 57 da LEP, que justifique a escolha desse patamar, o que configura patente ilegalidade.
+Precedentes: HC n. 282.265/RS, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/5/2014; HC n. 299.308/RS, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, DJe 3/10/2014." (HC 312.977/RS, Rel. Ministro ERICSON MARANHO, DESEMBARGADOR CONVOCADO DO TJ/SP, SEXTA TURMA, julgado em 18/6/2015, DJe 30/6/2015).
+Na hipótese dos autos, consoante se afere do decisum impugnado, a decretação da perda dos dias remidos no patamar de 1/3 (um terço), ainda que sucintamente fundamentada, mostra-se adequada, considerando a gravidade da conduta do paciente, que empreendeu fuga do ambiente prisional, permanecendo foragido por vinte dias, no curso da execução da pena, de modo que, nesse contexto, não se constata ilegalidade apta a autorizar a concessão da ordem de ofício.
+A respeito, confiram-se:
+" AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. FUGA. APURAÇÃO E INDIVIDUALIZAÇÃO DA CONDUTA POR MEIO DE PROCESSO ADMINISTRATIVO DISCIPLINAR. REEXAME. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. PERDA DOS DIAS REMIDOS. FRAÇÃO MÁXIMA. DECISÃO FUNDAMENTADA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+1. Não se verifica ilegalidade na aplicação da falta grave, apurada por meio de processo administrativo disciplinar, com a individualização da conduta do reeducando, que tentou empreender fuga do estabelecimento prisional, ao trocar de cela por conta própria e ajudar a serrar a grade de suporte da porta da cela, enquadrada no art. 50, II, da Lei de Execuções Penais.
+2. Maiores incursões, com o objetivo de afastar os fundamentos apontados pelo Tribunal de origem para o reconhecimento da infração ou absolvição do reeducando, demandariam o reexame de matéria fático-probatória, providência inviável na seara restrita do habeas corpus.
+3. Não se verifica ilegalidade na fixação da fração de 1/3 para a perda dos dias remidos, com a indicação de fundamentação concreta sobre a gravidade da conduta e a reprovabilidade da falta grave (fuga), observada a legislação vigente.
+4. Agravo regimental improvido." (AgRg no HC 593.104/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/10/2020, DJe 13/10/2020).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. NÃO COMPARECIMENTO NO HORÁRIO DE ALMOÇO E FUGA DO ESTABELECIMENTO PRISIONAL. FALTAS DISCIPLINARES GRAVES. AFASTAMENTO. REEXAME FÁTICO-PROBATÓRIO. REGRESSÃO DE REGIME. ALTERAÇÃO DA DATA-BASE PARA A CONCESSÃO DE NOVOS BENEFÍCIOS, EXCETO INDULTO, COMUTAÇÃO E LIVRAMENTO CONDICIONAL. PERDA DOS DIAS REMIDOS NO PATAMAR MÁXIMO (1/3). CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+2. Tendo em vista o teor da fundamentação apresentada pelas instâncias ordinárias, o afastamento das faltas graves praticadas pelo ora paciente (art. 50, II, da Lei n. 7.210/84 Lei de Execução Penal - LEP) demanda o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus.
+3. A falta disciplinar de natureza grave resulta na regressão de regime prisional e na alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena, conforme entendimento firmado pela Terceira Seção desta Corte, no julgamento do EREsp n. 1.176.486/SP.
+4. A perda do tempo remido na fração de 1/3 encontra-se devidamente fundamentada na natureza e nas circunstâncias da infração cometida, em consonância com o art. 127 c/c o art. 57 da LEP.
+5. Habeas corpus não conhecido." (HC 466.206/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/03/2019, DJe 02/04/2019).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
