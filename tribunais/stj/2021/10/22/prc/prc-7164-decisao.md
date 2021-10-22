@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de requisição de pagamento oriunda da ExeMS 8101 (200601735020), expedida em favor de OSORIA SOARES BELEM - ESPÓLIO.
+Intimadaacerca da regularidade formal, a UNIÃO inicialmente concordou (fls. 9-13). Na sequência, requereu o bloqueio do "valor atualizado indicado na petição de fls. 141 dos EmbExeMS 8101/DF (2006/0255476-3), referente a um pagamento administrativo"(fls. 15-16).
+Em parecer o Ministério Público Federal opinou pelo cumprimento da requisição com bloqueio dos valores controvertidos até deliberação pelo juízo da execução.
+Mediante a Petição n. 00027945/2021 (fls. 22-35), o espólio de OSORIA SOARES BELEM informou que constou indevidamente o nome do advogado MARCELO DA SILVA NUNES no ofício requisitório (fl. 1). Pugnou pela exclusão do referido causídico, fazendo constar o advogado JOSE CARLOS DUARTE DE PAULA em seu lugar. Pediu, ainda, o destaque de 20% do valor requisitado.
+Em decisão proferida nos autos principais (fls. 37-39), motivada por petição de teor semelhante àquela acostada às fls. 22-35, o juízo da execução deferiu o pedido da parte requerente para determinar a inclusão do novo advogado no feitoe autorizar o destaque de honorários.
+Dessa forma, JOSE CARLOS DUARTE DE PAULApassou a constar como parte requerente, beneficiáriade destaque de honorários contratuais advocatícios (fl. 43).
+Em nova decisão dojuízo da execução (fls. 41-42), foi deferido o pedido de decote/abatimento da sucumbência devida pelo espólio deOSORIA SOARES BELEM diretamente neste precatório.
+Certidão da Seção de Precatórios e RPV noticiando a disponibilidade de verba para liquidação deste precatório (fl. 45).
+É, no essencial, o relatório. Decido.
+De início, em consulta aos autos principais e respectivos embargos à execução, verifiquei que o valor de R$ 7.003,79 apontado pelo UNIÃO como sendo referente a um pagamento administrativo em nome de OSORIA SOARES BELEM se refere, na verdade, a excesso de execução decorrente de inconsistências indicadas no parecer técnico de fls. 142-143 dos EmbExeMS 8101 (200602554763).
+Dessa maneira, considerando que o valor requisitado corresponde ao valor incontroverso reconhecido pela própria requerida, não há que se falar em bloqueio de valor. Ademais, após o trânsito em julgado dos embargos à execução, foram apurados os valores definitivos devidos à requerente principal, com os quais a UNIÃO expressamente manifestou concordância, tendo sido requisitado o valor remanescente por meio do Prc 9190 (fls. 357-361, 364-366 e 371 da ExeMS 8101 - 200601735020).
+Conforme decisão nos autos principais, acostada por cópia às fls. 41-42, foi deferido o pedido formulado pela UNIÃO para que seja promovido o decote/abatimento dos honorários sucumbenciais devidos pelorequerente.
+Ante o exposto, verificado que a quantia requisitada é relativa a valor incontroverso e considerando a notícia de disponibilidade financeira, determino o pagamento desta requisição mediante abertura de conta remunerada em nome do(s) beneficiário(s) em instituição financeira conveniada, reservados os recursos das requisições anteriores pendentes de pagamento (art. 12 da Instrução Normativa STJ/GP n. 3/2014), observado o destaque de honorários advocatícios (fls. 37-39 e 43).
+Ressalto que o valor da sucumbência deverá ser decotado da quantia a ser disponibilizada ao beneficiário principal e depositado na conta DARF -GRU -91710-9 (fls. 41-42).
+Transcorrido o prazo de 10 (dez) dias, cumpra-se (art. 59 da Lei n. 9.784/99).
+Publique-se. Intimem-se.
