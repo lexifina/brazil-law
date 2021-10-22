@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONCESSIONÁRIA REVIVER S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA POR FALHA NA PRESTAÇÃO DE SERVIÇOS. DECISÃO AGRAVADA QUE DEFERIU A INVERSÃO DO ÔNUS DA PROVA PRETENDIDA PELOS ORA AGRAVADOS. MANUTENÇÃO DO DECISUM. POSSIBILIDADE DE INVERSÃO DO ÔNUS DA PROVA NA FORMA DO ART. 6º, VIII, CDC. CPC QUE PERMITE A DISTRIBUIÇÃO DINÂMICA DA PROVA DE ACORDO COM AS PECULIARIDADES DO CASO CONCRETO. AGRAVADOS QUE DEMONSTRARAM VEROSSIMILHANÇA EM SUAS ALEGAÇÕES. RECURSO A QUE SE NEGA PROVIMENTO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 373, I e § 2º, do CPC, no que concerne à impossibilidade de inversão do ônus da prova em relação à recorrente, em razão da sua ilegitimidade passiva, trazendo os seguintes argumentos:
+No caso em apreço, foi invertido o ônus da prova para as Rés, pois possuem conhecimentos técnicos e meios que certamente facilitam a produção da prova, ocorre que a inversão do ônus da prova não deve ser estendida à Recorrente ante a sua inequívoca ilegitimidade passiva. Explica-se.
+ ..
+Com base na simples leitura da peça exordial, extrai-se que o problema objeto desta ação cinge-se à preparação do corpo cadavérico humano, ou seja, refere-se ao serviço funerário, conforme explicitado acima. Desse modo, a falha na prestação do serviço ocorreu por parte da Ré Funerária Martins e Nobre Serviços Funerários, tendo em vista ter sido a empresa contratada para a prestação dos serviços funerários.
+ ..
+Veja-se: é fato incontroverso que o corpo chegou ao Cemitério para sepultamento em avançado estágio de decomposição, tendo em vista a funerária não ter promovido a preparação correta do corpo. Assim, a única atuação da Reviver prestadora do serviço de sepultamento foi sugerir aos familiares que adiantassem o sepultamento a fim de evitar que a decomposição fosse ficando cada vez mais avançada.
+ ..
+Portanto, revela-se incabível a imposição do ônus da prova à Recorrente Concessionária Reviver, tendo em vista que os fatos narrados na inicial dizem respeito aos serviços prestados pela Funerária MARTINS E NOBRE SERVIÇOS FUNERARIOS.
+De fato, o ônus da prova é um encargo para trazer elementos capazes de certificar uma situação. No entanto, esse encargo não deve ser imposto a Recorrente, pois torna-se impossível provar se houve falha na prestação dos serviços que não são de sua responsabilidade (fls. 70-73).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
