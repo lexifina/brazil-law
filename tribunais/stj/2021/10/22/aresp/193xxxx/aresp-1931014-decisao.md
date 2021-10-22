@@ -1,0 +1,42 @@
+DECISÃO
+ANA LETÍCIA DUDENHOEFFER CARNEIRO (ANA) propôs ação de indenização c/c obrigação de fazer em face de SPE JOSÉ HIGINO INCORPORADORA CONSTRUTORA LTDA, CONSTRUTORA SANTA CECÍLIA DO RIO DE JANEIRO LTDA e SC-SANTA CECÍLIA EMPREENDIMENTOS E ADMINISTRAÇÃO LTDA (SPE JOSÉe outros), postulando a condenação dos réus ao pagamento de indenização por lucros cessantes e por danos morais, requerendo, ainda, sejam condenadasa promover o cancelamento da hipoteca que incide sobre o seu imóvele a outorgar a escritura definitiva do bem.
+A sentença julgou procedentes os pedidos, condenandoSPE JOSÉ e outrosao pagamento das despesas processuais e dos honorários advocatícios, estes arbitrados em 10% sobre o valor da condenação.
+Foi negado provimento àapelaçãode SPE JOSÉ e outros, nos termos do acórdão proferido peloTribunal de Justiça do Rio de Janeiro,assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER, CUJO PEDIDO É CUMULADO COM O DE INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. LUCROS CESSANTES. DANO MORAL.
+A autora celebrou, aos 05/09/2014, negócio jurídico com os então promitentes-compradores do imóvel, tendo efetuado, nesta data, o pagamento do sinal, quando houve a entrega do bem à autora, razão por que este deve ser considerado o termo inicial dos lucros cessantes, e não 10/12/2014, data em que as duas primeiras rés celebraram a escritura pública de cessão de direitos, sendo o seu termo final, a data da entrega das chaves, ocorrida aos 04/08/2015.
+Após a quitação do preço do imóvel, pela consumidora, cumpre à incorporadora diligenciar junto ao credor hipotecário a liberação do gravame por ela constituído em garantia do empréstimo tomado para viabilizar seu negócio, haja vista que o Banco do Brasil não participou da presente relação processual.
+Assim, inobstante a alegada dificuldade financeira pela qual estão atravessando, as apelantes podem promover o pagamento da quota-parte do gravame equivalente à unidade imobiliária quitada e procedera realização da escritura definitiva de compra e venda.
+O dano moral experimentado pela autora restou comprovado, não apenas pelo atraso na entrega do imóvel, privando-a do uso do imóvel por 14 (quatorze) meses, mas também pela angústia e dissabores decorrentes da falta de escritura definitiva em seu nome, das infiltrações e áreas inacabadas, até a presente data, tendo ocorrido, inclusive, a interdição pela defesa civil da área comum, em razão do risco de desprendimento de pastilhas eemboço da fachada do edifício, tudo a extrapolar o mero aborrecimento cotidiano.
+Verba indenizatória fixada em R$ 10.000,00 (dez mil reais), que deve ser mantida, vez que assegura a justa reparação, sem incorrer em enriquecimento indevido. Rejeição da preliminar de ilegitimidade da terceira ré, SC -SANTA CECÍLIA EMPREENDIMENTOS E ADMINISTRAÇÃO LTDA., para figurar no polo passivo da presente ação.
+Desprovimento de ambos os recursos.(e-STJ, fls. 1137/1138).
+Os embargos de declaração deSPE JOSÉ e outros foram rejeitados (e-STJ, fls. 1202/1206).
+Irresignados, SPE JOSÉ e outrosinterpuseramrecurso especial com fulcro no art. 105, III, a, da CF, alegando a violação doart. 884 do CC,ao sustentar que (1) inexistente dano moral em caso de descumprimento contratual, sendo certo que sua fixação causaria enriquecimento ilícito; (2) indicam dissídio em relação ao tema (e-STJ, fls. 1229/1246).
+Foram apresentadas as contrarrazões (e-STJ, fls. 1271/1286).
+O apelo nobre não foi admitido em virtude de (1) incidir ao caso a Súmula nº 83 do STJ(e-STJ, fls. 1299/1303).
+Nas razões do presente agravo em recurso especial, SPE JOSÉ e outros afirmou que (1) inaplicável aSúmulanº 83 do STJ (e-STJ, fls. 1324/1330).
+Foiapresentada contraminuta (e-STJ, fls. 1376/1393).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo deSPE JOSÉ e outros e passo à análise do recurso especial.
+(1) e (2)Dos danos morais. Do dissídio.
+Nas razões do seu recurso, SPE JOSÉ e outros afirmam queinexistente dano moral em caso de descumprimento contratual, sendo certo que sua fixação causaria enriquecimento ilícito, mencionandodissídio em relação ao tema.
+O Tribunal estadual assim se posicionou sobre a partilha:
+Releva salientar a existência de jurisprudência do e. STJ, no sentido de que os danos morais em atraso de entrega de imóvel não se presumem e só ocorrem em situações excepcionais, comprovadas pelos compradores.
+Entretanto, no caso dos autos, o dano moral experimentado pela autora restou comprovado, não apenas pelo atraso na entrega do imóvel, privando-a do uso do imóvel por 14 (quatorze) meses, mas também pela angústia e dissabores decorrentes da falta de escritura definitiva em seu nome. Ademais ,fotografias acostadas a fls.26/28 (index000003) demonstram que o empreendimento possui infiltrações e áreas inacabadas, até a presente data, tendo ocorrido, inclusive, a interdição pela defesa civil da área comum em torno dos blocos 1 e 2, aos 18/01/2018 (index000445), em razão do risco de desprendimento de pastilhas e emboço da fachada do edifício, conforme laudo pericial de index000775, datado de 23/01/2018, tudo a extrapolar o mero aborrecimento cotidiano(e-STJ, fl. 1144).
+Como se observa, o Tribunal estadual entendeu que não houve um mero descumprimento contratual, mas aborrecimentos que ultrapassam o simples inadimplemento.Assim, rever as conclusões quanto à existência dos danos morais na hipótese dos autos demandaria, necessariamente, reexame do contrato e do conjunto fático-probatório dos autos, o que é vedado em razão do óbice das Súmulas nºs 5 e7 do STJ, fundamento aplicável ao recurso com base nas alíneas a e c do permissivo constitucional.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. IMÓVEL. ENTREGA. ATRASO. DANOS MORAIS. OCORRÊNCIA.CIRCUNSTÂNCIA EXCEPCIONAL. REVISÃO. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ. DEVOLUÇÃO DE VALORES.RESPONSABILIDADE CIVIL CONTRATUAL. PRAZO PRESCRICIONAL. REGRA GERAL.ART. 205 DO CÓDIGO CIVIL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, o atraso de mais de 3 (três) anos na entrega do imóvel supera o mero inadimplemento contratual, devendo ser mantida a indenização por danos morais.
+3. No caso, rever a conclusão do tribunal de origem e afastar a ocorrência dos danos morais pelo atraso na entrega do imóvel, a partir da tese de que teria havido mero inadimplemento contratual, demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial em virtude dos óbices das Súmulas nºs 5 e 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que, em se tratando de responsabilidade civil decorrente de descumprimento de contrato de compra e venda, aplica-se a prescrição decenal (art. 205 do Código Civil de 2002).
+5. Agravo interno não provido.
+(AgInt no AREsp 1758771/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/10/2021, DJe 08/10/2021)
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Nessas condições,CONHEÇO do agravo para NÃOCONHECERdo recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de ANA, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EMRECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. APELAÇÃO. AÇÃO DE INDENIZAÇÃO. IMÓVEL. DISSABORES QUE ULTRAPASSAM O MERO INADIMPLEMENTO CONTRATUAL. DECISÃO PROFERIDA COM BASE NA ANÁLISE DO CONTRATO E DE PROVAS. IMPOSSIBILIDADE DE REVISÃO.INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
