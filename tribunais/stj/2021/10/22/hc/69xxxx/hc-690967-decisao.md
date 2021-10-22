@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, ajuizado em favor de Bruno Cardoso dos Santos, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem ali impetrada (HC n. 2147359-85.2021.8.26.0000), mantendo a custódia cautelar do paciente, imposta pelo Juízo de Direito da 2ª Vara Criminal da comarca de Pirassununga/SP no Processo n. 1500792-32.2021.8.26.0457, pela suposta prática do crime de tráfico de drogas. Este, o acórdão impugnado (fl. 114):
+HABEAS CORPUS - PRISÃO PREVENTIVA - TRÁFICO INTERESTADUAL DE ENTORPECENTES - SUBSISTÊNCIA DOS REQUISITOS LEGAIS DA CUSTÓDIA CAUTELAR - FLAGRANTE REGULAR - SIGNIFICATIVA QUANTIDADE DE DROGAS APREENDIDAS E NATUREZA ALTAMENTE DELETÉRIA DA MAIOR PARTE DELAS - PREDICADOS PESSOAIS FAVORÁVEIS NÃO AUTORIZAM AUTOMÁTICA CONCESSÃO DA LIBERDADE PROVISÓRIA - SINGELA INVOCAÇÃO DA RECOMENDAÇÃO Nº 62/2020 DO CNJ QUE OUTORGA SALVO CONDUTO PARA A PRÁTICA DELITIVA - CONSTRANGIMENTO ILEGAL AUSENTE - ORDEM DENEGADA.
+Aqui, relata a defesa que o paciente foi preso em flagrante no dia 24/10/2020 e, após, processado e condenado a 7 anos de reclusão, em regime fechado, pela prática de crime de tráfico interestadual de drogas, sendo-lhe negado o apelo em liberdade. Contra a condenação há recurso em processamento.
+Alega que não se verifica no caso em tela nenhuma motivação plausível para se negar ao paciente o direito de recorrer em liberdade, já que não estão presentes os requisitos da prisão preventiva.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogado o decreto prisional.
+Deferi medida liminar a fim de substituir a prisão preventiva imposta ao paciente por medidas cautelares a serem fixadas pelo Juízo de origem (fls. 122/124).
+Informações prestadas pelo Tribunal de origem às fls. 137/138.
+Parecer do Ministério Público Federal, escrito peloSubprocurador-Geral da RepúblicaJosé Adonis Callou de Araújo Sá, opinando pelonão conhecimento do habeas corpus;seconhecido, pela concessão da ordem para que a custódia seja substituída por cautelares alternativas (fls. 155/158).
+É o relatório.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva, entendeu existirem indícios relevantes da prática de tráfico interestadual de drogas e que, ainda que o paciente seja primário, a forma como embalada, acondicionada e ocultada a droga, as circunstâncias de sua apreensão, durante transporte rodoviário interestadual, a variedade de substâncias ilícitas, cocaína, maconha e haxixe, a consequente prisão em flagrante, tudo somado à sua confissão, evidenciam que o indiciado poderia integrar organização criminosa e fazer do tráfico uma prática habitual (fl. 101).
+Na sentença condenatória, quando da negativa do recurso em liberdade, ponderou que (fl. 111):
+ ..  a conduta praticada ostenta gravidade ímpar, notadamente nos dias atuais, em que se constata ser a droga o "início do fim" para muitos jovens. Quando o uso do entorpecente não leva à prática de outros delitos, acaba por tirar o adolescente dos estudos e do mercado de trabalho.
+Como se não bastasse, a permanência do acusado em liberdade serviria de estímulo à criminalidade e não se prestaria a pôr freio na vertiginosa onda de crimes que assola e atemoriza nossa sociedade.
+Assim, à luz das premissas fixadas e tendo em conta o disposto no art. 387, p.ú., do CPP, deve o réu aguardar o trânsito em julgado de sua sentença no cárcere.
+ ..
+Não obstantea fundamentação para decretação da preventiva,a prisão dopaciente é desproporcional diante do quadro apresentado, sobretudo à vista doatual contexto decorrente da pandemia causada pela Covid-19.
+Denota-se que o acusado é primário e sem antecedentes criminais (fl. 109), além disso, apesar da variedade, a quantidade de droga supostamente traficadaé pouco significativa,logo, apesar de minimamente fundamentada a prisão, não está demonstrada a periculosidade do agente, a ponto de justificar o encarceramento preventivo. A prisão, in casu, revela-se medida desproporcional (HC n. 475.587/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/3/2019).
+Com efeito, estou de acordo com a opinião do parecerista de quenão são suficientes para justificar a medida excepcional da prisão preventiva. A quantidade de entorpecentes em poder de Bruno Cardoso dos Santos (18 g de maconha, 13,3 g de cocaína e 1,5 g de haxixe) não se revela expressiva, sendo o réu, ademais, primário(fl. 157).
+Dessa forma, existem medidas alternativas à prisão que melhor se adequam à situação do réu, uma vez que o crime imputado não foi cometido com violência ou grave ameaça à pessoa (AgRg no HC n. 691.240/SP,Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJe 20/9/2021).
+Em face do exposto, acolho o parecer e, confirmando a liminar, concedo a ordempara substituir a prisão preventiva imposta ao paciente por medidas cautelares a serem fixadas pelo Juízo de origem.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS.RÉU PRIMÁRIO. QUANTIDADE NÃO EXORBITANTE DE ENTORPECENTES (18 G DE MACONHA, 13,3 G DE COCAÍNA E 1,5 G DE HAXIXE). CAUTELARES ALTERNATIVAS À PRISÃO. PROPORCIONALIDDE, SUFICIÊNCIA E ADEQUAÇÃO. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
