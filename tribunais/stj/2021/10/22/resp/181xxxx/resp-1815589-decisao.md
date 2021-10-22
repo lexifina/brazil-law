@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por SEBASTIÃO BOARON, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃOassim ementado (e-STJ, fl. 206):
+FUNDO DE GARANTIA DO TEMPO DE SERVIÇO. TAXA PROGRESSIVA DE JUROS. LEI 5.107/66. PRETENSÃO DEDUZIDA EM AÇÃO ANTERIOR, JULGADA EXTINTA, SEM EXAME DE MÉRITO, EM RELAÇÃO AO AUTOR.
+1. A disposição inscrita no artigo 265, inciso V, do Código de Processo Civil, ao determinar seja extinto o processo, sem resolução de mérito, quando o juiz verificar a ocorrência de perempção, litispendência ou coisa julgada, traz em si vedação de que a parte reproduza, em outra demanda, idêntica pretensão à anteriormente deduzida.
+2. Hipótese ocorrente no caso em exame, no qual o autor, ora recorrente, reproduz idêntico pleito de ver reconhecido direito a taxa progressiva de juros em saldo de conta vinculada ao Fundo de Garantia do Tempo de Serviço, repelido em ação anteriormente proposta e julgada extinta, em relação a ele, por ausência de interesse de agir, sob o fundamento de que já a recebera conforme demonstração constante nos autos.
+3. Recurso de apelação não provido.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 219-222).
+Alega o insurgente violação do art. 535, II, o CPC/73, pois o Tribunal de origem foi omisso quanto àquestãosuscitadaem embargos de declaração.
+Sustenta, além de dissídio jurisprudencial,contrariedade aos arts. 267, V, 268 e 301, § 1º, do CPC/73, porquanto é possível o reajuizamento da ação quando o feito anterior for extinto sem julgamento do mérito.
+Aduz que (e-STJ, fls. 231-232):
+ ..  o fenômeno processual da litispendência/coisa julgada não ocorre quando a parte repete ação idêntica extinta anteriormente sem julgamento do mérito, ressalva a hipótese de extinção com fundamento no artigo 267, V do CPC.
+No caso dos presentes autos, como a extinção da ação anterior foi com fundamento no artigo 267, VI do CPC não há qualquer óbice ao ajuizamento de outra ação com idêntico objeto, conforme a jurisprudência pacífica do Superior Tribunal de Justiça:
+ ..
+Ressalte-se, desde já, que no caso em tela, foi suprida a falta indicada na ação anterior com a juntada de novos extratos (fls.18/42 e 120/144) que comprovam o pagamento a menor pela ré. Assim sendo, não há motivo sequer para extinguir o feito por falta de interesse de agir novamente, estando presentes todos os elementos necessários para um novo julgamento de mérito.
+Contrarrazões às e-STJ, fls. 243-244.
+Parecer do Ministério Público Federal, às e-STJ, fls. 397-400, em que opina pelo provimento do recurso.
+É o relatório.
+Verifico que há violação do art. 535 do CPC/1973, pois uma análise detida das decisões proferidas pelo Tribunal de origem, em cotejo com os recursos interpostos, revela que houve omissão no acórdão recorrido em relação à alegada ofensa aos arts. 267, V, e 268 do CPC/1973 e à tese a elesrelacionada no sentido de que o caso dos autos não se trata das hipóteses de extinção sem julgamento mérito previstas no art. 267, V, do CPC/1973.
+Isso porque a ação anteriormente proposta foi extintacom amparo no inciso VI do artigo 267 do CPC/1973, o que, segundo o art. 268 do referido código, permite a propositura de nova ação, desde que suprida a irregularidade da anterior.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a parte deve vincular a interposição do recurso especial à tese de violação do art. 535 do CPC/73, quando, mesmo após a oposição de embargos declaratórios, o Tribunal a quo mantém-se em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum, ou, ainda, quando persista desconhecendo omissão ou contradição arguida como existente no decisum.
+Por estar configurada a agressão ao disposto no art. 535 do CPC/1973, impõe-se a decretação de nulidade do acórdão que apreciou os embargos declaratórios, a fim de que os vícios sejam sanados.
+No particular:
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. VIOLAÇÃO AO ART. 535 DO CPC. OCORRÊNCIA. ANULAÇÃO DO ACÓRDÃO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. Pedido de reconsideração recebido como agravo regimental, em atenção ao princípio da fungibilidade recursal.
+2. De acordo com o art. 535 do Código de Processo Civil, os embargos declaratórios são cabíveis quando houver, na sentença ou no acórdão, obscuridade ou contradição, ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal.
+3. Havendo deficiência na prestação jurisdicional, deve ser acolhida a tese de violação ao artigo 535 do Código de Processo Civil, para determinar o retorno dos autos a fim que sejam sanados os vícios apontados.
+4. Agravo regimental não provido.
+(RCD no REsp n. 1.584.095/SP, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/4/2016, DJe 15/4/2016).
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A análise das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 355/365 e 417/424), em cotejo com os recursos da sociedade contribuinte (e-STJ, fls. 305/309 e 403/414), revela que houve omissão no acórdão recorrido sobre "(a) a argumentação quanto à falta de instauração de procedimento administrativo com a finalidade de apurar a responsabilidade tributária da Recorrente, circunstância que redundaria na nulidade do título executivo, nos moldes do que prescreve o inciso, I, do artigo 618 do Código de Processo Civil, e ainda, (b) a circunstância envolvendo o suposto desrespeito às regras previstas pelos artigos 106, 134, parágrafo único e 144 do Código Tributário Nacional" (e-STJ, fl. 459), matéria relevante ao deslinde da controvérsia.
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp n. 1.313.492/SP, relatora Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 17/3/2016, DJe de 31/3/2016).
+Ante o exposto, com fulcro no art. 932, V, do CPC, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568/STJ,dou provimentoao recurso especialpara anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, acerca do quanto alegado pela via declaratória.
+Publique-se. Intimem-se.
