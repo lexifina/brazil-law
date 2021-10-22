@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de RODRIGO MENEZES SANTOSapontando como autoridade coatora o Tribunal de Justiça do Estado de Sergipe no HC n.202100301975.
+Consta dos autos que o Juízo da Segunda Vara Cível e Criminal da Comarca de Tobias Barreto/SE decretou a prisão preventiva do ora paciente (e de outros réus), como incurso nos arts. 33 e 35, ambos da Lei n. 11.343/2006 (tráfico de drogas e associação), por guardar, no quarto de sua residência, 70g (setenta gramas) de cocaína,"01 (uma) balança digital e 84 (oitenta e quatro) pinos vazios para fins de tráfico .. "-e-STJ fl. 28. Consta, outrossim, que, da estrutura da associação denominada"Família do Mel", cada réu teria uma função determinada (e-STJ fl. 46), e que a do ora paciente seria a de adquirir droga de seu irmão "e realiza r a venda para consumidores finais" (e-STJ fl. 42).
+Irresignada, a defesa impetrouhabeas corpusno Tribunal de Justiça, que conheceu parcialmente da impetração e, na parte conhecida,denegou a ordem, nos termos da ementa de e-STJ fl. 15:
+HABEAS CORPUS - CRIME DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO (ARTIGOS 33 E 35, AMBOS DA LEI DE DROGAS) - ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DACULPA - POLO PASSIVO DA AÇÃO PENAL (201785500917) COMPOSTO POR TREZE RÉUS - DIVERSOS PLEITOS DE LIBERDADE PROVISÓRIA E EXPEDIÇÃO DE DIVERSAS CARTAS PRECATÓRIA - INSTRUÇÃO CRIMINAL ENCERRADA - INCIDÊNCIA DA SÚMULA DE N.52, DO STJ -ALEGAÇÕES FINAIS JÁAPRESENTADAS - PROXIMIDADE DA PROLAÇÃO DA DECISÃO DEFINITIVA - TRAMITAÇÃO REGULAR -AUSÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA RAZOABILIDADE - NÃO CONFIGURAÇÃO DO EXCESSO DE PRAZO - PLEITO DE EXTENSÃO DO BENEFÍCIO CONCEDIDO AOS CORRÉUS, COM LASTRO NO ART. 580, DO CPP - PEDIDO JÁ ENFRENTADO NO JULAGAMENTO DO HABEASCORPUS DE N.202000310879 - INCIDÊNCIA DOS EFEITOS DA COISA JULGADA - NÃO CONHECIMENTO - NÃO CABIMENTO DAS MEDIDAS CAUTELARES SUBSTITUTIVAS DA PRISÃO - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - MANUTENÇÃO DA DECISÃO QUE INDEFERIU A LIMINAR - ORDEM PARCIALMENTE CONHECIDA E, NA PARTE CONHECIDA, DENEGADA.
+Daí o presentewrit, no qual sustenta a defesa excesso de prazo da custódia cautelar, sob a alegação de que elaperdura desde o dia 12/4/2017, mas, até a data da presente impetração, não havia sido prolatada sentença condenatória. Invoca o princípio da razoável duração do processo.
+Aduz a presença de condições pessoais favoráveis.
+Postula a extensão dos efeitos da decisão de primeiro grauque revogou a prisão preventiva de outros corréus-mediante a imposição de medidas cautelares alternativas -, os quais estão em idêntica situação fática-processual àdo paciente, com base no art. 580 do Código de Processo Penal.
+Requer, liminarmente e no mérito,a expedição de alvará de soltura em favor do paciente. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+O pedido liminar foi por mim indeferido (e-STJ fls. 273/275).
+Prestadas as informações de estilo, o Ministério Público Federal opinou pelo não conhecimento dowrit,mas, se conhecido, pela denegação da ordem (e-STJ fls. 302/306).
+É, em síntese,o relatório.
+Decido.
+Conforme informações prestadas pelo Juízo de primeiro grau, às e-STJ fls. 314/315, verifico que, em 16/6/2021, foi prolatada sentença, nos autos da Ação Penal n.0001719-23.2017.8.25.0075, objeto do presentewrit, para condenar o paciente pela prática dos crimes previstos no arts.33,caput, e 35,caput, ambosda Lei 11.343/2006.
+Dessarte, mostra-se patente que a presente impetração, que visava o relaxamento da prisão cautelarpor excesso de prazo para a formação da culpa, está prejudicada, haja vista a perda superveniente de objeto.
+Por fim, quanto aos pedidos de extensão de efeitos da decisão de primeiro grau que revogou a prisão preventiva de outros corréus mediante a imposição de medidas cautelares alternativas, tem-se que a tese não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.(RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ante o exposto,julgo prejudicadoo presentehabeas corpus.
+Publique-se. Intimem-se.
