@@ -1,0 +1,7 @@
+DECISÃO
+O embargante impugna a decisão de fls. 870-872, em que rejeitei os embargos de declaração anteriormente opostos, dado que o recurso não se presta ao reexame do feito com fulcro no mero inconformismo da parte.
+Para tanto, assere novamente que "o Paciente se encontra em situação idêntica ou mesmo até melhor que o corréu paradigma, o que motivou o presente recurso em habeas corpus e embargos, pois se combate justamente o erro do TJPI ao negar a extensão do benefício  da liberdade provisória " (fl. 873).
+A esse respeito, urge consignar que, " s em a demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior" (EDcl no AgRg nos EDcl no AREsp n. 1.205.005/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/6/2021, destaquei).
+Assim como ocorre na hipótese, "o Embargante indisfarçavelmente busca impugnar o acórdão que lhe foi desfavorável, insistindo nos mesmos argumentos, com o inequívoco intento de rediscutir a causa, o que não se coaduna com a via eleita.  ..  A respeitável discordância do combativo causídico com o deslinde da controvérsia não autoriza a eternização da discussão, protraindo a solução da lide, com a utilização de recurso que não se presta ao fim desejado" (EDcl no AgRg nos EREsp n. 1.878.394/PR, Rel. Ministra Laurita Vaz, 3ª S., DJe 4/5/2021).
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
