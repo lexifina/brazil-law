@@ -1,0 +1,32 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO, em face de decisão prolatada pelo Juízo da 2a Vara Cível da Comarca de Primavera do Leste/MT, nos autos da Ação de Obrigação de Fazer com Antecipação dos Efeitos da Tutela no 1028418- 87.2021.8.11.0041, ajuizada por A. N. D. P. representada por PAULA LIGIA NASCIMENTO DE PAIVA, que determinou a suspensão da cobrança da fatura com vencimento em 23/09/2021.
+Alega, em síntese, que a Agravada foi diagnosticada com Transtorno do Espectro Autista (TEA), sendo o tratamento realizado por meio de tratativa direta desde 2019 (plano empresarial) e agora, em abril 2021, por plano particular, Unimed Super Class Individual, registrado sob o número 0560136151000010, tendo aderido ao referido contrato em 23/04/2021.
+Sustenta que a Agravada se insurgiu contra a mensalidade de referência 09/2021, no valor de R$ 4.337,37, referente à mensalidade de setembro de 2021 e 02 meses de valores de coparticipação, relativa às terapias da tratativa direta, pleiteando na exordial pela suspensão da cobrança da coparticipação sobre mencionada fatura, bem como se abstenha de lançar nas faturas futuras a coparticipação até o deslinde da lide.
+Assevera que a cobrança de coparticipação está devidamente prevista em contrato, estando em consonância com a lei e com a jurisprudência. Relata que os valores cobrados a título de coparticipação não se trata de financiamento integral, mas da contribuição do Autor, no importe de 30%.
+Ressalta que o tratamento é decorrente “do cumprimento das liminares postuladas pela parte adversa para custeio de profissionais particulares, assim como por clínicas não credenciadas pela operadora, e também por exames e terapias não previstos no rol da Agência Nacional de Saúde, a requerida necessitou adotar providências em seu sistema de controle para inclusão desses novos procedimentos e profissionais, procedendo à conciliação bancária entre pagamentos e cobrança de coparticipação”.
+Defende que operadora é obrigada a custear o tratamento terapêutico sem qualquer limitação, não se afigura legítimo impor limitação à cobrança da coparticipação.
+Com essas considerações, requer seja concedido o efeito suspensivo, para sobrestar os efeitos da decisão agravada. No mérito, pugna pelo provimento do recurso, para revogar a decisão que concedeu a tutela antecipada nos autos de origem.
+É o relatório.
+DECIDO
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (...)”.
+Pois bem.
+No que se refere a medida vindicada, ao analisar os argumentos apresentados pela Agravante, não identifico como relevantes os fundamentos, a ensejar a concessão da medida requerida.
+Isso porque dos argumentos vertidos na peça inaugural, tenho que o caso não comporta o efeito suspensivo pretendido, uma vez que os argumentos do Juízo a quo são consistentes:
+“(...) Importante ressaltar, ainda, que tanto o Código de Defesa do Consumidor, quanto a Lei no 12.764/2012, que institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista, não proíbem a cobrança de coparticipação em procedimentos dos beneficiários de planos de saúde.
+Desse modo, em princípio, a cobrança de coparticipação pela operadora demandada é legítima, considerando a expressa previsão contratual, bem como o tratamento por tratativa direta que vem sendo realizado desde o ano de 2019, conforme informado na exordial.
+Todavia, tal cobrança pode ser mitigada quando extrapola o limite da proporcionalidade, onerando demasiadamente o consumidor.
+Conforme narrativa exordial, a autora vinha pagando apenas os valores a título de mensalidade (R$ 350,00 a R$ 400,00), mesmo realizando tratamento por meio de tratativa direta desde 2019, sendo surpreendida com uma cobrança de R$ 4.337,37 (quatro mil trezentos e trinta e sete reais e trinta e sete centavos), referente a fatura de 09/2021.
+Dessa maneira, inobstante a legalidade da cláusula de coparticipação, fato é que houve um aumento repentino das cobranças mensais, evento que desestabiliza o controle financeiro de qualquer indivíduo.
+Ademais, o provável equívoco do departamento financeiro da empresa ré, notadamente no que tange às inclusões mensais dos valores relativos à coparticipação, não pode implicar em prejuízo à consumidora, especialmente no que tange à suspensão do tratamento pela impossibilidade de adimplemento integral do débito cobrado extemporaneamente.
+Assim, soa razoável que os valores retroativos relativos à coparticipação sejam cobrados de forma parcelada, sem impingir à consumidora o prejuízo da ineficiência técnica do departamento financeiro da operadora do plano de saúde.
+Há que se registrar, por fim, a ausência do periculum in mora inverso, ante a plena reversibilidade da decisão.
+Isso posto, preenchidos os pressupostos legais, defiro parcialmente o pedido de tutela provisória de urgência e determino à Unimed Cuiabá – Cooperativa de Trabalho Médico a suspensão da cobrança da fatura com vencimento em 23/09/2021 - período de cobertura 23/09/2021 a 22/10/2021 (Num. 66155359 - Pág. 1) - decorrente do contrato no 00560136151000010, especificamente quanto a coparticipação, até ulterior deliberação judicial. (ID. 106175464 - Pág. 97/98).
+Com essas considerações, sem prejuízo de uma análise mais acurada após as informações do Juízo a quo e resposta da Agravado, INDEFIRO a almejado efeito suspensivo.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intime-se o agravado, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Após, remetam-se os autos à Douta Procuradoria de Justiça.
+Des. Sebastião BARBOSA FARIAS
+Relator
