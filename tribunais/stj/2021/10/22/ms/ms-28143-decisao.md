@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Mandado de Segurança, com pedido de liminar, impetrado, em 20/10/2021, por MANOEL CARLOS RODRIGUES CARDOSO,contra ato do DESEMBARGADOR PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, consubstanciado na edição da Portaria 9.998/2021.
+O impetrante sustenta, em síntese, que:
+"É de entendimento pacífico na doutrina e na jurisprudência que em um Estado Democrático de Direito, a liberdade se configura não apenas como um direito fundamental a ser protegido, mas também como pilar destamesma sociedade. Assim, qualquer violação ilegal desta liberdade é uma violação direta ao próprio espírito democrático e à própria democracia e cidadania.
+Depreende-se da portaria nº 9.998/21, objeto desta, uma profunda discordância com a ordem constitucional e jurídica do Brasil. Conforme o inciso IV do § 4º do art.60 da Constituição Federal, os direitos e garantias fundamentais não podem ser objeto de proposta de emenda à Constituição que tenda a aboli-los.
+Ora, se nem mesmo o mais eficaz dos instrumentos legislativos pode suprimir ou turvar o gozo do direito de locomoção, como se pode conceber que tal restrição possa partir de portarias, ainda que emanadas de altas autoridades.
+Para evitar que tal arbitrariedade venha a cercear o direito à liberdade é que o presente writ se torna meio adequado para cessar lesão a tão caro direito fundamental.
+A referida portaria impede o impetrante de exercer o seu mister, pois, como advogado necessita praticar atos de ofício nos recintos que opera, já que alguns dos processos que cuida dependem de visualização e acompanhamento físico, pois, é por esse meio que tramitam.
+A portaria, ao impedir a entrada do Impetrante ao espaço físico dos prédios do Tribunal de Justiça do Estado de São Paulo, além de proibi-lo de trabalhar, ainda que parcialmente, prejudica, sobremaneira, o andamento de todos os feitos processuais que tramitam por esse espaço físico.
+Saliente-se que sendo o advogado responsávelpor direitos de seus clientes não pode, simplesmente, transferir essa responsabilidade a quem quer que seja, sob pena de ser punido por conduta reprovável na Lei que delimita sua profissão, além de sofrer prejuízos impagáveis em seu caráter, honra e dignidade, terá prejuízos monetários que certamente virão" (fls. 5/7e).
+Ao final, requer:
+"a) a concessão da LIMINAR inaudita altera parte pars, para suspender o ato ilegal representado pela Portaria em questão, ou, até que haja decisão definitiva no presente mandado de segurança, a fim de que se garanta seu acesso e a permanência em locais públicos e privados, bem como da utilização de serviços públicos e privados, especialmente em locais em que deva cumprir atos exclusivos de seu ofício, sem a obrigatoriedade imposta pela Portaria acima referida (ainda que se sujeite aos já tradicionais e rotineiros cuidados divulgados pelo Ministério da Saúde por todos os meios de informação), conforme fundamentação jurídica e normativa de defesa dos direitos constitucionais apresentados no bojo do presente remédio constitucional;
+(..)
+f) que ao final seja concedida a segurança em caráter definitivo para assegurar a fiel observância às regras estabelecidas na Constituição Federal" (fl. 14e).
+A pretensão é manifestamente incabível.
+Nos termos do art. 105, I, a, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, os Mandados de Segurança impetrados "contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Além disso, nos termos da Súmula 41/STJ, "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+Ante o exposto, com fundamento nos arts. 10 da Lei 12.016/2009 e 212 do RISTJ, indefiro liminarmente o Mandado de Segurança.
+I.
