@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por FUNDAÇÃO NACIONAL DO ÍNDIOcontra decisão do Tribunal Regional Federal da 1ªRegião, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. INTERDITO PROIBITÓRIO. AGRAVO RETIDO.PROCESSO EXTINTO SEM JULGAMENTO DO MÉRITO. APLICAÇÃO DO ART. 515, § 3º, CPC.POSSIBILIDADE. POSSE E TURBAÇÃO IMINENTE. COMPROVAÇÃO. TUTELA ANTECIPADA.NÃO CABIMENTO.
+I  Interdito proibitório não é a sede adequada para discussão sobre apuração de eventuais perdas e danos.
+II  Desnecessário o desentranhamento de laudo antropológico juntado pela FUNAI, eis que tal documento não ilide a posse do autor.
+III  O possuidor direto ou indireto, que tenha justo receio de ser molestado na posse, poderá impetrar ao juiz que o segure da turbação ou esbulho iminentes, mediante mandado proibitório, em que se comine ao réu determinada pena pecuniária, caso transgrida o preceito (art. 932/CPC).Incumbe ao autor provar não só a sua posse, como também a iminência da turbação ou do esbulho, situação ocorrente nos autos.
+IV  O caso comporta o julgamento da lide, uma vez que o processo já se encontra com a instrução encerrada, bem como porque os documentos existentes nos autos são suficientes para a apreciação da causa (art. 515, § 3º, CPC).
+V  Inócuo deferimento do pedido de tutela antecipada em segunda instância, tendo em vista que o recurso especial ou extraordinário, eventualmente a ser interposto, de regra, é recebido apenas no efeito devolutivo.
+VI  Sentença anulada. Agravo retido do autor a que se nega provimento. Apelação do autor provida" (fl. 614e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados (fls. 655/661e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante apontaviolação aos arts. 267, VI, e515, § 3º, do CPC/73 e 22 e 25 da Lei 6.001/73, sustentando que: a) "Ao julgar o mérito da causa, aplicando a teoria da causa madura, o Tribunal Federal ofendeu aos princípios da ampla defesa e do contraditório, afirmando não se tratar de terra indígena reconhecida e que de fato existe o receio de invasão da propriedade dos autores. Caberia ao Tribunal, ao anular a sentença, retornar os autos ao juiz de origem para delimitar as questões fáticas e proferir a decisão de mérito, havendo a supressão de instância" (fl. 627e) ; b) "A posse indígena, por ser originária, é legítima por si só, e se sobrepõe a qualquer outro direito que, eventualmente, possa ter se constituído sobre tais terras, ainda que amparado por título de propriedade registrado em cartório" (fl. 628e).
+Inadmitido o Recurso Especial (fl. 675e), foi interposto o presente Agravo (fls. 687/692e).
+A irresignação não merece prosperar.
+Do exame dos autos, verifica-se que os fundamentos da decisão agravada, para inadmitir o Recurso Especial, consistem na incidência das Súmulas 7 e 211/STJ.
+O recorrente, no entanto, no Agravo, não cuidou de impugnar especificadamente a decisão quanto ao fundamento da incidência daSúmula 211/STJ.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Nesse sentido:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS NA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA. MULTA PROCESSUAL.
+ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE.
+1. A teor da Súmula 182/STJ, inviável se faz a apreciação do agravo interno que deixa de empreender combate específico a todos os fundamentos da decisão agravada.
+2. Segundo entendimento consolidado na Primeira Turma desta Corte, admite-se o agravo interno parcial somente quando a parte recorrente informa que sua irresignação vai direcionada apenas contra específica parcela da decisão agravada, abrindo mão, expressamente, de impugnar o restante do julgado. Precedentes: AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 18/9/2018, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 4/9/2018, REPDJe 4/10/2018, DJe 25/9/2018.
+3. (..) 4. Agravo interno não conhecido" (STJ, AgInt no AREsp 1.580.189/RJ, Rel.Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 20/02/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N.182/STJ. DECISÃO MANTIDA.
+1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ.
+2. (..) 3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.566.122/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 20/02/2020).
+Em face do exposto, com fundamento no art. 932, III, do CPC/2015 e art.253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
