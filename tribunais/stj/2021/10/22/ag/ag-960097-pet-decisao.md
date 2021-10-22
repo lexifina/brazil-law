@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de petição avulsa apresentada por MARÍTIMA SAÚDE SEGUROS S/A por meio da qual requer "o desarquivamento do respectivo recurso, bem como seja levado a julgamento o recurso especial arquivado equivocadamente, objeto de agravo de instrumento nº 960097/ SP (2007/0210636-8) autuado em 16/10/2007".
+Informa que, após o provimento do Ag 960097/SP, o processo teria sido indevidamente arquivado, de modo que o respectivo recurso especial não foi apreciado.
+É o relatório, decido.
+Extrai-se dos autos que a ora requeridaingressou com ação de repetição deindébito contra a requerente, a qual foi extinta, em razão da incidênciada prescrição ânua. Irresignada com este r. decisum, interpôs a autora recurso de apelação, o qual foi provido, tendo o Eg. Tribunal de Justiça a quo afastado a prescrição e ordenado o retorno dos autos à origem, para que fosse apreciado o mérito da demanda. Em face deste v. acórdão, foi interposto o recurso especial, em 24/01/2007, no qual alega a seguradora violação ao art. 178, § 6º, do CC/16, sob o fundamento de que a pretensão da demandante estaria prescrita.
+Esse recurso especial, todavia, teve seu trânsito obstado em juízo prévio de admissibilidade, dando ensejo à interposição deste agravo de instrumento, recurso cabível à época para finsde destrancamento de recurso. Desse modo, tendo sido provido o agravo para determinar a subida dos autos do recurso especial,nada mais há a deferir no presente recurso, sendo caso de correto arquivamento do feito.
+Outrossim, verifica-se que, em cumprimento à decisão desta Relatoria, os autos integrais, em que consta o referido recurso especial às fls. 220-239, ascenderam a esta Corte Superior, tendo sido distribuído a esta Relatoria (REsp 1.589.387-SP), o qual será oportunamente apreciado.
+Com esses fundamentos, nada a deferir.
+Publique-se.
