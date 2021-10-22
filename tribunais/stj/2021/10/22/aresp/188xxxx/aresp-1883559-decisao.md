@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Itapororoca contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (fl. 124):
+AGRAVO INTERNO  SERVIDOR PÚBLICO MUNICIPAL  COBRANÇA DE VERBAS REMUNERATÓRIAS  PROCEDÊNCIA  IRRESIGNAÇÃO  INEXISTÊNCIA DE FATO EXTINTIVO DO DIREITO DO AUTOR  MANUTENÇÃO  DESPROVIMENTO.
+"( ) É dever da edilidade provar os pagamentos feitos aos seus servidores a título de verbas salariais. Não apresentando provas suficientes que modifiquem ou extingam o direito do autor, presume-se este devido. - Constitui direito líquido e certo de todo servidor público receber os vencimentos que lhe são devidos por exercício do cargo.(..)"
+Nas razões do recurso especial, a parte agravante aponta violação aos arts.373, II, 374, IV e 427 do CPC. Sustenta queas fichas financeiras emitidas pela administração pública, ainda que produzidas unilateralmente, como documentos públicos que são, detém presunção de legitimidade e veracidade garantida, motivo pelo qual servem como prova da realização de pagamento pela edilidade.Uma vez juntada a ficha financeira comprovando o regular pagamento, como contraprova, deveria a parte adversa ter colacionado aos autos um extrato de sua conta bancária, comprovando o não recebimento da verba, a fim de ilidir a presunção relativa de veracidade e inverter novamente o ônus da prova(fl. 144). Acrescenta que,o fato de a recorrida não ter apresentado durante todo o andamento processual nenhum documento minimamente capaz de comprovar a existência do débito alegado na exordial reforça ainda mais a presunção de veracidade das fichas financeiras emitidas pelo ente municipal (fl. 147).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+O Tribunal de origem manteve a sentença que julgou parcialmente procedente o pedido formulado pela autora, condenando o município demandado ao pagamento do 13º salário do ano de 2008 e 2012 e dos salários de dezembro de 2008 e 2012.
+Colhe-se do aresto estadual a seguinte fundamentação (fls. 125/127):
+In casu, o promovente, servidor público, alega ter exercido suas atividades laborais e, por conseguinte, não ter recebido todas as verbas remuneratórias pelo trabalho realizado.
+Na sentença, o magistrado de primeiro grau julgou parcialmente procedente a demanda, condenando o promovido ao pagamento dos 13º salários dos anos de 2008 e 2012 e dos salários de dezembro de 2008 e 2012.
+Nesta instância, o recurso apelatório apresentado pela edilidade foi desprovido monocraticamente, mantendo a sentença em todos os seus termos.
+Ora, cabe à Administração Pública colacionar documentos capazes de impedir, modificar ou extinguir o direito da autora de receber as quantias pleiteadas na exordial, ônus que lhe incumbe, nos termos do art. 373, II, do Código de Processo Civil.
+Embora o agravante alegue a juntada de fichas financeiras, tais documentos não comprovam o pagamento das verbas pleiteadas, sendo consideradas provas unilaterais por parte da administração. Assim, inexistindo nos autos provas de que a parte promovente percebeu os valores pugnados na petição inicial, outra medida não há que a condenação do ente público ao pagamento dessas verbas.
+Com efeito, não se poderia exigir que a parte autora apresentasse prova negativa do não pagamento pela Edilidade, pois é incumbência deste provar que remunerou seus servidores ou que existe qualquer causa que impeça o recebimento das verbas pleiteadas, já que ele é dotado dos meios necessários para essa instrução probatória.
+A matéria é pacificada neste Tribunal de Justiça
+(..)
+Feitas estas considerações, nego provimento ao agravo interno.
+Observe-se que a matéria pertinente aos arts. 374, IV e 427 do CPCnão foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+De outro lado, a desconstituição das premissas lançadas pela instância ordinária, segundo as quais, embora o agravante alegue a juntada de fichas financeiras, tais documentos não comprovam o pagamento das verbas pleiteadas, sendo consideradas provas unilaterais por parte da administração,demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
