@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA DE FATIMA CARVALHO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO APOSENTADORIA POR IDADE TRABALHADOR RURAL LONGO PERÍODO DE EXERCÍCIO DE ATIVIDADE URBANA NO PERÍODO DE CARÊNCIA DESCARACTERIZAÇÃO DA CONDIÇÃO DE RURÍCOLA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 11, VII, 39, I, 48, §§ 2º e 3º, 55, § 3º, 142 e 143 da Lei n. 8.213/91, no que concerne ao preenchimento dos requisitos para a concessão da aposentadoria rural por idade, trazendo o(s) seguinte(s) argumento(s):
+De fato, o acórdão violou os artigos 11, VII, 39, I, 55, § 3º 142 e 143 todos da Lei nº 8.213/91 ao perfilhar o entendimento de que o exercício de atividade urbana afasta a condição de rurícola.
+Ao ignorar mais de 22 anos e seis meses de atividade rural em virtude de um período bem inferior de atividade urbana, o v. acórdão violou frontalmente diversos artigos da Lei nº 8.213/91, que dispõem o seguinte:
+ ..
+Conforme exposto, a documentação exposta na inicial, aliada à corroboração por prova testemunhal revela que a recorrente exerceu atividade rural por um período muito superior à carência exigida pela legislação.
+Portanto, malferiu os citados dispositivos legais o v. acórdão ao julgar improcedente o pedido sob o fundamento de que o exercício de atividade urbana descaracterizou sua condição de rurícola.
+Como se vê, o exercício de atividade rural e urbana não foi concomitante, mas em períodos diferentes. E o período lavorado em atividade exclusivamente rural supera, em muito, o período de carência do benefício previsto no art. 143 da LBPS.
+Verifica-se, assim, que o Egrégio Tribunal Regional da 3ª Região, "data venia", interpretou os dispositivos legais de modo não adequado e diferente da interpretação correta, que caracteriza a contrariedade à lei e autoriza o processamento do recurso especial pelo artigo 105, III, "a", da Constituição Federal. (fls. 184-186).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso concreto, alguns dos documentos apresentados constituem início de prova material do exercício da atividade rural.
+Entretanto, a própria autora fala que entre agosto de 1989 e outubro de 2006 exerceu a atividade urbana,com curtos períodos de registro em carteira, tendo retornado ao labor rural em janeiro de 2007, ao lado do marido, Osmar Laubstein, mediante contrato de meação agrícola, firmado com o irmão dela (da autora), Vanderlei Vitor de Carvalho, no imóvel denominado sítio Córrego Fundo, bairro Santa Quitéria, município de Caconde - (SP), o que perdurou até 21 de dezembro de 2012.
+Verifica-se, portanto, que exerceu atividade urbana por longo período, descaracterizando a sua condição de rurícola, sendo de rigor a improcedência do pedido.
+Por fim, ao ajuizar a presente ação, a parte autora não havia implementado a idade necessária à concessão de eventual aposentação mista ou híbrida.
+Não satisfeitos os requisitos necessários à implantação do benefício, a improcedência da ação é de rigor.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
