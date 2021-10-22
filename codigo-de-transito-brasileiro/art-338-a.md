@@ -1,0 +1,2 @@
+Art. 338-A. As competências previstas no inciso XV do caput do art. 21 e no inciso XXII do caput do art. 24 deste Código serão atribuídas aos órgãos ou entidades descritos no caput dos referidos artigos a partir de 1º de janeiro de 2024.
+Parágrafo único. Até 31 de dezembro de 2023, as competências a que se refere o caput deste artigo serão exercidas pelos órgãos e entidades executivos de trânsito dos Estados e do Distrito Federal.
