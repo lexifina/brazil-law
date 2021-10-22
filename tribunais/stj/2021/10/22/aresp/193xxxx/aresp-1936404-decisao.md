@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por Mateus Souza da Cruz contra a decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que, em juízo de admissibilidade, inadmitiu o recurso especial por ele interposto, com fundamento na alínea c do permissivo constitucional, em que se impugnava o acórdão prolatado na Apelação Criminal e nos Embargos de Declaração Criminal n. 0003418-23.2018.8.07.0008.
+Nas razões do especial, a defesa apontou a existência de divergência jurisprudencial, no tocante à reclassificação do delito de roubo simples para o crime de furto, em virtude da ausência do emprego de violência ou grave ameaça (fls. 268/273).
+Apresentadas contrarrazões (fls. 285/287), o Tribunal distrital não admitiu o recurso, por intempestividade, bem como por incidência da Súmula 7/STJ (fls. 290/292).
+Daí o presente agravo (fls. 296/307). Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do agravopara não conhecer do recurso especial, nos seguintes termos (fl. 329):
+AGRAVO EM RECURSO ESPECIAL. ROUBO SIMPLES. CONDENAÇÃO. INTEMPESTIVIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO APÓS O DECURSO DE 15 DIAS. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO EM DOBRO. NÚCLEO DE PRÁTICA JURÍDICA. ENTIDADE PARTICULAR DE ENSINO. INAPLICABILIDADE. Parecer pelo conhecimento do agravo, para não conhecer do recurso especial.
+É o relatório.
+De fato, o recurso especial é intempestivo, circunstância que obsta o conhecimento do agravo em si.
+Colhe-se dos autos que o agravante interpôs o recurso especial quando já exaurido o prazo recursal de 15 dias, contado de forma contínua (fls. 290/291 - grifo nosso):
+ ..  O recurso especial não merece ser admitido, posto que intempestivo.
+Com efeito, o apelo foi interposto após o prazo de 15 (quinze) dias corridos, nos termos do artigo 994, inciso VI, c/c os artigos 1.003, § 5º, do Código de Processo Civil, e 798 do Código de Processo Penal.
+Insta salientar que a jurisprudência da Corte Superior é no sentido de que a contagem do prazo processual penal é disciplinada por norma específica que dispõe sobre a matéria, no caso o artigo 798 do Código de Processo Penal, o que afasta a incidência do artigo 219 do Código de Processo Civil. No aspecto, confira-se:
+ ..
+Registre, porquanto pertinente, que os embargos de declaração opostos pelo recorrente (ID 23976534), em 11/3/2021, não tem o condão de suspender o prazo recursal, porquanto manifestamente inadmissível.
+Ressalte-se, inclusive, o entendimento do STJ de que "(..) 1. A jurisprudência desta Corte Superior é uníssona no sentido de que a oposição de embargos de declaração intempestivos não interrompe o prazo para interposição de outros recursos." (AgInt nos EDcl no AREsp 1442144/SP, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 8/5/2020).
+Na hipótese, o acórdão recorrido foi publicado no dia 23/2/2021 (ID 23506578). A consulta eletrônica e, portanto, a intimação pessoal do acórdão ocorreu em 5/3/21 (consulta ao expediente). Assim, o prazo recursal iniciou-se no dia 6/3/2021 e terminou no dia 20/3/2021. Contudo, o apelo somente foi interposto no dia 13/4/2021 (ID 24815892), após escoado o prazo legal.
+Dessa forma, operou-se a preclusão temporal e, via de consequência, formou-se a coisa julgada.  ..
+De fato, consoante orientação desta Corte Superior, os embargos de declaração intempestivos não interrompem ou suspendem o prazo para interposição de outros recursos. Nessa linha: AgRg no AREsp n. 1.597.946/DF, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 19/2/2020; EDcl nos EDcl na APn n. 382/RR, Ministro Mauro Campbell Marques, Corte Especial, DJe 7/10/2019 e EDcl nos EDcl no HC n. 485.479/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/6/2019.
+Como, no caso concreto, a publicação do acórdão da apelação deve ser considerado o termo a quo para interposição do recurso especial - já que, insisto, os aclaratórios intempestivos não interrompem o prazo de 15 dias para a apresentação do recurso extremo - e esta se deu em 23/2/2021 (fl. 243), com consulta eletrônica em 5/3/2021 (fl. 248), verifica-se que o início do prazo para interposição do apelo nobre ocorreu no primeiro dia útil subsequente, qual seja, 8/3/2021 (segunda-feira), findando-se em 22/3/2021. Todavia, o recurso especial somente foi interposto em 13/4/2021 (fl. 263), o que demonstra a sua flagrante intempestividade.
+De mais a mais, prevalece nesta Corte Superior a orientação de que a prerrogativa de contagem de prazos em dobro não se estende a advogados que integram núcleo de prática jurídica mantido por universidade particular (AgRg no AREsp n. 1.930.597/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/9/2021).
+No mesmo sentido: AgRg no AREsp n. 1.793.751/DF, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 27/9/2021; AgRg no AREsp n. 1.796.252/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 25/8/2021; e AgRg no AREsp n. 1.328.889/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2019.
+Assim, o agravante não faz jus ao prazo em dobro (30 dias) para interposição do recurso especial, razão pela qual deve ser mantida a decisão agravada.
+Não é outra a opinião da parecerista (fl. 330 - grifo nosso):
+ ..  4. Logo de início, vê-se que o recurso especial padece de intempestividade.
+5. Na hipótese, o acórdão recorrido foi publicado no dia 23.2.2021. A consulta eletrônica e, portanto, a intimação pessoal do acórdão ocorreu em 5.3.21. Assim, o prazo recursal iniciou-se no dia 6.3.2021 e terminou no dia 20.3.2021. Contudo, o apelo somente foi interposto no dia 13.4.2021 (fl. 263), após escoado o prazo legal.
+6. Ademais, ao contrário do que alega o agravante, a prerrogativa de contagem de prazos em dobro não se estende a advogados que integram núcleo de prática jurídica mantido por universidade particular. Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO EM DOBRO. IMPROCEDÊNCIA. NÚCLEO DE PRÁTICA JURÍDICA. ENTIDADE PARTICULAR DE ENSINO. INAPLICABILIDADE. PRECEDENTES DESTA CORTE. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior de Justiça, a prerrogativa de contagem de prazos em dobro não se estende a advogados que integram núcleo de prática jurídica mantido por universidade particular.
+2. No caso, a parte recorrente foi intimada do acórdão recorrido (agravo em execução) em 22/02/2021 (e-STJ, fl. 249), sendo o recurso especial interposto somente em 15/03/2021, fora, portanto, do prazo de 15 (quinze) dias.
+3. "A eventual existência de entendimento em sentido contrário, do Tribunal a quo, não vincula esta Corte Superior na análise dos recursos de sua competência." (AgRg no AREsp n. 1.809.965/DF, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 5/4/2021) 4. Agravo regimental a que se enga provimento." 1 (g.n.)
+7. Assim, correta a decisão que não admitiu o recurso especial ante a sua intempestividade.
+ ..
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS NA ORIGEM. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DO APELO NOBRE. INTEMPESTIVIDADE DO RECURSO ESPECIAL CONFIRMADA. PRAZO EM DOBRO. PRERROGATIVA QUE NÃO SE ESTENDE A NÚCLEO DE PRÁTICA JURÍDICA. ENTIDADE PARTICULAR DE ENSINO. PRECEDENTES DESTA CORTE. AGRAVO INTEMPESTIVO.
+Agravo em recurso especial não conhecido.
