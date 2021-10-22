@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+TENNER CESAR PERENTE agrava da decisão de fls. 98-99, em que indeferi liminarmente o habeas corpus, dada a inadequação da via eleita para o exame do pleito defensivo.
+Para tanto, assere que, "a matéria de direito vertente junto ao remédio heroico não encontra-se fincado na operação aritmética quanto ao tempo das horas de estudo e de trabalho realizadas pelo Agravante Tenner para fins de remição, mas sim, na matéria de direito vertente na desconsideração pelo Juízo de Piso quanto ao tempo de remição de pena que excedeu a 6hs diárias para o trabalho e as 04hs diárias para o estudo, nos termos, forma e modo já reconhecido por esta Egrégia Sexta Turma" (fl. 104, grifei).
+Requer, assim, "seja CONCEDIDA A ORDEM, ainda que de ofício, no sentido do reconhecimento da pertinência do regular processamento do Habeas Corpus para debate da mateira de direito vergastada, e bem ainda, do reconhecimento de que a carga horária excedente seja computada para fins de remição na fração de a cada 18 horas de trabalho fixe 1 dia de remição e a cada 12 horas de estudo fixe 1 dia de remição" (fl. 109).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INADEQUAÇÃO DA VIA ELEITA. NECESSIDADE DE EXAME DO CONJUNTO FÁTICO-PROBATÓRIO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não se presta à análise de pleito que exija o exame do conjunto fático-probatório, mormente diante de questão não foi sequer debatida pelo Juízo de primeira instância.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão atacada, pleiteia a defesa " o  reconhecimento de que a carga horária excedente seja computada para fins de remição na fração de a cada 18 horas de trabalho fixe 1 dia de remição e a cada 12 horas de estudo fixe 1 dia de remição" (fl. 17).
+Salientou, perante a Corte de origem, que "o sentenciado estudou, trabalhou e realizou atividades extracurriculares, fazendo jus, pois, ao cômputo da carga horária excedente para que, a cada 18 horas de trabalho e a cada 12 horas de estudo, seja remido um dia de pena (fls. 01/13)" (fl. 88).
+Todavia, ressaltou o Tribunal local que "ficou assentada a patente impropriedade do remédio constitucional para apreciação de questão relativa à incidente de execução penal, por demandar aprofundamento no caso, incompatível com a estreita via do writ, desafiando, pois, o recurso ordinário adequado" (fl. 94).
+A esse respeito, não olvido que há muito " é  assente neste Superior Tribunal o entendimento de que a existência de recurso próprio não configura óbice à apreciação de questões exclusivamente de direito na via do habeas corpus, desde que a análise da legalidade do ato coator prescinda de incursão na matéria fático-probatória" (HC n. 204.715/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 8/9/2011).
+Entretanto, urge consignar também que "o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária. Precedentes" (AgRg no HC n. 521.374/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/11/2019).
+Outra não é a hipótese dos autos, em que se faz necessário o exame das horas atestadas pelo Juízo singular e supostamente não computadas para fins de remição de penas, ou seja, far-se-ia necessário o exame do acervo probatório relativo aos certificados e demais comprovantes das atividades realizadas pelo apenado, o que não se coaduna com os limites estreitos do remédio heroico.
+Ademais, ainda que assim não fosse, da leitura da decisão de fl. 86, em que o Magistrado de primeira instância analisou o expediente relativo ao pedido de remição da pena, não se verifica a explicitação dos parâmetros utilizados para o cálculo da benesse concedida. Dessa forma, seu exame diretamente por esta Corte Superior incorreria em indevida supressão de instância.
+À vista do exposto, nego provimento ao recurso.
