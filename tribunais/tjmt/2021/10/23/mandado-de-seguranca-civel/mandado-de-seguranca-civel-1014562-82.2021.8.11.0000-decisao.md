@@ -1,0 +1,28 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO
+PJE - MANDADO DE SEGURANÇA CÍVEL (120) 1014562-82.2021.8.11.0000
+IMPETRANTE: VANESSA BATISTA CACERES OCAMPOS
+IMPETRADO: GOVERNADOR DO ESTADO DE MATO GROSSO
+Vistos etc.
+Trata-se de Mandado de Segurança Preventivo impetrado por VANESSA BATISTA CÁCERES OCAMPOS contra ato praticado pelo EXMO. SR. GOVERNADOR DO ESTADO DE MATO GROSSO, requerendo, após fundamentação jurídica, a sua nomeação ao cargo de Analista – Perfil Contador.
+Não há pedido de liminar.
+Analiso, no entanto, o pedido de citação de litisconsorte ativo necessário.
+Sustenta a Impetrante a necessidade de formação de litisconsorte ativo necessário, haja vista a existência de candidato melhor classificado.
+Em se tratando de litisconsorte ativo, este é sempre facultativo e, de forma excepcionalíssima, necessário, haja vista que ninguém é obrigado a ingressar com ação judicial, pois a pessoa tem a total liberdade para postular em juízo eventual direito seu, ao contrário do que acontecesse com o litisconsorte passivo (este sim, pode ser facultativo ou necessário).
+Logo, a formação de litisconsórcio ativo necessário é excepcionalidade em nosso ordenamento jurídico.
+Acerca da matéria, trago à colação os recentes julgados emanados do Tribunal de Justiça do Estado de Minas Gerais, in verbis:
+EMENTA: AGRAVO DE INSTRUMENTO - DIREITO PROCESSUAL CIVIL - LITISCONSÓRCIO NECESSÁRIO ATIVO - DECISÃO - EMENDA - CONDIÇÃO PARA ANÁLISE DO PEDIDO LIMINAR - RECORRIBILIDADE - AGRAVO DE INSTRUMENTO - CABIMENTO - FORMAÇÃO - DESNECESSIDADE - EXCEPCIONALIDADE. - É recorrível por meio de Agravo de Instrumento a decisão que determina a formação de litisconsórcio ativo para análise da ação mandamental e do pedido liminar. - O litisconsórcio ativo necessário é figura excepcional no direito processual, por envolver limitação ao direito constitucional de agir. - Qualquer dos responsáveis pelo recolhimento do tributo objurgado possui legitimidade para ajuizar, sozinho ou em conjunto, ação cujo objeto seja a regularidade da exação. (TJ/MG - Agravo de Instrumento-Cv 1.0000.21.053547-2/001, Relator(a): Des.(a) Alice Birchal, 7a CÂMARA CÍVEL, julgamento em 29/06/2021, publicação da súmula em 03/07/2021) (NEGRITEI)
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - HOMICÍDIO - RESSARCIMENTO - PRELIMINAR - LITISCONSÓRCIO ATIVO NECESSÁRIO - AFASTADA - PRECLUSÃO DE PRAZO PARA JUNTADA DE DOCUMENTO - SUSCITADA DE OFÍCIO - DANO MORAL - MINORAÇÃO - IMPOSSIBILIDADE - RECURSO NÃO PROVIDO. - Impõe-se a não apreciação do documento acostado aos autos pela recorrente quando da apresentação das suas razões, eis que não se trata de documento novo, não tendo a parte justificado o motivo de não o tê-lo juntado outrora. - No ordenamento jurídico pátrio ninguém pode ser obrigado a litigar como autor, sendo afastada a figura do litisconsórcio ativo necessário, sob o risco de infringir a própria liberdade postulatória. - O valor da indenização deve atender determinados vetores que dizem respeito à pessoa do ofendido e do ofensor, partindo-se da medida do padrão sócio-cultural médio da vítima, avaliando-se a extensão da lesão ao direito, a intensidade do sofrimento, a duração do constrangimento desde a ocorrência do fato, as condições econômicas do ofendido e as do devedor, e a suportabilidade do encargo. (TJ/MG - Apelação Cível 1.0000.21.012498-8/001, Relator(a): Des.(a) Amorim Siqueira , 9a CÂMARA CÍVEL, julgamento em 25/05/2021, publicação da súmula em 28/05/2021) (NEGRITEI)
+No caso em tela, tal excepcionalidade não está presente (seja como litisconsórcio ativo ou passivo), posto que o concurso público ao qual a Impetrante se submeteu não havia previsão de vagas.
+Era apenas e tão somente formação de cadastro de reserva, conforme se infere no item 2 do Edital no 01/2016 (Id. 97856468), que assim está redigido, in verbis:
+2. O Concurso destina-se à formação de cadastro de reserva de vagas, relativas aos cargos constantes do Capítulo II, obedecidas a ordem classificatória, correspondente ao surgimento de vagas ou das que vierem a vagar no prazo de validade previsto neste Edital.
+Também não há falar em litisconsórcio passivo, pois em se tratando de concurso público, a formação de litisconsórcio passivo é desnecessário, posto que o direito à nomeação é apenas mera expectativa de direito.
+Nesse sentido, pacífica a jurisprudência do STJ, in verbis:
+MANDADO DE SEGURANÇA CONTRA ATO DE ÓRGÃO FRACIONÁRIO. ACÓRDÃO FUNDAMENTADO EM FARTA JURISPRUDÊNCIA DESTA CORTE. TERATOLOGIA E ILEGALIDADE. INEXISTÊNCIA. ORDEM DENEGADA. 1. O mandado de segurança impetrado contra ato jurisdicional é medida excepcional, somente cabível em casos de flagrante ilegalidade, teratologia ou abuso de poder, o que não se verifica na espécie. 2. No caso, o acórdão impugnado decidiu com amparo em farta jurisprudência deste Tribunal no sentido de que, em regra, é prescindível a formação de litisconsórcio passivo necessário entre candidatos de concurso público, na medida em que eles têm apenas expectativa de direito à nomeação. 3. Mandado de segurança denegado. (STJ - MS 24.596/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 04/09/2019, DJe 20/09/2019).
+Diante do acima exposto, INDEFIRO o pedido de formação de litisconsórcio ativo necessário.
+Notifique-se a autoridade coatora para prestar informações no prazo legal.
+Em seguida, intime-se a Procuradoria Geral do Estado (PGE) para contestar a presente ação (art. 7o, II, da Lei 12.016/09).
+Após, colha-se o parecer da d. Procuradoria Geral de Justiça (PGJ), nos termos do art. 12, da Lei no 12.016/09.
+Em seguida, conclusos os autos.
+Cuiabá-MT, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relatora
