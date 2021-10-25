@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por GENAYRA PEREIRA LIMA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se que a parte embargante requereu os benefícios da justiça gratuita, no entanto, instruiu o recurso com a guia de recolhimento das custas judiciais (fl. 544).
+Ressalte-se que o "princípio da boa-fé objetiva proíbe que a parte assuma comportamentos contraditórios no desenvolvimento da relação processual, o que resulta na vedação do venire contra factum proprium, aplicável também ao direito processual" (AgRg no REsp 1.280.482/SC, 2.ª Turma, Rel. Min. Herman Benjamin, DJe de 13/4/2012).
+Não pode, portanto, a ora recorrente, no ato da interposição do recurso, requerer os benefícios da justiça gratuita e colacionar aos autos documentos referentes à comprovação do recolhimento das custas judiciais, pois dessa forma presume-se que renunciou ao referido benefício no momento da interposição do recurso. Nesse sentido: EDcl nos EAREsp 830.275/MT, relatado pela Ministra Laurita Vaz, DJe 03/03/2017).
+Além disso, constatou-se a ausência do comprovante de pagamento e do erro na indicação do tipo de recurso escolhido na guia apresentada.
+Assim, a parte foi devidamente intimada para regularizar o preparo, nos termos do despacho de fl. 639, no entanto, quedou-se inerte (fl. 642). Dessa forma, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Quanto ao pedido liminar, a admissibilidade da concessão do efeito suspensivo ao recurso em mandado de segurança está intrinsecamente vinculada à possibilidade de êxito do referido recurso. Considerando o não conhecimento do presente recurso, julgo prejudicada a concessão do efeito suspensivo.
+Publique-se. Intimem-se.
