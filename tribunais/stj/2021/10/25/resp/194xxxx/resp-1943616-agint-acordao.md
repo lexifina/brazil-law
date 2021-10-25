@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região).
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Município do Rio de Janeirodesafiando decisão que não conheceu do recurso especial, sob ofundamentode que incide a Súmula 126/STJ, tendo em vista que o pleito de redução do montante das astreintes foi rejeitado com base em fundamentos constitucional e infraconstitucional e não foi interposto recurso extraordinário.
+Inconformada, a parte agravante, em suas razões, sustenta que é possível, na hipótese,o conhecimento do apelo especial, porquanto "a questão constitucional, acaso existente, seria subjacente e consistiria em mera ofensa reflexa, o que não autoriza interposição de recurso extraordinário. Por tal razão, não foi interposto pelo Município recurso ao STF, mas apenas recurso especial." (fl. 468).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+A parte agravada apresentou impugnação (fls. 475/479), na qual solicitao não provimento do agravo interno.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLEITO DE REDUÇÃO DO MONTANTE DAS ASTREINTES. ACÓRDÃO RECORRIDO ANCORADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. INCIDÊNCIA.
+1. Verifica-se que o Tribunal de origem, ao decidir a questão relativa ao pleito de redução do montante das astreintes, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.").
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A insurgência não merece prosperar.
+No caso dos autos, busca o Município do Rio de Janeiro reformar decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro, o qual,após decisão deste Superior Tribunal de Justiça, procedeu ànova análise do agravo de instrumento interposto pela edilidade, em quese discutiu a possibilidade de redução do montante da multa por descumprimento de ordem judicial.
+A Corte Estadual concluiu pela impossibilidade de redução das astreintes, nestes termos (fls. 357/372):
+Inicialmente cumpre destacar que a decisão monocrática que deu parcial provimento ao recurso especial, sob o fundamento de o acórdão proferido por este Colegiado ter dissentido da jurisprudência do STJ, fez alusão a precedentes do STJ que não possuem efeito vinculante. Saliente-se, ainda, que o
+acórdão proferido por este Colegiado analisou expressamente a referida jurisprudência, refutando os seus fundamentos e julgando no sentido de ser inadmissível a redução da multa vencida de forma retroativa, inclusive na vigência do CPC de 1973.
+Além disso, reduzir a multa vencida com efeitos ex tunc significa negar vigência ao art. 537, § 1º, do CPC, o que só é possível com a observância da cláusula de reserva de plenário, nos termos do verbete nº 10 da súmula vinculante.
+Dessa forma, este Colegiado mantém o entendimento de que não é possível a redução de multa vencida. Assim está a se cumprir a determinação da decisão monocrática proferida no REsp para que o Tribunal de origem prossiga no julgamento do feito como entender de direito. Salienta-se que, na hipótese de interposição de novo recurso especial, cabe ao STJ, caso entenda ser possível a redução de multa vencida, reduzir o valor da astreinte com efeitos ex tunc, aplicando o direito à espécie, como expressamente previsto no art. 1.034 do CPC.
+(..)
+Assim sendo, a partir do momento em que se vence a multa, incorpora-se ao patrimônio de seu credor o direito de exigir seu pagamento. E direito incorporado ao patrimônio, que já pode ser exercido. Trata-se, pois, indubitavelmente, de direito adquirido.
+(..)
+O direito adquirido é, pois, um direito subjetivo ainda não exercido, mas "exercitável e exigível à vontade de seu titular". É exatamente isto o que se tem no caso sub examine. Ultrapassado o prazo para cumprimento da decisão judicial, incide a multa. A cada dia (ou a cada unidade do período fixado pelo juízo) vence uma nova verba, que se torna exigível. O demandante, então, a cada dia (ou outra unidade de tempo) se torna credor de um certo valor de multa e esse seu direito de crédito é exigível conforme sua vontade. Nada há que force o demandante, credor da multa, a buscar receber logo (ou em certo prazo determinado, ressalvado, evidentemente, o prazo prescricional que aí incida) o valor da multa já vencida. Tem, pois, o credor direito adquirido a receber a multa que já venceu. E esse direito, por ser adquirido, não pode ser suprimido do patrimônio do credor. É certo que os direitos adquiridos não podem ser suprimidos nem mesmo por Emenda Constitucional. Neste sentido, por exemplo, pode-se trazer à colação precisa lição de talentoso constitucionalista do Rio de Janeiro:
+(..)
+Ora, se nem por Emenda à Constituição é possível suprimir-se um direito adquirido, como aceitar que tal supressão se dê através de decisão judicial  Isto constituiria verdadeiro absurdo.
+Aliás, vale lembrar que as Emendas Constitucionais (que estão limitadas pelas cláusulas pétreas, entre as quais se incluem todos os direitos fundamentais e, nestes, a proteção do direito adquirido) são decorrências da atuação do Poder Constituinte (reformador, derivado, instituído), enquanto o exercício da jurisdição é manifestação do Poder Constituído.
+Ora, é evidente que não se pode admitir que um órgão estatal, no exercício de poder constituído, tenha aptidão para praticar atos que nem o poder constituinte reformador poderia realizar. Aceitar que o juiz tenha o poder de reduzir ex tunc o valor de uma multa que - legitimamente - já está vencida e, com isso, reduzir o quantum debeatur, diminuindo os contornos do direito do credor é dar ao Estado-juiz um poder de que nem o Constituinte Reformador dispõe. Seria, em outras palavras, considerar que o juiz pode, por decisão, fazer o que não se consegue nem por Emenda à Constituição.
+É, portanto, absolutamente inaceitável a redução retroativa do valor da astreinte já vencida.
+Como visto, a Instância a quoconcluiu pela impossibilidade de redução do total das astreintes com base não apenas em dispositivo do Código de Processo Civil, mas, também, naexegese dos princípios constitucionais relacionados ao direito adquirido.
+Assim, não há como afastar a incidência da Súmula 126/STJ, porquanto a edilidade não interpôs o respectivo recurso extraordinário.
+Quanto ao ponto, ressalte-se que não cabe a esta Corte Superior analisar seeventual ofensa à Constituição seria meramente reflexa, como pretende o agravante, sob pena de usurpação da competência do Supremo Tribunal Federal.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
