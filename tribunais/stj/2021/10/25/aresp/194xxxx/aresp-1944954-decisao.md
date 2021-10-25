@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial da MINISTÉRIO PÚBLICO DE SÃO PAULO interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA.JUSTIÇA GRATUITA.
+O pronunciamento do juízo de primeiro grau seja para deferir, seja para indeferir o benefício da justiça gratuita é condição para a apreciação da matéria pelo tribunal, sob pena de supressão de instância. De todo modo, pelos elementos dos autos, não se verifica a aparente hipossuficiência da agravante.
+BOLSÃO RESIDENCIAL DE INTERLAGOS- GUARAPIRANGA. MUNICÍPIO DE SÃO PAULO.
+Cumprimento de sentença, em ação civil pública, em que se discutiu a criação de Bolsão Residencial de Interlagos. Matéria minuciosamente analisada por este e. Tribunal. Título executivo que, em nenhum momento, determinou a retirada de bloqueios, pois não houve pedido nesse sentido. Impropriedade do pedido de nulidade de atos de particulares. Pedido que deveria ter sido formulado com medidas concretas de obrigação de fazer, mas não foi. Acolhimento, unicamente, de pedido de obrigação de não fazer, consistente na abstenção de se implantar obstáculos, cancelas ou qualquer outro instrumento ou equipamento nas vias públicas, praças e qualquer tipo de logradouro no bairro de Interlagos, colocação de guaritas e serviço de vigilantes particulares, sem prévio atendimento aos requisitos legais.
+Impossibilidade de determinação de retirada dos bloqueios existentes, em vista dos limites do pedido. Coisa julgada material.
+Inteligência do art. 5º, XXXVI, CF. Impossibilidade de rediscussão nesta fase processual.
+RECURSO PROVIDO EM PARTE.
+No recurso especial, o recorrente aponta, além da divergênciajurisprudencial,violação e negativa de vigênciaaoartigo 14, §1º, da Lei 6.938/1981.
+Foram apresentadas contrarrazões.
+Sobreveio juízo negativo de admissibilidade.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Dessume-se dos autos que o Tribunal de origem negou seguimento ao recurso especial fundamentado nos seguintes argumentos: a)o posicionamento adotado pela Câmara encontra-se em perfeita harmonia com a jurisprudência pacífica do Superior Tribunal de Justiça,aplicando-se à espécie a Súmula 83 da Corte Superior, suficiente para obstar, nesse aspecto, o prosseguimento do reclamo, quer pela alínea "a", quer pela "c" do permissivo constitucional; b)os argumentos expendidos não são suficientes para infirmar as conclusões do acórdão combatido que contém fundamentação adequada para lhe dar respaldo; c) não ficou evidenciado o suposto maltrato às normas legais enunciadas; e d)rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Superior Tribunal de Justiça; e e) é imprescindível, para a caracterização do dissídio jurisprudencial, que os acórdãos ostentadores de díspares conclusões hajam sido proferidos em idênticas hipóteses, não se verificando, portanto, a indispensável similitude fática no presente caso.
+Contudo, do exame do agravo interposto, observa-se que a agravante se furtou de impugnar específica e suficientemente todosos fundamentos utilizados pelo Tribunal de origem. A parte deixou de impugnar a incidência da Súmula 83/STJ, bem como, em ralação aos demais óbices, limitou-se a apresentarimpugnações genéricas.
+Assim, o agravo em recurso especial carece de fundamentação, atraindo as consequências previstas no art. 932, III, do CPC/2015, segundo o qual não se conhecerá do agravo que não tenha atacado especificamente todos os fundamentos da decisão de inadmissibilidade.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art.
+1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
