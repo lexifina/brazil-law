@@ -1,0 +1,776 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 17
+
+25/10/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.321.659 R IO
+DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: LUIZ FELIPE GONCALVES RAUNHEITTI
+: ARIANE LAZZEROTTI
+: OTTO CRISTOVAM SILVA SOBRAL
+: UNIÃO
+: PROCURADOR-GERAL DA FAZENDA NACIONAL
+
+EMENTA:
+AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO DE
+RENDA. DEPÓSITOS BANCÁRIOS. OMISSÃO DE RECEITA. ART. 42
+DA LEI
+9.430/1996.
+EXECUÇÃO
+FISCAL.
+OMISSÃO
+DE
+RENDIMENTOS. PRESUNÇÃO RELATIVA QUANTO AO FATO
+JURÍDICO TRIBUTÁRIO E À BASE DE CÁLCULO. PRESUNÇÃO NÃO
+ILIDIDADE PELA PROVA PERICIAL. AUSÊNCIA DE PRESTAÇÃO
+JURISDICIONAL. INOCORRÊNCIA. TEMA 339.
+1. Esta Corte, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro
+Gilmar Mendes, DJe 13.08.2010, assentou a repercussão geral do Tema 339
+referente à negativa de prestação jurisdicional por ausência de
+fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX,
+da Constituição Federal exige que o acórdão ou decisão sejam
+fundamentados, ainda que sucintamente, sem determinar, contudo, o
+exame pormenorizado de cada uma das alegações ou provas, nem que
+sejam corretos os fundamentos da decisão.
+2. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, em Sessão Virtual de 15 a
+22 de outubro de 2021, sob a Presidência do Senhor Ministro Nunes
+Marques, na conformidade da ata de julgamento e das notas
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8858-AC25-D768-6996 e senha 46BB-4C88-F437-62E7
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 17
+
+ARE 1321659 AGR / RJ
+taquigráficas, por unanimidade de votos, em negar provimento ao agravo
+regimental, nos termos do voto do Relator.
+Brasília, 25 de outubro de 2021.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8858-AC25-D768-6996 e senha 46BB-4C88-F437-62E7
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 17
+
+25/10/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.321.659 R IO
+DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: LUIZ FELIPE GONCALVES RAUNHEITTI
+: ARIANE LAZZEROTTI
+: OTTO CRISTOVAM SILVA SOBRAL
+: UNIÃO
+: PROCURADOR-GERAL DA FAZENDA NACIONAL
+RE LAT Ó RI O
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Trata-se de agravo
+regimental interposto por LUIZ FELIPE GONÇALVES RAUNHEITTI em
+face de decisão em que neguei seguimento ao recurso extraordinário da
+mesma parte, nos seguintes termos (eDOC 33):
+“Trata-se de agravo cujo objeto é a decisão que inadmitiu
+recurso extraordinário interposto em face de acórdão do
+Tribunal Regional Federal da 2ª Região, assim ementado (eDOC
+18, p. 18-19):
+“TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO
+DE APELAÇÃO EM EMBARGOS À EXECUÇÃO FISCAL.
+OMISSÃO DE RENDIMENTOS. ARTIGO 42 DA LEI
+9.430/96. PRESUNÇÃO RELATIVA QUANTO AO FATO
+JURÍDICO TRIBUTÁRIO E À BASE DE CÁLCULO.
+PRESUNÇÃO
+NÃO
+ILIDIDADE
+PELA PROVA
+PERICIAL.
+NULIDADE
+DA
+SENTENÇA.
+INEXISTÊNCIA.
+CERCEAMENTO
+DE
+DEFESA.
+INOCORRÊNCIA.
+1. Não se pode fundamentar suposta nulidade do
+pronunciamento judicial – desdobrada em alegações de
+cerceamento de defesa, inexistência de fundamentação,
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 17
+
+ARE 1321659 AGR / RJ
+violação ao dever de especificar e apreciar provas – no
+simples desagrado da solução aplicada pelo órgão
+julgador.
+2. O artigo 489, §1°, IV, CPC não impõe ao órgão
+jurisdicional o dever de se manifestar sobre todo e
+qualquer ponto suscitado, mas somente os argumentos
+capazes de infirmar a conclusão por si adotada. Da mesma
+forma, ao analisar as provas, caberá ao magistrado indicar
+as razões de seu convencimento, não restando adstrito à
+concordância da conclusão do perito, ante a vigência do
+livre convencimento motivado do órgão jurisdicional.
+3. Ao acolher o requerimento da Parte Autora e
+determinar a produção de prova pericial, nos termos do
+artigo 370, CPC, o I. Juízo a quo explicitou em sua
+fundamentação as razões pelas quais discordou da leitura
+do laudo pericial feita pelo Apelante (Autor) e desproveu
+o seu pleito, satisfazendo, pois, o requisito previsto no
+artigo 371, CPC. O artigo 479, CPC, especialmente em
+relação à prova pericial, ainda prevê ser possível que o
+magistrado simplesmente desconsidere as conclusões do
+laudo do perito, bastando que, para tanto, motive a sua
+decisão.
+4. Portanto, não houve qualquer nulidade no curso
+processual, tampouco no provimento jurisdicional, eis que
+perceptível a concessão ao Autor de todas as garantias
+relacionadas aos sobreprincípios da segurança jurídica e
+do devido processo legal, desdobradas na fundamentação
+e motivação dos atos decisórios e na oferta de
+contraditório e de ampla defesa.
+5. A norma incerta no artigo 42, da Lei n° 9.430/96,
+estabelece (i) forma de identificação de incidência
+tributária não informada pelo contribuinte; (ii) presunção
+relativa
+referente
+a
+tais
+receitas/rendimentos
+supostamente ocultados. Perceba que não se está a
+constituir novo fato jurídico tributário relacionado à
+movimentação financeira ou à percepção de depósitos. O
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 17
+
+ARE 1321659 AGR / RJ
+critério material da RMIT do imposto de renda permanece
+o de auferir renda, essa entendida enquanto riqueza nova
+perfeita em acréscimo patrimonial.
+6. É a presunção relativa a suposição de um fato
+desconhecido a partir de um fato conhecido. No caso da
+norma em comento, supõe-se a ocorrência do fato jurídico
+tributário (fato desconhecido) a partir da não produção de
+prova hábil e idônea pelo sujeito passivo, quando
+intimado a explicitar a origem dos depósitos identificados
+em conta de sua titularidade e não informados em sua
+declaração (fato conhecido). Sendo a referida presunção
+relativa, iuris tantum, resta permitida a produção de prova
+em contrário. Contudo, em função da referida suposição –
+e não certeza, eis que não se trata de presunção absoluta –
+inverte-se o ônus da prova, devendo o titular da conta,
+para afastá-la, então comprovar, de forma patente, a
+origem dos recursos utilizados nessas operações.
+7. Uma vez não ilidida a presunção a respeito da
+ocorrência do fato jurídico tributário do imposto de renda
+e da manifestação econômica a ser utilizada como base de
+cálculo, subsiste o crédito tributário e o sucedâneo título
+executivo fiscal também dotado de presunção de liquidez
+e certeza, assim que sem razão o Apelante LUIZ FELIPE
+GONÇALVES RAUNHEITTI.
+8. Com razão a UNIÃO FEDERAL/FAZENDA
+NACIONAL no que diz respeito à necessidade de
+aplicação do artigo 85, §3°, II, CPC, de modo que forçosa é
+a reforma da r. sentença tão somente nesse ponto. Tendose em vista o valor dado à causa, condena-se o Autor,
+também Apelante, ao pagamento de honorários fixados
+nos mínimos percentuais previstos no artigo 85, §3°, I e II,
+CPC, do valor atualizado da causa.
+9. Parcialmente conhecido e, nessa parte,
+desprovido o recurso de apelação interposto por LUIZ
+FELIPE GONÇALVES RAUNHEITTI e provido o
+recurso
+de
+apelação
+interposto
+por
+UNIÃO
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 17
+
+ARE 1321659 AGR / RJ
+FEDERAL/FAZENDA NACIONAL. Reformada a
+condenação em honorários advocatícios para a aplicação
+dos mínimos percentuais previstos no artigo 85, §3°, I e
+II, CPC, sobre o valor atualizado da causa.”
+No recurso extraordinário, interposto com base no art. 102,
+III, a, do permissivo constitucional, aponta-se ofensa aos arts.
+93, IX, e 150, IV, da Constituição Federal.
+Nas razões recursais, sustenta-se, em síntese, que (eDOC
+22, p. 18-20 – eDOC 24, p. 1-4):
+“Com o devido respeito ao entendimento
+manifestado no âmbito da C. 3a Turma do E. Tribunal a
+quo, foi plenamente demonstrado pelo ora Recorrente que
+o v. acórdão ora impugnado de fls. 1016/1026 (integrado
+pelo v. acórdão de fls. 1041/1049) não se encontrava
+suficientemente fundamentado (contrariedade ao art. 93,
+inciso IX, da Constituição Federal de 1988) sobre questões
+essenciais ao julgamento da lide, dentre elas o afastamento
+da análise do caráter confiscatório (art. 150, inciso IV, da
+CRFB/1988) da multa de oficio de 75% lançada (art. 44, inc.
+I da Lei n° 9.430/1996), bem como acerca desta exigência
+aos principios da razoabilidade e da proporcionalidade
+(art. 2° da Lei n° 9.784/1996 e art. 37 da CRFB/88), diante
+da suposta "inovação recursar (sic. Fls. 1018).
+(…)
+De outro giro, verifica-se que ao prolatar o v. acórdão
+de fls. 1016/1026, integrado pelo v. acórdão de fls.
+1041/1049, o E. Tribunal a quo adotou o entendimento
+(que não se coaduna com a realidade tática e juridica da
+presente demanda) de que, supostamente, pela prolação
+do "despacho de fls. 880/811, confirmou-se a fixação do
+ponto controvertido como a vinculação dos depósitos à
+quitação do sinistro e a venda do imóvel ..." (sic. fls. 1018)
+e, na medida em que o Recorrente não interpôs Agravo de
+Instrumento contra a aludida decisão, "encontra-se de
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 17
+
+ARE 1321659 AGR / RJ
+toda forma, preclusa a matéria perfeita na fixação do
+ponto controvertido desta lide' (sic. fls. 1018 Destacamos).
+Não obstante, o Recorrente também demonstrou nos
+Embargos de Declaração de fls. 1030/1038 que essa
+premissa adotada no v. acórdão de fls. 1016/1026 se
+afigurava nitidamente equivocada, uma vez que o
+despacho saneador (art. 357 CPC/2015) em questão foi
+proferido após a realização da prova pericial, na qual
+foram considerados os depósitos realizados na conta do
+Recorrente em razão da alienação do imóvel, não sendo
+cabível a interposição de Agravo de Instrumento contra tal
+decisão. Cabia ao ora Recorrente tão somente a prestação
+de esclarecimentos ao D. Juizo Singular, os quais foram
+devidamente realizados às fls. 855/860 e fls. 885/893 além
+das manifestações anteriores e do próprio Laudo Pericial
+comprovar que "... esta perícia, concluiu, de fato
+coincidiam os depósitos..."(sic. fls. 1020 do v. Acórdão)
+(…)
+Não obstante, infere-se que mesmo com a devida
+provocação nos Embargos de Declaração de fls. 1030/1038,
+tal entendimento foi simplesmente ratificado/reprisado no
+v. acórdão de fls. 1041/1049, sendo certo, sob tal aspecto,
+que permaneceram intactas as omissões arguidas pelo
+Recorrente e, nesse contexto, a ausência de manifestação
+sobre o mérito e a prova documental carreada aos autos
+(sendo a questão decidida exclusivamente à luz da
+presunção relativa contida no artigo 42 da Lei n°
+9.430/1996), proposição que implica na verdadeira
+inexistência de fundamentação jurídica para respaldar as
+conclusões adotadas em Segunda Instância (em flagrante
+contrariedade ao disposto no 93, inciso IX, da Constituição
+Federal de 1988).
+(…)
+Conforme amplamente demonstrado nos presentes
+autos, as Autoridades Administrativas da Recorrida e,
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 17
+
+ARE 1321659 AGR / RJ
+ainda, as decisões proferidas nas instâncias ordinárias (r.
+sentença e o v. acórdão ora impugnado), além de não
+considerarem a prova documental carreada aos autos e
+ratificada pelo Laudo Pericial, por consequência,
+mantiveram a indevida multa de oficio aplicada no
+aviltante percentual de 75% (setenta e cinco por cento),
+prevista no artigo 44, inciso I, da Lei n° 9.430/1996, a qual
+possui caráter nitidamente confiscatório e desproporcional
+á infração supostamente cometida pelo Recorrente,
+situação jurídica que não se coaduna com o disposto no
+artigo 150, inciso IV, da Constituição da República, nem
+tampouco com a jurisprudência sobre a matéria.”
+É o relatório. Decido.
+O recurso não merece prosperar.
+Em relação aos pontos em que o Tribunal de origem teria
+negado prestação jurisdicional, destaco os seguintes trechos do
+acórdão que apreciou os embargos de declaração e bem
+resumiu os fundamentos que embasaram a decisão sobre os as
+questões que não teriam sido devidamente analisadas, segundo
+o recorrente (eDOC 19, p. 11-13):
+“A exceção referente à multa qualificada, como
+matéria de ordem pública, não se aplica ao presente caso,
+eis que o próprio Embargante reconhece que a multa
+contra si aplicada é da categoria "de oficio", fixada em
+75%, portanto, não qualificada. A multa qualificada é
+aquela aplicada em decorrência da identificação de
+conduta dolosa, na prática de ilícito de fraude, prevista na
+antiga redação do artigo 44, II, da Lei n° 9.430/96,
+atualmente sem eficácia.
+Dessa feita, resta claro não versar a presente
+discussão de matéria de ordem pública. Sendo assim,
+inexistente a suposta omissão do v. acórdão e patente a
+incidência da norma preclusiva com relação a referida
+matéria, de modo que dela não se pode conhecer.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 17
+
+ARE 1321659 AGR / RJ
+(…)
+Tampouco existente vicio com relação à preclusão a
+respeito à delimitação do ponto controvertido da lide e à
+fundamentação do voto condutor do v. acórdão a respeito
+do não afastamento da presunção relativa contida no
+artigo 42, da Lei n° 9.430/96. Embora rebatido pelo
+Embargante, verdade é que esse não se insurgiu contra a
+fixação do ponto controvertido no momento oportuno,
+tampouco cuidou de edificar prova idônea e cabal que
+ilidisse a presunção prevista no artigo 42, da Lei n°
+9.430/96, o que não cabe rediscussão no presente
+expediente, eis que devidamente apreciada.”
+Nesse contexto, verifico que o acórdão recorrido está
+devidamente fundamentado, ainda que vá de encontro aos
+interesses do recorrente.
+Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria
+do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta
+Corte assentou a repercussão geral do Tema 339 referente à
+negativa de prestação jurisdicional por ausência de
+fundamentação e reafirmou a jurisprudência segundo a qual o
+art. 93, IX, da Constituição Federal exige que o acórdão ou
+decisão sejam fundamentados, ainda que sucintamente, sem
+determinar, contudo, o exame pormenorizado de cada uma das
+alegações ou provas, nem que sejam corretos os fundamentos
+da decisão .
+No que diz respeito ao art. 150, IV, da Constituição,
+observo que a jurisprudência do STF orienta no sentido de que
+o valor da obrigação principal deve funcionar como limitador
+da norma sancionatória, de modo que, apenas quando o
+percentual for superior a 100% do quantum do tributo devido, o
+caráter confiscatório se revela de forma mais evidente.
+Confiram-se, a propósito, os seguintes precedentes:
+“DIREITO TRIBUTÁRIO. SEGUNDO AGRAVO
+INTERNO EM RECURSO EXTRAORDINÁRIO COM
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 17
+
+ARE 1321659 AGR / RJ
+AGRAVO. ALEGADA SEMELHANÇA COM A MATÉRIA
+DISCUTIDA NO RE 736.090. INOCORRÊNCIA. MULTA
+PUNITIVA. PERCENTUAL DE 25% SOBRE O VALOR DA
+OPERAÇÃO. CARÁTER CONFISCATÓRIO. REDUÇÃO
+DO VALOR DA MULTA. IMPOSSIBILIDADE DE O
+PODER JUDICIÁRIO ATUAR COMO LEGISLADOR
+POSITIVO. 1. O paradigma de repercussão geral (Tema
+863 da RG) aplica-se exclusivamente para a fixação do
+limite máximo da multa fiscal qualificada prevista no art.
+44, I, §1º, da Lei nº 9.430/1996. 2. Em relação ao valor
+máximo das multas punitivas, esta Corte tem entendido
+que são confiscatórias aquelas que ultrapassam o
+percentual de 100% (cem por cento) do valor do tributo
+devido. Precedentes. 3. A jurisprudência do Supremo
+Tribunal Federal fixou entendimento no sentido de não
+competir ao Poder Judiciário atuar como legislador
+positivo para estabelecer isenções tributárias ou redução
+de impostos. Precedentes. 4. Agravo interno a que se nega
+provimento.”
+(ARE 905.685 AgR-segundo, de relatoria do Ministro
+Roberto Barroso, Primeira Turma, DJe 7.11.2018)
+“Agravo regimental no recurso extraordinário. CDA.
+Nulidade. Alegada violação do art. 5º, LV, da CF/88.
+Matéria infraconstitucional. Afronta reflexa. Multa.
+Caráter confiscatório. Necessidade de reexame de fatos e
+provas. Taxa SELIC. Constitucionalidade. 1. A afronta aos
+princípios do devido processo legal, da ampla defesa ou
+do contraditório, quando depende, para ser reconhecida
+como tal, da análise de normas infraconstitucionais,
+configura apenas ofensa indireta ou reflexa à Constituição
+Federal. 2. Ambas as Turmas da Corte têm-se pronunciado
+no sentido de que a incidência de multas punitivas (de
+ofício) que não extrapolem 100% do valor do débito não
+importa em afronta ao art. 150, IV, da Constituição. 3. Para
+acolher a pretensão da agravante e ultrapassar o
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 17
+
+ARE 1321659 AGR / RJ
+entendimento do Tribunal de origem acerca da
+proporcionalidade ou da razoabilidade da multa aplicada,
+seria necessário o revolvimento dos fatos e das provas
+constantes dos autos. Incidência da Súmula nº 279/STF. 4.
+É firme o entendimento da Corte no sentido da
+legitimidade da utilização da taxa Selic como índice de
+atualização de débitos tributários, desde que exista lei
+legitimando o uso do mencionado índice, como no
+presente caso. 5. Agravo regimental não provido.”
+(RE 871.174-AgR, de relatoria do Ministro Dias Toffoli,
+Segunda Turma, DJe 11.11.2015)
+“AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+TRIBUTÁRIO. MULTA CONFISCATÓRIA. REDUÇÃO.
+PERCENTUAL INFERIOR AO VALOR DO TRIBUTO.
+POSSIBILIDADE. 1. É admissível a redução da multa
+tributária para mantê-la abaixo do valor do tributo, à luz
+do princípio do não confisco. Precedentes. 2. Agravo
+regimental
+a
+que
+se
+nega
+provimento.”
+(ARE 776.273 AgR, de Relatoria do Ministro Edson Fachin,
+Primeira Turma, DJe 29.9.2015)
+Especificamente sobre o caso dos autos, destaco, por
+oportuno, os seguintes julgados:
+“SEGUNDO
+AGRAVO
+REGIMENTAL
+NO
+RECURSO EXTRAORDINÁRIO. MULTA PUNITIVA. 75%
+DO VALOR DO TRIBUTO. CARÁTER PEDAGÓGICO.
+EFEITO CONFISCATÓRIO NÃO CONFIGURADO.
+PRECEDENTES. A multa punitiva é aplicada em situações
+nas quais se verifica o descumprimento voluntário da
+obrigação tributária prevista na legislação pertinente.
+Trata-se da sanção prevista para coibir a prática de ilícitos
+tributários. Nessas circunstâncias, conferindo especial
+relevo ao caráter pedagógico da sanção, que visa
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 17
+
+ARE 1321659 AGR / RJ
+desestimular a burla à atuação da Administração
+tributária, deve ser reconhecida a possibilidade de
+aplicação da multa em percentuais mais rigorosos. Nesses
+casos, a Corte vem adotando como limite o valor devido
+pela obrigação principal. Agravo regimental a que se nega
+provimento.” (RE 602.686-AgR-segundo, de relatoria do
+Min. Roberto Barroso, Primeira Turma, DJe 05.02.2015)
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL
+NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DOS
+PRINCÍPIOS
+DO
+DIREITO
+ADQUIRIDO,
+DO
+CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA
+CONSTITUCIONAL
+REFLEXA.
+AUSÊNCIA
+DE
+REPERCUSSÃO GERAL. ARE 748.371 (REL. MIN.
+GILMAR MENDES - TEMA 660). TRIBUTÁRIO. MULTA
+DE 75% DO CRÉDITO. EFEITO CONFISCATÓRIO.
+INOCORRÊNCIA. PRECEDENTE DO PLENÁRIO SOB A
+SISTEMÁTICA DA REPERCUSSÃO GERAL: RE 582.461RG (REL. MIN. GILMAR MENDES, DJE DE 05/02/10,
+TEMA 214), BEM COMO JULGADOS RECENTES DAS
+TURMAS. AGRAVO REGIMENTAL A QUE SE NEGA
+PROVIMENTO.” (RE 678.347-AgR, de relatoria do Min.
+Teori Zavascki, Segunda Turma, DJe 13.05.2014)
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO.
+PROCESSUAL
+CIVIL.
+INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93,
+INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA.
+CONSTITUCIONAL E TRIBUTÁRIO. MULTA FIXADA
+NO PERCENTUAL DE 75% DO VALOR DO TRIBUTO
+DEVIDO. ANÁLISE DO CARÁTER CONFISCATÓRIO.
+REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO
+TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO
+QUAL SE NEGA PROVIMENTO.” (RE 606.013-AgR, de
+relatoria da Min. Cármen Lúcia, Segunda Turma, DJe
+11.04.2014)
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 13 de 17
+
+ARE 1321659 AGR / RJ
+
+“DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL.
+PRINCÍPIO
+DO
+NÃO
+CONFISCO.
+PROPORCIONALIDADE
+DA
+MULTA.
+IMPOSSIBILIDADE DE REAPRECIAÇÃO DE FATOS E
+PROVAS. SÚMULA 279/STF. ACÓRDÃO RECORRIDO
+PUBLICADO EM 19.12.2006. O Tribunal a quo, na
+hipótese em tela, lastreou-se no contexto probatório para
+firmar seu convencimento acerca da legalidade da multa
+de 75% imposta à recorrente, assinalando tratar-se de
+multa punitiva e não confiscatória que atendeu finalidade
+educativa e de repressão a condutas infratoras. Portanto,
+aferir a ocorrência de eventual violação ao preceito
+constitucional invocado no apelo extremo, decorrente de
+efeito confiscatório da multa, somente seria possível
+mediante exame do conjunto fático-probatório, o que é
+vedado em sede extraordinária e enseja a aplicação do
+enunciado da Súmula 279 da Corte. Agravo regimental
+conhecido e não provido.” (RE 547.559-AgR, de relatoria
+da Min. Rosa Weber, Primeira Turma, DJe 11.12.2013)
+Ante o exposto, nego provimento ao recurso
+extraordinário, nos termos do art. 932, IV, a e b, do Código de
+Processo Civil e art. 21, §1º, do RISTF.
+Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um
+quarto) os honorários fixados anteriormente, devendo ser
+observados os limites dos §§ 2º e 3º do mesmo dispositivo.”
+
+Nas razões recursais, a parte reitera os argumentos apresentados no
+recurso extraordinário em relação a alegação de ofensa ao art. 93, IX, da
+CF, sustentando, em síntese, que (eDOC 38, p. 7-11):
+“O ponto é que, antes do “despacho saneador” de fls.
+880/881 – proferido após realização da prova pericial –, houve
+despacho anterior que fixou os pontos controvertidos, qual seja,
+o despacho de fls. 739/740, no qual foi efetivamente delimitado
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 14 de 17
+
+ARE 1321659 AGR / RJ
+o objeto da perícia com a indicação pelo MM. Juízo dos itens
+“a” a “e”, como quesitos do juízo:
+(…)
+Excelências, foi este o momento de distribuição do ônus,
+momento no qual seria cabível a interposição de Agravo de
+Instrumento, o que não foi feito porquanto o Agravante entende
+serem estes efetivamente os pontos controvertidos.
+Frise-se que todas as questões acima foram enfrentadas
+pelo Laudo Pericial de fls. 768/792, com respostas aos Quesitos
+do Juízo e das partes.
+Entretanto, esse despacho, de fls. 739/740, no qual foi
+efetivamente delimitado o objeto da perícia segundo os limites
+da lide – ora se os limites da lide fosse apenas o imóvel e o
+sinistro, por que o magistrado teria formulado quesitos quanto
+aos demais pontos? –, foi solenemente ignorado pelo órgão
+julgador, que entendeu ter havido preclusão de despacho
+saneador posterior.
+Frise-se que a questão da preclusão quanto a esse
+despacho saneador posterior não está sendo objeto do presente
+Agravo Interno. O objeto é justamente omissão quanto ao
+despacho de fls. 739/740.
+Ademais, mesmo considerando a omissão quanto ao
+despacho saneador anterior à perícia e a preclusão posterior, a
+insistência do Agravante quanto à ausência de manifestação
+sobre o mérito e a prova documental carreada aos autos
+justifica-se na medida em que, mesmo fixados como pontos
+controvertidos (i) sinistro no valor de R$ 350.000,00 e (ii) venda
+de imóvel no montante de R$ 2.400.000,00, não houve
+manifestação de mérito quanto às conclusões lançadas na
+perícia, a qual, a bem da verdade, mesmo desconsiderando os
+demais pontos, que teriam sido fulminados pela preclusão,
+concluiu que:
+a) Foram localizados “vários depósitos que coincidem
+com as datas de vencimento das promissórias, referente ao
+imóvel citado”, e;
+b) “Foram desconsideradas pelos auditores fiscais, a
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 15 de 17
+
+ARE 1321659 AGR / RJ
+indenização securitária e os depósitos referente a venda do
+imóvel de propriedade do autor”.
+(…)
+Nesse diapasão, é de se argumentar que a sentença de
+primeiro grau, ao afastar as conclusões do laudo pericial pela
+ausência de juntada de documentos complementares, reporta-se
+apenas à quitação do imóvel, nada mencionando acerca do
+sinistro, observe-se trecho da sentença:
+(…)
+Frise-se que o acórdão também reporta-se apenas ao
+imóvel:
+(…)
+Isto porque o depósito referente ao sinistro já houvera sido
+identificado pela própria perita. Senão, observe-se o excerto
+abaixo, presente às fls. e-STJ e JFRJ 773:
+(…)
+Ocorre que, mesmo este sinistro foi desconsiderado pela
+sentença, confirmada pelo E. Tribunal Regional Federal da 2ª
+Região. Excelência, tal desconsideração foi efetivada sem a mais
+mínima fundamentação o que aliado à omissão quanto ao
+despacho de fls. 739/740, representam o “silêncio
+ensurdecedor” mencionado pela parte Agravante em seu
+Recurso Extraordinário e que representa flagrante ofensa ao art.
+93, IX, da Constituição Federal:”
+
+A parte agravada não se manifestou (eDOC 42).
+É o relatório.
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0A3-F7CB-C142-C9AB e senha E156-9375-17AC-E7A4
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 16 de 17
+
+25/10/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.321.659 R IO
+DE JANEIRO
+VOTO
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Não assiste razão à
+parte Agravante ante a ausência de argumentos com aptidão para
+infirmar a decisão recorrida.
+No tocante à alegada violação do dever constitucional de motivação
+das decisões, o art. 93, IX, da Constituição Federal, exige que o acórdão
+seja fundamentado, ainda que sucintamente, sem determinar, contudo, o
+exame pormenorizado de cada uma das alegações ou provas, nem que
+sejam corretos os fundamentos da decisão. Precedente: AI-QO-RG
+791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010. Tema
+339, da repercussão geral.
+É o caso dos autos em que o tribunal de origem analisou e
+fundamentou devidamente os argumentos apresentados pelas partes.
+Com efeito, conforme expressamente indicado nas decisões
+anteriores, em especial pelos trechos transcritos do acórdão recorrido, as
+alegações que não teriam sido analisadas segundo o ora agravante, foram
+afastadas em razão de preclusão e por ausência de provas suficientes para
+afastar a presunção prevista no artigo 42 da Lei 9.430/1996.
+Ressalte-se, finalmente, que a incorreção das conclusões a que
+chegou a decisão impugnada não caracteriza, por si só, ausência de
+prestação jurisdicional.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C42B-672D-AE3E-6B81 e senha E3AF-5E66-4EEC-E395
+
+Supremo Tribunal Federal
+Extrato de Ata - 25/10/2021
+
+Inteiro Teor do Acórdão - Página 17 de 17
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.321.659
+PROCED. : RIO DE JANEIRO
+RELATOR : MIN. EDSON FACHIN
+AGTE.(S) : LUIZ FELIPE GONCALVES RAUNHEITTI
+ADV.(A/S) : ARIANE LAZZEROTTI (165211/MG, 206336/RJ, 147239/SP)
+ADV.(A/S) : OTTO CRISTOVAM SILVA SOBRAL (146539/RJ, 312726/SP)
+AGDO.(A/S) : UNIÃO
+ADV.(A/S) : PROCURADOR-GERAL DA FAZENDA NACIONAL (00000/DF)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Segunda Turma, Sessão
+Virtual de 15.10.2021 a 22.10.2021.
+Composição: Ministros Nunes Marques (Presidente), Gilmar
+Mendes, Ricardo Lewandowski e Edson Fachin.
+Hannah Gevartosky
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C3BF-6F9F-02BE-0753 e senha A060-4B9C-66EB-A76C
