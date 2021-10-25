@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por IVETE SATTELMAYER contra decisão assim ementada (e-STJ, fl. 1.255):
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. ERRO MÉDICO. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. CONDENAÇÃO EM DANOS MORAIS POR CULPA DOS MÉDICOS ENVOLVIDOS FIRMADA NO ACERVO PROBATÓRIO DOS AUTOS E QUANTUM INDENIZATÓRIO PROPORCIONAL E RAZOÁVEL. REVER O POSICIONAMENTO DO ACÓRDÃO RECORRIDO DEMANDA O REVOLVIMENTO DO ARCABOUÇO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL A PARTIR DA CITAÇÃO. RESPONSABILIDADE CONTRATUAL. PRECEDENTES. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+Nas razões do presente recurso, a parte agravantesustenta, em síntese, que "o recurso manejado pelo ora Agravante, em nenhum momento pretendeu o revolvimento do conjunto fático probatório dos autos, mas, ao contrário, a revisão da valoração, peso e importância atribuída a cada uma das provas produzidas na fase de instrução do processo" (e-STJ fl. 1.270).
+Impugnação às fls. 1.278/1.287.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNONO RECURSO ESPECIAL.ERRO MÉDICO. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. CONDENAÇÃO EM DANOS MORAIS POR CULPA DOS MÉDICOS ENVOLVIDOS FIRMADA NO ACERVO PROBATÓRIO DOS AUTOS E QUANTUM INDENIZATÓRIO PROPORCIONAL E RAZOÁVEL. REVER O POSICIONAMENTO DO ACÓRDÃO RECORRIDO DEMANDA O REVOLVIMENTO DO ARCABOUÇO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Reanalisando os autosé de se observar que, no que tange à alegada violação do art. 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência. Da leitura dos autos, verifica-se que a Corte estadual julgou fundamentadamente a matéria, expondo as razões que levaram às suas conclusões.Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Extrai-se do acórdão recorrido que, ratificando a decisão de primeira instância, o Tribunal de origem, soberano na análise das provas carreadas aos autos, entendeu que "como era o caso do paciente quando de sua internação em UTI, deveria ser ministrado "suporte ventilatório, monitorização cardíaca contínua, estabilização hemodinâmica e suporte em ambiente de UTI" e que o fato de ter permanecido nos primeiros dias em apartamento comum contribuiu para evolução negativa de seu quadro clínico, sendo certo que o encaminhamento imediato à UTI era o procedimento médico indicado (fls. 558/559)" - fl. 1.059.
+Assim, rever o posicionamento da Corte a quo e entender, como quer a parte recorrente, que não há dano indenizável na conduta do nosocômio, dos profissionais envolvidos ou que sua culpa não teria sido devidamente comprovada nos autos demandaria o revolvimento do acervo probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Ademais, o entendimento pacífico desta Corte, quanto ao pedido de minoração do quantum indenizatório, é que o montante compensatório a título de dano moral deve ser fixado considerando o método bifásico, norteador do arbitramento equitativo exercido pelo juiz, o qual analisa o interesse jurídico lesado e as peculiaridades ocorridas no caso para a definição do valor.
+O Tribunal de origem diante dos elementos de fato e de prova delineados nos autos entendeu como razoável condenar a recorrente, em solidariedade, "a pagar às autoras Juliana e Isabella indenizações a título de danos morais no importe de R$100.000,00 e R$ 80.000,00, respectivamente" - fl. 1.057, pela morte de seu genitor.
+Com a apreciação reiterada de casos semelhantes, concluiu-se que a intervenção desta Corte fica limitada aos casos em que o quantum for irrisório ou excessivo, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição. Desse modo, não se justifica, in casu, a excepcional intervenção do STJ a fim de revisar o valor da compensação por danos morais.
+Verifica-se que a quantiafixada não se mostra exorbitante diante das minúcias do caso em destaque. Assim, uma vez constatado, no caso concreto, que não houve desrespeito à razoabilidade na fixação do quantum indenizatório, o conhecimento do recurso especial encontra óbice na Súmula 7/STJ, pois necessária a revisão do conteúdo fático-probatório dos autos para acolher a minoração pretendida.
+Nesse passo, advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
