@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANDERSON NOBREGA OLIONI em que se aponta como autoridade coatora o Estado de São Paulo (Apelação Criminal n. 0001863-40.2018.8.26.0396)
+O impetrante aponta constrangimento ilegal em razão da ausência de intimação pessoal da defensora dativa acerca da data da sessão de julgamento da apelação interposta.
+Sustenta que o paciente "sofreu prejuízo em sua defesa técnica, que poderia através do defensor dativo sustentar oralmente seu recurso de apelação" (fl. 5).
+Requer, liminarmente e no mérito, a intimação pessoal do defensor dativo do julgamento do recurso da apelação, anulando os atos a partir dessa intimação.
+O pedido de liminar foi indeferido (fls. 402-403).
+Prestadas as informações (fls. 408-459), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus, sob pena de supressão de instância, ressaltando que "a Defesa, na primeira oportunidade que teve para se manifestar nos autos, não apontou a referida nulidade" (fl. 468).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuaçãoex officio.
+Não se nega que a jurisprudência do STJ se firmou no sentido de que a ausência de intimação pessoal do defensor dativo ou nomeado constitui nulidade absoluta, pois viola o direito de ampla defesa do réu.
+Nessa linha:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO. CERCEAMENTO DE DEFESA EVIDENCIADO. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, PROVIDO.
+1. Nos autos do HC n. 521.935/SP, foi apresentado pedido de extensão em favor do ora recorrente, nos termos do art. 580 do Código de Processo Penal, deferido para modificar o regime inicial de cumprimento da pena e autorizar sua substituição por medidas restritivas. Dessa maneira, não mais se pode falar em execução provisória da pena, prejudicando parcialmente este recurso ordinário em habeas corpus.
+2. A jurisprudência dos Tribunais Superiores pacificou o entendimento de que, por implicar violação do direito de ampla defesa do réu, a ausência de intimação pessoal do defensor público, bem como do defensor dativo ou nomeado, constitui nulidade absoluta.
+3. Neste caso, o defensor dativo foi cientificado do acórdão de apelação apenas por meio do Diário de Justiça Eletrônico, revelando, portanto, nulidade quanto à prerrogativa de intimação pessoal do defensor dativo.
+4. Recurso parcialmente conhecido e, na parte conhecida, provido para anular a certificação de trânsito em julgado do acórdão que confirmou a sentença condenatória, a fim de que seja o defensor dativo pessoalmente intimado do seu teor, com reabertura do prazo recursa. (RHC 120.411/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2019.)
+Contudo, para que haja o reconhecimento danulidade, além da demonstração do prejuízo, a parte prejudicada deverá argui-la na primeira oportunidade que falar nos autos, sob pena de preclusão.
+A esse respeito:
+PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. ATO CITATÓRIO REALIZADO NO DIA DO INTERROGATÓRIO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DEFENSORIA PÚBLICA. INTIMAÇÃO PESSOAL DA DATA DO JULGAMENTO DA APELAÇÃO. AUSÊNCIA DE ALEGAÇÃO OPORTUNA. PRECLUSÃO. ARMA DE FOGO. QUALIFICADORA. PROVA TESTEMUNHAL. SUFICIÊNCIA.
+1. Seguindo o entendimento da Primeira Turma do Supremo Tribunal Federal, o Superior Tribunal de Justiça passou a inadmitir habeas corpus substitutivo de recurso ordinário, recurso especial ou de revisão criminal ressalvando, entretanto, a possibilidade de concessão da ordem de ofício nos casos de evidente constrangimento ilegal.
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a realização da citação no dia do interrogatório não implica, por si só, a nulidade do processo, sendo necessária a demonstração do prejuízo, o que não se verificou.
+3. Consolidou-se nesta Corte o entendimento segundo o qual "a intimação do defensor público ou dativo deve ser pessoal, sob pena de nulidade absoluta por cerceamento de defesa" (HC 50.180/SP, Rel. Min. FELIX FISCHER, Quinta Turma, DJ de 19/6/06).
+4. Evolução da interpretação para considerar que tal nulidade é passível de preclusão, nas hipóteses em que não é arguida na primeira oportunidade da defesa de se manifestar nos autos, com a necessária demonstração de prejuízo.
+5. No presente caso, verifica-se que a defesa quedou-se inerte até o trânsito em julgado (ocorrido em 15/8/00, enquanto a arguição do vício na intimação para a sessão de julgamento apenas se deu com o ajuizamento da revisão criminal, em 2003), não havendo, pois, tempestivamente, a indispensável impugnação.
+6. Na hipótese de haver prova testemunhal afirmando que o acusado teria se utilizado de arma de fogo para perpetrar o delito de roubo, irrelevante, para fins de aplicação da qualificadora, a apreensão da arma ou existência de laudo pericial atestando a sua potencialidade lesiva.
+7. Habeas corpus não conhecido. (HC 142.994/SP, relator Ministro Gurgel De Faria, Quinta Turma, DJe de 26/09/2014, destaquei.)
+PROCESSUAL PENAL. HABEAS CORPUS. LATROCÍNIO. APELAÇÃO. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO ACERCA DO V. ACÓRDÃO DE JULGAMENTO DO APELO. TRÂNSITO EM JULGADO. ARGÜIÇÃO TARDIA. PRECLUSÃO.
+I - A teor dos artigos 5º, § 5º, da Lei nº 1.060/50 e 370, § 4º, do CPP, a intimação do defensor público ou dativo deve ser pessoal, sob pena de nulidade absoluta por cerceamento de defesa. (Precedentes).
+II - In casu, todavia, a nulidade é passível de preclusão, porquanto não foi argüida na primeira oportunidade da defesa de se manifestar nos autos, com a necessária demonstração de prejuízo. Ao contrário, o defensor dativo do paciente permaneceu inerte quanto à nulidade ora alegada, somente vindo a argüi-la quase sete anos após o trânsito em julgado da condenação. (Precedentes do STJ e do STF).
+Ordem denegada. (HC 103.410/PR, relator Ministro Felix Fischer, Quinta Turma, DJe de 2/2/2009.)
+No presente caso, como bem observado pelo representante do MPF, "o Tribunal local noticia que a intimação da Defensora Dativa para a sessão de julgamento do recurso de apelação defensivo se deu por meio de publicação do Diário de Justiça Eletrônico, de 21/01/2020, e posteriormente, também pelo DJE, foi intimada do teor do acórdão, em 03/03/2020, decisão que não alterou a situação do ora Paciente. Em seguida, o Paciente constituiu novo Patrono, que interpôs recurso especial, em 18/03/2020, - não admitido na origem -, no qual não alegava a referida nulidade, que somente foi arguida no presente writ, em 10/02/2021" (fl. 467, destaquei).
+Vê-se, assim, que, na hipótese, além do defensor constituído não ter alegado na primeira oportunidade a ocorrência de eventual nulidade, também não restou demonstrado o prejuízo, tanto que fora interposto recurso especial contra o acórdão da apelação, sem qualquer menção à questão ora arguida.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
