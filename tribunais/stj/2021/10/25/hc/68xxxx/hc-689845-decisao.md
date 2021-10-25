@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar,impetrado em benefício deElton Fagner Pinheiro de Andrade, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, sob a alegação de excesso de prazo para o julgamento da Apelação n. 501158-28.2020.8.26.0224.
+Consta dos autos que o paciente foi condenado por roubo majorado, por duas vezes, à pena definitiva de 11anos e 8meses de reclusão, e 46 dias-multa, em regime inicial fechado (fls. 23/50).
+Daí o presentemandamus, no qual se alega,o excesso de prazo nojulgamento da apelação criminal.
+Aponta-se que o paciente apresentou seu apelo há mais de 7 meses e ainda não foi pautado para julgamento.
+Aduz-se que há ofensa ao princípio da razoabilidade.
+Requer-se que a custódia do paciente seja relaxada.
+Em 26/8/2021, a liminar foi por mim indeferida às fls. 144/145.
+Prestadas as informações às fls. 150/181,o Ministério Público Federal opinou pela denegação da ordem(fls. 183/187).
+Em consulta realizada na página eletrônica do Tribunal local, constatei que o processo se encontrava concluso com o relator desde 8/9/2021.
+É o relatório.
+Quanto à alegação de morosidade processual,cabe ressaltar que é pacífico o entendimento do Superior Tribunal de Justiça de que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais (RHC n. 104.639/PI, Ministro Joel Ilan Paciornik, QuintaTurma, DJe 3/12/2019).
+Realmente, o excesso de prazo, segundo o entendimento do Superior Tribunal de Justiça, deve ser aferido dentro dos limites da razoabilidade, considerando-se as circunstâncias excepcionais que venham a retardar o término da instrução criminal ou do processo, não se restringindo à simples soma aritmética de prazos processuais.E, na espécie, nota-se queo trâmite para o julgamento da apelaçãosegue o seu curso normal, inclusive, nota-se que o recurso foi concluso ao relator para julgamento em data recente, no dia8/9/2021.
+Não foi outra a opinião danobre parecerista, aSubprocuradora-Geral da República Ana Borges Coêlho Santos,em relação àteseapresentadapela defesa, a qual também adoto como razões de decidir, nestes termos(fls. 183/187- grifo nosso):
+ ..
+O excesso de prazo passível de ser firmemente combatido é aquele desvinculado da realidade dos fatos, injustificado e que extrapola em muito os marcos legalmente estabelecidos, em nítida violação ao princípio da razoabilidade.
+Na hipótese vertente, conforme consta dos autos e também das informações do Tribunal de Justiça do Estado de São Paulo, a sentença foi proferida em 14/12/2020 e o recurso de apelação do paciente foi recebido pelo Tribunal na data de 12/8/2021, sendo distribuído ao Relator em 20/08/2021, ao passo em que foi remetido à Procuradoria Geral de Justiça para elaboração do relacionado parecer no mesmo dia e, assim, conclusos para o Relator, não se detectando excesso de prazo.
+Outrossim, o excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória. No caso, o paciente foi condenado à pena de 11 anos e 08 meses de reclusão, em regime inicial fechado, não restando desarrazoado o prazo para julgamento do recurso defensivo.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. ART. 34, XVIII, "B", DO RISTJ. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE.INDEFERIMENTO LIMINAR DO WRIT, PELA INCIDÊNCIA DASÚMULA N. 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADEOU TERATOLOGIA. PREJUDICIALIDADE SUPERVENIENTE. JULGAMENTO DO MÉRITO DA IMPETRAÇÃO ORIGINÁRIA. Página 4 de 6 EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. DELONGA NÃO CONFIGURADA. RAZOABILIDADE E PROPORCIONALIDADE. CONDENADO À PENA DE 16 ANOS DERECLUSÃO. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+VII - Os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+VIII - No caso em exame, a pena aplicada resulta 16 anos de reclusão, no regime inicial fechado. Logo, decorrido 1 ano e 6 meses desde a prolação da sentença, não se me afigura desproporcional a delonga no julgamento do recurso de apelação, especialmente considerando que os autos estão tramitando fisicamente, cujo deslinde sofre impacto diretamente pelas medidas preventivas adotadas pelo Poder Judiciário em face da emergência sanitária causada pela pandemia. Outrossim, considerando a pena total a que foi condenado o agravante, também não se verifica flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, o recorrente se encontra impedido de usufruir de benefícios relativos à execução da pena.
+IX - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes. Agravo regimental desprovido.
+(AgRg no HC 654.429/SP, Rel. Ministro FELIX FISCHER, QUINTATURMA, julgado em 01/06/2021, DJe 07/06/2021 - g. n.)
+Com efeito, não constatada clara mora estatal em ação penal onde a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal ou de culpa do Estado, não se vê demonstrada ilegalidade no prazo da análise do recurso de apelação.
+Não resta, portanto, demonstrada violação ao princípio da duração razoável do processo, não podendo o excesso de prazo resultar de um critério meramente aritmético, mas sim da aferição do lapso temporal à luz dos princípios da razoabilidade e proporcionalidade e de acordo com as peculiaridades do caso concreto.
+Nesse contexto, tenho que ficoudemonstradaa inexistência de ilegalidade a justificar a concessão da ordem neste momento.
+Ante o exposto, com base no parecer e nos precedentes,denegoa ordemcom arecomendaçãopara que o Tribunal de Justiça deSão Paulo imprima celeridade no julgamento daApelaçãon. 501158-28.2020.8.26.0224.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA.PROCESSO QUE TRANSCORRE COM NORMALIDADE. RECURSO CONCLUSO AO RELATOR PARA JULGAMENTO EM DATA RECENTE.AUSÊNCIA DE MANIFESTAILEGALIDADE. PARECER ACOLHIDO.
+Ordem denegada com recomendação.
