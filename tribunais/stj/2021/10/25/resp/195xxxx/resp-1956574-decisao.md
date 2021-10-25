@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por BRADESCO SAUDE S/A, com amparo naalínea"a"do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (fls. 607-625 e-STJ), assim ementado:
+APELAÇÃO. PLANO DE SAÚDE. Tutela provisória cautelar em caráter antecedente. Cancelamento de plano de saúde pela estipulante. Autores que são idosos, aposentado e sua dependente, com mais de 70 anos, portadores de quadros clínicos sérios, utilizando-se de internação domiciliar (home care), deferidos por força de decisão judicial proferida em outros dois processos. Alegações preliminares de incompetência da justiça estadual (requerendo a remessa para a Justiça do Trabalho), ilegitimidade passiva e impugnação ao valor da causa. Afastadas. Alegações da operadora de plano de saúde que a resilição unilateral da apólice se deu em decorrência de previsão contratual, pela estipulante, de forma que a seguradora não pode ser obrigada a reativar a apólice, que não mais comercializa planos individuais, além de ter sido respeitado o prazo de 60 dias de antecedência antes do cancelamento. Alegações da estipulante que não é obrigada a manter contrato vitalício com a operadora, que realizou a transferência dos Apelantes para outra operadora, além da ausência de obrigação legal à manutenção dos apelados no plano, em razão de inexistência de contribuição.Descabimento. Manutenção no plano que se impõe. Acordo trabalhista celebrado com a ex-empregadora quando da aposentadoria por invalidez, que a obriga. Internação domiciliar ("home care"), para ambos, concedida por força de decisão judicial proferida nos processos anteriormente ajuizados em face da operadora. CDC. Aplicabilidade. Súmula608 do C. STJ. Falta de notificação expressa sobre o cancelamento unilateral. Contratação de novo plano individual ou familiar semelhante àquele extinto (art. 1º da Resolução nº 19/99 do CONSU), mantidas as mesmas condições anteriormente contratadas. Sentença mantida. Adoção do art.252 do RITJ. RECURSO DESPROVIDO.
+Opostos embargos declaratórios (fls. 654-663 e-STJ), restaram desacolhidos na origem (fls. 664-667 e-STJ).
+Nas razões do especial (fls. 631-645e-STJ), o insurgente alega violação aos seguintes dispositivos de lei federal:
+(i) artigo 1.022, inc. II, do CPC/15, porquanto não sanados os vícios apontados nos aclaratórios;
+(ii)artigos1º e 4º, inc. VII, XI e XXIII da Lei n. 9.961/00, em relação à competênciada Agência Nacional de Saúde Suplementar - ANS para regular e normatizar as disposições da Lei n. 9.656/98;
+(iii)artigos 473 e 599 do Código Civil, ante a possibilidade de resilição de contrato firmado por prazo indeterminado; aduz, ainda, que não comercializa planos individuais.
+Apresentadas contrarrazões (fls. 235-246 e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1.Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa ao artigo 1.022do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça:AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020;AgInt no AREsp 1507690/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.
+Alegou a recorrente que o acórdão impugnado restou omisso quanto à competência regulamentar da ANS, bem como em relação à não comercialização de planos individuais.
+Todavia, o Tribunal local julgou a demanda com base, também, em normas da ANS. Além disso, afirmou que "que o fato de a operadora de saúde ré não comercializar mais planos individuais ou familiares não é impeditivo para que seja mantido o plano de saúde anteriormente extinto".
+As alegações da insurgente, assim, não demonstram a ocorrência de qualquer vício na decisão recorrida, motivo pelo qual deve ser afastada a suposta violação ao artigo 1.022 do CPC/15.
+2. No mérito, observa-se que, dentre outros motivos, a Corte de origem considerou devida a manutenção do contrato em razão da condição de saúde dos autores (em internação domiciliar), bem como por não ter sido comprovada a prévia notificação da resilição contratual.
+Aplicou-se, ainda, por analogia, o artigo 13, parágrafo único, incs. II e III, da Lei n. 9.656/98.
+Tais fundamentos não foram infirmados pelo recurso especial, atraindo a incidência do óbice da Súmula 283/STF.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao recurso especial.
+Em atenção ao disposto no art. 85, §11, do CPC/15, deixa-se de majorar os honorários, eis que já fixados no patamar máximo pela origem.
+Publique-se.
+Intimem-se.
