@@ -1,0 +1,76 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, não foi rebatido, especificamente, o fundamento da decisão agravada, relativo à incidência da Súmula n. 83/STJ.
+2. Não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, em que a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+3. O comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por JOEL FERREIRA DA SILVA contra decisão do Presidente do Superior Tribunal de Justiça, por meio da qual não foi conhecido o respectivo agravo em recurso especial (fls. 513-514).
+Sustenta a Defesa, nas razões do agravo regimental, que, ao contrário do consignado na decisão agravada, foram impugnados todos os fundamentos do decisum que não admitiu o recurso especial na origem.
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo regimental (fls. 534-537).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, não foi rebatido, especificamente, o fundamento da decisão agravada, relativo à incidência da Súmula n. 83/STJ.
+2. Não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, em que a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+3. O comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+4. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Consta dos autos que o Juízo de primeiro grau condenou o ora Agravante à pena de 12 (doze) anos de reclusão, em regime inicial fechado, como incurso no art. 121, § 2.º, inciso III, do Código Penal (fls. 328-332).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem negou provimento (fls. 441-448).
+Sustenta a Defesa, nas razões do apelo nobre, além da existência de dissídio pretoriano, contrariedade ao art. 121, § 2.º, inciso III, do Estatuto Repressor.
+Pondera que a mera reiteração de golpes de arma branca (facão) não é fundamento idôneo a justificar a incidência da qualificadora do emprego de meio cruel, mesmo que, tal como ocorreu na hipótese dos autos, tenha a cabeça sido separada do corpo enquanto o de cujus ainda vivia, porquanto não foi demonstrado o dolo específico do Réu para causar sofrimento desnecessário à Vítima.
+Foram apresentadas contrarrazões (fls. 474-479). O recurso especial não foi admitido (fls. 481-484). Foi interposto agravo (fls. 490-498).
+O Presidente do Superior Tribunal de Justiça, por meio da decisão de fls. 513-514, não conheceu do agravo em recurso especial.
+Daí a interposição do presente agravo regimental (fls. 517-523).
+Feito esse breve escorço histórico, passo ao exame da controvérsia.
+A Corte de origem não admitiu o apelo nobre, calcada nas seguintes razões de decidir (fls. 481-484; sem grifos no original):
+"O recorrente alegou dissídio jurisprudencial e violação do artigo 121, §2º, inciso III, do Código Penal, buscando a anulação do acórdão vergastado e a submissão a novo julgamento perante o Tribunal do Júri, ao argumento de que a reiteração de golpes de arma branca não caracteriza, por si só, meio cruel.
+Defendeu que "para a caracterização da qualificadora do meio cruel no crime de homicídio, necessário se faz a indicação do dolo do agente em, ao praticar o crime, escolher meio que cause sofrimento desnecessário à vítima, o que não é apostado na denúncia" (Pet 1, mov. 1.1, fl. 5)
+Pois bem.
+O tema aduzido pelo recorrente foi assim decidido pela Corte Estadual:
+"No tocante à questão de fundo, exame do material cognitivo não permite desconstituir o julgamento do Tribunal Popular. Tem-se repetido ser manifestamente contrária à prova dos autos - a autorizar, assim, o excepcional exercício da jurisdição de cassação (CPP, art. 593-III-"d") - a decisão que está completamente dissociada de tudo quanto se produziu ao longo da instrução criminal. E tal situação não se verifica in casu, uma vez que o veredito repousa em elementos de convicção amealhados, os quais, objetivamente considerados, levaram os Jurados a acolher a pretensão condenatória. (..) O Laudo do Exame Cadavérico (mov. 1.9), ademais, registra a violência sofrida pela Vítima, que apresentava: "extenso ferimento com laceração e perda de substância na região pré-auricular esquerda estendendo-se até a região cervical superior, ferimento corto lacerante na região cervical esquerda e posterior, separação da cabeça do tronco com fratura de vértebras cervicais, ferimentos múltiplos na região parietal esquerda e occipital esquerda, ferimento em ombro esquerdo com exposição óssea, fratura de tábua óssea do crânio na região parietal esquerda, amputação do pavilhão auricular esquerdo e ferimento lacerante na região frontal com fratura óssea", causadas por "instrumento corto cortante (facão). No tocante à qualificadora, extrai-se do material probatório que o Apelante utilizou um facão para golpear o Ofendido, causando-lhe múltiplos ferimentos. A ação foi praticada com excessiva brutalidade, a ponto de provocar a "separação da cabeça do tronco" enquanto a Vítima estava viva, impondo-lhe sofrimento atroz. Desse modo, a conclusão alcançada pelo Tribunal do Júri não se revela desarrazoada, que reconheceu a qualificadora do meio cruel - frise-se - em consonância com os elementos de prova. (..)" (Ap. crime, mov. 58,1).
+Inicialmente, insta salientar que a aferição da questão posta a respeito da qualificadora, mostra-se como medida inviável nesta fase processual, diante do contido no óbice sumular nº 7 do Superior Tribunal de Justiça, ante a necessidade de verificação do conjunto fático-probatório.
+ ..
+Além disso, verifica-se que a decisão recorrida não destoa do entendimento da Corte Superior, no sentido de que:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. HOMICÍDIO QUALIFICADO. EXCLUSÃO DE QUALIFICADORAS. EXISTÊNCIA DE ELEMENTOS MÍNIMOS. QUESTÃO QUE DEVE SER SUBMETIDA AO HABEAS CORPUS NÃO CONHECIDA. - CONSELHO DE SENTENÇA. O Superior Tribunal de Justiça, na esteira do entendimento firmado pelo Supremo Tribunal Federal, tem amoldado o cabimento do remédio heróico, adotando orientação no sentido de não mais admitir habeas corpus substitutivo de recurso ordinário/especial. Contudo, a luz dos princípios constitucionais, sobretudo o do devido processo legal e da ampla defesa, tem-se analisado as questões suscitadas na exordial a fim de se verificar a existência de constrangimento ilegal para, se for o caso, deferir-se a ordem de ofício. - Esta Corte é assente no sentido de que a sentença de pronúncia não forma convicção definitiva a respeito da autoria e materialidade, mas mero juízo provisório, somente se admitindo o decote de qualificadora nessa fase, quando manifestamente improcedente ou descabida. - De fato, cabe ao Conselho de Sentença a decisão a respeito da configuração ou não das mencionadas qualificadoras, sendo suficiente, na sentença de pronúncia, a existência de indícios mínimos, os quais se verificam, in casu, ante a notícia de que o paciente, supostamente, golpeou "a vítima por diversas vezes, inclusive na não cabeça, causando dor atroz e desnecessário sofrimento". Habeas corpus conhecido. (HC 165.512/SP, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), SEXTA TURMA, julgado em 27/05/2014, DJe 11/06/2014)
+"Na hipótese, as circunstâncias judiciais são prejudiciais ao paciente, uma vez que praticou o crime com emprego de meio cruel, mediante diversos golpes de faca, fatores que apontam maior censura na conduta, o que exige resposta penal superior, em atendimento ao princípio da individualização da pena. Precedentes." (HC 459.649/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/09/2018, DJe 02/10/2018)
+Portanto, a decisão proferida pelo Colegiado está amparada na jurisprudência da superior instância, o que afasta a possibilidade de admissão do recurso especial, considerando a Súmula 83 do Superior Tribunal de Justiça, segundo a qual: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Ressalta-se que, "A Súmula 83 do STJ é aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição Federal" (AgInt no REsp 1858976/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/12/2020, DJe 11/12/2020).
+Por fim, nota-se que o recorrente não realizou o devido cotejo analítico entre a decisão recorrida e o acórdão apontado como paradigma, contrariando os artigos 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça e 1.029, § 1º, do Código de Processo Civil, segundo o qual:
+ ..
+Logo, é essencial que haja a demonstração da similitude fática entre os acórdãos em confronto, e não apenas o antagonismo jurídico, a fim de verificar possível interpretação divergente de uma mesma norma em casos similares, o que não foi observado no presente recurso especial.
+Diante do exposto, o Recurso Especial interposto por inadmito JOEL FERREIRA DA SILVA."
+Como se vê, o recurso especial não foi admitido na origem ante a incidência das Súmulas n. 7 e 83 do Superior Tribunal de Justiça, bem como ausência de demonstração do dissídio pretoriano alegado
+Entretanto, o Agravante, nas razões do agravo em recurso especial, deixou de rebater, especificamente, o fundamento da decisão agravada, relativo à aplicação, à hipótese dos autos, da Súmula n. 83/STJ.
+Incide, portanto, o óbice do Enunciado n. 182 da Súmula desta Corte Superior, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. DOSIMETRIA DA PENA. PENA-BASE. ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO, COM A CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Nas razões do agravo em recurso especial, o agravante nada alegou em relação à apontada impossibilidade de cabimento de recurso especial para discutir suposta violação de norma constitucional e da mencionada ausência de comprovação do dissídio jurisprudencial.
+ ..
+5. Agravo regimental não provido. Concessão de habeas corpus, de ofício, para reduzir a pena-base do recorrente ao mínimo legal e, por conseguinte, tornar a sua sanção definitiva em 6 anos e 8 meses de reclusão e pagamento de 666 dias-multa." (AgRg no AREsp 743.772/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 22/08/2018.)
+Ademais, a Defesa não demonstrou o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, em que a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE AÇÃO COLETIVA. PRESCRIÇÃO. AJUIZAMENTO DE LIQUIDAÇÃO COLETIVA. INTERRUPÇÃO DO PRAZO. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+3. Agravo interno desprovido." (AgInt no AREsp 1.076.690/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/08/2018, DJe 04/09/2018.)
+Por fim, esta Corte Superior de Justiça possui entendimento no sentido de que o comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+A propósito:
+" ..  DUPLICATA SIMULADA. EMISSÃO DE DOCUMENTO. NEGÓCIO INEXISTENTE. TIPICIDADE DA CONDUTA. ACÓRDÃO A QUO ALINHADO À JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL FULCRADO NA ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 83/STJ. CONCURSO FORMAL. AFASTAMENTO DA CONTINUIDADE DELITIVA. REVOLVIMENTO DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ. INSURGÊNCIA DESPROVIDA.
+ ..
+3. Encontrando-se o acórdão proferido no recurso de apelação em consonância com jurisprudência firmada nesta Corte, a pretensão do agravante esbarra no óbice previsto no Enunciado nº 83 da Súmula deste Superior Tribunal de Justiça, também aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+4. A desconstituição do julgado que reconheceu a prática de mais de uma conduta em continuidade delitiva, para fins de reconhecimento do concurso formal de crimes, demandaria o revolvimento do acervo fático-probatório dos autos, o que se afigura inviável na via do especial, nos termos da Súmula n. 7/STJ.
+5. Agravo regimental desprovido." (AgRg no REsp 1.482.745/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/05/2018, DJe 28/05/2018.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDO DE INVESTIMENTO DA AMAZÔNIA. FINANCIAMENTO. LIBERAÇÃO DE PARCELAS. FRAUDE. ESTELIONATO. NÃO OCORRÊNCIA. CRIME PREVISTO NO ART. 2º, IV, DA LEI Nº 8.137/90. FALSIFICAÇÃO DE DOCUMENTOS. ABSORÇÃO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83 DO STJ. ALEGAÇÃO DE IMPOSSIBILIDADE DE O CRIME CONSUNTO POSSUIR MAIOR GRAVIDADE. TESE JURÍDICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. Estando o acórdão recorrido em sintonia com a jurisprudência do Superior Tribunal de Justiça, incide o enunciado 83 da Súmula desta Corte, o qual é aplicável tanto aos recursos interpostos com base na alínea "c" quanto aos com base na alínea "a" do permissivo constitucional.
+ ..
+5. Agravo regimental a que se nega provimento." (AgRg no AREsp 897.927/TO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/08/2016, DJe 29/08/2016.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
