@@ -1,0 +1,35 @@
+DECISÃO
+MARIO ROGÉRIO WOLFF (MARIO) ajuizou embargos de terceiro em desfavor da COOPERATIVA DE CREDITO RURAL COM INTERACAO SOLIDARIA HORIZONTE (CRESOL HORIZONTE), alegando ter havido indevida penhora do imóvel (fração ideal) objeto da matrícula nº 16.563 do RI da Comarca de São Mateus do Sul, no Paraná, de sua propriedade.
+A sentença julgou procedentes os embargos de terceiro (e-STJ, fls. 57/60).
+O Tribunal de Justiça do Paraná deu provimento ao recurso de apelação manejado por CRESOL HORIZONTEnos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. SENTENÇA QUE JULGOU PROCEDENTES OS PEDIDOS INICIAIS. INSURGÊNCIA DA EMBARGADA.ACOLHIMENTO. FATOS CONSTITUTIVOS DO DIREITO DO EMBARGANTE NÃO DEMONSTRADOS. COMPRA E VENDA NO ANO DE 2013 NÃO PROVADA.PROCURAÇÃO DE VENDA NÃO JUNTADA. ALEGADA POSSE DESDE ENTÃO QUE TAMBÉM NÃO POSSUI QUALQUER RESPALDO PROBATÓRIO.ELEMENTOS DOS AUTOS QUE DEMONSTRAM O CONTRÁRIO. COMPRA E VENDA REALIZADA POSTERIORMENTE À PENHORA E A FORMALIZAÇÃO DE ACORDO ENTRE OS EXECUTADOS E A EXEQUENTE. ACORDO QUE MANTINHA A PENHORA ATÉ O CUMPRIMENTO INTEGRAL DA OBRIGAÇÃO. EXECUTADOS QUE NÃO PODIAM SE DESFAZER DO BEM. ADQUIRENTE QUE É IRMÃO DE UM DOS EXECUTADOS. CONLUIO RECONHECIDO. PENHORA MANTIDA.SENTENÇA REFORMADA. ÔNUS DE SUCUMBÊNCIA INVERTIDOS.
+Recurso de apelação conhecido e provido(e-STJ, fl. 95).
+Em seu recurso especial, manejado com base naalíneaado permissivo constitucional,MARIO alegou ofensa aosarts. 828, §4º, e art. 844, 792, IV, 335, I e 369, todos do NCPC
+O apelo nobre não foi admitido pelo TJPR por (i) aplicação do art. 1.030, I, b, do NCPC, com relação a fraude à execução; e (ii) incidência das Súmulas nºs 7 do STJe282 do STF, com relação ao cerceamento de defesa(e-STJ, fls. 134/137).
+Ainda inconformado,MARIO manifestou o presente agravo, em cujas razões, além de reiterar o seu apelo nobre, aduziu que(1)é desnecessário o prequestionamento haja vista que a sentença foi favorável ao Agravante e somente ocorreu o cerceamento de defesa quando do julgamento do acórdão que reformou a sentença sob o fundamento de que o Agravante não produziu prova, sendo que sequer foi oportunizada a produção das provas pleiteadas; e(2)a análise do recurso não envolve o reexame de provas, mas sim a questão da impossibilidade de fundamentar uma decisão na ausência de provas, quando sequer foi oportunizada a produção de provas(sic., e-STJ, fls. 192/198).
+A contraminuta foiapresentada (e-STJ, fls. 204/208).
+É o relatório.
+DECIDO.
+O recurso não comporta conhecimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, poisMARIO não infirmou seus esteios, na medida em que não refutou de forma arrazoada o óbice pela incidência das Súmulas nºs 7 do STJ e 282 do STF, ao caso.
+Em suma,MARIO limitou-se a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Como se sabe, no que se refere à aplicação daSúmulanº282 do STF,MARIOdeveria ter demonstradooefetivoprequestionamentodos dispositivos de lei que entendeuafrontados,apontando trechosdo acórdão recorrido para esse fim, o quenão foi feito.
+Além do mais, não vinga o argumento de MÁRIO de queé desnecessário o prequestionamento haja vista que a sentença foi favorável ao Agravante e somente ocorreu o cerceamento de defesa quando do julgamento do acórdão que reformou a sentença sob o fundamento de que o Agravante não produziu prova, sendo que sequer foi oportunizada a produção das provas pleiteadas(sic., e-STJ, fls. 192/198), tendo em conta que, caso quisesse prequestionar devidamente a matéria, bastaria simplesmente ter manejado o recurso cabível, qual seja: os embargos de declaração.
+Por sua vez, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 7 do STJ,deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que não também ocorreu.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apeloextremo, ônus do qual não se desincumbiu a parte insurgente.Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+Nessas condições, nos termos do art. 932, III, do NCPC,NÃO CONHEÇOdo agravo.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor deCRESOL HORIZONTE, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partesde que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC.AGRAVO NÃO CONHECIDO.
