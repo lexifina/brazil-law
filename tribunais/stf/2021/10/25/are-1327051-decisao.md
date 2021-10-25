@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto pelo Município de Neópolis contra acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA COM O ESCOPO DE COMPELIR O ENTE MUNICIPAL A REALIZAR OBRAS DE PAVIMENTAÇÃO E DRENAGEM EM LOTEAMENTO DO MUNICÍPIO. PRELIMINAR DE FALTA DE INTERESSE DE AGIR. REJEITADA. DIREITOS FUNDAMENTAIS GARANTIDOS NA CARTA MAGNA. ARTS. 196 E 225 DA CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. INOCORRÊNCIA. NECESSIDADE DE PREVISÃO ORÇAMENTÁRIA. DETERMINAÇÃO DE INCLUSÃO DE RECURSOS PARA CONCLUSÃO DA OBRA NO ORÇAMENTO FINANCEIRO DO EXERCÍCIO SEGUINTE, CASO HAJA IMPOSSIBILIDADE FINANCEIRA PARA CUMPRIMENTO DA SENTENÇA FUSTIGADA. REFORMA PARCIAL DA SENTENÇA. PROVIMENTO PARCIAL DO APELO. POR UNANIMIDADE.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 2º da CF.
+    O recurso não deve ser provido, tendo em vista que, para divergir do entendimento firmado pelo Tribunal de origem, seria necessário o reexame dos fatos e do material probatório constante dos autos, assim como a análise da legislação infraconstitucional aplicada ao caso, procedimentos inviáveis neste momento processual. Nesse sentido, cito o seguinte precedente:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. POLÍTICAS PÚBLICAS. REALIZAÇÃO DE OBRA DE DRENAGEM PLUVIAL. DISPONIBILIDADE ORÇAMENTÁRIA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 851393 AgR, Relª. Minª. Cármen Lúcia)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso interposto pelo Município de Neópolis. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (arts. 17 e 18, Lei nº 7.347/1985).
+    Publique-se.
+          Brasília, 25 de outubro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
