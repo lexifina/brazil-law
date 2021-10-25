@@ -1,0 +1,75 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORA PÚBLICA ESTADUAL. APOSENTADORIA NÃO CONDICIONADA AO PRAZO DE CINCO ANOS DE EXERCÍCIO NA MESMA CLASSE. PRECEDENTES. PREENCHIMENTO DE REQUISITOS: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+
+    “MANDADO DE SEGURANÇA - Servidora estadual ocupante do cargo efetivo de Professor de Educação Básica I - Pedido de certidão de tempo de contribuição, para fins de abono de permanência e ulterior aposentadoria especial, computando-se todo o período em que foi regida pela Lei Estadual nº 500/74, exercendo a mesma função. Administração que impõe óbice pelo não preenchimento do requisito de exercício no mesmo cargo efetivo nos cinco anos que antecedem a aposentadoria. Sentença de concessão da segurança. Recurso da Fazenda Estadual buscando a inversão do julgado. Inadmissibilidade. Os servidores admitidos com base na Lei nº 500/74 não são extranumerários. Embora anômala a solução do legislador estadual da época, a contratação dos servidores, na espécie, é em caráter permanente. Lei Complementar nº 1.010/07 considerou efetivos servidores admitidos pela Lei 500/74. Recursos oficial e voluntário improvidos. Precedentes” (e-doc. 10).
+
+    2. Os recorrentes alegam ter o Tribunal de origem contrariado o inc. III do § 1º do art. 40 da Constituição da República.
+
+    Asseveram que, “ao autorizar a expedição de certidão para fins de aposentadoria especial sem ter a recorrida cumprido os requisitos previstos no art. 40, par. 1º, III da CF, com a alteração introduzida pela EC nº. 20/98, o E. Tribunal de Justiça do Estado de São Paulo ampliou o âmbito de incidência do mencionado artigo, o que, por certo, traz reflexos para todos os integrantes do Quadro de Magistério desse Estado e de todos os demais entes federados” (fls. 3-4, e-doc. 14).
+
+    Ressaltam que o Tribunal de origem teria contrariado o “art. 40, § 1º, III, da Constituição Federal, porque autorizou o cômputo de outra função, exercida em caráter temporário, com diverso vínculo jurídico regido pela Lei Paulista nº 500/74, vínculo esse encerrado quando pedida a dispensa – para o implemento do requisito de cinco anos no cargo exigido para obtenção do direito à aposentadoria” (fl. 4, e-doc. 14).
+
+    Argumentam que, “no momento em que a servidora em exercício de função para a qual foi admitido em caráter temporário e à qual não corresponde cargo público pediu dispensa, cortou o vínculo que possuía, regido por lei específica; e no momento em que tomou posse em cargo efetivo para o qual admitida por concurso, iniciou-se vínculo novo” (fls. 5-6, e-doc. 14).
+
+    Pontuam que, “considerando que o novo ingresso da recorrida, agora no cargo de PEB II, se deu na vigência da EC no. 20/98, é necessário, para a aplicação do artigo 40, par. 1º., III, ‘a’ c/c par. 5º da CF, que preencha não só os requisitos de idade e contribuição, mas também que cumpra mais dois requisitos, quais sejam, 10 anos no serviço público e cinco anos no cargo em que se dará a aposentadoria” (fl. 5, e-doc. 14).
+
+    Pedem “seja conhecido e provido o presente recurso extraordinário para ser reformado o acórdão, denegando-se a segurança” (fl. 6, e-doc. 14).
+
+    3. Em 16.10.2019, a Presidência deste Supremo Tribunal determinou a devolução dos autos ao Tribunal de origem, para observância da sistemática da repercussão geral, por ter sido reconhecida a repercussão geral da controvérsia em debate no Recurso Extraordinário n. 662.423, Tema 578 (e-doc. 30).
+
+    4. Em juízo negativo de retratação, a 11ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve o acórdão recorrido nos termos seguintes:
+
+    “Recurso. Mandado de Segurança - Servidora estadual ocupante do cargo efetivo de Professor de Educação Básica I - Pedido de certidão de tempo de contribuição, para fins de abono de permanência e ulterior aposentadoria especial, computando-se todo o período em que foi regida pela Lei Estadual nº 500/74, exercendo a mesma função. Administração que impõe óbice pelo não preenchimento do requisito de exercício no mesmo cargo efetivo nos cinco anos que antecedem a aposentadoria. Sentença de concessão da segurança. Acórdão que negou provimento aos recursos oficial e fazendário. Interposição de Recurso Extraordinário pela Fazenda Estadual. Autos restituídos à Câmara pela Egrégia Presidência da Seção de Direito Público, para os fins do artigo 1.040, II, do CPC. Matéria objeto de repercussão geral nos autos do Recurso Extraordinário nº RE 662.423/SC (Tema nº 578). Hipótese em que o V. Acórdão não contém solução desconforme à orientação do referido Recurso Extraordinário. Restituição dos autos à Colenda Presidência da Seção de Direito Público deste Tribunal de Justiça, por não se tratar de caso de possível retratação nos termos e para os fins do artigo 1.040, inciso II, do CPC” (fl. 10, e-doc. 33).
+
+    Pela recusa de retratação, o recurso extraordinário foi admitido e remetido a este Supremo Tribunal (fls. 20-21, e-doc. 29).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    5. Razão jurídica não assiste aos recorrentes.
+
+    6. No voto condutor do acórdão recorrido, o Desembargador relator afirmou:
+
+    “A impetrante ingressou no serviço público estadual em 15 de fevereiro de 1993, sob o regime da Lei Estadual nº 500/74, para exercer as funções de Professor de Educação Básica I, na categoria F, na qual permaneceu até 16 de fevereiro de 2016, quando passou a ocupar o cargo efetivo de Professor de Educação Básica I (fls. 87 e seguintes). Em 7 de novembro de 2017, requereu a emissão de certidão de liquidação de tempo de contribuição, para fins de abono de permanência (fls. 16), pleito indeferido porque ainda não havia completado cinco anos no cargo em que se dará a aposentação (fls. 19/20). Afirma que preenche todos os requisitos para a percepção do abono, devendo ser afastado o óbice imposto pela Administração. (…)
+
+    A impetrante, a teor da documentação acostada aos autos, realmente preenche os requisitos para fazer jus ao abono de permanência, por contar, quando da impetração do presente ‘mandamus’, 53 (cinquenta e três) anos de idade e 26 (vinte e seis) anos, 7 (sete) meses e 4 (quatro) dias de tempo de contribuição como Professora de Educação Básica I (fls. 17).
+
+    O único requisito constitucional que segundo as autoridades impetradas a impetrante não preencheria consiste no prazo de exercício por ao menos ‘5 (cinco) anos no cargo efetivo em que se dará a aposentadoria’, por ter passado a ocupar cargo de provimento efetivo somente a partir de fevereiro de 2016. Não procede a objeção. (...)
+
+    Vale recordar que o servidor admitido nos termos da Lei estadual nº 500, de 1974, tem direito à aposentadoria nos mesmos moldes dos servidores titulares de cargo efetivo, não mais remanescendo controvérsia quanto ao ponto. (…)
+
+    Assim, por ter sempre exercido a mesma função Professor de Educação Básica I , e preencher os requisitos para a aposentadoria especial, faz jus à expedição da certidão de liquidação de tempo de contribuição, para fins de concessão do abono de permanência. Não há, pois, na pretensão, ladeamento do princípio da legalidade (artigo 5º, II, da CF), tampouco daqueles que regem a atividade da Administração Pública (artigo 37 da CF)” (fls. 2-5, e-doc. 10).
+
+    A jurisprudência deste Supremo Tribunal está consolidada no sentido de que se considera válida a contagem de tempo no mesmo cargo, mas em classe distinta, para preencher-se o requisito do prazo de cinco anos estabelecido no inc. III do § 1º do art. 40 da Constituição da República, na redação dada pela Emenda Constitucional n. 20/1998, quando da aposentadoria servidor público. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO. APOSENTADORIA. EXERCÍCIO DO CARGO PELO PERÍODO MÍNIMO DE CINCO ANOS. ALEGADA AFRONTA AO ART. 40, § 1º, III, DA CONSTITUIÇÃO FEDERAL. REEXAME DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. 1. O Tribunal de origem assentou que a ascensão dos integrantes do grupo serviços públicos da saúde se dá por meio de promoção de classe, sem alteração de cargo, de modo que a aposentadoria não estaria condicionada ao prazo de 5 anos na classe, mas no cargo, conforme estabelecido no art. 40, § 1º, III, da Constituição Federal. 2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame da legislação local aplicável à espécie (Lei Estadual 6.667/1994). Incidência da Súmula 280 do STF. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC” (ARE n. 1.183.839-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 6.4.2020).
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – SERVIDOR PÚBLICO – APOSENTADORIA – REQUISITO DE EFETIVO EXERCÍCIO NO CARGO PELO TEMPO MÍNIMO DE 05 (CINCO) ANOS (CF, ART. 40, § 1º, III, NA REDAÇÃO DA EC Nº 20/98) – CARREIRA PÚBLICA ESCALONADA EM CLASSES – LAPSO TEMPORAL QUE SE APLICA AO EXERCÍCIO DO CARGO E NÃO À PERMANÊNCIA NA CLASSE EM QUE SE DÁ A INATIVAÇÃO – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – MAJORAÇÃO DA VERBA HONORÁRIA – PRECEDENTE (PLENO) – NECESSÁRIA OBSERVÂNCIA DOS LIMITES ESTABELECIDOS NO ART. 85, §§ 2º E 3º DO CPC – AGRAVO INTERNO IMPROVIDO” (RE n. 1.269.257-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 8.10.2020).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA VOLUNTÁRIA. AUDITOR FISCAL DO ESTADO DA BAHIA. CARGO DE CARREIRA. CINCO ANOS NO CARGO E NÃO NA CLASSE. AUSÊNCIA DE VIOLAÇÃO DO ART. 40, § 1°, III, DA CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. AGRAVO A QUE SE NEGA PROVIMENTO. I – O entendimento firmado pelo Tribunal de origem encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que a promoção por acesso de servidor constitui forma de provimento derivado e não representa ascensão a cargo diferente daquele em que já estava efetivado (ARE 1.248.344-AgR/SP, Rel. Min. Rosa Weber e ARE 1.189.015-AgR/SP, Rel. Min. Edson Fachin). II – A promoção na carreira do servidor público se dá no mesmo cargo originalmente ocupado pelo servidor, não estando a sua aposentadoria condicionada ao prazo de 5 anos estabelecido no art. 40, § 1°, III, da Constituição Federal, que se refere à ocupação de novo cargo pelo agente público. III – Agravo regimental a que se nega provimento” (ARE n. 1.266.034-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 4.9.2020).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. PROMOÇÃO NO MESMO CARGO PARA CLASSE DISTINTA. INEXISTÊNCIA DE CONTRADIÇÃO AO ART. 40, § 1º, III, DA CONSTITUIÇÃO. PRECEDENTES. 1. A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que a promoção por acesso de servidor constitui forma de provimento derivado e não representa ascensão a cargo diferente daquele em que já estava efetivado (AI 768.895, Rel.ª Min.ª Cármen Lúcia). Desse modo, a aposentadoria de servidor público promovido no mesmo cargo, mas em classe distinta, não está condicionada ao prazo de 5 anos estabelecido no art. 40, § 1º, III, da Constituição. Precedentes. 2. Ausência de argumentos capazes de infirmar a decisão agravada. 3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF). 4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE n. 1.240.280-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 13.12.2019).
+
+    O julgado recorrido harmoniza-se com essa orientação jurisprudencial.
+
+    7. Quanto ao preenchimento dos requisitos, para concluir de forma diversa do acórdão recorrido, seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Lei estadual n. 500/1974) e da matéria fático-probatória, procedimento inviável em recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. APOSENTADORIA DE SERVIDOR PÚBLICO. PROMOÇÃO NO MESMO CARGO PARA CLASSE DISTINTA. INEXISTÊNCIA DE CONTRARIEDADE AO INC. III DO § 1º DO ART. 40 DA CONSTITUIÇÃO DA REPÚBLICA. PREENCHIMENTO DE REQUISITOS. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. IMPOSSIBILIDADE DE REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.183.847-AgR, de minha relatoria, Segunda Turma, DJe 1.8.2019).
+
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA. REQUISITOS. LAPSO TEMPORAL DE EXERCÍCIO NO CARGO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 40, § 1º, III, DA CONSTITUIÇÃO DA REPÚBLICA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação” (ARE n. 1.144.029-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 16.10.2018).
+
+    Nada há a prover quanto às alegações dos recorrentes.
+
+    8. Pelo exposto, nego provimento ao presente recurso extraordinário (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 25 de outubro de 2021.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
