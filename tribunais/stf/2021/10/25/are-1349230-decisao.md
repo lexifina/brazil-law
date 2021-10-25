@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL. COBRANÇA. DIREITO PREVIDENCIÁRIO. PECÚLIO POST MORTEM. REQUERIMENTO ADMINISTRATIVO TEMPESTIVO. SÚMULA 340 DO STJ. APLICAÇÃO DA LEI ESTADUAL Nº 285/79 VIGENTE À ÉPOCA DO ÓBITO DE EX-SERVIDOR ESTADUAL. INTELIGÊNCIA DA SÚMULA 340 DO STJ. REVOGAÇÃO SOMENTE COM A EDIÇÃO DA LEI ESTADUAL Nº 5.109/2007. INAPLICABILIDADE DA VEDAÇÃO PREVISTA NO ART. 5º DA LEI FEDERAL Nº 9.717/98. DIREITO DA AUTORA AO RECEBIMENTO DO BENEFÍCIO. DANO MORAL NÃO CONFIGURADO. REGIME DE JUROS E CORREÇÃO MONETÁRIA. ADEQUAÇÃO AOS TEMAS 810 DO STF E 905 DO STJ. JUROS DE MORA A CONTAR DA CITAÇÃO ART. 1º-F DA LEI Nº 9.494/97, RESPEITADA A REDAÇÃO DADA PELA LEI Nº 11.960/2009 E CORREÇÃO MONETÁRIA DESDE A DATA DO REQUERIMENTO PELO INPC TEMA 905 DO STJ (RESP 1.492.221/PR). HONORÁRIOS ADVOCATÍCIOS À DEFENSORIA PÚBLICA. POSSIBILIDADE. NOVO POSICIONAMENTO DO STF NO AR 1.917. TEMA 1.002 SOB REPERCUSSÃO GERAL PENDENTE DE JULGAMENTO. ISENÇÃO DO ESTADO E SUAS AUTARQUIAS AO PAGAMENTO DE CUSTAS E TAXA JUDICIÁRIA, POR NÃO SER HIPÓTESE DE REEMBOLSO. DESPROVIMENTO DO PRIMEIRO RECURSO. PROVIMENTO PARCIAL DO SEGUNDO DO RECURSO. REFORMA PARCIAL DA SENTENÇA DE OFÍCIO. 1. O Superior Tribunal de Justiça já decidiu que não cabe recurso adesivo quando a parte já tenha manifestado recurso autônomo, conforme destacado no REsp 739.632/RS, razão pela qual não deve ser conhecido o recurso adesivo interposto pela autora. 2. Previsão na legislação estadual de concessão do pecúlio post mortem previsto no art. 26, III, 1, da Lei Estadual nº 285/79, cujos requisitos encontram-se descritos no art. 45, § 1º. 3. Aplicabilidade da referida lei, vigente na data do óbito, conforme inteligência da Súmula 340 do STJ. 4. Preenchimento pela autora dos requisitos legais para o recebimento do pecúlio post mortem, que somente veio a ser afastado do ordenamento jurídico, com a entrada em vigor da Lei Estadual nº 5.109/2007, posteriormente ao óbito do ex-servidor. 5. Sistema previdenciário que tem natureza contributiva, razão pela qual a vedação do art. 5º, da Lei nº 9.717/98 não pode prejudicar o beneficiário do servidor falecido que contribuiu durante a atividade para o eventual gozo do benefício em questão. 6. Dano moral não configurado. 7. Regime de juros e correção monetária com adequação de ofício aos Temas 810 do STF e 905, do STJ. 8. Incidência da correção monetária desde o requerimento administrativo, por se tratar de mera atualização da moeda e que, por força da declaração de inconstitucionalidade parcial do art. 5º da Lei nº 11.960/09 deve ser calculada com base no INPC, à luz do Tema 905 do STJ. 9. Fluência de juros de mora partir a da citação válida (Súmula 204 do STJ), calculados na forma da antiga redação do art. 1º-F da Lei nº. 9.494/97, até 29 de junho de 2009 e, a partir desta data, com base nos juros aplicados à caderneta de poupança, nos termos da regra do art. 1º-F da Lei nº 9.494/97, com a redação da Lei nº 11.960/09 (Resp nº 149221/PR, sob o Tema 905). 10. Sucumbência mínima da autora, sagrando-se vencedora na maior parte e em parte juridicamente relevante dos pedidos. 11. Honorários advocatícios em favor da Defensoria, em consonância ao entendimento adotado pelo Tribunal Pleno do Supremo Tribunal Federal em decisão proferida no julgamento do Agravo Regimental em Ação Rescisória - AR 1937 AgR/DF no sentido de não haver confusão em virtude da autonomia funcional e administrativa conferida à instituição pelas Emendas Constitucionais nº 45/2004, 74/2013 e 80/2014, sendo aplicável aos Estados, estando ainda pendente de julgamento o Tema 1002, sob o regime de repercussão geral. 12. Afasta-se a condenação do ente público estadual e sua autarquia ao pagamento das custas judiciais e demais despesas processuais, por incidir a regra de isenção prevista no art. 17, IX, da Lei nº 3.350/99, já que não se trata de hipótese de reembolso prevista no 1º do referido dispositivo, diante da gratuidade de justiça deferida à autora. 13. Desprovimento do primeiro recurso, provimento parcial do segundo recurso e reforma parcial da sentença de ofício.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso XXXVI; 24, § 4º; e 40, § 12, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o acolhimento da pretensão recursal demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como da legislação infraconstitucional pertinente, o que se mostra inviável no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas nºs 279 e 280 desta Corte. Nesse sentido, confira-se:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidor público. Pecúlio post mortem. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos e da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.196.797/RJ-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 19/6/19).
+
+    Também nesse sentido: ARE nº 1.162.766/RJ-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 19/11/18; ARE nº 995.292/RJ-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 24/4/17 e ARE n° 700.035/RJ-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe 6/12/12).
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 25 de outubro de 2021.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
