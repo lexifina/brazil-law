@@ -1,0 +1,88 @@
+DECISÃO
+CRISTINA DE ALMEIDA VILLASBOAS CAVALCANTI e outros (CRISTINA e outros) ajuizaram ação de obrigação de fazer contra AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. (AMIL), alegando que, rescindindo-se o contrato de plano de saúde empresarial, deve ser facultada a migração para outro plano.
+Em primeira instância, o pedido foi julgado procedente, para determinar a disponibilização de planos de saúde, coletivo ou individual, com cobertura equivalente, com custo de mercado e dispensa de novo período de carência, bem como para condenar AMIL ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 15% sobre o valor da causa (e-STJ, fls. 341/345).
+A apelação interposta por CRISTINA e outros e por AMIL foram desprovidos pelo TJ/DF nos termos do acórdão assim ementado:
+PLANO COLETIVO DE SAÚDE. CANCELAMENTO. PLANO INDIVIDUAL. Cancelado o plano de saúde coletivo, a operadora deve disponibilizar plano individual ou familiar, sem necessidade de novo período de carência. O art. 3º, da Consu 19/99, é incompatível com o sistema protetivo do consumidor (e-STJ, fl. 399).
+Os embargos de declaração opostos por AMIL foram rejeitados (e-STJ, fls. 425/430).
+Irresignada, AMIL interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 1.022, 1.026, §2º, do NCPC, 478 do CC, ao sustentar que (1) o acórdão recorrido foi omisso quanto às alegações de que AMIL não comercializa plano individual no DF, não podendo ofertá-lo, e de que não se esclareceu o valor do plano de CRISTINA e outros; e (2) a obrigatoriedade de oferta de plano individual ensejará onerosidade excessiva a AMIL (e-STJ, fls. 435/447).
+Foram apresentadas as contrarrazões (e-STJ, fls. 457/461).
+O apelo nobre não foi admitido em virtude da (1) ausência de afronta ao art. 1.022 do NCPC; e, (2) incidência das Súmulas nºs 284 do STF e 83 do STJ (e-STJ, fls. 462/463).
+Nas razões do agravo em recurso especial, AMIL afirmou que (1) a matéria relativa ao art. 1.026, §2º, do NCPC não foi objeto do recurso especial; (2) houve violação do art. 1.022 do NCPC; e (3) não se aplica a Súmula nº 83 do STJ (e-STJ, fls. 466/478).
+Não foi apresentada contraminuta.
+O agravo foi conhecido para não conhecer do recurso especial em decisão da Presidência do STJ, em virtude da incidência da Súmula nº 284 do STF (e-STJ, fls. 488/491).
+Nas razões do presente agravo interno, AMIL defendeu que (1) a matéria atinente ao art. 1.026, §2º, do NCPC não foi trazida no apelo especial; e (2) não se aplica a Súmula nº 284 do STF quanto aos arts. 1.022 do NCPC e 478 do CC (e-STJ, fls. 494/506).
+Não foi apresentada impugnação.
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 488/491 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 466/478.
+Do agravo em recurso especial
+O recurso não merece prosperar.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegação genérica de violação ao art. 1.022, do NCPC
+Nas razões do seu recurso, AMIL alegou a violação do art. 1.022, do NCPC em virtude de o acórdão não ter esclarecido acerca do valor do plano de CRISTINA e outros.
+Contudo, não houve a explicitação suficiente quanto à tese omitida, em evidente alegação genérica de contrariedade ao referido dispositivo.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 2. DEVER DE INDENIZAÇÃO. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. 3. MONTANTE INDENIZATÓRIO. PRETENSÃO DE REDUÇÃO. DESCABIMENTO.SÚMULA 7/STJ. 4. JUROS DE MORA. TERMO INICIAL. RELAÇÃO EXTRACONTRATUAL. DATA DO EVENTO DANOSO. SÚMULA 54/STJ. 5. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. A alteração da conclusão do Tribunal estadual quanto ao valor da indenização por danos morais demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+4. No que tange aos juros de mora, a jurisprudência deste Tribunal Superior, em caso de responsabilidade extracontratual, determina que os juros moratórios incidam desde a data do evento danoso, nos termos da Súmula 54/STJ. Não sendo outro o entendimento do acórdão impugnado, tem incidência, no ponto, a Súmula 83/STJ.
+5. Agravo interno improvido.
+(AgInt no AREsp 1.526.287/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 16/03/2020, DJe 20/03/2020)
+Não se conhece, portanto, da violação ao art. 1.022, do NCPC nesse ponto.
+Ademais, CRISTINA e outros alegaram a violação do art. 1.022, do NCPC em virtude da omissão no que tange à tese de que AMIL não comercializa plano individual no DF, não podendo ofertá-lo.
+Contudo, verifica-se que o TJ/DF se pronunciou sobre os temas consignando que a alegação de não comercializar o plano na modalidade individual ou familiar não era suficiente para derruir a obrigação imposta, haja vista a superioridade do CDC em relação à Resolução Consu nº 19/99, confira-se:
+A Resolução Consu 19/99, art. 1º, determina, no caso de cancelamento de plano de saúde coletivo, o fornecimento pela operadora de saúde de plano individual ou familiar sem necessidade de cumprimento de novos períodos de carência, não se justificando, para tanto, a alegação de não comercializar tal modalidade de plano. A propósito da ressalva encontrada no art. 3º, da citada Resolução, ela é incompatível com o CDC, que lhe é hierarquicamente superior (e-STJ, fl. 400).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. Precedente: AgRg no AREsp 529.018/MS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 1º/9/2014.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A revisão das conclusões estaduais (quanto à responsabilidade pelos serviços contratados) demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+3. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.487.975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 17/02/2020, DJe 19/02/2020)
+Afasta-se, portanto, a alegada violação.
+(2) Do art. 1.025 do NCPC e da impossibilidade de reconhecimento do prequestionamento ficto
+Nas razões do presente recurso, AMIL afirmou a violação do art. 478 do CC, sustentando que a obrigatoriedade de oferta de plano individual ensejará onerosidade excessiva a AMIL.
+Verifica-se que o TJ/DF não emitiu pronunciamento sobre o tema objeto da insurgência pois apenas consignou a superioridade do CDC em relação à Resolução Consu nº 19/99.
+Contudo, não obstante a oposição, naquela instância, de embargos de declaração alegando omissão quanto aos temas, não houve debate prévio no TJ/DF.
+Importante destacar que a jurisprudência do STJ entende que, para a admissão do prequestionamento ficto, nos termos do art. 1.025 do NCPC, em recurso especial, exige-se a anterior oposição dos embargos de declaração, além da indicação de violação do art. 1.022 do NCPC, para que se possibilite ao Órgão julgador verificar a existência do vício no acórdão recorrido.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INSTRUMENTO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO E DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO IMEDIATO DA CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CLÁUSULA DE QUITAÇÃO GERAL E PLENA. AUSÊNCIA DE DOLO, COAÇÃO OU ERRO. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. HONORÁRIOS RECURSAIS. MAJORAÇÃO. CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (enunciado n. 211 da Súmula do STJ).
+3. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+4. No tocante à parte em que a insurgência foi inadmitida, ratifica-se que os arts. 840 e 849 do Código Civil não foram debatidos pelo acórdão recorrido, o que configura a ausência do indispensável prequestionamento da matéria e atrai a incidência das Súmulas 282 e 356/STF.
+5. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou que tiveram sua interpretação divergente à jurisprudência desta Corte impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula n. 284 do Supremo Tribunal Federal.
+6. No caso, estão presentes os requisitos cumulativos necessários à majoração dos honorários sucumbenciais prevista no art. 85, § 11, do CPC/2015, conforme as regras definidas pela Terceira Turma deste Tribunal Superior - nos EDcl no AgInt no REsp n. 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+7. Agravo interno desprovido.
+(AgInt no REsp 1.839.431/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 08/02/2021, DJe 12/02/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 489, § 1º, do CPC DE 2015. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. ALEGADA AFRONTA AOS ARTIGOS 337, § 4º, 502 E 805, DO CPC DE 2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RECURSO NÃO PROVIDO.
+1. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+2. As matérias referentes aos arts. 337, § 4º, 502 e 805, do CPC de 2015, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF).
+3. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+4. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.464.168/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 10/03/2020, DJe 17/03/2020)
+Contudo, no caso dos autos, apesar da oposição dos aclaratórios, a análise do tema agora tratado não pode ser feita em razão da ausência de indicação de violação ao disposto no art. 1.022 do NCPC nesse ponto específico.
+Assim, o recurso não pode ser conhecido quanto ao ponto por falta de prequestionamento.
+(3) Da Súmula nº 284 do STF, por analogia
+AMIL sustentou ofensa ao art. 1.026, §2º, do NCPC, sem, contudo, indicar as razões pelas quais o dispositivo foi violado.
+A jurisprudência desta Corte segue no sentido de que a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso uma vez que não basta a mera menção a dispositivos legais ou a narrativa acerca da legislação federal.
+Nesse sentido, confira-se oprecedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES. CONTRATO DE CESSÃO DE COTAS. ENRIQUECIMENTO ILÍCITO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SUMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, amparado nos elementos fático-probatórios dos autos, concluiu que não restou caracterizado o enriquecimento ilícito dos requeridos, não estando configurada a hipótese de restituição de valores prevista no artigo 884 do Código Civil de 2002. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos, provas, e do contrato social, o que é vedado em sede de recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ.
+2. A parte recorrente não demonstrou, de forma direta, clara e particularizada, como o acórdão recorrido violou cada um dos dispositivos de lei federal apontados, o que atrai, por conseguinte, a aplicação da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Agravo interno não provido.
+(AgInt no AgInt nos EDcl no AREsp 1.582.646/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 06/10/2020, DJe 16/10/2020)
+Assim, quanto a esse ponto, o recurso não pode ser conhecido em virtude da incidência da Súmula nº 284 do STF, por analogia.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHECER do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO os honorários advocatícios anteriormente fixados em favor de CRISTINA e outros em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. RECONSIDERAÇÃO. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. AUSÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. PREQUESTIONAMENTO. INOCORRÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
