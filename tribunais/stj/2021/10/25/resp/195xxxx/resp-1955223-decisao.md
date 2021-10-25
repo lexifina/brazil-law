@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.VIOLAÇÃO DO ART. 1.022 DO CPC/2015.OMISSÃO QUANTO AO TERMO INICIAL DOS EMBARGOS. RECURSO ESPECIAL DA AUTARQUIA FEDERAL PROVIDO.
+1. Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 1ª Região, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. PRAZO PARA AJUIZAMENTO. ART. 130 DA LEI N. 8.213/91. INTEMPESTIVIDADE.
+1. Cuida-se de decisão proferida na regência do CPC de 1973, sob o qual também foi manifestado o recurso, e conforme o principio do isolamento dos atos processuais e o da irretroatividade da lei, as decisões já proferidas não são alcançadas pela lei nova, de sorte que não se lhes aplicam as regras do CPC atual, inclusive as concementes à fixação dos honorários advocaticios, que se regem pela lei anterior.
+2. O prazo para oferecimento de embargos à execução pelo INSS é de 30 dias, em conformidade com o art. 130 da Lei n. 8.213/91, que por ser norma de natureza especial sobrepõe-se à norma geral contida no art. 730 do CPC.
+3. No caso em apreço, o prazo de 30 (trinta) dias para oposição dos embargos à execução teve inicio a partir da data da citação, ocorrida em 26/09/2011 e como a presente ação foi ajuizada apenas em 30/11/2011, encontram-se intempestivos os presentes embargos.
+4. Apelação provida, para decretar a intempestividade dos embargos à execução. (fls. 431).
+2. Os embargos de declaração opostos foram rejeitados (fls. 442/447).
+3. Nas razões do seu recurso especial (fls. 450/456), a parte recorrente sustenta violação doart. 1.022 do CPC/2015, argumentando, para tanto, omissão da Corte local sobre o termo inicial do prazo para apresentação dos embargos à execução, queé a data da juntada aos autos do mandado decitação, conforme previsto no art. 915 do CPC/2015.
+4. Devidamente intimada (fls. 457), a parte recorrida deixou de apresentarcontrarrazões. O recurso especial foi admitido na origem (fls. 459/460).
+5. É o relatório.
+6. A irresignaçãomerece prosperar.
+7.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8.O Tribunal de origemdeu provimento à apelação interposta pela parte recorrida para reconhecer a intempestividade dos embargos à execução, nos seguintes termos:
+Dessa forma, o prazo de 30 (trinta) dias para oposição dos embargos à execução, no caso em apreço, teve inicio a partir da data da citação, ocorrida em 26/09/2011 (fls. 134 e 135) e como a presente ação foi ajuizada apenas em 30/11/2011, encontram-se intempestivos os presentes embargos.(fls. 428).
+9. Contra o referido acórdão, a parte recorrente opôs embargos de declaração, a fim de provocar a Corte local a se manifestar sobreo termo inicial do prazo para apresentação dos embargos à execução, que é a data da juntada aos autos do mandado de citação, conforme previsto no art. 915 do CPC/2015.Entretanto, o Tribunal a quonão apreciou o questionamento da parte recorrente.
+10. Verifico, portanto, a existência de omissão relevante no julgado, nos termos do art. 1.022 do CPC/2015, sendoimperioso o acolhimento da pretensão recursal, devendo os autos retornarem à origem para que haja suprimento do vício apontado no recurso integrativo, a fim deque seja proferido novo julgamento dos embargos de declaração com manifestação expressa a respeito da questão não apreciada.
+11. Ante o exposto, conheço do recurso especial da autarquia federal e, nessa extensão, dou-lhe provimentopara anular o acórdão proferido em sede de embargos de declaração, devolvendo-se os autos ao Tribunal a quo, para que seja proferido novo julgamento, com o suprimento do vício apontado.
+12. Publique-se. Intimações necessárias.
