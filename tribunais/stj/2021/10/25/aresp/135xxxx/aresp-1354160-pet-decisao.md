@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de petição apresentadapelo autor Ednaldo José Costa, às fls. 3-6 em expediente avulso formado nos autos, pela qual se requer odesarquivamento do feito e a devolução do prazo processual ao argumento de que a causídica, à época, encontrava-se impossibilitada de manifestação no prazolegal, em virtude de "afastamento das atividades, diante de cirurgia e tratamento decorrente de neoplasia maligna, conforme atestados médicos em anexo" (fl. 3).
+É o relatório. Decido.
+Consoante jurisprudência desta Corte,a doença que acomete o advogado somente se caracteriza como justa causa, a ensejar a devolução do prazoquando o impossibilita totalmente de exercer a profissão ou de substabelecer o mandato. Precedentes:AgRg no MS 24.385/DF, relator Ministro Herman Benjamin, Corte Especial, DJe de 10/09/2020; AgRg na PET no REsp 1.896.059/SC, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 1/3/2021;AgInt na PET no AREsp 946.094/SP, Rel. Ministro Gurgel De Faria, Primeira Turma, DJe 4/12/2019;PET no AREsp 1.101.207/DF, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 21/5/2019;AgInt na PET no AREsp 1.376.058/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 28/8/2019.
+No caso dos autos, tal circunstância está caracterizada, porquanto a requerente, única advogada constituída, quando da publicação do acórdão de fls. 736-740, foi diagnosticada com neoplasia maligna da mama, conforme atestado médico de fl. 4.
+Dessa forma, diante da caracterização de justa causa a ensejar a devolução do prazo, defiro o pedido.
+À Coordenadoria de Direito Público para as providências necessárias.
+Publique-se. Intimem-se.
