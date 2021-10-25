@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do Município do Rio de Janeiro, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado doRiode Janeiro, assim ementado:
+APELAÇÕES CÍVEIS. DIREITO TRIBUTÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO. ITBI. Autor que alega ter havido arbitramento excessivo da base de cálculo do ITBI pelo ente municipal, que não corresponderia ao valor venal do imóvel. Laudo pericial que comprovou que o valor de mercado do imóvel é inferior ao arbitrado pelo município, com ou sem as obras realizadas no imóvel pelo autor. Condenação do réu a restituir à parte autora o valor indevidamente recolhido a título de ITBI resultante da diferença entre o valor pago em abril (R$ 102.897,78) e o decorrente do Laudo Pericial para a mesma data (R$ 63.312,91). Sentença que considerou o valor do laudo com as obras realizadas no apartamento, que permitiu a valorização do bem. Autor que decaiu em parte mínima do pedido. Verba sucumbencial devida pelo réu. Pequeno reparo na sentença para fixar que o valor recolhido a título de ITBI foi de R$ 103.153,36. PARCIAL PROVIMENTO AO RECURSO DO AUTOR E DESPROVIMENTO DO RECURSO DO RÉU.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, orecorrente alega violação dos seguintes dispositivos: a) art. 86, caput e parágrafo único, do Código de Processo Civil, sustentando que a sucumbência do recorrido não foimínima, uma vez que sucumbiu em aproximadamente 25% de seu pedido edeveria ter sido condenado a ratear, nessa proporção, as despesas processuais; b)art. 167, parágrafoúnico,do Código Tributário Nacional, aduzindo que o acórdão recorrido deixou de estabelecerque, na repetição de indébito,o trânsito em julgado da decisão definitivadeve ser considerado como termo inicial dos juros moratórios.
+Houve contrarrazões (e-STJ fls. 699/705).
+Sobreveio juízo negativo de admissibilidade pela incidência da Súmula n. 7/STJ.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 738/745).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+A insurgência não merece prosperar.
+Em primeiro lugar, no que diz respeito à sucumbência recíproca, a jurisprudência desta Corte é firme no sentido de queaferir o percentual em que cada litigante foi vencedor ou vencidoou a conclusão pela existência de sucumbência mínima ou recíprocadas partes é questão que não comporta exame em recurso especial, porenvolver aspectos fáticos e probatórios, atraindo a incidência daSúmula n. 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA COMBINADO COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. IPTU. DANO MORAL NÃO CONFIGURADO.
+SUCUMBÊNCIA RECÍPROCA. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DA CONTRIBUINTE NÃO PROVIDO.
+1. A alteração das conclusões da Corte de origem no tocante à configuração de conduta ilícita do município apta a gerar indenização por dano moral implicaria o reexame do contexto fático-probatório dos autos, providência vedada a teor da Súmula 7/STJ.
+2. Quanto à distribuição dos ônus sucumbenciais, aplica-se o mesmo óbice processual, visto que a jurisprudência desta Corte já sedimentou o entendimento de que a análise referente à ocorrência de sucumbência recíproca ou mínima, ou revisão do seu quantum, demanda o revolvimento de matéria fático-probatória.
+3. Agravo Interno da contribuinte não provido.
+(AgInt no AREsp 1829211/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021)
+No mais, com relação ao termo inicial dos juros de mora, consoante afirmado pelo próprio recorrente, o acórdão recorrido restou inerte, razão pela qual o ponto não pode ser analisado nessa seara recursal por carência de necessário prequestionamento (Súmula n. 211/STJ).
+Exemplificativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INFRINGÊNCIA AOS ARTS. 8º DO CPC/2015 E 2º DA LINDB. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. AGRAVO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No acórdão objeto do Recurso Especial, o Tribunal de origem julgou improcedente o pedido em ação ajuizada pelo ora agravante, na qual postula a condenação da União e da Fundação Nacional de Saúde - FUNASA ao pagamento de indenização por danos morais, decorrentes da sua exposição prolongada à substância diclorodifeniltricloretano  DDT e outros produtos químicos correlatos, sem equipamento de proteção individual.
+III. Por simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que a tese recursal, vinculada aos dispositivos tidos como violados  arts. 8º do CPC/2015 e 2º da LINDB  , não foi apreciada, no voto condutor, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, incidindo o óbice da Súmula 211/STJ.
+IV. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017). Hipótese em julgamento na qual a parte recorrente não indicou, nas razões do apelo nobre, contrariedade ao art. 1.022 do CPC/2015.
+V. Agravo interno improvido.
+(AgInt no AREsp 1853798/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 27/09/2021, DJe 29/09/2021)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SUCUMBÊNCIA MÍNIMA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ART. 167 DO CTN. TERMO INICIAL DOS JUROS DE MORA. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
