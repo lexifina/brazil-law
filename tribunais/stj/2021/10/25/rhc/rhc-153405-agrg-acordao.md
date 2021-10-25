@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+ALBERTH SANDRO DUARTE LIMA e JOSIMAR PINHEIRO PEREIRAinterpõem agravo regimental contra a decisão de fls. 172-174, que negou provimento ao recurso ordinário emhabeas corpuspor eleinterposto contra acórdão do Tribunal de Justiça do Estadodo Maranhão (HC n. 0809232-18.2021.8.10.0000).
+Os agravantes tiveram a prisão em flagrante - ocorrida em 7/10/2020 - convertida em preventiva e foram denunciados por suposta prática do delito descrito no art. 157, § 2º, II e VII, do Código Penal.
+Nas razões deste recurso,alegam que estão sendo vítimas de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar, bem como que há violação do princípio da razoável duração do processo, porquanto configurado excesso de prazo na formação da culpa.
+Requerem seja o presente agravo recebido e julgado procedente.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS. ROUBO MAJORADO.EXCESSO DE PRAZO. NÃO OCORRÊNCIA.PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE.AGRAVO REGIMENTAL DESPROVIDO.
+1.Inexiste excesso de prazo nas hipóteses em quenão há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+2. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+Consoante a jurisprudência do STJ, "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRg no HC n. 588.513/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/8/2020).
+Além disso,somente ocorre constrangimento ilegal por excesso de prazo quando, à luz das peculiaridades do caso concreto, há descaso injustificado do órgão judicial, desídia da parte acusadora ou outra situação incompatível com o princípio da razoável duração do processo (RHC n. 128.016/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/9/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fl. 137):
+No caso em apreço, constato não haver o aludido constrangimento ilegal em razão de suposto excesso de prazo na instrução do feito.
+O processo encontra-se em trâmite regular com audiência de instrução designada. O caso em tela denota que a oitiva das testemunhas de acusação faltantes na primeira audiência é necessária para a devida instrução do feito, haja vista que a prova testemunhal em crimes semelhantes é fundamental para esclarecimentos da prática delitiva.
+Destaco que, conforme incessantes discussões que permeiam os Tribunais Superiores e as Cortes Estaduais, não se aplica mera fórmula aritmética para contagem de prazo para o fim da instrução criminal. Cada processo detém suas particularidades e complexidade, de modo que não se pode antever o tempo necessário para o deslinde do feito.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie"(RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ademais,em consulta ao site do Tribunal de origem, verifica-se quefoi realizada audiência de instruçãoem1º de outubro de 2021 (Processo n. 0008785-94.2020.8.10.0001 ).
+Assim, conclui-se que a ação penaltramita de forma regular, não havendo indícios de desídia estatalque justifique, por ora, a revogação da prisão preventiva.
+Além disso, aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 136, destaquei):
+A decisão que culminou no decreto prisional destacou a materialidade delitiva, bem como os indícios de autoria. Os Autos de Apresentação e Apreensão confirmam a materialidade delitiva. Enquanto que os indícios de autoria repousam nos depoimentos das vítimas que afirmaram, perante a autoridade policial, que os acusados foram os agentes do crime em tela. Ademais,o Magistrado plantonista, em sua decisão, ressaltou que ambos os denunciados respondem a outras ações penais, possuindo, assim, antecedentes criminais.Por fim, as prisões preventivas foram convertidas em preventivas por imperiosa necessidade da instrução criminal e para assegurar a aplicação da lei penal.
+Conforme se observa, não se verifica ilegalidade na decisão que determinou a segregação cautelar dos acusados.
+Verifica-se nos autos da Ação penal nº 0008785-94.2020.8.10.0001 que a prisão preventiva dos acusados foi submetida a reavaliação em 16.04.2021, mantido, portanto, o ergástulo preventivo em razão da manutenção dos motivos que ensejaram a decretação da prisão preventiva e, em relação à Alberth Sandro Duarte Lima, ter se verificado que teria praticado o crime em apuração estando em gozo de benefício de liberdade provisória concedida nos autos do processo nº 1503/2016.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso,o fato de osrecorrentesresponderem a outraação penal foiconsideradopelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
