@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Marcelo Lopes de Mello Junior - condenado como incurso no crime de tráfico de drogasà pena de 2 anos e 6 meses de reclusão, no regime inicial semiaberto -, não comporta processamento (Ação Penal n 0006877-92.2017.8.26.0637).
+Com efeito, busca-se na impetração a substituição da pena privativa de liberdade pela restritiva de direitos.
+No entanto, além de o impetrante ter utilizado o writ como uma segunda apelação, as alegações não merecem prosperar.
+A pena-base foi aumentada com fundamento na quantidade de droga apreendida (mais de 5 kg de maconha), nos termos do art. 42 da Lei n. 11.343/2006, circunstância idônea e suficiente para justificar a imposição do regime inicial semiaberto à reprimenda de 2 anos e 6 meses de reclusão, nos termos doart.33, § 3º, c/c o art. 59, ambos do Código Penal, bem como para indeferir o pedido de substituição da pena, com previsão no art. 44, II, do Código Penal, não havendo qualquer ilegalidade no acórdão proferido nos embargos de declaração às fls. 26/27:
+ ..  tamanha a quantidade de droga apreendida, e circunstâncias desfavoráveis, qualquer outro regime não se mostraria recomendável, razão pela qual mantenho o regime semiaberto para o cumprimento da pena e, em relação a substituição da pena por restritiva de direitos às fls. 459, devendo se ler: "Apesar de entender ser eventualmente possível a substituição da pena privativa de liberdade por restritiva de direitos relativamente aos crime de tráfico de drogas, in casu, inviável, porquanto apesar de ter sido redimensionada a pena para patamar inferior a 4 anos de reclusão, o apelante não preenche todos os requisitos exigidos pelo art.44 do Código Penal, tendo em vista que possui em seu desfavor circunstâncias judiciais desfavoráveis  .. .
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS.REGIME INICIAL SEMIABERTO. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. EXASPERAÇÃO DA PENA-BASE (ART. 33, § 3º, C/C O ART. 59 DO CP). QUANTIDADE DE DROGA APREENDIDA (5 KG DE MACONHA).CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
