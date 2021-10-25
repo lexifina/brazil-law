@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo, interposto por RUTH HELENA VAZ TELLES, CARLOS ALBERTO AZEVEDO TELLES,contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"APELAÇÕES CÍVEIS. RIO LUZ. CONCESSIONÁRIA DE SERVIÇO PÚBLICO DE FORNECIMENTO DE ENERGIA ELÉTRICA. RESPONSABILIDADE OBJETIVA.
+1. Ação indenizatória ajuizada por pais de vítima fatal de acidente com descarga elétrica de poste de responsabilidade da ré.
+2. Sentença de condenação da concessionária ao pagamento de indenização por danos morais. Inconformismo das partes, que pretendem a majoração/redução do quantum indenizatório.
+3. Entendimento jurisprudencial no sentido de que a concessionária de serviços públicos deve cercar-se de cuidados, a fim de evitar acidentes.
+4. Verba indenizatória por danos morais, fixada em R$ 100.000,00, para cada autor, que merece ser mantida.
+Pensionamento devido, no valor de 30% do salário mínimo, até quando a vítima completaria 25 anos de idade.
+5. Desprovimento dos recursos"(fl. 332e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE.
+1. Conforme se pode observar, a matéria foi devidamente apreciada pelo acórdão embargado, cabendo ressaltar, como dito no referido julgado, que o valor fixado pelo Sentenciante, que considerou o evento danoso como de exclusiva responsabilidade da empresa Ré, foi arbitrado de forma correta, razoável e proporcional, levando em conta, ainda, o inegável sofrimento psíquico dos autores, de grande monta, já que a falha na prestação do serviço resultou na morte de seu filho.
+2. Os Embargantes pretendem, claramente, somente prequestionar a matéria para eventuais recursos ao Supremo Tribunal Federal e Superior Tribunal de Justiça, mas, não estando presentes os requisitos do artigo 1022 do NCPC, não encontram viabilidade os presentes Embargos Declaratórios.
+3. Desprovimento dos Embargos" (fl. 361e).
+Aponta a agravante, nas razões do Recurso Especial, a contrariedade aos arts. 489, § 1º, 1.022, II, do CPC/2015, sustentando que: a) "não obstante a oposição dos embargos declaratórios, o acórdão então proferido, rejeitando aqueles, manteve-se omisso quanto às questões acima indicadas" (fl. 373e); b) "a majoração da pensão mensal, bem como e a extensão do seu prazo, se fazem necessária tendo em vista tratar-se de família de baixa renda, sendo certo que a vítima contribuiria para a manutenção de seus genitores durante a sua sobrevida, e não só até os 25 (vinte e cinco) anos, como estabelecido pela C. Câmara"(fl. 375e); c) "o pensionamento, portanto, deve ser fixado em quantia superior a estabelecida na r. sentença e confirmada pelo v. Acórdão guerreado, e por prazo superior, devendo ser estabelecida até a data em que a vítima completasse a expectativa de vida, ou cessado diante do falecimento dos genitores recorrentes, caso tal fato se dê primeiro" (fl. 378e).
+Foram apresentadas contrarrazões (fls. 384/388e).
+Negado seguimento ao Recurso Especial (fls. 401/405e), foi interposto o presente Agravo (fls. 413/422e).
+A irresignação não merece acolhimento.
+Na origem, trata-se de ação proposta pela recorrente objetivando a condenação da concessionária de energia elétrica ao pagamento de indenização por danos morais e materiais em virtude do falecimento de seu filho, vítima de descarga elétrica em poste de luz.
+O Tribunal de origem manteve a sentença de de parcial procedência do pedido, com base nos seguintes fundamentos, no que importa ao presente recurso:
+"Assim, consideradas as peculiaridades da espécie do dano perpetrado, levando em conta ainda a sua repercussão no equilíbrio psicológico dos autores, deve preponderar a importância arbitrada na sentença, já que em consonância com a jurisprudência pátria.
+(..)
+No que toca ao pensionamento, também não merece alteração a sentença, seja para excluí-lo, seja para que se reconheça ter caráter vitalício.
+De acordo com a jurisprudência das Cortes Superiores, há o reconhecimento do direito dos pais ao pensionamento devido pela morte de filho, independentemente da comprovação de que exercia atividade remunerada, sendo aplicável a Súmula nº 215, deste TJRJ.
+"A falta de prova da renda auferida pela vítima antes do evento danoso não impede o reconhecimento do direito a pensionamento, adotando-se como parâmetro um salário mínimo mensal".
+In casu, trata-se de família de baixa renda, assistida pela Defensoria Pública, sendo presumida a ajuda financeira mútua entre os parentes, especialmente os mais próximos.
+Destaque-se que o valor fixado, bem como o prazo até quando a vítima completaria 25 anos de idade, também não destoam dos julgados em casos análogos, devendo ser observado que é geralmente nesta idade em que os filhos formam sua própria família e cessam ou diminuem a ajuda material aos pais" (fl. 336e).
+Desse modo, em relação aos arts. 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+Por fim, quanto à pretensão de reconhecimento de pensão mensal vitalícia, verifica-se que a parte recorrente não indicou, com precisão e objetividade, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
