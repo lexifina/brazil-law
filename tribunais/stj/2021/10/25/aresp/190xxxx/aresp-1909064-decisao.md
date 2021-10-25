@@ -1,0 +1,36 @@
+DECISÃO
+Consta dos autosque GILDO DE OLIVEIRA (GILDO) ajuizou ação declaratória de cláusulas contratuais cumulada com repetição de indébito em face de BALLESTEROS EMPREENDIMENTOS IMOBILIÁRIOS LTDA (BALLESTEROS).
+Em primeira instância, o pedido foi julgado parcialmente procedente, para (1) declarar a nulidade da cláusula nº 3.1 do contrato, determinando que as parcelas mensais do contrato sejam corrigidas apenas pela aplicação mensal dos índices de poupança, sem incidência de juros, (2) condeno BALLESTEROS (i)ao pagamento de R$ 10.779,76 (dez mil, setecentos e setenta e nove reais e setenta e seis centavos), a título de danos materiais, corrigidos pela tabela da CGJMG, a partir da prolação da sentença e acrescido de juros moratórios de 1% ao mês, contados a partir da citação; (ii)pagamento de R$ 14.500,00 (quatorze mil e quinhentos reais), a título de multa contratual; (3) fixar a sucumbência recíproca (e-STJ, fls. 390/395).
+O apelo de BALLESTEROS não foi provido, em acórdão ementado nos seguintes termos:
+APELAÇÃO CÍVEL. REVISIONAL DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEIÇÃO. COBRANÇA DE JUROS REMUNERATÓRIOS CUMULADA COM A CORREÇÃO DA PRESTAÇÃO POR ÍNDICE DA CADERNETA DE POUPANÇA. IMPOSSIBILIDADE.ATRASO NA ENTREGA DE OBRAS DE LAZER. MULTA.
+- Não há cerceamento de defesa no julgamento da lide, sem análise da petição que junta inspeção judicial realizada em outro processo, notadamente, porque a prova emprestada foi realizada pelo próprio julgador e o seu conteúdo revelou-se insuficiente para alterar a sua convicção.
+- A ausência de intimação para a apresentação de alegações finais não caracteriza cerceamento de defesa, por se tratar apenas de oportunidade para que a parte reafirme os argumentos discutidos no decorrer do processo.
+- O promissário comprador tem direito ao valor da multa prevista no contrato, a título de cláusula penal, em razão de atraso injustificado da Construtora em entregar as obras de lazer do empreendimento habitacional.
+- É ilegal, por configurar bis in idem, a cumulação de juros remuneratórios à taxa de 1% (um por cento) ao mês mais o índice mensal de remuneração da caderneta de poupança para atualizar os valores das prestações mensais em contrato de compra e venda de imóvel na planta, já que a poupança é remunerada pela TR mais 0,5% de juros. (e-STJ, fl. 491).
+Os embargos de declaração opostos por GILDO foram acolhidos, a fim majorar os honorários sucumbenciais para 7% sobre o valor da condenação (e-STJ, fls. 515/520).
+Os embargos opostos por BALLESTEROS foram rejeitados (e-STJ, fls. 555/564).
+Insatisfeita, BALLESTEROS interpôs recurso especial, com fulcro no art. 105, III, a e c, da CF, alegando violação dos arts. 396, 413 e 422, do Código Civil e art. 46 da Lei n. 10.931/04, ao sustentar, em síntese, (1) a inexistência de ilegalidade na aplicação de juros remuneratórios, visto que a cobrança não foi superior a 1%; e, (2) deve ser mantida a forma de aplicação de juros remuneratórios sobre as parcelas do contrato, conforme pactuado (e-STJ, fls. 572/593).
+Após apresentadas as contrarrazões, o recurso foi inadmitido na origem, ante a incidência das Súmulas ns. 5 e 7 do STJ. (e-STJ, fls. 711/715).
+No agravo em recurso especial, BALLESTEROS afirmou que seu recurso merecia seguimento, porque preenchidos os requisitos necessários a admissibilidade, ressaltando, ademais, que a análise de suas razões recursais não reclamam reexame de matéria fática, devendo, assim, ser afastados os óbices sumulares aplicados na origem (e-STJ, fls. 723/733).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo e passo a analisar as razões do recurso especial.
+Da cobrança dos juros remuneratórios
+A Corte mineira, ao analisar a matéria, ressaltou a ilegalidade da cobrança dos juros remuneratórios, por configurar bis in idem a cumulação destes, na taxa de 1% ao mês, mais o índice mensal de remuneração da caderneta de poupança.
+A este respeito, veja-se o excerto do voto condutor da apelação, abaixo destacado:
+A apelante sustenta a legalidade da cláusula 3.1 de reajuste no valor das prestações ao fundamento de que " ..  os juros aplicados NÃO ULTRAPASSAM O PATAMAR DE 1% (UM POR CENTO) AO MÊS; além de haver autorização para atualização pelos índices de caderneta de poupança, conforme art. 46 da Lei 10.931/04."
+A cláusula 3.1 do contrato de compra e venda celebrado entre as partes dispõe:
+"DA FORMA DE CORREÇÃO DAS PARCELAS:
+Estabelecem as partes que as parcelas do preço constantes nos itens 3.3 e 3.4 do preâmbulo deste instrumento serão corrigidas mensalmente mediante a aplicação do índice de remuneração plena dos depósitos de caderneta de poupança (art. 46 Lei 10.931/04, acrescido de 1% (hum ponto percentual), devendo ser tomado por base o índice da aludida caderneta de poupança do último dia de cada mês ocorrido anteriormente ao do vencimento de cada prestação."
+Releva assinalar que resta configurado o bis in idem, a cumulação de juros remuneratórios à taxa de 1% (um por cento) ao mês mais o índice mensal de remuneração da caderneta de poupança para atualizar os valores das prestações mensais em contrato de compra e venda de imóvel na planta, já que a poupança é remunerada pela TR mais 0,5% de juros (e-STJ, fl. 497).
+Como se vê, para alterar as conclusões adotadas no TJMG se faz necessário o reexame dos fatos da causa, notadamente das cláusulas do contrato firmado entre as partes, o que encontra óbice no enunciado das súmulas ns. 5 e 7 do STJ.
+Ademais, releva notar que, em virtude da incidência do referido óbice sumular, fica prejudicada a análise da divergência jurisprudencial, pois inexistente similitude fático-jurídica entre os julgados confrontados.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTOrecurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de SANTANDER, limitados a 20%, nos termos do art. 85, § 11, do NCPC, observada a concessão da gratuidade da justiça.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. AÇÃO REVISIONAL DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. COBRANÇA DE JUROS REMUNERATÓRIOS CUMULADA COM A CORREÇÃO DA PRESTAÇÃO POR ÍNDICE DA CADERNETA DE POUPANÇA. IMPOSSIBILIDADE. CONFIGURAÇÃO DE BIS IN IDEM. REFORMA DO ENTENDIMENTO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
