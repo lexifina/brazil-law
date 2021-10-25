@@ -1,0 +1,2 @@
+DECISÃO
+Considerando o teor do Ofício/STF n. 15192/2021, relacionado à petição de e-STJ fls. 684-694, comunicando decisão proferido no autos do HC n. 207.642/MT, da Relatoria da e. Ministra Rosa Weber, que concedeu a ordem dehabeas corpus, "para reconhecer a atipicidade material da conduta atribuída ao Paciente Diogo Ramos Silva, e, em consequência,determinar o trancamento da ação penal 1001326-61.2020.8.11.0012, em trâmite perante o Juízo da 2ª Vara da Comarca de Nova Xavantina/MT", determino o arquivamento do presente feito.
