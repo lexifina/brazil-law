@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VALDIR GOMES contra a decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ e 283 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 0029042-85.2016.8.26.0050).
+Nas razões do recurso especial, o recorrente aponta violação do art. 33, § 3º, do Código Penal, defendendo ser cabível a fixação de regime prisional semiaberto, apoiando-se, inclusive, nas Súmulas n. 718 e 719 do STF.
+Há contrarrazões do Ministério Público do Estado.
+O Ministério Público Federal opina pelo não provimento do agravo.
+É o relatório. Decido.
+O recurso merece prosperar
+No caso dos autos, o agravante foi condenado à pena de 2 anos e 8 meses de reclusão e ao pagamento de 13 dias-multa, pela prática do delito do art. 155, § 4º, III, do Código Penal. Na ocasião foi fixado o regime inicial fechado nestes termos (fl. 329):
+A despeito da quantidade de pena aplicada (inferior a oito anos), e considerando a existência de circunstâncias judiciais desfavoráveis, fixo o regime fechado para o início do cumprimento da pena privativa de liberdade, com fundamento no artigo 33, § 3.º, e § 2.º, alínea "b" (a contrariu sensu) do Código Penal.
+O Tribunal de origem manteve o regime inicial nestes termos (fl. 404):
+Apropriado, também, a imposição do regime fechado, porquanto, ao estabelecer o regime de cumprimento da pena deve ser observado não só o quantum fixado, mas também as circunstâncias judiciais desfavoráveis, a demostrar que, embora condenado especialmente por roubo majorado, não se emenda e faz do crime meio de vida, em atenção, também, aos princípios da necessidade e da suficiência, atendendo também aos exatos termos do art. 33, § 3º, do Código Penal.
+Na fixação do regime inicial de cumprimento da pena, deve o julgador, nos termos dos arts. 33, §§ 1º, 2º e 3º, e 59 do Código Penal, observar a quantidade de pena aplicada, a primariedade do agente e a existência de circunstâncias judiciais desfavoráveis.
+Ademais, é assente no STJ que, na hipótese em que a pena definitiva é inferior a 4 anos, havendo circunstância judicial desfavorável, é cabível a fixação de regime inicial mais gravoso.
+No presente caso, não obstante seja o réu primário, verifica-se que a pena definitiva foi fixada em 2 ano e 8 meses de reclusão e que foi reconhecida circunstância judicial desfavorável, havendo o aumento da pena-base, o que justifica a escolha de regime imediatamente mais grave, que, no caso, deve ser o semiaberto.
+Confiram-se julgados que tratam da questão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO STJ. RECURSO ESPECIAL INADMISSÍVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante infirmar as causas específicas da decisão agravada, sob pena de incidência da Súmula n. 182 do STJ.
+2. O STJ, por ambas as turmas de direito criminal, unificou entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia.
+3. O STJ compreende ser possível ao juízo indeferir diligências desnecessárias ou procrastinatórias. Incidência do disposto na Súmula n. 83 desta Corte Superior.
+4. A fixação do regime semiaberto e a negativa da substituição da pena privativa de liberdade por restritiva de direitos pode ser justificada pela existência de circunstâncias judiciais desfavoráveis, conforme ocorrido na hipótese dos autos. A pretensão é inadmissível pela orientação da Súmula n. 83 do STJ.
+5. Agravo regimental não provido. (AgRg no AREsp n. 1.749.660/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 30/8/2021. )
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DOS ART. 304 E 297 DO CP. NULIDADE POR AUSÊNCIA DE DEFESA TÉCNICA. SÚMULA 283/STF. PREJUÍZO NÃO DEMONSTRADO. DOSIMETRIA. BIS IN IDEM. SÚMULA 211/STJ. REGIME PRISIONAL SEMIABERTO. ADEQUAÇÃO. AGRAVO NÃO PROVIDO.
+1. Conforme consignado na decisão agravada, o fundamento consistente no fato do advogado continuar a representar o mandante durante os dez dias seguintes a renúncia, não foi infirmado no recurso especial, razão pela qual o recurso não pode, de fato, ser conhecido, nos termos em que preceitua o enunciado da Súmula n. 283 do STF: "E inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. As nulidades no processo penal observam ao princípio pas de nullité sans grief, previsto no art. 563, do CPP, não devendo ser declarada sem a efetiva comprovação do prejuízo concreto, o qual não pode ser presumido pela parte.
+3. Na espécie, consta do acórdão estadual que "haja vista a ausência de constituição de novo advogado, a Defensoria Pública do Estado do Paraná devidamente apresentou as derradeiras razões finais, ocasião em que, caso fosse necessário, seria requerido diligências complementares (art. 402 do CPP), a fim de que fossem apreciadas pelo Magistrado sentenciante. Assim, tem-se que o acusado se encontrava devidamente assistido pela defensoria pública e, se fosse necessário, se teria requerido diligência complementares por ocasião das alegações finais".
+4. As teses consistentes na utilização da mesma condenação como antecedentes e como reincidência (bis in idem) e a de que as condenações alcançadas pelo período depurador não podem servir para configuração da reincidência não foram objeto de debate pelo Tribunal de origem, ressentindo-se o recurso especial do necessário prequestionamento. Incidência da Súmula n. 211/STJ.
+5. Estabelecida a pena em 2 anos e 11 meses de reclusão e sendo considerada desfavorável uma circunstância judicial, é adequada a imposição do regime inicial semiaberto - imediatamente mais gravoso do que o admitido pela quantidade de reprimenda aplicada -, nos moldes do previsto no art. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal.
+6. Agravo regimental desprovido. (AgRg no AREsp n. 1.737.934/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/5/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. REGIME INICIAL IMEDIATAMENTE MAIS GRAVOSO. SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CULPABILIDADE E CONSEQUÊNCIAS. AGRAVO IMPROVIDO.
+1. Tendo sido fixado o regime inicial imediatamente mais gravoso, o semiaberto, com a indicação de fundamentação concreta, evidenciada na expressa referência à circunstâncias valoradas negativamente na primeira fase de dosimetria, com base na culpabilidade e nas consequências do delito, não há ilegalidade.
+2. Estando o acórdão em consonância com a jurisprudência desta Corte Superior, tem incidência a súmula n. 83/STJ.
+3. Agravo regimental improvido. (AgRg no AREsp n. 1.783.354/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 12/3/2021.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de alterar o regime inicial de cumprimento de pena para o semiaberto.
+Publique-se. Intimem-se.
