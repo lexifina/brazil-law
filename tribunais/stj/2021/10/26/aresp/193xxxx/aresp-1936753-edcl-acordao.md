@@ -1,0 +1,53 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. PLEITO PELA INCIDÊNCIA DA DETRAÇÃO E, POR VIA DE CONSEQUÊNCIA, ABRANDAMENTO DO REGIME PRISIONAL. INOVAÇÃO RECURSAL. INVIÁVEL A ANÁLISE. INEXISTÊNCIA DE INFORMAÇÕES ACERCA DO PERÍODO DE PRISÃO CAUTELAR. ANÁLISE QUE CABE AO JUÍZO DA EXECUÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O pleito pela aplicação da detração e estabelecimento do modo prisional aberto não foi especificamente analisado no acórdão estadual, nem abordado nas razões do apelo nobre, do agravo em recurso especial ou do agravo regimental anteriormente interpostos, constituindo-se inovação recursal e, portanto, inviável de ser examinado nesta seara processual.
+2. A Defesa não cuidou de instruir o presente apelo com as informações necessárias acerca do período em que o Réu esteve sob prisão cautelar e, portanto, a análise dessa matéria deverá ser levada a termo pelo Juízo da Execução.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de embargos de declaração opostos por CESAR VINICIUS DE OLIVEIRA ALVES contra acórdão de minha relatoria, por meio da qual foi desprovido o respectivo agravo regimental e concedido Habeas Corpus, de ofício, nos termos da seguinte ementa (fls. 362-363; grifado no original):
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DO APELO NOBRE APÓS O LAPSO LEGAL. INTEMPESTIVIDADE. NÃO APLICAÇÃO DOS ARTS. 219 E 220 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL DESPROVIDO. QUANTIDADE E VARIEDADE DA DROGA. FUNDAMENTO QUE, POR SI SÓ, NÃO PERMITE AFERIR A DEDICAÇÃO DO ACUSADO À ATIVIDADE CRIMINOSA E, PORTANTO, NÃO SE PRESTA PARA JUSTIFICAR O AFASTAMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO OU MODULAR A FRAÇÃO DESSE BENEFÍCIO. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c.c. o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+2. A jurisprudência desta Corte é firme no sentido de que " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017).
+3. No caso, o acórdão relativo aos embargos de declaração foi publicado em 25/08/2020, e o agravo em recurso especial foi interposto em 11/09/2020, quando já havia escoado o prazo para a sua interposição.
+4. Constatada a existência de ilegalidade patente, é possível a esta Corte Superior de Justiça corrigi-la por meio da concessão de Habeas Corpus, de ofício.
+5. A atual jurisprudência da Terceira Seção do Superior Tribunal de Justiça, fixada, quando do julgamento do RESP n. 1.887.511/SP, no sentido de que a elevada quantidade ou a natureza das drogas apreendidas não são circunstâncias que permitem aferir, por si sós, o grau de envolvimento do Acusado com a criminalidade organizada ou de sua dedicação às atividades delituosas e, tal como ocorre na hipótese dos autos, inexistentes outras características da conduta deletéria aptas a amparar conclusão nesse sentido, não há falar em afastar o benefício ou modular a fração dessa aquém do máximo legal.
+6. Na espécie, embora considerando que a formulação da nova dosimetria levou à fixação de reprimenda corporal inferior a 4 (quatro) anos de reclusão, a quantidade e a variedade das drogas apreendidas - 67,5g de cocaína, 209,5g de maconha, 3,4g de crack, 2,8g de haxixe, 1,2g de ecstasy e 100ml de lança-perfume - justificam o estabelecimento do regime inicial semiaberto e não recomendam a substituição por restritivas de direitos.
+7. Agravo regimental desprovido. Habeas Corpus concedido, de ofício, a fim de fazer incidir a minorante do tráfico privilegiado, redimensionando as penas."
+Sustenta a Defesa, nas razões do recurso integrativo, que o aresto embargado contém omissão, porquanto deixou de se pronunciar quanto à detração, nos termos do art. 387 do Código Penal e do art. 1.º da Lei n. 12.736/2012.
+Portanto, requer a fixação do regime aberto ao Embargante.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. PLEITO PELA INCIDÊNCIA DA DETRAÇÃO E, POR VIA DE CONSEQUÊNCIA, ABRANDAMENTO DO REGIME PRISIONAL. INOVAÇÃO RECURSAL. INVIÁVEL A ANÁLISE. INEXISTÊNCIA DE INFORMAÇÕES ACERCA DO PERÍODO DE PRISÃO CAUTELAR. ANÁLISE QUE CABE AO JUÍZO DA EXECUÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O pleito pela aplicação da detração e estabelecimento do modo prisional aberto não foi especificamente analisado no acórdão estadual, nem abordado nas razões do apelo nobre, do agravo em recurso especial ou do agravo regimental anteriormente interpostos, constituindo-se inovação recursal e, portanto, inviável de ser examinado nesta seara processual.
+2. A Defesa não cuidou de instruir o presente apelo com as informações necessárias acerca do período em que o Réu esteve sob prisão cautelar e, portanto, a análise dessa matéria deverá ser levada a termo pelo Juízo da Execução.
+3. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+De plano, verifico que o pleito pela aplicação da detração e estabelecimento do modo prisional aberto não foi especificamente analisado no acórdão estadual, nem abordado nas razões do apelo nobre, do agravo em recurso especial ou do agravo regimental anteriormente interpostos, constituindo-se inovação recursal e, portanto, inviável de ser examinado nesta seara processual.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. NÃO CABIMENTO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA SUPERVENIENTE. CRIME PRATICADO ANTES DA LEI N. 11.596/2007. SENTENÇA. MARCO INTERRUPTIVO. EMBARGOS DECLARATÓRIOS REJEITADOS. RECONHECIDA A EXTINÇÃO DA PUNIBILIDADE.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Não é cabível a formulação de novas teses em embargos declaratórios por constituir indevida inovação recursal.
+ ..
+7. Embargos declaratórios rejeitados. Reconhecida a extinção da punibilidade do agente ex officio." (EDcl no AgRg no REsp 1432917/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME TIPIFICADO NO ART. 155, §§ 2º E 4º, II, DO CÓDIGO PENAL. PEDIDO DE DEVOLUÇÃO DOS AUTOS AO MINISTÉRIO PÚBLICO PARA OFERECIMENTO DE PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL, NOS TERMOS DO ART. 28-A DO CPP. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO ANALISADA NA APELAÇÃO. ÓBICE À INOVAÇÃO EM SEDE DE EMBARGOS DE DECLARAÇÃO. CONSTRANGIMENTO ILEGAL INEXISTENTE. AGRAVO IMPROVIDO.
+1. Consiste em inovação recursal a pretensão de análise de controvérsia deduzida somente nos embargos de declaração ou em agravo regimental (AgRg no HC 521.849/SC, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 4/8/2020, DJe de 19/8/2020).
+ ..
+5. Agravo regimental improvido." (AgRg no HC 646.952/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/05/2021, DJe 07/05/2021.)
+Ainda que assim não fosse, melhor sorte não socorreria o Embargante.
+Isso porque a Defesa não cuidou de instruir o presente apelo com as informações necessárias acerca do período em que o Réu esteve sob prisão cautelar e, portanto, a análise dessa matéria deverá ser levada a termo pelo Juízo da Execução.
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. INADMISSÃO DO RECURSO ESPECIAL DEVIDAMENTE IMPUGNADA. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. EXPRESSIVA QUANTIDADE DE DROGA. PRESENÇA DE MENORES. SÚMULA N. 83/STJ. MINORANTE DO TRÁFICO PRIVILEGIADO. FUNÇÃO DE "MULA". CONTRATAÇÃO PARA TRANSPORTE ESPORÁDICO DE DROGAS. CIRCUNSTÂNCIA QUE NÃO EVIDENCIA, POR SI SÓ, QUE OS ACUSADOS INTEGRAVAM GRUPO CRIMINOSO. REDIMENSIONAMENTO. AGRAVO PROVIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO.
+ ..
+7. Não havendo, nos autos, informações suficientes a respeito da duração da custódia cautelar para a aplicação da detração prevista no art. 387, § 2º, do CPP, essa deve ser pleiteada e analisada pelo Juízo de Execução, nos termos do art. 66, inciso III, alínea "c", da LEP.
+ ..
+9. Agravo regimental provido para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento para fixar as penas de ALFREDO COPATITI HUAYLLA, MARIA HUAYLLA QUISPE, SÔNIA COPATITI HUAYLLA e FLANKLIN JAIMEZ ALVAREZ em 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e 582 dias-multa;e de HERLÍNDA COPATITI HUAYLLA, CINDIA COPATITI HUAYLLA e JULIA COPATITI HUAYLLA em 6 anos e 27 dias de reclusão, em regime inicial semiaberto, e 606 dias-multa." (AgRg no AREsp 1.834.952/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF/ 1.ª REGIÃO), SEXTA TURMA, julgado em 21/09/2021, DJe 27/09/2021.)
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DELITO DE ROUBO MAJORADO. NÃO VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOVAÇÃO RECURSAL. MATÉRIA APRESENTADA EM AGRAVO REGIMENTAL. DETRAÇÃO PENAL. AUSÊNCIA DE INFORMAÇÕES. ANÁLISE PELO JUÍZO DAS EXECUÇÕES. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Ausentes informações sobre os elementos necessários ao reconhecimento da detração, cabe ao juízo das execuções examinar o tempo de prisão cautelar a fim de autorizar a fixação de regime prisional mais brando.
+4. Agravo regimental desprovido." (AgRg no AgRg no AREsp 1.814.171/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 17/08/2021, DJe 20/08/2021.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
