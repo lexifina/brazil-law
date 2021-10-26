@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de RAFAELA MARTINAZZO contra decisão de Desembargadordo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, proferido noHabeas Corpus Criminal nº 5055927-85.2021.8.24.0000.
+Extrai-se dos autos que o Juízo das Execuções indeferiu o pedido de paciente de concessão de prisão domiciliar,que estácumprindo pena definitiva em decorrência de mandado de prisão de sentença condenatória transitada em julgada, conforme decisão de fls. 160/163.
+Irresignada sua defesa impetrou owrit originário reiterando, em síntese, ser a paciente mãe de 4 (quatro) filhos, sendo 3 (três) deles menores de12 (doze) anos e sendo a única responsável pelos seus cuidados.
+O Relator indeferiu o pedido de liminar, conforme decisão de fls. 176/177.
+Daí o presente writ no qual a defesa reafirma as alegações da impetração originária de concessão da prisão domiciliare de superação do óbice da Súmula n. 691/STF.
+Dessa forma, requer seja"a concessão da liminar para que seja de pronto reconheça a ilegalidade da prisão preventiva e se proceda à sua revogação. Subsidiariamente,pelaconcessãodaordemparaaplicarmedidascautelaresdiversasdaprisãoou convertida a prisão preventiva em prisão domiciliar, nos termos do artigo 318, inciso V, do Código de Processo Penal, e que, em decisão final, seja definitivamente concedida a liberdade à paciente enquanto aguarda o trânsito em julgado de decisão judicial" (fls. 27/28).
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum, o que não ocorre no presente caso.
+Nesse sentido, destaco o seguinte precedente:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE OFENSA. DECISÃO PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. ATO COATOR: DECISÃO SINGULAR DE DESEMBARGADOR DA INSTÂNCIA DEORIGEM. INDEFERIMENTO DA LIMINAR. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA QUE AUTORIZE A RELATIVIZAÇÃO DA DIRETRIZ DA SÚMULA 691 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prolação de decisão monocrática pelo ministro relator, ou mesmo pela Presidência no período de férias forenses, está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem.
+3. Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado (HC n. 318.415/SP, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/15, DJe 12/8/15).
+4. No caso destes autos, não há ilegalidade flagrante, abuso de poder ou teratologia a autorizar a superação do obstáculo contido na Súmula 691/STF.5. Agravo regimental não provido." (AgRg no HC 556.937/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 02/03/2020)
+Na hipótese não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência, pautou-se em fundamentação idônea, tendo o relator assim asseverado (fls. 176/177):
+"1. Trata-se de habeas corpus, com pedido liminar, impetrado pelo advogado Alexandre Santos Correia de Amorim em favor do paciente Rafaela Martinazzo, tendo como autoridade coatora o Juízo da 3ª Vara Criminal da Comarca de Chapecó/SC que, nos autos do SEEU n. 8004359-22.2021.8.24.0018, indeferiu a prisão domiciliar à apenada.
+Esclarece o impetrante que a paciente cumpre pena de 6 (seis) anos de reclusão, em regime inicial fechado, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006.
+Presa em 28-07-2021 em decorrência de mandado de prisão de sentença condenatória transitada em julgada, postulou pela possibilidade de cumprimento de pena em prisão domiciliar, diante de possuir 4 (quatro) filhos, sendo 3 (três) deles menores de12 (doze) anos e sendo a única responsável pelos seus cuidados.
+Determinada a realização de Estudo Social, que foi realizado, o representante ministerial manifestou-se favoravelmente ao pleito da defesa, todavia, o juízo a quo indeferiu o requerimento.
+Alega o impetrante que a paciente faz jus a prisão domiciliar, a teor do art.318, III e V, do CPP.
+Sustenta que a paciente é primária e possui residência fixa e trabalho lícito.
+Assim sendo, requer a concessão liminar da ordem para que seja concedida a liberdade provisória, com a imposição de medidas cautelares diversas da prisão, se necessário, ou a prisão domiciliar. No mérito, pugna pela concessão em definitivo da ordem (Evento 1, INIC1).
+2 . Inicialmente, destaca-se que o writ constitui remédio constitucional de caráter excepcional, sujeito a procedimento especial, cuja apreciação está restrita à presença de ilegalidade ou abuso de poder da ordem que restringe a liberdade.
+A concessão de liminar em habeas corpus representa medida extrema, pois o seu deferimento está condicionado à evidência da admissibilidade jurídica do pedido, doconstrangimento ilegal e do risco na demora da prestação jurisdicional na análise do mérito.
+É o posicionamento do Superior Tribunal de Justiça:
+O deferimento de medida liminar - criação puramente jurisprudencial, pois não prevista em lei - é medida excepcional, reservada para casos em que se evidencie, de modo flagrante, coação ilegal ou derivada de abuso de poder, em detrimento do direito de liberdade. Fica adstrito à existência concomitante do fumus boni iuris - traduzido na plausibilidade do direito subjetivo deduzido - e do periculum in mora - retratado na probabilidade de ocorrência de lesão grave e de difícil ou impossível reparação antes do julgamento de mérito do writ. (HC n. 79404/SP, Rel. Min. Paulo Medina, publicado em11/04/2007).
+Nesse norte, em sede de cognição sumária, verifica-se que inexiste constrangimento ilegal apto a justificar a concessão da liminar, notadamente porque os argumentos apresentados pelo impetrante confundem-se com o mérito do writ, motivo pelo qual com ele serão analisados.
+Desse modo, não vislumbro, por ora, manifesta ilegalidade hábil a autorizar a almejada liminar da ordem, sendo prudente analisar o mérito da questão após a manifestação do Ministério Público.
+Ante o exposto, INDEFIRO a liminar almejada.
+Após, remetam-se os autos à douta Procuradoria-Geral de Justiça.
+Intime-se."
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a superação do enunciado sumular.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
