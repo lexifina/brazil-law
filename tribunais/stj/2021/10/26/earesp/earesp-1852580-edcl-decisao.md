@@ -1,0 +1,10 @@
+DECISÃO
+ROMANO VOLTOLINI atravessou petição às fls. 755-757,requerendo "sejam conhecidos os EMBARGOS DE DECLARAÇÃO, para acolhê-los e dar provimento, reformando a r. decisão para que a ora agravante não seja obrigada a recolher às custas do Embargos de Divergência ou caso não seja este o entendimento seja concedido o prazo de 15 dias para o recolhimento das custas".
+No entanto, os três acórdãos (fls. 732, 733 e 734) que julgaram os três recursos manejados anteriormente pelo causídico foram disponibilizados no DJe em 30/09/2021, considerados publicados em 01/10/2021, nos termos do art.4º, § 3º, da Lei 11.419/2006, conforme certidões de fls. 742, 743 e 744.
+Logo, os embargos de declaração em tela sãomanifestamente intempestivos, porque opostos somente em 15/10/2021, muito depois do prazo legal de dois dias.
+Anoto -apenas a título de esclarecimento -que não há nenhuma pertinência no requerimento de desobrigar o Requerente a recolher custas, porque essa questão já foi examinada no acórdão de fl. 683, onde consta como conclusão: "Agravo regimental provido para afastar a deserção, mas indeferidos liminarmente os embargos de divergência por manifesta inadmissibilidade" (grifei).
+No mais, observa-se que, desde a publicação dos três últimos acórdãos prolatados nestes autos, nenhum recurso cabível foi manejado no prazo.
+E, como é sabido e consabido, "orecurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso. (ARE n.813.750-AgR, relatora Ministra Cármen Lúcia, Tribunal Pleno, DJe de 22/11/2016; ARE n. 823.947-ED, relator Ministro Edson Fachin, Primeira Turma, DJe de 19/2/2016; ARE n. 819.651-ED, relator Ministro Luiz Fux, Primeira Turma, DJe de 10/10/2014)"(ARE no RE no AgRg no HC 640.830/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 25/05/2021, DJe 27/05/2021; sem grifo no original).
+Ante o exposto, NÃO CONHEÇO dos embargos de declaração e DETERMINO a certificação dotrânsito em julgadodos aludidos acórdãos.
+À Coordenadoria dos Feitos Criminais para as providências cartorárias necessárias.
+Publique-se. Intimem-se.
