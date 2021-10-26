@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por Ivan da Luz contra a decisão de fls. 183-185 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aoacórdãode fls. 157-160 (e-STJ), prolatadopelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+CONTRATO BANCÁRIO. Ação declaratória de inexistência de débito. Inscrição em cadastros de inadimplentes. Débito existente e devidamente comprovado. Exercício regular de direito por parte do credor. Propósito do autor em alterar a verdade dos fatos. Aplicação da multa por litigância de má-fé. Cabimento. Ação improcedente. Recurso não provido, com majoração da verba honorária.
+Nas razões do recurso especial (e-STJ, fls. 163-172), alegou o insurgentea existência de violação dos arts. 43, caput, §§ 1º e 2º, e 46 do CDC; e 80, II, do CPC/2015.
+Sustentou, em síntese, que houve erro no apontamento referente ao número de contrato, o que afasta a litigância de má-fé e torna irregular a negativação.
+Contrarrazões às fls. 175-182 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não demonstração da violação aos dispositivos arrolados; e b) incidência da Súmula 7/STJ.
+Daí o presente agravo, no qual o insurgente contesta a aplicação dos óbices.
+Contraminuta às fls. 197-204 (e-STJ).
+Brevemente relatado, decido.
+Da acurada análise do acórdão recorrido, verifica-se que o Tribunal local não se manifestou sobre o alegado erro no apontamento, referente ao número de contrato, mas tão somente sobre a existência do débito que deu causa ao registro, bem como a má-fé do autor ao afirmar desconhecer a dívida.
+Veja-se àfl. 159 (e-STJ):
+O autor alegou na inicial que tomou conhecimento de que seus dados estavam inseridos nos órgãos de proteção ao crédito em razão de débito referente ao contrato n.º 0000000000037, no valor de R$ 815,87. Daí, porque desconhece completamente o referido dado contratual, pretende a exclusão das inscrições e o pagamento de indenização por danos morais. Em resposta (fls. 31/37), serenamente o réu foi contundente ao explicar a origem da negativação, sustentando que o autor contratara serviço de conta corrente. E, com efeito, trouxe o contrato firmado entre as partes, bem como os documentos pessoais do autor e os extratos comprovando ampla movimentação financeira (fls. 65/82), sem que o demandante sequer apresentasse qualquer impugnação plausível a esse respeito. Por óbvio, não há como imputar culpa ao réu, porque havendo inadimplência, como de fato havia, a negativação representou apenas exercício regular do direito do credor, não configurando nenhum ato ilícito (art. 188, I, Código Civil). Por tais razões, entendo que deve prevalecer a imposição ao autor da pena por litigância de má-fé, posto que falseou a verdade ao aduzir desconhecimento sobre a origem da dívida, conduta que precisava ser apenada, nos termos dos artigos 80, II e III, Código de Processo Civil. Restou evidente nos autos que o autor tinha conhecimento de que fez uso do crédito posto à disposição e cujo inadimplemento ensejou a inscrição do débito nos cadastros de inadimplentes. Portando, para dizer o mínimo, falaciosas as alegações de que "as informações cadastradas não são suficientes ou adequadas para distinguir a origem do débito e impede que o Autor possa ter ciência do que deu causa aos lançamentos" (fls. 04).
+Dessa forma, a tese de que existe um erro no apontamento a torná-lo ilícito e afastar a má-fé carece do necessário prequestionamento.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre atesejurídicaem torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DA CONSTITUIÇÃO. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. REVISÃO DO CÁLCULO DO PAGAMENTO POR MORTE.
+NECESSIDADE DE CUSTEIO E VIGÊNCIA DO REGULAMENTO NA DATA DO CUMPRIMENTO DOS REQUISITOS. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, alínea a, da CF/88.
+3. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 1.933.737/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 23/09/2021).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, porquanto já arbitrados no percentual máximo de 20% (vinte por cento) sobre o valor da causa.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA C/C INDENIZAÇÃO POR DANOS MORAIS. EXISTÊNCIA DE ERRO NO APONTAMENTO. FALTA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
