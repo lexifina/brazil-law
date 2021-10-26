@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto pela Fazenda Nacional, desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial com base nos seguintes fundamentos:(I)ausência de violação ao art. 1.022 do CPC; e(II)consonância do acórdão recorrido com a jurisprudência do STJ.
+Nas razões do agravo interno, a parte sustenta que:(I)"existe violação quanto ao artigo 1.022 do CPC, tendo em vista que o v. acórdão não se manifestou sobre o artigo 49,da Lei nº 11.101/05" (fl. 108); e(II)"a norma em exame dirige-se a qualquer tipo de crédito ou de credor. Seja o credor um particular ou uma pessoa jurídica de direito público, seja o crédito garantido por direito real ou não, pouco importa. O que de fato merece ser realçado é que, em sendo o crédito posterior ao pedido de recuperação judicial ele nunca poderá ser, de qualquer forma, afetado pela recuperação judicial" (fl. 110).
+Ausentes as contrarrazões ao apelo nobre e a contraminuta ao agravo.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, o fundamento de que é "pacífica a orientação jurisprudencial superior a afirmar a competência do juízo universal para deliberar sobre os atos de alienação da executada em recuperação judicial" (fl. 99).
+Com efeito, caberia àrecorrente demonstrar que o entendimento jurisprudencial atual não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que os precedentes citados não se aplicariam ao caso dos autos. Nesse sentido: AgIntno REsp 1.396.520/SP, Rel. Ministro Napoleão Nunes Maia Filho, PrimeiraTurma, DJe 13/9/2019.
+Em vez disso, a parte procedeu à mera reiteração das razões expostas em apelo nobre, sem refutar propriamente odecisumora agravado, situação que atrai a incidência da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar osEAREsp 701.404/SC e osEAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
