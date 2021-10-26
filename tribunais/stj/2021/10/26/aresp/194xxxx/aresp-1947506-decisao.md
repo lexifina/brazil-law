@@ -1,0 +1,44 @@
+DECISÃO
+Na origem, Condomínio Edifício Itapevaajuizou ação de nunciação de obra nova contra Conec Equipamentos Científicos Ltda., Marvin Daniel Ocharan Wells e Marisa Paula Peraro, objetivando a condenação dos requeridos ao desfazimento da obra realizada em área comum do condomínio, além de fazer sua reposiçãoao estado anterior. Foi concedida liminar para paralisação da obra.
+O Juízo de primeiro grau julgou extinto o processo em relação à primeira requerida e julgou procedente o pedido autoral em relação aos demais réus, tornando definitiva a liminar concedida(e-STJ, fls. 885-888).
+Interpostos recursos de apelação pela parte autora e por Marvin Daniel Ocharan Wells e Marisa Paula Peraro, a Vigésima Nona Câmara de Direito Privadodo Tribunal de Justiça de São Paulo negou provimento aos apelos, em aresto assim ementado (e-STJ, fl. 359):
+- Condomínio edilício - Ação de nunciação de obra nova e indenização material - Inexistência de conexão com ação de usucapião, que, aliás, já foi julgada - Petição inicial apta - Sentença adstrita aos limites do pedido - Interesse do autor manifesto - Ausência de causa para reintegrar a corré Conec ao polo passivo do processo.
+- Questão relativa à natureza da área ocupada pelos réus já decidida no julgamento da ação de usucapião - Tratando-se de área comum, o pedido de desocupação e demolição é procedente.
+- O autor não tem direito à indenização material, pois não provou que a ocupação indevida dos réus lhe causou prejuízo - Alegação de litigância de má-fé rejeitada - Apelos não providos.
+Opostos embargos de declaração pela parte autora, foram rejeitados (e-STJ, fls. 1.099-1.101).
+Nas razões do recurso especial, o recorrente, com fundamento naalíneaado permissivo constitucional, alegou violação aos arts. 936 do CC/1973; e 884e 1.319 do CC/2002.
+Aduziu que as perdas e danos são devidas independentemente do desfazimento da obra, bastando, para tanto, a demonstração do prejuízo sofrido e sua relação com a conduta dos recorridos.
+Defendeu ainda que, na hipótese, os agravados edificaram em área de propriedade comum aos condôminos, tolhendo o seu direito de uso, fato demonstrado por meio de fotografias acostadas aos autos, além de utilizarem essa área para exploração comercial.Pugnou, assim pelo direito à condenação equivalente ao valor de locação de área equivalente naquele Edifício à épocado ajuizamento da demanda.
+As contrarrazões não foram apresentadas - fl. 1.114 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a ausência de vulneração aos dispositivos tidos por violados, bem como pela incidência da Súmula 7 do STJ.
+Brevemente relatado, decido.
+Com efeito, o acórdão recorrido afastoua procedência do pedido indenizatóriocom base nos seguintes fundamentos (e-STJ, fls. 360-365 - sem grifos no original):
+7. A sentença, de fato, não examinou o pedido de indenização material articulado pelo autor, o que agora será suprido, sem a necessidade de anulação do julgado.
+Com efeito, o autor pediu a condenação dos réus ao pagamento de indenização material no valor de R$9.192,40, que, deacordo com o cálculo de fl. 13, equivaleria ao valor de locação mensal por metro quadrado de unidade autônoma no edifício, multiplicado pela área ocupada indevidamente pelos réus, e somado ao condomínio e o IPTU da época do ajuizamento da demanda (fl. 13).
+Ocorre que o autor não provou ter sofrido dano material com a ocupação indevida dos réus.
+O autor não aludiu à possibilidade de locar a área em litígio (com a concordância de todos os condôminos) nem à de lhe dar outra aplicação, que não seja a de "recuo destinado à insolação e iluminação, bem como à segurança" do edifício (fl. 4).
+Tal pedido, então, é improcedente.
+Havendo sucumbência das duas partes, cada uma delas arcará com metade das custas e das despesas do processo e com os honorários da parte contrária, que fixo em R$5.000,00.
+No julgamento dos embargos de declaração, o TJSP esclareceu que (e-STJ, fls. 1.100-1.101):
+Conheço dos embargos de declaração, porque são tempestivos, mas não os acolho, pois o acórdão não contém omissão, contradição ou obscuridade que devam ser supridas.
+Não houve contradição, porque, como constou do acórdão, embora os réus tenham ocupado indevidamente área comum do condomínio e lhe dado destinação econômica (fl. 1056), "o autor não provou ter sofrido dano material com a ocupação indevida" (fl. 1057, grifei).
+O acórdão esclareceu que "o autor não aludiu à possibilidade de locar a área em litígio (com a concordância de todos os condôminos) nem à de lhe dar outra aplicação, que não seja a de "recuo destinado à insolação e iluminação, bem como à segurança" do edifício" (fl. 1057).
+Por isso, o pedido indenizatório foi julgado improcedente (fl. 1057).
+O acórdão não desrespeitou o artigo 1319 do CódigoCivil, em primeiro lugar, porque a ocupação dos réus não causou danos ao condomínio (fl. 1054) e, em segundo, porque, se a área estivesse desocupada, servindo de mero recuo, não teria, de qualquer modo, gerado frutos (fl. 1057).
+Não há, então, como se vê, necessidade de suprir o que já foi decidido.
+Como se vê, da leitura dos trechos acima, observa-se que não houve debate sobre a improcedência do pedido indenizatóriodo ponto de vista da infringência aos arts. 936 do CPC/1973 e 884 do CC/2002, os quais, inclusive,nem sequer foram objeto das razões de embargos de declaração de fls. 1.095-1.097 (e-STJ), não havendo, portanto, o devido prequestionamento, o que atrai a incidência das Súmulas n. 282/STFe 211 do STF.
+Registre-se que o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. REVISIONAL DE CONTRATO BANCÁRIO. VIOLAÇÃO AOS ARTS. 337, §§ 1º E 4º, 502 E 505 DO NCPC; 14 e 51, IV, X, XIII, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AFRONTA AO ART. 39 DO CDC. FALTA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO NCPC. AFRONTA À COISA JULGADA. CONTRATO BANCÁRIO. RENOVAÇÃO AUTOMÁTICA. ILEGALIDADE. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. INTERPOSIÇÃO DE DOIS RECURSOS. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. AGRAVO PROVIDO. PRIMEIRO RECURSO NÃO PROVIDO E SEGUNDO NÃO CONHECIDO.
+ ..
+2. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitados embargos de declaração, para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI).
+ ..
+7. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do primeiro agravo, para negar provimento ao primeiro recurso especial e não conhecer do segundo agravo em recurso especial. (AgInt no AREsp 1.706.324/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/8/2021, DJe 24/9/2021)
+Além disso, dos excertos acima transcritos, observa-se que a Corte estadual, analisando detidamente o acervo fático-probatório dos autos, assentou que o agravante não comprovou o dano material almejado, uma vez que, embora os agravados tenham ocupado área comum indevidamente e lhe dado destinação econômica, essa ocupação não causou prejuízo ao condomínio, até porque, mesmo quea área estivesse desocupada, ela não teria geradofruto financeiro.
+Desse modo, observa-se que a pretensão recursal, a pretexto de violações de lei federal, busca, na verdade, o reexame do conjunto fático-probatório acostado aos autos, o que não se admite no âmbito do recurso especial, devido ao óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 100,00 (cem reais).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA. 1.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. 2. IMPROCEDÊNCIA DO PLEITO INDENIZATÓRIO. FALTA DE COMPROVAÇÃO DO PREJUÍZO. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
