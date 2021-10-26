@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por CONDOMÍNIO DO EDIFÍCIO RUA DA PASSAGEM 15 contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 220):
+Ação Indenizatória - Alegação de falha na prestação do serviço da Administradora do Condomínio - Retenção de quantia a título de multa pela rescisão contratual - Sentença de improcedência. Assembleia Geral Extraordinária convocada por apenas 2 dos 3 conselheiros - Convenção do condomínio estabelece que a assembleia poderia ser convocada pelo Conselho Consultivo - Falha na prestação do serviço - Custos referentes a essa assembleia que não podem ser descontados do condomínio autor. Previsão no contrato de que a rescisão contratual deve ser precedida de notificação de 60 dias -Parte autora que decidiu rescindir o contrato, alegando quebra na confiança, sem obedecer ao prazo contratual-Multa devida. Alegação de abusividade do valor da multa não acolhida -Irresignação demonstrada após anos de duração do contrato -Ausência de razoabilidade - Parcial provimento da Apelação.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 245-248).
+Nas razões do recurso especial (e-STJ, fls. 257-277), o recorrente apontou violação aos arts. 422 e 884 do CC; 4º, III, 51, IV, e § 1º, IV, do CDC, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a necessidade de afastamento da multa pela rescisão motivada do contrato firmado entre as partes, ante a ofensa ao princípio da boa-fé objetiva.Subsidiariamente, pleiteia a redução da multa, por se demonstrar exorbitante.
+Não foram apresentadas contrarrazões (e-STJ, fl. 365).
+Juízo de admissibilidade negativo (e-STJ, fls. 367-370).
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 224-225, sem grifo no original):
+No entanto, o Contrato de Prestação de Serviços, firmado em 01/06/2004, com prazo de 24 meses e possibilidade de renovação automática, dispõe, expressamente, que a rescisão contratual deve ser precedida de aviso prévio de 60 dias (indexador 78).
+Em relação a multa, o instrumento dispõe na cláusula 7, parágrafo primeiro: "Sendo o presente contrato ajustado por prazo determinado, qualquer das partes para rescindi-lo, antes do término estabelecido, pagará a outra, a título de indenização, o saldo referente a 50% das taxas de administração até o final do período em vigor, calculadas com base na última taxa mensal paga, valendo esta disposição, inclusive para futuras prorrogações que se operarão automaticamente ao final de cada período de 24 (vinte e quatro) meses."
+O contrato foi automaticamente renovado sucessivas vezes, sem qualquer objeção do condomínio autor quanto as suas cláusulas.
+A alegação de abusividade de cláusulas contratuais e exorbitância da multa surgiu após anos da vigência do contrato, o que não é razoável, razão pela qual deixa de ser acolhida.
+O condomínio autor decidiu rescindir o contrato, alegando quebra da confiança, mas não cumpriu o prazo de denúncia de 60 dias, o que o sujeitou ao pagamento da multa contratual, inexistindo ilegalidade no atuar da Administradora ré.
+Logo, correta a Sentença que não merece reforma nesse ponto
+Em relação aos fundamentos do acórdão referentes à ausência de abusividade da multa contratual mantida ao longo de anos, observa-se que o acolhimento da pretensão recursal não pode se dar sem revisão de fatos e provas e nova análise do próprio contrato, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO DE COMPRA E VENDA DE IMÓVEL C/C RESTITUIÇÃO DAS QUANTIAS PAGAS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS.1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULA Nº 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS.INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia
+5. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático probatório da demanda, o que faz incidir as Súmulas nºs 5 e 7, ambas do STJ.
+6. Agravo interno não provido.
+(AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1742727 - DF, Relator Ministro MOURA RIBEIRO, DJe de 19/8/2021)
+Por fim, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas. Isso porque as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor da advogadada parte recorrida em 2% (dois por cento)sobre o valor da causa.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR ENRIQUECIMENTO SEM CAUSA. MULTA CONTRATUAL POR RESCISÃO DO CONTRATO. PRAZO CONTRATUAL NÃO OBSERVADO. ABUSIVIDADE AFASTADA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. ÓBICES DAS SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
