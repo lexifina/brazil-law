@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JONAS URBANO DA SILVA contra decisão de minha lavra assim ementada (fl. 156):
+"HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE LIVRAMENTO CONDICIONAL. MAU COMPORTAMENTO CARCERÁRIO. FALTA GRAVE. FUGA. AUSÊNCIA DE REQUISITO SUBJETIVO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA."
+Consta dos autos que o ora Agravante cumpre pena de 14 (catorze) anos de reclusão pela prática do crime de homicídio qualificado, com término previsto para 14/08/2024.
+Em 11/01/2021, o Juízo das Execuções Criminais deferiu o benefício do livramento condicional ao Reeducando.
+O Tribunal de origem, em 15/03/2021, deu provimento ao agravo de execução interposto pelo Ministério Público estadual, para cassar o benefício deferido.
+Nas razões do writ, alegou-se, em suma, que o ora Agravante preenche todos os requisitos para o livramento condicional. Ressaltou-se que o exame criminológico foi favorável ao deferimento do beneficio.
+Na decisão de fls. 156-159, deneguei a ordem de habeas corpus.
+Daí o presente regimental, por meio do qual o Agravante sustenta que a decisão, por mim proferida, viola frontalmente o teor da Súmula n. 441 do Superior Tribunal de Justiça, "já que manteve a cassação do LC com base em falta depurada, mesmo após o resgate do lapso e da superveniência de laudo criminológico favorável" (fl. 167).
+Pede, desse modo, o provimento do agravo regimental para que seja restabelecido o livramento condicional, sem prejuízo de nova suspensão em caso de constatação de falta superveniente.
+É o relatório.
+Decido.
+Diante das razões do agravo regimental, impõe-se o reexame da matéria aduzida no mandamus.
+Com efeito, o Tribunal estadual cassou o benefício do livramento condicional do Paciente à base da seguinte motivação (fls. 93-94):
+"Todavia, embora Jonas tenha resgatado lapso temporal necessário, bem como apresente boa conduta carcerária e tenha obtido parecer favorável em exame criminológico, não se pode ignorar seu histórico prisional conturbado. Com efeito, o agravado já foi promovido à modalidade carcerária intermediária por duas vezes, porém, em ambas as oportunidades, ele não se adequou ao sistema reeducacional proposto e quebrou a confiança que lhe foi depositada pela Justiça ao abandonar o cumprimento da pena, sendo que a última fuga ocorreu em data não tão distante, aos 13.3.2017, vindo a ser recapturado somente mais de um ano depois, no dia 20.7.2018, de modo a revelar que é prematura a sua libertação, já que, aparentemente, prefere viver na clandestinidade, burlando o processo de ressocialização.
+Assim e tendo em conta que o sentenciado estava cumprindo pena em regime fechado, revela-se temerária a sua reinserção integral na sociedade sem antes demonstrar, de forma gradativa, em modalidade carcerária menos rigorosa, que está assimilando a terapêutica penal e que sua personalidade delitiva está devidamente recuperada.
+Frente a este cenário, por ora, não era caso de se conceder a liberdade condicionada ao recorrido, impondo-se a reforma da decisão, com retorno do liberado ao regime fechado.
+Diante do exposto, dá-se provimento ao recurso para cassar o livramento condicional do sentenciado, retornando-o ao regime fechado."
+Observo que a Corte de origemressaltou a existência defaltagraveperpetradaem 13/03/2017, e reabilitada em 20/07/2019. Desde então, o boletim informativo não dá conta de nenhuma outra infração disciplinar recente pelo Agravante,a sua conduta carcerária estáatualmente classificada como boa pela Secretaria de AdministraçãoPenitenciária e a avaliação do psicólogo e assistente social é favorável à concessão do livramento condicional.
+Essas circunstâncias demonstram a procedência do pleito formulado no presente agravo regimental.
+De fato, o entendimento vigente neste Tribunal Superior é no sentido denão ser possível atribuir efeitos eternos às faltas graves praticadas naexecução penal, o que constituiria ofensa ao princípio da razoabilidade eao caráter ressocializador da pena.
+Exemplificativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTOCONDICIONAL. REQUISITO SUBJETIVO. FALTA GRAVE OCORRIDA HÁ MAIS DE 12MESES. INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA. ART. 4º, I E IV, DODECRETO PRESIDENCIAL 9.246/2017. LEI N. 13.964/2019. PACOTE ANTICRIME.NOVA REDAÇÃO DO ART. 83, III, DO CÓDIGO PENAL. REABILITAÇÃO DO APENADO.CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. "Não há falar em desconsideração total do histórico carcerário dopreso, mas sim em sua análise em consonância com os princípios darazoabilidade, proporcionalidade e individualização da pena, que regem nãosó a condenação, como a execução criminal" (AgRg no HC n. 549.649/SC,relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/6/2020, DJe8/6/2020). Precedentes.
+2. "Conforme entendimento jurisprudencial e a novel legislação, não épossível atribuir efeitos eternos às faltas graves praticadas peloapenado, o que constituiria ofensa ao princípio da razoabilidade e aocaráter ressocializador da pena". (HC n. 592.587/SP, relatora MinistraLAURITA VAZ, SEXTA TURMA, julgado em 18/8/2020, DJe 2/9/2020).Precedentes.
+3. No caso, pretendia o Parquet que fossem novamente sopesadas, a fim deobstar a concessão do livramento condicional, faltasgraves jáconsideradas reabilitadas em decisão anterior em que o Juízo de execuçãoconcedeu a progressão de regime, entendendo acertadamente o Tribunal deorigem pela necessidade de aferição do requisito subjetivo (art. 83, II,a, do CP) a partir de momento posterior à mencionada decisão concessiva.
+4. Agravo regimental improvido." (AgRg no REsp 1.921.742/DF, Rel. MinistroANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/06/2021, DJe29/06/2021.)
+Friso, por oportuno, que a decisão do Juízo singular ressaltou que, "em que pese a gravidade do crime praticado, o sentenciado reúne méritos para a concessão do benefício pleiteado.Revelando o sentenciado condições pessoais que fazem presumir sua adaptação ao Livramento Condicional e ante o que consta dos autos, não há como evitar o almejado pleito" (fl. 43).
+Assim, repito, sem oregistro da prática de falta disciplinarrecente pelo Agravante ea sua conduta carcerária está atualmenteclassificada como boa pela Secretaria de Administração Penitenciária, é inidônea a negativa do livramento condicional.
+Ante o exposto, RECONSIDERO a decisão de fls. 156-159. CONCEDO a ordem de habeas corpus para restabelecer o decisum do Juízo das Execuções, que deferiu olivramento condicional aoPaciente.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. AUSÊNCIA DE CONTEMPORANEIDADE DA FALTA GRAVE. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. ORDEM CONCEDIDA.
