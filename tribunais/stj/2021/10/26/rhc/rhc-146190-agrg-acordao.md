@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porEDGLY DUTRA BARBOSAcontra a decisão monocrática que negou provimento ao recurso emhabeas corpus, conforme esta ementa (fl. 167):
+RECURSO EM HABEAS CORPUS. CINCO HOMICÍDIOS QUALIFICADOS COMETIDOS NO BOJO DE ORGANIZAÇÃO CRIMINOSA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. SÚMULA 64/STJ. PARECER ACOLHIDO.
+Recurso improvido com recomendação.
+Pretende o agravante, em síntese, a reforma da decisão objurgada, argumentando(fl. 180):
+Não podemos aceitar que os autos originários fiquem estagnados por quase hum ano e meio, desde a apresentação da Defesa Preliminar (Janeiro/2020), sem que seja sequer designada data para o início da instrução, inclusive contando somente com o Agravante com sua liberdade cerceada, uma vez que o juízo de piso REVOGOU a prisão das corrés FERNANDA DE ANDRADE RABELO e ANA KAROLINA DE SOUSA XAVIER, por meio de decisões proferidas nos autos do processo nº 0025730-07.2019.8.06.0001 (fls.249/251) e processo nº 0011528-88.2020.8.06.0001 (fls. 33/36).
+Além disso, aduz que, desde o início a Defesa Técnica vem tentando demonstrar a precipitação do decreto preventivo, bem como o patente excesso de prazo na tramitação do processo, não tendo o agravante e muito menos sua defesa contribuído para tal demora(fl. 179).
+Intimado eletronicamente, o Ministério Público doCeará apresentou resposta ao agravo regimental, sustentando que (fl. 197):
+(..) a audiência de instrução foi agendada para o vindouro dia 1º de setembro (cf. despacho de fls. 453, Processo n.º 0136123-96.2019.8.06.0001), em observância, portanto, a recomendação para conferir ainda mais celeridade ao andamento processual, o que afasta qualquer suposição de desídia do Juízo da causa.
+Com efeito, em casos semelhantes, "é uníssona a jurisprudência desta Corte  STJ  no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal" (STJ, 6ª t., AgRg no ROHC 134846/RS, Rel. Des. Conv. Olindo Menezes, j. 15.6.2021, DJe 18.6.2021). Isto porque "inexiste excesso de prazo nas hipóteses em que a causa é complexa e não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário" (STJ, 5ª t., AgRg no ROHC 133370/SP, Rel. Min. João Otávio de Noronha, j. 8.6.2021, DJe 10.6.2021).
+O Ministério Público Federal manifestou-se conforme este resumo (fl. 204):
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CINCO HOMICÍDIOS QUALIFICADOS COMETIDOS NO BOJO DE ORGANIZAÇÃO CRIMINOSA.EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA.INOCORRÊNCIA. FEITO COMPLEXO. RITO ESCALONADO DO TRIBUNAL DO JÚRI. PLURALIDADE DE RÉUS (QUATRO), ASSISTIDOS POR ADVOGADOS DISTINTOS. MÚLTIPLOS CRIMES. NECESSIDADE DE REALIZAÇÃO DE DILIGÊNCIAS (CARTAS PRECATÓRIAS). COLABORAÇÃO DA DEFESA.RECORRENTE QUE PERMANECEU FORAGIDO POR MAIS DE CINCO MESES, OCASIONANDO SUA CITAÇÃO POR EDITAL. ENUNCIADO DA SÚMULA 64/STJ.INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.AGRAVO DESPROVIDO.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS IMPROVIDO. CINCO HOMICÍDIOS QUALIFICADOS COMETIDOS NO BOJO DE ORGANIZAÇÃO CRIMINOSA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA ENCERRAMENTO DO JUDICIUM ACCUSATIONIS. COMPLEXIDADE DO FEITO. PLURALIDADE DE RÉUS. ADVOGADOS DISTINTOS. RECORRENTE PERMANECEU FORAGIDO. FUGA DO ESTABELECIMENTO PENAL. CITAÇÃO POR EDITAL. EXPEDIÇÃO DE CARTAS PRECATÓRIAS. AUSÊNCIA DE DESÍDIA DO PODER ESTATAL. DUAS CORRÉS CUMPRINDO MEDIDAS CAUTELARES ALTERNATIVAS. SITUAÇÃO DISTINTA. PERICULOSIDADE CONCRETA DO RECORRENTE.
+Agravo regimental improvido.
+VOTO
+O agravo regimental não merece prosperar, porquanto o agravante não conseguiu infirmar os fundamentos adotados na decisão de fls. 145/146, sobretudo no que diz respeito à colaboração do recorrente para a apontada demora na instrução criminal e à complexidade do caso a justificar eventual demora no encerramento dessa fase do processo de competência do Tribunal do Júri.
+Quanto à situação das corrésFernanda de Andrade Rabelo eAna Karolina de Sousa Xavier não estarem presas, mas cumprindo medidas cautelares alternativas, vale lembrar o que o expôs o Tribunal estadual (fls. 106/108):
+ ..  existem graves indícios de que Edgly Dutra Barbosa é pessoa de alta periculosidade, integrante da facção criminosa GDE, bem como é supostamente autor direto e indireto de uma série de homicídios e outros crimes perpetrados, o que impede sua soltura, diante da necessidade de garantia da ordem pública.
+ ..
+É que, em pesquisa ao sistema de Consulta de Antecedentes Criminais Unificada (CANCUN), verifica-se que o paciente possui outros processos contra si, a saber:
+  Processo n º 0042288-70.2014.8.06.0117 - 2ª Vara Criminal da Comarca de Maracanaú/CE - Associação para a Produção e Tráfico e Condutas Afins;
+  Processo n º 0000931-26.2018.8.06.0035 - Vara de Delitos de Organizações Criminosas - sentença condenatória pelo cometimento dos crimes previstos no art. 2 "caput" § 2º da Lei 12850/2013 e art. 33 "caput" da SISNAD;
+  Processo nº 0025415-62.2008.8.06.0001 - 9ª Vara Criminal (SEJUD 1º Grau) Fortaleza Latrocínio;
+  Processo n º 0015110-96.2017.8.06.0035 - Vara Única Criminal de Aracati/CE - sentença condenatória pelo cometimento dos crimes incursos no art. 304 "caput" e art. 297 "caput" e Art. 333 "caput" todos do CP;
+  Processo n º 0025731-89.2019.8.06.0001 - 4ª Vara do Júri Fortaleza - Homicídio Qualificado;
+  Processo n º 0273387-24.2020.8.06.0001 - Vara de Delitos de Organizações Criminosas Fortaleza - Crimes previstos na Lei da Organização Criminosa.
+O Juízo a quo não tem se mostrado inerte num feito que conta com cinco réus, com advogados distintos, em que houve necessidade de expedição e cobrança de diversas cartas precatórias e até a citação por edital do ora recorrente. Além disso, em observância à recomendação para conferir ainda mais celeridade ao andamento processual, o Magistrado de piso agendou audiência de instrução na origem e vem dando o impulso necessário para o regular processamento do feito.
+Afora isso, não há como fechar os olhos para a atual situação de pandemia da Covid-19,que causou inúmerostranstornos ante a emergência sanitária, como a suspensão dos prazos processuais e das atividades presenciais, exigindo adaptações por parte do Poder Judiciário para a continuidade da prestação de seus serviços.
+Nego provimento ao agravo regimental.
