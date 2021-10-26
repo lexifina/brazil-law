@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, compedido liminar, impetrado em favor deFERNANDES CARVALHOcontra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul na Apelação Criminal n.0000929-46.2018.8.12.0049.
+Consta nos autos que o Paciente foi condenado, em primeiro grau de jurisdição, comoincurso no art. 121, § 1.º, do Código Penal, àpenade 5 (cinco) anos de reclusão (fls. 370-379).O Sentenciado interpôs recurso de apelação, que foi desprovido pela Corte local (fls. 471-475).
+Nas razões deste habeas corpus, sustenta-se que a causa de diminuição de pena prevista no § 1.º do art. 121 do Código Penaldeve incidir na fração máxima de 1/3 (um terço), pois não houve fundamentação idônea para a aplicação de patamar menos favorável ao Paciente.
+Pleiteia-se, no mérito, a retificação da pena.
+O pedido liminar foi indeferido pelo Ministro JOÃO OTÁVIO DE NORONHA, no exercício da Presidência desta Corte Superior (fls. 484-485).
+Informações prestadas às fls. 488-500.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 509-514).
+É o relatório. Decido.
+O art. 121, § 1.º, do Código Penal preceitua que, no crime de homicídio, a pena poderá ser reduzida de 1/6 (um sexto) a 1/3 (um terço) quando o delito for praticado por motivo de relevante valor social ou moral, ou sob o domínio de violenta emoção, logo em seguida à injusta provocação da vítima. Portanto, compete às instâncias ordinárias, com amparo nas provas dos autos, aferir concretamente a relevância dos motivos que ensejaram a prática do crime, o grau de domínio exercido pela violenta emoção e/ou a extensão da injusta provocação da vítima, para determinar, de maneira fundamentada, a fração de redução que deve ser aplicada.
+No caso, o Tribunal local mantevea aplicação da causa de diminuição de pena na fração mínima de 1/6 (um sexto), sob o fundamento de que "o móvel da alteração emocional do apelante foi a não aceitação de término de relacionamento, ou seja, a causa propulsora é de menor importância, relevando-se, portanto, desproporcional a reação do condenado que desferiu quatro facadas contra a vítima" (fl. 473).
+Nesse contexto, ante a fundamentação concreta apresentada pelainstânciaa quo, não se verifica ilegalidade a ser sanada, sendo certo que maiores incursões acerca da fração de redução, na hipótese em apreço, exigiriam reexame fático-probatório, o que não é possível nos limitesestreitos do habeas corpus.Sobre o tema, confiram-se:
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA. CONFISSÃO QUALIFICADA. REDUÇÃO INFERIOR A 1/6. POSSIBILIDADE. HOMICÍDIO PRIVILEGIADO. QUANTUM DE ATENUAÇÃO DA PENA MOTIVADO. MAIORES INCURSÕES SOBRE O TEMA QUE DEMANDARIAM REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+ ..
+3. Quanto ao redutor pelo privilégio, a Corte de origem reconheceu que as agressões se deram em momento posterior ao desentendimento entre a vítima e o sobrinho do réu, que ocorreu antes da violência física, sendo certo que os ânimos haviam sido serenados no momento do crime, o que justifica o abrandamento no patamar mínimo previsto legalmente, qual seja, 1/6.
+4. A escolha do quantum de redução da pena deve ser aferida com fundamento nas circunstâncias fáticas que levaram ao reconhecimento do homicídio privilegiado, especialmente "o grau emotivo do réu, além da intensidade da injusta provocação realizada pela vítima." (REsp 1.475.451/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/3/2017, DJe 29/3/2017).
+5. No caso, maiores incursões acerca do tema demandariam revolvimento fático-probatório dos autos, providência que não se coaduna com a via do writ.
+6. Agravo regimental desprovido." (AgRg no HC 629.152/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021, sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO PRIVILEGIADO. FRAÇÃO MÍNIMA DECORRENTE DA CAUSA DE DIMINUIÇÃO DE PENA DO § 1º DO ART. 121 DO CP. MOTIVAÇÃO SUFICIENTE. FRAÇÃO DA TENTATIVA. ANÁLISE DO ITER CRIMINIS. IMPOSSIBILIDADE. SÚMULA N.7/STJ.
+1. A fração mínima de redução decorrente do homicídio privilegiado revela-se proporcional e concretamente motivada no acórdão recorrido, segundo o qual a reação do agravante, ainda que fundada em motivo de relevante valor moral, foi excessiva em face da intensidade da provocação injusta da vítima, haja vista que efetuou mais de um golpe de faca, além de surpreendê-la pelas costas e em região de alta letalidade. Consta que o ofendido é ex-companheiro da mulher com quem o réu convive maritalmente e constantemente importunava o casal.
+2. A alteração da fração correspondente à tentativa, exigiria o reexame do iter criminis percorrido pelo agente, o que é vedado em recurso especial, diante da Súmula n.7/STJ.
+3. Agravo regimental desprovido."(AgRg no AREsp 1.193.167/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/02/2018, DJe 02/03/2018; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO PRIVILEGIADO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. FRAÇÃO DE REDUÇÃO. DESPROPORCIONALIDADE DA REAÇÃO. FUNDAMENTAÇÃO CONCRETA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ORDEM DENEGADA.
