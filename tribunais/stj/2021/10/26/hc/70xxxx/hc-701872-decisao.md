@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Bruno Barreiro da Silva, apontando-se como autoridade coatora o TRI BUNAL DE JUSTIÇA DO PARÁ, que deu parcial provimento à Apelação n. 2012.3.013.102-5 apenas para redimensionar a pena, nos termos da s eguinte ementa (fl. 13):
+EMENTA APELAÇÃO PENAL. ART. 121, § 2º, II, DO CPB (HOMICÍDIO QUALIFICADO POR MOTIVO FÚTIL). TRIBUNAL DO JÚRI. SENTENÇA PENAL CONDENATÓRIA. INCONFORMIDADE DEFENSIVA. APELAÇÃO DO RÉU BRUNO BARREIROS DA SILVA. PEDIDO DE REDUÇÃO DA PENA EM 1/3 POR SE TRATAR DE HOMICÍDIO PRIVILEGIADO, NOS MOLDES DO ART. 121, §1º, DO CP (VIOLENTA EMOÇÃO APÓS INJUSTA PROVOCAÇÃO DA VÍTIMA). IMPOSSIBILIDADE. EXISTÊNCIA DA QUALIFICADORA DO MOTIVO FÚTIL QUE EXCLUI TAL PRIVILÉGIO LEGAL. IMPUGNAÇÃO DA PENA BASE APLICADA. PROCEDÊNCIA. PENA APLICADA SEM MODERAÇÃO, UMA VEZ QUE, NÃO FORA FEITA DE FORMA ESCORREITA A ANÁLISE DO ART. 59 DO CP QUE AUTORIZA O REDIMENSIONAMENTO DA PENA-BASE PASSANDO A FICAR DEFINITIVAMENTE EM 26 (VINTE E SEIS) ANOS DE RECLUSÃO EM REGIME FECHADO. APELAÇÃO DO RÉU RODRIGO JEFFERSON BARREIROS CORDOVIL. PEDIDO DE ABSOLVIÇÃO POR FALTA DE PROVAS. IMPOSSIBILIDADE. EXISTÊNCIA DE PROVAS DE AUTORIA E MATERIALIDADE QUE EMBASARAM A CONDENAÇÃO DO RÉU. IMPUGNAÇÃO DA PENA BASE APLICADA. PROCEDÊNCIA. PENA APLICADA SEM MODERAÇÃO, UMA VEZ QUE, NÃO FORA FEITA DE FORMA ESCORREITA A ANÁLISE DO ART. 59 DO CP QUE AUTORIZA O REDIMENSIONAMENTO DA PENA-BASE PASSANDO A FICAR DEFINITIVAMENTE EM 15 (QUINZE) ANOS DE RECLUSÃO EM REGIME FECHADO. RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS APENAS PARA REDIMENSIONAR AS PENAS DEFINITIVAMENTE: DO APELANTE BRUNO BARREIROS DA SILVA PARA 26 (VINTE E SEIS) DE RECLUSÃO EM REGIME INICIAL FECHADO, NOS MOLDES DO ART 33, §2º, A, DO CP, E DO APELANTE RODRIGO JEFFERSON BARREIROS RODRIGUES CORDOVIL PARA 15 (QUINZE) DE RECLUSÃO EM REGIME INICIAL FECHADO, NOS MOLDES DO ART. 33, §2º, A, DO CP, MANTENDO-SE A SENTENÇA EM SEUS DEMAIS TERMOS.
+Consta dos autos que o paciente foi condenado à pena de 26 anos de reclusão, no regime inicial fechado, por infração ao art. 121, § 1º, do Código Penal.
+Requer-se seja fixada a pena-base no mínimo legal, afastando o motivo fútil, uma vez que se trata de elementar do tipo.
+É o relatório.
+Ao acessar o sítio eletrônico no Tribunal de Justiça do Pará, verifiquei que a sentença condenatória transitou em julgado em 16/12/2013.
+Nesse caso, o presente writ é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR. Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019).
+ ..  1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.  ..
+(HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO. DOSIMETRIA. PENA-BASE. SUCEDÂNEO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO.
+Habeas corpus não conhecido.
