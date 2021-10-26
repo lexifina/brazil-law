@@ -1,0 +1,51 @@
+DECISÃO
+FREEMAN PARTICIPAÇÕES E IMÓVEIS LTDA. e COMERCIAL EMPREENDIMENTO IMOBILIÁRIO SPE (FREEMAN e COMERCIAL EMPREENDIMENTO) ajuizaram ação declaratória de nulidade de cláusulas e revisão de contratos, cumulada com repetição de indébito, com pedido de tutela de urgência contra ITAU UNIBANCO S.A. (ITAÚ), alegaram serem indevidas as comissões e tarifas cobradas.
+A sentença julgou improcedentes os pedidos formulados. FREEMAN e COMERCIAL EMPREENDIMENTO foram condenados ao pagamento das custas processuais e de honorários advocatícios fixados em 10% sobre o valor atualizado da causa.
+O TJSP deu parcial provimento ao recurso interposto por FREEMAN e COMERCIAL EMPREENDIMENTO em acórdão da relatoria do Desembargador AFONSO BRAZ assim ementado:
+REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. Cerceamento de defesa. Sendo de direito e não de fato a matéria deduzida, desnecessária a realização de prova técnica. CDC. Crédito adquirido para fomento da atividade comercial. Inexistência de relação de consumo. Contrato de adesão. O simples fato de o contrato ser por adesão não o torna nulo ou abusivo, nem afasta a vontade do aderente, que pôde escolher entre pactuar ou não o negócio. Juros. Instituições financeiras que não estão sujeitas à limitação de juros remuneratórios. Capitalização. Possibilidade da capitalização de juros na cédula de crédito bancário, nos termos do art. 28, §1º, I, da Lei 10.931/2004. Comissão de permanência. Legalidade da cobrança limitada à taxa dos juros remuneratórios pactuada. Impossibilidade de cumulação com demais encargos moratórios, devem ser excluídos. Seguro. Cobrança não demonstrada. Sentença parcialmente reformada. RECURSO PARCIALMENTE PROVIDO (e-STJ, fl. 1.573)
+Os embargos de declaração opostos porFREEMAN e COMERCIAL EMPREENDIMENTO foram acolhidos para corrigir o erro material em relação a distribuição dos ônus sucumbenciais.
+Irresignados, FREEMAN e COMERCIAL EMPREENDIMENTO interpuseram recurso especial, com fundamento no art. 105, III, alíneas a e c, da CF, alegando que o Tribunal de origem interpretou de forma diversa os arts. 86, 355, I, e 1.022, do NCPC. Sustentaram, em síntese, que (1) há omissão no acórdão recorrido pois o Tribunal não se manifestou sobre a distribuição proporcional dos ônus sucumbenciais, sobre o pedido de restituição do indébito em dobro e sobrevariação da taxa de juros a critério exclusivo do banco, sem nenhum respaldo contratual e sem a indicação, nos extratos, da taxa efetivamente aplicada; (2) apontam cerceamento de defesa, diante da necessidade da produção de prova requerida; e (3) deve ser feita a distribuição proporcional dos ônus sucumbenciais.
+O apelo nobre não foi admitido, sob o fundamento de incidência da Súmula nº 7 do STJ e ausência de omissão no aresto recorrido.
+FREEMAN e COMERCIAL EMPREENDIMENTO então manejaram agravo em recurso especial, discorrendo sobre a omissão quanto aos pontos relevantes para o deslinde da matéria recursal e refutando a incidência da Súmula nº 7 do STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada violação do art. 1.022, II, do NCPC.
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+(2) Do cerceamento de defesa.
+Nas razões do presente recurso, FREEMAN e COMERCIAL EMPREENDIMENTO apontaram cerceamento de defesa, diante da necessidade da produção de prova requerida.
+Todavia, não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção de provas pretendidas pela parte, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA.  .. .  ..  2. Não há cerceamento de defesa pelo julgamento antecipado da lide que, de forma fundamentada, resolve a causa sem a produção da prova requerida pela parte em virtude da suficiência dos documentos dos autos.  ..  7. Agravo interno não provido. (AgInt no REsp 1.863.135/RS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 17/8/2021 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  .. . CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA.  .. . AGRAVO INTERNO NÃO PROVIDO. 1. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova requerida pela parte, quando devidamente demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído.  ..  4. Agravo interno não provido. (AgInt no AREsp 1.749.748/SP, Rel. Min. RAUL ARAÚJO, Quarta Turma, DJe 5/8/2021 - sem destaque no original)
+Portanto, escorreito o entendimento do Tribunal paulista ao asseverar que
+Inicialmente, no caso não se faz necessária a realização de prova técnica, visto que as questões levantadas são de direito e se referem apenas a interpretação de disposições legislativas e jurisprudenciais, em confronto com o pacto firmado. Portanto, inexiste cerceamento de defesa diante do julgamento antecipado da lide (e-STJ, fl. 1.574).
+Além do mais, qualquer outra análise acerca da necessidade da produção de prova, da forma como trazida no apelo nobre, esbarraria no reexame fáticoprobatório, o que é inviável nesta via, por força do óbice da Súmula nº 7 do STJ.
+(3) Da sucumbência recíproca.
+O Superior Tribunal de Justiça tem jurisprudência firme no sentido de não se admitir, em sede de recurso especial, a aferição do quantitativo em que autor e réu saíram vencidos na demanda ou a verificação de sucumbência mínima ou recíproca para efeito de fixação de honorários advocatícios. Tais questões não prescindem do revolvimento de matéria fático-probatória. Incidência da Súmula nº 7, do STJ.
+A propósito, confira-se os acórdãos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA CUMULADA COM INDENIZATÓRIA. 1. VIOLAÇÃO A DISPOSITIVO DA CONSTITUIÇÃO. IMPOSSIBILIDADE. 2. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. CONDENAÇÃO AO PAGAMENTO DE LUCROS CESSANTES. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 4. QUANTUM INDENIZATÓRIO. OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. SÚMULA 7/STJ. 5. DISTRIBUIÇÃO DOS HONORÁRIOS. SUCUMBÊNCIA RECÍPROCA. REVISÃO. ÓBICE DA SÚMULA 7/STJ. 6. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 7. AGRAVO IMPROVIDO.
+1.  .. .
+2.  .. .
+3.  .. .
+4.  .. .
+5. De acordo com a jurisprudência do STJ, a aferição do percentual em que cada litigante foi vencedor ou vencido, ou a conclusão pela existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicandose à hipótese o enunciado sumular n. 7/STJ.
+6. A aplicação do enunciado n. 7 da Súmula do STJ à insurgência fulcrada na alínea a do permissivo constitucional também impede o conhecimento do recurso baseado na divergência jurisprudencial, porquanto as conclusões dissonantes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão jurídica.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.378.591/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 9/12/2019, DJe 12/12/2019 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DAS DEMANDADAS.
+1.  .. .
+2.  .. .
+2.1.  .. .
+3. Segundo a jurisprudência desta Corte, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ.
+4. Revela-se defesa a oposição simultânea de dois recursos contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e a ocorrência da preclusão consumativa, o que demanda o não conhecimento da segunda insurgência.
+5. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido por violação ao princípio da unirrecorribilidade recursal e ocorrência da preclusão consumativa.
+(AgInt no AREsp 866.420/MS, Rel. Ministro MARCO BUZZI, Quarta Turma, j. em 20/2/2020, DJe 3/3/2020 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor do FREEMAN e COMERCIAL EMPREENDIMENTO, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. VIOLAÇÃO DO ART. 1.022, DO NCPC QUE NÃO SE VERIFICA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA.SUCUMBÊNCIA RECÍPROCA. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
