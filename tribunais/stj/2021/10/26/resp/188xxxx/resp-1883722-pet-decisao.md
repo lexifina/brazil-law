@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de petição apresentada pela ORDEM DOS ADVOGADOS DO BRASIL CONSELHO FEDERAL, a fls. 418/428, requerendo a sua admissão no presente feito, na qualidade de amicus curiae.
+Alega, em síntese, que "A situação inspira cautela e reflexão, sobretudo pelo fato de discutir sobre honorários advocatícios-parcela remuneratória de natureza alimentar (Súmula Vinculante 472) devida aos advogados em contraprestação aos serviços prestados com êxito em demanda judicial. Como se vê, é muito relevante a matéria de modo a justificar a admissão do Conselho Federal da OAB no feito, notadamente em razão da sua finalidade institucional".
+Considerando a relevância do tema controvertido, a representatividade do ora requerente, assim como a pertinência com a questão a ser debatida, admito a ORDEM DOS ADVOGADOS DO BRASIL CONSELHO FEDERAL na qualidade de amicus curiae, conforme o art. 138 do CPC/2015, e concedo-lhe o prazo de 15 (quinze) dias, para manifestação escrita. Após, com ou sem manifestação, dê-se vista ao Ministério Público Federal (art. 1.038, III e § 1º, do CPC/2015), para manifestação, em 15 (quinze) dias.
+Encaminhem-se os autos à Coordenadoria da Primeira Seção, para as providências de praxe.
+Publique-se.
