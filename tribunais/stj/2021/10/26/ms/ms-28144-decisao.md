@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de mandado de segurança interposto por FLÁVIO AUGUSTO MOREIRA LIRA em face de decisão singular prolatada no âmbito desta Corte Superior pela Vice-Presidente Ministro Jorge Mussi no julgamento do AREsp 1.839.827/SP.
+Alega, em síntese, que as "menções e determinações são totalmente dissociadas pela própria forma procedimental contraditórias e inconsistentes com o deslinde do feito, de modo a ceifar abruptamente o exercício da ampla defesa e do contraditório. Invoca-se, ainda, a Autoridade Coatora posicionamento sumulado desse Tribunal da Cidadania onde determina o descabimento do reclamo extraordinário com o término das vias ordinárias, todavia, denota-se que o novel ordenamento jurídico que determinou o abolitio criminis referido é a posterior, o que torna perfeitamente viável e dentro da legislação a proposta do extraordinário nesse tempo." (fl. 11).
+Defende a presença dos requisitos autorizadores do pedido liminar, essencialmente a plausibilidade do direito invocado e o risco de dano jurídico irreversível.
+Requer a "concessão de liminar inaudita altera pars para o fim de determinar a suspensão do feito originário, sob o n.º 0000533- 38.2017.8.26.0559, em tramite na Segunda Vara Judicial da Comarca de Mirassol, Estado de São Paulo, e, ainda, lhe seja restituído o direito de petição nos autos perante o Superior Tribunal de Justiça, inclusive, com reconsideração quanto ao recebimento do recurso extraordinário opostos, e, como também, a restituição do prazo recursal para interposição dos demais e eventuais recursos possíveis" (fl. 16) e, ao final, a concessão da segurança para cassar a decisão impugnada.
+É o relatório. Decido.
+Preliminarmente, deve ser consignado que incide o Enunciado Administrativo n. 4/STJ: Nos feitos de competência civil originária e recursal do STJ, os atos processuais que vierem a ser praticados por julgadores, partes, Ministério Público, procuradores, serventuários e auxiliares da Justiça a partir de 18 de março de 2016, deverão observar os novos procedimentos trazidos pelo CPC/2015, sem prejuízo do disposto em legislação processual especial.
+Efetivamente, em face do art. 5º, II, da Lei 12.016/2009, é pacífico o entendimento doutrinário e jurisprudencial no sentido de que a impetração de mandado de segurança contra ato judicial somente é admitida em hipóteses excepcionais, tais como decisões de natureza teratológica, de manifesta ilegalidade ou abuso de poder, e capazes de produzir danos irreparáveis ou de difícil reparação à parte impetrante.
+Nesse sentido, a orientação deste Tribunal Superior:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. DECISÃO DA CORTE ESPECIAL QUE RECONHECEU A INTEMPESTIVIDADE DO AGRAVO REGIMENTAL. AUSÊNCIA DE TERATOLOGIA, ABUSO OU MANIFESTA ILEGALIDADE. NÃO CABIMENTO DE MANDADO DE SEGURANÇA. AGRAVO INTERNO IMPROVIDO.
+I - O presente feito decorre de mandado de segurança impetrado em desfavor de acórdão proferido pela Corte Especial, que considerou intempestivo o recurso de agravo regimental interposto no recurso extraordinário no agravo regimental no agravo no recurso especial. No Superior Tribunal de Justiça, o mandado de segurança foi indeferido liminarmente.
+II - O mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais se pode verificar, de plano, ato judicial eivado de flagrante ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo. Nesse sentido: MS n. 21.463/SP, Rel. Ministro Raul Araújo, Rel. p/ Acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/8/2015, DJe 18/11/2015 e AgInt no MS n.
+24.304/RJ, Rel. Ministro Og Fernandes, Corte Especial, julgado em 11/12/2018, DJe 1º/2/2019.
+III - O acórdão impugnado não pode ser considerado, de forma alguma, teratológico, abusivo ou manifestamente ilegal, uma vez que se utilizaram como fundamentos precedentes do próprio Superior Tribunal de Justiça no sentido de que o prazo para interposição do agravo interno em matéria penal é o previsto no art. 39 da Lei n. 8.038/90, isto é, de 5 dias. Desse modo, não há falar em teratologia tampouco ilegalidade a justificar o manejo do mandamus.
+IV - Agravo interno improvido.
+(AgRg no MS 25.084/MG, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 21/08/2019, DJe 27/08/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA DECISÃO JUDICIAL. INEXISTÊNCIA DE TERATOLOGIA OU MANIFESTA ILEGALIDADE. DESCABIMENTO DO MANDAMUS. PRECEDENTES.
+1. "O mandado de segurança impetrado contra ato jurisdicional é medida excepcional, somente cabível em casos de flagrante ilegalidade, teratologia ou abuso de poder, o que não se verifica na espécie" (AgInt no MS 23.358/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe 27/11/2017).
+2. Hipótese em que o mandamus impugna acórdão da Quarta Turma que, fundamentadamente, negou provimento a Recurso Ordinário em Mandado de Segurança.
+3. Agravo interno a que se nega provimento.
+(AgInt no MS 24.357/SC, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 26/03/2019, DJe 29/03/2019)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. ATO JUDICIAL. FLAGRANTE ILEGALIDADE, TERATOLOGIA OU ABUSO DE PODER. INEXISTÊNCIA. DIREITO LÍQUIDO E CERTO. DEMONSTRAÇÃO DE PLANO. AUSÊNCIA. HABEAS CORPUS. FUNGIBILIDADE. IMPOSSIBILIDADE. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL.
+1. Cuida-se de mandado de segurança impetrado contra decisão da Vice- Presidência do STJ que determinou o arquivamento dos autos dos Edcl no AgRg no RE nos Edcl no AgInt no AREsp 1.053.076/SC, ante o exaurimento da prestação jurisdicional de competência desta Corte.
+2. Mandado de segurança contra ato judicial é medida excepcional, admissível somente nas hipóteses em que se verifica de plano decisão teratológica, ilegal ou abusiva, contra a qual não caiba recurso com efeito suspensivo e não amparado por habeas corpus ou habeas data.
+3. É inviável reconhecer a fungibilidade entre mandado de segurança e habeas corpus, porquanto essa medida subverteria a ordem constitucional de atribuição de competências originárias.
+4. Agravo regimental não provido.
+(AgRg no MS 24.715/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 14/03/2019, DJe 28/03/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JUDICIAL PROFERIDO POR MINISTRO DO STJ. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO RECURSAL. INEXISTÊNCIA DE TERATOLOGIA OU MANIFESTA ILEGALIDADE. RECURSO NÃO PROVIDO.
+1. A impetração de Mandado de Segurança contra ato judicial é medida excepcional, condicionada à ocorrência de teratologia da decisão combatida, seja por manifesta ilegalidade, seja por abuso de poder.
+2. No caso em exame, a impetrante busca reformar o acórdão proferido pelo Superior Tribunal de Justiça, que, motivadamente, rejeitou os Embargos de Declaração, explicitando a manutenção da incidência da Súmula 182/STJ e a observância do art. 489 do CPC/2015. Não há teratologia ou manifesta ilegalidade na decisão recorrida.
+3. Agravo Interno não provido.
+(AgInt no MS 24.071/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 06/02/2019, DJe 14/03/2019)
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA VERIFICÁVEL DE PLANO. PRETENSÃO MERAMENTE REVISIONAL. INADMISSIBILIDADE. AGRAVO DESPROVIDO.
+I - Consoante a jurisprudência desta eg. Corte, a via estreita do writ não se presta para avaliar o acerto ou desacerto de decisões judiciais.
+II - O mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais pode se verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo, que inexiste no caso presente.
+III - Na hipótese, não resta configurada a lesão ao direito do agravante, por ter o Acórdão atacado aplicado medida cautelar ao impetrante, diversa da prisão, com amparo na legislação, e devidamente fundamentado em substanciosos elementos, insuscetíveis de revisão nesta seara.
+Agravo interno desprovido.
+(AgInt no MS 24.358/DF, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 21/11/2018, DJe 30/11/2018)
+No caso concreto, o mandado de segurança foi impetrado contra decisão monocrática proferida pelo ilustre Ministro Jorge Mussi no AREsp 1.839.827/SP,nos seguintes termos (fl. 563):
+Trata-se de recurso extraordinário interposto por FLAVIO AUGUSTO MOREIRA LIRA contra decisão conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 550/554).
+A par de se tratar de insurgência contra decisão monocrática, o que ensejaria a aplicação do verbete 281 da Súmula do Supremo Tribunal Federal, constata-se que o presente reclamo foi apresentado após o trânsito em julgado (e-STJ fl. 559).
+Assim, diante do exaurimento da prestação jurisdicional por esta Corte Superior de Justiça, nada mais há a prover.
+Ante o exposto, determina-se o arquivamento imediato de quaisquer outras manifestações, dispensando o envio de expediente avulso à esta Vice-Presidência.
+Baixem-se os autos, caso ainda estejam neste Sodalício.
+Portanto, de maneira fundamentada e coerente, a decisão ora impugnada determinou o arquivamento das manifestações do ora impetrante em razão do transito em julgado do processo.
+Assim, não há falar em teratologia, manifesta ilegalidade ou de qualquer outro vício no ato coator que autorize a concessão da liminar pretendida, tampouco o prosseguimento do mandamus.
+Ante o exposto, com base nos arts. 10 da Lei n.º 12.016/2009, e 212 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO liminarmente a petição inicial do mandado de segurança, prejudicada a análise do pedido liminar.
+Sem condenação em honorários advocatícios (art. 25 da Lei 12.016/09 e Súmula 105/STJ).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. MANDADO DE SEGURANÇA.IMPETRAÇÃO CONTRA DECISÃO SINGULAR DE MINISTRO DO STJ PROFERIDA EM AGRAVO EM RECURSO ESPECIAL. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO RECURSAL. NÃO OCORRÊNCIA DE TERATOLOGIA OU MANIFESTA ILEGALIDADE. IMPOSSIBILIDADE.ORIENTAÇÃO CONSOLIDADA DO STJ. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL DO MANDAMUS.
