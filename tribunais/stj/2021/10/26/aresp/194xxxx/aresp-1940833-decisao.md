@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo interposto por José Manoel Ludovino e Maria Sarai de Souza Ludovino desafiando decisão do Tribunal de Justiça do Estado de Santa Catarina que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, manejado, por sua vez, contra acórdão assim ementado (e-STJ, fl. 299):
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. IMPROCEDÊNCIA NA ORIGEM. MATÉRIA NÃO SUSCITADA NA INSTÂNCIA A QUO QUE POSSUI SEU CONHECIMENTO OBSTADO SOB PENA DE EVIDENTE SUPRESSÃO DE INSTÂNCIA. AUTORES QUE BUSCAM USUCAPIR IMÓVEL OBJETO DE HERANÇA DA SUPLICANTE. REQUISITO TEMPORAL PREVISTO NO CAPUT DO ART. 1.238 DO CÓDIGO CIVIL NÃO EVIDENCIADO. IMPOSSIBILIDADE DE RECONHECIMENTO DA ACESSIO POSSESSIONIS EM RAZÃO DA INEXISTÊNCIA DE HOMOGENEIDADE ENTRE AS POSSES. INTELIGÊNCIA DO ART. 1.243 DO CITADO DIPLOMA LEGAL. PRECEDENTES. SENTENÇA MANTIDA. RECURSO PARCIALMENTE CONHECIDO E, NA EXTENSÃO, DESPROVIDO.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 327-331).
+Nas razões do recurso especial, os recorrentes alegaram dissídio jurisprudencial e ofensa aos arts. 277 e 283 do CPC/2015; 1.238 e 1.239 do CC/2002.
+Pontuaram que o acórdão reconhece que havia posse exclusiva no imóvel usucapiendo desde 7/8/2006, mas aduziu que não teria atingido o prazo de 15 (quinze) anos em 19/11/2020 (data do acórdão), deixando de observar, entretanto, que seria possível a declaração da usucapião caso demonstrados, durante a instrução processual, 5 (cinco) ou 10 (dez) anos de posse, consoante requisitos de outras duas modalidades de usucapião (e-STJ, fl. 342).
+Enfatizaram que seria possível, por meio do princípio da fungibilidade, demonstrarem já em primeiro grau que possuíam prazo para a usucapião rural prevista no art. 1.239 do Código Civil, ou mesmo a extraordinária prevista no art. 1.238, parágrafo único, do Código Civil, que tem reduzido seu prazo para 10 (dez) anos de posse. Pleitearam a aplicação do princípio da fungibilidade às modalidades de usucapião.
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência das Súmulas n. 282 do STF, 7 e 211 do STJ.
+Irresignados, os recorrentes interpõem agravo refutando os óbices apontados pela Corte estadual.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 418-420).
+Brevemente relatado, decido.
+No tocante aos arts. 277 e 283 do CPC/2015, verifica-se que o conteúdo normativo dos citados dispositivos não foi objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada, o que atrai a incidência da Súmula n. 211 do STJ.
+Cumpre destacar que o Tribunal de origem, a despeito dos embargos de declaração suscitados, não se manifestou expressamente sobre os referidos artigos.
+Ressalte-se, ainda, que o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Ademais, sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na presente hipótese.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial não deve ser conhecido quando ausente o prequestionamento da questão federal nele ventilada, por incidência da Súmula nº 211 do STJ.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea c do art.
+105, III, da CF.
+5. Agravo interno não provido.
+(AgInt no AREsp 1570272/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/05/2020, DJe 20/05/2020).
+AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DESCUMPRIMENTO DE ORDEM JUDICIAL. MANUTENÇÃO DO NOME DA PARTE AUTORA NOS CADASTROS DE PROTEÇÃO DO CRÉDITO. DANO MORAL NÃO CARACTERIZADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284 DO STF. VIOLAÇÃO DE LEI FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. CONFIGURAÇÃO DE DANOS MORAIS EM PROCESSO JUDICIAL DIVERSO. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em nulidade do acórdão por vício de contradição sem deduzir de que modo o acórdão recorrido teria incorrido em aludida deficiência ou demonstrar impacto no deslinde da causa. Súmula 284/STF.
+2. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 211/STJ).
+3. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. O reexame de fatos e provas sobre o preenchimento dos requisitos para responsabilidade civil por danos morais decorrente da inclusão indevida da inscrição em cadastros de inadimplência, em evento considerado apto a gerar o dever sucessivo de reparar, demandaria o revolvimento das premissas fático-probatórias estabelecidas nas instâncias ordinárias, remetendo até mesmo a processo judicial distinto, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7/STJ. Dissídio jurisprudencial prejudicado.
+5. Agravo interno não provido.
+(AgInt no REsp 1817645/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020).
+No mais, o Tribunal estadual concluiu pela ausência de requisito temporal necessário ao reconhecimento da usucapião extraordinária.
+A decisão foi assim fundamentada (e-STJ, fls. 297-303):
+Em detida análise ao caderno processual, denota-se que os Apelantes buscam ver usucapida área objeto de sucessão hereditária decorrente do falecimento do genitor da Autora, pleito este que não se encontra vedado pela Corte da Cidadania.
+(..)
+No entanto, consoante se verifica no citado precedente, para alcançarem êxito na demanda, devem os Autores comprovar os requisitos constantes na legislação de regência, ou seja, posse exclusiva da área com animus domini pelo prazo previsto na legislação, sem qualquer oposição dos demais condôminos.
+Ocorre, que conforme relatado na inicial, os Autores detiveram a posse exclusiva do bem apenas na data de 7 de agosto de 2006, após o falecimento do genitor da Autora, de modo que o prazo de 15 anos até o presente momento não restou contemplado.
+Salienta-se, para que não passe sem o devido destaque, que resta inviável a accessio possessionis, tendo em vista que não há homogeneidade das posses exercidas entre as partes.
+(..)
+Destarte, agiu com acerto a Togada em refutar o pedido, pois não observado o requisito temporal necessário ao reconhecimento da pretensão formulada na exordial.
+Ademais, timbra-se que a prova testemunhal não seria capaz de ilidir dita conclusão, eis que amparada nos argumentos retirados da própria petição inicial da ação de conhecimento.
+Por fim, ressalta-se que os precedentes acostados às fls. 156-185 não vinculam este juízo que, amparando-se nas afirmações constantes na própria petição inicial, entendeu pela inviabilidade do acolhimento do pedido lá formulado.
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, quanto à ausência de requisitos para o reconhecimento da usucapião extraordinária, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. REQUISITOS. PREENCHIMENTO. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADAS. MATÉRIA FÁTICO-PROBATÓRIA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, em regra, não é cabível em recurso especial o reexame da satisfação dos requisitos para o reconhecimento da usucapião extraordinária.
+4. Na hipótese, rever o entendimento do tribunal local, que concluiu que os recorridos detinham posse mansa e pacífica da totalidade da área objeto do litígio por mais de 15 (quinze) anos ininterruptos, tendo atendido os requisitos da usucapião, demandaria o revolvimento fático-probatório dos autos, procedimento inadmissível em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.888.900/TO. Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 24/5/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. EXCEÇÃO DE USUCAPIÃO. CONCLUSÃO DO TRIBUNAL PELA AUSÊNCIA DE CONFIGURAÇÃO DA PRESCRIÇÃO AQUISITIVA. ALEGAÇÃO DE ERRO NA VALORAÇÃO DA PROVA. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. "A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt
+no AREsp 970.049/RO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 9/5/2017).
+2. O sistema de persuasão racional, adotado pelo Código de Processo Civil, prevê que não cabe compelir o magistrado a acolher com primazia determinada prova, em detrimento de outras pretendidas pelas partes, se pela análise das provas em comunhão estiver convencido da verdade dos fatos. Precedentes.
+3. No caso, o Tribunal Estadual, com base nas provas testemunhais e documentais produzidas, concluiu pela ausência de transcurso do lapso temporal da usucapião extraordinária. A modificação desse entendimento demandaria o revolvimento do suporte fático-probatório
+dos autos, inviável em recurso especial (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.745.079/MG. Relator Ministro Raul Araújo, Quarta Turma, DJe 13/4/2021).
+O recurso também não merece ser conhecido com fundamento na alínea c do permissivo constitucional, tendo em vista que, para que se configure o dissídio jurisprudencial, é necessário que a matéria tenha sido prequestionada e guarde similitude fática com o julgado objurgado, o que não ocorreu no presente caso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. 1. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE ÀS MODAL IDADES DE USUCAPIÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. 2. REQUISITOS PARA O RECONHECIMENTO DA USUCAPIÃO EXTRAORDINÁRIA. NÃO OCORRÊNCIA. ALTERAÇÃO. SÚMULA N. 7 DO STJ. 3. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
