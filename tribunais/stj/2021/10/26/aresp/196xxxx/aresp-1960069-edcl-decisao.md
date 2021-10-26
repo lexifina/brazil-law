@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VILMAR DOS SANTOS MALAGUTI à decisão de fls. 418/419, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No presente caso, a intimação do Recorrente foi expedida em 17.05.2021 (mov. 24) e foi automaticamente confirmada 10 (dez) dias depois, em 28.05.2021 (mov. 31).
+Ocorre que em junho de 2021, tivemos 02 (dois) motivos para suspensão dos prazos processuais "Corpus Chisti em 03.06.2021 e suspensão do expediente forense em 04.06.2021", conforme informações retiradas do site do TJPR (https://www.tjpr.jus.br/calendario):
+ ..
+Importante ressaltar que a tempestividade do recurso é reconhecida pelo próprio Projudi, conforme print abaixo:
+ ..
+Como se vê, o recurso do embargante foi protocolado dentro do prazo do sistema, constando como "Cumprimento de intimação" e não havendo qualquer certificação automática de decurso de prazo (fl.422/424)
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, o que define a aplicação do CPC de 2015 é a data de intimação do decisum recorrido, que, no presente caso, ocorreu na vigência do novo código.
+Nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015.
+Consta dos autos (fl. 351) que a expedição de intimação eletrônica ocorreu em 17/5/2021. Realizada a "consulta" no dia 27/5/2021, considera-se efetivamente intimada a parte no dia 28/5/2021 (art. 231, V, do CPC). Exclui-se o dia 28/5/2021, primeiro dia do prazo (art. 224 do CPC), prosseguindo-se na contagem de 15 dias úteis até o dia 18/6/2021, devendo ser comprovada a suspensão do expediente forense, acaso existente.
+Dessa forma, o prazo recursal de 15 dias úteis (art. 994, VI e VIII, c/c os arts. 1.003, § 5º, 1.029, 1.042, caput, e 219, caput, todos do CPC) terminou em 18/6/2021, mas o recurso foi interposto somente em 21/6/2021.
+É certo que feriado nacional não precisa ser comprovado. Porém, os dias 3/6/2021 e 4/6/2021 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+Não se desconhece o entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1805589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, Dje de 25/11/2020), porém o print do documento trazido à fl. 423 dos presentes embargos não comprova equívoco na contagem do prazo pelo sistema PROJUDI, uma vez que nele não consta o prazo final para interposição do recurso.
+Observe-se que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt nos EDcl no AREsp 1544693/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 5/5/2020; e o AgInt no AREsp 1547898/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 12/3/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
