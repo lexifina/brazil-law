@@ -1,1 +1,3 @@
-Art. 3º As disposições desta lei são aplicáveis, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra para a prática do ato de improbidade ou dele se beneficie sob qualquer forma direta ou indireta.
+Art. 3º As disposições desta Lei são aplicáveis, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra dolosamente para a prática do ato de improbidade.
+§ 1º Os sócios, os cotistas, os diretores e os colaboradores de pessoa jurídica de direito privado não respondem pelo ato de improbidade que venha a ser imputado à pessoa jurídica, salvo se, comprovadamente, houver participação e benefícios diretos, caso em que responderão nos limites da sua participação.
+§ 2º As sanções desta Lei não se aplicarão à pessoa jurídica, caso o ato de improbidade administrativa seja também sancionado como ato lesivo à administração pública de que trata a Lei nº 12.846, de 1º de agosto de 2013.
