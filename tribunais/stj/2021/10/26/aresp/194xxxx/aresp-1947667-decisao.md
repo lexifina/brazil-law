@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por Francisco das Chagas de Castrocontra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafia acórdão prolatado pelo Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 229):
+Em face da decadência da pretensão à redibição, mantêm-se seu reconhecimento e o decreto de improcedência da demanda. Apelo improvido.
+Nas razões do recurso especial (e-STJ, fls. 235-245), orecorrentealegou a violação dos arts. 138 e 178 CódigoCivil de 2002; e 26 do Código de Defesa do Consumidor, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, ser cabível a anulação do negócio jurídico e a indenização material e moral ajuizada contra revendedora de veículos, em razão do vício de produto ou serviço e defeito do negócio jurídico; e a não ocorrência da decadência.
+Não foram apresentadas contrarrazões (e-STJ, fl. 256).
+O Tribunal local não admitiu o processamento do recurso especial ante a falta de demonstração de violação dos dispositivos apontados; a incidência daSúmulan. 7/STJ; e a ausência de demonstração do dissídio jurisprudencial alegado(e-STJ, fls. 257-259).
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o agravo de instrumento, consignou o seguinte (e-STJ, fls. 370-373):
+1. O pedido consistiu na rescisão do contrato de compra e venda, em que se traduz o de "anulação do negócio jurídico viciado" fundado em "erro substancial", na repetição do preço e na reparação material e moral.
+A causa de pedir fundou-se no vício do veículo adquirido (Código de Defesa do Consumidor, art. 18), a origem de leilão, não em defeito (idem, art. 14), fato do produto ou do serviço, o acidente de consumo, sinônimos, mais grave que o primeiro.
+2. Segundo as regras do Código Civil, a decadência do direito à redibição dá-se em trinta dias da "entrega efetiva" do bem adquirido (art. 445) e, apenas na hipótese de vício que, "por sua natureza, só puder ser conhecido mais tarde, o prazo contar-se-á do momento em que dele" o adquirente "tiver ciência, até o prazo máximo de cento e oitenta dias" (§ 1º).
+Na relação de consumo e em se tratandode vício oculto atribuído a bem durável, a decadência se dá em noventa dias (Código de Defesa do Consumidor, art. 26,II), o triplo do prazo da relação civil, e se conta do "momento em que ficar evidenciado" o vício (idem, § 3º).
+3. No caso, há evidente relação de consumo.
+Contados noventa dias dos laudos de vistoria encomendados de 17 de agosto de 2018 (fls. 38/42 e 43/47), quer dizer, da ciência sobre a apontada origem do veículo, e superada a esta altura a garantia contratual de noventa dias que venceu em 17 de novembro de 2017 (fl. 34), o prazo para a redibição venceu em 17 de novembro de 2018.
+Como o ajuizamento data de 18 de maio de 2019, muito antes se consumou a decadência da redibição, cujo reconhecimento fica mantido, o que prejudica as demais pretensões.
+4. Diante da decadência recursal, eleva-se em um ponto percentual o arbitramento da honorária desucumbência, ressalvados os efeitos da gratuidade (Lei 1060/50, art. 12 e Código de Processo Civil de 2015, art. 98, § 3º). (Sem grifo no original).
+Verifica-se que o recorrentenão se desincumbiu de demonstrar as razões pelas quais consideravioladas as normas legais apontadas, tampouco impugnou os fundamentos do acórdão recorrido, incidindo, por analogia, os enunciados sumulares n. 283 e 284 do STF, que dispõem respectivamente: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Além disso, reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado daSúmulan.7 do Superior Tribunal de Justiça.
+A propósito, guardadas as devidas peculiaridades:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO COMINATÓRIA OBRIGAÇÃO DE FAZER. DIFERENÇA A MENOR NAS DIMENSÕES DO IMÓVEL. VÍCIO APARENTE.DECADÊNCIA. OMISSÃO INEXISTENTE. REEXAME DE PROVAS. IMPOSSIBILIDADE.INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC.
+AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso, a Corte local foi suficientemente clara ao consignar que a diferença apurada nas dimensões do imóvel não pode ser considerada vício oculto.
+3. Partindo-se da moldura fática delineada pelo Tribunal de origem, a linha argumentativa apresentada mostra-se incapaz de revelar o alegado malferimento dos dispositivos legais tidos por violados, sendo certo, ainda, que a pretensão recursal, a qual desafia frontalmente as conclusões do acórdão recorrido, esbarra nos rigores contidos na Súmula nºs 7 do STJ.
+4. O entendimento manifestado pelo Tribunal de origem se alinha à orientação jurisprudencial consolidada no âmbito deste STJ no sentido de que, se o produto apresenta vício quanto à quantidade ou qualidade, ou que lhe diminua o valor, estar-se-á diante de vício aparente ou de fácil constatação, de acordo com o art. 26 do Código Consumerista (REsp nº 1.488.239/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 7/3/2016).
+5. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no AgInt no AREsp n. 1.309.799/DF, RelatorMinistro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/4/2019, DJe 22/4/2019).
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem para 13% sobre o valor da causa, observada a gratuidade de justiça.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.CIVIL. AÇÃO REDIBITÓRIA. DECADÊNCIA.DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.REEXAME. IMPOSSIBILIDADE. SÚMULA7/STJ.AGRAVO CONHECIDO PARA NÃO CONHECERDO RECURSO ESPECIAL.
