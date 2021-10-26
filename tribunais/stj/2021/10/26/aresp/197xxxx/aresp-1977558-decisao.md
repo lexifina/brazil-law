@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO DO BRASIL S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO. ABANDONO DA CAUSA. OCORRÊNCIA. POSSIBILIDADE DE EXTINÇÃO DO FEITO. INTIMAÇÃO PESSOAL AUTOR. ANDAMENTO DO PROCESSO. ARTIGO 485, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. Correta se afigura a sentença que declara a extinção do feito, sem resolução do mérito, consoante o disposto no inciso III, do art. 485, do Código de Processo Civil, quando presente a intimação pessoal determinando o andamento do processo. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Alega divergência jurisprudencial quanto ao art. 485, III, § 1º, do CPC, no que concerne à demonstração do animus de abandonar a causa para que possa haver a extinção do processo sem resolução de mérito por esse motivo, trazendo os seguintes argumentos:
+Assim, com a devida vênia, tal decisão concedeu interpretação divergente ao disposto ao Art. 485, III, §1º do Código de Processo Civil, com relação à inexistência da presença do elemento subjetivo, do animus de abandonar a causa.
+Desta forma, injusto seria que a presente demanda fosse extinta por abandono de causa. Insta salientar que, para se caracterizar o abandono processual é indispensável a presença do elemento subjetivo, do animus de abandonar a causa, o que não se verifica no presente caso.
+Ademais, todas as vezes que a instituição bancária foi intimada, a mesma se manifestou, conforme podemos verificar nos autos.
+Assim, in casu, verifica-se que não restou configurado o abandono de causa pelo Apelante, vez que deu andamento ao feito, motivo pelo qual merece ser anulada a r. sentença proferida.
+ ..
+No entanto, verifica-se que o entendimento do r. acórdão vai na contramão da jurisprudência do Tribunal de justiça de Pernambuco, que em diversos acórdãos reitera a necessidade expressa do animus de abandonar a causa para extinção por abandono (fls. 144-145).
+É, no essencial, o relatório. Decido.
+Na espécie, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele apontado como paradigma, tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.)
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
