@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por Podemos contra a decisão de fls. 343-344 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 104-106,163-166 e 199-200 (e-STJ), prolatados pelo Tribunal de Justiça do Estado do Paraná, assim ementados:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. BLOQUEIO DE VALORES VIA BACENJUD EM CONTA BANCÁRIA DO PARTIDO POLÍTICO. DECISÃO QUE ACOLHEU A ALEGAÇÃO DE IMPENHORABILIDADE DOS VALORES QUE SE ORIGINARIAM DO FUNDO PARTIDÁRIO. PENHORA. POSSIBILIDADE NO CASO CONCRETO. A despeito de o artigo 833, XI, do CPC impor a impenhorabilidade absoluta dos recursos públicos do fundo partidário, "esta não é a única fonte de recursos dos partidos políticos os quais dispõem de orçamento próprio, oriundo de contribuições de seus filiados ou de doações de pessoas físicas e jurídicas (art. 39 da Lei nº 9.096/1995), e que, por conseguinte, ficam excluídas da cláusula de impenhorabilidade". (REsp1474605/MS, Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRATURMA, julgado em 07/04/2015, DJe 26/05/2015), tal como ocorre no caso em exame, no qual não é possível distinguir a origem dos valores na conta do executado. Além disso, revela-se possível a penhora de valores decorrentes do fundo partidário naqueles casos em que a dívida executada tenha origem em despesa do Partido Político para qual o custeio seja obrigatório pelo fundo - hipótese em tela, onde se cobra a prestação de serviços advocatícios em prol do Partido -, conforme disposição do artigo 44, VIII, da Lei 9.096/95, com a alteração trazida pela Lei nº 13.877, de 2019). RECURSO PROVIDO.
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. BLOQUEIO DE VALORES EM CONTA BANCÁRIA DO PARTIDO POLÍTICO. VALORES QUE SERIAM ORIGINÁRIOS DO FUNDO PARTIDÁRIO. POSSIBILIDADE DE PENHORA NO CASO CONCRETO. ALEGAÇÃO DE OMISSÃO. AUSÊNCIA DE VÍCIOS. REAPRECIAÇÃO. IMPOSSIBILIDADE. CONHECIMENTO PARCIAL. MATÉRIA NÃO ARGUIDA OPORTUNAMENTE. 1. A apreciação clara e precisa das questões suscitadas pelas partes não dá ensejo ao acolhimento de embargos, especialmente se o propósito do recurso integrativo implica na reapreciação da questão decidida pelo colegiado. 2. Não se conhece da matéria não arguida oportunamente. EMBARGOS CONHECIDOS EM PARTE E REJEITADOS.
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE ERRO MATERIAL. OCORRÊNCIA. ACOLHIMENTO SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES. Impõe-se o acolhimento dos embargos de declaração, para corrigir o erro material apontado, sem atribuir, contudo, efeitos modificativos ao julgado. EMBARGOS ACOLHIDOS.
+A Corte de origem deixou de admitir o recurso ao argumento de intempestividade.
+Daí o presente agravo, no qual o insurgente contesta a aplicação doóbice.
+Contraminuta às fls. 381-385 (e-STJ).
+Brevemente relatado, decido.
+Da acurada análise da decisão agravada, verifica-se que o Tribunal local concluiu pela intempestividade do recurso especial ao argumento de que a leitura da intimação teria ocorrido em 19/3/2021 e que o recorrente não teria comprovado a existência de feriado local.
+Veja-se à fl. 343 (e-STJ):
+O Recurso Especial não pode ser admitido, ante a inexistência de prova da sua tempestividade. A Recorrente realizou a leitura de intimação em 19.03.2021 (mov. 22, dos Embargos de Declaração ED 2), de modo que o prazo para interposição de recurso passaria a fluir em 22.03.2021 e findaria em 12.04.2021. No entanto, em razão da suspensão dos prazos processuais, prevista no Decreto Judiciário nº 151/2021 e dos feriados previstos no Decreto Judiciário nº 597/2020, o prazo recursal foi prorrogado. Compulsando os autos, verifica-se que não houve comprovação da suspensão de prazos determinada pelo Decreto nº 151/2021, tampouco do feriado local previsto no Decreto Judiciário nº 597/2020 (01.04.2021  quinta-feira santa), conforme dispõe o artigo 1.003, § 6º, do Código de Processo Civil, estando, portanto, intempestiva a petição recursal apresentada em 14.04.2021.
+Na presente insurgência, primeiramente, defende o agravante que a ciência da intimação se deu no dia 22/3/2021, e não no dia 19/3/2021, conforme exposto no juízo de admissibilidade.
+Nesse ponto, com razão o agravante.
+Note-se à fl. 205 (e-STJ):
+Data: 19/03/2021 Movimentação: CONFIRMADA A INTIMAÇÃO ELETRÔNICA Complemento: (Pelo advogado/curador/defensor de PARTIDO PODEMOS) em 22/03/2021 com prazo de 15 dias úteis *Referente ao evento (seq. 17) JUNTADA DE ACÓRDÃO (08/03/2021) e ao evento de expedição seq. 18. Por: SISTEMA PROJUDI
+Todavia, não demonstrou o agravante tercomprovadoa existência de feriado local no ato da interposição do recurso, apenas arguindo a idoneidade da informação constante no sistema Projudide que o prazo final se daria em 14/4/2021.
+Realmente o prazo final para a interposição do recurso seria 14/4/2021, desde que comprovada a existência de feriado local no dia 1/4/2021, o que não aconteceu.
+A jurisprudência desta Corte é no sentido de que a existência de feriado local deve ser comprovada no ato da interposição do recurso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.INTEMPESTIVIDADE. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL POR DOCUMENTO IDÔNEO.
+1. Ação de obrigação de fazer, cumulada com indenização de danos materiais e compensação por danos morais.
+2. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. A jurisprudência do STJ está consolidada no sentido de que cópia de calendário editado pelo Tribunal de origem não é hábil a ensejar a comprovação da existência de feriado local, pois é necessária a juntada de cópia de lei ou de ato administrativo comprovando a ausência de expediente forense na data em questão.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.908.842/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 11/10/2021, DJe 15/10/2021).
+Logo, o recurso se mostra intempestivo.
+Diante do exposto, conheço do agravo e nego-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DA EXISTÊNCIA DE FERIADO LOCAL NO MOMENTO DE INTERPOSIÇÃO DO RECURSO. INTEMPESTIVIDADE. AGRAVO CONHECIDO E DESPROVIDO.
