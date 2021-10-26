@@ -1,0 +1,55 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AÇÃO CIVIL PÚBLICA. TRANSPORTADORA. EXCESSO DE PESO DA CARGA. OBRIGAÇÃO DE NÃO FAZER. DANOS MATERIAIS E DANOS MORAIS COLETIVOS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL E AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+
+    “ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. TRANSPORTE DE CARGA EM RODOVIAS FEDERAIS. EXCESSO DE PESO. PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS COLETIVOS. PRETENSÃO DA PARTE AUTORA QUE ENCONTRA GUARIDA NA JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO. 1. Decorre o presente recurso de ação civil pública objetivando a condenação da ré à abstenção, definitiva, de promover a saída de mercadorias e veículos de carga de seus estabelecimentos comerciais, ou de estabelecimentos de terceiros, contratados a qualquer título, com excesso de peso, sob pena de cominação de multa, bem como a condenação da ré ao ressarcimento de danos materiais e morais. 2. O acórdão recorrido laborou com as seguintes premissas: (i) não cabe condenação em obrigação de não fazer, pois a mesma conduta é regulada pelo Código de Trânsito Brasileiro; (ii) não há prova de danos materiais decorrentes do tráfego com excesso de peso; e (iii) não é cabível a reparação por danos materiais coletivos. 3. Ao decidir nesses termos, a Corte de origem laborou em dissonância com a jurisprudência desta Corte, segundo a qual (i) é cabível ação civil pública objetivando a reparação danos materiais e morais coletivos, bem assim a imposição de obrigação de não fazer de trafegar com excesso de peso nas rodovias; e (ii) os danos são notórios, dispensando comprovação. 4. Com o afastamento dos fundamentos do aresto recorrido, os autos devem retornar à Corte de origem para que prossiga no exame da causa, mormente porque inexistente nesse acórdão informações sobre o número de infrações atribuídas à ora agravante. 5. Agravo interno não provido” (e-doc. 30).
+
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado o art. 2º, os incs. II e XXXIX do art. 5º, o inc. XI do art. 22 e o caput do art. 37 da Constituição da República.
+
+    3. O recurso extraordinário foi inadmitido por ausência de ofensa constitucional direta e pela incidência da Súmula n. 279 do Supremo Tribunal Federal (e-doc. 43).
+
+    No recurso extraordinário com agravo, a agravante argumenta que, “para verificar a ocorrência de ofensa ao princípio da legalidade, insculpido no art. 5º, incs. II e XXXIX, e caput do art. 37, ao sistema de separação de Poderes, insculpido no art. 2º e à competência do legislador para dispor sobre trânsito e transporte, insculpida no art. 22, inc. XI, todos dispositivos e preceitos legais da Constituição Federal, basta tão e somente que a Suprema Corte enfrente a interpretação dada ou a negativa de vigência ao texto constitucional por parte do órgão que emanou a decisão recorrida” (fl. 6, e-doc. 47).
+
+    Salienta que o “Superior Tribunal de Justiça determinou que seja arbitrada prévia punição para conduta cuja sanção já foi prevista em lei própria. Simplificando, já existem multas previstas em lei para excesso de carga em veículos, sendo que a imposição de outra penalidade, de mesma natureza, para a mesma conduta é clara usurpação do Poder Legislativo pelo Poder Judiciário” (fls. 6 e 8, e-doc. 47).
+
+    Ressalta que, “a partir do momento em que não estão presentes os requisitos necessários para a imputação da responsabilidade, a imputação da multa se torna completamente desarrazoada, violando o princípio da independência dos poderes (pela aplicação de uma multa no âmbito judicial pelo descumprimento de uma obrigação que já possui previsão em uma legislação específica – CTB), e caracterizando um verdadeiro bis in idem” (fl. 9, e-doc. 47).
+
+    Assevera que “os danos materiais, conforme pacífica e reiterada jurisprudência, exigem a comprovação do quantum reclamado, posto que devem ser efetivamente comprovados, não podendo ser, na hipótese, presumidos. Para que haja a condenação da parte requerida, ora recorrente, seria indispensável que as provas produzidas pelo Ministério Público Federal, tivessem comprovado a extensão dos prejuízos materiais suportados em decorrência do ato ilícito, sob pena de ser impossível dar cumprimento ao comando do Superior Tribunal de Justiça e auferir o montante dos danos supostamente causados” (fl. 18, e-doc. 47).
+
+    Pede “o conhecimento e o provimento do presente agravo, a fim de que seja dado seguimento ao recurso extraordinário manejado pela defesa, reconhecendo-se, por oportuno, a direta ofensa ao princípio da legalidade, insculpido no art. 5º, incs. II e XXXIX, e caput do art. 37, ao sistema de separação de Poderes, insculpido no art. 2º, à competência do legislador para dispor sobre trânsito e transporte, insculpida no art. 22, inc. XI, todos dispositivos e preceitos legais da Constituição Federal, devendo ser reformada, por consequência, a decisão recorrida, pronunciando-se esta Corte, sobre a inconstitucionalidade da imputação de multas da natureza das que estão a ser previstas pelo Poder Judiciário, in casu, por configurarem bis in idem inadmitido pelo ordenamento vigente” (fl. 19, e-doc. 47).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    4. Razão jurídica não assiste à agravante.
+
+    5. O tema constitucional suscitado no recurso extraordinário não foi objeto de debate e decisão prévios pelo Tribunal de origem, tampouco tendo sido opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual adequado, o prequestionamento. Incidem na espécie as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. INEXISTÊNCIA DE DEBATE NO TRIBUNAL DE ORIGEM SOBRE A AFRONTA CONSTITUCIONAL APONTADA. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO NÃO DEMONSTRADO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, RESSALVADA EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.144.189-AgR, de minha relatoria, Segunda Turma, DJe 3.12.2018).
+
+    “EMENTA: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. O Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO prequestionamento EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 e 356 do SUPREMO TRIBUNAL FEDERAL. 2. A reversão do acórdão passa necessariamente pela revisão das provas constantes dos autos. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) desta Corte. 3. Agravo Interno a que se nega provimento” (ARE n. 1.316.407-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 2.6.2021).
+
+    “Agravo regimental no agravo de instrumento. Prequestionamento. Ausência de omissão no acórdão dos embargos de declaração. Precedentes. 1. Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. 2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 3. Agravo regimental não provido” (AI n. 647.106-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 9.3.2012).
+
+    6. Ainda que fosse possível superar o óbice do prequestionamento, como pretende a agravante, melhor sorte não lhe socorreria, pois a apreciação do pleito recursal demandaria o reexame do conjunto fático-probatório do processo e a análise prévia da legislação infraconstitucional aplicável à espécie (Código de Trânsito Brasileiro). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário, atraindo-se a incidência da Súmula n. 279 deste Supremo Tribunal, como se pode verificar nestes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. INDENIZAÇÃO POR DANO MORAL COLETIVO. TRANSPORTADORA. OBRIGAÇÃO DE NÃO FAZER. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO: INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 895). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.256.343-AgR, de minha relatoria, Segunda Turma, DJe 6.7.2020).
+
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. VIOLAÇÃO AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. QUESTÃO INFRACONSTITUCIONAL. PRECEDENTES. ANÁLISE DA LEGISLAÇÃO ORDINÁRIA PERTINENTE (LEIS ESTADUAIS 3.933/1981, 7.145/1997 E 7.990/2001). OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. SÚMULA 280/STF. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE n. 915.565-AgR, Relator o Ministro Teori Zavaski, Segunda Turma, DJe 25.11.2015).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 23.03.2017. OCORRÊNCIA DE DANO MORAL COLETIVO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. DESPROVIMENTO DO AGRAVO. 1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto ao alegado dano moral coletivo em face da conduta do empregador, seria necessário o reexame de fatos e provas, o que encontra óbice na Súmula 279/STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC” (ARE n. 913.086-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 27.10.2017).
+
+    Nada há a prover quanto às alegações da agravante.
+
+    7. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 26 de outubro de 2021.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
