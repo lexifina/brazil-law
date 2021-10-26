@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo apresentado por FABRACOR SERVIÇOS COMBINADOS - EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+JUSTIÇA GRATUITA Despesas processuais Existência de elementos nos autos que demonstram a capacidade econômica Indeferimento mantido.
+INTERESSE DE AGIR Ação ajuizada para exibição de documentos Inadmissibilidade, uma vez que há procedimento específico para obtenção de documentos cujo conhecimento pode viabilizar solução extrajudicial ou ajuizamento de ação principal Inteligência dos incisos II e III do art. 381 do Cód. de Proc. Civil Sentença reformada para extinção do processo sem resolução do mérito - Apelação prejudicada. (fl. 208)
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega a violação do art. 99, § 2º, do CPC, no que concerne a ser indevido o indeferimento do pedido de concessão da justiça gratuita sem que fosse oportunizado ao recorrente comprovar os requisitos para a concessão do benefício pleiteado, trazendo os seguintes argumentos:
+A Recorrente interpôs o recurso de Apelação para buscar a reforma da Sentença de primeiro grau que a havia condenado no pagamento das verbas sucumbenciais.
+Utilizando-se do que previsto no Artigo 99 do Código de Processo Civil, requereu o deferimento da gratuidade de justiça em razão da paralisação das suas atividades, bem como da atual situação financeira grave pela qual toda a economia passa.
+Ocorre que o Tribunal de Justiça estadual, acabou por indeferir o pedido supra na própria fundamentação.
+ ..
+Ilustres Julgadores, não se discute que a pessoa jurídica faz jus ao benefício da gratuidade de justiça e que cabe a ela comprovar sua situação econômica. Porém, o pedido só pode ser indeferido se for dado à parte chance de comprovar sua atual incapacidade de arcar com as custas processuais.
+É o que dispõe o dispositivo legal violado:
+"Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
+(..)
+§ 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos."
+Percebe-se, Excelências, que o artigo é claro ao dispor que é dever do Juízo determinar que a parte comprove os requisitos da concessão de gratuidade caso não esteja convencido de que a parte faz jus.
+Violou-se, então, o dispositivo legal acima, uma vez que o Tribunal apenas indeferiu o pedido e abriu prazo para que a Recorrente pagasse as custas de preparo da Apelação. (fls. 221/223)
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no AREsp n. 1.779.940/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/5/2021.
+Ademais, o acórdão recorrido assim decidiu:
+Anote-se, de pronto, que pessoa jurídica também tem direito ao benefício, mas desde que demonstrada escorreitamente a hipossuficiência.
+Não se vê dos autos, todavia, prova cabal da alegada necessidade, indispensável, como dito, no caso de pedido feito por pessoas jurídicas, a tanto não equivalendo simples notícia de dificuldades financeiras.
+Não por outra razão, então, que o C. Superior Tribunal de Justiça editou a Súmula nº 481 segundo a qual "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+Com efeito, em se tratando de pessoa jurídica com atividade empresarial, era da apelante o ônus de demonstrar a necessidade da justiça gratuita, do que não cuidou.
+É verdade que a apelante afirma estar em dificuldades, porém nada esclareceu quanto a sua situação concreta, o que poderia e deveria ter feito mediante apresentação de demonstrativos financeiros.
+Mais ainda, vê-se nos autos que pleiteou a justiça gratuita antes e após a prolação da r. sentença, com o que deveria demonstrar a alteração da sua situação econômica, do que, todavia, não cuidou, anotando-se ter ela recolhido as custas iniciais, o que afasta a aduzida hipossuficiência.
+Indispensável mesmo, portanto, a demonstração da alegada necessidade. (fls. 208/209)
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
