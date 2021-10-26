@@ -1,1 +1,0 @@
-Art. 4º Os agentes públicos de qualquer nível ou hierarquia são obrigados a velar pela estrita observância dos princípios de legalidade, impessoalidade, moralidade e publicidade no trato dos assuntos que lhe são afetos.
