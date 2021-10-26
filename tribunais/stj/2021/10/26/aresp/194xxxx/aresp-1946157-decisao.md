@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por Ronivaldo Oliveira da Cunha eSandra de Fátima Vieira da Cunha contra a decisão de fls. 853-854 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aoacórdãode fls. 805-808 (e-STJ), prolatadopelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO. (1) ALEGAÇÃO PRELIMINAR TRAZIDA NAS CONTRARRAZÕES NO SENTIDO DE QUE O APELO NÃO DIALOGARIA COM A SENTENÇA. AFASTAMENTO. RECURSO QUE EVIDENTEMENTE ATACA OS FUNDAMENTOS ADOTADOS PELO JUIZ DE DIREITO. (2) REEXAME DAS PROVAS PRODUZIDAS. SENTENÇA QUE VALOROU CORRETAMENTE O QUADRO PROBATÓRIO. PROVA DOCUMENTAL E ORAL QUE DEMONSTRAM QUE A POSSE DOS AUTORES SOBRE O IMÓVEL SE INICIOU APENAS NO ANO DE 2004. DESOCUPAÇÃO DO IMÓVEL EM 2013. AUSÊNCIA DO REQUISITO TEMPORAL NECESSÁRIO À USUCAPIÃO. (3) PEDIDO SUBSIDIÁRIO DE INDENIZAÇÃO PELAS BENFEITORIAS. DESCABIMENTO. INDEFERIMENTO DA USUCAPIÃO QUE NÃO GERA A PERDA DA POSSE OU A NECESSIDADE DE DESOCUPAÇÃO. SENTENÇA MANTIDA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS MAJORADOS. ART. 85 § 11º DO CPC. RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 829-839), apontaram os insurgentes, além de dissídio jurisprudencial, a existência de violação dos arts. 1.238, parágrafo único, do CCB e 493 do CPC/2015. Sustentaram, em síntese, a possibilidade de o prazo prescricional aquisitivo se consumar no curso da demanda.
+Contrarrazões às fls. 849-852 (e-STJ).
+A Corte de origem deixou de admitir o recurso ao argumento de incidência da Súmula 7/STJ.
+Daí o presente agravo, no qual os insurgentes contestam a aplicação doóbice.
+Contraminuta às fls. 890-892 (e-STJ).
+Brevemente relatado, decido.
+Da acurada análise do acórdão recorrido, verifica-se que o Tribunal local concluiu pela ausência de um dos requisitos para a usucapião, a saber, o tempo de posse, oqual durou de 2004 a 2013.
+Veja-se às fls. 807-808 (e-STJ):
+II - Quanto ao mérito, verifica-se que, por meio do presente recurso, pretendem os autores o reexame das provas produzidas, uma vez que entendem ter restado comprovado a sua posse anterior ao ano de 2004, o que configuraria tempo necessário à aquisição do imóvel pela usucapião, já que deixaram o imóvel em 2013.
+Não se pode, no entanto, concordar com eles. Isso porque, tal como dito na sentença, não há nenhuma prova documental de posse anterior ao ano de 2004, uma vez que todos os recibos e comprovantes juntados na inicial demonstram que a construção de uma casa no local apenas se deu no ano de 2004 e o contrato de parcelamento das dívidas tributárias referentes ao imóvel também é datado de 2004. Aliás, o próprio fato de o pagamento das dívidas tributárias que incidiam sobre o imóvel, embora originárias de anos anteriores, apenas ter ocorrido no ano de 2004 é extremamente revelador de que os autores não chegaram a ocupar o imóvel antes disso e nem o tinham como seu.
+Além disso, na narrativa trazida na inicial, os autores deixaram claro que apenas passaram a morar no imóvel com a construção da casa de alvenaria em 2004, de sorte que, por óbvio, apenas a partir desse ano é que se pode começar a contar o prazo reduzido de 10 anos do parágrafo único do art.1.238 do CCB, já que ele depende da utilização do imóvel para moradia. Ademais, é certo que nenhuma das pessoas ouvidas em juízo confirmou o exercício de posse dos autores anterior ao ano de 2004, tendo sido deixado claro que o marco de início da posse dos autores para elas é a construção da casa de alvenaria, o que, como visto, ocorreu apenas em 2004.
+No presente recurso, defendem os insurgentes a possibilidade de consumação do prazo prescricional aquisitivo no curso da demanda (art. 493 do CPC/2015).
+Ocorre que não há nenhuma manifestação da Corte local sobre tal argumento.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre atesejurídicaem torno dodispositivolegaltidopor vulnerado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DA CONSTITUIÇÃO. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. REVISÃO DO CÁLCULO DO PAGAMENTO POR MORTE.
+NECESSIDADE DE CUSTEIO E VIGÊNCIA DO REGULAMENTO NA DATA DO CUMPRIMENTO DOS REQUISITOS. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, alínea a, da CF/88.
+3. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 1.933.737/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 23/09/2021).
+Como se não bastasse, ficou assentado no acórdão recorrido que os insurgentes deixaram a posse do imóvel no ano de 2013. Logo, não há que se falar em prosseguimento do tempo de posse durante o curso da demanda.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor doadvogadodas partes recorridas em 3% (três por cento) sobre o valor da causa, devendo ser observada a gratuidade de justiça deferida aos recorrentes.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. POSSIBILIDADE DE O PRAZO PRESCRICIONAL SE CONSUMAR NO CURSO DA DEMANDA. FALTA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
