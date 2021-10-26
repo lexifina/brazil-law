@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por Viação União Ltda. contra a decisão que negou seguimento ao recurso especial.
+Consta dos autos queGilson Teodoro dos Santos ajuizou ação indenizatória contra a ora agravante em razão de lesões sofridas em acidente de trânsito ocorrido com ônibus de propriedade da empresa ré.
+A sentença julgou procedentes os pedidos para "condenar a ré a pagar ao autor duas pensões mensais, em um salário mínimo cada um, vigente à época do acidente, corrigido monetariamente e com juros de 1% ao mês a contar do evento, além de indenização por dano moral em R$ 20.000,00 (vinte mil reais) e indenização por dano estético em R$ 5.000,00 (cinco mil reais), tudo corrigido monetariamente e com juros de 1% ao mês a contar da sentença" (e-STJ, fl. 204).
+Interposta apelação, a Vigésima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro negou provimento ao recurso da ora agravante, em acórdão assim ementado (e-STJ, fls. 265-266):
+APELAÇÃO CÍVEL. AÇÃO DE RESPONSABILIDADE CIVIL.
+AUTOR QUE NO DIA 28/03/13 VINHA COMO PASSAGEIRO DE UM ÔNIBUS DA RÉ, QUANDO ESTE CAPOTOU, VINDO A SOFRER LESÕES.
+LAUDO PERICIAL QUE ATESTA O DANO E O NEXO DE CAUSALIDADE E QUE O AUTOR SOFREU SEQUELAS PERMANENTES EM GRAU MÍNIMO NA FUNÇÃO MASTIGATÓRIA, COM DANO ESTÉTICO MÍNIMO, NÃO NECESSITANDO DE CIRURGIA, OU DE FISIOTERAPIA, TENDO FICADO DOIS MESES AFASTADO DE SUAS ATIVIDADES.
+SENTENÇA DE PROCEDÊNCIA.
+APELOS DE AMBOS.
+FALHA NA PRESTAÇÃO DO SERVIÇO EM CONTRATO DE TRANSPORTE. AUSÊNCIA DE EXCLUDENTE DE RESPONSABILIDADE. TEORIA DO RISCO DO EMPREENDIMENTO.
+OBRIGAÇÃO DO TRANSPORTADOR NÃO É APENAS DE MEIO, DEVENDO ZELAR PELA INCOLUMIDADE DO PASSAGEIRO, EVITANDO A OCORRÊNCIA DE DANO ATÉ O LOCAL DE DESTINO. COMPROVAÇÃO DO EVENTO, DO DANO E DO NEXO DE CAUSALIDADE ENTRE ELES.
+FATO DO AUTOR DEMONSTRAROS COMPROVANTES DE RENDIMENTOS NA DATA DO ACIDENTE, NÃO IMPEDE O RECONHECIMENTO DO SEU DIREITO DE OBTER PENSIONAMENTO, EM RAZÃO DE SUA INCAPACIDADE TEMPORÁRIA, ADOTANDO-SE COMO PARÂMETRO A QUANTIA CORRESPONDENTE AOS SEUS VENCIMENTOS, VIGENTE À ÉPOCA DO FATO.
+DANOS MATERIAIS NÃO COMPROVADOS.
+DANOS MORAIS E ESTÉTICOS CONFIGURADOS. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE OBSERVADOS NO ARBITRAMENTO DO QUANTUM INDENIZATÓRIO. POSSIBILIDADE DE CUMULAÇÃO DAS VERBAS INDENIZATÓRIAS, NA FORMA DAS SÚMULAS 96 DESTE E. TJRJ E 387 DO STJ. REPARO NO JULGADO PARA DETERMINAR A FLUÊNCIA DE JUROS DE MORA A CONTAR DA DATA DA CITAÇÃO A TÍTULO DE DANOS MORAIS E ESTÉTICOS. PRECEDENTES DO STJ E TJRJ.
+DESPROVIMENTO AO RECURSODO RÉU. PROVIMENTO PARCIAL DO RECURSO DA PARTE AUTORA.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 297-303).
+Nas razões do recurso especial (e-STJ, fls. 305-319), fundamentado no art. 105, III, a, da Constituição Federal, a ora agravante apontou, em caráter preliminar, violação do 1.022, II, do CPC/2015, sob o fundamento de negativa de prestação jurisdicional.
+No mérito, aduziu que o acórdão recorrido infringiu frontalmente os arts. 333, I, e 373, I, do CPC/2015 e 944, parágrafo único, do CC/2002, por sido condenada ao pagamento de indenização "sem se atentar à ausência do nexo causal da responsabilidade civil na relação jurídica deduzida" (e-STJ, fl. 317).
+Sem contrarrazões (e-STJ, fl. 328).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Cumpre registrar que a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente, tratando-se, na verdade, de pretensão de novo julgamento da matéria, conforme se observa do trecho transcrito a seguir (e-STJ, fls. 269-270, sem grifo no original):
+Trata-se de ação de indenização proposta por GILSON THEODORO DOS SANTOS em face de VIAÇÃO UNIÃO, alegando o autor, em resumo, que no dia 28/03/13 vinha como passageiro de um ônibus da ré, quando este capotou. Esclarece que em razão do acidente sofreu lesões.
+O autor junta aos autos o boletim médico às fls. 16 e registro de ocorrência às fls. 17/22 (indexador 00012).
+Em sede de defesa não foi negado o evento do acidente, entretanto, foi alegada a ocorrência de caso fortuito externo, uma vez que conforme se verificou na documentação anexada à peça de defesa, havia óleo na pista, o que de fato deu causa ao acidente.
+Laudo pericial acostado às fls. 148/167(indexador 00161) que atestou que o autor sofreu sequelas permanentes em grau mínimo na função mastigatória, com dano estético mínimo, não necessitando de cirurgia, ou de fisioterapia, tendo ficado dois meses afastado de suas atividades.
+Diante deste panorama, restou comprovado o dano e o nexo causal.
+É inegável, portanto, a responsabilidade da ré na produção do resultado lesivo, que, fugindo à normalidade, causou ao autor sofrimento físico e emocional, os quais não podem ser ignorados pelo julgador.
+Observe-se que a responsabilidade do transportador de passageiros é objetiva, fundada no artigo 37, § 6º da Constituição Federal. Saliente-se que, em se tratando de hipótese de responsabilidade objetiva, era da ré, ora apelante o ônus da prova da excludente de sua responsabilidade, o que não logrou fazer.
+Não se pode olvidar que o contrato de transporte tem como principal característica a cláusula de incolumidade, implicitamente prevista. Tal cláusula significa que a obrigação do transportador não é apenas de meio, sendo certo que há o dever de zelar pela incolumidade do passageiro, de modo a evitar que este sofra qualquer dano até o local de destino.
+Pela teoria do risco do empreendimento, todo aquele que se dispõe a exercer alguma atividade no campo do fornecimento de bens e serviços têm o dever de responder pelos fatos e vícios resultantes do empreendimento, independentemente de culpa. Portanto, o dever de obediência às normas técnicas e de segurança, cujo descumprimento gera responsabilidade, decorre do simples fato da empresa se dispor a realizar atividade de prestar serviços, ou seja, os riscos do empreendimento correm por conta do fornecedor de serviços não podendo a apelante atribuir ao consumidor.
+Ressalte-se que, em razão da relação de consumo existente entre as partes, o apelante responde objetivamente pelos danos causados ao consumidor, somente se eximindo se ficar comprovada uma das excludentes previstas no artigo 14, § 3º, do Código de Defesa do Consumidor: inexistência do defeito, a culpa exclusiva do consumidor ou de terceiros.
+Portanto, impõe-se reconhecer que a ré falhou na prestação do serviço e, portanto, deve reparar o dano suportado pelo consumidor, conforme decidido pelo Juízo a quo.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada" (AgInt no REsp 1.916.616/SE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/06/2021, DJe 01/07/2021).
+Relativamente à matéria de fundo, apesar de a recorrente ter indicado, nas razões recursais, os dispositivos que entende violados, não demonstrou, clara e precisamente, no que consistiu a alegada negativa de vigência à lei, ou mesmo qual a sua correta aplicação, o que impossibilita a exata compreensão da controvérsia, atraindo a aplicaçãoà hipótesedo enunciado 284 da Súmula doSupremo Tribunal Federal, por aplicação analógica.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. ATO ILÍCITO. NÃO CARACTERIZAÇÃO DO DANO MORAL INDENIZÁVEL. NOVOS ARGUMENTOS DA PARTE AGRAVADA. REEXAME.IMPOSSIBILIDADE. ENUNCIADO SUMULAR N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. NÃO PROVIDO. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO.
+1. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Enunciado sumular n. 7 do Superior Tribunal de Justiça).
+3. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do artigo 1.021, § 4º, do CPC/2015, devendo ser analisada caso a caso.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.802.114/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/10/2021, DJe 08/10/2021)
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 1% sobre o valor da condenação.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. ALEGADA VIOLAÇÃO DOS DISPOSITIVOS LEGAIS ARROLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
