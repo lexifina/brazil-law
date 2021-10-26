@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado entre o Juízo Federal daSétima Vara de Aracaju e o Juízo de Direito da Comarca de Itabaianinha, em ação na qual a parte autora postula a concessão de aposentadoria rural por idade (e-STJ fls. 12/21).
+O Juízo suscitado declinou da competência sob ofundamentode que, a partir da publicação da Lei n. 13.876/2019, a Comarca de Itabaianinha não mais possui competência delegada, uma vez quehá juízo federal localizado em município que dista menos de 70 km (setenta quilômetros) daquela localidade(e-STJ fls. 7/8).
+O Juízo Federal, por sua vez, fê-lo por considerar que a competência delegada permanece, visto que a ação de conhecimento foi ajuizada antes de 01/01/2020, destacando a decisão proferida nos autos do Incidente de Assunção de Competência (IAC) n. 6 do STJ, extraído doCC 170.051/RS, no qual o relator, ad referendum da Primeira Seção, admitiu o incidente e determinou, entre outras providências, que os feitos propostos "no âmbito da Justiça Estadual, no exercício da jurisdição federal delegada, deverão ter regular tramitação e julgamento, independentemente do julgamento do presente Incidente de Assunção de Competência" (e-STJ fl. 6).
+Em parecer, o Ministério Público Federal opinou pela declaração da competência do Juízo suscitado(e-STJ fls. 27/31).
+Passo a decidir.
+A dicção do art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+In casu, não há como conhecer do presente conflito, cuja controvérsia coincide com a estabelecida no CC 170.051/RS, no qual o eminente relator, Min. Mauro Campbell Marques, em 18/12/20219, suscitou, de ofício, a admissão de Incidente de Assunção de Competência (IAC n. 6 do STJ), o qual foireferendado pela Primeira Seção do STJ em 26/08/2020.
+Na ocasião, foi determinada a suspensão de atos de redistribuição de processos com fulcro na Lei n. 13.876/2019, conforme se lê de sua liminar assim ementada:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS FEDERAL E ESTADUAL INVESTIDO NA JURISDIÇÃO DELEGADA. ART. 109, § 3º, DA CF. EMENDA CONSTITUCIONAL Nº 103/2019. LEI FEDERAL Nº 13.876/2019. REDISTRIBUIÇÃO DE PROCESSOS EM TRAMITAÇÃO. RECONHECIMENTO DOS REQUISITOS DO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA (ART. 947 DO CPC/2015). AFETAÇÃO AD REFERENDUM DA 1ª SEÇÃO DO STJ.
+LIMINAR DEFERIDA PARA DETERMINAR A SUSPENSÃO DOS ATOS DE REDISTRIBUIÇÃO DOS PROCESSOS.
+Ante o exposto, com base no art. 34, XXII, do RISTJ, NÃO CONHEÇO do presente conflito.
+Os autos devem retornar ao Juízo estadual para observância da referida liminar.
+Publique-se e intimem-se.
