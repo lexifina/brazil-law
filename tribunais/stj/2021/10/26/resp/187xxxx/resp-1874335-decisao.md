@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 469):
+ADMINISTRATIVO. MILITAR. PENSÃO POR MORTE. COMPROVAÇÃODE DEPENDÊNCIA ECONÔMICA DA MÃE. AUSÊNCIA DE VEDAÇÃO LEGAL À CUMULAÇÃO DE PENSÕES. CORREÇÃO MONETÁRIA.
+1. Reconhecimento do direito à pensão militar por morte, em observância à cultura brasileira de ajuda aos pais em condições mais debilitadas de saúde, à garantia do mínimo existencial e ao princípio da dignidade da pessoa humana.
+2. Caso em que ficou suficientemente demonstrado que o comprometimento da renda do falecido militar no sustento da mãe era significativo, configurando a dependência econômica da autora em relação aofilho.
+3. É permitida a cumulação de uma pensão - complementada por ser o instituidor ex-ferroviário da RFFSA - do RGPS com a pensão militar, na forma do art. 29, caput e incisos, da Lei 3.765/60.
+4. Definição dos critérios de correção monetária e juros que fica relegada para a fase de execução do julgado.
+5. Apelação parcialmente provida.
+A esse acórdão foram opostos embargos de declaração, os quais restaram parcialmente acolhidos sem efeitos modificativos (fls. 480/489).
+Sustenta a parte recorrente, em preliminar, violação ao art. 1.022, II, do CPC, uma vez que a despeito da oposição de embargos de declaração, o Tribunal de origem deixou de "se manifestar de forma específica sobre os temas e dispositivos legais apontados, especialmente, no que concerne ao termo inicial da pensão concedida à autora, sendo fixada a data do óbito do militar" (fl. 502).
+Aponta, ainda, além de dissídio jurisprudencial, contrariedade ao art. 29, I e II, da Medida Provisória 2.215-10/2001, "que impede a percepção cumulativa de três benefícios previdenciários, quando um deles é uma pensão militar" (fl. 502).
+Nesse sentido, argumenta que "o citado dispositivo assegura a cumulação da pensão militar por morte apenas a mais um benefício e a autora percebe mais dois: pagos pelo INSS (Evento 1, OUT47, Página 1) e pelo IPE (Evento 1, OUT45, Página 1 e Evento 29-CHEQ3), totalizando, na época do óbito, R$ 1.449,24" (fl. 503).
+Afirma, outrossim, que (fl. 504):
+Não obstante, o Juízo ad quem sustentou que "a autora recebe apenas uma pensão do RGPS, no valor de um salário mínimo, que é complementada por ser o instituidor ex-ferroviário da RFFSA."
+Todavia, Excelência, mesmo que seja mantido o entendimento de o valor do IPERGS seja uma "complementação" de aposentadoria do RGPS, deve-se ressaltar que não está contemplada na legislação a hipótese de percepção de uma pensão militar com mais dois benefícios previdenciários de Entes Públicos distintos (no caso dos autos, INSS e IPERGS).
+Conclui-se, portanto, que não é possível cumular os benefícios acima mencionados com a pensão militar.
+De outro lado, aduz que (fls. 505/506):
+ ..  o próprio militar não declarou como dependentes os seus pais perante a Administração Militar, sequer para fins de FUSEX. Como se vê dos registros anexados aos autos durante a instrução, o militar declarou não ter beneficiários à pensão militar. Dessa forma, não houve o preenchimento da condição disposta no art. 71, § 3º, da Lei n.º 6.880/80, in verbis:
+ ..
+No momento em que o militar assina a sua Declaração de Beneficiários, na qual não consta qualquer beneficiário, está afirmando que não possui qualquer dependente e, por ser expressão da verdade, deve servir ao fim desejado para os efeitos legais. Não é demais lembrar que a falsa declaração implica em infringência ao art. 299 CP e art. 312 CPM, pelo crime de falsidade ideológica, ficando sujeitos a sanções civis, administrativas e criminais.
+A própria Lei n.º 6.880/80 estabelece, no art. 50, § 3º, que "são, ainda, considerados dependentes do militar, desde que vivam sob sua dependência econômica, sob o mesmo teto, e quando expressamente declarados na organização militar competente(..)".
+Isso significa que a pensão militar somente poderá ser paga a dependente que estiver expressamente arrolado pelo próprio militar na Declaração de Beneficiários.
+Por fim, requer o provimento do recurso especial.
+Contrarrazões às fls. 515/521.
+Recurso admitido na origem (fls. 524/525).
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República ROGÉRIO DE PAIVA NAVARRO, opinou pelo desprovimento do recurso especial (fls. 545/550).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Na forma da jurisprudência desta Corte, "é deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF" (AgInt no AREsp 1.805.328/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 13/8/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. PENSÃO POR MORTE. INVALIDEZ ANTES DA MAIORIDADE. MANUTENÇÃO DA DEPENDÊNCIA. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - Esta Corte possui entendimento no sentido de que faz jus à pensão por morte o beneficiário que, após a maioridade, manteve o direito à pensão devido à invalidez, haja vista que a incapacidade foi estabelecida antes de completar 21 anos, sem que houvesse a ruptura do vínculo de dependência.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.838.289/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/6/2021) - Grifo nosso
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO CONSTITUCIONAL INATACADO. SÚMULA 126/STJ.
+1. É deficiente a assertiva genérica de violação do art. 1.022 do CPC/2015, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal a quo e não comprova ter questionado as suscitadas falhas nos embargos de declaração. Incidência da Súmula 284/STF
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.768.968/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 1º/7/2021) - Grifo nosso
+Destarte, considerando-se que a UNIÃOapenas alegou genericamente a existência de afronta ao art. 1.022, II, do CPC, sem, contudo, indicar de forma clara, precisa e congruente em que consistiria a suposta omissão existente no acórdão embargado, não sanada apesarda oposição de embargos de declaração, incide na espécie a Súmula 284/STF.
+Por sua vez,para a abertura da via especial, requer-se o prequestionamento, ainda que implícito, da matéria infraconstitucional. A exigência temcomo desiderato principal impedir a condução a este Superior Tribunal de questões federais não debatidas no Tribunal de origem, a teor das Súmulas 282/STF e 211/STJ.
+Calha ressaltar que, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp 1.890.753/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 6/5/2021).
+In casu, o Tribunal de origem não emitiu nenhum juízo de valor acerca do art.71, § 3º, da Lei 6.880/1980, o que atrai a incidência da Súmula 211/STJ.
+Acrescente-se, de toda sorte que,rever o entendimento firmado no acórdão recorrido quanto à existência de comprovação da dependência econômica da recorrida em relação ao seu falecido filho demandaria o reexame de matéria fático-probatória, o que esbarra no óbice da Súmula 7/STJ.
+De outro lado, insiste a UNIÃO na tese de afronta aoart. 29, I e II, da Medida Provisória 2.215-10/2001 a partir da premissa de que a recorrida busca acumular três pensões previdenciárias, premissa esta que, todavia, não foi acolhida pelo Tribunal de origem, haja vista a conclusão firmada no acórdão recorrido de que "a autora recebe apenas uma pensão do RGP, no valor de uma salário mínimo, que é complementada por ser o instituidor ex-ferroviário da RFFSA" (fls. 439/440).
+Sucede que em suas razões recursais a recorrente não trouxe nenhum argumento capaz de afastar a conclusão contida no acórdão recorrido no sentido de que a aludida complementação de pensão, por si só, não poderia ser considerada como uma pensão previdenciária autônoma, para fins da vedação contida no já mencionadoart. 29, I e II, da Medida Provisória 2.215-10/2001.
+Logo, incidem na espécie as Súmulas 283 e 284/STF.
+Por fim, orecurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque o dissídio jurisprudencial não foi comprovado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, porquanto a recorrente não juntou cópia do paradigma mencionado e deixou de citar o repositório oficial, autorizado ou credenciado em que fora publicado.
+Ateor do Enunciado Administrativo nº 07 do Superior Tribunal de Justiça: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC".
+Logo, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora recorrente, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015. Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3 E 7/STJ. EMBARGOS DE DECLARAÇÃO. VÍCIO NO JULGADO. OCORRÊNCIA. SUPRESSÃO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. ART. 85, § 11, DO CPC/2015. FIXAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Tendo em vista o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo nº 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e o trabalho adicional realizado em grau recursal, impõe-se a fixação dos honorários advocatícios a título de sucumbência recursal.
+2. Embargos de declaração acolhidos.
+(EDcl no AREsp 1.679.208/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURM A, DJe 3/12/2020)
+ANTE O EXPOSTO, não conheçodo recurso especial.Condeno a parte recorrente ao pagamento de honorários advocatícios recursais arbitrados, nos termos do art. 85, § 11, do CPC, em 10% sobre a verba honorária fixada nas Instâncias ordinárias.
+Publique-se.
