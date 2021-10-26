@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Alessandro Christopher de Farias Santos, em que se aponta como órgão coatoro Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenado pela prática do crime descrito no art. 155, § 4º, I, II e IV, c/c o art. 14, II, ambos do Código Penal, à pena de 2 anos e 26 dias de reclusão, em regime inicial fechado, e ao pagamento de 11 dias- multa, vedado o recurso em liberdade (Processo n. 1501111-54.2021.8.26.0536 - fls. 15/21).
+Interpostas as apelações, o Tribunal a quo, por unanimidade, negou provimento ao recurso defensivo e deu parcial provimento ao ministerial para fixar a pena em 3 anos, 1 mês e 10 dias de reclusão, além do pagamento de 15 dias-multa, mantida, no mais, a sentença recorrida (Apelação Criminal n.1501111-54.2021.8.26.0536 - fls. 22/31).
+Neste Tribunal Superior, a Defensora Pública almeja, liminarmente e no mérito, o restabelecimento da tentativa delitiva reconhecida na sentença monocrática, com reflexo na pena imposta.
+Liminar indeferida (fls. 35/36), informações prestadas (fls. 40/53), o Ministério Público Federal opinou pelo não conhecimento do writ oupela denegação da ordem, por meio de parecer proferido pelo Subprocurador-Geral da República Rodolfo Tigre Maia, assim ementado(fl. 55):
+HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. FURTO QUALIFICADO.RECONHECIMENTO DA TENTATIVA. IMPOSSIBILIDADE. INVERSÃO DA POSSE. TEORIA DA AMOTIO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO: PARECER PELO NÃO CONHECIMENTO DO WRIT OU, SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+O Tribunal de origem entendeu quenão há falar em tentativa, pois nos delitos patrimoniais, em especial o furto e o roubo, tem-se a consumação com a inversão da posse da res, preconizando a teoria da apprehensio.O policial deixou claro em juízo ter encontrado os Réus carregando os compressores a 15 metros do local, assim, houve a inversão da posse da res.Ou seja, com a inversão da posse da res, o delito já estava consumado. Assim, afasto a tentativa (fl. 28 - grifo nosso).
+Como se vê,quanto à alegação de que o crime não teria sido consumado, o acórdão local consignou não haver como ser reconhecida a forma tentada, pois, ainda que por curto espaço de tempo, os agentes estiveram na posse da "res", fora da esfera de vigilância da vítima, que só foi recuperada pela rápida atuação policial(e-STJ fls.570/571), entendimento esse que encontra eco na jurisprudência sedimentada desta Corte, conforme se extrai da intelecção do verbete n. 582 da Súmula do STJ, aplicável ao furto, mutatis mutandis: Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada(AgRg no AgRg no AREsp n. 1.617.209/SP,Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/9/2021).
+Assim, estando o acórdão impugnado em harmonia com a jurisprudência desta Casa, não há falar em existência de constrangimento ilegal a ser sanado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. CONDENAÇÃO. CONSUMAÇÃO. INVERSÃO DA POSSE DO OBJETO FURTADO. PLEITO DE RECONHECIMENTO DA FORMA TENTADA. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
