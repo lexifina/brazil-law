@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por CELIO DE OLIVEIRA ROCHA, com fundamento no art. 105, inciso III, alíneaa, da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Acreproferido no julgamento do Apelação Criminaln.0000514-48.2020.8.01.0001
+Consta dos autos que o Recorrente foi condenadocomo incurso no art. 1.º, inciso II (várias vezes), c.c. o art. 11, ambos da Lei n. 8.137/1990, em continuidade delitiva,às penas de3 (três) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, no regime inicial aberto, e60 (sessenta) dias-multa, substituída a pena privativa de liberdade por penas restritivas de direitos (fl. 1371).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 1649-1697).
+Nas razões do recurso especial, aponta-se, inicialmente, ofensa à Súmula Vinculante n. 24, sob o argumento de que, conforme o referido enunciado sumular,"a materialidade dos delitos denunciados estaria devidamente evidenciada com a juntada da Certidão de Dívida Ativa do Estado do Acre, o que não ocorre neste processo." (fl. 1706).
+Alega-se, ainda, ofensa ao art. 59 do Código Penal, sustentando-seque a pena-base deveria ter sido fixada no patamar mínimo legal.
+Contrarrazões às fls. 1718-1726.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial e, caso conhecido, pelo seu desprovimento (fls. 1736-1748).
+É o relatório.Decido.
+De início, deve-se destacar que o recurso especial é instrumento processual específico destinado a uniformizar a interpretação da legislação federal, nos termos do art. 105, inciso III, da Constituição da República. Desse modo, é inadmissível o recurso especial na parte em que se aponta ofensa àSúmula Vinculante n. 24, pois o referido enunciado não se configura como lei federal para fins de interposição do apelo nobre.
+Nesse sentido, confiram-se:
+" .. 1. A interposição de recurso especial não é cabível com fundamento em violação de súmula vinculante do STF, porque esse ato normativo não se enquadra no conceito de lei federal previsto no art. 105, III, "a", da CF.
+ .. "(AgInt no AREsp 1.498.974/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/09/2021, DJe 23/09/2021, sem girifos no original.)
+" .. 3. A interposição de recurso especial não é cabível com fundamento em violação de súmula vinculante do STF, porque esse ato normativo não se enquadra no conceito de lei federal previsto no art. 105, III, "a" da CF/88.
+ .. "(REsp 1.806.438/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/10/2020, DJe 19/10/2020, sem grifos no original.)
+De outra parte, o Juízo de origem, ao analisar os vetoresjudiciais do art. 59 do Código Penal, fixou a pena-base do Recorrente em 2 (dois) anos e 4 (quatro) meses de reclusão- 4 (quatro) meses acima do mínimo legal-, em razão da avaliação negativa das consequências do crime, pois a sua conduta "causou um prejuízo milionário aos cofres públicos" (fl. 1369).
+O Juízo sentenciante esclareceu, ao analisar a materialidade delitiva,que "os valores oriundos do crime praticadochegaram a faixa de aproximadamente R$ 1.417.267,75 (um milhão quatrocentos e dezessete mil, duzentos esessenta e sete e setenta e cinco centavos)." (fls. 1365-1366, sem grifos no original).
+Portanto, o aumento efetuado na pena-base está devidamente justificado e encontra amparo na jurisprudência desta Corte Superior, que se firmou no sentido de que "é admissível a valoração negativa das consequências do crime de sonegação fiscal quando expressivo o valor do crédito tributário suprimido ou reduzido na forma do art. 1º da Lei n.º 8.137/1990"(AgRg no AgRg no AREsp 1.924.074/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/09/2021, DJe 04/10/2021).
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SONEGAÇÃO FISCAL. EXPRESSIVO VALOR SONEGADO. PENA-BASE. MAJORAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO. INÚMERAS PRÁTICAS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a orientação desta Corte, o expressivo valor sonegado, a demonstrar elevado prejuízo causado aos cofres públicos, constitui motivação válida para a exasperação da pena-base pelas consequências do delito.
+2. A fração para a majoração pela continuidade deve obedecer os parâmetros previstos no caput do art. 71 do Código Penal, sendo 1/6 para a hipótese de dois delitos até o patamar máximo de 2/3 para o caso de 7 infrações ou mais, o que ocorreu na espécie.
+3. Agravo regimental não provido."(AgRg no HC 596.738/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/09/2020, DJe 21/09/2020, sem grifos no original).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE ADIAMENTO DA SESSÃO DE JULGAMENTO. INDEFERIMENTO. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.NÃO OCORRÊNCIA. NULIDADE NO JULGAMENTO DA APELAÇÃO CRIMINAL.INTIMAÇÃO PARA A SESSÃO DE JULGAMENTO EM NOME DO ADVOGADO SUBSTABELECENTE. AUSÊNCIA DE PEDIDO EXPRESSO DE INTIMAÇÃO EXCLUSIVA NO NOME DE DETERMINADO ADVOGADO. SUBSTABELECIMENTO COM RESERVA DE PODERES. INEXISTÊNCIA DE NULIDADE. REDUÇÃO DA PENA. IMPOSSIBILIDADE.VALOR NÃO DEVOLVIDO. REVERSÃO DO JULGADO. SÚMULA 7/STJ.PARCELAMENTO. INADMISSIBILIDADE. INOVAÇÃO RECURSAL. PENA-BASE ACIMA DO MÍNIMO LEGAL. CONSEQUÊNCIAS DO CRIME. EXPRESSIVO VALOR SONEGADO.FUNDAMENTO VÁLIDO. REGIMENTAL IMPROVIDO.
+ ..
+6. O expressivo valor sonegado, a demonstrar elevado prejuízo causado aos cofres públicos, constitui motivação válida para a exasperação da pena-base pelas consequências do delito.
+7. Agravo regimental improvido e indeferido o pedido de fls.1.068/1.069."(AgRg no AREsp 1.509.336/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/12/2019, DJe 12/12/2019, sem grifos no original).
+Ante o exposto,CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ALEGAÇÃO DE OFENSA A ENUNCIADO DE SÚMULA VINCULANTE. IMPOSSIBILIDADE. ART. 59 DO CÓDIGO PENAL. CONSEQUÊNCIAS DO CRIME. ELEVADO VALOR DO TRIBUTO SONEGADO. PREJUÍZO MILIONÁRIO AOS COFRES PÚBLICOS. FUNDAMENTAÇÃO IDÔNEA. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
