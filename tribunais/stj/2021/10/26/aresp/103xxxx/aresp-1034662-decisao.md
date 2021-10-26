@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Regiãoassim ementado (e-STJ fl. 754)
+EXECUÇÃO DE SENTENÇA. 28,86%. COMPENSAÇÃO.
+A partir do momento em que sobreveio ou a concessão do reajuste no percentual devido, ou a reestruturação da carreira, com a consequente renovação da correlação entre cargos e vencimentos, a diferença entre o reajuste devido e o efetivamente concedido fica absorvida pelos novos patamares remuneratórios, na medida em que tais valores não têm origem na revisão promovida pela regra contida nas Leis nº 8.622/93 e 8.627/93, e sim na nova lei que os especificou.
+Sustenta a parte recorrente que o acórdão contrariou o disposto nos arts. 1.022, II, do CPC/2015; 467, 468, 474 e 485 do CPC/1973; 3º, caput, II, e 5º da Lei n. 8.627/1993; e7º da Lei n. 8.622/1993.
+Afirma que a decisão impugnada permitiu a compensação de valores em sede de embargos à execução, quando a matéria, na realidade, devia ter sido apontada no processo de conhecimento.
+Não admitido o recurso na origem (e-STJ fls. 318/322), a parte interpôs agravo (e-STJ fls. 324/332).
+Passo a decidir.
+Observo que o agravo desafiou os fundamentos da decisão de e-STJ fls. 318/322, autorizando o exame do recurso especial.
+Dito isso, constata-se que, no particular, o juízo de origem fundamentou:
+No caso dos autos, o parecer da Contadoria Judicial (fls. 101-106) observou os reflexos da Lei nº 8.627/93 na evolução funcional do exequente, bem como as suas fichas financeiras, juntadas às fls. 19/30. Verifico, ainda, que o referido cálculo observou a efetiva implantação dos resíduos referentes ao reajuste de 28,86% para o exequente, considerando, inclusive, as progressões funcionais concedidas por leis editadas posteriores à acima citada, nos termos da fundamentação acima.
+Ressalto, ainda, que não há, no caso, ofensa à coisa julgada, uma vez que não ficou expressamente vedada na sentença a aludida compensação.
+Com efeito, não há óbice a que se proceda à compensação na fase de liquidação do julgado, quando a sentença não vedou que assim se procedesse.
+Assim, em se tratando de ação que versa sobre a concessão de reajustes devidos a servidores públicos, os termos da sentença produzem efeitos somente enquanto perdurar o contexto legislativo vigente no momento do ajuizamento da ação. Uma vez alterado o quadro normativo que regulamenta a matéria, também sofre modificação a causa de pedir, delineando, então, os contornos de uma nova relação jurídica de direito material entre as partes envolvidas. (e-STJ fl. 260)
+Ocorre que esta Corte, em sede de recurso repetitivo (REsp 1.235.513/AL, rel. Ministro CASTRO MEIRA, Primeira Seção, julgado em 27/06/2012, DJe 20/08/2012), sedimentou o entendimento de que, nos embargos à execução, a compensação só pode ser alegada se não pôde ser objetada no processo de conhecimento. "Se a compensação se baseia em fato que já era passível de ser invocado no processo cognitivo, estará a matéria protegida pela coisa julgada."
+No particular, tenho que não foi promovido o devido exame dessas questões pelo Tribunal a quo, que se limitou a permitir a compensação sem enfrentar a celeuma sob a ótica do precedente acima invocado.
+Por outro lado, em face da impossibilidade de revolver o exame de matéria de fato no bojo deste recurso, não cabe a esta Corte avaliar se a matéria, na espécie, podia ter sido deduzida na fase de conhecimento, mas não foi.
+Ante o exposto, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, determinando o retorno dos autos à origem,para que reexamine o caso à luz do recurso representativo de controvérsia acima citado.
