@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por MOTOROLA MOBILITY COMERCIO DE PRODUTOS ELETRONICOS LTDA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 543):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ILEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA FEDERAL. BASE DE CÁLCULO DA CONTRIBUIÇÃO DEVIDA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO.
+1. A Caixa Econômica Federal não tem legitimidade para figurar no polo passivo da ação na qual se discute a própria incidência da contribuição para o FGTS. Precedentes.
+2. Conforme o entendimento do Superior Tribunal de Justiça, as contribuições para o Fundo de Garantia do Tempo de Serviço (FGTS) incidem sobre as parcelas pagas a título de horas extraordinárias, aviso prévio indenizado, adicional de férias (terço constitucional), adicional de insalubridade, adicional de periculosidade, adicional noturno e, ainda, sobre o auxílio-doença ou o auxílio acidente durante os primeiros quinze dias de afastamento do trabalhador, não se podendo equipará-las às contribuições previdenciárias por ausência de previsão legal.
+3. Agravo interno não provido.
+Sustenta a recorrente a repercussão geral da questão tratada e a violação ao art. 195, inciso I, alínea "a", da Constituição Federal.
+Aduz que as verbas de natureza indenizatória não ensejam a incidência de contribuição para o Fundo de Garantia do Tempo de Serviço - FGTS.
+De outro lado, defende a legitimidade da Caixa Econômica Federal para compor a lide,na medida em que é o ente responsável pela emissão do Certificado de Regularidade de FGTS.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazões às e-STJ fls. 580/582.
+É o relatório.
+O Supremo Tribunal Federal, no julgamento do RE 1.050.346 RG/SC, firmou entendimento no sentido de que "Não possui repercussão geral, em virtude de sua natureza infraconstitucional, a discussão acerca da definição da base de cálculo do Fundo de Garantia por Tempo de Serviço (FGTS)" (Tema 955/STF).
+Confira-se, por oportuno, a ementa do julgado:
+REPERCUSSÃO GERAL. FUNDO DE GARANTIA POR TEMPO DE SERVIÇO (FGTS). BASE DE CÁLCULO. REGULAMENTAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TEMA 955. AGRAVO A QUE SE NEGA PROVIMENTO. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. MULTA APLICADA. I - A controvérsia atinente à definição da base de cálculo da contribuição ao FGTS é de natureza infraconstitucional (Tema 955 - RE 1.050.346-RG). II - Agravo regimental a que se nega provimento, com majoração dos honorários advocatícios (art. 85, § 11, do CPC) e aplicação de multa (art. 1.021, § 4º, do CPC). (RE 1008965 AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 20/10/2017, PROCESSO ELETRÔNICO DJe-250 DIVULG 30-10-2017 PUBLIC 31-10-2017)
+No mesmo diapasão:
+Agravo regimental no recurso extraordinário. Tributário. FGTS. Definição da base de cálculo. Ausência de repercussão geral.
+1. O Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, concluiu pela ausência da repercussão geral da matéria relativa à definição da base de cálculo do FGTS.
+2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC).
+3. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça. (RE 1073647 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 23/02/2018, PROCESSO ELETRÔNICO DJe-043 DIVULG 06-03-2018 PUBLIC 07- 03-2018)
+Finalmente, da leitura das razões recursais, verifica-se a deficiência de fundamentação do recurso extraordinário quanto à alegada legitimidade da Caixa Econômica Federal, uma vez que a recorrente não indicou o artigo da Constituição Federal que teria sido violado por esta Corte Superior de Justiça no acórdão recorrido, o que enseja a aplicação do verbete 284 da Súmula do Supremo Tribunal Federal:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. AUSÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO. SÚMULAS 282 E 356 DO STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO APELO EXTREMO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A matéria constitucional invocada no recurso extraordinário não foi apreciada pelo acórdão recorrido e tampouco foram opostos embargos de declaração a fim de suscitá-la. Súmulas 282 e 356 do STF. Inadmissível o prequestionamento implícito. Precedentes. 2. Ausência de demonstração, nas razões do apelo extremo, de que forma o acórdão recorrido teria violado os dispositivos constitucionais dados como contrariados, o que inviabiliza a sua análise, nos termos da Súmula 284 do STF. 3. Agravo regimental a que se nega provimento.
+(ARE 1235044 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 24/08/2020, PROCESSO ELETRÔNICO DJe-225 DIVULG 10-09-2020 PUBLIC 11-09-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DAS RAZÕES RECURSAIS. SÚMULA 284/STF. RECURSO EXTRAORDINÁRIO QUE NÃO ADMITE O EXAME DE NORMAS INFRACONSTITUCIONAIS. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. A parte não indicou de que forma as normas constitucionais mencionadas teriam sido violadas pelo acórdão recorrido, o que leva à aplicação do óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). 2. O aresto impugnado, com fundamento na legislação ordinária e no substrato fático constante dos autos, rejeitou a exceção de suspeição e impedimento, matéria situada no contexto normativo infraconstitucional. Inviável, ademais, o reexame de provas em sede de recurso extraordinário, conforme Súmula 279 ("Para simples reexame de prova não cabe recurso extraordinário"). 3. Agravo Regimental a que se nega provimento.
+(ARE 1272389 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-213 DIVULG 26-08-2020 PUBLIC 27-08-2020)
+Ante o exposto, no atinente à alegada violação aoart. 195,inciso I, "a",da Constituição Federal, com fundamento no art. 1.030, I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário e, no que tange ao pleito de reconhecimento da legitimidade da Caixa Econômica Federal, com arrimo no art. 1.030, V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. BASE DE CÁLCULO DO FUNDO DE GARANTIA POR TEMPO DE SERVIÇO. NATUREZA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 955/STF. SEGUIMENTO NEGADO.LEGITIMIDADE DA CAIXA ECONÔMICA FEDERAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. INCIDÊNCIA DO ENUNCIADO 284 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO INADMITIDO.
