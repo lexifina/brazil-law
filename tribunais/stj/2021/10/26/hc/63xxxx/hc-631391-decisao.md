@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de EMILLY RAIANE MOURA MARINHO contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba no HC n.0813878-67.2020.8.15.0000.
+Consta dos autos que a Paciente foi presa em flagrante, em 1.º/10/2020, pela suposta prática doscrimes previstos nos arts. 33 e 35, ambosda Lei n. 11.343/2006, em razão da apreensão de "106 (cento e seis) mudas de maconha, de tamanho mediano de cultivo, revelando um peso líquido total de 7.500,0g (sete mil e quinhentas gramas), conforme laudo de constatação" (fl. 260).A prisão foi convertida em preventiva pelo Juízo de primeira instância.
+Inconformada, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem.
+Nestewrit, o Impetrante sustenta:a)ilegalidade da prisão preventiva da Paciente, por ter sido decretada de ofício pelo Juízo de primeira instância;b)ausência de indícios suficientes de autoria;c)não configuração do delito de tráfico;d)ausência dos requisitos para manutenção da custódia cautelar; ee)desproporcionalidade da prisão provisória com eventual condenação.
+Requer, liminarmente e no mérito, seja revogada a prisão preventiva daPaciente ou, subsidiariamente, substituída por medidas cautelares alternativas.
+Consoante informações obtidas no endereço eletrônico do Tribunal de origem, foi proferida sentença, em 23/03/2021, julgando parcialmente procedente a ação penal, para condenar a Paciente às penas de 2 (dois) anos e 5 (cinco) meses de reclusão, em regime aberto, e 300 (trezentos) dias-multa, como incursa no art. 33, § 4.º, da Lei n. 11.343/2006, substituída a pena privativa de liberdade por duas restritivas de direito, tendo-lhe sido concedido o direito de apelar em liberdade.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, JULGO PREJUDICADO o pedido dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA CONSTRIÇÃO CAUTELAR. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA, COM CONCESSÃO DO DIREITO DE APELAR EM LIBERDADE. AUSÊNCIA SUPERVENIENTE DE INTERESSE PROCESSUAL. PEDIDO DEHABEAS CORPUSPREJUDICADO.
