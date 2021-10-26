@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLAUDILENE DE SOUZA com fundamento no art. 105, inciso III, alíneaa, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação n.0073678-39.2016.8.26.0050.
+Consta dos autos que o Juízo de primeiro grau, com esteio no inciso III do art. 397 do Código de Processo Penal, absolveu a ora Recorrente quanto ao delito preconizado no art. 155, caput, c. c. o art. 14, inciso II, do Estatuto Repressor (fls. 231-233).
+Irresignada, a Acusação interpôs apelação, à qual a Corte de origem deu provimento, a fim de determinar o retorno dos autos ao magistrado de piso para prosseguimento da ação penal, nos termos da seguinte ementa (fl. 297):
+"APELAÇÃO. FURTO SIMPLES. ABSOLVIÇÃO SUMÁRIA COM FUNDAMENTO NO ART. 397, III, DO CÓDIGO DE PROCESSO PENAL. RECURSO MINISTERIAL - APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA INVIABILIDADE SUBTRAÇÃO DE PRODUTOS AVALIADOS EM R$ 176,44, VALOR QUE NÃO É IRRISÓRIO - NECESSIDADE DE PRODUÇÃO DE PROVAS, TENDO EM VISTA QUE A BAGATELA NÃO PODE SER RECONHECIDA OBSERVANDO-SE APENAS O VALOR DO BEM. RECURSO PROVIDO, COM DETERMINAÇÃO."
+Os embargos de declaração opostos foram rejeitados (fls.321-326).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade aos arts. 1.º e 155 do Código Penal; bem como ao art. 397, inciso III, do Código de Processo Penal.
+Argumenta que, na hipótese dos autos, ao contrário do consignado pela Corte de origem, é possível a aplicação do princípio da insignificância e, portanto, de rigor, a absolvição da Ré.
+Foram apresentadas contrarrazões (fls. 350-353). O recurso especial foi admitido (fl. 356).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento e, caso conhecido, desprovimento do apelo nobre (fls. 369-370).
+É o relatório.
+Decido.
+No que diz respeito à pretensa incidência do princípio da insignificância, oacórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 298-303):
+"Narra a exordial acusatória que, no dia 31 de agosto de 2016, por volta das 13h40min, em local nela descrito, Claudilene de Souza iniciou a execução para subtrair, para si, uma garrafa de vodca Wyborowa, uma garrafa de uísque Passport, seis potes de iogurte grego, um litro de óleo, um pacote de arroz e três pacotes de café do Supermercado Dia, não se consumando o delito por circunstâncias alheias às sua vontade.
+Segundo apurado que a denunciada entrou no estabelecimento e apoderou-se das coisas, colocando-as em sua bolsa e em uma sacola plástica e saindo sem pagar. Sua conduta foi visualizada por uma cliente, que comunicou o ocorrido a um funcionário do estabelecimento comercial.
+Assim, já do lado de fora do estabelecimento comercial, dobrando a esquina da rua do mercado, a denunciada foi prontamente detida, fato que impossibilitou a consumação do crime.
+Os bens foram avaliados em R$ 176,44 (fls.24).
+A materialidade ficou provada, como se vê do boletim de ocorrência (fls. 26/29), do auto de exibição, apreensão e entrega (fls. 30/31), do auto de entrega (fls. 32), do auto de avaliação, o qual avaliou as mercadorias subtraídas na quantia de R$ 176,44 (fls. 33).
+Cumpre ver que a denúncia foi recebida (v. fls. 170), e ofertando-se resposta à acusação (fls. 227/230), proferiu a d. magistrada a decisão recorrida fundando-se, em síntese, em apontada atipicidade decorrente do reconhecimento da insignificância, o que está a merecer reparo,
+ ..
+Veja-se que a res furtiva apresenta, sim, valor econômico sendo avaliada em R$ 176,44 e não se constitui em ninharia, nem se afigurando irrelevante ou sem repercussão penal a conduta.
+ ..
+Aliás, para apreciar o relevo material da tipicidade penal se deve sopesar a ofensividade da conduta do agente, a periculosidade social da ação, o grau de reprovabilidade do comportamento e a expressividade ou não da lesão jurídica provocada, não se admitindo desconsiderar, no caso concreto, o alto grau de reprovabilidade da agente, que não é neófita na prática de furtos, contando com condenações definitivas, inclusive por furto qualificado (fls. 202, 211, 212), demonstrando evidente habitualidade delituosa.
+ ..
+Nessa linha, há de ser desconstituído o decisum, retornando àorigem os autos para não ser suprimido grau de jurisdição."
+Conforme consta do acórdão recorrido, ares furtiva- 1 garrafa de vodca, 1 garrafa de uísque, 6 potes de iogurte grego, 1 litro de óleo, 1 pacote de arroz e 3 pacotes de café -foi avaliada em R$ 176,44 (cento e setenta e seis reais e quarenta e quatro centavos), valor esse superior a 10% (dez por cento) do salário mínimo vigente à época dos fatos (31/08/2016).
+A propósito, segundo a jurisprudência desta Corte Superior de Justiça é "incabível a aplicação do princípio da insignificância quando o montante do valor dares furtivasuperar o percentual de 10% do salário mínimo vigente à época dos fatos" (AgRg no REsp 1.729.387/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/05/2018, DJe 09/05/2018).
+Por oportuno, confiram-se, ainda, as seguintes ementas de julgados proferidos por este Superior Tribunal de Justiça:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. ATIPICIDADE MATERIAL DA CONDUTA. VALOR DO BEM QUE NÃO É ÍNFIMO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. PRECEDENTES. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 568/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Na ação penal em testilha, o recorrente subtraiu bens que estavam expostos em uma feira, os quais foram avaliados em R$ 135,00 (fl. 132), correspondente, à época dos fatos (03.12.2011), a mais de 24% do salário mínimo vigente, que perfazia R$ 545,00 (quinhentos e quarenta e cinco reais), sendo inaplicável, portanto, o princípio da bagatela, tendo em vista a expressividade da lesão jurídica.
+2. Agravo regimental a que se nega provimento."(AgRg no AREsp 1.313.997/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/08/2018, DJe30/08/2018.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PENA-BASE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. ÓBICE DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. VALOR DA RES FURTIVA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AGRAVO DESPROVIDO.
+1. Incide o óbice da Súmula n. 284/STF se a parte recorrente não apontou no apelo nobre qual seria o dispositivo legal que entendeu violado.
+2. O furto de objeto avaliado em R$ 150,00 (cento e cinquenta reais) não pode ser considerado inexpressivo, mormente porque correspondia a aproximadamente 30% do salário mínimo vigente à época dos fatos.
+3. Agravo regimental desprovido."(AgRg no REsp 1.737.158/TO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/08/2018, DJe29/08/2018.)
+De outra banda, o Superior Tribunal de Justiça possui jurisprudência no sentido de que "a reiteração delitiva tem sido compreendida como obstáculo inicial à tese da insignificância, por evidenciar maior grau de reprovabilidade da conduta do acusado, ressalvada excepcional peculiaridade do caso penal" (AgRg no AREsp 904.286/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 07/12/2016; sem grifos no original).
+No mesmo sentido:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.FURTO. REINCIDÊNCIA. VALOR NÃO IRRISÓRIO DARES FURTIVA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1."A jurisprudência desta Corte Superior está firmada no sentido da não incidência do princípio da insignificância nas hipóteses de reiteração de delitos e reincidência, como é o caso dos autos"(AgRg no AREsp n. 896.863/RJ, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 13/6/2016).
+2. Ademais, no caso, ares furtivafoi avaliada em R$ 110,00 (cento e dez reais), valor que não pode ser considerado insignificante, pois representava mais de 10% (dez por cento) do salário mínimo vigente à época do fato (julho de 2020 - R$ 1.045,00), situação que corrobora a notória tipicidade material da conduta.
+3. Agravo regimental desprovido."(AgRg no HC 620.815/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.FURTO QUALIFICADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. VALOR DO BEM SUBTRAÍDO SUPERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE NA ÉPOCA DO FATO. PRÁTICA ANTERIOR DE DELITOS DE MESMA NATUREZA. INAPLICABILIDADE. REINCIDÊNCIA E MAUS ANTECEDENTES. ATIPICIDADE. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento dehabeas corpuse recurso ordinário emhabeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A Terceira Seção desta Corte, no julgamento do EREsp n.221.999/RS (Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/12/2015), estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação que a medida é socialmente recomendável.
+III - Na hipótese, não se tem como irrelevante a conduta do agente que detém comportamento reiterado na prática de crimes patrimoniais e, posteriormente, pratica novo crime, mediante escalada. No caso concreto, o valor dares furtivanão equivale a uma esmola, não configurando, portanto, um delito de bagatela, uma vez que a vítima teve um prejuízo de R$ 150,00 (cento e cinquenta reais).
+Agravo regimental desprovido."(AgRg no HC 588.675/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/09/2020, DJe 23/09/2020.)
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. FURTO.VALOR DARES FURTIVASUPERIOR A 10% (DEZ POR CENTO) DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO FATO. REINCIDÊNCIA. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. PRECEDENTES.RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
