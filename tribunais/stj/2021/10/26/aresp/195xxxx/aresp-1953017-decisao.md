@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. ASTREINTES. DECISÃO MANTIDA.
+1. Deve ser mantida a multa diária fixada em valor suficiente para produzir no devedor o temor de que no prazo concedido pelo juiz deve cumprir a obrigação de fazer.
+2. O art. 537, § 1º, do CPC permite ao juiz "de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou excluí-la", não sendo viável, contudo, o afastamento das astreintes vencidas.
+3. Agravo de Instrumento conhecido, mas não provido. Unânime. (fl. 59)
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega a violação do art. 537, caput e § 1º, I, do CPC, aduzindo que deve ser reduzido o valor exagerado das astreintes, por suposto descumprimento da obrigação imposta, para atender critérios de razoabilidade e proporcionalidade e não ensejar o enriquecimento ilícito da recorrida, trazendo os seguintes argumentos:
+3. Forçoso mostra-se o acolhimento do presente recurso especial para reduzir o valor das astreintes, eis que este, com a devida vênia, mostra-se desarrazoado e ilegítimo, ensejando enriquecimento ilícito da parte adversa.
+4. Assim, o que se pretende demonstrar, no ponto, é que, ainda que possa subsistir equívoco ou atraso no cumprimento da referida decisão antecipatória dos efeitos da tutela, a multa por hora de atraso arbitrada, com a devida vênia, mostra-se desarrazoada e ilegítima, ensejando enriquecimento ilícito da parte adversa.
+5. Como se viu, o v. aresto reconheceu a exigibilidade da multa cominatória, executada pela recorrida, no importe de R$ 20.000,00 (vinte mil reais), sendo exagerada, data vênia.
+ ..
+9. Partindo-se, pois, dessa premissa, é que como consta do regramento mencionado, a multa deve ser "suficiente e compatível com a obrigação", sendo permitido ao magistrado, de ofício ou a requerimento da parte, alterar o valor e periodicidade da penalidade, caso verifique que se tornou insuficiente ou excessiva, conforme autoriza o art. 537, §1º, inciso I, do Diploma Processual vigente.
+10. Portanto, a aplicação das astreintes não deve constituir fonte geradora de injustiças, como ocorreria, por exemplo, se permitida à cobrança da multa em valores superiores ao valor da obrigação.
+11. Mesmo raciocínio deve ser empregado quando a multa atinge patamares exorbitantes e desproporcionais, gerando-se possibilidade de enriquecimento injusto do credor, como na espécie. Daí porque existe a possibilidade de redução prevista no art. 537 do CPC/2015.
+12. Na espécie, restou incontroverso que a obrigação foi cumprida, de modo que ainda que sobrevenha entendimento contrário, partindo da premissa fixada nas instâncias inferiores, é possível afirmar, quando muito, houve cumprimento parcial da obrigação. E tal aspecto também deve refletir no valor da multa diária.
+13. A multa, ao contrário do que pretende o recorrido e, lamentavelmente foi referendado pelo v. acórdão, não pode constituir fonte de enriquecimento indevido. De fato, a função da multa é assegurar o cumprimento da decisão judicial, não tendo, pois, finalidade indenizatória. É que, se assim fosse, haveria uma inaceitável desnaturação do instituto.
+14. Nessa linha de raciocínio, cumpre defender que, o valor da astreintes não faz coisa julgada material, podendo o juiz e as instâncias judiciárias superiores reformar seu valor a qualquer momento, seja de ofício ou quando provocados. (fls. 77/79)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Na espécie, constata-se que, em razão da recalcitrância da operadora do plano de saúde em cumprir a determiação judicial, consistente no reembolso integral dos valores despendidos nas sessões de terapia ocupacional com especialização em processamento sensorial, o douto Juiz a quo determinou o pagamento de multa cominatória em favor da Agravada no montante de R$ 20.000,00 (vinte mil reais).
+ ..
+Iniciado o cumprimento de sentença para pagamento da multa cominatória fixada, a Agravante apresentou impugnação e requereu o seu afastamento ou minoração.
+Foi, então, proferida a r. decisão agravada, que manteve a multa cominatória.
+Diante de todo aduzido, tem-se que a multa cominatória no valor de R$ 1.000,00 (um mil reais) até o limite de R$ 20.000,00 (dez mil reais) é incontroversa.
+No tocante ao valor da multa diária cominada na r. decisão, considero que não é caso de exclusão ou redução, pois fixada em valor limitado e suficiente para produzir na Agravante o temor de que, no prazo assinalado, deveria adequar o reajuste do plano de saúde aos temos estabelecidos no acórdão exequendo. (fls. 64/66)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
