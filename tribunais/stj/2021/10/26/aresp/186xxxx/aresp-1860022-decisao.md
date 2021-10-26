@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELIANE DE MOURA COUTO,desafiando decisão do Tribunal de Justiça do Estado do Estado do Rio de Janeiro que não admitiu o recurso especial pelos seguintes fundamentos: (I)o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo Jurisdicionado durante o processo judicial, em obediência ao que determinam o artigo 93, IX, da Constituição da República e os artigos 489 e 1022 do CPC; e (II) o recurso especial tem comopretensão osimples reexame de prova, providência vedada pelaSúmula 07 do STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Anote-se, de início, não assistir razão à parte agravante ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial e apontar a ausência de violação aos arts.489 e 1022 do CPC, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais.") é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+Assim, verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar especificamenteo referido fundamento (ausência deviolação aos arts.artigos 489 e 1022 do CPC).
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do
+CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018,
+consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP - Rel. Min. João Otávio de Noronha - Rel. p/ acórdão Min. Luis Felipe Salomão - Corte Especial - DJe 30/11/2018).
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do
+agravo.
+Publique-se.
