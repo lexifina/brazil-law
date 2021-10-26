@@ -1,0 +1,3 @@
+DECISÃO
+Diante da notícia veiculada pelo Ministério Público Federal de quena "Ação Penal n.º 1500166-80.2021.8.26.0370, foi prolatada sentença em 14/09/2021, tendo sido o réu pronunciado para submissão a julgamento pelo Tribunal do Júri, pela prática do crime previsto no artigo 121, §2º, incisos II, III, IV, c.c. artigo 14, inciso II, ambos do Código Penal" (fl. 223, destaquei), oportunidade em que foram agregados fundamentos novos, fica sem objeto este writ, no qual se insurgia a defesa contra a decisão constritiva primeva. Assim, com fundamento no art. 34, XI, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
