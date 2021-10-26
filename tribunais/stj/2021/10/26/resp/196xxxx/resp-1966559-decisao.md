@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1.100):
+EMBARGOS À EXECUÇÃO. DIFERENÇAS DA TABELA DO SUS.CORREÇÃO MONETÁRIA. TEMA 810.
+1. Do título judicial constou previsão expressa acerca da obrigação do réu ao pagamento da diferença de 9.56% pelos serviços e procedimentos prestados ao SUS no período de 18/08/1999 a 30/11/1999.
+2. Com relação aos juros moratórios e correção monetária de débitos não tributários incidentes sobre as condenações judiciais impostas à Fazenda Pública, segundo critérios previstos no art. 1º- F da Lei nº 9.497/97, com redação conferida pela Lei nº 11.960/09, o STF, apreciando o tema 810 da Repercussão Geral (RE 870.947),  xou as seguintes teses: a) .. quanto às condenações oriundas de relação jurídica não-tributária, a  xação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; e b) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração o cial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se quali ca como m edida adequada a capturar a variação de preços da economia, sendo inidônea a promover os  ns a que se destina.
+Dessa forma, descabe a aplicação da TR como índice de atualização monetária sobre as condenações judiciais da Fazenda Pública, determinando-se a incidência do IPCA-E, por ser o índice que melhor re ete a in ação acumulada no período.
+Embargos de declaração rejeitados.
+A recorrente alega violação dos artigos 502, 503, 535, IV e VI, CPC, bem como dos artigos 866 e 884 do CC. Defende, em síntese, que "Ao contrário do que leva a crer o Tribunal, depreende-se da análise do título judicial exequendo, com a integração realizada em sede de embargos de declaração pelo e.Superior Tribunal de Justiça (REsp n.º 422.671/RS), que o termo final do reajuste dos valores da tabela do SUS é o momento em que cessada a ilegalidade, o qual ocorreu com a edição da Portaria n.º 1.323/99, ou seja, limitou-se o direito ao reajuste ao inicio dos efeitos financeiros determinados na Portaria nº 1.323/99, qual seja 01/10/1999." (fls. 1.146).
+Com contrarrazões.
+Decisão de reversão em recursoespecial às fls. 1.200.
+É o relatório. Passo a decidir.
+No que diz respeito aos artigos mencionados como violados, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Ante o exposto, não conheço o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. RECURSO NÃO CONHECIDO.
