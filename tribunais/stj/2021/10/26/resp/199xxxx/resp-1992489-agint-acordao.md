@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão (Presidente), Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo interno interposto por ASSOCIAÇÃO DAS FAMÍLIAS PARA A UNIFICAÇÃO DA PAZ MUNDIAL, em face da decisão de fls. 456-462, e-STJ, da lavra deste signatário, quenegou provimento ao agravo em recurso especial manejado pela ora agravante.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado doMato Grosso do Sul, assim ementado (fl. 353, e-STJ):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE - CONTRATO DE COMPRA E VENDA DE BEM IMÓVEL - CONTRATO QUE PREVIA A ENTREGA DO BEM LIVRE E DESEMBARAÇADO - EXCEÇÃO DO CONTRATO NÃO CUMPRIDO - IMPOSSIBILIDADE DE OUTORGA DEFINITIVA DA ESCRITURA PÚBLICA - AUSÊNCIA DE DILIGÊNCIAS DA PROMITENTE-VENDEDORA PARA DESEMBARAÇO DO BEM - PRINCÍPIO DA BOA FÉ CONTRATUAL - SENTENÇA REFORMADA - RECURSO PROVIDO.
+O artigo 476, do Código Civil, preconiza que nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento do outro.
+Sendo impossível a outorga definitiva da escritura pública do imóvel objeto do contrato de compra e venda, ante a existência de gravames na matrícula do imóvel, o qual foi prometida a entrega livre e desembaraçado, a promitente-vendedora não pode exigir o cumprimento do contrato pelos promitentes-compradores, antes de cumprida sua obrigação, conforme aplicação da teoria da exceção do contrato não cumprido.
+Opostos embargos declaratórios (fls. 363-367, e-STJ), restaram rejeitados na origem (fls. 377-382, e-STJ).
+Nas razões do Recurso Especial (fls. 384-395, e-STJ), arecorrente alegou, preliminarmente, nulidade do acórdão por cerceamento de defesa, pois o Tribunala quointimou as partes para se manifestarem acerca de eventual oposição ao julgamento virtual dos embargos de declaração, ao passo que, de forma expressa, manifestou-se nesse sentido.
+Apontou, ainda, ofensa aos arts. 476 e 1.228 do Código Civil, porquanto os recorridos, logo após a assinatura do contrato, tomaram posse da propriedade e não efetuaram o pagamento. No seu entendimento, se os recorridosnão querem pagar o valor acordado, também não podem tomar a posse do bem. Sustenta queo decidido pelo acórdão recorrido afronta seus direitos depropriedade.
+Contrarrazões às fls. 408-415, e-STJ.
+Em juízo de admissibilidade (fls. 417-422, e-STJ), inadmitiu-se orecurso.
+A agravante interpôs agravo (art. 1.042, do CPC/15), refutandoos fundamentos que embasaram odecisumhostilizado (fls. 426-433, e-STJ).
+Às fls. 456-462, e-STJ, negou-se provimento ao reclamo, com base nosenunciados daSúmula284 do STF e das Súmulas 5, 7 e 211do STJ.
+Irresignada, asucumbente maneja o presente agravo interno (fls. 465-472, e-STJ), no qual sustenta, em suma, a inaplicabilidade dosóbices das Súmulas 5 e 7 desta Corte.
+Impugnação às fls. 475-478, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDANTE.
+1. A conclusão a que chegou o Tribunal de origem, que concluiu pela ocorrência da exceção de contrato não cumprido, porquantoa promitente-vendedora descumpriu com sua obrigação contratual de entregar o imóvel inteiramente livre e desembaraçado de qualquer ônus aos agravados, fundamenta-se nas particularidades do contrato celebrado entre as partes e do contexto fático-probatório que permeia a controvérsia. Incidência das Súmulas 5 e 7 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida.
+1.De início, observa-se que não houve recurso da parte interessadaacerca dotópico1 da decisão agravada, que aplicou a Súmula 284/STF quanto a alegação de cerceamento de defesa,e do tópico 2, queaplicou oóbicedaSúmula211/STJ, quantoa suposta ofensa ao art. 1.228 do Código Civil.
+Opera-se, assim, a preclusão das matérias não impugnadas.
+2.No recurso especial, aagravante sustentouofensa aoart. 476 do Código Civil, antea não ocorrência, na hipótese,da exceção de contrato não cumprido. Reiterouque os recorridos, logo após a assinatura do contrato, tomaram posse da propriedade e não efetuaram opagamento acordado.
+No caso em tela, todavia, verifica-se que a Corte local consideroua configuração do referido instituto previsto no art. 476 da legislação civil, nos seguintes termos (fls. 356-358, e-STJ):
+Conforme acima relatado, as partes firmaram contrato de compra e venda de uma área rural de aproximadamente 75,52 hectares, composta pelas matrículas imobiliárias nº 413, 5.583, 5.602, 11.413, pelo valor certo de R$ 800.000,00, convencionando entre outras questões, que o imóvel seria entregue livre e desembaraçado de quaisquer ônus ou dívidas, conforme cláusula segunda do instrumento contratual juntado às fls. 47-52, vejamos:
+"CLÁUSULA SEGUNDA - A PROMITENTE VENDEDORA declara que a justo título, inteiramente livre e desembaraçado de todos e quaisquer ônus, impostos e taxas, dívidas ou dúvidas de qualquer natureza, arrestos, sequestros, é titular do imóvel rural, a seguir descrito:"
+No entanto, em descompasso ao livremente pactuado entre as partes, denota-se através das matrículas imobiliárias de nº (s) 413, 5.583 e 5.602 que à época da negociação existiam inúmeras prenotações de penhoras e indisponibilidade de alienação sobre o imóvel (av. 15-413, av. 16-413, R17-413, av. 8-5583, av. 9-5583 , R10-5583, av. 8-5602, av. 9-5602 e R10-5602), e ainda hoje existe uma penhora em favor do Estado de Mato Grosso do Sul, autos da Execução Fiscal nº 0014870-62.2008.8.12.0001, no valor de R$ 11.130.068,54 (onze milhões, cento etrinta e cinco mil e sessenta e oito reais e cinquenta e quatro centavos), prenotada em 14/12/2016.Nesse contexto, vale lembrar, à luz do conceito da promessa de compra e venda que é um:
+(..)
+Ou seja, o promitente-vendedor não se desincumbe de sua missão contratual transmitindo simplesmente a posse do imóvel (obrigação de dar). Sua obrigação principal é a outorga do título (obrigação de fazer) por cujo registro se transfere a propriedade e, para que esse registro seja possível, é necessário que o imóvel esteja livre de qualquer encargo, bem como preenchidos os demais requisitos de ordem administrativa e registral cuja falta constitui óbice ao registro da escritura de compra e venda.
+Ocorre que, conforme já assinalado, a obrigação de entregar o imóvel livre e desembaraçado de quaisquer ônus até hoje não foi cumprida. É certo, portanto, que a promitente-vendedora incorreu em inadimplemento contratual, ensejando aos promitentes-compradores a faculdade de valer-se da exceção de contrato não cumprido, prevista nos artigos 476 e 477 do Código Civil.
+A chamada "exceção do contrato não cumprido" ou "inexecução contratual" significa que, quando em um contrato as duas partes possuem obrigações complementares, caso a primeira descumpra sua parte, a segunda pode negar-se ao cumprimento da dela, até que a primeira dê cabo ao que lhe compete. Ou seja, nesse tipo de contrato bilateral, as duas partes possuem obrigações com reciprocidade de direitos e deveres; uma vez que a prestação de uma é causa da prestação da outra.
+Assim, o princípio da exceção do contrato não cumprido visa proteger aqueles que forem prejudicados pelo descumprimento das obrigações da outra parte, evitando que tenham que dar sequência às suas demandas contratuais sem que os deveres da outra parte, dos quais depende sua contrapartida, tenham sido cumpridos.
+Na hipótese em comento, não há dúvidas de que a promitente-vendedora descumpriu com sua obrigação contratual de entregar o imóvel inteiramente livre e desembaraçado de qualquer ônus, não lhe sendo permitido, destarte, exigir dos promitentes-compradores a contraprestação que lhes cabe na relação contratual que é o pagamento do preço, enquanto não cumprida sua obrigação.
+Portanto, sendo impossível a outorga definitiva da escritura públicado imóvel objeto do contrato de compra e venda, ante a existência de gravames nas matrículas do imóvel no qual se comprometeu a entregar livre e desembaraçado, não pode a promitente-vendedora exigir o cumprimento do contrato pelos promitentes- compradores, ante a aplicação da aludida teoria da exceção do contrato não cumprido.
+Nesse contexto, não obstante as alegações formuladas em sede de agravo interno, entende-se inviável o afastamento das Súmulas 5 e 7/STJ, já que a alteração das conclusões acima referidas, de fato, demandaria o revolvimento do contrato celebrado entre as partes e damatéria probatória dos autos.
+A propósito, confira-se oseguintejulgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PRAZO PARA CUMPRIMENTO DAS OBRIGAÇÕES. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. NOTIFICAÇÃO DO INADIMPLEMENTO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS E DO INSTRUMENTO CONTRATUAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A exceção do contrato não cumprido, derivada do disposto no artigo 476 do CC/2002, incide no caso dos autos, não sendo possível ao agravante exigir o cumprimento das obrigações impostas aos agravados, sem que ela própria tenha cumprido as suas.
+2.O acórdão estadual examinou a matéria fática para concluir pela incidência da exceção de contrato não cumprido. Dessa forma, inviável alterar tal conclusão em recurso especial, ante o óbice das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1430896/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2019, DJe 23/08/2019)
+Assim, de rigor a manutenção da decisão agravada, por seus próprios fundamentos em relação à presente questão.
+3.Do exposto, nego provimento ao agravo interno.
+É como voto.
