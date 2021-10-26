@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fl. 157):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA. SINDICATO. VALOR DA CAUSA. ESTIMATIVA. RECURSO PROVIDO.
+1. O comando legal contido nos artigos 258, 259 e 260 do Código de Processo Civil estabelece a fixação do montante de acordo com o benefício econômico pretendido na demanda, não comportando a atribuição de modo livre, inclusive porque acarretará a repercussão no processo em relação à competência, rito, custas, verba honorária etc.
+2. O Código de Ritos não contém previsão específica quanto às tutelas coletivas, remanescendo dúvida a respeito dos parâmetros de fixação. Isso porque, ao contrário das demandas Movidas individualmente ou em litisconsórcio, em que a adequação do valor da causa ao conteúdo econômico objetivado na ação não denota, em regra, maior dificuldade, no caso das tutelas coletivas a aferição pode se revelar complexa, na medida em que presente o interesse de uma série de sujeitos, determináveis ou não, conquanto representados pelo substituto processual.
+3. A ação originária, promovida pelo Sindicato dos Servidores do Poder Judiciário Federal e Ministério Público da União em Mato Grosso do Sul - SINDJUFE/MS, não visa à obtenção de um benefício econômico e sim o reconhecimento de um direito em favor de seus sindicalizados.
+4. A autora atua em nome próprio em defesa de interesse alheio, sendo os reais beneficiários da demanda os sindicalizados, terceiros interessados representados nos autos pelo sindicato. Eventual sentença de procedência terá conteúdo genérico, havendo necessidade de, posteriormente, ser deduzida a pretensão de natureza executória por parte dos substituídos, a fim de apurar o quantum debeatur, daí porque afigurar-se razoável a atribuição de um valor estimativo nesta fase processual. Precedentes jurisprudenciais.
+5. Agravo de instrumento a que se dá provimento.
+Alega a União violação dos arts. 258, 259 e 260 do CPC/1973. Afirma que, mesmo nos casos em que é possível fixar um valor provisório para causa, não é correta a fixação de valor ínfimo, notadamente no particular, "que, inequivocamente, é de valor vultoso, como no caso vertente, em que o Sindicato autor pleiteia isonomia de verbas em favor de todos os servidores da Justiça Federal e do MPU".
+O apelo não foi admitido na origem (e-STJ fls. 72/73) tendo sido interposto agravo (e-STJ fls. 75/79).
+Passo a decidir.
+Entendo que o recurso merece provimento.
+De início, observo que o agravo interposto pelo ente federal desafiou os fundamentos da decisão de inadmissão, autorizando o exame do recurso especial.
+Além disso, ao contrário do que constou na decisão de admissibilidade na instância anterior, tenho que os fundamentos do acórdão regional também foram devidamente impugnados no apelo nobre, de sorte que não era aplicável a Súmula 283 do STF.
+O juízo de origem firmou a compreensão de que deveria ser fixado um valor mínimo à causa, por se tratar de ação promovida por sindicato, em que ainda seria determinado, futuramente, o montante exato da pretensão econômica em relação a cada substituído.
+A União, por sua vez, rejeitou essa tese, afirmando que, mesmo em casos de fixação provisória do valor da causa, esse não pode ser irrisório, notadamente na espécie, em que se perceberia elevado interesse econômico.
+Houve, portanto, enfrentamento da questão, aautorizar o conhecimento, ao menos por esse aspecto, do recurso especial.
+No mérito em si, vejo que o Tribunal Regional decidiu a controvérsia em sentido contrário ao entendimento desta Corte Superior, que compreende que o valor da causa deve corresponder ao conteúdo econômico da demanda e que, em ação coletiva, é cabível o cálculo do valor da causa pela soma do que pleiteado pelos substituídos.
+Nesse mesmo sentido: EDcl no AREsp 609.070/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 02/03/2021, DJe 15/03/2021; AgRg no REsp 1.339.419/SC, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 10/3/2015, DJe 17/3/2015; AgRg nos EDcl no AREsp 486.989/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/09/2014, DJe 15/09/2014.
+Ante o exposto, CONHEÇO DO AGRAVO para DAR PROVIMENTO ao recurso especial e negar provimento ao agravo de instrumento.
+Publique-se. Intimem-se.
