@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOÃO ANTONIO DA COSTA MOREIRA, com fundamento no art. 105, inciso III, alínea "c", da CF/1988, contra acórdão do TRF da 5ªRegião assim ementado (e-STJ fl. 169):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PARCELAMENTO DE DÉBITOAPÓS O AJUIZAMENTO DA AÇÃO. IMPROCEDÊNCIA DO PEDIDO.
+1. O pedido de adesão a parcelamento, após o ajuizamento da ação executiva, importa em confissão da dívida e conduz à perda superveniente do interesse processual da contribuinte. Daí que deve ser mantida a sentença,proferidaem sede de embargos à execução fiscal, que reconhecera a extinção do processo sem resolução do mérito.
+2. Ademais,mesmo não tendo alcançado a fase de consolidação, o fato de o executado ter requerido a adesão ao parcelamento nos termos da Lei n.º 11.941/2009 importa em ato inequívoco de reconhecimento do débito, hábil a conduzir à perda superveniente do interesse processual do embargante.
+3. Demais disso, ao apelar contra a sentença que extinguiu os embargos,o contribuinte não aventura a suscitar qualquer nulidade ou defeito do parcelamento a que aderira, a ensejar a sua desconstituição.
+4. Apelação improvida.
+No especial, a parte alega, em síntese, violaçãodo art. 1.022, parágrafo único, II, do CPC/2015, pois entende que, apesar dos embargos de declaração, o Tribunal de origem foi omisso sobre questões essenciais ao deslinde da controvérsia;
+Além disso, suscita divergência de interpretação dos arts. 135, 156 V, e 174 do CTN entre o acórdão regional recorrido e julgados doSuperior Tribunal de Justiça quanto à necessidade de comprovação pelo Fisco da ocorrência de uma das hipóteses previstas no art.135 do CTN para que seja autorizado o redirecionamento da execução fiscal ao sócio-gerente.
+Sustenta, ainda, dissídio jurisprudencial em relação a julgados do TRF da 5ª Região e do STJ, segundo os quais a adesão a programa de parcelamento não implica renúncia a prescrição.
+Contrarrazões apresentadas àe-STJ fl. 232.
+O recurso especial foi admitido na origem (e-STJ fl. 234).
+Passo a decidir.
+Considerado isso, importa mencionar que o recurso especial se origina de embargos à execução ajuizados por JOÃO ANTÔNIO DA COSTA MOREIRA contra execução fiscal movida pela FAZENDA NACIONAL.
+No primeiro grau de jurisdição, a ação foi extinta em razão da adesão ao contribuinte a programa de parcelamento.
+Irresignada, a embargante interpôs recurso de apelação, não provido pelo Tribunal de origem. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 166/167):
+Inicialmente, não colhe o pedidode justiça gratuita requerido nas razões de apelação do embargante, ora apelante. É que, da análise dos autos verifica-se que tal pedido só fora formalizado na presente fase recursal, entretanto, não demonstra o apelante a mudança da condição demiserabilidade, para fins de concessão da justiça gratuita.
+A sentença não merece reforma.
+Frise-se, inicialmente,que a questão relativa à prescrição/decadência de alguns dos créditos indicados na CDA fora genericamente deduzida pela parte apelante, que, entretanto, não traz elementos concretos para a verificação de sua real ocorrência ou não.
+Em verdade, o pedido de adesão a parcelamento importa em confissão da dívida de forma irretratável e irrevogável e conduz à perda superveniente do interesse processual do contribuinte, com relação aos embargos à execução fiscal, devendo o processo ser extinto, nos termos do art. 267, VI, do CPC, e em atenção ao princípio "venire contrafactumproprium", pois afigura-se contraditório o parcelamento dos débitos em concomitância com a interposição de embargos à execução fiscal.
+Neste sentido, os seguintes precedentes (sem grifos no original):
+ ..
+De seu turno, mesmo não tendo alcançado a fase de consolidação,o fato de o executado ter requerido a adesão ao parcelamento nos termos da Lei n.º11.941/2009 importa em ato inequívoco de reconhecimento do débito, hábil a conduzir à perda superveniente do interesse processual do embargante.
+De mais a mais, ao apelar contra a sentença que .extinguiu os embargos o contribuinte não aventura a suscitar qualquer .nulidade do parcelamento a queaderira, a ensejar a sua desconstituição.
+Com essas considerações, NEGO PROVIMENTO à apelação.
+Os embargos de declaração apresentados foram rejeitados.
+Pois bem.
+Feita essa anotação, constata-se que o recurso especial não merece ser conhecido quanto à suposta violação doart. 1.022 do CPC/2015, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões. Essacircunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes AgInt no AREsp 1.245.152/PE, Relator Ministro Francisco Falcão, Segunda Turma, DJe 08/10/2018, REsp 1.627.076/SP, Relator Ministra Regina Helena Costa, Primeira Turma, DJe 14/08/2018, AgInt no AREsp 1.134.984/MG, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 06/03/2018 e AgInt no REsp 1.720.264/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 21/09/2018.
+Quanto à alegada violação dos arts. 135, 156 V, e 174 do CTN verifica-se dos autos que o conteúdo normativo desses dispositivos legaiscarece do requisito constitucional do prequestionamento, pois não houve debate na Corte de origem acerca do redirecionamento da execução fiscal, ou sobre sua prescrição.
+Embora não seja exigida a menção expressa a dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento consagrado na edição da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ademais, observa-se que a parte recorrente não atendeu aos requisitos doart. 541, parágrafo único, do CPC/1973 (art. 1.029, § 1º, do CPC/2015) e do art. 255, §1º, do RISTJ, tendo em vista que a divergência foi apresentada de modo insuficiente, pois não realizada, devidamente, a demonstração das circunstâncias que identificam ou assemelham os casos confrontados, de modo a bem caracterizar a interpretação legal discordante.
+Segundo o entendimento pacífico desta Corte de Justiça, a simples transcrição de ementas, sem que se evidencie a similitude das situações fáticas e jurídicas, não se presta para demonstração da divergência jurisprudencial. Nesse sentido: AgRg no AREsp 752.892/RS, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015;AgRg no REsp 1.558.877/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016;AgInt no AREsp 1.736.638/PE, RelatoraMinistra Maria Isabel Gallotti, Quarta Turma,DJe 12/05/2021; e AgInt no REsp 1.704.378/RJ, RelatorMinistro Benedito Gonçalves, Primeira Turma,DJe 13/05/2021.
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
