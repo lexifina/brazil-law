@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELOY BURIGO, HELDER BURIGO eMAREL EMPREENDIMENTOS, PARTICIPAÇÕES, COMÉRCIO E REPRESENTAÇÕES LTDA. contra decisão(e-STJ fls. 513/519)em que não conheci de seurecurso especial, em razão da incidência da Súmula 7 do STJ.
+Nas suas razões, a embargante alega, em suma, omissão quanto àfalta de indícios mínimos para configurar o redirecionamento da execução fiscal aos sócios, ocaráter confiscatório da multa exigida e quanto àSELIC, bem como argui a inaplicabilidade da Súmula 7 do STJ.
+Sem impugnação (e-STJ fl. 537).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material, víciosinexistentes na espécie.
+A decisão embargada, especificamente quanto àinexistência de manifestação do Tribunal acerca da existência de provas, não valoradas nos autos, aptas a comprovar a nulidade do título, foi clara ao afirmar que o recorrente não demonstrou que provas seriam estas ou qual a sua relevância para o julgamento da controvérsia.
+Ademais, não houve nenhuma manifestação da Corte acerca da possibilidade de utilização da prova pericial como substituto para o lançamento, porque este não foi objeto da lide inicialmente posta a julgamento. Atrai-se, nesses dois pontos, a aplicação da Súmula 284 do STF.
+Quanto à violação dos arts. 130 e 330 do CPC/1973,o magistrado, como destinatário final das provas, pode, com base em seu livre convencimento motivado (art. 130 do CPC/1973), indeferir ou deferir aquelas que considere dispensáveis ou não à solução da lide, sendo inviável, em recurso especial, rever se determinada prova era de fato necessária, porquanto esse procedimento é vedado pela sua Súmula 7.
+No tocante a multa e seus juros e correção monetária, a decisão foi clara ao afirmar que, conforme enunciado da Súmula 7 do STJ, em recurso especial, não é adequada a análise sobre os requisitos de validade da certidão de dívida ativa, pois essa providência implica exame de prova (v. g.: AgRg no Ag 824.609/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24/03/2009; REsp 925.719/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/09/2008; REsp 814.075/MG, Rel.Ministro Luiz Fux, Primeira Turma, DJe 02/04/2008; REsp 766.050/PR, Rel. Ministro Luiz Fux, Primeira Seção, DJ 25/02/2008).
+Nesse contexto, verifica-se que não houve omissão na decisão embargada.
+Ponderados esses elementos, constato que a insurgência do embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
