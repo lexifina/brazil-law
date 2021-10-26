@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por ASSOCIAÇÃO DE POUPANÇA E EMPRÉSTIMO POUPEX contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VALIDADE DAS INTIMAÇÕES REALIZADAS POR MEIO ELETRÔNICO. AUSÊNCIA DE OPORTUNA COMUNICAÇÃO DE ALTERAÇÃO DA REPRESENTAÇÃO PROCESSUAL DO EXECUTADO. EXECUTADO QUE NÃO SE MANIFESTOU NA FASE DE LIQUIDAÇÃO DE SENTENÇA, DEIXANDO DE APRESENTAR SEUS CÁLCULOS OU DE IMPUGNAR OS DO EXECUTADO, CONFIGURANDO SE PRECLUSÃO. EXCESSO DE EXECUÇÃO: INEXISTÊNCIA. CÁLCULO QUE DEVE SER REALIZADO LEVANDO SE EM CONTA A IMPOSSIBILIDADE DE ANATOCISMO, TAL COMO FOI FIXADO NO TÍTULO. RECURSO DESPROVIDO.
+Alega violação dos arts. 494, 505, caput, e 509, § 4º, do CPC, no que concerne à declaração de nulidade do acórdão por violação à coisa julgada e ao princípio da fidelidade do título judicial, trazendo os seguintes argumentos:
+Como rebatido no Recurso de Agravo de Instrumento, os cálculos que a decisão diz que atendeu aos ditames do título exeqüendo, não condizem com o que foi decidido pelo próprio Juízo, em flagrande ofensa à coisa julgada e ao Princípio da Fidelidade do Título Judicial, previsto no artigo 509, §4º do CPC:
+ ..
+Os cálculos homologados NÃO CONSIDERARAM os parâmetros contratuais que não foram alterados por força de decisão judicial, pois, além de excluírem a capitalização de juros, excluírem, também, a amortização negativa, que não fez parte da COISA JULGADA.
+ ..
+É consabido ser vedado ao Juiz inovar quando já existe nos autos decisão transitada em julgado. A decisão hostilizada TAMBÉM afrontou o preconizado no art. 505,  caput  do antigo Código de Processo Civil, que ensina:
+ ..
+Ao presente caso aplica-se, também, o que assevera o art. 494 do CPC/75. Publicada Sentença de mérito, o juiz cumpre e acaba o ofício jurisprudencial, não lhe sendo mais lícito alterá-la, senão em situações excepcionais (fls. 98-101).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Portanto, fixada a premissa de que as intimações foram válidas (e que, por conseguinte, o agravante não se manifestou na fase de liquidação), é preciso reconhecer a preclusão quanto ao direito de se insurgir quanto às decisões que encerraram a liquidação, devendo o presente recurso ser examinado, quanto ao mérito, somente quanto ao suposto excesso de execução, ou seja, se os cálculos corretos são os que constam do "anexo 1" do laudo pericial, ou de seu "anexo 3".
+Sobre o tema, novamente não assiste qualquer razão ao agravante, pois o "anexo III" (fls. 493 e ss.) contempla o "saldo devedor sem anatocismo" (fls. 499), justamente como havia sido determinado no julgamento monocrático da apelação (fls. 579/590), ocasião em que este Relator havia determinado o cálculo do saldo devedor excluindo-se o anatocismo, dada a circunstância de que o contrato havia sido firmado em 1988 (fls. 589).
+À conta de tais fundamentos, vota-se por NEGAR PROVIMENTO AO RECURSO, mantendo-se a decisão agravada tal como proferida (fls. 56-57).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.588.826/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 1º/7/2020; REsp 1.431.610/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/2/2019; e AgRg no AREsp 755.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/2/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
