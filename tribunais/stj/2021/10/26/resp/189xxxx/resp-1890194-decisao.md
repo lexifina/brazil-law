@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA - FUB, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (e-STJ fl. 531):
+CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE DE POLÍCIA FEDERAL. EXAME DE CAPACIDADE FÍSICA. APROVAÇÃO EM SEGUNDA PROVA, MEDIANTE CONVOCAÇÃO ESPONTÂNEA DA ADMINISTRAÇÃO. PRINCÍPIOS DA CONFIANÇA LEGÍTIMA E DA BOA-FÉ. NOMEAÇÃO E POSSE. POSSIBILIDADE.
+I - A orientação jurisprudencial de nossos tribunais firmou-se no sentido de que "a classificação e aprovação do candidato, ainda que fora do número mínimo de vagas previstas no edital do concurso, confere-lhe o direito subjetivo à nomeação para o respectivo cargo se, durante o prazo de validade do concurso, houver o surgimento de novas vagas, seja por criação de lei ou por força de vacância" (REsp 1359516/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/05/2013, DJe 22/05/2013).
+II - Na hipótese dos autos, sobrevindo espontânea convocação dos candidatos, na esfera administrativa, para realização de novo teste de aptidão física, em que lograram êxito, em face do que prosseguiram no certame, com sucesso, nas etapas subsequentes, inclusive, no curso de formação profissional, afigura-se legítima a nomeação e posse no cargo público para o qual concorreram, independentemente de eventual equivoco da Administração nessa segunda convocação, prestigiando-se, assim, os princípios da confiança legítima e da boa-fé.
+III - Apelação e Remessa oficial desprovidas. Sentença confirmada
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 555/567).
+A recorrente aponta violação dos arts. 489, § 1º, e 1022, II, do CPC/2015, 53 da Lei n. 9784/1999e 41 da Lei n. 8666/1993, sustentando: a) a negativa de prestação jurisdicional; b) que a Administração incorreu em erro ao convocar os candidatos para novo teste físico, sendo certo que tem o dever de anular o ato após a constatação do vício; c) a Administração não pode descumprir as normas do edital.
+Após contrarrazões, o recurso recebeu juízo positivo de admissibilidade.
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+Passo a decidir.
+O recurso não merece prosperar.
+Com efeito, em relação aos arts. 489 e 1.022 do CPC/2015,esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões. Tal circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes: AgInt no AREsp 1245152/PE, Relator Ministro FRANCISCO FALCÃO,SEGUNDA TURMA, DJe 08/10/2018;REsp 1627076/SP, Relator Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 14/08/2018;AgInt no AREsp 1134984/MG, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 06/03/2018.
+No tocante às demais alegações, nota-se que a instância ordinária dirimiu a controvérsiautilizando-se de fundamentos constitucionais e infraconstitucionais, ambos suficientes e autônomos à preservação do acórdão recorrido. Contudo, aora recorrente não cuidou de interpor o devido recurso extraordinário, atraindo, assim, a incidência da Súmula 126 do STJ.
+Ademais, em relação aos arts.53 da Lei n. 9784/1999e 41 da Lei n. 8666/1993, da análise dos autos, verifica-se a ausência de prequestionamento, sendo certo queos embargos de declaração apresentados não cumpriram com a finalidade de suprir essa omissão. Nessa hipótese, devem incidir os enunciados das Súmulas 211 do STJ e 282 do STF.Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. FRAUDE DE TERCEIRO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. 2. SÚMULAS 282/STF E 211/STJ. 3. ART. 70, III, DO CPC/1973. DENUNCIAÇÃO DA LIDE. FALTA DE OBRIGATORIEDADE NO CASO. SÚMULAS 7 E 83/STJ. 4. FALHA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS. CARACTERIZAÇÃO DO DANO MORAL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+1. Não ocorre violação ao art. 535 do CPC/1973 quando o julgador decide a lide, como no caso examinado, de forma fundamentada, indicando os motivos de seu convencimento, ainda que o resultado seja contrário ao esperado pela parte.
+2. Não se conhece de recurso especial se, mesmo opostos embargos de declaração, não ocorreu o prequestionamento dos preceitos legais ditos violados. Incidência das Súmulas 282 do STF e 211 do STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 894.587/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/08/2016, DJe 29/08/2016)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
