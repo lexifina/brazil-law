@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recursos especiais interpostos em face de acórdão do Tribunal Regional Federal da 1ª Regiãoassim ementado (e-STJ fl. 474):
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO DA IMPRENSA NACIONAL. GRATIFICAÇÃO DE PRODUÇÃO SUPLEMENTAR - GPS. ALTERAÇÃO DA FORMA DE CÁLCULO. SENTENÇA REFORMADA. PEDIDO PARCIALMENTE PROCEDENTE. DIREITO À MANUTENÇÃO DA PERCEPÇÃO DA GPS ATÉ A MP 26/2002. EXTINÇÃO DA GRATIFICAÇÃO. LEI 10.432/2002. APELAÇÃO PARCIALMENTE PROVIDA.
+1. No tocante à alteração da forma de cálculo da GPS, não há de se falar em decadência, porquanto a Administração tomou providências para a anulação da Portaria 133/96 - cujos critérios de cálculo pretendem os autores ver mantidos em seus vencimentos/proventos -, antes de transcorrido prazo superior a 5 (cinco) anos, a partir da vigência da Lei 9.784/99. Precedentes desta Corte: AC 2001.34.00.007569-1/DF, AC 2001.34.00.015093-5/DF, AMS 2000.34.00.043871- 7/DF, AMS 2000.34.00.043477-0/DF.
+2. Conforme entendimento reiterado desta Corte, não poderia a Administração reduzir o valor da Gratificação de Produção Suplementar-GPS dos vencimentos/proventos dos servidores da Imprensa Nacional, em razão de irregularidades detectadas em sua forma de cálculo pelo Grupo de Trabalho constituído pela Portaria 576/2000, sem a observância dos princípios do contraditório e da ampla defesa.
+3. O servidor público não tem direito adquirido a regime jurídico, que pode ser alterado, no interesse da Administração, desde que preservado o valor nominal de sua remuneração.
+4. A partir da vigência da Lei 10.432/2002, os vencimentos dos autores deverão se adequar às novas disposições legais, fazendo jus, portanto, à percepção da Gratificação de Desempenho Técnico -Administrativa - GDATA, a partir de 1º de fevereiro de 2002, conforme estabelece a regra do art. 2º, caput e parágrafos, do aludido diploma legal.
+5. A alteração promovida pela Lei 10.432/2002 não acarretou decesso remuneratório, nem mesmo ofensa a direito adquirido, porquanto os autores não tinham direito à percepção de seus vencimentos na forma como foram calculados e como vinham sendo pagos. Ademais, de acordo com a regra do art. 2º, § 1º, da Lei 10.432/2002, eventual diferença entre o valor da GPS e o valor médio da GDATA será paga a título de complementação, restando assegurada a irredutibilidade de vencimentos.
+6. Apelação parcialmente provida.
+Alegam os particulares, preliminarmente, contrariedade ao art. 535, II, do CPC/1973. Sustentam ainda violação aos arts. 128 e 333, II, do CPC/1973.
+Já a União defende violação aos arts. 114, da Lei n. 8.112/1990, e 53 e 54, da Lei n. 9.784/1999.
+Os apelos não foram admitidos origem (e-STJ fl. 611), tendo sido interpostos agravos (e-STJ fls. 616/626 e 646/650).
+Passo a decidir.
+Adianto que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ.
+Confira-se o teor dos dispositivos citados:
+Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+ ..
+§ 4º No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada.
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, o recurso da União foi indeferido por força da aplicação da Súmula 83 desta Corte.
+Entretanto, a agravante deixou de impugnar específica e adequadamente esse fundamento, limitando-se a alegar genericamente a presença dos requisitos para conhecimento do apelo especial e que a jurisprudência desta Corte ainda estaria em formação.
+Cabia a União ter apresentado fundamentação em concreto demonstrando a existência dos precedentes divergentes ao acórdão da origem, ou ter promovido argumentação tencionado demonstrar peculiaridades do caso concreto que se destacassem da jurisprudência dominante.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Não deve ser conhecido, portanto, o agravo da Fazenda Pública.
+Quanto ao mesmo recurso dos particulares, observo que os recorrentes buscaram fundamentar possíveis peculiaridades do caso concreto que distinguiriam dos casos julgados por este Superior Tribunal, admitindo o exame do apelo especial.
+Todavia, entendo que o recurso especial em si não deve prosperar.
+Em primeiro lugar, registro que não há violação do art. 535 do CPC/1973 (1.022 do CPC/2015) quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado, como no caso dos autos.
+O decisum se manifestou expressamente sobre a questão controvertida (impossibilidade de manutenção de forma de cálculo e limitação do pagamento de gratificação de produção suplementar à vigência da Lei n. 10.432/2002), rejeitando, ainda que por lógica (tacitamente), os fundamentos dos servidores
+O que queriam os embargantes era rediscutir o mérito da decisão no trecho em que lhes foi desfavorável, não se prestando os aclaratórios a essa função.
+Nesse mesmo sentido: MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 14/09/2021, DJe 16/09/2021; EDcl no AgInt no REsp 1896032/SP, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/09/2021, DJe 10/09/2021; EDcl no AgInt no RE nos EDcl no REsp 1823284/SP, rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 08/09/2021, DJe 13/09/2021.
+Além disso, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, rel. MinistroNapoleão Nunes Maia Filho, Primeira Turma, DJe 29.9.2014.
+No mérito propriamente dito, o recurso não merece conhecimento.
+Primeiro porque não houve o prequestionamento dos arts. 128 e 333, II, do CPC/1973, de modo que se aplicaria ao caso a Súmula 211 desta Corte.
+Ainda que assim não fosse, colhe-se do apelo especial o argumento de que:
+Com efeito, o que se discute no caso específico dos autos é o montante de apenas RS 1.241,07 que foi ali fixado como valor médio da GPS, com a supressão da Gratificação de Atividade Executiva (GAE) na metodologia do cálculo e, ainda, tendo por base o ano de 2001,2 ou seja, justamente o período em que a Administração vinha aplicando a malsinada Portaria 576/2000.
+Por essa razão, como aduzido na apelação, a causa de pedir da ação não se limitou a afirmar a validade dos critérios de cálculo adotados pela Portaria 133/96, indo, na verdade, muito mais além, para inclusive questionar a constitucionalidade da expressão "tendo por base a média apurada no exercício de 2001, que corresponde à importância de R$ 1.241,07", contida no §1º do artigo 2º da Lei 10.432, de 24.04.2002, editada em momento muito posterior à Portaria.
+Porém, o Supremo Tribunal Federal, no exame do RE nº 563.965/RN, com repercussão geral reconhecida, reafirmou a jurisprudência de que não há direito adquirido a regime jurídico ou a fórmula de composição da remuneração dos servidores públicos, desde que assegurada a irredutibilidade de vencimentos.
+No mesmo sentido este STJ já sedimentou que "consoante jurisprudência desta Corte Superior e do Supremo Tribunal Federal, o servidor público não possui direito adquirido à permanência no regime jurídico funcional anterior nem à preservação de determinado regime de cálculo de vencimentos ou proventos (..)" (AgInt no RMS 56.816/PR, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 23/09/2020).
+Verifica-se, pois, que a Corte Regional seguiu exatamente a razão de decidir dos precedentes acima citados, sendo aplicável ao caso a Súmula 83 desta Corte.
+Aliás, apenas com o revolvimento de matéria fática se poderia aferir a redução global dos vencimentos dos servidores, o que seria inviável, por conta da Súmula 7 desta Corte.
+Ante o exposto, NÃO CONHEÇO do agravo da União e CONHEÇO do agravo dos servidores, para CONHECER EM PARTE do apelo especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
