@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado da Bahia com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 197):
+APELAÇÃO ORDINARIA. CÍVEL. REEXAME NECESSÁRIO. AÇÃO ORDINARIA. PLANSERV. PLANO DE SAÚDE DOS SERVIDORES PÚBLICOS ESTADUAIS. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. APLICAÇÃO DOCDC. NECESSIDADE DE MATERIAIS ESPECIAIS PARA REALIZAÇÃO DE CIRURGIA. SENTENÇA PROCEENTE QUE SE MANTÉM. HONORÁRIOS JÁ ARBITRADOSNO MÍNIMO LEGAL, SENDO IMPOSSÍVEL SUA DIMINUIÇÃO. APELO NÃO PROVIDO. SENTENÇA MANTIDAEM NECESSÁRIO REEXAME.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022 do CPC/2015.
+A parte recorrente aponta divergência jurisprudencial e violação aos arts. 1º,
+14 e 15 da Lei 9.656/98. Sustenta, em resumo, que o CDC é inaplicável aoPlanserv, por se tratar de pessoa jurídica de direito público e, sendo umplano de saúde fechado, não há falar em relação deconsumo na espécie.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta acolhimento.
+Ao dirimire concluirpela incidência,a Corte local adotou os seguintes fundamentos (fls. 200/201):
+O Planserv desempenha uma atividade econômica em pé de igualdade com a iniciativa privada e, se mantém a partir da contraprestação pecuniária dos servidores públicos estaduais, sendo estes, portanto, consumidores. Embora haja um Decreto Estadual plenamente acessível e publicizado que regule o Plano, não há autêntica manifestação de vontade na formação do vínculo, pois aqueles que aderem não participam diretamente da redação do contrato e nem possuem o condão de modificar a essência dos instrumentos correlatos. Trata-se, pois, de um contrato de adesão, que possui peculiaridades na forma de ser interpretado, o que se encontra disciplinado não só no CDC (art. 54), como no Código Civil de 2002 (art. 423). Não se trata de uma interpretação benéfica, como muitos dizem, mas de um meio de garantir o equilíbrio nas relações de consumo.
+(..)
+Superada esta tese, é cediço que os planos de saúde estão amplamente sujeitos aos princípios e normas estabelecidas pelo CDC, e suas cláusulas contratuais devem ser interpretadas da maneira mais favorável ao usuário (art. 47), tendo-se por abusivas e nulas as que o coloquem em desvantagem exagerada (art. 51, IV e §1º, II), assim entendidas as que pretendam limitar a cobertura de procedimento que pode evitar a complicação do quadro clínico ou mesmo c locar em risco iminente a vida do paciente. Não se pode olvidar que o plano de saúde é um contrato de trato sucessivo, cuja finalidade é proteger a vida humana, não podendo os lucros visados pelas seguradoras em seu ramo de atividades superarem este bem jurídico.
+Denota-se, pois, que o Tribunal a quo concluiu pela aplicabilidade do CDC
+na espécie, não obstante se tratar de plano de saúdefornecido por pessoajurídica de direito público a beneficiário com vínculo estatutário,considerando estar configurada relação de consumo.
+Todavia, ao assim decidir, a instância de origem dissentiu dajurisprudência deste Sodalício, consolidada na Súmula 608, verbis:"Aplica-se o Código de Defesa do Consumidor aos contratos de plano desaúde, salvo os administrados por entidades de autogestão".
+Nesse sentido,confira-se, ainda:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DEAUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃOOFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA.RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A operadora de planos privados de assistência à saúde, na modalidade deautogestão, é pessoa jurídica de direito privado sem finalidadeslucrativas que, vinculada ou não à entidade pública ou privada, operaplano de assistência à saúde com exclusividade para umpúblico determinadode beneficiários.
+2. A constituição dos planos sob a modalidade de autogestão diferencia,sensivelmente, essas pessoas jurídicas quanto à administração, forma deassociação, obtenção e repartição de receitas, diverso dos contratosfirmados com empresas que exploram essa atividade no mercado e visam aolucro.
+3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano desaúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. Recurso especial não provido.
+(REsp 1.285.483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO,julgado em 22/6/2016, DJe 16/8/2016)
+Dessarte, merece reforma o julgado a quo, uma vez que reconheceu aresponsabilidade civil do ente público a partir da aplicação da legislaçãoconsumerista, devendo ser realizado novo julgamento da apelação,afastando-se as disposições do Código de Defesa do Consumidor.
+Registra-se, por fim, a prejudicialidade dos demais pedidos contidos noapelo nobre, uma vez que a Corte regional proferirá novo julgamento acercada existência ou não do dever de indenizar na hipótese dos autos.
+ANTE O EXPOSTO, conheço do recurso especial e dou-lhe provimento para afastar a incidência do Código deDefesa do Consumidor na espécie, devendo os autos retornarem ao Tribunalde origem para novo julgamento da apelação, dessa feita à luz doentendimento acima exposado.
+Publique-se.
