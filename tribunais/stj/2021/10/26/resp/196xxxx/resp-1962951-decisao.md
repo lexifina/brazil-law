@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por UNIMED CAMPO GRANDE MSCOOPERATIVA DE TRABALHO MÉDICO, com fulcro no art. 105, III, aec, da Constituição da República, contra acórdão proferido pela Terceira Câmara Cível do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (e-STJ, fl. 449):
+APELAÇÃO - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS - DESCREDENCIAMENTO DE CLÍNICA MÉDICA- AUSÊNCIA DE COMUNICAÇÃO PRÉVIA AO CONSUMIDOR E DE SUBSTITUIÇÃO DA CLÍNICA DESCREDENCIADA POR OUTRA EQUIVALENTE (ART. 17, §1º, DA LEI N. 9.656, DE 03/06/98 - VIOLAÇÃO DO DEVER DE INFORMAÇÃO, COOPERAÇÃO E CUIDADO - FALHA NA PRESTAÇÃO DO SERVIÇO - DESCREDENCIAMENTO QUE NÃO VINCULARÁ A BENEFICIÁRIA NÃO NOTIFICADA - PEDIDO DE NÃO DESCREDENCIAMENTO DA CLINICA - IMPROCEDENTE - DANO MORAL PRESUMIDO E INDENIZÁVEL - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Hipótese em que se discute: a) a irregularidade do ato de descredenciamento do estabelecimento de saúde sem a prévia notificação;b) a obrigação da operadora do plano de saúde de custear as despesas do tratamento daqueles beneficiários que já mantinham a terapia em curso; e c) a configuração dos danos morais.
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça "a substituição de entidade hospitalar da rede credenciada de plano de saúde deve observar: i) a notificação dos consumidores com antecedência mínima de trinta dias; ii) a contratação de novo prestador de serviço de saúde equivalente ao descredenciado; e, iii) a comunicação à Agência Nacional de Saúde (art. 17, §1º, da Lei 9.656/98)" (REsp 1662344/SP, Rel. Ministra Nancy Andrighi, Terceira Turma,julgado em 20/03/2018, DJe 23/03/2018).
+3. "O descredenciamento de estabelecimento de saúde efetuado sema observância dos requisitos legalmente previstos configura prática abusiva e atenta contra o princípio da boa-fé objetiva que deve guiar a elaboração e a execução de todos os contratos. O consumidor não é obrigado a tolerar a diminuição da qualidade dos serviços contratados e não deve ver frustrada sua legítima expectativa de poder contar, em caso de necessidade, com os serviços colocados à sua disposição no momento da celebração do contrato de assistência médica" (REsp 1119044/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 22/02/2011, DJe 04/03/2011) - grifamos.
+4. Havendo falha no dever de informação, subsistirá a obrigação da ré de manter a cobertura inicialmente oferecida, não vinculando a autora a alteração da rede descredenciada, o qual deverá ser reembolsado das despesas comprovadas nos autos
+5. Muito embora no apelo a autora pugne pela procedência integral dos pedidos formulados na inicial, não há como se julgar procedente o pleito de manutenção do credenciamento da clínica, uma vez que a operadora do plano de saúde tem apenas o dever de manter seus associados devidamente atualizados sobre as mudanças ocorridas na rede de conveniados, porém, não é obrigada a manter o credenciamento propriamente dito.
+6. O descredenciamento da clínica de inopino, sem qualquer notificação ao consumidor, e sem lhe garantir condições idênticas para continuidade do tratamento, certamente colocou a autora e sua responsável legal em situação de angústia e aflição que extrapola o mero aborrecimento, sendo considerado dano moral in re ipsa, em razão da medida abusiva da operadora de plano de saúde poder agravar a situação física e psicológica do beneficiário.
+7. O valor estabelecido a título de dano moral deve guardar pertinência com as peculiaridades do caso concreto e estar em consonância com os casos semelhantes já julgados por este Tribunal. Na espécie,fixa-se o valor da indenização por danos morais em R$ 10.000,00.
+8. Apelação conhecida e parcialmente provida.
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a empresa aponta violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015; 186, 187, I, 927 e 944 do CC; e 12, IV, da Lei n. 9.656/1998.
+Sustenta, em síntese:
+i) ocorrência no acórdão recorrido por ausência de manifestação quanto à necessidade de limitação do reembolso à tabela praticada pela recorrente;
+ii) que houve a notificação da recorrida acerca do descredenciamento da clínica Physis;
+iii) impossibilidade de arcar com as despesas com prestador de serviços não credenciado ao plano, além da existência de clínica equivalente em sua rede; e
+iv) que não houve falha na prestação do serviço, devendo ser afastada a condenação ao pagamento de indenização por dano moral.
+Contrarrazões apresentadas às fls. 613-627 (e-STJ).
+Admitido o recurso especial, os autos ascenderam a esta Corte (e-STJ, fls. 644-646).
+Brevemente relatado, decido.
+Com efeito, constata-se que a Corte de origem não se pronunciou de forma expressa sobre a alegada necessidade de limitação do reembolso à tabela praticada pela recorrente, conforme disposto no art. 12, VI, da Lei n. 9.656/1998.
+Nesse sentido, deve ser complementado o acórdão proferido nos embargos de declaração para que seja suprida a omissão apontada.
+Ante o exposto, dou provimento ao recurso especial a fim de determinar a remessa dos autos ao Tribunal de origem para que proceda à integração do julgado, mediante a análise da matéria deduzida.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. NECESSIDADE DE EXAME PELO TRIBUNAL ESTADUAL DE QUESTÃO SUSCITADA EM EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS. RECURSO PROVIDO.
