@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Rodrigo Barros Leal contra os acórdãos de fls. 864-874 e 894-897 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Paraná, assim ementados:
+APELAÇÃO CÍVEL - RESPONSABILIDADE CIVIL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - VEICULAÇÃO DE MATÉRIA NA INTERNET (PELA PRIMEIRA RÉ) E NA TELEVISÃO (PELA SEGUNDA REQUERIDA), NOTICIANDO O DESMATAMENTO EM ÁREA DE PRESERVAÇÃO AMBIENTAL - CERCEAMENTO DE DEFESA NÃO VERIFICADO - QUESTÃO EMINENTEMENTE DE DIREITO - PROVA TESTEMUNHAL DESNECESSÁRIA PARA O DESATE DA LIDE - MÉRITO -REPORTAGENS QUE SE ATÊM À SIMPLES NARRATIVA DOS FATOS APURADOS E PROVIDÊNCIAS ADOTADAS PELA POLÍCIA MILITAR AMBIENTAL ("FORÇA VERDE") NO LOCAL, E PELO INSTITUTO AMBIENTAL DO PARANÁ (IAP) - AUSÊNCIA DE MENÇÃO DO NOME DO POSTULANTE (MATÉRIA TELEVISIVA) E APENAS DO PRENOME DO POSTULANTE (NOTÍCIA DA INTERNET), TAMPOUCO DA IMAGEM DO MESMO - EXCESSO OU ABUSO NA DIVULGAÇÃO NÃO CONFIGURADO - ATO ILÍCITO NÃO CONFIGURADO - INDENIZAÇÃO INDEVIDA - HONORÁRIOS RECURSAIS - CABIMENTO.
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - INOCORRÊNCIA - APLICAÇÃO DA MULTA PREVISTA NO ARTIGO 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL. EMBARGOS REJEITADOS.
+Nas razões do recurso especial (e-STJ, fls. 905-920), aponta oinsurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 1.026, § 2º, do CPC/2015; e 186 e 927 do CCB.
+Sustenta, em síntese: i) descabimento da aplicação da multa previstano art. 1.026, § 2º, do CPC/2015, porquanto os embargos não tiveram motivação procrastinatória; e ii) ocorrência de danos morais indenizáveis.
+Contrarrazões às fls. 938-958 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 961-962), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+O entendimento desta Corte é de quetanto a pretensão de revisara aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, quanto a de modificar o entendimento a respeito da não ocorrência dedanos morais, esbarra no óbice da Súmula 7/STJ, porquanto demandariam reincursão no conjunto probatório dos autos.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. ATENDIMENTO DOMICILIAR. VIOLAÇÃO DO ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA (HOME CARE). EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026 DO NCPC. REFORMA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECUSA DE COBERTURA INDEVIDA. ABUSIVIDADE. DECISÃO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. SÚMULA Nº 568 DO STJ. ROL ANS. TAXATIVO. ENTENDIMENTO DA TERCEIRA TURMA DESTA CORTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O Tribunal de Justiça do Distrito Federal e dos Territórios dirimiu a controvérsia em conformidade com a atual orientação desta Corte, no sentido de que é abusiva a cláusula contratual que veda a internação domiciliar como alternativa à internação hospitalar, visto que da natureza do negócio firmado.
+3. Consoante pacífico entendimento desta Corte, a reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil/2015 (EDcl nos EDcl no AgInt no REsp 1.661.484/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 23/2/2018). Além disso, qualquer outra análise acerca do caráter procrastinatório dos embargos de declaração, que ocasionou a imposição da multa prevista no § 2º do art. 1.026 do NCPC, seria imprescindível a análise fático-probatória, o que é inviável em recurso especial, por força do óbice da Súmula nº 7 desta Corte.
+4. Em que pese a existência de precedente da eg. Quarta Turma de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS, esta eg. Terceira Turma, em recentíssimos julgados, reafirmou sua jurisprudência no sentido do caráter exemplificativo do referido rol de procedimentos.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no REsp 1.924.587/DF, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/08/2021, DJe 18/08/2021);
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS PATRIMONIAIS E MORAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à ocorrência de dano moral, o exame da pretensão recursal exigiria o revolvimento e a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão recorrido, situação que faz incidir o enunciado de Súmula 7 do STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.791.992/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/08/2021, DJe 24/08/2021).
+Dessa forma, incidente a Súmula 7/STJ a obstar o conhecimento do recurso.
+Diante do exposto, não conheço dorecurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESCABIMENTO DA MULTA DO ART. 1.026, § 2º, DO CPC/2015 E OCORRÊNCIA DE DANO MORAL. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
