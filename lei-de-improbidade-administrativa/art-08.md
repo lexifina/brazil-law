@@ -1,1 +1,1 @@
-Art. 8º O sucessor daquele que causar lesão ao patrimônio público ou se enriquecer ilicitamente está sujeito às cominações desta lei até o limite do valor da herança.
+Art. 8º O sucessor ou o herdeiro daquele que causar dano ao erário ou que se enriquecer ilicitamente estão sujeitos apenas à obrigação de repará-lo até o limite do valor da herança ou do patrimônio transferido.
