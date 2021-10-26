@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTONIO JOSE HENRIQUES, à decisão de fls. 118/119, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Contudo, data permissa venia, há omissão incorrida no caso em tela, que merece ser sanada sob pena de causar desnecessários prejuízos ao Embargante.
+Isso porque, diferentemente do quanto apontado pela r.
+decisão embargada, a parte não fora regularmente intimada a sanar o referido vício. Explica-se:
+Consoante se denota às fls. 109/114 dos autos, o Embargante peticionou em 19/07/2021 apresentando substabelecimento sem reservas de poderes em nome dos subscritores dos presentes embargos, bem como requerendo que as futuras publicações e intimações fossem efetuadas exclusivamente em nome de seus novos patronos, Dr.
+José Arnaldo Vianna Cione Filho e Dr. Matheus Inácio de Carvalho, inclusive sob pena de nulidade absoluta e insanável, nos termos do art. 272, § 2º, c. c. o art. 280, ambos do Código de Processo Civil . Vejamos:
+ ..
+Contudo, não obstante a petição apresentada pelo Embargante noticiando a substituição e constituição de novos patronos, a r. certidão de intimação para regularização processual - disponibilizada no DJe/STJ em 30/07/2021 e publicada em 02/08/2021 -, não fora publicada em nome dos atuais patronos do Embargante , conforme expressamente informando e solicitado às fls. 109/114 dos autos, mas sim dos antigos. Vejamos: (fl. 123).
+ ..
+Desse modo, forçoso seja reconhecida a omissão incorrida no presente caso, à medida em que o Embargante não fora intimado em nome de seus atuais patronos para fins de regulariza ção processual, de modo que a r. certidão de intimação é absolutamente nula, nos termos do art. 272, § 2º, c. c. o art. 280, ambos do Código de Processo Civil (fl. 124).
+ ..
+Inclusive, como forma de demonstrar sua boa-fé, o Embargante requer desde já a juntada da respectiva procuração em nome de seus novos patronos subscritores dos presentes embargos (documento anexo), com o fito de regularizar sua representação processual ratificando nessa oportunidade as razões do recurso de Agravo Interposto, bem como reiterando o pedido de que as futuras publicações e intimações de todos e quaisquer atos processuais praticados nestes autos SEJAM EFETUADAS EXCLUSIVAMENTE EM NOME DOS ADVOGADOS JOSÉ ARNALDO VIANNA CIONE FILHO (OAB/SP 160.976) E MATHEUS INÁCIO DE CARVALHO (OAB/SP 248.577), sob pena de nulidade absoluta e insanável, nos termos do art. 272, § 2º, combinado com o art. 280, ambos do Código de Processo Civil, excluindo-se do cadastro dos autos os nomes dos antigos advogados (fl. 125).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Inicialmente, constata-se que, de fato, houve um equívoco na intimação da parte recorrente para regularizar a representação processual, uma vez que não foi direcionada ao Dr. José Arnaldo Vianna Cione Filho e ao Dr. Matheus Inácio de Carvalho, conforme pedido de fl. 109.
+Dessa forma, à parte deveria ser concedido novo prazo para regularização. Porém, desnecessária a abertura de prazo para regularização, tendo em vista a manifestação nestes aclaratórios, com a juntada da procuração de fl. 126, considerando-se a intimada do teor da certidão de saneamento de óbices de fl. 107.
+Porém, mesmo após a manifestação da parte, a representação não foi regularizada, pelos motivos a seguir expostos.
+Verifica-se que a parte junta à fl. 126 nova procuração, mas que não traz o nome dos causídicos, subscritores originários, Dr. César Rodrigo Nunes e Dr. Roberto Gomes Notari, em nenhum dos documentos carreados. Assim, não houve a devida regularização do feito.
+Observe-se que não basta, na petição de regularização, que a parte traga nova procuração, de advogados diversos dos subscritores anteriores, ratificando o ato processual pretérito. Essa providência é insuficiente, uma vez que trata de ratificação desconexa com os atos anteriores.
+É vital perceber que a ratificação não é propriamente a realização de um novo ato, ignorando-se o ato que já foi praticado. Ratificar significa confirmar, reafirmar o que foi dito.
+Assim, a abertura de prazo para regularização da representação do subscritor do recurso, nesta instância especial, nos termos do art. 76, c/c o art. 932, parágrafo único, ambos do Código de Processo Civil, bem como nos ditames da interpretação conjunta do Enunciado da Súmula n. 115/STJ, tem razão de ser no sentido de que a ratificação possível, nos termos da intimação para trazer aos autos a procuração dos subscritores anteriores, é uma complementação, uma reiteração de uma vontade já manifestada, uma confirmação do ato anteriormente praticado.
+A possibilidade de saneamento, da correção de um defeito, não pode ignorar o ato já praticado, mas, ao contrário, tem que oportunizar a ratificação desse ato. Nesse sentido, a intimação para regularização é expressa no sentido de que se traga aos autos a procuração dos subscritores originais, uma vez que o marco processual, que se leva em consideração para fins de verificação de regularidade da representação processual, é o momento da interposição do recurso.
+Desse modo, a regularização da representação processual que se considera válida deve guardar pertinência com o subscritores originários, não bastando a mera ratificação por outros procuradores.
+Ante o exposto, acolho os embargos de declaração para tão-somente corrigir o equívoco referente à intimação da parte para regularização da representação, nos termos acima expostos, mantendo, porém, o não conhecimento do recurso (art. 21-E do RISTJ).
+Publique-se. Intimem-se.
