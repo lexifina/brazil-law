@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto porMAURO CEZAR LIMAcontra decisão que inadmitiu recurso especial (e-STJ, fls. 694-695)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fl. 586):
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL E CIVIL. CONTRATO DE ARQUITETURA. RESCISÃO CONTRATUAL. IMPOSSIBILIDADE. FALHA NA PRESTAÇÃO DOS SERVIÇOS. NÃO COMPROVAÇÃO. ART. 373, INCISO I, DO CPC. ÔNUS DA PROVA. FATO CONSTITUTIVO DO DIREITO DO AUTOR NÃO COMPROVADO. APELO NÃO PROVIDO.
+1. Se o apelado se obrigou apenas ao desenvolvimento e acompanhamento de projeto de arquitetura, devendo cumprir com as exigências e solicitações realizadas pelos órgãos da Administração Pública até a sua aprovação, não constando, do referido contrato, a obrigação do apelado de entregar o projeto aprovado pela Administração ou prazo para entrega do projeto aprovado, não há que se falar em mora do apelado nem em descumprimento contratual.
+2. Incumbe ao autor a prova do fato constitutivo do direito alegado, nos termos do art. 373, inciso I, do CPC. Ausente comprovação de que tenha havido falha na prestação dos serviços, correta a sentença que julgou improcedente o pedido de rescisão contratual.
+3. Apelo não provido.
+Nas razões do recurso especial, orecorrente, com fulcro nas alíneas a e c do permissivo constitucional, alegou divergência jurisprudencial e violação aos arts. 395, 399 e 439 do CC/2002.
+Sustentou que a recorrida descumpriu com o contrato.Afirmou que o projeto apresentado tornou-seinexequível, em virtudedas inúmerasinconsistências constatadas.
+Defendeu que o arquiteto ou a empresa de arquitetura assume obrigação de resultado ao oferecer seus serviços.Asseverou que é possível a assunção de obrigação cujo resultado efetivo dependa de fato de terceiro.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls.694-695).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 699-713).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da tese defendida pelo insurgente, o Tribunal de origem assim se manifestou (e-STJ, fls. 588-589):
+A controvérsia dos autos cinge-se em averiguar eventual descumprimento do contrato de prestação de serviços celebrado entre as partes.
+Da análise dos autos (ID nº 21710974 - págs. 1/8), verifica-se que o apelado se obrigou apenas ao desenvolvimento e acompanhamento de projeto de arquitetura, devendo cumprir com as exigências e solicitações realizadas pelos órgãos da Administração Pública até a sua aprovação.
+Registre-se que, no referido contrato, não restou estipulada a obrigação do apelado de entregar o projeto aprovado pela Administração, tampouco restou estipulado prazo para entrega do projeto aprovado, de modo que não há que se falar em mora do apelado nem em descumprimento contratual.
+Em que pese o esforço argumentativo do apelante no sentido de que o apelado agiu com descaso e falta de empenho na realização do projeto, não restou demonstrada qualquer conduta da parte apelada que corrobore tal afirmação.
+Pelo contrário, o apelado demonstrou que algumas suspensões no processo administrativo foram causadas pelo próprio autor/apelante, o qual, por exemplo, deixou de comprovar a existência de entidade associativa, conforme requerido pela Administração Pública (ID nº 21711007).
+Ademais, conforme depoimento da testemunha Luana Moreira de Santos, Coordenadora de Apoio Jurídico, lotada na Secretaria de Estado de Desenvolvimento Urbano e Habitação do Distrito Federal, verifica-se que o apelado cumpriu com todas as modificações exigidas pela Secretaria, dentro dos prazos concedidos, tendo relatado, inclusive, que não existe atualmente qualquer pendência técnica em relação ao projeto, faltando apenas a anuência dos demais proprietários, o que, decerto, não pode ser imputado à apelada.
+Nesse ponto cabe esclarecer que a alegada falha na prestação do serviço, sob o argumento de que o apelado elaborou projeto que alcança área que não é de propriedade do apelante, não procede.
+Da análise do contrato, verifica-se que o contratante/apelante deveria aprovar o anteprojeto para, então, começar a execução do projeto propriamente dito (ID nº 21710974 - pág. 3). Registre-se, ainda, que o apelante assinou, juntamente com o representante do apelado/réu, aspranchas enviadas à Secretaria de Estado de Desenvolvimento Urbano e Habitação do Distrito Federal (SEDUH/CAP) - ID nº 2170979, págs. 2/9.
+Verifica-se, portanto, que o apelante tinha ciência de que o projeto abrangia a integralidade do terreno, já que tinha ciência das plantas elaboradas.
+ ..
+Assim, a parte autora não apresentou prova hábil a comprovar eventual falha na prestação do serviço do réu/apelado, não se desincumbindo do ônus processual estabelecido no art. 373, inciso I, do CPC, razão pela qual se mostra escorreita a sentença recorrida ao julgar improcedente o pedido de rescisão contratual.
+Do excerto acima transcito, depreende-se que o Tribunal a quo, após detida análise dos fatos e provas acostadas aos autos, entendeu que a parte recorrida não descumpriu o contrato de prestação de serviços firmado com o recorrente.
+Segundo a Corte local, a obrigação assumida pela agravada limitava-se ao acompanhamento do projeto de arquitetura, concluindo ainda o Tribunal originário que a recorrida não agiu com descaso na execução dos serviços prestados.
+À vista disso, mostra-se, de fato, inviável ao STJ infirmar o posicionamento adotado pela instância originária, uma vez que seria necessário o revolvimento do conjunto fático-probatório dos autos, bem como das disposições contratuais, o que é vedado pelas Súmulas 5 e 7/STJ.
+Quanto à divergência jurisprudencial, aplicado o enunciado da Súmula 7/STJ, fica prejudicada a análise do dissídio, em virtude da inexistência de similitude fático-jurídica entre os julgados confrontados.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 3% sobre o percentual fixado pela instância originária, devidamente atualizado.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO. DESCUMPRIMENTO. MORA NÃO ATESTADA. REVISÃO. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
