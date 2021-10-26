@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por Pedro do Carmo contra a decisão proferida pelo Tribunal de Justiça do Espírito Santo, que inadmitiu o recurso especial por ele apresentado, com fundamento no art. 105, III, a, da Constituição Federal, contra o acórdão prolatado no Recurso em Sentido Estrito n. 0001035-37.2007.8.08.0006(006070010357) - fls. 3.927/3.959.
+Opostos embargos de declaração (fls. 3.963/3.968), esses foram rejeitados (fls. 3.992/3.998).
+Novos aclaratórios foram opostos às fls. 4.019/4.026, os quais também foram rejeitados (fls. 4.032/4.036).
+Nas razões do recurso especial (fls. 4.082/4.104), a defesa de Pedro do Carmo aponta violação dos arts.609, 610 e 619do Código de Processo Penal. Afirma quea decisão de pronúncia proferida eminente magistrado foi injusta, pois totalmente ausentes estão os elementos necessários para ensejar uma decisão de Pronúncia, isto é, não estão configurados os indícios mínimos de autoria (fl. 4.089). Argumenta queapenas as razoes recursais dos outros recorrentes é que foram analisadas e julgadas (fl. 4.103).
+Apresentadas contrarrazões (fls. 4.119/4.121), o recurso especial não foi admitido pelo Tribunal de origem (fls. 4.136/4.139). Contra essa decisão foi interposto o presente agravo (fls. 4.162/4.189), com contraminuta ofertada às fls. 4.235/4.237.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 4.270/4.284).
+É o relatório.
+A defesa indica como ofendidos os arts. 609, 610 e 619do Código de Processo Penal, uma vez que o acusado Pedro do Carmo teria sido pronunciado mesmo sem estaremconfigurados os indícios mínimos de autoria (fl. 4.089), argumentando que apenas as razões recursais dos outros recorrentes é que foram analisadas e julgadas (fl. 4.103).
+De plano, observo a completa dissociação das razões recursais com o teor contido nos arts. 609 e 610 do CPP.
+Com efeito, tais dispositivos tratam do processo de julgamento dos recursos em sentido estrito e das apelações nos Tribunais de primeirainstância, não guardando relação, portanto, com o viés levantado nas razões recursais.Tal deficiência de fundamentação, obsta o conhecimento do reclamo quanto ao ponto, dada a incidência da Súmula 284/STF.
+Sobre o tema, destaco:
+ ..
+2. Inexistindo pertinência entre o dispositivo de lei apontado como violado e a matéria decidida pelo aresto recorrido, evidencia-se a deficiência na fundamentação recursal, atraindo a incidência da Súmula n. 284/STF.
+ ..
+(REsp n.1.459.154/RJ, Ministro João Otávio de Noronha, Terceira Turma, DJe 11/9/2014)
+ ..
+1. A ausência de pertinência temática entre a matéria versada no dispositivo legal apontado como violado e os fundamentos adotados pelo do acórdão recorrido, atrai a aplicação do óbice previsto na Súmula 284/STF.
+ ..
+(AgRg no AREsp n. 316.303/SP, Ministro Sergio Kukina, Primeira Turma, DJe 21/10/2013)
+ ..
+1. Em não havendo relação temática direta entre o dispositivo de lei federal apontado como violado e as teses desenvolvidas no recurso especial, conclui-se pela deficiência na fundamentação do especial a ensejar a incidência da Súmula 284/STF.
+ ..
+(REsp n. 1.195.707/RS, Ministra Eliana Calmon, Segunda Turma, DJe 15/5/2013)
+Quanto ao mais, sem razão o agravante quando sustenta a ocorrência deofensa ao art. 619, do Código de Processo Civil.
+No recurso em sentido estrito, a defesa de Pedro do Carmo pleiteou sua impronúncia alegandoausência de indícios suficiente de autoria e participação (fl. 3.836).
+No acórdão, após transcrever os diversosdepoimentos citados na decisão de pronúncia, o Tribunal a quo concluiu que ocenário em construção a partir das provas colhidas até então indica para a autoria nos termos informados na inicial acusatória (fl. 3.957 - grifo nosso), destacando que cumpre apenas ao Conselho de Sentença a definição acerca da condenação ou da absolvição(idem) e que os indícios de autoria estão presentes, devendo a questão ser levada a seu juiz natural (fl. 3.957).
+Na sentença de pronúncia, expressamente, pontuou-se que o recorrente é acusado de serpartícipe do crime, tendo supostamente participado da escolha do executor, auxiliado no monitoramento da vitima, informando sua localização pelo orelhão da praça da Cohab, e deixando de atender ao chamado do COPOM, retardando a chegada da polícia (fl. 3.656 - grifo nosso).
+Acrescentou-se, ainda, que, apesar de sustentar a negativa de autoria,existem indícios suficientes de autoria contra o mesmo, tal como se pode observar nos depoimentos das testemunhas Anderson Poltronieri, às fls. 2.536, Raiza Ferreira Mendonça, às fls. 1.659/1.664, Valter Moreira, às fls. 1.758/1.762, Giuliano Nobis Nascimento, às fls. 1.766/1.770, ldenir Maria Nobis Nascimento, às fls. 1.739/1.741, Maria Leda dos Santos Pessoa Costa, às fls. 2.048/2.048vº, além de elementos informativos que comprovam que a viatura em que este acusado estava era a mais próxima do local dos fatos, evidenciando-se que o acusado deixou, propositalmente, de atender ao chamado do COPOM, retardando a chegada da policia e colaborando para a evasão dos executores (fl. 3.656 - grifo nosso).
+E, como acertadamente destacou o Tribunal local, não cabe ao Magistrado singular exercer profundo juízo de probabilidade acerca das alegações, que é próprio da condenação, mas apenas constatar a existência de indícios de autoria (fl. 3.957). Esclareceu que, ainda que as provas de autoria invocadas para pronunciar não sejam harmônicas, somente cabe ao Conselho de Sentença valorá-las para condenar ou absolver os réus(fl. 3.997), reforçando, quando do julgamento dos segundos embargos, que a apreciação das alegações acerca dos elementos de autoria, neste momento processual, implicaria em usurpar a competência que a Constituição Federal atribui àquele órgão para - julgar processos relativos a crimes dolosos contra a vida(fl. 4.036).
+Com efeito, a pronúncia é uma decisão interlocutória mista - na qual vigora o princípio in dubio pro societate -, em que o magistrado declara a viabilidade da acusação por duplo fundamento, ou seja, por se convencer da existência de um crime e da presença de indícios de que o réu possa ser o autor (AgRg no REsp n. 1.483.472/RS, de minha relatoria, DJe 2/12/2014).
+Por não revelar juízo de mérito, mas apenas de admissibilidade da acusação, a pronúncia exige apenas a demonstração da materialidade do fato e a existência de indícios suficientes de autoria ou de participação, conforme disciplina o art. 413 do Código de Processo Penal (AgRg no REsp n. 1.525.082/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/6/2016).
+E esta é exatamente a hipótese em apreço.
+Logo, sem qualquer razão a defesa quando sustenta que apenas as razões recursais dos outros recorrentes é que foram analisadas e julgadas (fl. 4.103), pois, como se percebe, as instâncias ordinárias analisaram as provas e concluíram, de forma expressa e devidamente fundamentada, pela pronúncia do acusado.
+Assim, não merece reparos o julgado recorrido, visto que exarado em perfeita conformidade ao entendimento dominante deste Tribunal Superior, para o qual o juízo de pronúncia não deve exaurir a análise das provas carreadas aos autos, sob pena de violação da soberania atribuída constitucionalmente ao Tribunal do Júri.
+Sobre o tema, confiram-se: AgRg no REsp n. 1.128.806/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 26/6/2015; e REsp n. 1.245.836/RS, de minha relatoria, Sexta Turma, DJe 27/2/2013.
+Ante o exposto, com fundamento no art. 253, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmentedorecurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. SENTENÇA DE PRONÚNCIA. ALEGAÇÃO DE FRAGILIDADE PROBATÓRIA E DE OMISSÃO NA ANÁLISE DAS TESES DEFENSIVAS. ALEGAÇÃO DE OFENSA AOS ARTS. 609 E 610 DO CPP.AUSÊNCIA DE PERTINÊNCIA TEMÁTICA ENTRE OS DISPOSITIVOS INDICADOS COMO VIOLADOS E OS ARGUMENTOS DEDUZIDOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. INSTÂNCIAS ORDINÁRIAS QUE EXPRESSAMENTE DESCREVEM A EXISTÊNCIA DEPROVAS DA MATERIALIDADE DELITIVA E DE INDÍCIOS SUFICIENTES DE AUTORIA.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
