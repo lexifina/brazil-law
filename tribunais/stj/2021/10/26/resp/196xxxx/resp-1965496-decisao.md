@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fl. 207):
+SERVIDOR. ANULAÇÃO DE ATO DE DEMISSÃO. REINTEGRAÇÃO. PROGRESSÃO FUNCIONAL.
+1. Servidor cuja demissão foi anulada por decisão judicial que faz jus ao cômputo do período de afastamento para fins de progressão funcional. Precedentes.
+2. Verba honorária fixada sem inobservância aos critérios legais.
+3. Apelação e remessa oficial desprovidas.
+Os embargos de declaração foram rejeitados (e-STJ fl. 238).
+No apelo especial, a recorrente alega, preliminarmente, violação do artigo 1.022, I e II, do Código de Processo civil/2015, ao argumento de que a Corte de origem não se manifestou acerca de pontos importantes para o deslinde da controvérsia.
+No mérito, alega violação do art. 4º do Decreto 84.669/1980, ao argumento de que "a Avaliação de Desempenho do servidor obedece a critérios específicos, necessários para a valoração que vai ser realizada pelo superior hierárquico competente, não cabendo ao Poder Judiciário reconhecer a avaliação ficta e automática, substituindo-se ao administrador neste processo, em detrimento da avaliação formal de desempenho do servidor que obedece às normas legais pertinentes" (e-STJ fl. 254, grifo no original).
+Contrarrazões apresentadas (e-STJ fls. 261-268).
+Juízo positivo de admissibilidade à e-STJ fl. 303.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+De início, registra-se, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo 3).
+Inicialmente, não se conhece da suposta afronta ao artigo 1.022, I e II, do CPC/2015, pois a recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+No que diz respeito ao artigo 4º do Decreto 84.669/1980 (e a tese a ele vinculada), verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Ademais, o Tribunal de origem negou provimento à apelação sob os seguintes fundamentos (e-STJ fl. 203):
+Com efeito, a reintegração está prevista no art. 28 da Lei8.112/1 990, que dispõe:
+"Art. 28. A reintegração é a reinvestidura do servidor estável no cargo anteriormente ocupado, ou no cargo resultante de sua transformação, quando invalidada a sua demissão por decisão administrativa ou judicial, com ressarcimento de todas as vantagens.
+§ 1º Na hipótese de o cargo ter sido extinto, o servidor ficará em disponibilidade, observado o disposto nos arts. 30 e 31.
+§ 2º Encontrando-se provido o cargo, o seu eventualo cupante será reconduzido ao cargo de origem, sem direito à indenização ou aproveitado em outro cargo, ou, ainda, posto em disponibilidade."
+Da leitura do dispositivo legal, extrai-se previsão de direito a ressarcimento de vantagens, sendo uma dessas vantagens justamente a progressão funcional, alegação de impossibilidade de avaliação do servidor afastado não tendo o condão de descaracterizar o direito, anotando-se que a situação foi criada pela própria Administração ao editar ato de demissão ilegal.
+Do que se observa, a partir da leitura dos trechos do acórdão recorrido, supramencionados, a fundamentação nele expendida, não foi especificamente impugnada nas razões do especial, o que caracteriza deficiência na argumentação recursal.
+Com efeito, à míngua da devida impugnação, preservam-se incólumes os fundamentos aplicados no decisum vergastado, que se mostram capazes, por si só, de manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não os impugnou. Incide ao caso as Súmulas 283 e 284/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE. FEPASA. HIPÓTESE EM QUE A CORTE DE ORIGEM, EMBORA TENHA RECONHECIDO A PRESCRIÇÃO DE FUNDO DE DIREITO, ANALISOU MATÉRIA DE MÉRITO E JULGOU IMPROCEDENTE O PEDIDO DOS AUTORES. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+1. Hipótese em que foi dado provimento ao Recurso Especial dos ora embargados para afastar a prescrição do direito de ação e determinar a remessa dos autos à origem, a fim de que se prosseguisse na análise da demanda como de direito.
+2. Ocorre que, conforme narrado pela embargante, o Tribunal de origem, embora tenha reconhecido a prescrição do fundo de direito, apreciou também a matéria de mérito, consignando que, "ainda que não se admita a tese ora desenvolvida, impõe-se a improcedência do pedido, não assistindo melhor sorte aos autores-apelantes no tocante à questão de fundo. Suporta destacar que o cerne da questão posta diz respeito à possibilidade de extensão aos benefícios de aposentadoria ou pensão por morte dos reajustes concedidos aos servidores da ativa. No caso em apreço, busca-se a observância do piso mínimo da categoria profissional e conseqüente complementação das pensões e proventos dos autores. Sem razão, contudo. Cabe ressalvar que o referido piso salarial somente esteve em vigor no período de 1995 a 1996, de modo que é impossível a prorrogação do referido piso até os dias atuais, haja vista que houve o exaurimento do contrato coletivo de trabalho, daí ser improcedente a pretensão dos autores". (fl. 231, e-STJ).
+3. Contudo, esse argumento não foi atacado pela parte recorrente nas razões de seu Recurso Especial; logo, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+ ..
+5. Embargos de Declaração acolhidos com efeito infringente para não conhecer do Recurso Especial dos ora embargados. (EDcl no AgInt no REsp 1.702.816/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE GMBG19 GMBG19 AREsp 1772389 2020/0262659-1 Documento Página 3 PROCESSO CIVIL DE 2015. APLICABILIDADE. ART. 535 DO CPC/73. DISPOSITIVOS IMPLICITAMENTE PREQUESTIONADOS. AUSÊNCIA DE VIOLAÇÃO. SÚMULAS N. 283 E 284 DO STF. RAZÕES DISSOCIADAS. CAUSA DE PEDIR. AUSÊNCIA DE IDENTIDADE. REEXAME DO ACERVO FÁTICO. SÚMULA N. 7/STJ. TUTELA ANTECIPADA. REQUISITOS. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. MEDIDA LIMINAR. RECURSO ESPECIAL. IMPOSSIBILIDADE. APLICAÇÃO POR ANALOGIA DA SÚMULA N. 735/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - A parte recorrente deixou de impugnar fundamento suficiente do acórdão recorrido relativo à possibilidade do exercício do juízo de retratação. Desse modo, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal.
+ ..
+IX - Agravo Interno improvido. (AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. SERVIDOR PÚBLICO FEDERAL. ANULAÇÃO DE ATO DE DEMISSÃO. REINTEGRAÇÃO. DIREITO À PROGRESSÃO FUNCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. RECURSO NÃO CONHECIDO.
