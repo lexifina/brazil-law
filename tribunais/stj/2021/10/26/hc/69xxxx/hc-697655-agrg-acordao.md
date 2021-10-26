@@ -1,0 +1,73 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO TENTADO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. VALOR DOS OBJETOS SUPERIOR A 10% DO SALÁRIO MÍNIMO. PRESENÇA DE ANTECEDENTE POR CRIME CONTRA O PATRIMÔNIO. REPROVABILIDADE DA CONDUTA DO AGENTE. RESTITUIÇÃO DOS BENS SUBTRAÍDOS À VITIMA. DESINFLUÊNCIA. AGRAVO DESPROVIDO.
+1. A aplicabilidade do princípio da insignificância no delito de furto é cabível quando se evidencia que o bem jurídico tutelado (no caso, o patrimônio) sofreu mínima lesão e a conduta do agente expressa pequena reprovabilidade e irrelevante periculosidade social.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, é "incabível a aplicação do princípio da insignificância quando o montante do valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos" (AgRg no REsp 1.729.387/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/05/2018, DJe 09/05/2018).
+3. No caso, o valor da res furtivae - duas garrafas de whisky avaliadas em R$ 106,90 (cento e seis reais e noventa centavos) - é superior a 10% (dez por cento) do salário mínimo vigente à época dos fatos, R$ 788,00 (setecentos e oitenta e oito reais). Desse modo, a referida quantia, nos termos do entendimento pacífico do Superior Tribunal de Justiça, não pode ser considerada insignificante.
+4. Ademais, consta que o Agravante possui condenação pela prática de crime contra o patrimônio (tem antecedente pela prática do crime de receptação), de forma que também se revela incabível a aplicação do princípio da insignificância ante a evidente reprovabilidade da conduta, evidenciada pela habitualidade delitiva em crimes patrimoniais.
+5. O fato de o produto do furto ter sido devolvido à Vítima não afasta a tipicidade material da conduta delitiva, pela aplicação do princípio da bagatela. Precedentes.
+6. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por TEVALDO DE SOUZA MENDES contra decisão de minha lavra, por meio da qual deneguei a ordem de habeas corpus, nos termos da seguinte ementa (fl. 294):
+"HABEAS CORPUS. PENAL. FURTO TENTADO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. VALOR DOS OBJETOS SUPERIOR A 10% DO SALÁRIO MÍNIMO. PRESENÇA DE ANTECEDENTE POR CRIME CONTRA O PATRIMÔNIO. REPROVABILIDADE DA CONDUTA DO AGENTE. RESTITUIÇÃO DOS BENS SUBTRAÍDOS À VITIMA. DESINFLUÊNCIA. ORDEM DE HABEAS CORPUS DENEGADA."
+Em suas razões, reitera o Agravante as razões da inicial, no sentido de que deve ser aplicado ao caso o princípio da insignificância.
+Requer a reconsideração da decisão agravada ou a submissão do agravo ao Colegiado competente.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO TENTADO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. VALOR DOS OBJETOS SUPERIOR A 10% DO SALÁRIO MÍNIMO. PRESENÇA DE ANTECEDENTE POR CRIME CONTRA O PATRIMÔNIO. REPROVABILIDADE DA CONDUTA DO AGENTE. RESTITUIÇÃO DOS BENS SUBTRAÍDOS À VITIMA. DESINFLUÊNCIA. AGRAVO DESPROVIDO.
+1. A aplicabilidade do princípio da insignificância no delito de furto é cabível quando se evidencia que o bem jurídico tutelado (no caso, o patrimônio) sofreu mínima lesão e a conduta do agente expressa pequena reprovabilidade e irrelevante periculosidade social.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, é "incabível a aplicação do princípio da insignificância quando o montante do valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos" (AgRg no REsp 1.729.387/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/05/2018, DJe 09/05/2018).
+3. No caso, o valor da res furtivae - duas garrafas de whisky avaliadas em R$ 106,90 (cento e seis reais e noventa centavos) - é superior a 10% (dez por cento) do salário mínimo vigente à época dos fatos, R$ 788,00 (setecentos e oitenta e oito reais). Desse modo, a referida quantia, nos termos do entendimento pacífico do Superior Tribunal de Justiça, não pode ser considerada insignificante.
+4. Ademais, consta que o Agravante possui condenação pela prática de crime contra o patrimônio (tem antecedente pela prática do crime de receptação), de forma que também se revela incabível a aplicação do princípio da insignificância ante a evidente reprovabilidade da conduta, evidenciada pela habitualidade delitiva em crimes patrimoniais.
+5. O fato de o produto do furto ter sido devolvido à Vítima não afasta a tipicidade material da conduta delitiva, pela aplicação do princípio da bagatela. Precedentes.
+6. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A irresignação não prospera.
+Consta dos autos que o Agravante foi denunciado como incurso no art. 155, caput, na forma do art. 14, inciso II, ambos do Código Penal, porque teria tentado se apropriar de 2 garrafas de whisky avaliadas em R$ 106,90 (cento e seis reais e noventa centavos).
+O Juízo de primeira instância absolveu sumariamente o Agravante, com fulcro no art. 397, inciso IV, do Código de Processo Penal, em decorrência da aplicação do princípio da insignificância.
+O Ministério Público estadual interpôs recurso de apelação, que foi provido pelo Tribunal de origem, para determinar o prosseguimento do feito, com os seguintes fundamentos (fls. 281-282; grifos diversos do original):
+"No caso em apreço, ainda que o valor do bem supostamente subtraído pareça irrisório - 2 (duas) garrafas de Whisky avaliadas em R$ 106,90 (cento e seis reais e noventa centavos) -, a quantia não pode ser considerada ínfima a ponto de se reputar insignificante, sobretudo porque equivale a mais de 13% (treze por cento) do salário mínimo vigente à época, qual seja, de R$ 788,00 (setecentos e oitenta e oito reais), e, neste particular, é firmado na Colenda Corte que "para aferir a relevância do dano patrimonial, leva em consideração o salário mínimo vigente à época dos fatos, considerando irrisório o valor inferior a 10% do salário mínimo" (HC 496.792/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. em 23-4-2019).
+ ..
+Ademais, sabe-se que posterior devolução da res furtiva à vítima não é suficiente para concluir-se como irrelevante penalmente a conduta praticada, mormente quando a recuperação dos bens ocorreu por circunstâncias alheias à vontade do agente criminoso.
+No mais, cumpre frisar que, em análise ao caderno processual, verificou-se que o apelado registra uma condenação criminal nos autos n. 17727820058240163 - com data de extinção da pena em 28/02/2014 - pelo crime de receptação (Evento 1, doc. 36), apta a gerar maus antecedentes, além de atualmente encontrar-se recluso no Presídio Masculino de Tubarão/SC desde a data de 29 de agosto de 2019, onde se encontra cumprindo pena pela prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006, uma vez que foi condenado à pena de 3 (três) anos e 8 (oito) meses de reclusão, em regime inicial fechado, no bojo dos autos n. 0014855-56.2013.8.24.0075.
+Em casos semelhantes, assim já deliberou esta Corte Estadual:
+ ..
+Destaca-se, a referida benesse deve ser reservada à circunstâncias excepcionais, o que não é o caso dos autos.
+Dessa forma, necessário o afastamento da aplicação do princípio da insignificância, e, considerando não haver outras razões para a manutenção da absolvição sumária, a reforma da decisão atacada é medida que se impõe, para que seja dado normal prosseguimento ao feito."
+Consoante destacado na decisão agravada, a aplicabilidade do princípio da insignificância deve observar as peculiaridades do caso concreto, de forma a aferir o potencial grau de reprovabilidade da conduta, buscando identificar a necessidade ou não da utilização do direito penal como resposta estatal.
+Diante do caráter fragmentário do direito penal moderno, segundo o qual se devem tutelar apenas os bens jurídicos de maior relevo, somente justificam a efetiva movimentação da máquina estatal os casos que implicam lesões de significativa gravidade. É certo, porém, que o pequeno valor da vantagem patrimonial ilícita não se traduz, automaticamente, no reconhecimento do crime de bagatela.
+A propósito, como bem acentuado pela eminente Ministra CÁRMEN LÚCIA, do Supremo Tribunal Federal, ao julgar o HC n. 102.088/RS, de que foi Relatora:
+"O princípio da insignificância não foi estruturado para resguardar e legitimar constantes condutas desvirtuadas, mas para impedir que desvios de condutas ínfimos, isolados, sejam sancionados pelo direito penal, fazendo-se justiça no caso concreto. Comportamentos contrários à lei penal, mesmo que insignificantes, quando constantes, devido a sua reprovabilidade, perdem a característica de bagatela e devem se submeter ao direito penal." (PRIMEIRA TURMA, DJe 21/05/2010.)
+A lei seria inócua se fosse tolerada a reiteração do mesmo delito, seguidas vezes, em frações que, isoladamente, não superassem certo valor tido por insignificante, mas o excedesse na soma. E mais: seria um verdadeiro incentivo ao descumprimento da norma legal, mormente tendo em conta aqueles que fazem da criminalidade um meio de vida.
+No caso, constata-se que o valor da res furtivae - duas garrafas de whisky avaliadas em R$ 106,90 (cento e seis reais e noventa centavos) - é superior a 10% (dez por cento) do salário mínimo vigente à época dos fatos, R$ 788,00 (setecentos e oitenta e oito reais). Desse modo, a referida quantia, nos termos do entendimento pacífico do Superior Tribunal de Justiça, não pode ser considerada insignificante.
+A esse respeito, confiram-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE MATERIAL. INAPLICABILIDADE. VALOR DO BEM SUPERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA. RÉU REINCIDENTE. AGRAVO DESPROVIDO.
+1. Para que seja considerado presente o princípio da insignificância e, consequentemente, a atipicidade da conduta, a res furtiva deve ter sido avaliada em valor inferior a 10% do salário mínimo vigente à época dos fatos.
+2. A reiteração no cometimento de infrações penais se reveste de relevante reprovabilidade e não se mostra compatível com a aplicação do princípio da insignificância, a reclamar a atuação do Direito Penal.
+3. Agravo regimental desprovido." (AgRg no HC 599.076/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/04/2021, DJe 26/04/2021; sem grifos no original.)
+"HABEAS CORPUS. FURTO PRIVILEGIADO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. VALOR DA RES FURTIVA SUPERIOR A 10% DO SALÁRIO MÍNIMO. HABEAS CORPUS DENEGADO.
+ ..
+2. Incabível a aplicação do princípio da insignificância quando o montante do valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos, como é o caso dos autos, em que o valor do celular subtraído correspondia à 38% do salário mínimo.
+3. Habeas corpus denegado." (HC 622.885/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 11/12/2020; sem grifos no original.)
+Ademais, consta que o Agravante possui condenação pela prática de crime contra o patrimônio (tem antecedente pela prática do crime de receptação), de forma que também se revela incabível a aplicação do princípio da insignificância ante a evidente reprovabilidade da conduta, evidenciada pela habitualidade delitiva em crimes patrimoniais.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. PACIENTE CONTUMAZ NA PRÁTICA DE CRIMES. MANUTENÇÃO DA DECISÃO IMPUGNADA QUE SE IMPÕE. RECURSO DESPROVIDO.
+1. Inexiste reparo a ser efetuado na decisão agravada, tendo em vista que o caso destoa por completo daqueles em que é materialmente atípica a conduta, pois, na hipótese específica dos autos, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, tampouco a ausência de periculosidade social da ação e a inexpressividade da lesão jurídica provocada, de forma a viabilizar a aplicação do princípio da insignificância, já que, independentemente do valor atribuído aos objetos subtraídos, está-se diante, consoante se extrai da folha de antecedentes juntada aos autos, de hipótese peculiar em que o réu é contumaz na prática de crimes contra o patrimônio, ostentando, inclusive, condenação por roubo.
+2. Agravo regimental a que se nega provimento." (AgRg no HC 546.020/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 12/05/2020, DJe 18/05/2020; sem grifos no original.)
+Por fim, de acordo com o entendimento pacificado do Superior Tribunal de Justiça, o fato de o produto do furto ter sido devolvido à Vítima não afasta a tipicidade material da conduta delitiva, pela aplicação do princípio da bagatela.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. VALOR EXPRESSIVO DO BEM SUBTRAÍDO. INAPLICABILIDADE. RESTITUIÇÃO DO BEM. RAZÃO INSUFICIENTE PARA A APLICAÇÃO DO PRINCÍPIO. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE DIANTE DA AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+ ..
+2. O simples fato de o bem haver sido restituído à vítima, não constitui, por si só, razão suficiente para a aplicação do princípio da insignificância.
+ ..
+4. Agravo regimental desprovido." (AgRg no AREsp 1.615.345/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/03/2020, DJe 26/03/2020.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. RESTITUIÇÃO DOS BENS SUBTRAÍDOS À VÍTIMA. IMPOSSIBILIDADE. VALOR DA RES FURTIVA. REITERAÇÃO DELITIVA. INCOMPATIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. A restituição da res furtiva à vítima, na forma do entendimento consolidado desta Corte Superior, não constitui, isoladamente, motivo suficiente para a aplicação do princípio da insignificância.
+3. Agravo regimental não provido." (AgRg no REsp 1.796.414/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020.)
+Desse modo, na ausência de argumento apto a infirmar as razões consideradas no julgado agravado, deve ser mantida a decisão impugnada por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
