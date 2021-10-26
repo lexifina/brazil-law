@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ PAULINO DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2071495-75.2020.8.26.0000.
+O Juízo da Unidade Regional do Departamento Estadual de Execuções Criminais - DECRIM 7.ª RAJ - Santos/SP, na data de 05/04/2020, indeferiu o pedido de antecipação ao regime aberto, bem como a concessão de prisão domiciliar em favor do Paciente, pois, " n o caso dos autos, o sentenciado tem 43 (quarenta e três) anos de idade, não possui lapso para progressão de regime e não há qualquer notícia no sentido de que sua condição de saúde esteja comprometida ou que o ambiente carcerário esteja em piores condições que o externo" (fl. 20).
+Inconformada, a Defesa impetrou habeas corpus no Tribunal de origem, cuja ordem foi denegada consoante a ementa a seguir transcrita (fl. 26):
+"Habeas Corpus. Tráfico de drogas e associação. Pedido de progressão antecipada ao regime aberto. Requer a concessão da progressão antecipada ao regime aberto, na modalidade domiciliar, com vistas a evitar sua contaminação pelo Covid-19 - Primeiramente, não se cogita, neste caso, a concessão da progressão antecipada ao regime aberto, visto que não restou demonstrada, de plano, a vulnerabilidade do estado de saúde do paciente que possibilite a aplicação da Resolução 62/2020, do CNJ. Lado outro, o writ não constitui via idônea para analise do presente pedido, tendo em conta que a concessão do benefício pressupõe o preenchimento dos requisitos de ordem temporal e subjetiva, cuja análise é indevida nos estreitos limites de cognição sumária do habeas corpus - Além disso, o pedido foi indeferido de forma fundamentada - Ademais, a matéria deve ser discutida em recurso próprio, qual seja, Agravo em Execução Ordem denegada."
+Neste writ, a Parte Impetrante sustenta que, " a pesar da excepcionalidade da situação de Pandemia em que se encontra o país, a suspensão dos benefícios da saída temporária e da possibilidade do trabalho externo configuram claramente excesso na execução, impondo aos presos que se encontram em tal situação, penas integralmente em regime fechado! De nada vale a transferência para estabelecimento prisional adequado, se este não atende aos direitos a que o custodiado faz jus, como o direito de remição de pena pelo trabalho, por exemplo" (fl. 6).
+Aduz, ainda, que o Paciente sofre constrangimento ilegal com o indeferimento da progressão ao regime aberto, bem como do pedido de concessão de prisão domiciliar.
+Requer, liminarmente e no mérito, que "seja o sentenciado JOSE PAULINO DA SILVA colocado incontinenti em regime excepcional de PRISÃO ALBERGUE DOMICILIAR, até que o Estado garanta a total fruição dos direitos de reeducando inserido em regime semiaberto que a legislação garante" (fl. 16).
+O pedido liminar foi indeferido (fls. 34-37).
+Informações prestadas às fls. 45-54.
+Parecer do Ministério Público Federal pelo não conhecimento do writ (fls. 56-61).
+É o relatório. Decido.
+Segundo informações do site mantido pelo Tribunal de Justiça do Estado de São Paulo, na data de 20/01/2021, oJuízodas Execuções Criminais da Comarca de Santos - DEECRIM 7.ª RAJ -deferiu ao Paciente a progressão ao regime abertoe, em seguida, concedeua prisão albergue domiciliar.
+Constato, portanto, a superveniente perda do objeto desta impetração.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, JULGOPREJUDICADO o presentehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE PRISÃO DOMICILIAR OU DE ANTECIPAÇÃO DE PROGRESSÃO PARA O REGIME ABERTO. SUPERVENIENTE DEFERIMENTOPELO JUÍZO DE PRIMEIRO GRAU. WRIT PREJUDICADO.
