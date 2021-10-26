@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado pela JUNTA COMERCIAL DO ESTADO DO RIO DE JANEIRO- JUCERJA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 108/109):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. ALEGAÇÃO AUTORAL DE FRAUDE CONSISTENTE NA UTILIZAÇÃO DE SEU NOME PARA CONSTITUIÇÃO DE MICROEMPRESA. SENTENÇA DE EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO POR RECONHECER A ILEGITIMIDADE DA RÉ. RECURSO DA AUTORA REQUERENDO A NULIDADE DA SENTENÇA SOB O FUNDAMENTO DE QUE A JUCERJA É O ÓRGÃO RESPONSÁVEL POR TODO O PROCESSO DE ABERTURA DA INSCRIÇÃO EMPRESARIAL, BEM COMO PELO ARQUIVAMENTO DA DOCUMENTAÇÃO PERTINENTE. IRRESIGNAÇÃO QUE MERECE ACOLHIDA. LEGITIMIDADE PASSIVA DA JUCERJA, QUE É RESPONSÁVEL PELO ARQUIVAMENTO DOS DOCUMENTOS DAS SOCIEDADES COMERCIAIS (LEI Nº 8.934/94 - ARTIGOS 37 E 40) E DEVECONFIRMAR A INSCRIÇÃO PROVISÓRIA DO MEI. RECURSO CONHECIDO E PROVIDO PARA CASSAR A SENTENÇA E DETERMINAR O RETORNO DO PROCESSO AO PRIMEIRO GRAU DE JURISDIÇÃO PARA PROSSEGUIMENTO.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 485, VI, do CPC.Sustenta sua ilegitimidade para figurar no polo passivo da lide, visto que o ato em questionamento foi totalmente realizado na esfera federal , conforme Resoluções 02 e 16 do Comitê Gestor da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e Negócios  CGSIM. Por essa razão, sustenta que a JUCERJA não pode ser responsabilizada por eventual falsidade ou fraude perpetrada com a parte agravada.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta êxito.
+Destaca-se da fundamentação do acórdão recorrido o seguinte trecho (fls. 111/115):
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+Como é cediço que a JUCERJA é responsável pelo arquivamento dos documentos das sociedades comerciais (Lei nº 8.934/94 - artigos 37 e 40) e o procedimento de inscrição e registro do MEI é feito de forma integrada pelos vários órgãos fiscalizadores e entes públicos, conforme disposto na LC nº 123/2006, tendo esta Câmara já se manifestado nesse sentido:
+(..)
+Acrescente-se que a Resolução n.º 02/2009 do Comitê para Gestão da Rede Nacional para Simplificação do Registro e Legalização de Empresas e Negócios (CGSIM), em seus artigos 20 a 22, assevera que cabe àJunta Comercial confirmar a inscrição provisória do Microempreendedor Individual. Colaciono os aludidos dispositivos:
+(..)
+Ademais, é dever da Junta Comercial verificar e arquivar a documentação, razão pela qual é parte legítima para figurar no polo passivo da presente demanda.
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz do exame de dispositivos daResolução n.º 02/2009 do Comitê para Gestão da Rede Nacional para Simplificação do Registro e Legalização de Empresas e Negócios (CGSIM), matéria insuscetível de ser examinada em sede de recurso especial.
+Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF. Confiram-se, a propósito, os seguintes precedentes: AgRg no Ag 1.203.675/PE, Segunda Turma, Rel. Ministro Humberto Martins, DJe de 10/3/2010; e AgRg no REsp 1.040.345/RS, Primeira Turma, Rel. Ministro Luiz Fux, DJe 9/2/2010.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
