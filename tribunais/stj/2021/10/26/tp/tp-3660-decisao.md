@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido de tutela provisória de urgência formulada por ESTRE AMBIENTAL S/A - EM RECUPERAÇÃO JUDICIAL e OUTROS, objetivando deferimento da tutela provisória de urgênciapara que seja atribuído efeito suspensivo ativo ao Recurso Especial nº 0016352-80.2021.8.16.0000, ainda em tramitação no Tribunal de Justiça do Estado do Paraná (fl. 15):
+ ..  para que, desde logo, seja determinada a suspensão da exigibilidade do ICMS sobre as Tarifas de Uso de Sistema de Transmissão e Distribuição (TUSD e TUST) cobradas das Recorrentes pela concessionária de serviços públicos, com fulcro no art. 151, inciso V, do CTN.
+O presente pedido, todavia, não merece ser conhecido.
+Com efeito,este Superior Tribunal não é competente para apreciar o presente pedido de tutela de urgência, haja vista que como confessado pelo requerente, seu recurso especial encontra-se sobrestado no Tribunal de origem, ou seja, não foi ele submetido a juízo de admissibilidade.
+Nesse sentido, o seguinte julgado:
+AGRAVO INTERNO EM PEDIDO DE TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. PENDÊNCIA DE JUÍZO DE ADMISSIBILIDADE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 1.029 do CPC/2015, a competência para apreciar o pedido de efeito suspensivo a recurso especial somente passa a ser do Superior Tribunal de Justiça a partir da publicação da decisão de admissibilidade.
+2. Em casos excepcionais, "é possível a concessão diretamente pelo Superior Tribunal de Justiça de efeito suspensivo a recurso especial pendente de juízo de admissibilidade na origem, quando efetivamente demonstrada, além dos requisitos próprios da tutela de urgência, situação de manifesta ilegalidade ou teratologia" (AgInt na TP 18/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 18.4.2017).
+3. Fundamentos do acórdão proferido na origem que indicam a ausência do fumus boni iuris necessário ao deferimento do efeito suspensivo pleiteado antes mesmo de ter sido realizado o juízo de admissibilidade do recurso especial pelo Tribunal de origem, a inocorrência de manifesta ilegalidade ou teratologia, bem como a impossibilidade de revisão de matéria de fato no âmbito do recurso especial (Súmula 7).
+4. Agravo interno a que se nega provimento.
+(AgInt no TP 212/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 2/12/2019)
+Calha ressaltar, de toda sorte, que"neste Superior Tribunal, a tutela provisória de urgência é cabível para atribuir efeito suspensivo ou, eventualmente, para antecipar a tutela em recursos ou ações originárias de sua competência, devendo haver a satisfação simultânea de dois requisitos, quais sejam, a verossimilhança das alegações - fumus boni iuris, consubstanciada na elevada probabilidade de êxito do recurso interposto ou da ação - e o perigo de lesão grave e de difícil reparação ao direito da parte (periculum in mora)" (AgInt na AR 7.010/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe 08/10/2021).
+Sucede que, não bastasse ofato de que em seu petitório a parte requerente em nenhum momento suscita a existência de situação de manifesta ilegalidade ou teratologia, seria inviável na espécie aferir a eventual existência de tal situação excepcional, assim como a probabilidade de êxito do apelo nobre, haja vista que os autos não foram instruídos com cópia do recurso especial do acórdão recorrido.
+ANTE O EXPOSTO, não conheço dopedido.
+Publique-se.
