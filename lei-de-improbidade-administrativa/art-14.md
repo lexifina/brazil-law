@@ -1,4 +1,4 @@
 Art. 14. Qualquer pessoa poderá representar à autoridade administrativa competente para que seja instaurada investigação destinada a apurar a prática de ato de improbidade.
 § 1º A representação, que será escrita ou reduzida a termo e assinada, conterá a qualificação do representante, as informações sobre o fato e sua autoria e a indicação das provas de que tenha conhecimento.
 § 2º A autoridade administrativa rejeitará a representação, em despacho fundamentado, se esta não contiver as formalidades estabelecidas no § 1º deste artigo. A rejeição não impede a representação ao Ministério Público, nos termos do art. 22 desta lei.
-§ 3º Atendidos os requisitos da representação, a autoridade determinará a imediata apuração dos fatos que, em se tratando de servidores federais, será processada na forma prevista nos arts. 148 a 182 da Lei nº 8.112, de 11 de dezembro de 1990 e, em se tratando de servidor militar, de acordo com os respectivos regulamentos disciplinares.
+§ 3º Atendidos os requisitos da representação, a autoridade determinará a imediata apuração dos fatos, observada a legislação que regula o processo administrativo disciplinar aplicável ao agente.

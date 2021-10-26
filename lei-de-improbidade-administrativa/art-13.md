@@ -1,5 +1,5 @@
-Art. 13. A posse e o exercício de agente público ficam condicionados à apresentação de declaração dos bens e valores que compõem o seu patrimônio privado, a fim de ser arquivada no serviço de pessoal competente.
-§ 1º A declaração compreenderá imóveis, móveis, semoventes, dinheiro, títulos, ações, e qualquer outra espécie de bens e valores patrimoniais, localizado no País ou no exterior, e, quando for o caso, abrangerá os bens e valores patrimoniais do cônjuge ou companheiro, dos filhos e de outras pessoas que vivam sob a dependência econômica do declarante, excluídos apenas os objetos e utensílios de uso doméstico.
-§ 2º A declaração de bens será anualmente atualizada e na data em que o agente público deixar o exercício do mandato, cargo, emprego ou função.
-§ 3º Será punido com a pena de demissão, a bem do serviço público, sem prejuízo de outras sanções cabíveis, o agente público que se recusar a prestar declaração dos bens, dentro do prazo determinado, ou que a prestar falsa.
-§ 4º O declarante, a seu critério, poderá entregar cópia da declaração anual de bens apresentada à Delegacia da Receita Federal na conformidade da legislação do Imposto sobre a Renda e proventos de qualquer natureza, com as necessárias atualizações, para suprir a exigência contida no caput e no § 2º deste artigo.
+Art. 13. A posse e o exercício de agente público ficam condicionados à apresentação de declaração de imposto de renda e proventos de qualquer natureza, que tenha sido apresentada à Secretaria Especial da Receita Federal do Brasil, a fim de ser arquivada no serviço de pessoal competente.
+§ 1º (Revogado).
+§ 2º A declaração de bens a que se refere o caput deste artigo será atualizada anualmente e na data em que o agente público deixar o exercício do mandato, do cargo, do emprego ou da função.
+§ 3º Será apenado com a pena de demissão, sem prejuízo de outras sanções cabíveis, o agente público que se recusar a prestar a declaração dos bens a que se refere o caput deste artigo dentro do prazo determinado ou que prestar declaração falsa.
+§ 4º (Revogado).

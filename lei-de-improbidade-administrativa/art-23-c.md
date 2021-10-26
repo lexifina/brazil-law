@@ -1,0 +1,1 @@
+Art. 23-C. Atos que ensejem enriquecimento ilícito, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação de recursos públicos dos partidos políticos, ou de suas fundações, serão responsabilizados nos termos da Lei nº 9.096, de 19 de setembro de 1995.
