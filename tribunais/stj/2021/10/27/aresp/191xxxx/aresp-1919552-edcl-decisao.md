@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por HERACLITO DE FREITAS VALLE CORREA e OUTRO à decisão de fls. 523/524, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O recurso especial interposto pelos Embargantes (páginas 239/251) foi inadmitido em decisão monocrática proferida pelo Egrégio Tribunal de Justiça do Rio de Janeiro em 22/07/2019 (e-STJ Fl. 281/288), cujo ato de intimação revelou-se eivado de nulidade.
+ ..
+Assim, conforme se infere da petição de agravo em recurso especial, precisamente no e-STJ Fl.352, os Embargantes aduziram, em sede de preliminar do agravo em recurso especial, a nulidade da intimação da decisão que inadmitiu o recurso especial (fl. 527).
+Frisa-se que, quando obtida ciência da ocorrência da nulidade, os autos encontravam-se retornados ao juízo singular de origem, perante o qual foi noticiado o vício na petição do e-STJ Fl.349/350. Este, ao seu turno, determinou o retorno dos autos ao Tribunal de origem.
+Ao processar a alegação de nulidade suscitada pelos Embargantes, o Tribunal de origem reconheceu a ocorrência do vício e oportunizou o contraditório à parte adversa (e-STJ Fl.446/455), concluindo pela manutenção da decisão agravada e determinando a remessa dos autos ao Superior Tribunal de Justiça (e-STJ Fl.458).
+Veja-se que, conforme se verifica do teor da decisão do e-STJ Fl.458, a preliminar de nulidade restou superada pelo Tribunal de origem, que enfrentou expressamente o mérito recursal e determinou a subida do recurso.
+O vício da decisão ora embargada reside exatamente no fato de que foi absolutamente omissa com relação à preliminar de nulidade da intimação suscitada (fl. 527).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Em sentido contrário ao alegado pela parte, não há obrigatoriedade de publicação em diário oficial. Veja que o art. 272 do Código de Processo Civil assim dispõe: "Quando não realizadas por meio eletrônico, consideram-se feitas as intimações pela publicação dos atos no órgão oficial". No caso, verifica-se que houve a intimação eletrônica da parte (fl. 317), afastando a necessidade de publicação em diário oficial.
+Ademais, nos termos do art. 1.042, §§ 2º e 4º, do Código de Processo Civil, a competência do Tribunal a quo, na análise do agravo em recurso especial, restringe-se apenas à possibilidade de eventual retratação.
+A competência para o julgamento do referido agravo é deste Superior Tribunal de Justiça, conforme estabelecido nos §§ 3º e 4º do mencionado dispositivo, os quais prevêem que logo após o oferecimento da resposta do agravado, os autos devem ser remetidos a esta instância superior (Rcl 39.515/PE, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 29/06/2020).
+Correta assim, a decisão que não conheceu do agravo.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
