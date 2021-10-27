@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido de liminar, impetrado em benefício de CAIO LEONARDO GARCIA CUELHARcontra decisão de desembargador do Tribunal de Justiça do Estado do Acre, proferida noHC n. 1001670-23.2021.8.01.0000, que indeferiu o pleito sumário.
+Extrai-se dos autos que após investigação no âmbito da denominada Operação "Fake Boi", a autoridade policial representou pela decretação da prisão preventiva dopacientee de mais quatro agentes, por ser, em tese, integrante de organização criminosa que estaria atuando nos Estados do Acre e Rondônia, com o objetivo de fraudar a fiscalização tributária, promovendo o transporte irregular de semoventes entre os referidos estados, além de encaminharem animais (gado) para outros estados se valendo de Guias de Transporte de Animais - GTA"s falsificadas. O Juízo de primeiro grau decretou a prisão preventiva em desfavor dopacienteem 14/10/2021. Na oportunidade da audiência, foi pleiteada a revogação da custódia cautelar dopaciente, tendo sido indeferido o pedido pela MM. Juíza.
+Irresignada, a defesa impetrou habeas corpus originário, cuja liminar foi indeferida conforme decisão acostada às fls. 56/59.
+No presente writ, a parte impetrante aponta violação ao princípio do contraditório, porquanto o paciente não foi intimadoquando da representação pela sua prisão preventiva,em afronta ao comandodisposto no § 3º do art. 282 do CPP.
+Sustenta a ausência dos requisitos autorizadores do art. 312 do Código de Processo Penal, de modo que a imposição da custódia cautelar não estaria suficientemente justificada e pautada tão-somente na gravidade abstrata do delito.
+Destaca as condições pessoais favoráveis dopaciente, ressaltando ser pai de uma filha de 4 anos de idade, além de sua esposa está grávida de 9 meses da segunda filha.
+Pondera queo crime imputado ao paciente não é praticado mediante violência ou grave ameaça e o paciente não integra organização criminosa.
+Sustenta a ausência de contemporaneidade do decreto preventivo com a suposta conduta delitiva, tendo em vista que os fatos supostamente praticados pelo paciente por intermédio de José Roberto (apontado como "laranja") teriam ocorrido em meados do ano de 2018, no máximo, 2020 e a decretação da prisão preventiva deu-se em 14/10/2021.
+Argumenta a suficiência daaplicação das medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Pondera o risco de contágio da COVID-19 na unidade prisional, ressaltando os termos da Recomendação n. 62/2020 do CNJ.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva dopaciente, ainda que mediante a aplicação de medidas cautelares alternativas.
+É o relatório.
+Decido.
+Verifica-se que a presente impetração fora ajuizada contra decisão que indeferiu pleito de liminar. Dessa forma, incide sobre a matéria o enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF, o que inviabiliza o conhecimento do writ.
+Por outro lado, é de se ressaltar que o referido enunciado sumular somente pode ser superado em hipóteses de flagrante constrangimento ilegal, o que não se verifica nos presentes autos.
+Com efeito, a Desembargadora relatora indeferiu a liminar do feito destacando o seguinte, in verbis:
+"Ab initio, importante consignar, que a possibilidade de conceder liminar em habeas corpus, viabilizando a pronta cessação de suposto constrangimento, não se encontra prevista em lei, mas sim, em uma criação jurisprudencial, hoje aplicada no âmbito de todos os Tribunais Brasileiros.
+Nesse trilho, para haver a concessão da medida liminar, as alegações devem encontrar respaldo factual e legal, consubstanciando-se em provas incontestáveis e oferecidas de forma pré-constituída. Tais premissas consistem nos requisitos atinentes ao periculum in mora (perigo na demora) e o fumus boni iuris (fumaça do bom direito).
+No caso em apreço, o objeto posto em discussão refere-se, em suma, a revogação da prisão preventiva, sob a alegação de que não existem elementos a justificara manutenção do encarceramento do ora Paciente, ausência de fundamentação da decisão ora combatida, bem como ausência de contemporaneidade do fato ao mesmo imputado.
+Inobstante as argumentações da Defesa do Paciente, ressalto que, no âmbito da análise do remédio constitucional ora analisado, dada à sua excepcionalidade, o exame se prende única e exclusivamente à aferição da legalidade ou não da decisão queretirou dele sua liberdade de locomoção.
+In casu, em análise dos documentos carreados aos autos, em especial a decisão de pp. 48/67, não vislumbro, por ora, quaisquer constrangimentos ilegaissuportados pelo Paciente, ao ponto de garantir concessão da medida de urgência pleiteada, motivo pelo qual indefiro a referida liminar.
+Dessa forma, entende esta Relatoria, que a controvérsia, embora relevante, deve ser analisada por ocasião do julgamento definitivo pelo colegiado.
+Verifico que o Impetrante já manifestou interesse em realizar sustentação oral por ocasião do julgamento do mérito, de acordo com o pedido constante à p.45, o que desde já, defiro. Requisite-se as informações à Autoridade apontada como Coatora (Art.124 do RI TJ/AC).
+À Douta Procuradoria de Justiça (Art. 127 do RITJ/AC).
+Após, conclusos." (fls. 58/59).
+Como visto, a decisão da relatora encontra-se devidamente fundamentada, uma vez que apontou as razões de decidir, com menção expressa à impossibilidade de apreciação da matéria em sede de juízo perfunctório, de modo que a análise das alegações foi reservada ao colegiado, sendo necessárias as informações a serem prestadas pelo Juízo primevo. Não se verifica, portanto, hipótese de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF.
+A propósito, confiram-se alguns precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS INDEFERIDO LIMINARMENTE. ÓBICE DA SÚMULA 691/STF. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+1. Ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância.
+2. Não há como acolher a tese de flagrante ilegalidade ou teratologia quando os marcos temporais analisados, prima facie, não revelam a ocorrência da prescrição da pretensão punitiva, nos termos pleiteados.
+3. Agravo regimental não provido (AgRg no HC 544.768/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/02/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. REGIME INICIAL SEMIABERTO. SAÍDA TEMPORÁRIA. REQUISITO OBJETIVO NÃO CUMPRIDO. NECESSIDADE DE CUMPRIMENTO DE 1/6 (UM SEXTO) DA PENA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço, mormente porque o entendimento desta Corte Superior é no sentido de que, à luz do disposto no art. 123, inciso II, da Lei de Execução Penal, o condenado deve atender ao requisito do prazo mínimo de cumprimento da pena, mesmo nos casos de condenados em regime inicial semiaberto.
+3. Agravo regimental desprovido (AgRg no HC 550.844/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2020).
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
