@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão do STJ assim ementado (fl. 89):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LEI N. 13.964/2019. ALTERAÇÃO DOS PATAMARES DE PROGRESSÃO DO ART. 112 DA LEI DE EXECUÇÃO PENAL. RETROATIVIDADE DA LEI PENAL POSTERIOR MAIS BENÉFICA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte vem decidindo no sentido de que, com a nova redação do art. 112 da Lei de Execução Penal, alterada pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência não específica, de maneira que tal situação, como prescrevem os princípios gerais do direito penal, deve sempre ser interpretada em favor do réu, o que impede a aplicação por analogia da fração de 3/5 (ou 60%) realizada pelas instâncias ordinárias no caso em tela, por se tratar de analogia in malam partem, possibilidade vedada em nosso ordenamento. Precedentes.
+2. Agravo regimental desprovido.
+Nas razões do extraordinário, além da repercussão geral,o recorrente apontaviolação do art. 5º,incisos XLIII e XLVI, da CF e aduz, em síntese, que o acordão recorrido tratou de forma igual réus em situações diversas, de modo que o reincidente equiparou-se aoprimário, incorrendo em contrariedade aosprincípios da individualização da pena, da isonomia e da proibição da proteção insuficiente, derivados do devido processo legal.
+Proferido juízo positivo de admissibilidade, retornam os autos do STF com determinação de aplicação da sistemática da repercussão geral (fls. 226-227).
+É, no essencial, o relatório. Decido.
+O STF, no julgamento do Tema 1169 de repercussão geral, reafirmou entendimento jurisprudencial e fixou a seguinte tese:
+Tendo em vista a legalidade e a taxatividade da norma penal (art. 5º, XXXIX, CF), a alteração promovida pela Lei 13.964/2019 no art. 112 da LEP não autoriza a incidência do percentual de 60% (inc. VII) aos condenados reincidentes não específicos para o fim de progressão de regime. Diante da omissão legislativa, impõe-se a analogiain bonam partem, para aplicação, inclusive retroativa, do inciso V do artigo 112 (lapso temporal de 40%) ao condenado por crime hediondo ou equiparado sem resultado morte reincidente não específico.
+Neste contexto, observa-se que o acórdão recorrido se alinha com o entendimento firmado pelo STF, o que inviabiliza a subida do recurso extraordinário.
+Ante o exposto, nos termos do disposto no art. 1.030, inciso I, alínea "a", doCódigo de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
