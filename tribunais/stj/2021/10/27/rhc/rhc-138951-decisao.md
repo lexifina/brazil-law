@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto por FELIPE MARCONcontra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido no HC n.5035404-86.2020.8.24.0000.
+Consta dos autos que o Recorrente foi preso em flagrante delito, juntamente com corréu, no dia 13/09/2020, com posterior conversão em preventiva, pela suposta prática do crime tipificado no art. 33,caput, da Lei n.11.343/2006, uma vez que, em abordagem ao
+"veículo GM/Classic, placa MDO 2057 e, em revista pessoal aos conduzidos, localizaram considerável valor em espécie (R$ 4.130,00) e em baixo do banco do motorista encontraram seis porções de cocaína, fracionadas e prontas para venda. Os policiais disseram que os indiciados são conhecidos pelas equipes pelo envolvimento em condutas ilícitas e também teriam questionado a origem dos valores, sendo que Felipe Marcon não soube explicar e Júnior teria dito que havia realizado um empréstimo, mas ao ser indagado o fato de ser feriado, não soube explicar"(fl. 181).
+Irresignada com a segregação cautelar do Acusado, a Defesa impetrouhabeas corpusperante a Corte de origem, que denegou a ordem.
+Nas presentes razões recursais, o Recorrente sustenta que o decreto prisional carece de fundamentação idônea, bem como não se encontram preenchidos os requisitos autorizadores da prisão preventiva.
+Afirma, ainda, que " é de se levar em consideração que o Sistema Prisional está lotado de presos, e a beira de um colapso, e um réu com, que contribuiu com as investigações e não tem qualquer restrição para ser libertado, pode ser sim posto em liberdade sem qualquer receio de turbação ao processo, devido a elementos pessoais que corroboram com a soltura" (fl. 240).
+Destaca a defesa que o Recorrente "é pessoas idônea, bem conceituada na comunidade, não devendo permanecerem em cárcere, o que iria de encontro a todo o direito garantista e democrático estabelecido em nossa Carta Maior, além de que possui todos os requisitos para permanecer em liberdade, como residência fixa, primário, sem antecedentes e cumpridor de suas obrigações" (fl. 236).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do Recorrente, com a expedição do competente alvará de soltura.
+Constato, em consulta ao endereço eletrônico do Tribunal de origem, que o Juízo de primeira instância, em 11/03/2021, substituiu a prisão preventiva do Recorrente por medidas cautelares diversas e, em 06/07/2021, proferiu sentença na qual condenou o Recorrente pela prática do crime de tráfico, e decretou novamente a prisão, por fatos supervenientes.
+Como se vê, não subsiste o acórdão impugnado na petição inicial, poishá novo título a respaldar a custódia cautelar, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram substituídas por novo ato decisório.
+Assim, diante da alteração da situação fática inicialmente questionada nestes autos, fica prejudicada a análise dowrit.
+Ante o exposto,JULGO PREJUDICADO o recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. ALTERAÇÃO DA SITUAÇÃO FÁTICA INICIALMENTE QUESTIONADA NOS AUTOS. RECURSO PREJUDICADO.
