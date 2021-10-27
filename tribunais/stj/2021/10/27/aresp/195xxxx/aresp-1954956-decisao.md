@@ -1,0 +1,11 @@
+DECISÃO
+Vistos etc.
+Compulsando-se os autos, verifica-se que as partes recorrentes não comprovaram devidamente o preparo recursal referente ao recurso especial, uma vez quea concessão da gratuidade se deu tão somente para o preparoreferente ao recurso de apelação, conforme se observada leitura do seguinte trecho(e-STJ, fls. 178/179):
+Observo, quanto ao pedido de gratuidade objetodo apelo dos réus, que embora os recorrentes afirmem não possuir condições financeiras de suportar o preparo recursal, referido pleito veio desacompanhado de efetiva comprovação de modificação da situação financeira anterior, a justificar o deferimento do benefício não obtido em primeiro grau.
+Se os apelantes pretendem a reforma de uma decisão que lhe soa desfavorável, incumbe-lhes demonstrar suas alegações da melhor forma possível, no que se inclui a apresentação de documentos que confirmem a alegada insuficiência econômica. Isso, contudo, não é o que ocorre no presente caso, pois os apelantes apresentaram apenas demonstrações contábeis do exercício de 2018, que não foram suficientes para comprovar de forma contundente a alegada situação de precariedade financeira atual, deixando de juntar qualquer documento referente à pessoa física.
+Consequentemente, não tendo os recorrentes demonstrado sua miserabilidade processual, isto é, comprovado que as despesas judiciais trazem prejuízo e desestabilizam o desenvolvimento de suas atividades ou de seu sustento, não há razão para deferir o pedido de assistência judiciária gratuita, devendo ser mantida integralmente a decisão de primeiro grau.
+Mas para que não se alegue inacessibilidade à jurisdição e considerando a necessidade do breve julgamento do feito, há tempos distribuído concedo a gratuidade para o ato, nos termos do artigo 98, §5º do CPC, e assim o apelo é conhecido.
+Diante disso, nos termos do artigo 1.007, § 4º, do Código de Processo Civil de 2015, torna-senecessário conceder às partes recorrentes oportunidade para que procedam ao corretorecolhimento do preparo recursal.
+Destarte, intimem-se os recorrentes, na pessoa de seu advogado, para que, em 5(cinco) dias, realizem o recolhimento em dobro, consoante o artigo 1.007, §4º, doCódigo de Processo Civil/2015, sob pena de deserção.
+Após, retornem os autos conclusos para a devida análise do recurso.
+Intimem-se.
