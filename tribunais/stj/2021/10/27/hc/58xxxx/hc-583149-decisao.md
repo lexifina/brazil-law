@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ARIELE RIBEIRO DA CRUZ contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios proferido na Apelação n.0000897-57.2017.8.07.0003.
+A Paciente foi condenada às penas de2 (dois) anos e 9 (nove) meses de reclusão, em regime inicial aberto, além do pagamento de 53 (cinquenta e três) dias-multa, pela prática do crime previsto no art. 155, § 4.º, inciso II (abuso de confiança e fraude), do Código Penal.A penaprivativa de liberdade foi substituída por 2 (duas) sanções restritivas de direitos (fl. 41).
+Isso porque, consoante a denúncia,a Paciente"subtraiu para si, mediante fraude e abuso de confiança, os produtos discriminados à fl. 53/54, totalizando a quantia de R$ 99,98 (noventa e nove reais e noventa e oito centavos), pertencentes à empresa mencionada" (fls. 20-21). Acrescenta a peça acusatória que a Paciente "reimprimiu de forma fraudulenta um Documento Auxiliar de Nota Fiscal Eletrônica (DANFE), relativa a um troca efetuada pelo cliente  .. , na loja Polyelle localizada na QNN 01" (fl. 21).
+Interposta apelação pela Defesa, a Cortea quonegou provimento ao recurso (fls. 44-49).
+Nestewrit, a Defesa pleiteia a absolvição da Paciente, mediante a aplicação do princípio da insignificância.
+Aduz, em suma, que, "caso o fato tenha realmente ocorrido, estão supridos os requisitos para a aplicação do princípio da insignificância, uma vez que a ofensividade da conduta foi mínima; não houve periculosidade social do ato;houve reduzida reprovabilidade da conduta, uma vez que os próprios procedimentos da loja apresentavam falhas; e inexpressividade da lesão provocada" (fl. 7).
+Sustenta, subsidiariamente,ser cabível "a aplicação do privilégio do artigo 155, parágrafo 2º do Código Penal" (fl. 12).
+Assim, requer, liminarmente e no mérito, a absolvição da Paciente ante o reconhecimento da atipicidade material em face do princípio da insignificância, ou aaplicação da minorante do art. 155, § 2.º, do Código Penal.
+A liminar foi indeferida às fls. 52-54.
+Informações às fls. 60-114.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 119-127).
+É relatório.
+Decido.
+O Juízo sentenciante rechaçou o pleito de aplicação do princípio da insignificância assinalando que (fls. 37-38; sem grifos no original):
+"Tampouco socorre à ré a alegação de atipicidade delitiva decorrente da aplicação do princípio da insignificância, no caso concreto.
+É que, como sabido, para aplicação do principio da insignificância, faz-se necessária a cumulação dos seguintes requisitos, a saber:ofensividade mínima da conduta; inexistência de periculosidade social do ato; reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão provocada.
+Em sendo assim, não há que se falar que a conduta praticada pela acusada afigurou-se minimamente ofensiva, se praticou o delito mediante a cumulação de duas elementares qualificadoras, quais sejam, abuso de confiança e meio ardil fraudulento, os quais revelam, ainda, elevado grau de reprovabilidade do comportamento da ré.
+Ademais, o valor dos bens subtraídos pela acusada superaram à época, o importe equivalente a 10% (dez por cento) do salário mínimo, o que impede, de toda sorte, a aplicação do princípio da insignificância, haja vista a expressividade da lesão provocada. Confira-se:  .. ."
+O Tribunal de origem, de igual modo, negou a aplicação do princípio da insignificância, nestes termos(fls. 48-49; sem grifos no original):
+"Ao juízo de tipicidade formal conjuga-se o da tipicidade material, posto que incabível, no caso, a aplicação do princípio da insignificância. Sabe-se que vários fatores devem ser analisados no caso concreto para aferição sobre a aplicação do almejado princípio, não podendo servir de parâmetro, de forma exclusiva e isolada, o valor dares furtiva. O grau de ofensividade da conduta frente ao bem jurídico tutelado, o desvalor social da ação e a intensidade da culpabilidade do agente devem ser apreciados.
+Caso contrário, o manejo do princípio da insignificância poderia incentivar condutas que atentam contra a ordem social, e que, toleradas pelo Estado, colocariam em risco a segurança da coletividade. A simples alegação de que não houve prejuízo relevante para a vítima em nada altera a condenação. Se assim fosse, os furtos tentados e aqueles consumados, mas com recuperação dos bens subtraídos, seriam considerados penalmente atípicos em decorrência do princípio da insignificância.
+No caso, o comportamento da acusada não apenas possui alto grau de reprovabilidade, como o valor dos bens furtados não é insignificante (R$ 99,98), posto que equivalem a 11,36% do salário mínimo vigente à época dos fatos, segundo cálculos da própria Defesa (ID 12813069 - Pág. 17). Vê-se então que o valor ultrapassa 10% do salário mínimo. Nesse sentido é a jurisprudência do Superior Tribunal de Justiça:
+ ..
+Dessa forma, ao contrário do que sustenta a apelante, sua conduta configurou o crime do art. 155, § 4º, II, do Código Penal."
+Como se percebe, as instâncias ordinárias destacaram queo valor dares furtivae-R$ 99,98 (noventa e nove reais e noventa e oito centavos) - ésuperior a 10% (dez por cento) do salário mínimo vigente à época dos fatos, quantia que, nos termos do entendimento pacífico do Superior Tribunal de Justiça, não pode ser considerada insignificante.
+A propósito: " o bserva-se, contudo, considerável valor da res furtivae, avaliada em R$ 100,00 (cem reais), porquanto equivalente a 11,36% do salário-mínimo à época do fato, em 2016, que correspondia a R$ 880, 00 (oitocentos e oitenta reais). Tendo em vista superação do critério informado jurisprudencialmente, ausente, pois, o requisito da inexpressividade da lesão ao bem jurídico" (RHC 74.237/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/09/2016, DJe 28/09/2016; sem grifos no original).
+No mesmo sentido:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE MATERIAL. INAPLICABILIDADE. VALOR DO BEM SUPERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA. RÉU REINCIDENTE. AGRAVO DESPROVIDO.
+1. Para que seja considerado presente o princípio da insignificância e, consequentemente, a atipicidade da conduta, ares furtivadeve ter sido avaliada em valor inferior a 10% do salário mínimo vigente à época dos fatos.
+ ..
+3. Agravo regimental desprovido."(AgRg no HC 599.076/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/04/2021, DJe 26/04/2021.)
+"HABEAS CORPUS. FURTO PRIVILEGIADO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. VALOR DARES FURTIVASUPERIOR A 10% DO SALÁRIO MÍNIMO.HABEAS CORPUSDENEGADO.
+ ..
+2. Incabível a aplicação do princípio da insignificância quando o montante do valor dares furtivasuperar o percentual de 10% do salário mínimo vigente à época dos fatos, como é o caso dos autos, em que o valor do celular subtraído correspondia à 38% do salário mínimo.
+3.Habeas corpusdenegado."(HC 622.885/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 11/12/2020.)
+Além disso, a Paciente foi condenadapela prática do crime de furto qualificado (abuso de confiança e fraude), o quetambém afasta a aplicação do princípio da insignificância, por denotar maior reprovabilidade da conduta.
+Sobre o tema:
+" ..
+1. A aplicação do princípio da insignificância tem sido rechaçada, como regra, no crime de furto qualificado pelo abuso de confiança, tendo em vista que tal circunstância denota maior ofensividade e reprovabilidade da conduta. Precedentes. .. .3. Agravo interno desprovido." (AgInt nos EDcl no AREsp 1.386.937/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/02/2019, DJe 14/02/2019.)
+" ..
+3. A jurisprudência desta Corte entende que, em regra, as qualificadoras do crime de furto obstam a aplicação do princípio da insignificância, haja vista a maior reprovabilidade da conduta, malgrado sua presença não implique, per si, afastamento da atipicidade material. No presente caso, a despeito do valor ínfimo das coisas furtadas, "a aplicação do princípio da insignificância tem sido rechaçada, como regra, no crime de furto qualificado pelo abuso de confiança, tendo em vista que tal circunstância denota maior ofensividade e reprovabilidade da conduta" (AgRg no AREsp 697.529/MG, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 7/10/2015), mormente quando empregado furta estabelecimento, abusando da confiança do empregador. Precedentes.
+4. Habeas Corpus não conhecido." (HC 498.163/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 11/06/2019, DJe 18/06/2019; sem grifos no original.)
+" ..
+1. No caso, constata-se que o valor da res furtivae - duas peças de picanha, avaliadas em R$ 131,68 (cento e trinta e um reais e sessenta e oito centavos) - é superior a 10% (dez por cento) do salário mínimo vigente à época dos fatos, R$ 998,00 (novecentos e noventa e oito reais). Desse modo, a referida quantia, nos termos do entendimento pacífico do Superior Tribunal de Justiça, não pode ser considerada insignificante.
+2. Ademais, o crime de furto tentado foi qualificado pelo abuso de confiança, pois o Agravante trabalhava no supermercado de onde tentou subtrair as duas peças de picanha. Nesse contexto, consoante orientação desta Corte Superior, a incidência da respectiva qualificadora denota a maior reprovabilidade da conduta e inviabiliza a aplicação do princípio da insignificância.
+ ..
+6. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido"(AgRg no HC 664.071/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/06/2021, DJe 30/06/2021; sem grifos no original.)
+" ..
+5. Caso em que o valor da res furtivae (R$ 282,15) não pode ser considerado inexpressivo, na medida em que ultrapassou o patamar de 10% (dez por cento) do salário-mínimo vigente à época do fato, tratando-se, ainda, de furto praticado mediante fraude, circunstâncias essas, portanto, desabonadoras e que impedem, nos termos da jurisprudência desta Corte, o reconhecimento da atipicidade material da conduta mediante a aplicação do princípio da insignificância.
+6. Agravo regimental a que se nega provimento."(AgRg no HC 663.233/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/06/2021, DJe 25/06/2021; sem grifos no original.)
+Por fim, no que diz respeito à pretensão de aplicação do furto privilegiado, extrai-se da sentença que: " t ambém não há que se falar em aplicação da figura do furto privilegiado no caso concreto, haja vista incidência de qualificadora de ordem subjetiva consubstanciada no abuso de confiança" (fl. 39).
+Ao manter a sentença, a Corte de origem asseverou: " p or fim, e a contrario senso do disposto na súmula 511 do STJ, não é possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crime de furto qualificado, se, a despeito da primariedade do agente e do pequeno valor da coisa, a qualificadora venha a ser de ordem subjetiva, como na espécie, em que a ré violou a confiança da empresa vítima" (fl. 49).
+Nesse contexto, não se evidencia a existência de patente ilegalidade a ser sanada na espécie, pois, conforme a jurisprudência desta Corte, a presença de qualificadoras de caráter subjetivo (abuso de confiança e fraude)afasta a incidência do furto privilegiado, previsto no art. 155, § 2.º, do Código Penal.
+Nesse sentido:
+" ..
+1. A qualificadora relativa ao emprego de fraude é de natureza subjetiva conforme entendimento desta Corte Especial, razão pela não se torna possível a incidência do benefício previsto no § 2º do art.155 em favor do réu.
+2. Agravo regimental desprovido."(AgRg no HC 593.994/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021; sem grifos no original.)
+" ..
+1. Para a jurisprudência desta Corte é admitida a incidência do privilégio previsto no art. 155, § 2º, do Código Penal, ao crime de furto qualificado, excetuando, contudo, as hipóteses nas quais a qualificadora é de natureza subjetiva (como no caso concreto, furto mediante fraude, fl. 136), nos termos da Súmula 511 deste Superior Tribunal.
+2. No caso, embora o recorrente seja primário e a res furtiva considerada de pequeno valor - porquanto inferior ao salário mínimo vigente à época dos fatos -, a qualificadora relativa ao emprego de fraude é de natureza subjetiva, razão pela qual reitero o entendimento de não ser possível a incidência do benefício previsto no § 2º do art. 155 em seu favor (AgRg no REsp n. 1.578.367/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/8/2016).
+3. A qualificadora do emprego de fraude possui natureza subjetiva e, por essa razão, por demonstrar maior gravidade da conduta, torna incompatível o reconhecimento da figura privilegiada do furto, independentemente do pequeno valor da res furtiva e da primariedade da agravante (AgRg no REsp n. 1.841.048/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/12/2019).
+4. Agravo regimental provido para reconsiderar a decisão agravada e negar provimento ao recurso especial."(AgRg no REsp 1.771.582/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020; sem grifos no original.)
+" ..
+1. Extrai-se da Súmula n. 511 desta Corte Superior que "é possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crime de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva". Todavia, no caso em apreço, incidiu a qualificadora do abuso de confiança, que é de ordem subjetiva, de modo que se mostra inviável a incidência do disposto no art. 155, § 2.º, do Código Penal. Precedente.
+ ..
+3. Agravo regimental desprovido"(AgRg no HC 557.111/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 24/08/2021, DJe 02/09/2021; sem grifos no original.)
+Ante o exposto,DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL.FURTO QUALIFICADO.APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE.VALOR DO OBJETO SUPERIOR A 10% (DEZ POR CENTO) DO SALÁRIO MÍNIMO.ABUSO DE CONFIANÇA EEMPREGO DE FRAUDE.ESPECIAL REPROVABILIDADE DA CONDUTA. FURTO PRIVILEGIADO. INAPLICABILIDADE. QUALIFICADORAS DE ORDEM SUBJETIVA.ORDEM DEHABEAS CORPUSDENEGADA.
