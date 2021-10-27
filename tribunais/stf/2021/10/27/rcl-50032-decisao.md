@@ -1,0 +1,69 @@
+Trata-se de reclamação proposta pelo Banco Pan S.A. contra acórdão proferido pela 6ª Câmara – 3ª Turma do Tribunal Regional do Trabalho da 15ª Região - TRT15 nos autos da Ação Trabalhista 0011832-17.2016.5.15.0102, para garantir a observância das teses fixadas pelo Supremo Tribunal Federal – STF no julgamento da ADPF 324/DF e do enunciado da Súmula Vinculante 10.
+    O reclamante narra, em síntese, o seguinte:
+    “O acórdão reclamado foi proferido nos autos da ação trabalhista nº 0011832-17.2016.5.15.0102, proposta por AMANDA GORETI MONTEIRO perante a 2ª VARA DO TRABALHO DE TAUBATÉ /SP, em face do BANCO PAN S/A.
+    Nos referidos autos, a Reclamada alega suposta ilicitude da terceirização, pleiteando a declaração da ilicitude, o reconhecimento de vínculo direto com o BANCO PAN S.A., bem como a condenação solidária das Empresas ao pagamento de direitos típicos da categoria bancária e, sucessivamente, financiária, horas extras além da 6ª diária, intervalo intrajornada, intervalo do art. 384, da CLT, justiça gratuita e honorários advocatícios.
+    A ação em questão foi julgada parcialmente procedente na origem, tendo o juízo de piso consignado a ilicitude da terceirização.
+    […]
+    Na segunda instância, em sede de recurso ordinário, a 3ª TURMA – 6ª CÂMARA do egrégio Tribunal Regional do Trabalho da 15ª Região, manteve a sentença reconhecendo a ilicitude da terceirização e o vínculo empregatício diretamente com o tomador dos serviços vide trechos do acórdão: […].
+    Ao recurso de revista interposto por esta Reclamante, foi denegado parcial seguimento.
+    Esta ora Reclamante irá interpor agravo de instrumento, bem como peticionou nos autos solicitando a observância da decisão vinculante proferida da ADPF 324 e RE 958252 que declarou a licitude da terceirização, bem como a inconstitucionalidade da Súmula 331 do TST. Assim, os autos serão remetidos ao TST” (págs. 2-5 da inicial, grifos no original).
+    Nesse contexto, argumenta que o ato impugnado
+    “[...] desconsidera a autoridade das decisões da Suprema Corte, que firmou entendimento cristalino sobre a matéria no julgamento da ADPF nº 324, nos seguintes termos: ‘É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada’ (págs. 6-7 da inicial, grifos no original).
+    Ao final, sustenta o preenchimento dos requisitos para provimento do pedido liminar e requer:
+    “[...]
+    d) O deferimento do pedido liminar para suspender, cautelarmente, com amparo no artigo 989, II, do CPC e no artigo 158 do RISTF, a decisão impugnada e a tramitação da Ação Trabalhista nº 0011832- 17.2016.5.15.0102 até a decisão final da presente reclamação;
+    e) A procedência da presente reclamação, com a consequente cassação da decisão proferida pela 3ª TURMA - 6ª CÂMARA do egrégio Tribunal Regional do Trabalho da 15ª Região na Ação Trabalhista nº 0011832-17.2016.5.15.0102, que violou a Súmula Vinculante nº 10 e a decisão proferida pelo STF, em controle concentrado de constitucionalidade, na ADPF nº 324; [...]” (pág. 16 da inicial, grifos no original).
+    É o relatório. Decido.
+    Inicialmente, consigno que deixei de requisitar as informações e de enviar o feito à Procuradoria-Geral da República por entender que o processo já está em condições de julgamento (arts. 52, parágrafo único, e 161, parágrafo único, ambos do RISTF).
+    Destaco que a reclamação perante o Supremo Tribunal Federal será sempre cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; e (iii) garantir a observância de enunciado de Súmula Vinculante e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil.
+    No caso dos autos, conforme relatado, o reclamante assevera que o acórdão reclamado violou as teses fixadas pelo Supremo Tribunal Federal – STF no julgamento da ADPF 324/DF e o enunciado da Súmula Vinculante 10.
+    Esta Corte, no julgamento da ADPF 324/DF, fixou a seguinte tese:
+    “1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada. 2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993” (ADPF 324, Rel. Min. Roberto Barroso, Tribunal Pleno) .
+    Nesse julgamento, o Supremo Tribunal Federal assinalou superada a dicotomia entre atividade-fim e atividade-meio, de modo a considerar legítima a terceirização de atividades produtivas em âmbito empresarial privado.
+    Por seu turno, o enunciado da Súmula Vinculante 10 dispõe o seguinte:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    Pois bem.
+    Na espécie, o acórdão reclamado assim tratou o tema da terceirização:
+    “Responsabilidade Solidária/Subsidiária/Grupo Econômico.
+    No que se refere aos temas em destaque, inviável o recurso, pois a parte recorrente indica trechos do acórdão recorrido que deles não tratam especificamente, não atendendo adequadamente à exigência prevista no art. 896, § 1º-A, I, da CLT.
+    Responsabilidade Solidária/Subsidiária/Tomador de Serviços/Terceirização/ Licitude/Ilicitude da Terceirização.
+    Direito Coletivo/Enquadramento Sindical/Categoria Profissional.
+    O v. acórdão entendeu pela ilicitude da terceirização em relação às atividades desenvolvidas pela parte autora, com consequente reconhecimento de vínculo de emprego diretamente com a tomadora de serviços (‘Banco Pan S.A.’), na forma da Súmula 331, I, do C. TST. Diante do vínculo declarado, reconheceu também o enquadramento da trabalhadora na categoria dos bancários, acolhendo os pedidos dele decorrentes.
+    Quanto a esta matéria, o Supremo Tribunal Federal, ao julgar a Arguição de Descumprimento de Preceito Fundamental n° 324 firmou a seguinte tese: […].
+    Acrescente-se, que a mesma ratio decidendi foi reiterada pelo STF na mesma data (30/8/2018), ao julgar o mérito da questão constitucional suscitada no leading case RE número 958.252 em que a terceirização foi analisada ‘à luz dos arts. 2o, 5o, II, XXXVI, LIV e LV e 97 da Constituição Federal’ e o ‘alcance da liberdade de contratar na esfera trabalhista’. Nesta oportunidade foi fixado o TEMA 725, com repercussão geral, nos seguintes termos: […].
+    Assim sendo, com fundamento no art. 896, ‘c’, da CLT, defiro o processamento do recurso quanto aos temas em destaque, por possível violação ao art. 3º da CLT” (págs. 2-3 do documento eletrônico 9 - grifei).
+    Ademais, quando do julgamento do recurso ordinário, o TRT15 reconheceu a formação de grupo econômico e, em virtude disso, a ilicitude da intermediação de mão-de-obra, declarando-se o vínculo de emprego direto com o reclamante. Vejamos:
+    “Com efeito, a Origem reconheceu a ilicitude da intermediação de mão-de-obra pela Panserv e reconheceu o vínculo de emprego diretamente com o Banco Pan, cujas razões peço vênia para transcrever abaixo, tendo em vista minha concordância com a tese:
+    ‘Vínculo de emprego com o Banco
+    A ex-empregadora da autora era do grupo econômico do Banco Pan, conforme depoimento pessoal do réu (fl. 850).
+    Extrai-se, da prova oral, que a reclamante trabalhava na agência bancária, realizando vendas de ‘produtos’ do Banco Pan (em especial, consignados), utilizando o sistema do banco e sendo coordenada por gerente do Banco. Pouco importa se a Sra. Bruna Pedon foi admitida, no papel, pela Panserv (fl. 564), pois ficou provado pela testemunha da autora que essa empregada era a gerente da agência bancária. Disto, concluo que a coordenação do trabalho da reclamante vinha do Banco Pan.
+    Outrossim, as atividades da autora estavam diretamente relacionadas à atividade-fim do Banco (empréstimo consignado), ainda que ela não abrisse, administrasse ou fechasse contas; ou lidasse diretamente com dinheiro.
+     Sendo assim, reconheço a ilicitude da intermediação de mão-de-obra pela Panserv e, como consequência: declaro a nulidade do contrato anotado pela Panserv e reconheço o vínculo de emprego da reclamante (de 10.01.2013a 01.09.2014) diretamente com o BANCO PAN (arts. 9º e 444 da CLT, Súmula 331, I, do TST). Por corolário, a autora é considerada bancária, para fins de enquadramento sindical. Procede.’
+    Por oportuno, acrescente-se que a prova oral evidencia que a autora exercia atividade típica de instituição financeira, atuando na venda de financiamento de veículos, consórcio, crédito imobiliário e crédito pessoal, apenas em proveito do reclamado BANCO PAN S.A., dele recebendo e utilizando uniforme com logomarca (fls. 850).
+    Logo, conclui-se que o recorrente, típica instituição financeira, serviu-se de empresa interposta, uma prestadora de serviços, mas por ela própria administrada, para realizar assessoria para a venda de seus produtos, notadamente a oferta de crédito, e de dinheiro para financiamento de bens e mercadorias” (págs. 3-4 do documento eletrônico 7).
+    Observo que o fundamento do Tribunal reclamado para reconhecer a ilegalidade da terceirização foi a formação de grupo econômico (documento eletrônico 7).
+    Em contrapartida, a controvérsia posta no juízo do trabalho fixou-se na formação de grupo econômico e, em decorrência disso, na invalidade da terceirização de mão de obra, reconhecendo o vínculo empregatício direto com o reclamante.
+    Assim, fica afastada qualquer ilação no sentido de que houve desrespeito ao que foi decidido por este Supremo Tribunal na ADPF 324/DF, uma vez que não há identidade entre o ato reclamado e a decisão paradigma indicada, o que pressupõe a inadmissibilidade da ação por ausência de aderência estrita.
+    Ressalto, ademais, que a jurisprudência pacífica desta Corte exige aderência estrita entre o ato reclamado e o conteúdo do paradigma apontado como violado, o que não ocorre no caso. Nessa linha de entendimento, cito os seguintes julgados em controvérsias similares à presente:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. TERCEIRIZAÇÃO DE MÃO DE OBRA. ILICITUDE. FRAUDE. AUSÊNCIA DE ADERÊNCIA ESTRITA ENTRE O ATO RECLAMADO E A DECISÃO PARADIGMA.
+    1. Reclamação em face de decisão do Tribunal Regional do Trabalho da 17ª Região que declarou ilícita terceirização de mão de obra, reconhecendo fraude na contratação, em razão da existência de intermediação de mão de obra e prestação de serviços com subordinação jurídica.
+    2. Ausência de aderência estrita entre a decisão reclamada e os paradigmas invocados - ADPF 324, RE 958.252 (Tema 725 da repercussão geral), e ARE 791.932 (Tema 739 da repercussão geral).
+    3. O órgão reclamado entendeu, com fundamento no contexto probatório, que as circunstâncias fáticas apresentadas não se enquadravam na moldura normativa do art. 94, II, da Lei 9.472/97. A jurisprudência do Supremo Tribunal Federal entende que não há desrespeito à Súmula Vinculante 10 se houve mera interpretação do texto infraconstitucional, sem esvaziamento de seu sentido.
+    4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (Rcl 39.466-AgR/ES, Rel. Min Roberto Barroso, Primeira Turma).
+    “Agravo regimental na reclamação.
+    2. Direito do Trabalho.
+    3. Ilicitude da terceirização. Fraude decorrente de formação de grupo econômico. Alegada violação à ADPF 324 e ao tema 725 da sistemática da repercussão geral. Inocorrência. Ausência de aderência estrita. Precedentes.
+    4. Inexistência de argumentos capazes de infirmar a decisão agravada.
+    5. Agravo regimental a que se nega provimento” (Rcl 43.299-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma).
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. AÇÃO TRABALHISTA. CONTRATO DE TERCEIRIZAÇÃO. FRAUDE. FALTA DE ADERÊNCIA ESTRITA AOS PARADIGMAS INVOCADOS. NÃO CABIMENTO DA RECLAMAÇÃO. AGRAVO NÃO PROVIDO.
+    1. É inviável a reclamação quando o ato reclamado não possui aderência estrita ao paradigma apontado como afrontado.
+    2. In casu , não há que se falar em preservação da garantia das decisões proferidas na ADPF 324 ou no RE 958.252-RG (processo piloto do Tema 725 da sistemática da repercussão geral), na medida em que a argumentação do ato reclamado não guarda estrita pertinência com os paradigmas invocados, sendo incabível a reclamação.
+    3. Agravo regimental a que se nega provimento (Rcl 36.432-AgR/MG, Rel. Min. Edson Fachin, Segunda Turma).
+    Além disso, dissentir das razões adotadas pelas instâncias ordinárias demandaria o reexame do conjunto fático-probatório dos autos, circunstância não admitida em sede de reclamação constitucional. Seguindo essa mesma orientação, cito: Rcl 25.934-AgR/RJ, Rel. Min. Rosa Weber, Primeira Turma; e Rcl 35.594-AgR/DF, Rel. Min. Dias Toffoli, Tribunal Pleno.
+    Outrossim, quanto à alegação de violação ao disposto na Súmula Vinculante 10, constato que o reclamante deixou de apontar a norma supostamente afastada, o que impossibilita o exame do caso concreto.
+    Destaco, por fim, que a pretensão do reclamante, em última análise, é fazer uso do instrumento processual da reclamação como sucedâneo recursal, finalidade essa que se revela estranha à sua destinação constitucional (Rcl 4.381-AgR/RJ, Rel. Min. Celso de Mello, Tribunal Pleno).
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF). Por conseguinte, julgo prejudicada a análise do pedido liminar.
+    Publique-se.
+    Brasília, 27 de outubro de 2021.
+Ministro Ricardo Lewandowski
+Relator
