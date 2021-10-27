@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIADE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, napetição do seu agravo interno, refutarespecificamente os fundamentos dadecisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. No caso, a parte agravante apresentou impugnação genérica a respeito da inaplicabilidade do óbice da Súmula 7/STJ, limitando-se a sustentar que a análise da pretensão recursal demandaria simples revaloração jurídica dos fatos tidos como incontroversos.No entanto, não houve o cotejo desses fatos tidos como incontestes com a tese trazida no recurso especial para que fosse demonstrada a inaplicabilidade da Súmula 7/STJ na situação em apreço
+3. Incidência da Súmula 182/STJ, a saber: "É inviável o agravo do art. 545 do CPCque deixa de atacar especificamente os fundamentos da decisão agravada.".
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno manejado porIVAHYR FARIAS SILVEIRAcontra decisão proferida pela Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+A parte agravante alega que indicou, adequadamente, os dispositivos tidos por violados (arts. 927 e 944 do Código Civil), motivo peloqual não se aplica o óbice da Súmula 284/STF.
+Sustenta a inaplicabilidade do impeditivo da Súmula 7/STJ, pois os fatos são incontroversos, sendo suficiente a sua mera revaloração jurídica
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIADE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, napetição do seu agravo interno, refutarespecificamente os fundamentos dadecisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. No caso, a parte agravante apresentou impugnação genérica a respeito da inaplicabilidade do óbice da Súmula 7/STJ, limitando-se a sustentar que a análise da pretensão recursal demandaria simples revaloração jurídica dos fatos tidos como incontroversos.No entanto, não houve o cotejo desses fatos tidos como incontestes com a tese trazida no recurso especial para que fosse demonstrada a inaplicabilidade da Súmula 7/STJ na situação em apreço
+3. Incidência da Súmula 182/STJ, a saber: "É inviável o agravo do art. 545 do CPCque deixa de atacar especificamente os fundamentos da decisão agravada.".
+4. Agravo interno não conhecido.
+VOTO
+A decisão agravada foi exarada nos seguintes termos (e-STJ, fls. 912 e 913):
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional. Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+A Indenização em face do Dano Moral tem por base os seguintes parâmetros: a situação econômico-social das Partes (Ofensor e Ofendido); o abalo físico/psíquico/social sofrido; o grau da agressão; a intensidade do dolo ou da culpa do Agressor; a natureza punitivo-pedagógica do Ressarcimento, sua potencialidade no desencorajamento de condutas ofensivas de igual natureza - a chamada "técnica do valor de desestímulo" como "fator de inibição a novas práticas lesivas" (cf. REsp nº 355392/RJ, Relatora Ministra Nancy Andrighi, STJ, julgado em 26.06.2002). A teor dos parâmetros do Código Civil de 2002 (artigo 944 e seguintes), a não fixação da Indenização por Dano Moral revela-se razoável, visto que o simples indeferimento do pedido na via administrativa não enseja a configuração do Dano. O ato que negou o benefício foi fundamentado em parecer de servidor da autarquia, cuja atividade goza de presunção de legitimidade, ilidida apenas pela prova contrária produzida neste feito (fl. 735).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Da leitura do presente agravo interno, observa-se que a parte insurgentenão infirmou essas justificativas.
+De acordo com a jurisprudência do STJ,não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 7 E 182 DO STJ.
+1. A insurgente não impugnou, de forma precisa, os fundamentos da decisão impugnada em relação à aplicação da Súmula 7/STJ, o que atrai, por analogia, a incidência da Súmula 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+2. Não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+3. Ainda que assim não fosse, decidir de forma contrária ao acórdão recorrido demandaria necessariamente o reexame de matéria fática, o que encontra óbice na Súmula 7 desta Corte Superior.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.067.725/SP, de minha relatoria, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 07/02/2018, que julgara recurso interposto contra decisão que inadmitira Recurso Especial, publicada na vigência do CPC/2015.
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art.932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Na forma da jurisprudência "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+V. Agravo interno improvido.
+(AgInt no AREsp 1.223.898/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/03/2018, DJe 27/03/2018).
+No caso, o agravante limitou-se a sustentar que os fatos são incontroversos e que o exame da pretensão recursal demandaria simples revaloração jurídica deles. No entanto, não houve o cotejo desses fatos tidos como incontroversos com a tese trazida no recurso especial para que fosse demonstrada a inaplicabilidade da Súmula 7/STJ na situação em apreço.
+Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, napetição do seu agravo interno, refutar especificamente os fundamentos dadecisão agravada, o que, na hipótese dos autos, não foi atendido.
+Incide na espécie o óbice da Súmula 182/STJ, a saber: "É inviável o agravo do art.545 do CPC que deixa de atacar especificamente os fundamentos da decisãoagravada.".
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. A decisão ora agravada não conheceu do Agravo em Recurso Especial, em razão de sua intempestividade, ressaltando que a comprovação da existência de feriado local deve se dar no momento da interposição do recurso, por documento idôneo (cópia da lei, ato normativo ou certidão exarada por servidor habilitado), não servindo para tanto a juntada de calendário do Tribunal de origem, nos termos da jurisprudência do STJ.
+III. O Agravo interno, porém, não impugna, especificamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EAREsp 608.466/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 30/04/2018; AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016; AgInt no AREsp 860.148/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/05/2016; AgRg no AgRg no AREsp 731.339/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 06/05/2016; AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 13/05/2016. IV. Agravo interno não conhecido. (AgInt na PET no AREsp 1602964/SE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/11/2020, DJe 30/11/2020).
+PROCESSO CIVIL. PREVIDENCIÁRIO. EXECUÇÃO. NEGADO PROVIMENTO A RECURSO ESPECIAL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ. ADMISSIBILIDADE.
+I. Em virtude da aplicação do princípio da dialeticidade previsto, para os agravos internos, no §1º do art. 1.021 do Código de Processo civil, não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida.
+II. No agravo interno, a parte agravante não impugnou todos os fundamentos da decisão que pretende reformar, determinando a aplicação do enunciado n. 182 da súmula do STJ.
+III. Agravo interno não conhecido.
+(AgInt no AREsp 877.856/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/11/2016, DJe 23/11/2016).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
