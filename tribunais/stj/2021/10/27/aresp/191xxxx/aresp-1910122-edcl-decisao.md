@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de NOVOS embargos de declaração opostos por SERGIO IURY BASTOS FERREIRA DA COSTA à decisão de fls. 741/744, que rejeitou os embargos anteriores.
+Sustenta a parte embargante que:
+ ..  HÁ OMISSÃO NO MENCIONADO DECISUM, posto que, ainda que tenha o ora embargante de vir a interpor agravo interno, por razões outras, ainda assim, se faz necessário que o emérito relator, diga de forma clara, a razão pela qual o embargante foi condenado ao pagamento de HONORÁRIOS ADVOCATÍCIOS RECURSAIS, já que pela dicção do artigo 85 e § 11, do atual CPC, estes só teriam cabimento na hipótese de recurso manejado, ou analogamente, contrarrazoado pelo recorrido, e pelo que consta dos autos o recorrido não manejou recurso algum, e sequer contrarrazoou os embargos julgados através da decisão monocrática de fls.726/727, não contrarrazoando nem mesmo o próprio Recurso Especial, quiçá o Agravo em Recurso Especial, NÃO HAVENDO ASSIM, RAZÃO NEM FUNDAMENTO LEGAL PARA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS (fl. 747).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre registrar que não se falou na decisão de fls. 726/727 em fixação de honorários advocatícios recursais, e sim em majoração dos honorários já fixados na origem.
+A decisão foi clara registrando que esta majoração somente incidirá se houver "prévia fixação de honorários de advogado pelas instâncias de origem", afastando os casos em que a parte for beneficiária da gratuidade, como no caso dos autos (fl. 339/340).
+Ademais, somente para fins de esclarecimento, conforme orientação jurisprudencial desta Corte Superior, para a majoração dos honorários recursais é dispensável o trabalho adicional do advogado da parte recorrida no grau recursal (AgInt no AREsp 1111767/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 28/08/2020.)
+Diante do exposto, rejeito os embargos de declaração e, outra conclusão não se faz possível, senão a de que a reiteração de embargos de declaração opostos com o intuito de modificar o julgado revela caráter manifestamente protelatório, razão pela qual aplico a multa de 2% sobre o valor da causa, nos termos do art. 1.026, § 2º, do Código de Processo Civil.
+Publique-se. Intimem-se.
