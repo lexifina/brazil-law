@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de CLAUDINEI RODRIGUES DE ALMEIDAcontra acórdão do Tribunal de Justiça de São Paulo, proferido no julgamento do Habeas Corpus Criminal nº 2213677-50.2021.8.26.0000.
+Consta dos autos que o Juízo das Execuçõesindeferiu o pedido de comutação da pena com base no Decreto Presidencial nº 8.380/2014, por ausência do requisito subjetivo, conforme decisão de fls. 65/68.
+Inconformada sua defesa impetrou habeas corpus perantea Corte Estadual, quenão conheceu da impetração,em acórdão assim ementado (fl. 90):
+"Habeas corpus - Comutação de penas - Sucedâneo de recurso de agravo que já foi interposto pela Defesa - Ausência de ilegalidade manifesta - Inadmissibilidade - Não conhecimento."
+Na presente impetração, sua Defesa reitera as alegações de que o requisito subjetivo foi, sim, preenchido, tendo em vista que o sentenciado ostentava BOM comportamento e não cometeu nenhuma falta grave noperíodo previsto no decreto.
+Requer, em sede liminar e no mérito, a concessão da ordem para que sejaconcedido ao Paciente a Comutação prevista no Decreto Presidencial de 2014.
+É o relatório.
+Decido.
+Não há como dar seguimento ao pedido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deveser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Além disso, o TJSP não conheceu a impetração originária, seguindo a orientação desta Corte e do próprio STF, reservando a possibilidade de análise da matéria em sede de Agravo em Execução que, conforme destacado no voto condutor do acórdão, já havia sido interposto.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. EMENDATIO LIBELLI. CORREÇÃO AFIRMADA EM JULGADO ANTERIOR PELO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PRESCRIÇÃO. INOCORRÊNCIA. INTERPOSIÇÃO SIMULTÂNEA DE HABEAS CORPUS E APELAÇÃO. WRIT ORIGINÁRIO NÃO CONHECIDO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.DIVERGÊNCIA DE ESTRATÉGIA ENTRE OS DEFENSORES QUE SE SUCEDERAM NO PROCESSO. APELO AINDA NÃO JULGADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+2. Esta Corte Superior já afirmou a legalidade da emendatio libelli ocorrida na ação penal em comento no julgamento dos HC ns. 258.940/PE e 376.450/PE. A capitulação jurídica do fato é fixada de maneira definitiva em primeiro grau quando da prolação da sentença, momento em que o magistrado pode, se for o caso, aplicar os institutos da mutatio libeli ou emendatio libeli.
+3. Não é possível acolher o pedido de extinção da punibilidade do paciente em relação aos fatos constantes da denúncia que foram inicialmente classificados como furto, entretanto, em razão da emendatio libelli, implicaram em condenação por crime de roubo.
+4. O Tribunal de origem manteve-se alinhado à jurisprudência desta Corte Superior ao não conhecer do habeas corpus que impugna matéria própria de recurso próprio quando este já foi interposto e encontra-se em processamento perante o mesmo órgão jurisdicional.
+5. A divergência entre as estratégias defensivas adotadas pelo Defensor subscritor das razões recursais e do novo causídico a respeito das teses que beneficiariam o recorrente, não implica em cerceamento de defesa ou em negativa de prestação jurisdicional, máxime quando o apelo anteriormente interposto sequer foi levado a julgamento.
+6. Habeas Corpus não conhecido (HC 457.239/PE, de minha Relatoria, QUINTA TURMA, j DJe 24/9/2019).
+AGRAVO REGIMENTAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. ABRANDAMENTO DE REGIME E SUBSTITUIÇÃO DE PENAS. SUPRESSÃO DE INSTÂNCIA. MANIFESTO CONSTRANGIMENTO ILEGAL INEXISTENTE.
+1. O habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a apelação criminal, a recurso especial, a agravo em execução, tampouco deve vir como sucedâneo de revisão criminal.
+2. Deve ser mantida por seus próprios fundamentos a decisão monocrática que indeferiu liminarmente o writ, porquanto a questão relativa à aplicação da minorante prevista no art. 33, § 4º, da Leide Drogas, bem como as questões referentes à substituição de penas e ao regime inicial não foram objeto de debate no Tribunal local, tendo em vista que a defesa já havia interposto apelação, em que as matérias serão examinadas. Assim, inviável a análise das questões diretamente por esta Corte, sob pena de inadmissível supressão de instância.
+3. Agravo regimental improvido(AgRg no HC 310.188/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 18/12/2014).
+Desse modo, inexistindo a manifestação no acórdão atacado sobre o mérito do pedido aqui deduzido, fica impedida esta Corte Superior de se manifestar sobre o tema, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, com fundamento no art. 210do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmenteo presentehabeas corpus.
+Publique-se.
