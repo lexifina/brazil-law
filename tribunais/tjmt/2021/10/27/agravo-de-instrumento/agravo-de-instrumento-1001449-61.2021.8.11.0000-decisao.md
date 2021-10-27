@@ -1,0 +1,66 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial no Agravo de Instrumento no 1001449-61.2021.811.0000
+Recorrentes: MÁRIO HENRIQUE ROVERSI e OUTRA
+Recorrida: GENERAL MOTORS DO BRASIL LTDA
+Vistos.
+Trata-se de recurso especial (id. 98241495) interposto por MÁRIO HENRIQUE ROVERSI e OUTRA, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado deste Sodalício, que negou provimento ao seu recurso de agravo de instrumento, conforme a seguinte ementa (id. 90507968):
+“AGRAVO DE INSTRUMENTO – AÇÃO DE INDENIZAÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA – DECISÃO QUE RECONHECEU A NULIDADE DA INTIMAÇÃO DA EXECUTADA, REABRIU O PRAZO PARA O PAGAMENTO DO DÉBITO E, POR CONSEQUENTE, DETERMINOU QUE OS AGRAVANTES RESTITUAM O VALOR LIBERADO NOS AUTOS – AUSÊNCIA DE INTIMAÇÃO DO CAUSÍDICO CONSTITUÍDO - OFENSA AO ART. 272, §§ 2o E 5o, DO CPC – CERCEAMENTO DE DEFESA – NULIDADE E REABERTURA DE PRAZO QUE SE IMPÕEM – DECISÃO MANTIDA – AGRAVO CONHECIDO E DESPROVIDO.
+Constando pedido expresso para que as intimações fossem feitas em nome de advogado determinado, o seu desatendimento implica em ofensa ao art. 272, §§ 2o e 5o, do CPC, gerando como consequência a nulidade das intimações.
+A ausência de intimação de procurador, que deixa de ser cadastrado, causa efetivo prejuízo à parte, motivo pelo qual deve ser reconhecida a nulidade de intimação e reaberto o prazo em favor do agravado.
+Colhe-se dos autos que, quando da interposição do recurso de Apelação Cível, a apelante requereu, expressamente, que “as intimações e publicações judiciais atinentes ao feito sejam veiculadas conjunta e exclusivamente, sob pena de nulidade, em nome de FABIO RIVELLI, OAB/MT 19023A e OAB/SP 297.608.”
+Mesmo requerimento foi reiterado quando da interposição dos recursos de Embargos de Declaração, Recurso Especial e Agravo em Recurso Especial. (RAI n° 1001449-61.2021.811.0000, Rel. SEBASTIÃO DE MORAES FILHO, SEGUNDA CÂMARA DE DIREITO PRIVADO, j. em 09/06/2021)”.
+Interpostos embargos de declaração, estes foram rejeitados, conforme acórdão lançado no id. 95738964.
+Os recorrentes sustentam em suas razões:
+(i) violação ao arts. 272, § 2° e 278 do CPC, ao fundamento de que houve preclusão pelo fato do recorrido não ter suscitado a nulidade de intimação exclusiva em momento oportuno.
+(ii) negativa de vigência aos arts. 525, §§ 1o, 4o e 5o e 917, III, § 4o, todos do CPC, ao fundamento de que a recorrida efetuou depósito nos autos e deixou de apresentar impugnação.
+Recurso tempestivo (id. 98280960).
+Devidamente preparado (id. 98556966).
+Contrarrazões intempestivas (id. 102203457).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência.
+Entretanto, em que pesem as argumentações dos recorrentes, o recurso não pode alcançar o normal seguimento.
+Decisão em conformidade com a jurisprudência do STJ (Súmula 83/STJ)
+A Súmula 83 do STJ (aplicável também nas hipóteses da alínea “a” do permissivo constitucional) preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+Em suas razões os recorrentes alegam que houve preclusão da recorrida ao suscitar a nulidade em razão da ausência de intimação exclusiva ao patrono indicado.
+Com efeito, a esse respeito, o órgão fracionário deste Sodalício se manifestou conforme segue:
+“Quando da prolação da sentença de procedência do pedido de indenização, as requeridas foram condenadas a devolverem ao autor, a quantia de R$ 111.000,00 (cento e onze mil reais), com correção monetária desde o desembolso e juros de 1% ao mês, desde a citação, bem como a danos morais no valor de R$ 20.000,00 (vinte mil reais), com correção monetária a partir da decisão e juros de mora de 1% ao mês, cuja incidência deverá ser feita a partir citação, com base na Súmula 362 do STJ.
+Ao interpor recurso de apelação, a executada General Motors do Brasil Ltda., constituiu o Dr. Fabio Rivelli como seu patrono, requerendo que as publicações fossem realizadas em nome do novo causídico.
+Remetidos os autos ao E. TJMT, foi dado parcial provimento ao recurso.
+Em seguida, a parte autora requereu o cumprimento do julgado, tendo havido o impulsionamento dos autos para a intimação das executadas para que realizassem o pagamento.
+E, embora a executada General Motors tenha constituído novo patrono, a publicação se deu em nome de seus antigos advogados.
+Todavia, a executada General Motors do Brasil Ltda compareceu espontaneamente aos autos, comprovando o depósito do valor de R$196.845,11 (cento e noventa mil, oitocentos e quarenta e cinco reais e onze centavos), referente a cota parte que entendia ser devida, requerendo a extinção do feito.
+Assim, por ter comparecido espontaneamente, o juízo entendeu que se encontrava suprido o equívoco em sua intimação. Prosseguindo, por se tratar de responsabilidade solidária, foi indeferido o pedido de extinção do feito, razão pela qual foi determinada a intimação de ambas as executadas para que efetuassem o pagamento do débito remanescente, sendo que, essa nova decisão, foi novamente publicada em nome do antigo advogado da executada General Motors.
+Por essa razão, o Juízo declarou a nulidade somente a partir da intimação para pagamento do débito remanescente, vez que publicada a intimação em nome de advogado diverso, a executada não teve conhecimento da decisão.
+[...]
+Logo, constando pedido expresso para que as intimações fossem feitas em nome de advogado determinado, o seu desatendimento implica em ofensa ao art. 272, §§ 2o e 5o, do CPC, gerando como consequência a nulidade das intimações.
+A ausência de intimação de procurador, que deixa de ser cadastrado, causa efetivo prejuízo à parte, motivo pelo qual deve ser reconhecida a nulidade de intimação e reaberto o prazo em favor do agravado” (grifei)
+A alegação de que no caso houve preclusão foi adotada implicitamente pela sentença e acórdão naquele primeiro momento em que o recorrido compareceu aos autos e efetuou o deposito, dando-se, inclusive, por sanada qualquer vicio de intimação. Todavia isso não retirou da recorrida o direito assegurado no pedido de intimações exclusivas antes pleiteado, de maneira que as futuras intimações deveriam, sob pena de nulidade, continuar sendo dirigidas à pessoa do Dr. FABIO RIVELLI – OAB/MT 19023-A e OAB/SP 297.608, o que de fato não ocorreu.
+Com efeito, a decisão ratificada pelo órgão fracionário deste Sodalício nesse sentido, está em consonância com as orientações do STJ. A propósito:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE NULIDADE NA PUBLICAÇÃO. PEDIDO DE INTIMAÇÃO EM NOME DE UM DOS ADVOGADOS HABILITADOS. NÃO OBSERVÂNCIA. NULIDADE (CPC/2015, ART. 272, § 5o). AGRAVO INTERNO PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL. 1. Havendo pedido expresso da parte para que a intimação seja feita em nome de um dos advogados constituídos nos autos, o não atendimento do pedido enseja a nulidade do ato (CPC/2015, art. 272, § 5o). Precedentes. 2. Agravo interno provido para dar provimento ao recurso especial, determinando a realização de nova intimação a ser promovida pelo Tribunal de origem, com a devolução do prazo recursal. (AgInt no REsp 1795060/SP, Rel. Min. RAUL ARAÚJO, QUARTA TURMA, j. em 20/08/2019, DJe 09/09/2019)” (grifei).
+“PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PUBLICAÇÃO. ADVOGADO SUBSTABELECIDO. AUSÊNCIA DE PEDIDO DE INTIMAÇÃO EXCLUSIVA. NULIDADE NÃO CONFIGURADA. PRECEDENTE DA CORTE ESPECIAL. SÚMULA N° 83/STJ. 1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada. 2. Nos termos da jurisprudência deste Superior Tribunal de Justiça, "havendo vários advogados constituídos nos autos, é válida a intimação feita em nome de qualquer deles quando ausente pedido de intimação exclusiva no nome de algum" (AR 5.696/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 28/6/2018, DJe 7/8/2018). Súmula n° 83/STJ. 3. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1185288/SP, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, j. em 23/04/2019, DJe 25/04/2019)” (grifei).
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta ofensa aos art. 272, § 2° e 278 do CPC, visto que o entendimento exposto no acórdão hostilizado se encontra em sintonia com a orientação do STJ.
+Do Prequestionamento (Súmulas 211/STJ e 282 /STF)
+Ao interpor o recurso especial os recorrentes tentam submeter ao crivo do STJ matéria que, a despeito de seu inconformismo, não foi analisada pelo acórdão hostilizado.
+Para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi da Súmula 282 do STF.
+No caso, ainda que manejados embargos de declaração, fato é que as questões afetas a exegese dos arts. 525, §§ 1o, 4o e 5o e 917, III, § 4o, do CPC, ao fundamento de que a recorrida efetuou depósito nos autos e deixou de apresentar impugnação não foram objeto de debate e decisão no acórdão hostilizado, razão pela qual resta obstado o juízo positivo de admissibilidade, a inteiro teor do que dispõe a Súmula 211/STJ e 282/STF (também aplicável à esta via recursal):
+“Súmula 282/STF. É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+“Súmula 211/STJ. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal de origem”.
+A propósito, nesse sentido:
+“A simples oposição dos embargos de declaração, visando à manifestação da Corte sobre o conteúdo de determinado dispositivo legal, não supre o requisito do prequestionamento quando não há o debate do tema controvertido, consoante a inteligência da Súmula 211 do STJ (AgInt no REsp 1715878/DF, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, j. em 24/08/2020, DJe 31/08/2020)” (grifei).
+Quando do julgamento dos aclaratórios, verifica-se de igual forma que a questão não foi discutida nos autos. Em casos tais, e entendendo a parte recorrente que persiste eventual omissão no julgado, é imprescindível que em razões de recurso especial se indique a negativa de vigência ao art. 1.022 do CPC; única forma, pois, do Tribunal “ad quem” verificar a questão. A propósito, nesse sentido:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INSTRUMENTO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO E DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO IMEDIATO DA CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CLÁUSULA DE QUITAÇÃO GERAL E PLENA. AUSÊNCIA DE DOLO, COAÇÃO OU ERRO. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. HONORÁRIOS RECURSAIS. MAJORAÇÃO. CABIMENTO. AGRAVO INTERNO DESPROVIDO. (...). 2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (enunciado n. 211 da Súmula do STJ). 3. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.(...). 7. Agravo interno desprovido. (AgInt no REsp 1839431/MG, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, j. em 08/02/2021, DJe 12/02/2021)” (grifei).
+“[...] Não se reconhece o prequestionamento pela simples oposição de embargos de declaração, de modo que, persistindo a omissão, é necessário interpor recurso especial por afronta ao art. 1.022 do Código de Processo Civil de 2015, sob pena de perseverar o óbice da ausência de prequestionamento. (AgInt no AREsp 1420454/RN, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, j. em 18/02/2020, DJe 03/03/2020)” (grifei).
+Diante disso, resta obstado o juízo positivo de admissibilidade ao presente recurso quanto aos arts. 525, §§ 1o, 4o e 5o e 917, III, § 4o, do CPC, por lhes faltarem o requisito do prequestionamento.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
