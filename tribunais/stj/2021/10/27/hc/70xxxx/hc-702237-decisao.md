@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, sem pedido liminar, impetrado em favor de WANDERSON MACIEL DE JESUS, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, no julgamento da Apelação Criminaln.º 0009900-19.2019.8.08 (035190092094).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 2 anos de reclusão, em regime inicial fechado, e 20 dias-multa, pela prática dodelitotipificadonoart. 155, § 1º e § 4º, I e II, c/c o art. 14, II, ambos do Código Penal(e-STJ, fls. 18/26).
+Irresignada, a defesa apelou e o Tribunal estadual negou provimento ao recurso(e-STJ, fls. 12/15), em acórdão assim ementado:
+EMENTA: APELAÇAÇÃO CRIMINAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO MAJORADO. QUALIFICADORAS COMPROVADAS POR LAUDO PERICIAL PRODUZIDO NOS AUTOS. FURTO PRIVILEGIADO. SUBSTITUIÇÃO D APENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. RÉU REINCIDENTE. IMPOSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO.1. Comprovada a materialidade delitiva pelo Laudo Pericial produzido nos autos e a autoria delitiva pelasprovas orais colhidas, inclusive a confissão do réu sob o crivo do contraditório judicial, não prospera o pedido recursal, devendo ser mantida a condenação do agente pela prática do furto qualificado, tal como imposto na origem. 2. Não prospera o pedido de aplicação da figura do furto privilegiado, com a substituição da pena de reclusão pela de detenção, bem como a redução da, pena em 2/3, já que tratamos de réu reincidente, óbice para a aplicação da benesse, conforme previsto no próprio dispositivo legal, art. 155, §2º , do CPB. 3. Também em razão da reincidência, o apelante não faz jus à substituição da pena privativa de liberdade pelas restritivas de direitos, conforme previsto no art. 44, do CPB. 4. Recurso conhecido e desprovido.
+No presente writ(e-STJ, fls. 3/11), aimpetrante sustenta que o paciente sofre constrangimento ilegal em sua condenação, pois aplicável à espécie a aplicação do princípio da insignificância. Para tanto, assevera que in casu, encontram-se plenamente satisfeitos os referidos requisitos, uma vez que O BEM SUBTRAÍDO CONSISTE EM UM JOGO DE CADEIRAS DE FERRO, este possui valor inexpressivo quanto às circunstâncias, sendo, portanto, de pouca relevância da conduta praticada, ensejando, portanto, nenhuma lesão ao bem jurídico protegido(e-STJ, fl. 9).
+Desse modo, requer a concessão da ordem para, reconhecendo a atipicidade material da conduta,absolver o paciente, ante a aplicação do princípio da insignificância.
+Por estarem os autos suficientemente instruídos, foi dispensado o envio de informações.
+É o relatório. Decido.
+Em que pesem os judiciosos argumentos expendidos pela impetrante, da análise dos autos, não verifico patente constrangimento ilegal a ensejar sequer o conhecimento deste writ.
+Isso porque constato que suainsurgêncianão foi submetidaà apreciação e, tampouco analisadapela Corte estadual, tratando-se, portanto, de matérianovasomente aventadaneste mandamus, o que impede seu conhecimento diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO INTERNO. HABEAS CORPUS. (..). RECURSO A QUE SE NEGA PROVIMENTO.
+ ..
+2. A ausência de manifestação do Tribunal de origem sobre a matéria suscitada na impetração impede sua apreciação por esta Corte Superior, sob pena de indevida supressão de instância.
+3. Agravo regimental a que se nega provimento(AgInt no HC n. 366.298/PB, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, Julgado em 6/9/2016, DJe 16/9/2016, grifei).
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
