@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CONQUIST DESENVOLVIMENTO IMOBILIARIO LTDA à decisão de fls. 493/494, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Com a devida vênia, Excelência, basta uma análise perfunctória dos autos para verificar que a determinação de correção de supostos vícios e a decisão que não conheceu do recurso em razão destes vícios, além de apresentarem claro erro material, omitiram-se acerca de documentos que já estão devidamente juntados no processo.
+Com efeito, antes mesmo da intimação para apresentação de substabelecimento ao advogado Lucas Vianna Kauffmann, o substabelecimento já constava nos autos.
+Ademais, o substabelecimento que conferiu poderes ao advogado Tarley Max da Silva consta nos autos desde junho de 2018, conforme se verifica das fls. 244 e 246 e-STJ. Observe-se:
+ ..
+Aliás, com a máxima vênia, é evidente que se não houvesse outorga de poderes ao advogado Tarley Max, nenhum dos atos praticados desde a juntada do substabelecimento teria validade. Inclusive, veja-se que, desde a juntada do substabelecimento, não houve qualquer determinação de regularização processual - já que houve efetiva juntada de substabelecimento.
+Dessa forma, considerando que há substabelecimento nos autos que confere poderes a Tarley Max e que, por sua vez, substabeleceu ao subscritor do recurso especial, Lucas Vianna Kauffmann, requer-se a correção do erro material e da omissão apontados (fl. 497/498).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do recurso especial, Dr. Lucas Vianna Kauffmann do Nascimento.
+Mesmo diante da intimação da parte para sanear o vício (fls. 484), não houve a devida regularização, limitando-se a apresentar à fl. 489, o mesmo substabelecimento constante à fl. 469, sem a procuração originária para o seu substabelecente, Dr. Tarley Max da Silva, já que também para ele somente constam os substabelecimentos às fls. 249 e 251.
+Ou seja, as procurações e substabelecimentos constante dos autos não são suficientes para completar a cadeia de representação outorgando poderes ao subscritor dos recurso.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
