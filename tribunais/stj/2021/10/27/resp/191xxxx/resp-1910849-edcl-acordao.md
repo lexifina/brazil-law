@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região).
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 485):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAJUSTE DE 28,86%. COMPENSAÇÃO COM OS REAJUSTES PREVISTOS NAS LEIS 8.622/1993 E 8.627/1993. IMPOSSIBILIDADE DE ARGUIÇÃO NO PROCESSO DE CONHECIMENTO. ALCANCE DO TÍTULO EXEQUENDO. REEXAME DE MATÉRIA FÁTICO- PROBATÓRIA. SÚMULA 7/STJ.
+1. Não há falar em violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+2. No tocante ao alcance do título executivo, a alteração das conclusões firmadas no voto condutor, com o objetivo de acolher a alegada violação da coisa julgada, demanda novo exame do acervo fático-probatório, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno não provido.
+O embargante, aduzindo a ocorrência de omissão, reitera as razões já expendidas no sentido de que a questão posta em debate não demanda revisão de matéria fática, sendo reiteradamente analisada por esta Corte, inclusive em cumprimentos de sentença oriundos do mesmo título judicial, acolhendo-se a garantia da coisa julgada, nos exatos termos ora suscitados. Reafirma que não pode ser aplicada solução diversa da estabelecida no julgamento do REsp 1.235.513/AL, pois permitir a compensação do reajuste de 28,86% com aumentos trazidos pelas próprias leis que originaram aquele reajuste - e, portanto, concedidos e implementados bem antes da sentença do processo de conhecimento -, sem que o título executivo tenha estabelecido tal compensação, afronta diretamente o entendimento firmado pelo STJ na sistemática dos casos repetitivos.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, o acórdão embargado registrou, expressamente, que "a alteração das conclusões adotadas pela Corte regional acerca do alcance do título executivo e da possibilidade de se alegar a compensação em comento após a fase de conhecimento, tal como colocadas as questões nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (fl. 488) e que "a "orientação desta Corte, firmada em precedente julgado sob o rito do art. 543-C do Código de Processo Civil, segundo a qual havendo limitação no título judicial transitado em julgado ao pagamento do índice de 28,86%, nos termos das Leis n. 8.622/93 e 8.627/93, não viola a coisa julgada acolher-se, em embargos à execução, a compensação com outros índices remuneratórios, se concedidos por legislação posterior à última oportunidade de alegação da objeção de defesa no processo cognitivo" (AREsp 615.464/PR, Rel. Ministra Regina Helena Costa, DJe 20/9/2016)" (fl. 491).
+Vê-se, portanto, que a matéria objeto da controvérsia encontra-se devidamente fundamentada e motivada, de modo que a pretensão do embargante evidencia mero inconformismo, na medida em que, sob a pecha de omissão, objetiva o reexame dos seus argumentos, com o intuito claro de atribuir efeito infringente ao decisum, hipótese a que não se destina o recurso integrativo.
+Assim, inexistentes as hipóteses do artigo 1.022 do Código de Processo Civil/2015, os embargos de declaração não merecem acolhimento.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
