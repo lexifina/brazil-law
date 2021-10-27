@@ -1,0 +1,40 @@
+DECISÃO
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AÇÕES DO BANCO DO ESTADO DE SANTA CATARINA. CAUÇÃO.DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DA CONTRIBUINTE.
+1. Trata-se de Agravo em Recurso Especial interposto por ROCHANA RODRIGUES FETT, com fundamento no art. 105, III, a e c, da CF/1988,contra acórdão proferido pelo egrégio TRF da 4ªRegião, assim ementado:
+TRIBUTÁRIO. CAUÇÃO. AÇÕES DO BANCO DO ESTADO DE SANTA CATARINA. As ações do extinto Banco do Estado de Santa Catarina - BESC não são consideradas idôneas para a garantia de futura execução e expedição de certidão positiva com efeito de negativa.
+2.Nas razões do Recurso Especial, aparterecorrente aduz que: (a)basta a leitura do art. 206 do CTN para saber que a Autora tem direito à certidão negativa de débito (ou positiva, com efeitos de negativa);e(b)no mais, o oferecimento da caução, garantia do Juízo, em valor suficiente ao do levantamento fiscal e que evita de plano, qualquer lesão ao Fisco, devidamente avaliado, no valor superior ao débito, conforme documento de avaliação anexado(fls. 210/211).
+3. É o relatório.
+4. A irresignação não merece ser acolhida.
+5. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+6. Ainterposição de Recurso Especial, com fundamento na alínea a do permissivo constitucional, exige que o recorrente exponha com clareza a ofensa à legislação infraconstitucional.No caso em apreço, observa-se que apartenão desenvolveuargumentaçãoa fim de demonstrar em que consistem as ofensas dos artigos apontados como violados, razão pela qual incidea Súmula 284 do Supremo Tribunal Federal. A propósito:
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DANO MORAL COLETIVO.ESTACIONAR MOTOCICLETA EM VAGA RESERVADA À PESSOA COM DEFICIÊNCIA.DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO STF.REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação civil pública, pleiteandoindenização por dano moral coletivo, decorrente do estacionamento deveículo em vaga reservada a pessoas portadoras de deficiência. Nasentença, julgou-se improcedente o pedido. No Tribunal a quo, asentença foi mantida.
+II - Evidencia-se a deficiência na fundamentação recursal quando orecorrente não indica qual dispositivo de Lei Federal teria sidoviolado, bem como não desenvolve argumentação a fim de demonstrar emque consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstraçãoinequívoca da ofensa ao dispositivo mencionado nas razões dorecurso, bem como a sua particularização, a fim de possibilitarexame em conjunto com o decidido nos autos, sendo certo que a faltade indicação dos dispositivos infraconstitucionais, tidos comoviolados, caracteriza deficiência de fundamentação, fazendo incidir,por analogia, o disposto no enunciado n. 284 da Súmula do STF: "Éinadmissível o recurso extraordinário, quando a deficiência na suafundamentação não permitir a exata compreensão da controvérsia."
+IV - Ademais, ainda que se pudessem ultrapassar tais óbices, apretensão também não alcançaria êxito, na medida em que serianecessário o revolvimento do acervo fático-probatório dos autos, nosentido de deliberar acerca da gravidade ou não da atuação da partepara o fim indenizatório almejado, o que é vedado em recursoespecial, em razão do óbice da Súmula n. 7/STJ.
+V - Agravo interno improvido (AgInt no AREsp 1.826.143/SP, Rel. Ministro FRANCISCO FALCÃO, DJe 01/10/2021- sem destaques no original).
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL. DANOSMORAIS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTAÇÃODEFICIÊNCIA.
+1. É inviável, em sede de recurso especial, o reexame de matéria
+fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão desimples reexame de prova não enseja recurso especial."
+2. Hipótese em que o Tribunal de origem, soberano na análise dascircunstâncias fáticas da causa, reconheceu a parcial procedência da
+demanda indenizatória, pois o agravado sofreu acidente com seuveículo, em via pública sem sinalização.
+3. É firme a jurisprudência desta Corte Superior no sentido de que afalta de indicação clara e precisa do dispositivo de lei federalalegadamente violado implica deficiência na fundamentação do recursoespecial (Súmula 284 do STF).
+4. Agravo interno desprovido(AgInt no AREsp 1.829.718/AM, Rel. MinistroGURGEL DE FARIA, DJe 17/09/2021).
+7. Ademais, oconhecimento do Apelo, tanto pela alínea a quanto pela alínea c do permissivo constitucional requer, indispensavelmente, o atendimento dos requisitos dos arts. 255 do RI/STJ e 541 do CPC/1973 (art. 1.029, § 1º, do CPC/2015), o que não se verifica na hipótese, notadamente à falta do necessário cotejo analítico, inviabilizando a precisa identificação da semelhança das circunstâncias fáticas dos casos confrontados. Confiram-se, a propósito, os precedentes desta Corte a respeito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. DANOS MORAIS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. AUSÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+2. Inexiste violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015 quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da recorrente.
+3. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, reconheceu a improcedência da demanda indenizatória.
+5. Inviável a apreciação de recurso especial fundado em divergência jurisprudencial quando o recorrente não demonstra o alegado dissídio, nos moldes dos arts. 1.029, § 1º, do Código de Processo Civil/2015 e 255, § § 1º e 2º, do RISTJ.
+6. Agravo interno desprovido. (AgInt no REsp. 1.777.289/TO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 25/9/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Honorários recursais. Não cabimento.
+VI - Agravo Interno improvido. (AgInt no AREsp 1.170.455/SP, Rel. Ministra REGINA HELENA COSTA, DJe 19/2/2018).
+8. Diante do exposto, conheço do agravo para negar provimento ao Recurso Especial da contribuinte.
+9.Publique-se.
+10. Intimações necessárias.
