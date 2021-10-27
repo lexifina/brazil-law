@@ -1,0 +1,29 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO DO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA SUPERVENIENTE. ACÓRDÃO DA APELAÇÃO. MARCO INTERRUPTIVO. TRANSCURSO DO PRAZO PRESCRICIONAL. EMBARGOS ACOLHIDOS.
+1. Nos termos do inciso IV do artigo 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta. O Supremo Tribunal Federal compreendeu que não há distinção no Código Penal entre acórdão condenatório inicial ou confirmatório da sentença para fins de interrupção da prescrição. Por isso, "o acórdão que confirma a sentença condenatória, por revelar pleno exercício da jurisdição penal, interrompe o prazo prescricional, nos termos do art. 117, IV, do Código Penal." (AgRg no REsp 1.656.393/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 3/8/2021, DJe 13/8/2021).
+2. Na espécie, o réufoi condenadoà pena de 1 ano e 9 meses de reclusão, como incurso no art. 168, § 1.º, inciso III, do Código Penal, cujo prazo prescricional, nos termos do art. 109, inciso V, do Código Penal, é de 4 anos. Contra tal sentença, apenas a defesa recorreu, tendo transitado em julgado a condenação para a acusação.
+3. Entre o acórdão da apelação, de 5/4/2017, e a presente data, já se passaram mais de 4 anos, razão pela qual deve ser reconhecida a extinção da punibilidade do agente pela prescrição da pretensão punitiva.
+4. Embargos acolhidos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, acolher os embargos para declarar a prescrição da pretensão punitiva estatal em favor do embargante, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Joel Ilan Paciornik, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, João Otávio de Noronha, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS(Relator):
+Trata-se de embargos de declaração opostos por NELSON GOMES MOCINHO TAGLIARI contra acórdão que negou provimento ao agravo regimental.
+Aponta omissão no julgado, diante da não apreciação do pleito contido na petição de fl. 726, e-STJ, de reconhecimento da prescrição.
+Relata que foi condenado à pena de 1 ano e 9 meses e que o último marco interruptivo foi o julgamento da apelação, em 5/4/2017. Por isso, defende ter transcorrido o prazo de 4 anos, sem que tenha havido o trânsito em julgado da condenação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO DO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA SUPERVENIENTE. ACÓRDÃO DA APELAÇÃO. MARCO INTERRUPTIVO. TRANSCURSO DO PRAZO PRESCRICIONAL. EMBARGOS ACOLHIDOS.
+1. Nos termos do inciso IV do artigo 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta. O Supremo Tribunal Federal compreendeu que não há distinção no Código Penal entre acórdão condenatório inicial ou confirmatório da sentença para fins de interrupção da prescrição. Por isso, "o acórdão que confirma a sentença condenatória, por revelar pleno exercício da jurisdição penal, interrompe o prazo prescricional, nos termos do art. 117, IV, do Código Penal." (AgRg no REsp 1.656.393/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 3/8/2021, DJe 13/8/2021).
+2. Na espécie, o réufoi condenadoà pena de 1 ano e 9 meses de reclusão, como incurso no art. 168, § 1.º, inciso III, do Código Penal, cujo prazo prescricional, nos termos do art. 109, inciso V, do Código Penal, é de 4 anos. Contra tal sentença, apenas a defesa recorreu, tendo transitado em julgado a condenação para a acusação.
+3. Entre o acórdão da apelação, de 5/4/2017, e a presente data, já se passaram mais de 4 anos, razão pela qual deve ser reconhecida a extinção da punibilidade do agente pela prescrição da pretensão punitiva.
+4. Embargos acolhidos.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Nos termos do inciso IV do artigo 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta.
+Com efeito, o Supremo Tribunal Federal compreendeu que não há distinção no Código Penal entre acórdão condenatório inicial ou confirmatório da sentença para fins de interrupção da prescrição. Por isso, "o acórdão que confirma a sentença condenatória, por revelar pleno exercício da jurisdição penal, interrompe o prazo prescricional, nos termos do art. 117, IV, do Código Penal." (AgRg no REsp 1656393/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/08/2021, DJe 13/08/2021).
+Na espécie, o réufoi condenadoà pena de 1 ano e 9 meses de reclusão, como incurso no art. 168, § 1.º, inciso III, do Código Penal (e-STJ, fls. 172-194), cujo prazo prescricional, nos termos do art. 109, inciso V, do Código Penal, é de 4 anos. Contra tal sentença, apenas a defesa recorreu, tendo transitado em julgado a condenação para a acusação.
+Assim, entre o acórdão da apelação, de 5/4/2017, e a presente data, já se passaram mais de 4 anos, razão pela qual deve ser reconhecida a extinção da punibilidade do agente pela prescrição da pretensão punitiva.
+Diante do exposto, acolho os embargos de declaração para declarar a prescrição da pretensão punitiva estatal em favor do embargante.
+É como voto.
