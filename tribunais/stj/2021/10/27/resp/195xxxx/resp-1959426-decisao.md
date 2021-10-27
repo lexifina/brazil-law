@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO FEDERAL, com fundamento nas alíneas "a" e "c" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado (e-STJ, fls. 278-286):
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. ACÓRDÃO CONFIRMATÓRIO DESENTENÇA CONDENATÓRIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MARCOINTERRUPTIVO. ENTENDIMENTO MAJORITÁRIO. EMBARGOS REJEITADOS. PRESCRIÇÃORECONHECIDA DE OFÍCIO.
+1. Não se conhece de embargos de declaração opostos sem que qualquer das hipóteses do art.619 do Código de Processo Penal esteja presente.
+2. Em tese, não deveria haver o reconhecimento, por parte deste Juízo, da prescrição dapretensão punitiva, porque, com o julgamento do recurso de apelação, encerrou-se a jurisdição daTurma. Tal pedido devo ser dirigido ao Juízo da execução, após o trânsito em julgado para aacusação, pois antes disso ainda cabe recurso para as instâncias extraordinárias, objetivando suamajoração.
+3. De acordo com o art. 61 do Código de Processo Penal, em qualquer fase do processo, o juiz,se reconhecer extinta a punibilidade, deverá declará-lo de ofício.
+4. A posição majoritária, ou seja, da Segunda Turma do STF e da 3ªSeção do STJ continuasendo no sentido de que: "O acórdão que apenas confirma a sentença de primeiro grau, semdecretar nova condenação por crime diverso, não configura marco interruptivo da prescrição,ainda que haja reforma considerável na dosimetria da pena"
+5. Até que haja - se houver - evolução doutrinária e jurisprudencial a respeito da matéria, nostermos do entendimento da 1ªTurma do STF, mantenho-me alinhado à posição majoritária da 3ªSeção do STJ e 2ªTurma do STF.
+6. A pena em concreto foi alcançada pela prescrição da pretensão punitiva, pois, não sendo oacórdão marco interruptivo, transcorreu o lapso temporal de 02 (dois) anos entre a data depublicação da sentença e os dias atuais.
+7. Embargos de declaração rejeitados. Prescrição declarada, de oficio".
+Em suas razões recursais, a parte recorrente aponta violação doart. 117, IV, do CP. Aduz para tanto, em síntese, que a publicação do acórdão confirmatório da condenação interromperia o prazo prescricional, afastando a consumação da prescrição no caso concreto.
+Com contrarrazões (e-STJ, fls. 368-375), o recurso especial foi admitido na origem (e-STJ, fls. 380-382).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 397-399).
+É o relatório.
+Decido.
+A insurgência não prospera.
+Com efeito,como diz o recorrente, o atual entendimento das Cortes Superiores - seguindo a tese firmada pelo STF no julgamento do HC 176.473 - é o de que o acórdão confirmatório da condenação interrompe, sim, o prazo prescricional. A propósito:
+"HABEAS CORPUS. ALEGADA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. INTERRUPÇÃO DA PRESCRIÇÃO PELO ACÓRDÃO CONFIRMATÓRIO DE SENTENÇA CONDENATÓRIA. 1. A prescrição é o perecimento da pretensão punitiva ou da pretensão executória pela inércia do próprio Estado; prendendo-se à noção de perda do direito de punir por sua negligencia, ineficiência ou incompetência em determinado lapso de tempo. 2. O Código Penal não faz distinção entre acórdão condenatório inicial ou confirmatório da decisão para fins de interrupção da prescrição. O acórdão que confirma a sentença condenatória, justamente por revelar pleno exercício da jurisdição penal, é marco interruptivo do prazo prescricional, nos termos do art. 117, IV, do Código Penal. 3. Habeas Corpus indeferido, com a seguinte TESE: Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+(HC 176473, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 27/04/2020, DJe 9/9/2020)
+No presente caso, porém, já decorreram mais de 2 anos desde a publicação do acórdão, ocorrida em 26/4/2019 (e-STJ, fl. 260). Assim, considerando a pena privativa de liberdade aplicada à ré (1 ano e 4 mesesde reclusão) e a redutora do art. 115 do CP, está consumado o prazo prescricional no caso concreto, ainda que por razões diversas daquelas adotadas pelo TRF. Inviável, dessarte, o acolhimento do recurso.
+Ante o exposto, com fundamento no art. 255, §4º, II, do Regimento Interno do STJ,nego provimento ao recurso especial.
+Publique-se. Intimem-se.
