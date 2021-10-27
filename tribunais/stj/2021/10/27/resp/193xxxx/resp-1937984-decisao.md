@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por No Risk Comércio, Consultoria e Treinamento em Segurança Ltda., fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 216):
+AÇÃO DE COBRANÇA - Associação de proprietários cobrando despesas com serviços de manutenção - Sentença que julgou a ação procedente - Insurgência da requerida - Alegação de que não possui vínculo associativo para que possa ser cobrada de si qualquer taxa, conforme Tema Repetitivo 882, do STJ - Descabimento - Entendimento trazido pela decisão que não contradiz o REsp n.º 1.280.871/SP Tema Repetitivo 882, segundo o qual "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram" - Subsistência da obrigação de contribuir com o rateio dos gastos para a conservação e melhoria do loteamento/condomínio, sob pena de enriquecimento às custas dos demais proprietários de lotes - Entendimento que está consignado no mesmo REsp, em voto-vista convergente da Min. Maria Isabel Gallotti - Inteligência dos arts. 2º, § 8º, e 36-A da Lei 6.766/79 Precedentes desta Câmara Apelante que, ademais, não demonstrou que os valores não teriam relação com os serviços que, direta ou indiretamente, lhe beneficiou Sentença mantida RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 235-238).
+Nas razões do recurso especial (e-STJ, fls. 245-247), a recorrente aponta violação ao art. 1.022, I, II e III, do CPC/2015, ao argumento de ocorrência de omissão/contradição/erro material no acórdão recorrido, por ausência de observância da orientação jurisprudencial do STJ.
+Foram apresentadas contrarrazões (e-STJ, fls. 252-260).
+Admitido o recurso especial na origem, os autos ascenderam a esta Corte (e-STJ, fls. 252-260).
+Brevemente relatado, decido.
+No que concerne à alegada violação ao art. 1.022 do Código de Processo Civil de 2015, observa-se que não houve a indicação pormenorizada dos pontos supostamente omitidos, contraditórios ou eivados de erro materialpela Corte de origem, apresentando-se a fundamentação do recurso, no ponto, genérica, a ensejar a incidência da Súmula 284/STF.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO DE SEGURO. AÇÃO DE INDENIZAÇÃO. AGRAVO DE INSTRUMENTO. DENUNCIAÇÃO DA LIDE. SUPOSTA OMISSÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. VIOLAÇÃO A DISPOSITIVOS LEGAIS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL E AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 284 DO STF. CONTRATO DE CONTRAGARANTIA. PEDIDO DE DENUNCIAÇÃO DA LIDE AOS FIADORES. DESCABIMENTO. RECURSO PROVIDO.
+1. O presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se pode conhecer da apontada violação ao art. 1.022 do NCPC, porque as alegações que fundamentaram a suposta ofensa são genéricas, sem indicação efetiva dos pontos omissos, contraditórios ou obscuros. Tal deficiência, impede a abertura da instância especial, nos termos da Súmula nº 284 do STF, aplicável, por analogia, neste Tribunal Superior.
+(..)
+9. Recurso especial conhecido em parte e, nessa extensão, provido.
+(REsp 1.713.150/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/4/2021, DJe 23/4/2021).
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DESCUMPRIMENTO DE ORDEM JUDICIAL. MANUTENÇÃO DO NOME DA PARTE AUTORA NOS CADASTROS DE PROTEÇÃO DO CRÉDITO. DANO MORAL NÃO CARACTERIZADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284 DO STF. VIOLAÇÃO DE LEI FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. CONFIGURAÇÃO DE DANOS MORAIS EM PROCESSO JUDICIAL DIVERSO. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em nulidade do acórdão por vício de contradição sem deduzir de que modo o acórdão recorrido teria incorrido em aludida deficiência ou demonstrar impacto no deslinde da causa. Súmula 284/STF.
+(..)
+5. Agravo interno não provido.
+(AgInt no REsp 1817645/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/6/2020, DJe 30/6/2020)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DESPESAS COM SERVIÇOS DE MANUTENÇÃO. LOTEAMENTO FECHADO. LEI 6.766/79. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. RECURSO ESPECIAL NÃO CONHECIDO.
