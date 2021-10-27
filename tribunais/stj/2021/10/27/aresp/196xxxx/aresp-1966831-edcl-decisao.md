@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PASARGADA LANCHONETE SELF SERVICE LTDA à decisão de fls. 536/537, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Entretanto, data maxima venia, a decisão objurgada é omissa quanto à alegação constante das razões do Agravo em Recurso Especial, de que o próprio sistema de processo eletrônico do tribunal a quo, PROJUDI, registrou a suspensão dos prazos processuais determinada pelo Decreto Judiciário nº 151/2021 do TJPR, conforme se vê da tela de detalhamento do cálculo do prazo gerada pelo próprio sistema (anexo 1): (fl. 539).
+ ..
+A corroborar o exposto, vejam as informações constantes do próprio sistema de processo eletrônico do tribunal a quo, PROJUDI, acerca da "Contagem de Prazos Processuais" (anexo 2): (fl. 540).
+ ..
+Portanto, o que ocorreu no caso sub judice é que o próprio sistema de processo eletrônico do tribunal a quo, PROJUDI, registrou a suspensão dos prazos processuais determinada pelo Decreto Judiciário nº 151/2021 do TJPR e, via de consequência, apontou como termo final para interposição do Recurso Especial a data de 26.03.2021 (fl. 542).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido, AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Não se desconhece o entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1805589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, Dje de 25/11/2020). No entanto, a parte não trouxe nenhum documento apto a comprovar tal equívoco, pois, além de ter trazido apenas "prints" na petição (fls. 539/546), não há como vinculá-los ao processo, uma vez que sequer possuem número de origem.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
