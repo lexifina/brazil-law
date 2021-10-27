@@ -1,0 +1,6 @@
+DECISÃO
+PROCESSUAL CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  COMPETÊNCIA  PARA  O  PROCESSAMENTO  E  JULGAMENTO  DE  CAUSA  QUE  DISCUTE  INDENIZAÇÃO  POR  INCLUSÃO  INDEVIDA  EM  CADASTRO  DE  INADIMPLENTES.  NATUREZA  PRIVADA  DA  CONTROVÉRSIA.  REDISTRIBUIÇÃO  A  UM  DOS  MINISTROS  DA  SEGUNDA  SEÇÃO.
+1.  Agrava-se  de  decisão  que  inadmitiu  Recurso  Especial  interposto  por  OI S/A - EM RECUPERAÇÃO JUDICIAL  objetivando  a  reforma  do  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Santa Catarina - TJSC,  em  autos  de Agravo de Instrumento oriundo de Ação  de Produção Antecipada de Prova para ajuizamento de futura Ação de Indenização por Danos Morais por inscrição indevida em cadastro de inadimplentes.
+2.  A  matéria  objeto  da  ação,  no  entanto,  não  está  afeta  à  Primeira  Seção  do  Superior  Tribunal  de  Justiça,  porquanto  não  envolve  falha  no  serviço  público  em  si,  mas  sim  ação  indenizatória  por  inscrição  indevida  no  cadastro  de  inadimplentes.
+3.  Assim  sendo,  declina-se da  competência  para  apreciar  e  julgar  o  presente  feito  e  determina-se a redistribuição dos  autos  a  um  dos  Eminentes  Ministros  integrantes  da  Segunda  Seção  deste  Tribunal  Superior.
+4.  Publique-se.  Intimem-se.
