@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região).
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Tratam-se deembargos de declaração opostos pela Fundação Universidade de Brasília (FUB)contra acórdãoassim ementado (fl. 1.237):
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONCURSO PUBLICO. PROVA DISCURSIVA. RECURSO ADMINISTRATIVO PARCIALMENTE PROVIDO, SEM A ATRIBUIÇÃO RESPECTIVA DOS PONTOS. NULIDADE. OFENSA AOS PRINCÍPIOS DA MOTIVAÇÃO, CONFIANÇA LEGÍTIMA DO ADMINISTRATO E VEDAÇÃO AO COMPORTAMENTO CONTRADITÓRIO.
+1. Na forma da jurisprudência desta Corte, "a motivação do ato administrativo deve ser explícita, clara e congruente, vinculando o agir do administrador público e conferindo o atributo de validade ao ato. Viciada a motivação, inválido resultará o ato, por força da teoria dos motivos determinantes. Inteligência do art. 50, § 1.º, da Lei n. 9.784/1999" (RMS 59.024/SC, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 08/09/2020).
+2. Sob esse aspecto, demonstrada a inexistência dos erros apontados no espelho de correção da prova, caberia à Administração não só o provimento do recurso quanto ao ponto, o que foi efetivamente feito, mas também a retirada da marcação dos respectivos erros, com a devida atribuição da pontuação respectiva, sendo certo que a ocorrência de eventual erros em outros pontos da prova não podem servir como justificativa para a não alteração da pontuação impugnada no recurso, sob pena de ofensa aos postulados legais invocados pela recorrente e aos princípios da motivação, da confiança legítima do administrado e da vedação do comportamento contraditório. Precedentes: AgInt no RMS 62.372/CE, Rel. Min. Francisco Falcão, Segunda Turma, DJe 24/09/2020; EDcl no RMS 48.678/SE, Rel. Min. Francisco Falcão, Segunda Turma, DJe 08/03/2017; AgRg no AREsp 500.567/CE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18/08/2014; AgInt no REsp 1.472.899/DF, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe 01/10/2020.
+3. Recurso especial parcialmente provido, para determinar seja atribuída à recorrente a pontuação relativa à questão3 da prova discursiva 3 do concurso em questão, com o consequente reposicionamento e, se for o caso, prosseguimento das demais fases do certame.
+A embargante sustenta que o acórdão recorrido, ao dar provimento ao recurso especial, não se atendou que"aanálise acerca da atribuição da pontuação equivale á reapreciação dos fatos com análise das respostas dadas" (fls. 1.263).
+Defende que houve "indevida ingerência do Poder Judiciário na esfera de atuação do Executivo, o que contraria o princípio constitucional da Separação dos Poderes insculpido no art. 2ºda Carta Magna, uma vez que só cabe a interferência do Judiciário quando na ilegalidade no certame" (fls. 1.264).
+A parte embargada apresentou impugnação às fls. 1.267/1.278.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022DO CPC/2015.VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, os presentes embargos declaratórios não merecem acolhimento, porquanto não evidenciada a ocorrência de nenhum dos vícios previstos no dispositivo em tela, mormente porque o acórdão embargado decidiu integralmente a controvérsia, de forma clara e fundamentada, assentando expressamenteque o reconhecimento por parte da Administração de que indicou equivocadamente os erros de português supostamente cometidos pela candidata não lhe dá o direito de alterar a sua motivação, apontando erros diversos do anteriormente mencionado no espelho de correção, para manter inalterada a nota final da candidata.
+Assim, com base na moldura fática apresentada pelo próprio acórdão proferido na origem, entendeu o julgado embargado que aconduta adotada pela Administração Pública não se mostra em harmonia com osprincípios invocados pela candidata recorrente, especialmente o da motivação, situação que autoriza a intervenção do Poder Judiciário para correção da ilegalidade constatada, consoante jurisprudência pacífica deste STJ.
+Vê-se que a embargante, à toda evidência não conformada com o acórdão embargado a seu desfavor, pretende o novo exame do mérito da causa.
+Contudo, tendo o decisório atacado analisado de forma clara e fundamentada a lide, sem omissão a ser solvida, é de se concluir que almeja o rejulgamento da causa, providência incompatível com o presente recurso.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
