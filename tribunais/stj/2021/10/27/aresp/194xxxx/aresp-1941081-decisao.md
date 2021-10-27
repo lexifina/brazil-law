@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por GILBERTO CASSOL, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 09/06/2021.
+Concluso ao gabinete em: 19/10/2021.
+Ação: reivindicatória, em fase de cumprimento provisório de sentença, ajuizada por RENAN NIEDERAUER COELHO - ESPÓLIO, neste ato representado por sua inventariante MARGO DAS NEVES MACHADO, em face de FLORISBELLA CASSOL - ESPÓLIO e IRINEU CASSOL - ESPÓLIO, neste ato representado pelo seu herdeiro GILBERTO CASSOL.
+Decisão interlocutória: deferiu parcialmente o pedido de tutela provisória de urgência e determinou a imissão na posse da agravada sobre o imóvel descrito e caracterizado na petição inicial, mediante formalização da caução suficiente e idônea, devendo o Oficial de Justiça encarregado da diligência elaborar auto de constatação do local, com descrição minuciosa de eventuais benfeitorias, bem como deferiu a averbação do ajuizamento da ação, nas matrículas imobiliárias apontadas na inicial, nos moldes do artigo 54 da Lei nº 13.097/2015.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pelo agravante, nos termos da seguinte ementa:
+"Recurso de Agravo de Instrumento - Cumprimento provisório de sentença - Óbito de uma das partes antes do julgamento do feito - Alegação de nulidade dos atos processuais - Ausência de prejuízo - Nulidade inexistente - Revogação de liminar quando da prolação de sentença de improcedência - Cumprimento provisório da sentença - Imissão de posse - Possibilidade - Artigo 1.012 do CPC/15 - Recurso desprovido.
+Os atos praticados entre a morte de uma das partes e a comunicação do fato ao Juízo praticados em consonância com a lei, devem ser tidos como válidos, ainda mais quando não causarem prejuízos aos seus sucessores.
+Tendo o autor ingressado na posse da área por força de decisão liminar e, após a instrução processual advir a sentença de improcedência revogando a liminar, torna plenamente cabível o cumprimento provisório do julgado, nos termos do artigo 1.012, § 1º, inciso V, do CPC/15, com a determinação da desocupação do autor imóvel, a fim de seja imitido o réu na posse do bem." (e-STJ fl. 2224)
+Embargos de Declaração: opostos, pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 75, VII, 76, 108, 313, § 2º, I, 314, 485, IV, 563, 689, 1.012, § 1º, V, § 2º, CPC/15. Sustenta que: i) o cumprimento de sentença não conta com todos os pressupostos de existência e validade do processo, haja vista que o recorrente não foi intimado para regularizar a representação processual do espólio; e, ii) a despeito da comunicação posterior da morte de Florisbella Cassol, a sentença merece ser anulada, porquanto praticada após o evento morte; e, iii) há nulidade e cerceamento de defesa quando não oportunizada a regularização do polo passivo com habilitação do espólio; e, iv) não deve ter prosseguimento o cumprimento de sentença.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 75, VII, 76, 108, 313, § 2º, I, 314, 485, IV, 689, 1.012, § 1º, V, § 2º, CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 563, CPC/15, indicado como violado, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "com relação ao de cujus ODASIR CASSOL, houve a regular substituição processual a partir de 29/03/1993 e ratificação dos atos em 04/06/2019, assim, neste item, não há que se falar em nulidade ou ineficácia dos atos processuais", bem como de que "no tocante à morte de FLORISBELA CASSOL, esta ocorreu em 15/04/2020, conforme Certidão de óbito de ID nº 55665958, todavia, foi comunicado aos autos tão somente em 07/07/2020 através da petição de ID nº55665956, ou seja, um (01) dias após a prolação da sentença que se deu em 06/07/2020, conforme se observa da Certidão de Óbito e da parte dispositiva da sentença", além de que "entre a morte de FLORISBELA CASSOL e a prolação da sentença não foi praticado qualquer ato processual, exceto a aludida sentença, não verificando assim, qualquer ato de cerceamento de defesa ou de ofensa ao exercício do contraditório pelos sucessores, não se verificando qualquer ato suscetível de nulidade processual e muito menos de nulidade da sentença", assim também de que "consoante se verifica da marcha processual, o falecimento de IRINEU CASSOL não trouxe qualquer prejuízo à defesa dos seus interesses e aos autos, uma vez que nesse período, os autos físicos encontravam-se suspensos em razão da pandemia do COVID19, consequentemente, os prazos processuais também se encontravam suspensos, restando ao agravante recorrer da sentença, se assim entender", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação reivindicatória.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca do dispositivo legal indicado como violado, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial não conhecido.
