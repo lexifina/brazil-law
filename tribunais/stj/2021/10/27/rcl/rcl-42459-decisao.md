@@ -1,0 +1,7 @@
+DECISÃO
+ÁLVARO IANHEZ ajuizareclamação, com fundamento nos arts. 105, I, "f", da CF, 988, II, do CPC e 187 e ss. do RISTJ, contra ato do Juízo do I Tribunal do Júri da Comarca de Belo Horizonte-MG, nos autos da Ação Penal n. 0951754-46.2020.8.13.0024, que teria afrontado a autoridade da decisão exarada no MC n. 22.965/MG.
+Segundo a defesa, areferida decisão deste Superior Tribunal - que emprestou efeito suspensivoao REsp n. 1.520.777/MG e, com isso,determinou a suspensão do julgamento do reclamente pelo Tribunal do Júri -foi descumprida pela designação de dia para sua submissão ao Tribunal Popular,à revelia do referidoefeito suspensivo conferido por esta Corte.
+Todavia, em que pese os argumentos extternados pela defesa, houve a superveniência de decisão de mérito no REsp n. 1.520.777/MG, oportunidade em que o recurso foi conhecido em parte e, nessa extensão, não provido, de modo a afastar as teses de excesso de linguagem, de ausência de fundamentação da decisão de pronúncia e de incompetência do juízo.
+Essa circunstância, por óbvio, prejudica a determinação contida na medida cautelar em relação à suspensão do julgamento pelo Tribunal do Júri, porquanto sua natureza acessória indica queseus efeitos somente subsistem até a apreciação de mérito do especial.Logo, a realização da sessão do Júri, em relação ao reclamante, não caracteriza descumprimento da decisão proferida na MC n. 22.965/MG.
+À vista do exposto, com fudamento no art. 34, XVIII, "a", do RISTJ,não conheço da reclamação.
+Publique-se. Intimem-se.
