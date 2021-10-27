@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANDRE LUIZ DO NASCIMENTO em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante o seguinte:
+"Deste modo, observa-se que houve o cotejo analítico - explicou-se a semelhança entre os julgados trazidos pela defesa no apelo raro e o caso em comento. Contudo, o Ilustre Ministro não entendeu desta forma na r. decisão embargada.
+ ..
+Cumpre destacar que existe omissão quando o que o órgão judicial deixou de dizer sobre a questão seria capaz de influir no conteúdo da decisão 1 . Sendo assim, é evidente a omissão na decisão embargada, uma vez que o requerido - e não mencionado pelo Ministro -, é ponto crucial do processo: de que forma o devido cotejo analítico não foi realizado, sendo que foi explicada a razão para os julgados trazidos pela defesa deverem ser aplicados " (fl. 2.387).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+No caso dos autos, a decisão ora embargada decidiu de forma clara e objetiva sobre a alegada divergência jurisprudencial. Foi decidido que o recurso pela alínea c do permissivo constitucional não foi devidamente comprovado, pois carece a petição da devida demonstração de que os fatos do acórdão recorrido e dos acórdãos paradigmas são semelhantes e de que uma mesma norma legal foi interpretada de modo diverso entre os referidos julgados.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, relatora Ministra Eliana Calmon, DJ de 13/8/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/6/2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Hermna Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
