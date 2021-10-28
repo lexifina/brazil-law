@@ -1,0 +1,29 @@
+DECISÃO
+ALYSSON GUIMARAES FERREIRA DA LUZ alega ser vítima de coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de Pernambuco, que indeferiu a liminar do HC n. 0011969-95.2021.8.17.9000.
+A defesa pretende a soltura do paciente - preso em flagrante pelo crime de tráfico de drogas-, ao argumento, em síntese, de que a medida extrema teria sido decretada de ofício. Pugna, ainda, peladeclaração de nulidade da ação penalab initio, por ilegalidade da prova que resultou a prisão do acautelado.
+Owritfoi indeferido liminarmentepela Presidência desta Corte Superior, por incidência da Súmula n. 691 do STF(fls. 48-49).
+Formulado pedido de reconsideração, os autos foram distribuídos a minha relatoria.
+Reconsiderado o decisumda Presidência,deferida a liminar (fls. 63-67) eprestadas as informações (fls. 91-118), foram os autos ao Ministério Público Federal, que se manifestou "pela concessão da ordem, ratificando-se a liminar"(fls. 171-174).
+Decido.
+Inicialmente, destaco que a matéria aventada nesta ordem de habeas corpus não foi objeto de análise pelo Tribunal a quo, ficando, assim, impedida sua admissão, sob pena de indevida supressão de instância. Nesse sentido é o disciplinamento do enunciado da Súmula n. 691 do Supremo Tribunal Federal: "não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar".
+Sob o alerta de tal orientação, percebo, contudo, configurada a apontada coação ilegal, circunstância que permite a superação do óbice acima referido.
+O paciente foi preso em flagrante delito, no dia 28/6/2021, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+O Juiz de primeiro grau homologou o flagrante e, a despeito da manifestação doParquetpela concessão de liberdade provisória ao acusado,converteu a prisão em preventiva.
+Impetrado prévio writ, a autoridade apontada como coatora indeferiu o pleito liminar, em decisão assim fundamentada (fls. 41-42):
+A concessão de liminar em sede de pedido de habeas corpus é medida excepcional, admitida, tão somente, pela doutrina e jurisprudência se preenchidos os requisitos do fumus boni iuris e do periculum in mora.
+No caso em tela, o argumento ventilado exige um exame mais minucioso dos elementos de convicção carreados aos autos. Ademais, a liminar confunde-se com o mérito da impetração, matéria a serapreciada oportunamente pelo órgão colegiado, depois de ouvido o Ministério Publico nesta esfera superior.
+Diante de tais considerações, indefiro o pedido de liminar.
+Segundo ficou assentado pela Terceira Seção, ao apreciar o RHC n. 131.263/GO, em sessão realizada no dia 24/2/2021, as inovaçõesveiculadas pela Lei n. 13.694/2019 (Pacote "Anticrime") não permitem ao juiz, sem requerimento do Ministério Público ou representação da autoridade policial, converter em preventiva a prisão em flagrante.
+Embora minha compreensão pessoal, externada em voto escrito, tanto na Sexta Turma (em alguns julgados), quanto no julgamento do referido recurso ordinário, seja diversa da que chegou o Colegiado, submeto-me à maioria, em nome da segurança jurídica e da fidelidade aos precedentes qualificados.
+Assim, impõe-se a revogação da decisão que decretou a custódia cautelar.
+Nesse sentido:
+ ..
+II - A prisão preventiva, que exige sempre decisão concretamente motivada e se condiciona à prova da existência do crime e indício suficiente de autoria, poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+III - No que tange à hipótese de conversão da prisão em flagrante em preventiva, de ofício, pelo magistrado, cumpre consignar que antes se admitia a imposição de prisão cautelar, de ofício, sem a manifestação de qualquer interessado, ocorre que com a entrada em vigor da Lei nº 13.964/2019, buscando-se consolidar, em nosso ordenamento jurídico, o sistema acusatório, foi suprimida a atuação de ofício do juiz, mesmo em caso de conversão da prisão em flagrante em preventiva, devendo haver prévio requerimento do Ministério Público ou representação da autoridade policial, haja vista a retirada da expressão "de ofício" tanto do art. 282, § 2º, como do art. 311, ambos do CPP, não sendo mais possível a referida conversão com fundamento no art. 310, inc. II, do mesmo diploma legal. Desse modo, não obstante a fundamentação utilizada pelo magistrado primevo na decisão objurgada, entendo que restou configurada flagrante ilegalidade na conversão da prisão em flagrante em preventiva, de ofício, pelo magistrado sem a manifestação dos legitimados, consoante dicção do art. 311, do Código de Processo Penal, a teor do recente entendimento do Pretório Excelso, bem como em virtude dos recentes julgados deste sodalício. Precedentes.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC 668.973/SE, Rel. Ministro Jesuíno Rissato (DESEMBARGADOR CONVOCADO DO TJDFT), 5ª T., DJe 24/9/2021)
+No que se refere à indigitada ilegalidade das provas colhidas no momento do flagrante, não há notícia de que tal tese tenha sido analisada pelo Juiz de primeiro grau e peloTribunala quo, que julgou prejudicado o préviomandamus, em 22/9/2021, cuja decisão transitou em julgado no dia 13/10/2021.
+Diante de tal cenário, constatoa impossibilidade de apreciação da referida matéria por esta Corte Superior, sob pena de indevida supressão de instância.
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão,concedo a ordem, confirmada a liminar, para revogar a decisão que decretou a prisão preventiva do paciente, sem prejuízo de que outra seja proferida, desde que efetivamente demonstrada sua concreta necessidade, ou de imposição de medida cautelar alternativa também suficientemente fundamentada, nos termos dos arts. 282 e 319 do CPP.
+Publique-se e intimem-se.
