@@ -1,0 +1,38 @@
+DECISÃO:
+EMENTA: Processual Penal. Recurso ordinário em habeas Corpus. Roubo majorado. adulteração de sinal identificador de veículo automotor e corrupção de menores. Supressão de instâncias. Absolvição. Fatos e provas. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ), assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. ABSOLVIÇÃO. ALEGAÇÃO DE NULIDADE. EXISTÊNCIA DE PROVAS DA AUTORIA E MATERIALIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO INCOMPATÍVEL COM A VIA ESTREITA DO WRIT. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+    I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+    II - No caso concreto, embora o agravante busque a absolvição com base na suposta nulidade de provas, existem nos autos elementos aptos à condenação, conforme explicado na decisão agravada.
+    III - Não se olvide que, in casu, o agravante foi preso após ser encontrado, com um adolescente tido como comparsa, na posse da res e logo após os fatos. Ademais, há elementos probatórios suficientes para fundamentar a condenação, que se encontra amparada, em especial, nos depoimentos policiais uníssonos e no fato de que as 3 (três) vítimas, prontamente, o reconheceram, tanto na delegacia quanto em juízo, bem como no fato de que encontraram os demais pertences roubados na casa do adolescente.
+    IV - Assente nesta eg. Corte Superior que ‘Se as instâncias ordinárias reconheceram, de forma motivada, que existem elementos de convicção a demonstrar a materialidade delitiva e autoria delitiva quanto à conduta descrita na peça acusatória, para infirmar tal conclusão seria necessário revolver o contexto fático-probatório dos autos, o que não se coaduna com a via do writ’ (RHC n. 85.177/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 25/4/2018).
+    V - Insta destacar, ainda, que a alegação de nulidade do reconhecimento não foi submetida à apreciação do eg. Tribunal de origem, o que impede o seu conhecimento por esta eg. Corte Superior, sob pena de indevida supressão de instância.
+    VI - Nesse sentido: ‘A matéria relativa à nulidade (...) não foi submetida à apreciação do Tribunal a quo, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância (...)’ (HC n. 309.477/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/8/2017).
+    VII - No mais, a d. Defesa se limitou a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+    Agravo regimental desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 10 anos, 3 meses e 3 dias de reclusão, em regime inicial fechado, pela prática dos crimes de roubo circunstanciado, adulteração de sinal identificador de veículo automotor e corrupção de menores. Transitada em julgado a condenação, foi interposta revisão criminal, à qual o Tribunal estadual julgou improcedente.
+    3. Na sequência a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Ministro Jesuíno Rissato, ao analisar o HC 678.152, não conheceu do writ. Interposto agravo regimental, o recurso foi desprovido.
+    4. Neste recurso ordinário, a defesa sustenta que:
+          (i) “embora o Paciente tenha sido supostamente reconhecido pela vítima em delegacia, tal reconhecimento se deu por mero apontamento de acervo fotográfico, em nítida e grave violação aos preceitos e procedimentos previstos no art. 226 do Código de Processo Penal e de maneira extremamente sugestionada”;
+          (ii) “não houve por parte da vítima a livre análise e possibilidade de apuração despretensiosa para o reconhecimento pessoal, na medida que, em audiência, já tinha a certeza - ao menos sobremaneira inclinada – de que faria o reconhecimento exato do autor do delito”;
+          (iii) “por evidente afronta ao ordenamento jurídico, há que se reconhecer a inviabilidade de manutenção do reconhecimento havido, anulando-se todos os atos dele subsequentes”;
+          (iv) “há que se reconhecer de igual maneira a violação ao art. 395, III, do Código de Processo Penal, eis que os elementos de prova que sustentam a denúncia não são suficientes para indicar autoria do Recorrente no delito de roubo”.
+    5. A defesa requer “o provimento do presente recurso ordinário constitucional para o fim de se ver reconhecida a violação ao art. 226 do Código de Processo Penal, anulando-se a condenação imposta ao Paciente e também para o fim de se reconhecer a violação ao art. 395, III, do Código de Processo Penal, anulando-se o processo nº 0012957- 23.2016.8.26.0309, ab initio”.
+    6. Decido.
+    7.  O recurso ordinário não deve ser provido.
+    8. Quanto à alegação do paciente de que o “reconhecimento se deu por mero apontamento de acervo fotográfico, em nítida e grave violação aos preceitos e procedimentos previstos no art. 226 do Código de Processo Penal”, pontuo que a matéria não foi apreciada pelas instâncias antecedentes (TJ/SP e STJ), o que impede o imediato exame pelo STF, sob pena de dupla supressão de instâncias.
+    9. Ademais, a orientação do Supremo Tribunal Federal é no sentido de que “o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição” (HC 107.550, Rel. Min. Luiz Fux). No mesmo sentido: HC 124.479, Rel. Min. Luiz Fux; RHC 122.183 e HC 122.436, Rel. Min. Dias Toffoli).
+    10. A decisão recorrida não divergiu dessa orientação. Veja-se a seguinte passagem do voto condutor do acórdão proferido pelo STJ:
+    “[...]
+    No caso concreto, embora o agravante busque a absolvição com base na suposta nulidade de provas, existem nos autos elementos aptos à condenação, conforme explicado na decisão agravada.
+    Não se olvide que, in casu, o agravante foi preso após ser encontrado, com um adolescente tido como comparsa, na posse da res e logo após os fatos.
+    Ademais, há elementos probatórios suficientes para fundamentar a condenação, que se encontra amparada, em especial, nos depoimentos policiais uníssonos e no fato de que as 3 (três) vítimas, prontamente, o reconheceram, tanto na delegacia quanto em juízo, bem como no fato de que encontraram os demais pertences roubados na casa do adolescente.
+    Assente nesta eg. Corte Superior que “Se as instâncias ordinárias reconheceram, de forma motivada, que existem elementos de convicção a demonstrar a materialidade delitiva e autoria delitiva quanto à conduta descrita na peça acusatória, para infirmar tal conclusão seria necessário revolver o contexto fático-probatório dos autos, o que não se coaduna com a via do writ” (RHC n. 85.177/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 25/4/2018).
+    Insta destacar, ainda, que a alegação de nulidade do reconhecimento não foi submetida à apreciação do eg. Tribunal de origem, o que impede o seu conhecimento por esta eg. Corte Superior, sob pena de indevida supressão de instância.
+    [...]”.
+    11.  Verifica-se, assim, a inexistência de ilegalidade flagrante ou abuso de poder que justifique o acolhimento do pedido defensivo.
+    12. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+      Publique-se.
+          Brasília, 28 de outubro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
