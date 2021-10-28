@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+ESPÓLIO DE JOSÉ FILETTO (ESPÓLIO), por sua inventariante Aparecida Cleuza Fileto Vicentini, promoveu o cumprimento de sentença na ação de prestação de contas ajuizada contra ITAÚ UNIBANCO S.A., que julgou procedente o pedido.
+O d. juízo de primeiro grau julgou extinto o processo, com resolução do mérito, ante o cumprimento da obrigação (e-STJ, fls. 89/90).
+A apelação interposta pelo ESPÓLIO foi desprovidapelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Des. RAMON MATEO JÚNIOR, ficandoassim ementado:
+Apelação cível. Ação de exigir contas. Fase de cumprimento de sentença. As contas e demais informações sobre a conta- corrente do espólio foram devidamente prestadas, em conformidade com o disposto na legislação processual civil.Inteligência do artigo 551 do Código de Processo Civil.Pretensão autoral genérica, que não se afina com a disposição legal. O pedido de apresentação de microfilmes e saques é genérico e não atende ao determinado no artigo 551, § 1º do CPC, que dispõe que a impugnação deve ser feita de forma específica, indicando os lançamentos que entende indevidos, o período exato em que eles ocorreram, a inconsistência e o motivo de discordância, a fim de possibilitar ao impugnado a apresentação dos documentos justificativos. Mera indicação do período da obrigação referente a saques realizados no período de 1987 a 1990, que não se presta ao esclarecimento da causa de pedir. Sentença mantida. Apelo improvido(e-STJ, fl. 67).
+Os embargos de declaração opostos pelo ESPÓLIO foram rejeitados (e-STJ, fls. 225/228).
+Inconformado, ESPÓLIO manejourecurso especial, com fundamento no art. 105, III, a e c, da CF, alegando a violação dos arts. 551,§ 1º e 552 do NCPC, ao sustentar, em síntese, que o pedido foi específico quanto aos lançamentos irregulares na conta do falecido, devendo ter sido apresentado pelo banco réu o valor desviado das contas.
+Em juízo de admissibilidade, a presidência da seção de direito privado do TJSP inadmitiu o apelo nobre (e-STJ, fls. 245/249).
+Seguiu-se o agravo em recurso especial interposto pelo ESPÓLIOque, em decisão monocrática do Ministro Presidente do STJ, não conheceu do recurso especialem razão de sua intempestividade (e-STJ, fls. 276/277).
+Nas razões do presente agravo interno, ESPÓLIOalegouque (1) sobre o presente feito incidiu suspensão dos prazos processuais no período correspondente a 16/3/2020 findando aos 4/5/2020, em razão da pandemia daCovid-19; (2) as suspensões oriundas da pandemia daCovid-19 não se enquadram na vertente de feriado local, não havendo necessidade de comprovação; e (3)o recurso é tempestivo, pois o acórdão foi publicado no DJe no dia 9/3/2020, suspendendo-seos prazos processuais no dia 16/3/2020, em razão da pandemia daCovid-19, reiniciandoaos 4/5/2020 e se findou aos 18/5/2020, tendo sido o recurso especial interposto no dia 14/5/2020.
+Impugnação apresentada (e-STJ, fls. 318/321).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. NÃO OBSERVÂNCIA DO PRAZO DE 15 DIAS. ARTS. 219, CAPUT, E 1.003,§ 5º, DO NCPC. PANDEMIA RELATIVA À COVID-19. SUSPENSÃO DOS PRAZOS DE 19/3/2020 A 30/4/2020. RESOLUÇÃO Nº 313 DO CNJ. DECISÃO MANTIDA.AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É intempestivo o recurso especial interposto fora do prazo de 15 dias úteis previstos dos arts. 219, caput, e 1.003, § 5º, do NCPC.
+3. Em virtude da pandemia relativa àCovid-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução nº 313 do CNJ de 19/3/2020, voltando a fluir o prazo, para os processos eletrônicos, aos 4/5/2020.
+4.Agravo interno não provido.
+VOTO
+O recurso não merece provimento
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Orecurso especialnão foi conhecido em virtude da sua intempestividade.
+É contra essa decisão o inconformismo agora manejado, que não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+A tese do ESPÓLIOde que seu recurso especialfoi interposto dentro do prazo, considerando a suspensão ocasionada pela pandemia daCovid-19,não pode ser acolhida .
+Verifica-se que o v. acórdão recorrido foi disponibilizado aos 6/3/2020 (sexta-feira)no DJe, tendo sido considerado publicado aos 9/3/2020 (segunda-feira - e-STJ, fl. 229).
+Portanto, como o prazo recursal para a interposição do recurso se iniciou aos 10/3/2020 (terça-feira), com término aos 13/5/2020 (quarta-feira), já considera a suspensão decorrente da pandemia, e sua interposição somente se deu aos 14/5/2020(quinta-feira - e-STJ, fl. 186), deve ser reconhecida a sua intempestividade, já que interposto fora do prazo de 15 dias, nos termos dos arts. 219, caput, e 1.003, § 5º, do NCPC, sem a demonstração da suspensão do expediente forense, no momento oportuno e por documento idôneo.
+Ressalta-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução nº 313 do CNJ de 19/3/2020, voltando a fluir o prazo, para os processos eletrônicos, aos 4/5/2020.
+Desse modo, a suspensão dos prazos, no Tribunal local, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRAZO PROCESSUAL. PANDEMIA. COVID-19. SUSPENSÃO. VIGÊNCIA. DISPONIBILIZAÇÃO E PUBLICAÇÃO. EFICÁCIA MANTIDA. STJ. RESOLUÇÕES. RECURSO INTEMPESTIVO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. As Resoluções STJ/GP nºs 5, 6 e 9 determinaram a suspensão da vigência dos prazos processuais entre 19 de março a 30 de abril 2020, não tendo sido suspensas as publicações ou a eficácia das publicações na data em que foram disponibilizadas no Diário da Justiça eletrônico.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1.664.252/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 1º/3/2021, DJe 9/3/2021 - sem destaque no original)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS LIMINARMENTE INDEFERIDOS PELA PRESIDÊNCIA DO STJ, POR INTEMPESTIVIDADE. A RESOLUÇÃO N. 6 STJ/GP DE 20 DE MARÇO DE 2020 SUSPENDEU OS PRAZOS ENTRE 19/03 A 30/04/2020, NÃO AS PUBLICAÇÕES. A RESOLUÇÃO N. 9 STJ/GP DE 17/04/2020, POR SUA VEZ, DETERMINOU O RETORNO DA CONTAGEM DOS PRAZOS PROCESSUAIS A PARTIR DE 04/05/2020 (INCLUSIVE). AGRAVO INTERNO DESPROVIDO.
+1. O acórdão embargado foi considerado publicado em 24/04/2020. O prazo recursal foi suspenso pela Resolução STJ/GP n.º 6 de 20 de março de 2020 ("Art. 5º Ficam suspensos os prazos processuais no período de 19 de março de 2020 a 30 de abril de 2020 , que alterou a Resolução STJ/GP n.º 5/2020, em razão da pandemia  .. "), o qual voltou a correr (iniciou-se) a partir do dia 04/05/2020. Os embargos de divergência, entretanto, somente foram protocolizados em 23/05/2020, depois de escoado o prazo legal de 15 (quinze) dias úteis, que se findou no dia 22/05/2020. Intempestividade.
+2. Não se confundem o ato de publicação da decisão com o de suspensão do prazo recursal. Aquele ocorreu sem nenhuma excepcionalidade. Houve a suspensão dos prazos processuais entre 19/03 a 30/04/2020, e não suspensão das publicações ou a sua eficácia na data em que foram disponibilizadas no Diário da Justiça eletrônico. E o reinício ou prosseguimento dos prazos processuais se deu a partir de 04/05/2020 (inclusive).
+3. Agravo interno desprovido.
+(AgInt nos EAREsp 1.515.825/AL, Rel. Ministra LAURITA VAZ, Corte Especial, j. 16/12/2020, DJe 18/12/2020 - sem destaque no original)
+Assim, considerando que orecurso especialfoi interposto sob a égide do NCPC, sem observar o contido nos arts. 219, caput, e 1.003, § 5º, do NCPCe na Resolução nº 313 do CNJ, não há como ser afastada a sua intempestividade.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
