@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interposto por CARLOS ANTONIO KUCINSKI e OUTROS contra a decisão da Presidência desta Corte Superior de fls. 742-744 (e-STJ), fundada na ausência de impugnação do inteiro teor da decisão de inadmissibilidade do recurso especial.
+O apelo especial foi fundado nas alíneas a e c do permissivo constitucional, no qual se insurgiramcontra acórdão do Tribunal de Justiça do Paraná assim ementado (e-STJ, fls. 566-567):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. SENTENÇA DE IMPROCEDÊNCIA.
+1. ALEGAÇÃO DE ILIQUIDEZ DO TÍTULO EXECUTIVO. INEXIGIBILIDADE. PEDIDO JURIDICAMENTE IMPOSSÍVEL. INOCORRÊNCIA. EXECUÇÃO LASTREADA COM TÍTULO EXEQUENDO, NOTIFICAÇÃO EXTRAJUDICIAL E DEMONSTRATIVO DE DÉBITO. DÍVIDA COMPROVADA. ELEMENTOS PREVISTOS NA LEI Nº. 10.931/2004, ART. 28, §2º, DEVIDAMENTE CUMPRIDOS.
+2. CÁLCULO APRESENTADO QUE SUPOSTAMENTE NÃO POSSUI OS ÍNDICES UTILIZADOS, BEM COMO A EVOLUÇÃO DO DÉBITO. ARGUMENTAÇÃO NO SENTIDO DE SER DOCUMENTO INDISPENSÁVEL A PROPOSITURA DA DEMANDA. NÃO ACOLHIMENTO. DEMONSTRATIVO DE DÉBITO CLARO, COM PREVISÃO DAS TAXAS DE JUROS E DEMAIS ENCARGOS INCIDENTES SOBRE O MONTANTE PRINCIPAL. ALEGAÇÃO DE AUSÊNCIA DE DEMONSTRATIVO ANALÍTICO. DEMONSTRATIVO DE DÉBITO SUFICIENTE PARA ATESTAR A EVOLUÇÃO DA DÍVIDA.
+3. AUSÊNCIA DE APRESENTAÇÃO DE COMPROVANTE DE DISPONIBILIZAÇÃO DO CRÉDITO. DESNECESSIDADE. DOCUMENTOS ACESSÓRIOS QUE NÃO CONSTITUEM REQUISITO ESSENCIAL À FORMAÇÃO DO TÍTULO. INADIMPLEMENTO. EXECUÇÃO DEVIDAMENTE INSTRUÍDA COM O TÍTULO, ACOMPANHADO DE DEMONSTRATIVO DE DÉBITO. PREENCHIDOS OS REQUISITOS DE LIQUIDEZ, CERTEZA E EXIGIBILIDADE. EMBARGANTE QUE NÃO SE DESINCUMBIU DO SEU ÔNUS DE PROVAR O FATO CONSTITUTIVO DO SEU DIREITO CAPAZ DE DESCONSTITUIR O TÍTULO EXECUTADO, AO PASSO QUE O EXEQUENTE COMPROVOU SEU DIREITO.
+4. SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+No recurso especial, os insurgentes apontaram, além de divergência jurisprudencial, violação dos arts. 28, VII, § 2º, I e II, da Lei n. 10.93119/94; 373, I, 485, IV, e 798 do CPC/2015.
+Esclareceram que se opuseram ao acórdão que conferiu validade ao título exequendo sem a prova da higidez, certeza e exigibilidade a ser demonstrada nos autos pelo autorem razão de seu ônus da prova. Arguiramque o exequentenão comprovou a transferência de nenhum valor para a conta das empresas recorrentes e, consequentemente, não demonstrou a existência do suposto crédito. Dessa forma, pontuaram quenão ficoucomprovada documentalmente a inadimplência dos insurgentes. Pleitearam o provimento do recurso especial(e-STJ, fls. 596-624).
+Obstado seguimento ao recurso especial, foi manejado agravo em recurso especial, o qual foi apreciado pela Presidência desta Corte Superior, conforme decisão de fls. 742-744 (e-STJ), negando-se conhecimento ao recurso especial.
+Noagravo interno, os insurgentes reforçam a argumentação traçada na petição de recurso especial. Frisam que atacaram todos os fundamentos da decisão de inadmissibilidade do apelo especiale pugnam pelo provimento do recurso (e-STJ, fls. 747-758).
+Contraminuta apresentada (e-STJ, fls. 761-766).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior Tribunal de Justiça, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial"(AgInt no AREsp 1.865.799/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 20/9/2021, DJe 22/9/2021).
+2. Não se conhece de agravo em recurso especial que não tenha impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, nos termos do arts. 932, III, do CPC/2015 e do enunciado da Súmula 182/STJ.
+3. Agravo interno desprovido.
+VOTO
+Não há razões para o provimento do agravo interno.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ (em relação ao art. 373, I, do CPC/2015);Súmula 5/STJ (no tocante aos arts. 28, VII, § 2º, I e II, da Lei n. 10.931/1994; e 485, IV, e 798 do CPC/2015);Súmula 7/STJ (quanto aos arts. 28, VII, § 2º, I e II, da Lei n. 10.931/1994; e 485, IV, e 798 do atual CPC) e Súmula 7/STJ - nulidade e a ausência de liquidez do título exequendo.
+Entretanto, os insurgentes deixaram de impugnar precisamente, ou seja, de forma direta e precisa, esses fundamentos. Consoante a petição de agravo em recurso especial, os recorrentes mencionaram que sua pretensão não esbarraria nos enunciados das Súmulas 5 e 7/STJ, tendo em vistaque oprovimento do pleito dependeria apenas do reconhecimento da ofensa aos dispositivos mencionados como vulnerados.
+No entanto, não foi pontuado claramente de que maneira não seria cabível a aplicação dos citados verbetes sumulares em relação a cada um dos fundamentos da decisão utilizados para obstar o seguimento ao recurso especial. Com efeito, a menção genérica no sentido da inaplicabilidade dos verbetes sumulares (Súmulas 5 e 7/STJ) não supre a necessidade de ataque pontual aos fundamentos do julgado.
+Vejam-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR MUNICIPAL INATIVO.MAGISTÉRIO. ATO NORMATIVO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ajuizada pela parte autora acima identificada em desfavor do Instituto de Previdência do Município de Jundiaí  Iprejun, pretendendo, em brevíssima suma, inclusive em via de tutela de urgência, seja garantido e mantido o valor nominal dos proventos de aposentadoria/pensão percebidos pela parte autora, sem redução, afastando-se a incidência e a aplicação do "Ato Normativo 001/2019"  Iprejun, sem prejuízo da condenação do réu ao pagamento de indenização por danos morais. Na sentença julgou-se parcialmente procedente o pedido. No Tribunal a quo, a sentença foi reformada. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial, considerando: ausência/erro de indicação de artigo de Lei Federal violado  Súmula n. 284/STF, ausência de julgamento como válido de ato de governo local contestado em face de Lei Federal e divergência não comprovada.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência/erro de indicação de artigo de Lei Federal violado  Súmula n. 284/STF e divergência não comprovada.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem.
+Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido.
+(AgInt no AREsp 1865799/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/09/2021, DJe 22/09/2021)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU, TAXA DE PREVENÇÃO E EXTINÇÃO DE INCÊNCIDOS. TAXA DE COLETA DE LIXO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. AGRAVO INTERNO DO CONTRIBUINTE NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto às Súmulas 7/STJ e 282/STF.
+Assim, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Inadmitido o recurso especial em razão da dissonância da pretensão com jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Ainda, inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+7. Agravo interno do contribuinte não conhecido.
+(AgInt no AREsp 1806404/SP, Rel. Ministro MANOEL ERHARDT,DESEMBARGADOR CONVOCADO DO TRF5, PRIMEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021)
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida, conforme o art. 932, III, do CPC/2015 e, por analogia, a Súmula n. 182/STJ.
+A propósito, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. BEM DE FAMÍLIA. IMPENHORABILIDADE. IMÓVEL UTILIZADO COMO RESIDÊNCIA DOS FILHOS DE DEVEDOR. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1779672/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021)
+Fica mantida a observação a respeito dos honorários advocatícios recursais constante na decisão ora agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
