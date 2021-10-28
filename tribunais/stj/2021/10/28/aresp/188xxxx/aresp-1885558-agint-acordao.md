@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por GSP LIFE BOITUVA EMPREENDIMENTOS IMOBILIÁRIOS LTDA., contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Ação: resolução contratual cumulada com devolução de valores e indenização por perdas e danos, ajuizada por BRUNO PEREIRA CRUZ e DAIANE APARECIDA MARIGO, em face de GSP LIFE BOITUVA EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+Sentença: julgou parcialmente procedente o pedido inicial, para declarar rescindido os instrumentos de promessa de venda e compra de imóvel entabulado entre as partes, bem como para condenar a agravante a restituir os valores pagos pelos agravados, cujas importâncias serão liquidadas futuramente, descontando-se do montante o valor dado a título de arras, ou sinal. Por fim, condenou a agravante ao pagamento das custas e dos honorários, que foram fixados em 15% sobre o valor total da condenação.
+Acórdão: conheceu em parte e negou provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação. Compromisso de compra e venda. Ação de rescisão contratual c/c restituição de quantias pagas e indenização por perdas e danos. Sentença de parcial procedência, sob o entendimento de que não restou configurado atraso. Determinação de restituição das parcelas pagas, com a retenção somente do valor pago a título de arras ou sinal. Recurso da ré. Preliminar de inépcia da inicial afastada. Pretensão na retenção das arras, de 30% dos valores pagos pelos autores, das taxas de administração, de tributos e da multa moratória de 10%. Ausência de interesse recursal com relação à retenção de arras, à evidência. Pretensão à retenção de valores, taxas de administração, tributos e pagamento de multa que sequer foram pleiteados na contestação ofertada. Caracterização de inovação recursal. Ausência de mínima fundamentação à postulação. Percentual de retenção e multa contratual que nem ao menos descrevem as cláusulas contratuais que dão respaldo ao recurso. Recurso não provido, na parte conhecida." (e-STJ fl. 329)
+Recurso especial: alega violação dos arts. 3º, Decreto-Lei 4.657/42, 330, I, CPC/15, 186, 418, 725, 884, 916, 927, CC/02, bem como dissídio jurisprudencial. Sustenta que não houve culpa da recorrente pelo desfazimento contratual, bem como que cumpriu com todas as obrigações contratuais assumidas, sendo cabível a reforma do acórdão recorrido, a fim de garantir o direito de retenção.
+Decisão monocrática: conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Razões do agravo interno: sustenta a não incidência dos óbices sumulares como apontados na decisão agravada e a presença do dissídio.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE VALORES E INDENIZAÇÃO POR PERDAS E DANOS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de resolução contratual cumulada com devolução de valores e indenização por perdas e danos.
+2. O agravo interno que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por GSP LIFE BOITUVA EMPREENDIMENTOS IMOBILIÁRIOS LTDA., contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Cabe observar que a decisão agravada se pautou nos seguintes argumentos: i) fundamentação ausente/deficiente (Súmula 284/STF); e, ii) ausência de prequestionamento (Súmula 282/STF); e, iii) reexame de fatos e provas (Súmula 7/STJ); e, iv) não ocorrência da divergência jurisprudencial, porque ausentes o cotejo analítico e a comprovação de similitude fática, e a incidência da Súmula 7/STJ quanto ao tema divergente.
+Observa-se, pelas razões expostas no agravo interno, que a agravante deixou de impugnar especificamente a incidência da Súmula 284/STF, no tocante à fundamentação ausente/deficiente, e da Súmula 7/STJ quanto ao tema divergente.
+Assim, como esses pontos não foram objeto de insurgência da agravante e o entendimento pacífico desta Corte é o de que não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182/STJ, a qual se subsume perfeitamente ao presente recurso, é o caso de não se conhecer do agravo interno.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
