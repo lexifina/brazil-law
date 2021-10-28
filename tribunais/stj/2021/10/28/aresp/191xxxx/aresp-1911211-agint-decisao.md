@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interno interposto em face de decisão da Presidência deste Superior Tribunal na qual reconhecida a ausência de prequestionamento da questão federal suscitada.
+Nas razões do agravo interno, o Estado do Alagoas suscita a não incidência da Súm. n. 7/STJ. Defende que as teses do recurso especial estão devidamente fundamentadas e prequestionadas. Argui que todos os fundamentos do acórdãoa quoforam impugnados. Assevera que a prescrição, no caso dos autos, está devidamente demonstrada através da violação de dispositivos legais federais.
+Requer a reconsideração da decisão agravada, ou queo feito submetido ao julgamento no órgão colegiado.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Observo que são pertinentes os argumentos tecidos pela parte agravante em sua peça recursal.
+Está na decisão agravada:
+Alega violação dos arts. 1º e 5º do Decreto n. 20.910/32, no que concerne ao reconhecimento da ocorrência da prescrição/decadência quanto à revisão de ato administrativo de promoção em carreira militar, tento em vista que a decretação da prescrição incidente sobre o ato de indeferimento da primeira promoção gera uma dependência das demais, incidindo a prescrição em todas as promoções posteriores  ..  não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Está na ementa doacórdão (grifo):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. PROMOÇÃO DE MILITAR À PATENTE DE SUBTENENTE. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO DE FUNDO DE DIREITO. PARCIALMENTE ACOLHIDA.  ..
+Está no texto do acórdão (grifo):
+No que toca à prescrição, compulsando detidamente os autos, verifiquei que os pedidos de promoções por ressarcimento de preterição, por vezes, implicam na retificação dos atos de promoções anteriores, praticados administrativamente, a fim de viabilizar a ascensão à graduação pretendida. 11 Ocorre que, ao proceder tal modificação, o Poder Judiciário anula atos administrativos de efeitos concretos, os quais devem observar o prazo prescricional de cinco anos, nos termos do art. 1º do decreto lei n. 20.910/32. 12 Diante disso, imperiosa a evolução do entendimento deste relator nos casos de promoção por ressarcimento de preterição, nos quais haja a reanálise de atos de promoção praticados pela Administração castrense, por não se vislumbrar, in casu, uma omissão administrativa propriamente dita. 13 Nesse sentido, antes de apreciar a pretensão autoral, é necessária uma regressão aos atos administrativos que promoveram o militar às graduações anteriores,por se consubstanciar numa verdadeira anulação de ato administrativo, na qual incide a prescrição de fundo de direito.
+Ao final, houve acolhimento parcial da prescrição, restando não prescrito, apenas, "o direito à promoção do militar, considerando a progressão funcional de 3º Sargento da PMAL, ocorrida em 12.03.2014", tendo em vista que apetição inicial data 2018.
+Sem embargo, na análise dos requisitos para promoção, considerou o Tribunala quoperíodos abrangidos pela prescrição que ele próprio reconheceu.
+ ..  em cotejo às disposições legais referentes ao requisito legal do interstício (art. 20, parágrafo único, inciso I, da lei n. 6.514/2004) e considerando que o apelante foi promovido a patente de Cabo em 16.04.2003 (fl. 17), deve ser reconhecido o direito à promoção à patente de 3º Sargento em 16.04.2008 e, consequentemente, à patente de 2º Sargento em 16.04.2013, 1º Sargento em 16.04.2016 e Subtenente em 16.04.2018, não sendo crível penalizá-lo face à omissão da administração pelo atraso em sua ascensão profissional (grifei).
+Logo, a questão federal foi devidamente prequestionada.
+Dessarte, verifico ser o caso de exercer o juízo de retratação facultado pelo art. 259 do RISTJ, motivo pelo qual reconsidero a decisão agravada, tornando-a sem efeito.
+Após os procedimentos cabíveis, retornem-me os autos conclusos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SÚMULA Nº 182/STJ. INAPLICABILIDADE. RECONSIDERAÇÃO DA DECISÃO AGRAVADA PARA TORNÁ-LA SEM EFEITO.
