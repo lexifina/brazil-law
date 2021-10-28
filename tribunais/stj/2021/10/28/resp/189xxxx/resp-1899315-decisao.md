@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso especial interposto por DÉBORA APARECIDA DAMIÃOcontra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+Na origem, cuida-se de ação de busca e apreensão proposta por BANCO ITAUCAURD S.A .contra a recorrente visando a retomada de veículo automotor adquirido com base em Cédula de Crédito Bancário.
+A sentença julgou improcedente o pedido inicial de consolidação definitiva da propriedade em favor da instituição financeira, uma vez que a parte requerida quitou o contrato pelo pagamento integral do valor devido, confirmando a restituição do bem livre de ônus. Em que pese às custas processuais e os honorários terem sido quitados quando do depósito, eventuais custas remanescentes ficaram a cargo da requerida, em razão do princípio da causalidade (e-STJ, fls. 162-164).
+A Quinta Câmara Cível do Tribunal de Justiça do Estado do Paraná conheceu parcialmente o recurso de apelação e, nessa parte, deu-lhe provimento para passar a aplicar o art. 487, inciso III, alíneaa, do CPC/2015 como fundamento da sentença recorrida, consoante acórdão assim ementado (e-STJ, fls. 276-279):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. PURGAÇÃO DA MORA. EXTINÇÃO DO FEITO. SENTENÇADE IMPROCEDÊNCIA. PRETENSÃO DE APLICAÇÃO DO ART.90, § 4º, DO CPC. NÃO CONHECIMENTO. HONORÁRIOSDEFINIDOS NA DECISÃO LIMINAR, NÃO IMPUGNADAOPORTUNAMENTE. PRECLUSÃO. PRETENSÃO DEALTERAÇÃO DO FUNDAMENTO DA SENTENÇA. APLICAÇÃO DO ART. 487, III, A, DO CPC ACOLHIDA. SENTENÇA PARCIALMENTE REFORMADA. RECURSOPARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA,PROVIDO.
+Nas razões de recurso especial, interposto com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, a recorrente alega a violação aos arts. 90, § 4º, 1.009, § 1º, e 1.015, inciso I, todos do CPC/2015.
+Sustenta que, ao contrário do consignado no acórdão recorrido, não há preclusão relativa à incidência do art. 90, § 4º, do CPC/2015, com vistas a diminuir os honorários advocatícios quando há o reconhecimento do pedido pelo réu e, simultaneamente, o cumprimento integral da prestação reconhecida, devendo ser a matéria conhecida no bojo do recurso de apelação, e não de agravo de instrumento.
+Aduz que a decisão que fixa honorários advocatícios tem caráter provisório, podendo ser majorados, reduzidos ou mesmo excluídos, apenas se conhecendo da sucumbência final na sentença, razão pela qual eventual agravo de instrumento não seria conhecido, por ausência de previsão legal.
+Foram apresentadas contrarrazões (e-STJ, fls. 330-339).
+O recurso especial foi admitido pelo Tribunal de origem (e-STJ, fls. 342-343).
+É o relatório. Decido.
+A controvérsia recursal limita-se à análise de ocorrência de preclusão quanto à incidência do art. 90, § 4º, do CPC/2015, se deveria ser arguido em agravo de instrumento ou poderia ser feito em recurso de apelação.
+O acórdão recorrido não conheceu a matéria, por entender preclusa, sendo que devia ter sido arguida por meio de agravo de instrumento, senão vejamos (e-STJ, fl. 277):
+Da análise dos pressupostos de admissibilidade, observa-se que apretensão de aplicação do art. 90, § 4º, do Código de Processo Civil está preclusa e, portanto, não merece conhecimento.
+Independentemente da discussão quanto à aplicação do art. 487, III, a, do CPC  que será a seguir abordada  , verifica-se que o valor dos honorários advocatícios devidos pela parte ré, ora corrente, foi fixado previamente pelo juízo, na decisão liminar de mov. 13.1, não constituindo objeto da sentença ora impugnada.
+Trata-se, portanto, de matéria que deveria ter sido objeto de insurgência no momento e pela forma oportuna, qual seja, o recurso de agravo de instrumento, nos termos dos arts. 1.015, I, e 1.009, § 1º, do CPC.
+Assim, considerando que da decisão que gerou o prejuízo questionado não foi interposto no prazo correto o recurso adequado, não conheço desse ponto do recurso de apelação.
+Vale transcrever o art. 1.015 do CPC/2015, que estabelece as hipóteses legais para o agravo de instrumento:
+Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+I - tutelas provisórias;
+II - mérito do processo;
+III - rejeição da alegação de convenção de arbitragem;
+IV - incidente de desconsideração da personalidade jurídica;
+V - rejeição do pedido de gratuidade da justiça ou acolhimento do pedido de sua revogação;
+VI - exibição ou posse de documento ou coisa;
+VII - exclusão de litisconsorte;
+VIII - rejeição do pedido de limitação do litisconsórcio;
+IX - admissão ou inadmissão de intervenção de terceiros;
+X - concessão, modificação ou revogação do efeito suspensivo aos embargos à execução;
+XI - redistribuição do ônus da prova nos termos do art. 373, § 1º;
+XII - (VETADO);
+XIII - outros casos expressamente referidos em lei.
+Parágrafo único. Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário.
+Percebe-se do dispositivo transcrito que a fixação de honorários advocatícios não é hipótese legal para a interposição de agravo de instrumento.
+O Superior Tribunal de Justiça, no julgamento do REsp 1.704.520/MT (Tema 988), representativo da controvérsia, firmou a tese de que "orol do artigo 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+Confira-se a ementa do julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PROCESSUAL CIVIL. NATUREZA JURÍDICA DO ROL DO ART. 1.015 DO CPC/2015.IMPUGNAÇÃO IMEDIATA DE DECISÕES INTERLOCUTÓRIAS NÃO PREVISTAS NOS INCISOS DO REFERIDO DISPOSITIVO LEGAL. POSSIBILIDADE. TAXATIVIDADE MITIGADA. EXCEPCIONALIDADE DA IMPUGNAÇÃO FORA DAS HIPÓTESES PREVISTAS EM LEI. REQUISITOS.
+1- O propósito do presente recurso especial, processado e julgado sob o rito dos recursos repetitivos, é definir a natureza jurídica do rol do art. 1.015 do CPC/15 e verificar a possibilidade de sua interpretação extensiva, analógica ou exemplificativa, a fim de admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente previstas nos incisos do referido dispositivo legal.
+2- Ao restringir a recorribilidade das decisões interlocutórias proferidas na fase de conhecimento do procedimento comum e dos procedimentos especiais, exceção feita ao inventário, pretendeu o legislador salvaguardar apenas as "situações que, realmente, não podem aguardar rediscussão futura em eventual recurso de apelação".
+3- A enunciação, em rol pretensamente exaustivo, das hipóteses em que o agravo de instrumento seria cabível revela-se, na esteira da majoritária doutrina e jurisprudência, insuficiente e em desconformidade com as normas fundamentais do processo civil, na medida em que sobrevivem questões urgentes fora da lista do art.1.015 do CPC e que tornam inviável a interpretação de que o referido rol seria absolutamente taxativo e que deveria ser lido de modo restritivo.
+4- A tese de que o rol do art. 1.015 do CPC seria taxativo, mas admitiria interpretações extensivas ou analógicas, mostra-se igualmente ineficaz para a conferir ao referido dispositivo uma interpretação em sintonia com as normas fundamentais do processo civil, seja porque ainda remanescerão hipóteses em que não será possível extrair o cabimento do agravo das situações enunciadas no rol, seja porque o uso da interpretação extensiva ou da analogia pode desnaturar a essência de institutos jurídicos ontologicamente distintos.
+5- A tese de que o rol do art. 1.015 do CPC seria meramente exemplificativo, por sua vez, resultaria na repristinação do regime recursal das interlocutórias que vigorava no CPC/73 e que fora conscientemente modificado pelo legislador do novo CPC, de modo que estaria o Poder Judiciário, nessa hipótese, substituindo a atividade e a vontade expressamente externada pelo Poder Legislativo.
+6- Assim, nos termos do art. 1.036 e seguintes do CPC/2015, fixa-se a seguinte tese jurídica: O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+7- Embora não haja risco de as partes que confiaram na absoluta taxatividade com interpretação restritiva serem surpreendidas pela tese jurídica firmada neste recurso especial repetitivo, eis que somente se cogitará de preclusão nas hipóteses em que o recurso eventualmente interposto pela parte tenha sido admitido pelo Tribunal, estabelece-se neste ato um regime de transição que modula os efeitos da presente decisão, a fim de que a tese jurídica somente seja aplicável às decisões interlocutórias proferidas após a publicação do presente acórdão.
+8- Na hipótese, dá-se provimento em parte ao recurso especial para determinar ao TJ/MT que, observados os demais pressupostos de admissibilidade, conheça e dê regular prosseguimento ao agravo de instrumento no que tange à competência.
+9- Recurso especial conhecido e provido.
+(REsp 1704520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, DJe 19/12/2018)
+No caso, aparte requerida, após a busca e apreensão, quitou o contrato, pagando integralmente o valor devido, e foi restituída do veículo, razão pela qual pugnou pelaaplicação do art. 90, § 4º, do CPC/2015, que permite a diminuição pela metade dos honorários advocatícios quando há o reconhecimento do pedido pelo réu e, simultaneamente, o cumprimento integral da prestação reconhecida.
+O acórdão recorrido, por seu turno,não conheceu do pedido recursal,pois considerou que a matéria deveria ser arguida por meio de agravo de instrumento após a fixação de honoráriosque ocorreu por meio dedecisão interlocutória.
+No entanto, além de a hipótese não constar do rol legal do art. 1.015 do CPC/2015, a fixação de honorários advocatícios não acarreta a necessária urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, o que permitiria a incidência do entendimento consignando no REsp n. 1.704.520/MT.
+Por fim, cumpre ressaltar que, apenas no momento da prestação jurisdicional final, ou seja, da sentença, será possível a fixação concreta dos ônus sucumbenciais, inclusive dos honorários advocatícios, razão pela qual deve ser conhecida a insurgência quanto à matéria na interposição de recurso de apelação.
+Corroborando essa posição, existe entendimento deste Tribunal de que a fixação de honorários advocatícios é capítulo autônomo da sentença.
+Veja-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA.ART. 543-C DO CPC E RESOLUÇÃO STJ N.º 08/2008. EMBARGOS INFRINGENTES. ART. 530 DO CPC. DISCUSSÃO SOBRE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. O art. 530 do CPC condiciona o cabimento dos embargos infringentes a que exista sentença de mérito reformada por acórdão não unânime, e não que o objeto da divergência seja o próprio mérito tratado na sentença reformada.
+2. Se o dispositivo não restringiu o cabimento do recurso apenas à questão de fundo ou à matéria central da lide, não pode o aplicador do direito interpretar a norma a ponto de criar uma restrição nela não prevista. Precedentes.
+3. Ademais, o arbitramento dos honorários não é questão meramente processual, porque tem reflexos imediatos no direito substantivo da parte e de seu advogado. Doutrina de CHIOVENDA.
+4. Os honorários advocatícios, não obstante disciplinados pelo direito processual, decorrem de pedido expresso, ou implícito, de uma parte contra o seu oponente no processo e, portanto, formam um capítulo de mérito da sentença, embora acessório e dependente.
+5. No direito brasileiro, os honorários de qualquer espécie, inclusive os de sucumbência, pertencem ao advogado. O contrato, a decisão e a sentença que os estabelecem são títulos executivos.
+Nesse sentido, a Corte Especial do STJ fez editar a Súmula 306, com o seguinte enunciado: "Os honorários advocatícios devem ser compensados quando houver sucumbência recíproca, assegurado o direito autônomo do advogado à execução do saldo sem excluir a legitimidade da própria parte". Portanto, os honorários constituem direito autônomo do causídico, que inclusive poderá executá-los nos próprios autos ou em ação distinta.
+6. O capítulo da sentença que trata dos honorários, ao disciplinar uma relação autônoma, titularizada pelo causídico, é de mérito, embora dependente e acessório, de modo que poderá ser discutido por meio de embargos infringentes se a sentença vier a ser reformada, por maioria de votos, no julgamento da apelação.
+7. Assim, seja porque o art. 530 do CPC não faz restrição quanto à natureza da matéria objeto dos embargos infringentes - apenas exige que a sentença de mérito tenha sido reformada em grau de apelação por maioria de votos -, seja porque o capítulo da sentença que trata dos honorários é de mérito, embora acessório e dependente, devem ser admitidos os embargos infringentes para discutir verba de sucumbência.
+8. A ausência de interposição dos embargos infringentes na origem sobre a condenação em honorários advocatícios não veda a admissão do recurso especial, a menos que o apelo verse exclusivamente sobre a verba de sucumbência, caso em que não será conhecido por preclusão e falta de exaurimento de instância.
+9. Recurso especial provido. Acórdão sujeito ao art. 543-C do CPC e à Resolução STJ n.º 08/2008.
+(REsp 1113175/DF, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 24/05/2012, DJe 07/08/2012)
+Ante o exposto, dou provimento ao recurso especial para determinar a remessa dos autos ao Tribunal de Justiça do Estado do Paraná para que analise a possibilidade de aplicação do art. 90, § 4º, do CPC/2015 no caso em análise.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. BUSCA E APREENSÃO. PURGAÇÃO DA MORA E RECONHECIMENTO DA PROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO. NÃO OCORRÊNCIA. ART. 90, § 4º, DO CPC/2015. RECURSO ESPECIAL PROVIDO PARA REMESSA DOS AUTOS À ORIGEM PARA QUE SE ANALISE O PEDIDO DE MINORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.
