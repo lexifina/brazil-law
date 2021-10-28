@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por CBB - Confederação Brasileira de Basketball em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 1.388):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. EXIGIBILIDADE CONFIGURADA. REVISÃO DAS CONCLUSÕES DO ARESTO IMPUGNADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante alega a inaplicabilidade da Súmula n. 7/STJ, uma vez que a análise da matéria não demanda revolvimento de fatos e provas, mas, tão somente, de direito.
+Salienta, ademais, que o título executivo está eivadode ilegalidades, não cabendo a sua execução.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. EXIGIBILIDADE CONFIGURADA. REVISÃO DAS CONCLUSÕES DO ARESTO IMPUGNADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, não há como afastar as premissas fático-probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, pois, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice do enunciado 7 da Súmula do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+No que se refere à exigibilidade do título, o Tribunal de origem dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fls. 1.050-1.051):
+De plano, como bem destacou a sentença recorrida, constata-se que o lastro do título é incontroverso, vez que a embargante não nega a existência da relação jurídica locatícia, tampouco da dívida dela decorrente, que somente cessou com a entrega do imóvel.
+Por mais que existam suspeitas de fraudes e irregularidades praticadas pela antiga diretoria da embargante na análise dos autos, não se pode perder de vista o fato de que o imóvel, de propriedade do embargado, foi efetivamente locado para a CBB, aqui embargante, e que houve inadimplemento quanto ao pagamento dos valores contratados.
+Assim, não demonstrada qualquer fraude ou irregularidade na celebração do contrato de locação inadimplido, que deu azo à confissão de dívida de fls. 10/12 da execução embargada, e nesta em si, não pode a CBB, quando acionada judicialmente, se valer de suspeitas que recaem sobre seus antigos dirigentes e prepostos, para lesar terceiros de boa-fé, ao argumento de que tais atos foram praticados sem observância do Estatuto.
+Certo é que, eventuais irregularidades praticadas pelo ex-Presidente da CBB e seus prepostos, por mais reprováveis que sejam, não possuem o condão de desconstituir o título. Cabível, se for o caso, a veiculação de ação regressiva da instituição em face dos dirigentes que lhe causaram prejuízos, o que, repita-se, sequer ficou demonstrado no caso dos autos, tendo em vista que o contrato de locação foi devidamente cumprido e a confissão de dívida é condizente com o período de inadimplemento deste.
+Neste contexto, ao contrário do que afirma a embargante, não há que se cogitar de nulidade da execução, na medida em que o documento particular juntado às fls. 10/12 dos autos principais se encontra devidamente firmado pelo devedor e por duas testemunhas, atendendo aos requisitos do artigo 784, III, do CPC.
+Além disso, tanto o contrato de locação de fls. 619/620, quanto a confissão de dívida que o exequente pretende desconstituir foram firmados pelo mesmo sr. Carlos Nunes, Presidente e representante legal da CBB, regularmente constituído à época.
+Neste ponto, vale observar que totalmente infundada a alegação de que o embargado, por estar representado por advogado quando da assinatura da confissão de dívida, teria assumido os riscos de uma contratação indevida, optando por não requerer a assinatura de outro membro da diretoria da CBB, como impõe o art. 36 do estatuto social desta.
+Ora, se houve inobservância ao art. 36 do Estatuto da Confederação embargante, eventual prejuízo decorrente de tal falha deve ser cobrado do seu representante legal à época, e não do embargado, sendo certo que nenhuma má-fé restou evidenciada na hipótese. Também não se verifica qualquer falha de representação das partes que pudesse retirar a executoriedade do título.
+Afirme-se, ainda, que não houve a alegada confusão entre o contrato de locação e a confissão de dívida, que, apesar de serem correlatos, vieram aos autos da execução em documentos diversos, cada qual observando seus requisitos próprios de validade.
+Diante das informações acima reproduzidas, a questão foi resolvida com base nos elementos fáticos que permearam a demanda, analisados de forma objetiva. Por conseguinte, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local exigiria reapreciação do conjunto fático-probatório dos autos, providência que encontra óbice no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+A pretensão recursal é de alterar as conclusões sobre os fatos e provas do processo, para alcançar resultado favorável na demanda. Isso nada mais é do que o revolvimento do que já foi soberanamente julgado pelas instâncias ordinárias.
+O Superior Tribunal de Justiça, pela via extraordinária do recurso especial, não é terceira instância revisora e, portanto, não pode rejulgar a prova, como quer a agravante. As alegações de ofensa a lei federal, no caso, atreladas a essa descabida pretensão, encontram óbice intransponível na Súmula 7/STJ.
+A propósito:
+(..)XI - À vista disso, acolher a tese do recorrente a fim de analisar a questão relativa à negativa de vigência aos arts. 4º, 6º, 9º, 10 e 1.013, todos do CPC, e ao art. 17, § 11, da Lei n. 8.429/92, demandaria inconteste reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação da Súmula n. 7 do STJ. Afinal de contas, não é função desta Corte atuar como uma terceira instância na análise dos fatos e das provas. Cabe a ela dar interpretação uniforme à legislação federal a partir do desenho de fato já traçado pela instância recorrida. XII - Agravo interno improvido.(AgInt no AREsp 1575315/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/06/2020, DJe 10/06/2020)
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
