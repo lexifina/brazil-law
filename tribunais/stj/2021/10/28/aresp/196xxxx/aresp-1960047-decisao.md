@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por HOSPITAL SÃO CARLOS S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+CIVIL E PROCESSO CIVIL APELAÇÃO CÍVEL AÇÃO DE CANCELAMENTO DE PROTESTO ALEGAÇÃO DE INEXISTÊNCIA DE RELAÇÃO COMERCIAL COM A RECORRIDA PROVA DOS AUTOS QUE DEMONSTRAM O CONTRÁRIO DO ALEGADO FATO IMPEDITIVO DO DIREITO DÍVIDA REGULAR PROTESTOS EXERCÍCIO REGULAR DE DIREITO RECURSO CONHECIDO E NÃO PROVIDO
+Quanto à controvérsia, apresentada pela alínea "a" do permissivo constitucional, alega violação dos arts. 369 e 371 do CPC, no que concerne à necessidade de produção de prova testemunhal, trazendo os seguintes argumentos:
+23. Conforme se depreende do disposto nos autos, o juízo de piso, com posterior confirmação do Egrégio Tribunal de Justiça do Estado do Ceará, deixou de analisar instrumento probatório presente nos autos, qual seja, o depoimento de testemunhas.
+24. Ora, renomados Ministros, os documentos presentes nos autos comprovam apenas que as Notas Fiscais possuíam como destinatária esta instituição, porém nada mencionam acerca da existência de relação entre os planos de saúde e o recorrido.
+25. Cabia ao depoimento testemunhal a comprovação de que tais produtos eram destinados aos planos de saúde, tendo o juízo de piso ceifado quaisquer possibilidades de êxito ao determinar que não seriam considerados os depoimentos testemunhais quanto ao objeto da presente lide.
+26. É de se estranhar o porquê do juízo primevo somente ter afirmado que não iria utilizar das provas testemunhais produzidas após a realização da instrução quanto o mesmo poderia, utilizando-se da prerrogativa disposta no artigo 370 e 443 do Código de Processo Civil, indeferir a prova testemunhal requerida pelo autor, utilizando-se da economia processual:  ..  (fls. 253).
+É, no essencial, o relatório. Decido.
+O Tribunal de origem se manifestou nos seguintes termos:
+Pelo contexto das provas produzidas, demonstrou-se a regularidade da dívida protestada e, por via de consequência, exercício regular de direito, e não ato lesivo a justificar condenação da empresa apelada, seja na desconstituição da dívida ou mesmo em danos morais. Nesse sentido:
+ ..
+Concluo que o almejado pela apelante esbarra nas disposições do art.
+373, II, do CPC, já que a recorrida, se desincumbindo do seu ônus, demonstrou haver fato impeditivo ao direito do autor. Este, por sua vez, não comprovou fato constitutivo do direito alegado (fls. 213/214).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
