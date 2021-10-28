@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se, originariamente, de mandado de segurança impetrado por Total Distribuidora S/A, contra ato atribuído ao Secretário Estadual da Fazenda do Piauí, consistente na exigência de "recolhimento de valores a título de estorno de - crédito (não creditado) de ICMS incidente na aquisição de B100 (insumo de biodiesel)" (fl. 3).
+O Tribunal de Justiça do Estado do Piauí denegou a segurança, em aresto assim ementado (fl. 339):
+MANDADO DE SEGURANÇA. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO STF DOS DISPOSITIVOS QUE FUNDAMENTAM O ATO COATOR. IMPOSSIBILIDADE DE CONCEDER A ORDEM TENDO EM VISTA A MODULAÇÃO DOS EFEITOS DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CARÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Apesar do reconhecimento da inconstitucionalidade dos §§ 10 e 11 da Cláusula Vigésima Primeira, do Convênio nº 110/2007, tendo vista que nos autos da Ação Direta de Inconstitucionalidade nº 4171, julgada procedente, o Supremo Tribunal Federal modulou os efeitos da declaração de inconstitucionalidade, conferindo eficácia diferida por 6 (seis) meses após a publicação do acórdão, o que se deu em 21/08/2015, resta o Impetrante carente de direito líquido e certo indispensável para concessão da segurança.
+2. Segurança denegada.
+No recurso ordinário, a parte recorrente sustenta, em síntese, que "o Egrégio Supremo Tribunal Federal declarou a inconstitucionalidade dos §§ 10 e 11 da Cláusula Vigésima Primeira do Convênio 110/2007 através da Ação Direta de Inconstitucionalidade de nº 4171, não se aplicando os efeitos modulatórios às empresas que se encontravam sub judice" (fl. 365).
+Aberta vista à parte recorrida, o Estado do Piauí apresentou impugnação às fls. 408/423, postulando o não conhecimento do recurso, pelo obstáculo da Súmula 266/STF e pela ilegitimidade passiva do Secretário de Fazenda, e, no mérito, o seu desprovimento.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República Wagner Natal Batista, manifestou-se pelo provimento do recurso (fls. 261/263).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhimento.
+Como cediço, a autoridade coatora é aquela que "que detém atribuição para adoção das providências tendentes a executar ou corrigir o ato combatido" (RMS 16.708/TO, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 18/04/2005, p. 212).
+Na espécie, o ato atacado foi atribuído ao Secretário de Estado da Fazenda do Piauí, questionando-se na presente ação a exigência de recolhimento de um estorno de ICMS incidente na aquisição de B100 (insumo de biodiesel).
+No entanto, o Secretário de Estado da Fazenda do Piauí não ostenta legitimidade para figurar no pólo passivo do mandado de segurança, pois não é de sua competência anular eventual estorno de crédito de ICMS.
+Com efeito, a Lei Complementar Estadual 28/2003, que "Dispõe sobre a Lei Orgânica da Administração Pública do Estado do Piauí e dá outras providências", não indica, entre as atribuições do Secretário da Receita Estadual, a determinação da nulidade de eventual lançamento tributário. Confira-se:
+Art. 8º O Secretário de Estado é responsável, perante o Governador do Estado, pelo desenvolvimento e execução dos planos e programas das atividades específicas de sua Secretaria e pela supervisão das entidades administrativas a ela vinculadas, competindo-lhe, dentre outras atribuições previstas em Lei:
+I - exercer a orientação, coordenação e supervisão dos órgãos e das entidades da administração estadual na área de sua competência e referendar os atos e decretos assinados pelo Governador do Estado;
+II - expedir instruções para a execução das leis, decretos e regulamentos;
+III - apresentar ao Governador do Estado relatório anual dos serviços realizados na Secretaria;
+IV - praticar atos pertinentes às atribuições que lhe forem outorgadas ou delegadas pelo Governador do Estado;
+V - comparecer à Assembléia Legislativa ou a qualquer de suas comissões, quando convocado, para prestar, pessoalmente, informações sobre assunto previamente determinado, importando em crime de responsabilidade a ausência sem justificação adequada;
+VI - comparecer à Assembléia Legislativa e a qualquer de suas comissões, por sua iniciativa e mediante entendimento prévio com a Mesa Diretora, para expor assunto de relevância de sua Secretaria;
+VII - encaminhar à Assembléia Legislativa informações pedidas por escrito e especificadamente pela Mesa Diretora, importando crime de responsabilidade a recusa ou o não atendimento no prazo de trinta dias, bem como o fornecimento de informações falsas;
+VIII - propor ao Governador, anualmente, o orçamento da Secretaria;
+IX - delegar suas próprias atribuições, por ato expresso, aos seus subordinados, com anuência prévia do Governador.
+Além disso, a própria Constituição Estadual determina que compete aos Secretários de Estado as funções de assessoramento e supervisão, consoante se observa do art. 190 desse diploma, verbis:
+Art. 109. Compete ao Secretário de Estado, além de outras atribuições estabelecidas nesta Constituição e na lei:
+I - exercer a orientação, coordenação e supervisão dos órgãos e das entidades da administração estadual na área de sua competência e referendar os atos e decretos assinados pelo Governador do Estado;
+II - expedir instruções para a execução das leis, decretos e regulamentos;
+III - Apresentar ao Governador relatório anual dos serviços realizados na Secretaria;
+IV - praticar atos pertinentes às atribuições que lhe forem outorgadas ou delegadas pelo Governador;
+V - comparecer à Assembleia Legislativa ou a qualquer de suas comissões, quando convocado, para prestar, pessoalmente, informações sobre assunto previamente determinado, importando em crime de responsabilidade e ausência sem justificação adequada;
+VI - comparecer perante a Assembleia Legislativa e qualquer de suas comissões, por sua iniciativa e mediante entendimento prévio com a Mesa Diretora, para expor assunto de relevância de sua Secretaria;
+VII - encaminhar à Assembleia Legislativa informações pedidas por escrito e especificadamente pela Mesa Diretora, importando crime de responsabilidade a recusa ou o não atendimento no prazo de trinta dias, bem como o fornecimento de informações falsas;
+VIII - propor ao Governador, anualmente, o orçamento da Secretaria;
+IX - delegar suas próprias atribuições, por ato expresso, aos seus subordinados, com anuência prévia do Governador.
+A propósito, reconhecendo a ilegitimidade do Secretário de Estado da Fazenda para figurar no polo passivo de mandado de segurança no qual se discute a exigibilidade de tributos, confiram-se os seguintes julgados:
+TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ICMS. ALEGAÇÃO DE COBRANÇA INDEVIDA DE ICMS SOBRE TUST E TUSD AUTORIDADE COATORA. SECRETÁRIO DE ESTADO. ILEGITIMIDADE PASSIVA.
+1. Trata-se, na origem, de Mandado de Segurança impetrado por Indústria de Compensados Sudati Ltda., ora recorrente, tendo como autoridade coatora o Secretário da Fazenda do Estado do Paraná, em virtude de incidência do ICMS sobre os valores cobrados pelo uso do sistema de distribuição e transmissão de energia elétrica.
+2. O Tribunal de origem entendeu que "o Secretário de Estado da Fazenda não possui legitimidade para figurar como autoridade coatora em mandados de segurança nos quais se discute a constituição e cobrança de tributos, isto porque o mesmo apenas orienta os órgãos subordinados a respeito da aplicação da lei no âmbito administrativo, não sendo este que ordena, tampouco pratica o ato de cobrança de tributos, agindo, portanto, apenas de maneira fiscalizatória" (fl. 224, e-STJ).
+3. Com efeito, o Secretário de Estado é o agente político livremente escolhido pelo Governador para auxiliá-lo na elaboração e implantação das políticas fiscais, o que não se confunde com lançamento, cobrança de ICMS ou análise de pedidos de restituição (RMS 29.478/PA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/6/2010).
+4. O STJ tem firme jurisprudência no sentido de que Secretário de Estado não possui legitimidade para figurar no polo passivo de Mandado de Segurança em que se discute incidência de tributos, "na medida em que referida autoridade apenas edita comandos gerais para a fiel execução da lei, não agindo diretamente na execução da lavratura de auto de infração tributária" (RMS 38.129/GO, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 18/5/2017, DJe 1º/8/2017. Nesse sentido: REsp 1.656.756/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/5/2017; RMS 49.806/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2016; AgInt no RMS 51.519/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 16/12/2016; RMS 43.239/GO, Rel. Ministro Gurgel de Faria, Primeira Turma, Je 11/5/2016; AgRg no RMS 38.355/MS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 2/8/2013.
+5. Agravo Interno não provido.
+(AgInt no RMS 64.072/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24/11/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. GLOSA DE CRÉDITOS. SECRETÁRIO DE ESTADO DA FAZENDA. ILEGITIMIDADE PASSIVA.
+1. Os recursos em mandado de segurança dirigidos ao Superior Tribunal de Justiça são apreciados em sede de jurisdição ordinária, o que enseja o conhecimento de ofício de questões de ordem pública, entre elas a alusiva às condições da ação, no caso, especificamente, a relacionada com a legitimidade passiva da autoridade apontada como coatora.
+2. O Superior Tribunal de Justiça tem-se pronunciado no sentido de que o Secretário de Fazenda do Estado não é parte legítima para figurar como autoridade coatora em mandados de segurança em que se discute a exigibilidade de tributos, não havendo falar, de outro lado, na possibilidade de encampação nem em eventual poder hierárquico sobre seus subordinados, uma vez que sua presença indevida no mandamus altera a competência para o julgamento da ação mandamental.
+3. "A jurisprudência deste STJ compreende não ser possível autorizar a emenda da inicial para correção da autoridade indicada como coatora nas hipóteses em que tal modificação implica em alteração de competência jurisdicional. Isso porque compete originariamente ao Tribunal de Justiça Estadual o julgamento de mandado de segurança contra Secretário de Estado, prerrogativa de foro não extensível ao servidor responsável pelo lançamento tributário" (AgInt no RMS 54.535/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 26/09/2018).
+4. Agravo interno não provido.
+(AgInt no RMS 53.867/MG, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 03/04/2019)
+TRIBUTÁRIO E ADMINISTRATIVO. RMS. COMPENSAÇÃO TRIBUTÁRIA. ILEGITIMIDADE PASSIVA DO SECRETÁRIO DE ESTADO.
+1. O writ foi impetrado com o objetivo de afastar a regra do RICMS do Estado de Minas Gerais que determina o estorno de créditos relativos à aquisição de mercadorias, cujas vendas subsequentes fossem realizadas com redução de base de cálculo.
+2. Segundo o art. 65, III, a, e VI, do RICMS do Estado de Minas Gerais, compete ao Chefe de Administração Fazendária Local o controle da operação de estorno de créditos, podendo, inclusive, solicitar documentação complementar.
+3. Portanto, o Secretário de Estado da Fazenda é parte ilegítima para figurar no polo passivo do mandado de segurança.
+4. Recurso ordinário em mandado de segurança não provido.
+(RMS 29.578/MG, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 22/09/2009, DJe 09/10/2009)
+Na espécie, o Tribunal Local denegou a segurança, por entender que "não obstante a declaração de inconstitucionalidade dos dispositivos que fundamentam o apontado ato coator, a eficácia desta declaração fora diferida, não havendo possibilidade de afastar a incidência dos parágrafos 10º e 11º da Cláusula Vigésima Primeira, do Convênio 110/2007, até o transcurso de 06 (seis) meses da publicação do acórdão de julgamento da ADI 4171, que ocorreu em 21/08/2015" (fl. 345).
+Assim, ainda que por fundamento diverso (ilegitimidade da autoridade apontada como coatora para figurar no polo passivo do presente mandamus), deve ser mantido o acórdão recorrido.
+ANTE O EXPOSTO, nego provimento ao recurso ordinário, nos termos da fundamentação.
+Publique-se.
