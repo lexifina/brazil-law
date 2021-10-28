@@ -1,0 +1,35 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, o qual manteve a decisão que julgou improcedente o pedido autoral em face do reconhecimento da prescrição. O acórdão restou assim ementado (eDOC 4, p. 71):
+    “Actio nata. Pensão por morte. Alteração do cargo e referência do instituidor da pensão, a resultar em aumento nos vencimentos e, depois, na pensão. Busca de receber diferenças retroativas à época desse reconhecimento. Descabimento. Prescrição quinquenal. Benefício devido desde cinco anos anteriores ao pedido administrativo. Pensão não paga mês a mês, mês a mês renova-se a lesão de direito. Ocorrência de prescrição parcelar, respeitado o lustro referido no Decreto 20.910/32. Recurso desprovido.”
+    Os embargos de declaração foram rejeitados (eDOC 5, p. 57/78).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta ofensa aos artigos 70; e 71, III, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 5, p. 36):
+    “(...) a jurisprudência consolidada do STF passou a se manifestar no sentido de exigir que o TCU e os TCEs, nos casos em que o controle externo de legalidade exercido pela Corte de Contas, homologuem o registro de pensões.
+    Nesses casos, conforme o entendimento fixado no presente julgado, o prazo de cinco anos deve ser contado a partir da data de chegada ao TCU e TCE do processo administrativo de pensão encaminhado pelo órgão de origem para julgamento da legalidade do ato concessivo de aposentadoria ou pensão e posterior registro pela Corte de Contas.”
+    Ao final, acrescenta-se que (eDOC 5, p. 36-37):
+    “In casu, como a fase de registro/concessão da pensão por morte se realizou há 44 anos (em 27/02/1976) e até o momento a Recorrida não encaminhou à Corte de Contas para análise, o V. Acórdão a quo que prescindiu dessa obrigatória homologação, venha permissa, está eivado de ilegal e inconstitucional.
+    Por fim, as Recorrentes fazem jus ao reconhecimento e declaração do inequívoco desvio de função perpetrado pela Fazenda Pública, em flagrante enriquecimento sem causa, com a consequente condenação da Recorrida ao pagamento dessas diferenças remuneratórias retroativas e apuradas entre o cargo de Médico I e Médico Legista - Referência 2-B, desde a requalificação/promoção àquela função de médico legista classe especial, naquela década de 50, com todos os reflexos, benefícios, adicionais e demais vantagens, inclusive sobre a gratificação natalina do período, a título de indenização, em valores a serem devidamente acrescidos de juros, correção monetária e demais consectários legais, por ocasião do efetivo pagamento, que será realizado em liquidação de sentença.”
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 279 do STF (eDOC 5, p. 94).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, quando do julgamento da apelação, asseverou que (eDOC 4, p. 74-77):
+    “As autoras buscam, agora, receber as diferenças desde 17/01/1959, data em que efetivamente o instituidor da pensão passou a exercer o cargo de Médico Legista, assim reconhecido pela Administração, fato também incontroverso.
+    Sem razão, no entanto, por aplicar-se o disposto no Decreto Lei nº 20.910/32, o qual dispõe em seu artigo 1º que as dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda Federal, Estadual ou Municipal, seja qual for a natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originaram.
+    Com efeito, foi afastada a prescrição do fundo de direito na esfera administrativa, tanto que o direito ao reenquadramento foi reconhecido, inclusive de forma retroativa, com efeito quinquenal.
+    E é mesmo de ser reconhecida a prescrição quinquenal, nos termos da Súmula 85 do E. Superior Tribunal de Justiça: nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação.
+    (…)
+    Além disso, descabida a aplicação do artigo 70, III da Constituição Federal, por se referir a servidores da União, mesmo porque o Tribunal de Contas da União não se imiscui em matéria de competência estadual.
+    Por outra, dispõe o artigo 54 da Lei nº 9.784/99, também referente ao processo administrativo no âmbito da Administração Pública Federal:
+    Art. 54. O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.
+    § 1º No caso de efeitos patrimoniais contínuos, o prazo de decadência contar-se-á da percepção do primeiro pagamento.
+    § 2º Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato.
+    Da mesma forma, os julgados trazidos sobre a necessidade de análise pelo Tribunal de Contas da União referem-se a servidores federais, sem cabida no caso em voga, sobre pensão instituída por servidor estadual.”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Lei Federal 9.784/99 e Decreto 20.910/32). Desse modo, a discussão referente à prescrição alegada no acórdão recorrido, revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “EMENTA: Agravo regimental em recurso extraordinário com agravo. 2. Ação de indenização contra a Fazenda Pública. Prazo prescricional. Decreto 20.910/1932. Matéria infraconstitucional. Ofensa indireta ao texto constitucional. 3. Alegação de ofensa ao
+    inciso IX do art. 93 da Constituição Federal. Inexistência. Precedente. AI-QO-RG 791.292. 4. Agravo regimental a que se nega provimento.” (ARE 798.346-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 29.4.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E ADMINISTRATIVO. PRESCRIÇÃO QUINQUENAL. DECRETO N. 20.910/1932. SUBSISTÊNCIA DO FUNDAMENTO DE NATUREZA INFRACONSTITUCIONAL. SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE-AgR 829.607, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.12.2014).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC e majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º e 3º do artigo 85, §11, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 28 de outubro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
