@@ -1,0 +1,21 @@
+DECISÃO
+PREVIDENCIÁRIO.  RECURSO  ESPECIAL. CONSECTÁRIOS  LEGAIS  DA  CONDENAÇÃO.  PERDA DO OBJETO.  RECURSO  ESPECIAL  DA  AUTARQUIA  FEDERAL  NÃO CONHECIDO.
+1.  Trata-se  de  recurso  especial  interposto  por  INSTITUTO  NACIONAL  DO  SEGURO  SOCIAL,  com  fundamento  no  art.  105,  inciso  III,  alínea  a,  da  CF/1988,  no  qual  se  insurge  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São  Paulo,  assim  ementado:
+ACIDENTÁRIA - APELAÇÃO INTERPOSTA PELO INSS - AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO - IMPOSIÇÃO DA LEI ESTADUAL 11.608103 - DESERÇÃO. "A ausência de comprovação do recolhimento do porte de remessa e retorno previsto pela Lei 11.608103 obsta o processamento de apelação interposta pelo INSS nas lides acidentárias".
+ACIDENTÁRIA - LESÕES POR ESFORÇOS REPETITIVOS NOS MEMBROS SUPERIORES - LIAME OCUPACIONAL E PREJUÍZO FUNCIONAL RECONHECIDOS - INDENIZABILIDADE.
+"Reconhecido tecnicamente que as lesões por esforços repetitivos que acometem os membros superiores do obreiro guardam liame com a atividade profissional desempenhada e efetivamente restringem a sua capacidade de trabalho, de rigor a concessão do auxílio-acidente com início a partir do dia seguinte ao da alta médica, ficando, entretanto, suspenso o pagamento no período posterior em que esteve o autor eventualmente no gozo de auxílio-doença relacionado ao mesmo mal. Os valores em atraso serão apurados na forma da Lei 8.213/91 com atualização pelo IGP-DI e acrescidos de juros de mora (estes à base mensal conforme Lei11.960/09). A renda mensal a ser implantada será reajustada pelos índices de manutenção".
+Apelação do INSS julgada deserta; sentença de procedência mantida em sede do reexame necessário com observações. (fls.  189/199).
+2.  Nas  razões  do  seu  recurso  especial  (fls.  238/246),  a  parte  recorrente  sustenta  a  violação  do  art.  31 da Lei 10.741/2003, do art. 41-A  da  Lei  8.213/1991,  do art. 5º  da  Lei  11.960/2009  e  do art.1º-F  da  Lei  9.494/1997.  A  rgumenta,  para  tanto,  que,a  partir  da  vigência  da  Lei  11.960/2009,  o  débito  deve  ser  corrigido  pela  Taxa  Referencial,  e  não  pelos  índices  IGP-DI  e  IPCA-E.
+3.  Devidamente  intimada,  a  parte  recorrida  deixou de apresentar  as  contrarrazões , conforme certidão de fls.  256.
+4. Na sequência, aparte recorridapeticionou manifestandoconcordância com o emprego da Taxa Referencial (TR), previstana Lei 11.960/2009 (fls. 266).
+5.  Após a devolução dos autos, a Turma  Julgadora ,  diante da expressa concordância da parte autora, retificou o  acórdão  recorrido, para que a correção monetária dos valores em atraso ocorra por meio da Taxa Referencial (TR) , nos  termos  da  seguinte  ementa:
+AÇÃO ACIDENTÁRIA - AUXÍLIO-ACIDENTE - CORREÇÃO DOS VALORES EM ATRASO - ADOÇÃO DA TR COMO FATOR DE ATUALIZAÇÃO DAS PARCELAS EM ATRASO - CONCORDÂNCIA DA PARTE AUTORA.
+"No caso concreto, face à expressa concordância da parte autora, a correção dos valores em atraso deverá se dar mediante emprego da Taxa Referencial (TR) como proposto pelo INSS".
+Acórdão retificado.(fls.  279).
+6.  O  recurso  especial  foi  admitido  na  origem  (fls.  287/288).
+7.  É  o  relatório.
+8.Nos termos do que decidido pelo plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+9. No caso dos autos, após a concordânciada parte autora, a Turma julgadora retificou o acórdão recorrido, para determinar que a correção monetária dos valores em atraso, a contar do termo inicial do benefício (17/09/2010),ocorra por meio da Taxa Referencial (TR), com base na Lei 11.960/2009.
+10. Assim, considerando que o recurso especial versa unicamente sobre o índice de correção monetária aplicável às parcelas vencidas, verifica-se que ocorreua perda do interesserecursal, vez que a pretensão dorecorrente foi acolhida.
+11.  Ante  o  exposto,  não conheço do recurso especial da autarquia federal.
+12.  Publique-se.  Intimações  necessárias.
