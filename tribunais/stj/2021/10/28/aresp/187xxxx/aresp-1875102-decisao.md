@@ -1,0 +1,61 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL. PÚBLICA. RECUPERAÇÃO DO MEIO AMBIENTE. OMISSÃO. NÃO OCORRÊNCIA. PRETENSÃO DEDUZIDA ANALISADA FUNDAMENTADAMENTE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL INTERPOSTO PELO MUNICÍPIO DO RIO DE JANEIRO.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto peloMUNICÍPO DE RIO DE JANEIRO, com fundamento no art. 105, III, alínea "a", da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. OCUPAÇÃO IRREGULAR. DANO AMBIENTAL. IMPROBIDADE AMBIENTAL NÃO CONFIGURADA. DOLO NÃO COMPROVADO. RECUPERAÇÃO AMBIENTAL DA ÁREA DEGRADADA. REMOÇÃO DAS CONSTRUÇÕES RECENTES.
+1 - Ação proposta em 2006 em face do Município do Rio de Janeiro e do então prefeito, Sr. Cesar Maia, visando conter a ocupação irregular na região do Alto da Boa Vista, em área de proteção ambiental.
+2 - A legislação municipal autoriza a ocupação na região do Alto da Boa Vista, sendo certo que durante a gestão do 2º réu foi implementado o programa de ECOLIMITES, implantando um cordão de isolamento nas comunidades em referência, mediante a fixação de cabos de aço, para evitar a expansão indevida dessas comunidades sobre o meio ambiente.
+3 - Conclusão do laudo pericial no sentido de que, inicialmente, o projeto atendia à sua finalidade e somente a partir do ano de 2010, quatro anos após a propositura desta demanda e nas gestões que sucederam à do 2º réu, a expansão desordenada de ocupações irregulares se agravou.
+4 - Sentença que condenou o Município do Rio de Janeiro na obrigação de fazer para fiscalizar e adotar medidas de contenção do processo de invasão e ocupação irregular com tempo igual ou menor a cinco anos e julgou improcedentes os demais pedidos.
+5 - Apelação do Ministério Público requerendo a redução do valor dos honorários periciais, a remoção das construções irregulares e o reflorestamento das áreas atingidas, com a recuperação da área degradada e indenização por dano moral ambiental, além da condenação do 2º réu na
+6 - Ausência de comprovação de má-fé e conduta dolosa do agente público a justificar a condenação por ato de improbidade.
+7 - A decisão que homologou os honorários periciais em R$ 111.496,00foi proferida na vigência do Código de Processo Civil de 1973 e restou preclusa, uma vez que não foi interposto recurso de agravo de instrumento no momento oportuno, sendo certo que o minucioso laudo elaborado sobre a vasta área periciada justifica o valor fixado.
+8 - Deve ser mantida a improcedência do pedido de indenização por dano ambiental, tendo em vista que o laudo pericial concluiu que as providências adotadas pelos demandados na época da propositura da demanda foram adequadas, sendo ponderados os planos ambiental, social e histórico-cultural.
+9 - Para a configuração do dever de indenizar é imprescindível a demonstração da existência de nexo de causalidade apto a vincular o resultado lesivo ao comportamento do agente causador do dano, não sendo possível conceder indenização por dano ambiental que somente foi efetivamente constatado cerca de quatro anos após a propositura da demanda.
+10 - A sentença, corretamente, condenou o Município do Rio de Janeiro na obrigação de fazer de fiscalizar e adotar medidas de contenção do processo de invasão e ocupação irregular com tempo igual ou menor a cinco anos, o que, por obvio, inclui a remoção das construções irregulares realizadas nesse período.
+11 - O pedido de reflorestamento e recuperação ambiental da área degradada merece ser acolhido, pois a perícia averiguou que o programa ECOLIMITE não vem sendo respeitado e que a degradação é evidente, não contando no universo documental formal a execução de projetos de reflorestamento e programa de recuperação de áreas degradadas.
+12-Evidente, portanto, que é necessário promover a recuperação ambiental a fim de que seja alcançada a integridade ecológica, uma vez que se trata deum mandamento constitucional o direito ao meio ambiente ecologicamente equilibrado e o dever de defendê-lo e preservá-lo para as gerações presentes e futuras.
+13 - A obrigação de fazer deverá ser cumprida em sede de liquidação de sentença, tendo em vista a complexidade das medidas que deverão ser adotadas pelo município.
+14 - Conhecimento e parcial provimento da apelação para condenar o Município do Rio de Janeiro a promover a recuperação ambiental da área degradada. (fls. 1.911/1.913)
+2. Os embargos de declaração opostos foram rejeitados (fls. 2.007/2.016).
+3. Nas razões do seu recurso especial (fls. 2.037/2.044), a parte agravante alega violação dos arts. 1.022, II, e 489, § 1º, IV,do Código de Processo Civil de 2015, argumentando, em síntese,que houve omissão do acórdão recorrido quanto à matéria relativa "às providênciasque vem sendo tomadas pelo ente municipal a fim de proteger e recuperar o meio-ambiente". (fl. 2042)
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 2.056/2.078).
+5. Sobreveio o juízo de admissibilidade negativo (fls. 2.103/2.109), fundado na inexistência de qualquer vício no aresto impugnado, razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+9.  Não obstante à alegada violação dos art. 1.022, II, e 489, § 1º, IV, do CPC/2015, verifico que a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade.
+10. Com efeito, a questão do reflorestamento ambiental foi analisada pela Corte local, com base no laudo pericial constante dos autos,conforme se verifica noseguinte trecho do acórdão impugnado:
+Com relação ao pedido de reflorestamento das áreas atingidas, com a recuperação da área degradada, verifica-se que o laudo pericial concluiu que, embora a degradação ambiental seja evidente, a verificação de ortofotos (1999 a 2012) não revelou gradiente de expansão considerável das comunidades da lide.
+Entretanto, assevera que o Poder Público deve intensificar a política de fiscalização/contenção e promover o reflorestamento das áreas atingidas, combater o uso indevido dos corpos d"água, realizar a coleta de lixo, instaurar a educação ambiental e implementar as medidas básicas mínimas de saneamento e de abastecimento de água.
+Transcreve-se as conclusões alcançadas pelo expert a fls. 1532/1536:
+(..).
+Nesse aspecto, portanto, deve ser provido o recurso, a fim de determinar o reflorestamento das áreas atingidas, uma vez que o laudo pericial apontou a permanência da degradação ambiental.
+De acordo com a jurisprudência do Superior Tribunal de Justiça, sedimentada no julgamento de recursos submetidos à sistemática dos processos representativos de controvérsia, "a responsabilidade por dano ambiental é objetiva, informada pela teoria do risco integral, sendo o nexo de causalidade o fator aglutinante que permite que o risco se integre na unidade do ato" (REsp nº 1.374.284/MG).
+Apesar da responsabilidade pelo dano ambiental ser objetiva, é imprescindível, para a configuração do dever de indenizar, a demonstração da existência de nexo de causalidade apto a vincular o resultado lesivo efetivamente verificado ao comportamento (comissivo ou omissivo) daquele a quem se repute a condição de agente causador.
+No caso, o laudo pericial concluiu que as providências adotadas pelos demandados na época da propositura da demanda foram adequadas, sendo ponderados os planos ambiental, social e histórico-cultural.
+Somente a partir de 2010, as administrações municipais deixaram de tomar as devidas providências para coibir as novas ocupações irregulares.
+Portanto, não há como se conceder indenização por dano ambiental que somente se iniciou anos após a propositura da demanda.
+(..).
+Embora se tenha constatado que, ao longo dos anos, o Programa ECOLIMITES não tenha se mostrado eficiente para conter o processo de expansão desordenada de ocupações irregulares na região, não restou configurada má-fé do agente público a justificar a condenação por ato de improbidade.
+Repita-se que, de acordo com o laudo pericial, inicialmente, o projeto atendia à sua finalidade e somente a partir do ano de 2010, nas gestões que sucederam à do 2º réu, a expansão desordenada de ocupações irregulares se agravou.
+(..).
+Analisadas todas as questões postas sub judice, deve ser dado parcial provimento ao recurso apenas para determinar o reflorestamento das áreas atingidas.
+Tal pedido merece ser acolhido, tendo em vista que a perícia averiguou que "o programa ECOLIMITE não vem sendo respeitado e que a degradação é evidente" (fls. 1246).
+E, ainda, informa que não consta no universo documental formal a execução de projetos de reflorestamento e programa de recuperação de áreas degradadas (fls.1273 e 1278)
+Transcreve-se, por oportuno, trecho do esclarecimento do perito, in litteris:
+(..).
+Evidente, portanto, que é necessário promover a recuperação ambiental a fim de que seja alcançada a integridade ecológica, uma vez que o direito ao meio ambiente ecologicamente equilibrado e o dever de defendê-lo e preservá-lo para as gerações presentes e futuras é um mandamento constitucional. (fls. 1920/1929, grifei)
+11. Diante disso, observoque julgamento diverso do pretendido, como na espécie, não implica necessariamente ofensa ao dispositivo de lei invocado.Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. ART. 1022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. ALEGADA DEMORA PARA SE FORNECER O FÁRMACO. DANO MORAL. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. ACÓRDÃO RECORRIDO QUE FIXOU A VERBA SUCUMBENCIAL COM BASE NA EQUIDADE. POSSIBILIDADE. PRECEDENTES. REDIMENSIONAMENTO EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. SÚMULA 7/STJ.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. (..)
+7. Agravo interno não provido(AgInt nos EDcl no REsp 1.870.490/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020).
+ADMINISTRATIVA. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. RECEBIMENTO DA PETIÇÃO INICIAL. ACÓRDÃO QUE CONSIGNA A PRESENÇA DE INDÍCIOS DA PRÁTICA DE NEPOTISMO. REVISÃO. IMPOSSIBILIDADE NO CASO DOS AUTOS. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - (..)
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão.
+III - (..)
+VI - Agravo Interno improvido(AgInt no REsp 1.839.659/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 11/02/2020, DJe 31/03/2020). (grifei).
+12. Assim, na espécie dos autos, não se verifica aocorrência de omissão do acórdão recorrido.
+13. Pelo exposto, conheço do agravo para não conhecer do recurso especial do MUNICÍPIO DO RIO DE JANEIRO.
+14. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+15. Publique-se. Intimações necessárias.
