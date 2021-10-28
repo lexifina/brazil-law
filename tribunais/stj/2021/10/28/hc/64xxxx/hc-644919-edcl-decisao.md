@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Ministério Público Federalà decisão de fls. 342-345, que não conheceu do habeas corpusmas, de ofício, concedeu a ordem para determinar a retificação do cálculo das penas dos pacientes, observando-se, como requisito objetivo, o cumprimento do percentual de 40% da condenação para fins de progressão de regime.
+O embargante aduz que (fls. 353-354):
+O Juízo de 1º grau prestou informações às e-STJ Fls. 220/221, 252/253 e 300/301, acompanhadas de documentos, tendo demonstrado, quanto aos Pacientes WAGNER e TIAGO, que ambos são reincidentes específicos, conforme certidões colacionadas, assim como noticiado, em relação ao PacientePEDRO, que foi determinado "o envio do feito para conclusão urgente para prolação de nova deliberação judicial acolhendo o pleito da Defesa diante da alteração de entendimento (fls. 141/144).".
+O Ministério Público Federal opinou pela prejudicialidade do writ, em relação ao Paciente PEDRO, e, com relação aos demais, pelo não conhecimento da impetração, ou, acaso conhecida, pela denegação da ordem (e-STJ fls. 333/339).
+Por respeitável decisão monocrática, o digno Ministro Relator não conheceu da impetração, concedendo, contudo, habeas corpus de ofício para determinar a retificação do cálculo das penas dos Pacientes, observando-se, como requisito objetivo, o cumprimento do percentual de 40% da condenação para fins de progressão de regime.
+Requer seja recebido e processadoeste recurso, conhecido e provido quanto ao mérito a fim deque seja sanada a omissão apontada, conferindo-lhe efeitos infringentes, para julgar prejudicado o writ em relação ao paciente PEDRO e, no tocante aos pacientes WAGNER e TIAGO, não ser conhecida a impetração, ou, acaso admitida, denegada a ordem.
+ADefensoria Pública do Estado de São Paulo oferece impugnação aos embargos declaratórios (fls. 367-373), sustentando a inadequação da via eleita e a improcedência do pedido de fundo.
+É o relatório. Decido.
+O recurso merece ser acolhido em parte.
+De fato, em uma análise mais acurada dos autos, consta,das informações prestadas pelo Tribunal de origem (Ofício n. 00120523/2021), que o Juízo de Execução da Comarca de Sorocaba proferiu decisão (fls. 293-296) deferindo o pedido de retificação do cálculo de penas, alterando-se a fração exigida para fins de progressão de regime, atinente ao delito hediondo ou equiparado para 40% (quarenta por cento), em favor doentão paciente PEDRO DE BARROS JÚNIOR.
+Desse modo, no tocante ao referido paciente, é de manifesta prejudicialidade o pedido formulado em razão da perda de objeto.
+Em relação aWAGNER DE OLIVEIRA eTIAGO ROBERTO DE ARRUDA FRANCA, passo à análise da insurgência ministerial.
+Impõe-se ressaltar que,conforme disposto na decisão embargada, por se tratar de pacientes condenados como reincidentes comuns, a teor do que constanos autos, não há como afastara aplicação do lapso temporal de 40% previsto no art. 112, V, da Lei de Execução Penalpara a progressão de regime.
+Tem-se, assim, que inexiste irregularidade sanável por meio dos aclaratórios no quanto à incidência do referido lapso temporal, uma vez que as questões controvertidas dos autos foram objeto da correspondente e concreta análise, inclusive com amparo na jurisprudência consolidada do STJ sobre a matéria, não padecendo, portanto,o decisum de vício apto a justificar o acolhimento do presente recurso, que, inclusive, não se presta para provocar o reexame da causa.
+Ante o exposto, acolho parcialmente os embargos de declaraçãotão somentepara julgar prejudicado o pedido do paciente PEDRO DE BARROS JÚNIOR.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
