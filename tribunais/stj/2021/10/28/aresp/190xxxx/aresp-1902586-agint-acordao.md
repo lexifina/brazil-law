@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Eduvaldo Andrade da Silva contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, em virtude da não impugnação especifica dos fundamentos da decisão de inadmissibilidade do recurso especial.
+Em suas razões, o agravante assevera que refutou de maneira efetiva, concreta e pormenorizada todos os termos da decisão agravada.
+Impugnação às fls. 617-623 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXAME DO MÉRITO DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM NO JUÍZO DE ADMISSIBILIDADE PRÉVIO. POSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO DESPROVIDO.
+1. Na linha dos precedentes desta Corte, o Tribunal de origem não ultrapassa os limites de sua competência quando, ao realizar o juízo prévio de admissibilidade, adentra o mérito do recurso especial. Assim dispõe a Súmula 123/STJ: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+2. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+De início, verifica-se que cabe à Presidência da Corte local examinar a admissibilidade do recurso especial, o que, por vezes, implica um exame superficial do próprio mérito, não significando invasão de competência. Assim dispõe a Súmula n. 123/STJ: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+Confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AUTORA.
+1. Consoante pacífica jurisprudência do Superior Tribunal de Justiça, é possível a incursão no mérito da lide pelo Tribunal local quando necessária à análise dos pressupostos constitucionais de admissibilidade do recurso especial, nos moldes do preconizado no enunciado n. 123 da Súmula desta Corte, sem que isso configure usurpação de competência, .
+2. Descabe falar em decisão surpresa quando o julgador, analisando os fatos, o pedido e a causa de pedir, bem ainda os documentos que instruem a demanda, aplica o posicionamento jurídico que considera adequado para a solução da lide. Precedentes.
+3. Para afastar a afirmação contida no acórdão atacado no sentido de que o documento de quitação carece de força probante, demandaria promover o revolvimento do acervo fático-probatório dos autos, o que é vedado nos termos da Súmula 7/STJ.
+4. Afasta-se o óbice aplicado na deliberação monocrática atinente à impossibilidade de verificação da questão afeta à prescrição, porém, mantem-se o desprovimento do reclamo por fundamentação diversa, pois rever a conclusão do Tribunal local quanto à inexistência de emenda à inicial, assim como ao fato de que a demora da citação decorreu dos próprios mecanismos de funcionamento da justiça, esbarra no óbice da Súmula 7/STJ, ante a necessidade de reexaminar o arcabouço fático-probatórios dos autos.
+5. Esta Corte de Justiça tem entendimento no sentido de que a incidência do referido óbice impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+6. Agravo interno provido em parte, mantido o desprovimento do reclamo por fundamento diverso.
+(AgInt nos EDcl no AREsp 1.186.144/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/06/2021, DJe 11/06/2021)
+Outrossim, observa-se que é dever da parte agravante combater especificamente os fundamentos da decisão agravada, demonstrando o desacerto do julgado que não admitiu o recurso especial, nos termos do que preconiza o art. 932, III, do Código de Processo Civil de 2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015, C/C ART. 253, PARÁGRAFO ÚNICO, I, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do CPC/2015, c/c art. 253, parágrafo único, I, do RISTJ). Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.669.204/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE COMPRA E VENDA. DECADÊNCIA. INAPLICABILIDADE. LESÃO. PREENCHIDOS OS REQUISITOS OBJETIVO E SUBJETIVO. RETORNO AO STATUS QUO ANTE. AGRAVO INTERNO SEM IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018)
+3. Idêntico raciocínio, por critério lógico, deve ser utilizado no julgamento do agravo interno interposto contra decisão em sede de agravo em recurso especial, máxime porque os argumentos do recurso colegiado devem impugnar justamente a temática dos pressupostos de admissibilidade apreciados no decisum unilateral, pressupostos estes, conforme salientado alhures, inseparáveis por natureza.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgInt no AREsp 1144143/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/06/2019, DJe 01/07/2019)
+No caso, constata-se que o recurso foi inadmitido pelos seguintes motivos: (i) por inexistência de afronta ao art. 489, § 1º, do CPC/2015, visto que a fundamentação do acórdão foi adequadamente exposta, não se amoldando a nenhum dos vícios elencados; (ii) quanto à alegação de cerceamento de defesa, ante a aplicação da Súmula n. 7/STJ; e (iii) no tocante aos arts. 28 e 29, I, II e IV, do CTB, pela não demonstração da ofensa aos dispositivos e incidência da Súmulas n. 7/STJ.
+De fato, o agravante, nas razões do agravo em recurso especial, não refutou os fundamentos da decisão recorrida, a despeito de afirmar que preencheu os requisitos de admissibilidade recursal e repisar a infringência aos dispositivos tidos por violados, limitando-se a garantir que o julgado invade a competência deste Superior Tribunal ao enfrentar o mérito recursal.
+Com efeito, à luz do princípio da dialeticidade, o recorrente deveria ter impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, sob pena de seu não conhecimento. Nessas circunstâncias, como não se desincumbiude tal ônus em sua insurgência, tem-se que é inadmissível o agravo em recurso especial interposto, não podendo ser apreciado por este Superior Tribunal.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
