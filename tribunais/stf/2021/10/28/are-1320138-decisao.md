@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE TÉCNICO ADMINISTRATIVA (GATA). EXTINÇÃO MEDIANTE REAJUSTE GRADUAL DO VENCIMENTO BÁSICO. LEI DISTRITAL 5.008/2012.
+    1. A Gratificação de Atividade Técnico-Administrativa (GATA) foi extinta pela Lei distrital 5.008/2012, que reestruturou as tabelas de vencimentos da Carreira Assistência Pública à Saúde do Distrito Federal, com a previsão de que tal extinção haveria de ser compensada com o recebimento de Vantagem Pessoal Nominalmente Identificada (VPNI), assegurando-se a irredutibilidade dos vencimentos.
+    2. O Supremo Tribunal Federal, no Tema 864 da repercussão geral (RE 905.357/RR) firmou tese jurídica no sentido de que a lei deve atender dois requisitos para aumento ao servidor público, a saber: (a) dotação na Lei Orçamentária Anual; (b) previsão na Lei de Diretrizes Orçamentária.
+    3. A Lei distrital não fixou a dotação orçamentária necessária para arcar com o aumento nos vencimentos dos servidores vinculados à Secretaria de Saúde do Distrito Federal, de modo que a ausência de dotação orçamentária para os reajustes atrai a aplicação da tese fixada no RE 905.357/RR.
+    4. Apelação conhecida e provida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta inobservância aos arts. 37 e 169 da CF.
+    O recurso não deve ser provido.
+    De início, pontuo que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado pelo Supremo Tribunal Federal, a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Ademais, para dissentir do acórdão recorrido, seria necessário reanalisar a legislação infraconstitucional aplicada ao caso, bem como proceder ao reexame de fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279 e 280/STF). Nesse sentido e sobre a mesma controvérsia: ARE 1.292.571-AgR, Rel. Min. Presidente; ARE 1.236.483-AgR, Rel. Min. Edson Fachin; e ARE 1.218.349-AgR, Relª. Minª. Rosa Weber.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+    Brasília, 28 de outubro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
