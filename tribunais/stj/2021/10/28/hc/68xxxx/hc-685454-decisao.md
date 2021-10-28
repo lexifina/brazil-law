@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Luciano da Silveira, em que se aponta como autoridade coatora a Oitava Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul.
+Consta dos autos que o paciente,mediante violência e grave ameaça, exercida com emprego de arma de fogo, subtraiu da vítima uma motocicleta, um capacete; uma mochila,uma calça de abrigo; uma camiseta; dois controles remotos; e chaves diversas, bens avaliados, em conjunto, em R$ 53.430,00 (cinquenta e três mil, quatrocentos e trinta reais), empreendendo fuga do local (fls. 13/17).
+Na sentença, o paciente foi condenado como incurso nos arts. 157, § 2º, I, e 61, I, ambos do Código Penal, à pena de 8 anos de reclusão, em regime fechado, e 30 dias-multa (fls. 29/38).
+Em sede de apelação, a defesa apontou ausência de provas para a condenação e pediu também o reexame da pena. A Oitava Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul deu parcial provimento ao apeloa fim de redimensionar a pena do paciente para 6 anos e 8 meses de reclusão, em regime fechado, e 10 dias-multa (fls. 39/52).
+Esta, a ementa do julgado (fls. 39/41):
+APELAÇÃO CRIME. CRIMES CONTRA O PATRIMÔNIO. ROUBOMAJORADO. PRELIMINAR. NULIDADE DO ATO DERECONHECIMENTO. INOCORRÊNCIA. REJEIÇÃO.
+O artigo 226 do CPP contém meras recomendações cuja eventual inobservância não se presta a acarretar a nulidade do reconhecimento procedido na fase inquisitorial, sobretudo quando repetido à luz do contraditório e ampla defesa. Ademais, eventuais vícios do inquérito policial não contaminam a ação penal que dele se origina. Precedentes do STF e desta Corte. Preliminar rejeitada.
+MATERIALIDADE E AUTORIA DEMONSTRADAS. PALAVRA DAVÍTIMA. SUFICIÊNCIA. CONDENAÇÃO MANTIDA.
+Os elementos de convicção colacionados demonstram a materialidade e a autoria do crime de roubo, revelando que o réu abordou o ofendido, mostrou-lhe a arma de fogo que trazia consigo e exigiu a entrega de sua motocicleta e demais pertences. Relevância da palavra da vítima à ausência de indicativos de que estivesse imputando ao ofensor prática que não tenha verdadeiramente ocorrido. Inexistência de indícios de relação de inimizade ou espírito de vingança entre ambos. Precedentes. Tese absolutória por insuficiência de provas rechaçada.
+MAJORANTE PELO EMPREGO DE ARMA. AFASTAMENTO. INVIABILIDADE.
+Para comprovar a majorante disposta no inciso I do §2º, do artigo 157, do Código Penal, é desnecessária a apreensão ou a realização de perícia na arma utilizada no roubo. Precedentes no sentido de que seu potencial lesivo pode ser evidenciado por outros meios probatórios, em especial a palavrada vítima.
+DOSIMETRIA DAS PENAS. CIRCUNSTÂNCIAS DO CRIME. REINCIDÊNCIA. MAJORANTE. EMPREGO DE ARMA. CONCURSODE AGENTES. EQUÍVOCO REDACIONAL. PREJUÍZO. INOCORRÊNCIA. MULTA CUMULATIVA. REDIMENSIONAMENTO.
+Pena-base fixada em 05 (cinco) anos de reclusão ante a negativação das circunstâncias em que praticado o crime. Premeditaçãopor parte do réu, encomenda da res furtiva e imposição de grave ameaça à vítima que não descrevem circunstâncias acidentais e extraordinárias do fato, senão particularidades integrantes da estrutura do tipo penal do artigo 157 do CP. Injustificado o distanciamento da basilar de seu mínimo legal, impositivo o redimensionamento da basilar para 04 (quatro) anos de reclusão. Sopesada a existência de três condenações criminais transitadas em julgado, vai mantido o agravamento de 01 (um) ano da corporal a título de reincidência. Constitucionalidade da agravante afirmada pelos Tribunais Superiores, descabendo falar em bis in idem. Majoração aplicada no patamar mínimo de 1/3 (um terço) em razão do emprego de arma pelo réu. Mero equívoco redacional ao indicar, também nesta fase dosimétrica, o reconhecimento da causa de aumento pelo concurso de agentes, sequer acarretando prejuízo ao condenado. Condenação definitiva que totaliza 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado. Pecuniária cumulativa redimensionada para 10 (dez) dias-multa, à razão unitária mínima, melhor adequando-se às circunstâncias do artigo 59 do CP e à situação econômico-financeira do condenado.
+PEDIDO DE LIBERDADE PROVISÓRIA. INDEFERIMENTO.
+Inadmitido o pleito liberatório na presente sede, visto que o recorrente foi condenado à significativa pena privativa de liberdade, em regime inicial fechado, o que ratifica a já decretada prisão no curso do processo com base na salvaguarda da ordem pública, somada, agora, à imperiosa necessidadede aplicação do ordenamento jurídico vigente.
+PRELIMINAR REJEITADA. APELO PARCIALMENTE PROVIDO. UNÂNIME.
+No presente writ, a defesa busca a redução dafração quanto à agravante dereincidência (fls. 3/12).
+Decisão deste Relator indeferindo a liminar (fls. 55/56).
+Parecer ministerialopinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 100/104).
+É o relatório.
+Na dosimetria, o Magistrado considerou para a reincidência a existência de três condenaçõestransitadas em julgado. Esta foi a fundamentação na sentença (fls. 36/37):
+ ..  Reconhecida a agravante da reincidência, elevo a pena em 12 meses, porque múltipla e em delitos graves, tornando-a provisória 6 anos de reclusão  .. .
+A Corte local redimensionou a pena-base para 4 anos de reclusão, em seu piso mínimo, por entenderque a elevação da pena havia sido feita por questões próprias do tipo penal. No entanto,manteve o aumento em 1 ano de reclusão pela agravante de reincidência, por estar a sentença fundamentada, de acordo com as provas dos autos, ou seja, pela reincidência, o Magistrado a quo sopesou a existência de três condenações criminais transitadas em julgado, a justificar, portanto, o agravamento da pena em 1 ano(fl. 50). Com efeito, entendo que não há ilegalidade, pois a dosimetria foi bem individualizada e a elevação da pena em face da agravante não se mostra desarrazoadaou desproporcional. Houve justificativa para tanto, e aCorte local também deixou expresso que a agravante diferenciacriminosos contumazes, que não compreenderam as finalidades da sanção imposta, daqueles que estão iniciando o contato com o mundo do delito(fl. 50).
+Nesse sentido:
+ ..
+VI - Consoante entendimento firmado pelo Superior Tribunal de Justiça, a aplicação de fração superior à 1/6, pelo reconhecimento das agravantes e das atenuantes genéricas, exige motivação concreta e idônea. In casu, houve fundamentação idônea a lastrear o valor fracionário utilizado em patamar diverso à 1/6 (um sexto), em razão de sua reincidência específica. Precedentes.
+ ..
+(HC n. 424.265/SP, Ministro Felix Fischer, Quinta Turma, DJe 16/4/2018)
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA DA PENA. REINCIDÊNCIA. FIXAÇÃO DE PERCENTUAL EM 1 ANO. AUSÊNCIA DE ILEGALIDADE.
+Ordem denegada.
