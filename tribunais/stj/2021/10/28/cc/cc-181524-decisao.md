@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante EPC DISTRIBUIDORA DE VEÍCULOS LTDA - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP e o JUÍZO DA 61ª VARA DO TRABALHO DE SÃO PAULO - SP.
+Ação em trâmite no juízo cível: recuperação judicial da suscitante.
+Ação em trâmite na Justiça do Trabalho: reclamatória, ajuizada por KLEBER RUFATTO.
+Conflito de competência: alega, em síntese, que o juízo recuperacional é o único competente para dispor sobre o destino do acervo patrimonial de empresas em recuperação judicial. Pleiteia, liminarmente, a suspensão dos efeitos da decisão que determinou a liberação de depósitos recursais nos autos da ação n. 0002323- 85.2015.5.02.0061.
+Tutela antecipada: deferida às fls. 86/87, e-STJ.
+Informações do Juízo de Direito da 2ª Vara de Falências e Recuperação Judicial de São Paulo/SP às fls. 94-284 (e-STJ).
+Informações do Juízo da 61ª Vara do Trabalho de São Paulo/SP às fls. 289-291 (e-STJ).
+Parecer do MPF: manifestou-se pelo conhecimento do conflito a fim de ser declarada a competência do juízo da recuperação, do Juízo de Direito da 2ª Vara de Falências e Recuperação Judicial de São Paulo/SP.
+É O RELATÓRIO. DECIDO.
+Depreende-se dos autos que o processo de recuperação judicial da empresa EPC DISTRIBUIDORA DE VEÍCULOS LTDA - EM RECUPERAÇÃO JUDICIAL está em regular andamento perante o Juízo de Direito da 2ª Vara de Falências e Recuperação Judicial de São Paulo/SP. De outro lado, observa-se que o Juízo trabalhista autorizou o levantamento de valores referentes aos depósitos recursais efetuados pela suscitante.
+Como é sabido, a jurisprudência desta Corte pacificou-se no sentido de que os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo juízo universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei 11.101/05, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, mesmo que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação.
+Sobre o tema, confiram-se: AgInt nos EDcl no CC 165.079/SP, SEGUNDA SEÇÃO, DJe 08/05/2020; AgInt nos EDcl no CC 165.415/SP, SEGUNDA SEÇÃO, DJe 02/12/2019; EDcl no CC 133.470/SP, SEGUNDA SEÇÃO, DJe 03/09/2015; CC 101.477/SP, SEGUNDA SEÇÃO, DJe 12/05/2010.
+Dessa forma, o Juízo perante o qual tramita o processo de recuperação judicial da empresa devedora é o competente para o exame de quaisquer atos que impliquem em constrição ou expropriação patrimonial da massa, sendo certo que os valores eventualmente constritos pelo Juízo Laboral devem ser colocados à disposição do Juízo Universal, a quem competirá analisar eventual pedido de levantamento.
+Outrossim, "Ao juízo universal compete a análise do caráter extraconcursal das dívidas da empresa em recuperação, (..) bem como o exame da essencialidade, para as atividades da sociedade recuperanda, dos bens pretendidos pelo credor" (AgInt no CC 143.203/GO, SEGUNDA SEÇÃO, DJe 30/05/2018).
+No mesmo sentido, ressaltou o Parquet em sua promoção, que "A orientação predominante no Superior Tribunal de Justiça é no sentido de ser da competência do Juízo da Recuperação Judicial a decisão acerca do destino das verbas referentes à empresa falida ou em recuperação, bem como dos atos que impliquem em restrição patrimonial da empresa".
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA A PRÁTICA DE ATOS EXECUTÓRIOS OU CONSTRITIVOS.
+1. Nos termos da jurisprudência consolidada desta Corte, é competente o juízo universal para a prática de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação.
+2. Conflito conhecido. Estabelecida a competência do Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP.
