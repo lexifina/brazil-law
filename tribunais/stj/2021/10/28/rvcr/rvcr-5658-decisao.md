@@ -1,0 +1,12 @@
+DECISÃO
+MATHEUS NASCIMENTO VIEIRA DE SOUZA ajuíza revisão criminal contra a decisão proferida por esta Corte no AREsp n. 1.714.375/SP, que conheceu do agravo e deu provimento ao recurso especial defensivo apenas para afastar as circunstâncias judiciais desfavoráveis, de modo a estabelecer a pena para o crime de roubo circunstanciado em 5 anos e 4 meses de reclusão, em regime semiaberto.
+Em suas razões, alega a defesa que existem contradições nos depoimentos das testemunhas e da vítima, bem como não houve a regular defesa técnica do réu, circunstâncias que, em sua ótica, impossibilitam a manutenção da condenação. Além disso, assinala a ausência dos requisitos para a configuração da majorante relativa ao concurso de agentes.
+Requer, diante disso, a anulação da condenação ou, subsidiariamente, a desclassificação do roubo majorado para furto simples, com a consequente redução da pena e imposição do regime aberto.
+Ouvido, manifestou-se o Ministério Público Federal pelo não conhecimento da revisão criminal, ao argumento de que as questões ventiladas nesta oportunidade não foram objeto de análise por esta Corte (fls. 55-57).
+Decido.
+Com razão o Ministério Público Federal. Embora o requerente haja apontado a existência de decisão desta Corte, proferida em agravo em recurso especial, a qual examinou o mérito da demanda formulada no próprio especial, é forçoso reconhecer, tal como destacou o Parquet Federal, o não cabimento do pedido revisional em relação aos temas suscitados.
+De fato, conforme a firme orientação deste Superior Tribunal, "não cabe revisão criminal quando a matéria nela tratada não coincide com aquela discutida no julgado que se pretende rescindir, nos termos do art. 240 do RISTJ" (AgRg na RvCr n. 3.716/SP, Rel. Ministro Rogerio Schietti, DJe 7/11/2016).
+Na espécie, como bem pontuou o parecerista, observa-se do conteúdo da decisão que julgou o agravo em recurso especial, que a discussão foi limitadaà apreciaçãodos critérios de fixação da pena e do regime prisional.
+Assim, não houveo exame pela decisão impugnada, em nenhum momento,das questões que são levantadas pela defesa nesta oportunidade (nulidades no processo e desclassificação), situação que acaba por impossibilitar o conhecimento da presente via revisional, nos termos do art. 240 do RISTJ.
+À vista do exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço desta revisão criminal.
+Publique-se e intimem-se.
