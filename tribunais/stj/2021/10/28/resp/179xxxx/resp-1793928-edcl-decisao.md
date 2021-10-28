@@ -1,0 +1,28 @@
+DECISÃO
+O Ministério Público Federal opõe embargos de declaração à decisão de fls. 1.051-1.053. Aponta a premissa equivocada da decisão, uma vez que a conduta do embargado foi praticada sob a vigência da Lei n. 13.497/2017, que passou a prever como crime hediondo a posse ou o porte de arma de fogo de uso restrito ou proibido.
+Intimada, a parte embargada pugnou pela rejeição dos aclaratórios. Assinalou que "as denúncias e as investigações realizadas em desfavor do embargado, tiveram início no mês de setembro do ano de 2017" (fl. 1.068), antes da vigência da Lei nº 13.497/2017, a qual entrou em vigor no dia 26/10/2017
+Decido.
+Socorre razão ao embargante.
+A Lei 13.497/2017 alterou a Lei 8.072/1990 para incluir, no rol dos crimes hediondos (art. 1º, parágrafo único), o crime de posse ou porte ilegal de arma de fogo de uso restrito ou proibido.
+À época, o art. 16 da Lei n. 10.826/2003 (com redação anterior à Lei n. 13.964/2019, assim definia o crime de posse ou porte ilegal de arma de fogo de uso restrito consistia em:
+Art. 16. Possuir, deter, portar, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob sua guarda ou ocultar arma de fogo, acessório ou munição de uso proibido ou restrito, sem autorização e em desacordo com determinação legal ou regulamentar.
+Como bem esclareceu o Ministério Público Federal, a Lei 13.497/2017 entrou em vigor na data de sua publicação, em 26/10/2017. Os crimes imputados ao réu ocorreram em data não especificada, sendo certo que são de natureza permanente eperduraram até o 16/11/2017, quando policiais apreenderam diversos artefatos bélicos em seu poder.
+Assim, está equivocada a premissa da decisão embargada, pois não houve aplicação retroativa de lei penal mais gravosa ao apenado.
+Devem ser acolhidos os embargos de declaração, com efeitos infringentes, para tornar sem efeito a decisão de fls. 237-240.
+Passo ao novo exame do recurso especial.
+Sem razão o recorrente quando afirma que "para a caracterização da hediondez do crime em comento, deveria ter ocorrido a apreensão de arma de fogo de uso restrito" (fl. 1018). Na hipótese, verifica-se do laudo pericial que o réu possuía acessórioe oito munições de uso proibido ou restrito (fl. 1.070). O delito, de natureza permanente, ocorreu até a data de sua interrupção e apreensão dos itens proibidos.
+O que caracteriza a hediondez prevista na Lei 13.497/2017 é a prática do crime que o legislador intitulou de posse ou porte ilegal de arma de fogo de uso restrito, de ação múltipla e que tipifica diversas condutas. Confira-se: "Consideram-se também hediondos o crime de  ..  de posse ou porte ilegal de arma de fogo de uso restrito, previsto no art. 16 da Lei n. 10.826, de 22 de dezembro de 2003".
+À época, assim era definido o delito em apreço:
+Posse ou porte ilegal de arma de fogo de uso restrito
+Art. 16. Possuir, deter, portar, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob sua guarda ou ocultar arma de fogo, acessório ou munição de uso proibido ou restrito, sem autorização e em desacordo com determinação legal ou regulamentar:
+Mesmo após a redação dada pela Lei n. 13.964/2019, o legislador continuou a definir:
+Posse ou porte ilegal de arma de fogo de uso restrito
+Art. 16. Possuir, deter, portar, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob sua guarda ou ocultar arma de fogo, acessório ou munição de uso restrito, sem autorização e em desacordo com determinação legal ou regulamentar.
+Todos os comportamentos previstos no art. 16, caput, da Lei n. 10.826/2003 caracterizam o crime que recebe o nomen iuris de posse ou porte ilegal de arma de fogo de uso restrito, de natureza hedionda. E, consoante a moldura fática da sentença, mantida em segundo grau, "restou configurado o delito previsto no caput do artigo 16 do Estatuto de Desarmamento" (fl. 794).
+Este Superior Tribunal já decidiu que a "Lei n.º 13.497/2017  ..  não restringiu a natureza hedionda do crime de posse ou porte ilegal de arma de fogo de uso restrito, do que se depreende que tal natureza se estende a todas as condutas narradas no art. 16 da Lei n. 10.826/2003" (AgRg no HC 460.910/PR, Rel. Ministro Jorge Mussi, 5ª T.,DJe 28/11/2019).
+No mais, é importante esclarecer que a conduta do réu não está descrita nas figuras posteriormente incluídas no tipo penal, compenas equiparadas ao crime de posse ou porte de arma de fogo de uso restrito, previstas no parágrafo único do art. 16 do Estatuto, com redação dada pela Lei n. 13.964/2019.
+Mais uma vez,reitero que não houve aplicação retroativa da alteração da Lei de Crimes Hediondos, de 26/10/2017, pois o crime imputado ao réu é permanente e ainda estava ocorrendo, em 16/11/2017, quando policiais apreenderam artefatos bélicos em seu poder. Por isso, a tese defensiva, não prequestionada na origem, não pode ser acolhida.
+Finalmente,o simples fato de possuir acessório e munições de uso restrito, mesmo que desacompanhada da arma de fogo respectiva, caracteriza o delito previsto no art. 16 da Lei n. 10.826/2003, pois o tipo penal é de perigo abstrato. Não há de se cogitar, ainda, de aplicação do princípio da insignificância, pois o réu ocultava e tinha em depósito "um verdadeiro arsenal de armas, munições e acessórios" (fl. 164), o que não pode ser considerado um irrelevante penal.
+À vista do exposto, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito a decisão de fls. 1.051-1.053.
+Em novo julgamento do recurso especial, nego-lhe provimento, mantendo inalterado o acórdão recorrido.
+Publique-se e intimem-se.
