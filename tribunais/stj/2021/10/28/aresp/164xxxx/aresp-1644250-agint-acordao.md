@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região).
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Itau Unibanco S.A., desafiando decisão que negou provimento ao agravo emrecurso especial, sob os fundamentos de que: (I) aplica-se a Súmula 284/STF, tendo em vista que a alegação de ofensa ao art. 1022 do CPC se fez de forma genérica, sem demonstrar os pontos pelos quais o acórdão recorrido se fez omisso, obscuro ou contraditório; (II) o acórdão recorrido está em conformidade com o entendimento do Superior Tribunal de Justiça, no que diz respeito à inaplicabilidade da retroatividade benéfica prevista no art. 106 do CTN, que não se aplicaàs multas administrativas; (III) incide a Súmula 7/STJ, pois a verificação de ofensa a dispositivo da LINDB, na hipótese, demanda o reexame de matéria fático-probatória; e (IV) a questão da validade ou não da Certidão de Dívida Ativa que instrui a execução fiscal foi dirimida com base nas provas dos autos, atraindo o óbice da Súmula 7/STJ.
+Inconformada, a parte agravante, em suas razões, sustenta que: (I) deve ser afastada a Súmula 284/STJ porquanto foi explicitada a violação ao art. 1022 do CPC; (II)"quanto à nulidade formal da Certidão de Dívida Ativa expedida contra o Agravante, não exige a reanálise de fatos e provas dos autos, não havendo que se falar na incidência do óbice da Súmula 7 do STJ." (fl. 406); e (III) no que se refere ao art. 106 do CTN, "cabe esclarecer que esta Eg. CORTE já julgou processos análogos cujo desfecho jurídico não encontrou os óbices postes nestes autos." (fl. 406).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+A parte agravada apresentou impugnação (fls. 361/364), na qual requer o nãoprovimento do agravo interno.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. MULTA ADMINISTRATIVA.AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos, o presente agravo interno não comporta conhecimento.
+De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."). Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP, Relator Ministro Luis Felipe Salomão, DJe de 30/11/2018).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgado e de que haveria concordância com o restante (AgInt no REsp 1.518.882/SC, Rel. Ministro Sérgio Kukina, DJe 21/02/2019; AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, , REPDJe 4/10/2018).
+Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+Pois bem, nas razões do agravo interno em exame, não se impugnou a aplicação da Súmula 7/STJ, relativamente à suposta ofensa ao art. 2º, § 1º, da LINDB.
+Nesse contexto, incide a Súmula 182/STJ.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
