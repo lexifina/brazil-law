@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especialinterposto contra acórdão assim ementado (e-STJ fl. 341):
+Embargos à execução. Despesas condominiais. Despesas condominiais que, tendo natureza propter rem, oneram a própria unidade condominial. Entendimento consolidado pelo C. STJ, por meio do Recurso Especial Repetitivo1.345.331/RS, no sentido de que a efetiva posse do imóvel, com a entrega das chaves, define o momento a partir do qual surge para o condômino a obrigação de efetuar o pagamento das despesas condominiais. Tese, no entanto, que foi interpretada pela própria Corte Superior, no Recurso Especial 1.442.840/PR, à luz da teoria da dualidade das obrigações. Caráter propter rem da obrigação que sobreleva em razão do interesse da coletividade, conforme entendimento daquela Corte. Recurso provido.
+Os embargos de declaração foram rejeitados(e-STJ fls. 361/366).
+Norecurso especial (e-STJ fls. 368/383), fundamentado no art. 105, III, "c", da CF, os recorrentes defendem "que é a efetiva posse do imóvel, com a entrega das chaves, que define o momento a partir do qual surge para o condômino a obrigação de efetuar o pagamento das despesas condominiais" (e-STJ fl. 374).
+Buscam seja aplicada aorientação jurisprudencial firmada no Tema n. 886 do STJ, julgado sob o rito dos recursos repetitivos.
+Insurgem-se quanto à cobrança de encargos condominiais referentes a período anterior ao recebimento das chaves, correspondente a imóvel novo, adquirido em construção, pugnando pelo reconhecimento de sua ilegitimidade passiva.
+Ao final, pedem o provimento do recurso, a fim de que seja restabelecida a sentença de primeiro grau.
+Foram apresentadas contrarrazões (e-STJ fls. 433/438).
+O recursofoi admitido na origem, nos termos da decisão de fls. 439/441 (e-STJ).
+É o relatório.
+Decido.
+As razões recursais limitam-se a alegar, de forma genérica, que deve ser aplicado ao caso oTema n. 886do STJ,que,sob o rito dos recursos repetitivos, firmou a seguinteorientação jurisprudencial:"o que define a responsabilidade pelo pagamento das obrigações condominiaisnão é o registro do compromisso de compra e venda, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do condomínio acerca da transação". Requerem, seja reconhecida a ilegitimidade passiva dos recorrentes, sem indicar, contudo, os dispositivoseventualmente descumpridos, o que caracteriza deficiência nafundamentação,de acordo com aSúmula n. 284 do STF: "Éinadmissível orecurso extraordinário, quando a deficiência na sua fundamentação nãopermitir a exata compreensão da controvérsia."A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER C/C NULIDADE DE CLÁUSULA CONTRATUAL E INDENIZAÇÃO POR DANOS MORAIS.DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alegada afronta a lei federal não foi demonstrada com clareza, pois a ausência dos dispositivos legais indicados como violados impede o conhecimento do recurso especial, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula nº 284 do STF.
+3. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+4. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.838.011/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021.)
+No que se refere aodissensojurisprudencial, oconhecimento do recursopela alínea "c" do permissivo constitucional exige a indicação dodispositivo legal ao qual foi atribuída interpretação divergente, bem comoa demonstração do dissídio, mediante o cotejo analítico entre o acórdãorecorrido e os paradigmas.Contudo, aparterecorrentenão indicou o o artigo de leia que teria sidoconferidaa suposta interpretaçãodissonante.Incide, portanto, a Súmulan. 284/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.DANOS MORAIS. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N.284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula n. 284/STF.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.888.693/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/09/2021, DJe 04/10/2021.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem emfavor da parte recorrida, observando-se os limites dos §§ 2º e 3º doreferido dispositivo, bem como eventual concessão dos benefícios dajustiça gratuita.
+Publique-se e intimem-se.
