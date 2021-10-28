@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de KARTHLYEN MORGANA ALMEIDA FERREIRA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Agravo em Execução Penal n. 0016128-11.2018.8.24.0038).
+O acórdão do agravo em execução foi assim ementado (fl. 12):
+AGRAVO EM EXECUÇÃO. FALTA GRAVE RECONHECIDA PELO DIRETOR DA UNIDADE PRISIONAL. CHIP DE CELULAR ENCONTRADO NA POSSE DO AGRAVADO. JUIZ DA EXECUÇÃO QUE INDEFERIU PEDIDO DO MINISTÉRIO PÚBLICO DE DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO E DE EVENTUAL REGRESSÃO DE REGIME, SOB O ARGUMENTO DA AUSÊNCIA DE JUSTA CAUSA PARA INICIAR RESPECTIVO PROCEDIMENTO. INSURGÊNCIA MINISTERIAL. PLEITO DE HOMOLOGAÇÃO DO PAD. CONTROLE DE LEGALIDADE. O EXAME DEVE FICAR ADSTRITO À REGULARIDADE DO TRÂMITE DO PROCEDIMENTO ADMINISTRATIVO. APURAÇÃO DO FATO PELO DIRETOR DO ESTABELECIMENTO PRISIONAL, SEM QUALQUER MÁCULA. CONDUTA QUE SE ENQUADRA NA PREVISÃO LEGAL DO ART. 50, VII, DA LEP. PRECEDENTES. FALTA GRAVE RECONHECIDA. PAD HOMOLOGADO. NECESSIDADE DE ANÁLISE, PELO MAGISTRADO A QUO, DOS PEDIDOS DE REGRESSÃO DE REGIME, DE MODIFICAÇÃO DA DATA-BASE E DE PERDA DOS DIAS REMIDOS, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. RECURSO CONHECIDO E PROVIDO.
+O Juízo da execução penal não reconheceu como falta grave, praticada pelo paciente, a posse de um chip de celular e indeferiu requerimento ministerial de designação de audiência de justificação.
+O Ministério Público interpôs agravo em execução, que restou conhecido e provido.
+A impetrante sustenta que (fls. 7-10):
+Cumpre destacar que o entendimento desta Corte é no sentido de possibilitar ao Juízo da execução a revisão judicial e o exame de valoração judicial para fins de reconhecimento ou não de falta disciplinar.
+(..)
+Por certo, no âmbito da execução penal, não faz sentido algum preservar uma decisão ilegal do Diretor do Estabelecimento em homenagem à "separação de poderes". Não se está diante de uma decisão político-administrativa própria do Poder Executivo que deva ser preservada por sua legitimidade decorrente da representatividade democrática.
+E, ainda, está em jogo a liberdade do cidadão. Ora, nessa situação, o controle jurisdicional, como instância garantidora das promessas constitucionais, não somente é possível, como indispensável.
+(..)
+Segundo Art.50, inciso VII da LEP, in verbis:
+Art. 50. Comete falta grave o condenado à pena privativa de liberdade que:
+VII -tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo.
+De fato, no referido dispositivo está expresso que constitui falta grave a posse de aparelho celular e não a posse de Chip de aparelho celular. Dessa forma, permissa vênia, não se pode fazer uma interpretação analógica in malam partem, isto é extensiva em malefício do assistido. "O que a lei não distingue, não cabe ao intérprete distinguir", sobretudo em Direito Penal onde não se pode dar uma interpretação extensiva contra o réu.
+(..)
+Pelas razões expostas, ao contrário da posição firmada no acórdão, está claro que ao Poder Judiciário é conferido o poder-dever de revisar a decisão que reconhece a falta disciplinar pelo diretor do estabelecimento prisional. Assim, diante do fundamento manifestamente ilegal, necessária a manutenção da decisão do juízo de piso, a fim afastar o reconhecimento das práticas de falta graves apuradas no incidente disciplinar n. 542/2018.
+Requer "que seja declarada a nulidade da fundamentação utilizada pela Quinta Câmara Criminal do TJSC, para o fim de não homologar o incidente disciplinar n. 0542/2018" (fl. 10).
+Prestadas as informações (fls. 78-83 e 84-134), o Ministério Público Federal opinou pelo não conhecimento do writ (fl. 138).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Juízo de Execução não reconheceu, como falta disciplinar grave, a posse, pelo apenado, de um chip de celular, nos seguintes termos (fl. 50):
+Pelo que se trouxe até o momento, o reeducando estava na posse de 03 chips de aparelhos celular. Nada mais se amealhou no respectivo procedimento administrativo.
+Pois bem. na espécie, o chip não se trata de aparelho telefônico, rádio ou similar, sendo impossível a comunicação sem o utilitário respectivo.
+Por sua vez, o Tribunal de origem reformou a decisão singular, adotando os seguintes fundamentos (fls. 20-24):
+Isso posto, ao se analisar o procedimento disciplinar em comento, denota-se sua total regularidade, eis que devidamente instaurado pelo diretor do estabelecimento prisional (fls. 395), além de ser assegurado, ao reeducando, o direito ao contraditório e à ampla defesa, como dantes mencionado (fls. 401-403).
+Ainda, a decisão final também foi tomada pelo diretor, e a falta grave reconhecida, eis que a autoridade competente para tal (fls. 408).
+Nesse sentido, destaca-se o consignado no mencionado Recurso Especial nº 1.378.557/RS: "..no âmbito da execução penal, a atribuição de apurar a conduta faltosa do detento, assim como realizar a subsunção do fato à norma legal, ou seja, verificar se a conduta corresponde à uma falta leve, média ou grave, é do diretor do presídio, em razão de ser o detentor do poder disciplinar..". (Rel. Min. Marco Aurélio Bellize, 3ª Seção, j. em 23/10/2013).
+Destarte, verifica-se que a tramitação do Processo Administrativo Disciplinar observou fielmente o enunciado da Súmula n. 533 do Superior Tribunal de Justiça, pela qual "para o reconhecimento da prática de falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurada o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado."
+Assim, a atuação do Juízo, nas hipóteses como a deste recurso, restringe-se meramente ao controle de legalidade dos procedimentos administrativos disciplinares. Ao tratar deste controle, destacam Júlio Fabbrini Mirabete e Renato N. Fabbrini:
+ ..
+E, no caso em questão, razão assiste ao órgão ministerial na insurgência apresentada, pois, ao reverso do entendimento exarado pelo juiz da Execução, a posse de chip de celular configura falta grave.
+ ..
+Como se viu, a análise do mérito da conduta já foi devidamente realizada pelo diretor da Penitenciária Industrial de Joinville, que concluiu pelo reconhecimento de falta grave no referido incidente disciplinar (fls. 408).
+Com efeito, deve-se reformar a decisão de primeiro grau, para homologar o PAD, ficando reconhecida a falta grave e imputar ao agravado as respectivas sanções dela decorrentes.
+O entendimento do Tribunal de origem encontra-se em consonância com o desta Corte Superior no sentido de constituir-se falta grave a posse de aparelho celular e de seus componentes essenciais, pelo então apenado, mesmo que de forma isolada, como no caso ocorrente à espécie.
+Ainda, o Tribunal a quo, soberano na análise dos fatos e das provas dos autos, concluiu que a paciente cometera falta disciplinar de natureza grave por portar um chip de aparelho celular, nos termos do art. 50, VII, da Lei de Execução Penal. Ainda,
+Para alterar o entendimento das instâncias ordinárias nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. CARACTERIZAÇÃO. PLEITO DE ABSOLVIÇÃO. VIA IMPRÓPRIA. DESCLASSIFICAÇÃO PARA FALTA MÉDIA. REITERAÇÃO DA PRETENSÃO FORMULADA NO HC N. 564.773/SP. AGRAVO DESPROVIDO.
+1. O exame da tese de não configuração da falta grave, com vistas à absolvição do Paciente, não se coaduna com a via estreita do habeas corpus, dada a necessidade de incursão na seara fático-probatória.
+2. "É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/09/2019, DJe 18/09/2019).
+3. Agravo desprovido. (AgRg no HC n. 612.037/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/10/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ART. 50, VII, DA LEP. ABSOLVIÇÃO. IMPOSSIBILIDADE. DEMANDA AMPLO REVOLVIMENTO FÁTICO-PROBATÓRIO. INCOMPATÍVEL COM A VIA ELEITA. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, como decidido anteriormente, não se verifica flagrante ilegalidade no reconhecimento de falta disciplinar, prevista no art. 50, VII, da Lei de Execuções Penais, em desfavor do agravante, tendo em vista que ocorreu em regular procedimento administrativo disciplinar, com observância dos princípios da ampla defesa e do contraditório, de forma que rever o posicionamento das instâncias ordinárias demandaria amplo revolvimento fático-probatório, incompatível com a via estreita do writ.
+III - Nesse sentido, "Segundo entendimento da Terceira Seção deste Tribunal Superior, a posse de aparelho celular, bem como de seus componentes essenciais, tais como "chip", carregador ou bateria, isoladamente, constitui falta disciplinar de natureza grave após o advento da Lei n. 11.466/2007" (HC n. 395.878/PR, Quinta Turma, Rel. Min. Félix Fischer, DJe de 1º/8/2017).
+IV - In casu, no mais, a d. Defesa se limitou a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada. Agravo regimental desprovido. (AgRg no HC n. 664.000/SC, relator Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Quinta Turma, DJe de 30/8/2021.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
