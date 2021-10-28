@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Emerson Alves Leite - cumprindo pena privativa de liberdade em razão de condenações pela prática dos crimes de latrocínio e furto qualificado-, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem ali impetrada (Habeas Corpus n. 2210552-74.2021.8.26.0000), mantendo a decisão do Juízo de Direito da 1ª Vara de Execuções Criminais da comarca de Araçatuba/SP, que, ao apreciar pedido de progressão de regime prisional formulado pela defesa, determinou a realização de exame criminológico (Autos n. 0003038-89.2021.8.26.0032).
+Daí porque o impetrante alega queo que se pretende aqui é apenas o afastamento de um exame criminológicofixado pela Douta autoridade coatora para análise de livramento condicional, todavia, sem adevida fundamentação para a requisição da perícia, matéria estritamente de direito, perfeitamente perscrutável, portanto, por meio do presente mandamus (fl. 6), de modo que inexiste fundamento concreto à realização do exame criminológico, tendo sua exigência se lastreado apenas em alegação genérica de que não há elementos aptos a concluir pelo merecimento do benefício (fl. 14).
+Postula, então, a concessão liminar da ordem para que seja deferida a progressão de regime ao paciente, independente da realização da perícia.
+É o relatório.
+O presente pedido comporta pronto acolhimento.
+De fato, o Juízo de primeiro grau, ao indeferir a progressão de regime e determinar a realização de exame criminológico, limitou-se a afirmar que,por considerar que os crimes atribuídos ao sentenciado são de maior gravidade (latrocínio e furto qualificado), a longa pena a cumprir (09/08/2031), bem como a quantidade de pena imposta, determino a realização da avaliação preconizada pela Resolução SAP 88, de 28-4-2010, a fim de que o pedido de progressão ao regime semiaberto possa ser analisado de forma mais criteriosa(fl. 66).
+Ocorre quehá tempoeste Superior Tribunal tem considerado inidônea, para justificar a submissão do apenado à perícia técnica, a fundamentação baseada na gravidade dos crimes pelos quais o condenado cumpre pena, bem como a longevidade da reprimenda aplicada(HC n. 628.101/SP,Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/12/2020).
+Por fim, é importante sempre lembrar o reconhecido estado de coisas inconstitucional do sistema prisional brasileiro, razão pela qualcumpre não se criar obstáculos inidôneos à progressão de regime, principalmentedecidindocontra a jurisprudência tranquila deste Superior Tribunal.
+Em face do exposto, concedo liminarmente a ordema fim dedeterminar queo Juízo de Direito da 1ª Vara de Execuções Criminais da comarca de Araçatuba/SP reexamine o pedido de progressão de regime prisional formulado pela defesa, devendo abster-se de considerar a gravidade abstrata dos crimes pelos quais o apenado cumpre pena e a longa pena a adimplir, para fins de imposição do exame criminológico.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME.FUNDAMENTAÇÃO. INEXISTÊNCIA. REFERÊNCIAS, APENAS, À GRAVIDADE ABSTRATA DO CRIME PELO QUAL O APENADO CUMPRE PENA E À LONGA REPRIMENDA APLICADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida.
