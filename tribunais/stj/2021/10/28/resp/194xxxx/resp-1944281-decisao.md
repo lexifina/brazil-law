@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com base no art. 105, III, alínea "a", da Constituição da República/1988, em oposição a acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 323):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL.PRESCRIÇÃO INTERCORRENTE.
+1. Considera-se como termo inicial da contagem do prazo da prescrição intercorrente a data da intimação da parte exequente acerca da não localização do devedor ou, caso citado o executado, a data em que se constatar a inexistência de bens penhoráveis no endereço indicado, independentemente de o juiz haver expressamente determinado a suspensão do processo. A intimação é indispensável e o prejuízo decorrente de sua ausência é presumido.
+2. A contagem do prazo prescricional, uma vez iniciada, somente se interrompe pela efetiva constrição de bens do executado, ou pela citação do devedor, caso este não tenha sido inicialmente localizado. Neste caso, a interrupção retroage à data do protocolo da petição que requereu a providência frutífera.
+3. Caso em que, aplicando-se as balizas fixadas pelo STJ no REsp 1.340.553/RS em harmonia com o decidido por esta Corte no Incidente de Arguição de Inconstitucionalidade na AC n.º 0004671-46.2003.404.7200/SC, verifica-se a ocorrência de prescrição intercorrente.
+Os embargos de declaração opostos pela União foram rejeitados.
+Em suas razões, a recorrente levanta prefacial de ofensa ao art. 1.022 do CPC/2015, aduzindo omissão quanto à existência de penhora nos autos, que mesmo efetivada após o transcurso do prazo prescricional, deveria operar a interrupção do mesmo prazo, conforme a orientação de precedente representativo da controvérsia e da Súmula 568/STJ.
+No mérito, aponta violação doart. 40 da LEF.
+Sustenta, em síntese (e-STJ, fl. 360):
+ ..  ao definir os Temas referentes à prescrição intercorrente, o STJ também definiu que a efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens. Os requerimentos feitos pelo exequente, dentro da soma do prazo máximo de 1 (um) ano de suspensão mais o prazo de prescrição aplicável (de acordo com a natureza do crédito exequendo) deverão ser processados, ainda que para além da soma desses dois prazos, pois, citados (ainda que por edital) os devedores e penhorados os bens, a qualquer tempo - mesmo depois de escoados os referidos prazos -, considera-se interrompida a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera (Tema STJ 568).
+Contrarrazões recursais apresentadas (e-STJ fls. 367-377).
+Admitido o recurso especial na origem (e-STJ fl. 380), subiram os autos a esta Corte.
+É o relatório.
+A recorrente aduz ter havido omissão no acórdão combatido, quanto à existênciade penhora nos autos, que, mesmo efetivada após o transcurso do prazo prescricional, deveria operar a interrupção do mesmo prazo, conforme orientação jurisprudencial desta Corte Superior.
+Observa-se haver, de fato, a apontada contrariedade ao art. 1.022, II, do CPC/2015, na medida em que a Corte de origemnão respondeu ao questionamento formulado pela então embargante.
+É dopróprio relatório do acórdão que julgou osembargos de declaração da União a seguinte passagem (e-STJ fls. 347-348):
+Aduz que o julgado deixou de seguir a orientação do Superior Tribunal de Justiça, tomada em sede de recurso repetitivo, quanto à situação fático-processual, constante dos elementos existentes nos autos, e destacada em seu apelo.
+Alega que, penhorados os bens, a qualquer tempo - mesmo depois de escoados os referidos prazos -, considera-se interrompida a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera (Tema STJ 568).
+Defende que qualquer demora havida que não decorra de inércia injustificada da parte exequente, não pode servir de fundamento para a declaração de prescrição intercorrente, especialmente aquelas decorrentes de falhas dos mecanismos próprios da Justiça.
+Requer seja efetuado o juízo de retratação para afastar a prescrição acolhida, conferindo-se efeitos infringentes aos aclaratórios, determinando-se o prosseguimento regular da execução fiscal.
+Na verdade, não se olvida de que o Tribunal de origem tenha sumariado dentre os atos havidos no curso do processo a efetivação da penhora na data de 11/10/2018. Todavia, apesar de fazer menção ao REsp n. 1.340.553/RS, julgado sob o rito dos recursos repetitivos, não se debruçou sobre os possíveis efeitos dessa penhora ou sobre os motivos pelos quais a orientação jurisprudencial consagrada no precedente não se aplicaria à hipótese em tela.
+Assim, tendo o aresto impugnado deixado de analisar matéria de relevância para o deslinde da controvérsia, inviabilizando o conhecimento do apelo especial, em flagrante afronta ao art. 1.022, II, do CPC/2015, impõe-se o reconhecimento de sua nulidade.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação, para anular o acórdão dos embargos de declaração.
+Determino o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, acerca do quanto alegado em declaratória.
+Publique-se. Intimem-se.
