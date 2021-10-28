@@ -1,0 +1,42 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por Raia Drogasil S.A.com base no art. 105, III, "a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 546):
+Apelação Cível. Ação anulatória de débito fiscal. ICMS-ST. Substituição tributária. Aquisição de mercadorias de outros Estados. Sentença de improcedência. Apelo da autora. Imposto devido no momento da entrada da mercadoria no território fluminense. Arts. 21 e 23 da Lei 2.657/96. Alegação de ilegalidade. Inocorrência. Norma estadual que não confronta com LC 87/96. Precedente do STJ. Confisco não configurado. Multa fixada em 75% do valor do débito. Entendimento do STF de que multa tributária punitiva em valor inferior a 100% não viola o artigo 150, IV, da CF. NEGADO PROVIMENTO AO RECURSO. Honorários majorados para 12% sobre o valor da condenação.
+Os embargos de declaração opostos contra a aludida decisão foram rejeitados.
+A agravante alega, nas razões do recurso especial, violação do art. 1.022, I e II, do CPC/2015, por entender que há omissão quanto à análise da nulidade da sentença,à demonstração da impossibilidade fática da conduta imposta pelos arts. 39, § 1º, da Lei estadual n. 2.657/1996 e112 do CTN, assim como que há obscuridade quanto à análise do art. 7º da Lei Complementar n. 87/1996 e contradiçãono acórdão que analisou os embargos de declaração.
+Defende que o art. 7º da Lei Complementar n. 87/1996 foi ofendido, pois, "na ânsia de antecipar ao máximo o recolhimento do ICMS-ST, o Recorrido acabou por imputar ao contribuinte fluminense obrigação de impossível cumprimento, vez que se tratando de mercadorias adquiridas de fornecedores estabelecidos em outros Estados, a Recorrente não possui mínima condição de adivinhar o momento exato no qual a mercadoria adentrará no território fluminense" (e-STJ, fl. 651).
+A negativa de admissibilidade teve por fundamento a ausência de vícios no acórdão e a Súmula 7/STJ.
+Impugnados os fundamentos da decisão agravada, passo à análise do recurso especial.
+É o relatório.
+Registro, de logo, que não merece prosperar a tese de violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou outra causa passível de exame mediante a oposição de embargos de declaração.
+No ponto:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO 03/STJ. VIOLAÇÃO DO ARTIGO 1022 DO CPC/2015. NÃO OCORRÊNCIA. PEDIDO DE COMPENSAÇÃO. CONCESSÃO DE LIMINAR EM AÇÃO JUDICIAL. NÃO VEDAÇÃO DE ATUAÇÃO DO FISCO.DECADÊNCIA DE CRÉDITO TRIBUTÁRIO. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+2. O prazo para o Fisco efetuar o lançamento é dotado de natureza decadencial e, portanto, não está sujeito a qualquer hipótese de suspensão ou interrupção, este transcorre ininterruptamente, independentemente da existência de qualquer depósito ou mesmo de decisão judicial favorável ao contribuinte.
+3. Agravo interno não provido.
+(AgInt no REsp 1n. .832.770/AL, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/8/2020, DJe de 3/9/2020).
+Quanto ao mais, orecurso especial não deve ser conhecido.
+A análise da controvérsia posta demandaria o exame de legislação local, tendo em vista que o Tribunal de origem adotou como fundamento do decisum a Lei estadual n. 2.657/1996 conforme se extrai das e-STJ, fls. 550-551:
+A LC87/96 em seu art. 7º prevê que para efeito de exigência do imposto por substituição tributária, inclui-se, também, como fato gerador do imposto, a entrada de mercadoria ou bem no estabelecimento do adquirente ou em outro por ele indicado.
+Por sua vez, a Lei 2.657/96, em seu art. 3º, § 9º, permite que o Estado exija, antecipadamente, o recolhimento do tributo no momento da entrada da mercadoria no território fluminense:
+O Estado poderá exigir o pagamento antecipado do imposto, com a fixação, se for o caso, do valor da operação ou da prestação subsequente, observando-se o disposto no Capítulo V, que regula a substituição tributária.
+A norma em comento exige o recolhimento no momento que a mercadoria ingressa no território fluminense, valendo transcrever a redação vigente à época dos fatos:
+ ..
+Nesse contexto, não se verifica ilegalidade no ato praticado pelo Estado do Rio de Janeiro, considerando que a Lei Complementar 87/96não determina a exigência de quando da entrada no estabelecimento, mas acrescenta essa possibilidade.
+Tal circunstância torna inviável o acolhimento do recurso especial, consoante a aplicação analógica do enunciado n. 280 constante da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+A propósito:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS/ST. RESTITUIÇÃO DE VALORES INFERIORES À BASE DE CÁLCULO PRESUMIDA. CRITÉRIOS DE CORREÇÃO E JUROS INCIDENTES. LEI LOCAL. SÚMULA 280/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se na origem de ação declaratória cumulada com pedido de restituição de ICMS/ST pago a maior na hipótese em que a base de cálculo real é inferior à presumida.
+2. Consoante a jurisprudência fixada pelo Supremo Tribunal Federal, na ADI 2.777/SP, o Estado de São Paulo possui regramento específico para se analisar a forma de restituição dos valores recolhidos a maior a título de ICMS. Assim, não compete ao STJ, a análise deste direito local, a teor da aplicação analógica da Súmula 280 do STF.
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.497.878/SP, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/9/2019, DJe de 26/9/2019).
+TRIBUTÁRIO. PROCESSUAL CIVIL. ICMS-ST. FALTA DE PREQUESTIONAMENTO.SÚMULA 211/STJ. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO EM LEI ESTADUAL.SÚMULA 280/STF. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. A indicada afronta aos arts. 100, I, e 144 do CTN não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O Tribunal de origem baseou-se na Lei estadual 11. 514/1997 e no art. 475, § 1º, do Decreto estadual 14.876/1991 para solver a lide.Verifica-se que o debate da questão envolve, na realidade, análise do disposto na legislação estadual, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF no que tange à apreciação de ofensa a dispositivos constitucionais.
+3. O Tribunal pernambucano entendeu, após apreciação das provas produzidas nos autos, que a farinha de trigo ou a mistura eram oriundas de outros estados. Portanto, a alteração do decisum, para modificar o entendimento do magistrado, demanda incursão no acervo fático-probatório dos autos, medida que encontra óbice na Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Recurso Especial não conhecido.
+(REsp 1.694.614/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 5/10/2017, DJe de 16/10/2017).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
