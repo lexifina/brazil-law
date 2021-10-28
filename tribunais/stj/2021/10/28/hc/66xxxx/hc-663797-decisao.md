@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de FERNANDO CARVALHO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 0016770-06.2008.8.26.0320.
+Extrai-se dos autos que o paciente foi condenado à pena de 7 anos, 10 meses e 2 dias de reclusão, em regime fechado, por infração ao artigo 157, § 2º, incisos I e II, do Código Penal (roubo majorado).
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual deu parcial provimento ao recurso para reduzir a reprimenda para 7 anos, 3 meses e 3 dias de reclusão, nos termos do acórdão que restou assim ementado (fls. 223/224):
+"ROUBO - INSUFICIÊNCIA PROBATÓRIA - Inocorrência - Materialidade e autoria delitivas devidamente comprovadas pela prova oral colhida. ROUBO - CAUSAS DE AUMENTO DE PENA - Ocorrência - O concurso de agentes e o emprego de arma de fogo foram devidamente comprovados pelos depoimentos das vítimas. Quanto a esta causa, a jurisprudência do Superior Tribunal de Justiça aponta para a desnecessidade da perícia da arma para sua verificação. ROUBO - PENA - REDUÇÃO. Admissibilidade. Ausência da devida fundamentação quando da aplicação do patamar referente às majorantes. ROUBO - REGIME INICIAL FECHADO - Não objeto de insurgência da Defesa, cabe ressaltar que foi corretamente fixado, pois, tendo-se em vista as circunstâncias em que o delito foi cometido, seu modo de execução e as características pessoais de Fernando, o regime inicial fechado é, realmente, o mais adequado, principalmente tendo-se por norte a função preventiva geral negativa e preventiva especial da pena."
+No presente writ, a defesa sustenta que não há indícios de autoria delitiva suficientes para embasar a condenação criminal. Afirma que o reconhecimento em juízo se deu de maneira absolutamente contrária às formalidade descritas no artigo 226 do CPP, o que resulta na imprestabilidade do meio comprobatório de autoria.Some-se isso o fato de que o reconhecimento produzido em juízo fora realizado aproximadamente 2 anos após os fatos.
+Assegura que não há produção de provas, mas tão somente elementos indiciários. Aduz que o reconhecimento fotográfico só pode ser utilizado como prova de autoria quando confirmado pelo reconhecimento pessoal em juízo, sendo que este não seguiu os trâmites e as determinações legais.
+Pleiteia, em liminar e no mérito, a reforma do acórdão recorrido, reconhecendo a nulidade dos reconhecimentos, para absolver o paciente.
+Liminar indeferida às fls. 318/319.
+O Ministério Público Federal opinou pelo não conhecimento da impetração, conforme parecer de fls. 381/385.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra possível no presente caso. Da atenta análise do acórdão impugnado verifica-se que o Tribunal de origem não se manifestou expressamente sobre a aventada nulidade da prova consistente no reconhecimento pessoal.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ESPECIAL GRAVIDADE DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. RÉU FORAGIDO. APLICAÇÃO DA LEI PENAL. ALEGAÇÃO DE AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. TESE DE VÍCIO NO RECONHECIMENTO. MATÉRIA NÃO ANALISADA PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prisão preventiva foi devidamente justificada em razão da gravidade concreta do delito, evidenciada pelo modus operandi empregado: a conduta praticada envolveu a participação de 4 (quatro) indivíduos, que atraíram a Vítima, que é pessoa idosa, ao local do sequestro, sob o pretexto de prestar serviço de guincho. A Vítima foi mantida em cativeiro, acorrentada nos pés e nas mãos, sendo constantemente agredida com chutes e pauladas, "sem contar que, dos sete dias em que permaneceu confinado, recebeu água e comida só até o segundo dia, o que lhe acarretou quadro grave de desidratação".
+Tais circunstâncias demonstram a periculosidade do Acusado e revelam a necessidade da prisão para garantia da ordem pública.
+2. As instâncias ordinárias consignaram, ainda, que o Agravante se encontra foragido, o que também justifica a segregação cautelar para aplicação da lei penal.
+3. Quando a fuga constitui um dos fundamentos de cautelaridade, a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória.
+4. O Tribunal local não se manifestou sobre o suposto vício no reconhecimento do Agravante, o que impede a manifestação desta Corte Superior, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido (AgRg no HC 685.324/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 06/10/2021).
+Desse modo não há falar em ausência de provas suficientes a lastrear a condenação.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.
+Publique-se.
