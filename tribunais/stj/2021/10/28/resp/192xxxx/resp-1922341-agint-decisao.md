@@ -1,0 +1,42 @@
+DECISÃO
+Valdir Colatto e Eloá Winckler Colattointerpõem agravo interno contra decisão desta relatoria assim ementada (e-STJ, fl. 2.523):
+RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA C/C PERDAS E DANOS. 1. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. 3. VIOLAÇÃO AO ART. 1.228 DO CC. POSSE INJUSTA. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 4. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+Nas razões do agravo interno (e-STJ, fls. 2.631-2.666), os agravantes reafirmam a negativa de prestação jurisdicional por parte da Corte local, além de aduzirem que não pretendem o reexame de provas.
+No caso, verifica-se que merece reforma a decisão.
+Portanto, com apoio no art. 259 do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão de fls. 2.521-2.530 (e-STJ) e realizo novo exame do especial.
+Trata-se de recurso especial interposto por Luiz Alberto Boni e outros contra acórdão prolatado pelo Tribunal de Justiça de Rondônia, assim ementado (e-STJ, fl. 2.271):
+Reivindicatória. Nulidade da sentença. Ausência de fundamentação. Afastada. Requisitos. Posse injusta. Não configurada.
+Evidenciado que o juízo de origem apreciou a demanda de acordo com os requisitos essenciais da ação reivindicatória, fundamentando seu convencimento conforme as provas que foram apresentadas nos autos, não há se falar em nulidade da sentença por ausência de fundamentação ou cerceamento de defesa. A posse injusta, para efeito reivindicatório, é aquela sem causa jurídica a justificá-la, oque não ficou provado nos autos, portanto, deve ser mantida a improcedência do pedido reivindicatório.
+Opostos embargos de declaração (e-STJ, fls. 2.286-2.299), por meio dos quaisaduziram a existência de omissão acerca da razão de não ter sidoacolhida a prova produzida na inicial (através da juntada das respectivas matrículas) de que o presente feito refere-se aos lotes 77 e 77-A, e não ao lote 76, bem como da razão pela qual foi determinada ainversão do ônus da prova, uma vez que são os recorridos que afirmam que também negociaram os lotes objeto da presente demanda.
+Pleitearam, ainda, esclarecimento sobre o fato de os recorrentesValdir Colatto e Eloá Winckler Colatto, proprietários do lote 77-A, não terem feito parte da ação de interdito proibitório, disso resultando não ter havido negociação envolvendo esse lote, acrescentando não existir prova, documental ou testemunhal,acerca da aquisição do mencionadolote.
+Os declaratórios foram rejeitados nos termos da seguinte ementa (e-STJ, fl. 2.321):
+Embargos de declaração. Ação reivindicatória.Posse ajusta. Não comprovação. Vicioinexistente. Revisão do julgado. Impossibilidade.
+Deve ser mantida a improcedência do pedido reivindicatório quando não comprovada a posse injusta.
+Nas razões do recurso especial, fundado no art. 105, III,aec, da Constituição Federal, os recorrentes alegamviolação aos arts. 93, IX, da CF/1988; 1.228 do CC; 485, VI, 489 e 1.022 do CPC/2015, além de afirmarem a existência de dissídio jurisprudencial (e-STJ, fls. 2.337-2.383).
+Sustentama nulidade do acórdão recorrido por negativa de prestação jurisdicional, ante a ausência de pronunciamento da Corte local acerca de ponto que entendem fundamental para o deslinde da causa relacionado àposse na reivindicatória e à posse nas ações possessórias ou interditos.
+Argumentam que estão presentes todos os requisitose condições da ação para fins do exercício da ação reivindicatória.
+Asseveram que a Sra. Neiva Rack de Maldonado vendeu apenas o imóvel que lhe pertencia, qual seja, o lote 76, enquanto que em relação aos lotes 77 e 77-A não foi feita nenhuma transação pelos recorrentes.
+Destacam que, apesar de afirmarem não ter havido negociação sobre o lote 77, a decisão recorrida não fez distinção de quais lotes em litígio estariam sendo negociados, presumindo-se, então, que a negociação contemplou todos.
+Mencionam que, por se tratar de demanda de alta complexidade, é necessária a análise da veracidade dos fatos, assim como da abusividade dasalegações dos recorridos.
+Reforçam que não há prova de que o interdito proibitório versava sobre os lotes 77 e 77-A, os quais são objeto desta ação, acrescentando que a primeirademanda tratava apenas do lote 76.
+Ponderam que cabe aos recorridos, e não aos recorrentes, provar que a tal negociação se referia aos lotes 77 e 77-A.
+Aduzemque inexiste prova nos autos da posse justa dos recorridos, além de afirmarem ter sido comprovada a existência de esbulho.
+Ressaltam que comprovaram possuir título de propriedade, formalizado no registro de imóveis da comarca, entendendo sero bastante para legitimar o uso desta ação.
+Pontuam que a questão de ingresso da ação de interdito proibitório anteriormente proposta pelos recorrentes significa que a posse (de fato) dos recorridos sempre foi litigiosa, portanto, nem mansa nem pacífica, muito menos comanimus domini.
+Contrarrazões apresentadas (e-STJ, fls. 2.395-2.403; 2.405-2.408).
+Brevemente relatado, decido.
+Com efeito, os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 1.022 do CPC/2015.
+Assim, no que diz respeito à negativa de prestação jurisdicional, com razão os recorrentes, porquanto, apesar de ter sido instado a se manifestar sobre questões relativas à efetivacomprovação de que os lotes 77 e 77-Aforam objeto do acordo informado pelos recorridos, o Tribunal local silenciou.
+A propósito, convém citar oseguinteprecedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C DANOS MORAIS. CONFISSÃO FICTA DA AUTORA. CLÁUSULA LIMITATIVA. ÔNUS DA PROVA. TEMAS RELEVANTES PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 535 do CPC/1973, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 798.810/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+No caso, a pretensão dos recorrentes, nos embargos de declaração de fls. 2.285-2.299 (e-STJ), era obter pronunciamento judicial acerca da (in)existência de prova nos autos de efetiva negociação em relação aos lotes 77 e 77-A, passível dejustificar a posse aduzida pelos recorridos, pois, segundo noticiam, a ação de interdito proibitório, acostada aos presentes autos, somente versou sobre o lote 76.
+Assim, buscam esclarecimento acerca do motivo pelo qual não foi acolhida a prova feita na inicial, através da juntada das respectivas matrículas, de que o presente feito refere-se aos lotes 77 e 77-A, e não ao lote 76, bem como da razão de ter sido determinada a inversão do ônus da prova, uma vez que são os recorridos que afirmam que também negociaram os lotes objeto da presente demanda.
+Objetivam, ainda, esclarecimento sobre o fato de o lote 77-A, de propriedade dos recorrentesValdir Colatto e Eloá Winckler Colatto, ter sido considerado pelo Tribunal local como parte da negociação, embora não tenham integrado o polo passivo da ação de interdito proibitório enão existaprova, documental ou testemunhal, acerca da aquisição do mencionada lote.
+Constata-se, portanto, que o acórdão combatido, a despeito da oposição de embargos declaratórios, deixou de sanar a omissão acerca dessas relevantes questões, impondo-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração.
+Por todo o exposto,em juízo de reconsideração da decisão de fls. 2.521-2.530 (e-STJ), dou provimento ao recurso especial a fim de, reconhecendo a existência das indicadas omissões, anular o acórdão que julgou os embargos de declaração de fls. 2.318-2.322 (e-STJ) e determinar o retorno dos autos ao Tribunal de origem, a fim de que outro seja proferido, sanando-se o vício, como se entender de direito.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL.RECONSIDERAÇÃO DA DECISÃO. NOVO EXAME DO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
