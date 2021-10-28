@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1229/1231)apresentados contra decisão sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. EXISTÊNCIADE PAGAMENTO. INTERPRETAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 211/STJ. NULIDADE DO PROCESSO ADMINISTRATIVO. PRESCRIÇÃO. EXISTÊNCIA DE FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. QUESTÕES ATRELADAS AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+A embargante sustenta, em suma que a decisão embargada padece do vício da omissão, uma vez que não analisou a tese relacionada a ocorrência de eventual cerceamento de defesa.
+Requer sejam acolhidos os embargos.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não obstante os argumentos do embargante, constou expressamente da decisão embargada que:
+No que tange à tese relacionada a existência de pagamento e a própria validade deste, observa-se que não houve pronunciamento explícito sobre a matéria versada no citado dispositivo legal, não obstante opostos embargos de declaração, incide o óbice contido na Súmula 211/STJ,in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+(..)
+Por outro lado, as fundamentações em destaque no excerto do v. acórdão de origem não foram impugnadas de modo adequado no presente recurso. Nesse norte, observa-se o descumprimento do princípio da dialeticidade, o qual obriga a parte que recorre impugnar, especificamente, os fundamentos do acórdão que objurga, contrapondo-se às razões de decidir já expressadas (cf. AgRg no RMS 43.815/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 27/05/2016; AgRg no RMS 49.108/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 16/05/2016; AgRg no RMS 33.347/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 12/05/2016). Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+(..)
+Ademais, a análise sobre os temas relacionados a eventual existência ou nulidade do pagamento, da ocorrência da prescrição e de nulidade do processo administrativo, pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+Desse modo, não há vício na decisão ora embargada, de modo que a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC.
+Nesse sentido: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
