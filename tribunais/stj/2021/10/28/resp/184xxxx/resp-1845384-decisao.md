@@ -1,0 +1,37 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REVISÃO DEBENEFÍCIO PREVIDENCIÁRIO. JULGAMENTO EXTRA PETITA. OCORRÊNCIA. RECURSO ESPECIAL DO PARTICULARA QUE SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por BENEDITO CORREA, com fundamento na alínea a do art. 105, inciso III, da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+PREVIDENCIÁRIO. REVISÃO. BENEFÍCIO ANTERIOR À CF/88. ADEQUAÇÃO AOS NOVOS TETOS FIXADOS PELAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. IMPOSSIBILIDADE. APELAÇÃO DO AUTOR IMPROVIDO.
+1. A sistemática de apuração do salário de beneficio à época vigente era resultado da média aritmética dos 36 últimos salários de contribuição e da aplicação de coeficientes, consoante o disposto no artigo 23 do Decreto 89.312/84.
+2. Os denominados "menor" e "maior valor teto "sequer funcionavam como tetos, razão pela qual não exibem a mesma natureza jurídica e nem são geradores dos mesmos efeitos do instituto hoje denominado "teto da Previdência".
+3. A Sétima Turma desta E. Corte firmou entendimento de que, em relação aos benefícios concedidos anteriormente à CF/88, não há sentido no afastamento do teto (seja o "menor" ou o "maior" valor teto).
+4. A almejada desconsideração do menor ou maior valor teto implicaria no absoluto desrespeito da sistemática prevista à época, com a criação de regras próprias, situação que sequer foi abordada pelo C. STF.
+5. Apelação da parte autora improvida.(fls. 105).
+2. Os embargos de declaração opostos foram rejeitados (fls. 133/141).
+3. Nas razões do seu recurso especial (fls. 144/152), a parte recorrente sustenta a violação dos arts. 141 e492 do CPC/2015. Argumenta, para tanto:a ocorrência de julgamento extra petita,pois ingressou com a demanda revisional buscando a adequação do benefício aos tetos previstos nasEmendas Constitucionais20/1998 e 41/2003 e a Corte local negou provimento à apelação com base na incidência doDecreto 89.213/1984, que nem sequer é aplicável ao seu benefício, concedido em 1989.
+4. Devidamente intimada (fl. 157), a parte recorrida deixou de apresentar contrarrazões (fls. 160).O recurso especial foi admitido na origem (fls. 158/159).
+5. É o relatório.
+6. A irresignação merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. No caso dos autos, a parte recorrente ajuizou ação revisional buscando a adequação do valor de seu benefício de aposentadoria aostetos previstos nas Emendas Constitucionais 20/1998 e 41/2003. Julgado improcedente o pedido, a parte interpôs apelação.
+9. O Tribunal de origem negou provimento ao recurso, adotando a seguinte fundamentação:
+A sistemática de apuração do salário de beneficio à época vigente era resultado da média aritmética dos 36 últimos salários de contribuição e da aplicação de coeficientes, consoante o disposto no artigo 23 do Decreto 89.312/84, in verbis:
+ ..
+Como se observa, o valor da renda mensal inicial do segurado se dava mediante a média aritmética dos 36 últimos salários de contribuição que, se superados os 10 salários mínimos vigentes (menor valor teto),era composta da somatória de duas parcelas. A primeira, resultante da aplicação do coeficiente de95% da operação antes mencionada e, a segunda, mediante a aplicação do coeficiente resultante de equação que levava em conta os meses e os valores de contribuição que, por sua vez, poderia atingir o percentual máximo de 80% do valor que ultrapassasse o menor valor teto.
+Isto porque, a elevação do número de salários mínimos sobre os quais se permitiu contribuir foi alterada de 10 para 20 no ano de 1973, razão pela qual, a depender do número de contribuições vertidas e da base de cálculoapurada, o salário de beneficio sofria proporcional influência do percentual apurado, de forma a manter o equilíbrio atuarial do sistema.
+Com efeito, os denominados "menor" e "maior valor teto" sequerfuncionavam como tetos, razão pela qual não exibem a mesma natureza jurídica e nem são geradores dos mesmos efeitos do instituto hoje denominado "teto da Previdência".
+Ademais, com a CF/88, esses benefícios, por força do art. 58 do ADCT, tiveram seus valores recompostos ao número de salários mínimos apurado na data da sua concessão e, desde então, sofreram sua atualização pelos critérios legais aplicáveis.
+Diante das assertivas apresentadas, a Sétima Turma desta E. Corte firmou entendimento de que, em relação aos benefícios concedidos anteriormente à CF/88, não há sentido no afastamento do teto (seja o "menor" ou o "maior" valor teto). (fls. 102/103).
+10.Nesse contexto, resta claro que a Corte a quo incorreu em julgamento extra petitapois julgou a apelação como se o benefício da parte autora tivesse sido concedido anteriormente à CF/1988, de forma desconexa com a controvérsia posta nos autos.
+11. Consonante entendimentofirmadopor este egrégio Superior Tribunal de Justiça, para que seja configurado julgamento extra petitaéimprescindível que o acórdão tenha julgado matéria diversa da requerida pela parte, o que se verificou na presente hipótese. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CUMULAÇÃO INDEVIDA DE CARGOS. PEDIDO DE RESSARCIMENTO AO ERÁRIO. ARESTO DO TJ/RJ QUE, PARA NEGAR PROVIMENTO À APELAÇÃO, QUALIFICOU O ATO COMO ÍMPROBO SEM QUE TAL FATO TENHA SIDO OBJETO DA INICIAL OU DA SENTENÇA. JULGAMENTO EXTRA PETITA. PROCEDÊNCIA DO PEDIDO POR FUNDAMENTO NÃO INVOCADO NA CAUSA DE PEDIR PRÓXIMA (JURÍDICA) OU REMOTA (FÁTICA). NULIDADE. AGRAVO INTERNO DO ÓRGÃO ACUSADOR DESPROVIDO.
+1. Há julgamento extra petita quando o juiz concede prestação jurisdicional diferente da que foi postulada ou quando defere a prestação requerida, porém, com base em fundamento não invocado como causa de pedir (EDcl no AgRg no Ag 1.225.839/RS, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 12.6.2013).
+2. Por sua vez, para que o julgamento ultra petita reste configurado é necessário que a decisão conceda mais do que foi pedido na inicial (REsp. 627.353/BA, Rel. Min. TEORI ALBINO ZAVASCKI, DJ 7.3.2005).
+(..)
+8. Agravo Interno do Órgão Acusador desprovido(AgInt no AREsp 832.007/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/11/2020, DJe 25/11/2020).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.ISSQN SOBRE LOCAÇÃO DE BENS MÓVEIS. JULGAMENTO EXTRA PETITA.BROCARDOS MIHI FACTUM DABO TIBI IUS E IURIA NOVIT CURIA.INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DA CAUSA DE PEDIR E PEDIDO.POSSIBILIDADE.
+1. A sentença extra petita é aquela que examina causa diversa da que foi proposta na inicial, sendo desconexa com a situação litigiosa descrita pelo autor, bem como com a providência jurisdicional que dela logicamente se extrai.
+(..)
+4. Agravo interno a que se nega provimento(AgInt no REsp 1444911/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/09/2017,DJe 29/09/2017).
+12. Ante oexposto, dou provimento ao recurso especial do particular a fim reconhecer o julgamento extra petitae, em consequência,anular os acórdãos proferidos na origem, devolvendo-se os autos ao Tribunal a quopara que analise novamente a apelaçãoda parte recorrente, como entender de direito.
+13. Publique-se. Intimações necessárias.
