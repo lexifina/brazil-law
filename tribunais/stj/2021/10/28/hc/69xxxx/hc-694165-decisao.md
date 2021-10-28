@@ -1,0 +1,37 @@
+DECISÃO
+MAIKI RUZZA PIZONIalega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarinano HC n. 5040739-52.2021.8.24.0000/SC.
+Depreende-se dos autos que o paciente foi presoem flagrante pela suposta prática dodelitoprevistonoart. 33, caput, da Lei n. 11.343/2006. Posteriormente, o flagrante foi convertido em prisão provisória, haja vista a necessidade de se acautelares os interesses da jurisdição penal.
+Irresignada, a defesa impetrou préviomandamusperante a Corte de origem, que lhe denegou a ordem.
+Nas razões deste feito, sustenta o impetrante, resumidamente, o não preenchimento dos requisitos para a imposição da medida extrema elencados no art. 312 do Código de Processo Penal e a falta de fundamentação concreta do decreto prisional, pautado exclusivamente na gravidade abstrata do delito.
+A defesa pleiteia, assim, seja concedida liberdade provisória ao ora paciente.
+Indeferida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que se manifestou pela denegação da ordem.
+Decido.
+No que tange às razões que fundamentam a segregação cautelar, o Juízo singular decretou a prisão preventiva e destacou, para tanto, a gravidade concreta do delito, consoante se observa do excerto seguinte (fls. 16-18, destaquei):
+A condutora da ocorrência, Andreia Barbieri Lopes, relatou que receberam várias denúncias informais que retrataram o tráfico por parte de Maiki;que, ele era discreto na prática; que, não entregava a droga em casa; que, no dia24 de junho de 2021, foram conduzidos para a Delegacia de de Criciúma três indivíduos pela prática do tráfico; que, um deles era Frank Baldini de Souze; que, do celular apreendido foram extraídas conversas que negociavam substâncias entorpecentes; que, haviam muitas conversar; que, juntou o relatório com outras conversar de um informante do ano de 2020; que, as informações fecharam; que, deferida a busca e apreensão, em cumprimento, foi encontrado em média 1kg de cocaína e outra quantidade de maconha; que apreenderam também faca, balança de precisão, plástico filme; que, algumas porções já estavam embaladas para avenda; que, Maiki era fornecedor de Frank, preso no dia 24; que, ele agiadiscretamente; que, Maiki fazia tele-entrega; que, não era eventual; que, caracterizou ser associado com Frank; que, uma bucha de cocaína custa em médi aR$ 100,00; que, com a quantidade de droga o conduzido lucraria uma quantia alta.
+No mesmo sentido foi o depoimento da Policial Civil Taise Carara. Acrescentou que, em cumprimento ao mandado de busca e apreensão, quando adentraram na residência, Maiki ficou sem reação; que, ele estava manipulando drogas; que, inicialmente ele afirmou ser usuário; que, abriram o guarda roupas onde foi encontrada determinada quantidade de droga; que, encontraram uma faca; que, encontraram porções de maconha já embaladas para a venda; que, encontraram uma balança de precisão; que, encontraram papel filme também; que, apreenderam uma alta quantidade de cocaína; que, o valor de 5g de cocaína da em méda R$ 350,00.
+ ..
+Resta claro o perigo no caso do réu alcançar o estado de liberdade, pois está presente o risco à ordem pública, de modo que a segregação se faz necessária para assegurar a aplicação da lei penal uma vez que se colocado em liberdade pode reiterar a prática da traficância.
+Extrai-se da Representação n. 5002469-16.2021.8.24.0078, que após o nome de Maiki ser citado em conversas de celular com Frank Baldini deSouza, preso no dia 24 de junho do corrente ano na Comarca de Criciúma/SC1, o conduzido vinha sendo investigado pela equipe da Delegacia de Polícia de Cocaldo Sul/SC.
+Não fosse suficiente, pelo menos 2 (duas) denúncias anônimas foram recebidas no mês de junho pela referida repartição policial, dando conta do comércio de drogas por Maiki.
+Além do mais, não há como desconsiderar a variedade e quantidade das drogas apreendidas, sendo 961,3 (novecentos e sessenta e um gramas e trêscentigramas) de maconha e por volta de 42,8 g (quarenta e dois gramas e oito centigramas) de cocaína, além de faca, balança de precisão, plásticos filmes, rolo de plástico transparente e três aparelhos celulares.
+Pelo exposto, o periculum libertatis está evidenciado pela necessidade de acautelar a ordem pública, diante do risco de reiteração criminosa, sobretudo em decorrência da gravidade concretada conduta supostamente perpetrada, que revela alta periculosidade do agente. Não fosse suficiente, a liberdade do conduzido transmite à sociedade a sensação de insegurança e impunidade, afetando a própria credibilidade da Justiça (art.312, caput, parte final e § 2º, do CPP).
+A esse respeito, urge consignar que a jurisprudência desta Corte Superior é firme ao asseverar " não ser  ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos delituosos, cifrada na significativa quantidade de substância entorpecente apreendida" (RHC n. 93.740/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 12/3/2018, destaquei).
+No mesmo sentido:
+ ..
+III - Na hipótese, a segregação cautelar encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente se considerada a grande quantidade de entorpecente apreendido "90 quilos de maconha", circunstância apta a ensejar a manutenção da segregação cautelar do paciente.
+ ..
+Habeas Corpus não conhecido.
+(HC n. 457.378/MG, Rel. Ministro Felix Fischer, 5ª T., DJe 10/10/2018, destaquei).
+ ..
+4. A elevada quantidade de material tóxico capturado em poder da dupla criminosa - mais de 100 Kg de maconha -, que estavam sendo transportados em um veículo de origem ilícita pelos agentes, são circunstâncias que, somadas, evidenciam dedicação à narcotraficância, denotando a existência do periculum libertatis que autoriza a preventiva.
+ ..
+7. Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem.
+(HC n. 384.499/MS, Rel. Ministro Jorge Mussi, 5ª T., DJe 30/8/2017, destaquei).
+Tais elementos constituem motivos idôneos para embasar a manutenção da prisão provisória do acusado, pois evidenciam o risco de reiteração delitiva e a maior periculosidade do paciente, que já vinha sendo objeto de investigação da polícia por envolvimento com o tráfico, porquanto foram recebidas pelo menos duas denúncias anônimas relatando o tráfico por Maiki e seu nome foi vinculado como fornecedor de drogas de um outro traficante preso poucas semanas antes dele.Ademais, destacou-se, ainda, a gravidade concreta da conduta em tese perpetrada, em que apreendida quase mais de1 quilo de drogas diversas.
+Ressalto, por oportuno, que a presença de condições pessoais favoráveis, como a primariedade, não impede a decretação da prisão preventiva. Confira-se:
+ ..  2. Foram apreendidos com o recorrente 200g de maconha, 82g de crack e 700g de solvente organoclorado, quantidade e diversidade que, aliadas às circunstâncias em que se deu o flagrante, justificam o encarceramento cautelar para garantia da ordem pública.
+3.Circunstâncias pessoais favoráveis, por si sós, não impedem a decretação da prisão cautelar. (Precedentes.)
+4. Recurso ordinário em habeas corpus não provido.
+(RHC n. 67.524/RJ, Rel. MinistroRibeiro Dantas, 5ª T., DJe 30/3/2016)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem no presente writ.
+Publique-se e intimem-se.
