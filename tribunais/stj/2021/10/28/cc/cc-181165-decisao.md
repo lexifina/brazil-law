@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de conflito de competência com pedido liminar suscitado por POLIMEROS ITAQUERA INDUSTRIAL LTDA., em recuperação judicial, em que aponta como suscitados o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO (SP) e o JUÍZO DA 3ª VARA DO TRABALHO DE SÃO PAULO (SP).
+Ação em trâmite na 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO (SP): recuperação judicial da suscitante, autos n.1005882-29.2014.8.26.0100.
+Ação em trâmite na 3ª VARA DO TRABALHO DE SÃO PAULO (SP): reclamação trabalhista ajuizada por LUCIRIO ALVES DE LIMA em face da suscitante.
+Conflito de competência: alega, em síntese, que, nos termos da jurisprudência do STJ, o juízo onde tramita o processo recuperacional é o único competente para dirimir questões que afetem o patrimônio da sociedade empresária devedora.
+Tutela antecipada: parcialmente deferida às e-STJ, fls. 761/764.
+Informações prestadas pelo Juízo Trabalhistaàs e-STJ, fls. 772-782.
+Parecer do MPF: manifestou-se pelo conhecimento do conflito a fim de ser declarada a competência do juízo da recuperação, JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO (SP).
+É O RELATÓRIO. DECIDO.
+Depreende-se dos autos que o processo de recuperação judicial da empresa POLIMEROS ITAQUERA INDUSTRIAL LTDA.está em regular andamento perante o Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais de São Paulo. Por outro lado, observa-se a prática de atos constritivos do patrimônio da recuperanda pelo Juízo trabalhista, conforme relatório de fls. 772-782 (e-STJ).
+Como é sabido, a jurisprudência desta Corte pacificou-se no sentido de que os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo juízo universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei 11.101/05, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação.
+Sobre o tema, confiram-se: AgInt nos EDcl no CC 165.079/SP, SEGUNDA SEÇÃO, DJe 08/05/2020; AgInt nos EDcl no CC 165.415/SP, SEGUNDA SEÇÃO, DJe 02/12/2019; EDcl no CC 133.470/SP, SEGUNDA SEÇÃO, DJe 03/09/2015; CC 101.477/SP, SEGUNDA SEÇÃO, DJe 12/05/2010.
+Dessa forma, o Juízo perante o qual tramita o processo de recuperação judicial da empresa devedora é o competente para o exame de quaisquer atos que impliquem em constrição ou expropriação patrimonial da massa, sendo certo que os valores eventualmente constritos pelo Juízo Laboral devem ser colocados à disposição do Juízo Universal, a quem competirá analisar eventual pedido de levantamento.
+Outrossim, "Ao juízo universal compete a análise do caráter extraconcursal das dívidas da empresa em recuperação, (..) bem como o exame da essencialidade, para as atividades da sociedade recuperanda, dos bens pretendidos pelo credor" (AgInt no CC 143.203/GO, SEGUNDA SEÇÃO, DJe 30/05/2018).
+No mesmo sentido, ressaltou o Parquet em sua promoção, que "Outrossim, no entendimento consolidado da jurisprudência deste Colendo Sodalício, os atos judiciais de constrição dos bens da empresa recuperanda devem ser submetidos ao crivo do Juízo Universal, à luz do princípio da igualdade de condições entre os credores, par conditio creditorum.Portanto, à Justiça do Trabalho, cabe tão somente apurar o respectivo crédito, não podendo praticar quaisquer outros atos tendentes a combalir o patrimônio da empresa".
+Forte nessas razões, CONHEÇO do conflito para declarar a competência Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais de São Paulo.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA A PRÁTICA DE ATOS EXECUTÓRIOS OU CONSTRITIVOS.
+1. Nos termos da jurisprudência consolidada desta Corte, é competente o Juízo recuperacional para a prática de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial.
+2. Conflito conhecido. Estabelecida a competência do Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais de São Paulo/SP.
