@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno manejado por GRUPO OK CONSTRUÇÕES E INCORPORAÇÕES LTDAcontra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação:cumprimento de sentença movido por FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL - REFER em desfavor de GRUPO OK CONSTRUÇÕES E INCORPORAÇÕES LTDA..
+Decisão de admissibilidade do TJ/DFT: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) negativa de prestação jurisdicional não configurada; ii) necessidade de reexame de contexto fático-probatório - Súmula 7/STJ (arts. 406 e 884 do CC; 505 e 507 do CPC); iii) deficiência de fundamentação - Súmula 284/STF(litigância de má-fé).
+Decisão agravada:não conheceu do agravo em recurso especialem razão da ausência de dialeticidade recursal.
+Agravo interno: nas razões do presente recurso, oagravantesustentaque o agravo em recurso especial observouos requisitos e pressupostos legais, bem como reiterateses expostas no apelo nobre.
+É O RELATÓRIO.
+EMENTA
+ PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO OCORRÊNCIA.
+1.O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, de forma específica e consistente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+2. Agravo interno no agravo em recurso especial não provido.
+VOTO
+EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+1. A decisão agravada não conheceu do agravo em recurso especial interposto peloagravante, tendo em vista aausência de impugnação específica a todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. Examinando-se os autos, verifica-se que o Tribunal de origem negou seguimento ao recurso especial com base nos seguintes óbices: (i) o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (arts.489, II, e 1022 do CPC/2015); (ii)no tocante À alegada violação aos artigos 505 e 507 do CPC, 406 e 884 do CC, "a turma julgadora, após detida análise dos autos, assentou: "Com efeito, a decisão ora agravada limitou-se a dar comando ao decisum supracitado, visto que no que toca ao período de aplicação da taxa Selic, sua incidência somente é a partir da vigência do novo Código Civil, o que foi devidamente realizado pela contadoria judicial. Assim, verifica-se que está preclusa a oportunidade de rediscussão para afastar cálculos já homologados" (ID 14818586). Rever tal conclusão seria indispensável o revolvimento do conjunto fático-probatório acostado aos autos, vedado pelo enunciado 7 da Súmula do STJ, aplicável também aos recursos especiais interpostos pela alínea "c" do permissivo constitucional"; (iii) "o apelo não merece prosseguir em relação à tese de que as multas aplicadas por litigância de má-fé devem ser extirpadas, porquanto "A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284 do STF, por analogia".
+3. Todavia, nas razões do agravo em recurso especial, a parte agravante, de fato, deixou de demonstrar, de forma consistente, a inaplicabilidade da Súmula 7/STJ e da Súmula 284/STF, limitando-se a reeditar as razõesdo apelo nobre e a postular a revaloração das provas.
+4. Cumpre salientarquena hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula 7/STJ, deve a parte agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que, neste processo, não foi feito.
+5. Outrossim,de acordo com a jurisprudência desta Corte, "não é bastantepara afastar o óbice da Súmula 182/STJ, a alegação genérica de que orecurso especial não comporta o reexame de provas. Faz-se necessário que oagravante demonstre, a partir do confronto entre os fundamentos do julgadorecorrido e da tese suscitada no apelo, que a natureza da controvérsiaindepende de tal providência" (AgInt no AREsp 1070028/SP, 2ª Turma, DJe20/10/2017), o que não foi atendido no presente caso.
+6. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto nos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ.
+7.A decisão agravada, portanto, não merece reforma.
+8. Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
