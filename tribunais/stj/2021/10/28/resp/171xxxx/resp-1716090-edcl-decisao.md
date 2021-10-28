@@ -1,0 +1,27 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração opostos por CAIXA ECONÔMICA FEDERAL em face de decisão que negou provimento ao recurso especial, assim ementada:
+RECURSO ESPECIAL. CONSUMIDOR E CIVIL. CONSTRUÇÃO DE IMÓVEL TENDO COMO FINANCIADORA A CAIXA. RESCISÃO CONTRATUAL. CONTRATO MISTO. INTERDEPENDÊNCIA DAS OBRIGAÇÕES. VÍCIOS DE CONSTRUÇÃO DE IMÓVEIS. PROGRAMA IMÓVEL NA PLANTA. RECURSOS SFH. RESPONSABILIDADE DA CAIXA ECONÔMICA FEDERAL. TRIBUNAL DE ORIGEM RECONHECEU A SUA LEGITIMIDADE, POR NÃO SER MERO AGENTE FINANCIADOR. MATÉRIA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO. (e-STJ, fl. 295)
+A embargante alega que "o TRF a quo partiu da falsa premissa de que o contrato objeto da ação é do Programa Minha Casa Minha Vida. Também entendeu o TRF que o imóvel é voltado à população de baixa ou baixíssima renda" (e-STJ, fl. 307).Defende ainda que "mesmo em sendo o contrato do PMCMV, se a CAIXA é mero agente financeiro da aquisição e construção, não tem legitimidade para responder pelo atraso na entrega do imóvel" (e-STJ, fl. 308).
+Impugnação apresentada, requerendoaplicação da Multa do Art.1026, § 2º, do CPC, bem como a indenização por litigância de má-fé previsto no Art. 81, do CPC(e-STJ, fls. 314/327).
+É o breve relatório.
+Passo a decidir.
+A pretensão recursal não merece ser acolhida.
+Nos termos do art. 1.022 do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do julgado.
+Conforme acertadamente consignado na decisão embargada, o acórdão recorrido está em consonância com a jurisprudência desta Corte, no sentido de que a legitimidade passiva da CEF não decorre da mera circunstância de haver financiado a obra nem de se tratar de mútuo contraído no âmbito do SFH, mas por ser o agente executor de políticas federais destinadas ao atendimento de moradia para pessoas de baixa renda.
+De forma diversa, a embargante busca discutir premissa utilizada pelo acórdão proferido pelo Tribunal de origem, sendo certo que "acontradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto" (EDcl no AgRg no AREsp n. 1275606/RJ, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/9/2018, DJe 11/10/2018).
+Portanto, a matéria está decidida, sendo que os vícios apontados não se fazem presentes. A embargante busca, com o seu inconformismo, apenas rediscutir pontos já examinados.
+A esta Corte, contudo, não cabe adentrar em matéria fática e probatória já definida pelo Tribunal de origem. Logo, as afirmações da embargante não são passíveis de modificação nesta instância. Cabia a ela, no momento adequado, impugnar o Juízo competente.
+No caso, portanto, não se configura a existência de quaisquer das deficiências em questão, pois a decisãoembargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso, tendo em vista a ausência de impugnação específica.
+Amolda-se à espécie, pois, o entendimento pretoriano consolidado no sentido de que, "quando o Tribunal de origem, ainda que sucintamente, pronuncia-se de forma clara e suficiente sobre a questão posta nos autos, não se configura ofensa ao artigo 535 do CPC. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte" (AgRg no Ag 1.265.516/RS, 4ª Turma, Min. João Otávio de Noronha, DJe de 30/06/2010).
+Assim, não podem ser acolhidos embargos de declaração que, em verdade, traduzem inconformismo com a decisão posta, pretendendo rediscutir o que já foi decidido.
+Por fim, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+E ainda, quanto ao pedido de condenação da embarganteem litigância de má-fé, tem-se que esta se configura quando a parte deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso; alterar a verdade dos fatos; usar do processo para conseguir objetivo ilegal; opuser resistência injustificada ao andamento do processo; proceder de modo temerário em qualquer incidente ou ato do processo; provocar incidentes manifestamente infundados ou, ainda, interpuser recurso com intuito manifestamente protelatório (artigo 80, do CPC/15).
+Contudo, diversamente do alegado pela embargada, não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+Destarte, devem ser rejeitados os embargos opostos.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/15. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022, do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. EMBARGOS DE DECLARAÇÃO REJEITADOS.
