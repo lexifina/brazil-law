@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NÉLIO DOS SANTOS ALMEIDA contra decisão proferida no âmbito do Tribunal de Justiça do Estado de Tocantins pelo relator do HC n. 0016356-96.2020.8.27.2700/TO.
+Colhe-se nos autos que o Paciente foi preso em flagrante no dia 18/11/2020 pela suposta prática do crime previsto no art. 158, §1.º do Código Penal. O Juízo de primeiro grau homologou a prisão em flagrante e converteu a segregação precautelar em prisão preventiva.
+Em 20/11/2020 foi indeferido o pedido de concessão de liberdade provisória (fls. 23-25).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal estadual. O Desembargador do plantão judiciário deixou de analisar o pedido liminar, pois "a pretensão trazida neste habeas corpus não ostenta o caráter de medida urgente previsto no artigo 6º da Resolução nº. 46/2017 TJTO, porquanto houve tempo hábil o suficiente para que o remédio heróico fosse impetrado durante o expediente normal" (fl. 22).
+Na presente impetração alega-se que o Tribunal de origem incidiu em ilegalidade ao não analisar o pedido liminar. Destaca que não estão presentes os pressupostos para a manutenção da prisão preventiva.
+Requer-se, liminarmente e no mérito, a revogação da prisão processual do Paciente, ou ao menos sua substituição pelas medidas cautelares previstas no art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido pelo Ministro Presidente (fls. 72-73).
+As informações foram apresentadas (fls. 81-82 e 111-114).
+O Ministério Público Federal opina pelo não conhecimento do writ (fls. 88-91).
+É o relatório. Decido.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (HC 541.515/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/02/2020, DJe 17/02/2020; AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020; HC 543.255/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020; AgRg no HC 506.812/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/07/2019, v.g.).
+No presente caso, o Relator do habeas corpus original, ao deixar de analisar o pedido liminar, simplesmente constatou a ausência dos pressupostos autorizadores do julgamento da medida requerida. E nisso não há nenhum constrangimento ilegal.
+Saliento que os requisitosda prisão preventiva não foram objeto de apreciação na decisão impugnada, situação a impedir que este Tribunal de se manifestar sobre o tema, uma vez vedada a supressão de instância (AgRg no RHC 149.601/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/10/2021, DJe 08/10/2021).
+Ademais, verifico que houve osuperveniente julgamento do mérito da impetração. Desse modo, forçoso reconhecer a prejudicialidade do presente mandamus, tendo em vista a perda superveniente de seu objeto, uma vez que os seus argumentos, expostos contra a decisão monocrática indeferitória da medida liminar, restaram superados com o julgamento definitivo do habeas corpus da origem AgRg no HC 680.271/PE, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 14/09/2021, DJe 22/09/2021).
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXTORSÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DO DESEMBARGARDOR DO PLANTÃO JUDICIÁRIO. AUSÊNCIA DE ANÁLISE DO MÉRITO DA MEDIDA NO TRIBUNAL A QUO. SÚMULA 691. REQUISITOS DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA.SUPERVENIENTE JULGAMENTO DE MÉRITO.HABEAS CORPUSNÃO CONHECIDO.
