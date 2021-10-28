@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7 do STJ.
+Sustenta o agravante que a matéria deduzida no recurso especial prescinde de revolvimento fático-probatório, razão pela qual requer o seu provimento.
+Apresentada contraminuta, manifestou-se o Ministério Público pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada, razão pela qual deve ser conhecido para julgar o recurso especial, em que pretende o estabelecimento da fração máxima de 2/3 da minorante do tráfico privilegiado.
+O agravantefoi condenadoà pena de 5 anos de reclusão e 500 dias-multa, como incursono art. 33 da Lei 11.343/06.Interposto recurso de apelação, foi provido para reconhecer a incidência da minorante do trafico privilegiado em 1/2, resultando a pena de 2 anos e 6 meses de reclusão, em regime aberto, e 250 dias-multa, "considerando que foram apreendidos com o réu 70 (setenta) comprimidos de Rohypnol e 11,8g (onze gramas e oito centigramas) de maconha" (fl. 273).
+Tratando-se, contudo,de 70 comprimidos de Rohypnol e 11,8gde maconha, a quantidade não se mostra relevante, somada à ausência de circunstâncias adicionais desfavoráveis, como a inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, entre outras, não ensejama vedação da minorante do tráfico no seu quantum máximo de 2/3ou a negativa à substituição das penas. Nesse sentido: AgRg no AREsp 1679878/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/08/2020, DJe 14/08/2 020; AgRg no HC 554.893/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 15/05/2020.
+Assim, fixada a pena-base no mínimo legal, mantém-se a pena no mesmo patamar, na segunda fase, com fundamento na Súmula 231 do STJ. Incide, por fim,a causa de diminuição de pena do tráfico privilegiado em 2/3, resultando a pena definitiva de 1 ano e 8 meses de reclusão e 166 dias-multa. Fica estabelecido o regime aberto e substituída a pena privativa de liberdade por restritiva de direitos.
+Ante o exposto, conheço do agravo para darprovimento ao recurso especial para fixar a pena em 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, e substituí-la por restritiva de direitos.
+Publique-se.
+Intimem-se.
