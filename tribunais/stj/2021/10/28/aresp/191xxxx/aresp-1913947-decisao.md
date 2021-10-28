@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CARRY LIFE IMPORTADORA, COMÉRCIO E DISTRIBUIDORA DE ACESSÓRIOS ESPORTIVOS LTDA contra decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 1.025, e-STJ):
+DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO CONTRA A SENTENÇA NÃO CONHECIDOS. PRELIMINAR DE NULIDADE. RECURSO TEMPESTIVO. INTERRUPÇÃO DO PRAZO PARA APELAÇÃO. PRECEDENTES. DESISTÊNCIA DA DEMANDA. PERDA SUPERVENIENTE DO INTERESSE DE AGIR. CUSTAS PROCESSUAIS. ART. 90 DO CPC. SENTENÇA MANTIDA.
+1 - Em caso de não conhecimento de Embargos de Declaração interpostos contra a sentença, entende-se que, a não ser que o não conhecimento decorra de intempestividade, há interrupção do prazo para a interposição da Apelação. Constatada a tempestividade dos Embargos, mostra-se irrelevante a análise quanto ao acerto ou desacerto da Magistrada ao negar conhecimento ao recurso, porque, em todo caso, a contagem do prazo para Apelação levará em consideração a interrupção prevista no art. 1.026 do Código de Processo Civil. Por tal fundamento, rejeita-se a preliminar de nulidade da decisão em que os Embargos de Declaração não foram conhecidos.
+2 - Havendo desistência da Execução com a consequente extinção do Feito pela perda superveniente do interesse de agir, deve a Exequente arcar com as custas processuais, nos termos do caput do art. 90 do CPC, segundo o qual, "proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu".
+Preliminar rejeitada.
+Apelação Cível desprovida.
+Opostos embargos de declaração (fls. 1.034-1.039, e-STJ), esses foram rejeitados (fls. 1.051-1.056, e-STJ).
+Em suas razões recursais (fls. 1.064-1.074, e-STJ), a insurgente aponta violação aos artigos 90 e 775 do CPC/2015. Para tanto, alega que "o pedido de desistência da presente demanda se deu única e exclusivamente porque não foram localizados bens suficientes para satisfazer o crédito exequendo  razões essas que constaram expressamente do v. aresto recorrido, embora não acolhida  e, nesses casos, a jurisprudência é pacífica no sentido de que os efeitos da sucumbência devem recair sobre o executado, jamais sobre o exequente, na medida em que a melhor interpretação do art. 90 do CPC, nesse caso, deve ser informada pelo princípio da causalidade, bem como pelo quanto disposto no art. 775 do CPC" (fl. 1.072, e-STJ).
+Em juízo de admissibilidade (fls. 1.086-1.087, e-STJ), negou-se o processamento do recurso especial.
+Daí o agravo (fls. 1.091-1.099, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a insurgente refutou o óbice aplicado pela Corte a quo.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. Cinge-se a controvérsia em  saber  se  a  desistência  da  execução,  por  não  ter  sido  paga  a  dívida ,  nem  terem  sido  encontrados  bens  penhoráveis ,  ensejaria  a  condenação  do  exequente  ao  pagamento  de  custas e  honorários  advocatícios  à  parte  executada.
+Na resolução da controvérsia, o Tribunal de origem considerou que, havendo desistência da execução, deve a exequente arcar com as custas processuais, firme nos seguintes fundamentos (fls. 1.030-1.031, e-STJ):
+Com efeito, o caput do art. 90 do Código de Processo Civil é expresso no sentido de que, "proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu" (destaquei).
+As razões pelas quais a Exequente desiste da demanda lhe são pessoais, não havendo exceção no comando legal em questão em função daquilo que o Credor manifesta como motivo para a desistência.
+Na mesma linha de entendimento aqui esposada, colaciono o seguinte julgado desta Corte:
+(..)
+Acrescento que, diversamente do que afirmado na Apelação - em que a Recorrente defende que não pode ser considerada sucumbente - a fixação da responsabilidade pelo pagamento das custas processuais em caso de desistência não se dá pelo critério da sucumbência, uma vez que a perda superveniente do interesse de agir resulta na ausência de vencedores e perdedores na demanda.
+Por fim, anoto que os precedentes colacionados ao recurso, a despeito de estamparem entendimento diverso ao que ora apresento, não têm eficácia vinculante a me demover dos fundamentos adotados no sentido da plena aplicabilidade do art. 90 do Código de Processo Civil ao caso.
+Tal entendimento, todavia, encontra-se em dissonância com a jurisprudência desta Corte, firmada no  sentido  de  que  não  cabe  ao  credor  o  pagamento  de  custas e  honorários  advocatícios,  em  decorrência  da  desistência  da  ação  pelo  fato  de  não  ter  localizado  bens  do  devedor,  levando  em  consideração  os  princípios  da  causalidade,  da  efetividade,  da  boa-fé  e  da  cooperação.
+Nesse sentido:
+AGRAVO  INTERNO.  RECURSO  ESPECIAL.  CUMPRIMENTO  DE  SENTENÇA.  EXTINÇÃO  DA  EXECUÇÃO  POR  DESISTÊNCIA  DO  EXEQUENTE.  HONORÁRIOS  ADVOCATÍCIOS  EM  FAVOR  DO  EXECUTADO.  DESCABIMENTO.  PRINCÍPIO  DA  CAUSALIDADE.  AUSÊNCIA  DE  SUCUMBÊNCIA  DO  EXEQUENTE.
+1.  Vindo  o  exequente  a  desistir  do  cumprimento  de  sentença  por  não  localização  de  bens  do  devedor,  incabível  a  fixação  de  honorários  advocatícios  em  favor  do  executado,  uma  vez  que,  diante  dos  princípios  da  efetividade  do  processo,  da  boa-fé  processual  e  da  cooperação,  não  pode  o  devedor  se  beneficiar  do  não  cumprimento  de  sua  obrigação.
+2.  A  desistência  da  execução  em  virtude  da  não  localização  de  bens  do  devedor  não  retira  a  aplicação  do  princípio  da  causalidade  em  desfavor  do  executado,  nem  atrai  a  sucumbência  para  o  exequente.
+3.  Agravo  interno  a  que  se  nega  provimento.
+(AgInt no REsp 1744492/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe 14/06/2019)
+RECURSO  ESPECIAL.  DIREITO  PROCESSUAL  CIVIL.  CUMPRIMENTO  DE  SENTENÇA.  DESISTÊNCIA.  AUSÊNCIA  DE  BENS  PENHORÁVEIS  DE  TITULARIDADE  DA  PARTE  EXECUTADA.  HONORÁRIOS  ADVOCATÍCIOS.  NÃO  CABIMENTO.
+1.  Em  relação  à  desistência,  que  se  opera  no  plano  exclusivamente  processual,  podendo  dar  azo,  inclusive,  à  repropositura  da  execução,  o  novo  CPC  previu  que  "o  exequente  tem  o  direito  de  desistir  de  toda  ou  de  apenas  alguma  medida  executiva"  (art.  775).
+2.  A  desistência  da  execução  pelo  credor  motivada  pela  ausência  de  bens  do  devedor  passíveis  de  penhora,  em  razão  dos  ditames  da  causalidade,  não  rende  ensejo  à  condenação  do  exequente  em  honorários  advocatícios.
+3.  Nesse  caso,  a  desistência  é  motivada  por  causa  superveniente  que  não  pode  ser  imputada  ao  credor.  Deveras,  a  pretensão  executória  acabou  se  tornando  frustrada  após  a  confirmação  da  inexistência  de  bens  passíveis  de  penhora  do  devedor,  deixando  de  haver  interesse  no  prosseguimento  da  lide  pela  evidente  inutilidade  do  processo.
+4.  Recurso  especial  não  provido.
+(REsp  1.675.741/PR,  Rel.  Ministro  LUIS FELIPE SALOMÃO,  QUARTA  TURMA,  julgado  em  11/6/2019,  DJe  5/8/2019)
+De rigor, portanto, a reforma do acórdão ora recorrido,  pois, nos  termos  do  entendimento  jurisprudencial  firmado  por  esta  Corte ,  é  manifestamente  descabida,  em  situações  com  a  dos  presentes  autos,  a  condenação  da  parte  exequente  ao  pagamento  de custas e  honorários  sucumbenciais.
+3. Do exposto, com amparo no artigo 932 do CPC/2015 c/c a Súmula 568/STJ, conheço do agravo e dou provimento ao recurso especial, para excluir a condenação da agravante ao pagamento de custas e honorários advocatícios.
+Publique-se.
+Intimem-se.
