@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se do agravo interposto por ECON CONSTRUTORA E INCORPORADORA LTDA., contra decisão que conheceu parcialmente do recurso especial que interpuserae, nessa extensão, negou-lhe provimento.
+Ação: de indenização por danos materiais e compensação por danos morais, ajuizada por WAGNER CARDOSO e por AMARILDO RODRIGUES DO NASCIMENTO e OUTROS, em face da agravante, da COOPERATIVA HABITACIONAL NOSSO TETO e da PAULICOOP PLANEJAMENTO E ASSESSORIA A COOPERATIVAS HABITACIONAIS LTDA., decorrente de atraso na entrega de imóvel.
+Sentença: julgou parcialmente procedente o pedido, para condenar as rés ao pagamento de indenização por lucros cessantes, correspondente a 0,5% do valor do imóvel, desde janeiro de 2017 até a data da entrega das chaves.
+Acórdão: negou provimento à apelação interposta pelas rés e deu provimento ao apelo do agravado, a fim de alterar o termo inicial dos juros de mora e condenar as rés ao pagamento de R$ 20.000,00 (vinte mil reais), a título de compensação por danos morais. O acórdão foi assim ementado:
+AQUISIÇÃO UNIDADE HABITACIONAL - Adesão - Compromisso de venda e compra - Cooperativa habitacional - Forma adotada a afastar caracterização de regime cooperado tratando-se, em realidade, de negócio comum de venda e compra mediante pagamento parcelado - Relação de consumo caracterizada Incidência das regras do Código de Defesa do Consumidor.
+ILEGITIMIDADE PASSIVA - ECON Construtora e Incorporadora que participou do negócio, captando e administrando os recursos - Solidariedade dos fornecedores, pela aplicação do Código de Defesa do Consumidor - PRELIMINAR AFASTADA.
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - Demora na entrega da unidade - Não caracterização de ocorrência de força maior ou caso fortuito -Condições apontadas a revelar falta de regular previsão - Mora caracterizada - Obrigação das rés de indenizarem o comprador por perdas e danos pelo período da mora na entrega da unidade, a partir da data prevista até a efetiva entrega das chaves, pela simples indisponibilidade do bem, que independe da destinação de seu uso - Fixação em valor mensal correspondente a 0,5% sobre o valor atualizado do contrato - Razoabilidade, não comportando redução - Juros de mora de 1% ao mês a contar da citação - Inexigibilidade de débito a título de rateio de despesas remanescentes apuradas no custo final da obra - Atribuição de saldo devedor pelas rés de forma unilateral - Ausência de demonstração de exigibilidade do débito - Danos morais - Cabimento - Fixação em R$ 20.000,00 (vinte mil reais)Sentença, em parte, reformada - RECURSOS DAS RÉS NÃO PROVIDOS E PROVIDO O DO AUTOR.
+Embargos de declaração: interpostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 265, 402, 405, 422, 476, 884 e 944 do CC/02; 2º, 3º, 7º, parágrafo único, 12 e 14 do CDC; e 485, VI, 489, § 1º, IV e 1.022 do CPC/15, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta sua ilegitimidade passiva. Assevera que não existe cadeia de consumo entre os clientes da Cooperativa e a recorrente. Insurge-se contra a condenação ao pagamento de lucros cessantes, ou, alternativamente, pugna pela redução do valor fixado. Assevera que os juros de mora devem incidir a partir da data do trânsito em julgado. Argumenta que o atraso não pode ser imputado à recorrente. Aduz a inexistência de danos morais a serem compensados. Insurge-se contra o valor fixado a título de compensação por danos morais, por considerá-lo elevado.
+Decisão agravada: conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, nos termos da seguinte ementa:
+CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJOANALÍTICOE SIMILITUDEFÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimentodo recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+6. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Recurso especial parcialmente conhecido não provido, com majoração de honorários.
+Agravo interno: sustentaa inaplicabilidade das Súmulas 284/STF e 5, 7 e 211, todasdo STJ.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. Açãode indenização por danos materiais e compensação por danos morais.
+2. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com imposição de multa.
+VOTO
+A decisão agravada, conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, com os seguintes fundamentos: i) incidência dos óbices das Súmulas 284/STF e 5, 7, 211 e 568, todas do STJ; e ii) ausência de comprovação do dissídio jurisprudencial.
+Da análise do presente recurso, verifica-se que aagravantese limitou a sustentar a inaplicabilidade dosóbices das Súmulas 284/STF e 5,7 e211, todas do STJ, mas não rebateu, de maneira consistente e específica, a incidência do óbice da Súmula 568/STJ, e tampouco impugnou, pontualmente,o fundamento no sentido de que o dissídio jurisprudencial não teria sido comprovado.
+Ressalte-se que a impugnação da Súmula 568/STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, com a realização de cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto no art. 253, parágrafo único, I do RISTJ.
+Forte nessas razões, NÃO CONHEÇO do presente agravo.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
