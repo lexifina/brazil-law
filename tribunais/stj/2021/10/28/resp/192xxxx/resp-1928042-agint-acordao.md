@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Warehouse 1 Empreendimentos Imobiliários S.A. e Sig Empreendimentos Imobiliários Ltda. em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 967):
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO. TEMPESTIVIDADE. NOVO EXAME DO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DAS CHAVES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AUSÊNCIA DE INTERESSE DE AGIR. FALTA DE INDICAÇÃO DOS ARTIGOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA N. 284/STF, APLICÁVEL POR ANALOGIA. TERMO INICIAL DA MORA. SÚMULAS N. 5 E 7/STJ. DANOS MORAIS. CIRCUNSTÂNCIA QUE, POR SI SÓ, NÃO ACARRETA ATO ILÍCITO INDENIZÁVEL. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE.
+Em suas razões, as agravantes alegam a inaplicabilidade da Súmula n. 7/STJ, uma vez que a análise da matéria não demanda a incursão na seara fático-probatória dos autos
+Salientam, ademais, que há entendimento sedimentado no Superior Tribunal de Justiça no sentido de que o termo final da mora é a data da averbação da carta de Habite-se.
+Aduzem, outrossim,que ficou comprovada nos autos a cobrança indevida de juros.
+Advertem, no mais, a necessidade de redistribuição dos honorários advocatícios, pois os agravados tiveram mais pedidos julgados improcedentes.
+Requerem, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DAS CHAVES. TERMO INICIAL DA MORA. SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.Nos termos da jurisprudência desta Corte Superior, "a tese de que o "habite-se" deve ser considerado como termo final para a entrega do imóvel em razão de expressa previsão contratual nesse sentido, esbarra no óbice das Súmulas 5 e 7/STJ" (AgInt no REsp n. 1.752.994/SP, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/4/2019, DJe 8/4/2019).
+2. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Com relação ao termo final do período da mora, de acordo com a jurisprudência desta Corte Superior, "a tese de que o "habite-se" deve ser considerado como termo final para a entrega do imóvel em razão de expressa previsão contratual nesse sentido, esbarra no óbice das Súmulas 5 e 7/STJ" (AgInt no REsp n. 1.752.994/SP, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/4/2019, DJe 8/4/2019).
+Veja-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. LEGITIMIDADE PASSIVA DA AGRAVANTE PARA A DEMANDA. PARTICIPAÇÃO NA CADEIA DE FORNECIMENTO. AFASTAMENTO.IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. LUCROS CESSANTES.INDENIZAÇÃO DEVIDA. PRESUNÇÃO DOS PREJUÍZOS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ.PEDIDO DE ALTERAÇÃO DO TERMO FINAL DA MORA DA EMPRESA PARA A DATA DA EXPEDIÇÃO DO "HABITE-SE". AUSÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N.282 E 356 DO STF. NECESSIDADE DE ANÁLISE DE MATÉRIA FÁTICA. ÓBICE DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência do STJ, "é solidária a responsabilidade de todos os fornecedores que se beneficiem da cadeia de fornecimento" (AgInt no AREsp n. 1.312.486/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/11/2018, DJe 16/11/2018).
+2. O recurso especial não comporta exame de questões que impliquem análise de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso, o Tribunal a quo assentou que a agravante integrou a cadeia fornecimento, motivo por que reconheceu sua legitimidade passiva para a demanda. Para entender de modo contrário seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+4. A jurisprudência da Segunda Seção do STJ, firmada na sistemática dos recursos repetitivos, é no sentido de que, "no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp n.1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019). Incidência da Súmula n.83/STJ.
+5. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+6. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento (Súmulas n. 282 e 356 do STF).
+7. "A tese de que o "habite-se" deve ser considerado como termo final para a entrega do imóvel em razão de expressa previsão contratual nesse sentido, esbarra no óbice das Súmulas 5 e 7/STJ" (AgInt no REsp n. 1.752.994/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/4/2019, DJe 8/4/2019).
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp 1794544/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/04/2020, DJe 24/04/2020)
+No que diz respeito à falta de comprovação da cobrança de juros, o acórdão recorrido foi assim fundamentado (e-STJ, fls. 757-758):
+Com efeito, em que pesem as argumentações dos autores, a simples correção do saldo devedor não configura um aumento de preço, mas mera adequação do valor diante da desvalorização monetária. Assim, os valores acrescidos por mera correção não são indenizáveis.
+Por outro lado, os valores acrescidos de qualquer outro encargo (juros, por exemplo) constituem aumento de preço e, como não houve qualquer ato a ser imputado aos autores pelo atraso na entrega, eles não podem ser penalizados com qualquer aumento de preço, que não seja a mera correção monetária.
+Nesse sentido, destaco o seguinte precedente:
+( )
+In casu, as rés alegaram que não foi cobrado qualquer tipo de juros dos autores desde janeiro de 2014, data prevista para a conclusão das obras, utilizando-se, apenas, o índice previsto no contrato, a saber: ICC-RJ, apresentando a planilha de índice 0486. A parte autora, em sua réplica (índice 00495), não impugnou a planilha apresentada pelas rés, tampouco o índice informado, limitando-se a afirmar ser indevida a correção na hipótese de mora na entrega, pretendendo a sua devolução integral, o que não é cabível.
+Diante deste cenário, tenho que o recurso dos autores merece parcial provimento, neste tocante, apenas para consignar que não é cabível a cobrança de juros durante o período de atraso, devendo ser observada, apenas, a incidência da correção estabelecida no contrato (ICC-RJ), o que deverá ser apurado em sede de liquidação de sentença, determinando-se a devolução do valor apurado a maior, acrescido de juros a contar da citação (art. 405, do CC) e correção monetária a partir do desembolso (Sumula 43, do STJ).
+Como é possível verificar, a questão foi resolvida conforme o pedido das ora recorrentes, sendo que qualquer irregularidade será apurada em liquidação de sentença, ficando evidenciada, no ponto, a ausência de interesse de agir por parte das insurgentes.
+Por fim, correta a redistribuição dos honorários sucumbenciais, nos termos em que proposto na decisão agravada, qual seja, em 10% sobre o valor da condenação, com base no disposto no art. 85, § 2º, do NCPC, a serem suportados na proporção de 50% para os requerentes e 50% para as requeridas, dada a sucumbência recíproca.
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
