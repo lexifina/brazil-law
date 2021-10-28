@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+JOSÉ DOMINGOS VIANA DOS SANTOS e CIRLEY DE ALMEIDA VIANA DOS SANTOS (JOSÉ e CIRLEY) ajuizaram ação de obrigação de fazerc/c indenização por danos moraiscontra GESTORA DE RECEBÍVEIS TETTO HABITAÇÃO S.A. (GESTORA) e ITAÚ UNIBANCO S.A. (ITAÚ), sob alegação de que adquiriramimóvel residencial, tendo figurado como credor hipotecário o antigo banco BANERJ Crédito Imobiliário S.A., eque, após dez anos do pagamento da última parcela, não conseguiram obter o cancelamento da hipoteca que incide sobre o imóvel e a consequente transmissão. Pugnam pela condenaçãodos réus a fornecerem a devida baixa na hipoteca, sob pena de multa diária,e ao pagamento de indenização por danos morais.
+Em primeira instância, o pedido foi julgado procedente para condenar o ITAÚ a proceder àbaixa na hipoteca do imóvel objeto dos autos em 30 dias, sob pena de multa a ser aplicada em caso de descumprimento, bem como para condenar a GESTORA e o ITAÚ, solidariamente, ao pagamento de danos morais, no valor de R$ 6.000,00 (seis mil reais) a cada um dos autores, com correção monetária a contar da sentença e juros de mora desde a citação(e-STJ, fls. 249/253).
+ITAÚ interpôs recurso de apelação que foi desprovido pelo Tribunal de Justiça do Rio de Janeiro nos termos do acórdão assim ementado:
+Apelação. Contrato de compra e venda.Financiamento do imóvel. Baixa da hipoteca.Recusa injustificada. Ação de obrigação de fazer com pedido de indenização por danos morais.Sentença de procedência. Determinação de baixa do gravame. Irresignação do banco. Recurso da instituição bancária. Itaú que sucedeu ao Banerj, daí que a pretensão de baixa da hipoteca a ser dirigida apenas ao credor hipotecário. Obviamente, quando esses fatos acontecem, há uma nova configuração da empresa, porém as obrigações e direitos pretéritos não são necessariamente extintos, por força da lei. Autores que, no momento da contratação, já possuía um financiamento imobiliário anterior, firmado em 1981, e o segundo, que ora se discute, em 1983, ambos anteriores à Lei 8100/90, que passou a haver previsão legal expressa e sem exceções, de que o FCVS somente quitaria um único financiamento imobiliário. Assim, não procede a negativa de cobertura pelo FCVS aofinanciamento imobiliário em referência. Afastada a aplicação da Súmula 144 do TJERJ. Dano moral configurado e mantido. Honorários recursais devidos. Recurso desprovido(e-STJ, fls. 309/310).
+Inconformado, ITAÚ manejourecurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 485, VI e § 3º, do NCPC, ao sustentar ser parte ilegítima para figurar no polo passivo da demanda, já que não assumiu a carteira de crédito imobiliário doBanco Banerj S.A.(e-STJ, fls. 323/332).
+O apelo nobre não foi admitido em virtude daincidência do óbice da Súmula nº 83 do STJ(e-STJ, fls. 356/367).
+Sobreveio agravo que, em decisão monocrática do Ministro Presidente desta Corte,não foi conhecido por não ter sido impugnado especificamente o óbice da Súmula nº 83 do STJ.
+No presente agravo interno, ITAÚ afirmouque, ao contrário do que consignado, as razões do agravo em recurso especial teria impugnado adequadamente a incidência da Súmula nº 83 do STJindicadana origem para obstar o seguimento do apelo nobre (e-STJ, fls. 456/473).
+Apresentadasimpugnações (e-STJ, fls. 475/478 e 480/483).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna o fundamento da respectiva inadmissibilidade (incidência da Súmula nº 83do STJ).
+3.Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão impugnada, o agravo em recurso especial não se dirigiu especificamente contra ofundamentoda decisão que negou seguimento ao apelo nobre, poisITAÚ, na ocasião, não refutou, de forma arrazoada, oóbiceda incidência daSúmulanº 83 do STJ.
+Ressalte-se que, na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência da Súmula nº 83 do STJ, deve o agravante refutar o citado óbice mediante a clara demonstração de que o acórdão recorrido não decidiu de acordo com a jurisprudência do STJ ou que o entendimento citado na decisão agravada não trata de entendimento dominante nesta Corte, o que não se observa no caso concreto.
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente oóbiceanteriormente mencionado, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973), devendo ser mantida a decisão agravada.
+Nesse sentido, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O PROCESSAMENTO DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS EM CONFORMIDADE COM O DISPOSTO NO ART. 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade recursal proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Consoante o entendimento da Segunda Seção do STJ, nas hipóteses de não conhecimento ou de improvimento dos recursos interpostos na vigência do Código de Processo Civil de 2015, é cabível o arbitramento dos honorários advocatícios recursais, ante a incidência da norma do art. 85, § 11, do referido diploma processual.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.620.321/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 30/3/2020, DJe 6/4/2020 - sem destaque no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA.JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA.
+ ..
+4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.643.618/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 23/3/2020, DJe 26/3/2020 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO NÃO CONHECIDO. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+ ..
+3. Não pode ser conhecido o agravo em recurso especial que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no artigo 932, inciso III, do CPC/2015.4. Agravo interno não provido.
+(AgInt no AREsp 1.578.985/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/3/2020, DJe 26/3/2020 - sem destaque no original)
+Assim, como ITAÚ não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
