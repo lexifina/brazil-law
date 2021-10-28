@@ -1,0 +1,32 @@
+DECISÃO
+Consta dos autos que a COMPANHIA ESTADUAL DE ENERGIA ELÉTRICA - CEEE (COMPANHIA ESTADUAL) propôs ação rescisória contra FLPM PARTICIPAÇÕES LTDA. - ME (FLPM PARTICIPAÇÕES).
+O Tribunal de Justiça do Rio Grande do Sul julgou improcedente o pedido rescisório em rejulgamento da matéria nos termos do acórdão assim ementado:
+AÇÃO RESCISÓRIA. REJULGAMENTO DA MATÉRIA POR FORÇA DE DETERMINAÇÃO DA INSTÂNCIA ESPECIAL. LIMITES DO EXAME DA RESCISÃO "A LUZ DAS PROVAS PRODUZIDAS NOS AUTOS OU, SE NECESSÁRIO, QUE VENHAM A SER PRODUZIDAS COM A CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA".
+Hipótese dos autos em que o juízo rescindendo está reservado ao exame do dever de indenizar as perdas e danos alegadas, sob o prisma dos lucros cessantes, investigando a presença dos requisitos ou pressupostos ao dever de indenizar, quais sejam: ato ilícito, dano e nexo de causalidade. E, sobre isso, não é possível afastar a indenização sob argumento deque não houve prejuízo ao autor, porque este, às escancaras, manifesta-se, na concepção da existência, como certo, não confundível com o aspecto quantitativo da sua liquidez. Destarte, independentemente da apuração sobre a consequência financeira desse prejuízo pela possibilidade da negociação do volume acionário que a demandante deixou de obter em vista da conduta da demandada no mercado de capitais, o dano resulta evidente e suscetível de recomposição. Não há como se recusar o exame que a diferença entre o número de ações que se impediu pelo resgate unilateral e aquele resultante do desdobramento acionário é prejuízo concreto à demandante e merece consideração para efeito de, justificado o prejuízo, indenizar o dano, na forma dos lucros cessantes. Quantum que será apurado em liquidação de sentença.
+EM REEXAME SOBRE O JUIZO RESCINDENDO CONFORME DECISÃO DA INSTÂNCIA ESPECIAL, POR MAIORIA, JULGARAM IMPROCEDENTE (e-STJ, fl. 3.304).
+Os embargos de declaração opostos pela COMPANHIA ESTADUAL foram rejeitados (e-STJ, fls. 3.049/3.061).
+Inconformada, a COMPANHIA ESTADUAL manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 128, 333, I, 460, parágrafo único, 494, 512 e 535, II, do CPC/73; 141, 373, I, 489, § 1º, IV, 492, parágrafo único, 974, 1.008 e 1.022, II, parágrafo único, II, do NCPC; 1.059, 1.060 e 1.536 do CC/16; e 11 e 12 da Lei nº 6.404/1976, ao sustentar (1) ausência de fundamentação e negativa de prestação jurisdicional consubstanciadas em omissõesrelativas a aplicação dos arts. 494 e 512 do CPC/73; e 1.536 do CC/16 no que se refere à destinação do depósito realizado quando do ajuizamento da ação rescisória; (2) que o Tribunal Estadual deveria ter realizado novo julgamento da causa; e (3) que o acórdão deixou de indicar qual o prejuízo certo e efetivo, o que não poderia ser postergado para a fase de liquidação de sentença (e-STJ, fls. 3.072/3.121).
+As contrarrazões foram apresentadas (e-STJ, fls. 3.133/3.175).
+O apelo nobre não foi admitido em virtude da (a) ausência de negativa de prestação jurisdicional; e (b) incidência da Sumula nº 284 do STF (e-STJ, fls. 3.178/3.188).
+Sobreveio agravo, que, por decisão de minha relatoria, não foi conhecido por não ter sido impugnado especificamente o fundamento da decisão agravada (e-STJ, fls. 3.303/3.306).
+Após o não provimento doagravo interno interposto pela COMPANHIA ESTADUAL(e-STJ, fls. 3.369/3.375), a Terceira Turma desta Corte acolheu os embargos de declaração por ela opostos para,em nova análise, reconsiderar as decisões anteriores e determinar a autuação do agravo como recurso especial (e-STJ, fls. 3.427/3.432).
+Os declaratórios opostos porFLPM PARTICIPAÇÕES foram rejeitados diante do não cabimento de recurso contradecisão ou acórdão que determina a conversão do agravo em recurso especial para melhor exame, salvo quando inobservados os requisitos de admissibilidade do próprio agravo(e-STJ, fls. 3.487/3.495).
+É o relatório.
+DECIDO.
+O recurso especial  merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da negativa de prestação jurisdicional
+O TJRS, ao analisar os embargos de declaração, incorreu em negativa de prestação jurisdicional consubstanciadas em omissões relativas a aplicação dos arts. 494 e 512 do CPC/73; e 1.536 do CC/16 no que se refere à destinação do depósito realizado quando do ajuizamento da ação rescisória.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJRSa se manifestar sobre as questões federais terminou por negar prestação jurisdicional àRecorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJRSpara que analise as questõestrazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO RESCISÓRIA.OMISSÕES.OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. RECURSO ESPECIAL PROVIDO.
