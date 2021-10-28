@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravomanejado pelo Banco Santander, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 35):
+EXECUÇÃO FISCAL - IPTU - Prescrição reconhecida dos exercícios de 2013/2014 - Ilegitimidade passiva em razão da condição de credor fiduciário do imóvel - Descabimento - Entidade bancária que detém a propriedade resolúvel do bem e se insere no conceito de contribuinte do imposto - Inteligência dos arts. 22 e 23 da Lei 9.514/97, e do art. 34 do CTN - Art.27, par. 8º, da Lei 9.514/97 que não tem o condão de se sobrepor ao CTN em matéria de competência tributária por força do art. 146, inc. III, alínea "a", da CF/88 - Precedentes - Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados (fls. 113/115).
+Nas razões do recurso especial, a parte agravante aponta violação aosarts. 1.022do CPC e 34 do CTN. Sustenta, em síntese, que: (I) a despeito da interposição dos aclaratórios, o Tribunal de origem quedou-se silente em relação às teses nele suscitadas e; (II) "ao atribuir a sujeição passiva tributária do IPTU ao credor fiduciário - que não possui a propriedade plena do imóvel e não exerce a posse indireta com animus domini - o v. acórdão agride frontalmente o art. 34 do Código Tributário Nacional, aplicando-o incorretamente, fora do espectro de sua abrangência" (fl. 61).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que, na data de hoje, proferi decisão em que determinei o retorno dos autos à instância ordinária, para que o apelo nobre do Município de São Paulofosse submetido ao rito previsto no art. 1.030, I, b, e II, do CPC/2015.
+Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, bem como a própria devolução do feito à origem, é o caso de se ter por prejudicado o exame da presente irresignação no momento.
+ANTE O EXPOSTO, julgo prejudicado o exame do recurso especial no presente momento processual.
+Publique-se.
