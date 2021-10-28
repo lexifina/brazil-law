@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Maria de Lourdes Martins contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 412):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. 1. LITIGÂNCIA DE MÁ-FÉ. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante pretende a reforma da decisão agravada.
+Para tanto, sustenta a inaplicabilidade da Súmula 7/STJ, uma vez que, no caso, não se exige o reexame no acervo fático-probatório, mas atribuição jurídica diversa dos fatos mencionados no acórdão recorrido.
+Ademais, defende que, segundo a orientação jurisprudencial do Superior Tribunal de Justiça, há a necessidade de comprovação do dolo ou culpa grave para a configuração da má-fé.
+A impugnação não foi apresentada, conforme certidão de fl. 435 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. 1. LITIGÂNCIA DE MÁ-FÉ ATESTADA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 3. AGRAVO INTERNO IMPROVIDO.
+1. A alteração da conclusão do Tribunal de origem (a respeito da configuração da litigância de má-fé da ora agravante) demandaria o revolvimento do conjunto fático-probatório do feito, o que não se admite nesta instância extraordinária, ante o óbice da Súmula 7/STJ.
+2. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento.
+Com efeito, em que pese às alegações deduzidas pela agravante, conforme consignado na decisão agravada de fls. 412-416 (e-STJ), o Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 294-297):
+Trata-se de procedimento recursal de apelação cível interposto por Maria de Lurdes Martins contra a sentença proferida pelo MM. Juízo da 1ª Vara Cível de Competência Residual da Nova Andradina que, nos autos da ação declaratória de nulidade de empréstimo consignado cumulado com repetição de indébito e danos morais movida contra Banco Safra S.A. que julgou improcedente o pleito, e condenou o requerente ao pagamento da multa de 2% do valor corrigido da causa, nos exatos termos do art. 81, § 2º, do CPC, além de indenizar a parte requerida pelos honorários advocatícios e despesas que suportou, arbitrados em 10% (dez por cento) do valor da causa, termos do art. 85, §2º do CPC, cuja exigibilidade fica suspensa pela concessão dos benefícios da justiça gratuita (art. 98, §3º do CPC), não se aplicando às penas aplicadas por litigância de má fé.
+A autora, mesmo após a juntada aos autos do instrumento por ela firmado, seguiu afirmando não reconhecer a validade do instrumento, baseando sua defesa em fraudes divulgadas na mídia, relativas a terceiros, sem produzir qualquer prova em seu proveito. E mais: neste recurso defende que o ofício emitido pelo banco onde possui conta e teve a quantia contratada depositada, não serve como prova de que os valores tenham sido-lhe disponibilizados.
+Com isso, resta inafastável a conclusão de que a requerente utilizou-se do processo para conseguir objetivo ilegal, consistente no seu enriquecimento ilícito, porquanto restou demonstrada a relação jurídica havida entre as partes e, principalmente que se beneficiou do crédito disponibilizado, que foi utilizado para quitação de empréstimo anteriormente firmado com outra instituição financeira.
+Gizo mais que desde a origem sabia serem legítimos os descontos operados, enquadrando sua conduta no disposto no inciso II do art. 80, do CPC, que leva à sua condenação por litigância de má-fé.
+(..)
+O Poder Judiciário não é órgão consultivo, onde as pessoas podem buscar informações acerca da existência ou não de determinada relação jurídica. Cabe à parte, para evitar uma demanda que onera os cofres públicos, já que no caso o recorrente litiga sob o pálio da justiça gratuita, certificar-se de que não recebeu a quantia, que deu origem aos descontos no seu benefício previdenciário, evitando assim movimentar desnecessariamente a máquina judiciária.
+Gizo que, para confrontar as provas trazidas pelo requerido, a apelante poderia ter juntado o extrato de sua conta bancária relativo ao período do contrato e da disponibilização do valor questionado nos autos, elemento imprescindível a dar suporte a suas alegações, mas diversamente disso, restringiu-se a negar o recebimento da importância contratada.
+Apesar disso, com relação ao valor aplicado para a multa por litigância de má-fé, vejo que se mostra excessivo, ante os precedentes desta Corte, em casos análogos, já que como salientado em seu recurso, se trata de pessoa humilde, litigando sob o pálio da justiça gratuita, podendo a condenação, na forma estabelecida em primeiro grau, comprometer a subsistência do recorrente e sua família, não sendo esta a finalidade de tal penalidade e por tal motivo, reduzo a condenação para 1% sobre o valor atribuído à causa.
+Por fim, sabe-se que, no sistema de persuasão racional adotado no processo civil brasileiro, o juiz não está obrigado a se manifestar sobre todas as alegações e disposições normativas invocadas pelas partes, bastando menção às regras e fundamentos jurídicos que levaram à decisão de uma ou outra forma.
+Assim, dou por devidamente prequestionados todos os dispositivos constitucionais, legais e infralegais suscitados pelas partes no curso do processo, a fim de evitar a oposição de aclaratórios com intuito prequestionador.
+Registro, por entender oportuno, que eventual oposição de embargos declaratórios com propósito exclusivo de prequestionamento será considerada manifestamente protelatória, na forma do artigo 1.026, § 2º, do CPC.
+Ex positis, dou parcial provimento ao recurso, apenas para reduzir a multa fixada, para 1% sobre o valor atualizado da causa.
+Portanto, da análise dos trechos mencionados, verifica-se que a Corte estadual, com base nos elementos fático-probatórios da causa, ao contrário das teses defendidas pela recorrente, concluiu ter havido a demonstração da litigância de má-fé.
+Desse modo, é inafastável o óbice da Súmula 7/STJ. Isso porque a revisão das conclusões a que chegou o Colegiado estadual reclama a incursão no contexto fático-probatório dos autos, providência inviável no âmbito do recurso especial, não sendo caso de revaloração de provas.
+A propósito, guardadas as devidas particularidades:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL. PROCESSUAL CIVIL. JULGAMENTO EXTRA PETITA. PREQUESTIONAMENTO. SÚMULA 211 DO STJ. EXCLUDENTE DE RESPONSABILIDADE. CASO FORTUITO OU FORÇA MAIOR. AUSENTE. SÚMULA 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. OCORRÊNCIA. REEXAME. SÚMULA 7 DO STJ. INDENIZAÇÃO QUE ATENDE O ESTABELECIDO PELO LEGISLADOR.
+1. Atrai a incidência analógica do enunciado sumular n. 211 do STJ, quando a questão federal suscitada não foi tratada na decisão proferida pelo Tribunal de origem, ante a ausência do indispensável prequestionamento.
+2. No caso de não ser sanada a omissão pelo acórdão do julgamento dos embargos de declaração, necessário suscitar a ofensa ao art. 1.022 do CPC/2015 no recurso especial, o que não ocorreu no caso dos autos.
+3. No caso, o Tribunal de Justiça de origem analisou as provas contidas no processo para afastar a alegação de caso fortuito ou força maior. Alterar esse entendimento demandaria reexame do conjunto probatório do processo, vedado em recurso especial.
+4. O acolhimento do inconformismo recursal, no sentido de verificar a inexistência das condicionantes para o reconhecimento da litigância de má-fé processual, demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor da Súmula 07/STJ.
+5. A previsão contida no § 3º do art. 81 do CPC/2015 não determina que a indenização pela litigância de má-fé seja arbitrada em quantia em espécie, podendo plenamente ser fixada em percentual sobre o valor da causa, o que atende o estabelecido pelo legislador.
+6. Descabida a pretensão de nova majoração dos honorários, deduzida em sede de impugnação, por ocasião do julgamento do presente agravo interno 7. Não enseja a aplicação de multa por litigância de má-fé a interposição de recurso cabível, ainda que reiterados os mesmos argumentos já refutados na origem.
+8. Agravo interno não provido. (AgInt no AREsp n. 1.680.244/SC, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 12/4/2021, DJe 15/4/2021 - sem grifo no original)
+Outrossim, quanto ao dissídio jurisprudencial, cumpre reafirmar que, tendo o Tribunal local concluído com base na apreciação de fatos e provas constantes dos autos, impossível se torna o confronto entre o paradigma e o acórdão recorrido, visto que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+ ..
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno não provido. (AgInt no AREsp 1.752.910/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/9/2021, DJe 22/9/2021)
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
