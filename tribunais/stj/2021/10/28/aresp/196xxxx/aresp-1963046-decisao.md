@@ -1,0 +1,35 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Tecnoserv Indústria e Comércio de Importação e Exportação Ltda.contra decisão que não admitiu o recurso especial com base nos seguintes fundamentos: i) aplicação do art. 1.030, I, "b", do CPC/2015; ii) óbice da Súmula n. 83/STJ; e iii) dissídio jurisprudencial não comprovado (e-STJ, fls. 611-623).
+É o relatório.
+Da análise do teor da decisão combatida, percebe-se que, dentre os fundamentos invocados para inadmitir o recurso especial manejado pelo ora agravante, um deles foi a adequação do acórdão recorrido à tese firmada no REsp n. 1.358.281/SP, processado e julgado sob o rito dos repetitivos.
+Portanto, nesse fundamento, o juízo de admissibilidade foi realizado com base no art. 1.030, I, "b", do CPC/2015, a saber: "negar seguimento:  ..  b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos".
+Contra decisão fundada em tal dispositivo, o Código de Ritos prevê a possibilidade de interposição de agravo interno, consoante o § 2º do supramencionado artigo legal, a saber: " ..  § 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021".
+Assim, não se dever conhecer do presente agravo pela notória inadmissibilidade, conforme acima exposto. Ademais, não se cabe falar em fungibilidade no caso, ante a ausência de dúvida objetiva diante da previsão expressa no código processual.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.030, I, "b", DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO NO TRIBUNAL DE ORIGEM.
+1. De acordo com o art. 1.030, I, "b", § 2º, do CPC/2015, cabe agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão em conformidade com tese firmada em sede de recurso repetitivo. A interposição de agravo em recurso especial constitui falha inescusável que impede a aplicação do princípio da fungibilidade recursal. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp n.1.153.611/DF, relator MinistroLuis Felipe Salomão, Quarta Turma, DJe de 1º/12/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITE RECURSO ESPECIAL FUNDAMENTADA EM REPETITIVO. APLICAÇÃO DO CPC/15. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE.
+1. Agravo em recurso especial que está sujeito às normas do CPC/15. 2. Conforme determinação expressa contida no art. 1.030, I, "b", e § 2º c/c 1.042, "caput", do CPC/15, é cabível agravo interno contra decisão na origem que nega seguimento ao recurso especial com base em recurso repetitivo.
+3. A interposição de agravo em recurso especial constitui erro grosseiro, porquanto inexiste dúvida objetiva, ante a expressa previsão legal do recurso adequado.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 1.126.721/RS, relatora Ministra Nancy Andrighi, Terceira Turma,DJe de 7/11/2017).
+Ademais, a parte agravante não infirmou especificamente os pressupostos utilizado pelo Tribunal de origem para negar o acesso à via especial, trazendo apenas argumentos genéricos.
+Nesse aspecto, "em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida" (AgInt no AREsp n. 1.360.316/DF, relatora MinistraMaria Isabel Gallotti, Quarta Turma, DJe de7/8/2019), o que não ocorreu no caso em tela.
+Frise-se que, não admitido o apelo nobre com fundamento de que o acórdão impugnado encontra-se no mesmo sentido do entendimento desta Corte (obstáculo da Súmula n. 83 do STJ), incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+No caso específico dos autos, a agravante não trouxe à colação precedentes contemporâneos àqueles apresentados na admissibilidade.
+No ponto:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO PELA PRESIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ MANTIDA.
+ ..
+2. O STJ perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos que inadmitiram o Agravo em Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+3. Nas razões do Agravo em Recurso Especial, verifica-se que os agravantes não trouxeram precedentes atuais desta Corte que refutassem a fundamentação apresentada pelo Tribunal regional, o que é imprescindível quando se deseja atacar a aplicação da Súmula 83 do Superior Tribunal de Justiça. Cumpre destacar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição Federal de 1988.
+4. Por outro lado, incide a Súmula 83 do STJ na hipótese apreciada nos autos, visto que ela não está "condicionada à existência de precedente submetido à sistemática dos recursos repetitivos, bastando a demonstração de que o acórdão recorrido está no mesmo sentido da jurisprudência consolidada desta Corte".
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.585.383/SC, relator MinistroHerman Benjamin, Segunda Turma, DJe de 7/5/2020).
+Ademais, a "jurisprudência desta Corte pacificou o entendimento segundo o qual a emissão de juízo sobre o mérito do recurso especial pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça" (AgRg no AREsp n. 205.921/SP, relatorMinistro Castro Meira, Segunda Turma, DJe de 8/2/2013).
+Por fim, cumpre destacar que o não conhecimento do agravo em recurso especial, em virtude da incidência da Súmula n. 182/STJ, impede a análise das teses a respeito do mérito discutido no apelo nobre, porque não ultrapassada a admissibilidade recursal.
+Ante o exposto, com fulcro no art. 932, III, do CPC, c/c o art. 253, parágrafo, I, do RISTJ, não conheço do agravo em recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado, na origem, o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado, na origem, o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Ficam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelos arts. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
