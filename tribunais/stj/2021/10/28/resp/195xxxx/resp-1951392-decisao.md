@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Belo Horizonte, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1.873):
+EMENTA: APELAÇÃO CÍVEL AÇÃO ANULATÓRIA DE DÉBITO FISCAL- ISSQN - SERVIÇO DE CONCRETAGEM - DEDUÇÃO DO VALOR DO MATERIAL EMPREGADO - AREIA DE ARGAMASSA - POSSIBILIDADE - SERVIÇO DE TRANSPORTE/FRETE - IMPOSSIBILIDADE DE DEDUÇÃO - MULTA - PERCENTUAL PREVISTO EM LEI - NÃO TEM EFEITO CONFISCATÓRIQ. -O Supremo Tribunal Federal, no julgamento do RE 603.497 submetido ao rito do art. 543-B do Código de Processo Civil, firmou o entendimento de que é possível deduzir da base de cálculo do ISSQN o valor referente aos materiais empregados na construção civil.
+-Se a apelada presta o serviço de elaboração, mistura, transporte, fiscalização e lançamento de concreto pré-misturado, bem como executa todos os serviços ligados a engenharia de concreto, deve lhe ser assegurado o direito à dedução na base de cálculo do ISSQN, do valor do material de construção civil utilizado na prestação do referido serviço.
+-Considerando que a prova produzida nos autos demonstra de forma insofismável que a apelada não realizou operação de venda de areia de argamassa e, que tal insumo foi utilizado na prestação de serviço de concretagem, afigura-se correta a respectiva dedução da base de cálculo do ISSQN, em consonância com o entendimento firmado pelo STF no julgamento do RE 603.497 submetido ao rito do art. 543-B do CPC.
+-Se inexiste previsão legal para a dedução dos valores referentes ao transporte/frete, não há como serem deduzidos da base de cálculo do ISSQN e, por conseguinte, deve prevalecer a autuação fiscal de glosa dos valores indevidamente deduzidos da base de cálculo do tributo.
+-A multa estabelecida no patamar de 70% (setenta por cento) do valor da dívida, por se tratar de penalidade pelo não recolhimento do tributo no prazo estabelecido na legislação aplicável à espécie, conforme previsto no artigo 8º , § 2º, da Lei Municipal n. 7.378/1987, não tem efeito confiscatório.
+Opostos embargos de declaração, foram rejeitados (fls. 1.911/1.917).
+Nas razões do recurso, a parte agravante aponta violação aos arts. 1.022 do CPC e 7º,§ 2º, I, da LC n. 116/03.Sustenta, em resumo: (I) tese de negativa de prestação jurisdicional; e (II) o material empregado na construção civil incorpora-se à obra quando perde sua identidade física de forma a integrar a construção num todo, o que não ocorreu no caso concreto com a argamassa.
+Contrarrazões às fls. 2.523/2.528.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, destaca-se do acórdão recorrido a seguinte fundamentação (fls.1.877/1.881):
+ ..
+Todavia, em relação à areia argamassa, o fisco defende aimpossibilidade de dedução no caso em tela, pois não incorporada à obra e não comercializada pela empresa, mas produzida para ser utilizada na própria prestação de serviço de concretagem.
+Sobre o tema, o art.7º, da Lei Complementar n º 116/03e o art.9º, da Lei Municipal nº 8.725/03, determinam que:
+ ..
+No caso em análise, foi produzida a prova pericial, sob o crivo do contraditório, em que a douta perita constatou nos documentos contábeis da empresa que não havia informação do insumo sobre a rubrica "areia de argamassa", mas sim "areia" e "areia de pedra", ocasião em que passou a análise do objeto social da empresa, concluindo que no período da autuação não havia registro de receitas operacionais de venda de mercadorias adquiridas por terceiros.
+Confira-se:
+ ..
+De tal modo, ao contrário do alegado pelo Município de Belo Horizonte, restou demonstrado na prova pericial a inexistência de registro de receitas operacionais de venda de mercadorias adquiridas de terceiros, ou seja, que a apelada não vendeu o insumo areia deargamassa, razão pela qual não merece reparos a sentença objurgada, ao concluir, in verbis:
+ ..
+Nesse contexto, considerando que a prova produzida nos autos demonstra de forma insofismável que a apelada não realizou operação de venda de argamassa e, que tal insumo foi utilizado na prestação de serviço de concretagem, afigura-se correta a respectiva dedução da base de cálculo do ISSQN, consoante já decidiu este egrégio Tribunal, em obediência à jurisprudência firmada no colendo Supremo Tribunal Federal, conforme já mencionado anteriormente:
+ ..
+Portanto, se a apelada presta o serviço de elaboração, mistura, transporte, fiscalização e lançamento de concreto pré-misturado, bem como a execução de todos os serviços ligados a engenharia de concreto, deve lhe ser assegurado o direito à dedução na base de cálculo do ISSON, do valor do material de construção civil utilizado na prestação do referido serviço, razão pela qual deve ser mantida a sentença neste ponto.
+Diante desse contexto, a alteração das conclusões adotadas pela Corte de origem, no sentido de que considerando que a prova produzida nos autos demonstra de forma insofismável que a apelada não realizou operação de venda de argamassa e, que tal insumo foi utilizado na prestação de serviço de concretagem, afigura-se correta a respectiva dedução da base de cálculo do ISSQN, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
