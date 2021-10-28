@@ -1,0 +1,49 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+
+    PROCESSUAL CIVIL, CONSTITUCIONAL E TRIBUTÁRIO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS — FPM. INEXISTÊNCIA DE DIVERGÊNCIAS ENTRE OS BALANÇOS GERAIS DA UNIÃO E AS PORTARIAS DA SECRETARIA DO TESOURO NACIONAL. RECEITAS ORIUNDAS DE EXECUÇÃO FISCAL. NÃO INCLUSÃO E EXCLUSÃO INDEVIDAS DE VALORES NA BASE DE CÁLCULO. INOCORRÊNCIA. DESCONTO DO PERCENTUAL DE 5,6%. ART. 72 DO ADCT. POSSIBILIDADE.
+
+    1. Não há repasse a menor para o Fundo de Participação dos Municípios — FPM pelo só fato de serem diferentes os valores divulgados nos Balanços Gerais da União daqueles previstos nas portarias mensalmente divulgadas pela Secretaria do Tesouro Nacional, por considerarem-se em tais atos períodos de arrecadação distintos, com formas distintas de contabilização.
+
+    2. Os valores recebidos pela União em ações executivas de cobrança do imposto de renda e do imposto sobre produto industrializado devem ser incluídos na base de cálculo do FPM, conforme expressa disposição legal (art. 1°, parágrafo único, Lei Complementar 62/1992).
+
+    3. As provas trazidas pela União de que o repasse ao FPM tem observado as receitas decorrentes de juros, multas e outros acréscimos do IPI, inclusive decorrentes de execuções fiscais, nos moldes em que determinado pelo Tribunal de Contas da União, afastam o deferimento do pedido.
+
+    4. Os valores de contribuição para o Programa de Integração Nacional — PIN e para o Programa de Redistribuição de Terras e Estímulo à Agroindústria do Norte e Nordeste — PROTERRA não integram o produto da arrecadação do imposto de renda (art. 159, I, CF). Assim, correta a sua dedução da base de cálculo do Fundo de Participação dos Municípios.
+
+    5. A alíquota de 5,6% de que trata o § 5° do art. 72 do ADCT incide sobre o total da arrecadação do imposto sobre a renda e proventos de qualquer natureza e do imposto sobre operações de crédito, câmbio, seguro, ou relativas a títulos e valores mobiliários, e não apenas sobre o incremento de arrecadação desses tributos decorrentes das Leis 8.848, 8.849 e 8.894, todas de 1994.
+
+    6. Devem ser deduzidos da base de cálculo do FPM o produto da arrecadação do imposto sobre a renda e proventos e os pagamentos efetuados pela União, suas autarquias e fundações, com expressa determinação de que não se lhe aplicam as disposições referentes ao FPM (art. 159).
+
+    7. Não podem ser considerados arrecadação do imposto de renda para os fins do art. 159, I, da CF/1988, os valores arrecadados antecipadamente e que, por determinação legal, devem ser restituídos ao contribuinte, deixando de integrar a base de cálculo do repasse ao FPM.
+
+    8. Apelação do Município a que se nega provimento.
+
+    O recurso busca fundamento no art. 102, III, a, da CF/1988. A parte recorrente alega violação aos arts. 159, I, b, da CF/1988, e 72, I, II e § 5º, do ADCT.
+
+    A pretensão recursal merece prosperar, em parte. Este Supremo Tribunal Federal consolidou entendimento no sentido de que a dedução das receitas efetivadas pela União, a titulo de contribuições para o Programa de Integração Nacional – PIN e para o Programa de Redistribuição de Terras e de Estímulo à Agroindústria do Norte e do Nordeste – PROTERRA, não poderia ter como consequência a diminuição do valor a ser recebido pelos Municípios, nos termos do art. 159, I, b, da CF/1988. Nesse sentido, os seguintes precedentes:
+
+    RECURSO EXTRAORDINÁRIO – FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS – REPARTIÇÃO CONSTITUCIONAL DAS RECEITAS TRIBUTÁRIAS – PARTICIPAÇÃO DOS MUNICÍPIOS NO PRODUTO DA ARRECADAÇÃO DO IR E DO IPI (CF, ART. 159, I, “B” E “D”) – DEDUÇÃO DOS VALORES RELATIVOS AO PIN (PROGRAMA DE INTEGRAÇÃO NACIONAL) E AO PROTERRA (PROGRAMA DE REDISTRIBUIÇÃO DE TERRAS E DE ESTÍMULO À AGROINDÚSTRIA DO NORTE E DO NORDESTE) – IMPOSSIBILIDADE – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – SUCUMBÊNCIA RECURSAL – MAJORAÇÃO DA VERBA HONORÁRIA – PRECEDENTE (PLENO) – NECESSÁRIA OBSERVÂNCIA DOS LIMITES ESTABELECIDOS NO ART. 85, §§ 2º E 3º DO CPC – AGRAVO INTERNO IMPROVIDO. (RE 1.075.421-AgR, Rel. Min. Celso de Mello)
+
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS - FPM. DIMINUIÇÃO DO REPASSE DE RECEITAS. PROGRAMAS DE INCENTIVO FISCAL (PIN E PROTERRA). ARTIGO 159, I, “B”, DA CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE. REPERCUSSÃO GERAL RECONHECIDA NO RE N. 572.762. COMPARATIVO DOS DADOS DO BALANÇO GERAL DA UNIÃO – BGU COM AS PORTARIAS DA SECRETARIA DO TESOURO NACIONAL. DEDUÇÃO DE 5,6% PARA O FUNDO SOCIAL DE EMERGÊNCIA - FSE E FUNDO DE ESTABILIZAÇÃO FISCAL – FEF. RESTITUIÇÕES DO IMPOSTO DE RENDA RETIDO NA FONTE PELA UNIÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 1. A concessão de benefícios fiscais por legislação infraconstitucional não pode implicar a diminuição do repasse de receitas tributárias constitucionalmente assegurado aos Municípios. Assim sendo, a dedução das receitas efetivadas pela União à titulo de contribuições para o Programa de Integração Nacional – PIN e para o Programa de Redistribuição de Terras e de Estímulo à Agroindústria do Norte e do Nordeste – PROTERRA, não poderiam ter como consequência a diminuição do valor a ser recebido pelos Municípios, em consonância com o artigo 159, I, “b”, da Constituição Federal. (Precedentes: RE n. 572.762-RG, Relator o Ministro Ricardo Lewandowski, DJe de 05.09.08; ARE n. 664.844-AgR, Relatora a Ministra Cármen Lúcia, 1ª Turma, 06.03.12; DJe de RE n. 535.135-AgR, Relator o Ministro Ayres Britto, 2ª Turma, DJe de 18.10.11; ADI n. 4.597-MC, Relator o Ministro Marco Aurélio, Plenário, DJe de 05.09.11; AI n. 665.186-ED, Relator o Ministro Celso de Mello, 2ª Turma, DJe de 28.02.11; RE n. 548.018-AgR, Relator o Ministro Joaquim Barbosa, 2ª Turma, DJe de 12.11.10; RE n. 477.854-ED, Relatora a Ministra Ellen Gracie, 2ª Turma, DJe de 22.05.09; RE n. 499.613-AgR, Relator o Min. Cezar Peluso, 2ª Turma, DJe de 14.11.085; RE n. 645.763, Relator o Ministro Ayres Britto, DJe de 07.02.12; RE n. 631.414, Relator o Ministro Ricardo Lewandowski, DJe de 17.05.12, entre outros).
+
+    [...]
+
+    5. Agravo regimental a que se nega provimento. (RE 607.100-AgR, Rel. Min. Luiz Fux; grifei.)
+
+    Quanto a esse ponto, o acórdão recorrido divergiu da orientação desta Corte.
+
+    Quanto às demais questões, a decisão recorrida está alinhada ao entendimento do Supremo Tribunal Federal. Confira-se:
+
+    AÇÃO CÍVEL ORIGINÁRIA. FUNDO DE PARTICIPAÇÃO DOS ESTADOS - FPE. ARTIGO 159, I, “B”, DA CONSTITUIÇÃO FEDERAL. VALORES RECOLHIDOS PARA PIN E PROTERRA. INGRESSO DOS VALORES NOS COFRES DA UNIÃO. DEDUÇÃO DA BASE DE CÁLCULO DO FPE. IMPOSSIBILIDADE. COMPARATIVO DOS DADOS DO BALANÇO GERAL DA UNIÃO – BGU COM AS PORTARIAS DA SECRETARIA DO TESOURO NACIONAL. INVIABILIDADE. DEDUÇÃO DE 5,6% PARA O FUNDO SOCIAL DE EMERGÊNCIA - FSE E FUNDO DE ESTABILIZAÇÃO FISCAL – FEF. LEGALIDADE. RESTITUIÇÕES DO IMPOSTO DE RENDA RETIDO NA FONTE PELA UNIÃO. POSSIBILIDADE. AÇÃO CÍVEL ORIGINÁRIA JULGADA PARCIALMENTE PROCEDENTE. 1. Os programas federais PIN e PROTERRA não podem onerar os outros entes federativos quando da partilha da receita dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados. Precedentes. 2. A divergência entre os cálculos baseados nas Portarias da Secretaria do Tesouro Nacional e os valores apurados no Balanço Geral da União - BGU se dá em razão da “defasagem temporal existente entre essas duas fontes de informação, visto que por força da Lei Complementar n° 62, de 28 dezembro de 1989, os dados do relatório L88 cumprem um cronograma de distribuição de recursos estabelecido na referida Lei Complementar diferente do BGU que consolida os valores anualmente”. 3. Não houve ilegalidade na dedução do percentual máximo de 5,6% relativo ao Fundo Social de Emergência - FSE, posteriormente denominado Fundo de Estabilização Fiscal - FEF, da base de cálculo dos repasses de Imposto de Renda previsto no art. 159, I, da CF. 4. Os valores de Imposto de Renda restituídos nada mais são do que quantias arrecadadas antecipadamente as quais devem ser, por determinação legal, devolvidas ao contribuinte, não podendo ser, portanto, considerados como arrecadação de Imposto de Renda para os fins do art. 159, I, da CF/1988. 5. Ação Cível Originária julgada parcialmente procedente para determinar que as deduções referentes ao PIN e ao PROTERRA sejam afastadas do cálculo dos valores repassados pela União para o Estado-Autor, a título de Fundo de Participação dos Estados - FPE, apurando-se as diferenças devidas em liquidação do julgado, observada a prescrição. 6. Caracterizada a sucumbência parcial, nos termos do artigo 85, § 14, do Código de Processo Civil, condeno cada parte ao pagamento de honorários sucumbenciais, ora arbitrados em R$ 5.000,00 (cinco mil reais), atualizados a partir desta decisão, com base no § 8º do mesmo dispositivo processual. No que concerne aos honorários periciais, determino o rateio em partes iguais, devendo a União, considerando que o valor já foi recolhido pelo Estado, ressarcir ao autor a sua metade, devidamente corrigida desde o pagamento ao perito, nos termos do artigo 82, § 3º, do CPC. (ACO 637, Red. p/o acórdão o Min. Alexandre de Moraes)
+
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso extraordinário, a fim de afastar as deduções referentes aos incentivos fiscais do PIN/PROTERRA das receitas tributárias destinadas aos recorrentes a título de Fundo de Participação dos Municípios – FPM.
+
+    Publique-se.
+
+    Brasília, 28 de outubro de 2021.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
