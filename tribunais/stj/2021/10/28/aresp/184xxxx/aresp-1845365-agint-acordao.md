@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A, em face de decisão monocrática da lavra deste signatário (fls. 207-210, e-STJ), que negou provimento ao reclamo da ora insurgente.
+O apelo extremo, fundado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 39, e-STJ):
+AGRAVO DE INSTRUMENTO. SUPERVIA. ILEGITIMIDADE. PRECLUSÃO. 1. Conforme asseverado pelo Juízo de primeiro grau, a ilegitimidade passiva da agravante já foi rejeitada em decisão com a qual se conformaram as partes, também sendo confirmada em sentença. 2. Na forma do artigo 507 do Código de Processo Civil, é descabida a rediscussão da quaestio neste Tribunal, ainda que de ordem pública. Precedentes do TJRJ. 3. Agravo não provido.
+Os embargos de declaração foram rejeitados (fls. 56-61, e-STJ).
+Nas razões do recurso especial (fls. 67-87, e-STJ), a recorrente apontou violação aos artigos 42, 43, 472, 568 I e II do CPC; art. 265 do CC; art. 35, § 1º da Lei n. 8.987/95; art. 223, parágrafo único da Lei n. 6404/76 e art. 3º da Lei n. 8.666/93. Sustentou, em síntese, a inexistência de preclusão quanto à tese de ilegitimidade, bem como a sua ilegitimidade ad causam.
+Contrarrazões às fls. 100-120, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 122-123, e-STJ), dando ensejo a propositura do agravo de fls. 130- 148, e-STJ.
+Contraminuta às fls. 153-166, e-STJ.
+Em decisão monocrática (fls. 207-210, e-STJ), negou-se provimento ao reclamo, ante: i) a ausência de prequestionamento, aplicando-se as Súmulas 211/STJ e 282/STF; ii) a existência de fundamento inatacado, apto a manter o decisum, e as razões dissociadas do recurso em relação ao acórdão impugnado, atraindo a aplicação da Súmulas 283 e 284/STF.
+No presente agravo interno (fls. 212-219, e-STJ), a insurgente sustenta a inaplicabilidade das Súmulas 283 e 284 do STF, ao argumento de ter impugnado especificamente os fundamentos aplicados pela Corte estadual.
+Impugnação às fls. 223-227, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado e as razões dissociadas do recurso em relação ao acórdão impugnado impõem o desprovimento do apelo, a teor do entendimento disposto nas Súmulas 283 e 284 do STF, aplicável por analogia. Precedentes.
+2. Agravo interno desprovido.
+ VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Cinge-se a irresignação veiculada na presente agravo interno acerca da aplicação dos óbices insertos nas Súmulas 283 e 284/STF, restando preclusas as demais questões.
+Consoante asseverado na decisão agravada, a respeito da controvérsia, o Tribunal a quo assim decidiu:
+Na espécie, conforme asseverado pelo Juízo de primeiro grau, a ilegitimidade passiva da agravante já foi rejeitada em decisão com a qual se conformaram as partes, também sendo confirmada em sentença.
+Dessa forma, descabida a rediscussão da questão neste Tribunal, em fase de cumprimento de sentença.
+Dessa forma, com fulcro artigo 507 do Código de Pro- cesso Civil, é descabida a rediscussão da quaestio neste Tribunal, ainda que de ordem pública. (fl. 40, e-STJ)  grifou-se
+In casu, a Corte Estadual utilizou como razão de decidir o teor do art. 507 do CPC e a rejeição da tese de ilegitimidade em decisão confirmada pelo Tribunal, sendo descabida a rediscussão em sede de cumprimento de sentença, fundamentos estes não rebatidos pela recorrente nas razões do apelo extremo.
+Com efeito, nos termos da jurisprudência desta Corte, a existência de fundamentos inatacados, aptos a manutenção do arresto recorrido e as razões dissociadas do recurso em relação ao acórdão impugnado, atrai a incidência das Súmulas 283 e 284 do STF, aplicáveis por analogia. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. INÉRCIA DO EXEQUENTE NA PROPOSITURA DO CUMPRIMENTO DE SENTENÇA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO ATACADO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.  ..  4. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal. 5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp 1680324/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. FUNDAMENTO INATACADO. MORA DO COMPRADOR. SÚMULA 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".  ..  3. Agravo interno não provido. (AgInt nos EDcl no AREsp 874.193/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2016, Dje 08/09/2016)  grifou-se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  EXISTÊNCIA DE FUNDAMENTO NÃO ATACADO NO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF.  ..  5. A existência de fundamento inatacado no julgado, suficiente para manter a decisão, atrai o óbice contido na Súmula nº 283 do STJ, aplicável por analogia. 6. Agravo regimental não provido. (AgRg no AREsp 719.286/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/06/2016, Dje 21/06/2016)  grifou-se
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.  ..  3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal. 4. Agravo regimental não provido. (AgRg no REsp 1507662/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)  grifou-se
+Inafastável, no ponto, o teor das Súmulas 283 e 284 do STF, aplicável por analogia.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
