@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo apresentado por MICHEL ZANON SEREBRINSKY e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO REGIMENTAL - Decisão monocrática que indeferiu pedido de justiça gratuita formulado em recurso de apelação - Determinação de recolhimento do preparo recursal - Insistência na necessidade de concessão dos benefícios - Situação analisada à luz dos documentos juntados - Mantida a decisão - Pedido sucessivo de diferimento ou parcelamento das custas indeferido ante a ausência de preenchimento dos requisitos do artigo 5º da Lei 11.608/03, com alteração pela Lei nº 14.838/12 - Recurso não provido, com determinação.
+Quanto à controvérsia, alega violação dos arts. 98, caput, e 99, §§ 2º e 3º, do CPC; e do art. 5º, XXXV, da CF/88, relativo à concessão do beneficio da gratuidade de justiça à pessoa jurídica, haja vista que:
+O indeferimento da concessão dos benefícios da justiça gratuita obsta o acesso à Justiça por aqueles que não possuem recursos suficientes para arcar com o pagamento das custas processuais, ensejando clara violação ao art. 5º, XXXV, da CF.
+ ..
+A presunção de hipossuficiência econômica da pessoa natural que pleiteia a concessão dos benefícios da justiça gratuita é prevista no art. 99, § 3º, do CPC: "Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural".
+ ..
+A propalada insuficiência de recursos para arcar com o pagamento das custas processuais não foi elidida pelas demais provas trazidas à colação. Ao contrário, intimados para comprovar a hipossuficiência econômica para arcar com o pagamento das custas processuais, os Recorrentes juntaram nos autos extratos de suas contas bancárias, declarações de Imposto de Renda e consultas aos órgãos de proteção ao crédito, os quais corroboram a declaração de insuficiência de recursos.
+Inexistindo prova em contrário capaz de rechaçar a alegação dos Recorrentes de que fazem jus à concessão dos benefícios da justiça gratuita, era o caso de se deferir a benesse, sob pena de violação ao disposto no § 2º do art. 99 do CPC, tal qual se vislumbra no acórdão recorrido.
+Cumpre ressaltar que o valor do preparo da Apelação é de mais de R$ 6.000,00 e o desfalque de tamanha quantia do patrimônio dos Recorrentes ensejaria séria complicação ao sustento próprio e continuidade do exercício da atividade empresária, já tão comprometidos pelo fechamento do comércio em geral como efeito do isolamento social em decorrência da pandemia de COVID-19 declarada pela Organização Mundial de Saúde (OMS).
+Por tudo isso, o acórdão recorrido, que indeferiu a concessão dos benefícios da justiça gratuita aos Recorrentes, inobstante a comprovação da hipossuficiência econômica, viola manifestamente o disposto no art. 5º, LXXIV, da CF e nos artigos 98, caput, e 99, § 2º e 3º, ambos do CPC, configurando óbice ao acesso à Justiça pelos Recorrentes, assegurado pelo art. 5º, XXXV, da CF.
+A correta aplicação dos dispositivos infraconstitucionais violados levaria ao deferimento dos benefícios da justiça gratuita aos Recorrentes, ao menos com relação ao preparo da Apelação, assegurando o pleno exercício do direito do acesso à Justiça pelos Recorrentes.
+Posto isso, forçoso convir que o acórdão recorrido viola o disposto nos artigos 98, caput, e 99, § 2º e 3º, ambos do CPC, pois é de rigor a concessão dos benefícios da justiça gratuita aos Recorrentes, na medida em que as provas trazidas à colação não são capazes de elidir a declaração de insuficiência de recursos. (fls. 360-362).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial quando visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Após análise dos documentos juntados, foi mantido o indeferimento da gratuidade da justiça aos agravantes, através da decisão monocrática supra transcrita (fls. 320/322), objeto deste agravo regimental.
+No entanto, verifica-se que a situação foi analisada e há indícios veementes de que os postulantes possuem condições de arcar com as custas processuais.
+Nesse contexto, os argumentos trazidos ao agravo regimental, não tiveram o condão de modificar o acima decidido.
+Inobstante a pessoa jurídica agravante sustentar que não possui condições financeiras de arcar com o preparo recursal, não apresentou nos autos as duas últimas declarações de imposto de renda, nos termos determinados (fls. 302) e no presente recurso nem ao menos justificou a impossibilidade de cumprir a determinação judicial.
+Nos autos a empresa recorrente apenas apresenta registro de pendências financeiras (fls. 313/315), o que por si só não comprova a hipossuficiência financeira alegada.
+ ..
+Dessa forma, a pessoa jurídica agravante não demonstrou sua impossibilidade de arcar com os encargos processuais, não fazendo jus as benesses pretendidas.
+ ..
+E não havendo prova de ausência de recursos, inexistência de patrimônio ou hipossuficiência dos agravantes, de rigor o indeferimento da justiça gratuita pretendida.
+ ..
+No entanto, há requisitos necessários para a concessão, que não foram preenchidos pela empresa e pelas pessoas físicas agravantes, ante a ausência de comprovação da insuficiência financeira alegada, devendo ser mantido o indeferimento do benefício pretendido.
+Da mesma forma, não houve preenchimento dos requisitos necessários ao pedido sucessivo de diferimento ou parcelamento das custas processuais, nos termos do artigo 5º da Lei nº 11.608/03, com alteração pela Lei nº 14.838/12 (fls. 349-351, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto, o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Destarte, o STJ já decidiu:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. PEDIDO DE GRATUIDADE JUDICIÁRIA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. INDEFERIMENTO. REFORMA DO ENTENDIMENTO. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A teor da Súmula nº 481 do STJ: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+3. O Tribunal de Justiça paranaense, soberano na análise das provas, reconheceu não estar comprovado nos autos os requisitos necessários para a concessão do benefício da assistência judiciária gratuita, de modo que alterar o entendimento ali firmado encontra óbice no enunciado da Súmula nº 7 do STJ.
+3. Agravo interno não provido. (AgInt nos EDcl no REsp 1.894.164/PR, relator Ministro Moura Ribeiro, Terceira Turma, DJe 19/8/2021.)
+A propósito: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
