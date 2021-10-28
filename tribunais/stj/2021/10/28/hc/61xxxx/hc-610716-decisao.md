@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de WAGNER NUNES RODRIGUES, contra acórdão doTribunal de Justiça do Estado do Rio Grande do Sul- TJRS no Agravo em Execução Penal n.0226610-50.2019.8.21.7000, assim ementado:
+"PRORROGAÇÃO DA TRANSFERÊNCIA DE APENADO PARA PRESÍDIO FEDERAL. PERICULOSIDADE DO PRESO. MEDIDA NECESSÁRIA.
+Como vem decidindo esta Câmara em situações similares a destes autos: "Diante do elevado nível de periculosidade do apenado, considerando a posição de liderança que ele exerce em conhecida e perigosa organização criminosa do Rio Grande do Sul (Bala na Cara), demonstra-se imprescindível a manutenção do agravado na penitenciária federal de segurança máxima, por mais 360 dias. Isso porque o interesse da sociedade gaúcha, em relação à preservação da segurança pública, prevalece sobre o interesse privado do preso."(Agravo 70079261129).
+Agravo provido." (fl. 54)
+No presente habeas corpus a defesa alega preliminarmente que o paciente não foi intimado quando da interposição pelo Parquet Estadual de medida cautelar a fim de conferir efeito suspensivo ao agravo em execução ministerial. No entender da defesa a situação viola a Súmula 701/STF, bem como a Súmula 604/STJ.
+Aduz, ainda, que a renovação de permanência teria sidoextemporânea porque quando oJuízo da 5ª Vara das Execuções Penais Federais tomou conhecimento de que o TJRS havia concedido efeito suspensivo ao agravo em execução interposto pelo Ministério Público do referido Estado, osentenciado já havia sido transferido para a penitenciária estadual (fl. 11). Diante disso requer "seja cassada a decisão do Agravo em Execução 70082547019, declarando este Superior Tribunal de Justiça, portanto, a perda do objeto".
+No mérito, o impetrante sustentaque o caso dos autos está em"desconformidade ao art. 10 da Lei 11.671/08, ante a ausência do caráter de excepcionalidade da renovação de cumprimento de pena em estabelecimentos federais" (fl. 6).
+Assim, requer, liminarmente, a suspensão dos efeitos do acórdão do Agravo em Execução nº 70082547019 com esteio na Súmula 701/STF e 604/STJ,bem como sob a alegação de preclusão da decisão renovatória e de ausência de demonstração da excepcionalidade da renovação. No mérito, pleiteia a ratificação da concessão liminar(fl. 18).
+Nesta Corte Superior de Justiça, em 4/9/2020, o pedido liminar foi indeferido por não terem sido identificadosde plano elementos autorizadores para a concessão da tutela de urgência (fls. 69/70).
+O Ministério Público Federal atuante nesta Instância Superior, em 17/09/2020, ofereceu parecer que recebeu o seguinte sumário:
+"HABEAS CORPUS. EXECUÇÃO PENAL. PRORROGAÇÃO DE PERMANÊNCIA DO PRESO EM PRESÍDIO FEDERAL DE SEGURANÇA MÁXIMA. AGRAVO EM EXECUÇÃO INTERPOSTO PELO ÓRGÃO MINISTERIAL CONTRA DECISÃO QUE INDEFERIU O PLEITO DE RENOVAÇÃO DA PERMANÊNCIA DO REEDUCANDO EM PRESÍDIO FEDERAL. AJUIZAMENTO DE MEDIDA CAUTELAR INOMINADA PARA CONFERIR EFEITO SUSPENSIVO AO RECURSO. POSSIBILIDADE. RISCO DE LESÃO GRAVE OU DE DIFÍCIL REPARAÇÃO. SUPERVENIÊNCIA DO JULGAMENTO DO AGRAVO. PROVIMENTO DO RECURSO MINISTERIAL. SUPERAÇÃO DE EVENTUAIS ILEGALIDADES NA DECISÃO QUE CONCEDEU EFEITO SUSPENSIVO AO AGRAVO. REEDUCANDO LÍDER DE FACÇÃO CRIMINOSA E QUE, MESMO NA PRISÃO, REITERA NA PRÁTICA DELITIVA. NECESSIDADE DE MANUTENÇÃO DO PRESO EM PRESÍDIO FEDERAL PARA A GARANTIA DA ORDEM PÚBLICA." (fl. 73)
+O Ministério Público do Estado do Rio Grande do Sul também se pronunciou nos autos manifestando-se pelo desprovimento do recurso e para solicitar que a intimação pessoal dos signatários se faça na Procuradoria de Recursos do Ministério Público do Estado do Rio Grande do Sul (fl. 83/88).
+Foram solicitadas informações ao Juízo de Primeiro Grau acerca da atual situação do paciente, as quais forma prestadas prontamente em 6/8/2021.
+É o relatório.
+Decido.
+O presente habeas corpus encontra-se prejudicado.
+Isto porque, constata-se que o acórdão impugnado que determinou a prorrogação de permanência do paciente no Sistema Prisional Federal por mais 360 dias foi proferido em 9/10/2019, já tendo transcorrido o referido lapso temporal (fl. 54).
+Ademais, o Juízo do 1º Juizado da Vara de Execuções CriminaisRegional (VEC) de Novo Hamburgo/RS, responsável por Penas Privativas de Liberdade (PPL) e Penas Restritiva de Direitos (PRD),informou que o apenado se encontra atualmente recolhido na Penitenciária do Jacuí, na Cidade de Charqueadas no Estado do Rio Grande do Sul (fl. 98).
+Assim, após o decurso do prazo de 360 dias indicado no acórdão recorrido, não há como negar a perda superveniente do objeto deste mandamus.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
