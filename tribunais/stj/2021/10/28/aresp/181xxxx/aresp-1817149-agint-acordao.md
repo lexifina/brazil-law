@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 1.285/1.295) interposto porLUCAS EDUARDO CARAMICO FELIX DA SILVA, contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante alega ser inaplicável as Súmulas n. 7 do STJ e 284 do STF, ao sustentar que "a afronta a aplicação do artigo 949 e 950,do Código Civil, pelo Tribunal a quo, referente a improcedência quanto ao pedido de reestabelecimento e majoração da pensão vitalícia a título de indenização por lucros cessantes, ante a deficiência funcional permanente comprovada por laudo pericial(..) além da demonstração cabal do descumprimento quanto as Sumulas erigidas pelo Egrégio Superior Tribunal de Justiça marco temporal quanto a aplicação da correção monetária desde a data do seu arbitramento, nos termos da Súmula 362 do STJ, e aplicação dos juros de mora de 1% ao mês, a contar do evento danoso, nos termos da Súmula 54/STJ" (e-STJ fl. 1.289).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou impugnação (e-STJ fls. 1.298/1.304).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGALVIOLADO. SÚMULA N. 284 DO STF.FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que, com relação ao dano moral, muito embora o agravante tenha sofrido deficiênciafuncional permanente, issonão gerou limitações em sua atividade profissional.Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+4.É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+5. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.274/1.277):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por LUCAS EDUARDO CARAMICO FELIX DA SILVA, contra decisão que inadmitiu o recurso especial por inexistência de violação de artigos de lei federal, incidência da Súmula n. 7/STJ e ausência de similitude fática.
+O acórdão recorrido está assim ementado (e-STJ fl. 1.035):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. Ação ajuizada por autor que necessitou de cirurgia de urgência em virtude de artrite séptica. Negativa de atendimento por parte da operadora, em razão da vigência de prazo de carência previsto no contrato. Procedência parcial. Apelo de ambas as partes. Incontroversa a negativa de internação do autor. Relatório médico e laudo pericial que apontaram o atendimento de urgência como necessário, fato esse que demonstra a abusividade da negativa de cobertura. Defeito na prestação do serviço. Análise do serviço prestado pelo plano de saúde. Responsabilidade objetiva com base no Código de Defesa do Consumidor. Danos materiais afastados. Causa de pedir fundada na impossibilidade de retomada da atividade profissional. Laudo pericial que afastou limitação à atividade profissional. Danos morais configurados. Recusa do atendimento que se caracteriza como ato abusivo passível de gerar indenização por dano moral. Conduta reprovável do plano, devido à gravidade do quadro de saúde apresentado pelo paciente. Conclusão pericial no sentido da existência de nexo causal entre os cuidados de saúde não prestados, ou seja, o não estabelecimento do diagnóstico no momento da suspeita médica e as limitações atuais do quadro clínico do paciente. Indenização majorada de R$15.000,00 para R$ 40.000,00 em atenção ao binômio razoabilidade/proporcionalidade, incluindo o dano estético. Sentença parcialmente reformada. RECURSOS PARCIALMENTE PROVIDOS. (v.32055).
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.157/1.161).
+Nas razões do recurso especial (e-STJ fls. 1.073/1.101), interposto com base no art. 105, III, "a" e "c", da CF, o recorrente apontou violação dos seguintes dispositivos:
+(i) art. 1.022 do CPC/2015, afirmando que, conforme demonstrado nos embargos declaratórios, o acórdão não se pronunciou sobre as alegações contidas em suas razões,
+(ii) arts. 949 e 950 do CC/2002, além de dissídio jurisprudencial, alegando que "restou por todo conjunto probante dos autos, de forma patente a responsabilidade da recorrida quanto à autoria dos danos sofridos pelo recorrente (..) contudo, de forma totalmente equivocada excluiu o dever da recorrida em pensionar o ora recorrente, pois entendeu que dentro da indenização a título de danos morais majorada de R$ 15.000,00 para R$ 40.000,00, já estariaincluso toda reparação material" (e-STJ fls. 1.080/1.081),
+(iii) art. 85, § 11, do CPC/2015, sustentando que "o presente feito, versa sobre causa complexa e não cotidiana, sendo o processo até o momento composto por quase 1.100 (mil e cem) laudas, e, tendo sido realizada extensa e pormenorizada prova pericial, além de recursos em todas as instancias, desta feita, ao acolher o presente recurso, este E. Tribunal deve afastar a condenação aplicada ao Recorrente, e ainda, majorar a condenação em seu favor, em atenção ao art. 85, § 11, do novo CPC" (e-STJ fl. 1.099).
+Busca, em suma, o provimento do recurso especial para o fim de (e-STJ fls. 1.100/1.101):
+Determinar a majoração do percentual da renda vitalícia, conforme o entendimento jurisprudencial supra, em renda não inferior a 3 (três) salários mínimo nacional, devidos de forma vitalícia, e/ou para 100% (cem por cento), dos últimos recebimentos do recorrente;
+Determinar que pagamento do pensionamento, feito em parcela única, em conformidade com o parágrafo único, do artigo 950, do CC, sendo que o valor, deve ser calculado pela multiplicação do valor a ser majorado por este E. Tribunal, pelo número de meses entre o evento danoso, até o Recorrente completar 76 (setenta e seis) anos, conforme reconhecido na Sentença, proferida em Instância;
+Afastar a condenação aplicada ao Recorrente, e ainda, majorar a condenação em seu favor, em atenção ao art. 85, § 11, do novo CPC;
+Aplicar a correção monetária desde a data do seu arbitramento (Súmula 362 do Col. Superior Tribunal de Justiça); e,
+Aplicar os juros de mora de 1% ao mês, a contar do evento danoso (Súmula 54 do Col. Superior Tribunal de Justiça).
+No agravo (e-STJ fls. 1.208/1.237), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.240/1.251).
+É o relatório.
+Decido.
+Com relação à afronta ao art. 1.022 do CPC/2015, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+O Tribunal de origem, ao analisar as provas, entendeu que, com relação ao dano material, "muito embora o autor tenha sofrido deficit funcional permanente, tal deficit não gerou limitações em sua atividade profissional habitual", conforme o seguinte excerto (e-STJ fls. 1.039/1.040):
+Em relação aos danos materiais, por outro lado, é provido o recurso da ré Mediplan.
+A causa de pedir dos danos materiais é a impossibilidade de retomar suas atividades normais no emprego(item 2.7.4 da petição inicial), ou seja, não houve pedido de indenização pelas despesas do tratamento ou de lucros cessantes até ao fim da convalescença, nos termos do artigo 949 do Código Civil.
+De acordo com o artigo 950 do Código Civil:
+"Se da ofensa resultar defeito pelo qual o ofendido não possa exercer o seu ofício ou profissão, ou se lhe diminua a capacidade de trabalho, a indenização, além das despesas do tratamento e lucros cessantes até ao fim da convalescença ,incluirá pensão correspondente à importância do trabalho para que se inabilitou, ou da depreciação que ele sofreu".
+No entanto o laudo pericial concluiu que em relação à repercussão permanente na atividade profissional que "relativamente ao estado sequelar descrito, pode verifica-se ser compatível com o exercício da atividade profissional habitual, sem repercussão direta sobre as atividades fundamentais requeridas para o trabalho"( fls. 831).
+Ou seja, muito embora o autor tenha sofrido déficit funcional permanente, tal déficit não gerou limitações em sua atividade profissional habitual (fls. 833).
+Fica, portanto, prejudicado o pedido do autor de majoração da pensão e de pagamento desta em parcela única.
+Com efeito, rever a conclusão do TJSP, na forma pretendida pelo recorrente, demandaria o reexame do acervo fático dos autos, procedimento vedado em sede especial, a teor da Súmula n. 7/STJ.
+Por outro lado, o reexame dos critérios fáticos sopesados de forma equitativa para a fixação dos honorários advocatícios, revela-se, em princípio, inviável em recurso especial, a teor da Súmula n. 7/STJ.
+Apenas em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante o valor da verba honorária, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar sua revisão. Portanto, a revisão dos honorários, no caso dos autos, não justifica a intervenção do STJ.
+Sobre os pedidos de incidência de correção monetária desde o arbitramento e juros de mora a partir do evento danoso, o recorrente não apresentou as razões do seu inconformismo nem indicou dispositivo infraconstitucional violado ou ao qual se teria dado interpretação divergente, o que importa inviabilidade do recurso especial ante a incidência da Súmula n. 284/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo de LUCAS EDUARDO CARAMICO FELIX DA SILVA. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando o recorrente amparado pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
+O Tribunal de origem entendeu pela não incidência do dano material e que, embora o agravante tenha sofrido deficiênciafuncional, isso não gerou limitações em suas atividades, pois, com base no laudo pericial,"relativamente ao estado sequelar descrito,  ..  verifica-se ser compatível com o exercício da atividade profissional habitual, sem repercussão direta sobre as atividades fundamentais requeridas para o trabalho" ( fls. 1.040).
+Para que se acolha a pretensão recursal do agravante, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é inviável no âmbito do especial. Inafastável aSúmula n. 7/STJ.
+No que diz respeito à correção monetária, o agravadonão indica qual dispositivo de lei federal trata da referida matéria, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+No agravo (e-STJ fls. 1.285/1.295), todavia, o agravante reitera os termos do recurso especial, não impugnando os óbices da decisão relacionados à violação do art. 1.022 do CPC/2015 e ao valor da verba honorária, sobre o qual recaiu a Súmula n. 7 do STJ.
+Assim, tendo deixado de rebater especificamente a fundamentação dadecisão ora agravada, incide, por analogia, a Súmula n. 182/STJ.
+Dessa forma, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno de LUCAS EDUARDO CARAMICO FELIX DA SILVA.
+É como voto.
