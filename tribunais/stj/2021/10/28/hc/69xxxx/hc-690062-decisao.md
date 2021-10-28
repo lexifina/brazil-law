@@ -1,0 +1,15 @@
+DECISÃO
+DIEGO ALFONSO MARTINEZ GOMEZalega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono HC n. 2186151-11.2021.8.26.0000, que manteve a constrição cautelar do acusado pela suposta prática do delito descrito no art. 155, § 4º, II e IV, do Código Penal.
+Neste writ, a defesa sustenta haver excesso de prazo da prisão processual, porquanto o réu está custodiado desde 8/4/2021.
+Requer a restituição da liberdade ao paciente, ainda que mediantea imposição de cautelares diversas.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 321-325).
+Decido.
+No tocante à alegação de excesso de prazo,cumpre registrar que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Consoante o entendimento desta Corte Superior, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+Na espécie, o paciente teve sua prisão em flagrante convertida em preventiva no dia8/4/2021 pelocrimeprevistonoart.155, § 4º, II e IV, do Código Penal.
+A respeito do aduzido excesso de prazo, o Tribunal a quo consignou o seguinte (fl. 254):
+In casu, a despeito de o ora paciente ter sido preso em abril de 2021, é de se ver que se trata defeito complexo, com pluralidade de réus, o que, como cediço, ensejacomunicação e manifestação, como citações, intimações a cada novoato e respostas, de todos os envolvidos, tudo a demandar tempo. Aliás, no ponto, é de se ver que a defesa do ora paciente apresentou resposta à acusação em data recente, 8.7.2021 (fls. 207/208-principal), e a audiência de instrução, debates e julgamento encontra-se designada para data próxima, 28.9.2021 (fls. 138/140-principal). Com efeito, reputo que a marcha processual não se aparta da regularidade, não se caracterizando omissão ou desídia dojuízo a comprometer a tramitação do processo.
+Não constato desídia do Juízo natural da causana condução do processoa ensejar a intervenção desta Corte Superior,especialmente porque é possível verificar, pelo andamento processual, por meio da quantidade de atos praticados e da distância temporal entre eles, que o Magistrado de primeira instância vem sendo diligente e, portanto, não age com desídia.
+Ademais, ressalto quea data agendada para a audiência foi devidamente marcadapelo Magistrado de primeira instância,o que não significa, evidentemente, inércia do Poder Judiciário.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
