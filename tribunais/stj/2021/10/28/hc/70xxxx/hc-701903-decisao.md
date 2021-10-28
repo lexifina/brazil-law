@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Jhony Matheus Mesquita Alves- cumprindo pena privativa de liberdade de 6 anos e 27 dias de reclusão, em razão de condenação pelo crime de tráfico de drogas-, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento ao agravo em execução ali interposto pela defesa (Agravo de Execução Penal n. 0004894-55.2021.8.26.0625), mantendo a decisão do Juízo de Direito da 2ª Vara de Execuções Criminais da comarca de Taubaté/SP, que indeferiu a progressão para o regime aberto, ante o não adimplemento dos requisitos legais (PEC n. 1005497-14.2021.8.26.0625).
+Alega o impetrante, em síntese, constrangimento ilegal na consideração da data em que concluído o exame criminológico, como adimplemento dorequisito subjetivo, para fins de cálculo de novaprogressão de regime.
+Aduz que asubmissão do paciente ao exame criminológico serviu apenas para demonstrar, indene de dúvidas, a satisfação dos requisitos legais, mormente do requisito subjetivo, de forma que o vasto tempo existente entre a data do requisito objetivo, e a data da confecção do exame criminológico não pode ser interpretado contra o paciente que, repito, não deu azo para a absurda demora (fl. 7).
+Postula, então, a concessão liminar da ordem para queseja determinada a feitura de novas contas, no intento de que a data-base para a promoção de regime seja considerada o dia em que implementado o lapso temporal para a promoção ao regime intermediário (e não a data do exame criminológico), até julgamento final do mérito do presente remédio heroico (fl. 8).
+É o relatório.
+O presente pedido não comporta acolhimento.
+Com efeito, as instâncias ordinárias decidiram em consonância com o entendimento deste Superior Tribunal, no sentido de quea data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112, da Lei n. 7.210/84, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo, não havendo que se falar em constrangimento ilegal em razão da consideração do adimplemento do requisito subjetivo somente com a realização do exame criminológico.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA A PROGRESSÃO AO REGIME ABERTO. DIA DA REALIZAÇÃO DO EXAME CRIMINOLÓGICO. CONSTATAÇÃO DO REQUISITO SUBJETIVO. POSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O atual entendimento de ambas as Turmas que compõem a Terceira Seção desta Corte é no sentido de que "a data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112, da Lei n. 7.210/84, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo"(HC n. 358.566/RS, relator o Ministro Felix Fischer, Quinta Turma, DJe de 21/10/2016).
+2. Na hipótese, determinou-se que seja considerada, como data-base para a progressão ao regime aberto, a data de preenchimento do último requisito, que, na hipótese, restou constatado tão somente quando da realização do competente exame criminológico. Não restando caracterizada, portanto, flagrante ilegalidade a ser sanada por este Tribunal. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC 668206/SP,Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/9/2021 - grifo nosso)
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME.DATA-BASE PARA A PROGRESSÃO AO REGIME ABERTO. DIA DA REALIZAÇÃO DO EXAME CRIMINOLÓGICO. CONSTATAÇÃO DO REQUISITO SUBJETIVO. POSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+Inicial indeferida liminarmente.
