@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto pelo Município de São Paulo contra decisão de inadmissibilidade do apelo nobre.
+O recurso não é cabível.
+Verifica-se da decisão proferida pela Presidência do TJSP (Seção de Direito Público) que foi negado seguimento ao recurso especial, inadmitindo quanto ao mais ante o óbice da Súmula 7/STJ.
+Veja-se (e-STJ fls. 2.572/2.573):
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, por indicada violação aos seguintes artigos de lei federal: arts. 8º e 12, "a", do Decreto-Lei nº 406/1968.
+No que diz respeito à questão referente ao sujeito ativo da relação tributária, no julgamento do REsp nº 1.060.210/SC, Tema nº 355, STJ, de 28.11.2012, publicada no DJe de 05.03.2013, o Col. Superior Tribunal de Justiça fixou a seguinte tese:
+"O sujeito ativo da relação tributária, na vigência do DL 406/68, é o Município da sede do estabelecimento prestador (art. 12); a partir da LC 116/03, é aquele onde o serviço é efetivamente prestado, onde a relação é perfectibilizada, assim entendido o local onde se comprove haver unidade económica ou profissional da instituição financeira com poderes decisórios suficientes à concessão e aprovação do financiamento - núcleo da operação de leasingfinanceiro e fato gerador do tributo."
+No mais, ressalte-se que busca o recorrente o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial de acordo com a Súmula 7 da Corte Superior.
+Desta forma, quanto à questão decidida em sede de recurso repetitivo, com base no que dispõe o art. 1.030, inc. I, alínea "b" do Código de Processo Civil, nego seguimento aorecurso no pertinente a esta questão e inadmite-se no que diz respeito ao mais, com fulcro no art. 1.030, inciso V, do mesmo Diploma Legal.
+A Fazenda municipal interpôs agravo interno e o presente agravo.
+A controvérsia diz respeito ao sujeito ativo da relação tributária (ISS) e ela se esgota na agravo internojá julgado pelo Tribunal de origem.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE REALIZADO COM BASE NO ART. 1.030, I, "B", DO CPC/2015. RECURSO INADEQUADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO ÓBICE DA SÚMULA 7 / STJ. AGRAVO NÃO PROVIDO.
+1. Dentre os fundamentos invocados pelo Tribunal de origem para inadmitir o recurso especial manejado pelo ora agravante, um deles foi a adequação do acórdão recorrido à tese firmada no Tema 905/STJ.
+2. Portanto, nesse fundamento, o juízo de admissibilidade foi realizado com base no art. 1.030, I, "b", do CPC/15 (negar seguimento:  ..  b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos).
+3. Contra decisão fundada em tal dispositivo, o Código de Ritos prevê a possibilidade de interposição de agravo interno, consoante o § 2º do supramencionado artigo legal ("§ 2º da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021").
+4. O presente agravo não merece ser conhecido pela notória inadmissibilidade. Ademais, não se cabe falar em fungibilidade no caso, ante a ausência de dúvida objetiva diante da previsão expressa no código processual. Precedentes.
+5. Por outro lado, inadmitido o apelo nobre com base na Súmula 7/STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível, o que não ocorreu na espécie.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.893.303/SP, de minha relatoria, SEGUNDA TURMA, julgado em 27/9/2021, DJe de 5/10/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. NEGATIVA DE SEGUIMENTO E INADMISSÃO DO RECURSO ESPECIAL COM FUNDAMENTO NOS ARTS.1.030, I, B, E 1.040, I, DO CPC/2015, E NO ÓBICE DA SÚMULA 7/STJ, RESPECTIVAMENTE. AGRAVO EM RECURSO ESPECIAL QUE INFIRMOU A MATÉRIA INSERIDA NO JUÍZO DE CONFORMIDADE REALIZADO PELO TRIBUNAL DE ORIGEM.INADMISSIBILIDADE. COMPETÊNCIA EXCLUSIVA, E EM CARÁTER DEFINITIVO, DA CORTE A QUO PARA A REALIZAÇÃO DO JUÍZO DE ADEQUAÇÃO. IMPUGNAÇÃO GENÉRICA À INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR NÃO PROVIDO.
+1. O agravo interno não trouxe argumentos novos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar as teses já veiculadas no especial.
+2. Conforme o entendimento desta Corte Superior de Justiça, na sistemática introduzida pelo artigo 543-C do CPC/73, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2008 (Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro CESAR ASFOR ROCHA, CORTE ESPECIAL, DJe de 12/5/2011).
+3. No caso, a Corte de origem negou seguimento ao recurso com base nos arts. 1.030, I, b, e 1.040, I, do CPC/2015, decisão confirmada no julgamento do agravo interno. A despeito da interposição concomitante do agravo em recurso especial, verifica-se que as razões nele veiculadas infirmaram a matéria inserida no juízo de adequação realizado pelo Tribunal a quo em relação ao Tema 534/STJ.
+4. Desse modo, ante incumbência exclusiva, e em caráter definitivo, do Tribunal de origem para realizar a conformação do caso dos autos a entendimento firmado sob o rito dos repetitivos, descabe a este Superior Tribunal de Justiça realizar nova análise da controvérsia, sob pena de usurpação da competência da Corte ordinária.
+5. No que toca à Súmula 7/STJ, registre-se que a parte agravante não logrou rebater adequadamente o fundamento da decisão agravada, limitando-se a sustentar, de forma genérica, que a análise da controvérsia seria essencialmente jurídica, sendo desnecessário o reexame fático-probatório dos autos.
+6. Agravo interno do particular não provido.
+(AgInt no AREsp n. 1.709.154/PR, relator Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 14/9/2021, DJe de 16/9/2021).
+Não há matéria autônoma a ser analisada na via especial.
+Tanto é que osagravos manejados na origem apresentam a mesma fundamentação, sendo que o apelo nobre tem um único fim, qual seja, "anular o v. acórdão recorrido por expressa violação aos termos do quanto sedimentado pelo STJ quando do julgamento do RESP 1.060.210" (e-STJ, fl. 2.518).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
