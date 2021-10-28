@@ -1,0 +1,15 @@
+DECISÃO
+A DEFENSORIA PÚBLICA DA UNIÃO opõe embargos de declaração, com efeitos infringentes, em face de decisão monocrática de fls. 412-413, que indeferiu pedido de desconstituição do trânsito em julgado da decisão de fls. 350-355.
+A embargante alega que há vício de omissão, uma vez que "não enfrentou a tese trazida por este Defensoria Pública da União a respeito de que a decisão proferida na QO na Pet. no AREsp n.º 1.513.956/AL não se trata de precedente, não possuindo, portanto, nenhum efeito vinculante, limitando-se à mera repetição do entendimento proferido naquele decisum" (fl. 418). Na ocasião, aduz a existência de entendimento oposto firmado pela Quinta Turma na QO na Pet. no AREsp n. 1.513.956/AL.
+Sustentaainda,relativamente à intimação dirigida à Defensoria Pública do Estado de Santa Catarina, que "o cadastramento no referido portal DEU-SE DE FORMA EQUIVOCADA, como foi exaustivamente demonstrado" (fl. 421), pois a intenção daquela Defensoria era somente visualizar os processos nesta Corte e não atuar respondendo às intimações, expondo considerações a respeito.
+Requer o acolhimento dos aclaratórios, aplicando-se efeitos infringentes, de modo a desconstituir o trânsito em julgado dos autos.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a desfazer ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado.
+Não há falar em vício de omissão, visto que a questão foi decidida com a devida fundamentação, nestes termos:
+Não se pode perder de vista que, segundo decisão proferida na Questão de Ordem no AREsp n. 1.513.956/AL (relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/2/2020), "existindo representação em Brasília, conforme jurisprudência consolidada desta Corte, ou viabilizada a intimação eletrônica das Defensorias Públicas dos Estados em virtude de adesão ao Portal de Intimações Eletrônicas, impõe-se o indeferimento de requerimentos da Defensoria Pública da União no sentido de assumir a defesa de pessoas assistidas pelas Defensorias Públicas estaduais".
+Aliás, cabe ressaltar que a aplicação do entendimento firmado na referida questão de ordem deu-se, não por possível caráter vinculante, como se alega, mas por entender este relator ser possível aderir aos seus fundamentos e às respectivas razões de decidir.
+Ademais, já dispôs este Tribunal que se mostra"irrelevante os reais motivos que conduziram a DEFENSORIA PÚBLICA DO ESTADO DE SANTA CATARINA a aderir ao Portal da Intimação, bem como a solicitar o posterior descadastramento" (EDcl na PET no HC n. 543.341/SC, relator Ministro Reynaldo Soares da Fonseca, DJe de 23/11/2020).
+In casu, não ocorreu o vício mencionado. Efetivamente, nenhuma ambiguidade, obscuridade, contradição ou omissão existe no corpo da decisãoque justifique a oposição deste recurso, que, como é cediço, não se presta para o reexame da causa.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
