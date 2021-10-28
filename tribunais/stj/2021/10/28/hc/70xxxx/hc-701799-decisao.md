@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Lucas Gabriel Batista Ferreira, Kaique Rian Batista Venancio e Valter Franco de Siqueira contra acórdão de apelação proferido pelo Tribunal de Justiça de São Paulo nos autos da Ação Penal n. 1501386-88.2020.8.26.0616, que manteve incólume a sentença condenatória.
+Narram os autos que o Juízo da 1ª Vara Criminal de Mogi das Cruzes/SP condenou os pacientes pela prática dos crimes dos arts. 157, § 2º, II, e 157, § 2º, II, c.c. art. 61, II, h, na forma do art. 70, todos do Código Penal, respectivamente às penas de 7 anos, 3 meses e 3 dias de reclusão;6 anos, 2 meses e 20 dias de reclusão; e 7 anos, 3 meses e 3 dias de reclusão, todos em regime inicial fechado para o cumprimento da reprimenda.
+A defesa aponta, na presente impetração, constrangimento ilegal na dosimetria da pena, em razão da exasperação da pena-base mediante fundamentação inidônea, argumentando que o Tribunal de Justiça manteve o acréscimo tão somente pelo fato de o delito ser praticado na rua e durante a luz do dia, o que não configura motivação lícita para o acréscimo na reprimenda.
+Requer, tanto com o pedido liminar quanto de mérito, que seja afastado o aumento da pena-base.
+É o relatório.
+A impetração não merece acolhimento.
+Com efeito, ao contrário do alegado, o Tribunal de Justiça bandeirante manteve a exasperação da pena-base não só pelo local e horário do fato criminoso, mas também e, principalmente, porque a gravidade concreta da conduta impõe a majoração da reprimenda. Isso porque, no dia dos fatos, os quatro agentes abordaram as vítimas, ambas do sexo feminino, intimidaram-nas com o emprego de um simulacro de arma de fogo e uma faca, e, em seguida, subtraíram seu veículo e outros bens pessoais que traziam consigo no interior do automóvel, inclusive, o cachorro pertencente à Rita, a evidenciar que possuem personalidade agressiva e desprezo com a vida e o sentimento alheios (fl. 14 - grifo nosso).
+Por conseguinte, a fundamentação constante do acórdão impugnado mostra-se idônea e suficiente para valoração negativa da circunstância judicial anotada, motivo pelo qual não há falar em constrangimento ilegal na dosimetria das penas dos pacientes.
+Ademais, alterar a conclusão anotada nas instâncias ordinárias, soberanas na apreciação da prova, exige profunda incursão probatória, vedada na sede do mandamus, incidindo à espécie o entendimento do Superior Tribunal de Justiça de que, para se afastar essa conclusão, acolhendo-se a tese de que os pacientes não se dedicavam a atividades criminosas, é necessário o reexame aprofundado das provas, inviável em habeas corpus (HC n. 311.418/MS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 28/6/2016).
+Em reforço: AgRg no HC n. 387.889/MG, de minha relatoria, Sexta Turma, DJe 28/8/2018.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. SENTENÇA CONDENATÓRIA. DOSIMETRIA. TRIBUNAL DE JUSTIÇA MANTÉM A EXASPERAÇÃO DA PENA-BASE DESTACANDO ELEMENTOS CONCRETOS E IDÔNEOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. REVER A CONCLUSÃO DO TRIBUNAL DE ORIGEM DEMANDA PROFUNDA INCURSÃO PROBATÓRIA.
+Writ liminarmente indeferido.
