@@ -1,0 +1,6 @@
+DECISÃO
+Por petição apresentada às fls. 473-475, a requerente peticiona, manifestando desistência do Mandado de Segurança,requerendo a sua homologação nos termos do artigo 485, inciso VIII, do CPC/2015.
+Conforme decidido pelo Supremo Tribunal Federal no julgamento do RE 669.367/RJ, sob o regime da repercussão geral, a desistência em mandado de segurança é prerrogativa de quem o propõe e pode ocorrer a qualquer tempo, sem anuência da parte contrária e independentemente de já ter havido decisão de mérito, ainda que favorável ao autor da ação. Esse, a propósito, o entendimento adotado pelo Superior Tribunal de Justiça, conforme se depreende dos seguintes precedentes: AgRg nos EDcl nos EDcl na DESIS no RE nos EDcl no AgRg no REsp 999.447/DF, Rel. Ministra Laurita Vaz, Corte Especial, DJe 15/6/2015; AgRg na DESIS no REsp 1.452.786/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30/3/2015.
+Em igual sentido: AgInt na DESIS no AREsp 1.202.507/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 7/8/2019; AgInt na DESIS nos EDcl no AREsp 85.071/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 15/4/2019.
+Ante o exposto, homologo a desistência e extingo o mandado de segurança, sem resolução de mérito, nos termos do artigo 485, inciso VIII, do CPC/2015, com baixa dos autos após publicação e intimação.
+Publique-se. Intimem-se.
