@@ -1,0 +1,33 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 2, p. 201):
+    “EMENTA: ADMINISTRATIVO. MANDADO DE SEGURANÇA. REEXAME NECESSÁRIO. MUNICÍPIO DE BOTELHOS. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO A PROGRESSÃO VERTICAL. LEIS MUNICIPAIS QUE EMBASARAM OS PEDIDOS INICIAIS DECLARADAS INCONSTITUCIONAIS PELO ÓRGÃO ESPECIAL. REFORMA DA SENTENÇA. SEGURANÇA DENEGADA.
+    - Deve ser reformada sentença que concedeu a segurança para determinar o posicionamento do autor no padrão Vise as leis municipais que ampararam os pedidos do impetrante foram declaradas inconstitucionais pelo Orgão Especial no âmbito da Arguição de Inconstitucionalidade n° 1.0084.13.001255-6-002, suscitada em caso oriundo da mesma comarca e cuja situação fática é similar a dos presentes autos.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 231).
+    No recurso extraordinário, interposto com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXXVI, da Constituição da República.
+    Nas razões recursais, sustenta-se, em síntese, que (eDOC 2, p. 284-285):
+    “(...) o TJMG, ao declarar a inconstitucionalidade de Leis Municipais de Botelhos não se manifestou a respeito dos EFEITOS DE TAL DECLARAÇÃO, muito menos esclareceu a partir de quando seria válida a referida declaração e muito menos sua amplitude, já que o julgamento se deu em controle DIFUSO de constitucionalidade.
+    O ora recorrente, contudo, já tinha o direito líquido e certo à promoção, inclusive com sentença judicial em tal sentido, antes da declaração da inconstitucionalidade das citadas Leis, pelo que merecedor da proteção da segurança jurídica, nos termos do art. 5°, XXXVI, da Constituição da República.”
+    A 1ª Vice-Presidência do TJ/MG inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 283 do STF (eDOC 2, p. 299-300).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do mandado de segurança, asseverou que (eDOC 2, p. 202-209):
+    “Cuida-se de mandado de segurança impetrado por Leandro Ferreira Piva em face de ato atribuído ao Prefeito do Município de Botelhos consistente no indeferimento do pedido de concessão de progressão no cargo de Agente Administrativo Padrão VI.
+    (…)
+    Com efeito, o Órgão Especial deste Tribunal de Justiça, quando da análise da Arguição de Inconstitucionalidade n° 1.0084.13.001255-6-002, suscitada em caso oriundo da mesma comarca e cuja situação tática é similar a dos presentes autos, reconheceu incidentalmente a inconstitucionalidade de dispositivos das leis complementares municipais que fundamentam o pedido formulado na inicial:
+    (…)
+    No âmbito do incidente, o colegiado entendeu que as promoções concedidas pelo ente municipal mediante a edição de leis não constituíam mera promoção, mas transposição dos servidores para carreira distinta da originária sem concurso público, em ofensa a dispositivos constitucionais e ao princípio da igualdade.
+    Neste contexto, o Órgão Especial declarou a inconstitucionalidade dos artigos 53 e 54 da LCM n° 17/2007; art. 2º da LCM n° 26/2007; arts. 51, 52 e 57 da LCM n° 35/2010 e art. 1º da LCM n° 42/2011, cujos conteúdos são os seguintes:
+    (…)
+    Por certo, da narrativa dos fatos na inicial, é possível observar que o pedido de progressão vertical pelo impetrante foi embasado na edição da LCM n° 26/2007, que instituiu o § 40 do art. 54 da LCM n° 17/2007, no § 4º do art. 52 da LCM n° 35/2010, e na LCM nº 42/2011, atos normativos declarados inconstitucionais pelo Órgão Especial.
+    De igual modo, o referido órgão julgador reconheceu a inconstitucionalidade da LCM n° 17/2007 que, com base na manutenção dos padrões de vencimento permitiu a transposição do Agente Administrativo Técnico, com o símbolo AAIVA (Padrão IV), cargo distinto e que exigia grau de escolaridade diversa.
+    Neste contexto, em face do julgamento do tema pelo Órgão Especial, e da declaração de inconstitucionalidade das leis que amparam os pedidos formulados na inicial, a segurança deve ser denegada porque não há direito adquirido em face de norma inconstitucional.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação local aplicável à espécie (Leis Complementares Municipais 17/2007; 26/2007; 35/2010; e 42/2011), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. Nesse sentido:
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO HORIZONTAL. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 280/STF. 1. Para dissentir das conclusões do Tribunal de origem, seria necessária a análise das normas infraconstitucionais pertinentes, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 280/STF. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1.020.754-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 18.9.2017).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROGRESSÃO HORIZONTAL. LEI MUNICIPAL N. 985/1997. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 883.211-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 3.8.2015).
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371, Rel. Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, haja vista tratar-se de mandado de segurança na origem (Súmula 512 do STF e art. 25 da Lei 12.016/2009).
+    Publique-se.
+    Brasília, 28 de outubro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
