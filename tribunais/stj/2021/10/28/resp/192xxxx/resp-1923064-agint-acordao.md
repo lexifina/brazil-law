@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que JOSÉ REINALDO PRADO DOS SANTOS e outros (JOSÉ e outros) ajuizaram ação de cobrança contra FUNDAÇÃO BANCO CENTRAL DE PREVIDÊNCIA PRIVADA - CENTRUS e CAIXA DE PREVIDENCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI (CENTRUS e PREVI) pretendendo o pagamento das correções dos expurgos inflacionários sobre as contribuições sociais devolvidas, que foi julgada parcialmente procedente.
+No curso do cumprimento de sentença, o d. Juízo de primeira instância deferiu o pedido de produção de perícia atuarial.
+Contra essa decisão interlocutória, JOSÉ e outros interpuseram agravo de instrumento sustentando a desnecessidade de mencionada perícia.
+O Desembargador relator, de forma monocrática, negou seguimento ao recurso em virtude da sua intempestividade.
+O agravo interno interposto por JOSÉ e outro não foi provido pelo Tribunal de Justiça do Rio de Janeiro, nos termos do acórdão assim ementado:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. RECURSO QUE NÃO APRESENTA QUALQUER INOVAÇÃO NA TESE JURÍDICA CAPAZ DE MODIFICAR O ENTENDIMENTO ESPOSADO NA DECISÃO MONOCRÁTICA ORA ATACADA. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINOU A REALIZAÇÃO DE PERÍCIA ATUARIAL. "IMPUGNAÇÃO A NOMEAÇÃO DE PERITO ATUARIAL" OFERECIDA PELOS AGRAVANTES QUE SE MOSTRA COMO VERDADEIRO PEDIDO DE RECONSIDERAÇÃO DA DECISÃO RECORRIDA. PEDIDO DE RECONSIDERAÇÃO, O QUAL NÃO SUSPENDE O PRAZO PARA A INTERPOSIÇÃO DE QUALQUER RECURSO. SÚMULA 46 DO TJ/RJ. INTEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO, DECISÃO MONOCRÁTICA QUE SE MANTÉM. DESPROVIMENTO DO RECURSO (e-STJ, fl. 147).
+Os embargos de declaração opostos por JOSÉ e outros foram rejeitados (e-STJ, fls. 199/205).
+Inconformados, JOSÉ e outros manejaram recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação dos arts. 489, § 1º, 502, 503, 1.015, parágrafo único, e 1.022, II, do NCPC, e 6º, § 3º, do Decreto-lei nº 4.657/48, ao sustentarem a (1) omissão do acórdão recorrido; (2) existência de despacho com natureza de decisão interlocutória; e (3) violação da coisa julgada.
+Foram apresentadas contrarrazões (e-STJ, fls. 256/265 e 269/281).
+Admitido o apelo nobre, foi determinado, nos termos da Resolução STJ/GP nº 15 de 26 de junho de 2020, a intimação de Nelson Ferreira de Araújo e outros para, em 5 dias, regularizarem sua representação processual (e-STJ, fl. 342).
+Após o decurso do prazo, JOSÉ e outros apresentaram as petições e-STJ, fls. 356/368 e 356/376.
+Na primeira petição, a advogada Dra. ANA PAULA GALVÃO DE AQUINO, OAB/DF 60.508 e OAB/RJ 144.173 informa que foi submetida a uma cirurgia aos 19/2/2021 e que estava impossibilitada de trabalhar pelo período de 25/2/2021 a 16/3/2021 requerendo, portanto, a devolução do prazo para apresentação da procuração.
+Na segunda petição, a advogada Dra. ANA PAULA GALVÃO DE AQUINO, OAB/DF 60.508 e OAB/RJ 144.173 alega que a intimação para saneamento do processo deve ser considerada nula, pois se deu na inscrição da OAB/DF e na procuração consta apenas a inscrição da OAB/RJ.
+Os pedidos formulados nas petições de, e-STJ, fls. 356/368 e 356/376 foram indeferidos e o recurso especial não foi conhecido em decisão monocrática de minha lavra nestes termos sintetizada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE COBRANÇA EXPURGOS INFLACIONÁRIOS. DEVOLUÇÃO DO PRAZO. JUSTA CAUSA NÃO COMPROVADA. AUSÊNCIA DE NULIDADE DA PUBLICAÇÃO. NÚMERO DA INSCRIÇÃO NA OAB INDICADA PELA ADVOGADA NAS RAZÕES RECURSAIS. RECURSO ESPECIAL INTERPOSTO SEM PROCURAÇÃO OU SUBSTABELECIMENTO. NÃO SANEAMENTO DO VÍCIO NO PRAZO. RECURSO INEXISTENTE. SÚMULA Nº 115 DO STJ. PRECEDENTE. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fl. 375)
+Os embargos de declaração opostos por DALTON foram acolhidos para tornar sem efeito a decisão às, e-STJ, fls. 375/380 em relação apenas a ele e determinar a sua intimação para que regularize a representação processual no prazo de 5 dias, nos termos do art. 76 do CPC (e-STJ, fls. 432/435).
+Nas razões do presente agravo interno, a PREVI sustentou que a intimação é expedida em nome dos advogados das partes e, ainda que sejam diversas as partes no caso dos autos, o patrono é o mesmo, de sorte que a intimação direcionada a uns aproveita aos demais e constitui-se em ato válido que, mesmo não ocorrendo na forma prescrita em lei, preenche a sua finalidade essencial (e-STJ, fls. 450/466).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. RECURSO INTERPOSTO SEM PROCURAÇÃO DO ADVOGADO SUBSCRITOR. INTIMAÇÃO DO PATRONO PARA REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. FALHA NA INTIMAÇÃO DE UM DELES. PREJUÍZO VERIFICADO. NULIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Interposto o recurso impugnando decisão publicada na vigência do atual Código de Processo Civil, necessária a intimação da parte para regularizar o vício de representação processual, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil, sob pena de nulidade.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões do presente recurso, a PREVI sustentou que a intimação é expedida em nome dos advogados das partes e, ainda que sejam diversas as partes no caso dos autos, o patrono é o mesmo, de sorte que a intimação direcionada a uns aproveita aos demais e constitui-se em ato válido que, mesmo não ocorrendo na forma prescrita em lei, preenche a sua finalidade essencial.
+Ocorre que, no caso dos autos, houve a determinação da intimação pessoal de JOSÉ e outros para que juntassem aos autos a cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial (e-STJ, fls. 342).
+À guisa de reforço, merecem destaque as certidões às, e-STJ, fls. 345/354, que consignam a intimação pessoal e individualizada de cada uma das partes, nos termos do art. 76 do NCPC e da Resolução STJ/GP nº 15 de 26 de junho de 2020.
+A intimação das partes para a regularização da representação processual está de acordo com o entendimento consolidado do STJ a respeito do tema:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. REPRESENTAÇÃO PROCESSUAL. AUSÊNCIA. INTIMAÇÃO. ARTS. 76 E 932, PARÁGRAFO ÚNICO, DO CPC. DESATENDIMENTO. AGRAVO NÃO CONHECIDO. SÚMULA N. 115/STJ. MAJORAÇÃO DA VERBA HONORÁRIA EM FAVOR DO AGRAVADO. CRITÉRIOS DO NOVO CPC/15. APLICABILIDADE. ENUNCIADO ADMINISTRATIVO 7/STJ. NÃO PROVIMENTO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts.
+1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+2. Interposto o recurso impugnando decisão publicada na vigência do atual Código de Processo Civil, necessária a intimação da parte para regularizar o vício de representação processual, nos termos dos artigos 76 e 932, parágrafo único, do Código de Processo Civil.
+3. Deixando a parte transcorrer o prazo sem que a representação processual seja regularizada, é inexistente o recurso dirigido a esta Casa, nos termos do enunciado n. 115 da Súmula.
+4. O Plenário do STJ, na sessão realizada no dia 9 de março de 2016, aprovou o Enunciado Administrativo n. 7/STJ, segundo o qual "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.477.802/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 26/3/2020 - destacou-se)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO PROFERIDA PELA PRESIDÊNCIA DO STJ. 1. AUSÊNCIA DE PROCURAÇÃO DO SUBSCRITOR DO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO.
+REGULARIZAÇÃO. FALHA NÃO SUPRIDA. 2. PEDIDO DE NOVA CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. VERBA JÁ CONTEMPLADA NA DECISÃO MONOCRÁTICA. 3. AGRAVO INTERNO DESPROVIDO.
+1. A parte, mesmo devidamente intimada, não atendeu a determinação de regularização da representação processual, razão pela qual o não conhecimento do recurso se impõe, nos termos do art. 76, § 2º, I, do Código de Processo Civil de 2015.
+2. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.257.056/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 1º/2/2019 - destacou-se)
+Contudo, das certidões coligidas aos autos, extrai-se que apenas DALTON não foi intimado para regularizar sua representação processual, o que lhe acarretou inquestionável prejuízo ao importar no não conhecimento do apelo nobre.
+Ao lume do exposto, emerge de rigor manter a decisão agravada que, reconhecendo a nulidade em testilha, tornou sem efeito a decisão proferida às, e-STJ, fls. 375/380 em relação apenas a DALTON e determinou a sua intimação para que regularize a representação processual no prazo de 5 dias a contar daquela decisão, nos termos do art. 76 do CPC.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
