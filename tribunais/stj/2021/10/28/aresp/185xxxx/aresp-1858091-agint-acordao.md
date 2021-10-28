@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CONDOMINIO RESIDENCIAL PORTINARI contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial que interpusera, pelos seguintes fundamentos: ausência de prequestionamento da tese recursal e falta de cotejo analítico, similitude fática e prequestionamento no dissídio jurisprudencial.
+Ação: monitória, ajuizada pelo agravante, em face de MARIO ALBERTO DE ALBUQUERQUE.
+Sentença: julgou improcedentes os embargos monitórios e constituiu de pleno direito o título executivo judicial.
+Acórdão: deu provimento à apelação interposta pelo agravado, para julgar procedentes os embargos monitórios, a fim de declarar a prescrição da pretensão monitória, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA DE IMPROCEDÊNCIA DOS EMBARGOS. PRELIMINAR. GRATUIDADE JUDICIÁRIA. PESSOA NATURAL. PRESUNÇÃO DE VERACIDADE DA DECLARAÇÃO. DEFERIMENTO. PRELIMINAR. AUSÊNCIA DE INTERESSE PROCESSUAL. MANEJO DA AÇÃO ADEQUADA. REJEIÇÃO.
+- Em se tratando de requerimento formulado por pessoa natural, a declaração de necessidade faz presumir, ainda que relativamente, os elementos necessários à concessão do benefício. E mais, a circunstância de o beneficiário ser assistido por advogado particular não impede, por si só, o deferimento do pleito.
+- O exame do interesse processual passa pela verificação do binômio necessidade mais adequação, ou seja, a prestação jurisdicional deve ser um meio necessário para a solução da lide e o instrumento utilizado deve ser adequado.
+- No tocante à presente demanda, entendo que a parte autora da ação monitória se valeu da via adequada para a cobrança do título de evento nº2787257, já que este não ostenta a natureza de título executivo judicial.
+PREJUDICIAL DE MÉRITO. DÍVIDA LÍQUIDA MATERIALIZADA EM TÍTULO PARTICULAR.AJUIZAMENTO DE CAUTELAR INOMINADA. INTERRUPÇÃO DA PRESCRIÇÃO. PRAZO PRESCRICIONAL DE CINCO ANOS. TERMO INICIAL. ÚLTIMO ATO PRATICADO NO PROCESSO JUDICIAL. ART. 206, §5º, I C/C ART. 2.028, NCC/02.
+PRESCRIÇÃO CONFIGURADA. PROVIMENTO DO APELO.
+- Por ser matéria de ordem pública, a prescrição deve ser conhecida e declarada em qualquer fase do processo, ainda que de ofício.
+- A ação monitória fundada em cobrança de débitos condominiais encontra-se subordinada ao prazo prescricional de cinco anos estabelecido pelo art. 206, §5º, inciso I, do Código Civil. O prazo aplicável ao caso em tela é quinquenal, ainda que o vencimento do título e o seu protesto tenham ocorrido quando ainda em vigor o Código Civil de 1916.
+- O termo inicial de contagem da prescrição quinquenal, na presente hipótese, deve levar em conta os efeitos decorrentes da transição legislativa para o Novo Código Civil.
+- O protesto cambial, realizado em 02.05.2002 (evento nº2787257 - pág. 05), não interrompeu o prazo prescricional, pois não ostentava essa prorrogativa (S. 153, STF). No entanto, a tese de prescrição merece acolhimento.
+- É cediço que o Código Civil de 1916 arrolou, como causa interruptiva da prescrição, a citação ordenada em processo judicial, mesmo que por juízo incompetente. Considerando que a Cautelar Inominada foi interposta em 08.05.2002, data à qual retroagiu o marco interruptivo da prescrição, nos moldes do artigo 219, §1º, do CPC/1973, bem como que o referido pleito transitou em julgadoem 20.07.2006 (evento nº2787269), é desta data, na qual praticado o último ato do processo, que deve ser contado o quinquênio prescricional, em consonância com o artigo 173 do CC/1916 (artigo 203, NCC/02) - Em conclusão, a leitura conjunta das duas constatações acima expostas nos leva à seguinte sequência de eventos: (a) o prazo prescricional vintenário começou a correr, originalmente, em 14.03.2002 (evento nº2787257 - pág. 04), data de vencimento do título; (b) o referido prazo não chegou a sofrer interrupção em 02.05.2002 (evento nº2787257 - pág. 05), pois o protesto cambial não tinha o condão de interromper a prescrição (Súmula 15 3, STF); (c) quando da entrada em vigor do Novo Código Civil, o prazo prescricional sofreu redução para cinco anos (artigo 206, §5º, I, NCC/02) (d) o ajuizamento da ação cautelar gerou a interrupção da prescrição, que retroagiu à data de 08.05.2002; (e) com o trânsito em julgado da ação cautelar, em 20.07.2006, restou extinta a causa interruptiva, dando-se início, a partir daí, à nova contagem do prazo prescricional, agora quinquenal.
+- Prescrição configurada e apelo provido.
+Embargos de declaração: opostos pelo agravante, foram primeiramente acolhidos apenas para sanar contradição, sem modificação do julgado, e, posteriormente, rejeitados.
+Recurso especial: alega violação doart. 172, V, do CC/16, bem como dissídio jurisprudencial. Sustenta que: i) se a cautelar, que tinha como autor o agravado, interrompeu o prazo prescricional, a principal também tinha o condão de interromper, posto inexistir à época um limite legal para as interrupções do prazo prescricional; ii) a manifestação do credor, de forma defensiva, nas ações impugnativas promovidas pelo devedor, afasta a sua inércia no recebimento do crédito, além de evidenciar que o devedor tinha inequívoca ciência do interesse do credor em receber aquilo que lhe é devido.
+Decisão monocrática:conheceu do agravo para não conhecer do recurso especial interposto pelo agravante.
+Agravo interno:em suas razões, o agravante afirma que: i) a matéria foi devidamente prequestionada de maneira expressa; ii) foram expostos os acórdãos do STJ que apresentam entendimento diferente, bem como realizado o cotejo, com demonstração detalhada da similitude fática. Por fim, reitera o mérito do recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. FALTA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Ação monitória.
+2. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+5. Agravo interno noagravo em recurso especial não provido.
+VOTO
+A decisão agravada conheceu do agravo para não conhecer do recurso especial ante aausência de prequestionamento da tese recursal;e a falta de cotejo analítico, similitude fática e prequestionamento no dissídio jurisprudencial.
+Julgamento:CPC/2015.
+1. Da ausência de prequestionamento
+Os argumentos invocados pelo agravante em seu recurso especial quanto à causa interruptiva da prescrição prevista noart. 172, V, do CC/16 não foram objeto de prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Saliente-se, outrossim, que o agravante ao menos deveria ter alegado a violação do art. 1.022 do CPC/15 se entendesse que os referidos argumentos deveriam ter sido enfrentados pelo Tribunal de origem.
+2. Da divergência jurisprudencial
+Por fim, com relação ao dissídio jurisprudencial, não pode ser tido como demonstrado da forma devida, pois, para sua caracterização, não basta a transcrição de ementas e trechos dos acórdãos paradigmas. Também é necessário que se aponte e explicite por que os casos são semelhantes e qual é a proximidade fática entre os julgados comparados, de forma consistente, o que não foi realizado na hipótese dos autos.
+Ademais, não se conhece do dissídio jurisprudencial se o tema que se supõe divergente (causa interruptiva da prescrição prevista no art. 172, V, do CC/16) não foi discutido pelo Tribunal de origem, pela ausência de prequestionamento. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
