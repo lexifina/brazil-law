@@ -1,0 +1,58 @@
+DECISÃO
+DEIVID LIMA DE OLIVEIRA (DEIVID) ajuizou ação de rito ordinário contra a CAIXA ECONÔMICA FEDERAL (CAIXA), informando que aos 9/7/2015 firmou "Contrato de Compra e Venda de Terreno e Mútuo para Construção de Unidade Habitacional, Alienação Fiduciária em Garantia e Outras Obrigações - Minha Casa, Minha Vida - PMCMV - Recursos do FGTS", tendo como vendedor/construtora Júpiter Incorporações e Construções Ltda. e a ré como agente fiduciária. Salientou que havia previsão de entrega da obra em 25 meses a contar da assinatura do contrato, ou seja, em 9 de agosto de 2017, o que não foi cumprido.
+Pediu, ao final, a total procedência da demanda a fim de determinar a retomada da obra, a condenação da CAIXA ao pagamento de indenização por danos materiais (aluguéis desde a data do atraso na entrega até a entrega efetiva das chaves, no valor de R$ 4.620,00 - quatro mil seiscentos e vinte reais) e indenização por danos morais, no valor de R$ 100.000,00 (cem mil reais). Requereu, alternativamente, em sendo inviável a retomada da obra, que fosse a CAIXA compelida a repassar imóvel análogo, além dos danos materiais e morais.
+A sentença julgou parcialmente procedente o pedido inicial, apenas paracondenar a ré ao pagamento de indenização por danos morais ao autor, no montante de R$ 7.500,00 (sete mil e quinhentos reais), atualizáveis até o efetivo pagamento pela variação do IPCA-E e com juros de mora de 1% ao mês a contar do ato danoso (10/2017) e-STJ, fls. 283/292 e 304/305 .
+O Tribunal Federal da 4ª Regiãonegou provimento ao recurso de apelação manejado por DEIVID, em acórdão assim ementado:
+ADMINISTRATIVO. APELAÇÃO CÍVEL. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. DANOS MORAIS. QUANTUM. SUBSTITUIÇÃO DE IMÓVEL. SEM PREVISÃO LEGAL. JUROS DE OBRA. DEVOLUÇÃO EM DOBRO. INCABÍVEL.
+O atraso na entrega da obra, admitido pelas rés, sem dúvida alguma gerou no autor sofrimento, transtorno e inquietações caracterizadores do dano moral, sendo suficiente para ensejar a obrigação de reparar o dano extrapatrimonial. Atento ao comando do artigo 944 do Código Civil vigente, entendo que o valor fixado pelo juízo a quo (R$ 7.500,00) se mostra adequado a título de indenização por danos morais.
+Rejeita-se o pedido de repasse de imóvel análogo, ante a inexistência de previsão legal ou contratual nesse sentido.
+Não há falar em restituição em dobro, prevista no art. 42, § único, do CDC, uma vez que tal disposição aplica-se tão somente naquelas hipóteses em que há prova de que o credor agiu com má-fé, o que não restou demonstrado no caso dos autos(e-STJ, fl. 356).
+Irresignado, DEIVID manejou recurso especial com fundamento no art. 105, III,a, da CF, no qual alegoua violação dos arts. (1) 233 e seguintes, 247 e seguintes e 421, todosdo CC/02, porque a CAIXAnão restou impelida àcontinuação da obra (com a substituição da empreiteira que não finalizou), tampouco fora concedido imóvel análogo ao Recorrente; (2) 356 do CC/02, defendendo a possibilidade de entrega de coisa diversa; (3) 475 e 927, ambos do CC/02, afirmando que a CAIXA deve ser condenada a lhe pagar todos os prejuízos causados pela demora na entrega do imóvel objeto do contrato de compra e venda; (4) 247, 248 e 389, todos do CC/02, alegando que, caso não lhe seja entre o imóvel, de um modo ou de outro, então que a obrigação seja resolvida em perdas e danos!; e (5) 944 do CC/02, aduzindo que o valor fixado pelo dano moral deve ser majorado (e-STJ, fls. 378/390).
+As contrarrazões não foram apresentadas (e-STJ, fl. 394)
+O recurso especial foi inadmitido pelo TRF da 4ª Região(e-STJ, fls. 397/402).
+DEIVID então manifestou o presente agravo em recurso especial sustentando o desacerto da decisão que inadmitiu o apelo nobre (e-STJ, fls. 410/415).
+A contraminuta não foi apresentada (e-STJ, fl. 418).
+É o relatório.
+DECIDO.
+O agravo merece ser conhecido, porém o apelo nobre adjacente não pode ser conhecido, nos termos da seguinte fundamentação.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nela prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada violação dos arts. 233 e seguintes, 247 e seguintes, 421, 356, 475, 927, 247, 248, 389e 944, todos do CC/02
+Verifica-se, de plano, que o conteúdo normativo referente a quase todos os mencionados dispositivos de lei não foi objeto de debate no v. acórdão recorrido, carecendo, portanto, do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pela Corte de origem, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que se tenha emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada.
+Aplicável, assim, por analogia, a Súmula nº 282 do STF, a qual estabelece serinadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Além disso, destaca-se que, nas razões do especial, DEIVID não apresentou argumentos claros e concatenados que pudessem esclarecer os fundamentos ou motivos pelos quais entendeu violado os mencionados dispositivos. Por conseguinte, não houve a demonstração, clara e precisa, da necessidade de reforma do acórdão recorrido, o que impede compreender a exata medida da controvérsia, ensejando a aplicação da Súmula nº 284 do STF, por analogia.
+Nesse sentido, vejam-se os precedentes a seguir:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. MATÉRIA CONSTITUCIONAL.IMPOSSIBILIDADE DE APRECIAÇÃO. AÇÃO ANULATÓRIA. NULIDADE. DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. UTILIZAÇÃO DA FÓRMULA ""E SEGUINTES"".FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+ ..
+3. Segundo a jurisprudência do STJ, "o uso da fórmula aberta "e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF.
+Isso porque o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgInt no AREsp n. 1.411.032/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe 30/9/2019).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.839.853/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 16/8/2021, DJe 19/8/2021 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER.PLANO DE SAÚDE. 1. VIOLAÇÃO AOS ARTS. 757 E SEGUINTES DO CC.FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. 2. DANO MORAL. AUSÊNCIA DE INDICAÇÃO DE ARTIGO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 3. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. 4. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a jurisprudência do STJ, o uso da fórmula aberta ""e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF.
+ ..
+4. Agravo interno improvido.
+(AgInt no REsp 1.882.521/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 11/11/2020, DJe 16/11/2020- sem destaque no original)
+Ainda que superado os óbices acima, verifica-se que DEIVID, em que pese ter insistido na tese de que é possível aentrega de coisa diversa e a retomada da obra, não cuidou de afastar o fundamento de querejeita-se não apenas o pedido de retomada da obra, mas também o de repasse de imóvel análogo, ante a inexistência de previsão legal ou contratual nesse sentido(e-STJ, fl. 370), o que implica a incidência da Súmula nº 283 do STF, por analogia.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO PROTOCOLADO VIA FAX. ART. 2º DA LEI N. 9.800/99. NÃO IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO AUTÔNOMO. SÚMULA N. 283/STF. DIVERGÊNCIA JURISPRUDENCIAL.SÚMULA N. 83/STJ. AFERIÇÃO DA DATA DE PROTOCOLO. SÚMULA N. 7/STJ.
+1. A não impugnação específica dos fundamentos da decisão recorrida suficientes para mantê-la enseja o não conhecimento do recurso. Incidência da Súmula n. 283 do STF.
+ ..
+4. Agravo regimental parcialmente conhecido e desprovido.
+(AgRg no AREsp nº 673.529/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 28/8/2015 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 283/STF. INTERPRETAÇÃO DE CLÁUSULA E REEXAME DE PROVA. SÚMULAS NºS 5 E 7/STJ. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja a incidência, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp nº 643.078/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 2/9/2015 - sem destaque no original)
+Por derradeiro,ovalorfixadoa título de danomoral, porque arbitradocom fundamento no arcabouço fático-probatório carreado aos autos, só podeser alteradoem hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante, o que não ocorreu no caso, em que odano imaterial foi fixado em R$ 7.500,00 (sete mil e quinhentos reais).
+Nesse sentido, veja-se os seguintes julgados da eg. Terceira Turma:AgInt no AREsp 1.895.220/RJ, minha relatoria, julgado em 11/10/2021, DJe 14/10/2021;AgInt no REsp 1.901.318/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, julgado em 4/10/2021, DJe 7/10/2021; eAgInt no AREsp 1.866.310/PE, Rel. Ministra NANCY ANDRIGHI, julgado em 20/9/2021, DJe 22/9/2021.
+Assim, está claro que o recurso especial não ultrapassa nem sequer a barreira do conhecimento.
+Nessas condições,CONHEÇOdo agravo paraNÃO CONHECERo recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor da CAIXA, limitados a 20%, nos termos do art. 85, § 11, do NCPC.Deveráserobservado, se for o caso, o benefício da gratuidade dajustiça, nostermosdo art. 98, § 3º, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSOMANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE RITO ORDINÁRIO. SISTEMA FINANCEIRO DE HABITAÇÃO. PROGRAMA "MINHA CASA MINHA VIDA". ATRASO NA ENTREGA DA OBRA.FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA Nº 211 DO STJ.DEFICIÊNCIA DA FUNDAMENTAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A ARGUMENTO ESPECÍFICO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS NºS 283 E 284, AMBAS DO STF. DANO MORAL. QUANTUM. REFORMA DO JULGADO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA Nº 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
