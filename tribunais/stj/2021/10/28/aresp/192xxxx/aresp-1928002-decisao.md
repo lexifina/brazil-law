@@ -1,0 +1,30 @@
+DECISÃO
+SJC COMERCIO ESERVIÇOS AUTOMOTIVOS LTDA. ME (SJC) ajuizou ação de embargos de terceiros contraIORGA Ó LEOS EPROTETIVOS INDUSTRIAIS LTDA., tendo por objeto bem móvel.
+A sentença julgouIMPROCEDENTES os pedidos, com resolução do mérito, nos termos do artigo 487, inciso I, do Código de Processo Civil. Sucumbente, condeno o embargante ao pagamento das custas e despesas processuais, bem como dos honorários advocatíciosem favor do advogado do embargado (exequente), que fixo em 15% do valor atualizado da causa (e-STJ, fl. 105).
+SJC interpôsapelação apreciada pelo Tribunal Bandeirante em acórdão da relatoria do Des.WALTER EXNER, assim ementado:
+Apelação. Embargos de terceiro. Fraude à execução. Peculiaridades do caso concreto que permitem sua caracterização. Aquisição de veículo pelo genro do sócio da empresa executada. Ausência de prova da efetiva venda do bem em questão. Embargante que sequer buscou regularizar sua transferência, mesmo após a inclusão de restrição de circulação do carro.Existência, ao tempo da alienação, de diversas demandas capazes de reduzir a devedora à insolvência. Sentença mantida. Recurso improvido(e-STJ, fl. 137).
+Os embargos de declaração de SJC foram rejeitados (e-STJ, fls. 154/159).
+SJC interpôs recurso especial com base no art. 105, III,a, da CF, onde alegou violação dos arts.674, 678, e 681 do NCPC, pelos seguintes fundamentos (1) inexistiu fraude à execução, pois o veículo foi adquirido de boa-fé, antes do ajuizamento da presente demanda; (2) os fatos alegados ficaram comprovados pelos recibos colacionados aos autos e comprovantes de transferência bancária; (3) no caso de dúvida quanto à veracidade da documentação deveria se instaurar um incidente de falsidade; (4) após comprar o veículo do seu sogro que veio a falecer , o seu cunhado se recusou a assinar os documentos de transferência.
+Foram ofertadas contrarrazões (e-STJ, fls. 185/198).
+O Tribunal Estadual inadmitiu o recurso nobre por (1) não ter sido demonstrada a infringência dos preceitos legais arrolados; (2) se aplicar a Súmula nº 7 do STJ.
+SJC ingressou com agravo em recurso especial sustentado que (1) não se pretende o reexame de prova, mas asua revaloração; (2) ficou configurada a violação dos artigos indicados.
+Foi apresentada contraminuta (e-STJ, fls. 221/231).
+É o relatório.
+DECIDO
+A irresignação não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Dosarts. 674, 678, e 681 do NCPC
+No ponto,verifica-se que os referidos preceitos não foram objeto de debate pelo acórdão recorrido se ressentindo do necessário prequestionamento.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+Sendo assim,aplicam-se as Súmulas nºs 282 do STF e 211 do STJ, relativamente a esses preceitos.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO AOS ARTS. 144 E 492 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTOS CONSTITUCIONAIS. VIOLAÇÃO AOART. 1.022 DO CPC NÃO COMPROVADA. (..) 2. Não se pode conhecer da irresignação contra a ofensa aos arts. 141 e 492 do CPC, pois a tese legal apontada não foi analisada pelo acórdão hostilizado, o que atrai o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. (AgInt no AREsp 1745195/MT, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, j. em 22/03/2021, DJe 05/04/2021).
+Ademais, observa-se que sob a alegação de ofensa a dispositivos legais não debatidos, a parte busca o reexame do contexto fático-probatório dos autos o que na via eleita é obstado pela Súmula nº 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1.CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 3. ATRASO NA ENTREGA DE OBRA. RESPONSABILIDADE. QUADRO FÁTICO DELINEADO PELO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO. 1. O indeferimento da produção da dilação probatória requerida não configura cerceamento do direito de defesa, uma vez que ficou claro no aresto impugnado que as provas produzidas nos autos são suficientes para o correto deslinde da controvérsia. Sendo o magistrado o destinatário da prova, compete a ele o exame acerca da necessidade ou não da produção do aporte requerido, sendo inviável rever as provas dos autos. Incidência da Súmula 7/STJ. (..) 4. Agravo interno desprovido. (AgInt no AREsp 1.168.900/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 6/3/2018, DJe 13/3/2018l)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. AGRAVO EM RECURSO ESPECIAL NA ÉGIDE DO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO DOS PRECEITOS ARROLADOS. SÚMULAS NºS 282 DO STF E 211 DO STJ. PRETENSÃO RECURSAL QUE SOB A ALEGAÇÃO DE OFENSA A DISPOSITIVOS NÃO PREQUESTIONADOS ESBARRA NA SÚMULA Nº 7 DO STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
