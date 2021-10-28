@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de IVAN DOUGLAS RUFINO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime aberto, mais pagamento de 166 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem deu provimento ao apelo ministerial para elevar a pena-base e afastar o redutor do tráfico privilegiado, redimensionando a sanção para 6 anos de reclusão e pagamento de 600 dias-multa, em regime fechado.
+Neste habeas corpus, alega o impetrante ser inidônea a exasperação da pena-base com amparo em ação penal anterior que transitou em julgado somente após os fatos apurados nos presentes autos.
+Defende a aplicação da redutora do tráfico privilegiado, por preencher os pressupostos legais, bem como a fixação do regime diverso do fechado, nos termos do art. 33, §§ 2º e 3º, do Código Pena e das Súmulas 440 do STJ, 718 e 719 do STF.
+Requer, assim, a fixação da pena-base no mínimo legal, a incidência da minorante do art. 33, § 4º, da Lei de Drogas, a readequação do modo prisional e a substituição da pena corporal por restritivas de direitos.
+Liminar indeferida (e-STJ, fls. 91).
+Informações prestadas (e-STJ, fls. 95-152).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 154-157).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao prover o recurso da acusação, redimensionou a sanção imposta ao paciente com base nos seguintes fundamentos:
+"Razão assiste ao Ministério Público.
+A pena-base deve ser aumentada em 1/5 (um quinto), porque o réu possui maus antecedentes, configurados por condenação por fato anterior também pela prática de tráfico de entorpecentes.
+Como os fatos constantes na certidão de fls. 78 são anteriores ao presente crime, tal condenação definitiva enquadra-se no conceito técnico de "antecedente", não havendo qualquer ilegalidade no seu reconhecimento.
+ ..  Dessa forma, as penas resultam seis anos de reclusão e seiscentos dias-multa.
+Na fase seguinte, não há agravantes ou atenuantes a serem consideradas.
+Na última etapa da dosimetria, imperioso afastar-se o redutor previsto no § 4º, do art. 33, da Lei nº 11.343/06.
+Com efeito, embora não se vislumbre a inconstitucionalidade do dispositivo em comento, já que ele possibilita ao julgador a correta individualização da pena do traficante eventual, ou seja, aquele que acabou de ingressar ao submundo das drogas e que não se dedica a atividades criminosas, é certo que, no caso em análise, mostrou-se clarividente que o réu não é "traficante de primeira viagem "(expressão utilizada por Guilherme de Souza Nucci in Leis Penais e Processuais Penais Comentadas 5ª Edição 91 pág. 372). Isso porque o acusado tinha em seu poder razoável quantidade de cocaína, além de já ter sido condenado definitivamente pela prática de delito idêntico.
+Tais circunstâncias rechaçam a possibilidade de o réu ser beneficiado com o redutor em questão, eis que evidenciam se dedicar à atividade criminosa.
+É por isso que o réu, indubitavelmente, não merece o benefício "sub examine", pois não é traficante eventual, fazendo do tráfico meio de vida.
+Pelo exposto, fica afastado o redutor contido no art. 33, § 4º, da Lei Antidrogas" (e-STJ, fls. 54-56).
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, observa-se que a instância de origem exasperou fundamentadamente a pena-base do delito de tráfico de drogas na fração de 1/5, pela valoração negativa dos antecedentes, por ostentar o réu condenação com trânsito em julgado ao tempo da sentença.
+Sobre o tema, vale anotar que a condenação por crime anterior à prática delitiva, com trânsito em julgado posterior à data do crime sob apuração, mas antes da sentença condenatória, malgrado não configure reincidência, enseja a valoração negativa dos antecedentes do agente. Portanto, não se mostra desproporcional a exasperação operada em 1/5.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE. CRITÉRIO DE ESCOLHA DA FRAÇÃO. FUNDAMENTAÇÃO IDÔNEA. CONFISSÃO. CIRCUNSTÂNCIA NÃO UTILIZADA PARA FORMAÇÃO DE CONVENCIMENTO. AGRAVO IMPROVIDO.
+1. A jurisprudência deste Tribunal Superior é pacífica no sentido de que condenações por fatos anteriores, mas com trânsito em julgado posterior à data do crime em apuração, podem justificar a majoração da pena-base a título de maus antecedentes. 2. Ainda que a fração de 1/6 (um sexto) tenha sido a usualmente adotada para modular a pena, na primeira e segunda fase da dosimetria, ressalva-se fundamentação concreta que justifique patamar superior, como a hipótese dos autos.
+3. A versão apresentada pelo réu, quanto aos fatos a ele imputados, não foi utilizada para a formação do convencimento do Magistrado, em relação ao crime de associação para o tráfico, que se valeu dos demais elementos probatórios colhidos nos autos. Dessa forma, não há falar em aplicação da atenuante da confissão espontânea.
+4. Agravo regimental improvido."
+(AgRg no HC 556.142/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE. PEDIDO CONTRÁRIO À JURISPRUDÊNCIA CONSOLIDADA. FURTO. DUAS CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. EXASPERAÇÃO DE 1/3. PENA-BASE ACIMA DO MÍNIMO. REGIME PRISIONAL MAIS SEVERO. REPRIMENDAS RESTRITIVAS DE DIREITO. NÃO RECOMENDÁVEIS. AGRAVO NÃO PROVIDO.
+1. Segundo a orientação desta Corte Superior, a condenação definitiva por fato anterior ao crime descrito na denúncia, com trânsito em julgado posterior à data do ilícito de que ora se cuida, embora não configure a agravante da reincidência, pode caracterizar maus antecedentes e ensejar o acréscimo da pena-base.
+2. Prevalece neste Superior Tribunal que cada vetorial desfavorecida, na primeira etapa da dosimetria, enseja a exasperação de 1/6 sobre a reprimenda mínima, caso não haja motivação específica que justifique a elevação acima desse patamar.
+3. Na espécie, a Corte estadual apontou duas condenações definitivas  por fatos distintos, ocorridos antes do furto ora em comento, com trânsito em julgado em data posterior ao delito sob apuração. Embora não configurem a agravante da reincidência, ambas são aptas à configuração de maus antecedentes. Trata-se, pois, de duas circunstâncias judiciais diversas, que deram ensejo ao incremento de 1/6 para cada uma, aos ditames do entendimento consolidado neste Tribunal Superior.
+4. Os reconhecidos maus antecedentes e a repreensível conduta que encadeou a condenação  praticada contra idoso de 90 anos de idade  , com a fixação da pena-base acima do mínimo, autorizam, nos termos da jurisprudência desta Casa, a imposição do regime prisional semiaberto, mais severo do que o legalmente previsto para sanção inferior a 4 anos de reclusão.
+5. As peculiaridades do caso concreto  notadamente os maus antecedentes e a existência de circunstância judicial desfavorável  evidenciam, à luz do inciso III do art. 44 do Código Penal, que a substituição da reprimenda reclusiva por restritiva de direitos não se mostra medida socialmente recomendável.
+6. Agravo não provido."
+(AgRg no HC 607.497/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/09/2020, DJe 30/09/2020).
+Especificamente quanto aos pleitos de incidência da redutora do art. 33, § 4º, da Lei de Drogas e de fixação do modo prisional mais brando, verifica-se que constituem mera reiteração de pedidos formulados e já julgados por este Tribunal Superior nos autos do HC n. 458.668/SP, isso porque há identidade de partes e de causas de pedir, impugnado ambos os feitos o acórdão proferido na Apelação n. 0002878-78.2013.8.26.0506, o que constitui óbice ao seu conhecimento.
+A propósito:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. REITERAÇÃO DE ANTERIOR MANDAMUS IMPETRADO. RECURSO EM HABEAS CORPUS QUE NÃO DEVE SER CONHECIDO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Veiculando o presente feito as mesmas partes, causa de pedir e pedido esposado em outro habeas corpus anteriormente impetrado e já decidido, então não deve ser conhecido, por ser reiteração de pedido anterior, o que o torna inadimissível, nos termos do art. 34, XVIII, do Regimento Interno desta Corte.
+2. Agravo Regimental improvido."
+(AgRg no RHC 76.771/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 1º/12/2016, DJe 13/12/2016)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
