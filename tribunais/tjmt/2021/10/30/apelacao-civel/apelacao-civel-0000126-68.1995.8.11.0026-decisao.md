@@ -1,0 +1,29 @@
+PODER JUDICIÁRIO
+DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+0000126-68.1995.8.11.0026
+APELANTE: C.VALE - COOPERATIVA AGROINDUSTRIAL
+APELADO: EMERSON ROBESON FRANCO
+DES. RUBENS DE OLIVEIRA SANTOS FILHO
+DECISÃO MONOCRÁTICA
+APELAÇÃO CÍVEL – EXECUÇÃO – PRESCRIÇÃO – INTIMAÇÃO PRÉVIA DO AUTOR PARA OFERECER O CONTRADITÓRIO – NÃO OCORRÊNCIA - NECESSIDADE – DECISUM DESCONSTITUÍDO – RECURSO PROVIDO.
+A extinção da lide por reconhecimento da prescrição deve ser precedida da intimação do autor para se manifestar a esse respeito (art. 487, parágrafo único, c/c art. 10, do CPC).
+O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição (REsp 1604412/SC).
+Apelação em Execução extinta com amparo no art. 924, V, do CPC, ante o reconhecimento da prescrição intercorrente.
+A apelante aduz que não estão presentes os requisitos para a configuração desse instituto, visto que não poderia ter ocorrido a extinção sem a prévia intimação das partes.
+Defende não existir pedido de suspensão do feito, que atendeu ao comando judicial para dar andamento ao processo, e que a paralisação por ausência de bens penhoráveis não constitui justo motivo para o início da fluência do prazo prescricional.
+Intimado, o apelado não apresentou contrarrazões (ID no. 105715455).
+É o relatório.
+O parágrafo único do art. 487 do CPC determina que, ressalvada a hipótese do §1o do art. 332, a prescrição e a decadência não serão reconhecidas sem que antes seja dada às partes oportunidade de manifestar-se.
+Não fosse o bastante, no Incidente de Assunção de Competência no REsp no. 1604412/SC (DJe de 22/08/2018), o STJ consignou que o contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+No caso dos autos isso não ocorreu e, portanto, a extinção foi prematura, mesmo que o caso tivesse permanecido suspenso pelo período de um ano.
+A esse respeito, confira-se a lição de Cristiano Imhof (Novo código de processo civil comentado, 2a ed., ver., aum. e atual. – São Paulo: Booklaw, 2016, p.752):
+Ressalvada a hipótese de improcedência limar do pedido, a prescrição e a decadência não serão reconhecidas sem que antes seja dada às partes oportunidade de manifestar-se. Observa-se, assim, que este inovador parágrafo único vai ao encontro do art. 10, privilegiando e reforçando a versão moderna do princípio do contraditório. Repise-se que o órgão jurisdicional não pode decidir com base em fundamento a respeito do qual não se tenha oportunizado manifestação das partes, ainda que se trate de matéria apreciável de ofício.
+Dessa maneira, é vedado ao Tribunal apreciar as eventuais causas que obstariam o reconhecimento da prescrição nesta demanda.
+A propósito:
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. PRESCRIÇÃO. AUSÊNCIA DE PRÉVIA MANIFESTAÇÃO DA PARTE AUTORA. ART. 487, PARÁGRAFO ÚNICO, DO CPC/2015. NÃO OBSERVÂNCIA. VEDAÇÃO AO FUNDAMENTO-SURPRESA. ART. 10 DO CPC/2015. AMPLA DEFESA. VIOLAÇÃO. SENTENÇA CASSADA. 1. Apesar da possibilidade de reconhecimento, de ofício, da prescrição desde o regramento anterior (§5o do artigo 219 do CPC/73), o novo Estatuto Processual Civil inovou ao prever em seu artigo 487, parágrafo único, que o magistrado não poderá proferir decisão que afete o interesse das partes sem prévia manifestação destas. 2. O artigo 10 do novo Código de Processo Civil veda o fundamento-surpresa, ainda que se trate de matéria cognoscível de ofício, configurando verdadeiro dever de consulta do juiz, concedendo às partes prévia discussão da matéria não debatida. Portanto, proferida decisão calcada em fundamento-surpresa, deve ser reconhecida a nulidade do pronunciamento judicial, por violação à garantia da ampla defesa. 3. Apelação conhecida e provida. Sentença cassada. (TJDF -Acórdão 962488, unânime, Relatora: SIMONE LUCINDO, 1a Turma Cível, data de julgamento: 17/8/2016).
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL RECONHECIMENTO DE OFÍCIO DA PRESCRIÇÃO AUSÊNCIA DE PRÉVIA INTIMAÇÃO DAS PARTES PARA SE MANIFESTAREM A RESPEITO DA MATÉRIA DE ORDEM PÚBLICA NULIDADE RECURSO CONHECIDO E PROVIDO, COM ATRIBUIÇÃO DE EFEITOS MODIFICATIVOS E DECLARAÇÃO DE NULIDADE DO ACÓRDÃO RECORRIDO. 1. A prescrição, como matéria de ordem pública, pode ser conhecida de ofício pelo Julgador (inciso II do art. 487 do CPC). Todavia, mesmo as questões cognoscíveis ex officio não podem ser resolvidas sem que as partes sejam previamente ouvidas a respeito (art. 10 do CPC e parágrafo único do art. 487 do CPC). 2. Se a hipótese dos autos não se insere no § 1o do art. 332 do CPC (relativo à improcedência liminar do pedido), o reconhecimento da prescrição sem que as partes pudessem previamente se manifestar a respeito do tema configura nulidade passível de ser sanada impondo-se o provimento dos aclaratórios com a proclamação de nulidade do Acórdão recorrido. 3. Recurso conhecido e provido, com atribuição de efeitos infringentes. (TJ-ES - ED: 00176547520138080024, Relator: ARTHUR JOSÉ NEIVA DE ALMEIDA, Data de Julgamento: 12/08/2019, QUARTA CÂMARA CÍVEL, Data de Publicação: 22/08/2019) (grifei).
+Pelo exposto, com amparo no art. 932, V, c, do CPC, dou provimento ao Recurso e determino o retorno dos autos ao Juízo de origem a fim de que seja oportunizado à apelante se manifestar sobre a prescrição.
+Cuiabá, 29 de outubro de 2021.
+Des. Rubens de Oliveira Santos Filho
+Relator
