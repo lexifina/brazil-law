@@ -1,0 +1,1 @@
+Artigo 7º - Ficam mantidas as atividades de julgamento em primeira instância administrativa efetuado em juízo singular, por servidores da classe de Julgador Tributário, nos termos do disposto no artigo 40 da Lei nº 10.941, de 25 de outubro de 2001, até a extinção a que se refere o artigo 6º destas disposições transitórias.
