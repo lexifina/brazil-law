@@ -1,0 +1,5 @@
+Resolução CVM nº 55, de 2021
+Resolução CVM nº 55, DE 20 DE OUTUBRO DE 2021
+Dispõe sobre parcelamento de débitos e sobre dispensa de constituição e exigência de créditos tributários de valores cuja cobrança não justifique o respectivo custo, e revoga as Deliberações CVM nº 323, de 23 de novembro de 1999, CVM nº 447, de 24 de setembro de 2002; CVM nº 458, de 29 de abril de 2003; CVM nº 467, de 21 de janeiro de 2004; CVM nº 483, de 24 de junho de 2005; CVM nº 536, de 29 de fevereiro de 2008; CVM nº 543, de 29 de julho de 2008; CVM nº 548, de 4 de setembro de 2008; e CVM nº 776, de 20 de julho de 2017.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS – CVM torna público que o Colegiado, em reunião realizada em 19 de outubro de 2021, com fundamento no disposto nos art. 37 e 70 da Constituição da República Federativa do Brasil, na Lei nº 9.469, de 10 de julho de 1997, na Lei nº 10.522, de 19 de julho de 2002, e na Lei nº 13.494, de 24 de outubro de 2017, bem como nos art. 6º, III, do Anexo I à Resolução CVM nº 24, de 5 de março de 2021, e arts. 5º a 9º do Decreto 10.139, de 28 de novembro de 2019, APROVOU a seguinte Resolução:
+CAPÍTULO I – ÂMBITO E FINALIDADE
