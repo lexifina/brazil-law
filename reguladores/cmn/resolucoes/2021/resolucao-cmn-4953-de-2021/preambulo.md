@@ -1,0 +1,4 @@
+Resolução Nº 4.953 RESOLUÇÃO CMN Nº 4.953, DE 30 DE SETEMBRO DE 2021
+Revoga a Resolução nº 4.786, de 23 de março de 2020, que autoriza o Banco Central do Brasil a conceder operações de empréstimo por meio de Linha Temporária Especial de Liquidez, e a Resolução nº 4.795, de 2 de abril de 2020, que autoriza o Banco Central do Brasil a conceder operações de empréstimo por meio de Linha Temporária Especial de Liquidez para aquisição de Letra Financeira com garantia em ativos financeiros ou valores mobiliários (LTEL-LFG).
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 30 de setembro de 2021, com base no art. 1º da Lei nº 11.882, de 23 de dezembro de 2008, e tendo em vista o disposto na Resolução BCB nº 144, de 24 de setembro de 2021, e nos arts. 5º, 7º e 8º do Decreto nº 10.139, de 28 de novembro de 2019,
+R E S O L V E U :
