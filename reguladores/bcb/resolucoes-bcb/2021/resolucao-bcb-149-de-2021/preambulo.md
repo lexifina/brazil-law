@@ -1,0 +1,4 @@
+Resolução Nº 149 RESOLUÇÃO BCB Nº 149, DE 6 DE OUTUBRO DE 2021
+Altera as Circulares ns. 3.861 e 3.862, ambas de 7 de dezembro de 2017, que estabelecem os procedimentos para o cálculo das parcelas dos ativos ponderados pelo risco na forma simplificada (RWAS5) referentes à exposição em ouro, em moeda estrangeira e em ativos sujeitos à variação cambial mediante abordagem padronizada simplificada (RWACAMSimp) e às exposições ao risco de crédito sujeitas ao cálculo do requerimento de capital mediante abordagem padronizada simplificada (RWARCSimp), respectivamente.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 6 de outubro de 2021, com base no disposto nos arts. 9º, 10, inciso IX, e 11, inciso VII, da Lei nº 4.595, de 31 de dezembro de 1964, e tendo em vista o art. 11, parágrafo único, da Resolução nº 4.606, de 19 de outubro de 2017,
+R E S O L V E :
