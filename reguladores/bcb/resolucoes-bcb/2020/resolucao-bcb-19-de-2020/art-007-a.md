@@ -1,0 +1,2 @@
+Art. 7º-A Para fins do disposto nos arts. 3º e 4º, o Regulamento do Pix poderá disciplinar as hipóteses em que as transações realizadas ao amparo do arranjo serão consideradas como tendo finalidade de transferência ou de compra. (Incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 7º-A Para fins do disposto nos arts. 3º e 4º, devem ser consideradas as definições previstas no Regulamento do Pix com relação às finalidades de transferência, compra, saque e troco. (Redação dada, a partir de 1º/11/2021, pela Resolução BCB nº 136, de 2/9/2021.)
