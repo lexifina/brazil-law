@@ -1,0 +1,1 @@
+Artigo 4º - Para os fins desta lei complementar, no que se refere ao disposto no artigo 133 da Constituição Estadual e na Lei Complementar nº 924, de 16 de agosto de 2002, será editada resolução do Secretário da Fazenda, mediante proposta da Coordenadoria da Administração Tributária - CAT.

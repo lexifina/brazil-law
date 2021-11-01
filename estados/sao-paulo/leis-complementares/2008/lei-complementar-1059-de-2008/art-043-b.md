@@ -1,0 +1,1 @@
+Artigo 43-B - As referências à Coordenadoria da Administração Tributária e ao Coordenador da Administração Tributária, constantes desta lei complementar, exceto a do artigo 12, ficam alteradas, respectivamente, para Subsecretaria da Receita Estadual e Subsecretário da Receita Estadual. (NR)

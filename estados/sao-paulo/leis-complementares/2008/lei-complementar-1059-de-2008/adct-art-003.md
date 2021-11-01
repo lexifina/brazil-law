@@ -1,0 +1,2 @@
+Artigo 3º - Não mais se aplicam aos servidores abrangidos por esta lei complementar o valor-base e as quotas fixas a que se refere o inciso I do artigo 5º e os incisos I e II do artigo 27, e as quotas fixas complementares a que se referem os §§ 2º e 4º do artigo 27, todos da Lei Complementar nº 567, de 20 de julho de 1988, por terem sido absorvidos no enquadramento a que se refere o artigo 2º destas disposições transitórias.
+Parágrafo único - O disposto neste artigo aplica-se aos inativos e pensionistas.

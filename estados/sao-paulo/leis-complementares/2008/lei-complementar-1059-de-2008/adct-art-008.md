@@ -1,0 +1,1 @@
+Artigo 8º - Na promoção por merecimento dos ocupantes do cargo de Agente Fiscal de Rendas, a ser realizada no ano de 2009, aplicar-se-ão os critérios do Decreto nº 30.671, de 7 de novembro de 1989, e alterações posteriores.
