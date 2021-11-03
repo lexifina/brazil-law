@@ -1,0 +1,14 @@
+DECISÃO
+MOISES DIAS, preso preventivamente pela suposta prática de furto qualificado, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que denegou a ordem impetrada naquela Corte, na qual pretendia a defesa a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+Ouvido, manifestou-se o Ministério Público Federal pelo não provimento do recurso em habeas corpus, ao argumento de que a constrição cautelar se encontra devidamente fundamentada (fls. 87-89).
+Decido.
+Em que pensem os argumentos externados pelo insurgente, penso que o recurso em habeas corpus não tem procedência, na linha dos fundamentos externados pelo Parquet Federal.
+Conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+Na espécie, extrai-se da decisão que converteu o flagrante em preventiva, a seguinte passagem (fl. 73, destaquei):
+ ..
+A necessidade da prisão advém do resguardo da ordem pública. O autuado é reincidente específico, já possuindo condenação por furto, além de estar respondendo a outros dois processos por incurso no mesmo delito. Assim, diante da reiteração delitiva, demonstrada a ineficácia das medidas cautelares diversas da segregação.
+Como se observa, não há como deixar de considerar que a decisão do Magistrado de primeiro grau, chancelada pelo Tribunal de origem, indicou que o insurgente, além de reincidente específico, responde por outros dois processos também por crimes patrimoniais.
+Tal circunstância, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar e afasta a possibilidade de imposição de cautelares alternativas, a fim de evitar a reiteração delitiva, sobretudo se levado em consideração que a existência não só de condenação, mas de processos em curso por crimes de mesma natureza, revela a periculosidade do recorrente.
+Nessa direção, é firme a jurisprudência deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento no art. 34, XX, c/c art. 246, ambos do RISTJ, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
