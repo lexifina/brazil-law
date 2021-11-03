@@ -1,0 +1,61 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE FALSIDADE IDEOLÓGICA, ESTELIONATO, PECULATO ELETRÔNICO, INUTILIZAÇÃO DE LIVRO OU DOCUMENTO E COAÇÃO NO CURSO DO PROCESSO (ARTS; 299, 171, 131-A, CAPUT, C/C ART. 14, INCISO II, E ART. 334, TODOS DO CP). VIOLAÇÃO DO ART. 619 DO CPP. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. PONTOS LEVANTADOS NO RECURSO E NÃO DEBATIDOS PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. AFASTAMENTO DA CONDENAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à alegada violação do art. 619 do CPP, o acusado faz argumentações genéricas, deixando de especificar quais teses o acórdão recorrido deixou de analisar. Assim, incide a Súmula 284/STF, já que as razões recursais, no ponto, são deficientes e impedem a exata compreensão da controvérsia.
+2. No tocante à ilicitude da prova, em razão da quebra da cadeia de custódia; ao afastamento da continuidade delitiva no crime de estelionato, uma vez que a vantagem indevida, ainda que percebida mensalmente, teria decorrido de uma única conduta; a aplicação do art. 26, parágrafo único, do CP e da detração penal, tais pontos não foram objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas 211/STJ e 282/STF.
+3. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova a concluir que o acusado praticou o delito de falsidade ideológica, previsto no artigo 299 do Código Penal, eis que elaborou documento ideologicamente falso quando da realização do Projeto de Lei nº 117/2011, qual seja o "Anexo IV - Tabela de Vencimentos", bem como o crime do art. 344 do CP. Assim, rever os fundamentos utilizados pelo Tribunal estadual, para decidir que não há prova que o acusado inseriu a "Tabela 2011", contendo informações ideologicamente falsas, no processo administrativo referente ao Projeto de Lei nº 117/2011, bem como a não ocorrência da coação no curso do processo, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por LEANDRO CARDOSO LEAL (e-STJ fls. 4077/4097) contra decisão monocrática de e-STJ fls. 4069/4074, que conheceu do agravo para não conhecer do seu recurso especial.
+A parte agravante alega a não incidência das Súmulas 284/STF, 282/STF, 211/STJ e 7/STJ. Aduz: (i) que o Tribunal a quo foi omisso ao não se manifestar acerca das teses levantadas pelo acusado; (ii) a ilicitude da prova, em razão da quebra da cadeia de custódia, pois comprovou-se ser ÉDER pessoa totalmente estranha ao processo, que não mantinha nenhum vínculo formal com o Poder Legislativo de Nova Esperança/PR e que não trouxe nenhuma evidência a fim de corroborar sua versão de que teria sido o peticionário quem lhe solicitou a formatação do computador (e-STJ fls. 3880); (iii) que não há prova que o acusado inseriu a "Tabela 2011", contendo informações ideologicamente falsas, no processo administrativo referente ao Projeto de Lei nº 117/2011; (iv) a não ocorrência da coação no curso do processo; (v) o afastamento da continuidade delitiva no crime de estelionato, uma vez que a vantagem indevida, ainda que percebida mensalmente, teria decorrido de uma única conduta; (vi) a redução da reprimenda em razão da incidência do art. 26, parágrafo único, do CP, tendo em vista ser o envolvido portador de esquizofrenia paranoide; (vii) a aplicação da detração penal.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+AgRg no AGRAVO EM RECURSO ESPECIAL Nº 1.930.948 - PR (2021/0225718-4)
+RELATOR
+:
+MINISTRO REYNALDO SOARES DA FONSECA
+AGRAVANTE
+:
+LEANDRO CARDOSO LEAL
+ADVOGADOS
+:
+ALEXANDRE KNOPFHOLZ - PR035220
+ANTONIO MARCOS SOLERA - PR036101
+LUÍS OTÁVIO SALES DA SILVA JUNIOR - PR045531
+MAURO FISELOVICI PACIORNIK - PR095544
+AGRAVADO
+:
+MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE FALSIDADE IDEOLÓGICA, ESTELIONATO, PECULATO ELETRÔNICO, INUTILIZAÇÃO DE LIVRO OU DOCUMENTO E COAÇÃO NO CURSO DO PROCESSO (ARTS; 299, 171, 131-A, CAPUT, C/C ART. 14, INCISO II, E ART. 334, TODOS DO CP). VIOLAÇÃO DO ART. 619 DO CPP. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. PONTOS LEVANTADOS NO RECURSO E NÃO DEBATIDOS PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. AFASTAMENTO DA CONDENAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à alegada violação do art. 619 do CPP, o acusado faz argumentações genéricas, deixando de especificar quais teses o acórdão recorrido deixou de analisar. Assim, incide a Súmula 284/STF, já que as razões recursais, no ponto, são deficientes e impedem a exata compreensão da controvérsia.
+2. No tocante à ilicitude da prova, em razão da quebra da cadeia de custódia; ao afastamento da continuidade delitiva no crime de estelionato, uma vez que a vantagem indevida, ainda que percebida mensalmente, teria decorrido de uma única conduta; a aplicação do art. 26, parágrafo único, do CP e da detração penal, tais pontos não foram objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas 211/STJ e 282/STF.
+3. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova a concluir que o acusado praticou o delito de falsidade ideológica, previsto no artigo 299 do Código Penal, eis que elaborou documento ideologicamente falso quando da realização do Projeto de Lei nº 117/2011, qual seja o "Anexo IV - Tabela de Vencimentos", bem como o crime do art. 344 do CP. Assim, rever os fundamentos utilizados pelo Tribunal estadual, para decidir que não há prova que o acusado inseriu a "Tabela 2011", contendo informações ideologicamente falsas, no processo administrativo referente ao Projeto de Lei nº 117/2011, bem como a não ocorrência da coação no curso do processo, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+4. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+De início, quanto à alegada violação do art. 619 do CPP, o acusado faz argumentações genéricas, deixando de especificar quais teses o acórdão recorrido deixou de analisar. Assim, incide a Súmula 284/STF, já que as razões recursais, no ponto, são deficientes e impedem a exata compreensão da controvérsia.
+No tocante à ilicitude da prova, em razão da quebra da cadeia de custódia; ao afastamento da continuidade delitiva no crime de estelionato, uma vez que a vantagem indevida, ainda que percebida mensalmente, teria decorrido de uma única conduta; a aplicação do art. 26, parágrafo único, do CP e da detração penal, tais pontos não foram objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas 211/STJ e 282/STF.
+Prosseguindo, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova a concluir que o acusado praticou o delito de falsidade ideológica, previsto no artigo 299 do Código Penal, eis que elaborou documento ideologicamente falso quando da realização do Projeto de Lei n. 117/2011, qual seja o "Anexo IV - Tabela de Vencimentos", bem como o crime do art. 344 do CP.
+Abaixo, trechos do acórdão recorrido:
+Diante de todo o conjunto probatório colacionado nos presentes autos, em relação ao Fato 01 da denúncia oferecida nos Autos de Ação Penal nº 0000590-31.2016.8.16.0119, resta claro que o apelante Leandro Cardoso Leal praticou o delito de falsidade ideológica, previsto no artigo 299 do Código Penal, eis que elaborou documento ideologicamente falso quando da realização do Projeto de Lei nº 117/2011, qual seja o "Anexo IV - Tabela de Vencimentos".
+Destaca-se que, segundo a exordial acusatória, após o encerramento do procedimento legislativo, com a votação do referido Projeto em plenário, em 29/8/2011, o ora apelante redigiu a tabela, em 30/8/2011, às 12h01min, contendo os dados ideologicamente falsos.
+No entanto, como bem apontou a Douta Procuradoria Geral de Justiça (mov. 24.1 - segundo grau), o recurso do apelante Leandro merece provimento no que diz respeito à aplicação do princípio da consunção entre os crimes de falsidade ideológica (Fato 01) e o de estelionato (Fato 02), devendo este absorver aquele, vez que, ao elaborar a "Tabela de Vencimentos" contendo informações falsas, o acusado visava, apenas, o recebimento fraudulento de valores dos cofres públicos, entre setembro de 2011 e agosto de 2015 (e-STJ fls. 3.718).
+Pois bem. Considerando os entendimentos doutrinários expostos e o conjunto probatório colacionado nos autos, vislumbra-se que, em relação ao Fato 01 da exordial acusatória, a decisão proferida pelo MM. Juízo a quo se mostra adequada e deve ser mantida.
+Observa-se que, nos Autos de Ação Penal nº 0000590-31.2016.8.16.0119, foram aplicadas medidas cautelares em desfavor do acusado Leandro, incluindo a proibição de contato com testemunhas ou com vítimas secundárias de suas ameaças (mov. 15.1). Sobre essa decisão, o réu foi devidamente notificado (mov. 34.1), em 09/03/2016.
+Posteriormente, em 7/3/2017, a vítima Pedro Paulo Quirino de Melo compareceu até a Promotoria de Justiça e relatou o seguinte (mov. 1.2 - fl. 04 - Autos nº 0001585-10.2017.8.16.0119):
+ ..
+Como mencionado, quando ouvido em juízo, a referida vítima confirmou os relatos apresentados anteriormente, confirmando que se sentiu intimidado com o comportamento do ora apelante, principalmente por conta de seu histórico de "ameaças" durante o período que atuava na Câmara Municipal de Nova Esperança, por conta da deflagração de investigação criminal em face do acusado. Ainda, denota-se que a vítima Pedro Paulo já denunciou atitudes ofensivas e ameaçadoras do réu, o que demonstra que a ocasião ocorrida no interior da Lotérica Caiuá não se mostra um fato isolado, razão pela qual os relatos prestados pelo ofendido não devem ser desqualificados.
+ ..
+Assim, o recurso do apelante não merece provimento, devendo ser mantida sua condenação pela prática do delito previsto no artigo 344 do Código Penal, em relação ao Fato 01 da denúncia oferecida nos Autos nº 0001585-10.2017.8.16.0119. (e-STJ fls. 3750/3752)
+Assim, rever os fundamentos utilizados pelo Tribunal estadual, para decidir que não há prova que o acusado inseriu a "Tabela 2011", contendo informações ideologicamente falsas, no processo administrativo referente ao Projeto de Lei nº 117/2011, bem como a não ocorrência da coação no curso do processo, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
