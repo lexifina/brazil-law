@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional do Seguro Social - INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, "a", da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 260):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. VÍNCULO DE TRABALHO RECONHECIDO EM RECLAMAÇÃO TRABALHISTA - INÍCIO DE PROVAMATERIAL.
+I. A reclamatória trabalhista é início de prova material válido quando fundada em documentação que comprove atividade no período em que se pleiteia o reconhecimento do vínculo, ou quando for ajuizada em período imediatamente após o seu término, antes da ocorrência da prescrição.
+II. Até o pedido administrativo - 17.09.2012, o autor tem 36 anos e um mês, tempo suficiente para a concessão da aposentadoria por tempo de contribuição. III. Apelação do INSS improvida. Apelação do autor prejudicada.
+Opostos embargos de declaração, foram rejeitados (fls. 264/270).
+Nas razões do recurso especial, aponta a recorrenteviolação ao art. 55, § 3º, 108,da Lei 8.213/91; 143 do Decreto 3.048/99; e506 do CPC, afirmando que "A sentença proferida em procedimento trabalhista, mormente quando homologa acordo entre as partes, somente pode ser admitida como início de prova material para fins de reconhecimento de tempo de serviço para fins previdenciários, quando lastreada em prova documental, o que não ocorre no caso dos autos" (fl. 285).
+Devidamente intimada, a parte recorrida não apresentou contrarrazões aorecurso especial, conforme certidão de fl. 290.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação nãomerece acolhida.
+Com efeito,o Tribunal a quo, ao concluir pela possibilidade de a sentença serconsiderada como início de prova material, para fins previdenciários, manifestou-se nos seguintes termos(fls. 224/225):
+A reclamatória trabalhista é início de prova material válido quando fundada em documentação que comprove atividade no período em que se pleiteia o reconhecimento do vínculo, ou quando forajuizada em período imediatamente após o seu término, antes da ocorrência da prescrição (já que a ocorrência da prescrição impede a obtenção dos direitos trabalhistas considerado devidos).
+A jurisprudência do STJ admite a sentença trabalhista homologatória de acordo como início de prova material somente se baseada em elementos que demonstrem o exercício de atividade laboral no período em que se pretende comprovar o vínculo empregatício.
+Em alguns casos, contudo, o ajuizamento da reclamatória trabalhista ocorre no prazo de cinco anos após o término do vínculo empregatício, o que garante o direito do INSS ao recebimento das contribuições previdenciárias devidas.
+O Tema representativo de controvérsia n. 152 da Turma Nacional de Uniformização objetiva dirimir se a sentença homologatória de acordo trabalhista, não lastreada em outros elementos, serve com o início de prova material para reconhecimento da qualidade de segurado e concessão de pensão por morte.
+No pedido de uniformização de jurisprudência julgado em 17.08.2016 (Processo2012.50.50.002501-9, Relator o Juiz Federal Daniel Machado da Rocha), acórdão pendente de publicação, ficou decidido:
+ ..
+Portanto, nas hipóteses em que ajuizada a reclamatória trabalhista dentro do prazo de cinco anos após o término do vínculo empregatício, como no caso dos autos, viável o reconhecimento da atividade para reconhecimento de tempo de serviço, com os devidos efeitos na esfera previdenciária.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "nas hipóteses em que ajuizada a reclamatória trabalhista dentro do prazo de cinco anos após o término do vínculo empregatício, como no caso dos autos, viável o reconhecimento da atividade para reconhecimento de tempo de serviço", esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
