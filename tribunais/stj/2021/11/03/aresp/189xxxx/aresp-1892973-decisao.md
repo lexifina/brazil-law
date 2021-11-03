@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração da ofensa ao dispositivo legal e incidência da Súmula n. 7 do STJ (e-STJ fls. 341/343).
+O acórdão recorrido está assim ementado (e-STJ fl. 303):
+APELAÇÃO. Ação declaratória de irregularidade no apontamento junto aos órgãos de proteção ao crédito c/c danos morais. Débitos decorrentes de contrato de cartão de crédito. Verossimilhança dos documentos juntados ao processo indicando a procedência e a correção das dívidas. Prova documental da origem da dívida que deve prevalecerem face de meras alegações sem qualquer suporte probatório de irregularidade. Lide temerária. Litigância de má-fé caracterizada. Multa confirmada. Sentença integralmente confirmada. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 328/331).
+No especial (e-STJ fls. 310/323), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aoart. 80 do CPC/2015.
+Afirmou que (e-STJ fls. 318/320):
+ .. não há que se falar em litigância de má-fé, tendo em vista que a recorrente se valeu do seu direito de ação sem violar qualquer dever processual, ainda mais por não ter a parte recorrida demonstrado nenhum documento que se relacionasse de forma segura os seus argumentos no sentido de provar a regularidade da negativação, e mais, não se pode considerar de má-fé a interpretação subjetiva dada pelo julgador em matéria controvertida pelas partes. Vale dizer, se o julgador não se convenceu da tese defendida pela autora, que julgue a ação improcedente, como de fato a julgou, mas daí concluir que houve má-fé é dar um passo longo de mais.
+ .. Não há como condenar a parte como litigante de má-fé, uma vez que deve restar cabalmente demonstrado nos autos que a parte faltou com a lealdade processual, e que a parte contrária sofreu prejuízos em decorrência da conduta maliciosa e, no caso, data maxima venia, não há prova da prática de conduta que configure litigância dessa natureza, razão pela qual não há fundamento para a pena pecuniária.
+No agravo (e-STJ fls. 346/361), afirma a presença de todos os requisitos de admissibilidade do especial.
+A parte agravada apresentou contraminuta (e-STJ fls. 364/366).
+É o relatório.
+Decido.
+A Corte local assim decidiu (e-STJ fl. 306):
+Em relação à litigância de má-fé, deve ser mantida a condenação da autora ao pagamento da multa, pois restou evidenciado o seu litigar temerário.
+Com efeito, ao contrário do que afirma, há nos autos documentos suficientes que comprovaram não só a adesão da autora aos cartões de crédito, como a regularidade dos dois apontamentos, fáceis de reconhecimento até por quem não é o real devedor.
+E, tendo sido enviadas faturas ao seu endereço residencial, soa inverossímil a tese de que a autora não identificou os apontamentos, mormente quando reconheceu em depoimento pessoal, a existência de faturas em aberto.
+Neste ponto, observo que a autora em seu depoimento pessoal também confirmou que não procurou pelo banco réu antes do ajuizamento da presente ação, sendo que a notificação extrajudicial de fl. 26, além de não demonstrar o seu recebimento pelo banco réu, também não comprova que a procuração foi anexada a ela.
+Não só isso, observo que não foi concedido prazo razoável para resposta, sendo insuficiente o prazo de 72 horas, observando que a ação foi proposta apenas 12 dias depois do alegado envio.
+Portanto, logrando o banco réu em cumprir o ônus que lhe recaiu, trazendo aos autos documentos que comprovam a regularidade dos apontamentos contestados, é inequívoco o litigar temerário da autora, procurando quem sabe obter alguma vantagem com eventual revelia ou dificuldade de comprovação pela parte contrária.
+Rever tais conclusões demandaria nova incursão no conjunto probatório dos autos, providência vedada na instância especial, a teor da Súmula n. 7 do STJ. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS.CONTRATO DE EMPRÉSTIMO CONSIGNADO. RELAÇÃO JURÍDICA DEMONSTRADA E VÁLIDA. DISPONIBILIZAÇÃO DO PRODUTO DO MÚTUO. AUSÊNCIA DE VÍCIO DE CONSENTIMENTO. LITIGÂNCIA DE MÁ-FÉ. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A alegação de afronta ao artigo ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação.
+Aplicação da Súmula 284 do STF, por analogia.
+3. A modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+4. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp 1867795/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2021, DJe 27/09/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284/STF. COMPROVAÇÃO DA CELEBRAÇÃO DO CONTRATO DE EMPRÉSTIMO CONSIGNADO E LIBERAÇÃO DE VALORES EM FAVOR DA AGRAVANTE. LITIGÂNCIA DE MÁ-FÉ. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do NCPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+3. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que há elementos suficientes para concluir pela validade da contratação dos negócios jurídicos em questão e pela liberação do crédito em favor da apelante via transferência eletrônica. A pretensão de alterar tal entendimento demandaria reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+4. "Rever a conclusão adotada no v. Acórdão recorrido sobre a caracterização da litigância de má-fé do agravante demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório" (AgInt no AREsp 1.399.945/MS, Rel. Min. Raul Araújo, Quarta Turma, julgado em 21/03/2019, DJe de 02/04/2019).
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1823313/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/08/2021, DJe 31/08/2021.)
+Ante o exposto, CONHEÇO do agravo e NEGO PROVIMENTO ao especial.
+Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois na origem a verba honorária foi estabelecida no percentual legal máximo (e-STJ fl. 307).
+Publique-se e intimem-se.
