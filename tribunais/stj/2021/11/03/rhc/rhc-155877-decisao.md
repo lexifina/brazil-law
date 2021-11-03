@@ -1,0 +1,12 @@
+DECISÃO
+Neste recurso, que se volta contra o acórdão do Tribunal de Justiça do Rio Grande do Sul, que denegouaordem no HC n. 5087781-33.2021.8.21.7000/RS(fls. 53/70), pretende-se, inclusive em caráter liminar, a concessão de liberdade provisória a Alexsander Rodrigues Ramos - preso preventivamentepela prática, em tese, dos crimes descritos nos arts. 157, § 2º-A, I, e § 2º, II (uma vez); 157, § 2º, VII (uma vez); e 157, § 2º-A, I (uma vez), todos do Código Penal(Processon. 5000146-82.2021.8.21.0155/RS, da Vara Judicial da comarca de Portão/RS) -, ou, subsidiariamente, asubstituição da prisão preventiva por medidas cautelares diversas ou por prisão domiciliar, sob os argumentos, em resumo, de violação e negativa de vigência doart.226 do Código de Processo Penal (reconhecimento do acusado sem observância do rito),de ausênciados requisitos autorizadores da custódia cautelar (art. 312 do Código de Processo Penal), de inidoneidade da fundamentação para a manutenção da medida constritiva extrema e de inadequação da referida segregação, visto o risco de eventual contaminação por conta do novo coronavírus (Covid-19), em tempode pandemia.
+Requisitadas as informações antes da análise do pleito liminar (fl. 112), com atendimento às fls. 115/269.
+É o relatório.
+O recurso emhabeas corpus, em sua via estreita, não comporta dilação probatória e exige prova pré-constituída, cabendo ao recorrente o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas no recurso.
+Ilustrando esse entendimento: HC n. 487.930/GO, Ministro Felix Fischer, Quinta Turma, DJe 13/2/2019; AgRg no RHC n. 99.489/CE, de minha relatoria, Sexta Turma, DJe 4/2/2019; e HC n. 466.466/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 23/11/2018.
+No caso dos autos, não obstante as razões constantes da inicial, o recursoestá deficientemente instruído. Não foi juntada aos autos cópia do decreto de prisão preventiva atacado, documento essencial à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Em face do exposto, com fulcro no art. 210 do RISTJ, não conheço do recurso emhabeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS.CRIME DE ROUBO DUPLAMENTE MAJORADO. PRISÃO PREVENTIVA. DEFICIÊNCIA DE INSTRUÇÃO. FALTA DE PEÇA ESSENCIAL À CORRETA ANÁLISE DO PEDIDO. CÓPIA DO DECRETO PREVENTIVO. AUSÊNCIA. INSTRUÇÃO DEFICIENTE. CONHECIMENTO. IMPOSSIBILIDADE.
+Recursonão conhecido.
