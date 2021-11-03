@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por ALINE CORDELIA ACIOLI BARACHO, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+Civil e Processual Civil. SFH. Sentença que julgou pela incompetência da Justiça Federal em lide envolvendo o instrumento particular de compra e venda e contrato de mútuo, pelo programa Minha Casa Minha Vida. A CEF figura somente como credora/fiduciária, em razão de financiamento concedido a parte autora para aquisição de unidade habitacional a ser construída por empresa particular. Atuação apenas como agente financeiro. Ao reconhecer a incompetência absoluta para conhecer da causa o julgador deverá determinar a remessa dos autos ao juízo competente e não extinguir o processo sem exame do mérito. Precedente do STJ no Resp. 1.526.914-PE, julgado em 21/06/2016. Apelo parcialmente provido.
+Opostos embargos declaratórios (fls. 646, e-STJ), restaram não conhecidos na origem.
+Nas razões do especial (fls. 676/689, e-STJ), a insurgente alega violação dos arts. 2º c/c 9º da Lei n. 12424/2011, na medida em que a Caixa não teria atuado apenas em razão de financiamento concedido a parte recorrente para fins de aquisição de unidade habitacional a ser construída por empresa particular, mas sim como executora gestora do programa Minha Casa Minha Vida, o que atrai a legitimidade dela e a competência da Justiça Federal para julgar o presente feito.
+Apresentadas contrarrazões, o apelo extremo foi admitido na origem.
+É o relatório.
+Decido.
+1. Nos termos da orientação do Superior Tribunal de Justiça, a "Caixa Econômica Federal somente possui legitimidade passiva para responder por vícios, atraso ou outras questões relativas à construção de imóveis objeto do Programa Habitacional Minha Casa Minha Vida se, à luz da legislação, do contrato e da atividade por ela desenvolvida, atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, sendo parte ilegítima se atuar somente como agente financeiro" (AgInt no Resp 1646130/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/08/2018, DJe 04/09/2018).
+Confira-se, ainda, os seguintes julgados de ambas as Turmas de Direito Privado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE FAZER CUMULADA COM DANOS MORAIS E MATERIAIS. VÍCIOS DE CONSTRUÇÃO DE IMÓVEL. MORADIA POPULAR. PROGRAMA MINHA CASA, MINHA VIDA. AGENTE DE POLÍTICA FEDERAL DE PROMOÇÃO À MORADIA. LEGITIMIDADE PASSIVA DA AGRAVANTE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. "A questão da legitimidade passiva da CEF, na condição de agente financeiro, em ação de indenização por vício de construção, merece distinção, a depender do tipo de financiamento e das obrigações a seu cargo, podendo ser distinguidos, a grosso modo, dois gêneros de atuação no âmbito do Sistema Financeiro da Habitação, isso a par de sua ação como agente financeiro em mútuos concedidos fora do SFH (1) meramente como agente financeiro em sentido estrito, assim como as demais instituições financeiras públicas e privadas (2) ou como agente executor de políticas
+federais para a promoção de moradia para pessoas de baixa ou baixíssima
+renda" (REsp 1.163.228/AM, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 31/10/2012).
+2. No caso, deve ser rejeitada a defendida ilegitimidade passiva, na medida em que o eg. Tribunal a quo expressamente assentou que a ora agravante atuou como "(..) integrante de políticas federais voltadas à promoção de moradia para pessoas de baixa renda, eis que, nesse caso, atua não apenas como mero agente financeiro, mas como executor/gestor de programas governamentais".
+3. Agravo interno desprovido.
+(AgInt no REsp 1536218/AL, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/09/2019, DJe 14/10/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA C/C OBRIGAÇÃO DE FAZER E PEDIDO LIMINAR. PROGRAMA MINHA CASA MINHA VIDA. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE PASSIVA DA CEF. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A decisão monocrática está fundada em precedente desta Corte que reconhece a legitimidade passiva da CEF nas ações de indenização por vícios de construção de imóveis adquiridos pelo Programa Minha Casa Minha Vida.
+2. Das razões recursais não se extrai a demonstração de inaplicabilidade do precedente utilizado para fundamentar a decisão monocrática.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no REsp 1648786/RN, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/11/2019, DJe 29/11/2019)
+No caso em tela, observa-se da leitura da sentença e do acórdão recorrido, que o imóvel foi adquirido pelo Programa Minha Casa Minha Vida, projeto do Governo Federal gerido exclusivamente pela Caixa Econômica Federal para a promoção de moradia às pessoas de baixa renda, logo, a CEF, enquanto agente executor, tem legitimidade para responder pelos vícios construtivos.
+Registre-se, por oportuno, que o contrato de mútuo habitacional, submetido às regras do Programa Social Minha Casa Minha Vida, conforme dito na sentença de primeiro grau, dispõe expressamente que "o acompanhamento da execução das obras, para fins de liberação de parcelas, será efetuado pela Engenharia da CEF", evidenciando, assim, a sua qualidade de gestora do programa social.
+Dessa forma, a decisão recorrida encontra-se em dissonância com o entendimento deste Tribunal Superior, firmado por ambas as Turmas da Segunda Seção, merecendo reforma.
+2. Ante o exposto, dou provimento ao recurso especial, a fim de reconhecer a legitimidad e da Caixa Econômica Federal para responder pelos vícios de construção do imóvel por ela financiado por meio do programa Minha Casa Minha Vida. Retornem os autos à instância de origem para o prosseguimento do feito.
+Publique-se. Intimem-se.
+EMENTA
