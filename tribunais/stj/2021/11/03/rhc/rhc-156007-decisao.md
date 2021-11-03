@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário constitucional em habeas corpus, compedido liminar, interposto por HÉLIO CARVALHO MARTINScontra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 76):
+"HABEAS CORPUS. ARTIGO 38 DA LEI 9.605/98. AÇÃO PENAL.TRANCAMENTO. NÃO CABIMENTO. PRESENÇA DE JUSTA CAUSA PARA O PROCESSAMENTO DO FEITO. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA QUE JÁ FOI BEM AFASTADA NA ORIGEM. DENEGAÇÃO DA ORDEM."
+Nas presentes razões, o Recorrente reiteraas alegações formuladas na inicial deste feito, de que não tem "legitimidade passiva para figurar no processo, e que a denúncia seria inepta por não descrever suficientemente o 1º fato delituoso"(fl. 101), pois na referida peça "não foi precisada a data das condutas delituosas; o que, de fato, teria sido destruído e danificado (fato I); em que cada um dos acusados agiu ou contribuiu para a prática do delito" (fl. 86).
+Requer, liminarmente e no mérito, o trancamento do Processo-crime n.5002703-14.2016.8.21.0027.
+É o relato do necessário. Decido.
+O pedido é incognoscível.
+Ao compulsar os presentes autos eletrônicos, constatei não ter sido colacionada cópia da denúncia, nem da decisão que a recebeu.
+Ocorre que, como se sabe, "a adequada instrução dohabeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que omandamusvenha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas nowrit"(STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição recursal deve ser liminarmente indeferida, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido, desta Corte: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto, no mais, que não há óbice ao manejo dewrit impetrado nesta Cortepara a análise da controvérsia, desde que instruído adequadamente com a documentação devida.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, 210 e 246, todos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. INSTRUÇÃODEFICIENTE DO FEITO. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO RECURSAL INDEFERIDALIMINARMENTE.
