@@ -1,0 +1,12 @@
+DECISÃO
+MURILO MAICON MINELLI alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n.0011568- 91.2016.8.26.0506).
+Consta dos autos que o paciente foi condenado à pena de 8 anos e 9 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006.
+A defesa pretende, por meio deste writ, seja aplicada a detração penal em favor do réu e, por conseguinte, seja fixado regime inicial mais brando.
+Decido.
+Sobre a matéria posta em discussão, faço o registro de que jurisprudência desta Corte Superior entende que "incumbe ao juiz sentenciante a verificação da possibilidade de se estabelecer um regime inicial mais brando, tendo em vista a detração no caso concreto. Notabiliza-se que o mencionado artigo não evidencia progressão de regime, motivo pelo qual não há falar em exame dos critérios objetivo (lapso temporal) e subjetivo (comportamento carcerário), até porque tal avaliação invadiria a competência do Juízo das Execuções prevista no art. 66, III, b, da Lei de Execuções Penais" (HC n.321.808/SP, Rel. Ministra Maria Thereza de Assis Moura, DJe 18/6/2015).
+Diante de tais considerações, identifico, de pronto, o apontado constrangimento ilegal, porquanto, não obstante o disposto no art. 387, § 2º, do CPP, deixou o Tribunal a quo de aplicar o instituto da detração em favor do paciente.
+Assim, deve ser determinado o retorno dos autos à Corte de origem, para que aplique a detração penal em favor do acusado, ex vi do disposto no art. 387, § 2º, do CPP.
+Registro, por oportuno, a impossibilidade de se fixar, desde já, regime menos gravoso de cumprimento de pena, porque não há, no processo, informações precisas acerca de quanto tempo o réu efetivamente esteve preso provisoriamente.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, apenas para determinar o retorno dos autos ao Tribunal de Justiça do Estado de São Paulo, para que aplique o instituto da detração em favor do paciente e compute, para fins de determinação do regime inicial da pena privativa de liberdade, o tempo em que o réu esteve preso provisoriamente nos autos do processo objeto da Apelação Criminal n.0011568- 91.2016.8.26.0506.
+Comunique-se, com urgência, o inteiro teor desta decisão àinstância de origem,para as providências cabíveis.
+Publique-se e intimem-se.
