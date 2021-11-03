@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal eincidência da Súmula n. 7 do STJ (e-STJ fls. 101/104).
+O acórdão recorrido está assim ementado (e-STJ fl. 54):
+Agravo de instrumento. Cumprimento de sentença. Requerimento de medida coercitiva consistente na suspensão da CNH e bloqueio de cartões bancários do devedor. Art. 139, IV, do CPC. Indeferimento mantido. Execução que deve ser realizada pela expropriação de bens.
+Precedentes. Suspensão geral de concessão de crédito ao devedor que também não atingiria o objetivo da fase executória e poderia interferir na autonomia negocial de terceiros. Recurso desprovido.
+No especial (e-STJ fls. 67/81),fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Apontou ainda afronta ao art. 139, IV, do CPC/2015. Sustenta que seria possível a suspensão da CNH e o bloqueio de cartões de crédito da parte recorrida.
+No agravo (e-STJ fls. 107/119), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, entendeu pela ausência de razoabilidade da medida pleiteada, assim consignando (e-STJ fls. 55/56):
+Embora o art. 139 do Código de Processo Civil confira ao juiz a possibilidade de adoção de medidas necessárias a assegurar o cumprimento de ordem judicial, filiamo-nos à corrente que entende que o mencionado dispositivo legal autoriza apenas medidas relacionadas ao patrimônio do devedor.
+Ademais, deve-se reconhecer a desproporcionalidade de tais medidas, mesmo porque a imposição destas restrições não assegura de forma efetiva a satisfação da execução, ainda que ausentes bens penhoráveis, sendo a sua utilidade prática questionável.
+(..)
+O pedido alternativo de suspensão de concessão de crédito à parte devedora merece ser afastado pelas mesmas razões, pois ordem geral dessa natureza resultaria apenas em punir e constranger o devedor, e não teria eficácia no sentido de atingir algum numerário ou bens passíveis de constrição. Tal decisão também geraria ilegal interferência do Judiciário na autonomia negocial de terceiros que, eventualmente, queiram estabelecer contrato com o devedor.
+O entendimento do aresto estadual foi de que se deve buscar a providência mais eficaz e menos gravosa ao executado. Concluiu o colegiado que as medidas seriam excessivamente gravosas à parte executada e desproporcionais à obrigação de pagamento do débito.
+Ultrapassar a conclusão da instância de origem a fim de analisar as condições no caso concreto, com intuito de autorizar constrições mais severas e excepcionais, demandaria inegável revolvimento fático-probatório, o que é vedado pelo teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRETENSÃO DE QUE SEJA SUSPENSA A CNH DO DEVEDOR COM BASE NO ART. 139, IV, DO CPC/2015. CONCLUSÃO NO SENTIDO DA INADEQUAÇÃO DA MEDIDA PARA O FIM COLIMADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual entendeu que a medida pleiteada - suspensão da CNH dos recorridos - é inadequada para o fim colimado, pois é desproporcional no caso em tela, especialmente porque atinge a pessoa do devedor, não seu patrimônio. Essa conclusão foi fundada na apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.233.016/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/4/2018, DJe 17/4/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTE. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É assente a cognição jurisprudencial deste Sodalício no sentido de que as medidas de satisfação do crédito perseguido em execução não podem extrapolar os liames de proporcionalidade e razoabilidade, de modo que contra o executado devem ser adotadas as providências menos gravosas e mais eficazes. Precedente.
+2. No caso em exame, o Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu que os pedidos formulados pelo exequente, de suspensão de passaporte, de suspensão da CNH e de cancelamento dos cartões de crédito e débito, seriam excessivamente gravosos aos executados e desproporcionais à obrigação de pagamento do débito, mormente considerando que, no caso, o Juízo a quo já deferira medida adequada a compelir os devedores ao adimplemento, determinando inclusão de seus nomes nos cadastros de proteção ao crédito. A revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.283.998/RS, Relator Ministro LAZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 9/10/2018, DJe 17/10/2018.)
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legalao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
