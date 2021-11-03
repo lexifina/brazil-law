@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 570/576) interposto pela UNIMED DE MARÍLIA COOPERATIVA DE TRABALHO MÉDICOcontra decisão desta relatoriaque não conheceu do recurso da parte ora agravante.
+Em suas razões, aagravantealega, em síntese,que o recurso especial seria admissível, não sendo aplicáveisos óbices das Súmulas n. 7 do STJ e 283 do STF.
+Sustenta que, havendo reembolso das despesas médicas realizadas fora da rede credenciada do convênio, este deve ser limitadoaos preços das tabelas da operadora do plano de saúde.
+Ao final, requero provimento do agravo (e-STJ fl. 467).
+A parte ora agravada, intimada, apresentouimpugnação ao agravo interno (e-STJ fls. 580/590).
+É o relatório.
+Decido.
+Em virtude das razões de fls. 570/576(e-STJ), apresentadas pelaagravante, reconsidero a decisão de fls. 566/567(e-STJ), com fundamento no art. 259 do RISTJ, e passo a novo exame do especial.
+Trata-se de recurso especial interposto contra acórdão da Quinta Câmara de Direito Privado do TJSP.
+Na origem, a parte recorrida ajuizou ação visando o custeio pelo plano de saúde de tratamento realizado fora da rede credenciada.
+Em primeira instância, os pedidos foram julgados procedentes (e-STJ fls. 418/421).
+A ora recorrente interpôs apelação, tendo o Tribunal de origem negado provimento ao recurso em acórdão que ficou assim ementado (e-STJ fl. 244):
+AÇÃO COMINATÓRIA - PLANO DE SAÚDE -Procedência - Inconformismo da ré - Internação emhospital não integrante da rede credenciada - Situaçãoemergencial incontroversa que justifica o reembolso pelotratamento efetivado  Ressarcimento integraldeterminado, em razão da urgência - Sentença mantida -Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 463):
+Embargos de Declaração - Alegação de omissão -Ocorrência- Tese da ilegalidade de reembolso integral nocaso de tratamento médico realizado fora da rede credenciadada operadora- Situação emergencial incontroversa quejustifica o reembolso integral das despesas com o tratamentoefetivado - Exclusão invocada que contraria a finalidade docontrato e representa abusividade que afronta ao CDC-Embargos acolhidos, sem modificação do julgado.
+Sobreveio o recurso especial (e-STJ fls. 470/490), fundado no art. 105, III, "a" e "c", da CF, no qual a parte recorrente sustenta, além de divergência jurisprudencial, afronta aos arts. 8º e 12 da Lei n. 9.656/1998, sob fundamento de que "o recorrido não fez prova de que a recorrente não possua estabelecimento credenciados aptos ao atendimento na cidade de São Paulo" (e-STJ fl. 477).
+O recurso especial merece provimento parcial.
+Inicialmente, ao considerar que a empresa de saúde tem obrigação de custear o tratamentorequerido pelo usuáriodo plano de saúde,entendeu o Tribunal de origemhaver situação de urgência, a qual não teria sidocontestada pela parte ora recorrente(e-STJ fls. 464/466).
+Nesse contexto, para alterar esse entendimento, seria necessário o reexame dos fatos e das provas dos autos. Assim, a alteração desse entendimento esbarra no óbice das Súmulas n. 5 e 7 do STJ.
+Constata-se ainda que esse fundamento não foi atacado especificamente pelo recurso especial, o que atrai o óbice da Súmula n. 283 do STF.
+Acrescente-se quea recente jurisprudência do STJ é de que"O reembolso das despesas médico-hospitalaresefetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento"(EAREsp 1459849/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 14/10/2020, DJe 17/12/2020).
+Contudo, o Tribunal de origem determinou o reembolso no valor integral do tratamento realizado fora da rede credenciada, apenas por ter ocorrido o atendimento em regime emergencial(e-STJ fls. 465/466).
+Ocorre que, segundo decidido no julgado da Segunda Seção, acima mencionado,"excepcionalmente, nos casos de urgência e emergência, em que não se afigurar possível a utilização dos serviços médicos próprios, credenciados ou conveniados, a empresa de plano de saúde, mediante reembolso, responsabiliza-se pelas despesas médicas expendidas pelo contratante em tais condições, limitada, no mínimo, aos preços de serviços médicos e hospitalares praticados pelo respectivo produto".
+Ainda nesse sentido:
+PLANO DE SAÚDE. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRATAMENTO REALIZADO FORA DA REDE CREDENCIADA EM VIRTUDE DA EXCLUSIVIDADE DA TÉCNICA UTILIZADA. REEMBOLSO INTEGRAL DE DESPESAS MÉDICO-HOSPITALARES.CABIMENTO. REEXAME DE FATOS E PROVAS (SÚMULA 7/STJ). AGRAVO NÃO PROVIDO. PROCESSUAL CIVIL. SEGUNDO AGRAVO INTERNO CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. SEGUNDO AGRAVO NÃO CONHECIDO.
+1. A colenda Segunda Seção firmou o entendimento de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, j. em 14/10/2020, DJe de 17/12/2020).
+2. O Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu que não há na rede credenciada da recorrente estrutura necessária ao tratamento da enfermidade que acomete o recorrido, razão pela qual se impõe o dever da operadora de arcar com os custos do tratamento realizado com o profissional médico contratado pelo paciente. A pretensão de modificar tal entendimento demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. Também é entendimento desta Corte Superior que, nos casos em que não seja possível a utilização dos serviços médicos próprios, credenciados ou conveniados, o reembolso, pela operadora de assistência à saúde, do custeio das despesas médicas realizadas pelo segurado deve ficar limitado aos valores indicados na tabela da operadora de plano de saúde, ainda que se trate de inexistência de estabelecimento credenciado no local ou impossibilidade de utilização dos serviços próprios da operadora.
+ ..
+6. Primeiro agravo interno não provido. Segundo agravo interno não conhecido.
+(AgInt no AgInt nos EDcl no AREsp 1.704.048/SP, RelatorMinistro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/8/2021, DJe 1º/9/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1.DESERÇÃO. NÃO OCORRÊNCIA. 2. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL NÃO CONSTATADA. 3. USUÁRIO SUBMETIDO A PROCEDIMENTO POR INDICAÇÃO MÉDICA. ATENDIMENTO EM CARÁTER DE URGÊNCIA/EMERGÊNCIA POR PROFISSIONAL/HOSPITAL NÃO CREDENCIADO. PRETENSÃO DE REEMBOLSO INTEGRAL DE VALORES. COBERTURA LIMITADA AO MONTANTE ESTABELECIDO CONTRATUALMENTE EM TABELA. PRECEDENTE. 4. HONORÁRIOS ADVOCATÍCIOS.MATÉRIA DE ORDEM PÚBLICA. 5. AGRAVO INTERNO IMPROVIDO.
+ ..
+3. Em recentemente decisão, a Segunda Seção do Superior Tribunal de Justiça firmou o entendimento de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, desta relatoria, SEGUNDA SEÇÃO, julgado em 14/10/2020, DJe de 17/12/2020).
+3.1. Não há que se falar em incidência da Súmula 7/STJ, para modificar a conclusão delineada no aresto impugnado, em relação à limitação de reembolso das despesas médicas-hospitalares, porquanto prescindível o reexame do conjunto de fatos e provas dos autos, sendo necessária tão somente a revaloração jurídica na hipótese.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp 1.721.586/RN, RelatorMinistro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 9/8/2021, DJe 13/8/2021.)
+Diante do exposto, ACOLHOo agravo interno paraRECONSIDERARa decisão monocrática de fls. 566/567(e-STJ) epara DAR PARCIAL PROVIMENTO aorecurso especial, determinando que o reembolso, pela operadora do plano de saúde, do custeio das despesas médicas realizadas pelo beneficiário, deve ficar limitado aos valores indicados na sua tabela.
+Honorários advocatícios fixados em R$ 5.000,00 (cinco mil reais), com fundamento no art. 85, § 8º, do CPC/2015.
+Configurada a sucumbência recíproca (art. 86 do CPC/2015), as despesas e o valor total dos honorários devidos aos advogados deverão ser suportados na proporção do decaimento das partes, apurando-se os respectivos valores em liquidação.
+Deferido o benefício da gratuidade de justiça na instância ordinária, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
