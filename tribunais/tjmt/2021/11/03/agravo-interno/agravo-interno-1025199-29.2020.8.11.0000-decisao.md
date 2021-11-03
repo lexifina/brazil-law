@@ -1,0 +1,36 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO INTERNO No 1025199-29.2020.8.11.0000
+RECORRENTE: BANCO BRADESCO S.A
+RECORRIDO: GERALDO MARTINS DO CARMO
+Vistos.
+Trata-se de recurso especial interposto por BANCO BRADESCO S.A com fundamento no art. 105, III, alíneas “a” e “c’ da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, que, por unanimidade, desproveu o recurso, nos termos da seguinte ementa (id. 83266453):
+“AGRAVO INTERNO – DECISÃO DEFERITÓRIA DE PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO DE APELAÇÃO CÍVEL – PRELIMINAR DE INTEMPESTIVIDADE – ALEGAÇÃO DE CIÊNCIA INEQUÍVOCA DA DECISÃO AGRAVADA – EXISTÊNCIA DE PRÉVIA DECISÃO JUDICIAL RESTITUINDO PRAZO PARA RECURSO – PRELIMINAR REJEITADA – RECURSO INTERPOSTO CONTRA EXTINÇÃO DE PEDIDO DE CUMPRIMENTO PROVISÓRIO DE SENTENÇA – AUSÊNCIA QUALQUER DE DETERMINAÇÃO DO TÍTULO EXECUTIVO JUDICIAL – INDICAÇÃO DE ACÓRDÃO QUE DEU PROVIMENTO A OUTRO APELO APENAS PARA ANULAR SENTENÇA PROFERIDA EM AÇÃO DE IMISSÃO DE POSSE – DETERMINAÇÃO DE JULGAMENTO CONJUNTO COM A CONEXA AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO – SENTENÇA APELADA TECNICAMENTE ACERTADA NESSE PARTICULAR – POSTERIOR ACOLHIMENTO DE EMBARGOS DE DECLARAÇÃO PARA COMPLEMENTAR O ATO SENTENCIAL E INCLUIR ORDEM DE IMISSÃO DO BANCO/APELADO NA POSSE DA ÁREA OBJETO DA LIDE – DESCABIMENTO – INSTITUIÇÃO FINANCEIRA JUDICIALMENTE PROIBIDA DE IMITIR-SE NA POSSE DA ÁREA ATÉ JULGAMENTO DEFINITIVO DA AÇÃO DECLARATÓRIA DE NULIDADE – DEMONSTRAÇÃO SUFICIENTE DA PROBABILIDADE DE PROVIMENTO DO APELO NESSE ASPECTO – PRESENÇA DO RISCO DE DANO GRAVE – PREENCHIMENTO DOS REQUISITOS DO ART. 1.012, §4o, DO CPC – PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO DEFERIDO – ARGUMENTAÇÃO RECURSAL DO BANCO INSUFICIENTE PARA INFIRMAR CONCLUSÃO DECISÓRIA ADOTADA APÓS DETIDO EXAME DOS AUTOS – DECISÃO MANTIDA – AGRAVO INTERNO DESPROVIDO. 1. Não há falar em intempestividade se houve decisão anterior acolhendo pedido de devolução do prazo recursal e o recurso foi interposto dentro do prazo previsto, computado a partir dessa decisão. 2. Parece tecnicamente acertada a extinção de pedido de cumprimento provisório de sentença que indica, como título executivo judicial, acórdão que apenas anulou sentença anterior para fins de julgamento simultâneo da ação de imissão na posse e da conexa ação declaratória de nulidade de ato jurídico, porque não parece existir qualquer ordem judicial a ser cumprida. 3. Se a r. sentença é complementada, porém, pelo acolhimento de embargos de declaração para acrescentar ordem de imissão do Banco/apelado na posse da área objeto da lide, mesmo havendo vigente e expressa proibição dessa providência antes do trânsito em julgado da ação declaratória de nulidade em apenso, reputa-se satisfeito o requisito de relevância da fundamentação recursal deduzida por quem efetivamente detém direito possessório sobre a área, sendo, pois, cogente a atribuição de efeito suspensivo ao apelo”. (TJMT – Primeirta Câmara de Direito Privado – Agravo Interno n. 1025199-29.2020.8.11.0000, Relator(a): JOAO FERREIRA FILHO j. em 30/06/2021).
+Os embargos de declaração foram desprovidos. (id. 99949463.
+A parte recorrente alega violação aos artigos 22, § 1o, e 30 da Lei n. 9.514/97, além de divergência jurisprudencial, ao argumento de que: “(...) o E. Tribunal de Justiça a quo negou provimento ao Agravo Interno interposto pelo Banco Bradesco, para manter a decisão concessiva de efeito suspensivo ao Recurso de Apelação interposto por Geraldo Martins do Carmo, ora Recorrido, ante à suposta impossibilidade de constituição de garantia de alienação fiduciária fora do Sistema Financeiro da Habitação”.
+“(...) Outrossim, ao entender dessa forma, o v. acórdão violou, ainda, o disposto no artigo 30 da Lei no 9.514/1997, o qual assegura ao fiduciário a reintegração da posse do imóvel após consolidação da propriedade”.
+(...) Evidenciou-se, também, que, envolvendo a própria Fazenda Eldorado e os contratos objeto dos processos relacionados, já foi reconhecida a superação dessa tese, conforme se infere do voto vencedor do acórdão proferido em sede de Agravo Interno no âmbito da Reclamação Cível no 1004055-33.2019.8.11.0000”.
+(...) apesar de o Recorrente ter demonstrado a plena possibilidade de constituição de alienação fiduciária em garantia de contratos de mútuo bancário, manteve-se o equivocado entendimento em sentido contrário, em patente violação ao artigo 22, parágrafo 1o, e ao artigo 30 da Lei no 9.514/1997, bem como sobre o entendimento jurisprudencial dominante acerca do tema, até mesmo já manifestado no âmbito dos contratos envolvendo a Fazenda Eldorado”.
+Recurso tempestivo (id. 103348487).
+Contrarrazões (id. 106205957).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Ato decisório não definitivo (Súmula 735/STF)
+Nos termos do artigo 105, inciso III, da Constituição Federal, compete ao Superior Tribunal de Justiça a aplicação e a uniformização da interpretação de normas infraconstitucionais, não sendo possível o cabimento de Recurso Especial contra acórdão proferido em sede de tutela provisória, ante o caráter precário da decisão.
+In casu, o órgão fracionário negou provimento ao Agravo Interno interposto pelo recorrente e manteve a decisão monocrática que deferiu pedido de efeito suspensivo ao recurso de apelação e consequentemente, suspendeu os efeitos da r. sentença nos autos do cumprimento de senteça.
+Neste caso, a decisão é provisória, incidindo, por analogia, a Súmula n. 735/STF, segundo a qual, “não cabe recurso extraordinário contra acórdão que defere medida liminar”. Confira-se:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO LIMINAR EM REINTEGRAÇÃO DE POSSE. ÓBICE DA SÚMULA N. 735/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 211 DO STJ E 282 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACORDÃO RECORRIDO. AUSÊNCIA DE FUNDAMENTAÇÃO E INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. (...).
+5. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+6. (...).
+7. Agravo interno não provido”. (AgInt no REsp 1343171/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 26/08/2020). (g.n.)
+Portanto, no tocante à aventada violação aos artigos 22, § 1o, e 30 da Lei n. 9.514/97, inadmissível o recurso, face ao óbice da Súmula 735/STF.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
