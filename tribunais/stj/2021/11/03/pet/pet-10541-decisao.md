@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de petição formulada de próprio punho por WAGNER APARECIDO RODRIGUES THOME, na qual pugnou o requerente, do que se pode depreender da inicial, pela revisão de sua condenação pelo delito de tráfico de drogas, na qual lhe foiaplicada uma pena de 6 anos e 8 meses de reclusão.
+Asinformaçõessolicitadasforam prestadas às e-STJ fls. 15/23 e 25/73.
+Intimada, a Defensoria Pública da União manifestou-se nos seguintes termos (e-STJ fls. 76/77):
+Informa a este juízo que, nesta instância, o requerente será, doravante, patrocinado pela Defensoria Pública da União, requerendo, assim, a observância das prerrogativas estabelecidas na LC 80/94, em especial a intimação pessoal para todos os atos do processo, bem como seja observado o prazo em dobro para todas as manifestações e ainda a desnecessidade de procuração (art. 44 da LC 80/94).
+O caso em análise diz respeito à petição redigida de próprio punho pelo requerente, que está atualmente cumprindo pena no Presídio de Pouso Alegre/MG, em razão de condenação criminal pela prática do crime tipificado no art. 33, caput, da Lei n.11.343/06, tendo o togado singular cominado sanção privativa de liberdade de 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicialmente fechado, além do pagamento de 888 (oitocentose oitenta e oito) dias-multa à razão de 1/30 do salário mínimo vigente à época dos fatos (e-STJ fls. 30/42).
+Inconformada com o édito condenatório, a defesa interpôs Apelação, pleiteando, em síntese, a absolvição com fulcro no art. 386, V, do CPP e subsidiariamente, a desclassificação do crime tipificado no art. 33 da Lei de Drogas para o delito descrito no art. 28 do mesmo diploma legal e a diminuição da pena-base (e-STJ fls. 43/50).
+Ao julgar o recurso defensivo, a Primeira Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais deu, por maioria de votos, parcial provimento à Apelação, para reduzir a reprimenda, fixando-a em 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado, bem como ao pagamento de 666 (seiscentos e sessenta e seis) dias-multa (e- STJ fls. 51/60).
+Não satisfeita, a Defensoria Pública Estadual interpôs Recurso Especial com supedâneo na alínea ""c"" do inciso III do art. 105 da Carta Magna, pelo fato de a Corte a quo ter dado à dispositivo de Lei Federal entendimento diverso daquele atribuído por este Colendo Tribunal Superior (e-STJ fls. 61/69).
+Realizado o juízo de admissibilidade, o Terceiro Desembargador Vice- Presidente do TJMG entendeu pela admissão do recurso excepcional, ordenando a remessa ao STJ, sendo que na Superior Corte (REsp n. 1385220 / MG (2013/0175563-4) autuado em 04/06/2013, encontrando-se concluso à Ministra Relatora.
+Pois bem. O que pretende o peticionante no presente feito encontra em exame no Recurso especial indicado acima. No que tange aos pleitos em sede de execução criminal e eventual revisão criminal, foi enviado ofício para a Defensora Geral do Estado de Minas Gerais postulando a designação de Defensor Público para adoção das medidas pertinentes em favor do assistido.
+Diante do exposto, restam prejudicados os pedidos formulados pelo requente nesta superior instância.
+O Ministério Público Federal opinou pelo não conhecimento da petição (e-STJ fls. 83/85).
+É o relatório.
+Decido.
+De fato, o pedido não comporta conhecimento.
+Com efeito, já apreciado o Recurso Especial n. 1385220/MG, interposto pela Defensoria Pública estadual contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação n. 1.0637.12.000450-1/001, fica sem objeto o pedido constante na presente petição, nos termos da manifestação da DPU, não sendo necessária nenhuma providência diversa, porquanto a defesa já enviou ofício para a Defensoria Pública estadual para atuar em defesa dos interesses do requerente no que concerne à execução criminal ou eventual ajuizamento de revisão criminal.
+Ante o exposto, não conheço do pedido.
+Publique-se. Intimem-se.
