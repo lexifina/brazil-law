@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. IMPETRAÇÃO CONTRA DECISÃO DE INDEFERIMENTO DE LIMINAR NA ORIGEM. ENUNCIADO N. 691 DA SÚMULA DO STF. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Hipótese na qual foram apontados elementos concretos que afastam a alegação de teratologia na decretação de prisão preventiva. Portanto, não se constata a existência de ilegalidade patente a justificar a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+3. Agravo desprovido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+ILO DIONE ESCOBAR GUEDES interpôs agravo regimental contra decisão da Presidência desta Corte, que indeferiu liminarmente o habeas corpus impetrado por sua defesa no qual apontou-se decisão proferida pelo Tribunal de Justiça do Estado do Rio Grande do Sul, no julgamento do HC n. 5202089-82.2021.8.21.7000 como ato coator.
+De acordo com os autos, o paciente foi preso em flagrante no dia 25 de setembro deste ano, em razão da prática do crime previsto no art. 33 da Lei de Drogas. A prisão foi efetuada pela Brigada Militar do Município de Rosário do Sul, no Estado do Rio Grande do Sul, após a descoberta de um tijolo de maconha (7 g) em poder do acusado. Em audiência de custódia realizada no dia seguinte ao do flagrante, converteu-se a prisão em preventiva para garantia da ordem pública, considerando que o paciente ostenta outras condenações e, na ocasião do flagrante, estava em gozo de livramento condicional.
+Buscando revogar a custódia, impetrou-se habeas corpus perante o Tribunal gaúcho, alegando, em síntese, falta de fundamentos para a manutenção da custódia. A Desembargadora relatora indeferiu o pedido liminar (e-STJ, fls. 33-38), ensejando a impetração deste writ, indeferido liminarmente pela Presidência do Superior Tribunal de Justiça (e-STJ, fls. 41-42).
+Nas razões deste agravo regimental (e-STJ, fls. 44-52), sustenta-se, em síntese, que o enunciado sumular n. 691 do Supremo Tribunal Federal encontra-se superado (e-STJ, fl. 51).
+Diante disso, requer a reconsideração da decisão agravada ou, subsidiariamente, a apresentação do feito ao Colegiado respectivo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+Não obstante os esforços da defesa, o presente agravo não merece prosperar.
+Consoante esposado na decisão agravada, não se vislumbra teratologia ou ausência de fundamentação na decisão liminar do Tribunal impetrado, que apresentou fundamentos suficientes para indeferir o pedido de urgência.
+Por certo, todas as questões suscitadas pela defesa do agravante serão analisadas, em profundidade e extensão, no julgamento do mérito do writ originário, não podendo esta Corte Superior se adiantar e enfrentar, minuciosamente, as teses defensivas, sob pena de indevida supressão de instâncias e violação dos princípios constitucionais que regem o direito processual.
+Conforme exposto na decisão agravada, o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pela relatora, a qual, ao indeferir a liminar, aduziu o seguinte (e-STJ, fls. 37-38):
+Inviável, assim, a expedição de alvará de soltura, com a aplicação das cautelares diversas (art. 319 do CPP), ou até mesmo a concessão da prisão domiciliar (art. 318 do CPP), pois medidas insuficientes e inadequadas ao caso, por ora.
+A presença de predicados pessoais favoráveis, por si só, não justifica a concessão da liberdade provisória. Isso porque, estão presentes os requisitos do art.312 do CPP. Eventual projeção da pena, ou do regime a ser fixado em caso de condenação, também não justifica a concessão da liberdade, pois a prisão, neste momento, tem natureza cautelar. De outro lado, não se desconhece, evidentemente, a gravidade das circunstâncias que envolvem a existência do novo coronavírus, e os termos da Recomendação n. 62/2020 do CNJ.
+Não há, contudo, qualquer elemento demonstrando que o paciente esteja debilitado por doença grave, ou da impossibilidade da concessão de tratamento médico no interior do estabelecimento prisional, caso necessário.
+Os demais argumentos apresentados pela defesa inclusive deverão ser analisados no momento processual oportuno, já que não é possível o exame de provas, de forma pormenorizada, em sede de habeas corpus.
+Consigno, por fim, que a prisão preventiva não ofende o princípio constitucional da presunção de inocência, nem se trata de execução antecipada da apena. A Constituição Federal prevê, no seu art. 5º, LXI, a possibilidade de prisão, desde que decorrente de ordem escrita e fundamentada.
+Vê-se que a Desembargadora Relatora apontou elementos concretos que afastam a alegação de teratologia. Portanto, não se constata a existência de ilegalidade patente a justificar a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Diante do exposto, nego provimento ao presente agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
