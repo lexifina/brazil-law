@@ -1,0 +1,15 @@
+DECISÃO
+Trata-sede recurso especial interposto por ANA PAULA MORAES LIMONGELLI SANTOScontra acórdão da Quarta Câmara de Direito Privado do TJSP.
+Na origem, a parte recorrenteajuizou ação objetivando a cobertura de atendimento médico pelo plano de saúde, além de indenização por danos morais.
+Em primeira instância, os pedidos foram julgados parcialmenteimprocedentes (e-STJ fls. 148/155).
+Foi interpostaapelação, tendo o Tribunal de origem dado parcial provimento ao recursoem acórdãoassim ementado (e-STJ fl. 374):
+Obrigação de fazer. Plano de saúde coletivo/empresarial. Segurada que, após o 10º dia, apresentara ser portadora de câncer. Ré deixou de proporcionar cobertura, alegando carência contratual. Doença que atingiu a autora exige tratamento imediato, portanto, a urgência e a emergência se fazem presentes. Cobertura em condições de sobressair. Reembolso de despesas com exames realizados fora da rede credenciada tem supedâneo, mesmo porque, a apelante ressaltara que não proporcionaria a cobertura respectiva. Danos morais não configurados. Interpretação diversa de disposições contratuais se mostra insuficiente para dar suporte à verba reparatória pretendida. Sucumbência recíproca caracterizada. Apelo provido em parte.
+Sobreveio o recurso especial (e-STJ fls. 381/394), fundado no art. 105, III, "a", da CF, no quala recorrente sustentou violação dos arts. 186 e927 do CC/2002,sob alegação de que, na origem, teria comprovado a ocorrência dodano moral a ser indenizado pela parte ora recorrida, ante a negativa indevida de cobertura do plano de saúde.
+É o relatório.
+Decido.
+Reconheceu o TJSPque não houve comprovação de fatos ensejadores de dano moral decorrente da negativa de cobertura do plano de saúde(e-STJ fls. 376/377).
+Ficou definido que, "Quanto aos danos morais, não se identifica a ocorrência, uma vez que a interpretação diversa de disposições contratuais é insuficiente para tanto, levando em consideração as peculiaridades do caso em exame, haja vista que, no 10º dia da vigência do contrato, a segurada já apresentava adversidade na higidez de forma considerável. Assim, não se vislumbra embasamento para a verba reparatória pretendida, destacando-se que a ré negou a cobertura, contudo, conforme o seu entendimento, apontara a fundamentação correspondente, não havendo, assim, afronta à dignidade da pessoa humana ou exposição à situação vexatória, mas, ao contrário, simples discordância em relação ao que fora livremente contratado"(e-STJ fls. 376/377).
+Para alterar a conclusão do Tribunal de origem, seria necessário o reexame dos fatos e das provas dos autos, a fim de verificar, no caso,aocorrência do dano moral, o que éinviável em recurso especial, ante o óbice da Súmula n. 7/STJ.
+Diante do exposto, NÃO CONHEÇO do recurso.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
