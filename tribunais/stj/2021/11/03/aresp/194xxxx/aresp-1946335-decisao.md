@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto porPAULO AUGUSTO CORREA LEITEcontra decisão que inadmitiu recurso especial manejado em face de acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassim ementado:
+PROCESSO CIVIL -TRIBUTÁRIO -PENHORA -MENOR ONEROSIDADE GARANTIA.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos artigos 805, 835 e 836, todos do CPC/2015; e 11 da Lei 6.830/1980.
+Aduz que o bem imóvel oferecido é mais que suficiente para satisfazer o débito exequendo, sendo equivocado o posicionamento do Tribunal de origem que deferiu a penhora junto ao BACENJUD.
+Contrarrazões ao recurso especial às fls. 246/249.
+O Tribunal de origem inadmitiu o recurso especial por meio da decisão de fls. 250/254.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Contraminuta ao agravo às fls. 299/301.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo passo a análise do recurso especial.
+A pretensão não merece acolhimento.
+Consta do v. acórdão de origem:
+A regra da menor onerosidade (artigo 805, do Código de Processo Civil) não visa inviabilizar, ou dificultar, o recebimento do crédito pelo credor.
+Em execução fiscal, a penhora de dinheiro é prioritária e, a partir da vigência da Lei Federal nº. 11.382/06, prescinde do esgotamento de diligências, para a identificação de outros ativos integrantes do patrimônio do executado. A jurisprudência do Superior Tribunal de Justiça, no regime de que tratava o artigo 543-C, do Código de Processo Civil de 1973 (artigo 1.036, do atual Código):
+(..)
+É cabível a penhora eletrônica.
+No que tange à tese relacionada ao princípio da menor onerosidade, observa-se que não houve pronunciamento explícito sobre a matéria mencionada, não obstante opostos embargos de declaração, incide o óbice contido na Súmula 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, destacam-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. PRECATÓRIO COMPLEMENTAR. JUROS DE MORA. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. (..) 3. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada ao dispositivo de lei supostamente violado, mesmo após opostos embargos de declaração, não sendo possível admitir o prequestionamento ficto introduzido pelo art. 1.025 do CPC/2015 para os recursos especiais interpostos sob a sistemática do CPC/1973. Precedente. (..) 5. Agravo interno desprovido. (AgInt no REsp 1531778/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/04/2021, DJe 28/04/2021 - grifo nosso)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. HONORÁRIOS SUCUMBENCIAIS. MAJORAÇÃO INDEVIDA. AGRAVO INTERNO PARCIALMENTE PROVIDO. 1. Será inadmissível o recurso especial quando a questão nele suscitada não for decidida pelo Tribunal de origem por falta de prequestionamento. Aplicação do enunciado 211 da Súmula do STJ. 2. "Conforme precedentes do Superior Tribunal de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se ao recorrente a indicação de contrariedade ao art. 1.022 do CPC/2015" (AgInt no AREsp 1.521.284/MG, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 19/12/2019). (..) 4. Agravo interno a que se dá parcial provimento, apenas para excluir a condenação da ora agravante ao pagamento dos honorários impostos pela decisão agravada com fundamento no § 11 do art. 85 do CPC. (AgInt no AREsp 1506608/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/04/2021, DJe 19/04/2021 - grifo nosso)
+Outrossim, verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  e se ponderar a respeito de eventualmácula na aplicação doprincípio da menor onerosidade , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. PENHORA. ORDEM DE PREFERÊNCIA. INOBSERVÂNCIA. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME DE PROVAS. INVIABILIDADE.(..)3. Não observada a ordem legal e não demonstrada a exceção da onerosidade excessiva, a Fazenda Pública pode recusar os bens oferecidos.4. O exame da alegação da parte agravante no sentido de viabilidade do bem oferecido à penhora, em contraposição ao entendimento consignado no acórdão recorrido, demandaria, na hipótese, reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.5. Agravo interno desprovido.(AgInt no AREsp 1694110/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/09/2021, DJe 17/09/2021)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. PENHORA. PRINCÍPIO DA MENOR ONEROSIDADE.AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 211/STJ. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
