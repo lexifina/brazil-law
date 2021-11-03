@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ADRIANO DOS SANTOS DRANKA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná (Recurso em Sentido Estrito n. 0003943-73.2021.8.16.0129).
+O paciente teve a prisão em flagrante convertida em preventiva por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006. Posteriormente, foi a ele concedida liberdade provisória.
+O Ministério Público interpôs, então, recurso em sentido estrito, o qual foi provido, decretando-se novamente a prisão preventiva do paciente. O decreto prisional fundou-se na quantidade e nocividade dos entorpecentes apreendidos (48g de cocaína e 13g de crack), bem como no fato de que o paciente "é reincidente e possui diversas anotações criminais".
+A defesa sustenta a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea do decreto preventivo, vis to que estaria ausente o periculum libertatis.
+Nega a autoria delitiva.
+Requer a concessão da ordem para que o paciente seja colocado em liberdade.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto do acórdão que decretou a segregação cautelar (fls. 18-19):
+ ..  Assim, satisfeito o critério do fumus commissi delicti, resta preenchido também o requisito do periculum libertatis.
+Analisando o sistema Oráculo, é possível perceber que o recorrido é reincidente e possui diversas anotações criminais, demonstrando ser ele contumaz transgressor das leis penais (mov. 12.1 - IP).
+O receio de reiteração delitiva evidencia a periculosidade concreta do agente e fundamenta a necessidade de imposição da medida constritiva.
+ ..
+Somado a isso, a natureza e a quantidade das drogas localizadas em poder do investigado indicam a maior gravidade da conduta e demonstram, mais uma vez, a imprescindibilidade da custódia do flagranteado para evitar o potencial abalo à sociedade.
+ ..
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No caso, a expressiva quantidade e nocividade dos entorpecentes apreendidos (48g de cocaína e 13g de crack), a reincidência e os maus antecedentes do paciente foram considerados pelo Tribunal a quo para a decretação da prisão preventiva e justificam a imposição da medida extrema em detrimento das demais cautelares substitutivas.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Além disso, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Por fim, ressalte-se que a alteração da decisão que decretou a preventiva no que se refere à existência de indícios de autoria e de prova da materialidade do delito demanda dilação probatória, procedimento incompatível com a estreita via do habeas corpus, devendo a questão ser dirimida no trâmite da instrução criminal. Nesse sentido: HC n. 504.546/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/10/2019; e RHC n. 123.822/DF, relator Ministro Teori Zavascki, Segunda Turma, DJe de 20/10/2014.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar .
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
