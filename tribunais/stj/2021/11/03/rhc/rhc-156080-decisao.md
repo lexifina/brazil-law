@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpusinterposto porLUIZ AUGUSTO DE ARAÚJO GOMES contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas (HC n. 0800149-57.2021.8.02.9002).
+Infere-se dos autos que o recorrente foi preso em flagrante em 14/5/2021, custódia convertida em preventiva, por suposta infração aos arts. 33 e 35 c/c o art. 40, III, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos da seguinte ementa (e-STJ fl. 124):
+HABEAS CORPUS. PENAL. PROCESSO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS.PRISÃO PREVENTIVA. QUESTIONADA A PRESENÇA DOS SEUS REQUISITOS AUTORIZADORES E A FUNDAMENTAÇÃO EXPOSTA NO DECRETO PRISIONAL. ÉDITO PRISIONAL BEM FUNDAMENTADO E COM AMPLO ARRIMO NOS AUTOS. PRISÃO PREVENTIVA NECESSÁRIA PARA A GARANTIA DA ORDEM PÚBLICA. INDICATIVOS DE ENVOLVIMENTO COM A PRÁTICA HABITUAL E REITERADA DA TRAFICÂNCIA PROFISSIONALIZADA, ANTE AS CIRCUNSTÂNCIAS FLAGRANCIAIS EM QUE DETIDO O AGENTE. APREENSÃO DE FARTA QUANTIDADE DE TÓXICOS DE ALTÍSSIMO VALOR AGREGADO. RISCO CONCRETO DE REITERAÇÃO DELITIVA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS DO CÁRCERE PARA A HIPÓTESE EM TESTILHA. IRRELEVÂNCIA DA PRESENÇA DE CONDIÇÕES SUBJETIVAS FAVORÁVEIS. FEITO DE ORIGEM EM MARCHA REGULAR.
+CONSTRANGIMENTO ILEGAL INVOCADO INEXISTENTE. PRISÃO MANTIDA. ORDEM DENEGADA.
+I- A acusação que pende contra o paciente é de acentuada gravidade, haja vista que ele foi detido, juntamente com outros dois acusados, em poder de significativa quantidade de drogas, de altíssima nocividade e elevado valor financeiro (cerca de 2,560kg de maconha skunk) e uma balança de precisão, sendo que a sua prisão flagrancial foi precedida de denúncia dando conta da suposta entrega de material entorpecente, tendo, inclusive, as circunstâncias da prisão em flagrante envolvido tentativa de fuga dos acusados que gerou a necessidade de disparos de arma de fogo para interceptação do veículo.
+II - Habeas corpus denegado.
+Nas razões dopresente recurso, a defesa alega, em síntese, que nenhuma substância entorpecente foi encontrada com o recorrente ou seus colegas no momento da abordagem, para justificar a prisão em flagrante. Destaca, no ponto, que "a pequena quantidade alegada pelos policiais em seus depoimentos pode ter sido facilmente implantada" (e-STJ fl. 133).
+Afirma, ainda, que não há provas de que a mãe do recorrente tenha autorizado a entrada dos policiais em sua residência, evidenciando "a violação do direito constitucional da inviolabilidade do domicílio, acarretando a ilegalidade de qualquer prova que ali seja obtida." (e-STJ fl. 133).
+Sustenta não estarem presentes os requisitos autorizadores da medida constritiva cautelar previstos no art. 312 do CPP, ressaltando que a gravidade abstrata do delito não basta, por si só, para fundamentar a segregação cautelar.
+Sublinha ser o réu primário, detentor de bons antecedentes, além de possuir residência fixa e trabalho certo.
+Defende ser suficiente, no caso, a aplicação de medidas cautelares alternativas previstas no art. 319 do CPP, comprometendo-se o réu a comparecer sempre que for chamado aos autos.
+Diante disso, requer, em liminar e no mérito, o relaxamento da prisão preventiva do recorrente ou, subsidiariamente, a sua substituição por medidas cautelares alternativas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ fls. 162/171).
+É o relatório. Decido.
+De plano, verifico que, nesta Corte, também, houve a impetração do HC n. 681.335/AL, em favor do ora recorrente, requerendo, igualmente, a revogação do decreto prisional, sob os mesmo fundamentos ora apresentados e apontando o mesmo ato coator (HC n.0800149-57.2021.8.02.9002), sendo que o mandamus não foi conhecido em 18/08/2021, por não haver constrangimento a ser sanado por esta Corte.
+Assim, por se tratar de mera reiteração, o presente recurso não merece ser conhecido.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, DE MINHA RELATORIA, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º/9/2015, DJe 22/9/2015).
+Ante o exposto, não conheço do presente recurso ordinário em habeas corpus.
+Intimem-se.
