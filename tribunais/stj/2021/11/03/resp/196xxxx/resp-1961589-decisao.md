@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto pela NOTRE DAME INTERMÉDICA SAÚDE S.A. contra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 5 e 7 do STJ, além da ausência de cotejo analítico.
+O acórdão recorrido está assim ementado (e-STJ fl. 374):
+Obrigação de fazer. Plano de saúdecoletivo/empresarial. Segurada que, após o 10º dia,apresentara ser portadora de câncer. Ré deixou deproporcionar cobertura, alegando carênciacontratual. Doença que atingiu a autora exigetratamento imediato, portanto, a urgência e aemergência se fazem presentes. Cobertura emcondições de sobressair. Reembolso de despesas comexames realizados fora da rede credenciada temsupedâneo, mesmo porque, a apelante ressaltara quenão proporcionaria a cobertura respectiva. Danosmorais não configurados. Interpretação diversa dedisposições contratuais se mostra insuficiente paradar suporte à verba reparatória pretendida.Sucumbência recíproca caracterizada. Apelo provido em parte.
+Nas razões do recurso especial (e-STJ fls. 398/415),fundamentado no art. 105, III, "a" e "c", da CF, arecorrente alegou, além de divergência jurisprudencial, afronta aos arts. 104 e 436 do CC/2002, 1º, 12 e 35-C da Lei n. 9.656/1998,argumentando que não seria devida a cobertura postulada, pois o tratamento foi iniciado durante o prazo de carência do contrato.
+Sustentou que "o prazo de carência contratual ainda se encontrava plenamente em vigor, motivo pelo qual foram negados os exames e tratamento oncológico requerida pela requerida, além do mais ficou evidenciado nos autos que não se tratava sequer de urgência ou emergência" (e-STJ fl. 407).
+Suscitou ainda que, mantida a obrigação de cobertura, os valores a serem custeados devem ser limitados à tabela da operadora, pois o atendimento teria sido prestado fora da rede credenciada.
+No agravo (e-STJ fls. 462/478), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O Tribunala quo, soberano no exame dos fatos e das provas dos autos, considerou existir situação de urgência ou emergência a justificar o reembolso pelo tratamento realizado fora da rede credenciada,mesmo havendo prazo de carência, ante a negativade atendimento da recorrente.Decidiu-se ainda que a operadora do plano de saúde não teria realizado exames prévios à contratação, o que a obrigaria à cobertura, sem possibilidade de alegardoença pré-existente (e-STJ fls. 374/376).
+Alterar tal conclusão é inviável em recurso especial, de acordo com as Súmulas n. 5 e 7 do STJ.
+Além disso, não foramimpugnados especificamente os fundamentos do acórdão recorrido, no sentido de ter inexistido realização de exames prévios à contratação do plano e de ser devido o reembolso integral, porque o atendimento fora da rede credenciada ocorreu exclusivamente devido à conduta da própria empresa de saúde, que negou a cobertura em situação emergencial.
+Nesse contexto, aplica-se o óbice da Súmula n. 283 do STF.
+Acrescente-se que, conforme enunciado sumular desta Corte Superior, "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado" (SÚMULA 609, SEGUNDA SEÇÃO, julgado em 11/04/2018, DJe 17/04/2018).
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
