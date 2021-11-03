@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por REGIÃO SUL INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO TÊXTIL LTDA. e OUTROS contra a decisão que conheceu do agravopara negar provimento ao recurso especial devido àincidência da Súmulanº7/STJ e porque não violados os arts. 489 e 1.022do Código de Processo Civil de 2015.
+Em suas razões, os agravantes sustentam haver omissão edeficiência de fundamentação no acórdão recorrido, alegando que não foram enfrentados todos os argumentos deduzidos no processo, os quais seriam suficientes para infirmar a conclusão adotada pelo julgador.
+Afirmam que
+"(..)o tribunal local, (..)ao confirmar a singeleza da decisão de primeira instância (penhora de 30% do faturamento bruto da empresa agravante, assim como a constrição de créditos recebíveis junto à administradoras de cartões de crédito e débito na proporção de 30% do valor total mensal, até a satisfação do montante exequendo) reportando-se apenas ao que pedido pelo banco credor, não expôs a necessária e indispensável motivação da decisão confirmatória que justificariam o deferimento das excepcionais e cumulativas medidas constritivas"(fl. 475, e-STJ).
+Repisam aofensa aos"arts. 805, 835, X e 866 do CPC",insistindo que a constrição de forma cumulada "derecebíveis com a penhora de faturamento (conceitos equiparados)"configurapenhora em duplicidade, a onerar, em demasia, a parte devedora (fl. 476, e-STJ).
+Afirmam que não haveria necessidade de nenhum exame do conjunto fático-probatório, visto que o entendimento divergente quanto àsnormas legais violadas "encontra-se estampado no bojo do julgado recorrido, revelador da essência da inobservância dos dispositivos processuais arrolados"(fl. 476, e-STJ).
+Ao final, requerem a reforma da decisão atacada para conhecer e dar provimento ao recurso especial.
+Devidamente intimada, a parte contrária deixou transcorrer o prazo da impugnação(certidão de fl. 481, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. FATURAMENTO DA EMPRESA. BENS PASSÍVES DE PENHORA. INEXISTÊNCIA. REEXAME DE PROVA. SÚMULA Nº 7/STJ. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2.Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, alterar a conclusão do acórdão estadual, no sentido de que a penhora sobre o faturamento mensal não compromete a atividade da agravante, demandariao reexamedo conjunto fático-probatório, procedimento inadmissível em recurso especial em virtude doóbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Os argumentos expendidos nas razões do agravo interno são insuficientes para autorizar a reforma da decisão atacada.
+Conforme disposto na decisão impugnada, não há falar em ofensa ao art. 1.022 do Código de Processo Civil de 2015, visto que as questões suscitadas pelos agravantes na origem foram solucionadas, consoantese verifica doseguinte excerto:
+"(..)
+No caso vertente, vê-se que os embargos de declaração não observam tais lindes, pretendendo, na verdade, consoante se infere dos termos das alegações dos embargantes, conforme supra relatado, discutir a fundamentação do acórdão embargado, visando o reexame da causa, o que é descabido em sede deste recurso.
+A fundamentação do acórdão embargado, de resto, aponta claramente os motivos pelos quais houve por bem dar parcial provimento ao apelo interposto pelos embargantes, tendo considerado para tanto todas as questões suscitadas pelos embargantes, a partir, inclusive, do questionamento feito a propósito da ausência de comprovação de que os bens penhorados nos autos são de fácil alienação. Sua fundamentação, de resto, afigura-se suficiente para responder, direta ou indiretamente, as normas legais prequestionadas pelos embargantes, ainda que não tenham sido expressamente apontadas em referido aresto. Não colhe a assertiva dos embargantes de nulidade da r. decisão recorrida que deferiu a penhora aqui versada, por falta de fundamentação, tendo-se em vista que acolheu pedido formulado para tanto pelo banco.
+Não haveria de se falar, por isso, que o acórdãoembargado padeceria de omissão, contradição e obscuridade, ofendendo aos dispositivos legais referidos pelo embargante" (fl. 366, e-STJ).
+Dessa maneira, observa-seque o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Assim,não há falarna existência de omissão oudeficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. EFEITOS INFRINGENTES PRETENDIDOS. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração de METHANEX CHILE S.A. (e-STJ fls. 2.379/2.385) rejeitados"(EDcl no REsp 1.596.081/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 22/8/2018, DJe de 24/8/2018).
+Registra-se que, mesmo à luz do art. 489 do Código de Processo Civil de 2015, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeitodaqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+Além disso, o tribunal local concluiu pela possibilidade de penhora sobre o faturamento da empresa da parte agravante, conforme se observa do seguinte trecho:
+"(..)
+A propósito da penhora do faturamento da empresaexecutada leciona Humberto Theodoro Júnior que:
+"A jurisprudência, há algum tempo, vinha admitindocom várias ressalvas, a possibilidade de a penhora incidir sobre parte dofaturamento da empresa executada. A reforma do CPC realizada pela Lei nº11.382/2006, e que criou o art. 655-A, normatizou em seu § 3º a orientaçãoque predominava no Superior Tribunal."
+"Assim a penhora sobre parte do faturamento daempresa devedora é permitida, desde que, cumulativamente, se cumpram osseguintes requisitos:
+- inexistência de outros bens penhoráveis, ou seexistirem, sejam eles de difícil execução ou insuficientes a saldar o créditoexequendo;
+- nomeação de depositário administrador comfunção de estabelecer um esquema de pagamento, nos moldes dos arts. 678 e719; e
+- o percentual fixado sobre o faturamento não podeinviabilizar o exercício da atividade empresarial."
+"A penhora de percentual do faturamento figura emsétimo lugar na ordem de preferência do art. 835 do CPC, de sorte quehavendo bens livres de menor gradação não será o caso de recorrer àconstrição da receita da empresa, que, sem maiores cautelas, podecomprometer o seu capital de giro e inviabilizar a continuidade de sua normalatividade econômica. É por isso que se impõe a nomeação de um depositárioadministrador que haverá de elaborar o plano de pagamento a ser submetido àapreciação e aprovação do juiz da execução. Com isto, evita-se ocomprometimento da solvabilidade da empresa executada"(autor cit., in "AReforma da Execução do Título Extrajudicial Lei nº 11.382, de 06 dedezembro de 2006", Ed. Forense, 1ª ed. 2007, 2ª tiragem, págs. 78/79).
+No novo Código de Processo Civil esta penhora vemprevista no art. 866, que assim dispõe: "Se o executado não tiver outros benspenhoráveis ou se, tendo-os, esses forem de difícil alienação ou insuficientespara saldar o crédito executado, o juiz poderá ordenar a penhora depercentual de faturamento de empresa."Acrescenta o parágrafo 1º desteartigo, por sua vez, que: "O juiz fixará percentual que propicie a satisfaçãodo crédito exequendo em tempo razoável, mas que não torne inviável oexercício da atividade empresarial."
+Na execução em tela não há nos autos elementos quedemonstrem que os bens penhorados àfl. 66 seriam de fácil alienação, bemcomo suficientes para garantir a execução, como alegado nas razões recursais.
+Ademais, de conformidade com a documentação dosautos, tem-se que as tentativas de bloqueios restaram infrutíferas. Note-se quehouve um único bloqueio em valor considerável (R$ 39.158,08 fl. 113),quando da pesquisa realizada via Bacenjud. As demais quantias bloqueadassão de valor muito pequeno.
+Em face disso, é de se reconhecer que é cabível, naexecução em tela, a penhora do faturamento da agravante determinada peloMM. Juiz da causa, por não estar evidenciada a existência de outros bens paragarantia da execução. Nesta hipótese, conforme já decidiu o E. SuperiorTribunal de Justiça "é facultado ao Juiz deferir a ampliação da penhora, desdeque de plano se mostrem insuficientes à garantia do Juízo os bens jápenhorados"(STJ-4ª T., REsp 439.016-DF, Min. Barros Monteiro, j. 6.4.04,não conheceram, v.u., DJU 14.6.04, p. 224).
+Também por isso, não haveria de se falar, no caso,em ofensa à ordem de preferência prevista no art. 835 do CPC, a qual, deresto, dirige-se a exequente e não a executada, não sendo, ademais, de caráterabsoluto e inflexível, na medida em que estatui que a penhora observarápreferencialmente a gradação nela prevista.
+Limita-se a agravante, outrossim, a alegar que amedida em questão poderia causar graves prejuízos às suas atividadesempresariais, mas não indica e nem apresenta dado concreto algum parademonstrar tal assertiva.
+Afigura-se cabível, portanto, a penhora dofaturamento da empresa executada, por não estar evidenciada, no caso, aexistência de outros bens suficientes para garantia da execução.
+Quanto ao mais, afigura-se cabível a penhora derecebíveis de cartão de credito existentes em favor da executada, nos termosdo art. 857 do Código de Processo Civil.
+Note-se, ademais, que tais recebíveis, segundoprecedentes da jurisprudência, configuram também como faturamento daempresa.
+Entretanto, é de se reconhecer que o percentual de30% do faturamento bruto da empresa e ainda a constrição de 30% dosrecebíveis de cartão de crédito afigura-se elevado para qualquer empresa,podendo, efetivamente, prejudicar o desempenho de suas atividades.
+Desse modo, afigura-se razoável fixar a constriçãoem tela no percentual de 10% do faturamento líquido mensal, ou da receitalíquida mensal, da empresa agravante, bem como em 5% dos créditosrecebíveis de administradoras de cartões de crédito, até a satisfação do créditoexequendo, a fim de não inviabilizar o exercício de sua atividade empresarial,adotando-se, para tanto, as cautelas previstas no art. 866, § 2º, do CPC.
+Eventual necessidade ou possibilidade de alteração, para mais ou para menos,deste percentual fixado poderá ser verificada, oportunamente, pelo doutoMagistrado"(fls. 321-323, e-STJ).
+Portanto, consoante destacado na decisão atacada, rever o posicionamento adotado na origem, no tocante àpreservação ou não da viabilidade financeira da parte agravantefrente à penhora do faturamento, é providência que exigiria o vedado reexame do acervo probatório (Súmula nº 7/STJ).
+Confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº211 DO STJ. PENHORA DE FATURAMENTO DA EMPRESA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula nº211/STJ).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula nº 7 do STJ).
+3. No caso concreto, para alterar a conclusão do Tribunal de origem de que a penhora sobre o faturamento mensal não compromete a atividade da recorrente, seria necessária nova análise da prova dos autos, inviável em recurso especial.
+4. Agravo interno a que se nega provimento"
+(AgInt no AREsp 1.325.859/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe17/10/2018).
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AGRAVANTE.
+1. Possibilidade de o Tribunal de origem, no exercício do juízo de admissibilidade, denegar o processamento do apelo extremo com fundamento na ausência de contrariedade ou negativa de vigência à lei federal, sem incorrer em usurpação de competência do STJ. Incidência da Súmula 123/STJ.
+2. O acórdão estadual está em consonância com a jurisprudência desta Corte Superior, no sentido de que " ..  a penhora sobre o faturamento de empresa é admitida em casos em que se mostre necessária e adequada, desde que observados, cumulativamente, os seguintes requisitos: I) inexistência de bens passíveis de garantir a execução ou que sejam de difícil alienação; II) nomeação de administrador (CPC/73, art. 655-A, § 3º)e III) fixação de percentual que não inviabilize a atividade empresarial" (REsp 1.545.817/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/04/2016, DJe 27/05/2016). Aplicação do óbice da Súmula 83/STJ.
+3. A revisão da conclusão das instâncias ordinárias acerca do percentual de penhora do faturamento da empresa executada, bem como sobre eventual ofensa ao princípio da menor onerosidade ao devedor, demandaria, inevitavelmente, a revisão dos fatos discutidos na lide, providência descabidana estreita via do recurso especial, incidindo o óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido"
+(AgInt no AREsp 977.842/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/5/2018, DJe 25/5/2018).
+Desse modo, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
