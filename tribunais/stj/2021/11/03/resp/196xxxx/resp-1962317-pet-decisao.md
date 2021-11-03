@@ -1,0 +1,13 @@
+DECISÃO
+Rogério dos Santos Antunes apresentou a Petição n. 944.949/2021 (e-STJ, fls.593-605), intitulada como "agravo em recurso especial".
+Além de apontarque preencheu todos os requisitos de admissibilidade no recurso especial, pugna, ao final, com o manejo da peça ora em análise, "que seja CONHECIDO E PROVIDO O PRESENTE AGRAVO E ADMITIDO O RECURSO ESPECIAL manejado pela parte financiada, em face da presença dos respectivos requisitos, esperando-se que este Egrégio Tribunal Superior reforme o venerando acórdão recorrido, PROVENDO O RECURSO ESPECIAL e, consequentemente, julgando procedente a ação revisional, bem como condenando a parte agravada ao pagamento integral das custas processuais e honorários advocatícios, inclusive recursais" (e-STJ, fl. 604).
+Contudo, essa pretensão mostra-se infundada.
+Isso porque se verifica dos autos que o peticionante interpôs, na origem, recurso especial às fls. 469-484 (e-STJ), o qual foi admitido pela Corte estadual às fls. 567-572 (e-STJ), sendo que esta relatoria, ao analisar o recurso, conheceuparcialmente do apelo especial para negar-lhe provimento (e-STJ, fls. 585-591).
+De outro modo, se o requerente pretendia a revisão da decisão monocrática desta relatoria, deveria ter interposto agravo interno, nos termos do art. 1.021, caput, do Código de Processo Civil de 2015, sendo inaplicável, à espécie, o princípio da fungibilidade, ante a existência de erro grosseiro.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERPOSTO CONTRA DECISÃO QUE INADMITE RECURSO ESPECIAL INTERPOSIÇÃO NO STJ.IMPOSSIBILIDADE. INOBSERVÂNCIA DO ART. 1.042, § 2º, DO CPC/2015. AGRAVO NÃO PROVIDO.
+1. Nos termos do § 2º do art. 1.042 do CPC/2015, a petição do agravo interposto de decisão que inadmite recurso especial será dirigida ao presidente ou vice-presidente do Tribunal de origem. Ademais, conforme especificado nos §§ 3º e 4º do mesmo dispositivo legal, o agravo será remetido ao Tribunal Superior competente após o prazo de resposta do agravado.
+2. Havendo previsão legal expressa, não há que se falar em dúvida objetiva acerca da forma de interposição do agravo em recurso especial. Portanto, a interposição do agravo em recurso especial diretamente nesta Corte constitui erro grosseiro, desautorizando a aplicação do princípio da fungibilidade recursal.
+3. Agravo interno desprovido. (AgInt no AREsp 1.580.887/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/4/2020, DJe 4/5/2020)
+Ante o exposto, indefiro liminarmente o pedido deduzido na presente insurgência, dado o seu manifesto descabimento.
+Publique-se.
