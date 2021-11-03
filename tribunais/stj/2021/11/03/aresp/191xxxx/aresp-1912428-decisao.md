@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por BANCO JOHN DEERE S.A., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Goiás assim ementado (e-STJ, fl. 412):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃOJUDICIAL. ESSENCIA-LIDADE DE BENS. MAQUINÁRIOSAGRÍCOLAS. STAY PERIOD. NOVA PRORROGAÇÃO. POSSIBILIDADE. DEMONSTRAÇÃO DO CUMPRIMENTO DOSDEVERES LEGAIS IMPOSTOS ÀS RECUPERANDAS E DAAUSÊNCIA DE INTUITO PROTELATÓRIO DO PEDIDO. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. PRECEDENTES DO STJ E DESTA CORTE DE JUSTIÇA.
+1. Consoante a previsão contida no artigo 49, §3º, da Lei nº11.101/2005, acerca da impossibilidade de retirar bens essenciais às atividades da recuperanda, durante o período de reestruturação, entendo por aplicável tal dispositivo ao presente caso, tendo em vista que os maquinários agrícolas em discussão são indispensáveis à realização das atividades das recuperandas no setor do agronegócio, bem como ao soerguimento do grupo.
+2 Na hipótese, inexistindo elementos fáticos e probatórios que possibilitem vislumbrar a desídia das recuperandas na realização dos atos que lhes incumbem durante o processamento da recuperação - não havendo indícios de intuito protelatório na elaboração do pedido de ampliação do prazo -, mostra-se possível e cabível nova prorrogação do período de moratória legal previsto no artigo 6º, § 4º, da Lei nº 11.101/2005, com arrimo especialmente no princípio da preservação da empresa. Precedentes do STJ e desta Corte de Justiça. AGRAVO DEINSTRUMENTO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 439-455).
+No recurso especial, orecorrente apontou, além de divergência jurisprudencial, violação dos arts. 49, § 3º, da Lei 11.101/2005; e 489, § 1º, 1.022, II, e 1.025 do novo CPC.
+Esclareceu que se opôs ao acórdão que, de forma omissa e sem apreciar todos os pontos suscitados, não demonstrou ter havido a comprovação inequívoca de que os bens (maquinários) sejam essenciais para a atividade do grupo econômico.
+Pontuou que os recorridos não comprovaram a necessidade de todos os mais de 20 (vinte) tratores para a colheita de soja, sendo que o insurgente pretende a retomada de apenas 3 (três). Nesse contexto, arguiu não prevalecer a essencialidade deles por presunção. Pleiteou o provimento do recurso especial (e-STJ, fls. 459-475).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 570-586).
+Contraminuta apresentada (e-STJ, fls. 591-608 ).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, § 1º, 1.022, II, e 1.025 do novo CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A segunda instância concluiu não ser possível a retomada de maquinários pelo insurgente, justificando o aresto que eles seriam essenciais à atividade das empresas recuperandas.
+Veja-se (e-STJ, fls. 407 e 449):
+Nesse contexto, ao contrário do alegado pelo agravante, vejo que os dispositivos supracitados são aplicáveis na hipótese vertente, tendo em vista que os maquinários agrícolas em discussão são indispensáveis à realização das atividades das recuperandas no setor do agronegócio, tratando-se de bens essenciais e indispensáveis ao soerguimento do grupo, como bem decidiu o magistrado singular.
+ ..
+Na hipótese vertente, analisando detidamente o arresto embargado, concluo não haver omissão ou contradição a ser sanada pelos presentes aclaratórios, eis que a matéria relativa à essencialidade dos bens foi suficientemente valorada ao tempo da apreciação do recurso, inclusive com respaldo em precedentes do colendo Superior Tribunal de Justiça.
+ ..
+As ponderações acerca de serem todos os maquinários indispensáveis ao desenvolvimento da atividade empresarial dos agravados foram feitas com base fático-probatória, a atrair o texto da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer parcialmente dorecurso especial e, na extensão conhecida, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. JULGADO DEVIDAMENTE FUNDAMENTADO. ACÓRDÃO QUE FIXOU A ESSENCIALIDADE DE TODOS OS MAQUINÁRIOS PARA O DESENVOLVIMENTO DAS ATIVIDADES EMPRESARIAIS DAS EMPRESAS RECUPERANDAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
