@@ -1,0 +1,59 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5004305-95.2020.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: RENAN LUCIO OLIVEIRA DA SILVA
+RELATOR(A
+):FELIPE LEITAO GOMES
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+VOTOS
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA COM PEDIDO LIMINAR.
+
+(1). TESE AUTORAL: TUTELA DE URGÊNCIA PARA EXCLUSÃO DO NOME DOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. COBRANÇA SUPOSTAMENTE INDEVIDA DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA NO VALOR DE R$ 8.2225,27, ORIUNDA DE VIOLAÇÃO NO MEDIDOR, SOB ALEGAÇÃO DE MEDIÇÃO IRREGULAR. PLEITO DECLARATÓRIO DE INEXISTÊNCIA DO DÉBITO, BEM COMO, PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVAÇÃO INDEVIDA. (2). SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS CONSTANTES NA INICIAL PARA DECLARAR A INEXISTÊNCIA DO DÉBITO QUESTIONADO E IMPROCEDENTES OS DEMAIS PEDIDOS E O PEDIDO CONTRAPOSTO
+”.
+(3). RECURSO DA PARTE RÉ. RENOVAÇÃO DA PRELIMINAR DE INCOMPETÊNCIA DO JEC PELA NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. NO MÉRITO, DEFENDE A VALIDADE DE SEUS ATOS, EIS QUE SEGUIU AS NORMAS DA ANEEL. DESTACA QUE A INSPEÇÃO NO MEDIDOR DE ENERGIA FOI REGULAR, ASSIM COMO A CORRELATA CONFECÇÃO DO TERMO DE OCORRÊNCIA (TOI), EM QUE SE CONSIGNOU A IRREGULARIDADE DO CONSUMO.
+
+AFIRMA QUE A INSPEÇÃO, O CÁLCULO DA DÍVIDA E A CONSEQUENTE COBRANÇA FORAM MEDIDAS DE ACORDO COM OS PADRÕES NORMATIVOS,
+
+DE MANEIRA QUE NÃO HÁ FALHA DE PRESTAÇÃO DE SERVIÇO. ALMEJA, NESTES TERMOS SINTETIZADOS, A REFORMA INTEGRAL DA SENTENÇA. (4). AUSÊNCIA DE CONTRARRAZÕES.
+
+(5). DA QUESTÃO PROCESSUAL. ARGUIÇÃO DE PRELIMINAR RECURSAL DE INCOMPETÊNCIA DOS JUIZADOS ESPECIAIS CÍVEIS. PRESCINDIBILIDADE DE REALIZAÇÃO DE PERÍCIA. MATÉRIA FÁTICA COMPROVADA VIA PROVA DOCUMENTAL, O QUE RETIRA A VENTILADA COMPLEXIDADE E, EM CONSEQUÊNCIA, CONFIRMA A COMPETÊNCIA DOS JUIZADOS ESPECIAIS CÍVEIS PARA PROCESSAR E JULGAR A DEMANDA. REJEIÇÃO DA PRELIMINAR. (6). TRATA-SE DE LIDE QUE ENVOLVE FORNECIMENTO DE ENERGIA ELÉTRICA, COM POSTERIOR DISCUSSÃO ACERCA DOS DÉBITOS COBRADOS A PARTIR DA MEDIDA UNILATERAL ADOTADA PELA RECORRENTE EM QUE LAVROU-SE O TERMO DE IRREGULARIDADE DETECTADO NO MEDIDOR DE ENERGIA, O QUE GEROU O DÉBITO EM DISCUSSÃO NOS AUTOS. TERMO DE OCORRÊNCIA E INSPEÇÃO “TOI”, REALIZADO SEM A PRESENÇA DO CONSUMIDOR. DEVER DE FISCALIZAÇÃO DEVE SER EXERCIDO COM MAIOR EFETIVIDADE E COM A PARTICIPAÇÃO DO CONSUMIDOR. AUSÊNCIA DE RELATÓRIO OU REGISTRO FOTOGRÁFICO NOS AUTOS PERMITINDO AVALIAR CONCRETAMENTE A SUPOSTA FRAUDE CARACTERIZADA. PROVAS APENAS SISTÊMICAS E TOTALMENTE UNILATERAIS DA REQUERIDA. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE ENERGIA. IMPOSSIBILIDADE DO REPASSE PELA CONCESSIONÁRIA DE ENERGIA, DOS RISCOS DE SUA ATIVIDADE EMPRESARIAL AO CONSUMIDOR. INEXIGIBILIDADE DAS COBRANÇAS DISCUTIDAS NOS AUTOS. HOUVE EVIDENTE FALHA NA PRESTAÇÃO DE SERVIÇO, PORQUANTO SE VIOLOU O CONTRADITÓRIO. RESTA CLARO QUE A VISTORIA DEU-SE UNILATERALMENTE, O QUE AFRONTA A EXEGESE DO §7º DO ART. 129, DA RESOLUÇÃO 414/2010 DA ANEEL. NULIDADE DA AUTUAÇÃO E DA RESPECTIVA COBRANÇA. NESSE SENTIDO É O ENTENDIMENTO PACÍFICO DO EG. TJES,
+in verbis:
+"[...] 1. O termo de Ocorrência de Inspeção (TOI) é um instrumento interno de registro de ocorrência elaborado unilateralmente pela própria concessionária, não tendo força probatória suficiente e inquestionável de fraude para ocasionar a suspensão do serviço. 2. Imprescindível a realização de perícia técnica para comprovação de eventual fraude, sobretudo quando não conferida oportunidade de defesa ao responsável pela unidade consumidora, como neste caso, haja vista que o autor não estava presente no momento da inspeção realizada. 3. De acordo com entendimento consolidado pelo Superior Tribunal de Justiça, nas hipóteses de suspensão do fornecimento de energia elétrica decorrente de débito pretérito por fraude do medidor cometida pelo consumidor, não é admitido o corte do serviço quando o ilícito for aferido unilateralmente pela concessionária, tendo em vista que cabe a esta observar rigorosamente os direitos ao contraditório e a ampla defesa do consumidor na apuração do débito. (REsp 1.412.433-RS, Rel. Min. Herman Benjamin, julgado em 25/04/2018, DJe 28/09/2018 Tema 699). 4. Como cediço, a exigência de débito pretérito referente ao fornecimento de energia elétrica não viabiliza, por si só, a suspensão do serviço, porquanto pressupõe o inadimplemento de dívida atual. Isso porque trata-se de serviço essencial para todo e qualquer cidadão, sobretudo para o autor que aluga o imóvel para terceiros, onde funcionam estabelecimentos comerciais.
+[...]"
+(TJES, Classe: Agravo de Instrumento, 002193001167, Rel.: Des. WALACE PANDOLPHO KIFFER, Órgão julgador: Quarta Câmara Cível, Data de Julgamento: 27/05/2019, Data da Publicação no Diário: 04/06/2019). (7).
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95. (8). CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$ 1.000,00 (MIL REAIS), NA FORMA DO ART. 85, §8º, DO CPC/15.
+
+BÁRBARA TRABA JESUS GUZZO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
