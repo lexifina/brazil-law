@@ -1,0 +1,37 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que ANGLO AMERICAN MINÉRIO DE FERRO BRASIL S/A (ANGLO AMERICAN) propôs ação de execução contra SANTA BÁRBARA ENGENHARIA S/A (SANTA BÁRBARA).
+Houve sentença arbitral proferida no CMA 231, que tramitou perante a Câmara de Conciliação, Mediação e Arbitragem da CIESP/FIESP.
+Em fase de cumprimento de sentença, o Juízo de primeira instância acolheu parcialmente a impugnação apresentada por SANTA BÁRBARA para julgar prejudicadaa análise das preliminares de nulidade da sentença arbitral; improcedente o pedido de sujeição do crédito exequendo à Recuperação Judicial, determinando-se o prosseguimento do cumprimento de sentença; e indeferir a penhora online nas contas de titularidade de SANTA BÁRBARA (e-STJ, fls. 841/847).
+Contra essa decisão interlocutória, SANTA BÁRBARA interpôs agravo de instrumento que não foi provido pelo TJMG nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA ARBITRAL - NULIDADE - PRAZO PRESCRICIONAL - CRÉDITO NÃO SUBMETIDO AO JUÍZO DA RECUPERAÇÃO JUDICIAL -DECISÃO MANTIDA. 1. A arguição de nulidade de sentença arbitral, em sede de impugnação, deve respeitar o prazo de 90 dias previsto no art. 33, §1º da Lei 9.307/96. 2. Sendo o crédito constituído em momento posterior ao pedido de recuperação judicial, este não se sujeita ao plano de recuperação. 3. Recurso conhecido e não provido (e-STJ, fl. 919).
+Os embargos de declaração opostos por SANTA BÁRBARA foram rejeitados, enquanto os declaratórios de ANGLO AMERICAN foram parcialmente acolhidos para majorar os honorários e condenar SANTA BÁRBARA nas custas recursais, bem como para constar no acórdão a análise do pedido de fixação de multa com base no art. 774 do NCPC, o qual restou rejeitado (e-STJ, fls. 957/969).
+Inconformada, SANTA BÁRBARA interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando além de dissídio jurisprudencial a violação dos arts. 33, § 3º, da Lei da Arbitragem; e 6º, § 3º, 47 e 49 da Lei nº 11.101/05 ao sustentar que(1) a constituição do crédito não se deu com a prolação da sentença arbitral, mas sim com a celebração do contrato de execução de obras civis, portanto, antes do deferimento do pedido de recuperação judicial; e (2) inaplicável o prazo prescricional de 90 (noventa) dias no caso de eventual arguição de nulidade da sentença arbitral ocorrer em sede de impugnação ao cumprimento de sentença (e-STJ, fls. 1.083/1.111).
+Foram apresentadas as contrarrazões (e-STJ, fls. 1.160/1.174).
+O apelo nobre foi admitido (e-STJ, fl. 1.205).
+Orecurso especialfoi parcialmente conhecido e, nessa parte, provido para que o crédito objeto da habilitação subjacente fosse incluído na recuperação judicial por decisão de minha relatoria(e-STJ, fls. 1.251/1.257).
+Nas razões dos presentes embargos de declaração, SANTA BÁRBARA alegou a existência de omissão no que se refere à ausência de fixação de honorários sucumbenciais face ao acolhimento parcial da impugnação ao cumprimento de sentença (e-STJ, fls. 1.260/1.262).
+A impugnaçãofoi apresentada (e-STJ, fls. 1.266/1.270).
+É o relatório.
+A irresignação não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, SANTA BÁRBARA afirmou a existência de violação do art. 1.022, do NCPC em virtude de omissão quanto à ausência de fixação de honorários sucumbenciais face ao acolhimento parcial da impugnação ao cumprimento de sentença.
+Contudo, sem razão.
+Quanto aos honorários advocatícios,verifica-se que a decisão ora embargada deuprovimento ao recurso especial de SANTA BÁRBARA tão somente para determinar que o crédito da habilitação subjacente fosse incluído na recuperação judicial, não havendoalteração substancial da sucumbência a ponto de justificar sua fixação.
+Assim, verifica-seque não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO NÃO VERIFICADA. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. NECESSIDADE. CARÁTER FUNCIONAL E REPARADOR. NÃO ESTÉTICO. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte, a pretensão de reforma da decisão não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do NCPC.
+3. Esta Corte de Justiça já teve a oportunidade de perfilhar o entendimento de que, tendo sido o segurado em tratamento de obesidade mórbida, com cobertura da seguradora, submetido à cirurgia bariátrica, deve a operadora do plano de saúde arcar com os tratamentos necessários e complementares ao referido ato cirúrgico, destinados à cura da patologia (AgRg no AREsp 583.765/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/5/2015, DJe de 22/6/2015).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.656.178/SP, de minha relatoria, Terceira Turma, j. em 24/08/2020, DJe 27/08/2020).
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. OMISSÃO. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
