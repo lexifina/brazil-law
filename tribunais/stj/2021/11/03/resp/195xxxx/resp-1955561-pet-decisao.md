@@ -1,0 +1,7 @@
+DECISÃO
+A recorrente, AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A., apresentou petição, protocolizada sob o n. 00743875/2021(e-STJ fls. 545/554), informando que "procedeu com o pagamento da condenação por meio de depósito judicial (comprovante anexo), conforme cálculos realizados, atendendo aos índices indicados por este Tribunal. Isto posto, cumprida em sua totalidade os termos da condenação, requer que seja intimada a parte autora para dar ciência do pagamento e realizar levantamentos dos valores mediante alvará". Ao final, "requer a extinção do feito, procedendo-se com a devida baixa na distribuição e arquivamento destes autos".
+Intimado, o recorrido, ONIZIO MESSIAS DA SILVA, apresentou petição, protocolizada sob o n. 00893094/2021(e-STJ fls. 557/559), informando que "conforme exposto pela petição de fls. 545/554 (e-STJ), a recorrente adimpliu integralmente com seu débito, nos termos da condenação. Assim, o recorrido dá total e plena quitação do débito, requerendo - nos mesmo termos da petição da recorrente-, a baixa na distribuição e arquivamento destes autos".
+Os advogados subscritores das referidas peças possuempoderes para tanto (e-STJ fls. 26, 86/94 e 97).
+Cumprida em sua totalidade os termos da condenação, conforme se infere das informações constantes dos autos, denota-se a superveniente falta de interesse recursal, por perda de objeto do presente recurso especial (e-STJ fls. 425/438).
+Diante do exposto, JULGO PREJUDICADO o recurso por perda de objeto.
+Publique-se e intimem-se.
