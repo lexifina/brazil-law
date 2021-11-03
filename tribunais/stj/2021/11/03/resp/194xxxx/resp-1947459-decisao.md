@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por DANIELA MARCHINI, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (fls. 483, e-STJ), assim ementado:
+APELAÇÃO. "AÇÃO DE OBRIGAÇÃO DE FAZER". RECUSA DE CONCESSÃO DE MEDICAMENTO CLEXANE (ENOXAPARINA SÓDICA) POR PLANO DE SAÚDE. MEDICAMENTO DE USO DOMICILIAR, NÃO RESTRITO A HOSPITAIS. COBERTURA NÃO OBRIGATÓRIA. ARTIGO 10, VI DA LEI 9.656/98 QUE EXCLUI DA COBERTURA OBRIGATÓRIA REMÉDIOS PARA TRATAMENTO DOMICILIAR. FÁRMACO PRESCRITO À AUTORA QUE NÃO SE ENQUADRA NAS EXCEÇÕES DO ART. 12 DA MESMA LEI.EXCLUSÃO DE COBERTURA PREVISTA EM CONTRATO. NEGATIVA LEGÍTIMA PELA OPERADORA DE PLANO DE SAÚDE. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Nas razões do especial (fls. 494/518, e-STJ), a insurgente alega, lém de divergência jurisprudencial, violação aos arts. 51, inc. IV, e §1º, inc. II, do CDC, 10º, 12, 35-C da Lei 9.656/98 e 421 do Código Civil, sustentando ser abusiva a recusa de custeio do tratamento prescrito pelo médico, ainda que ministrado em ambiente familiar, devendo ser a parte recorrida condenada ao fornecimento/pagamento do medicamento Enoxaparina Sódica 80 mg.
+Apresentadas contrarrazões (fls. 522/532, e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Em recente deliberação , nos autos do Recurso Especial n. 1.883.654/SP (Rel. Min. LUIS FELIPE SALOMÃO, j. em 08/06/2021), por unanimidade, firmou entendimento no sentido de que é lícita a recusa de cobertura de medicamento de uso domiciliar que não se enquadre como antineoplástico oral, nem como medicação assistida (home care).
+Confira-se, a ementa, do referido precedente:
+RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO DE POLINEUROPATIA AMILOIDÓTICA FAMILIAR. MEDICAMENTO DE USO DOMICILIAR. NÃO ENQUADRAMENTO COMO ANTINEOPLÁSICO, COMO MEDICAÇÃO ASSISTIDA (HOME CARE) NEM ESTÁ ENTRE OS INCLUÍDOS NO ROL DA ANS PARA ESSE FIM. COBERTURA LEGAL OBRIGATÓRIA. INEXISTÊNCIA. PRECEDENTE DA TERCEIRA TURMA. PRESERVAÇÃO DA TRIPARTIÇÃO DE PODERES. IMPRESCINDIBILIDADE.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação
+assistida (home care) e os incluídos no rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN
+nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp n. 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. Domiciliar, de acordo com a lei, refere-se a ambiente que, necessariamente, contrapõe-se a ambulatorial e a hospitalar, com o que se exclui da cobertura legal o fornecimento de medicamentos que, mesmo
+prescritos pelos profissionais da saúde e ministrados sob sua recomendação e responsabilidade, devam ser utilizados fora de ambulatório ou hospital.
+3. O medicamento Tafamidis (Vyndaqel ), vindicado na demanda, embora
+esteja incorporado na lista de medicamentos do SUS desde antes do ajuizamento da ação, não se enquadra nos antineoplásicos orais (e correlacionados) ou como medicação assistida (home care), nem está entre os incluídos no rol da ANS para esse fim.
+4. Como ponderado em recente recurso repetitivo julgado pela Segunda Seção, REsp n. 1.755.866/SP, relator Ministro Marco Buzzi, a universalização da cobertura não pode ser imposta de modo completo e semlimites ao setor privado, porquanto, nos termos dos arts. 199 da Constituição Federal e 4º, § 1º, da Lei n. 8.080/1990, a assistência à saúde de iniciativa privada é exercida em caráter complementar, sendo certo que a previsão dos riscos cobertos, assim como a exclusão de outros, é inerente aos contratos a envolver a saúde suplementar. Isso obedece à lógica atuarial, pois, quanto mais riscos forem cobertos, mais elevada será a contraprestação pecuniária paga pela parte aderente.
+5. A saúde suplementar cumpre propósitos traçados em regras legais e infralegais. Assim sendo, não se limita ao tratamento de enfermidades, mas também atua na relevante prevenção, não estando o Judiciário legitimado e aparelhado para interferir, em violação da tripartição de Poderes, nas políticas públicas.
+6. Recurso especial provido para restabelecimento do decidido na sentença.
+(REsp 1883654/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2021, DJe 02/08/2021)
+Em igual sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. CONTRATO DE PLANO DE SAÚDE. FORNECIMENTO DE FÁRMACOS DE USO DOMICILIAR NÃO PREVISTOS EM CONTRATO FIRMADO ENTRE AS PARTES E QUE NÃO CORRESPONDEM A ANTINEOPLÁSICOS ORAIS E CORRELACIONADOS À MEDICAÇÃO ASSISTIDA, NEM AOS CONSTANTES DO ROL DA ANS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É lícita a recusa de cobertura de medicamento de uso domiciliar que não se enquadre como antineoplástico oral, de controle de efeitos adversos relacionados ao tratamento e adjuvantes, a medicação assistida (home care) e os constantes do correspondente rol da Agência Nacional de Saúde Suplementar (ANS). Ficando ressalvada as hipóteses de pagamento por liberalidade da operadora ou por força de previsão no contrato principal ou acessório do plano de saúde. Precedente.
+3. Agravo interno não provido.
+(AgInt no REsp 1939973/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021)
+No caso em tela, o Tribunal de origem julgou no sentido da jurisprudência desta Corte, devendo, assim, ser mantido o acórdão local.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao recurso especial. Com base no art. 85, § 11, do CPC/2015, majora-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte, observada a gratuidade de justiça previamente concedida.
+Publique-se.
+Intimem-se.
