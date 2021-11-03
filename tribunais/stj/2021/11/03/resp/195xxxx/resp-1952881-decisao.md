@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de recurso especial interposto por RODRIGO PEREIRA DO PRADO SOBRINHO, com apoio no art. 105, III, "a", da Constituição Federal, contra acórdão do respectivo Tribunal de Justiça, assim ementado:
+"APELAÇÃO CRIMINAL - Furtos qualificados consumado e tentado - Recurso da Defesa Aplicação do princípio da insignificância - Impossibilidade - Reconhecimento da tentativa de furto - Descabimento - O furto consuma-se com a mera inversão da posse da "res furtiva" - Afastamento das qualificadoras Inadmissibilidade - Ao que se vê, bem delineadas a incidência das qualificadoras, quer pelos laudos periciais juntados aos autos, quer pelas provas orais colhidas na regular instrução do feito - Reconhecimento do furto privilegiado Impossibilidade - O valor do salário mínimo pode ser adotado, em princípio, como referência ao que se entende como coisa de pequeno valor, não sendo, contudo, critério de absoluto rigor aritmético, cabendo ao juiz da causa sopesar as circunstâncias próprias ao caso - Precedentes - Crime único - Inocorrência, porquanto o réu praticou dois furtos, em continuidade delitiva, que ensejam a aplicação do artigo 71, parágrafo único, do Código Penal - Condenações mantidas - Penas impostas reduzidas - Regime prisional adequadamente estipulado - Não se apresenta socialmente recomendável a substituição da pena privativa de liberdade, por restritivas de direitos - Apelo parcialmente provido." (e-STJ, fl. 282).
+A defesa aponta violação ao artigo 155, §2º, do Código Penal, alegando, em suma, que, "sendo o réu sendo primário e a coisa de pequeno valor (cerca de R$ 310,00), deve ser reconhecida a aplicabilidade do parágrafo segundo do art. 155 do CP, devendo a pena privativa de liberdade ser substituída por multa ou ser aplicada a redução de 2/3 da pena em terceira fase" (e-STJ, fl. 336).
+Sustenta que o privilégio deve ser aplicado ainda que o crime seja qualificado, uma vez que não se trata de qualificadora de ordem subjetiva, nos termos da Súmula 511/STJ (e-STJ, fl. 339).
+Afirma que "o acusado reúne todas as condições para que lhe seja garantido o direito subjetivo à causa de diminuição, postulando-se a aplicação exclusiva da pena de multa" (e-STJ, fl. 339).
+Aduz, também, negativa de vigência ao art. 65, III, "d", do Código Penal, pois, "a despeito de estarmos diante da chamada confissão parcial ou qualificada, o Supremo Tribunal Federal já decidiu por diversas vezes a obrigatoriedade do reconhecimento desta circunstância atenuante" (e-STJ, fl. 340).
+Por fim, requer seja reconhecida a ofensa ao art. 44, do Código Penal, pleiteando a substituição da pena privativa de liberdade por restritiva de direitos (e-STJ, fl. 342).
+Foram apresentadas as contrarrazões (e-STJ, fls. 347-353).
+Admitido o recurso (e-STJ, fls. 356-357), subiram os autos a este Superior Tribunal de Justiça.
+O Ministério Público Federal manifestou-se "pelo não conhecimento e, se admitido, pelo parcial provimento do recurso especial" (e-STJ. fls. 370-376).
+É o relatório.
+Decido.
+A pretensão recursal merece parcial acolhimento.
+Consoante se verifica dos autos, o Tribunal a quo deu parcial provimento ao recurso defensivo para, condenar o réu pela prática dos crimes tipificados no art. 155, §4º, I, e 155, §4º, I e II, c/c o art. 14, II, todos do Código Penal, nas penas de reduzir a pena que lhe foi imposta para 02 (dois) anos, 08 (oito) meses e 20 (vinte) dias de reclusão, mais o pagamento de 12 (doze) dias-multa, no piso, não sendo possível a substituição da pena privativa de liberdade por restritivas de direitos, porquanto não se apresentou socialmente recomendável.
+O recorrente sustenta que satisfaz os requisitos do art. 155, § 2º, do Código Penal, tendo, pois, direito subjetivo ao reconhecimento da forma privilegiada do crime de furto.
+O art. 155, § 2º, do Código Penal estabelece que:
+"Art. 155 - Subtrair, para si ou para outrem, coisa alheia móvel:
+Pena - reclusão, de um a quatro anos, e multa.
+ ..
+§ 2º - Se o criminoso é primário, e é de pequeno valor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa."
+A Corte de origem afastou a forma privilegiada dos furtos, nos seguintes termos:
+"Por outro vértice, não há que se falar em furto privilegiado, na medida em que os bens subtraídos não se enquadram ao conceito de pequeno valor, à luz do disposto no §2º do art. 155 do Código Penal.
+O furto privilegiado previsto no art. 155, § 2º, do Código Penal, consiste, em síntese, em um furto com causa de diminuição de pena, nos seguintes termos: "se o criminoso é primário, e é de pequeno valor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí- la de um a dois terços, ou aplicar somente a pena de multa ." De acordo com a jurisprudência do Superior Tribunal de Justiça, para a configuração do furto privilegiado além do pequeno valor do bem subtraído e da primariedade do agente, deve também está presente o reduzido grau de reprovabilidade do crime.
+No que se refere ao pequeno valor da coisa furtada o próprio STJ tem firmado compreensão no sentido de que "o valor do salário mínimo pode ser adotado, em princípio, como referência ao que se entende como coisa de pequeno valor, não sendo, portanto, critério de absoluto rigor aritmético, cabendo ao juiz da causa sopesar as circunstâncias próprias ao caso " (AgRg no Resp nº 1227073/RS, Relator Ministro Sebastião Reis Júnior, DJe 21/3/2012).
+Nessa mesma linha, confira-se:
+(..)
+Registre-se que ainda que os bens tenham sido avaliados em cerca de R$ 310,00 (trezentos e dez reais), valor esse inferior ao salário mínimo vigente à época dos fatos, é de se ressaltar que na espécie estão presentes duas qualificadoras de escalada e arrombamento previstas no art. 155, § 4º, incisos I e II, do Código Penal, o que demonstra uma atitude altamente reprovável, com acentuada periculosidade social, não se podendo olvidar que apesar de o réu não poder ser considerado possuidor de maus antecedentes, existem em face dele, apontamentos criminais em delitos dolosos (fls. 60/65).
+Em razão disso, considero descabido o pleito de aplicação do furto privilegiado ao caso em comento." (e-STJ, fls. 287-289).
+Como se vê, o Tribunal a quo deixou de reconhecer o privilégio do art. 155, § 2º, do CP, tendo em vista a incidência de duas qualificadoras - escalada e arrombamento -, bem como pelo fato de existirem, em nome do réu, "apontamentos criminais em delitos dolosos".
+Ao assim decidir, a Corte de origem contrariou o entendimento deste Superior Tribunal de Justiça. Isso porque, nos termos da Súmula n. 511/STJ, "é possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crime de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva".
+Na espécie, o recorrente é tecnicamente primário, o valor da res furtivaé menor que um salário mínimo vigente à época dos fatos e as qualificadoras incidentes - rompimento de obstáculo e escalada - são de ordem objetiva.
+Nesse contexto, imperioso o reconhecimento do benefício do art. 155, 2º, do CP.
+Ressalte-se que, ao aplicar a pena do furto privilegiado, o julgador pode, no exercício de sua discricionariedade motivada, optar por uma das medidas previstas no § 2º do artigo 155 do CP - substituir a pena de reclusão pela de detenção, diminuí-la de 1 (um) a 2/3 (dois terços), ou aplicar somente a pena de multa - todas igualmente benéficas ao réu. Todavia, deve estabelecer aquela que, diante do caso concreto, seja necessária e suficiente para a reprovação e prevenção do delito.
+Conforme se observa dos autos, os bens furtados pelo recorrente foram avaliados em R$ 310,00 (oitocentos reais), ou seja, aproximadamente 32% do valor do salário mínimo vigente à época do fato, que era de R$ 954,00. Além disso, apesar das qualificadoras não constituírem óbice à concessão da benesse, devem ser sopesadas na escolha da medida mais adequada. Assim, considerando o valor dos bens e a existência de duas qualificadoras, deve-se aplicar a redutora de pena, na fração de 2/3.
+No tocante à questão amparada no art. 65, III, "d" do CP, cumpre ressaltar que, nos moldes da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação, como no caso em análise.
+A fim de corroborar esse entendimento, podem ser mencionados os seguintes precedentes:
+" ..
+1. Se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação. Inteligência da Súmula n. 545 do STJ.
+2. Não é possível realizar a compensação integral entre a confissão e a
+reincidência, ante a multirreincidência do réu.
+Omissis.
+5. Agravos regimentais não providos." (AgInt no REsp 1661261/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 3/8/2017, DJe 10/8/2017, grifou-se).
+" ..
+2. A confissão parcial do réu configura a atenuante do art. 65, III, d, do Código Penal quando utilizada na formação da convicção do Magistrado. Nesse sentido: HC n. 337.662/RJ, Relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 01/08/2016. Súmula n. 545 do Superior Tribunal de Justiça - STJ.
+Habeas corpus não conhecido, mas concedida a ordem, de ofício, para compensar a reincidência com a confissão espontânea, redimensionando a pena do paciente para 6 anos, 2 meses e 20 dias de reclusão, além do pagamento de 14 dias-multa, mantidos os demais termos do decreto condenatório." (HC 393.104/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA
+TURMA, julgado em 27/6/2017, DJe 30/6/2017, grifou-se).
+Na espécie, as instâncias ordinárias reconheceram expressamente a ocorrência da confissão, quanto ao primeiro crime - furto qualificado consumado.
+A propósito, veja-se o seguinte trecho da sentença:
+"Isto porque as declarações e os depoimentos colhidos durante a instrução são coerentes, harmônicos e verossimilhantes, bem como vão de encontro às confissões, mesmo que parciais, ofertadas pelo imputado, e não deixam qualquer dúvida quanto à autoria." (e-STJ, fl. 198).
+(..)
+Não há falar, ainda, em aplicação da atenuante da confissão espontânea ao acusado, pois, conforme se vê de seu interrogatório, sua confissão foi parcial (não reconheceu toda a imputação), porquanto deixou de reconhecer a prática do furto tentado." (e-STJ, fl. 201).
+Passa-se, assim, ao redimensionamento da reprimenda.
+No tocante à primeira etapa do cálculo, cumpre destacar, inicialmente, que, conforme amplamente discorrido, o réu é primário. No entanto, as instâncias ordinárias exasperaram a sanção básica, sob o fundamento de que "o acusado responde a inúmeras ações penais pela prática de delitos idênticos, inclusive com condenação em primeira instância, demonstrando que faz do crime meio de vida (certidão de fls. 82/84), além da presença de duas qualificadoras" (e-STJ, fl. 200).
+Todavia, de acordo com a Súmula 444 desta Corte Superior, tem-se como firme o entendimento de que inquéritos policiais e ações penais em curso não podem ser utilizados para exasperar a pena-base, seja como maus antecedentes, ou como personalidade, voltada à prática de delitos.
+Desse modo, imperiosa a fixação da basilar no seu mínimo legal.
+Quanto ao furto consumado, fixo a pena-base em 2 anos e 10 dias-multa.
+Na segunda etapa, não obstante o reconhecimento da incidência da atenuante confissão espontânea, não é possível a redução da pena, haja vista que "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal" (Súmula 231/STJ).
+Na terceira fase, em razão da incidência do art. 155, § 2º, do CP, reduzo a pena em 2/3, ficando a reprimenda estabelecida em 8 meses de reclusão, além de 7 dias-multa.
+Quanto ao furto tentado, pelos mesmos motivos anteriormente descritos, fixo a pena-base em 2 anos e 10 dias-multa.
+Deixo de aplicar a redução relativa à confissão espontânea (Súmula 231/STJ)
+Na etapa derradeira, reduzo a sanção em 2/3, em razão da tentativa, o que resulta na pena de 8 meses de reclusão, além de 7 dias-multa.
+Aplicando-se o redutor do art. 155, § 2º, do CP, na fração de 2/3, fica a reprimenda estabelecida em 2 meses e 20 dias de reclusão, além de 4 dias-multa.
+Por fim, tendo em vista a continuidade delitiva, exaspero a pena do crime mais grave em 1/6, ficando a pena definitivamente fixada em 9 meses e 10 dias de reclusão, no regime inicial aberto (art. 33, 2º, "c", do CP), mais 8 dias-multa.
+Presentes os requisitos do art. 44 do CP, cabível a substituição da sanção corporal por uma pena restritiva de direitos, a ser determinada pelo Juízo das Execuções Penais.
+Ante o exposto, nos termos do art. 932, VIII, do Código de Processo Civil de 2015, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de reconhecer a confissão espontânea quanto ao crime de furto consumado, bem como a incidência do privilégio constante do § 2º do art. 155 do Código Penal e, por conseguinte, readequar a pena do recorrente, nos termos da fundamentação.
+Publique-se. Intimem-se.
