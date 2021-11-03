@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurançainterposto por Fernando Fernandes Santos contra o acórdão às fls. 87/94, proferido pela Seção Cível de Direito Público do Tribunal de Justiça do Estado da Bahia, resumido pela seguinte ementa:
+PROCESSO CIVIL. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. DECISÃO MONOCRÁTICA QUE INDEFERIU A PETIÇÃO INICIAL. ADICIONAL DE INSALUBRIDADE. PANDEMIA. IMPOSSIBILIDADE. NECESSIDADE DE LAUDO PERICIAL. PROVIMENTO DEVIDAMENTE FUNDAMENTADO. INEXISTÊNCIA DE NOVOS ARGUMENTOS. RECURSO CONHECIDO E NÃO PROVIDO.
+Sabe-se que é necessária a impugnação específica dos fundamentos da decisão recorrida, devendo o recorrente "enfrentar" diretamente os argumentos nela aduzidos como razão de decidir para garantir a aptidão de gerar a dialética processual. Ante a ausência de fundamentos de fato ou de direito que possam alterar o decisum hostilizado, impõe-se a sua manutenção, mormente no caso específico, onde as razões recursais apresentadas pela parte recorrente não demonstram qualquer suporte fático a modificar a decisão, motivo pelo qual deve ser mantida. (fl. 88).
+Nas razões recursais (fls. 45/61), o recorrente alega ser"patente a necessidade do pagamento do adicional de insalubridade pleiteado, em que pese qualquer argumentação de necessidade de produção de laudo específico e regulamentação prevista no Decreto Estadual n.º 9.967/2006, que disciplina a concessão dos adicional de insalubridade aos servidores públicos dos órgãos da administração direta, das autarquias e das fundações do Poder Executivo Estadual" (fl. 50).
+Ademais, aduz que "o exercício da atividade policial configura condições insalubres, principalmente com o atual contexto em que vivemos - PANDEMIA COVID-19, possibilitando o recebimento do adicional requerido sem necessidade de maiores análises/laudos!" (fl. 52).
+Requer, por isso, o provimento do recurso ordinário.
+Recurso sem contrarrazões (fl. 129).
+O Ministério Público Federal teve vista dos autos às fls. 141/145.
+Recurso tempestivo, bem como regular a representação (fl. 18).
+Gratuidade de justiça deferida pela Corte de origem (fl. 40).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A concessão da segurança - e, por extensão, o provimento do respectivo recurso ordinário - pressupõe a existência de direito líquido e certo da parte autora a ser protegido de ilegalidade ou abuso de poder, conforme dispõe o art. 1º da Lei n.º 12.016/2009:
+Art. 1º Conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça.
+A ilegalidade reside na recusa de se aplicar a lei aos casos em que esta deva incidir, ou na sua equivocada aplicação em hipóteses nas quais ela não tenha incidência. O abuso de poder, por sua vez, consiste na ação ou omissão da autoridade que, ao arrepio dos limites de sua competência ou das formas legalmente previstas, conduza-se de modo contrário ao ordenamento jurídico.
+À luz dessas premissas, andou bem a Corte de origem.
+Na hipótese, o Tribunal de Justiça do Estado da Bahia denegou a segurança sem resolução do mérito, sob o fundamento de que"para a concessão de adicional de periculosidade/insalubridade faz-se necessária a apresentação de laudo pericial específico, atestando a ocorrência do risco de perigo e em que grau o servidor se expõe, nos termos do artigo 7º do Decreto n.º9.967/2006, que disciplina a matéria no âmbito do Poder Executivo Estadual" (fl. 93).
+Dessarte, não merece prosperar o argumento do recorrente de que, por ser policial militar, a insalubridade das atividades desempenhadas deve ser presumida, dispensando-se, por isso, a confecção de laudo pericial.
+Ora, sabe-se que nem todas as atividades desempenhadas pela categoria são consideradas insalubres, uma vez que existem, por exemplo, serviços de cunho meramente administrativo. Na hipótese, o recorrente não colacionou qualquer prova documental que ateste o trabalho exercido em condições perigosas ou insalubres.
+Com efeito, como bem mencionou a Corte Estadual, a jurisprudência desta Corte Superior é pacífica quanto à impossibilidade de dilação probatória na via mandamental, impondo-se a denegação da ordem em todas as hipóteses em que o acervo de provas previamente constituído, isto é, apresentado já com a petição inicial, não for idôneo e suficiente para sustentar as alegações autorais, como ocorre no caso sob exame.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO. IMPETRAÇÃO CONTRA INSTRUÇÃO NORMATIVA. INCIDÊNCIA DO ENUNCIADO N. 266 DA SÚMULA DO STF. ALEGAÇÃO DE VIOLAÇÃO DOS PRINCÍPIOS DE PUBLICIDADE, EFICIÊNCIA E RAZOABILIDADE. NÃO COMPROVAÇÃO. PRETENSÃO DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+ ..
+V - A jurisprudência desta Corte Superior é firme no sentido de que o mandado de segurança demanda a existência de um direito líquido e certo evidente, a ser comprovado por provas pré-constituídas, inadmitida a fase instrutória. Quando o conjunto probatório não é suficiente para comprovar o direito pleiteado e houver a necessidade de incursão em situações fáticas específicas, não será possível a utilização do mandamus, por impossibilidade de dilação probatória.
+VI - Não sendo possível identificar, por meio das provas pré-constituídas, o direito líquido e certo a ser amparado por esta via mandamental, impõe-se reconhecer que não assiste razão à recorrente.
+VII - Agravo interno improvido.
+(AgInt no RMS 52.679/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 10/12/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. POLICIAL MILITAR. ADICIONAL DE PERICULOSIDADE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DO DIREITO LÍQUIDO E CERTO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. "A opção pela via do mandado de segurança oferece aos impetrantes o bônus da maior celeridade processual e da prioridade na tramitação em relação às ações ordinárias, porém, essa opção cobra o preço da prévia, cabal e incontestável demonstração dos fatos alegados, mediante prova documental idônea, a ser apresentada desde logo com a inicial, evidenciando a liquidez e certeza do direito afirmado" (AgRg no MS 19.025/DF, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 21/9/2016).
+ ..
+4 Agravo interno não provido.
+(AgInt no RMS 56.351/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 05/10/2018)
+Por isso que a ausência nestes autos, de robusta e convincente prova pré-constituída de ilegalidade ou de abuso de poder, está a inibir a concessão da ordem, recomendando a negativa de provimento a este recurso ordinário, com a consequente manutenção do acórdão recorrido.
+ANTE O EXPOSTO,com fundamento nos arts. 932, VIII, do CPC, e 34, XVIII, "b", do RISTJ, bem como na Súmula 568/STJ, nego provimento ao presente recurso ordinário.
+Publique-se.
