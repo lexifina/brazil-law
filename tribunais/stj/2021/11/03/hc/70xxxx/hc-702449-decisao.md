@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEONARDO DA FONTOURA NUNES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 5180089-88.2021.8.21.7000).
+O paciente teve a prisão preventiva decretada diante de representação da autoridade policial, por suposta prática dos delitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+O decreto prisional fundou-se na reincidência específica do paciente, bem como na gravidade das circunstâncias do delito - associação de mais de quinze pessoas para o tráfico e apreensão de expressiva quantidade de entorpecentes. Impetrado writ originário, a ordem foi denegada.
+A defesa sustenta a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea do decreto preventivo, que não teria indicado nenhum dos requisitos previstos no art. 312 do Código de Processo Penal.
+Alega que o paciente foi absolvido do crime pelo qual havia sido condenado.
+Requer a concessão da ordem para que seja revogada a prisão preventiva do paciente.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 68-69):
+ ..  Veja-se que o paciente está sendo acusado de integrar facção criminosa atuante na cidade de Rosário do Sul, desenvolvendo atividades de narcotraficância.
+Ademais, consoante denota-se da extensa investigação realizada pela Autoridade Policial com as quebras de sigilo dos aparelhos telefônicos, consta que o paciente fornecia drogas para a coinvestigada Priscila revendê-las, assim como realizava o transporte de substâncias psicoativas, conforme comprovam as conversas e áudios colhidos.
+Outrossim, como já mencionei na decisão in limine, não é esta a primeira incursão do paciente na seara delitiva, tudo a reforçar, pelo momento, a necessidade da manutenção de sua segregação preventiva.
+Nesse sentido, demonstrada a gravidade concreta das condutas perpetradas pelo paciente, cujo modus operandi denota certo desprezo pela saúde pública.
+Maiores considerações sobre o delito convergem em discussão probatória (eventual ilegalidade na realização das interceptações telefônicas),vedada em sede de habeas corpus, em virtude de seu caráter de cognição sumária.
+Igualmente, observo que embora o crime não tenha envolvido violência e/ou grave ameaça contra a pessoa, a gravidade concreta do delito está demonstrada, ao menos em um primeiro momento, ante as diligências realizadas pela Autoridade Policial com extensa investigação.
+ ..
+Confira-se ainda excerto da decisão que decretou a segregação cautelar (fls. 41-42):
+ ..  Não bastasse, o envolvimento de cerca de QUINZE PESSOAS (e até mais), com alta quantidade de entorpecentes, e até mesmo presos em cumprimento de pena, são circunstância aptas a indicar que os delitos de tráfico e associação deste expediente refogem à gravidade ordinariamente conjecturada pelo Legislador, pelo que necessita de pronta e imediata resposta estatal.
+Outrossim, salienta-se, neste caso, que os relatórios de investigações demonstram as repartições de funções entre os associados, denotando uma clara atividade de estabilidade e permanência, sendo necessária a segregação como forma, inclusive, de desarticular a rede criminosa.
+ ..
+Não obstante isto, como bem pontuado pelo Parquet, considerando a evidente estabilidade da associação, é certo que esta segue ativa e, portanto, presente a contemporaneidade, uma vez que o risco à ordem pública é inequivocamente atual, a fim de conter a disseminação do tráfico de drogas em Rosário do Sul. Até porque, pelo que se percebe do expediente, mesmo após a apreensão dos celulares, a prática delitiva seguiu acontecendo.
+ ..
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No caso, a gravidade concreta e o modus operandi da conduta - associação de mais de quinze pessoas para o tráfico e apreensão de expressiva quantidade de entorpecentes, com repartição de funções entre os associados -, a evidenciar a periculosidade do agente, foram considerados pelo Juízo de primeiro grau e pelo Tribunal a quo para a decretação e manutenção da prisão preventiva e justificam a imposição da medida extrema em detrimento das cautelares substitutivas.
+A prisão preventiva tem natureza excepcional, estando sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 282, I e II, 312, 313 e 315 do Código de Processo Penal, com as alterações da Lei n. 13.964/2019.
+Registre-se também que a gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo (RHC n. 119.549/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 26/2/2020.).
+Assim, na via estreita do habeas corpus, não há razão para a reforma do acórdão impugnado.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
