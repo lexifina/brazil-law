@@ -1,0 +1,22 @@
+DECISÃO
+GUILHERME RIO BRANCO OLIVEIRAagrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territóriosna Apelação Criminal n. 0001620-48.2018.8.07.0001.
+Consta dos autos que o agravante foi condenado a 7 anos de reclusão, em regime semiaberto, mais multa, pela prática do delito de tráfico de drogas.
+O agravante aponta negativa de vigência aos arts. 33, § 4º, da Lei n. 11.343/2006. Busca a incidência da minorante prevista no referido dispositivo legal.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo, para que seja negado provimento ao recurso especial.
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade.
+Segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Vale dizer, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+Na espécie, constato que o Juiz sentenciante assim justificou a negativa do benefício (fls. 415-416):
+Na TERCEIRA FASE, igualmente não há causas de aumento ou diminuição de pena Quanto ao tráfico privilegiado, previsto no § 4º do art. 33 da Lei de Drogas, é inaplicável ao presente caso, pois as conversas por aplicativos de mensagens trocadas pelo acusado e trazidas aos autos pelo Ministério Público evidenciam que ele se dedicada a atividade criminosa de mercancia ilícita de drogas.
+Inclusive, as mensagens trazidas pelo Ministério Público no corpo de suas alegações finais são do ano de 2018. Se o próprio réu afirma que traficava no ano de 2015, é até possível que ele tenha ficado envolvido com o tráfico de drogas durante longos três anos, o que afasta por completo a aplicabilidade do § 4º do art.33 da Lei de Drogas ao presente caso.
+Assim, inexistindo causas de diminuição a ser considerada nesta fase da dosimetria, torno a pena definitiva em 07 (sete) anos de reclusão e 700 (setecentos) dias multa.
+Pela leitura do trecho transcrito, observo que a instância ordinária deixou de aplicar a referida causa de diminuição em razão das provas dos autos- mensagens de celulares juntadas pelo Ministério Público- que confirmaram a dedicação do réu a atividades criminosas, em especial porque demonstram a prática do tráfico desde 2018.
+Dessa forma, não identifico nenhuma violação legal no ponto em que, fundamentadamente, foi negada ao agravante a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, haja vista que foram apontados elementos concretos que indicam a sua dedicação a atividades criminosas, notadamente ao tráfico de drogas.
+Ademais, imperioso salientar que, para entender de modo diverso e afastar a conclusão de que o paciente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada em recurso especial.
+Portanto, fica afastado a apontada negativa de vigênciadecorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+À vista do exposto, conheço do agravo, para conhecer do recurso especial e negar-lhe provimento.
+Publique-se e intimem-se.
