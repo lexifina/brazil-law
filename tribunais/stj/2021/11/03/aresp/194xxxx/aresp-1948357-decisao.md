@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Incorporação Tropicale Ltda., com fundamento no art. 105, III, aec, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 368):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DO IMÓVEL. APLICAÇÃO DO CDC. CLÁUSULA DE TOLERÂNCIA. 180 DIAS CORRIDOS. JUROS DE MORA E MULTA. TERMO INICIAL. RESSARCIMENTO IPTU. DANO MORAL CONFIGURADO. VALOR DA INDENIZAÇÃO MANTIDO.
+1 - Em se tratando de contrato de compra e venda tendo como parte o consumidor, parte hipossuficiente do negócio jurídico, cabível a incidência do Código de Defesa do Consumidor, por trata-se de nítida relação de consumo.
+2 - A cláusula de tolerância pode ser fixada em dias úteis, porém, caso estipulada no prazo máximo de 180 (cento e oitenta) dias, tal prazo deve ser considerado em dias corridos. Precedentes do STJ.
+3 - O atraso injustificado na entrega do imóvel enseja o dever de ressarcimento das taxas de IPTU anteriores à entrega das chaves ao consumidor.
+4 - Os juros de mora e multa sobreas quantias pagas pelos consumidores deverão incidir a partir da citação, nos termos do art. 405 do Código Civil e art. 240 do Código de Processo Civil.
+5 - O quantum indenizatório deve ser suficiente para atenuar a dor sofrida pelo ofendido e, em contrapartida, impor ao culpado uma sanção de caráter pedagógico apta a evitar a reincidência, sem, contudo, exagerada a ponto de ocasionar enriquecimento ilícito. APELO CONHECIDO PORÉM DESPROVIDO.
+Nas razões do recurso especial, a agravanteapontouviolação dos arts. 186, 187, 421 e 422, todos doCódigo Civil, bem como divergência jurisprudencial(e-STJ, fls. 375-387)
+Sustentouque a parte recorrida não demonstrou a existência de dano moral e que devem ser mantidas todas as cláusulas contratadas, não sendo admitida a imposição de qualquer premissa pelo Juízo.Alegou, ainda, não ser devido o ressarcimento do IPTU que foi pago pela compradora do imóvel.
+O recurso especial não foi admitido na origem, o que provocou a interposição do presente agravo (e-STJ, fls. 407-409).
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+No tocante ao pleito de afastamento da multa por atraso,constata-se que a matéria não foi objeto de apreciação pelo Tribunal estadual,configurando-sea ausência de prequestionamento a atrair a incidência das Súmulas 282 e 356 do STF.
+Oportuno assinalar, ainda, que a jurisprudência deste Tribunal Superior é tranquila no sentido da necessidade de prequestionamento dos dispositivos que se entendem violados, mesmo em se tratando de matéria de ordem pública.
+Veja-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO HIPOTECÁRIA. EMBARGOS. PRAZO. MANDADO DE CITAÇÃO. JUNTADA. NULIDADE DA PENHORA E PRESCRIÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. NECESSIDADE. SÚMULA Nº 283/STF. CLÁUSULAS CONTRATUAIS. ABUSIVIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Após a vigência da Lei nº 11.382/2006, o prazo para oposição de embargos à execução passou a ser de 15 (quinze) dias, contados, no entanto, a partir da juntada aos autos do mandado de citação.
+3. A falta de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283/STF.
+4. A ausência de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo nobre (Súmula nº 282/STF). As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Agravo interno não provido. (AgInt no REsp 1633820/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Quanto aos juros de mora, sua incidência a partir da citação está em conformidade com o entendimento desta Corte Superior.
+Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA DO BEM. SÚMULA 7 DO STJ. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. JUROS DE MORA. CITAÇÃO. DANOS MORAIS. OCORRÊNCIA. VALOR. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, o acolhimento da pretensão recursal, para afastar a culpa da construtora pelo atraso na entrega do imóvel, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+2. O STJ possui firme o entendimento no sentido de que na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+3. No caso de ilícito contratual, os juros de mora são devidos a partir da citação. Precedentes.
+4. No caso concreto, o Tribunal de origem concluiu que o atraso verificado provocou mais que mero dissabor, sendo devida a indenização por danos morais. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+5. A revisão do quantum fixado a título de danos morais somente é permitida quando irrisório ou exorbitante o valor. Ausente tais circunstâncias, a análise encontra óbice na Súmula n. 7/STJ.
+6. Agravo interno não provido. (AgInt no REsp 1855064/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 11/06/2021)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA . ART. 1.022 DO CPC/2015. ART. 1.013 DO CPC/2015. DEVOLUTIVIDADE. PRINCÍPIO DO TANTUM DEVOLUTUM QUANTUM APELLATUM. DANO MORAL. RESPONSABILIDADE CONTRATUAL. PASSAGEIRA. ÔNIBUS. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. CORREÇÃO MONETÁRIA. ARBITRAMENTO. SUMULA Nº 362/STJ. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, quanto ao pedido de redução do dano moral, a recorrente não logrou aduzir os motivos de fato e de direito que evidenciavam a intenção de reforma da decisão recorrida com base na dedução do seguro obrigatório. O pedido foi fundamentado no princípio da proporcionalidade e no enriquecimento ilícito.
+4. Em caso de responsabilidade contratual, os juros moratórios incidem a partir da citação. Precedentes.
+5. Nas indenizações por dano moral, o termo inicial para a incidência da correção monetária é a data em que foi arbitrado o seu valor. Precedentes.
+6. Agravo interno não provido. (AgInt no AgInt no AREsp 1589376/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/06/2021, DJe 16/06/2021)
+Portanto, nesse ponto, aplica-se o disposto na Súmula 83/STJ.
+A análise do acórdão da apelaçãorevelou o seguinte(e-STJ, fls. 362-363):
+Extrai-se dos autos que os autores/aqui apelados manejaram ação de indenização alegando o atraso na entrega das obras referentes ao imóvel situadona Avenida Perimetral Norte, Setor Cândida de Morais, Edifício Búzios, Residencial Salinas, unidade 1402.
+A obra estava prevista para ser entregue em junho de 2014, todavia, somente foi efetivada em junho de 2016.
+O pacto previu, em sua cláusula décima terceira, o prazo de tolerância para entrega da obra, a saber:
+"CLÁUSULA DÉCIMA TERCEIRA - O imóvel objeto da presente transação tem um prazo de entrega prevista para 54 (cinquenta e quatro) meses contados da data da expedição do alvará de Construção pela Prefeitura Municipal de Goiânia, admitida uma tolerância de 180(cento e oitenta) dias úteis."
+Entretanto, segundo o entendimento jurisprudencial dominante, é possível estabelecer a cláusula de tolerância em dias úteis, porém, caso fixada no prazo máximo admitido, que é de 180 (cento e oitenta) dias, deverá ser interpretada em dias corridos, sob pena de ensejar desequilíbrio indevido na relação contratual, onerando sobremaneira o consumidor, inclusive acerca da clareza e compreensão exata do instrumento contratual.
+(..)
+Portanto, correta a sentença que fixou o prazo de tolerância em 180 (cento e oitenta) dias corridos, em perfeita conformidade com a jurisprudência pátria.
+A partir daí, então, concluiu-se pelo atraso da entrega da obra, fazendo-o com base nos elementos fáticos dos autos, nesses termos (e-STJ, fl. 366):
+Outrossim, deve a apelante responder também, pelos danos materiais decorrentes de sua mora, que, no caso, corresponde à taxa de IPTU paga pelos autores nos anos de 2014 e 2015, pois anteriores à entrega das chaves do imóvel aos apelados.
+(..)
+Evidenciado o atraso na entrega da obra, o Juiz a quo condenou a apelante ao pagamento de indenização por danos morais no valor de R$ 10.000,00 (dez mil reais), o que, a meu ver, não merece reprimenda. Isso porque, embora haja entendimento no sentido de que o descumprimento contratual, em regra, não gera danos morais, entendo que o caso em epígrafe ultrapassa o mero aborrecimento.
+Com efeito, em se tratando de atraso na entrega de moradia, a demora não pode ser tida como mero dissabor, mas sim como fator suficiente à causação do dano extrapatrimonial, pois a frustração da expectativa no recebimento do imóvel, somados aos transtornos de ordem financeira, bem como da necessidade de tantas tentativas na obtenção das chaves constituem fatores suficientes para causar abalo psíquico, configurando, assim, o dano moral.
+Infere-se, também, que o acórdão estadual, com base o conjunto fático-probatório, rechaçou a alegação de que não houve dano moral nem dano material, solução que não destoa do que já foi decidido por este Tribunal Superior.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA.ENTREGA DA OBRA. ATRASO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. CERCEAMENTO DE DEFESA. DANO MORAL. CARACTERIZAÇÃO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever a conclusão do aresto impugnado acerca da existência de cerceamento de defesae da caracterização do dano moral encontra óbice nas Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido. (AgInt no AREsp 17620925/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 23/8/2021, DJe 30/8/2021).
+Assim sendo, para infirmar tais conclusões e entender, como pretende a recorrente, por sua ilegitimidade passiva eausência de atraso na entrega da obra e de danos morais e materiais indenizáveis,seria necessário o reexame dos elementos fáticos dos autos, o que é obstado em recurso especial, dado o disposto nas Súmulas 5 e 7/STJ.
+Frise-se, por relevância, que há expressa menção no acórdão recorrido acerca da demonstração dos gastos da parte agravada com o pagamento do IPTU no período de atraso na entrega da obra - caracterizando o dano material -e que a demora foi de mais de 2(dois) anos, ensejando o dano moral.
+Nesse aspecto, já se decidiu no Superior Tribunal de Justiça ser possível a condenação ao pagamento dos danos morais, conforme o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANOS MORAIS. ATRASO POR PERÍODO EXPRESSIVO. CONFIGURAÇÃO. INÉPCIA DO PEDIDO SOBRE LUCROS CESSANTES E INOVAÇÃO RECURSAL RELATIVA À ÍNDOLE ABUSIVA NA ATRIBUIÇÃO CONTRATUAL DE ENCARGOS SOBRE O IMÓVEL. SÚMULA 211/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso foi superior a 1 (um) ano e 7 (sete) meses após o prazo de tolerância. 2. O conhecimento do recurso especial exige o prequestionamento da matéria de direito federal, ocorrente quando o Tribunal de origem manifesta-se inequivocamente acerca da tese recursal, condição não verificada quanto às teses de inépcia e de inovação recursal, mesmo após a oposição de embargos de declaração. Incidência da vedação prevista na Súmula 211/STJ.
+3. Agravo interno a que se nega provimento.(AgInt no AREsp 1742299/DF, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 7/6/2021, DJe 1º/8/2021).
+Cabe salientar, ainda, que, em virtude da incidência dos referidos óbices sumulares, fica prejudicada a análise da divergência jurisprudencial, pois inexistente similitude fático-jurídica entre os julgados confrontados.
+Diante do exposto, conheço agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da recorrida para 20% (vinte por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMÓVEL. PROMESSA DE COMPRA E VENDA. ENTREGA DA OBRA. ATRASO RECONHECIDO. MULTA. IMPOSIÇÃO.PREQUESTIONAMENTO. FALTA. SÚMULAS 282 E 356/STF. APLICAÇÃO. JUROS DE MORA A PARTIR DACITAÇÃO. SÚMULA 83/STJ. DANO MORAL E MATERIAL CARACTERIZADOS. NECESSIDADE DE PAGAMENTO DE IPTUE DEMORA DE DOIS PARA ENTREGA DO BEM.REEXAME DAS QUESTÕES. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
