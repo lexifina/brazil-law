@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de RONALDO VIEIRA MILLESTETT contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sulproferido nos Embargos Infringentes e de Nulidade n.0001108-68.2017.8.12.0031/50000.
+Consta nos autos que o Pacientecumpre pena de17 (dezesste) anos,10 (dez) meses e 20 (vinte) dias de reclusão, em regime fechado, pela prática dos crimes detráfico de drogas privilegiado, tráfico de drogas e associação para o tráfico(fl. 47).
+Colhe-se, ainda, que a Defesa formulou pedidode retificação de cálculo de penasdiante danova redação dada ao art. 112 da Lei de Execução Penal pelaLei n.13.964/2019. Todavia, oJuízo das Execuções Criminais indeferiuo pleito (fl. 133).
+Irresignada, a Defesa interpôs agravo em execução penal, que foi desprovido, por maioria, pela Corte de origem (fls. 41-52).
+Posteriormente, opôs Embargos infringentes, os quais restaram rejeitados (fls. 107-115).
+Nestewrit, segundo a Defensoria Pública, no caso do Paciente, embora seja reincidente, não se trata de reincidência específica na prática de crime hediondo ou equiparado e, desse modo, o lapso aplicávelpara progressão de regime éde 40% (quarenta por cento).
+Requer, assim, a retificação do cálculo daspenas, a fim de constar o prazo de 40% (quarenta por cento) para fins de progressão de regime prisional, nos termos da nova redação do art.112, inciso V, da Lei de Execução Penal.
+O pedido liminar foi indeferido (fls. 133-134).
+Informações prestadas às fls. 137-141.
+Parecer do Ministério Público Federal pela concessãoa ordem ex officio (fls. 148-152).
+É o relatório. Decido.
+Com o advento da Lei n. 13.964/2019, o sistema progressivo de regime prisional passou a ter critérios diferenciados, sobretudo no que concerne ao requisito objetivo.
+Antes da vigência do mencionado regramento, o art. 112 da Lei de Execução Penal previa como requisito objetivo o cumprimento da fração de 1/6 (um sexto) da pena no regime anterior, para os condenados por crimes comuns (primários ou reincidentes). Já para os condenados por crimes hediondos, a Lei n. 8.072/1990, em seu art. 2.º, § 2.º, estabelecia as frações de 2/5 (para os réus primários) e 3/5 (para os reincidentes).
+Sobre a fração necessária para a progressão de regime dos condenados por crimes hediondos, esta Corte Superior firmou o entendimento de que a interpretação cabível para o art. 2.º, § 2.º, da Lei n. 8.072/1990 (redação dada pela Lei n. 11.464, de 28/03/2007), era a de que, no caso de condenação por crime hediondo ou equiparado, seria necessário, para a progressão de regime prisional, o cumprimento de 2/5 (dois quintos) da pena se o apenado fosse primário, e de 3/5 (três quintos) do total da pena, se reincidente, sendo irrelevante se a reincidência fosse específica ou não.
+Nesse sentido:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROGRESSÃO DE REGIME. CRIME HEDIONDO. CONDENAÇÃO ANTERIOR POR LESÕES CORPORAIS. APLICAÇÃO DA FRAÇÃO DE 3/5 APENAS AO REINCIDENTE ESPECÍFICO. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO DESPROVIDO.
+I - Pretende o agravante o reconhecimento da ilegalidade do v. acórdão vergastado, o qual reconheceu que, para a progressão ao regime semiaberto, é necessário o cumprimento de 3/5 da pena, tendo em vista a existência de duas condenações (crime de lesão corporal e tráfico), sob o argumento de que apenas o reincidente específico em crime hediondo deverá cumprir 3/5 (três quintos) da pena que lhe foi imposta para poder progredir de regime prisional.
+II - Contudo, não há reparos a serem feitos aos pronunciamentos das instâncias ordinárias, pois, no tocante à reincidência indicada no § 2º do artigo 2º da Lei dos Crimes Hediondos, não se exige "que o sentenciado seja reincidente específico em crimes hediondos ou equiparados. O conceito de reincidência referido no art. 2º, § 2º, da Lei nº 8.072/90, com redação dada pela Lei nº11.464/2007, é o do art. 63 do CP (reincidência genérica)" (JESUS, Damásio de. Código de Processo Penal Anotado. 23ª ed. São Paulo: Saraiva, 2009, p.729). Precedentes.
+Agravo regimental desprovido." (AgRg no RHC 56.240/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/08/2015, DJe 17/08/2015; sem grifos no original.)
+Contudo, com a entrada em vigor da Lei n. 13.964/2019, os lapsos temporais necessários à progressão prisional passaram a ser previstos exclusivamente no art. 112 da Lei de Execução Penal, cujo teor é o seguinte:
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+I - 16% (dezesseis por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça;
+II - 20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça;
+III - 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça;
+IV - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça;
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for:
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;
+b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ou c) condenado pela prática do crime de constituição de milícia privada;
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado;
+VIII - 70% (setenta por cento) da pena, se o apenado for reincidente em crime hediondo ou equiparado com resultado morte, vedado o livramento condicional."
+No caso,embora condenado pela prática de crime equiparado a hediondo (tráfico de drogas), o Paciente é reincidente em crime comum (tráfico privilegiado). Essa conjuntura não encontra previsão específica na nova lei, razão pela qual, diante da lacuna legislativa, deverá o julgador integrar a norma, resolvendo a controvérsia de maneira mais favorável ao Sentenciado, isto é, com aplicação do percentual previsto para o Réu primário.
+Assim, ao contrário do que entenderam as instâncias ordinárias, não há como se aplicar a fração de 3/5 (três quintos), correspondente a 60% (sessenta por cento), para a progressão de regime do Paciente, tendo em vista que, de acordo com a literalidade do inciso VII do art. 112 da Lei de Execução Penal, tal fração somente é aplicável a agentes que sejam reincidentes na prática de crime hediondo ou equiparado, o que não é o caso.
+Cumpre acrescentar, por fim, que a questão foi objeto de deliberação em recurso repetitivo, submetido a julgamento da Terceira Seção, cuja tese foi assim fixada:
+"É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante." (REsp 1.910.240/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 26/05/2021, DJe 31/05/2021.)
+Ante o exposto, CONCEDO a ordem de habeas corpus paradeterminar que a transferência do Paciente para regime menos rigoroso observe, quanto ao requisito objetivo, o cumprimento de 40% (quarenta por cento) da pena a que foi condenado.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ART. 112 DA LEI N. 7.210/1984 COM AS ALTERAÇÕES INTRODUZIDAS PELA LEI N. 13.964/2019. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO OU EQUIPARADO. REQUISITO OBJETIVO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS. APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. PROCEDÊNCIA. ORDEM DE HABEAS CORPUS CONCEDIDA.
