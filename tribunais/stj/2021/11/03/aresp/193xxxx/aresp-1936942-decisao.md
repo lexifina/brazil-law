@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por OI S.A. - EM RECUPERACAO JUDICIAL, contra decisão que não admitiu recurso especial (fl. 367, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 282/283, e-STJ):
+AGRAVO DE INSTRUMENTO. ADIMPLEMENTO CONTRATUAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITOU A IMPUGNAÇÃO. RECURSO DA EMPRESA DE TELEFONIA.
+PRETENDIDA CORREÇÃO, DE OFÍCIO, DE EXCESSO DE EXECUÇÃO.IMPOSSIBILIDADE. TEMÁTICA QUE NÃO CONSTITUI MATÉRIA DE ORDEM PÚBLICA.
+SUSTENTADA A INOBSERVÂNCIA DA VALORAÇÃO E DAS TRANSFORMAÇÕES ACIONÁRIAS REFERENTES À EMPRESA QUE EMITIU AS AÇÕES. PRETENSA REDISCUSSÃO DA RESPONSABILIDADE FIXADA NA FASE DE CONHECIMENTO.IMPOSSIBILIDADE. RESPEITO À COISA JULGADA.
+DEFENDIDA A APLICAÇÃO DA COTAÇÃO DO TRÂNSITO EM JULGADO PARA A CONVERSÃO DAS AÇÕES. TÍTULO EXECUTIVO QUE DETERMINOU A INCIDÊNCIA DO VALOR PREVISTO NO MÊS DA INTEGRALIZAÇÃO. TESE AFASTADA.
+DESTACADA A AUSÊNCIA DE PREVISÃO DA DOBRA ACIONÁRIA E VERBAS ACESSÓRIAS NO TÍTULO EM EXECUÇÃO. DIREITOS EXPRESSAMENTE RECONHECIDOS NAS DECISÕES QUE FORMARAM A COISA JULGADA. TESES REJEITADAS.
+APONTADA A NECESSIDADE DE AMORTIZAÇÃO DAS AÇÕES CAPITALIZADAS. DADO OBSERVADO NOS CÁLCULOS DA CONTADORIA JUDICIAL. AUSÊNCIA DE INTERESSE RECURSAL.
+ALMEJADA A INCIDÊNCIA DA CORREÇÃO MONETÁRIA A PARTIR DA DATA DE COTAÇÃO DAS AÇÕES. TÍTULO QUE DETERMINOU A ATUALIZAÇÃO DESDE A INTEGRALIZAÇÃO DO CAPITAL. TESE AFASTADA.
+POSTULADA A LIMITAÇÃO DOS DIVIDENDOS. ENTENDIMENTO DA CORTE SUPERIOR E DESTA CORTE. RENDIMENTO QUE DEVE SER APURADO ATE A DATA DE CONVERSAO DA OBRIGAÇAO EM PECÚNIA. TESE ACOLHIDA. DECISÃO REFORMADA NO PONTO.
+ALEGADA A APLICAÇÃO DE JUROS COMPOSTOS. CÁLCULO QUE NÃO OBSERVOU OS DEPÓSITOS JUDICIAIS EFETIVADOS PELA DEVEDORA E A DATA DE PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. RETIFICAÇÃO NECESSÁRIA. PLEITO PREJUDICADO.
+RECURSO CONHECIDO EM PARTE E PARCIALMENTE PROVIDO.
+Em suas razões de recurso especial, arecorrente aponta ofensa aoartigo170, § 1º, da Lei n.º 6.404/76.
+Sustenta, em síntese,"para que se cumpra corretamente a determinação contida na decisão liquidanda, se faz necessário observar todos os grupamentos acionários, pois, caso contrário, isso implicaria em enriquecimento ilícito".
+Afirma que "a conversão feita das ações apuradas para o contrato da Telebrás, para o equivalente em ações da Brasil Telecom realizada pela Contadoria e homologada pelo juízo de primeiro grau, a qual foi mantida pelo v. acórdão hostilizado está incorreta".
+Sem contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que aplicávelao caso aSúmula 7/STJ.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Na espécie, a Corte de origem, ao negar provimento ao agravo de instrumento interposto pela insurgente, adotou os seguintes fundamentos (fls. 285/286, e-STJ):
+Transformações acionárias e valoração das ações
+Afirma a recorrente que as ações foram apuradas de forma incorreta, porquanto aplicados fatores de conversão referentes à transformação dos papéis mobiliários da Telesc S/A, desconsiderando que a responsabilidade é da Telebrás S/A.
+Defende que o cálculo de conversão das ações em pecúnia apresenta valoração que não corresponde ao valor da ação da empresa Telebrás S/A.
+Ressalto que a responsabilidade pela complementação acionária já foi devidamente debatida na fase de conhecimento, incluindo os eventos corporativos pelos quais passaram as antecessoras da agravante, devendo a cotação ter como parâmetro os seus títulos, tornando-se irrelevante o fato de as ações terem sido emitidas pela Telebrás.
+Ademais, observo que a evolução acionária foi devidamente apurada pelo expert do juízo, que demonstrou nos cálculos exatamente o que restou determinado no título executivo judicial, que reconheceu a legitimidade da agravante para responder pela subscrição deficitária das ações.
+O fator de conversão aplicado na apuração "visa retratar o número correto de ações devidas à parte ante a desestatização da Telebrás em 12 novas companhias holdings, sendo uma delas a Telesc S/A e, após a incorporação desta pela Telepar e a posterior alteração da Telepar S/A para Brasil Telecom. Acaso isso não ocorra, torna-se inviável apurar eventual diferença de valores, pois a cada incorporação e/ou negociação das ações, elas passavam a representar um capital diferente do anterior" (Agravo de Instrumento n. 0158326-93.2015.8.24.0000, Quinta Câmara de Direito Comercial, Itaiópolis, rel. Des. Guilherme Nunes Bom, j. 14/7/2016).
+Na verdade, o que pretende a recorrente é rediscutir os termos das decisões que formaram o título em execução, o que não pode ser admitido na fase de cumprimento de sentença.
+Dessa forma, as alegações da recorrente não merecem prosperar.
+Dessa forma, reexaminar o entendimento da instância inferiordemandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. GRUPAMENTO ACIONÁRIO. AUSÊNCIA DE VIOLAÇÃO AO ART. 535, II, DO CPC. ALEGAÇÃO DE VIOLAÇÃO AO ART. 469, I, DO CPC. SÚMULA 7 DO STJ E CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA. (..) 2. "Em regra, a interpretação das instâncias ordinárias acerca do título exequendo, ainda que judicial, não se submete ao crivo do recurso especial, por encontrar o óbice de que trata o enunciado n. 7, da Súmula" (AgRg no AREsp 10.737/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/03/2012, DJe 22/03/2012). 3. Agravo regimental a que se nega provimento. (AgRg no AREsp 759.967/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/10/2015, DJe 05/11/2015)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 467 E 468 DO CPC. GRUPAMENTO E FATORES ACIONÁRIOS. SÚMULAS 283 DO STF E 7 DO STJ.1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, qual seja, a conversão das ações em perdas e danos em nada tem relação com o grupamento acionário da companhia, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." 2. Ademais, "em regra, a interpretação das instâncias ordinárias acerca do título exequendo, ainda que judicial, não se submete ao crivo do recurso especial, por encontrar o óbice de que trata o enunciado n. 7, da Súmula" (AgRg no AREsp 10.737/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/03/2012, DJe 22/03/2012).3. Embargos de declaração recebidos como agravo regimental a que se nega provimento.(EDcl no AREsp 587.955/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/02/2015, DJe 03/03/2015)
+2.Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA DEMANDADA.(..)4. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.5. Agravo interno desprovido.(AgInt no REsp 1715896/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/10/2018, DJe 11/10/2018)
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
