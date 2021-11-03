@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por Amaury Guimarães de Matos contra acórdão do Tribunal de Justiça do Estado do Amazonas assim ementado:
+APELAÇÃO CÍVEL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.EXTINÇÃO DA EXECUÇÃO FISCAL. VÍCIO NA CERTIDÃO DE DÍVIDA ATIVA. NÃO COMPROVAÇÃO. DISCUSSÃO SOBRE A LEGALIDADE DO AUTO DE INFRAÇÃO. REQUISITOS CUMULATIVOS PARA O INCIDENTE EXCEPCIONAL. NÃO OCORRÊNCIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. DECISÃO QUE UTILIZA PROVA IMPORTADA DE OUTRA AÇÃO. AUSÊNCIA DE OPORTUNIDADE AO APELANTE PARA MANIFESTAÇÃO. INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL E VEDAÇÃO A DECISÃO SURPRESA.
+- O instituto da exceção de pré-executividade construído doutrinária e jurisprudencialmente exige a cumulação de dois principais requisitos: ser a matéria cogniscível de ofício por se tratar de ordem pública e a decisão ser tomada sem a necessidade de dilação probatória. Precedente STJ STJ - REsp: 1110925 SP 2009/0016209-8, Relator: Ministro TEORI ALBINO ZAVASCKI, Data de Julgamento: 22/04/2009, Si - PRIMEIRA SEÇÃO, Data de Publicação: 20090504 --> DJe 04/05/2009.
+- A utilização de prova importada de ação diversa como fundamento principal da sentença exige, peremptoriamente, a participação das partes em atendimento ao contraditório, ampla defesa e vedação à decisão surpresa.
+- Impõe-se a reforma da sentença que acolheu a exceção de pré - executividade e extinguiu a execução fiscal, porquanto ausente a demonstração de vício na Certidão de Dívida Ativa, não cabimento da exceção de pré-executividade, porquanto a discussão em torno do auto de infração exige dilação probatória.
+- RECURSO PROVIDO.
+No recurso especial, o recorrente aponta, além de divergência jurisprudencial, violação aos seguintes dispositivos:
+(a)arts. 202 e 203 do CTN e 2º, § 6º, da Lei 6.830/1980, pois: (i) não há convênio entre o Estado do Amazonas e o Município de Manaus para a delegação da atividade de licenciamento ambiental; (ii) o acórdão recorrido "não observou que o Recorrido é sequer competente para expedir as licenças ambientais exigidas, tampouco para exarar o Auto de Infração que originou o débito perseguido na presente execução fiscal" (fl. 106-e), daí a nulidade da CDA que embasa a execução fiscal; e (iii) essa temática pode ser discutida em exceção de pré-executividade; e
+(b) arts. 485, IV, e 803 do CPC/2015, afirmando que (i) a exceção de pré-executividade "é plenamente possível quando destinada a discutir a própria incerteza, ineficácia ou iliquidez do título que aparelha a execução"; e (ii) "o auto de infração nº 000020078000723, que fundamenta a certidão de dívida ativa nº 835938, padece de nulidade absoluta em razão da inexistência de ato ilícito, já que foram expedidas todas as autorizações necessárias ao funcionamento do empreendimento instalado no imóvel em apreço, o que torna o título executivo extrajudicial incerto e inexigível, claramente nulo" (fl. 108-e).
+Houve contrarrazões.
+A inadmissão do recurso especial se deu pelos seguintes motivos: (i) falta de prequestionamento; e (ii) incidência da Súmula 7/STJ quanto à interposição pelas alíneaaecdo permissivo constitucional - daí o presente agravo.
+É o relatório. Passo a decidir.
+Conheço do agravo, porquanto infirmados os fundamentos da decisão que não admitiu o recurso especial.
+Quanto ao recurso especial em si, não reúne condições de ser conhecido.
+É que a Corte de origem proveu a apelação para rejeitar a exceção de pré-executividade pelos fundamentos a seguir reproduzidos:
+Desta forma, o incidente excepcional exige a demonstração inconteste por meio de prova pré-constituída, ou seja, elementos suficientes que escoltam o petitório para demonstrar e afastar o vício do títuo executivo.
+Contudo, tal não ocorreu, posto que o excipiente não apresentou nenhum elemento suficiente para justificar o manejo do incidenteexcepcional, tampouco versa a questão de matéria de ordem pública, haja vista que a presunção de legalidade e legitimidade milita a favor da atuação administrativa de poder de polícia, cujo ônus cabe ao executado afastar.
+(..)
+Destarte, a utilização de prova extraprocessual sem a oportunidade de manifestação à parte sobre a qual incidirá em desfavor fere o princípio do devido processo legal, e nesse ponto assiste também razão o Apelante, porquanto não fora instado a se posicionar frente à extração de elementos de outra ação.
+Por fim, frise-se que a despeito do não atendimento ao devido processo legal e vedação à decisão surpresa, forçoso reconhecer-se pelo não cabimento do incidente excepcional e restritivo, porquantonão afastou o Apelado a presunção de legitimidade da Certidão de Dívida Ativa, tampouco do auto de infração que a sustenta por sequer acostá-lo aos autos.
+Ocorre que, para infirmar o primeiro fundamento, é preciso realizar novo juízo de matéria fática, providência vedada na presente via, nos termos da Súmula 7/STJ; e, não obstante, não foi impugnado o segundo fundamento, suficiente por si só para a manutenção do acórdão recorrido, circunstância que atrai a incidência da Súmula 283/STF, por analogia.
+Prejudicado, nesses termos, o exame da alegada divergência jurisprudencial.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE VÍCIO NA CDA. INCIDÊNCIA DAS SÚMULAS 7/STJ E 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
