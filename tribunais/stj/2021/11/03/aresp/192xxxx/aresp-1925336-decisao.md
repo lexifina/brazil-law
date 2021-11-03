@@ -1,0 +1,22 @@
+DECISÃO
+WEVERTON MARCOS FERREIRA SINCINATOagrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1501150-42.2019.8.26.0594).
+Consta dos autos que o agravantefoi condenado à pena de 3anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 35, caput, da Lei n. 11.343/2006.
+Nas razões do recuso, adefesa buscaa fixação de regime inicial mais brando e a substituição da pena.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para dar parcial provimento do recurso especial, "modificando o regime prisional inicial para o semiaberto" (fl. 571).
+Decido.
+No caso, a Corte estadual manteve o regime inicial fechado, conforme trechos abaixo (fls. 481-482, grifei):
+O regime de cumprimento de pena, por seu turno, foi estipulado com correção.
+A conduta efetivamente perpetrada pelos acusados não pode ser tida como de menor desvalor ou de reduzida lesividade social, compatível com o cumprimento de pena no regime intermediário, haja vista que teriam eles a possibilidade imediata de convívio social esporádico (semiaberto, com as saídas temporárias), para o que, à evidência, ainda não estão aptos, mercê da nocividade indiscutível dos crimes que cometeram.
+No caso específico destes autos, os acusados estavam associados para a prática do crime de tráfico entorpecentes em grande escala, fornecendo drogas não só à biqueira que gerenciavam, mas, também, a várias outras da região.
+Além disso, as circunstâncias judiciais sãoamplamente desfavoráveis ao acusado Aloisio, porquanto, como já sublinhado, comprovadamente portador de maus antecedentes, além de ser reincidente.
+Some-se a isso o fato de que a conduta revelou periculosidade concreta e efetiva, pois geradora de desassossego e intranquilidade social latente, tudo de modo a justificar, ao menos no início, o regime de cumprimento de pena mais rigoroso.
+Assim, afigura-se totalmente inviável a imposição de regime inicial diverso do fechado, nos casos em que os agentes são processados e condenados por crime de tráfico ilícito de entorpecentes e associação para o tráfico, sobretudo nas condições como as observadas nestes autos.
+No caso, conforme visto, a Corte estadual considerou devida a fixação do modo inicialmente mais gravoso com base nas peculiaridades do caso concreto, notadamente pelo fato de que "os acusados estavam associados para a prática do crime de tráfico entorpecentes em grande escala, fornecendo drogas não só à biqueira que gerenciavam, mas, também, a várias outras da região" (fl. 481, grifei).
+Embora haja sido mencionado fundamento concreto e idôneo,certo é que o regime mais gravoso do que o cabível, em razão da pena imposta, é, na hipótese, o semiaberto, e não o fechado.
+Vale dizer, não obstante o insurgente haja sido definitivamente condenado a reprimenda inferior a 4 anos de reclusão, as peculiaridades do caso concreto autorizam, nos termos do art. 33e parágrafos, do Código Penal, a fixação do regime inicial imediatamente mais grave do que o estabelecido, em decorrência do quantum da pena aplicada, que, no caso, é o semiaberto, e não o fechado.
+Desse modo, estabeleço o modo semiaberto para o início do cumprimento da pena.
+No tocante ao pedido de substituição da pena privativa de liberdade aplicada por restritiva de direitos,entendo que a primariedade do agravante ea inexistência de circunstâncias judiciais desfavoráveis (tanto que a pena-base foi fixada no mínimo legal)evidenciam que a substituição da pena se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal, de maneira que deve ser provido o recurso também para determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+À vista do exposto, conheço do agravo paradarprovimento ao recurso especial,a fim de fixar o regime semiaberto de cumprimento de pena edeterminar a substituição da reprimenda por duas medidas restritivas de direitos, a serem escolhidas pelo Juízo da Execução Criminal.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Juízo da condenação para as providências cabíveis.
+Publique-se e intimem-se.
