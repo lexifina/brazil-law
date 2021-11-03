@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ALLAN LOPES BALDUINO DE SOUZA e JEFFERSON LOPES BALDUINO DE SOUZA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao apelo defensivo para absolvê-los da prática do delito de associação para o tráfico de entorpecentes, mantida a condenação pelo delito de tráfico, redimensionando, assim, a sanção final para 5 anos de reclusão e pagamento de 500 dias-multa, em regime fechado.
+Neste habeas corpus, alega o impetrante ser insuficiente o conjunto probatório para a condenação.
+Destaca que "algumas drogas foram apreendidas, em local o qual é conhecido nos meios policiais por tráfico de entorpecentes, conforme depoimentos coligidos. Assim sendo, pairam dúvidas de quem seria o real detentor do entorpecente apreendido."
+Afirma, ainda, ausência de elementos concretos para negar o tráfico de entorpecentes. Argumenta que os pacientes são primários e de bons antecedentes.
+Sustenta que o regime fechado foi estabelecido com base na gravidade abstrata e na hediondez do delito. Defende a aplicação da permuta legal.
+Requer, assim, a absolvição dos agentes ou a) o reconhecimento da minorante do art. 33, § 4º, da Lei n. 11.343/2006, b) a fixação do regime aberto e c) a substituição da sanção corporal por restritivas de direitos.
+É o relatório.
+Decido.
+Em consulta na base de dados desta Corte, observa-se que este habeas corpus - quanto ao reconhecimento do tráfico privilegiado, abrandamento do regime prisional e deferimento da permuta legal - constitui mera reiteração dos HCs 476.453 e 561.420/SP, de minha relatoria, que não foram conhecidos.
+Segundo se infere, há identidade de partes e da causa de pedir, impugnando os dois feitos, o mesmo acórdão, o que constitui óbice ao seu conhecimento (AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 19/02/2019; AgRg no HC 469.249/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/10/2018, DJe 31/10/2018).
+Em relação ao pedido de absolvição melhor sorte não assiste à defesa. Há testemunhos seguros, somado ao conjunto probatório trazido como fundamento no acórdão recorrido (auto de prisão em flagrante; autos de apreensão e apresentação; ocorrência policial; e laudo de exame químico), de que os pacientes traziam consigo 3,860g de maconha, 7,790g de cocaína e 74,360g de crack, sem autorização legal ou regulamentar.
+Confiram-se o seguinte trecho do acórdão impugnado:
+Segundo o apurado, os Policiais Civis Marcos e Viviane, ao apurarem informação anônima de narcotráfico no local, permaneceram em campana durante alguns dias, constatando movimentação típica do comércio espúrio. Após solicitação de mandado de busca, em diligência ao interior da residência, localizaram, na sala e na cozinha, as porções de drogas, além de numerário e "pinos" vazios. Indagados, informalmente, admitiram a traficância.
+Desse modo, apoiada a condenação pelo delito de tráfico de entorpecentes em prova suficiente, o acolhimento do pedido de absolvição do delito do art. 33, caput, da Lei n. 11.343/2006, demanda o exame aprofundado dos fatos, o que é inviável em habeas corpus (HC 392.153/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 1º/6/2017, DJe 7/6/2017; HC 377414/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2016, DJe 2/2/2017).
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
