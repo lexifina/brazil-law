@@ -1,0 +1,4 @@
+DECISÃO
+Nas alegações contidas nas razões na Petição 00906777/2021 (fls. 1.036-1.952, e-STJ), os agravantes Izabel Silveira Osório e João Luiz Silveira Osório noticiam o falecimento da procuradora Dra. Julieta Costa Fernandes, que representava os herdeiros/agravados Ruth Maria Araújo Silveira (inventariante); Ricardo Araújo Silveira (falecido em 09-03-2019); Valéria Araújo Silveira; Maria Marly Bragado Silveira; Adylis Margarida Bragado Silveira; João Manoel Bragado Silveira; José Antonio Bragado Silveira; Paulo Eduardo Bragado Silveira; Clarice Bragado Silveira; Cirineu Bragado Silveira; Maria Inez Camargo de Azevedo; eVictor Bernardes de Azevedo.
+À vista disso, providencie-se a intimação pessoal dos referidos herdeiros/agravados, a fim de que, no prazo de 15 (quinze) dias, regularizemsua representação processual, sob pena de aplicação da sanção prevista noart. 76, § 2º, I, do Novo Código de Processo Civil.
+Cumpra-se.
