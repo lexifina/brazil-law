@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJSP assim ementado (e-STJ fls. 266/267):
+PLANO DE SAÚDE. PLANO INDIVIDUAL OU FAMILIAR. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS.
+I. Prescrição. Aplicabilidade do lapso trienal (artigo 206, § 3º,inciso IV, Código Civil). Tese firmada pelo E. Superior Tribunal em julgamento de recursos repetitivos (Tema 610 - REsp nº 1.361.182/RS, Rel. Marco Aurélio Bellizze). Questão bem parametrizada na origem. Prejudicial afastada.
+II. Reajuste de mensalidade por mudança de faixa etária. Julgamento parametrizado por precedente emanado pelo E. Superior Tribunal de Justiça em sede de recursos repetitivos (REsp nº 1.568.244/RJ). Reajuste de natureza etária admitido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso.
+III. Demonstrada previsão expressa do reajuste do prêmio fundado em alteração de faixa etária. Caso concreto, todavia, em que não há evidência de que as majorações impostas respeitaram os limites das regras de regulamentação da ANS. Falta de prova, ainda, da efetiva sinistralidade do negócio a justificar a exasperação. Interessada que não se desincumbe de seu ônus probatório (artigo373, II, CPC). Preclusão. Artigo 507 do Código de Processo Civil. Inadmissível apuração de fundamentos atuariais em sede de liquidação.
+IV. Caracterização de estipulação unilateral e aleatória em discriminação do idoso. Imposição injustificada, no mais, que implica em onerosidade excessiva da obrigação (artigo 51, inciso IV, CDC). Ofensa ao princípio da boa-fé que deve nortear os contratos consumeristas. Atenuação e redução do princípio do pacta sunt servanda. Incidência do disposto no artigo 421 do Código Civil.
+V. Nulidade dos reajustes reconhecida. Obrigatoriedade da manutenção dos valores praticados antes da aplicação das apontadas majorações ilícitas, sem prejuízo da restituição dos montantes pagos a maior. Inteligência do artigo 884 do Código Civil.
+SENTENÇA REFORMADA EM PARTE. APELO DOS AUTORES PROVIDO, DESPROVIDO O APELO DA RÉ.
+Os embargos de declaração foram rejeitados (e-STJ fls. 288/292).
+No recurso especial (e-STJ fls. 295/318), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alega ofensa aos arts. 5º, XXXVI e LV, da CF, 26, II, da Lei n. 9.656/1998, Lei n. 10.741/2003, 1º, e § 2º, da Lei n. 6.899/1981 e 6º da LINDB e dissídio jurisprudencial. Sustenta que (e-STJ fls. 307/309):
+Por certo, o contrato em comento possui previsão expressa nas condições gerais do seguro em questão acerca da previsão de incidência do reajuste por mudança de faixa etária, com a descrição dos índices e percentuais aplicados à cada faixa etária, de acordo com seu deslocamento, O QUE FORA RECONHECIDO PELO ACÓRDÃO RECORRIDO.
+Assim, pugna a Recorrente pela reforma do r. acórdão, com a consequente improcedência do pleito, eis que descabe a decretação de nulidade ou de devolução dos valores pagos a título de reajuste faixa etária, que ocorreram em consonância aos critérios determinados pelo RESP Nº 1.568.244,
+ .. Resta claro, portanto, que o E. STF decidiu não pela vedação do reajuste por mudança de faixa etária, mas sim pela irretroatividade da norma aos contratos de plano de saúde celebrados anteriormente à sua vigência.
+Assim, da mesma forma, não se aplicam ao contrato da Recorrida as disposições legais do Estatuto do Idoso, como equivocadamente restou fundamentada a r. Sentença.
+Os recorridos não apresentaram contrarrazões (e-STJ fl. 357).
+O recurso foi admitido na origem (e-STJ fls. 380/381).
+É o relatório.
+Decido.
+De início, não cabe falar em afronta ao art. 5º, XXXVI e LV, da CF, pois é inviável a análise de ofensa a dispositivo constitucional em recurso especial, sob pena de usurpação da competência da Suprema Corte. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO AUTORAL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EXECUÇÃO PÚBLICA DE OBRAS MUSICAIS POR RÁDIO COMUNITÁRIA. DIREITOS AUTORAIS. ECAD. DEVER DE PAGAMENTO. ATIVIDADE NÃO LUCRATIVA. IRRELEVÂNCIA.
+1. A análise de suposta violação a dispositivos constitucionais é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+2. Com efeito, resta pacificado no âmbito desta Corte Superior de Justiça que, a partir da entrada em vigor da Lei n.º 9.610/98, a ausência do intuito de lucro é questão irrelevante quando se trata do pagamento de direitos autorais. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1.619.402/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2017, DJe 23/11/2017.)
+A Corte local assim decidiu (e-STJ fls. 269/270):
+ ..  sabe-se que o julgamento dos casos como o presente é pautado pelos fundamentos parametrizados pelo E. Superior Tribunal de Justiça em sede de recursos repetitivos (REsp nº 1.568.244/RJ): "O reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso".
+ .. Inobstante seja incontroversa a estipulação contratual, a ré, por um lado, não comprovou que preencheu as diretrizes da Súmula Normativa nº 3/2001 da ANS, ou seja, que submeteu à aprovação da Agência as tabelas de prêmios referidas no texto contratual firmado pelos autores, conforme exigido no caso dos contratos firmados antes de 1999, como na espécie.
+ .. De outra parte, a seguradora não tampouco logrou demonstrar especificamente a sinistralidade do contrato que justificasse a previsão de exasperação tão grave da contraprestação imputável aos consumidores, nos termos do artigo 373, inciso II, do Código de Processo Civil.
+Dissentir das conclusões do acórdão impugnado quanto ao descumprimento da obrigação perante a ANS e a não demonstração da necessidade do índice de reajuste, exigiria o reexame do acervo fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ.
+Quanto à alegação de irretroatividade das Leis n. 9.656/1998 e 10.741/2003, tal matéria não foi analisada previamente pelo Tribunal de origem, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do CPC/2015, o que não ocorreu. Dessa forma, ante afalta do indispensável prequestionamento, incidea Súmula n. 211 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
