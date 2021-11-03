@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUIZ GUILHERME CINTRA VIDAL REYS,em face de decisãoque conheceu de seu agravo para não conhecer do recurso especial, assim ementada (e-STJ Fl. 1.130):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. SEGURO VIAGEM. INEXISTÊNCIA DE PROVA DA CONTRATAÇÃO. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. INCORRRÊNCIA. REVISÃODESTEENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. DISPOSITIVOS VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Reiterou, aparterecorrente, asteses dispostas no seu apelo nobre no sentido de ocorrência de julgamentoextra petita, e, que "diferentemente de como foi julgado, não envolve o reexame de fatos e provas, apenas sua valoração, já que o próprio magistrado de 1ª instância confirmou que houve sim a comprovação do pagamento do seguro viagem no valor de R$ 418,62 (quatrocentos e dezoito reais e sessenta e dois centavos) e ainda apontou o ID do documento" (e-STJ Fl. 11752).
+A parte agravada apresentou impugnação (e-STJ fls. 1184/1193, e, 1194/1202).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. SEGURO VIAGEM. INEXISTÊNCIA DE PROVA DA CONTRATAÇÃO. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. INCORRRÊNCIA. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. DISPOSITIVOS VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o presente agravo interno não merece ser provido.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parteagravante, capaz de alterar os fundamentos da decisão agravada, faz subsistir incólume o entendimento nela firmado.
+Com efeito, percebe-se que as razões trazidas no agravo interno, de inaplicabilidade das Súmulas nºs 7, e, 211/STJ àpretensãorecursal, não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, o Tribunal de origem,relativamente àtesede ocorrência de julgamento extra petita,asseverou que (e-STJ Fls. 1.017/1.018, gn):
+"(..)
+Cumpre assinalar que, em contestação, as rés alegaram que não houve contratação do seguro de vida (ID n. 5979529  Página 4 e ID n. 5979520  Página 5), tornando a matéria controversa quanto a este aspecto.
+Neste sentido, destaco o seguinte trecho da contestação constante no ID n. 5979748:
+(..)
+Evidentemente, para fins de análise da pretensão deduzida na inicial, o egrégio Colegiado precisou analisar o acervo probatório produzido nos autos, oportunidade em que concluiu não haver prova da contratação do seguro viagem.
+Portanto, ao reconhecer a inexistência de prova dos fatos constitutivo do direito vindicado na inicial, em especial a contratação do seguro viagem, o egrégio Colegiado não incorreu em julgamento extra petita, uma vez que a demanda foi examinada nos limites objetivos da lide.
+Assim, eventual discordância quanto ao entendimento firmado pelo colegiado deve ser manifestada em recurso próprio, eis que os embargos de declaração não constituem, em regra, meio idôneo para a obtenção de provimento com efeitos infringentes".
+Diante da fundamentação alhures exposta,dúvidas não restam de que seria indispensável reexaminar o conjunto fático-probatório dos autos a fim de afastar as premissas fixadas no aresto atacado, no sentido de que "ao reconhecer a inexistência de prova dos fatos constitutivo do direito vindicado na inicial, em especial a contratação do seguro viagem, o egrégio Colegiado não incorreu em julgamento extra petita, uma vez que a demanda foi examinada nos limites objetivos da lide".
+Dessarte, mostra-se imperiosa a aplicação da Súmula 7/STJ.
+No mais, insta ressaltar que, de acordo com o entendimento consolidado no Superior Tribunal de Justiça, o reexame do acervo de fatos e provas não se confunde com a "valoração dos critérios jurídicos respeitantes à utilização da prova e à formação da convicção".
+Explica-se: valoração da prova "refere-se ao valor jurídico desta, sua admissão ou não em face da lei que a disciplina, podendo representar, ainda, contrariedade a princípio ou regra jurídica, no campo probatório, questão unicamente de direito, passível de exame, nesta Corte. Diversamente, o reexame da prova implica a reapreciação dos elementos probatórios, para concluir-se se eles foram ou não bem interpretados, matéria de fato, soberanamente decidida pelas instâncias ordinárias de jurisdição e insuscetível de revisão , no Recurso Especial" (AgRg no AREsp 235.460/ES, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 09/09/2014, DJe 16/09/2014).
+No mais, como registrado na decisão recorrida, verifica-se, também, que não houve enfrentamento da matéria versada nos demais artigos tidos por violados, quais sejam, 186, e, 395 do Código Civil, e, 6º, incisos IV, V, e, VI, e, 14, caput, do Código de Defesa do Consumidor, não obstante a oposição dos embargo de declaração, razão pela qual incide a Súmula 211/STJ, ante a ausência do necessário prequestionamento.
+Ressalte-se que o prequestionamento ficto é admitido somente nas hipóteses em que não sanada a omissão no julgamento dos embargos de declaração, a parte suscita a ofensa ao art. 1.022 do CPC no recurso especial, o que não ocorreu no caso dos autos.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. 1. EXCESSO DE EXECUÇÃO. PRECLUSÃO. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 83/STJ. 2. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO AO ART. 85, § 18, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. 3. AGRAVO INTERNO IMPROVIDO.1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça. Precedentes.2. Incide a Súmula 211 do STJ, na espécie, porquanto ausente o prequestionamento.2.1. Prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017), o que não ocorreu.3. Agravo interno improvido.
+(AgInt no AREsp 1639399/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/08/2020, DJe 01/09/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEBATE NA ORIGEM DELIMITADO AO TEMA DA PRECLUSÃO. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO EXIGIDO. ART. 1025 DO CPC. PREQUESTIONAMENTO FICTONÃO EVIDENCIADO. INCIDÊNCIA DA SÚMULA 211 DO STJ.
+1. É entendimento pacífico desta Corte de que a ausência de enfrentamento expresso acerca da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Na exegese do art. 1.025 do Código de Processo Civil de 2015, considera-se prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do mesmo estatuto, o que não se evidencia na hipótese. Precedentes.
+3. É firme no Superior Tribunal de Justiça o entendimento quanto à necessidade de prequestionamento da matéria trazida a exame, ainda que vinculada a tema de ordem pública (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg no REsp 1417392/MG, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 03/08/2015, DJe 17/08/2015).4.  .. 7. Agravo interno não provido.
+(AgInt no AREsp 1548262/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Diante de tais considerações, impõe-se a manutenção da decisão ora agravada, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (art. 1.026, § 2º, do CPC).
+É o voto.
