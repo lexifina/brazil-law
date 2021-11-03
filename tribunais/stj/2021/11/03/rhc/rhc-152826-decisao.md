@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interpostopor MATEUS RODRIGUES SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, no julgamento do HC n. 1.0000.21.114727- 7/000.
+Extrai-se dos autos que, durante cumprimento de mandado de busca e apreensão, o recorrente foi preso em flagrante em 9/6/2021, pela suposta prática do por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas). Referida custódia foi convertida em preventiva (fls. 67/70) e, em 22/6/2021, o Juízo de primeiro grau indeferiu pedido de revogação da custódia (fls. 74/76).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - TRÁFICO DE DROGAS -PRISÃO PREVENTIVA - GRAVIDADE CONCRETA DO DELITO - GARANTIA DA ORDEM PÚBLICA -NECESSIDADE - CUSTÓDIA CAUTELAR AUTORIZADA- CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO -IMPRESCINDIBILIDADE NOS CUIDADOS DE FILHO MENOR - NÃO COMPROVAÇÃO- SUBSTITUIÇÃO POR MEDIDAS DIVERSAS DA PRISÃO EM RAZÃO DA COVID- IMPOSSIBILIDADE.
+-Inviável a concessão da ordem de soltura quando demonstrada a presença dos requisitos autorizadores da custódia cautelar.
+-É necessária a comprovação da imprescindibilidade do genitor no cuidado de filho menor de doze anos para substituir a prisão preventiva pela domiciliar.
+-A gravidade concreta e real do delito supostamente praticado inviabiliza a substituição da prisão preventiva por qualquer das medidas cautelares elencadas no art. 319 do Código de Processo Penai ainda que consideradas asdisposições do Decreto Legislativo n. 6/2020 e da Recomendação n. 62/2020 do CNJ.
+(V. V) HABEAS CORPUS-TRÁFICO DE DROGAS - DECISÃO PRIMEVA MAL FUNDAMENTADA -OCORRÊNCIA-IMPOSSIBILIDADE DE SE
+COMPLEMENTAR A FUNDAMENTAÇÃO EM INSTÂNCIA REVI SOFIA. Se a decisão que contém a decretação da medida extrema não expende a argumentação necessária para a concreta fundamentação da decisão combatida, não pode a instância revisora proceder a tal análise" (fl. 124).
+No presente recurso, a defesa sustenta a ausência de fundamentação concreta que justifique a prisão preventiva do recorrente, baseada apenas na gravidade abstrata do delito. Assevera não estarem presentes os requisitos previstos no art. 312 do CPP.
+Ressalta que o recorrente conta com condições pessoais favoráveis e invoca o princípio da presunção de inocência. Assegura a suficiência da aplicação de medidas cautelares alternativas, previstas no art. 319 do CPP
+Requer, assim, a revogação da prisão preventiva do recorrente. Subsidiariamente, pugna pela substituição da custódia por medidas cautelaresalternativas.
+O pedido de liminar foi indeferido às fls. 163/164, as informações devidamente prestadas, às fls. 168/169 e 170/171, e o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 175/180).
+É o relatório.
+Decido.
+O presenterecursoencontra-se prejudicado.
+Isso porque, em consulta ao site do Tribunal de Justiça do Estado de Minas Gerais, verifica-se que, em 30/8/2021, foi proferida sentença condenando o recorrente pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/06, à pena de 5 anos, 7 meses e 9 dias de reclusão, em regime inicial fechado, mantida a prisão cautelar (Ação Penal n. 0004958-25.2021.8.13.0335).
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tomar prejudicado o writ/recurso em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rei. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença condenatória que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do ora recorrente, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Ainda presentes os pressupostos descritos no art. 312, do CPP, tendo o réu permanecido acautelado durante toda a instrução processual, deixo de reconhecer a este o direito de recorrer em liberdade, louvando-me no fundamento do decreto de prisão preventiva de ID. 4002242997 dos autos nº 5000911-20.2021.8.13.0335, qual seja, a garantia a ordem pública, sendo que, no caso em tela, a segregação cautelar mostra-se indispensável para manutenção da ordem pública e à credibilidade da justiça criminal perante a sociedade, já tão combalida pela prática reiterada de crimes desta mesma natureza."
+Confira-se o julgado desta Corte no mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA COM AGREGAÇÃO DE NOVOS FUNDAMENTOS, NÃO IMPUGNADOS PELO IMPETRANTE. NEGATIVA DE RECORRER EM LIBERDADE. PEDIDO RECURSAL PREJUDICADO. AGRAVO DESPROVIDO.
+1. A superveniência de sentença de pronúncia, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Agravo regimental desprovido.
+(AgRg no RHC 112.178/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
