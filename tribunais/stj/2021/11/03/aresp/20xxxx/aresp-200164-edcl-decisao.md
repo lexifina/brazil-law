@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravocontra decisão que manteve a inadmissibilidade derecurso especial consideradointempestivo.
+A controvérsia diz respeito ao possívelprazo em dobro para recorrer, tendo em vistaa inexistência de recurso interposto por litisconsorte contra decisão monocrática proferida na origem.
+Em suas razões(e-STJ fls. 186/183), os recorrentes pedem o sobrestamento do "processo em tela atéo julgamento do Mandato de segurança nº 0014019-80.2011.8.17.0000(251291-4) do TJPE" (e-STJ fl. 197), argumentando que (e-STJ fls. 188/189):
+(..)a decisão monocrática ora agravada, não verificou que atéo devido momento o mandato de segurança interposto pelo ré(Centuria do Brasil) não foi julgado.
+Vejamos, o causídico do litisconsorte Centúria do Brasil peticionou requerendo a reabertura de prazo por não constar seu nome na publicações do dia 24/02/2011 e 23/05/2011 de acordo com a fl. 47 dos embargos de declaração 0003522-07.2011.8.17.0000(0177910-2/02) e negado pelo relator.
+O patrono da centúria insistiu com peticionamento de embargos de declaração em 20/06/2011 e por sinal comprovando que não constou seu nome na publicação dos respectivos agravo interno e embargos de declaração.
+Mesmo assim, o relator negou a abertura do prazo e condenou em litigância de má-fé, ferindo de morte o direito de defesa do litisconsorte Centúria do Brasil.
+Logo, a centúria ainda pleiteia e discute seu direito perante o TJPE. Ocorrendo que o pleito da Centúria seja provido, devolvendo prazo para a Centúria para recorer, como ficara o agravo negado, será nulo
+No mínimo era para sobrestar o processo em discussão.
+Além disso, reiteram que "o recurso especial é tempestivo, pois o litisconsórciounitário está configurado, conforme previsão dos artigos 509 e 191 do CPC  1973 " (e-STJ fl. 196).
+Ao final, requerem o provimento do recurso.
+É o relatório.
+Decido.
+Considerando o princípio da fungibilidade recursal, recebo o agravo como embargos de declaração para sanar omissão no julgado.
+Constou do agravo em recurso especial relevante argumento não analisado, de quea litisconsorte Centúria do Brasil interpôs mandado de segurançacontra a decisão do Desembargador Relator, quenão lhe havia concedido reabertura do prazo para recorrer da decisão monocrática de indeferimento do agravo interposto na origem.
+Essa circunstância, efetivamente, justificava o sobrestamento do feito, pois a reabertura do prazo recursal à litisconsorte esvaziaria o fundamento da decisão que não admitiu o recurso especial por intempestividade, qual seja, o desfazimento, na origem,do litisconsórcio existente entre as partes(e-STJ fl. 96):
+Dessa forma, em sendo desfeito o litisconsórcio com diversidade de causídicos a partir da tramitação do Agravo nº 177910-2/01, não se poderia mais cogitar da aplicação do prazo dobrado para os recursos posteriores, tanto é que os Embargos de Declaração de nº 177910-2/02 foram interpostos cinco dias após a publicação de Agravo, de forma tempestiva. Assim, a interposição dos presentes recursos especial e extraordinário trinta dias após a publicação do julgamentos desses últimos embargos declaratórios revela-se fora do prazo legal.
+Todavia, em consulta à pagina eletrônica do TJPE, é possível verificar que omandado de segurança foi indeferidopor decisão transitada em julgado, não havendo motivo para sobrestar o presente feito.
+Cumpre destacar, em acréscimo, que a jurisprudência desta Corte não faz distinção quantoànatureza jurídica do litisconsórciopara avaliara inaplicabilidade do prazo em dobro para recorrer.
+Confira-se, a propósito, trecho do voto-vista proferido pelo Ministro JOÃO OTÁVIO DE NORONHA, no julgamento doEREsp n. 1.288.106/MS:
+Rebatendo o principal argumento da embargante, de que o litisconsórcio não se desfez, de que o litisconsórcio seria desfeito se transitada em julgado a decisão, esclareço, primeiramente, que o decisum transitou porque uma das partes do litisconsórcio não apelou. Segundo, porque a questão não é se há ou não há litisconsórcio necessário ou unitário, com a devida vênia.Não é essa a questão debatida no recurso.
+A questão é: nos termos do art. 191, para que o prazo em dobro seja aplicado, requerem-se duas condições. A primeira é que haja litisconsórcio, pouco importando sua natureza jurídica (se facultativo, necessário, unitário). A segunda é que haja um litisconsórcio com procuradores diferentes. No caso, transitando em julgado a decisão de primeiro grau em relação a um dos litisconsórcios, o recurso de apelação, segundo a jurisprudência desta Casa, seria contado em dobro. A partir da segunda instância, o prazo seria simples, porque não haveria mais o segundo requisito: litisconsórcio com procuradores diferentes. Essa é a exatidão dos termos do art. 191 do Código de Processo Civil.
+Eis a ementa do referido precedente:
+EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. CONTRATO DE COMPRA E VENDA DE GÁS NATURAL. LITISCONSÓRCIO PASSIVO. ART. 191 DO CPC. PRAZO EM DOBRO PARA RECORRER. APELAÇÃO INTERPOSTA APENAS POR UM DOS LITISCONSORTES. AFERIÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO SIMPLES. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N.º 168 DO STJ. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS.
+1. Hipótese em que o acórdão embargado decidiu em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça, no sentido de que, "se a decisão recorrida é prejudicial aos litisconsortes, mas apenas um recorre, o prazo em dobro existe em relação ao prazo desse recurso, mas passa a ser simples para os recursos posteriores." 2. Precedentes citados: AgRg no Ag 1249316/DF, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 18/02/2010, DJe 02/03/2010; AgRg no Ag 1.085.026/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/05/2009; AgRg no Ag 1.219.570/SP, SEGUNDA TURMA, Rel. Min.HUMBERTO MARTINS, DJe de 10/03/2010; EDcl no Ag 1154207/SP, Rel.Ministro PAULO FURTADO - Desembargador convocado do TJBA, TERCEIRA TURMA, julgado em 03/08/2010, DJe 20/08/2010; AgRg no Ag 1258459/MT, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/10/2012, DJe 26/10/2012; AgRg no REsp 1050250/DF, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/09/2010, DJe 11/10/2010.
+3. Incidência da Súmula n.º 168 do STJ: "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado." 4. Embargos de divergência não conhecidos.
+(EREsp n. 1.288.106/MS, RelatoraMinistra LAURITA VAZ, CORTE ESPECIAL, julgado em 13/3/2014, DJe 14/4/2014.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO FORA DO PRAZO LEGAL.AUSÊNCIA DE CONTAGEM DO PRAZO EM DOBRO.
+(..)
+4. Outrossim, observando-se essa particularidade do caso interposição de apelação apenas por Maria Inês Pichiteli Pagamento e Rogério Luiz da Silva Magalhãesevidencia-se que, ainda que se considerasse ocorrente na espécie o dito litisconsórcio unitário, a jurisprudência pacificada do STJ é no sentido de que, se a decisão recorrida é prejudicial aos litisconsortes, mas apenas um recorre, o prazo em dobro existe em relação ao prazo desse recurso, passando a ser simples para os recursos posteriores.
+5. Desse modo, por qualquer ângulo que se examine a questão, o recurso especial dos agravantes é intempestivo, uma vez que interposto fora do prazo definido no art. 1.003, §5º, do CPC/2015.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1185746/DF, RelatorMinistro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 11/11/2020, DJe 16/11/2020.)
+AGRAVO REGIMENTAL - PROCESSUAL CIVIL -ARTIGO 544, CAPUT, DO CPC -RECURSO INTEMPESTIVO - SUSPENSÃO DE PRAZO NA CORTE A QUO NÃO COMPROVADA - LITISCONSÓRCIO UNITÁRIO E PARTES COM PROCURADORES DIFERENTES - CONTAGEM EM DOBRO PARA O AGRAVO CONTRA A INADMISSÃO DO APELO NOBRE - IMPOSSIBILIDADE - AGRAVO IMPROVIDO.
+1. O prazo para interposição do recurso previsto no art. 544, caput, do CPC é de 10 (dez) dias.
+2. Mesmo quando haja litisconsortes com procuradores diversos, o prazo em dobro previsto no art. 191 do CPC não se aplica para o agravo interposto contra a decisão que nega seguimento ao recurso especial.
+3. É desinfluente a existência de litisconsórcio unitário, porquanto da decisão de inadmissão do recurso especial somente o autor dessa irresignação possuirá legitimidade recursal.
+4. Agravo regimental improvido.
+(AgRg no Ag n. 1012528/RJ, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 18/12/2008, DJe 5/2/2009.)
+Diante do exposto, acolho osembargos declaratórios para integrar ao julgado as considerações ora formuladas, sem efeito modificativo.
+Publique-se e intimem-se.
