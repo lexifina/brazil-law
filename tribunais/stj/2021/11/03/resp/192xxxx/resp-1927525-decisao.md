@@ -1,0 +1,27 @@
+DECISÃO
+  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  CUMPRIMENTO DE SENTENÇA. DISSÍDIO  JU  RISPRUDENCIAL.  DECISÃO MONOCRÁTICA INDICADA COMO PARADIGMA. IMPOSSIBILIDADE.RECURSO  ESPECIAL  DO  PARTICULAR  NÃO  CONHECIDO.
+1.  Trata-se  de  recurso  especial  interposto  por  LASARO  DA  SILVA  COELHO  FILHO,  com  fundamento  no  art.  105,  inciso  III,  alínea  c,  da  CF/1988,  no  qual  se  insurge  contra  acórdão  proferido  pelo  TRF  da  2ª  Região,  assim  ementado:
+PREVIDENCIÁRIO. APELAÇÃO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO CIVIL PÚBLICA. PRESCRIÇÃO.
+1. O Memorando Circular Conjunto nº 37/DIRBEN/PFE/INSS teve o condão de comunicar aos órgãos internos da Administração o que deveria ser cumprido em razão das disposições contidas na decisão ocorrida na ACP nº 0533987-93.2003.4.02.5101, padronizando, assim, sua aplicação. Portanto, não se trata de reconhecimento pelo INSS do direito dos segurados, mas apenas de comunicado para cumprimento do que foi reconhecido pela Justiça, razão pela qual não se aplica o disposto no art. 202, VI, do Código Civil.
+2. Tendo-se em vista que a decisão da ACP nº 0533987-93.2003.4.02transitou em julgado no dia 30/09/2008 e, considerando o ajuizamento da ação rescisória nº 0019810-85.2008.4.02.0000, cujo trânsito em julgado ocorreu 24/04/2013,nos termos do art. 103, da Lei nº 8.213/90, o prazo limite para requerer as verbas decorrentes da revisão garantida pela decisão proferida na ação civil pública seria24/04/2018.
+3. Negado provimento ao recurso.(fls.  277).
+2.  Nas  razões  do  seu  recurso  especial  (fls.  287/293),  a  parte  recorrente  indica  dissídio  jurisprudencial  acerca  da  interpretação  dada  ao  art.  202,  VI,  do  CC,  argumentando,  para  tanto,  que  o  Memorando  Circular  Conjunto  nº  37/DIRBEN/PFE/INSS  interrompeu  a  prescrição  executória.
+3.  Devidamente  intimada (fls. 295),  a  parte  recorrida  apresentou  as  contrarrazões  (fls.  304/311).  O  recurso  especial  foi  admitido  na  origem  (fls.  318/320).
+4.  É  o  relatório.
+5.  A  irresignação  não  merece  prosperar.
+6.  Inicialmente,  é  importante  ressaltar  que  o  presente  recurso  atrai  a  incidência  do  Enunciado  Administrativo  3  do  STJ,  segundo  o  qual,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016),  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  Código.
+7.  A parte indica divergência entre o acórdão recorrido e o decidido no Recurso Especial1.580.228/SC, de relatoria da Ministra Assusete Magalhães, que não se trata de acórdão, mas sim decisão monocrática.
+8. A jurisprudência desta Corte Superior é firme no sentido de ser incabível a utilização de julgados monocráticoscomo paradigma para fins de comprovação do dissídio jurisprudencial. Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESERVA.EXPEDIÇÃO DE REQUISIÇÃO DE PAGAMENTO. PENHORA. INTEMPESTIVIDADE.DISSÍDIO JURISPRUDENCIAL. REQUISITOS. INOBSERVÂNCIA.
+ ..
+2. No tocante à alegada incidência do art. 908 do CPC, não há como conhecer do recurso pela alínea "c" do permissivo constitucional, visto que os julgados desta Corte trazidos à colação foram proferidos por decisões monocráticas, as quais não servem a este desiderato, conforme disciplina o § 1º do art. 255 do RISTJ.
+3. Agravo interno desprovido.(AgInt no REsp 1825110/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 18/05/2020, DJe 22/05/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DETERMINAÇÃO DE RESTAURAÇÃO DE IMÓVEL TOMBADO. DISSÍDIO JURISPRUDENCIAL. DECISÃO MONOCRÁTICA INDICADA COMO PARADIGMA. NÃO CABIMENTO. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. ALEGADA VIOLAÇÃO AO ART. 19 DO DECRETO-LEI 25/37. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Nos termos da jurisprudência do Superior Tribunal de Justiça, "decisão monocrática não pode ser utilizada como paradigma para fins de alegação de dissídio jurisprudencial, visto que a Constituição Federal, ao mencionar a hipótese de cabimento do recurso especial prevista no art. 105, III, c, vale-se da expressão "Tribunal", que enseja a idéia de decisão colegiada" (STJ, AgInt no REsp 1.785.538/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 13/05/2019). Nesse sentido: STJ, AgInt no REsp 1.782.063/MG, Rel.Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 19/06/2019; AgInt no REsp 1.698.496/RS, Rel. Ministro ANTÔNIO CARLOS FERREIRA, QUARTA TURMA, DJe de 10/06/2019.
+ ..
+VI. Agravo interno improvido.(AgInt no AREsp 1466234/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/09/2019, DJe 25/09/2019)
+
+9.  Do  exposto,  não  conheço  o  recurso  especial  do  particular.
+10.  Por  fim,  caso  exista  nos  autos  prévia  fixação  de  honorários  sucumbenciais  pelas  instâncias  de  origem,  majoro,  em  desfavor  da  parte  recorrente,  em  10%  (dez  por  cento)  o  valor  já  arbitrado  (na  origem),  nos  termos  do  art.  85,  §  11,  do  CPC/2015,  observados,  se  aplicáveis,  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  referido  dispositivo,  bem  como  os  termos  do  art.  98,  §  3º,  do  mesmo  diploma  legal.
+11.  Publique-se.  Intimações  necessárias.
