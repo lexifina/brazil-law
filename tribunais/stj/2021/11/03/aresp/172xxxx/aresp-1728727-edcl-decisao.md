@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUCIANO MARCOS CORDEL e OUTRA, com fundamento no art. 1.022 do novo CPC, à decisão monocrática desta relatoria de fls. 587-592 (e-STJ), que deu parcial provimento ao agravo interno para condenar os então recorridos, ora embargantes, na totalidade da sucumbência, invertendo a estabelecida nos julgamentos da segunda instância.
+Suscitam havercontradição no referido julgado. Frisam que o pleito da embargada no tocante à inexistência de prescrição intercorrente foi vencido, portanto, não cabe a imposição de honorários advocatícios aos insurgentes, destoando do que foi requerido por ela no agravo em recurso especial.
+Argumentam também a ocorrência de obscuridade. Suscitam que em momento algumos executados protocolaram recurso na Corte estadual, logo, foi da embargadaa adoção de recurso inadequado, somente a ela cabendo responder pelo erro. Requerem o acolhimento destes embargos de declaração(e-STJ, fls. 594-597).
+Contraminutaapresentada (e-STJ, fls. 600-611).
+Brevemente relatado, decido.
+Não há nenhuma obscuridade ou mesmo contradição a serem sanadas no julgado ora embargado, portanto inexistentes os requisitos para cabimento destes embargos declaratórios, nos termos do art. 1.022 do novo CPC.
+A decisão desta relatoria dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a celeuma em sentido contrário ao postulado pelos insurgentes. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Estão claras as circunstâncias que ensejaram inversão da sucumbência, estipulando-a em suatotalidade em desfavor dos recorridos, ora embargantes. Com efeito, essa premissa, como se extrai do julgado, decorreu da aplicação da jurisprudência desta Corte Superior, que entende quea decretação da prescrição intercorrente não afasta o princípio da causalidade em desfavor do devedor nem atrai a sucumbência para a parte exequente.
+Por fim, os autos relevam que não ocorreu o manejo de recurso inadequado pela embargada, afastando o argumento no sentido da obscuridade.
+Apretensão por buscar a execução não pode ser qualificada como juridicamente equivocada, embora tenha sido reconhecida a prescrição intercorrente. Nesse sentido, o manejo de recursos, inclusive pela recorrida para esta Corte Superior, pretendeua aplicação ao caso da correta incidência dos normativos relativos à prescrição, inclusive com as consequências daí decorrentes, como eventual redistribuição dos honorários de sucumbência e sua majoração.
+Destarte, como o julgado está devidamente fundamentado e apenas aplicou ao caso a jurisprudência deste Tribunal Superior e suas consequências,não é caso de cabimento destes embargos de declaração. O que se busca, em verdade, é a concessão de efeitos infringentes, sem os vícios a ampará-los.
+Veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONFLITO NEGATIVO ENTRE OS JUÍZOS FEDERAL E ESTADUAL. AÇÃO ORDINÁRIA OBJETIVANDO DECLARAÇÃO DE VALIDADE DE DIPLOMA DE CURSO SUPERIOR C/C INDENIZAÇÃO POR DANOS MORAIS.INSTITUIÇÃO DE ENSINO PRIVADA. AUSÊNCIA DE INTERESSE DA UNIÃO A JUSTIFICAR A COMPETÊNCIA DA JUSTIÇA FEDERAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS.IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no CC 177.015/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 18/08/2021, DJe 20/08/2021)
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. OBSCURIDADE OU CONTRADIÇÃO NÃO VERIFICADAS. DECISÃO EMBARGADA DEVIDAMENTE FUNDAMENTADA. ENTENDIMENTO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ.INVIABILIDADE DE CABIMENTO DO RECURSO DO ART. 1.022 DO NOVO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
