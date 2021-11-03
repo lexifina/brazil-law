@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto porSPERAFICO AGROINDUSTRIAL LTDA, e, OUTROS,contra decisão que conheceu o agravo para conhecer parcialmente o recurso especial, e, nesta extensão, negar-lhe provimento, assim ementada (e-STJ Fl. 343):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. CARTA PRECATÓRIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL EM TRÂMITE NA COMARCA DE SÃO PAULO. IMÓVEIS ADJUDICADOS. ALEGAÇÃO DE FALTA DE REPRESENTAÇÃO DOS AGRAVANTES. INEXISTÊNCIA DE PROCURAÇÃO DE TODOS PARA OS ADVOGADOS SIGNATÁRIOS DESTE RECURSO. QUESTÃO JÁ ANALISADA, EM CARÁTER SUMÁRIO DE COGNIÇÃO, NO AGRAVO DE INSTRUMENTO Nº 1687291-6. INEXISTÊNCIA DE NULIDADE SEM PREJUÍZO. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Os agravantes reiteram a alegação de negativa de prestação jurisdicional, pois, o acórdão recorrido não se manifestou "quanto aos prejuízos suportados pelos Agravantes pela juntada tardia das procurações nos autos da Carta Precatória nº 0014951-42.2005.8.16.0021 e a ausência de intimação pessoal dos mesmos em relação ao requerimento de adjudicação deferido pelo Juiz da causa" (e-STJ Fl. 354).
+Defendem, novamente, que ajuntada tardia dos instrumentos de procuração nos autos da Cara Precatória nº 0014951-42.2005.8.16.0021 ocasionou prejuízo aos Agravantes.
+Sustentam, por fim,que não incide a Súmula 7/STJ à pretensão recursal.
+Pugnam pelo conhecimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. CARTA PRECATÓRIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL EM TRÂMITE NA COMARCA DE SÃO PAULO. IMÓVEIS ADJUDICADOS. ALEGAÇÃO DE FALTA DE REPRESENTAÇÃO DOS AGRAVANTES. INEXISTÊNCIA DE PROCURAÇÃO DE TODOS PARA OS ADVOGADOS SIGNATÁRIOS DESTE RECURSO. QUESTÃO JÁ ANALISADA, EM CARÁTER SUMÁRIO DE COGNIÇÃO, NO AGRAVO DE INSTRUMENTO Nº 1687291-6. INEXISTÊNCIA DE NULIDADE SEM PREJUÍZO. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ.RAZÕES QUE SE MANTÉM. DECISÃO MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pelosagravantes, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Primeiramente, no que concerne à alegação de omissão, osagravantes sustentamque houve negativa de prestação jurisdicional, por não ter o Tribunal de origem examinado os prejuízos suportados pelos recorrentes pela juntada tardia das procurações nos autos da Carta Precatória nº 0014951-42.2005.8.16.0021 e a ausência de intimação pessoal dos mesmos em relação ao requerimento de adjudicação deferido pelo Juiz da causa.
+Contudo, sabe-se que o acórdão hostilizado solucionou a questão de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento, ainda que de modo contrário ao interesse dosagravantes.
+Cabe, neste ponto, reforçar os argumentos utilizados pelo Tribunal de origem quanto aos temas apontados como omissos (e-STJ Fls. 87/91, gn):
+"Aqui, vale a máxima: não há nulidade sem prejuízo.
+Quando esta Câmara julgou o agravo de instrumento nº1687291-6, contra a decisão liminar que concedeu a antecipação da tutela em ação de nulidade e/ou anulação de adjudicação (nº7515-12.2017.8.16.0021), em que pese o tenha feito sob juízo sumário de cognição, assim consignou:
+Atualmente, o entendimento encontra-se sedimentado na Súmula 541 do STJ, que assim determina: "A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+(..)
+E essa conclusão não se altera agora.
+Ora, em que pese a falta de juntada da procuração de todos os executados com a inicial, fato é que nos andamentos seguintes do feito (que se constatam do mov. 1.24 em diante), a interessada Sperafico Agroindustrial LTDA., por meio de seus procuradores constituídos nos autos, vinha intitulando-se em suas petições como "atual denominação de Sperafico Agroindustrial LTDA. e OUTROS" que se depreende a clara intenção de integrar os agravantes - outros executados - à carta precatória.
+Tanto foi assim que no agravo de instrumento do mov.1.65 (datado de 2006), os recorrentes são os ora agravantes, patrocinados pelos advogados aqui constituídos, e fizeram no agravo expressa referência sobre a procuração outorgada aos patronos - o que deixa evidente que tinham conhecimento da carta precatória, de seu andamento, e da possibilidade de alienação ou adjudicação dos bens penhorados.
+Ainda, posteriormente a esse agravo, já em 2016, novamente esta Câmara analisou agravo de instrumento contrário a decisão da carta precatória (este sob o nº 1534888-0 - mov. 1.297), interposto por Sperafico Agroindustrial LTDA. E OUTROS e que foi interposto pelos ora agravantes, inclusive, com o mesmo advogado deste recurso, e que já representava a Sperafico.
+Tem-se, disso tudo, que o que pretendem os agravantes é, de fato, causar tumulto processual, arguindo uma nulidade de algibeira.
+Isso porque, além do fato de a pessoa jurídica e as pessoas físicas terem todas o mesmo advogado, sendo parte dos agravantes sócios da própria Sperafico Agroindustrial, é evidente que tinham conhecimento há muito tempo do andamento da carta precatória - tanto é assim que a assinatura na procuração do mov. 1.19é bastante semelhante à de Levino José Sperafico, sócio da empresa e, agora, agravante.
+Além disso, como se vê nos movs. 1.52, 1.59, 1.74, os executados, pessoas físicas e jurídica, foram todos intimados pessoalmente da primeira hasta pública marcada na carta precatória(mov. 1.45).
+Todo esse conjunto de informações e de movimentos do feito levam a conclusão deste recurso inevitavelmente para o fato de que os agravantes já conheciam da carta precatória e estavam nela representados pelo Dr. Estevão Ruchinski e outros, o qual se manifestava como patrono constituído por todos.
+(..)
+Assim, não tendo arguido no primeiro momento que tomaram conhecimento dos autos a nulidade ora levantada, não podem os agravantes tentarem se locupletar de uma falha que não prejudicou suas constantes manifestações e intervenções no processo para agora, 14 anos depois, trazerem essa alegação - ora, se está, aqui, não só levantando uma nulidade de algibeira, mas também em evidente contrariedade ao princípio da vedação ao venire contra factum porquanto os agravantes aguardaram o desenrolar de todo oproprium ,processo para suscitar tal alegação, somente após a agravada ter adjudicado o imóvel constrito.
+(..)
+Vê-se, assim, que a linha do tempo apresentada pelos agravantes, e sua irresignação quanto à adjudicação levada à efeito, não são fundamentos suficientes nem para o reconhecimento da falta de procuração dos agravantes nos autos de carta precatória, tampouco para a desconsideração da carta de adjudicação.
+Outrossim, expedida a carta de adjudicação, somente resta a possibilidade do reconhecimento de sua nulidade pela via própria da ação ordinária, sendo o ato perfeito e acabado" .
+Portanto, ausente qualquer omissão, sendo que o Tribunal de origem verificou que, ao contrário do alegado pelaspartes recorrentes, "esse conjunto de informações e de movimentos do feito levam a conclusão deste recurso inevitavelmente para o fato de que os agravantes já conheciam da carta precatória e estavam nela representados pelo Dr. Estevão Ruchinski e outros, o qual se manifestava como patrono constituído por todos", e, ainda, "não podem os agravantes tentarem se locupletar de uma falha que não prejudicou suas constantes manifestações e intervenções no processo".
+Assim, todos os pontos declarados como não examinados foram devidamente tratados no acórdão dos embargos de declaração.
+Por fim, como registrado na decisão agravada, constata-se que, para afastar as premissas e conclusões adotadas no acórdão recorrido no sentido de que "o que pretendem os agravantes é, de fato, causar tumulto processual, arguindo uma nulidade de algibeira", pois, "os agravantes já conheciam da carta precatória e estavam nela representados pelo Dr. Estevão Ruchinski e outros, o qual se manifestava como patrono constituído por todos", seria necessário revolver o conteúdo fático-probatório dos autos, o que é defeso em sede especial, conforme dispõe a Súmula 7/STJ.
+Assim, correta a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
