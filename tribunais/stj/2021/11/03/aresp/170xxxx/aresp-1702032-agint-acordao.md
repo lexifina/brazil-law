@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESQUILO EMPREENDIMENTOS EIRELI,em face de decisãoque conheceu de seu agravo para não conhecer do recurso especial, em decorrência doóbicedaSúmula7/STJ.
+Reiterou, aparterecorrente, a tese de que "não se trata de análise de fatos, se é ou não possuidor de boa-fé que estaria no local, mas sim que já existia coisa litigiosa discutindo a questão anteriormente e portanto enquadra no art. 109, §3º CPC. Em sendo assim, a sentença proferida nos autos originários, irradia seus efeitos para aqueles que adquiriram a coisa litigiosa" (e-STJ Fl. 915).
+Alegou, ainda, que como não foi arbitrado honorários na instância inferior não há como haver majoração dos mesmos.
+A parte agravada não apresentou impugnação (e-STJ fls. 925).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. ALEGAÇÃO DE VIOLAÇÃO AO ARTIGO 109, § 3º DO CPC/2015. INOCORRRÊNCIA. EFEITOS DA AÇÃO DE IMISSÃO DE POSSE QUE NÃO ALCANÇA A PARTE RECORRIDA, E TAMPOUCO O FAZ OS EMBARGOS DE TERCEIROS POIS EXTINTOS SEM RESOLUÇÃO DO MÉRITO. TEORIA DA APARÊNCIA. REQUISITOS PRESENTES. IRRELEVÂNCIA DE VÍCIO DA CESSÃO DE DIREITOS. ANÁLISE EXCLUSIVA DA POSSE DIRETA. REVISÃO DESTES ENTENDIMENTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o presente agravo interno não merece ser provido.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parteagravante, capaz de alterar os fundamentos da decisão agravada, faz subsistir incólume o entendimento nela firmado.
+Com efeito, percebe-se que as razões trazidas no agravo interno, de inaplicabilidade da Súmula nº 7/STJ àpretensãorecursal, não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, o Tribunal de origem,relativamente àtesede ofensa à coisa julgada material,asseverou que (e-STJ Fls. 746/749, gn):
+"Ainda em sede de preliminar, a apelada suscita o reconhecimento da coisa julgada, seja pela existência da Ação de Imissão de Posse nº 2014.05.1.006623-4 ou pela extinção dos Embargos de Terceiros anteriormente opostos, ambos processos em que, segundo entende, a posse teria sido analisada, em definitivo, com entendimento favorável à Esquilo Empreendimentos.
+No ponto, melhor sorte não assiste à apelante.
+No caso dos autos, não se controverte que a Ação de Imissão de Posse nº 2014.05.1.006623-4, icônica para os julgamentos das inúmeras ações possessórias que se desdobraram com o passar dos anos na Chácara 11-A, foi julgada procedente e favorável à apelante.
+Todavia, o que não se pode olvidar é que a supracitada ação havia sido ajuizada em desfavor dos reais proprietários anteriores (Antônio, Saulo, Geisel, e Christian) e não em face dos atuais ocupantes do loteamento, de forma que, embora em um momento inicial o r. juízo a tenha imposto uma eficácia erga omnes para o cumprimento do mandato de imissão na posse, pelo próprio poder de cautela ínsito aos seus deveres de magistrado, abriu espaço para que aqueles que, possivelmente estivessem de boa-fé, pudessem, pela via instrumental do processo, demonstrá-la.
+Nesse sentido, os efeitos da Ação de Imissão de Posse não alcança a parte recorrida, e tampouco o faz os Embargos de Terceiros, eis que extintos sem resolução do mérito.
+Isso, porque embora a oposição dos Embargos de Terceiros tivesse como finalidade discutir a matéria ínsita à posse em relação as mesmas partes que figuram no presente litígio, a ação foi extinta sem resolução do mérito, sendo, portanto, incapaz de produzir efeitos de coisa julgada material, de forma que o ajuizamento de nova ação, com as mesmas partes, visando discutir o mesmo direito, não ofende a coisa julgada.
+Por essas razões, REJEITO A PRELIMINAR DE COISA JULGADA.
+(..)
+Em que pese a empresa apelante ter se insurgido contra a aplicação da Teoria da Aparência, e suscitado a nulidade do julgado, é de uma clareza solar que as consequências atuais que recaem sobre o imóvel em questão decorrem da desídia entre a data da compra e o registro imobiliário no cartório responsável, que, se existisse, teria conferido publicidade adequada aos atos posteriores e ostentaria ao negócio bilateral eficácia erga omnes.
+Nesse sentido, os fundamentos utilizados pela r. sentença sobejam inabalados, uma vez que a Teoria da Aparência decorre da própria essência do Princípio da Boa-Fé objetiva, e da mesma forma que a parte autora teve êxito em demonstrar que é ocupante legitima da área em comento, a parte ré, ao alegar defesa indireta de mérito, que seria capaz de modificar, limitar ou extinguir os diretos da parte autora, não se desincumbiu do ônus de prova".
+Diante da fundamentação alhures exposta,dúvidas não restam de que seria indispensável reexaminar o conjunto fático-probatório dos autos a fim de afastar as premissas fixadas no aresto atacado, no sentido de que o "os efeitos da Ação de Imissão de Posse não alcança a parte recorrida, e tampouco o faz os Embargos de Terceiros, eis que extintos sem resolução do mérito. (..)a ação foi extinta sem resolução do mérito, sendo, portanto, incapaz de produzir efeitos de coisa julgada material, de forma que o ajuizamento de nova ação, com as mesmas partes, visando discutir o mesmo direito, não ofende a coisa julgada".
+Dessarte, mostra-se imperiosa a aplicação da Súmula 7/STJ.
+No mais, insta ressaltar que, de acordo com o entendimento consolidado no Superior Tribunal de Justiça, o reexame do acervo de fatos e provas não se confunde com a "valoração dos critérios jurídicos respeitantes à utilização da prova e à formação da convicção".
+Explica-se: valoração da prova "refere-se ao valor jurídico desta, sua admissão ou não em face da lei que a disciplina, podendo representar, ainda, contrariedade a princípio ou regra jurídica, no campo probatório, questão unicamente de direito, passível de exame, nesta Corte. Diversamente, o reexame da prova implica a reapreciação dos elementos probatórios, para concluir-se se eles foram ou não bem interpretados, matéria de fato, soberanamente decidida pelas instâncias ordinárias de jurisdição e insuscetível de revisão , no Recurso Especial" (AgRg no AREsp 235.460/ES, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 09/09/2014, DJe 16/09/2014).
+Diante de tais considerações, impõe-se a manutenção da decisão ora agravada, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+No mais, ao contrário do alegado pela recorrente,o Tribunal de origem acabou por arbitrar honorários advocatícios sucumbenciais, razão pela qual, se faz imperiosa a majoração dos mesmo por esta Corte, conforme preconiza o artigo 85, §11 do CPC/2015 (e-STJ Fls. 752/753).
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (art. 1.026, § 2º, do CPC).
+É o voto.
