@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito positivo de competência, instaurado por OI S. A. - EM RECUPERAÇÃO JUDICIAL, envolvendo o Juízo de Direito da 7.ª Vara Empresarial da Comarca da Capital do Estado do Rio de Janeiro/RJ, no qual se processa a recuperação judicial da suscitante (processo n.º 0203711-65. 2016.8.19.0001), e o Juízo da 1ª Vara da Fazenda Pública de Campinas/SP.
+A suscitante afirma que, em 29 de junho de 2016, foi deferido seu pedido de recuperação judicial pelo Juízo da 7.ª Vara Empresarial da Comarca da Capital do Estado do Rio de Janeiro/RJ que, além de determinar a suspensão das ações e execuções movidas contra a recuperanda, consignou, de forma expressa, na linha da jurisprudência do Superior Tribunal de Justiça, a suspensão de todo e qualquer ato que importe em constrição patrimonial desta empresa.
+Postula, liminarmente, a fixação da competência do Juízo da 7.ª Vara Empresarial da Comarca da Capital do Estado do Rio de Janeiro/RJ, para decidir sobre as questões que afetam o patrimônio da suscitante, bem como a suspensão do curso da tutela executiva no Juízo da 1ª Vara da Fazenda Pública de Campinas/SP.
+No mérito, requer a confirmação da liminar, no tocante à competência do magistrado recuperacional.
+Às fls. 323/325, este signatário deferiu, em parte, o pedido liminar.
+Prestadas as informações (fls. 337/433 e 434/1065), o MPF ofertou parecer no sentido da declaração de competência do r. juízo recuperacional. (fls. 1068/1070)
+É o relatório.
+Decisão.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal de Justiçae da Segunda Seção para o conhecimento e processamento do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+Nesse sentido, registra-se:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO UNIVERSAL. PRECEDENTES.
+- A 2ª Seção é competente para o julgamento do conflito uma vez que não se discute nos autos a competência para processar e julgar cobrança de crédito fiscal, mas sim para decidir sobre o patrimônio de sociedade em recuperação judicial.- Não há que se falar em ofensa à cláusula de reserva de plenário (art. 97 da Constituição Federal) ou em desacatamento à Súmula Vinculante n. 10 do Supremo Tribunal Federal, porquanto não houve, na decisão agravada, declaração de inconstitucionalidade dos dispositivos legais suscitados.
+- As ações de natureza fiscal não se suspendem ante o deferimento de recuperação judicial, conforme o art. 6º, § 7º, da Lei 11.101/2005, mas cabe ao Juízo Universal o prosseguimento dos atos de alienação dos bens da empresa recuperanda. Precedentes.- O agravo não trouxe nenhum argumento novo capaz de modificar a conclusão alvitrada, a qual se mantém por seus próprios fundamentos.
+- Agravo no conflito de competência não provido.
+AgRg no CC n.º 123.474/DF, Rel,ª Min.ª NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe de 26/10/2012.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que os atos de execução dos créditos individuais, sejam eles fiscais ou trabalhistas, promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n.º 7.661/45 ou da Lei n.º 11.101/05, devem ser realizados pelo juízo universal, valendo conferir, no mesmo sentido, os precedentes que seguem:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÕES INDIVIDUAIS. COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO. BENS PARTICULARES DOS SÓCIOS. EFEITOS. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Respeitadas as especificidades da falência e da recuperação judicial, é competente o juízo universal para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais. Precedentes.
+2. Os bens particulares dos sócios das empresas recuperandas podem ser resguardados dos efeitos da recuperação judicial, por meio de decisão que expressamente assim determine.
+3. Agravo regimental não provido.
+AgRg no RCD no CC 134.598/AM, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 25/03/2015, DJe 06/04/2015.
+No mesmo sentido, envolvendo recuperações judiciais e ações fiscais,merecem menção as recentes decisões monocráticas: CC nº 150360, Rel. Min. Paulo de Tarso Sanseverino, DJe 03/08/2017; CC nº 144.643, Rel. Min. Maria Isabel Gallotti, DJe 30/05/2017; CC nº 148145, Rel. Min. Moura Ribeiro, DJe 09/11/2016; AgInt no CC 140.021/MT, Rel. Min. JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 22/08/2016; EDcl no AgRg no CC 132.094/AM, Rel. Min. MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 10/12/2014, DJe 16/12/2014; AgInt no AREsp 732140/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/12/2016, DJe 15/12/2016; (AgRg no CC 120.432/SP, Rel. Min. ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em
+14/12/2016, DJe 19/12/2016.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do CPC/15, conheço do presente conflito e, por conseguinte, declaro a competência do r. Juízo da7.ª Vara Empresarial da Comarca da Capital do Estado do Rio de Janeiro/RJ, no qual se processa a recuperação judicial da suscitante (processo n.º 0203711-65. 2016.8.19.0001).
+Publique-se. Intimem-se.
