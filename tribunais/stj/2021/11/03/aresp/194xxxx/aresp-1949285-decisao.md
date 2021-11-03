@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do MUNICÍPIO DE CAMPO GRANDEfundado naalínea"a"do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+APELAÇÃOCÍVEL- MANDADODESEGURANÇA - LICENÇA-PRÊMIO NÃO GOZADA - APOSENTADORIA - PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA - REJEITADA - MÉRITO - CONVERSÃO DA LICENÇA-PRÊMIO NÃO USUFRUÍDA EM PECÚNIA - POSSIBILIDADE - PREQUESTIONAMENTO - RECURSO DESPROVIDO.
+O mandado de segurança impetrado contra ato que indefere pedido de conversão de licença-prêmio em pecúnia não configura substituto de ação de cobrança, não havendo que se falar em inadequação da via eleita. Precedentes.
+O servidor que não usufrui da licença-prêmio quando s encontrava na ativa, e que não teve computada, em dobro, para a contagem de tempo de serviço para efeito de aposentadoria, tem direito a sua conversão em pecúnia, sob pena de locupletamento ilícito da Administração.
+Torna-se desnecessária a manifestação expressa a respeito dos dispositivos legais, porquanto não está o magistrado obrigado a abordar artigo por artigo de lei, mas tão somente a apreciar os pedidos e a causa de pedir fundamentando a matéria que interessa ao correto julgamento da lide.
+No recurso especial, a parte recorrente aponta violação dos seguintes dispositivos:
+(a) art. 1ºdo Decreto n. 20.910/32, alegando que"A assertiva disposta na decisão, de que o marco inicial de contagem da prescrição tem início com a impossibilidade de não mais usufruir o direito a férias prêmio e, que no caso deu-se com a aposentadoria do recorrido, não pode subsistir, porquanto não se atentou que a data do ato ocorreu em 22 de novembro de 1995, ainda mais, que o recorrido sabendo que possuía o direito desde o seu nascedouro, ou seja, naquela data, nunca exigiu através de requerimento, ou outro meio hábil, o seu exercício. Nunca houve qualquer manifestação no sentido de requerer o gozo de férias prêmio. Se, ao menos houvesse em autos algum indeferimento ao pedido de gozo dos períodos em questão, aí sim haveria a fumaça do direito e uma contagem de prazo prescricional." ( fl. 160 e-STJ);
+(b) art. 1º da Lei n. 12.016/2009, sustentando que "..o recorrido não demonstrou de modo indubitável o seu direito líquido e certo, porquanto afirmou genericamente que possui direito a férias prêmio não gozadas, porém não indicou o período aquisitivo de tal direito. Interessante destacar que o recorrido omitiu em sua argumentação qualquer informação quanto ao provável período de tempo em que teria adquirido o suposto direito e, deste modo aferir se foi alcançado pela prescrição ou não. Condições estas que, inclusive, prejudicam o exercício do direito à ampla defesa e ao contraditório pelo Município." ( fl. 162 e-STJ);
+(c) arts. 131 e 333, I, do CPC, aduz que "Denota-se dos autos, que ao contrário da disposição alhures, o recorrido não se desincumbiu de comprovar os fatos constitutivos do seu direito, e ainda assim houve provimento dos seus pedidos em face do Mandado de Segurança, o que não se pode admitir sob pena de negativa de vigência e contrariedade ao referido dispositivo infralegal, sobretudo e principalmente, ante a ausência de amparo legal e vedação legal expressa no sentido de converter em pecúnia as férias-prêmio não gozadas." ( fl. 164 e-STJ).
+Houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundada naincidência daSúmula83/STJ.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não conheço do agravo, por ausência de refutação da motivação utilizada no juízo de admissibilidade.
+Da análise da petição de agravo de fls. 228/232e-STJ, verifica-se que a agravante não impugnou, de forma específica, os fundamentos da decisão agravada relativo à incidência da Súmula 83/STJ.
+Aagravante limitou-se a afirmar que "No entanto, para negar seguimento ao apelo especial do Município, a Vice-Presidência do e. TJMS aplicou o óbice do Enunciado n. 83/STJ, partindo da premissa de que havia no recurso somente tese sobre a matéria de fundo. Isso, porque, nos julgados colacionados na admissibilidade, não há manifestação alguma da e. Corte Superior sobre a incidência dos efeitos da prescrição na pretensão de conversão da licença-prêmio em pecúnia. Portanto, uma vez que não se pode afirmar com absoluta certeza que a orientação do e. STJ se firmou no mesmo sentido da decisão recorrida, especialmente no que concerne ao capítulo da prescrição quinquenal, a incidência do Verbete n. 83/STJ deve ser afastada, a fim de que a matéria colocada no recurso especial seja amplamente apreciada por essa e. Corte de Justiça." (fl. 231 e-STJ).
+Contudo, a agravante deixou de demonstrar que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido. Verifica-se, portanto, que a impugnação ao fundamento da decisão agravada não ocorreu de forma específica e efetiva.
+Dessa forma, não é possível conhecer do presente agravo, pois carece de fundamentação, atraindo as consequências previstas no art. 932, III, do CPC/2015, segundo o qual não se conhecerá do agravo que não tenha atacado específica e suficientemente todos os fundamentos da decisão agravada.
+A jurisprudência do STJ é assente no sentido de que a impugnação à fundamentação contida na decisão agravada deve ser específica e suficientemente fundamentada, não se admitindo impugnação genérica. In verbis:
+Art. 932. Incumbe ao relator:
+I - dirigir e ordenar o processo no tribunal, inclusive em relação à
+produção de prova, bem como, quando for o caso, homologar autocomposição
+das partes;
+II - apreciar o pedido de tutela provisória nos recursos e nos processos
+de competência originária do tribunal;
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha
+impugnado especificamente os fundamentos da decisão recorrida;
+Ressalte-se, por fim, que o caso atrai a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do artigo 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO NÃO CONHECIDO.
