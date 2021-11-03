@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região.
+Narram os autos que a parte ora recorrente opôs embargos à execução movida em seu desfavor por JANNET MARIA DORNELLES MONTEIRO, referentemente ao título executivo formado nos autos do Processo nº 2005.71.00.029211-6, sustentando, em síntese, a aplicação da TR como índice de correção monetária a partir de julho de 2009, com juros moratórios de 0,5% ao mês, na forma simples.
+O Juízo de 1º Grau julgou improcedentes os embargos (fls. 27/28).
+A sentença foi confirmada pelo Tribunal de origem nos termos do acórdão assim ementada (fl. 62):
+ADMINISTRATIVO. CÁLCULO DE LIQUIDAÇÃO. CAPITALIZAÇÃO DOSJUROS. LEI Nº 11.960/2009. ANATOCISMO.
+Nas liquidações das condenações impostas à Fazenda Pública, a Lei nº11.960/2009 determina expressamente a capitalização dos juros de mora, uma vez que manda utilizar a sistemática das cadernetas de poupança onde os juros são capitalizados.
+Sustenta o INSS violação ao art. 1º-F da Lei 9.494/1997 (na redação dada pela Lei 11.960/2009), ao argumento de que não é permitida a capitalização dos juros moratórios. Isso porque extrai-se do aludido dispositivo legal "a intenção legislativa ao destacar os índices oficiais de remuneração, dos juros aplicados à caderneta de poupança", cujo "fator de rendimento  ..  tem sua estrutura firmada  no art. 12 da  Lei nº 8.177, de março de 1991", que "manda aplicar os índices de remuneração básica (INPC/TR) e juros de poupança (0,5%) e não o fator de correção acumulado da poupança no período (TR 0,5% de juros acumulados) como definiu o colegiado a quo"(fl. 74)
+Nesse sentido, assevera que "acorreção monetária deverá ser composta entre a variação do INPC no período até junho de 2009, e a TR no período posterior, e os juros deverão ser apurados de forma simples da citação em diante e calculados sobre o valor do principal corrigido, para que se evite a vedada prática do anatocismo em prejuízo ao Erário" (fl. 75).
+Contrarrazões às fls. 81/83.
+Recurso admitido na origem (fls. 187/190).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O Tribunal de origem firmou a compreensão no sentido de que o art. 1º-F da Lei 9.494/1997 (na redação dada pela Lei 11.960/2009) "determina expressamente a capitalização dos juros de mora, uma vez que manda utilizar a sistemática das cadernetas de poupança onde os juros são capitalizados" (fl. 60).
+Ao assim decidir, a Turma Julgadora adotou orientação que se encontra em harmonia com a jurisprudência desta Corte, no sentido de que a partir da vigência da Lei 11.60/2009, os juros de mora devem ser calculados uma única vez, calculando-se os juros de mora segundo aremuneração oficial da caderneta de poupança até o efetivo pagamento, ecorreção monetária pelo IPCA-E. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONDENAÇÃO IMPOSTA À FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. APLICAÇÃO IMEDIATA. RETROATIVIDADE VEDADA.JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. RESP 1.495.144/RS E RE 870.947/SE.
+1. O acórdão recorrido encontra-se em conformidade com a jurisprudência desta Corte, segundo a qual as alterações trazidas ao artigo 1º-F da Lei 9.494/1997 são aplicadas, de imediato, aos processos em andamento, sem efeitos retroativos (REsp 1.205.946/SP, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe 2/2/2012).
+2. A Primeira Seção desta Corte, no julgamento do REsp 1.495.144/MG, representativo da controvérsia, observando a Repercussão Geral firmada pelo Supremo Tribunal Federal no RE 870.947/SE, consolidou o entendimento de que as condenações judiciais referentes a Servidores e Empregados Públicos sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples);
+correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCAE; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.912.608/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 10/9/2021)
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
