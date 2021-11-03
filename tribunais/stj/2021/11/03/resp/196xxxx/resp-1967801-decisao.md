@@ -1,0 +1,56 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MAURICIO APARECIDO DA SILVA ALMEIDAcontra acórdão prolatado, por unanimidade, pela SegundaTurma do Tribunal Regional Federal da 3ª Região, em julgamento de apelação, assim ementado (fl. 499e):
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO - APELAÇÃO CÍVEL - INDEFERIDAPRODUÇÃO DE PROVA PERICIAL - CERCEAMENTO DE DEFESA - INOCORRÊNCIA -PROCESSO ADMINISTRATIVO DE REPETIÇÃO DE INDÉBITO - DOCUMENTOSESSENCIAIS SOLICITADOS PELA RECEITA FEDERAL - NÃO APRESENTADOS -PRESUNÇÃO DA LEGITIMIDADE DOS ATOS ADMINISTRATIVOS - NÃO INFIRMADA -HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - MAJORAÇÃO - RECURSODESPROVIDO.
+1. Firme-se, inicialmente, não ter ocorrido cerceamento de defesa, porquanto o indeferimento da prova pericial pelo Juízo "a quo" fundou-se que somente apuraria o "quantum" devido, fase posterior à declaração do direito pretendido. (3856660 - F.260/261)
+2.Transcrição da sentença combatida. Fundamentos.
+3.Pedido indeferido, por não apresentação de documentos, nos termos do disposto no inciso III, do artigo 32 da lei 8212/91, combinado com os §§ 1º e 2º do artigo 33 da mesma lei e, também por não atender ao disposto no artigo 2º, inciso I da IN RFB1300/2012. Decisão administrativa.
+4.Verifico que a apelante não atendeu ao solicitado pela Receita Federal no que tange à apresentação dos documentos essenciais ao deslinde da questão, solicitação fundamentada por dispositivos legais e infralegais, conforme consta da decisão administrativa retromencionada.
+5.Não pode postular a apelante a existência de indébito e recusar ou quedar-se inerte ante solicitação da autoridade fiscal para a apresentação dos documentos contábeis e outros que sejam essenciais à apuração e comprovação do direito alegado.
+6.Milita a favor dos atos administrativos a presunção de sua legitimidade, à qual, no presente caso, não foi infirmada pelo apelante.
+7.Não acolho a preliminar de cerceamento de defesa, de modo que mantenho na íntegra a sentença prolatada pelo Juízo "a quo".
+8.Honorários advocatícios sucumbenciais. Majoração.
+9.Apelação desprovida.
+Opostos embargos de declaração, foram rejeitados (fls. 532/541e).
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa aos arts. 156,355,I,371 e 373,I, todos do CPC/2015,alegando, em síntese, que "o indeferimento de prova pericial e a consequente improcedência por ausência de provas caracteriza cerceamento de defesa" (fl.. 599e).
+Com contrarrazões, o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 697e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b, e 255, II, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Verificoque o aresto recorrido destoa da jurisprudência desta Corte segundo a qual, embora caiba ao magistrado avaliar a pertinência da produção de determinada prova, configura cerceamento de defesa o julgamento antecipado da lide rejeitando os pedidos da parte, justamente por insuficiência de lastro probatório da pretensão.
+Nessa linha:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REQUERIMENTO DE PROVA PERICIAL. JULGAMENTO ANTECIPADO DA LIDE. SENTENÇA QUE DENEGOU O DIREITO PLEITEADO ANTE A AUSÊNCIA DE PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA DE PRECLUSÃO.
+1. A jurisprudência desta Corte é uníssona no sentido de que configura-se cerceamento de defesa quando o juiz indefere produção de provas requeridas e, em seguida, julga o pedido improcedente por força, justamente, da insuficiência de provas. Precedentes: AgRg no Ag 388759/MG, rel. Min. Humberto Gomes de Barros, Terceira Turma, Data de Publicação em 16/10/2006; AgRg no AREsp 512708/RS, Rel. Min. Sérgio Kukina, Relator para acórdão Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 23/3/2015; AgRg no REsp 1415970/MT, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 15/8/2014; AgRg no AREsp 68635/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 3/9/2012.
+Nesses casos, não há falar em preclusão da alegação do cerceamento de defesa.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.454.129/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/06/2015, DJe 04/08/2015 - destaquei).
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. APELAÇÃO CÍVEL. JULGAMENTO ANTECIPADO DA LIDE. DIREITO À PRODUÇÃO DAS PROVAS REQUERIDAS. ERROR IN PROCEDENDO DO TRIBUNAL DE ORIGEM. DEVOLUÇÃO DOS AUTOS PARA PROCEDER FASE INSTRUTÓRIA.
+1. A sentença de mérito julgou a lide de forma antecipada favorável ao recorrente, por entender estarem presentes todas as informações capazes de formar seu convencimento. Condenou o Município ao pagamento dos serviços prestados.
+2. Inconformado, o recorrido apelou, e o Tribunal de origem, reformando a sentença, proferiu decisão em que entendeu não estarem presentes documentos capazes de provar a prestação dos serviços.
+3. A interpretação dada ao art. 535 do CPC é de que ocorre contradição quando a decisão apresenta parte dispositiva divergente da fundamentação esposada. Nesse caso, em particular, a contradição está na ocorrência de um error in procedendo pelo Tribunal ordinário. Ao entender que não estavam presentes as provas suficientes para embasar a alegação do apelado, ora recorrente, deveria devolver os autos para que o juiz sentenciante procedesse nova abertura da fase instrutória.
+4. Ora, se o juiz julgou a lide de forma antecipada por entender estarem presentes todas as provas necessárias ao deslinde da controvérsia, não pode o acórdão, atestando a ausência de provas, julgar contrariamente ao recorrente, sem oportunizar-lhe o direito da produção de provas, pois assim, estar-se-ia vedando à parte o direito de instruir corretamente o processo, cerceando-lhe à defesa.
+5. Recurso especial a que se dá parcial provimento para que o processo seja devolvido ao juiz de primeiro grau, para prosseguindo com o feito, proceda a fase instrutória, saneando o processo com a fixação dos pontos controversos das provas a serem produzidas.
+(REsp 1.205.123/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/09/2010, DJe 15/10/2010 - destaquei).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. ICMS. JULGAMENTO ANTECIPADO DA LIDE. INDEFERIMENTO DE PROVAS. CERCEAMENTO DE DEFESA. OCORRÊNCIA. PRECEDENTES DO STJ.
+1. Trata-se, na origem, de Ação Anulatória de Auto de Infração movida pelo agravado contra o Estado do Amapá. O auto de infração teve por fundamento, em suma, o recolhimento a menor do ICMS devido em razão do regime de substituição tributária.
+2. Colhe-se dos autos que o agravado, desde a petição inicial, suscita a imprescindibilidade da realização de perícia técnica para comprovar suas alegações. Porém, tal pedido foi indeferido, tendo o juízo singular julgado antecipadamente a lide na forma do art. 330 do CPC.
+3. Verifica-se que a sentença julgou improcedente o pedido ao argumento de que não houve demonstração de que "as operações abrangidas pelo auto de infração foram realizadas no atacado com hospitais e/ou similares e para utilização dos medicamentos em pacientes, demonstração que não houve, sequer se sabendo quem foram, no caso, os destinatários dos produtos" (fl.107, e-STJ).
+4. Segundo a jurisprudência do STJ, ocorre cerceamento de defesa quando se indefere a produção probatória e condena-se o requerente pela ausência de provas em contrário, justamente o que ocorreu no caso dos autos.
+5. Agravo Regimental não provido.
+(AgRg no AgRg no REsp 1.280.559/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/08/2013, DJe 13/09/2013 - destaquei).
+RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA - PRECLUSÃO - AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DO ACÓRDÃO RECORRIDO - INCIDÊNCIA DA SÚMULA 283/STF - TRANSAÇÃO E PRESCRIÇÃO - AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIA DA SÚMULA 211/STJ - PRODUÇÃO DE PROVAS - CRITÉRIO DO MAGISTRADO - JULGAMENTO ANTECIPADO DA LIDE - CERCEAMENTO DE DEFESA - OCORRÊNCIA, NA ESPÉCIE - RECURSO IMPROVIDO.
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado.
+2. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." (Súmula 283/STF).
+3. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo." (Súmula 211/STJ).
+4. Cabe ao Magistrado da causa analisar o cabimento da produção de provas, deferindo ou não a sua produção. Contudo, há cerceamento de defesa quando, julgada antecipadamente a lide, a sentença fundamenta-se na ausência de prova da pretensão.
+5. O âmago do pedido autoral (coação na formalização do distrato) depende diretamente da produção de prova oral.
+6. Recurso improvido.
+(REsp 1.134.690/PR, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 15/02/2011, DJe 24/02/2011 - destaquei).
+PROCESSO CIVIL. AÇÃO DE INDENIZAÇÃO MORAL E MATERIAL. CONTA-POUPANÇA. TRANSFERÊNCIA INDEVIDA. JULGAMENTO ANTECIPADO DA LIDE. AUSÊNCIA DA NECESSÁRIA INSTRUÇÃO PROBATÓRIA. CERCEAMENTO AO DIREITO DE DEFESA. MATÉRIA DE ORDEM PÚBLICA. ANULAÇÃO DE OFICIO DA SENTENÇA PELO ACÓRDÃO RECORRIDO. POSSIBILIDADE. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Evidenciada a necessidade da produção de provas requeridas pela autora, a tempo oportuno, constitui cerceamento de defesa o julgamento antecipado da lide, com infração aos princípios constitucionais do contraditório, ampla defesa e devido processo legal.
+2. A violação a tais princípios constitui matéria de ordem pública e pode ser conhecida de ofício pelo órgão julgador.
+3. Recurso especial não-provido.
+(REsp 714.467/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/09/2010, DJe 09/09/2010).
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para, anulando a sentença e o acórdão recorrido, determinar o retorno dos autos ao primeiro grau, a fim de que seja reaberta a instrução probatória.
+Publique-se e intimem-se.
