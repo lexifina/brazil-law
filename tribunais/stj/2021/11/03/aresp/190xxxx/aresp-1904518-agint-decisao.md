@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interno interposto por GERALDO PEREIRA DA SILVA contra a decisão da Presidência desta Corte Superior de fls. 261-263 (e-STJ), que não conheceu do agravo em recurso especial.
+O apelo especial foi fundado nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça da Paraíba assim ementado (e-STJ, fls. 149-150):
+AGRAVO INTERNO NO RECURSO APELATÓRIO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA EINDENIZAÇÃO. ALEGAÇÃO DE EMPRÉSTIMO CONSIGNADO FRAUDULENTO EM NOME DO AUTOR. SENTENÇA QUE RECONHECE A PRESCRIÇÃO QUINQUENAL. RECURSO. ALEGAÇÃO DE PRESCRIÇÃO DECENAL. REJEIÇÃO. PRECRIÇÃO QUINQUENAL. INTELIGÊNCIA DO ART. 27 DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES DO SUPERIOR TRIBUNAL DEJUSTIÇA E DESTA CORTE. APLICAÇÃO DA SÚMULA Nº 568/STJ. APLICAÇÃO DO ART. 932, IV DO CPC. MANUTENÇÃO DO DECISUM RECORRIDO. DESPROVIMENTO DO AGRAVO.
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CIVIL. CONSUMIDOR. NEGÓCIOS JURÍDICOS BANCÁRIOS. INVESTIMENTO FICTÍCIO. ESTELIONATO PRATICADO POR GERENTE DE INSTITUIÇÃO FINANCEIRA. APLICAÇÃO DO CDC. DEFEITO DO SERVIÇO. PRETENSÃOINDENIZATÓRIA. PRESCRIÇÃO QUINQUENAL.
+1. Controvérsia acerca da prescrição da pretensão indenizatória originada de fraude praticada por gerente de instituição financeira contra seus clientes.
+2. "As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto talresponsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno" (REsp 1.197.929/PR, rito do art. 543-C do CPC).
+3. Ocorrência de defeito do serviço, fazendo incidir a prescrição quinquenal do art. 27 do Código de Defesa do Consumidor, quanto à pretensão dirigida contra a instituição financeira.
+4. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp 1391627/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRATURMA, julgado em 04/02/2016, DJe 12/02/2016)"-
+Nos precisos termos do enunciado do artigo 932, inciso IV, alínea "a" do, Código de Processo Civil de 2015, em vigor, "Incumbe ao relator:  ..  negar provimento a recurso que for contrário a:  ..  súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal".
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 178-193).
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, ofensa aoart. 205 do CC.
+Esclareceu que se opôs aoacórdão que decretou a prescrição da ação, desconsiderando que seaplicaria ao caso o lapsoprescricionaldecenal, em razão da ausência de previsão legal de prazo prescricional para as ações de repetição de indébito relativas a empréstimo consignado.Arguiu que não incide na hipótese o teor do art. 27 do CDC, que prevê prescrição quinquenal. Pleiteou o provimento do recurso especial (e-STJ, fls. 187-207).
+Negado seguimento ao recurso especial, foi interposto agravo em recurso especial, o qual foi julgado pela Presidência deste Tribunal Superior. Contra esse decisum interpõe odemandante o agravo interno.
+Neste recurso, frisa que atacou todos os fundamentos da decisão de inadmissibilidade do recurso especial, inclusive a aplicação da Súmula 83/STJ. Reafirma as teses lançadas no apelo especial acima sumariadas. Pugna pelo conhecimento e provimento do agravo (e-STJ, fls. 266-276).
+Contraminuta apresentada (e-STJ, fls. 279-291).
+Brevemente relatado, decido.
+Reexaminando a petição de agravo em recurso especial, observa-se que o insurgente questionou todos os pontos da decisão de inadmissibilidade do recurso especial, conforme as fls. 235-251 (e-STJ), inclusive a incidência da Súmula 83/STJ, conforme as fls. 241 e 243-244(e-STJ).
+Logo, é caso de reconsideração da decisão da Presidência desta Corte Superior, estabelecendo o conhecimento do agravo em recurso especial.
+O aresto estadual entendeu que a ação envolvia pretensão por reparação porvício na prestação de serviços ao consumidor, o que atrairiao prazo prescricional do art. 27 do CDC - 5 (cinco) anos.
+Confira-se trecho do acórdão (e-STJ, fl. 151):
+Faz-se oportuno e pertinente proceder à transcrição da fundamentação da decisão ora agravada, a qual bem fundamenta o recuso, considerando que reconheceu a prescrição quinquenal, já que a ação questiona vício na prestação de serviços ao consumidor e o prazo prescricional a ser aplicado é o que está previsto no art. 27 do Código de Defesa do Consumidor.
+Portanto, considerando que os descontos guerreados na inicial foram realizados entre 09/07/2010 até 09/09/2011, e que a demanda só foi ajuizada em 09/10/2017, é de se concluir que a pretensão da autora já foi fulminada pela prescrição, assim como perfilhou a Sentença de primeiro grau.
+Tal panorama conduz à insubsistência das razões levantadas no agravo interno em desate, encontrando-se, inclusive, nas exatas linhas do artigo 932, CPC, haja vista corroborarem o entendimento jurisprudencial dominante acerca do tema, :in verbis:  .. .
+Nessamesma linha, no sentido da prescrição quinquenal, vejam-se acórdãos deste Tribunal de uniformização:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. NOVO EXAME DO AGRAVO NOS PRÓPRIOS AUTOS. INEXISTÊNCIA DE DÉBITO. REPETIÇÃO DE INDÉBITO.DANOS MORAIS. PRESCRIÇÃO QUINQUENAL. ART. 27 DO CDC. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM.AUSÊNCIA DE AFRONTA AO ART. 1.022, I E II, DO CPC/2015. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N.83 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO NOS PRÓPRIOS AUTOS DESPROVIDO.
+1. Inexiste afronta ao art. 1.022, I e II, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. Tratando-se de pretensão decorrente de descontos indevidos, por falta de contratação, em decorrência de defeito do serviço, aplica-se o prazo prescricional quinquenal previsto no art. 27 do Código de Defesa do Consumidor (CDC). Precedentes.
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1673611/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/09/2020, DJe 22/09/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO.PRESCRIÇÃO QUINQUENAL. DECISÃO RECORRIDA EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. TERMO INICIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A consonância entre a decisão recorrida e a jurisprudência do STJ obsta o conhecimento do recurso especial, nos termos da Súmula n. 83 do STJ.
+2. "A ocorrência de defeito do serviço faz incidir a prescrição quinquenal quanto à pretensão dirigida contra a instituição financeira (art. 27 do CDC)" (AgInt no AREsp n. 1.173.934/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/9/2018, DJe 21/9/2018).
+3. "Tratando-se de ação de repetição de indébito, o termo inicial para o cômputo do prazo prescricional corresponde à data em que ocorreu a lesão, ou seja, a data do pagamento" (AgInt no AREsp n.1.056.534/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/4/2017, DJe 3/5/2017).
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. No caso concreto, a análise das razões apresentadas pela recorrente, quanto ao momento em que ocorreu a lesão ao direito, demandaria o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1479916/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2020, DJe 16/03/2020)
+Logo, é caso de aplicação daSúmula 83/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Fica mantida a observação a respeito dos honorários advocatícios constante na decisão ora agravada (e-STJ, fl. 262).
+Ante o exposto, em juízo de retratação, conheço do agravo para negar provimento ao do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. ATAQUE A TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. RECONSIDERAÇÃO. CONCLUSÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. PRESCRIÇÃO QUINQUENAL. ART. 27 DO CDC. SÚMULA 83/STJ. EM JUÍZO DE RECONSIDERAÇÃO, AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
