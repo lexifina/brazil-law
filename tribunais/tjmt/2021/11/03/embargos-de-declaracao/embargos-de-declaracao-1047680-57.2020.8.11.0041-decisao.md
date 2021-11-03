@@ -1,0 +1,36 @@
+EMBARGANTE: ESTADO DE MATO GROSSO
+EMBARGADO: FAZENDA PIONEIRA EMPREENDIMENTOS AGRÍCOLAS S.A.
+Vistos, etc.
+Trata-se de embargos de declaração opostos pelo ESTADO DE MATO GROSSO contra a decisão monocrática que, com fulcro na Súmula 568 do STJ, deu parcial provimento ao recurso interposto, para determinar o retorno dos autos à primeira instância para o seu regular prosseguimento.
+Nas razões recursais, o embargante alega omissão na decisão, aduzindo que este Relator não enfrentou os argumentos deduzidos pelo Estado, em especial sobre o entendimento do STJ firmado no julgamento do AgRg no RMS 28.414/MS, segundo o qual “a existência de prazo legal para a prática de ato administrativo, cuja omissão se ataca, tem relevância apenas para fins de identificação do termo inicial do prazo decadencial, que, nestes casos, começa a correr a partir do momento em que se esgota o prazo legal fixado para a autoridade administrativa concretizá-lo.”
+Ainda, sustenta que o decisum também não se pronunciou acerca da ofensa ao art. 23 da Lei 12016/09.
+Pautado nesses argumentos, requer o acolhimento dos embargos para suprir as omissões apontadas.
+Contrarrazões pelo desprovimento dos embargos.
+É o relatório.
+Decido.
+Conforme relatado, cuida-se de embargos de declaração opostos pelo ESTADO DE MATO GROSSO contra a decisão monocrática que, com fulcro na Súmula 568 do STJ, deu parcial provimento ao recurso interposto, para determinar o retorno dos autos à primeira instância para o seu regular prosseguimento.
+A decisão combatida, entretanto, não se encontra maculada pelo vício apontado pela embargante e cuja presença é imprescindível para o acolhimento dos embargos declaratórios, nos termos do art. 1.022 do CPC, veja-se:
+“Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I – esclarecer obscuridade ou eliminar contradição;
+II – suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III – corrigir erro material”.
+Com efeito, não há na decisão impugnada qualquer omissão acerca do entendimento do STJ firmado no julgamento do AgRg no RMS 28.414/MS, que dispõe que “a existência de prazo legal para a prática de ato administrativo, cuja omissão se ataca, tem relevância apenas para fins de identificação do termo inicial do prazo decadencial, que, nestes casos, começa a correr a partir do momento em que se esgota o prazo legal fixado para a autoridade administrativa concretizá-lo”.
+Isso porque, da leitura do referido julgado na íntegra, verifica-se que o Tribunal da Cidadania possui o mesmo entendimento exarado na decisão, que se coaduna também com o entendimento deste Tribunal de Justiça, pelo qual o ato coator (omissivo) se renova a cada dia que a Autoridade Coatora desrespeita a regra legal que impõe prazo para prática de determinado ato, de modo que o prazo previsto no art. 123 da Lei n.o 12.016/2009 se renova a cada dia/mês, veja-se:
+“5. No entanto, a pretensão mandamental refere -se a ato administrativo omissivo, consubstanciado na não implementação nos proventos do recorrente dos valores referentes ao vencimento de Secretário -Adjunto, incorporados aos seus vencimentos pela Lei Estadual 3.345/06, sendo certo que a existência de prazo legal para sua implementação não altera a natureza omissiva continuada da conduta administrativa de não executar os ditames legais.
+6. Tem -se, pois, que a insurgência não decorre de ato único de efeito concretos, mas da recusa administrativa em pôr em prática a reforma administrativa. Segundo o impetrante, foram atualizados os valores dos cargos identificados pela nova rubrica DGA -1, mas permaneceram inalterados os valores referentes aos cargos identificados sob a rubrica DAS -1.
+7. O suposto ato omissivo do Poder Público dá -se, portanto, a cada provento pago sem a aludida atualização da verba incorporada ora pretendida, renovando -se mensalmente. Dest'arte, uma vez impugnada conduta omissiva continuada da Administração Pública, o prazo previsto no art. 23 da Lei 12.016/09 se renova mês a mês, de sorte que a decadência não se opera (...)” – grifos nossos.
+Assim, apesar da relevante fundamentação exposta, tem-se que houve equívoco pela parte embargante na interpretação de apenas um trecho do entendimento do STJ firmado no julgamento do AgRg no RMS 28.414/MS, de modo que não há, portanto, que se falar em omissão na decisão, visto que a matéria foi devidamente enfrentada, sendo colacionado na decisão, inclusive, diversos julgados deste Sodalício com o mesmo entendimento acerca do tema:
+“RECURSO DE APELAÇÃO - MANDADO DE SEGURANÇA - PEDIDO DE ENQUADRAMENTO DE CLASSE - REQUERIMENTO ADMINISTRATIVO PENDENTE DE ANÁLISE – ATO OMISSIVO - INAPLICABILIDADE DO PRAZO DE 120 DIAS – NÃO OCORRÊNCIA DE DECADÊNCIA – MOROSIDADE NA ANÁLISE DA ADMINISTRAÇÃO - AFRONTA AO ART. 37 DA LEI No 7692/2002 E AO PRINCÍPIO DA RAZOABILIDADE – INCISO LXXVIII, ART. 5o DA CF - VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO COMPROVADA – SENTENÇA REFORMADA - RECURSO PROVIDO. Em se tratando de ato omissivo, como na análise de procedimento administrativo, não opera a decadência prevista do art. 23 da Lei no 12.016/2009. Nos termos do art. 37 da Lei no 7692/2002, o prazo máximo para decisões em qualquer pedido administrativo é de 120 (cento e vinte) dias. O procedimento administrativo não pode ser “ad eternum” em respeito ao princípio da duração razoável do processo, contido no inciso LXXVIII do artigo 5o na Constituição Federal”. (TJ-MT 10116003620168110041 MT, Relator: MÁRCIO APARECIDO GUEDES, Data de Julgamento: 03/05/2021, Segunda Câmara de Direito Público e Coletivo, Data de Publicação: 10/05/2021)
+Em verdade, o embargante busca apenas a rediscussão da matéria fática e jurídica já apreciada e decidida, com clareza e fundamentação, no decisum impugnado, o que, como sabido, não é crível de ser exercitado na via augusta dos embargos de declaração.
+Nesse sentido é o recente entendimento do Colendo Superior Tribunal de Justiça:
+“(...) Os embargos de declaração são cabíveis apenas quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que são inadmissíveis para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada.
+2. Embargos de declaração rejeitados”. (EDcl no AgInt no AREsp 738.273/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/06/2019, DJe 28/06/2019).
+Esse, também, é o entendimento desta Egrégia Corte:
+“(...) Não havendo omissão, contradição ou obscuridade a serem supridas, descabem embargos de declaração, mormente se todos os pontos trazidos à discussão foram enfrentados no julgado embargado, ainda que suscitem prequestionamento” (N.U 0004343-79.2016.8.11.0007, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, MARIA APARECIDA RIBEIRO, Segunda Câmara de Direito Público e Coletivo, Julgado em 11/06/2019, Publicado no DJE 27/06/2019).
+Sendo assim, destituídas de pertinência mencionadas formulações, uma vez que não se ajustam aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventuais omissões, contradições ou obscuridades do próprio julgado.
+Com essas considerações, rejeito os embargos de declaração opostos.
+Publique-se.
+Intime-se.
+Cuiabá, 03 de novembro de 2021.
+Alexandre Elias Filho
+Relator Convocado
