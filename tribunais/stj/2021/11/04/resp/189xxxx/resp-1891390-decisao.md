@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por TRANSNORDESTINA LOGÍSTICA S/A, com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (fl. 98):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE. CONSTRUÇÃO ÀS MARGENS DE FERROVIA. ÁREA NÃO EDIFICÁVEL. DEMOLIÇÃO DE IMÓVEL. IRREVERSIBILIDADE DO PROVIMENTO. TUTELA DE URGÊNCIA INDEFERIDA. AUSÊNCIA DOS REQUISITOS NECESSÁRIOS.
+1. Insurge-se a TRANSNORDESTINA LOGÍSTICA S/A, em face de decisão, que, em sede de Cumprimento de Sentença nº 0002382-39.2011.4.05.8201, determinou a suspensão da ordem de demolição e desocupação.
+2. Com efeito, nos termos do art. 300, do CPC/15, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Além disso, é necessário que não haja perigo de irreversibilidade dos efeitos da decisão (art.
+300, § 3º, do CPC/15).
+3. A Primeira Turma já firmou entendimento no sentido de que a demolição desses imóveis não in limine prescinde da prévia demonstração de que os trilhos próximos à área estejam em atividade. Isso porque foi verificado, em outros pleitos da concessionária agravante, que muitos deles encontram-se no mais completo abandono - o que propiciou a ocupação nessa área -, o que afasta o risco à segurança das pessoas que ali se instalaram.
+4. Após a análise dos autos, verifica-se que as provas apresentadas não conduzem à conclusão de que há dano irreparável ou de difícil reparação, no caso de demora da decisão, mesmo porque as construções existentes no local são antigas e, até a presente data, nenhum risco causarem à autora. Logo, não há se cogitar de risco de dano imediato a prevenir.
+5. Há, contudo, perigo da irreversibilidade do provimento, de maior gravidade, já que a concessão da liminar pleiteada submeteria os agravados às consequências drásticas de uma desocupação forçada, com a demolição de suas residências, baseada em uma mera cognição sumária da demanda.
+6. Agravo de instrumento não provido.
+Embargos de declaração opostos e rejeitados (fls. 150/151).
+A recorrente aponta violação dos arts. 9º, § 2º, do Decreto 2.089/1963 e 4º, III, dad Lei n. 6.769/1979, que definem os conceitos e aplicação dos institutos faixa de domínio e área não edificável. Alega violação dos arts. 99, 100 e 102 do CC; 200 do DL 9.760/1946; 183, § 3º, 191, parágrafo único, da CF; e Súmula 340/STF, aduzindo argumentação a respeito da violação da coisa julgada, segurança jurídica, bens públicos, mera detenção e ocupação irregular às margens da linha férrea e risco à segurança.
+Contrarrazões a fls. 308-318.
+Inadmitido o apelo nobre na origem, deu-se provimento ao AREsp tão somente para determinar sua conversão em REsp, sem prejuízo de posterior análise de seus pressupostos de admissibilidade (fl. 381).
+É o relatório. Decido.
+Cuida-se na origem de agravo de instrumento contra decisão que liminarmente suspendeu o cumprimento de sentença pertinente à demolição de edificação que se encontrasseem faixa de domínio - bem público - e área não edificável - limitação administrativa - ao longo de trechoda ferrovia, por falta de comprovação da referida proximidade.
+Na espécie, dispôs o acórdão que a suspensão liminar deu-se em razão de não haver informação que comprovasse queas edificações estariam nas proximidades das áreas dos trilhos em atividade, existindo perigo da irreversibilidade do provimento, com base em mera cognição sumária da demanda, não havendo provas de dano irreparável ou de difícil reparação no caso de demora, bem como de risco de segurança/dano a prevenir. Assim consigna em sua fundamentação (fl. 97):
+A Primeira Turma já firmou entendimento no sentido de que a demolição desses imóveis não in limine prescinde da prévia demonstração de que os trilhos próximos à área estejam em atividade. Isso porque foi verificado, em outros pleitos da concessionária agravante, que muitos deles encontram-se no mais completo abandono - o que propiciou a ocupação nessa área -, o que afasta o risco à segurança das pessoas que ali se instalaram.
+Verifica-se que as provas apresentadas não conduzem à conclusão de que há dano irreparável ou In casu, de difícil reparação, no caso de demora da decisão, mesmo porque as construções existentes no local são antigas e, até a presente data, nenhum risco causarem à autora. Logo, não há se cogitar de risco de dano imediato a prevenir.
+Há, contudo, perigo da irreversibilidade do provimento, de maior gravidade, já que a concessão da liminar pleiteada submeteria os agravados às consequências drásticas de uma desocupação forçada, com a demolição de suas residências, baseada em uma mera cognição sumária da demanda.
+Com efeito, a jurisprudência do STJ é firme no sentido da inviabilidade da revisão, no âmbito do recurso especial, dos requisitos concessivo de medida liminar, por demandar o reexame do suporte fático-probatório analisado pelo Tribunal a quo. Incidência da Súmula 7/STJ.
+A propósito, na parte que interessa:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL.  ..  REVISÃO DOS REQUISITOS CONCESSIVOS DA MEDIDA LIMINAR. INVIABILIDADE. QUESTÃO ENFRENTADA PELA CORTE DE ORIGEM COM BASE NOS ELEMENTOS DE PROVA. INCIDÊNCIA DAS SÚMULAS N. 7 DO STJ E 735/STF. PRECEDENTES.
+I - Na origem, trata-se de agravo de instrumento contra decisão que deferiu pedido de tutela de urgência para determinar reforço em penhora. No Tribunal a quo, negou-se provimento ao agravo. Nesta Corte, o recurso especial foi parcialmente conhecido e improvido.
+ ..
+III - Por outro lado, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu pela presença dos requisitos necessários à concessão da tutela de urgência.
+IV - Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ, bem como, por analogia, a Súmula n. 735/STF. No mesmo sentido, destacam-se os seguintes precedentes, in verbis: AgInt no REsp n. 1.807.693/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/12/2019, DJe 12/5/2020 e AgInt no AREsp n. 1.241.263/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 27/8/2019, DJe 6/9/2019.
+ ..
+(AgInt no AREsp 1.711.236/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 11/10/2021, DJe 14/10/2021)
+Consigne-se, ainda, que a jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula n. 735/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  ..  ANTECIPAÇÃO DE TUTELA. MÉRITO DA CAUSA. RELAÇÃO. OFENSA. MATÉRIA FÁTICO-PROBATÓRIA. REEXAME. IMPOSSIBILIDADE. SÚMULAS Nº 735/STF E Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+ ..
+4. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+5. No caso, rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.814.741/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+Os dispositivos legais apontados violados não foram objeto de juízo de valor pelo Tribunal de origem, de modo que não se conhece do recurso porfalta de cumprimento do requisito do prequestionamento. Incidência da Súmula 211/STJ.
+O recurso também não se viabiliza quanto à alegada ofensa à Súmula 340/STF, porquanto enunciado sumular não se insere no conceito de lei federal, para efeito de admissibilidade do recurso especial. Incide ao caso a Súmula 518/STJ ("Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula.").
+Outrossim, inviável a abertura da via especial, a fim de alegar violação de norma constitucional, sob pena de supressão de competência do próprio STF, ainda que seja a título de prequestionamento objetivando a interposição de recurso extraordinário.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. REVISÃO DOS REQUISITOS CONCESSIVOS DA MEDIDA LIMINAR. INVIABILIDADE. JUÍZO FIRMADO COM BASE NOS ELEMENTOS DE PROVA.SÚMULAS 7/STJ E 735/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.VIOLAÇÃO DE ENUNCIADO SUMULAR. SÚMULA 518/STJ. NORMA CONSTITUCIONAL. VIOLAÇÃO. COMPETÊNCIA DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
