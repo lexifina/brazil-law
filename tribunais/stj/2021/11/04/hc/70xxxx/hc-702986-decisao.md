@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 112):
+Recurso em sentido estrito  Roubo qualificado (art. 157, § 2o, inc. II, do Código Penal) - Recurso ministerial objetivando a decretação da prisão preventiva do acusado  Admissibilidade  Prisão preventiva necessária para a garantia da ordem pública e conveniência da instrução criminal  Recurso provido.
+Consta dos autos denúnciapela prática docrimedescritonoart. 157, § 2º, II,do Código Penal. Decretada a prisão preventiva, posteriormente houve a concessão de liberdade provisória, o que foi alvo de recurso em sentido estrito pelo Ministério Público, provido pelo Tribunal a quo.
+Sustenta a defesa, em síntese, a ausência dos requisitos ensejadores da prisão preventiva, bem como risco de contágio da nova epidemia.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para revogar a prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A matéria relativa à pandemia da Covid-19 não foi examinada pelo Tribunal a quo. Tal circunstância obsta a apreciação da questão por essa e. Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta do acórdão impugnado (fl. 113):
+ ..  Não se desconhece que a custódia cautelar é medida extrema, todavia, a despeito dos argumentos expendidos pelo d. Magistrado, o mero compromisso de comparecer aos demais atos do processo não se mostra suficiente ao caso.
+O Recorrido é acusado de ter praticado o gravíssimo crime de roubo majorado pelo concurso de agentes.
+Enquanto seu comparsa foi preso em flagrante após o roubo, Alex empreendeu fuga dos policiais, demonstrando, desde o início, conduta destinada a furtar-se da aplicação da Lei Penal. O cumprimento do mandado de prisão ocorreu após mais de um ano de sua expedição (mandado de prisão expedido em 06/2020 e cumprido em 03/08/2021).
+Mesmo após o Recorrido demonstrar a nítida intenção de furtar-se ã aplicação da Lei Penal, obteve o benefício da liberdade provisória dias após a sua segregação (17/08/2021).
+Frisa-se, ainda, que Alex é portador de maus antecedentes.
+Diante disso, necessária a sua segregação cautelar, porquanto patente o risco à sociedade.  ..
+Como se vê, consta da decisão colegiada, proferida em 25/10/2021, fundamentação adequada para reformar a decisão que concedeu liberdade provisória em 17/8/2021 (fl. 97), demonstrando a necessidade de continuidade da prisão, com destaque para o fato de que o paciente permaneceu em fuga até ser preso em 3/8/2021, além da existência de reiteração delitiva.
+Assim, "a evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal" (AgRg no RHC n. 117.337/CE, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 21/11/2019, DJe 28/11/2019)" (RHC 140.788/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021).
+Além disso, apericulosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
