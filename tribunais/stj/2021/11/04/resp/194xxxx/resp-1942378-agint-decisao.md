@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 899/903) interposto contra decisão da Presidência deste Tribunal Superior que não conheceu do recurso especial por considerá-lo extemporâneo (e-STJ fls. 895/896).
+Em suas razões, as agravantes sustentam queo recurso seria tempestivo, poisa contagem dos prazos processuais estava suspensa nos dias 8/4, 9/4, 12/4 e 21/4/2021, eque teriam sido intimadas do acórdão recorrido em 5/4/2021, e não em 1º/4/2021.
+Ao final, pedem a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+Sem impugnação (e-STJ fls. 906/907).
+É o relatório.
+Decido.
+"O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso" (CPC/2015, art. 1.003, § 6º).
+No caso, a parte trouxe, por ocasião da interposição doespecial, prova da suspensão do expediente forense do Tribunal de origem durante a fluência do prazo de sua interposição (e-STJ fls. 851/855),sendo de rigor o reconhecimento de sua tempestividade.
+Diante do exposto, com fundamento no art. 259 do RISTJ, reconsidero a decisão agravada (incluindo oarbitramento de honorários recursais)e prossigo no exame do recurso.
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 819):
+Ação Indenizatória. Compromisso de Compra e Venda. Atraso na entrega da obra. Condenação ao pagamento dos lucros cessantes pela não fruição do imóvel, independentemente de comprovação, porém, limitados em 0,5% do valor do imóvel e devidos a partir da expiração do prazo de tolerância. Aplicação do índice INCC que deve perdurar durante o período de construção, devendo ser substituído pelo IGPM quando vencido o prazo estipulado contratualmente. Dano moral. Inocorrência.. Mero dissabor considerado o atraso de poucos meses na entrega do imóvel. Recurso parcialmente provido.
+Nas razões apresentadas (e-STJ fls. 827/850), as recorrentes apontam ofensa aoart. 393 do CC/2002, alegando que:
+(a) existiria força maior ou caso fortuitoa justificar o atraso na entrega da obra e, por consequência, excluiro seu dever de indenizara parte recorrida, e
+(b) o contrato permitiria a reprogramação do prazo de entrega do empreendimento, após o fim do período de tolerância, ante a ocorrência das mencionadas causasexcludentes de responsabilidade civil.
+Indicam dissídio jurisprudencial eafronta aos arts. 402 e 403 do CC/2002 e 396 e 401 do CPC/2015, aduzindo que:
+(a) seria indevido condená-lasa pagar indenização por lucros cessantes, visto que os recorridosnão teriam comprovado os prejuízos experimentados, e
+(b) caso mantido o dever de reparação de tais lucros, o montante indenizatório fixado em 0,5% (cinco décimos percentuais), por ser desproporcional,deveria ser reduzido de para 0,3% (três décimos percentuais)do valor do contrato,
+(c)"era indispensável, para serem devidos os pretendidos lucros cessantese até para proporcionar o adequado exercício do contraditório e da ampla defesa às recorrentes, que os recorridos instruíssem a petição inicial com prova documental de que o imóvel se destinava à locação" (e-STJ fl. 840).
+Sustentam, por fim, que fariamjus à atualização do saldo devedor do imóvel pelo INCC, mesmo após o transcurso do prazo de entrega do empreendimento imobiliário. Indicam precedentes no ponto.
+Foram apresentadas contrarrazões (e-STJ fls. 861/874).
+O recurso foi admitido na origem (e-STJ fls. 875/878).
+A Corte local não se manifestou quanto aosarts. 393 do CC/2002, 396 e 401 do CPC/2015. Dessa forma, sem teremsido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, asmatériascontidasem taisdispositivoscarecemde prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A Justiça local reconheceu que houve o atraso na entrega das obras, nos seguintes termos (e-STJ fl. 821):
+Em 10 de março de 2010, as partes firmaram instrumento particular de compromisso de compra e venda do imóvel Apartamento 21, Torre Magnólia, pelo valor de R$190.812,00, localizado na cidade de Campinas -SP. A entrega das chaves do imóvel ocorreu somente em fevereiro de 2013. Incontroverso o descumprimento contratual da Ré quanto à data limite para entrega do imóvel, que se esgotou em junho de 2011, já considerado o prazo de tolerância de 180 dias.
+Ultrapassar as conclusões do acórdão impugnado, para descaracterizar o inadimplemento das recorrentese, por consequência, excluir o seu deverde indenizar os recorridos, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Ademais, a jurisprudência da Segunda Seção do STJ, firmada na sistemática dos recursos repetitivos, é no sentido de que, "no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp n. 1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019).
+No caso, a Justiça de origem condenou as recorrentes ao pagamento de lucros cessantes, ante a presunção dos prejuízos dos compradores por causa do atraso na entrega doimóvel(e-STJ fl. 822).
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplicatanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+A parte deixou de indicar os dispositivos legais supostamente ofendidosou que tiveram sua aplicação negada ao sustentar o pedido de revisão dos lucros cessantes e e ao pleitear a atualização do saldo devedor pelo INCC, mesmo após o transcurso do prazo de conclusão da obra.
+Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.Nesse contexto: AgRg no AREsp n. 410.404/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgRg no AREsp n. 816.653/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2016, DJe 4/4/2016.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus dos quais as recorrentes não se desincumbiram.
+Registre-se, por fim, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Ante o exposto, RECONSIDERO a decisão agravada para afastar a intempestividade do especial e, emnovo exame, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
