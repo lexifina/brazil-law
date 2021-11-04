@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Instituto Nacionaldo Seguro Social contra decisão proferida pelo Presidente do TribunalRegional Federal da 3ª Região que negou seguimento ao seu recurso especialsob o óbice daSúmula83/STJ.
+Em razões de agravo em recurso especial, sustenta o agravante areconsideração da decisão, alegando para tanto que a jurisprudência doSTJ, citada na decisão de inadmissibilidade, refere-se a tema diverso doseu pleito recursal.
+O prazo para apresentação de contraminuta ao recurso especial transcorreu in albis.
+O recurso especial que se pretende o seguimento, impugna acórdão assimementado:
+PREVIDENCIÁRIO. AUXÍLIO DOENÇA. INCAPACIDADE PARCIAL EPERMANENTE.
+1. O benefício de auxílio doença é devido ao segurado incapacitado por moléstia que inviabilize temporariamente o exercício de sua profissão. Já a aposentadoria por invalidez exige que o segurado seja considerado incapaz e insusceptível de convalescença para o exercício de ofício que lhe garanta a subsistência.
+2. Laudo pericial conclusivo pela existência de incapacidade parcial e permanente.
+3. Preenchidos os requisitos, faz jus o autor ao restabelecimento do benefício de auxílio doença, não estando configurados os requisitos legais à concessão da aposentadoria por invalidez, que exige que o segurado seja considerado incapaz e insusceptível de convalescença para o exercício de ofício que lhe garanta a subsistência.
+4. Sendo possível a reabilitação profissional, impende salientar a aplicabilidade do disposto no Art. 62, da Lei nº 8.213/91.
+5. A correção monetária, que incide sobre as prestações em atraso desde as respectivas competências, e os juros de mora devem ser aplicados de acordo com o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+6. Os juros de mora incidirão até a data da expedição do precatório/RPV, conforme decidido em 19.04.2017 pelo Pleno do e. Supremo Tribunal Federal quando do julgamento do RE 579431, com repercussão geral reconhecida. A partir de então deve ser observada a Súmula Vinculante nº 17.
+7. Os honorários advocatícios devem observar as disposições contidas no inciso II, do § 4º, do Art. 85, do CPC, e a Súmula 111, do e. STJ.
+8. A autarquia previdenciária está isenta das custas e emolumentos, nos termos do Art. 4º, I, da Lei 9.289/96, do Art. 24-A da Lei 9.028/95, com a redação dada pelo Art. 3º da MP 2.180-35/01, e do Art. 8º, § 1º, da Lei8.620/93.
+9. Remessa oficial, havida como submetida, e apelação do réu providas em parte e apelação do autor desprovida.
+Opostos embargos de declaração, rejeitados.
+Em razões de recurso especial o recorrente, ora agravante, defende que houve violação do artigo60, §§ 8º e 9º, daLei 8.213/91, que autorizam a cessação automática do benefício sema necessidade de prévia realização de perícia médica ou nova decisão judicial. Ressalva aindaque foi negado vigência ao artigo 71 da Lei 8.213/1991, tendo em vista que nãohá previsão legal para que se condicione o cancelamento do benefício àcomunicação prévia do juízo.
+É o relatório.
+Decido.
+Inicialmente cumpre dizer que recai ao presente recurso o EnunciadoAdministrativo 3/STJ.
+O agravante impugnou especificamente o fundamento adotado na decisãoagravada e mostrando-se presentes os demais pressupostos deadmissibilidade do presente recurso, adentra-se o mérito.
+A questão recursal está em saber se para cessar o auxílio-doença énecessário prévia perícia médica, considerando o instituto da altaprogramada previsto na lei previdenciária.
+De fato, como argumentado pelo recorrido, o artigo 60, § 8º, da Lei8.213/1991, introduzido pela Lei 13.457/2017, determina que o termo finalpara o pagamento do auxílio-doença deverá ser fixado sempre que possível,e que, no caso de não ter sido estabelecido, o benefício cessará após oprazo de cento e vinte dias, contado da data de concessão ou de reativaçãodo auxílio-doença.
+Desta feita, a cessação automática prevista no §9, do artigo 60, da Lei8.213/91 somente se dá quando houver omissão na decisão que concede obenefício.
+No caso dos autos, o Tribunal de origem, avaliando a situação peculiar dodemanda, determinou a realização de perícia médica para constatação darecuperação do segurado.
+Desta feita, observa-se que o acórdão proferido pelo Tribunal a quo nãoviolou os dispositivos de lei apontados pelo INSS, ao concluir pelanecessidade de realização de perícia médica para avaliar a cura dosegurado.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. AÇÃO DE CONCESSÃO DE AUXÍLIO-DOENÇA. ART. 60, § 8o.DA LEI8.213/1991. IMPOSSIBILIDADE DE FIXAÇÃO DO TERMO FINAL PARAPAGAMENTO DOBENEFÍCIO. NA IMPOSSIBILIDADE DE FIXAÇÃO DA DATA FINAL DEPAGAMENTO, REVELA-SE ADEQUADA A CONDICIONANTE DE REALIZAÇÃO DEPERÍCIA ADMINISTRATIVAA CARGO DO INSS. AGRAVO INTERNO DO INSS A QUE SENEGA PROVIMENTO.
+1. O art. 60, § 8o. da Lei 8.213/1991, é claro aoconsignar que o prazofinal para pagamento do auxílio-doença deverá ser fixado sempre quepossível, o que implica reconhecer que haverá casos em que tal data nãopoderá ser fixada, não havendo que se falar, assim, na obrigatoriedadelegal de fixação do termo final da prestação concedida na via judicial.
+2. No caso dos autos, o Tribunal entendeu pela impossibilidade de se fixaruma data final para a efetiva recuperação da capacidade laboral da autora.Nessa medida, ao invés de fixar um termo final fictício, como sugereo parág. 8o. do art. 60 da Lei 8.213/1991, condicionou asuspensão dobenefício à reavaliação administrativa por meio de perícia médica,determinando que a questão fosse acompanhada nas revisões administrativasrealizadas pelo INSS, estabelecendo, ainda, que o cancelamento se dêquando a perícia administrativa constatar que não mais persiste aincapacidade, nos exatos termos do que preconiza o art. 101 da Lei8.213/1991.
+3. A decisão tomada pela instância de origem em nada viola os dispositivosde lei apontados pelo INSS. Ao contrário, lhes dá conformidade aoreconhecer que, quando o prognóstico de cura não se revela próximo, oideal é que a situação seja acompanhada por periódicas perícias realizadaspelo INSS, de modo a assegurar que, uma vez recuperada a capacidade doSegurado, os pagamentos serão cessados.
+4. Ao contrário do que faz crer o INSS, o disposto no parág. 9o. do art.60 da Lei 8.213/1991 não lhe confere prerrogativa paracancelar todobenefício de auxílio-doença no prazo de 120 dias. A cessação automáticaprevista no dispositivo somente se dá quando há omissão na decisão queconcede o benefício.
+5. Na hipótese, não houve omissão na decisão judicial. O prazo final nãofoi estabelecido em razão das particularidades da situação analisada,sendo transferido ao INSS o dever de reanálise da situação de saúde datrabalhadora em perícia administrativa periódica.
+6. Agravo Interno do INSS a que se nega provimento.
+(AgInt no AREsp 1539870/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO,PRIMEIRA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+Ademais, como argumentado pelo recorrido, o artigo 71 daLei 8.213/1991determina que o INSS deve rever os benefícios ainda que concedidos judicialmente para avaliar a persistência atenuação ou agravamento da incapacidade pra o trabalho.
+Entretanto, o fato de a lei impor à autarquia previdenciária afiscalização administrativa não afasta a necessidade de comunicação ao juízo para que o magistrado decida sobre a revogação ou não da tutela anteriormente concedida.
+A jurisprudência do SuperiorTribunal de Justiça, que exige o ajuizamento de demanda perante oPoder Judiciário para o cancelamento do benefício judicialmenteconferido.
+ilustrativamente:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. CESSAÇÃO ADMINISTRATIVA. DO BENEFICIO. AUXÍLIO-DOENÇA. CONCESSÃO POR MEIO DE DECISÃO JUDICIAL.CANCELAMENTO ADMINISTRATIVO. INADMISSIBILIDADE. NECESSIDADE DE AÇÃO JUDICIAL.
+I - Trata-se de ação para concessão de auxílio-doença de segurada da Previdência Social. O Juízo de 1º grau de jurisdição julgou o pedido procedente, sendo mantido pelo Tribunal de origem no julgamento da apelação.
+II - Não merece prosperar a pretensão da parte recorrente em legitimar a "alta programada", sob o fundamento de que a manutenção do benefício concedido depende obrigatoriamente de pedido de prorrogação.
+III - Com efeito, o Decreto n. 5.844/06 alterou o Regulamento da Previdência Social  RPS (Decreto n. 3.048/99) para acrescentar os §§ 1º a 3º do art. 78, estabelecendo regra para o cancelamento do auxílio-doença, em que, após determinado período de tempo definido em perícia, o benefício é cancelado automaticamente. Tal regra passou a ser denominada "alta programada".
+IV - O referido decreto possibilita ainda ao segurado o pedido de prorrogação, quando não se sentir capacitado para o trabalho ao fim do prazo estipulado.
+V - A referida alteração no RPS foi considerada pela jurisprudência desta Corte como contrária ao disposto no art. 62 da Lei n.8.213/1991, artigo que determina que o benefício seja mantido até que o segurado esteja considerado reabilitado para o exercício de atividade laboral, o que deverá ocorrer mediante procedimento administrativo com contraditório.
+VI - A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de somente ser possível a revisão da aposentadoria por incapacidade permanente concedida judicialmente mediante outra ação judicial. A propósito: REsp n. 1.201.503/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 26/11/2012, AgRg no REsp n.
+1.267.699/ES, relatora Ministra Alderita Ramos de Oliveira, Desembargadora convocada do TJ/PE, Sexta Turma, julgado em 16/5/2013, DJe 28/5/2013.
+VII - No mais, o fato de a lei impor à autarquia previdenciária a fiscalização administrativa não afasta a jurisprudência do Superior Tribunal de Justiça, que exige o ajuizamento de demanda perante o Poder Judiciário para o cancelamento do benefício judicialmente conferido.
+VIII - Agravo interno improvido.
+(AgInt no AREsp 1778732/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 31/05/2021, DJe 02/06/2021)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253,parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimentoao recurso especial. Caso exista nos autos prévia fixação de honoráriosadvocatícios pelas instâncias de origem, determino sua majoração emdesfavor da parte recorrente, no importe de 15% sobre o valor jáarbitrado, percentual esse justificado pelo tempo decorrido entre ainterposição do recurso e julgamento e a complexidade da causa, nos termosdo art. 85, § 11, do Código de Processo Civil. Os limites percentuaisprevistos nos §§ 2º e 3º do referido dispositivo legal devem serobservados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO 3/STJ. AUXÍLIO-DOENÇA. ALTA PROGRAMADA.CESSAÇÃO DO BENEFÍCIO. NA IMPOSSIBILIDADE DE FIXAÇÃO DA DATA FINAL DEPAGAMENTO, REVELA-SE ADEQUADA A CONDICIONANTE DE REALIZAÇÃO DEPERÍCIA ADMINISTRATIVA A CARGO DO INSS. PRECEDENTES. COMUNICAÇÃO AO JUÍZO. PRECEDENTE. AGRAVO CONHECIDO PARANEGAR PROVIMENTO AO RECURSO ESPECIAL.
