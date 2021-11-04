@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de revisão criminal, com pedido liminar, impetrado em benefício de MATHEUS ANDREW MOREIRA SERRAO, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Pará (fls. 29-35).
+Daí o presente habeas corpus, no qual a d. Defesa sustenta nulidade.
+Aduz que em todos os demais mandados constava a determinação de notificação e anotação acerca do interesse em recorrer da sentença, o que não teria ocorrido em relação ao paciente.
+Requer, inclusive LIMINARMENTE, "desconstituir o trânsito em julgado da condenação, determinando-se anova intimação do paciente nos autos sobre o seu interesse em recorrer da sentença condenatória, com a devolução do prazo recursal, e a expedição de alvará de soltura em prol do Paciente, que se pede por ser de Direito e Justiça" (fl. 26).
+Trânsito em julgado certificado na origem.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, nos termos do entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+No caso, o presente habeas corpus não comporta sequer conhecimento, primeiro, porque substitutivo de via própria; e, segundo, em razão da mera reiteração de pedidos nos HC n. 627.188/PA e HC n. 667.172/PA.
+Explico.
+Não obstante a repetição de impetração anterior nesta eg. Corte, a matéria já foi devidamente apreciada nas duas oportunidades.
+Colaciono as ementas nos HC n. 627.188/PA e HC n. 667.172/PA, cujos argumentos restaram assim julgados por esta Quinta Turma, na ordem:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÂNSITO EM JULGADO. REVISÃO CRIMINAL. FALTA PRESSUPOSTOS. IMPOSSÍVEL EM HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No presente caso, conforme já esclarecido na decisão agravada, o habeas corpus não é sucedâneo de revisão criminal - seja pela necessidade de reexame fático- probatório, pela incompetência desta eg. Corte, em razão da supressão de instância, ou pela falta dos pressupostos do art. 621 do CPP.
+III - Explica-se ainda que, acerca da supressão de instância, mesmo em matéria de ordem pública, "em habeas corpus impetrado nesta Corte, não se pode apreciar pretensão não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância  ..  As questões de ordem pública, para estarem sujeitas à jurisdição do Superior Tribunal de Justiça na via do remédio heroico, também devem ultrapassar a formalidade processual acima. Precedentes" (AgRg no HC n. 521.849/SC, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 19/08/2020).
+IV - No caso concreto, a d. Defesa se insurge em face de r. decisão monocrática proferida por Em. Des. do eg. Tribunal de origem, que, embora a total inadequação das razões à via lá eleita, afastou, no caso vertente, a alegada flagrante ilegalidade - tudo o que também foi verificado na decisão ora agravada, concretamente, de forma a não se evidenciar qualquer ato coator.
+V - No mais, a d. Defesa se limitou a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido." (grifei)
+"PROCESSO PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. SENTENÇA CONDENATÓRIA. INTIMAÇÃO PESSOAL DO RÉU. DESNECESSIDADE. ART. 392, II, DO CPP. INTIMAÇÃO REGULAR DO PATRONO CONSTITUÍDO. TRÂNSITO EM JULGADO REGULARMENTE CERTIFICADO. INEXISTÊNCIA DE NULIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Consoante o disposto no art. 392, II, do Código de Processo Penal, em se tratando de réu solto, é suficiente a intimação do defensor constituído acerca da r. sentença condenatória.
+III - Assente nesta eg. Corte que "a intimação frustrada do paciente, que respondeu solto, não implica ofensa ao devido processo legal ou à ampla defesa, porquanto intimada regularmente a defesa técnica" (HC n. 430.433/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 25/04/2018).
+IV - Nem se olvide que "Inexiste previsão legal no sentido de que, ao ser intimado pessoalmente da sentença condenatória, o réu deva ser indagado acerca da sua intenção de recorrer. Precedentes do STJ e do STF" (HC n. 437.344/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 20/6/2018).
+V - Não obstante, consoante se afere dos autos, tanto o réu quanto a d. Defensoria Pública foram intimados pessoalmente da r. sentença condenatória, verbis (fl. 81): "(..) houve a intimação pessoal do revisionando (certidão PJe Id nº 4.002.048), bem como a intimação da Defensoria Pública, que lhe representava nos autos da Ação Penal".
+Habeas corpus não conhecido." (grifei)
+Diante desse cenário, sobre a impossibilidade de conhecimento de habeas corpus, ou de seu recurso ordinário, quando configurada a mera reiteração de pedidos, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. MERA REITERAÇÃO DE RECURSO ORDINÁRIO ANTERIORMENTE INTERPOSTO. AGRAVO DESPROVIDO.
+1. Constatado que o presente recurso ordinário é mera reiteração de outro recurso ordinário interposto anteriormente perante esta Corte, com identidade de causas de pedir e de pedidos, não há como dar curso à irresignação.
+2. Ainda que haja documento da Secretaria de Administração Penitenciária atestando "não dispor  o Estado  de instalações compatíveis a "Sala de Estado Maior"", consoante afirma o agravante, é certo que tal documento não foi apreciado pela Corte de origem no writ originário, o que também impediria o conhecimento da presente irresignação, uma vez que a análise da matéria por esta Corte configuraria indevida supressão de instância e violação dos postulados do devido processo legal e do duplo grau de jurisdição.
+3. Agravo regimental a que se nega provimento." (AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe 1º/3/2019).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO FORMULADO EM OUTRO WRIT. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte.
+2. No caso em exame, as causas de pedir expostas em ambas impetrações são idênticas, bem como os pedidos de suspensão da execução provisória da pena imposta ao agravante pelas instâncias ordinárias.
+3. Hipótese em que a defesa pretende a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais.
+4. Agravo regimental não provido." (AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 19/2/2019).
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. REITERAÇÃO DE PEDIDO. AGRAVO DESPROVIDO.
+1. O recurso ordinário traz pedido idêntico ao formulado no HC 393.851/BA e em ambos se ataca acórdão do Tribunal de Justiça da Bahia no Habeas Corpus n. 0023373-89.2016.8.05.0000. Referida impetração teve seu mérito julgado em maio do corrente ano.
+2. Diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento do recurso ordinário.
+Agravo regimental desprovido." (AgRg no RHC 84.693/BA, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 16/8/2017).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. MATÉRIA ANALISADA EM PRÉVIO RECURSO EM HABEAS CORPUS. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO PARA JULGAMENTO DE RECURSO EM SENTIDO ESTRITO. RECURSO JÁ JULGADO. EVENTUAL DELONGA SUPERADA. RECURSO NÃO PROVIDO.
+1. Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto.
+2. "Julgado o Recurso em Sentido Estrito, resta superada a alegação de excesso de prazo para análise do mérito do referido recurso" (RHC n. 66.467/GO, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 9/3/2016).
+3. Agravo regimental não provido." (AgRg no HC 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 10/8/2017).
+No mesmo sentido, o col. Supremo Tribunal Federal:
+"Agravo regimental em recurso ordinário em habeas corpus. Processual Penal. Homicídio qualificado na modalidade tentada. Decisão de pronúncia. Alegada nulidade do acórdão que negou provimento ao recurso em sentido estrito. Excesso de linguagem. Não ocorrência. Excesso de prazo. Tema que se encontra em apreciação em outro habeas corpus impetrado na Corte. Reiteração. Precedentes. Regimental não provido.  ..  3. No tocante ao excesso de prazo da prisão do recorrente, registro que o tema encontra-se em apreciação em outro habeas corpus impetrado na Corte. Logo, não há razão para a análise da questão, visto que o recurso ordinário, neste ponto, é mera reiteração de impetração anterior. 4. Agravo regimental ao qual se nega provimento." (AgRg no RHC 147748, Segunda Turma, Rel. Min. Dias Tóffoli, DJe 4/4/2018, grifei).
+Ante o exposto, configurada a reiteração de pedidos, indefiro liminarmente o presente habeas corpus.
+P. I.
