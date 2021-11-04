@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PEQUENA PROPRIEDADE RURAL - IMPENHORABILIDADE -REQUISITOS - AUSÊNCIA.
+- A impenhorabilidade prevista no art. 5º XXVI da CF/88 bem como no art. 833, VII, do CPC, exige que a propriedade rural seja pequena, assim definida em lei, e que seja trabalhada pela família. Ausentes a comprovação de tais requisitos, deve ser afastada a tese de impenhorabilidade.
+A parte agravante sustenta que sua propriedade possui 24 hectares, o que corresponde a uma unidade fiscal, no município de Uberaba, motivo por que se classifica dentro dos parâmetros estabelecidos pela legislação em vigência para sua caracterização como pequena propriedade rural. Afirma que não se exige a prova de que o produtor rural ou sua família residam no imóvel. Argumenta que a exploração de atividade pecuária nesse imóvel é sua única fonte de subsistência.
+O exame do acórdão recorrido revela que a Corte de origem admitiu que o imóvel se enquadra nos limites de tamanho exigidos para seu reconhecimento como propriedade rural - todavia, é imprescindível a comprovação de que a família trabalhe nessa propriedade, prova esta que está ausente dos autos. Confira-se:
+No caso dos autos, da mesma forma que entendeu o d. Julgador de primeiro grau, penso que o agravante não trouxe provas suficientes a alicerçar suas alegações de que o imóvel penhorado é explorado economicamente pelo excipiente se tratando da única fonte de renda de sua família.
+Importante destacar, ainda, que o agravado no presente feito se encontra qualificado como "empresário", sendo certo que as fotos encartadas às f. 167/180 (ordem 12), não se prestam, por si só, a comprovar com a certeza necessária a alegação de que o referido imóvel é explorado pelo agravante e sua família sendo sua única fonte de subsistência.
+Destaca-se, por fim, que o agravante poderia ter demonstrado tal assertiva por meio de qualquer nota fiscal de venda; comprovante de inscrição em algum cadastro de produtor rural, efetivada em seu nome, ou qualquer outro documento deste tipo, porém, não o fez.
+Destaca-se, ainda, que em agravo de instrumento de nº 1.0701.14.029371-6-001, proferida em outra execução, de relatoria da Des. Monica Libano, foi indeferido o pedido do ora agravante de impenhorabilidade do mesmo imóvel, igualmente, por falta de comprovação dos requisitos necessários.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
