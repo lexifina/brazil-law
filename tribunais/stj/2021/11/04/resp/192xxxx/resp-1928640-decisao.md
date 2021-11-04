@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal contra acórdão assim ementado (fl.168):
+DIREITO PROCESSUAL CIVIL. HABILITAÇÃO DE CRÉDITO EM RECUPERAÇÃO JUDICIAL. CONDENAÇÃO EM VERBA SUCUMBENCIAL. INSURGÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO. LITIGIOSIDADE NÃO CARACTERIZADA. PROVIMENTO.
+1- São devidos honorários advocaticios nas hipóteses em que o pedido de habilitação de crédito, em recuperação judicial, for impugnado, posto que enseja caracterização da litigiosidade ao processo;
+2- No caso dos autos não houve impugnação, sendo imperiosa a exclusão sentencial da verba condenatória sucumbencial;
+3- Provimento
+Opostos os embargos de declaração, foram rejeitados.
+A recorrente sustenta ofensa ao artigo 90 do Código de Processo Civil, defendendo a condenação da recorrida ao pagamento de honorários advocatícios em habilitação de crédito em recuperação judicial, ainda que não tenha havido resistência ao pedido.
+Argumenta que a parte vencida deu causa ao ajuizamento da ação, pois o crédito poderia ter sido incluído quando do ajuizamento do pedido de recuperação judicial. Acrescenta ainda que não há nos arts. 85 e 90 do CPC exceção alguma ao pagamento de honorários de sucumbência.
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que a conclusão do acórdão recorrido encontra respaldo na jurisprudência desta Corte.
+Isso porque o Tribunal de origem afastou a condenação ao pagamento da verba honorária sob o entendimento de que "não houve impugnação à habilitação e, por conseguinte, não houve caracterização da litigiosidade" (fl.172).
+Este Superior Tribunal firmou entendimento no sentido de que "tratando-se de habilitação ou impugnação de crédito em processos envolvendo concurso de credores, é cabível, como regra, a condenação em honorários advocatícios de sucumbência, desde que apresentada resistência à pretensão" (REsp 1.759.004/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 13.12.2019)
+Com efeito, os honorários advocatícios são devidos nas hipóteses em que o pedido de habilitação de crédito em recuperação judicial for impugnado, situação na qual se instaura a litigiosidade ao procedimento de forma a incidir a regra do art. 85, § 2º do CPC. Confiram-se, a propósito, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE IMPUGNAÇÃO DE CRÉDITO. HONORÁRIOS SUCUMBENCIAIS. IMPOSITIVIDADE. DECISÃO MANTIDA.
+1. Conforme a jurisprudência desta Corte, "é impositiva a condenação em honorários de sucumbência quando apresentada impugnação ao pedido de habilitação de crédito em sede de recuperação judicial ou falência, haja vista a litigiosidade da demanda" (AgInt no REsp n.1.770.394/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/12/2019, DJe 18/12/2019.) 2. "A Segunda Seção do Superior Tribunal de Justiça possui entendimento no sentido de que a aplicação do critério da equidade só será aplicável de forma subsidiária ao arbitramento dos honorários quando inviável a aplicação dos critérios legais anteriormente previstos, o que não é a hipótese dos autos" (REsp 1.746.072/PR, Relatora Ministra NANCY ANDRIGHI, Relator p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe 29/3/2019).
+3. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1324719/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - RECUPERAÇÃO JUDICIAL - INCIDENTE DE HABILITAÇÃO DE CRÉDITO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Incide o óbice contido na Súmula 7/STJ às pretensões voltadas para afastar o reconhecimento da litispendência e aferir a subsunção do crédito objeto da presente demanda aos efeitos da recuperação judicial.
+2. Consoante entendimento jurisprudencial adotado nesta Corte, é impositiva a condenação aos honorários de sucumbência quando apresentada impugnação ao pedido de habilitação de crédito em sede de recuperação judicial ou falência, haja vista a litigiosidade da demanda. Incidência da Súmula 83/STJ.3. Agravo interno desprovido.(AgInt no AREsp 1153887/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 19.12.2018)
+Dessa forma, considerando que, ausente impugnação ao pedido de habilitação de crédito em recuperação judicial, não há condenação ao pagamento da verba honorária de sucumbência, estando o acórdão recorrido em sintonia com a jurisprudência deste Tribunal, nos termos da Súmula 83 do STJ.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
