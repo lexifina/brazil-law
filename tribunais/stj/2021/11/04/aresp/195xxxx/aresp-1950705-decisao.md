@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãocuja ementa é a seguinte:
+PROCESSO CIVIL E ADMINISTRATIVO. CERCEAMENTO DA ATIVIDADE PROBATÓRIA. NÃOCONFIGURADA. REGISTRO EM CONSELHO PROFISSIONAL. ATIVIDADE BÁSICA DA EMPRESA. LEI Nº6.839/80. ATIVIDADES DE CONSULTORIA EM GESTÃO EMPRESARIAL, EXCETO A CONSULTORIATÉCNICA ESPECÍFICA, BEM COMO COBRANÇA E INFORMAÇÕES CADASTRAIS. APELAÇÃO DESPROVIDA.
+1. A questão debatida nos presentes autos refere-se à obrigatoriedade de inscrição da autora junto ao Conselho Regional de Administração do Estado de São Paulo - CRA/SP.
+2. Não há se falar em cerceamento da atividade probatória em razão do indeferimento da realização de prova oral e de inspeção judicial, pois a questão ora discutida depende apenas da apresentação de documentos que demonstrem a atividade preponderante desenvolvida pela empresa, sendo prescindível a verificação in loco ou a oitiva de testemunhas. Além disso, o magistrado detém o poder-dever de apreciar livremente a prova e decidir por sua oportunidade e conveniência, podendo indeferir aquela que considerar desnecessária, como na hipótese dos autos.
+3. O registro em órgão de fiscalização profissional tem por pressuposto a atividade básica exercida pela empresa ou a natureza dos serviços prestados, a teor do disposto no artigo 1º da Lei nº 6.839/80.
+4. No caso em apreço, verifica-se que a atividade preponderante desempenhada pela autora consiste na prestação de serviços de consultoria em gestão empresarial, exceto a consultoria técnica específica, bem como atividades de cobrança e informações cadastrais, as quais, segundo a jurisprudência, são privativas de Administrador, sujeitando-se a empresa que as explora ao registro junto ao Conselho Regional de Administração. Precedentes.
+5. A r. sentença deve ser mantida tal como lançada, reconhecendo-se a obrigatoriedade de inscrição da autora no CRA/SP e declarando-se a validade do débito consubstanciado no auto de infração nº S007270.
+6. Apelação desprovida.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreuviolação doart. 1º da Lei 6.839/1980. Alega:
+Consoante demonstrado no recurso de apelação interposto pela Recorrente, é imprescindível que o objeto da atividade da Recorrente é de consultoria em gestão empresarial, não se atendo ao campo de administração financeira. A Luz que preceitua o artigo 1º da Lei nº 6.839/80, o que norteia a obrigatoriedade de habilitação do registro junto aos Conselhos de Fiscalização é a atividade básica preponderante que as sociedades empresárias desempenham, também denominada pela jurisprudência de atividade-fim.
+Contraminuta apresentada às fls. 363-368, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5.10.2021.
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+Adentrando ao mérito, cumpre asseverar que o registro em órgão de fiscalização profissional tem por pressuposto a atividade básica exercida pela empresa ou a natureza dos serviços prestados, a teor do disposto no artigo 1º da Lei nº 6.839/80, in verbis:
+(..)
+No caso em apreço, verifica-se que a atividade básica desempenhada pela autora consiste na prestação de serviços de consultoria em gestão empresarial, exceto a consultoria técnica específica, bem como atividades de cobrança e informações cadastrais, as quais, segundo a jurisprudência, são privativas de Administrador, sujeitando-se a empresa que as explora ao registro junto ao Conselho Regional de Administração.
+Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO. CRQ.ANUIDADE. INEXIGIBILIDADE. CONSTATAÇÃO MEDIANTE A AFERIÇÃO DA DOCUMENTAÇÃO ACOSTADA AOS AUTOS. IMPOSSIBILIDADE DE REVISÃO DE TAL CONCLUSÃO EM RECURSO ESPECIAL. AGRAVO INTERNO DO CONSELHO DE FISCALIZAÇÃO A QUE SE NEGA PROVIMENTO.
+1. Segundo orientação consolidada nesta Corte Superior, a fiscalização por Conselhos Profissionais almeja a regularidade técnica e ética do profissional mediante a aferição das condições e habilitações necessárias para o desenvolvimento adequado de atividades qualificadas como de interesse público, determinando-se, assim, a compulsoriedade da inscrição junto ao respectivo órgão fiscalizador, para o legítimo exercício profissional.
+2. Ademais, a Lei 6.839/1980, ao regulamentar a matéria, dispôs em seu art. 1o. que a inscrição deve levar em consideração, ainda, a atividade básica ou em relação àquela pela qual  as empresas e os profissionais  prestem serviços a terceiros.
+3. Na hipótese dos autos, extrai-se que a Corte de origem, conjugando a legislação de regência com a documentação acostada aos autos, alcançou a conclusão de que as atividades básicas da empresa não estão sujeitas a registro e fiscalização do Conselho de Química, nem impõem a obrigação de manter profissional da área de química como responsável técnico (fls. 214).
+4. Dessa forma, tendo as instâncias ordinárias concluído que a hipótese dos autos não contempla a exigibilidade da cobrança da anuidade, por ausência de fato gerador, a alteração de tal entendimento demandaria necessariamente uma nova incursão no acervo fático-probatório dos autos, o que é vedado no âmbito do Recurso Especial. Precedentes: AREsp. 1.682.405/PR, Rel. Min. Herman Benjamin, DJe 26.8.2020; REsp. 887.966/RJ, Rel. Min. Castro Meira, DJ 10.4.2007.
+5. Agravo Interno do Conselho de Fiscalização a que se nega provimento.
+(AgInt no AREsp 1.686.361/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 12.11.2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. CREA. REGISTRO. EMPRESA DE PEÇAS E ACESSÓRIOS PARA ELETRODOMÉSTICOS E PARA APARELHOS DE REFRIGERAÇÃO.ATIVIDADE BÁSICA. PRETENSÃO QUE ENCONTRA ÓBICE NA SÚMULA 7 DO STJ.
+1. Consoante a jurisprudência do STJ, a obrigatoriedade de inscrição no Conselho Profissional é determinada pela atividade básica ou pela natureza dos serviços prestados. União.
+2. Na hipótese dos autos, o Tribunal regional, com fulcro nos elementos de convicção, concluiu que "No presente caso, o objeto social da empresa é "comércio varejista de peças e acessórios para eletrodomésticos e para aparelhos de refrigeração e a prestação de serviços de reparo de eletrodomésticos e aparelhos de refrigeração" (evento 1, CONTRSOCIAL4). Ora, tais atividades não se enquadram nas hipóteses que descrevem atribuições privativas de engenheiro. " (fl.218, e-STJ).
+3. A alteração do entendimento proferido na origem, tal como colocada a questão nas razões recursais, demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular por ocasião do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp 1.682.405/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 26.8.2020)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
