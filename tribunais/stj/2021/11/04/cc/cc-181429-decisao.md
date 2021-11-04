@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo Federal da 1ª Vara de Limeira - SJ/SP, suscitante, e o Juízo de Direito da 1ª Vara Criminal de Limeira - SP, suscitado.
+Discute-se, nos autos, a competência para processar e julgar a prática dodelitode roubo contra uma agência da Empresa Brasileira de Correios e Telégrafos.
+O Juízo de Direito declinou da competência, sob o fundamento de que o crime foi perpetrado em detrimento de interesse da União.
+Por sua vez, o Juízo federal ressaltou que o montante subtraído de titularidade dos Correios -R$ 229,58 - é insignificante, quando comparado com o valor que pertencia ao Banco do Brasil (Banco Postal) - R$ 12.859,35. Por isso, entende que a competência é da Justiça comum estadual.
+O Ministério Público Federal ofertou parecer pelo conhecimento do conflito para declarar competente o Juízo suscitado.
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Com razão o Juízo Federal.
+Como bem salientado pelo Subprocurador-Geral da República, em seu parecer, o prejuízo causado à empresa pública (R$ 229,58) representa apenas 1,78% daquele experimentado pela Sociedade de Economia Mista. Ou seja, o prejuízo à ECT foi ínfimo. A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. ROUBO MAJORADO PRATICADO EM AGÊNCIAS DOS CORREIOS. BANCO POSTAL. SUBTRAÇÃO DE ENCOMENDAS. LESÃO AO SERVIÇO POSTAL. DESTRUIÇÃO DE EQUIPAMENTO DE SEGURANÇA. PREJUÍZO PARA A EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS CONFIGURADO.COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A Terceira Seção desta Corte Superior de Justiça firmou o entendimento de que, nos casos de delitos praticados em detrimento da Empresa Brasileira dos Correios e Telégrafos  EBCT, a competência será estadual quando o crime for perpetrado contra banco postal (situação assemelhada a de agência franqueada) e houver ocasionado efetivo prejuízo unicamente a bens jurídicos privados.
+Por outro lado, incidirá o art. 109, IV, da Constituição Federal  CF, nos casos em que a ofensa for direta à EBCT, ou seja, ao serviço-fim dos correios, os serviços postais, atraindo, pois, a competência federal. Precedentes: CC 155.448/MG, de minha relatoria, DJe 2/3/2018; AgRg no CC 164.656/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 29/4/2019 e CC 145.800/TO, Rel. Ministro REYNALDO SOARES DA FONSECA,DJe 25/4/2016.
+2. A competência da Justiça Estadual tem sido reconhecida no caso de roubo a banco postal quando as condutas delitivas não forem dirigidas aos serviços típicos da empresa pública federal e quando o prejuízo aos correios for inexistente ou irrisório. De outro lado, quando evidenciado o dano ao serviço postal (como encomendas e pacotes de sedex roubados), a Terceira Seção já reconheceu a competência da Justiça Federal, ainda que se tratasse de agência franqueada.
+"Evidenciado o dano ao serviço postal, em razão do roubo de material enviado por SEDEX, está caracterizada a lesão ao serviço-fim dos Correios, a atrair a competência federal" (CC 133.751/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Rel. p/ Acórdão Ministro NEFI CORDEIRO, DJe 4/12/2014).
+ ..
+5. Ademais, nos termos do artigo 109, incido IV, da Constituição Federal  CF, aos juízes federais compete julgar "os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral". O roubo de encomendas configura a prática de delito em detrimento de um serviço prestado pelos Correios, empresa pública federal 6. Conflito de competência conhecido para declarar competente o Juízo Federal da 1ª Vara de Colatina  SJ/ES, o suscitado.
+(CC 173.659/ES, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 09/09/2020, DJe 14/09/2020).
+AGRAVO REGIMENTAL EM CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. AÇÃO PENAL. ROUBO PERPETRADO CONTRA AGÊNCIA DOS CORREIOS. PREJUÍZO DA EMPRESA PÚBLICA ÍNFIMO PERANTE O DO CORRESPONDENTE BANCÁRIO (BANCO POSTAL), DE RESPONSABILIDADE DO BANCO DO BRASIL S/A (SOCIEDADE DE ECONOMIA MISTA). COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES DA TERCEIRA SEÇÃO.
+1. Em crimes perpetrados em detrimento de agência dos Correios, a circunstância determinante, para fins de fixação da competência federal, é a existência de prejuízo efetivo à empresa pública federal.
+2. No caso do autos, há informação de que o dano suportado pela empresa pública federal (Correios) foi ínfimo perante o prejuízo do Banco do Brasil S/A (sociedade de economia mista), em razão da atividade (banco postal) operacionalizada naquela agência, circunstância que rechaça a competência da Justiça Federal.
+3. Agravo regimental improvido.
+(AgRg no CC 164.656/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 24/04/2019, DJe 29/04/2019).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 1ª Vara Criminal de Limeira - SP, suscitado.
+Comunique-se. Publique-se.
