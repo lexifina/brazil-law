@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação daSúmulan. 7do STJ (e-STJ fls. 585/586).
+O Tribunal de origem negou provimento ao agravo dosrecorrentes, em julgado que recebeu a seguinte ementa (e-STJ fl. 500):
+AGRAVO DE INSTRUMENTO - execução de quantia certa - cédula de crédito bancário garantida por cessão fiduciária - executada que está em recuperação judicial - decisões que deferem penhora sobre ativos financeiros e bloqueio de cartões de crédito - pretensão à revogação da penhora sobre os bens em virtude do trâmite da recuperação judicial, requerimento de desbloqueio dos cartões e pedido de redução do percentual penhorado - descabimento - cédulas de crédito bancário firmadas tem como garantia cessões fiduciárias dos títulos de crédito, que não se submetem aos efeitos da recuperação judicial, conforme determinação legal - art. 49, §3º, da Lei nº 11.101/2005 - medida de bloqueio de cartão de crédito - inexistência de impedimento legal e ausência de ofensa a quaisquer direitos fundamentais protegidos pela CRFB - redução da porcentagem da penhora do valor do débito - agravantes que não trazem ao recurso elementos que demonstrem a necessidade da redução - argumentos genéricos insuficientes - penhoras e bloqueio que devem ser mantidos - recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 543/550).
+No recurso especial (e-STJ fls. 553/564), fundamentado no art. 105, III, "a", da CF, osrecorrentes alegaram violação dos arts. 47 e 76da Lei n. 11.101/2005, umavez que o Juízoa quonão detém competência para deferir penhora sobre ativos financeiros da empresa recuperanda. Sustentaram que, mesmo em caso de créditos extraconcursais, a competência é do juízo universal.
+Apontaram afronta aos arts. 139, IV, 789 e 805 do CPC/2015, defendendo que a medida de bloqueio dos cartões de crédito dos agravantes é inócua e incompatível com o princípio da menor onerosidade, sendo, ainda, desprovida de utilidade prática.
+Buscam, em suma, o provimento do recurso especial, para que "o v. acórdão seja reformado a fim de restabelecer a vigência e aplicabilidade dos artigos 47 e 76 da Lei 11.101/05, como também, dos artigos 139, IV, 789 e 805 do Código de Processo Civil, corroborado nas alegações de fato e de direito deduzidas" (e-STJ fl. 564).
+Não f  oram apresentadas contrarrazões.
+No agravo (e-STJ fls. 589/602), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta apresentada (e-STJ fls. 617/625).
+É o relatório.
+Decido.
+I - Da competência do juízo recuperacional
+A Corte local, ao afastar os argumentos de que o Juízoa quoé incompetente para a constrição dos ativos da recuperanda, concluiu que as cédulas de crédito bancário firmadas com garantia de cessões fiduciáriasnão se submetem aos efeitos da recuperação judicial, conforme determinação do art. 49, § 3º, da Lei n. 11.101/2005. Confira-se (e-STJ fls. 506/507):
+Pois bem.
+A recuperação judicial da empresa agravante foi distribuída em 09 de outubro de 2017 e as cessões fiduciárias dos títulos de crédito foram registradas em 02 de março de 2016 e em 21 de agosto de 2017.
+Cumpre ressaltar que, como regra, o deferimento de processamento da recuperação judicial gera a suspensão das execuções individuais.
+ ..
+No presente caso, contudo, as cédulas de crédito bancário firmadas tem como garantia cessões fiduciárias dos títulos de crédito, que não se submetem aos efeitos da recuperação judicial, conforme determinação legal.
+ ..
+Reitera-se, inclusive, que o próprio art. 52, inciso III, da Lei nº 11.101/05, dispõe que a suspensão de todas as ações ou execuções contra o devedor, na forma do art. 6º, não atingirá as ações relativas a crédito na forma do §3º do art. 49.
+Desse modo, conclui-se que o crédito decorrente de título exequendo garantido por cessão fiduciária não se submete aos efeitos do regime de recuperação judicial, o que permite o prosseguimento da demanda em relação a tais créditos.
+Tal entendimento está em consonância com a jurisprudência do STJ, a qual se firmou no sentido de que os créditos garantidos por alienação fiduciária não submetem aos feitos da recuperação judicial. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. CRÉDITOS GARANTIDOS POR ALIENAÇÃO FIDUCIÁRIA NÃO SUJEITOS À RECUPERAÇÃO. AUSÊNCIA DE VIOLAÇÃO AO ART. 49, § 3º, DA LEI 11.101/2005. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Os arts. 13, 15, 41, § 2º, e 83 da Lei 11.101/2005, apesar da oposição dos embargos de declaração, não foram prequestionados, o que atrai a incidência da Súmula 211/STJ.
+2. A jurisprudência uníssona desta eg. Corte firmou-se no sentido de que, em "(..) face da regra do art. 49, § 3º, da Lei 11.101/2005, não se submetem aos efeitos da recuperação judicial os créditos garantidos por alienação fiduciária" (CC 131.656/PE, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/10/2014, DJe de 20/10/2014).
+3. Considerando que o v. acórdão estadual está em consonância com a jurisprudência desta eg. Corte, o apelo nobre, pela alínea c do permissivo constitucional, esbarra na Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 912.237/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.)
+Incide, portanto, a Súmula n. 83 do STJ.
+II - Da medida coercitiva atípica
+O Tribunal de origem, com base nos fatos e nas provas dos autos, acolheu as medidas coercitivas atípicas (penhora sobre ativos financeiros e bloqueio de cartão de crédito dos executados), sob o argumento de que traria efetividade à execução. Assim consignou (e-STJ fls. 508/509):
+Quanto ao bloqueio do cartão de créditos dos executados, a medida mostra-se aplicável, já que não há impedimento algum e nem mesmo ofensa a quaisquer direitos fundamentais protegidos pela CRFB.
+Ao que consta, os executados não demonstraram interesse em adimplir o débito.
+Nesse sentido, mostra-se pertinente a imposição de medidas coercitivas bastantes à satisfação do credor. Decerto que a nova legislação possibilitou medidas coercitivas atípicas, de maneira ponderada e razoável, restando que, no caso concreto, diante do alongamento da dívida, bem como a quantia cobrada encontrar-se em patamar cada vez mais elevado, sem qualquer pronunciamento dos devedores, revela-se a suspensão de seus cartões de crédito.
+ ..
+Por fim, alegam os agravantes excesso de execução e requerem a redução do percentual a penhora a, no máximo, 5% (cinco por cento) do valor total do débito.
+Não trouxeram, todavia, argumentos que demonstrassem a imprescindibilidade de tal redução. A alegação é por demais genérica e não há elementos no recurso que permitam a concessão liminarmente da medida.
+Tampouco foi juntada planilha que pudesse indicar equívoco na r. decisão.
+Conforme os trechos transcritos, com base no contexto fático-probatório dos autos, o acórdão recorrido concluiu que as medidas requeridas seriam razoáveis e garantiriam a satisfação do crédito.
+Ultrapassar esse entendimento, a fim de analisar as condições no caso concreto, demandaria revolvimento de fatos e provas, o que é vedado pela Súmula n. 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS COERCITIVAS ATÍPICAS. ART. 139, IV, DO CPC/2015. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SALÁRIO. PENHORA. IMPOSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. No caso concreto, o tribunal de origem concluiu que as medidas de suspensão da CNH e de cancelamento do cartão de crédito da parte executada são inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, procedimento vedado em recurso especial (Súmula nº 7/STJ).
+4. A impenhorabilidade de remunerações disposta no artigo 833, IV, do CPC/2015 comporta exceção quando se tratar de execução de dívida de natureza alimentar ou quando a renda mensal for superior a 50 (cinquenta) salários mínimos. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.876.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/08/2021, DJe 30/08/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTE. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REVOLVIMENTO DE CONTEÚDO FÁTICOPROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É assente a cognição jurisprudencial deste Sodalício no sentido de que as medidas de satisfação do crédito perseguido em execução não podem extrapolar os liames de proporcionalidade e razoabilidade, de modo que contra o executado devem ser adotadas as providências menos gravosas e mais eficazes. Precedente.
+2. No caso em exame, o Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu que os pedidos formulados pelo exequente, de suspensão de passaporte, de suspensão da CNH e de cancelamento dos cartões de crédito e débito, seriam excessivamente gravosos aos executados e desproporcionais à obrigação de pagamento do débito, mormente considerando que, no caso, o Juízo a quo já deferira medida adequada a compelir os devedores ao adimplemento, determinando inclusão de seus nomes nos cadastros de proteção ao crédito. A revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.283.998/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/10/2018, DJe 17/10/2018.)
+AGRAVO INTERNO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Nos termos da jurisprudência desta Corte Superior, a penhora sobre o faturamento da empresa somente é cabível, excepcionalmente: " ..  em casos em que se mostre necessária e adequada, desde que observados, cumulativamente, os seguintes requisitos: I) inexistência de bens passíveis de garantir a execução ou que sejam de difícil alienação; II) nomeação de administrador (CPC/73, art. 655-A, § 3º); e III) fixação de percentual que não inviabilize a atividade empresarial." (REsp 1545817/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/04/2016, DJe 27/05/2016).
+2. A discussão acerca da inviabilização das atividades da empresa pela constrição de eventuais valores e da moderação do percentual fixado para penhora, reclama o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial, ante o disposto na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1244737/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8/11/2016, DJe 21/11/2016.)
+Ademais, a conclusão da Corte local está em consonância com a jurisprudência do STJ, para a qual"as modernas regras de processo,  ..  ainda respaldadas pela busca da efetividade jurisdicional, em nenhuma circunstância, poderão se distanciar dos ditames constitucionais, apenas sendo possível a implementação de comandos não discricionários ou que restrinjam direitos individuais de forma razoável" (RHC n. 97.876/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/6/2018, DJe 9/8/2018).
+Ainda, no mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DE MORTE EM ACIDENTE DE TRÂNSITO. CUMPRIMENTO DE SENTENÇA. MEDIDA COERCITIVA ATÍPICA. ART. 139, IV, DO CPC/2015. SUSPENSÃO DA CNH. REVISÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO EM RELAÇÃO AOS CRITÉRIOS QUE AUTORIZARAM O DEFERIMENTO DA MEDIDA. DESCABIMENTO. SÚMULA 7/STF. RECURSO DESPROVIDO.
+1. Nos termos do art. 139, IV, do CPC/2015, incumbe ao juiz "determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária."
+2. Para que o julgador se utilize de meios executivos atípicos, a decisão deve ser fundamentada e sujeita ao contraditório, demonstrando-se a excepcionalidade da medida adotada em razão da ineficácia das que foram deferidas anteriormente.
+3. No caso, segundo assinalou o órgão julgador, após esgotados os meios típicos de satisfação da dívida, a fim de reforçar os atos tendentes ao cumprimento da obrigação reconhecida pelo título judicial, optou o magistrado por eleger medida indutiva e coercitiva que cons iderou adequada, necessária, razoável e proporcional. Esse entendimento foi encampado pelo Tribunal local, que ainda ressaltou o fato de que o executado possui alto padrão de vida, incompatível com a alegada ausência de patrimônio para arcar com o pagamento da indenização decorrente do acidente que provocou.
+4. Para se ultrapassar a conclusão alcançada no tocante ao juízo de adequação, efetividade, razoabilidade e proporcionalidade da medida, a fim de acolher a tese recursal, seria necessário o reexame das circunstâncias fático-probatórias da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7 deste Tribunal, aplicável, também, em relação aos recursos interpostos com amparo na alínea c do permissivo constitucional (AgInt no REsp n. 1.679.274/PE, Relatora a Ministra Regina Helena Costa, DJe de 5/12/2017).
+5. Agravo interno desprovido.
+(AgInt no REsp 1785726/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/08/2019, DJe 22/08/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. DIREITO SOCIETÁRIO. OFENSA A ENUNCIADO. CONCEITO DE LEI FEDERAL. SUSPENSÃO DA CNH E DO PASSAPORTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. DECISÃO MANTIDA.
+ ..
+3. No caso concreto, o Tribunal de origem concluiu que as medidas de suspensão da CNH e do passaporte dos devedores são inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Segundo a jurisprudência desta Corte Superior, as medidas de satisfação do crédito devem observar os princípios da proporcionalidade e da razoabilidade, de forma a serem adotadas as providências mais eficazes e menos gravosas ao executado. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1812561/SP, de minha relatoria, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021.)
+Aplicável, assim, a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
