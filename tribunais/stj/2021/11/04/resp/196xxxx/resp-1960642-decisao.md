@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO PAULISTA S.A com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - MEDIDA COERCITIVA ATÍPICA - Insurgência contra decisão que indeferiu o pedido de bloqueio de cartões de crédito do devedor - Medida atípica excepcional - Execução que deve ocorrer da maneira menos gravosa ao devedor - Violação ao direito de transacionar e, inclusive, de adquirir bens para a própria subsistência - Precedentes - Decisão mantida - AGRAVO DESPROVIDO." (fl. 108)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta violação aos art. 139, VI e 835do Código de Processo Civil de 2015e divergência jurisprudencial, sustentando, em síntese, a devida suspensão dos cartões de crédito do recorrido.
+Não foram apresentadas contrarrazões.
+É o relatório.
+No que se refere ao deferimento da medida atípica de bloqueio dos cartões de crédito do recorrido, consignou o Tribunal de origem:
+Isto porque, embora o Código de Processo Civil em vigor possibilite ao Magistrado a aplicação de medidas coercitivas atípicas, visando assegurar o cumprimento de ordem judicial, o bloqueio dos cartões de crédito do devedor se mostra, a princípio, desarrazoado e excessivo.
+Isto porque, o caso concreto não apresenta, por ora, razões fático-jurídicas para aplicação desta técnica, que é excepcional. No mais, não se pode olvidar que, nos termos do art.805, do CPC, a execução deve ocorrer da maneira menos gravosa ao executado.
+Logo, entendo que a concretização do pedido deduzido pela casa Bancária infringiria direitos básicos do devedor, tais como a possibilidade de transacionar, inclusive para aquisição de insumos para a sua própria subsistência.
+Em sendo assim, a medida pleiteada afigura-se desarrazoada e desproporcional, quando o propósito é o de tão somente obter patrimônio executável do devedor. (fls. 110/111)
+Com efeito, o entendimento em epígrafe está em conformidade à jurisprudência consolidada deste Tribunal, no sentido de que as medidas atípicas tendentes à satisfação do crédito devem observar os princípios da razoabilidade e da proporcionalidade, bem como serem eficazes, porém sem sacrificar direitos do executado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTE. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É assente a cognição jurisprudencial deste Sodalício no sentido de que as medidas de satisfação do crédito perseguido em execução não podem extrapolar os liames de proporcionalidade e razoabilidade, de modo que contra o executado devem ser adotadas as providências menos gravosas e mais eficazes. Precedente.
+2. No caso em exame, o Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu que os pedidos formulados pelo exequente, de suspensão de passaporte, de suspensão da CNH e de cancelamento dos cartões de crédito e débito, seriam excessivamente gravosos aos executados e desproporcionais à obrigação de pagamento do débito, mormente considerando que, no caso, o Juízo a quo já deferira medida adequada a compelir os devedores ao adimplemento, determinando inclusão de seus nomes nos cadastros de proteção ao crédito. A revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1283998/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/10/2018, DJe 17/10/2018, g.n.)
+AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. INEXISTÊNCIA. MEDIDA ATÍPICA. PEDIDO DE SUSPENSÃO DA CNH. DESPROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 7, 83 E 126 DO STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação ao art. 1.022 do CPC/2015, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, apresentando todos os fundamentos jurídicos pertinentes à formação do juízo cognitivo proferido na espécie, apenas não foi ao encontro da pretensão da parte agravante.
+2. A jurisprudência desta Corte Superior firmou-se no sentido de que as medidas atípicas de satisfação do crédito não podem extrapolar os princípios da proporcionalidade e da razoabilidade, devendo-se observar, ainda, o princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual.Precedentes.
+3. No caso concreto, o Tribunal de origem consignou que a tutela atípica postulada extrapola o princípio da proporcionalidade, além de não agregar efetividade ao cumprimento da sentença. A conclusão do Tribunal está em harmonia com a jurisprudência desta Corte, atraindo a aplicação da Súmula 83 do STJ.
+4. Ademais, o reexame dos critérios fáticos é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+5. Além disso, a questão encontra óbice ao seu conhecimento na Súmula 126/STJ.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1731859/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/05/2021, DJe 19/05/2021, g.n.)
+Assim, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, incide, na espécie, o óbice previsto na Súmula 83 do STJ.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
