@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência entre o Juízoda Vara do Trabalhode Currais Novos- RNe o Juízo de Direito da Vara da Fazenda Pública de Santa Cruz.
+Discute-se a atribuição legal para julgar Reclamação Trabalhista, na qual o reclamante alega transmudação no regime jurídico, de celetista para estatutário, e pleiteia o pagamento de verbas trabalhistas.
+O Juiz Estadual declarou-se incompetente, considerando:
+Outrossim, convém ressaltar que é controvertido no direito pátrio se, de fato, houve transmudação do regime de trabalho celetista para o regime jurídico estatutário para aqueles que foram alcançados pelo art. 19 do ADCT e adquiriram estabilidade no serviço público.
+Entretanto, percebe-se que a parte autora sequer se enquadra no art. 19 do ADCT, uma vez que foi admitida no serviço público em 1987, portanto, não cumprindo com o requisito de estar em exercício há pelo menos cinco anos continuados na data da promulgação da Constituição Federal (05.10.1988).
+Nessa senda, cumpre ressaltar que Supremo Tribunal Federal ao se deparar com o tema acerca da competência da Justiça do Trabalho para processar e julgar reclamação trabalhista, fundada em contrato de trabalho regido pela CLT, na qual figura o Poder Público no polo passivo, definiu, sob o regime da Repercussão Geral (ARE 906.491/DF), como competente a Justiça do Trabalho para julgar ações em que se pretende o pagamento de prestações trabalhistas de natureza celetista para servidores que ingressaram sem concurso público antes da Constituição Federal, senão vejamos:
+(..)
+Assim, percebe-se que, nos termos estabelecidos pela jurisprudência do Supremo Tribunal Federal, para a fixação da competência da Justiça Comum ou da Justiça do Trabalho, em casos como o dos presentes autos, deve-se analisar a natureza do vínculo jurídico existente entre o demandante e o órgão empregador: se o vínculo for de natureza jurídico-administrativa, a competência fixa-se como da Justiça Comum; se for de natureza celetista, a competência é da Justiça Trabalhista.
+O Juiz do Trabalho reconheceu a incompetência da Justiça Laboral às fls. 235-238, e-STJ, e suscitou o presente incidente.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.8.2021.
+O STJ tem fixado a competência da Justiça do Trabalho para apreciar ações propostas por aqueles que ingressaram nos entes públicos em momento anterior à edição da CF/1988 sem a prévia aprovação em concurso público, nos termos do que definido em repercussão geral pelo STF no julgamento do ARE 906.491 RG (Relator Ministro Teori Albino Zavascki, DJe 7.10.2015).
+A propósito:
+CONSTITUCIONAL. TRABALHISTA. COMPETÊNCIA. SERVIDOR PÚBLICO ADMITIDO SEM CONCURSO PÚBLICO, PELO REGIME DA CLT, ANTES DO ADVENTO DA CONSTITUIÇÃO DE 1988. DEMANDA VISANDO OBTER PRESTAÇÕES DECORRENTES DA RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. 1. Em regime de repercussão geral, fica reafirmada a jurisprudência do Supremo Tribunal Federal no sentido de ser da competência da Justiça do Trabalho processar e julgar demandas visando a obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública por servidores que ingressaram em seus quadros, sem concurso público, antes do advento da CF/88, sob regime da Consolidação das Leis do Trabalho - CLT. Inaplicabilidade, em casos tais, dos precedentes formados na ADI 3.395-MC (Rel. Min. CEZAR PELUSO, DJ de 10/11/2006) e no RE 573.202 (Rel. Min. RICARDO LEWANDOWSKI, DJe de 5/12/2008, Tema 43). 2. Agravo a que se conhece para negar seguimento ao recurso extraordinário.
+(ARE 906.491 RG, Relator(a): Min. Teori Zavascki, julgado em 01/10/2015, REPERCUSSÃO GERAL - PUBLIC 07-10-2015)
+No mesmo sentido decidiu recentemente a Corte Especial do STJ:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. SERVIDOR DO PODER PÚBLICO REGIDO PELA CLT. CONTRATAÇÃO ANTERIOR À CF/1988. LEI LOCAL QUE IMPÕE O REGIME ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA TRABALHISTA PARA DISCUTIR O DIREITO AO RECOLHIMENTO DO FGTS. ENTENDIMENTO FIRMADO EM REPERCUSSÃO GERAL. ARE-RG 906.491. TEMA 853/STF. AGRAVO NÃO PROVIDO.
+1. O Excelso Pretório, no julgamento do RE com Agravo 906.491/DF, sob o regime da repercussão geral, firmou entendimento segundo o qual compete à Justiça do Trabalho o julgamento de demandas em que o servidor ingressa no serviço público, antes da entrada em vigor da CF/1988, pelo regime celetista e, não obstante a edição de lei local alterando o regime para o estatutário, não é submetido a concurso público.
+2. Agravo interno não provido.
+(AgInt no RE no AgInt no CC 160.279/PI, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe 28/10/2019)
+Nessa esteira:
+CONFLITO DE COMPETÊNCIA. SERVIDOR ADMITIDO ANTES DA CONSTITUIÇÃO FEDERAL DE 1988 SEM CONCURSO PÚBLICO. VÍNCULO CELETISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. MATÉRIA DECIDIDA PELO STF SOB O REGIME DA REPERCUSSÃO GERAL. ARE 906.491.
+1. O STF, em repercussão geral, fixou o entendimento "de ser da competência da Justiça do Trabalho processar e julgar demandas visando a obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública por servidores que ingressaram em seus quadros, sem concurso público, antes do advento da CF/88, sob regime da Consolidação das Leis do Trabalho - CLT. Inaplicabilidade, em casos tais, dos precedentes formados na ADI 3.395-MC" (ARE 906.491 RG, Relator: Min. Teori Zavascki, Public 07-10-2015).
+2. "O Excelso Pretório, no julgamento do RE com Agravo 906.491/DF, sob o regime da repercussão geral, firmou entendimento segundo o qual compete à Justiça do Trabalho o julgamento de demandas em que o servidor ingressa no serviço público, antes da entrada em vigor da CF/1988, pelo regime celetista e, não obstante a edição de lei local alterando o regime para o estatutário, não é submetido a concurso público" (AgInt no RE no AgInt no CC 160.279/PI, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe 28/10/2019).
+3. Agravo Interno não provido.
+(AgInt no CC 172.009/RN, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 7/10/2020)
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. SERVIDOR. INGRESSO ANTERIOR À CONSTITUIÇÃO FEDERAL/88. REENQUADRAMENTO. TRANSMUDAÇÃO DE REGIME DO CELETISTA PARA O ESTATUTÁRIO POR MEIO DE LEI LOCAL. NÃO SUBMISSÃO A CONCURSO PÚBLICO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. O Excelso Pretório, no julgamento do RE com Agravo 906.491/DF, sob o regime da repercussão geral, firmou entendimento segundo o qual compete à Justiça do Trabalho o julgamento de demandas em que o servidor ingressa no serviço público, antes da entrada em vigor da CF/88, pelo regime celetista e, não obstante a edição de lei local alterando o regime para o estatutário, não é submetido a concurso público.
+2. Agravo interno a que se nega provimento.
+(AgInt no CC 151.034/MT, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017)
+Diante do exposto, conheço do Conflito de Competência para fixar a competência do Juízo da Vara do Trabalho de Currais Novos - RN, o suscitante.
+Publique-se.
+Intimem-se.
