@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário interposto, com fundamento no art. 105, II, "b", da CF, contra acórdão do Tribunal de Justiça da Bahia, constante às e-STJ fls. 98/105.
+Alega a parte recorrente que o caráter continuado do serviço desempenhado pelo policial militar possui características, por necessidade pública, de perpetuação ou extrapolação de jornada, fato que o obrigaa retornar a sua residência em horários em que não haja transporte coletivo, utilizando por vezestáxi ou veículo próprio para locomoção. Aduz, portanto, fazer jus à indenização por transporte e requer a reforma da decisão denegatória para determinar o pagamento mensal do auxílio correspondente.
+Contrarrazões (e-STJ fls. 125/133).
+Parecer do MPFpelo não provimento do recurso (e-STJ fls. 147/152).
+Passo decidir.
+Entendo que o recurso não merece conhecimento, porque a falta de combate aos fundamentos que embasaram o aresto impugnado, suficientes para mantê-lo, acarreta a incidência do óbice das Súmulas 283e 284 do STF.
+Consoante jurisprudência do STJ, padece de irregularidade formal o recurso em que a recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade (AREsp 1519064/CE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 05/11/2019). A propósito: AgInt no RMS 58.200/BA, desta Relatoria, Primeira Turma, DJe 28/11/2018; AgRg no RMS 44.887/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/11/2015; AgRg no RMS 43.815/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/05/2016.
+Em complemento, esta Corte entende que "o recurso ordinário em mandado de segurança, como espécie recursal que é, reclama, para sua admissibilidade, a fiel observância do princípio da dialeticidade, impondo-se à parte recorrente o ônus de expor, com precisão e clareza, os erros - de procedimento ou de aplicação do direito - que justificam a reforma do acórdão recorrido, não bastando, para isso, a simples insatisfação com a denegação da ordem." (AgInt no RMS 41.710/BA, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 26/3/2018).
+No caso, o principal fundamento para a rejeição da pretensão (inexistência de regulação da lei que criou o auxílio-transporte) não foi impugnado no apelo ordinário, atraindo a aplicação dos supracitados enunciados sumulares.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
