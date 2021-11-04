@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ATESTADO DE RECEBIMENTO DE MERCADORIAS A DESPEITO DE PARCIALMENTE ENTREGUES E EM DESCONFORMIDADE COM A LICITAÇÃO RESPECTIVA. ARESTO RECORRIDO QUE RECONHECE A EXISTÊNCIA DE CULPA GRAVE PARA CARACTERIZAÇÃO DO ATO ÍMPROBO. SÚMULA 7/STJ.
+1. Trata-se, na origem, de Ação de Improbidade Administrativa cumulada com declaração de nulidade de contrato administrativo proposta pelo Ministério Público do Estado do Paraná visando à condenação dos reús pela prática de atos ímprobos consubstanciado em fraudar licitação relativa à aquisição de móveis para o Hospital Municipal de Palotina, realizada pela carta-convite 99/2002.
+2. Em primeiro grau o pedido foi julgado improcedente. A apelação foi provida.
+3. Ao decidir a controvérsia, o Tribunal a quo consignou (fls. 1.599-1.601): "(..) que a depoente assinou as notas de entrega porque na época pediu para o seu setor se tudo havia sido entregue, e a SILVANE lhe informara que sim: que a depoente não conferiu pessoalmente, apenas assinou;
+Por sua vez, declarou Silvane Maria Bebibca Trentini que: que quando a secretária de saúde lhe questionou se estava tudo de acordo em relação ás notas fiscais e se tudo havia sido entregue a depoente entrou em contato com o VALDEMAR, que confirmou que estava tudo certo; Ficou delineado pela prova, então que a ré Marlene Maria Weber Rubert não agiu com dolo ao atestar o recebimento de mercadorias não entregues. Por outro lado, possível reconhecer conduta culposa a ensejar a aplicação do artigo 10, VIII, da Lei 8.429/1992, na medida em que referida ré renunciou ao seu dever de fiscalizar os atos que lhe competiam e que foram delegados inadvertidamente a terceiros".
+4. As premissas fáticas adotadas pelo aresto vergastado são de que, apesar de a recorrente não ter participado diretamente da licitação fraudulenta, concorreu para o resultado danoso. Embora fosse responsabilidade da parte agravante, ela deixou de acompanhar o cumprimento do contrato decorrente do certame fraudado, especificamente conferindo os bens licitados e entregues, o que permitiu a continuidade das ilegalidades do aludido processo competitivo, ainda que a título de culpa. Segundo o aresto recorrido, tal inobservância do dever de cuidado foi suficiente para caracterizar o ato ímprobo, tendo a Corte de origem sopesado a gravidade da culpa para fixar a pena, com moderação.
+5. Portanto, não há como analisar a tese defendida no Recurso Especial de que não houve culpa grave nem concorrência da recorrente para a prática do ato ímprobo. É inviável rever o conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido.
+Aplica-se, portanto, o óbice da Súmula 7/STJ.
+6. Agravo Interno não provido.
+Em síntese, o embargante alega que o acórdão é omisso. Assevera:
+De um lado, a r. decisão confirma que a ora embargante agiu com culpa. De outro lado, nega provimento ao Agravo Interno, sob o fundamento que analisar a ausência de culpa grave encontra óbice na súmula 7/STJ.
+A r. decisão é contraditória.
+A r. decisão é clara e firme no sentido de que a embargante agiu apenas com culpa. Logo, evidente a ausência de culpa grave na conduta da embargante.
+Ressalta-se que, se a embargante tivesse agido com culpa grave, restaria consignado na r. decisão e nas decisões de origem o termo culpa grave e não apenas culpa.
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+2. O aresto embargado, de modo claro e objetivo, ressaltou que rever a gravidade da culpa da ora embargante demanda revolvimento fático-probatório dos autos, inviável no Recurso Especial ao consignar: "As premissas fáticas adotadas pelo aresto vergastado são de que, apesar de a recorrente não ter participado diretamente da licitação fraudulenta, concorreu para o resultado danoso. Embora fosse responsabilidade da parte agravante, ela deixou de acompanhar o cumprimento do contrato decorrente do certame fraudado, especificamente conferindo os bens licitados e entregues, o que permitiu a continuidade das ilegalidades do aludido processo competitivo, ainda que a título de culpa. Segundo o aresto recorrido, tal inobservância do dever de cuidado foi suficiente para caracterizar o ato ímprobo, tendo a Corte de origem sopesado a gravidade da culpa para fixar a pena, com moderação. Assim, não há como analisar a tese defendida no Recurso Especial de que não houve culpa grave nem concorrência da recorrente para a prática do ato ímprobo. É inviável rever o conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ".
+3. Ao contrário do que afirma a parte embargante, não há omissão no decisum embargado e suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+4. Embargos de Declaração rejeitados
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado consignou:
+As premissas fáticas adotadas pelo aresto vergastado são de que, apesar de a recorrente não ter participado diretamente da licitação fraudulenta, concorreu para o resultado danoso. Embora fosse responsabilidade da parte agravante, ela deixou de acompanhar o cumprimento do contrato decorrente do certame fraudado, especificamente conferindo os bens licitados e entregues, o que permitiu a continuidade das ilegalidades do aludido processo competitivo, ainda que a título de culpa. Segundo o aresto recorrido, tal inobservância do dever de cuidado foi suficiente para caracterizar o ato ímprobo, tendo a Corte de origem sopesado a gravidade da culpa para fixar a pena, com moderação.
+Assim, não há como analisar a tese defendida no Recurso Especial de que não houve culpa grave nem concorrência da recorrente para a prática do ato ímprobo. É inviável rever o conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+O excerto acima, transcrito de modo claro e objetivo, ressaltou que rever a gravidade da culpa da ora embargante demanda revolvimento fático-probatório dos autos, inviável no Recurso Especial.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS.
+INVIABILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar, na via especial, suposta violação a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt na Rcl 35.425/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
