@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão proferido pela Segunda Turma do STJ assim ementado:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. PRECLUSÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. REVISÃO DO CONTEXTO FÁTICO- PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. O Tribunal de origem consignou que "a agravante se insurge, na origem, contra planilha apresentada por ela própria, que não levou em consideração uma questão anterior ao ajuizamento da demanda e, agora, tenta se valer de subterfugio de que houve fato posterior, quando, em verdade, a questão é anterior. Sendo assim, incorre, ademais, em comportamento contraditório, ao apresentar uma planilha com um fator de correção, e, após, insurgir-se contra a planilha por ela própria apresentada, alegando fato novo, que, em verdade, não existe. Convém destacar que o processo judicial possui uma ordem a ser seguida com contornos previamente definidos não podendo as partes alegar matérias quando melhor lhe aprouverem" (fl. 43, e-STJ). Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Ademais, para modificar a conclusão a que chegou a Corte a quo, sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.
+4. Agravo Interno não provido.
+A embargante alega:
+Todavia, observa-se omissão no v. acórdão, pois o decisum recorrido trouxe na sua literalidade os mesmos fundamentos contidos na r. decisão agravada, demonstrando que não foram apreciadas as razões apresentadas pelo embargante no seu recurso de agravo interno.
+Em primeiro lugar, cumpre enfatizar que não restaram apreciadas as razões apresentadas quanto a não observância pelo tribunal de origem da decisão vinculante do STJ tomada no RESP repetitivo 1143471/PR e também do Tema 491 dessa eg. Corte, os quais asseguram que o erro de cálculo somente se torna imutável após o trânsito em julgado da sentença de extinção, e, que os parâmetros de juros e correção monetária previstos na Lei 11.960/09 somente seriam aplicáveis enquanto eles vigorassem.
+Ou seja, se o erro de cálculo foi apontado em 13/3/2020, antes mesmo da expedição dos precatórios - data em que já não restavam mais aplicáveis os índices previstos na Lei 11.960/09, dúvidas não há acerca da necessidade de serem observados os precedentes acima citados, devendo, essa eg. Corte acolher as razões apresentadas quanto à violação ao art. 1.022 do CPC, determinando-se o retorno dos autos ao tribunal de origem para que se manifeste expressamente a respeito do tema.
+Em segundo lugar, necessário também seja sanada omissão quanto à demonstração de superação dos óbices das Súmulas 284 e 283 do STF, eis que o embargante detalhou pormenorizadamente todos os pontos confrontados do acórdão recorrido nas razões do seu recurso especial, não havendo qualquer embasamento que justifique a rejeição do seu apelo extremo - vez que o embargante demonstrou que a correção monetária é questão de ordem pública e pode ser revista de ofício pelo Poder Judiciário a qualquer tempo, INDEPENDENTEMENTE de impugnação.
+(..)
+Por fim, também deve ser sanada omissão quanto à alegada superação ao óbice da Súmula 7 do STJ, eis que restou fartamente demonstrado que a única questão posta no recurso especial refere-se à ofensa aos arts. 292, §3º, 322, §1º, 505, I e 927, III, todos do CPC, no tocante a necessidade de aplicação do IPCA-E como índice de correção monetária, face a recente declaração de inconstitucionalidade da TR proferida julgamento do recurso afetado pela repercussão geral nº 870.947/SE (tema 810), de sorte que inexiste qualquer necessidade de reexame das provas coligidas aos autos.
+Pleiteia o acolhimento dos aclaratórios.
+Impugnação nas fls. 195-199, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. PRECLUSÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Hipótese em que foi negado provimento ao recurso com os seguintes fudamentos: a) não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado; b) ao interpor o recurso a parte recorrente não impugnou suficientemente os fundamentos do acórdão recorrido, atraindo a incidência das Súmulas 283 e 28 do STJ; c) para modificar a conclusão a que chegou a Corte a quo, sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.
+2. O argumento da embargante não diz respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+3. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015. Os Embargos Declaratórios não constituem instrumento adequado à reanálise da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário. Precedentes: EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1.491.187/SC, Rel. Min. Mauro Campbell Marques, Corte Especial, DJe 23.3.2018; EDcl no AgInt nos EDcl no AREsp 1.321.153/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 13.5.2019; EDcl no AgInt no REsp 1.354.069/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 9.4.2018; EDcl no AgRg no AREsp 170.405/DF, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 23.6.2017.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 21.9.2021.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Assim, verifico que o inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada por esta Corte, conforme se nota do seguinte excerto do acórdão embargado:
+Conforme consignado na decisão agravada, não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+(..)
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+Ao compulsar detidamente os autos, observo que, embora tente argumentar o agravante se tratar de fato novo, certo é que no momento da propositura da demanda já havia a decisão do STF a respeito da matéria, porquanto, como informado pelo próprio recorrente, em sede de embargos de declaração opostos na primeira instancia, a decisão do STF, no bojo do RE 870.947, se deu no dia 03/10/2019, ou seja, em data anterior a propositura do cumprimento de sentença originário desse recurso, o qual foi proposto no dia 30/11/2019.
+Melhor dizendo, a agravante se insurge, na origem, contra planilha apresentada por ela própria, que não levou em consideração uma questão anterior ao ajuizamento da demanda e, agora, tenta se valer de subterfugio de que houve fato posterior, quando, em verdade, a questão é anterior.
+Sendo assim, incorre, ademais, em comportamento contraditório, ao apresentar uma planilha com um fator de correção, e, após, insurgir-se contra a planilha por ela própria apresentada, alegando fato novo, que, em verdade, não existe.
+Convém destacar que o processo judicial possui uma ordem a ser seguida com contornos previamente definidos não podendo as partes alegar matérias quando melhor lhe aprouverem.
+Assim sendo, forçoso o entendimento de que, diante da exposição fática e à míngua de demais documentos que acompanham a inicial, não assiste razão ao recorrente quanto à presença dos requisitos justificadores para deferir, em sede de provimento antecipatório, a pretensão recursal.
+Dessume-se que, não obstante as razões explicitadas pela instância a quo, ao interpor o recurso a parte recorrente não impugnou suficientemente os fundamentos acima mencionados.
+Não observou a recorrente as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Logo, não tendo sido os argumentos atacados pela parte recorrente, os quais são aptos, por si sós, para manter o decisum combatido, aplicam-se à espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo. Nessa esteira:
+(..)
+Ademais, para modificar a conclusão a que chegou a Corte a quo, sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.
+Não verifico na espécie sub judice nenhuma omissão, obscuridade, contradição ou erro material, senão o intuito de rediscutir matéria já decidida, emprestando-lhe efeito infringente.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Nesse sentido:
+(..) EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. INEXISTÊNCIA.
+(..)
+VI - O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento, mas não à sua modificação, que, só muito excepcionalmente, é admitida.
+Embargos declaratórios rejeitados.
+(EDcl no AgRg na CR 9.832/EX, Rel. Ministro Francisco Falcão, Corte Especial, DJe 3.8.2016).
+EMBARGOS DE DECLARAÇÃO (..) AUSÊNCIA DE OMISSÃO (..) VÍCIOS NÃO CONFIGURADOS. EMBARGOS PROCRASTINATÓRIOS. CABIMENTO DA MULTA DO ART. 1.026, § 2º, DO NOVO CPC. EMBARGOS REJEITADOS.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura violação do art. 1.022 do CPC/2015 e que os embargos declaratórios não se prestam à rediscussão de matéria devidamente analisada.
+(..)
+5. A embargante reitera argumentos já apreciados, postergando a solução definitiva da controvérsia. Essa conduta é motivo para a aplicação da multa do art. 1.026, § 2º, do CPC/2015, por terem estes embargos nítido intuito procrastinatório.
+6. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt nos EDcl no AREsp 1031107/RJ, Rel. Ministro Marco Aurélio Belizze, Terceira Turma, DJe 1º.6.2018).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO OCORRÊNCIA. PRETENSÃO DA PARTE EM OBTER EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. É inadmissível a interposição de embargos declaratórios para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Precedentes.
+2. O simples descontentamento com o decisum, a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgRg no AREsp 738.681/RJ, Rel. Ministro Raul Araújo, Quarta Turma, DJe 12.11.2018).
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito a multa.
+É como voto.
