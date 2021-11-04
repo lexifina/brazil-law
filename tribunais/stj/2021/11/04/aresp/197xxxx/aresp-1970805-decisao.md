@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal), contra decisão assim ementada:
+Agravo de instrumento. Execução fiscal. Imposto sobre serviços de qualquer natureza. Exercício de 2009. Rejeição de objeção de não executividade. Alegação de incorreção na base de cálculo do tributo. Insuficiência da prova documental para análise do tema. Matéria a ser deduzida em embargos do devedor. Recurso denegado.
+Em suas razões recursais, a recorrente aponta que houve violação ao art. 202 do CTN; aosarts. 2º, § 5º, e 3º da LEF e ao art. 783 do CPC/2015. Aduz que foi utilizada base de cálculo equivocada para o cálculo do ISSQN. Sustenta, em resumo (fls. 556/557, e-STJ):
+Ocorre que, como foi alegado na defesa apresentada naquela açãoexecutiva e será a seguir demonstrado, é possível verificar que para a constituição do alegado débito de ISSQN foi utilizada base de cálculo totalmente equivocada, haja vista ter a D. Fiscalização Tributária apurado o tributo sobre o faturamento integral (ingresso de receitas) da Associação.
+Consequentemente, com a indevida apuração do ISSQN mediante utilização de base de cálculo errada, as multas ora exigidas, consubstanciadas nos AIIs nº ISS/AII 6.555.921-5, ISS/AII 6.555.925-8, ISS/AII 6.555.932-0, ISS/AII 6.555.942-8, ISS/AII 6.555.943-6 e ISS/AII 6.555.946-0, também se encontram em desconformidade com a legislação aplicável, haja vista serem apuradas com base nos supostos débitos de ISSQN à razão de 50%.
+Contrarrazões às fls. 645-656, e-STJ.
+Decisão do Tribunal de origem inadmitindo o recurso às fls. 752/753, e-STJ, o que deu ensejo à interposição de Agravo em Recurso Especial às fls. 756-765, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21 de outubro de 2021.
+A agravante impugnou de forma específica todos os óbices que o Tribunal de origem apontou para justificar a inadmissibilidade do Recurso Especial. Conheço, portanto, do Agravo para analisar diretamente o Recurso Especial.
+Cuida-se de Exceção de Pre-Executividade interposta pela recorrente, na qual aduz que a base de cálculo do ISSQN possui equívocos, pois dos valores recebidos devem ser deduzidas as quantias repassadas a terceiros.
+A insurgência não merece conhecimento.
+As matérias referentes aos arts. 783 do CPC/2015 e 3º da LEF não foram objeto de discussão no acórdão recorrido, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial. Incide o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." Nesse sentido: REsp 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ademais, ao decidir a controvérsia, a Corte local assim consignou (fl. 526, e-STJ):
+A alegação de ilegitimidade da cobrança reclama, no caso vertente, apreciação mais acurada de dados probatórios, incompatível com os angostos lindes da objeção de não executividade. O estudo há de ser efetuado no momento processual oportuno, com a amplitude necessária. A via processual adequada para o debate são os embargos do executado.
+Aqui se carece de elementos seguros a demonstrar a incorreção da base de cálculo do ISS. E, sem a produção de outras provas, não há como verificar excesso de cobrança. Quiçá em embargos se possam angariar melhores elementos de convicção.
+Para acolher a tese da recorrente - existência de equívoco na base de cálculo do ISSQN - faz-se necessário adentrar no exame do acervo probatório dos autos, o que não é possível em Recurso Especial, em razão do óbice da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVENÇÃO. ARGUIÇÃO APENAS DEPOIS DO JULGAMENTO. PRECLUSÃO. ART. 71, § 4º DO RISTJ. OFENSA AOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ARTIGOS 124, I, DO CTN, 133 A 137 DO CPC/2015, E 50, DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CARACTERIZÇÃO DE GRUPO ECONÔMICO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRAZO PRESCRICIONAL PARA O REDIRECIONAMENTO DA EXECUÇÃO. ACTIO NATA. SÚMULAS 7/STJ E 83/STJ.
+(..)
+3. Nos termos do enunciado da Súmula 393 do STJ, "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+4. No caso dos autos, a Corte de origem entendeu que a tese de ilegitimidade passiva demandaria dilação probatória. Assim, para rever tal conclusão, necessário o reexame do conjunto fático-probatório dos autos, o que é vedado na via estreita do recurso especial, por incidência da Súmula 7/STJ.
+5. Como enunciam as Súmulas 7 e 83 do STJ, porque inadmissível, não se conhece de recurso especial quando, além de o acórdão recorrido refletir orientação jurisprudencial deste Tribunal Superior, eventual conclusão em sentido contrário depende do reexame do acervo probatório.
+6. Agravo interno não provido.
+(AgInt no REsp 1926463/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/09/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO PROBATÓRIO DOS AUTOS, CONCLUIU PELA INADEQUAÇÃO DA VIA ELEITA ANTE A NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS, NA SEARA DO RECURSO ESPECIAL. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+IV. Na forma da jurisprudência do STJ, firmada sob o rito do art. 543-C do CPC/73, "a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória" (STJ, REsp 1.110.925/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJe de 04/05/2009).
+V. Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial - no sentido de que, "para verificar se fato houve a incidência da contribuição ao PIS e COFINS sobre valores referentes ao ICMS, bem assim para dimensionar o valor a ser excluído da execução, é necessária dilação probatória, incompatível com o incidente de exceção de pré-executividade" -, a sua alteração exigiria o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ. Precedentes do STJ.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1835531/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 27/08/2021)
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal, como no presente caso.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
