@@ -1,0 +1,17 @@
+DECISÃO
+1. Cuida-se de agravo interposto por GOL PLUS BRASIL BENEFÍCIOS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+APELAÇÃO. AÇÃO DE COBRANÇA CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANO MORAL. CONTRATO DENOMINADO "PLANO DE BENEFÍCIOS E ASSISTÊNCIA RECÍPROCA" (PBAR). NEGATIVA DE PAGAMENTO AO FUNDAMENTO DE VENDA DO VEÍCULO OBJETO DO CONTRATO. JUNTADA DE CONTESTAÇÃO APÓS O PRAZO LEGAL. INCIDÊNCIA DOS EFEITOS DA REVELIA, NOS TERMOS DO ART.344 DO CÓDIGO DE PROCESSO CIVIL (CPC).INEXISTÊNCIA DE HIPÓTESE QUE IMPEÇA OS EFEITOS DA REVELIA NO CASO. PROCEDÊNCIA DO PEDIDO DE COBRANÇA. SENTENÇA MANTIDA. RECURSO DESPROVIDO. A falta de apresentação de contestação no prazo legal implica na revelia, com a presunção de veracidade das alegações formuladas na petição inicial, nos termos do art. 344 do CPC, mormente se inexistentes hipóteses previstas no art. 345 do citado diploma processual, caso dos autos.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto noart. 345, IV do CPC, alegando, em síntese, que o Tribunal de origem não poderia "presumir" a procedência da açãoesuposta "inadimplência" contratual pela recorrente, posto que, demonstrado via regulamento e confissão da recorrida o oposto do que restou decidido.
+Contrarrazões ao recurso especial às fls. 217-219.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Quanto à alegada violação ao art. 345, IV do CPC, o Tribunal de origem se manifestou nos seguintes termos:
+Ocorre que a ré não juntou a contestação no prazo legal, presumindo-se verdadeiras as alegações fáticas da autora, precipuamente a de que não efetuou a venda de seu veículo. Ou seja, houve a incidência dos efeitos da revelia nos termos do art. 344 do CPC.É certo que os efeitos da revelia não ocorrem caso as alegações sejam inverossímeis ou estiverem em contradição com as provas constantes nos autos (art. 345, IV, do CPC). Mas tal hipótese não se verifica no caso, pois inexistem documentos demonstrando a venda do veículo pela autora. (fl. 172)
+Nesse contexto, constata-se que o egrégio Tribunal de origem, após o exame acurado dos autos, do acervo fático-probatório, concluiu pela aplicação dos efeitosda revelia por ter sido a apelação apresentada intempestivamente.
+Alterar o v. acórdão, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+4. No mais, aincidência do óbice contido na Súmula 7 do STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
