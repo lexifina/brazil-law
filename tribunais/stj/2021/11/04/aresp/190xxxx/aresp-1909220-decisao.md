@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO AUGUSTO BOCCARDO PAES e outra contra decisão que negou seguimento a recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 278):
+Cumprimento de sentença. Legitimidade concorrente da parte vencedora e de seu advogado para reclamar os honorários sucumbenciais. Devedores beneficiados pela gratuidade processual. Melhoria da situação financeira reconhecida por terem eles logrado bloquear numerário do litigante vencido. Valor que por equidade só em parte podia ser revertido para satisfação da sucumbência. Aplicação analógica do artigo 98 § 3º do CPC. Recurso parcialmente provido
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, os recorrentes apontam a violação doart. 489 do Código de Processo Civil/2015 em virtude da ausência de fundamentação do acórdão recorrido quanto à anterioridade da penhora.
+Alegam a negativa de vigência do art. 908, § 2º, do CPC/2015 sustentado que, quando todos os credores forem quirografários prevaleceráa penhora mais antiga e, no caso dos autos, o valor bloqueado decorre do pedido feito por eles, não sendo possível a penhora requerida pela recorrida.
+E, por derradeiro, aduzem a violação do art. 140, parágrafo único, do CPC/2015 e a impossibilidade de utilização da equidade.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da impossibilidade de análise das normas da Constituição Federal,a não comprovação da violação dos artigos indicados e a incidência da Súmula 7 do STJ.
+Nas razões deste agravo em recurso especial, os agravantesafirmam a não incidência da Súmula 7 do STJ ea demonstração da violação dos artigos indicados.
+Assim delimitada a controvérsia e ultrapassado o limite do conhecimento e provimento do presente agravo, passo ao julgamento do recurso especial.
+De início, pretendem os recorrentes o reconhecimento da violação do art. 489 do CPC/2015 em virtude da ausência de fundamentação do acórdão recorrido quanto à anterioridade da penhora.
+No julgamento do recurso de apelação, verifico que o Tribunal de origem consignou que (i) os autores, ora recorrentes, foram condenados ao pagamento dos honorários advocatícios em favor da recorrida; (ii) os recorrentes obtiveram êxito na penhora de valores do corréu; e, (iii) com a penhora era possível a retenção de parte desse valor para pagar os honorários sucumbenciais devidos à recorrida. Confira-se:
+III Como se vê nos autos, os apelados ajuizaram ação de indenização por danos materiais e morais contra Francisco Frauendorf e a ora recorrente, que foi ao final julgada procedente quanto àquele e improcedente no tocante a essa.
+Ante aquele desfecho os autores foram condenados a reembolsar as despesas processuais suportadas pela ré e a "pagar ao respectivo patrono honorários fixados em 10% do valor postulado,isso nos termos do artigo 85 § 2º do CPC, observada a gratuidade processual quanto à exigibilidade dessas verbas.
+A recorrente então deu início ao cumprimento de sentença no tocante às verbas sucumbenciais, que segundo informou montavam R$ 743.443,21(fls. 2), tendo para tanto alegado que ocorrera melhoria na condição econômica dos autores, já que eles haviam logrado obter o bloqueio da importância de R$ 434.688,39, pertencente ao réu vencido.
+ ..
+Na espécie, como consignou o Magistrado e foi enfatizado nas contrarrazões, os autores não lograram voltar à situação econômica que tinham antes dos fatos versados na ação, isto é, não recuperaram o expressivo prejuízo consequente à desastrosa atuação do réu na gestão de sua carteira de investimento.
+No entanto, o fato objetivo é que a seu proveito os autores conseguiram bloquear substancial importância pertencente ao réu vencido, o que não é capaz de recompor a situação patrimonial original, mas retratou melhoria na sua situação financeira comparativamente ao início da demanda.
+Ora, não se podia dizer que apesar da presença de tal numerário os autores ainda estavam impossibilitados de satisfazer, ao menos em parte, seu débito junto à apelante  ..
+Com isso, verificoa existência de fundamentação no acórdão recorrido o que afasta a violação do art. 489 do CPC/2015, conforme pretendido pelos recorrentes.
+No caso, há evidente deficiência na fundamentação do presente recurso no que se refere à alegação de violação do art. 908 do CPC/2015, que prevê a ordem de preferência quando há pluralidades de credores ou exequentes, porque no caso dos autos os recorrentes são credores de FranciscoFrauendorf e, ao mesmo tempo, devedores da recorrida.
+Assim, a recorrida não concorre com a primeira penhora realizada nos autos, porque, no caso, não pretende a penhora do valor pertencenteaoFrancisco Frauendorf, mas sim do valor destinado aos recorrentes.
+Nesses casos, ante a deficiente fundamentação do recurso, incide a Súmula284 do STF, por analogia:É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A pretensão de reconhecimento da violação do art. 140 do CPC/2015 decorrente daimpossibilidade de utilização da equidade para a retenção de parte do valor penhorado, também não merece prosperar porque o seu reconhecimento ocasionaria a majoração do valordeferido pelo Tribunal de origem o que não se admiteemobediência ao princípio da non reformatio in pejus.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
