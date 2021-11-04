@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão da Segunda Turma do STJ cuja ementa é a seguinte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ALEGADA OFENSA AOS ARTS. 62 E 67 DA LEI 8.112/1990. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ADICIONAL DE TEMPO DE SERVIÇO. ANUÊNIOS. SERVIDOR EM DISPONIBILIDADE. CÔMPUTO DO PERÍODO. IMPOSSIBILIDADE.
+1. Cuida-se de inconformismo contra decisão da Presidência do STJ que conheceu do Agravo para não conhecer do Recurso Especial.
+2. O Tribunal a quo não se manifestou acerca dos dispositivos infraconstitucionais tidos por violados em seu Recurso Especial (arts. 62 e 67 da Lei 8.112/1990), motivo pelo qual, à falta do prequestionamento, não se poderia conhecer do Recurso Especial nesse ponto, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF. Ressalte-se que nem sequer se opuseram Embargos de Declaração pela parte visando suprir eventual omissão.
+3. Ademais, ainda que se superasse tal óbice, é firme a jurisprudência do STJ de impossibilidade de cômputo do período em que o servidor público esteve em disponibilidade, para fins de pagamento de anuênios, tendo em vista que não se enquadra nas hipóteses de afastamento consideradas como efetivo exercício. Precedente: AgRg no AREsp 698.403/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 18.8.2015.
+4. Agravo Interno não provido.
+Os Embargantes sustentam, em suma:
+A decisão embargada recai em omissão porque determina aprioristicamente que a matéria discutida no Recurso Especial apresentado não havia sido prequestionada nas instâncias ordinárias. Porém, em uma rápida análise dos autos, percebe-se que a questão foi amplamente discutida em sede de apelação pelo TRF-1.
+(..)
+Ora, o que disse a turma local: que o período em que o servidor esteve em in- disponibilidade não poderia ser computado no cálculo do adicional por tempo de serviço de que trata o art. 67 do RJU, por não constar do rol das hipóteses de afastamento consideradas como de efetivo exercício (art. 102 do mesmo diploma). Porém, tais fatos e alegações não foram consideradas pela decisão embargada, apenas confirmando a ausência de prequestio- namento no Recurso Especial, que erroneamente já fora decretado em decisões anteriores.
+A decisão embargada também foi omissa ao não considerar que a turma tratou como sinônimas as expressões "efetivo exercício" e "serviço público efetivo" ao invocar os artigos que as contêm. Por conseguinte, a controvérsia devolvida no recurso especial fora, sim, efetivamente decidida pela turma local, não se podendo exigir maior aprofundamento.
+Recorde-se, além disso, que a caracterização do prequestionamento não exige que o dispositivo havido por violado tenha sido mencionado no acórdão recorrido, sendo sufi- ciente o pronunciamento do órgão local sobre a questão federal ou constitucional apontada como causa de pedir do apelo nobre. O que se prequestiona é a questão (ponto controvertido), não o preceito legal aplicável à resolução desta.
+Contudo, fica claro que o artigo 67 da Lei nº 8.112/90 está sendo violado pelo acórdão do TRF-1, o que justifica a interposição do Recurso Especial pela alínea "a" do art. 105, III, da CR/88. Isso porque tal dispositivo legal estabelecia, como requisito objetivo para a concessão de anuênio, o vínculo a cargo efetivo e não o efetivo exercício, compreendido como desempenho das atribuições do cargo.
+Observa-se, entretanto, que a decisão embargada confunde o termo "serviço público efetivo" de que tratava o art. 67 da Lei 8.112/90, com o "efetivo exercício do cargo", concluindo que a disponibilidade não pode ser considerada efetivo exercício nos termos do art. 102 do RJU.
+Porém, tais razões não foram sequer mencionadas pela decisão embargada, sendo completamente omissa neste ponto.(fls. 443-444, e-STJ).
+Requerem, ao final, o provimento do presente recurso com efeitos modificativos.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE.
+1. Hipótese em que o acórdão embargado concluiu: a) cuida-se de inconformismo contra decisão da Presidência do STJ que conheceu do Agravo para não conhecer do Recurso Especial; b) o Tribunal a quo não se manifestou acerca dos dispositivos infraconstitucionais tidos por violados em seu Recurso Especial (arts. 62 e 67 da Lei 8.112/1990), motivo pelo qual, à falta do prequestionamento, não se poderia conhecer do Recurso Especial nesse ponto, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF. Ressalte-se que nem sequer se opuseram Embargos de Declaração pela parte visando suprir eventual omissão; e c) ademais, ainda que se superasse tal óbice, é firme a jurisprudência do STJ de impossibilidade de cômputo do período em que o servidor público esteve em disponibilidade, para fins de pagamento de anuênios, tendo em vista que não se enquadra nas hipóteses de afastamento consideradas como efetivo exercício. Precedente: AgRg no AREsp 698.403/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 18.8.2015.
+2. Os argumentos da parte embargante denotam mero inconformismo e intuito
+de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+3. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 31 de agosto de 2021.
+Tratando-se de recurso de fundamentação vinculada, o conhecimento dos Aclaratórios pressupõe que a parte demonstre haver, pelo menos, um dos vícios previstos no art. 1.022 do CPC/2015, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Por meio do acórdão embargado, a Segunda Turma negou provimento ao Agravo Interno no Agravo em Recurso Especial, sob os seguintes fundamentos:
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+O Recurso Especial (art. 105, III, "a", da CF/1988) foi interposto contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ANUÊNIOS. IMPOSSIBILIDADE DE CÔMPUTO DO PERÍODO DURANTE O QUAL O SERVIDOR ESTEVE EM DISPONIBILIDADE. ART. 102 DA LEI 8.112/90. INCIDÊNCIA DOS HONORÁRIOS ADVOCATÍCIOS APENAS SOBRE PARCELAS OBJETO DE EXECUÇÃO NOS AUTOS, EXCLUÍDOS OS VALORES PAGOS ADMINISTRATIVAMENTE. MATÉRIA .APRECIADA EM DECISÃO INTERLOCUTÓRIA E QUE NÃO FOI OBJETO DE RECURSO PRÓPRIO. PRECLUSÃO. SENTENÇA PROFERIDA NOS EMBARGOS QUE ACOLHEU PARTE CONSIDERÁVEL DOS PEDIDOS DA EMBARGANTE. SUCUMBÊNCIA RECÍPROCA. ART. 21 DO CPC/73. APELAÇÃO DOS EMBARGADOS NÃO PROVIDA. APELAÇÃO DA EMBARGANTE PROVIDA.
+(..)"
+Nas razões do apelo especial, os recorrentes alegam violação dos arts. 62, 67 e 102 da Lei 8.112/1990.
+Sustentam que "o art. 67 da Lei 8.112/90 estabelecia como requisito objetivo do direito aos anuênios vínculo a cargo efetivo e não o efetivo exercício, compreendido como desempenho das atribuições do cargo" (fl. 364, e-STJ).
+Conforme assentado na decisão monocrática, a Corte de origem não emitiu manifestação acerca dos dispositivos infraconstitucionais tidos por violados (arts. 62 e 67 da Lei 8.112/1990), motivo pelo qual, à falta do prequestionamento, não se pode conhecer do Recurso Especial, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF.
+Ressalte-se que nem sequer foram opostos Embargos de Declaração pelas partes visando suprir eventual omissão.
+Registro que, nos termos da reiterada jurisprudência deste Tribunal Superior, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com manifestação da Corte de origem, a qual deverá emitir juízo de valor sobre os dispositivos legais ao decidir pela sua adoção ou seu afastamento em relação a cada caso concreto, o que não se deu na espécie.
+Destaca-se ainda que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, é admissível somente quando, após a oposição de Embargos de Declaração na origem, a parte recorrente apontar violação do art. 1.022 do mesmo diploma, porquanto só dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada in casu.
+Ademais, ainda que se superasse tal óbice, é firme a jurisprudência do STJ de impossibilidade de cômputo do período em que o servidor público esteve em disponibilidade, para fins de pagamento de anuênios, tendo em vista que não se enquadra nas hipóteses de afastamento consideradas como efetivo exercício.
+Nessa linha:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO AOS ARTS. 458, II E 535, II, DO CPC. INOCORRÊNCIA. ADICIONAL DE TEMPO DE SERVIÇO. ANUÊNIOS. SERVIDOR EM DISPONIBILIDADE. CÔMPUTO DO PERÍODO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inexiste violação aos arts. 458, II e 535, II, do CPC, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que a embasam.
+2. É firme o entendimento no âmbito do STJ no sentido de que o período em que o servidor público esteve em disponibilidade não deve ser computado para fins de pagamento de anuênios, uma vez que, nos termos do art. 102 da Lei 8.112/1990, não se enquadra nas hipóteses de afastamento consideradas como efetivo exercício.
+3. Precedentes: AgRg nos EREsp 1158516/RS, Rel. Ministro Campos Marques (Desembargador convocado do TJ/PR), Terceira Seção, julgado em 13/03/2013, DJe 20/03/2013; AgRg no REsp 1158516/RS, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/12/2011, DJe 01/02/2012; REsp 425.787/RN, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 17/08/2006, DJ 25/09/2006, p. 295.
+4. Agravo regimental não provido.
+(AgRg no AREsp 698.403/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/08/2015, DJe 18/08/2015)"
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.(fls. 436-438, e-STJ).
+Não verifico na espécie sub judice nenhuma omissão, obscuridade, contradição ou o erro de fato no acórdão embargado, senão o intuito de rediscutir matéria já decidida, emprestando aos Embargos efeito infringente, o que é incabível nesta via.
+Ressalta-se que os temas submetidos ao crivo do Superior Tribunal de Justiça pelo recorrente foram analisados, embora tenha se firmado entendimento em sentido contrário ao do embargante, situação que, entretanto, não autoriza a oposição de Embargos de Declaração.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ademais, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nessa senda: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/08/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/06/2007.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que sua reiteração será considerada expediente protelatório sujeito à multa prevista no art. 1.026, § 2º , do CPC/2015.
+É como voto.
