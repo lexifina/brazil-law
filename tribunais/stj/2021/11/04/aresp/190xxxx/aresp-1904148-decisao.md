@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", "b" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte (fl. 1.719, e-STJ):
+Apelação Cível. Ação declaratória de procedimento ordinário. Concurso Público. Edital nº 001/2016. Município de Goiânia. Cargo de Profissionais de Educação II  Educação Física. I. Candidato aprovado fora do número de vagas previsto em Edital. Mera expectativa de direito à nomeação. Possibilidade de convolação em direito subjetivo. O candidato aprovado para formação de lista de cadastro de reserva possui apenas mera expectativa de direito de nomeação, a qual se convola em direito subjetivo se, durante o prazo de validade do certame, surgirem novas vagas ou for aberto novo concurso para o mesmo cargo e houver preterição arbitrária e imotivada por parte da Administração, o que deverá ser demonstrado de forma cabal pelo candidato (Tese de Repercussão Geral nº 784/STF). In casu, não há se falar em preterição arbitrária e imotivada por parte da Administração Pública, pois o autor/apelante não foi classificado em posição que lhe confere direito subjetivo à nomeação ante ao surgimento das novas vagas durante a validade do certame, uma vez que não restou comprovado o preenchimento delas e nem a sua preterição. II. Pedido de uniformização de jurisprudência. Não demonstração de divergência. Análise de mérito. Vedação. I. Na espécie, não cuidou a recorrente de comprovar a existência de dissídio jurisprudencial qualificado a causar dispersão excessiva da jurisprudência para a instauração de incidente de uniformização de jurisprudência, hoje previsto no art. 976 e ss. do CPC/2015 (IRDR), não bastando para tanto a citação de julgados ou, como fez a insurgente em seu arrazoado, a informação de que as Câmaras Cíveis desta Corte de Justiça vêm decidindo em consonância com a sua tese.
+Apelação Cível conhecida e desprovida.
+Os Embargos de Declaração foram rejeitados (fl. 1.851, e-STJ).
+O agravante, nas razões do Recurso Especial, alega que ocorreu, além de divergência jurisprudencial, violação do art. 67, I, da Lei de Diretrizes e Bases da Educação (LDB). Requer a reforma da decisão recorridapara que seja reconhecido seu suposto direito à nomeação no cargo almejado. Sustenta, em suma (fl. 1.901, e-STJ):
+Restando comprovado que o Município Recorrido preteriu arbitrária e ilegalmente os candidatos aprovados no Concurso Público de Edital nº 001/2016 em favor da contratação precária de servidores via processo seletivo simplificado, a mera expectativa de direito da Recorrente se transforma em direito subjetivo, conforme entendimento desta corte.
+Contrarrazões apresentadas às fls. 1.993-2.000, e-STJ.
+O recurso foi inadmitido na origem (fls. 2.005-2.007, e-STJ), o que deu ensejo à interposição do Agravo de fls. 2.015-2.028, e-STJ. Contraminuta às fls. 2.160-2.163, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.8.2021.
+A irresignação não merece prosperar.
+A alegação da parte sobre a afronta ao art. 67, I, da LDB, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo acórdão recorrido. Dessa forma, inobservou-se o requisito do prequestionamento sobre tal questão. Incidência da Súmula 211/STJ. A propósito, confiram-se:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. PREQUESTIONAMENTO PARCIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ÔNUS DA PROVA. PUBLICIZAÇÃO DE MENSAGENS ENVIADAS VIA WHATSAPP. ILICITUDE. QUEBRA DA LEGÍTIMA EXPECTATIVA E VIOLAÇÃO À PRIVACIDADE E À INTIMIDADE. JULGAMENTO: CPC/2015.
+(..)
+4. A ausência de decisão acerca de dispositivo legal indicado como violado impede o conhecimento do recurso especial (Súmula 211/STJ).
+(..)
+11. Recurso especial parcialmente conhecido e, nessa parte, desprovido.(REsp 129.433/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 30/8/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO ORDINÁRIA. (..) AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DECISÃO MANTIDA.
+(..)
+6. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 211/STJ).
+7. Agravo interno a que se nega provimento.(AgInt nos EDcl no AREsp 1822938/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19/8/2021)
+Consigne-se que o STJ firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/4/2017), o que não ocorreu na hipótese dos autos.
+Com efeito, "para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como tenha sido exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto" (AgInt no AREsp 1.511.330/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2019).
+Desse modo, constata-se que o apelo da parte não ultrapassa a barreira de admissibilidade, porquanto ausente o prequestionamento. Prejudicada a análise do recurso pelos permissivos constitucionais "b" e "c", ante o óbice apontado.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
