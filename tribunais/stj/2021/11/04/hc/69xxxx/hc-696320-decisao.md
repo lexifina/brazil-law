@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RITA DE CÁSSIA TENÓRIO DA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 00007026-39.2021.8.26.0996).
+O Juízo da execução penal reconheceu a prática de falta disciplinar grave e, em consequência, determinou a perda de 1/3 do tempo remido e o reinício da contagem do prazo para a progressão de regime.
+A defesa interpôs agravo em execução.
+O Tribunal de origem negou provimento ao agravo em execução penal interposto pela defesa, mantendo a decisão agravada.
+A impetrante aponta constrangimento ilegal, por ausência de fundamentação da decisão que reconheceu a falta disciplinar grave, sob o argumento de insuficiência probatória.
+Sustenta que o comportamento da paciente não se subsume a qualquer das faltas graves previstas nos arts. 50 a 52 da Lei de Execução Penal, quando muito a imputada conduta pode se amoldar na falta disciplinar de natureza média prevista no Regimento Interno Padrão dos Estabelecimentos Prisionais do Estado de São Paulo.
+Alega que a fundamentação utilizada para o estabelecimento do quantum da perda do tempo remido não cumpriu o disposto nos arts. 57 e 127 da Lei de Execução Penal.
+Requer, liminarmente e no mérito, o afastamento da falta grave, bem como sua desclassificação para falta de natureza média, e/ou se determine que a perda dos dias remidos se dê no mínimo legal de 1 dia, restabelecendo o regime semiaberto.
+O pedido de liminar foi indeferido às fls. 109-110.
+Prestadas as informações (fls. 114-118 e 120-127), o Ministério Público Federal opinou pela denegação da ordem (fls. 132-135).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Juízo da execução penal reconheceu a prática de falta disciplinar grave e determinou a perda de 1/3 dos dias remidos nestes termos (fl. 95):
+No mérito, conforme oitivas realizadas nos autos do procedimento administrativo, restou clara a prática da falta pelo reeducando, comprovando-se materialidade e autoria, visto que os depoimentos dos servidores evidenciam que o sentenciado em ato de desobediência, se recusou a retornar para à cela em que habitava, não apresentando justificativa plausível para tal, agindo com indisciplina em relação às regras recebidas quando de sua inclusão no sistema penitenciário.
+Imprescindível, também, ressaltar que as declarações dos funcionários da unidade merecem credibilidade, não havendo indicação de motivos para que incriminassem falsamente o faltante.
+No caso dos autos, não há que se cogitar, pois, a hipótese da desclassificação do grave ato de indisciplina praticado como falta disciplinar de natureza média.
+Portanto restou comprovado que, com sua postura, o reeducando praticou a conduta descrita no artigo 50, VI da Lei de Execução Penal.
+O empreendimento de falta disciplinar de natureza grave determina, ainda, a incidência do artigo 127 da L.E.P., sobretudo porque a decisão concessiva de remição não produz coisa julgada material nem ofende o direito adquirido.
+Em vista disso, nos termos do artigo 127 da Lei de Execução Penal, impõe-se a perda dos dias remidos ou a remir anteriores à referida infração; já que, na dicção do referido artigo, recentemente alterado pela Lei nº 12.433/11, observa-se que este menciona somente a perda do tempo remido, o que pressupõe decisão judicial.
+Porém, é evidente que a perda do direito também atinge os dias a remir anteriores á falta grave; tanto assim que a segunda parte do artigo 127 da LEP prevê que o novo período de cômputo começa "a partir da data da infração disciplinar".
+O Tribunal de origem manteve a decisão singular, adotando os seguintes fundamentos (fls. 15-16):
+A reeducanda foi condenada por ter infringido o disposto no artigo 50, inciso VI, da Lei 7.210/84.
+Inquirida, a sentenciada admitiu os fatos, afirmando ter se recusado a retornar para a cela e que assim agiu, porque a companheira Kenia surtou, pois queria habitar a mesma cela da declarante. Então, ficou no ático, para acompanhar a companheira no pavilhão disciplinar (fls. 43/4).
+E o confesso acabou roborado pelos depoimentos coesos e harmônicos das agentes penitenciárias, que ratificaram o quanto descrito na comunicação do evento, dando conta de que, no dia 04.04 p.p., ao realizarem a tranca do término do banho de sol vespertino, a sentenciada se recusou a adentrar na cela, permanecendo no pátio do pavilhão. Indagada, não apresentou motivo justificável para sua conduta (fls. 38/41).
+ ..
+Realmente, a conduta da acusada caracteriza falta gra ve, nos termos do artigo 50, inciso VI, ambos da lei de Execução Penal, demonstrando, a presa, rebeldia e insubordinação, condutas inaceitáveis no ambiente carcerário, que exige extrema disciplina para garantir a estabilidade do local.
+ ..
+A perda dos dias remidos é consequência legal do reconhecimento da prática de falta grave, e, a recontagem do lapso aquisitivo dos benefícios penais é impositiva, para fins de progressão, a teor da Súmula 534 do STJ.
+O Tribunal a quo, soberano na análise dos fatos e das provas dos autos, concluiu que a paciente cometera falta disciplinar de natureza grave por desobediência, nos termos do art. 50, VI, da Lei de Execução Penal.
+Para alterar o entendimento das instâncias ordinárias nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. CARACTERIZAÇÃO. PLEITO DE ABSOLVIÇÃO. VIA IMPRÓPRIA. DESCLASSIFICAÇÃO PARA FALTA MÉDIA. REITERAÇÃO DA PRETENSÃO FORMULADA NO HC N. 564.773/SP. AGRAVO DESPROVIDO.
+1. O exame da tese de não configuração da falta grave, com vistas à absolvição do Paciente, não se coaduna com a via estreita do habeas corpus, dada a necessidade de incursão na seara fático-probatória.
+2. "É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/09/2019, DJe 18/09/2019).
+3. Agravo desprovido. (AgRg no HC n. 612.037/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/10/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. AGRESSÕES MÚTUAS ENTRE DETENTAS E DESOBEDIÊNCIA AO AGENTE PENITENCIÁRIO. RECONHECIMENTO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. PERDA DE 1/3 DOS DIAS REMIDOS. ART. 57 DA LEP. DECISÃO FUNDAMENTADA. MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO NÃO PROVIDO.
+1. Na hipótese, as instâncias ordinárias concluíram que as provas são uníssonas em indicar a prática da falta grave cometida pela apenada, consistente em mútua agressão entre as detentas acrescida da desobediência aos agentes penitenciários, nos termos do artigo 50, incisos I e VI, combinado com o artigo 39, incisos II e V, ambos da Lei n. 7.210/1984.
+2. Analisar se o fato praticado configura ou não infração disciplinar administrativa, de natureza leve, média ou grave, demandaria o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita. Precedentes.
+3. A jurisprudência desta Corte Superior é firme no sentido de que a perda de até 1/3 dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a própria legislação de regência, segundo a qual devem ser observadas as diretrizes elencadas no art. 57 da LEP (a saber: "a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão").
+4. Na hipótese dos autos, a perda de 1/3 dos dias remidos se deu de forma fundamentada, haja vista a gravidade da natureza da falta disciplinar e o histórico prisional da sentenciada.
+5. Agravo regimental não provido. (AgRg no HC n. 516.423/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/12/2019.)
+No que diz respeito ao quantum de perda dos dias remidos, a jurisprudência do Superior firmou-se no sentido de que a perda da fração máxima de 1/3 dos dias remidos exige fundamentação concreta, devendo ser observadas "a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão" (art. 57 da LEP).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. CONFIGURAÇÃO. REGRESSÃO DE REGIME, PERDA DOS DIAS REMIDOS E ALTERAÇÃO DA DATA-BASE. CONSECTÁRIOS LEGAIS. CABIMENTO. FRAÇÃO APLICADA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. De acordo com o entendimento desta Corte, a violação da zona de monitoramento pode configurar falta grave, nos termos dos arts. 50, inciso VI, e 39, inciso V, ambos da Lei de Execução Penal, o que autoriza a regressão de regime e a alteração da data-base para progressão.
+2. A perda de até 1/3 (um terço) dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a LEP, nos arts. 57 e 127, o que se verifica na hipótese.
+3. Agravo regimental desprovido. (AgRg no HC n. 509.270/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 27/11/2020.)
+Portanto, visto que as instâncias ordinárias, ao determinarem a perda de 1/3 dos dias remidos, não indicaram fundamento para tanto, divergiram do entendimento do STJ, estando, pois, constatada hipótese de constrangimento ilegal passível de ser sanado na presente via.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para cassar as decisões das instâncias ordinárias e determinar que o Juízo da execução penal reaprecie, de maneira fundamentada, a fração da perda dos dias remidos aplicável ao caso, observando o limite legal.
+Publique-se. Intime-se.
