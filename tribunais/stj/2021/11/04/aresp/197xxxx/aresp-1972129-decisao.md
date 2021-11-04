@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA ELIZA FERREIRA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - JUSTIÇA GRATUITA - AÇÃO DE COBRANÇA - DESPESAS CONDOMINIAIS - ELEMENTOS QUE NÃO DEMONSTRAM DE FORMA SUFICIENTE A INCAPACIDADE ECONÔMICO-FINANCEIRA DA RECORRENTE - LIMINAR REVOGADA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 99, § 2º, do CPC e do art. 5º da Lei n. 1.060/1950, no que concerne à necessidade de concessão dos benefícios da justiça gratuita à recorrente, trazendo os seguintes argumentos:
+No caso em tela, não se vislumbra qualquer indício de boa situação financeira da Recorrente pelo fato de ter uma residência e única moradia, que pagou com o suor de seu trabalho, bem como percebe uma aposentadoria de pouco mais de um salário mínimo, que utiliza para sua subsistência, mas clama a atenção dos Nobres Jurisconsultos pelo momento que assola o mundo - COVID 19.
+Como afirmado alhures, a Recorrente tem idade, e desde o início da pandemia não conseguiu mais arcar com os pagamentos das cotas condominiais, o que não pode depreciá-la.
+A pandemia prejudicou muitas pessoas e a Recorrente não pode ser rechaçada por passar por dificuldades em arcar com o pagamento cotas condominiais numa pandemia mundial.
+Não é crível que tenha se apoiado, unicamente, no montante financeiro percebido pela Recorrente como incompatível com o estado de insuficiência financeira, na forma do que rege o art. 98 da Legislação Adjetiva Civil (fl. 122).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, a Agravante é aposentada e tem um imóvel em região nobre da cidade de São Paulo no valor aproximado de 246 mil reais. Os extratos de conta bancária apontam movimentação financeira constante e em valores incompatíveis com pessoa que, de fato, faz jus ao benefício pleiteado (fls. 67/80 dos autos principais).
+Sendo assim, verifica-se que a Agravante não demonstrou de forma suficiente que faz jus à concessão da Justiça Gratuita (fl. 108).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
