@@ -1,0 +1,12 @@
+DECISÃO
+Marcus Vinicius Alvarez Guimaraes ingressa com pedido de extensão da liminar concedida aGiacomo Dogi, nos autos do HC 703.537/PA, sob a alegação de estar em idêntica situação fático-processual.
+O pedido de extensão foi autuado como habeas corpus, observando-se que, no Tribunal de origem, já foi concedida liminar no HC 10394425320214010000para substituir a prisão preventiva do paciente por prisão domiciliar, cumulada com monitoração eletrônica, nos termos do art. 318, II, e 319 , IX, do CPP (fls. 25/29).
+Afirma que são idênticos os fundamentos utilizados para decretaçãode sua prisão e do investigadoGiacomo, razão pela qual postula lhe sejam aplicadas as mesmas medidas cautelares impostas aos demais acusados,a saber: obrigação de comparecimento mensal ao Juízo do local de sua residência, enquanto o processo estiver em andamento, para informar e justificar suas atividades, proibição de mudar de endereço sem comunicação a este Juízo, proibição de ausentar- se do distrito da culpa por prazo superior a 08 (oito) dias, sem autorização deste Juízo (fls. 6/7).
+É o relatório.
+Como afirmado pelo próprio impetrante, Marcus Vinicius Alvarez Guimaraesjá foi posto em liberdade por força da liminar concedida nos autos do Habeas Corpus Criminal nº 1039442-53.2021.4.01.0000, o qual, na oportunidade concedeu a prisão domiciliar, com o monitoramento integral pela tornozeleira eletrônica (fl. 6).
+Por outro lado, a liminar concedidaao paciente Giacomo Dogi, nos autos do HC 703.537/PA, determinou a substituição da prisão preventiva imposta pelas medidas cautelares previstas no art. 319 do Código de Processo Penal - a serem fixadas pelo Juízo de primeiro grau, salvo se por outro motivo estiver preso.
+Assim, cabe ao Juízo de primeiro grau analisar eventual pedido de alteração das medidas cautelares impostas ao ora requerente, mediante a análise da situação de cada investigado, não havendo manifesto constrangimento ilegal a ser reparado nestes autos, mesmo porque, como acima demonstrado, já foi substituída a prisão preventiva do paciente, nos termos dos arts. 318, II, e 319, IX, do CPP.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. DETERMINAÇÃO DE SUBSTITUIÇÃO, NA ORIGEM, POR PRISÃO DOMICILIAR E MONITORAMENTO ELETRÔNICO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PEDIDO DE ALTERAÇÃO DE MEDIDAS CAUTELARES IMPOSTAS ASER FORMULADO EM PRIMEIRO GRAU. WRIT INDEFERIDO LIMINARMENTE.
