@@ -1,0 +1,33 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARCO ANTONIO GONCALVES VALLE contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REINTEGRAÇÃO DE POSSE CONVERTIDA EM AÇÃO DE EXECUÇÃO. PEDIDO DE DESISTÊNCIA PELO EXEQUENTE. SENTENÇA HOMOLOGATÓRIA. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. RECUSO CONHECIDO E DESPROVIDO.
+A desistência da execução pelo credor devido à ausência de bens do devedor que sejam passíveis de penhora, conforme o princípio da causalidade, não enseja à condenação do exequente em honorários advocatícios.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts.489, §1º, V e 1.022, inciso II, parágrafo único,85, §§ 1º, 2º, 14 e 90, todos do CPC, alegando omissão no acórdão recorrido e quesão devidos os honorários de sucumbência em sede de execução, mesmo que haja desistência do processo pela parte autora.
+Contrarrazões ao recurso especial às fls. 745-752.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação dos artigos 1.022 e 489, §1º, Vdo Código de Processo Civil de 2.015. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Sobre a controvérsia o Tribunal de origem se manifestou nos seguintes termos:
+Primeiramente, sabe-se que, na fundamentação, o Magistrado não precisa rebater todos os argumentos e alegações das partes para formar o seu convencimento. Sendo assim, apesar da argumentação contida no tópico II da apelação, decidiu-se aplicar o princípio da causalidade ao caso em tela. Para que não restem dúvidas, o acórdão assim afirmou: Por fim, esclareço que as verbas honorárias em favor do credor não são devidas, posto que o processo foi extinto por desistência do exequente. Ademais, não houveinsurgência sobre o pagamento das custas no presente recurso, que deverão ser arcadas pela parte exequente, conforme proferido em sentença. Sendo assim, constata-se facilmente que a pretensão do embargante com o manejo dos presentes embargos declaratórios é a reforma da decisão, restando claro que o seu mero inconformisrno não respalda a mudança da decisão embargada. (fl. 643)
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+4.No tocante à aludida violação dos arts.85, §§ 1º, 2ºe 90do CPC, tem-se que a Corte a quo concluiu queo pedido de desistência do credor, em razão da ausência de bens passíveis de penhora, não acarreta sua condenação em honorários sucumbenciais, em decorrência do princípio da causalidade. A Corte se manifestou nos seguintes termos:
+Portanto, o pedido de desistência devido a não localização dos bens não afasta o fato que o réu deu causa à ação de execução, tendo em vista que não adimpliu com as obrigações contratadas, obrigando o credor a ajuizar esta demanda. (fl. 605)
+Nesse contexto, verifica-se que o entendimento esposado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça. Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DA EXECUÇÃO POR DESISTÊNCIA DO EXEQUENTE. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. AUSÊNCIA DE SUCUMBÊNCIA DO EXEQUENTE.
+1. Vindo o exequente a desistir do cumprimento de sentença por não localização de bens do devedor, incabível a fixação de honorários advocatícios em favor do executado, uma vez que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não cumprimento de sua obrigação.
+2. A desistência da execução em virtude da não localização de bens do devedor não retira a aplicação do princípio da causalidade em desfavor do executado, nem atrai a sucumbência para o exequente.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1744492/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe 14/06/2019)
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA.
+DESISTÊNCIA. AUSÊNCIA DE BENS PENHORÁVEIS DE TITULARIDADE DA PARTE EXECUTADA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. 1. Em relação à desistência, que se opera no plano exclusivamente processual, podendo dar azo, inclusive, à repropositura da execução, o novo CPC previu que "o exequente tem o direito de desistir de toda ou de apenas alguma medida executiva" (art. 775). 2. A desistência da execução pelo credor motivada pela ausência de bens do devedor passíveis de penhora, em razão dos ditames da causalidade, não rende ensejo à condenação do exequente em honorários advocatícios.
+3. Nesse caso, a desistência é motivada por causa superveniente que não pode ser imputada ao credor. Deveras, a pretensão executória acabou se tornando frustrada após a confirmação da inexistência de bens passíveis de penhora do devedor, deixando de haver interesse no prosseguimento da lide pela evidente inutilidade do processo.
+4. Recurso especial não provido.
+(REsp 1675741/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/06/2019, DJe 05/08/2019)
+Dessa forma, incide, in casu, o óbice processual sedimentado no verbete da Súmula 83 deste Pretório.
+Assim, ante da ausência de qualquer subsídio capaz de alterar os fundamentos do acórdão recorrido, subsiste incólume o entendimento nele firmado, não merecendo prosperar, portanto, o presente apelo nobre.
+5. Ademais, alterar o v. acórdão, quanto à verificação da prescrição, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+6. Por fim, aincidência do óbice contido na Súmula 7 do STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+7. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
