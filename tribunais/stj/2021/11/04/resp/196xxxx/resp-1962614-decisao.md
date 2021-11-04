@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. GACEN. EXERCÍCIO DE ATIVIDADES DE CAMPO. COMPROVAÇÃO.
+1. Agravo de Instrumento manejado pela FUNASA e União objetivando a reforma da decisão que reconheceu que a exequente/Agravada comprovou "que havia trabalhado em atividades de campo de combate e controle de endemias, fazendo jus, portanto, ao recebimento da GACEN no período apresentado na petição inicial da execução, qual seja, setembro de 2008 a março de 2017."
+2. Alegam que não há provas suficientes nos autos no sentido de que a Agravada tenha exercido atividades externas, não fazendo jus ao pagamento da gratificação, que encontra-se cedida ao Estado do Rio Grande do Norte.
+3. Compulsando os autos, verifica-se que o Ofício nº 909/19, expedido pelo Ministério de Saúde (ID nº 4058400.5745149), atesta que: "A SESAP/RN encaminhou diversos ofícios no qual atestam que a servidora exerce atividades de campo de combate e controle de endemias, compondo suas atividades diárias de vigilância epidemiológica as atividades relacionadas no art. 3º da Portaria nº 484, de 1 de abril de 2014, no âmbito da Subcoordenadoria de Vigilância Epidemiológica - SUVIGE, no seguinte período: maio, junho, julho, agosto, setembro, outubro, novembro e dezembro de 2017; janeiro, fevereiro, abril, maio, setembro, outubro e novembro de 2018; abril de 2019 (cópias anexas). Esclareço que esta regional não pagou diárias a servidora desde sua redistribuição em maio de 2017 até a presente data, conforme ficha financeira anexa, nem tão pouco qualquer vantagem a título de indenização de campo prevista no art. 16 da lei nº 8.216/91."
+4. A esse respeito, a exequente esclarece, na petição acostada no Id. 4058400.5787349, que "apesar de somente em 2017 ter sido iniciada a comunicação acerca do trabalho de campo, desde a data de sua cessão a mesma exerceu as mesmas funções, conforme consta nas declarações acostadas às fls. 18/20 (Id. 4058400.2513870), fazendo jus ao pagamento da rubrica desde 2008, na forma descrita na exordial". Nesse pórtico, infere-se se encontrar satisfatoriamente demonstrado o efetivo exercício de atividades de campo, pela parte exequente. Agravo de Instrumento improvido.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega violação dos arts. 489, 509 e 1.022 do CPC/2015.
+Contrarrazões às fls. 418-420, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19.10.2021.
+Não se conhece do Recurso Especial em relação à ofensa aos arts. 489 e 1.022 do CPC/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+A instância de origem não emitiu juízo de valor sobre o art. 509 do CPC/2015. Assim, ante a ausência de prequestionamento, é inviável o conhecimento do recurso nesse ponto.
+Ademais, o acórdão recorrido consignou:
+Considerando que o Supremo Tribunal Federal já firmou posicionamento de que a motivação referenciada "per relationem" não constitui negativa de prestação jurisdicional, tendo-se por cumprida a exigência constitucional da fundamentação das decisões judiciais (HC 160088 AgR, Relator: Min. Celso de Mello, Segunda Turma, julgado em 29/03/2019, Processo Eletrônico DJe-072, Public 09-04-2019 e AI 855829 AgR, Relator: Min. Rosa Weber, Primeira Turma, julgado em 20/11/2012, Public 10-12-2012), adoto como razões de decidir os termos da decisão, que passo a transcrever:
+"(..)01. Compulsando os autos, verifica-se que o Ofício nº 909/19, expedido pelo Ministério de Saúde (ID nº 4058400.5745149), atesta que: "A SESAP/RN encaminhou diversos ofícios no qual atestam que a servidora exerce atividades de campo de combate e controle de endemias, compondo suas atividades diárias de vigilância epidemiológica as atividades relacionadas no art. 3º da Portaria nº 484, de 1 de abril de 2014, no âmbito da da Subcoordenadoria de Vigilância Epidemiológica - SUVIGE, no seguinte período: maio, junho, julho, agosto, setembro, outubro, novembro e dezembro de 2017; janeiro, fevereiro, abril, maio, setembro, outubro e novembro de 2018; abril de 2019 (cópias anexas). Esclareço que esta regional não pagou diárias a servidora desde sua redistribuição em maio de 2017 até a presente data, conforme ficha financeira anexa, nem tão pouco qualquer vantagem a título de indenização de campo prevista no art. 16 da lei nº 8.216/91."
+02. A esse respeito, a exequente esclarece, na petição acostada no ID nº 40584 00.5787349, que "apesar de somente em 2017 ter sido iniciada a comunicação acerca do trabalho de campo, desde a data de sua cessão a mesma exerceu as mesmas funções, conforme consta nas declarações acostadas às fls. 18/20 (id. 4058400.2513870), fazendo jus ao pagamento da rubrica desde 2008, na forma descrita na exordial."
+03. Nesse pórtico, infere-se se encontrar satisfatoriamente demonstrado o efetivo exercício de atividades de campo, pela parte exequente.
+(..)
+Não merece acolhimento a pretensão da Agravante, portanto.
+Sob o influxo de tais considerações, nego provimento ao Agravo de Instrumento. (fls. 361-362, e-STJ)
+Diante da situação fática minuciosamente descrita pela Corte de origem, descabe ao STJ, via Recurso Especial, contrariar as constatações obtidas pela instância ordinária, que é senhora da análise probatória, conforme previsto na Súmula 7/STJ.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
