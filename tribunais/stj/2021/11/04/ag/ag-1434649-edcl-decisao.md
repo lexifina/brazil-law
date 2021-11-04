@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PAULA BARBOSA DE CARVALHO à decisão de fl. 11, que não conheceu do recurso.
+A parte embargante alega a existência de "ponto obscuro na lide" (fl. 13), discorrendo sobre aspectos relativos à suspeição arguida em face do embargado que, mesmo após reconhecer sua parcialidade, continuou a atuar internamente contra seus interesses no processo principal.
+Argumenta que esgotou todos os recursos perante o tribunal a quo, não havendo outra alternativa para o reconhecimento dos seus direitos senão a interposição do presente agravo de instrumento.
+Requer "sejam os presentes embargos de declaração acolhidos e providos, no sentido de esclarecer a decisão embargada, pelas razões acima apontadas (..)." (fl. 14)
+Não foi aberto vista para impugnação aos embargos, uma vez que a parte embargada encontra-se sem representação nos autos do STJ, conforme certificado à fl. 16.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+De início, observa-se que a parte embargante não discutiu os vícios previstos no art. 1.022 do CPC, limitando-se a alegar genericamente sobre a existência de ponto obscuro na lide, para, em seguida, passar a discorrer sobre possíveis iniquidades surgidas ao longo da discussão de seus direitos na Justiça Fluminense.
+Como se vê, após reiterar suas alegações sobre a suspeição de serventuário do TJRJ, a embargante não estabeleceu conexão entre o fundamento da decisão de não conhecimento de seu agravo, fundado exclusivamente na falta de técnica processual no manejo dos recursos previstos no CPC, e os destes aclaratórios, em total afronta ao princípio da dialeticidade.
+No ponto, convém ressaltar que os embargos de declaração são cabíveis em face da decisão proferida imediatamente anterior ao recurso, não sendo possível sua utilização para atacar decisões anteriores, bem como não representam "a via adequada para nova impugnação do mérito." (AgRg no AREsp n. 1486766, relator Ministro Felix Fischer, Quinta Turma, DJe 01/08/20019)
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
