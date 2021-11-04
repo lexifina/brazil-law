@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. REEXAME PROBATÓRIOSÚMULAS 282 E 356/STF.
+1. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2.Não há como se analisar recurso especial que demande incursão na seara probatória, nos termos preconizados pela Súmula 7/STJ.
+3. Agravo internoa que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado contra decisão que não conheceu do recurso especial.
+O agravante aduz não ser caso de aplicação da Súmula 282/STF, porquanto houve o prequestionamento da tese recursal.
+Argumenta ainda não ser cabível a aplicação do óbice da Súmula 7/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. REEXAME PROBATÓRIOSÚMULAS 282 E 356/STF.
+1. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2.Não há como se analisar recurso especial que demande incursão na seara probatória, nos termos preconizados pela Súmula 7/STJ.
+3. Agravo internoa que se nega provimento.
+VOTO
+A decisão agravada foi assim redigida:
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO AÇÃO DE OBRIGAÇÃO DE FAZER PLEITO DA AUTORA DE QUE FOSSE O RÉU OBRIGADO A PAGAR AUXÍLIO ALUGUEL ENQUANTO NÃO FOSSE PROMOVIDO O SEU ATENDIMENTO HABITACIONAL DEFINITIVO SENTENÇA QUE JULGA PARCIALMENTE PROCEDENTE A AÇÃO CONCEDENDO O AUXÍLIO ALUGUEL PELO PRAZO DE 12 MESES RENOVÁVEL POR MAIS 12 MESES REFORMA SITUAÇÃO DE VULNERABILIDADE DA AUTORA DEMONSTRADA NOS AUTOS DIANTE DE INCÊNDIO DE SUA ANTIGA MORADIA RECEBIMENTO DE PARCA QUANTIA COM SETE FILHOS MENORES SOB SUA RESPONSABILIDADE SOB O RISCO DE TER QUE VIVER EM SITUAÇÃO DE RUA DIREITO À MORADIA GARANTIDO CONSTITUCIONALMENTE ART 6 DA CR AUSÊNCIA DE LEGISLAÇÃO MUNICIPAL QUE NÃO OBSTA A NECESSIDADE DE SUA EFETIVAÇÃO DEVER DO ENTE PÚBLICO DE ASSEGURAR O MÍNIMO EXISTENCIAL O QUE SOMENTE PODE SER ATINGIDO GARANTINDO-SE O DIREITO À MORADIA DIGNA AUTORA ADEMAIS QUE AGUARDA HÁ 11 ONZE ANOS RETORNO SOBRE CADASTRAMENTO EM PROGRAMAS HABITACIONAIS SEM QUALQUER RESPOSTA DO PODER PÚBLICO NECESSIDADE DE QUE AUXÍLIO ALUGUEL SEJA PAGO ATÉ QUE HAJA SOLUÇÃO HABITACIONAL DEFINITIVA À AUTORA OU QUE CESSE A SITUAÇÃO DE VULNERABILIDADE PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA HONORÁRIOS EM PROL DA DEFENSORIA PÚBLICA AUSÊNCIA DE DISCUSSÃO DA LEGITIMIDADE PARARECEBER HONORÁRIOS QUANDO LITIGA COM ENTE FEDERATIVO DISTINTO DO QUAL PROVENHA SEU ORÇAMENTO SENTENÇA REFORMADA RECURSO DA AUTORA PROVIDO RECURSO DO RÉU NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 86 do CPC, no que concerne ao reconhecimento da sucumbência recíproca no caso, trazendo, em síntese, os seguintes argumentos:
+O acórdão contraria o art. 86 do CPC. É que, embora tenha reformado a sentença, não concedeu à autora o provimento dos pedidos iniciais. Rejeitada a pretensão condenatória ao atendimento habitacional definitivo, não cabem se arbitrar os honorários como se tivesse ocorrido sucumbência total do Município, e sim em atenção à sucumbência recíproca (fls. 265).
+Nesse sentido, considerando o universo da pretensão inicial frente à vitória obtida, não houve sucumbência mínima da autora, afastando-se o disposto no parágrafo único do art. 86 sobredito (fls. 266).
+É, no essencial, o relatório. Decido.
+Na espécie, incidem os óbices das Súmulas n. 282 e 356 do STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.) Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ademais, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da proporção em que cada parte ficou sucumbente em relação ao pedido inicial, enseja orevolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n.
+7 do STJ". (AgInt no AREsp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2020.) Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; e AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+A decisão da Presidência deve ser mantida, porquanto a específica tese recursal não foi devidamente prequestionada.
+Ademais, como bem salientou a decisão agravada, a revisão da verba honorária esbarraria na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
