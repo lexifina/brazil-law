@@ -1,0 +1,21 @@
+DECISÃO
+1. Cuida-se de agravo interposto por FALCONI"S LANCHONETE E PIZZARIA LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Ação de cobrança - Contrato de compra e venda de estabelecimento comercial e cessão de quotas sociais - Dívida trabalhista contraída e saldada posteriormente à celebração dos instrumentos contratuais - Ação de regresso ajuizada pela sociedade em face dos ex-sócios - Descabimento - Responsabilidade dos alienantes do estabelecimento comercial que pode ser arguida pelos adquirentes em discussão entre as partes que participaram diretamente do negócio - Impossibilidade de pedido de regresso pela sociedade aos ex-sócios por débitos com base apenas no momento em que constituída a obrigação - Separação da personalidade jurídica dos sócios e da sociedade - Interpretação do art. 1.003, pár. ún., do Código Civil que deve ser feita apenas no tocante às dividas pessoais dos sócios com a sociedade ou para com terceiros - Sentença de improcedência - Manutenção - Honorários sucumbenciais inalterados, posto já atingido o limite legal (CPC, art. 85, §§2º e 11) - Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, ofensa ao disposto nos arts. 1.022, II e 341 do CPC e art. 1.059 do CC, alegando em síntese, omissão no acórdão recorrido e que "adecisão também a maltrata, na medida em que deixa de impor ao ex-sócio, que se beneficiou com a ocultação da dívida, recebendo as sobras de caixa como se lucros fossem, a devolução do quanto os demais sócios, via sociedade, tiveram que integralizar para suprir a falta de recursos para atender uma obrigação legal."
+Alegam ainda, que presumem-se verdadeiras as alegações não impugnadas, mesmo porque é ônus do requerido impugnar todos os fatos alegados pela parte contrária.
+Contrarrazões ao recurso especial às fls. 653-662.
+É o relatório.
+DECIDO.
+2. A irresignação merece prosperar.
+3. Instado por meio de aclaratórios, o Tribunal de origem rejeitou-os, sem enfrentamento dos temas neles suscitados, os quais são relevantes à solução da controvérsia, notadamente aquele que diz respeito à alegada violação ao art. 341 do CPC.
+O conhecimento do recurso especial, como é cediço, exige a manifestação da Corte de Justiça acerca da tese de direito arguida. A recusa em pronunciar um juízo de valor a respeito da questão federal impede o acesso da parte interessada à instância especial.
+Assim, " c aracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada" (REsp n. 1.187.583/RS, Relator o Ministro Castro Meira, julgado em 6/5/2010, DJe 17/5/2010).
+No mesmo sentido (grifo meu):
+PROCESSUAL CIVIL E TRIBUTÁRIO. TAXA DE COOPERAÇÃO E DEFESA DA ORIZICULTURA. LEI ESTADUAL 12.685/06 VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AFRONTA AO ART. 19 DA LEI 8.028/90. QUESTÃO NÃO DECIDIDA DE FORMA CLARA E CONCLUSIVA PELO ACÓRDÃO RECORRIDO. PRESTAÇÃO JURISDICIONAL DEFICIENTE.
+1. Havendo deficiência na prestação jurisdicional realizada no Tribunal de origem, é de se acolher a preliminar de violação do art. 535 do CPC para determinar o retorno dos autos para que sejam sanadas as omissões apontadas.
+2. Da análise do acórdão recorrido, verifica-se que, não obstante o manejo de embargos de declaração pela parte sucumbente, não restou decidida de forma conclusiva a questão referente à violação do artigo 19 da Lei Ordinária n. 8.028/90 em face da inobservância à competência do Ministério da Fazenda para fiscalizar e controlar o comércio exterior.
+3. Recurso especial provido. (REsp n. 1.214.312/RS, Relator o Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/4/2011, DJe 5/5/2011)
+________ .
+4. Ante o exposto, conheço do agravo e dou provimento ao recurso especial a fim de anular o acórdão dos embargos de declaração. Determino o retorno dos autos ao Tribunal de origem para que profira novo julgamento, pronunciando-se, como entender de direito, sobre as questões suscitadas pela embargante.
+Publique-se. Intimem-se.
