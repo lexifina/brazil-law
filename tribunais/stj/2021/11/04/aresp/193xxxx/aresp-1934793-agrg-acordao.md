@@ -1,0 +1,51 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede, como ressaltado no decisum recorrido, o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): Trata-se de agravo regimental interposto por FRANCISCO SANTANA DE SOUZA contra a decisão de fls. 1.312-1.316,na qual não se conheceu do agravo em recurso especial, por ausência de impugnação aos fundamentos da decisão de admissibilidade do recurso especial.
+Consta dos autos que o MM. Juízo de primeiro grau condenou o ora agravante como incurso nas sanções do art. 180, §§ 1º e 2º, incisos II e V, e do art. 288, caput, nos termos do art. 69, caput, todos do Código Penal, à pena de 2 (dois) anos e 5 (cinco) meses de reclusão, no regime inicial aberto, mais 12 dias-multa. Houve substituição por penas restritivas de direitos (fls. 1.004-1.023).
+O eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal da Defesa (fls. 1.225-1.241).
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alega violação ao art. 381, inciso III, do Código de Processo Penal (fls. 1.250-1.258). Para tanto, menciona que:
+a) " ..  o v. acórdão que julgou a apelação defensiva foi totalmente omisso, tendo em vista que foram totalmente ignorados os argumentos defensivos trazidos em sede de apelação" (fl. 1.254);
+b) " ..  o v. acórdão ora recorrido fora omisso no tocante as teses sustentadas pela defesa técnica do ora recorrente, e o não enfrentamento, mesmo que de maneira sucinta, dos principais argumentos defensivos trazidos no apelo defensivo, torna nulo, em nosso entender, os julgados por negativa de vigência ao artigo 381, inciso III, do Código de Processo Penal" (fl. 1.255).
+Apresentadas as contrarrazões (fls. 1.265-1.268), o especial foi inadmitido na origem pela incidência da Súmula n. 7/STJ e pela aplicação da Súmula n. 283/STF (fls. 1.271-1.272).
+Foi interposto o respectivo agravo, no qual o agravante, em apertada síntese, repisou os argumentos expendidos no apelo nobre (fls. 1.275-1.282). Contraminuta apresentada pelo Parquet estadual (fls. 1.285-1.288).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 1.303-1.310). Eis a ementa do parecer:
+"AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO E ASSOCIAÇÃO CRIMINOSA. SÚMULAS 7/STJ E 283/STF. RECURSO QUE NÃO IMPUGNA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ART. 932, III, DO CPC E ART. 253, PARÁGRAFO ÚNICO, I, DO RISTJ. RECURSO ESPECIAL PRETENDE REJULGAMENTO DA MATÉRIA. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+- Parecer pelo não conhecimento do agravo em recurso especial."
+Em decisão de fls. 1.312-1.316, não conheci do agravo em recurso especial, nos termos da ementa a seguir transcrita:
+"PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. ASSOCIAÇÃO CRIMINOSA. AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO."
+Daí a interposição do presente agravo regimental, por meio do qual se alega, em síntese, que " ..  não é para acolhida a fundamentação trazida na r. decisão ora agravada no sentido de que a defesa não impugnou especificamente todos os fundamentos utilizados pelo Insigne Desembargador Presidente da Seção de Direito Criminal do Egrégio Tribunal de Justiça do Estado de São Paulo para negar trânsito ao recurso especial, pois como perceberão Vossas Excelências, nada mais fez a defensoria técnica do agravante que demonstrar a discordância quanto a incidência de todos os óbices aventados para tanto, demonstrando, para tanto, a inaplicabilidade destes no caso concreto" (fl. 1.322).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede, como ressaltado no decisum recorrido, o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): O presente agravo não merece prosperar, devendo ser mantida a decisão recorrida.
+Conforme relatado, o especial foi inadmitido na origem pela incidência da Súmula n. 7/STJ e pela aplicação da Súmula n. 283/STF (fls. 1.271-1.272).
+No entanto, o ora recorrente, quando da interposição do respectivo agravo, deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal a quo para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula n. 7/STJ.
+De fato, nos termos do que mencionado no decisum reprochado, das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Conforme consignado pelo d. representante do Ministério Público Federal, em seu parecer (fl. 1.305):
+"O agravante, entretanto, apenas fundamentou que a decisão de inadmissibilidade foi genérica, não demonstrando a desnecessidade de incursão probatória para se infirmar o acórdão recorrido. Afirma, também, que " esta defensoria técnica demonstrou especificamente a ocorrência de omissão quando do julgamento da apelação, razão pela qual, não encontramos justificativa para pechá- lo de deficiente em sua fundamentação." (fl. 1.280). Assim, a agravante não impugnou especificamente o fundamento da decisão agravada.
+Não basta afirmar que o recurso especial encontra-se devidamente fundamentado, é preciso demonstrar os fundamentos de maneira clara, apontando os argumentos concatenados que viabilizariam a correta compreensão da pretensão recursal.
+Da mesma maneira, não basta apenas afirmar não ser caso da Súmula 7/STJ, é preciso demonstrar que a demanda cinge-se apenas à matéria de direito, o que não foi realizado, pois o agravo apenas ataca a decisão de inadmissibilidade em si.
+É importante que se diga que para fins de atendimento do requisito exigido pela súmula 182 do STJ não basta apenas citar os pontos da decisão agravada, é necessário efetivamente contrapô-los, ou seja, demonstrar que não é acertada a inadmissão recursal, o que não se verificou no presente caso."
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+No mesmo sentido, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Nesse sentido, e em reforço:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Assim, deve ser mantida a decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
