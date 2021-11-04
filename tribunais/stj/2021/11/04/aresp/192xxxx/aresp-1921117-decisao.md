@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão assim ementado (fls. 434,e-STJ):
+PREVIDENCIÁRIO. AÇÃO ORDINÁRIA. REQUISITOS PARA CONCESSÃO. NÃO ATENDIDOS. CAPACIDADE LABORATIVA. AUSÊNCIA DE LIMITAÇÃO LABORAL. PERÍCIA JUDICIAL. FINALIDADE. MÉDICO ESPECIALISTA.
+1. São três os requisitos para a concessão dos benefícios por incapacidade: 1) a qualidade de segurado; 2) o cumprimento do período de carência de 12 contribuições mensais; 3) a incapacidade para o trabalho, de caráter permanente (aposentadoria por invalidez) ou temporário (auxílio- doença).
+2. Hipótese em que o conjunto probatório formado pelos documentos acostados pelas partes e pela perícia judicial não apontam a existência de incapacidade ou redução da capacidade laboral a ensejar a concessão do benefício de auxílio-doença ou do benefício de aposentadoria por invalidez.
+3. O laudo judicial é completo, coerente e não apresenta contradições formais, tendo se prestado ao fim ao qual se destina, que é o de fornecer ao juízo a quo os subsídios de ordem médico/clínica para a formação da convicção jurídica.
+4. A finalidade da perícia médica judicial não é a de diagnosticar ou tratar as patologias apresentadas pela parte, mas apenas verificar a aptidão ao trabalho, cabendo ao profissional nomeado pelo juízo, qualquer que seja sua especialidade, a decisão sobre suas habilidades para conhecimento do caso concreto.
+Os Embargos Declaratórios não foram providos (fl. 458,e-STJ).
+Nas razões de Recurso Especial, alega o recorrente violação dos arts. 371 e 479 do CPC/2015, pontuando que a Corte de origem concedeu força probante absoluta à prova pericial.
+Ainda, indica violação do art. 489, § 1º, III, do CPC/2015, com fundamento no fato de que a decisão proferida é baseada em motivação padronizada, apta a fundamentar qualquer outra decisão.
+Por derradeiro, assinala desobediência aos arts. 42 e 59 da Lei n. 8.213/1991, aduzindo que a concessão do auxílio-doença ou aposentadoria por invalidez deve ser precedida de avaliação das peculiaridade socioeconômicas, culturais e profissionais.
+Não foram apresentadas contrarrazões ao Recurso Especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 20.9.2021
+Quanto à controvérsia atinente ao art. 489, § 1º, III, do CPC/2015, ao se proceder à análise do Acórdão proferido na decisão de Apelação, da petição de Embargos Declaratóriosedo correspondente acórdão referente aos Embargos, é possível extrair que a tese relativa à existência de decisão com motivação padrão não foi apreciada pela Corte de origem enem sequerfoi objeto de irresignação nos Aclaratórios aviados.
+O Superior Tribunal de Justiça entende que não é possível suscitar, em Recurso Especial,teses que não foram objeto de apreciação pela instância ordinária por meio de provocação pelos recursos cabíveis, por consistir inadmissível inovação recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFRONTA AO ART. 535, II, DO CPC/73 NÃO CONFIGURADA. ALEGADA OFENSA AOS ARTS. 219, § 5º, DO CPC/73 E 193 DO CÓDIGO CIVIL. MATÉRIA NÃO SUSCITADA, EM SEDE DE APELAÇÃO E DE CONTRARRAZÕES À APELAÇÃO. TESE RECURSAL, RELATIVA À PRESCRIÇÃO INTERCORRENTE, SUSCITADA APENAS EM SEDE DE EMBARGOS DE DECLARAÇÃO, EM 2º GRAU. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental interposto em 08/03/2016, contra decisão publicada em 03/03/2016, na vigência do CPC/73.
+II. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, especialmente no que diz respeito à impossibilidade de apreciação da questão pertinente à prescrição intercorrente, pelo fato de ter sido articulada somente nos Embargos de Declaração, inexistindo, pois, a seu respeito, omissão, no acórdão então embargado.
+III. A Corte de origem não emitiu qualquer juízo de valor acerca dos arts. 219, § 5º, do CPC/73 e 193 do Código Civil, dispositivos tidos por violados, restando ausente o necessário prequestionamento.
+IV. Na esteira da jurisprudência do STJ, "a questão arguida apenas em sede de embargos de declaração constitui-se inovação inviável de ser examinada pelo Tribunal de origem, por força do princípio do tantum devolutum quantum appellatum, ainda que se refira à matéria de ordem pública, que, por sua vez, não prescinde do requisito essencial do prequestionamento para viabilizar o seu conhecimento na via estreita do recurso especial" (STJ, REsp 1.144.465/PR, Rel.Ministra LAURITA VAZ, QUINTA TURMA, DJe de 03/04/2012). No mesmo sentido: STJ, AgRg no REsp 893.784/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 11/10/2010; AgRg no REsp 1.227.191/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 23/02/2012; REsp 1.032.732/CE, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 03/12/2009.
+V. Agravo Regimental improvido.
+(AgRg no REsp 1.459.940/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 2/6/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. NULIDADE. AUSÊNCIA DE INTIMAÇÃO DO RÉU PARA NOMEAR ADVOGADO DE SUA CONFIANÇA. INOVAÇÃO RECURSAL EM EMBARGOS DECLARATÓRIOS NA ORIGEM. TESE NÃO ARGUIDA NAS CONTRARRAZÕES DE APELAÇÃO. INVIABILIDADE NA VIA ESPECIAL. REU REVEL. INTIMAÇÃO DO DEFENSOR CONSTITUÍDO PARA SE MANIFESTAR NOS AUTOS. INÉRCIA DO CAUSÍDICO. NOMEAÇÃO DA DEFENSORIA PÚBLICA. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DO DEFENSOR NATURAL. ILEGALIDADE NÃO CONFIGURADA. DESPROVIMENTO DO AGRAVO.
+1. Inviável a análise, por este Sodalício de tese que não foi alvo de impugnação da parte nas contrarrazões de apelação, ante a verificada inovação recursal em embargos declaratórios opostos na origem.
+2. A ausência de intimação do réu revel para nomear advogado de sua preferência não se revela em nulidade, nos termos do entendimento desta Corte.
+3. Na hipótese, revel o denunciado, o causídico constituído foi devidamente intimado para se manifestar nos autos e, diante de sua inércia, foi nomeada a Defensoria Pública.
+4. Em momento algum, a defesa logrou comprovar em que medida o agravante teria sido prejudicado, circunstância que reforça a impossibilidade de reconhecimento da eiva suscitada, nos termos do artigo 563 do Código de Processo Penal.
+5. Agravo desprovido.
+(AgRg no AREsp 1.532.977/ES, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 8/11/2019)
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. PARCELAMENTO. MATÉRIA NÃO SUSCITADA NAS RAZÕES DA APELAÇÃO. INOVAÇÃO. PRECLUSÃO CONSUMATIVA. PRECEDENTES. SÚMULA 83/STJ.
+1. A existência de parcelamento apto a interromper o prazo prescricional tributário deve ser suscitado quando da interposição da apelação, sob pena de preclusão. Súmula 83/STJ.
+2. "Conforme expressa o brocardo tantum devolutum quantum appellatum, é permitido ao tribunal recursal apreciar somente as questões que forem ventiladas nas razões recursais ou nas contrarrazões ao apelo, sendo-lhe defeso apreciar matérias não impugnadas" (AgRg no AREsp 95.540/TO, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 2/4/2013, DJe 9/4/2013).
+Agravo regimental improvido.
+(AgRg no AREsp 387.361/MA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 25/10/2013)
+Quanto à controvérsia afeta ao art. 479 do CPC/2015, verifica-se que a tese ventilada em Recurso Especial não foi analisada no Tribunal de origem sob o viés pretendido pelo recorrente, qual seja, a valoração absoluta da prova pericial realizada.
+No julgamento dos embargos, a Corte a quo cingiu-se a asseverar que o intento recursal era a rediscussão do mérito, motivo pelo qual se negou provimento.
+Não é suficiente a mera declaração, na decisão, de que houve prequestionamento das teses ventiladas, porquanto exige-se o efetivo enfrentamento das alegações lançadas.
+Assim, aplica-se o entendimento que resultou na edição da Súmula n. 211/STJ.
+Superada a controvérsia supra, remanesce apreciação acerca da violação dos arts. 42 e 59 da Lei n. 8.213/1991.
+Anota o recorrente a necessidade de que a concessão de auxílio-doença ou aposentadoria por invalidez seja precedida de análise das peculiaridades socioecônomicas, culturais e profissionais da segurada.
+Nesse ponto, afere-se a ausência de preenchimento de pressuposto inafastávelcuja finalidade é evitar a supressão de instância.
+A tese, embora ventilada em sede de embargos declaratórios, não foi objeto de apreciação pelo Tribunal a quo, motivo que enseja, também, a incidência da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. AÇÃO REGRESSIVA DE RESSARCIMENTO INTERPOSTA PELA SEGURADORA JULGADA IMPROCEDENTE. CIRCULAR SUSEP E RESOLUÇÃO CNSP.DISPOSIÇÕES NORMATIVAS QUE NÃO SE ENQUADRAM NO CONCEITO DE LEI FEDERAL A ENSEJAR A INTERPOSIÇÃO DE RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULA 211/STJ. AUSÊNCIA DOS REQUISITOS PARA POSSIBILITAR O PREQUESTIONAMENTO FICTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DE FATOS E PROVAS DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não cabe recurso especial contra suposta violação de resoluções e circulares, uma vez que tais normas não se enquadram no conceito de lei federal.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal de origem (Súmula n. 211/STJ). 2.1. Segundo a jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+3. Reverter a conclusão do Colegiado estadual, para acolher a pretensão recursal, demandaria, necessariamente, a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.841.933/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 2/9/2021)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
