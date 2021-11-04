@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática de fls. 1197-1198, e-STJ, que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte agravante alega:
+Nessas circunstâncias, é inquestionável a ocorrência da prescrição/preclusão da pretensão executória dos honorários advocatícios, a teor do que dispõe o Decreto nº 20.910/1.932, pois a parte credora permaneceu inerte para a cobrança do seu crédito por tempo superior a cinco anos.
+Logo, uma vez que a respeitável decisão agravada se equivoca ao entender pela incidência do óbice da 7/STJ, razão assiste ao Ente Público em requerer nova análise do presente recurso, a fim de ver declarada a prescrição da pretensão de cobrança dos honorários executivos, sem necessidade de reexame de provas (fl. 1.208, e-STJ).
+Impugnação às fls. 1212-1221, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PROCEDIMENTO EXECUTIVO. HONORÁRIOS ADVOCATÍCIOS EXECUTIVOS. PRESCRIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou, in verbis: "Ao que se colhe do exame dos autos, quando proposta a execução, indeferiu-se o arbitramento dos honorários executivos pleiteados (fl. 601/611). Interposto recurso de agravo de instrumento, restou mantida a conclusão do magistrado singular. Interposto recurso especial, restou provido em parte, "fixando-se em 5% sobre o valor da execução" - fls. 743. Não obstante a certificação do trânsito em julgado em 03.09.2007 (fl. 748), não houve intimação da parte autora do retorno dos autos na origem. Consoante se depreende dos autos, o precatório havia sido expedido em 2001 (fls. 654). Desta feita, em 2019 (fls. 715/718) a parte agravante postulou o cumprimento da decisão do Eg. STJ, acostando, inclusive, o teor de tais decisões, vez que sequer haviam aportado aos autos (fls. 728/749). Pois bem. À luz de tal contexto fático, e considerando que até a presente data não fora observado a determinação de Corte Superior, por aparente falha cartorária, tal como constou em sede de Recurso Especial, entendo que não está caracterizada a prescrição/preclusão no caso em apreço. De fato, em não havendo a observância do que fora determinado por Corte Superior, eis que o conteúdo decisório, por motivo desconhecido, não havia aportados aos autos, não há que se cogitar falar em prescrição, na peculiaridade do caso concreto".
+2. Nesse contexto, rever as conclusões do Tribunal de origem, principalmente de que "não houve intimação da parte autora do retorno dos autos na origem", demanda reexame de matéria probatória, o que encontra óbice na Súmula 7/STJ.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos nesse Gabinete em 21.9.2021.
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou, in verbis:
+Ao que se colhe do exame dos autos, quando proposta a execução, indeferiu-se o arbitramento dos honorários executivos pleiteados (fl. 601/611).
+Interposto recurso de agravo de instrumento, restou mantida a conclusão do magistrado singular. Interposto recurso especial, restou provido em parte, " fixando-se em 5% sobre o valor da execução" - fls. 743.
+Não obstante a certificação do trânsito em julgado em 03.09.2007 (fl. 748), não houve intimação da parte autora do retorno dos autos na origem.
+Consoante se depreende dos autos, o precatório havia sido expedido em 2001 (fls. 654). Desta feita, em 2019 (fls. 715/718) a parte agravante postulou o cumprimento da decisão do Eg. STJ, acostando, inclusive, o teor de tais decisões, vez que sequer haviam aportado aos autos (fls. 728/749).
+Pois bem.
+À luz de tal contexto fático, e considerando que até a presente data não fora observado a determinação de Corte Superior, por aparente falha cartorária, tal como constou em sede de Recurso Especial, entendo que não está caracterizada a prescrição/preclusão no caso em apreço.
+De fato, em não havendo a observância do que fora determinado por Corte Superior, eis que o conteúdo decisório, por motivo desconhecido, não havia aportados aos autos, não há que se cogitar falar em prescrição, na peculiaridade do caso concreto.
+Nesse contexto, rever as conclusões do Tribunal de origem, principalmente de que "não houve intimação da parte autora do retorno dos autos na origem", demanda reexame de matéria probatória, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/73 EXECUÇÃO. FEITO ARQUIVADO ADMINISTRATIVAMENTE. FALTA DE INTIMAÇÃO DO CREDOR PARA PROSSEGUIMENTO DO FEITO. INÉRCIA NÃO CONFIGURADA PRESCRIÇÃO INTERCORRENTE AFASTADA. REVISÃO DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade das disposições do NCPC, no que se refere aos requisitos de admissibilidade do recurso ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Rever as conclusões do Tribunal, local no sentido de que não ocorreu a prescrição intercorrente por não ter ficado configurada a inércia do exequente, bem como a sua intimação pessoal para dar andamento ao feito, demandaria incursão no escorço fático-probatório constante dos autos, o que é defeso a esta Corte pela Súmula nº 7 do STJ.
+3. Agravo regimental não provido. (STJ, AgRg no REsp 1.498.071/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 06/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. NEGATIVA DA PRESCRIÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. NÃO CABIMENTO. ACÓRDÃO RECORRIDO RECONHECE A INTERRUPÇÃO DA PRESCRIÇÃO E AFIRMA A AUSÊNCIA DE INTIMAÇÃO PARA INÍCIO DO CÔMPUTO DA PRESCRIÇÃO INTERCORRENTE. ENTENDIMENTO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83 DO STJ. ALTERAÇÃO DAS PREMISSAS ADOTADAS. SÚMULA 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. O acórdão recorrido apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, apenas não adotou a tese vertida pela recorrente. No caso, não se trata de omissão, mas sim de inconformismo direto com o resultado do julgado, que foi contrário aos interesses da parte recorrente.
+2. "Na linha dos precedentes do STJ, os argumentos/pleitos apresentados apenas no agravo interno não são passíveis de conhecimento, por importarem indevida inovação recursal, em virtude da preclusão consumativa" (AgInt no AREsp 918.978/PR, Relator Ministro MARCO BUZZI, DJe de 22/11/2017).
+3. Quanto ao mérito, o col. Tribunal a quo, mediante análise do contexto fático-probatório dos autos, concluiu pela interrupção da prescrição e pela ausência de intimação do exequente para cômputo do início da prescrição intercorrente, afastando, assim, a alegação da recorrente de extinção do feito pela ocorrência da prescrição.
+4. É entendimento da jurisprudência do Superior Tribunal de Justiça que o reconhecimento da prescrição intercorrente exige, para o seu início, a intimação do exequente para dar andamento ao feito.
+Incidência da Súmula 83 do STJ. Precedentes.
+5. A modificação das premissas lançadas no acórdão recorrido, quanto a intimação e interrupção da prescrição, nos moldes ora postulados, demandaria o revolvimento de suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+6. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 880.839/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe de 04/04/2018)
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
