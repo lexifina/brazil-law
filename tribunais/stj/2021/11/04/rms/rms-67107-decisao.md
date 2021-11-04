@@ -1,0 +1,93 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança (artigo 105, inciso II, alínea "b", da Constituição Federal) interposto contra acórdão do Tribunal de Justiça do Estado de Pernambuco cuja ementa é a seguinte (fl. 85, e-STJ):
+DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. POLICIAL MILITAR DA PMPE. PRETENSÃO DE RECONHECIMENTO DO DIREITO AO RECEBIMENTO DE ADICIONAL DE INSALUBRIDADE. EXPOSIÇÃO AO CORONAVÍRUS. AUSÊNCIA DE PREVISÃO LEGAL. APLICAÇÃO DA SÚMULA VINCULANTE Nº 37 DO STF. SEGURANÇA DENEGADA. UNANIMIDADE DE VOTOS.
+A parte recorrente reitera, em suma, os argumentos do seu Mandado de Segurança.
+Afirma ainda (fl. 106, e-STJ, grifos no original):
+Os servidores que trabalham com exposição à ação de agentes físicos, químicos ou biológicos nocivos à saúde, fazem jus a um adicional SOBRE O VENCIMENTO do cargo permanente.
+Assim, em virtude da grande exposição à contaminação do COVID-19, é devida a Gratificação Adicional de 40% (quarenta por cento) do soldo a título de Insalubridade ao impetrante, vez que continua trabalhando normalmente durante esse período crítico, conforme escala em anexo.
+Ressalta-se que a gravidade da doença é de conhecimento de todos, inclusive, o Ministério Público do Trabalho, através dos seus Procuradores, apresentou inúmeras recomendações a Secretaria de Defesa Social, dentre as quais, requer afastamento aos policiais que fazem parte do grupo de risco, com mais chances de mortalidade (recomendações em anexo).
+Mas não é só!
+O Governador do Estado decretou, em 14 de abril de 2020, através do Decreto n. 48.943 o Estado de Calamidade Pública no Estado de Pernambuco, por conta da emergência da saúde pública de importância internacional decorrente do CORONAVÍRUS, que foi anexado à inicial.
+Ante o exposto, resta evidente o direito do autor de receber o pagamento mensal correspondente ao ADICIONAL DE INSALUBRIDADE, NO PERCENTUAL DE 40% SOBRE O SOLDO visto que se encontra mais exposto à contaminação do vírus.
+Contrarrazões às fls. 113-122, e-STJ.
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República Eitel Santiago de Brito Pereira, opinou pelo desprovimento do recurso (fls. 128-132, e-STJ).
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.8.2021.
+1. Histórico da demanda
+O recorrente impetrou Mandado de Segurança perante o Tribunal de Justiça do Estado de Pernambuco sob o argumento de que foi violado direito líquido e certo, por ato omissivo, inconstitucional e ilegal, consistente na ausência do pagamento do adicional de insalubridade aos policiais militares em exposição ao perigo de contágio por doença grave (COVID-19).
+2. Inexistência de combate aos fundamentos dodecisum
+No recurso ordinário, é imprescindível, por força do princípio da dialeticidade, que a parte recorrente apresente as razões pelas quais entende haver desacerto na decisão recorrida, não bastando que se limite a apresentar argumentos segundo os quais é titular do direito reivindicado.
+No caso dos autos, o recorrente não se desvencilhou desse encargo, conforme a seguir se detalha.
+Para denegar a segurança, a Corte estadual valeu-se dos seguintes fundamentos (fls. 82-85, e-STJ):
+De início, mister rememorar que a remuneração dos servidores públicos está condicionada ao princípio da legalidade, só podendo ser fixada ou alterada mediante lei.
+Veja-se o artigo 37, caput e inciso X, da CF, in verbis:
+"Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:
+(..) X - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art.39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;"
+Nesse contexto, firmou-se no Supremo Tribunal Federal o entendimento de que o adicional de insalubridade somente é devido a agentes públicos quando existir lei regulamentadora elaborada pelo respectivo ente político, a quem compete estabelecer as hipóteses de cabimento e os percentuais de pagamento. Veja-se:
+"EMENTA: Servidor público. Adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei. Art. 7º, XXIII, da Constituição Federal. - O artigo 39, § 2º, da Constituição Federal apenas estendeu aos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios alguns dos direitos sociais por meio de remissão, para não ser necessária a repetição de seus enunciados, mas com isso não quis significar que, quando algum deles dependesse de legislação infraconstitucional para ter eficácia, essa seria, no âmbito federal, estadual ou municipal, a trabalhista. Com efeito, por força da Carta Magna Federal, esses direitos sociais integrarão necessariamente o regime jurídico dos servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios, mas, quando dependem de lei que os regulamente para dar eficácia plena aos dispositivos constitucionais de que eles decorrem, essa legislação infraconstitucional terá de ser, conforme o âmbito a que pertence o servidor público, da competência dos mencionados entes públicos que constituem a federação. Recurso extraordinário conhecido, mas não provido". (RE 169173, Relator(a): MOREIRA ALVES, Primeira Turma, julgado em 10/05/1996, DJ 16- 05-1997 PP-19965 EMENT VOL-01869-03 PP-00508)
+Essa é a diretriz jurisprudencial encartada na Súmula nº 119 deste e. Tribunal, a qual deve ser aplicada à hipótese dos autos.
+"Súmula 119/TJPE: Para que seja concedido o adicional de insalubridade ao servidor municipal, é necessário que exista lei específica do município que crie tal benefício, seus critérios e alíquotas que justifiquem o pagamento, nos termos do art. 7º, XXIII, da CF/88".
+Pois bem. No caso em tela, o impetrante aduz que os termos do art. 122 da Lei Estadual nº 10.426/90, estaria assegurada a percepção de adicional de insalubridade aos policiais militares de Pernambuco, em razão da sua exposição ao risco de contágio pelo vírus da Covid-19.
+"Lei nº 10.426, de 27 de abril de 1990 - Dispõe sobre a remuneração dos servidores militares do Estado de Pernambuco, e dá outras providências.
+Art. 122. Aos servidores militares que operam diretamente com Raios X e substâncias radioativas fica assegurada, face ao que dispõe o art. 7º, inciso XXIII da Constituição Federal, a continuidade de percepção da Gratificação Adicional de 40% (quarenta por cento) do soldo, de que trata o art.134 da Lei nº 6.785, de 16 de outubro de 1974, até que seja regulamentada, por Decreto do Poder Executivo, a Gratificação Adicional pelo Exercício de Atividades Penosas, Insalubres ou Perigosas, que será devida pelo exercício de:
+I - atividades penosas ou insalubres, que exponham o servidor militar à ação de agentes físicos, químicos ou biológicos nocivos à saúde;
+II - atividades que, pela sua natureza, condições ou método de trabalho, possam oferecer risco real ou potencial à vida do servidor militar.
+Parágrafo único. A Gratificação Adicional pelo Exercício de Atividades Penosas, Insalubres ou Perigosas será atribuída no valor de 40% (quarenta por cento) do soldo do posto de graduação".
+Do que se infere dos autos, o referido dispositivo encontra-se regulamentado pelos Decretos Estaduais nºs 14.617/1990 e 15.472/1991, in litteris:
+"DECRETO Nº 14.617, DE 31 DE OUTUBRO DE 1990 - Dispõe sobre a Gratificação Adicional pelo Exercício de Atividades Penosas, Insalubres ou Perigosas e dá outras providências.
+Art. 1º A Gratificação Adicional pelo Exercício de Atividade Penosas, Insalubres ou Perigosas, de que trata o artigo 122 da Lei nº 10.426, de 27 de abril de 1990, com a redação dada pelo artigo 1º da Lei nº 10.455, de 09 de julho de 1990, será devida pelo exercício de atividades que exponham o servidor militar à ação de agentes físicos, químicos ou biológicos nocivos à sua saúde ou daquelas que, por sua natureza, condições ou métodos de trabalho possam oferecer risco real ou potencial à sua vida.
+§ 1º. Para efeito de concessão da gratificação prevista neste artigo, são considerados no exercício de atividades penosas, insalubres ou perigosas os servidores militares que:
+I - estejam obrigados a dispensar, pessoal e diretamente, assistência médica, médico- auxiliar, odontológica e social:
+a) em entidades hospitalares que dispensam tratamento a portadores de moléstia transmissíveis, sujeitas a isolamentos;
+b) em nosocômios para atendimento ou internamento de doentes mentais;
+c) em ambulatórios e postos médicos, nos quais proceda a imunização contra doenças epidêmicas;
+d) (Revogado pelo Decreto n.º 15.472/1991) II - manuseiam, frequentemente, objetos, instrumentos e utensílios não esterilizados por pessoas portadoras de doenças infecto-contagiosas em locais de isolamento nos hospitais;
+III - operam, como radiologistas e auxiliares, com substâncias radioativas ou aparelhos de Raio - X e cobaltoterapia, ou que, no exercício de suas funções, estejam expostos a tais irradiações;
+IV - estejam obrigados ao contato direto com materiais para exame e substância tóxicas nos laboratórios de análise ou de ensaio; bem como com agentes físicos ou químicos utilizados no preparo de soros, vacinas e medicamentos;
+V - (Revogado pelo Decreto n.º 15.472/1991) VI - tenham contato com animais doentes ou manipulam materiais infecto-contagioso;
+VII - mantenham contato permanentes com fungicidas, inseticidas e similares;
+VIII - desempenham trabalhos em oficinas gráficas, sujeitos ao contato permanente com substância tóxica, bem como aqueles que executam operações com solda de metais, elétrica e a oxiacetileno;
+IX - (Revogado pelo Decreto n.º 15.472/1991) §2º. Caracteriza também o exercício de atividades perigosas, para os efeitos do parágrafo precedente, o desempenho de cargos ou funções que, nos termos de legislação vigente, são considerados de natureza policial-militar ou de interesse policial- militar.
+§ 3º. A gratificação a que se refere este artigo será atribuído no valor de 40% (quarenta por cento) do soldo do posto ou graduação, sendo sua concessão, para os efeitos do parágrafo único do artigo 20 da Lei nº 10.426, de 27 de abril de 1990 considerada a título definitivo.
+Art. 2º. Compete ao Comandante Geral da Polícia Militar conceder, através de Portaria, a gratificação de que trata este Decreto, mediante autorização do Governador do Estado.
+Art. 3º. Suspende- se o pagamento da Gratificação Adicional pelo Exercício de Atividades Penosas, Insalubres ou Perigosas nas situações previstas nos artigos 8º. 9º e 17 da Lei nº 10.426, de 27 de abril de 1990, este último com a redação que lhe foi dada pela Lei nº 10.455, de 09 de julho de 1990.
+Art. 4º As despesas decorrentes da execução deste Decreto correrão a conta das dotações orçamentárias próprias.
+Art. 5º Este Decreto entrará em vigor na data de sua publicação, produzindo efeitos a contar de 1º. de setembro de 1990.
+Art. 6º Revogam-se as disposições em contrário". (destaquei)
+"DECRETO Nº 15.472, DE 03 DE DEZEMBRO DE 1991 - Altera o Decreto nº 14.617, de 31 de outubro de 1990, e dá outras providências.
+Art. 1º. Ficam revogadas a alínea "d" do inciso I, os incisos V e IX e os §§ 2º e 3º do artigo 1º do Decreto nº 14.617, de 31 de outubro de 1990.
+Art. 2º. Este Decreto entra em vigor na data de sua publicação.
+Art. 3º. Revogam-se as disposições em contrário, especialmente o Decreto nº 14.893, de 12 de março de 1991".
+Feita a presente digressão legislativa, percebe-se que o propósito de ser dos adicionais vinculados ao exercício de atividades penosas, insalubres ou perigosas, está na necessidade de conferir uma compensação remuneratória para aquelas pessoas que exercem atividades laborativas sujeitas a um desgaste físico ou a fatores de risco expressivamente superiores à média das demais atividades profissionais.
+No caso da pandemia do COVID, embora ainda com pontos desconhecidos, a estatística mostra que se trata de doença altamente infecciosa, porém de letalidade média baixa, exceto para os idosos e para os portadores de comorbidades como obesidade e doenças pré-existentes.
+Ainda assim, em função da disseminação acelerada do vírus, houve a necessidade mundial de adoção de medidas de distanciamento social, uso de máscara, dentre outras. Tais medidas não visavam impedir o contágio individual, mas reduzir a velocidade do contágio em massa, a fim de evitar o colapso dos sistemas de saúde e garantir assistência médica a todos.
+Dessa forma, uma série de atividades consideradas essenciais permaneceram em funcionamento, entre elas as realizadas pelos policiais militares, as quais a população deve imensa homenagem.
+Ocorre que, mesmo os policiais militares que atuam em policiamento ostensivo, eventualmente chegam a ter uma aproximação considerada perigosa, excetuando os casos em que há a necessidade de contenção física. Assim, com a adoção das medidas de segurança recomendadas, é possível evitar a contaminação.
+Daí se depreende que a pandemia do Covid-19 não agrega às atividades a cargo dos policiais militares fator de risco de tal ordem superior à média das demais atividades profissionais, que justificasse a compensação pecuniária pela via do pretendido adicional de insalubridade.
+Ainda, no plano da subsunção do fato à norma, observa-se que as atividades policiais militares habituais não se enquadra em nenhuma das hipóteses previstas no art. 1º, § 1º, incisos I a VIII (valendo notar que os §§ 2o e 3o do art. 1o. do Decreto nº 14.617/90 foram expressamente revogados pelo Decreto 15.472/91).
+E, conforme já ponderado anteriormente, a prévia definição legal da atividade reconhecida como insalubre constitui requisito para a concessão do adicional correspondente.
+Ademais, a jurisprudência do Superior Tribunal de Justiça sequer admite a extensão, por analogia, das hipóteses que ensejam o pagamento de adicional de insalubridade:
+"Ementa: PROCESSUAL CIVIL E ADMINISTRATIVO BOMBEIRO MILITAR.ADICIONAL DE INSALUBRIDADE. AUSÊNCIA DE PREVISÃO DO DIREITO NA LEGISLAÇÃO LOCAL. ANALOGIA À LEI 8.112/90. IMPOSSIBILIDADE.
+1. Na hipótese dos autos, extrai-se do acórdão vergastado que o entendimento do Tribunal de origem não está em consonância com a orientação do STJ. Com efeito, a analogia das legislações estaduais e municipais com a Lei 8.112/90 somente é possível se houver omissão no tocante a direito de cunho constitucional autoaplicável, e se a situação não der azo ao aumento de gastos, não se enquadrando nessa hipótese o adicional de insalubridade. Nesse sentido: RMS 46.438/MG, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 16/12/2014, DJe 19/12/2014.
+2. Recurso Especial provido.
+(REsp 1826962/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/02/2020, DJe 18/05/2020)
+Com efeito, não é permitido ao Poder Judiciário substituir os Poderes Executivo e Legislativo estaduais, para ampliar o rol de hipóteses estabelecidas na legislação de regência, sob pena de infringir o postulado da separação dos poderes (CF, art. 2º).
+A situação atrai, por identidade de fundamento, a vedação encartada na Súmula Vinculante nº 37/STF, verbis: "Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia".
+Diante do exposto, voto pela denegação da segurança pleiteada.
+Sem honorários, nos termos do art. 25 da Lei nº 12.016/2009.
+É o voto.
+Em suas razões recursais, o recorrente não impugnou, de forma específica e fundamentada, os fundamentos do acórdão questionado; antes, limitou-se a apresentar a discordância com a decisão por meio de reprise da tese, arguida na inicial domandamus, de que "os servidores que trabalham com exposição à ação de agentes físicos, químicos ou biológicos nocivos à saúde, fazem jus a um adicional SOBRE O VENCIMENTO do cargo permanente. Assim, em virtude da grande exposição à contaminação do COVID-19, é devida a Gratificação Adicional de 40% (quarenta por cento) do soldo a título de Insalubridade ao impetrante, vez que continua trabalhando normalmente durante esse período crítico (..) Ressalta-se que a gravidade da doença é de conhecimento de todos, inclusive, o Ministério Público do Trabalho, através dos seus Procuradores, apresentou inúmeras recomendações a Secretaria de Defesa Social, dentre as quais, requer afastamento aos policiais que fazem parte do grupo de risco, com mais chances de mortalidade" (fl. 106, e-STJ).
+Ademais, consoante jurisprudência desta Corte Superior, padece de irregularidade formal o recurso em que o recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade (AgRg no RMS 44.887/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11.11.2015).
+Assim, no caso, a parte recorrente optou pela reiteração das teses já veiculadas para justificar o inconformismo com a solução dada pelo Tribunal de origem, sem se contrapor aos fundamentos adotados no voto condutor, descumprindo, portanto, o ônus da dialeticidade.
+Incide ao caso o teor da Súmula 283/STF (AgRg no RMS 43.815/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 27.5.2016).Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+2. Pelo princípio da dialeticidade, impõe-se à parte recorrente o ônus de motivar seu recurso, expondo as razões hábeis a ensejar a reforma da decisão, sendo inconsistente o recurso que não ataca concretamente os fundamentos utilizados no acórdão recorrido.
+3. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+4. Agravo desprovido.(AgInt no RMS 58.200/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 28/11/2018)
+Na mesma linha: RMS 66.037/PE, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 19.4.2021; RMS 66.007/PE, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 14.4.2021; RMS 65.725/PE, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 5.4.2021; e RMS 65.699/PE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 9.3.2021.
+3. Conclusão
+Pelo exposto,não conheço do Recurso em Mandado de Segurança.
+Publique-se.
+Intimem-se.
