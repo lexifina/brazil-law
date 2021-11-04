@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, o qual não admitiu recurso especial fundadona alínea "a"do permissivo constitucional paradesafiar acórdão assim ementado (e-STJ fl. 616):
+AÇÃO RESCISÓRIA - Acidentária Alegação de existência de ofensa à coisa julgada e de violação manifesta de norma jurídica Inocorrência Rediscussão dos termos do acórdão Inadequação do procedimento adotado Ausência de interesse processual Indeferimento da peça inicial Processo extinto sem resolução do mérito, com fundamento nos arts. 330, III, e 485, I, todos do novo Código de Processo Civil.
+No recurso especial obstaculizado, a parte apontouviolaçãodos arts.330, III e 966, IV e V, do CPC/2015, sustentando que o. acórdão rescindendo impôs manifesta afronta à fidelidade do título judicial transitado em julgado, ao julgar os Embargos à Execução sem observar a coisa julgada atinente ao processo de conhecimento.
+Contrarrazõesàs e-STJ fls. 633/635.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+No caso, o Tribunal a quo decidiu pela inocorrência de coisa julgada e pela improcedência da ação rescisória, nos seguintes termos (e-STJ fls. 617/619):
+O indeferimento da peça inicial é medida que se impõe.
+Com efeito, julgados improcedentes os embargos à execução opostos na ação revisional de benefício (fls. 322/327), a Col. 16ª Câmara de Direito Público, entendendo que, já tendo havido pronunciamento judicial sobre a aplicação dos índices de 1,4025 e 1,3967, existia coisa julgada acerca da matéria, não podendo haver novo pronunciamento, razão pela qual deu parcial provimento ao recurso da autarquia apenas para determinar a utilização do IPCA-e a partir da apresentação do cálculo de liquidação e negou provimento ao recurso adesivo do segurado que pretendia a majoração da verba honorária (fls. 24/29).
+Pretende o INSS, via desta rescisória, sob a alegação da existência de ofensa à coisa julgada e de violação à norma jurídica, rescindir o v. acórdão para que novo julgamento seja feito, a fim de que haja reconhecimento da "coisa julgada decorrente dos autos nº 0000039-66.1990.8.26.0157, que tramita em face da 3º Vara Cível da Comarca de Cubatão/SP, que determinou expressamente a revisão do benefício NB 92/080.144.955-3 em conformidade com art. 58 da ADCT, passando a observar fielmente a evolução dos valores liquidados pela legislação previdenciária aplicável o que resultará no valor de renda mensal em R$ 4.012,97 para a ano-base de 2019, pois o título executivo judicial lá transitado em julgado não determinou qualquer outra forma de evolução da renda previdenciária, determinando a restituição dos valores pagos a maior".
+Sem razão, porém, pois a pretensão ao novo julgamento da causa não se coaduna com a disposição legal invocada, pois manifesta a ausência de interesse processual a legitimar o pedido, eis que, na hipótese, não vislumbro nenhuma violação ao dispositivo evocado na exordial.
+Desse modo, ao que verifico, a pretexto da existência de "ofensa à coisa julgada" e "violação manifesta à norma jurídica", há apenas o propósito, não permitido nesta seara, de rediscussão dos termos do acórdão.
+ ..
+Nesse contexto, e considerando que é taxativo o rol do art.966, do novo CPC, inviável o prosseguimento da presente ação, porquanto as alegações feitas pela autarquia não se enquadram em nenhuma das hipóteses legais para o ajuizamento da ação rescisória, impondo-se, assim, o indeferimento da inicial, extinto o processo sem resolução do mérito.
+Dessa forma, verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial diante do óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. BENEFÍCIO.REVISÃO PELA SÚMULA 260/TFR. COISA JULGADA. ALEGADA VIOLAÇÃO. SÚMULA 7 DO STJ.
+1. A Corte de origem afastou a alegada violação à coisa julgada, afirmando que a sentença havia determinado a revisão do benefício nos moldes da Súmula 260 do ex-Tribunal Federal de Recursos, sem impor a equivalência salarial.
+2. A inversão do julgado, a fim de desconstituir a fundamentação acerca da ausência de discussão acerca da equivalência salarial, bem como da inexistência de diferenças a pagar, demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 645.149/SP, de minha relatoria, PRIMEIRA TURMA, julgado em 19/09/2019, DJe 25/09/2019)
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10%sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
