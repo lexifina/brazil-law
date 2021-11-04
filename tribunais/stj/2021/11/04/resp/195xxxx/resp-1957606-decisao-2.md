@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fundação Nacional do Índiocom fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 3775):
+Constitucional e Processual Civil. Ação rescisória. Anulação de parte de ato que ordenou estudos para demarcação de área indígena. Processo de que participaram a FUNAI, a União e o Ministério Público Federal. Invocação da regra do art. 232 da Constituição Federal que estabelece a legitimação dos índios e comunidades índigenas para defesa de interesses relativos aos seus costumes e posses. Hipótese que não implica em litisconsórcio passivo necessário, e, sim, facultativo. Demanda improcedente.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo485, V, 47,114 e115 doCPC/2015.
+Sustenta, nesse sentido, que: (a) as comunidades indígenas têm capacidade processual para defesa de seus direitos em juízo, integrando a relação processual, na condição de partes legitimadas constitucionalmente para a sua defesa em nome próprio; e (b) trata-se de litisconsórcio necessário, a ensejar a nulidade do julgado rescindendo, proferido sem a intimação da comunidade indígena Pitaguary.
+Comcontrarrazões.
+Juízo positivo de admissibilidade às fls. 4118-4119.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A controvérsia relativa à configuração de litisconsórcio necessário foi dirimida com fundamento constitucional, especificamente com base no artigo 232 da Constituição Federal, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ademais, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não há o litisconsórcio necessário porque não se tem ainda como devidamente identificada a participação da comunidade indígena Pitaguary sobre aquela parcela do território, sobretudo considerando que se reconhece que não habitavam aquela área.
+A propósito, transcreve-se trecho da fundamentação em que a questão é tratada (3774):
+Então, nesse caso, como se trata da anulação de um ato administrativo praticado por um órgão da União, a eficácia da sentença se aplica a todos os que participaram do processo, e essa eficácia, realmente - a não ser sob o aspecto, digamos assim, econômico -, não se aplica obrigatoriamente, necessariamente às comunidades indígenas, até porque, nessa fase dos estudos - é uma demarcação em andamento -, não se tem ainda como conhecida, como devidamente identificada a participação de tal ou qual comunidade indígena sobre aquela parcela do território. Então, na verdade, a eficácia da sentença não vai atingir necessariamente todas as comunidades existentes naquela região; não há essa precisão. Por isso, parece-me que não há o litisconsórcio necessário que deveria ter sido observado no tocante às comunidades indígenas que tivessem habitado, até porque, se reconhece que não habitavam aquela área.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL DA FUNAI. AÇÃO RESCISÓRIA. ESTUDOS PARA DEMARCAÇÃO DE ÁREA INDÍGENA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO DE CUNHO CONSTITUCIONAL. LITISCONSÓRCIO NECESSÁRIO UNITÁRIO. PARTICIPAÇÃO DA COMUNIDADE INDÍGENA NO TERRITÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
