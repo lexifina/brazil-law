@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por COCARI - COOPERATIVA AGROPECUÁRIA E INDUSTRIAL contra decisão de inadmissibilidade do recurso especial apresentado, com fundamento no art. 105, III, a, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. PRESCRIÇÃO. NÃO OCORRÊNCIA. DECISÃO AGRAVADA MANTIDA. RECURSO DESPROVIDO.
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts. 206, § 5º, I, do CC, defendendo a prescrição da ação de cobrança da última parcela do negócio,desde que observada a data oficial constante do termo de entrega da obra, em 3/10/2013, marco inicial contratualmente previsto,sendo irrelevante a existência de pendências na obra para a deflagração da contagem prescricional.
+Asseveroua ineficácia da ação de protesto interruptivo da prescrição anteriormente proposta em 2/10/2018, porque houve a necessidade de emenda da inicial em 10/12/2018, marco interruptivo da prescrição posterior à efetiva ocorrência da prescrição em 3/10/2018.
+Contrarrazões apresentadas às fls. 210-222 (e-STJ).
+É o relatório. Decido.
+No caso dos autos, o Tribunal de origem afastou a ocorrência de prescrição da pretensão de cobrança de dívida líquida constante de instrumento particular, com fundamento no fato de a conclusão definitiva da instalação dofrigorífico industrialter sido efetuada em 2/6/2014, sendo esta a data do vencimento do negócio entre as partes.
+Segundo o acórdão recorrido, aassinatura de um termo de entregaem 3/10/2013 não correspondeu ao vencimento, pois houve pendências constantes do próprio termo, as quais apenas posteriormente foram solucionadas, conforme demonstrado pela instrução probatória.
+A propósito, os seguintes excertos do acórdão recorrido, sem grifos no original (e-STJ, fls. 148-150):
+Verifica-se que as partes firmaram negócio jurídico em meados de junho de 2011 consubstanciado na instalação frigorífica industrial.
+Pugna a agravada pela cobrança da última parcela do negócio firmado entre as partes.
+O juízo afastou a preliminar de prescrição alegada pela requerida, eis que a ação de cobrança é regida pela regra do art. 206, §5º I do Código Civil, ou seja, com prazo de 5 anos, contado a partir do vencimento da última parcela.
+Vejo que não merece reforma a decisão agravada.
+Tal hipótese apresentada pelo agravante, de que o vencimento da última parcela do contrato que se deu em 03/10/2013 (mov. 1.10) e considerando que a parte autora apresentou a emenda à petição inicial em 10/12/2018 (nos autos de interrupção da prescrição), nos termos do artigo 240, § 1º do CPC, os efeitos da interrupção da prescrição devem retroagir à referida data, quando já havia decorrido o prazo quinquenal inicial em 03/10/2013, não se ajusta ao caso presente.
+Verifica-se que as partes assinaram um termo de entrega da obra (mov. 1.10) em 03.10.2013 e tal prazo seria o fatal para o pagamento da última parcela conforme acordado em contrato assinado entre as partes (mov. 1.9).
+Todavia, após esse termo de entrega, restou demonstrado nos autos de que o serviço de fato ainda não havia sido concluído, eis que no documento de mov. 1.11 as partes atestam que haviam pendências no termo de entrega e assim as mesmas foram realizadas e concluídas na data de 24.10.2014.
+Na mesma linha, verifica-se que a parte agravada ajuizou ação de protesto interruptivo de prescrição nº 0004593-88.2018.8.16.0109 em face da recorrente, em 02.10.2018, sendo que o recebimento da emenda à inicial ocorreu em 23.01.2019.
+Dito isso, a presente demanda se insere na regra prevista no art.206, § 5º, I do CC, isto é, ao prazo prescricional de 5 anos.
+Neste sentido, a Agravada já havia esclarecido anteriormente que, apesar de entregue o empreendimento no dia 03 de outubro de 2013, este ainda não se encontrava perfeito e acabado, conforme diversas pendências constantes no termo de entrega (evento 1.10 dos autos principais). Isto posto, é de se elevar que, em audiência (fatos acostados no movs 37.1 a 37.4), a representante legal da Agravada e testemunhas apenas ratificaram esta narrativa.
+Desta feita, conforme já exposto, verifica-se que a data da entrega técnica realizada não equivale ao vencimento da última parcela do contrato celebrado entre as partes, pois o empreendimento foi definitivamente concluído somente meses depois.
+Assim, tendo em vista que o término do negócio celebrado entre as partes teve seu vencimento em 02.06.2014 (mov. 1.11) e que a ação interruptiva de prescrição foi ajuizada em 04/10/2018 e ainda, que a emenda a inicial foi recebida em 23/01/2019, nos termos do artigo 240, § 1º do Código de Processo Civil, resta afastada a tese de prescrição.
+Portanto, mantenho a decisão agravada.
+Posto isso, nego provimento, nos termos do voto acima
+Desse modo, é inviável o conhecimento do recurso especial. Issoporqueo acolhimento da pretensão recursal -de que aassinatura do termo de entrega da obra,em vez da entrega definitiva do empreendimento,equivaleriaao vencimento da última parcela do preço do negócio e, por isso, ao início da prescrição da pretensão decobrança -, não prescindiria do reexame direto dopróprio instrumento contratual e do aludido termo de entrega, a fim de ser extraída conclusão em sentido contrário àquela do Tribunal de origem, providênciamanifestamente proibida nesta instância, nos termos das Súmulas 5 e 7 do STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
