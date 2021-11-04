@@ -1,0 +1,58 @@
+DECISÃO
+1. Cuida-se de agravo interposto por JOSE QUIRINO NETO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+Agravo interno na apelação cível. Ação indenizatória movida por morador em face de ente condominial. Alegação de cobrança indevida, direcionada aos novos proprietários do imóvel. Sentença que julgou improcedente o pedido, entendendo não caracterizado qualquer ato ilícito imputável à parte ré. Decisão monocrática que negou provimento ao recurso autoral. Agravo interno interposto pelo autor, no qual repisa os mesmos argumentos suscitados no recurso de apelação. Autor que não logrou comprovar ter havido cobrança direta endereçada ao mesmo, ou para sua filha, a real proprietária do bem imóvel. Mensagem eletrônica de fls.23, na qual se constata apenas a notícia da existência de um débito informado ao adquirente do imóvel, formalizada antes da prolação da sentença de extinção da execução, na qual o ente condominial perseguia o débito, conforme abordado com precisão pelo Juízo de origem. Inexistência de qualquer ato ilícito atribuível ao condomínio réu. Dano moral inocorrente. Sentença de improcedência mantida por s eus próprios fundamentos.
+Recorrente que não traz argumentos suficientes para alterar a decisão agravada. Improvimento do agravo interno.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. , além de dissídio jurisprudencial, ofensa ao disposto nos arts. 932, III a V, e 1.011, II, do CPC.
+Afirma que "o relator da apelação em segunda instância, de forma monocrática, avaliou o conjunto probatório coligido em primeiro grau para proceder ao julgamento singular da demanda em flagrante violação aosprincípios do devido processo legal e da colegialidade, consagrados não só pela legislação processual vigente como pela Constituição da República".
+Salienta que "Ainda que a matéria tenha sido submetida posteriormente ao reexame do colegiado, por meio do pedido de reconsideração apresentado às fls. 285/292, o acórdão proferido por essa E. Corte às fls. 302/305 não tem o condão de sanar o vício em questão".
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 331 e-STJ.
+DECIDO.
+2. De início,quanto à alegada violação do art. 932, incisos III a V, do CPC, incide o óbice da Súmula n. 284/STF.
+Observa-se que os referidos dispositivos apontados como violados trazem em seu bojo 3 incisos e 6 alíneas que normatizam, cada uma, diferentes situações processuais.Todavia, nas razões do recurso especial o recorrente não particularizou qual dos incisosou alíneas teriam sido violados, incidindo, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ressalte-se, por oportuno, que essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução das providências que incumbem aorelator e são tratadas em cada um dosincisos ou nas alíneas.
+Nesse sentido: "Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois, nas razões do recurso especial, não se particularizou o parágrafo/inciso/alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (AgInt no AREsp n. 1.558.460/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/3/2020.)
+Confiram-se também os seguintes julgados: AgInt no AREsp n. 1.229.292/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018; AgInt no AgRg no AREsp n. 801.901/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/12/2017; AgInt nos EDcl no AREsp n. 875.399/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/8/2017; AgInt no REsp n. 1.679.614/PE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 18/9/2017; e AgRg no REsp n. 695.304/RJ, relator Ministro Francisco Falcão, Primeira Turma, DJ de 5/9/2005.
+3. Ademais, conforme jurisprudência consolidadadesta Corte Superior, a submissão ao Colegiado, por meio de agravo interno, supre o eventual vício existente no julgamento monocrático do recurso, ficando prejudicada a tese de que o recurso especial não poderia ter sido apreciado em decisão unipessoal do relator.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO DO EXPROPRIADO.DESAPROPRIAÇÃO. REFORMA AGRÁRIA. JUSTO VALOR DO IMÓVEL AFERIDO NO LAUDO CONFECCIONADO PELO ENTE EXPROPRIANTE. LAUDO OFICIAL DESCONSIDERADO EM RAZÃO DA EXACERBADA VALORIZAÇÃO DO BEM, APÓS A IMISSÃO PROVISÓRIA NA POSSE. EXCEPCIONALIDADE ADMITIDA PELA JURISPRUDÊNCIA DESTA CORTE. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA.
+(..)2. Conforme jurisprudência desta Corte Superior, a submissão ao Colegiado, por meio de agravo interno, supre o eventual vício existente no julgamento monocrático do recurso.
+(..)7. Agravo interno de Lino Destro e Companhia Ltda. não provido.
+(AgInt no REsp 1424340/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/02/2021, DJe 02/03/2021).
+___ .
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. JULGAMENTO MONOCRÁTICO.POSSIBILIDADE. PRESCRIÇÃO. ALEGAÇÃO DE DEMORA POR CULPA DO PODER JUDICIÁRIO E INTERRUPÇÃO DO PRAZO PRESCRICIONAL. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 932 do CPC/2015 combinado com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+(..)
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1852010/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/09/2021, DJe 07/10/2021).
+___ .
+RECURSO ESPECIAL. PROCESSUAL CIVIL E PROPRIEDADE INDUSTRIAL.PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. NÃO OCORRÊNCIA. AÇÃO ANULATÓRIA. ATO ADMINISTRATIVO. NEGATIVA DE REGISTRO. MARCA.SEGMENTO MERCADOLÓGICO. SISTEMA DE DISTRIBUIÇÃO. IDENTIDADE.POSSIBILIDADE DE CONFUSÃO E ASSOCIAÇÃO. RECONHECIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a decisão recorrida é nula por não ser caso de julgamento monocrático e verificar se o ato do INPI que negou o registro da marca Metro deve ser anulado.
+3. O relator está autorizado a decidir singularmente recurso (artigo 932, do CPC/2015, art. 557 do CPC/1973). Eventual nulidade da decisão singular fica superada com a apreciação do tema pelo órgão colegiado competente, em agravo interno.
+(..)
+6. Recurso especial não provido.
+(REsp 1911946/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/03/2021, DJe 09/03/2021).
+___ .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Eventual vício na decisão monocrática que julga o recurso com base no art. 932 do NCPC é superado pelo exame colegiado da pretensão.
+2. Não se verifica violação aos arts. 128 e 460 do CPC/73, quando o Tribunal local pronuncia-se de forma fundamentada, clara e coerente sobre as questões postas para análise, ainda que contrariamente aos interesses da parte recorrente. Precedentes.
+3. Sem pedido expresso da parte autora, configura julgamento extra petita a declaração de nulidade de cláusulas de contrato bancário.
+4. Agravo interno desprovido.
+(AgInt no AREsp 442.974/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/06/2020, DJe 10/06/2020).
+____ .
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015.DUPLICIDADE DE ARREMATAÇÕES DE IMÓVEIS. REGISTRO DO TÍTULO AQUISITIVO. NECESSIDADE. PRECEDENTES. DECISÃO SINGULAR QUE NEGOU PROVIMENTO AO ARESP. CONTESTAÇÃO DA PARTE AUTORA. POSSIBILIDADE.PRINCÍPIO DA COLEGIALIDADE NÃO VIOLADO.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. O relator está autorizado a decidir singularmente recurso (artigo 932, do Código de Processo Civil de 2015, antigo 557). Ademais, eventual nulidade da decisão singular fica superada com a apreciação do tema pelo órgão colegiado competente, em sede de agravo interno.
+3. Nos termos da jurisprudência desta Corte, havendo duplicidade de arrematações sobre o mesmo imóvel em juízos distintos, aquele que promover primeiramente o registro do título aquisitivo adquire o respectivo domínio. Precedentes.
+4. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp 1071530/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/05/2020, DJe 06/05/2020).
+___ .
+No presente caso, ao julgar os embargos de declaração da ora recorrene, o Tribunal de origem expressamente consignou que houve o julgamento colegiado da questão, diante do manejo do agravo interno, consoante se infere do seguinte excerto:
+Ademais, não merece prosperar a tese de inaplicabilidade do artigo 932 do Estatuto Processual Civil ao caso, pois como bem relatou o Ministro Mauro Campbell ao julgar o REsp 819.562/SP, em hipótese de utilização do correlato artigo 557 do antigo diploma processual, um recurso pode ser manifestamente improcedente mesmo sem estar em confronto com súmula ou jurisprudência dominante, de forma que, para ser considerado como tal, o recurso deve demonstrar que a parte inconformada, evidentemente, não tem razão acerca de teses que são de fácil compreensão jurídica e que não envolvem maior complexidade argumentativa. Este é o caso dos autos, o que justificou a negativa de seguimento ao recurso monocraticamente.
+7. Acrescente-se que a matéria recursal foi analisada sem o necessário pronunciamento do órgão fracionário desta Corte Estadual, na forma autorizada pelo artigo 31, VIII, 9 3 99 do Regimento Interno do Estado do Rio de Janeiro.
+Ademais, a impugnação dos fundamentos contidos na decisão monocrática desafiaram o manejo de agravo interno, como prevê o artigo 1.021, § 1º, do Estatuto Processual Civil, de forma que o Órgão Colegiado ratificou todos os termos que fora decidido monocraticamente. É a materialização da dupla conformidade exigida pela sistemática procedimental, a qual segue os princípios da economia processual, da celeridade e da efeitivdade.
+Dessa forma, estando o acórdão recorrido em harmonia com o entendimento consolidado no STJ, o recurso não merece prosperar ante o óbice da Súmula 83/STJ.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
