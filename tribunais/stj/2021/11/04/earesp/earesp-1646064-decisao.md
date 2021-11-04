@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos por HUDSON FONSECA, NELI FONSECA e AUTO POSTO CAMPANHA LTDA contra acórdão proferido pela 4ª Turma do STJ.
+Ação: de rescisão contratual c/c pedido de cobrança de multa convencional, ajuizada por IPIRANGA PRODUTOS DE PETRÓLEO S/A em face dos ora embargantes.
+Consta que, no curso do processo, as partes firmaram acordo, porém, diante de seu descumprimento, prosseguiu-seno julgamento da demanda.
+Acórdão: manteve a sentença que julgou parcialmente procedentes os pedidos, para: (i) rescindir o contrato firmado entre as partes, retroagindo seus efeitos à data da notícia do descumprimento do acordo; (ii) condenar os ora embargantes, solidariamente, ao pagamento da multa contratual; (iii) determinar que AUTO POSTO CAMPANHA LTDA se abstenhado uso da marca, nome comercial e combinação de cores relativas à autora, no prazo de 10 dias, sob pena de multa diária.
+Embargos de declaração: opostos pelos embargantes, foram rejeitados, com sua condenação ao pagamento da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Recurso especial: interposto pela parte embargante, foi inadmitido pelo TJ/MG, o que ensejou a interposição de agravo em recurso especial.
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial, com fundamento na Súmula 182/STJ.
+Acórdão da 4ª Turma do STJ: deu provimento ao agravo interno manejado pelos ora embargantes, para conhecer do agravo e dar parcial provimento ao recurso especial, tão somente para afastar a multa aplicada pelo Tribunal de origem. O acórdão foi assim ementado (e-STJ fls. 662/663):
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. RESCISÃO CONTRATUAL. CUMPRIMENTO DE SENTENÇA HOMOLOGATÓRIA DE ACORDO. PRESTAÇÃO JURISDICIONAL SUFICIENTE. PRELIMINARES DE PRECLUSÃO, OFENSA À COISA JULGADA E JULGAMENTOEXTRA PETITA AFASTADOS PELO TRIBUNAL ESTADUAL (SÚMULA 7/STJ). EXCLUSÃO DA MULTA NOS EMBARGOS DE DECLARAÇÃO (CPC, ART. 1.026, § 2º). AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. Nos termos da jurisprudência desta Corte, "não constitui omissão o modo como, do ponto de vista da parte, o acórdão deveria ter decidido, nem contradição o que, no julgado, lhe contraria os interesses" (EDcl no REsp 56.201/BA, Rel. Ministro ARI PARGENDLER, DJ de 9.9.1996)
+.2. O Tribunal de origem, rejeitando a intenção da parte ora recorrente de que o descumprimento do acordo judicialmente homologado ficasse sem consequência, afastou as preliminares de preclusão, coisa julgada e julgamento extra petita à luz das circunstâncias da causa. A revisão desse entendimento exigiria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial (Súmula 7/STJ).
+3. A multa prevista no art. 1.026, § 2º, do CPC/2015 não é automática e depende de decisão fundamentada. Não evidenciado o intuito manifestamente protelatório dos embargos de declaração, deve ser afastada a multa imposta pela Corte local.
+4. Agravo interno provido para conhecer do agravo e dar parcialprovimento ao recurso especial".
+Embargos de declaração: opostos pelos ora embargantes, foram rejeitados.
+Embargos de divergência: alegam dissídio jurisprudencial entre o acórdão embargado e o entendimento adotado pela 3ª Turma: (a) no AgInt no REsp 1.867.516/SP e no REsp 1.868.740/SP, no que concerne à impossibilidade de incluir, em liquidação ou cumprimento de sentença, condenação que não foi fixada na decisão exequenda, por violação à coisa julgada; (b)no REsp 4.371/SP e no REsp 796.727/SP, acerca da extinção da fase de conhecimento pela homologação do acordo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015
+- Da comprovação da divergência jurisprudencial
+Os embargos de divergência, nos termos dos arts. 1.043 do CPC/15 e 266 do RISTJ, constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça.
+Por isso, a divergência indicada na via excepcional dos embargos deve ser comprovada mencionando-se, de forma clara e precisa, as circunstâncias que identifiquem ou assemelhem as hipóteses confrontadas, de modo a exigir igual solução jurídica.
+Só assim os embargos podem cumprir a sua função precípua de solucionar controvérsias estritamente jurídicas sobre as quais divirjam duas ou mais Turmas deste Tribunal (AgInt nos EAREsp 862.496/MG, Corte Especial, DJe de 30/11/2016).
+Na hipótese dos autos, contudo, os embargantes, limitando-se a transcrever as ementas dos acórdãos paradigmas,não procederam ao cotejo analítico entre estes e o acórdão embargado,tampouco demonstraram a similitude fático-processual entre eles, de modo a evidenciar a necessidade de uniformização jurisprudencial.
+Daí porque os presentes embargos se revelam, prima facie, inadmissíveis, porque descumpridos os pressupostos específicos para a demonstração da divergência jurisprudencial, de que tratam os arts.1.043, § 4º, do CPC/15 e 266, § 4º, do RISTJ.
+- Da ausência de apreciação do mérito
+Não bastasse,observa-se que, na espécie, o acórdão embargadonão examinou o mérito da controvérsia recursal relativo às alegações depreclusão, coisa julgada e julgamento extra petita, circunscrevendo-se a afirmar que a intenção dos embargantes seria a de que odescumprimento do acordo judicialmente homologado ficasse sem consequência, aplicando a essas questões, outrossim, o óbice da Súmula 7/STJ.
+Nesse contexto, conforme a reiterada jurisprudência desta Corte, por incidência analógica da Súmula 315/STJ, não se mostra cabível o manejo dos embargos de divergência, que não se prestam a revera aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal.
+Nesse sentido, confiram-se: AgInt nos EREsp 1226477/RS, Corte Especial, DJe 26/10/2016; AgInt nos EAREsp 398.790/RJ, Corte Especial, DJe 14/10/2016.
+Destarte, ausente, no acórdão embargado, pronunciamento a respeito da questão de mérito, não há que se falar em divergência jurisprudencial a ser sanada na presente via.
+Forte nessas razões, INDEFIRO LIMINARMENTE os embargos de divergência, com amparo nos arts. 932, III, do CPC/15 e 266-C do RISTJ.
+Deixo de majorar os honorários advocatícios, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC/15.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃOS COMPARADOS. COTEJO ANALÍTICO E DEMONSTRAÇÃO DA SIMILITUDE FÁTICA. AUSÊNCIA. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU O MÉRITO DA CONTROVÉRSIA. INADMISSIBILIDADE DOS EMBARGOS.
+1. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fática entre o acórdão embargado e osjulgados paradigmas, o que não ocorreu na hipótese.
+2. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+3. Embargos de divergência indeferidos liminarmente.
