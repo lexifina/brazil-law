@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP, o qual recebeu a seguinte ementa (e-STJ fl. 78):
+CUMPRIMENTO PROVISÓRIO DE SENTENÇA - Obrigação de fazer - Multa cominatória - Valor da multa diária e respectivo limite já estabelecidos pela r. sentença de primeiro grau que, inclusive, foi ratificada em segunda instância - Inexistência de qualquer justificativa, tampouco demonstração de entrave administrativo apto à autorizar a redução dos valores (art. 537, §1º, do CPC) - Incidência de honorários advocatícios de sucumbência sobre o valor total fixado a título de multa - Descabimento - Parcela que não compõe o "quantum debeatur" da condenação e, por consequência, a base de cálculo da verba honorária - Precedentes - Recurso provido, em parte.
+No recurso especial (e-STJ fls. 84/95), fundamentado no art. 105, III, "a", da CF, a recorrente alega violação doart. 537 do CPC/2015.
+Sustenta a possibilidade de rediscussão do valor da multa diária,argumentando que,"por ser instrumento de coerção indireta, não faz coisa julgada material, podendo ser modificada posteriormente, seja para diminuir ou até mesmo para reconhecer a inexistência das astreintes" (e-STJ fls. 88/89).
+Destacaa possibilidade de redução de multa excessiva, aduzindo, nesse contexto, que a multa cominatória é desproporcional e exorbitante.
+Requer, por fim, a concessão de efeito suspensivo, nos termos do art. 1.029, § 5º, III, do CPC/2015, de modo que "não pode haver qualquer dúvida do perigo de se permitir que os recorridos levantem a quantia do valor controverso, sem que tenham demonstrado recursos para suportar eventual devolução deste valor" (e-STJ fl. 94).
+Foram oferecidas contrarrazões (e-STJ fls. 105/112).
+É o relatório.
+Decido.
+I - Das astreintes
+No que diz respeito à tese de violação do art. 537 do CPC/2015, esta Corte firmou o entendimento de que somente em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante o valor fixado a título deastreintespela instânciaa quo,é possível afastar oóbice da Súmula n. 7 do STJ, para possibilitar sua revisão.
+No caso, o Tribunal estadual assim se manifestou (e-STJ fls. 79/80):
+Pois bem, a agravada ingressou com cumprimento provisório de sentença exclusivamente quanto à obrigação de fazer, no sentido de a agravante providenciar a documentação necessária para a transferência do veículo Volvo XC 90, além da multa cominatória fixada e dos respectivos honorários de sucumbência incidentes sobre este valor, totalizando R$ 53.786,81 (pág. 73).
+Desde logo, percebe-se que não há insurgência a respeito do descumprimento da obrigação de fazer pela agravante quanto ao desbloqueio e demais providências tendentes à regularização do veículo adquirido pelos agravados, tampouco quanto às despesas de IPVA, cingindo-se sua irresignação somente quanto à redução da multa cominatória (valor atualizado R$ 40.336,49, cf. pág. 74) e a exclusão do percentual incidente sobre este valor a título de honorários de sucumbência, inicialmente pretendido pelos agravados em R$ 8.073,30 (20%) e adequado pela r. decisão de primeiro grau em R$ 6.054,97 (15%).
+Desde logo, tem-se que o pedido de redução da multa não merece acolhimento, eis que o valor diário e o respectivo limite já foram devidamente fixados pela r. sentença de primeiro grau, a qual foi devidamente ratificada pelo v. acórdão proferido por esta E.34 ª Câmara de Direito Privado (cf. apel. n. 1004461-96.2017.8.26.0003, rel. Nestor Duarte, j. 18/12/2018).
+ ..
+Por seu turno, mesmo em sucedâneo ao que dispõe o art. 537, §1º, do CPC, não houve qualquer justificativa da parte da agravante, tampouco demonstração de entrave administrativo apto à redução dos valores , de modo que, considerando os princípios da razoabilidade e proporcionalidade, a delimitação da multa já estabelecida e ratificada por esta segunda instância revela-se suficiente e não enseja enriquecimento sem causa da parte a quem favorece.
+Com efeito, não se verifica nenhuma situação excepcional apta a ensejar a relativização do referido óbice, uma vez que arbitrada a multa em R$ 1.000,00 (mil reais) por dia de descumprimento da decisão.
+Acrescente-se quea referida multa apresenta caráter inibitório visando impedir a violação de um direito, de modo que sua fixação deve ser de tal monta que não frustre os seus objetivos.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial e julgo prejudicado o pedido de efeito suspensivo.
+Publique-se e intimem-se.
