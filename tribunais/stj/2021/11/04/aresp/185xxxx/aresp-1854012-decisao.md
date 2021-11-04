@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por PARAÍBA PREVIDÊNCIA contra decisão de inadmissibilidade do recurso especialfundado na alínea "a" do permissivo constitucionalque desafiou acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado:
+APELAÇÃO. AÇÃO DE REPETIÇÃO DE INDÉBITO COM PEDIDO OBRIGACIONAL. PROCEDÊNCIA PARCIAL EM PRIMEIRO GRAU.
+INCONFORMISMO DA PBPREV - PARAÍBA PREVIDÊNCIA. PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM. DESCABIMENTO.
+OBSERVÂNCIA DA SÚMULA Nº 48, DESTA CORTE DE JUSTIÇA.
+MÉRITO. DESCONTOS PREVIDENCIÁRIOS. GRATIFICAÇÕES DE ATIVIDADES ESPECIAIS PREVISTAS NO ART. 57, VII, DA LEI COMPLEMENTAR Nº 58/2003. GRATIFICAÇÃO ESPECIAL OPERACIONAL. PLANTÃO EXTRA. ETAPA ALIMENTAÇÃO PESSOAL DESTACADO. RUBRICAS DE NATUREZA TRANSITÓRIA E CARÁTER PROPTER LABOREM.
+PARCELAS NÃO INCORPORÁVEIS AOS PROVENTOS DE INATIVIDADE. TERÇO DE FÉRIAS. VERBA DE NATUREZA INDENIZATÓRIA. ILEGALIDADE. PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL. INCIDÊNCIA ATÉ O EXERCÍCIO DE 2009. REFORMA NESSE ASPECTO. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO ADEQUADO.
+SUCUMBÊNCIA RECÍPROCA. NÃO ACOLHIMENTO. PRETENSÃO EXORDIAL QUE DECAIU DE PARTE MÍNIMA. PROVIMENTO PARCIAL DO APELO.
+- O Estado da Paraíba e os Municípios, conforme o caso, e as autarquias responsáveis pelo gerenciamento do Regime Próprio de Previdência, têm legitimidade passiva quanto à obrigação de restituição de contribuição previdenciária recolhida por servidor público ativo ou inativo e por pensionista, nos termos da Súmula nº 48, do Tribunal de Justiça da Paraíba.
+- É indevido o recolhimento de contribuições previdenciárias sobre parcelas que, em razão da natureza transitória e do caráter , não se propter laborem incorporam aos proventos de inatividade, sendo cabível a suspensão dos descontos e a restituição dos valores ilegalmente recolhidos, observada a prescrição quinquenal.
+- Tendo em vista que o promovente decaiu de parte mínima do seu pedido exordial, não há como acolher o pleito de aplicação da sucumbência recíproca na espécie.
+No recurso especial, a parte indicou ofensa ao art. 4º da Lei n. 10.887/2004.
+Sustentou, em resumo, que esse dispositivo legal ampararia a incidência de contribuição previdenciária sobre a totalidade da remuneração do servidor público, não se excluindo as parcelas não incorporáveis aos proventos de aposentadoria.
+Acrescentou que "as vantagens auferidas e ora em análise são efetivos componentes da remuneração do recorrido, a integrando de maneira habitual, e não transitória, conforme demonstram as provas carreadas aos autos, pelo que não há dúvidas de que elas estão sujeitas à contribuição previdenciária, nos termos do art. 4º da Lei 10.887/04" (e-STJ fl. 176).
+A Presidência do TJPB inadmitiu o apelo excepcional com amparo na Súmula 280 do STF e negou-lhe seguimento no que se refere à incidência de contribuição previdenciária sobre terço constitucional de férias, ante a sintonia do acórdão local com o Tema Repetitivo 479/STJ.
+Irresignada, a entidadeprevidenciário interpõe o presente agravo, insurgindo-se contra o obstáculo imposto à admissibilidade do recurso especial.
+Passo a decidir.
+Cuidam os autos, na origem, de repetição de indébito referente àcontribuição previdenciária incidente sobre horas extras, terço constitucional de férias e sobre vantagens não incorporáveis aos proventos da inatividade.
+O magistrado de primeiro grau julgou parcialmente procedente a ação para reconhecer ser indevida a incidência de contribuição previdenciária sobre terço constitucional de férias, "gratificação do art. 57, VII, L 58/03 - POG. PM; EXT. PRESS; PM. VAR; PRESS. PM; OP. VTR; gratificação especial operacional; plantão extra - MP 155/10 e etapa alimentação destacado" e condenar a ré à restituição do tributo incidente sobre essas parcelas no período não prescrito.
+Interposta apelação pelo instituto de previdência, essa foi parcialmente provida. O Tribunal paraibano manteve a sentença quanto à não incidência da contribuição previdenciária sobre o terço constitucional de férias, ante a expressa previsão na Lei Estadual n. 7.517/2003, alterada pela Lei Estadual n. 9.939/2012. Entretanto, limitou a restituição ao período anterior a 2010.
+Ademais, afirmou que não há falar em contribuição previdenciária sobre as verbas que não se incorporam à remuneração do servidor, por estarem condicionais ao desempenho de atividades especiais, nos termos da Lei Complementar Estadual n. 58/2006.
+Pois bem.
+Em relação à incidência da contribuição previdenciária sobre verbas que não são incorporadas aos proventos de inatividade, a análise da violação do art. 4º da Lei 10.887/2004, na forma pretendida pela recorrente, perpassa pela interpretação de lei complementar estadual, situação vedada nesta instância extraordinária, nos termos da Súmula 280 do STF.
+Além disso, o recorrente questiona a validade de lei local em face de lei federal, matéria de índole constitucional, art. 102, III, "d", da CF/88,e, por isso, insuscetível de apreciação pela via do recurso especial.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
