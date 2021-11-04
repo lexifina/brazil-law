@@ -1,0 +1,13 @@
+DECISÃO
+RICHAR FERNANDO ROSALIN alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+O Juízo da Vara de Execuções deferiu o pedido de remição da pena do sentenciado por atividades de estudo (aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA).
+O Tribunal de origem cassou o benefício por considerar que aRecomendaçãon.44/2013 do CNJnão tem efeito vinculante quanto aosdemais órgãos jurisdicionais.A impetrante afirma que o paciente obteve aprovação integral no Exame Nacional para Certificação de Competências de Jovens e Adultos. Assim, tem direito de remir sua pena.
+Pede o restabelecimento da decisão de primeiro grau.
+Decido.
+O writ comporta pronta solução, pois o aresto recorrido está em desconformidade com o entendimento das Cortes Superiores.
+A interpretação extensiva e lógico-sistemáticado art. 126 da Lei de Execução Penal, de acordo com a Recomendação n. 44/2013 do Conselho Nacional de Justiça, permite a remição da pena pelo estudo ao apenado não vinculado a atividade regular de ensino que obtém, por esforço próprio, aprovação em exame nacionalque certifique o ensino fundamental ou médio a jovens e adultos.
+A orientação do Conselho Nacional de Justiça não é vinculativa, mas confere interpretação razoável ao art. 126 da LEP,pois, em situação de deficiência estatal em disponibilizar vagas para estudonas unidades penais,incentivaos apenados à aprendizagem por esforço próprio, em consonância com a finalidade de ressocialização da pena privativa de liberdade.
+Na aplicação da lei, os juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum. Não é razoável deixar de premiar o estudo próprio, atestado pela realização de provas oficiais,que confere ao apenado um plus de conhecimento,imprescindível para a sua readaptação ao convívio social.
+Aplica-se ao caso o entendimento de que: ""A Recomendação n. 44/2013 do CNJ indica aos Tribunais a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão do ensino fundamental - Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) - ou médio - Exame Nacional do Ensino Médio (ENEM), incentivando os apenados aos estudos, bem como à sua readaptação ao convívio social"(STJ, AgRg no HC 643.709/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/02/2021, DJe 26/02/2021, sem grifos no original)"(HC 663.546/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/05/2021, DJe 25/05/2021).
+Ante o exposto, concedo o habeas corpus, in limine, para restabelecer a decisão do Juiz da VEC.
+Publique-se e intimem-se.
