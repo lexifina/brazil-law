@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deBRUNO FABRICIO DA SILVA DE ANDRADE em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 0006824-10.2021.8.26.0496).
+O Juízo de primeiro grau indeferiu o pedido de progressão para o regime aberto ou livramento condicional por entender que configuraria progressão por saltos, já que o paciente forarecentemente beneficiado com o regime semiaberto.
+O Tribunal de origem, em agravo interposto pela defesa, negou provimento ao recurso.
+Sustenta a impetrante ocorrência deconstrangimento ilegal uma vez que o paciente cumpriu os requisitos legais exigidos para a concessão do benefício pleiteado, ressaltando o bom comportamento carcerário.
+Requer, liminarmente e no mérito, seja concedidaao paciente a progressão ou livramento condicional.
+O pedido de liminar foi indeferido nos termos da decisão de fls. 88-89.
+As informações foram prestadas às fls. 94-108 e 111-121.
+O Ministério Público Federal manifestou pelo não conhecimento do write, caso dele se conheça, pela denegação da ordem (fls. 123-126).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente writé dotado de plausibilidade jurídica,circunstância que autoriza a atuação ex officio.
+O Juízo da execução penal indeferiu o pedido de progressão de regime ou livramento condicional nestes termos (fls. 33-34):
+O sentenciado cumpria pena em regime fechado e foi beneficiado com a progressão ao regime semiaberto em 27 de julho próximo passado e sequer ainda deu mostras de adequação à menor vigilância, não sendo viável a concessão de livramento condicional ou da progressão de regime sem antes passar efetivamente pelo regime intermediário.
+Ou seja, a concessão desses benefícios configuraria verdadeira progressão por saltos, vedada em nosso ordenamento jurídico,ante a necessidade de permanecer por período razoável no regime intermediário, quando será avaliado de maneira mais adequada e mais próxima da realidade que encontrará nas ruas, verificando-se a absorção ou não da terapêutica penal.
+ ..
+Em resumo: incabíveis neste momento, sem prejuízo de futura e necessária reapreciação da situação, a progressão de regime prisional e a concessão do livramento condicional.
+Posto isso, INDEFIRO a progressão de regime prisional e a concessão do livramento condicional ao sentenciado BRUNO FABRICIO DA SILVA DE ANDRADE  .. .
+O Tribunal de origem negou provimento ao agravo pelas seguintes razões (fls. 76-78):
+Desta feita, deve o sentenciado passar inicialmente pelo regime semiaberto, a fim de provar que se adaptou à terapêutica penal, para somente então obter a progressão ao regime aberto, ou a concessão do livramento condicional. Neste sentido, a progressão do agravante, do regime fechado ao regime aberto, ou, ainda, concessão do livramento condicional, em espaço de menos de menos de quinze dias, seria uma quebra inadequada à terapia penal.
+Ademais, cumpre consignar que, apesar de parte da doutrina e da jurisprudência considerar que o livramento condicional não integra o sistema progressivo, não há como negar que se trata de benefício mais vantajoso que o regime semiaberto, motivo pelo qual requisitos subjetivos devem ser considerados na avaliação do apenado, a fim de ter a garantia de que não voltará a cometer novos delitos.
+Assim, não há falar em concessão de benefício pleiteado "per saltum" a condenado que foi recentemente progredido ao regime intermediário, eis que não se sabe se o agravante reúne condições favoráveis para obter tal benesse, sem ter uma noção efetiva de que não retornará a delinquir, se solto.
+ ..
+Desse modo, inviável, por ora, a concessão da progressão ao regime aberto ou a concessão do livramento condicional, devendo o agravante permanecer maior tempo no regime semiaberto, para que possa absorver a terapia penal e demonstrar seu merecimento, frisando- se que nada obsta que o pleito seja reapresentado ao juízo das execuções, que deverá apreciar eventual alteração no quadro jurídico exposto no decisum, frisando-se que o termo "período razoável" é, de fato, um conceito jurídico indeterminado; no entanto, tal como já exposto,no caso concreto, não é possível afirmar que o período de 14 dias seja suficiente para verificar a adaptação do agravante ao regime intermediário.
+Ante o exposto, nega-se provimento ao recurso, mantida a r. decisão agravada por seus próprios e jurídicos fundamentos.
+O Superior Tribunal de Justiça entende que a gravidade abstrata dos crimes pelos quais o sentenciado foi condenado, a longa pena a cumprir e faltas disciplinares já reabilitadas não são fundamentos idôneos para indeferir os benefícios da execução penal.
+Entende também quenão há obrigatoriedade de o sentenciado passar, previamente, por regime intermediário como condição para obter o benefício de livramento condicional, uma vez que inexiste tal previsão no art. 83 do CP.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. LONGA PENA E GRAVIDADE ABSTRATA. FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A gravidade abstrata do crime e a longa pena a cumprir não são aspectos relacionados ao comportamento do sentenciado durante a execução penal e não justificam o indeferimento dos benefícios do sistema progressivo das penas.
+2. Faltas disciplinares muito antigas também não podem impedir, permanentemente, a progressão de regime e o livramento condicional, pois o sistema pátrio veda as sanções de caráter perpétuo. É desarrazoado admitir que falhas ocorridas há vários anos maculem o mérito do apenado até o final da execução. A reabilitação do preso depende das peculiaridades de cada caso, mas, em regra, deve ser entendida como o aperfeiçoamento do seu comportamento por tempo relevante.
+3. Era de rigor a concessão da ordem, pois o benefício do art. 83 do CP foi indeferido com lastro em fundamentos inidôneos, consubstanciados na gravidade dos crimes praticados e em comportamento negativo regenerado.
+4. Agravo regimental não provido. (AgRg no HC n. 620.883/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/12/2020.)
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTA DISCIPLINAR REABILITADA, GRAVIDADE ABSTRATA DO DELITO E NECESSIDADE DE PRÉVIA PROGRESSÃO AO REGIME INTERMEDIÁRIO. FUNDAMENTAÇÃO INIDÔNEA. CONFIRMADA A MEDIDA LIMINAR. ORDEM CONCEDIDA.
+1. O art. 83 do Código Penal - com redação dada pela Lei n. 13.964/2019, - fez incluir o bom comportamento (não somente satisfatório, como disposto na redação antiga) durante a execução da pena, além do não cometimento de falta grave nos últimos doze meses, para a concessão do livramento condicional.
+2. Conforme entendimento jurisprudencial e a novel legislação, não é possível atribuir efeitos eternos às faltas graves praticadas pelo apenado, o que constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena.
+3. Na espécie, a falta grave foi cometida em 21/09/2018 pelo Paciente - durante o cumprimento da reprimenda imposta pela prática do delito previsto no art. 157, § 2.º, inciso II, c.c. o art. 70, caput, ambos do Código Penal, que teve seu comportamento atual classificado como bom no exame criminológico.
+4. Ordem habeas corpus concedida para determinar que o pleito de livramento condicional seja reavaliado, desconsiderando a gravidade abstrata do delito cometido, a falta disciplinar praticada em 21/09/2018 e a necessidade de prévia progressão ao regime intermediário, confirmada a medida liminar. (HC n. 592.587/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.)
+Ante o exposto, não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para cassar as decisões das instâncias ordinárias e determinar que o Juízo da execução penalreaprecie o pedido de progressão para o regime aberto ou livramento condicional nos limites legais, afastando a fundamentação anterior.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
