@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. SEGURO DE VEÍCULO. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS C/C DANOS MORAIS E OBRIGAÇÃO DE FAZER. AUTOR QUE PRETENDE O RECONHECIMENTO QUE O VEÍCULO NÃO FOI REPARADO DEVIDAMENTE, APRESENTANDO PONTOS DE DEFICIÊNCIA. DEMORA EXCESSIVA (04 MESES) PARA CONSERTO DO AUTOMÓVEL. AUTOR QUE PRECISOU LOCAR AUTOMÓVEL QUANDO JÁ ULTRAPASSADO O PRAZO NORMAL PARA REPARO DO VEÍCULO PREVISTO NA CIRCULAR SUSEP NO 256, DE 16 DE JUNHO DE 2004, QUE É DE 30 DIAS. SENTENÇA DE IMPROCEDÊNCIA QUE SE REFORMA. EXISTÊNCIA DE DANO MATERIAL. REEMBOLSO DAS LOCAÇÕES DO VEÍCULO QUE DEVEM SER CORRIGIDOS A CONTAR DOS DESEMBOLSOS E JUROS DE MORA A CONTAR DA CITAÇÃO. DANO MORAL EM ATENÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE, ESPECIALMENTE EM SE TRATANDO DE EMPRESA QUE UTILIZA O VEÍCULO PARA ENTREGA DE MERCADORIAS. PRECEDENTES DO STJ E DESTE E. TRIBUNAL ESTADUAL. PROVIMENTO DO RECURSO PARA REFORMA A R. SENTENÇA E JULGAR PROCEDENTE OS PEDIDOS PARA CONDENAR OS RÉUS, SOLIDARIAMENTE, AO PAGAMENTO DA INDENIZAÇÃO MATERIAL NO VALOR DE R$ 12.600,00 (NOVE MIL E NOVECENTOS REAIS) REFERENTES AO DANO MATERIAL ACRESCIDOS DE VALORES VINCENDOS ATÉ A ENTREGA DO VEÍCULO, CORRIGIDO A CONTAR DOS DESEMBOLSOS E JUROS DE MORA A CONTAR DA CITAÇÃO, TUDO A SER APURADO EM LIQUIDAÇÃO DE SENTENÇA, BEM COMO A INDENIZAÇÃO POR DANOS MORAIS FIXADOS NO VALOR DE R$ 10.000,00, COM JUROS DE 1 % (UM POR CENTO) AO MÊS A CONTAR DA CITAÇÃO EM CONFORMIDADE COM O ENUNCIADO N. 83 DA SÚMULA DO STJ E CORREÇÃO MONETÁRIA, CONTADOS A PARTIR DESTE JULGADO, NOS TERMOS DA SÚMULA 97 DESTE TRIBUNAL E 362 DO SUPERIOR TRIBUNAL DE JUSTIÇA, AINDA FIXAR OS HONORÁRIOS DE SUCUMBÊNCIA, MAJORADOS SEDE RECURSAL EM 12% DO VALOR DA CONDENAÇÃO.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a agravante existência de dissídio jurisprudencial, além de violação dos artigos 373 do Código de Processo Civil; 186 e 927 do Código Civil.
+Aduz que não deve compor a lide, haja vista não existir vínculo jurídico com a seguradora ré.
+Alternativamente, sustenta que, diante da deficiência do acervo probatório e das circunstâncias em que ocorreu o evento danoso, não houve abalo moral capaz de gerar reparação econômica.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, no que concerne à suposta falta de legitimidade passiva da agravante, verifica-se que, apesar de tambémmanejado sob o argumento da existência de divergência entre entendimentos de Tribunais distintos, nas razões do recurso especial, não houve indicação de quais dispositivos infraconstitucionais teriam sido violados pelo acórdão. Ressaltando-se que na instância ordinária não se aplica o brocardo jura novit curia, de modo que incide o verbete n. 284, do STF.
+De igual teor:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. (..)
+3. (..)
+4. Agravo interno a que nega provimento.
+(AgInt no AREsp 1126226/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 30/10/2017)
+Com referência ao argumento de que a demora na execução do serviço não é capaz de gerar dano extrapatrimonial à pessoa jurídica, verifica-se que não houve debate na origem quanto ao ponto. Anoto que a agravante não interpôs embargos de declaração, suscitando o debate de tal questão.
+De modo que as razões do recurso especial não são convincentes, já que nele não está indicado trecho ou passagem do acórdão recorrido em que tenha havido a abordagem da matéria controvertida, merecendo, assim, a aplicação das Súmulas 282 e 356 do STF, visto que ausente o indispensável prequestionamento com referência a essa questão ventilada no recurso especial, do qual não estão isentas sequer as questões de ordem pública.
+De igual teor:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. MATÉRIA NÃO DEBATIDA NA ORIGEM. FALTA DE PREQUESTIONAMENTO.
+1. Em que pese a omissão do acórdão recorrido ao tratar do termo inicial da prescrição quinquenal, não se poderia conhecer da irresignação, pois a tese legal apontada não foi analisada pelo acórdão hostilizado. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Acrescento que o recorrente não opôs Embargos de Declaração a fim de sanar possível omissão no julgado.
+2. O STJ possui compreensão pacífica no sentido da necessidade de prequestionamento, inclusive de matérias de ordem pública.
+3. Embargos de Declaração acolhidos, sem efeitos infringentes.
+(EDcl no REsp 1682995/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017)
+Ademais, mesmo que o mencionado tema superasse o apontado óbice sumular, ainda assim, a pretensão não obteria êxito, pois rever as premissas lançadas no acórdão atacado quanto ao ponto, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Diante do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
