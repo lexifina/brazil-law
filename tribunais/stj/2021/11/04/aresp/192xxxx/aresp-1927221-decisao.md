@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especialinterposto porADELIO TEIXEIRA DE DEUS, com fundamento nasalíneas "a" e "c" do permissivo constitucional, em face de acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+APELAÇÃO. PROCESSO CIVIL E CIVIL, ação de REPARAÇÃO POR DANOS MORAIS EESTÉTICOS. ACIDENTE DE TRÂNSITO. VALOR DO DANO MORAL. MAJORAÇÃO. DANOSESTÉTICOS NÃO RECONHECIDOS.
+1. A fixação do quantum para compensar dano moral deve atender ao critério da razoabilidade e dosparâmetros definidos na jurisprudência, tais como: (a) a forma como ocorreu o ato ilícito; (b) o tipo de bemjurídico lesado; (c) a repercussão do ato ofensivo no contexto pessoal e social; (d) a intensidade da alteraçãoanímica verificada na vítima; (e) o antecedente do agressor e a reiteração da conduta; (f) a existência ou nãode retratação por parte do ofensor. O valor fixado na origem deve ser majorado quando se identifica que osdanos ocorreram em maior grau do que o reconhecido em sentença.
+2. O dano estético refere-se à modificação duradoura e/ou permanente na aparência física da pessoa capaz delhe causar constrangimento ao expor parte de seu corpo que conte com deformidade, cicatriz expressiva,aleijões, amputações ou outras anomalias. Não restando comprovado nos autos, o dano estético deve serafastado.
+3. Deu-se parcial provimento ao apelo. (fl. 592)
+Nas razões do recurso especial, o recorrente aponta, além de divergência jurisprudencial,ofensa aoartigo 489, § 1º, I eII, do CPC/15, sustentando, em síntese,negativa de prestação jurisdicional, visto que a Corte de origemnãoobservoua proporcionalidade e o prejuízo possivelmente sofrido pelos recorridos, no momentoque elevou a condenação do dano moral ao patamar mais que o dobro, com relação aodano moral deferido no Juízo da sentença.
+É o relatório.
+Passo a decidir.
+O recurso não procede.
+No que tange à suposta violação ao artigo 489, § 1º, I e II,do CPC/15, a insurgência não se mostra acessível, visto que sequer foram opostos embargos de declaração em face do aresto recorrido, sendo manifesta, assim, a deficiência na fundamentação, a atrair o óbice do enunciado 284/STF. Nesse sentido:
+ADMINISTRATIVO - AUTO DE INFRAÇÃO - CONMETRO E INMETRO - LEIS 5.966/1973 E 9.933/1999 - ATOS NORMATIVOS REFERENTES À METROLOGIA - CRITÉRIOS E PROCEDIMENTOS PARA APLICAÇÃO DE PENALIDADES - ENTENDIMENTO REAFIRMADO POR ESTA CORTE NO JULGAMENTO DO RESP 1.102.578/MG, SUBMETIDO AO REGIME DO ART. 543-C DO CPC - ORIENTAÇÃO INALTERADA PELA EDIÇÃO DA LEI N.º 12.545/2011.
+1. Não pode ser conhecido o recurso no tocante à alegada infringência do art. 535 do CPC, pois nem sequer foram opostos embargos de declaração na origem. Súmula 284/STF.  ..  6. Recurso especial parcialmente conhecido e, nessa parte, não provido. (REsp 1330024/GO, Relatora Ministra Eliana Calmon, Segunda Turma, DJe de 26/06/2013)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro oshonorários advocatícios devidos à parte recorrida de 10% para 11% sobre ovalorda condenação.
+Publique-se.
