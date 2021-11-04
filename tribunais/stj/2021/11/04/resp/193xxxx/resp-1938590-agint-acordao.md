@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 535-538, e-STJ) que negou seguimento ao Recurso Especial, com base nas Súmulas 7 e 211 do STJ.
+A agravante sustenta, em suma (fl. 170, e-STJ):
+No entanto, essa questão controvertida, jamais foi objeto de ponderação e julgamento pelo Tribunal a quo, que ao julgar o recurso de agravo omitiu- se acerca da fase em que se encontrava o processo, aplicando ao caso todas as premissas de fixação de sucumbência existentes para casos de cumprimento de sentença.
+De forma diligente a parte Agravante - visando não apenas resguardar o prequestionamento, mas principalmente, forçar o enfrentamento do principal argumento deduzido no processo, capaz, de em tese, infirmar a conclusão adotada pelo julgador, nos termos do artigo 489, §1º, inciso IV do CPC, apresentou embargos de declaração. E aqui cabe e merece novo destaque.
+E a questão é que o posicionamento acerca da fase processual em que se encontrava o feito - liquidação de sentença e não cumprimento de sentença - se mostrava imprescindível para o enfrentamento das teses jurídicas debatidas, o que levou à interposição dos embargos de declaração opostos em Segundo Grau pela ora Agravante
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PROVIMENTO, TOTAL OU PARCIAL, DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA. BASE DE CÁLCULO/PROVEITO ECONÔMICO. EXCESSO DE EXECUÇÃO RECONHECIDO. TRIBUNAL DE ORIGEM, COM BASE NO CONJUNTO PROBATÓRIO, DECIDIU PELA IMPOSSIBILIDADE DO PROSSEGUIMENTO DO CUMPRIMENTO DE SENTENÇA ANTES DO TRÂNSITO EM JULGADO DA AÇÃO DE CONHECIMENTO. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal Regional não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. Observo que o Tribunal originário não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+5. Hipótese em que a Corte de origem, com base no conjunto fático-probatório dos autos, assentou que não estão presentes os requisitos para o prosseguimento do cumprimento de sentença no caso concreto. Nesse sentido, transcrevo o seguinte trecho do acórdão (fls. 71-72, e-STJ): "Em que pese a argumentação da agravante, a União foi, sim, intimada para impugnar o valor pretendido a título de Cumprimento de Sentença, conforme bem consignou o juízo na decisão de evento 96, tendo apresentado o valor que entendia devido (R$ 557.094,60), em contraposição àquele pleiteado pela exequente (R$ 630.912,59). E a posterior concordância da exequente com o valor defendido pela União/executada não descaracteriza o excesso de execução inicialmente pretendido (R$ 73.817,99). Assim, correta a decisão agravada ao condenar a exequente nos honorários de sucumbência de 5% (cinco por cento) da diferença entre o valor ora homologado a este título e aquele por ela defendido, o que perfaz a quantia de R$ 3.690,90 (três mil, seiscentos e noventa reais e noventa centavos), posicionada para setembro de 2019." Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 24 de abril de 2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Assim, afasta-se de ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 71-72):
+Em que pese a argumentação da agravante, a União foi, sim, intimada para impugnar o valor pretendido a título de Cumprimento de Sentença, conforme bem consignou o juízo na decisão de evento 96, tendo apresentado o valor que entendia devido (R$ 557.094,60), em contraposição àquele pleiteado pela exequente (R$ 630.912,59).
+E a posterior concordância da exequente com o valor defendido pela União/executada não descaracteriza o excesso de execução inicialmentepretendido (R$ 73.817,99).
+Assim, correta a decisão agravada ao condenar a exequente nos honorários de sucumbência de "5% (cinco por cento) da diferença entre o valor ora homologado a este título e aquele por ela defendido, o que perfaz a quantia de R$ 3.690,90 (três mil, seiscentos e noventa reais e noventa centavos), posicionada para setembro de 2019". Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo que o Tribunal Regional não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Acrescente-se que não se pode conhecer da irresignação contra a ofensa a dispositivos legais que não foram analisados pela instância de origem, ainda que se trate de matéria de ordem pública, como a prescrição. Ausente, destarte, o requisito do prequestionamento.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita a exigência de prequestionamento. Isso porque, para que se tenha por atendido esse requisito, não basta que a Corte a quo dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+Nessa linha, os seguintes precedentes:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA 211/STJ. VIOLAÇÃO DO ART. 620 DO CPC. (..)
+(..)
+3. É entendimento assente da Primeira Turma que a mera declaração do Tribunal a quo de se ter por prequestionados dispositivos a fim de viabilizar o acesso à instância superior não se mostra suficiente para esta Corte se, após análise feita, constatar-se a inexistência do imprescindível debate.
+(..)
+5. Agravo regimental não provido.
+(AgRg no Ag 1159497/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 30/11/2009, grifei).
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ACÓRDÃO DO TRIBUNAL DE ORIGEM OMISSO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ACOLHIMENTO DO RECURSO APENAS PARA FINS DE PREQUESTIONAMENTO, SEM EFETIVA DISCUSSÃO ACERCA DOS DISPOSITIVOS TIDOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+1. O simples fato de o Tribunal a quo ter asseverado, por ocasião da apreciação dos embargos de declaração, que tal e quais dispositivos encontravam-se prequestionados, sem que tenha havido efetiva discussão a respeito das teses referentes à aplicabilidade dessas normas, não é suficiente para ensejar a admissão do recurso especial.
+2. O entendimento do Superior Tribunal de Justiça é pacífico no sentido de que incide, no ponto, a Súmula n. 211 desta Corte. Precedentes.
+3. Agravo regimental não-provido.
+(AgRg no REsp 948.716/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 10/11/2008, grifei).
+PROCESSUAL CIVIL. ART. 535 DO CPC. ARGÜIÇÃO GENÉRICA. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 211/STJ E 282/STF.(..)
+(..)
+2. Não satisfaz o requisito do prequestionamento a mera referência pelo Tribunal a quo de que teria por prequestionados os dispositivos legais tidos por malferidos. Precedentes da Turma. São aplicáveis os óbices das Súmulas 211/STJ e 282/STF.
+(..)
+4. Recurso especial conhecido em parte e não provido.
+(REsp 929.737/RS, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA,DJ 03/09/2007, p. 159, grifei).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
