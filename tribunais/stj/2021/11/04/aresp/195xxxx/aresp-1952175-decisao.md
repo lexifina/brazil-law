@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a", da CF) contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - MULTA APLICADA PELO PROCON - PRELIMINAR - INTEMPESTIVIDADE DOS EMBARGOS - REJEIÇÃO - MÉRITO - ANULAÇÃO DE MULTA APLICADA PELO PROCON - CELEBRAÇÃO DE ACORDO ENTRE O CONSUMIDOR E O FORNECEDOR - IMPOSSIBILIDADE - PRECEDENTES DO TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO - MULTA POR INFRAÇÃO AO CDC  AUSÊNCIA DE COMPROVAÇÃO DE CONDUTA ILÍCITA  ILEGALIDADE NÃO COMPROVADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. "De acordo com o art. 16, I, da Lei de Execuções Fiscais (Lei n. 6.830/80),o termo inicial do prazo para oferecimento de embargos à execução fiscal, nos casos em que o executado efetua seguro garantia para garantir o débito, corresponde ao primeiro dia útil subsequente à apresentação de tal documento." (..) (N.U 1006300-42.2018.8.11.0003, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, MARIA APARECIDA RIBEIRO, Segunda Câmara de Direito Público e Coletivo, Julgado em 11/02/2020, Publicado no DJE 05/03/2020)
+2. "Acordo realizado entre as partes no processo administrativo não obsta a aplicação da penalidade cabível pelo Programa de Proteção e Defesa do Consumidor (PROCON), o qual, em tais casos, não atua em defesa exclusiva do lesado, mas, pelo contrário, está a agir em proteção de toda a coletividade, a fim de evitar a reiteração da infração à legislação consumerista." (..) (N.U 1004167-27.2018.8.11.0003, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, MARIA APARECIDA RIBEIRO, Segunda Câmara de Direito Público e Coletivo, Julgado em 09/06/2020, Publicado no DJE 26/06/2020)
+3. "Embora o Órgão de Proteção e Defesa ao Consumidor - PROCON tenha legitimidade para aplicar multas por infração às normas do Código de Defesa do Consumidor, no âmbito individual é imprescindível a análise de defesa apresentadas pela reclamada, e, uma vez devidamente comprovada a ausência de conduta ilícita, é indevida a aplicação de multa de caráter punitivo, observada a necessária cautela no exercício do poder de polícia." (N.U 1005650- 29.2017.8.11.0003, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, MARCIO APARECIDO GUEDES, Segunda Câmara de Direito Público e Coletivo, Julgado em 03/06/2020, Publicado no DJE 08/06/2020)
+4. Recurso parcialmente provido.
+Os Embargos de Declaração foram parcialmente acolhidos.
+A parte agravante, nas razões de Recurso Especial, aponta, além de divergência jurisprudencial, violação dos arts. 2º, caput e incisoVI, 50, § 1º, e 57 do CDC, 202 do CTN e 2º, § 5º, da Lei 6.830/1980. Sustenta:
+Porém, está provado nos autos, que a própria consumidora se satisfez com o acordo, ou seja, não há descumprimento por parte da ENERGISA, que cogite na imposição de penalidade pelo PROCON, em desacordo com as normas do Código de Defesa do Consumidor (fl. 952)
+Contrarrazões às fls. 1.060-1.074, e-STJ.
+Decisão que inadmitiu o Recurso Especial às fls. 1.075-1.079, o que ensejou o presente Agravo.
+Contraminuta às fls. 1.110-1.122, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos nesse Gabinete em 15.10.2021.
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que (fls. 904-906, e-STJ):
+Partindo dessas premissas, passo a analisar se os atos que levaram à aplicação das multas pelo Procon foram devidamente motivados.
+No que tange ao processo administrativo nº 0115.004.805-5, denota-se dos autos que a parte consumidora procurou o Procon, relatando, em síntese a demora na ligação de energia elétrica em sua unidade consumidora.
+No dia 06/10/2015, foi realizado audiência de conciliação, momento em que foi celebrado acordo entre as partes, ficando consignado que a empresa reclamada efetuaria o reestabelecimento da energia no prazo de 05 (cinco) dias.
+A parte Apelante aduz que em decorrência do acordo celebrado, não haveria motivos para aplicar multa no processo administrativo.
+No entanto, como é sabido o acordo celebrado entre as partes no processo administrativo não é óbice para a aplicação da penalidade pelo PROCON, uma vez que, conforme artigo 18 do Decreto nº 2.181/97, "a inobservância das normas contidas na Lei nº 8.078, de 1990, e das demais normas de defesa do consumidor constituirá prática infrativa e sujeitará o fornecedor às seguintes penalidades, que poderão ser aplicadas isolada ou cumulativamente, inclusive de forma cautelar, antecedente ou incidente no processo administrativo, sem prejuízo das de natureza cível, penal e das definidas em normas específicas".
+(..)
+Ante o exposto, CONHEÇO DO RECURSO E LHE DOU PRCIAL PROVIMENTO, tão somente, para manter a validade da multa aplicada no processo administrativo nº 0115.004.805-5.
+Nesse contexto, considerando a fundamentação do acórdão recorrido, as razões recursais somente poderiam ter sua procedência verificada mediante o reexame de matéria fática, o que encontra óbice na Súmula 7/STJ.
+No tocante ao dissídio jurisprudencial, cumpre asseverar que, consoante jurisprudência do STJ, a análise do dissídio fica prejudicada em razão da aplicação da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os julgados paradigmas, uma vez queas suas conclusões díspares não ocorreramem razão de entendimentos diversos sobre uma mesma questão legal, massimem razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Por fim, no que se refere à alegação de violação do art. 202 do CTN, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a referida tese recursal nemsequer implicitamentefoi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaraçãopara tal fim. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
