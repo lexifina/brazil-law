@@ -1,0 +1,24 @@
+DECISÃO
+1. Cuida-se de embargos de declaração opostos por COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBAcontra decisão monocrática que rejeitou os embargos de declaração, com fulcro no seguinte fundamento: a) a suposta omissão em relação aos honorários não tem a ver com os recursais, como pressuposto no acórdão embargado, senão com os honorários sucumbenciais.
+É o relatório. Decido.
+2. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022).
+Da doutrina processualista extrai-se que a obscuridade consiste na falta de clareza da decisão impugnada, sendo que, diante da função precípua do pronunciamento judicial de emprestar certeza às relações litigiosas que calham às suas portas, não se admitem decisões judiciais não unívocas.
+Por outro lado, verifica-se a contradição quando no acórdão se incluem proposições entre si inconciliáveis. Nos termos do magistério de Barbosa Moreira:
+Pode haver contradição entre proposições contidas na motivação (exemplo: a mesma prova ora é dita convincente, ora inconvincente), ou entre proposições da parte decisória, isto é, incompatibilidade entre capítulos do acórdão: v.g. anula-se, por vício insanável, quando logicamente se deveria determinar a restituição ao órgão inferior, para sentenciar de novo; ou declara-se inexistente a relação jurídica prejudicial (deduzida em reconvenção ou em ação declaratória incidental), mas condena-se o réu a cumprir a obrigação que dela necessariamente dependia; e assim por diante. Também pode ocorrer contradição entre alguma proposição enunciada nas razões de decidir e o dispositivo: por exemplo, se na motivação se reconhece como fundada alguma defesa bastante para tolher a pretensão do autor, e no entanto se julga procedente o pedido.
+(Comentários ao Código de Processo Civil. v. 5. Rio de Janeiro: Forense, 2008, p. 556-557)
+Por sua vez, "o erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1.234.057/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 28/6/2011, DJe 1º/7/2011.
+De resto, nos termos do art. 1.022, II, do Novo CPC, cabem embargos de declaração para suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento.
+Impende consignar que, no art. 1.022, parágrafo único, do Novo CPC, o legislador destacou duas hipóteses específicas a caracterizar o vício de omissão:
+Art. 1.022, parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Sobre tais hipóteses de omissão do art. 1.022, parágrafo único, do Novo CPC, destaca-se o seguinte comentário de Daniel Amorim Assumpção, na obra intitulada Novo Código de Processo Civil Comentado:
+"O parágrafo único do dispositivo ora analisado especifica que se considera omissa a decisão que deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos (recursos especial ou extraordinário repetitivos e incidente de resolução de demandas repetitivas) ou em incidente de assunção de competência aplicável ao caso sob julgamento ou que incorra em qualquer das condutas descritas no art. 489, § 1.º, do Novo CPC, dispositivo responsável por inovadoras exigências quanto à fundamentação da decisão.
+O dispositivo na realidade não inova ou tão pouco complementa o inciso II do art. 1.022 do Novo CPC, já que as especificações presentes no dispositivo ora comentado são claras hipóteses de omissão de questões sobre as quais o juiz deve se pronunciar". (ASSUMPÇÃO. Daniel Amorim. Novo código de processo civil comentado artigo por artigo. 2ª ed. Salvador: Juspodivm, 2017)
+3. No caso em tela, em que pese os argumentos entabulados pelos embargantes, o recurso não merece acolhimento.
+Com efeito, apesar do provimento do recurso especial, verifica-se que o juízo de origem não arbitrou honorários na origem, na decisão que julgou improcedente a exceção de pré-executividade (fls. 822-835).
+Desse modo, ausente arbitramento de honorários na origem, a reversão desseprovimento nesta Corte não pode implicar o arbitramento de honorários sucumbenciais de modo originário.
+Afinal, os honorários consubstanciamprovimento acessório, e não questão autônoma do recurso especial; de modo que o não arbitramento de honorários na origem, como no caso, vincula os efeitos anexos do que julgado no STJ.
+Por conta disso, não há falar-se em omissão quanto ao não arbitramento de honorários, mesmo os sucumbenciais, por se tratar de silêncio eloquente; não tendo sido arbitrados em razão da ausência de pressuposto.
+4.Ante o exposto, não acolho os embargos de declaração.
+Publique-se. Intimem-se.
