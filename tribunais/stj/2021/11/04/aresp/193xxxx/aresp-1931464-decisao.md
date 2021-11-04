@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a ausência dedemonstraçãode contrariedade ao artigo de lei indicado (e-STJ fls. 212/213).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 191):
+APELAÇÃO. Compra e venda. Rescisão contratual c.c. devolução de valores. Sentença de parcial procedência quanto à corretora "HLP" e improcedência quanto à correquerida "Roberto Camarneiro". Insurgência dos autores. Ausência de prova de que a correquerida "Roberto" tenha participado do negócio. Improcedência mantida. Prejuízo material inexistente, na medida em que os valores despendidos com aluguel seriam, de todo modo, destinados ao pagamento de parcelas de financiamento, caso tivesse vingado o negócio. Danos morais arbitrados em montante razoável, condizente com as peculiaridades do caso. Recurso a que se nega provimento.
+Nas razões do recurso especial (e-STJ fls. 198/210), fundamentado no art. 105, III, alínea"a", da CF, os recorrentes alegaramdesrespeito ao art. 76, § 1º, II,do CPC/2015, "haja vista que o próprio código de processo civil é claro ao demonstrar que o réu será considerado revel caso não apresente os documentos necessários, mas esse fato não foi sequer mencionado na sentença e mencionado de forma genérica no acordão" (e-STJ fl. 207).
+Sem contrarrazões (e-STJ fl. 211).
+No agravo (e-STJ fls. 216/227), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Sem contraminuta(e-STJ fl. 229).
+É o relatório.
+Decido.
+De acordo com a jurisprudência do STJ, "nos termos do art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC/2015), não promove o saneamento do vício no prazo concedido"(AgInt nos EDcl no AREsp n.1.778.050/ES, RelatoraMinistra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/9/2021, DJe 22/9/2021).
+Do mesmo modo:
+AGRAVO INTERNO. RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL. CADEIA COMPLETA. AUSÊNCIA. INTIMAÇÃO. ARTS. 76 E 932, PARÁGRAFO ÚNICO, DO CPC. DESATENDIMENTO. REGULARIZAÇÃO TARDIA. IMPOSSIBILIDADE. ARESP NÃO CONHECIDO. SÚMULA N. 115/STJ.1. Interposto o recurso impugnando decisão publicada na vigência do atual Código de Processo Civil, necessária a intimação da parte para regularizar o vício de representação processual, nos termos dos artigos 76 e 932, parágrafo único, do Código de Processo Civil.
+2. Deixando a parte transcorrer o prazo sem que a representação processual seja regularizada, é inexistente o recurso dirigido a esta Casa, nos termos do enunciado n. 115 da Súmula.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.778.201/PR, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/6/2021, DJe 24/6/2021.)
+A Corte local concluiu que (e-STJ fls. 194/195):
+Sobreveio a sentença de improcedência contra a coapelada ROBERTO, já que de fato esta empresa não contratou com os apelantes ou com coapelada; e de parcial procedência contra a apelada HLP, nos termos já supra relatados, o que ensejou a interposição do presente apelo, o qual, todavia, não prospera. Com efeito, no respeitante ao pleito de decretação da revelia da coapelada ROBERTO em razão da ausência de juntada do contrato social e recolhimento das custas de mandato, de se ver que não foi conferido prazo pelo MM. juízo a quo para ser sanado o defeito, conforme determina o art. 76, da legislação adjetiva, razão pela qual não se pode, de plano, decretá-la, sob pena de nulidade.
+Como se vê, a Corte de origem, ao inadmitir a decretação da revelia da segunda agravadapor irregularidade da representação processual, ante a falta de intimação do juiz para suprir o vício em prazo razoável, não destoou do entendimento desta Corte Superior.
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+E ainda, "arevelia não importa em procedência automática dos pedidos, porquanto a presunção de veracidade dos fatos alegados pelo autor é relativa, cabendo ao magistrado a análise conjunta das alegações e das provas produzidas"(AgRg no REsp n. 590.532/SC, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/9/2011, DJe 22/9/2011).
+Na mesma linha:
+RECURSO ESPECIAL E RECURSO ESPECIAL ADESIVO. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL RURAL. RESCISÃO. INADIMPLEMENTO SUBSTANCIAL. RETORNO AO STATUS QUO ANTE. CERCEAMENTO DE DEFESA. PRECLUSÃO. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. HONORÁRIOS ADVOCATÍCIOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS NºS 5 E 7/STJ. JULGAMENTO EXTRA PETITA.
+(..)
+8. A revelia enseja presunção relativa de veracidade dos fatos narrados na inicial, podendo ser infirmada pelos demais elementos dos autos, motivo pelo qual não acarreta a procedência automática dos pedidos. (..)
+10. Recurso especial e recurso especial adesivo não providos."
+(REsp n. 1.471.838/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/6/2015, DJe 26/6/2015.)
+O Tribunal de origem concluiu pela ausência de prova mínima dos fatos constitutivos do direito dos autores, ora recorrentes, em relação à segunda agravada. Confira-se (e-STJ fl. 194):
+Isso não obstante, ainda que se admitisse a existência de qualquer nulidade processual decorrente da não apresentação de contrato social e/ou não comprovação do recolhimento da taxa de mandato, resultando na eventual revelia da apelada ROBERTO, tal fato não teria como consequência automática a total procedência da ação. Isso porque, mesmo em casos em que a revelia é decretada, com a presunção de veracidade dos fatos narrados na inicial, o magistrado é livre para decidir de acordo com a sua convicção e com a prova dos autos, não estando obrigado a entender pela total procedência da demanda. No caso em tela, não há qualquer elemento a indicar que havia autorização por parte da empresa ROBERTO para que a HLP comercializasse seus imóveis, recebesse pagamentos e, enfim, assumisse obrigações em seu nome, tampouco pela teoria da aparência, suscitada pelos apelantes. Pelo contrário, o Instrumento de Compra e Venda e o recibo juntados aos autos pelos apelantes sequer estão assinados pela empresa ROBERTO, o que torna ainda mais evidente a ausência de responsabilidade da coapelada pelos fatos.
+Assim, mesmo considerando uma eventual revelia, a improcedência da demanda em relação à coapelada ROBERTO, conforme bem consignado na sentença, é medida que se impõe.
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Por fim, a parte não se manifestou especificamente quanto aos fundamentos de que: (i) a irregularidade de representação processual somente enseja a decretação da reveliacaso a parte, devidamente intimada,deixe transcorrer in albis o prazo de regularização do vício e (ii) a decretação da revelia não implica na procedência automática da pretensão autoral.
+Caso de aplicação da Súmula n. 283/STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 40), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
