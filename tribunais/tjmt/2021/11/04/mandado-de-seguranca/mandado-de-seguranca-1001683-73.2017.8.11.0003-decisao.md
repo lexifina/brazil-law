@@ -1,0 +1,8 @@
+VISTOS ETC.
+Os autos foram distribuídos, por sorteio, inicialmente para a Exma. Desa. Nilza Maria Pôssas de Carvalho, sendo posteriormente remetidos a esta Desembargadora, em razão da suposta prevenção decorrente da análise de recursos interpostos nos autos da Recuperação Judicial no 2231-82.2018.8.11.0035.
+Todavia, não há falar em prevenção, pois os propalados recursos foram interpostos na Recuperação Judicial no 2231-82.2018.8.11.0035, que é ação autônoma, enquanto o presente recurso é proveniente dos autos da Ação Declaratória Constitutiva de Direito, Fixação de Responsabilidade Por Dívida, em Razão de Desvios de Recursos, C/C Indenização por Cobrança de Dívida, ajuizada em face do Banco Pan S.A. de no 1001683-73.2017.8.11.0003, distribuído por dependência ao processo de no 1000232-47.2016.8.11.0003, que nada se relacionada com a propalada recuperação judicial, inexistindo, portanto, relação que atraia a prevenção noticiada.
+Em se tratando de lides distintas, entendo que o caso não se amolda às disposições do art. 80, § 1o, do Regimento Interno deste Tribunal, in verbis:
+“Art. 80. [...]
+§ 1° - A distribuição do mandado de segurança, do habeas corpus, de medidas cautelares, do recurso cível e criminal, torna preventa a competência do Relator para todos os recursos ou incidentes posteriores, tanto na ação quanto na execução, referentes à mesma lide, e a distribuição do inquérito, bem como a realizada para efeito da concessão da fiança, ou de decretação da prisão preventiva, ou de qualquer diligência anterior à denúncia ou queixa, prevenirá a ação penal” (sem grifo no original).
+Pelo exposto, restituam-se os autos à douta Relatora originária para análise e deliberação.
+Cumpra-se.
