@@ -1,0 +1,13 @@
+DECISÃO
+ALEXANDRE LISBOA DA SILVA alega sofrer coação ilegal em seu direito de locomoção, em face de acórdão prolatado pelo Tribunal a quo.
+A impetrante assinala que o paciente pediu a progressão ao regime semiaberto, mas "osautos encontram-se inertes desde 24/9/2021, porque o MM Juiz do Deecrim da 9ª RAJ de São Jose dos Campos-SP determinou a vinda da Guia de Recolhimento  ..  do Processo n. 0005091-52.2004.8.26.0642" (fl. 4).
+Ocorre que "até a presente data a Guia de Recolhimento  .. não foi enviada para o Eg. Departamento Competente" (fl. 4).Explica que "o cartório da 1ª Vara Judicial da Comarca de Ubatuba" enviou o documento, equivocadamente, "para a VARA DAS EXECUÇÕES DE CARAGUATATUBA-SP" (fl. 5).
+Por isso, requer "seja detraído o período que  o paciente  permaneceu preso preventivamente", "que lhe seja concedida a progressão ao regime semiaberto" e que seja oficiado o Juiz da 1ª Vara Judicial de Ubatuba-SP, para que seja encaminhada a guia de recolhimento definitiva para o Deecrim da 9ª RAJ de São José dos Campos-SP (fl. 7).
+Decido.
+Os pedidos de detração penal e de progressão de regime não foram apreciados pelo Juiz da VEC ou pelo Tribunal de Justiça a quo. Sem causadecidida, em última ou única instância, por órgão de segundo grau, não está inaugurada a competência desta Corte prevista no art. 105 da CF.
+O incidente da execução não pode diretamente decidido por este Superior Tribunal, nem sequer de ofício, pois: "Não debatida a matéria na instância ordinária, não cabe a este Superior Tribunal de Justiça inaugurar o enfrentamento da tese, sob pena de indevida supressão de instância"(HC 400.229/SP, Rel.Ministro Nefi Cordeiro, 6ª T., DJe 8/3/2018).
+No mais, o paciente carece de interesse de agir. É de difícil compreensão o motivo pelo qual a própria defesa deixou de pedir ao Juiz da 1ª Vara Judicial de Ubatuba-SP a correção doequívoco no encaminhamento da guia de execução, quando o próprio Tribunal de Justiça salientou que não era necessário ouso do remédio constitucional para tanto, uma vez quea advogadapoderiapeticionar diretamente ao juiz.
+De toda forma, para evitar maiores prejuízos ao reeducando, é razoável, mesmo sem o conhecimento do writ, oficiarao juízo de conhecimento para que envie corretamente o documento.
+À vista do exposto, não conheço do habeas corpus, mas recomendo aoJuiz da 1ª Vara Judicial de Ubatuba-SP que, com a máxima urgência, encaminhe a guia de recolhimento do paciente aoDEECRIM DA 9ª RAJ de São José dos Campos-SP.
+Oficie-se a autoridade de primeiro grau (Juiz da 1ª Vara Judicial de Ubatuba-SP), com urgência.
+Comunique-se e intimem-se.
