@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por TAM LINHAS AÉREAS S.A.,contra decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em:26/04/2021.
+Concluso ao gabinete em:28/09/2021.
+Ação: compensatória por danos morais ajuizada por MARIO DESCHAMPS FILHO em face de JOSÉ PHILLIPE RIBEIRO DE CASTRO, em decorrência de danos advindos de agressão.
+Sentença:julgou procedente o pedido contido na petição inicial para condenar o réu a pagar ao autor a importância de R$ 30.000,00, a título de danos morais.
+Acórdão:negouprovimento à apelação interposta por JOSÉ PHILLIPE RIBEIRO DE CASTRO, nos termos da seguinte ementa:
+"Direito Civil. Responsabilidade civil. Réu que, sem qualquer motivo, desferiu diversos socos contra o autor, lesionando sua integridade física. Alegação defensiva de que o juízo de primeiro grau firmou sua convicção exclusivamente em depoimentos colhidos em inquérito policial, para cuja formação não é satisfeita a exigência do contraditório. Tese que não merece prosperar. Sentença que respalda a condenação não apenas nos mencionados depoimentos, mas sobretudo em laudo de exame de corpo de delito e em filmagem do posto de gasolina onde os fatos ocorreram, provas que não poderiam ser repetidas na fase instrutória e das quais se depreende, com absoluta clareza, a dinâmica da agressão e, a partir dela, o comportamento antijurídico do agressor. Pressupostos da responsabilidade civil demonstrados. Deficiência probatória inexistente. Recurso desprovido." (e-STJ, fl. 421)
+Embargos de declaração:opostos por Tam Linhas Aéreas S.A., foram rejeitados.
+Recurso especial:alegaviolação aos arts. 1º, 5º, 7º, 8º, 9º, 10, do CPC/2015; 884 e 944 do Código Civil. Sustenta: ofensa aos princípios da irradiação, contraditório e ampla defesa, da boa fé, da razoabilidade e proporcionalidade, ofensa à paridade de tratamento. Argumenta acerca da inépcia da inicial e da nulidade da decisão recorrida. Pugna, subsidiariamente, pela redução do "quantum" indenizatório.
+Julgamento:aplicação do CPC/2015.
+Da análise da decisão agravada, constata-se que o recursoespecialinterposto pela parte agravante foi inadmitido ante a incidênciadaSúmula7/STJ.
+No entanto, da leitura do agravo em recurso especial, oagravante alegater preenchido todos os requisitos para a interposição do recurso, repisando, no mais, todososargumentosjá expendidos norecurso especial acerca doseuinconformismo com relação ao descabimento da sua condenação ao ressarcimentos dos danos morais e da redução do seu valor, semimpugnar adequadamente, de forma clara e específica,todos os óbicesaplicados.
+Ressalte-se quedeveser demonstrada a efetiva desnecessidade do reexamena hipótese em que o Tribunal de origem declara que "O detido exame das razões recursais demonstra que o único objetivo do recurso apresentado, ao alegar a violação dos artigos infraconstitucionais, é a realização de nova análise de todo o conjunto fático-probatório dos autos, com o escopo dese obter julgado totalmente diferente do realizado. A pretensão de simples reexame de prova encontra óbice na Súmula 7 do STJ." (e-STJ fls. 707/708), oque não foi feito.
+Consoante o entendimento desta Corte, firmado à luz do princípiodadialeticidade, cumpre à parte recorrente o ônus de evidenciar, nasrazõesdo agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontualeconsistente do fundamento da decisão agravada, o conhecimento do agravoéinadmissível, a teor do disposto na Súmula 182 deste Tribunal e nosarts.932, III do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos dadecisãoagravada da forma exigida, aplicável o óbice da Súmula 182 doSTJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial,comfundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, §11, do CPC/15, majoro em 3% os honorários fixadosanteriormente às fls 425 (e-STJ).
+Previno as partes que a interposição de recurso contra esta decisão sedeclarado manifestamente inadmissível, protelatório ou improcedente,poderá acarretar na condenação ao pagamento das penalidades fixadasnosarts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
