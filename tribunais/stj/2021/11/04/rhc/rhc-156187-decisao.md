@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 128):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E CORRUPÇÃO ATIVA (ART. 33, DA LEI DE DROGAS E CAPUT ART. 333 DO CP). ALEGAÇÃO DE NULIDADE DA PRISÃO EM FLAGRANTE, COM LASTRO NA VIOLAÇÃO AO DIREITO CONSTITUCIONAL DE INVIOLABILIDADE DO DOMÍCILIO - SUPERADA - EXISTÊNCIA DE NOVO TÍTULO A JUSTIFICAR A SEGREGAÇÃO CAUTELAR - PRECEDENTES DO STJ E DESTA CORTE DE JUSTIÇA - NÃO CONHECIMENTO. INSURGÊNCIA RELATIVA À AUSÊNCIA DOS REQUISITOS DO ARTIGO 312 DO CPP - RECHAÇADA - INDÍCIOS DE AUTORIA E MATERIALIDADE DELITIVA PRESENTES - NECESSIDADE DE GARANTIR A ORDEM PÚBLICA - DECISÃO FUNDAMENTADA EM DADOS CONCRETOS. CONDIÇÕES PESSOAIS SUPOSTAMENTE FAVORÁVEIS - IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS - INAPLICABILIDADE.CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. MANUTENÇÃO DA DECISÃO QUE INDEFERIU A LIMINAR. HABEAS PARCIALMENTE CONHECIDO E, CORPUS NA PARTE CONHECIDA, DENEGADO. DECISÃO UNÂNIME.
+Consta dos autos que o recorrente foi preso em flagrante em 16/6/2021 e teve a prisão em flagrante convertida em prisão preventiva. Foi denunciado como incurso no art. 33, da Lei n.11.343/2006 e art. 333 c/c o art. 69 ambos do Código Penal.
+Sustenta que os policiais militares ingressaram no interior do apartamento do recorrente sem ordem judicial, sob a alegação de flagrante delito, sem a presença e permissão do recorrente, tendo resultado o ingresso em encontro de entorpecentes, insumos e balança de precisão. Assevera que o recorrente ostenta condições pessoais favoráveis e foi apreendida ínfima quantidade de substância entorpecente no momento da revista pessoal.
+Argumenta o impetrante, em suma, ausência dos requisitos do art. 312 do CPP, ausência de motivação concreta quanto à inadequação das medidas cautelares diversas da prisão.
+Requer liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual e o reconhecimento da nulidade das provas.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se que o presente recurso em habeas corpus émera reiteração dos pedidos contidos no conexo HC n.690.360 - SE(2021/0278510-7), cujo pedido liminar foi indeferido em 27/8/2021.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
