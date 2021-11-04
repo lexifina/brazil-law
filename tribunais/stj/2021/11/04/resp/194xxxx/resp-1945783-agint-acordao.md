@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão (fls. 866-870, e-STJ) que deu provimento ao Recurso Especial do Sindicato para estabelecer que os valores devidos a título de PSS devem integrar a base de cálculo dos juros de mora.
+A parte agravante sustenta, em suma (fls. 874-879, e-STJ):
+Ocorre, Excelência, que as parcelas devidas à União a título de contribuição ao PSS não podem compor a base de cálculo dos juros de mora, porque, neste caso, a União estaria pagando ao servidor juros de mora sobre uma verba destinada a ela própria.
+Caso os juros de mora sejam calculados, inclusive, sobre a parcela devida de PSS, ocorrerá o enriquecimento sem causa dos exequentes, que passarão a auferir juros sobre uma parcela a que eles nunca teriam acesso ou da qual nunca teriam disponibilidade econômica, pois tal parcela, ex vi legis, deve ser recolhida na fonte.
+Por isso, além de determinar a retirada dos juros de mora da base de cálculo do PSS a ser retido, é preciso também que os juros de mora sejam calculados apenas sobre os valores líquidos a que teriam acesso os exequentes à época devida, isto é, já descontados os valores que eles nunca receberiam, pois seriam retidos na fonte a título de contribuição para o PSS.
+A remuneração bruta, então, deve ser dividida em duas parcelas: valores que deveriam ser recolhidos para o PSS e valores líquidos que deveriam ter sido pagos ao servidor. Assim, faz-se necessário (i) descartar da base de cálculo dos juros a parcela dos valores que deveriam ter sido recolhidos à época para o PSS; (ii) fazer incidir os juros apenas sobre o valor líquido; (iii) atualizar monetariamente ambas as parcelas; (iv) somá-las para formar o valor bruto corrigido e corretamente remunerado com juros, e finalmente (v) calcular o valor a ser retido de PSS no saque da requisição de pagamento.
+Pleiteia, ao final, a reconsideração do decisum agravado ou a submissão do recurso à Turma.
+Impugnação às fls. 882-899, e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. CONTRIBUIÇÃO PREVIDENCIÁRIA (PSS). IMPOSSIBILIDADE DE EXCLUSÃO DO TRIBUTO DA BASE DE CÁLCULO DOS JUROS DE MORA.
+1. Em que pesem os argumentos da União, fato é que, na ocasião do cálculo dos juros de mora e da sua inscrição em precatório ou RPV, o fato gerador do PSS ainda não ocorreu.
+2. Conforme dispõe o art. 16-A da Lei 10.887/2004, o tributo somente é devido nas demandas judiciais a partir do pagamento dos valores requisitados ao ente público. Desse modo, o fato gerador da exação, no caso de valores adimplidos por meio de precatório ou RPV, somente ocorre no momento do pagamento ao beneficiário ou ao seu representante legal, ocasião na qual a instituição financeira tem o encargo de proceder à retenção na fonte.
+3. Nesse sentido, antes da ocasião do pagamento, seja na via administrativa, seja na via judicial, não há ainda tributo devido pelo credor da Fazenda Pública. Portanto, a pretensão da União de proceder à exclusão do PSS da base de cálculo dos juros de mora acarreta indevida antecipação do fato gerador, sem nenhum respaldo legal.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 8.9.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignado no decisum agravado, o Tribunal de origem consignou (fl. 646, e-STJ):
+Em relação ao tema, a Segunda Turma deste Tribunal tem o entendimento de que os juros de mora não devem incidir sobre a parcela do PSS, uma vez que tal verba não pertence aos exequentes, e sim ao Ente Público, sob pena de autorizar o enriquecimento sem causa dos contribuintes da referida exação (contribuição ao PSS). A propósito: TRF5, 2ª T., PJE 0806655-75.2020.4.05.0000, rel. Des. Federal Paulo Cordeiro, julg. em 02/09/2020; TRF5, 2ª T., PJE 0806219-53.2019.4.05.0000, rel. Des. Federal Leonardo Carvalho, julg. em 06/08/2019.
+Ademais, "é certo que o eg. STJ, no julgamento do REsp 1.239.203/PR, em sede de recurso repetitivo, firmou entendimento sobre a incidência do PSS, afastando a exação no que se refere à parcela recebida a título de juros de mora, face seu caráter indenizatório (art. 49, I e § 1º, da Lei 8.112/90). Entretanto, no caso em tela, trata-se de matéria diversa, atinente à incidência de juros sobre o PSS, com a determinação de exclusão do valor devido a título de PSS, da base de cálculo dos juros de mora, uma vez que a parcela do PSS não pertence aos exequentes, e sim ao ente público, sob pena de ocorrência do vedado enriquecimento sem causa" (TRF5, 2ª T., PJE 0812206-41.2017.4.05.0000, rel. Des. Federal Paulo Cordeiro, julg. em 02/09/2020).
+Ante o exposto, NEGO PROVIMENTO ao agravo de instrumento.
+O acórdão recorrido está em dissonância do entendimento do STJ sobre o tema, no sentido de que a pretensão "de proceder à exclusão da contribuição previdenciária da base de cálculo dos juros de mora acarreta indevida antecipação do fato gerador, sem nenhum respaldo legal" (REsp 1.759.572/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 17/11/2020).
+Em que pesem os argumentos da União, fato é que, na ocasião do cálculo dos juros de mora e da sua inscrição em precatório ou RPV, o fato gerador do PSS ainda não ocorreu.
+Conforme dispõe o art. 16-A da Lei 10.887/2004, o tributo somente é devido nas demandas judiciais a partir do pagamento dos valores requisitados ao ente público.
+Desse modo, o fato gerador da exação, no caso de valores adimplidos por meio de precatório ou RPV, somente ocorre no momento do pagamento ao beneficiário ou ao seu representante legal, ocasião na qual a instituição financeira tem o encargo de proceder à retenção na fonte.
+Nesse sentido, antes da ocasião do pagamento, seja na via administrativa, seja na via judicial, não há ainda tributo devido pelo credor da Fazenda Pública.
+Portanto, a pretensão da União de proceder à exclusão do PSS da base de cálculo dos juros de mora acarreta indevida antecipação do fato gerador, sem nenhum respaldo legal.
+A propósito:
+ADMINISTRATIVO. RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA (PSS). ART. 16-A DA LEI N. 10.887/2004. IMPOSSIBILIDADE DE EXCLUSÃO DO TRIBUTO DA BASE DE CÁLCULO DOS JUROS DE MORA. INDEVIDA ANTECIPAÇÃO DO FATO GERADOR. RECURSO PROVIDO.
+1. Cinge-se a controvérsia a saber se os valores devidos a título de contribuição previdenciária do servidor público (PSS) devem ou não ser excluídos da base de cálculo dos juros moratórios.
+2. Necessário esclarecer que a matéria aqui discutida é distinta da tratada no julgamento do Recurso Especial n. 1.239.203/PR (Tema 501), pois, nesse julgado, tratou-se da possibilidade de incidência de PSS sobre os juros moratórios.
+3. Conforme dispõe o art. 16-A da Lei n. 10.887/2004, o tributo somente é devido nas demandas judiciais a partir do pagamento dos valores requisitados ao ente público.
+4. Desse modo, o fato gerador da exação, no caso de valores adimplidos por meio de precatório ou RPV, somente ocorre no momento do pagamento ao beneficiário ou ao seu representante legal, ocasião na qual a instituição financeira tem o encargo de proceder à retenção na fonte. No mesmo sentido, é o Parecer Normativo COSIT n. 1, de 18 de abril de 2016, da Receita Federal do Brasil.
+5. Assim, antes da ocasião do pagamento, seja na via administrativa, seja na via judicial, não há ainda tributo devido pelo credor da Fazenda Pública.
+6. Portanto, a pretensão da recorrida de proceder à exclusão da contribuição previdenciária da base de cálculo dos juros de mora acarreta indevida antecipação do fato gerador, sem qualquer respaldo legal. Precedente: AgInt no REsp 1.890.339/PE, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/3/2021, DJe 19/3/2021..
+7. Recurso especial provido para estabelecer que os valores devidos a título de PSS devem integrar a base de cálculo dos juros de mora..
+(REsp 1805918/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 09/06/2021)
+ADMINISTRATIVO. CONTRIBUIÇÃO PREVIDENCIÁRIA (PSS). IMPOSSIBILIDADE DE EXCLUSÃO DO TRIBUTO DA BASE DE CÁLCULO DOS JUROS DE MORA.
+1. Em que pesem os argumentos da União, fato é que, na ocasião do cálculo dos juros de mora e da sua inscrição em precatório ou RPV, o fato gerador do PSS ainda não ocorreu.
+2. Conforme dispõe o art. 16-A da Lei 10.887/2004, o tributo somente é devido nas demandas judiciais a partir do pagamento dos valores requisitados ao ente público. Desse modo, o fato gerador da exação, no caso de valores adimplidos por meio de precatório ou RPV, somente ocorre no momento do pagamento ao beneficiário ou ao seu representante legal, ocasião na qual a instituição financeira tem o encargo de proceder à retenção na fonte.
+3. Nesse sentido, antes da ocasião do pagamento, seja na via administrativa, seja na via judicial, não há ainda tributo devido pelo credor da Fazenda Pública. Portanto, a pretensão da União de proceder à exclusão do PSS da base de cálculo dos juros de mora acarreta indevida antecipação do fato gerador, sem qualquer respaldo legal.
+4. Agravo não provido.
+(AgInt no REsp 1890339/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/03/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA COLETIVA. PSS INCORPORAÇÃO. JUROS MORATÓRIOS. BASE DE CÁLCULO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto pela União contra a decisão que, nos autos da execução de sentença coletiva, na qual foi condenada a incorporar o adiantamento PSS aos salários dos servidores, afastou a prescrição, a incidência dos juros sobre a parcela do PSS e a forma do cálculo da correção monetária. No Tribunal a quo, a decisão foi mantida. Nesta Corte, negou-se provimento ao recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que eventual desconto do PSS sobre a base de cálculo dos juros moratórios implicaria a indevida antecipação do fato gerador do tributo. Nesse sentido: (REsp n. 1.759.572/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/10/2020, DJe 17/11/2020).
+III - Verifica-se que o acórdão recorrido encontra-se alinhado com a jurisprudência desta Corte Superior, confira-se (fls. 112-113): "(..) Com efeito, do art. 16-A, da Lei nº 10.887/2004, com a redação da Lei nº 12.350/2010, deflui que o crédito reconhecido judicialmente ao exequente apenas sofre a incidência da contribuição previdenciária (PSS), por ocasião do pagamento do precatório ou requisição de pequeno valor, não sendo possível o abatimento da parcela antecedentemente ao adimplemento, donde a conclusão de que não é possível se deduzir o PSS antes do cômputo dos juros de mora."
+IV - Agravo interno improvido.
+(AgInt no REsp 1882116/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 10/06/2021)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
