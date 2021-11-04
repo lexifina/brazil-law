@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+CIVIL E PROCESSO CIVIL. CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PACOTE TURÍSTICO INTERNACIONAL DISNEY E NEW YORK. ENFERMIDADE APRESENTADA PELO MENOR DURANTE A VIAGEM. FALHA NA PRESTAÇÃO DO SERVIÇO. ASSISTÊNCIA MÉDICA DEFICIENTE. RESPONSABILIDADE OBJETIVA. DANOS MORAIS CONFIGURADOS. DANO MATERIAL DEVIDAMENTE COMPROVADO. ASSUNÇÃO DE NOVOS GASTOS PELOS GENITORES DO MENOR. QUANTUM INDENIZATÓRIO MANTIDO. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram acolhidos pelo Tribunal de origem, adotando-se a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE CONTRADIÇÃO. OCORRÊNCIA. NECESSIDADE DE LIMITAÇÃO DO RESSARCIMENTO DOS DANOS MATERIAIS AO PEDIDO DA INICIAL. EMBARGOS DE DECLARAÇÃO CONHECIDO E PROVIDO.
+Opostos segundos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a agravante violação do artigo 1.022 do Código de Processo Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos segundos embargos de declaração sem suprimento das omissões referentes ao argumento do pedido contido na inicial não incluir o ressarcimento das passagens aéreas utilizadas pelos genitores/autores no trecho Natal/São Paulo/Natal.
+Assim delimitada a controvérsia, passo a decidir.
+De início, observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/15. Isso porque, embora rejeitados os embargos de declaração, as matérias em exame foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante, sobre as questões expostas no recurso de apelação.
+Com efeito, a Corte local apresentou a seguinte fundamentação (fls. 299-300, e-STJ):
+Ante o exposto, resta devidamente comprovado a existência de dano a ser indenizado em razão da falha na prestação do serviço médico, a despeito da previsão contratual de seguro saúde, agravado pelo não repasse de informações precisas da situação para os responsáveis do menor.
+Dessa forma, configurada a presença dos requisitos necessários para a configuração do dever de indenizar, deve a empresa ré reparar os prejuízos sofridos pelo autor em decorrência do ilícito que praticou.
+No que tange aos danos materiais, assiste razão o magistrado ao determinar a devolução de 2/3 do pacote turístico contratado, bem como dos valores atinentes às passagens aéreas do menor e seus genitores.
+Ora, o montante atribuído reflete a razoabilidade que o caso exige, uma vez que o menor, embora tenha permanecido no exterior durante sete dias, não usufrui adequadamente os serviços contratados, pois a partir do terceiro dia de passeio contraiu doença e, sobretudo pela assistência médica defeituosa, não aproveitou de maneira efetiva a viagem.
+Além disso, em que pese a Agencia Aerotur Ltda ter sustentado que as passagens acercas usufruídas pelo adolescente correspondem a 85% do montado contrato, inexistenos autos qualquer prova nesse sentido.
+Nesse ponto, também descabe falar que os genitores do autor se dirigiram a São Paulo por liberalidade e que o prejuízo foi suportado em virtude de descumprimento de cláusula contratual, pois a autorização do retorno do menor só foi efetuada mediante declaração assinada pelos responsáveis (fl. 42) em que se comprometeram a recepcionar o filho no guichê da TAM em São Paulo.
+Sendo assim, as despesas referentes aos bilhetes aéreos dos genitores com destino a São Paulo devemser inclusas na reparação material, visto que os gastos também decorreram da prestação defeituosa do serviço.
+O Tribunal de origem se manifestou, ainda, nos primeiros embargos declaratórios com efeitos integrativos, nos seguintes termos (fl. 317, e-STJ):
+Compulsando os autos, percebe-se da exordial que o embargado fez pedido certo para o ressarcimento de danos materiais no valor de R$ 12.025,74 (doze mil e vinte e cinco reais e setenta e quatro centavos), relativos a todas as despesas de aquisições de passagens.
+Nesse sentido, em razão do princípio da congruência, a condenação pelos danos materiais deve ser fixada no valor comprovado nos autos e pedido na inicial (..)
+Dessa forma, não há que falar, no caso, em negativa de prestação jurisdicional, visto que a Câmara julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção, com base nos elementos de prova que entendeu pertinentes.
+De todo modo, rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
