@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo interno interposto por NIMIA CANDELARIA ARZE CORTEZ e LEOPOLD GERHARD WEISS contra decisão singular, da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos do artigo 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), em razão da intempestividade do agravo em recurso especial, nos seguintes termos (e-STJ fls. 685/686):
+ ..
+Mediante análise do recurso de NIMIA CANDELARIA ARZE CORTEZ e OUTRO, a parte recorrente foi intimada da decisão agravada em 31/03/2021, sendo o agravo somente interposto em 26/04/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+ ..
+Não foram opostos embargos de declaração.
+Sustenta a parte agravante que (e-STJ fls. 690/692):
+ ..
+Os Agravantes, em tópico específico informaram no corpo do referido recurso (e-STF FL. 598) acerca dos feriados  ..
+Os Recorrentes também juntaram a tabela de feriados do Tribunal de Justiça de Mato Grosso do Sul (e-STJ FL. 604/608)  ..
+Conforme se verifica, são feriados contabilizados pelo TJMS os dias 01, 02 e 21 de abril.
+A referida decisão proferida negando seguimento ao Recurso Especial, foi publicada em 31 de março de 2021. Considerando os feriados dos dias 01, 02 e 21 de abril, o prazo para interposição do Agravo de Recurso Especial, findava-se em 26 de abril de 2021, por tanto tempestivo.
+ ..
+Assim resta comprovado a tempestividade do Recurso Especial, bem como a juntada do calendário oficial do Tribunal de Justiça de Mato Grosso do Sul (e-STJ FL. 604/608).
+ ..
+Por fim, requerem o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado (e-STJ fls. 688/693).
+Transcorreu in albis o prazo para impugnação, conforme certidão de fl. 699 (e-STJ).
+Com efeito, consoante o disposto nos artigos 219 e 1.003, § 5º, do Código de Processo Civil de 2015, o prazo para a interposição de qualquer recurso, excetuados os embargos de declaração, é de 15 (quinze) dias úteis.
+No caso concreto, observo que o agravo em recurso especial se revela tempestivo, haja vista que a decisão de inadmissão do recurso especial (e-STJ fls. 594/595) foi publicada em 31/3/2021, quarta-feira (e-STJ fl. 596). Por conseguinte, o prazo para interposição do agravo em recurso especial de quinze dias iniciou-se em 5/4/2021, segunda-feira, e encerrou-se em 26/4/2021, segunda-feira.
+Verifico, portanto, que o agravo em recurso especial foi protocolado em 26/4/2021, segunda-feira (e-STJ fls. 597/603), e, portanto, a tempo.
+Assim, reconsidero a decisão de fls. 685/686 (e-STJ) e passo à análise do agravo em recurso especial.
+Cuida-se de agravo, nos próprios autos, de NIMIA CANDELARIA ARZE CORTEZ e LEOPOLD GERHARD WEISS, objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado de Mato Grosso do Sul, em face de acórdão assim ementado (e-STJ fl. 534):
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E PERDAS E DANOS - COMPROMISSO DE COMPRA E VENDA - AUSÊNCIA DE NULIDADE NA FORMA VERBAL - INADIMPLEMENTO INCONTROVERSO - RESCISÃO COM RETORNO DAS PARTES AO STATUS QUO ANTE - DEVOLUÇÃO DO VALOR PAGO MEDIANTE RESTITUIÇÃO DO IMÓVEL COMPENSADA A FRUIÇÃO - IPTU - OBRIGAÇÃO PROPTER REM - DANOS MORAIS - NÃO CONFIGURADOS - MERO DESCUMPRIMENTO CONTRATUAL - RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. O compromisso de compra e venda possui natureza de contrato preliminar, que admite a forma verbal (art. 462 do CC), sendo válido e exigível entre as partes, se firmados por agentes capazes e lícito o objeto, o que se verifica na hipótese dos autos. 2. Independentemente da ausência de provas da alienação do imóvel pelo preço indicado pelo autor na inicial, resta incontroverso nos autos que não houve quitação total do preço avençado, ainda que considerado o preço indicado pelos réus, os quais não apresentaram reconvenção ou ajuizaram ação própria para consignar a diferença inadimplida, o que torna inarredável a mora quanto ao pagamento total do preço para aquisição do imóvel e impõe a rescisão do contrato preliminar de promessa de compra e venda por culpa exclusiva dos devedores. 3. Como consequência da rescisão, devem as partes retornarem ao status quo ante, de modo que o autor/apelante deve ser reintegrado na posse do imóvel, mediante devolução do preço recebido acrescido de juros de mora de 1% ao mês a contar da citação e correção monetária mensal pelo IGPM desde o recebimento. 4. Para que não haja enriquecimento ilícito dos réus pelo tempo de posse do imóvel, ficam condenados ao pagamento de fruição. 5. Com a resolução contratual e retorno ao status quo ante, o imóvel volta para ao patrimônio do autor, constituindo-se o IPTU em obrigação propter rem compete a ele (vendedor) o pagamento. 6. Não tem cabimento a condenação em indenização por danos morais, porque consoante jurisprudência já consolidada no Superior Tribunal de Justiça, aborrecimentos decorrentes do descumprimento contratual não ensejam a reparação a este título.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 675/679).
+Sustentam estarem presentes os pressupostos de admissibilidade do recurso especial (e-STJ fls. 597/603).
+Com contraminuta (e-STJ fls. 612/630), os autos foram encaminhados a esta Corte.
+No recurso especial, fundado no artigo 105, III, "a", da Constituição Federal, a parte recorrente aponta violação ao artigo 476 do Código de Processo Civil de 2015 (e-STJ fls. 556/564).
+Com contrarrazões (e-STJ fls. 574/592).
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+De pronto, verifico a ausência de requisito extrínseco de admissibilidade, relativo à regularidade formal do agravo interposto.
+Com efeito, à luz do princípio da dialeticidade, constitui ônus da parte recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de modo a amparar a pretensão deduzida no recurso, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, na esteira do entendimento jurisprudencial consagrado na Súmula n. 182/STJ, o inciso III do artigo 932 do mencionado estatuto processual prevê expressamente o não conhecimento do agravo que não tenha atacado especificamente os fundamentos da decisão que não admitiu, na origem, o recurso especial.
+Ao que se tem dos autos, a decisão agravada negou seguimento ao recurso especial, firmada nos fundamentos deincidência das Súmulas n. 5 e 7do Superior Tribunal de Justiça, segundo as quais, respectivamente, "A simples interpretação de cláusula contratual não enseja recurso especial" e"A pretensão de simples reexame de prova não enseja recurso especial"(e-STJ fls. 594/595).
+As razões do agravo, entretanto, limitam-se a repisar as alegações do recurso especial(e-STJ fls. 597/603), não impugnando, de forma específica,os fundamentos adotadosna decisão agravada, impondo-se, de rigor, o não conhecimento do recurso.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+ ..
+IV - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+V - Agravo interno não conhecido.
+(AgInt nos EAREsp n. 1.198.210/DF, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 23/3/2021, DJe 26/3/2021).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC.
+1. Cuida-se, na origem, de ação de rescisão de contratos de fornecimento de combustíveis, comodato e outras avenças, cumulada com pedido de indenização por perdas e danos.
+2. Não merece conhecimento o agravo interno que não impugna especificamente todos os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+(AgInt nos EREsp n. 1.540.423/DF, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 20/8/2019, DJe 22/8/2019).
+Saliente-se que " ..  o agravante deve demonstrar o desacerto da decisão denegatória, sendo certo que a repetição das razões de recursos anteriores é ineficaz para tal fim  .. " (AgRg nos EDcl no AREsp n. 718.211/MG, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 24/5/2016, DJe 1º/6/2016).
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento do requisito exigido no artigo 544, § 4º, I, do Código de Processo Civil de 1973 (correspondente ao artigo 932, III, do estatuto processual civil de 2015).
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. MORA. OCORRÊNCIA. NULIDADE DA CLÁUSULA QUE ESTIPULOU PRAZO DE TOLERÂNCIA POR ATÉ 180 DIAS ÚTEIS. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. DANOS MORAIS. ÔNUS DA SUCUMBÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III do Código de Processo Civil de 2015.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.683.413/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/5/2018, DJe 25/5/2018).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. REVISÃO DO JULGADO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. NÃO PROVIMENTO.
+ ..
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.360.316/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/7/2019, DJe 7/8/2019).
+Frise-se que, ante o seu caráter incindível, todos os fundamentos da decisão agravada devem ser objeto de impugnação específica pela parte agravante. Nesse sentido, cita-se o recente julgado da Corte Especial, que veio a confirmar a jurisprudência já sedimentada nesta Corte acerca do artigo 544, § 4º, I, do Código de Processo Civil de 1973:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018 - sem destaques no original).
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do Superior Tribunal de Justiça.
+Em face do exposto, não conheço do agravo, porquanto não atacados especificamente os fundamentos da decisão agravada e, ainda,deixo de majorar os honorários nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, visto que não houve a condenação ao pagamento de honorários na origem.
+Intimem-se.
