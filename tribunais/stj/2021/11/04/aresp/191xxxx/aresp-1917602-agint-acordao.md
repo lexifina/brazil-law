@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão (Presidente), Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por PDG REALTY S/A EMPREENDIMENTOS E PARTICIPACOES, contra decisão monocrática de fls. 517-520e-STJ, da Presidência desta Corte, que negou provimento ao agravo em recurso especial dos ora agravantes.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do dispositivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 393, e-STJ):
+COMPROMISSO DE VENDA E COMPRA- Ação declaratória c. c. indenização pordanos materiais e morais, proposta poradquirente de imóvel, com base em atrasona entrega do empreendimento por culpadas alienantes e suposta cobrança indevida - Sentençade parcialprocedênciacondenando as rés a pagar à autora, a títulode lucros cessantes, a quantia equivalente a 6% ao ano do valor de mercado do imóvel,computando-se o período compreendidoentre o término do prazo adicional de 180dias até a efetiva ciência da expedição do "habite-se" - Inconformismo de ambas as partes - Autora que insiste nas teses iniciais,pugnando pela inversão da cláusula penal,cabimento da restituição da taxa SATI e pagamento de indenização por danos morais- Rés que aduzem ilegitimidade passiva,decisão extra petita, insurgindo-se quanto ao reconhecimento da mora, defendendo casofortuito ou de força maior, bem comoausênciade comprovaçãodosdanos,insurgindo-se quanto ao termo inicial do período a ser indenizado - Legitimidadepassiva ad causa reconhecida - Sentençaextra petita - Inocorrência - Taxa SATI - Incidência da prescrição trienal - (REsp1.599.511/SP) - Atraso comprovado - Lucros cessantes devidos, termo inicialajustado para o período compreendido entreo término do prazo de tolerância até a efetiva entrega do imóvel - Cumulação da multa contratual e danos materiais - Impossibilidade, sob pena de bis in idem - Aplicação do decidido pelo STJ quando do exame do Tema 970 - Entendimentoadotado quando do julgamento do REsp 1.614.721-DF - Acolhimento dos danosmorais - Fixação no montante de R$10.000,00 - Apelos parcialmente providos.
+Sem oposição de embargos de declaração.
+Nas razões de recurso especial (fls. 438-450, e-STJ), asrecorrentes apontam, além de divergência jurisprudencial,violação aosarts. 186 e 927 do CC, argumentando a inexistência de danos morais no caso dos autos.
+Em decisão monocrática, a Presidência dessa Corte negou provimento ao reclamo ante a incidência das Súmulas 7 do STJ e 282 e 256 do STF.
+No presente agravo interno (e-STJ, fls. 523-532), as partes agravantes sustentam a inaplicabilidade dos referidos óbices.
+Impugnação às fls. 535-538, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1.Para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1.Cinge-se a controvérsia recursal quanto à existência dos danos morais, argumentam as recorrentes que o acórdão reconheceu o dano moral como in re ipsa e que não houve comprovação.
+O Tribunal de origem, com base nos elementos fático-probatórios acostados aos autos, asseverou que houve a demonstração da ocorrência de danos morais indenizáveis, ao contrário do que afirmam as recorrentes, não houve o reconhecimento dos danos morais in re ipsa esim pelo longo tempo decorrido de atraso da obra.
+Confira-se o seguinte excerto do acórdão recorrido (fl. 408, e-STJ - sem grifos no original):
+Com relação aos danos morais, tratando-se de bem jurídico tutelado decorrente do direito de moradia, do qual a compradora foi privado por razões unicamente imputáveis às rés, não há dúvidas de que a situação supera em muito o mero aborrecimento, até mesmo pelo longo tempo decorrido e a necessidade de socorro à via judicial para a obtenção das chaves.
+Nessas condições, fixo a indenização por danos morais, em R$ 10.000,00, levando-se emconsideração as particularidades do caso concreto, assim comoo mesmo escopo de punir o infrator, como forma de evitar a reiteração faltosa, sem configurar forma de enriquecimentodespropositado do ofendido.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. RETENÇÃO DA UNIDADE. SÚMULAS N. 5 E 7 DO STJ. CULPA CONCORRENTE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA.
+ ..
+7. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que a parte agravada foi exposta teria ultrapassado o mero dissabor. Alterar esse entendimento demanda o reexame de provas, inviável em recurso especial.
+8. "A incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018).
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1118025/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020) - grifou-se.
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. COMPROMISSO DE COMPRA E VENDA. ATRASO PARA ENTREGA DE UNIDADE IMOBILIÁRIA. CASO FORTUITO OU FORÇA MAIOR. NÃO OCORRÊNCIA. REVISÃO DO JULGADO.IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. DANO MORAL. OCORRÊNCIA. JULGAMENTO "EXTRA PETITA". NÃO OCORRÊNCIA.
+ ..
+4. Existência de julgados no âmbito do Superior Tribunal de Justiça no sentido de que o atraso da promitente vendedora em entregar o imóvel no prazo contratual, injustificadamente, não acarreta, por si só, danos morais.
+5. Por outro lado, a jurisprudência do Superior Tribunal de Justiça entende cabível a indenização por danos morais, nos casos de atraso na entrega do imóvel, quando este ultrapassar o limite do mero dissabor.
+6. Na hipótese dos autos, o Tribunal de Justiça reconheceu a existência de dano moral em razão de o atraso na entrega do imóvel ter perdurado por mais de dois anos.
+7. Conforme a jurisprudência do Superior Tribunal de Justiça, se a controvérsia é decidida dentro dos limites delineados na petição inicial, não há falar em julgamento extra, citra ou ultra petita.
+8. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+9. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt nos EDcl no REsp 1764598/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020) - grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Pretensão de reconhecimento da ilegitimidade passiva ad causam da ré que encontra óbice na Súmula 7 desta Corte, porquanto necessário reexaminar o arcabouço fático-probatório dos autos.
+2. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico.
+2.1. No caso sub judice, o Tribunal de origem consignou expressamente estar comprovada a aflição suportada pelo promitente-comprador e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+2.2. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. O Superior Tribunal de Justiça, afastando a incidência do referido óbice, tem reexaminado o montante fixado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+4. Agravo interno desprovido.
+(AgInt no REsp 1867282/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/08/2020, DJe 04/09/2020) - grifou-se
+Inafastável, portanto, o óbice da Súmula 7/STJ.
+Importante consignar, por fim, que esta Corte de Justiça entende ser cabível a aplicação do quanto enunciado na Súmula 7/STJ também como óbice ao conhecimento do dissídio jurisprudencial, na medida em que, dada a ausência de similitude fática entre o acórdão paradigma e o recorrido, a divergência entre os julgados tem origem em quadros fáticos distintos, não em teses jurídicas opostas.Nesse sentido, precedentes: AgRg no AREsp 833.843/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 06/12/2018; REsp 1738928/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, , DJe 14/02/2019; AgInt no AREsp 1344970/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 28/03/2019; e AgInt no AREsp 1386774/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 08/04/2019.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
