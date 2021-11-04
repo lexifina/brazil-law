@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo contra decisão que negou seguimento ao Recurso Especial interposto contra o acórdão assim ementado:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU E TAXAS (2014 - 2015). PEDIDO DE EXTINÇÃO PELO RELANÇAMENTO DOS CRÉDITOS TRIBUTÁRIOS. CONDENAÇÃO DO MUNICÍPIO AO PAGAMENTO DAS CUSTAS PROCESSUAIS. MANUTENÇÃO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. VARA ESTATIZADA. AUSÊNCIA DE LEGISLAÇÃO LOCAL QUE ISENTE A FAZENDA PÚBLICA. SÚMULA 72 DESTE TRIBUNAL DE JUSTIÇA.
+INAPLICABILIDADE DOS ART. 26 DA LEI DE EXECUÇÕES FISCAIS. HIPÓTESE QUE CONFIGURARIA ISENÇÃO HETERÔNOMA.EXCLUSÃO DO VALOR DA TAXA JUDICIÁRIA. ART. 3º, "I", DO DECRETO ESTADUAL Nº 962/1932.SENTENÇA REFORMADA EM PARTE.
+RECURSO PROVIDO EM PARTE.
+A parte ora agravante, nas razões de Recurso Especial, apontou divergência jurisprudencial e violação aos arts.26 e 39 da Lei 6.830/1980. Sustenta:
+Vejamos a jurisprudência aplicável do STJ que permite a reforma da r. decisão apelada, eis que o Sistema Processual vigente exonera a Fazenda Pública Municipal INCLUSIVE, de arcar com quaisquer despesas, pro domo sua, quando litiga em juízo, suportando, apenas, as verbas decorrentes da sucumbência (artigos 27 e 1.212, parágrafo único, do CPC). Destarte, tratando-se de execução fiscal, como no presente caso, é textual a lei quanto à exoneração do pagamento das custas e emolumentos, consoante se colhe do artigo 26 da Lei nº 6.830/80. (RESP. 843.222-PR). (fl. 76, e-STJ)
+O Recurso Especial teve sua admissibilidade negada por intempestividade (fls. 86-88, e-STJ), o que ensejou o presente Agravo.
+É o relatório.
+Decido
+Os autos foram recebidos nesse Gabinete em 20.8.2021.
+Mediante análise do recurso do Município de Londrina, o ente público foi intimado pessoalmente do acórdão recorrido em2.3.2021 (fl. 71), sendo o Recurso Especial somente interposto em 23.4.2021.
+Na decisão que inadmitiu o Recurso Especial, por intempestividade, ficou consignado (fl. 86, e-STJ):
+Verifica-se que não houve comprovação do feriado local previsto no Decreto Judiciário nº 597/2020 (01.04.2021 - quinta-feira santa), no ato da interposição do recurso, conforme prevê o artigo 1.003, § 6º, do Código de Processo Civil. Portanto, a petição recursal juntada em 23.04.2021 está intempestiva.
+Com efeito, a norma do art. 1.003, § 6º, do CPC é especial e, portanto, prevalece sobre o art. 932, parágrafo único, do CPC. Assim, a tempestividade do recurso deve ser comprovada no ato de sua interposição, não se aplicando a concessão do prazo suplementar de cinco dias para regularizar vício sanável.
+No julgamento do REsp 1.813.684/SP, a Corte Especial modulou os efeitos da referida regra para permitir a comprovação posterior da tempestividade do Recurso Especial interposto até a publicação do respectivo acórdão. Em Questão de Ordem, entretanto, ratificou-se que a modulação dos efeitos vale exclusivamente para os casos em que o feriado local corresponder à segunda-feira de Carnaval, situação distinta da destes autos.
+Assim, para os demais feriados locais, portanto, aplica-se a jurisprudência existente (é intempestivo o REsp interposto, na vigência do novo CPC, sem a comprovação imediata de sua tempestividade. Nesses casos, não caberá a abertura de prazo para comprovação posterior).
+A Corte Especial do STJ, no julgamento do AgInt no AREsp 957.821/MS, realizado na sessão de 20 de novembro de 2017, ao interpretar os arts. 932, parágrafo único, e 1.003, § 6º, do CPC de 2015 e os princípios consagrados pelo novo Código, firmou a orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", de maneira que fica inviabilizada a apresentação de documento hábil em momento posterior para demonstrar sua tempestividade.
+Assim, a quarta-feira de cinzas, os dias que precedem a Sexta-Feira da Paixão e o de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado por meio de documento idôneo, no momento de interposição do recurso, o ato normativo local com essa previsão.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo.
+Publique-se.
+Intimem-se.
