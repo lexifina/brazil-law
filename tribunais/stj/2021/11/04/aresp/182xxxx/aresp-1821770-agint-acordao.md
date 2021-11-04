@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 502-505, e-STJ) que negou provimento ao Recurso Especial.
+A parte agravante refuta os fundamentos da decisão objurgada.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. OMISSÃO NÃO CONFIGURADA. ANS. PLANO DE SAÚDE. SERVIÇO DE ANESTESISTA. NEGATIVA DE REEMBOLSO INTEGRAL. REGULARIDADE DA MULTA APLICADA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se configurou a ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. No mérito, o Tribunal de origem consignou (e-STJ, fls. 389-390): "O termo inicial da contagem de juros de mora é o término do prazo previsto para o pagamento voluntário, quando o devedor ciente da existência do débito opta por pagar ou impugnar a cobrança. A interposição do recurso administrativo não altera a data de vencimento da dívida, nem afasta os encargos que incidem sobre ela. A dívida e todas as obrigações decorrentes dela ficam suspensas até o final do processo administrativo. Nesse sentido são os precedentes: STJ/REsp 1411979/RS, rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJ-e 05/08/2015; TRF2/AC 0154356-85.2017.4.02.5101, rel. Des. Fed. RICARDO PERLINGEIRO, QUINTA TURMA ESPECIALIZADA, DJ-e 26/10/2018; e TRF2/AC 00081853920174020000, rel. Des. Fed. LUIZ PAULO DA SILVA ARAUJO FILHO, SÉTIMA TURMA ESPECIALIZADA, DJ-e 13/03/2018. No caso dos autos, a CDA de fls. 41 informa que o vencimento da obrigação se deu em 03/10/2014, sendo esse o temo inicial para a incidência dos juros moratórios. A constituição definitiva do crédito ocorreu em setembro/2015 (fl. 373), com o encerramento do procedimento administrativo inaugurado pelo executado, somente nesse momento o crédito pode ser cobrado. O crédito inscrito em 30/05/2016, acrescentou o encargo de 20% previsto no art. 37-A, §1º, da Lei nº 10.522/02, incluído pela Lei n.º 11.941/09".
+3 É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 20.8.2021..
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, não se configurou a ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+No mérito, o Tribunal de origem consignou (e-STJ, fls. 389-390):
+O termo inicial da contagem de juros de mora é o término do prazo previsto para o pagamento voluntário, quando o devedor ciente da existência do débito opta por pagar ou impugnar a cobrança. A interposição do recurso administrativo não altera a data de vencimento da dívida, nem afasta os encargos que incidem sobre ela. A dívida e todas as obrigações decorrentes dela ficam suspensas até o final do processo administrativo.
+Nesse sentido são os precedentes: STJ/REsp 1411979/RS, rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJ-e 05/08/2015; TRF2/AC 0154356-85.2017.4.02.5101, rel. Des. Fed. RICARDO PERLINGEIRO, QUINTA TURMA ESPECIALIZADA, DJ-e 26/10/2018; e TRF2/AC 00081853920174020000, rel. Des. Fed. LUIZ PAULO DA SILVA ARAUJO FILHO, SÉTIMA TURMA ESPECIALIZADA, DJ-e 13/03/2018.
+No caso dos autos, a CDA de fls. 41 informa que o vencimento da obrigação se deu em 03/10/2014, sendo esse o temo inicial para a incidência dos juros moratórios.
+A constituição definitiva do crédito ocorreu em setembro/2015 (fl. 373), com o encerramento do procedimento administrativo inaugurado pelo executado, somente nesse momento o crédito pode ser cobrado. O crédito inscrito em 30/05/2016, acrescentou o encargo de 20% previsto no art. 37-A, §1º, da Lei nº 10.522/02, incluído pela Lei n.º 11.941/09.
+Deste modo, reafirmo que, é inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
