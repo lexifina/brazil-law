@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão assim ementado (fl. 816, e-STJ):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA.
+1. Hipótese em que o acórdão embargado afirmou: "O Superior Tribunal de Justiça tem jurisprudência pacífica no sentido de que a ponderação sobre a razoabilidade do reajuste da taxa SISCOMEX em comparação com os custos de investimentos realizados no sistema demanda revisão de fatos e provas, o que esbarra no óbice da Súmula 7/STJ" (fl. 790, e-STJ).
+2. Cumpre ressaltar que há precedentes do Supremo Tribunal Federal que caminham no sentido de considerar inconstitucional a própria delegação contida no art. 3º, § 2º, da Lei 9.716/1998, em razão de não haver ali a fixação de limite máximo dentro do qual o regulamento poderia reajustar a cobrança. Assim o decidido no RE 1.095.001, Segunda Turma, Rel. Min. Dias Toffoli, julgado em 6.3.2018; e no AgRg no RE 959.274/SC, Primeira Turma, Rel. Min. Rosa Weber, Rel. p/ acórdão Min. Roberto Barroso, julgado em 27.8.2017. A existência desses precedentes reforça o entendimento de que do recurso não se pode conhecer, tendo em vista a presença de tema constitucional. Nesse sentido: REsp 1.709.375/SC, Segunda Turma, Min. Mauro Campbell Marques, DJe 9.5.2018.
+3. A solução integral da controvérsia, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+4. Os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+5. Embargos de Declaração rejeitados.
+A parte embargante alega que o decisum incorreu em omissão. Aduz (fl. 829 , e-STJ):
+A partir de uma leitura atenta dessas razões, observa-se que a omissão do v. acórdão embargado neste C. STJ está, portanto, em não considerar que:
+(i) "não desafia a competência extraordinária  do STF  a higidez da utilização do INPC" - passagem que assenta a natureza infraconstitucional da controvérsia -, ao mesmo tempo em que
+(ii) a majoração indevida da Taxa Siscomex, realizada por intermédio da Portaria MF nº 257/2011, " não  impede que o Poder Executivo atualize os valores  ..  de acordo com os índices oficiais" - pondo em cheque a atuação positiva dos Tribunais Regionais Federais.
+O reflexo que a adoção dessas premissas ocasiona ao v. acórdão embargado é o de afastar, a um só tempo,
+(i) a índole constitucional da controvérsia - identificada pela (im)possibilidade de adoção do INPC como índice oficial - e
+(ii) a imposição da Súmula STJ nº 7 - na medida em que os TRFs 2 e 4 divergem sobre o termo Poder Executivo na atualização da taxa SISCOMEX pelos índices oficiais.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. TAXA DE UTILIZAÇÃO DO SISTEMA INTEGRADO DE COMÉRCIO EXTERIOR - SISCOMEX. ACÓRDÃO FUNDADO NO CONJUNTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Conforme ficou registrado no acórdão embargado: "O Superior Tribunal de Justiça tem jurisprudência pacífica no sentido de que a ponderação sobre a razoabilidade do reajuste da taxa Siscomex em comparação com os custos de investimentos realizados no sistema demanda revisão de fatos e provas, o que esbarra no óbice da Súmula 7/STJ"(fl. 821, e-STJ).
+2. Ademais, a matéria referente à possibilidade do reajuste da taxa SISCOMEX, por meio de ato infralegal, tem índole eminentemente constitucional, razão por que compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Com efeito, "a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o debate acerca da possibilidade de majoração da Taxa de Utilização do Siscomex por ato infralegal possui natureza constitucional, sendo inviável o conhecimento de recurso especial acerca do tema" (STJ, AgInt no REsp 1.804.644/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 8/10/2019) .
+3. Logo, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto.
+4. Assim, não há irregularidade sanável por meio dos presentes Embargos, não se constatando, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+5. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22.3.2021.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Assim, verifico que o inconformismo da parte embargante busca emprestar-lhes efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é inadmissível nesta via recursal.
+No acórdão embargado ficou consignado (fl. 821, e-STJ):
+Efetivamente, os vícios elencados nas razões recursais não existem, porquanto a matéria foi integralmente analisada por esta Corte, conforme se nota nos seguintes excertos do acórdão embargado (fl. 790, e-STJ):
+O Superior Tribunal de Justiça tem jurisprudência pacífica no sentido de que a ponderação sobre a razoabilidade do reajuste da taxa SISCOMEX em comparação com os custos de investimentos realizados no sistema demanda revisão de fatos e provas, o que esbarra no óbice da Súmula 7/STJ.
+Cumpre ressaltar que há precedentes do Supremo Tribunal Federal que caminham no sentido de considerar inconstitucional a própria delegação contida no art. 3º, § 2º, da Lei 9.716/1998, em razão de não haver ali a fixação de limite máximo dentro do qual o regulamento poderia reajustar a cobrança. Assim o decidido no RE 1.095.001, Segunda Turma, Rel. Min. Dias Toffoli, julgado em 6.3.2018; e no AgRg no RE 959.274/SC, Primeira Turma, Rel. Min. Rosa Weber, Rel. p/ acórdão Min. Roberto Barroso, julgado em 27.8.2017.
+A existência desses precedentes reforça o entendimento de que do recurso não se pode conhecer, tendo em vista a presença de tema constitucional. Nesse sentido: REsp 1.709.375/SC, Segunda Turma, Min. Mauro Campbell Marques, DJe 9.5.2018.
+Nesse mesmo sentido:
+TRIBUTÁRIO. TAXA SISCOMEX. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE JULGAMENTO NO STJ. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO NA CONDENAÇÃO.
+I - Na origem trata-se de ação de restituição indébito em que se pretende a declaração de inexistência de relação jurídico-tributária que autorize a cobrança da Taxa SISCOMEX ou, subsidiariamente, o reconhecimento da ilegalidade do aumento de seu valor. Na sentença julgou-se parcialmente procedente o pedido para condenar a União a restituir ou permitir a compensação dos valores indevidamente cobrados, extinguindo, assim, esta fase do processo com resolução do mérito, a teor do que dispõe o art. 487, I, do CPC. No Tribunal a quo a sentença foi mantida.
+II - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o debate acerca da possibilidade de majoração da Taxa de Utilização do Siscomex por ato infralegal possui natureza constitucional, sendo inviável o conhecimento de recurso especial acerca do tema. Nesse sentido: AgInt no REsp 1634773/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 25/09/2018, DJe 25/10/2018; AgInt no REsp 1541120/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/10/2018, DJe 22/11/2018; REsp 1760507/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/12/2018, DJe 04/02/2019.
+III - Quanto à alegação de violação do art. 85, §4º do CPC/2015, as razões da parte recorrente estão dissociadas do contexto dos autos, porquanto houve condenação (fl. 14.035). Portanto, tratando-se de ação de restituição de indébito em que houve condenação, a base de cálculo deve corresponder ao valor da condenação nos termos do art. 85, §3º, I, do CPC/2015.
+IV - Agravo interno improvido. (STJ, AgInt no REsp 1.804.644/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 08/10/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO. SISCOMEX. TAXA. REAJUSTE. ATO INFRALEGAL. TEMA CONSTITUCIONAL. MAJORAÇÃO. DESPROPORCIONALIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A conclusão firmada pelo Tribunal de origem de que a delegação da lei para que ato infralegal trate do reajuste do valor da taxa do SICOMEX não viola o art. 150, I, da Constituição Federal não pode ser revista em recurso especial, nos termos do art. 105, III, da CF/1988, pois o tema possui natureza constitucional.
+2. Por força da Súmula 282 do STF, o recurso não pode conhecido quanto à ilegalidade da Portaria/MF n. 257/2011, pois ausente o prequestionamento da tese segundo a qual a constatação judicial pela desproporcionalidade do reajuste, por contaminar todo o ato infralegal, não permitiria a readequação dos critérios de correção pelo órgão julgador.
+3. Hipótese em que o Tribunal Regional Federal da 4ª Região decidiu pela constitucionalidade e legalidade da taxa do SISCOMEX, procedendo à readequação dos critérios para a sua majoração, por entender desproporcional o reajuste implementado pela Portaria/MF n. 257/2011.
+4. Agravo interno desprovido. (STJ, AgInt no REsp 1.738.429/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 23/11/2018)
+Logo, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nessa linha: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes Embargos não se constatando, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração.
+É como voto.
