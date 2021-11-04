@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário interposto com fundamento no art. 105, II, "b", da CFcontra acórdão do Tribunal de Justiça do Paranáassim ementado (e-STJ fls. 325):
+MANDADO DE SEGURANÇA. GRATIFICAÇÃO. ENCARGOS ESPECIAIS. LEI ESTADUAL Nº13.757/02. VÍCIO FORMAL. DECRETO No 6.285/2002. SUBSTRATO DE VALIDADE ESVAZIADO. UNIFORMIZAÇÃO DE JURISPRUDENCIA. ORDEM DENEGADA.
+1 - Frente à inconstitucional1idade da Lei nº 13.757/2002, o Decreto no 6.285/2002 que a regulamentava, perde o seu substrato de val1dade, não se verificando direito líquido e certo, pois era através daqueles .instrumentos que se estendia a Gratificação em questão a todos os integrantes da Secretaria de Estado da Agricultura e do Abastecimento.
+2 - É descabida a concessão da Gratificação pelo Exercício de Encargos Especiais, estendida a todos os Servidores da SEAB pelo Decreto 6.285/02 que regulou o §2º do artigo 30 da Lei 13.757/02, declarado inconstitucional pelo colendo Órgão Especial de. Tribunal de justiça do Estado do Paraná.
+(Súmula nº51 advinda do Incidente de Uniformização de jurisprudência nº 910.334-2/01)
+Alega a parte recorrente que a Gratificação pelo Exercício de Encargos Especiais - GEEE possui caráter genérico por ser paga a todos os servidores lotados na Secretaria de Estado da Agricultura e do Abastecimento - SEAB, sendo possível a sua cumulação com o Adicional de Atividade de Fiscalização Agropecuária - AAFA, devido em virtude da função exercida..
+Contrarrazões (e-STJ fls. 396/406).
+Parecer do MPF opinando pelo não provimento do recurso (e-STJ fls. 445/454)
+Passo decidir.
+Entendo que o recurso não merece conhecimento, porque a falta de combate aos fundamentos que embasaram o aresto impugnado, suficientes para mantê-lo, acarreta a incidência do óbice das Súmulas 283/STF e 284/STF.
+Consoante jurisprudência do STJ, padece de irregularidade formal o recurso em que a recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade (AREsp 1519064/CE, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 05/11/2019). A propósito: AgInt no RMS 58.200/BA, desta Relatoria, Primeira Turma, DJe 28/11/2018; AgRg no RMS 44.887/SP, rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/11/2015; AgRg no RMS 43.815/MG, rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/5/2016.
+Em complemento, esta Corte entende que "o recurso ordinário em mandado de segurança, como espécie recursal que é, reclama, para sua admissibilidade, a fiel observância do princípio da dialeticidade, impondo-se à parte recorrente o ônus de expor, com precisão e clareza, os erros - de procedimento ou de aplicação do direito - que justificam a reforma do acórdão recorrido, não bastando, para isso, a simples insatisfação com a denegação da ordem." (AgInt no RMS 41.710/BA, rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 26/3/2018).
+No caso, o principal fundamento para a rejeição da pretensão (a impossibilidade de pagamento da Gratificação pelo Exercício de Encargos Especiais por conta da declaração de inconstitucionalidade da norma que lhe previa a extensão) não foi impugnado no apelo ordinário, atraindo a aplicação dos enunciados sumulares supracitados.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
