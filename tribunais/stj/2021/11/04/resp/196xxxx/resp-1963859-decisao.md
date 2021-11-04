@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por DAVI SILVA DE OLIVEIRA, com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 746/747):
+APELAÇÃO. AÇÃO INDENIZATÓRIA. ENCERRAMENTO DO ATERRO SANITÁRIO DE JARDIM GRAMACHO. SENTENÇA DE PROCEDÊNCIA. REFORMA.
+Pretensão do autor de ser declarada a sua condição de catador de materiais recicláveis e/ou reutilizáveis, do aterro sanitário de Jardim Gramacho, e de recebimento da verba assistencial que foi concedida, administrativamente, aos catadores do aludido aterro e cujo valor correspondeu à divisão aritmética dos recursos que integraram o fundo de apoio à inclusão social e econômica dos catadores e catadoras do aludido aterro.
+Sentença de procedência. Irresignação do Município de Duque de Caxias e do Estado do Rio de Janeiro.
+Desativação do referido aterro sanitário, que ocorreu por determinação legal, em cumprimento da Política Nacional de Resíduos Sólidos instituída pela Lei 12305/2010. Contou, ainda, com a instituição do Fundo de Participação dos Catadores, com o objetivo de apoio e criação de alternativas de trabalho às pessoas que lá trabalhavam.
+Posterior alteração da forma de utilização dos recursos do Fundo, por meio de sua disponibilização de uma só vez aos catadores regularmente identificados e cadastrados. Divisão realizada de forma igualitária, sem que fossem consideradas as peculiaridades de cada catador, como renda mensal média, perda financeira, escolaridade, e eventual dano concreto decorrente do encerramento do aterro sanitário.
+Criação de Conselho Gestor, integrado por dez membros, dentre os quais cinco eram representantes dos catadores atuantes no aterro sanitário. Conselho que tinha, entre outras funções, a de administrar os recursos financeiros do aludido fundo de apoio, bem como definir a listagem final dos beneficiários.
+Criação e aprovação desta listagem, que contou com a participação do Conselho de Lideranças dos Catadores, com a realização de assembleias e observância de regras pré- definidas, além da intervenção e atuação da ilustrada Defensoria Pública, que ora assiste o demandante. Portanto, a definição dos beneficiários passou por processo criterioso de avaliação.
+Autor, que alega não haver recebido o benefício, em que pese haver participado das assembleias e a sua inscrição para recebimento.
+Conjunto probatório, que é incapaz de comprovar as alegações do autor, notadamente ter este laborado como catador no aterro de Jardim Gramacho, com habitualidade, no período mínimo necessário ao recebimento do benefício.
+Incomprovado, ainda, a sua participação nas assembleias realizadas e sua inscrição na lista final de beneficiários.
+Declarações de terceiros anexadas pelo demandante, que não são uníssonas acerca do período por ele laborado naquele aterro sanitário, tampouco são compatíveis com as afirmações prestadas pela única informante ouvida na audiência de instrução e julgamento.
+Inscrição do autor no cadastro único do Governo Federal que é insuficiente para garantir-lhe o benefício assistencial, a exemplo de outros inscritos que foram excluídos da listagem final de beneficiários em sede administrativa. Inscrição que, entretanto, lhe garantiu o recebimento do benefício bolsa família.
+Ausência de prova que afaste a presunção de legalidade da decisão administrativa acerca da listagem final dos beneficiários.
+Reforma da sentença que se impõe, para julgar improcedente o pedido inicial e inverter os ônus da sucumbência, observada a gratuidade de justiça deferida ao autor.
+Recursos a que se dá provimento.
+O recorrente aponta violação dos arts. 3º, 20 e 27 da Lei n. 12.305/2010 aduzindo argumentação quanto à possibilidade de se receber auxílio, na qualidade de cotador de lixo. Sustenta que "pretende ser reconhecido como catador de materiais recicláveis do Aterro Sanitário de Jardim Gramacho, atualmente desativado, bem como o recebimento de verba de apoio e inclusão social correspondente" (fl. 830). Alega que "a exclusão indevida do Recorrente da lista de beneficiários gera aos responsáveis pela sua elaboração, ora Recorridos, o dever de pagar benefício assistencial em valor não inferior aos demais contemplados" (fl. 832).
+Contrarrazões apresentadas.
+Inadmitido o apelo nobre na origem, deu-se provimento ao AREsp tãos omente para determinar sua conversão em REsp, sem prejuízo de posterior análise de seus pressupostos de admissibilidade (fl. 1.035).
+É o relatório. Decido.
+Na espécie, o Tribunal a quo, com lastro no suporte fático-probatório dos autos, firmou não comprovado que o recorrente laborava como catador do aterro de Jardim Gramacho, a fazer jus ao benefício assistencial (fl. 746/747):
+Conjunto probatório, que é incapaz de comprovar as alegações do autor, notadamente ter este laborado como catador no aterro de Jardim Gramacho, com habitualidade, no período mínimo necessário ao recebimento do benefício.
+Incomprovado, ainda, a sua participação nas assembleias realizadas e sua inscrição na lista final de beneficiários.
+Declarações de terceiros anexadas pelo demandante, que não são uníssonas acerca do período por ele laborado naquele aterro sanitário, tampouco são compatíveis com as afirmações prestadas pela única informante ouvida na audiência de instrução e julgamento.
+Inscrição do autor no cadastro único do Governo Federal que é insuficiente para garantir-lhe o benefício assistencial, a exemplo de outros inscritos que foram excluídos da listagem final de beneficiários em sede administrativa. Inscrição que, entretanto, lhe garantiu o recebimento do benefício bolsa família.
+Ausência de prova que afaste a presunção de legalidade da decisão administrativa acerca da listagem final dos beneficiários.
+Releva consignar que, assim delineados os fatos, inviável a revisão da conclusão firmada, sem o reexame do suporte fático-probatório, medida vedada no âmbito do recurso especial, por força da súmula 7/STJ.
+Diga-se ainda no que tange aos arts. 3º, 20 e 27 da Lei n. 12.305/2010, além de não estarem prequestionados, não tendo sequer o recorrente opostos embargos de declaração, a fim de buscar a manifestação do órgão julgador, os referidos dispositivos legais não têm comando normativo capaz de sustentar a tese recursal, amparando o direito alegado,de modo a infirmar o resultado do julgado. Aplicável o teor das Súmulas 282, 356 e 284, todas do STF à falta de prequestionamento e à deficiência da fundamentação recursal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
