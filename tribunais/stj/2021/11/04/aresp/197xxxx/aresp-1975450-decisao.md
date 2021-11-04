@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por GILBERTO MARTINS DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO COMPETÊNCIA RECURSAL AÇÃO INDENIZATÓRIA POR NEGATIVAÇÃO INDEVIDA SEM PRÉVIA NOTIFICAÇÃO MATÉRIA DE COMPETÊNCIA DA SUBSEÇÃO DE DIREITO PRIVADO II CONFORME RESOLUÇÃO N 6232013 DO EGRÉGIO TRIBUNAL DE JUSTIÇA ARTIGO 5 INCISO II 9 REMESSA DOS AUTOS A UMA DAS COLENDAS 11 A 24 E 37 E 38 CÂMARAS DE DIREITO PRIVADO RECURSO NÃO CONHECIDO
+Quanto à controvérsia dos autos, apresentada pela alínea "c" do permissivo constitucional, alega divergência na aplicação da Súmula 359 do STJ, no que concerne à necessidade de comunicação prévia, trazendo os seguintes argumentos:
+a) a similitude tática decorre do fato de que tanto no v. NI E c d (1) Ni o cd o E, acórdão recorrido, quanto no acórdão paradigma (recurso especial de nº 1.061.134/RS  doc. 1 em anexo), a matéria discutida é a falta da comunicação prévia determinada pelo art. 43, § 2º do CDC e em ambos os acórdãos, figuram no polo passivo Câmaras de Dirigentes Lojistas, vejamos:  ..
+b) a divergência jurídica ocorre porque no v. acórdão recorrido foi decidido que os mantenedores do banco de dados SPC não possuem o dever de comunicar os consumidores da inclusão de registros em tal banco de dados, podendo se aproveitar de comunicação emitida por mantenedor de banco de dados Serasa, relativa a inclusão de apontamento no banco de dados Serasa. (fls. 643/644).
+a) reconhecer que o v. acórdão recorrido contrariou a jurisprudência dessa Colenda Corte, estabelecida pela súmula 359 dessa Colenda Corte e pelo Recurso Especial n º 1.061.134/RS; (fls. 646).
+É, no essencial, o relatório. Decido.
+Na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cabe alegação de dissídio com súmula, ainda que vinculante, mas apenas com os julgados que lhe deram origem.
+Nesse sentido: "não é admissível a realização do cotejo analítico com súmula, mas apenas com os julgados que a originaram". (AgInt no REsp 1.681.656/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 27/6/2019.)
+Confiram-se ainda os seguintes precedentes: AgRg no REsp 1.293.337/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/11/2016; AgInt no AREsp 959.727/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 20/10/2016; e AgRg no AREsp 468.219/RS, relator Ministro Sidnei Beneti, Terceira Turma, DJe de 13/6/2014.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
