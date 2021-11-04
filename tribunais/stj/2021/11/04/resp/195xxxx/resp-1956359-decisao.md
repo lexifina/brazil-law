@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se deRecurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+DÍVIDA NÃO-TRIBUTÁRIA. CÉDULA DE CRÉDITO RURAL. PRESCRIÇÃO. OCORRÊNCIA.
+1. É entendimento do Superior Tribunal de Justiça que o crédito decorrente de cédula rural possui natureza não-tributária, estando sujeito ao prazo prescricional quinquenal, nos termos do Decreto nº 20.910/32.
+2. A interrupção da prescrição pelo despacho que ordena a citação na execução fiscal não ocorre na hipótese em que o feito executivo é ajuizado em face de pessoa falecida.
+3. Ausente a comprovação de ter a parte executada aderido às formas de renegociação previstas na Lei 11.775/2008, mostra-se incabível a suspensão do prazo prescricional conforme previsto no artigo 8º, § 5º, da referida lei.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente aponta violação dos arts. 489 e 1.022, II, do CPC/2015 e 204, § 1º, do Código Civil. Alega:
+(..) o ajuizamento da execução fiscal em face de outros devedores solidários teve o condão de interromper a prescrição em relação aos falecidos e seus herdeiros.
+Além disso, a possibilidade de cobrança do crédito em relação aos sucessores dos falecidos restou assentada somente com o trânsito em julgado do Agravo de Instrumento nº 0000977-86.2013.404.0000/PR, de forma que, no período em que a cobrança não era possível (14/11/2012 a 13/04/2018) não se pode falar em prescrição (fl. 659, e-STJ)
+Foram apresentadas contrarrazões (fls. 669-676, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15.10.2021.
+O Tribunal de origem, ao julgar a controvérsia, consignou (fls. 606-609, e-STJ):
+Logo, para o crédito rural cujo contrato tenha sido celebrado sob a vigência do Código Civil/1916, é aplicável o prazo prescricional de 20 anos, a contar da data do vencimento para que, dentro dele, seja providenciada a inscrição em dívida ativa e o ajuizamento da respectiva ação, observada a regra de transição prevista no art. 2.028 do Código Civil/2002.
+No caso dos autos, em 11.01.2003, data de vigência do Código Civil/2002, ainda não havia transcorrido mais da metade do prazo de 20 anos previsto no art. 177 do CC/1916, de modo que se aplica o prazo quinquenal, previsto no art. 206, § 5º, I do CC/2002, contado a partir da data de vencimento da dívida, eis que este é posterior a data de vigência do Código Civil de 2002.
+Confira-se a ordem dos fatos relacionados a este feito:
+a) contrato firmado sob a égide do Código Civil de 1916;
+b) falecimento do devedor Deusdeti Macedo Ribas, em 11.03.2007 (ev. 1 - CERTOBT6, p. 2, dos autos originários);
+c) vencimento da dívida em 03.01.2008 (ev. 1 - OUT5, p. 5);
+d) falecimento da devedora Eloyna Lagos Taques, em 08.06.2009 (ev. 1 - CERTOBT2);
+e) ajuizamento da execução fiscal nº 2009.70.09.002930-0 em 20.10.2009 (ev. 1 - OUT5);
+f) informação a respeito da ausência de citação dos executados falecidos, em 22.02.2010 (ev. 1 - OUT5, p 15).
+g) decisão do juízo da execução fiscal que acolheu exceção de pré- executividade para "reconhecer a nulidade da CDA nº 90608000795-00, bem como determinar a exclusão de Deusdeti Macedo Ribas e de Eloyna Taques Macedo Ribas do polo passivo do feito", em 12.11.2012 (ev. 1 - OUT7).
+h) decisão do TRF da 4ª Região que deu parcial provimento ao agravo de instrumento da União para "(a) reconhecer que a execução fiscal não pode prosseguir quanto aos dois executados falecidos e que contra esses dois executados falecidos a inscrição em dívida ativa foi nula porque eles já haviam falecido por conta da inscrição; (b) ressalvar à União Federal inscreva em dívida ativa e promova cobrança judicial quanto aos sucessores dos dois executados falecidos, devendo para tanto observar as formalidades, requisitos e prazos legais", em 14.12.2017 (ev. 1 - OUT8).
+i) trânsito em julgado da decisão do agravo de instrumento, em 13.04.2018 (ev. 1 - OUT9).
+Com base nas informações constantes dos autos, verifica-se que os devedores Deusdeti Macedo Ribas e Eloyna Lagos Taques estavam falecidos à época da inscrição em dívida ativa nº 90608000795-00 e do ajuizamento da execução fiscal a ela relativa, razão pela qual declarou este Tribunal Regional Federal a nulidade da CDA em face dos de cujus, ressalvando a possibilidade de inscrição em dívida ativa dos sucessores, desde que observadas "as formalidades, requisitos e prazos legais".
+A observância aos requisitos e prazos legais significa que a inscrição em dívida ativa dos sucessores, assim como o ajuizamento do feito executivo, deveriam ter sido realizados dentro do prazo quinquenal, previsto no art. 206, § 5º, I do CC/2002, contado da data do vencimento da dívida, conforme já exposto.
+Isso porque a decisão que reconhece a nulidade de Certidão de Dívida Ativa possui natureza declaratória, e não desconstitutiva. Dito de outro modo, a CDA nº 90608000795-00 era nula desde a sua inscrição, pois realizada em face de devedores falecidos, razão pela qual a decisão judicial proferida no feito executivo tão somente reconheceu a nulidade pré-existente.
+Dessa forma, a inscrição dos devedores falecidos em dívida ativa não produziu nenhum dos efeitos previstos na legislação, nem mesmo para suspender o prazo prescricional, na forma do art. 2º, § 3º da Lei nº 6.830/80. E o despacho do juiz que ordenou a citação na execução fiscal não produziu, em relação aos referidos devedores, o efeito de interrupção da prescrição previsto no art. 8º, §2º, da Lei nº 6.830/80, pois o feito foi ajuizado com base em CDA nula em relação a eles.
+Registro, ademais, que não se aplica ao caso dos autos a suspensão da prescrição estabelecida pelo art. 8º, §5º, da Lei nº 11.775/2008, e posteriores alterações, que tratam das medidas de estímulo à liquidação ou regularização de dívidas originárias de operações de crédito rural e de crédito fundiário. Tais normas tem por escopo suspender o curso da prescrição em relação à dívida objeto de renegociação pois, nesta condição, não há exigibilidade do crédito.
+No caso, não há qualquer elemento indicando que os executados tenham aderido às formas de renegociação previstas na legislação, tampoucoa União prestou qualquer informação nesse sentido. Assim, se o débito não é objeto de parcelamento ou renegociação, não há se falar em inexigibilidade do crédito e suspensão do respectivo prazo prescricional.
+Vê-se, portanto, que não prospera a alegada ofensa aos arts. 489 e 1.022do CPC/2015, já que não há nenhum equívoco ou deficiência na fundamentação do acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Ademais, o despacho do juiz que ordenou acitaçãodos falecidosnão tem o condão de interromper a prescrição, porque essacitação não ocorreu, uma vez queos citandos já haviam falecido antes mesmo do ajuizamento da ação.
+Com efeito, conforme a jurisprudência firmada pela Corte Especial do STJ, é "consequência inarredável das normas de regência que não háinterrupção da prescrição(i) se a citação ocorre depois da implementação do prazo prescricional, salvo demora imputável à administração judiciária (§ 3.º do art. 240 do CPC/2015); ou, mesmo antes, (ii) se a citação não obedece a forma da lei processual" (EAREsp n. 1.294.919/PR, Rel. Ministra Laurita Vaz, DJe 13/12/2018).
+Nessa segunda perspectiva, se a ação é endereçada à parte ilegítima (devedores falecidos), claramente não foi observada a forma da lei processual e, por conseguinte, não há falar em interrupção do prazo prescricional.Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC.  ..  ALEGADA NEGATIVA DE VIGÊNCIA DOS ARTS. 219 DO CPC/73 E 202, § 5º, I, DO CC/02. PRESCRIÇÃO DA PRETENSÃO. RÉUS QUE FALECERAM ANTES DO AJUIZAMENTO DA AÇÃO. TRÂNSITO EM JULGADO DE DECISÃO QUE ANULOU O PROCESSO E A CITAÇÃO POR EDITAL. CITAÇÃO DECRETADA NULA NÃO PODE INTERROMPER O PRAZO PRESCRICIONAL. RECURSO ESPECIAL PROVIDO.  ..
+3. Da interpretação conjugada das normas dos arts. 219 do CPC/73 e 202, I, do CC/02, extrai-se o entendimento de que a prescrição é interrompida pelo despacho que ordena a citação e que a sua concretização faz com que seus efeitos interruptivos retroajam à data da propositura da ação.
+4. Processo em que não houve citação válida é inexistente.
+4.1. Decretada a nulidade absoluta do processo e da citação por edital dos réus falecidos antes da propositura da ação de cobrança da taxa condominial por decisão já transitada em julgado, não pode ele renascer já que não existiu, muito menos ela serviu para interromper a prescrição.
+4.2. Ato nulo, por resguardar interesse público maior, em regra, é ineficaz, não pode ser confirmado pelas partes e não pode ser convalidado pelo decurso do tempo.
+5. A Corte Especial já proclamou que não há interrupção da prescrição (i) se a citação ocorre depois da implementação do prazo prescricional; ou, mesmo antes, (ii) se a citação não obedece a forma da lei processual.
+6. Recurso especial provido para reconhecer a ocorrência da prescrição. (REsp 1.777.632/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 1º/7/2019)
+Ante o exposto, conheço parcialmente do Recurso Especial, somente em relação à violação apontada aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
