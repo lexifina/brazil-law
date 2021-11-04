@@ -1,0 +1,45 @@
+DECISÃO
+UELDER FERREIRA DA SILVA MACEDO agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 0018122-90.2016.8.24.0023.
+O agravante foi condenado, pelo crime do art. 12 da Lei n. 10.826/2003, à sanção de 1 ano de detenção mais 10 dias-multa, em regime inicial aberto. A pena privativa de liberdade foi substituída por uma restritiva de direitos (prestação pecuniária).
+Nas razões do recurso especial, o agravante alegou violação dos arts. 46 e 110, ambos do Código de Processo Penal. Em síntese, sustentou a declaração de extinção da punibilidade pela prescrição, com base na pena aplicada. Aduziu sobre a circunstância do prolongado tempo de tramitação do inquérito policial. Asseverou também a nulidade do feito em decorrência de indevida invasão de domicílio.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 580-585, pelo não provimento do AREsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A defesa alega prescrição da pretensão punitiva, considerada a pena aplicada em concreto.
+A Corte de origem assim se manifestou (fls. 380-381):
+ ..
+Contrariamente ao que foi aventado pela defesa, não há falar em extinção da punibilidade em razão da prescrição da pretensão punitiva do Estado, seja pela modalidade retroativa, seja pela pena em abstrato.
+ ..
+No caso, a acusação não se insurgiu contra a sentença penal condenatória, operando-se, em relação à ela, o trânsito em julgado, conforme certificado.
+Em consequência, o lapso prescricional é regulado pela pena in concreto aplicada a apelante.
+O fato típico foi praticado sob a égide da Lei 12.234, de 6-5-2010, que deu nova redação ao art. 110, § 1º, do Código Penal, de modo que, para fins de contagem da prescrição, não se admite, em nenhuma hipótese, como termo inicial data anterior à denúncia.
+De outra parte, a pena irrogada ao agente foi igual a um ano, de maneira que o prazo prescricional é de quatro anos, nos termos do art. 109, V, do Código Penal.
+Com esses dados, verifica-se que o recebimento da denúncia ocorreu em 19-5-2017 (evento 9) e a sentença condenatória foi publicada em 20-3-2020 (evento 81), o que torna evidente a ausência de transcurso do prazo prescricional aplicável.
+Em relação à prescrição da pretensão punitiva pela pena em abstrato, observa-se que o preceito secundário do tipo, traz três anos como pena máxima, de modo que o prazo prescricional é de oito anos (CP, art. 109, IV).
+Para fins de contagem da modalidade de prescrição sob exame, considera-se o período entre a data da consumação do delito (11-9-2012, cessação da permanência) e a data do recebimento da denúncia (19-5-2017), nos termos dos arts. 111, III, e 117, I, ambos do CP.
+Diante desse panorama, também fica evidente a ausência de transcurso do prazo prescricional pela pena em abstrato.
+Conforme se observa, a Corte de origem asseverou a não ocorrência da prescrição da pretensão punitiva pleiteada pela defesa.
+Com efeito, a partir de 5/5/2010, a lei penal vedou o reconhecimento da prescrição retroativa caracterizada entre a data do fato e o recebimento da denúncia. Assim, por esse aspecto, a Corte de origem decidiu em consonância com a jurisprudência deste Tribunal Superior, o que atrai a incidência do disposto na Súmula n. 83 do STJ.
+Ilustrativamente:
+ ..
+II - "A Lei nº 12.234/10, ao dar nova redação ao art. 110, § 1º, do Código Penal, não aboliu a prescrição da pretensão punitiva, na modalidade retroativa, fundada na pena aplicada na sentença. Apenas vedou, quanto aos crimes praticados na sua vigência, seu reconhecimento entre a data do fato e a do recebimento da denúncia ou da queixa (HC n. 122.694, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 19/02/2015).
+Agravo regimental desprovido. (AgRg no AREsp n. 1.890.753/SC, Rel. Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), 5ª T., DJe 27/9/2021)
+A questão relativa ao prazo de tramitação do inquérito policial não foi debatida na origem, o que caracteriza a ausência de prequestionamento. Além do mais, essa matéria não tem nenhuma interferência na prescrição da pretensão punitiva e, ao que tudo indica, estaria preclusa. Incide, nesse ponto, o entendimento da Súmula n. 282 do STF.
+Sobre a alegada violação de domicílio, o acórdão impugnado assim dispôs (fls. 383-384):
+ ..
+Para além do que foi fundamentado na sentença, o contexto da abordagem policial vai ao encontro do entendimento da jurisprudência, no sentido de que havia justa causa para a atuação policial.
+Veja-se que a denúncia anônima, recebida pela agência de inteligência da Polícia Militar, identificava o nome Uelder como indivíduo que estaria armado em determinada residência, situada em endereço previamente identificado. A denúncia também mencionava a suspeita de que Uelder teria tido participação em roubo recente. Feita a inspeção in loco, os policiais cercaram a moradia e chamaram pelo indivíduo, que logo se identificou como Uelder. Diante das informações pretéritas, os policiais solicitaram que Uelder colocasse as mãos na cabeça e fosse até a entrada da moradia, cuja a porta estava aberta. Solicitaram autorização para o ingresso, com o que Uelder consentiu, inclusive, assim que indagado, informou o local onde o revólver, calibre .38, municiado, estava guardado.
+Esse cenário denota a existência de prévia diligência tomada pelos policiais, a fim de confirmar as informações contidas na denúncia anônima, não se tratando, por isso, de atuação arbitrária.
+ ..
+No mais, muito embora a defesa tenha destacado que o termo de autorização para entrada em domicílio foi assinado pelo agente mediante coação perpetrada pelos policiais ou, ainda, obtido mediante um suposto engodo maquinado por eles - teriam dito que se tratava de mandado judicial -, o fato é que nada há nos autos, de concreto, a macular a atuação policial, tampouco a idoneidade do referido termo.
+Vale ressaltar que não houve contradita aos policiais inquiridos como testemunhas, tal como exige o art. 214 do CPP, a fim de ensejar debate para desqualificar a palavra do agente público, detentor de presunção de veracidade e legitimidade pelos atos praticados no exercício da função  ..
+É fato que o termo de autorização veio aos autos previamente datilografado ou digitado em computador, com o nome do agente e seu endereço residencial já preenchidos, constando, ainda, sua assinatura, a qual foi lançada por ele no momento da abordagem, o que, numa primeira análise, chama a atenção. Contudo, essa peculiaridade deve ser ponderada com o que foi falado pelo policial Maicon, sob o crivo do contraditório, ao ser indagado a respeito do citado documento. Maicon relatou que, embora não pudesse lembrar detalhadamente do fato, o referido termo, tal como apresentado, provavelmente decorreu de uma operação policial, e não de uma mera abordagem. Essa circunstância é plausível, tendo em vista a gravidade da denúncia que motivou a ida dos agentes da segurança pública à residência do apelante, o qual, vale repetir, já havia sido identificado pela denúncia anteriormente repassada, de maneira que, até por cautela da Polícia Militar, para resguardar a legitimidade da operação, o termo foi apresentado já devidamente redigido.
+Não fosse o suficiente para ratificar a rejeição da preliminar em tela, acrescenta-se que não há qualquer indício de representação criminal em face dos policiais militares da ocorrência, tampouco representação perante o órgão correicional/administrativo, providência que, no mínimo, deveria ter sido tomada pela defesa, e comprovada nos autos em tela.
+Por fim, cumpre acrescentar que, como já exposto na sentença, o delito sob exame é de natureza permanente e o apelante, durante os interrogatórios indiciário e judicial, confessou que possuía o material bélico, sem autorização e em desacordo com a norma regulamentar.
+A análise da alegação defensiva de haver sido o acusado coagido/enganado pelos policiais militares a assinar o termo de autorização de ingresso em sua residência implica a necessidade de revolvimento ou até mesmo de dilação probatória, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+A Corte antecedente consignou a legalidade da atuação dos agentes públicos na diligência que culminou com a prisão em flagrante do réu. Asseverou a existência de denúncia anônima bem como de prévia diligência e a autorização assinada do investigado para o ingresso na residência.
+A verificação sobre o que os policiais disseram ao investigado no momento da abordagem, a inexistência de roubo nas imediações ou a pretensa denúncia anônima demandariam incursão vertical no acervo fático-probatório dos autos. Não se trata, pois, da hipótese de análise jurídica de fatos incontroversos descritos no acórdão.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
