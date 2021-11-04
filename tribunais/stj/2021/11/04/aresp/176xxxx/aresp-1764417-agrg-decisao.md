@@ -1,0 +1,8 @@
+DECISÃO
+ANDERSON SANTANA SILVA interpõe agravo regimental contra decisão de minha relatoria, em que conheci do agravo, mas não conheci do recurso especial e, por conseguinte, mantive inalterada a fixação do regime inicial semiaberto, nos autos do processo em quefoi condenado à pena de 2 anos e 6 meses de reclusão, mais multa, com a substituição da reprimenda por restritivas de direitos, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+A defesa requer, em síntese, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja, desde logo, estabelecido ao acusado o regime inicial aberto de cumprimento de pena.
+Decido.
+De fato, entendo que a decisão agravada se equivocou ao não conhecer do recurso especial, de maneira que,dentro do juízo de retratação inerente ao agravo regimental, reconsidero a decisão de fls. 293-295, na extensão e nos termos a seguir aduzidos.
+No caso, uma vez que o réu foi definitivamente condenado a reprimenda inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes e teve a pena-base estabelecida no mínimo legal, reputo ser devida a imposição do regime inicial aberto de cumprimento de pena, nos termos do art. 33, § 2º, "c", e § 3º, do CP.
+À vista do exposto, reconsidero a decisão de fls. 293-295, para, com fundamento no art. 932, V, "b", do CPC, c/c o art. 3º do CPP, e no art. 253, parágrafo único, II, "c", do RISTJ, conhecer do agravo e dar provimento ao recurso especial, a fim de fixar ao recorrente o regime inicial aberto de cumprimento de pena, nos autos da condenação objeto do Processo n. 1503250-35.2018.8.26.0228.
+Publique-se e intimem-se.
