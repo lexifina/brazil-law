@@ -1,0 +1,58 @@
+DECISÃO
+MANOEL OBDULIO REBELO (MANOEL) promoveu o cumprimento de sentença que condenou o BANCO SANTANDER BRASIL S.A. (SANTANDER) em ação de revisional de contrato bancário.
+A impugnação ao cumprimento de sentença apresentado pelo SANTANDER foi recebida com efeito suspensivo, com determinação de realização de perícia contábil, tendoo impugnante deixado transcorrer in albis o prazo para pagar os honorários periciais.
+O Juízo da 1ª Vara de Direito Bancário da Região Metropolitana de Florianópolis-SCrejeitou a impugnação ao cumprimento de sentença do SANTANDER e julgou extinto o feito, com resolução do mérito(e-STJ, fls. 285/288).
+A apelação do SANTANDER não foi provida pelo Tribunal de Justiça de Santa Catarina (TJ/SC), nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. SENTENÇA DE EXTINÇÃO DA AÇÃO. INSURGÊNCIA DA PARTE IMPUGNANTE.LIMITAÇÃO DA MULTA COMINATÓRIA. TESE NÃO ARGUIDA EM MOMENTO OPORTUNO. INOVAÇÃO RECURSAL CARACTERIZADA. NÃO CONHECIMENTO.
+A inovação dos fundamentos e fatos da lide, em sede recursal, é inadmissível, violando os princípios da estabilização da lide e do duplo grau de jurisdição, além de configurar deslealdade processual, na medida em que obstaculiza a defesa da parte adversa, salvo comprovação da parte de que deixou de fazê-lo por motivo de força maior, inocorrente na hipótese. (Ap. Cív. n. 2008.019680-0, de Navegantes, rel. Des. Carlos Adilson Silva, j.14.10.2010).
+EFEITO SUSPENSIVO. ANÁLISE PREJUDICADA. ENTREGA DA TUTELA JURISDICIONAL.
+" ..  o julgamento do recurso de apelação torna inócuo o pleito de atribuição de efeito suspensivo ao recurso, porquanto já entregue a tutela jurisdicional, não mais pendendo de apreciação"(Apelação Cível n. 0301072-62.2016.8.24.0092, da Capital, rel. Des. Robson Luz Varella, Segunda Câmara de Direito Comercial, j. 21-8-2018).
+CERCEAMENTO DE DEFESA E PRAZO INSUFICIENTE PARA PAGAMENTO DOS HONORÁRIOSPERICIAIS. TESE NÃO ACOLHIDA. PARTE QUE FOI DEVIDAMENTE INTIMADA PARA RECOLHIMENTO DA VERBA, COM PRORROGAÇÃO DO PRAZO INCLUSIVE. DESISTÊNCIA TÁCITA DA PROVA. PRECLUSÃO CONFIGURADA. MANUTENÇÃO DA SENTENÇA.
+" ..  De outro modo, a jurisprudência desta Corte de Justiça partilha do entendimento de que "a ausência do depósito dos honorários do perito gera a desistência tácita da prova solicitada e, por conseguinte, a preclusão da prova. Assume-se, assim, as consequências da não comprovação do alegado"(Agravo de Instrumento n. 2011.031825-5, rel. Des. Paulo Roberto Camargo Costa, j. em 3/5/2012).  ..  (Agravo de Instrumento n. 4002670-70.2018.8.24.0000, de Joinville, rel. Robson Luz Varella, Segunda Câmara de Direito Comercial, j. 22-05-2018).
+RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO (e-STJ, fls. 356/357).
+Irresignado, SANTANDERinterpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 223, 507 e 1.013do NCPC, ao sustentar que (1)a questão relativa a limitação da multa diária cominatória deveria ter sido examinada pois não se trata de inovação recursal na apelação, na medida em que a sentença foi proferida de surpresa e não houve deliberação sobre os argumentos e pedidos que formulou, tendo sido asua impugnação ao cumprimento de sentença rejeitada por suposta ausência de impugnação na primeira oportunidade em que manifestou nos autos; (2) não se pode desconsiderar que se trata de multa diária que não está sujeita a coisa julgada quanto ao seu valor e seus critérios, podendo a matéria ser discutida a qualquer momento, conforme a jurisprudência do STJ; e (3) não ocorreu a preclusão temporal quanto a pretensão de realização de perícia,pois o tempo estabelecido para efetuar o pagamento dos honorários periciais não foram suficientes, tendo tal fato sido desconsiderado pelo acórdão recorrido.
+Foram apresentadas as contrarrazões (e-STJ, fls. 402/407).
+O apelo nobre não foi admitido em virtude da incidência das Súmulas nºs 7 do STJ e 283 e 284do STF(e-STJ, fls. 412/414).
+Nas razões do presente agravo em recurso especial, SANTANDERsustentou que (1) não incide a Súmula nº 7 do STJ, na medida em que pretende a revaloração da situação fática à luz dos dispositivos legais apontados como violados pelo acórdão recorrido; e (2) não se aplica em relação ao art. 1.013 do NCPC as Súmulas nº s 283 e 284 do STF.
+Contraminuta do agravo (e-STJ, fls. 435/441).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo e passo a analisar as razões do recurso especial.
+(1) e (2)Da violação doart. 1.013 do NCPC
+SANTANDER sustentou quea questão relativa a limitação da multa diária cominatória deveria ter sido examinada pois não se trata de inovação recursal na apelação, na medida em que a sentença foi proferida de surpresa e não houve deliberação sobre os argumentos e pedidos que formulou, tendo sido a sua impugnação ao cumprimento de sentença rejeitada por suposta ausência de refutação na primeira oportunidade em que manifestou nos autos.
+Alegou, ainda, quenão se pode desconsiderar que se trata de multa diária que não está sujeita a coisa julgada quanto ao seu valor e seus critérios, podendo a matéria ser discutida a qualquer momento, conforme a jurisprudência do STJ.
+A respeito do alegado, colhe-se do acórdão recorrido nem conheceu da matéria, sob o fundamento de que o pleito de limitação da multa diária cominatória não foi nem sequer alegada no juízo de primeiro grau, tratando-se de patente inovação recursal.
+Nesse cenário, a tese do SANTANDER de que a multa cominatória não está sujeita a preclusãonão foi apreciada pela Corte catarinense, e nem sequerforam opostos embargos de declaração para forçar a discussão do tema,o que obsta o exame da matériano presente recurso especial em virtude da ausência do indispensável prequestionamento do tema federal, atraindo a incidência da Súmula nº 282 do STF, por analogia.
+A propósito, guardadas as devidas proporções, os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIO. REQUISITOS PREENCHIDOS. NULIDADE. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL.PROCESSO UTILIZADO COMO DIFUSOR DE ESTRATÉGIAS. IMPOSSIBILIDADE DO MANEJO DA CHAMADA "NULIDADE DE ALGIBEIRA". ALEGADA CONFISSÃO JUDICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STJ E 356/STJ. REVISÃO DAS CONCLUSÕES DO TRIBUNAL ESTADUAL.IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+(..)
+5. A Corte regional não apreciou a tese da alegada confissão judicial e a parte recorrente não opôs embargos de declaração objetivando suprir eventual omissão, não estando presente o necessário prequestionamento. Incidência dos enunciados previstos nas Súmulas 282 e 356 do STF.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp nº 1.181.699/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado aos6/3/2018, DJe de 9/3/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER.OUTORGA DE ESCRITURA. DESCUMPRIMENTO DAS DETERMINAÇÕES JUDICIAIS.ASTREINTES. VALOR FIXADO. ENRIQUECIMENTO SEM CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356 DO STF. EXORBITÂNCIA.INEXISTÊNCIA. IMPOSSIBILIDADE DE REVISÃO. REEXAME DE FATOS E PROVAS.
+INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO NÃO COMPROVADO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A ausência de debate no acórdão recorrido quanto aos temas suscitados no recurso especial e sobre os quais não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas nºs 282 e 356 do STF.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp nº 1.677.575/PR, da minha relatoria, Terceira Turma, julgado aos 11/11/2020, DJe de 16/11/2020)
+Ademais, o Tribunal catarinense consignou queem casos excepcionais admite-se a discussão de questões de fato não suscitadas no juízo inferior se a parte provar que deixou de fazê-lo por motivo de força maior (art. 1.014 do NCPC), que não teria ocorrido no caso.
+Isto posto, a leitura das razões do recurso especial revela que tal fundamento autônomo e também suficiente para a manutenção do acórdão impugnado não foi especificamente impugnado, o que faz incidir a Súmula nº 283 do STF, por analogia.
+Nesse cenário, não conheço do recurso especial no ponto.
+(3) Da violação dos arts. 223 e 507 do NCPC
+SANTANDER alegou que não se pode interpretar a demora no pagamento dos honorários periciais como desistência tácita à realização da perícia, não ocorrendo preclusão, mas sim que o prazo dado para pagamento dos honorários periciais era exíguo.
+No que tange a suficiência do prazo para o pagamento dos honorários periciais, o Tribunal catarinense consignou:
+ ..
+Ao compulsar os autos, nota-se que, embora intimada, a instituição financeira não cumpriu com o ônus de efetuar o depósito do valor dos honorários periciais, conforme determinado por decisão judicial, da qual não recorreu inclusive.
+Ademias, a parte impugnante não só foi intimada para o pagamento da verba profissional, como a devida advertência de "desistência da prova e rejeição da defesa" (Evento 67), como obteve a dilação do prazo para o pagamento por si requerido (Eventos 80 e 82).
+Sendo assim, não havendo qualquer justificativa pelo não pagamento dos honorários periciais, é imperativo o reconhecimento da preclusão temporal da prova (e-STJ, fls. 359/360).
+Diante disso, para revisar a conclusão que chegou o Tribunal estadual à luz dos elementos e provas dos autos de que o SANTANDER obteve inclusive dilação do prazo para pagamento dos honorários periciais e mesmo assim não o fez, bem como acolher a alegação de que o prazo concedido foi insuficiente para este mister demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência de que não pode ser levada a efeito em recurso especialem virtude do óbice da Súmula nº 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários porque eles não foram fixados na sentença.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. LIMITAÇÃO DA MULTA COMINATÓRIA. TEMA NÃO EXAMINADO NA INSTÂNCIA ORDINÁRIA POR SE TRATAR DE INOVAÇÃO RECURSAL. TESE TRAZIDA PELA RECORRENTE NÃO PREQUESTIONADA. AUSÊNCIA DE MANEJO DE EMBARGOS DE DECLARAÇÃO PARA PROVOCAR A ANÁLISE DA MATÉRIA. INCIDÊNCIA DA SÚMULA Nº 282DO STF, APLICADA POR ANALOGIA. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE DO ACÓRDÃO RECORRIDO NÃO ESPECIFICAMENTE IMPUGNADO NO APELO NOBRE. APLICAÇÃO DA SÚMULA Nº 283 DO STF, TAMBÉM POR ANALOGIA. ALEGAÇÃO DE PRAZO INSUFICIENTE PARA RECOLHIMENTO DOS HONORÁRIOS PERICIAIS. REVISÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO DA SUA SUFICIÊNCIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
