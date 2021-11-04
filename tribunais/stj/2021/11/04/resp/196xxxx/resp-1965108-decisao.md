@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interpostopor MARIO MOREIRA DE MATOS com fulcronaalínea"a" do permissivo constitucionalcontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (e-STJ fls. 397/398):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. AUXÍLIO-DOENÇA. TEMPO ESPECIAL. RECONHECIDO. TEMPO SUFICIENTE. BENEFÍCIO INTEGRAL DEFERIDO. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO. CORREÇÃO MONETÁRIA. JUROS DE MORA. VERBA HONORÁRIA. APELAÇÃO DO INSS DESPROVIDA. APELAÇÃO DA PARTE AUTORA PROVIDA.
+ ..
+9 - Quanto aos honorários advocatícios, entende-se que a parte autora decaiu em parte mínima do pedido, eis que se sagrou vencedora no pleito de aposentadoria por tempo de contribuição. No que tange ao valor da verba honorária sucumbencial, é inegável que as condenações pecuniárias da autarquia previdenciária são suportadas por toda a sociedade, razão pela qual a referida verba deve, por imposição legal (art. 85, §§ 2º e 3º,CPC), ser fixada moderadamente, o que resta perfeitamente atendido com o percentual de 10% (dez porcento), devendo o mesmo incidir sobre o valor das parcelas vencidas até a data da prolação da sentença, consoante o verbete da Súmula 111 do Superior Tribunal de Justiça.
+10 - Apelação do INSS desprovida. Apelação da parte autora provida.
+Rejeitados os aclaratórios (e-STJ fls. 439/455).
+Nas suas razões, a parterecorrenteaponta violação do art. 1.022 do CPC/2015, por negativa de prestação jurisdicional e, no mérito, do art. 85, § 2º,do CPC/2015, ao argumento de quea verba honorária deve ser fixada até a data do acórdão, que reconheceu o seu direito ao benefício previdenciário,nos termos da Súmula 111 do STJ.
+Contrarrazões às e-STJ fls. 497/506.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 517/518.
+Passo a decidir.
+De início, esta Corte Superior tem, reiteradamente, decidido que a alegação de violação do art. 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+Nesse sentido: AgInt no AREsp 1.129.996/RJ, rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Na hipótese, o agravante deixou de indicar, com precisão, os pontos supostamente não enfrentados pelo Tribunal de origem, limitando-se a afirmar, genericamente, que a Corte deixou de se manifestar sobre questões apontadas no agravo interno interpostos contra a decisão unipessoal que desproveu a apelação.
+Ora, por certo, que a tese alusiva à ofensa ao art. 1.022 do CPC/2015 deve ser construída com base no confronto entre a alegada omissão e a respectiva repercussão jurídica que traduza a necessidade de seu enfrentamento pela Corte de origem, o que, sem dúvida, não ocorreu na hipótese em análise.
+Quanto ao mérito, verifico que assiste razão à parte autora.
+No caso dos autos, a sentença julgou parcialmente procedente o pedido formulado pelo autorde reconhecendo a especialidade do período de 17/10/1977 a 02/02/1978, deixando de reconhecer o período de 03/11/1987 a 02/05/1995(e-STJ fls. 262/269).
+O Tribunal a quo, entretanto, modificou parcialmente a sentença, a fim de reconhecer o período de03/05/1995 a 07/07/1998 comoserviço especial,concedera aposentadoria por tempo de contribuiçãoe condenar a autarquiaem honorários advocatícios fixadosno percentual de 10% sobre o valor da condenação, incidindo sobre as parcelas vencidas até a data da prolação da sentença, considerando a redação da Súmula 111 do STJ (e-STJ fl. 393).
+No entanto, arespeito do termo final dos honorários advocatícios, a orientação jurisprudencial do STJ a respeito do aludido enunciado sumular é a de que deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. HONORÁRIOS ADVOCATÍCIOS.INCIDÊNCIA DA SÚMULA 111/STJ.
+1. A questão trazida neste recurso se subsume ao disposto na Súmula 111/STJ, verbis: "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença."
+2. Assim, são devidos honorários advocatícios sobre o valor da condenação, considerando se, para fins de cálculo dessa verba, apenas as parcelas vencidas até a prolação da decisão que reconheceu o direito do segurado, excluindo-se as vincendas.
+3. Agravo regimental provido. (AgRg no AREsp 271.963/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/05/2014, DJe 19/05/2014, grifos acrescidos).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE. HONORÁRIOS ADVOCATÍCIOS.TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula n. 111 do Superior Tribunal de Justiça, o marco final da verba honorária deve ser o decisum no qual o direito do segurado foi reconhecido, que no caso corresponde ao acórdão proferido pelo Tribunal a quo.
+2. No caso em tela, o direito somente foi reconhecido com a prolação da decisão ora agravada, razão pela qual o marco final da verba honorária se deu com a decisão que ora se questiona, nos termos da Súmula 111/STJ.
+3. Agravo regimental não provido. (AgRg no REsp 1557782/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/12/2015, DJe 18/12/2015, Grifos acrescidos).
+No caso concreto, o Tribunal de origem solveu a controvérsia em dissonância com a jurisprudência mencionada, porquanto limitou a verba honorária até a data da prolação da sentençaquando o direito do segurado somente foi reconhecido no julgamento da apelação.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial,a fim de fixara verba honorária até a data da prolação do acórdão regionalque reconheceu o direito requerido.
+Publique-se e intimem-se.
