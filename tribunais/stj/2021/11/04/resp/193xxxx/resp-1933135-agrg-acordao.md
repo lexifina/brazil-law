@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NORECURSO ESPECIAL. CORREIÇÃO PARCIAL. PLEITO DE INSTAURAÇÃO DE INCIDENTE DE ACORDO DE NÃO PERSECUÇÃO NA ORIGEM E SUSPENSÃO DA AÇÃO PENAL. CONDENAÇÃO TRANSITADA EM JULGADA. PERDA DE OBJETO. PRECURSO ESPECIAL PREJUDICADO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+A ausência de impugnação aos fundamentos da decisão que não conheceu do agravo em recurso especial atrai a incidência do óbice da Súmula 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CARLA LUCIANE DE ALMEIDA BURITIcontra decisão da minha lavra, pela qual foi julgado prejudicado orecurso especial (fls. 164-166).
+Consta dos autos que o eg. TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que negou provimento à correição parcial, julgando prejudicado o agravo regimental (fls. 50-51), em acórdão ementado nos seguintes termos (fl. 52):
+"PENAL. CORREIÇÃO PARCIAL. INSTAURAÇÃO DE INCIDENTE DEACORDO DE NÃO PERSECUÇÃO NA ORIGEM. PROSSSEGUIMENTODO CURSO REGULAR DA AÇÃO PENAL.
+1. Segundo o art. 164, caput, do Regimento Interno desta Corte, a correição parcial visa à emenda de erros ou abusos que importem a inversão tumultuária de atos e fórmulas legais, a paralisação injustificada dos feitos ou a dilação abusiva dos prazos por parte dos Juízes de Primeiro Grau, quando, para o caso, não haja recurso previsto em lei.
+2. Seguindo o rito processual adequado, deve ser instaurado "Incidente de Acordo de Não Persecução Penal" na origem com a intimação do acusado a fim de permitir recurso à 2ª Câmara de Coordenação e Revisão do MPF, devendo, por outro lado, prosseguir o curso regular da ação penal, considerando que não há previsão de efeito suspensivo de eventual recurso à Câmara de Coordenação e Revisão do Ministério Público.
+3. Correição Parcial improvida. Agravo Regimental prejudicado."
+Opostosembargos de declaração, estes foram rejeitados (fls. 82-87).
+A Defesa interpôsrecurso especial, com fundamento no art. 105, inciso III, alíneaa, da Constituição da República, alegandoviolação ao artigo 28-A, §§ 12, 13 e 14, do Código de processo Penal, ao argumento de que diante da negativa de oferecimento do acordo de não persecução penal caberia a Julgadora de primeira instância acolher a solicitação de remessa à Câmara de Coordenação do MPF, por meio do próprio Sistema E-proc, com suspensão da ação penal originária.
+Aponta que"Fazer repousar sobre a defesa a incumbência de interpor recurso diretamente junto à instância administrativa do MPF é providência não albergada no texto legal, dele desbordando, na medida em que este, frise-se, fala em requerimento de remessa dos autos ao órgão superior do Ministério Público. Toda outra incumbência conferida à defesa no particular extrapola os limites legais, sendo, portanto, indevida"(fl. 103).
+Sustenta, assim, que"se proveja a presente irresignação para o efeito de se determinar o retorno dos autos ao primeiro grau a fim de que o Juízo a quo instaure incidente de não persecução penal e proceda à remessa do feito à e. Câmara de Coordenação Criminal do MPF, em ordem a que se analise a insurgência, manifesta e expressa, alinhavada pela Defensora de primeiro grau acerca da recusa do agente ministerial em ofertar o acordo de não persecução penal"(fl. 104).
+Ao final, pelo provimento do presente recurso especial, e, eventualmente, pela pugna pela concessão de habeas corpus de ofício,"para o efeito de, reformando-se o acórdão, (i) determinar-se o retorno dos autos ao primeiro grau a fim de que o Juízo a quo instaure incidente de não persecução penal e proceda à remessa do processo à Câmara de Coordenação e Revisão do MPF para exame da recusa ministerial em ofertar dito acordo, tal qual legalmente requerido, em manifestação expressa, pela douta Defensora atuante em primeira instância e (ii ) determinar-se a suspensão da presente ação penal até que - definitivamente decidido, no âmbito do Ministério Público Federal, acerca do cabimento do acordo - seja fundamentadamente negado o oferecimento deste ou, ante a oferta da proposta, haja recusa ou descumprimento, por parte da acusada, das condições eventualmente pactuadas"(fl. 107).
+Apresentadas as contrarrazões (fls. 112-123), o apelo especial foi admitido na origem e encaminhado a esta Corte Superior de Justiça.
+O Ministério Público Federal se manifestoupelo parcial conhecimento e parcial provimentodo recurso especial (fls. 141-174).
+Nesta Corte, o recurso especial foi julgado prejudicado (fls. 164-166), em decisão assim ementada(fl. 164)
+"PENAL E PROCESSO PENAL. RECURSO ESPECIAL. CORREIÇÃO PARCIAL. PLEITO DE INSTAURAÇÃO DE INCIDENTE DE ACORDO DE NÃO PERSECUÇÃO NA ORIGEM E SUSPENSÃO DA AÇÃO PENAL. CONDENAÇÃO TRANSITADA EM JULGADA. PERDA DE OBJETO. PRECURSO PREJUDICADO."
+No agravo regimental (fls. 169-175), a defesa sustenta queas hipóteses de cabimento da correição parcial vêm disciplinadas no art. 164, caput, do Regimento Interno desta Corte, assim, "não há justa causa em lançar mão do trânsito em julgado do processo originário, quando houve a interposição de correição parcial, visando a amparar a parte prejudicada" (fl. 171).
+Afirma que "além de ter sido interposto o presente Recurso Especial em 24.03.21, bem antes do trânsito em julgado, o afastamento deste e o provimento ao pedido da correição, tem o poder de sobrestar o feito, inclusive em fase de execução penal. Isso é questão de justiça diante da grave violação perpetrada no caso em apreço" (fl. 171).
+Além disso, repisa os argumentos do apelo nobre, alegando, em síntese,que "o acórdão recorrido acabou por ofender os art. 28-A do Código de Processo Penal, assim bem como o disposto no art. 2º, parágrafo único, do Código Penal" (fl. 171), buscando o restabelecimentoda decisão do Tribunal de origem em sede de revisão criminal.
+Pugna, ao final, pela reconsideração da decisão impugnada para dar provimento ao recurso especial ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NORECURSO ESPECIAL. CORREIÇÃO PARCIAL. PLEITO DE INSTAURAÇÃO DE INCIDENTE DE ACORDO DE NÃO PERSECUÇÃO NA ORIGEM E SUSPENSÃO DA AÇÃO PENAL. CONDENAÇÃO TRANSITADA EM JULGADA. PERDA DE OBJETO. PRECURSO ESPECIAL PREJUDICADO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+A ausência de impugnação aos fundamentos da decisão que não conheceu do agravo em recurso especial atrai a incidência do óbice da Súmula 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O presente agravo não reúne condições para ser conhecido.
+Como relatado, a Defesa sustentou no recurso especial a violação ao artigo 28-A, §§ 12, 13 e 14, do Código de processo Penal, ao argumento de que diante da negativa de oferecimento do acordo de não persecução penal caberia a Julgadora de primeira instância acolher a solicitação de remessa à Câmara de Coordenação do MPF, por meio do próprio Sistema E-proc, buscando, ao final, asuspensão da ação penal originária.
+Na decisão agravada, o recurso especial foi julgado prejudicado, consoante os seguintesfundamentos (fl. 166):
+"O recurso especial interpostoperdeu o objeto.
+Senão vejamos.
+A Defesapretende que"se proveja a presente irresignação para o efeito de se determinar o retorno dos autos ao primeiro grau a fim de que o Juízo a quo instaure incidente de não persecução penal e proceda à remessa do feito à e. Câmara de Coordenação Criminal do MPF, em ordem a que se analise a insurgência, manifesta e expressa, alinhavada pela Defensora de primeiro grau acerca da recusa do agente ministerial em ofertar o acordo de não persecução penal"(fl. 104), com suspensão da ação penal originária até que - definitivamente decidido, no âmbito do Ministério Público Federal, acerca do cabimento do acordo .
+Entretanto, da consulta do trâmite processual dos autos n. 5005844-67.2019.4.04.7100, bem como às informações prestadas (fls. 154-157), extrai-se que a recorrente restou condenada, havendoo trânsito em julgado da sentença, tendo sido distribuída a Execução Penal nº 50493468520214047100 perante o Juízo Substituto da Central de Execuções Penais de Porto Alegre.
+Desta forma, fica evidente que a pretensão de se reformar o v. acórdão recorridopara remeter o feito à e. Câmara de Coordenação Criminal do MPF, comsuspensão da ação penal originária, até que definitivamente decidido a questão acerca do cabimento do acordo, estáprejudicada."
+Ocorre que, neste agravo regimental a defesa limita-se, em síntese, a repisar os fundamentos do apelo nobre, nada aduzindo acerca do objeto pleiteado no recurso (suspensão da ação), deixando de desincumbir-se do ônus de infirmar o fundamentoda decisão monocrática que pretende desconstituir.
+Tal circunstância, como cediço, atrai a aplicação do enunciado da Súmula n. 182 desta Corte Superior de Justiça,in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Assim, verificada esta hipótese -ausência de impugnação dos fundamentos da decisão agravada- o recurso não merece ser conhecido, conforme remansosa jurisprudência desta Corte,v.g.:
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO INOCORRENTE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não há maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+2. Cabe ao agravante, nas razões recursais, atacar especificamente os fundamentos da decisão agravada, sendo inviável o regimental que deixa de fazê-lo ou apenas formula alusões genéricas aos motivos que conduziram ao não conhecimento do agravo em recurso especial. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido"(AgRg no AREsp n. 1.021.378/MG, Rel.Quinta Turma, Rel. Min.Reynaldo Soares da Fonseca, DJe de 5/4/2017)
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO.
+1. É inviável o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes.
+2. Agravo regimental não conhecido"(AgRg no AREsp n. 979.894/PB,Sexta Turma,Rel. Min.Nefi Cordeiro, DJe de 21/6/2017)
+Diante do exposto,não conheçodo agravo regimental.
+É o voto.
