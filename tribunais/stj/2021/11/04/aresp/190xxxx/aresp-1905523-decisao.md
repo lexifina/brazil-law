@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se  de  agravo  (art.  1.042  do  CPC),  interposto  por  MARIA DAS GRAÇAS ROMERO DA COSTA,  contra  decisão  que  não  admitiu  recurso  especial.
+O  apelo  extremo,  fundamentado  na  alínea  "a"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do Rio de Janeiro,  assim  ementado  (fls.  337-338,  e-STJ):
+APELAÇÃO CÍVEL. AÇÃO REIVINDICATÓRIA. PEDIDO CONTRAPOSTO DE RECONHECIMENTO DE USUCAPIÃO PRO FAMILIA. INADEQUAÇÃO DA PRESENTE VIA PARA AS DUAS PRETENSÕES. MANUTENÇÃO DA SENTENÇA. Sentença que, por entender indemonstrados os requisitos hábeis à concessão da tutela reivindicatória, julgou improcedente tal pedido, deduzido por ex-cônjuge, ora recorrente em face de sua ex-esposa. Pela via da sentença, também repeliu o pedido contraposto veiculado por esta última, no sentido da usucapião em favor da ocupante do bem, forte em que, embora virtualmente presentes os requisitos para a sua declaração, o feito não observou os requisitos formais para o reconhecimento de tal direito. Apelos das partes que não prosperaram. Segundo o artigo 1228, caput, do Código Civil, a ação reivindicatória tem como fundamento o direito do proprietário de buscar a restituição da coisa de quem injustamente a possua ou detenha. Ocorre, contudo, que o bem em disputa, conforme afirmado pelo próprio reivindicante foi e tem sido ocupado por sua ex-esposa, desde o desenlace matrimonial e sem que as partes tenhamprovidenciado a sua partilha. Condomínio sobre o bem que retirou do autor-apelante o direito à tutela reivindicatória. Sob outro giro, quanto ao pleito de usucapião, deduzido no pedido contraposto, o feito não percorreu os requisitos formais inerentes a tal tutela, tais como citação de terceiros confrontantes, delimitação efetiva do imóvel usucapiendo, etc., o que deve ser agitado pela via própria. DESPROVIMENTO DOS RECURSOS.
+Os embargos de declaração foram parcialmente acolhidos, sem efeitos infringentes (fls. 366-372, e-STJ).
+Em  suas  razões  de  recurso  especial,  a  recorrente  aponta  ofensa  aos  artigos  7ºda Lei 6.969/81, 13 da Lei 10.057/01 e 1.241 do CC.
+Sustenta,  em  síntese, a  possibilidade de registro imobiliário da sentença que acolheu, como matéria de defesa, a prescrição aquisitiva do imóvel.
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  presente  agravo  (fls.  457-467,  e-STJ).  Contraminuta  às  fls.  260-266,  e-STJ.
+É  o  relatório.
+Decido.
+A  irresignação  não  merece  prosperar.
+1. A recorrente alega a violação aos artigos  7º da Lei 6.969/81, 13 da Lei 10.057/01 e 1.241 do CC, sustentandoa  possibilidade deregistro imobiliário da sentença que acolheu, como matéria de defesa, a prescrição aquisitiva do imóvel.Nesse ponto, o aresto recorrido (fl. 340, e-STJ):
+Frise-se, por outro lado, que à ré-apelante cabe corporificara posse mansa e pacífica do imóvel por 15 (quinze) anos, tempo necessário à verificação da usucapião extraordinária prevista no artigo 1.238, do Código Civil de 2002pelas vias próprias, com a observâncias das formalidades necessárias ao reconhecimento de tal direito, tais como a delimitação da área do imóvel, citação de confrontante e ciência dos entes públicos etc., que não foram adotadas no corrente feito.
+E ainda, em decisão dos embargos de declaração (fls. 369-371, e-STJ):
+Como dito, pretende a embargante o reconhecimento de que a sentença sirva de título hábil para registro da propriedade no Registro de Imóveis.
+Ocorre que a prescrição aquisitiva arguida como tese defensiva, via de regra, tem natureza meramente declaratória e não constitutiva, de modo que a sentença que a reconhece não é título hábil a ser levada a registro de imóveis.
+Para que a referida declaração pudesse ter efeitos erga omnes, necessária a propositura de ação constitutiva com a observância de todos os requisitos previstos em lei.
+Neste sentido é a Jurisprudência desta Corte Estadual, veja-se:
+ ..
+Argumente-se, por fim, que o Enunciado 315 do Conselho de Justiça Federal, citado pela recorrente, reforça a necessidade de que sejam ressalvados os interesses de confinantes e terceiros, in verbis:
+ .. .
+Como se vê, o acórdão recorrido está em consonância com o entendimento desta Corte acerca da matéria, segundo o qual o acolhimento da tese de defesa sustentada na prescrição aquisitiva, com a consequente improcedência da ação reivindicatória, não implica a imediata transcrição o imóvel em nome da prescribente, que deverá, por meio de ação própria, obter o reconhecimento judicial que declare a aquisição da propriedade. Nesse sentido, confira-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA.ALEGAÇÃO DE USUCAPIÃO COMO MATÉRIA DE DEFESA. POSSIBILIDADE. RESSALVA DO TRIBUNAL DE ORIGEM DE QUE O ACOLHIMENTO DA TESE DA PRESCRIÇÃO AQUISITIVA NÃO IMPORTA NA AQUISIÇÃO DO DOMÍNIO. AÇÃO PRÓPRIA. NECESSIDADE. CONTRADIÇÃO. INEXISTÊNCIA.  ..
+2. Na espécie, o Tribunal de origem ressaltou que a alegação de usucapião pode ser utilizada como matéria de defesa na ação reivindicatória; todavia, o pleno reconhecimento da satisfação de todos os requisitos exigidos para o usucapião é matéria reservada para a ação própria. Assim, acolhida a alegação de usucapião como matéria de defesa em ação reivindicatória, os réus não dispõem de título para a transcrição da propriedade no Cartório de Registro de Imóveis.
+3. Dessa sorte, a conclusão adotada pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, de que "o acolhimento da tese de defesa, estribada na prescrição aquisitiva, com a conseqüente improcedência da reivindicatória, de forma alguma, implica a imediata transcrição do imóvel em nome da prescribente, ora recorrente, que, para tanto, deverá, por meio de ação própria, obter o reconhecimento judicial que declare a aquisição da propriedade" (REsp 652.449/SP, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 15/12/2009, DJe 23/03/2010).
+4. Inocorrência de contradição no acórdão recorrido. Violação do disposto no art. 535 do CPC não verificada.
+5. Agravo regimental não provido.
+(AgRg no REsp 1270530/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/03/2013, DJe 05/04/2013)  grifou-se
+Portanto, estando o acórdão recorrido de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+2. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
