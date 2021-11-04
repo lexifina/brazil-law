@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGAE TRANSPORTES E COMERCIO S.A. e OUTROS, com fundamento no art. 105, inciso III, alínea"a", da CF/1988, contra acórdão do TRF da 1ªRegião assim ementado (e-STJ fl. 383):
+TRIBUTÁRIO. AÇÃO ORDINÁRIA. CONTRIBUIÇÃO PREVIDENCIARIA. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. CONSTITUCIONALIDADE. BASE DE CÁLCULO. FOLHA DE SALÁRIOS. POSSIBILIDADE. EMENDA CONSTITUCIONAL 33/2001. ART. 149, § 2º, III, DA CONSTITUIÇÃO FEDERAL. ROL NÃO TAXATIVO.
+1. Reconheço a legitimidade passiva do FNDE o que acarreta na ilegitimidade da União para figurar no polo passivo das demandas que versem sobre contribuição ao salário-educação. (AgRg no REsp 1546558/RS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 01/10/2015, DJe 09/10/2015) 2. "Não há impedimento em ser a folha de salários a base de cálculo de contribuição de intervenção no domínio econômico ou das contribuições sociais gerais, uma vez que a relação constante do art. 149, § 2º, III, alínea a, da Carta Maior, incluída pela Emenda Constitucional 33/2001, não constitui numerus clausus." (AC 0053494-42.2010.4.01.3400 / DF, Rel.
+DESEMBARGADORA FEDERAL MARIA DO CARMO CARDOSO, OITAVA TURMA, e-DJF1 p.3853 de 13/02/2015; EDAMS 0032755-57.2010.4.01.3300 / BA, Rel. DESEMBARGADOR FEDERAL NOVÉLY VILANOVA, OITAVA TURMA, e-DJF1 p.926 de 26/09/2014).
+3. O STF já se manifestou no RE 396.266 e na ADIN 2.556, ambos julgados após a edição da EC nº 33/01, que são constitucionais a contribuição de intervenção no domínio econômico e a contribuição criada pela LC nº 110/2001, qualificada como contribuição social geral, ambas incidentes sobre a folha de salário das empresas.
+4. Honorários nos termos do voto.
+5. Ilegitimidade da União reconhecida de ofício. Apelação parcialmente provida.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 399/404).
+No especial, a parte alegaviolação dos arts. 10do CPC/2015, 2º e 3º da Lei n. 11.457/2007.
+Defende a legitimidade da união para figurar no polo passivo da demanda, visto que, "com o advento da Lei no 11.457/2007, a Secretaria da Receita Federal do Brasil (órgão vinculado à União Federal) passou a concentrar as atividades de fiscalização e arrecadação dos tributos e contribuições federais, inclusive a contribuição salário-educação" (e-STJ fl. 411).
+Contrarrazões apresentadas às e-STJ fls. 443/456.
+Passo a decidir.
+Considerado isso, importa mencionar que o recurso especial se origina de ação ordinária ajuizada por Agaé Transportes e Comércio S.A. e Outros contra a União e o FNDE, em que se objetiva a declaração de inexigibilidade da contribuição salário-educação devida ao SEBRAE, bem como a compensação das referidas contribuições pagas.
+A sentença julgou improcedente os pedidos (e-STJ fls. 331/336).
+O acórdão regional deu provimento parcial ao apelo das empresas, para reduzir a verba honorária. Excluiu,de ofício, a União Federal da lide, por ilegitimidade passivaad causam.
+Pois bem.
+Tenho que assisterazão à parte recorrentequanto à legitimidade da União na presente demanda.
+Com efeito, aPrimeira Seção do STJ já decidiu pela inexistência de legitimidade passiva das entidades que recebem subvenção econômica:
+PROCESSUAL CIVIL, FINANCEIRO E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. SERVIÇOS SOCIAIS AUTÔNOMOS. DESTINAÇÃO DO PRODUTO. SUBVENÇÃO ECONÔMICA. LEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO. INEXISTÊNCIA.
+1. O ente federado detentor da competência tributária e aquele a quem é atribuído o produto da arrecadação de tributo, bem como as autarquias e entidades às quais foram delegadas a capacidade tributária ativa, têm, em princípio, legitimidade passiva ad causam para as ações declaratórias e/ou condenatórias referentes à relação jurídico-tributária.
+2. Na capacidade tributária ativa, há arrecadação do próprio tributo, o qual ingressa, nessa qualidade, no caixa da pessoa jurídica.
+3. Arrecadado o tributo e, posteriormente, destinado seu produto a um terceiro, há espécie de subvenção.
+4. A constatação efetiva da legitimidade passiva deve ser aferida caso a caso, conforme a causa de pedir e o contexto normativo em que se apoia a relação de direito material invocada na ação pela parte autora.
+5. Hipótese em que não se verifica a legitimidade dos serviços sociais autônomos para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico-tributária e a repetição de indébito, porquanto aqueles (os serviços sociais) são meros destinatários de subvenção econômica.
+6. Embargos de divergência providos para declarar a ilegitimidade passiva ad causam do SEBRAE e da APEX e, por decorrência do efeito expansivo, da ABDI.
+(EREsp 1.619.954/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 10/04/2019, DJe 16/04/2019).
+Esse entendimentotambém se aplica ao FNDE no caso da contribuição ao salário educação. Nesse sentido:
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. LEGITIMIDADE DO FNDE. PRODUTOR RURAL. PESSOA FÍSICA COM REGISTRO NO CNPJ. EQUIPARAÇÃO À EMPRESA.
+I - O feito decorre de ação ajuizada para obter a restituição da contribuição do salário-educação cobrado de produtor rural, pessoa física, com inscrição no Cadastro Nacional de Pessoa Jurídica - CNPJ, como contribuinte individual.
+II - A contribuição do salário-educação é devida pelo produtor rural, pessoa física, que possui registro no Cadastro Nacional de Pessoa Jurídica - CNPJ, ainda que contribuinte individual, pois somente o produtor rural que não está cadastrado no CNPJ está desobrigado da incidência da referida exação. Precedentes: AgInt no AREsp n. 821.906/SP, Rel. Ministro Gurgel de Faria, DJe 4/2/2019; AgInt no REsp n. 1.719.395/SP, Rel. Ministro Herman Benjamin, DJe 27/11/2018.
+III - O Superior Tribunal de Justiça vinha entendendo que o Fundo Nacional para o Desenvolvimento da Educação (FNDE) deve integrar a lide que tem como objeto a contribuição ao salário-educação, conforme decidido nos REsp n. 1.658.038/RS, Rel. Min. Herman Benjamin, DJe 30/6/2017 e AgInt no REsp n. 1.629.301/SC, Rel. Min. Mauro Campbell Marques, DJe 13/3/2017. Entretanto, em recente julgamento, no EREsp n. 1.619.954/SC, a Primeira Seção do Superior Tribunal de Justiça declarou a ilegitimidade passiva do SEBRAE, da APEX e da ABDI, nas ações nas quais se questionam as contribuições sociais a eles destinadas. Tal entendimento foi fundamentado na constatação de que a legitimidade passiva em tais demandas está vinculada à capacidade tributária ativa. Assim, sendo as entidades referidas meras destinatárias da referida contribuição, são ilegítimas para figurar no polo passivo ao lado da União. O mesmo raciocínio se aplica na hipótese dos autos, apontando a ilegitimidade passiva do FNDE, porquanto a arrecadação da denominada contribuição salário-educação tem sua destinação para a autarquia, com os valores, entretanto, sendo recolhidos pela União, por meio da Secretaria da Receita Federal.
+IV - Recurso especial da Fazenda Nacional provido. Recurso Especial do FNDE provido para declarar sua ilegitimidade passiva.
+(REsp 1.743.901/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 09/05/2019, DJe 03/06/2019).
+Nesse contexto, o recurso deve ser provido para determinar a inclusão da União Federal no polo passivo da ação.
+Ausente recurso do Fundo Nacional de Desenvolvimento Econômico - FNDE, deixo de excluí-lodo feito.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especialpara reconhecera legitimidade passiva da União Federal, incluindo-a no feito.
+Publique-se. Intimem-se.
