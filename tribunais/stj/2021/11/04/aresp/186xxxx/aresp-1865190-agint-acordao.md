@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão (Presidente), Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por JOSÉ CARLOS NOVELLI E OUTRO em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 397):
+USUCAPIÃO. EXTRAORDINÁRIA. INDEFERIMENTO DA INICIAL. RECONHECIMENTO, PELO JUÍZO ORIGINÁRIO, DA AUSÊNCIA DE INTERESSE DE AGIR. ADVENTO DE SENTENÇA EXTINTIVA, COM FUNDAMENTO NO ART. 485, I DO CPC. INCONFORMISMO MANIFESTADO. DESCABIMENTO. ESTAR EM JUÍZO QUE NÃO SE AFIGURA ÚTIL QUANDO A TUTELA JUDICIAL PRETENDIDA SE MOSTRA AB INITIO IMPOSSÍVEL DE SER ATINGIDA. INOCORRÊNCIA DOS REQUISITOS ENSEJADORES DA PRESCRIÇÃO AQUISITIVA. ART. 1.238 DO CÓDIGO CIVIL. POSSE AD USUCAPIONEM QUE NÃO SE VERIFICA. IMÓVEL USUCAPIENDO QUE FOI OBJETO DE PENHORA NO CURSO DO PRAZO PARA PRESCRIÇÃO AQUISITIVA DA PROPRIEDADE. CONSTRIÇÕES AVERBADAS NA MATRÍCULA DO IMÓVEL. LITIGIOSIDADE DO BEM QUE AFASTA A POSSE MANSA E PACÍFICA. SENTENÇA EXTINTA MANTIDA. RECURSO IMPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 454-459).
+Nas razões do especial (e-STJ, fls. 408-437), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) art. 5º, LIV e LV da Constituição Federal, alegando ofensa aos princípios do contraditório e da ampla defesa;
+b) arts. 1.009 do CPC/15 e 1238 do Código Civil, aduzindo que foram preenchidos os requisitos necessários à caracterização da usucapião extraordinária;
+Apontou, ainda, divergência jurisprudencial sobre o tema.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 463-466, e-STJ), o que ensejou o manejo do agravo (fls. 469-478, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 505-509), este signatário negou provimento ao recurso especial em razão do não cabimento de recurso especial para analisar ofensa a dispositivo constitucional e incidência da Súmula 7/STJ.
+No presente agravo interno (e-STJ, fls. 514-523), a ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS AUTORES.
+1. Na hipótese dos autos, o Tribunal de origem concluiu não estarem presentes os requisitos necessários à configuração da usucapião extraordinária em favor dos agravantes, asseverando que eram meros detentores do imóvel ante a ausência de posse ad usucapionem e animus domini. Alterar tais conclusões demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+2. Esta Corte Superior de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Cinge-se a irresignação no presente agravo interno acerca da incidência da Súmula 7/STJ à hipótese, porquanto a parte agravante não impugnou o fundamento referente ao não cabimento de recurso especial para analisar ofensa a dispositivo constitucional.
+Opera-se, assim, a preclusão da matéria não impugnada.
+2. Em relação à alegada ofensa aos arts. 1.009, § 1º do CPC/15 e 1.238 do Código Civil, a decisão agravada merece ser mantida.
+No caso, a Corte de origem, soberana na análise do acervo fático-probatório, afastou a possibilidade de se reconhecer a usucapião, tendo em vista a ausência de posse ad usucapionem e de animus domini da parte autora.
+Assim constou do acórdão (e-STJ, fl. 401-402):
+Ocorre que, como bem observado pelo juízo originário, o estar em juízo não se afigura útil quando a tutela judicial pretendida se mostra ab initio impossível de ser atingida. Ora, é consabido que, em qualquer modalidade de usucapião, dois requisitos se fazem presentes: o tempo e a posse. Nada obstante, no caso dos autos, se afigura mesmo manifesta a ausência de posse ad usucapionem por parte da autora o que exclui o animus domini e torna inviável o prosseguimento da ação. Recobre-se que, nos termos do art. 1.238 do Código Civil, em que se fundamenta a pretensão autoral, a usucapião extraordinária pressupõe o decurso do prazo de quinze anos sem interrupção (posse contínua) nem oposição (posse pacifica) à intenção do possuidor em ter o imóvel como seu (animus domini) in verbis:
+Art. 1.238. Aquele que, por quinze anos, sem interrupção, nem oposição, possuir como seu um imóvel, adquire-lhe a propriedade, independentemente de título e boa-fé; podendo requerer ao juiz que assim o declare por sentença, a qual servirá de título para o registro no Cartório de Registro de Imóveis.
+Ocorre que, não obstante aleguem que utilizam o imóvel usucapiendo desde 1995, é certo que desde 1996 diversas constrições judiciais incidiram sobre o bem (fls. 11/14 e 15/20) dentre elas, anote-se, aquela que deu ensejo à adjudicação de parte do imóvel pelo Sr. Valdecir, cuja fração ideal foi ulteriormente alienada aos autores da presente ação. Recobre-se que aludido negócio ocorreu em 2004, a demonstrar que, quando menos a essa altura, tinha a autora ciência inequívoca acerca da litigiosidade do bem o que cede, de todo modo, à força da presunção de ciência que decorre do registro público.
+Observa-se, de mais a mais, que outra parcela de 50% do imóvel fora objeto de penhora, em maio de 2002, em favor de Moacir Covre devidamente transportada na matrícula 6.348 e que ainda hoje não foi cancelada. Considerando-se, assim, o início da posse no ano de 1995, evidencia-se que houve a constrição do imóvel usucapiendo no curso do prazo da prescrição aquisitiva da propriedade a partir do que não é possível mais falar em posse mansa e pacífica. Figuraram, a bem da verdade, e como bem apreendido pelo juízo originário, como meros detentores do bem o que não basta à concessão da tutela judicial pelo reconhecimento da prescrição aquisitiva
+Constata-se, portanto, que o Tribunal a quo decidiu pela ausência de preenchimento dos requisitos necessários à configuração da usucapião extraordinária com base em circunstâncias fáticas e elementos probatórios constantes dos autos, asseverando expressamente que os agravantes eram meros detentores do imóvel em discussão.
+Para alterar esse entendimento exigiria, necessariamente, a reanálise das circunstâncias fático-probatórias, o que é vedado em âmbito de recurso especial, ante o óbice da Súmula 7/ STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. AÇÃO DE USUCAPIÃO. IMÓVEL DA CAIXA ECONÔMICA FEDERAL VINCULADO AO SFH. IMPRESCRITIBILIDADE. SÚMULA N. 83 DO STJ. REQUISITOS LEGAIS. AUSÊNCIA DE PREENCHIMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..)
+2. Ademais, o recurso não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). O Tribunal de origem, com base na interpretação dos elementos de convicção anexados aos autos, concluiu pela inexistência dos requisitos para a usucapião extraordinária. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado no especial.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1669338/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. 1. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. CURADOR ESPECIAL NÃO INTIMADO PESSOALMENTE. AUSÊNCIA DE PREJUÍZO. PRINCÍPIO DA PAS DE NULLITÉ SANS GRIEF. SÚMULA 83/STJ. 3. AUSÊNCIA DE MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO. ATUAÇÃO EM SEGUNDO GRAU. SUPRIMENTO. PRECEDENTES. 4. ANÁLISE DOS REQUISITOS PARA CONFIGURAÇÃO DA USUCAPIÃO. PROVA TESTEMUNHAL. SUFICIÊNCIA. INCIDÊNCIA DA SÚMULA 7 DO STJ. 5. ILEGITIMIDADE ATIVA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ. 6. AGRAVO INTERNO DESPROVIDO.
+(..)
+4. A desconstituição da conclusão do acórdão recorrido acerca do preenchimento dos requisitos da usucapião só seria possível mediante o reexame dos fatos e das provas dos autos, incidindo, na espécie, a Súmula 7 deste Tribunal Superior, a obstar o conhecimento do recurso especial.
+(..)
+6. Agravo interno desprovido.
+(AgInt no REsp 1720264/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/09/2018, DJe 21/09/2018)
+3. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESPEJO. ALEGAÇÃO DE EXISTÊNCIA DE CONTRATO VERBAL DE LOCAÇÃO. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO IMPROVIDO. (..) 2. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Precedentes. 3. Agravo regimental improvido. (AgRg no AREsp 834.644/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. SÚMULA 7 DO STJ. 1. Ação de indenização por danos materiais e morais. 2. O reexame de fatos e provas não é possível na via especial, devido ao óbice da Súmula 7 desta Corte. 3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. 4. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 1423333/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/04/2019, DJe 02/05/2019)
+De rigor, portanto, a manutenção da decisão agravada.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
