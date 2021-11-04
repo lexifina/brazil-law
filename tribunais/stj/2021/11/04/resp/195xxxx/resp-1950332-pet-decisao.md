@@ -1,0 +1,14 @@
+DECISÃO
+AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL pleiteia seu ingresso na lide como amicus curie, com fulcro nos arts. art. 138 do CPC/2015 e 5º, parágrafoúnico, da Lei n. 9.469/1997 (e-STJ fls. 1992/1998).
+A controvérsia cinge-se a saber se a CÂMARA DE COMERCIALIZAÇÃO DE ENERGIA ELETRICA - CCEE ostenta legitimidade para cobrar supostos créditos de seus associados (penalidades no âmbito do mercado de energia elétrica).
+A peticionária alega que o desfecho da demanda pode interferir no seu poder regulatório, no que respeita "às normas que regem a comercialização de energia elétrica e aos impactos na liquidez do mercado de energia" (e-STJ 1996).
+Passo a decidir.
+Nos termos do disposto no art. 138 do CPC/2015, o ingresso de pessoa natural ou jurídica, órgão ou entidade especializada no feito como amicuscuriae exige representatividade adequada, concebida como interesse institucional na causa "ou a relação direta entre a finalidade institucional e o objeto jurídico controvertido" (REsp 1.309.529/PR, rel. Ministro HERMAN BENJAMIN, Primeira Seção, julgado em 28/11/2012, DJe 04/06/2013).
+O amicus curiae somente poderá ser admitido na lide quando seus conhecimentos (técnicos, científicos ou jurídicos) puderem auxiliar o magistrado nas causas de relevância social, repercussão geral ou cujo objeto seja bastante específico, devendo, ainda, o pretendente possuir representatividade adequada para opinar sobre a matéria sub judice.
+Ainda,de acordo com a jurisprudência do STF, o amicus curiae atua como um "colaborador da Justiça", de modo que sua participação no processo deve ocorrer "e se justifica, não como defensor de interesses próprios, mas como agente habilitado a agregar subsídios que possam contribuir para a qualificação da decisão a ser tomada pelo Tribunal" (ADI 3460 ED, rel. MinistroTEORI ZAVASCKI, Tribunal Pleno, julgado em 12/02/2015, DJe 12/03/2015).
+No caso, a despeito da relevância da matéria, não observo hipótese ensejadora daparticipação da ANEEL, porquanto os autos revelam não ser necessária eventual contribuição de terceiro para a completa solução da lide.
+Ademais,o mero interesse subjetivo no desate da lide não admite a habilitação de terceiro como amicus curiae. Ilustrativamente: AgRg na PET no REsp 1336026/PE, rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/03/2017, DJe 28/03/2017; e Rcl 4.982/SP, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 27/04/2011, DJe 04/05/2011.
+Quanto à intervenção fundada no art. 5º da Lei n. 9.469/97, há notícia de que a União, instada a se pronunciar na origem, não manifestou interesse em integrar o presente feito (e-STJ fls. 2007/2008), o que esmaece a pretensão da Agência/requerente.
+Dessa forma, INDEFIRO o pedido.
+Publique-se.
+Após, venham-me os autos conclusos para o exame do recurso.
