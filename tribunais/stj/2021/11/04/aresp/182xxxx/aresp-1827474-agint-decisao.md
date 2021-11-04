@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de Agravo Interno interposto contra decisão da Presidência do STJ que não conheceu do Agravo em Recurso Especial.
+A parte agravante afirma:
+Ocorre que, como se verifica da peça do agravo em recurso especial, o autor efetivamente impugnou os pontos trazidos pela r. decisão de admissibilidade. Como se verifica o agravante impugnou expressamente suposta ausência de afronta a dispositivo legal e a aplicação da Súmula 7 deste C. STJ.
+Nesse sentido, importante destacar que o agravante efetivamente impugnou a questão relativa à ofensa legal, notadamente, dispôs às fls. 597 e 598, sobre a ofensa aos artigos 2º, 6º, 7º, 8º, 139 e 369 todos do Código de Processo Civil, bem como ao cumprimento do requisito de prequestionamento dos artigos mencionados, afastando, por conseguinte, a aplicação da Súmula 282 e 365 do STF.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma.
+Sem impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17.8.2021.
+De início, esclareça-se que assiste razão à parte agravante quando alega que enfrentou todos os argumentos expendidos pelo Tribunal a quo constantes da decisão que inadmitiu seu Recurso Especial, razão pela qual reconsidero a decisão agravada, passando, desde logo, à nova análise da pretensão recursal.
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+ACIDENTE DO TRABALHO  EXECUÇÃO  Diferenças do beneficio  Não insurgência contra valores depositados no momento oportuno  Preclusão configurada  Extinção com fundamento no art. 924, inc. II, do NCPC  Inércia do exequente sobre a existência de valor remanescente  Presunção de quitação da dívida  Recurso desprovido.
+Os Embargos de Declaração foram acolhidos para corrigir erro material.
+A parte agravante, nas razões do Recurso Especial, sustenta violação dos arts. 2º, 6º, 7º, 8º, 139, 369 e 924 do Código de Processo Civil.
+Sem contrarrazões.
+Houve juízo de admissibilidade negativo na instância de origem, o que deu ensejo à interposição do presente Agravo.
+Sem contraminuta.
+Passa-se a nova fundamentação, nos seguintes termos.
+Os arts. 2º, 6º, 7º, 8º, 139, 369 e 924 do Código de Processo Civil, tidos por afrontados, não foram ventilados no aresto atacado e, embora tenham sido opostos Embargos Declaratórios para a manifestação sobre os citados dispositivos, o órgão julgador não emitiu juízo de valor sobre as teses a eles referentes.
+A parte interessada tampouco aduziu, nas razões do Apelo Especial, ofensa ao art. 1.022 do CPC/2015, a fim de viabilizar possível anulação do julgado por vício de prestação jurisdicional. Incide, na hipótese, a Súmula 211/STJ.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que as teses recursais vinculadas aos dispositivos tidos como ofendidos não foram apreciadas pela Corte a quo.
+Não obstante isso, o STJ possui o entendimento de que não basta a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. CESSÃO DE CRÉDITO PREVIDENCIÁRIO. ART. 114 DA LEI 8.213/91. IMPOSSIBILIDADE. SÚMULA 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO RECORRIDA. SÚMULA 182 DO STJ.
+(..)2. Os artigos tidos por afrontados (art. 286 e 778, do CPC/15) não foram ventilados no aresto atacado e, embora tenham sido opostos Embargos Declaratórios para a manifestação sobre os citados dispositivos, o órgão julgador não emitiu juízo de valor sobre as teses a eles referentes.
+3. O STJ possui o entendimento de que não basta a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+(..)
+6. Agravo Interno não conhecido.
+(AgInt nos EDcl no REsp 1849130/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 16/03/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. ART. 1.025 DO CPC/2015. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. EXECUÇÃO FISCAL. DESÍDIA DA FAZENDA PÚBLICA CONFIGURADA. RECONHECIMENTO DA PRESCRIÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXTINÇÃO DA EXECUÇÃO. CABIMENTO DOS HONORÁRIOS ADVOCATÍCIOS. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE EXATA SIMILITUDE FÁTICA ENTRE OS ARESTOS PARADIGMA E RECORRIDO.
+1. Tal como dito na decisão impugnada, verifica-se que os artigos tidos por afrontados (arts. 2º e 1.013 do CPC/2015) não foram ventilados no aresto atacado e, embora tenham sido opostos os Embargos Declaratórios competentes para a manifestação sobre os citados dispositivos legais, o órgão julgador não emitiu juízo de valor sobre as teses a eles referentes. Falta, portanto, prequestionamento, requisito indispensável ao acesso às instâncias excepcionais, ainda que se trate de matéria de ordem pública. Incide, na hipótese, o verbete sumular 211/STJ.
+2. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+3. Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que as teses recursais vinculadas aos dispositivos tidos como ofendidos não foram apreciados pela Corte a quo.
+4. Ademais, o STJ possui o entendimento de que é insuficiente a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar a eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+(..)
+10. Agravo Interno não provido.
+(AgInt no REsp 1868406/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe 21/08/2020)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EXECUÇÃO. BENEFÍCIO POR INCAPACIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. ART. 1.025 DO CPC/2015. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Os artigos tidos por violados não foram ventilados no aresto atacado e, embora tenham sido opostos os Embargos Declaratórios competentes para a manifestação sobre os citados dispositivos, o órgão julgador não emitiu juízo de valor sobre as teses a eles referentes, e a parte interessada não alegou, nas razões do Apelo Especial, ofensa ao art. 1.022 do CPC/2015, a fim de viabilizar possível anulação do julgado por vício de prestação jurisdicional, incidindo, na hipótese, o verbete sumular 211/STJ.
+2. O Superior Tribunal de Justiça possui o entendimento de que não basta a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o STJ esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+3. Recurso Especial não conhecido.
+(REsp 1764914/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 23/11/2018)
+Ainda que fosse superado tal óbice, a irresignação não mereceria prosperar, porquanto o Tribunal de origem lançou os seguintes fundamentos:
+Compulsando os autos, observa-se expedição de ofício para pagamento de requisitório, cujos valores já foram objeto de depósito (fls. 393).
+Posteriormente, o ora recorrente foi instado a manifestar-se quanto à efetiva satisfação do débito, assim como advertido de que o seu silêncio seria interpretado como resposta afirmativa, tendo como consequência a extinção do feito (fls. 400). Contudo, o exequente veio a apresentar os referidos cálculos cinco meses após a referida determinação.
+Saliento que a petição requerendo dilação de prazo não tem o condão de interromper o prazo original e, mesmo que não apreciada, era de rigor que ao menos o prazo nela requerido fosse observado, a demonstrar a boa-fé processual do recorrente, o que, entretanto, não ocorreu.
+Dessume-se que, não obstante as razões explicitadas pela instância a quo, ao interpor o recurso a parte recorrente não impugnou, suficientemente, os fundamentos acima destacados.
+Assim, não observou a parte recorrente as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Logo, não tendo sido os argumentos atacados pela parte recorrente, os quais são aptos, por si sós, para manter o decisum combatido, aplicam-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo. Nessa esteira:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO CONFIGURADA. PEDIDO GENÉRICO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+1. Hipótese em que se acolhem os aclaratórios para sanar a contradição apontada quanto ao pedido genérico.
+2. A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Embargos de Declaração acolhidos, sem efeito infringente, apenas para sanar contradição e integrar o julgado.
+(EDcl no REsp 1.617.381/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 22/5/2018)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação jurisprudencial do STJ declarou que os servidores integrantes de associação coletiva serão beneficiados por título proferido em mandado de segurança coletivo independentemente da existência de lista de servidores na petição inicial
+2. Não se conhece do recurso especial, quando a parte deixa de impugnar de forma suficiente fundamento autônomo, que por si só é capaz de manter o julgado (Súmula 283/STF), bem como quando a deficiência de fundamentação não permitir a compreensão da controvérsia (Súmula 284/STF).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.206.856/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 24/05/2018)
+Outrossim, observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido passa pela revisitação ao acervo probatório, vedada em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo Interno para, em juízo de retratação, reconsiderar a decisão de fls. 610-612, e-STJ, a fim de conhecer do Agravo em Recurso Especial e, nessa extensão, negar provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
