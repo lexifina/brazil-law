@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno, interposto por APARECIDA DE LOURDES RIBEIRO SANTOS, em face de decisão monocrática, da lavra deste signatário, que negou provimento ao recurso especial.
+Nas razões do reclamo, a agravante sustenta que "a r. decisão agravada incorre em grave equívoco ao tentar empregar no presente caso a mesma resolução emanada de casos que contemplam contratos de imóveis construídos,que foram efetivamente ocupados pelos respectivos adquirentes. São situações completamente distintas, pois o contrato posto sub judice tem como objeto apenas um lote sem benfeitorias".
+Ante as razõesexpedidas no presente agravo interno, reconsidero a decisão monocrática anteriormente proferida (fls. 641/644, e-STJ), tornando-a sem efeitos, e passo, de plano, ao reexame do reclamo.
+Cuida-se de recurso especial, interposto por APARECIDA DE LOURDES RIBEIRO SANTOS, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação Compra e venda de imóvel Rescisão por iniciativa da compradora Possibilidade O compromissário comprador de imóvel, mesmo inadimplente, pode pedir a rescisão do contrato a reaver as quantias pagas, admitida a compensação com gastos próprios de administração e propaganda feitos pelo compromissário vendedor, assim como com o valor que se arbitrar pelo tempo de ocupação do bem Súmula 1 desta Corte Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento Súmula 543 do STJ O valor das arras deve ser incluído no cálculo da quantia a ser restituída aos adquirentes em razão do disposto no artigo 53 do Código de Defesa do Consumidor A devolução das quantias pagas em contrato de compromisso de compra e venda de imóvel deve ser feita de uma só vez, não se sujeitando à forma de parcelamento prevista para a aquisição Súmula 2 deste Tribunal de Justiça Taxa de condomínio devida pela autora no período anterior à antecipação dos efeitos da tutela Sentença parcialmente modificada Recurso da ré a que se dá parcial provimento.
+Em suas razões de recurso especial, a recorrente aduz "inexistência de construção/benfeitoria sobre o imóvel que possibilite a efetiva utilização/fruição do imóvel, notadamente porque se trata apenas deum lote, não sendo razoável a imputação de taxa de fruição em detrimento do consumidor desde a entrega do loteamento, pois o lote não foi sequer ocupado".
+Em sede de juízo provisório de admissibilidade, o Tribunal local admitiu o recurso especial, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+O presente recurso merece prosperar.
+1. Com efeito, "Consoante entendimento desta Corte, não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem. Precedente." (AgInt no REsp 1896690/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. COMPRA E VENDA DE TERRENO VAZIO EM LOTEAMENTO. DESFAZIMENTO CONTRATUAL DIANTE DA INADIMPLÊNCIA DO ADQUIRENTE. TAXA DE FRUIÇÃO/OCUPAÇÃO. AUSÊNCIA DE PROVEITO COM A CESSÃO DE SEU USO.
+DESCABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Terceira Turma desta Corte firmou entendimento no sentido de que, na hipótese de desfazimento de contrato de promessa de compra e venda de terreno não edificado por interesse exclusivo dos adquirentes, é indevida a condenação dos consumidores ao pagamento de taxa de ocupação/fruição.
+3. Agravo interno não provido.
+(AgInt no REsp 1941068/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. TERRENO SEM EDIFICAÇÃO. VALORES PAGOS PELOS ADQUIRENTES. TERRENO PARA EDIFICAÇÃO. TAXA DE OCUPAÇÃO/FRUIÇÃO. HIPÓTESE CONCRETA. AUSÊNCIA. REEXAME FÁTICO PROBATÓRIO. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DECISÃO MANTIDA.
+1. Ação de rescisão contratual com pedido de devolução de quantias pagas.
+2. O desfazimento do negócio jurídico de compra e venda de imóvel motiva o retorno das partes ao estado anterior à celebração do contrato, podendo sujeitar o promissário comprador ao pagamento da taxa de ocupação pelo tempo que ocupou o imóvel.
+3. A taxa de ocupação evita que o comprador se beneficie da situação do rompimento contratual em prejuízo do vendedor, se relacionando, pois, à vedação ao enriquecimento sem causa. Precedentes.
+4. São requisitos do nascimento da obrigação em decorrência da vedação ao enriquecimento sem causa: a) enriquecimento de alguém; b) empobrecimento correspondente de outrem; c) relação de causalidade entre ambos. Precedente da Corte Especial.
+5. No contrato de compra e venda de imóveis residenciais, o enriquecimento sem causa do comprador é identificado pela utilização do bem para sua moradia, a qual deveria ser objeto de contraprestação mediante o pagamento de aluguéis ao vendedor pelo tempo de permanência.
+6. Na presente hipótese, o terreno não está edificado, de modo que não existe possibilidade segura e concreta, diante dos fatores anteriores ao momento da contratação e sem qualquer outra nova interferência causal, de que a recorrente auferiria proveito com a cessão de seu uso e posse a terceiros, se não o tivesse concedido à recorrida, estando, pois, ausente o requisito de seu empobrecimento; tampouco seria possível o enriquecimento da compradora, que não pode residir no terreno não edificado.
+7. O reexame de fatos e provas em recurso especial é inadmissível.
+8. A ausência de juntada do inteiro teor dos julgados apresentados a cotejo ou de indicação do repositório oficial de que extraídos os arestos desatende o disposto no art. 266, § 1º, c/c art. 255, §§ 1º e 2º, do RISTJ.
+9. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+10. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+11. Agravo interno em Recurso especial não provido.
+(AgInt no REsp 1943713/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021)
+O acórdão recorrido, portanto, encontra-se em dissonância com a jurisprudência desta Casa, merecendo reforma.
+2. Do exposto, reconsidero a decisão monocrática anteriormente proferida, tornando-a sem efeitos, e de planodou provimento ao recurso especial a fim de excluir da condenação a contraprestação pela fruição do lote não edificado.
+Publique-se.
+Intimem-se.
