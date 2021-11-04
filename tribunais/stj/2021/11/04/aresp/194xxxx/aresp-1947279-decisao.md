@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fls. 390, e-STJ):
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA EM DESOBEDIÊNCIA À ORDEM LEGAL. RECUSA FUNDAMENTADA DA EXEQUENTE. PENHORA DE ATIVOS FINANCEIROS: POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Se é certo que a execução deve ser feita da maneira menos gravosa para o devedor, nos termos do artigo 805 do CPC, não menos certo é que a execução se realiza no interesse do credor, nos termos do artigo 797 do mesmo código. E o dinheiro em espécie, ou depósito ou aplicação em instituição financeira ocupa o primeiro lugar na ordem preferencial de penhora, nos termos do artigo 11, inciso I e artigo 1º, in fine, da Lei 6.830/1980, c/c artigo 835, inciso I, do CPC.
+2. O credor não está obrigado a aceitar bens nomeados à penhora em desobediência à ordem legal, justificando-se também nessa hipótese a penhora via sistema BACENJUD. Precedentes.
+3. No caso dos autos, a agravante nomeou à penhora maquinário relacionado à execução de suas atividades. Todavia, o crédito decorrente de bens móveis situa-se em penúltimo lugar na ordem de penhora estabelecida no artigo 11 da Lei de Execuções Fiscais, tendo a Fazenda recusado, fundamentadamente, os bens nomeados.
+4. Agravo de instrumento não provido. Agravo interno prejudicado.
+Os Embargos de Declaração foram rejeitados (fl. 328, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, do art. 805 do CPC. Argumenta:
+Dentro desse quadro há que se assinalar que a manutenção do bloqueio dos ativos financeiros da Agravante ocasionará efeitos nefastos ao seu caixa, ante a subtração de importância que lhe é vital para o pagamento de seus colaboradores, mesmo porque a empresa não vem auferindo lucro operacional.
+(..)
+Isso porque, conforme se demonstra, equivocou-se, data venia, a nobre Julgadora, visto que os fundamentos asseverados estão em total descompasso à mais escorreita interpretação do preceituado no referido artigo 805 do Código de Processo Civil, porquanto implicaram na manutenção de uma sucessão de atos tendentes à expropriação do patrimônio da Agravante, mantendo indisponíveis, por uma via oblíqua, tantos bens desta quanto fosse possível, em patamar muito superior ao valor sob execução. Deveras, não prescinde de recordar, por oportuno, o contexto fático da questão, já delineado acima.
+Então, inaplicáveis in casu o suposto óbice da Súmula nº 07/STJ.
+Assim, ao contrário da equivocada assertiva da respeitável decisão agravada, pode e devem ser as questões em tela decididas por intermédio de recurso especial.
+Contrarrazões às fls. 367-387, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26 de outubro de 2021.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fl. 298):
+No caso dos autos, a agravante nomeou à penhora maquinário relacionado à execução de suas atividades. Todavia, o crédito decorrente de bens móveis situa-se em penúltimo lugar na ordem de penhora estabelecida no artigo 11 da Lei de Execuções Fiscais, tendo a Fazenda recusado, fundamentadamente, os bens nomeados.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça. Afasta-se, assim, a ideia de simples valoração da prova, ante a incidência, no caso, da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ademais, oE. STJ, por ocasião do julgamento do REsp 1.184.765/PA - Tema 425, alçado como representativo de controvérsia, consolidou o seguinte entendimento:
+É possível a quebra de sigilo bancário em execução fiscal, por meio do sistema BACEN-JUD, o qual viabiliza o bloqueio eletrônico de depósitos ou ativos financeiros do executado, sendo desnecessário, a partir da vigência da Lei 11.382/2006 (21/01/2007), o exaurimento de diligências extrajudiciais por parte do exequente.
+Nojulgamento repetitivo do REsp 1.337.790/PR - Tema 578,ficou sedimentado que a exequente tem direito a recusa da oferta de bens que não obedeçam a ordem legal (art. 11 da LEF), seja no momento da nomeação (art. 9º da LEF), seja na substituição (art. 15 da LEF), não bastando ao devedor a mera alegação de violação ao princípio da menor onerosidade, devendo este comprovar nos autos que tal medida inviabilizará o funcionamento da empresa.
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Cumpre ressaltar que a referida orientaçãoé aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Rel. Min. Castro Meira, DJe de 2.6.2010.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas com relação à violação do art. 1022 do CPC e, nessa parte, não o provejo.
+Publique-se.
+Intimem-se.
