@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por RAÍZEN COMBUSTÍVEIS S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento. Cumprimento de sentença. Decisão que indeferiu a inclusão dos sócios da executada. Ausente hipótese de sucessão processual dos sócios. Indispensável, na hipótese, a instauração de incidente de desconsideração da personalidade jurídica para inclusão dos sócios no polo passivo. Necessidade de que se observe o contraditório e a ampla defesa. Decisão mantida. Recurso não provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 110 do CPC e do art. 1.080 do CC, no que concerne à necessidade de sucessão processual da pessoa jurídica executada por seus sócios, uma vez que aquela teria sido extinta sem prévia liquidação regular, trazendo os seguintes argumentos:
+Ocorre que, in casu, não há dúvidas que a empresa Recorrida foi extinta, ainda que seus sócios, em patente prática de ato ilícito, tenham deixado de realizar o procedimento previsto em lei para a liquidação da referida sociedade.
+ ..
+Assim, uma vez que, nos termos do artigo 1.080 do CC, a responsabilidade do sócio que promoveu o encerramento irregular da sociedade é ILIMITADA, resta nítido que o acórdão recorrido negou vigência ao artigo supracitado, uma vez que deixou de reconhecer a responsabilidade dos sócios da empresa Recorrida pelo seu encerramento irregular.
+ ..
+Assim, ante ao encerramento irregular da empresa Recorrida que equivale à sua extinção - sem que esta tenha efetivado a quitação de seus passivos, é de rigor sucessão da pessoa jurídica pela pessoa dos sócios, por meio do instituto da sucessão processual, que deve ser aplicado por analogia do art. 110, NCPC, que assim dispõe:
+ ..
+Importante frisar que a situação fática apresentada é completamente diferente do pedido de desconsideração da personalidade jurídica esculpida pelo art. 50 do Código Civil, uma vez que a empresa Recorrida encerrou suas atividades, de modo que ela não mais existe no campo fático, não havendo que se falar em desconsideração da personalidade jurídica (fls. 63-65).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A pretendida inclusão dos sócios no polo passivo da execução, prescindindo-se da instauração de incidente de desconsideração da personalidade jurídica, in casu, não comporta guarida.
+Em termos fáticos, a agravante alicerça sua pretensão na certidão do Oficial de Justiça (cópia à fl. 45) que, em cumprimento de mandado de penhora certificou que no endereço da executada constatou que o posto de gasolina se encontrava isolado por tapumes.
+ ..
+Como cediço, o encerramento irregular, aqui apenas inferido pela agravante, sequer é elemento apto, por si só, a embasar a inclusão dos sócios no polo passivo - mesmo quando instaurado o incidente de desconsideração da personalidade jurídica - se ausente comprovação de abuso de personalidade.
+Logo, ausente demonstração da extinção da pessoa jurídica, subsiste a personalidade distinta da de seus sócios, sendo imprescindível a instauração do incidente de desconsideração da personalidade jurídica a fim de que seja oportunizado à exequente a demonstração dos elementos autorizadores da medida, a teor do artigo 50 do Código Civil, e, aos sócios, o contraditório e a ampla defesa (fl. 54-55).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
