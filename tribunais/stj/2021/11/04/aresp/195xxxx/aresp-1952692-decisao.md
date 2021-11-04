@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se Agravo interposto pelo Ministério Público Federal contra decisão que inadmitiu Recurso Especial (art. 105, III, a, da CF/1988) no qual se impugna acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. BENEFÍCIO DE PRESTAÇÃO CONTINUADA. TERMO INICIAL DO BENEFÍCIO.
+I - Relembre-se que restou fixado o termo inicial do benefício de prestação continuada a contar da data da sentença (30.07.2019), quando foram considerados preenchidos os requisitos para a concessão do benefício, uma vez que o laudo médico pericial concluiu pela ausência de incapacidade laborativa da parte autora.
+II- Não prospera, portanto, a pretensão do agravante, não merecendo reforma a decisão agravada.
+III- Agravo (CPC, art. 1.021) interposto pelo Ministério Público Federal improvido.
+Nas razões do Apelo nobre, o recorrente alega violação do art. 43, § 1º, b, da Lei 8.213/1991, "que dispõe deva o termo inicial do benefício previdenciário de aposentadoria por invalidez ser fixado a partir do requerimento administrativo, data em que o INSS tomou conhecimento do pedido do postulante na via administrativa. Esse dispositivo aplica-se ao benefício assistencial por identidade de razões" (fl. 197, e-STJ).
+Sem contrarrazões.
+Após decisum que inadmitiu o Recurso Especial, com base na ausência de legitimidade recursal do Ministério Público Federal, foi interposto o presente Agravo, tendo o recorrente apresentado argumentos com o fim de rebater os fundamentos da decisão agravada.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25 de outubro de 2021.
+Preliminarmente, consigno que, nos termos da jurisprudência do STJ, "o Ministério Público tem legitimidade para recorrer nos processos em que oficiou como custos legis, ainda que se trate de controvérsia relativa a direitos individuais disponíveis e as partes estejam devidamente representadas por advogados. Enunciado da Súmula n. 99/STJ, art. 499 do Código de Processo Civil de 1973, art. 996 do Código de Processo Civil de 2015. Precedentes do STF e do STJ. Preliminar de ilegitimidade recursal do Parquet afastada" (AgInt no REsp 1.606.433/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 10/3/2017).
+Nessa linha:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO DE PRESTAÇÃO CONTINUADA. PESSOA IDOSA. LEI 8.742/1993. MINISTÉRIO PÚBLICO FEDERAL. LEGITIMIDADE RECURSAL. MISERABILIDADE AFERIDA POR OUTROS CRITÉRIOS QUE NÃO A LIMITAÇÃO DA RENDA PER CAPITA FAMILIAR. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. A Terceira Seção do STJ, ao apreciar o REsp 1.112.557/MG, submetido à sistemática do art. 543-C do CPC/1973, firmou a compreensão de que o critério objetivo de renda per capita mensal inferior a 1/4 (um quarto) do salário mínimo, previsto no art. 20, § 3º, da Lei 8.742/93, não é o único parâmetro para aferir hipossuficiência, podendo tal condição ser constatada por outros meios de prova.
+2. Além disso, a Primeira Seção, no julgamento do REsp 1.355.052/SP, sob o regime dos recursos repetitivos do artigo 543-C do CPC/1973, entendeu que: "Aplica-se o parágrafo único do artigo 34 do Estatuto do Idoso (Lei 10.741/2003), por analogia, a pedido de benefício assistencial feito por pessoa com deficiência a fim de que benefício previdenciário recebido por idoso, no valor de um salário mínimo, não seja computado no cálculo da renda per capita prevista no artigo 20, § 3º, da Lei 8.742/1993".
+3. No presente caso, a negativa de concessão do benefício assistencial considerou os julgamentos vinculantes acima indicados e o contexto fático da situação na qual vive a parte autora.
+4. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ. Precedentes: AgInt no AREsp 1.031.395/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 26.3.2018; e AgInt no AREsp 1.000.090/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 5.5.2017.
+5.Recurso Especial não conhecido.
+(REsp 1.797.465/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 22/4/2019)
+Quanto à questão de fundo, assiste razão à parte recorrente.
+É assente o entendimento do STJ no sentido de que, na existência de requerimento administrativo, este deve ser o marco inicial para o pagamento do benefício discutido.A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. BENEFÍCIO ASSISTENCIAL AO DEFICIENTE. TERMO INICIAL. REQUERIMENTO ADMINISTRATIVO. ENTENDIMENTO PACÍFICO DO STJ.
+1. Cuida-se de inconformismo com acórdão do Tribunal de origem que entendeu devida a concessão do benefício assistencial ao deficiente, considerando como termo inicial o requerimento administrativo.
+2. É assente o entendimento do STJ no sentido de que, na existência de requerimento administrativo, este deve ser o marco inicial para o pagamento do benefício discutido, sendo irrelevante que tenha a comprovação da implementação dos requisitos se verificado apenas em âmbito judicial.
+3. A propósito: "Nos termos da jurisprudência do STJ, o benefício previdenciário de cunho acidental ou o decorrente de invalidez deve ser concedido a partir do requerimento administrativo e, na sua ausência, a partir da citação. A fixação do termo a quo a partir da juntada do laudo em juízo estimula o enriquecimento ilícito do INSS, visto que o benefício é devido justamente em razão de incapacidade anterior à própria ação judicial." (REsp 1.411.921/SC, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 15/10/2013, DJe 25/10/2013). No mesmo sentido: AgInt no REsp 1.611.325/RN, Ministro Francisco Falcão, Segunda Turma, DJe 24/03/2017; AgInt no REsp 1.601.268/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 30/6/2016; AgInt no REsp 1.790.912/PR, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/10/2019. REsp 1.731.956/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 29/5/2018.
+4. Recurso Especial não provido.
+(REsp 1.851.145/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 13/5/2020)
+PREVIDENCIÁRIO. APLICABILIDADE DO ART. 557 DO CPC. ASSISTÊNCIA SOCIAL. BENEFÍCIO PREVISTO NO ART. 203, V, DA CONSTITUIÇÃO FEDERAL. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO.
+I - O presente feito decorre de ação de concessão de benefício de prestação continuada objetivando a concessão do benefício previsto no art. 203, V, da Constituição Federal de 1988, sob o fundamento de ser pessoa portadora de deficiência e não possuir meios de prover a própria manutenção ou de tê-la provida por sua família. Na sentença, julgou-se improcedente o pedido. No Tribunal Regional Federal da 3ª Região, a sentença foi reformada.
+II - Esta Corte consolidou o entendimento de que havendo requerimento administrativo, como no caso, este é o marco inicial dos efeitos financeiros do benefício assistencial. Nesse sentido: REsp n. 1610554/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 18/4/2017, DJe 2/5/2017; REsp n. 1615494/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 1/9/2016, DJe 6/10/2016 e Pet n. 9.582/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 26/8/2015, DJe 16/9/2015.
+III - Correta, portanto, a decisão que deu provimento ao recurso especial do Ministério Público Federal.
+IV - Agravo interno improvido.
+(AgInt no REsp 1.662.313/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 27/3/2019)
+Diante do exposto, conheço do Agravo para dar provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
