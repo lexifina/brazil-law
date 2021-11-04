@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO,quenão admitiu recurso especial, fundadona alínea "a"do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fls. 527/528):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DECONTRIBUIÇÃO. APOSENTADORIA ESPECIAL. REQUISITOS. LEGITIMIDADE ATIVA. INTERESSE DE AGIR. PENSÃO. REVISÃO DO VALOR. ATIVIDADE ESPECIAL. EXPOSIÇÃO A RUÍDO E A AGENTESQUÍMICOS. INCIDENTE DE RESOLUÇÃO DE DEMANDASREPETITIVAS. TEMA 8. AUXÍLIO-DOENÇA PREVIDENCIÁRIO. CÔMPUTO DE TEMPO DE SERVIÇO ESPECIAL. POSSIBILIDADE. CORREÇÃO MONETÁRIA E JUROS DE MORA. TEMA 810 DOSTF. IMPLANTAÇÃO IMEDIATA DO BENEFÍCIO. HONORÁRIOS. MAJORAÇÃO.
+1. Consoante entendimento desta Corte, a viúva que é dependente previdenciária habilitada, inclusive titular de pensão por morte, tem legitimidade ativa para propor ação, em nome próprio, a fim de pleitear a revisão da aposentadoria por tempo de serviço pertencente ao segurado finado que deu origem ao seu benefício atual, com reflexos neste, bem como o pagamento das diferenças decorrentes a que teria direito o segurado falecido em vida, visto que tal direito integra-se ao patrimônio do morto e transfere-se aos sucessores, por seu caráter econômico e não personalíssimo.
+2. Não há que se falar em ausência de interesse jurídico por falta de pedido administrativo expresso de reconhecimento da especialidade de períodos de trabalho potencialmente sujeitos a agentes nocivos, haja vista que é dever do INSS orientar o segurado na correta formalização do pedido, ex vi do art. 105 da Lei n.º 8.213, de 1991 e do princípio da fungibilidade dos benefícios previdenciários.
+3. Em se tratando de CTPS regularmente emitida e anotada, sem rasuras e com anotações de vínculos em ordem cronológica crescente, as anotações nela constantes encerram presunção relativa de veracidade.
+4. No caso do empregado, incumbe à empresa o dever de recolher a respectiva contribuição previdenciária, não podendo o empregado sofrer o prejuízo decorrente da irresponsabilidade da empresa e da falta de fiscalização do INSS.
+5. O reconhecimento da especialidade e o enquadramento da atividade exercida sob condições nocivas são disciplinados pela lei em vigor à época em que efetivamente exercidos, passando a integrar, como direito adquirido, o patrimônio jurídico do trabalhador.
+6. Devidamente comprovada a exposição a ruído e a agentes químicos (hidrocarbonetos, fumos metálicos e cromo) em razão da rotina de trabalho do de cujus na indústria metalúrgica, deve-se reconhecer a especialidade do correspondente tempo de serviço.
+7. O período de auxílio-doença de natureza previdenciária, independente de comprovação da relação da moléstia com a atividade profissional do segurado, deve ser considerado como tempo especial quando trabalhador exercia atividade especial antes do afastamento.
+8. No tocante à aposentadoria, tendo laborado o "de cujos" mais de25 anos em atividade especial, adquiriu direito à concessão de aposentadoria especial. De outro lado, também preencheu os requisitos para concessão de aposentadoria por tempo de serviço/contribuição, ou seja, laborou mais de 35anos (art. 201, § 7º, I da CF), de modo que deve ser concedida à autora a pensão correspondente ao benefício mais vantajoso.
+9. Sistemática de atualização do passivo observará a decisão do STF consubstanciada no seu Tema nº 810. Procedimento que não implica reformatio in pejus ou ofensa à coisa julgada material.
+10. Quanto aos honorários advocatícios, tendo em vista o trabalho adicional realizado em grau recursal, uma vez que foram apresentadas contrarrazões, deve ser majorada a verba a cargo da autarquia, para 15% do valor da condenação, excluídas as prestações vincendas a contar da prolação da sentença (Súmula 111 do STJ e CPC/15).
+Embargos de declaração rejeitados (e-STJ fls. 556/561).
+No recurso especial obstaculizado, a parte apontouviolação dos arts.17, 18 e 485, VI, do CPC/2015, 55, 57, 58, 112 da Lei n. 8.213/1991, 22 da Lei n.8.212/1991, 65, parágrafo único, do Decreto n. 3.048/1999, sustentando: a) a ilegitimidade da parte autora para pleitear a concessão de benefício previdenciário em nome de terceiro, já falecido; b) a impossibilidade de cômputo dos períodos em que o segurado ficouafastado da atividade especial para gozo de aposentadoria por invalidez ou auxílio-doença previdenciários
+Por fim, caso não se entenda prequestionada a matéria, requer que seja anulado o acórdão por contrariedade ao art. 1.022, II, do CPC/2015 a fim de ser proferido novo julgamento.
+Contrarrazõesàs e-STJ fls. 681/683.
+O Vice-Presidente do Tribunal a quonão admitiu o recurso especial em relação ao mérito, porém,no tocante ao Tema 998/STJ, negou seguimento ao recurso, com base no art. 1.040 do CPC/2015 (e-STJ fls. 699/703).
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+O Tribunal de origem assim concluiu acerca da legitimidade da parte autora de pleitear o benefício previdenciário, como se colhe do excerto do aresto ora recorrido (e-STJ fl. 508):
+As preliminares alegadas pelo INSS foram devidamente enfrentadas e afastadas na sentença, cujos fundamentos merecem ser mantidos.
+Passo a citá-los e adotá-los como razões de decidir, iniciando pela preliminar alegada pela autarquia recorrente de ilegitimidade ativa:
+ ..  Legitimidade ativa
+O INSS argumenta que a beneficiária de pensão por morte não tem legitimidade para requerer a revisão do ato de indeferimento de aposentadoria do instituidor da pensão.
+Ocorre que, ao contrário do afirmado pelo INSS, a titular de pensão por morte, em decorrência de expressa disposição legal (artigo 112 da Lei nº 8.213/91), tem legitimidade ativa para postular revisão do benefício percebido pelo instituidor do pensionamento, repercutindo o direito postulado em acréscimo na renda mensal inicial.
+Afasto, portanto, esta preliminar.  ..
+Oreferido entendimento está em harmonia com a jurisprudência desta Corte, no sentido de que o(a)viúvo(a) possui legitimidade ativa para postulara revisão da aposentadoria do falecido instituidor, com reflexo no cálculo da renda mensal dapensão por morte.
+Confiram-se:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENSÃO DERIVADA DE APOSENTADORIA OBTIDA JUNTO AO INSS. VIÚVA TITULAR DE PENSÃO POR MORTE DE MARIDO APOSENTADO. MAJORAÇÃO DA PENSÃO MEDIANTE A REVISÃO DA RENDA MENSAL INICIAL (RMI) DA PRETÉRITA APOSENTAÇÃO.PRINCÍPIO DA ACTIO NATA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A Autora, somente com o falecimento do titular da aposentadoria, e, consequentemente, com a concessão da pensão por morte, adquiriu legitimidade para questionar o ato de concessão do benefício originário recebido pelo falecido marido, cujos reflexos financeiros afetam diretamente o cálculo da renda mensal inicial do benefício derivado - pensão por morte.
+ ..
+IX - Agravo Interno improvido.
+(AgInt no REsp 1546751/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 03/05/2018, DJe 14/05/2018)
+PREVIDENCIÁRIO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.PENSÃO DERIVADA DE APOSENTADORIA OBTIDA JUNTO AOINSS. VIÚVATITULAR DEPENSÃO POR MORTEDE MARIDO APOSENTADO. MAJORAÇÃO DA PENSÃO MEDIANTE A REVISÃO DA RENDA MENSAL INICIAL (RMI) DA PRETÉRITA APOSENTAÇÃO. PRINCÍPIO DA ACTIO NATA. INÉRCIA NÃO CONFIGURADA.DECADÊNCIA AFASTADA. AGRAVO INTERNO PROVIDO.
+ ..
+II - A Autora, somente com o falecimento do titular da aposentadoria, e, consequentemente, com a concessão dapensão por morte,adquiriulegitimidadepara questionar o ato de concessão do benefício originário recebido pelo falecido marido, cujos reflexos financeiros afetam diretamente o cálculo da renda mensal inicial do benefício derivado- pensão por morte.
+ ..
+VI - Agravo Interno provido. (AgInt no REsp 1.576.274/SC, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, Primeira Turma, DJe 11/12/2017). (Grifos acrescidos).
+A contrario sensu:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. VERBAS DEVIDAS A SEGURADO FALECIDO NÃO RECEBIDAS EM VIDA. AÇÃO PROPOSTA PELA ESPOSA.ILEGITIMIDADE ATIVA AD CAUSAM. LEI 8.213/91, ART. 112, E CÓDIGO CIVIL, ART. 1.063.
+1. Os valores devidos pelo INSS ao falecido segurado devem ser pagos, independentemente de inventário ou arrolamento, com prioridade aos dependentes habilitados à pensão por morte, e na ausência destes, aos seus sucessores civis, obedecida a ordem de vocação hereditária do Código Civil, Art. 1.063.
+2. Somente na hipótese de ausência de descendentes ou ascendentes do falecido segurado, está o cônjuge sobrevivente apto a postular esses valores não recebidos em vida pelo ex-marido, seja pela via administrativa (Lei 8.213/91, Art. 112), seja pela judicial.
+3. Circunstância não comprovada nos autos; ilegitimidade ativa ad causam reconhecida.
+4. Recurso conhecido e provido.(REsp 243.953/RS, Rel. Ministro EDSON VIDIGAL, QUINTA TURMA, julgado em 16/03/2000, DJ 17/04/2000, p. 92) (Grifos acrescidos).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
