@@ -1,0 +1,59 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+
+    “PREVIDENCIÁRIO - PROCESSUAL CIVIL - EXECUÇÃO - AGRAVO PREVISTO NO ART. 557, §1°, DO CPC - JUROS DE MORA EM CONTINUAÇÃO - INCIDÊNCIA ENTRE A DATA DA CONTA DE LIQUIDAÇÃO E A DATA DA INCLUSÃO DO PRECATÓRIO NO ORÇAMENTO - PRAZO LEGAL OBSERVADO - PRECLUSÃO. I - Encontra-se preclusa a questão referente ao critério de aplicação dos juros de mora, porquanto a decisão exequenda fixou o termo final dos juros de mora na data da conta de liquidação, consoante precedentes do E. STF. Assim, em respeito à coisa julgada, há que prevalecer a determinação do título judicial em relação ao termo final da incidência dos juros de mora. II - Agravo da parte exequente, previsto no art. 557, §1°, do CPC, improvido” (eDOC 2, p. 288)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 100, § 12º, do texto constitucional.
+
+    Nas razões recursais, alega-se que os juros de mora devem incidir durante o período compreendido entre a liquidação e a expedição do precatório, conforme o decidido pelo Supremo Tribunal Federal no julgamento do tema 96 da repercussão geral (eDOC 2, p. 293-303).
+
+    Determinado o retorno do feito ao órgão julgador, pela vice-presidência do Tribunal de origem, para juízo de retratação (eDOC 3, 57-58), o entendimento inicial foi mantido, conforme acórdão que restou assim ementado:
+
+    “PROCESSO CIVIL - PREVIDENCIÁRIO - AGRAVO DE INSTRUMENTO PREVISTO NO ART. 557, DO CPC/73 - EXECUÇÃO DE SENTENÇA - PRECATÓRIO - SALDO REMANESCENTE - JUROS DE MORA - REPERCUSSÃO GERAL - JUÍZO DE RETRATAÇÃO - TERMO FINAL DA INCIDÊNCIA DOS JUROS DE MORA - COISA JULGADA. I - No acórdão impugnado foi adotado o entendimento de que se encontra acobertada pela coisa julgada a questão relativa à possibilidade de aplicação de juros de mora após a data da conta de liquidação, tendo em vista a ocorrência do trânsito em julgado da decisão exequenda que fixou o termo final da incidência dos juros de mora até a data da conta de liquidação que der origem ao precatório ou à requisição de pequeno - RPV, consoante precedente do E. STF. II - Em respeito à coisa julgada não se aplicam ao feito em curso os efeitos do julgamento do RE 579.431/RS, restando afastada a possibilidade de retratação. III - Determinada a remessa dos autos à Vice-Presidência” (eDOC 3, p. 66)
+
+    Parecer da Procuradoria-Geral da República, assim ementado:
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. JUROS DE MORA ENTRE A DATA DA CONTA DE LIQUIDAÇÃO E A DATA DE EXPEDIÇÃO DA REQUISIÇÃO DE PEQUENO VALOR OU DO PRECATÓRIO. COISA JULGADA. TEMA 96 DA REPERCUSSÃO GERAL. PROCEDÊNCIA. CONTRARIEDADE À TESE FIXADA NO PARADIGMA. PARECER PELO CONHECIMENTO E PROVIMENTO DO AGRAVO E, NO MÉRITO, PELO PROVIMENTO DO RECURSO EXTRAORDINÁRIO” (eDOC 61, p. 1)
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    O Tribunal de origem consignou que a sentença exequenda fixou como termo final para a incidência dos juros de mora a data da liquidação do débito, de maneira a considerar que, no caso, deve prevalecer a obediência aos efeitos da coisa julgada em detrimento da incidência dos juros até a efetiva expedição do precatório. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “Conforme assinalado na decisão ora hostilizada, encontra-se preclusa a questão referente ao critério de aplicação dos juros de mora, porquanto a decisão exequenda firmou entendimento no sentido que os juros incidem somente até a data da conta de liquidação, consoante precedentes do E. STF.
+
+    Assim, em respeito à coisa julgada, há que prevalecer a determinação do título judicial em relação ao termo final da incidência dos juros de mora” (eDOC 2, p. 286)
+
+    Inicialmente, destaco que, nos termos do Código de Processo Civil (art. 525, §§ 12 e 14), é inexigível “o título executivo judicial fundado em lei ou ato normativo considerado inconstitucional pelo Supremo Tribunal Federal, ou fundado em aplicação ou interpretação da lei ou do ato normativo tido pelo Supremo Tribunal Federal como incompatível com a Constituição Federal, em controle de constitucionalidade concentrado ou difuso”, desde que a decisão proferida pelo STF seja anterior ao trânsito em julgado da sentença exequenda.
+
+    Registro ainda o julgamento do tema 360 da sistemática da repercussão geral, cujo paradigma é o RE-RG 611.503, Rel. Min. Teori Zavascki, Redator do acórdão Min. Edson Fachin, DJe 19.3.2019, no qual reconhecida a constitucionalidade de dispositivos do Código de Processo Civil de 1973 e de 2015 acerca da chamada “coisa julgada inconstitucional”.
+
+    Na ocasião, reconheceu-se a “eficácia rescisória de sentenças revestidas de vício de inconstitucionalidade qualificado, assim caracterizado nas hipóteses em que a sentença exequenda esteja fundada em norma reconhecidamente inconstitucional – seja por aplicar norma inconstitucional, seja por aplicar norma em situação ou com um sentido inconstitucionais; ou (b) a sentença exequenda tenha deixado de aplicar norma reconhecidamente constitucional; e (c) desde que, em qualquer dos casos, o reconhecimento dessa constitucionalidade ou a inconstitucionalidade tenha decorrido de julgamento do STF realizado em data anterior ao trânsito em julgado da sentença exequenda”.
+
+    Nesses termos, para que se reconheça a inexigibilidade do título, é necessário que, além do fundamento inconstitucional da sentença exequenda, haja o preenchimento do requisito temporal: o reconhecimento da inconstitucionalidade ou constitucionalidade sobre a matéria pelo STF deve ter ocorrido em data anterior ao trânsito em julgado da sentença.
+
+    Nesse sentido, confira-se ementa do RE-RG 611.503 (tema 360), paradigma da repercussão geral:
+
+    “RECURSO EXTRAORDINÁRIO. COISA JULGADA INCONSTITUCIONAL. ARTIGO 741, PARÁGRAFO ÚNICO, E ARTIGO 475-L, PARÁGRAFO PRIMEIRO, DO CÓDIGO DE PROCESSO CIVIL DE 1973. ARTIGO 525, PARÁGRAFO PRIMEIRO, INCISO III, PARÁGRAFOS 12 E 14, E ARTIGO 535, PARÁGRAFO 5º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. 1. São constitucionais as disposições normativas do parágrafo único do art. 741 do CPC, do § 1º do art. 475-L, ambos do CPC/73, bem como os correspondentes dispositivos do CPC/15, o art. 525, § 1º, III e §§ 12 e 14, o art. 535, § 5º. 2. Os dispositivos questionados buscam harmonizar a garantia da coisa julgada com o primado da Constituição, agregando ao sistema processual brasileiro, um mecanismo com eficácia rescisória de sentenças revestidas de vício de inconstitucionalidade qualificado. 3. São consideradas decisões com vícios de inconstitucionalidade qualificados: (a) a sentença exequenda fundada em norma reconhecidamente inconstitucional, seja por aplicar norma inconstitucional, seja por aplicar norma em situação ou com sentido inconstitucionais; (b) a sentença exequenda que tenha deixado de aplicar norma reconhecidamente constitucional. 4. Para o reconhecimento do vício de inconstitucionalidade qualificado exige-se que o julgamento do STF, que declara a norma constitucional ou inconstitucional, tenha sido realizado em data anterior ao trânsito em julgado da sentença exequenda. 5. Recurso extraordinário a que se nega provimento”. (RE 611.503, Relator Teori Zavascki, Relator do acórdão: Edson Fachin, Tribunal Pleno, DJe 19.3.2019)
+
+    Na espécie, percebe-se que o tema 96 da repercussão geral, que fixou a tese de que incidem juros de mora no período compreendido entre a data da conta de liquidação e a expedição do requisitório, tem como data da publicação do acórdão o dia 30 de junho de 2017, tendo o acórdão exequendo transitado em julgado em data muito anterior (eDOC 2, p. 75-86).
+
+    Desse modo, verifica-se que o acórdão recorrido não destoa da orientação firmada por esta Corte. Nesse sentido, cito os seguintes precedentes:
+
+    “Agravo regimental na reclamação. 2. Determinação de suspensão das ações que tratam do tema 1046. Ação de conhecimento com trânsito em julgado anterior à determinação. Processo em fase de execução definitiva. Inaplicabilidade do paradigma indicado. Ausência de estrita aderência. Não cabimento da reclamação. Precedentes. 3. Alegação de inexigibilidade do título executivo. Necessária observância do requisito temporal. Reconhecimento da inconstitucionalidade ou constitucionalidade sobre a matéria pelo STF deve ter ocorrido em data anterior ao trânsito em julgado da sentença. Tema 360 da repercussão geral. Não acolhimento. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (Rcl 42534 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 30.11.2020)
+
+    “CONSTITUCIONAL. TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. OFENSA AO QUE DECIDIDO POR ESTE TRIBUNAL NA ADPF 324 E NO TEMA 360 DA REPERCUSSÃO GERAL. TRÂNSITO EM JULGADO DA SENTENÇA EXEQUENDA. FATOR CRONOLÓGICO. DELIMITAÇÃO. TESE FIXADA NO JULGAMENTO DO TEMA 360-RG. INOBSERVÂNCIA PELO JUÍZO RECLAMADO. RECLAMAÇÃO JULGADA PROCEDENTE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado afastou a declaração de inexigibilidade do título executivo judicial e determinou a continuidade dos atos executórios do processo, ao considerar que “a declaração da inconstitucionalidade pelo STF em momento posterior à data de trânsito em julgado da decisão exequenda, tendo em conta que a interposição de recurso manifestamente inadmissível, não impediu o aperfeiçoamento da coisa julgada”. 2. Ao assim decidir, deixou de observar o fator cronológico bem delimitado, na parte final, da tese fixada no julgamento do Tema 360-RG segundo o qual é inexigível a sentença fundada em norma declarada inconstitucional, desde que “o reconhecimento dessa inconstitucionalidade tenha decorrido de julgamento do STF realizado em data anterior ao trânsito em julgado da sentença exequenda” – uma vez que, no caso em análise, a estabilização do acórdão fundado na Súmula 331, I, do TST ocorreu em 26/4/2019 (doc. 8, fl. 4); enquanto que, ainda em 2018, o SUPREMO TRIBUNAL FEDERAL, nos autos da ADPF 324 (Rel. Min. ROBERTO BARROSO, Pleno, julgado em 30/8/2018), declarou a inconstitucionalidade da Súmula 331/TST, por violação aos princípios constitucionais da livre iniciativa e da livre concorrência, assentando, ao final, a constitucionalidade da terceirização de atividade-fim ou meio, com a fixação da seguinte TESE: “1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada. 2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993”. 3. A manutenção do acórdão, fundada na Súmula 331/TST, contraria os resultados produzidos pelos julgamentos do Tema 360 da Repercussão Geral (RE 611.503, Rel. Min. TEORI ZAVASCKI, Redator p/ acórdão Min. EDSON FACHIN, julgado em 20/9/2018), combinado com ADPF 324 (Rel. Min. ROBERTO BARROSO, Pleno, julgado em 30/8/2018), a sugerir, consequentemente, o restabelecimento da autoridade desta CORTE quanto ao ponto. 4. Recurso de agravo a que se nega provimento” (Rcl 43324 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 16.12.2020)
+
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+    Publique-se.
+
+    Brasília, 4 de novembro de 2021.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
