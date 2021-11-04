@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, O FUNDAMENTO DA DECISÃO RECORRIDA. INVIABILIDADE.
+1. Em Apelação interposta em Ação por Improbidade Administrativa, o Tribunal de origem decidiu: "o que se verificou é que as autoridades municipais envolvidas dividiram o objeto dos serviços executados para que não fosse propositadamente exigível a licitação, sendo que referidos serviços tinham objetos materialmente únicos, juridicamente indivisíveis e que vieram a ser realizados em curtos períodos e com valores contratuais que se extrapolavam em muito dos valores limite para a dispensa da licitação, demonstrando, assim, a irregularidade dos atos dos requeridos" (fls. 562-563, e-STJ).
+2. Contra essa decisão foi interposto Recurso Especial, não admitido pela instância ordinária com base, entre outras razões, na Súmula 7/STJ, fundamento que não foi atacado no Agravo dirigido ao STJ, como corretamente apontou a decisão da Presidência, ora agravada.
+3. Ao contrário do que sustentam os agravantes, o requisito da impugnação especificada não foi suprido pelo fato de que "a inaplicação da Súmula n. 7/STJ e a demonstração da efetiva divergência jurisprudencial encontram-se ancoradas nos termos do v. acórdão - tido por paradigma -, proferido nos autos do Resp n.
+1.156.564-MG" (fl. 1.282, e-STJ).
+4. "Por força do princípio da dialeticidade, há um ônus a ser observado pelo recorrente: o combate aos fundamentos do ato judicial de forma dialética e específica. A sua inobservância fulmina a admissibilidade e torna juridicamente impossível o seguimento do recurso" (RMS 60.604/SP, Relator Min. Og Fernandes, Segunda Turma, DJe 8.8.2019).
+5. Incide o entendimento firmado pela Corte Especial, no sentido de que "a decisão de inadmissibilidade do recurso especial possui único dispositivo, relativo aos pressupostos dessa espécie processual  .. , sendo exigida a impugnação específica no agravo em recurso especial de todos os seus fundamentos" (EAREsp 701.404/SC, Relator Ministro João Otávio de Noronha, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018).
+6. Agravo Interno não provido.
+Em síntese, o embargante alega que há omissão. Afirma:
+Adite-se que a douta manifestação contida no v. acórdão embargado se omitiu quanto a análise das seguintes assertivas:
+a) Deixou de apreciar a alegação de que a prática utilizada pelo Tribunal de Justiça do Estado de São Paulo - de se valer de modelo decisório padrão no juízo de admissibilidade dos recursos dirigidos às instâncias especiais - acarreta (e acarretou no caso concreto) grande dificuldade, aos recorrentes, na impugnação específica do pronunciamento judicial de caráter genérico e que, por decorrência, enquadra-se em qualquer situação de inadmissibilidade de recurso especial. Desse modo, a motivação exposta pela Corte Paulista foi, dentro do possível, devidamente refutada nas razões recursais;
+b) Ainda na mesma linha, não se manifestou o v. acórdão acerca da alegação aventada nas razões do agravo interno no sentido de que "não se mostra razoável admitir um juízo de admissibilidade genérico e eivado de motivação sem conteúdo e atribuir ao recorrente o ônus de impugná-lo especificamente, ou seja, ter-se-á uma anomalia jurídica em que se exige uma impugnação específica contra uma decisão genérica";
+c) Não se verifica do v. acórdão embargado, ainda, nenhuma menção ao argumento de que, a despeito da lacônica e genérica decisão de inadmissibilidade do Tribunal de origem, foi devidamente impugnado o fundamento considerado como não rebatido pela r. decisão proferida pela Presidência desse Superior Tribunal de Justiça, referente ao óbice da Súmula 7/STJ, nos moldes da ponderação exposta nas razões do agravo interno, e não considerada no julgamento ora embargado:
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+2. O aresto vergastado consignou que "Ao contrário do que sustentam os agravantes, o requisito da impugnação especificada não foi suprido pelo fato de que "a inaplicação da Súmula n. 7/STJ e a demonstração da efetiva divergência jurisprudencial encontram-se ancoradas nos termos do v. acórdão - tido por paradigma -, proferido nos autos do Resp n.1.156.564-MG" (fl. 1.282, e-STJ)".
+3. Ao contrário do que afirma a parte embargante, não há omissão no decisum embargado e suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+4. Embargos de Declaração rejeitados
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+O acórdão vergastado foi claro em manter a decisão agravada pela ausência de impugnação específica da incidência da Súmula 7/STJ contida na decisão de admissibilidade do Recurso Especial pela corte de origem. Evidente que a decisão de admissibilidade é compreensível, sendo descabida a alegação de que seria totalmente genérica, impossibilitando sua impugnação específica.
+Além disso, deve ser rechaçada a tese do embargante de que o aresto é omisso no que concerne ao argumento de que foi devidamente impugnado o fundamento considerado como não rebatido referente ao óbice da Súmula 7/STJ. Tal tema foi expressamente enfrentado.
+Na hipótese dos autos, o acórdão embargado consignou:
+Na origem, trata-se de Ação por Improbidade Administrativa na qual se narrou que o então Prefeito do Município de Bálsamo frustrou procedimento licitatório, gerando prejuízo ao Erário.
+Consignou-se no acórdão recorrido: "o que se verificou é que as autoridades municipais envolvidas dividiram o objeto dos serviços executados para que não fosse propositadamente exigível a licitação, sendo que referidos serviços tinham objetos materialmente únicos, juridicamente indivisíveis e que vieram a ser realizados em curtos períodos e com valores contratuais que se extrapolavam em muito dos valores limite para a dispensa da licitação, demonstrando, assim, a irregularidade dos atos dos requerido" (fls. 562-563, e-STJ).
+Contra essa decisão foi interposto Recurso Especial, não admitido pela instância ordinária com base, entre outras razões, na Súmula 7/STJ, fundamento que não foi impugnado no Agravo dirigido ao STJ, como corretamente apontou a decisão da Presidência, ora agravada.
+Ao contrário do que sustentam os agravantes, o requisito da impugnação especificada não foi suprido pelo fato de que "a inaplicação da Súmula n. 7/STJ e a demonstração da efetiva divergência jurisprudencial encontram-se ancoradas nos termos do v. acórdão - tido por paradigma -, proferido nos autos do REsp n. 1.156.564-MG" (fl. 1.282, e-STJ).
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS.
+INVIABILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar, na via especial, suposta violação a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt na Rcl 35.425/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
