@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por FORTA TECH COMERCIO DE EQUIPAMENTOS AUTOMOTICOS LTDA.com fundamento na alínea "a" do permissivo constitucionalcontra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 300):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. EXCLUSÃO DAS PARCELAS RELATIVAS AO IMPOSTO DE RENDA RETIDO NA FONTE E DA CONTRIBUIÇÃO PREVIDENCIÁRIA PARTE DO EMPREGADO.
+1. A hipótese de incidência da contribuição previdenciária patronal, nos termos do art. 22, I, da Lei 8.212/91, é o total das remunerações pagas, devidas ou creditadas aos segurados empregados, isso significando que a contribuição previdenciária patronal incide sobre o valor total bruto das remunerações.
+2. A retenção pela empresa, como responsável tributária, dos valores devidos pelo empregado a título de contribuição previdenciária e imposto de renda não altera a natureza dessas verbas, que, enquanto dispêndio do empregador, são remuneração, portanto integram a folha de salários.
+3. As conclusões referentes às contribuições previdenciárias também se aplicam às contribuições ao SAT e terceiros, na medida em que a base de incidência das mesmas também é a folha de salários
+Nas razões de recurso, e-STJ fls. 323/329, a recorrente aponta violação dos seguintes arts.: 22, I, e 28 da Lei n.º 8.212/1991;97 do CTN, ao argumento de ilegalidade "da inclusão da contribuição previdenciária dos empregados e do IRPF na base de cálculo da cota patronal das contribuições previdenciárias" (e-STJ fl. 325).
+Em suas razões, sustenta, em síntese (e-STJ fl. 328):
+Evidente que o IRRF e a Contribuição Previdenciária não constituem parte integrante do salário contribuição, de modo que não há como permitir que tais tributos os quais não retribuem o trabalho dos empregados sejam assim considerados.
+Assim, diante do fato que a contribuição previdenciária e o IRRF do empregado não são oriundas do trabalho realizado, inexiste razão para serem incluídas na base de cálculo da cota patronal da contribuição previdenciária.
+As contrarrazões não foram oferecidas (e-STJ fl. 342).
+O recurso foi admitido às e-STJ fls. 348/349.
+O Ministério Público Federal opinou pelo não conhecimento do recursoem manifestação que possui a seguinte ementa (e-STJ fl. 371):
+RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. EXCLUSÃO DO MONTANTE RETIDO A TÍTULO DE CONTRIBUIÇÃO PREVIDENCIÁRIA DO EMPREGADO E IRRF.IMPOSSIBILIDADE. JURISPRUDÊNCIA DO E.STJ. INCIDÊNCIA DO ÓBICE DA SÚMULA 83/ STJ.
+Parecer pelo não conhecimento do recurso especial.
+Passo a decidir.
+Orecurso especial teve origem em mandado de segurança (e-STJ fls. 3/15) cuja ordem foi denegada em primeiro grau de jurisdição (e-STJ fls. 233/238).
+O Tribunal de origem negou provimento ao recurso de apelação. Destaco os fundamentos do voto condutor do acórdão (e-STJ fls. 303/304):
+Mérito
+Do imposto de renda retido na fonte e da contribuição previdenciária dos empregados
+A hipótese de incidência da contribuição previdenciária patronal, nos termos do art. 22, I, da Lei 8.212/91, é o total das remunerações pagas, devidas ou creditadas aos segurados empregados, isso significando que a contribuição previdenciária patronal incide sobre o valor total bruto das remunerações.
+A retenção pela empresa, como responsável tributária, dos valores devidos pelo empregado a título de contribuição previdenciária e imposto de renda não altera a natureza dessas verbas, que, enquanto dispêndio do empregador, são remuneração, portanto integram a folha de salários.
+Como bem salientou o Ministro Ilmar Galvão, no voto proferido no julgamento do RE 212.209/RS, não existe no sistema tributário o impedimento de incidência de tributo sobre tributo:
+"Não é a primeira vez que essa questão é discutida no Supremo Tribunal Federal. Játive ocasião de relatar casos análogos, não só aqui mas também no STJ. Esse, alias, não poderia ser um assunte novo, se o DL nº 406 esta em vigor hátrinta anos. Não seria somente agora que o fenômeno da superposição do próprio ICMS haveria de ser identificado.
+Vale dizer que, se a tese ora exposta neste recurso viesse a prevalecer, teríamos, a partir de agora, na prática, um novo imposto. Trinta anos de erro no calculo do tributo.
+Em votes anteriores, tenho assinalado que o sistema tributário brasileiro não repele a incidência de tributo sobre tributo. Não há norma constitucional ou legal que vede a presença, na formação da base de cálculo de qualquer imposto, de parcela resultante do mesmo ou do outro tributo, salvo a exceção, que é a única, do inciso XI do paragrafe 2º do art.155 da Constituição, onde esta disposto que o ICMS não compreendera, em sua base de calculo, o montante do imposto sobre produtos industrializados quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configure fato gerador dos dois impostos".
+Assim, a pretensão de que a contribuição incidisse apenas sobre o valor total líquido das remunerações, após o desconto da parcela devida pelos trabalhadores a título de contribuição previdenciária e do imposto de renda retido na fonte não possui qualquer fundamento legal(pelo contrário, viola o dispositivo no art. 22, I, da Lei 8.212/91) ou jurídico.
+As conclusões referentes às contribuições previdenciárias também se aplicam às contribuições ao SAT e terceiros, na medida em que a base de incidência das mesmas também é a folha de salários.
+Na mesma linha, destaco o seguinte precedente desta Corte:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. EXCLUSÃO DAS PARCELAS RELATIVAS AO IMPOSTO DE RENDA RETIDO NA FONTE E DA CONTRIBUIÇÃO PREVIDENCIÁRIA PARTE DO EMPREGADO. "A jurisprudência firmada no âmbito do Superior Tribunal de Justiça orienta-se no sentido de que somente devem ser excluídas da base de cálculo das contribuições previdenciárias devidas pelo empregador parcelas expressamente mencionadas no artigo 28, parágrafo 9º, da lei 8.212/91, ou parcelas revestidas de caráter indenizatório ou previdenciário, que evidentemente não se caracterizam como remuneração ou rendimento do trabalho" (AMS 0003283-50.2006.4.01.3300 / BA, Rel. Des. Fed. Reynaldo Fonseca, Rel. conv. Juíza Federal Gilda Sigmaringa Seixas, Sétima Turma, e-DJF1 p. 423 de 236/06/2009). (TRF4, AC 5012009-39.2019.4.04.7001, SEGUNDA TURMA, Relatora MARIA DE FÁTIMA FREITAS LABARR RE, juntado aos autos em 13/12/2019)
+Prequestionamento
+Em arremate, consigno que o enfrentamento das questões suscitadas em grau recursal, assim como a análise da legislação aplicável, são suficientes para prequestionar junto às instâncias Superiores os dispositivos que as fundamentam. Assim, considero prequestionada a matéria suscitada, especialmente art. 22, I, da Lei 8.212/91.
+Dispositivo
+Ante o exposto, voto por negar provimento à apelação.
+Pois bem.
+O recurso não comporta acolhimento, pois a parte recorrente, em suas razões recursais, deixa de impugnar os seguintes fundamentos do voto condutor do acórdão recorrido (e-STJ fl. 303):
+Em votes anteriores, tenho assinalado que o sistema tributário brasileiro não repele a incidência de tributo sobre tributo. Não há norma constitucional ou legal que vede a presença, na formação da base de cálculo de qualquer imposto, de parcela resultante do mesmo ou do outro tributo, salvo a exceção, que é a única, do inciso XI do paragrafe 2º do art.155 da Constituição, onde esta disposto que o ICMS não compreendera, em sua base de calculo, o montante do imposto sobre produtos industrializados quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configure fato gerador dos dois impostos".
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Vale acrescentar que também não é possível conhecer do recurso especial quando o artigo de lei apontado como violado nas razões do apelo não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.656.968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+Ainda que fosse possível a superação de tal óbice processual, é preciso ter presente "A discussão relativa à observância do princípio da legalidade tributária, reproduzido no art. 97 do CTN, possui natureza eminentemente constitucional, a ser analisada em sede de recurso extraordinário, sob pena de usurpação da competência da Suprema Corte"(AgInt no REsp 1833502/SP, rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/08/2021, DJe 08/09/2021).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
