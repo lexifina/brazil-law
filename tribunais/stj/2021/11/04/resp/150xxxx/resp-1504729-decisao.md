@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4, assim ementado (fl. 859):
+TRIBUTÁRIO. AGRAVOS LEGAIS. NÃO CUMULATIVIDADE DO PIS E DA COFINS. APROVEITAMENTO DE CRÉDITOS RELATIVOS AOS ENCARGOS DE AMORTIZAÇÃO OU DEPRECIAÇÃO DE BENS DESTINADOS AO ATIVO IMOBILIZADO. LIMITAÇÃO TEMPORAL. LEI 10.865/2004, ART. 31.
+1. É inconstitucional regra contida no artigo 31 da Lei 10.865/2004, que excluiu a possibilidade de desconto dos créditos relativos à amortização e depreciação de bens incorporados ao ativo imobilizado adquiridos antes de 01 de maio de 2004. O direito ao creditamento estava previsto no artigo 3º, § 1º, III, das Leis 10.6.37/2902 (PIS) e 10.833/2003 (COFINS), e sua supressão pela lei superveniente, alcançando as aquisições efetuadas na vigência das leis anteriores, viola o direito adquirido e o principio da irretroatividade da lei tributária. Inconstitucionalidade reconhecida pela Corte Especial deste TRF/4a Região, no Incidente de Inconstitucionalidade na AMS nº 2005.7000.00094-0 (Rel. Des. Federal Octávio Roberto Pamplona, DE de 14-07-2008).
+Embargos de declaração acolhidos em parte, com efeitos modificativos, nos termos desta ementa (fl. 1.073):
+EMBARGOS DE DECLARAÇÃO. PIS. COFINS. APROVEITAMENTO DE CRÉDITOS. ATIVO PERMANENTE. DERROGAÇÃO DA NORMA.
+1. Sem que se cogite de ofensa ao princípio da irretroatividade é preciso reconhecer que houve derrogação da norma, porque desde a vigência da Lei 10.883/03 o direito de crédito relativamente à aquisição de máquinas e equipamentos incorporados ao ativo permanente, tanto para o PIS como para a COFINS, ficaram restritos aos bens utilizados na fabricação de produtos destinados à venda ou na prestação de serviços, além dos destinados à locação para terceiros (Lei 11.196/2005).
+2. A impetrante, apenas em relação ao PIS, tem direito ao aproveitamento dos créditos sobre outros bens incorporados ao ativo imobilizado, independentemente de serem utilizados na produção de bens destinados à venda ou prestação de serviços, desde que adquiridos na vigência do art. 3º, VI, da Lei 10.637/2002 (redação original) até a entrada em vigor da Lei 10.833/2003.
+A recorrente sustenta ofensa aos artigos 11, I, "a", da LC 95/1998; 110 do CTN; 3º, VI, da Lei 10.637/2002 e 2º, § 2º, da LICC, pugnando pelo sobrestamento do feito, até o julgamento do REsp 1.221.170 - processado pela sistemática do art. 543-C do CPC/1973. Defende a possibilidade de aproveitamento dos créditos de PIS, independentemente da destinação específica, de que trata a Lei 10.833/2003, até o decurso do prazo de 90 dias da publicação da Lei 11.196/2005.
+Com contrarrazões (fls. 1.183/1.193)
+Juízo positivo de admissibilidade às fls. 1.206.
+Parecer do MPF pelo sobrestamento do feito (fls. 1.221/1.223).
+Decisão desta relatoria determinando o retorno dos autos ao Tribunal de origem para realizar o juízo de adequação, após o julgamento do REsp 1.221.270/PR (fls. 1.225/1.226).
+Decisão do Tribunal de origem remetendo os autos a esta Corte, por entender não ser o caso de aplicação do entendimento firmado no recurso especial repetitivo indicado.
+É o relatório. Passo a decidir.
+De início, convém destacar que a matéria discutida nos autos não se enquadra no decidido pelo REsp 1.221.270/PR, pois não se discute sobre o conceito de insumos, mas sim sobre a possibilidade de aproveitamento dos créditos de PIS, independentemente da destinação específica de que trata a Lei 10.833/2003, até o decurso do prazo de 90 dias da publicação da Lei 11.196/05.
+Delimitada a controvérsia, entendo que o presente recurso não merece êxito.
+Com efeito, verifica-se que o acórdão recorrido encontra-se em consonância com o entendimento desta Corte de que, no regime não-cumulativo, o aproveitamento de créditos relativos ao PIS na aquisição de bens ao ativo fixo, independentemente de sua destinação, somente foi possível até a vigência da Lei 10.833/2003.
+A propósito, confira-se:
+TRIBUTÁRIO. ART. 3º, VI, DA LEI 10.637/2002. REGIME DA NÃO-CUMULATIVIDADE. APROVEITAMENTO DOS CRÉDITOS DE PIS SOBRE "OUTROS BENS INCORPORADOS AO ATIVO IMOBILIZADO" ATÉ A ENTRADA EM VIGOR DA LEI 11.196/2005. IMPOSSIBILIDADE. REVOGAÇÃO PELO ART. 15 DA LEI 10.833/2003.
+1. Controverte-se nos autos a respeito da norma que revogou o art. 3º, VI, da Lei 10.637/2002.
+2. A regra em análise, em sua redação original, permitia à recorrente o desconto, na apuração do tributo devido, dos créditos calculados em relação "às máquinas e equipamentos adquiridos para utilização na fabricação de produtos destinados à venda, bem como a outros bens incorporados ao ativo imobilizado".
+3. Dito de outro modo, em relação aos últimos - "bens incorporados ao ativo imobilizado" - , a possibilidade de aproveitamento dos créditos não se encontrava vinculada a seu uso na fabricação de produtos destinados à venda.
+4. Posteriormente, o art. 3º, VI, da Lei 10.833/2003, que tratava da tributação da Cofins no regime da não-cumulatividade, determinou a possibilidade de desconto, na apuração da respectiva exação, dos créditos calculados em relação à "máquinas, equipamentos e outros bens incorporados ao ativo imobilizado adquiridos para utilização na produção de bens destinados à venda, ou na prestação de serviços".
+5. No que concerne à Cofins, portanto, a disciplina normativa implicou tratamento que apresentaria as seguintes diferenças relativas ao PIS: somente os bens incorporados ao ativo imobilizado que fossem utilizados na produção destinada à venda ou na prestação de serviços serviriam para abater o tributo devido.
+6. Sucede que, para evitar o tratamento desigual - inclusive porque ambas as contribuições incidem sobre a mesma base de cálculo, isto é, o faturamento - , o art. 15 da Lei 10.833/2003 expressamente consignou que o disposto em seu art. 3º, VI, aplica-se "à contribuição para o PIS/PASEP não-cumulativa de que trata a Lei 10.637/2002".
+7. Não resta dúvida, portanto, de que, com o início da vigência do art. 15 da Lei 10.833/2003, houve modificação no regime de apuração do PIS.
+8. Conquanto o art. 43 da Lei 11.196/2005 tenha, mais uma vez, alterado a redação do art. 3º, VI, da Lei 10.637/2002, a melhor interpretação é a de que apenas houve ampliação nas hipóteses de desconto, isto é, passou-se a permitir que também os créditos relativos a bens adquiridos ou fabricados para locação de terceiros sejam incluídos no abatimento do PIS devido.
+9. Recurso Especial não provido.
+(REsp 1.258.979/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2011, DJe 08/09/2011)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. PIS. REGIME NÃO-CUMULATIVO. AQUISIÇÃO DE BENS AO ATIVO FIXO, INDEPENDENTEMENTE DE SUA DESTINAÇÃO. CREDITAMENTO. POSSIBILIDADE ATÉ O ADVENTO DA LEI 10.833/2003. RECURSO ESPECIAL NÃO PROVIDO.
