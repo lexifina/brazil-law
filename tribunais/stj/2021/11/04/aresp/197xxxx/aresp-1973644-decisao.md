@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo contra decisão que negou seguimento ao Recurso Especial por estar o acórdão recorrido em consonância com o Tema 122/STJ, não tendo sido admitidoquanto àmatéria remanescente.
+O acórdão impugnado foi assim ementado:
+Agravo de Instrumento - Execução Fiscal - IPTU - Exercícios de 2010 a 2013 - Alegação de ilegitimidade para figurar no polo passivo da execução, por haver firmado, antes do fato gerador, Contrato de Compromisso de Compra e Venda - Ausência do registro da escritura na matrícula do imóvel - Cabe ao legislador municipal eleger o sujeito passivo do tributo, contemplando qualquer das situações previstas no C.T.N. - Questão pacificada Súmula 399 do C. Superior Tribunal de Justiça - Decisão mantida Recurso Improvido.
+O recorrente afirmou que houve, além de divergência jurisprudencial, ofensa aos arts. 34 e 130 do CTN. Sustentou que, "se o Recorrente não detém a posse do imóvel, não podendo assim usar e gozar da coisa, jamais terá capacidade contributiva para arcar com a responsabilidade pelo pagamento do IPTU".
+Contrarrazões às fls.172-177, e-STJ.
+Em seu agravo defende:
+10. Ocorre que, o Recurso Especial interposto em momento algum aponta qualquer ofensa com relação ao artigo 1.022 do CPC, a única alegação de ofensa trazida pelo Recurso interposto versa sobre os artigos 34 e 130 do CTN.
+11. Inicialmente, cabe ressaltar que compete ao Tribunal a quo, tão somente, a análise inicial acerca da admissibilidade do recurso especial, verificando se os requisitos essenciais a sua interposição se encontram presentes. Isto posto, não cabe ao mesmo adentrar ao mérito do recurso, haja vista que tal competência foi atribuída, exclusivamente, ao Superior Tribunal de Justiça, nos termos do artigo 105, inciso III, da CF.
+12. Não obstante, o Tribunal a quo, proferiu decisão genérica a fim de obstar o prosseguimento do Recurso Especial interposto, o que se verifica da fundamentação, que menciona um artigo que sequer foi atacado no Recurso Especial do Agravante.
+13. Ademais, com relação a reprodução do precedente segundo o qual: " Tanto o promitente comprador (possuidora qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU ", não leva em consideração o quanto disposto no artigo e 130 do CTN, pois o artigo 34, do CTN, não autoriza a solidariedade entre os indivíduos ali elencados.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15 de outubro de 2021.
+Não foram interpostos Embargos de Declaração, ficando a questão adstrita à ofensa aos arts. 34 e 130 do CTN.
+No julgamento do Recurso Especial repetitivo n. 1.110.551/SP, de relatoria do Ministro Mauro Campbell Marques, consolidou-se a tese de que o promitente comprador é legitimado para figurar no polo passivo conjuntamente com o proprietário, qual seja, aquele que tem a propriedade registrada no Cartório de Registro de Imóveis. Ambos são contribuintes responsáveis pelo pagamento do IPTU, cabendo à legislação do município eleger o sujeito passivo do tributo, contemplando qualquer das situações previstas no CTN, e podendo a autoridade administrativa optar por um ou outro (desde que haja previsãolegislativa), com o fim de facilitar o procedimento de arrecadação.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça firmaram entendimento no sentido de que o único recurso cabível para impugnação de possíveis equívocos na aplicação do art. 543-B ou 543-Cdo CPCé o Agravo Interno, a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual: "(..) contra tal acórdão não cabe a interposição de qualquer recurso, por ser inadmissível o recurso especial que aponta violação ao art. 543-C, § 7º, I, do CPC, e por conseguinte, do respectivo agravo em recurso especial" (AgRg no AREsp 617.182/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 12.2.2015).
+Ademais, a perda de domínio sobre o imóvel não foi objeto de apreciação pelo Tribunal a quoe, assim, não pode ser analisado em Recurso Especial, por falta de prequestionamento, incidindo na espécie o óbice das Súmulas 282 e 356/STF.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
