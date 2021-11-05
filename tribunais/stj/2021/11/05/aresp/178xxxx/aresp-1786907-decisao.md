@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Ana Maria de Oliveira Ribeiro contra decisão do Tribunal Regional Federal da 2ª Região que não admitiu o recurso especial com base na Súmula 83/STJ.
+A parte agravante defende, em síntese, que: (a) a decisão recorrida está equivocada, ao entender que não houve violação de dispositivo de lei federal, e, além disso, extrapola a competência do Tribunal Regional, porquanto adentra ao mérito do recurso especial; e (b) não incide aSúmula 83 do STJ à hipótese dos autos, porquanto "o precedente em questão versa sobre caso onde se discute majoração de honorários advocatícios onde não há fixação prévia de honorários na via ordinária, enquanto o caso em tela versa sobre caso onde temos interesse no prosseguimento do feito para que haja condenação em honorários advocatícios, como bem se infere de nossa peça de Recurso Especial" (e-STJ, fl. 752).
+Contraminutaao agravo em recurso especial, e-STJ, fls. 801/804.
+É o relatório.
+Atendidos os requisitos de conhecimento dopresente agravo, passo a examinar o recurso especial interposto (e-STJ, fls. 697-729).
+Trata-se de recurso especial interposto com fundamento naalínea"a"do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal Regional da 2ª Regiãoassim ementado (e-STJ, fl. 595):
+PROCESSUAL INDEFERIU PROCEDIMENTO CIVIL. PEDIDO AGRAVO DE INSTRUMENTO. JUÍZO A QUO DE TUTELA GARANTIA DE URGÊNCIA. SINDICÂNCIA. DISPENSA A AO CONTRADIRTÓRIO E À AMPLA DEFESA DECISÃO (PRECEDENTES DO EG. STF E DO C. STJ, CITADOS NA NÃO AGRAVADA). DECISUM AGRAVADO BEM FUNDAMENTADO. RESTA TERATOLÓGICO. AGRAVO INTERNO NÃO PROVIDO.
+- Cuida-se de agravo interno interposto por ANA MARIA DE OLIVEIRA RIBEIRO, alvejando decisão monocrática proferida por esta Relatora, indeferindo o pleito de efeito suspensivo.
+- Verifica-se que a Julgadora a quo, por meio da decisão agravada, que se encontra fundamentada, observou, com base em entendimento oriundo do Eg. STF e do C. STJ, que a sindicância administrativa deflagrada em face da ora recorrente consiste em um "meio sumário para a elucidação de irregularidades no serviço para a subsequente instauração de punição ao infrator", dispensando-se a defesa do sindicado e a publicidade do ato, na medida que materializa providência que tem por finalidade a constatação ou não de eventual irregularidade cometida pelo investigado, sendo esta fase precedente ao processo disciplinar.
+- A própria agravante informa que foi "intimada para apresentar defesa", merecendo destaque que, em relação à existência ou não da irregularidade então investigada no âmbito administrativo, tal circunstância demanda uma maior atividade cognitiva, fato que impede, neste momento, o deferimento de efeito suspensivo.
+- Agravo interno não provido.
+Os embargos de declaração foram rejeitados (e-STJ, fl. 680).
+A parte recorrente indica violação dos arts. 85 §§ 1º e 10, e 90 do CPC/2015, defendendo que a União deve ser condenada a pagar honorários advocatícios à insurgente, porquanto também é cabível condenaçãoem honorários em agravo de instrumento. Aduz ainda que houve o reconhecimento tácito do pedido e, ainda que assim não fosse, foi a parte adversa que com seu agir deu causa a ação judicial (e-STJ, fls. 719-729).
+Sem contrarrazões.
+Decido.
+Em que pese o pedido da parte recorrente para condenar a recorrida em honorários advocatícios sucumbenciais recursais, o entendimento desta Corte de origem é de que"a majoração dos honorários advocatícios, a título de sucumbência recursal, pressupõe que tenha havido a fixação de honorários, ou seja, só é cabível nos feitos em que for admissível a condenação em honorários na instância a quo.".
+Nesse sentido, confira-se o precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. IMPOSSIBILIDADE. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS NA ORIGEM.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Segundo a jurisprudência desta Corte, a majoração dos honorários advocatícios, a título de sucumbência recursal, pressupõe que tenha havido a fixação de honorários, ou seja, só é cabível nos feitos em que for admissível a condenação em honorários na instância a quo.
+3. In casu, ao julgar o agravo de instrumento interposto pelo ora embargado, o Tribunal de origem não fixou honorários sucumbenciais, não sendo cabível, portanto, tal majoração.
+4. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no AgInt nos EDcl no REsp n. 1.900.994/PE, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 8/9/2021, DJe de 10/9/2021).
+Desse modo, tendo o acórdão recorrido deixado de condenar a parte recorrente em honorários advocatíciossucumbenciais, é descabido a esta Corte Superior a fixação de honorários recursais.
+Ademais, nos termos da jurisprudência desta Corte, não cabem honorários recursais nos recursos de agravo de instrumento.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. INTERPOSIÇÃO DO RECURSO ESPECIAL CONTRA DECISÃO MONOCRÁTICA. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. NÃO OCORRÊNCIA. SÚMULA N. 281/STF.PRECEDENTES. 2. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. 3. PRINCÍPIO DA PRIMAZIA DA RESOLUÇÃO DO MÉRITO.INAPLICABILIDADE. 4. HONORÁRIOS ADVOCATÍCIOS RECURSAIS.CONDICIONADOS À PRÉVIA FIXAÇÃO PELAS INSTÂNCIAS DE ORIGEM. RECURSO TIRADO DE AGRAVO DE INSTRUMENTO. NÃO CABIMENTO NA ESPÉCIE. 5. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, revela-se inadmissível o processamento de recurso especial interposto contra decisão monocrática, mesmo que manejado contra acórdão em embargos de declaração, por ser cabível o agravo interno. Incidência da Súmula 281 do Supremo Tribunal Federal.
+2. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+3. Não há falar em aplicação do princípio da primazia da resolução do mérito, a fim de sobrepujar a não observância dos requisitos de admissibilidade recursal, mormente quando se tratar de vício insanável.
+4. Em relação ao arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), determinado na decisão agravada, cumpre esclarecer que conforme ficou ressaltado, sua implementação está condicionada à prévia fixação pelas instâncias de origem, sendo que na espécie não é cabível, porquanto este recurso especial foi tirado de agravo de instrumento, hipótese em que não há fixação de sucumbência no acórdão recorrido.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.698.069/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 3/5/2021, DJe de 5/5/2021).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
