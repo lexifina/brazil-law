@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 619):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, §1º, INCS. IV, V E VI, E 1022, INC. II, PARÁGRAFO ÚNICO, INCS. I E II, DO CPC/2015. NÃO OCORRÊNCIA. ART. 97, INCS. I E II, DO CTN. DISCUSSÃO DE CUNHO CONSTITUCIONAL. COMPETÊNCIA DO STF. ARTS. 2º E 50 DA LEI 9784/1999. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
+A agravante alega que houve, sim, ofensa aos arts. 489 §1º, incs. IV, V e VI e 1022, inc. II, parágrafo único, incs. "I" e "II", do CPC/2015 pois o Tribunal de origem, apesar de defeituoso o acórdão, acolheu somente de forma parcial os embargos de declaração opostos, remanescendo deficiente a tutela jurisdicional. Aponta as matérias omitidas pelo Tribunal. No mérito, sustenta que a Primeira Turma do STJ já se manifestou a respeito da competência da Corte Superior "(..) para verificar se os Decretos que alteraram as alíquotas do Reintegra violaram ou não o princípio da legalidade, conforme suscitado pela parte no recurso especial, tanto que o fez no precedente colacionado." (fl. 640), ao que repisa as alegações recursais. Afirma a inaplicabilidade da Súmula 284/STF ao caso porque "(..), a orientação sumular demanda apenas que as razões do recurso apresentem uma fundamentação jurídica clara, que permita uma compreensão satisfatória da controvérsia. Nessa perspectiva, evidencia-se que o recurso deve deixar claro o seu fundamento jurídico, isto é, a sua pretensão." (fl. 648).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): A decisão agravada conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento porque não evidenciada a ofensa aos arts. 489, §1º, incs. IV, V e VI, e 1022, inc. II, parágrafo único, incs. I e II, do CPC/2015; porque em relação ao art. 97, incs. I e II, do CTN a discussão é de cunho constitucional, competindo seu exame ao STF; e porque incidentes à hipótese as Súmulas 283/STF e 284/STF.
+Ocorre que a agravante não impugnou, especificamente, a incidência da Súmula 283/STF, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
