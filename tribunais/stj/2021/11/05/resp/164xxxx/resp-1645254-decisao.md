@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ MELQUÍADES FILHOcom fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, o recorrente ajuizou ação ordinária com valor da causa atribuído em R$ 31.000,00 (trinta e um mil reais), em março de 2010, objetivando a implantação emsua remuneração do índice de 7,32% (sete ponto trinta e dois percentuais) relativo entre a diferença do índice de 28,86% e aquele efetivamente implantado.
+Após sentença que julgou improcedente o pedido, o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOnegou provimento à apelação da parte autora, interposto recurso especial pelo autor, foi provido para afastar a prescrição.
+O Tribunal a quo, julgando novamente a questão, manteve o aresto recorrido por outrofundamento, in verbis:
+ADMINISTRATIVO E PROCESSUAL CIVIL. REAJUSTE GERALDA REMUNERAÇÃO DOS SERVIDORES PÚBLICOS E DOSSOLDOS DOS SERVIDORES NO PERCENTUAL DE 28,86%.- PRESCRIÇÃO. INOCORRÊNCIA. TRANSAÇÃO.1.. Autos quê retornam a esta Corte, após julgamento de Recurso Especial no STJ, no qual se determinou a aplicação da Súmula 85do STJ e, para não se considerar prescrito o direito do Apelante.2.. A pretensãodo autor já fora analisada por esta Corte; na sessão de julgamento realizada em 03/10/2013, na qual fora afastada a prescrição, nos termos do julgamento proferido pelo c. STJ, e, no mérito, considerou-se que a não implementação do reajuste de 28,86% de forma integral está justificada pelo instituto da transação, disciplinada pelo art. 840, do Código Civil, restando improvida a Apelação. Manutenção do Acórdão.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, JOSÉ MELQUÍADES FILHOinterpôs o presente recurso especial, apontando violação dos arts. 1º, 2º, 3º e 4º da Lei n. 8.622/1993, 1º, 2º, 3º e 4º da Lei n. 8.627/1993, 1º do Decreto 20.910/32, Medida Provisória 1.704/98, e Súmula 85 /STJ.
+Sustenta, em síntese, que (fls. 478 e 482):
+No caso em comento, o v. acórdão adotou, equivocadamente, a aplicabilidade do art. 1º do Decreto 20.910/32, como fundamento para declaração de prescrição do direito de pleitear qualquer parcela decorrente do reajuste de 28,86%, violando-se os preceitos contidos na Súmula 85 do ST.), uma vez que houve diferenciação do entendimento do REsp 990.284/RS.
+Com efeito, a recorrente ainda não recebeu em seus vencimentos a totalidade do reajuste de 28,86% concedido judicialmente e posteriormente reconhecido como devido pela Administração.
+(..)
+Portanto, não há que se falar em prescrição do fundo de direito, em função da evidente renúncia a este instituto, formulada pela Administração, quando editou a supra citada Medida Provisória.
+Na verdade, deve-se levar em consideração o caráter de trato sucessivo das prestações pleiteadas na ação ordinária, juntamente com a renovação mensal da violação cometida pela Administração Pública.
+Ora, como salientado, o objeto da presente contenda pretende a implantação correta e integral do reajuste de 28,86%, que apesar da transação judicial, não foi devidamente cumprida pela Administração. Nesses casos, se há um resíduo a ser implantado, os vencimentos da recorrente, mensalmente, estão carentes do referido percentual residual. No caso em comento, restou demonstrado o percentual a ser implantado nos vencimentos da recorrente.
+Dessa forma, é indubitável o fato de que a violação renova-se mensalmente, uma vez que, desde a transação judicial, a Administração Pública continua ferindo o direito da recorrente à implantação dos 28,86% de forma integral.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Preliminarmente, é incabível apreciação de suposta violação de Súmulas dos Tribunais, em recurso especial, uma vez que tais enunciados não se enquadram no conceito de Lei Federal a que se refere a alínea a do permissivo constitucional autorizador, que dispõe: "contrariar tratado ou lei federal, ou negar-lhes vigência."
+Assim, incide, na espécie, o óbice da Súmula n. 518 a qual estipula: Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. NOTA DE CRÉDITO COMERCIAL. CONFISSÃO DE DÍVIDA. COMISSÃO DE PERMANÊNCIA. ENUNCIADO DE SÚMULA. MALFERIMENTO. PARCIAL PROVIMENTO.
+1. Não é cabível o recurso especial por suposta violação a enunciados de súmulas dos tribunais, haja vista que não se equiparam a lei ou ato normativo equivalente. Precedente.
+2. As notas de crédito comerciais não comportam cláusula de comissão de permanência, haja vista o regramento próprio de que são dotadas. Precedentes.
+3. Agravo regimental parcialmente provido.
+(AgRg no Ag n. 1.144.485/PB, Rel. Ministra Maria Isabel Gallotti, Quarta Turma , julgado em 9/10/2012, DJe 17/10/2012.)
+TRIBUTÁRIO. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO AO ART. 535 DO CPC. DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. INFRINGÊNCIA À SÚMULA 343 DO STF. IMPOSSIBILIDADE.
+1. No que tange à violação do art. 535 do CPC, assevero que refoge da competência desta Corte a apreciação de matéria de cunho eminentemente constitucional analisada na origem, por meio de recurso especial, cabendo, tão-somente, ao STF o exame de eventual ofensa, sob pena de usurpação de competência. Frise-se que a missão deste STJ resume-se em interpretar a legislação federal, nos termos do art. 105 da CF/88.
+2. Ainda que se entenda que a recorrente funda o seu pleito na contrariedade à Súmula 343 do STF, a pretensão recursal não teria condições de êxito, na medida em que o art. 105, III, da Constituição Federal estabelece as hipóteses taxativas de cabimento do recurso especial, não incluindo a contrariedade ou violação de súmula de tribunais superiores.
+3. Recurso especial a que se nega provimento.
+(REsp n. 951.750/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 3/8/2010, DJe 24/8/2010.)
+Quanto à matéria constante nos arts. 1º, 2º, 3º e 4º da Lei n. 8.622/1993, 1º, 2º, 3º e 4º da Lei n. 8.627/1993, 1º do Decreto 20.910/32, verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Gize-se, por oportuno, que a falta de exame de questão constante de normativo legal apontado pelo recorrente nos embargos de declaração não caracteriza, por si só, omissão quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda não é abordada pelo Sodalício, e o recorrente, em ambas as situações, não demonstra, de forma analítica e detalhada, a relevância do exame da questão apresentada para o deslinde final da causa.
+Com efeito, o Tribunal de origem não considerou a prescrição das parcelas, conforme alegado nas razões de recurso especial do autor,mas a existência de acordo quanto a implantação do índice de 28,86%, conforme se infere do aresto que julgou os embargos declaratórios (fl. 466):
+Restou devidamente consignado no acórdão embargado que o não deferimento da implantação do reajuste de 28,86%, de forma integral, se deve à ocorrência de transação, disciplinada pelo art. 840 do CC, tendo o Embargante entabulado aceito os termos do acordo administrativo.
+A decisão do REsp 990.284/RS, que trata dos marcos prescricionais para fins de aplicação do reajuste de 28,86%, não se aplica ao caso dos presentes autos, porquanto a prescrição determinada outrora já havia sido afastada pelo STJ.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da ocorrência de transação nos autos, nos termos acima transcritos, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intime-se.
