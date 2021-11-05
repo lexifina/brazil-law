@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre oJuízo de Direito da Vara de Execuções Penais do Distrito Federal,o suscitante, e oJuízo de Direito da Vara Única da comarca de Santa Rosa do Sul/SC,o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Ministério Público Federal (fls. 1.925/1.926):
+ ..
+2. O Juízo Suscitante, em síntese, consigna que: "Trata-se de execução de pena imposta pelo douto Juízo da comarca de SANTA ROSA DO SUL/SC. O apenado está preso no Distrito Federal somente em razão do mandado de prisão expedido pelo supracitado juízo, sendo certo que não existe ordem de segregação ou execução penal no âmbito da justiça desta unidade da federação, apesar de no DF possuir ação penal em andamento em seu desfavor. Nada obstante, o i. e mencionado juízo determinou a transferência da execução para esta VEP/DF. Saliento que eventuais mudanças voluntárias de endereço, prática de novo crime ou mesmo recolhimento em localidade distinta - no caso o Distrito Federal - não são motivos para alteração da competência, consoante o entendimento do STJ. ( ) Ademais, consoante pacífica jurisprudência do STJ, não há direito subjetivo à escolha do local onde cumprirá a reprimenda, devendo o Juízo de Execuções Penais avaliar a conveniência da referida medida, visto que o acolhimento do pedido de transferência do preso para presídio próximo de onde residem seus familiaresestá condicionado à existência de vagas e estabelecimentos adequados. Registro, por oportuno, que o sistema prisional do Distrito Federal não dispõe vagas para acolher o interno, pois está superlotado, com quase o dobro da sua capacidade. O sistema prisional distrital está superlotado e é o 4º (quarto) mais deficitário de todo o pais, consoante dados do CNJ acessíveis em http://www.cnj.jus.br/inspecao_penal/mapa.php (Geopresídios - CNJ). Não há possibilidade de se abrigar condenados por outras unidades da Federação.( )" (fls. 1917/1918; g.n.). A manifestação do r. Juízo suscitado, por seu turno, no essencial, consigna que: "( ) Aportou aos autos a informação de que o apenado se encontra segregado na Penitenciária do Distrito Federal (Seq. 37). Ademais, de acordo com a Orientação no 6/21 da CGJSC, "5.3. O juízo competente é o do local de recolhimento em caso de preso/ internado, ou o do último endereço conhecido nos casos de regime aberto, penas restritivas, sursis ou tratamento ambulatorial." Diante disso, o presente PEC deverá ser remetido à comarca onde o apenado cumprirá o restante da pena que lhe foi imputada." (fls. 1904).
+ ..
+No parecer, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitado(fls. 1.926/1.928):
+ ..
+5.Em nosso parecer, a competência é do juízo suscitado.
+6. Aplica-se à hipótese o estatuído no art. 65 da Lei de Execução Penal:"Art. 65. A execução penal competirá ao Juiz indicado na lei local deorganização judiciária e, na sua ausência, ao da sentença." Ao que se acresce, que o simples fato do apenado ter fixado residência em outro local, no qual foi circunstancialmente preso em razão de mandado de prisão expedido pelo Juízo da Condenação, não tem o condão de transferir a execução da pena para o local da prisão, à míngua de previsão legal neste sentido. Outro entendimento, em um cenário de escassez generalizada de vagas prisionais, poderia resultar, inclusive, na relutância no cumprimento de ordens de prisão originadas de outros estados.
+7. Neste exato diapasão, a jurisprudência hegemônica nesta Corte, e.g.:
+ ..
+Nestes termos, opina-se pelo conhecimento do presente conflito negativo de competência, para reconhecer como competente o juízo suscitado, qual seja, o Juízo de Direito da Vara Única de Santa Rosa do Sul - SC.
+É o relatório.
+Com razão o parecerista.
+Nos termos do art. 65 da Lei de Execuções Penais, compete ao Juízo da sentença, em regra, a execução da pena:
+Art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.
+No caso dos autos, o apenado foi condenado em Santa Catarina,circunstância que atrai a competência do Juízo daquela localidade para executar a pena.
+O fato de a ordem de prisão ter sido cumprida em comarca diversa da condenação não modifica a competência, ante a ausência de previsão legal.
+A propósito, destaco:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS CRIMINAIS ESTADUAIS: EXECUÇÃO DE PENA. PRISÃO PREVENTIVA EM OUTRA COMARCA. AUSÊNCIA DE TRANSFERÊNCIA LEGAL - ART. 86 DA LEP. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA DEFINITIVA.
+1. O simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena. Precedentes.
+2. Conflito conhecido, para declarar a competência do Juízo de Direito da Comarca de Rio Meleiro/SC, o suscitado, para a execução da pena do condenado.
+(CC n. 148.926/RS, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 27/10/2016)
+Em face do exposto, acolhendo o parecer,conheçodo conflito paradeclarara competência do Juízo de Direito da Vara Única da comarca de Santa Rosa do Sul/SC,o suscitado,que deverá processar a execução de Cristiano da Silva Roesler, além de providenciar o recambiamento do apenado.
+Dê-se ciência aos Juízes envolvidos, inclusive com o inteiro teor da decisão.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DELIBERDADE. MANDADO DE PRISÃO CUMPRIDO EM LOCALIDADE DISTINTA DACONDENAÇÃO. IRRELEVÂNCIA. CIRCUNSTÂNCIA QUE NÃO MODIFICA A COMPETÊNCIA, POR AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DA TERCEIRA SEÇÃO. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência doJuízo de Direito da Vara Única da comarca de Santa Rosa do Sul/SC, o suscitado, que deverá processar a execução de Cristiano da Silva Roesler, além de providenciar o recambiamento do apenado.
