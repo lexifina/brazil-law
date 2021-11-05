@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão da Presidência desta Corte, que indeferiu liminarmente o habeas corpus.
+Sustenta a defesa possibilidade de mitigação da Súmula 691/STF, em razão da ilegalidade decorrente da prisão preventiva do paciente.
+Reafirma as razões do writ, no sentido da ausência de fundamentação idônea do decreto prisional, da ilegalidade decorrente da não realização da audiência de custódia, do caráter excepcional da prisão preventiva e da possibilidade de aplicação de medidas cautelares menos gravosas. Ressalta a ausência de violência ou grave ameaça no crime em tese praticado.
+Requer o provimento do agravo para conhecimentodo habeas corpus, concedendo a ordem de soltura do paciente.
+Na origem, a liminar foi indeferida nos seguintes termos (fls. 64-65):
+É cediço que o habeas corpus, quando impetrado no Tribunal de Justiça, é ação a ser julgada por órgão colegiado, e não por um único julgador. Dessa forma, a liminar, que não passa pela composição da Câmara, não pode ser concedida com base em um entendimento particular do Relator sobre o caso concreto, o qual nem sempre representa o dos colegas de Câmara; deve, isso sim, ser reservada a casos onde haja ilegalidade absolutamente inquestionável.
+E, na hipótese, analisando o decreto preventivo, não vislumbro qualquer ilegalidade flagrante que prescinda da análise colegiada.
+Com efeito, a prisão atende ao disposto no art. 313 do CPP e, por sua vez, observando os precisos termos do art. 312 do mesmo diploma legal, o decreto prisional faz alusão à existência de prova da materialidade e de indícios de autoria, pressupostos da medida excepcional, além de fundamentar a ordem constritiva em permissivo legal expressamente previsto.
+A par disso, ressalto que, conforme consta da representação da autoridade policial, foi identificada conversa do paciente com indivíduopreso em flagrante, na qual este recorreu àquele para obter a droga posteriormente vendida a usuários.
+Ademais, segundo os termos da própria decisão impugnada, o paciente já foi condenado duas vezes por tráfico de drogas.
+Portanto, há indícios da prática dos crimes imputados, bem como se afigura o risco de reiteração delitiva, de modo que necessária, ao menos por ora, a manutenção da prisão preventiva.
+Outrossim, ressalto que a jurisprudência do STJ "é firme ao asseverar que a não realização da audiência de custódia, por si só, não é circunstância suficiente para anular o decreto preventivo, desde que essa ausência não implique desrespeito às garantias processuais e constitucionais do acusado" (AgRg no HC 678.064/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/09/2021, DJe 17/09/2021), o que não se vislumbra no caso.
+Como cediço, a prisão preventiva (ou o não cabimento da substituição por outra medida cautelar), admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+O decreto de prisão preventiva foi assim fundamentado (fls. 234-238):
+A representação policial vem lastreada em idôneo conjunto probatório, eis que as investigações dão conta de que ALEXSANDRO era o responsável pela venda de entorpecentes narrada na ocorrência policial, ficando claro que atuava em conjunto com o indivíduo que restou preso naquela oportunidade, VITOR BARBOSA LOPES, justamente após ser flagrado vendendo porções de cocaína a usuários.
+Ademais, o fato do nominado já ostentar duas condenações pela prática do delito de tráfico de drogas (processos nº 064/2170001159-6 e nº 064/2180003142-4), reforça o indício de cometimento de ilícito orientado à comercialização da substância entorpecente.
+Nesse contexto, em que a traficância desponta cabal da prova, até então, apresentada, bem como face a reiteração delitiva do acusado, outra medida não se cogita que não o decreto da segregação cautelar, como forma de se acautelar, principalmente, a ordem pública social, afrontada ao extremo.
+Dos excertos, observa-se que a prisão preventiva do paciente foi decretada para preservar a ordem pública, face ao risco de reiteração delitiva do paciente, por "já ostentar duas condenações pela prática do delito de tráfico de drogas".
+Contudo, ao analisar as circunstâncias do caso, verifica-se que os riscos apontados não exigem tão gravosa cautelar como a prisão, pois a quantidade de entorpecente apreendido não se revela expressiva, tratando-se de 1,30 grama de cocaína (fl. 457).
+Nesse sentido, para evitar o risco de nova reiteração delitiva, suficiente é a imposição das seguintes medidas cautelares penais diversas da prisão processual: (a) apresentação a cada 2 meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade; (b) proibição de mudança de domicílio sem prévia autorização judicial, vinculando o acusado ao processo; e (c) proibição de ter contato pessoal com pessoas envolvidas com o tráfico e outras atividades criminosas, como garantia à instrução e proteção contra à reiteração criminosa.
+Prejudicadas as demais alegações.
+Ante o exposto,dou provimento ao agravo regimental, concedendo a ordem para a soltura do paciente, mediante o cumprimento das medidas cautelares acima elencadas, se por outro motivo não estiver preso.
+Comunique-se.
+Publique-se.
+Intimem-se.
