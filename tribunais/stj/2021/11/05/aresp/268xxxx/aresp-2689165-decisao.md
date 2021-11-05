@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, em face de decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiroque inadmitiu o recurso especial manejado contra acórdão assim ementado (fls. 1420/1421 e-STJ):
+Apelação Cível. Ação civil pública. Improbidade administrativa. Desvio de recursos públicos por contratos e convênios de Secretarias, Autarquias e Companhias Estaduais com a FESP para projetos do governo. Terceirização de mão de obra através de subcontratações de ONGS com dispensa ilegal de licitação e sem fiscalização do repasse das verbas que eram revertidas para empresas fantasmas, operadores e políticos. Participação das rés no esquema. Sentença de procedência parcial. Condenação das Rés à perda da função pública, suspensão dos direitos políticos pelo prazo de 05 anos, pagamento de multa civil e, solidariamente, danos morais difusamente suportados pela coletividade, bem como proibição de contratar com o Poder Público ou receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, aindaque por intermédio de pessoa jurídica da qual çjam sócias majoritárias, também pelo prazo de cinco anos.
+Multa fixada de forma ponderada. Dano moral coletivo que não se faz presente, diante da necessária vinculação à noção de dor, de sofrimento psíquico, de caráter individual (REsp 598281). Indenização por dano ao Erário que não merece prosperar, pois as Rés não foram beneficiadas com qualquer quantia decorrente do esquema. Provimento parcial do 1º recurso e desprovimento do 2º apelo.
+Houve a oposição de embargos de declaração, os quais foram rejeitados nos seguintes termos (fl. 1451 e-STJ):
+EMBARGOS DE DECLARAÇÃO  INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO  PRETENDIDO REEXAME DA CAUSA  CARÁTER INFRINGENTE  EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Incabíveis embargos de declaração que, a pretexto de esclarecer suposta obscuridade, omissão ou contradição, são manejados com claro objetivo de atribuir efeito infringente ao julgado. A rediscussão da matéria não se harmoniza com a natureza e a função dos embargos declaratórios. Mero inconformismo. Precedentes jurisprudenciais. Embargos de declaração desprovidos.
+No recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta violação aosarts.10, incisos I, VIII, IX, XI, XII e XIV, e 12, inciso II, da Lei nº 8.429/92, sob o argumento de que é cabível a condenação ao ressarcimento ao erário em face das recorridas.
+Sem contrarrazões (fl. 1649 e-STJ).
+O Tribunal de origem não admitiu o recurso especial à consideração de que a pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos, o que é inviável a teor da Súmula 7/STJ.
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+Sem contraminuta (fl. 1677 e-STJ).
+É o relatório. Passo a decidir.
+Faz-se necessário consignar que os presentes recursos atraem a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, considerando o preenchimento dos requisitos de admissibilidade do agravo e as peculiaridades do caso concreto, o agravo deve ser provido para que seja realizada a sua reautuação como recurso especial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. AGRAVO CONHECIDO PARA REAUTUAÇÃO EM RECURSO ESPECIAL.
