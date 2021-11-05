@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LUAN RESENDE BUARQUE agrava de decisão da Presidência do STJ que indeferiu liminarmente o habeas corpus por não identificar ilegalidade flagrante na negativa do pedido de urgência pelo Tribunal de origem, situação que autorizaria a mitigação da Súmula n. 691 do Supremo Tribunal Federal.
+A defesa alega que a decisão agravada "ratificou, sem ao menos examinar concretamente os argumentos defensivos, ato coator, que considerou idôneos os fundamentos abusivos da decisão da magistrada de primeiro grau" (fl. 691).
+Ressalta a ausência de contemporaneidade dos fatos imputados ao insurgente que possa justificar eventual periculum libertatis, bem como a referência ao histórico delitivo se basear em ações penais antigas. Aduz sobre a possibilidade de substituição da custódia por medidas cautelares alternativas.
+Pleiteia a reconsideração do decisum agravado ou o julgamento do regimental pelo colegiado, para que seja revogada a custódia preventiva do acusado ou a substituição desta por cautelares alternativas.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO E FURTO QUALIFICADO. SUPERAÇÃO DA SÚMULA N. 691 DO STF. IMPOSSIBILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. MODUS OPERANDI E HISTÓRICO DELITIVO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A hipótese de autorizar a mitigação da Súmula n. 691 do STF deve ser excepcionalíssima, reservada aos casos insólitos em que a ilegalidade do ato apontado como coator é tão evidente que desperta o tirocínio do aplicador do direito, sem nenhuma margem de dúvida ou divergência de opiniões.
+2. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+3. A custódia do acusado está embasada no modus operandi empregado na ação atribuída (morte violenta de adolescente menor de quatorze anos por suposto prejuízo com valores arrecadados com o tráfico), bem como no histórico delitivo do acusado. Referiu-se a denúncia ao fato de o paciente ostentar posição de destaque em organização voltada ao tráfico de drogas (contemporaneidade). Tais evidências autorizam presumir, em juízo perfunctório, o periculum libertatis.
+4. Nos limites da cognição sumaríssima própria do pedido de superação da Súmula n. 691 do STF, não há como constatar flagrante ilegalidade que justifique a intervenção prematura desta Corte Superior, sob pena de indevido salto de instância.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+No decisum atacado, foi apontado o óbice contido no enunciado da Súmula n. 691 do STF, orientação que tem sido observada por esta Corte nos casos que aqui aportam, originados pelo indeferimento de liminar na origem.
+Apenas em casos excepcionais o rigor da súmula é mitigado, quando o constrangimento ilegal é manifesto, o que não se verifica na hipótese.
+A decisão que decretou a prisão preventiva dispõe (fl. 36):
+ ..
+Autoridade policial e Ministério Público convergem quanto a necessidade de segregação cautelar dos acusados. A denúncia narra um crime praticado com violência contra um adolescente e um crime de roubo, havendo indícios contundentes de que ambos atuam na traficância de drogas.
+Em análise ao Sistema de Automação do Poder Judiciário "E-Jud", se constata a que o denunciado é possuidor de registros criminais pela prática de condutas tipificadas na Leis n. 11.343/06 e 10.826/03, tendo sido posto em liberdade em 16/05/2016.
+ ..
+Diante desses elementos (histórico criminal), tratando-se de crimes cometidos com violência concreta e ainda o modus operandi utilizado na empreitada criminosa são fundamentos hábeis a amparar o decreto preventivo, não restando dúvida que a liberdade dos réus coloca em risco toda a sociedade (garantia da ordem pública) e demonstra a necessidade de se garantir a aplicação da lei penal, sendo certo que as medidas cautelares diversas da prisão, neste caso não se mostram adequadas
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+A custódia está embasada no modus operandi empregado na ação atribuída (morte violenta de adolescente menor de quatorze anos), bem como no histórico delitivo do acusado. Referiu-se a denúncia ao fato de o paciente ostentar posição de destaque em organização voltada ao tráfico de drogas (contemporaneidade). Tais evidências autorizam presumir, em juízo perfunctório, o periculum libertatis.
+Desse modo, são suficientes os motivos invocados para amparar a ordem de prisão do ora paciente, pois foram contextualizados em dados concretos dos autos, conforme os vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, o que torna inviável, também, a substituição da custódia por medidas cautelares diversas.
+Portanto, inexiste ilegalidade flagrante no indeferimento do pedido de urgência pelo Tribunal estadual que autorize a mitigação da Súmula n. 691 do Supremo Tribunal Federal, razão pela qual não há espaço para a imediata interferência deste Superior Tribunal.
+À vista do exposto, nego provimento ao agravo regimental.
