@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por SILVIA REGINA MONTE DE OLIVEIRA BORJA contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+APELAÇÃO EMBARGOS À EXECUÇÃO OABRJ ANUIDADES FATO GERADOR INSCRIÇÃO NA ORDEM EXERCÍCIO DA ADVOCACIA IRRELEVANTE.
+Quanto à controvérsia trazida nos autos, pela alínea "a" do permissivo constitucional, alega violação do art. 8º da Lei n. 12.514/11, sustentando que a OAB pode executar crédito referente às suas anuidades apenas se a dívida for superior a quatro contribuições anuais, trazendo, em síntese, os seguintes argumentos:
+Ocorre que o artigo 8º, da Lei nº 12.514/11 coíbe a execução de crédito proveniente do inadimplemento de anuidades, quando essas forem inferiores a quatro.
+Logo, considerando que na hipótese em análise a cobrança é referente a somente a duas anuidades integrais e 10/12 de outra, é patente a violação à norma supracitada (fls. 467).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Em regra, a OAB só pode executar judicialmente dívidas referentes a anuidades vencidas e não pagas quando o valor for superior ao de quatro anuidades, em razão do art. 8º da Lei 12.514/2011:
+Art. 8º Os Conselhos não executarão judicialmente dívidas referentes a anuidades inferiores a 4 (quatro) vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente.
+Ocorre que nesse caso, excepcionalmente, esse dispositivo não deve ser aplicado porque a inscrição da executada foi cancelada em 31/10/2012.
+A OAB/RJ só pode executar as anuidades vencidas e não pagas até o cancelamento da inscrição: as anuidades de 2010, 2011 e 2012 (meses de janeiro a outubro).
+Nesse caso, a condição estipulada pelo art. 8º da Lei 12.514/2011 fica dispensada, pois as anuidades posteriores não podem ser executas pela ausência de fato gerador, qual seja, a inscrição da executada junto à OAB/RJ (fl. 452, grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
