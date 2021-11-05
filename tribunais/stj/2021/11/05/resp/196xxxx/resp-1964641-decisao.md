@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto porSIDNEI DOS SANTOS,com fundamento no art. 105, III, c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 106):
+ACIDENTE DO TRABALHO - AUXÍLIO -ACIDENTE - PORTE DE REMESSA E RETORNO: diferimento do recolhimento pela autarquia - Possibilidade - Conversão do julgamento em diligência para realização de nova perícia Desnecessidade - Lesões colunares - Nexo causal demonstrado - Incapacidade parcial e permanente para o trabalho - Indenização infortunística devida - TERMO INICIAL: dia seguinte ao da cessação do auxílio -doença, art. 86, § 2º, Lei nº 8.213/91- JUROS DE MORA E ATUALIZAÇÃO MONETÁRIA: observância da norma inserta no art. 1º-F da Lei n. 9.494/97, com a redação dada pela Lei nº 11.960/09,devendo ser levado em consideração, todavia, o julgamento das ADIs nºs 4.357, 4.372, 4.400 e 4.425, pelo Plenário do Colendo Supremo Tribunal Federal - Honorários advocatícios fixados em 15%, consoante a usual e equitativa adoção nas lides acidentárias - CÁLCULO DA RENDA MENSAL INICIAL: observância dos mesmos índices previdenciários aplicados aos benefícios em manutenção - Recursos voluntários desprovidosreexame necessário parcialmente provido.
+Não foram opostos embargos de declaração.
+Aponta o recorrente divergência jurisprudencial acerca da interpretação doart. 1º F, da Lei 9.494/97, com a redação dada pelo art. 5º da Lei 11.960/2009.
+Sustenta, em síntese, que ".. deve ser afastada a aplicação da TR como índice de correção monetária, determinando-se o INPC ou outro índice que reflita a inflação acumulada." (fl. 121).
+Contrarrazões não apresentadas (fl. 132).
+Em novo exame por força do art. 1.030, II, do CPC/2015, o acórdão foi parcialmente modificado, cuja ementa se colhe (fl. 191):
+PROCESSUAL CIVIL - RETRATAÇÃO DO JULGADO. Julgamento do Mérito do REsp nº 1.491.221/PR, Tema nº 905 dos recursos repetitivos. Decisão conflitante com a proferida pelo SupremoTribunal Federal no RE 870.947/SE, Tema nº 810 de repercussão geral. Nesse contexto, deve prevalecer o posicionamento doPretório Excelso. Correção monetária que deve seguir o IPCA-E a partir de 3010612009, ante a declaração da inconstitucionalidadedo TR como índice de atualização dos débitos fazendários. Manutenção do índice fixado para o cômputo dos juros de mora. o Acórdão parcialmente alterado em sede de juízo de retratação.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não prospera.
+Ressalta-se que na sistemática introduzida pelo artigo 543-C do CPC/73, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008. Essa conclusão pode ser extraída da fundamentação constante da Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, DJe de 12/5/2011, submetida à apreciação da Corte Especial:
+"A edição da Lei n. 11.672, de 8.5.2008, decorreu, sabidamente, da explosão de processos repetidos junto ao Superior Tribunal de Justiça, ensejando centenas e, conforme a matéria, milhares de julgados idênticos, mesmo após a questão jurídica já estar pacificada.
+O mecanismo criado no referido diploma, assim, foi a solução encontrada para afastar julgamentos meramente "burocráticos" nesta Corte, já que previsível o resultado desses diante da orientação firmada em leading case pelo órgão judicante competente.
+Não se perca de vista que a redução de processos idênticos permite que o Superior Tribunal de Justiça se ocupe cada vez mais de questões novas, ainda não resolvidas, e relevantes para as partes e para o País.
+Assim, criado o mecanismo legal para acabar com inúmeros julgamentos desnecessários e inviabilizadores de atividade jurisdicional ágil e com qualidade, os objetivos da lei devem, então, ser seguidos também no momento de interpretação dos dispositivos por ela inseridos no Código de Processo Civil e a ela vinculados, sob pena de tornar o esforço legislativo totalmente inócuo e de eternizar a insatisfação das pessoas que buscam o Poder Judiciário com esperança de uma justiça rápida."
+Quanto à questão de fundo, conforme se verifica dos autos, o Tribunal a quo, em juízo de retratação previsto no art. 1.030, II, do CPC/15, proferiu novo julgamento e modificou o entendimento anteriormente exarado.
+Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a retificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA.
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada.
+Agravo regimental improvido.
+(AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
