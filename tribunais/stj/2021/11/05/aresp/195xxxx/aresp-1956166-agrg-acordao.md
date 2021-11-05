@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ADMINISTRAÇÃO DA JUSTIÇA. FALSO TESTEMUNHO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. INCIDÊNCIA.
+A ausência de impugnação a todos os fundamentos da decisão que não conheceu do agravo em recurso especial atrai, in casu, a incidência do óbice da Súmula n. 182/STJ.
+Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): Trata-se de agravo regimental interposto por RODRIGO BRITO PEREIRA contra a decisão de fls. 292-293, da Presidência, na qual se não conheceu do agravo em recurso especial, por aplicação do art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Consta dos autos que o MM. Juízo de primeiro grau condenou o ora agravante como incurso nas sanções do art. 342, §1º, do Código Penal, à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, no regime inicial aberto, mais 11 dias-multa. Houve substituição por penas restritivas de direitos (fls. 96-100).
+O eg. Tribunal a quo, em decisão unânime, negou provimento ao recurso de apelação criminal ali interposto pela defesa. Eis a ementa do acórdão (fls. 205-215):
+"APELAÇÃO CRIMINAL. CRIME CONTRA A ADMINISTRAÇÃO DA JUSTIÇA. FALSO TESTEMUNHO (ART. 342, § 1º, DO CÓDIGO PENAL). CONDENAÇÃO. IRRESIGNAÇÃO DA DEFESA. PLEITO RECURSAL VOLTADO À REFORMA DA SENTENÇA. ABSOLVIÇÃO. INVIABILIDADE. NÍTIDO INTUITO EM FALSEAR A VERDADE DURANTE PROCESSO JUDICIAL. AUTORIA, MATERIALIDADE E DOLO ESPECÍFICO EVIDENCIADOS. CONDENAÇÃO QUE DEVE SER MANTIDA POR SEUS FUNDAMENTOS.
+"Comete delito de falso testemunho aquele que, ouvido na condição de testemunha em processo-crime em que se apura delito de tráfico ilícito de drogas, afirma nunca ter adquirido entorpecentes do acusado, em versão diametralmente oposta àquelas anteriormente prestadas na Delegacia de Polícia e sob o crivo do contraditório em outros autos, oportunidades nas quais certificou tê-los comprado do agente" (Apelação Criminal n. 2013.083956-6, de Itaiópolis, rel. Des. Sérgio Rizelo, Segunda Câmara Criminal, j. em 30.09.2014).
+DOSIMETRIA. PEDIDO DE AFASTAMENTO DA CAUSA DE AUMENTO DE PENA PREVISTA NO § 1º DO ART. 342 DO CP. IMPOSSIBILIDADE. DECLARAÇÕES FALSAS PRESTADAS PELO APELANTE, NA QUALIDADE DE TESTEMUNHA EM PROCESSO CRIME INSTAURADO PARA APURAR A PRÁTICA DO CRIME DE TRÁFICO DE ENTORPECENTES. MANUTENÇÃO QUE SE IMPÕE. PRETENDIDA A SUBSTITUIÇÃO DA PENA RESTRITIVA DE DIREITOS DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE POR PRESTAÇÃO PECUNIÁRIA. INVIABILIDADE. DISCRICIONARIEDADE DO JUÍZO DE PRIMEIRO GRAU. RECURSO DESPROVIDO."
+Foi interposto recurso especial, pela Defesa (fls. 223-230), com fulcro nas alíneas a e c, do permissivo constitucional, no qual se alegou violação aos arts. 208 e 384, ambos do Código de Processo Penal, bem como divergência jurisprudencial sobre o tema. Para tanto, mencionou que:
+a) "A testemunha informante, na verdade, não é testemunha, mas mero informante, deixando de se apresentar na condição de testemunha, não estando presente no rol taxativo de sujeitos ativos do crime. Aliás, esse é o entendimento que extrai do novo Código de Processo Civil. Por isso mesmo, o próprio CPP, no art. 208, desobriga quem tem laços afetivos e familiares com o réu de realizar o compromisso com a verdade" (fl. 226);
+b) "A inclusão de qualificadora que não seja especificada na denúncia imprime nova definição jurídica ao crime, não podendo ser inserida na condenação sem a observância do artigo 384 do Código de Processo Penal." (fl. 228).
+Apresentadas as contrarrazões (fls. 237-245), o apelo nobre foi inadmitido na origem pelos seguintes fundamentos, quais sejam: a) não comprovação do alegado dissídio jurisprudencial; b) aplicação da Súmula n. 7/STJ; c) incidência da Súmula n. 83/STJ; e d) aplicação das Súmulas n. 282 e 356, ambas do STF (fls. 248-252).
+Sobreveio agravo em recurso especial, por meio do qual se reiterou os argumentos expendido no apelo nobre (fls. 259-266).
+Em decisão de fls. 292-293, a d. Presidência deste Superior Tribunal de Justiça não conheceu do agravo em recurso especial, por ausência de impugnação aos fundamentos da decisão que inadmitiu o apelo nobre, com fulcro no art. art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Foi interposto o presente agravo regimental, por meio do qual se alega, em síntese, que "o mesmo é amigo íntimo do acusado naqueles autos, o que induz a conclusão de que o mesmo deveria ser ouvido na condição de informante do juízo" (fl. 298).
+Pelo despacho de fl. 302, foi determinada a redistribuição dos autos.
+Conforme Termo de Distribuição e Encaminhamento de fl. 307, o feito foi a mim atribuído.
+O d. representante do Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental (fls. 309-316).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ADMINISTRAÇÃO DA JUSTIÇA. FALSO TESTEMUNHO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. INCIDÊNCIA.
+A ausência de impugnação a todos os fundamentos da decisão que não conheceu do agravo em recurso especial atrai, in casu, a incidência do óbice da Súmula n. 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): O presente agravo não reúne condições para ser conhecido.
+Isso porque, nas razões deste agravo regimental, o recorrente limita-se a alegar, de forma resumida, que "o mesmo é amigo íntimo do acusado naqueles autos, o que induz a conclusão de que o mesmo deveria ser ouvido na condição de informante do juízo" (fl. 298), deixando de desincumbir-se do ônus de infirmar o único fundamento da decisão monocrática recorrida que pretende desconstituir, qual seja, o não conhecimento do agravo, pela aplicação do art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+De fato, a d. Presidência deste Superior Tribunal de Justiça, ao não conhecer do agravo em recurso especial, consignou (fl. 292), in verbis, que:
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: deficiência de cotejo analítico, Súmula 7/STJ, Súmula 83/STJ e ausência de prequestionamento.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial".
+O recorrente, contudo, enfatize-se, nada menciona a respeito do fundamento utilizado para não conhecer do agravo em recurso especial, pelo que não pode ser conhecido o presente agravo regimental.
+Tal circunstância, como cediço, atrai, in casu, a aplicação do enunciado da Súmula n. 182 desta Corte Superior de Justiça, que dispõe, verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Assim, verificada esta hipótese  ausência de impugnação dos fundamentos da decisão agravada  o recurso não merece ser conhecido, conforme remansosa jurisprudência desta Corte. Nesse sentido, confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO INOCORRENTE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não há maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+2. Cabe ao agravante, nas razões recursais, atacar especificamente os fundamentos da decisão agravada, sendo inviável o regimental que deixa de fazê-lo ou apenas formula alusões genéricas aos motivos que conduziram ao não conhecimento do agravo em recurso especial. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido" (AgRg no AREsp n. 1.021.378/MG, Rel. Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 5/4/2017).
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO.
+1. É inviável o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes.
+2. Agravo regimental não conhecido" (AgRg no AREsp n. 979.894/PB, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 21/6/2017).
+Diante do exposto, não conheço do agravo regimental.
+É o voto.
