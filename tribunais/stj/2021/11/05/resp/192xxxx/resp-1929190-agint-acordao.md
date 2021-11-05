@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo internointerposto contra decisão, assim ementada (fl. 734):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO. MOROSIDADE NO ANDAMENTO DO FEITO QUE FOI ATRIBUÍDA AO PODER JUDICIÁRIO. INCIDÊNCIA DA SÚMULA 106/STJ. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+A agravante alega que a pretensão recursal restringe-se ao reconhecimento da prescrição da execução com base nos fatos e provas considerados pelo próprio acórdão recorrido, razão pela qual não há falar naaplicação da Súmula 7/STJ.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. MOROSIDADE NO ANDAMENTO DO FEITO QUE FOI ATRIBUÍDA AO PODER JUDICIÁRIO. INCIDÊNCIA DA SÚMULA 106/STJ. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Rever o posicionamento do Tribunal de origem, com o objetivo de acolher a pretensão recursal de ver reconhecida a prescrição, bem como acerca da morosidade do Poder Judiciário e da aplicação da Súmula 106/STJ, demandaria necessário revolvimento de matéria fática, o que encontra óbice na Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Opresente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo internonão se vislumbram razões para reformar a decisão agravada.
+Como assinalado, ao apreciar a temática alusiva à prescrição executória, o Tribunal de origem assim manifestou-se (fls. 615-616, com grifos nossos):
+Como relatado, insurge-se o apelante contra decisão que decretou a prescrição da pretensão executória e extinguiu, sem resolução do mérito, o procedimento de cumprimento de sentença que lhe reconhece o direito à aposentadoria especial prevista na Lei Complementar nº 51/85, na condição de Policial Rodoviário Federal, bem como ao recebimento do abono de permanência em serviço, de que trata o art.40, § 19, da CF/88, desde a data da retroação da aposentadoria, respeitada a prescrição quinquenal.
+Sustenta que a decisão é equivocada, porque, em que pese o trânsito em julgado da sentença exequenda ter ocorrido no STF em 06/09/2013, o retorno do processo à Vara de origem somente ocorreu em 2016, sendo ele intimado, para requerer o que fosse do seu interesse em 16/11/2016, depois da digitalização dos autos para tramitar na forma eletrônica. Assim, requerido o cumprimento da sentença em 09/10/2018, a teor do que dispõem o art. 1º do Decreto nº 20.910/32 e a Súmula nº 150 do STF, não ocorreu a prescrição admitida pelo Juiz "a quo".
+Do que verifico dos autos, tenho que procede a irresignação.
+Com efeito, da movimentação do processo no sistema eletrônico da Seção Judiciária do Rio Grande do Norte, que tramitou nos autos físicos sob o nº 2007.84.00.000857-3, verifica-se que o seu recebimento na Vara, após o trânsito em julgado no Tribunal, ocorreu pelo "usuário GER", em 16/11/2016.
+Dessa forma, entre o trânsito em julgado do processo no Tribunal, ocorrido em 06/09/2013, e a data do seu retorno à Vara, em 16/11/2016, o autor da ação, que findou vencedor, esteve impedido de iniciar o cumprimento definitivo da sentença, uma vez que, a teor do que dispunha o art. 475-J do CPC/1973 e dispõe o art. 523 do CPC/2015, o seu processamento somente seria cabível nos próprios autos.
+ ..
+Por sua vez, como é assente na jurisprudência, apenas diante da inércia da parte exequente poder-se-ia caracterizar a prescrição da pretensão executória, o que não ocorreu nos presentes autos, tendo em vista que a demora ocorreu por conta do próprio mecanismo do judiciário.
+ ..
+Dessa forma, como não ocorreu a prescrição apontada pela decisão recorrida, não há óbice ao prosseguimento da execução.
+O seu processamento, tendo em vista o fato de não estar ainda madura para julgamento, deve ocorrer no juízo "a quo", para que não haja supressão de instância.
+Consignou-se, ainda, por ocasião do julgamento dos aclaratórios, que(fl. 649, com grifos nossos):
+Sobre o tema objeto dos embargos de declaração, o acórdão embargado, diferentemente do que alega a embargante, não desconheceu que, de acordo com o dispositivo legal e a súmula por ela reportados, a prescrição das dívidas da Fazenda Pública ocorre no prazo de 5 (cinco) anos, tendo afastado, no caso concreto, a sua incidência, tendo em vista que o autor, vencedor da ação, após o trânsito em julgado, ocorrido em 06/09/2013, não quedou inerte, mas provou que somente teve acesso ao processo, para requerer o cumprimento definitivo da sentença, que somente poderia ocorrer nos próprios autos, por motivos inerentes ao próprio mecanismo judiciário, em novembro de 2016. Dessa forma, nos termos do entendimento jurisprudencial consolidado (Súmula nº 106/STJ), não poderia ser prejudicado. Assim, requerido o cumprimento de sentença em 09/10/2018, dentro do lustro, contado do momento em que o requerente teve acesso aos autos, entendeu não haver óbice ao seu processamento, reformando, assim, a sentença, para determinar o prosseguimento do feito.
+Tem-se, desse modo, quepara rever o posicionamento do Tribunal de origem, com o objetivode acolher a pretensão recursal de ver reconhecida a prescrição, bemcomo acerca da morosidade do Poder Judiciário e da aplicação daSúmula106/STJ, demandaria necessário revolvimento de matériafática, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.VIOLAÇÃO DO ART. 535 DO CPC/1973 INEXISTENTE. SÚMULA 83 DO STJ.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, § 1º, DO CPC/2015.SÚMULA 182 DO STJ. OBRIGAÇÃO DE FAZER. PRECLUSÃO. TRANSCURSO DO LUSTRO PRESCRICIONAL. INÉRCIA DO EXEQUENTE RECONHECIDA.INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO PARCIALMENTE CONHECIDO E IMPROVIDO.
+ ..
+6. Ademais, para se chegar a uma conclusão contrária à do Tribunal a quo - no sentido de que a demora na promoção da execução não decorreu da morosidade do devedor ou dos mecanismos judiciários, mas sim da inércia da parte -, faz-se necessário incursionar no contexto fático-probatório da demanda, o que é inviável em recurso especial, por força do constante na Súmula 7 do Superior Tribunal de Justiça.
+7. Agravo interno parcialmente conhecido e improvido (AgInt no AREsp 1.061.413/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 20/4/2021).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. VIOLAÇÃO AO ART. 535, INC. II, DO CPC/1973. NÃO OCORRÊNCIA. ACÓRDÃO QUE FUNDAMENTOU ADEQUADAMENTE SEU ENTENDIMENTO, RECONHECENDO A CULPA EXCLUSIVA DOS MECANISMOS JUDICIÁRIOS NA DEMORA DO ANDAMENTO PROCESSUAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. Na hipótese, estabelecida nos autos a culpa exclusiva do Judiciário na demora pelo andamento processual, o que é suficiente para afastar a tese de prescrição, diante da previsão da Súmula 106/STJ, a revisão de tal entendimento é providência incabível neste momento processual, em face da Súmula 7/STJ, posicionamento adotado pelo Superior Tribunal de Justiça em sede de recurso representativo de controvérsia (REsp 1.102.431/RJ, Rel. Min.Luiz Fux, Primeira Seção, DJe de 1º/2/2010).
+3. Agravo interno não provido (AgInt no REsp 1.502.067/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 25/4/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
