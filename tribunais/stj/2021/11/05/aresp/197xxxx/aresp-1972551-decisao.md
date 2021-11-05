@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo apresentado por FABIO JUNIOR DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+FURTO QUALIFICADO TENTADO. Materialidade e autoria comprovadas, inclusive quanto às qualificadoras e à causa de aumento do repouso noturno. Ocorrência de tentativa e não de desistência voluntária. Pena dosada considerando os maus antecedentes e a reincidência. Apelo ministerial provido (fl. 315).
+Quanto à controvérsia trazida aos autos, pela alínea "a" do permissivo constitucional, alega violação do art. 387, § 2º, do Código de Processo Penal e do art. 1º da Lei n. 12.736/2012, no que concerne à fixação do regime semiaberto do recorrente considerando o tempo de prisão provisória cumprido, trazendo os seguintes argumentos:
+É fato incontroverso nos autos que o recorrente foi preso em flagrante delito no dia 08 de novembro de 2018, ficando preso por 3 meses e 10 dias, até o cumprimento do alvará de soltura em razão da absolvição, em 18/02/2019. Ou seja, permaneceu preso, por este processo, por mais 3 meses e 10 dias (fls. 348).
+Ora, na presente situação, considerando que a pena aplicada foi de pouco mais de 18 meses, tem-se que o embargante já cumpriu mais de 1/6 da pena que lhe foi aplicada (fls. 348).
+Ademais, importante mencionar que, no presente caso, o paciente foi absolvido em primeira instância, cabendo exclusivamente ao E. Tribunal de Justiça proceder toda a individualização da pena do recorrente (fls. 350).
+É, no essencial, o relatório. Decido.
+Em relação à controvérsia recursal, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
