@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de FERNANDO HENRIQUE LEODEL DE SOUZA contra decisão monocrática proferida peloDesembargador Relator do HC n. 2244517-43.2021.8.26.0000, em trâmite no Tribunal de Justiça do Estado de São Paulo.
+Consta nos autos que o Juízo da Execução Penal indeferiu o pedido de retificação dos cálculos de pena formulado pelo Paciente com base na nova redação do art. 112 da Lei de Execução Penal (Lei n. 13.964/2019).
+A Defesa impetrouhabeas corpusperante o Tribunal de origem, o qual foi indeferido liminarmente por decisão monocrática do Desembargador Relator, sob o fundamento de que houve alteração fático-processual na execução da pena consistente na elaboração de novo cálculo, que se encontra pendente de homologação judicial.
+Nestewrit, a Parte Impetrante busca a incidência do lapso temporal de 20% (vinte por cento) da reprimenda para a progressão de regime, uma vez que o Paciente é reincidente genérico no cometimento de crime praticado com violência à pessoa ou grave ameaça.
+É o relatório.
+Decido.
+O presentewritfoi manejadocontra decisão monocrática do Desembargador Relatordo Tribunal de origem,que indeferiu liminarmente ohabeas corpusoriginário.
+Assim, ausente o exaurimento da instância ordinária, e, não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento da presente ação mandamental.
+A propósito, cito,mutatis mutandis, os seguintes julgadosdesta Cortee doSupremo Tribunal Federal, respectivamente:
+" ..
+1. Hipótese em queopresentewritfoi manejado contra decisão singular do Desembargador Relator do Tribunal de Justiça do Estado de Minas Gerais, não tendo havido a interposição de agravo regimentalobjetivando a manifestação do Órgão Colegiado.
+2.Ausente o exaurimento da instância ordinária, e, não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento da presente ação mandamental.
+ ..
+5. Agravo regimental desprovido." (AgRg no HC 556.467/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 03/03/2020, DJe 16/03/2020; sem grifos no original.)
+" .. .
+1.A jurisprudênciadesta Corte é pacífica no sentido de que, não tendo a parte recorrente interposto agravo regimental para esgotamento da instânciaanterior, com vistas a atender os ditames do art. 105, II, da Constituição Federal,é incabível a impetração dohabeas corpus, só se flexibilizando esse entendimento quando constatada ilegalidade flagrante. Precedentes.
+2. Agravo regimental improvido."(AgRg no HC 503.168/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/05/2019, DJe 04/06/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA.NÃO ESGOTAMENTO DE JURISDIÇÃO. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. SUPRESSÃO INSTÂNCIA.
+1.Há óbice ao conhecimento dehabeas corpusimpetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Precedentes.
+2. Inviável o exame de teses defensivas não analisadas pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. Agravo regimental conhecido e não provido."(HC 171.614 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 03/09/2019; grifos diversos do original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUS. 2. Penal e Processual Penal. 3. Sequestro e cárcere privado, extorsão e corrupção passiva (arts. 148, 158, § 1º, c/c o art. 29, e art. 317, § 3º e 4º,"a"e"c", da Lei 4.898/1965). 4. Retirada do monitoramento eletrônico. 5.Habeas corpusimpetrado contra decisão monocrática do STJ. Impossibilidade. Esgotamento das vias recursais. Precedentes.6. Agravo regimental a que se nega provimento."(HC 170.091 AgR, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, DJe 03/09/2019; grifos diversos do original.)
+Friso, ainda,que as razões da impetraçãonem sequer impugnaram o fundamento da decisão proferida pelo Desembargador Relator, que assim dispôs (fls. 13-14):
+"No caso em apreço, o impetrante insurge-se contra suposto ato coator praticado pela autoridade judiciária da execução da pena representado pela homologação do cálculo elaborado nos autos da execução criminal. Afirma que foi consignado o percentual de 30% de cumprimento da pena para a configuração do requisito objetivo para a progressão de regime prisional. Afirma que a situação assim desenhada configura constrangimento ilegal representado pela desconsideração de recente legislação que alterou a forma de contagem e o lapso temporal para progressão de regime.
+Em consulta aos autos do processo nº 1502146-79.2020.8.26.0408, em trâmite na 1ª Vara Criminal da Comarca de Ourinhos, verifico que se deu início à execução provisória do comando condenatório no último dia 9 de fevereiro. Houve, é certo, elaboração de cálculo da pena o qual foi homologado pela autoridade coatora no último dia 31 de maio. Inconformado com aquele decisão, a defesa técnica requereu a retificação do cálculo para que fosse readequada a porcentagem estabelecida para a progressão de regime (fls 46/47 dos autos principais). Naquela oportunidade, a autoridade judiciária indeferiu o pedido de retificação do cálculo (decisão proferida no dia 05 de outubro - fls. 56/57 dos autos principais).
+Por outro lado, no último dia 15 de outubro, juntou-se aos autos a cópia dov. Acórdão, proferido no último dia 26 de julho, o qual deu parcial provimento ao recurso de apelação para readequar a sanção penal imposta ao paciente. Aquela decisão colegiada transitou em julgado no último dia 27 de setembro (autos do processo 1502146-79.2020.8.26.0408 da 1ª Vara Criminal da Comarca de Ourinhos). Por consequência, procedeu-se a elaboração de novo cálculo da pena (fls. 170/171 dos autos principais).
+A defesa técnica foi intimada, no dia 19 de outubro, para tomar ciência e para manifestar-se sobre o novo cálculo. Não houve, portanto, homologação judicial. Não há, portanto, ao menos por ora, a apontada ilegalidade. Não se pode corrigir o que ainda não existe no mundo jurídico.
+Ou seja, somente após o enfrentamento das questões postas à deliberação da autoridade judiciária competente é que será possível o conhecimento da matéria pelos órgãos superiores de jurisdição, seja pelos instrumentos recursais pertinentes, seja pela via das ações impugnativas autônomas. Nesse contexto, ao menos por ora, não há que se falarem constrangimento ilegal que justifique o ajuizamento e o processamento do remédio heróico perante este Tribunal.
+Com supedâneo no exposto rejeito, liminarmente, o presente habeas corpus, com fulcro no art. 663 do Código de Processo Penal."
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.WRITMANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
