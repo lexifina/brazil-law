@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto por JONATAS FERREIRA SANTOScontra acórdão proferido pelo Tribunal de Justiça do Estado da Bahiano HC n.8018412-27.2020.8.05.0000.
+Consta nos autos que foi decretada a prisão preventiva do Recorrente, em 10/04/2018, sendopronunciado, em 11/12/2018, pela suposta prática do delito previsto no art. 121, § 2.º, incisosI e IV, do Código Penal.
+O Recorrente interpôs Recurso em Sentido Estrito contra a decisão de pronúncia, que foi desprovido pela Cortea quo, em 05/09/2019.
+Alegando excesso de prazo na formação da culpa e ausência de fundamentação paraa manutenção da prisão preventiva, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem (fls. 116-130).
+Nesta insurgência, o Recorrente sustenta, inicialmente,constrangimento ilegal por excesso de prazo na formação da culpa. Aduz, em síntese, que "de abril de 2018 até a presente data somam-se mais de 02 (dois) anos, portanto inaceitável que o recorrente se encontre preso por tanto tempo" (fl. 138).
+De outra parte, alega a ausência dos requisitos para a manutenção da segregação cautelar, mormente em razão da não existência de motivos novos aptos a justificarem a necessidade da medida extrema.
+Requer, em liminar e no mérito, o provimento do recurso, determinando-se a expedição do alvará de soltura.
+Indeferida a liminar e prestadas as informações, sobreveio o parecer do Ministério Público Federal, opinando pelo desprovimento do recurso ordinário em habeas corpus.
+É o relatório.
+Decido.
+Em consulta ao sistema de informações processuais do Tribunal de origem (0300734-87.2018.8.05.0079),verifica-se que, em 07/10/2021, houve o julgamento do Recorrente perante o Tribunal do Júri, sendo condenado à pena de 14 (quatorze) anos de reclusão, em regime inicial fechado, pela prática do crime previstoart. 121, § 2.º, incisos I e IV, do Código Penal.
+Na oportunidade, o Juízo sentenciante negou ao Réu o direito de recorrerem liberdade nos seguintes termos:
+"Não reconheço ao réu o direito de aguardar eventual recurso em liberdade, em razão de ainda se encontrarem presentes os requisitos para a prisão preventiva, os quais se acham exaustivamente demonstrados na decisão que a decretou, notadamente a periculosidade concreta do acusado, seja pela forma de execução do crime pelo qual ora foi condenado, pois em comparceria com terceira pessoa, executou a vítima com diversos tiros, após arrastá-la do interior da casa desta, na presença dos familiares, com cuja violência extrema o réu demonstra altíssima periculosidade para o meio social, seja porque - e principalmente - a ação delituosa foi motivada por dívida de drogas e com o intuito impingir terror na comunidade, notadamente aos usuários inadimplentes, tudo em ordem a exigir a garantia da ordem pública por meio de sua segregação cautelar, como também " n ão há lógica em deferir ao condenado o direito de recorrer solto quando permaneceu segregado durante a persecução criminal, se persistentes os motivos para a preventiva". (RHC 67.503/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/12/2016, DJe 19/12/2016)."
+Como se percebe, o título que ora justifica a segregação do Recorrenteagregou novo fundamentoao decreto prisional pretérito, qual seja, o de que, " n ão há lógica em deferir ao condenado o direito de recorrer solto quando permaneceu segregado durante a persecução criminal, se persistentes os motivos para a preventiva".
+Assim, há novo título a respaldar acustódiacautelardo Recorrente, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram complementadas pelasuperveniente sentença, que ainda não foi objeto de análise pelo Tribunal impetrado.
+Desse modo, averificação de eventual constrangimento ilegal, por se tratar de novo título, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior se adiantar em tal análise, sob pena de indevida supressão de instância.
+Nesse sentido:
+" ..
+1. A partir da sentença, a prisão cautelar, se mantida, decorre de novo título judicial. Assim, é em face desse novo contexto que se deve indagar sobre os requisitos da segregação cautelar.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes. (EDcl no RHC n. 78.448/MG, Sexta Turma, DJe 23/3/2017).
+3. Agravo regimental improvido." (AgRg no RHC 94.324/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018; sem grifos no original.)
+De outra parte, também fica superada a alegação do excesso de prazo para a formação da culpa, consoanteprevê a Súmula n.52 do Superior Tribunal de Justiça: " e ncerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+A propósito:
+"2. A superveniência da sentença condenatória prejudica qualquer alegação referente ao excesso prazo para a formação da culpa. Incidência da Súmula n. 52 desta Corte Superior: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.""(HC 619.000/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/04/2021, DJe 15/04/2021.)
+"3. A tese de excesso de prazo na formação da culpa está superada com a superveniência da sentença condenatória. 4. Recurso não provido."(RHC 130.593/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o recurso ordinário em habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO.INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL IMPETRADO.IMPOSSIBILIDADE DE APRECIAÇÃO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. QUESTÃO SUPERADA. RECURSO ORDINÁRIO EMHABEAS CORPUS PREJUDICADO.
