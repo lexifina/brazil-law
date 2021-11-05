@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EUGENIO ALVES DOS SANTOS em que se aponta como autoridade coatora Tribunal de Justiça do Estado de São Paulo (HC n.2181245-75.2021.8.26.0000).
+O paciente foi preso em flagrante no dia 29/5/2021. Tevea prisão convertida em preventiva e foi denunciado por suposta práticado crime previsto no art. 33, caput, c/c oart. 40, III, ambos da Lei n.11.343/2006.
+O decreto prisional fundou-se na suficiência das provas da materialidade -48 porções de cocaína e 10 porções de maconhae nos indícios deautoria e ainda no fato de o paciente ostentar anotações criminais pela mesma prática delitiva.
+Passados 90 dias da decretação da preventiva a prisão foi reavaliada e mantida pelo Juízo de primeiro grau, por persistiremos motivos ensejadores.
+Impetrado writ originário, o TJSP denegou a ordem, porémrecomendou à autoridade apontada como coatora apossibilidade de analisar aantecipação da audiência de instrução, debates e julgamento, marcada para janeiro de 2022.
+Nas razões do presente habeas corpus, a defesa alega excesso de prazo na formação da culpa.
+Afirma que o paciente estápreso há cerca de 8 meses, pela apreensão de pequenaquantidade de droga e por crime praticado sem violência ou grave ameaça, não representandorisco à ordem pública,à conveniência da instruçãoou agarantia da aplicação da lei penal a sualiberdade.
+Menciona ausência dos requisitos para a decretação daprisão.
+Requer, liminarmente e no mérito, arevogação da prisão preventiva com a expedição do alvará de soltura.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 58-61, destaquei):
+Do aludido andamento processual, inclusive, não é possível inferir qualquer dado no sentido de que o Juízo ou a acusação estejam atuando com desídia no tocante ao regular desenvolvimento da ação penal.
+Observo que a denúncia foi apresentada em 11/06/2021 (fls. 76/78), ocasião na qual foi determinada a notificação do paciente para apresentação de defesa prévia (fls. 80 da ação originária).
+Apresentada em 14/07/2021 (fl. 90 da ação originária), a defesa prévia foi analisada em 30/07/2021, ocasião na qual também foi designada audiência de instrução, debates e julgamento para a data de 25 de janeiro de 2022 (fls. 93/95 da ação originária).
+Observo que a situação de pandemia relacionada ao coronavírus (Covid-19), que motivou a edição dos Provimentos CSM nº 2545/2020 e 2549/2020, que determinaram a suspensão dos atos processuais e fechamento dos fóruns, contribuiu para o maior decurso de prazos e maiores dificuldades para designação e compatibilização de audiências. Além disso, aponto que a designação de data distante para realização da audiência não inviabiliza sua antecipação e tampouco prejudica a análise da prisão cautelar do paciente, que, conforme o disposto no artigo 316, parágrafo único, do Código de Processo Penal, deve ser reavaliada a cada 90 dias.
+Aponto, por fim, que a prisão cautelar do paciente foi reavaliada em 24/09/2021, ocasião na qual a custódia foi mantida com fundamento no risco de reiteração delitiva, considerando a reincidência específica(fls. 116/117 da ação originária)
+Assim, não se constata o alegado excesso de prazo.
+Entretanto, recomenda-se à autoridade apontada como coatora a análise da possibilidade de antecipação da audiência de instrução, debates e julgamento.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Registre-se ainda ser notório que a pandemia de covid-19 acarretou prolongamento no trâmite processual de causas em todo o território nacional. Nesse sentido, não há como ignorar o impacto dessa circunstância concreta no funcionamentodo Poder Judiciário, razão pela qual não há falar em violação dos princípios da razoável duração do processo e da proporcionalidade.
+No que se refere aos requisitos da preventiva, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Portanto, neste ponto, o recurso não merece conhecimento e também não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
