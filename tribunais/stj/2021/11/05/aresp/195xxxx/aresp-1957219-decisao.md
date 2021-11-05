@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por BANCO DO BRASIL S.A, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 704):
+"APELAÇÃO CÍVEL - FINANCIAMENTO ESTUDANTIL - FIES - RECUSA DE PAGAMENTO LASTREADA EM ADITIVO CONTRATUAL QUE TEVE A ASSINATURA CONTESTADA PELO AUTOR - ÔNUS DA PROVA DA PARTE QUE PRODUZIU O DOCUMENTO - PROVA NÃO PRODUZIDA - QUEBRA CONTRATUAL PELA PARTE RÉ - DANOS MORAIS - NÃO OCORRÊNCIA - MEROS ABORRECIMENTOS. Se a autora contesta veementemente a autenticidade da assinatura posta no contrato apresentado pela parte ré, em se tratando de documento particular, por força do art. 429, II, do CPC, competia a esta o ônus de comprovar, via perícia grafotécnica, sua veracidade. Não se desincumbindo a parte ré do ônus da prova, mostra-se indevida a sua recusa de pagamento do FIES com fulcro no contrato impugnado. Somente considera-se dano moral indenizável a dor subjetiva que, fugindo à normalidade do cotidiano do homem médio, venha a violar direitos da personalidade do requerente, interferindo intensamente em seu bem estar."
+Nas razões do recurso especial, a agravante alega violação aos arts. 17 e 485, VI, do CPC/15, sustentando, em síntese, que "não poderia o contrato ser declarado inexistente se em seguida exigiu o seu pagamento, de forma solidária, pelo autor e a instituição de ensino, devendo ocorrer a quitação do referido contrato com a efetivação do pagamento dos valores devidos" - (fl. 727).
+É o relatório.
+De início, quanto à alegada violação dos arts. 17 e 485 do CPC/15, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
