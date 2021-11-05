@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelaUNIÃO, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃOassim ementado:
+APELAÇÃO CÍVEL. REMESSA NECESSÁRIA. ADMINISTRATIVO, CIVIL, CONSTITUCIONAL, PROCESSO CIVIL. TERRENO DE MARINHA. DEMARCAÇÃO. NOTIFICAÇÃO DOS INTERESSADOS. NECESSIDADE. DEVIDO PROCESSO LEGAL. CONTRADITÓRIO. FUNDAMENTO SUFICIENTE PARA MANUTENÇÃO DA SENTENÇA. IMPROVIMENTO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 541-547).
+A recorrente defende, em síntese: i) prescrição (art. 1º do Decreto n. 20.910/1932); ii) legitimidade da intimação por edital antes de 16/3/2011 (art. 11 do Decreto-Lei n. 9.760/1946); iii) necessidade da produção probatória requerida (arts. 332 e 420 do CPC/1973); iv) distinção do caso com o REsp n. 1.183.564, repetitivo, em que a matéria da notificação teria sido decidida emobiter dictum, não constituindo suaratio.
+Apresentadas contrarrazões (e-STJ, fls. 577-590), o recurso especial foi admitido na origem (e-STJ, fl. 604).
+Parecer pelo desprovimento (e-STJ, fls. 613-616).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC/15, combinado com a Meta 2/CNJ/2021- "Identificar e julgar, até 31/12/2021, 99% dos processos distribuídos até 31/12/2016e 95% dos distribuídos em 2017").
+É o relatório.
+O prazo prescricional quanto à demarcação de terrenos de marinha somente tem início após a notificação dos interessados. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. TERRENO DA MARINHA. DEMARCAÇÃO.
+ ..
+2. No que importa ao tema da prescrição, o acórdão recorrido está alinhado com a jurisprudência desta Corte no sentido de que, enquanto o ocupante não for notificado acerca do procedimento, o prazo prescricional para questioná-lo judicialmente não tem início.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.933.616/SP, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 9/8/2021, DJe de 13/8/2021).
+Mesmo sob a redação original da norma de 1946, no caso de interessados conhecidos e certos, a notificação deve ser pessoal. Nesse sentido:
+ ..  V. Nos termos da firme jurisprudência do Superior Tribunal de Justiça, (a) o prazo prescricional para postular a anulação do processo de demarcação de terreno de marinha "deve ser contado da data em que o ocupante tem ciência da fixação da Linha Preamar Média, o que, em geral, ocorre com a notificação para pagamento da taxa de ocupação" (STJ, REsp 1.682.495/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017; e (b) tal pretensão está sujeita ao prazo prescricional de cinco anos. Nesse sentido: STJ, AgInt no REsp 1.424.737/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/11/2017; AgRg no REsp 1.490.760/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 31/03/2015; REsp 1.347.748/SC, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 20/11/2013.
+ ..
+VII. Interpretando a redação original do art. 11 do Decreto-lei 9.760/46, o Superior Tribunal de Justiça firmou entendimento no sentido de que "o legislador determinou que, quando certos os interessados no procedimento demarcatório de terras de marinha, na delimitação da Linha Preamar Média de 1831, sua convocação deverá ser pessoal, ao contrário do que ocorre quanto aos interessados incertos, convocados por edital" (STJ, REsp 545.524/SC, Rel.Ministro FRANCIULLI NETTO, SEGUNDA TURMA, DJU de 13/10/2003). Nesse mesmo sentido: STJ, REsp 586.859/SC, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJU de 18/04/2005; REsp 617.044/SC, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJU de 27/03/2006; REsp 1.345.646/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 17/12/2014.
+ ..
+(REsp n. 1.902.706/PE, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/5/2021, DJe de 31/5/2021).
+Nos pontos, a pretensão se enquadra na hipótese da Súmula 83/STJ (Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida).
+O REsp n. 1.183.564 não foi afetado ao regime dos repetitivos e em nada diz respeito à presente controvérsia, tratando de questão tributária (ICMS sobre fornecimento de energia elétrica para centrais telefônicas). No ponto, o recurso esbarra no óbice da Súmula 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+Quanto à produção da prova sobre a ligação marítima das lagoas em tela, o acórdão a teve como despicienda, ante a nulidade do processo administrativo por falta de notificação pessoal, fundamento que a insurgência não tem o condão de afastar. O provimento judicial, portanto, não tem o alcance defendido pela recorrente, qual seja, de inviabilizar o debate futuro sobre a ligação marítima no passado.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
