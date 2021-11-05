@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+TRIBUTÁRIO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS (FPM). RETENÇÃO DE VALORES PARA PAGAMENTO DE OBRIGAÇÕES TRIBUTÁRIAS. ESTIMATIVA. LEI Nº 10.522/2002, ART. 14-D, PARÁGRAFO ÚNICO. LEGITIMIDADE. HONORÁRIOS DEADVOGADO.
+1.Este egrégio Tribunal reconhece que é legítima a retenção, com base em estimativa, de valores do Fundo de Participação dos Municípios  FPM para pagamento de obrigações tributárias correntes, quando não constituído o respectivo crédito por meio de Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e de Informações à Previdência Social  GFIP ou de lançamento de ofício, conforme estabelecido no art. 14-D, parágrafo único, da Lei nº 10.522/2002. Precedentes: AMS 0006694-04.2006.4.01.3300/BA, Sétima Turma, Relator Juiz Federal RAFAEL PAULO SOARES PINTO (CONV.), e-DFF1 de 23/5/2014, p. 501 e AGA 0063548- 77.2013.4.01.0000/BA, Sétima Turma, Relator Juiz Federal RONALDO CASTRO DESTERRO E SILVA (CONV.), e-DFF1 de 23/5/2014, p. 670.
+2.No que tange aos honorários de sucumbência, tal verba tem característica complementar aos honorários contratuais, haja vista sua natureza rennuneratoria.
+3.Ademais, a responsabilidade do advogado não tem relação direta com o valor atribuído à causa, vez que o denodo na prestação dos serviços há de ser o mesmo para quaisquer casos.
+4. Nesse sentido, os honorários advocatícios devem guardar observância aos princípios da razoabilidade e da equidade, razão pela qual devem ser fixados considerando-se o previsto nos incisos I a V do § 30c/c o inciso II do § 8º do art. 85 do Novo Código de Processo Civil, cujo montante deverá ser apurado no momento processual oportuno.
+5. Apelação provida.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões de recurso especial, aponta a parte recorrente violação dos seguintes dispositivos: a) art. 1.022 do Código de Processo Civil, sustentando que o acórdão recorrido padece de omissão; b) art. 85, § 4º, III, do Código de Processo Civil, aduzindo que a verba honorária deveria ser arbitrada desde logo na medida em que não houvecondenaçãoprincipal e não haverá liquidação de sentença.
+Não houve contrarrazões.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não merece prosperar.
+Preliminarmente, sustenta-se que a Corte local restou omissa acerca da inaplicabilidade do art. 85, § 4º, II, do CPC ao caso concreto uma vez que "não se poderia postergar a cominação dos honorários para "momento oportuno" com base no art. 85, §4º, II,do CPC, visto que não haverá fase de liquidação, pois foi julgado improcedente o pedido autoral" (e-STJ fl. 107).
+Com efeito, o aresto combatido não se manifestou acerca da inaplicabilidade do art. 85, § 4º, II, do CPC, tampouco acerca da impossibilidade de liquidação de sentença em virtude da improcedência do pleito formulado pela municipalidade e da ausência de condenação principal.
+Para fins de conhecimento do recurso especial, é indispensável a préviamanifestação do Tribunal a quo acerca da tese de direito suscitada, ouseja, a ausência de prequestionamento impede o conhecimento do recurso(Súmulas n. 282 e 356 do STF e Súmula n.211/STJ).
+Assim, tratando-se de questãorelevante para o deslinde da causa que foi suscitada no momento oportuno eobjeto de embargos de declaração, a ausência de manifestaçãosobre ela caracteriza ofensa ao art. 1022 do CPC.
+Verificada tal ofensa,em sede de recurso especial, impõe-se a anulação do acórdão proferido emsede de embargos de declaração, para que seja proferido novo julgamentosuprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL E AMBIENTAL. AÇÃO CIVIL PÚBLICA E AÇÃO ORDINÁRIA DEANULAÇÃO DE AUTO DE INFRAÇÃO. ALEGAÇÃO DE VIOLAÇÃO APENAS DO ART. 1.022,II, DO CPC/2015. ACÓRDÃO GENÉRICO. NECESSIDADE DE MANIFESTAÇÃO EXPRESSA DACORTE DE ORIGEM
+1. Na origem, trata-se de julgamento conjunto de Ação Civil Públicaajuizada pelo Ibama contra a ora recorrida e de Ação Anulatória propostapor esta contra a referida autarquia federal. O juízo de primeiro graujulgou parcialmente procedente a Ação Civil Pública e totalmenteimprocedente a Ação Anulatória.
+2. O acórdão recorrido deu provimento à Apelação da parte ora recorrida,para acolher a alegação de cerceamento de defesa, anulando a sentença edeterminando o retorno dos autos à origem "(..) para que seja produzida aprova testemunhal conforme postulado pela autora deste processo na AçãoCivil Pública que está sendo julgada em conjunto".
+3. A recorrente opôs Embargos de Declaração aduzindo que a parte recorridanão requereu a produção de prova testemunhal nos autos da Ação Anulatória.Os Aclaratórios foram acolhidos apenas para fins de prequestionamento.
+4. No Recurso Especial se aduz violação apenas ao art. 1.022, II, doCPC/2015. Alega que, "embora a ACP proposta pela Autarquia e a açãoanulatória ajuizada pela autuada tenham sido julgadas de forma conjunta, ainstrução dos processos transcorreu de maneira independente. Veja-se que,somente após as alegações finais, o juízo converteu o feito em diligênciadeterminando a reunião dos processos (Evento 90) - portanto, após o encerramento da instrução."
+5. O Acórdão recorrido, genérico em sua fundamentação, não analisouquaisquer dos argumentos dos Embargos de Declaração da Autarquia que, emtese, são capazes de infirmar a conclusão adotada pelo TRF, revelando a
+violação ao art. 1.022 do Código de Processo Civil.
+6. Recurso Especial provido, reconhecendo a violação ao art. 1.022 doCPC/2015, para determinar a devolução dos autos ao Tribunal RegionalFederal da 4ª Região para que, em novo julgamento dos Embargos deDeclaração, manifeste-se acerca da preclusão para produção de provas nosautos da Ação Anulatória.
+(REsp 1673347/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em18/02/2020, DJe 27/05/2020)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, douprovimento ao recurso especial,a fim de determinar o retorno dos autos ao Tribunal deorigem para novo julgamento dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DO ART. 1.022 DO CPC/15. OCORRÊNCIA. OMISSÃO CARACTERIZADA. NULIDADE DO ACÓRDÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL PROVIDO.
