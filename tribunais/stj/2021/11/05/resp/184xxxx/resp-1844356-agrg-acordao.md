@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. NÚCLEO DE PRÁTICA JURÍDICA. PRERROGATIVA. CONTAGEM DO PRAZO EM DOBRO. NÃO APLICAÇÃO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "Nos termos da jurisprudência consolidada no âmbito deste Superior Tribunal, " p ara valer-se da prerrogativa da contagem de prazos em dobro, deve o advogado integrar o quadro da assistência judiciária organizado e mantido pelo Estado, não se aplicando tal benesse aos defensores dativos, aos núcleos de prática jurídica pertencentes às universidades particulares e, ainda, aos institutos de direito de defesa" (AgRg no AREsp n. 1.328.889/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 26/3/2019)" (AgRg no AREsp n. 1.797.455/DF, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/5/2021, DJe 28/5/2021). Precedentes.
+2. Na hipótese, o Núcleo de Prática Jurídica do Uniceub foi intimado em 12/12/2019, de acordo com a certidão do oficial de justiça. Contudo, o agravo regimental somente foi interposto em 3/2/2020, após o transcurso do prazo recursal, conforme certidão de trânsito em julgado.
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por FRANCISCO ARAÚJO DA CONCEIÇÃO contra a decisão que deu provimento ao recurso especial do Ministério Público do Distrito Federal e Territórios.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 305/310, in verbis:
+Trata-se de recurso especial interposto contra acórdão da 1ª Turma Criminal do Tribunal de Justiça do Distrito Federal e Territórios com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal.
+Consta dos autos que, o recorrente foi condenado à pena de 03 anos e 08 meses, em regime inicial fechado, pela prática do crime previsto no art. 155, § §1º e 4º, IV, do Código Penal.
+Inconformada, a defesa interpôs apelação, buscando a aplicação do princípio da insignificância; o afastamento da valoração negativa dos antecedentes e da reincidência, sob o argumento de que as condenações utilizadas pelo magistrado teriam transitado em julgado há mais de 5 anos; pleiteou a alteração do regime inicial para o aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+A 1ª Turma Criminal do Tribunal de Justiça do Distrito Federal deu parcial provimento a pleito defensivo, para afastar a valoração negativa dos maus antecedentes e, consequentemente, reduzir a pena privativa de liberdade, nos termos da seguinte ementa:
+PENAL. FURTO NOTURNO COM CONCURSO DE PESSOAS. PROVA SATISFATÓRIA DA MATERIALIDADE E AUTORIA. PRETENSÃO À APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPROCEDÊNCIA. CORREÇÃO DA DOSIMETRIA DA PENA. RESTRIÇÃO À SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. SENTENÇA PARCIALMENTE REFORMADA.
+1 Réu condenado por infringir o artigo 155, §§ 1º e 4o, do Código Penal, depois de, junto com comparsa e agindo durante o período de repouso noturno, adentrou residência alheia para subtrair equipamento de som automotivo e um conversor para sinal de TV. Materialidade e autoria provadas pela confissão do réu, em harmonia com o relato vitimário.
+2 O princípio da insignificância exige a presença simultânea de quatro requisitos mínimos: a) mínima ofensividade da conduta; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento e d) inexpressividade da lesão jurídica praticada. Tais condições não se apresentam na hipótese, na qual a subtração noturna mediante o concurso de pessoas implica maior ofensividade.
+3 A condenação anterior cuja pena foi extinta há de cinco anos não pode servir para informar os maus antecedentes do réu.
+4 A imposição do regime de cumprimento de pena mais severo exige motivação idônea (Súmula 719/STF). Todavia, sendo na pena abaixo de quatro anos de réu reincidente recomenda o regime inicial semiaberto, vedando-se a substituição da pena corporal por restritivas de direitos.
+5 Apelação parcialmente provida.
+Diante da decisão, o Ministério Público do Distrito Federal, interpôs Recurso Especial, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, apontando violação ao artigo 59 do Código Penal, porquanto a turma julgadora afastou a valoração negativa da circunstância judicial relativa aos antecedentes do recorrido, sob o fundamento de que as condenação anteriores não autorizam o desvalor da moduladora em comento, quando decorrido o prazo depurador de 5 anos entre a data da extinção das penas e as infrações posterior.
+Apresentadas as contrarrazões e proferido o juízo positivo de admissibilidade, os autos vieram ao Ministério Público Federal para manifestação do órgão.
+O recurso especial foi provido, a fim de redimensionar a pena para 3 anos, 1 mês e 10 dias de reclusão.
+Nas razões deste agravo, o agravante alega que, "ao utilizar as condenações já transitadas em julgado e já ultrapassadas , prazo de 5 anos de cumprimento da pena, para ainda sim aumentar a pena na primeira fase da dosimetria, significa conferir caráter ad eternum ao apenado" (e-STJ fl. 336). Ao final, requer a reconsideração da decisão agravada ou, caso contrário, o provimento do recurso pelo colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece conhecimento.
+"Nos termos da jurisprudência consolidada no âmbito deste Superior Tribunal, " p ara valer-se da prerrogativa da contagem de prazos em dobro, deve o advogado integrar o quadro da assistência judiciária organizado e mantido pelo Estado, não se aplicando tal benesse aos defensores dativos, aos núcleos de prática jurídica pertencentes às universidades particulares e, ainda, aos institutos de direito de defesa" (AgRg no AREsp n. 1.328.889/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 26/3/2019)" (AgRg no AREsp n. 1.797.455/DF, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/5/2021, DJe 28/5/2021).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DO AGRAVO APÓS O LAPSO LEGAL. INTEMPESTIVIDADE. NÃO APLICAÇÃO DOS ARTS. 219 E 220 DO CÓDIGO DE PROCESSO CIVIL. NÚCLEO DE PRÁTICA JURÍDICA DE UNIVERSIDADE PARTICULAR. CONTAGEM DE PRAZO EM DOBRO. NÃO CABÍVEL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. É intempestivo o agravo em recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, inciso VIII, c.c. o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal.
+2. A jurisprudência desta Corte é firme no sentido de que " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017).
+3. O entendimento do Superior Tribunal de Justiça está fixado no sentido de que "a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp 1.070.415/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe de 22/05/2017.).
+4. No caso, houve intimação quanto à decisão que não admitiu o recurso especial em 17/08/2020, e o agravo em recurso especial foi interposto em 02/09/2020, quando já havia escoado o prazo para a sua interposição.
+5. Nos termos da jurisprudência desta Corte Superior de Justiça, a prerrogativa de contagem de prazos em dobro não se estende a advogados que integram núcleo de prática jurídica mantido por universidade particular.
+6. Agravo regimental desprovido.
+(AgRg no AREsp 1793754/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/03/2021, DJe 11/03/2021)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL E DO AGRAVO EM RECURSO ESPECIAL. PRAZO EM DOBRO. IMPROCEDÊNCIA. NÚCLEO DE PRÁTICA JURÍDICA.
+ENTIDADE PARTICULAR DE ENSINO. INAPLICABILIDADE. PRECEDENTES DESTA CORTE. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior de Justiça, a prerrogativa de contagem de prazos em dobro não se estende a advogados que integram núcleo de prática jurídica mantido por universidade particular.
+2. No caso em tela, a parte recorrente foi intimada do acórdão recorrido em 04/05/2020, sendo o recurso especial interposto somente em 25/05/2020. A intimação da decisão denegatória do recurso especial ocorreu em 13/8/2020 e o agravo foi interposto em 31/8/2020, fora, portanto, do prazo de 15 dias.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1796109/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/03/2021, DJe 29/03/2021)
+Na hipótese, o Núcleo de Prática Jurídica do Uniceub foi intimado em 12/12/2019, de acordo com a certidão do oficial de justiça (e-STJ fl. 325). Contudo, o agravo regimental somente foi interposto em 3/2/2020, após o transcurso do prazo recursal, conforme certidão de trânsito em julgado (e-STJ fl. 327).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
