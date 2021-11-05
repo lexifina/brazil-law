@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de embargos de declaração opostos contra acórdão da Primeira Seção que, por unanimidade, não conheceu do agravo interno interposto pela Centras Elétricas Brasileiras S/A (e-STJ fls. 2.611-2.617), assim ementada:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. ALEGAÇÕES GENÉRICAS. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada acarreta o não conhecimento do recurso. Incidência da Súmula 182/STJ. Precedentes: AgInt no AREsp 1694252/SP, Rel. Min. Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Primeira Turma, DJe 06/08/21; AgInt no PUIL 1.972/DF, Rel. Min. Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Primeira Seção, DJe 17/06/21; AgInt no REsp 1928631/AM, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 16/06/21; AgInt no AREsp 1668032/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 11/06/21; AgInt no AgInt no REsp 1585938/PB, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 06/05/21.
+3. Agravo interno não conhecido.
+O embargante sustenta que o acórdão embargado contém omissão e contradição perpetuadas no julgamento do Agravo Interno.
+Reafirma os argumentos trazido nas razões do recurso especial, asseverando, em síntese, que:
+ ..  a ação rescisória em questão foi protocolada em 19/12/2012, no último dia do ano, antes do recesso forense e o trânsito no primeiro dia útil do recesso forense do ano seguinte o juízo de admissibilidade somente ocorreu em 06/02/2013 (e-STJ Fl.1170) a carta de citação foi expedida em 07/02/2013 (e-STJ Fl.1172), e a triangulação do processo em 01/04/2013.
+É evidente que não havia a mínima possibilidade de manejo de qualquer recurso.
+Pelo princípio da primazia ao julgamento de mérito, embora protocolada em 19/12/2012, em razão do disposto no art. 493 do CPC, deve-se levar em conta os fatos supervenientes. E, como se sabe, o art. 493 aplica-se em qualquer grau de jurisdição, sendo certo que os "fatos supervenientes, a serem considerados pelo juiz no momento da sentença, tanto podem dizer respeito ao juízo de admissibilidade como ao próprio mérito". 2 " Daí a necessidade de haver uma ponderação de interesse em prol da segurança jurídica. Nesse sentido, destaca-se do parecer do Ministério Público, o seguinte excerto (e-STJ Fl.2236):
+ ..
+Como se evidencia do Parecer do Ministério Público, que após acurada análise da situação, concluiu que o requisito temporal foi atendido, isto porque, a rigor, o prazo, na presente ação, corre a partir da decisão que negou seguimento ao recurso extraordinário.
+Ponha-se em caixa alta que na análise quanto ao marco temporal no tocante da regra de direito processual, o Ministério Público, de forma minuciosa, expõe que no STJ, o recurso especial que havia sido interposto simultaneamente ao extraordinário, recebeu o nº 39.719 -PR (2011/0204076-6) e, após o julgamento do AgRg nos EAREsp nº 39.719/PR, transitou em julgado em 03/07/2012, o que possibilitou o exame de admissibilidade, pela Corte de origem, do recurso extraordinário referido no parágrafo precedente.
+No entanto, "o termo a quo para aferir o requisito temporal da ação rescisória é a data do trânsito em julgado da última decisão proferida no processo (art. 495 do CPC), ainda que essa decisão não tenha admitido recurso, o prazo, na presente ação, corre a partir da decisão que negou seguimento ao recurso extraordinário".
+Prossegue afirmando que "Ela foi proferida, como visto acima, em 06/12/2012 pelo E. TRF da 4ª Região, mas só veio a ser publicada em 08/01/2013 e teve seu trânsito em julgado certificado em 23/01/2013".
+Por fim, conclui de forma proficiente que, a rigor, a ação em tela foi ajuizada extemporaneamente. Todavia, a extemporaneidade, na hipótese vertente, não tem o mesmo efeito da decadência - que atinge a ação rescisória proposta após o prazo de 2 (dois) anos do trânsito em julgado - e nem impede a caracterização do requisito do art. 495 do Código de Processo Civil.
+A decisão do Tribunal a quo proferida nos autos da ação rescisória está em harmonia com a Súmula 401, posto que na data da protocolização da ação rescisória não era cabível qualquer recurso do último pronunciamento judicial.
+Por outro lado, cai por terra as premissas nas quais o Ilustre Relator se utilizou para aplicar o enunciado da súmula 182 na espécie qual, qual seja de que a Embargante não impugnou os fundamentos da deisão Agravada, na medida em que o Recurso Especial foi interposto pelo Agravado.
+Ao final, requer o acolhimento dos embargos de declaração.
+Impugnação às e-STJ fls. 2.630-2.633.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NORECURSO ESPECIAL.VÍCIOS DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício a ensejar esclarecimento ou a integração do que decidido no julgado.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Registra-se, de início, que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Não merece ser acolhida a irresignação.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, o embargante não aponta em que consistiria a omissão e contradição do acórdão embargado, tendo unicamente repisado os fundamentos de mérito do apelo especial. Conforme pode ser constatado dos trechos em destaque supra, a ora embargante menciona no título do parágrafo a ocorrência de omissão e contradição, contudo, sem demonstrar a efetiva ocorrência dos referidos vícios, limitando-se a repetir os argumentos inerentes ao mérito do recurso especial.
+O inconformismo da parte embargante não diz respeito aos vícios do art. 1.022 do CPC, supostamente existentes na decisão agravada, isso porque o recurso especial nem sequer foi conhecido em razão de óbice processual (Súmula 182 do STJ), o que torna indevida qualquer manifestação a respeito do mérito recursal.
+Aqui, como se vê, a intenção não é outra que a de rediscutir o acerto da decisão embargada, finalidade essa incompatível com esta via recursal.
+Dessarte, nunca é demais relembrar que os Embargos de Declaração constituem recurso de contornos rígidos, e sua finalidade é integrar o decisum obscuro, contraditório, omissão, bem como para corrigir erro material. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Com efeito, acerca dos requisitos legais para o cabimento dos aclaratórios, esclarecedor os ensinamentos do i. doutrinador Theotônio Negrão no sentido de que "os embargos de declaração não são palco para a parte simplesmente se insurgir contra o julgado e requerer sua alteração" (Código de Processo Civil, Theotônio Negrão, 41ª ed., 2009, pág. 742, grifei).
+Nesse contexto, vê-se que a insurgência contra o acórdão embargado não autoriza a interposição de embargos de declaração, revelando que a parte ora embargante procura, por via reflexa, o mero rejulgamento da causa, o que não é aceitável, consoante jurisprudência do Superior Tribunal de Justiça.
+No mesmo sentido: EDcl na SEC 7.296/EX, Rel. Ministro Og Fernandes, Corte Especial, DJe 23/5/2017; EDcl nos EREsp 1.316.410/PR, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 30/5/2017, dentre outros julgados.
+Assim, inexistentes as hipóteses do artigo 1.022 do Código de Processo Civil/2015, os embargos de declaração não merecem acolhimento.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
