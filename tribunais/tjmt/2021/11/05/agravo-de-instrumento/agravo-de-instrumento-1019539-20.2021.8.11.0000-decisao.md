@@ -1,0 +1,16 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto pela UNIMED CUIABÁ – COOPERATIVA DE TRABALHO MÉDICO, com o fito de suspender a decisão que, nos Autos da Ação de Obrigação de Fazer de no 1032545-68.2021.8.11.0041, ajuizada por LAZARA FLORENCIA DOS SANTOS, deferiu a tutela de urgência, para determinar que a demandada, ora agravante, reative a autora no plano de saúde do contrato originário junto ao Sindicato das Instituições Beneficentes, Religiosas Filantrópicas do Estado de Mato Grosso, que teve início em 01.11.2000, contrato 8552/4156 e carteirinha no 0056.011401700001.9, com as mesmas coberturas da época do cancelamento.
+Para tanto, aduz a agravante que os requisitos inerentes à tutela judicial pretendida não foram suficientemente demonstrados, mormente por contrariar dispositivo de lei que permite a manutenção do contrato de plano de saúde por mais de 24 (vinte e quatro) meses, após o falecimento do titular.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Na espécie, por mais que insista a agravante, da análise cuidadosa das alegações do presente recurso, não se observa a presença dos requisitos legais para a concessão da medida liminar pleiteada.
+É que, por ora, a decisão guerreada, que manteve a vigência do contrato de plano de saúde nos moldes pactuados pelo titular falecido, não possui a aptidão de causar dano imediato grave e irreparável, ou seja, não desafia qualquer medida urgente, máxime, pronunciamento jurisdicional liminar.
+Ademais, conforme se verifica do teor da decisão recorrida, a manutenção do plano de saúde em favor da agravada, decorre da Lei no 9.656/98, no art. 30, § 3o, que dispõe que o consumidor tem o direito de manter a sua condição de segurado de plano de saúde, mesmo após o desligamento do titular, desde que assuma o pagamento integral das contribuições.
+Assim, não há por onde atender a súplica da recorrente, pois não atendidos a contento, ao menos um dos pressupostos da tutela jurisdicional pretendida, razão pela qual deve ser indeferida a liminar recursal.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta.
+Cumpra-se.
