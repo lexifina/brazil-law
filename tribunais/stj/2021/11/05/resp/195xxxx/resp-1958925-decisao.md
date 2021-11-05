@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADHEMAR SANCHES, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+" CADERNETA DE POUPANÇA EXECUÇÃO INDIVIDUAL Prazo quinquenal para o ajuizamento da execução Aplicação da Súmula nº 150 do Supremo Tribunal Federal e do informativo nº 0484 do Superior Tribunal de Justiça Existência de cautelar de protesto interruptivo do lapso prescricional Contagem do prazo que deve recomeçar a partir da data do ajuizamento da cautelar, excluindo-se o dia do começo e incluindo-se o do vencimento Inteligência dos artigos 132 do Código Civil e 224 do Novo Estatuto Adjetivo Civil Ação proposta apenas aos 30 de setembro de 2019, após o exaurimento do prazo prescricional, ocorrido aos 27 de setembro de 2019 Prescrição consumada Pré- questionamento Recurso improvido" (e-STJ, fl. 323)
+Em suas razões recursais, o recorrente aponta violação aos art. 202, parágrafo único do Código Civil de 2002 e divergência jurisprudencial, sustentando, em síntese que não há que se falar em prescrição no presente caso, considerando que ocorreu interrupção da prescrição por ajuizamento de ação e o reinício da contagem deve ocorrer após o último ato processual da medida cautelar.
+Foram apresentadas contrarrazões às fls. 330/348.
+É o relatório. Passo a decidir.
+No tocante à suposta violação ao art. 202, parágrafo único do CC/02 e divergência jurisprudencial, a Corte de origem concluiu que restou configurada a prescrição mesmo diante da interrupção do prazo, considerando o reinício da contagem a partir da data do ajuizamento da cautelar, in verbis:
+"A despeito de a r. sentença proferida na demanda coletiva ter transitado em julgado aos 27 de outubro de 2009, o prazo prescricional restou interrompido aos 26 de setembro de 2014, através do ajuizamento da ação cautelar de protesto nº 2014.01.1.148561-3, pelo Ministério Público do Distrito Federal e Territórios.
+Com efeito, após a propositura da ação de protesto interruptivo, o termo inicial da recontagem do prazo prescricional é a data do ajuizamento da própria cautelar, excluindo-se do cômputo a data do início do prazo e incluindo-se o dia do seu vencimento, nos precisos termos do artigo 132 do Código Civil e do artigo 224 do Novo Estatuto Adjetivo Civil.
+(..)
+Dessa forma, o prazo quinquenal para a execução da r. sentença prolatada na Ação Civil Pública nº 1998.01.1.016798-9 exauriu-se aos 27 de setembro do ano de 2019, motivo pelo qual a presente demanda encontra-se prescrita, eis que foi ajuizada tão somente aos 30 de setembro de 2019."(e-STJ, fls. 325/326)
+A decisão está em confronto com a jurisprudência desta Corte Superior que entende o marco inicial para reinício do prazo prescricional é a data do último ato processual.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.MEDIDA CAUTELAR DE PROTESTO. INTERRUPÇÃO DA PRESCRIÇÃO. REINÍCIO DO PRAZO PRESCRICIONAL DO ÚLTIMO ATO PROCESSUAL. RECURSO DESPROVIDO.
+1. "A jurisprudência desta Corte Superior possui entendimento de que quando a interrupção de prescrição se der em virtude de demanda judicial, o novo prazo só correrá da data do último ato do processo" (AgInt no AREsp 1.010.473/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 06/04/2017, DJe de 18/04/2017).
+2. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 854.960/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DUPLICATAS. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE E CONDENATÓRIA.PROTESTO NÃO OCORRIDO. LIMINAR OBTIDA NA CAUTELAR DE SUSTAÇÃO DE PROTESTO. PRESCRIÇÃO DOS TÍTULOS NÃO OCORRIDA. SUBSISTÊNCIA DE FUNDAMENTO NÃO ATACADO E DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO.SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal consignou que o protesto do título de crédito foi obstado, em razão da liminar obtida na cautelar de sustação de protesto. Rever este fundamento do acórdão recorrido demandaria alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+2. A jurisprudência desta Corte Superior possui entendimento de que quando a interrupção de prescrição se der em virtude de demanda judicial, o novo prazo só correrá da data do último ato do processo.
+Precedentes.
+3. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1010473/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/04/2017, DJe 18/04/2017)
+Considerando a divergência constatada e a necessidade de reexame dos autos no tocante à data do último ato do processo a fim de verificar a prescrição, o Tribunal de origem deve reexaminar o presente feito.
+Diante do exposto, dou provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que julgue a lide à luz da jurisprudência desta Corte.
+Publique-se.
