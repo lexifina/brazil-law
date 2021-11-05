@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por VALTER RIBEIRO DE ARAÚJO ADVOGADOS ASSOCIADOS S/S em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+"EMENTA - AGRAVO INTERNO - DECISÃO QUE NÃO CONHECEU DO RECURSO - INDEFERIMENTO DA JUSTIÇA GRATUITA AO PROCURADOR - DESERÇÃO - AUSÊNCIA DE PREPARO - INTIMAÇÃO PARA EFETUAR O RECOLHIMENTO - NÃO ATENDIMENTO - RECURSO CONHECIDO E DESPROVIDO." (fl. 1055)
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 98 e 99, § 2º, do Código de Processo Civil de 2015, sustentando, em síntese, a impossibilidade de serem indeferidos os "benefícios da justiça gratuita ao Recorrente, ainda que tenha esse declarado sua hipossuficiência, bem como comprovado sua receita ínfima para uma empresa e, portanto, sua impossibilidade de arcar com as custas e despesas processuais." (fl. 1063).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 98 e 99, § 2º, do Código de Processo Civil de 2015, sustentando, em síntese, a impossibilidade de serem indeferidos os "benefícios da justiça gratuita ao Recorrente, ainda que tenha esse declarado sua hipossuficiência, bem como comprovado sua receita ínfima para uma empresa e, portanto, sua impossibilidade de arcar com as custas e despesas processuais." (fl. 1063).
+Apresentadas contrarrazões ao apelo nobre (fls. 1072-1077).
+É o relatório.
+O eg. Tribunal de origem consigna que a sociedade de advogados, ora recorrente, não comprovou sua alegada hipossuficiência e, além disso, verifica-se que esta possui uma intensa gama de créditos judiciais; de modo que não há como lhe ser deferido o benefício de assistência judiciária gratuita.
+A propósito, o seguinte trecho do acórdão recorrido:
+"No presente caso, pleiteia o agravante a concessão da justiça gratuita, todavia sem comprovar a dificuldade alegada.
+Em que pese o apelante ter juntado aos autos o comprovante de inscrição e de situação cadastral, deixou de colacionar documentação imprescindível referente à sua renda, para análise do direito pleiteado.
+Conforme já salientado, à luz das particularidades fáticas do litígio, a sociedade de advogados recorrente detém intensa gama de créditos judiciais o que se comprova com uma simples consulta qual site público deste tribunal de justiça, não podendo assim, ser enquadrada como hipossuficiente no caso concreto." (fl. 1057, g.n.)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido no que tange a impossibilidade de ser conferido à recorrente o benefício de assistência judiciária gratuita, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida em 10% sobre o valor da sucumbência fixada pelo Tribunal de origem, totalizando o valor de R$ 3.300,00 (três mil e trezentos reais).
+Publique-se.
