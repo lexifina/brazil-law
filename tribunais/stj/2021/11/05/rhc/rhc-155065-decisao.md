@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por DERLANDY DE SOUSA MEDEIROS e RENATO DA SILVA GERMANO, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos que os recorrentes forampresos em flagrante e, posteriormente, tiveramsuas prisões convertidaem preventiva pela prática, em tese, do delito previsto no art. 157, § 2º, inciso II, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou a ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS - ROUBO MAJORADO - REVOGAÇÃO DAS PRISÕES PREVENTIVAS - IMPOSSIBILIDADE - MEDIDAS CAUTELARES DIVERSAS - INADEQUAÇÃO. 1. Diante da presença dos pressupostos previstos no art. 312 do CPP e do requisito disposto no art. 313, I, do CPP, a manutenção das segregações cautelares é medida que se impõe. 2. Indícios de que os pacientes, em concurso de agentes e mediante grave ameaça exercida com o emprego de réplica de arma de fogo, subtraíram valores e leitores de cédulas, constantes em máquinas caça-níquel, pertencentes a estabelecimento comercial. 3. Informações de que confessaram informalmente a prática do delito aos policiais, indicando, inclusive, onde estavam localizados objetos subtraídos e o endereço do proprietário do veículo utilizado na empreitada criminosa. 4. Notícias de que fazem parte de grupo criminoso que efetua roubos em casas de jogos de azar, sendo que o segundo paciente seria responsável por anunciar o assalto e conduzir o veículo na fuga, e o primeiro paciente pela arrecadaçã o dos materiais e contenção das vítimas. 5. Não comprovaram residência fixa nem ocupação lícita. 6. Acautelamentos que se fazem necessários, notadamente, para garantir a ordem pública e para interromper a atuação de suposto grupo criminoso. 7. Ordem denegada" (fl. 346).
+Daí o presente recurso ordinário, no qual alegam os recorrentes que estariam sofrendo constrangimento ilegal em razão da ausência de fundamentação idônea da decisão que determinou suas segregaçõescautelares.
+Pondera, neste sentido, que a prisão cautelar foi decretada pela gravidade em abstrato da conduta supostamente praticada.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa, prevista no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 380-381.
+As informações foram prestadas às fls. 384-405.
+O Ministério Público Federal, às fls. 409-414, manifestou-se pelo desprovimento do recurso, em parecer assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. ART. 157, § 2º, INCISO II, DO CÓDIGO PENAL. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. CARÊNCIA DE FUNDAMENTAÇÃO.CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- A prisão preventiva é medida cautelar de constrição da liberdade do indivíduo por razões de necessidade e adequação, com esteio na existência do fumus comissi delicti e do periculum libertatis, respeitados os requisitos e os pressupostos estabelecidos nos arts. 312 e 313 do Código de Processo Penal.
+- No caso, a decisão que converteu a prisão em flagrante dos recorrentes em preventiva e o acórdão que a manteve restaram devidamente fundamentados e contextualizados em dados concretos e individuais a ensejar a necessária segregação cautelar, baseada na materialidade delitiva, nos indícios de autoria, na gravidade do crime praticado e no modus operandi empregado (concurso de agentes e uso de simulacro de arma de fogo).
+- Parecer pelo não provimento do recurso ordinário em habeas corpus" (fls. 409).
+É o relatório.
+Decido.
+Pretende o recorrente, em síntese, por meio do presente recurso ordinário, o reconhecimento da ausência de fundamentação da r. decisão de primeira instância que decretou sua prisão preventiva.
+O presente recurso trata-se de reiteração de pedido, uma vez que a controvérsia ora suscitada já foi objeto de apreciação, por ocasião do julgamento do HC n. 697.016/MG, em 18/10/2021, oportunidade em que o habeas corpus não foi conhecido, em virtude de tratar-se de substitutivo de recurso ordinário, tendo o mérito sido analisado de ofício, sendo que não foi reconhecida a presença de flagrante ilegalidade.
+O art. 210 do RISTJ dispõe que: "Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Sob tal contexto, torna-se inviável o conhecimento do presente recurso em habeas corpus no qual se reitera o pleito já analisado em outro processo.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME TRIBUTÁRIO. CAUSA DE AUMENTO PREVISTA NO ART. 12, I, DA LEI N. 8.137/90. MERA REITERAÇÃO DE PEDIDO CONTIDO EM AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE.RECURSO JÁ JULGADO. INSTRUÇÃO DEFICIENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO.
+1. É inadmissível a análise de impetração cujo objeto é idêntico ao contido em Agravo em Recurso Especial, que, inclusive, já foi julgado, tendo em vista a impossibilidade de reiteração de pedidos nesta Corte Superior.
+2. Considerando a celeridade do rito do habeas corpus, toda a prova do direito alegado deve estar pré-constituída e disponível no momento e nos autos da impetração, sob pena de não conhecimento do mandamus.
+Agravo regimental desprovido" (AgRg no HC 381.729/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 06/06/2017).
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+P. e I.
