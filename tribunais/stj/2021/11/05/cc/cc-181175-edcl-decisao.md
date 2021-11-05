@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o JUÍZO FEDERAL DA 8ª VARA DE CUIABÁ - SJ/MT, tendo como suscitado o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE VARZEA GRANDE - MT.
+Na origem, JOSÉ DE AGUIAR PORTELA E OUTROSajuizaramação ordinária de responsabilidade obrigacional contra SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS, BRADESCO SEGUROS S/A, CAIXA SEGURADORA S/A, ITAÚ S/A E TOKIO MARINE BRASIL SEGURADORA S/A(fls. 21/49e-STJ).
+A parte autora - ora interessada - esclarece que, quando realizada a compra dos imóveis, aderiram à Apólice Habitacional com cobertura de danos físicos no imóvel. Afirma, ainda, que os imóveis foram adquiridos mediante programas de financiamento do Sistema Financeiro da Habitação. Alega que os imóveis, com o passar do tempo, apresentaram inúmeros problemas decorrentes de projeto e de acompanhamento. Esses vícios de construção estariam cobertos pela apólice do seguro habitacional.
+Em virtude da manifestação da CAIXA ECONÔMICA FEDERAL no sentido de ter interesse na causa, o referido Juízo declinou da competência para a a Justiça Federal.
+Os autos foram recebidos no JUÍZO FEDERAL DA 8ª VARA DE CUIABÁ - SJ/MT, que acabou suscitando o presente conflito através da decisão a seguir transcrita:
+"No que tange ao interesse jurídico da CEF em figurar no polo passivo da ação de cumprimento de contrato, relativo a imóvel financiado pelo regime do SFH, sob o pálio ou não do FCVS - Fundo de Compensação deVariações Salariais, há decisão consolidada pela Segunda Seção do E. Superior Tribunal de Justiça, no julgamento dos EDcl nos EDcl no REsp 1.091.363-SC, no sentido de que, para que tal ocorra, deve-se comprovar documentalmente, não apenas a existência de apólice pública, mas também do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade de Apólice - FESA.
+(..)
+Consoante referido julgado, para a configuração do interesse da Caixa Econômica Federal como parte no processo, é necessário que o contrato tenha sido celebrado entre 02.12.1988 e 29.12.2009; que o instrumento esteja vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66), bem como a demonstração cabal do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA.
+No caso em análise, o autor JOSE DE AGUIAR PORTELA e IVANI PEREIRA DE SOUZA PORTELA comprovaram por meio do documento de ID 572850883 - Pág. 43/51 a informação de que o contrato foi firmado em 30/09/1986,ou seja, fora do período adrede mencionado, o que evidencia, prima facie, a não configuração do interesse da CEF em intervenção, e tampouco a manutenção dos autos na Justiça Federal" (fls. 8 e 13 e-STJ).
+À fl. 1.753/1.754 essa relatoria proferiu decisão não conhecendo doconflito com base nas Súmulas nº 150, 224 e 254/STJ, contra a qual foram opostos os presentes embargos de declaração, sob a alegação de que o processo envolve Apólice Pública, do ramo 66, garantida pelo FCVS, hipótese em que a Caixa Econômica Federal é responsável pela cobertura dos sinistros.
+É o relatório.
+DECIDO.
+Em melhor exame dos autos, verifica-se quea pretensão deduzida em juízo envolve créditos decorrentes de contratos firmados mediante utilização de recursos advindos de fundos públicos.
+Nesses casos,entende-se que é da Primeira Seção a competência para julgamento do presente conflito de competência, a exemplo do que se decidiu em relação aos contratos de financiamento habitacional com garantia de quitação do saldo devedor com recursos do Fundo de Compensação de Variações Salariais - FCVS.
+Confira-se:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO FEDERAL E JUÍZO ESTADUAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. MUTUÁRIOS DO SISTEMA FINANCEIRO DA HABITAÇÃO. PEDIDO DE INGRESSO DA CAIXA ECONÔMICA FEDERAL. ALEGAÇÃO DE COMPROMETIMENTO DO FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS - FCVS. COMPETÊNCIA INTERNA. PRIMEIRA SEÇÃO. COMPETÊNCIA NA ORIGEM. JUÍZO FEDERAL. SÚMULA 150/STJ.
+(..)
+2. A Corte Especial já decidiu que a competência interna para hipóteses de definição do juízo competente relativo à pretensão que envolve comprometimento do FCVS é da Primeira Seção. Nesse sentido: CC 121.499/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe 10.5.2012; CC 36.647/SP, Rel. Ministro Felix Fischer, Corte Especial, DJ 22.3.2004, p. 186; CC 132.728/SP, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19.12.2014.
+(..)
+8. Agravo Regimental não provido."
+(AgRg no CC 136.692/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 11/3/2015, DJe 4/8/2015)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. APLICAÇÃO DO ART. 21-E, V, C/C O ART. 253, PARÁGRAFO ÚNICO, I, DO RISTJ. DECISÃO AGRAVADA MANTIDA.
+1. Trata-se de Agravo Interno contra decisão proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo interposto ante a ausência de impugnação específica a todos os fundamentos da decisão que inadmitiu o Recurso Especial.
+2. Preliminarmente, com relação à petição de fls. 195-200, e-STJ, na qual busca o segurado a resdistribuição do feito sustentando que a Corte Especial, no Conflito de Competência 101.764/SC, já decidiu que a competência para julgar as ações de Seguro Habitacional - SFH é das /.Turmas que compõem a Segunda Seção. Insta consignar que, "segundo reiterado entendimento do STJ, a competência para julgar controvérsia surgida de determinado mútuo habitacional, firma-se pela presença ou não de discussão em torno da cláusula de cobertura do FCVS, sendo que, havendo a sua estipulação, caberá a uma das Turmas da Primeira Seção, enquanto que, o contrário, é a Segunda Seção a competente para julgar a lide" (CC 121.499/DF, Rel. Min.Maria Thereza de Assis Moura, Corte Especial, DJe 10.5.2012).
+3. Nessa linha de entendimento, deve-se reconhecer que a competência para o exame da presente controvérsia está inserida nas atribuições das colendas Turmas de Direito Público desta Corte, na forma do art.9º, § 1º, inciso XIV, do RISTJ.(..)
+9. Agravo Interno não provido".
+(AgInt no AREsp 1.705.375/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/10/2020, DJe 12/11/2020 - grifou-se)
+Há inclusive julgado da Corte Especial nesse sentido:
+"CONFLITO INTERNO DE COMPETÊNCIA. MÚTUO HABITACIONAL. DISCUSSÃO QUE NÃO ENVOLVE A COBERTURA DO FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS - FCVS. PRECEDENTES DESTA CORTE. COMPETÊNCIA DAS TURMAS DA SEGUNDA SEÇÃO.
+Segundo reiterado entendimento desta Corte, a competência para julgar controvérsia surgida de determinado mútuo habitacional, firma-se pela presença ou não de discussão em torno da cláusula de cobertura do FCVS, sendo que, havendo a sua estipulação, caberá a uma das Turmas da Primeira Seção, enquanto que, o contrário, é a Segunda Seção a competente para julgar a lide.
+No caso, inexistindo debate em torno da garantia do Fundo de Compensação de Variações Salariais, é competente a Segunda Seção, por uma de suas Turmas.
+Conflito conhecido para declarar a competência da Segunda Seção".
+(CC 121.499/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 23/4/2012, DJe 10/5/2012)
+Ante o exposto, anulo a decisão de fls. 1.753/1.754 (e-STJ), julgo prejudicados os embargos de declaração de fls. 1.761/01.813 (e-STJ) edetermino a redistribuição do feito a um dos ministros integrantes da Primeira Seção.
+Publique-se.
+Intimem-se.
