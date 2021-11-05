@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto por Município de Mulungu, com fundamento no art. 105, III, a, da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba.
+O recurso tem origem em embargos (fls. 2-6) opostos pelo Município de Mulungu à execução de sentença do honorários advocatícios fixados na ação em que a municipalidade foi condenada a verbas salariais a sua servidora.
+Valor da execução: R$600,00 (seiscentos reais) em julho de 2011 (fl. 15).
+Valor dos embargos: R$200,00 (duzentos reais) em maio de 2012, fl. 6.
+A sentença fls. 22-25 julgou improcedentes os embargos, sob o fundamento de que os honorários são autônomos e podem ser executados separados do crédito principal, bem como por reconhecer o trânsito em julgado da sentença nos autos principais, portanto, exigível o crédito. Condenou o embargante em honorários de 20% do valor da execução.
+O Município apelou pretendendo fosse reconhecida a inexigibilidade do título executivo por inobservância à Súmula Vinculante n. 16 do STF.
+O Tribunal a quo negou provimento ao recurso, em acórdão assim ementado (fl. 72):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. FAZENDA PÚ- BLICA MUNICIPAL. ALEGAÇÃO DE INEXIGIBILIDADE DO TÍ- TULO POR DESRESPEITO À SÚMULA VINCULANTE Nº 16 DO STF. ENUNCIADO OBSERVADO NA DECISÃO EXEQUENDA. COI- SA JULGADA MATERIAL. MANUTENÇÃO DA SENTENÇA. DES- PROVIMENTO DO APELO.
+- Verificado que a decisão exequenda analisou a incidência da Súmula Vinculante nº16 do STF e não se vislumbrando nenhuma das hipóteses previstas no art. 741 do CPC, que pudesse ensejar a declaração de inexigibilidade do titulo, tal reconhecimento, com rediscussão da matéria, ofende a coisa julgada.
+- "APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. Alegação de inexigibilidade do título executivo. Inocorrência de cerceamento de defesa. Título certo, líquido e exigível. Matéria já apreciada em exceção de pré-executividade. Impossibilidade de novo conhecimento.
+Preclusão. Precedentes do STJ. Seguimento negado ao recurso. Não havendo necessidade de instrução probatória para o deslinde do feito, não há que se falar em cerceamento de defesa. Considerando que já houve pronunciamento judicial acerca da legitimidade do título, que se apresenta líquido, certo e exigível, inadmissível a reapreciação da matéria, ante a ocorrência da preclusão." (TJPB; APL 001965832.2013.815.0011; Rel. Des. Oswaldo Trigueiro do Valle Filho; DJPB 21/08/2014; Pág. 22)
+Nas razões do recurso especial, o Município de Mulungu alega ofensa aos arts. 85, §§ 1º, 2º, 3º e 4º, do CPC/2015, 100, § 4º, da CF/1988 e a Súmula vinculante n. 47 do STF. Sustenta que não é possível haver a cisão do valor principal, para pagamento dos honorários advocatícios, uma vez que não houve condenação a esse título, quer seja sucumbenciais ou contratuais.
+Foram apresentadas contrarrazões ao recurso especial (fls. 99-103) pelo não provimento do recurso.
+É o relatório. Decido.
+O cerne da fundamentação do acórdão recorrido foi lançada nestes termos (fls. 73-74).
+Ora, apreciando os autos originários de nº 0000464-78.2007.815.0521, em apenso, verifica-se que a decisão terminativa de fls. 94/97 reconheceu o direito da servidora municipal ao recebimento das verbas pleiteadas na exordial, quais sejam, serviços prestados nos anos de 2001 a 2003.
+Portanto, diante do processado, não há como acolher a tese trazida pelo embargante de inexigibilidade do título por alegada contrariedade ao posicionamento pacífico do Supremo Tribunal Federal, porque tais questões já foram examinadas quando da formação do título executivo.
+Assim sendo, não se deve reabrir a discussão novamente trazida nos embargos oferecidos pelo devedor, senão com evidente ofensa à coisa julgada. (..)
+Por conseguinte, é exigível o título exequendo, não se vislumbrando nenhuma das hipóteses previstas no art. 917 do CPC que pudesse ensejar a declaração de sua inexigibilidade, pelo que deve prosseguir a execução, nos termos em que postulada.
+Por fim, pugna o recorrente pela correção dos cálculos elaborados pela recorrida, para excluir as verbas ilegais. Entretanto, a alegação de excesso de execução requer impugnação específica, de modo a apontar-se o excedente, sendo insuficientes meras alegações genéricas, como no caso em comento.
+Quanto à violação ao art. 85, §§ 1º, 2º, 3º e 4º, do CPC/2015, tem-se que o acórdão recorrido não debateu o seu conteúdo, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso no ponto do indispensável requisito do prequestionamento. Incidência do enunciado sumular n. 282 do STF.
+Em relação à indicada violação do artigo 100, § 4º, da CF/1988 e da Súmula vinculante n. 47/STF, verifica-se a impossibilidade deste STJ examinar a suposta violação, sob pena de se analisar matéria cuja competência está afeta à Suprema Corte, por força do artigo 102 da Constituição Federal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
