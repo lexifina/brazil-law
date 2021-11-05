@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido de extensão requerido por THIAGO ALBERGATI FERREIRA no qual se pleiteia a extensão dos efeitos da decisão de fls. 125-128, em que dei provimento ao recurso ordinário em habeas corpus para substituir a prisão preventiva do corréu FERNANDO PONTES DE ALMEIDA por medidas cautelares diversas da prisão.
+O Requerente argumenta que, " e  m sede do presente recurso ordinário perante este E.STJ, a iminente Relatora Ministra Laurita Vaz deu provimento para substituir a prisão preventiva em medidas cautelares descritas às fls. 128, do qual se requer seja concedido os mesmos benefícios por extensão ao corréu Thiago Albergati Ferreira por se tratar de medida de aplicação da mais lídima Justiça" (fl. 136).
+É o relatório. Decido.
+Verifico que não há identidade fático-processual entre as Partes, notadamente porque, ao substituir a prisão preventiva do corréu FERNANDO PONTES DE ALMEIDA por medidas cautelas diversas da prisão, ressaltei que, apesar da fundamentação concreta da necessidade da prisão preventiva em razão da reiteração delitiva, as condenações mencionadas no decreto prisional dizem respeito à prática do delito previsto no art. 28 da Lei n. 11.343/2006, cuja sentença foi proferida em 2015 e, quanto ao crime de roubo majorado, a sentença foi proferida em 01/07/2009, ou seja, há mais de 12 (doze) anos, o que não justifica, por si só, a manutenção da prisão cautelar.
+O ora Requerente, no entanto, foi condenado pelo delito de receptação, em 22/08/2019, bem como possui duas condenações pelo crime de roubo majorado, cujas sentenças foram proferidas nas datas de 22/05/2012 e 19/01/2015, o que impede a extensão dos efeitos da decisão proferida às fls. 125-128.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE ENTORPECENTES. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA DECRETADA NA SENTENÇA. FUNDAMENTAÇÃO. LÍDER DE ORGANIZAÇÃO QUE MOVIMENTA EXPRESSIVA QUANTIDADE DE DROGAS. PERICULOSIDADE DO AGENTE. MULTIRREINCIDENTE. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. EXTENSÃO DE ORDEM CONCEDIDA AO CORRÉU. IMPOSSIBILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+4. In casu, não se verifica hipótese de aplicação de extensão, nos termos do art. 580 do CPP, por ausência de similitude fática, restando afastada a ocorrência de constrangimento ilegal por afronta ao princípio da isonomia. Paciente apontado como líder da organização criminosa enquanto o corréu seria apenas funcionário de "segundo escalão".
+ ..
+7. Habeas corpus não conhecido." (HC 511.823/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/12/2019, DJe 19/12/2019; sem grifos no original.)
+Como se sabe, não se encontrando as Partes na mesma situação fático-processual, não cabe, a teor do Princípio da Isonomia e do art. 580 do Código de Processo Penal, deferir pedido de extensão de julgado benéfico obtido por um deles.
+Ante o exposto, INDEFIRO o pedido de extensão.
+Publique-se. Intimem-se.
+EMENTA
+PEDIDO DE EXTENSÃO. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA DO CORRÉU FERNANDO PONTES DE ALMEIDA POR MEDIDAS CAUTELARES DIVERSAS. EXTENSÃO DOS EFEITOS DO JULGADO. APLICAÇÃO DO ART. 580 DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA. PEDIDO DE EXTENSÃO INDEFERIDO.
