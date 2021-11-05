@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto por META INCORPORACOES LTDA, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado da Paraíba, assim ementado:
+"PROCESSUAL CIVIL - Apelação Cível - Adjudicação compulsória - Apresentação de documentos - Reconhecimento do pedido pela ré - Procedência - Irresignação - Impugnação à justiça gratuita - Não comprovação de desatendimento aos pressupostos - Rejeição - Mérito - Ônus da sucumbência - Princípio da causalidade - Sentença bem proferida - Manutenção - Desprovimento.
+- Incumbe à impugnante a demonstração da possibilidade de a parte impugnada custear as despesas judiciais, sob pena de ser mantida a concessão.
+- "O princípio da sucumbência deve ser compreendido sob a matriz do princípio da causalidade, de maneira que a condenação ao pagamento de custas, despesas processuais e honorários advocatícios deve " recair sobre aquele que deu origem à instauração da lide, ainda que haja o reconhecimento do pedido.
+(TJMG - Apelação Cível 1.0702.10.074397-1/001, Relator(a): Des.(a) Versiani Penna , 5ª CÂMARA CÍVEL, julgamento em 09/05/2013, publicação da súmula em 16/05/2013)" (e-STJ,fl. 185)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl.214/231)
+Em suas razões recursais, a recorrente aponta violação dos arts. 85, caput e §11 e art. 1.022, ambos do CPC, sustentando, em síntese, que: 1) houve omissão do acórdão recorrido quanto à ausência de pretensão resistida, princípios da causalidade e sucumbência, concessão do benefício da gratuidade judiciária e majoração dos honorários recursais; 2) não deu causa à ação, pois jamais criou oposição injustificada a pretensão da parte contrária, tendo exigido apenas um mínimo de prova documental para coadunar com a transferência da propriedade de um imóvel, razão pela qual não pode ser condenado ao pagamento de verbas de sucumbência e 3) não havendo trabalho adicional, não é devida a majoração coma imposição do pagamento de honorários recursais.
+Por fim, requer que sejam revogados os benefícios da gratuidade judiciária concedidos indevidamente à parte Recorrida, por não fazer jus a benesse, vez que não preenche o requisito da hipossuficiência financeira.
+Não foram apresentadas contrarrazões (e-STJ fl. 259)
+É o relatório. Passo a decidir.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, adotou fundamentação suficiente, decidindo integralmente todas as controvérsias apontadas no recurso de apelação, como se verá adiante.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Quanto à alegação da recorrente de que não deu causa à ação, pois jamais criou oposição injustificada a pretensão da parte contrária, tendo exigido apenas um mínimo de prova documental para coadunar com a transferência da propriedade de um imóvel, razão pela qual não pode ser condenado ao pagamento de verbas de sucumbência, a Corte de origem consignou:
+"Quanto ao mérito, sabe-se que o sistema a reger a condenação ao pagamento dos ônus sucumbenciais, em nosso ordenamento jurídico, fundamenta-se no princípio da causalidade.
+(..)
+Destarte, compreendido o princípio da sucumbência sob a matriz do princípio da causalidade, impõe-se a manutenção da condenação de custas e honorários advocatícios à parte promovida, ora apelante, já que deu origem à instauração da lide.
+(..)
+Ademais, após a apresentação de documentos pela parte autora, através de petição datada de 19 de setembro de 2017 (id. 5064096 - Pág. 78), a parte promovida foi intimada para se manifestar sobre eles, oportunidade em que poderia apresentar de logo a autorização para escrituração do imóvel em nome da autora.
+Todavia, esta realizou questionamentos diversos em sua peça, reconhecendo, entretanto, o direito da promovente, sem que apresentasse a autorização pretendida.
+O fato ensejou a prolatação da sentença sem o reconhecimento da pretensão de forma voluntária, cabendo, também por este motivo, a imposição do ônus sucumbencial." (e-STJ, fls.188/189)
+Como visto, a Corte de origem consignou expressamente que mesmo após a apresentação da documentação exigida, a recorrente continuou se insurgindo contra a pretensão da autora, razão pela qual deve arcar com o ônus da sucumbência.
+Tal entendimento encontra-se de acordo com a jurisprudência desta Corte Superior:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA SUCUMBÊNCIA. PRETENSÃO RESISTIDA. CONTESTAÇÃO APRESENTADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. A apresentação de contestação evidencia resistência à pretensão da parte autora, fazendo incidir o princípio da sucumbência, caracterizando-se como parte demandada não só aquele que deu causa à instauração do processo, mas, também, quem resistiu indevidamente a uma pretensão. (AgRg no REsp 1180894/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 25/2/2013).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1857443/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/03/2021, DJe 04/03/2021)
+Ademais, conforme precedente acima citado, a modificação de tal entendimento lançado no v. acórdão recorrido quanto à existência de pretensão resistida demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+No que toca à alegação de que não havendo trabalho adicional, não é devida a majoração coma imposição do pagamento de honorários recursais, constou no acórdão recorrido:
+"No pertinente à majoração dos honorários advocatícios, mostra-se adequada a modificação, mesmo sem a apresentação de resposta da parte.
+Sobre o assunto, inclusive, assim manifesta a jurisprudência do Supremo Tribunal Federal:
+"É cabível a fixação de honorários recursais, prevista no art. 85, § 11, do novo Código de Processo Civil, mesmo quando não apresentadas contrarrazões ou contraminuta pelo advogado ("Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor. (..) § 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento")." (STF - AI 864689 AgR/MS e ARE 951257 AgR/RJ - Rel. orig. Min. Marco Aurélio - Rel. p/ acórdão Min. Edson Fachin, DJ de 27.09.2016)" (e-STJ fl. 219/220)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. ARRENDAMENTO RURAL CUMULADO COM AÇÃO DE COBRANÇA. FALTA DE PREQUESTIONAMENTO. CERCEAMENTO DE DEFESA. PROVA PERICIAL E TESTEMUNHAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PEDIDO DE AFASTAMENTO DOS HONORÁRIOS RECURSAIS. INVIABILIDADE. DECISÃO MANTIDA.
+1. A simples indicação do dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.
+7/STJ).
+3. No caso concreto, a reforma do acórdão recorrido, que entendeu pela desnecessidade da realização de prova pericial e testemunhal, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+4 De acordo com a jurisprudência da Corte Especial do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.  ..  É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba" (AgInt nos EAREsp n. 762.075/MT, Relator para o acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019), sendo essa a situação evidenciada nos autos.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1111767/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020) (grifei)
+Por fim, a parte recorrente requer que sejam revogados os benefícios da gratuidade judiciária concedidos indevidamente à parte Recorrida, por não fazer jus a benesse, vez que não preenche o requisito da hipossuficiência financeira.
+Sobre o tema a Corte de origem assim consignou:
+"No caso dos autos, a empresa apelante limitou-se a alegar a inveracidade da hipossuficiência financeira deduzida pela apelante, ou seja, não demostrou, por meio de elementos idôneos, que ela desatende aos pressupostos da benesse em comento." (e-STJ fl. 192)
+E acrescentou ao julgar os embargos de declaração:
+"Ocorre que restou assentado, referente ao primeiro vício, que a empresa apelante limitou-se a alegar a inveracidade da hipossuficiência financeira deduzida pela apelante, sem demostrar, por meio de elementos idôneos, que ela desatende aos pressupostos da benesse em comento.
+Ademais, a residência em bairro nobre não significa suficiência financeira para arcar com o pagamento de custas, cabendo a demonstração de outros elementos para comprovação da circunstância." (e-STJ fl. 219)
+Também neste ponto, a modificação de tal entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL .AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM . DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. De acordo com a jurisprudência do STJ, é possível o indeferimento ou revogação do benefício da gratuidade de justiça quando provada a inexistência ou desaparecimento do estado de hipossuficiência.
+Aplicação da Súmula 83/STJ.
+1.1. A conclusão a que chegou o Tribunal de origem, relativa à inexistência de hipossuficiência econômica necessária à manutenção do benefício da gratuidade de justiça, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+2. Esta Corte de Justiça tem entendimento no sentido de que a incidência do referido óbice impede, igualmente, o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1635051/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020)
+Frise-se que as alegações relativas à remuneração da recorrida, que a recorrente alega terem sido obtidas através do Portal da Transparência, não se tratam de fato novo, mas nãoforam apresentadas perante a Corte de origem, restando ausente o necessário prequestionamento sobre o tema.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 12% para 13% sobre o valor da causa.
+Publique-se.
