@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto por DIOGO FRANCISCO BATISTA DE MELO contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no HC n. 5507211-51.2021.8.09.0011.
+Consta dos autos que o Recorrente foi preso em flagrante, em 14/07/2021, pela suposta prática dos crimes previstos nos arts. 33,caput, e 35, ambos da Lei n. 11.343/2006, em razão da apreensão de34,4kg de maconha. A prisão foi convertida em preventiva pelo Juízo de primeira instância, o qual, posteriormente, indeferiu pedido de revogação da custódia cautelar.
+Diante disso, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem.
+Nas razões recursais, a Defesa alega que não há fundamentação idônea para a decretação da prisão preventiva do Recorrente.
+Aduz que o Recorrente é primário, possui bons antecedentes, residência fixa, ocupação lícita e idoneidade moral e que se mostra possível a substituição da pena privativa de liberdade por penas restritivas de direitos.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória ao Recorrente, com imposição de medidas cautelares diversas da prisão, se for o caso.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL.HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS.REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME.OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART.112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido."(AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito do recurso.
+O Juízo de primeira instância indeferiu o pedido de revogação da prisão preventiva do Recorrente com a seguinte fundamentação (fl. 327; grifos diversos do original):
+"Oportuno salientar que não houve mudança da situação fática após a decretação da prisão preventiva, não consta dos autos fatos novos hábeis a rechaçar a necessidade da constrição cautelar do requerente, em respeito à garantia da ordem pública.
+Na hipótese, verifica-se a existência de demonstrativos suficientes do perigo gerado pelo estado de liberdade do requerente, que foi preso em flagrante e denunciado pela suposta prática de crime grave, consistente em tráfico de substâncias entorpecentes, tendo sido apreendida considerável porção de droga, qual seja, 34,4Kg de maconha, demonstrando a gravidade em concreto, justificando a manutenção da prisão, como garantia da ordem pública, nesse sentido é o entendimento jurisprudencial, vejam:
+ ..
+Assim, tais circunstâncias concretas indicam que as medidas cautelares do artigo 319, do Código de Processo Penal (diversas da prisão) são ineficazes e incompatíveis para a garantia da ordem pública (evitar continuidade delitiva).
+Destarte, a prisão cautelar nada tem de ilegal, uma vez que se revelaram presentes as condições de admissibilidade (prática de crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 anos) e os fundamentos legais (garantia da ordem pública)."
+Como se vê, a decretação da prisão preventiva do Recorrente não se mostra desarrazoada ou ilegal, pois o Juízo singular ressaltou agravidadeconcretada conduta, evidenciada pela considerável quantidadede drogaapreendida-34,4kg de maconha-, o que justifica a segregação cautelar como garantia da ordem pública.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRANDE QUANTIDADE DE DROGA APREENDIDA. REITERAÇÃO DELITIVA.
+1. Tem-se por devidamente fundamentada a prisão cautelar, diante da gravidade concreta dos fatos, evidenciada especialmente na grande quantidade de droga apreendida - aproximadamente 2.015,19g de maconha -, os quais, consoante a jurisprudência desta Corte, justificam a prisão preventiva para a garantia da ordem pública.
+2. "Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019).
+3. Agravo regimental improvido."(AgRg no HC 691.659/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 26/10/2021, DJe 28/10/2021)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA.GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS.IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. No mais, a validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+3. No caso, a prisão preventiva está justificada pois, segundo a decisão que a impôs, o paciente foi flagrado com elevada quantidade de substância entorpecente, mais de 9kg (nove quilos) de maconha.Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+ ..
+6. Agravo regimental desprovido."(AgRg no RHC 153.071/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/10/2021, DJe 28/10/2021.)
+Registro, outrossim, que a existência de condições pessoais favoráveis-tais como primariedade, bons antecedentes, ocupação lícita e residência fixa-não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema, como ocorre na hipótese em tela.
+Confira-se:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. CAUTELARES DIVERSAS. DESCABIMENTO. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DA INSTÂNCIA. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+ ..
+3. Nos termos do entendimento desta Corte, Condições pessoais favoráveis, tais como primariedade, bons antecedentes e residência fixa, não têm o condão de, por si sós, desconstituir a custódia processual, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema (RHC 127.499/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/08/2020).
+ ..
+6. Agravo regimental improvido."(AgRg no RHC 140.651/PB, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/02/2021, DJe 26/02/2021; sem grifos no original.)
+Ademais, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta do delito demonstra serem insuficientes para acautelar a ordem pública (HC 550.688/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 17/03/2020; e HC 558.099/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 05/03/2020).
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NA HIPÓTESE.RECURSO DESPROVIDO.
