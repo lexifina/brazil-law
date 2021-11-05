@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 223 E 278 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO CONHECIDO EM PARTE E, NESTA EXTENSÃO, NÃO PROVIDO
+Embargos de declaração rejeitados.
+A agravante alega que está presente o prequestionamento das violações aos arts. 223 e 278 do CPC, uma vez que alegou nos embargos de declaração na origem a preclusão ensejada pela falta de oposição de embargos de declaração da Fazenda Nacional perante o E. STF; alega que diante de tal fato, deveria a decisão agravada ou ter reconhecido o prequestionamento ou ter aplicado o art. 1.025 do CPC/2015, reconhecendo suprida a omissão da Corte a quo. Alega que houve superação tácita das preliminares quando o STF determinou a realização de juízo de adequação do acórdão recorrido ao entendimento do RE 574.706.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.VIOLAÇÃO DOS ARTS. 223 E 278 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ.PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. INEXISTÊNCIADE VIOLAÇÃO AO ART. 1.022 DO CPC/2015.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+2. Esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/04/2017).No caso, não houve ofensa ao artigo 1.022, tendo a Corte se manifestado sobre todos os pontos pertinentes à solução da controvérsia.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Quanto ao prequestionamento, não se ignora que o recorrente suscitou ofensa aos artigos 223 e 278 do CPC/2015 em sede de embargos de declaração.A agravante alega que, com o argumento da preclusão, pretendeu demonstrar que precluiu o direito da Fazenda Nacional ver reconhecida a intempestividade do recurso extraordinário da parte adversa, ao deixar de recorrer da decisão do STF que determinou o retorno dos autos à origem.
+Ocorre que a análise dos pressupostos de admissibilidade do recurso é prerrogativa do Tribunal e independe de alegação da parte. Desta forma, desnecessária qualquer referência aos dispositivos legais relativos à preclusão de atos das partes, suscitados nos embargos de declaração.
+Conforme já exposto na decisão de fls. 679-680:
+O embargante alega que a decisão está maculada, ao fundamento de que: (i) houve omissão "quanto ao fato de que se o TRF-5 não tratou sobre a preclusão, isso apenas comprova que, efetivamente, o acórdão proferido pela 3ª Turma foi omisso", bem como quanto à incidência do art. 1.025 do CPC/2015; (..)
+Quanto à primeira indigitada omissão, a decisão embargada assim se pronunciou:
+Quanto aos arts. 223 e 278 do CPC, estes dizem respeito à preclusão de atos processuais a cargo das partes, questão que não guarda pertinência com a matéria ventilada no decisum recorrido e nem tampouco foi prequestionada. Incidem à hipótese as Súmulas 284/STF e 211/STJ.
+Na forma da jurisprudência do STJ, "para a configuração do prequestionamento na forma do art. 1.025 do CPC/2015, é necessária não apenas a indicação de contrariedade ao art. 1.022 do mesmo código, mas também o conhecimento da respectiva tese e a configuração de um dos vícios descritos na norma" (STJ, AgInt nos EDcl no AREsp 1.507.172/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 02/09/2020). Não havendo pertinência dos arts. 223 e 278 do CPC com a matéria ventilada no decisum, obviamente não se veirifca configurada a omissão a atrair o prequestionamento na forma do art. 1.025.
+Portanto, os dispositivos legais apontados como malferidos não contém comando normativo capaz de sustentar a tese recursal deduzida e infirmar a validade dos fundamentos do acórdão recorrido.Assim, não há que se falar em omissão da Corte a quo, pois ela se pronunciou sobre todas as questões pertinentes e, via de consequência, tampouco há que se falar em aplicação do art. 1.025 do CPC para considerar prequestionados os artigos 223 e 278 do CPC/2015.
+Por fim, quanto à alegação de queo acórdão a quo foi omisso sobre a tese de superação tácita da intempestividade em razão da manifestação do STF, ela não procede, pois o Tribunal a quo foi explícito ao considerar que não detém competência para dizer o que o STF entende quanto à tempestividade do recurso. Veja-se (fl. 543):
+Ocorre que, compulsando os autos, tem-se que tanto o Recurso Especial quanto o Recurso Extraordinário manejados contra o acórdão proferido em sede de apelação foram inadmitidos em face da sua interposição extemporânea (id. 4050000.570107).
+Contra essa decisão, a parte interpôs dois agravos de instrumento: um para a admissão, conhecimento e provimento do recurso especial (id. 4050000.603685), e outro para a admissão, conhecimento e provimento do recurso extraordinário (id. 4050000.603695). O mérito das impugnações residia na tempestividade dos recursos excepcionais.
+Analisando a questão, o Superior Tribunal de Justiça reconheceu que "de qualquer ângulo que se analise a pretensão recursal, constata-se que o recurso especial é mesmo intempestivo" (e-STJ Fl.292). Por tal motivo, negou provimento ao Agravo. Em que pese a correção do despacho quanto à existência de precedente pela não inclusão do ICMS na base de cálculo para a incidência do PIS e da COFINS, o Supremo Tribunal Federal não se debruçou sobre a tempestividade do recurso.
+Não tendo esta Corte Regional competência para analisar o tema e sendo este prejudicial à eventual conformação do julgado, deixo de proceder à adequação até posterior apreciação pela Corte Suprema.
+É como voto.
+Assim sendo, não merece qualquer reparo a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
