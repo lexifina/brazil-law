@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região).
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 1.805):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.PERCENTUAIS DE 84,32%, 16,19% E 26,06%. TÍTULOS JUDICIAIS DA JUSTIÇA LABORAL. RELAÇÃO JURÍDICA ESTATUTÁRIA.COMPETÊNCIA DA JUSTIÇA COMUM. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. OFENSA AO ARTIGO 54 DA LEI 9.784/99. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. REEXAME. IMPOSSIBILIDADE.SÚMULA 7/STJ. OFENSA À COISA JULGADA. MALTRATO AO ARTIGO 313, V, "A", DO CPC/2015.. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULAS 283 E 284/STF. ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+Os agravantes, em suma, sustentam que: (a) houve de fatoviolação do art. 1.022 do CPC/2015., considerando a presença de omissão e contradição no acórdão recorrido; (b) inaplicável a Súmula 284 do STF, uma vez que "impugnou todos os fundamentos constantes no acórdão recorrido", além de que "houve a indicação de qual dispositivo legal teria sido violado" (fls. 1.814-1.815); (c) "não há que se falar em óbice da Súmula 7 do STJ para afastar o entendimento adotado pela origem de desnecessidade de produção de prova pericial" (fl. 1.820); (d) comprovação da divergência jurisprudencial; e (e) "há recente julgado de relatoria do Ministro Og Fernandes, no Recurso Especial nº 1.929.520/RN, que demonstra que o colendo STJ tem entendimento jurisprudencial pacífico no sentido de que a reestruturação de carreira é ato comissivo único e de efeitos permanentes" (fl. 1.821).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não comporta conhecimento.
+Nesse cenário, registra-se que a decisão vergastada encontra-se amparada nos seguintes fundamentos: (a) ausência de violação do artigo 1.022 do CPC/2015; (b) aplicabilidade da Súmula 284/STF, em razão da ausência de comando normativo do artigo 643 da CLT;(c) incidência da Súmula 211 STJ à tese de que teria havido a ofensa ao artigo 54, caput e § 1º, da Lei 9.784/99; (d) aplicabilidade da Súmula 7/STJ à necessidade de produção de prova pericial e a ofensa ao disposto no art. 370, do CPC/2015; (e)emprego das Súmulas 283 e 284/STF à apontada violação aos arts. 337, § 4º e 485, V, do CPC; (f) incidênciadas Súmulas 283/STF e 7/STJ à violação ao art. 313, V, "a", do CPC/2015; e (g) prejudicialidade do exame do dissídio jurisprudencial.
+Ocorre que osagravantes somente impugnaram, especificamente, os seguintes fundamentos: i) ausência de violação do artigo 1.022 do CPC/2015;ii)aplicabilidade da Súmula 284/STF; e iii) incidência da Súmula 7/STJ à necessidade de produção de prova pericial, razão pela qual impõe-se a incidência da Súmula 182/STJ, verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt nos EDcl no REsp 1.708.729/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 21/2/2019; AgInt no AREsp 1.354.331/PB, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 19/2/2019; AgInt no AREsp 739.429/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 12/2/2019; AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
