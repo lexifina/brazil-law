@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com amparo naalínea"a" do inciso III do art. 105 da CF/1988, contra acórdão doTribunal Regional Federal da 3ª Regiãoassim ementado (e-STJ, fl. 1.455):
+PROCESSUAL CIVIL - AGRAVO INTERNO - ARTIGO 1.021 DO CÓDIGO DE PROCESSO CIVIL DE 2015, SEM RAZÕES DIRIGIDAS CONTRA A DECISÃO UNIPESSOAL DO RELATOR, ONDE A EMBARGADA APENAS REITERA OS ARGUMENTOS DA APELAÇÃO AGRAVO LEGAL NÃO CONHECIDO, COM IMPOSIÇÃO DE MULTA.
+1. Agravo interno manifestamente inadmissível, uma vez que a agravante simplesmente reitera os argumentos da apelação sem impugnar especificamente os fundamentos da decisão recorrida, como exigem os artigos 1.021, § 1º e 932, III, ambos do CPC/20I5, vigentes ao tempo em que foi publicada a decisão ora recorrida (tempus regit actum).
+2. O ajuizamento, já sob a égide do CPC/2015, de recurso manifestamente inadmissível merece a censura do § 4ºdo seu artigo 1 .021, sendo cabível a multa de 1% do valor da causa a ser corrigido na forma da Res. 267/CJF.
+Em suas razões, a recorrente aponta violação do art. 1.021, § 4º, do Código de Processo Civil de 2015, sustentando, em síntese, quea aplicação de multa por oposição de agravo interno foi indevida, uma vez que se discute a incorreção da decisão monocrática proferida.
+Contrarrazões apresentadas àse-STJ, fls. 1.473-1.467.
+Admitido o recurso especial na origem (e-STJ, fls. 1.583-1.584), subiram os autos a esta Corte.
+É o relatório.
+No tocante à tese deofensa ao art. 1.021, § 4º, do CPC/2015, tem-se que a multa foi aplicada pelo Tribunala quoem razão da suposta reiteração das razões do recurso de apelação.
+No ponto (e-STJ, fl. 1.453):
+Entendo ser o agravo interno manifestamente inadmissível, uma vez que a agravante simplesmente reitera os argumentos da apelação sem impugnar especificamente os fundamentos da decisão recorrida, como exigem os artigos 1.021, § 1º e 932, III, ambos do CPC/2015.
+Com efeito, se o recurso interposto não se relaciona com a decisão recorrida pois apenas reitera as razões da apelação sem questionar porque o apelo não poderia ser julgado monocraticamente, citando, de forma genérica, o texto legal (artigo 557 do CPC/1973) que permite ao relator proceder dessa forma, não vejo como ser conhecido o presente agravo.
+Oentendimento do Tribunal de origemnão está em consonância com o entendimento deste Superior Tribunal que se firmou no sentido de que"aaplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada." (AgInt nos EREsp n. 1.120.356/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 24/8/2016, DJe de 29/8/2016).
+Contudo, não foi este o caso dos autos, tendo a agravante interposto recurso interno requerendo o esgotamento das instâncias ordinárias, não se justificando, portanto, a imposição de multa.
+Ademais, o STJ já se manifestou no sentido de que aapresentação de agravo contra decisão monocrática na origem, com o intuito de provocar decisão colegiada epermitir o exaurimento de instância ordinária implica o reconhecimento de que o recurso interno não possui caráter procrastinatório.
+No ponto:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXECUTIVO E AUSÊNCIA DE CÁLCULO ARITMÉTICO. MEMÓRIA DE CÁLCULO. OPORTUNIDADE PARA EMENDA À INICIAL. AGRAVO REGIMENTAL COM INTUITO DE PROVOCAR DECISÃO COLEGIADA. CARÁTER PROCRASTINATÓRIO. INOCORRÊNCIA.
+1. Nos termos da jurisprudência consolidada no STJ, encontrando-se a execução instruída com título executivo hábil, a falta da adequada demonstração da evolução da dívida ou a ausência do simples cálculo aritmético, não acarreta, por si só, a extinção automática do processo, devendo o magistrado oportunizar a emenda a inicial para correção do vício (art. 616, do CPC).
+2. A apresentação de agravo regimental contra decisão monocrática no Tribunal de origem, com o intuito de provocar decisão colegiada, permitindo, deste modo, o exaurimento de instância necessária à interposição de recurso especial, não revela, no caso, caráter procrastinatório que justifique a aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil, como quer fazer crer a parte ora agravante. Precedentes.
+3. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AgRg no REsp n. 987.311/MS, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/4/2012, DJe de 19/4/2012).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especialpara excluir a multa aplicada pelo Tribunal de origem com fundamentono art. 1.021, §4º, do CPC.
+Publique-se. Intimem-se.
