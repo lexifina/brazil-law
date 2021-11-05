@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RENATA MENDES DE SOUZA contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, proferido no julgamento da Apelação n.0000475-91.2016.8.24.0020, assim ementado:
+"APELAÇÕES CRIMINAIS. LESÃO CORPORAL DE NATUREZA GRAVE E POSSE ILEGAL DE ARMA DE FOGO, DE USO RESTRITO, COM NÚMERO DE SÉRIE SUPRIMIDA (ART. 129, § 1º, I, DO CÓDIGO PENAL E ART. 16, PARÁGRAFO ÚNICO, IV, DA LEI N. 10.826/03, ANTERIOR À LEI N. 13.964/19). SENTENÇA PARCIALMENTE PROCEDENTE. RECURSOS DEFENSIVOS.NULIDADE. AUSÊNCIA DE INTIMAÇÃO DO DEFENSOR DE UM DOS RÉUS PARA RATIFICAR OU APRESENTAR NOVAS ALEGAÇÕES FINAIS, APÓS A DESCLASSIFICAÇÃO DO CRIME IMPUTADO NA DENÚNCIA E EXCLUSÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. EIVA VERIFICADA. PREJUÍZO AO DIREITO DE DEFESA. ANULAÇÃO PARCIAL DA SENTENÇA QUE SE IMPÕE. DETERMINADA A CISÃO PROCESSUAL.
+"As alegações finais consubstanciam-se em termo essencial do processo penal, razão pela qual, a sua ausência implica em vício insanável que requer a sua declaração de nulidade, por ofensa aos princípios constitucionais da ampla defesa e do contraditório" (STJ, HC n. 107.317/ES, rela. Mina. Jane Silva (Desa. Convocada do TJ/MG), j. em 1º/7/2008).
+RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL, NA FORMA RETROATIVA. AGENTE MENOR DE 21 (VINTE E UM ANOS) NA DATA DOS FATOS. PRAZO PRESCRICIONAL DE 4 (QUATRO) ANOS (ART. 109, V, DO CP), REDUZIDO PELA METADE (ART. 115 DO CP). PERÍODO TRANSCORRIDO ENTRE O RECEBIMENTO DA DENÚNCIA E A PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA. EXTINÇÃO DA PUNIBILIDADE VERIFICADA.
+1 Impõe-se a redução do prazo prescricional pela metade em razão da menoridade relativa do réu, quando, ao tempo dos fatos, possuía menos de 21 (vinte e um) anos de idade, nos termos do art. 115 do Código Penal.
+2 Transcorrido lapso temporal necessário entre o recebimento da denúncia e a publicação da sentença condenatória, deve ser declarada a extinção da punibilidade do agente, em razão da prescrição da pretensão punitiva do Estado, na modalidade retroativa.
+CORRÉ. DOSIMETRIA. PRIMEIRA FASE. CONDUTA SOCIAL. NEGATIVAÇÃO EM RAZÃO DA GRAVIDADE ABSTRATA DO CRIME E DA CONDIÇÃO DE USUÁRIA DE DROGAS. FUNDAMENTAÇÃO INIDÔNEA. CIRCUNSTÂNCIA JUDICIAL EXTIRPADA. READEQUAÇÃO DA REPRIMENDA NO PONTO. CIRCUNSTÂNCIAS DO CRIME. MOTIVAÇÃO DE ACORDO COM O CASO CONCRETO. MAJORAÇÃO MANTIDA.
+1 O fato de a conduta poder resultar em ferimento mais sério, ou até mesmo em morte, além de se revestir em mera hipótese desprovida de amparo em elemento probatório, não deixa de ser inerente ao próprio delito imputado ou a outro de maior gravidade, não servindo para desqualificar a conduta social.
+2 Embora o uso de entorpecentes seja circunstância extremamente nociva, por si só, não justifica a desvaloração do vetor conduta social e, consequentemente, o recrudescimento da pena-base. 3 Adequada a fundamentação empregada quanto às circunstâncias do delito, porquanto relacionada ao local do crime e seu modo de execução, revelando maior periculosidade da ação.
+RECURSOS CONHECIDOS, PROVIDOS QUANTO A DOIS ACUSADOS, E PARCIALMENTE PROVIDO NO TOCANTE À CORRÉ."(fls. 2.069/2.070)
+Infere-sedos autos que o paciente foi condenadoàpena de 4 anos de 2 meses em regime semiaberto, bem como ao pagamento de 10 dias-multa por violaçãoao art. 129, § 1º, I do Código Penal(lesão corporal).
+A Defensoria Pública sustenta que as circunstâncias do crime não podem ser utilizadas como agravante para o aumento da pena base, uma vez que tal cálculo seria considerado bisin idem.
+Objetiva a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do artigo 44 do CP.
+Deste modo, requer, em liminar, que o paciente aguarde em liberdade até o julgamento do presente writ e, no mérito, a desconsideração das circunstâncias do crime como agravantes no cálculo penal, fazendo assim a pena base cair de 1 ano e 2 meses para 1 ano, o que consequentemente impacta na pena final da corré.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida. Todavia, considerando as alegações expostas na inicial, mostra-se razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores da tutela de urgência.
+Por tais razões, indefiro o pedido de liminar.
+Suficientemente instruídos os autos, ouça-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
