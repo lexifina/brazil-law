@@ -1,0 +1,20 @@
+.Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por WESLEY ARCANJO DE SOUZA, com o fito de reformar a decisão que, nos autos dos Embargos à Execução de n. 0002904-03.2020.8.11.0004, opostos em face de GEYSA LAURA GOMES SILVA, não atribuiu efeito suspensivo ao processo executivo.
+Para tanto, o agravante alega que, embora o Juízo monocrático tenha recebido os Embargos, deixou de atribuir-lhe efeito suspensivo, mesmo com a evidente demonstração do preenchimento dos requisitos inerentes à tutela jurisdicional pretendida.
+Aduz que, além da ausência de fundamentação da decisão, o título que embasa a execução não tem força executiva, pois não possui a assinatura de duas testemunhas, como determina o art. 798, III, a, do Código de Processo Civil. Ressalta que a agravada não apresentou o memorial do cálculo discriminado do débito, o que reforça a necessidade de se suspender a execução, na origem.
+Afirma que o contrato possui cláusula ad exitum como condição remuneratória dos serviços advocatícios prestados e que a cobrança dos honorários antes do julgamento definitivo da causa não pode subsistir, ainda mais porque até agora não recebeu nenhum recurso advindo do processo trabalhista em que atuou a agravada, sendo evidente o excesso de execução.
+Pondera, ainda, que o contrato de honorários advocatícios entabulado entre as partes possui cláusula abusiva, de modo que a multa cobrada pela rescisão unilateral da avença é indevida e deve ser extirpada.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Nesse passo, o § 1o do artigo 919 do Código de Processo Civil exige para a atribuição de efeito suspensivo aos Embargos, a demonstração dos requisitos da tutela provisória de urgência, sendo eles a probabilidade do direito (fumus boni iuris), o perigo de dano e o risco ao resultado útil do processo (periculum in mora), bem como a existência de garantia pela penhora, depósito ou caução suficiente.
+Dessa feita, diante da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+É que, em princípio, não se verifica urgência capaz de ensejar o deferimento do efeito suspensivo, tendo em vista a falta de qualquer notícia a respeito de ordem de bloqueio de bens do agravante ou qualquer outra medida expropriatória, que demande a concessão imediata da tutela judicial.
+Além disso, a escorreita garantia do Juízo é requisito objetivo para que seja atribuído efeito suspensivo aos embargos à execução e, no caso concreto, o embargante, ora agravante, sequer fez menção à mencionada garantia, de modo que, também por esse fundamento, deve ser indeferida a liminar requestada.
+Assim, ao menos nesse instante, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se o agravado do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
