@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno manejado por Paulo César Soares de Souza contra decisão que assim dispõe (e-STJ, fls. 347/348):
+Compulsando-se os autos, constata-se que o recorrente, ao aduzir a tese de que ainda que a ilegitimidade do sindicato tenha sido reconhecida naexecução, o prazo prescricional seria interrompido, deixou de impugnar o fundamento do acórdão recorrido segundo o qual não há sequer título constituído para fundamentar o feito executivo, haja vista que " ..  sequer fora propriamente iniciado o cumprimento coletivo da sentença, tornando despicienda maior discussão acercada aludida causa interruptiva da prescrição." (e-STJ, fl. 222).
+Incidência, por analogia, do teor da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."). Ato contínuo, o acórdão recorrido salienta ainda que "Sem embargo, nota-se que a impugnação supramencionada não teria o condão de reconhecer o direito de todos os servidores plantonistas do Sistema Socioeducativo do DF aos 05 (cinco) abonos de ponto, sequer de todos os substituídos pelo Sindicato, pois contemplado fator que a restringe.  ..  Com efeito, a objeção do DF vem acompanhada de espécie de "lista de beneficiados" (fls. 771/776daqueles autos), na qual indicada, de forma nominal, a quantia reputada como correta para cada substituído, em oposição aos valores assinalados para o cumprimento. Do exame da aludida lista, bem assim da relação subsequente trazida pelo ora apelado (fls. 777/806) - as quais, em tese, poderiam vir a reconhecer o direito do apelante e interromper o prazo -, não se verifica o nome do exequente PAULO CESAR SOARES DE SOUZA." (e-STJ, fls. 222/223).
+Assim, fica claro que a análise da pretensão implicaria em inevitável reexame dos contextos fático e probatório dos autos, esbarrando no óbice contido na Súmula 7/STJ.
+Em suas razões, o agravante sustenta que "a execução coletiva movida pelo Sindicato contra a Fazenda Pública, posteriormente extinta em razão do reconhecimento da sua ilegitimidade ativa para propor a demanda executiva, temo efeito de interromper a contagem do prazo prescricional, nos termos do art. 9º do Decreto n. 20.910/1932: "a prescrição interrompida recomeça a correr, pela metade do prazo, da data do ato que a interrompeu ou do último ato ou termo do respectivo processo"" (e-STJ, fl. 361).
+Alega que"o prazo não correu no período em que tramitou a execução frustrada - 25.04.2016 a 23.02.2018, data da decisão que rejeitou a legitimidade do Sindicato e determinou a individualização do direito. Findo o motivo da interrupção, o lapso prescricional foi retomado, como previsto no art. 9º do Decreto n. 20.910/1932 ou da Súmula n. 383/STF" (e-STJ, fl. 362).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+A decisão agravada não conheceu do recurso especial aos seguintes fundamentos: a) Súmula 283/STF, ante o fundamento não impugnado pelo recurso especial de que nem sequer havia título para fundamentar o feito executivo; b) Súmula 7/STJ, em face da necessidade de revisitação dos contextos fático-probatórios dos autos.
+Ocorre que o agravante não impugnou, especificamente, os citados fundamentos, razão pela qual se impõea incidência da Súmula 182/STJ, a saber: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
