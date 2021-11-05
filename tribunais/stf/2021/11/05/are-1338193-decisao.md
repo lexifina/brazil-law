@@ -1,0 +1,47 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. INSURGÊNCIA EM FACE DA ORDEM DE DEVOLUÇÃO DOS AUTOS À ORIGEM. ATO IRRECORRÍVEL. PRETENSÃO MANIFESTAMENTE INADMISSÍVEL. AGRAVO NÃO CONHECIDO.
+
+    DECISÃO: Trata-se inicialmente do RE 1.286.782, com número único 0002862-82.2005.4.03.6002, cujo despacho da Presidência desta Corte determinou a devolução do feito para aplicação dos Temas 339 e 669 da sistemática da repercussão geral consoante peças inseridas no e-Doc. 35, p. 148.
+
+    Em novo juízo de admissibilidade, a Vice-Presidência do Tribunal a quo negou seguimento ao recurso extraordinário com fundamento no artigo 1.030, I, a, do CPC/2015 pela aplicação dos referidos temas (e-Doc. 36, p. 4-9), motivo pelo qual este feito foi reautuado.
+
+    Contra essa decisão, a parte interpôs agravo em recurso extraordinário (e-Doc. 37, p. 1).
+
+    É o relatório. DECIDO.
+
+    Ab initio pontuo que não há razão jurídica para a remessa dos autos ao Supremo Tribunal Federal, uma vez que o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver-se dado exclusivamente com base na sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia - Presidente, DJe de 25/9/18).
+
+    Ressalte-se, ademais, que não caracteriza usurpação da competência do Supremo Tribunal Federal o não conhecimento pela Corte local do agravo previsto no art. 1.042, caput, do CPC interposto contra decisão em que se aplique a sistemática da repercussão geral. Sobre o tema, anote-se: Rcl nº 25.078/SP-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 21/2/17; Rcl nº 31.882/GO, Rel. Min. Ricardo Lewandowski, DJe de 28/9/18; Rcl nº 31.883/GO, Rel. Min. Gilmar Mendes, DJe de 25/9/18; Rcl nº 31.880/GO, Rel. Min. Alexandre de Moraes, DJe de 24/9/18; Rcl nº 28.242/MG, Rel. Min. Marco Aurélio, DJe de 20/9/18; Rcl nº 31.497/PR, Rel. Min. Rosa Weber, DJe de 12/9/18; e Rcl nº 30.972/PR, Rel. Min. Edson Fachin, DJe de 3/8/18.
+
+    Impende consignar ainda que o ato judicial previsto no artigo 1.030, I a III, do CPC/2015, constitui mero procedimento, sem cunho decisório, contra o qual não cabe recurso. Destarte, além da ausência de previsão legal nesse sentido, o referido ato não se enquadra nas hipóteses de ato decisório ou sentencial previstas no artigo 203, § 1º e § 2º, do Código de Processo Civil de 2015, in verbis:
+
+    “Art. 203. Os pronunciamentos do juiz consistirão em sentenças, decisões interlocutórias e despachos. § 1º Ressalvadas as disposições expressas dos procedimentos especiais, sentença é o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487, põe fim à fase cognitiva do procedimento comum, bem como extingue a execução. § 2º Decisão interlocutória é todo pronunciamento judicial de natureza decisória que não se enquadre no § 1º. § 3º São despachos todos os demais pronunciamentos do juiz praticados no processo, de ofício ou a requerimento da parte. § 4º Os atos meramente ordinatórios, como a juntada e a vista obrigatória, independem de despacho, devendo ser praticados de ofício pelo servidor e revistos pelo juiz quando necessário”.
+
+    Com efeito, é firme a jurisprudência desta Suprema Corte no sentido da irrecorribilidade das decisões que devolvem os autos à origem para observância da sistemática da repercussão geral. Confiram-se, a título de exemplo, alguns precedentes desta Corte:
+
+    “SEGUNDO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVOLUÇÃO DOS AUTOS À ORIGEM. SISTEMÁTICA DA REPERCUSSÃO GERAL. IRRECORRIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. É manifestamente incabível agravo da decisão que determina a devolução dos autos ao Tribunal de origem em cumprimento ao disposto no art. 1.030, II, do CPC. 2. Agravo regimental a que se nega provimento” (ARE 862.406-AgR-segundo, Segunda Turma, Rel. Min. Edson Fachin, DJe de 01/03/2019).
+
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECURSO INTERPOSTO CONTRA DESPACHO PELO QUAL SE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. INADMISSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 874.816-AgR-AgR, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 8/11/16).
+
+    Demais disso, não compete ao Supremo Tribunal Federal rever as decisões de Tribunais e Turmas Recursais que aplicam a sistemática da repercussão geral. Nesse sentido, AI 760.358-QO, Rel. Min. Gilmar Mendes, Plenário, DJe de 19/2/2010; e ARE 761.661-AgR, Rel. Min. Presidente, Plenário, DJe de 28/4/2014, assim ementados, respectivamente:
+
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.”
+
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009. É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral. A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno). Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro. Agravo regimental a que se nega provimento.”
+
+    Destaco que a competência para a aplicação da sistemática da repercussão geral é dos Tribunais e Turmas Recursais de origem, de forma que não cabe a interposição de agravo e, com muito mais razão, de novo recurso extraordinário para esta Corte.
+
+    Ex positis, NÃO CONHEÇO do recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 5 de novembro de 2021.
+
+Ministro LUIZ FUX
+
+Presidente
+
+    Documento assinado digitalmente
