@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por CLEBER MARCELINO DIAS DOS SANTOScontra ato praticado por Desembargador do Tribunal de Justiça do Estado de São Paulo que não apreciou as alegações da Revisão Criminaln. 2068130-76.2021.8.26.0000.
+No presente feito,alega oimpetrante que há duplicidade de acusações, sobre o mesmo fato, no que se refere a associar-se a uma organizaçãocriminosa, daí porque se fato novo há quanto a criação da célula de advogados e de participação em corrupção, tais condutas para lhe ser atribuídas e responsabilizadas, deveriam ter a comprovação de sua atuação e não meramente deduzidas de sua participação na organização criminosa, como aqui ocorrido.
+Pondera o seguinte: "a condenação, afronta o princípio "ne bis in idem" que "reside na necessidade de segurança jurídica, como uma limitação ao poder punitivo estatal, considerado o caráter repressivo do direito penal" (princípio garantista), e "na ideia de que a cada indivíduo será aplicada a sanção correspondente e suficiente para os seus atos (princípio da proporcionalidade)". Por outro lado, como dito e repete-se, de duvidosa juridicidade, se considerar organização criminosa a criação de uma estrutura jurídica de defesa."
+Requer, assim,seja reformada a decisão de segundo grau.
+É o breve relatório.
+Decido.
+O Mandado de Segurança é um remédio constitucional que visa a resguardar direito líquido e certo e, por possuir via estreita, exige a narrativa completa dos fatos, com a indicação exata do ato coator, bem comocomprovação do direito que se reputa líquido, certo e violado.
+O impetrante não comprova o ato coator, sequer o apresenta, além de não indicar claramente qual seria a ofensaao direito líquido e certo que pretende resguardar, limitando-se a conjecturar afronta ao princípio ne bis in idem por não apreciação das razões da defesa na Revisão Criminal proposta, que não se sabe nem ao certo se foi julgada,o que denota deficiência na fundamentaçãoe, consequentemente, impõe o indeferimento liminar do Mandado de Segurança.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. REPASSE DE VERBAS PÚBLICAS. PEDIDO DE NÃO INCLUSÃO NA BASE DE CÁLCULO DO FPM DA MULTA PREVISTA NO ART. 8o. DA LEI 13.254/2016. A PARTE IMPETRANTE NÃO INDICA E COMPROVA DE MODO PRECISO O ATO COATOR EM PRINCÍPIO QUE PODERIA SER ATRIBUÍDO AO IMPETRADO. NÃO CABE MANDADO DE SEGURANÇA CONTRA LEI EM TESE.
+INCIDÊNCIA DA SÚMULA 266 DO STF. INDEFERIMENTO DA INICIAL E EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O Mandado de Segurança é um remédio constitucional, de natureza mandamental, rito sumário e especial, que visa a resguardar direito líquido e certo. Por possuir via estreita de processamento, exige a narrativa precisa dos fatos, com a indicação exata do ato coator e a comprovação do direito que se reputa líquido, certo e violado.
+2. No caso dos autos, observa-se que a parte impetrante não indica e comprova de modo preciso o ato coator em tese que poderia ser atribuído ao ora impetrado, o que denota deficiência na fundamentação do requerimento e, consequentemente, impõe o indeferimento liminar do Mandado de Segurança.
+3. Agravo Interno no Mandado de Segurança do Particular a que se nega provimento.
+(AgInt no MS 24.213/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 07/04/2020, DJe 23/04/2020).
+Não é demais lembrar que esta Corte já consolidou o entendimento de, "tratando-se de mandado de segurança impetrado contra ato de desembargador do Tribunal de Justiça do Estado de São Paulo, imperiosa a incidência do Enunciado n. 41 da Súmula do Superior Tribunal de Justiça." (AgRg no MS n. 23.632/SP, de minha relatoria, TERCEIRA SEÇÃO, DJe de 23/3/2018).
+Ante todo o exposto, nos termos do art. 212 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente mandamus.
+Publique-se. Intimem-se.
