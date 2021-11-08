@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS CONDOMINIAIS. INDEFERIMENTO DE PROVA ORAL. SUFICIÊNCIA DA PROVA DOCUMENTAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PACTUAÇÃO DE DESPESAS CONDOMINIAIS EXTRAORDINÁRIAS EM ASSEMBLEIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+2. Na hipótese, a reforma do acórdão recorrido, quanto à suficiência da prova documental e à pactuação de despesas condominiais extraordinárias em assembleia, demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável no âmbito estreito do recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por ANGELA MARIA PENALVA DE CARVALHO contra decisão desta Relatoria que conheceu do agravo para negar provimento ao recurso especial, em razão da incidência da Súmula 7 do STJ (fls. 825/831, e-STJ).
+A agravante sustenta, em síntese, a inaplicabilidade da Súmula 7/STJ ao caso sob exame (fls. 834/840, e-STJ).
+Devidamente intimado, o agravado apresentou impugnação às fls. 841/846, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS CONDOMINIAIS. INDEFERIMENTO DE PROVA ORAL. SUFICIÊNCIA DA PROVA DOCUMENTAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PACTUAÇÃO DE DESPESAS CONDOMINIAIS EXTRAORDINÁRIAS EM ASSEMBLEIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+2. Na hipótese, a reforma do acórdão recorrido, quanto à suficiência da prova documental e à pactuação de despesas condominiais extraordinárias em assembleia, demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável no âmbito estreito do recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.832.094 - RJ (2021/0029912-8)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+ANGELA MARIA PENALVA DE CARVALHO
+ADVOGADO
+:
+MARCOS DANA - RJ062676
+AGRAVADO
+:
+CONDOMINIO DO EDIFICIO VIVENDAS CACA E PESCA
+ADVOGADOS
+:
+JOSÉ DE CARVALHO - RJ053311
+CLAUDIA GUIMARÃES COSTA - RJ086908
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Inexistem razões que justifiquem o acolhimento da pretensão recursal, devendo ser mantida a decisão agravada pelos próprios fundamentos.
+Conforme mencionado na decisão agravada, a respeito da suficiência da prova documental e desnecessidade da produção de prova oral, o eg. Tribunal de origem assim concluiu (fls. 710/721, e-STJ):
+"Por fim, não se vislumbra cerceamento de defesa por ter o juízo a quo indeferido a produção de prova oral. Em que pese seja direito da parte postular pela produção das provas que entender necessárias à comprovação do alegado, cabe ao Juiz, na qualidade de destinatário da prova, decidir sobre a necessidade ou não de sua produção, bem como indeferir aquelas consideradas inúteis ou meramente protelatórias, nos termos do disposto nos artigos 370 e 371 do CPC. Na hipótese, a prova oral se afigura, realmente, irrelevante para o deslinde da controvérsia, restando suficiente o acervo probatório documental constante dos autos." (grifou-se)
+A conclusão do v. acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, no sentido de que cabe ao magistrado verificar a existência de provas suficientes ao julgamento da lide e indeferir a produção de provas consideradas desnecessárias. Ademais, a modificação do entendimento lançado no v. acórdão recorrido, no que tange ao alegado cerceamento de defesa, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Nessa linha, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INVALIDADE DE CLÁUSULAS CONTRATUAIS C/C ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigo 1.022 do CPC/15.
+2. Cabe ao magistrado verificar a existência de provas suficientes nos autos para ensejar o julgamento antecipado da lide e indeferir a produção de provas consideradas desnecessárias, conforme o princípio do livre convencimento do julgador. Infirmar tais fundamentos demandaria, necessariamente, o reexame do conjunto fático- probatório dos autos. Incidência da Súmula 7/STJ.
+3. É cabível o ajuizamento da ação de arbitramento para cobrança de honorários, de forma proporcional aos serviços até então prestados, quando revogado imotivadamente o mandato judicial que previa a remuneração pela sucumbência da parte contrária.
+4. No que se refere ao disposto nos arts. 141 e 492 do CPC/15, 189 e 211 Código Civil, incide os enunciados das Súmulas 282 e 356 do STF, ante a ausência de prequestionamento, porquanto a matéria contida em tal dispositivo não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem. 5. Agravo interno desprovido.
+(AgInt no REsp 1855941/PA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/05/2020, DJe 19/05/2020) - grifou-se.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISIONAL DE CONTRATO. MATÉRIA CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE. CERCEAMENTO DE DEFESA. PROVA PERICIAL. DESNECESSIDADE. AUSÊNCIA DE JUNTADA DOS CONTRATOS PELA INSTITUIÇÃO BANCÁRIA. JUROS REMUNERATÓRIOS. TAXA MÉDIA. CAPITALIZAÇÃO MENSAL. DESDE QUE PACTUADA. COMISSÃO DE PERMANÊNCIA. POSSIBILIDADE. HONORÁRIOS. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Ao STJ não é permitido interferir na competência do STF, sequer para prequestionar questão constitucional suscitada em sede de embargos de declaração, sob pena de violar a rígida distribuição de competência recursal disposta na CF. Eventual violação a dispositivo constitucional é matéria a ser apreciada em sede de recurso extraordinário perante o STF.
+2. A verificação da necessidade da produção de quaisquer provas, é faculdade adstrita ao magistrado, de acordo com o princípio do livre convencimento do julgador, e que a análise acerca do deferimento ou não de produção de provas enseja o revolvimento do conteúdo fático-probatório dos autos. Incidência da Súmula 7/STJ.
+3. Conforme entendimento da Segunda Seção do STJ, os juros remuneratórios devem ser limitados à taxa média de mercado quando não há como apurar a taxa cobrada pela instituição financeira da contratada, como no caso, em que não veio aos autos cópia do contrato. Precedentes.
+4. Súmula 472 do STJ: "A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual."
+5. Conforme decidido pelo STJ, a reforma do julgado quanto à sucumbência mínima ou recíproca da parte, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 980.319/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/09/2018, DJe 18/09/2018) - grifou-se.
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA. REQUISITOS. NÃO COMPROVAÇÃO. INDEFERIMENTO NA ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PRINCÍPIO DO LIVRE CONVENCIMENTO. ART. 131 DO CPC. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. JUNTADA POSTERIOR DE DOCUMENTO. POSSIBILIDADE, DESDE QUE OBSERVADO O CONTRADITÓRIO E INEXISTENTE MÁ-FÉ.
+1. A pessoa jurídica deve demonstrar a impossibilidade de arcar com os encargos processuais para fazer jus aos benefícios da justiça gratuita (Súmula 481/STJ).
+2. No caso, o Tribunal estadual concluiu que os elementos comprobatórios da alegada hipossuficiência estavam ausentes, obstando a discussão da matéria o teor da Súmula nº 7 desta Corte.
+3. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento.
+4. É possível "a juntada de documentos após o momento processual oportuno, desde que observado o contraditório e inexistente a má-fé da parte que a requereu" (AgRg no Ag 1387136/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/6/2012, DJe 29/6/2012).
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 788.143/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2015, DJe 01/02/2016) - grifou-se.
+PROCESSO CIVIL. AGRAVO REGIMENTAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. PROVA PERICIAL. NÃO INTERPOSIÇÃO DE RECURSO. PRECLUSÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INVERSÃO DA PROVA. VEROSSIMILHANÇA DA PRÁTICA DE AGIOTAGEM.
+1. Não se verifica ofensa ao art. 535 do CPC quando o Tribunal de origem se manifesta de forma motivada para a solução da lide e declina os fundamentos jurídicos que embasaram sua decisão, não configurando omissão o pronunciamento judicial contrário à pretensão do recorrente.
+2. A não interposição de recurso contra a decisão que indefere o pedido de prova pericial acarreta a preclusão da matéria, impedindo a parte de rediscuti-la em momento posterior. Precedentes.
+3. O magistrado, com base no livre convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, hipótese em que não se verifica a ocorrência de cerceamento de defesa. Precedentes.
+4. A inversão do ônus da prova autorizada pelos arts. 1º e 3º da MP n.º 2.172-32, que trata da nulidade dos atos de usura pecuniária, impõe acurada análise da ocorrência de requisito legal para seu deferimento: demonstração da verossimilhança da prática de agiotagem. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no REsp 1196519/MS, Rel. Ministro LUIS FELIPE SALOMÃO,QUARTA TURMA, julgado em 23/06/2015, DJe 04/08/2015) - grifou-se.
+Igualmente quanto à possibilidade de cobrança das despesas extraordinárias condominiais, incide o óbice contido na Súmula 7 do STJ, uma vez que as instâncias ordinárias, mediante análise das provas produzidas nos autos, concluíram que foi comprovada a referida pactuação em assembleia realizada para deliberação sobre o assunto.
+A título elucidativo, leia-se trecho do v. acórdão recorrido:
+"Cinge-se a controvérsia à cobrança de despesas condominiais extraordinárias, decorrentes de obrigações contratuais por serviços jurídicos assumidos pelo condomínio autor, ora apelante, em dois momentos distintos, o primeiro em 13/09/2009 e o segundo em 04/12/2015, regularmente cumpridos pela ré, ora apelante, até o mês de abril de 2016. (índex 83).  ..  No mérito, melhor sorte não logrou a ré em seu recurso, inexistindo alicerce jurídico para que a mesma suspenda o pagamento de cotas extras referente à honorários advocatícios, estes convencionados pelo condomínio para defesa dos interesses deste e dos condôminos em ações judiciais. Tais cotas sempre foram pagas pela ré, sem oposição, deste a contratação em 2009 até 2016. ..  Extrai-se dos autos que no ano de 2009 o condomínio autor teve suas unidades objeto de arrematação em função de demanda ajuizada contra o Country Club de Caça e Pesca com quem o condomínio exercia a composse do terreno. O condomínio, então celebrou contrato de honorários advocatícios com o Escritório Hamilton Quirino advogados para defesa dos interesses jurídicos do condomínio e de todos os condôminos titulares das casas, incluindo a ré, em embargos de terceiro e mandado de segurança. Os condôminos, como não poderia deixar de ser, figuraram juntamente com o condomínio como autores das ações, para o que outorgaram procuração ao advogado. Resta evidente que ante o interesse comum dos proprietários em demandas que envolviam o condomínio com suas unidades, a contratação foi feita pelo primeiro, sendo os honorários advocatícios, inclusive, fixados para a prestação como um todo e não individualmente para cada autor condômino. Não há registro de que tenha havido qualquer divergência em face dessa dinâmica de contratação, sendo certo que todos, inclusive a ré, repita-se, sempre efetuaram o pagamento rateado desta verba como despesa extraordinária. Outros contratos de honorários advocatícios foram posteriormente celebrados pelo condomínio para defesa em ação reivindicatória, usucapião e atentado bem como para assessoria jurídica para questões administrativas e cobranças contenciosas. Tudo com a anuência dos condôminos. ..  Em abril de 2016, tendo em vista a insatisfação da ré com o Escritório Jose de Carvalho, encabeçando movimento para a substituição deste, foi realizada assembleia extraordinária, tendo a maioria dos condôminos presentes decidido pela permanência daquele Escritório. Registre-se que a ré estava presente (índex 72 fls. 73/74).  .. "
+Inviável, portanto, a reforma do acórdão recorrido, tendo em vista a inequívoca aplicação da Súmula 7 do STJ. Nessa linha, confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. CONDOMÍNIO EDILÍCIO. FORMA DE PAGAMENTO DAS TAXAS CONDOMINIAIS. FRAÇÃO DE CADA UNIDADE. CONVENÇÃO DE CONDOMÍNIO. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. A lei de regência dos condomínios em edificações (Lei 4.591/64), em seu art. 12, caput e § 1º, estabelece a obrigação de cada condômino arcar com as despesas condominiais na proporção de sua quota-parte. Em regra, a aludida quota-parte deve corresponder à fração ideal do terreno de cada unidade, podendo a convenção condominial dispor em sentido diverso.
+2. No caso, as instâncias ordinárias, mediante análise das cláusulas da Convenção de Condomínio, bem como da ata da Assembleia Geral Extraordinária realizada com o objetivo de discutir e aprovar a Convenção do condomínio, entenderam que ficou provado nos autos que os condôminos escolheram o sistema de cobrança da taxa de condomínio a partir do critério das frações ideais. Súmulas 5 e 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1169871/RS, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO -, QUARTA TURMA, julgado em 11/09/2018, DJe 14/09/2018) - grifou-se.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA N. 7/STJ. DESPESAS CONDOMINIAIS. RATEIO. REEXAME DE MATÉRIA FÁTICA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O acolhimento da pretensão recursal para analisar a situação financeira do recorrente demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado nesta esfera recursal. Incidência da Súmula 7 do STJ.
+2. O acórdão estadual ao manter a r. sentença que julgou procedente a ação de cobrança de despesas formulada pelo recorrido, amparou-se nas provas trazidas pelo recorrido com amparo nas atas das assembléias realizadas pelo Condomínio. A revisão dos fundamentos do acórdão recorrido demanda necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7/STJ) e impede o conhecimento do recurso por ambas alíneas.
+3. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 495.660/SP, Rel. Ministro LUIS FELIPE SALOMÃO,QUARTA TURMA, julgado em 18/11/2014, DJe 21/11/2014) - grifou-se.
+Por fim, não cabe o exame da suposta divergência jurisprudencial, ante a inexistência de similitude fática entre os arestos confrontados, uma vez que a incidência da Súmula 7 impede o conhecimento do recurso lastreado também pela alínea "c" do permissivo constitucional. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DANOS MORAIS COLETIVOS. POSSIBILIDADE. VIOLAÇÃO A DIREITOS FUNDAMENTAIS DA SOCIEDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência das Turmas que compõem a Segunda Seção desta Corte dispõe que "o dano moral coletivo é categoria autônoma de dano que não se identifica com os tradicionais atributos da pessoa humana (dor, sofrimento ou abalo psíquico), mas com a violação injusta e intolerável de valores fundamentais titularizados pela coletividade (grupos, classes ou categorias de pessoas). Tem a função de: a) proporcionar uma reparação indireta à lesão de um direito extrapatrimonial da coletividade; b) sancionar o ofensor; e c) inibir condutas ofensivas a esses direitos transindividuais" (REsp 1.643.365/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 5/6/2018, DJe 7/6/2018).
+2. A modificação da conclusão delineada no acórdão recorrido - acerca da comprovação dos danos morais - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7/STJ.
+3. Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1312148/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/09/2018, DJe 20/09/2018, g. n.)
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
