@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MARCOS VINICIUS ROCHA DELLA PASCHOA PINTO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o paciente foi preso, em flagrante, pela suposta prática do crime previsto no art. 121, § 2º, II, III e IV, e art. 129, caput, c/c o art. 61, II, "a", na forma do art. 69, todos do Código Penal. A custódia foi, posteriormente, convertida em preventiva. Sobreveio, em 08/11/2019, a prolação da pronúncia em desfavor do acusado.
+A defesa impetrou prévio writ perante o Tribunal de origem, que denegou a ordem, nos termos da seguinte ementa:
+"Habeas Corpus Homicídio qualificado - Pedido de revogação da prisão preventiva e concessão de liberdade provisória Reiteração de pedido anterior - Alegação de excesso de prazo na formação da culpa Inocorrência - Feito que segue regularmente, respeitada a comedida duração do processo e o princípio da razoabilidade - Constrangimento ilegal não configurado - Falta de fundamentação na reavaliação da prisão preventiva e não atendimento ao artigo 316 do CPP - reapreciação Writ parcialmente conhecido e, nesta parte, denegado." (e-STJ, fl. 112)
+Nesta Corte, a defesa alega, em síntese, a existência de constrangimento ilegal em face do acusado, decorrente do excesso de prazo para o julgamento do feito pelo Tribunal do Júri, ponderando que o paciente foi pronunciado em novembro de 2019 e o júri não foi designado.
+Sustenta também a ausência de fundamentação idônea para a manutenção da segregação cautelar, por não estarem presentes os requisitos constantes do art. 312 do Código de Processo Penal. Aduz que o decreto de prisão preventiva teria se baseado na gravidade abstrata do delito.
+Defende ser suficiente a imposição de medidas cautelares diversas da prisão.
+Pleiteia, assim, a revogação da custódia preventiva imposta ao paciente. Alternativamente, pugna pela substituição da constrição por medidas alternativas, previstas no art. 319 do Código de Processo Penal, ou por prisão domiciliar.
+O pedido liminar foi indeferido à fl. 143 (e-STJ).
+Prestadas as informações (e-STJ, fls. 146-162), o Ministério Público Federal manifesta-se pelo não conhecimento da impetração (e-STJ, fls. 164-171).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De início, no tocante à fundamentação da segregação cautelar, observa-se que o Tribunal de origem não analisou o pleito, no julgamento do writ originário, tendo em vista tratar-se de "mera reiteração de habeas corpus anteriores, deduzidos com idêntico propósito" (e-STJ, fl. 114).
+Dessa forma, sua apreciação direta por esta Corte Superior fica obstada, sob pena de se incorrer em indevida supressão de instância.
+A propósito, esse é o entendimento das Turmas que compõem a Terceira Seção desta Corte de Justiça:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, INCISO XX, DO REGIMENTO INTERNO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.  ..  SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA. MANDADO DE PRISÃO AINDA NÃO CUMPRIDO. NECESSIDADE DE PRESERVAÇÃO DA MEDIDA CONSTRITIVA. PROVIDÊNCIAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA E NEGATIVA DE AUTORIA. MATÉRIA NÃO EXAMINADA NO ARESTO IMPETRADO. SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+5. Vedada a apreciação, diretamente por esta Corte Superior de Justiça, sob pena de se incidir em indevida supressão de instância, das teses que não foram analisadas pelo Tribunal de origem no aresto combatido.
+6. Agravo regimental improvido."
+(AgRg no HC 432.177/PE, rel. Ministro JORGE MUSSI, QUINTA TURMA, j. 13/12/2018, DJe 4/2/2019, grifou-se).
+"HABEAS CORPUS.  ..  PRISÃO DOMICILIAR. PLEITO NÃO SUBMETIDO À INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE EXAME POR ESTA CORTE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Não debatida a matéria na instância ordinária, não cabe a este Superior Tribunal de Justiça inaugurar o enfrentamento da tese, sob pena de indevida supressão de instância.
+ .. .(HC 400.229/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018, grifou-se).
+Quanto ao aventado excesso de prazo para o julgamento do feito, em consulta ao sítio eletrônico do Tribunal de origem (Ação Penal n. 1500087-22.2019.8.26.0613), verifica-se que, em 07/10/2021, foi realizada sessão de julgamento peloTribunal do Júri e proferida sentença condenatória, o que torna prejudicada a alegação de constrangimento ilegal por excesso de prazo na formação da culpa, consoante pacífico entendimento desta Corte (HC 523.805/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/8/2019, DJe 10/9/2019; HC 512.963/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/8/2019, DJe 22/8/2019; HC 479.090/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 21/5/2019, DJe 3/6/2019 e HC 355.872/SP, de minha relatoria, QUINTA TURMA, julgado em 16/05/2017, DJe 19/05/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
