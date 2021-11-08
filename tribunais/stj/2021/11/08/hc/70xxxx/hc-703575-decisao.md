@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido, liminar, impetrado em favor de REINALDO GONCALVES DE OLIVEIRA, apontando como autoridade coatora o desembargador do Tribunal de Justiça do Estado de Minas Gerais, que indeferiu liminar no writ originário.
+Neste habeas corpus,a defesa alega, quehá situação apta a ensejar a superação do óbice da súmula 691 do STF.
+Aduz queo apenado cumpria sua pena já em regime aberto, entretanto, após o não acolhimento de sua justificativa decorrente de suposta prática de falta grave, teve sua regressão de regime definitiva decretada pelo MM. Juiz em data de 26.10.2021, e, somente por esse motivo, está acautelado em regime semiaberto, todavia sem gozo do direito a trabalho.
+A defesa requereu ao juízo a quo fosse concedido o livramento condicional ao paciente e, alternativamente, a progressão do seu regime de pena para o aberto, além de, em caso de indeferimento, fosse permitido o exercício do trabalho externo. Contudo, todos os pedidos foram indeferidos pelo juízo da 2ª Vara Criminal de Manhuaçu, ao argumento de que o paciente ostentava contra si recente falta grave.
+Defende que ao utilizar esta mesma falta para indeferir o livramento condicional/progressão de regime ao paciente a decisão do MM. Juiz a quo incorreu em bis in idem.
+Requer seja determinando a imediata concessão do benefício delivramento condicional/progressão de regime ao paciente.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, ressalvado nos casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula 691/STF). (AgRg no HC 285.647/CE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 25/08/2014; HC 284.999/SP Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 09/10/2014).
+Confira-se oseguinte julgado:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT INDEFERIDO LIMINARMENTE. SÚMULA N.691 DO STF. INCIDÊNCIA. REQUISITOS DA PREVENTIVA. QUANTIDADE EXPRESSIVA DE ENTORPECENTES. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabe habeas corpus contra o indeferimento de medida liminar impetrada na origem, salvo nos casos de flagrante ilegalidade ou de teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula n. 691 do STF).
+2. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+3. Agravo regimental desprovido."
+(AgRg no HC 684.126/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA
+TURMA, julgado em 17/08/2021, DJe 20/08/2021)
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que se encontraassim motivada:
+Conforme se infere da impetração, o apenado cumpria sua pena já em regime aberto, entretanto, após o não acolhimento de sua justificativa decorrente de suposta prática de falta grave, teve sua regressão de regime definitiva decretada pelo MM. Juiz em data de 26.10.2021, e, somente por esse motivo, está acautelado em como se em regime semiaberto, todavia sem gozo do direito a trabalho.
+Após detida análise dos fundamentos contidos na impetração, permissa venia, não vislumbro, de plano, a ocorrência de constrangimento ilegal ou a coexistência dos requisitos do fumus boni iuris e do periculum in mora de maneira a justificar o acolhimento do pleito liminar.
+Registro que o alegado na inicial demanda a análise das informações da autoridade coatora, e que o deferimento da medida liminar pleiteada exauriria a pretensão deduzida, resultando na prejudicialidade do exame detido da impetração.
+Lado outro, conforme asseverado pelo MM. Juiz a quo em decisão devidamente fundamentada, in verbis:
+Extrai-se dos autos que o condenado praticou falta grave durante a execução da pena, fato que ensejou a regressão do seu regime prisional, conforme se vê da r. decisão proferida no seg. 95.1, restado demonstrado seu comportamento insatisfatório no curso da execução, o que macula o requisito subjetivo do bom comportamento carcerário insculpido no inc. III do art. 83 do Estatuto Penal, e artigo 112, da LEP. Por essas razões, não obstante o atestado de pena demonstre que o condenado cumpriu o lapso temporal exigido para a concessão do livramento condicional e progressão do regime prisional, os autos revelam mau comportamento do condenado e inadaptação em regime prisional mais brando, o que obsta a concessão dos benefícios reclamados. O cometimento de falta disciplinar de natureza grave pelo condenado não pode ser desconsiderado, para fins de livramento condicional e progressão de regime, como conduta desabonadora a indicar mau comportamento carcerário (..)".
+De resto, o Habeas Corpus é um remédio constitucional de tramitação rápida e célere, de modo que, quando do exame do mérito, possível a reanálise da pretensão de prisão domiciliar em favor do sentenciado.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intime-se.
