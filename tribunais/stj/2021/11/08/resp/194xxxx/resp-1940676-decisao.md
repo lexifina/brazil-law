@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. CÁLCULO. DE ERRO MATERIAL. DESCONTO DE VALORES RECEBIDOS A TÍTULO DE COMPLEMENTAÇÃO DE APOSENTADORIA.
+Incabível reabrir a discussão quanto à impossibilidade de cobrança de diferenças absorvidas em complementação de aposentadoria, com relação aos exequentes de forma individualizada, após o desmembramento do cumprimento de sentença na origem e na iminência do pagamento da dívida ,após quase trinta anos de tramitação da ação.
+No presente recurso especial, o recorrente aponta como violadooart. 494, I, do CPC/2015. Sustenta, em síntese, a ocorrência de erro material no cálculo apresentado, assim porque a Portaria DEPREC 303/1984comprova que Erceu Furtado era empregado púbico da DEPREC. O cálculo judicial simplesmente desconsiderou a complementação presumida da aposentadoria paga pelo IPE.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O acórdão recorrido consignou que:
+Primeiramente, cumpre destacar que àquela sentença, proferida no bojo dos embargos à execução, o INSS interpôs embargos declaratórios, nos quais afirmou, acerca do indigitado cálculo do evento 100 que: "não corresponde ao critério apontado na decisão ora embargada".
+A insurgência foi analisada pelo juízo que ao afastar a alegação autárquica, concluiu no seguinte sentido: " o que se depreende é que apenas nas competências prescritas (e que, portanto, não foram levadas em conta na apuração das diferenças) e naquelas em que não consta dos autos informação acerca do valor total de proventos recebidos é que o montante devido foi apurado somente com base na renda mensal paga pelo INSS.
+O INSS apelou, esta 6ª Turma negou provimento ao apelo, sendo repisados os fundamentos sentenciais, e ressaltado que "o argumento acolhido pelo juízo, razão da parcial procedência, não decorreu de erros no cálculo, mas de critério eminentemente jurídico, consistente na impossibilidade, pelo mesmo juízo reconhecida, de cobrança de diferenças que tenham sido comprovadamente absorvidas em complementação de aposentadoria, questão sobre a qual não pende mais discussão, à ausência de recurso da parte autora".
+Incabível, portanto, no momento atual, reabrir a discussão com relação aos exequentes de forma individualizada, após o desmembramento do cumprimento de sentença na origem e na iminência do pagamento da dívida,após quase trinta anos de tramitação da presente ação.
+A solução, nesta seara do recurso especial, portanto, teria necessariamente que passar pela revisão da prova apresentada, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias.
+Sendo assim, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em sede de Recurso Especial ante o óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
