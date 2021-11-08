@@ -1,0 +1,22 @@
+Decisão:
+    Cuida-se de tempestivos embargos de declaração opostos por EDP - Energias do Brasil S.A. contra decisão monocrática mediante a qual não conheci do agravo interposto em razão do descumprimento das determinações de emenda.
+    Alega que:
+     “O Exmo. Ministro Relator, por meio da r. decisão embargada, não conheceu do recurso de Agravo Interno por entender que a atribuição de valor à causa e a indicação de endereço da parte beneficiária, que em verdade são requisitos de petição inicial disposto pelo art. 319, II e V, do CPC, seriam também requisitos de admissibilidade recursal. Entretanto, as duas coisas não se confundem porque, como visto, os requisitos que devem ser observados para a admissibilidade de um recurso são apenas 7 (sete), já explicitados.
+    [...]
+    No caso de terem sido verificados vícios sanáveis sobre a ‘petição inicial’ da Reclamação, data maxima venia, deveria o Exmo. Relator ter determinado sua emenda na primeira oportunidade, e, em caso de não cumprimento da diligência, aí sim, indeferido a referida petição, conforme julgamento proferido em caso semelhante nos autos na Reclamação Constitucional n° 48.444/PI, visto que ‘a petição inicial somente deve ser indeferida se não houver possibilidade de correção do vício ou, se houver, tiver sido conferida oportunidade para que o autor a emende e este não tenha atendido satisfatoriamente à determinação’.”
+    Entende
+    “que o recurso em questão deveria ter sido remetido ao julgamento colegiado da c. 1ª Turma, de sorte que, por primeiro, a Reclamação Constitucional não se trata de uma ação autônoma; e, em segundo lugar, mesmo que não seja este o entendimento do Exmo. Relator, os vícios que foram alegados referem-se à ‘petição inicial’, o que faz com que deva ser determinada a sua emenda, sem prejuízo do processamento recursal”.
+    Requer que seja dado provimento ao recurso a fim de sanar os vícios mencionados, “de modo a serem sanadas as omissões e reconhecido que todos os requisitos de admissibilidade do recurso de Agravo Interno foram preenchidos e, por consequência, será dado prosseguimento com o julgamento do mérito nele discutido, como de direito”.
+    É o relatório. Decido.
+    A decisão embargada não incorreu em quaisquer das hipóteses previstas no art. 1.022 do Código de Processo Civil, ensejadoras da oposição do recurso aclaratório.
+    Conforme mencionado na decisão embargada, o art. 321, parágrafo único, do CPC, prescreve que “[s]e o autor não cumprir a diligência, o juiz indeferirá a petição inicial”. No caso, ante a análise liminar da reclamação, a determinação de emenda foi diferida para o momento de eventual interposição de recurso contra a negativa de seguimento do pedido. Transcrevo a decisão agravada, na parte de interesse:
+    “Observo que a parte reclamante não cumpriu integralmente os requisitos da petição inicial, deixando de atribuir valor à causa, bem como de indicar o endereço no qual a parte beneficiária deverá ser citada para integrar a presente reclamação (arts. 291 e 989, III c/c art. 319, incisos II e V, do CPC/2015)
+    Deixo de determinar sua emenda (art. 321 do CPC) ante o indeferimento liminar da inicial. Entretanto, na eventualidade de interposição de recurso desta decisão, seu conhecimento fica condicionado ao saneamento dos defeitos juntamente com a peça recursal, oportunidade em se procederá à análise a correção do valor da causa e eventual juízo de adequação (CPC/2015, art. 292, §3º).”.
+    A partir desse contexto, consignei na decisão recorrida que o agravante (ora embargante), em sua peça recursal, não atribuiu valor à causa e nem indicou endereço da parte beneficiária para fins de realização do ato citatório, não cumprindo, portanto, a referida determinação.
+    Assim, entendo que a decisão reclamada não incorre em omissão, obscuridade, contradição ou erro material, razão pela qual rejeito os embargos declaratórios e determino a aplicação de multa do art. 1.026, § 2º, do CPC, a qual fixo em R$ 300,00 (trezentos reais) ante a ausência de indicação do valor da causa, cuja execução deverá ser realizada no juízo de origem.
+    Extraia-se cópia desta decisão e envie-se à autoridade reclamada para que junte aos autos do processo, dando ciência à parte beneficiária da decisão reclamada para que proceda como entender de direito.
+    Publique-se. Int..
+    Brasília, 8 de novembro de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
