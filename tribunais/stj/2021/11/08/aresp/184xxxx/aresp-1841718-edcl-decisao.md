@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que conheceu do agravo e deu parcial provimento ao recurso especialpara determinar o retorno dos autos ao Tribunal de origem, a fim de que julguenovamente a apelação, levando em consideração a jurisprudência desta Corte Superior(obrigatoriedade do rol de procedimentos da ANS) e as circunstâncias fáticas e contratuais inerentes à causa.
+Sustenta a parte embargante que há contradição na decisão embargada, pois a questão referente "ao registro do medicamento na ANVISA e a sua indispensabilidade, não é objeto da controvérsia", considerando-se, sobretudo,que "o medicamento em testilha possui registro na ANVISA", circunstância que, "por si só, afasta o equívoco no tocante à suscitada divergência com relação à jurisprudência do Superior Tribunal de Justiça" (fl. 662).
+Defende que, de acordo com a jurisprudência desta Corte Superior,"em situações excepcionais, o Juízo pode determinar a cobertura de procedimento que se verifique efetivamente imprescindível a garantir a saúde do beneficiário", bem como assevera que"a natureza do rol da ANS, se taxativa ou se exemplificativa, é desimportante à análise do dever de cobertura de medicamentos para o tratamento do câncer", tal como ocorre na hipótese dos autos, não se justificando, portanto, o retorno dos autos à origem para novo julgamento (fls. 666/667).
+Impugnação não apresentada.
+Assim delimitada a questão, passo a decidir.
+Inicialmente, ressalto que, nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis quando há obscuridade, contradição, omissão ou erro material no julgado.
+No caso, adecisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, de modo quenão se verifica a apontada contradição no julgado.
+Verifico, entretanto,que a decisão contém erro material, pois registraque esta Corte Superior "já reconheceu a indispensabilidade do registro do medicamento na ANVISA para que a obrigação de custear o fármaco pleiteado seja imposta ao plano de saúde" (fl. 655), ao passo que a questão discutida no recurso especial e toda a fundamentação da decisão refere-seàobrigatoriedade de previsão,no rol de procedimentos da ANS,do tratamento médico indicado ao paciente.
+Assim, impõe-se a correção do erro material identificado, de modo que façoconstar na decisão embargada, em substituição ao trecho supracitado,que esta Corte Superior "já reconheceu que as operadoras de plano de saúde não estão obrigadas a custeartratamento médico não incluído no rol de procedimentos na ANS".
+Quanto ao mais, anoto queos embargos de declaração não se prestam ao reexame decontrovérsia ou ao prequestionamento de matéria que, segundo a ótica da parte, deveria conduzir a solução do litígio.
+Nesse sentido, veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016.)
+Desse modo, as alegações da parte embargante, quanto ao mérito da causa, não têm cabimento na via eleita.
+Em face do exposto, acolho parcialmente os embargos de declaração, sem efeitos infringentes,para sanar o erro material, nos termos acima explicitados.
+Intimem-se.
