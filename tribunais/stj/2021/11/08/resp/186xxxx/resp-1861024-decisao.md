@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por TELEFÔNICA BRASIL S.A. com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"Telefonia. Plano de expansão. Adesão do Autor em 1996, com posterior venda das ações. Novo julgamento em cumprimento Recurso Especial nº. 1.455.595-SP, que afastou o decreto de Ilegitimidade ativa ad causam. Prescrição. Inocorrência. Natureza pessoal. Pretensão que prescreve nos prazos previstos nos artigos 177 do Código Civil/1916 (20 anos) e 205 do atual Código Civil (10 anos). Quantidade das ações que deve ser calculada com base na data do mês do balancete da integralização, e não da subscrição. Súmula 371 do STJ. Base de cálculo dos valores das ações, fixada segundo a cotação do fechamento do pregão na Bolsa de Valores, à data do trânsito em julgado da ação de complementação de ações. Entendimento em consonância com a decisão estampada no REsp. nº 1.301.989-RS, nos termos do artigo 543-C do CPC. Recurso parcialmente provido" (fl. 287 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 304/308 e-STJ).
+Em suas razões (fls. 311/327 e-STJ), a recorrente alega violação do art. 1.022, caput e incisos I, II e III, do Código de Processo Civil de 2015 e art. 884 do Código Civil, bem como divergência jurisprudencial. Sustenta, em síntese, que
+"(..) O E. Tribunal a quo simplesmente ignorou e foi omisso quanto ao critério a ser utilizado para a apuração de eventual indenização e o termo a quo para a incidência da correção monetária para eventual diferença acionária.
+(..)
+A ora recorrente foi condenada a indenizar a parte recorrida eventual diferença acionária relativamente a contratos de participação financeira. Ocorre que a decisão ora recorrida não considerou os eventos societários ocorridos entre a emissão das ações e a data do trânsito em julgado para cálculo da diferença acionária e conversão em perdas e danos.
+(..)
+(..) em relação à necessidade de observância os eventos societários, o acórdão restou silente. Provocado em embargos de declaração a se manifestar sobre o tema, manteve-se silente.
+Isto é, estabeleceu o acórdão ora recorrido que (a) deve a Companhia ora exponente efetuar o pagamento da diferença acionária encontrada no momento da emissão das ações (Súmula 371 do STJ) (b) com base no valor atual das ações (cotação do trânsito em julgado), sem considerar, entretanto, todos os eventos societários que ocorreram nestes mais de 20 anos. Ou seja, para fins de cálculo, determinou a utilização da cotação das ações na data do trânsito em julgado, mas, de forma equivocada, sem considerar os eventos societários" (fls. 316/319 e-STJ).
+Contrarrazões às fls. 352/355 (e-STJ).
+O recurso foi admitido às fls. 357/359 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+No que tange ao art. 1.022 do Código de Processo Civil de 2015, não há falar em negativa de prestação jurisdicional se o Tribunal local, ainda que por fundamentos distintos daqueles apresentados pelas partes, adota fundamentação suficiente para decidir integralmente a controvérsia.
+Frisa-se que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador. A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+No tocante ao grupamento de ações, o Superior Tribunal de Justiça tem jurisprudência sedimentada, em julgamento que seguiu o rito dos recursos repetitivos, no sentido de que o cálculo da indenização correspondente ao resíduo acionário deve considerar as operações de grupamento de ações realizadas pela companhia telefônica.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OI S.A. SUBSCRIÇÃO DE AÇÕES. CÁLCULO DO VALOR INDENIZATÓRIO. GRUPAMENTO ACIONÁRIO. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. No julgamento do Recurso Especial n. 1.387.249/RS (Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 26/2/2014, DJe 10/3/2014), submetido à sistemática dos recursos repetitivos (art. 543-C do CPC/1973), esta Corte Superior firmou entendimento de que devem ser considerados, para o cálculo do número de ações devidas, os eventos societários ocorridos entre a data em que emitidas e a do trânsito em julgado da demanda. Incidência da Súmula n. 83/STJ.
+2. Agravo interno a que se nega provimento" (AgInt no AREsp 1.289.689/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 20/9/2018, DJe 28/9/2018).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. 1. DOBRA ACIONÁRIA. LEGITIMIDADE PASSIVA. BRASIL TELECOM. SUCESSORA. TELEPAR. PRECEDENTES. 2. COMPLEMENTAÇÃO DE AÇÕES. BASE. NÚMERO DE AÇÕES. AGRUPAMENTO. APURADO. BALANCETE MENSAL. 3. AGRAVO IMPROVIDO.
+(..)
+2. Por ocasião do julgamento do REsp n. 1.387.249/SC, sob o rito dos recursos especiais repetitivos, a Segunda Seção deixou estabelecido que, nessas ações movidas contra empresas de telefonia em que se busca a complementação de ações, a quantidade de ações relativas à companhia sucessora será calculada tomando-se por base o número de ações apurado no balancete mensal, multiplicado por um fator de conversão, que compreende o grupamento de ações.
+3. Agravo interno a que se nega provimento" (AgInt no REsp 1.743.613/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 11/9/2018, DJe 21/9/2018).
+No julgamento do repetitivo (REsp 1.387.249/SC), foi consolidado o entendimento de que as operações de grupamento de ações devem ser consideradas no cálculo, inclusive na fase executiva, sem que isso importe ofensa aos limites da coisa julgada.
+A propósito:
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. TELEFONIA. EVENTOS SOCIETÁRIOS. INCLUSÃO NA FASE DE CUMPRIMENTO DE SENTENÇA OU EXECUÇÃO. AFRONTA À COISA JULGADA. NÃO CARACTERIZAÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+2. Agravo interno a que se nega provimento" (AgInt nos EDcl no AREsp 1.138.129/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/6/2019, DJe 7/6/2019).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO ACIONÁRIA. CUMPRIMENTO DE SENTENÇA. OMISSÃO. INEXISTÊNCIA. GRUPAMENTO ACIONÁRIO. INCORPORAÇÃO. COISA JULGADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao art. 535 do Código de Processo Civil de 1973.
+2. No cálculo do quantitativo de ações devidas relativas à companhia sucessora, deverá ser observado o número de ações multiplicado por um fator de conversão que engloba o grupamento de ações (Recurso Especial repetitivo nº 1.387.249/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe de 10/03/2014).
+3. Não se pode desconsiderar, no cálculo da indenização relativa a complementação acionária, os eventuais grupamentos de ações e incorporações ocorridos na empresa de telefonia, até o trânsito em julgado da sentença condenatória, porquanto essas operações representam uma realidade no mercado de ações e, portanto, torna-se possível sua inclusão na fase executiva, sem ensejar ofensa aos limites da res iudicata. Precedentes.
+4. Agravo interno a que se nega provimento" (AgInt no REsp 1.420.788/RS, Rel. Desembargador Convocado LÁZARO GUIMARÃES, Quarta Turma, julgado em 7/6/2018, DJe 15/6/2018).
+Ante o exposto, dou parcial provimento ao recurso especial para determinar a observância das operações de grupamento de ações no cálculo do valor da indenização.
+Publique-se.
+Intimem-se.
