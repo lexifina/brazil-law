@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por JOSÉ NATAL FERRARI, JOSÉ NATAL FERRARI - MADEIRAS e VALDEMIR RIGIERI contra decisão singular, desta relatoria, que negou provimento ao agravo em recurso especial, em razão da incidência da Súmula n. 7 do Superior Tribunal de Justiça, quanto à existência de ato ilícito e à concessão dos benefícios da assistência judiciária (e-STJ fls. 1.913/1.919).
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 1.938/1.945).
+Sustenta a parte agravante que (e-STJ fls. 1.952/1.954):
+ ..
+Todavia, cumpre salientar que os Agravantes, já em suas razões do Especial, evidenciaram de maneira cristalina que NÃO HÁ NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO.
+A discussão a ser travada por esta C. Corte é a aplicação ou não da excludente de ilicitude do Código Civil que resultou na improcedência da demanda, ou seja, aplicação de legislação infraconstitucional, dadas determinadas circunstâncias fáticas.
+Para tanto, os Agravantes embargaram junto ao Tribunal "a quo" no sentido de corroborar os fatos incontroversos dos autos, quais sejam:
+a) auditoria que constatou NÃO HAVER indício de ilícito penal a ser investigado;
+b) a preocupação comercial da empresa com seu negócio.
+ ..
+Saliente-se que tais fatos evidenciam a má-fé da Agravada na denúncia criminal de uma situação que sabia não ser decorrente de um crime, mas lhe causava temor comercial que motivou a denúncia infundada, e que por consequência, deveria resultar em obrigação de indenizar.
+ ..
+É uma questão de premissas fáticas.
+Estando presentes no acórdão recorrido (e estão) as premissas fáticas que ensejam a aplicação das normas da Responsabilidade Civil, a condenação da Agravada é medida que se impõe.
+Isto porque, em sendo incontroversos tais fatos, caberia à esta C. Corte, nestas circunstâncias fáticas, entender se é aplicável ou não a excludente de ilicitude, dada a má-fé de uma denúncia sabidamente descabida.
+ ..
+Todavia, este não é o caso dos autos, pelo que, não há a menor necessidade de reexame fático-probatório, sendo assim, inaplicável a Súmula 7 do C. STJ.
+É preciso reforçar: cabe à esta Colenda Corte a tarefa de saber se dada os fatos incontroversos acerca da conduta e motivação da Agravada se resta caracterizada ou não a má-fé, aplicando-se ou não o excludente de ilicitude no presente caso.
+ ..
+Por fim, requerem o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado (e-STJ fls. 1.949/1.955).
+Impugnação às fls. 1.960/1.971 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CONHECIDO.
+1. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos artigos 932, III, e 1.021, § 1º, do estatuto processual civil de 2015. Precedentes.
+2. Agravo interno não conhecido.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Cumpre transcrever, inicialmente, a ementa do acórdão recorrido do Tribunal de Justiça do Estado do Paraná (e-STJ fl. 1.716):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - APRESENTAÇÃO DE NOTITIA CRIMINIS - INDÍCIOS DE POSSÍVEL CRIME DE RECEPTAÇÃO - EXERCÍCIO REGULAR DE DIREITO - NÃO CONFIGURAÇÃO DE MÁ-FÉ OU ILICITUDE DA CONDUTA DA RÉ - INVESTIGAÇÃO DE CONDUTA SUSPEITA - ART. 188, I DO CÓDIGO CIVIL - RESPONSABILIDADE CIVIL NÃO CARACTERIZADA - AUSÊNCIA DE LITIGÂNCIA DE MÁ-FÉ - HIPÓTESES DO ART. 80 DO CPC NÃO VERIFICADAS - SENTENÇA MANTIDA.
+RECURSO DE APELAÇÃO NÃO PROVIDO.
+Da análise dos autos, observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Da leitura do agravo interno, constata-se que não houve impugnação específica dos fundamentos da decisão agravada, tendo em vista que a aplicação do verbete sumular n. 7 do Superior Tribunal de Justiça, quanto à concessão dos benefícios da assistência judiciária não foi combatida nas razões do presente recurso, incidindo, portanto, a Súmula n. 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015 (correspondentes aos artigos 544, § 4º, I, e 545 do Código de Processo Civil de 1973), segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito, ratificou o referido entendimento o recente precedente desta Corte Especial, firmado por ocasião do julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 746.775/PR, do qual foi relator para acórdão o eminente Ministro Luis Felipe Salomão.
+Na ocasião, o Colegiado, por maioria, decidiu que não há possibilidade de impugnação parcial da decisão que deixa de admitir o recurso especial, uma vez que implicaria exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em manifestar-se no momento oportuno, pois o conhecimento do agravo obriga o Superior Tribunal de Justiça a conhecer de todos os fundamentos do recurso especial.
+Confira-se a ementa do mencionado julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018 - sem destaques no original).
+Nessa mesma linha de raciocínio, o seguinte precedente que elucida a aplicação do verbete sumular n. 182 desta Corte Superior, neste caso, ante a ausência de impugnação específica de todos os pontos analisados na decisão recorrida, no que diz respeito ao agravo interno interposto:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE COMPRA E VENDA. DECADÊNCIA. INAPLICABILIDADE. LESÃO. PREENCHIDOS OS REQUISITOS OBJETIVO E SUBJETIVO. RETORNO AO STATUS QUO ANTE. AGRAVO INTERNO SEM IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE.
+ ..
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018).
+3. Idêntico raciocínio, por critério lógico, deve ser utilizado no julgamento do agravo interno interposto contra decisão em sede de agravo em recurso especial, máxime porque os argumentos do recurso colegiado devem impugnar justamente a temática dos pressupostos de admissibilidade apreciados no decisum unilateral, pressupostos estes, conforme salientado alhures, inseparáveis por natureza.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgInt no AREsp n. 1.144.143/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/6/2019, DJe 1º/7/2019 - sem destaques no original).
+Em face do exposto, não conheço do agravo interno.
+É como voto.
