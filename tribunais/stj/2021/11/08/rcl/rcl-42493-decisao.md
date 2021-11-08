@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada por LUCIANO FERNANDO DE OLIVEIRA FERNANDES, com fundamento nos arts. 105, I, alínea f, da Constituição da República, e 187 a 192 do Regimento Interno do Superior Tribunal.
+O reclamante alega que a decisão impugnada descumpre ordem de habeas corpus emanada por esta Relatoria no writ n. 659.377/SP. Na oportunidade,esta Corte determinou a realização de nova análise da possibilidade de progressão de regime.
+Esclarece o reclamante que, em cumprimento à ordem deste Superior Tribunal de Justiça, a Juíza de Direito da Vara das Execuções Penais de São Vicente determinou a submissão do reclamante a exame criminológico, na data de 26/5/2021. Entretanto, aponta que até a presente data, o exame não foi concluído por ainda estar pendente o relatório de médico psiquiatra. Nestes termos, ressalta que, passados mais de 6 meses da decisão deste STJ e mais de 4 meses da determinação judicial para o exame, o reclamante continua em regime mais gravoso do que o devido.
+Por isso, alega desrespeito à decisão deste Tribunal.
+Nestes termos, requer a determinação da imediata apreciação do pedido de progressão para o regime aberto e, além disso, que o reclamante seja mantido nesse regime até a realização dos exames faltantes.
+É o relatório.
+Decido.
+De acordo com o art. 105, I, "f", da Constituição Federal, cabe ao Superior Tribunal de Justiça processar e julgar, originariamente, "a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões".
+No caso, verifique-se não haver afronta à decisão desta Corte.
+Como se vê da própria petição inicial, este Superior Tribunal de Justiça, no habeas corpus n. 659.377/SP, não ordenou a imediata progressão de regime. Apenasreconheceu a inidoneidade da fundamentação utilizada pelas instâncias de origem e, por isso, determinou a realização de novo exame do pleito defensivo.
+Em cumprimento à determinação desta Corte, o Juízo de origem destacou as peculiaridades do caso:
+Não obstante o cumprimento do requisito objetivo para concessão da progressão de regime, resta que se avalie, com parcimônia, o requisito subjetivo para tanto.
+Não se pode ignorar que o caso aqui tratado merece redobrada cautela, levando-se em conta os crimes praticados pelo sentenciado e o fato de que ainda resta longa pena a ser cumprida, posto que o término de cumprimento de pena está previsto para 25/02/2041.
+No caso em testilha, constata-se que o executado foi condenado pela prática de crimes de roubo majorado e extorsão mediante sequestro, restando quase 20 anos de pena a cumprir.
+Assim, afigura-se recomendável maior dose de cautela quanto à inclusão do sentenciado em sistemas mais brandos de cumprimento de pena. (e-STJ, fl. 8; grifou-se).
+E, na data de 26/5/2021, com base nessas peculiaridades, determinou a realização de exame criminológico:
+Diante do exposto, determino a realização de exame criminológico do sentenciado Luciano Fernando de Oliveira Fernandes, com participação de médico(a) psiquiatra.
+Oficie-se à Coordenadoria de Saúde da Secretaria da Administração Penitenciária, a fim de solicitar agendamento para realização de exame por médico(a) psiquiatra, para progressão ao regime aberto.(e-STJ, fl. 8).
+Logo, não é possível concluir haver descumprimento da ordem emanada desta Corte. O Magistrado prolator da decisão reclamada, tão logo tomou ciência da decisão concessiva da ordem de habeas corpus, adotou todas as providências que lhe eram cabíveis. Observe-se que o trâmite procedimental do exame criminológico está em curso e, conforme a própria defesa reconhece:"os relatórios do exame criminológico estão todos prontos, FALTANDO apenas o relatório de médico psiquiatra" (e-STJ, fl. 6; grifou-se).
+Note-se ainda que a defesa afirma que "a UNIDADE PRISIONAL NÃO POSSUI  médico psiquiatra , ficando a mercê do agendamento e realização por outra Unidade Prisional." (e-STJ, fl. 6). Assim, é possível observar que, se há mora, ela não é imputável ao Magistrado. E, mais importante, a atual insurgência da defesa (demora na realização do exame criminológico) não está abrangida pela ordem de habeas corpus concedida no writ 659.377/SP(novo exame da progressão de regime, ante a insuficiência da fundamentação anterior). Dessa forma, inviável o manejo da reclamação.
+A propósito,"oart. 988 do Código de Processo Civil dispõe sobre as hipóteses de cabimento da reclamação, dentre as quais: preservar a competência do tribunal, garantir a autoridade das decisões do tribunal ou garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência, não se enquadrando a presente reclamação em tais hipóteses." (AgRg na Rcl 39.269/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 12/02/2020, DJe 17/02/2020.) Nesse sentido, de rigor a inadmissibilidade do pedido.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, "a", do RISTJ, indefiro liminarmente a reclamação.
+Publique-se. Intime-se.
+Cientifiquem-se o Ministério Público Federal e o interessado.
