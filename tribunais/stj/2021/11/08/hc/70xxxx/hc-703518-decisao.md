@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAFAEL HENRIQUE DA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus criminal n. 2217343-59.2021.8.26.0000/SP).
+Consta que o paciente foi condenado, em primeira instância, pela prática do crime de receptação dolosa (art. 180, caput, do Código Penal), à pena de um ano e dois meses de reclusão, em regime semiaberto, e de pagamento de 11 (onze) dias-multa, à razão mínima legal.
+Não tendo sido interposto recurso, a sentença transitou em julgado para ambas as partes em 7/6/2021 (fls. 17).
+No presente writ, a defesa sustenta que o paciente faz jus à substituição da pena privativa de liberdade por pena restritiva de direitos, nos termos do artigo 44, Código Penal, tendo em vista que a pena cominada não foi superior a 4 anos e o crime não foi cometido com violência ou grave ameaça à pessoa.
+Acrescenta que as circunstâncias judiciais são favoráveis ao paciente, tanto assim que a pena-base foi fixada no mínimo legal, e que, de acordo com a folha de antecedentes em anexo, o paciente ostenta uma única condenação anterior, sendo que a reincidência não é específica.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja substituída a pena privativa de liberdade por restritivas de direitos, nos termos do artigo 44, § 3º do Código Penal, com a expedição de alvará de soltura em favor do paciente.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Inicialmente, deve ser destacado que no voto condutor do acórdão, o Tribunal de origem assim se pronunciou (fls. 11-13):
+Vistos.
+O Advogado NATAN TERTULIANO ROSSI impetra a presente ordem de Habeas Corpus, com pleito de liminar, em favor de RAFAEL HENRIQUE DA SILVA, sendo apontada como autoridade coatora a MMª Juíza de Direito da 4ª Vara Criminal de São José do Rio Preto.
+Segundo consta, RAFAEL foi processado e ao final irrecorrivelmente condenado pelo crime de receptação dolosa a uma pena carcerária de um ano e dois meses de reclusão, em regime semiaberto.
+Com o trânsito em julgado da r. sentença condenatória, da qual não foi interposto recurso, foi expedido -- e, agora, cumprido -- o mandado de prisão respectivo.
+Vem, agora, o combativo impetrante em busca da substituição da privação de liberdade por restritivas de direitos, operação ignorada pela nobre Magistrada ora apontada como coatora, embora o paciente a ela fizesse jus, posto reincidente "genérico" ou heterogêneo, tudo conforme dispõe o artigo 44, § 3º, do Código Penal.
+Esta, a suma da impetração.
+Liminar indeferida.
+Dispensadas as informações, sobreveio o parecer Ministerial propondo o não conhecimento da ordem.
+É o quanto cumpria relatar.
+Voto.
+Cuidando-se de sentença condenatória transitada em julgado, incabível qualquer decisão que venha a desconstitui-la, ainda que parcialmente.
+Ademais, o Habeas Corpus não se presta, em regra, à revisão dos julgados.
+Em face do exposto, meu voto aponta para a denegação da ordem.
+Como se vê, o Tribunal de origem não apreciou o mérito da impetração, sob o fundamento de que não foi interposto o recurso próprio contra a sentença, e já houve o trânsito em julgado da condenação,de forma que a insurgência constituiria sucedâneo de revisão criminal.
+A orientação adotada, contudo, diverge do entendimento desta Corte de que, ainda que cabível a revisão criminal, admite-se a impetração de habeas corpus, remédio constitucional reconhecidamente mais célere, para ver sanada ilegalidade flagrante, com reflexos na liberdade de locomoção do paciente, quando o exame do constrangimento ilegal não exigir análise aprofundada da prova dos autos, como no caso em tela.
+A propósito, mutatis mutandis:
+EXECUÇÃO PENAL. RECURSO EM HABEAS CORPUS. PROGRESSÃO DE REGIME PRISIONAL INDEFERIDA PELO JUÍZO DAS EXECUÇÕES CRIMINAIS. FALTA GRAVE. INTERRUPÇÃO DA CONTAGEM DO LAPSO TEMPORAL PARA OBTENÇÃO DA BENESSE. NÃO CONHECIMENTO DO WRIT PELA CORTE DE ORIGEM, POR SER SUBSTITUTIVO DE AGRAVO EM EXECUÇÃO. INEXISTÊNCIA DE APRECIAÇÃO DE EVENTUAL CONSTRANGIMENTO ILEGAL. PROVIMENTO DA IRRESIGNAÇÃO, APENAS PARA DETERMINAR AO TRIBUNAL ESTADUAL QUE VERIFIQUE A EXISTÊNCIA DE EVENTUAL ILEGALIDADE PERPETRADA EM DESFAVOR DO RECORRENTE.
+1. Na hipótese, verifica-se que o Tribunal estadual não conheceu do habeas corpus impetrado na origem (HC n. 0070986-52.2015.8.19.0000), por ser substitutivo de recurso próprio.
+2. O Superior Tribunal de Justiça, secundando orientação do Supremo Tribunal Federal, não mais admite a utilização do habeas corpus como substituto do recurso próprio, assim também não o fazendo as instâncias ordinárias, de modo a não frustrar a sua finalidade que é a de atuar de forma célere e efetiva no caso de manifesta violência ou coação à liberdade de locomoção do cidadão por ilegalidade ou abuso de poder (art. 5º, LXVIII, da CF).
+3. Assim, verificada hipótese de impetração de habeas corpus em lugar do instrumento próprio, de rigor o seu não conhecimento, a menos que constatada ilegalidade flagrante, caso em que a ordem pode ser concedida de ofício, como forma de cessar o constrangimento ilegal.
+4. In casu, constata-se que o Tribunal estadual limitou-se ao não conhecimento do writ originário, sem avaliar a existência de eventual ilegalidade perpetrada em desfavor do ora recorrente. Muito embora tecnicamente correta a decisão, nos moldes da orientação do STJ e do STF, é indispensável que se afaste por completo a existência de flagrante constrangimento ilegal, sob pena de ofensa ao art. 5º, LXVIII, da CF.
+5. Nesse contexto, a solução passa pelo retorno dos autos ao Tribunal de origem para que examine a fundamentação expendida pelo impetrante, ora recorrente, relativa ao cumprimento dos requisitos objetivo e subjetivo concernentes à progressão de regime prisional, como entender de direito.
+6. Recurso em habeas corpus provido, para determinar que a Corte a quo aprecie a existência de eventual constrangimento ilegal perpetrado em desfavor do recorrente. (RHC 69.521/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/05/2016, DJe 25/05/2016.)
+PROCESSUAL PENAL. HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. HABEAS CORPUS ORIGINÁRIO NÃO CONHECIDO PELO TRIBUNAL DE ORIGEM POR SUPOSTA INADEQUAÇÃO DA VIA ELEITA. QUESTÃO DE DIREITO QUE INDEPENDE DA ANÁLISE FÁTICO-PROBATÓRIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RETORNO DOS AUTOS À ORIGEM. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. O Superior Tribunal de Justiça não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), tampouco à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+2. Hipótese em que o Tribunal de origem não conheceu da impetração originária - versando sobre a legalidade na imposição do regime inicial fechado -, por suposta inapropriação da via eleita. Não tendo havido o exaurimento da matéria pelas instâncias de origem, inviável a apreciação por esta Corte Superior de Justiça, sob pena de supressão de instância.
+3. Tratando-se de matéria exclusivamente de direito, não demandando revolvimento fático-probatório, inexiste óbice à análise do pedido formulado no habeas corpus originário, ainda que de ofício, nos termos do art. 654, §2º, do CPP. Precedentes.
+4. Writ não conhecido. Ordem concedida, de ofício, para determinar, o retorno da impetração ao Tribunal de 2º Grau para que este examine o mérito do Habeas Corpus originário, decidindo como entender de direito, mormente quanto à possibilidade de concessão da ordem, de ofício. (HC 349.445/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 12/04/2016, DJe 22/04/2016.)
+Ante o exposto, não conheço da ordem, mas concedo habeas corpus, de ofício, para determinar o retorno dos autos ao Tribunal de origem para que examine o mérito da impetração originária, como entender de direito.
+Comunique-se.
+Publique-se.
+Intimem-se.
