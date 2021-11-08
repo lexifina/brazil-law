@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MUNICÍPIO DA SERRA à decisão de fls. 793/794, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Entrementes, respeitosamente, tem-se que a decisão ora embargada laborou em erro material na medida em que, no lapso temporal referente ao prazo para apresentação do recurso os prazos processuais estavam suspensos, inclusive por decis ao do CNJ, em razão das medidas sanitárias de isolamento decorrentes da Pandemia de COVID-19 - Novo Corona Vírus, em todo o País, inclusive nesse Tribunal, como se vê nas Resoluções STJ/GP N.º 05, 08 e 19, vejam-se: (fls. 801/802).
+ ..
+Assim, para melhor compreensão da situação tem-se que, ainda que se considere o início da fluência do prazo em 05/02/2020 tem-se que seu fim seria em 20/03/2020, considerando o feriado nacional de Carnaval, dia em que já vigoravam as medidas sanitárias de isolamento social e ainda a suspensão dos prazos processuais.
+Assim, em que pese a notoriedade da situação pandêmica, fato reconhecidamente de força maior, tem-se que durante a fluência do prazo e mesmo após o seu término, seja pela suspensão dos prazos, seja pela impossibilidade de devolução dos autos físicos e protocolização de peças processuais em razão do fechamento dos Tribunais e suspensão dos serviços do Poder Judiciário assim, respeitosamente, não há que se falar em ocorrência de feriado local não comprovado, tampouco intempestividade do recurso em razão de tal fato (fl. 802).
+ ..
+Neste contexto, seja considerando as consecutivas suspensões de prazo ocorridas durante a situação pandêmica, por força das Resoluções STJ/GP N.º 05, 08 e 19, seja considerando o Art. 223, § 1.º do NCPC, tem-se que o agravo em questão é tempestivo (fl. 804).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Inicialmente, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+Ademais, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso, providência que não foi cumprida na apresentação recurso.
+A propósito, confira-se este precedente:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. Ação de indenização e compensação - respectivamente - por danos materiais e morais.
+2. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do apelo.
+4. Agravo interno não provido.
+(AgInt no AREsp 1667307/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe 28/05/2020.)
+Ressalte-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+A propósito: AgRg no AREsp 1774897/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/06/2021; AgInt no AREsp 1724837/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 16/06/2021; AgInt no AREsp 1756715/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1757717/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
