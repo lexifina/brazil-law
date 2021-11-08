@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUIZ RODRIGO DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n.0008380-61.2021.8.26.0071
+Consta dos autos que o Juízo das Execuções Criminais indeferiu pedido de retificação do cálculo de penas para fins de progressão de regime, considerando o lapso temporal de 3/5 (60%), por ser o réu reincidente (e-STJ, fls. 32/33).
+Inconformada, a defesa apresentou Agravo em Execução, perante a Corte estadual, pugnando, dentre outros argumentos, pela retificação do cálculo de penas do sentenciado. O Tribunal, contudo, denegou a ordem, nos termos da seguinte ementa (e-STJ, fl. 16):
+AGRAVO EM EXECUÇÃO PENAL DECISÃO DE 1º GRAU QUE APLICOU A FRAÇÃO DE 60% (SESSENTA POR CENTO) PARA CÁLCULO DE BENEFÍCIOS INSURGÊNCIA DEFENSIVA COM PEDIDO DE RETIFICAÇÃO DO CÁLCULO DA PENA SOB O ARGUMENTO DE QUE NÃO É REINCIDENTE EM CRIMES HEDIONDOS- DESCABIMENTO SENTENCIADO REINCIDENTE NA PRÁTICA DO DELITO DE TRÁFICO DE DROGAS IMPOSSIBILIDADE DE APLICAÇÃO DO PERCENTUAL DE 40% PREVISTO NO INCISO V, DO ARTIGO 112, DA LEP DECISÃO MANTIDA RECURSO IMPROVIDO.
+Na presente impetração, a defesa relata que o paciente é reincidente simples em crime comum, de modo que o lapso aplicável ao caso do sentenciado é de 40% (quarenta por cento) para progressão de regime.
+Argumenta que se de um lado o executado não é primário, como mencionado pelo inciso V, do artigo 112 da Lei de Execução Penal, de outro, não é reincidente específico, como expressamente exige o inciso VII do mesmo artigo; e, dessa forma, deverá ser aplicada a norma mais favorável, como consequência lógica do princípio do favor rei.
+Pede, assim, liminarmente e no mérito, a retificação do cálculo de penas para constar o prazo de 40% (quarenta por cento) para fins de progressão de regime prisional.
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+No caso, o presente habeas corpusapresenta o mesmo paciente, mesmo pedido e mesma causa de pedir constante do HC n. 688.706/SP, embora contra ato coator diverso.
+Assim, por se tratar de mera reiteração, o presente writ não pode prosseguir. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE. 1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015. 2. Agravo regimental improvido. (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1 o /9/2015, DJe 22/9/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
