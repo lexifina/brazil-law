@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim relatado (fls. 81/82):
+1. Trata-se de Habeas Corpus, com pedido liminar, impetrado por ilustre advogado em favor de Felipe José da Silva, sob o argumento de que o paciente (denunciado por tráfico de substância entorpecente) sofre constrangimento ilegal por parte do E. Juízo de Direito da 2a Vara da Comarca de Itapira nos autos do Processo nº 1500539-17.2021.8.26.0272, consistente na conversão da prisão flagrancial em preventiva.
+Postula-se a revogação sob os seguintes argumentos: a) "o paciente NEGA peremptoriamente a autoria delitiva" (fls. 02); b) a r. decisão hostilizada possui fundamentação inidônea; c) diante "da crise sanitária e de saúde pública causada pela pandemia do coronavirus (COVID-19), que também indica a cautela em se manter o cidadão dentro de sua residência" (fls. 06); d) Felipe José "possui RESIDÊNCIA FIXA. É PRIMÁRIO. NÃO POSSUI ANTECEDENTES. MENOR DE 21 ANOS. FAMÍLIA IDÔNEA E TRABALHO LÍCITO" (fls. 07).
+Recusada a tutela preambular (fls. 66/7), prestou informações a honrada autoridade apontada como coatora (fls. 69/70). Sobreveio parecer da douta
+Procuradoria de Justiça especializada no sentido da denegação (fls. 75/8).
+Consta dos autos que o recorrente foi preso em flagrante, prisão convertida em preventiva, pela prática do crime previsto no artigo 33 da Lei 11.343/06.
+No presente recurso, a defesa sustenta que a decisão que decretou a prisão preventiva carece de fundamentação idônea, por ter se baseado na gravidade abstrata da conduta, e por estarem ausentes os pressupostos previstos no art. 312 do CPP.
+Requer o provimento do recurso para concedera liberdade provisória.
+No mérito, requer a concessão definitiva da ordem, a fim de que seja revogada a prisão preventiva do recorrente.
+Sem pedido liminar e informações. O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Na origem, ação penal n.1500539-17.2021.8.26.0272, os autos foram conclusos para sentença em 26/10/2021, conforme informações eletrônicas disponíveis em 28/10/2021.
+Consoante preambulado no exame da liminar, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+No caso, consta do decreto prisional que (fl. 51):
+ ..  Outrossim, o crime imputado é concretamente grave, tendo em vista que o autuado foi apreendido em pleno exercício da venda ilícita, em poder de considerável quantidade de cocaína, substância de efeito devastador ao ser humano, e, conforme certidão de fls. 24, já se envolveu com o tráfico de drogas quando menor de idade, o que demonstra, em cognição sumária, estar envolvido com o comércio espúrio nesta cidade, reforçando a necessidade da conversão, principalmente para a garantia da ordem pública, pois uma vez solto, certamente voltaria a delinquir.
+No caso, a concessão das medidas cautelares diversas da prisão mostra-se inadequada e insuficiente, uma vez que o simples comparecimento periódico em Juízo não impediria o acusado de tornar a praticar delitos.
+Da mesma forma, as proibições previstas no artigo 319 do Código de Processo Penal não seriam eficazes para impedi-lo de traficar drogas cm locais não abrangidos pela decisão judicial, demonstrando a ineficácia das medidas.
+Nesse contexto, conclui-se que a substituição da prisão preventiva por medidas cautelares diversas da prisão ou a concessão de liberdade provisória não é recomendável, já que são inadequadas c insuficientes.
+Com efeito, a ordem pública é ofendida quando a conduta do agente provoca algum impacto na sociedade, lesando valores significativamente importantes. Também é ofendida quando o agente dá mostras de seu desprezo pela legislação, praticando condutas ilícitas dolosas, apostando na impunidade.
+Também é oportuno observar que a prisão cautelar, seja a decorrente de flagrante ou a decretada preventivamente, não ofende o princípio da presunção de inocência constitucional mente previsto ou caracteriza execução antecipada da pena antes da decisão condenatória.
+Trata-se, em realidade, de medida acautelatória processual que visa por fim à prática criminosa e assegurar a materialidade do fato e de sua autoria, não contrariando aludido princípio, como já decidido pelo Supremo Tribunal Federal: ..
+Como se vê, consta do decreto prisional fundamentação que se mostra idônea para a custódia cautelar, lastreada na gravidade concreta da conduta, na necessidade de garantia da ordem pública, e para evitar a reiteração delitiva, ressaltando a apreensão de 58g de cocaína e envolvimento quando menor com tráfico.
+Quanto ao histórico infracional, o documento indicado na decisão está àfl. 31, no qual se depreende a existência de 6 atos infracionais passados, sendo 3 em 2020 e outros 3 em 2019.
+Outrossim, "Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019).
+Ante o exposto, nego provimento ao recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
