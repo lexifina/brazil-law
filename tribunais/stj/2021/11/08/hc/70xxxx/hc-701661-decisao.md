@@ -1,0 +1,14 @@
+DECISÃO
+CRISTIANE MARA DO NASCIMENTO apresenta pedido de reconsideração da decisão que indeferiu a liminar no habeas corpus manejado de ato do Tribunal Regional Federal da 1ª Região, no julgamento dos HC n. 1026693-04.2021.4.01.0000 e 1029044-47.2021.4.01.0000.
+Conforme mencionado na decisão anterior, a paciente foi denunciada pelos crimes de apropriação indébita previdenciária, sonegação de contribuição previdenciária e crime material contra a ordem tributária, o que resultou na instauração da Ação Penal n. 1002020-79.2020.4.01.3815, que tramita perante a Vara Federal Cível e Criminal da Subseção Judiciária de São João Del Rei, no Estado de Minas Gerais.
+Após o recebimento da denúncia, a defesa impetrou dois habeas corpus perante o Tribunal Regional Federal da 1ª Região, pretendendo, em síntese, a suspensão da pretensão punitiva estatal em razão do parcelamento do crédito previdenciário. O Tribunal de origem extinguiu o HC n. 1029044-47.2021.4.01.0000 sem resolução de mérito e denegou a ordem no HC n. 1026693-04.2021.4.01.0000.
+Alegando cerceamento de defesa em virtude da ausência de intimação prévia a respeito do julgamento dos habeas corpus, a defesa impetra habeas corpus perante esta Corte Superior de Justiça buscando, em síntese, que sejam declarados nulos os julgamentos, determinando-se que Corte aprecie novamente as ações mandamentais, desta vez comunicando previamente a defesa a respeito da sessão de julgamento para que seja realizada sustentação oral.
+A liminar foi indeferida (e-STJ, fls. 156-158). Neste pedido de reconsideração (e-STJ, fls.194-1970) a defesa reitera a alegação de prejuízo causado pelo julgamento dos habeas corpus sem prévia comunicação da defesa da ré.
+É o relatório. Decido.
+Não obstante os notáveis esforços argumentativos, não trouxe a defesa elementos novos que justifiquem a reconsideração da decisão indeferitória do pedido liminar.
+Como se sabe, muito embora o julgamento de habeas corpus independa de pauta, em homenagem aos princípios constitucionais da ampla defesa e do contraditório, deve haver prévia intimação do impetrante para que possa apresentar sustentação oral perante o órgão fracionário responsável pelo julgamento do writ. Essa providência, no entanto, depende de requerimento prévio da parte impetrante.
+Conforme destacou-se na decisão que indeferiu a liminar, não há informação nos autos a respeito de prévia manifestação dos impetrantes do writ originário no sentido de serem informados da data de julgamento do feito para fins de sustentação oral, de modo que não há como ser reconhecida a nulidade aventada neste momento.
+Diante do exposto, indefiro o pedido.
+Reitero o pedido de informações ao Tribunal de origem, solicitando cópia da impetração originária de maneira a aferir a ocorrência da nulidade apontada pelos impetrantes.
+Após, remetam-se os autos ao Ministério Público Federal, para parecer.
+Intimem-se.
