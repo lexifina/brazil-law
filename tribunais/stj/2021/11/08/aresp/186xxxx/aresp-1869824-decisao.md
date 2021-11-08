@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL Títulos de crédito Ação de reparação de danos materiais e morais Sentença de parcial procedência. Inconformismo das rés 1. Prescrição afastada. Pretensão fundada em negócio jurídico de natureza pessoal, com pedido de restituição de valores pagos indevidamente. Prazo decenal em razão da ausência de previsão específica. Aplicação do artigo 205 do Código Civil 2. Duplicata mercantil. Saque de duplicata em duplicidade e para cobrança de royalties pactuados em "Contrato de Licença" (franquia). Saque irregular de duplicata. Repetição do indébito, de forma simples 3. Dano moral configurado. Protesto indevido. Valor da indenização devida por cada uma das rés que deve ser reduzido de R$ 30.000,00 (trinta mil) para R$ 20.000,00 (vinte mil reais), em atenção aos critérios de razoabilidade e proporcionalidade Sentença reformada Recursos parcialmente providos.
+Nas razões do especial, apontam as agravantes violação dos artigos 206 do Código Civil; 18 da Lei 5.474/68 e 3º 8.955/94.
+Alegam que a pretensão daautora está prescrita, dada a superação de três anos quando do ajuizamento da ação de cobrança.
+Aduzem que o débito referente aos royaltes foi saldado conforme pactuado em contrato de licença, não havendoque se falar em irregularidade das duplicatas ou em reparação econômica arbitrada na origem (R$ 20.000,00 - vinte mil reais - a ser suportado por cada uma das rés).
+Solicitam, outrossim, que seja deferido o efeito suspensivo no presente recurso, por justificado receio de lesão grave ou de difícil reparação.
+Assim delimitada a controvérsia, passo a decidir.
+Com relação à pretensão de efeito suspensivo, a parteagravante não demonstrou a excepcionalidade necessária para a sua concessão, o que inviabiliza o pedido.
+Nesses termos:
+AGRAVO INTERNO EM PEDIDO DE TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE PENDENTE. INCOMPETÊNCIA DO STJ. PEDIDO NÃO CONHECIDO. AUSÊNCIA DOS REQUISITOS PARA A CONCESSÃO DA TUTELA DE URGÊNCIA.
+(..)
+2. Apenas em situações absolutamente excepcionais o Superior Tribunal de Justiça tem admitido a apreciação de pedido de tutela de urgência visando à concessão do efeito suspensivo a recurso especial ainda pendente de juízo de admissibilidade, condicionando sua procedência à demonstração da presença concomitante do fumus boni iuris e do periculum in mora, bem como da situação de manifesta teratologia do acórdão recorrido, o que não restou demonstrado no caso concreto.
+3. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no TP 1.322/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 26.4.2018)
+No que se refere à aventada prescrição, a Corte de origem assim dirimiu a controvérsia (fls. 1.591-1.592, e-STJ):
+Inicialmente, rejeita-se a prejudicial de mérito arguida pelas apelantes. Isso porque, por tratar o caso dos autos de pedido de restituição de quantias pagas indevidamente, o prazo prescricional é decenal, em vista de a pretensão estar adstrita a direito de natureza pessoal.
+(..)
+Assim, a pretensão da autora não se subsume à nenhuma das hipóteses previstas no artigo 206 do Código Civil, de tal modo que ao caso dos autos tem aplicação o disposto no artigo 205 do Código Civil, segundo o qual: "a prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo menor".
+Portanto, considerando que a duplicata mais antiga em discussão nestes autos foi emitida em 02/05/2014, impõe-se reconhecer a inocorrência da prescrição da pretensão.
+Verifico que o acórdão da origem se encontra em harmonia com a orientação dos julgados desta Corte Superior, cuja dicção é de que "incide, em regra, o prazo prescricional decenal do art. 205 do Código Civil às pretensões fundadas no inadimplemento contratual (responsabilidade contratual)" (AgInt nos EREsp 1533276/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe 26/4/2021).
+No que concerne ao mérito, a Corte estadual, ao analisar as circunstâncias fáticas, contrato tabulado e o conjunto probatório produzido, assim decidiu (fls. 1.594-1.596, e-STJ):
+No entanto, a prova pericial produzida nos autos não deixa dúvidas a respeito da emissão em duplicidade de parte das duplicatas discriminadas na inicial, bem como do saque de duplicata para cobrança referente à Royalties, com base na cláusula 3.6 do "Contrato de Licença "firmado entre as partes. A esse respeito, convém transcrever a conclusão do Perito Judicial a respeito do trabalho realizado (..)
+De acordo com a Lei nº 5.474/68, a duplicata é classificada como título de crédito causal, pois tem sua emissão vinculada apenas a compra e venda mercantil ou contrato de prestação de serviços. No caso dos autos, as duplicatas discriminadas no laudo pericial não possuem lastro para legitimar seu saque e, portanto, são inexigíveis, como bem assentado pelo MM. Juízo "a quo". Ademais, conquanto a cláusula contratual 3.6 (fl.65)1 do contrato de franquia preveja a possibilidade de emissão de duplicatas mercantis para pagamento de mercadorias e também para cobrança de royalties, é certo que tal disposição vai de encontro à legislação que regula o saque de duplicatas mercantis, tratando-se, na hipótese, de emissão ilegal dos títulos. Diante desse cenário, têm-se que os valores estampados nos títulos devem ser declarados inexigíveis, a teor da flagrante nulidade de sua emissão e, por conseguinte, determinada a restituição, de forma simples, das quantias efetivamente pagas pela apelada.
+Dessa forma, ao contrário do alegado neste recurso especial, o Tribunal de origem, após minudente análise do conjunto fático-probatório e obrigações assumidas em contrato, reconheceu a nulidade da cláusula contratual.
+A revisão do entendimento destes pontos, nos moldes das questões factuais, ainda com base na interpretação de cláusulas contratuais, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e do contrato, o que é vedado, em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. DUPLICATA. ENDOSSO TRANSLATIVO. FATURIZADORA. PROTESTO. DANOS MORAIS. CERCEAMENTO DE DEFESA. LEI Nº 5.474/68. INVALIDADE DE SAQUE SEM LASTRO EM RELAÇÃO CONTRATUAL SUBJACENTE DE COMPRA E VENDA MERCANTIL. FALTA DE HIGIDEZ DA DUPLICATA. DESFAZIMENTO DO NEGÓCIO SUBJACENTE. PROTESTO INDEVIDO. DANOS MORAIS DEVIDOS. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ. Dissídio jurisprudencial prejudicado.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp 1598196/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 12/6/2020)
+AÇÃO REVISIONAL DE CONTRATO DE HONORÁRIOS. RECONHECIMENTO DE VANTAGEM EXCESSIVA EM CLÁUSULA CONTRATUAL COM BASE NO CÓDIGO CIVIL E NO CÓDIGO DE DEFESA DO CONSUMIDOR. RECURSO QUE IMPUGNA APENAS A APLICABILIDADE DO CDC. APLICAÇÃO DA SÚMULA 283/STF. PRETENSÃO DE AFASTAMENTO DA NULIDADE DA CLÁUSULA POR ESTA CORTE. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ.
+(..)
+2.- O acolhimento da pretensão recursal, no que se refere ao afastamento da nulidade da cláusula contratual considerada excessiva, ensejaria a análise do acervo fático-probatório e das cláusulas contratuais, obstando a admissibilidade do Recurso Especial conforme o disposto nas Súmulas 5 e 7 desta Corte.
+Recurso Especial não conhecido.
+(REsp 1109953/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 14/12/2009)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
