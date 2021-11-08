@@ -1,0 +1,69 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por AUTOMARK VEICULOS E PECAS LTDA, em face de decisão que inadmitiu recurso especial, aviado pelas alíneas "a" e "c", inciso III, art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - INOVAÇÃO RECURSAL - IMPENHORABILIDADE - MATÉRIA DE ORDEM PÚBLICA - CUMPRIMENTO DE SENTENÇA - citação - TEORIA DA APARÊNCIA - BLOQUEIO ON LINE - CONTA CORRENTE VINCULADA A POUPANÇA - VALOR INFERIOR A 40 SALÁRIOS MÍNIMOS - IMPENHORABILIDADE.
+Adotando a teoria da aparência, o Superior Tribunal de Justiça consagrou a validade da citação recebida no endereço da pessoa jurídica, independente da capacidade de representação. Nos termos o art. 833, X, do Código de Processo Civil, são absolutamente impenhoráveis os valores inferiores a 40 (quarenta) salários mínimos depositados em conta poupança. Consoante entendimento do Col. STJ, tal impenhorabilidade abrange não só os valores aplicados em caderneta de poupança, mas também quaisquer fundos de investimento ou conta corrente pertencentes ao devedor.
+Opostos embargos de declaração, estes foram acolhidos, sem efeitos infringentes (e-STJ fls. 181/187).
+Em seu recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aos artigos 141, 373, II, 492 e 854, § 3º, Ido CPC, sustentando, em síntese, inovação recursal, ao argumento de que o recorrido inovou no fundamento para requerer o desbloqueio de suas contas bancáriaseque não restou comprovada a natureza da poupança e que o bloqueio recaiu sobre verbas derivadas do seu subsídio,o que obstaria a satisfação do crédito.
+Aduz que:
+Conforme demonstrado em suas Contrarrazões, o Recorrido fundamentou o pedido de desbloqueio dos valores arrestados em contas bancárias nos termos do inciso IV do art. 833 do CPC, qual seja, a suposta impenhorabilidade decorrente do recebimento de rendimentos do trabalho autônomo.
+O único fundamento utilizado pelo Recorrido ao requerer o desbloqueio de suas contas bancárias (pedido indeferido pelo juiz monocrático e que ensejou o agravo de instrumento), foi a hipotética origem dos valores bloqueados, que supostamente seriam decorrentes do trabalho autônomo prestado.
+Em nenhuma passagem de sua petição de fls. 136/138 dos autos de origem (documentos de número 16 juntados ao agravo de instrumento eletrônico), foi trazida a questão da hipotética impenhorabilidade prevista no inciso X do mencionado art. 833 do CPC, ou seja, quantias depositadas em caderneta de poupança, até o limite de quarenta salários mínimos.
+ .. .
+Assim, não está caracterizado o caráter alimentar dos valores bloqueados, tendo em vista que o Recorrido não comprovou com os supostos contratos de prestação de serviços que os rendimentos recebidos seriam do seu trabalho autônomo, conforme demonstrado e comprovado alhures, e tendo em vista que na conta bancária bloqueada são realizadas movimentações diversas, principalmente aplicações financeiras e resgate de investimentos, conforme inclusive confessado na peça recursal.(e-STJ fl. 204).
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Quanto a alegada inovação recursal, ao argumento de que o recorrido inovou no fundamento para requerer o desbloqueio de suas contas bancárias, verifica que oTribunalde origem afastou a preliminar suscitada por ser a matéria referente à impenhorabilidade de ordem pública, podendo ser arguida em qualquer tempo e grau de jurisdição e conhecida até mesmo de ofício, nestes termos:
+É cediço que a inovação recursal consiste na impossibilidade de o órgão ad quem conhecer de argumento novo, deduzido pela parte somente em sede recursal. Com efeito, essa vedação ocorre porque a dedução de pedido novo ou de tese nova neste momento processual importa em grave ofensa aos princípios constitucionais do contraditório e da ampla defesa, uma vez que a Segunda Instância exerce função de revisão e controle, não de criação.
+Pois bem.
+Inicialmente, observo que na decisão agravada foi abordado o fato de tratar-se de conta com aplicação para investimento como fundamento para descaracterização de sua natureza salarial e do caráter alimentar das verbas.
+Outrossim, no caso em comento, não vislumbro razão para acolhimento da preliminar suscitada pelo apelado considerando que a matéria referente à impenhorabilidade é de ordem pública, podendo ser arguida em qualquer tempo e grau de jurisdição e conhecida até mesmo de ofício. Nesse sentido, colhe-se:
+ .. .(e-STJ fl. 149).
+Contudo, contra essefundamentoa parte não se manifestou nas razões do recurso especial, limitando-se a alegar, em síntese, que o recorrido inovou no fundamento para requerer o desbloqueio de suas contas bancárias, aduzindo que:
+O único fundamento utilizado pelo Recorrido ao requerer o desbloqueio de suas contas bancárias (pedido indeferido pelo juiz monocrático e que ensejou o agravo de instrumento), foi a hipotética origem dos valores bloqueados, que supostamente seriam decorrentes do trabalho autônomo prestado.
+Em nenhuma passagem de sua petição de fls. 136/138 dos autos de origem (documentos de número 16 juntados ao agravo de instrumento eletrônico), foi trazida a questão da hipotética impenhorabilidade prevista no inciso X do mencionado art. 833 do CPC, ou seja, quantias depositadas em caderneta de poupança, até o limite de quarenta salários mínimos.(e-STJ fl. 204).
+Diante desse contexto, verifica-se que oreferidofundamento, por si só, se mostrasuficientea manter o acórdão recorrido quanto ao ponto, incidindo, portanto, por analogia, o enunciado nº 283 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Quanto ao mérito, no caso, o Tribunal de origem, após exame dos elementos de informação acostados aos autos, assim decidiu a controvérsia concernente a penhorabilidade dos valores da parte agravada:
+Sobre a possibilidade de penhora do saldo de conta popança, dispõe o art. 833, X, do CPC, que:
+Art. 833. São impenhoráveis:
+X - a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos;
+Sobre a impenhorabilidade dos investimentos do devedor, ensina Fredie Didier Júnior que:
+O principal fundamento é, sem dúvida, a proteção da dignidade do executado. Busca-se garantir um patrimônio mínimo ao executado, que lhe permita sobreviver com dignidade. Daí a impossibilidade de penhora do bem de família e do salário, por exemplo.
+(..) Por conseguinte, o objetivo basilar da regra da impenhorabilidade contida no inciso X do art. 833 do CPC é preservar a existência digna do devedor, mantendo valores indispensáveis à sua subsistência.
+Tal montante de 40 salários mínimos passa a ser visto como um montante com função de "segurança alimentícia ou de previdência pessoal e familiar" (Curso de Direito Processual Civil. Fredie Didier Jr, Leonardo José Carneiro da Cunha, Paula Sarno Braga e Rafael Oliveira. Ed: Juspodivm. 5º volume. 2009)
+Contudo, conforme entendimento já manifestado pelo Superior Tribunal de Justiça, tal impenhorabilidade abrange não só os valores aplicados em caderneta de poupança, mas também quaisquer fundos de investimento ou conta corrente pertencentes ao devedor, confira-se:
+ ..
+Com efeito, conforme documento nº 22, trata-se de conta corrente com aplicação automática para conta poupança, denominada Invest Fácil Bradesco; e o valor nela encontrado é de R$16.331,51, inferior, portanto, a quarenta salários mínimos, assim como os valores de R$255,16 e R$19,88 bloqueados nas contas mantidas no Banco Itaú e Banco Santander, sendo inafastável a aplicação do dispositivo legal acima colacionado.
+Outrossim, o cumprimento de sentença visa ao recebimento de crédito é referente ao fornecimento e instalação de pórtico com revestimento por painéis de alumínio, ou seja, não se trata de verba de natureza alimentar a autorizar que a regra da impenhorabilidade de tal bem seja afastada com base no parágrafo segundo, do artigo 833, do CPC.
+A finalidade da referida norma é de favorecer o micro-poupador especificamente indicado pela lei, não de atingi-lo. Ademais, a espécie de conta, ainda que etiologicamente diversa da caderneta de poupança, não afasta a proteção de impenhorabilidade do patrimônio do pequeno depositante.
+Ressalta-se que o Superior Tribunal de Justiça já decidiu acerca da penhorabilidade da conta poupança vincula à conta corrente no sentido de considerá-la como impenhorável, assim como a caderneta de poupança, como se observa do seguinte julgado:
+ ..
+Ademais, observo que a penhora recaiu sobre valor que a agravante alega ser oriundo de seu trabalho como autônomo (conforme demonstrado por meio dos documentos de ordem nº 17-JPe), mostrando-se também impenhorável, nos termos art. 833, IV, do CPC. Nesse aspecto, o Col. Superior Tribunal de Justiça, em sede de recurso repetitivo, reconheceu que a regra de impenhorabilidade da remuneração do devedor deve ser rigidamente aplicada, senão vejamos:
+ ..  . (e-STJ fls. 152/157).
+Constata-se, que o aresto impugnado, ao examinar a situação, observou a orientação do STJ, no sentido de que os valores inferiores a 40 (quarenta) salários mínimos, depositados em conta poupança ou em fundo de investimento recebem a proteção da impenhorabilidade, devendo-se ter, quanto a esse comando, interpretação restritiva, admitindo-se, apenas, a mitigação dessa ordem, no caso de pagamento de prestação alimentícia ou de comprovada má-fé ou fraude, o que não é a hipótese dos autos.
+A propósito:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE SALÁRIO. RELATIVIZAÇÃO DA REGRA DE IMPENHORABILIDADE. POSSIBILIDADE.
+(..)
+2. O propósito recursal é definir se, na hipótese, é possível a penhora de 30% (trinta por cento) do salário do recorrente para o pagamento de dívida de natureza não alimentar.
+3. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Precedentes.
+4. Na espécie, em tendo a Corte local expressamente reconhecido que a constrição de percentual de salário do recorrente não comprometeria a sua subsistência digna, inviável mostra-se a alteração do julgado, uma vez que, para tal mister, seria necessário o revolvimento do conjunto fático-probatório dos autos, inviável a esta Corte em virtude do óbice da Súmula 7/STJ.
+5. Recurso especial conhecido e não provido.
+(REsp 1.658.069/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/11/2017, DJe 20/11/2017 - grifou-se)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PENHORA DE VALORES ORIUNDOS DE APOSENTADORIA DEPOSITADOS EM CONTA. POSSIBILIDADE.
+1. A quantia aplicada em caderneta de poupança, mesmo que decorrente de sobra dos proventos de aposentadoria, somente possui natureza alimentar, para efeito de impenhorabilidade, quando não exceder ao limite de 40 (quarenta) salários mínimos. Precedentes.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1537626/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/02/2017, DJe 23/02/2017; grifou-se)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. Esta Corte possui entendimento no sentido de que "a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família" (AgInt no REsp 1407062/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/02/2019, DJe 08/04/2019).
+1.1. É impenhorável valor depositado em caderneta de poupança até o limite de 40 salários mínimos, devendo-se ter, quanto a esse comando, interpretação restritiva, admitindo-se, apenas, a mitigação dessa ordem, no caso de pagamento de prestação alimentícia ou de comprovada má-fé ou fraude. Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.829.036/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020 - grifei)
+Destarte, inviável a pretensão da recorrente.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (arts. 77, II c/c 1.021, § 4º, do CPC/15).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INOVAÇÃO RECURSAL. IMPENHORABILIDADE. MATÉRIA DE ORDEM PÚBLICA.EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA Nº 283 DO STF. PENHORA DE CONTA POUPANÇA. IMPENHORABILIDADE DA QUANTIA DEPOSITADA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. PRECEDENTES.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
