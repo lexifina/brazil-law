@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaraçãoopostosporJEFFERSON XAVIER CIRQUEIRA àdecisão de fls. 909-912, que não conheceu dohabeas corpus.
+Em suas razões, alega a existência de omissões na decisão embargada.
+Sustenta omissão quanto àpossibilidade de conhecimento do habeas corpusdas ilegalidades relativamente à manutenção da segregação cautelar do embargante.
+Aduz que "a impetração se justifica em razão da demora no julgamento do AREsp n.º 1.798.437/SP, de modo queo embargante não pode aguardar tanto tempo indefinidamente preso, sobretudo quando há tese plausível invocada relacionada à legítima defesa" (fl. 917).
+Afirma ainda omissão quanto aoexcesso de prazo na custódia cautelar.
+Requer sejam conhecidos e providos os presentes embargos de declaração para que fiquemsanadas as omissões apontadas.
+O embargante ainda apresentou petição à fl. 892, em que"pugna pela inclusão em pauta para julgamento do presente writ, haja vista que o paciente se encontra preso preventivamente desde o dia 16 de setembro de 2019, circunstância que evidencia excesso de prazo, ilegalidade que, embora não abordada na impetração, permite seu conhecimento mesmo de ofício".
+É o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a desfazer ambiguidade, esclarecer obscuridade, eliminar contradição ou suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Como bem salientado na decisão embargada, ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal,o que não se verifica no caso em apreço, porquantoa necessidade de prisão cautelar foi exposta de forma fundamentada e concreta, sendo incabível a substituição por medidas cautelares mais brandas.
+A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, motivada pela mera insatisfação com o resultado da demanda, não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014).
+Esclareça-seainda que as questões referentes àdemora no julgamento do AREsp n. 1.798.437/SP e aoexcesso de prazonão foramalegadas na petição inicial. Assim, constitueminovação recursal, que impedem o seu conhecimento.
+A propósito, o julgado a seguir (destaquei):
+AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO DE ENTORPECENTES.ASSOCIAÇÃO PARA O NARCOTRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE.REITERAÇÃO DELITIVA. CIRCUNSTÂNCIAS DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. VIOLAÇÃO DE DOMICÍLIO. INOVAÇÃO RECURSAL.AGRAVO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+1. Presentes elementos concretos para justificar a manutenção da prisão preventiva, para garantia da ordem pública. As instâncias ordinárias afirmaram que, em liberdade, o paciente representava risco concreto à ordem pública em razão de sua periculosidade, evidenciada pela possibilidade de reiteração delitiva, na medida em que possui registros por diversos atos infracionais e é investigado pela prática de homicídio, o que, somado não somente à natureza e quantidade da droga apreendida , como também à forma de acondicionamento dos entorpecentes - em diversas porções individuais, prontas para venda - e à localização de objetos comumente utilizados no preparo e disseminação de tóxicos, como balança de precisão e embalagens plásticas, revela o maior envolvimento com o narcotráfico e a necessidade da custódia cautelar para garantia da ordem pública.
+2. A alegada violação de domicílio não foi arguida na inicial do presentehabeas corpus.Vedada a inovação recursal, não deve ser conhecido o Agravo Regimental nesse ponto.
+3. Agravo regimental parcialmente conhecido e, nesta extensão, desprovido.(AgRg no HC n. 627.916/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 30/4/2021.)
+Assim, não há irregularidade sanável nesta via, porquanto toda a matéria apta à apreciação do STJfoi analisada.
+Ante o exposto,rejeito os embargos de declaração.
+Publique-se. Intimem-se.
