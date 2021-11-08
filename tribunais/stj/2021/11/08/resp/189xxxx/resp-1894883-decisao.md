@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADALTO FERNANDES, fundamentado naalínea"a"do permissivo constitucional, contra acórdão do Tribunal de Justiça do Paraná.
+A defesa aponta ofensa aos artigos28-A,619, 654, §2º, todos do Código de Processo Penal e o 2º, parágrafo único, do Código Penal.
+Destacaque "em que pese o recebimento da denúncia no presente caso e todo o curso da Ação Penal, não se pode negar o benefício do acordo de não persecução penal, embora não mais se tenha a figura do "investigado" e eventual ausência de confissão circunstancial, porquanto o espírito do art. 28-A do CPP assemelha-se ao instituto do sursis processual, mormente quanto à aplicação aos processos em curso"(e-STJ, fl. 462).
+Aduz que "aretroatividade ora sustentada deve considerar também o princípio da igualdade, uma vez que se dará tratamento diferenciado apenas pelo momento do recebimento da denúncia, ou seja, os que farão jus às medidas despenalizantes não terão os efeitos estigmatizantes e deletérios de uma condenação criminal, inclusive, pelo estado inconstitucional das prisões brasileiras" (e-STJ, fl. 466).
+Requer o provimento do recurso, para que seja aplicado o referido dispositivo legal em relação aorecorrente.
+Foram apresentadas as contrarrazões (e-STJ, fls. 481-488).
+Admitido o recurso subiram os autos a este Superior Tribunal de Justiça.
+O Ministério Público Federal opina pelo não provimento do recurso especial (e-STJ, fls. 508-515).
+É o relatório.
+Decido.
+A pretensão recursal não merece amparo.
+No que tange à aplicação retroativa do Acordo de Não Persecução Penal (ANPP), introduzido no nosso ordenamento jurídico pela Lei nº 13.964/2019 (art. 28-A e seguintes do Código de Processo Penal), a 5ª Turma deste Superior Tribunal de Justiça já decidiu que, embora o benefício processual penal possa ser aplicado aos fatos anteriores à vigência da lei, a denúncia não pode ter sido recebida ainda, o que não ocorreu na hipótese dos autos.
+Nesse sentido:
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL.ACORDO DE NÃO PERSECUÇÃO PENAL. VIOLAÇÃO AO ART. 28-A DO CPP.INEXISTÊNCIA. FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO RECORRIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+I - In casu, não há falar em violação ao art. 28-A do CPP, porquanto o acórdão recorrido invocou fundamentos para não aplicar o instituto que estão em sintonia com o entendimento deste Tribunal, cuja jurisprudência se consolidou no sentido de ser inviável a retroação em casos de ações penais em que a denúncia já foi recebida, como ocorreu no presente caso, em que a exordial acusatória foi recebida em 26/7/2019 (fls. 40-44). Precedentes.
+II - Outrossim, incabível a concessão de habeas corpus de ofício, pois é descabida a referida postulação, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção. Precedentes.
+Agravo regimental desprovido".(AgRg no REsp 1929704/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 01/06/2021, DJe 07/06/2021).
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO DO ART. 28-A DO CPP. IMPOSSIBILIDADE. PECULIARIDADE DO CASO. RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO EM SEDE DE RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Segundo o § 1º do art. 28-A do Código de Processo Penal, para aferição da pena mínima cominada ao delito a que se refere o caput deste artigo, serão consideradas as causas de aumento e diminuição aplicáveis ao caso concreto.
+2. Para serem consideradas as causas de aumento e diminuição, para aplicação do Acordo de Não Persecução Penal (ANPP), essas devem estar descritas na denúncia, que, no presente caso, inocorreu, não sendo possível considerar, no cálculo da pena mínima cominada ao crime imputado ao acusado, a causa de diminuição reconhecida apenas quando do julgamento do recurso especial. No caso do delito de tráfico, far-se-á necessário o curso da ação penal, em regra, para aferir os requisitos previstos no art. 33, §4º, da Lei nº 11.343/06, o que obsta a aplicação do benefício, que decorre, inclusive do tratamento constitucional e da lei que são rigorosos na repressão contra o tráfico de drogas, crime grave, que assola o país, merecendo um maior rigor estatal.
+3. Mostra-se incompatível com o propósito do instituto do Acordo de Não Persecução Penal (ANPP) quando já recebida a denúncia e já encerrada a prestação jurisdicional na instância ordinária, com a condenação do acusado, cuja causa de diminuição do art. 33, §4º, da Lei de drogas fora reconhecida somente neste STJ, com a manutenção da condenação.
+4. Embargos de declaração rejeitados." (EDcl no AgRg no AgRg no AREsp 1.635.787/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2020, DJe 13/8/2020).
+No mesmo sentido, decidiu a 1ª Turma do Supremo Tribunal Federal, no julgamento do HC nº 191.464/STF, de relatoria do Ministro GILMAR MENDES, publicado no DJe de 12/11/2020. A propósito, confira-se:
+"O acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia."
+Cumpre observar que, no caso dos autos, a denúncia foi recebida em 25/4/2016(e-STJ, fl. 325), ou seja, antes da entrada em vigor da Lei nº 13.964/2019, de modo que não há falar em aplicação do instituto do Acordo de Não Persecução Penal (ANPP).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimentoao recurso especial.
+Publique-se. Intimem-se.
