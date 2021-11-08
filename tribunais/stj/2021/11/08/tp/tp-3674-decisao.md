@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória, protocolado porLPP III EMPREENDIMENTOS E PARTICIPACOES S.A, visando a concessão de efeito suspensivo a recurso especial, inadmitido no Tribunal de origem.
+A fim de demonstrar a presença do fumus boni iuris,alega a requerente que o acórdão recorrido violouos artigos 520 e 1.012, §§ 1º e 2º, ambos do CPC, bem como aos artigos 58, inciso V, e 62 inciso VI, da Lei de Locações, haja vista que,em se tratando de ação de despejo cumulada com cobrança de aluguéis (julgada procedente), é cabível a execução provisória, inclusive no tocante aos débitos locatícios.
+Por sua vez, para demonstrar o periculum in mora,sustenta a presença de risco de dano irreparável, diantedo cumprimento provisório de sentença iniciado pelo patrono da parte adversa, no valorde R$ 178.971,87, decorrente da verba sucumbencial a cujo pagamento foi condenada em virtude daexecução provisória, por ela manejada, ter sido julgada extinta sem resolução do mérito.
+Aduz que "Embora, em um primeiro momento, tenha sido determinado que o patrono do Requerido apresentasse caução para o levantamento do valor, após o não conhecimento do recurso especial interposto pela Requerente, houve novo pedido para levantamento dos valores sem a prestação de caução, a teor do que dispõe o art. 521, incisos I e III, do CPC, o qual pende de análise e que, se o caso, poderá prejudicar sobremaneira a Requerente".
+Pugnou, por fim, pela concessão de medida liminar por esta Corte a fim de tornar sem efeito "por ora, o comando de extinção do incidente de cumprimento provisório movido por esta peticionária e a condenação sucumbencial que lhe foi injustamente imposta em razão disso, obstando-se a prática de qualquer ato processual de levantamento dos valores já depositados na Origem".
+É o relatório.
+Decido.
+A tutela de urgência requerida não comporta deferimento, consoante a seguir exposto.
+1.Salienta-se, de início, que, à concessão do efeito suspensivo aos recursos extraordinários, por meio de tutela provisória, faz-se necessária a presença concomitante dos requisitos dofumus boni iurisepericulum in mora: o primeiro relativo à plausibilidade, aferida em juízo sumário, da pretensão recursal veiculada no apelo extremo (sua probabilidade de êxito) e o segundo consubstanciado no risco de dano de difícil reparação que, em uma análise objetiva, revele-se concreto e real.
+A propósito, dispõe o artigo 300 do NCPC,in verbis:
+Art. 300.A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigode dano ou o risco ao resultado útil do processo.
+§ 1º Para a concessão da tutela de urgência, o juiz pode, conforme o caso, exigir caução real ou fidejussória idônea para ressarcir os danos que a outra parte possa vir a sofrer, podendo a caução ser dispensada se a parte economicamente hipossuficiente não puder oferecê-la.
+§ 2º A tutela de urgência pode ser concedida liminarmente ou após justificação prévia.
+§ 3º A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão.
+No que se refere aos requisitos da tutela cautelar, cita-se, ainda, o seguinte julgado:
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR - EXTINÇÃO DA MEDIDA CAUTELAR POR NÃO SE VERIFICAR A PRESENÇA CONCOMITANTE DOS CORRELATOS REQUISITOS.
+INSURGÊNCIA DOS REQUERENTES.
+1. A despeito da possibilidade de concessão de efeito suspensivo a recurso especial por meio de medida cautelar originária, tal pretensão apenas tem lugar quando presentes os seguintes requisitos: (a) plausibilidade dos fundamentos da insurgência, correspondente à demonstração de sua admissibilidade e a probabilidade de êxito, segundo a jurisprudência desta Corte; e, (b) prova do perigo concreto a justificar seu deferimento. ..  (AgRg na MC 23.849/SP, desta Relatoria, QUARTA TURMA, julgado em 18/08/2015, DJe 26/08/2015)
+In casu, em sede de cognição sumária, tem-se que a requerente não logrou êxito em demonstrar, nos termos acima exigidos, a presença concomitante dos requisitos necessários à parcial concessão da tutela de urgência ora almejada.
+1.1Com efeito, não se verifica o alegadopericulum in mora, pois, tal como dito, o risco de dano apto a lastrear a presente medida, analisado objetivamente, deve se revelar real e concreto, não sendo suficiente, para tal, a mera conjectura de riscos, conforme delineado pela peticionante, em suas razões, quando afirma que "houve novo pedido para levantamento dos valores sem a prestação de caução, a teor do que dispõe o art. 521, incisos I e III, do CPC, o qual pende de análise e que, se o caso, poderá prejudicar sobremaneira a Requerente" grifou-se .
+Ora, conforme narra a própria requerente, o juízo de origem determinou que o patrono da requerida apresentasse caução, a fim de que pudesse efetuar o levantamento do valor depositado nos autos, situação essa que até o presente momento não foi modificada e que, de plano, afasta o alegado perigo da demora.
+Nesse contexto, destaca-se que não há nos autos elementos a comprovar o alegado risco de lesão irreparável, não possuindo o andamento do processo, com a execução provisória do julgado, o condão de caracterizar, por si só, o perigo de danoirreparável.
+Frise-se: oiníciodo cumprimento provisório de sentença não constitui risco de dano irreparável ou mesmo inutilidade de eventual provimento jurisdicional favorável à pretensão daora requerente,porquanto o procedimento da execução provisóriapossui mecanismos aptos para que ainteressado possa se resguardar de possíveis danos,de que é exemplo o parágrafo único do artigo 521 do CPC/15.
+Portanto, ausente a demonstração efetiva de dano iminente, não há falar em perigo da demora.
+A propósito, confira-se:
+AGRAVO REGIMENTAL. MEDIDA CAUTELAR. EFEITO SUSPENSIVO A RECURSO ESPECIAL. INEXISTÊNCIA DE PERIGO DE DANO IMEDIATO DE DIFÍCIL REPARAÇÃO.EXECUÇÃO PROVISÓRIA DO JULGADO. ARTS. 475-M E 475-O DO CPC.
+1. - Esta Corte, como exceção, tem admitido a atribuição de efeito suspensivo a Recurso Especial, porém, desde que configurada a presença
+concomitante dos pressupostos que lhe são necessários: fumus boni iuris e periculum in mora.
+2. - No presente caso não se identifica perigo de dano imediato de difícil reparação em face de execução provisória do julgado, pois, no próprio procedimento, poderá a ora requerentedispor dos meios previstos no Código de Processo Civil para se resguardar de possíveis danos (arts. 475-M e 475-O), sustentando suas pretensões e interesses pelas vias processuais adequadas, no Tribunal de origem, donde não haver razão para seabrir a via per saltum do processo cautelar direto a este Superior Tribunal de Justiça.
+ ..  (AgRg na MC 18.414/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 27/09/2011, DJe 05/10/2011)  grifou-se
+2.Do exposto, indefere-se liminarmente o pleito formulado.
+Publique-se.
+Intimem-se.
