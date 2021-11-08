@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fls. 205/206):
+PREVIDENCIARIO. EMBARGOS À EXECUÇÃO. DEMORA NO CUMPRIMENTO DA ORDEM JUDICIAL DE IMPLANTAÇÃO DE BENEFICIO PREVIDENCIARIO. MULTA APLICADA AO INSS. RAZOABILIDADE. REDUÇÃO. SENTENÇA PARCIALMENTE REFORMADA.
+1. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que é possível a fixação de multa diária, ainda que contra a Fazenda Pública, na hipótese de descumprimento ou de demora no cumprimento de obrigação imposta por decisão judicial, como é o caso da obrigação de implantar benefício previdenciário, aplicando-se o disposto no art. 461 do CPC, conforme precedentes daquela Corte, e também deste Tribunal, declinados no voto.
+2. É cabível a discussão quanto ao valor da multa em sede de embargos à execução, tendo em vista que nessa cominação pecuniária não há falar em preclusão ou coisa julgada, podendo o juiz, de ofício, modificar o seu valor ou a sua periodicidade, quando o montante mostrar-se irrisório, ou exagerado, de acordo com as peculiaridades do caso, de modo que a ordem judicial seja cumprida e o bem da vida disputado seja entregue utilmente à parte vencedora.
+3. A multa diária deve ser fixada segundo juízo de razoabilidade e proporcionalidade, de modo a funcionar como meio coercitivo a evitar a inércia por parte da Autarquia Previdenciária, sem, contudo, importar obtenção de vantagem injustificada pela parte, nos termos do art. 461, § 6º, do CPC.
+4. Na hipótese dos autos, comprovada a recalcitrância do INSS, que demorou 85 (oitenta e cinco) dias para implantação do benefício, eis que deveria ter ocorrido até 28/03/2009 e se efetivou em 22/06/2009, entendo devida a aplicação da multa e razoável sua redução para o valor de R$ 100,00 (cem reais) por dia de descumprimento da obrigação de fazer (R$ 8.500,00).
+5. Verba honorária, em favor da exequente, fixada em 10% (dez por cento) sobre o valor da causa.
+6. Apelação do INSS que se dá parcial provimento.
+Opostos embargos declaratórios, foram rejeitados (fls. 227/234).
+A parte recorrente aponta, em suas razões,violação do art. 1.022, do CPC e 1º-F, da Lei 9.494/97.
+Sustenta, em síntese: (I) a existência de omissão no julgado, (II) a necessidade de aplicação da TR como índice de correção monetária no caso concreto.
+Contrarrazões às fls. 28/254.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O recurso merece acolhida pelo art. 1.022, do CPC/2015, pois a parte recorrente alega que não se pode falar em recalcitrância do INSS para a implantação do benefício tendo em vista que o próprio juízo de primeiro grau suspendeu a antecipação de tutela concedida na sentença, não havendo, portanto, que falar em mora, pois "..a decisão que antecipou a tutela e cominou multa para o caso de não implantação se encontra até hoje suspensa.." (fl. 241).
+Entretanto, o Tribunal de origem quedou silente sobre tais argumentos, em franca violação ao art. 1.022, do CPC, porquanto não prestada a jurisdição de forma integral.
+Nesse vértice, vejam-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015.OCORRÊNCIA. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. É firme o entendimento do STJ de que, "tratando-se de questão relevante para o deslinde da causa, a ausência de manifestação sobre ela caracteriza ofensa ao art. 535 do CPC/1973. Verificada tal ofensa, em sede de recurso especial, impõe-se a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão" (AgInt no AREsp 868.604/RN, Rel. Ministro Mauro Campbell Marques,Segunda Turma, DJe 14/09/2016).
+2. Caso concreto em que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para a solução da controvérsia, em franca violação ao art. 1.022 do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1.650.218/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/9/2018, DJe 9/10/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. DECADÊNCIA TRIBUTÁRIA. ALEGATIVA DE EXISTÊNCIADE DOCUMENTOS QUE COMPROVAM PAGAMENTO PARCIAL A ATRAIR A INCIDÊNCIA DO ART. 150, § 4º, DO CTN. QUESTÃO JURÍDICA RELEVANTE. ACÓRDÃO RECORRIDO. OMISSÃO. NULIDADE.
+ ..
+2. Na espécie, assiste razão à parte recorrente no ponto em que sustenta violação do art. 535, II, do CPC, pois uma análise detida das decisões proferidas pelo Tribunal de origem, em cotejo com os recursos do contribuinte, revela que houve omissão no acórdão recorrido quanto à alegativa de que há informações constantes dos autos que seriam relevantes ao deslinde da controvérsia, notadamente aquelas que comprovariam a existência de pagamento parcial do tributo a atrair a orientação jurisprudencial pacificada no STJ no sentido de que a decadência tributária, nessas hipóteses, tem início com a ocorrência do fato gerador, e não a partir do primeiro dia do exercício seguinte.
+3. Não havendo o Tribunal a quo se pronunciado a respeito dessas alegativas, caracteriza-se afronta ao art. 535 do CPC, impondo-se a anulação da decisão proferida nos embargos, a fim de que outra seja proferida com apreciação da questão.4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim deque se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.633.154/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em28/11/2017, DJe 5/12/2017)
+Dessarte, diante do acolhimento da questão preliminar, fica prejudicada a análise dos demais pedidos recursais.
+ANTE O EXPOSTO, dou provimento ao recurso especial por afronta ao art.1.022, do CPC, para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
