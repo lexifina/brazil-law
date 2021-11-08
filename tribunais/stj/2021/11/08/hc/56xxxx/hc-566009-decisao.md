@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado de próprio punho por VALDECI RODRIGO DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpusn. 0003849-82.2020.8.26.0000).
+Os autos dão conta de que o ora paciente impetrou habeas corpusno Tribunal de origem, noqualpleiteou a retificação do cálculo de penas e a progressão de regime, no entanto a ordem foi denegada nos termos do acórdãoassim ementado(e-STJ fl. 24):
+HABEAS CORPUS - EXECUÇÃO PENAL - ATUALIZAÇÃO DO CÁLCULO DAS PENAS - PROGRESSÃO DE REGIME INADEQUAÇÃO DO MEIO ELEITO - INEXISTÊNCIA DE TERATOLOGIA - IMPOSSIBILIDADE DE ANÁLISE DOS REQUISITOS LEGAIS PARA FINS DE PROGRESSÃO E BENEFÍCIOS - ORDEM DENEGADA.
+Nas razões do presentewrit, o impetrante/paciente alega, do que se pode depreender da confusa petição inicial, que estaria sofrendo constrangimento ilegal em razão da não concessão do benefício da progressão de regime, benefício ao qual entende fazer jus.
+Após terem sido prestadas as informações (e-STJ fls. 18/27 e 41/43), manifestou-se o Ministério Público Federal pelo não conhecimento dohabeas corpus(e-STJ fls. 49/50).
+É, em síntese, o relatório.
+No caso dos autos, o Tribunal de origem denegou ohabeas corpuslá impetrado, consignando, para tanto, que (e-STJ fls. 24/26):
+A ordem deve ser denegada.
+Esta Egrégia Corte Bandeirante e os Tribunais Superiores não têm mais admitido a impetração do remédio heroico como sucedâneo recursal, salvo quando existente manifesta teratologia jurisdicional.
+Cuida-se, pois, de decisão proferida em sede de processo de execução criminal, cujo descontentamento deve ser vencido pelo recurso de agravo em execução penal, nos termos do art. 197 da Lei de Execução Penal.
+Com efeito, dispõe o artigo 112 da LEP: "A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos um sexto da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão".
+Além disso, conforme se extrai da folha de antecedentes, em sede de Habeas Corpus nº 490.230/SP, julgado no dia 15/08/2019, o Colendo Superior Tribunal de Justiça determinou a elaboração de novo cálculo de pena para fins de progressão de regime (folha de antecedentes).
+Portanto, o processo de execução do paciente, encontra-se com regular andamento na Vara de Execuções de Marília (fls. 22).
+A força normativa do princípio da duração razoável do processo deve ser extraída a partir das realidades fáticas e jurídicas existente no caso concreto.
+Na hipótese sub judice, não há como imputar eventual demora procedimental à apontada autoridade coatora que, dentro do limite dos recursos disponíveis e das circunstâncias fáticas, vem empregando a máxima diligência, observando com rigor os preceitos do contraditório e do devido processo legal.
+No mais, vale pontuar que eventual morosidade não constitui desídia da apontada autoridadecoatora, mas decorrência do exacerbado volume de procedimentos executórios.
+Não obstante, fortes precedentes do Egrégio Tribunal de Justiça de São Paulo ilustram a inadequação da via eleita para acelerar o julgamento de pedidos formulados perante o Juízo das Execuções Criminais. (Grifei.)
+Nessas circunstâncias, tem-se que a matéria relativa àretificação do cálculo já foi analisada por esta Corte no Habeas Corpusn. 490.230/SP, de forma que está prejudicada,e a questão relacionadaà progressão de regime não foidebatidapelas instâncias ordinárias, o que impede sua análise por esta Corte, sob pena de indevida supressão de instância.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NOHABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3.A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal,não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido(AgRg no HC 579.110/SP, relator o Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020, grifei.)
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1.Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido(RHC 68.025/MG, relator o Ministro Nefi Cordeiro, Sexta Turma, DJe de 25/5/2016, grifei.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL.PEDIDO DE FIXAÇÃO DO REGIME ABERTO. SUPRESSÃO DE INSTÂNCIA. PROGRESSÃO DE REGIME. EXECUÇÃO DA PENA QUE AINDA NÃO SE INICIOU. NECESSIDADE DE RECOLHIMENTO PRÉVIO DO PACIENTE À PRISÃO. AUSÊNCIA DE VAGAS NO REGIME SEMIABERTO. DILAÇÃO PROBATÓRIA INVIÁVEL NO WRIT. HABEAS CORPUS NÃO CONHECIDO.
+I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da eg. Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração. Contudo, no caso de se verificar configurada flagrante ilegalidade, recomenda a jurisprudência a concessão da ordem, de ofício.
+II -O pedido de fixação do regime aberto - aos argumentos de que já faria jus à progressão de regime;não haveria vaga no regime intermediário; e necessitaria concluir curso de graduação- não merece ser sequer conhecido, uma vez que não foi objeto de exame pelo eg. Tribunal de origem, não havendo como esta Corte proceder a tal análise, sob pena de indevida supressão de instância(precedentes).
+III -Da mesma forma, não há manifestação do Juízo das Execuções acerca do pedido de eventual progressão de regime, até porque não houve, ainda, o início do cumprimento da pena, constando dos autos a informação de que foi expedido mandado de prisão, até aquele momento (7/12/2015) ainda não cumprido.
+IV - Não há como se pleitear benefícios que podem ser obtidos durante o cumprimento da pena se esse sequer se iniciou. Faz-se necessário o recolhimento prévio do paciente à prisão, para que seja expedida guia de execução definitiva e tenha início a competência do Juízo das Execuções (precedentes).
+V - A avaliação da tese relativa à ausência de vagas em estabelecimento compatível com o regime semiaberto demandaria dilação probatória inviável no âmbito do writ, de cognição sumária, não sendo possível acolher o pedido com base em mera suposição (precedentes).
+Habeas Corpus não conhecido.(HC 343.139/SP, relator o Ministro Felix Fisher, Quinta Turma, DJe de 7/6/2016, grifei).
+Ante o exposto,não conheçodo presentehabeas corpus.
+Publique-se. Intimem-se. Dê-se ciência ao interessado.
