@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deJOSINALDO GALDINO ARAUJOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Agravo em execução n. 03393488119998190001, de relatoria do Desembargador Flávio Marcelo de Azevedo Horta Fernandes).
+Depreende-se dos autos que o paciente encontra-se em cumprimento de pena no regime semiaberto, e teve autorizadas visitas periódicas ao lar pelo Magistrado singular (e-STJ fl. 15).
+Interposto agravo em execução na origem, o Tribunal a quodeuprovimento aorecurso ministerial para cassar a decisão da primeirainstância (e-STJ fls. 39/55).
+Daí o presente writ, no qual alega a defesa fazer jus o paciente às saídas temporárias, em razão do cumprimento dos requisitos objetivos e subjetivos (e-STJ fl. 6).
+Requer, liminarmente e no mérito, o restabelecimento da decisão do Magistrado singular (e-STJ fl. 12).
+É o relatório.
+Decido.
+Preliminarmente, cumpre salientar que é competência do relator, em decisão in limine, aplicar jurisprudência pacífica do colegiado, conforme expressamente dispõem os incisos XVIII e XX do art. 34 do Regimento Interno do Superior Tribunal de Justiça, bem como julgados nesse sentido das turmas criminais desta Corte (vide AgRg no HC n. 622.778/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 10/12/2020; AgRg no HC n. 622.822/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/11/2020).
+No caso em tela, o Tribunal de origem fundamentou nos seguintes termos a negativa do referido benefício (e-STJ fls. 46/47):
+No caso dos autos, a despeito da progressão para o regime semiaberto e de ter o apenado alcançado o lapso temporal necessário para a concessão do benefício, verifica-se que ele é reincidente e cumpre extensa pena pela prática de crimes graves - tráfico de drogas (três vezes) e porte ilegal de arma de fogo ostentando, assim, personalidade desviada e voltada para a prática de delitos, o que não se coaduna com o requisito previsto no inciso III do artigo 123 da LEP, que exige, expressamente, a compatibilidade do benefício com os objetivos da pena.
+ ..
+Salienta-se que, em que pese tenha alcançado a progressão para o regime semiaberto, o implemento do requisito objetivo necessário para a concessão de possível livramento condicional ocorrerá somente em 28/06/2023 e o término de sua pena está previsto para, apenas, 19/09/2024, circunstâncias que impõem maior cautela na concessão da saída temporária, como bem destacado pelo MP.
+Como se não bastasse, o apenado ostenta o cometimento de duas faltas graves em sua TFD. Em uma delas, foi punido com 30 dias de isolamento e rebaixamento para "negativo" por 180 dias, vindo a ser absolvido quanto à outra. Além disso, o apenado foi "classificado, em 07/11/2014, na Unidade SEAPDC, no índice de comportamento neutro".
+Sobre o tema, a jurisprudência consolidada desta Corte é no sentido de que"há constrangimento ilegal na decisão indeferitória de pedido de saída temporária, fundamentada apenas na gravidade em abstrato dos delitos praticados pelo sentenciado, na quantidade de pena que resta cumprir, bem como em falta grave praticada há mais de 5 (cinco) anos"(AgRg no HC n. 477.838/RJ, relatorMinistro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/2/2019, DJe 1º/3/2019).
+No caso, como visto, a negativa do benefício teve como lastro a longa pena a cumprir, bem como o histórico de antecedente do agente e a prática de falta grave que, consigne-se, data de 2011 (e-STJ fl. 69).
+Portanto, estando as conclusões do acórdão hostilizado em sentido diametralmente oposto ao do entendimento desta Corte, de rigor a concessão da ordem para saneamento da ilegalidade flagrante,
+Ante o exposto, concedo a ordem liminarmente para restabelecer a decisão do Magistrado singular de e-STJ fls. 15/17.
+Publique-se. Intimem-se.
