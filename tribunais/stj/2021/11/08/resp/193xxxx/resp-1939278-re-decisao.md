@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por TAF TRANSPORTADORA FERNANDÓPOLIS LTDA,com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra decisão monocrática proferida pelo eminente Ministro Benedito Gonçalves, assim ementada (e-STJ fl. 971):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CDA. DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI LOCAL QUE FIXAVA JUROS DE MORA. LIMITAÇÃO À TAXA SELIC. SIMPLES CÁLCULO ARITMÉTICO. NULIDADE DA CDA. NÃO CABIMENTO. PRECEDENTES.HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. IMPOSSIBILIDADE NA ESPÉCIE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+Os embargos de declaração opostos na sequência foram rejeitados (e-STJ fls. 1.000-1.001.
+Sustenta arecorrente a repercussão geral da matéria tratada, aduzindo que o aresto impugnado violaria os arts. 5º, incisos LIV e LV, 145, incisos I e II, e 150, todos da Constituição Federal.
+Alega que "como ocorreu o reconhecimento através de V. Acórdão ou da decisão acerca da inaplicabilidade dos juros e no caso com o acolhimento da exceção de pré executividade e do agravo e do reconhecimento do vício, não pode a Fazenda do Estado simplesmente corrigir referidas CDAs mediante a pura e simples operação de re-cálculo sem concordância da outra parte, justamente tendo por base o critério do vicio e do erro formal de referidos instrumentos e também da análise do critério temporal adotado em referido julgado provindo da 10 Câmara de Direito Público do Egrégio Tribunal de Justiça do Estado de São Paulo o que por sua vez repercutir sobre o teor dos julgados proferidos pela a Colenda Segunda Turma do Colendo Superior Tribunal de Justiça e pela pré existência da Sumula 392 do Colendo Trtibunal que é o reconhecimento do fator de preclusão similar ao que ocorre no presente caso já que há ou existe uma r. decisão proferida pelo Poder Judiciário que demonstra o equivoco material e formal das CDAs, ante a questão da Insconstituciunalidade da Lei que regulamenta a aplicação dos juros moratórios em questão" (e-STJ fl. 1.026).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas contrarrazões (e-STJ fl. 1.043).
+É o relatório.
+Nos termos do art.102, inciso III, alínea "a", da Constituição Federal, compete ao Supremo Tribunal Federal o julgamento, mediante recurso extraordinário, das causas decididas em única ou última instância.
+No caso dos autos, verifica-se que o recurso extraordinário foi interposto em face de decisão monocrática proferida por integrante deste Superior Tribunal de Justiça, contra a qual seria cabível agravo interno.
+Dessa forma, ante a ausência de exaurimento das vias recursais nesta instância especial, deve ser aplicado o enunciado 281 da Súmulado Supremo Tribunal Federal, in verbis:
+É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+No mesmo sentido:
+Agravo regimental no recurso extraordinário com agravo. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Precedentes. 1. Incide no caso a Súmula nº 281 do Supremo Tribunal Federal, pois o recurso extraordinário foi interposto contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1246783 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS RECURSAIS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Consoante a Súmula 281 do Supremo Tribunal Federal, é inadmissível o recurso extraordinário quando couber na Justiça de origem recurso ordinário da decisão impugnada. II - Agravo regimental a que se nega provimento.
+(ARE 1265496 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 29/05/2020, PROCESSO ELETRÔNICO DJe-138 DIVULG 03-06-2020 PUBLIC 04-06-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO ENUNCIADO 281 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
