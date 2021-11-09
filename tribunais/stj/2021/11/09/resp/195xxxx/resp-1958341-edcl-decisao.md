@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ELAINE CRISTINA SCHIONATO THEODORO à decisão de fl. 67, que não conheceu do recurso.
+A parte embargante alega que "a petição nesta Corte Superior é de antecipação de tutela e não de Recurso Especial" (fl. 89), o qual já foi interposto perante o tribunal de origem, conforme cópia anexada às fls. 71/75.
+Requer o conhecimento e acolhimento dos embargos declaratórios.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios, não tendo apresentado impugnação, conforme certificado à fl. 93.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A parte embargante não discutiu os vícios previstos no art. 1.022 do CPC, valendo-se da via aclaratória para retificar o equívoco por ela cometido quando interpôs diretamente o recurso especial nesta Corte, limitando-se a repetir as mesmas alegações já declinadas na petição de fls. 3/7 e a requerer novamente tutela de urgência, em face do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nos autos do Agravo de Instrumento n. 2164224-86.2021.8.26.0000.
+Em princípio, conforme decidido, a concessão de tutela provisória "está intrinsecamente vinculada à possibilidade de êxito do recurso. Na espécie, tendo em vista o não conhecimento do recurso, fica prejudicado o pedido porquanto ausente o primeiro pressuposto, fumus boni juris." (fl. 67)
+No ponto, cumpre ressaltar que, interposto o recurso especial perante o tribunal de origem, na forma do art. 1.029, caput, do CPC, conforme noticiado pela parte, deve ser observada a normativa prevista no respectivo § 5º para eventual pleito de concessão de tutela de urgência, não sendo cabível a sua formulação em embargos de declaração opostos em face de decisão que não conheceu de recurso especial interposto diretamente nesta Corte, como ocorre na espécie.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
