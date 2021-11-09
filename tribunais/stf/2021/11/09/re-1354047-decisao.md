@@ -1,0 +1,43 @@
+DECISÃO: Trata-se de recurso extraordinário com base no art. 102, inciso III, da Constituição Federal.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, incisos II e IX, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, colhe-se da sentença mantida pelo acórdão atacado a seguinte fundamentação:
+
+    O caso em comento cinge-se à análise do direito ou não de a requerente receber valores decorrentes do FGTS – Fundo de Garantia por Tempo de Serviço, já que foi desligada do serviço público após ter servido por anos à Administração através de sucessivas prorrogações de contratos (designações).
+
+    Inicialmente, deve-se partir da premissa de que não se reconhece no caso o vínculo para contratação temporária que serve para atender a excepcional interesse público, renovada irregularmente sucessivas vezes. O que restou demonstrado é que houve designação para função pública ancorada em permissibilidade legal, nos termos do art. 10 da Lei Estadual 10.254/1990, in verbis:
+
+    (...)
+
+    Assim, conforme análise dos documentos trazidos aos autos, mormente dos contracheques e do memorando de ID534650022, tem-se que a requerente prestou serviço ao requerido na condição de designada entre os anos de 2011 e 2017, o que demonstra a relação jurídica de natureza administrativa.
+
+    E, por esta razão, a requerente não possui direito ao FGTS que, sabe-se, é aplicável apenas aos contratos regidos pelo regime celetista ou aos contratos temporários declarados nulos (art. 19-A da Lei Federal nº 8.036/1990).
+
+    (...)
+
+    Em sendo assim, através de overruling deste juízo, reconheço que a contratação em análise é legitimada por norma legal, a Lei Estadual nº 10.254/90, não havendo que se declarar, portanto, a nulidade dos contratos, sendo indevido o direito ao recebimento de FGTS.
+
+    Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário. Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe de 26/3/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 9 de novembro de 2021.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
