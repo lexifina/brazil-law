@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de MAURICIO APARECIDO JACOMO, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (fls. 10-12):
+"Habeas Corpus" Execução da pena Pedido de progressão de regime prisional Pretensão de acelerar o andamento do pedido formulado pela defesa Impossibilidade Questão que deve ser submetida à apreciação do Juízo da Vara das Execuções Criminais, sob pena de supressão de instância Matéria insuscetível de "habeas corpus" Não violada a Recomendação nº 62 do CNJ, editada em razão da pandemia de Covid-19 Ordem não conhecida."
+Daí o presente habeas corpus, no qual a d. Defesa, em resumo, afirma haver constrangimento ilegal pela negativa de progressão com determinação de exame criminológico sem fundamentação idônea, apenas amparada na gravidade abstrata do delito e na longa pena a cumprir.
+Alega que o paciente ostenta bom comportamento, únicos requisitos exigidos para a concessão da benesse.
+Requer a concessão da ordem, inclusive LIMINARMENTE, para a imediata progressão do paciente sem a necessidade de exame criminológico. No mérito, a confirmação da liminar, com a ordem definitiva.
+Liminar indeferida (fls. 29-31).
+Informações, às fls. 35-49.
+O d. Ministério Público Federal, às fls. 51-57, oficiou pelo não conhecimento da impetração, em r. parecer de seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE RECURSO. INADMISSIBILIDADE. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA. HC NÃO CONHECIDO PELA CORTE DE ORIGEM. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA (SENTENCIADO QUE PRATICOU NOVO CRIME DURANTE O CUMPRIMENTO DE LIVRAMENTO CONDICIONAL). CONCESSÃO DO BENEFICIO QUE SE MOSTRA PREMATURA. NECESSIDADE DE MAIOR AVALIAÇÃO DAS CONDIÇÕES PESSOAIS DO APENADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. NÃO CONHECIMENTO DA IMPETRAÇÃO.
+Parecer pelo não conhecimento da impetração."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Para melhor delimitar a quaestio, transcrevo trechos do v. acórdão combatido, na parte que importa (fl. 20):
+"O MM. Juiz justificou a necessidade do exame criminológico com base na gravidade concreta dos delitos praticados pelo paciente latrocínio e roubo qualificado, e para averiguar a sua personalidade, sua periculosidade, eventual arrependimento e a possibilidade de voltar a cometer crimes."
+A r. decisão do d. Juízo da Execução (fl. 23):
+"Por considerar que os crimes atribuídos ao sentenciado são de maior gravidade (dois latrocínios e roubo majorado), bem como a quantidade de pena imposta, determino a realização da avaliação preconizada pela Resolução SAP 88, de 28-4-2010,a fim de que o pedido de progressão ao regime semiaberto possa ser analisado de forma mais criteriosa."
+Pois bem.
+Ora, em termos legais, a progressão de regime está condicionada ao preenchimento dos requisitos objetivo e subjetivo.
+Na hipótese vertente, tendo o paciente alcançado o requisito temporal e havendo reconhecimento do seu bom comportamento carcerário durante o período da execução da pena, não se mostra possível o indeferimento da benesse, ao fundamento de necessidade de experiência por maior tempo no regime intermediário ou de longa pena a cumprir ou mesmo de gravidade abstrata dos crimes cometidos.
+Claro, quando não indicados elementos outros desabonadores da conduta do paciente extraídos da própria execução penal.
+Nestes autos, embora as memoráveis considerações do d. Ministério Público Federal, a menção ao crime que teria sido cometido quando em livramento condicional não consta de qualquer das decisões a quo, tendo sido consignadoapenas quando das informações nestes autos (fl. 35):
+"E tal determinação não se deu apenas com base nos delitos graves cometidos pelo sentenciado, mas também porque o sentenciado praticou novo crime durante o cumprimento de pena no livramento condicional que originou a condenação pela prática de latrocínio.
+Tal fato demonstra claramente que necessita ser mais bem avaliado para fins de novamente ser colocado em regime mais brando, já que uma vez concedido o benefício o sentenciado reiterou a prática criminosa em crime gravíssimo."
+Não existe, contudo, nenhum documento com a informação acima.
+Sendo assim, injustificada é a negativa ao benefício buscado apenas ancorada na longa pena a cumprir e na gravidade abstrata dos crimes praticados.
+Veja-se:
+"EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. ACÓRDÃO QUE CASSA A DECISÃO CONCESSIVA DE LIVRAMENTO CONDICIONAL E A CONDICIONA À REALIZAÇÃO DE EXAME CRIMINOLÓGICO. SÚMULA 439/STJ. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. GRAVIDADE DO PRÓPRIO TIPO PENAL. NECESSIDADE DE PASSAGEM POR REGIME INTERMEDIÁRIO. REQUISITO NÃO PREVISTO EM LEI. CONSTRANGIMENTO ILEGAL CARACTERIZADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.  ..
+2. De acordo com a Súmula 439/STJ, "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". No caso dos autos, verifica-se que foram devidamente preenchidos os requisitos legais, tanto objetivos como subjetivos, e que o acórdão impugnado utilizou-se de argumento inidôneo para cassar a decisão que deferiu o benefício do livramento condicional para determinar a recondução do paciente ao regime semiaberto e à realização de exame criminológico, baseando-se tão somente na gravidade do delito e na impossibilidade da chamada progressão per saltum de regime prisional.
+3. Esta Corte de Justiça possui entendimento de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de tal previsão no art. 83 do Código Penal.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar o acórdão impugnado e restabelecer a decisão que deferiu ao paciente o benefício do livramento condicional" (HC 341.779/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 3/8/2016, grifei).
+"EXECUÇÃO PENAL. HABEAS CORPUS. LIVRAMENTO CONDICIONAL. INDEFERIMENTO DEVIDO A GRAVIDADE EM ABSTRATO DO DELITO E A LONGA PENA A CUMPRIR. FUNDAMENTOS INIDÔNEOS. ORDEM CONCEDIDA.
+1. A gravidade em abstrato do delito e a longa pena a cumprir não são fundamentos idôneos para indeferir o livramento condicional, por ausência de requisito subjetivo.
+2. O quantum da reprimenda imposta possui relevância apenas no que se refere ao requisito objetivo, e a gravidade do delito exaure-se na fixação da pena, não podendo ser considerados para efeito do livramento condicional.
+3. O art. 112 da Lei de Execução Penal exige, para o preenchimento do requisito subjetivo, apenas o atestado de bom comportamento carcerário, firmado pelo diretor do estabelecimento prisional, podendo o magistrado, quando quer melhor aferir a periculosidade do sentenciado, determinar a realização de exame criminológico, desde que o faça por meio de decisão fundamentada nas peculiaridades do caso concreto.
+4. Ordem concedida para determinar que o Juízo da Vara de Execuções Criminais da Comarca de Bauru reavalie se o paciente preenche os requisitos para a obtenção do livramento condicional, desconsiderando, na aferição do requisito subjetivo, a longa pena a cumprir e a gravidade do delito perpetrado" (HC 125.958/SP, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJe 3/11/2009, grifei).
+Ante o exposto, não conheço do writ. Concedo a ordem, de ofício, para, afastando a necessidade de realização de exame criminológico, anular o v. acórdão de origem e determinar, aod. Juízo da Execução que, em análise atualizada, se abstenha de utilizar os parâmetros acima indicados.
+Recomenda-se celeridade.
+Intime-se, com urgência, a origem.
+P. I. C.
