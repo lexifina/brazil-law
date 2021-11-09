@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus, interposto por EDRO HENRIQUE FREIRE MACHADO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE no julgamento do HC n. 0805744-76.2021.8.20.0000.
+Extrai-se dos autos que o recorrente teve a prisão preventiva decretada em 21/10/2020, em consonância com a representação da Autoridade Policial e manifestação favorável do Ministério Público, e, em 9/2/2021 foi denunciado pela suposta prática dos crimes previstos nos arts. 121, §2º, II e IV e art. 121, §2º, II e IV c/c art. 14, II, na forma do art. 69, todos do Código Penal (homicídio qualificado e homicídio qualificado tentado). Em 5/5/2021 o recorrente foi pronunciado, tendo o Juízo de primeiro grau mantido sua segregação antecipada.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"CONSTITUCIONAL E PROCESSUAL PENAL. . HABEAS CORPUS DELITOS DE HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO. PRETENSA REVOGAÇÃO DA PRISÃO PREVENTIVA ANTE A AUSÊNCIA DOS PRESSUPOSTOS E REQUISITOS AUTORIZADORES DA MESMA. NÃO ACOLHIMENTO. DECISÃO ADEQUADAMENTE MOTIVADA. ELEMENTOS CONCRETOS CONSTANTES NOS AUTOS. PRESSUPOSTOS E REQUISITOS DA SEGREGAÇÃO CAUTELAR DEMONSTRADOS. PLEITO PELA APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO (ART. 319 DO CPP). NÃO ACOLHIMENTO. INSUFICIÊNCIA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL . PERICULOSIDADE CONCRETA DO PACIENTE. PREDICADOS PESSOAIS POSITIVOS QUE NÃO OBSTAM A MEDIDA EXTREMA. ORDEM CONHECIDA E DENEGADA." (fls. 619/620).
+No presente recurso, a defesa sustenta que o recorrente conta com condições pessoais favoráveis não havendo necessidade da prisão preventiva.
+Alega ausência de fundamentação concreta que justifique a manutenção da segregação antecipada do recorrente, baseada apenas na gravidade abstrata do delito. Assevera não estarem presentes os requisitos previstos no art. 312 do CPP.
+Ressalta a excepcionalidade da custódia cautelar e assegura a suficiência da aplicação de medidas cautelares alternativas, previstas no art. 319 do CPP.
+Requer, em liminar e no mérito, a revogação da prisão preventiva do recorrente, ainda que mediante a aplicação de medidas cautelares diversas do cárcere.
+Sem pedido liminar, o Ministério Público Federal opinou pelo desprovimento do recurso (fl. 652).
+É o relatório.
+Decido.
+Cumpre ressaltar que foi formulado pedido idêntico em benefício do mesmo recorrente no HC 671.734/RN, de minha relatoria, no qual não conheci do writ.
+Assim, tendo o presente mandamus a mesma parte e questionando matéria anteriormente arguida no referido habeas corpus, o qual diz respeito à mesma ação penal de origem, inclusive contra o mesmo julgado, resta configurada inadmissível reiteração, o que impede o conhecimento das alegações.
+Confira-se a jurisprudência pacífica deste Tribunal:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC  112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo: não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz. que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP. Rei. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. INDEFERIMENTO LIMINAR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, XX, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. TRÁFICO. INEXISTÊNCIA DE PROVA DE AUTORIA E MATERIALIDADE. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA. SÚMULA N. 52/STJ. COAÇÃO ILEGAL NÃO CONFIGURADA. INSURGÊNCIA DESPROVIDA.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+2. O art. 34, XX, do Regimento Interno desta Corte Superior, autoriza o relator a decidir o habeas corpus quando for manifestamente inadmissível, exatamente como ocorre na espécie, inexistindo prejuízo à parte, já que dispõe do respectivo regimental, razão pela qual não se configura ofensa ao princípio da colegialidade.
+3. As alegações de inexistência de prova da materialidade delitiva e de indícios de autoria, de falta de fundamentação e de requisitos para a manutenção da prisão cautelar ou da possibilidade de sua substituição por outras medidas cautelares já foram analisadas no RHC n. 88.794/SP e do HC n. 464.390 decididos anteriormente, o que configura a simples reiteração de pedido, o que autoriza o indeferimento liminar do writ.
+4. A prolação de sentença condenatória prejudica a análise de eventual excesso de prazo para a formação da culpa, nos termos do enunciado sumular n. 52 do Superior Tribunal de Justiça.
+5. Agravo regimental desprovido.
+(AgRg no HC 505.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 06/06/2019).
+Ante exposto, não conheço do presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
