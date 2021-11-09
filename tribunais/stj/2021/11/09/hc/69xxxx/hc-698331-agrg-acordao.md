@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 123, I e III, DA LEI N. 7.210/1984. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO NÃO PROVIDO.
+1. O fato de o condenado encontrar-se no regime semiaberto não é suficiente para garantir-lhe os benefícios da saída temporária ou de trabalho externo, quando ausentes outras condições especificadas em lei. 3. As benesses solicitadas pelo paciente representam medidas que visam à ressocialização do preso. Contudo, para fazer jus aos referidos benefícios, o apenado deve necessariamente cumprir todos os requisitos objetivos e subjetivos, consoante se depreende do disposto no caput do art. 123 da LEP, requisitos que não foram preenchidos.  ..  (AgRg no HC 465.958/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 4/8/2020, DJe 10/8/2020).
+2. Em hipótese similar: A prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Min. FELIX FISCHER, julgado em 28/6/2016).
+3. No caso, o Tribunal coator havia ressaltado que o apenado praticou uma falta grave consistente em evasão na ocasião em que gozava de uma visita periódica ao lar, e embora tenha ocorrido em 2009, somente foi recapturado em 2018, ou seja, permaneceu foragido por 9 anos. Esses fatores realmente justificam o indeferimento da visita periódica ao lar, tendo em vista que, durante o gozo do mesmo benefício anteriormente, permaneceu na condição de foragido por muito tempo.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto em favor de ROGERIO DA SILVA FELIX contra decisão monocrática que não conheceu do habeas corpus (e-STJ, fls. 77/83).
+No presente recurso, a defesa alega que o recorrente encontra-se há mais de 2 anos no regime semiaberto e que a última falta disciplinar foi praticada em 2009, sendo que, após ela, seu comportamento passou a ser exemplar.
+Destaca o princípio da ressocialização da pena, sustentando que deve-se verificar apenas as faltas recentes, sob pena de punir de forma perpétua.
+Em vista de todo o exposto, requer a reconsideração da decisão agravada ou que o feito seja submetido a julgamento perante a Quinta Turma desta Corte.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 123, I e III, DA LEI N. 7.210/1984. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO NÃO PROVIDO.
+1. O fato de o condenado encontrar-se no regime semiaberto não é suficiente para garantir-lhe os benefícios da saída temporária ou de trabalho externo, quando ausentes outras condições especificadas em lei. 3. As benesses solicitadas pelo paciente representam medidas que visam à ressocialização do preso. Contudo, para fazer jus aos referidos benefícios, o apenado deve necessariamente cumprir todos os requisitos objetivos e subjetivos, consoante se depreende do disposto no caput do art. 123 da LEP, requisitos que não foram preenchidos.  ..  (AgRg no HC 465.958/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 4/8/2020, DJe 10/8/2020).
+2. Em hipótese similar: A prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Min. FELIX FISCHER, julgado em 28/6/2016).
+3. No caso, o Tribunal coator havia ressaltado que o apenado praticou uma falta grave consistente em evasão na ocasião em que gozava de uma visita periódica ao lar, e embora tenha ocorrido em 2009, somente foi recapturado em 2018, ou seja, permaneceu foragido por 9 anos. Esses fatores realmente justificam o indeferimento da visita periódica ao lar, tendo em vista que, durante o gozo do mesmo benefício anteriormente, permaneceu na condição de foragido por muito tempo.
+4. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental é tempestivo e rechaçou os fundamentos da decisão combatida, razões pelas quais merece conhecimento.
+No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão, cuja conclusão mantém-se, por seus próprios fundamentos.
+O agravante impugna a seguinte decisão (e-STJ, fls. 80/82):
+ ..
+Verifico, na transcrição do voto acima, que o Tribunal apontou elementos concretos da execução da pena, para cassar o benefício, ao explicar que o apenado, apesar de agraciado com o regime semiaberto, em 4/5/2020, em oportunidade anterior, inclusive quando gozava de uma visita periódica ao lar, ele se avadiu do sistema carcerário em 8/1/2009, sendo capturado somente em 10/1/2018, ou seja, permanceu foragido por 9 anos, o que configura falta grave, relativamente recente.
+A Lei de Execuções Penais disciplinar as saídas temporárias da seguinte forma:
+Art. 122. Os condenados que cumprem pena em regime semi-aberto poderão obter autorização para saída temporária do estabelecimento, sem vigilância direta, nos seguintes casos: I - visita à família;  ..  § 2º Não terá direito à saída temporária a que se refere o caput deste artigo o condenado que cumpre pena por praticar crime hediondo com resultado morte.
+Art. 123. A autorização será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária e dependerá da satisfação dos seguintes requisitos: I - comportamento adequado; II - cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário, e 1/4 (um quarto), se reincidente; III - compatibilidade do benefício com os objetivos da pena.
+Como se pode ver, um dos requisitos subjetivos para a autorização da visita ao lar é o comportamento adequado.
+Na espécie, o Tribunal destacou que o executado tem histórico de evasão do sistema carcerário, não se mostrando, assim, compatível o benefício com os objetivos da pena imposta. Nesse sentido:
+ ..
+Sobre o argumento defensivo de que as faltas já teriam sido reabilitadas, tem-se que a prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Min. FELIX FISCHER, julgado em 28/6/2016).
+Desse modo, não há qualquer ilegalidade a ser reparada.
+Na decisão acima, deixou-se claro que, segundo jurisprudência pacífica desta Corte, o mais importante não é o tempo decorrido da última infração disciplinar, nem mesmo que ela já esteja reabilitada, e sim a respectiva gravidade, bem como as circunstâncias em que praticada, a repetição etc.
+No caso, o Tribunal coator havia ressaltado que o apenado praticou uma falta grave consistente em evasão na ocasião em que gozava de uma visita periódica ao lar, e, embora tenha ocorrido em 2009, somente foi recapturado em 2018, ou seja, permaneceu foragido por 9 anos.
+Esses fatores realmente justificam o indeferimento da visita periódica ao lar, tendo em vista que, durante o gozo do mesmo benefício anteriormente, ficou na condição de fugitivo por muito tempo.
+Ante o exposto, nego provimento ao presente agravo regimental.
+É como voto.
