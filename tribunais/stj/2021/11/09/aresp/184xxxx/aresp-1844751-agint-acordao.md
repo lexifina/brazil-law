@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que conheceu do Agravo para não conhecer do Recurso Especial, por incidência das Súmulas 282, 284 e 356/STF, além do caráter eminentemente constitucional da demanda.
+O acórdão foi assim ementado (fls. 49-57, e-STJ):
+ILEGITIMIDADE PASSIVA. Execução fiscal. IPTU dos exercícios de 2016 a 2018. Imóvel alienado fiduciariamente ao banco executado. Sujeição passiva do devedor fiduciante, nos termos dos Artigos 32 e 34 do Código Tributário Nacional e o Artigo 27 da Lei 9.514/97. Posse exercida de forma precária e que não tem por objeto a efetiva aquisição da propriedade, na medida em que proprietário, como definido na lei civil, é aquele possuidor dos direitos de uso, gozo e disposição do bem, o que não ocorre no caso de propriedade fiduciária, onde não se fazem presentes nenhum desses direitos - Artigo 1.228 do Código Civil - Precedentes do STF, do STJ e desta Corte. Ilegitimidade passiva do credor fiduciário. Exceção de pré-executividade acolhida. Extinção da execução fiscal determinada em relação ao banco agravante, nos termos do artigo 485, inciso VI, do CPC, devendo ela ter prosseguimento unicamente em face do coexecutado.
+RECURSO PROVIDO
+Defende o Município de São Paulo que não se trata de matéria constitucional e que a matéria foi prequestionada, porque a decisão impugnada emitiu juízo explícito a respeito do tema. Complementa:
+Na alienação fiduciária, o banco passa a ser proprietário do imóvel objeto da tributação e, consequentemente, contribuinte do imóvel, nos termos do artigo 34 do Código Tributário Nacional, conjuntamente com o devedor fiduciante, esse na qualidade de possuidor do imóvel.
+E o recurso especial interposto pelo Município demonstrou que o v. acórdão violou esse dispositivo ao, apesar de reconhecer a propriedade resolúvel da Agravada, afastar a sua sujeição passiva ao IPTU.
+3 - CONCLUSÃO Ante todo o exposto, e demonstrada admissibilidade do recurso especial interposto, requer o agravante que seja reconsiderada a r. decisão recorrida, ou quando não, distribuído o presente Agravo ao julgamento da Egrégia Turma a fim de que se conheça do Recurso Especial interposto, inclusive para julgamento no rito dos recursos repetitivos.
+Impugnação às fls. 148-167, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IPTU. RESPONSABILIDADE DO FIDUCIANTE. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que conheceu do Agravo para não conhecer do Recurso Especial, por incidência das Súmulas 282, 284 e 356/STF, além do caráter eminentemente constitucional da demanda.
+2. Em que pese o Supremo Tribunal Federal ter decidido ser infraconstitucional "a controvérsia relativa à legitimidade passiva do credor fiduciário para figurar em execução fiscal de imposto sobre a propriedade predial e territorial urbana - IPTU incidente sobre imóvel objeto de alienação fiduciária" (RE 1.320.059 -Tema 1039/STF), o Recurso não merece prosseguimento.
+3. O Recurso Especial, de fundamentação vinculada, exige a indicação do dispositivo legal que teria sido violado ou objeto de interpretação divergente e a exposição, de forma clara e individualizada, das razões de reforma do acórdão recorrido, sob pena de incidência, por analogia, da Súmula 284/STF.
+4. Os arts. 1.359 e 1.360 do CC e os art. 117, II, e 123 do CTN não foram analisados pela instância de origem, tampouco se opuseram Embargos Declaratórios para suprir eventual omissão. Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4 de agosto de 2021.
+Em que pese o Supremo Tribunal Federal ter decidido ser infraconstitucional "a controvérsia relativa à legitimidade passiva do credor fiduciário para figurar em execução fiscal de imposto sobre a propriedade predial e territorial urbana - IPTU incidente sobre imóvel objeto de alienação fiduciária" (RE 1.320.059 -Tema 1039/STF), o Recurso não merece prosseguimento. O Tribunal a quo consignou (fls. 51 e 52, e-STJ):
+Com efeito, o credor fiduciário não pode ser considerado como proprietário do imóvel para fins de sujeição passiva do IPTU, na medida em que proprietário, como definido na lei civil - artigo 1.228 do Código Civil -, é aquele possuidor dos direitos de uso, gozo e disposição do bem, o que não ocorre no caso de propriedade fiduciária, onde não se fazem presentes nenhum desses direitos.
+A posse apta a ensejar a incidência do IPTU, somente seria aquela qualificada pelo animus domini, não incidindo sobre a posse exercida de forma precária e que não tem por objeto a efetiva aquisição da propriedade, tal como acontece nos casos do credor fiduciário que, possuindo a posse indireta do imóvel, não tem por objetivo a aquisição definitiva da propriedade do bem.
+O Recurso Especial, de fundamentação vinculada, exige a indicação do dispositivo legal que teria sido violado ou objeto de interpretação divergente e a exposição, de forma clara e individualizada, das razões de reforma do acórdão recorrido, sob pena de incidência, por analogia, da Súmula 284/STF.
+Conforme já mencionado na decisão monocrática, os arts. 1.359 e 1.360 do CC e os art. 117, II, e 123 do CTN não foram analisados pela instância de origem, tampouco se opuseram Embargos Declaratórios para suprir eventual omissão. Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sem razões para reconsiderar o decisum presidencial.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
