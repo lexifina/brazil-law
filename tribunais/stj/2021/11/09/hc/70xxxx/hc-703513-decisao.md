@@ -1,0 +1,22 @@
+DECISÃO
+RHENNA DA SILVA BORGES alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação n. 0182405-46.2007.8.19.0004.
+Nesta Corte, o impetrante postula seja declarada a nulidade do decisum, uma vez que, embora haja juntado a procuração a ele outorgada pelo paciente e requerido sua intimação para realizar sustentação oral, o feito foi julgado sem prévia notificação da defesa. Afirma que a situação é idêntica à já apreciada no HC n. 681.106/RJ, impetrado em favor de corréu, no qual foi concedida a ordem.
+De fato, observo que a situação trazida nestewrité idêntica à hipótese já apreciada no HC n. 681.106/RJ. Com efeito: a) em 17/2/2020, o ora impetrante juntou aos autos procuração a ele outorgada pelo ora paciente; b) em12/8/2020,apresentou as razões recursais e pugnou "que este causídico seja intimado para o julgamento da presente apelação, com a sua prerrogativa de uso da voz para sustentação oral" (fl. 52).
+Logo, verifica-se a ocorrência de ilegalidade na espécie, como delineado nodecisumproferido nowritimpetrado em favor de corréu. Confira-se (destaques no original):
+Extrai-se dos autos que, em 27/1/2020, o ora impetrante a juntou aos autos a procuração a ele outorgada pelo paciente e postulou a devolução do prazo para oferecimento das razões de apelação (fls. 18-19). Em 12/8/2020, apresentou as razões recursais e pugnou "que este causídico seja intimado para o julgamento da presente apelação, com a sua prerrogativa de uso da voz para sustentação oral" (fl. 38).
+Em 16/4/2021, a Defensoria Pública e o Ministério Público foram intimados da inclusão do feito na pauta de julgamentos do dia 4/5/2021 (fls. 41-42).
+Em 13/7/2021 foi lavrada certidão com o seguinte teor (fl. 40, grifei):
+Certifico que nesta data em atendimento de advogado via telefone cadastrei o patrono dos acusados RHENNA e PETERSON, Dr. Medson Coutinho OAB/RJ 145963, no Sistema DCP eis que apesar do mesmo possuir procuração nos autos não constava o cadastrado no Sistema.
+Pela análise das informações, vê-se que, embora a defesa constituída do ora paciente haja manifestado seu interesse em realizar sustentação oral, não foi previamente intimada acerca da data designada para o julgamento.
+Assim, está caracterizado o cerceamento da garantia constitucional da ampla defesa, o que ocasionou prejuízo lógico aos interesses do paciente, uma vez que o profissional por ele contratado não acompanhou o julgamento do recurso e não teve oportunidade de requerer sustentação oral ou apresentar inconformismo contra o acórdão estadual.
+Deveras: "Esta Corte Superior entende ser necessária a intimação do advogado constituído para a sessão de julgamento da apelação criminal, com o fim de garantir o contraditório e a ampla defesa" (HC n. 456.419/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 6/12/2018). No mesmo sentido:
+ ..
+2. "A ausência de intimação do defensor constituído pelo acusado sobre a data do julgamento do recurso de apelação, a teor do disposto no artigo 370, § 1º, do Código de Processo Penal, gera nulidade do processo, tendo em vista que a ausência de publicidade do ato viola o princípio da ampla defesa" (HC n. 342.748/MA, Rel. Min. Jorge Mussi, Quinta Turma, Dje 13/4/2016).
+No mesmo sentido é o teor do enunciado n. 431 da Súmula do Supremo Tribunal Federal - STF que estabelece que "é nulo o julgamento de recurso criminal, na segunda instância, sem prévia intimação, ou publicação da pauta, salvo em habeas corpus".
+ ..
+(HC n. 450.768/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 4/4/2019, destaquei)
+Logo, tal como manifestou o Subprocurador-Geral da República José Elaeres Marques Teixeira, "a defesa de Petterson Borges da Costa restou prejudicada, pois ao seu patrono sequer foi oportunizada a possibilidade de manifestar interesse em realizar sustentação oral na sessão de julgamento virtual, em prejuízo à sua ampla defesa" (fl. 183).
+Por se tratar de situação idêntica ao caso anteriormente apreciado, em que houve parecer ministerial favorável à concessão da ordem,entendo ser cabível o acolhimento do pleitoin limine.
+À vista do exposto, concedo o habeas corpus,in limine, para anular o julgamento da Apelação n. 0182405-46.2007.8.19.0004 e determinar sua renovação mediante prévia intimação do defensor constituído do ora paciente.
+Comunique-se, com urgência, o inteiro teor deste decisum ao Tribunal de origem, preferencialmente pela Central do Processo Eletrônico do STJ.
+Publique-se e intimem-se.
