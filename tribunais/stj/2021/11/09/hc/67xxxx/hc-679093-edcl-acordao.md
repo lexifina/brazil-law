@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTOS CONCRETOS. INEXISTÊNCIA DE OMISSÃO. ACLARATÓRIOS REJEITADOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+II - O Tribunal de origem apreciou concretamente as circunstâncias do crime desfavoráveis ao paciente, em razão do modus operandi empregado na execução do delito, vale dizer, utilização de um caminhão para facilitar o transporte das mercadorias receptadas, fatores que apontam maior censura na conduta e justificam a exasperação da pena-base. Referidas circunstâncias não são inerentes ao dispositivo violado, pois se referem ao modus operandi do delito, que desborda da conduta tipificada e reflete especial gravidade, eis que demonstra expertise para êxito do delito.
+III - Sobre o desvalor das consequências do crime, também houve justificativa concreta, em razão do "valor do prejuízo causado à ECT, no importe de R$ 41.427,58 (quarenta e um mil, quatrocentos e vinte e sete reais e cinquenta e oito centavos)", elementos que exigem resposta penal superior, em atendimento aos princípios da proporcionalidade e da individualização da pena.
+IV - Na hipótese, não houve omissão no julgado, de modo que demais ilações a respeito da insurgência da embargante, acarretará no reexame de matéria já julgada, situação que não se coaduna com o instrumento dos declaratórios.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos em favor de ALEXANDRE FERREIRA DE SOUZA contra acórdão que negou provimento ao agravo interposto contra decisão que não conheceu do habeas corpus impetrado contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO.
+Nestes aclaratórios, o embargante sustenta ocorrência de omissão no julgado, sob a premissa de que: "a decisão embargada não observou o requerimento expresso de bis in idem com relação ao aumento da pena base, tendo em vista a utilização de circunstâncias que são inerentes ao próprio tipo pena".
+Postula, ao final, seja sanada a alegada omissão, dando provimento aos embargos, concedendo-lhes efeitos modificativos (fls. 154-158).
+É o relato.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTOS CONCRETOS. INEXISTÊNCIA DE OMISSÃO. ACLARATÓRIOS REJEITADOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+II - O Tribunal de origem apreciou concretamente as circunstâncias do crime desfavoráveis ao paciente, em razão do modus operandi empregado na execução do delito, vale dizer, utilização de um caminhão para facilitar o transporte das mercadorias receptadas, fatores que apontam maior censura na conduta e justificam a exasperação da pena-base. Referidas circunstâncias não são inerentes ao dispositivo violado, pois se referem ao modus operandi do delito, que desborda da conduta tipificada e reflete especial gravidade, eis que demonstra expertise para êxito do delito.
+III - Sobre o desvalor das consequências do crime, também houve justificativa concreta, em razão do "valor do prejuízo causado à ECT, no importe de R$ 41.427,58 (quarenta e um mil, quatrocentos e vinte e sete reais e cinquenta e oito centavos)", elementos que exigem resposta penal superior, em atendimento aos princípios da proporcionalidade e da individualização da pena.
+IV - Na hipótese, não houve omissão no julgado, de modo que demais ilações a respeito da insurgência da embargante, acarretará no reexame de matéria já julgada, situação que não se coaduna com o instrumento dos declaratórios.
+Embargos de declaração rejeitados.
+VOTO
+Preambularmente, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+O embargante sustenta ocorrência de omissão no julgado, sob a premissa de que: "a decisão embargada não observou o requerimento expresso de bis in idem com relação ao aumento da pena base, tendo em vista a utilização de circunstâncias que são inerentes ao próprio tipo pena".
+À vista disso, no que se refere à alegada insurgência do embargante, tenho que não houve omissão no julgado.
+Conforme consta na decisão embargada, o Tribunal de origem apreciou concretamente as circunstâncias do crime desfavoráveis ao paciente, em razão do modus operandi empregado na execução do delito, vale dizer, utilização de um caminhão para facilitar o transporte das mercadorias receptadas, fatores que apontam maior censura na conduta e justificam a exasperação da pena-base.
+Referidas circunstâncias não são inerentes ao dispositivo violado, pois se referem ao modus operandi do delito, que desborda da conduta tipificada e reflete especial gravidade, eis que demonstra expertise para êxito do delito.
+Sobre o desvalor das consequências do crime, também houve justificativa concreta, em razão do "valor do prejuízo causado à ECT, no importe de R$ 41.427,58 (quarenta e um mil, quatrocentos e vinte e sete reais e cinquenta e oito centavos)", elementos que exigem resposta penal superior, em atendimento aos princípios da proporcionalidade e da individualização da pena.
+Por fim, a alegação de que o fundamento utilizado é exatamente o mesmo para as duas circunstâncias judicias não merece prosperar, pois foram utilizados fundamentos distintos.
+De fato, não houve omissão no julgado , de modo que demais ilações a respeito da insurgência da embargante, acarretará no reexame de matéria já julgada, situação que não se coaduna com o instrumento dos declaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
