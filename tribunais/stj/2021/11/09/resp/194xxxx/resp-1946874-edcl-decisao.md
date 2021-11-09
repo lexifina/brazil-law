@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Margarida Henrique de Andrade Domingos contra decisão assim ementada (fl. 290):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL.APOSENTADORIA POR IDADE RURAL. INÍCIO DE PROVA MATERIAL CORROBORADA POR PROVA TESTEMUNHAL. VALIDADE.REVALORAÇÃO DA PROVA. POSSIBILIDADE. RECURSO PROVIDO.
+A parte embargante sustenta, em síntese, que houve contradição na decisão embargada, uma vez que constou no dispositivo da decisão que a sentença julgou procedente a concessão da aposentadoria rural por idade, quando, na verdade, julgou improcedente o pedido inicial da autora. Requer, ao final, a superação do vício apontado, determinando-se otermo inicial do benefício na data de20/12/2016.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, anota-se, de fato, a ocorrência da contradiçãono julgado embargado, merecendo acolhimento o pedido da embargante, porquantoconsta na decisão monocrática que "Ante o exposto, dou provimento ao recurso especial para restabelecer a sentença que concedeu a aposentadoria rural por idade ao julgar procedente o pedido inicial da autora e, por conseguinte, inverto o ônus da sucumbência." (fl. 297).
+Contudo, consta no acórdão recorrido que "a r. sentença de primeiro grau julgou improcedente o pedido formulado na exordial, extinguindo o feito, com resolução de mérito, nos termos do artigo 487, inciso I, do Código de Processo Civil", e "condenou a parte autora a arcar com as custas, despesas processuais, bem como honorários advocatícios, fixados em R$ 300,00 (trezentos reais), observada a gratuidade processual concedida." (fl. 201).
+Ante o exposto, acolho os embargos de declaração,sanando o vício apontado de que a sentença julgou procedente o pedido inicial efazer constar que o recurso especial foi provido, para conceder a aposentadoria rural por idade, a partir de 20/12/2016, data do indeferimento do pedido inicial pelo INSS.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE. DIREITO ASSEGURADO. CONTRADIÇÃONO DISPOSITIVO DO JULGADO EMBARGADO. VÍCIO SANADO. EMBARGOS ACOLHIDOS.
