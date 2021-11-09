@@ -1,0 +1,33 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. PRISÃO PREVENTIVA. REGIME SEMIABERTO ESTABELECIDO NA SENTENÇA. COMPATIBILIDADE. WRIT CONTRA INDEFERIMENTO DE LIMINAR NA ORIGEM. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. SÚMULA 691/STF. AGRAVO NÃO PROVIDO.
+1. Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+2. In casu, não se verificou a ocorrência de flagrante ilegalidade na decisão de origem, que indeferiu o pedido liminar, de modo a justificar o processamento da impetração e o pronunciamento antecipado desta Corte, pois "não há incompatibilidade na fixação do modo semiaberto de cumprimento da pena e o instituto da prisão preventiva, bastando a adequação da constrição ao modo de execução estabelecido" (AgRg no RHC 110.762/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/5/2020, DJe 3/6/2020).
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por GILBERTO DOS SANTOS SILVA contra decisão do Ministro Presidente deste Tribunal Superior, que indeferiu liminarmente o writ, com fundamento na Súmula 691/STF.
+Neste recurso, o agravante sustenta que: a) "está cristalina a flagrante ilegalidade consubstanciada na incompatibilidade do regime semiaberto com a manutenção da prisão preventiva" (e-STJ, fl. 46); b) "diante da superveniêricia da sentença que condenou o paciente à pena privativa de liberdade de 06 anos de reclusão em regime semiaberto, a prisão cautelar em face do paciente tornou-se mais gravosa do que a própria pena" (e-STJ, fl. 54)
+Pleiteia o provimento do recurso para que seja revogada a prisão preventiva, ainda que com a aplicação de medidas cautelares diversas.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. PRISÃO PREVENTIVA. REGIME SEMIABERTO ESTABELECIDO NA SENTENÇA. COMPATIBILIDADE. WRIT CONTRA INDEFERIMENTO DE LIMINAR NA ORIGEM. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. SÚMULA 691/STF. AGRAVO NÃO PROVIDO.
+1. Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+2. In casu, não se verificou a ocorrência de flagrante ilegalidade na decisão de origem, que indeferiu o pedido liminar, de modo a justificar o processamento da impetração e o pronunciamento antecipado desta Corte, pois "não há incompatibilidade na fixação do modo semiaberto de cumprimento da pena e o instituto da prisão preventiva, bastando a adequação da constrição ao modo de execução estabelecido" (AgRg no RHC 110.762/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/5/2020, DJe 3/6/2020).
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal." (AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019)
+"Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF." (AgRg no HC 496.205/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/03/2019, DJe 01/04/2019)
+No caso, o Tribunal de origem indeferiu o pleito liminar por não verificar, em um primeiro exame, o alegado constrangimento ilegal que justificasse a antecipação do mérito, em decisão assim motivada:
+"Sob corte cognitivo, indefiro a medida liminar pleiteada em favor de GILBERTO DOS SANTOS DA SILVA, pois ausente indicativo de manifesta ilegalidade na manutenção do beneficiário em prisão preventiva após proferida sentença condenatória pelo magistrado singular, com trânsito em julgado à acusação.
+Isso porque o paciente permaneceu cautelarmente preso durante a tramitação do feito originário (11o 5000387-87.2021.8.21.0080), medida que não representou antecipação de pena ofensa à constitucional garantia da presunção de inocência, não sobrevindo fato posterior apto a alterar seu quadro processual.
+Logo, incongruente seria lhe conferir o direito de recorrer em liberdade quando da prolação de sentença condenatória à privativa de liberdade de 06 anos de reclusão, no regime inicial semiaberto, e à multa cumulativa.
+Lado outro, inegável que se deva alcançá-lo, de pronto, a possibilidade de expiar reprimenda em regime condizente com aquele fixado em decisão não transitada em julgado, sob pena de configurar desproporcionalidade da segregação, o que foi devidamente observado pelo juízo a qno quando determinou a expedição imediata de "PEC provisório. a fim de viabilizar eventuais benefícios da lei de execução penal".
+E a eventual reversão do quadro condenatório em razão da interposição de recurso de apelação se revela discussão vedada em sede de habeas corpus, em virtude de seu caráter de cognição sumária, exigindo-se emissão de juízo meritório a ser feito pelo órgão constitucionalmente competente." (e-STJ, fls. 16-17)
+Assim, não se verifica a ocorrência de flagrante ilegalidade na decisão de origem, que indeferiu o pedido liminar, de modo a justificar o processamento da impetração e o pronunciamento antecipado desta Corte, pois é assente o entendimento de que "não há incompatibilidade na fixação do modo semiaberto de cumprimento da pena e o instituto da prisão preventiva, bastando a adequação da constrição ao modo de execução estabelecido" (AgRg no RHC 110.762/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/05/2020, DJe 03/06/2020).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
