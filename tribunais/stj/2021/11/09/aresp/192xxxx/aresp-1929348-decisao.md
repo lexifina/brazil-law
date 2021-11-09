@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por PACIFIC VEÍCULOS COMÉRCIO E SERVIÇOS LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS MATERIAIS. CONCESSIONÁRIA. VEÍCULO. REVISÃO. FALHA NA PRESTAÇÃO DOS SERVIÇOS. DEPRECIAÇÃO DO BEM. AUSÊNCIA DE COMPROVAÇÃO. DANOS MORAIS. QUANTUM INDENIZATÓRIO. MAJORAÇÃO. SENTENÇA PARCIALMENTE REFORMADA. 1. Comprovado, mediante a realização de prova pericial, que o defeito apresentado no veículo decorrente de falha na prestação do serviço realizado pela concessionária, foi corrigido e não acarretou a depreciação do bem, é de ser mantida a sentença que negou o pagamento de indenização, por danos materiais. 2. O valor da indenização por danos morais deve observar os critérios da razoabilidade, proporcionalidade, sempre considerando a extensão do dano causado. 3. Recurso provido em parte" (e-STJ fl. 475).
+Os embargos de declaração opostos pela recorrente foram acolhidos, com a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. HONORÁRIOS RECURSAIS. PROVIMENTO PARCIAL DO RECURSO. NÃO CABIMENTO. CUSTAS RECURSAIS. DISTRIBUIÇÃO. 1. Os embargos declaratórios servem para sanar pontos obscuros, contraditórios e omissos de uma decisão, devendo ser rejeitada a alegação de omissão quando a sua finalidade é a de provocar o reexame das questões decididas. 2. Embargos acolhidos" (e-STJ fl. 513).
+Opostos declaratórios pela recorrida, foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 85, § 11, do Código de Processo Civil de 2015, ao fundamento de que os honorários advocatícios devidos aos patronos da recorrente deveriam ter sido majorados pelo acórdão estadual, e
+(ii) art. 86 do Código de Processo Civil de 2015, pois os ônus de sucumbência devem ser distribuídos de acordo com o princípio da proporcionalidade, condenando-se a recorrida a custear 80% (oitenta por cento) das despesas e custas processuais, e a recorrente a pagar os restantes 20% (vinte por cento).
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+No tocante aos honorários recursais, cumpre registrar que a Corte Especial deste Superior Tribunal firmou o seguinte entendimento:
+"(..)
+É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Rel. Ministro Felix Fischer, Rel. p/ Acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe 7/3/2019 - grifou-se).
+No caso, a apelação interposta pela ora recorrida foi parcialmente provida, sendo incabível a almejada majoração da verba honorária por ela devida.
+Logo, não merece reforma o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Ademais, a revisão da distribuição da sucumbência é matéria eminentemente fática e exige o reexame do conjunto fático-probatório dos autos, procedimento inviável na estreita via do recurso especial pelo óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E CIVIL. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. FORÇA MAIOR. NÃO CONFIGURAÇÃO. MULTA POR RESCISÃO CONTRATUAL POR INADIMPLEMENTO. CABIMENTO. ANÁLISE. INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. VEDAÇÃO. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. ÔNUS DA SUCUMBÊNCIA, PRINCÍPIO DA CAUSALIDADE E HONORÁRIOS ADVOCATÍCIOS. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A conclusão a que chegou o Tribunal de origem, no sentido de que não se configurou nenhum motivo excludente de força maior previsto no contrato apto a causar o atraso na entrega do imóvel, ensejando a multa por rescisão contratual por inadimplemento, também prevista no instrumento, decorreu de convicção formada em face do contrato celebrado entre as partes e dos elementos fáticos existentes nos autos. Rever os fundamentos do acórdão recorrido importa necessariamente na interpretação das cláusulas contratuais e no reexame de provas, o que é vedado nesta fase recursal. Incidência das Súmulas 5 e 7/STJ.
+2. O STJ possui entendimento uniforme no sentido de que a análise sobre a distribuição do ônus da sucumbência, a aplicação do princípio da causalidade e o valor dos honorários advocatícios demanda o reexame do conjunto fático-probatório, o que é inviável nesta via especial. Incidência da Súmula 7/STJ.
+3. Agravo interno não provido" (AgInt no AgInt no AREsp 1.628.525/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/6/2020, DJe 3/8/2020 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais devidos pela recorrente foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
