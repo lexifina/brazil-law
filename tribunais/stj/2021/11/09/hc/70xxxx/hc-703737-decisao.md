@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado contra acórdão de apelação criminal que contou com a seguinte ementa:
+APELAÇÃO CRIMINAL Tráfico de drogas Recurso defensivo Autoria e materialidade delitivas suficientemente comprovadas Firmes e harmônicos depoimentos dos policiais Desclassificação para a prevista no art. 28, da Lei de Drogas Descabimento Penas adequadamente dosadas Condenação anterior pela conduta prevista no art. 28, da lei de Drogas que caracteriza reincidência Precedente do STF Regime inicial fechado mantido Impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos Recurso desprovido. (fls. 53)
+O paciente foi condenado ao cumprimento da pena de 05 anos de reclusão, em regime inicial fechado, bem como no pagamento de 500 dias-multa, no piso, como incurso no art. 33, caput, da Lei nº 11.343/06.
+Busca-se com a impetração o reconhecimento dainidoneidade da condenação utilizada para fins de configuração da reincidência, aplicando-se, como consequência, a minorante do artigo 33, §4º, da Lei nº 11.343/06 e redimensionando-se, em seguida, o regime inicial para cumprimento da reprimenda para o aberto, convertendo-se, ainda, a pena corporal em restritiva de direitos.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça inadmite a utilização do habeas corpus como substituto de recurso próprio, como ocorre na espécie. Entretanto, passo ao exame do writ apenas para aferição de eventual ilegalidade flagrante que admitiria a concessão da ordem de ofício.
+O Tribunal local assim examinou a dosimetria:
+Na primeira fase, consideradas inexistentes circunstâncias judiciais desfavoráveis, nos termos do art. 59, do Código Penal, a pena-base partiu do mínimo legal.
+Na segunda-fase, entendeu o Douto Magistrado a quo que a agravante da reincidência deveria ser compensada com a atenuante da confissão.
+Sob esse aspecto, imperioso anotar que, ao contrário do sustentado pela Defesa, condenação anterior pela conduta prevista no art. 28, da Lei nº 11.343/06, é motivo bastantepara caracterizar a reincidência.
+ ..
+Ainda que assim não fosse, a atenuante da confissão, tal como reconhecido na sentença, não teria o condão de reduzir a reprimenda aquém do mínimo, nos termos da 231, do Superior Tribunal de Justiça.
+Na derradeira fase, sem causas de alteração, a reprimenda tornou-se definitiva.
+Observo que a reincidência é motivo só para afastar a aplicação do redutor previsto no art. 33, § 4º, da Lei nº 11.343/06.
+Isso porque, "essa causa de redução da pena deve incidir na excepcionalidade, em situações específicas próprias, quando patente que o tráfico apurado cuidou-se apenas de um desvio na vida do réu, não de uma contumácia, repetição de fato análogo, de uma rotina de proceder" (Apelação Criminal nº 990.09.111160-0, 3ª Câmara de Direito Criminal do TJSP, Relator Desembargador Luiz Antônio Cardoso, j. 25/05/2010).
+Tem-se, ainda, que o regime inicial fechado é o único admitido em razão da gravidade do crime praticado pelo recorrente, revelando-se de suma importância para a prevenção e a repressão do delito de tráfico de drogas em nosso país, o qual vem assumindo proporções sem precedentes, merecendo a conduta do acusado maior repressão por parte do Estado.(fls. 59/62)
+Como se observa, as instâncias ordinárias fixaram a pena-base no mínimo legal, na segunda etapa foi compensada a atenuante da menoridade com a reincidência, já que o paciente ostenta condenação definitiva anterior pelo delito do art. 28, Lei de Drogas, na terceira etapa foi negado o redutor do tráfico privilegiado e fixado o regime fechado em razão da reincidência.
+O acórdão impugnado não encontra amparo na jurisprudência desta Corte consolidada no sentido de que, dada a reduzida gravidade da conduta prevista no art. 28, Lei de Drogas, a prévia condenação por esta espécie delitiva apenas implica consequências negativas na pena no caso de reiteração delitiva específica, não se admitindo o reconhecimento da reincidência caso o novo crime praticado seja diverso, como ocorreu na espécie. No mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO ANTERIOR PELO ART. 28 DA LEI 11.343/2006. MAUS ANTECEDENTES AFASTADOS. SOBRESTAMENTO DO FEITO. NÃO CABIMENTO.
+AGRAVO REGIMENTAL DESPROVIDO.
+1. Ambas as Turmas da Terceira Seção desta Corte, em recentes julgados, tem decidido ser desproporcional o reconhecimento da agravante da reincidência decorrente de condenação anterior pelo delito do art. 28 da Lei n. 11.343/2006, uma vez que a infringência da referida norma legal não acarreta a aplicação de pena privativa de liberdade e sua constitucionalidade está sendo debatida no STF.Precedentes.
+2. A Quinta Turma deste Tribunal passou a adotar o entendimento de que, com maior razão, por ser o antecedente um instituto penal subsidiário ao da agravante da reincidência, é incabível, também, a utilização de condenação anterior pelo delito de posse de drogas à título de maus antecedentes, para aumentar a pena-base, ou para justificar o afastamento do tráfico privilegiado.
+3. "O fato de a questão federal debatida nos autos ser objeto de repercussão geral no Supremo Tribunal Federal não determina o sobrestamento dos julgamentos dos recursos especiais, e sim dos recursos extraordinários eventualmente interpostos em face dos arestos prolatados por esta Corte que tratem da matéria afetada." (AgRg no REsp 1.576.825/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 8/3/2016, DJe 15/3/2016).
+4. Agravo regimental desprovido.
+(AgRg no REsp 1916629/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021)
+Assim, na espécie, possível o reconhecimento do tráfico privilegiado em fração máxima, já que ausentes outros fundamentos idôneos apontados pelas instâncias ordinárias, o que perfaz pena final de 1 ano e 8 meses de reclusão e 166 dias-multa.
+Outrossim, diante do novo montante de pena, e também considerando a inexistência de apontamento de fundamento hábil pelas instâncias ordinárias, possível a fixação do regime aberto e substituição das penas, a ser operada pelo juízo executório.
+Ante o exposto, não conheço dohabeas corpus, mas concedo a ordem de ofício para redimensionar a pena ao patamar de1 ano e 8 meses de reclusão e 166 dias-multa, emregime aberto, admitida asubstituição das penas, a ser operada pelo juízo executório, julgamento com fundamento no art. 34, RISTJ.
+Publique-se.
+Intimem-se.
