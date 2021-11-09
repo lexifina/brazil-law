@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por ANGELS CONSULTORIA E ADMINISTRACAO DE IMOVEIS EIRELIcontra decisão do Tribunal de Justiça do Distrito Federal e dos Territóriosque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 420):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL E AGRAVO INTERNO. EMBARGOS DE TERCEIRO. PRELIMINAR DE ILEGITIMIDADE ATIVA PARCIALMENTE ACOLHIDA. ALIENAÇÃO GRACIOSA DE IMÓVEIS PARA FILHA. CUMPRIMENTO DE SENTENÇA CONTRA O ALIENANTE. FRAUDE À EXECUÇÃO. MÁ-FE RECONHECIDA. INEFICÁCIA DA TRANSFERÊNCIA IMOBILIÁRIA. ATO ANTERIOR À ALIENAÇÃO FIDUCIÁRIA. ÔNUS DA SUCUMBÊNCIA. REDISTRIBUIÇÃO. INCABÍVEL. AGRAVO INTERNO PREJUDICADO. Nos termos dos artigos 792, inciso IV, do Código de Processo Civil de 2015, e do verbete sumular 375, do Superior Tribunal de Justiça, para a configuração da fraude à execução, além da realização da alienação do bem quando a ação executiva já tiver sido ajuizada, deve-se comprovar que o adquirente tinha ciência de seu trâmite e a alienação tenha sido capaz de reduzir o devedor à insolvência. Nas hipóteses de alienação graciosa do bem, presume-se a má-fé na realização do negócio jurídico, como na hipótese de doação ocorrida entre os genitores e a filha, sócia da empresa adquirente dos bens. Precedentes do Superior Tribunal de Justiça e desta Corte. O reconhecimento da fraude à execução leva à ineficácia do ato de alienação, tendo por efeito a sujeição dos bens à satisfação do crédito exequendo. Eventual direito de credor fiduciário deve ser protestado pela via adequada. No caso, não se verifica sucumbência recíproca, motivo pelo qual correta a sentença que condenou a embargante a arcar com a totalidade dos ônus da sucumbência.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 1.643, 1.644, 1.647, 1.659, III e 1.664 do Código Civil.Pede a reforma do acórdão por entender, em síntese, quea fiança prestada por um dos cônjuges sem a anuência do outro, pois foi feita antes das núpcias, nãoatinge o patrimônio adquirido durante a constância do casamento.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob avigência da Lei 13.105/2015, razão por que o juízo de admissibilidade érealizado na forma deste novo édito, conforme Enunciado Administrativo nº3/STJ.
+No que concerne a suposta violação aos arts. 1.643, 1.644, 1.647, 1.659, III e 1.664 do Código Civil verifica-se, da leitura do acórdão recorrido, que o Tribunal de origem - apesar de opostos embargos declaratórios pela parte Recorrente e de os dispositivos terem sido citados no relatório da decisão - não se manifestou acerca dos mencionados argumentos trazidos nas razões do recurso especial quanto a invalidade da garantia fidejussória dada sem o consentimentodo cônjuge, pois se restringiu a analisar a existência de fraude à execução.
+Motivo que inviabiliza o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 211 do Superior Tribunal de Justiça.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. SUSPENSÃO. OBRIGAÇÃO INDIVISÍVEL. COMPROVAÇÃO DO DOMÍNIO. DENUNCIAÇÃO À LIDE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. Reapreciar as conclusões do aresto impugnado encontra óbice na Súmula nº 7 do Superior Tribunal de Justiça diante da necessidade de reexame das circunstâncias fáticas da causa.
+5. Agravo interno não provido. (AgInt no AREsp 704.352/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2018, DJe 14/02/2018) - g.n.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. EMBARGOS DE TERCEIRO. VIOLAÇÃO AOS ARTS.1.643, 1.644, 1.647, 1.659, III E 1.664 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA PELA CORTE DE ORIGEM. SÚMULA 211/STJ. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
