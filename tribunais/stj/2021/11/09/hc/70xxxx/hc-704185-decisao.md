@@ -1,0 +1,11 @@
+DECISÃO
+ADRIANO CABRAL DOS SANTOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n.1508124-58.2021.8.26.0228).
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pretende, por meio deste writ, a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, a fixação de regime inicial mais brando e a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decido.
+No que tange à pretendida aplicação da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006, verifico que não há como ser reconhecido o benefício em favor do réu, haja vista a vedação legal expressa da concessão desse redutor aos acusados possuidores de maus antecedentes (Processo n.0086821-08.2010.8.26.0050).
+Quanto ao regime de cumprimento de pena, constato que o Juiz sentenciante considerou devida a imposição do regime inicial fechado, com base, justamente, naspeculiaridades do caso analisado, ocasião em que salientou "a enorme quantidade e diversidade dos entorpecentes apreendidos" (fl. 42),elementos que, de fato, justificam a imposição de regime prisional maisgravoso do que o cabível em razão da reprimenda aplicada.
+Portanto,em homenagem ao princípio do livre convencimento motivado,uma vez que foram apontados argumentos concretos e específicos dos autos para a escolha do regime prisional fechado e porque a pena-base do réu foi estabelecida acima do mínimo legal, deve ser mantida inalterada a fixação do regime inicial fechado, ex vi do disposto no art. 33, §2º, "a", e § 3º, do CP, com observância também ao enunciado no art. 42 da Lei n. 11.343/2006.
+Por fim, diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica igualmente mantida a negativa de substituição da reprimenda privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
