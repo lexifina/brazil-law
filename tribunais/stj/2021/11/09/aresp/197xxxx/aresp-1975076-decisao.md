@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto peloConselho Regional de Técnicos em Radiologia da 4ª Região contra decisão que inadmitiu o recurso especial ante a ausência de comprovação de recolhimento do preparo para interposição do recurso(e-STJ, fls. 238-239).
+Na minuta do agravo, a parte insurgente refutou acitadaalegação, pugnando pela admissibilidade e análise do apelo extremo.
+Ultrapassados os requisitos de conhecimento do presente agravo, passo a examinar o recurso especial interposto, com amparo no art. 105, III, "a", da CF/1988, em oposição a acórdão assim ementado (e-STJ, fls. 178-179):
+PROCESSUAL CIVIL. ADMINISTRATIVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO. APELAÇÃO. CONSELHO REGIONAL DE FISCALIZAÇÃO DO EXERCÍCIO DE PROFISSÃO LIBERAL. CUSTAS PROCESSUAIS. ISENÇÃO. ART. 4º DA LEI Nº 9.289/1996. ART. 46 DA LEI Nº 5.010/1966. INTERPRETAÇÃO LITERAL. ART. 111, II, DO CTN. ENUNCIADO Nº 36 DA SÚMULA DO TRF-2. PREVALÊNCIA SOBRE OART. 39, CAPUT, 1ª PARTE, DA LEF. RESP REPETITIVO. DISPENSA DE ADIANTAMENTO DO PAGAMENTO. ART. 14, CAPUT, I, DA LEI Nº9.289/1996. PREVALÊNCIA SOBRE O ART. 39, CAPUT, 2ª PARTE, E § ÚN.,DA LEF.
+- Quanto às custas processuais, além de as hipóteses de isenção estabelecidas no art. 4º, caput, da Lei nº 9.289/1996 (bem como no art. 46da Lei nº 5.010/1966), merecerem interpretação literal, por força do art.111, II, do CTN, o parágrafo único daquele artigo ainda estabelece, expressamente, uma regra de exceção com relação a todo conselho(regional ou federal) de fiscalização do exercício de profissão liberal, interpretação esta que restou consagrada nos termos do Enunciado nº 36da Súmula do TRF-2.- Além disso, aquela regra de exceção acaba sendo aplicável, pelos critérios cronológico e da especialidade, em detrimento do art. 39, caput, 1ª parte, da LEF, entendimento este corroborado quando da apreciação do REsp repetitivo nº 1.338.247/RS (Tema nº 625), STJ, Primeira Seção, Rel. Min. HERMAN BENJAMIN, julg. em 10/10/2012.- Em função daquela regra de exceção, bem como da tese fixada quando da apreciação do evocado REsp repetitivo, resta neutralizada, para todo conselho (regional ou federal) de fiscalização do exercício de profissão liberal, a dispensa de adiantamento de custas processuais normalmente conferida como prerrogativa à Fazenda Pública.- Assim, a regra ditada pelo art. 14, caput, I, da Lei nº 9.289/1996(consonante com a ditada pelo art. 82, caput, do novo CPC), acaba sendo aplicável, pelos critérios cronológico e da especialidade, em detrimento do art. 39, caput, 2ª parte, e § ún., da LEF.- Recurso não provido.
+Osembargos de declaração opostos foram improvidos.
+Em suas razões, a parte requerente alega a existência de violação dos arts. 91, caput, e 1.022 do CPC.
+Sustenta, em suma, que "o acórdão recorrido negou o direito desta autarquia federal de recolher as custas ao final do processo, fundamentando a decisão na ausência de direito de isenção, prevista no art. 4º, Parágrafo Único da Lei nº 9.289/1996" (e-STJ, fl. 212).
+É o relatório.
+Esta Corte Superior firmou entendimento, por ocasião do julgamento do REsp 1.338.247/RS, sob o rito do art. 543-C do CPC/1973, de que não se aplica às entidades fiscalizadoras do exercício profissional a isenção do pagamento das custas conferida aos entes públicos, conforme inteligência da Súmula 187/STJ.
+No aspecto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. AUSÊNCIA DE PREPARO. RECURSO ESPECIAL DESERTO. SÚMULA 187 DO STJ. MATÉRIA SUBMETIDA AO RITO DO ARTIGO 543-C DO CPC/1973.
+1. Não se aplica às entidades fiscalizadoras do exercício profissional a isenção do pagamento das custas conferida aos entes públicos, conforme inteligência da Súmula 187/STJ e entendimento adotado pela Primeira Seção do STJ, por ocasião do julgamento do REsp 1.338.247/RS, sob o rito do art. 543-C do CPC/1973.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.447.018/SP, de minha relatoria, SEGUNDA TURMA, julgado em 1/º12/2020, DJe de 10/12/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. AUSÊNCIA DE PREPARO. RECURSO ESPECIAL DESERTO. SÚMULA 187/STJ. MATÉRIA SUBMETIDA AO RITO DO ARTIGO 543-C DO CPC/1973.
+1. Não se aplica às entidades fiscalizadoras do exercício profissional a isenção do pagamento das custas conferida aos entes públicos, conforme inteligência da Súmula 187/STJ e entendimento adotado pela Primeira Seção do STJ, por ocasião do julgamento do REsp 1.338.247/RS, sob o rito do art. 543-C do CPC/1973.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.236.401/RJ, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 20/11/2019).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. AUSÊNCIA DE PREPARO. DESERÇÃO. PORTE DE REMESSA E RETORNO. RECOLHIMENTO OBRIGATÓRIO. ART. 4º, PARÁGRAFO ÚNICO, DA LEI 9.289/1996. MATÉRIA APRECIADA SOB O RITO DO ART. 543-C DO CPC.
+1. Conforme entendimento da Súmula 187 do STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+2. Segundo o art. 4º, parágrafo único, da Lei 9.289/1996, não se aplica às entidades fiscalizadoras do exercício profissional a isenção do pagamento das custas conferida aos entes públicos relacionados no caput do mesmo artigo.
+3. Orientação reafirmada no julgamento do REsp.1.338.247/RS, sob o rito dos recursos repetitivos (art. 543-C do CPC).
+4. Recurso Especial não conhecido.
+(REsp n. 1.693.950/MG, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/10/2017, DJe de 16/10/2017).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se
