@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpussem pedido de liminar interposto por ADRIANO MORAIScontra acórdão do Tribunal de Justiça do Estado de Santa Catarina(HC n. 5032238-12.2021.8.24.0000).
+Orecorrente teve a prisão em flagrante convertida em preventiva e foi denunciado por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na variedade e lesividade dos entorpecentes apreendidos - 12,8g de maconha, 0,4g de cocaína e 1,2g de crack-, além de dinheiro em notas trocadas e na reincidência específica do recorrente. Destacouaindaa tentativa de fuga do recorrente.
+Impetrado writ originário, a ordem foi denegada.
+O recorrentesustenta a existência de constrangimento ilegal, diante de cerceamento de defesa, pois fora indeferido pedido de ofícioao 10º Batalhão de Polícia Militar a fim de que juntasse aos autos as imagens gravadas pelas câmeras individuais de monitoramento e identificasse todos os policiais militares que participaram do flagrante. Sustenta quenão se trata de diligência complexa, porquanto o"atendimento ao pedido se restringiria em expedir ofício ao 10º BPM (para o Juízo) e juntar as imagens gravadas aos autos (para o BPM)" (fl. 63).
+Requera concessão da ordem para que seja reconhecido o cerceamento de defesa e seja oficiado ao 10º BPM para que junte aos autos as imagens gravadas, na ocorrência de 16/3/2021, que culminou na sua prisãoe informe todos os policiais militares que participaram da ocorrência; ademais,considerando que já fora prolatada sentença condenatória no bojo da ação penal, pleiteiatambémseja declarada a nulidade da decisão, retornando o feito para a fase instrutória.
+É o relatório. Decido.
+Em consulta aositedo Tribunal de origem, observa-se que, nos autos da Ação Penal n. 5009596-21.2021.8.24.0008, em 26/10/2021, no julgamento da apelação interpostapela defesa, foi dado parcialprovimento ao recurso para desclassificar a conduta para o crime previsto no art. 28 da Lei n. 11.343/2006, aplicando-se a pena de prestação de serviços à comunidadepelo período de 5 meses. Quanto ao cerceamento de defesa por indeferimento de pedido de produção probatória, o Tribunal entendeu quea decisão do magistrado restou devidamente fundamentada no art. 400, § 1º, do CPP, não havendo falar em cerceamento de defesa, pois não seria possível fornecer as imagens requeridas pela defesa, uma vez que não foi realizado o registro no momento da abordagem.
+Dessa forma, a prolação da nova decisão com novos fundamentos evidencia a prejudicialidade destehabeas corpus, porquanto não cabe ao STJ analisar o novo decreto condenatório, sob pena de indevida supressão de instância.
+Assim, este feito não possui mais objeto.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, julgo prejudicado o recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
