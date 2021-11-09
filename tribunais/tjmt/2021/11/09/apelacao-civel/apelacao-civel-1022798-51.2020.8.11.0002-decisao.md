@@ -1,0 +1,79 @@
+APELAÇÃO CÍVEL No 1022798-51.2020.8.11.0002
+APELANTE(S): CLAUDIO ROBERTO DE MOURA
+APELADO(S): MRV PRIME PARQUE CHRONOS INCORPORACOES SPE LTDA
+Vistos etc.
+Trata-se de recurso de apelação cível interposto por CLAUDIO ROBERTO DE MOURA contra a sentença que julgou parcialmente procedentes a Ação Declaratória de Ilegalidade de Cobrança c/c Indenizatória por Danos Morais c/c Pedido de Repetição de Indébito ajuizada em face de MRV PRIME PARQUES CHRONOS INCORPORAÇÕES SPE LTDA, para condenar a requerida a ressarcir de forma simples o requerente os valores por ele pago a título taxa de evolução de obra no valor de R$ 4.039,75 (quatro mil trinta e nove reais e setenta e cinco centavos), que deverá ser corrigida monetariamente pelo INPC a partir de cada pagamento realizado e acrescidos de juros de mora no importe de 1% ao mês, a conta da citação. Condenou, ainda, o autor ao pagamento de custas, despesas processuais e verba honorária arbitrada em 10% (dez por cento) sobre o valor da causa, conforme o artigo 85, §2o, do CPC/15, cuja exigibilidade fica suspensa, uma vez que a parte autora é beneficiária da justiça gratuita.
+Alega que a presente ação não se trata de demora na entrega do imóvel pela requerida, e sim na demora injustificada que a recorrida levou para dar início na emissão e averbação do habite-se, bem como na demora na comunicação à Caixa Econômica Federal, para que procedesse a suspensão da cobrança de fase de obras e iniciasse a cobrança do financiamento, vez que esse é amortizado na dívida do consumidor.
+Afirma que a obra foi finalizada em 10/2017, sendo que as cobranças de fase de obras perduraram até mês 02/2018, ou seja 5 (cinco) meses após a conclusão da obra.
+Diz que a empresa recorrida nada trouxe aos autos para justificar tal demora, sendo que todos esses meses devem ser restituídos conforme cálculo juntado na inicial.
+Assevera que a empresa requerida agiu de maneira voluntária em sua conduta ilícita, obtendo vantagem sobre o recorrente, bem como agindo de má-fé e falta de lealdade.
+Ao final, pugna pelo provimento do recurso para que sejam restituídos os valores pagos a título de juros de obra na forma dobrada. Por fim, pugna pela condenação da requerida ao pagamento de danos morais no valor de R$ 20.000,00 (vinte mil reais).
+As contrarrazões foram apresentadas no ID no 103729098, alegando preliminarmente a ilegitimidade passiva da construtora requerida quanto ao pedido de restituição dos valores pagos a título de juros de obra e no mérito, pugna pelo desprovimento do recurso.
+É o relatório.
+Decido.-
+Preliminar de ilegitimidade passiva
+A requerida/apelada suscita preliminar de ilegitimidade passiva da construtora, quanto ao pedido de restituição dos valores pagos a título de “juros de obra”, sob o argumento de que os valores foram pagos diretamente à Caixa Econômica Federal, beneficiária dos pagamentos.
+A referida taxa diz respeito à responsabilidade do autor perante a Caixa Econômica Federal, instituição financeira com a qual contratou financiamento para pagamento do apartamento objeto do contrato de promessa de compra e venda em questão, porém, uma vez provado que não houve a comunicação de entrega do imóvel ao agente financiador pela requerida/apelada, como se verá na seara de mérito, a cobrança vem sendo feita única e exclusivamente por culpa desta.
+Assim, se verificada a culpa da apelada pelo atraso na comunicação de entrega do imóvel ao agente financiador, caberá a ela responder pelo reembolso de tal taxa.
+A propósito:
+“APELAÇÃO - JUROS DE OBRA - LEGITIMIDADE - CONSTRUTORA - COMPETÊNCIA - JUÍZO ESTADUAL -ATRASO INJUSTIFICADO NA COMUNICAÇÃO DE ENTREGA DO IMÓVEL AO AGENTE FINANCEIRO.
+- A construtora tem legitimidade para responder por prejuízos decorrentes do atraso injustificado na comunicação de entrega da obra ao agente financeiro, inclusive pelos juros de obra pagos pelo comprador.
+(...)” (TJMG - Apelação Cível 1.0433.15.007855-1/001, Relator(a): Des.(a) Tiago Pinto , 15a CÂMARA CÍVEL, julgamento em 18/07/2019, publicação da súmula em 20/09/2019) grifei
+Portanto, rejeito a preliminar.-
+Mérito
+Quanto ao mérito, o requerente/apelante CLAUDIO ROBERTO DE MOURA ajuizou a Ação Declaratória de Ilegalidade de Cobrança c/c Indenizatória por Danos Materiais e Morais c/c Pedido de Repetição de Indébito em face da requerida/apelada MRV PRIME PARQUES CHRONOS INCORPORAÇÕES SPE LTDA, sustentando, em síntese, que realizou o financiamento de um apartamento construído pela requerida.
+Alegou que apesar de ter sido expedido o “habite-se” da obra em outubro/2017, houve a cobrança indevida de taxa de evolução da obra no importe de R$ 4.039,75 (quatro mil e trinta e nove reais e setenta e cinco centavos), pois a obra já estava finalizada, contudo, a requerida não repassou essa informação ao agente financeiro, que continuou com a cobrança da aludida taxa.
+Assim, requereu a condenação da requerida na restituição em dobro da taxa de evolução da obra, que corresponde à importância de R$ 8.079,50 (oito mil e setenta e nove reais e cinquenta centavos) e a condenação da requerida ao pagamento de danos morais no importe de R$ 20.000,00 (vinte mil reais).
+O douto magistrado singular, Dr. Luis Otávio Pereira Marques, julgou parcialmente procedentes os pedidos formulados na inicial, consoante relato já exposto.
+Contra a referida sentença foi interposto o presente recurso pela parte autora.
+Pois bem.
+A controvérsia cinge-se a analisar se devida, pelo comprador da unidade imobiliária, a taxa de evolução da obra cobrada após a entrega do imóvel, bem como se os fatos narrados nos autos são capazes de configurar danos morais indenizáveis.
+No caso dos autos, conforme afirmado pela parte autora/apelante em sua petição inicial, não houve atraso na entrega do imóvel objeto do contrato em questão.
+Ainda, restou incontroverso nos autos o término da obra com a expedição do “habite-se” na data de 05/10/2017 (ID no 103729057), de modo que os fatos se deram em momento anterior ao prazo final previsto no contrato, qual seja, 31/11/2018 (ID no 103729075), já considerado o período de prorrogação de 180 dias. Vejamos:
+Há nos autos, também, provas no sentido de que a aludida taxa foi cobrada da parte autora até o mês de fevereiro de 2018, consoante extrato juntado no ID no 103729053. Confira:
+Ou seja, entregue ao autor o apartamento ainda em 05/10/2017 – o que é incontroverso, já que o apelante nada questiona a esse respeito – os “juros” ou “taxas de evolução de obra” continuaram sendo cobrados pela instituição financeira e pagos pelo autor – o que também é incontroverso – até o mês de fevereiro de 2018.
+A taxa de evolução de obra é devida desde a aprovação do financiamento até o término da obra.
+Encerrada a obra no prazo estabelecido no contrato e não comunicado pela construtora requerida ao agente financiador a expedição do habite-se, verifica-se a desídia daquela que deve ressarcir o consumidor dos valores indevidamente cobrados a título de taxa de evolução da obra.
+Sobre o tema, colaciono julgados do Superior Tribunal de Justiça, senão vejamos:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. COBRANÇA APÓS O PRAZO PARA A ENTREGA DAS CHAVES. DESCABIMENTO. ILICITUDE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA. SÚMULA N. 83/STJ. MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE DE REEXAME. SÚMULA N. 7/STJ. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. AGRAVO INTERNO IMPROVIDO.
+1. De acordo com o entendimento firmado pelo Superior Tribunal de Justiça, na aquisição de unidades autônomas em construção, é ilícito cobrar do adquirente juros de obra ou outro encargo equivalente, após o prazo ajustado no contrato para a entrega das chaves da unidade autônoma, incluído o período de tolerância.
+2. Não há como afastar as premissas fáticas e probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, dado que, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Conforme orientação deste Tribunal, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+4. Agravo interno improvido.
+(AgInt no REsp 1924471/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/06/2021, DJe 07/06/2021) destaquei
+“AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. JUROS DE OBRA. COBRANÇA NO PERÍODO DA MORA. IMPOSSIBILIDADE. JURISPRUDÊNCIA REPETITIVA DO STJ. REVISÃO DO JULGADO. INCIDÊNCIA DOS ENUNCIADOS N.o 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência repetitiva da Segunda Seção do STJ "é ilícito cobrar do adquirente juros de obra ou outro encargo equivalente, após o prazo ajustado no contrato para a entrega das chaves da unidade autônoma, incluído o período de tolerância" (REsp n. 1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019).
+2. O Tribunal de Justiça de origem, a partir do exame dos elementos de prova e da interpretação do contrato, concluiu pela culpa da vendedora pelo atraso na entrega da obra, motivo pelo qual rejeitou o pedido de ressarcimento dos juros de obra exigidos do adquirente.
+Dessa forma, é inviável alterar tal conclusão em recurso especial, ante o óbice dos Enunciado n.o 5 e 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1923835/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/05/2021, DJe 27/05/2021) destaquei
+Deste modo, ainda que o habite-se tenha sido expedido dentro do prazo contratual estabelecido para o encerramento das obras, a cobrança de taxa de evolução de obra permaneceu após a conclusão das obras, de modo que é ilícita a cobrança da taxa de evolução da obra do adquirente, ora apelante.
+No mesmo sentido caminha a jurisprudência deste egrégio Tribunal:
+“APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS – CONSTRUÇÃO DE IMÓVEL - PRELIMINAR DE ILEGITIMIDADE PASSIVA DA CONSTRUTORA – REJEITADA – ATRASO NA ENTREGA DO IMÓVEL DESCARACTERIZADO - TAXA DE EVOLUÇÃO DE OBRA PERDUROU APÓS A ENTREGA DO IMÓVEL – RESTITUIÇÃO DEVIDA – TAXA DE DESPACHANTE – POSSIBILIDADE – RECURSO CONHECIDO E DESPROVIDO.
+I – A taxa de evolução da obra é cobrada do mutuário pelo agente financeiro desde o início da construção do empreendimento até a efetivação do contrato de financiamento, o que somente ocorre após a expedição da certidão de “habite-se”.
+II – Dessa forma, tendo em vista que o habite-se e entrega das chaves foram efetuados antes do prazo final contratual para entrega da obra, não existe em atraso da obra.
+III – entretanto, tendo em vista que o imóvel foi tempestivamente entregue em 22/04/2019, bem como tendo em vista que a cobrança da taxa de evolução da obra perdurou até 12/09/2019, correta a sentença de piso que declarou a ilegalidade da cobrança nesse período, bem como determinou o seu ressarcimento.
+IV – A teor do disposto no art. 373, inciso I, do CPC, o ônus da prova pertence à parte autora, ora apelante, que dele não se desincumbiu, razão pela qual a sentença de piso não merece ser reformada.
+(N.U 1044741-07.2020.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, SEBASTIAO DE MORAES FILHO, Segunda Câmara de Direito Privado, Julgado em 09/06/2021, Publicado no DJE 11/06/2021) grifei
+“APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS C/C REPETIÇÃO DE INDÉBITO – PARCIAL PROCEDÊNCIA - COMPRA DE IMÓVEL NA PLANTA - TAXA DE EVOLUÇÃO DA OBRA - COBRANÇA APÓS A ENTREGA DAS CHAVES – CONCLUSÃO DA OBRA NÃO COMUNICADA PELA CONSTRUTORA AO AGENTE FINANCIADOR – RESSARCIMENTO DOS VALORES PAGOS SOB TAL RUBRICA - IMÓVEL ENTREGUE NA DATA APRAZADA - DANO MORAL – INOCORRÊNCIA – RECURSO PARCIALMENTE PROVIDO.
+A taxa de evolução de obra é devida desde a aprovação do financiamento até o término da obra. Encerrada a obra no prazo estabelecido no contrato e não comunicado pela construtora ré ao agente financiador a expedição de certidão de baixa e habite-se, verifica-se a sua desídia, que deve ressarcir o consumidor dos valores indevidamente cobrados a esse título.
+O ressarcimento por dano moral não pode decorrer de mero aborrecimento ou incômodo. É preciso que a ofensa apresente certa magnitude para ser reconhecida como prejuízo moral indenizável.-
+(N.U 1010802-41.2017.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, MARILSEN ANDRADE ADDARIO, Segunda Câmara de Direito Privado, Julgado em 19/08/2020, Publicado no DJE 26/08/2020) grifei
+No que diz respeito à repetição do indébito, prevista no art. 42, § 2o, do Código de Defesa do Consumidor, e no art. 940 do Código Civil, ela somente ocorrerá em dobro se houver a comprovação de que o credor agiu de má-fé.
+Nesse sentido:
+"(...) A Segunda Seção desta Corte firmou o entendimento de que a devolução em dobro dos valores pagos pelo consumidor somente é possível quando demonstrada a má-fé do credor. 6. Agravo regimental não provido. (AgRg no AREsp 539.237/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/05/2017, DJe 02/06/2017)"
+No caso não se comprovou a má-fé por parte da requerida/apelada, deve ser mantida a repetição simples do indébito.
+Por fim, no que tange aos danos morais, melhor sorte não assiste à parte autora.
+Isso porque, “o ressarcimento por dano moral não pode decorrer de qualquer melindre ou suscetibilidade exagerada, do mero aborrecimento ou incômodo. É preciso que a ofensa apresente certa magnitude para ser reconhecida como prejuízo moral.” (TJ/SP - 26a Câmara de Direito Privado - AC 1020117-05.2018.8.26.0506, Relator: Renato Sartorelli, j. 04/03/2020, j. 04/03/2020).
+No caso, é bem verdade que o autor experimentou prejuízos a serem ressarcidos. Porém, tais danos se limitaram à esfera patrimonial.
+Não houve qualquer violação à honra objetiva ou subjetiva do autor, até porque, recebeu a obra na data aprazada.
+Assim, diversamente do que costuma acontecer em casos análogos, na hipótese dos autos não houve atraso da obra frustrando ou prorrogando a realização do sonho da casa própria. O que houve foi apenas a cobrança e o pagamento de um encargo contratual além do tempo permitido.
+Nesse contexto, não há se falar em danos morais.
+Nesse sentido:
+“APELAÇÃO CÍVEL - COMPRA DE IMÓVEL - TAXA DE EVOLUÇÃO DA OBRA - COBRANÇA APÓS A ENTREGA DAS CHAVES - IMÓVEL ENTREGUE NA DATA APRAZADA - RESPONSABILIDADE DA CONSTRUTORA - DEMONSTRADA - CONCLUSÃO DA OBRA NÃO COMUNICADA AO AGENTE FINANCIADOR - DANO MORAL - NÃO CONFIGURADO. - A taxa de evolução de obra é devida desde a aprovação do financiamento até o término da obra. - Encerrada a obra no prazo estabelecido no contrato e não comunicado pela construtora ré ao agente financiador a expedição de certidão de baixa habite-se, verifica-se a desídia daquela que deve ressarcir o consumidor dos valores indevidamente cobrados a título de taxa de evolução da obra. - Não configura o dano moral os meros aborrecimentos decorrentes do descumprimento contratual. (TJMG - Apelação Cível 1.0000.19.154657-1/001, Relator(a): Des.(a) Evandro Lopes da Costa Teixeira , 17a CÂMARA CÍVEL, j. em 30/04/0020, publ. em 04/05/2020)
+Com essas considerações, com fundamento no artigo 932, inciso V, do CPC/15 c/c Súmula no 568 do STJ, nego provimento monocrático ao recurso para manter a sentença de piso.
+Por fim, a verba honorária comporta majoração para 15% (quinze por cento) sobre o valor atualizado da causa, nos termos do artigo 85, §§ 1o, 2o e 11, do CPC/2015, mantendo a suspensão em virtude da gratuidade da justiça em favor da parte apelante.
+P. I. C.
+Cuiabá/MT, 08 de novembro de 2021.
+MARILSEN ANDRADE ADDARIO
+Desembargadora
