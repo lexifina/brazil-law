@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado contra acórdão de apelação criminal.
+O paciente foi condenado incurso no art. 157, §1º, do Código Penal, à pena de4anos de reclusão, regime inicial fechado, epagamento de dez (10) dias-multa.
+Busca-se com a impetração a anulaçãoda condenação diante da inexistência de crime ante o princípio da insignificância, ou desclassificação da conduta para o delito de tentativa de furto e consequentemente a modificação da pena e regime prisional.
+A liminar foi indeferida.
+A manifestação ministerial foi pela concessão da ordem.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça inadmite a utilização do habeas corpus como substituto de recurso próprio, como ocorre na espécie. Entretanto, passo ao exame do writ apenas para aferição de eventual ilegalidade flagrante que admitiria a concessão da ordem de ofício.
+O Tribunal local assim examinou o caso:
+Existe conduta típica e antijurídica, não há crime de bagatela.
+Não pode haver a aplicação do princípio da insignificância no roubo. No caso, além da violação patrimonial, deve-se atentar para a violência física usada pelo apelante. Ele poderia lesionar ou ceifar a vida de alguém.
+Sua conduta criminosa não foi de pequena repercussão, entretanto, aliado ao fato de já ser reincidente, de consequências danosas para a sociedade. Ele se mostra agressivo c ousado.
+Não é de pequena repercussão pegar bens de supermercado e, flagrado, reagir à ação legitima dos seguranças do estabelecimento. Ele deveria, ao contrário, entregar-se. Seu inconformismo com as regras jurídicas de comportamento é patente. (fl. 23)
+Do acórdão impugnado, verifica-se que os temas relacionados à desclassificação do crime ou mesmo o reconhecimento da tentativa, não foram objeto de debate pela instância ordinária, o que impede o conhecimento direto por esta Corte.
+Assim, considerando que as instâncias ordinárias reconheceram a prática de crime de roubo impróprio, praticado com violência, inviável o reconhecimento da insignificância penal nos termos da jurisprudência desta Corte. No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. REVALORAÇÃO DE PROVA. SÚMULA 7/STJ. NÃO INCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INADMISSIBILIDADE. CRIME PRATICADO COM VIOLÊNCIA OU GRAVE AMEAÇA.
+1. O exame da questão relacionada ao afastamento do princípio da insignificância em crime de roubo não é obstada pela Súmula 7/STJ, tendo em vista que constitui revaloração jurídica de fato incontroverso pelas instâncias ordinárias, situação que, por não demandar o reexame detalhado de fatos ou provas, é plenamente admitida na via do recurso especial.
+2. "A jurisprudência desta Corte é firme em assinalar que, nos crimes praticados mediante violência ou grave ameaça contra a vítima, como no roubo, não é aplicável o princípio da insignificância" (AgRg no AREsp 1013662/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/02/2017, DJe 16/02/2017).
+3. Agravo regimental improvido.
+(AgRg no REsp 1943163/PR, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 14/10/2021, DJe 04/11/2021)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE ROUBO IMPRÓPRIO. DESCLASSIFICAÇÃO PARA TENTATIVA DE FURTO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O exame da pretensão recursal, para que seja reconhecida a desclassificação do roubo impróprio imputado ao agravante para tentativa de furto, implica a necessidade de revolvimento do suporte fático-probatório delineado nos autos. Incidência da Súmula n. 7 do STJ.
+2. O conhecimento de recurso fundado no art. 105, III, "c", da Constituição Federal, por divergência jurisprudencial, pressupõe a realização do devido cotejo analítico, demonstrando de forma clara e objetiva a suposta incompatibilidade de entendimento e a similitude fática entre as demandas, conforme dispõe o art. 541, parágrafo único, do CPC e o art. 255, §§ 1º e 2º, do RISTJ, o que não ocorreu neste caso.
+3. As matérias relativas à aplicação do princípio da insignificância e do reconhecimento de furto famélico ficam prejudicadas diante da impossibilidade de desclassificação da conduta.
+4. Agravo regimental não provido.
+(AgRg no AREsp 328.193/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/08/2015, DJe 18/08/2015)
+HABEAS CORPUS. ROUBO. CONDENAÇÃO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE MANIFESTA.PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICABILIDADE. DESCLASSIFICAÇÃO PARA CONSTRANGIMENTO ILEGAL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. ORDEM DENEGADA.
+1. É imperiosa a necessidade de racionalização do habeas corpus, a bem de se prestigiar a lógica do sistema recursal. As hipóteses de cabimento do writ são restritas, não se admitindo que o remédio constitucional seja utilizado em substituição a recursos ordinários.
+Hipótese em que não se vislumbra qualquer ilegalidade manifesta que autorize a concessão da ordem.
+2. O crime de roubo, porque investe contra bens jurídicos distintos, é dizer, o patrimônio e, principalmente, a integridade física, não pode ser considerado de mínima ofensividade, desprovido de periculosidade social, de reduzido grau de reprovabilidade e de inexpressividade, não rendendo ensejo à aplicação da princípio da insignificância. Precedentes desta Corte e do Supremo Tribunal Federal.
+3. O pedido de desclassificação da imputação de roubo qualificada para constrangimento ilegal envolve o revolvimento do conjunto fático-probatório, mostrando-se impróprio à via eleita, em razão dos estreitos lindes do habeas corpus.
+4. Ordem denegada.
+(HC 149.928/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/03/2012, DJe 19/03/2012)
+Quanto à dosimetria da pena, assim constou do acórdão:
+Na primeira fase a pena-base pode ficar no mínimo, porquanto inexistem circunstâncias judicias que a modifiquem.
+Na segunda fase, Fabricio é confesso e é reincidente (processo nº 0005986-43.2018.8.26.0635, da 26a Vara Criminal de São Paulo, fls. 66), logo, compensando-se a atenuante com a agravante, a pena fica no mesmo patamar.
+Pode haver compensação entre atenuante e agravantes, por exemplo, entre confissão espontânea e reincidência, conforme se asseverou no Superior Tribunal de Justiça (HC 393331/AL - Rel. Min. Ribeiro Dantas - T5 - Quinta Turma - Julg.23.5.2017 - DJe 26.5.2017). Em sentido similar: HC 385130/SC - Rel. Ministro Rcynaldo Soares da Fonseca - T5 - Quinta Turma - Julg. 18.5.2017 - DJe 23.5.2017; HC 338940/SC - Rel. MM. Ribeiro Dantas - T5 - Quinta Turma - Julg. 16.5.2017 - DJe 19.5.2017; HC 352983/RJ - Rel. MM. Joel Ilan Paciomik - T5 - Quinta Turma - Julg.4.5.2017 - DJe 16.5.2017; HC 392551/SP - Rel. Min. Ribeiro Dantas - T5 - Quinta Turma - Julg. 2.5.2017 - DJe 8.5.2017; HC 392027/RJ - Rel. Min. Ribeiro Dantas - T5 - Quinta Turma - Julg. 2.5.2017 - DJe 8.5.2017.
+Na terceira fase não há causas de diminuição e de aumento.
+A pena é final, pois mais nada a altera. Cada dia-multa fica no mínimo legal, pela sua condição insatisfatória econômica.
+O regime inicial das penas corporais é o fechado.
+O apelante praticou a subtração durante o dia, num supermercado, local em que é notória a existência de seguranças e câmeras, depois, não se intimidou quando foi perseguido, solicitada a devolução da mercadoria, não aceitou e, abordado, reagiu com violência física.
+Sabia da erronia de sua conduta, porquanto foi condenado anteriormente, por roubo, sendo reincidente. Houve frustração de sua ressocialização. Não se emenda e desafia os princípios ético-jurídicos vigentes, "viver honestamente" e "não lesar a outrem".
+Ele mostra-se agressivo, violento, ousado, perigoso ecom tendência delitiva. Sua conduta social é desvirtuada, não consegue conviver, pacificamente, no meio social.
+Cabe invocar ensinamento do STF: "A determinação do regime inicial deparágrafo 2" do Cód. penal, mas, também, de suas próprias ressalvas, conjugadas com o caput do art. 59 e inciso III (RHC 64.970). E deve ser feita, nos termos do parágrafo 3º do art. 33, com observância dos critérios previstos no art. 59." (HC nº 70.289-SP, 1º Turma, Rel. Min. Sidney Sanchcs, in RTJ, 148:490).
+Pode o juiz determinar o cumprimento inicial da pena em regime fechado, tendo em vista a periculosidade do agente na prática do crime, uma vez que a concessão de regime mais brando é mera faculdade conferida ao julgador, conforme interpretação do art. 33, § 2º, b, do CP (STJ, Resp 164.852-SP, 6" T, j. 9.6.98, Rel. MM. Anselmo Santiago, in Revista dos Tribunais 759:584).
+Acresce ponderar que a concessão de regime aberto ou semiaberto ao autor de roubo, no caso em tela, com ingresso em local de grande movimentação, fuga pelos caixas, negação da autoria e reação com ofensa ao seguranças, tendo histórico de condenação anterior por crime similar, desvitaliza a eficácia intimidante da pena, significando dizer que incentiva subtração de coisa alheia móvel, mediante ameaça ou violência à pessoa. Afinal, "o roubo é crime grave, que revela temibilidade do agente. É ele que vem gerando o clima de violência e de intranqüilidade que aflige a sociedade brasileira atual, estando a exigir medidas eficazes para combatê-lo. (JTACrim, 88:87) Este regime é, portanto, o único compatível com este tipo de infração e com a frieza e a desfaçatez de seu autor." (TACrimSP, Apelações nº 628.424, 655.167, 664.111, 665.049, 665.399, 670.465, 672.553, 674.681).
+Embora divergente nos pretórios, já se decidiu que: "Deve ser fixado o regime prisional fechado ao condenado reincidente, diante do disposto no art. 33, parágrafo 2", c, do CP, qualquer que seja a quantidade de pena imposta" (RJTACRIM 57/144). De igual raciocínio os julgados em RJTACRIM 42/236; RSTJ 26/340 e JSTJ 8/192.
+Dessa forma, retribui-se pela conduta delituosa; previne-se que não ocorra mais e proporciona-se que ambos reflitam sobre seus atos, voltando ao convívio em sociedade em harmonia.(fls. 21/23)
+Como se observa, a pena-base foi fixada no mínimo legal, na segunda etapa restou inalterada a pena em razão da compensação da reincidência com a confissão, não tendo havido modificação do montante na última etapa. O regime prisional fixado foi o fechado destacando a gravidade do crime e a reincidência delitiva.
+Assim, tendo sido a pena fixada no mínimo legal e inexistindo prévio debate relacionado à modalidade tentada, não há razão para exame de pleito modificativo do quantitativo da pena.
+No tocante ao regime prisional, nota-se que a despeito da reincidência delitiva, os demais fundamentos utilizados pelo Tribunal local são ínsitos ao tipo penal. Assim, considerando que a pena-base foi fixada no mínimo legaladequado ao caso a fixação do regime semiaberto,nos termos da Súm. 269/STJ.
+Ante o exposto, não conheço dohabeas corpus, mas concedo a ordem de ofício para fixar o regime semiaberto.
+Publique-se.
+Intimem-se.
