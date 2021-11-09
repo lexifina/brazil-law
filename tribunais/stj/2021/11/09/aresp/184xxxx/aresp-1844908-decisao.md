@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo de JOSE VICTOR TAVARES LIMA em face de decisão proferida no TJALque inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo em julgamento de apelação criminal n.0712393-52.2018.8.02.0001.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 157, § 3º, SEGUNDA PARTE,do Código Penal - CP (LATROCÍNIO TENTADO), à pena 13 (treze) anos e 04 (quatro) meses de reclusão, em regime inicialmente fechado, e ao pagamento de 130 (cento e trinta) dias-multa, no valor unitário de 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos (fl. 359).
+Recurso de apelação interposto pela Defesa foi parcialmente provido paraalterar a pena de multa para 07 (sete) dias-multa, à razão de 1/30 (um trigésimo) do salário mínimo vigente à época do fato. (fl. 362). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. LATROCÍNIO TENTADO (ART. 157, § 3º, SEGUNDA PARTE, C/C ART. 14, II, TODOS DO CÓDIGO PENAL). PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE TENTATIVA DE ROUBO MAJORADO. IMPOSSIBILIDADE. PRESENÇA DO ANIMUS NECANDL PEDIDO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. APELANTE JOSÉ VICTOR TAVARES LIMA. INVIABILIDADE. MAGISTRADO RECONHECEU NA SENTENÇA. AFRONTA À SUMULA 231 DO STJ. APELANTE DIOGO INÁCIO DA SILVA. POSSIBILIDADE. PENA PECUNIÁRIA DEVE GUARDAR PROPORCIONALIDADE À PENA PRIVATIVA DE LIBERDADE APLICADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. " (fl. 356).
+Em sede de recurso especial (fls. 369/386), a Defesa apontou violação aos arts. 13, 29, 157, §§ 2º, I, e 3º, todos do CP e 158 e 564 do CPP,porquanto impõe-sea realização de perícia técnica para comprovação da materialidade delitiva, e consigna:"A assertiva de que a vítima sofreu tentativa de latrocínio encontra-se isolada nos autos, pois, não houve a comprovação do roubo. Poderia ter ocorrido desavença entre as partes e a tentativa recíproca de lesão corporal (apenas como mera especulação), bem como a ocorrência dos disparos terem sido por tentativa de defesa do agente ante a reação armada da vítima, o que descaracteriza o anirnus de cometer o crime em comento." Assegura prejuízo evidente à defesa.
+Em seguida,afirma que acondenação do recorrente em quantidade de pena idêntica a do agente do fatoafronta ao princípio e conceito do crime, determinado pelo artigo 13 do CP, sendo que elenão tinha qualquer conhecimento prévio da pretensão doilícito.
+Assegura que ocrime não se tipifica como sendo latrocínio, haja vista que não houve qualquer roubo de objeto da vítima.
+Aduz, por fim, excesso de pena, poiso tipo legalnão está inserido no inciso II do parágrafo 3º do artigo 157 do CP, mas em seu inciso I, o que foi confirmadopeloacórdão combatido.
+Requer a absolvição ou a alteração do crime e/ou da dosimetria da pena imposta.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS (fls. 415/418).
+O recurso especialfoi inadmitido no TJ em razão de: a)óbice da Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ (fls. 419/420).
+Em agravo em recurso especial, a Defesa impugnou oreferidoóbice(fls. 421/426).
+Contraminuta do MP (fls. 455/457).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo desprovimento do agravo em recurso especial (fls. 473/478).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Sobre a inexistência de perícia técnica e configuração da materialidade delitiva do delito de Latrocínio tentado, o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS manteve a condenação nos seguintes termos do voto do relator:
+"Pois bem. A ausência de exame de corpo de delito para demonstrar a lesão sofrida pela vítima pode ser suprida pelo Boletim de Ocorrência e provas testemunhais, as quais, no caso dos autos, demonstram que os acusados atentaram contra a vida de James Dean Rodrigues de Lima ao anunciarem o assalto e dispararem dois tiros contra ela, praticando, assim, o delito de latrocínio, que não foi consumado por circunstâncias alheias à vontade dos recorrentes.
+(..)
+É certo que o laudo pericial, em diversas situações, é fundamental para a comprovação da materialidade delitiva. Todavia, para algumas situações, o legislador elaborou o art. 167 do Código de Processo Penal, que atribui validade à prova testemunhal, principalmente quando desaparecidos os vestígios do delito. Tal permissão é fruto da racionalidade e possibilita a condenação, diante da verdade real, que deve ser sempre perseguida.
+Ademais, como bem salientou o Magistrado na Sentença, "ainda que não tenha sido submetida à realização de exame de corpo de delito, a vítima James Dean compareceu à audiência realizada em 06/12/2018 e, mesmo depois de mais de seis meses, foi possível verificar seu braço esquerdo debilitado em virtude dos disparos sofridos, tendo relatado que, mesmo tendo sido operado no dia do fato, ainda se submete a sessões de fisioterapia" (fl. 239). Portanto, no caso sub judice, uma vez que as lesões corporais, suportadas pela vítima foram comprovadas pela prova testemunhal coligida, bem como pelo depoimento da própria vítima, não há falar em ausência de provas da materialidade delitiva. " (fls. 360/361).
+Extrai-se do trecho acima que a materialidade delitiva restou comprovada das provas dos autos - boletim de ocorrência eprova testemunhal direta (filho da vítima assistiu o desenrolar do ato criminoso), bem como verificação de que houve debilitação do braço esquerdo da vítima, que inclusive foiconfirmada em audiência, sendo dispensável o exame de corpo de delito direto. No sentido:
+HABEAS CORPUS. LATROCÍNIO. TENTATIVA. EXAME DOS VESTÍGIOS.
+DESNECESSIDADE, IN CASU. COMPROVAÇÃO DA MATERIALIDADE POR OUTROS MEIOS DE PROVA. VIA INDEVIDAMENTE UTILIZADA EM SUBSTITUIÇÃO A RECURSO ESPECIAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. NÃO CONHECIMENTO.
+1. É imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional, e, em louvor à lógica do sistema recursal. Na espécie, foi impetrada indevidamente a ordem como substitutiva de recurso especial e não há flagrante ilegalidade a ser reconhecida.
+2. A teor do art. 158 do CPP, "quando a infração deixar vestígios, será indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado".
+3. In casu, contudo, trata-se de latrocínio tentado, que nem sempre deixa vestígios. Assim, quando a vítima ofereceu resistência à ação dos agentes para não entregar sua motocicleta, pouco importa se o disparo efetuado a atingiu ou não. De um modo ou de outro, está caracterizada a tentativa de latrocínio, pela qual o paciente foi condenado.
+4. A materialidade ficou comprovada pelas declarações do ofendido e pela confissão do acusado (em juízo) sobre a ocorrência de disparos contra a vítima, plenamente admissíveis como meio de prova, na espécie.
+5. Com a ressalva do meu ponto de vista, a Terceira Seção pacificou o entendimento no sentido da desnecessidade de apreensão e perícia da arma de fogo para que seja configurada a causa de aumento prevista no art. 157, § 2º, I, do Código Penal, desde que os demais elementos probatórios demonstrem sua utilização na prática do delito. Raciocínio que pode, mutatis mutandis, ser aqui aplicado.
+6. Habeas corpus não conhecido.
+(HC 217.431/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA,DJe 14/04/2014).
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL.
+UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+1. A via eleita se revela inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+2. O alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+LATROCÍNIO TENTADO. DESNECESSIDADE DE REALIZAÇÃO DE EXAME DE CORPO DE DELITO NA VÍTIMA. DESAPARECIMENTO DOS VESTÍGIOS. ARTIGO 167 DO CÓDIGO DE PROCESSO PENAL. POSSIBILIDADE DE SUPRIMENTO DO EXAME TÉCNICO PELO PRONTUÁRIO MÉDICO DE SEU ATENDIMENTO EM UM PRONTO-SOCORRO E PELOS DEPOIMENTOS PRESTADOS NOS AUTOS. COAÇÃO ILEGAL INEXISTENTE.
+1. Da leitura dos artigos 158 e 167 do Código de Processo Penal, extrai-se que a perícia somente é essencial para comprovar a materialidade delitiva quando o crime deixa vestígios, admitindo-se a prova testemunhal quando estes não estiverem mais presentes.
+Precedentes.
+2. No caso dos autos, embora não tenha sido realizado exame pericial na vítima, as lesões por ela experimentadas teriam sido comprovadas por meio do prontuário médico de seu atendimento em um pronto-socorro, bem como pelos depoimentos prestados no feito, exatamente como previsto no artigo 167 do Código de Processo Penal, o que afasta a alegação de ausência de prova da materialidade do delito.
+3. Habeas corpus não conhecido.
+(HC 322.530/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 10/11/2015).
+De fato, para se concluir de modo diverso, seja pela ausência de materialidade,seja pela desclassificação da conduta para aquela prevista no art. 157, § 3º, I, do CP,seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. No mesmo sentido, citam-se precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO TENTADO.
+DESCLASSIFICAÇÃO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ARGUMENTAÇÃO DISSOCIADA DAS RAZÕES DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - Tendo o eg. Tribunal de origem, ao apreciar os fatos e as provas produzidas no curso da instrução penal, concluído pela autoria e pela materialidade delitiva do crime, não há como modificar tal entendimento, em sede de recurso especial, sem alterar as premissas fáticas estabelecidas pela col. Corte de origem, a teor do enunciado n. 7 da Súmula desta Corte.
+II - Ainda que assim não fosse, a argumentação trazida pelo agravante não guarda pertinência com os fundamentos esposados pelo eg. Tribunal a quo, razão pela qual incide o óbice indicado pelo enunciado sumular n. 284 do Supremo Tribunal Federal.
+Agravo regimental desprovido.
+(AgRg no AREsp 831.002/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 22/08/2016).
+PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. LATROCÍNIO TENTADO. PLEITO ABSOLUTÓRIO. AUTORIA E MATERIALIDADE COMPROVADAS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 07 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se o Tribunal a quo, com base na análise dos elementos fático-probatórios dos autos, entendeu configuradas a autoria e a materialidade delitivas, afastar tal entendimento implicaria o reexame de provas, a incidir o enunciado da Súmula n. 7 do Superior Tribunal Justiça - STJ.
+2. Agravo regimental desprovido.
+(AgRg no REsp 1590404/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 17/02/2017).
+Sobre a pena imposta e a alegação de que há desproporcionalidade na aplicação de reprimenda idêntica a do agente que de fato praticou a conduta,não há solução pelo Tribunal de Justiça, razão que afastao necessário prequestionamento do tema, de forma que incidente as Súmulas ns.282 e 356 do STF.
+Ante o exposto, conheço do agravo para conhecer em partedo recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lheprovimento.
+Publique-se. Intimem-se.
