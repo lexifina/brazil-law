@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça italiana solicita a citação de NOVABRINK INDUSTRIA DE PLASTICOS LTDA. para tomar ciência de processo executivo que tramita naquela jurisdição no qual a empresa Rainbow S.P.A. requer o pagamento de  36.227,85, acrescido de juros e custos do processo, oportunidade em que poderá, se assim desejar, apresentar impugnação (fl. 19).
+Intimada por aviso de recebimento, a parte interessada compareceu espontaneamente aos autos, aduzindo a inviabilidade de concessão do exequatur, visto que "a carta rogatória veio desacompanhada do suposto contrato entabulado entre as partes e as respectivas faturas emitidas, o que seria indispensável para concessão do exequatur" (fl. 48).
+O Ministério Público Federal opinou pela concessão da ordem (fls. 89-90).
+É, no essencial, o relatório. Decido.
+Não merecem prosperar os argumentos da interessada,uma vez quea documentação necessária ao cumprimento da comissão é aquela que permita a compreensão da controvérsia, o que afasta o argumento de que o feito encontra-se deficientemente instruído, de modo que o inconformismo quanto à irregularidade dos documentos para fins executórios deveser suscitadono Juízo rogante.
+Neste sentido, confiram-se julgados:
+1. A carta rogatória para a concessão do exequatur não precisa estar acompanhada de todos os documentos existentes na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia. A alegação de absoluta falta de elementos e indícios mínimos que comprovem as alegações constantes da peça inicial configura tese de defesa a ser aduzida perante o juízo rogante. (AgInt na CR n. 15.632/EX, relator Ministro Humberto Martins, Corte Especial, DJe de 11/3/2021.)
+1. A carta rogatória para a concessão do exequatur não precisa estar acompanhada de todos os documentos existentes na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia. (AgRg na CR n. 13.342/EX, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 24/5/2019.)
+No mais, o objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Diante do cumprimento da diligência rogada, evidenciado pelo comparecimento espontâneo aos autos, considera-se consumado o objeto da comissão, sendo desnecessária a remessa dos autos à Justiça Federal.
+No particular, cita-se:
+5. A manifestação espontânea da parte interessada consuma o objeto da comissão, caso em que os autos são devolvidos à Justiça rogante por intermédio da autoridade central competente, sendo desnecessária a remessa à Justiça Federal. (AgInt nos EDcl na CR n. 14.431/EX, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 22/10/2019, DJe de25/10/2019.)
+Ante o exposto, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
