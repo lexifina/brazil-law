@@ -1,0 +1,54 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TAXA DE SAÚDE SUPLEMENTAR (ART. 20, I, DA LEI 9.961/2000). ILEGALIDADE NA DEFINIÇÃO DA BASE DE CÁLCULO. MULTIPLICIDADE DE PROCESSOS. ABRANGÊNCIA DA SUSPENSÃO. ART. 1.037, II, DO CPC. PROPOSTA DE AFETAÇÃO ACOLHIDA.
+1. Delimitação da controvérsia: "(in)exigibilidade da cobrança da Taxa de Saúde Suplementar - TSS, instituída nos termos do art. 20, I, da Lei 9.961/2000".
+2. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I c/c art. 256-E do RISTJ, na redação da Emenda Regimental 24, de 28.9.2016).
+3. Determinada a suspensão de todos os processos pendentes no território nacional, inclusive daqueles em curso nos Juizados Especiais Federais, cujos objetos coincidam com o da matéria afetada.
+4. Acolhida a proposta de afetação do Recurso Especial como representativo da controvérsia, para que seja julgado na Primeira Seção (afetação conjunta do Recurso Especial 1.872.241/PE).
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça: "A PRIMEIRA SEÇÃO, por unanimidade, afetou o processo ao rito dos recursos repetitivos (RISTJ, art. 257-C) para delimitar a seguinte questão de direito controvertida: "(in)exigibilidade da cobrança da Taxa de Saúde Suplementar - TSS, instituída nos termos do art. 20, I, da Lei 9.961/2000" e, igualmente por unanimidade, suspendeu a tramitação de todos processos pendentes, individuais ou coletivos, que versem sobre a mesma matéria e tramitem em todo o território nacional (art. 1.037, II, do CPC/15), conforme proposta do Sr. Ministro Relator. Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região).
+Não participou do julgamento o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição da República contra acórdão assim ementado:
+TRIBUTÁRIO. APELAÇÃO E REMESSA NECESSÁRIA. TAXA DE SAÚDE SUPLEMENTAR - TSS. LEGALIDADE. LEI 9.661.00. APELAÇÃO E REMESSA NECESSÁRIA PROVIDAS.
+1. Cuida-se de remessa necessária e de apelação interposta pela Agência Nacional de Saúde em adversidade à sentença que acolheu pedido de reconhecimento da inexigibilidade da cobrança da Taxa de Saúde Suplementar, prevista no art. 20, I, da Lei nº 9.961/2000, em face da ilegalidade do critério definido para seu cálculo.
+2. A Segunda Turma desta Corte, por sua composição ampliada, nos autos do processo nº 0800323-77.2013.4.05.8200, posicionou-se pela legalidade da cobrança da taxa de saúde suplementar, fixando o entendimento que: "não se há falar em desbordamento do poder regulamentar, ao argumento de que o regulamento (Resolução RDC/ANS nº 10/2000 e as que lhe sucederam) impusera ao contribuinte ônus mais gravoso do que a lei instituidora do tributo".
+3. O simples fato de se referir, em seu art. 3º, à "média aritmética do número de usuários", e não ao "número médio de usuários" (expressão utilizada pela Lei nº 9.961/2000), não é suficiente para concluir que houvera alteração dos parâmetros fixados expressamente na lei, inclusive o próprio caráter trimestral de recolhimento do tributo.
+4. Remessa necessária e apelação providas para julgar improcedente o pedido autoral, de modo a reputar válida a cobrança da taxa de saúde suplementar - TSS, instituída pela Lei nº 9.961/2000.
+Os Embargos de Declaração opostos pela Cooperativa foram rejeitados.
+A recorrente alega violação dos arts. 489, § 1º, VI, e 1.022 do CPC; do art. 20, I, da Lei 9.961/2000 e dos arts. 9º, I, e 97, I e IV, do CTN. Sustenta, em síntese, que o acórdão hostilizado não demonstrou fundamentação para "justificar a não aplicação da jurisprudência pacífica deste Superior Tribunal de Justiça sobre a matéria" (fl. 321, e-STJ) e, no mérito, que é inexigível a Taxa de Saúde Suplementar, prevista no art. 20, I, da Lei 9.961/2000, porque a especificação de sua base de cálculo só veio a ocorrer por ato infralegal. Por fim, aduz existir dissídio jurisprudencial.
+Foram apresentadas contrarrazões.
+A Comissão Gestora de Precedentes identificou potencial repetitivo na demanda e deu provimento ao Agravo para determinar a conversão da autuação, com intimação das partes e do Parquet para manifestação a respeito da possibilidade de afetação ao julgamento no Rito dos Recursos Representativos de Controvérsia.
+O Ministério Público Federal opinou favoravelmente à afetação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TAXA DE SAÚDE SUPLEMENTAR (ART. 20, I, DA LEI 9.961/2000). ILEGALIDADE NA DEFINIÇÃO DA BASE DE CÁLCULO. MULTIPLICIDADE DE PROCESSOS. ABRANGÊNCIA DA SUSPENSÃO. ART. 1.037, II, DO CPC. PROPOSTA DE AFETAÇÃO ACOLHIDA.
+1. Delimitação da controvérsia: "(in)exigibilidade da cobrança da Taxa de Saúde Suplementar - TSS, instituída nos termos do art. 20, I, da Lei 9.961/2000".
+2. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I c/c art. 256-E do RISTJ, na redação da Emenda Regimental 24, de 28.9.2016).
+3. Determinada a suspensão de todos os processos pendentes no território nacional, inclusive daqueles em curso nos Juizados Especiais Federais, cujos objetos coincidam com o da matéria afetada.
+4. Acolhida a proposta de afetação do Recurso Especial como representativo da controvérsia, para que seja julgado na Primeira Seção (afetação conjunta do Recurso Especial 1.872.241/PE).
+VOTO
+Os autos foram recebidos neste Gabinete em 21 de maio de 2021.
+O debate inaugurado na presente proposta de afetação cinge-se à definição a respeito da exigibilidade ou inexigibilidade da Taxa de Saúde Suplementar, prevista no art. 20, I, da Lei 9.961/2000, em face da apontada ilegalidade do critério definido para seu cálculo.
+A proposta de afetação do presente feito ao Rito dos Recursos Repetitivos deve ser submetida à Primeir a Seção do STJ, competente para as matérias de direito público, como ocorre no presente caso, em observância ao RISTJ, no art. 256-I c/c art. 256-E (na redação da Emenda Regimental 24, de 28.9.2016), que passou a exigir a competência do Colegiado para afetação de recurso como representativo de controvérsia.
+1. Pressupostos de admissibilidade recursal
+De saída, registre-se que, em princípio, os pressupostos recursais (cabimento, legitimidade e interesse de recorrer, tempestividade, regularidade formal, preparo, inexistência de fato impeditivo ou extintivo do poder de recorrer) encontram-se devidamente evidenciados no caso concreto, inexistindo vícios graves que obstem o conhecimento do recurso.
+Igualmente, a temática jurídica foi devidamente prequestionada na instância de origem.
+Dessa forma, preenchidos os requisitos de admissibilidade, bem como comprovada a relevância e a abrangência do tema, deve ser mantida a indicação do presente Recurso Especial como representativo de controvérsia, consoante parágrafos 5º e 6º do art. 1.036 do Código de Processo Civil c/c inciso II do art. 256-E do Regimento Interno desta Corte, para que o tema seja apreciado pela Primeira Seção do Superior Tribunal de Justiça.
+2. Multiplicidade de processos similares
+Compete destacar informações apresentadas no despacho do Ministro Presidente da Comissão Gestora de Precedentes (fl. 420, e-STJ):
+Como bem colocado na decisão de admissibilidade e seleção do Recurso Especial pela Corte de origem, "é possível recuperar aproximadamente 70 acórdãos e centenas de decisões monocráticas proferidas por Ministros das Primeira e Segunda Turmas, contendo controvérsia idêntica a destes autos. Além disso, cumpre destacar que o Supremo Tribunal Federal já se manifestou no sentido de que a matéria não alcança estatura constitucional".
+Fica assim demonstrada a multiplicidade de processos com idêntica questão de direito, a justificar a afetação da temática sob o Rito dos Recursos Repetitivos.
+3. Da abrangência da suspensão (art. 1.037, II, do CPC)
+No que tange à abrangência da suspensão, deve-se analisar se é adequada a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional (art. 1.037, II, do CPC).
+De acordo com a Corte Especial, no aditamento ao voto proferido pelo Ministro Luis Felipe Salomão na ProAfR no REsp 1.696.396/MT, DJe de 27.2.2018, a suspensão dos processos em que se examina a matéria jurídica afetada não é automática, sendo possível sua modulação conforme a conveniência do tema.
+No presente caso, entendo que a suspensão prevista no art. 1.037, II, do CPC deve alcançar, na presente hipótese, o trâmite de todos os processos pendentes no território nacional cujos objetos coincidam com o da matéria jurídica afetada.
+4. Conclusão
+Ante o exposto, ratifico a indicação do presente feito selecionado como representativo da controvérsia (afetação conjunta do Recurso Especial 1.872.241/PE), nos termos do art. 1.036, § 5º, do CPC/2015, para que seja julgado pela Primeira Seção do STJ, adotando-se as seguintes providências:
+a) a tese representativa da controvérsia fica delimitada nos seguintes termos: "(in)exigibilidade da cobrança da Taxa de Saúde Suplementar - TSS, instituída nos termos do art. 20, I, da Lei 9.961/2000";
+b) suspensão do trâmite de todos os processos pendentes no território nacional, cujos objetos coincidam com o da matéria afetada, conforme motivação adrede explicitada (art. 1.037, II, do CPC);
+c) comunicação, com cópia do acórdão, aos Ministros da Primeira Seção do Superior Tribunal de Justiça, ao Núcleo de Gerenciamento de Precedentes (NUGEP) desta Corte, aos Presidentes dos Tribunais Regionais Federais e dos Tribunais de Justiça e à Turma Nacional de Uniformização;
+d) vista ao Ministério Público Federal para parecer, nos termos do art. 1.038, III, § 1º, do CPC/2015.
+Determino ainda que a Coordenadoria tome as providências quant o à divulgação pública, inclusive no sítio eletrônico do STJ, sobre a presente decisão.
+Deve a proposta de afetação ser submetida ao colegiado por meio da ferramenta eletrônica de afetação prevista no art. 257 do Regimento Interno do STJ .
+É como voto.
