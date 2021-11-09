@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo apresentado por COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO VANGUARDA DA REGIÃO DAS CATARATAS DO IGUAÇU E VALE DO PARAÍBA - SICREDI VANGUARDA PR/SP/RJ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO INTERNO APELAÇÃO CÍVEL DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO RECURSO DO APELANTE ALEGAÇÃO DE QUE IMPUGNOU OS FUNDAMENTOS DA SENTENÇA AO SUSTENTAR A INEXISTÊNCIA DE FORMALIDADE PARA A VENDA DO BEM EXTRAJUDICIALMENTE SENTENÇA QUE EXTINGUIU AÇÃO MONITÓRIA POR AUSÊNCIA DE CONSTITUIÇÃO EM MORA DA DÍVIDA REMANESCENTE APÓS A VENDA DO BEM PARA TORNAR POSSÍVEL O ACESSO À VIA JUDICIAL RAZÕES DO RECURSO DE APELAÇÃO CÍVEL QUE NÃO COMBATEM O EFETIVO FUNDAMENTO DA SENTENÇA DECISÃO MONOCRÁTICA MANTIDA AGRAVO INTERNO CONHECIDO E NÃO PROVIDO
+Alega violação dos arts. 489, § 1º, IV, e 1.022 do CPC, trazendo os seguintes argumentos:
+Ocorre que ao contrário do consignado no V. Acórdão não há que se falar em violação ao princípio da dialeticidade.
+ ..
+Em Embargos de declaração a Recorrente suscitou que houve omissão no V. Acórdão quando deixou de analisar ponto básico do Recurso.  ..
+Ora, é certo que a completa ausência de impugnação do valor devido pelo devedor é motivo suficiente para afastar o entendimento externado no V. Acórdão e tal argumentação deveria ser enfrentada sob pena de fazer tabula rasa do art. 489, §1º, IV do CPC.
+De tal sorte que deverá ser recebido, conhecido e provido o Recurso Especial para o fim de anular o V. Acórdão para que enfrente o argumento de defesa da Recorrente (fls. 481-482).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Ademais, incide o óbice da Súmula n. 211/STJ quanto ao art. 489, § 1º, IV, do CPC, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no AREsp n. 1.779.940/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/5/2021.
+Além disso, quanto a ambas as controvérsias, o acórdão recorrido assim decidiu (fls. 454-455):
+No caso dos autos, não obstante os argumentos despendidos pela cooperativa apelante, entendo que o recurso de apelação cível não impugnou os fundamentos da sentença, devendo ser mantida a decisão monocrática de não conhecimento do recurso.
+Como restou consignado na decisão monocrática, a sentença extinguiu a ação monitória, sem resolução de mérito, como o fundamento de que não restou comprovado nos autos a notificação do devedor acerca do saldo remanescente após a venda do bem, o que afastou a mora do devedor. Ou seja, o devedor não foi cientificado da existência de débito remanescente após a venda extrajudicial do bem alienado, sendo que sem a notificação da existência do débito a dívida é incerta, o que impede a sua cobrança pela via judicial.
+Contra este fundamento da sentença nada alegou o apelante/agravante conforme constou na decisão monocrática:
+ ..
+Neste recurso de agravo interno, sustenta o agravante que teria impugnado o fundamento da sentença ao sustentar que não existe formalidade para a venda do bem.
+Ocorre que a sentença não extingui a ação monitória por ausência de requisitos formais para a venda do bem.
+O documento que a sentença apontou estar ausente é posterior a venda e necessário para a constituição em mora do devedor permitindo a cobrança judicial.
+Assim, alegar que inexiste formalidade para a venda do bem não afasta o fundamento da sentença de que, após essa venda, se faz necessário constituir o devedor em mora caso pretenda efetuar cobrança judicial.
+Portanto, considero que é a hipótese de ser mantida a decisão que não conheceu do recurso de apelação cível.
+Tal fundamento foi reiterado no julgamento dos embargos de declaração (fls. 469-470):
+O embargante, embora utilize a expressão omissão, aponta inconformismo com o teor do julgamento.
+Alega que combateu os fundamentos da sentença quando indicou que a memória de cálculo atende os requisitos da ação monitória.
+A decisão monocrática que não conheceu do recurso de apelação cível fez expressa referência a memória de cálculo anexada com a inicial, constando que o argumento de sua existência e ausência de impugnação não servem para combater o fundamento da sentença, que claramente indicou ausência de constituição em mora do devedor acerca do saldo remanescente, após a venda do imóvel:
+"Nada alega quanto a ausência de prova da constituição em mora do devedor antes do ajuizamento da demanda.
+Pretendendo a reforma da sentença, deveria o apelante alegar que constituiu o apelado em mora ou que a constituição se fazia desnecessária.
+Não é o que fez o apelante, que alega ausência de formalidades para a venda extrajudicial do bem e que não houve insurgência do apelado quanto ao valor obtido com a venda, que consta na memória de cálculo anexada aos autos.
+Nada alega quanto a ausência de comprovação da constituição em mora do devedor após a venda extrajudicial do bem.
+Ao assim proceder, deixou o apelante de combater o efetivo fundamento da sentença - ausência de comprovação da constituição em mora do devedor - afrontando o princípio da dialeticidade"
+Com a interposição do agravo interno, a decisão foi mantida pelo colegiado, constando no acórdão que:
+"Neste recurso de agravo interno, sustenta o agravante que teria impugnado o fundamento da sentença ao sustentar que não existe formalidade para a venda do bem.
+Ocorre que a sentença não extingui a ação monitória por ausência de requisitos formais para a venda do bem.
+O documento que a sentença apontou estar ausente é posterior a venda e necessário para a constituição em mora do devedor permitindo a cobrança judicial.
+Assim, alegar que inexiste formalidade para a venda do bem não afasta o fundamento da sentença de que, após essa venda, se faz necessário constituir o devedor em mora caso pretenda efetuar cobrança judicial."
+Portanto, quando o embargante alega que a indicação da memória de cálculo satisfaz o requisito da dialeticidade, visa combater os fundamentos da decisão monocrática, mantida pelo acórdão que julgou o agravo interno, não caracterizando omissão no julgado.
+Por estas razões, voto simplesmente pela rejeição dos embargos de declaração, ao passo que não se ocupam em evidenciar qualquer vício.
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
