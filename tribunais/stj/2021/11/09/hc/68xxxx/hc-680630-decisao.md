@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de THIEGO ARAÚJO DIONÍSIO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2111040-21.2021.8.26.0000).
+O paciente foi condenado à pena de 3 meses e 15 dias de detenção em regime semiaberto, como incurso no art. 307 do Código Penal.
+O impetrante aponta constrangimento ilegal no indeferimento da substituição da pena corporal por restritiva de direitos.
+Alega que a reincidência não é específica e, portanto, a substituição é legalmente possível, defendendo que, no caso, a medida é recomendável.
+Requer, liminarmente e no mérito, a substituição da pena privativa de liberdade por restritiva de direitos.
+O pedido de liminar foi indeferido (fls. 91-92).
+Prestadas as informações (fls. 95-103), o Ministério Público Federal opinou pela concessão da ordem "a fim de que o Tribunal a quo analise, com base em circunstâncias concretas, se a substituição da pena é socialmente recomendável" (fl. 108).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+Acerca da questão, o Juízo sentenciante entendeu que "ante a reincidência, não é possível a substituição prevista no artigo 44, do CP, bem como inaplicável o sursis" (fl. 34).
+Por sua vez, a Corte local denegou a ordem de habeas corpus sob o fundamento de que "o paciente é reincidente em crime doloso (autos nº 00017751-92.2013.8.26.0451 - fls. 100 dos autos de origem), o que, por si só, obsta a substituição da pena privativa de liberdade por restritiva de direitos, nos termos expressos do art. 44, II, do Código Penal" (fls. 85-86).
+Há permissão legal para a substituição da pena privativa de liberdade por restritiva de direitos, ainda que haja a reincidência, desde que "em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime" (art. 44, § 3º, CP).
+Ajurisprudência do STJ se firmou no sentido de que o indeferimento da substituição de penas deve estar devidamente fundamentado a fim de se demonstrar que a medida não é socialmente recomendável.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA 182/STJ. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. FURTO. REINCIDENTE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE RECONHECIDA. REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO E PROVER O RECURSO ESPECIAL.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reconsiderada a decisão que não conheceu do agravo.
+2. O art. 44, II, do Código Penal veda a substituição da pena privativa de liberdade por pena restritiva de direitos ao acusado reincidente em crime doloso, salvo se, em face de condenação anterior, a medida for socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime (§ 3º).
+3. "Na hipótese, a negativa de substituição da pena privativa de liberdade por restritivas de direitos não está devidamente justificada. Isso, porque o Tribunal local não procurou demonstrar o porquê de não ser recomendável a substituição, tendo em vista as circunstâncias delineadas no caso concreto, além da reincidência. Vale dizer, ao contrário do que entendeu a instância a quo, a reincidência não específica, de modo isolado, não evidencia a insuficiência das penas alternativas (art. 44, § 3.º, do Código Penal)" (HC 436.307/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2018, DJe 24/08/2018).
+4. Agravo regimental provido para conhecer do agravo e prover o recurso especial, a fim de substituir a pena privativa de liberdade por penas restritivas de direitos, que devem ser fixadas pelo Juízo da execução. (AgRg no AREsp n. 1.793.700/SP, relator Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe de 9/8/2021.)
+No caso dos autos, apesar de opaciente ter sidocondenado àpena inferior a 1 ano, as circunstâncias judiciais do art. 59 do CPlhe forem avaliadas favoravelmente e a condenação anterior não ter sido pelo mesmo crime, as instâncias ordinárias deixaram de analisar se a substituição da pena privativa de liberdade por restritiva de direitos era socialmente recomendável, indeferindo a medida unicamente em razão da reincidência.
+Ante o exposto,  não conheço do presente habeas corpus, mas  concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para determinar que o Tribunal de origem analise, fundamentadamente, se a substituição da pena privativa de liberdade por restritiva de direitos mostra-se, ou não, socialmente recomendável.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
