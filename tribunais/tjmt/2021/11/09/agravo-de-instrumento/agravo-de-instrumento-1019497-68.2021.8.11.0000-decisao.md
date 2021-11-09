@@ -1,0 +1,15 @@
+Vistos etc.
+Recurso de agravo de instrumento interposto por ABADIA DE BARROS MACIEL LEMOS DOS SANTOS contra a decisão interlocutória proferida nos autos da Ação de Responsabilidade Civil por Ato Ilícito c/c Indenização por Danos Morais e Materiais no 1012091-72.2018.8.11.0041, onde figura como parte contrária BENJAMIN ZORNITA, perante a Oitava Vara Cível da Comarca de Cuiabá/MT, que rejeitou a preliminar de ilegitimidade passiva arguida por Abadia de Barros Maciel Lemos dos Santos, bem ainda afastou a alegação de prescrição da pretensão do autor.
+Anota a agravante, em resumo, que (i) a Agravante não era a Tabeliã, na época dos fatos narrados pelo Agravado; (ii) a decisão agravada atribui responsabilidade por atos da ex-Tabeliã, dos quais a Agravante não teve nenhuma participação, pois, somente após 23/01/2013 a mesma assumiu a função ad-hoc de Tabeliã do 3o Serviço Notarial e Registral de Cuiabá-MT; (iii) a decisão agravada não levou em consideração o artigo 28, da Lei n° 6.015/73 (Lei de Registros Públicos); (iv) a pretensão do autor já estar atingida pela prescrição.
+Síntese necessária.
+Inicialmente, não se vislumbra que a insurgência da agravante relativo a ilegitimidade passiva da agravante tenha fundamento nas hipóteses reguladas pelo art. 1.015 do CPC, que trata das matérias cuja decisão comporta impugnação pela via do agravo de instrumento.
+Não se desconhece que em decisão proferida no julgamento do REsp no 1696396/MT, sob o rito dos recursos repetitivos, o STJ firmou a tese de que o art. 1015 do CPC é de taxatividade mitigada, admitindo-se a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, mas, ainda assim, não se vislumbra que esta seja a hipótese dos autos.
+Feitas essas considerações, a meu ver, a agravante logrou êxito em demonstrar os requisitos que, a princípio, estão configurados com toda documentação e exposição contida na peça de interposição, suficientes para o conhecimento em parte do agravo em sua forma instrumental.
+Não se pode dizer o mesmo quanto ao pleito liminar, visto que inexiste qualquer ilegalidade na decisão agravada, bem como ausente qualquer motivo urgente que possa causar lesão grave e de difícil reparação a agravante, já que existe entendimento pacífico de que o termo inicial do triênio prescricional (art. 22, da Lei no 8.935/1994) só se inicia a partir do momento que o titular do direito subjetivo violado obtém plena ciência da ofensa e de sua extensão (no caso, abril/2018 – ID 13056020-origem), não sendo, portanto, caso de conceder o efeito suspensivo, devendo o agravante aguardar o julgamento de mérito deste recurso por parte desta Egrégia Câmara.
+Determino.
+Comunique-se o juízo de origem.
+Intimem-se a parte agravada, por intermédio do respectivo patrono, para, querendo e no prazo legal, apresentar contrarrazões (art. 1019, II, do CPC).
+Às providências de estilo, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes necessários.
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho.
+= relator =
