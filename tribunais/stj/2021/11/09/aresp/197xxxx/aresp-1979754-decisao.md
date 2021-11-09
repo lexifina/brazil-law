@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porMARIA GEORGETE DA FONSECA JOÃO, JOSE FILIPE DUARTE DA FONSECA, ELISIA FONSECA SILVA, LUIZ FELIPE DUARTE FONSECA, SERGIO DA FONSECA,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, naalínea"a"do permissivo constitucional.
+Ação:de obrigação de fazer cumulada com compensação por danos morais ajuizada por VALENTIM DA FONSECA, sucedido pela esposa e filhos, ora agravantes, em decorrência do óbito do autor, após a concessão da tutela de urgência, em desfavor de UNIMED DE SANTOS COOPERATIVA DE TRABALHO MÉDICO, em decorrência da negativa de cobertura de procedimento médico e acessórios.
+Sentença:julgou procedenteopedidopara condenar a ré ao pagamento a título de danos morais da quantia de R$20.000,00 para a esposa, e R$6.000,00 a cada um dos quatro filhos vivos.
+Acórdão:negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa:
+APELAÇÃO - PLANO DE SAÚDE - Ação de obrigação de fazer com pedido de danos morais - Pretensão de cobertura para colocação de Stents - Negativa de custeio sob alegação de que o contrato é anterior à Lei nº 9.656/98 e não adaptado, com cláusula contratual que exclui expressamente a cobertura de próteses de qualquer natureza - Súmula nº 100, deste TJSP - Obrigatória é a cobertura dos materiais cirúrgicos, próteses e órteses, quando relacionados com o procedimento cirúrgico indicado Art. 12, II, "e", combinado com art. 10, VII, da Lei nº 9.656/98 - Prescrição médica - Doença com cobertura contratual - Súmula nº 102, TJSP - legislação consumerista - Súmulas 100 e 102, TJSP - Perda de uma chance - Demora da seguradora em autorizar o procedimento que retirou a oportunidade do autor de salvar sua vida - Atuação abusiva da ré. Valor fixado que deve condizer com a chance perdida e não com o resultado almejado. Possiblidade que se mostrou razoável, séria e real. Quantum bem sopesado. Sentença mantida - NEGARAM PROVIMENTO AOS RECURSOS.
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022 do CPC,186, 187, 927, 944 e 953, § único, II, "b", do CC. Além de negativa de prestação jurisdicional, insurge-se contra o valor fixado a título de danos morais, pugnando pela majoração.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos critérios de fixação dos danos morais, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do pedido de revisão do valor da compensação por danos morais
+A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Nesse sentido: AgInt no AREsp 840.135/RS, 3ª Turma, DJe de 06/09/2016, e AgInt no AREsp 866.899/SC, 4ª Turma, DJe de 21/09/2016. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+Na hipótese dos autos, o valor da compensação por danos morais foi fixado em R$20.000,00 (vinte mil reais) em favor da esposa, e R$6.000,00 (seis mil reais) em favor decada um dos quatro filhos, em observância ao binômio reparação/sanção, de tal modo que possa servir de alívio aos dessabores sofridos pelo ofendido e de reprimenda ao agir do ofensor.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados em desfavor dos agravantes no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DANOS MORAIS. PEDIDO DE MAJORAÇÃO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE.
+1. Ação de obrigação de fazer c/c compensação por danos morais, em decorrência de negativa de cobertura de tratamento médico.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
