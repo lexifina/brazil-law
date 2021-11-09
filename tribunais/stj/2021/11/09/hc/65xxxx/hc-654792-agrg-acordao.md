@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. AUSÊNCIA DA DEGRAVAÇÃO DO DECRETO PRISIONAL. IMPOSSIBILIDADE DE ANALISE DOS FUNDAMENTOS. EXCESSO DE PRAZO. NÃO CONFIGURADO. REAVALIAÇÃO DA NECESSIDADE DA SEGREGAÇÃO CAUTELAR. REALIZADA. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto ao pedido de análise dos fundamentos da prisão preventiva, tem-se que não foi colacionada aos autos a degravação da decisão que decretou a segregação cautelar do agravante, o que impossibilita a análise do pedido.
+2. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+3. No caso em exame, o feito vem tendo regular andamento, avizinhando-se o encerramento da instrução. Ademais, o pequeno atraso para o seu término justifica-se em razão da complexidade do feito, tendo em vista tratar-se de prisão oriunda da "Operação Círculo de Fogo".
+4. Ausente ilegalidade com relação à reavaliação da necessidade da prisão cautelar, tendo em vista que a reavaliação foi realizada em 8/3/2021, e o habeas corpus na origem julgado em 18/3/2021.
+5. Por fim, inviável a análise do pedido de prisão domiciliar, em razão da pandemia causada pela Covid-19, tendo em vista que o Tribunal estadual não se manifestou a respeito do tema.
+6. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por DANIEL MANOEL DA COSTA contra decisão de minha relatoria em que conheci em parte do habeas corpus e deneguei a ordem.
+Sustenta a ausência de revisão periódica da prisão preventiva, excesso de prazo para a formação da culpa e ausência de fundamentos para a manutenção da segregação cautelar.
+Requer, assim, a revogação da prisão preventiva, ou a substituição por medidas cautelares diversas da prisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Conforme asseverado na decisão monocrática, não consta nos autos a degravação da decisão que decretou a prisão preventiva do agravante, ou ainda a comprovação de ausência de juntada do registro da prisão, sendo, portanto, impossível a análise dos fundamentos indicados para a segregação cautelar.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DO DECRETO PRISIONAL, ORAL OU TRANSCRITO. PROVA PRÉ-CONSTITUÍDA. IMPOSSIBILIDADE DE EXAME DOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. É pacífico o entendimento desta Corte Superior que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração.
+2. Não há como ser julgado habeas corpus que discute fundamentos da prisão quando não é o decreto de prisão juntado.
+3. Sendo oralmente decretada a prisão, seu registro é imprescindível, competindo ao impetrante comprovar que não houve juntada do registro ou trazê-lo (seja o registro oral, seja sua degravação).
+4. Agravo regimental improvido. (AgInt no HC 398.388/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/08/2017, DJe 14/08/2017)
+Nesse mesmo norte, cito decisão monocrática proferida pelo Ministro Rogerio Schietti Cruz, na qual ficou consignado que, "ainda que a decisão haja sido prolatada oralmente, para que a suficiência dos motivos ensejadores da custódia ante tempus fosse apreciada por esta Corte Superior, seria imprescindível a juntada da decisão ou sua transcrição. Com efeito, a apreciação do pleito defensivo fica impossibilitada pela ausência das razões de decidir colacionadas aos autos" (Decisão monocrática no EDcl no HC n. 675.474/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 10/9/2021, grifei).
+Com relação ao excesso de prazo, insta consignar, por necessário, que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Cumpre esclarecer que o ora paciente está custodiado desde 14/11/2019, e a defesa alega que não há previsão para o encerramento da instrução criminal.
+Na origem, a ordem foi denegada, firmado o entendimento de que o excesso de prazo não estava configurado. Consignou o voto condutor do acórdão impugnado (e-STJ fls. 63/65):
+Analisando o writ em epígrafe, o Eminente Relator compreendeu que haveria excesso de prazo na reavaliação da custódia preventiva do paciente, tendo em vista que estaríamos próximos de completar 1 (um) ano desde a última revisão da prisão cautelar, conforme informações prestadas pela autoridade impetrada e de acordo com consulta ao sistema Judwin de 1º grau. Teria ocorrido, portanto, acintoso descumprimento ao que dispõe o art. 316, parágrafo único do CPP, que determina que tal revisão seja feita em prazo nonagesimal.
+Data vênia, não compartilho dessa visão, tendo em vista que, em recente consulta que também fiz ao sistema informativo judwin, constatei que a custódia preventiva do paciente foi reavaliada em data recente, 08/03/2021, suprindo assim o lapso temporal mencionado.
+ ..
+Há de se concordar que a demora na referida análise existiu. Todavia, conforme precedentes do C. STJ, a análise de tal excesso, assim como os demais prazos, em geral, previstos na lei processual penal, não são peremptórios, admitindo, desta feita, que haja dilação, desde que justificada pelas circunstâncias do feito.
+ ..
+Da mesma forma, a pandemia provocada pelo Covid-19, circunstância inevitável e imprevisível, afetou as atividades do Poder Judiciário e provocou a necessidade de suspensão provisória de atendimento presencial e realização de audiências e sessões de julgamento, tudo com a finalidade de evitar a propagação da doença, fato que justifica, a meu sentir, a demora na análise da custódia referida.
+Outrossim, o feito possui certa complexidade, haja vista a multiplicidade de réus e delitos em apuração, considerando tratar-se de prisão oriunda da "Operação Círculo de Fogo".
+Compulsando-se os autos, tem-se que o delito foi cometido em 14/11/2019, sendo a denúncia oferecida em 5/12/2019. Em consulta ao sítio eletrônico do Tribunal de origem, consta que a denúncia foi recebida em 19/3/2021, a audiência de instrução e julgamento designada para 19/7/2021, sendo, posteriormente, redesignada para 1º/12/2021.
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, sinalizando, inclusive, para o encerramento da instrução. Ademais, o pequeno atraso para o seu término se deve, como consignado, à complexidade do feito, "considerando tratar-se de prisão oriunda da "Operação Círculo de Fogo"", o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO TENTADO E HOMICÍDIO QUALIFICADO TENTADO. (I) PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. (II) EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PLURALIDADE DE RÉUS. EXPEDIÇÃO DE CARTAS PRECATÓRIAS. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. (III) CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. (IV) MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIENTES PARA RESGUARDAR A ORDEM PÚBLICA.
+ ..
+5. "A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC-331.669/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/3/2016, DJe 16/3/2016).
+6. Em não se verificando a alegada desídia da autoridade judiciária na condução da demanda, não há falar em constrangimento ilegal. Ao revés, nota-se que o Magistrado singular procura imprimir à ação penal andamento regular.
+ ..  (HC n. 369.976/MG, de minha relatoria, SEXTA TURMA, julgado em 6/12/2016, DJe 16/12/2016.)
+RECURSO ORDINÁRIO DE HABEAS CORPUS. ROUBO MAJORADO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE INJUSTIFICADO EXCESSO DE PRAZO NA INSTRUÇÃO. NÃO OCORRÊNCIA. DILIGÊNCIAS ESPECÍFICAS. INSTRUÇÃO PRÓXIMA DE ENCERRAMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. RECURSO ORDINÁRIO DESPROVIDO.
+1. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+2. No caso, o Tribunal de origem entendeu que o processo tramita dentro do princípio da razoabilidade, sem registro de qualquer atraso relevante atribuído ao Poder Judiciário que possa caracterizar constrangimento ilegal e justificar o relaxamento da prisão. O recorrente encontra-se preso desde 6/11/2016, com denúncia oferecida em 13/12/2016 e resposta à acusação apresentada em 28/7/2016, sendo que, a despeito da necessidade da expedição de cartas precatórias, os autos receberam marcha célere, com designação de audiência de instrução e julgamento para o dia 19/4/2017, somente não realizada devido à não apresentação do acusado pela Secretaria de Ressocialização. Não obstante, a instrução encontra-se na iminência de seu encerramento, com a audiência redesignada para o dia 17/8/2017.
+ ..  (RHC n. 82.958/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+No tocante ao excesso de prazo para reavaliar a prisão preventiva, conforme consignado pela Corte de origem, a prisão foi reavaliada em 8/3/2021, e o habeas corpus denegado em 18/3/2021, sendo sanada, portanto, a ilegalidade.
+E o pedido de prisão domiciliar não foi debatido pela Corte a quo, o que impossibilidade a análise diretamente por este Tribunal Superior.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
