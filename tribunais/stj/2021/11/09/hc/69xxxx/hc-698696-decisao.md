@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor deRENATO MAGALHAES SARAIVAcontra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO,que considerou incabível o livramento condicional devido à reincidência específica do paciente, nos termos do art. 44, parágrafo único, da Lei n. 11.343/06, mesmo que uma das condenações seja por tráfico privilegiado(Agravo de Execução Penal n. 0010103-11.2021.8.26.0041).
+O impetrante sustenta que o parágrafo único do art. 44 da Lei de Drogas veda a concessão de livramento condicional ao reincidente específico nos crimes previstos nos arts. 33, caput e § 1º, e 34 a 37, todos da referida lei, deixando de fora o tráfico privilegiado (§ 4º), o qual possui natureza distinta do tráfico comum, de maneira que se mostracabível o referido benefício no caso dos autos, visto que uma das condenações do ora paciente é por tráfico privilegiado.
+Requer, em liminar e no mérito, a reforma do acórdão impugnado.
+É o breve relatório.
+Decido.
+Apesar de o habeas corpus não merecer conhecimento, por ser substitutivo de recurso próprio, é cabível a concessão da ordem, de ofício, visto que o tema encontra-se pacificado nesta Corte no sentido de que"não se reconhecerá a reincidência específica em crimes que, conquanto figurem em mesmo tipo penal, possuam natureza distinta, de que é exemplo o tráfico privilegiado em face do tráfico comum.(AgRg no HC 592.398/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 20/10/2020).
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS.EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REINCIDÊNCIA ESPECÍFICA NÃO CARACTERIZADA. TRÁFICO COMUM E TRÁFICO PRIVILEGIADO. NATUREZAS DISTINTAS.
+1. Não há como tratar o tráfico privilegiado como se seu espectro tivesse a relevância da tipificação do art. 33, caput, da Lei n.º 11.343/06, ou de outros delitos que o legislador elegeu para punir com maior severidade, ao vedar a concessão do livramento condicional (HC n. 419.974/SP, Sexta Turma, Ministra Maria Thereza de Assis Moura, DJe de 4/6/2018).
+2. Afastada a hediondez do tráfico de entorpecentes para os casos em que aplicado o art. 33, § 4º, da Lei n. 11.343/2006, o tratamento penal dirigido a essa figura apresenta contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa.
+3. O próprio legislador, no caput do art. 44 da Lei de Drogas, ao não mencionar o tráfico privilegiado, sinalizou a intenção de não abranger hipóteses como a dos autos, em que o sentenciado foi condenado, primeiramente, por tráfico privilegiado com o reconhecimento da causa especial do art. 33, § 4º, da Lei n.11.343/2006 e, posteriormente, pelo crime previsto no caput do art.33 da mesma lei.
+4. Embargos de declaração acolhidos para sanar a omissão, esclarecendo que, diante do preceituado no art. 44 da Lei 11.343/2006 e com o afastamento da hediondez do tráfico privilegiado, há distinção desse delito com o crime tratado no art.33, caput, da Lei de Drogas.
+(EDcl no AgRg no HC 604.376/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA,DJe 09/03/2021)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, com fundamento no art. 34, XX, do RISTJ, para afastar a reincidência específica do paciente, nos termos acima.
+Publique-se.
+Intimações necessárias.
