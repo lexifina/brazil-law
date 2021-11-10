@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SULcom fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, contra acórdão prolatado pelo Tribunal estadual (Apelação Criminal n.0013695-13.2020.8.12.0001).
+Transcrevo o relatório exarado pelo Ministério Público Federal, que deslinda bem o feito em tela (e-STJ fls. 487/488):
+Trata-se de recurso especial interposto pelo Ministério Público do Estado do Mato Grosso do Sul, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça daquele Estado.
+Colhe-se dos autos que o recorrido foi condenado, em primeiro grau, à pena de 7 anos e 7 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 758 dias- multa pela prática do crime previsto no art. 33, caput c/c art. 40, III, ambos da Lei n.11.343/2006.
+Interposta apelação defensiva, o Tribunal de origem deu provimento ao recurso para afastar a causa de aumento de pena prevista no inciso III do art. 40 da Lei de Drogas.
+Adveio, então, o presente recurso especial (f. 437-445), com fundamento no art.105, III, a, da Constituição Federal, no qual o recorrente alega violação do art. 40, III, da Lei n. 11.343/2006, ao argumento de que o Tribunal a quo não poderia ter afastado a referida majorante, visto que para a sua incidência é suficiente que o tráfico de drogas tenha ocorrido nas proximidades do estabelecimento de ensino, sendo despiciendo ficar demonstrado que o comércio de drogas destina-se aos frequentadores do local.
+Pugna, ao final, pelo provimento do recurso para que seja refeita a dosimetria da pena, restabelecendo-se a causa de aumento de pena prevista no art. 40, III, da Lei n.º 11.343/2006.
+As contrarrazões foram apresentadas (f. 454-467).
+O recurso foi admitido à f. 469-470.
+Os autos foram alçados ao Superior Tribunal de Justiça vindo, na sequência, ao Ministério Público Federal para manifestação.
+O Mistério Público Federal manifestou-sepelo conhecimento e provimento do recurso especial.
+Segundo apurado, foram apreendidos 277g (duzentos e setenta e sete gramas) de maconha.
+É o relatório.
+Decido.
+Orecurso do Ministério Público comporta provimento.
+No que se refere ao pedido derestabelecimentoda majorante do art. 40, III, da Lei de Drogas, o entendimento esposado no acórdão destoa da jurisprudência desta Corte. Com efeito, "a jurisprudência desta Corte Superior é no sentido de que, quando a infração tiver sido cometida nas dependências ou imediações de estabelecimento de ensino, dentre outros locais expressamente elencados no art. 40, III, da Lei n. 11.343/2006, resulta adequada a aplicação da causa especial de aumento de pena, independentemente da comprovação da efetiva mercancia aos frequentadores dessas localidades"(AgRg no REsp n. 1.845.613/SC, relator MinistroREYNALDO SOARES DA FONSECA, QuintaTurma, julgado em 4/2/2020, DJe 12/2/2020).
+Nesse sentido, confira-se recenteprecedente da Sexta Turma:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. IMPOSSIBILIDADE. DELITO COMETIDO NAS IMEDIAÇÕES DE ESTABELECIMENTO DE ENSINO. INCIDÊNCIA DA MAJORANTE PREVISTA NO ART. 40, III, DA LEI 11.343/06. AGRAVO REGIMENTAL IMPROVIDO.
+1. Tendo o Tribunal de origem, soberano na análise das provas dos autos, entendido estar caracterizada a prática do crime de associação para o tráfico, em razão do contexto do fático em que o crime ocorreu, restando evidenciado o vínculo estável e permanente do acusado com outros indivíduos, a desconstituição do julgado demandaria revolvimento do contexto fático probatório dos autos, providência incabível na via do habeas corpus.
+2. Mantida a condenação pelo delito de associação para o tráfico de drogas, em que a dedicação à atividade criminosa é elementar do tipo, torna-se inviável a aplicação do redutor previsto no art. 33, § 4º, da Lei 11.343/06, bem como de seus consectários legais.Precedentes.
+3. De acordo com o entendimento desta Corte, quando a infração tiver sido cometida nas dependências ou imediações de estabelecimento de ensino, dentre outros locais expressamente elencados no art. 40, III, da Lei n. 11.343/2006, resulta adequada a aplicação da causa especial de aumento de pena, independentemente da comprovação da efetiva mercancia aos frequentadores dessas localidades (AgRg no REsp 1845613/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/02/2020, DJe 12/02/2020).
+4. Agravo regimental improvido.(AgRg no HC 616.277/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/2/2021, DJe 26/2/2021, grifei.)
+Ainda na mesma dicção:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. RECEPTAÇÃO. INVERSÃO DO ÔNUS DA PROVA. NULIDADE. INOCORRÊNCIA. CAUSA DE AUMENTO PREVISTA NO ART. 40, INCISO III, DA LEI N.º 11.343/06. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. ORDEM DENEGADA.
+1. Hipótese em que as instâncias de origem, após uma minuciosa análise, concluíram que as provas são suficientes para demonstrar que o paciente tinha conhecimento da origem ilícita do objeto, destacando a apreensão em seu poder. A afirmativa de que eventual desconhecimento da origem dos bens deveria ser comprovado pela Defesa não constitui inversão do ônus da prova. Precedentes.
+2. Para a incidência da majorante prevista no art. 40, inciso III, da Lei n.º 11.343/2006 é desnecessária a efetiva comprovação de mercancia nos referidos locais, sendo suficiente que a prática ilícita tenha ocorrido em locais próximos, ou seja, nas imediações de tais estabelecimentos, diante da exposição de pessoas ao risco inerente à atividade criminosa da narcotraficância.
+3. Ordem denegada.(HC 421.829/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/6/2018, DJe 27/6/2018.)
+Ante o exposto, douprovimento ao recurso especial para orestabelecimento da causa de aumento prevista no art. 40, III, da Lei n. 11.343/2006, nos termos da sentença condenatória.
+Publique-se. Intimem-se.
