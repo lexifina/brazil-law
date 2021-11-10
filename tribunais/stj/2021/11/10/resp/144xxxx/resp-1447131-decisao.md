@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por Bertani, Miri e Cia LTDA - ME, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. LEI No 9.964/2000. REFIS. EXCLUSÃO. CABIMENTO. PARCELAS COM VALOR IRRISÓRIO. INEXISTÊNCIA DE AMORTIZAÇÃO DO DÉBITO CONSOLIDADO. PAGAMENTO CONSIDERADO INEXISTENTE. APLICAÇÃO DO ART. 5o, INCISO II, DA LEI No 9.964/2000.
+Demonstrado que os valores recolhidos pela empresa se mostram irrisórios e inaptos para quitar a dívida, perfeitamente aplicável o disposto do artigo 5o, inciso II, da Lei no 9.964/2000, devendo ser considerada inadimplente a empresa, autorizando a exclusão da empresa do Programa de Recuperação Fiscal - REFIS.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, aponta a parte recorrente violação dos arts.2º, § 4ºe 5º, II, da Lei n.9.964/00, sustentando inexistência das hipóteses legais que autorizariam a exclusão do contribuinte do REFIS.
+Houve contrarrazões (e-STJ fls. 206/212).
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Cuida-se, na origem, de ação ordinária ajuizada pela ora recorrente pleiteando sua reinclusão no Programa de Recuperação Fiscal (REFIS). O pleito restou desacolhido na origem na medida em que a Corte local entendeu que os valores recolhidos foram insuficientes à amortização do débito, o que equivaleria ao não pagamento e autorizaria a exclusão da recorrente do REFIS.
+Nas razões do especial, a parte aduz que "a insuficiência da prestação mensal para a quitação do montante integral do débito consolidado não integra as causas de exclusão do programa do REFIS" (e-STJ fl. 197).
+A insurgência não merece prosperar.
+Isso porque o entendimento desta Corte Superior está nosentido de que é possível a exclusão doPrograma de Recuperação Fiscal - REFIS, se ficar demonstrada a ineficáciado parcelamento como forma de quitação do débito, considerando-se o valordo débito e o valor das prestações efetivamente pagas. Situação em que aimpossibilidade de adimplência há que ser equiparada à inadimplência paraefeitos de exclusão do dito programa de parcelamento.
+Confira-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. PROGRAMA DE RECUPERAÇÃO FISCAL (REFIS). LEI N. 9.964/2000. PRESTAÇÕES EM VALOR INSUFICIENTE À AMORTIZAÇÃO DO DÉBITO. HIPÓTESE EQUIVALENTE À INADIMPLÊNCIA.
+I - O presente feito decorre de mandado de segurança preventivo com pedido de liminar objetivando que a autoridade impetrada se abstenha de excluir a impetrante do REFIS em decorrência do não pagamento de parcela mínima. Na sentença, concedeu-se a segurança. No Tribunal Regional Federal da 4ª Região, a sentença foi mantida.
+II - Nas hipóteses em que há o provimento do recurso, a Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp n. 1.119.820/PI, Relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgRg no REsp n. 1.429.300/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag n. 1.421.517/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014).
+III - No mais, a jurisprudência do Superior Tribunal de Justiça tem entendimento sedimentado no sentido de que o contribuinte é considerado inadimplente, sendo possível a exclusão de programa de parcelamento do débito tributário, quando for constatado que as parcelas mensais não são capazes de amortizar a dívida. Nesse sentido: AgInt no REsp n. 1.620.869/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/4/2017, DJe 2/5/2017 e REsp n.1.238.519/PR, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 20/8/2013, DJe 28/8/2013.
+IV - Agravo interno improvido.
+(AgInt nos EDcl nos EDcl no REsp 1629531/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/05/2019, DJe 13/05/2019)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PARCELAMENTO TRIBUTÁRIO. RECOLHIMENTO DE PARCELAS ÍNFIMAS. EXCLUSÃO DO REFIS POR INEFICÁCIA DOS PAGAMENTOS. POSSIBILIDADE. PRECEDENTES.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o recolhimento de valores ínfimos pode autorizar a exclusão do acordo de parcelamento fiscal. Precedentes: AgInt no REsp. 1.586.326/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 1.7.2016; AgInt no REsp. 1.566.727/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 20.9.2016; REsp. 1.447.131/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 26.5.2014.
+2. Agravo interno não provido.
+(AgInt no REsp 1.447.716/RS, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 24/4/2018).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PROGRAMA DE RECUPERAÇÃO FISCAL (REFIS). PRESTAÇÕES EM VALORINSUFICIENTE À AMORTIZAÇÃO DO DÉBITO.EXCLUSÃO DO PROGRAMA DE PARCELAMENTO. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
