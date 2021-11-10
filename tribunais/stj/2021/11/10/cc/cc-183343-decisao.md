@@ -1,0 +1,12 @@
+DECISÃO
+Vistos etc.
+Trata-se de petição nº 1.012.088/2021 (e-STJ, fls. 80/88) apresentada pela suscitante, na qual ela noticia suposto descumprimento por parte do Juízo da 2ª Vara do Trabalho de Lavras - MG em relação à decisão de mérito proferida no presente incidente.
+Alega, nessa linha, que o juízo do trabalho"(..) continua a deferir atos constritivos em face do patrimônio da Recuperanda"(e-STJ, fl. 82) e requer"(..)seja expedido ofício ao D. Juízo da VARA DO TRABALHO DE LAVRAS/MG determinando-se a IMEDIATA suspensão da execução e de atos constritivos da execução trabalhista, com a liberação, levantamento e devolução de depósitos recursais e quantias eventualmente bloqueadas (constritas), bem como o cancelamento de eventuais penhoras de bens da empresa efetivada pelo D. JUÍZO TRABALHISTA SUSCITADO, disponibilizando referidos valores para a Recuperação Judicial" (e-STJ, fl. 85).
+É o breve relatório. Decido.
+O pedido não merece acolhimento.
+Nos termos da decisão de mérito proferida às fls. 68/74 (e-STJ), conheci do conflito"(..)para declarar a competência do JUÍZO DE DIREITO DA 2A VARA CÍVEL DE LAVRAS - MG para quaisquer exames relativos a pagamento de débitos da suscitante e constrição do seu patrimônio, relativos à execução nº 0011265-96.2017.5.03.0065"e determinei que"Os valores eventualmente constritos pelo JUÍZO DO TRABALHO relativos ao patrimônio da sociedade em recuperação deverão ser colocados à disposição do juízo universal, a quem competirá analisar eventual pedido de levantamento" (e-STJ, fl.73; grifei).
+No caso, conforme se verifica da cópia da decisão proferida pelo Juízo do Trabalho Suscitado na mencionada execução (e-STJ, fl. 87), não houve determinação de prosseguimento da execução contrasuscitante e recuperanda HI TRANSPORTES LTDA.
+Ao contrário, o magistrado trabalhista determinou o prosseguimento da execuçãoem desfavor dosdevedores solidários HI TRANSPORTE E LOGÍSTICA LTDA e CINARA SANTOS ANDRADE - ME, pessoas jurídicas diversas, que não figuraramcomo parte ativa neste incidente e que não se encontram em recuperação judicial, conforme se depreende dos presentes autos.Desse modo, incide, nesse ponto,o enunciado sumular nº 480/STJ: "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa".
+Ante o exposto, indefiro o pedido formulado na petição nº 1.012.088/2021.
+Comunique-se ao juízo do trabalho suscitado acerca da presente decisão.
+Intimem-se.
