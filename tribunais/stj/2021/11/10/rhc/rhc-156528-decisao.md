@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido de liminar, interpostoem face de acórdão assim ementado (fl. 68):
+HABEAS CORPUS. PENAL. PROCESSO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. QUESTIONADA A PRESENÇA DE SEUS REQUISITOS AUTORIZADORES E A FUNDAMENTAÇÃO EXPOSTA NO DECRETO PRISIONAL. PREENCHIMENTO. ÉDITO PRISIONAL BEM FUNDAMENTADO E EMBASADO NOS AUTOS. MANIFESTA PERICULOSIDADE NO SUPOSTO MODO DE AGIR DO PACIENTE, QUE JÁ OSTENTA CONDENAÇÃO CRIMINAL TRANSITADA EM JULGADO POR FATO ANÁLOGO. INDICATIVOS DA PRÁTICA HABITUAL DA TRAFICÂNCIA COM ARES DE PROFISSIONALIZAÇÃO. RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE DA CUSTÓDIA PREVENTIVA PARA A GARANTIA DA ORDEM PÚBLICA. IRRELEVÂNCIA DA EVENTUAL PRESENÇA DE CONDIÇÕES SUBJETIVAS FAVORÁVEIS. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS DO CÁRCERE. FEITO DE ORIGEM EM MARCHA REGULAR. CONSTRANGIMENTO ILEGAL INVOCADO INEXISTENTE. PRISÃO MANTIDA. ORDEM DENEGADA.
+Consta dos autos que "o paciente, preso cautelarmente desde o dia 07.06.2021 sob a acusação da prática do crime de tráfico de drogas, nos termos do artigo 33 da Lei nº 11.343/2006" (fl. 69).
+Impetradomandamusna origem, o Tribunal local denegou a ordem.
+Daí o presente recurso, em que orecorrentesustenta, em síntese, que "a simples indicação de que o paciente figura no polo passivo de outra ação penal não pode ser fundamento válido para sustentar a prisão preventiva aqui atacada" (fl. 84).
+Salienta, ademais, estarem ausentes, na espécie, os requisitos que autorizariam a decretação da prisãopreventiva.
+Requer, liminarmente e no mérito, a concessão da ordem para deferira liberdade provisória ao paciente.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que converteu a prisão em flagrante em preventivarestou assim fundamentada (fls. 45-46):
+Restam analisar os pressupostos e as hipóteses necessários para a decretação/manutenção da prisão provisória.
+A segregação provisória é uma medida cautelar e, assim, para ser decretada exige a presença de alguns pressupostos (fumus comissi delicti), quais sejam, a prova da existência do crime e indício suficiente de autoria" (CPP, art. 312, in fine).
+Segundo as declarações e os depoimentos prestados no Distrito Policial, o conduzido foi preso em flagrante pela prática do crime de tráfico de drogas.
+Entendo que a materialidade delitiva resta comprovada com os relatos constantes nos autos, o auto apreensão fls. 04. Quanto à autoria, os indícios são suficientes, considerando ainda que a lei contenta-se com elementos probatórios menos robustos do que os necessários para a materialidade, vez que não vigora, para fim de segregação provisória, o princípio do in dubio pro reo, mas sim o do in dubio pro societate, não sendo necessário existir a certeza que se exige, por exemplo, para a prolação de um édito condenatório.
+Provada a existência do crime e havendo indícios suficientes da autoria, a custódia cautelar poderá ser decretada quando presente alguma das hipóteses previstas no art. 312 do CPP, quais sejam, a "garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal".
+Pela análise dos autos, encontro motivos suficientes para decretar a prisão preventiva do custodiado, em razão da garantia da ordem pública, ante a gravidade concreta da conduta delitiva.
+O flagrado foi preso pela suposta prática do delito previsto no art. 33 da Lei n. 11.343/2006 (tráfico de drogas), ocasião em que a prova da materialidade resta clara,consoante auto de apresentação e apreensão da matéria ilícita, a saber: tablete de maconha, sacolas para embalagens e 08 bombinhas de maconha.
+Ademais, consoante pacífico entendimento da Corte Superior - STJ, a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva, uma vez que demonstram a gravidade concreta do delito, como no caso dos autos.
+Outrossim, a quantidade e a forma de acondicionamento da droga apreendida são critérios que evidenciam a dedicação a atividades criminosas.
+Ante o exposto, com fulcro nos arts. 311, 312 e 313 do Código de Processo Penal, visando garantir a ordem pública e a aplicação da lei penal, MANTENHO A PRISÃO de JOSÉ HELTON VIEIRA DA SILVA, já qualificado nos autos, ao tempo em que CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA, por entender presente o requisito da garantia da ordem pública.
+Como se vê, além da quantidade de droga apreendida não ser relevante um tablete e oito porçõesde maconha, conforme auto de prisão em flagrante (e-STJ fl. 9) pesando aproximadamente 288g, destarte,não consta no decreto de prisão nenhumafundamentação com base em elementos concretos que apontama necessidade e a adequação da custódia cautelar, pois a medida foi baseada apenasna gravidade abstrata do crime de tráfico de drogas, isto é, apenas se determinoua prisão, porque o paciente foi indiciado por crime.
+Os riscos apontados, portanto, não exigem tão gravosa cautelar como a prisão, ea Sexta Turma tem entendido que o tráfico flagrado de não relevante quantidade de drogas somente com especial justificação permitirá a prisão por risco social.
+Sendo assim, não se verifica qualquer elemento do caso concreto para justificar a prisão, o que evidencia a ausência de fundamentos para o decreto prisional.
+Não havendo divergência nesta Sexta Turma do Tribunal a respeito desse tema, deve ser reconhecida a ilegalidade.
+Ante o exposto, concedoliminarmente o recurso emhabeas corpus para a soltura do recorrente JOSÉ HELTON VIEIRA DA SILVA.
+Comunique-se.
+Publique-se.
+Intimem-se.
