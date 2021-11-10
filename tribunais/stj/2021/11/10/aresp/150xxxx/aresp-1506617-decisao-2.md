@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pela DHL EXPRESS (BRAZIL) LTDA contra decisão da Corte de origem que não admitiu o recurso especial.
+O apelo nobre obstado enfrenta acórdão assim ementado (e-STJ fls. 520-521):
+AÇÃO ORDINÁRIA - ADMINISTRATIVO - PRESTAÇÃO DE SERVIÇO DE COLETA E ENTREGA DE PASSAPORTES - VIOLAÇÃO AO MONOPÓLIO POSTAL DA ECT, ADPF Nº 46 - PROCEDÊNCIA AO PEDIDO - IMPROVIMENTO ÀS APELAÇÕES Os recursos então abundantemente fundamentados, não possuindo qualquer sentido a preliminar postal lançada em contrarrazões. Consoante o art. 21, X, Lei Maior, compete à União manter o serviço postal e o correio aéreo nacional. A Lei 6.538/78 dispôs sobre os serviços postais, tratando o seu art. 9º sobre quais misteres seriam explorados pelo Estado, a título de monopólio.
+No julgamento da Ação de Descumprimento de Preceito Fundamental - ADPF nº 46, o Excelso Pretório concebeu interpretação conforme o artigo 42 (Coletar, transportar, transmitir ou distribuir, sem observância das condições legais, objetos de qualquer natureza sujeitos ao monopólio da União, ainda que pagas as tarifas postais ou de telegramas) da Lei nº 6.538/78, para restringir a sua aplicação às atividades postais descritas no artigo 9º do referido diploma legal.
+Aos autos restou cabalmente configurada transgressão à exclusividade postal da ECT, porquanto logrou a parte autora comprovar que as empresas apelantes, o que por elas ratificado em seus recursos, entregavam passaportes emitidos pelos Consulados Americano e Canadense.
+O declinado serviço é atividade que se enquadra no conceito de "carta", art. 47, Lei 6.538/78, em consonância com o retrocitado art. 9º.
+O passaporte a ser documento que contém dados e informações específicas do destinatário, não deixando de ser uma comunicação, sendo enviado do Consulado ao interessado, assemelhando-se, claramente, à entrega de cartões bancários, afigurando-se pacífico o v. entendimento pretoriano sobre o alcance da expressão "carta" a este último item, desde o C. STJ. Precedentes.
+Esta C. Terceira Turma já se deparou com situação onde empresa entregava carteiras de associados de uma entidade, o que também enquadrado em violação ao monopólio postal, AC 00018636320094036108. Precedente.
+Impende destacar, também, que a presente ação visa a coibir a que a parte ré/apelante vulnere o monopólio postal, o qual comprovadamente demonstrado, diante do serviço paralelo prestado na coleta e entrega de passaportes, não se adentrando aos outros misteres que não atinjam a exclusividade da ECT, portanto não se há de falar em vulneração ao princípio da livre inciativa.
+Improvimento às apelações. Procedência ao pedido.
+Os embargos de declaração foram rejeitados, conforme fls. 544-552.
+No apelo especial, a recorrente pugna, em síntese: a) anular o acórdão recorrido, pois caracterizada a afronta ao art. 1.022 do NCPC, ante a Corte de origem ter sido obscura quanto ao início de vigência dos efeitos do próprio v. acórdão recorrido, notadamente em razão das particularidades do caso em concreto.
+Sem Contrarrazões.
+Juízo de inadmissibilidade às fls. 789-795.
+É o relatório. Decido.
+Preliminarmente, a análise pormenorizada dos presentes autos evidencia que o acórdão recorrido incorreu em afronta ao art. 1.022do CPC/2015. Isso porque aquela Corte ao rejeitar os embargos do recorrente furtou-se a emitir juízo a respeito de ponto de suma relevância para o deslinde da controvérsia, qual seja: a)início de vigência dos efeitos do próprio v. acórdão recorrido, notadamente em razão das particularidades do caso em concreto.
+Nesse sentido, ao rejeitar os embargos de declaração do ora recorrente, era mister da corte de origem se pronunciar no concernente à questão supra, em homenagem ao princípio do tantum devolutum quantum appellatum que o recurso de apelação encerra, porquanto é defeso ao Superior Tribunal de Justiça debruçar-se sobre a questão ventilada nos embargos de declaração pela primeira vez.
+Isso posto, conheço do agravo e dou provimento ao recurso especial e declaro violado o art. 1.022, II, do CPC/2015. E, como consectário, determino a remessa dos presentes autos ao Tribunal de origem, a fim de que aquela Corte se manifeste sobre a matéria articulada nos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS PELO TRIBUNAL A QUO. OMISSÃO EVIDENCIADA. AFRONTA AO ART. 1.022 DO CPC/2015 CONFIGURADA.
+AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
