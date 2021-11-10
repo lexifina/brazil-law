@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos em benefício de DANIEL MIGUEL DA SILVA, contra decisão monocrática, que não conheceu do habeas corpus, impetrado contra o acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Nas razões dos embargos, o embargante sustenta que: "o que se busca neste Habeas Corpus é demonstrar que o Estado Bandeirante não cumpre ordem determinada por esta corte Superior, não existindo nenhuma base lógica na decisão proferida que deixou de reconhecer o Habeas Corpus. Do mesmo modo, ao entrar em contato de forma administrativa para solucionar o problema, foi informado este defensor que não teria como cumprir a ordem, por questão técnica."
+Postula, ao final, sejam sanadas as alegadas contradições(fls. 194-209).
+É o relatório.
+Decido.
+Preambularmente, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+O parágrafo 1º, do art. 264, do RISTJ, por sua vez, dispõe que: "Os embargos de declaração serão incluídos em pauta, salvo se opostos nas classes previstas no art. 91 deste Regimento ou nas demais classes criminais. § 1º Se os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal, o Órgão Julgador da decisão embargada decidi-los-á monocraticamente."
+O embargante sustenta que: "o que se busca neste Habeas Corpus é demonstrar que o Estado Bandeirante não cumpre ordem determinada por esta corte Superior, não existindo nenhuma base lógica na decisão proferida que deixou de reconhecer o Habeas Corpus. Do mesmo modo, ao entrar em contato de forma administrativa para solucionar o problema, foi informado este defensor que não teria como cumprir a ordem, por questão técnica."
+À vista disso, no que se refere à alegada insurgência do embargante, tenho que não houve contradição no decisum.
+Nesse diapasão, conforme consta na decisão ora embargada,em consulta ao andamento da ação penal nº 0004492-74.2005.8.26.0288, verifica-se que o Juízo da 1ª Vara da Comarca de Ituverava (SP), apontado pelo impetrante, já cumpriu a determinação desta Corte e determinou, em atendimento à decisão proferida por esta Corte, a expedição de guia de recolhimento para execução da pena imposta à DANIEL MIGUEL DA SILVA, bem como para que o Juízo da execução promova a detração da pena à luz do disposto no art. 387,§2º, do Código de Processo Penal.
+Destarte, inexiste contradição, de modo que, demais ilações a respeito da insurgência do embargante, acarretará no reexame de matéria já julgada, situação que não se coaduna com o instrumento dos declaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+P. e I.
