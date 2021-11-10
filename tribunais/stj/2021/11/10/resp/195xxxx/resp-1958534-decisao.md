@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por ACÁCIO DIOGO DE OLIVEIRA MACHADO eBRUNO CORREA DA SILVA, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (e-STJ, fls. 935-938):
+"RECURSO EM SENTIDO ESTRITO. TRIBUNAL DO JÚRI. PRONÚNCIA.TENTATIVA DE HOMICÍDIO QUALIFICADO. NEGATIVA DE AUTORIA.CONFISSÃO NA FASE POLICIAL NÃO UTILIZADA ISOLADAMENTE. INDÍCIOSSUFICIENTES. APRECIAÇÃO PROBATÓRIA APROFUNDADA QUE COMPETEAO CONSELHO DE SENTENÇA, JUIZ NATURAL E SOBERANO DA CAUSA.PREVALÊNCIA, NESTE MOMENTO PROCESSUAL, DO PRINCÍPIO "IN DUBIOPRO SOCIETATE". NÃO PROVIMENTO".
+Os embargos de declaração foram rejeitados (e-STJ, fls. 973-975).
+Em suas razões recursais, a defesa aponta violação do art. 155 do CPP, ao argumento de que a pronúncia teria se baseado exclusivamente nos elementos colhidos durante o inquérito policial.
+Com contrarrazões (e-STJ, fls. 1.014-1.019), o recurso especial foi admitido na origem (e-STJ, fls. 1.023-1.026).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 1.045-1.049).
+É o relatório.
+Decido.
+A insurgência não prospera.
+Com efeito, embora a mais recente jurisprudência deste STJ determine a incidência do art. 155 do CPP à pronúncia, vê-se que o acórdão recorrido efetivamente não destoa da nova orientação jurisprudencial. Afinal, a admissão da acusação fundamentou-se também emperícia balística(e-STJ, fl. 937), espécie de exame de corpo de delito de natureza cautelar, cuja valoração para fundamentar a condenação (ou pronúncia) é expressamente permitida pelo art. 155 do CPP. Destaco que aprova pericial foi submetida ao contraditório durante a fase judicial, de maneira diferida, e não há registro de que a defesa tenha logrado desconstituí-la.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TESE NÃO SUBMETIDA AO TRIBUNAL A QUO. INOVAÇÃO RECURSAL. OMISSÃO NÃO IDENTIFICADA. AUSÊNCIA DE VIOLAÇÃO DO ART. 619 DO CPP. CONCLUSÕES DIVERSAS PARA O AGRAVANTE E O CORRÉU.CIRCUNSTÂNCIAS FÁTICAS DISTINTAS. INEXISTÊNCIA DE CONTRADIÇÃO.PRONÚNCIA FUNDAMENTADA EM PROVAS E EM ELEMENTOS DE INFORMAÇÃO. ARTS.155 E 413 DO CPP NÃO INFRINGIDOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. A pronúncia do réu está condicionada a prova mínima, judicializada, na qual tenha sido garantido o devido processo legal, com o contraditório e a ampla defesa que lhe são inerentes. O caso ora em exame não destoa dessa orientação jurisprudencial. A Corte de origem afirmou estarem presentes indícios necessários para pronunciar o réu com base no depoimento, em juízo, do delegado da Polícia Federal que participou da investigação do caso, bem como nas conversas obtidas pela interceptação telefônica e nos laudos periciais -ambos têm natureza de prova por seu caráter cautelar e irrepetível, respectivamente, nos termos do art. 155 do CPP -, além dos elementos de informação produzidos no curso do inquérito.
+5. Agravo regimental não provido".
+(AgRg no AREsp 1674333/GO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPORTAÇÃO DE MEDICAMENTO SEM REGISTRO NO ÓRGÃO DE VIGILÂNCIA SANITÁRIA. DECRETO CONDENATÓRIO FUNDADO EM APREENSÃO E LAUDO PERICIAL. PROVA CAUTELAR, ANTECIPADA E NÃO REPETÍVEL. AUSÊNCIA DE VIOLAÇÃO DO ARTIGO 155 DO CPP. CONDENAÇÃO FUNDADA EM CONTEXTO FÁTICO-PROBATÓRIO VÁLIDO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Vige em nosso ordenamento jurídico o princípio do livre convencimento motivado ou da persuasão racional, segundo o qual o magistrado pode livremente apreciar as provas, adotá-las ou recusá-las mediante convicção motivada. Contudo, há proibição expressa de fundamentação exclusiva nos elementos do inquérito, ressalvadas as provas cautelares, não repetíveis e antecipadas.Inteligência do art. 155 do Código de Processo Penal (HC 156.333/ES, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 05/04/2011, DJe 15/04/2011). Precedentes.
+5. A condenação do recorrente foi lastreada na apreensão, autorizada por mandado judicial de busca, de 59 (cinquenta e nove) comprimidos do medicamento PRAMIL nas dependências de seu estabelecimento comercial. Encaminhados à Delegacia da Receita Federal, foi elaborado laudo pericial de exame de produto farmacêutico, via do qual se concluiu que aqueles medicamentos eram de procedência estrangeira e sem registro no órgão de vigilância sanitária competente, o que os impediam de serem comercializados neste país.Inegável o enquadramento da situação fática à hipótese legal que permite excepcionar a regra da judicialização das provas. Ademais, a despeito de terem sido construídas cautelarmente antes do processo-crime, tais provas foram submetidas ao contraditório diferido, não tendo a defesa buscado de algum modo desconstituí-las no curso da instrução criminal.
+ ..
+7. Agravo regimental desprovido".
+(AgRg no AREsp 521.131/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/02/2018, DJe 21/02/2018)
+Assim, como o acórdão recorrido se baseou também em prova ressalvada pela parte final do art. 155 do CPP, não há ofensa ao texto legal na submissão dos acusados a julgamento popular.
+Ante o exposto, com fundamento no art. 255, §4º, II, do Regimento Interno do STJ,nego provimento ao recurso especial.
+Publique-se. Intimem-se.
