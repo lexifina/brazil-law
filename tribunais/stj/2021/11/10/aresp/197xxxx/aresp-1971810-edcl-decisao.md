@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE à decisão de fls. 1193/1194, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No entanto, ao analisarmos o caso em tela em conjunto com a Súmula 187 do STJ, vemos que não é caso de deserção, posto que o recolhimento foi realizado tempestivamente à época da interposição do Recurso Especial, inclusive, sendo o mesmo certificado nos autos à folha 1099 (fl. 1197).
+ ..
+De toda forma, mesmo havendo a certidão nos autos, esta peticionária apresenta em anexo o comprovante de pagamento das guias referente as custas do Recurso Especial (fl. 1199).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Veja-se que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Do mesmo modo, certidão do Tribunal de origem, lavrada por servidor público nos autos do processo, atestando a regularidade do preparo do recurso, além de não impedir o reexame desse requisito pelo Superior Tribunal de Justiça, é insuficiente para o fim proposto, pois "a jurisprudência desta Corte Superior é iterativa no sentido de que a regularidade do preparo deve ser demonstrada mediante juntada de cópia das Guias de Recolhimento de Custas e de Porte de Remessa e Retorno (GRU), acompanhada do respectivo comprovante de pagamento, sob pena de deserção". (AgRg no AREsp 662.713/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/11/2015.)
+Ademais, registre-se que foi dada a oportunidade, nesta Corte, para a parte sanar o vício de deserção e, apesar disso, não houve a regularização, uma vez que permaneceu inerte.
+Somente agora, em sede destes aclaratórios a parte trouxe o devido comprovante de pagamento e a guia de recolhimento com o fim de regularizar o preparo, no entanto, não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1399586/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019; e AgInt nos EDcl nos EREsp 1454030/SP, relator Ministro Francisco Falcão, Cortes Especial, DJe de 26/11/2019.)
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
