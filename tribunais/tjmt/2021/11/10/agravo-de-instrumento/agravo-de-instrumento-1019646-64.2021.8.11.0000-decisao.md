@@ -1,0 +1,38 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO N. 1019646-64.2021.8.11.0000
+AGRAVANTE: JOÃO BOSCO NUNES DE SIQUEIRA – ME
+AGRAVADOS: ALBERTO CARLOS DE OLIVEIRA JORTORELLIO e MANOEL CASSIANO PINHEIRO FILHO
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo/ativo, interposto por JOÃO BOSCO NUNES DE SIQUEIRA – ME contra decisão interlocutória proferida pelo MM. Juiz de Direito da 2a Vara Cível – Especializada em Direito Agrário da Comarca de Cuiabá/MT, Dr. Carlos Roberto Barros de Campos, lançada nos autos de Ação de Reintegração de Posse n. 1016476-58.2021.8.11.0041, proposta em face de ALBERTO CARLOS DE OLIVEIRA JORTORELLIO e MANOEL CASSIANO PINHEIRO FILHO, que indeferiu a liminar de manutenção de posse.
+Nas razões recursais coligidas no Id. 107524470, o agravante sustenta ter celebrado contrato de aluguel de um sobrado com um dos agravados, nos idos de 2016.
+Salienta que no referido imóvel funciona a sua gráfica e que se trata de um espaço único, sem divisórias, possuindo apenas 02 (duas) portas de entrada e 01 (uma) na lateral.
+Assevera que no local inexiste banheiro, tampouco tubulação para passagem de água, razão pela qual lhe foi assegurado pelo locador o acesso a um local externo ao salão, onde havia pias e banheiro.
+Aduz que no ano de 2020, os agravados retiraram as pias e destruíram o banheiro que o locatário utilizava e, desde o dia 19/04/2021 passou a impedir que o locatário tivesse acesso ao imóvel.
+Alega que “mostra-se temerária e frágil tal decisão interlocutória, vez que se baseou apenas na falta de testemunhas e não considerou todas as provas que foram anexadas no processo, como contas de luz e água que estão no nome do Agravante, as quais comprovam a posse e permanência de longos anos na propriedade, além disso os Agravados em audiência de justificação reconheceram a posse do Agravante e ainda, confirmaram que estão OBSTANDO A SUA ENTRADA NO IMÓVEL!” (sic - negritos no original).
+Ressalta que “O “periculum in mora” também está presente e claro posto que, não pode o Agravante aguardar o julgamento do presente recurso sem suspender a decisão que indeferiu a liminar, haja vista a necessidade de sustento próprio, pois foram realizados bloqueios na entrada da propriedade, impedindo o mesmo de realizar o seu serviço gráfico e de entregar as mercadorias que possui!!” (sic - negritos no original).
+Com base nos pressupostos legais, o agravante pleiteia “a concessão da medida liminar determinando a suspensão da decisão de ID 65356372, em 14 de setembro de 2021, até ulterior decisão desta r. Corte para evitar-se assim, lesão de difícil reparação em desfavor do Agravante, que está sofrendo a perda salarial DIARIAMENTE, PREJUDICANDO O SEU SUSTENTO E DE SUA FAMÍLIA” (sic).
+Segundo consta dos autos o agravante é beneficiário da gratuidade da justiça (Id. 107656457).
+É a breve síntese.
+Decido.
+Por tempestivo e próprio recebo o recurso na forma do art. 1.015, I, c/c art. 1.017, ambos do CPC.
+De acordo com a previsão contida no artigo 1.019, inciso I, c/c o artigo 300, ambos do Código de Processo Civil vigente, o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Eis o teor da decisão recorrida, na parte que interessa para análise da medida de urgência vindicada:
+“[...] A audiência foi designada para que a parte autora trouxesse testemunhas capazes de esclarecer ao juízo a posse alegada sobre o imóvel até a ocorrência do suposto esbulho.
+Contudo, a inércia injustificada da parte por não apresentar as testemunhas, demonstra que o autor não tem interesse na concessão da liminar possessória, já que os documentos acostados com a inicial não são suficientes para demonstrar os requisitos legais.
+Nos autos em comento, a posse da autora não restou demonstrada, em sede de cognição sumária, não exauriente, pois os documentos acostados não são aptos a demonstrar a posse fática sobre a área.
+Destarte, em sede de cognição sumária, não exauriente, nos termos do art. 1.196 do Código Civil e art. 561 do Código de Processo Civil, INDEFIRO a liminar de manutenção de posse. [...]” (Id. 107524471).
+De início entendo que não há qualquer irregularidade/ilegalidade na decisão agravada. Ademais, trata-se de matéria que depende de indícios relevantes favoráveis ao recorrente para que se proceda a suspensão do decisum de primeiro grau, o que não se verifica, neste momento, no caso concreto.
+Calha ressaltar que se trata de questão complexa que demanda um estudo mais aprofundado para análise quanto ao direito perquirido. De modo que imprescindível, ao menos, a resposta da parte agravada, para se chegar a uma conclusão sobre o ato judicial tido como equivocado pelo agravante.
+Assim, a uma análise perfunctória da questão posta em mesa, ao assentar a razoabilidade das razões que irromperam a ação de origem (fumus boni iuris), notadamente limitado pelo momento liminar e raso nível de cognição, ao que tudo indica, o d. Magistrado posicionou-se corretamente ao indeferir, em liminar, a reintegração de posse em favor do agravante.
+E, nesse aspecto, a jurisprudência deste Sodalício é assente ao se posicionar que “nas ações de natureza eminentemente fáticas como é o caso das possessórias, à míngua de evidências em sentido oposto, deve-se prestigiar a decisão proferida pelo magistrado singular, em razão do princípio da imediação” (AI 1018654-74.2019.8.11.0000, DESA. MARILSEN ANDRADE ADDÁRIO, Segunda Câmara de Direito Privado, Julgado em 06/05/2020, Publicado no DJE 02/07/2020).
+Não vislumbro, igualmente, que a manutenção da decisão agravada possa acarretar danos irreparáveis, ou, então, frustrar ulterior eficácia do julgamento da questão de mérito, afinal, a assertiva do agravante de que há risco de dano grave de difícil ou incerta reparação, não passa de mera suposição, uma vez que não apresentou indicativos plausíveis de que se deixar a questão para ser melhor analisada pelo Colegiado, sofrerá danos irreversíveis.
+Aliás, a medida é de fácil reversão e não exsurge prejuízo desmedido à parte agravante, uma vez que eventualmente havendo o reconhecimento do direito alegado ela poderá ser reintegrada na posse e indenizada pelas perdas que obtiver. Ademais, a tutela de urgência pode ser revogada a qualquer momento, desde que apresentados elementos persuasivos para tanto.
+Desta forma, os argumentos do recorrente não convencem quanto à presença de urgência a justificar o imediato enfrentamento da questão controvertida.
+Assim, mostra-se prudente, nesta esfera de cognição sumária, aplicar o princípio da imediatidade da prova, o qual privilegia o juízo de valor formulado pelo Juiz que preside o feito, frente à sua proximidade com as partes e com o processo na origem, o que lhe permite dispor de elementos para formação de sua convicção.
+Diante do exposto, NÃO CONCEDO o efeito suspensivo/ativo vindicado, sem prejuízo do convencimento que será formado quando do julgamento do mérito recursal.
+Intime-se a parte agravada para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 10 de novembro de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
