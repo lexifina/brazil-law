@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manejado p or K E DA S C, menor representado por ora C T DA S , em face de decisão que não admitiu o recurso especial, este interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 443):
+PREVIDENCIÁRIO. AUXÍLIO -RECLUSÃO. BENEFÍCIO RESTRITO AOS DEPENDENTES DE SEGURADOS PRESOS DE BAIXA RENDA. AUSÊNCIA DA QUALIDADE DE SEGURADO. REQUISITOS NÃO PREENCHIDOS.
+- Segundo o disposto no art. 80, caput, da Lei nº 8.213/91, "O auxílio -reclusão será devido, nas mesmas condições da pensão por morte, aos dependentes do segurado recolhido à prisão, que não receber remuneração da empresa nem estiver em gozo de auxílio-doença, de aposentadoria ou de abono de permanência em serviço"; o parágrafo único do mesmo dispositivo legal estatui, a seu turno, que "O requerimento do auxílio -reclusão deverá ser instruído com certidão do efetivo recolhimento à prisão, sendo obrigatória, para a manutenção do beneficio, a apresentação de declaração de permanência na condição de presidiário".
+- A semelhança do que ocorre em relação ao beneficio previdenciário de pensão por morte, a concessão de auxílio -reclusão independe do cumprimento do período de carência, nos expressos termos do art. 26, 1, da Lei nº8.213/91
+.- Conforme o extrato do Cadastro Nacional de Informações Sociais- CNIS de fl. 24/25, o recluso não possui qualquer tipo de vínculo empregatício até a data da prisão.
+- Ausente a comprovação da condição de segurado, é indevido o beneficio de auxílio -reclusão pleiteado.
+- Apelação da parte autora desprovida.
+Opostos embargos de declaração, foram rejeitados (fls. 484/485).
+Nas razões do apelo especial, aponta divergência jurisprudencial e violação aos arts. 62, §§ 1º e 2º, do Decreto 3.048/99 e ao Enunciado 18 do Conselho de Recursos da Previdência Social - CRPS c/c Súmula 75 da TNU.
+Sustenta que "no momento da primeira prisão (Certidão de Recolhimento Prisional em anexo), 20.12.2011, o recolhido estava DESEMPREGADO, sem auferir rendimentos, no entanto, em CTPS acostada, consta o último vínculo de 05.10.2011 à 06.12.2011, em que o genitor do recorrente laborou para a empresa Entre Linhas Pisos Ltda -Me" (fl. 492).
+Argumenta que "A súmula 75 da TNU (DOU 13/06/2013) dispõe que "A Carteira de Trabalho e Previdência Social (CTPS) em relação à qual não se aponta defeito formal que lhe comprometa a fidedignidade goza de presunção relativa de veracidade, formando prova suficiente de tempo de serviço para fins previdenciários, ainda que a anotação de vínculo de emprego não conste no CNIS"" (fl. 497).
+Intimada, a parte recorrida não apresentou contrarrazões ao recurso especial, conforme certidão à fl. 542.
+Às fls. 591/593, parecer do Ministério Público Federal, pelo não conhecimento do recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhimento.
+Destaca-se, de início, que recurso especial não pode ser conhecido no tocante à alegada ofensa aos arts. o Decreto 3.048/99 e ao Enunciado 18 do Conselho de Recursos da Previdência Social - CRPS c/c Súmula 75 da TNU. Isso porque os referidos atos normativos não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF. Confiram-se, a propósito, os seguintes precedentes: AgRg no Ag 1.203.675/PE, Segunda Turma, Rel. Ministro Humberto Martins, DJe de 10/3/2010; e AgRg no REsp 1.040.345/RS, Primeira Turma, Rel. Ministro Luiz Fux, DJe 9/2/2010.
+Frisa-se que, esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF. Nesse sentido, sobressaem os seguintes precedentes: AgInt no REsp 1.889.960/MG, Rel. Herman Benjamin, 2ª Turma, DJe 01/03/2021; AgInt no REsp 1.869.620/DF, Rel. Ministro Sérgio Kukina, 1ª Turma, DJe 31/08/2020.
+Ainda que assim não fosse, o Tribunal de origem, ao analisar a questão, assim concluiu (fl. 441).
+Ao caso dos autos.
+Objetiva a parte autora a concessão do beneficio previdenciário de auxílio -reclusão, na condição de filho de Thiago Flauzio da Costa, recolhido à prisão em 20.12.11, conforme demonstra o Atestado de Permanência Carcerária de fis. 26.
+A parte autora afirma que o recluso exerceu atividade profissional na empresa "Entre linhas piso Ltda. ME", tendo juntado a CTPS (fl. 19), para comprovação deste vínculo.
+Não obstante, observo do extrato do Cadastro Nacional de Informações Sociais - CNIS de fl. 24/25, que o recluso não possui qualquer tipo de vínculo empregatício até a data da prisão.
+Também o INSS acostou aos autos pesquisas realizada no GFIP (fi.40/42), todavia não consta o nome do pai do autor na lista de funcionários registrados na referida empresa.
+Ausente a comprovação da condição de segurado, é indevido o beneficio de auxílio -reclusão pleiteado.
+Nesse contexto, de rigor a manutenção do decreto de improcedência do pleito.
+Ao que se percebe, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, a saber "o INSS acostou aos autos pesquisas realizada no GFIP (fi.40/42), todavia não consta o nome do pai do autor na lista de funcionários registrados na referida empresa", esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+Ainda que superados tais óbices, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
