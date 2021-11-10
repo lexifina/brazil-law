@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros João Otávio de Noronha, Rogerio Schietti Cruz, Ribeiro Dantas, Joel Ilan Paciornik e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Sebastião Reis Júnior e Antonio Saldanha Palheiro.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. INCLUSÃODE APENADO NO SISTEMA PENITENCIÁRIO FEDERAL. SOLICITAÇÃO DEVIDAMENTE MOTIVADA PELO JUÍZO DE ORIGEM. AGRAVO REGIMENTAL DESPROVIDO.
+Mantidas as condições que ensejaram a transferência e inclusão do preso no sistema penitenciário federal, não compete ao Juízo Federal responsável pela penitenciária federal fazer juízo de valor sobre as razões da decisão do Juízo de Origem, devendo se limitar ao exame da legalidade estrita do ato de permanência.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LEON SULIVAN CORREA DOS SANTOSem face de decisão monocrática por mim proferida que reconheceu a competência do Juízo Federal da 5ª Vara Criminal de Campo Grande - SJ/MS,determinando a permanência do apenado na Penitenciária Federal.
+Opostos embargos de declaração estes foram rejeitados (fls. 99 - 102).
+Alega o agravante, em síntese, que a decisão merece ser modificada, pois"ocaso dos autos, diferente do que consta na decisão, não trata-se de pedido de renovação do prazo de permanência, mas se refere a pedido de inclusão do agravante no sistema penitenciário federal. E, não como a decisão monocrática afirma em utilizar fundamentos acerca de pedido de renovação que sequer existe".
+Assevera que " a única razão para o juízo suscitado da 5ª Vara Federal de Campo Grande/MS ter indeferido o pedido de inclusão foi pela "IMPOSSIBILITADADE DA UNIDADE PRISIONAL receber adequadamente o preso", devido a seu estado de saúde que requerer tratamento contínuo e especializado, que a penitenciária NÃO DISPÕE".
+Aduz que "resta evidente que a decisão do juízo suscitado deve ser mantida, pois a inclusão de LEON no SPF é inviável e inadequada, na medida em que vai impossibilitar o tratamento e realização de cirurgia na coluna,que somente serão possíveis no juízo de origem, onde o preso se encontra".
+Sustenta, ainda, que "deve ser declarado a competência da 5ª Vara Federal de Campo Grande/MS, para que seja mantida a decisão que indeferiu o pedido de inclusão do agravante no Sistema Penitenciário Federal, devido a ausência de estrutura física e de tratamento adequado para o preso. Devendo, o agravante ser mantido na Penitenciária Modulada de Charqueadas-PMEC, onde está custodiado e recebendo toda assistência médica e tratamento de que necessita".
+Requer, assim, que o agravo regimental sejasubmetido ao colegiado para que seja declarada a competência do Juízo Estadual, ora suscitante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. INCLUSÃODE APENADO NO SISTEMA PENITENCIÁRIO FEDERAL. SOLICITAÇÃO DEVIDAMENTE MOTIVADA PELO JUÍZO DE ORIGEM. AGRAVO REGIMENTAL DESPROVIDO.
+Mantidas as condições que ensejaram a transferência e inclusão do preso no sistema penitenciário federal, não compete ao Juízo Federal responsável pela penitenciária federal fazer juízo de valor sobre as razões da decisão do Juízo de Origem, devendo se limitar ao exame da legalidade estrita do ato de permanência.
+Agravo regimental desprovido.
+VOTO
+Em que pese os argumentos despendidos pelo ora agravante, entendo que a decisão monocrática deve ser mantida.
+Na decisão ora recorrida, restou assentado que consoante entendimento desta Corte Superior de Justiça,mantidas as condições que ensejaram a transferência e inclusão do preso no sistema penitenciário federal, não compete ao Juízo Federal responsável pela penitenciária federal fazer juízo de valor sobre as razões da decisão do Juízo de Origem, devendo se limitar ao exame da legalidade estrita do ato de permanência.
+Nesse sentido os seguintes julgados:
+"AGRAVOS REGIMENTAIS NO CONFLITO DE COMPETÊNCIA. INTERPOSIÇÃO SUCESSIVA CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. INCLUSÃO E PERMANÊNCIA DE PRESO NO SISTEMA FEDERAL. REQUISITOS PREENCHIDOS. PRORROGAÇÃO DO PRAZO. POSSIBILIDADE.
+1. Interpostos dois agravos regimentais contra a mesma decisão, não se conhece do segundo recurso em face da preclusão consumativa.
+2. No tocante à inclusão e permanência do acusado no sistema federal em razão de processo sob a competência do Juízo Federal do Amazonas, observa-se que houve respeito aos trâmites legais, tendo o magistrado de origem, inclusive, relatado fatos concretos e atuais que demonstram a necessidade da manutenção do preso no estabelecimento federal.
+3. De acordo com o entendimento firmado pela Terceira Seção desta Corte, permanecendo os motivos que ensejaram a transferência do preso para o sistema federal, deve ser prorrogado o prazo nos termos do art.10, § 1º, da Lei nº 11.671/2008, não cabendo ao Juízo Federal discutir as razões do Juízo de origem.4
+. Agravo regimental de fls. 644/662 (petição nº 79293/2017) não provido e agravo regimental de fls. 668/690 (petição nº 85231/2017) não conhecido"(AgRg no CC n. 150.051/AM, Terceira Seção, Relª. Minª. Maria Thereza de Assis Moura, DJe de 13/03/2017).
+"EXECUÇÃO PENAL. CONFLITO DE COMPETÊNCIA. PRESÍDIO FEDERAL DE SEGURANÇA MÁXIMA. MANUTENÇÃO DO PRESO. PERMANÊNCIA DOS FUNDAMENTOS. IMPOSSIBILIDADE DE QUESTIONAMENTO DAS RAZÕES PELO JUÍZO FEDERAL. IMPOSSIBILIDADE DE CONCESSÃO DE LIVRAMENTO CONDICIONAL.
+1. Consoante o entendimento da Terceira Seção desta Corte, permanecendo inalterados os fundamentos que justificaram a transferência de preso para presídio federal de segurança máxima, nãocabe ao Juízo federal questionar as razões do Juízo estadual, sendo a renovação da permanência do apenado providência indeclinável, como medida excepcional e adequada para resguardar a ordem pública. Da mesma forma, incabível a concessão de livramento condicional enquanto persistirem os fundamentos.
+2. Conflito conhecido, com a declaração da competência do Juízo federal, devendo o preso continuar a cumprir a pena no presídio federal, afastada, temporariamente, a possibilidade de concessão de livramento condicional" (CC n. 143.634/RJ, Terceira Seção, Rel. Min. Gurgel de Faria, DJe de 07/03/2016).
+"PENAL. CONFLITO DE COMPETÊNCIA. TRANSFERÊNCIA DE PRESO PARA O SISTEMA PENITENCIÁRIO FEDERAL. PEDIDO DE PRORROGAÇÃO DO PRAZO. POSSIBILIDADE. LEI N. 11.671/2008. NECESSIDADE DE FUNDADAMOTIVAÇÃOPELO JUÍZODE ORIGEM. PERSISTÊNCIA DO MOTIVO ENSEJADOR DO PEDIDO DE TRANSFERÊNCIA ORIGINÁRIO. FUNDAMENTAÇÃO SUFICIENTE.
+1. Persistindo as razões e fundamentos que ensejaram a transferência do preso para o presídio federal de segurança máxima, como afirmado pelo Juízo suscitante, notadamente em razão da periculosidade concreta do apenado, que desempenha função de liderança em facção criminosa, a renovação da permanência é providência indeclinável, como medida excepcional e adequada para resguardar a ordem pública (CC n. 120.929/RJ, Ministro Marco Aurélio Bellizze, Terceira Seção, DJe 16/8/2012).
+2. Conflito conhecido para declarar a competência do Juízo Federal Corregedor da Penitenciária Federal em Mossoró - SJ/RN e determinar a permanência do apenado, Rodrigo Barbosa Marinho, na Penitenciária Federal de Mossoró/RN"(CC n. 130.808/RJ,Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 21/05/2014, grifei).
+Conforme assentado na decisão agravada, é forçoso registrar que o Juízo de origem tem melhores condições de avaliar os requisitos para manutenção (ou não) de presos no sistema penitenciário federal, uma vez que vive, via de regra, no local em que os apenados praticavam crime(s), por isso possui de forma mais fidedigna informações sobre os apenados, embora custodiados noutra localidade.
+Assim, não se vislumbra a existência de argumentos capazes de alterar oentendimento adotadona decisão monocrática.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
