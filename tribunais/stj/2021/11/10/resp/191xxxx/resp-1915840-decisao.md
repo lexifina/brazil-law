@@ -1,0 +1,8 @@
+DECISÃO
+A questão tratada nos autos - Incidência de juros da mora no período compreendido entre a data da expedição do precatório ou da requisição de pequeno valor (RPV) e o efetivo pagamento - teve sua repercussão geral admitida pelo Supremo Tribunal Federal nos autos do RE 1.169.289/SC, Rel. Min. Marco Aurélio, em 15/03/2019 - Tema 1037.
+Consoante a jurisprudência desta Corte, o reconhecimento da Repercussão Geral da matéria constitucional, nos termos do art. 1.036 do CPC/2015, justifica o sobrestamento, pela instância ordinária, dos recursos especiais, que tragam em seu bojo a mesma questão jurídica a ser definida pelo STF.
+Assim, cuidando-se de recurso que versa sobre tema que teve Repercussão Geral reconhecida, posterior decisão da Suprema Corte poderá afetar o seu julgamento, sendo conveniente o sobrestamento deste recurso, em homenagem aos princípios processuais da economia e da efetividade, com a devolução dos autos ao Tribunal de origem para que seja oportunamente realizado o juízo de conformação ou seja mantido o acórdão recorrido ao que vier a ser decidido pelo Supremo Tribunal Federal, situação que representa o exaurimento da instância ordinária.
+Nesse sentido: REsp 1.486.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014; AgRg no REsp 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014.
+No caso em apreço, observa-se que houve também a interposição de recursos extraordinários na origem (e-STJ fls. 217-245 e 350-367).
+Ante o exposto, determino a devolução dos autos ao Tribunal a quo para quesejaexercido o juízo de retratação ou declarado prejudicado os recursos extraordinários, nos termos do art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
