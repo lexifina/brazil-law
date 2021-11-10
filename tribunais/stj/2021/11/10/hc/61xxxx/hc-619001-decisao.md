@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus,sem pedido liminar, impetrado em favor de MIQUISSAEL DOS SANTOS COSTA contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido nos autos do Agravo em Execução Penal n. 70083553164 (0327225-48.2019.8.21.7000).
+Consta dos autos que o Pacientesupostamente cometeu falta disciplinar de natureza grave, pois, " .. após intercorrências envolvendo seu histórico carcerário, sobreveio notícia em relação àprática de novo delito (posse de droga)" (fl. 167).
+Irresignado, o Apenado interpôs agravo em execução, questionando ocometimento dafalta grave, bem como a alteração da data-base para o cálculo dos "benefícios" na execução penal, ressalvados o livramento condicional, o indulto e a comutação.
+Neste writ, sustenta a Impetrante, em síntese, que o cometimento de falta grave pelo apenado não interrompeo prazo para concessão de saída temporária e de serviço externo.
+Requer seja determinada que a interrupção da data-base para a concessão dos "benefícios" de saída temporária e de trabalho externo não integre os consectários estabelecidos em razão do reconhecimento de falta grave.
+Não foi formulado pedido liminar.
+As informações foram prestadas (fls. 162-180).
+O Ministério Público Federal opinou pelo não conhecimento do writ, mas pelaconcessão da ordem de ofício(fls. 182-186).
+É o relatório.
+Decido.
+A Corte estadual, no julgamento do agravo em execução interposto peloPaciente, assim se manifestou sobre a data-base para a concessão de saída temporária e do trabalho externo, in verbis (fls. 171-173, sem grifos no original):
+" ..
+Ao mesmo tempo, a recognição da infração disciplinar inaugura novo marco temporal para o alcance de futuros benefícios vinculados à execução da privativa de liberdade, não se podendo simplesmente afastá-lo.
+ ..
+No caso em tela não comporta modificação a fixação da data da falta (28-11-2017) para marcar o dies a quo para a contagem do novo prazo à progressão de regime nos termos do artigo 112 da LEP, bem como para outras benesses que dependam do implemento de fração de pena, englobando a concessão de saídas temporárias e de trabalho externo, excetuados o livramento condicional, o indulto e a comutação."
+O acórdão impugnado, todavia, está em desconformidade com a jurisprudência desta Corte Superior no sentido de que " a  prática de falta grave durante o cumprimento da pena não acarreta a alteração da data-base para fins de saída temporária e trabalho externo" (AgInt no REsp 1.713.617/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/03/2018, DJe 12/03/2018).
+Cabe esclarecer, no ponto, que:
+" a  Terceira Seção desta Corte, por ocasião do julgamento do Recurso Especial Representativo de Controvérsia n.º 1.364.192/RS, decidiu que o cometimento de falta grave no curso da execução enseja a interrupção do prazo para a progressão de regime, mas não importa a recontagem do lapso temporal para a obtenção do livramento condicional e outros benefícios da execução, sob pena de ofensa ao princípio da legalidade." (AgRg no REsp 1.752.822/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/08/2018, DJe 30/08/2018.)
+Conforme entendimento desta Corte Superior de Justiça:
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO. EXECUÇÃO PENAL. PRÁTICA DE FALTA DISCIPLINAR GRAVE. INTERRUPÇÃO DO PRAZO PARA AQUISIÇÃO DOS BENEFÍCIOS DA SAÍDA TEMPORÁRIA E DO TRABALHO EXTERNO. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso ordinário. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+2. A prática de falta grave durante o cumprimento da pena não acarreta a alteração da data-base para fins de saída temporária e trabalho externo. Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida de ofício." (HC 611.195/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/10/2020, DJe 15/10/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. COMETIMENTO DE FALTA GRAVE NO CUMPRIMENTO DA PENA. IMPOSSIBILIDADE DE INTERRUPÇÃO DO PRAZO PARA SAÍDA TEMPORÁRIA E TRABALHO EXTERNO. AUSÊNCIA DE PREVISÃO LEGAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA N.º 1.364.192/RS. ALTERAÇÃO DA DATA-BASE SOMENTE PARA A PROGRESSÃO DE REGIME. PRECEDENTES. AGRAVO DESPROVIDO.
+1. É cediço por esta Corte que o cometimento de falta grave, pelo Reeducando, no curso da execução da pena, não enseja a alteração da data-base para fins de ulterior concessão dos benefícios da saída temporária e do trabalho externo, cujos requisitos - objetivos e subjetivos - estão delimitados na especialidade normativa dos arts. 36, 37 e 123, todos da Lei n.º 7.210/1984. Entendimento em sentido contrário consubstanciar-se-ia vedada analogia in malam partem, em descompasso à cláusula pétrea da reserva legal, expressada no art. 3.º, caput, do referido diploma.
+2. A Terceira Seção deste Tribunal Superior, a propósito, ao aperfeiçoar o entendimento firmado no EREsp n.º 1.176.486/SP, por ocasião do julgamento do Recurso Especial Representativo de Controvérsia n.º 1.364.192/RS, decidiu que "o cometimento de falta grave no curso da execução enseja a interrupção do prazo para a progressão de regime, mas não importa a recontagem do lapso temporal para a obtenção do livramento condicional e outros benefícios da execução, sob pena de ofensa ao princípio da legalidade"(AgRg no REsp 1.752.822/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/08/2018, DJe 30/08/2018; grifos diversos do original.)
+3. Agravo regimental desprovido." (AgRg no REsp 1.755.715/RS, Rel. MinistraLAURITA VAZ, SEXTA TURMA, julgado em 15/10/2019, DJe 25/10/2019; sem grifos no original.)
+Ante o exposto, CONCEDO a ordem de habeas corpus para afastar a determinação de interrupção do lapso temporal relativo à concessão de saídas temporárias e de trabalho externo, em decorrência da falta disciplinar de natureza grave praticada pelo Paciente.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. COMETIMENTO DE FALTA GRAVE NO CUMPRIMENTO DA PENA. IMPOSSIBILIDADE DE INTERRUPÇÃO DO PRAZO PARA SAÍDAS TEMPORÁRIAS E TRABALHO EXTERNO. PRECEDENTES. ORDEM DE HABEAS CORPUS CONCEDIDA.
