@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 185):
+Tráfico de drogas  Coesão e harmonia do quadro probatório  Circunstâncias do episódio que positivam a traficância  Condenação mantida. Pena-base  Circunstâncias judiciais desfavoráveis, realçados os maus antecedentes certificados e a quantidade e a variedade das drogas apreendidas, que autorizam a exasperação  Fração de 1/3 mais consentânea. Pena  Reincidência  Maj oração  Necessidade  Fração consentânea. Aplicação do § 4º, do artigo 33, da Lei nº 11.343/06  Inadmissibilidade, haja vista o passado desabonador do réu. Conversão da privativa de liberdade em restritivas de direitos  "Quantum" da pena, alinhado às peculiaridades do caso que não a recomendam. Regime prisional fechado  Subsistência  Gravidade concreta do delito perpetrado, que contou com a apreensão de expressivas quantidades de drogas, de diversas naturezas, cuja nocividade e alto poder viciante não se desconhecem, certos seu potencial de disseminação e sua natureza desagregadora, a que se soma o passado desabonador do réu. Apelo defensivo parcialmente provido.
+Consta dos autos que o paciente foi condenadoàs penas de 9 anos, 8 meses e 20 dias de reclusão, emregime inicialfechado, e ao pagamento de 971 dias-multa, como incurso no artigo33, caput, da Lei n. 11.343/2006.
+Interpostorecursode apelação pela defesa, o Tribunal de origem proveu parcialmente o recurso reduzindoa fração de aumento da pena-base, reajustando as penas em07 anos, 09 meses e 10 dias de reclusão, e pagamento de 777 dias-multa.
+No presente writ, alega a impetranteser necessária a incidência da causa de diminuição de pena prevista no artigo41, da Lei n. 11.343/2006, uma vezque"a colaboração do paciente foi imprescindível para a localização dos entorpecentes no interior da sua residência, sendo certo que o referido auxílio foi por ele prestado de forma voluntária" (fl. 7).
+Alega, ainda, que "oacórdão ora atacado deixou de analisar o tempo em que os pacientes estiveram presos pelo crime que lhes é imputado. No caso em pauta, o paciente está sendo submetido à prisão cautelar desde o dia 05 de junho de 2021" (fl. 8).
+Requer, liminarmente e no mérito, nova dosimetria da pena, com o reconhecimento da colaboração/delação premiada realizadas nos termos do art. 41 da Lei 11.343/2006.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+Esta não é a situação presente, pois, aspretensões deduzidas, nova dosimetria e readequação do regime de cumprimento da pena,demandam uma análise mais detalhada das informações que serão prestadas pelas instâncias de origem, assim garantindo-se a necessária segurança jurídica.
+Ante o exposto, indefiro o pedido liminar.
+Solicitem-se informações ao Tribunal de Justiça do Estado de São Paulo, a serem prestadas, preferencialmente, pela Central do Processo Eletrônico - CPE do STJ.
+Após, ao Ministério Público Federal para manifestação.
+Publique-se.
+Intimem-se.
