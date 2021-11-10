@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do Município de São José do Rio Preto, fundado nas alíneas "a" e "c" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+LOTEAMENTO - CONSTRUÇÃO DEMURO - FINALIDADE ALEGADA COMOCOMERCIAL -LOTEAMENTORESIDENCIAL -INVIABILIDADEDEDESCARACTERIZAÇÃO DOFIMRESIDENCIAL - PROVIDÊNCIAS DEPRESERVAÇÃO DO LOTEAMENTOPERTINENTES - ADMISSIBILIDADE DEADEQUAÇÃO - LOTE INTEGRANTE DOLOTEAMENTO - ALEGAÇÃO DECERCEAMENTO DESCABIDA.
+SENTENÇA DE PROCEDÊNCIA MANTIDA.
+QUESTIONAMENTO DE HONORÁRIOSADVOCATÍCIOS - IMPUGNAÇÃO NÃOACOLHIDA.
+OBSERVÂNCIA DO PRINCÍPIO DAEQUIDADE. MANTENÇA. -RECURSOSNEGADOS.
+Opostos embargos de declaração, foram eles acolhidos sem efeitos modificativos.
+No recurso especial, orecorrente alega, além da divergênciajurisprudencial,violação dos arts.11, 85, § 2º,926, 1022 e1025 do Código de Processo Civil.
+Houve contrarrazões (e-STJ fls. 362/371).
+Sobreveio juízo negativo de admissibilidade pelas seguintes razões: (i) ausência de ofensa ao art. 1.022 do CPC; (ii)incidência da Súmula n. 7/STJ; (iii)não atendimento do requisito previsto noart. 1029, § 1º, do Código de Processo Civile no art. 255, § 1º,do RISTJ com relação à divergência; (iv) não caracterização do dissídio jurisprudencial por ausência de indispensável similitude fática.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 418/428).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante deixou de impugnar todos os fundamentos de inadmissibilidade.
+A despeito da impugnação à Súmula n. 7/STJ e à ofensa ao art. 1.022 do CPC, o agravante restou inerte com relação à divergência jurisprudencial.
+A decisão de inadmissibilidade entendeu pelonão atendimento do requisito previsto no art. 1029, § 1º, do Código de Processo Civil e no art. 255, § 1º, do RISTJ e pela não caracterização do dissídio jurisprudencial por ausência de indispensável similitude fática.
+Dito isso, caberia à parte, nas razões do agravo em recurso especial, comprovar a existência de divergência e demonstrar a existência de similitude fática, ônus do qual não se desincumbiu o agravante.
+Tal conduta revela combate não específico e inapto a reformar a decisão agravada.
+Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que não tenha atacado específica e fundamentadamente todos os fundamentos da decisão de inadmissibilidade.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO CONTRA INADMISSÃO DO RECURSO ESPECIAL E DO AGRAVO INTERNO. IMPUGNAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 182 DO STJ. REPETIÇÃO DOS ARGUMENTOS LANÇADOS NO RECURSO ESPECIAL. MATÉRIA DE ORDEM PÚBLICA. CORREÇÃO MONETÁRIA E JUROS DE MORA.
+1. Os fundamentos da decisão de admissibilidade exercida pelo Presidente do Tribunal de origem, que não admitiu o Recurso Especial, não foram enfrentados adequadamente pelo recurso de Agravo interposto, permanecendo incólumes em face da impugnação apresentada pelo recorrente.
+2, Isso porque, nas razões do Agravo em Recurso Especial, verifica-se que a parte agravante não impugnou adequadamente toda a fundamentação da decisão de admissibilidade, visto que não trouxe precedentes adequado desta Corte que refutassem a tese apresentada na decisão impugnada, o que é imprescindível quando se deseja atacar a aplicação da Súmula 83 do STJ.
+3. Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição Federal de 1988. Explico melhor: o precedente trazido pela Presidência do Tribunal de Justiça do Distrito Federal e dos Territórios para não admitir o Recurso Especial diz que "a alteração de Ofício do termo inicial dos juros de mora em sede de reexame necessário não configura reformatio in pejus." 4. Por outro lado, o precedente do STJ trazido pelo agravante para impugnar a Súmula 83/STJ  REsp 1.750.080/MG, da Relatoria do eminente Ministro Paulo de Tarso Sanseverino  possui diferencial que o torna imprestável para combater a referida súmula, visto que não trata de hipótese semelhante ou equiparada à hipótese colacionada no precedente trazido pelo Tribunal de origem, porquanto não cuida de Reexame Necessário, mas de recurso de Apelação.
+5. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, e ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+6. No caso em apreço, a Corte de origem reformou parcialmente a sentença para modificar o termo inicial dos juros de mora, apesar de o recorrido não ter interposto recurso de Apelação. Dessa forma, a "alteração, portanto, decorreu da análise de matéria de ordem pública, cujo exame em sede de remessa necessária independe de recurso das partes." 7. Como é cediço, o STJ possui entendimento pacífico de que a matéria de ordem pública pode ser conhecida de ofício em Reexame Necessário, não acarretando afronta ao princípio da non reformatio in pejus.
+8. A Remessa Necessária é condição de eficácia da sentença, não possuindo natureza recursal, e devolve ao Tribunal a revisão do julgado, "em vista do efeito translativo, toda a matéria na qual a Fazenda Pública sucumbiu, e as questões de ordem pública, de conhecimento e julgamento obrigatórios, mesmo que não tenham sido suscitadas anteriormente, hipótese que não configura reformatio in pejus, excepcionando a aplicação da Súmula 45/STJ." 9. Agravo Interno não conhecido.
+(AgInt no AREsp 1806011/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/06/2021, DJe 01/07/2021)
+No mais, observo que é entendimento consolidado no âmbito do STJ segundo o qual a Corte a quo não usurpa competência desse Tribunal ao adentrar no mérito do recurso especial ainda no juízo prévio de admissibilidade, por constituir atribuição do Tribunal examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. É entendimento consolidado no âmbito do STJ segundo o qual a Corte a quo não usurpa competência desse Tribunal ao adentrar no mérito do recurso especial ainda no juízo prévio de admissibilidade, por constituir atribuição do Tribunal examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia. Precedentes.
+2. Caberia ao agravante demonstrar o desacerto da decisão agravada, ou seja, a desnecessidade de revolvimento de matéria fático-probatória (Súmula n. 7/STJ) e de análise de direito local (Súmula n. 280/STF) e a efetiva realização de cotejo analítico quanto à alínea "c", o que não ocorreu in casu. Ausência de impugnação específica. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1490466/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/08/2019, DJe 30/08/2019)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE.AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
