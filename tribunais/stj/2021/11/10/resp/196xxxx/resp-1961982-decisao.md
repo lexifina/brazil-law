@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGUROSOCIAL, com fundamento no art. 105, inciso III, alínea "a", daConstituição da República, contra o acórdão prolatado pelo TribunalRegional Federal da 3ª Região, assim ementado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. INSS. EXERCÍCIO DA ADVOCACIA. REQUERIMENTO DE BENEFÍCIOS PREVIDENCIÁRIOS. APELAÇÃO E REMESSA NECESSÁRIA DESPROVIDAS.
+1. O cerne da presente controvérsia gravita em torno da legalidade do pedido da impetrante para que o INSS receba e protocolize seus pedidos, em qualquer agência da previdência social sem a obrigatoriedade de agendamento, independentemente de formulários e senhas, bem como independentemente de quantidade, pautado no exercício de prerrogativas garantidas ao advogado.
+2. É firme a jurisprudência no sentido de ser ilegal a restrição ao exercício profissional da advocacia, nos termos da Lei 8.906/1994, consistente na exigência de prévio agendamento para atendimento ou limitação no número de petições a serem protocoladas, o que não significa, porém, a dispensa da observância de fila ou senha para atendimento, como forma de ordenamento válido e regular do serviço administrativo, inclusive dada a própria existência de preferência legal para o atendimento de idosos, deficientes, gestantes e etc.
+3. Nota-se que a restrição viola direito líquido e certo, em prejuízo à liberdade de exercício profissional, direito de petição e princípio da legalidade. A busca de isonomia mediante restrição de direitos é atentatória ao princípio da eficiência, pois ao Poder Público incumbe ampliar e não limitar o acesso do administrado aos serviços que presta.
+4. A Impetrante, como advogada, pode protocolar requerimentos acerca de benefícios previdenciários de seus mandantes sem limitação de quantidade por atendimento, bem como consultar os autos e extrair cópias, nos termos fixados na legislação, independentemente de prévio agendamento.
+5. Ressalve-se, no entanto, que deverá a Impetrante sujeitar-se às filas ou senhas de atendimento destinadas aos advogados, observando-se a ordem de chegada à repartição pública.
+6. Apelação e remessa oficial desprovidas.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do especial, alega violação aos arts. 3º, I,da Lei nº10.741/2003, 9º, da Lei nº 7.853/1989 e, 1º e 7º, da Lei nº 8.906/94.
+Em síntese, sustenta que o Tribunal a quo, ao dar tratamento preferencialaos advogados em preterição aos demais cidadãos, especialmente aos idosose portadores de deficiência, configura ofensa ao princípio da isonomia eprejudica o atendimento prioritário a estes segurados, que são a maioria,além de que o profissional do direito não está exercendo atividadeprivativa da advocacia.
+Admitido o feito na origem, os autos ascenderam a esta Corte de Justiça.
+É o relatório.
+Passo a decidir.
+A pretensão merece acolhimento.
+Isso porque, não obstante as demais alegações de violação aos demais dispositivos legais, a Segunda Turma desta Corte firmou orientação no sentido dese afastar a prerrogativa do art. 7º, VI, c, da Lei nº 8.906/94, quandoa atividade exercida pelo advogado não for no âmbito das atividadesprivativas da advocacia, quais sejam:postulação perante o PoderJudiciário, bem como as atividades de consultoria, assessoria e direçãojurídicas (art. 1º da Lei nº 8.906/94).
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA.REQUERIMENTO EM FAVOR DE TERCEIRO PERANTE O INSS. AUSÊNCIA DEDEMONSTRAÇÃO/COMPROVAÇÃO DE QUE O ATO COATOR IMPEDE O EXERCÍCIO REGULAR DEATIVIDADES PRIVATIVAS DE ADVOGADO. IMPOSSIBILIDADE DE EXTENSÃO GENÉRICA DAPRERROGATIVA PREVISTA NO ART. 7º, VI, "C", DA LEI 8.906/94, SOB PENA DE SEATRIBUIR UM "PRIVILÉGIO". RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSAPARTE, PROVIDO.
+1. Não se pode confundir o "exercício da advocacia", no âmbitoprofissional, com o mero pleito em favor de terceiro, quando édesinfluente a profissão do requerente. Isso porque o art. 1º da Lei8.906/94 estabelece como atividades privativas da advocacia a postulaçãoperante o Poder Judiciário, bem como as atividades de consultoriaassessoria e direção jurídicas. No exercício dessas atividades, em juízoou extrajudicialmente, é necessário a prova do mandato, podendo serdiferida tal comprovação na hipótese de urgência (art. 5º, caput e § 1º,da Lei 8.906/94). No exercício regular dessas atividades privativas,revela-se, em tese, ilegal ato que impeça o livre ingresso de advogado emqualquer edifício ou recinto em que funcione repartição judicial ou outroserviço público onde o advogado deva praticar ato ou colher prova ouinformação útil ao exercício da atividade profissional, dentro doexpediente ou fora dele, e ser atendido, desde que se ache presentequalquer servidor ou empregado, porquanto se trata de prerrogativa
+prevista no art. 7º, VI, "c", da Lei 8.906/94.
+2. Por outro lado, caso o pleito em favor de terceiro não seja exercido noâmbito dessas atividades privativas (como ocorre no caso concreto),impõe-se o afastamento da prerrogativa, sob pena de se atribuir umprivilégio.
+3. Recurso especial parcialmente conhecido e, nessa parte, provido.
+(REsp 1582053/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA,julgado em 19/10/2017, DJe 18/12/2017)
+Assim, a decisão do Tribunal de origem encontra-se em dissonância com oentendimento jurisprudencial desta Corte, incidindo, pois, na espécie, aSúmula nº 568 do STJ, in verbis: O relator, monocraticamente e no SuperiorTribunal de Justiça, poderá dar ou negar provimento ao recurso quandohouver entendimento dominante acerca do tema.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, §4º, III, do RISTJ, dou provimento ao recurso especial, nos termos dafundamentação, para denegar a segurança.
+Intimem-se.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. REQUERIMENTO EM FAVOR DETERCEIROS PERANTE O INSS. IMPOSSIBILIDADE DE EXTENSÃO GENÉRICA DAPRERROGATIVA PREVISTA NO ART. 7º, VI, C, DA LEI 8.906/94. PRECEDENTE.RECURSO ESPECIAL PROVIDO.
