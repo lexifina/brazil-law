@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprioimpetrado, em benefício de CLAUDIO ANIZ DOS SANTOS, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n.2149839-36.2021.8.26.0000).
+Infere-se dos autos que o Juízo das Execuções Penais determinou a elaboração de exame criminológico, para fins de apreciar o pedido deprogressão de regime prisional formulado pelo paciente(fl. 74).
+Impetrado prévio writ, o Tribunal de origem denegou a ordem, nos termos do julgamento acostado às fls. 93/95.
+No presente writ, oimpetrante alega não haver fundamentação idônea para condicionar a concessão do benefício.
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, oMinistério Público Federal opinou pela concessão da ordem, em parecer que recebeu a seguinte ementa:
+"HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO DE DROGAS. PROGRESSÃO DE REGIME PRISIONAL. DETERMINAÇÃO DE SUBMISSÃO DO REEDUCANDO AO EXAME CRIMINOLÓGICO.
+GRAVIDADE ABSTRATA DO DELITO E LONGA PENA A CUMPRIR. INSUFICIÊNCIA, POR SI SÓS, PARA INVIABILIZAR A PROGRESSÃO DO REGIME PRISIONAL. AUSÊNCIA DE DEMONSTRAÇÃO DE CIRCUNSTÂNCIAS FÁTICAS NO CURSO DA PENA APTAS A JUSTIFICAR A PERÍCIA CRIMINOLÓGICA.
+PARECER PELA CONCESSÃO DA ORDEM, PARA CONCEDER AO REEDUCANDO A PROGRESSÃO DE REGIME PRISIONAL."(fl. 108)
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Inicialmente, trago à colação os fundamentos adotados pelas instâncias ordinárias:
+DECISÃO:
+"Oficie-se à Penitenciária solicitando expediente de praxe atualizado para fins de progressão ao regime semiaberto.
+Ainda, por considerar que os crimes atribuídos ao sentenciado são de maior gravidade (tráfico de drogas e outros), bem como a quantidade de pena imposta, determino a realização da avaliação preconizada pela Resolução SAP 88, de 28-4-2010, a fim de que o pedido de progressão ao regime semiaberto possa ser analisado de forma mais criteriosa."(fl. 74)
+ACÓRDÃO:
+"A r. decisão ora impugnada, embora sucinta, emerge devidamente fundamentada, apontando as razões pelas quais o exame se faz necessário.
+Ressaltem-se a insólita gravidade de um dos crimes pelos quais o paciente foi condenado - tráfico de drogas - e a longa pena ainda por descontar."(fls. 94/95)
+Este Tribunal Superior possui entendimento pacífico no sentido de que a gravidade abstrata dos delitos pelos quais restou condenado o paciente, tampouco a sua longa pena a cumprir, não são fundamentos idôneos para obstar,bem ainda condicionar o exame dos benefícios da execução penal. A propósito:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL.REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA AFERIÇÃO DO REQUISITO SUBJETIVO. SÚMULA N. 439 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ELEMENTOS CONCRETOS DA EXECUÇÃO. GRAVIDADE DO DELITO.
+1. A nova redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n.10.792/2003 suprimiu a realização de exame criminológico como expediente obrigatório para aferição do requisito subjetivo para fins de progressão de regime, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+2. O magistrado de primeiro grau, ou mesmo o Tribunal, diante das circunstâncias do caso concreto, pode determinar a realização de exame criminológico para a comprovação do mérito do apenado para fins de progressão de regime prisional.
+3. De acordo com a Súmula n. 439/STJ, "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+4. No caso, o Tribunal de Justiça, ao exigir a complementação da realização de exame criminológico para analisar o pleito de progressão de regime, não logrou fundamentar a necessidade do referido exame, deixando de invocar elementos concretos da execução, levando em conta apenas a gravidade do delito praticado, e desconsiderando a boa conduta carcerária do paciente. Precedentes.
+5. Ordem concedida para restabelecer a decisão do Magistrado singular que deferiu ao paciente a progressão ao regime semiaberto, ratificada a liminar.
+(HC 653.014/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 30/04/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL. NECESSIDADE DE SUBMISSÃO A EXAME CRIMINOLÓGICO.FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO E LONGA PENA.CONSTRANGIMENTO ILEGAL EVIDENCIADO. REVOLVIMENTO DE MATÉRIA FÁTICA.DESNECESSIDADE. AGRAVO DESPROVIDO.
+1. De acordo com a Súmula 439/STJ "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+2. No caso dos autos, a Corte de origem determinou a submissão do ora agravado ao exame criminológico sem a indicação de argumento idôneo, na medida em que se limitou a tecer considerações a respeito da gravidade do delito praticado e da longa pena a cumprir, o que consubstancia o alegado constrangimento ilegal, conforme o entendimento desta Corte. Precedentes.
+3. A análise da controvérsia prescinde do aprofundado reexame de provas, pois a mera leitura do acórdão recorrido é suficiente para se concluir pela ausência de fundamento idôneo, necessário à submissão do reeducando ao exame criminológico.
+4. Agravo regimental desprovido.
+(AgRg no HC 596.966/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, REPDJe 12/11/2020, DJe 03/11/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. BENEFÍCIO INDEFERIDO COM BASE NA GRAVIDADE ABSTRATA DOS DELITOS E NA LONGA PENA A CUMPRIR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO IMPROVIDO.
+1. É assente o entendimento nesta Corte, segundo o qual, a gravidade abstrata do delito e a longa pena a cumprir não justificam diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao crime são determinantes da pena aplicada, mas não fundamentam tratamento diverso à negativa da progressão de regime ou livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução. Precedentes do STJ.
+2. Agravo regimental improvido.
+(AgRg no HC 567.402/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 08/06/2020).
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO AO REGIME ABERTO DEFERIDA PELO JUÍZO DAS EXECUÇÕES PENAIS. CASSAÇÃO PELA CORTE DE ORIGEM COM BASE, TÃO SOMENTE, NA GRAVIDADE ABSTRATA DO DELITO E LONGA PENA A CUMPRIR. CONSTRANGIMENTO ILEGAL CONFIGURADO. RECURSO NÃO PROVIDO.
+1. Na espécie, a progressão do reeducando ao regime aberto foi cassada pelo Tribunal de origem com fundamento, tão somente, na gravidade abstrata do delito pelo qual foi condenado o paciente e na longa pena a cumprir.
+2. Sobre a matéria, esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que a avaliação do cumprimento do requisito subjetivo somente poderá fundar- se em fatos ocorridos no curso da própria execução penal.
+3. Impende ressaltar que, recentemente, no julgamento do Ag Rg no HC n. 519301/SP, afetado à Terceira Seção desta Corte, por unanimidade, manteve-se entendimento de que ""a gravidade abstrata do crime praticado não justifica diferenciado tratamento para a progressão prisional" (julgamento concluído em 27/11/2019).
+4. Agravo regimental não provido.
+(AgRg no HC 554.365/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 09/03/2020).
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. LIVRAMENTO CONDICIONAL. EXAME CRIMINOLÓGICO. GRAVIDADE DOS DELITOS PRATICADOS. LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. SÚMULA 439/STJ E SÚMULA VINCULANTE 26. CONSTRANGIMENTO ILEGAL PRESENTE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Com as inovações trazidas pela Lei n. 10.792/03, alterando a redação do art. 112 da Lei n. 7.210/84, afastou-se a exigência de exame criminológico para fins de progressão de regime. Nada obstante, este Superior Tribunal de Justiça firmou entendimento de que o Magistrado de 1º Grau, ou mesmo o Tribunal de origem, diante das circunstâncias do caso concreto, podem determinar a realização da referida prova técnica para a formação de seu convencimento acerca do merecimento do apenado, desde que por decisão fundamentada. Súmula n. 439/STJ e Súmula Vinculante n. 26.
+III - In casu, o eg. Tribunal de origem determinou a realização do exame criminológico para aferir o mérito para progressão do regime prisional, com base na longa pena a cumprir e na gravidade do delito cometido.
+IV - Os fundamentos utilizados, portanto, não se mostram idôneos para afastar a presença do requisito subjetivo e determinar a realização do exame criminológico. Para tanto, o Julgador deve indicar elementos concretos extraídos da execução da pena, consoante entendimento firmado por esta Corte Superior de Justiça.Precedentes.
+Habeas corpus não conhecido, concedo, todavia, a ordem de ofício, para cassar o v. acórdão proferido no writ n.2244449-98.2018.8.26.0000, e determinar ao Juízo da Vara de Execuções Criminais da Comarca de Presidente Prudente/SP que novamente analise a possibilidade de concessão do livramento condicional, afastando a fundamentação anteriormente adotada, nos termos do disposto na Súmula n. 439/STJ e Súmula Vinculante n.26/STF.
+(HC 485.469/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 22/04/2019).
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DETERMINAÇÃO DE PROGRESSÃO DE REGIME CASSADA EM AGRAVO EM EXECUÇÃO. PROVIMENTO PARA PRÉVIA SUBMISSÃO A EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO INIDÔNEA.GRAVIDADE ABSTRATA DO CRIME. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A Lei 10.793/2003, que conferiu nova redação ao art. 112 da Lei de Execução Penal, aboliu a obrigatoriedade do exame criminológico como requisito para a progressão de regime prisional, exigindo a realização desse exame fundamentação concreta na conduta do apenado no decorrer da execução. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC 278.376/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 16/11/2015).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. EXECUÇÃO PENAL.PROGRESSÃO DE REGIME PRISIONAL. PLEITO INDEFERIDO PELO JUÍZO DA EXECUÇÃO PENAL. DECISUM MANTIDO PELA CORTE DE JUSTIÇA. GRAVIDADE ABSTRATA DO DELITO. DETERMINAÇÃO DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO INIDÔNEA. APLICAÇÃO DA SÚMULA N.º 439/STJ. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA.
+1. Faz-se imperiosa a restrição do cabimento do remédio heróico às hipóteses previstas na Constituição Federal e na lei processual penal, sob pena de desvirtuamento de sua finalidade histórica e banalização do sistema recursal penal.
+2. Assim, não se presta o habeas corpus a substituir os recursos ordinários e extraordinários previstos em nosso ordenamento jurídico, salvo a ocorrência de manifesta ilegalidade.
+3. A Lei n.º 10.792/2003, ao dar nova redação ao art. 112 da Lei de Execução Penal, afastou a exigência do parecer da Comissão Técnica de Classificação e da submissão do condenado a exame criminológico, para o deferimento de benefícios como a progressão de regime e o livramento condicional.
+4."Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada." (Enunciado n.º 439 da Súmula desta Corte)
+5. O Tribunal de origem manteve a decisão concessiva da progressão de regime prisional proferida pelo Juízo singular, que exigiu a realização do exame criminológico, sem evidenciar nenhum elemento concreto que apontasse o demérito do paciente, limitando-se a aduzir a gravidade abstrata do delito de roubo praticado.
+6. Writ não conhecido. Ordem concedida de ofício para, afastada a exigência de prévia submissão do paciente à exame criminológico (com esteio apenas na gravidade abstrata do delito por ele perpetrado), determinar ao Juízo das Execuções Penais que aprecie o pleito de progressão de regime por ele formulada, com base em fatos concretos existentes nos autos.
+(HC 253.532/SP, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), SEXTA TURMA, DJe 14/06/2013).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para determinar que o Juízo da Execução reaprecie o pedido de progressão do paciente, levando-se em consideração apenas elementos concretos, extraídos ao longo do resgate da pena.
+Publique-se.
+Intimem-se.
