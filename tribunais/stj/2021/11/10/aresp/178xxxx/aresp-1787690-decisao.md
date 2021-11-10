@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7/STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 768):
+DECISÃO SANEATÓRIA Ação de responsabilidade civil Pedido de ressarcimento de danos materiais e morais Imputação de pagamento dos honorários periciais às requeridas Pedido para que o pagamento recaia exclusivamente sobre a autora- agravada Decisão que ainda pende de apreciação na origem tendo em vista a oposição de embargos de declaração Supressão de instância Pedido não conhecido.
+DECISÃO SANEATÓRIA Ação de responsabilidade civil Pedido de ressarcimento de danos materiais e morais Reconhecimento da prescrição trienal Inadmissibilidade Prazo prescricional que ficou interrompido até a metade do ano de 2016 Ação indenizatória proposta em 2018 Pedido de litisdenunciação à seguradora Inadmissibilidade Inexistência de prejuízo à ação de regresso Inclusão de terceiro que apenas atrasaria o trâmite processual a prejudicar a agravada Agravo de instrumento não provido nesta parte.
+Embargos de declaração rejeitados.
+No apelo especial, a recorrenteaponta, além de divergência jurisprudencial, violação aos artigos 206, §3º, do Código Civil e 125, II, do CPC/2015. Defende, em síntese, que cuida-se de ação de responsabilidade por reparação civil, portanto prescreve em 3 anos, portanto requer que seja reconhecida a prescrição e extinta a ação.
+Por fim, "requer seja reformado o v. acórdão de fls. 767/771, aclarado pelo v. acórdão de fls. 06/12 e seja determinada a denunciação à lide da Allianz Seguros S.A., restabelecendo-se a vigência ao artigo de lei federal vilipendiado, uma vez que, os riscos advindos do eventual provimento da ação de origem se encontram devidamente cobertos pela Apólice de Seguro contratada pela Recorrente com a Allianz Seguros S.A." (fls. 807).
+Com contrarrazões.
+Neste agravo, afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Acerca das demandas apontadas, aCorte de origemassim se manifestou (fls. 769/771):
+3- Quanto à ocorrência da prescrição trienal, os documentos juntados na origem as fls 608/613 dão conta de que esteve interrompida até a metade do ano de 2016, inclusive com o reconhecimento dos danos materiais e proposta de indenização. A ação foi ajuizada em 2018.
+Portanto, não há que se falar em prescrição trienal.
+4- Sobre o pedido de denunciação à lide à Seguradora Allianz Seguros S/A melhor sorte não resta à agravante. O indeferimento do pedido não prejudica eventual ação de regresso em face daquela.Além disso, se acolhida a pretensão, a agravada sairia penalizada ante o evidente atraso no julgamento. Basta lembrar que a perícia de engenharia civil a ser realizada é complexa e demandará tempo até a sua finalização. Desnecessário, portanto, incluir no processo a dita seguradora.
+Portanto, conforme destacado acima, de que a extensão dos danos só foi comprovada no ano de 2016, não há que se falar em lustro prescricional, bem comoa convicção a que chegou o acórdão recorrido no tocante ao indeferimento da denunciação da lide decorreu da análise do conjunto fático-probatório.
+Verifica-se, queda leitura do excerto acima transcrito, o Tribunal de origem, ao estabelecer solução para as controvérsias, reportou-se a suporte fático-probatório contido no feito. Sendo assim, não cabe ao STJ reexaminar matéria de prova que serviu de base para esse entendimento, ante o óbice da Súmula 7 desta Corte.
+Por fim,segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE AFASTA A OCORRÊNCIA DE PRESCRIÇÃO. INOCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DENUNCIAÇÃO DA LIDE.REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO. SÚMULA 7/STJ.AGRAVO NÃO PROVIDO.
