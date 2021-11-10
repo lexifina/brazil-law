@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se dehabeas corpuscom pedido de liminar impetrado em favor de ANDERSON DIEGO DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2041063-39.2021.8.26.0000).
+Consta dos autos ter sido o paciente denunciado "como incurso no artigo 32, "caput", e artigo 32, §2 2 , da Lei n. 9.605/98, ambos c.c artigo 15, "h"; "I" e "m", todos da Lei n. 9605/98, e na forma do artigo 70, última parte  formal impróprio, do Código Penal" (abuso e maus tratos a animais, e-STJ fl. 98).
+Impetradohabeas corpusno Tribunal de origem objetivando o trancamento da ação penal, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 292):
+Habeas Corpus Abuso e maus-tratos a animais - Pedido de trancamento da ação penal Inteligência do artigo 41 do Código de Processo Penal Requisitos preenchidos Conduta típica - Indícios de autoria e de materialidade delitivas presentes Necessidade de dilação probatória, que ocorrerá durante a instrução criminal ORDEM DENEGADA.
+No presentewrit, sustenta a defesa não haver justa causa para a ação penal, pois, além de ausente lastro probatório mínimo acerca da autoria delitiva, "não foi realizado perícia oficial no corpo da cachorra Estopinha. Não há conclusão CERTEIRA da causa da morte, fato atribuído SEM PROVAS. A autoridade policial NÃO nomeou qualquer perito oficial ou não-oficial para realizar a perícia" (e-STJ fl. 7).
+Pontua que há "mera suspeita da morte por medicamento ou agrotóxico (envenenamento), mesmo sem necropsia OFICIAL. Porém, ao ler a peça acusatória, fica claro que o Parquet se utiliza dos documentos de fls. 06 com carga probatória de laudo pericial e conclui POR SI SÓ que a morte foi por envenenamento" (e-STJ fl. 8).
+Busca, liminarmente, a suspensão do processo, e no méritopugna seja trancada a ação penal.
+Liminar indeferida às e-STJ fls. 300/302.
+Informações prestadas.
+Parecer ministerial pela denegação da ordem.
+É, em síntese, o relatório.
+A impetração está prejudicada.
+Em consulta ao sítio eletrônico do Tribunal de origem constatei que foi prolatada sentença pelo Magistrado de piso, nos termos do seguinte dispositivo:
+Diante do exposto, julgo parcialmente procedente a ação penal para (a) absolver o réu da imputação do cometimento do crime previsto no art. 32, caput, da Lei nº 9.605/98 com relação ao cão que sobreviveu (Ari), com fundamento no art. 386, VII, do Código de Processo Penal e (b) condenar o réu como incurso no art. 32, caput e § 2ª, da 9.605/98 às penas de 8 (oito) meses e 16 (dezesseis) dias de detenção em regime inicial semiaberto e 26 (vinte e seis) dias-multa no valor de 1/5 (um quinto) do salário-mínimo cada um. Tendo aguardado solto o julgamento, não há razão, nesse momento, para alteração da situação, razão pela qual o réu terá o direito de recorrer em liberdade. Após o trânsito em julgado: a) oficie-se à Secretaria do E. Tribunal Regional Eleitoral para suspensão dos direitos políticos, nos termos do art. 15, III, da Constituição Federal, conforme Circular nº 166 daquele Tribunal; b) intime-se o condenado para o pagamento da multa a ele aplicada, no prazo de 10 (dez) dias, sob pena de extração de certidão e encaminhamento à Procuradoria do Estado de São Paulo para as providências cabíveis; c) expeça-se guia de recolhimento definitivo e d) lance-se o nome do réu no rol dos culpados. P. I. C
+Tal o contexto, julgo prejudicado o presentehabeascorpus.
+Publique-se. Intimem-se.
