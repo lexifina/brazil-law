@@ -1,0 +1,39 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior Eleitoral, ementado nos seguintes termos:
+
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE CONTAS. PARTIDO POLÍTICO. EXERCÍCIO FINANCEIRO DE 2015. CONTAS DESAPROVADAS. VÍCIOS AUTORIZADORES DA OPOSIÇÃO DOS ACLARATÓRIOS: CONTRADIÇÃO, OMISSÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA DE OMISSÃO E CONTRADIÇÃO APONTADAS. MATÉRIA VENTILADA PELA VEZ PRIMEIRA NESTES EMBARGOS. INOVAÇÃO DE TESE RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO. 1. Os embargos de declaração são admitidos quando houver, no julgado, contradição, obscuridade, omissão ou erro material, conforme se depreende dos arts. 275 do Código Eleitoral e 1.022 do Código de Processo Civil. 2. No que tange ao apontado cerceamento de defesa, decorrente de suposta violação aos princípios do contraditório e da ampla defesa, os embargantes não se desincumbem de demonstrar qualquer dos vícios autorizadores da oposição de aclaratórios, cingindo as suas alegações à arguição de contrariedade a ditos princípios. 3. Não prospera a arguida contradição atinente à falta de caráter vinculativo do parecer técnico, porquanto, encontra-se dentro da esfera de poderes do julgador, à luz do princípio do livre convencimento, a análise dos fatos e das provas dos autos para o julgamento da causa. A ausência de vinculação não impede, porém, a utilização do parecer técnico como elemento do convencimento do órgão julgador. 4. A indigitada omissão no que tange à retroatividade da Lei nº 13.877/2019, que alterou a redação do art. 37, § 3º, da Lei dos Partidos Políticos, sob o viés de ultraje ao art. 5º, XL, da Constituição Federal, consubstancia-se em inovação de tese recursal, porquanto ventilada pela vez primeira nesta oportunidade, não podendo ser apreciada tendo em vista a consumação da preclusão 5. O inconformismo da parte com a decisão judicial não caracteriza vício de omissão ou contradição que legitime a oposição de embargos de declaração com pedido de efeitos infringentes, tampouco autoriza a rediscussão de fundamentos já expostos no acórdão impugnado. 6. Embargos de declaração rejeitados”. (eDOC 122, p. 7-8)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, incisos LIV e LV, do texto constitucional.
+
+    Nas razões recursais, o recorrente afirma, em síntese, que, ao não analisar pormenorizada e individualmente os documentos juntados nos autos de prestação de contas, bem como ao indeferir o pedido de envio de ofício aos contratados, o Tribunal a quo incorreu em ofensa ao art. 37, § 11, da Lei n. 9.096/95 e violou frontalmente o direito ao devido processo legal e à ampla defesa e ao contraditório.
+
+    A Procuradoria-Geral da República manifestou-se pelo não cabimento do recurso, em parecer assim ementado:
+
+    “Recurso extraordinário. Agravo. Partido político. Prestação de contas. Juízo de admissibilidade negativo. Inexistência de repercussão. Uso dos temas 181 e 660. Artigo 1.030, 1, a, e §2°, do Código de Processo Civil. 1. Cabe agravo interno, nos termos do artigo 1.021 do Código de Processo Civil, em desfavor da decisão proferida pelo presidente ou vice-presidente do tribunal que nega seguimento a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral. Inteligência do artigo 1.030, 1, , e §2°, do Código de Processo Civil. 2. A falta de exaurimento da instância é empecilho de acesso ao Supremo Tribunal Federal, Hipótese de não conhecimento do agravo”. (eDOC 129, p. 1)
+
+    É o relatório. Decido.
+
+    O recurso não merece prosperar.
+
+    O Tribunal Regional Eleitoral do Paraná desaprovou as contas do partido relativas ao exercício financeiro de 2015, determinando o recolhimento ao Tesouro Nacional do valor de R$ 21.501,30 (vinte e um mil e quinhentos e um reais e trinta centavos), além de suspender o repasse do Fundo Partidário pelo período de 4 (quatro) meses. A decisão foi mantida no Tribunal Superior Eleitoral.
+
+    Na análise de admissibilidade do recurso extraordinário, o Presidente do TSE consignou:
+
+    “DIREITO ELEITORAL E PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. RECURSO ESPECIAL ELEITORAL COM AGRAVO. EXERCÍCIO FINANCEIRO 2015. PARTIDO POLÍTICO. PRESTAÇÃO DE CONTAS. RESPE NÃO ADMITIDO POR INCIDÊNCIA DA SÚMULA Nº 26/TSE. TEMAS 660 E 181. NEGATIVA DE SEGUIMENTO. 1. Recurso extraordinário interposto contra acórdão proferido pelo Tribunal Superior Eleitoral que manteve decisão do TRE/PR que não admitiu o recurso especial eleitoral interposto contra o acórdão regional, que concluiu pela desaprovação das contas do partido no que se refere ao exercício financeiro de 2015. 2. Hipótese em que a apreciação da alegação de cerceamento de defesa, fundada em suposta violação ao dispositivo constitucional (art. 5º, LIV e LV, da CF), depende do prévio exame de legislação infraconstitucional. 3. O Plenário do STF já rejeitou a existência de repercussão geral em relação à questão da ofensa ao princípio da ampla defesa quando necessário o prévio exame da legislação infraconstitucional (Tema nº 660). 4. Ademais, o TSE entendeu que o recurso especial não impugnou a aplicação do art. 40 da , aplicando a Súmula n 26/TSE. A jurisprudência do STF é firme no sentido da inexistência de repercussão geral da discussão acerca dos pressupostos de admissibilidade de recursos de competência de outras Cortes, por não se tratar de matéria constitucional (Tema 181). 5. Recurso extraordinário a que se nega seguimento”. (eDOC 122, p. 44-45)
+
+    Pois bem. O Plenário deste Tribunal decidiu não ser cabível recurso para o Supremo Tribunal Federal contra a aplicação do procedimento da repercussão geral nas instâncias de origem. Transcrevo a ementa do AI-QO 760.358, de minha relatoria, DJe 18.2.2010:
+
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1 . Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação . 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.” (grifo nosso)
+
+    Ademais, o art. 1.042 do novo Código de Processo Civil dispõe que cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos. Assim, há expressa previsão normativa acerca do não cabimento deste recurso.
+
+    Ante o exposto, não conheço do presente, por incabível.
+
+    Publique-se.
+
+    Brasília, 10 de novembro de 2021.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
