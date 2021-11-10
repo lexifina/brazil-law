@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GILVAN PEREIRA DE ANDRADE e JOSE CARLOS DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco (Apelação Criminal n. 0500.664-4)
+Os autos dão conta de que os pacientes foram denunciados (e-STJ fls. 15/17) e pronunciados (e-STJ fls. 26/33) pela suposta prática do crime previsto no art. 121, § 2º, II e IV, do Código Penal. Após serem submetidos ao Júri Popular, por ter o Conselho Sentença acolhido a tese de negativa de autoria, foram eles absolvidos (e-STJ fls. 35/36).
+Irresignado, o Ministério Público interpôs recurso de apelação no Tribunal de origem, que, por maioria de votos, deu-lhe provimento para "determinar que Gilvan Pereira de Andrade e José Carlos da Silva fossemsubmetidos a novo julgamento" (e-STJ fl. 50). Eis a ementa do mencionado acórdão (e-STJ fl. 54):
+PENAL  PROCESSUAL PENAL. JÚRI. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO PELO JÚRI. DECISÃO CONTRÁRIA A PROVA DOS AUTOS. OCORRÊNCIA. SUBMISSÃO A NOVO JULGAMENTO. MEDIDA QUE SE IMPÕE. APELAÇÃO DO MINISTÉRIO PÚBLICO. RECURSO PROVIDO.
+I  Versão dos réus isolada, sem apoio nas circunstâncias do fato. Ocorrência de decisão do Conselho de Sentença manifestamente contrária à prova dos autos (artigo 593, inciso III, alínea "d", do CPP). Submissão a novo Júri. Precedentes.
+II  Recurso ministerial provido para declarar a nulidade do julgamento e submeter os apelados a novo júri.
+Nas razões do presente habeas corpus, o impetrante afirma que "o Recurso de Apelação transitou em julgado, no dia 27 de maio de 2021. Ao longo de todo o trâmite no Tribunal de Justiça, os pacientes sequer foram informados do julgamento, porque, após a realização do júri, em 2017, perderam contato com o então advogado que patrocinava a causa. Os pacientes foram então surpreendidos, semana passada, com a intimação da Vara Única da Comarca de Carnaíba, acerca da data já designada para sessão do tribunal do júri, no dia 30 de setembro de 2021" (e-STJ fl. 4).
+Assevera que, "após mais de quatro anos da data da absolvição pelo Conselho de Sentença, os pacientes, que não dispõe de recursos financeiros para contratar advogado para fazer a sua defesa, já estão trabalhando, reinseridos na sociedade, porque, muito embora tenham sido absolvidos, passaram por todo o constrangimento de serem submetidos à sessão do tribunal do júri e até mesmo ter sido preso preventivamente, no caso do paciente Gilvan Pereira de Andrade" (e-STJ fl. 4).
+Sustenta que "a decisão do TJPE, pois, é manifestamente ilegal e, no limite, INJUSTA, porque submeter os pacientes, que já haviam sido absolvidos há mais de quatro anos, a novo julgamento do tribunal do júri, é uma medida esdrúxula e ilegal" (e-STJ fl. 6).
+Por isso, requer "a concessão de medida liminar para determinar ao Juízo da Vara única da Comarca de Carnaíba a imediata suspensão da realização da sessão do tribunal do júri, à qual está agendada para o próximo dia 30 de setembro, até o julgamento do mérito do presente habeas corpus", e, no mérito, "a anulação/cassação do acórdão recorrido, reestabelecendo-se em consequência a decisão do Conselho de Sentença que absolveu os pacientes, com base no art. 483, III, do CPP, convalidando-se a medida liminar" (e-STJ fl. 7).
+Liminar indeferida.
+Ao se manifestar, o Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ fls. 148/152).
+É o relatório.
+A impetração não pode ser conhecida.
+Isso, porque semostra "inadequado e descabido o manejo de habeas corpus em substituição a embargos infringentes" (RHC n. 33.360/PR, relatoraMinistra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/5/2014, DJe 9/6/2014).
+E, na hipótese dos autos, extrai-se do aresto vergastado que o julgamento deu-se por maioria, o que desafiaria recurso de embargos infringentes, não interposto a contento pela defesa,ficando esta Corte impedida de analisar o mérito do pedido de nulidade do acórdão, sob pena de indevida supressão de instância, porquanto não esgotada a jurisdição ordinária.
+Nesse sentido, mutatis mutandis:
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. INTERPOSIÇÃO CONCOMITANTE COM EMBARGOS INFRINGENTES. VIA INDEVIDAMENTE UTILIZADA COMO SUCEDÂNEO RECURSAL. ILEGALIDADE FLAGRANTE. NÃO OCORRÊNCIA.RECURSO ORDINÁRIO NÃO CONHECIDO.
+1. Interposto este recurso ordinário em habeas corpus concomitantemente com a interposição de embargos infringentes, o seu manejo apresenta-se inadequado, pois com nítidas feições de sucedâneo recursal, tentando transformar esta Corte em terceira instância revisora.
+2. É imperiosa a necessidade de racionalização do habeas corpus, a bem de se prestigiar a lógica do sistema recursal, devendo ser observada sua função constitucional, de sanar ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção, inexistente na espécie.
+3. Recurso ordinário não conhecido.
+(RHC 49.004/AC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/12/2014, DJe 03/02/2015).
+Ante o exposto, não conheço da impetração.
+Publique-se. Intimem-se.
