@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por SILVÉRIO TEIXEIRA MARCELINO, contra acórdão prolatado, por unanimidade, pela 7ª Turma do Tribunal Regional Federal da 3ª Região no julgamento de apelação, assim ementado (fls. 300/301e):
+PREVIDENCIÁRIO. APELAÇÃO. APOSENTADORIA ESPECIAL. DIB. CORREÇÃO MONETÁRIA E JUROS DE MORA. MANUAL DE CÁLCULOS NA JUSTIÇA FEDERAL. SUCUMBÊNCIA RECURSAL. HONORÁRIOS DE ADVOGADO MAJORADOS.
+1. DIB na data do requerimento administrativo.
+2. A DIB será fixada na data do requerimento administrativo se nessa data estiverem preenchidos os requisitos, ainda que a comprovação da especialidade da atividade tenha surgido em momento posterior.
+2. Juros e correção monetária pelos índices constantes do Manual de Orientação para a elaboração de Cálculos na Justiça Federal vigente à época da elaboração da conta, observando-se, em relação à correção monetária, a aplicação do IPCA-e em substituição à TR - Taxa Referencial, consoante decidido pelo Plenário do Supremo Tribunal Federal no RE nº 870.947, tema de repercussão geral nº 810, em 20.09.2017, Relator Ministro Luiz Fux, observado quanto a este o termo inicial a ser fixado pela Suprema Corte no julgamento dos embargos de declaração. Correção de ofício.
+3. Sucumbência recursal. Honorários de advogado majorados em 2% do valor arbitrado na sentença. Artigo 85, §11, Código de Processo Civil/2015.
+4. Sucumbência recursal. Honorários de advogado arbitrados em 2% do valor da condenação. Artigo 85, §11, Código de Processo Civil/2015.
+5. Sentença corrigida de ofício. Apelação do Instituto Nacional do Seguro Social - INSS e do Autor não providas.
+Opostos embargos de declaração, foram parcialmente acolhidos, consoante fundamentos resumidos na seguinte ementa (fl. 348e):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. VERIFICAÇÃO DAS HIPÓTESES PREVISTAS NO ARTIGO 1.022 DO CPC/15. HONORÁRIOS ADVOCATÍCIOS.
+1. De acordo com o art. 1.022 do Código de Processo Civil, os embargos de declaração possuem função processual específica, que consiste em integrar, retificar ou complementar a decisão embargada.
+2. A verba honorária foi fixada em consonância ao entendimento desta Turma.
+3. Embargos de declaração acolhidos em parte.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos arts. 85, § 3º e 12 da Lei n. 1.060/1950, alegando-se, em síntese, que o valor de R$2.500,00 majorados em 2% (dois por cento) pelo acórdão a título de honorários advocatícios não condizem com o estabelecido na legislação.
+Sustenta, ainda, que sendo beneficiário da assistência judiciária gratuita qualquer condenação a título de sucumbência deverá ser inexigível, ou seja, ser declarada a desobrigação de pagá-los enquanto perdurar o estado de carência econômica do necessitado, propiciador da concessão deste privilégio.
+Em juízo de retratação, assim restou ementado (fls. 378/379e):
+PREVIDENCIÁRIO. CONDENAÇÃO - CONSECTÁRIOS LEGAIS. JUROS E CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS - MAJORAÇÃO. PREQUESTIONAMENTO.
+1. A correção monetária incidirá a contar do vencimento de cada prestação e será calculada pelo INPC a partir de 4-2006 (Lei n.º 11.430/06, que acrescentou o artigo 41-A à Lei n.º 8.213/91), conforme decisão do STF no RE nº 870.947, DJE de 20-11-2017 e do STJ no REsp nº 1.492.221/PR, DJe de 20-3-2018. E os índices oficiais serão os aceitos na jurisprudência, quais sejam: a) os juros de mora, de 1% (um por cento) ao mês, serão aplicados a contar da citação (Súmula 204 do STJ), até 29-6-2009; b) a partir de 30-6-2009, os juros moratórios serão computados de acordo com os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, conforme dispõe o artigo 5º da Lei nº 11.960/09, que deu nova redação ao artigo 1º-F da Lei nº 9.494/97, consoante decisão do STF no RE nº 870.947, DJE de 20-11- 2017 e do STJ no REsp nº 1.492.221/PR, DJe de 20-3-2018.
+2. Em razão do desprovimento do recurso do INSS, a verba honorária deve ser majorada em favor do advogado da parte vencedora.
+3. Ainda que esteja ausente menção expressa a dispositivos legais, se a matéria suscitada no recurso foi devidamente examinada pelo Tribunal, está configurado o prequestionamento implícito.
+Precedentes do STJ.
+Com contrarrazões (fls. 308/311e), o recurso foi inadmitido (fl. 315e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No que se refere à alegação de que sendo o Recorrente beneficiário da justiça gratuita, deve ser declarada a desobrigação de pagar honorários na hipótese de sucumbência, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem sob a perspectiva apresentada no recurso especial.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação da suscitada tese.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010 - destaques meus).
+De outro modo, verifico a carência superveniente do interesse recursal quanto à análise do pedido de majoração dos honorários, em face do juízo de retratação exercido pelo tribunal de origem à fls. 378/382e, no qual restou consignado o improvimento do recurso do INSS, a majoração da verba honorária em favor do patrono da parte vencedora e a imediata implantação do benefício.
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. REFORMA AGRÁRIA. OMISSÃO. INEXISTÊNCIA. LAUDO PERICIAL. ADOÇÃO. POSSIBILIDADE. CRITÉRIOS. SÚMULA 7/STJ. CORREÇÃO. TDA. OCORRÊNCIA. PATAMAR DE JUROS. JUÍZO DE RETRATAÇÃO EFETUADO. PERDA DE OBJETO. JUROS COMPENSATÓRIOS. INCIDÊNCIA. TEMA REPETITIVO 282. REGÊNCIA TEMPORAL. ADEQUAÇÃO.
+(..)
+5. Realizado juízo de retratação na origem quanto ao patamar dos juros compensatórios, à luz de recursos repetitivos, fica prejudicado o exame da matéria.
+6. A correta interpretação da parte final do Tema Repetitivo 282/STJ leva ao afastamento da incidência de juros no período entre a vigência da MP 1.901 e a concessão da liminar na ADI 2.332.
+7. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp 1.581.869/PB, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 13/03/2018 - destaques meus).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. ART. 535, I E II DO CPC: ACÓRDÃO LIVRE DE OMISSÃO E CONTRADIÇÃO. ARTS. 20 E 21 DO CPC: PREQUESTIONAMENTO AUSENTE. SÚMULA 211/STJ. JUROS DE MORA. ART. 167, PARÁG. ÚNICO DO CTN: JUÍZO DE RETRATAÇÃO (ART. 543-C, § 7º DO CPC). PERDA DE OBJETO. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+4. Quanto ao art. 167, parág. único do CTN, que trata dos juros de mora, uma vez que houve retratação do órgão julgador em função da análise, nesta Corte, do REsp. 1.086.935/SP, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 24.11.2008, representativo da controvérsia, resta prejudicado o Recurso Especial, no ponto.
+5. Agravo Regimental desprovido.
+(AgRg no AREsp 62.064/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/12/2014, DJe 16/12/2014 - destaques meus).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária em desfavor da parte autora, ora vencedora.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
