@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLOS EDUARDO PEREIRAcontra decisão prolatada por em. Des doeg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o pacientefoi condenado por infração ao art. 33, caput, da Lei n. 11.343/06, às reprimendas definitivas de 05 anos de reclusão, em regime inicial fechado, e 500 dias-multa.
+Irresignada, a defesa impetrou habeas corpus ao Tribunal de origem, que não conheceu da impetração (fls. 103-105).
+No presente writ, o impetrante sustenta a violação ao princípio da proporcionalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base.
+Além disso, alega que não houve justificação adequada a ensejar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, bem como a afronta aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime praticado.
+Requer, ao final, a concessão da ordem, para reduzir a pena-base e para que incida o privilégio descrito no parágrafo 4º, do art. 33 da Lei n. 11.343/06, bem como a readequação do regime prisional, com a substituição da pena privativa de liberdade por restritivas de direito (fls. 3-21).
+O pedido liminar foi indeferido (fls. 108-109).
+As informações foram prestadas às fls. 119-125.
+O Ministério Público Federal, às fls. 127-130, manifestou-se nos termos da seguinte ementa:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO HABEAS CORPUS ORIGINÁRIO. AUSÊNCIADE PRÉVIO EXAURIMENTO DA INSTÂNCIA DE ORIGEM. NÃO CONHECIMENTO. - A jurisprudência desse Superior Tribunal de Justiça é assente no sentido de que "é fundamental o prévio exaurimento da jurisdição na anterior instância para a abertura da competência dos Tribunais Superiores já que não existe propriamente uma opção de ingressar, ou não, com o competente agravo regimental, a fim de ensejar o pronunciamento colegiado do Tribunal local." (AgInt no HC371548/GO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA,SEXTA TURMA, julgamento 27/09/2016, DJe 10/10/2016).- Parecer pelo não conhecimento do writ."
+É o breve relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Destarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante sustenta a violação ao princípio da proporcionalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base.
+Além disso, alega que não houve justificação adequada a ensejar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, bem como a afronta aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime praticado.
+Acerca do punctum saliens,uma vez que o eg. Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Igualmente, a fim de impugnar a decisão monocrática de Desembargador que não conheceu do habeas corpus impetrado na origem, deve-se interpor o recurso de agravo regimental, para oportunizar o debate da matéria pelo respectivo órgão colegiado e posterior impetração da ordem perante esta Corte Superior.
+À guisa de ilustração, cito os seguintes julgados:
+"PROCESSO PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ORGANIZAÇÃO CRIMINOSA E CORRUPÇÃO DE MENORES. INCOMPETÊNCIA DO JUÍZO DE 1º GRAU. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TRANCAMENTO DO PROCESSO-CRIME. EXCEPCIONALIDADE. CARÊNCIA DE JUSTA CAUSA PARA A PERSECUÇÃO PENAL NÃO EVIDENCIADA. TIPICIDADE DAS CONDUTAS DESCRITAS NA PEÇA ACUSATÓRIA. DESCRIÇÃO DOS FATOS CRIMINOSOS ATRIBUÍDOS AO RÉU. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPROPRIEDADE NA VIA DO WRIT. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO CRIMINOSO. PAPEL DE LIDERANÇA EXERCIDO PELO PACIENTE. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+2. A alegada incompetência da 17ª Vara Criminal da Comarca de Maceió/AL não foi objeto de cognição pela Corte de origem, o que obsta a análise de tal tema por este Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância e em violação da competência constitucionalmente definida para esta Corte.
+Precedentes.
+ ..
+14. Writ não conhecido.(HC 406.213/AL, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 17/10/2017).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO ILÍCITO DE ENTORPECENTES. RECEPTAÇÃO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. CIRCUNSTÂNCIAS DO DELITO. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. TENTATIVA DE FUGA. CUSTÓDIA PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. DESPROPORCIONALIDADE ENTRE A SEGREGAÇÃO PREVENTIVA E PENA PROVÁVEL. INVIABILIDADE DE EXAME NA VIA ELEITA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A alegação de excesso de prazo na formação da culpa não foi objeto de exame pela Corte de origem, no acórdão impugnado, o que obsta a sua análise por este Tribunal Superior, sob pena de se incidir em indevida supressão de instância. Precedentes.
+ ..
+Habeas corpus não conhecido."(HC 405.659/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 27/09/2017).
+Com efeito, afigura-se manifesta a incompetência deste Tribunal para tomar conhecimento do pedido, impossibilitando o prosseguimento do writ, a teor do disposto no art. 210, do RISTJ, in verbis:"Art. 210. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente. "
+Ante o exposto, não conheço do presente habeas corpus.
+P. e I.
