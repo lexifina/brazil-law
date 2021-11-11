@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EDUARDO RODRIGUES VARELAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL(Agravo em Execução n. 5058386-30.2020.8.21.7000).
+Depreende-se dos autos que o Ministério Público estadual interpôs agravo em execução contra a decisãoque deferiu o pedido de saída temporária ao paciente, que se encontrava em prisão domiciliar.
+O Tribunal de origem deu provimento ao agravo, nos termos da seguinte ementa(e-STJ fls. 65):
+AGRAVO EM EXECUÇÃO. PRISÃO DOMICILIAR. CONCESSÃO DESAÍDAS TEMPORÁRIAS AUTOMATIZADAS. IMPOSSIBILIDADE. INVIÁVEL A CONCESSÃO DE SAÍDAS TEMPORÁRIAS AUTOMATIZADAS, CONSIDERANDO O ART. 123 DA LEP, QUE EXIGE, PARA TANTO, ATO MOTIVADO DO JUÍZO, PRÉVIA OITIVA DOMINISTÉRIO PÚBLICO E TAMBÉM DA ADMINISTRAÇÃO PRISIONAL.COM O DEFERIMENTO DA BENESSE DE FORMA AUTOMATIZADA, RETIRA-SE DO ÓRGÃO MINISTERIAL E DO PRÓPRIO JUDICIÁRIO A POSSIBILIDADE DE FISCALIZAÇÃO DO APENADO, NÃO SENDO ESTE O PROCEDIMENTO MAIS ADEQUADO. HÁ CLARA TRANSFERÊNCIA INDEVIDA DA FISCALIZAÇÃO DAS SAÍDAS TEMPORÁRIAS À ADMINISTRAÇÃO DA CASA PRISIONAL, FUNÇÃO EXCLUSIVA DO JUÍZO DA EXECUÇÃO PENAL. DECISÃO DE ORIGEM REVOGADA NO QUE DIZ COM A CONCESSÃO DE SAÍDAS AUTOMATIZADAS. AGRAVO EM EXECUÇÃO PROVIDO. UNÂNIME.
+Daí o presente writ, no qual alega a defesa, em síntese, que "inexiste óbice legislativo para a concessão das saídas temporárias ao apenado em prisão domiciliar mediante monitoramento eletrônico. Isso, porque, se a lei prevê que a saída temporária é um benefício aplicável aos apenados em regime semiaberto, e não proíbe, explicitamente, a concessão aos que estão em regime aberto, é possível que o apenado usufrua do benefício, desde que cumpridos os requisitos dos incisos I, II e III do artigo 123 da Lei de Execuções Penais" (e-STJ fl. 6).
+Requer, liminarmente e no mérito, a concessão das saídas temporárias ao apenado.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+No caso em tela, o Tribunal de origem fundamentou a negativa do referido benefício nos seguintes termos (e-STJ fl. 62):
+Em casos como o presente, de deferimento de saídas temporárias automatizadas, retira-se do Ministério Público e do próprio Judiciário a possibilidade de fiscalização do apenado, não sendo este o procedimento mais adequado. Há clara transferência indevida da fiscalização das saídas temporárias à administração da casa prisional, função exclusiva do juízo da execução penal.
+Importante também destacar o art. 122 da LEP1"1, que aponta para quais simações/finalidades específicas é cabível a saída temporária (freqüência a curso, visita à família e participação em atividades que concorram para o retorno ao convívio social), não havendo nos autos demonstração/pedido que apontem que para qual destas atividades serão destinadas as saídas temporárias deferidas, o que sequer foi mencionado na decisão do juízo da execução.
+Por conseguinte, compartilho do entendimento de que os pleitos relativos à concessão de saída temporária devem ser analisados caso a caso, de forma isolada, com a devida análise prévia do Ministério público e posterior apreciação do juízo, nos termos das normas da LEP.
+Sobre o tema, a jurisprudência desta Corte, cristalizada em julgado submetido ao rito dos processos repetitivos, é de que"érecomendável que cada autorização de saída temporária do preso seja precedida de decisão judicial motivada"(REsp n. 1.544.036/RJ, relatorMinistro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 14/9/2016, DJe 19/9/2016).
+Portanto, estando as conclusões do acórdão hostilizado nomesmo sentido do entendimento desta Corte, não há de se falar em ilegalidade flagrante.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
