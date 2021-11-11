@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por NACIONAL GÁS BUTANO DISTRIBUIDORA LTDA contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, no qual discute a possibilidade de, no regime não cumulativo de recolhimento da contribuição ao PIS e da COFINS, gerar créditos por ocasião da revenda de mercadorias sujeitas à alíquota zero e submetidas ao regime monofásico de recolhimento dessas contribuições.
+Contrarrazões apresentadas pela FAZENDA NACIONAL, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (fls. 2906/2916).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+A Primeira Seção decidiu afetar o tema à sistemática dos recursos repetitivos; vide:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. PROPOSTA DE AFETAÇÃO COMO REPETITIVO. PROCESSUAL CIVIL. TRIBUTÁRIO. PIS/PASEP E COFINS. SISTEMA DE TRIBUTAÇÃO MONOFÁSICA. DISCUSSÃO SOBRE A POSSIBILIDADE DE CREDITAMENTO COM BASE NO ART. 17 DA LEI 11.033/2004.
+1. Delimitação das questões de direito controvertidas como sendo: "a) se o benefício instituído no art. 17, da Lei 11.033/2004, somente se aplica às empresas que se encontram inseridas no regime específico de tributação denominado REPORTO; b) se o art. 17, da Lei 11.033/2004, permite o cálculo de créditos dentro da sistemática da incidência monofásica do PIS e da COFINS; e c) se a incidência monofásica do PIS e da COFINS se compatibiliza com a técnica do creditamento".
+2. Multiplicidade efetiva ou potencial de processos com idêntica questão de direito demonstrada pelo despacho do Ministro Presidente da Comissão Gestora de Precedentes e demais informações constantes dos autos dos processos repetitivos.
+3. Determinação ad cautelam para a suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça (art. 1.037, II, do CPC/2015).
+4. Recurso especial submetido à sistemática dos recursos repetitivos, estando em afetação conjunta os REsp 1.894.741/RS e REsp 1.895.255/RS.
+(ProAfR no REsp 1894741/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 18/05/2021, DJe 24/05/2021)
+Encontrando-se o tema afetado ao rito dos recursos repetitivos, por medida de economia processual e para evitar decisões dissonantes, deve-se determinar o retorno dos autos ao tribunal de origem para que fiquem sobrestados até a realização do juízo de conformação, conforme disciplina dos arts. 1.039 e 1.040 do CPC/2015.
+A respeito: AgInt no AgRg nos EDcl no REsp 1.345.683/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 11/10/2017; AgInt no AgInt no REsp 1.603.061/SC, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 28/6/2017; EDcl no AgInt no AgRg no REsp 1.399.836/SC, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 3/8/2017.
+Ante o exposto, reconsidero a decisão agravada; e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o recurso: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a orientação firmada; ou b) seja novamente examinado, caso divirja do entendimento desta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO AO PIS E COFINS. INCIDÊNCIA MONOFÁSICA. GERAÇÃO DE CRÉDITOS. TEMA SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO.
