@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado pelo Estado de Minas Gerais, contra decisão que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça daquele estado, assim ementado:
+ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO ESTADUAL. CONTRIBUIÇÃO PARA O CUSTEIO DA SAÚDE. DOIS CARGOS. LEI COMPLEMENTAR ESTADUAL N. 121/2011. BASE DE CÁLCULO. PERMANÊNCIA DE CONTRIBUIÇÃO E PRESTAÇÃO EM UM DELES. POSSIBILIDADE. REPETIÇÃO DO INDÉBITO. CABIMENTO.
+- Nos termos da nova redação dada ao art. 85, da Lei Complementar n. 64/2002, pela Lei Complementar n. 121/2011, que acrescentou o § 1º-A a esse dispositivo, a base de cálculo da contribuição a que se refere o § 1º incidirá sobre o maior valor de remuneração de contribuição ou de proventos do servidor que tiver mais de um vínculo com o Estado.
+- Hipótese na qual é devida a repetição do indébito relativo ao cargo de menor remuneração, nos termos dos votos majoritários e vencido o relator, somente após a citação do réu (fl. 289).
+Da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na incidência da Súmula n. 284/STF.
+A parte agravante, entretanto, deixou de impugnar especificamente o referido óbice.
+Desse modo, forçosa é a incidência do art. 253, parágrafo único, I, do Regimento Interno do STJ e art. 932, III, do CPC/2015, que assim dispõe, in verbis:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+A propósito, confira-se o precedente da Corte Especial do STJ no EAResp n. 746.775 / PR, julgado em 19 de setembro de 2018:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2o, do CPC.
+5. Embargos de divergência não providos.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do presente agravo.
+Publique-se. Intimem-se.
