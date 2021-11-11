@@ -1,0 +1,776 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+11/11/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.342.174 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: DISTRITO FEDERAL
+: PROCURADOR-GERAL DO DISTRITO FEDERAL
+: VALDEIR GOMES DE JESUS
+: DEFENSOR
+PÚBLICO-GERAL
+DO
+DISTRITO
+FEDERAL
+
+Ementa: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO.
+REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279
+DO STF. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE.
+SÚMULA 280/STF.
+1. A solução da controvérsia depende da análise da legislação local
+de regência e das provas dos autos, providências vedadas em sede de
+recurso extraordinário, conforme consubstanciado nas Súmulas 279/STF:
+Para simples reexame de prova não cabe recurso extraordinário; e 280/STF: Por
+ofensa a direito local não cabe recurso extraordinário.
+2. Agravo Interno a que se nega provimento.
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, os Ministros do Supremo
+Tribunal Federal, em Sessão Virtual da Primeira Turma, sob a Presidência
+do Senhor Ministro DIAS TOFFOLI, em conformidade com a ata de
+julgamento e as notas taquigráficas, por unanimidade, acordam em negar
+provimento ao agravo interno, nos termos do voto do Relator.
+Brasília, 11 de novembro de 2021.
+Ministro ALEXANDRE DE MORAES
+Relator
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 07D0-4864-9A95-3B59 e senha DE07-19CD-B5B6-B3F9
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+11/11/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.342.174 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: DISTRITO FEDERAL
+: PROCURADOR-GERAL DO DISTRITO FEDERAL
+: VALDEIR GOMES DE JESUS
+: DEFENSOR
+PÚBLICO-GERAL
+DO
+DISTRITO
+FEDERAL
+RE LAT Ó RI O
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Interno contra decisão que negou seguimento ao
+Recurso Extraordinário, sob os argumentos de que (a) não se aplica o
+Tema 546 da repercussão geral; e (b) aplica-se ao debate o teor das
+Súmulas 279 e 280, ambas do SUPREMO TRIBUNAL FEDERAL.
+Sustenta a parte recorrente, em suma, que (a) não incide a Súmula
+279/STF; (b) é desnecessário o exame de lei local, não incidindo a Súmula
+280 do STF; e (c) no julgamento do Tema 546 da repercussão geral, esta
+CORTE “não criou a exceção estabelecida pelo v. acórdão atacado, de que
+o dispositivo sob análise admitiria a exclusão dos “carros de passeio” do
+âmbito de incidência do art. 28 da Lei Distrital nº 239/1992” (Vol. 44, fl. 4).
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9387-6964-3589-9AC0 e senha B135-2DB9-DE55-C87C
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+11/11/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.342.174 DISTRITO FEDERAL
+VOTO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Eis a decisão ora agravada:
+“Decisão
+Trata-se de Recurso Extraordinário interposto em face de
+acórdão proferido pelo Tribunal de Justiça do Distrito Federal e
+dos Territórios, assim ementado (fls. 1-2, Doc. 8):
+“AÇÃO ANULATÓRIA DE ATO ADMINISRATIVO.
+INFRAÇÃO
+DE
+TRÂNSITO.
+TRANSPORTE
+REMUNERADO
+NÃO
+AUTORIZADO
+DE
+PASSAGEIROS. VEÍCULO DE PASSEIO. APREENSÃO.
+IMPOSSIBILIDADE. INEXISTÊNCIA DE SUBSUNÇÃO
+LEGAL À HIPÓTESE PREVISTA NO ART. 28 DA LEI Nº
+239/92, ALTERADA PELA LEI Nº 953/95.
+I - O veículo multado de propriedade do agravante,
+considerado um veículo de passeio, não possui as
+características exigíveis para fraudar a operação de
+transporte coletivo, fazendo-se passar por permissionário
+do Serviço de Transporte Público Alternativo do DF, razão
+pela qual se mostra inaplicável à hipótese da norma
+insculpida no artigo 28 da Lei Distrital nº 239/92, alterada
+pela Lei nº 953/95.
+II - A conduta de transportar pessoas de forma
+remunerada e não autoriza por veículos dessa natureza
+não configura fraude administrativa, na forma como
+estabelece a referida Lei Distrital, mas mera infração de
+trânsito, nos moldes estabelecidos no art. 231, inciso VIII,
+do Código de Trânsito Brasileiro, que prevê tão somente a
+retenção do veículo no local da infração para a aplicação
+da multa.
+III - Uma vez afastada a incidência do art. 28 da Lei
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+RE 1342174 AGR / DF
+Distrital nº 239/92, alterada pela Lei nº 953/95, mostra-se
+arbitrária a apreensão do veículo procedida pelos agentes
+públicos, bem como incabível a exigência de pagamento
+dos consectários daí advindos, tais como taxas e diárias de
+depósito.
+IV - O conjunto probatório infirma a presunção de
+veracidade dos atos perpetrados pelos agentes públicos.
+V - Não merece reproche a sentença quanto a
+condenação DFTRANS pelo dano moral decorrente da
+apreensão do veículo, visto que arbitrária.
+VI - Acolhida a preliminar. Recurso desprovido.
+Unânime.”
+No Recurso Extraordinário (Vol. 13), interposto com
+amparo no art. 102, III, “a”, da Constituição Federal, o Distrito
+Federal alega ter o acórdão recorrido violado dispositivos
+constitucionais.
+Aduz que não se confunde a competência da União
+Federal para legislar sobre trânsito e transporte prevista no art.
+22, XI, da Carta Magna, com a competência dos Municípios e do
+Distrito Federal para organizar seu serviço de transporte
+público coletivo (art. 30, inciso V, da Lei Maior).
+Sustenta que, “ao negar provimento ao recurso de
+apelação, a Turma negou vigência e contrariou os arts. 30, IV,
+32, § 1º, da Constituição Federal e conferiu errônea abrangência
+ao art. 22, IX, da CF ao conferir interpretação que afasta a
+aplicação da legislação local apesar de não reconhecer a sua
+inconstitucionalidade” (fl. 2, Doc. 13).
+Por fim, defende a constitucionalidade da Lei Distrital
+239/1992, alterada pela Lei 953/1995, e requer o conhecimento e
+provimento do Recurso Extraordinário para declarar a
+legalidade e validade do auto de infração ora impugnado.
+Na sequência, o RE foi sobrestado na origem até
+julgamento definitivo de mérito do RE 661.702-RG/DF (Rel.
+Min. MARCO AURÉLIO, Tema 546 da Repercussão Geral) pelo
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+RE 1342174 AGR / DF
+SUPREMO TRIBUNAL FEDERAL (Doc. 18).
+Em nova análise da matéria, o Juízo de origem negou
+seguimento ao Recurso Extraordinário, com base no artigo
+1.040, inciso I, do Código de Processo Civil, ao argumento de
+que a decisão combatida está em conformidade com as
+orientações do SUPREMO TRIBUNAL FEDERAL expressas no
+referido paradigma (Doc. 26).
+A parte recorrente apresentou Agravo Interno em face da
+referida decisão (Doc. 29), o qual foi acolhido para,
+reconsiderando a decisão anterior, determinar a restituição do
+processo ao Órgão Julgador a fim de que fosse novamente
+apreciado, considerando aparente divergência entre o acórdão
+combatido e o decidido no Tema 546/STF, nos termos do artigo
+1.040, inciso II, do Código de Processo Civil (Doc. 31).
+Em juízo negativo de retratação, o Órgão Julgador de
+origem manteve o acórdão recorrido, nos termos da seguinte
+ementa (fls. 1-2, Doc. 33):
+“DIREITO
+ADMINISTRATIVO.
+DIREITO
+CONSTITUCIONAL. DIREITO PROCESSUAL CIVIL.
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO.
+TRANSPORTE IRREGULAR DE PASSAGEIROS. ART. 28
+DA
+LEI
+DISTRITAL
+239/1992.
+CONSTITUCIONALIDADE. TEMA 546. REPERCUSSÃO
+GERAL NO RE 661.702/DF. REJULGAMENTO. LIMITES.
+VEÍCULO DE PASSEIO. NÃO SUBSUNÇÃO À
+HIPÓTESE PREVISTA NO ART. 28 DA LEI DISTRITAL
+239/1992. ILEGITIMIDADE PASSIVA DO DETRAN-DF
+MANTIDA
+DIANTE
+DOS
+LIMITES
+DO
+REJULGAMENTO DA MATÉRIA. APREENSÃO DE
+VEÍCULO.
+LIBERAÇÃO
+CONDICIONADA
+AO
+PAGAMENTO DE MULTA E DEMAIS ENCARGOS
+DECORRENTES DA INFRAÇÃO. IMPOSSIBILIDADE.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+RE 1342174 AGR / DF
+DUPLA NOTIFICAÇÃO. SÚMULA 312/STJ. ARTIGOS
+280, 281 E 282, CTB. INSUBSISTÊNCIA DO AUTO DE
+INFRAÇÃO.
+1. No âmbito da Repercussão Geral no RE
+661.702/DF (origem do Tema 546), o Relator Ministro
+Marco Aurélio definiu constitucionalidade da legislação
+local para coibir fraude no serviço de transporte coletivo:
+“TRANSPORTE COLETIVO – CONTRATO PÚBLICO DE
+CONCESSÃO – HIGIDEZ – DISCIPLINA.NORMATIVA.
+Surge constitucional previsão normativa local voltada a
+coibir fraude considerado o serviço público de transporte
+coletivo, e inconstitucional o condicionamento de
+liberação de veículo apreendido ao pagamento de multas,
+preços públicos e demais encargos decorrentes de
+infração” (STF. RE 661702, Relator Min. MARCO
+AURÉLIO, DJe 18/5/2020).
+2. Determinado o retorno dos autos para
+reapreciação do recurso de apelação e da remessa
+necessária (art. 1.040, II, CPC/2015). 2.1. “DIREITO
+PROCESSUAL CIVIL. EMBARGOS INFRINGENTES.
+REEXAME. CPC, ART. 1.040, II. TRANSPORTE
+IRREGULAR DE PASSAGEIROS. ACÓRDÃO QUE
+DECLAROU NULIDADE DE AUTO DE INFRAÇÃO.
+INAPLICABILIDADE DO ART. 28 DA LEI DISTRITAL
+239/1992. DECISÃO QUE NÃO AFRONTA A TESE
+FIXADA NO RE 661.702/DF. I. Não desafia a orientação
+fixada pelo Supremo Tribunal Federal no Recurso
+Extraordinário 661.702/DF, acórdão que considerou nulo
+auto de infração sob o fundamento de que transporte
+irregular de passageiros em automóvel de passeio não se
+enquadra na infração prevista no artigo 28 da Lei Distrital
+239/1992. II. Não pode ser considerado dissonante com a
+orientação do Supremo Tribunal Federal a respeito da
+constitucionalidade do artigo 28 da Lei Distrital 239/1992,
+acórdão que anula infração por não estarem presentes os
+requisitos que esse dispositivo legal exige para a sua
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+RE 1342174 AGR / DF
+caracterização. III. O reexame prescrito no artigo 1.040,
+inciso II, do Código de Processo Civil, não permite o
+rejulgamento da demanda em toda a sua plenitude, mas
+apenas e tão somente para remover eventual
+desconformidade
+com
+o
+pronunciamento
+de
+constitucionalidade do artigo 28 da Lei Distrital 239/1992
+pelo Supremo Tribunal Federal. IV. Se o acórdão não
+contrariou a orientação emanada do
+Recurso
+Extraordinário 661.702/DF, pelo simples fato de que não
+pronunciou ou reconheceu a inconstitucionalidade do
+artigo 28 da Lei Distrital 239/1992, nem deixou de aplicá-lo
+por esse fundamento, senão concluiu que não restou
+configurada a infração nele tipificada, ressai patente o
+descabimento do reexame da demanda muito além do
+espaço jurídico autorizado pelo inciso II do artigo 1.040 do
+Estatuto Processual Civil. V. Acórdão mantido” (Acórdão
+1329174,
+00319042020108070001,
+Relator:
+JAMES
+EDUARDO OLIVEIRA , 2ª Câmara Cível, data de
+julgamento: 22/3/2021, publicado no PJe: 23/4/2021. Pág.:
+Sem Página Cadastrada).
+3. “É necessária a dupla notificação para imposição
+de multa de trânsito, a notificação da autuação e a da
+aplicação da pena decorrente da infração, com o fim de
+assegurar a ciência do infrator acerca da imposição da
+penalidade e de possibilitar o contraditório e a defesa no
+processo administrativo instaurado com o fito de
+aplicação da sanção (arts. 280, 281 e 282 do CTB, e Súmula
+312
+do
+STJ).”
+(TJDFT.
+Acórdão
+1292489,
+00244311720098070001, Relator: ALFEU MACHADO, 1ª
+Turma Cível, data de julgamento: 14/10/2020, publicado no
+DJE: 26/10/2020. Pág.: Sem Página Cadastrada.). 3.1.
+Considerando que não houve aposição da assinatura do
+condutor do veículo no auto de infração, necessário o
+envio da notificação de autuação no prazo e na forma
+legalmente previstos, o que não se deu. 3.2. O ente público
+não se desincumbiu de demonstrar a dupla notificação
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+RE 1342174 AGR / DF
+exigida pelo CTB nos termos do art. 333, II, CPC/1973
+(atual art. 373, II, CPC/2015), além do que prova colhida
+em audiência de instrução que se mostrou suficiente a
+infirmar a presunção de veracidade do auto de infração
+lavrado.
+4. Em rejulgamento, mantido o desprovimento da
+apelação e da remessa necessária.”
+Mantido o acórdão recorrido pelo Juízo de origem, o
+Recurso Extraordinário foi admitido, e os autos foram
+remetidos a esta SUPREMA CORTE (Doc. 35).
+É o relatório. Decido.
+Eis os fundamentos do Tribunal de origem para manter o
+acórdão recorrido (fls. 11-18, Doc. 33):
+“O acórdão de ID 601640 (primeiro julgamento) não
+declarou a inconstitucionalidade da legislação distrital de
+regência – art. 28 da Lei Distrital 239/1992 alterada pela
+Lei Distrital 953/1995; tampouco negada vigência a
+referida norma, a informar o Enunciado 10 da Súmula
+Vinculante do Supremo Tribunal Federal.
+Dispõe o art. 28 da Lei Distrital 239/1992 (alterado
+pela Lei Distrital 953/1995):
+[…]
+Na hipótese dos autos, o veículo multado de
+propriedade do apelado (GM/Chevette, 1983/1984 – ID
+9025359, p. 1), veículo de passeio, não traz as
+características exigíveis a reconhecimento de aptidão a
+fraudar a operação de transporte coletivo, pois não pode
+se fazer passar por permissionário do Serviço de
+Transporte Público Alternativo do Distrito Federal,
+conduta de transportar pessoas de forma remunerada e
+não autorizada por veículos dessa natureza que não
+configura fraude administrativa na forma como
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+RE 1342174 AGR / DF
+estabelecida por referida Lei Distrital. Trata-se, isto sim, de
+mera infração de trânsito (art. 231, VIII, Código de
+Trânsito Brasileiro, antes da alteração levada a efeito pela
+Lei Federal 13.855/2019):
+[…]
+Quando da infração – 8/3/2007 (ID 9025380) – o CTB
+previa somente a retenção do veículo (e não apreensão) no
+local da infração para a aplicação da multa.
+Assim é que definida (acórdão de ID 601640) a não
+incidência do art. 28 da Lei Distrital 239/1992 (alterada
+pela Lei Distrital 953/1995), definida a ilegalidade da
+apreensão do veículo em tais termos.
+- Da impugnação ao auto de infração
+De outro lado, embora a presunção de legitimidade e
+de veracidade de que são dotados os atos administrativos
+(do que decorre a quem os questiona o ônus de comprovar
+eventual vício alegado), o certo é que o conjunto
+probatório infirmou tal presunção de veracidade do auto
+de infração lavrado pelos agentes públicos.
+É o que se extrai da análise dos depoimentos
+colhidos em audiência de instrução e julgamento (ID
+9025185).
+O autor-apelado VALDEIR afirmou que não aliciava
+pessoas, nem realizava transporte remunerado de
+passageiros, conduta que se limitou a mero transporte
+solidário – “carona” – de dois colegas de trabalho
+(construção civil em residência da Quadra 104 Sul):
+[…]
+A alegação do autor (transporte solidário – “carona”)
+foi confirmada pelos depoimentos das testemunhas
+Márcio Eduardo e Rafael Ribeiro, os dois colegas de
+trabalho:
+[…]
+Além do que colhido em sede da audiência de
+instrução (indicação de que se cuidou de transporte
+solidário, o que não configura o ilícito anotado no Auto de
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+RE 1342174 AGR / DF
+Infração 051241/Série AB – Tipo B -ID 9025359, p. 3),
+referido Auto de infração foi lavrado de forma incompleta:
+(i) não informa a quem o recurso deve ser dirigido; (ii)
+qual o prazo de recurso e (iii) que vale como primeira
+notificação.
+Portanto, referido documento não pode ser
+considerado como primeira notificação, haja vista que não
+houve, como visto, sequer notificação.
+Com efeito, para imposição de multa de trânsito é
+necessária a dupla notificação: (i) a notificação da
+autuação e (ii) a notificação da aplicação da pena
+decorrente da infração com o fim de assegurar a ciência do
+infrator da imposição da penalidade e de possibilitar-lhe o
+contraditório e a defesa no processo administrativo
+instaurado para aplicação da sanção.
+Nesse aspecto, dispõem os artigos 280, 281 e 282 do
+CTB:
+[…]
+Igualmente, a Súmula 312/STJ: “No processo
+administrativo para imposição de multa de trânsito, são
+necessárias as notificações da autuação e da aplicação da
+pena decorrente da infração”.
+Como se vê, a notificação de autuação deve ser
+expedida no prazo máximo de 30 (trinta) dias da lavratura
+do auto de infração, sob pena de arquivamento e de seu
+registro ser julgado insubsistente. Dela, inclusive, deverá
+constar a data do término do prazo para apresentação de
+recurso pelo responsável pela infração, que não será
+inferior a 30 (trinta) dias contados da data da notificação
+da penalidade.
+Assim é que, considerando que não houve aposição
+da assinatura do condutor do veículo no auto de infração
+de ID 9025359, p. 3, imprescindível tivesse sido enviada
+notificação de autuação no prazo e na forma legalmente
+previstos. No entanto, à época, DFTRANS não se
+desincumbiu do ônus de demonstrar que o fez, nos termos
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+RE 1342174 AGR / DF
+do art. 333, II do CPC/1973 (atual art. 373, II, CPC/2015).
+Ademais, tais fatos não foram especificamente
+impugnados em contestação (genérica – ID 9025377) e não
+foram juntados aos autos documentos comprobatórios do
+envio da notificação de autuação. Tal conclusão é
+corroborada pelo documento ID 9025380 - p. 2, juntado
+pelo DFTRANS, referente ao detalhamento da multa, no
+qual se constata o silêncio da parte réapelante quanto à
+data da notificação de autuação e limite para apresentação
+de defesa prévia.
+Como bem definido pela r. sentença, “Defender o
+contrário é negar vigência às normas constitucionais que
+garantem o devido processo legal e a ampla defesa,
+mesmo em se tratando de procedimento administrativo,
+até porque se trata de ato punitivo” (ID 9025414, p. 5).
+No sentido, este Tribunal:
+[…]
+Confirmada a nulidade do auto de infração, não há
+que se falar em exigibilidade de pagamento de despesas
+oriundas de tal ato administrativo – como taxas e diárias
+de depósito – o que, inclusive, foi objeto de declaração de
+inconstitucionalidade (art. 28, § 7º, Lei Distrital 239/1992,
+acrescido pela Lei Distrital 953/1995) pelo STF no referido
+Tema 546 – RE 661.702/DF.
+Destaca-se, por oportuno e nos termos do que tem
+definido
+este
+Tribunal
+(Acórdão
+1329174,
+0031904202010807000’, Relator JAMES EDUARDO
+OLIVEIRA, 2ª Câmara Cível, data de julgamento:
+22/3/2021, publicação no PJe: 23.4.2021. Pág: Sem Página
+Cadastrada), que pontos referentes a condenação por
+danos morais – e consectários legais sobre o valor desta
+condenação (correção monetária e juros moratórios) – não
+foram objeto do Tema 546 julgado pelo STF – Repercussão
+Geral no RE 661.702/DF, rejulgamento que deve se
+restringir ao exame de compatibilidade ou não do acórdão
+à tese fixada no RE 661.702.”
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+RE 1342174 AGR / DF
+
+Verifica-se, portanto, que o Tribunal de origem,
+observadas as peculiaridades do caso concreto, seguiu o
+entendimento firmado por esta SUPREMA CORTE no
+julgamento do Tema 546 da Repercussão Geral, a respeito da
+constitucionalidade do art. 28 da Lei Distrital 239/92, que
+estabelece sanções aplicáveis em caso de fraude ao sistema de
+transporte coletivo local.
+No entanto, considerando que a hipótese dos autos referese a veículo de passeio, o Tribunal de origem deixou de aplicar
+o precedente paradigma ao fundamento de que o transporte em
+questão não seria capaz de fraudar o sistema de transporte
+coletivo.
+Desse modo, para concluir de modo contrário ao
+entendimento formulado no acórdão recorrido, faz-se
+necessária a análise da legislação local que rege o serviço de
+transporte coletivo no Distrito Federal, o que é incabível em
+recurso extraordinário, conforme consubstanciado na Súmula
+280/STF: Por ofensa a direito local não cabe recurso
+extraordinário.
+Mesmo que fosse possível superar todos esses graves
+óbices, a argumentação recursal traz versão dos fatos diversa da
+exposta no acórdão, de modo que o acolhimento do recurso
+passa necessariamente pela revisão das provas. Incide,
+portanto, o óbice da Súmula 279 desta CORTE: Para simples
+reexame de prova não cabe recurso extraordinário.
+No mesmo sentido, vejam-se os seguintes precedentes:
+“EMENTA
+DIREITO
+ADMINISTRATIVO.
+ALEGAÇÃO DE OFENSA AOS ARTS. 22, XI, 30, I E V, 32,
+§ 1º, E 175 DA CONSTITUIÇÃO FEDERAL.
+DEFICIÊNCIA
+NA
+DEMONSTRAÇÃO
+DA
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+RE 1342174 AGR / DF
+REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART.
+1.035, §§ 1º E 2º, DO CPC/2015. TRANSPORTE PÚBLICO
+IRREGULAR. CARRO DE PASSEIO. AUTO DE
+INFRAÇÃO. NULIDADE. AUSÊNCIA DE FRAUDE
+CONSIGNADA
+PELA
+CORTE
+DE
+ORIGEM.
+COMPREENSÃO DIVERSA. REELABORAÇÃO DA
+MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA
+INSTÂNCIA
+EXTRAORDINÁRIA.
+EVENTUAL
+VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA
+REPÚBLICA
+NÃO
+VIABILIZA
+O
+RECURSO
+EXTRAORDINÁRIO. 1. Deficiência na fundamentação,
+em recurso extraordinário interposto sob a égide do
+CPC/2015, da existência de repercussão geral da questão
+constitucional suscitada. Inobservância do art. 1.035, §§ 1º
+e 2º, do CPC/2015. O preenchimento desse requisito
+demanda a demonstração, no caso concreto, da existência
+de questões relevantes do ponto de vista econômico,
+político, social ou jurídico que ultrapassem os interesses
+subjetivos do processo. A afirmação genérica da existência
+de repercussão geral ou a simples indicação de tema ou
+precedente desta Suprema Corte são insuficientes para o
+atendimento do pressuposto. 2. A controvérsia, conforme
+já asseverado na decisão guerreada, não alcança estatura
+constitucional. Não há falar em afronta aos preceitos
+constitucionais
+indicados
+nas
+razões
+recursais.
+Compreensão diversa demandaria a análise da legislação
+infraconstitucional encampada na decisão da Corte de
+origem, bem como a reelaboração da moldura fática, a
+tornar oblíqua e reflexa eventual ofensa à Constituição,
+insuscetível, como tal, de viabilizar o conhecimento do
+recurso extraordinário. Desatendida a exigência do art.
+102, III, “a”, da Lei Maior, nos termos da remansosa
+jurisprudência desta Suprema Corte. 3. As razões do
+agravo não se mostram aptas a infirmar os fundamentos
+que lastrearam a decisão agravada, principalmente no que
+se refere à ausência de ofensa a preceito da Constituição
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+RE 1342174 AGR / DF
+da República. 4. Agravo interno conhecido e não provido.
+(RE 1308911 AgR, Relator(a): ROSA WEBER,
+Primeira Turma, julgado em 21/06/2021, PROCESSO
+ELETRÔNICO DJe-123 DIVULG 24-06-2021 PUBLIC 2506-2021)”
+“AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+ADMINISTRATIVO. INFRAÇÕES DE TRÂNSITO.
+ARTIGO 93, INCISO IX, DA CONSTITUIÇÃO.
+VIOLAÇÃO. NÃO OCORRÊNCIA. LEGISLAÇÃO
+INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS
+E
+PROVAS.
+REEXAME.
+IMPOSSIBILIDADE.
+PRECEDENTES.
+1. O artigo 93, inciso IX, da Constituição Federal não
+determina que o órgão judicante se manifeste sobre todos
+os argumentos apresentados pelas partes, mas sim que ele
+explicite as razões que entendeu suficientes à formação de
+seu convencimento. Ao reconhecer a repercussão geral do
+tema, o Plenário do Supremo Tribunal Federal reafirmou
+essa orientação (AI 791.292-RG-QO, Rel. Min. Gilmar
+Mendes, DJe de 13/8/2010).
+2. Não se presta o recurso extraordinário para a
+análise de matéria infraconstitucional, tampouco para o
+reexame dos fatos e das provas constantes dos autos
+(Súmula 279/STF).
+3. Agravo interno desprovido, com imposição de
+multa de 5% (cinco por cento) do valor atualizado da
+causa (artigo 1.021, § 4º, do CPC), caso seja unânime a
+votação. 4. Honorários advocatícios majorados ao máximo
+legal em desfavor da parte recorrente, caso as instâncias
+de origem os tenham fixado, nos termos do artigo 85, § 11,
+do Código de Processo Civil, observados os limites dos §§
+2º e 3º e a eventual concessão de justiça gratuita.” (ARE
+1.301.549-AgR, Rel. Min. LUIZ FUX – Presidente, Tribunal
+Pleno, DJe de 12/04/2021 – grifo nosso)
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+RE 1342174 AGR / DF
+
+“AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+ADMINISTRATIVO.
+INFRAÇÃO
+DE
+TRÂNSITO.
+REGULARIDADE DO PROCESSO ADMINISTRATIVO.
+NECESSIDADE DE REVOLVIMENTO DO CONJUNTO
+FÁTICO-PROBATÓRIO
+DOS
+AUTOS.
+IMPOSSIBILIDADE. SÚMULA 279 DO STF. NEGATIVA
+DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO.
+INEXISTÊNCIA.
+REITERADA
+REJEIÇÃO
+DOS
+ARGUMENTOS EXPENDIDOS PELA PARTE NAS
+SEDES RECURSAIS ANTERIORES. AGRAVO INTERNO
+DESPROVIDO.” ( ARE 1.244.305-AgR, Rel. Min. LUIZ
+FUX, Primeira Turma, DJe de 7/4/2020 – grifo nosso)
+Diante do exposto, com base no art. 21, § 1º, do Regimento
+Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO
+AO RECURSO EXTRAORDINÁRIO.
+Não se aplica o art. 85, § 11, do Código de Processo Civil
+de 2015, tendo em vista que o julgado recorrido foi publicado
+antes da vigência da nova codificação processual.
+Publique-se. ”
+
+Não há reparo a fazer no entendimento aplicado, pois o Agravo
+Interno não apresentou qualquer argumento apto a desconstituir os
+óbices apontados.
+Diante do exposto, nego provimento ao Agravo Interno.
+É o voto.
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7FC2-8B95-01F7-D2DA e senha 2161-1AFB-C6A1-CA0D
+
+Supremo Tribunal Federal
+Extrato de Ata - 11/11/2021
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.342.174
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. ALEXANDRE DE MORAES
+AGTE.(S) : DISTRITO FEDERAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO DISTRITO FEDERAL
+AGDO.(A/S) : VALDEIR GOMES DE JESUS
+PROC.(A/S)(ES) : DEFENSOR PÚBLICO-GERAL DO DISTRITO FEDERAL
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+interno, nos termos do voto do Relator. Primeira Turma, Sessão
+Virtual de 29.10.2021 a 10.11.2021.
+Composição: Ministros Dias Toffoli (Presidente), Cármen Lúcia,
+Rosa Weber, Luís Roberto Barroso e Alexandre de Moraes.
+Convocado o Ministro Gilmar Mendes, para apresentar voto em
+processo suspenso, em razão de empate verificado.
+Luiz Gustavo Silva Almeida
+Secretário da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6E14-9581-FE52-4D61 e senha EA90-6416-5D1F-25E4
