@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S.A. contra decisão doTJ/RJ,quenão admitiu recurso especial, fundadona alínea "a" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 110):
+AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. PLEITO DE ADEQUAÇÃO DA ESTAÇÃO FERROVIÁRIA SOB A CONCESSÃO DA AGRAVADA. DIREITO À ACESSIBILIDADE. DECISÃO AGRAVADA QUE INDEFERIU A TUTELA ANTECIPADA REQUERIDA PELO DEMANDANTE. O Estatuto da Pessoa com Deficiência estabelece que o direito ao transporte e à mobilidade da pessoa com deficiência ou com mobilidade reduzida será assegurado em igualdade de oportunidades com as demais pessoas, por meio de identificação e de eliminação de todos os obstáculos e barreiras ao seu acesso. Tutelas de urgência que se prestam a conceder efetividade ao processo. Probabilidade do direito do agravado. Demonstração do risco de dano irreparável ou de difícil reparação. Decisão que deve ser reformada para que, no prazo de 90 (trinta) dias, a agravada providencie obras de adaptação necessárias à garantia da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida na Estação de Engenho Novo, sob sua concessão, salvo se já tiverem sido feitas, diante da multiplicidade de demandas existentes. Recurso CONHECIDO e PROVIDO.
+Embargos de declaração rejeitados (e-STJ fls. 158/161).
+No recurso especial obstaculizado, a parte apontouviolação dos arts. 300 e 1.022 do CPC/2015 e 81 do CDC, por negativa de prestação jurisdicional, bem como, argumentou haver ilegitimidade ativa da autora em relação ao pedido detutela antecipada e da obrigação de fazer.
+Contrarrazõesàs e-STJ fls. 242/263.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Com efeito, forçoso convir que incide a Súmula284 do STF quando a parte recorrente limita-se a sustentar violação do art. 1.022 do CPC/2015 de forma genérica, sem especificar em que consistiria a real ausência de pronunciamento e qual seria a relevância da tese suscitada apta a promover a alteração do julgado (EDcl na Rcl 28.431/DF, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 09/08/2017, DJe 16/08/2017).
+Por outro lado, a alegação de ilegitimidade ativa da autora não comporta análise.
+Como bem destacou o Tribunal de origem, "em relação à questão da ilegitimidade ativa suscitada pela ré, tal matéria sequer foi objeto de análise pelo juízo de origem, não podendo ser analisado por ora, sob pena de supressãode instância" (e-STJ fl. 161) (Grifos acrescidos).
+Assim,na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
