@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SIDMAR DE SOUZA FERNANDESde decisão na qual concedia ordem, de ofício, a fim dereduzir a pena do ora embargantepara 4 anos e 2 meses de reclusão, a ser cumprida em regime inicial semiaberto, mais o pagamento de 417 dias-multa, pelo delito de tráfico de drogas.
+O embargante alega que "ao impetrar a ordem de habeas corpus, a Defesa pugnou não apenas pelo reconhecimento do bis in idem entre o fundamento utilizado para exasperar a pena-base e justificar a aplicação do tráfico privilegiado em sua fração mínima, mas também pela aplicação da fração de diminuição de pena do tráfico privilegiado em seu patamar máximo de 2/3 (dois terços)". Todavia, embora reconhecido o bis in idem, fixou-sea pena-base no mínimo legal e manteve-sea redução em 1/6, na terceira fase, sem a indicação das razões porque se optou por essa solução menos benéfica ao réu.
+Afirma que "Esperava-se que, naturalmente, as circunstâncias desfavoráveis ao Paciente fossem valoradas na primeira fase na dosimetria, possibilitando a aplicação do tráfico privilegiado em sua fração máxima, uma vez preenchidos todos os seus requisitos."
+Requer, assim, o acolhimento dos embargos com efeitos infringentes.
+É o breve relato.
+Decido.
+O recurso não comporta acolhimento.
+A teor do art. 619 do Código de Processo Penal, os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado (EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015).
+No caso, assiste razão à defesa.
+Conforme se verificada sentença condenatória, oJuiz de primeiro não observou o entendimento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, no ARE 666.334/AM (Rel. Ministro GILMAR MENDES, DJ 6/5/2014), no qual decidido estarvedada a dupla aferição da quantidade e da natureza da droga, concomitantemente, na primeira etapa da dosimetria para exasperar a pena-base e na terceira fase para modular a minorante.
+Vejamos:
+ ..
+f) quanto às circunstâncias em que se deu o crime,deve ser observado o que dispõe o artigo 42 da Lei nº 11.343/2006; nocaso presente, o réu guardava uma grande quantidade e variedade de drogas 3 (três) porções de cocaína, pesando 93 g (noventa e três gramas), 121 (cento e vinte e um) comprimidos de ecstasy, 1 (uma) porção de "haxixe", pesando aproximadamente 2 g (dois gramas), 10 (dez) porções de maconha, pesando a totalidade 1,665 kg (um quilo,seiscentos e sessenta e cinco gramas), 2 (duas) porções da droga conhecida como "MDMA", pesando 2 g (doisgramas); assim, a pena base deve ser agravada;
+g)as consequências não foram maisgraves, tendo em vista que a substância entorpecente foi apreendida pela autoridade policial;
+h)o comportamento da vítima, no caso, o Estado, foi irrelevante, em nada contribuindo para a consumação do delito. Considerando as circunstâncias judiciais acima analisadas, fixo a pena-base em 06 (seis ) anos de reclusão e multa de 600 (seiscentos) dias-multa.
+ ..
+Deve ser aplicado ao caso o disposto no parágrafo 4º, do artigo 33, da Lei nº 11.343/2006, tendo em vista que o condenado é primário, tem bons antecedentes e, apesar de haver indícios, não há prova nos autos de que se dedica às atividades criminosas, nem integra organização criminosa. Assim, considerando as circunstâncias pessoais do condenado e levando em conta as peculiaridades do caso concreto, em especial, a grande quantidade, variedade e natureza das drogas apreendidas, reduzo a pena em 1/6 (umsexto)."
+Assim, uma vez preenchidos os requisitos legais do art. 33, § 4º, da Lei n. 11.343/2006, e sendo proibida nova aferição da quantidade/natureza da droga já valorada na fase inicial, o embargante tem direito ao reconhecimento do tráfico privilegiado em sua totalidade.
+A pena do embargante resta definitiva, portanto, em 2 anos de reclusão mais 200 dias-multa, mantido o regime inicial semiaberto, diante da análise desfavorável de circunstâncias judiciais - a quantidade, variedade e natureza das drogas na primeira fase da dosimetria, nos termos do art. 33, §§ 2º e 3º, do CP.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada é clara ao reconhecer que, diante da análise desfavorável, na primeira fase da dosimetria da pena, da quantidade, da natureza e da diversidade de entorpecentes apreendidos - cerca de 10 g de crack, 26 g de cocaína e 62 g de maconha -, é cabível a imposição de regime mais gravoso. Todavia, como a reprimenda fixada ao réu é inferior a 4 anos de reclusão, o modo adequado é o semiaberto.
+2. Agravo regimental não provido."
+(AgRg no HC 438.993/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/6/2018, DJe 15/6/2018);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS DE RECLUSÃO. QUANTIDADE DE DROGA. MODO SEMIABERTO. RECURSO NÃO PROVIDO.
+- Na identificação do modo inicial de cumprimento de pena, o magistrado deve expor motivadamente sua escolha, atento às regras estabelecidas no art. 33 do Código Penal e, no caso de condenado pelo delito de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006.
+- Aplicada a sanção corporal no patamar de 1 ano e 8 meses de reclusão e sendo favoráveis as demais circunstâncias ao paciente, o regime inicial semiaberto é o adequado e suficiente para o cumprimento da pena reclusiva, diante da valoração desfavorável da quantidade e da diversidade dos entorpecentes apreendidos, nos termos do art. 33, § 3º, do CP, c.c o art. 42 da Lei de Drogas. Precedentes.
+- A decisão agravada encontra-se alinhada à jurisprudência desta Corte, que permite a fixação do regime imediatamente mais gravoso do que a pena comporta com lastro na quantidade/nocividade das drogas que o caso envolve.
+- Agravo regimental não provido."
+(AgRg no HC 406.339/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/10/2017, DJe 16/10/2017).
+Por fim, vale anotar que a substituição da pena privativa de liberdade por restritivas de direito mostra-se insuficiente, em razão da falta do atendimento do pressuposto subjetivo (art. 44, III, do CP), especificamente a quantia e diversidade das drogas (HC 390.554/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/5/2017, DJe 22/5/2017).
+Ante o exposto, acolho os embargos de declaração com efeitos modificativos para estabelecer a pena final do embargante em 2 anos de reclusão, a ser cumprida em regime semiaberto, mais pagamento de 200 dias-multa.
+Publique-se. Intimem-se.
