@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo regimental interposto por VALDINEI GOMEScontra decisão monocrática da Presidência que não conheceu do agravo em recurso especial (e-STJ fls. 238/239).
+Depreende-se dos autos que o ora agravante foi condenado à pena de5anos e 4meses de reclusão, em regime inicial semiaberto, e ao pagamento de 13 dias-multa, como incurso no artigo 157, § 2º, inciso II, do Código Penal (roubo majorado).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória.
+O recurso especial não foi admitido, e a defesa interpôs agravo em recurso especial.
+Às e-STJ fls. 238/239, com esteio na jurisprudência deste Tribunal Superior, o Ministro Presidente desta Colenda Corte não conheceu do agravo em recurso especial.
+No presente agravo regimental, sustenta a defesa que, ao contrário do que foi decidido, impugnou todos os fundamentos da decisão que não admitiu o recurso especial.
+Requer, ao final, a reforma de decisão.
+É o relatório.
+Decido.
+Não assiste razão ao agravante.
+Cumpre registrar, inicialmente, quea respeito da nulidade processual apontada, bem como da ocorrência de bis in idem "ao aplicar a mesma situação fática para prejudicar o réu, em dois momentos valorativos diversos, qual seja, a participação de mais de um agente para caracterizar a grave ameaça, elemento constitutivo do roubo e a participação de dois agentes constitutivo da qualificadora do §2ºdo artigo 157do Código Penal" (e-STJ fl. 218), careceu a decisão do devido prequestionamento.
+Com efeito, "para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão"(AgRg no AREsp n. 1751724/RJ, relatorMinistro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/9/2021, DJe 27/9/2021).
+Ademais, a defesa não se valeu dos devidos aclaratórios para tal desiderato e, se acaso fossem manejados, e persistindo a omissão, caberia ao agravante ter alegado, nas razões do apelo especial, a ocorrência de violação ao disposto no art. 619 do Código de Processo Penal, ônus do qual também não se desincumbiu.
+Concluo, portanto, que o prequestionamento do tema objeto do recurso é exigência inafastável e prevista constitucionalmente no capítulo referente ao recurso especial.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA O ART. 159, § § 3º E 4º, DO CP. PREQUESTIONAMENTO. INEXISTÊNCIA. AUSÊNCIA DE ALEGADA VIOLAÇÃO AO ART. 619 DO CPP. INCIDÊNCIA DA SÚMULA 211 DO STJ. AGRAVO NÃO PROVIDO.
+1. In casu, recorrente não prequestionou o tema a contento, pois a discussão na instância a quo não chegou à exaustão. Em que pese à oposição de embargos de declaração, estes foram rejeitados, sem que o Tribunal de origem tenha se manifestado acerca do tema.
+2. Dessa forma, persistindo a omissão na decisão do recurso integrativo, o recorrente deve interpor recurso especial com base na violação ao art. 619 do Código de Processo Penal, para que esta Corte Superior determine, ou não, o retorno dos autos à origem, a fim de sanar eventual mácula, o que não ocorreu nos autos.
+3. Assim, incide na espécie o verbete da Súmula n. 211 do STJ, verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+4. Agravo regimental não provido. (AgRg no AREsp n. 1394595/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/3/2019, DJe 27/3/2019.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AO ART. 59 DO CP. (I) - TESE JURÍDICA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA DISCUTIDA SOMENTE NO VOTO VENCIDO. SÚMULA 320/STJ. (II) - RAZÕES RECURSAIS DISSOCIADAS DO ACÓRDÃO RECORRIDO. APELO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. (III) - REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. "A questão federal somente ventilada no voto vencido não atende ao requisito do prequestionamento". Enunciado 320 da Súmula deste STJ.
+2. Estando a fundamentação do acórdão recorrido dissociada das razões recursais a ele relacionadas, resta impossibilitada a compreensão da controvérsia arguida nos autos, ante a deficiência na fundamentação recursal. Incidência do enunciado nº 284 da Súmula do STF.
+3. O raciocínio esposado pelo Tribunal a quo, insere-se dentro de um juízo de discricionariedade do julgador e está atrelada às particularidades fáticas do caso concreto e subjetivas do agente, não sendo cabível sua alteração nesta sede, em razão da incidência do óbice contido no enunciado 7 da Súmula deste Tribunal.
+4. Agravo regimental a que se nega provimento. (AgInt no REsp n. 1588899/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/8/2016, DJe 12/8/2016.)
+Por fim, quanto à possibilidade de reconhecimento da atenuante da confissão espontânea, assim se manifestou a Corte de origem (e-STJ fls. 158/159):
+Não é de ser provido o pedido relativo à aplicação da atenuante da confissão espontânea.Isto porque o apelante não confessou formalmente a prática delitiva nos autos. O apelante, na fase do inquérito policial, valeu-se do direito constitucional de permanecer calado, para manifestar-se apenas em Juízo. Nesta oportunidade, solto, não compareceu na data designada para seu interrogatório, tornando-se revel.
+Na presente hipótese, observo que, contrariamente ao alegado pela defesa, a condenação não foi baseada na confissão do réu, que, vimos, foi afastada pelas instâncias ordinárias.
+Esta Corte é firme na compreensão de que, se a confissão espontânea não foi reconhecida pelas instâncias ordinárias, a desconstituição do que ficou estabelecido ensejaria o reexame aprofundado de todo conjunto fático-probatório produzido ao longo da marcha processual, providência incompatível com os limites apontados pela Súmula n. 7/STJ.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO E ROUBO MAJORADO. DOSIMETRIA DA PENA. CONFISSÃO ESPONTÂNEA INFORMAL. MANIFESTAÇÃO NÃO UTILIZADA PARA EMBASAR A CONDENAÇÃO. IMPOSSIBILIDADE DE INCIDÊNCIA DA ATENUANTE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Súmula 545/STJ prevê que a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação.
+2. Evidenciado que a confissão informal do réu somente foi explicitada na transcrição dos depoimentos dos policiais condutores, não tendo, todavia, sido utilizada em momento algum para embasar a condenação, sequer citada pelo magistrado sentenciante, deve ser afastada a possibilidade de reconhecimento da atenuante do art. 65, III, "d", do Código Penal.
+3. "Inafastável a incidência do verbete n. 7 da Súmula do STJ, pois a alteração da conclusão a que chegou a Corte local sobre a alegada confissão espontânea, demandaria nova incursão no acervo fático-probatório dos autos, o que é vedado em sede de recurso especial" (AgRg no AREsp 1.353.606/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 3/12/2019, DJe 13/12/2019).
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1599610/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/02/2020, DJe 12/02/2020, grifei.)
+Ante o exposto, reconsidero a decisão de e-STJ fls. 238/239e conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
