@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7 do STJ.
+Sustenta o agravante que a matéria deduzida no recurso especial prescinde de revolvimento fático-probatório, razão pela qual requer o seu provimento.
+Apresentada contraminuta, manifestou-se o Ministério Público pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada, razão pela qual deve ser conhecido para julgar o recurso especial, no qual aponta negativa de vigência ao art. 155, caput, do CP, por ausência de lesão ao bem jurídico tutelado pela norma penal, por se tratar do furto de uma faca, no valor de R$ 58,99, de estabelecimento comercial, razão por que requer o reconhecimento do princípio da insignificância.
+Consta do acórdão recorrido que"o apelante é reincidente em crime patrimonial (fls. 238), o que evidencia a acentuada reprovabilidade do seu comportamento"(fl. 334).
+Sedimentou-se a orientação jurisprudencial, nesta Corte e no Supremo Tribunal Federal, de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento e d) inexpressividade da lesão jurídica provocada.
+No caso, embora o valor dobemsubtraído(R$ 58,99)represente 6,3% do salário mínimo vigente à época dos fatos, no valor de R$ 937,00, não se verifica o reduzidíssimo grau de reprovabilidade do comportamento do agente, que ostenta a condição de reincidente em crime patrimonial.
+Esta Corte Superior tem entendido não ser socialmente recomendável a aplicação do princípio da insignificância em casos como o presente, dada a ausência de mínima ofensividade da conduta. Confira-se:
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. CRIME DE FURTO TENTADO QUALIFICADO. HABITUALIDADE DELITIVA. REINCIDÊNCIA ESPECÍFICA EM CRIMES CONTRA O PATRIMÔNIO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REGIME PRISIONAL SEMIABERTO. DECISÃO MANTIDA.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+2. A aplicação do princípio da insignificância, segundo a orientação do Supremo Tribunal Federal, demanda a verificação da lesividade mínima da conduta, apta a torná-la atípica, considerando-se: a) a mínima ofensividade da conduta do agente; b) a inexistência de periculosidade social na ação; c) o reduzido grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada. O Direito Penal não deve ocupar-se de condutas que, diante do desvalor do resultado produzido, não representem prejuízo relevante para o titular do bem jurídico tutelado ou para a integridade da própria ordem social.
+3. A habitualidade criminosa do réu, representada na reincidência específica em crimes contra o patrimônio evidencia a acentuada reprovabilidade do comportamento, situação incompatível com a aplicação do princípio da insignificância.
+4. Em condenação inferior a 4 anos de reclusão, o reconhecimento da reincidência específica justifica a fixação de regime inicial semiaberto para o cumprimento da pena.
+5. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+6. Agravo regimental desprovido (AgRg no HC 639.147/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 22/06/2021, DJe 28/06/2021).
+Incide, portanto, a Súmula 83 do STJ, também aplicável aos recursos interpostos com fundamento na alínea a, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
