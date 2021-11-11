@@ -1,0 +1,41 @@
+DECISÃO
+Depreende-se dos autos que Francisco Angelo Carbone Sobrinho interpôs agravo de instrumento contra decisão que, nos autos de ação por ele ajuizada contra o condomínio e o síndico, acolheu a preliminar de ilegitimidade de Pedro Luiz Longo Molento e extinguiu o processo sem resolução do mérito, condenando o autor ao pagamento das custas processuais e honorários advocatícios, fixados em R$ 1.500,00 (mil e quinhentos reais).
+Analisando o aludido recurso, o Tribunal de Justiça do Estado de SãoPaulo negou-lhe provimento em acórdão assim ementado (e-STJ, fl. 334):
+AGRAVO DE INSTRUMENTO - CONDOMÍNIO EDILÍCIO - Demanda ajuizada em face do condomínio e do síndico - Decisão de primeiro grau que acolheu a preliminar de ilegitimidade passiva do síndico e extinguiu o processo sem resolução do mérito em relação a ele - Inconformismo do autor - Ilegitimidade passiva corretamente reconhecida - Conduta do síndico na condição de mandatário do condomínio e não em nome próprio - Decisão mantida - Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 389-392).
+Nas razões do recurso especial (e-STJ, fls. 395-414), o recorrente alegou violação aos arts. 5º, XXXV, LIV e LV, da CF; 3º, 4º, 6º, 7º, 8º e 11 do CPC/2015; 186 e 927 do CC, além da existência de divergência jurisprudencial.
+Pleiteou a atribuição do efeito suspensivo.Sustentou, em síntese, a legitimidade passiva do síndico, em razão da responsabilidade civil por omissão.Apontou o nexo de causalidade entre a conduta do síndico e os danos causados ao condômino, decorrentes da má conservação do edifício.
+Contrarrazões apresentadas às fls. 433-451 (e-STJ).
+Juízo negativo de admissibilidade e, consequentemente, prejudicado o efeito suspensivo (e-STJ, fl. 452-455).Daí, a interposição do agravo.
+Por decisão monocrática, a Presidência desta Corte não conheceu do agravo em recurso especial, ante a ausência de impugnação de todos os fundamentos da decisão de inadmissibilidade do apelo especial (e-STJ, fls. 495-497).
+Em suas razões, oinsurgente afirma, em suma, que "foram atacados, de forma específica, os fundamentos da decisão agravada" (e-STJ, fl. 503).
+Pugna pelo afastamento do óbice da Súmula 7 desta Corte.Aponta ter demonstrado a divergência jurisprudencial.Pleiteia a reconsideração da decisão agravada ou a sua reforma pelo Colegiado.
+Impugnação apresentada (e-STJ, fls. 517-537).
+Brevemente relatado, decido.
+De início, observa-se que houve impugnação devida aos fundamentos do decisum que negou a admissão do recurso especial, ainda que sucintamente, razão pela qual reconsidero a decisão de fls. 495-497 (e-STJ) e passo a nova análise do agravo em recurso especial.
+Com efeito, vale ressaltar que, concernente à alegação de ofensa ao art. 5º, XXXV, LIV e LV, da CF/1988, é evidente a inadequação da via recursal eleita, porquanto "não cabe ao Superior Tribunal de Justiça, em recurso especial, a análise de ofensa a dispositivos constitucionais, cuja competência é do Supremo Tribunal Federal, consoante o disposto no artigo 102 da Constituição Federal" (AgInt no REsp 1.933.028/SP, Relator Ministro Ricardo Villas Bôas Cueva, DJe 30/9/2021).
+No caso em estudo, o Colegiado de origem concluiu pela ilegitimidade passiva do síndico, conforme trecho transcrito a seguir (e-STJ, fl. 335):
+O recurso cinge-se à legitimidade do síndico para figurar no polo passivo da demanda. Este o pedido exposto no agravo de instrumento. Outrossim, como consignado na decisão de fls. 299/301, quanto ao pleito de extensão da medida (fls. 279/283), anota-se que o pedido de tutela foi indeferido e não consta tenha havido recurso, razão pela qual o agravo limita-se ao que consta na decisão atacada e foi objeto de impugnação tempestiva.
+Na decisão atacada consignou-se:
+"Partes bem representadas. Sem nulidades ou irregularidades a sanar ou suprir. Acolho a preliminar de ilegitimidade do síndico réu, pois a petição de aditamento a fls. 119/132 não descreve com clareza e precisão conduta culposa ou dolosa do representante do condomínio da qual tenham resultado danos para o autor.
+Aliás, a petição em questão é inepta quanto ao pedido de reparação de prejuízos,pois estes não foram minimamente descritos ou especificados. Sendo assim, indefiro a petição a fls. 119/132 em relação ao síndico réu e quanto ao pedido de reparação, extinto o processo sem resolução do mérito no particular e condenado o autor ao pagamento para o síndico réu de custas, despesas e honorários advocatícios de R$ 1.500,00.
+O processo, portanto, fica saneado e prosseguirá somente quanto ao pedido cominatório contra o condomínio réu.
+Defiro provas pericial de engenharia e testemunhal para acertamento de controvérsia sobre realização eficiente dos reparos determinados em assembleia geral, tendo em vista o parecer técnico apresentado pelo autor e impugnado pelo condomínio.
+Nomeio perito judicial o engenheiro civil Roberto Rolfsen, qualificado no portal de auxiliares da Justiça.
+Quesitos e assistentes técnicos em quinze e laudo em sessenta dias.
+O perito informará nos autos, para conhecimento de partes e assistentes, local,data e hora do início das diligências.
+Formulados os quesitos, intime-se o perito judicial para apresentar proposta de honorários, os quais serão antecipados pelo autor.
+Com a proposta nos autos, intimem-se as partes para manifestação no prazo comum de cinco dias e tornem conclusos para arbitramento.
+Audiência de instrução oportunamente."
+A ilegitimidade passiva do síndico foi corretamente reconhecida.
+No caso, não se observou qualquer conduta do síndico em nome próprio, mas sempre representando o condomínio, como é de seu mister.
+Como assinalado pelo douto magistrado, "a petição de aditamento a fls.119/132 não descreve com clareza e precisão conduta culposa ou dolosa do representante
+do condomínio da qual tenham resultado danos para o autor".
+Outrossim, observa-se dos autos de origem que a Assembleia Ordináriarealizada em 28 de janeiro do corrente ano, da qual, frise-se, o recorrente não participou, tratou, dentre outras questões, da possibilidade de rateio extra para obras de manutenção e conservação do edifício, inclusive quanto a vazamentos e infiltrações na garagem e piscina (fls. 173/181), o que também afasta a alegada omissão.
+Nesse contexto, atentando-se aos argumentos trazidos pela parte insurgente e aos fundamentos acima destacados adotados pela Corte estadual, verifica-se que estes não foram objeto de impugnação específica nas razões do recurso especial. Assim, a manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+Outrossim, não há como desconstituir o entendimento delineado no acórdão impugnado (ausência de qualquer ato ilícito praticado pelo síndico, que atuou como representante do condomínio), sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Por fim, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas. Isso porque as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo, mediante juízo de reconsideração, para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ PARA NOVA ANÁLISE DO AGRAVO EM RECURSO ESPECIAL. 2. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE EXAME PELO STJ. 3. AUSÊNCIA DE PARTICIPAÇÃO DO AGRAVANTE NA ASSEMBLEIA CONVOCADA PARA DETERMINAR PROVIDÊNCIAS PARA MANUTENÇÃO DO PRÉDIO. OMISSÃO DO SÍNDICO. NÃO VISLUMBRADA. FUNDAMENTO SUFICIENTE INATACADO. SÚMULAS 283 E 284/STF. 4. NEXO DE CAUSALIDADE AFASTADO. REVISÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. 5. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 6. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
