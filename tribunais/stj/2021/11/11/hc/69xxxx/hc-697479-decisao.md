@@ -1,0 +1,23 @@
+DECISÃO
+NATAN SILVA DE ARAÚJO alega sofrer constrangimento ilegal em decorrência de acórdão do Tribunal de Justiça a quo. Busca a expedição de guia de recolhimento provisória sem a necessidade de seu recolhimento ao cárcere, a fim de que o Juiz das Execuções possa reconhecer o período de cumprimento da medida cautelar de recolhimento noturno para fins de detração da pena.
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+O paciente foi condenado a 3 anos e 4 meses de reclusão, em regime inicial semiaberto, por incursão no art. 16, parágrafo único, IV, da Lei nº 10.826/2003.Ele cumpriu medida cautelar de recolhimento noturno e nos dias de folga e pretende que o período seja considerado para fins de detração penal. Para tanto, pede a expedição de guia de recolhimento, sem seu recolhimento à prisão.
+Com a ressalva de meu entendimento pessoal sobre o tema, prevalece no âmbito da Terceira Seção a compreensão de que "amedida diversa da prisão que impede o acautelado de sair de casa após o anoitecer e em dias não úteis assemelha-se ao cumprimento de pena em regime prisional semiaberto"(HC n. 455.097/PR, Rel. Ministra Laurita Vaz, 3ª S., DJe 7/6/2021) e, portanto, deve ser reconhecida como pena efetivamente cumprida para fins de detração do art. 42 do CP.
+Considerou-seque "o tempo a ser computado como pena cumprida, para fins de detração penal, limita-se aos intervalos em que o constrito permaneceu obrigatoriamente recolhido em seu domicílio. Os períodos em que lhe foi permitido sair, ou em que se encontrava voluntariamente em casa, não devem ser descontados"(AgRg no HC 652.810/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 24/9/2021).
+Outra é a minha compreensão acerca da matéria, como expus no julgamento do Habeas Corpus n. 455.097/PR, em 14/4/2021, no âmbito da Terceira Seção desta Corte Superior. Todavia, por razão desegurança jurídica impõe-se a observância da jurisprudência majoritária destaCorte. Ilustrativamente:
+ ..
+2. A Terceira Seção concluiu pela concessão da ordem para que o período de recolhimento domiciliar, em horas, a que o Paciente foi submetido (fiscalizado, no caso, por monitoramento eletrônico) seja convertido em dias, para contagem da detração da pena.
+3. Na hipótese de se decidir pela possibilidade de emprego do tempo de cumprimento da medida alternativa de recolhimento noturno e dos dias de folga, para fins de detração, alcançou-se a seguinte distinção: a) adoção da proporção de 3 dias da medida cautelar (recolhimento apenas noturno) para descontar 1 dia de pena; ou b) 2 dias da medida cautelar para descontar 1 dia de pena, nos dias de recolhimento integral (dias não úteis).
+4. Embargos declaratórios rejeitados.
+(EDcl no AgRg no HC 668.298/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/08/2021, DJe 13/08/2021)
+A teor do art. 105 da LEP, "transitando em julgado a sentença que aplicar
+pena privativa de liberdade, se o réu estiver ou vier a ser preso, o Juiz ordenará a expedição de guia de recolhimento para a execução". Em regra, énecessária a prisãopara a distribuição do processo de execução.
+A regracomporta temperamento,à luz do art. 5º, XXXV, da CF, quando háprobabilidade de concessão debenefícios(progressão de regime, livramento, comutação etc.)que impactam o estado de liberdade do apenado.Nessa hipótese, aformalidade não pode constituir óbice à apreciação de direito plausívelpleiteado pelo condenado.
+Assim,justifica-se a expedição da guia de execução, sem prévia prisão do paciente, para que a detração penal possa ser observada pelo Juiz competente.Confira-se, mutatis mutandis:
+ ..  1. Nos termos dos arts. 105 da Lei n. 7.210/1984 e 674 do Código de Processo Penal, a expedição da guia de recolhimento - e consequente início da competência do juízo das execuções - demanda prévia prisão do réu.
+2. No entanto, nos termos do art. 5º, inciso XXXV da Constituição Federal, a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito.
+3. Na espécie, justifica-se a expedição da guia de execução independentemente do cumprimento do mandado de prisão. Precedentes do STF e do STJ.
+4. Recurso ordinário em habeas corpus provido para determinar a expedição de guia de execução definitiva, independente do prévio recolhimento do paciente ao cárcere, de modo que a defesa possa formular os benefícios inerentes à execução penal. (RHC n. 114.208/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/8/2019, destaquei).
+À vista do exposto, concedo o habeas corpus para determinar a expedição de guia de execução, independentemente da prisão do paciente, a fim de que seupedido de detração do período de recolhimento domiciliar possa ser apreciado pelo Juiz competente.
+Publique-se e intimem-se.
