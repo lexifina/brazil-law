@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos de declaração nos quais a parte alega, em resumo, que o julgado padece de omissão, porque não considerou os argumentos lançados em sede de contrarrazões ao recurso especial.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Adianto que assiste razão ao embargante quando indica equívoco na decisão monocrática, ao considerar ausentes as contrarrazões, quando, na realidade, a peça de impugnação constava das e-STJ fls. 702/721.
+Sanando a omissão, e passando a enfrentar os argumentos ali deduzidos, também antecipo que, no mérito propriamente dito, o resultado da decisão impugnada deve ser mantido.
+Ao contrário do que alegava o recorrido, o agravo e o apelo especial reuniam as condições para conhecimento.
+Quanto ao primeiro, verifica-se que a decisão que havia inadmitido o recurso excepcional apresentou fundamentação genérica no sentido de que "o posicionamento alcançado pelos doutos Julgadores, embora contrário às pretensões da recorrente, não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância superior" (e-STJ fl. 743). Assim, consta do agravo impugnação específica a esse fundamento, já que o recurso externou em concreto os argumentos para demonstrar que dispositivos federais haviam sido violados, admitindo-se o recurso especial.
+Em relação ao apelo especial propriamente dito, não se tratava de matéria de fato, mas exclusivamente de direito, qual seja, definir se o titular de cartório responde pelos atos lesivos praticados pelo antecessor. Inaplicável, portanto, a Súmula 7.
+Sobre a alegação de que os débitos referentes as verbas e indenizações reclamadas foram constituídos no momento da aposentadoria do autor, fato ocorrido em maio de 2014, depois da outorga da delegação ao demandado, o fundamento não tem o condão de alterar as conclusões adotadas na decisão recorrida, as quais mantenho integralmente.
+Ante o exposto, ACOLHO PARCIALMENTE os embargos de declaração, para sanar as omissões acima indicadas, sem emprestar efeitos infringentes ao recurso, mantendo o mesmo resultado da decisão embargada.
+Publique-se. Intimem-se.
