@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de mandado de segurança, com pedido de liminar, impetrado por MARCELO FERNANDES MALAVOTA, contra acórdão prolatado pela 4ª Turma do STJ, no julgamento dos EDcl no AgInt no AREsp 1.791.697/SP.
+Ação originária: de embargos à execução, opostos pelo impetrante, em desfavor de CIRLENE RAVACINI GUICARDI DOS SANTOS.
+Decisão monocrática: conheceu parcialmente do agravo em recurso especial interposto pelo impetrante e, nessa parte, negou-lhe provimento. No mais, indeferiu o pedido de assistência judiciária gratuita por ele formulado na petição de seu recurso especial.
+Acórdão da 4ª Turma impetrado: não conheceu do agravo interno interposto pelo impetrante, nos termos da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA AGRAVANTE.
+1. Razões recursais que não impugnam especificamente os fundamentos invocados na deliberação monocrática. Em razão do princípio da dialeticidade, deve o agravante nos termos do art. 1.021, § 1º do NCPC, demonstrar de modo fundamentado o desacerto da decisão agravada. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+Embargos de declaração: opostos pelo impetrante, foram rejeitados.
+Mandado de segurança: afirma que está sendo negado o direito de acesso à justiça desde a decisão monocrática do Min. Relator Marco Buzzi, que, além de não enfrentar os fundamentos da defesa, arguindo o óbice da Súmula 7/STJ, indeferiu a assistência judiciária gratuita pleiteada, fundamentando na ausência de demonstração da situação econômica do impetrante.
+Pedido liminar: aponta a configuração do fumus boni iuris, ante a clara existência de erro material nas considerações do julgado, devendo ser reconhecido o seu direito aos benefícios da gratuidade da justiça, bem como a necessidade de retorno dos autos à origem para suprir omissão relevante, com o devido acolhimento da matéria de defesa. No mais, afirma que "O perigo da demora é de ineficácia da decisão final, e que embora demonstrada a inexistência da relação contratual, o impetrante poderá receber atos constritivos em sua propriedade e/ou restrições em seu crédito, com a negativação de seu nome em cadastro de inadimplentes, sem a devida apreciação dos fundamentos de sua defesa" (eSTJ fl. 21).
+É o breve relatório.
+Como cediço, para que haja a concessão de liminar, é necessário que sejam demonstrados, concomitantemente, os requisitos do fumus boni iuris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Insta salientar que o que justifica o mandamus é a existência de um ato omissivo ou comissivo da autoridade coatora que afronte um direito passível de ser comprovado de plano pelo impetrante que não esteja relacionado ao direito de ir e vir ou ao conhecimento ou retificação de seus dados ou informações pessoais.
+Quanto à impetração desse remédio constitucional contra ato do próprio STJ ou de qualquer de seus órgãos, nos termos do art. 105, I, "b", CF/88 c/c art. 11, IV, do RISTJ, é assente o entendimento nesta Corte de que não cabe mandado de segurança, salvo se houver manifesta ilegalidade ou teratologia. Nesse sentido, confiram-se os seguintes precedentes da Corte Especial: AgRg no MS 21.096/DF, DJe 19/04/2017; AgRg no MS 22.615/DF, DJe de 28/03/2017; AgRg no MS 22.653/DF, DJe de 15/12/2016 e AgRg no MS 22.256/DF, DJe de 06/05/2016.
+Na espécie, verifica-se que o impetrante, quanto à alegada urgência da prestação jurisdicional, apenas se limita a afirmar, genericamente, que poderá sofrer atos constritivos ou restrições em seu crédito, não apontando qualquer ato concreto que justifique a concessão da liminar pleiteada.
+Ante o não preenchimento do requisito do periculum in mora, é desnecessário perquirir acerca da presença do fumus boni iuris.
+Forte nessas razões, INDEFIRO a liminar pleiteada.
+Encaminhem-se os autos ao Ministério Público Federal, para parecer.
+Publique-se. Intime-se.
