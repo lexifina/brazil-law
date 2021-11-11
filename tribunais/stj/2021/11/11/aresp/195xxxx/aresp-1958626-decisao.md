@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SULcontra decisão proferida pelo eg. Tribunal de Justiça estadual que inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+Consta dos autos que oeg. Tribunal de origem, em decisão unânime, negou provimento ao agravo em execução penal ali interposto pelo ora recorrente (fls. 229-230). Eis a ementa do acórdão:
+"AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. INSURGÊNCIA MINISTERIAL. REQUISITOS OBJETIVO E SUBJETIVO PREENCHIDOS. EXISTÊNCIA DE PRISÃO PREVENTIVA POR OUTROS PROCESSOS. POSSIBILIDADE DE MANUTENÇÃO DA BENESSE.
+Ainda que o agravado responda a processos por outros delitos e tenha sido decretada a prisão preventiva nos referidos feitos, certo é que não possuem qualquer relação com a conduta carcerária atual - plenamente satisfatória - do apenado, que preencheu o requisito subjetivo para a obtenção da progressão de regime, merecendo ser mantido o benefício.
+AGRAVO MINISTERIAL IMPROVIDO."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alega violação aoart. 112, caput e §§ 1º e 2º, da Lei n. 7.210/1984 (fls. 237-247). Para tanto, mencionaque:
+a) "o colegiado acabou por violar o artigo 112, caput e parágrafos 1º e 2º, da Lei n o . 7.210/84, por ignorar a existência de indicativos de periculosidade e risco social na concessão do benefício, circunstâncias prejudiciais à constatação do adimplemento, pelo apenado, do requisito subjetivo" (fl. 241);
+b) " .. há flagrante desconsideração pelo Tribunal local dos parâmetros definidos pela doutrina e pela jurisprudência das Cortes Superiores para fins de concessão da progressão de regime, benefício que se torna inadmissível quando presentes dados concretos que indiquem o perigo que a liberdade do reeducando causa à sociedade" (fl. 245).
+Requer, ao final, seja provido o recurso, "ao efeito de que seja afastada a progressão de regime determinada pelo juízo da execução, por ausência do requisito subjetivo" (fl. 247).
+Apresentadas as contrarrazões (fls. 262-267), oespecial foi inadmitido na origem pelaincidência daSúmulan. 83/STJ(fls. 272-275).
+Daí o presente agravo, no qual oagravante,em apertada síntese, repisaos argumentos expendidos no apelo nobre (fls. 282-291).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 314-321). Eis a ementa do parecer:
+"AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL.
+PROGRESSÃO DE REGIME. PRISÃO PREVENTIVA DECRETADA EM PROCESSOS QUE NÃO GUARDAM RELAÇÃO COM A CONDUTA CARCERÁRIA. RECURSO QUE NÃO IMPUGNA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ART. 932, III, DO CPC E ART. 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+- Parecer pelo não conhecimento do agravo em recurso especial."
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme mencionado,o especial foi inadmitido na origem pela incidência da Súmula n. 83/STJ (fls. 272-275).
+Neste agravo, contudo, o recorrente limitou-se a reiterar os argumentos expendidos no apelo nobre. Com efeito, oagravantedeixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, qual seja, o fundamento relativoà incidência daSúmula n. 83/STJ.
+Quantoà incidência do referido óbice sumular, limitou-se a mencionar que " m ostra-se manifestamente equivocada, nesses termos, a aplicação da Súmula nº. 83 do Superior Tribunal de Justiça, impondo-se o provimento do presente agravo em recurso especial para apreciação do mérito das questões federais deduzidas na insurgência" (fl. 290).
+Ora, não basta deduzir a inaplicabilidade do referido óbice, devendo seresclarecido o rechaço aos pontos esteares da decisão de admissibilidade, com a comprovação, por meio da indicação de precedentes atuais e em sentido contrário aos que colacionados pelo eg. Tribunal a quo, no sentidode demonstrara desarmonia do julgado ou da ausência de entendimentopacificado sobre a matéria, o que não se verifica no caso dos autos.
+Conforme ressaltado pelo d. representante do Ministério Público Federal, em seu parecer (fl. 318, grifos no original):
+"Veja que a decisão que negou seguimento ao recurso especial possui fundamento na incidência da Súmula 83 do STJ.
+O agravante, entretanto, para além de afi rmar que o recurso especial não contraria os precedentes citados na decisão agravada, se limitou a reproduzir as razões já postas no recurso especial, valendo-se, inclusive, de transcrição de trechos na íntegra. Assim, o agravante não impugnou especifi camente o fundamento da decisão agravada.
+É importante que se diga que para fi ns de atendimento do requisito exigido pela súmula 182 do STJ não basta apenas citar os pontos da decisão agravada, é necessário efetivamente contrapô-los, ou seja, demonstrar que não é acertada a inadmissão recursal, o que não se verifi cou no presente caso.
+Ademais, a mera transcrição/repetição do recurso especial não é sufi ciente para demonstrar as vulnerações aos dispositivos legais, apontadas carentes na decisão de inadmissibilidade, caso contrário tornar- se-á mera formalidade despicienda a análise de admissibilidade no tribunal de origem.
+Dada a ausência de impugnação específi ca dos fundamentos da decisão agravada, incidente a Súmula nº 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especifi camente os fundamentos da decisão agravada" ."
+Ademais, a jurisprudência desta e. Corte Superior de Justiça é assente nosentido de que: "O óbice contido na Súmula 83/STJ também se aplica ao recurso especial interposto com fulcro na alínea a do inciso III do art.105 da Constituição Federal." (AgRg no AREsp 1248218/PR, Sexta Turma, Rel.Min. Nefi Cordeiro, DJe 06/12/2018).
+Ainda, no que diz respeito à impugnação da aplicação do óbice da Súmula83/STJ, no mesmo sentido, confira-se oseguinteprecedente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃOIMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE.SÚMULA 182/STJ. PARADIGMA EM HABEAS CORPUS. INADMISSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. "Quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016).
+3. Outrossim, a jurisprudência deste Tribunal é firme no sentido de que não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência.
+4. Agravo regimental não provido" (AgRg no AREsp 1.040.832/MG, QuintaTurma, Rel. Min. Ribeiro Dantas, DJe de 31/10/2017, grifei).
+Desse modo, a ausência de impugnação, específica e fundamentada, dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+Além do mais, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
+EMENTA
+PENAL. PROCESSUAL PENAL. RECURSO MINISTERIAL. AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. PARECER DO MINISTÉRIO PÚBLICO FEDERAL PELO NÃO CONHECIMENTO DO AGRAVO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
