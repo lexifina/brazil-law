@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PERNOD RICARD BRASIL INDÚSTRIA E COMÉRCIO LTDA. contra decisão em que determinei a devolução dos autos, para fins do disposto no art. 1.040 do CPC/2015, considerando o Tema 881 da repercussão geral, que ostenta a seguinte redação: "Limites da coisa julgada em matéria tributária, notadamente diante de julgamento, em controle concentrado pelo Supremo Tribunal Federal, que declara a constitucionalidade de tributo anteriormente considerado inconstitucional, na via do controle incidental, por decisão transitada em julgado."
+A parte embargante sustenta que a decisão embargada "incorreu em pequeno erro material ou de premissa, tendo em vista que a controvérsia afetada ao Tema n. 881/STF não se amolda perfeitamente ao caso concreto, o qual deve ser sobrestado para aguardar o julgamento do RE n. 955.227/BA - Tema n. 885 da Repercussão Geral" (e-STJ fl. 717).
+Sem impugnação (e-STJ fl. 730).
+Passo a decidir.
+In casu, verifica-se, de fato, a existência de erro material quanto ao alcance da controvérsia, porquanto não se discute, a rigor, o Tema 881 da repercussão geral, mas sim o Tema 885, in verbis: "Efeitos das decisões do Supremo Tribunal Federal em controle difuso de constitucionalidade sobre a coisa julgada formada nas relações tributárias de trato continuado."
+O seguinte excerto das razões de recurso especial demonstra essa compreensão (e-STJ fl. 523):
+ ..  o trânsito em julgado se deu em momento posterior ao julgamento dos Recursos Extraordinários 138284 (j. em 01/07/1992) e 146733 (j. em 29/06/1992), no qual o A. STF decidiu, em processos de controle difuso (inter partes, envolvendo terceiros), pela constitucionalidade da Lei 7.689/88, exceção ao seu artigo 8º. Isto que dizer que este aspecto também deve ser reputado, ainda que presumidamente, como deduzido e repelido.
+Ante o exposto, ACOLHO os embargos de declaração para corrigir erro materiale determinar a devolução dos autos ao Tribunal de origem, a fim de que aguarde o julgamento do Tema 885 da repercussão geral.
+Publique-se. Intimem-se.
