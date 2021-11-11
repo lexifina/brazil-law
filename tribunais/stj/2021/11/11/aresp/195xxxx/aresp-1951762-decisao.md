@@ -1,0 +1,17 @@
+DECISÃO
+Maria Judite Pinho Monteirointerpôs agravo de instrumento contra decisão que indeferiu pedido da autora de inversão do ônus da prova, em autos de revisional com pedido indenizatório movidos contra Light Serviços de Eletricidade S.A., porquanto "com o deferimento da prova pericial, não há maior dificuldade para a parte autora fazer prova das alegações contidas na petição inicial." (fl. 2 do apenso único).
+OTribunalde Justiçado Estado do Rio de Janeirodesproveu o agravo, nos termos assim ementados (fl. 81):
+Agravo de instrumento. Agravo interno. Inversão do ônus da prova. Decisão que indeferiu concessão de efeito suspensivo ativo ao agravo. Mérito do agravo interno que se confunde com o do agravo de instrumento. Apreciação conjunta dos recursos. Ação de obrigação de fazer c/c indenizatória. Pedido de refaturamento de contas de energia elétrica e indenização por danos morais. Decisão agravada que indefere a inversão do ônus da prova. Desnecessidade aferida pelo juiz, à inteligência do art. 6, VIII CDC. Consumidor que deve fazer prova do dano e nexo causal, conforme súmula 330 TJRJ. Fornecedor a quem cabe a prova das excludentes, pela regra do § 3º do art. 14 CDC. Prova a ser feita na forma e para os fins do art. 371 CPC. Prova pericial bem determinada. Inversão do ônus da prova não fundamentada pela agravante, carecendo de verossimilhança. Desprovimento dos agravos.
+Maria Judite Pinho Monteirointerpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação do art. 6º, VIII, do CDC, porquanto faz jus à inversão do ônus probatório por se tratar de parte hipossuficiente de relação consumerista, bem como haver verossimilhança nas alegações autorais.
+Foram apresentadas contrarrazões (fls. 112-117) e o Tribunal de origem inadmitiu o recurso especial (fls. 119-123), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que aagravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentado naquele julgado, acerca da impossibilidade de inversão do ônus probatório quanto ao dano e ao nexo causal, bem como da suficiência da prova pericial, utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ademais, verifica-se que a irresignação darecorrente acerca da verossimilhança das alegações contidas na inicial, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, concluiu pela necessidade e suficiência de prova pericial.
+Dessa forma, para rever tal posição e interpretar odispositivolegalindicadocomo violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial,
+Publique-se. Intimem-se.
