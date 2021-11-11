@@ -1,0 +1,371 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 9
+
+11/11/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 206.051 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. DIAS TOFFOLI
+: ADRIANA PEREIRA SIQUEIRA
+: GLAUTER FORTUNATO DIAS DEL
+OUTRO(A/S)
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+NERO
+
+E
+
+EMENTA
+Agravo regimental em habeas corpus. Penal e Processo Penal.
+Crimes de homicídio qualificado e de destruição de cadáver. Análise
+dos pressupostos de admissibilidade de recurso interposto perante
+Tribunal Superior. Inadequação da via eleita. Questões não analisadas
+pelas instâncias antecedentes. Apreciação per saltum. Impossibilidade.
+Supressão de instância caracterizada. Agravo não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, em sessão virtual de 29/10
+a 10/11/21, na conformidade da ata do julgamento e nos termos do voto
+do Relator, Ministro Dias Toffoli, por unanimidade de votos, em negar
+provimento ao agravo regimental.
+Brasília, 11 de novembro de 2021.
+Ministro Dias Toffoli
+Relator
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B130-82C6-9A82-1DAD e senha BD18-5285-21A4-EAA2
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 9
+
+11/11/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 206.051 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. DIAS TOFFOLI
+: ADRIANA PEREIRA SIQUEIRA
+: GLAUTER FORTUNATO DIAS DEL
+OUTRO(A/S)
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+NERO
+
+E
+
+RELATÓRIO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Habeas corpus impetrado em favor de Adriana Pereira Siqueira, sem
+pedido de liminar, apontando como autoridade coatora a Quinta Turma
+do Superior Tribunal de Justiça, que negou provimento ao agravo
+regimental no AREsp nº 1.854.075/SP.
+Os impetrantes alegaram que o STJ negou-se a analisar o mérito do
+recurso especial deduzido contra o acórdão proferido pelo Tribunal local
+em recurso em sentido estrito interposto contra a sentença de pronúncia
+da paciente.
+Destacaram que,
+“ainda que se entenda que a arguição da alínea ‘c’ do art.
+105, III, da CF, tenha sido intencional, sem o cumprimento dos
+requisitos previstos em lei para sua análise, fato é que ainda
+subsiste, de forma autônoma, a fundamentação referente à
+alínea ‘a’, que deve ser endereçada pelos Tribunais, não sendo
+cabível o mero apontamento de irregularidade quanto a outra
+tese [sequer] suscitada.”
+
+Aduziram vícios que acometeriam a sentença de pronúncia e a
+ausência de adequação típica quanto ao suposto crime de ocultação de
+cadáver.
+Requereram
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8AEE-6A8C-1FF1-5293 e senha EC31-AB90-8E3B-A7B5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 9
+
+HC 206051 AGR / SP
+“a concessão da ordem de habeas corpus a fim de que (i)
+sejam afastadas as qualificadoras impostas à Paciente quando
+do julgamento do RESE pelo eg. TJSP; (ii) seja reconhecida a
+contrariedade ao art. 211, do CP, impronunciando-se ADRIANA
+por este delito em razão da inexistência de tipicidade objetiva,
+afastando, em ambos os casos, a incidência do princípio in dubio
+pro societate, posto que inconstitucional e incompatível com o
+ordenamento jurídico pátrio”.
+
+Em 8/9/21, neguei seguimento ao writ, nos termos do art. 21, § 1º, do
+Regimento Interno do Supremo Tribunal Federal.
+Contra essa decisão, a defesa interpõe, tempestivamente, o presente
+agravo regimental, no qual questiona os fundamentos da decisão
+agravada.
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8AEE-6A8C-1FF1-5293 e senha EC31-AB90-8E3B-A7B5
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 4 de 9
+
+11/11/2021
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 206.051 SÃO PAULO
+VOTO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+A irresignação não merece prosperar, porquanto a agravante não
+apresentou fundamentos aptos a modificar o entendimento
+anteriormente adotado.
+Dessa forma, mantenho a decisão agravada, a seguir transcrita, por
+seus próprios fundamentos:
+“Como se sabe, é firme a jurisprudência deste Supremo
+Tribunal Federal no sentido de que não se revela admissível a
+utilização do habeas corpus quando se pretende discutir os
+pressupostos de admissibilidade de recurso interposto na
+origem. Nesse sentido, anote-se:
+‘AGRAVO REGIMENTAL NO HABEAS CORPUS.
+PENAL E PROCESSUAL PENAL. CRIME DE
+DESCAMINHO. ARTIGO 334, § 1º, D, DO CÓDIGO
+PENAL (REDAÇÃO ANTERIOR). HABEAS CORPUS
+SUBSTITUTIVO DE RECURSO EXTRAORDINÁRIO.
+INADMISSIBILIDADE. COMPETÊNCIA DO SUPREMO
+TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS:
+CRFB/88, ART. 102, I, D E I. HIPÓTESE QUE NÃO SE
+AMOLDA AO ROL TAXATIVO DE COMPETÊNCIA
+DESTA SUPREMA CORTE. PRETENSÃO DE REJEIÇÃO
+DE DENÚNCIA. AUSÊNCIA DE DECISÃO DE MÉRITO.
+SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE DO
+WRIT PARA REANALISAR PRESSUPOSTOS DE
+ADMISSIBILIDADE DE RECURSOS. REVOLVIMENTO
+DO
+CONJUNTO
+FÁTICO-PROBATÓRIO.
+INADMISSIBILIDADE
+NA
+VIA
+ELEITA.
+IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS
+CORPUS COMO SUCEDÂNEO DE RECURSO OU
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA90-B95D-0367-35AF e senha 8F8A-5BD8-E926-DD32
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 5 de 9
+
+HC 206051 AGR / SP
+REVISÃO
+CRIMINAL.
+INEXISTÊNCIA
+DE
+CONSTRANGIMENTO
+ILEGAL.
+AUSÊNCIA
+DE
+IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA
+DECISÃO
+AGRAVADA.
+REITERAÇÃO
+DOS
+ARGUMENTOS ADUZIDOS NA PETIÇÃO INICIAL.
+AGRAVO REGIMENTAL DESPROVIDO. 1. O objeto da
+tutela em habeas corpus é a liberdade de locomoção
+quando ameaçada por ilegalidade ou abuso de poder (CF,
+art. 5º, LXVIII), descabendo sua utilização para reexaminar
+pressupostos de admissibilidade de recursos de outros
+tribunais. 2. A supressão de instância impede o
+conhecimento de Habeas Corpus impetrado per saltum,
+porquanto ausente o exame de mérito perante a Corte
+Superior. Precedentes: HC nº 100.595, Segunda Turma,
+Rel. Min. Ellen Gracie, DJe de 9/3/2011, HC nº 100.616,
+Segunda Turma, Rel. Min. Joaquim Barbosa, DJe de
+14/3/2011, HC nº 103.835, Primeira Turma, Rel. Min.
+Ricardo Lewandowski, DJe de 8/2/2011, HC 98.616,
+Primeira Turma, Rel. Min. Dias Toffoli, DJe de 22/02/2011.
+3. In casu, o recorrente foi denunciado em razão da
+suposta prática do crime tipificado no artigo 334, § 1º, d,
+do Código Penal (redação anterior). 4. Para dissentir dos
+fundamentos do acórdão recorrido, seria necessário o
+revolvimento de fatos e provas, sendo o habeas corpus
+ação inadequada para a valoração e exame minucioso do
+acervo fático-probatório engendrado nos autos. 5. O
+habeas corpus é impassível de ser manejado como
+sucedâneo de recurso ou revisão criminal, bem como é
+inadmissível a sua utilização em substituição ao recurso
+originariamente cabível perante a instância a quo. 6. A
+competência originária do Supremo Tribunal Federal para
+conhecer e julgar habeas corpus está definida,
+exaustivamente, no artigo 102, inciso I, alíneas d e i, da
+Constituição da República, sendo certo que o paciente não
+está arrolado em qualquer das hipóteses sujeitas à
+jurisdição desta Corte. 7. A impugnação específica da
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA90-B95D-0367-35AF e senha 8F8A-5BD8-E926-DD32
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 6 de 9
+
+HC 206051 AGR / SP
+decisão agravada, quando ausente, conduz ao
+desprovimento do agravo regimental. Precedentes: HC
+137.749-AgR, Primeira Turma, Rel. Min. Roberto Barroso,
+DJe de 17/05/2017; e HC 133.602-AgR, Segunda Turma,
+Rel. Min. Cármen Lúcia, DJe de 08/08/2016. 8. A reiteração
+dos argumentos trazidos pelo agravante na petição inicial
+da impetração é insuscetível de modificar a decisão
+agravada. Precedentes: HC 136.071-AgR, Segunda Turma,
+Rel. Min. Ricardo Lewandowski, DJe de 09/05/2017; HC
+122.904-AgR, Primeira Turma Rel. Min. Edson Fachin, DJe
+de 17/05/2016; RHC 124.487-AgR, Primeira Turma, Rel.
+Min. Roberto Barroso, DJe de 1º/07/2015. 9. Agravo
+regimental desprovido’ (HC nº 149.831/PR-AgR, Primeira
+Turma, Relator o Ministro Luiz Fux, DJe de 15/3/18 –
+grifei).
+‘HABEAS CORPUS – INVIABILIDADE DE SUA
+IMPETRAÇÃO, QUANDO VISA À DISCUSSÃO EM
+TORNO DOS PRESSUPOSTOS DE ADMISSIBILIDADE
+DE RECURSO INTERPOSTO PERANTE O E. SUPERIOR
+TRIBUNAL DE JUSTIÇA – PRECEDENTES –
+IMPETRAÇÃO FORMULADA, ADEMAIS, COM APOIO
+EM FUNDAMENTO NÃO EXAMINADO PELO
+TRIBUNAL
+APONTADO
+COMO
+COATOR
+–
+SUPRESSÃO DE INSTÂNCIA – INVIABILIDADE –
+RECURSO DE AGRAVO IMPROVIDO’ (HC nº
+142.201/SC-AgR, Segunda Turma, Relator o Ministro
+Celso de Mello, DJe de 15/12/17).
+‘PROCESSUAL PENAL. AGRAVO REGIMENTAL.
+HOMICÍDIO
+QUALIFICADO.
+ANÁLISE
+DOS
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO
+INTERPOSTO PERANTE TRIBUNAL SUPERIOR.
+INADEQUAÇÃO DA VIA ELEITA. 1. Inexistindo
+pronunciamento colegiado do Superior Tribunal de
+Justiça, não compete ao Supremo Tribunal Federal
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA90-B95D-0367-35AF e senha 8F8A-5BD8-E926-DD32
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 7 de 9
+
+HC 206051 AGR / SP
+examinar a questão de direito discutida na impetração. 2.
+Não cabe habeas corpus para reexaminar os pressupostos
+de admissibilidade de recurso interposto perante
+Tribunal Superior (vg. HC 111.324, Redator para o
+acórdão o Min. Luís Roberto Barroso; HC 109.156, Rel.
+Min. Dias Toffoli; HC 115.357-AgR, Rel. Min. Dias Toffoli).
+3. Declarada a ausência de repercussão geral da matéria
+pelo Plenário do Supremo Tribunal Federal, os recursos
+que versem sobre questão constitucional idêntica devem
+ser inadmitidos na origem, com base no artigo 543-B, § 3º,
+do Código de Processo Civil. 4. Agravo regimental
+desprovido’ (HC nº 134.760-AgR/BA, Primeira Turma,
+Relator o Ministro Roberto Barroso, DJe de 24/11/16 –
+grifei).
+No mesmo sentido: HC nº 138.687-AgR/RS, Segunda
+Turma, Relator o Ministro Celso de Mello, DJe de 1º/3/17; HC
+nº 134.446-AgR/SE, Primeira Turma, Relator o Ministro Luiz
+Fux, DJe de 5/12/16; HC nº 134.206-AgR/RO, Segunda Turma,
+Relator o Ministro Teori Zavascki, DJe de 22/6/16; HC nº
+131.365/SP, Segunda Turma, Relatora a Ministra Cármen Lúcia,
+DJe de 30/3/16; HC nº 109.156/PR, Primeira Turma de minha
+relatoria, DJe de 15/4/13.
+Esse entendimento tem inteira aplicação ao caso concreto,
+em que se pretende rediscutir a admissibilidade do REsp, em
+decisão proferida pelo STJ.
+Conforme destacado alhures,
+‘o objeto da tutela em habeas corpus é a liberdade de
+locomoção quando ameaçada por ilegalidade ou abuso de
+poder (CF, art. 5º, LXVIII), não cabendo sua utilização para
+reexaminar pressupostos de admissibilidade de recursos
+de outros tribunais’ (HC 138.099-AgR/SP, Primeira Turma,
+Relator o Ministro Luiz Fux, DJe de 19/12/16).
+Ademais disso, as questões colocadas à apreciação, como
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA90-B95D-0367-35AF e senha 8F8A-5BD8-E926-DD32
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 8 de 9
+
+HC 206051 AGR / SP
+o afastamento de qualificadoras, bem como a pretendida
+impronúncia, deixaram de ser tratadas no aresto questionado,
+de modo que, sua análise por esta Suprema Corte configuraria
+inadmissível supressão de instância.
+Nessa conformidade, nos termos do art. 21, § 1º, do
+Regimento Interno do Supremo Tribunal Federal, nego
+seguimento ao presente habeas corpus.”
+
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código CA90-B95D-0367-35AF e senha 8F8A-5BD8-E926-DD32
+
+Supremo Tribunal Federal
+Extrato de Ata - 11/11/2021
+
+Inteiro Teor do Acórdão - Página 9 de 9
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO HABEAS CORPUS 206.051
+PROCED. : SÃO PAULO
+RELATOR : MIN. DIAS TOFFOLI
+AGTE.(S) : ADRIANA PEREIRA SIQUEIRA
+ADV.(A/S) : GLAUTER FORTUNATO DIAS DEL NERO (356932/SP) E OUTRO(A/
+S)
+AGDO.(A/S) : SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Primeira Turma, Sessão
+Virtual de 29.10.2021 a 10.11.2021.
+Composição: Ministros Dias Toffoli (Presidente), Cármen Lúcia,
+Rosa Weber, Luís Roberto Barroso e Alexandre de Moraes.
+Convocado o Ministro Gilmar Mendes, para apresentar voto em
+processo suspenso, em razão de empate verificado.
+Luiz Gustavo Silva Almeida
+Secretário da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 37CC-CE56-A638-B475 e senha 7CA2-1B62-6C18-B16C
