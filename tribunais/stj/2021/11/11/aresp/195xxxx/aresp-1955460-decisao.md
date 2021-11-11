@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por SOMOPAR-SOCIEDADE MOVELEIRA PARANAENSE LTDA. e OUTROS contra a decisão de fls. 909-912 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal Regional Federal da 4ª Região assim ementado (fl. 823, e-STJ):
+APELAÇÃO. EMBARGOS À EXECUÇÃO. ADMINISTRATIVO. CONTRATO BANCÁRIO. PROVA PERICIAL. EXIBIÇÃO DEDOCUMENTOS. CONTRATOS ORIGINÁRIOS. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. MORA.
+1. Não há falar em cerceamento de defesa por ausência de prova pericial, haja vista que o conjunto probatório que instruiu o presente feito é suficientepara a formação da convicção do julgado.
+2. Para a exibição de documentos em posse do Banco, a jurisprudência da Corte tem entendido ser imprescindível a comprovação de prévio pedido à instituição financeira, não atendido em prazo razoável, e o pagamento do custo do serviço.
+3. A análise das cláusulas contratuais referentes a outros contratos em sede de embargos à execução de título extrajudicial ou de ação monitória exige a comprovação da correlação entre o contrato executado e eventuais contratos anteriores que lhe deram origem, capazes de influenciar na delimitação do débito efetivamente devido
+.4. Salvo situações excepcionais, a regra é a de que os juros remuneratórios não possuem qualquer limitação e podem, por conseguinte, ser livremente pactuados em empréstimos contratados no âmbito do Sistema Financeiro Nacional.
+5. Inexistindo abusividade/ilegalidade no período de normalidade contratual, a mora e seus consectários permanecem incólumes.
+6. Apelo desprovido.
+Os embargos de declaração opostos foram desacolhidos (fls. 854-862, e-STJ).
+Nas razões do recurso especial (fls. 873-890, e-STJ), além de dissídio jurisprudencial, os recorrentes alegaram que o acórdão impugnado incorreu em violação do art. 355, I, do Código de Processo Civil e da Súmula 286/STJ.
+Sustentaram, em síntese, estar configurado o cerceamento de defesa, ante o indeferimento do pedido de produção de prova pericial, com vistas a comprovar a abusividade, e, consequentemente, a ilegalidade dos encargos cobrados pela instituição financeira nos contratos que deram origem ao título executivo embargado.
+Aduziram, outrossim, que, ao mesmo tempo que houve indeferimento da produção de prova pericial, o pedido contido nos embargos à execução foiindeferidopor falta de comprovação das alegações autorais.
+Em juízo de admissibilidade (fls. 909-912, e-STJ), a Corte de origem negou o processamento do recurso especial ante a aplicação das Súmulas 5 e 7/STJ para revisão das conclusões do Tribunal a quo.
+Irresignados (fls. 925-949, e-STJ), aduzem os agravantes que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Sem contraminuta.
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novoCódigo de Processo Civil. Sendo assim, sua análise obedecerá ao regramentonele previsto. Portanto, aplica-se, na hipótese, o EnunciadoAdministrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016,segundo o qual "aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Relativamente à apontada violação a súmula, tenha-se em conta que não cabeao Superior Tribunal de Justiça apreciar alegação de ofensa a verbete desúmula no julgamento de recurso especial, uma vez que o enunciado apenasexpressa o posicionamento da jurisprudência predominante e não se insereno conceito de lei federal, previsto no art. 105, III, a, da ConstituiçãoFederal.
+Esse entendimento foi consolidado com a edição da Súmula 518 desta Cortenos seguintes termos: "Para fins do art. 105, III, a, da ConstituiçãoFederal, não é cabível recurso especial fundado em alegada violação deenunciado de súmula".
+Com relação à alegação de cerceamento de defesa, o Tribunal de origem assimconsignou (e-STJ, fls. 826-827):
+Quanto à alegação de cerceamento de defesa, esta Turma tem consolidado o entendimento de que, nos contratos bancários, não(e-STJ Fl.826)Documento recebido eletronicamente da origem
+há cerceamento de defesa face a não realização de prova pericial. Os documentos acostados aos autos são suficientes para o deslinde da questão, principalmente porque são discutidas questões de direito, há muito tempo conhecidas e examinadas pelo Poder Judiciário, o que dispensa a produção de provas para o debate.
+Do excerto acima transcrito, depreende-se que o Tribunal a quo entendeunão ser necessário o deferimento do pedido de produção de prova oral, poisconsiderou os autos devidamente instruídos para julgamento da demanda.
+De acordo com a orientação jurisprudencial vigente nesta Corte Superior,pertence ao julgador a decisão acerca da conveniência e oportunidade sobrea necessidade de produção de determinado meio de prova, inexistindocerceamento de defesa quando, por meio de decisão fundamentada,indefere-se pedido de dilação da instrução probatória.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE ANULAÇÃO DE CONTRATO DE EMPRÉSTIMO. CONTRATOS BANCÁRIOS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INDEFERIMENTO DE PROVA PERICIAL.INSTÂNCIAS ORDINÁRIAS QUE ENTENDERAM SER SUFICIENTE À RESOLUÇÃO DA CONTROVÉRSIA A PROVA DOCUMENTAL JÁ ACOSTADA. REVISÃO. SUMÚLA 7/STJ.DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA 13/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se admite recurso especial por dissídio entre julgados do mesmo Tribunal nos termos da Súmula 13 do STJ.
+2. O magistrado, com base no livre convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, hipótese em que não se verifica a ocorrência de cerceamento de defesa.
+3. As instâncias ordinárias concluíram que a prova documental acostada aos autos é suficiente para proporcionar ao julgador os elementos necessários à análise da contratação dos empréstimos questionados, sendo desnecessária a prova pericial requerida.
+4. Para se desconstituir a afirmação das instâncias ordinárias, de que há outros elementos dos autos que permitem a análise e solução da controvérsia sem a realização da perícia grafotécnica, seria necessário novo exame do acervo probatório, o que se revela defeso no âmbito de recurso especial ante o óbice da Súmula 7/STJ.
+5. Agravo interno não provido(AgInt no AREsp 1.833.031/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/09/2021, DJe 27/09/2021).
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃODE RESCISÃO CONTRATUAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL.ALEGAÇÃO DE CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. MORA DO PROMISSÁRIOCOMPRADOR. AUSÊNCIA DE INTERPELAÇÃO. NÃO OCORRÊNCIA.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, nãohá cerceamento de defesa quando o julgador considera desnecessária aprodução de prova ou suficientes as já produzidas, mediante a existêncianos autos de elementos suficiente para a formação de seu convencimento.
+2. Jurisprudência do Superior Tribunal de Justiça no sentido de que, mesmona falta de registro do compromisso de compra e venda de imóvel, não sedispensa a prévia interpelação para constituição em mora do devedor.
+3. Não apresentação pela parte agravante de argumentos novos capazes de
+infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO DESPROVIDO(AgInt no REsp 1.647.329/ES, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 10/06/2019, DJe 14/06/2019).
+Ademais, concluindo o Tribunal local pela desnecessidade daprova requerida pelos agravantes, descabe ao Superior Tribunal de Justiçaa modificação do posicionamento adotado, ante a incidência da Súmula7/STJ.
+Quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório da causa, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Diante do exposto, conheço do agravo para não conhecer do recursoespecial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REGULARIDADE DO TÍTULO EXTRAJUDICIAL. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRECONVENCIMENTO MOTIVADO DO JULGADOR ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. ALEGAÇÃO DE OFENSA A SÚMULA. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA 518/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
