@@ -1,0 +1,44 @@
+DECISÃO
+NIEDJA CAROL MORAES DOS SANTOSalegasofrer coação ilegal em decorrência de acórdão proferido peloTribunal de Justiçade Pernambuco, que negou provimento à Apelação n. 0509566-9.
+Nas razões destewrita defesa aponta as seguintes ilegalidades: a) exasperação da pena-base com base em fundamentação inidônea, em relação à culpabilidade e às consequênciase b) violação da Súmula n. 443 do STJ.
+Requer, assim, a redução da pena e a fixação de regime mais brando.
+O Ministério Público Federal, em seu parecer de fls. 113-119, opinou pela denegação da ordem.
+Decido.
+I. Pena-base
+Ao dosar a pena o Juízo de primeiro grau - corroborado pelo Tribunal de origem -ponderou o seguinte:
+a.1) culpabilidade: quanto ao grau de censurabilidade observo que deve ser compreendida como o grau de censurabilidade da conduta sendo ela,no presente caso, elevada pois, a ré,em concurso com quatro agentes, empreendeu ameaças de morte e agiu de forma bastante violenta com as vitimas, sendo aviltante o grau de intimidação empreendido e suas atitudes foram consciente e premeditada, demonstrando um índice elevado de reprovabilidade em sua conduta, o que merece a devida censura.. desfavorável. Ressalte-se, ademais, que a culpabilidade em análise não tem relaçãocom a culpabilidade que se mostra como pressuposto à aplicação da pena. que envolve a avaliação de elementos ligados a imputabilidade, potencial consciência da ilicitude e exigibilidade de conclui a diversa.
+ ..
+a.7) consequências dos crimes: as de consequências se às revelam graves, pois incutiram um sentimento pavor e temorvítimas alterando a sua vida possivelmente para sempre tendo que guardar o trauma, desfavorável a circunstância (fls. 48-49, grifei).
+No que tange à pretendida alteração da pena-base imposta aos recorrentes, cabe salientar que a sua fixação é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito oquantumde pena a ser aplicada ao condenado criminalmente, com vistas à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas nocaputdo art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente.
+Conforme se observa no trecho transcrito acima, a pena-base foi aumentada em 1 ano e 6 meses, em razão de duas circunstâncias judiciais desfavoráveis: a culpabilidadee as consequências do delito (9 meses para cada vetorial).
+O conceito deculpabilidade, envolto em intensos debates doutrinários, costuma ser utilizado em três sentidos no Direito Penal pátrio, que aqui sintetizo apenas para compreensão do julgado: a) como princípio, querendo traduzir a limitação à responsabilidade penal objetiva; b) como limite à sanção estatal, vinculada ao grau de reprovabilidade da conduta; c) como pressuposto da aplicação da pena ou, para os que adotam a teoria tripartida do delito, como elemento analítico do crime.
+Relativamente a essa vetorial, o Juiz sentenciante registrou omodus operandiempregado na ação delituosa, que envolveu quatro agentes, com emprego de violência e graves ameaças, além da premeditação. Esses elementos, a meu ver, justificam a exasperação da pena-base acima do mínimo, diante da concretude exposta na justificativa, que revela maior periculosidade da ré.
+Em relação àsconsequências do delito, por outro lado,reputo ilegítima afundamentaçãoadotadae afastoa análise negativa dessavetorial, uma vez que o Magistrado de origem apenas supõe o trauma sofrido pelas vítimas e não embasa o fundamento em elemento concreto, tal como laudo psicológico, etc.
+II.Fração de aumento na terceira fase - Súmula n. 443 do STJ - não violação
+Em relação ao aumento pelas duas majorantes do roubo incidentes no caso (concurso de agentes e restrição da liberdade das vítimas), o Juízo de origem, aplicou a fração de 1/2, pois "o concurso envolveu umadolescente, além de terem se reunidos quatro pessoas para a pratica do crime, de forma premeditada e fazendo uso de um veiculo automotor para garantir a fuga dos acusados" (fl. 49, grifei).
+Pelo trecho acima transcrito, é inegável a satisfatória motivação do ato decisório com lastro em dados concretos. Isso porque a menção de que a empreitada criminosa foi praticada em superioridade numéricade agentes, com a participação de um adolescente, além da premeditação e da fuga em veículo automotor,demonstram iniludivelmente, a maior gravidade do comportamento ilícito. Justificado, portanto, de maneira idônea, o aumento da pena na referida fração.
+Assim, não se trata de caso em que a simples gravidade das causas de aumento da pena, tomada abstratamente, é utilizada como fundamentação para a exasperação da reprimenda, em violação do enunciado da Súmula n. 443 do STJ, como apontado pela defesa, razão pela qual não verifico qualquer ilegalidade no acórdão que manteve a fração de 1/2para a majoração dapena, na terceira fase da dosimetria, ante a presença de motivação concreta.
+Nesse sentido:
+ ..
+2. Segundo o enunciado n. 443 da Súmula do STJ, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".Na hipótese dos autos, a pena foi aumentada em 3/8, com fundamento no elevado número de agentes (três). Tal circunstâncias revela a maior gravidade concreta da conduta delitiva, nos termos do referido enunciado.
+ ..
+Habeas corpus não conhecido.
+(HC n. 523.790/SP, Rel. MinistroJoel Ilan Paciornik, DJe 12/9/2019, grifei)
+III. Readequação da pena
+Afastada a valoração negativa das consequências do crime, a pena-base é fixada em 4 anos e 9 meses de reclusão, mais 11 dias-multa. Na segunda etapa, a pena foi atenuada em 1/8, diante da menoridade relativa da ré (fl. 103), de modo que a reprimenda é fixada em 4 anos, 1 mês e 26 dias de reclusão, mais 10 dias-multa. Na terceira fase, diante das causas de aumento doconcurso de agentes e da restrição da liberdade das vítimas, a sanção é elevada em 1/2eestabelecida em 6anos, 2mesese 24dias de reclusão, mais 16dias-multa. Por fim, com a incidência da regra do concurso formal de crimes, na fração de 1/5 (fl. 103), a sanção é, definitivamente, estabelecida em 7anos, 5meses e 22 dias de reclusão, mais 17dias-multa.
+IV. Regime
+Quanto à almejada modificação do regime inicial, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, aoquantumde reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+Assim,diante da existência de circunstância judicial desfavorável, concluo não haver violação do art. 33, § 2º, do Código Penal, sendo correta a aplicação do regime fechado.
+Ilustrativamente:
+ ..
+7. Diante de circunstâncias judiciais desfavoráveis - no caso, as consequências e os antecedentes -, é cabível a fixação do regime fechado, aos condenados não reincidentes, para o início do cumprimento da pena superior a 4 anos e que não exceda a 8 anos, em conformidade com o § 3º do art. 33 do Código Penal.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir as penas dos pacientes.
+(HC n. 370.412/SP, Rel. MinistroRogerio Schietti, 6ª T., DJe 21/10/2016, destaquei).
+V. Dispositivo
+À vista do exposto,concedo a ordem, tão somente para reconhecer ailegalidadeperpetradana dosimetria da pena e fixar a pena dapaciente em 7 anos, 5 meses e 22 dias de reclusão, mais 17 dias-multa, devendo ser observada a detração aplicada pelo Juiz sentenciante.
+Publique-se e intimem-se.
