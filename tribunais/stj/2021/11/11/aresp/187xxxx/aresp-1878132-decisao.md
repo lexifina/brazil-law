@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo apresentado pela Supervia - Concessionária de Transporte Ferroviário S/A contra decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL OBJETIVA. ACIDENTE. QUEDA NAS INSTALAÇÕES DA PARTE RÉ. Recursos de apelação interpostos por concessionária de transporte público e passageiro de sentença que condenou aquela a indenizar este em razão dos danos morais por conta de acidente ocorrido nas suas instalações.
+1. Acervo probatório que comprova a condição de passageiro do demandante.
+2. Responsabilidade objetiva da concessionária pelos danos que causa aos passageiros em razão da atividade a que se dedica, como dispõem o artigo 37, § 6º, da Constituição Federal e o art. 14 do Código de Defesa do Consumidor.
+3. Comprovado a conduta ilícita e o nexo de causalidade com as lesões apresentadas, resta configurado o dever de indenizar, nos termos dos arts. 186 e 927 do Código Civil.
+4. Queda em transporte coletivo em razão de ato ilícito da concessionária acarreta dano moral in re ipsa, de maneira que o valor de R$ 7.300,00 se mostra razoável, tendo em vista as circunstâncias do caso concreto.
+5. No inadimplemento de obrigação contratual (a condição e passageiro foi comprovada), os juros moratórios devem incidir da citação, ato processual que, na espécie, constitui em mora o devedor (CPC, art. 219, caput). Hão de ter a expressão de 1% ao mês, ex vi do art. 406 do Código Civil, combinado com o art. 161, § 1.º, do CTN.
+6. Indenização em razão dos danos materiais que não merece acolhimento, ante a ausência de comprovação do prejuízo.
+7. Havendo a possibilidade de mensuração do valor da condenação, devem os honorários ser fixados com base em tal valor, nos termos do art. 85, § 2º, do CPC.
+8. Recursos conhecidos. Negado provimento ao primeiro e dado parcial provimento ao segundo (fls. 459-460).
+Da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na ausência de afronta ao artigo 1.022 do CPC e na incidência da Súmula n. 7/STJ.
+A parte agravante, entretanto, deixou de impugnar especificamente o óbice referente à ausência de afronta ao artigo 1.022 do CPC.
+Desse modo, forçosa é a incidência do art. 253, parágrafo único, I, do Regimento Interno do STJ e art. 932, III, do CPC/2015, que assim dispõe, in verbis:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+A propósito, confira-se o precedente da Corte Especial do STJ no EAResp n. 746.775 / PR, julgado em 19 de setembro de 2018:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2o, do CPC.
+5. Embargos de divergência não providos.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do presente agravo.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Publique-se. Intimem-se.
