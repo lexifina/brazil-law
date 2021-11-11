@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BRASCAN SPE RJ-5 LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 29/03/2021.
+Concluso ao gabinete em: 22/10/2021.
+Ação: de obrigação de fazer c/c indenização e compensação - respectivamente - por danos materiais e morais, ajuizada por GLEIDSON DA SILVA GONCALVES, em face da agravante, na qual alega - em síntese - que, no ato da assinatura do contrato de promessa de compra e venda de imóvel, a ré exigiu o pagamento da remuneração dos corretores que trabalharam para a venda do bem, além da taxa cartorária (SATI), sem que houvesse a averbação do documento junto ao cartório.
+Aduz, ainda, que em 26/12/2014, ante a proximidade da data da entrega do imóvel, a ré propôs o financiamento do imóvel e ofereceu ao autor o citado financiamento junto à instituição ao Banco Itaú do valor do saldo devedor (R$ 178.925,00), além do saldo remanescente das parcelas da fase de construção no valor de R$ 32.594,33, tendo sido liberado o valor de R$ 181.500,00 e o autor deveria arcar com a diferença no valor de R$ 30.019,33. Tendo em vista que a ré não enviou os documentos exigidos pela financeira em tempo hábil, o referido valor foi acrescido de juros e multa, perfazendo o total de R$ 39.936,33.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a parte agravante a restituir, em dobro, o valor cobrado a título de taxa de cartório, bem como declarar o valor devido de R$ 30.019,33 como diferença a ser paga.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, para reformar em parte a sentença, de modo a determinar que a restituição da quantia referente à taxa de cartório seja na forma simples.
+Nesse sentir, é a ementa do julgado:
+Apelação cível. Ação de obrigação de fazer c/c indenizatória por danos morais. Sentença de procedência parcial para condenar a parte ré a restituir, em dobro, o valor cobrado a título de taxa de cartório, bem como declarar o valor de R$ 30.019,33 como diferença a ser paga. Recurso exclusivo da parte ré. Parte ré que não impugnou as alegações quanto à ausência de registro do contrato junto ao RGI, bem como da demora na assinatura do contrato de financiamento. Parte autora fez prova mínima do fato constitutivo de seu direito. O atraso na assinatura do contrato de financiamento se deu em razão única e exclusivamente pela demora da ré em providenciar a assinatura do contrato o que impossibilitou a quitação do saldo devedor pela parte autora. Os encargos decorrentes da demora na conclusão do empreendimento e liberação do financiamento não podem ser transferidos ao promitente comprador, que não deu causa ao atraso. Inexistência de causa excludente da responsabilidade objetiva prevista no CDC. Restituição da taxa SATI devida, porém, na forma simples, ante a inexistência de prova de má-fé. Sentença reformada em parte para determinar que a restituição da quantia referente à taxa de cartório seja na forma simples. Provimento parcial do recurso. (e-STJ, fl. 1.092)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 1º da Lei 6.899/91; 46 da Lei 10.931/04; 1º da Lei 4.864/65. Sustenta a ocorrência de omissão do acórdão recorrido em relação à correção monetária, não obstante o citado julgado tenha estabelecido a diferença a ser paga pelos agravados, no valor de R$ 30.019,33.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 1º da Lei 6.899/91; 46 da Lei 10.931/04; 1º da Lei 4.864/65, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, portanto, a Súmula 211/STJ.
+Ressalta-se que eventual alegação de serem de ordem pública os temas insertos nos dispositivos legais mencionados não torna indispensável o devido prequestionamento. Nesse sentir: AgInt no AREsp 1.021.641/MG (3ª Turma, DJe 19/05/2017) e AgInt no AREsp 613.606/PR (4ª Turma, DJe 17/05/2017).
+Forte nessas razões, CONHEÇO do agravo, para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de obrigação de fazer c/c indenização e compensação - respectivamente - por danos materiais e morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Agravo conhecido. Recurso especial não conhecido.
