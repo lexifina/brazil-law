@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaFAZENDA NACIONAL, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO.
+Na instância de origem, a parte ora recorrente interpôs agravo de instrumento contra a decisão que determinou o prosseguimento da execução mediante a requisição de RPV.
+O valor atribuído à causa é de (fl. 36) R$ 87.143,45 (oitenta e sete mil, cento e quarenta e três reais e quarenta e cinco centavos), em março de 2000.
+O Tribunal a quo negouprovimento ao recurso, em acórdão assim ementado (fl. 465):
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE CADASTRAMENTO DE RPV. AUSÊNCIA DE LEVANTAMENTO. SENTENÇA QUE EXTINGUIU O PROCESSO. SATISFAÇÃO INTEGRAL DO CRÉDITO EXEQUENDO. ERRO MATERIAL. RECURSO DESPROVIDO.
+I - Negativa de cadastramento de RPV, sob o fundamento de outro requisitório já expedido em nome do Agravado, supostamente vinculado a processo com o mesmo objeto.
+II - "Absolutamente contraditória a sentença que extinguisse o processo de execução, sob a fundamentação de levantamento do valor requisitado, se sequer foi cadastrado o requisitório."
+III- A sentença extintiva mencionou no relatório o nome do Agravado "em evidente erro material, de caráter meramente formal, incapaz de, em essência, determinar quitação capaz de ser oposta como obstativa ao direito de persecução dos créditos".
+IV - Agravo de Instrumento conhecido e desprovido.
+Opostos embargos de declaração, foram eles rejeitados (fls. 474-478).
+Nas razões do recurso especial, a recorrente alega ofensa aos seguintes dispositivos: a) 535, II, do CPC/1973, por omissão no acórdão recorrido quanto ao argumento de violação dos artigos 467, 471, 473 e 474, do CPC/1973; b)467, 471, 473 e 474, do CPC/1973, porquanto, uma vez extinta a execução sem ressalvas e não interposto nenhum recurso contra a sentença de extinção, não é possível o prosseguimento da execução por novo petitório de nenhum dos exequentes.
+Contrarrazões às fls. 490-501.
+É o relatório. Decido.
+A decisão recorrida foi publicada sob a égide da legislação processual civil anterior. Por isso, em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, observam-se as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Afasto, inicialmente, a alegação de ofensa ao art. 535, II, do CPC/1973, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: AgRg no REsp n. 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014; AgRg no AREsp n. 369.791/SP, Terceira Turma, Rel. Min. João Otávio de Noronha, DJe de 9/9/2014; AgRg no REsp n. 1.172.506/RS, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 26/8/2014; AgRg no AREsp n. 207.064/SP, Primeira Turma, Rel. Min. Benedito Gonçalves, DJe de 8/9/2014.
+No que diz respeito a alegada ofensa aos artigos 467, 471, 473 e 474, do CPC/1973, vinculados à tese de extinção do feito de execução, verifica-se que a Corte de origem concluiu pela ocorrência de erro material na citada sentença extintiva da execução, destacando que sequer há coerência em incluir o exequente que não foi cadastrado para arequisição na sentença que extinguea execução por já ter havido levantamento do valor requisitado. Confira-se (fl. 463):
+Com efeito, entendo que a r. sentença de fls. 260/261 mencionou no relatório o nome de GERALDO MAGELA RIBEIRO DOS SANTOS em notório erro material, não produzindo efeitos quanto a este exequente.
+Isso porque seria absolutamente contraditória a sentença que extinguisse o processo de execução, sob a fundamentação de levantamento do valor requisitado, se sequer foi cadastrado o requisitório.
+Diante disso, e tendo em vista que já foi esclarecido que o presente processo e a execução nº 2000.50.01.006215-0, que tramitou na 2" Vara Federal Cível da Seção Judiciária do Espírito Santo, têm causas de pedir próxima distintas, inexiste óbice ao cadastramento do requisitório em nome de GERALDO MAGELA RIBEIRO DOS SANTOS, devendo prosseguir a cobrança.
+A recorrente, ao elaborar seus argumentos de recurso especial no sentido de que deve prevalecer a eficácia da sentença de extinção da execução a todas as partes, mormente por não haver ressalva no título, tampouco recurso por parte do interessado, se distanciou do fundamento adotado pelo acórdão recorrido a respeito do momento processual oportuno para a alegação.
+Uma vez apresentadas razões de recurso especial dissociadas do fundamento do acórdão combatido que se mostra suficiente para manter o decisum atacado, resta inviabilizada a exata compreensão da controvérsia por deficiência na argumentação recursal. Incidência das Súmulas 284/STF e 283/STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. NOTIFICAÇÃO PARA APRESENTAÇÃO DE DEFESA PRÉVIA (ART. 17, §7º, DA LEI 8.429/92). NULIDADE RELATIVA. NÃO COMPROVAÇÃO DO PREJUÍZO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+2. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência da Súmula 283.
+ ..
+(AgInt no REsp 1754247/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021, grifos nossos)
+TRIBUTÁRIO E PROCESSUAL CIVIL. INEXISTÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. FUNDAMENTO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7 DO STJ. APLICAÇÃO DA SÚMULA 283 DO STF.
+ ..
+5. Existe fundamento não impugnado pelo recorrente nas razões do Recurso Especial, visto que se limitou a manifestar seu inconformismo com o resultado que lhe foi desfavorável e deixou de refutar especificamente os fundamentos do acórdão objurgado. Logo, estando as razões do recurso dissociadas da fundamentação adotada na origem, incide na hipótese, por analogia, a Súmula 283 STF.
+6. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp 1653723/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/02/2021, DJe 01/03/2021, grifos nossos)
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
