@@ -1,0 +1,26 @@
+DECISÃO
+Ferragens Negrão Comercial Ltda. ajuizou ação declaratória e nulidade da CDA em desfavor do Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO, relativamente a processo administrativo acerca de mercadoria, denominadacapacete de segurança para uso na indústria, exposta e comercializada em desacordo com a legislação de regência.
+O Juízo de primeira instância julgou parcialmente procedente o pedido, reconhecendo a nulidade do processo administrativo e rejeitou o pedido de indenização por danos morais à pessoa jurídica, ausente comprovação (fls. 284-287).
+O Tribunal Regional Federal da 4ª Região manteve a sentença, nos termos assim ementados (fl. 349):
+APELAÇÃO. INMETRO. AUTUAÇÃO. NULIDADE. DANO MORAL. PESSOA JURÍDICA. NÃO CONFIGURADO.
+1. Mantida a sentença que reconheceu a nulidade do processo administrativo instaurado pelo IPEM-PR, anulando-se, por conseguinte, o auto de infração.
+2. Para a pessoa jurídica, o dano moral não se configura in re ipsa, por se tratar de fenômeno muito distinto daquele relacionado à pessoa natural.
+3. Isenção ao pagamento de custas não se confunde com reembolso.
+Os embargos de declaração opostos foram rejeitados (fls. 372-375).
+Ferragens Negrão Comercial Ltda interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal. Aduziu a ofensa aos arts. 489 e 1.022, ambos do CPC/2015, sob o fundamento de que, não obstante a oposição dos declaratórios, o Tribunal de origem não apreciou o fato de que o protesto indevido da CDA gera dano moral à pessoa jurídica independente de outras provas.
+Alegou a ocorrência de dissídio, considerando que nessa hipótese os tribunais brasileiros reconhecem o direito à compensação pelo dano moral.
+Foram apresentadas contrarrazões e o Tribunal de origem inadmitiu o recurso especial (fls. 416-422), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que a parte agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não há que se falar em negativa de prestação jurisdicional.
+O Tribunal de origem decidiu a causa mediante fundamento suficiente, considerando que, mesmo diante do protesto indevido, não se presume o dano moral à pessoa jurídica, não tendo havido, no caso, a comprovação de dano à honra objetiva.
+A alegação de omissão consistiu, pois, em mero descontentamento com as conclusões a que chegou o Tribunal de origem.
+No mais, consoante a jurisprudência pacífica do Superior Tribunal de Justiça, o julgador não está obrigado a abordar ou a rebater, um a um, todos os argumentos ou todos dispositivos de lei invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação suficiente para dirimir a controvérsia; devendo, assim, enfrentar as questões relevantes imprescindíveis à resolução do caso. Nesse sentido: AgInt nos EDcl no AREsp 1791540/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 31/8/2021; AgInt no REsp 1658209/PR, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 1/7/2020; AgInt no AREsp 1575315/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2020.
+No mérito, o recurso especial não comporta seguimento.
+No caso, a parterecorrente não indicou qual o dispositivoteria sido objeto da divergência jurisprudencial.
+O Superior Tribunal de Justiça entende que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais. Incide, por analogia,o Enunciado Sumular n. 284 do STF.(AgInt no AREsp 1646277/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 11/10/2021, DJe 22/10/2021; AgInt no REsp 1.846.621/MA, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 11/12/2020).
+Ainda que fosse superado esse óbice, apesar de ter se configurado o protesto indevido, o Tribunal de origem afastou o direito à compensação pelos danos morais, ausente comprovação do dano à honra objetiva no presente caso.
+Assim, a pretensão recursal implicaria o revolvimento de matéria fático-probatória acerca dessa comprovação, de modo que, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do permissivo constitucional. Nesse sentido: AgInt no AREsp 1645528/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 29/4/2021; AgInt no AREsp 1696430/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 29/4/2021; AgInt no REsp 1846451/RO, Rel. Ministro Raul Araújo, Quarta Turma, DJe 29/4/2021; AgInt no AREsp 1587157/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 4/6/2020.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015,majoro a verba honorária para 13% (treze por cento), igualmente sobre a mesma base de cálculo, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
