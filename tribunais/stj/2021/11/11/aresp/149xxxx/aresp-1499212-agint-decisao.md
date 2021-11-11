@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto por GESTÃO DISTRIBUIÇÃO E LOGÍSTICALTDA. contra decisão da Presidência do STJ, que não conheceu doagravo emrecurso especial por ausência de impugnação específica dos fundamentos consignados na decisão a quo.
+A agravante sustenta, em resumo, que o julgamento de seu recurso deve ser sobrestado, pois versa sobre questão jurídica cuja repercussão geral já foi reconhecida pelo STF.
+Passo a decidir.
+Exerço juízo de retratação.
+O Plenário do Supremo Tribunal Federalreconheceu a existência de repercussão geral da discussão jurídica acerca da "aplicabilidade imediata do art. 78, § 2º, do ADCT para fins de compensação de débitos tributários com precatórios de natureza alimentar" (Tema n. 111 do STF), a ser decidida nos autos do RE n. 970.343/PR.
+Por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, RECONSIDERO a decisão às e-STJ fls. 322/323, tornando-a sem efeito,e DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+Publique-se. Intimem-se.
