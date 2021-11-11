@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por NOBUKO SAYAMA SIDO e OUTROS contra acórdão da Sétima Câmara de Direito Privado do TJSPassim ementado (e-STJ fl. 639):
+NULIDADE DE ATO JURÍDICO. Renúncia à herança. Petição nos autos de arrolamento subscrita por procurador sem poderes para tanto. Sentença de procedência. Inconformismo dos réus.
+1. Decadência afastada. Ato jurídico praticado sem observância de forma prescrita em lei é nulo, e não anulável, sendo insuscetível de confirmação ou convalescimento. Arts. 166, IV, e 169 do CC. Ato jurídico praticado pelo procurador sem poderes suficientes para tanto é ineficaz com relação ao mandante, e não anulável. Art. 662 do Código Civil.
+2. Patronos de dois dos autores que tinham poderes especiais para renunciar à herança. Admissibilidade, em tese, de renúncia à herança pelo procurador. Renúncia à herança que constou do aditamento às primeiras declarações nos autos do arrolamento.
+Simples petição acostada aos autos. Renúncia da herança deve constar expressamente de instrumento público ou termo judicial.
+Art. 1.806 do CC. Inobservância da forma prescrita em lei. Nulidade absoluta. Art. 166, IV, do CC. Reconhecida a nulidade do ato de renúncia à herança dos autores, deve igualmente ser reconhecida a nulidade da sobrepartilha na qual foram preteridos os direitos hereditários dos autores, em razão da suposta renúncia. Ato j urídico nulo que não é suscetível de confirmação, nem convalesce pelo decurso do tempo. Art. 169 do CC.
+3. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 649/654), fundamentado no art. 105, III, "a", da CF, os recorrentes apontam ofensa aos seguintes dispositivos de lei:
+(a) arts. 169 e 2.027, parágrafo único, do CC/2002, porque o caso não trataria de ato nulo,mas anulável. Defendem que os recorridos teriamconcordado,tacitamente, com a sobrepartilha realizada em 2006 e que não existiria prova de que houve intenção de fraudar a lei. Alegam que os recorridos,aoingressarem nos autos, nãoaduzirama nulidade da renúnciacomo deveriam, sob pena de preclusão. Entendem que, se assim tivessem feito e, com aconcordância das partes, a renúncia poderia ter sido realizada por termo judicial e não haveria falar em nulidade. Afirmam que, em verdade, os recorridos se arrependeram da renúncia e pretendem agora receber seu quinhão na herança. Argumentam que, afastada a impossibilidade de convalidação da renúncia, a decadência deve ser reconhecida,porque a decisão que homologou a partilha teria transitado em julgado em 19/6/2006, extinguindo-se, portanto, em junho de 2007, o direito de questionamento, e
+(b) art. 1.806 do CC/2002, pois "a renúncia da herança dos recorridos foi feita de maneira regular, vez que seu patrono tinha plenos poderes". Asseveram não haver, na lei, "qualquer limitação a forma que o termo judicial de renúncia de herança deve ser formulado, se há necessidade de poderes especiais para procurador ou não" (e-STJ fl. 653), de modo que o fato de não ter havido ratificação da renúncia não afasta sua validade.
+Foram apresentadas as contrarrazões (e-STJ fls. 658/663).
+Admitido o recurso na origem, foi determinada a subida dos autos a esta Corte para apreciação do especial (e-STJ fls. 664/665).
+É o relatório.
+Decido.
+Quanto à apontada violação dos arts. 169 e 2.027, parágrafo único, do CC/2002, vale dizer que as alegações de que os recorridos não teriam arguido a nulidade da renúncia no momento certo, ocasionando a preclusão, de que teria havido concordância tácita com a sobrepartilha e de que não haveria provas do intuito de fraudar a leinão foram objeto de exame pelo Tribunal de origem, estando, ausente, portanto o requisito do prequestionamento. Aplicável a Súmula n. 282/STF.
+Além disso, tais teses demandam o reexame de matéria fática, de forma que não podem ser examinadas por esta Corte, ante o disposto na Súmula n. 7/STJ.
+Também com relação à preclusão, não foi indicado dispositivo legal apto a amparar o argumento, o que demonstra deficiência na fundamentação a atrair a Súmula n. 284/STF.
+Em relação ao art. 1.806 do CC/2002, as razões deduzidas, a fim de demonstrar a ofensa ao referido dispositivo legal, não guardam pertinência com ele, fazendo incidirtambém neste ponto a Súmula n. 284/STF.
+Com efeito, o art. 1.806 do CC/2002 reza que a renúncia da herança deve constar de instrumento público ou de termo judicial. Nada dispõe acerca da necessidade de poderes especiais.
+Ademais, no caso, segundo consta do acórdão recorrido, a renúncia foi apresentada por meio de simples petição, o que não pode ser entendido como termo judicial.
+Ante o exposto, NÃO CONHEÇO do especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
