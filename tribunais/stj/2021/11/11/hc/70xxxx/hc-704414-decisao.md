@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EVERTON OLIVEIRA PENHA DA SILVAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Agravo em Execução Penal n. 0003178-11.2020.8.17.0000).
+Opacientecumpria pena em regime semiaberto, tendo sido revogado o benefício, com sua transferência para o regime fechado, em razão de falta grave decorrente da apreensão de aparelho celular em seu poder.
+Irresignada, a defesa interpôs agravo em execução, o qual foi desprovido (e-STJ fls. 76/86)
+Daí o presente writ, em que a defesa sustenta nulidade da decisão, alegando que a Defensoria Pública não foi intimada para acompanhar o reeducando, incorrendo-se em ofensa aos princípios do contraditório e da ampla defesa.
+Requer, já liminarmente, que seja reconhecida a nulidade da decisão que homologou a falta grave, pela ausência de defensor público para se manifestar sobre a falta.
+É o relatório.
+Decido.
+Preliminarmente, cumpre salientar que é competência do relator, em decisão in limine, aplicar jurisprudência pacífica do colegiado, conforme expressamente dispõem os incisos XVIII e XX do art. 34 do Regimento Interno do Superior Tribunal de Justiça, bem como julgados nesse sentido das turmas criminais desta Corte (vide AgRg no HC n. 622.778/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 10/12/2020; AgRg no HC n. 622.822/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/11/2020).
+No caso, Extrai-se o seguinte do acórdão combatido (e-STJ fl. 83):
+Não há que se falar emviolação aos princípios do contraditório e da ampla defesa já que o agravante aceitou ser assistido pelo advogado Luiz Inocência Feitosa Sales(defesa técnica da SERES), não advindo dai nenhum prejuízo ao apenado e não estando de modo algum indefeso durante o procedimento administrativo.
+Na espécie, o executado foi regularmente ouvido e contou com assistência de advogado, não havendo que falar em cerceamento de defesa.
+Com efeito, inexiste constrangimento ilegal a ser sanado, pois o procedimento adotado pelo Juízo a quo, confirmado no acórdão, está em consonância com a jurisprudência desta Corte ,segundo a qual"a nova Defesa ingressa no feito e o recebe no estado em que se encontra, não sendo sua constituição fundamento suficiente para a reiteração dos atos processuais já praticados, diante da preclusão lógica" (AgRg no HC n. 420.120/RS, relatorMinistro FELIX FISCHER, QUINTA TURMA, julgado em 7/6/2018, DJe 28/6/2018).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SUPOSTA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. FALTA GRAVE.REABERTURA DE PRAZO PARA A APRESENTAÇÃO DE DEFESA PRÉVIA.IMPOSSIBILIDADE. PRECLUSÃO. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.AGRAVO DESPROVIDO.
+1. Segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. É inviável o acolhimento da tese de que houve cerceamento de defesa no procedimento administrativo instaurado para a apuração de falta grave, pois os documentos acostados aos autos demonstram que foi assegurado ao Apenado o direito de se manifestar acerca de sua defesa técnica, oportunidade em que afirmou que não possuía advogado constituído e que desejava ser defendido por advogado dativo. Além disso, a procuração outorgada ao advogado particular só foi juntada aos autos após o encerramento do referido procedimento disciplinar.
+3. "Segundo a jurisprudência firmada nesta Corte Superior, a nova Defesa ingressa no feito e o recebe no estado em que se encontra, não sendo sua constituição fundamento suficiente para a reiteração dos atos processuais já praticados, diante da preclusão lógica" (AgRg no HC 420.120/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 28/06/2018).
+4. Agravo regimental desprovido.(AgRg no HC 635.432/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/03/2021, DJe 11/03/2021, grifei.)
+Ante o exposto, em sede liminar,denegoa ordem.
+Publique-se. Intimem-se.
