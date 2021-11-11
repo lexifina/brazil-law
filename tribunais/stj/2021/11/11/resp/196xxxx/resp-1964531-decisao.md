@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRA NDE DO SUL, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça daquela unidade federativa, assim ementado (fl. 380):
+"AGRAVO EM EXECUÇÃO. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO PREENCHIDO. MANUTENÇÃO DA DECISÃO.
+De fato, de acordo com o atestado de conduta carcerária, o apenado ostenta conduta plenamente satisfatória e não possui procedimentos administrativos. Em relação ao argumento ministerial de que o agravado cometeu faltas graves no curso da execução, destaco que a última indisciplina foi homologada em agosto de 2018. Por conseguinte, na situação em comento, não se mostra proporcional a consideração "ad aeternunn" dos episódios em desfavor do apenado. AGRAVO MINISTERIAL IMPROVIDO."
+Opostos embargos de declaração, pelo ora recorrente (fls. 699 - 707), estes foram rejeitados (fls. 709 - 713), nos termos da ementa a seguir transcrita:
+"EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO.
+Os próprios argumentos apresentados pelo Ministério Público evidenciam que se trata de pretensão de reexame das questões que foram decididas por esta Câmara Criminal, pois, no âmbito do julgamento do agravo em execução n. 70084075332, já houve análise acerca do preenchimento do requisito subjetivo, conforme se verifica, inclusive, a partir da leitura da ementa do julgado. EMBARGOS DESACOLHIDOS."
+Nas razões do recurso especial, o Parquet sustenta violação do art. 122, caput, e §1º, da Lei de Execução Penal, porquanto não preenchido o requisito subjetivo para a concessão da progressão do regime do réu; e, subsidiariamente, violação ao art. 619, do CPP.
+Pretende, ao final, a cassação da decisão do juízo de primeiro grau que concedeu o benefício da progressão de regime ao apenado.
+Apresentadas as contrarrazões (fls. 735 - 746), o recurso foi admitido na origem (fls. 749 - 754) e os autos encaminhados a esta Corte Superior.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 770 - 771).
+É o relatório.
+Decido.
+Consta dos autos que o juízo da execução deferiu o pedido da defesa para progressão do regime do apenado para o semiaberto (fls. 628 - 632).
+Em segunda instância, o eg. Tribunal a quo negou provimento ao agravo em execução penal ministerial para manter a decisão do juízo da execução (fls. 688 - 692).
+A questão a ser analisada cinge-se à verificação do preenchimento do requisito subjetivo para fins de progressão do regime.
+O eg. Tribunal a quo, no que importa ao caso, assim se manifestou sobre o ponto (fls. 691, destaquei):
+"De fato, de acordo com o atestado de conduta carcerária (fl. 570), o apenado ostenta conduta plenamente satisfatória e não possui procedimentos administrativos. Em relação ao argumento ministerial de que o agravado cometeu faltas graves no curso da execução, destaco que a última indisciplina foi homologada em agosto de 2018 (fl. 596). Por conseguinte, na situação em comento, não se mostra proporcional a consideração "ad aeternum" dos episódios em desfavor do apenado.
+Em suma, entendo que resta preenchido o requisito subjetivo necessário para a progressão do regime prisional, não merecendo reforma a decisão hostilizada."
+Inicialmente, consigne-se que, para a concessão do benefício da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112, da Lei de Execução Penal, com redação dada pela Lei n. 10.792/2003, podendo as instâncias ordinárias, excepcionalmente, diante das peculiaridades do caso concreto, determinar a realização de exame criminológico para aferir o mérito do apenado à progressão de regime, desde que essa decisão seja adequadamente motivada. Nesse sentido: HC n. 280.187/SP, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 8/5/2014; HC n. 239.091/DF, Quinta Turma, Rel. Min. Gilson Dipp, DJe de 20/6/2012; Súmula n. 439/STJ; Súmula vinculante n. 26/STF; v.g..
+Do excerto acima, verifica-se que o julgado está firmado no fato de que a falta grave cometida no curso da execução se deu há considerável intervalo de tempo de modo que não deve ser considerado para fins de preenchimento do requisito subjetivo a fim de concessão da progressão do regime.
+Entretanto, cumpre ressaltar que não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Portanto, ausente fundamentação idônea para a concessão da progressão de regime do réu.
+De fato, nos termos da jurisprudência consolidada no âmbito deste Superior Tribunal, é "correto o indeferimento dos pedidos de progressão de regime e livramento condicional baseado em aspectos desfavoráveis do exame criminológico e no cometimento de faltas graves no curso da execução penal. Ausência do preenchimento do requisito subjetivo pelo paciente. Precedentes." (AgRg no HC 626.064/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 12/02/2021).
+Nesse sentido:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. FALTAS GRAVES. AUSÊNCIA DE CUMPRIMENTO DO REQUISITO SUBJETIVO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O art. 112 da Lei de Execução Penal exige, para a concessão da progressão de regime, o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento
+carcerário).
+2. Na hipótese, as instâncias ordinárias entenderam que o caso em questão requer cautela, diante do histórico prisional do agravante, que cometeu faltas disciplinares graves, em 2013 e 2017, além de uma falta média, em 2015.
+3. Embora o agravante tenha cumprido o requisito temporal para progressão de regime, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, o histórico prisional do apenado. Precedentes.
+4. Agravo regimental desprovido." (AgRg no HC 627.540/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 18/12/2020, grifei).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. ENUNCIADO N. 439 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. COMETIMENTO DE FALTA GRAVE NO CURSO DA EXECUÇÃO. FUNDAMENTAÇÃO CONCRETA. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A determinação de submissão do ora paciente a exame criminológico para progredir de regime prisional está devidamente fundamentada em elementos concretos da execução, especialmente na existência de falta grave (fuga), em consonância com o enunciado n. 439 da Súmula do STJ. Precedentes.
+3. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+4. Habeas corpus não conhecido." (HC 556.422/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 23/03/2020, grifei)
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. FALTAS GRAVES. AUSÊNCIA DE REQUISITO SUBJETIVO. LIMITAÇÃO DO
+PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de que, malgrado não interrompa o prazo para fins de livramento condicional (Súmula/STJ n. 441), a prática de falta grave impede a concessão do aludido benefício, por evidenciar a ausência do requisito subjetivo exigido durante a execução da pena, nos termos do disposto no art. 83, III, do Código Penal.
+2. Segundo entendimento fixado por esta Corte, não se aplica limite temporal para a análise do preenchimento do requisito subjetivo, devendo ser considerado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+3. Desse modo, no caso concreto, o cometimento de 2 (duas) faltas graves durante a execução penal é causa suficiente para o indeferimento do benefício legal, consoante exposto no art. 83, III, do Código Penal.
+4. Agravo regimental a que se nega provimento." (AgRg no HC 417.233/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 1º/12/2017, grifei).
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial, nos termos da fundamentação retro, para indeferir o pedido de progressão de regime do recorrido.
+P. e I.
+EMENTA
+EXECUÇÃO PENAL. RECURSO ESPECIAL. PROGRESSÃO DE REGIME. PLEITO MINISTERIAL DE AFASTAMENTO DO BENEFÍCIO. ACOLHIMENTO. PRÁTICA DE FALTA DISCIPLINAR DE NATUREZA GRAVE, NO CURSO DA EXECUÇÃO. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. PRECEDENTES. SUMULA N. 568/STJ. INCIDÊNCIA. RECURSO ESPECIAL PROVIDO.
