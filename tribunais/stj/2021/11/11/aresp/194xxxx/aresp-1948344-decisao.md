@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto porITAÚ UNIBANCO S.A.contra decisão que inadmitiu recurso especial (e-STJ, fls. 358-359)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fls. 274-275):
+AGRAVO INTERNO (ART. 1.021, CPC/15) EM APELAÇÃO CÍVEL. RECURSO DO RÉU.
+1) AVENTADA IMPOSSIBILIDADE DE JULGAMENTO MONOCRÁTICO. INSUBSISTÊNCIA. DECISÃO PROFERIDA PELO RELATOR COM FULCRO NO ART. 932, VIII, DO CPC/15, C/C O ART. 132, XV, DO REGIMENTO INTERNO DO TRIBUNAL. OBSERVÂNCIA À REITERADA JURISPRUDÊNCIA DESTA CORTE. VIABILIDADE, ADEMAIS, DESUBMETER A MATÉRIA AO COLEGIADO POR MEIO DE AGRAVO INTERNO. AUSÊNCIA DE PREJUÍZO. RECLAMO ARREDADO NO TÓPICO.
+"Mesmo com o julgamento monocrático do recurso pelo Relator, tem a parte contrária o direito de submeter tal decisum ao Colegiado, de modo que, em casos tais, o contraditório apenas se vê diluído." (AInt n. 4022673-12.2019.8.24.0000, rel. Des. Gilberto Gomes de Oliveira, j. em 20.02.2020).
+2) ALMEJADA REFORMA DA MONOCRÁTICA TERMINATIVA QUE NEGOU PROVIMENTO AO APELO DO RÉU. ALEGADA FALTA DE CONDUTA ILÍCITA ENSEJADORA DE ABALO MORAL. INSCRIÇÃO INDEVIDA DO DEMANDANTE NOS ÓRGÃOS DE PROTEÇÃO CREDITÍCIA. AUSÊNCIA DE ELEMENTOS REVELADORES DA ORIGEM DO DÉBITO. ILICITUDE DA CONDUTA CARACTERIZADA. DANO MORAL PRESUMIDO. RECLAMO DESACOLHIDO NO TÓPICO.
+3) TENCIONADA EXCLUSÃO DA MULTA APLICADA EM SEDE DE EMBARGOS DE DECLARAÇÃO. FALTA DE MÁCULAS NO DECISÓRIO. NÍTIDO PROPÓSITO DE REDISCUTIR AS MATÉRIAS. MULTA MANTIDA.
+4) APLICAÇÃO EX OFFICIO DE MULTA. INTELIGÊNCIA DO ART. 1.021, § 4º, DO CPC/15.
+5) HONORÁRIOS SUCUMBENCIAIS RECURSAIS. FIXAÇÃO EM SEDE DE AGRAVO INTERNO. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. MAJORAÇÃO, CONTUDO, INVIÁVEL. VERBAESTIPULADA NO LIMITE MÁXIMO. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 312):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. RECURSO DO RÉU.
+1) ALEGADA OMISSÃO NO JULGADO. PROVA DA ORIGEM DO DÉBITO. INOCORRÊNCIA. RECLAMO INTERPOSTO COM NÍTIDO PROPÓSITO DE REDISCUSTIR A MATÉRIA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA EX OFFICIO. INTELIGÊNCIA DO ART. 1.026, § 2º, DO CPC/15. PRETENSÃO RECHAÇADA.
+2) HONORÁRIOS SUCUMBENCIAIS RECURSAIS. FIXAÇÃO EM SEDE DE EMBARGOS DE DECLARAÇÃO. PRECEDENTES. MAJORAÇÃO, CONTUDO, INVIÁVEL. VERBA ESTIPULADA NO LIMITE MÁXIMO.
+RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, orecorrente, com fulcro nas alíneas a e c do permissivo constitucional, apontoudivergência jurisprudencial e violação ao art. 1.022, II, do CPC/2015.
+Sustentou a existência de omissão no aresto recorrido, argumentando que o Tribunal de origem deixou de se manifestar a respeito da origem da dívida.Aduziu que, de acordo com as provas acostadas aos autos, a quantia existente na conta-corrente do recorrido refere-se a valor repassado pelo banco para cobrir dívida assumida pelo agravado.
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 358-359).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 366-377).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No apelo excepcional, a primeira tese defendida pelo recorrente refere-se à existência de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+Desse modo, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, observa-se que o aresto recorrido apresenta suficiente acerca da questão acima delimitada.
+Confira-se trecho do acórdão impugnado(e-STJ, fls. 281-282):
+O apelante alega que agiu no exercício regular de um direito, não sendo possível indenização por danos morais.
+Discorre que (fl. 04) "o Banco providenciou o crédito na conta corrente do agravado mediante o histórico de "RECLASSIF SDO DEVEDOR", a fim de baixar tais valores para liquidação, conforme regulamentação aplicável."
+ ..
+Na inicial, o autor assevera que foi indevidamente inscrito nos órgãos restritivos pelo demandado, por força do suposto inadimplemento de um pacto firmado com a pessoa jurídica da qual é sócio (contrato n. 000848300153238), com vencimento em 10.08.2018, no valor de R$ 37,49 (trinta e sete reais e quarenta e nove centavos). Para comprovar as alegações, o postulante acostou o documento com a inscrição indevida (informação 5, evento 1), datado de 09.11.2018.
+Instada a responder a ação, a instituição financeira argumenta que o demandante figurou como devedor solidário do contrato de abertura de conta corrente pessoa jurídica, do qual se originou o débito, tendo a empresa utilizado o LIS (Limite Itaúpara Saque). Afirma, portanto, que a cobrança é relativa ao uso do limite disponibilizado em conta bancária da firma.
+Em reforço argumentativo, o demandado acostou o contrato de abertura de conta corrente em nome da WWJ Importação e Exportação EIRELI, que o demandante assinou como devedor solidário (evento 33).
+Nada obstante, atinente à existência da dívida, o demandado deixou de trazer aos autos qualquer adminículo de prova. O réu juntou o que seria o extrato bancário da conta corrente da empresa (evento 18), no qual é possível aferir-se que houve lançamentos de débitos sob a rubrica "TAR CONTA CERTA" em fevereiro de 2018 e julho de 2018 (fls. 03 e 08). Posteriormente, houve "ESTORNO TAR CONTA CERTA "em agosto do mesmo ano (fl. 09), "RESSARCIMENTO COMERCIAL" no mês de setembro (fl. 10) e duas "RECLASSF SDO DEVEDOR" em outubro (fl. 11), zerando o saldo devedor da conta.
+Embora com a prova da inexistência do débito na aludida conta, o banco promoveu a anotação do nome do autor em 27.10.2018 no SCPC, e no dia 02.11.2018 perante a SERASA (evento 18, doc. s 34 e 35).
+No julgamento dos embargos de declaração, também foram expostos os seguintes argumentos (e-STJ, fl. 320):
+Embora o agravante alegue que o saldo da conta do autor fora zerado por procedimento aplicado pelo próprio banco, deixou de comprovar as alegações. Como visto, o réu juntou o que seria o extrato bancário da conta corrente da empresa (evento 18), no qual se afere que houve lançamentos de débitos sob a rubrica "TAR CONTA CERTA" em fevereiro de 2018 e julho de 2018 (fls. 03 e 08). Posteriormente, houve "ESTORNO TAR CONTA CERTA" em agosto do mesmo ano (fl. 09), "RESSARCIMENTO COMERCIAL" no mês de setembro (fl. 10) e duas "RECLASSF SDO DEVEDOR" em outubro (fl. 11), zerando o saldo devedor daquela conta.
+Observa-se assim que, em momento algum, o insurgente logrou apontar qualquer mácula no aresto, requisito essencial para interposição do recurso (art. 1.022, do CPC/15). Exsurge manifesto o seu intuito de outra vez rediscutir as questões adrede decididas.
+Portanto,apresentando o Tribunal originário os fundamentos pelos quais chegou à conclusão dos fatos expostos nos autos, inexiste violação ao art. 1.022 do CPC/2015.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
