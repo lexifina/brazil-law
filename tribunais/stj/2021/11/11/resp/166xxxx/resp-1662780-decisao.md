@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por WANDERSON LUIZ MEDEIROS com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO - EXECUÇÃO FISCAL - IMPUGNAÇÃO AO LANÇAMENTO - DIES A QUO DO PRAZO PRESCRICIONAL: CIÊNCIA DA EXECUTADA DO RESULTADO DEFINITIVO DE SEU RECURSO ADMINISTRATIVO - PRESCRIÇÃO INOCORRENTE.
+1. SÚMULA 106/STJ: "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da argüição de prescrição ou decadência." 2. Impugnado administrativamente o crédito, o prazo prescricional começa a ser contado com a ciência do devedor sobre o resultado definitivo de seu recurso administrativo. .Ajuizada a EF e determinada a citação dentro do prazo prescricional, a exequente não teve culpa pela demora na citação. Aplicável a SÚMULA 106/STJ.
+3 Apelação provida.
+4. Peças liberadas pelo Relator, em Brasília, 25 de novembro de 2014., para publicação do acórdão.
+Foi atribuído à causa o valor de R$ 1.485,04.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta, inicialmente, violação do art. 535, II, do CPC/1973, alegando, em síntese, omissão no acórdão recorrido porquanto deixou-se de se pronunciar sobre a aplicabilidade ou não do instituto da prescrição nos moldes do contido no art. 1º-A da Lei nº 9.873/1999 ao caso dos presentes autos.
+Alega, no mérito, afronta ao mesmo art. 1º-A da Lei nº 9.873/1999 sustentando a ocorrência da prescrição da multa aplicada ao recorrente por se tratar de ação punitiva a ser imposta pela Administração Pública Federal, que tem prazo inicial a contar do término regular do processo administrativo.
+É o relatório. Decido.
+De início, cumpre registrar que como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se, em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Assiste razão ao recorrente, no que toca à preliminar de ofensa ao art. 535, II, do CPC/1973.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, a ocorrência ou não de prescrição à luz do art. 1º-A da Lei 9.873/1999. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou especificamente a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o referido dispositivo legal, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA. MULTA ADMINISTRATIVA. PLATAFORMA DE PRODUÇÃO E ESCOAMENTO DE PETRÓLEO E GÁS NATURAL. RENOVAÇÃO DE LICENÇA. CONTROVÉRSIA ACERCA DA APLICABILIDADE DA RESOLUÇÃO 237/97 DO CONAMA. ALEGADAS OMISSÕES. OFENSA AO ART. 535 DO CPC/73 CARACTERIZADA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Na origem, trata-se de ação anulatória, ajuizada por Petrobrás - Petróleo Brasileiro S/A contra o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, objetivando a declaração de nulidade do auto de infração 352363-D e da multa administrativa que lhe fora aplicada pela autarquia. O Tribunal de origem manteve a sentença de procedência da ação.
+III. Constata-se a omissão quando o Tribunal deixa de apreciar questões relevantes para o julgamento, suscitadas pelas partes ou examináveis de ofício, ou quando deixa de se pronunciar acerca de algum tópico da matéria submetida à sua cognição, em causa de sua competência originária ou obrigatoriamente sujeita ao duplo grau de jurisdição.
+IV. Nesse contexto, não tendo sido apreciadas, no acórdão dos Embargos Declaratórios opostos, em 2º Grau, pelo ora agravado, as alegações por ele expendidas sobre matéria relevante à solução da controvérsia, merece ser mantida a decisão agravada, que reconheceu a ofensa ao art. 535 do CPC/73, entendendo necessária a anulação do acórdão recorrido, determinando o retorno dos autos ao Tribunal de origem, para que profira nova decisão, com a análise das alegações da parte ora agravada.
+V. Agravo interno improvido.
+(AgInt no REsp 1537418/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/06/2020, DJe 10/06/2020)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
