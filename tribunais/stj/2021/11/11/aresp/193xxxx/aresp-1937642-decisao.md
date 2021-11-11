@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto porINSTITUTO NACIONAL DO SEGURO SOCIALcontra decisão que inadmitiu o recurso especial fundado no art. 105, III, "a", da Constituição Federal, que objetiva reformar o acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO,assim ementado:
+EMENTA: PROCESSUAL CIVIL, CONSTITUCIONAL E ADMINISTRATIVO. REMESSAOFICIAL E APELAÇÃO. MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA ADCAUSAMREQUERIMENTO ADMINISTRATIVO PARA A CONCESSÃO DE BENEFÍCIOASSISTENCIAL. VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. PRINCÍPIOS DA RAZOÁVELDURAÇÃO DO PROCESSO, DA EFICIÊNCIA E DA PROTEÇÃO À DIGNIDADE DA PESSOAHUMANA. PRAZO. MULTA.
+1. Remessa oficial e apelação interposta pelo INSS, em face da sentença que concedeu a segurança, para determinarà autoridade coatora que decida o requerimento administrativo de benefício assistencial à pessoacom deficiência, protocolado pela parte impetrante, no prazo máximo de 20 (vinte) dias úteis, contadosda decisão que apreciou o pedido de liminar e já considerada a necessidade de perícia e de outrosatos de instrução.
+2. Segundo o art. 6º, § 3º, da Lei nº 12.016/2009, " considera-se autoridade coatora aquela que tenha ". No caso, compete ao Gerente praticadoo ato impugnado ou da qual emane a ordem para a sua prática Executivodo INSS analisar o requerimento administrativo protocolado pela parte impetrante. Desse modo, rejeita-se a alegação de ilegitimidade passiva . ad causam
+3. Não é o caso de se incluir a UNIÃO no polo passivo da lide, porque a competência do INSS para examinaros requerimentos de benefícios previdenciários/assistenciais se manteve inalterada, a despeito damudança do cargo de Perito Médico Federal ao quadro de pessoal do Ministério da Economia (Lei nº13.846/2019).
+4. Deve ser rejeitada a alegação de inadequação da via eleita, porque o único aspecto fático a ser comprovado, neste mandado de segurança, é a demora na apreciação do pleito administrativo, considerandoque, nesses casos, este órgão julgador vem entendendo que o comprovante de requerimento administrativojunto ao INSS é bastante para demonstrar a delonga excessiva. Na hipótese, esse documentofoi juntado com a exordial, encontrando-se, assim, o writ suficientemente instruído, não havendo necessidade de dilação probatória.
+ ..
+18. A alegação relacionada à repercussão da pandemia do COVID19 para os serviços previdenciários não obstao julgamento do mérito desta demanda, tratando-se de questão a ser suscitada e examinada em fase decumprimento de sentença, inclusive, eventualmente, para os fins do § 1º do art. 537 do CPC/2015.
+19. Remessa oficial e apelação parcialmente providas, para fixar o prazo de 45 (quarenta e cinco) dias, parao INSS analisar o requerimento administrativo.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente aponta como violadooart. 6º, §5º, da Lei n.12.016/09, sustentando, em síntese, que:
+Doutos Julgadores, a parte impetrante pretende a conclusão do requerimento administrativo no qual postulaa concessão do benefício assistencial de amparo ao deficiente para cujo deferimento faz-se imprescindívela realização das competentes perícias médica e social.
+Como se sabe, contudo, atualmente, a perícia médica federal está completamente desvinculada dos quadrosda autarquia federal, pertencendo atualmente na estrutura da União Federal (Ministério , consoante dispõem os arts. 18, 19 e 28 da Medida Provisória nº 871/2019, convertida nada Economia)Lei nº 13.846/2019.
+Vale dizer, o processo administrativo no caso concreto é ATO COMPLEXO que demanda análise demais de um ente. Atualmente, o serviço de perícia médica NÃO está mais vinculado ao INSS, motivo pelo qual verifica-se que a autoridade coatora não tem legitimidade para responder pela perícia médica.
+Esclarece-se que a análise administrativa dos benefícios pelo INSS se restringe ao acerto de cadastro, dos vínculos e remunerações do segurado, e à verificação do preenchimento dos requisitos necessários para a concessão ou indeferimento, dentre estes a implementação do tempo de contribuição.
+ ..
+Diante do exposto, percebe-se que se está diante de ato administrativo complexo, já que o ato de perícia médica depende, necessariamente, de outro órgão federal, com autonomia e independência administrativa em relação à autarquia.
+Após decisum que inadmitiu o recurso especial, com base na Súmula 7 do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Sobre a alegada violação doart.6º, §5º, da Lei n. 12.016/09, sob viés pretendido pelo recorrente, qual seja, de que o"processo administrativo no caso concreto é ato complexo",verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dodispositivolegalsob oviés da referida tese jurídica, pelo que carece o recurso do indispensável requisito do prequestionamento, fundamental para a interpretação normativa exigida.
+Incide na hipótese o óbice constante da Súmula n. 282 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Ademais, oreexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, qual seja, de que compete ao Gerente Executivo do INSS analisar o requerimento administrativo protocolado pela parte impetrante, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
