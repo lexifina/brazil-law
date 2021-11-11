@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por COMERCIAL CAÇADOR DE PRODUTOS ALIMENTÍCIOS LTDA. e OUTRO, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiramcontra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 210):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL -CÉDULA DE CRÉDITO BANCÁRIO -EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA -INÉPCIA DA INICIAL NÃO VERIFICADA - PEDIDO DE PAGAMENTO QUE DECORRE LOGICAMENTE DA INADIMPLÊNCIA NÃO IMPUGNADADOS AGRAVANTES -AINDA QUE EQUIVOCADO O FUNDAMENTO LEGAL DA EXECUÇÃO, A CONVALIDAÇÃO RECLAMA APENAS A DEVOLUÇÃO DO PRAZO LEGAL DO ART. 829, CAPUT, DO CPC AOS DEVEDORES, AUSENTE QUALQUER OUTRO DANO PROCESSUAL -ORIENTAÇÃO FIRMADA EM RECURSO REPETITIVO DO STJ E EM SÚMULA APROVADA PELO ÓRGÃO ESPECIAL DO TRIBUNAL NO SENTIDO DE QUEA CÉDULA DE CRÉDITO BANCÁRIO CONSUBSTANCIA TITULO EXECUTIVO - DEMAIS MATÉRIAS QUE ESCAPAM AOS LIMITES DA DEFESA EM QUESTÃO, POR NÃO CONFIGURAROBJEÇÃO PROCESSUAL, DEMANDANDO INCOMPATÍVEL DILAÇÃO PROBATÓRIA.- RECURSO PROVIDO EM PARTE.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 242-252-409).
+No recurso especial, os recorrentes apontaramviolação dos arts. 330, I e III, 485, I e VI, 801 e art. 924do CPC;2015.
+Esclareceram que, mesmo reconhecendo o equívoco no manejo da ação e no rito procedimental escolhido, tendo em vista que não se tratava de execução hipotecária, mas sim demanda executiva desimples Cédula de Crédito Bancário, não foi determinada a extinção do feito sem resolução de mérito.
+Arguiram que,em que pese ter sido aferida e incompatibilidade do rito previsto em legislação especial indicado na inicial (Lei n. 5.741/1971), determinou-se apenas a concessão de novo prazo para pagamento, defesa e prosseguimento do feito, contrariando os dispositivos legais que inevitavelmente culminariam na extinção da demanda.
+Enfatizaram que asimples concessão de novo prazo, de acordo com o rito processual adequado, não é suficiente para convalidar a inépcia da inicial, que permanecerá absolutamente incompatível com o rito processual previsto, acarretando a vedação do art. 492 do CPC/2015, poisas decisões que seguirem rito processual diverso daquele pedido na inicial concederão medida diversa da pedida pelo demandante. Suscitaram ofensa ao contraditório, ampla defesa e carência de interesse processual. Defenderam o provimento do recurso especial(e-STJ, fls. 220-234).
+Nas razões do agravo, os agravantes impugnam os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 260-270).
+Contraminuta apresentada (e-STJ, fls. 275-279).
+Brevemente relatado, decido.
+O acórdão concluiu não vislumbrar a hipótese de extinção do feito sem resolução do mérito em razão da equivocada escolha derito procedimental inadequado para o manejo da ação de execução por quantia certa contra devedor solvente. Isso porque não se observouprejuízo concreto aos agravantes, haja vista que o imóvel objeto da garantia não chegou a ser levado a leilão com o decurso do prazo de 24 (vinte e quatro)horas para pagamento.
+Também justificou o aresto que o equívoco verificado com o manejo da lide poderia ser convalidadocom adevolução do prazo previsto no art.829 do CPC/2015 - citação para pagar a dívida.
+Observe-se (e-STJ, fls. 213 e 217):
+Com efeito, a aplicação da Lei nº 5.741/71 se circunscreve à cobrança de crédito hipotecário vinculado ao Sistema Financeiro da Habitação, ou seja, de financiamento celebrado para aquisição de bem imóvel.
+Não é, à evidência, a situação do caso concreto, uma vez que a cédula de crédito bancária executada, embora garantida por hipoteca, não possui natureza ou finalidade imobiliária.
+Ainda assim, não se justifica a extinção do processo, com fundamento no art. 485 do CPC, porque, a despeito da patente incompatibilidade dos ritos da execução hipotecária (disciplinada pela Lei nº 5.741/71) e a execução por quantia certa contra devedor solvente (art. 824 e ss. do CPC), não consubstanciado prejuízo concreto aos agravantes, pois o imóvel objeto da garantia não chegou a ser levado a leilão com o decurso do prazo de 24 horas para pagamento.
+A convalidação da irregularidade, nesse cenário, traduz medida de economia e celeridade, bastando, para assegurar o devido processo legal e afastar definitivamente a potencialidade de dano processual, a devolução do prazo previsto no art. 829 do CPC.
+ ..
+Ante o exposto, dá-se parcial provimento ao recurso apenas para determinar a devolução do prazo previsto no art.829, caput, do CPC, aos agravantes.
+As ponderações a respeito da ausência de prejuízo para os insurgentes, com o escolha pelo autor do procedimento executivo inadequado, e a possibilidade de convalidação da ação,foram tomadas com base na apreciação fática da causa, a atrair o óbice da Súmula 7/STJ.
+Na mesma linha do aresto estadual, vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.EMBARGOS À EXECUÇÃO. DECISÃO QUE RECONHECEU A INADEQUAÇÃO DO CUMPRIMENTO DE SENTENÇA, DECLARANDO SUA NULIDADE COM A CONSEQUENTE RETOMADA DO PROCESSO EXECUTÓRIO. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE. AUSÊNCIA DE PREJUÍZO. NULIDADE NÃO RECONHECIDA.HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Embargos à execução no bojo dos quais foi proferida decisão reconhecendo a inadequação do cumprimento de sentença e declarando sua nulidade com a consequente retomada do processo executório.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Para se reconhecer vício que cause a anulação de ato processual, exige-se a existência de prejuízo, ainda que se trate de nulidade absoluta, em obediência ao princípio da economia processual.Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1806734/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.AUSÊNCIA DE CITAÇÃO. DECLARAÇÃO DE NULIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO PREJUÍZO. APELAÇÃO. INTEMPESTIVIDADE. CARGA DOS AUTOS PELO ADVOGADO DA PARTE. CIÊNCIA INEQUÍVOCA.
+1. A jurisprudência do STJ firmou o entendimento no sentido de que a nulidade somente é declarada quando demonstrado o efetivo prejuízo à parte, em face do princípio da instrumentalidade das formas (pas de nullité sans grief).
+2. "O Superior Tribunal de Justiça tem entendimento de que a carga dos autos pelo advogado da parte, antes de sua intimação por meio de publicação na imprensa oficial, enseja a ciência inequívoca da decisão que lhe é adversa, iniciando a partir daí a contagem do prazo para a interposição do recurso cabível" (AgInt no AREsp 1.483.050/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17.9.2019, DJe de 3.10.2019).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1151934/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. AUSÊNCIA DE PREJUÍZO COM A ESCOLHA DE PROCEDIMENTO EXECUTIVO INADEQUADO E POSSIBILIDADE DE CONVALIDAÇÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
