@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AMANDA REGINA CALDEIRA DA SILVAcontra acórdão doTribunal de Justiça do Estado de São Pauloproferido no HC n.2208337-28.2021.8.26.0000.
+Narra aImpetrante que aPaciente foi denunciada pela suposta prática do crime previsto no art. 158 do Código Penal.
+A Defesa impetrou ohabeas corpusoriginário, cuja ordem denegadopelo Tribunal de local.
+Nas razões destewrit, a parteImpetranteafirma que aPaciente sofre de constrangimento ilegal porque a denúncia teria sido baseada "exclusivamente na palavra da "vítima" e em fragmentos de suposta mensagem SMS" (fl. 6). Afirma que é necessário que a Defesa tenha acesso a integralidade das conversas entre as partes.
+Sustenta, ainda, a atipicidade da conduta diante da suposta grave ameaça, na medida em que a Acusada"afirmou revelar algo que dizia ser verdade e que realmente havia elementos a respaldá-la; se é certo que a divulgação disso poderia acarretar algum transtorno à vítima, não existe gravidade nesse mal, porque se cuidava da divulgação de aspectos da vivência íntima de ambos" (fl. 9).
+Por fim, objetiva a aplicação do princípio da insignificância porque "a paciente supostamente constrangeu a "vítima" a realizar transferência de R$500,00 (quinhentos reais), o que corresponde a menos de 50% do valor do salário-mínimo" (fl. 12).
+Pede, liminarmente e no mérito, o trancamento da ação penal.
+É o relatório. Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos.
+Com efeito, verifico que o Impetrante nãojuntou aos autos as cópias das peças processuais necessárias à compreensão da controvérsia, como acópia da exordial acusatória e a cópia do recebimento da denúncia.
+Ocorre que, como se sabe, a"adequada instrução dohabeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que omandamusvenha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas nowrit" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX - Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, o pedido não pode ser conhecido, também porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto, no mais, que não há óbice ao manejo de novowritpara a análise da controvérsia, desde que instruído adequadamente com a documentação devida.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
