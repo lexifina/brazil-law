@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto porVantuil Ezequiel Eliascontra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório.
+Nos termos do que dispõem os arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos: (a) inexistência de violação do art. 1.022 do CPC/2015; (b) Súmula 83/STJ; (c) Súmula 282/STF; (d) Súmula 7/STJ.
+Ocorre que o agravante não impugnou, especificamente, os fundamentos referentes à Súmulas 7/STJ e282/STF, o que acarreta o não conhecimento do agravo.
+Nesse sentido:AgRg no AREsp 581.718/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 22/10/2014; AgRg no AREsp 826.329/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 29/3/2016; AgRg no AREsp 831.877/PB, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 29/3/2016; AgRg no AREsp 93.737/PB, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 26/2/2016; AgRg no AREsp 704.988/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 10/9/2015; AgRg no AREsp 802.217/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/12/2015; e AgRg no AREsp 834.978/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/4/2016.
+Confiram-se, ainda, os seguintes julgados do Supremo Tribunal Federal: ARE 935.727 AgR/RS, Rel. Ministra Rosa Weber, Primeira Turma, DJe 15/4/2016; ARE 782.043 AgR/RS, Rel. Ministro Luiz Fux, Primeira Turma, DJe 10/12/2015; ARE 678093 AgR, Rel. Ministro Teori Zavascki, Segunda Turma, DJe 20/4/2016.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias na vigência do CPC/2015, majoro os honorários advocatícios para o máximo da respectiva faixa aplicada, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual gratuidade da justiça (§ 3º do artigo 98 do CPC/2015).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015;c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
