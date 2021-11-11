@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de GUILHERME SILVA DE SANTANA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, nos autos da apelação criminal n. 014369-53.2018.8.19.0037.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado, mais o pagamento de 1.332 (mil trezentos e trinta e dois) dias-multa, como incurso nas iras do art. 35, caput, c/c art. 40, IV e VI, da Lei n. 11.343/2006 (fls. 89-114).
+Inconformadas, a defesa e a acusação interpuseram apelações perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso acusatório e proveu o apelo defensivo, a fim de redimensionar a pena do paciente em 04 (quatro) anos e 01 (um) mês de reclusão e 952 (novecentos e cinquenta e dois) dias-multa, consoante voto condutor do v. acórdão de fls. 14-70.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois o paciente faz jus à aplicação da atenuante da confissão espontânea.
+Pugna pela fixação de regime inicial mais brando.
+Requer, assim, a concessão da ordem.
+Não houve pedido liminar
+Informações prestadas às fls. 150-206.
+O Ministério Público Federal, às fls. 210-212, manifestou-se pela concessão da ordem, em parecer assim ementado:
+"Habeas Corpus. Associação para o tráfico. Dosimetria. Constrangimento ilegal evidenciado. A condenação do paciente está expressamente fundada, dentre outros fatores, em sua confissão extrajudicial, de modo que incide a atenuante do artigo 65, III, "d", do CP. Precedentes. Parecer pela concessão, a fim de diminuir a pena do paciente para 3 anos e 6 meses de reclusão, em regime inicial semiaberto, tendo em vista a existência de antecedente por tráfico de drogas." (fl. 210).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a aplicação da atenuante da confissão espontânea; e ii) a fixação de regime inicial mais brando.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Em relação ao crime de associação para o tráfico, diante dos maus antecedentes observados, mas com a redução da fração para o patamar de 1/6(um sexto), nos termos acima expostos, fixa-se a pena-base em 03 (três) anos e06 (seis) meses de reclusão e 816 (oitocentos e dezesseis) dias-multa, à razão unitária mínima.
+Ausentes circunstâncias agravantes e atenuantes a serem consideradas.
+Inexistem causas de diminuição de pena a serem consideradas. Contudo, diante do afastamento da causa de aumento de pena prevista no artigo40, IV, da Lei 11.343/2006, mas da mantença em relação à majorante prevista no inciso VI do mesmo dispositivo legal, aumenta-se a pena, nesta terceira fase, em 1/6 (um sexto), fixando-se a reprimenda definitiva em 04 (quatro) anos e 01(um) mês de reclusão e 952 (novecentos e cinquenta e dois) dias-multa, à razão unitária mínima.
+Em relação aos réus apelantes, Luã e Guilherme, mantém-se o regime prisional, inicialmente, fechado, em relação ao primeiro e ao terceiro, em razão das circunstâncias judiciais negativamente valoradas, e, em relação ao segundo, pelo quantum da pena privativa de liberdade aplicada" (fls. 63-64).
+Quanto ao pedido de aplicação da atenuante da confissão espontânea, observa-se que a referida tese não foi enfrentada pela eg. Corte de origem.
+Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Nesse sentido: HC n. 480.651/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 10/04/2019; e HC n. 339.352/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/08/2017.
+No mais, a jurisprudência do STJ é iterativa no sentido de que, ainda que o condenado seja primário e o quantum de pena aplicada seja superior a 04 (quatro) anos e não exceda a 08 (oito) anos, justifica-se o regime inicial fechado, quando presente circunstância judicial desfavorável. Confira-se: HC n. 403.823/SP, Quinta Turma, de minha relatoria, DJe de 11/10/2017; e AgRg no AREsp n. 972.884/MT, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 23/10/2017.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
