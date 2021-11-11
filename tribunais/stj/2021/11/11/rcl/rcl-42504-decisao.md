@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por OFTALMOSUL HOSPITAL DE OLHOS LTDA.contra decisão exarada pela 1ª Turma do Tribunal Regional do Trabalho da 18ª Região na qual alegao descumprimento da decisão proferida nos autos do REsp nº 1.799.343/SP, objeto de deliberação no IAC 5.
+Expõe, em resumo, que o contrato entabulado entre as partes é de autogestão de modo que a competência para exame da controvérsia compete à Justiça Comumpara processar e julgar as demandas relativas a planos de saúde na modalidade de autogestão.
+Argumenta, outrossim, que "(..)A decisão regional está em dissonância com a jurisprudência desta c. Corte a respeito das consequências do artigo 31, caput, e § 2º, da Lei 9.656/98, porquanto estende indevidamente ao ex-empregado o benefício do plano de saúde, a despeito da ruptura do pacto laboral."
+Pede o acolhimento da reclamação para que seja "reformado ou anulado o acórdão ou a decisão dos embargos de declaração para afastar a competência da justiça do trabalho e julgar extinto o processo ou para declinar da competência para a justiça comum."
+É o relatório.
+Decisão.
+1. De início, registra-se que, nos termos dos artigos 105, I, "f", da Constituição Federal, 13 da Lei n. 8.038/90 e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Ademais, consoante a jurisprudência desta eg. Corte Superior, o ajuizamento da reclamação, que constitui medida correicional, pressupõe a existência de um comando positivo desta Corte Superior cuja eficácia deva ser assegurada, protegida e conservada (ut. Rcl 2784/SP, 2.ª Seção, Relator Ministro João Otávio de Noronha, DJ 22/05/2009).
+A propósito, confira-se: Rcl 2784/SP, 2ª Seção, Rel. Min. João Otávio de Noronha, DJ de 22.5.2009.
+Com esse norte hermenêutico,na hipótese dos autos, não se constata a existência de decisão proferia por esta Corte Superiorem benefício da reclamante, cuja autoridade esteja sendo desrespeitada, de modo a autorizar o processamento da presente reclamação, a fim de protegê-la e conservá-la.
+Na compreensão da reclamante, o r. juízo reclamado deixou de observar o comando exarado pelo STJ quando do julgamento do REsp 1.799.343/SP, o qual deu origem ao IAC n.º 5.
+Com efeito, "(..)se decidiu aqui nesta Corte que a reclamação não pode ser utilizada como sucedâneo de recurso cabível na origem, ainda que relativo à aplicação de tese estabelecida em incidente de assunção de competência, pois pressupõe estrita aderência entre o objeto reclamado e o conteúdo da decisão que se alega descumprida." (ut. RCL 40.378/PB, Rel. Min. Moura Ribeiro, DJe de 26/10/2021)
+Na mesma linha, vejam-se:Rcl nº 40914/PE,Rel. Min. NANCY ANDRIGHI, publicada em 9/9/2021;Rcl nº 41740/GO, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 25/05/2021.
+Destaca-se, na hipótese, que consoante afirma a própria reclamante "(..)Em 03/11/2021, o reclamante interpôs recurso de revista e, de forma concomitante, e dentro do prazo legal, interpões a presente reclamação perante o Egrégio Superior Tribunal de Justiça."(fl. 5), a revelar o caráter preponderantemente recursal da presente reclamação.
+2. Do exposto, com fundamento, com base no art. 34, XVIII, "a", do RISTJ, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se. Após, arquivem-se.
+Adverte-sea reclamanteque a interposição de recurso contra a presente decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos no NCPC.
