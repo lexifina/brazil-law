@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO, em que pretende a admissão de recurso especial manejado contra acórdão assim ementado:
+Apelação. Parcelamento com redução de multa. Previsão expressa em decreto e comunicado CAT. Possibilidade, desde que preenchidos os outros requisitos do Decreto instituidor do Parcelamento Especial. Recurso provido, com observação.
+No apelo raro, a recorrente, apontando divergência jurisprudencial e violação dos arts. 330, II, do CPC/2015, 106, 111, I, 138, 181, II, "d",do CTN, 317 do Código Civil,sustentou, em resumo, que, de acordo com a lei estadual de regência (art. 85-B da Lei n. 6.374/1989, com redação dada pela Lei n. 16.497/2017, regulamentado pelo Decreto n. 62.761/2017), o programa de recuperação fiscal discutido nos autos, denominado PEP/SP,não contempla a postulada redução de multa para créditos já inscritos em dívida ativa e cobrados em execução fiscal.
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial por entender incidente o óbice da Súmula 280 do STF e não demonstrado o dissídio jurisprudencial suscitado, não concordando a FESP com essa fundamentação.
+Oferecida contraminuta.
+O representante do Ministério Público Federal opina pelo desprovimento do recurso.
+Passo a decidir.
+Na origem, cuidam os autos de mandado de segurança impetrado pela empresa recorrida em que pediuo reconhecimento do direito à aplicação de multas com o percentual reduzido previstona Lei n. 16.497/2017 aos créditos que foram inscritos em dívida ativa em momento anterior.
+O magistrado de primeiro grau denegou a ordem.
+Na sequência, o TJ/SP deu provimento à apelação, vindo a reformar a sentença, com a seguinte motivação:
+O pedido recursal será provido.
+Deixo de analisar as contrarrazões por não guardarem relação com o objeto do processo. As contrarrazões apresentadas pela d. Procuradoria se referem a leis que não fazem parte deste processo. O Decreto 61.625/15 não é o parcelamento objeto deste mandamus, e é substancialmentediferente do Decreto 62.761/17.
+A jurisprudência já sedimentou o entendimento de que a norma tributária punitiva carrega carga eminentemente penal, e que é aplicável a retroatividade benigna. O artigo 106 do CTN foi recepcionado pela Constituição Federal de 1988 nos mesmos parâmetros. Isso fez com que em outros parcelamentos, como o REFIS federal, muitos contribuintes tenham pedido ao Judiciário para promover a readequação das multas dentro das parcelas pagas.
+No caso em testilha, nem seria necessária a intervenção do Judiciário, uma vez que a pretensão veiculada pela Impetrante é procedente por estar prevista expressamente no Decreto 62.761/17, em seu artigo 4º:
+ ..
+A exceção apontada relativa ao artigo 3º, inciso VI, se refere a débitos não inscritos em dívida ativa. O caso presente é de dívida ativa e ajuizada.
+A seu lado, o Comunicado CAT n. 16, de 08.08.2017, também prevê a possibilidade de reduzir as multas para os patamares da Lei16.497/17 ANTES de inclusão no parcelamento e fruição dos benefícios deste sobre as multas reduzidas. Prevê, inclusive, a possibilidade de que contribuintes que já aderiram ao parcelamento e pagaram a primeira parcela, possam pedir a revisão.
+Assim diz o comunicado:
+ ..
+Assim, não são necessárias grandes ilações hermenêuticas entre diversos princípios para confirmar se, no caso concreto, é possível ou não a cumulação da redução da multa pela retroatividade benigna com os benefícios de Parcelamento, uma vez que o próprio ente instituidor do parcelamento diz que isso é possível. E o fez através de decreto e de comunicado, emitidos justamente com intenção de sanar dificuldades desse tipo.
+Os decretos e os comunicados da administração tributária fazem parte do todo compreendido como conjunto normativo de legislação tributária, e vinculam o contribuinte e a administração fiscal (art. 96 e 100 do CTN).
+Seria até o caso de questionar se há interesse de agirprocessual, já que o direito se encontra plenamente positivado. Entretanto, como o Estado de São Paulo e a autoridade impetrada manifestaram discordância em contestação e agora em contrarrazões, verifica-se que há perigo concreto da parte ter seu pedido administrativo negado por esse motivo.
+Por outro lado, o Judiciário não pode fazer as vezes de órgão administrativo do Executivo Estadual e responder de forma positiva ou negativa ao pedido de revisão da parte (fls. 33/34), uma vez que há diversos outros requisitos que devem estar presentes para o seu deferimento, como, por exemplo, ter renunciado ao direito em que funda as ações, aderido ao parcelamento, e demais ônus acessórios que podem e devem ser exigidos para obtenção do benefício fiscal.
+Não há documentos a respeito disso no processo.
+Assim, por meu voto, dou provimento à apelação para conceder a segurança pedida, apenas para determinar que autoridade impetrada analise o pedido do Impetrante de incluir o crédito tributário n. 1.181.646.259 no PEP do Decreto 62.709/17 com as reduções de multa da lei nova cumuladas com os benefícios do Parcelamento, sem que o fato do débito já estar inscrito em dívida ativa e ajuizado o impeça. As demais condições do parcelamento, como a renúncia expressa às defesas, pagamento da primeira parcela e outras deverão ser observadas normalmente.
+Pois bem.
+Do que se observa, os apontados arts.330, II, do CPC/2015, 111, I, 138, 181, II, "d", do CTN e317 do Código Civil não foram efetivamente examinados no julgado estadual, carecendo o recurso especial, quanto a esses dispositivos, do requisitodo prequestionamento, nos termos da Súmula 282 do STF.
+Em relaçãoao mais, constata-se que a Corte estadual concedeu a segurança por compreender que a legislação estadualque regula o programa de recuperação fiscal járeconheceria o direito pleiteado pela impetrante. Em contrapartida, a Fazenda estadual defende que a lei de regência do referido programa não contemplaria a postulada redução da multa para os créditos já inscritos em dívida ativa.
+Ocorre que, segundo aSúmula 280 do STF, "por ofensa a direito local não cabe recurso extraordinário".
+Nesse contexto, a apontada violação da lei federal, se existente, seriameramente reflexa.A esse propósito, vide:REsp 1.779.222/SP, rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2018; AgInt no AREsp 1.105.881/SP, rel. Ministro Og Fernandes, Segunda Turma, DJe 21/03/2018; AgInt no AREsp 1.088.645/SP, rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 17/11/2017; AgInt no REsp 1.644.323/SP, rel. Ministra Regina Helena Costa, Primeira Turma, DJe 10/05/2017.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a" do RISTJ).
+Publique-se. Intimem-se.
