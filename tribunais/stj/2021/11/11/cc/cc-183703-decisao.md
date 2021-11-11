@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 1ª VARA DE OSASCO/SP, o suscitante, e o JUÍZO FEDERAL DA 5ª VARA DE JOINVILLE/SC, o suscitado.
+O Juízo Federal da 5ª Vara de Joinville/SC, em que foi ajuizada a execução fiscal, declinou da competência para o processamento do feito, sustentando, em essência, que a parte executada é domiciliada em Osasco/SP (e-STJ fls. 13/14). Por seu turno, o Juízo Federal da 1ª Vara de Osasco/SP, ora suscitante, defendeu que não cabe o reconhecimento de ofício de competência relativa (e-STJ fls. 4/12).
+Manifestação do Ministério Público Federal pela competência do suscitado (e-STJ fls. 145/151).
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, penso que assiste razão ao suscitante.
+Os autos, na origem, tratam de execução fiscal proposta pelo CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DA 3ª REGIÃO - CREF3/SC contra MARCO ANTÔNIO NOGUEIRA TRALDI para a satisfação dos créditos constantes da CDA acostada à exordial.
+Cumpre observar que, por ser relativa acompetência territorial, o juízo da execução não pode dela declinar, de ofício, como já sedimentado na Súmula 33 do STJ, que estabelece que "a incompetência relativa não pode ser declarada de ofício". Ademais, preconiza a Súmula 58 do STJ, in verbis: "Proposta execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada."
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. DOMICÍLIO DO DEVEDOR. COMPETÊNCIA TERRITORIAL. INCOMPETÊNCIA RELATIVA NÃO PODE SER DECLARADA DE OFÍCIO. SÚMULA 33/STJ. AUSÊNCIA DE EXCEÇÃO DE INCOMPETÊNCIA. SÚMULA 58/STJ.
+1. O foro competente para o ajuizamento da execução fiscal será o domicílio do réu, consoante a disposição contida no artigo 578, caput, do Código de Processo Civil. Por se tratar de competência relativa, a competência territorial não pode ser declarada ex officio pelo Juízo. Esse entendimento se consolidou com a Súmula 33 do Superior tribunal de Justiça, in verbis: "A incompetência relativa não pode ser declarada de ofício."
+2. Na hipótese de execução fiscal proposta fora do domicílio do devedor, compete exclusivamente ao executado se valer da exceção de incompetência, para afastar a competência de Juízo relativamente incompetente.
+3. Ademais, a posterior mudança de domicílio do executado não influi para fins de alteração de competência, conforme teor da Súmula 58 do Superior Tribunal de Justiça, in verbis: "Proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada." 4. Conflito de competência conhecido para declarar a competência do Juízo Federal de Sinop - SJ/MT, o suscitado.
+(CC 101.222/PR, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de23/03/2009).
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL PROPOSTA NA 18ª VARA FEDERAL DE SALVADOR/BA. COMPETÊNCIA RELATIVA.IMPOSSIBILIDADE DE DECLARAÇÃO DA INCOMPETÊNCIA DO JUÍZO DE OFÍCIO.
+1. Consoante assentado pelo Superior Tribunal de Justiça, com fulcro no art. 105, I, "d", da CF, merece conhecimento este Conflito, uma vez que ambos os Juízos, vinculados a Tribunais diversos, declararam-se incompetentes.
+2. A Ação de Execução Fiscal foi proposta na Seção Judiciária do Estado da Bahia, contudo o Juiz da 18ª Vara Federal de Salvador/BA declinou de sua competência para a Seção Judiciária do Paraná, visto que o domicílio da parte executada se encontra "sob a jurisdição de outro TRF, desde antes do ajuizamento da ação." Além disso, asseverou o magistrado em sua decisão, que seria evitada a expedição de "diversos ofícios e cartas precatórias para viabilizar o cumprimento de todos os atos pertinentes á persecução executiva." 3. O Juiz suscitante não aceitou sua competência, tendo em vista o teor do enunciado na Súmula 58 desta Corte.
+4. Com razão o Juízo suscitante, porquanto a incompetência relativa deverá ser alegada como questão preliminar de contestação (art. 64 do CPC), não podendo ser declarada de ofício, como fez o Juízo suscitado.
+5. Conflito de Competência conhecido a fim de declarar competente para processar o feito o Juízo da 18ª Vara Federal de Salvador/BA.
+(CC 167.679/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/11/2019, DJe 07/05/2020).
+Ante o exposto, com base no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência do JUÍZO FEDERAL DA 5ª VARA DE JOINVILLE/SC, o suscitado.
+Comunique-se.
+Publique-se. Intimem-se.
