@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento nas Súmulas 7 do STJ e 284 do STF.
+No recurso especial, aponta a defesa contrariedade aos arts. 33 e 155, ambos do CP, por ausência de lesão ao bem jurídico tutelado pela norma penal, por se tratar do furto de 4 garrafas de cerveja (Skol) e 6 garrafas de 2 litros de refrigerante (Coca-Cola), além dedinheiro em espécie, totalizando R$ 110,40, razão por que requer o reconhecimento do princípio da insignificância. Busca, ainda, a fixação do regime inicial aberto ou semiaberto, a despeito da reincidência do agente.
+Apresentada contraminuta, manifestou-se o Ministério Público pelo não provimento do recurso.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada, motivo pelo qual deve ser conhecido para julgar o recurso especial.
+Quanto à primeira controvérsia, oacórdão recorrido encontra-se assim fundamentado (fls. 587/590):
+No caso em tela, observa-se que, além de o crime ter sido cometido mediante escalada, o acusado ostenta condenações pretéritas, inclusive pelo crime de furto,fatos que evidenciam a maior reprovabilidade na conduta e, por tal razão, impossibilitam a incidência da bagatela, cf. recente jurisprudência do e. STJ:
+ ..
+O réu ostenta maus antecedentes, em um total de sete anotações definitivas, todas pelo crime de furto (fls. 258, 260, 261/262, 289, 291, 299/301 e 303), razão pela qual a base foi estabelecida acima do mínimo legal, à fração de 1/4.
+Sedimentou-se a orientação jurisprudencial, nesta Corte e no Supremo Tribunal Federal, de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento e d) inexpressividade da lesão jurídica provocada.
+No caso, além deo valor dos bens subtraídos (R$ 110,40) representar 14,01% do salário mínimo vigente à época dos fatos (R$ 788,00), não se verifica o reduzidíssimo grau de reprovabilidade do comportamento do agente, que ostenta 7 condenações definitivas pelo crime de furto, e foi condenado por tentativa de furto qualificado.
+Esta Corte Superior tem entendido não ser socialmente recomendável a aplicação do princípio da insignificância em casos como o presente, dada a ausência de mínima ofensividade da conduta. Confira-se:
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. CRIME DE FURTO TENTADO QUALIFICADO. HABITUALIDADE DELITIVA. REINCIDÊNCIA ESPECÍFICA EM CRIMES CONTRA O PATRIMÔNIO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REGIME PRISIONAL SEMIABERTO. DECISÃO MANTIDA.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+2. A aplicação do princípio da insignificância, segundo a orientação do Supremo Tribunal Federal, demanda a verificação da lesividade mínima da conduta, apta a torná-la atípica, considerando-se: a) a mínima ofensividade da conduta do agente; b) a inexistência de periculosidade social na ação; c) o reduzido grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada. O Direito Penal não deve ocupar-se de condutas que, diante do desvalor do resultado produzido, não representem prejuízo relevante para o titular do bem jurídico tutelado ou para a integridade da própria ordem social.
+3. A habitualidade criminosa do réu, representada na reincidência específica em crimes contra o patrimônio evidencia a acentuada reprovabilidade do comportamento, situação incompatível com a aplicação do princípio da insignificância.
+4. Em condenação inferior a 4 anos de reclusão, o reconhecimento da reincidência específica justifica a fixação de regime inicial semiaberto para o cumprimento da pena.
+5. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+6. Agravo regimental desprovido (AgRg no HC 639.147/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 22/06/2021, DJe 28/06/2021).
+Relativamente à fixação do regime prisional fechado, o acórdão encontra-se assim fundamentado (fl. 594):
+No mais, com relação ao regime penitenciário, fica mantido o regime mais severo, porquanto, segundo orientação do e. ST3, "(..) É correta a imposição de regime inicial fechado a réu reincidente e com circunstância judicial negativa ainda que o total da pena seja inferior a 4 anos." (AgRg no REsp 1756349/PR, j. em 2.4.2019), sendo esta a hipótese destes autos.
+O entendimento adotado, de fato, corrobora a orientação jurisprudencial desta Corte que "admite a fixação do regime inicial fechado ao réu reincidente cuja pena de reclusão é inferior a 4 anos e em que a pena-base foi fixada acima do mínimo legal" (AgRg no HC 659.212/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/05/2021, DJe 01/06/2021).
+Incide, assim, a Súmula 83 do STJ, segundo a qual "Não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
