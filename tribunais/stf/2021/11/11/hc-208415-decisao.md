@@ -1,0 +1,73 @@
+DECISÃO
+
+HABEAS CORPUS. PROCESSUAL PENAL. RECEBIMENTO DA DENÚNCIA. DESNECESSIDADE DE MOTIVAÇÃO EXAUSTIVA. DEFICIÊNCIA DE INSTRUÇÃO. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por João Carlos Dalmagro Júnior e outros, em benefício de Valmir Motta, contra acórdão da Quinta Turma do Superior Tribunal de Justiça proferido no Agravo Regimental no Recurso Ordinário em Habeas Corpus n. 154.200/SC, Relator o Desembargador Jesuíno Rissato, em 19.10.2021. Tem-se na ementa:
+
+    “PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. NULIDADE DA DECISÃO QUE RECEBEU A DENÚNCIA. NÃO OCORRÊNCIA. PRESCINDIBILIDADE DO EXAME EXAURIENTE DAS TESES DEFENSIVAS. INÉPCIA DA EXORDIAL ACUSATÓRIA. NÃO OCORRÊNCIA. DENÚNCIA QUE PREENCHE OS REQUISITOS LEGAIS PREVISTOS NO ART. 41 DO CPP, PERMITINDO O EXERCÍCIO DO CONTRADITÓRIO E AMPLA DEFESA. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. I - Prevalece neste Tribunal o entendimento de que a decisão que recebe a denúncia prescinde de aprofundada análise nas alegações defensivas postas na resposta à acusação, ainda mais quando estas alegações se confundem com o próprio mérito da ação penal, cuja análise somente será possível após a conclusão da instrução criminal, como se verifica no presente caso, em que diversas alegações da defesa postas na resposta da acusação se confundem com o próprio mérito da ação penal, e que somente poderão ser objeto de consideração pelo magistrado de piso após a devida instrução criminal sendo descabida a pretensão de trancamento prematuro da ação penal que, de notória sabença, possui natureza excepcional, quando ausente lastro mínimo para a continuidade de pretensão punitiva estatal, atipicidade da conduta, entre outros casos que, repita-se, não estão presentes no caso dos autos. Precedentes. II - Outrossim, não há que se falar em inépcia da exordial acusatória porquanto, como bem observado pelo acórdão recorrido, "a denúncia, ao meu ver, permite de forma bastante ampla a defesa do paciente, pois embora os fatos tenham sido, em grande medida, imputados ao suposto executor do paciente, a denúncia estabeleceu qual relação o paciente possuía com o corréu, além de ter afirmado a intenção do delito, praticado para garantir uma dívida que havia entre a vítima e o paciente" (fl. 51), possibilitando, portanto, o pleno exercício do contraditório e ampla defesa, estando devidamente preenchidos os requisitos do art. 41 do CPP, não se tratando de mero silogismo e deduções abstratas do órgão acusatório, sendo certo as alegações defensivas serão melhor analisadas no decorrer e após a instrução criminal, de ampla cognoscibilidade, não sendo possível o prematuro trancamento da ação penal que ocorre em casos excepcionais. Precedentes. III - Neste agravo regimental não foram apresentados argumentos novos capazes de alterar o entendimento anteriormente firmado, devendo ser mantida a decisão impugnada por seus próprios fundamentos. Agravo regimental desprovido” (fls. 180-181, e-doc. 3).
+
+    2. No presente habeas corpus, reitera-se a alegação de “nulidade da decisão que determinou o prosseguimento do feito nos termos do artigo 399 do Código de Processo Penal” sem a “análise mínima das teses defensivas aventadas”.
+
+    Sustentam os impetrantes que a denúncia apresentada seria inepta, impossibilitando o exercício do contraditório e da ampla defesa, porque “construída a partir de silogismos que não se coadunam com direitos fundamentais afeitos à persecução criminal”.
+
+    Estes o requerimento e o pedido:
+
+    “a) seja concedida a medida liminar para determinar-se a suspensão da Ação Penal n. 0006720-89.2014.8.24.0020, em trâmite perante a 2ª Vara Criminal da Comarca de Criciúma, SC, até o julgamento final deste writ;
+
+    b) uma vez confirmada a liminar supra, seja concedida a ordem para que: b.1) seja reconhecida a nulidade do feito desde a decisão que determinou o prosseguimento do feito nos termos do art. 399 do CPP, determinando-se à autoridade judiciária de piso que proceda à efetiva análise das teses sustentadas pela defesa na resposta à acusação; b.2) sucessivamente, se afastada a arguição supra, seja rejeitada a denúncia em relação ao paciente, de modo a trancar, nesse recorte, a ação penal na origem, dada a inépcia formal da incoativa” (fl. 14, e-doc. 1).
+
+    Examinada a matéria posta à apreciação, DECIDO.
+
+    3. A presente ação não está suficientemente instruída, desacompanhada da denúncia, apontada como inepta, a impossibilitar a exata compreensão e o aprofundado exame do pedido.
+
+    Sem os dados necessários para serem analisados no caso, o presente habeas corpus não pode ter seguimento por carecer dos requisitos necessários ao válido processamento. Assim, por exemplo:
+
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DO WRIT. DEFICIÊNCIA. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. A orientação jurisprudencial desta Corte é no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski). 2. Agravo regimental a que se nega provimento” (HC n. 182.064-AgR, Relator o Ministro Roberto Barroso, DJe 15.7.2020).
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. ESTELIONATO. TRANCAMENTO DA AÇÃO PENAL. INSTRUÇÃO DEFICIENTE DO WRIT. INVIABILIDADE DE CONHECIMENTO DA IMPETRAÇÃO. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus, quando não instruídos os autos com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal. Precedentes. 2. Agravo regimental conhecido e não provido” (HC n. 177.712-AgR, Relatora a Ministra Rosa Weber, DJe 6.3.2020).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. CONSTITUCIONAL. PENAL. PETIÇÃO INEPTA. DEFICIÊNCIA DE INSTRUÇÃO AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 163.114-AgR, de minha relatoria, DJe 26.9.2019).
+
+    4. Quanto à alegada nulidade da decisão de primeiro grau pela qual se determinou o prosseguimento do feito após a resposta à acusação, tem-se nos fundamentos adotados pela juíza processante:
+
+    “(...) As teses e alegações apresentadas nas respostas à acusação serão apreciadas por ocasião da sentença, após a instrução probatória, garantindo-se a ambas as partes o contraditório e a ampla defesa.
+
+    Não há, vale destacar, provas inequívocas das alegações defensivas, de modo que a instrução em juízo poderá melhor elucidar como os fatos efetivamente ocorreram, bem como eventual atipicidade da conduta, ausência de dolo específico ou desclassificação de tipo penal.
+
+    Assim, impõe-se o regular prosseguimento do feito” (fls. 113-115, e-doc. 3 – grifos nossos).
+
+    Embora não se tenha juntado aquela peça nestes autos, é possível concluir, pela fundamentação exposta nas decisões das instâncias antecedentes, ter concluído o juízo processante que as defensivas demandariam a análise exauriente de elementos probatórios a serem produzidos na instrução processual, tornando inviável o pretendido trancamento da ação penal na fase dos arts. 396 e 397 do Código de Processo Penal.
+
+    Como destacado no voto condutor do acórdão proferido no habeas corpus impetrado no Tribunal de Justiça de Santa Catarina, Relator o Desembargador Antônio Zoldan da Veiga,
+
+    “a resposta à acusação tem como principal objetivo a demonstração das razões de eventual absolvição sumária. Se a matéria é exclusivamente jurídica, sem necessidade de análise probatória, é cabível sua alegação nesta fase, nos termos do art. 397 do CPP, porém, no caso em análise, evidentemente, todas as alegações feitas dependiam de avaliação exauriente da prova indiciária, o que é incabível neste momento” (fl. 131, e-doc. 3 – grifos nossos).
+
+    Nesse sentido, na decisão impugnada nesta impetração, a Quinta Turma do Superior Tribunal de Justiça assentou:
+
+    “(...) Prevalece neste Tribunal o entendimento de que a decisão que recebe a denúncia prescinde de aprofundada análise das alegações defensivas postas na resposta à acusação, ainda mais quando estas alegações se confundem com o próprio mérito da ação penal, cuja análise somente será possível após a conclusão da instrução criminal, como se verifica no presente caso, em que diversas alegações da defesa postas na resposta da acusação se confundem com o próprio mérito da ação penal, e que somente poderão ser objeto de consideração pelo magistrado de piso após a devida instrução criminal sendo descabida a pretensão de trancamento prematuro da ação penal que, de notória sabença, possui natureza excepcional, quando ausente lastro mínimo para a continuidade de pretensão punitiva estatal, atipicidade da conduta, entre outros casos que, repita-se, não estão presentes no caso dos autos” (fl. 192, e-doc. 3).
+
+    5. A jurisprudência deste Supremo Tribunal é pacífica no sentido de não se exigir, “quando do recebimento da denúncia, a cognição e a avaliação exaustiva da prova ou a apreciação exauriente dos argumentos das partes, bastando o exame da validade formal da peça e a verificação da presença de indícios suficientes de autoria e de materialidade” (HC n. 181.171-AgR/DF, Relator o Ministro Roberto Barroso, Primeira Turma, DJe. 15.6.2020).
+
+     Confiram-se, ainda, os seguintes julgados:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. RECEBIMENTO DA DENÚNCIA. AUSÊNCIA DE MOTIVAÇÃO. INOCORRÊNCIA. DESPROPORCIONALIDADE DAS MEDIDAS PROTETIVAS. NECESSIDADE DE ANÁLISE PROBATÓRIA. INADEQUAÇÃO DA VIA. AGRAVO REGIMENTAL DESPROVIDO. 1. O juízo de recebimento da denúncia é de mera delibação, nunca de cognição exauriente. Assim, há que se diferenciar os requisitos para o recebimento da exordial acusatória, delineados no art. 41 do Código de Processo Penal, com o juízo de procedência da imputação criminal. 2. O magistrado de primeiro grau, por meio de decisão suficientemente motivada e compatível com a fase processual na qual se insere, concluiu pela inocorrência de hipótese autorizadora de absolvição sumária e pelo preenchimento dos requisitos do art. 41 do CPP. 3. A avaliação sobre a necessidade de manutenção das medidas protetivas demanda exame de matéria fático-probatória, providência inviável em sede de habeas corpus. 4. Agravo regimental desprovido” (HC n. 172.182-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 12.12.2019).
+
+    “Agravo regimental em habeas corpus. Processual Penal. Crime previsto no art. 306 do Código de Trânsito Brasileiro (conduzir veículo automotor com a capacidade psicomotora alterada em razão da influência de álcool ou outra substância psicoativa que determine dependência). Falta de justa causa para a ação penal. Não ocorrência. Recebimento da denúncia. Juízo de delibação. Atipicidade da conduta. Exame de fatos e provas. Inviabilidade. Regimental não provido. 1. Não se pode confundir os requisitos para o recebimento da denúncia, delineados no art. 41 do Código de Processo Penal, com o juízo de procedência da imputação criminal (Inq nº 4.022/AP, Segunda Turma, Rel. Min. Teori Zavascki, DJe de 22/9/15). 2. O Supremo Tribunal Federal já afirmou que “a fase processual do recebimento da denúncia é juízo de delibação, jamais de cognição exauriente”. 3. Na esteira do entendimento da Corte, “a via do habeas corpus (...) [não] permite a verificação da veracidade dos fatos descritos na denúncia[,] por demandar análise do conjunto fático-probatório, em evidente substituição ao processo de conhecimento” (RHC nº 102.816/MG, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 27/4/10). 4.Agravo regimental ao qual se nega provimento” (HC n. 189.762-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 30.4.2021).
+
+    “EMBARGOS DE DECLARAÇÃO. RECEBIMENTO DA DENÚNCIA. REEXAME DE MATÉRIA FÁTICA E JURÍDICA APRECIADA. REJEIÇÃO. 1. O recebimento da denúncia não exige cognição exaustiva dos elementos investigativos ou apreciação exauriente dos argumentos das partes. 2. Constatada a regularidade da peça acusatória inicial e a presença de indícios suficientes de autoria e materialidade, a ação penal deve ser processada. 3. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas no acórdão recorrido. 4. Embargos de declaração conhecidos, mas rejeitados” (Inq. 2.340-ED, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 12.2.2019).
+
+    6. Pela jurisprudência deste Supremo Tribunal, “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental” (HC n. 96.883-AgR, de minha relatoria, DJe 1º.2.2011).
+
+    Confiram-se os seguintes julgados: RHC n. 118.004, de minha relatoria, DJe 5.6.2013; RHC n. 117.983, Relatora a Ministra Rosa Weber, DJe 21.6.2013; RHC n. 117.164, Relator o Ministro Celso de Mello, DJe 19.6.2013; RHC n. 116.071, Relator o Ministro Dias Toffoli, DJe 12.6.2013; RHC n. 117.976 MC, de minha relatoria, DJe 7.6.2013; RHC n. 117981, Relator o Ministro Teori Zavascki, DJe 3.6.2013; HC 93.343, Relator o Ministro Ricardo Lewandowski, DJe 1º.2.2008; HC n. 89.994, Relator o Ministro Ricardo Lewandowski, DJe 22.11.2006; HC n. 94.134, Relator o Ministro Ayres Britto, DJe 18.3.2008; HC 93.973, Relator o Ministro Cezar Peluso, DJe 13.3.2008; HC n. 92.881, Relator o Ministro Eros Grau, DJe 31.10.2007; HC n. 88.803, Relator o Ministro Eros Grau, DJe 23.5.2006; HC n. 92.595, Relator o Ministro Menezes Direito, DJe 5.10.2007; HC n. 92.206, Relator o Ministro Joaquim Barbosa, DJe 17.8.2007; HC n. 91.476, Relator o Ministro Gilmar Mendes, DJe 13.8.2007; HC n. 90.978, Relator o Ministro Gilmar Mendes, DJe 13.4.2007; HC n. 87.921, Relatora a Ministra Ellen Gracie, DJe 15.2.2006; HC n. 87.271, Relatora a Ministra Ellen Gracie, DJe 30.11.2005; HC 92.989, Relator o Ministro Celso de Mello, DJe 21.2.2008; HC n. 93.219, Relator o Ministro Celso de Mello, DJe 11.12.2007; HC n. 96.883, de minha relatoria, DJe 9.12.2008; e HC n. 109.133-AgR, Relator o Ministro Ricardo Lewandowski, DJe 17.10.2011.
+
+    7. Pelo exposto, nego seguimento ao presente habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+    Publique-se.
+
+    Brasília, 11 de novembro de 2021.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
