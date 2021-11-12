@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se derecurso especial interposto contra acórdãoassim ementado (fl. 223):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. MORA CONFIGURADA. JUNTADA DE CÉDULA DE CRÉDITO BANCÁRIO ORIGINAL.DESNECESSIDADE. NOTIFICAÇÃO EXTRAJUDICIAL. VALIDADE. DECISÃO MONOCRÁTICA.RATIFICAÇÃO PELO COLEGIADO. EVENTUAL NULIDADE. SUPERAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AGRAVO DESPROVIDO.
+I. Mantenho meu entendimento quanto a ausência de demonstração da fumaça do bom direito em favor da agravante, vez que não deve prevalecer a insurgência de que não foi apresentada a cédula de crédito original, pois a legislação específica sobre a matéria exige para a concessão da medida apenas a comprovação da mora, o que o Juízo a quo reputou demonstrada nos autos.
+II. O agravante não apresentou argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.(AgRg no AREsp 369.942/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/04/2015, DJe 24/04/2015).
+III. Agravo Interno Desprovido.
+A recorrente sustenta, nas razões de recurso especial, ofensa aoartigo28 da Lei n. 10.931/2004, alegando a insuficiência do demonstrativo apresentado pelo credor para embasar a cédula de crédito bancário, requisito essencial para demonstração da liquidez do título executivo.
+Assim delimitada a controvérsia, passo ao exame do recurso.
+Verifico que o Tribunal de origem, ao julgar a causa, deixou registrado oseguintefundamento (fl. 227):
+Também não assiste razão à agravante quanto ao suposto descumprimento do art. 28 da Lei nº.10.931/04, pois a planilha de cálculo apresentada pelo agravado, ao contrário do que alega a agravante, permite concluir que os cálculos sobre o valor principal da dívida foram expostos de modo claro, preciso e de fácil compreensão.
+Nesse contexto, o acórdão recorrido está em sintonia como entendimento desta Corte, o qual firmou o posicionamentode que a cédula de crédito bancário, mesmo quando o valor nela expresso seja oriundo de saldo devedor em contrato de abertura de crédito em conta corrente, possui natureza de título executivo, exprimindo obrigação líquida e certa, por força do disposto na Lei 10.931/2004. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO EXTRAJUDICIAL. LEI 10.931/2004.
+1. A cédula de crédito bancário, mesmo quando o valor nela expresso seja oriundo de saldo devedor em contrato de abertura de crédito em conta corrente, tem natureza de título executivo, exprimindo obrigação líquida e certa, por força do disposto na Lei n.10.930/2004. Precedente da 4a Turma do STJ.
+2. Agravo regimental a que se nega provimento.
+(Quarta Turma, AgRg no REsp 1.038.215/SP, Rel. Ministra MARIA ISABEL GALLOTTI, DJe de 19.11.2010.)
+Realmente este Superior Tribunal já decidiu que a cédula de crédito bancário, para se instruir ação de execução, deve vir acompanhada de demonstrativo da evolução da dívida, planilha de cálculos ou extratos da conta corrente, a fim de que seja possível o exercício do contraditório pelo devedor.
+No presente caso, contrariamente ao que defende a recorrente, o acórdão recorrido reconheceu suficiência no demonstrativo apresentado, consignando quea planilha de cálculo apresentada pelo agravado permite concluir que os cálculos sobre o valor principal da dívida foram expostos de modo claro, preciso e de fácil compreensão.
+Assim, a adoção de entendimento diverso por esta Corte a respeito da suficiência na demonstração da evolução da dívida exigiria novo exame do acervo fático-probatório dos autos, o que é vedado a teor do óbice previsto no enunciado nº 7 da Súmula do Superior Tribunal de Justiça.
+Confiram-se, a propósito, osseguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO EMBARGANTE.
+1. Violação aos artigos 458 e 535 do CPC/73 não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissões. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes.
+2. Revisar as conclusões do órgão julgador acerca da inexistência de título executivo líquido, certo e exigível, como pretende a recorrente, seria imprescindível o reexame do conjunto fático-probatório dos autos, bem como a interpretação de cláusulas contratuais, providência obstada pelas Súmulas 5 e 7 do STJ. Precedentes.3. Agravo interno desprovido.
+(AgInt no AREsp 1267847/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/09/2019, DJe 12/09/2019.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO VERIFICADO. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7/STJ. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO EXTRAJUDICIAL.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. A cédula de crédito bancário, mesmo quando o valor nela expresso seja oriundo de saldo devedor em contrato de abertura de crédito em conta corrente, tem natureza de título executivo, exprimindo obrigação líquida e certa, por força do disposto na Lei n. 10.931/2004.
+3. "A simples interpretação de cláusula contratual não enseja recurso especial" (Súmula n. 5/STJ).
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+5. Agravo interno a que se nega provimento.(AgInt no AREsp 1316252/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/12/2018, DJe 01/02/2019.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO. INEXISTÊNCIA DE DEMONSTRATIVO DA EVOLUÇÃO DO DÉBITO. REEXAME DE PROVAS.SÚMULA Nº 7/STJ.
+1. A cédula de crédito bancário é título executivo, apto a instruir a ação de execução, ainda que o débito tenha origem em contrato de abertura de crédito, porém a inicial deverá vir acompanhada, também, de demonstrativo da evolução da dívida.
+2. Rever as conclusões do acórdão recorrido acerca da inexistência de demonstrativo da evolução do débito demandaria o reexame de matéria fático- probatória, o que é vedado em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça 3. Agravo regimental não provido.(AgRg no AREsp 566.565/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 6.8.2015.)
+Em face do exposto, nego provimento ao recurso especial.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
