@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto contra acórdão que contou com a seguinte ementa:
+EMENTA - HABEAS CORPUS - VIOLAÇÃO DE DIREITO AUTORAL - INDEFERIMENTO DE PRODUÇÃO DE PROVA CONSISTENTE NA REPRODUÇÃO SIMULADA DOS FATOS - ALEGADA VIOLAÇÃO AOS PRINCÍPIO DA AMPLA DEFESA E DA VERDADE REAL - DECISÃO DEVIDAMENTE FUNDAMENTADA - ARTIGO 400, § 1º, DO CÓDIGO DE PROCESSO PENAL - CERCEAMENTO DE DEFESA NÃO CONFIGURADO - ORDEM DENEGADA.
+I - Não se verifica a alegada violação ao princípio da plenitude de defesa e da verdade real na decisão que indeferiu a produção de prova, sobretudo porque a mesma está devidamente fundamentada, sendo facultado ao magistrado, nos termos do artigo 400, § 1º, do Código de Processo Penal, na qualidade de destinatário final da prova, indeferir motivadamente as que considerar protelatórias, irrelevantes ou impertinentes.
+II - Ordem denegada. (fl. 753)
+Orecorrente responde por ação penal como incurso no art.184, § 3º, do Código Penal.
+Busca-se com o recurso que sejam admitidas as provas requeridas pela defesa ou que seja reaberto o prazo para apresentação de alegações finais.
+É o relatório.
+Decido.
+O Tribunal local assim examinou o tema:
+Trata-se de habeas corpus, com pleito liminar, impetrado pelo Advogado Valdir Custódio da Silva em favor de Flaviano Cantacini, denunciado no dia 18 de julho de 2013, pela suposta prática do delito de violação do direito autoral (art.184, § 3º, do Código Penal), alegando constrangimento ilegal por parte do Juiz de Direito da 5ª Vara Criminal da Comarca de Campo Grande/MS.
+Alega, em síntese, constrangimento ilegal, tendo em vista que a Associação Brasileira de Licenciamento Fonográfico (ABLF), via requerimento, noticiou ao GAECO, que o Paciente não recolhia, a ela, os valores inerentes ao direito autoral de seus associados. Afirma ainda que a diligência requerida para medular a importância dos autos, a qual foi indeferida, mostra-se como hialino cerceamento de defesa.
+Aduz que é evidente e injustificável o cerceamento de defesa do paciente, já que o mesmo possui o direito de contraprovar os fatos a si imputados.
+Regularmente citado, requereu a prova pericial consistente na comprovação que os fatos a si imputados não são reais, o que foi indeferido pela autoridade impetrada, nos seguintes moldes:
+"(..) Indefiro o pedido de ofício requerido pela Defesa: primeiro, porque o MP juntou os documentos que se pretende; segundo, a diligência requerida não depende de ordem judicial para ser efetivada, bastando que o réu providencie junto ao órgão.(..) (f. 607).
+Como facilmente se observa, a autoridade impetrada tratou de fundamentar o indeferimento do pedido. De outro lado, o impetrante não trouxe argumentos que levem à conclusão de que existe uma nulidade absoluta patente.
+Outrossim, é certo que se assegura ao réu direito de produção de provas. Porém, o magistrado, destinatário final das provas, nos termos do disposto no artigo 400, §1º, do Código de Processo Penal, com base no livre convencimento motivado, pode indeferir, de forma fundamentada, aquelas diligências ou provas que julgar protelatórias, irrelevantes ou impertinentes, hipótese em que não se verifica a ocorrência de cerceamento de defesa. Neste sentido:
+ ..
+Ademais, o paciente não demonstra que os documentos a que se refere o pedido não estejam nos autos, conforme consta da decisão e, além disso, caso não estejam, como se trata de providência do interesse da defesa, a ela cabe, posto que plenamente possível, providenciar a apresentação.
+Assim não há o que falar em nulidade.(fls. 754/756)
+Como se observa, o Tribunal local entendeu correto o indeferimento de diligência requerida pela defesa, destacando que devidamente fundamenta a decisão do juízo de piso que consignou que os documentos pretendidos pela defesa já haviam sido juntados aos autos pelo MP e que a diligência requerida não dependida de ordem judicial, e já que não restou demonstrado que tais documentos efetivamente não estariam nos autos e a ele sendo possível tal juntada, inexistia ilegalidade flagrante.
+O acórdão combatido encontra respaldo na jurisprudência desta Corte consolidada no sentido de que "não obstante o acusado, no processo penal, tenha direito à produção de provas, o Magistrado tem discricionariedade para indeferir aquelas que reputar protelatórias, irrelevantes ou impertinentes, desde que em decisão fundamentada"(HC 690.103/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 19/10/2021, DJe 04/11/2021).
+Na espécie, constou que os documentos pretendidos já constavam dos autos e que a parte poderia ter acesso sem a necessidade de ordem judicial. Apesar do recorrente ter sustentadoem suas razões recursais que se os documentos apresentado pelo MP são diversos dos pretendidose que fez consulta ao ECAD e que obteve resposta negativa quanto aos documentos pretendidos, não constou do acórdão combatido manifestação acerca de tais fatos. Assim, inviável desconstituir as premissas do acórdão impugnado como pretende a defesa, diante da necessidade revolvimento fático-probatóriovedado nesta instância.
+Acerca da reabertura de prazo para apresentação de alegações finais, não constou do acórdão impugnado manifestação do Tribunal local quanto ao tema, o que impede o conhecimento da matéria diretamente por esta Corte.
+Ante o exposto, nego provimento ao recurso emhabeas corpus, nos termos do art. 34, RISTJ.
+Publique-se.
+Intimem-se.
