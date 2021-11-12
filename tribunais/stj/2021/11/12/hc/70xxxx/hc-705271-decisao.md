@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor deDELMA CARDOSO DA ROZA KAZAHAYA,contra decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo que indeferiu pedido liminar (HC 2250178-03.2021.8.26.0000).
+Consta dos autos que a paciente foi presa, em flagrante,em 5/3/2021, pela suposta prática do delito tipificado no art. 33,caput, da Lei 11.343/06. A custódia foi posteriormente convertida em preventiva. Sobreveio a condenação da ré, como incursa no art.33, caput, da Lei nº 11.343/2006, e do art. 129, caput,do Código Penal, à pena de 6 anos, 6 meses e 22 dias de reclusão, em regime inicial fechado, e 3 meses e 11 dias de detenção, em regime inicial semiaberto, além do pagamento de655 dias-multa, no valor mínimo legal, indeferido o apelo em liberdade (e-STJ, fls. 43-53).
+A defesa impetrou préviowrit, perante o Tribunal de origem, nos autos do qual foi indeferida a liminar (e-STJ, fls. 40-42).
+Nesta Corte, os impetrantes, pugnando pela superação da Súmula 691/STF,alegam a ausência de fundamentação válida para a manutenção da prisão cautelar. Destacam a ínfima quantidade de droga apreendida - 10 porções de cocaína na forma de pedras de crack,com peso aproximado de 1,5 g - e colacionamprecedentes deste Superior Tribunal de Justiça, anotando quea "simples agravante de reincidência não justifica" (e-STJ, fl. 16) a preservação da custódia da sentenciada.
+Pleiteiam, assim, a revogação da prisão preventiva. Subsidiariamente, requerem asubstituição da custódia pormedidas cautelares alternativas ou prisão domiciliar.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, consoante os termos da Súmula 691/STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691/STF. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. EXPRESSIVA QUANTIDADE DE ENTORPECENTES. REITERAÇÃO DELITIVA. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO.INVIABILIDADE.
+1. A teor do disposto no enunciado da Súmula 691/STF, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+2. A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado, hipótese que não se faz presente.
+3. Não há falar-se em ausência de motivação do decreto prisional quando proferido com esteio na expressiva quantidade de drogas encontradas com o imputado, ora agravante (750 gramas de maconha e 50 gramas de crack, além de 42 pinos de cocaína e 175 pinos de crack), além de petrechos comumente utilizados na traficância; e, ainda, na sua vivência delitiva, porquanto reincidente específico.
+4. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, uma vez que insuficientes para resguardar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no HC 697.965/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 26/10/2021, DJe 28/10/2021)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT INDEFERIDO LIMINARMENTE. SÚMULA N.691 DO STF. INCIDÊNCIA. REQUISITOS DA PREVENTIVA. QUANTIDADE EXPRESSIVA DE ENTORPECENTES. LIBERDADE PROVISÓRIA EM AÇÃO PENAL DIVERSA. NOVA INFRAÇÃO. RISCO DE REITERAÇÃO DELITIVA. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabe habeas corpus contra o indeferimento de medida liminar impetrada na origem, salvo nos casos de flagrante ilegalidade ou de teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula n. 691 do STF).
+2. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts.
+312, 313 e 315 do Código de Processo Penal.
+3. Agravo regimental desprovido.
+(AgRg no HC 695.745/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 26/10/2021, DJe 03/11/2021)
+Na hipótese, a Corte de origem indeferiu o pleito liminar, por não verificar a presença dos requisitos autorizadores da medida de urgência, nos seguintes termos:
+"Cícero Salum do Amaral Lincoln e José Maurício Camargo, advogados, impetram Habeas Corpus, em prol de Delma Cardozo da Rosa Kazahaya, requerendo, liminarmente, seja preservada a liberdade da paciente, em virtude da falta de fundamentação legal quanto ao decreto de prisão de fls. 307/317, autos de origem, e em respeito à autoridade dos julgados mencionados na inicial, contribuindo assim para a segurança jurídica.
+Requerem, mais, a suspensão cautelar da prisão preventiva que foi imposta à paciente nos autos do processo-crime no 1500374-56.2021.8.26.0599, com imposição de condições diversas da prisão preventiva, expedindo-se, imediatamente, em seu favor, o competente alvará de soltura.
+Subsidiariamente, a concessão da medida liminar para autorizar, ante a excepcionalidade do caso, à paciente aguardar em prisão domiciliar o desfecho dos autos de origem até a deliberação e julgamento da causa pelas instâncias ordinárias. Ao final, seja ratificada a liminar, tornando-a definitiva, concedendo-se a ordem para que a paciente responda em liberdade durante todo o curso dos autos de origem, até a prolação de decisão final de segunda instância, intimando-a a comparecer em cartório para assinar o termo de comparecimento a todos os atos processuais até o julgamento definitivo.
+Alegam, em síntese, inidoneidade na fundamentação da decisão que manteve a prisão preventiva, porquanto antecedentes penais e a diminuta quantidade de droga apreendida não justificam, por si sós, a custódia cautelar.
+Nada obstante, a providência liminar em habeas corpus é excepcional, razão pela qual está reservada para os casos em que avulta flagrante constrangimento ilegal ao paciente. E essa não é a hipótese dos autos.
+Ademais, revela-se inadequada à esfera de cognição sumária a análise do pleito, salvo apreciação fática que represente aberração técnico-jurídica do magistrado, que não é o caso em apreço. Repita- se, a liminar deve se fundar na cessação de um grave constrangimento ilegal sofrido, o que não se infere no quadro telado.
+Por conseguinte, indefiro a cautela requerida, reservando à Col. Turma Julgadora a solução da questão em toda a sua extensão.
+Processe-se o presentewrit, providenciando-se a notificação da autoridade apontada como coatora, a fim de que preste as informações em 48 (quarenta e oito) horas, ouvindo-se, em seguida, a Procuradoria Geral de Justiça" (e-STJ, fls. 40-42, grifou-se).
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
