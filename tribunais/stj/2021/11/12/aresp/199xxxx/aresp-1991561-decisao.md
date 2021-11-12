@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se deagravo interposto por IASIN SINALIZAÇÃO LTDA e OUTROS, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de IASIN SINALIZAÇÃO LTDA e OUTROS, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes àsubscritorado agravo e do recurso especial, Dra. Isabella Bittencourt Mader Gonçalves Giubin.
+É firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115/STJ).
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou.
+Veja-se que areferidacausídicaapenas consta nominalmente no substabelecimento de fl. 318, no entanto, não há sua assinatura física.
+Mais ainda, no rodapéda referida peça consta assinatura eletrônica daDra. Isabella Bittencourt Mader Gonçalves, ou seja, elasubstabeleceu para si própria, uma vez que a assinatura eletrônica é a forma de identificação inequívoca do signatário, e aopção pela utilização do meio eletrônico de peticionamento implica avinculação do advogadotitular do certificado digital ao documento chancelado, que será considerado, para todos os efeitos, osubscritor da peça, não tendo valor eventual assinatura digitalizada de outro advogado que venha a constarda peça encaminhada e assinada eletronicamente, mesmo que este possua procuração. Nesse sentido, o AgInt no AREsp 1339129/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 30/8/2019.
+Dessa forma, o recurso não foi devida e oportunamente regularizado.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
