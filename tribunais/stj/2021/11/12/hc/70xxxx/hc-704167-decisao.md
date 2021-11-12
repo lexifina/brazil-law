@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RENAN MENDONCA DOS SANTOS, JONATAS ANTUNES PEREIRAem que se aponta como autoridade coatoraTribunal de Justiça do Estado do Rio de Janeiro(HC n. 0053444-11.2021.8.19.0000).
+Ospacientes foram presos em flagrante em 10/3/2021 e tiveramconvertida suas prisões em preventiva a pedido do Ministério Público (fl. 45). Foramdenunciados por suposta prática do delito descrito no art. 171, caput, c/cart. 14, II, e art. 288c/c art.61, II, j, todos do Código Penal (fl. 32).
+O decreto prisional fundou-se nosindícios de que os pacientes estãoassociados de forma permanente para a prática de crimes, evidenciandoo risco concreto de reiteração delitiva. Ademais, foramapreendidos com os pacientes9 aparelhos de celular e 7 aparelhos de vídeogame de origem não demonstrada (fl. 46).
+Impetrado writ originário, a ordem foi denegada (fl. 82).
+A defesa alega que os pacientes estãosendo vítimas de constrangimento ilegal, em razão do excesso de prazo pois as alegações finais foram oferecidas hámais de 30 dias, e não há indício de prolação da sentença (fl. 5).
+Sustenta que a manutenção da prisão dos pacientes configura antecipação da pena (fl. 8).
+Ressalta um excesso na medida preventiva pois os pacientes, caso condenados cumpririam uma pena pelos crimes em regime mais brando (fl. 11).
+Requer a revogação das prisõespreventivas e a expedição de alvarás de soltura em favor dos pacientes.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 76-77):
+ ..  a alegação de excesso de prazo há de ser descartada, haja vista as informações prestadas pela Autoridade apontada como coatora, às fls. 19/20, complementadas pela consulta processualextraída do sítio eletrônico deste Tribunal, sendo possível verificar que em 19/07/2021 foi determinada a "busca e apreensão dos laudos periciais objetos da decisão que deferiu a quebra de sigilo de todos os dados telefônicos dos aparelhos celulares apreendidos", certo que tais laudos foram juntados aos autos no dia 22/07/2021. O Magistrado acrescentou que em 13/08/2021 foi determinada a apresentação pelas partes das alegações finais.
+Verifica-se, desta forma, que a instrução criminal está encerrada e o processo aguarda as alegações finais, avizinhando-se a prestação jurisdicional, o que torna superada a alegação.
+Trata-se da incidência do entendimento pacífico da jurisprudência, consolidado no verbete n.º 52 das Súmulas do Egrégio Superior Tribunal de Justiça.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Dessa forma,o relator do caso na origem decidiu em consonância com a orientação do STJ de que, encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo (Súmula n. 52 do STJ).
+Em relação às matérias deantecipação da pena e violação ao princípio da proporcionalidade,as questõesnão foramenfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação.Assim, o STJ não pode apreciar as matérias, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
