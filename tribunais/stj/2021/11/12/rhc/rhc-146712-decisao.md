@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por JORGE ALBERTO LIMA DE SOUSA contra acórdão do Tribunal de Justiça do Estado do Ceará (HC n. 0624899-39.2021.8.06.000).
+O recorrente teve a prisão em flagrante convertida em preventiva (fls. 82-84) a pedido do Ministério Público e foi denunciado (fls. 120-122) pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Em suas razões, sustenta estar suportando constrangimento ilegal em sua liberdade de locomoção, porquanto configurado excesso de prazo para formação da culpa por exclusiva desídia estatal. Afirma que, não obstante o período de prisão cautelar, a instrução processual encontra-se paralisada, em contrariedade ao disposto nos arts. 54 e 56 da Lei n. 11.343/2006.
+Argumenta que o feito originário não é complexo, o que demonstra nítida ofensa à razoável duração do processo.
+Requer, liminarmente e no mérito, o provimento do recurso ordinário emhabeas corpuspara que seja reconhecido o excesso de prazo para formação da culpa e determinada a expedição do alvará de soltura.
+O pedido de liminar foi indeferido (fls. 283-284).
+Foram prestadas informações às fls. 292-298 e 299-306.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso ordinário em habeas corpus (fls. 308-311).
+É o relatório. Decido.
+No que diz respeito ao alegado excesso de prazo para a formação da culpa, esclareça-se que a jurisprudência do STJ firmou-se no sentido de que "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, impetrado writ na origem, o Tribunal manifestou-se da seguinte forma (fls. 204-205):
+Prosseguindo, tampouco se extrai dos autos ilegalidade idônea a justificar a concessão da ordem de ofício, sendo imperioso ressaltar que, consoante pacífico entendimento jurisprudencial desta Corte de Justiça, a questão atinente ao excesso de prazo na formação da culpa não deve ser analisada apenas com base na soma aritmética dos prazos legalmente estabelecidos, mas também deve considerar as peculiaridades do caso concreto, para, só ao final, verificar-se se a dilação do prazo é ou não justificável, aplicando-se, para tanto, o princípio da razoabilidade.
+Nesse cenário, a partir da análise minuciosa do trâmite processual na origem, embora haja certa dilação temporal no processamento da ação penal, observo que não houve desídia da autoridade impetrada na condução do feito até o momento. Por oportuno, vejamos resumo dos principais atos praticados até a presente data, conforme transcrição do Parquet (fl. 191):
+ ..
+O cenário delineado acima expõe a inexistência de desídia por parte do Juiz a quo. Pelo contrário, percebe-se que o Magistrado vem empreendendo esforços para dar regular andamento à ação penal, tendo sido, como registrado, determinação do agendamento da audiência de instrução para a próxima data desimpedida.
+Outrossim, é importante destacar que entre a prisão do réu e a presente análise houve o transcurso integral do recesso forense, razão idônea para certa demora excepcional na tramitação processual.
+Desse modo, revela-se mais prudente aguardar a realização da audiência de instrução e julgamento, momento em que, após findada a fase instrutória, poderá o magistrado a quo reavaliar a necessidade de manutenção da medida cautelar ou reapreciar o pleito de excesso de prazo na formação da culpa.
+Verifica-se, com base no acórdão impugnado, que a Corte de origem demonstrou, de forma motivada, não estar configurado o alegado excesso de prazo na manutenção da prisão preventiva, tendo em vistaas peculiaridades e andamentos do feito originário, além de não ter sido constatadadesídia estatal que motivasse o reconhecimento da aventada ilegalidade.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ademais, consoante consulta realizada ao site do Tribunal de origem (Ação Penal n. 0054798-70.2020.8.06.0064),a instrução processual foi encerrada, estando o processo originário concluso para julgamento. Assim, encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo (Súmula n. 52 do STJ).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
