@@ -1,0 +1,52 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, o decreto foi mantido na decisão liminar, porquanto teria apontado um contexto fático que indica o envolvimento do paciente com o tráfico de drogas na comunidade, inclusive o uso de adega para armazenamento de entorpecentes e comercialização ilícita. Ausência de manifesta ilegalidade que justifique a superação do enunciado sumular. Precedentes.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por DAVI ROBERTO MATHIAS contra decisão da Presidência desta Corte que indeferiu liminarmente o habeas corpus com base no enunciado n. 691 da Súmula do Supremo Tribunal Federal (e-STJ fl. 44/45).
+Consta dos autos que o paciente foi preso temporariamente no dia 20/9/2021, em razão de suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/06.
+Nas razões do presente recurso, a defesa alega, em resumo, não haver motivos para a prisão cautelar do paciente, porquanto foi detido em sua residência, não intentou fuga ou resistência e ainda forneceu os elementos necessários ao esclarecimento de sua identidade. Assim, sustenta que a medida não encontra suporte nas hipóteses previstas no ordenamento jurídico.
+No mais, destaca que o acusado tem vínculo com o distrito da culpa, família regularmente constituída, inclusive um filho de 13 anos de idade, condições pessoais que podem ser consideradas para fins de revogação da prisão.
+Diante disso, pede a reconsideração da decisão agravada ou que o recurso seja julgado pelo colegiado para relaxar a prisão cautelar do paciente.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+A decisão deve ser mantida por seus fundamentos.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, colhe-se da decisão de primeiro grau (e-STJ fl. 31):
+Na hipótese em apreço, nesta fase indiciária, há fortes elementos ligando o(s) representado(s) a crime tráfico de drogas (art.1º, III, da Lei nº 7.960/1989).
+Inclusive, vale frisar que a decisão analisou o contexto fático e jurídico do caso vertente, salientando o envolvimento do requerente com o tráfico de drogas na comunidade e uso de adega para armazenamento de entorpecentes e comercialização ilícita.
+Anote-se não ser necessário que as condições dos três incisos do art. 1º, da Lei 7.960/89, coexistam, bastando, assim, que a medida seja imprescindível para as investigações e haja fundadas razões da prática de um dos delitos constantes do rol taxativo, como ocorre no caso concreto, não sendo preciso que também se demonstre que não tem o investigado residência fixa ou não forneça elementos de identificação pessoal (nesse sentido: ADA PELEGRIN IGRINOVER, Constitucionalidade da Prisão Temporária, Cadernos de Doutrina e Jurisprudência da Associação Paulista do MP, São Paulo, 1993, 27/49).
+Não se olvida que se trata de medida gravosa ao status libertatis, contudo, por ora, persistem os requisitos que autorizam a prisão temporária.
+Disse o Relator ao indeferir a liminar (e-STJ fl. 35):
+Verifica-se que o paciente, está sendo investigado pela prática de delito grave, tráfico ilícito de entorpecentes. Como destacado pelo douto Magistrado, há indicações de que o paciente realizava a mercancia ilícita, fazendo uso de uma Adega para armazenamento das drogas. Nota-se que não houve alteração do contexto fático, assim, persistem os requisitos que autorizam a prisão. Sendo imprescindível, por ora, para as investigações a prisão temporária.
+No mais, não é demais lembrar que a situação de pandemia em razão da disseminação do vírus COVID-19 não autoriza a revogação automática da prisão cautelar ou concessão de prisão domiciliar, sobretudo quando não há prova cabal da existência de risco da manutenção do paciente no ambiente carcerário, seja diante da efetiva contaminação de algum detento ou pela demonstração de comprometimento das condições de higiene ou ambulatoriais do estabelecimento prisional em que se encontra recolhido.
+Com efeito, "O art. 1º da Lei n. 7.960/1989 evidencia que o objetivo primordial da prisão temporária é o de acautelar o inquérito policial, procedimento administrativo voltado a esclarecer o fato criminoso, a reunir meios informativos que possam habilitar o titular da ação penal a formar sua opinio delicti e, por outra angulação, a servir de lastro à acusação" (RHC 77.265/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/09/2017, DJe 02/10/2017).
+Assim, verifica-se que o decisum não apresenta manifesta ilegalidade que justifique a superação do enunciado sumular. Assim, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. INDEFERIMENTO LIMINAR DO WRIT. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE. AUSÊNCIA. FALTA DE CONTEMPORANEIDADE. NECESSIDADE DE APRECIAÇÃO MAIS APROFUNDADA DOS AUTOS. ANÁLISE DE MÉRITO.
+1. A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância. A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado, hipótese que não se faz presente.
+2. "O art. 1º da Lei n. 7.960/1989 evidencia que o objetivo primordial da prisão temporária é o de acautelar o inquérito policial, procedimento administrativo voltado a esclarecer o fato criminoso, a reunir meios informativos que possam habilitar o titular da ação penal a formar sua opinio delicti e, por outra angulação, a servir de lastro à acusação" (RHC 77.265/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/09/2017, DJe 02/10/2017).
+3. Apresentada fundamentação válida para a decretação da prisão temporária, evidenciada na afirmação de que "a prisão do representado se faz necessária para realização de importantes diligências, tais como identificação de outras possíveis vítimas, e que o representado causa, de certa maneira, temos às vítimas, o que, por si só, inviabiliza o prosseguimento das investigações e, por isso, demonstrada a imprescindibilidade da medida para a continuidade das investigações", não há que se falar em ilegalidade.
+4. Agravo regimental improvido.
+(AgRg no HC 689.251/MG, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 05/10/2021, DJe 11/10/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO TEMPORÁRIA. SÚMULA N. 691 DO STF. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO TEMPORÁRIA FUNDAMENTADA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE. RECONHECIMENTO FOTOGRÁFICO AMPARADO EM ELEMENTOS SUFICIENTES PARA A DEMONSTRAÇÃO DE INDÍCIOS DE ENVOLVIMENTO DO RECORRENTE NO FATO DELITUOSO. VIOLAÇÃO DO ART. 226 DO CPP. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade. Incidência da Súmula n. 691 do STF.
+2. Justifica-se a imprescindibilidade da prisão temporária com o preenchimento dos requisitos previstos no art. 1º da Lei n. 7.960/1989.
+3. Tendo a necessidade da prisão temporária sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas.
+4. O reconhecimento fotográfico realizado de acordo com os ditames legais, assegurado o exercício pleno do contraditório e da ampla defesa, é apto a configurar indício suficiente de autoria.
+5. Agravo regimental desprovido.
+(AgRg no HC 663.109/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691/STF. INDEFERIMENTO LIMINAR DO WRIT. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO TEMPORÁRIA. PLEITO DE PRISÃO DOMICILIAR. INCOMPATIBILIDADE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte superior é pacífica no sentido de a prisão domiciliar é incompatível com o fim a que se destina a prisão temporária, que é acautelar o inquérito policial, sendo prevista sua concessão apenas nos casos em que decretada anteriormente a prisão preventiva.
+2. Não havendo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+3. Agravo regimental improvido.
+(AgRg no HC 621.367/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 10/12/2020)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
