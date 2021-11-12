@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por DENISE MOREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO AÇÃO DE COBRANÇA ILEGITIMIDADE PASSIVA DEMONSTRADA A ILEGITIMIDADE PASSIVA DOS DEMANDADOS PARA RESPONDER À AÇÃO POR MAIORIA APELAÇÃO IMPROVIDA
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do arts. 17 e 485, VI, do CPC, no que concerne à legitimidade passiva dos recorridos, trazendo os seguintes argumentos:
+Considerando os dois dispositivos legais acima, é possível observar através da análise de toda a prova produzida nos autos, que a ilegitimidade passiva reconhecida aos réus foi equivocadamente concedida. Houve uma grande farsa montada pelos mesmos, farsa esta somente vista pelo Exmo. Sr. Desembargador Antônio Maria Rodrigues de Freitas Iserhard em seu voto divergente, onde assim ressaltou:
+ ..
+Como se vê do acórdão divergente lançado, além de entender que as provas apresentadas são insuficientes e não atestam a ilegitimidade em decorrência do caminhão envolvido no acidente ter sido "vendido" à terceiro (Marco Antônio Franciscone), o desembargador concluiu também que seriam os réus legítimos para responder a ação pelo fato de que o caminhão estar sendo utilizado por terceirizados não isenta a responsabilidade do contratante.
+ ..
+Pode se observar que o Desembargador-Relator não se atentou ao fato de o documento de transferência (de Fábio para Marco Antônio) ter tido sua firma reconhecida em 21/08/08 e o acidente ocorrido em 02/08/08. Ademais, o que vale é a data do reconhecimento e não de suposta assinatura do contrato (que pode ser escolhida pelas partes envolvidas). Em referido documento (f1.125/126), Fábio, gerente da Transversátil, transfere o caminhão a Marco Antônio, funcionário, sem bens a serem penhorados, numa esperta jogada.
+Também não atentou para o fato de o caminhão estar na posse de um transportador autônomo/terceirizado não isenta a responsabilidade do contratante l .
+Diante destes dois fatos relevantes, a legitimidade de Fábio Mocellin e Transversatil Sul Assessoria e Transportes Ltda deve ser reconhecida e, consequentemente, deve o mérito ser analisado (fls. 634/637).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O acidente ocorreu em 04.08.08 envolvendo uma carreta/semi-reboque e um caminhão-trator.
+A carreta/semi-reboque Guerra, placas IHJ 9258, que estava registrada em nome de Rodoviário Nova Era (fl. 109), foi vendida para Dilene Maria de Oliveira em 01.11.2001 (fl. 111). Caracterizada assim a ilegitimidade passiva da ré Rodoviário Nova Era.
+O caminhão-trator Ford Cargo, placas ANV 8440 foi vendido por Fábio Luis Mocellin para Marco Antônio Franciscone, Gerente da Transversátil, em 05 de maio de 2008 (fls. 125-126).
+No entanto, na data dos fatos, o caminhão estava na posse de Paulo Rogério Gonçalves Nunes, transportador autônomo contratado e estava sendo dirigido por Luís Marcos Melo dos Santos, empregado de Paulo Sérgio.
+Assim, impõe-se confirmar a sentença que extingiu o feito em relação à ré Transversátil e ao réu Fábio Mocellin, por ilegitimidade passiva (fls. 600/601).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
