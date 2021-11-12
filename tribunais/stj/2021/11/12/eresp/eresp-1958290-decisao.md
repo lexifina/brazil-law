@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSE ACACIO PAVAN com fundamento no art. 105, III, "a", da Constituição Federal.
+Na origem, o presente feito decorre de ação declaratória ajuizada em face da União, com o objetivo de que seja reconhecido o direito da parte autoraà isenção do imposto de renda sobre a sua aposentadoria e previdência complementar privada,bem como à repetição de indébito em relação aos valores pagos nos últimos 5 anos, em razão de ser portadora da doença de Alzheimer
+Foi atribuído à causa ovalor de R$ 70.000,00 (setenta mil reais), em fevereiro de 2018.
+Por sentença julgou-se parcialmente procedente o pedido, para reconhecer o direito da parte a partir de janeiro de 2017, data do laudo pericial. No TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, a sentença foi mantida, conforme a seguinte ementa de acórdão, in verbis:
+DECLARATÓRIA - TRIBUTÁRIO - IMPOSTO DE RENDA - ISENÇÃO -TERMO INICIAL - HONORÁRIOS ADVOCATÍCIOS.
+1. A Lei Federal nº 7.713/1988: "Art. 6º Ficam isentos do imposto de renda os seguintesrendimentos percebidos por pessoas físicas: (..) XIV - os proventosde aposentadoria ou reforma motivada por acidente em serviço e os percebidos pelos portadores de moléstia profissional, tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença deParkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante),contaminação por radiação, síndrome da imunodeficiência adquirida, com baseem conclusão da medicina especializada, mesmo que a doença tenha sidocontraída depois da aposentadoria ou reforma;".
+2. A interpretação da isenção é literal (artigo 111, do Código Tributário Nacional). Nas hipóteses de Alzheimer, é necessário averiguar da alienação mentalpara a concessão do benefício.3. Da leitura dos laudos, conclui-se pela existência de quadro avançado de demência, a configurar alienação mental tal que culminou, inclusive, na interdiçãodo autor. O fato de o autor ser interditado revela sua plena incapacidadepara os atos da vida civil. Nesta senda, é desnecessária a produçãode novo laudo. Precedentes jurisprudenciais.
+4. De outro lado, não há prova conclusiva de que o quadro de alienação mentalremeta ao ano de 2010, como pretendido pelo autor. Conforme atestadopela perícia, trata-se de "processo degenerativo progressivo", não sendopossível afirmar, com precisão, o efetivo início da condição. Neste contexto, deve ser mantido o termo inicial da isenção na data do laudo mais remoto. É pertinente a restituição dos valores recolhidos desde então.
+5. É regular que os honorários advocatícios sejam fixados nos termos do artigo85, do Código de Processo Civil de 2.015, nos percentuais mínimos de cadainciso do §3º, com a fórmula de cálculo prevista no §5º, tendo como basevalor a ser restituído, oportunamente apurado em liquidação.6. Considerado o trabalho adicional realizado pelos advogados, em decorrênciada interposição de recurso, os honorários advocatícios, por ocasiãoda liquidação, deverão ser acrescidos de percentual de 1% (um por cento), nos termos do artigo 85, § 11, do Código de Processo Civil.
+7. Apelações desprovidas.
+Contra a decisão cuja ementa se encontra acima transcrita, JOSE ACACIO PAVAN interpôs recurso especial, apontando violação do art.6º, inciso XIV, da Lei n. 7.713/88. Sustenta, em síntese, que:
+Resta incontroverso nos autos o direito do recorrente à isenção, de forma que não irá argumentar em relação a isso. Também foi reconhecido o direito a isenção pelo v. acórdão, contudo, resta o debate acerca do termo inicial da isenção e, por consequência, do dever de restituição.
+A isenção prevista no referido artigo deve ser reconhecida a partir da data em que foi comprovada a doença, ou seja, a data do diagnóstico médico, independentemente de laudo oficial.
+O direito mencionado neste artigo não surge na data da emissão do laudo ou no momento de protocolização do pedido administrativo, mas no instante em que eclodida a moléstia, especialmente porque a norma visa desonerar aqueles que passaram a assumir pesados encargos financeiros com médicos, medicamentos etc.
+Nesse sentido, este Tribunal já fixou entendimento de que o termo inicial é a data da comprovação da doença mediante diagnóstico médico:
+ ..
+Foram apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O recurso não deve ser conhecido.
+Verifica-se que a irresignação da parterecorrente, acerca da comprovação supostamente anterior a data do laudo pericial, quanto a existência da alienação mentaldo requerente, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, concluiuque:
+Da leitura dos laudos, conclui-se pela existência de quadro avançado de demência, a configurar alienação mental tal que culminou, inclusive, na interdição do autor.
+O fato de o autor ser interditado revela sua plena incapacidade para os atos da vida civil. Nesta senda, é desnecessária a produção de novo laudo. No mesmo sentido, confira-se:
+ ..
+De outro lado, não há prova conclusiva de que o quadro de alienação mental remeta ao ano de 2010, como pretendido pelo autor.
+Conforme atestado pela perícia, trata-se de "processo degenerativo progressivo", não sendo possível afirmar, com precisão, o efetivo início da condição.
+Neste contexto, deve ser mantido o termo inicial da isenção em janeiro de 2017 - data do laudo mais remoto.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ, segundoa qual "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Com fundamento no art. 85, § 11, do CPC/2015, majoro a condenação da verba honorária fixada pelo Tribunal de origem em 1 ponto percentual, sopesado, para a definição do quantum ora aplicado, o trabalho adicional realizado pelos advogados.
+Publique-se. Intimem-se.
