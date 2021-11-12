@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO CESAR DOS SANTOS FERREIRA contra o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que negou provimento ao Agravo em Execução Penal n. 5093237-61.2021.8.21.7000/RS, mantendo a decisão do JUÍZO DA VARA ADJUNTA DE EXECUÇÕES CRIMINAIS DA COMARCA DE SÃO BORJA - SEEU, que, no PEC n. 0001263-59.2016.8.21.0030, indeferiu os pedidos de progressão de regime e de livramento condicional.
+Neste mandamus, a Defensoria Pública alega, em síntese, que o paciente preenche todos os requisitos para a concessão dos benefícios postulados, destacando que o indeferimento se fundamentou no fato de o apenado, em tese, ter feito uso de "maconha". Tal conduta, sequer comprovada nos autos, não depõe contra o preenchimento do requisito subjetivo, sobretudo quando reconhecido pelo próprio acórdão a existência de atestado de bom comportamento carcerário e a ausência de contraindicações à progressão na avaliação psicológica realizada (fl. 6).
+Menciona, ainda, que, no que toca ao livramento condicional, a mera fundamentação sobre estar o paciente em regime fechado não sustenta o indeferimento (fl. 6).
+Requer, assim, a concessão da ordem para que seja cassado o acórdão a quo.
+Liminar indeferida (fls. 249/250).
+Informações prestadas (fls. 254/275 e 276/279).
+O Ministério Público Federal ofereceu parecer pelo não conhecimento do writ (fls. 284/290).
+É o relatório.
+A ordem não merece concessão.
+Ao indeferir os pedidos de progressão de regime e de livramento condicional, o Juiz singular teceu os seguintes fundamentos (fl. 165):
+ ..
+Quanto à progressão de regime, recentemente foi indeferido e a decisão foi mantida em sede de recurso (evento 41), além do mais os seus pressupostos seguem hígidos, tendo em vista que a situação do apenado não foi modificada. Verifica-se no atestado do evento 42 que o apenado não exerce atividade laboral, permanecendo sem qualquer atividade desde o início de sua prisão, bem como no exame criminológico constou que o apenado deve realizar tratamento para drogadição com acompanhamento do CAPS (evento 65), sendo realizado seu exame toxicológico, no qual o resultado foi positivo para maconha (evento 80), indicando que o apenado teve a posse e usou droga dentro do PESB e, ainda, mentiu na manifestação social e na avaliação psicológica (evento 65), pois afirmou estar sem usar drogas.
+Desta forma, o pedido de progressão de regime. INDEFIRO
+Pelas razões expostas, o pedido de livramento condicional, sendo que, neste caso, configuraria progressão INDEFIRO per saltum, o que é vedado, estando corretas as ponderações ministeriais acerca da ausência de demonstração do requisito subjetivo, sendo prematuro qualquer avanço à liberdade sem a comprovação de comportamento satisfatório, sem o elevado risco de reiteração delitiva à sociedade.
+ ..
+Extrai-se, ainda, das informações prestadas à fl. 278 o seguinte trecho (grifo nosso):
+ ..
+O paciente foi condenado à pena privativa de liberdade de cinco anos, nove meses e sete dias de reclusão, pela prática dos crimes de porte de arma de fogo e furto qualificado (evento 1.1), tendo iniciado a reprimenda em 18.5.2017, em regime fechado.
+Em 5.8.2020, teve indeferido pedido de progressão de regime e livramento condicional por ausência de preenchimento dos requisitos subjetivos, especialmente pelos procedimentos administrativos disciplinares registrados em seu desfavor pela prática de faltas graves e homologados por este Juízo.
+Em 11.1.2021, foi determinada a realização de exame criminológico e, em 8.2.2021, a realização de exame toxicológico no apenado.
+Em 31.3.2021, foi indeferido novo pedido de Livramento Condicional e Progressão de Regime tendo em vista que a situação do apenado não foi modificada, pois segundo atestado do estabelecimento prisional (evento 42), o apenado não exerce atividade laboral, permanecendo sem qualquer atividade desde o início de sua prisão, bem como no exame criminológico constou que o apenado deve realizar tratamento para drogadição com acompanhamento do CAPS (evento 65). Realizado exame toxicológico o resultado foi positivo para maconha (evento 80), indicando que o apenado teve a posse e usou droga dentro do ergástulo, o que também tipifica nova falta grave e, ainda, mentiu na manifestação social e na avaliação psicológica (evento 65), pois afirmou estar sem usar drogas (grifo nosso).
+ ..
+Verifica-se nos trechos acima que a fundamentação utilizada pelas instâncias inferiores para negar ao paciente os benefícios da progressão de regime e do livramento condicional teve como base fatos ocorridos durante a execução penal, pois praticou falta disciplinares de natureza grave. Por esse motivo, perfeitamente idônea a avaliação do requisito subjetivo realizada pelo Tribunal a quo, tendo sido devidamente observado o art. 112, § 1º, da Lei de Execução Penal, assim como a jurisprudência consolidada no Superior Tribunal de Justiça.
+Com efeito, esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento tanto do pleito de progressão de regime prisional quanto do de concessão de livramento condicional pelo inadimplemento do requisito subjetivo (AgRg no HC n. 584.224/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020).
+Ademais, segundo o entendimento desta Corte, não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado (HC n. 633.355/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/5/2021).
+Ainda nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. FUNDAMENTAÇÃO CONCRETA. FALTA DE REQUISITO SUBJETIVO. FALTAS GRAVES (EVASÃO E PRÁTICA DE DOIS FATOS DEFINIDOS COMO CRIMES DOLOSOS). AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há limite temporal estabelecido na Lei de Execução Penal para o preenchimento do requisito subjetivo para progressão de regime, devendo ser considerado todo o período de execução da pena, a fim de se aferir o mérito do apenado, ainda que haja atestado de boa conduta carcerária. Precedentes do STJ.
+2. "O período de reabilitação das faltas, previsto nos códigos penitenciários de cada unidade federativa, não pode ser adotado como referência para ignorar o comportamento do reeducando, sob pena de transformar o Juiz da Execução em mero chancelador de documentos emitidos pela unidade prisional" (AgRg no HC 477.887/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/03/2019, DJe 25/03/2019).
+3. Sem embargo, tem-se que a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e faltas graves muito antigas, isoladamente, não constituem fundamentos idôneos para indeferir o benefício.
+4. Na hipótese em apreço, conforme decidido monocraticamente, o indeferimento da progressão de regime é válido, pois amparado na prática de faltas disciplinares de natureza grave - abandono do cumprimento de regime semiaberto anteriormente concedido (evasão) e prática de dois fatos definidos como crimes dolosos (roubos majorados) - ocorridas no curso da execução que se pretende a concessão do benefício.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 494.742/SP, Ministra Laurita Vaz, Sexta Turma, DJe 14/6/2019 - grifo nosso)
+Por fim, a modificação das conclusões das instâncias ordinárias quanto ao preenchimento do requisito subjetivo exigiria o aprofundado exame de fatos e de provas, providência inadmissível na via eleita.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PROGRESSÃO DE REGIME. AUSÊNCIA DE REQUISITO SUBJETIVO. DECISÃO FUNDAMENTADA EM FATOS OCORRIDOS DURANTE O CUMPRIMENTO DA PENA. FUNDAMENTAÇÃO VÁLIDA. PRECEDENTES.
+Ordem denegada.
