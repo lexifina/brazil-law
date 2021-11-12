@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento ao recurso especial, no qual se alega violação doart. 13, I e III, do Código de Defesa do Consumidor.O acórdãorecorridoestá retratado na seguinte ementa(fls. 342/344):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. IMPROCEDÊNCIA. IRRESIGNAÇÃO. PRELIMINAR EM CONTRARRAZÕES. ILEGITIMIDADE ATIVA. DANO MORAL POR RICOCHETE.POSSIBILIDADE. REJEIÇÃO. PREJUDICIAL DE MÉRITO. DECADÊNCIA. ART. 26, CDC. PEDIDO DE NATUREZA REPARATÓRIA. INAPLICABILIDADE. MÉRITO. ALIMENTO IMPRÓPRIO PARA O CONSUMO. CORPO ESTRANHO. FATO DO PRODUTO. PRODUTO CONSUMIDO. FILHO DA AUTORA QUE APRESENTOU INFECÇÃO INTESTINAL. CONFIGURAÇÃO DO DEVER DE INDENIZAR POR DANOS MORAIS. PRECEDENTES DO STJ. RESPONSABILIDADE DO FABRICANTE E COMERCIANTE. DANOS MATERIAIS. COMPROVAÇÃO. PROVIMENTO DO APELO.
+- Muito embora, em regra, seja a própria vítima a destinatária da indenização por dano moral, esta pode ser pleiteada por aqueles que sofreram a lesão sofrida por terceiros de forma reflexa, como ocorreu no caso em epígrafe, em que a mãe requerer indenização em nome próprio, haja vista o dano moral do qual o seu filho foi vítima.
+- Considerando que a demanda não versa sobrevício do produto ou serviço, inaplicável a hipótese de decadência prevista no art. 26 do Código de Defesa do Consumidor. Cabível, in casu, a prescrição prevista no seu art. 27, do referido diploma legal, que envolve a reparação pelos danos decorrentes do fato do produto ou serviço.
+- Para que se reconheça o cabimento da indenização, mostra-se necessária a constatação da conduta antijurídica que gere dano, bem como o nexo de causalidade entre a conduta e o dano.
+- A aquisição e ingestão de produto de gênero alimentício deteriorado e contendo corpo estranho em seu interior conduz ao reconhecimento de dano moral a ser reparado, especialmente considerando que o consumo causou danos à saúde do consumidor.
+- Os danos materiais merecem ser reparados, haja vista que o autor demonstrou efetivamente o prejuízo financeiro suportado, trazendo provas concretas aos autos.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fls. 426/427):
+EMBARGOS DE DECLARAÇÃO. OMISSÕES. ALEGAÇÃO EM CONTRARRAZÕES. EXCLUDENTE DE RESPONSABILIDADE DO COMERCIANTE. ALIMENTO IMPRÓPRIO PARA O CONSUMO. CORPO ESTRANHO. INGESTÃO. PRODUTO CONSUMIDO. RESPONSABILIDADE OBJETIVA. AUSÊNCIA DE DEMONSTRAÇÃO DE FATO EXCLUDENTE DA RESPONSABILIDADE DO COMERCIANTE. DEMAIS QUESTIONAMENTOS. AUSÊNCIA DE VÍCIO NO JULGADO. EMBARGOS PARCIALMENTE ACOLHIDOS COM EFEITO INTEGRATIVO E SEM MODIFICAÇÃO DO JULGADO.
+- Os embargos de declaração são cabíveis no caso de o provimento jurisdicional apresentar omissão, contradição ou obscuridade, nos termos do art. 535 do Diploma Processual Civil, bem como para sanar a ocorrência de erro material.
+- Em sendo omisso o acórdão em relação a um dos questionamentos do recorrente, é necessário o acolhimento, ainda que parcial, dos embargos de declaração, com efeito integrativo a fim de que seja sanado o vício, aperfeiçoando, assim, a prestação jurisdicional.
+- Quanto ao segundo questionamento, não se vislumbra omissão no julgado. Isso porque houve a solução da lide de forma devidamente fundamentada, com as suas análises e em estrita consonância com os elementos constantes nos autos, a legislação aplicável ao caso e o entendimento jurisprudencial sobre o tema, não havendo que se cogitar em omissão que possa ser sanada por meio de embargos de declaração neste aspecto.
+Sustenta a agravante que a responsabilidade do comerciante somente ocorrerá quando o fornecedor do produto não puder ser identificado, ou se o produto perecível for armazenado de forma irregular pelo estabelecimento comercial.
+Argumenta que deve ser afastada a condenação solidária da agravante.
+Assim posta a questão, passo a decidir.
+Verifico que o Tribunal de origem consignou a responsabilidade solidária da agravante, conforme se extrai dos seguintes trechos (fls. 430/434):
+(..)
+Como relatado a presente demanda consiste em ação indenizatória fundada em fato do produto, no qual a parte autora postulou indenização por danos morais e materiais, em virtude de ingestão de iogurte pelo filho do autor que continha corpo estranho, com a aparência de fungos e bactérias.
+Em sede de contrarrazões, o ora embargante afirmou que, nos termos do art. 13 do Código de Defesa do Consumidor, não há que se falar em responsabilidade civil do comerciante uma vez que o fabricante pode ser identificado e não existiram provas de que o supermercado não conservou adequadamente o produto perecível.
+(..)
+Conforme devidamente consignado no acórdão ora embargado, tanto o fabricante, quanto o comerciante, membros integrantes da cadeia de consumo, respondem na qualidade de fornecedora de produto por qualquer defeito do produto ou serviço, mesmo que surja já no processo de comercialização.
+(..)
+Neste trilhar de ideias, a alegação de ausência de comprovação da má conservação do produto por parte do supermercado não merece prosperar, haja vista que, em se tratando de responsabilidade objetiva, independe da comprovação de culpa, bastando a existência de dano e do nexo causal.
+Assim, levando-se em conta que o produto foi comercializado pelo embargante, caberia a este demonstrar que o produto fora conservado e armazenado de modo adequado. In casu, o comerciante não obteve êxito em comprovar fato excludente de sua responsabilidade. Assim, considerando que integra, juntamente com o fabricante, a cadeia de consumo, a responsabilidade pelos prejuízos arcados pelo consumidor, parte mais frágil na relação, será de ambos.
+Dessa forma, não assiste razão ao recorrente.
+(..) (destaque nosso)
+Anoto que rever a conclusão da Corte local, de que o comerciante não comprovou que o produto perecível foi conservado e armazenado de modo adequado, e, por consequência, consignou a responsabilidade solidária da empresa agravante,demandaria o reexame do acervofático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título dehonorários emfavorda parte recorrida, observando-se os limites dos §§ 2ºe 3º doreferidodispositivo.
+Intimem-se.
