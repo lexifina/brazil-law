@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Luiz Alberto da Silva Amaral- preso preventivamente porque responde àAção Penal n. 0000225-55.2020.8.19.0053 por suposta prática, na qualidade de mandante, de homicídio da vítima C da S M (fls. 48/71)-, em que se aponta como autoridade coatora o Desembargador Relatordo Tribunal de Justiça do Rio de Janeiro, que indeferiu a liminar do writ (Habeas Corpus n. 0078133-22.2021.8.19.0000).
+Alega a impetrante, em síntese, que o constrangimento ilegal decorre de decisão que, mediante fundamentação inidônea, não deferiu pedido de desmembramento do processo de origem, em relação ao paciente, e isso atrasará o regular andamento do feito, considerando a interposição de recurso em sentido estrito por dois corréus (fl. 69).
+Postula, ao final, a concessão liminar da ordem para que, superada a Súmula 691/STF, seja desmembrada a ação originária com relação ao paciente(fls. 3/17).
+É o relatório.
+Ab initio, as Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no Enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, o Relator a quo, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida.E nisso não há nenhum constrangimento ilegal.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+No caso, inclusive, o decisum singular prolatado pelo eminente Relator, sobre a suposta ocorrência de excesso de prazo para a conclusão da ação pena,ressaltou o seguinte:os prazos processuais não constituem meras operações aritméticas, de molde a configurar excesso de prazo, devendo ser observado, consoante já assentado pela jurisprudência pátria, o caso concreto. Ressalte-se, ademais, que o recurso em sentido estrito interposto pelos corréus já retornou da Procuradoria Geral de Justiça, sendo determinada sua inclusão em pauta para julgamento (fl. 70).
+Ante o exposto, inexistindo a excepcionalidade necessária ao abrandamento do enunciado da Súmula 691/STF, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. DESMEMBRAMENTO DO FEITO.SUPRESSÃO DE INSTÂNCIA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 691/STF. APLICABILIDADE.FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
