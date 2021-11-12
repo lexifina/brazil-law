@@ -1,0 +1,37 @@
+DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. FIXAÇÃO DE ASTREINTES. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O APELO EXTREMO. SEPARAÇÃO DOS PODERES. VIOLAÇÃO. NÃO OCORRÊNCIA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO A QUE SE NEGA SEGUIMENTO.
+
+    Vistos etc.
+
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 2º, 37, XXI, e 167, II, da Constituição Federal.
+
+    É o relatório.
+
+    Decido.
+
+    Preenchidos os pressupostos extrínsecos.
+
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência deste Supremo Tribunal Federal, no sentido da possibilidade de atuação do Poder Judiciário na implementação de políticas públicas, em situações excepcionais, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais apontados. Colho precedentes:
+
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. REFORMA DE ESCOLA EM ESTADO PRECÁRIO DE CONSERVAÇÃO. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. INOCORRÊNCIA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 07.8.2013. 1. O entendimento adotado pela Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que o Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de Poderes. Entender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido” (ARE 886.710-AgR, da minha lavra, 1ª Turma, DJe 19.11.2015).
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Constitucional. Ação civil pública. Criança e adolescente. Conselho tutelar. Implementação de políticas públicas. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação dos poderes, inserto no art. 2º da Constituição Federal. 2. O recurso extraordinário não se presta para o reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido” (ARE 827.568-AgR, Rel. Min. Dis Toffoli, 2ª Turma, DJe 16.5.2016).
+
+    No que diz com a fixação de astreintes, verifico que as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie e no quadro fático delineado, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos preceitos constitucionais indicados nas razões recursais. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. EXECUÇÃO: NÃO SUBMISSÃO AO REGIME DOS PRECATÓRIOS. PRECEDENTES. FIXAÇÃO DE ASTREINTES: OFENSA CONSTITUCIONAL INDIRETA E INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.266.044 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 26.8.2020).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AÇÃO POPULAR. ANULAÇÃO DE ATO. FIXAÇÃO DE ASTREINTES. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas dos autos, tampouco para análise de matéria infraconstitucional (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE 1.315.599-AgR, Rel. Min. Luiz Fux (Presidente), Tribunal Pleno, DJe 01.7.2021).
+
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+
+    Nego seguimento (art. 21, § 1º, do RISTF). Honorários advocatícios majorados em 10% (dez por cento), em desfavor da parte recorrente, caso fixada a verba honorária na origem, observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015, bem como a eventual concessão do benefício da gratuidade da Justiça.
+
+    Publique-se.
+
+    Brasília, 12 de novembro de 2021.
+
+Ministra Rosa Weber
+
+Relatora
