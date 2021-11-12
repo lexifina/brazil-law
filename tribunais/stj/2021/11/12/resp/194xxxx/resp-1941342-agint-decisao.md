@@ -1,0 +1,31 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo interno de fls. 560/569 (e-STJ), RECONSIDERO a decisão de fls. 495/497 (e-STJ), e passo a novo examedorecurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A, fundamentado na alínea "a" do permissivo constitucional.
+Ação: declaratória de nulidade de cláusula contratual ajuizada por MARCELO MERCANTE SAVASTANO, em desfavor da recorrente, AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A, referente aos reajustes por sinistralidade aplicados em contrato de plano de saúde coletivo.
+Sentença: julgou procedente o pedido.
+Acórdão: negou provimento à apelação interposta pela recorrente e deu provimento ao recurso do autor, para alterar os honorários advocatícios fixados, nos termos da seguinte ementa:
+Plano de saúde. Ação declaratória de nulidade de reajuste. Sentença de procedência. Irresignação das partes. Possibilidade abstrata de reajuste da mensalidade do contrato coletivo por aumento de sinistralidade. Idoneidade dos índices não demonstrada. Ré que não apresentou documentos que justificam o reajuste impugnado. Expurgo determinado. Substituição pelo índice autorizado pela ANS para os contratos individuais. Honorários sucumbenciais. Fixação com base no valor da condenação. Inadmissibilidade. Sentença que não possui estrito conteúdo condenatório. Adoção do valor da causa ou do proveito econômico obtido com a demanda que implicaria na fixação de honorários irrisórios. Incidência da norma do art. 85, §§ 8º e 11, do CPC. Honorários fixados em R$ 2.500,00. Sentença reformada, em parte. Recurso do autor provido, desprovido o da ré.
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022 do CPC, 35-E, §2º, da Lei n. 9.656/98 e 478 do CC. Além de negativa de prestação jurisdicional, sustenta a legalidade dos reajustes aplicados, pugnando pela inaplicabilidade dos índices prescritos pela ANS para contratos individuais.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da abusividade dos índices de reajustes aplicados, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da Súmula 568/STJ
+A Corte de origem, ao afastar o reajuste anual e determinar a aplicação dos índices adotados pela ANS para os contratos individuais e familiares, decidiu em desacordo com a jurisprudência do STJ, firme no sentido de que é possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, descabendo, contudo, a limitação dos reajustes aos índices autorizados pela ANS.
+Nesse sentido: REsp 1729320/SP, 3ª Turma, DJe 09/08/2018; AgInt no AREsp 1155520/SP, 4ª Turma, DJe 15/02/2019; AgInt no REsp 1719884/SP, 3ª Turma, DJe 03/05/2018; AgInt nos EDcl no AREsp 1628431/SP, 4ª Turma, DJe 20/11/2020;AgInt no AREsp 1201808/SP, 3ª Turma, DJe 27/03/2019.
+Por outro lado, uma vez reconhecida, pelo Tribunal de origem, a abusividade dos índices de reajustes aplicados, inviável sua alteração, tendo em vista a necessidade de reexame de fatos e provas, vedadoem recurso especial pelo óbice daSúmula 7/STJ.
+Assim, merece reforma o acórdão recorrido, para, mantido o reconhecimento da abusividade do reajuste aplicado, afastar a aplicação dos índices de reajuste regulados pela ANS para os contratos individuais/familiares.
+Diante da complexidade para se definir o índice de reajuste por sinistralidade adequado ao contrato objeto de discussão nos presentes autos, necessária a apuração do índice por cálculos atuariais, a serem realizados em sede de cumprimento de sentença.
+Forte nessas razões, após RECONSIDERAR a decisão de fls. 495/497 (e-STJ),com fundamento no art. 932, III,IV, "a", e V, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especiale, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, para determinar que oíndice de reajuste adequado ao contrato em discussão nos autos seja apurado em sede de cumprimento de sentença, por meio de cálculos atuariais.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL. CONTRATO DE PLANO DE SAÚDE COLETIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REAJUSTES ANUAIS. POSSIBILIDADE. ABUSIVIDADE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. ÍNDICES AUTORIZADOS PELA ANS PARA PLANOS INDIVIDUAIS/FAMILIARES. INAPLICABILIDADE. SÚMULA 568/STJ.
+1. Ação declaratória de nulidade de cláusula de reajuste por sinistralidade em contrato de plano de saúde coletivo.
+2. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+3. É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, descabendo, contudo, a limitação dos reajustes aos índices autorizados pela ANS. Precedentes.
+4. Alterar o decididono acórdão impugnado, no que se refere à abusividade dos índices de reajustes aplicados, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Decisão de fls. 495/497 (e-STJ) reconsiderada.
+6. Recurso especial parcialmente conhecido e, nessa extensão,parcialmente provido.
