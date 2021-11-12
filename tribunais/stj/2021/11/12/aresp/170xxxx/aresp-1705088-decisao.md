@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Agravo, interposto por BANCO SANTANDER(BRASIL) S/A, mediante o qual se impugna decisão de inadmissão deseu Recurso Especial,esse tiradode acórdão, promanado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EXECUÇÃO FISCAL - IPVA - RESPONSABILIDADE SOLIDÁRIA DO CREDOR FIDUCIÁRIO - ART. 6º, IX E § 2º, DA LEI ESTADUAL 13.296/08 - TRIBUTO SUJEITO A AUTOLANÇAMENTO, CUJA EXIGIBILIDADE INDEPENDE DE PROCEDIMENTO ADMINISTRATIVO FISCAL - EMBARGOS IMPROCEDENTES - SENTENÇA CONFIRMADA" (fl. 168e).
+Embargos de Declaração rejeitados (fls. 180/181e).
+Nas razões do seu Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts.110, 131, I, 142 e 145 do CTN,481, 586, 1.228, 1.267e 1.361do Código Civil e39, § 1º, do Decreto-lei911/69, bem como a diversos dispositivos constitucionais.
+Sustenta, em breve síntese, que:
+"(..) o fato de ser credora fiduciária não a torna proprietária do veículo (contribuinte do imposto) e não permite o enquadramento na hipótese de incidência, motivo pelo qual havia deturpação do conceito de propriedade previsto na legislação civil e, portanto, agressão ao disposto no art. 481, 586, 1.228, 1.267 e 1.361 do Código Civil; art. 110 do Código Tributário Nacional; além de negativa de vigência ao art. 3º, §1º do DL 911/1969 e, finalmente, ao inciso III do art. 155 da Constituição Federal" (fl. 188e).
+Requer, por fim:
+"(..) seja conhecido e provido o presente Recurso Especial, para o fim de:
+(i) decretar a extinção da execução da Execução Fiscal, sem análise do mérito, tendo em vista que a Requerente não foi notificada do lançamento do tributo, sendo inserida apenas na Certidão da Dívida Ativa do Estado de São Paulo;
+subsidiariamente:
+(ii) reconhecer, nos termos da legislação civil aplicável, a ilegitimidade para figurar no polo passivo da Execução Fiscal, uma vez que o Requerente não é proprietário do veículo objeto do financiamento e nunca possuiu a propriedade do bem desde que operada a tradição com o financiado, de modo que não pode ser apontado como contribuinte de IPVA, determinando-se assim a extinção do feito executivo;
+concomitantemente:
+(iii) determinar a inversão do ônus da sucumbência, com a condenação do Recorrido ao pagamento de custas e despesas processuais, bem como condená-lo ao pagamento de honorários advocatícios, à luz do vigente Código de Processo Civil (Lei n9 13.105/2015)" (fl. 207e).
+Contrarrazões, a fls. 260/263e.
+Recurso Especial inadmitido (fls. 264/265e), com base nas Súmulas 7/STJ e, por analogia, 280/STF, o que ensejou a interposição de Agravo (fls. 304/327e).
+Contraminuta, a fls. 330/333e.
+De início, registre-se que a controvérsia posta nos autos é diversa daquela abarcada pelo TEMA 685/STF, de modo que deve ser desconstituído o despacho que fls. 349/352, o qual determinara, equivocadamente, a devolução dos autos ao Tribunal de origem, para aguardar o julgamento da referida repercussão geral.
+Passa-se, assim, à análise do presente recurso.
+A irresignação não merece prosperar.
+Impossível conhecer da alegação de violação a dispositivos constitucionais, bem como da alegação de falta de notificação do lançamento do tributo. Sobre o primeiro ponto, porque descabe a análise de matéria constitucional em sede de Recurso Especial. Sobre o segundo, porque a questão não foi objeto de decisão, pelo Tribunal de origem, de modo que se ressente, à toda evidência,do necessário prequestionamento (aplicável, no particular,a Súmula 211/STJ).
+Quanto ao mais, importante reproduzir o seguinte trecho do voto condutor do decisum impugnado:
+"A despeito das alegações do autor, a sua responsabilidade pelos débitos não pode ser afastada. Com efeito, o fato gerador do IPVA é a propriedade de veículo automotor, nos termos do artigo 155, III, da Constituição Federal:
+(..)
+Por sua vez, a Lei Estadual nº 13.296/08 prevê o quanto segue:
+(..)
+Assim, a legislação prevê expressamente que o titular do domínio ou o possuidor a qualquer título é responsável solidário pelo pagamento do IPVA.
+A Lei Estadual nº 13.296/08 possui caráter especial, deforma que o credor fiduciário é responsável solidariamente pelos débitos do referido tributo, constituídos no curso do contrato de alienação fiduciária, em razão de ser o titular do domínio resolúvel sobre o bem (artigo 6º, inciso XI, da citada lei), motivo pelo qual não se aplica o disposto no artigo 1.368-B, parágrafo único, do Código Civil, que possui caráter geral.
+O autor não nega a qualidade de credora fiduciária, deforma que detém o domínio e a posse indireta dos veículos, o que justifica sua responsabilidade pelo pagamento do tributo, nos termos da legislação em vigor.
+No contrato de alienação fiduciária, a propriedade resolúvel do veículo é transmitida ao credor fiduciário, no caso, a instituição financeira, em garantia da obrigação contratada. O devedor fiduciante é mero possuidor direto do bem, sendo a instituição financeira a detentora da propriedade resolúvel do veículo e, portanto, corresponsável solidariamente pelo pagamento do IPVA até que a transferência seja efetivada, nos termos do artigo 6º, inciso XI e §2º da Lei Estadual nº 13.296/08.
+Embora o devedor seja responsável por eventuais multas e despesas de estadia sobre o veículo em pátio, posto que relacionados ao exercício de sua posse direta sobre o bem, é inequívoco que, na vigência do contrato de alienação fiduciária, a propriedade é do credor, isto é, da instituição financeira.
+Sendo o IPVA tributo incidente sobre a propriedade do veículo, é a instituição financeira, durante o prazo de vigência do contrato, o contribuinte do imposto.
+Assim, somente não praticará o fato gerador do IPVA quando não figurar mais na condição de proprietário, momento em que não poderá mais ser atribuída a responsabilidade pelo pagamento do tributo" (fls. 169/171e).
+Conforme se observa, o Tribunal de origem decidiu a lide com base na interpretação doart. 6º, XI, e § 2º, da Lei estadual paulista13.296/2008.Assim, releva-se impossível o acertamento da questão, na via do Recurso Especial, em razão da aplicação, por analogia, da Súmula 280/STF.
+De outro lado, tendo em contra quea responsabilidade tributária foi fixada, pelo Tribunal a quo, a partir do exame de lei estadual, segue-se que, para afastar sua aplicação, serianecessário invalidá-la, por afronta a dispositivo de Lei Federal (no caso, o CTN).
+Entretanto, não é cabível, no âmbito do recurso especial, examinar suposta incompatibilidade entre lei local e diploma normativo da União, porquanto se trata de matéria de competência do Supremo Tribunal Federal, por meio do recurso extraordinário.
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PECÚLIO "POST MORTEM". DIREITO RECONHECIDO COM BASE EM LEI LOCAL. CONTROVÉRSIA DE NATUREZA CONSTITUCIONAL. DESCABIMENTO DO APELO NOBRE.
+1. É deficiente a alegação genérica de violação do art. 535 do CPC/1973, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal local e não comprova ter questionado as suscitadas falhas nos embargos de declaração. Incidência da Súmula 284/STF.
+2. Nos termos do art. 102, II, "d", da Constituição Federal, cabe ao Supremo Tribunal Federal julgar, mediante recurso extraordinário, a decisão que assentar válida lei local contestada em face de lei federal.
+3. Na hipótese, o Tribunal a quo afirmou a aplicação da Lei estadual n. 285/1979 em detrimento da Lei federal n. 9.717/1998. Inviável o exame da tese recursal na via eleita sob pena de usurpação da competência da Corte Maior. Precedentes.
+4. Recurso especial não conhecido" (STJ, REsp 1.885.965/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 15/03/2021).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CRÉDITO TRIBUTÁRIO. LANÇAMENTO DECORRENTE DAS INFORMAÇÕES FORNECIDAS PELAS ADMINISTRADORAS DE CARTÕES. POSSIBILIDADE. LEGISLAÇÃO ESTADUAL. MATÉRIA CONSTITUCIONAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Dentre outros requisitos, a admissibilidade do especial, pelas alíneas "a" e "c" do permissivo constitucional, exige a indicação dos dispositivos legais pertinentes que estariam sendo violados e/ou que seriam objeto de interpretações divergentes, com a explicitação de argumentos específicos a respeito de o porquê da conclusão do acórdão recorrido contrariá-los ou não poder ser aceita.
+Precedentes.
+3. Por força do art. 105, III, "b", da CF/1988, o recurso especial é via adequada para o questionamento de atos normativos infralegais em face de lei federal, sendo da competência do Supremo Tribunal Federal julgar a validade lei local contestada em face de lei federal.
+4. No caso dos autos, as sociedades empresárias foram autuadas porque a fiscalização da secretaria de fazenda do Estado de São Paulo constatou omissão de informações pertinentes a vendas realizadas, o que foi possível mediante análise de informações prestadas pelas administradoras de cartão de crédito (Lei Estadual n. 6.374/1989 e Portaria CAT n. 87/2006).
+5. O recurso não preenche os requisitos necessários ao seu conhecimento, por qualquer das hipóteses constitucionais autorizadoras, pois o órgão julgador a quo não decidiu a legalidade de portaria em face de lei federal, mas a constitucionalidade de leis estaduais que a respaldam; não foi demonstrada a divergência jurisprudencial; e porque, considerada a tese de que o acórdão recorrido, apoiado na legislação estadual, viola os arts. 5º e 6º da LC n. 105/2001, a matéria tem natureza constitucional. Precedentes específicos pelo não conhecimento.
+6. Agravo interno não provido" (STJ, AgInt no REsp 1.891.306/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/03/2021).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
