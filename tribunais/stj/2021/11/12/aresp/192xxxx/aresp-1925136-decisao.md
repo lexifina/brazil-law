@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por CLAUDETE MARA CORREIA CURI e outroscontra decisão que negou seguimento a recurso especial manejadoem face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 252):
+APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA EM FASE DECUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA CONFIGURADA. PEDIDO DE CUMPRIMENTO DE SENTENÇA FORMULADO DEPOIS DE PASSADOS 10 (DEZ) ANOS DO TRÂNSITO EM JULGADO DA SENTENÇA. CONTRATO DE ABERTURA DE CRÉDITO. PRESCRIÇÃO QUINQUENAL. ART. 206, § 5º, I DO CÓDIGO CIVIL. DESNECESSIDADE DE INTIMAÇÃO DO CREDOR PARA DAR INÍCIO À EXECUÇÃO. PRESCRIÇÃO CONFIGURADA. HONORÁRIOS DE SUCUMBÊNCIA. MAJORAÇÃO QUE SE IMPÕE. ARBITRAMENTO, CONTUDO, POR EQUIDADE, DADO O ELEVADO PROVEITO ECONÔMICO OBTIDO PELOS DEVEDORES. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. PRECEDENTES
+APELO 1 CONHECIDO E DESPROVIDO.
+APELO 2 CONHECIDO E PARCIALMENTE PROVIDO
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, os recorrentes apontam a violação doart. 85 do Código de Processo Civil/2015 em virtude da impossibilidade de fixação dos honorários sucumbenciais por equidade nas hipóteses não previstas em lei.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da ausência de comprovação da suspensão do expediente no Tribunal de origem.
+Nas razões do presente agravo em recurso especial, os agravantes afirmam que o Decreto Judiciário 560/2020 do Tribunal de origem transferiu as comemorações do dia 8/12/2020 para o dia 11/12/2020. Alegou que tanto a Resolução 278-OE do Tribunal de origem como a Portaria STJ/GP 43 de 4/2/2020, divulgam o dia 8/12/2020 como feriado nacional, sendo devido o reconhecimento da tempestividade do recurso especial.
+Aduzem que, em conformidade com o art. 220 do CPC/2015, para fins de aferição de tempestividade, suspende-se o curso do prazo processual no período de 20 de dezembro a 20 de janeiro, inclusive, e, desse modo, houve imenso equívocodo Tribunal de origem ao afirmar a intempestividade do recurso especial.
+Assim delimitada a controvérsia, passo a decidir.
+Com razão o juízo de admissibilidade, ao considerar intempestivo o recurso especial.
+Da leitura dos autos, verifica-se que o acórdão recorrido foi publicado no diário de justiça eletrônico em 24/11/2020 (fls. 330/335) e a intimação realizada em 4/12/2020 (e-STJ, fls. 337/341), iniciando-se o prazo para interposição do recurso especial em 7/12/2020 (segunda-feira).
+Esclareçoque, a Corte Especial do STJ já consolidou o entendimento de que a ocorrência de feriado local ou suspensão de prazos pelo Tribunal de origem, devem ser comprovados no ato da interposição do recurso.
+Nesse sentido:
+PROCESSO CIVIL. CIVIL. INDENIZAÇÃO. DANO MORAL. PROCEDÊNCIA.DECISÃO DE INADMISSIBILIDADE DO ESPECIAL PUBLICADA NA VIGÊNCIA DO CPC/2015. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO NA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, CPC/2015. EMBARGOS DE DIVERGÊNCIA.INADIMISSIBILIDADE. INEXISTÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS.
+ ..
+X - A despeito da ausência do imprescindível cotejo analítico, é possível constatar que a decisão colacionada (paradigma) foi proferida em 19 de setembro de 2012, ou seja, na vigência do Código de Processo Civil de 1973. A legislação processual civil antes em vigor não exigia de modo expresso - tal como a atual - a "comprovação da ocorrência de feriado local no ato de interposição do recurso" (art. 1.003, § 6º). No entanto, o acórdão recorrido, nos presentes autos, foi publicado na vigência do Código de Processo Civil de 2015, hipótese em que este Tribunal já firmou entendimento segundo o qual, em se tratando da ocorrência de feriado local para efeito de tempestividade do recurso, a comprovação dar-se-á no ato da interposição, mediante documento idôneo, sendo inaplicável a essa situação específica a regra da possibilidade de regularização posterior, notadamente porque o art. 1.003, § 6º, do CPC/2015, diferentemente do CPC/1973, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". A propósito: (AgInt no AREsp 957.821/MS, relator Ministro Raul Araújo, relatora p/ Acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe 19/12/2017, AgInt no AREsp 1.162.036/GO, relator Ministro Lázaro Guimarães (Desembargador Convocado Do TRF 5ª Região), Quarta Turma, julgado em 12/12/2017, DJe 19/12/2017, AgInt no REsp 1.665.945/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/12/2017, DJe 19/12/2017 e AgInt no REsp 1.624.470/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2017, DJe 1º/2/2018).
+XI - A última decisão trazida como paradigma a tanto não se presta, por cuidar-se de recurso interposto na vigência do CPC/1973, diversamente da hipótese dos autos.
+XII - Agravo interno improvido.
+(AgInt nos EAREsp 1359977/PI, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 26/10/2021, DJe 03/11/2021)
+No caso dos autos, não houve a comprovação de suspensão dos prazos no dia 8/12/2020 nem atransferência do feriado para o dia 11/12/2020.
+Com isso, considerando que o prazo para a interposição do recurso teve início em 7/12/2020, o recurso especial interposto em 28/1/2021 é intempestivo.
+Ressalte-se, por fim, que o objetivo único do agravo em recurso especial é ver analisadas as razões expostas no recurso especial. Dessa forma, sendo este último intempestivo, não há como ser conhecido o primeiro.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
