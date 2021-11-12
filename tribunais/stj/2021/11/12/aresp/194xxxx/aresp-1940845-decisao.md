@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SENTENÇA DE PROCEDÊNCIA. RECURSO DOS DEVEDORES. SUSTENTADA A NULIDADE DA CITAÇÃO. MANDADO CUMPRIDO POR OFICIAL DE JUSTIÇA. CERTIDÃO. FÉ PÚBLICA. PRESUNÇÃO NÃO DERRUÍDA.VÍCIO INOCORRENTE. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Nas razões do recurso especial, apontam as partes agravantes ofensa ao disposto no art. 337, I, do CPC/2015, assim como divergência jurisprudencial. Manifestam-se contra a validade do processo sem efetiva citação da parte ré. Afirmam que "os Recorrentes não foram citados na forma legal e correta" (fl. 440).
+Aduzem, ainda, que "O Fato grave a ser apurado está na clara e nítida narrativa do Sr. Meirinho na certidão por ele exarada; pois muito embora o Oficial de Justiça goze de Fé Pública, mas isso não lhe autoriza prestar informações que não condizem com a verdade" (fl. 442).
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito,com base nos elementos fático-probatórios dos autos, a Corte local afastou a tese de nulidade da citação, com a seguinte fundamentação (fl. 425):
+A certidão lavrada pelo oficial de justiça, serventuário do sistema judicial e equidistante das partes, goza de fé pública e presunção juris tantum de veracidade (art.405 do CPC), sobretudo porque poderá citar a parte, respeitadas as garantias constitucionais, onde encontrá-la (art. 251).
+Mera alegação de que os apelantes são divorciados, por si só, não desconstitui a fé do documento público, assim como não lhe infirma mera alegação de que a empresa possui endereço diverso, uma vez que a localidade constante no cadastro mantido junto à Receita Federal foi objeto da primeira tentativa de citação, inexitosa ante o funcionamento de outra empresa no local (ev. 36).
+Não bastasse, afigura-se no mínimo curioso o manejo do presente recurso, no prazo, contra a sentença desfavorável e que tal ciência teria ocorrido de maneira completamente fortuita, "através de uma consulta ao site do TJSC", realidade que reforça, ainda mais, a veracidade das informações certificadas pelo oficial de justiça, quais sejam, a ocorrência da citação, a entrega da contrafé e a não assinatura do mandado.
+Constato que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o reexame das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL. REVISIONAL.INÉPCIA À INICIAL: PREJUÍZO SÓ À AUTORA. DESNECESSIDADE DE LAUDO PERICIAL. FUNDAMENTOS INATACADOS SUFICIENTES PARA MANUTENÇÃO DO ACÓRDÃO. SÚMULA Nº 283/STF. CITAÇÃO. VALIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. RITO PROCESSUAL. COGNIÇÃO MAIS AMPLA. NULIDADE. NECESSIDADE DE PREJUÍZO. SÚMULA Nº 83/SRJ. DECISÃO MANTIDA.
+1. A subsistência de fundamentos inatacados aptos a manterem a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+2. A pretensão de verificar se válida a citação somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+3. Admite-se a adoção de rito com mais ampla cognição, salvo se comprovado prejuízo às partes. Súmula nº 83/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1342007/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2019, DJe 23/08/2019.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESPESAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. NULIDADE DA CITAÇÃO.SÚMULA Nº 7 DO STJ. MANUTENÇÃO DO JULGADO PELOS SEUS PRÓPRIOS TERMOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alegada nulidade da citação, em razão de não ter sido recebida pela própria pessoa do réu, vai de encontro à conclusão do Tribunal de origem, que a reputou como válida. Alterar tal entendimento encontra óbice no teor da Súmula nº 7 do STJ. Precedentes.
+2. Não sendo a linha argumentativa apresentada pelo agravante capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 666.190/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 28/04/2015, DJe 12/05/2015.)
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes dos arts. 1029, § 1º, do Código de Processo Civil/2015; e 255, parágrafos 1º e 2º, do Regimento Interno do STJ. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
