@@ -1,0 +1,2 @@
+Institui o Documento Eletrônico de Transporte (DT-e); e altera a Lei nº 11.442, de 5 de janeiro de 2007, a Lei nº 13.703, de 8 de agosto de 2018, a Lei nº 10.209, de 23 de março de 2001, a Lei nº 5.474, de 18 de julho de 1968, a Lei nº 10.833, de 29 de dezembro de 2003, e a Lei nº 8.935, de 18 de novembro de 1994.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
