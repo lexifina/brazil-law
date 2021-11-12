@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de agravo interno interposto por VIPLAN VIAÇÃO PLANALTO LIMITADA contra parte da decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 838):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO. DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL EXTRACONTRATUAL. JUROS MORATÓRIOS. TERMO INICIAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL.MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
+Sustenta a agravante que a negativa de seguimento ao apelo extremo extrapolaria a competência desta Corte Superior de Justiça, que se restringiria ao juízo de prelibação, com o fito de verificar o preenchimento ou não dos requisitos de admissibilidade.
+Alega que, ao afirmar a inexistência de ofensa ao art. 93, inciso IX, da Constituição Federal, a Vice-Presidência deste Sodalício teria usurpado a competência constitucional do Supremo Tribunal Federal.
+Afirma que "o eg. STJ permitiu a condenação por danos morais em patamar que, quando da execução, atingirá valor muito superior ao devido, extrapolando o que determina a CF/88, nos moldes do art. 5º, X" (e-STJ fl. 860).
+Argumenta que "oacórdão, à míngua do art. 93, IX, da CF, NÃO PROCEDEU AO EXAME DA MATÉRIA POSTA, NEM DE FORMA SUCINTA" (e-STJ fl. 861), o que afastaria a aplicação do Tema 339/STF.
+Requer o provimento do reclamo para que o recurso extraordinário seja processado.
+Não foram apresentadas contrarrazões (e-STJ fls. 869/870).
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. Agravo interno não provido.
+VOTO
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 23.8.2021 (e-STJ fl. 847), cumpre atestar a tempestividade da insurgência, pois interposta no dia 14.9. (e-STJ fl.), ou seja, dentro do prazo recursal.
+Não obstante as razões declinadas pelaagravante, a decisão monocrática deve ser mantida.
+Isso porque, ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quais o colegiado negou provimento ao agravo interno interposto contra a decisão que proveu parcialmente o recurso especial da ora recorrente,valendo destacar o seguinte excerto (e-STJ fls. 708/711):
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser mantida a decisão agravada pelos próprios fundamentos.
+No que se refere à negativa de prestação jurisdicional, não se verifica a alegada violação ao art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela agravante, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+Ademais, não se justifica a anulação do acórdão recorrido, por negativa de prestação jurisdicional, para suprir vício relativo à incidência da correção monetária, já que, com o provimento parcial do recurso especial, para reduzir os valores dos danos morais e dos danos estéticos, modificou-se o termo inicial da correção monetária, o qual foi fixado a partir do novo arbitramento promovido na decisão ora agravada. Ficou prejudicado, portanto, o pedido de modificação do termo inicial da correção monetária.
+No tocante ao cerceamento de defesa, o eg. Tribunal de origem, além de ressaltar que as provas constantes dos autos eram suficientes para o julgamento da lide, observou que"a parte que requereu a produção de prova testemunhalnão foi capaz de dar efeito ao seu encargo", sendo que"o grande lapso temporal decorrido sem que se desse efetividade à diligência denota que sua produção não pode servir de justificativa para emperrar eternamente o processo"(e-STJ, fl. 554/555; grifou-se).
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, aincidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A ora agravante não logrou êxito em afastar a incidência da Súmula 283 do STF, pois não justificou ter rebatido a referida fundamentação do v. acórdão recorrido.
+No que concerne à comprovação da conduta da agravante e do nexo causal, o Tribunala quoexpressamente consignou o seguinte:
+"No tocante à conduta, restou assentado no registro de ocorrência policial que o veículo que colheu a vítima na rodovia citada nos autos, lesionando-a, pertencia à apelante. No referido documento ficou consignado, inclusive, o modelo do veículo, sua identificação etc.É evidente que o referido coletivo não estava andando sozinho, senãoconduzido por preposto ou qualquer pessoa que certamente detinha a anuência da empresa apelante.
+Não se tem ciência de qualquer furto/roubo do citado ônibus, até porque caberia à apelante fazer a contraprova, no sentido de que não era seu preposto ou alguém de sua confiança que estava sob a direção de seu veículo.
+Frise-se,não há qualquer prova que afaste esse elemento.
+Nesse prisma,o acidente envolvendo a vítima e um veículo pertencente à apelante é fato incontroverso, à luz da prova dos autos.
+O nexo causal entre a conduta e o resultado lesivo também é evidente, conforme se extrai das provas e do Laudo de fls. 186/200 e 214/218.
+A apelante até sustentou a ocorrência de culpa exclusiva da vítima, a qual não teria tomado as devidas cautelas na condução de sua bicicleta.
+Por depois, igualmente sem razão, argumentou que não restou comprovado que o veículo envolvido no acidente era seu.
+No entanto, como bem ressaltado na sentença,as provas não sustentam essa versão, porquanto "apesar de lhe terem sido franqueados os meios,não se desincumbiu de tal ônuse, portanto, deve reparar os danos sofridos pela parte requerente em sua exata extensão (art. 944, CC)." (fls. 396/398).
+Além disso,o dano/prejuízo se mostra patente, eis que o apelado ficou com graves sequelas físicas, causadas em razão do abalroamento que sofrera do ônibus da apelante. Todos os laudos e relatórios médicos acostados ao processo são nesse sentido. A propósito, esses documentos indicam quenão há possibilidade de recuperação plena da saúde do apelado.
+O mesmo fato causou dano estético no apelado.
+Utiliza-se a mesma prova utilizada para fundamentar o dano moral (laudos e relatórios médicos - fls. 27/29; 186/200 e 214/218), serve para amparar a caracterização do dano estético.
+Repise-se, ambos por decorrência do acidente aqui debatido, o quala parte apelante insiste em negar,mesmo sem amparo do acervo probatório."(e-STJ, fls. 557/558 - grifou-se)
+Nesse contexto, ao contrário do alegado, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria, necessariamente, o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Com relação aos juros de mora, o Tribunal local fixou, com acerto, o termo inicial a partir da data do evento danoso.
+De acordo com a orientação firmada nesta Corte Superior, em se tratando de responsabilidade civil extracontratual, como no caso em tela, os juros de mora fluem a partir da data do evento danoso, nos termos daSúmula 54/STJ.
+ ..
+Como visto, a respeito do termo inicial dos juros de mora, o STJ entende que suaSúmula 54 aplica-se, também, para as hipóteses de indenização por danos morais/estéticos.
+Da mesma forma, foram demonstrados os motivos para a manutenção da decisão que indeferiu liminarmente os embargos de divergência (e-STJ fls. 785/786):
+A Agravante não trouxe nenhum argumento apto a infirmar os fundamentos da decisão agravada, que, portanto, deve ser mantida em seus próprios termos.
+No ponto, oacórdão embargado, na esteira da jurisprudência deste Superior Tribunal de Justiça, decidiu que, "de acordo com a orientação firmada nesta Corte Superior, em se tratando deresponsabilidade civil extracontratual, como no caso em tela, os juros demora fluem a partir da data do evento danoso, nos termos da Súmula 54/STJ"(fl. 710).
+Sustenta a Agravante que,"nos casos de indenização por danos morais, o termo inicial de juros será o doarbitramento, conforme disposto no art. 394, 397 e 407, ambos do Código Civil"(fl. 761).
+Sem nenhuma razão, contudo.
+Épatentea ausência de similitude fático-processual entre os casos comparados:oacórdão embargado, ao tratar do termo inicial para a incidência de juros de mora em ação de indenização de dano moral/estético decorrente de atropelamento por coletivo - responsabilidadeextracontratual-, aplicou o entendimento consagrado na Súmula n. 54/STJ.
+Oacórdão paradigma, por sua vez, sem destoar, decidiu que,"no regime do Código Civil de 1916, a responsabilidade do hospital pela má prestação de serviços temnatureza contratual."E mais:
+"4. O acórdão proferido no AgRg no EREsp nº 663.644, PR, relatora a Ministra Laurita Vaz, a Corte Especial aplicou a Súmula nº 54 do Superior Tribunal de Justiça, segundo a qual os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual.
+ ..
+Quer dizer,o julgado indicado como paradigma proclamou tratar-se de caso de responsabilidadeextracontratual, diversamente da espécie em que a responsabilidade resulta de vínculocontratual.
+Não há como assimilar o atropelamento com o mau serviço hospitalar para sustentar que neste a responsabilidade tem caráter extracontratual."(fls. 736-737;grifo nosso)
+A tese esposada pelo acórdão embargado, ademais, foiratificadano acórdão paradigma, integrado pelo o que rejeitou os subsequentes embargos de declaração, reafirmando o entendimento consagrado nesta Corte, o que também atrai a incidência da Súmula n. 168 do STJ:"Não cabem Embargos de Divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do Acórdão embargado".
+ ..
+Igualmente, foram apresentados os fundamentos para rejeição dos embargos de declaração opostos contra o referido julgado (e-STJ fls. 814/815):
+Não há omissão alguma no julgado. A Embargante, sob o pretexto de haver omissão, na verdade, se vale dos embargos de declaração para repetir o mesmo argumento trazido nos recursos anteriores, com o nítido intento de rediscutir matéria já examinada e decidida, o que não se coaduna com a via eleita. Julgamento contrário à pretensão da Parte, por óbvio, não se confunde com omissão.
+"A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito  .. ."(EDcl no AgInt nosEDcl nos EAREsp 1.202.915/SP, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 13/08/2019, DJe 28/08/2019).
+Cumpre observar que o manejo de embargos de declaração para apontar omissão notoriamente inexistente denota claro desvirtuamento do recurso integrativo, retardando indevidamente o encerramento da prestação jurisdicional.
+A mera reiteração da insurgência em recurso integrativo, repetindo o mesmo argumento, o qual já foi oportuna e devidamente examinado e rejeitado, denota manifesto intuito protelatório, ensejando a aplicação de multa do art. 1.026, § 2.º, do CPC/2015.
+Conclui-se, portanto, que os acórdãos encontram-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF, cumprindo ressaltar que, nos termos da orientação firmada pelo Pretório Excelso, não se exige que os fundamentos das decisões estejam corretos.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7.
+Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01- 09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1.
+No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
