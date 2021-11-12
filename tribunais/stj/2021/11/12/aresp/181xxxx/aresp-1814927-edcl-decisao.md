@@ -1,0 +1,15 @@
+DECISÃO
+Embargos de declaração em agravo em recurso especial opostos por NELSINHO GONÇALVES contra decisão de minha relatoria de fls. 533/535.
+O embargante pretende aclarar contradição e "abrir caminho" através do competente e necessário prequestionamento, acerca da ocorrência nesta Superior Instânciade violação de matéria de ordem constitucional.
+Afirma que após o julgamento da RECURSO DE APELAÇÃO do embargante, pela Colenda 15ª Câmara de Direito Criminal do E. TJSP, o embargante interpôs com fundamento no artigo 618 e seguintes, do Código de Processo Penal, tempestivos EMBARGOS DECLARATÓRIOS, para fim de sanar contrariedade e omissão verificadas junto ao V. Acórdão, notadamente, a contrariedade do artigo 14, da LEP, e, omissão na observância da Recomendação n. 62/CNJ, na Declaração de Emergência em Saúde Pública de Importância Internacional da OMS, de 30 de janeiro de 2020, na Declaração de Emergência em Saúde Pública de Importância Nacional -ESPIN veiculada pela Portaria n. 188/GM/MS, de 4 de fevereiro de 2020. Requereu o provimento dos embargos, para o fim de manter-se o regime prisional ABERTO imposto na r. Sentença de Primeira Instância, ou, alternativamente, fossem os embargos providos e de ofício fosse determinada a conversão da pena corporal do agravante em PRISÃO DOMICILIAR, prevista no artigo 318, do CPP.
+Assim, salienta quehouve expresso "prequestionamento "em sede de Embargos Declaratórios opostos junto ao Tribunal Paulista, da "matéria processual violada", inexistindo violação ou contrariedade ao contido na Súmula 211/STJ.
+Requer o esclarecimento da contradição apontada e, para fins também de prequestionamento, em caso de necessidade, de possível RECURSO EXTRAORDINÁRIO.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal.
+No caso concreto, ao revés do alegado pelo embargante, não há que se falar em contradiçãono julgado.
+Com efeito, adotou-se como fundamento precípuo e suficiente no decisum embargado, a fim de não conhecer do recurso especial, qual seja, embora opostos embargos de declaração pela defesa, o pleito de concessãode prisão domiciliar ao recorrente deixou de ser analisado pela Corte originária e aquela não apontou por violado o art. 619 do CPP nas razões do recurso especial.
+Assim, cabível a incidência da Súmula n. 211/STJ, por ausência de prequestionamento, nos termos da jurisprudência desta Corte.
+Destaque-se, ainda, que ""a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios." (EDclno AgInt na CR 11.165/EX, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/12/2017, DJe 9/2/2018)." (EDclno AgRg noREsp1.683.591/PI, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 02/04/2018).
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimações necessárias.
