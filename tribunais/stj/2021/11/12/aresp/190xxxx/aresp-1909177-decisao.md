@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo, nos próprios autos, deNOVA ALEXANDRIA RESTAURANTE E COMÉRCIO DE BEBIDAS LTDA., JOSÉ ANTÔNIO LOPES DE NORONHA, MARILDA TORRES DE NORONHA e MARYLENE TORRES DOS SANTOS, objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado do Rio de Janeiro, em razão da incidência das Súmulas n. 5 e 7do Superior Tribunal de Justiça (e-STJ fls. 378/381).
+O acórdão recorrido da Corte local está assim ementado (e-STJ fl. 344):
+Direito Civil. Contrato de locação. Boa-fé objetiva. Impossível cogitar-se de supressio, com a consequente redução do valor do aluguel firmado entre as partes, se essa redução foi levada a cabo pontualmente, a partir de transação que teve por objeto meses específicos do contrato, e não a locação como um todo. Ausência de legítima expectativa de renúncia ao direito de exigir os aluguéis no valor contratualmente previsto, nos meses não abrangidos pelo acordo. Recurso desprovido.
+Não foram opostos embargos de declaração.
+Sustentam estarem presentes os pressupostos de admissibilidade do recurso especial (e-STJ fls. 393/410).
+Com contraminuta (e-STJ fls. 415/419), os autos foram encaminhados a esta Corte.
+No recurso especial, fundado no artigo 105, III, "a", da Constituição Federal, a parte recorrente aponta violação ao artigo 422 do Código Civil de 2002 (e-STJ fls. 349/363).
+Alegam que ao " ..  contrário do que pretende o recorrido com o ajuizamento da presente demanda, a cobrança em juízo da quantia de R$ 35.000,00 (trinta e cinco mil reais) a título de aluguel não corresponde à realidade existente desde 2017, a partir de quando, na prática, o locador passou a cobrar a importância mensal de R$ 30.000,00 (trinta mil reais)  .. " (e-STJ fl. 357).
+Afirmam, ainda, que o " ..  novo comportamento assumido pelo recorrido afronta à boa-fé objetiva, às legítimas expectativas do locatário e dos fiadores, bem como ao princípio da vedação ao comportamento contraditório  .. " (e-STJ fl. 357).
+Com contrarrazões (e-STJ fls. 374/376).
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+Correta a decisão de inadmissibilidade (e-STJ fls. 378/381).
+Não assiste razão à parte agravante.
+De início, quanto às questões aventadas pela parte ora agravante, assim decidiu o Juízo de primeiro grau (e-STJ fls. 276/277):
+ ..
+Trata-se de ação de cobrança de débito locatício desde julho/2018 (vencido em 10/08/2018), com aluguel mensal de R$ 35.000,00 e vigência desde 01/02/2017, conforme contrato celebrado entre as partes em 05/04/2017 (fls. 16/22 e 147/153).
+Cumpre destacar a cláusula contratual 2.3, na qual restou estabelecida carência quanto ao aluguel de fevereiro/2017 (vencido em 10/03/2017), sendo devidos apenas os acessórios da locação, bem como descontos mensais de R$ 5.000,00 nos aluguéis de março/2017 (vencido em 10/04/2017) até agosto/2017 (vencido em 10/09/2017), assim como descontos mensais de R$ 2.500,00 nos aluguéis de setembro/2017 (vencido em 10/10/2017) até janeiro/2018 (vencido em 10/02/2018) Compulsando detidamente os autos, verifica-se que restaram incontroversos os pagamentos de aluguel com desconto mensal de R$ 5.000,00 nos aluguéis de março/2017 (vencido em 10/04/2017) até agosto/2017 (vencido em 10/09/2017), bem como a celebração de acordo escrito em 16/08/2018 (fls. 142/146) concedendo desconto mensal de R$ 5.000,00 aos aluguéis desde dezembro/2017 (vencido em 10/01/2018) até maio/2018 (vencido em 10/06/2018).
+Ao contrário do que parece crer a parte ré/reconvinte, este acordo escrito deixou bem claro que o desconto mensal de R$ 5.000,00 concedido no próprio instrumento de transação foi excepcional, concedido pelo locador por "mera liberalidade" e apenas "para os meses supra mencionados", ou seja, apenas para os meses de dezembro/2017 (vencido em 10/01/2018) até maio/2018 (vencido em 10/06/2018), os quais teriam valor de R$ 35.000,00 conforme redação do instrumentocontratual.
+ ..
+Assim, no que tange aos alugueis de setembro/2017 (vencido em 10/10/2017), outubro/2017 (vencido em 10/11/2017) e novembro/2017 (vencido em 10/12/2017), a parte ré/reconvinte deveria ter provado que houve cobrança e pagamento do valor mensal de R$ 30.000,000 em contrariedade à redação do instrumento contratual que prevê desconto mensal de R$ 2.500,00 para estes meses.
+Ademais, no tocante ao aluguel de junho/2018 (vencido em 10/07/2018), a parte ré/reconvinte deveria ter provado que houve cobrança e pagamento do valor mensal de R$ 30.000,000 em contrariedade à redação do instrumento contratual que prevê o valor de R$ 35.000,00 para este mês.
+Ocorre que a parte ré/reconvinte não comprovou ter havido estas cobranças e respectivos pagamentos no importe mensal de R$ 30.000,00 quanto aos meses de setembro/2017 (vencido em 10/10/2017), outubro/2017 (vencido em 10/11/2017), novembro/2017 (vencido em 10/12/2017) e junho/2018 (vencido em 10/07/2018), em contrariedade à redação do instrumento contratual, mesmo porque não demonstrou interesse em produzir a respectiva e indispensável prova documental.
+Deve arcar a parte ré/reconvinte, destarte, com o ônus da inércia, considerando-se que todas as cobranças foram e continuam sendo nos estritos termos do instrumento contratual e do acordo escrito celebrado em 16/08/2018, sendo válida a regra geral fixando aluguel mensal de R$ 35.000,00 embora na maior parte da vigência contratual tais contraprestações tenham sido cobradas e pagas no importe de R$ 30.000,00.
+ ..
+Da mesma maneira, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, corroborou o mesmo entendimento, sob os seguintes fundamentos (e-STJ fls. 345/347):
+ ..
+Cinge-se a controvérsia tão somente a se estabelecer se o aluguel mensal devido pelos apelantes deve ser estabelecido em R$ 35.000,00 (trinta e cinco mil reais), tal como previsto no contrato como regra, ou seja, nos meses em que não incidiria qualquer desconto sazonal nele previsto, ou, diversamente, em R$ 30.000,00 (trinta mil reais), como sustentam os apelantes, que alegam que tal valor reduzidodeve prevalecer a partir de abril de 2017, quanto o autor anuiu à redução, dando azo à supressio.
+O fundamento adotado na sentença, nesse particular, é que, em diversos meses dos anos de 2017 e 2018 (setembro a novembro de 2017 e junho de 2018), os apelantes não comprovaram o pagamento (e aceitação) de aluguel reduzido, no valor de R$ 30.000,00 (fls. 277).
+Os apelantes, em seu recurso, defendem que a sentença não observou acordo firmado entre as partes, no sentido de que o valor do aluguel seria reduzido. É o que se lê nas razões recursais:
+"A prova do desconto pode ser encontrada no termo de acordo acostado às fls.142/145, no qual o apelado manteve o desconto de R$ 5.000,00 (cinco mil reais) no valor mensal do aluguel, repita-se, como forma de manter a relação locatícia existente entre as partes há anos" (fls. 311)
+Ocorre que a transação, tal como firmada, deixou claro que a redução do aluguel tem por objeto somente os meses nele previstos (dezembro de 2017 a maio de 2018), ficando consignado, ainda, na cláusula "3.1", que todas as cláusulas e condições contratuais pactuadas anteriormente não seriam modificadas.
+Portanto, não se poderiam estender os efeitos da transação a meses que não foram objeto do ajuste.
+Enquanto especialização funcional do princípio da boa-fé objetiva, a supressio depende da inequívoca demonstração de que um dos contratantes - nocaso, o locador - não exerceria mais seu direito. Seria preciso que se criasse, em favor dos apelantes, uma "legítima expectativa de renúncia",o que, definitivamente, não ocorreu no presente caso.
+ ..
+Dessa forma, reinterpretar as cláusulas contratuais e, ainda, reexaminar o conjunto fático-probatório dos autos, para chegar a conclusão distinta, faz incidirem, portanto, respectivamente, as Súmulas n. 5 e 7 do Superior Tribunal de Justiça. Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 3. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. A revisão das conclusões estaduais quanto aos prejuízos decorrentes da rescisão contratual demandaria, necessariamente, a interpretação de cláusulas do acordo e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.347.639/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/2/2020, DJe 19/2/2020).
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.740.991/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º/3/2021, DJe 3/3/2021).
+Em face do exposto, nego provimento ao agravo e, ainda, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
