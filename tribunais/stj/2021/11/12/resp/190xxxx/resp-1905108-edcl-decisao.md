@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ESTRE AMBIENTAL S/A.contra decisão que deu parcial provimento ao recurso especial,para determinar que o Tribunal de origem aprecie novamente a ocorrência da prescrição, considerando como termo inicial do prazo prescricional a data da efetiva ciência das consequências do dano ambiental, bem como para excluir a multa imposta aos embargados no julgamento dos embargos de declaração.
+Sustenta a parte embargante que há erro material na decisão embargada quanto ao fato gerador da pretensão indenizatória, visto que o pleito dos embargados não é decorrente de dano ambiental, mas sim desuposta desvalorização de seus imóveis, não relacionada diretamente com o meio ambiente, constituindo, portanto, pretensão de natureza individual e patrimonial. Conclui, assim, que,"em razão do caráter privado e patrimonial da demanda, torna-se evidente a aplicação do prazo prescricional previsto pelo art. 206, § 3º, inciso V, do Código Civil" (fl. 1458).
+Alega, também, que há omissão no julgado em relação aos fundamentos do acórdão recorrido, que fixou comotermo inicial do prazo prescricional a data de início da operação do aterro sanitário,em plena consonância com a teoria da "actio nata", pois os embargados,desde a data de instalação do empreendimento,já possuíam ciência dos prejuízosapontados.
+Impugnação apresentada, intempestivamente.
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum.
+Com efeito, da motivação da decisão embargada, é possível verificar, com clareza, que a pretensão de reparação civil do prejuízo decorrente dadesvalorização dosimóveis dos embargadosestá fundamentada napoluição, em tese, causada por aterro sanitário instalado e administrado pela embargante na região, a evidenciar que o alegado dano ambiental, realmente, é o fato gerador da pretensão indenizatória.
+Aliás,na decisão embargada, deixei consignadoqueo momento da efetiva ciência dos prejuízos sofridos pelos embargados não foi definidoem consonância com o princípio da actio nata, o que levou à determinação deretorno dos autos ao Tribunal de origem, para que seja verificado o momento da efetiva ciência dos autores acerca da poluição ambiental causada pelo aterro sanitário, data que deverá ser considerada como termo inicial do prazo prescricional.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões da decisão embargada, motivo pelo qual rejeito a alegação de omissão no julgado.
+A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+ ..
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4. Embargos de declaração rejeitados. (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016).
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante, sob o pretexto de existência de omissão, é unicamente o rejulgamento da causa. No entanto, os embargos de declaração não se prestam ao reexame decontrovérsia ou ao prequestionamento de matéria que, segundo a ótica da parte embargante, deveria conduzir à solução do litígio.
+Nesse sentido, veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016.)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
