@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se  de  agravo  manejado  pelo  Município  de  São  Paulo,  desafiando  decisão  denegatória  de  admissibilidade  a  recurso  especial,  este  interposto  com  base  no  art.  105,  III,  a,  da  CF,  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São  Paulo  -  Av.  brigadeiro,  assim  ementado  (fl.  79 ):
+AGRAVO DE INSTRUMENTO - Execução fiscal - Multa por infração relativa ao ISSQN - Exceção de pré-executivida de rejeitada - Pretensão à reforma - Admissibilidade - Liminar concedida em mandado de segurança para suspender a exigibilidade do crédito que impossibilita o ajuizamento de ação executiva, ainda que em razão de possível descumprimento de obrigação acessória - "Mandamus" pendente de julgamento definitivo (Recurso nº 9107664- 98.2004) com atribuição de efeito ativo aos recursos de natureza extraordinária e conseqüente suspensão da exigibilidade do crédito tributário até o pronunciamento definitivo do Plenário do C. STF - Inteligência do artigo 150,IV, do CTN - Extinção da execução fiscal que se impõe - Recurso provido.
+Nas  razões  do  recurso  especial,  a  parte  agravante  aponta  violação  ao s  arts.  113, §2º, e 151 do CTN.  Sustenta  que "No caso em questão os autos de infração e intimação cobrados através da presente execução fiscal decorrem de multa pelo descumprimento de obrigação acessória.Como não há causa suspensiva de exigibilidade do crédito tributário ora exigido, o Departamento Fiscal liberou a cobrança dos autos de infração e intimação em questão" (fl. 94).
+Contrarrazões apresentadas (fls. 97/115).
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com efeito, a  matéria  pertinente  ao  art.  113, §2º, e 151 do CTN  não  foi  apreciada  pela  instância  judicante  de  origem sob o enfoque pretendido,  tampouco  foram  opostos  embargos  declaratórios  para  suprir  eventual  omissão.  Portanto,  ante  a  falta  do  necessário  prequestionamento,  incide  o  óbice  da  Súmula  282/STF.
+ANTE  O  EXPOSTO,  nego  provimento  ao  agravo.
+Publique-se.
