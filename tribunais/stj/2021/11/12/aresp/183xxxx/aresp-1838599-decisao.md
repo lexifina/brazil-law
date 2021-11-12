@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 239):
+LOCAÇÃO DE IMÓVEL - AÇÃO DE DESPEJO CUMULADA COM PEDIDO DE COBRANÇA JULGADA PROCEDENTE - VERBA SUCUMBENCIAL CORRETAMENTE FIXADA - NÃO CABIMENTO DA HIPÓTESE DE RECIPROCIDADE - SENTENÇA MANTIDA - APELAÇÃO NÃO PROVIDA.
+Nas razões do recurso especial, a parte agravante aponta violação do art. 5º, inciso II, da Constituição Federal; edos arts. 86 e 341 do Código de Processo Civil;bem como divergência jurisprudencial.
+Sustenta que "a ausência de impugnação específica dos fatos alegados na exordialteria causado consequências jurídicas que implicariam na condenação da Recorrente no pagamento de aluguéis de todo o período informado na exordial, isto é, de julho/2017 até abril/2018, inclusive, dos meses de dezembro/2017 a fevereiro/2018" (fl. 260). Conclui, assim, que "tendo o Requerido sido vencido em relação à cobrança de aluguel dos meses de dezembro/2017, janeiro e fevereiro/2018, o mesmo deve ser condenado no pagamento de honorários sucumbenciais e custas processuais referentes às respectivas parcelas em que foi sucumbente" (fl. 262).
+Contrarrazões apresentadas.
+A Presidência do Tribunal de origem, ao proferir o juízo de admissibilidade, negou seguimento ao recurso especial. Daí o presente agravo, no qual a recorrente pugna pela admissão do recurso especial.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, com relação à alegada afronta ao art. 5º, inciso II,da Constituição Federal, esclareço que não é cabível, em recurso especial, a análise de afronta a dispositivos constitucionais, ainda que com intuito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Além disso, verifico que o conteúdo normativo dos dispositivos legais indicados como violados não foram objeto de exame pela Corte estadual, muito menos foram opostos embargos de declaração para suprir eventual omissão do julgado quanto a esse aspecto. Assim, inviável a análise da apontada ofensa à legislação federal, em face da ausência de prequestionamento. Incidem, na espécie, portanto, os óbices previstos nas Súmulas 282 e 356 do Supremo Tribunal Federal.
+Ademais, observo que o Tribunal de origem, ao apreciar a controvérsia, exarou os seguintes fundamentos (fl. 240):
+O banco autor alega, em síntese, que as partes firmaram contrato de locação não residencial, tendo por objeto 48 vagas de estacionamento, pelo valor de aluguel inicial de R$ 7.140,78. Ocorre que a ré deixou de pagar os alugueis de julho de 2017 a abril de 2018, totalizando a importância de R$ 88.386,80.
+Contudo, os valores dos meses de dezembro 2017 a fevereiro de 2018 não foram cobrados da ré, pelo que se observa da planilha acostada à inicial  fl. 14 , devendo arcar integralmente com o pagamento das verbas e honorários sucumbenciais.
+Assim, não há falar em reciprocidade da sucumbência, porquanto a ação foi acolhida em sua integralidade, devendo ser prestigiada a r. sentença, por seus próprios e judiciosos fundamentos.
+Tais fundamentos, autônomos e suficientes à manutenção do julgado, não foram infirmados, de modo específico, nas razões do recurso especial, o que caracteriza deficiência de fundamentação, incidindo à espécie, portanto, o verbete da Súmula 283 do STF.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
