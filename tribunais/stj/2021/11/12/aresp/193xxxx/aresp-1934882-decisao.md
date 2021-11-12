@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por REGINA RAMOS DE ARAÚJOem face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 219):
+APELAÇÃO CÍVEL. AÇÃO DE ARBITRAMENTO E COBRANÇA DE ALUGUÉIS DE BEM IMÓVEL OCUPADO EXCLUSIVAMENTE POR UM DOS HERDEIROS. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE ORA SE MANTÉM. PRELIMINARES SUSCITADAS QUE NÃO MERECEM ACOLHIDA. IGUALMENTE NÃO MERECE PROSPERAR A EXCEÇÃO DE USUCAPIÃO, NA MEDIDA EM QUE A RÉ NÃO PREENCHE QUAISQUER DOS REQUISITOS, SEJA O TEMPORAL, SEJA PORQUE NÃO COMPROVOU O "ANIMUS DOMINI". ASSIM, ENQUANTO NÃO FOR REALIZADA A PARTILHA DOS BENS A HERANÇA CONSTITUI UM TODO INDIVISÍVEL, REGIDA PELAS REGRAS APLICÁVEIS AO CONDOMÍNIO, NOS TERMOS DO ART. 1.791 DO CÓDIGO CIVIL. A PARTIR DO MOMENTO EM QUE OS DEMAIS HERDEIROS ENVIARAM NOTIFICAÇÃO, TORNANDO A POSSE CONTROVERTIDA, NÃO PODE A RÉ PRETENDER O USO EXCLUSIVO DO IMÓVEL SEM O PAGAMENTO DO ALUGUEL PLEITEADO. ARTIGOS 1.314 E 1.791 DO CC. A RÉ NÃO REQUEREU, ANTES DA PROLAÇÃO DA SENTENÇA, A REALIZAÇÃO DE PERÍCIA OU AVALIAÇÃO JUDICIAL PARA FINS DE APURAÇÃO DO VALOR DE ALUGUEL DO BEM, SOMENTE SUSCITANDO TAL QUESTÃO POR OCASIÃO DE SEU APELO. PRECLUSÃO. MESMO PORQUE, O VALOR APONTADO PELOS ESPÓLIOS AUTORESSE MOSTRA RAZOÁVEL E COMPATÍVEL COM AS CARACTERÍSTICAS DO IMÓVEL E COM A SUA LOCALIZAÇÃO. SENTENÇA QUE NÃO CARECE DE REPARO. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente afirma a violação da lei federal e a necessidade de afastamento da condenação atítulo de danos morais.
+Sustenta o prequestionamento da matéria recorrida e a não incidência da Súmula 7 do STJ, uma vez que se trata de matéria processual relativaa revisão dos valores fixados a título de honorários advocatícios.
+Alega que o dano moral ganhou maior destaque na Constituição Federal em seusarts. 1º, III, 3º, IV, 5º, X.
+Conclui pleiteando o reconhecimento da violação do art. 20, §§ 3º e 4º, do Código de Processo Civil/73 e da exceção de usucapião.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido porque (i) em que pese a parte recorrente ter inserido em seu pedido final a violação ao art.20, §§ 3º e 4º, do CPC/73, não houve alegação alguma quanto à matéria que trata do referido artigo nas razões do recurso especial, e, (ii) não indicou quais são os dispositivos de lei federal objeto da controvérsia jurisprudencial, tampouco em que consistiriam as supostas violações, atraindo, quanto ao ponto, o óbice da Súmula 284 do STF.
+Nas razões do presente agravo, a parte agravante afirma (i) que a questão deve ser analisada sob o prisma do art. 5º, X, XII, LV e LXVIII, daConstituição Federal; (ii) devem ser afastadas as Súmulas 282 e 356 do STF e a Súmula 7 do STJ; e (iii) que a Súmula 284 do STF não pode ser aplicada em virtude da simples omissão da norma legal violada.
+Reitera, por fim, a necessidade de revisão da indenização por dano moral e o cerceamento de defesa.
+Assim delimitada a controvérsia, verifico, de plano, a inviabilidade do recurso.
+Inicialmente, destaco que ajurisprudência pacífica desta Corte segue no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AUTORA.
+ ..
+4. Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula(Súmula 518/STJ).
+5. Esta Corte tem entendimento no sentido de admitir a juntada de documentos novos na fase recursal ordinária, desde que não se trate de documento indispensável à propositura da ação, inexista má-fé na sua ocultação e seja observado o princípio do contraditório. Súmula 83/STJ.
+6. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1341835/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+Quanto ao mais, aagravante, apesar de ter indicadoa violação ao art. 20, §§ 3º e 4º, do CPC/73, não apresentou alegação quanto à matéria que trata do referido artigo nas razões do recurso especial e, de outro lado, apesar de ter defendido teses jurídicas ao longo de seu recurso (afastamento da condenação atítulo de danos morais e necessidade de reconhecimento da exceção de usucapião), não indicou quais são os dispositivos de lei federal objeto de violação ou decontrovérsia jurisprudencial.
+A jurisprudência desta Corte segue no sentido de que a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso, uma vez que não basta a mera menção a dispositivos legais ou a narrativa acerca da legislação federal.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. ALEGAÇÃO GENÉRICA DE CONTRARIEDADE A DISPOSITIVOS LEGAIS. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A falta de indicação do artigo de lei eventualmente violado, bem como a arguição de ofensa ao dispositivo legal de forma genérica, sem demonstração efetiva da contrariedade, configura deficiência na fundamentação, justificando a incidência da Súmula n. 284 do STF.
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, entender pela ocorrência de cerceamento de defesa, pela ausência de razoabilidade e proporcionalidade da decisão que fixou o pagamento de pensão vitalícia e pela redução do valor fixado a título de danos morais demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1829293/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/08/2021, DJe 01/09/2021)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
