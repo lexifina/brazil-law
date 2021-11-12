@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ELISEO DIAS e ALFEU DIAS contra acórdão exarado pelo Tribunal de Justiça do Estado de Santa Catarina no julgamento do HC n.5005988.73.2020.8.24.0000.
+Consta que os Pacientes foram presos preventivamente, em 06/02/2020, pela suposta prática dos ilícitos tipificados no art. 121, § 2.º, inciso I, e 121, § 2.º, incisos I e IV, ambos, c.c. o art. 14, inciso II, todos do Código Penal, pelos quais foramdenunciados, pois "motivados pelo desejo de vingança (motivo torpe) em razão de desavenças anteriores, tencionando ceifar a vida de seus desafetos da família Justina, armaram-se com um facão (Alfeu) e um pedaço de madeira (Eliseo) e dirigiram-se até a residência de Jonas da Silva Justina" (fl. 67).
+Inconformada, a Defesa formulou pedido de revogação da prisão preventiva ao Juízo singular, que indeferiu o pleito às fls. 72-73.
+Irresignada, impetrou habeas corpus na Corte de origem, que denegou a ordem, em acórdão assim ementado (fl. 70):
+"HABEAS CORPUS. PRISÃO PREVENTIVA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO AGENTE. MODUS OPERANDI. TENTATIVA DE HOMICÍDIO QUALIFICADO. EMBOSCADA. SUPERIORIDADE NUMÉRICA. PERSEGUIÇÃO. PRISÃO DOMICILIAR. DIABETES. POSSIBILIDADE DE TRATAMENTO NO ESTABELECIMENTO PRISIONAL.
+O modus operandi, consistente cm formar superioridade numérica, armar-se com pedaços de madeira, esperar pela vítima passar e, assim que avistá-la, investir contra ela e persegui-la quando ela foge, para atentar contra a vida e a integridade física dela desferindo-lhe golpes de arma branca, é evidência da periculosidade social do paciente, e justifica sua prisão preventiva com o fim de garantir da ordem pública. O fato de o agente ser diabético não modifica essa conclusão e, se nada indica que ele é extremamente debilitado e que a ele não pode ser dispensado o tratamento adequado no estabelecimento prisional onde se encontra, não há justificativa para sua colocação em prisão domiciliar.
+Ordem denegada."
+Neste writ, a Parte Impetrante sustenta, em suma, que: (i) os Pacientes possuiríam as condições pessoais favoráveis à concessão da liberdade provisória; (ii) o conjunto probatório apontaria no sentido de que "as supostas vítimas foram até a residência de Alfeu em busca de conflitos, depredaram seu patrimônio e o ameaçaram  .. , e Eliseo agiu para proteger a vida de seu irmão" (fl. 13); (iii) a decretação e a manutenção da custódia cautelar teriam se dado por meio de decisões carentes de fundamentação; e (iv) a Recomendação n.62/2020 do CNJ recomendaria a concessão da prisão domiciliar com utilização de tornozeleira eletrônica, em razão da pandemia da Covid-19, sobretudo no caso de ALFEU DIAS, "que é diabético e obeso, situação que o deixa mais vulnerável, podendo ser levado à morte devido o referido vírus" (fl. 37).
+Requer, em medida liminar e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi indeferido às fls. 80-83.
+As informações processuais foram prestadas às fls. 87-132.
+O Ministério Público Federal opinou pelo não conhecimento da impetração, mas, se conhecida, pela denegação da ordem (fls. 134-140).
+É o relatório. Decido.
+Em consulta ao site mantido pelo Tribunal de Justiça do Estado de Santa Catarina, pude constatar que, em 22/06/2021, o Juízo singular, nos autos da Ação Penal n. 5001230-30.2020.8.24.0007, concedeu o benefício da liberdade provisória aos Pacientes, determinando a expedição de alvarás de soltura em seu favor.
+Dessa forma, concluo que esta impetração perdeu o objeto.
+Ante o exposto, em razão da ausência superveniente de interesse processual,JULGO PREJUDICADOo pedido recursal, com fundamento no art. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.Intimem-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. PROCESSUAL PENAL. PRISÃO PREVENTIVA. SUPERVENIENTE CONCESSÃO DA LIBERDADE PROVISÓRIA. EXPEDIÇÃO DE ALVARÁS DE SOLTURA. PERDA DE OBJETO.HABEAS CORPUS PREJUDICADO.
