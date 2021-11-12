@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por Tauan Lima dos Santos e Jorge Anderson Firminocontra acórdão do Tribunal de Justiça de Alagoas (HC n. 0805489-56.2020.8.02.0000).
+Consta dos autos que os recorrentes foram presos preventivamente, em 23/6/2020 (fls. 143/146), eforamdenunciadoscomo incursos noart. 121, § 2º, I e IV, do Código Penal (fls. 147/149 - Autos n. 0700081-58.2020.802.0006).
+Aqui, a defesa reitera a alegação de ausência de fundamentação do decreto prisional.
+Sustenta que os fundamentos invocados no decreto prisional, mantidos pelo Tribunal a quo, não demonstram a imprescindibilidade da prisão para que o processo se desenvolva regularmente e atinja os seus objetivos (fl. 186).
+Requer, liminarmente, o provimento do recurso para que seja revogada a prisão preventiva, a fim de que respondam os réus ao processo em liberdade. No mérito, requer a confirmação da ordem.
+Liminar indeferida (fls. 210/211).
+O Ministério Público Federal ofereceu parecer pelo desprovimento do recurso (fls. 223/225).
+É o relatório.
+A prisão cautelar, como é cediço, é medida excepcional deprivaçãodeliberdade, que somente poderá ser adotada quando ascircunstâncias docasoconcreto, devidamente fundamentadas no art. 312 doCódigo deProcessoPenal, demonstrarem a sua imprescindibilidade. Contudo,justificada a custódia preventiva em razões idôneasedevidamentepreenchidos todos os seus requisitos, inviável aliberaçãodos acusados.
+No caso, o Juízo singular decretou a prisão preventiva dos recorrentes,asseverando que (fls.27/29 - grifonosso):
+ ..  tem-se que o próprio modus operandi da prática delituosa aponta para a existência do periculum libertatis dos representados, uma vez que supostamente, estamos diante da prática de um crime de homicídio qualificado, no qual os autores do delito teriam invadido a casa e ceifado a vida da vítima, por engano, através de vários disparos de arma de fogo.
+Ademais, a prova testemunhas aponta a autoria do crime em comento, sendo grande a possibilidade de que, em liberdade, os representados poderão atentar contra a vida de testemunhas.
+ ..
+O Tribunal a quo manteve a segregação nos seguintes termos (fls. 178/179):
+ ..
+Passando adiante, ao compulsar os autos de origem, via SAJPG5, observa-se que a imputação delitiva que recai sobre os pacientes é de significativa gravidade, haja vista que, segundo a exordial acusatória, por vingança, os pacientes tinham a intenção de matar a pessoa conhecida pela alcunha de "Peixeiro", sendo que os agentes erraram o alvo e acabaram por ceifar a vida de Joseildo Rodrigues da Silva, vizinho do desafeto dos pacientes.
+Atente-se que os agentes, com os rostos cobertos, invadiram a casa da vítima durante a madrugada e a assassinaram de modo frio e cruel, com ao menos 4 (quatro) disparos de arma de fogo, enquanto o ofendido dormia, retirando-lhe, desta feita, qualquer chance de defesa.
+Observa-se, pois, que a conduta imputada aos pacientes, além de muito grave, é deveras repugnante e revela menosprezo pela vida alheia, circunstância por demaisreprovável e que reclama, desta feita, o acautelamento provisório da liberdade dos agentes, sobretudo a bem da ordem pública, eis que a ação empreendida pôs efetivamente em risco outros bens jurídicos que não só a vida da vítima, haja vista que a conduta delitiva foi praticada durante o repouso noturno, com invasão de domicílio (onde também se faziam presentes a esposa e o filho da vítima), em concurso de agentes e mediante múltiplos disparos de arma de fogo.
+Para além, há de se considerar que os pacientes são tidos como pessoas perigosas e supostamente envolvidas com outros ilícitos, sendo que ambos registram outras passagens policiais e, inclusive, o paciente Jorge Anderson Firmino, conhecido pela alcunha de "Andinho", ostenta condenação criminal (em grau de recurso) pela prática do crime de roubo majorado, vide Autos n.0000577-75.2013.8.02.0006.
+Tais circunstâncias, expressamente consignadas no decreto prisional impugnado, revelam manifesta periculosidade no suposto modo de agir dos pacientes, a qual é evidenciada a partir do modus operandi aparentemente empregado no evento delitivo em apreço, e acentuada pelos indicativos de reiteração delitiva que recaem sobre as suas pessoas, a reclamar o acautelamento provisório das suas liberdades, a bem da ordem pública, não havendo que se falar, por ora, em medida cautelar diversa do cárcere para a hipótese em testilha.
+ ..
+Pois bem. Da leitura do excertos acima transcritos verifica-se queaconstrição cautelar se encontra amparada em elementosconcretosapontadospelas instâncias ordinárias, em especial, a gravidadeconcreta do delito,evidenciada no modus operandi - a conduta delitiva foi praticada durante o repouso noturno, com invasão de domicílio (onde também se faziam presentes a esposa e o filho da vítima), em concurso de agentes e mediante múltiplos disparos de arma de fogo (fl. 179).
+Cumpre salientar que o Tribunal a quo asseverou que osrecorrentessão tidos como pessoas perigosas e supostamente envolvidas com outros ilícitos, sendo que ambos registram outras passagens policiais (fl. 179).
+Assim, inexiste constrangimento ilegal na segregação cautelar, porquanto devidamente fundamentada em dadosconcretosdodelito e justificada por razões de ordem pública, ante agravidadedaprática delitiva, aliada a periculosidade social.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. GRAVIDADE CONCRETA DA CONDUTA.AMEAÇAS A TESTEMUNHAS. FUGA DO DISTRITO DA CULPA. GARANTIA DA ORDEM PÚBLICA, DA INSTRUÇÃO PROCESSUAL E DA APLICAÇÃO DA LEI PENAL.FUNDAMENTAÇÃO CONCRETA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se constata nenhuma ilegalidade na decretação da prisão preventiva ao Agravante, pois foi destacada a necessidade da medida em face da gravidade concreta do delito (homicídio qualificado no qual a vítima fora surpreendida com agressões e facadas), bem como dos indícios de que o Paciente, juntamente com os demais Corréus, evadiu-se do distrito da culpa e proferiu ameaças contra testemunhas, colocando em risco a instrução processual e a aplicação da lei penal.
+2. Na via estreita do habeas corpus não é possível rediscutir as conclusões fáticas alcançadas pelas instâncias ordinárias, não sendo possível elidir, neste instrumento processual, a constatação firmada nas instâncias antecedentes acerca da atuação do Agravante na intimidação de testemunhas e da sua fuga do distrito da culpa.
+3. Não há falar em ausência de contemporaneidade do decreto prisional, seja porque o Agravante empreendeu fuga após os fatos, situação que perdurou até a sua prisão, seja porque sua atuação no constrangimento de testemunhas é contemporânea à aplicação da medida, ante o evidente risco à instrução processual em curso.
+4. Agravo regimental desprovido. (AgRg no HC n. 618.698/PE, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 9/3/2021, DJe 19/3/2021)
+Ademais, concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. SEGREGAÇÃO FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. FUNDAMENTAÇÃO VÁLIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Recurso improvido.
