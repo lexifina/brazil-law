@@ -18,6 +18,6 @@ II - 1,5 (um inteiro e cinco décimos) ponto percentual, no quarto ano;
 III - 2 (dois) pontos percentuais, no quinto ano;
 IV - 2,5 (dois inteiros e cinco décimos) pontos percentuais, no sexto ano.
 § 3º No primeiro ano de vigência dos Fundos:
-I - os entes disponibilizarão as informações e os dados contábeis, orçamentários e fiscais, de que trata o § 4º do art. 13 desta Lei, relativos ao exercício financeiro de 2019, nos termos de regulamento;
+I - os entes disponibilizarão as informações e os dados contábeis, orçamentários e fiscais, de que trata o § 4º do art. 13, relativos aos exercícios financeiros de 2019 e 2020, nos termos de regulamento;
 II - o cronograma mensal de pagamentos da complementação-VAAT, referido no § 2º do art. 16 desta Lei iniciar-se-á em julho e será ajustado pelo Tesouro Nacional, de modo que seja cumprido o prazo previsto para o seu pagamento integral;
 III - o Poder Executivo federal publicará até 30 de junho as estimativas previstas nos incisos V e VI do caput do art. 16 desta Lei relativas às transferências da complementação-VAAT em 2021.
