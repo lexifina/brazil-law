@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Juciete Santos Pena, autuadaem flagrante delito pela prática de tráfico de drogas, ante a apreensão de 123,7 g de crack.
+Ataca-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOno HC n. 2171818-54.2021.8.26.0000, que manteve a conversão da prisão em flagrante em preventiva no Processo n. 1517746-64.2021.8.26.0228, da 4ª Vara Criminal da Capital/SP.
+Alega-se a ausência dos requisitos ensejadores da prisão preventiva, o risco de contágio pela pandemia de Covid-19 e a possibilidade de aplicação de medida cautelar diversa da prisão.
+Requer-se a concessão da ordem, inclusive em caráter liminar, a fim de que a paciente seja posta em liberdade, se necessário com cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal. Subsidiariamente, pede-se a substituição da prisão preventiva por domiciliar por razões humanitárias.
+O pedido de liminar foi deferido (fls. 95/96).
+Prestadas as informações (fls. 100/104), o Ministério Público Federal manifestou-se pelo não conhecimento dowrit, concedendo-se, contudo, a ordem de ofício, para a substituição da prisão preventiva da paciente por medidas cautelares diversas.
+É o relatório.
+Aos fundamentos apresentados na decisão liminar, acrescento estas palavrasdoSubprocurador-Geral da República Nívio de Freitas Silva Filho, as quais adotocomo razão de decidir (fls. 114/117 - grifo nosso):
+ ..
+A liberdade - patrimônio jurídico de máxima envergadura - deve ser a regra em nosso ordenamento, especialmente quando considerada sob o vetor constitucional da presunção de inocência.
+Nesse contexto, a teor do art. 312 do Código de Processo Penal, a prisão preventiva é medida extrema, que deve ser decretada apenas quando presentes prova da materialidade e existência de indícios de autoria, com fundamento no risco que o agente, em liberdade, possa representar à ordem pública, à instrução criminal ou à aplicação da lei penal.
+A remansosa jurisprudência dos Tribunais Superiores consolidou-se no sentido de que a prisão cautelar, como medida excepcional, exige a demonstração concreta de sua necessidade, não bastando, a tanto, a alusão genérica à gravidade do delito.
+Na hipótese, não restou demonstrada, concretamente, a necessidade de custódia preventiva da paciente.
+Da leitura detida dos autos, verifica-se que as instâncias ordinárias motivaram a necessidade do recolhimento da ré em face da gravidade abstrata do crime de tráfico (fls. (e-STJ) 78/91), além de terem feito uso de expressões genérica se destacado a ausência de comprovação de atividade remunerada, fatores esses que não constituem, por si sós, em motivações válidas para a custódia preventiva da paciente.
+Outrossim, acrescente-se que a quantidade dos entorpecentes apreendidos também não se revela exorbitante, ao menos no sentido de justificar a necessidade de segregação cautelar da ré. Com efeito, no caso em comento, apreenderam-se apenas: 140 gramas de crack.
+Ademais, cumpre destacar que a paciente é primária, que o delito que lhe é atribuído não foi praticado com violência ou grave ameaça à pessoa e que, a princípio, não há indícios nos autos de que a paciente integre organização criminosa, fatores que evidenciam a desproporcionalidade da imposição da prisão preventiva como forma de garantir a ordem pública no caso em tela.
+Realmente, no caso sob análise, a fixação de medida alternativas à prisão mostra-se como a medida mais adequada e proporcional para assegurar a ordem pública de forma menos severa à acusada.
+Impende salientar que as condições favoráveis da acusada, ainda que não obstem a custódia provisória, são elementos que devem ser sopesados quando não demonstrada a presença dos requisitos que justificam a medida constritiva excepcional.
+Nesse contexto, a fundamentação baseada genericamente na garantia da ordem pública não evidencia a presença de elementos hábeis a justificar acustódia cautelar, o que revela a ilegalidade na decretação da prisão. A propósito:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA. NEGATIVA DE RECORRER EM LIBERDADE. AUSÊNCIA DE FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. RECURSO PROVIDO.
+1. A sentença penal condenatória superveniente, que não permite ao réu recorrer em liberdade, somente prejudica o exame do habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva, o que não ocorreu no caso dos autos.
+2. No caso dos autos, a prisão preventiva foi decretada com base em fundamentos genéricos relacionados à gravidade abstrata do crime de tráfico de drogas, sem a observância do disposto no art. 312 do Código de Processo Penal. Não foram apontados elementos concretos a justificar asegregação provisória. Nem mesmo a quantidade do entorpecenteapreendido - 47,38 gramas de crack - pode ser considerada relevante aponto de autorizar, por si só, a manutenção da custódia cautelar.
+3. Recurso ordinário em habeas corpus provido para permitir ao recorrente aguardar o julgamento do seu recurso de apelação em liberdade, mediante a aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal, a critério do Juízo de primeiro grau".
+(RHC 73.815/SP, Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/11/2016, DJe 25/11/2016)
+Desse modo, entendemos que a imposição de medidas cautelares diversas da prisão, entre aquelas previstas no artigo 319 do Código de Processo Penal, seja de logo por esse STJ, seja pelo Juízo de primeiro grau, parece-nos a medida mais adequada no caso.
+Ante o exposto, concedo a ordempara substituir a prisão preventiva da paciente pelas medidas cautelares previstas no art. 319, I, II e IV, do Código de Processo Penal (apresentação periódica ao Juízo para informar endereço e atividades; proibição de frequentar bares, praças, boates ou locais voltados ao consumo ou difusão de droga; e proibição de ausentar-se da comarca sem autorização judicial), salvo se por outro motivoestiver presa, cabendo ao Magistrado de primeiro grau o estabelecimento das condições, a adequação e a fiscalização das cautelas, bem como a imposição de outras que entender necessárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIADE FUNDAMENTOS CONCRETOS PARA EMBASAR A SEGREGAÇÃO CAUTELAR.CONSTRANGIMENTO ILEGAL. OCORRÊNCIA. LIMINAR CONFIRMADA. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
