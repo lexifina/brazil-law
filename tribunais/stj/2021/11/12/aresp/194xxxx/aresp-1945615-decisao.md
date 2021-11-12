@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto pelo SINDICATO INTERESTADUAL DAS INDUSTRIAS MISTURADORAS E ENVASILHADORAS DE PRODUTOS DERIVADOS DE PETROLEO, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PROCESSO CIVIL. AÇÃO COLETIVA. MATÉRIA TRIBUTÁRIA. INVIABILIDADE. PARÁGRAFO ÚNICO DO ARTIGO 1º DA LEI Nº 7.347/85. APLICAÇÃO. JULGAMENTO. POSSIBILIDADE. SENTENÇA MANTIDA. PER RELATIONEM.
+1. O provimento recorrido encontra-se devidamente fundamentado, tendo dado à lide a solução mais consentânea possível, à vista dos elementos contidos nos autos.
+2. O julgado vergastado foi claro quanto ao não-cabimento da presente ação, à vista do impedimento expresso contido no parágrafo único do artigo 1º da Lei nº 7.347/85, impossibilitando a discussão de matéria tributária em ações coletivas. Esse, a propósito o entendimento do C. STJ. Precedente.
+3. Por outro lado, o recurso apresentado pela apelante nada trouxe de novo que pudesse infirmar o quanto decidido, motivo pelo qual de rigor a manutenção da sentença, por seus próprios fundamentos. A propósito, verifica-se que nas razões de apelação apresentadas, a demandante discorre, quase que exclusivamente, acerca da sua legitimidade à propositura da presente ação, sendo certo, porém, que a extinção do feito, sem apreciação do mérito, não se deu em razão de ilegitimidade da parte, conforme por ela aduzido, de modo que não seria demasiado afirmar que o recurso apresentado encontra-se, em sua maior parte, dissociado das razões do julgado.
+4. Registre-se, por oportuno, que a adoção, pelo presente julgado, dos fundamentos externados na sentença recorrida - técnica de julgamento " " -, encontra per relationem amparo em remansosa jurisprudência das Cortes Superiores, mesmo porque não configura ofensa ao artigo 93, IX, da CF/88, que preceitua que "todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade (..)". Precedentes do E. STF e do C. STJ.
+5. Apelação improvida.
+No presente recurso especial, o recorrente aponta violação dos arts. 927, III e V, 1.039 e 1.040 do CPC/2015, alegando, em síntese, a necessidade de que o tribunal a quo observe a decisão proferida no RE 574.706, onde o STF decidiu pela inconstitucionalidade da inclusão do ICMS na base de cálculo do PIS e da COFINS.
+Alega, também, violação do art. 110 do CTN, sustentando, em suma, o indevido alargamento do conceito de receita bruta utilizado para justificar o cômputo do PIS e da COFINS na base de cálculo do ICMS.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+Contrarrazões apresentadas pela manutenção do acórdão recorrido.
+É o relatório.Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Inicialmente, verifica-se que no acórdão recorrido não foi analisado o conteúdo dos dispositivos legais apontados no presente recurso especial, pelo que carece o recurso do indispensável requisito do prequestionamento, imprescindível para a interpretação normativa exigida.
+Incide na hipótese o óbice constante da súmula 282 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Outrossim, as razões recursais apresentadas pelo recorrente estão dissociadas dos fundamentos do acórdão recorrido. No recurso especial, o recorrente insurge-se quanto à necessidade de aplicação da teoria da causa madura nos recursos especiais e da observância da jurisprudência do STF, enquanto o acórdão recorrido, da mesma forma como fez o Tribunal de origem em seu recurso de apelação, asseverou que a ação coletiva proposta não comporta cabimento por veicular matéria tributária, o que é expressamente vedado pelo art. 1º da lei nº 7.347/1985.
+Dessa forma, verificado que o fundamento acima referido, utilizado de forma suficiente para manter a decisão proferida no Tribunal de origem, não foi rebatido no apelo nobre, bem assim que os dispositivos legais apontados como ofendidos não foram abordados no referido julgado, observa-se a incidência dos óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+E em relação à interposição do recurso com fundamento na divergência jurisprudencial, nos termos da jurisprudência do STJ, o óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MORTE DECORRENTE DE ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL. DANOS MORAIS. VALOR DA INDENIZAÇÃO. REVISÃO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Em regra não é cabível a revisão do montante estipulado pelas instâncias ordinárias para a indenização por danos morais, ante a impossibilidade de reanálise de fatos e provas por este Sodalício no âmbito do recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Ressalte- se que a jurisprudência do Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum indenizatório arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, hipótese não configurada na espécie.
+3. O mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a análise do dissídio jurisprudencial.
+4. Agravo interno não provido.
+(AgInt no AREsp 1474339/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/10/2019, DJe 07/10/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO. INSTITUIDOR VINCULADO AO MINISTÉRIO DOS TRANSPORTES NÃO ORIUNDO DO DNER. PLANO DE CARGOS DO DNIT. REEXAME DE MATÉRIA FÁTICO- PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. No julgamento do Recurso Especial 1.244.632/CE pelo rito dos recursos repetitivos (art. 543-C do CPC), da relatoria do Ministro Castro Meira, a Primeira Seção do Superior Tribunal de Justiça firmou o entendimento de que o servidor aposentado do extinto DNER, ainda que passe a integrar o quadro de inativos do Ministério dos Transportes, deve ter como parâmetro de seus proventos a retribuição dos servidores ativos do DNER absorvidos pelo DNIT, pois é esta autarquia a sucessora do DNER, não havendo razão jurídica para justificar disparidade.
+2. No presente caso, em havendo o acórdão concluído, diante do lastro probatório constante dos autos, não existir prova documental de que o instituidor da pensão tenha sido, em algum momento, servidor do extinto DNER, modificar tal entendimento importa desafiar a orientação fixada pela Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. Fica prejudicada análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Recurso Especial não conhecido.
+(REsp 1780760/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2019, DJe 11/10/2019)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se
