@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo apresentado por LF COMERCIO DE VEICULOS AUTOMOTORES LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" e alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE COBRANÇA CONTRATO DE PUBLICIDADE VEICULAÇÃO DA MÍDIA PAGAMENTO PELO CONTRATANTE AUSÊNCIA PROVA DOCUMENTAL E TESTEMUNHAL HÁBIL A DEMONSTRAR O DIREITO PLEITEADO SENTENÇA MANTIDA
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 166, V, do CC, no que concerne à nulidade da contratação, pois inexistente, no momento da contratação e da divulgação de mídia com premiação, a certificação da Caixa Econômica Federal, trazendo os seguintes argumentos:
+Logo, a autorização do Caixa Econômica era "condição" para a formação integral do contrato.
+Portanto, sem a autorização da CEF, o pedido formulado em 14/06/2015 pela Agencia de Publicidade não poderia ter sido inserido na programação pela Recorrida.
+Como a Recorrente não entregou o certificado, deu-se por não contratada a divulgação de sua mídia.
+ ..
+Portanto, evidente a ofensa ao art. 166, V, do Código Civil, pois inexistente no momento da contratação e da divulgação de mídia com premiação, a certificação da Caixa Econômica Federal, sendo assim, a contratação nula e, consequentemente, a cobrança é indevida (fls. 178/179).
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, aponta dissídio jurisprudencial quanto ao tema trazido na primeira controvérsia.
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+A requerida, ora apelante, por sua vez limita-se a argumentar que não firmou contrato com a Rádio TV, muito menos teve sua mídia divulgada, por falta de Certificado de Autorização.
+Entretanto, tal alegação não tem a capacidade de desconstituir as provas documentais acostadas aos autos e corroborada pela testemunha da própria requerida.
+ ..  (fl. 141).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Destaco, de antemão, que o caso versa sobre atividade publicitária, abordando questões concernentes ao relacionamento contratual entre a anunciante LF Comércio de Veículos Automotores Ltda. e o veículo de informação Rádio TV do Amazonas Ltda.
+In casu, a parte autora reclama o valor mencionado na inicial, que deveria ter recebido em virtude do serviço de publicidade prestado.
+Lado outro, a empresa requerida alega que, embora tenha contratado o serviço publicitário, ele não foi veiculado, porquanto lhe fora exigido certificado de autorização a ser expedido pela Caixa Econômica Federal e que, em razão da quantidade de documentos exigidos, não teve tempo hábil para providenciar o referido certificado.
+Pois bem. É consabido que compete à parte autora a comprovação do fato constitutivo de seu direito enquanto que à parte requerida a comprovação de fato extintivo, impeditivo e modificativo de seu direito.
+Na espécie, a autora, ora apelada, colacionou aos autos provas documentais, quais sejam, extrato de fatura (ID núm. 4161290); e-mails (ID núm. 4161293); pedido de inserção da mídia (ID núm. 4161297), bem como (ID Ibope media dna núm. 4161318).
+Não obstante, foi ouvida a testemunha Nuylan Bertholdo de Souza, compromissada, a qual foi uníssona em afirmar que houve veiculação da mídia.
+A requerida, ora apelante, por sua vez limita-se a argumentar que não firmou contrato com a Rádio TV, muito menos teve sua mídia divulgada, por falta de Certificado de Autorização.
+Entretanto, tal alegação não tem a capacidade de desconstituir as provas documentais acostadas aos autos e corroborada pela testemunha da própria requerida.
+ ..
+Dessa forma, entendo que a apelada desincumbiu-se do ônus de comprovar o fato constitutivo de seu direito, enquanto a apelante não obteve êxito em demonstrar fato impeditivo, modificativo ou extintivo do direito da Rádio TV, a teor do art. 373, II, do CPC.
+Considerando que a mídia foi veiculada e o serviço devidamente prestado, deve a apelante cumprir com a sua obrigação contratual, adimplindo o valor acordado (fls. 141/142).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Quanto à segunda controvérsia, na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
