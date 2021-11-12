@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 338/340 e-STJ, proferida pelo Ministro Presidente do STJ, que não conheceu do recurso especial.
+A parte agravante sustenta que a Súmula n. 182/STJ não incide como óbice ao conhecimento do recurso especial.
+Em face dos fundamentos do agravo interno, reconsidero a decisão agravada e passo ao exame do agravo em recurso especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DE LIMINAR. AGRAVO INTERNO. EMBARGOS À EXECUÇÃO. INDEFERIMENTO DE EFEITO SUSPENSIVO. AUSÊNCIA DE GARANTIA DO JUÍZO. ALEGAÇÃO DE INEXISTÊNCIA DE TÍTULO E EXCESSO DE EXECUÇÃO. FALTA DE RELEVÂNCIA. DECISÃO MANTIDA. IMPUGNAÇÃO DE FUTURA E INCERTA PENHORA. INVIABILIDADE. INADEQUAÇÃO.
+1. Os pressupostos para a concessão de efeito suspensivo aos embargos à execução são consubstanciados nos mesmos pressupostos da antecipação de tutela, aliados à prévia segurança do juízo, conforme elencado no artigo 919, sç Iº, do CPC.
+1.1. Na hipótese mostra-se inviável a concessão de efeito suspensivo aos embargos à execução, pois não houve indicação de garantia idônea ao pelos devedores e não se constata relevância na alegação de inexistência de título executivo, pois a execução está fundada no inadimplemento de parcelas de amortização fixadas em cédula de crédito bancário, que é título executivo definido pelo art. 28 da Lei nº 10.931/2004, e os agravantes não impugnam a alegação de inadimplência, se insurgindo apenas quanto a tarifas bancárias e encargos de mora.
+2. Não cabe nessa sede recursal qualquer deliberação sobre futura penhora de ativos financeiros ou de bens dos recorrentes, já que ainda não consta dos autos informação sobre a adoção de qualquer medida constritiva pelo Juízo da causa, de modo a viabilizar a apuração da legitimidade de eventual penhora que venha a ser realizada.
+2.1. Não se pode, de forma abstrata, obstar qualquer medida constritiva futura de valores e bens de titularidade dos agravantes, mediante presunção de violação do artigo 8º do CPC, por afronta à dignidade da pessoa humana, cabendo aos recorrentes impugnar eventual penhora oportunamente, adotando as vias processuais adequadas para eventual e específica irresignação.
+3. Agravo de instrumento desprovido. Agravo interno prejudicado.
+A parte agravante sustenta que deve ser atribuído efeito suspensivo aos embargos à execução, pois foram verificados os requisitos para a concessão da tutela provisória.
+Quanto ao particular, o recurso encontra obstáculo no verbete sumular n. 284/STF, porque o art. 919, § 1º do Código de Processo Civilressalvaexpressamente a necessidade de prestação de caução idônea ou garantia do juízo para a concessão do efeito suspensivo.Assim, a conclusão buscada pela embargante não decorre logicamente da legislação invocada como ofendida, o que dificulta a compreensão da controvérsia oferecida a debate no recurso especial.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
