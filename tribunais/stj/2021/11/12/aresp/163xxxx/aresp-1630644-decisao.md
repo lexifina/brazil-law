@@ -1,0 +1,4 @@
+DECISÃO
+Por meio da petição de fls. 500/508493/498 (e-STJ), o recorrente comunica a realização de acordo extrajudicial entre as partes e a sua apresentação no juízo de primeiro grau, solicitando a homologação do acordo. Por esta razão requereu a suspensão do feito, até a referidahomologação, o que foi deferido pelo prazo de 30 dias, nos termos do art. 313, II, §4º, do CPC (fls. 508/509, e-STJ), e renovado o prazo por mais 60 dias (fl. 537, e-STJ), tendo em vista a informação da não homologação do acordo até a data.
+Emrazão do exposto e tendo em vista que a pretensão de ver homologado o acordo entabulado denota a falta de interesse norecurso, determino a remessa dos autos ao juiz de 1º grau para homologar e acompanhar o cumprimento do acordo firmado.
+Forte nessas razões, julgo extinto o processo por superveniente perda do interesse recursal, nos termos do art. 485, VI, do CPC/15.
