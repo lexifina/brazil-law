@@ -1,0 +1,29 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+AGRAVO DE INSTRUMENTO No. 1020389-74.2021.8.11.0000
+AGRAVANTE: SKY SERVICOS DE BANDA LARGA LTDA. AGRAVADO: ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Agravo de Instrumento com pedido de liminar interposto por Sky Serviços de Banda Larga Ltda., contra decisão proferida pelo Juízo da 5a Vara da Fazenda Pública da Comarca de Cuiabá, que, nos autos da Ação Anulatória no 1029443-38.2021.8.11.0041, ajuizada em face do Estado de Mato Grosso, indeferiu o pedido de liminar que objetivava a suspensão da exigibilidade dos créditos tributários decorrente de multas administrativas.
+Alega que ajuizou a ação retro mencionada, objetivando em tutela provisória de urgência a suspensão da exigibilidade das multas decorrentes dos procedimentos administrativos no. 0115-029.955-4, 0214-009.504-9, 0115-034.280-6, 0115-026.660-6, 0115-027.906-6, 0115-029.473-8 e 0115-034.921-2, que perfazem o valor de R$ 336.693,57 (trezentos e trinta e seis mil, seiscentos e noventa e três reais e cinquenta e sete centavos), contudo o Juízo indeferiu o pedido, por entender que não havia sido preenchidos os requisitos autorizadores.
+Esclarece que, opôs embargos de declaração, todavia, foram rejeitados, inobstante haver garantia integral do valor do débito, através da apólice de seguro, fato ignorado pelo magistrado de primeiro grau.
+Defende a existência da probabilidade do seu direito no “seguro garantia” apresentado nos autos, que se equipara a dinheiro perante a lei, sendo o valor equivalente ao total das multas, devidamente atualizadas e acrescido de 30% (trinta por cento).
+Pontua que o perigo de dano restou configurado nas consequências jurídicas advindas do ato administrativo em debate, sobretudo na inscrição da Agravante no CADIN e demais entidades de restrição de crédito e a propositura de eventual execução fiscal, que certamente ensejará inúmeros prejuízos.
+Dessa forma, requer seja o presente agravo recebido em seu efeito ativo, para a suspensão da exigibilidade do crédito discutido na presente demanda até o julgamento deste recurso.
+No mérito, a reforma da decisão agravada para que seja deferida a tutela de urgência nos autos principais, para determinar a suspensão da exigibilidade do pagamento das multas arbitradas pelo PROCON, enquanto pendente discussão judicial sobre a licitude do ato administrativo sancionador.
+É o relatório.
+Decido.
+Para a concessão da liminar em sede recursal, necessária se faz a presença dos requisitos exigidos pelos artigos 1.019, I, e 995, parágrafo único, ambos do Código de Processo Civil, quais sejam, a probabilidade de provimento do recurso e de risco de dano grave, de difícil ou impossível reparação.
+Extrai-se dos autos que o Recorrente ajuizou a ação anulatória de origem, objetivando a concessão de liminar para que seja determinada a suspensão da exigibilidade das multas arbitradas pelo PROCON Estadual, objeto dos Processos Administrativos no. 0115-029.955-4, 0214-009.504-9, 0115-034.280-6, 0115- 026.660-6, 0115-027.906-6, 0115-029.473-8 e 0115-034.921-2.
+O pedido foi indeferido pelo Magistrado de Primeiro Grau, por entender que os requisitos para a concessão da tutela provisória não estariam presentes.
+Contra a decisão, o Agravante opôs embargos de declaração alegando a ocorrência de omissão, pois o Magistrado não se manifestou quanto a apresentação de seguro-garantia.
+Pois bem.
+O STJ, nos autos do Recurso Especial no 1.381.254/PR, submetido a sistemática dos recursos repetitivos, firmou a seguinte tese: o entendimento contemplado no Enunciado Sumular 112 do STJ, segundo o qual o depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro, que se reproduziu no julgamento do Recurso Representativo da Controvérsia, nos autos do REsp. 1.156.668/DF, não se estende aos créditos não tributários originários de multa administrativa imposta no exercício do Poder de Polícia (REsp 1.381.254/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/06/2019, DJe 28/06/2019).
+Na decisão proferida pelo eminente Ministro Relator constou ser cabível a suspensão da exigibilidade do crédito não tributário a partir da apresentação da fiança bancária e do seguro garantia judicial, desde que em valor não inferior ao do débito constante da inicial, acrescido de trinta por cento, nos moldes previstos no art. 151, inciso II, do CTN c/c o art. 835, § 2o. do Código Fux e o art. 9o, § 3o da Lei 6.830/1980, uma vez que não há dúvida quanto à liquidez de tais modalidades de garantia, permitindo, desse modo, a produção dos mesmos efeitos jurídicos do dinheiro.
+No presente caso, a somas das multas aplicadas a parte Agravante importam na quantia de 336.693,57 (trezentos e trinta e seis mil, seiscentos e noventa e três reais e cinquenta e sete centavos), e, o seguro garantia oferecido n° 0306920129907750539398000 no valor de R$ 927.882,13 (novecentos e vinte e sete mil oitocentos e oitenta e dois reais e treze centavos), aparentemente acrescido dos 30%, consoante entendimento do STJ, bem como, também foi contratado em conformidade com as Condições Gerais do Seguro Garantia, de acordo com a Circular SUSEP no 477/2013.
+Sendo assim, tenho que a probabilidade do direito resta demonstrada consoante entendimento retro mencionado, bem como o perigo de dano, diante da impossibilidade de praticar atos de comércio, o que autorizam a concessão do pedido de liminar.
+Com tais considerações, DEFIRO o pedido a liminar para permitir a suspensão da exigibilidade do débito ora discutido, mediante o oferecimento do seguro garantia ora apresentado.
+Comunique-se sobre esta decisão o Juízo do feito, requisitando-lhe informações.
+Intime-se o Agravado para, querendo, apresentar resposta no prazo legal.
+Após, encaminhem-se os autos à Procuradoria-Geral de Justiça para parecer.
+Cuiabá/MT, 16 de novembro de 2021.
+Desa. Helena Maria Bezerra Ramos
+Relatora
