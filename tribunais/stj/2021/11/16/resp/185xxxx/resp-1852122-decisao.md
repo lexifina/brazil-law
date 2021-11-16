@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por HENRIQUE RICCHETTI JÚNIOR e LEILA AOUN RICCHETTI, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ fls. 388-389):
+AGRAVO DE INSTRUMENTO. AÇÃO REIVINDICATÓRIA. FALTA DE INTERESSE PROCESSUAL VERIFICADA, EX OFFICIO. REQUISITOS PARA A PROPOSITURA DA ACTIO NÃO EVIDENCIADOS. CONFUSÃO ACERCA DOS MARCOS DIVISÓRIOS DO IMÓVEL QUE IMPOSSIBILITA A PROPOSITURA DESTA MODALIDADE PROCESSUAL. EFEITO TRANSLATIVO DOS RECURSOS QUE AUTORIZA A IMEDIATA EXTINÇÃO DO PROCESSO ORIGINÁRIO, SEM RESOLUÇÃO DO MÉRITO, FORTE NO ART. 485, VI, § 3º, DO CPC/2015. INSURGÊNCIA PREJUDICADA.
+1. "A reivindicatória, de natureza real e fundada no direito de sequela, é a ação própria à disposição do titular do domínio para requerer a restituição da coisa de quem injustamente a possua ou detenha (CC/1916, art. 524 e CC/2002, art. 1.228), exigindo a presença concomitante de três requisitos: a prova da titularidade do domínio pelo autor, a individualização da coisa e a posse injusta do réu.  ..  A distinção entre demarcação e reivindicação, segundo o entendimento doutrinário, reside na circunstância de que, na reivindicação, o autor reclama a restituição de área certa e determinada; havendo incerteza quanto à área vindicada, prevalece a demarcação. Ademais, conforme já decidido pelo Superior Tribunal de Justiça, "o ponto decisivo a distinguir a demarcatória em relação a reivindicatória é "a circunstância de ser imprecisa, indeterminada ou confusa a verdadeira linha de confrontação a ser estabelecida ou restabelecida no terreno" (REsp 60.110/GO, Rel. Ministro SALVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, DJ de 2/10/1995)." (STJ, REsp 1060259/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/04/2017, DJe 04/05/2017).
+2. O efeito translativo inerente aos recursos ordinários - dentre os quais, insere-se o agravo de instrumento - permite a apreciação das matérias de ordem pública, passíveis de conhecimento ex officio e a qualquer tempo pelo julgador, pelo que não há óbice à proclamação imediata da extinção da ação originária, sem julgamento do mérito, forte no art. 485, VI, § 3º, do CPC/2015.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 405-408).
+Nas razões de seu recurso especial, a parte recorrente sustenta, sucessivamente, divergência jurisprudencial, se assim não for, violação ao art. 55 do CPC, e, caso se entenda que não houve violação a esse dispositivo, aponta violação ao art. 313 do CPC. Afirma que (e-STJ fl. 432):
+Por último, acaso se entenda que não houve dissídio jurisprudencial, e acaso o STJ também entenda que não houve violação ao art.55 do CPC, sucessivamente se declina o pedido de violação ao art.313 do CPC.
+Ou seja, mesmo que se entenda que não deva ocorrer julgamento simultâneo (parágrafo primeiro do art.55, CPC), deve-se deferir a suspensão do processo de reivindicação (mas não extinção de plano) à luz do art.313 do CPC:
+Art. 313. Suspende-se o processo:
+V - quando a sentença de mérito:
+a) depender do julgamento de outra causa ou da declaração de existência ou de inexistência de relação jurídica que constitua o objeto principal de outro processo pendente;
+Com perdão pela repetição de argumentos, concluímos que não há lógica alguma em extinguir neste momento a ação de reivindicação, obrigar os recorrentes a pagar R$25.000,00 (vinte e cinco mil reais de sucumbência), sendo que fatalmente a demanda reivindicatória terá que ser ajuizada posteriormente. Ao final, pergunta-se: sendo a demarcatória julgada em favor dos ora recorrentes, que JUSTIÇA terá sido feita com a extinção anterior da reivindicatória (com pagamento de sucumbência) para, obrigando o ajuizamento de posterior reivindicatória, conceder procedência aos recorrentes nesta segunda reivindicatória  É tal contradição e injustiça que não pode ser admitida pelo STJ.
+Não foram apresentadas contrarrazões (e-STJ fls. 468).
+O recurso foi admitido na origem.
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+Com efeito, não se verifica presente o prequestionamento da matéria relativa ao art. 55 do CPC, porquanto não apreciada pelo julgado recorrido, revelando inclusive razões dissociadas do acórdão, sendo inviável o seu conhecimento nesta sede, nos termos das Súmulas 282 e 356/STF.
+No que tange ao art. o recurso especial não pode ser conhecido, pois, sobre a matéria de que trata o art. 313, V, "a", do CPC não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+No caso, a Corte Estadual, no acórdão que julgou os embargos de declaração, consignou que (e-STJ fls. 468):
+No caso enfocado, não se encontram evidenciados os requisitos do art. 1.022 do CPC.
+Com efeito, os embargantes almejam a modificação do julgado a fim de afastar, precipuamente, sua responsabilidade pelo adimplemento das despesas processuais, nelas compreendidas os honorários sucumbenciais.
+Ocorre que não há falar em suspensão do feito, pois como anunciei no julgamento do agravo de instrumento, para o manejo da ação reivindicatória faz-se imprescindível a identificação e individualização do imóvel, o que não se observa na hipótese analisada.
+O fato de existir ação em trâmite com esse fim específico não é suficiente, justo que deveriam os embargantes ter aguardado a finalização da referida actio para, somente após, caso não resolvido o imbróglio, protocolizar o processo reivindicatório.
+Ato contínuo, verifico que o recurso especial não pode ser conhecido quanto à interposição pela alínea c do permissivo constitucional.
+Com efeito, não há, na fundamentação do recurso, a indicação adequada da questão federal controvertida, tendo deixado o recorrente de apontar os dispositivos de lei federal sobre os quais haveria divergência jurisprudencial, incidindo, na espécie, o óbice da Súmula 284 do STF.
+Ressalto que tal óbice aplica-se tanto para a interposição do recurso com fundamento na alínea "a" do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial, tendo em vista que o recorrente não apontou qual o dispositivo legalteria obtido interpretação diversa da que foi dada por outro Tribunal (AgRg nos EREsp 382.756/SC, Corte Especial, Rel. Min. Laurita Vaz, DJe de 17/12/2009).
+Destarte, inviável a pretensão da recorrente.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, nego conhecimento ao recurso especial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO REIVINDICATÓRIA. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. SÚMULA 284/STF.
+RECURSO ESPECIAL NÃO CONHECIDO.
