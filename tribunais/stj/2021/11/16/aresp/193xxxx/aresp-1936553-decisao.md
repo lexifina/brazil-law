@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por ROBERTO VASCONCELOS ALENCAR, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado (e-STJ, fls. 93-100):
+"PENAL E PROCESSUAL PENAL. RESTITUIÇÃO DE COISAS APREENDIDAS. VEÍCULOS.COMPROVADA A PROPRIEDADE. APREENSÃO. MEDIDA DECRETADA HÁ SETE ANOS.DENÚNCIA NÃO OFERTADA. FIEL DEPOSITÃRIO. DEFERIMENTO. PARCIAL.
+1. Pedido de restituição de coisa apreendida formulado por Roberto Vasconcelos Alencarpretendendo a restituição dos veículos de sua propriedade objetos de constrição nos autos darepresentação criminal originária 0070682-63.2010.4.01.0000.
+2. A constrição foi efetivada em razão de investigação que tem por objeto a análise de recursosrepassados ao município de Itinga do Maranhão no período de 23 de dezembro de 2005 a 31 dedezembro de 2009. Foi instaurado um inquérito policial federai na cidade de São Luis/MA paraapurar os fatos, tendo sido deflagrada a operação denominada "Operação Usura".
+3. Não obstante o autor ter carreado aos autos documentos que atestam a propriedade dosveículos apreendidos, não se desincumbiu da comprovação quanto â origem dos recursos usadospara adquirir os bens ora discutidos.
+4. As medidas assecuratórias penais, como todo provimento cautelar processual, não se esgotamem si mesmas, mas devem ser deferidas para resguardar ressarcimento em caso de eventualprocedência de ação penal a ser ajuizada em momento processual oportuno.
+5. Esta Turma tem admitido a restituição de coisa apreendida ao proprietário, como fieldepositário, se comprovada a propriedade do bem, em que pese a suspeita quanto à origem dosrecursos empregados na compra. Esta é a solução mais adequada, sobretudo em razão da notíciade que os veículos se encontram no pátio da Polícia Federal sofrendo com os desgastes naturaisdo tempo, há mais de 07 (sete) anos, não havendo informação de que tenha sido apresentada adenúncia.
+6. Diante da demora na formalização da acusação, para evitar prejuízos irreparáveis (caso osveículos fiquem parados por muito tempo sem uso) e considerando que não há prejuízo àaplicação da legislação penal caso o veículo seja restituído ao proprietário com restrição àalienação, entendo ser o caso de acolhimento parcial do pedido.
+7. Pedido deferido parcialmente para determinar a restituição dos veículos ao proprietário, naqualidade de fiel depositário, com a anotação no DETRAN respectivo da restrição para aalienação, transferência ou qualquer ato de disposição sobre eles".
+Os sucessivos embargos de declaração foram rejeitados (e-STJ, fls. 115-122 e 140-145).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 4º, § 1º, da Lei 9.613/1998; e 118, 126, 131, I, 132 e 654, § 2º, do CPP, ao argumento de que o decurso de 8 anos de constrição, sem oferecimento da denúncia, imporia o desbloqueio integral dos bens.
+Com contrarrazões (e-STJ, fls. 164-175), o recurso especial foi inadmitido na origem (e-STJ, fls. 177-178), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso (e-STJ, fls. 222-226).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, se encontra prejudicado. Afinal, como informado pelo MPF (e-STJ, fls. 208-211), jáhouve oferecimento da denúncia na origem; intimada para se manifestar sobre o tema (e-STJ, fl. 228), a defesa permaneceu silente, deixando de opor qualquer argumento à tese do Parquet(e-STJ, fl. 230). É evidente, assim, a superveniente perda de objeto do recurso, devendo a defesa discutir na ação penal a existência de provas quanto às imputações do MPF.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, julgo prejudicadoo recurso especial.
+Publique-se. Intimem-se.
