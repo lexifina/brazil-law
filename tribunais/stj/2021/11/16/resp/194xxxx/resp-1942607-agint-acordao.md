@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 378-381, e-STJ) que negou seguimento ao Recurso Especial, com base nas Súmulas 7 e 83 do STJ.
+A agravante sustenta, em suma (fls. 386-387, e-STJ):
+Tem-se que com o óbito do servidor, é o pensionista quem passa a deter legitimidade ativa ad causam para pleitear em ação própria a incorporação à sua pensão de vantagem remuneratória devida ao servidor em atividade, e não a entidade associativa.
+Isso porque não há, nem nunca houve, liame entre os sucessores do falecido e a entidade de classe.
+Não se discute que a ação coletiva ajuizada pelo Sindicato tenha efeito erga omnes e que beneficia a categoria, mesmo sem autorização expressa. A questão é que a entidade de classe não pode substituir alguém que já é falecido.
+Pode-se concordar que o sindicato abranja a categoria, mas não se pode conceber que pessoas mortas façam parte de tal categoria. Para pertencer a um grupo, é
+pressuposto lógico existir. Mutatis mutandis, perceba-se que o mandato cessa pela morte do mandante (CC, art. 682, II).
+Ainda que se admitisse a hipótese de a entidade de classe poder pleitear os direitos dos pensionistas em juízo, não se trata disso, mas sim de um direito creditório de um espólio! A Constituição não estende às entidades de classe o poder de substituir espólios para perquirir seus direitos creditórios em mandados de segurança coletivos. Pessoa falecida não é membro nem associado de entidade de classe/organização sindical/associação (art. 5º, LXX,"b", CRFB/88). Estas só podem impetrar ação em defesa do interesse de membros ou associados, não podendo ser assim considerado um(a) falecido(a), que deixa de fazer parte de grupos quando morre.
+O direito fundamental de associação, assegurado na Constituição Federal (art. 5º, inc. XVII), esgota-se com a morte, não podendo o espólio, que é conjunto meramente patrimonial, integrar instituição congênere. Assim dispõe o Código Civil: "Constituem- se as associações pela união de pessoas que se organizem para fins não econômicos" (art. 53, caput).
+A situação é ainda mais evidente pelo fato de a morte ter ocorrido antes de haver o fenômeno da substituição processual. O ente coletivo substitui substituído determinável no momento em que ajuíza a ação.
+Merece reforma, portanto, a r. decisão, conforme acima exposto, negando provimento ao recurso dos particulares.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. SERVIDOR PÚBLICO. AÇÃO COLETIVA. EXECUÇÃO DE SENTENÇA. FALECIMENTO DO SERVIDOR ANTES DO AJUIZAMENTO DA EXECUÇÃO. LEGITIMIDADE AD CAUSAM DO SINDICATO PARA REPRESENTAR O PENSIONISTA.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. O título executivo oriundo de ação coletiva abrange os servidores e pensionistas incluídos na categoria representada pelo substituto processual. Impõe-se considerar que o Sindicato possui legitimidade ativa ad causam para substituir a pensionista, em execução de sentença, diante da natureza do vínculo que a pensão gera em relação ao servidor falecido, independentemente de seu óbito ter ocorrido antes do ajuizamento da execução. Precedentes: REsp 1.276.388/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/11/2011; AgRg no REsp 1.224.482/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 15/10/2015; AgInt no REsp 1.744.661/RS, Rel. Minisro Mauro Campbell Marques, Segunda Turma, DJe 3/10/2018.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 24 de outubro de 2020.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, a irresignação esbarra no óbice da Súmula 83 do STJ.
+Esta Corte possui entendimento de que o sindicato possui legitimidade ativa para substituir os sucessores dos servidores falecidos, independentemente de o óbito ter ocorrido antes do ajuizamento da execução.
+A propósito, citam-se os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO COLETIVA. EXECUÇÃO DE SENTENÇA. FALECIMENTO DO SERVIDOR ANTES DO AJUIZAMENTO DA EXECUÇÃO. LEGITIMIDADE AD CAUSAM DO SINDICATO PARA REPRESENTAR O PENSIONISTA.
+1. O título executivo oriundo de ação coletiva abrange os servidores e pensionistas incluídos na categoria representada pelo substituto processual. Assim, impõe-se considerar que o Sindicato possui legitimidade ativa ad causam para substituir a pensionista, em execução de sentença, diante da natureza do vínculo que a pensão gera em relação ao servidor falecido, independentemente de seu óbito ter ocorrido antes do ajuizamento da execução. Precedentes: REsp 1.276.388/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/11/2011; AgRg no REsp 1.224.482/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 15/10/2015; AgInt no REsp 1.744.661/RS, Rel. Minisro Mauro Campbell Marques, Segunda Turma, DJe 3/10/2018.
+2. Agravo interno não provido (AgInt no REsp. 1.740.853/SC, Rel. Min. BENEDITO GONÇALVES, DJe 22.4.2019).
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Assim, afasta-se a ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático-probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Por fim, destaco que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
