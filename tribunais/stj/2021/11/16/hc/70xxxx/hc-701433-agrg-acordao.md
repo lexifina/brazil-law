@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n. 691 da Suprema Corte, tendo em vista que a prisão cautelar do ora Agravante está suficientemente fundamentada, tendo sido amparada na especial gravidade da conduta, evidenciada pela apreensão de grande quantidade de drogas, o que justifica a segregação cautelar como garantia da ordem pública.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por MARCEL HALPERN CORDEIRO contra decisão da Presidência desta Corte, que indeferiu liminarmente a petição inicial (fls. 183-184).
+Consta dos autos que o ora Agravante foi preso em flagrante no dia 22/04/2021 e posteriormente denunciado como incurso no art. 33, caput, da Lei n. 11.343/2006, caracterizado pela apreensão de 2.197,0g (dois mil, cento e noventa e sete gramas) de maconha (fl. 68). A prisão em flagrante foi convertida em preventiva.
+A Defesa impetrou habeas corpus perante a Corte de origem, tendo sido o pedido liminar indeferido pelo Desembargador Relator.
+Nas razões da impetração, a Defesa sustentou a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar em habeas corpus impetrado perante o Tribunal de origem, voltado à soltura do paciente.
+Alegou, em suma, a insuficiência de fundamentação do decreto prisional, a nulidade das provas decorrentes de busca domiciliar não autorizada judicialmente, a ausência dos requisitos autorizadores da custódia cautelar, a desproporcionalidade da medida extrema e a possibilidade de aplicação de medidas cautelares menos gravosas.
+Ressaltou a existência de predicados pessoais favoráveis ao Paciente.
+Requereu, assim, a concessão da ordem, liminarmente, para que o Paciente seja colocado em liberdade, ainda que mediante fixação de medidas cautelares diversas da prisão.
+A petição inicial foi liminarmente indeferida pela Presidência, em razão do óbice previsto na Súmula n. 691/STF.
+O Agravante sustenta, em suma, haver possibilidade de superação da Súmula n. 691/STF na espécie, e reitera as alegações da inicial.
+Requer, desse modo, o provimento do regimental para que o habeas corpus seja apreciado e concedida a ordem pleiteada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n. 691 da Suprema Corte, tendo em vista que a prisão cautelar do ora Agravante está suficientemente fundamentada, tendo sido amparada na especial gravidade da conduta, evidenciada pela apreensão de grande quantidade de drogas, o que justifica a segregação cautelar como garantia da ordem pública.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O inconformismo não prospera.
+O entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de liminar proferida em outro writ na Instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (HC 541.515/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/02/2020, DJe 17/02/2020; AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020; HC 543.255/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020; AgRg no HC 506.812/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/07/2019, v.g.).
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve-se preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado - tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, subvertendo a regular ordem do processo.
+No caso, conforme foi consignado na decisão ora agravada, não se constata ilegalidade patente que autorize a mitigação da Súmula n. 691 do Supremo Tribunal Federal - cuja essência vem sendo reiteradamente ratificada por julgados deste Superior Tribunal de Justiça -, sobretudo diante do que consignado na decisão impugnada no habeas corpus (fl. 117, grifos diversos do original):
+"Embora louvável o esforço da defesa, a prisão do paciente está devidamente fundamentada, especialmente para garantia da ordem pública, conveniência da instrução criminal e eventual aplicação da lei penal, na forma do art. 312 do Código de Processo Penal, pois, embora o delito tenha sido praticado sem violência ou grave ameaça à pessoa, o paciente tinha em depósito farta quantidade de "skank" (2.197 gramas), conhecida como "supermaconha".
+Ademais, a pena máxima cominada ao delito é superior a 04 anos, o que afasta a aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal; atém de ostentar natureza hedionda.
+Por fim, destaque-se que eventuais condições pessoais favoráveis não se prestam a afastar a necessidade da custódia, quando presentes os requisitos da prisão preventiva, como no caso, o que inviabiliza o acolhimento do ora pleiteado."
+Como se vê, as instâncias ordinárias destacaram a gravidade em concreto da ação criminosa, consubstanciada na apreensão de grande quantidade de droga - 2.197,0g (dois mil, cento e noventa e sete gramas) de maconha (fl. 68) -, o que justifica a segregação cautelar como garantia da ordem pública.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE DE DROGA. SÚMULA 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Consta do decreto prisional fundamentação que deve ser considerada idônea, com base na expressiva quantidade de droga apreendida, tratando-se de mais de 4 quilos de maconha.
+2. O entendimento desta Corte Superior é de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga.
+3. Inexistindo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+4. Agravo regimental improvido." (AgRg no HC 666.302/SP, Rel. Ministro OLINDO MENEZES - DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO -, SEXTA TURMA, julgado em 24/08/2021, DJe 30/08/2021.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE ENTORPECENTES APREENDIDOS. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada, pois o periculum libertatis foi evidenciado em decorrência da gravidade concreta da conduta imputada ao agravante, que teria sido preso, em tese, na posse, para fins de tráfico, de 1,853kg (um quilo, oitocentos e cinquenta e três gramas) de maconha. Dessarte, justifica-se a manutenção da prisão preventiva, nos termos do art. 312 do Código de Processo Penal, a fim de acautelar a ordem pública, haja vista a significativa quantidade de droga apreendida em poder do paciente.
+3. Nesse cenário, mostra-se indevida a aplicação de medidas cautelares diversas da prisão, pois a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública, ainda que se façam presentes condições pessoais favoráveis. Precedentes.
+4. Agravo regimental desprovido." (AgRg no HC 673.732/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 24/08/2021, DJe 31/08/2021.)
+Assim, não há teratologia a ser corrigida. A matéria, como se vê, depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiramente à Corte impetrada sua análise, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Instância a quo, mormente porque o remédio constitucional, ao que parece, está sendo regularmente processado.
+Dessa forma, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
