@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região).
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIÃOcontra decisão de minha lavra, e-STJ fls. 556/561, em que conheci parcialmente dorecurso especial e,nessa extensão, neguei-lhe provimento, em face da ausência de vício de integração e da aplicação das Súmulas 284 do STF, 5 e7 do STJ.
+Sustenta a parte agravanteque, ao contrário do decidido, o acórdãorecorrido padece vício de integração, poiso Tribunal de origem não se manifestou sobreo fato de ocontrato depermissão de uso ajustado entre a Administração Pública e os particularespossuir prazo de validade, o qualhavia se expirado, tornando a ocupação precária e irregular.
+Sustenta, também, a inaplicabilidade dos óbices contidos nas Súmulas 5 e 7 do STJ, visto que não hánecessidade deinterpretação de cláusulas contratuais oudo reexame deaspectos fáticos-probatóriospara se constatar que os autores não têmdireito à indenização pelas benfeitorias, bastando somente a análise da legislação aplicável ao caso,especificamente o art. 71 do Decreto-Lei no 9.760/46 e arts. 1.201, 1.209 e 1.220 do Código Civil.
+As razões do recurso especial permitem a exata compreensão da controvérsia, devendo afastara Súmula 284 do STF, aplicada no que se refere à tese apresentada pela União apenas a título de reforço argumentativo.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Decorrido o prazo legal, sem apresentação de impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTATIVO. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA.TERRENO DE MARINHA. PERMISSÃODE USO. REVOGAÇÃO. BENFEITORIAS NECESSÁRIAS. INDENIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1."Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Não há vício de integração (art. 535, do CPC/1973 ou art. 1.022, do CPC/2015) quando o Tribunal de origem aprecia as questões postas ao seu crivo, apresentando fundamentação clara e suficiente ao deslinde da causa, ainda que de forma sucinta e contrária ao interesse da parte.
+3. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, reconheceu que o Termo de Permissãode Uso de terreno de marinha firmado entre a Administração Pública e os autores, ora recorridos, não possuía prazo de validade e previa o direito à indenização pelas benfeitorias necessárias, em caso de rescisão.
+4. A alteração de julgado demandaria a reapreciação dos elementos de convicção presentes nos autos, inclusive das cláusulasdo contrato em apreço, o que é inviável em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do STJ.
+5. Agravo interno desprovido.
+VOTO
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+No caso, cumpre observar que o recurso especial se insurge contra acórdão publicado em 2013 (e-STJ fl. 468), tendo sido apreciado, portanto, conforme as regras do antigo estatuto processual.
+Dito isso, tenho que o inconformismo não merece prosperar.
+Quanto à alegada ofensa ao art. 535 do CPC/1973, conforme explicitado na decisão agravada, não se vislumbra nenhum equivoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdiciona
+Com efeito,o Tribunal de origem, soberano na análise da circunstâncias fáticas da causa, reconheceuo direito dos autores ao pagamento das benfeitorias, ressaltando não somentea boa fé dos ocupantes, mas a legalidade da ocupação, originária de Termo de Permissão de Uso concedido pela Administração Pública de terreno de praia.
+Ao julgar os embargos de declaração opostos pela União, a Corte Regionalressaltou que "não procede o argumento da União de que o Município é o único responsável pela concessão da permissão, visto que se vê às fl. 27/30 Contrato de Cessão de Uso em favor dos demandantes, o qual não estipula prazo e garante ao cessionário o direito à indenização por benfeitorias necessárias (Cláusula Décima), na hipótese da outorgante rescindir o contrato-a fim de reaver a posse do imóvel" (e-STJ fl. 446).
+Registrouo julgado, ainda,que "a boa fé dos cessionários advém da legalidade da posse, oriunda de permissão não só da SPU - Secretaria do Patrimônio da União, bem como da Prefeitura Municipal de Maceió".
+Ora, "o fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelas insurgentes, elegendo fundamentos diversos daqueles por elas propostos, não configura omissão ou outra causa passível de exame mediante a oposição de embargos de declaração" (AgInt no AREsp 1.526.177/SP, rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 29/05/2020).
+Nesse sentido:REsp 1892644 / RS, rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 31/08/2021; eAgInt no AREsp 1548040 / PE, rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 26/08/2021.
+Quantoao mais,consoanteexplicitado na decisão agravada,a modificação do aresto recorrido, nos termos pretendidos,não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, inclusive das cláusulas do contrato de cessão de uso, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 5 e 7 do STJ.
+A propósito:AgInt nos EDcl no REsp 1885114/RJ, rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 28/05/2021;AgInt no REsp 1914255/AL, rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 13/05/2021; eAgInt no REsp 1905557/MT, rel.Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 01/07/2021.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
