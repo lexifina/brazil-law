@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se derecurso especial interposto por IRINEU SCARDOELLI, fundamentado no artigo 105, III, "a" e "c" da Constituição Federal,manejado contra acórdãoTribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fls. 83/84):
+AGRAVO DE INSTRUMENTO  EXPURGOS INFLACIONÁRIOS  Pleito para fixação dos honorários advocaticios  Legitimidade recursal  Honorários que, segundo o art. 23, da L. nº 8.906/94, pertencem ao advogado  Ausência de recolhimento do preparo no ato da interposição do recurso  Deserção configurada  Inteligência do art. 525, §1º, do CPC/1973, aplicável à espécie.Recurso não conhecido.
+Opostosembargos de declaração, estesforam rejeitados (e-STJ fls. 136/139).
+Nas razões do recurso especial a parte alega, além de dissídio jurisprudencial,ofensa aos artigos 3º, 20, 46 a 49, do CPC/1973;3º, incs. I e VII, da Lei no 1.060/50 e17, 85 e seguintes, 98, §1º, inc. VIII, 113 a 118 do CPC/2015, sustentandoque tanto a parte, quanto seu advogado contam com plena legitimidadepara se postular os honorários advocatícios, sendo possível se estender a gratuidade da justiça conferida a parte ao seu advogado, sem a necessidade de recolhimento de custas para a interposição de recurso.
+É o relatório.
+Passo a decidir.
+De acordo com a jurisprudência desta Corte firmada à luz do CPC de 1973, as partes processuais possuem legitimidade para vindicar, em nome próprio, a majoração dos honorários advocatícios estipulados pelo órgão julgador, a despeito de tal verba constituir direito autônomo do advogado.
+Nesses casos, quando seja a parte beneficiária da justiça gratuita, o recurso estará isento de preparo.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. HONORÁRIOS ADVOCATÍCIOS. MITIGAÇÃO DO ÓBICE DA SÚMULA Nº 7. VALOR IRRISÓRIO. EQUIDADE. MAJORAÇÃO. DESERÇÃO. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que a majoração do valor arbitrado a título de honorários advocatícios enseja o revolvimento de matéria fático-probatória, além das peculiaridades do caso concreto, salvo quando o valor se revelar irrisório ou exorbitante, por se distanciar dos critérios legais, passando a questão a ser de direito. É o caso.
+2. A parte possui legitimidade concorrente para recorrer da decisão que fixa os honorários sucumbenciais, a despeito de referida verba constituir direito autônomo do advogado, inocorrendo deserção se ela litiga sob o pálio da gratuidade da justiça.
+3. Agravo regimental não provido.
+(AgRg no REsp 1466005/SP,Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA,julgado em 17/09/2015, DJe 29/09/2015 - grifou-se)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. ARTS. 22 E 23 DA LEI N. 8.906/94. LEGITIMIDADE CONCORRENTE. RECURSO EM NOME DA PARTE QUE LITIGA SOB O PÁLIO DA GRATUIDADE DA JUSTIÇA. DESERÇÃO. INOCORRÊNCIA.
+1. Hipótese em que a causídica, interpondo recurso de apelação em nome dos exequentes, o qual versava unicamente sobre honorários advocatícios, deixa de recolher o preparo, em razão desses litigarem sob o pálio da gratuidade da justiça, porém o recurso é considerado deserto, em razão do entendimento da Corte Estadual de que a advogada não pode se servir da gratuidade da justiça concedida aos exequentes.
+2. Sabe-se que os honorários, contratuais e de sucumbência, constituem direito autônomo do advogado, que não pode ser confundido com o direito da parte, tal como dispõe a Lei n. 8.906/94 (cf. AgRg no REsp 1221726/MA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/05/2013).
+3. A despeito de a verba relativa à sucumbência constituir direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-la, ante a ratio essendi do art. 23 da Lei nº 8.906/94(cf. REsp 828300/SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 24/04/2008).
+4. Não tendo agido a advogada em nome próprio, não há falar em deserção quando o litigante está abrigado pela gratuidade da Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1378162/SC,Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/02/2014, DJe 10/02/2014 - grifou-se)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO PELA PARTE, NO QUAL SE DISCUTE A BASE DE CÁLCULO DOS HONORÁRIOS DO ADVOGADO. LEGITIMIDADE CONCORRENTE. RECURSO EM NOME DA PARTE QUE LITIGA SOB O PÁLIO DA GRATUIDADE DA JUSTIÇA. DESERÇÃO. INOCORRÊNCIA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. A Corte Especial do STJ, na sessão do dia 26/02/2015, julgando o AgRg no EAREsp 86.915/SP (DJe de 04/03/2015), de relatoria do Ministro RAUL ARAÚJO, revisou entendimento anterior, quanto à necessidade de renovação do pedido de assistência judiciária, firmando o entendimento de que, tendo sido anteriormente deferido o pedido de assistência judiciária, o benefício prevalecerá, em todas as instâncias e para todos os atos do processo, inclusive no âmbito do STJ, e somente perderá a eficácia no caso de expressa revogação, não podendo, portanto, ser considerado deserto o recurso por ausência de reiteração ou renovação do pedido de concessão da assistência judiciária.
+II. Do mesmo modo, não se desconhece que "os honorários, contratuais e de sucumbência, constituem direito autônomo do advogado, que não pode ser confundido com o direito da parte, tal como dispõe a Lei n. 8.906/94" (STJ, AgRg no REsp 1.221.726/MA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/05/2013). Todavia, "a despeito de a verba relativa à sucumbência constituir direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-la, ante a ratio essendi do art. 23 da Lei nº 8.906/94" (STJ, REsp 828.300/SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 24/04/2008).
+III. Assim, se a parte possui legitimidade concorrente para recorrer da decisão que fixa os honorários sucumbenciais - ainda que a referida verba constitua direito autônomo do advogado -, não há falar em deserção, se ela litiga sob o pálio da gratuidade da justiça.Nesse sentido: STJ, AgRg no REsp 1.466.005/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 29/09/2015; AgRg no REsp 1.378.162/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 10/02/2014; REsp 821.247/PR, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJU de 19/11/2007.
+IV. Agravo Regimental improvido.
+(AgRg no REsp 1378162/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/02/2014, DJe 10/02/2014 - - grifou-se)
+Verifica-se, contudo, que, no caso em tela, esse entendimento não foi seguido pela Corte local, a qual apontou a necessidade de recolhimento de custas para o conhecimento do recurso de agravo de instrumento manejado pela parte ora agravante, não obstante se trate de parte amparada pelo benefício da gratuidade de justiça.
+No ponto, destaque-se o presente trecho do aresto impugnado:
+Ora, não é possível imaginar, tendo o recurso por único escopo o arbitramento da honorária, para este fim fossem reconhecidos existentes legitimidade ou interesse de recorrer da parte representada pelo advogado, igualmente, único beneficiário do acolhimento de tal recurso, pois seria o mesmo que se admitir pudesse terceiro pleitear em juízo sobre direito alheio, o que está expressamente vedado no art. 6º, do Código de Processo Civil.
+Disso se conclui que o advogado subscritor do recurso em questão não é o beneficiário da gratuidade ou diferimento nos autos concedidos ao seu constituinte.
+Desta forma, necessário seria o recolhimento das custas de preparo para que pudesse vir a ser conhecida o agravo interposto contra a sentença nos autos proferida.
+Como o patrono recorrente assim não procedeu, o não conhecimento do recurso é medida que sei sei impõe.(e-STJ fl. 84).
+Encontrando-se o acórdão recorrido em dissonância com o entendimento desta Corte, a sua reforma é medida que se impõe.
+Ante o exposto, douprovimento ao recurso especial para afastar a necessidade de preparo e determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento como entender de direito.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL (CPC/ 1973). AGRAVO DE INSTRUMENTO. LEGITIMIDADE CONCORRENTE. RECURSO EM NOME DA PARTE QUE LITIGA SOB O PÁLIO DA GRATUIDADE DA JUSTIÇA. DESERÇÃO. INOCORRÊNCIA. PRECEDENTES DO STJ.
+RECURSO ESPECIAL PROVIDO.
