@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+DOUGLAS LEONARDO HONORATO DA COSTA interpõe agravo regimental contra decisão de minha relatoria, em que conheci do agravo para negar provimento ao recurso especial.
+Consta dos autos que o agravante foi pronunciado pela suposta prática dos delitos previstos nos arts. 121, § 2º, V e VII (por duas vezes), c/c o art. 14, II, ambos do Código Penal, 33, caput, da Lei n. 11.343/2006 e 14 da Lei n. 10.826/2003.
+O Tribunal de origem deu parcial provimento ao recurso da defesa, impronunciou o réu pelo delito de homicídio e determinou a remessa dos autos à vara de tóxicos para devido processamento e julgamento dos crimes previstos no art. 33 da Lei de Drogas e 14 da Lei n. 10.826/2003.
+Em recurso especial, a defesa, além da divergência jurisprudencial, aponta violação dos arts. 33, caput, da Lei n. 11.343/2006, 158 do Código de Processo Penal e 14 da Lei n. 10.826/2003 e busca a absolvição do réu. Para tanto, aponta que a ausência do laudo toxicológico definitivo, bem como a ausência do laudo pericial atestando a eficiência da arma de fogo devem levar à absolvição do réu.
+Negado provimento ao recurso especial, o agravante repisa os argumentos de que a instrução do feito foi encerrada e "todos os elementos aptos para a realização de um juízo meritório em relação aos delitos previstos no art. 33 da Lei nº 11.343/06 e no art. 14 da Lei nº 10.826/03 já se encontram nos autos" (fl. 525), de modo que a ausência do laudo toxicológico definitivo, bem como o laudo de eficiência da arma apreendida devem levar à absolvição do acusado.
+Requer, portanto, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MATERIALIDADE DO DELITO. LAUDO TOXICOLÓGICO DEFINITIVO. AUSÊNCIA. EXCEPCIONALIDADE. MEIOS ROBUSTOS DE PROVA. PORTE DE ARMAS. PERIGO ABSTRATO. LAUDO DE EFICIÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção deste Superior Tribunal possui o entendimento de que, somente em casos excepcionalíssimos, é possível a condenação por crime de tráfico de drogas mesmo sem a juntada do laudo toxicológico definitivo aos autos (EREsp n. 1.544.057/RJ. Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 9/11/2016).
+2. Embora ainda não tenha havido a juntada aos autos do laudo toxicológico definitivo, há meios robustos de prova que evidenciam a materialidade do delito de tráfico de drogas. Isso porque, embora o laudo de constatação haja sido elaborado ainda na fase inquisitiva, conteve todas as informações necessárias à comprovação, com segurança, de que as substâncias apreendidas com o acusado se tratavam de cocaína e crack.
+3. O porte de arma de fogo de uso permitido, ainda que desmuniciada, configura o delito do art. 14 da Lei n. 10.826/2003, de perigo abstrato, que presume a ocorrência de risco à segurança pública e prescinde de resultado naturalístico à integridade de outrem para ficar
+caracterizado. Precedentes.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pelo ora agravante, entendo que não lhe assiste razão.
+A instância ordinária entendeu comprovada a materialidade do delito de tráfico de drogas com base no laudo de constatação preliminar juntado à fl. 32, mesmo que não juntado ainda o laudo definitivo.
+Sobre o tema, esclareço que, de fato, somente em casos excepcionalíssimos, seria possível a condenação por crime de tráfico de drogas mesmo sem a juntada do laudo toxicológico definitivo aos autos. Exemplificativamente, menciono o REsp n. 1.372.100/SC (DJe 8/5/2015), de minha relatoria, em que se entendeu devidamente comprovada a materialidade delitiva porque houve a juntada do laudo definitivo dois dias após a sentença; ainda, o HC n. 339.736/SP (DJe 10/2/2016), de relatoria do Ministro Reynaldo Soares da Fonseca, em que a própria defesa dispensou a juntada aos autos do laudo definitivo, de modo que a materialidade do tráfico de drogas ficou devidamente comprovada por diversos outros meios robustos de prova.
+No caso, entretanto, entendo estarmos diante de uma situação de excepcionalidade, haja vista a existência de outros meios de prova que evidenciam a materialidade do delito. Isso porque, embora o laudo de constatação haja sido elaborado ainda na fase inquisitiva, certo é que conteve todas as informações necessárias à comprovação, com segurança, de que as substâncias apreendidas com o acusado se tratavam de cocaína e crack.
+Vale dizer, uma vez que o exame preliminar realizado no caso dos autos foi elaborado por perito oficial e dotado de certeza idêntica à do definitivo, porquanto confeccionado em procedimento equivalente, que logrou constatar a natureza e a quantidade de droga apreendida, e porque o laudo preliminar foi corroborado pelas demais provas colhidas ao longo da instrução criminal - submetidas, portanto, ao crivo do contraditório e da ampla defesa -, entendo devidamente comprovada a materialidade do crime.
+Em casos praticamente idênticos, esta Corte Superior também entendeu comprovada a materialidade do crime de tráfico de drogas, senão vejamos:
+ ..  2. A Terceira Seção deste Superior Tribunal de Justiça, no julgamento do ERESp n. 1.544.057/RJ, entendeu que o laudo de constatação provisório que possua condições técnicas de atestar a natureza o da droga apreendida supre a ausência de laudo definitivo.
+3. Verificado que foi juntado laudo prévio de constatação da substância, assinado por perito criminal, identificando o material apreendido como maconha e cocaína, a materialidade do delito encontra-se devidamente comprovada.
+ ..
+(REsp n. 1.727.453/RJ, Rel. Ministro Jorge Mussi, 5ª T., DJe 15/6/2018).
+ ..
+- No julgamento do EREsp n. 1.544.057/RJ, a Terceira Seção desta Corte pacificou o entendimento de que o laudo toxicológico definitivo, de regra, é imprescindível à comprovação da materialidade dos delitos envolvendo entorpecentes. Sem o referido exame, é forçosa a absolvição do acusado, admitindo-se, no entanto, em situações excepcionais, que a materialidade do crime de drogas seja atestada por laudo de constatação provisório, desde que ele permita grau de certeza idêntico ao do laudo definitivo e tenha sido elaborado por perito oficial.
+- Na hipótese, como ficou consignado na origem, embora o laudo pericial juntado aos autos tenha sido confeccionado ainda na fase inquisitiva, equipara-se a laudo definitivo, "contendo todas as informações necessárias à comprovação da materialidade" (fl. 101), assim, não há razão para que a referida prova seja desconsiderada, tanto mais, porque a Defesa pôde impugná-la sob o crivo do contraditório judicial.
+ ..
+(HC n. 394.346/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 29/8/2018).
+Além disso, quanto à materialidade do delito de porte de armas, a jurisprudência desta Corte Superior é firme em assinalar que o delito em questão é de perigo abstrato. É prescindível, para sua configuração, a realização de exame pericial a fim de atestar a potencialidade lesiva da arma de fogo apreendida, pois é suficiente a simples posse do armamento, ainda que sem munições, em desacordo com determinação legal ou regulamentar, para a caracterização do delito.
+Assim, não há falar em atipicidade material da conduta atribuída ao réu, porque o simples fato de possuir, sob sua guarda, arma de fogo à margem do controle estatal - artefato que mesmo desmuniciado possui potencial de intimidação e reduz o nível de segurança coletiva exigido pelo legislador -, caracteriza o tipo penal previsto no art. 12 do Estatuto do Desarmamento.
+A propósito:
+ ..  1. É firme a jurisprudência dos Tribunais Superiores no sentido de que os delitos de porte de armas e munição de uso permitido ou restrito, tipificados nos artigos 12, 14 e 16 da Lei n. 10.826/2003, são crimes de mera conduta e de perigo abstrato, em que se presume a potencialidade lesiva, sendo inaplicável o princípio da insignificância independentemente da quantidade apreendida.
+2. Agravo regimental improvido.
+(AgRg no REsp n. 1.746.733/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 28/8/2018)
+À vista do exposto, nego provimento ao agravo regimental.
