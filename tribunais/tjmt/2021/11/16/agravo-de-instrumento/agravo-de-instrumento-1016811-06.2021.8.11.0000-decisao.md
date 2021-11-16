@@ -1,0 +1,23 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por APARECIDA ROSA VIEIRA DO NASCIMENTO, em face de decisão prolatada pelo Juízo da 3a Vara Cível da comarca de Barra do Garças/MT, que, nos autos da Ação Anulatória de Partilha c/c petição de Herança no 1007429-74.2021.8.11.0004, proposta em desfavor de ANDIVAL OLIVEIRA DA SILVA, indeferiu o pedido de gratuidade da justiça.
+A agravante alega, em síntese, que propôs a demanda na origem, acompanhada de vários documentos comprobatórios de sua hipossuficiência, apontando sua impossibilidade de pagamento de despesas processuais.
+Sustenta ser pensionista do INSS (pensão por morte), auferindo o valor de R$ 1.100,00, havendo vários empréstimos contraídos e, por isso, não tem como recolher o valor das custas processuais.
+Destaca que o “valor declarado na inicial faz parte do espólio de seu falecido pai, e a mesma nunca teve contato ou ainda usufruiu deste patrimônio”, não usufruindo da boa situação financeira do pai.
+Consigna que reside na casa de sua filha, vez que não tem condições de pagar aluguel. Afirma que não é possível vislumbrar qualquer indício de boa situação financeira da Agravante.
+Destaca que a concessão da benesse não demanda estado de miserabilidade. Ressalta a existência de “extensa prova documental, colhida com a vestibular, sobejamente permitem superar quaisquer argumentos pela ausência de pobreza, na acepção jurídica do termo.”
+Com essas considerações, requer seja concedido efeito ativo, para conceder a gratuidade da justiça. No mérito, pugna pelo provimento do agravo, para reformar a decisão agravada e confirmar a liminar concedida.
+É o relatório.
+Decido.
+Para concessão do efeito ativo ao recurso de agravo de instrumento, necessário se faz os pressupostos autorizadores da medida de urgência, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, que exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 300, do Novo Diploma Processual, o que se evidencia no caso.
+Quanto à matéria, filio-me a corrente a qual entende que, a concessão do benefício da justiça gratuita, está condicionada à efetiva comprovação de que a parte não possui condição financeira de arcar com as custas advindas do processo, em harmonia com o disposto no inciso LXXIV, art. 5o da Constituição Federal, a dizer, “o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos”. (Destaquei)
+Esclareço, por oportuno que o Superior Tribunal de Justiça já decidiu que “A presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta caráter relativo, podendo o magistrado indeferir o pedido de assistência se encontrar elementos que infirmem a hipossuficiência do requerente.” (AgInt no AgInt no REsp 1621028/RO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/10/2017, DJe 18/10/2017).
+Considerando que a situação que enseja a concessão de gratuidade da justiça se verifica pelos ganhos e gastos no dia a dia, com os quais seria possível depreender que os gastos e despesas mensais impeçam de pagar as custas, as despesas e os honorários do processo, haja vista, que não se verifica dos autos a comprovação de rendimentos e despesas, a fim de que se possa comprovar a impossibilidade de arcar com as custas e despesas processuais.
+No caso, tenho que, “a priori”, os argumentos e documentos trazidos não são suficientes ao deferimento do benefício, vez que, intimada a trazer aos autos documentos que demonstrem sua hipossuficiência, houve o transcurso do prazo, sem manifestação da Agravante, conforme Certidão de ID. 104147967.
+Neste sentido:
+“AGRAVO – INVENTÁRIO – PEDIDO DE JUSTIÇA GRATUITA – HIPOSSUFICIÊNCIA NÃO DEMONSTRADA – INDEFERIMENTO DO PEDIDO DE GRATUIDADE DA JUSTIÇA MANTIDO – AGRAVO DESPROVIDO – DECISÃO MANTIDA.
+A falta de comprovação da condição de hipossuficiente torna possível o indeferimento do pedido de justiça gratuita. (N.U 1023382-27.2020.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, GUIOMAR TEODORO BORGES, Quarta Câmara de Direito Privado, Julgado em 02/12/2020, Publicado no DJE 02/12/2020).
+Ante o exposto, em sede de cognição sumária, INDEFIRO a medida vindicada, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intimem-se os agravados, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Des. Sebastião BARBOSA FARIAS
+Relator
