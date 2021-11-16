@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão da Segunda Turma do STJ com a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO QUE INADMITIU AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. SÚMULA 182/STJ.
+1. O Tribunal de origem inadmitiu o Recurso Especial, ante a incidência das Súmulas 280/STF e 7/STJ e a ausência de comprovação da divergência jurisprudencial.
+2. Nas razões do Agravo, a parte deixou de atacar, de forma específica, a decisão recorrida no que se refere à incidência da Súmula 280/STF e da Súmula 7/STJ, limitando-se a afirmar, de forma genérica, que o Recurso Especial "não encontra qualquer óbice na Súmula 7 STJ, e Súmula 280 STF, tendo em vista que para conceder a prestação jurisdicional deduzida o STJ não terá de revolver matéria fática."
+3. Conforme a jurisprudência do STJ, "a alegação genérica de que o acolhimento das razões recursais depende de mero reenquadramento jurídico dos fatos arrolados não atende à necessária dialeticidade recursal, atraindo a incidência da Súmula 182/STJ" (AgInt no REsp 1.547.246/CE, Rel. Min. Og Fernandes, Segunda Turma, DJe 20.5.2021). Precedentes.
+4. Mantido o óbice da Súmula 7/STJ, fica prejudicada a interposição com base na alínea "c" do permissivo constitucional. De qualquer forma, o Recurso Especial não poderia ser admitido nesse ponto. Primeiramente, porque foram apresentados acórdãos divergentes de órgãos de um mesmo Tribunal, o que atrai o óbice da Súmula 13/STJ: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial." Depois, porque não se demonstrou similitude fática entre a decisão recorrida e os julgados paradigmas do Superior Tribunal de Justiça, que tratam da impossibilidade de retroação de nova lei que confere menor proteção ao meio ambiente, em virtude do princípio da proibição do retrocesso ambiental.
+5. Agravo Interno não provido.
+Nas razões dos Aclaratórios (fls. 1715-1726, e-STJ), o recorrente alega contradição, pois teria demonstrado, no Agravo Interno, a não incidência da Súmula 7/STJ e o dissídio jurisprudencial. Afirma, ainda, que a Segunda Turma omitiu-se ao não apreciar a violação ao art. 1.022 do CPC.
+Impugnação às fls. 1730-1735, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO. NÃO OCORRÊNCIA. TENTATIVA DE REDISCUTIR O QUE FOI DECIDIDO DE MANEIRA CLARA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A jurisprudência do Superior Tribunal de Justiça preconiza que "a contradição remediável por embargos de declaração, é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, ou seja, o recurso integrativo não se presta a corrigir contradição externa, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando" (EDcl no HC 290.120/SC, Rel. Ministra Regina Helena Costa, Quinta Turma, julgado em 26/8/2014, DJe 29.8.2014).
+2. In casu, a parte não aponta efetiva contradição interna no julgado. É nítida a tentativa de rediscutir o que foi decidido de maneira clara: o Agravo não impugnou especificamente a decisão de segundo grau que inadmitiu o Recurso Especial, ante os óbices das Súmulas 7/STJ e 280/STF.
+3. Quanto à alegada omissão em enfrentar a suposta violação ao art. 1.022 do CPC, cumpre registrar que o Agravo em Recurso Especial nem sequer mereceu conhecimento. Logo, não há omissão no enfrentamento de uma das alegações de mérito do Recurso Especial.
+4. Embargos de Declaração rejeitados, com advertência de aplicação de multa em caso de reiteração considerada protelatória.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6.10.2021.
+A jurisprudência do Superior Tribunal de Justiça preconiza que "a contradição remediável por embargos de declaração, é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, ou seja, o recurso integrativo não se presta a corrigir contradição externa, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando" (EDcl no HC 290.120/SC, Rel. Ministra Regina Helena Costa, Quinta Turma, julgado em 26/8/2014, DJe 29.8.2014).
+In casu, a parte não aponta efetiva contradição interna no julgado. Os Embargos de Declaração foram opostos com o intuito de rediscutir o que foi decidido de maneira clara: que o Agravo não impugnou especificamente a decisão de segundo grau que inadmitiu o Recurso Especial, ante os óbices das Súmulas 7/STJ e 280/STF.
+Quanto à alegada omissão em enfrentar a suposta violação ao art. 1.022 do CPC, cumpre registrar que o Agravo em Recurso Especial nem sequer comportou conhecimento. Logo, não há omissão no enfrentamento de uma das alegações de mérito do Recurso Especial.
+Ante o exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
