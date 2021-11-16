@@ -1,0 +1,57 @@
+DECISÃO
+
+    1. AeC Centro de Contatos S/A propôs reclamação constitucional em face de decisão do Tribunal Regional do Trabalho da 3ª Região, proferida nos autos de n. 0001524-14.2014.5.03.0105, alegando descumprimento ao entendimentos firmado por esta Corte nos julgamentos da ADPF 324 e do RE 958.252 (Tema 725), bem como violação ao enunciado vinculante n. 10 da Súmula.
+
+    Narra a reclamante que o órgão judiciário reclamado declarou ilícita a terceirização e reconheceu o vínculo empregatício da trabalhadora diretamente com a empresa tomadora de serviços e a isonomia com os empregados desta última.
+
+    Sustenta que, ao reconhecer a isonomia, a Corte trabalhista desviou-se do entendimento firmado por este Tribunal nos mencionados paradigmas, segundo o qual é lícita a terceirização de atividades fim.
+
+    Requer, liminarmente, a suspensão da decisão reclamada e, no mérito, sua cassação, com aplicação imediata do entendimento vinculante firmado nos julgamentos da ADPF 324 e do RE 958.252, ou, subsidiariamente, o retorno dos autos ao Tribunal de origem, para que seja proferida nova decisão, com observância dos precedentes desta Suprema Corte.
+
+    É o relatório. Decido.
+
+    2. A presente reclamação é manifestamente improcedente.
+
+    O ato decisório ora impugnado foi proferido em 27 de outubro de 2015, antes, portanto, dos julgamentos da ADPF 324/DF e do RE 958.252 (representativo da controvérsia do Tema 725 da repercussão geral), realizados conjuntamente na sessão plenária de 30 de agosto de 2018.
+
+    Esta Suprema Corte possui entendimento pacífico no sentido de que não é cabível reclamação em que se pretende impugnar ato produzido anteriormente ao paradigma de controle invocado, pois não assistiria à parte reclamante, nessas situações, interesse de agir (Rcl 3.076/MA, Rel. Min. Cármen Lúcia; Rcl 4.962/SP, Rel. Min. Cármen Lúcia; Rcl 6.449- -AgR/RS, Rel. Min. Eros Grau; Rcl 7.989-AgR/SP, Rel. Min. Cármen Lúcia; Rcl 8.603-AgR/SP, Rel. Min. Luiz Fux; Rcl 10.019-AgR/SP, Rel. Min. Celso de Mello).
+
+    Aproveito o ensejo para ressaltar que não comungo da orientação restritiva que se formou na jurisprudência desta Corte. Entendo que há hipóteses excepcionais nas quais, mesmo que o ato impugnado haja sido praticado anteriormente à edição do correspondente paradigma de controle, o recebimento da reclamação encontra autorização  nos escopos de preservar a competência e de garantir a autoridade das decisões do Supremo Tribunal (alínea “l”, do inciso I, do artigo 102, da Constituição Federal).
+
+    Isso porque a indevida aplicação de tese jurídica, núcleo central da hipótese discriminada no § 4º, do artigo 988, do Código de Processo Civil, também se aplica nos casos em que a decisão originalmente proferida projeta os seus efeitos de maneira prospectiva.
+
+    No entanto, em homenagem ao princípio da colegialidade, faz-se imperioso negar seguimento a pedidos que não reúnem condições mínimas de viabilidade perante esta Corte de Justiça.
+
+    De outro lado, no que toca à suposta transgressão ao enunciado vinculante n. 10 da Súmula, não extraio da fundamentação do acórdão guerreado qualquer juízo, expresso ou velado, de inconstitucionalidade de preceitos normativos.
+
+    Confira-se, a propósito, os seguintes trechos do acórdão que declarou ilícita a terceirização em análise:
+
+                TERCEIRIZAÇÃO – ISONOMIA
+
+    O d. Juízo de primeiro grau reconheceu como lícita a terceirização havida entre as reclamadas e julgou totalmente improcedentes os pedidos formulados na inicial. A reclamante insurge-se afirmando, em síntese, tratarse de terceirização ilícita, uma vez que os serviços de telemarketing estão relacionados à atividade-fim da tomadora dos serviços, motivo pelo qual pleiteia a isonomia com os empregados da CEMIG.
+
+    Extrai-se dos autos que a autora foi contratada em 01/04/2011 pela primeira reclamada (A&C Centro de Contatos) na função de "Atendente Júnior", sendo, após um mês, promovida a "Atendente Pleno Setor Elétrico" (fl. 77), prestando serviços exclusivamente à segunda reclamada (fato não impugnado pelas reclamadas nas defesas de fls. 55/76 e 175/207).
+
+    A CEMIG, de acordo com o art. 2º do seu estatuto social, tem por objeto "estudar, planejar, projetar, construir, operar e explorar sistemas de distribuição e comercialização de energia elétrica e serviços correlatos que lhe tenham sido ou venham a ser concedidos, por qualquer título de direito" (fl. 245).
+
+    Como se sabe, os usuários da energia operada pela CEMIG necessitam ter canal aberto com a concessionária, em se tratando de bem de uso essencial. Com efeito, não se pode pensar a atividade de operação e exploração de sistemas de geração, transmissão, distribuição e campos de energia, sem atendimento direto ao usuário, pois a falta desse serviço prejudicaria sensivelmente a prestação do objeto social da segunda reclamada. Assim, não há como negar o labor da reclamante em serviços diretamente ligados à dinâmica empresarial da tomadora de serviços. Logo, a atividade desenvolvida pela reclamante é necessária à consecução do próprio objeto social da CEMIG, nela inexistindo acessoriedade ou especialização.
+
+    Ressalte-se que a Lei n. 8.987/95 permite à concessionária contratar, com terceiros, o desenvolvimento de atividades inerentes, acessórias e complementares ao serviço, bem como a implementação de projetos associados. Isso não significa, contudo, que a lei tenha dado autorização para se terceirizar atividades-fim. Atividades inerentes, acessórias ou complementares, são na realidade, atividades ligadas ao serviço, mas que não se constituem no cerne dele, como, por exemplo, a ampliação ou modernização de redes de energia.
+
+    Diante disso, impõe-se o tratamento isonômico da autora com os trabalhadores da tomadora de serviços, em respeito ao disposto nos arts. 5º, caput, e 7º, XXX, da Constituição da República. Se aos trabalhadores temporários é garantida remuneração equivalente à percebida pelos empregados da mesma categoria da empresa tomadora, nos termos do art. 12, "a", da Lei n. 6.019/74, mais razão tem a aplicação desse princípio aos trabalhadores terceirizados que operem direta e permanentemente na dinâmica de organização e funcionamento da tomadora, como na presente hipótese.
+
+    Resta claro que o órgão reclamado não promoveu o afastamento da incidência de qualquer preceito legal permissivo de contratação de mão de obra terceirizada, como, por exemplo, o §1° do art. 25 da Lei 8.987/95, e tão somente deu ao caso concreto, com base em elementos dele extraídos, a solução jurídica que lhe pareceu mais apropriada.
+
+    Não é demais relembrar que esta Suprema Corte não descartou, no julgamento da ADPF 324, a possibilidade de a terceirização mostrar-se, concretamente, abusiva. Destaco o seguinte trecho da ementa do acórdão referente ao julgamento mencionado:
+
+    3. A terceirização não enseja, por si só, precarização do trabalho, violação da dignidade do trabalhador ou desrespeito a direitos previdenciários. É o exercício abusivo da sua contratação que pode produzir tais violações.
+
+    3. Por todo o exposto, nego seguimento à presente reclamação.
+
+    4. Intime-se. Publique-se.
+
+Brasília, 16 de novembro de 2021.
+
+Ministro NUNES MARQUES
+
+Relator
