@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por ENERGISA RONDONIA - DISTRIBUIDORA DE ENERGIA S.A, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado (e-STJ fl. 307):
+Apelação cível. Indenização por dano material. Rede de eletrificação rural. Incorporação pela Concessionária de energia. Resolução da Aneel n. 229/06. Restituição de valores gastos com a construção. Procedência.A Resolução n. 229 da Aneel, que estabelece as condições gerais para a incorporação de redes particulares pelas concessionárias de energia, prevê em seu artigo 3º que as redes particulares deverão ser incorporadas ao patrimônio da respectiva concessionaria de distribuição.É devido o ressarcimento dos valores dispendidos com a construção da rede elétrica incorporada, sob pena de enriquecimento ilícito da concessionária, conforme previsão do art. 884 do Código Civil.
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa (e-STJ fls. 345-348).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 489, § 1º, IV e V, 1.022, II, e 369, 371, 373, I, 355, I, 357 do CPC. Assevera que há omissão no acórdão no que diz respeito à valoração da prova e conclusão aplicável à espécie. Afirma que não há, nos autos, nenhum documento que ateste a titularidade sob o pretenso direito, bem como comprovação dos valores que foram gastos com a subestação.
+Foram apresentadas contrarrazões (e-STJ fls. 543-563).
+O recurso foi admitido na origem.
+É o relatório.
+Passo a decidir.
+A irresignação recursalnão merece prosperar.
+Com efeito, quanto à apontada violação aos arts. 489, § 1º, IV, do CPC, entendo que não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que(e-STJ fls. ):
+No caso em tela, diferente da conclusão obtida na sentença, entendo que o apelante comprovou ter efetivamente construído a rede de energia elétrica em sua propriedade rural, ainda que não tenha havido a comprovação dos valores dispendidos para a construção há a Anotação de Responsabilidade Técnica (ATR) (ID Núm. 9289083 - págs. 1 e 2), o Memorial Descritivo do Projeto (ID Núm. 9289083 - págs. 3 a 6) e a lista dos materiais gastos (ID Núm. 9289083 - pág. 7) e conta de energia, que comprova que a energia chega até o local.
+Na contestação, a concessionária também apresenta "FICHA DE VISTORIA DOS ATIVOS A SEREM INCOPORADOS" (ID Núm. 9289097 - pág. 1) realizada no imóvel do autor, demonstrando a existência de subestação de energia no local e por isso o ressarcimento é devido.
+Desse modo, mesmo que não haja nota fiscal dos valores dispendidos, é possível comprovar a construção da subestação por outros meios, devendo, assim, ser reconhecido o direito ao ressarcimento.
+Isso porque, para que haja o ressarcimento de valores é dispensável a prova demonstrativa do quantum debeatur, sendo necessário apenas a prova do direito que a parte pleiteia, o que restou suficientemente provado.
+Assim, ainda que não haja comprovante de pagamento, os documentos colacionados aos autos são suficientes para comprovar que houve a construção da rede de subestação pelo autor, sendo, portanto, devido o ressarcimento mediante a liquidação de valores com base na relação de materiais e orçamentos juntados, computados os juros da citação (art. 405 do CC) e correção monetária desde o desembolso (Súmula 43 do STJ), a serem apurados em fase de liquidação.
+Diante do exposto, dou provimento ao recurso para determinar que a CERON formalize a incorporação da rede elétrica ao seu patrimônio mediante o ressarcimento dos valores gastos com a construção da subestação, a serem apurados em sede de liquidação de sentença.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, com análise detida das provas.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+De outra parte, elidir as conclusões do aresto impugnado quanto ao fato de que o autor, parte ora recorrida, comprovou ter efetivamente construído a rede de energia elétrica em sua propriedade rural demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Quanto à alegada ofensa ao art. 369, 371, 373, I, 355, I, 357 do CPC, exsurge deficiente a fundamentação recursal, pois a recorrente limita-se a arrolar os dispositivos como supostamente violado, deixando de informar, de forma clara e objetiva, de que modo cada um dos dispositivos teria sido violado ou negada sua aplicação no acórdão recorrido.
+Assim, o recurso não merece ser conhecido, ante a incidência da Súmula 284/STF.
+Ademais, ainda que assim não fosse, quanto à apontada violação aos referidos artigos, o recurso especial não pode ser conhecido, pois, sobre a matéria de que tratam essas normas, não houve emissão de juízo de valor pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Ressalto que tais óbices aplicam-se tanto para a interposição do recurso com fundamento na alínea "a" do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial.
+Destarte, inviável a pretensão da recorrente.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada. Com base em tais premissas, a título de honorários recursais, sendo fixada inicialmente verba honorária em 10% do valor da condenação (e-STJ fl. 307), a majoração dos honorários para 12% é medida adequada à hipótese. Ônus suspensos, entretanto, na hipótese de assistência judiciária, nos termos do art. 98, § 3º, do CPC/2015.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. REDE DE ELETRIFICAÇÃO RURAL. INCORPORAÇÃO PELA CONCESSIONÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. REVOLVIMENTO DO CONJUNTO FÁTICO DOS AUTOS. SÚMULA7/STJ.
+RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
