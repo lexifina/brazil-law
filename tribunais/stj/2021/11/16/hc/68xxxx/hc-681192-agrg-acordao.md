@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+CLEMERSON JUNIO FERRERA NUNES agrava da decisão monocrática de fls. 311-315.
+O insurgente busca a declaração do indulto com fundamento noDecreto Presidencial n. 9.246/2017. Ele explica ter sido condenado por tráfico de drogas, a cumprir pena privativa de liberdade substituída por prestação de serviços e de valor pecuniário. De acordo com aparte, não é necessário cumprir 1/4 de cada um das sanções substitutivas para a declaração do benefício. Argumenta: "oDecreto de Indulto em aprec o não contempla disposic a o contendo a exige ncia  ..  de cumprimento de  de cada uma das penas substitutivas impostas, mas tão somente a previsão genérica do cumprimento de  da pena" (fl. 326).
+Requer a reforma do decisum, com a consequente concessão da ordem.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 9.246/2017. REQUISITO OBJETIVO NÃO PREENCHIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a concessão do indulto previsto no art. 1º, IV, doDecreto nº 9.246/2017, o cumprimento da fração de 1/4 da pena (requisito legal objetivo) deve ser aferido em relação a cada uma das sanções restritivas de direitos aplicadas ao reeducando.
+2. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+O indulto é ato discricionário de clemência privativo do Presidente da República, regulado por meio de decreto (art. 84, inc. XII, da CF), que extingue a punibilidade (art. 107, inc. II) de condenados que preencham certas condições ou requisitos, taxativamente previstos na norma de regência, desde que não haja proibição expressa ou implícita do benefício no próprio texto constitucional, como ocorre em relação aos crimes hediondos e assemelhados.
+O Supremo Tribunal Federal, ao julgar a Ação Direta de Inconstitucionalidade n. 5.874 - DF, declarou a constitucionalidade do inciso I do art. 1º; do §1º, I, do art. 2º; e dos arts. 8º, 10 e 11, todos do Decreto nº 9.246, de 21 de dezembro de 2017. Confira-se:
+ ..
+A Constituição Federal, visando, principalmente, a evitar o arbítrio e o desrespeito aos direitos fundamentais do homem, previu a existência dos Poderes do Estado, independentes e harmônicos entre si, repartindo entre eles as funções estatais.
+2. Compete ao Presidente da República definir a concessão ou não do indulto, bem como seus requisitos e a extensão desse verdadeiro ato de clemência constitucional, a partir de critérios de conveniência e oportunidade.
+3. A concessão de indulto não está vinculada à política criminal estabelecida pelo legislativo, tampouco adstrita à jurisprudência formada pela aplicação da legislação penal, muito menos ao prévio parecer consultivo do Conselho Nacional de Política Criminal e Penitenciária, sob pena de total esvaziamento do instituto, que configura tradicional mecanismo de freios e contrapesos na tripartição de poderes.
+4. Possibilidade de o Poder Judiciário analisar somente a constitucionalidade da concessão da clementia principis, e não o mérito, que deve ser entendido como juízo de conveniência e oportunidade do Presidente da República, que poderá, entre as hipóteses legais e moralmente admissíveis, escolher aquela que entender como a melhor para o interesse público no âmbito da Justiça Criminal.
+5. Ação Direta de Inconstitucionalidade julgada improcedente.
+(ADI 5874, Relator(a) p/ Acórdão: ALEXANDRE DE MORAES, Tribunal Pleno, DJe 04-11-2020).
+In casu, o reeducando foi condenado por tráfico de drogas com a redução pelo art. 33, § 4º, da Lei n. 11.343/2006, a:
+a) pena privativa de liberdade de 3 anos e 4 meses de reclusão, substituída por prestação de serviços e prestação pecuniária e
+b) multa de 333 dias, no valor unitário do mínimo legal.
+As instâncias ordinárias negaram o indulto do Decreto n. 9.246/2017 porquanto o reeducando resgatou252 dias dos 303 dias referentes à prestação de serviços à comunidade, mas "quanto a pena de prestação pecuniária,  ..  não realizou nenhum pagamento" (fl. 306).
+Não houve cumprimento de 1/4 de uma das penas aplicadasao postulante e, assim, não está preenchida a exigência do art. 1º, IV, do Decreto n. 9.246/2017.
+Com efeito: "Cada uma das penas alternativas aplicadas ao paciente possui finalidade distinta - prestação pecuniária e prestação de serviços à comunidade. De tal modo, não se pode permitir que o maior cumprimento de uma das penas restritivas compense o cumprimento da outra sob pena de se desvirtuar a natureza das medidas. Com isso, verifica-se que a exigência de que o sentenciado cumpra pelo menos 1/4 das penas deve ser verificada em relação a cada uma das penas impostas isoladamente. Precedentes" (HC n. 424.237/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 15/2/2018).
+Os dispositivos do Decreto nº 9.246/2017 têm de ser interpretados de forma sistemática, respeitado o intuito do Presidente da República. Confira-se os artigos, in verbis:
+a) art. 1º - O indulto  ..  será concedido às pessoas  ..  que  ..  tenham cumprido: IV -um quarto da pena, se homens,  .. , na hipótese prevista no § 4º do art. 33 da Lei nº 11.343  .. , quando a pena privativa de liberdade não for superior a oito anos";
+b) art. 8º - Os requisitos para a concessão do indulto  ..  são aplicáveis à pessoa que: I - teve a pena privativa de liberdade substituída por restritiva de direitos;
+c) Art. 10. O indulto ou a comutação de pena alcançam a pena de multa aplicada cumulativamente,  .. , observados os valores estabelecidos em ato do Ministro de Estado da Fazenda. Parágrafo único. O indulto será concedido independentemente do pagamento: I - do valor multa, aplicada de forma isolada ou cumulativamente; ou II - do valor de condenação pecuniária de qualquer natureza.
+O Presidente da República resolveu:
+a) indultar os condenados por tráfico privilegiado, a pena privativa de liberdade não superior a oito anos de reclusão, ainda que substituída por restritiva de direitos, desde que tenham cumprido 1/4 da pena;
+b) permitir que esse indulto alcance, também, a multa penal que não ultrapasse o limite de R$ 1.000,00, fixado na Portaria n. 75/2012, do Ministro de Estado da Fazenda, independentemente do pagamento do valor multa ou do valor de condenação pecuniária de qualquer natureza.
+O parágrafo único do artigo 10 diz respeito somente à hipótese de alcance do indulto de pena à multa de até R$ 1 mil, independentemente do pagamento de seu valor ou, ainda, de condenação pecuniária de qualquer natureza. Com efeito: "a jurisprudência desta eg. Corte Superior é consolidada no sentido de que, "Conforme a Portaria n.º 75/2012 do Ministério da Fazenda, o valor mínimo para a inscrição de débitos na Dívida Ativa da União, e, portanto, o limite para a concessão do indulto à multa penal, é de R$ 1.000,00 (mil reais)" (REsp n.1.792.891/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 10/09/2019)" (AgRg no REsp 1862055/PR, Rel. Ministro Felix Fischer, 5ª T.,DJe 29/5/2020.
+O art. 10, parágrafo único, do Decreto n. 9.246/2017 não afastou o art. 1º, IV c/c o art. 8º, I, ambos do mesmo regramento, nem criou hipótese de indulto às pessoas condenadas a pena privativa de liberdade convertida em prestação pecuniária, sem necessidade de seu cumprimento ou de outro requisito ou condição mínima.
+Aplica-se ao caso o entendimento de que: "O deferimento do indulto, com base no Decreto Presidencial n. 9.8246/17 demanda o cumprimento do requisito objetivo de cada uma das penas restritivas de direitos (Precedentes)" (AgRg no HC n. 616.798/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/9/2021).
+Ainda:"O Superior Tribunal de Justiça consolidou o entendimento de que para a concessão de indulto é necessário o cumprimento do requisito objetivo exigido para cada uma da penas restritivas de direitos impostas. Precedentes" (AgRg no HC n. 565.641/MG, Relª. Minª Laurita Vaz, 6ª T., DJe de 23/06/2020).
+À vista do exposto, nego provimento ao agravo regimental.
