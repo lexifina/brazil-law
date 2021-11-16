@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Trata-se de agravo interno de decisão cuja ementa é a seguinte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONSELHO PROFISSIONAL DE EDUCAÇÃO FÍSICA. INSTRUTOR/TÉCNICO DE TÊNIS. INSCRIÇÃO. NÃO OBRIGATORIEDADE. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Alega ser impossível que a Lei nº 9.696/98 preveja todas as atividades físicas e de desporto (são mais de 400 atividades) e que o Ministério do Trabalho, através da Classificação Brasileira de Ocupações - CBO, inseriu o técnico de desporto individual ou coletivo na categoria 2241-25, vinculada aos profissionais da educação física.
+Pugna pela retratação da decisão ou apreciação pela Turma Julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REGISTRO EM CONSELHO PROFISSIONAL DE EDUCAÇÃO FÍSICA. INSTRUTOR/TÉCNICO DE TÊNIS. INSCRIÇÃO. DESNECESSIDADE. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 2º E 3ºDA LEI 9.696/1998. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de2016) serão exigidos os requisitos de admissibilidade recursal na forma donovo CPC".
+2. Os arts. 2º, III, e 3º da Lei n. 9.696/1998 não trazem comando normativo que determine a inscrição de instrutores/técnicos de tênis nos Conselhos Regionais de Educação Física.
+3. Agravo interno não provido.
+VOTO
+As razões não merecem prosperar.
+Neste agravo interno, oagravante insiste na sua tese sustentando que é obrigatória a inscrição dos instrutores/técnicos de tênisno referido conselho profissional, tendo em vista ser impossível que a Lei nº 9.696/98 preveja todas as atividades físicas e de desporto (são mais de 400 atividades) e que o Ministério do Trabalho, através da Classificação Brasileira de Ocupações - CBO, inseriu o técnico de desporto individual ou coletivo na categoria 2241-25, vinculada aos profissionais da educação física .
+Pois bem, em que pesemas razões esposadas neste agravo interno, nota-se que o agravante não traz elementos suficientes para infirmar os fundamentos da decisão agravada - que os arts. 2º e 3º da Lei nº 9.696/98 não trazem nenhum comando normativo que imponha a inscrição dos instrutores/técnicos de tênisnos Conselhos Regionais de Educação Física -, a qual deve ser mantida pelos seus próprios e jurídicos fundamentos, os quais transcrevo (e-STJ fl. 556):
+(..)
+A pretensão não merece acolhida.
+Com efeito, o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, no sentido de não ser obrigatória a inscrição dos instrutores ou técnicos de tênis nos Conselhos Regionais de Educação Física, pois os arts. 2º, III, e 3º da Lei n. 9.696/98, não trazem nenhum comando normativo que determine a inscrição destes profissionais nos referidos Conselhos.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA. TÉCNICO DE TÊNIS. DESNECESSIDADE DO REGISTRO. PRECEDENTES.
+1. "Consoante a jurisprudência desta Corte - firmada em casos análogos -, a atividade de um técnico, instrutor ou treinador está associada às táticas do esporte em si, e não à atividade física propriamente dita, o que torna dispensável a graduação específica em Educação Física. Tais competências não estão contempladas no rol do art. 3º da Lei 9.696/98, que delimita tão somente as atribuições dos profissionais de educação física." (AgInt no AREsp 904.218/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 28/6/2016).
+2. Agravo interno não provido.
+(AgInt no AREsp 1176148/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/10/2018, DJe 16/10/2018)
+A corroborar referido entendimento, cito o seguinte precedente desta Turma:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. CONSELHOS PROFISSIONAIS. EDUCAÇÃO FÍSICA. ATIVIDADES DIVERSAS (DANÇA, IOGA, ARTES MARCIAIS). INSCRIÇÃO NO CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA. DESNECESSIDADE. AUSÊNCIA DE VIOLAÇÃO À LEI 9.696/1998. PRECEDENTES DO STJ.
+1. Cuida-se de Agravo Interno contra decisum que negou provimento a Recurso Especial.
+2. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+3. Nos primórdios, trata-se de Ação Declaratória com o objetivo de obrigar a parte recorrente a abster-se de aplicar qualquer penalidade ao recorrido pelo exercício da profissão de instrutor de tênis.
+IMPOSSIBILIDADE DE AFETAÇÃO AO RITO DOS REPETITIVOS
+4. De antemão, ressalte-se que o feito em disceptação não pode ser afetado ao rito dos repetitivos, nos moldes pleiteados. Este processo lida sobre o caso de um professor de tênis, exclusivamente.
+Nada obstante, a petição pretende discutir a mesma solução para os profissionais de dança, ioga, artes marciais (karatê, judô, taekwondo, kickboxing, jiu-jitsu, capoeira etc), tênis de mesa, pole dance, patinação, ginástica laboral etc; sejam professores, ministrantes ou instrutores de tais atividades. Para tanto, propõe a seguinte tese para afetação: "A obrigatoriedade de registro de treinador de atividades físicas com impacto à saúde das pessoas, no conselho profissional de educação física (aplicação do art. 3º da Lei 9.696/1998)".
+5. A referida tese reveste-se de tamanha abrangência e carência de objetividade que se requer, na Petição, inclusive, a realização de audiência pública. Assim, seria preciso a exposição de especialistas para esclarecer cada profissão e os potenciais riscos à saúde e à ordem econômica e social. Agregue-se que, no presente momento histórico, foi editada a Medida Provisória 905/2019, que dispensou registro para oito categorias profissionais, quais sejam, sociólogos, secretários, jornalistas, radialistas, publicitários, arquivistas e técnicos de arquivo. A norma, contudo, não afeta o Conselho de Educação Física.
+6. Assim, por mais nobre que seja a discussão e a necessidade de aprofundar o tema, entende-se que a matéria de omissão legislativa em fixar as profissões para fins de registro no referido Conselho, nos moldes em que delineada a pretensão, não poderá ser realizada neste processo específico. Porém, tendo em vista a justa preocupação com a saúde e a violência na prática de certas atividades físicas, nada obsta que o pleito volte a se repetir, máxime se realizado com maior objetividade e envolvendo processo que traga caso prático indene de dúvidas.
+MÉRITO
+7. A sentença julgou a ação procedente para assegurar ao recorrido o livre exercício da atividade de instrução prática, em quadra de tênis, independentemente de registro no Conselho Regional de Educação Física, desde que suas atividades não se confundam com preparação física, limitando-se à transmissão de conhecimentos de domínio comum decorrentes de sua própria experiência em relação ao referido desporto. O Tribunal de origem negou provimento à Apelação.
+8. Conforme tem entendido o STJ, não há comando normativo que obrigue a inscrição dos treinadores de tênis nos Conselhos de Educação Física, porquanto, à luz do que dispõe o art. 3º da Lei 9.696/1998, essas atividades, no momento, não são próprias dos profissionais de educação física.
+9. Interpretação contrária que extraísse da Lei 9.696/1998 o sentido de que o exercício da profissão de treinador ou instrutor de tênis de campo é prerrogativa exclusiva dos profissionais com diploma de Educação Física e respectivo registro no Conselho Regional de Educação Física ofende o direito fundamental assecuratório da liberdade de exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais estabelecidas em lei, nos termos do art. 5º, XIII, da Constituição Federal. Nesse sentido: AgRg no REsp 1.513.396/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 4/8/2015; e REsp 1.450.564/SE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 4/2/2015.
+10. Nesse mesmo norte, as seguintes decisões monocráticas de Ministros que compõem as Turmas da Primeira Seção do STJ: AREsp 1.368.345/SP. Relator Ministro Gurgel de Faria, DJe 14.12.2018;REsp 1.738.312/SP, Relatora Ministra Regina Helena Costa, DJe 25.5.2018;AREsp 1.265.694/SP, Relator Ministro Napoleão Nunes Maia Filho, DJe 10.4.2018; AREsp 1.241.612/SP, Relator Ministro Mauro Campbell Marques, DJe 12.3.2018; AREsp 1.176.148/SP, Relator Ministro Sérgio Kukina, DJe 20.11.2017; AREsp 1.153.889/RS, Relator Ministro Francisco Falcão, DJe 15.9.2017; AREsp 1.037.023/SP, Relator Ministro Og Fernandes, DJe 19.6.2017.
+11. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ.
+CONCLUSÃO
+12. Logo, sem apresentar argumentos consistentes, que efetivamente impugnem os principais fundamentos da decisão objurgada, o agravante insiste em sua irresignação de mérito, fiando-se em alegações genéricas, para alcançar o conhecimento do seu recurso.
+13. Agravo Interno não provido.
+(AgInt no REsp 1767702/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 29/06/2020, DJe 21/08/2020) (grifos meus).
+Com essas considerações, estando o acórdão do Tribunal de origem e a decisão monocrática deste relator em sintonia com o entendimento doSuperior Tribunal de Justiça, a decisão agravada merece ser mantida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
