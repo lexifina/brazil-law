@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICIPIO DE RIO DE JANEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. LESÃO NO PARTO, OCASIONANDO SEQÜELAS À AUTORA. A AUTORA AFIRMA QUE FOI REALIZADO PARTO NORMAL FORÇADO, PROVOCANDO LESÃO PLEXO BRAQUIAL NO BRAÇO DIREITO, SENDO NECESSÁRIA A IMOBILIZAÇÃO E A REALIZAÇÃO PERMANENTE DE FISIOTERAPIA.
+Quanto à primeira controvérsia, alega violação do art. 1.022, II, do CPC, no que concerne à configuração de omissão quanto à fundamentação jurídica para embasar a ausência de prova pericial, trazendo o(s) seguinte(s) argumento(s):
+25. Não se exige mais do que uma rápida leitura dos acórdãos - tanto do que julgou a apelação, como do que decidiu os embargos -, para se perceber que nenhuma fundamentação jurídica se utilizou para enfrentar ausência de prova pericial.
+ ..
+27. A única referência que se viu para o assunto, feita pelo órgão julgador ao apreciar a matéria, foi a seguinte:
+"No entanto, mesmo não sendo produzida a perícia, não é necessário conhecimento técnico aprofundado sobre o tema para verificar, nos próprios documentos trazidos pelo réu, que houve, sim, falhas na prestação do serviço médico" (fls. 271).
+28. Trata-se de argumentação, ademais de equivocada, d.v., pobre, sobretudo porque em tempo algum enfrentou a incidência do art. 375, do CPC (fls. 333).
+Quanto à segunda controvérsia, alega violação do art. 375 do CPC, no que concerne à indevida dispensa de prova pericial para embasar a condenação por danos em decorrência de omissão ou negligência médica, trazendo o(s) seguinte(s) argumento(s):
+12. O aresto incorreu em omissão ao julgar procedentes os pedidos indenizatórios sem as provas técnicas especificas para o caso, deixando de aplicar o art. 375 do CPC, que assim determina:
+ ..
+13. Veja-se que, sem a realização da prova pericial, não há como se evidenciar, seja em que processo for, omissão ou negligência médica, muito menos se estabelecer o nexo entre o atendimento e a suposta lesão.
+ ..
+15. Entender, como no caso, que uma lesão no plexo braquial decorreu de má-prática médica, sem base em perícia técnica que avalize a assertiva, é permitir que o processo seja julgado por mero palpite judicial.
+ ..
+20. O que o Município deseja é apenas demonstrar a complexidade do assunto para qualquer juiz, leigo em Medicina, o que torna imprescindível a realização de uma perícia, no mínimo, na forma do art. 375, do CPC (fls. 331/332).
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso apresentado pelo Municipio do Rio de Janeiro, quanto à primeira controvérsia, na espécie, impende ressaltar que, nos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração têm fundamentação vinculada, destinando-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como a corrigir erro material. Nesse sentido, os seguintes arestos da Corte Especial: EDcl no AgInt no RE nos EDcl no AgInt no AREsp n. 475.819/SP, relator Ministro Humberto Martins, Corte Especial, DJe de 23/3/2018, e EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp n. 1.491.187/SC, relator Ministro Mauro Campbell Marques, Corte Especial, DJe de 23/3/2018.
+No caso em exame, o Tribunal de origem se manifestou nos seguintes termos:
+No entanto, mesmo não sendo produzida a perícia, não é necessário conhecimento técnico aprofundado sobre o tema para verificar, nos próprios documentos trazidos pelo réu, que houve, sim, falhas na prestação do serviço médico.
+Restou evidente a falha no serviço de saúde prestado pelos agentes do réu no exercício da profissão; o nexo de causalidade resta devidamente caracterizado, o que resulta em responsabilização legal (fl. 271).
+ ..
+Nestes termos, a inexistência de produção de prova pericial não impediu a análise da pretensão autoral (fl. 320).
+Assim, a alegada afronta do art. 1.022 do CPC não merece prosperar, porque o Tribunal de origem examinou devidamente a controvérsia dos autos, fundamentando suficientemente e com clareza sua convicção, não havendo se falar em negativa de prestação jurisdicional porque não ocorreram omissões ou obscuridade no acórdão recorrido, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Confiram-se, nesse sentido: AgInt no AREsp n. 1.652.952/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt no AREsp n. 1.606.785/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/8/2020; AgInt no AREsp n. 1.674.179/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 28/8/2020; AgInt no REsp n. 1.698.339/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgRg no AREsp n. 1.631.705/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; e AgRg no REsp n. 1.867.692/SP, relator Ministro Jorge Mussi, DJe de 18/5/2020.
+Quanto à segunda controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No entanto, mesmo não sendo produzida a perícia, não é necessário conhecimento técnico aprofundado sobre o tema para verificar, nos próprios documentos trazidos pelo réu, que houve, sim, falhas na prestação do serviço médico.
+Restou evidente a falha no serviço de saúde prestado pelos agentes do réu no exercício da profissão; o nexo de causalidade resta devidamente caracterizado, o que resulta em responsabilização legal.
+Logo, não há dúvidas acerca da responsabilidade do réu pelo erro praticado por profissional de saúde que ali exerce sua atividade (fl. 271).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
