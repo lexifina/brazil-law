@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência do STJ que não conheceu do recurso especial em razão da sua intempestividade.
+O agravante alega que "(..), no mínimo se está diante de dúvida razoável, em virtude da falta de clareza dos elementos contidos nos autos para aferição efetiva da tempestividade do recurso, (..)" (fl. 530), pois caso se considere que a ciência do acórdão recorrido se deu pessoalmente em 4/9/2019 (visto que da certidão de intimação não consta qualquer assinatura de recebimento por qualquer procurador, nem mesmo servidor), o dies ad quem seria 16/10/2019, sendo que a peça recursal do Estado faz consignar expressamente a data de 14/10/2019 no seu final, como a data da assinatura eletrônica e consequente ajuizamento. Acrescenta que da lateral da peça consta uma autenticação que não permite conclusão inequívoca sobre o recurso ter ou não sido interposto em 14/10/2019 e que também "(..) padece de igual e necessária clareza a data de 21/10/2019 utilizada pela r. Decisão ora agravada, como tendo sido seguramente a data da interposição do recurso especial, na medida em que a Informação de fl. 489, e-STJ, nos remete à data de juntada do RESP no setor específico como tendo ocorrido no dia 21/10/2019." (fl. 531).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. In casu, a intimação do acórdão recorrido se deu no dia 4/9/2019, iniciando-se a contagem do prazo recursal no dia 5/9/2019 e findando-se em 16/10/2019, tendo o recurso especial sido interposto apenas em 21/10/2019. Assim, manifesta a sua intempestividade.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, in casu, a intimação do acórdão recorrido se deu no dia 4/9/2019, conforme certidão de fls. 467, assinada por serventuário da Justiça e dotada de fé pública. Assim, iniciou-se a contagem do prazo recursal no dia 5/9/2019, findando-se em 16/10/2019, tendo o recurso especial sido interposto apenas em 21/10/2019, conforme protocolo constante da peça.
+Deste modo, manifesta a sua intempestividade, sendo oportuno ressaltar que o juízo de admissibilidade positivo efetuado no Tribunal de origem não vincula esta Corte Superior, única competente para analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial. Com efeito, "(..) a jurisprudência desta Corte Superior de Justiça sedimentou-se no sentido de que "a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão de tempestividade expedida por servidor na instância de origem Superior Tribunal de Justiça não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, ou seja, aportados os autos neste Sodalício, é imprescindível nova análise dos pressupostos recursais" (EDcl no AgInt no REsp 1.702.212/ES, Rel. Min. Felix Fischer, DJe de 21/3/2018)."(AgInt no AREsp 1731185/CE, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 15/4/2021).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
