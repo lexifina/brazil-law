@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interno interposto por Banco Original S.A. contra decisão monocrática proferida por este signatário, a qual deferiu o pedido de tutela de urgência formulado por Têxtil Canatibal LTda. - em recuperação judicial -, para conceder efeito suspensivo a recurso especial, conforme se vê da seguinte ementa (e-STJ, fls. 656-662):
+PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. CONCESSÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. PLAUSIBILIDADE DO DIREITO INVOCADO, CONSUBSTANCIADO NA PROBABILIDADE DE ÊXITO NO JULGAMENTO DO ESPECIAL. COMPROVAÇÃO. PERICULUM IN MORA. EXISTÊNCIA. PEDIDO DEFERIDO.
+Em suas razões (e-STJ, fls. 667-687), a agravante afirma não ser aplicável à hipótese dos autos o precedente utilizado na decisão agravada para reconhecer a probabilidade do direito, assim como por não haver consolidação do entendimento firmado no referido julgado. Por fim, alega não haverpericulum in mora, pois o bem penhorado não está empregado na atividade da recuperanda.
+Brevemente relatado, decido.
+Com efeito, ao conceder a tutela de urgência para empregar efeito suspensivo ao recurso especial, a decisão agravada se fundou no entedimento da Terceira Turma do STJ, segundo o qual, em regra, preservam-se as garantias constantes no título que representa o crédito, ressalvadas algumas hipóteses, conservando-se o direito do credor de perseguir o crédito contra terceiros garantidores e impor a manutenção das ações e execuções promovidas contra fiadores, avalistas ou coobrigados em geral, à exceção do sócio com responsabilidade ilimitada e solidária.
+Entretanto, mais recentemente a Segunda Seção desta Corte dirimiu a controvérsia e firmou o entendimento de que a cláusula que estende a novação dos créditos aos coobrigados é válida, mas oponível somente aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, sendo indispensável a anuência do titular da garantia acerca da referida supressão.
+A propósito:
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. NOVAÇÃO. EXTENSÃO. COOBRIGADOS. IMPOSSIBILIDADE. GARANTIAS. SUPRESSÃO OU SUBSTITUIÇÃO. CONSENTIMENTO. CREDOR TITULAR. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a cláusula do plano de recuperação judicial que prevê a supressão das garantias reais e fidejussórias pode atingir os credores que não manifestaram sua expressa concordância com a aprovação do plano.
+3. A cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição.
+4. A anuência do titular da garantia real é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão ou substituição.
+5. Recurso especial interposto Tonon Bionergia S.A., Tonon Holding S.A. e Tonon Luxemborg S.A. não provido. Agravo em recurso especial interposto por CCB BRASIL - China Construction Bank (Brasil) Banco Múltiplo não conhecido. (REsp 1.794.209/SP, Rel. Min. Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 12/05/2021, DJe 29/0/2021)
+No mesmo sentido: REsp n. 1.885.536/MT, Rel. Min. Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 12/05/2021, DJe 29/06/2021.
+Desse modo, nota-se que a jurisprudência do STJ se sedimentou em sentido contrário à pretensão da recuperanda, assim como não mais subsiste o entendimento adotado pela Terceira Turma deste Tribunal e usado para fundamentar a concessão do efeito suspensivo ao recurso especial.
+Assim, não se vislumbra a presença dofumus boni iuris, indispensável à concessão da tutela de urgência, a qual deve ser revogada.
+Ante o exposto, reconsidero a decisão de fls. 656-662 (e-STJ) e revogo o efeito suspensivo ao recurso espeial anteriormente concedido.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. MUDANÇA DE ENTENDIMENTO PELA SEGUNDA SEÇÃO DO STJ. AUSÊNCIA DEFUMUS BONI IURIS. REVOGAÇÃO DO EFEITO SUSPENSIVO A RECURSO ESPECIAL. PEDIDO INDEFERIDO, EM JUÍZO DE RECONSIDERAÇÃO.
