@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Leonardo Leiria Neto, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (HC n. 0071751-42.2020.8.21.7000).
+Narram os autos que o paciente teve a prisão preventiva decretada em razão da suposta prática do crime de homicídio qualificado, ocorrido em 20/3/2019. Em 22/7/2019, o Juízo de primeiro grau (Autos n. 0001180-97.2019.8.21.0075) revogou a prisão preventiva e impôs ao paciente o cumprimento de medidas cautelares diversas da prisão (fls. 50/52).
+Irresignado, o Ministério Público interpôs recurso em sentido estrito, ao qual o Tribunal gaúcho deu provimento e decretou a prisão cautelar do réu, ora paciente (fls. 21/33), que foi preso novamente em 13/1/2020.
+Indeferido o pedido de revogação da prisão, impetrou-se writ, na origem, tendo o Tribunal de Justiça declinado a competência para esta Corte Superior, por entender que ela era a autoridade coatora.
+Daí o presente mandamus, em que o impetrante alega que o paciente é primário, possui bons antecedentes, residência fixa e emprego lícito e, no tempo em que ficou em liberdade, não voltou a delinquir.
+Destaca que não se deve analisar a pena em abstrato, mas, sim, o contexto probatório, até porque, se olharmos o caso em abstrato,o acusado poderá respondertão somente por lesão corporal seguida de morte (fl. 13).
+Menciona, ainda, a questão da pandemia causada pela Covid-19 como argumento para a concessão da liberdade do paciente.
+Requer, ao final, seja deferida a ordem para cassar a decisão que decretou a prisão preventiva do paciente com a expedição do referido alvará de soltura. Ainda em tempo, em caso de entendimento diverso seja pela manutenção da prisão, que seja essa em domiciliar e ou seja prisão diversa a segregação, as quais estão elencadas no 319 do CPP(fl. 19).
+Liminar indeferida (fls. 71/73).
+Informações às fls. 77/118 e 130/167.
+O Ministério Público Federal ofereceu parecerpelo não conhecimento do habeas corpus (fls. 122/125).
+É o relatório.
+As informações prestadas pelo Juízo da1ª Vara de comarca de Três Passos/MG dão conta de que, em 11/8/2021, o paciente foi submetido a julgamento pelo Tribunal do Júri e foicondenado à pena de 14 anos de reclusão. Na oportunidade foi negado o direito de apelar em liberdadenos seguintes termos (fl. 158):
+ ..
+O réu não poderá apelar em liberdade, pois respondeu ao processo preso e se mantêm presentes os requisitos para a segregação cautelar expostos nos autos em relação à garantia da ordem pública, motivos aos quais me reporto para evitar tautologia, especialmente diante da condenação do réu em plenário.
+ ..
+Assim, não tendo o novo título judicial apresentado novos fundamentos paramanutenção da prisão, passo a análise do acórdão ora impugnado.
+Com efeito, o Tribunal a quo deu provimento ao recurso ministerial,asseverando que (fls. 29/31):
+ ..  a medida extrema se mostra necessária, especialmente para a garantia da ordem pública, já que, na hipótese dos autos, a conduta descrita na denúncia extrapola os elementos do tipo penal. Com efeito, por motivo aparentemente fútil, o acusado atingiu a vítima com chutes, socos e coronhadas na cabeça, mesmo com ela caída no chão. Alguns dos golpes, inclusive, foram desferidos quando a vítima já se encontrava desacordada.
+Digno de nota, ainda, o fato de que, indignadas com tamanha brutalidade e agressividade, algumas pessoas tentaram intervir, o que levou Leonardo a ameaça-las com o emprego de um revólver.  ..
+Tais circunstâncias, por certo, evidenciam a periculosidade do réu e sua insensibilidade ao sofrimento alheio, que não obstante os apelos de terceiros, agrediu a vítima, mesmo com esta desfalecida.
+A propósito, extraio o seguinte excerto de julgado do Superior Tribunal de Justiça: "se a conduta do agente -seja pela gravidade concreta da ação, seja pelo próprio modo de execução do crime -revelar inequívoca periculosidade, imperiosa a manutenção da prisão para a garantia da ordem pública, sendo despiciendo qualquer outro elemento ou fator externo àquela atividade" (passagem da ementa do HC n. 296.381/SP, Relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 26.8.2014)
+ ..
+Pois bem. Dos excertos transcritos e do que consta dos autosverifica-seque a prisão preventiva foi devidamente fundamentada na gravidade concretado delito e no modus operandi, visto queo acusado atingiu a vítima com chutes, socos e coronhadas na cabeça, mesmo com ela caída no chão - alguns dos golpes, inclusive, foram desferidos quando a vítima já se encontrava desacordada -, aliado ao fato de que o paciente ameaçoucom revólver as pessoas que, indignadas com tamanha brutalidade e agressividade,tentaram intervir, circunstâncias quedemonstram uma maior periculosidade.
+Assim, inexiste constrangimento ilegal na segregação cautelar do paciente, porquanto devidamente fundamentada em dados concretos do delitoe justificada por razões de ordem pública.
+Ademais, demonstrada a necessidade da prisão preventiva, não se revelamsuficientes,por ora, para o caso em análise, as medidas previstas no art.319 do Código de Processo Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA.GRAVIDADE CONCRETA DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES.CONDIÇÕES PESSOAIS IRRELEVANTES. MEDIDAS CAUTELARES DIVERSAS DO CÁRCERE. INSUFICIÊNCIA. PERICULUM LIBERTATIS EVIDENCIADO. AGRAVO DESPROVIDO.
+1. Aprisão preventiva, para ser legítima à luz da sistemática constitucional, exige que o Magistrado, sempre mediante fundamentos concretos extraídos de elementos constantes dos autos (arts. 5.º, LXI, LXV e LXVI, e 93, inciso IX, da Constituição da República), demonstre a existência de prova da materialidade do crime e de indícios suficientes de autoria delitiva (fumus comissi delicti), bem como o preenchimento de ao menos um dos requisitos autorizativos previstos no art. 312 do Código de Processo Penal, no sentido de que o réu, solto, irá perturbar ou colocar em perigo (periculum libertatis) a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal.
+2. In casu, o decreto prisional tem lastro na gravidade concreta da conduta investigada, pois "a vítima e os acusados se envolveram em combate corporal, momento em que os indiciados, em vantagem numérica, desferiram diversos golpes contra a vítima, imobilizando-o ao solo e permanecendo em cima de seu corpo até depois que desmaiado. Posteriormente, e em razão das lesões sofridas, a vítima foi a óbito".
+3. A custódia cautelar do Agravante é idônea pois em consonância com o entendimento do Supremo Tribunal Federal, que ""é no sentido de que não há ilegalidade na custódia devidamente fundamentada na periculosidade do agente "para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)" (HC 604.879/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 07/12/2020, DJe 18/12/2020).
+4. De acordo com jurisprudência desta Corte, " a  presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão" (AgRg no HC 608.528/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/10/2020, DJe 19/10/2020).
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 153.778/RS, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/10/2021, DJe 19/10/2021)
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. SUPERVENIÊNCIA DE SENTENÇAMANTENDO O DECRETO PRISIONAL. WRIT NÃO PREJUDICADO. FUNDAMENTOS. GRAVIDADE CONCRETA DO DELITO E MODUS OPERANDI. FUNDAMENTAÇÃO VÁLIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
