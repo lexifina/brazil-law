@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão que negou provimento a agravo em execução.
+O Juízo de Execução deferiu a remição de pena pela aprovação no Encceja para remir 89 dias. Interposto agravo em execução, foi improvido, ao fundamento de que o parâmetro a ser utilizado seria 50% de 1.600 horas, carga horária exigida pelo art. 4º, da Resolução n. 03/2010 do CNE.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Alega que, diante da aprovação do paciente no Encceja, faz jus à remição de 178 dias de pena, razão pela qual requer a concessão da ordem.
+Em recente julgado, a Terceira Seção do Superior Tribunal de Justiça reafirmou o entendimento de que, para fins de remição pela aprovação no ENCCEJA, devem ser consideradas 1.600 horas para os anos finais do ensino fundamental e 1.200 horas para o ensino médio, o que corresponde a 50% da carga horária legalmente prevista para os referidos níveis de ensino, nos termos da Lei 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e da Recomendação 44/2013 do Conselho Nacional de Justiça (HC 602.425/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 10/03/2021, DJe 06/04/2021).
+Adota-se tal "Critério de cálculo para remição de pena para apenados aprovados nos exames nacionais que certificam a conclusão do ensino fundamental, no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), ou médio, no Exame Nacional do Ensino Médio (ENEM), que realizaram estudo por conta própria, conforme a Recomendação n. 44/2013 do CNJ" (AgRg no HC 542.060/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/05/2021, DJe 14/05/2021).
+No juízo de 1º grau, foi proferida a seguinte decisão (fls. 14/15):
+ ..  Destaca-se, inicialmente, que a remição de pena por meio do estudo, têm demonstrado meio que corrobora e incentiva a ressocialização e retorno ao convívio social do apenado.
+A Remição da Pena pelo estudo é regulamentada pela LEP em seu artigo 126, §1º, que possibilita a remição na proporção de um dia de pena a cada 12 horas de frequência escolar.
+De acordo com a Resolução nº 03/2010 do CNE, tem-se que a carga horária prevista para o curso de ensino fundamental e de 1,600 (mil e seiscentas) horas, nos termos do art. 126, §1º, I, da LEP.
+Eventual juntada de comprovante será desconsiderada, tendo em vista a presente concessão de remição de pena com base no período de estudo ficto.
+Ademais, determina o artigo 1º, inciso IV da Recomendação nº 44 de 26/11/2013 do CNJ, que para fins de remição por estudo, devem ser considerados 50% da carga horária definida legalmente para o ensino fundamental, a saber 800 horas/aula.
+Ainda, considerando a conclusão do Ensino Fundamental, comprovado através do certificado de seq. 07.2, nos termos do § 5º, do art, 126, da LEP, deverá ser acrescido em 1/3 os dias a serem remidos, sendo utilizada como base de cálculo o total de 800 horaso que garante ao executado além dos 66 dias referentes aos, 50% da carga horária, mais 22 dias.
+Ressalta-se que o ano corrente é 2020 e que não consta no relatório executório do apenado de que foi punido com falta disciplinar de natureza grave, o que obstaria a concessão do benefício.
+Destarte, acolho o atestado de seq. 07.2, para declarar remidos 67 (sessenta c sete) dias pelo estudo, correspondente a 800 horas/aula estudadas (equivalentes a 50% do total da carga horária do ensino fundamental), nos termos da Resolução nº 44/2013 do CNJ e do art. 126, § 1º, I, da LEP. Esclareço que diante da existência de uma dízima periódica no cálculo da remição (800/12=66,66), a fim de evitar prejuízo ao apenado e atento ao princípio da razoabilidade e proporcionalidade faz jus ao arredondamento da fração quando esta for superior a 0,5.
+Ainda, considerando a conclusão do Ensino Fundamental, concedo mais 22 (vinte e dois) dias de remição ao sentenciado, nos termos do §5º, do art. 126, da LEP.
+Diante do exposto, declaro remidos o total de 89 (oitenta e nove) dias referente à conclusão do ensino fundamental nos termos do art. 126, §1º, I e §5º, da LEP.
+Como se vê, o reeducando obteve aprovação em 5 áreas de conhecimento doensinofundamental, razão por que tem direito a 133 dias de remição, acrescidos de 1/3, nos termos do art. 126, § 5º, da LEP, resultando 177 dias.
+Ante o exposto, concedo a ordem liminarmente para deferir ao paciente a remição de177 dias de pena pela aprovação em todas as áreas do Exame Nacional para Certificação de Competências de Jovens Adultos ENCCEJA/EnsinoFundamental.
+Comunique-se.
+Publique-se.
+Intimem-se.
