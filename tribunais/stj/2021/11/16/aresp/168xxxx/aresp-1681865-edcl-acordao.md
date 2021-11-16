@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Cuida-se  de  embargos  de  declaração  no  agravo  interno  no  agravo  em  recurso  especial  opostos  por MUNICÍPIO DE RIO DE JANEIRO  ao  acórdão  assim  ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ.AGRAVO INTERNO DO MUNICÍPIO DO RIO DE JANEIRO/RJA QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do Agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o Recurso Especial na origem, notadamente quanto à incidência da Súmula 7/STJ. Em razão disso, consignou-se a incidência da Súmula 182/STJ.
+2. A parte, para ver seu Recurso Especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. Em nova análise do Agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do Apelo Nobre, não tendo demonstrado no caso concreto que oreferidoverbetesumularnão seriaaplicável.
+4. Inadmitido o Recurso Especial com base na Súmula 7/STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual (AgInt no AREsp1.067.725/SP, Rel. Min. OG FERNANDES, DJe 20.10.2017; AgInt no AREsp1.223.898/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 27.3.2018; AgInt no AREsp600.416/MG, Rel. Min. OG FERNANDES, DJe 18.11.2016).
+5. Agravo Interno do MUNICÍPIO DO RIO DE JANEIRO/RJa que se nega provimento  (fls.  153/158).
+2. Sustenta a parte embargante a inaplicabilidade do Enunciado 182 desta Corte, uma vez quehouveimpugnação específica ao teor daSúmula 7/STJ. Afirma, também, que ficou demonstrado "de forma específica que a matéria discutida no recurso especial é eminentemente jurídica:violação aos artigos 7, 8, 25 e 40 da Lei 6.830/1980 e aos artigos 2, 236, 269 e 487, parágrafo único do CPC/2015, bem como a aplicabilidade da Súmula 106 do STJ e dos Temas 566 a 571, fixados no julgamento do REsp 1.340.553/RS" (fls. 165).
+3.  Requer,  por  fim,  o  acolhimento  dos  embargos  de  declaração  com  efeitos  infringentes.
+4.  É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ.  OMISSÃO, ERRO MATERIAL, CONTRADIÇÃO OU OBSCURIDADE.INEXISTÊNCIA.  EMBARGOS  DE  DECLARAÇÃO DE  MUNICÍPIO DE RIO DE JANEIROREJEITADOS.
+1.  O  inconformismo  da  parte  embargante  não  se  amolda  aos  contornos  da  via  dos  embargos  de  declaração,  previsto no art. 1.022 do CPC/2015,  porquanto  o  acórdão  ora  combatido  não  padece  de  vícios  de  omissão,  contradição,  obscuridade  ou  erro  material,  não  se  prestando  o  manejo  de  tal  recurso  para  o  fim  de  rediscutir  os  aspectos  jurídicos  anteriormente  debatidos.
+2. Com efeito,a parte ora recorrente não rebateu, nas razões do seu Agravo em Recurso Especial, o fundamento da decisão agravada referente à aplicação da Súmula 7/STJ.
+3.Nota-se,  portanto,  que  a  parte  embargante  pretende  renovar  a  discussão  acerca  de  questão  que  já  foi  decidida  e  fundamentada,  o  que  não  é  possível  por  meio  dos  embargos  de  declaração.
+4.  Rever  as  matérias  aqui  alegadas  acarretaria  rediscutir  entendimento  já  manifestado  e  devidamente  embasado.  Os  embargos  declaratórios  não  se  prestam  à  inovação,  à  rediscussão  da  matéria  tratada  nos  autos  ou  à  correção  de  eventual  error  in  judicando.
+5.  Embargos  de  declaração  de  MUNICÍPIO DE RIO DE JANEIRO  rejeitados.
+VOTO
+1.  Os  embargos  declaratórios  não  apresentam  vícios  formais,  foram  opostos  dentro  do  prazo  e  cogitam,  objetivamente,  de  matéria  própria  dessa  espécie  recursal  (  arts.  1.022  e  1.023 do CPC/2015).  Nada  há,  enfim,  que  impeça  o  seu  conhecimento.
+2.  O  inconformismo  da  parte  embargante  não  se  amolda  aos  contornos  da  via  dos  embargos  de  declaração, previstono art. 1.022 do CPC/2015,  porquanto  o  acórdão  ora  combatido  não  padece  de  vícios  de  omissão,  contradição,  obscuridade  ou  erro  material,  não  se  prestando  o  manejo  de  tal  recurso  para  o  fim  de  rediscutir  os  aspectos  jurídicos  anteriormente  debatidos.
+3.  Com  efeito,  conforme consta no acórdão embargado, a parte ora recorrente não rebateu, nas razões do seu Agravo em Recurso Especial, o fundamento da decisão agravada referente à aplicação da Súmula 7/STJ.
+4. Nota-se,  portanto,  que  a  parte  embargante  pretende  renovar  a  discussão  acerca  de  questão  que  já  foi  decidida  e  fundamentada,  o  que  não  é  possível  por  meio  dos  embargos  de  declaração.
+5. Este Superior Tribunal de Justiça assimse manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS.IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal". (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados.(EDcl no AgInt no REsp 1.574.004/SE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 8/3/2021, DJe 11/3/2021- sem destaques no original).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015.VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. RESPONSABILIDADE CIVIL DA UNIÃO. OMISSÃO. INEXISTÊNCIA. ANISTIA. PERQUIRIÇÃO DA NULIDADE DA PORTARIA INTERMINISTERIAL 122/2000. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE PREMISSAS FÁTICAS.IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o acórdão embargado foi bastante claro ao consignar que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para verificar se as premissas fáticas adotadas pelo Tribunal a quo não se enquadram nos precedentes judiciais adotados como fundamento do decisum objurgado.Incide, in casu, o óbice da Súmula 7/STJ.
+2. O recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.(EDcl no AgInt nos EDcl no AREsp 1.608.546/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020 - sem destaques no original).
+6.  Rever  as  matérias  aqui  alegadas  acarretaria  rediscutir  entendimento  já  manifestado  e  devidamente  embasado.  Os  embargos  declaratórios  não  se  prestam  à  inovação,  à  rediscussão  da  matéria  tratada  nos  autos  ou  à  correção  de  eventual  error  in  judicando.
+7.  Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+8.  É  como  voto.
