@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Trata-se de agravo interno interposto por IRAJÁ FRANCISCO BARBOSA SILVEIRA contra decisão monocrática, de minha relatoria, assim ementada:
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. ADMINISTRATIVO. SERVIDOR PÚBLICO. TEMPO DE SERVIÇO. APOSENTADORIA. DESAVERBAÇÃO. PRESCRIÇÃO. TERMO INICIAL. DATA DA INATIVAÇÃO. RESP 1254456/PE. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+No presente recurso, sustenta-se que,
+ao dar provimento ao recurso especial da União para considerar, como termo a quo da contagem, a data da aposentadoria do Autor, deixou o Exmo. Relator de considerar que, no caso em tela, só foi possível verificar a não utilização das licenças-prêmio quando da averbação definitiva do tempo especial para aposentação. Considerar que o prazo prescricional teve início com a inativação do Autor desconsidera que a pretensão para desaverbar o período relativo às licenças-prêmios não gozadas só surgiu quando averbado, de forma definitiva, o tempo especial. Isso porque somente então teve ciência o Agravante de que o mencionado período não seria utilizado na contagem para sua aposentadoria. Ademais, não se pode ignorar que referida contagem de tempo especial só se deu em cumprimento de determinação judicial. Ora, se ainda em discussão a forma de contagem do tempo de serviço, como poderia o Autor pretender -e exercerem juízo tal pretensão-desaverbar o período relativo às licenças-prêmio não gozadas  Assim, entende o Autor que a r. decisão merece reconsideração, ou reforma, diante da não fluência do prazo prescricional no feito em tela.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. ADMINISTRATIVO. SERVIDOR PÚBLICO. TEMPO DE SERVIÇO. APOSENTADORIA. DESAVERBAÇÃO. PRESCRIÇÃO. TERMO INICIAL. DATA DA INATIVAÇÃO. RESP 1254456/PE.
+1. Ajurisprudência desta Corte é uníssona no sentido de que a contagem da prescrição quinquenal relativa à conversão em pecúnia de licença-prêmio não gozada e nem utilizada como lapso temporal para a aposentadoria, tem como termo a quo a data em que ocorreu a aposentadoria do servidor público(REsp 1254456/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 25/04/2012, DJe 02/05/2012).
+2. Agravo interno não provido.
+VOTO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O direito vindicado, com efeito, está prescrito.
+O termo inicial da prescrição não é a data da averbação do tempo de serviço, mas da inativação do servidor, conforme decididopor esta Corte Superior em sede de recurso sob o rito dos repetitivos.
+Eis a ementa do julgado:
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. TEMPO DE SERVIÇO PRESTADO SOB A ÉGIDE DA CLT. CONTAGEM PARA TODOS OS EFEITOS.LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. PRESCRIÇÃO. TERMO A QUO. DATA DA APOSENTADORIA. RECURSO SUBMETIDO AO REGIME PREVISTO NO ARTIGO 543-C DO CPC.
+1. A discussão dos autos visa definir o termo a quo da prescrição do direito de pleitear indenização referente a licença-prêmio não gozada por servidor público federal, ex-celetista, alçado à condição de estatutário por força da implantação do Regime Jurídico Único.
+2. Inicialmente, registro que a jurisprudência desta Corte consolidou o entendimento de que o tempo de serviço público federal prestado sob o pálio do extinto regime celetista deve ser computado para todos os efeitos, inclusive para anuênios e licença-prêmio por assiduidade, nos termos dos arts. 67 e 100, da Lei n. 8.112/90.Precedentes: AgRg no Ag 1.276.352/RS, Rel. Min. Laurita Vaz, Quinta Turma, DJe 18/10/10; AgRg no REsp 916.888/SC, Sexta Turma, Rel. Min.Celso Limongi (Desembargador Convocado do TJ/SP), DJe de 3/8/09;REsp 939.474/RS, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJe de 2/2/09; AgRg no REsp 957.097/SP, Quinta Turma, Rel. Min. Laurita Vaz, Quinta Turma, DJe de 29/9/08.
+3. Quanto ao termo inicial, a jurisprudência desta Corte é uníssona no sentido de que a contagem da prescrição quinquenal relativa à conversão em pecúnia de licença-prêmio não gozada e nem utilizada como lapso temporal para a aposentadoria, tem como termo a quo a data em que ocorreu a aposentadoria do servidor público.Precedentes: RMS 32.102/DF, Rel. Min. Castro Meira, Segunda Turma, DJe 8/9/10; AgRg no Ag 1.253.294/RJ, Rel. Min. Hamilton Carvalhido, Primeira Turma, DJe 4/6/10; AgRg no REsp 810.617/SP, Rel. Min. Og Fernandes, Sexta Turma, DJe 1/3/10; MS 12.291/DF, Rel. Min. Haroldo Rodrigues (Desembargador convocado do TJ/CE), Terceira Seção, DJe 13/11/09; AgRg no RMS 27.796/DF, Rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, DJe 2/3/09; AgRg no Ag 734.153/PE, Rel. Min.Arnaldo Esteves Lima, Quinta Turma, DJ 15/5/06.
+4. Considerando que somente com a aposentadoria do servidor tem inicio o prazo prescricional do seu direito de pleitear a indenização referente à licença-prêmio não gozada, não há que falar em ocorrência da prescrição quinquenal no caso em análise, uma vez que entre a aposentadoria, ocorrida em 6/11/02, e a propositura da presente ação em 29/6/07, não houve o decurso do lapso de cinco anos.
+5. Recurso afetado à Seção, por ser representativo de controvérsia, submetido a regime do artigo 543-C do CPC e da Resolução 8/STJ.
+6. Recurso especial não provido.
+(REsp 1254456/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 25/04/2012, DJe 02/05/2012)
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
