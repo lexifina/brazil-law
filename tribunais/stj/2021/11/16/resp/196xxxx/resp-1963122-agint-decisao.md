@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de agravo interno interposto por FRANSELI FATIMA VERONESE contra decisãomonocráticaque conheceu e deu provimento ao recurso especial interposto por PRUDENTIAL DO BRASIL VIDA EM GRUPO S/A, no qual se discute, entre outrasmatérias,se cabe à seguradora ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo.
+A questão de direito foi afetada para julgamento sob o rito dos recursosrepetitivos (Tema 1.112), o que impõe a suspensão do presente recursoperante o Tribunal de origem, até a publicação do acórdão paradigma, nostermos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental24, de 28/09/2016.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, orecurso especial deve ser analisado na forma prevista nos arts. 1.040 e1.041, ambos do CPC/2015.
+Forte nessas razões, TORNO SEM EFEITO a decisão de fls. 914/919,e-STJ, e DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com adevida baixa nesta Corte, para que lá permaneçam suspensos até apublicação do acórdão paradigma, nos termos dos arts. 1.036,§ 1º, e1.037, II, ambos do CPC/2015.
+Publique-se. Intimem-se.
