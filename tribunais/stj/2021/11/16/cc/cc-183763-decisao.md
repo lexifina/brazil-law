@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entrer. JUÍZO DE DIREITO DA 4.ª VARA CÍVEL DE BETIM-MG, suscitante, e o r. JUÍZO DE DIREITO DA 4.ª VARA CÍVEL DO FORO REGIONAL III - JABAQUARA - SÃO PAULO-SP, suscitado.
+Ação:de Cobrança ajuizada por PGL BRASILLTDA., contra FCA FIAT CHRYSLER AUTOMÓVEIS BRASILLTDA.
+Decisão do juízo: declinou da competência ao fundamento de que "Nos termos da Resolução nº 02/1976, alterada pela Resolução nº 148/2001, ambas do Egrégio Tribunal de Justiça, o valor de alçada dos Foros Regionais é de até 500 (quinhentos) salários mínimos", assim sendo, considerando que "O valor da causa no presente feito, de R$ 1.146.095,90, supera referido valor e o tipo de ação não se enquadra nas exceções previstas no mesmo texto normativo." ."Trata-se de critério funcional de competência e, portanto, de natureza absoluta, sendo assim o caso de redistribuição da ação."
+Decisão do juízo suscitante: entendeu ser"(..)plenamente possível que a ação seja ajuizada no foro de domicílio do autor caso tenha ficado estipulado que a obrigação lá deveria ser satisfeita, o que parece ser o caso dos autos", nos termosda alínea "d" do inciso III do art. 53, do CPC.
+Parecer do Ministério Público Federal: opinou pela declaração de competência do r. juízo suscitado. (fls. 319-321)
+É o relatório.
+Decisão.
+1. Inicialmente,destaca-se a competência deste Superior Tribunal de Justiça para o conhecimento e processamento do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2.Assiste razão ao r. juízo suscitante porquanto não cabe ao magistrado onde foi instaurado a ação de cobrançasuscitar de ofíciosua incompetência. Nesse contexto, vale destacar que a competência objeto do presente conflito é territorial, logo, relativa e não cognoscível de ofício,à luz do enunciado da Súmula 33 deste STJ. Na mesma linha, confiram-se:CC n. 151.450/ES, Rel. Min. Maria Isabel Gallotti, DJe 18/5/2017; CC n. 151.103/ES, Rel. Min. Paulo de Tarso Sanseverino, DJe 20/4/2017; CC n. 150.768/ES, Rel. Min. Antonio Carlos Ferreira.
+3. Do exposto, com fundamento no art. 955, parágrafo único, c/c Súmula 568/STJ, conheço do presente conflito e, por conseguinte, declaro a competência do r. JUÍZO DE DIREITO DA 4.ª VARA CÍVEL DO FORO REGIONAL III - JABAQUARA - SÃO PAULO-SP(juízo suscitado).
+Publique-se. Intimem-se. Oficie-se.
