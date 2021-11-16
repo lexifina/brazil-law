@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão (fls. 539-542, e-STJ) que não conheceu do recurso.
+O agravante sustenta, em suma (fls. 545-554, e-STJ):
+Verifica-se que a municipalidade, de modo preciso, demonstrou no bojo do seu recurso especial as razões, de ordem jurídica, que levaram o v. acórdão recorrido do Tribunal de origem a contrariar as normas federais insertas no art. 1.022 do CPC e no art. 166 do CTN,
+(..)
+No que diz respeito ao óbice das súmulas 5 e 7 do STJ, vale registrar que a matéria aqui discutida não enseja o reexame de provas e tampouco a intepretação de contratos.
+(..)
+Ante todo o exposto, requer o Município o conhecimento e provimento do presente agravo interno para que seja conhecido e provido o recurso especial fazendário, a fim de reformar o v. acórdão recorrido e, por conseguinte, julgar totalmente improcedente o pedido formulado pela Autora.
+Sem impugnação, conforme certidão de fl. 558, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISSQN. CONTRATO DE CESSÃO DE DIREITOS DE IMAGEM DE ATLETA PROFISSIONAL. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DO ART. 166 DO CÓDIGO TRIBUTÁRIO NACIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME DE CLÁUSULAS CONTRATUAIS E ANÁLISE DE MATERIAL PROBATÓRIO. INVIABILIDADE. SÚMULAS 5 E 7/STJ.
+1. Não se conhece de Recurso Especial no que se refere à violação ao art. 1.022 do Código de Processo Civil/2015 e ao art. 166 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+2. Hipótese em que o Tribunal de origem consignou: "Trata-se de ação declaratória cumulada com repetição de indébito na qual a autora insurge-se contra a incidência do ISS sobre a cessão de direitos de exploração comercial de uso de imagem de atleta profissional nos anos de 2013 a 2015. Afirma que é empresa que atua no ramo de assessoria esportiva, participação em agremiações esportivas, cessão de uso de imagem de esportista e que a atividade por ela exercida não é passível do imposto, inexistindo amparo legal para a cobrança. Assiste razão à apelante, pois, de fato, pela análise dos argumentos e documentos constantes dos autos, não se vislumbra a prática de atividade passível de incidência de ISS. O contrato juntado às fls. 109/120, firmado com o Sport Club Corinthians Paulista, Alexandre Rodrigues da Silva, São Paulo Futebol Clube e a empresa, ora apelada, tem como objeto: "a subcessão onerosa de licença de direito de uso de imagem de atleta profissional de futebol", para fins de utilização e exploração comercial da imagem do atleta pelo Clube esportivo. (..) A exigibilidade do ISS pressupõe, assim, a prestação de serviços. Todavia, não é a hipótese dos autos, em que a relação contratual não é de fazer, mas sim, de dar, e a obrigação consiste em transferir o direito de uso de imagem de atleta profissional de futebol. (..) Por tais motivos, então, impõe-se o reconhecimento da inexistência de relação jurídica entre as partes, no tocante ao contrato de cessão de direito de uso de imagem. (..) Ademais, não há que se falar em descumprimento do art. 166 do CTN, uma vez que a autora comprovou que o ISS foi retido pela empresa tomadora nas notas fiscais de fls. 131/164 e repassado à Municipalidade de São Paulo, conforme consta do documento de fls. 370/372. Portanto, se o imposto foi retido pela empresa tomadora nos pagamentos das Notas Fiscais, evidentemente foi a empresa autora que arcou com o encargo financeiro do tributo, fazendo jus à repetição dos valores indevidamente recolhidos. O valor a ser restituído será encontrado em sede de liquidação, que deverá refletir o montante comprovadamente recolhido de forma indevida nos cinco anos anteriores ao ajuizamento da ação, aplicando os índices de atualização monetária, nos termos do julgamento do Tema 810 (RE 870947/SE) pelo C. STF. Dessa forma, impõe-se a manutenção da sentença. (..) Ante o exposto, nega-se provimento aos recursos oficial e voluntário da municipalidade, nos termos do voto" (fls. 423-428, e-STJ).
+3. O acolhimento da pretensão recursal demanda análise das cláusulas contratuais, bem como do contexto fático-probatório dos autos, o que é inviável em Recurso Especial, ante a incidência das Súmulas 5 e 7/STJ. Nessa linha: REsp 1.771.646/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11.3.2019.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14.10.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão, pelo que reitero o seu teor.
+Conforme consignei no decisum, o insurgente sustenta que o art. 1.022 do Código de Processo Civil/2015 e o art. 166 do Código Tributário Nacional foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Cito precedentes:
+PROCESSUAL CIVIL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..)
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+(AgInt no REsp 1630011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/03/2017, grifei).
+(..) DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+(REsp 1652761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/04/2017).
+Além disso, o Tribunal local consignou (fls. 423-428, e-STJ):
+Trata-se de ação declaratória cumulada com repetição de indébito na qual a autora insurge-se contra a incidência do ISS sobre a cessão de direitos de exploração comercial de uso de imagem de atleta profissional nos anos de 2013 a 2015. Afirma que é empresa que atua no ramo de assessoria esportiva, participação em agremiações esportivas, cessão de uso de imagem de esportista e que a atividade por ela exercida não é passível do imposto, inexistindo amparo legal para a cobrança.
+Assiste razão à apelante, pois, de fato, pela análise dos argumentos e documentos constantes dos autos, não se vislumbra a prática de atividade passível de incidência de ISS.
+O contrato juntado às fls. 109/120, firmado com o Sport Club Corinthians Paulista, Alexandre Rodrigues da Silva, São Paulo Futebol Clube e a empresa, ora apelada, tem como objeto: "a subcessão onerosa de licença de direito de uso de imagem de atleta profissional de futebol", para fins de utilização e exploração comercial da imagem do atleta pelo Clube esportivo.
+De acordo com o disposto no art. 156, inciso III, da Constituição Federal, compete aos Municípios instituir impostos sobre os serviços de qualquer natureza, não compreendidos na competência tributária estadual, definidos em Lei Complementar da União, qual seja, a LC nº 116/2003, que estabelece, exaustivamente, as hipóteses de incidência do imposto.
+A exigibilidade do ISS pressupõe, assim, a prestação de serviços. Todavia, não é a hipótese dos autos, em que a relação contratual não é de fazer, mas sim, de dar, e a obrigação consiste em transferir o direito de uso de imagem de atleta profissional de futebol.
+(..)
+Consigna-se que a mera inclusão na lista anexa à LC 116/2003, por si só, não possuiria o condão de emprestar caráter de serviços à obrigação, corroborando, neste sentido a vedação contida no art. 110 do CTN, que dispõe: "A lei tributária não pode alterar a definição, o conteúdo e o alcance de institutos, conceitos e formas de direito privado, utilizados, expressa ou implicitamente, pela Constituição Federal, pelas Constituições dos Estados, ou pelas Leis Orgânicas do Distrito Federal ou dos Municípios, para definir ou limitar competências tributárias".
+(..)
+Por tais motivos, então, impõe-se o reconhecimento da inexistência de relação jurídica entre as partes, no tocante ao contrato de cessão de direito de uso de imagem.
+(..)
+Ademais, não há que se falar em descumprimento do art. 166 do CTN, uma vez que a autora comprovou que o ISS foi retido pela empresa tomadora nas notas fiscais de fls. 131/164 e repassado à Municipalidade de São Paulo, conforme consta do documento de fls. 370/372.
+Portanto, se o imposto foi retido pela empresa tomadora nos pagamentos das Notas Fiscais, evidentemente foi a empresa autora que arcou com o encargo financeiro do tributo, fazendo jus à repetição dos valores indevidamente recolhidos.
+O valor a ser restituído será encontrado em sede de liquidação, que deverá refletir o montante comprovadamente recolhido de forma indevida nos cinco anos anteriores ao ajuizamento da ação, aplicando os índices de atualização monetária, nos termos do julgamento do Tema 810 (RE 870947/SE) pelo C. STF.
+Dessa forma, impõe-se a manutenção da sentença.
+Por fim, não há que se falar em aplicação de sanção em desfavor da apelante por litigância de má-fé.
+(..)
+Assim, a conduta da apelante consistiu na mera defesa de um direito que entendeu ter sido lesado, qual seja, o de lançar tributos, ausente dolo ou ofensa ao dever de boa-fé e à lealdade processual.
+Por último, a verba honorária fica majorada em um ponto percentual, de acordo com o disposto no §11, do artigo 85, do CPC, equivalendo a 11% do valor atualizado da causa, devidamente adequado ao valor do indébito a ser apurado.
+Ante o exposto, nega-se provimento aos recursos oficial e voluntário da municipalidade, nos termos do voto.
+Assim, o acolhimento da pretensão recursal demanda reexame das cláusulas do contrato celebrado e do conjunto fático-probatório dos autos, sendo inviável, quanto ao ponto, o exame do pleito do ora insurgente, em virtude do enunciado das Súmulas 5 e 7 do STJ. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISSQN. CESSÃO DE DIREITOS DE IMAGEM E PREMIAÇÕES RECEBIDAS POR ATLETAS PROFISSIONAIS. (..) LISTA DE SERVIÇOS. ENQUADRAMENTO. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO E DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ.
+(..)
+7. No que tange à incidência do ISSQN sobre a cessão de direitos de imagem e premiações recebidas por atleta profissional, o aresto vergastado consignou: "(..) Conforme se denota dos autos, não houve prestação de serviços de "fazer", mas sim de "dar", pois se trata de remuneração pelo uso do direito de imagem, sem qualquer cessão de marcas ou propaganda, muito menos poderiam ser enquadradas as premiações em serviços de atletas e manequins. As premiações recebidas são salários, portanto, não sujeitas ao ISS. (..) No entanto, no caso dos autos, não há similaridade entre os serviços previstos na legislação e aqueles prestados pela empresa apelada, de forma que, sem previsão legal, os autos de infração são nulos".
+8. A Corte local, com base em detalhada apreciação das provas constantes dos autos, mormente o contrato social da recorrente, outros contratos e notas fiscais, concluiu que a atividade prestada não configura serviço, não sendo possível seu enquadramento nos itens 3.02 e 37.01 da lista anexa à Lei Complementar 116/2003.
+9. Modificar tal conclusão, de modo a acolher a tese do recorrente, demanda o reexame do acervo fático-probatório dos autos e a interpretação de cláusulas contratuais, o que é inviável em Recurso Especial. incidência das Súmulas 5/STJ e 7/STJ. Precedentes: AgInt no AREsp 885.794/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 19.6.2018; AgInt no AREsp 496.316/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 29.6.2018; AgInt nos EDcl no REsp 1.323.224/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 7.8.2017.
+10. Recurso Especial não conhecido.
+(REsp 1771646/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/03/2019)
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
