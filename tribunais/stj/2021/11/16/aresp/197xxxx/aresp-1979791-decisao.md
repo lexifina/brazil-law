@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo apresentado por ENXUTO SUPERMERCADOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSO CIVIL E TRIBUTÁRIO - AGRAVO INTERNO - AÇÃO ANULATÓRIA - PERÍCIA: DESNECESSIDADE - DIVERGÊNCIA ENTRE OS VALORES DECLARADOS NO PERD/COMP E DIPJ - PRETENSÃO DE COMPENSAÇÃO: INVIÁVEL - TAREFA ADMINISTRATIVA.
+1. A perícia é o meio de prova reservado para hipóteses nas quais a avaliação depende de conhecimento técnico ou científico (artigo 145, do Código de Processo Civil de 1.973).
+2. A compensação de créditos é tarefa administrativa (artigo 170, do Código Tributário Nacional). Cabe ao Judiciário a análise de legalidade da decisão da autoridade fiscal relativa à compensação.
+3. No caso concreto, os pedidos de compensação não foram homologados porque a Administração não identificou os créditos. Os saldos negativos de IRPJ e CSLL apontados nas declarações de compensação divergem dos indicados nas DIPJs.
+4. Os erros cometidos nas declarações decorreram de interpretação equivocada sobre as exigências da autoridade fiscal.
+5. Cumpria à agravante provar a existência dos créditos.
+6. Recusada a compensação, os débitos de IRPJ e CSLL declarados em PER/DCOMP são imediatamente exigíveis, nos termos da Súmula nº. 436, do Superior Tribunal de Justiça.
+7. Agravo interno improvido.
+Alega violação dos arts. 373, inciso I, e 464, § 1º, inciso I, do Código de Processo Civil, no que concerne à ocorrência de cerceamento ao direito de defesa, trazendo os seguintes argumentos:
+Com exclusivo escopo de situar a discussão e clarificar a argumentação aqui expendida para demonstrar o cabimento do presente Recurso Especial, das ilegalidades e contrariedade a dispositivos de leis Federais, in casu, do Código de Processo Civil e da Constituição Federal e, além disso, como é que tais demonstrações contaminam o conteúdo do v. acórdão recorrido, ferindo direito dos Recorrentes, recomendável então a colocação do tema, historiando-se os fatos.
+Em 28/02/2005 e 31/10/2005, através de procedimento administrativo, realizou pedido de compensação tributos pelo sistema/programa PER/DECOMP versão 1.5 e versão 1.7, para compensação de crédito tributário originários do Saldo Negativo do IRPJ referente ao exercício de 2005 ano calendário 2004, devidamente declarado em DIPJ.
+Em 29/08/2008, recebeu notificação da Secretaria da Receita Federal dando conta da não homologação dos pedidos de compensação, todavia, apresentou as irresignação afirmando que o mencionado ato administrativo de lançamento tributário incorreu em verdadeiro erro de direito, padecendo de vícios e ilegalidades, posto que o crédito tributário objeto das compensações são legítimos embora com divergência de interpretação sobre o real valor do saldo negativo a ser, ou seja, informado nas obrigações acessórias eventual erro ou inexatidão quanto ao procedimento adotado pelo contribuinte não teria o efeito de afastar a conclusão acerca da efetiva existência de crédito a compensar, fato que autoriza a revisão do lançamento realizado com fulcro no art. 149, V, do CTN.
+Que os valores das declarações retificadoras ficaram diferentes pois a recorrente seguiu as orientações da própria recorrida, ou seja, os valores que constaram na declaração, nesse sentido, apontou que basta verificar que nas declarações 01, 02 e 03 os original 01 estavam corretos números são os reais, ou seja, nos processos nºs 10.830.904.721/2008-37, 10.830.905.052/2008-11 e 10.830.905.053/2008-65 por exemplo, a recorrente possuía um saldo negativo no valor de R$27.438,72, sendo retificada e alterando esse valor para R$488.694,58.
+Quer com isso dizer para atender a fiscalização que em evidente erro de direito praticado pela fiscalização foi determinado à autora que promovesse a retificação.
+Da mesma forma ocorreu nos demais processos administrativos ora em combate, visto que a retificação foi apresentada exatamente para alterar a linha Valor do Saldo de R$4.000,00 que constava na declaração original Negativo da Ficha de Crédito Saldo Negativo do IRPJ para R$190.861,26 como consta no termo de intimação (processo 10.830.904.720/2008-92).
+Nesse espeque, se existe divergência e por ser tratar de questão contábil, fiscal e de inserção no sistema PER/DECOMP 1.5 e 1.7, necessário se faz o auxílio de profissional habilitado nos termos do art. 156, do CPC/2015, que diz:
+"Art. 156. O juiz será assistido por perito quando a prova do fato depender de conhecimento técnico ou científico."
+Mesmo diante da norma prescritiva de conduta e alertando ao juízo e ao Tribunal de origem que em caso idêntico envolvendo a recorrente foi deferida a prova pericial e que a prova técnica concluiu pela existência do crédito compensável julgando aquela demanda procedente (processo nº 0014605-32.2009.403.6105), a prova pericial simplesmente foi desprezada, o que trouxe prejuízos irreparáveis à recorrente.
+Veja a ementa da decisão idêntica.
+ ..
+Nesse sentir, aponta que o v. acórdão objurgado violou o artigo 373, I, do CPC, em verdadeiro cerceamento do direito de defesa, pois se é ônus da autora provar o fato constitutivo do seu direito e sendo a prova pericial o modo de fazê-lo, não permitir implica violação de direito e afronta ao dispositivo da lei processual que diz:
+" Art. 373. O ônus da prova incumbe:
+I - ao autor, quanto ao fato constitutivo de seu direito;"
+Sabe-se que cabe ao magistrado determinar de ofício ou a requerimento das partes as provas necessárias à instrução do processo (art. 370, CPC), indeferindo as diligências que considere inúteis ou meramente protelatória à elucidação dos fatos submetido em juízo (art. 370, §único, do CPC), por conta do princípio da persuasão racional (art. 371, CPC) - fls. 609-612.
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A preliminar não tem pertinência.
+A perícia é o meio de prova reservado para hipóteses nas quais a avaliação depende de conhecimento técnico ou científico (artigo 145, do Código de Processo Civil de 1.973).
+No caso, a agravante argumenta com a existência de créditos compensáveis.
+Não há questionamento técnico.
+A solução depende da análise de documentos (fl. 592).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
