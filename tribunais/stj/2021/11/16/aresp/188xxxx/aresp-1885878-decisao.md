@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, em virtude da ausência de demonstração da ofensa aos arts. 50 do CC/2002e 330 e 489 do CPC/2015, assim comopor aplicaçãoda Súmula n. 279 do STF (e-STJ fls. 254/256).
+O acórdão recorrido está assim ementado (e-STJ fl. 224):
+AGRAVO DE INSTRUMENTO RESCISÃO CONTRATUAL - TUTELA PROVISÓRIA DE URGÊNCIA - Decisão agravada indeferiu o pedido de tutela provisória de urgência - Ausentes elementos que demonstrem sobejamente a probabilidade do direito - Não evidenciado o dano irreparável ou de difícil reparação - RECURSO DA AUTORA IMPROVIDO
+Os embargos de declaração não foram acolhidos (e-STJ fls. 232/234).
+Nas razões do recurso especial (e-STJ fls. 237/248), fundamentado no art. 105, III, "a", da CF, arecorrente alegou ofensa aos arts. 300 e 489, IV, do CPC/2015.
+Afirmou que "o conteúdo da decisão foi absolutamente genérico, a simplesmente alegar que inexistiriam in casu osrequisitos legais para a concessão da tutela provisória de urgência, sem se cotejar tais argumentos com o caso concreto" (e-STJ fls. 240/241).
+Sustentou a presença dos requisitos para a concessão da tutela de urgência na ação originária.
+Ao final, requer o provimento do agravo, a fim de que seja cassado o acórdão recorrido.
+Não foram apresentadas contrarrazões (e-STJ fl. 253).
+O recurso não foi admitido na origem, nos termos da decisão de fls. 254/256 (e-STJ).
+No agravo (e-STJ fls. 259/265), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi oferecida contraminuta (e-STJ fl. 267).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+De início, não há falar em contrariedade aoart. 489, VI,doCPC/2015, pois a Corte local pronunciou-se, de forma clara esuficiente, acerca da questão suscitada nos autos. Ao contrário,verifica-se a mera pretensão de reexame do mérito do recurso, o qual foiexaustivamente analisado, circunstância que, de plano, torna imprópria ainvocação doreferidodispositivo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, entendeu por manter adecisão que indeferiu a tutela de urgência, porquanto ausentes os requisitos contidos no art. 300 do CPC/2015, assim consignando(e-STJ fl. 225):
+A concessão da tutela provisória de urgência antecipada sem oitiva da parte contrária constitui medida excepcional, porque provoca o diferimento do contraditório.
+Assim, se para a antecipação da tutela é necessária a presença de elementos que demonstrem a probabilidade do direito (nos termos do artigo 300 do Código de Processo Civil), para a antecipação inaudita altera parte é necessário algo mais, vale dizer, que o direito e os fatos estejam sobejamente demonstrados, ou que o perigo da demora seja tamanho que recomende postergar o exercício do contraditório, ou que a ciência do processo possa resultar na ineficácia de eventual decisão.
+Em cognição sumária, inexistem elementos que demonstrem sobejamente a probabilidade do direito e, nesse sentido, incabível, a princípio, a concessão da tutela provisória de urgência antecipada (para determinar a indisponibilidade de bens e a desconsideração da personalidade jurídica das Requeridas) sem que exista prévio aprofundamento da prova quanto aos fatos alegados na petição inicial o que impõe a efetivação do contraditório para a análise da questão.
+Ademais, ausente a prova inequívoca que possibilite o convencimento da verossimilhança dos fatos alegados e não evidenciado o dano irreparável ou de difícil reparação.
+Dessa forma, não infirmada a correção da decisão agravada, que é mantida.
+Segundo entendimento desta Corte, não é cabível, via recurso especial,reexaminar decisão que defere ou indefere pedido de tutela de urgência, emrazão da natureza precária da decisão, conforme a Súmula n. 735/STF. Nessesentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO NA ORIGEM. DISSOLUÇÃO DE SOCIEDADE. PEDIDO DE ANTECIPAÇÃO DE TUTELA NO SENTIDO DE VEDAR A DELIBERAÇÃO DE EXCLUSÃO EXTRAJUDICIAL DE SÓCIO. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES.JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. LIMINAR DE NATUREZA ANTECIPATÓRIA. LIMITES DA SUA REVERSIBILIDADE POR RECURSO ESPECIAL.INVIABILIDADE. SÚMULA 735 DO STF. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa aos artigos 1022, II e 489, do CPC/2015, haja vista que a ofensa somente ocorre quando o acórdão deixa de pronunciar-se sobre questão jurídica ou fato relevante para o julgamento da causa. Embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Da leitura dos fundamentos do acórdão recorrido, não se vislumbra o alegado julgamento extra petita, uma vez que o julgado não extrapolou os limites do pedido e da causa de pedir.
+3. Esta Corte Superior, em sintonia com o disposto na Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Isso porque, não representa pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, não possui o condão de ensejar ofensa a legislação federal. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.315.401/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/03/2019, DJe 19/03/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SOCIEDADE. DISSOLUÇÃOPARCIAL. DATA. DECISÃO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REEXAME.IMPOSSIBILIDADE. SÚMULAS 7/STJ E 735/STF.
+1. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula735 do STF, entende que, via de regra, não é cabível recurso especial parareexaminar decisão que defere ou indefere liminar ou antecipação detutela, em razão da natureza precária da decisão, sujeita à modificação aqualquer tempo, devendo ser confirmada ou revogada pela sentença demérito. Apenas violação direta ao dispositivo legal que disciplina odeferimento da medida autorizaria o cabimento do recurso especial, no qualnão é possível decidir a respeito da interpretação dos preceitos legais
+que dizem respeito ao mérito da causa.
+3. A verificação do preenchimento ou não dos requisitos necessários para aantecipação de tutela, no caso em apreço, demandaria o reexame do conjuntofático-probatório, inviável em sede de recurso especial, a teor doenunciado nº 7 da Súmula do STJ, respectivamente.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.085.584/SP, Relatora Ministra MARIA ISABEL GALLOTTI,QUARTA TURMA, julgado em 5/12/2017, DJe 14/12/2017.)
+Além disso, a concessão ou a revogação de antecipação de tutelapelainstância ordinária funda-se nos requisitos de verossimilhança e de receiode dano irreparável ou de difícil reparação, aferidos a partir do conjuntofático-probatório constante dos autos, cujo revolvimento é vedado, a teorda Súmula n. 7 do STJ. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.TUTELA DE URGÊNCIA. SÚMULA 735 DO STF. MATÉRIA QUE DEMANDA REEXAME DEFATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Em sede derecurso especial contra acórdão que nega ou concede antecipação de tutela,o exame feito por esta Corte Superior restringe-se à análise dosdispositivos relacionados aos requisitos da tutela de urgência ficandoobstado verificar-se a suposta violação de normas infraconstitucionaisrelacionadas ao mérito da ação principal. Precedentes.
+2. A concessão ou revogação da antecipação da tutela pela instânciarecorrida fundamenta-se nos requisitos da verossimilhança e do receio dedano irreparável ou de difícil reparação aferidos a partir do conjuntofático-probatório constante dos autos, sendo defeso ao Superior Tribunalde Justiça o reexame dos aludidos pressupostos, em face do óbice contidona Súmula 7 do STJ.
+3. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não caberecurso extraordinário contra acórdão que defere medida liminar), entendeque, via de regra, não é cabível recurso especial para reexaminar decisãoque defere ou indefere liminar ou antecipação de tutela, pois "é sabidoque as medidas liminares de natureza cautelar ou antecipatória sãoconferidas à base de cognição sumária e de juízo de mera verossimilhança.Por não representarem pronunciamento definitivo, mas provisório, arespeito do direito afirmado na demanda, são medidas, nesse aspecto,sujeitas à modificação a qualquer tempo, devendo ser confirmadas ourevogadas pela sentença final. Em razão da natureza precária da decisão,em regra, não possuem o condão de ensejar a violação da legislaçãofederal." (AgRg no REsp 1159745/DF, Min. Humberto Martins, Segunda Turma,julgado em 11/05/2010, DJe 21/05/2010).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.292.463/RS, Relator Ministro LUIS FELIPE SALOMÃO,
+QUARTA TURMA, julgado em 23/8/2018, DJe 28/8/2018.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AQUISIÇÃO DE VEÍCULO AUTOMOTOR. VÍCIO REDIBITÓRIO. PAGAMENTO DE IPVA. DECISÃO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REEXAME. IMPOSSIBILIDADE. SÚMULAS 7/STJ E 735/STF.
+1. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.075.621/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/03/2018, DJe 20/03/2018.)
+Ante o exposto, NEGO PROVIMENTO aoagravo em recurso especial.
+Deixo de majorar os honorários nos termos do artigo 85, § 11, do CPC/2015, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se e intimem-se.
