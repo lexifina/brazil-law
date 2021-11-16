@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do respectivo Tribunal de Justiça, segundo o qual "não é possível a retificação do atestado de pena do agravado, mediante reconhecimento de reincidência específica não constante do título condenatório, sob pena de ofensa à coisa julgada" (e-STJ, fl. 314).
+O Parquet aponta violação aos arts. 63 do Código Penal e aos arts. e 66, III, "a", e X, e 111, caput e parágrafo único, ambos da Lei de Execução Penal.
+Alega, em síntese, que "a reincidência e a primariedade constituem status penal do agente, em dado momento do processo penal (de conhecimento ou execução), repercutindo, desse modo, ora na dosimetria das reprimendas, ora condicionando o acesso a benefícios legais franqueados na execução" (e-STJ, fl. 395).
+Requer, portanto, "seja cassada a decisão do Tribunal a quo, e, por conseguinte, seja determinada a retificação do levantamento do atestado de pena do recorrido Nabi da Silva a fim de constar sua condição de reincidente em relação à totalidade de suas penas" (e-STJ, fl. 397).
+Foram apresentadas as contrarrazões (e-STJ, fls. 426-431).
+Admitido o recurso (e-STJ, fls. 442-444), subiram os autos a este Superior Tribunal de Justiça.
+O Ministério Público Federal opinou pelo provimento do recurso especial (e-STJ, fls. 464-468).
+É o relatório.
+Decido.
+A irresignação merece acolhimento.
+Cinge-se a controvérsia em saber se possível a consideração da reincidência, pelo Juízo de execução, para aferir benefícios executórios do apenado, quando a citada agravante não foi mencionadapelo magistrado sentenciante.
+No caso em apreço, o Tribunal local, com fim de evitar excesso de execução ou ofensa à coisa julgada, não reconheceu a reincidência e os seus efeitos legais no âmbito da execução penal, pois a circunstância agravante não foi aplicada em sentença penal condenatória.
+Quanto ao tema, este Relator defendeu posicionamento no sentido de que a reincidência não expressamente reconhecida no édito condenatório não deveria ser admitida pelo juiz da execução, sob pena de violação à coisa julgada e ao princípio da non reformatio in pejus.
+Ocorre, todavia, que, na sessão do dia 27/11/2019, a Terceira Seção deste Tribunal Superior, por ocasião do julgamento dos EREsp 1.738.968/MG, estabeleceu, por maioria de votos, o entendimento segundo o qual o Juízo das Execuções deve promover a retificação do atestado de pena para constar a reincidência, com todos os consectários decorrentes.
+Por oportuno, veja-se a ementa do referido julgado:
+"EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. AUSÊNCIA DE RECONHECIMENTO DA REINCIDÊNCIA PELO JUÍZO SENTENCIANTE. PROCLAMAÇÃO PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. INEXISTÊNCIA DE REFORMATIO IN PEJUS. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS.
+1. A individualização da pena se realiza, essencialmente, em três momentos: na cominação da pena em abstrato ao tipo legal, pelo Legislador; na sentença penal condenatória, pelo Juízo de conhecimento; e na execução penal, pelo Juízo das Execuções.
+2. A intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu.
+3. "Tratando-se de sentença penal condenatória, o juízo da execução deve se ater ao teor do referido decisum, no tocante ao quantum de pena, ao regime inicial, bem como ao fato de ter sido a pena privativa de liberdade substituída ou não por restritivas de direitos. Todavia, as condições pessoais do paciente, da qual é exemplo a reincidência, devem ser observadas pelo juízo da execução para concessão de benefícios (progressão de regime, livramento condicional etc)" (AgRg no REsp 1.642.746/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/08/2017, DJe 14/08/2017).
+4. Embargos de divergência acolhidos para, cassando o acórdão embargado, dar provimento ao agravo regimental, para dar provimento ao recurso especial e, assim, também cassar o acórdão recorrido e a decisão de primeiro grau, devendo o Juízo das Execuções promover a retificação do atestado de pena para constar a reincidência, com todos os consectários daí decorrentes." (EREsp 1.738.968/MG, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe 17/12/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para reformar o acórdão recorrido e determinar ao Juízo da Execução que proceda à retificação do atestado de pena do recorrido a fim de constar sua condição de reincidente para fins executórios.
+Publique-se. Intimem-se.
