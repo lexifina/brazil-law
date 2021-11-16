@@ -1,0 +1,28 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1020334-26.2021.8.11.0000
+Vistos etc.
+Trata-se de Agravo de Instrumento interposto por MILTON ALVES DAMASCENO em virtude da decisão proferida pelo Juiz da 10.a Vara Cível da Comarca de Cuiabá que, nos autos do Incidente de Desconsideração de Personalidade Jurídica com Pedido de Tutela de Urgência n.° 0008908-76.2019.8.11.0041, acolheu parcialmente a desconsideração da personalidade jurídica da empresa executada SB Gráfica e Editora Ltda. nos autos do Cumprimento de Sentença n.° 0009873-16.2003.8.11.0041, possibilitando o direcionamento da demanda ao patrimônio dos sócios: espólio de Domingos Sávio Brandão Lima Junior e Josephina Paes de Barros Lima.
+Além disso, o Juiz singular entendeu que, quanto à pessoa jurídica RÁDIO CIDADE DE CUIABÁ LTDA., por ter-se retirado do corpo societário em 30/01/2019, não há falar em responsabilidade pela obrigação da sociedade, eis que já transcorreu o prazo de 02 (dois) anos previsto no art. 1.032 do CC.
+Exsurge dos autos que, em 2011, o Agravante requereu cumprimento de sentença em face de S.B. Gráfica e Editora LTDA., objetivando a satisfação do crédito oriundo da sentença que condenou a referida empresa ao pagamento de indenização por dano moral, acrescido dos consectários legais e da verba honorária de sucumbência.
+Assegura que o Juiz singular promoveu a tentativa de penhora on line dos ativos financeiros em nome da devedora S.B., bem como adotou outros meios previstos em lei no intento de satisfazer o crédito; todavia, todas as tentativas revelaram a ausência de bens para garantir o pagamento.
+Diante disso, manejou Incidente de Desconsideração de Personalidade Jurídica em face da empresa devedora S.B., a fim de atingir bens dos sócios, ao argumento de que há nítida confusão patrimonial.
+Ressalta que a executada S.B. é constituída por 03 (três) sócios: Domingos Sávio Brandão Lima Junior (falecido), Rádio Cidade de Cuiabá LTDA. e Josephina Paes de Barros Lima, conforme comprova o contrato social juntado no (Id. 27125565 - Pág. 3/4).
+Assevera que, além do encerramento irregular pela executada, há evidente confusão patrimonial entre a sócia Rádio Cidade, ora Agravada, visto que continua exercendo a atividade empresarial no mesmo endereço que a executada R. B. exercia suas atividades, utilizando-se da estrutura e patrimônio comercial, inclusive os bens materiais e imateriais.
+Segue afirmando que o vínculo entre a executada S.B. e a sócia Rádio Cidade caracteriza como grupo econômico, visto que exercem a mesma atividade, possuem os mesmos sócios e, ainda, estão estabelecidas no mesmo local.
+Sustenta que, ao tempo da constituição da dívida (cumprimento de sentença), a Agravada Rádio Cidade ainda compunha a sociedade executada. Sustenta, por fim, que quando da propositura do Incidente de Desconsideração de Personalidade Jurídica, não havia transcorrido o prazo de 02 (dois) da retirada da sócia Rádio Cidade, ora Agravada.
+Diante disso, imperioso o reconhecimento da legitimidade da Agravada Rádio Cidade para figurar no polo passivo no cumprimento de sentença.
+Desse modo, afirma que estão evidenciados os requisitos necessários para o acolhimento do Incidente de Desconsideração de Personalidade Jurídica, de modo que impõe a legitimidade de responsabilização de todos os sócios pela dívida à época de sua constituição e para todas as dívidas constituídas após os dois anos da retirada da Agravada Rádio Cidade.
+Forte nesses argumentos, pugna pela concessão do efeito ativo, a fim de incluir a empresa Rádio Cidade Cuiabá LTDA. no polo passivo do cumprimento de sentença, para prosseguimento da ação em face de todos os sócios, com a realização de todos os atos de busca de ativos em nome de todos os sócios.
+No mérito, pleiteia o provimento do recurso.
+Eis o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se enquadra no artigo 1.015, inciso IV, do CPC, bem como foi instruído com os documentos necessários para sua análise e conhecimento.
+É cediço que o artigo 1.019, inciso I, do CPC dispõe acerca da possibilidade de o Relator deferir em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Da análise dos autos, não entrevejo a confluência dos requisitos para concessão do pedido liminar, isso porque, ao menos em princípio, o sócio retirante, excluído ou falecido, responde por atos praticados ou que tenha origem enquanto ele integrava o quadro societário pelo período de 02 (dois) anos após sua saída, razão pela qual, por ora, não soam verossímeis as alegações do Agravante de que a Agravada deve figurar no polo passivo do cumprimento de sentença.
+Com efeito, da leitura do Contrato Social, notadamente 6.a Alteração contratual da Sociedade da empresa executada S.B., a Agravada Rádio Cidade se retirou em 30/01/2019, ao passo que, a decisão agravada que acolheu parcialmente o Incidente de Desconsideração de Personalidade Jurídica foi proferida em 19/10/2021, razão pela qual, ao menos em tese, não está evidente a probabilidade do direito alegado.
+Por fim, ressalto que não visualizo qualquer razão para deduzir que a espera pelo célere julgamento deste Agravo de Instrumento colocará em risco o resultado útil do processo.
+Dessa forma, ausentes os requisitos necessários para concessão da liminar recursal, indefiro o pedido de efeito ativo.
+Comunique-se ao Juiz da causa.
+Intimem-se os Agravados para, querendo, apresentar contraminuta, no prazo legal.
+Cumpra-se.
+Cuiabá, 16 de novembro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
