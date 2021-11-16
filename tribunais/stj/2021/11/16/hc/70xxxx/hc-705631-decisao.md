@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VARCELI MARTINS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo em Execuçãon. 5177433-61.2021.7000).
+O paciente cumpre a pena de reclusão em regime fechado.
+Na origem, a defesa requereu, nos termos da Recomendação CNJ n. 62/2020 e da Súmula Vinculante n. 56, a prisão domiciliar sob a alegação de risco de contaminação por covid-19. O pedido foi indeferido. Interpostorecurso de agravo em execução, o qual foi desprovido.
+Neste writ, a defesa alega que o paciente, por ser idoso (79 anos), portador de diabetes e hipertensão, pertence ao grupo de risco da covid-19, fazendo jus à medida extrema da prisão domiciliar humanitária a fim de que seja resguardado seu direito à vida e à integridade física.
+Argumenta que a superlotação e a falta de condições de higiene dos estabelecimentos prisionais propiciam a propagação do vírus.
+Sustenta ainda que o Tribunal de origem, ao denegar a ordem, replica injustificadamente o encarceramento de pessoas em regime inadequado de cumprimento de penas, violando a Súmula Vinculante n. 56 do STF e a Recomendação CNJ n. 62/2020.
+Requer a concessão da ordem de habeas corpus para que seja permitida a prisão domiciliar simples ou com monitoramento eletrônico.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, a impetrante não demonstrou a flagrante ilegalidade da decisão atacada, pois o Tribunal a quo consignou o seguinte (fl. 61):
+Nesse contexto é possível verificar que o reeducandonão preenche os requisitos objetivamente elencados, visto que conta com 79 9setenta e nove) anos de idade, cumpre pena junto ao regime fechado e, embora portador de diabetes e hipertensão arterial (Processo de Execução CriminalEletrônico nº0045058-50.2017.8.21.0008), Ev. Seq. 50), não há prova nos autos no sentido de que apresente quadro clínico grave a ponto de tornar imprescindível o recolhimento domiciliar para fins de tratamento, este podendo ser alcançado junto ao local onde recolhido, conforme se depreende do Atestado Médico juntado ao Ev. Seq. 67 do Processo de Execução CriminalEletrônico nº 0045058-50.2017.8.21.0008).
+Assim, como não foram demonstradas as situações descritas, não se verifica desrespeito à Recomendação CNJ n. 62/2020.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
