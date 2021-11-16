@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE FIXAÇÃO DO REGIME PRISIONAL ABERTO. INVIABILIDADE. FUNDAMENTAÇÃO IDÔNEA PARA A FIXAÇÃO DE REGIME MAIS GRAVOSO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. INDEFERIMENTO. MOTIVAÇÃO VÁLIDA. PRECEDENTES. AGRAVO DESPROVIDO.
+1. O Plenário do Supremo Tribunal Federal, ao julgar o HC n. 111.840/ES, afastou a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, devendo-se observar, para a fixação do regime inicial de cumprimento de pena, o disposto no art. 33, c.c. o art. 59, ambos do Código Penal e as Súmulas n. 440/STJ e n. 718 e 719/STF.
+2. Na hipótese, apesar de fixada a pena-base no mínimo legal, tendo em vista a primariedade do Acusado e a ausência de circunstâncias judiciais desfavoráveis, a Corte de origem estabeleceu o regime inicial semiaberto, com base na natureza e na quantidade da droga apreendida, circunstâncias concretas justificadoras da imposição de regime mais gravoso.
+3. "Nos termos da jurisprudência desta Corte Superior, circunstância concreta relacionada à quantidade, natureza e diversidade das drogas apreendidas, é motivação suficiente para impedir a substituição da pena privativa pelas restritivas de direitos" (AgRg no AREsp 1.060.222/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/09/2017, DJe 20/09/2017.)
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por RICARDO GAUDIOZO DOS SANTOS contra decisão, de minha lavra, ementada nos seguintes termos (fl. 29):
+"HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE FIXAÇÃO DO REGIME PRISIONAL ABERTO. INVIABILIDADE. FUNDAMENTAÇÃO IDÔNEA PARA A FIXAÇÃO DE REGIME MAIS GRAVOSO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. INDEFERIMENTO. MOTIVAÇÃO VÁLIDA. PRECEDENTES. ORDEM DE HABEAS CORPUS DENEGADA."
+Nas razões recursais, o Agravante alega que a decisão agravada não está em conformidade com outros julgados da Sexta Turma, no sentido de que "réu primário, com todas as circunstâncias judiciais favoráveis, condenado a pena inferior a 04 anos, cabível aplicação de regime aberto para início do cumprimento de pena" (fl. 38).
+Requer a reconsideração da decisão agravada ou a apreciação do agravo pela Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE FIXAÇÃO DO REGIME PRISIONAL ABERTO. INVIABILIDADE. FUNDAMENTAÇÃO IDÔNEA PARA A FIXAÇÃO DE REGIME MAIS GRAVOSO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. INDEFERIMENTO. MOTIVAÇÃO VÁLIDA. PRECEDENTES. AGRAVO DESPROVIDO.
+1. O Plenário do Supremo Tribunal Federal, ao julgar o HC n. 111.840/ES, afastou a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, devendo-se observar, para a fixação do regime inicial de cumprimento de pena, o disposto no art. 33, c.c. o art. 59, ambos do Código Penal e as Súmulas n. 440/STJ e n. 718 e 719/STF.
+2. Na hipótese, apesar de fixada a pena-base no mínimo legal, tendo em vista a primariedade do Acusado e a ausência de circunstâncias judiciais desfavoráveis, a Corte de origem estabeleceu o regime inicial semiaberto, com base na natureza e na quantidade da droga apreendida, circunstâncias concretas justificadoras da imposição de regime mais gravoso.
+3. "Nos termos da jurisprudência desta Corte Superior, circunstância concreta relacionada à quantidade, natureza e diversidade das drogas apreendidas, é motivação suficiente para impedir a substituição da pena privativa pelas restritivas de direitos" (AgRg no AREsp 1.060.222/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/09/2017, DJe 20/09/2017.)
+4. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O inconformismo não prospera.
+O Plenário do Supremo Tribunal Federal, ao julgar o HC n. 111.840/ES, afastou a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, devendo-se observar, para a fixação do regime inicial de cumprimento de pena, o disposto no art. 33, c.c. o art. 59, ambos do Código Penal e as Súmulas n. 440/STJ e 718 e 719/STF.
+Confiram-se, a propósito, os mencionados verbetes sumulares:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito." (Súmula n. 440 do STJ)
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada." (Súmula n. 718 do STF)
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea." (Súmula n. 719 STF)
+No caso, observa-se que Tribunal de origem estabeleceu o regime prisional semiaberto e indeferiu o pleito de substituição da pena privativa de liberdade por sanções restritivas de direitos com base nas seguintes considerações (fls. 56):
+" ..  Pela situação do redutor, mas considerando a periculosidade observada, pelas consequências danosas que aquela quantidade de cocaína poderia causar, além da ousadia na conduta, viável regime SEMIABERTO para início de cumprimento da pena, surgindo, pelos mesmos motivos, porque insuficientes como reprimenda, inviável substituição da pena corporal por restritivas de direitos."
+Vê-se que, apesar de fixada a pena-base no mínimo legal, tendo em vista a primariedade do Acusado e a ausência de circunstâncias judiciais desfavoráveis, a Corte de origem estabeleceu o regime inicial semiaberto, com base na natureza e na quantidade da droga apreendida (398,16g de cocaína), circunstâncias concretas justificadoras da imposição de regime mais gravoso.
+Exemplificativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. REPRIMENDA INFERIOR A 8 ANOS DE RECLUSÃO. PENA-BASE NO MÍNIMO LEGAL. FIXAÇÃO DO REGIME FECHADO COM ESTEIO EM FUNDAMENTO CONCRETO. QUANTIDADE DE DROGA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para fixação do regime inicial de cumprimento da pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+2. Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, o que ocorreu no caso em apreço.
+3. Na espécie, apesar de a pena-base ter sido estabelecida no mínimo legal, o regime mais severo foi devidamente fundamentado no montante de droga apreendida - 1,435kg (um quilo, quatrocentos e trinta e cinco gramas) de cocaína e 1,860kg (um quilo, oitocentos e sessenta gramas) de haxixe. Precedentes.
+4. Agravo regimental desprovido." (AgRg no HC 622.355/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/02/2021, DJe 18/02/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. MINORANTE NA FRAÇÃO MÁXIMA. INCABÍVEL. REGIME ABERTO INADEQUADO. QUANTIDADE DE DROGA APREENDIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Cabível o regime semiaberto ao réu que, apesar de primário e condenado a reprimenda inferior a 4 anos, foi apreendido com grande quantidade de drogas.
+6. Agravo regimental não provido." (AgRg no HC 659.313/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/10/2021, DJe 11/10/2021.)
+Por fim, com base também na natureza e na quantidade da droga apreendida, a Corte de origem manteve o afastamento da substituição da pena privativa de liberdade por sanções restritivas de direitos, fundamento que, segundo a jurisprudência deste Tribunal Superior, é apto a afastar o mencionado benefício.
+A propósito:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. FRAÇÃO DA MINORANTE E DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. INOVAÇÃO RECURSAL. REGIME INICIAL E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. QUANTIDADE EXORBITANTE DE DROGAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. As teses de alteração da fração da minorante e de detração do tempo de prisão provisória representam inovação em agravo regimental, o que é inadmissível conforme o entendimento desta Corte.
+2. No caso em apreço, a elevada quantidade de entorpecente apreendido - cerca de 488g (quatrocentos e oitenta e oito gramas) de cocaína - revela maior reprovabilidade da conduta e justifica a fixação do regime inicial mais severo do que o previsto para o quantum da pena, bem como o indeferimento da substituição da sanção privativa de liberdade.
+3. Agravo regimental desprovido." (AgRg nos EDcl no AREsp 1.669.148/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/10/2020, DJe 13/10/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. PRETENSÃO DE INICIAR O CUMPRIMENTO DA PENA NO REGIME ABERTO. IMPOSSIBILIDADE. CABÍVEL O REGIME PRISIONAL SEMIABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR SANÇÕES RESTRITIVAS DE DIREITOS. NÃO PREENCHIMENTO DO REQUISITO PREVISTO NO ART. 44, INCISO, III, DO CÓDIGO PENAL. AGRAVO DESPROVIDO.
+1. Embora a pena tenha sido fixada em 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, o regime semiaberto está justificado pela especial gravidade da conduta, já que foi apreendida quantidade substancial de droga - "01 "tijolo" de "maconha", pesando 1,02 Kg" (fl. 34).
+2. A substituição da pena privativa de liberdade por sanções restritivas de direitos também não se mostra viável diante da quantidade de droga apreendida, nos termos do art. 44, inciso III, do Código Penal, e do entendimento desta Corte, no sentido de que a valoração negativa da quantidade da droga permite o recrudescimento do regime e, ainda, a negativa da substituição da reprimenda corporal por penas restritivas de direitos (HC 488.755/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/02/2019, DJe 15/03/2019; HC 307.743/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2015, DJe 22/06/2015).
+3. Agravo regimental desprovido." (AgRg no HC 523.517/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/11/2019, DJe 03/12/2019.)
+Desse modo, na ausência de argumento apto a infirmar as razões consideradas no julgado agravado, deve ser mantida a decisão impugnada por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
