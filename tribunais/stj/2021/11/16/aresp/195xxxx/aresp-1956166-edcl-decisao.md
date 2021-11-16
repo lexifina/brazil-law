@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se novos embargos de declaração opostos porRODRIGO BRITO PEREIRAcontra decisão monocrática na qual se rejeitou os embargos anteriormente opostos.
+Consta dos autos que o MM. Juízo de primeiro grau condenou o ora agravante como incurso nas sanções do art. 342, §1º, do Código Penal, à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, no regime inicial aberto, mais 11 dias-multa. Houve substituição por penas restritivas de direitos (fls. 96-100).
+O eg. Tribunal a quo, em decisão unânime, negou provimento ao recurso de apelação criminal ali interposto pela defesa. Eis a ementa do acórdão (fls. 205-215):
+"APELAÇÃO CRIMINAL. CRIME CONTRA A ADMINISTRAÇÃO DA JUSTIÇA. FALSO TESTEMUNHO (ART. 342, § 1º, DO CÓDIGO PENAL). CONDENAÇÃO. IRRESIGNAÇÃO DA DEFESA. PLEITO RECURSAL VOLTADO À REFORMA DA SENTENÇA. ABSOLVIÇÃO. INVIABILIDADE. NÍTIDO INTUITO EM FALSEAR A VERDADE DURANTE PROCESSO JUDICIAL.
+AUTORIA, MATERIALIDADE E DOLO ESPECÍFICO EVIDENCIADOS. CONDENAÇÃO QUE DEVE SER MANTIDA POR SEUS FUNDAMENTOS.
+"Comete delito de falso testemunho aquele que, ouvido na condição de testemunha em processo-crime em que se apura delito de tráfico ilícito de drogas, afirma nunca ter adquirido entorpecentes do acusado, em versão diametralmente oposta àquelas anteriormente prestadas na Delegacia de Polícia e sob o crivo do contraditório emoutros autos, oportunidades nas quais certificou tê-los comprado do agente" (Apelação Criminal n. 2013.083956-6, de Itaiópolis, rel. Des.Sérgio Rizelo, Segunda Câmara Criminal, j. em 30.09.2014).
+DOSIMETRIA. PEDIDO DE AFASTAMENTO DA CAUSA DE AUMENTO DE PENA PREVISTA NO § 1º DO ART. 342 DO CP.
+IMPOSSIBILIDADE. DECLARAÇÕES FALSAS PRESTADAS PELO APELANTE, NA QUALIDADE DE TESTEMUNHA EM PROCESSO CRIME INSTAURADO PARA APURAR A PRÁTICA DO CRIME DE TRÁFICO DE ENTORPECENTES. MANUTENÇÃO QUE SE IMPÕE.
+PRETENDIDA A SUBSTITUIÇÃO DA PENA RESTRITIVA DE DIREITOS DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE POR PRESTAÇÃO PECUNIÁRIA. INVIABILIDADE.
+DISCRICIONARIEDADE DO JUÍZO DE PRIMEIRO GRAU.RECURSO DESPROVIDO."
+Foi interposto recurso especial, pela Defesa (fls. 223-230), com fulcro nas alíneas a e c, do permissivo constitucional, no qual se alegou violação aos arts.208 e 384, ambos do Código de Processo Penal, bem como divergência jurisprudencial sobre o tema. Para tanto, mencionou que:
+a) "A testemunha informante, na verdade, não é testemunha, mas mero informante, deixando de se apresentar na condição de testemunha, não estando presente no rol taxativo de sujeitos ativos do crime. Aliás, esse é o entendimento que extrai do novo Código de Processo Civil. Por isso mesmo, o próprio CPP, no art.208, desobriga quem tem laços afetivos e familiares com o réu de realizar o compromisso com a verdade" (fl. 226);
+b) "A inclusão de qualificadora que não seja especificada na denúncia imprime nova definição jurídica ao crime, não podendo ser inserida na condenação sem a observância do artigo 384 do Código de Processo Penal." (fl. 228).
+Apresentadas as contrarrazões (fls. 237-245), o apelo nobre foi inadmitido na origem pelos seguintes fundamentos, quais sejam: a) não comprovação do alegado dissídio jurisprudencial; b) aplicação da Súmula n.7/STJ; c) incidência da Súmula n. 83/STJ; e d) aplicação das Súmulas n. 282 e 356, ambas do STF (fls. 248-252).
+Sobreveio agravo em recurso especial, por meio do qual se reiterou os argumentos expendido no apelo nobre (fls. 259-266).
+Em decisão de fls. 292-293, a d. Presidência deste Superior Tribunalde Justiça não conheceu do agravo em recurso especial, por ausência de impugnação aos fundamentos da decisão que inadmitiu o apelo nobre, com fulcro no art. art.21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Pelo despacho de fl. 302, foi determinada a redistribuição dos autos.
+Conforme Termo de Distribuição e Encaminhamento de fl. 307, o feito foi a mim atribuído.
+Foram opostosembargos de declaração (fls. 321-324), nos quais o embargante alegou omissão no decisum recorrido, ao argumento de que "O prazo estabelecido para a interposição de Embargos Declaratórios é de 05 dias nos termos do CPC. Dessa forma, o presente recurso é tempestivo haja vista que o Acórdão foi proferido em 05.05.2020, porém, publicado no Diário de Justiça, Eletrônico, do dia 27.10.2021" (fl. 322).
+Aduziu, outrossim, que "Neste contexto, presente estão os elementos essências para que seja provido os EMBARGOS DE DECLARAÇÂO COM PEDIDO DE EFEITO MODIFICATIVO E SUSPENSIVO" (fl. 322).
+Em decisão de fls. 338-342, rejeitei os embargos de declaração, nos termos da ementa a seguir transcrita:
+"PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ADMINISTRAÇÃO DA JUSTIÇA. FALSO TESTEMUNHO. PRAZO REGULADO PELO CPP. ART. 619 DO CPP. INTEMPESTIVIDADE.EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS."
+Daí a oposição destes novos embargos de declaração (fls. 344-346- petição de n. 01031420/2021) por meio dos quais se alega ocorrência de obscuridade e de constradição no decisum embargado e se requer:
+"a) Seja, os embargos, recebido, conhecido e provido o presente instrumento processual - recurso, para aperfeiçoar a prestação jurisdicional, corrigindo-se a omissão, obscuridade e erro material, contida no Acórdão;
+b) Requer-se, também, sejam os presentes embargos de declaração enfrentados à luz do artigo 93, inciso IX, da Constituição da República Federativa do Brasil, combinado com art. 141; art. 489, § 1º , consoante com art. 1.022, inc. I e III, combinado com Art. 1025, todos do CPC, ao exigir que todas as decisões judiciais sejam fundamentadas, situação que não se revela compatível com a omissão e erro material, trazidas a lume."
+É o relatório.
+Decido.
+Os aclaratórios, petição de n. 01031420/2021,não merecem ser conhecidos.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado.
+Na espécie, a embargante não aponta em que consistiria os vícios (obscuridade e contradição) do decisum embargado, limitando-se, enfatize-se a fazer requerimentos.
+Como é cediço, os embargos de declaração somente são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão sobre ponto sobre o qual deveria ter se pronunciado o julgador. Entretanto, nos embargos de declaração em exame o embargante não apontou qualquer desses vícios, de modo que a insurgência sequer merece ser conhecida, porquanto encontra óbice na Súmula 284/STF.
+Nesse sentido, é o entendimento da Corte Especial:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL.AUSÊNCIA DE INDICAÇÃO DE QUALQUER VÍCIO NO V.ACÓRDÃO. IMPOSSIBILIDADE DE CONHECIMENTO DOS EMBARGOS DE DECLARAÇÃO.
+I - Nos termos do art. 1.022 do Código de Processo Civil, somente são cabíveis embargos declaratórios para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria haver consideração de ofício ou a requerimento ou, ainda, para correção de erro material, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - No presente caso, não são apontados vícios no v. córdãoora embargado, o que obsta o conhecimento desses Embargos de declaração não conhecidos" (EDcl no AgInt nos EDcl nos EDv nos EREsp n. 1.256.614/SP, Corte Especial, Rel. Min. Felix Fischer, DJe de 13/09/2018, grifei).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. NÃO DEMONSTRAÇÃO DE NENHUM DOS VÍCIOS PREVISTOS NO ART. 1.022 DO NOVO CPC.DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONHECIMENTO.
+1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF.
+2. Embargos de declaração não conhecidos" (EDcl no AgInt nos EAREsp n. 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017, grifei).
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSOESPECIAL. CRIME CONTRA A ADMINISTRAÇÃO DA JUSTIÇA. FALSO TESTEMUNHO.AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NO ART.619 DO CÓDIGO DE PROCESSO PENAL. EMBARGOS NÃO CONHECIDOS.
