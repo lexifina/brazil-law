@@ -1,0 +1,56 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por DSR SOLUÇÕES E INTELIGENCIA LOGÍSTICA LTDA, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ fl. 119):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO MONITÓRIA. EMBARGOS. COBRANÇA DE CONTRATO NÃO CUMPRIDO. FORO COMPETENTE É O DO LOCAL EM QUE A OBRIGAÇÃO DEVE SER SATISFEITA, CONSOANTE ARTIGO 53, III, "D", DO CPC. DECISÃO MANTIDA. UNÂNIME. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 163-168).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração ao art. 46, caput, 53, III, d, do CPC. Afirma violados os dispositivos, porquanto o próprio juízo, apesar de reconhecer que a recorrente não tem mais sede na comarca de Viamão/RS, considerou esse o foro competente para julgar o caso. Na hipótese, defende que o foro competente é o do domicílio do réu para julgar a ação monitória. Diz que o encerramento de suas atividades na Comarca de Viamão/RS se deu em 25/06/2019, antes da propositura da ação, e que sua escolha como foro competente não atende o intuito do art. 46 do CPC. Defende que a jurisprudência do STJ é no sentido de que a monitória deve ser julgada no domicílio do pretenso devedor.
+Foram apresentadas contrarrazões (e-STJ fls. 193-205).
+O recurso foi admitido na origem.
+É o relatório.
+Passo a decidir.
+A irresignação recursal merece prosperar.
+Com efeito, o que se extrai do acórdão recorrido é que se cuida, na origem, de ação monitória em que foi suscitada preliminar de incompetência territorial, no sentido de que a ação deveria ter sido proposta no local da sede da empresa, em Curitiba/PR e não em Gravataí/RS, domicílio do demandante.
+A incompetência foi reconhecida, no entanto, o Juízo de origem determinou que os autos fossem distribuídos à Comarca de Viamão/RS, onde estaria instalada filial da recorrente.
+Inconformada, a demandada agravou de instrumento dessa decisão, recurso esse desprovido pela Corte Estadual sob o fundamento de que ao tempo em que proposta a ação (01/08/2019), a demandada ainda possuía filial em Viamão-RS.
+Observe-se o que constou do acórdão que julgou os embargos de declaração (e-STJ fl. 164):
+A ação foi proposta inicialmente no domicílio do demandante - Gravataí-RS, onde também era o domicílio da requerida, porquanto na peça inicial é apontado endereço para citação nesta cidade (EVENTO 01).
+Em ato contínuo, não foi possível a citação da ré, pois não mais se situava naquele endereço (EVENTO 10). Foi então que o demandante informou o endereço da requerida em Curitiba-PR. Citada, a empresa demandada juntou seu contrato social, apontando o endereço de suas filiais, sendo uma delas em Viamão-RS (EVENTO 19). Posteriormente opôs embargos à monitória arguindo a incompetência do juízo, pois sua sede se encontra em Curitiba-PR (EVENTO 24). Foi então que o autor ao responder aos embargos, ressaltou que a ré também tem filial em Viamão-RS, o que levou ao magistrado singular a determinar que o processo fosse processado e julgado na referida cidade.
+A empresa requerida opôs embargos de declaração informando que a tal filial não mais existe, reiterando a necessidade de declarar a competência da capital do Paraná para processamento e julgamento do feito (EVENTO 35). Foi então que o magistrado singular afastou a tese de defesa, desacolhendo os embargos, nos seguintes termos:
+ ..  Destaco que o fechamento da filial instalada em Viamão/RS, após a transação comercial, salvo melhor juízo, não tem o condão de deslocar a competência.
+Interposto agravo de instrumento, no acórdão restou fundamentado:
+Não merece alteração a decisão agravada. A ação pode ser proposta no local em que a obrigação deveria ser satisfeita, consoante alínea "d", inciso 111, do art. 53 do CPC/15. Ademais, tendo o contrato sido celebrado na filial que atuava na cidade de Viamão/RS acertada a decisão, no sentido de que o encerramento da atividade naquele local, após a celebração do contrato em questão, não altera a competência, pois naquele local deve se dar a obrigação.  ..
+Realmente não se pode afirmar que o negócio jurídico foi celebrado em Viamão-RS, até porque ao tempo do contrato, a ré tinha endereço na cidade de Gravataí. Outrossim, o único documento juntado pelo demandante com a inicial, nominado "Extrato de Fechamento Agregado" traz o endereço da ré em Curitiba-PR (EVENTO 01- COMP4).
+No entanto, é certo dizer que ao tempo em que proposta a ação (01/08/2019), a demandada ainda possuía filial em Viamão-RS, pois a alteração do contrato social com o encerramento das atividades nesta cidade, ocorreu no ano de 2020 (EVENTO 35), assim, correta a decisão de primeiro grau em afirmar que o fechamento da filial instalada em Viamão/RS não tem o condão de deslocar a competência.
+Contudo, quanto à regra de competência aplicável em casos como o presente, esta Corte Superior entende que se amolda à hipótese, de maneira sistemática, a norma geral contida no art. 46 do CPC/2015, dispondo acerca da competência do foro de domicílio do réu, e o comando estabelecido no art. 53, III, a, do CPC/2015, que prevê como competente o foro "do lugar onde está a sede, para a ação em que for ré a pessoa jurídica".
+Cumpre ressaltar que a competência do foro no qual está localizada agência ou sucursal da pessoa jurídica somente é constatada quando a obrigação houver sido contraída por tal filial, agência ou sucursal, não sendo suficiente a mera existência de filial na comarca, conforme se depreende na própria redação da alínea "b" do art. 53, III, a, do CPC/2015.
+A propósito:
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. AJUIZAMENTO NA COMARCA SEDE DA EMPRESA AUTORA. EXCEÇÃO DE INCOMPETÊNCIA, DESTINADA A FAZER PREVALECER O FORO DO DOMICÍLIO DA EMPRESA RÉ. RELAÇÃO COMPOSTA POR UMA MULTINACIONAL E UM BANCO PÚBLICO. AUSÊNCIA DE FUNDAMENTOS PARA EXCEPCIONAR A REGRA DO ART. 100, IV, "A", DO CPC.
+1. Refoge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal.
+2. É competente o foro do lugar onde está a sede, para a ação em que for ré a pessoa jurídica, nos termos do art. 100, IV, "a", do CPC.
+3. A pessoa jurídica será demandada no domicílio em que situada a agência ou sucursal somente nas situações em que as obrigações discutidas tenham sido assumidas pela filial. Para determinação da competência prevista no art. 100, IV, "b", não basta a simples existência de agência ou sucursal na comarca em que as partes pretendam litigar.
+4. A autora é empresa multinacional devidamente estruturada em território nacional e sob o enfoque financeiro, jurídico e técnico, é suficientemente capaz de demandar na comarca da sede da ré sem que isso implique prejuízo para a sua defesa.
+5. Recurso especial conhecido em parte e provido.(REsp 1528596/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 10/05/2016, DJe 23/05/2016)
+No mesmo sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. COMPETÊNCIA PARA PROCESSAMENTO E JULGAMENTO DA AÇÃO DE ADIMPLEMENTO CONTRATUAL. FORO DA SEDE DA PARTE RÉ. PRECEDENTES. PRETENSÃO CONTIDA NO APELO ESPECIAL. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A competência para processamento e julgamento da demanda é do foro da sede da pessoa jurídica ré, exceto nas hipóteses em que a transação tenha sido realizada especificamente com filial, agência ou sucursal.
+2. No acórdão estadual, inexistem informações que conduzam ao entendimento de que as obrigações tenham sido contraídas por filial, agência ou sucursal situada na comarca de Curitiba/PR, sendo imperiosa a declaração de competência do juízo da comarca do Rio de Janeiro/RJ para julgar a ação, por ser o local onde se encontra a sede da companhia telefônica.
+3. A conclusão pelo provimento do apelo especial interposto pela parte adversa não demandou o reexame de fatos e provas, razão pela qual não prospera a alegação de violação ao enunciado n. 7 da Súmula desta Corte Superior.
+4. Agravo interno desprovido.(AgInt no REsp 1931956/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/06/2021, DJe 21/06/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ADIMPLEMENTO CONTRATUAL OBJETIVANDO A SUBSCRIÇÃO DE AÇÕES POR CESSÃO DE DIREITO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. CESSIONÁRIO. NÃO INCIDÊNCIA DAS REGRAS DE COMPETÊNCIA DO CDC. FORO DA SEDE DA DEMANDADA. LOCAL ONDE DEVERÁ SER SATISFEITA A OBRIGAÇÃO NA HIPÓTESE DE PROCEDÊNCIA DA DEMANDA. ART. 75, IV, DO CC/2002. SÚMULA 568/STJ.
+1. Ação de adimplemento contratual decorrente de contrato de participação financeira.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3.O domicílio da pessoa jurídica é o local de sua sede, não sendo possível o ajuizamento da ação em locais nos quais a recorrente mantém suas filiais se a obrigação não foi contraída em nenhuma delas. Precedentes.
+4. Agravo interno não provido.(AgInt no REsp 1861470/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/05/2020, DJe 25/05/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXCEÇÃO DE INCOMPETÊNCIA. INADIMPLEMENTO CONTRATUAL. SUBSCRIÇÃO DE AÇÕES. CESSÃO. CONTRATOS DE PARTICIPAÇÃO FINANCEIRA. COMPETÊNCIA. LOCAL DE CUMPRIMENTO DAS OBRIGAÇÕES. DOMICÍLIO DO DEVEDOR.
+1. Recurso especial interposto contra acórdão publicado da vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O domicílio da pessoa jurídica é o local de sua sede, não sendo possível o ajuizamento da ação em locais nos quais a recorrente mantém suas filiais se a obrigação não foi contraída em nenhuma delas.
+3. Incide, na hipótese, a regra geral de competência, visto não haver convenção em sentido diverso e o contrário não decorrer da natureza da obrigação e das circunstâncias do caso.
+4. Agravo interno não provido.(AgInt nos EDcl no REsp 1842401/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/04/2020, DJe 27/04/2020)
+Veja-se que, na hipótese, no trecho do acórdão recorrido, acima transcrito, a Corte Estadual assevera, expressamente, que não se pode afirmar que o negócio jurídico tenha sido celebrado em Viamão-RS, caso em que, na esteira dos precedentes colacionados, os autos devem ser remetidos à Comarca de Curitiba/PR, local onde se encontra a sede da empresa demandada.
+Por contrariar o entendimento do STJ, o acórdão recorrido não merece subsistir no ponto.
+Ante o exposto, dou provimento ao recurso especial para determinar a remessa dos autos à Comarca de Curitiba/PR, órgão cometente para dirimir a demanda.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO MONITÓRIA. EXCEÇÃO DE INCOMPETÊNCIA. AJUIZAMENTO NO DOMICÍLIO DA FILIAL. IMPOSSIBILIDADE. OBRIGAÇÃO LITIGIOSA NÃO ADQUIRIDA PELA FILIAL ONDE FORA AJUIZADA DEMANDA. COMPETÊNCIA DO FORO DO LOCAL DA SEDE DAEMPRESA DEMANDADA.
+RECURSO ESPECIAL PROVIDO.
