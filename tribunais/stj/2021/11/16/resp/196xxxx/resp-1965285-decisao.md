@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se, na origem, de agravo de instrumento interposto por Banco do Brasil S.A. contra decisão que, nos autos do cumprimento individual de sentença coletiva promovido por Antonio Sartori, julgou improcedente a impugnação apresentada pela instituição financeira.
+Analisando a insurgência, o Tribunal de Justiça do Rio Grande do Sul negou-lhe provimento emacórdão assim ementado (e-STJ, fl. 54):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO RURAL. EXPURGOS INFLACIONÁRIOS. ACP Nº0008465.28.1994.4.01.3400. IMPUGNAÇÃO AO CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA.Competência territorial. Coisa julgada.Litisconsórcio passivo Necessário. Inocorrente. Liquidação de sentença. Desnecessária. Termo inicial dos juros de mora. Citação da ré na ACP. Índices. De acordo com a coisa julgada. Excesso de execução. Não demonstrado.PRELIMINARES REJEITADAS.AGRAVO DE INSTRUMENTO CONHECIDO EM PARTE, E NESTA, DESPROVIDO.
+Inconformado, Banco do Brasil S.A. interpõe recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de divergência jurisprudencial, violação aosarts.509, II,e 516 do CPC/2015.
+Defende, preliminarmente, a necessidade de suspensão integral do cumprimento individual de sentença coletiva em razão da concessão de efeito suspensivo nos EREsp n. 1.319.232/DF.
+No mérito, sustenta ser imprescindível a prévia liquidação do título judicial para a execução individual da sentença proferida em ação civil pública, dada sua generalidade,aduzindo parâmetros que entende necessários para a realização do cálculo do eventual débito.
+Contrarrazões apresentadas às fls. 81-83 (e-STJ).
+O Tribunal de origem admitiu o processamento do recurso especial (e-STJ, fls. 323-327).
+Brevemente relatado, decido.
+De início, não há falar em sobrestamento do presente feito, tendo em vista que o Ministro Alexandre de Moraes, no RE n. 1.101.937/SP, revogou a decisão que impôs a suspensão nacional dos processos referentes ao assunto, e o Ministro Jorge Mussi, por sua vez, revogou o efeito suspensivo atribuído ao recurso extraordinário interposto nos EREsp n. 1.319.232/DF.
+Em relação à necessidade de prévia liquidação da sentença coletiva, a irresignação merece prosperar.
+Com efeito, o atual entendimento da Segunda Seção desta Corte, firmado por ocasião do julgamento dos EREsp 1.705.018/DF, em 9/12/2020, é de ser necessária a prévia liquidação da sentença genérica oriunda de ação civil pública que condena a instituição bancária ao pagamento de expurgos inflacionários, a fim de determinar o sujeito ativo da relação de direito material e o valor da prestação mediante a garantia da ampla defesa e do contraditório pleno à parte executada.
+A propósito, confira-se a ementa do referido precedente:
+EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+1. A condenação oriunda da sentença coletiva é certa e precisa - haja vista que a certeza é condição essencial do julgamento e o comando da sentença estabelece claramente os direitos e as obrigações que possibilitam a sua execução -, porém não se reveste da liquidez necessária ao cumprimento espontâneo da decisão, devendo ainda ser apurados em liquidação os destinatários (cui debeatur) e a extensão da reparação (quantum debeatur). Somente nesse momento é que se dará, portanto, a individualização da parcela que tocará ao exequente segundo o comando sentencial proferido na ação coletiva.
+2. O cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado.
+3. Embargos de divergência providos.
+(EREsp n. 1.705.018/DF, Relatora a Ministra Nancy Andrighi, Relator p/ Acórdão o Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/12/2020, DJe 10/2/2021)
+Desse modo, estando o acórdão estadual - o qual concluiu ser desnecessária a prévia liquidação da sentença coletiva que condenou o banco ao pagamento de expurgos inflacionários-em desconformidade com o atual entendimento da Segunda Seção desta Corte, deve ser provido o recurso especial no ponto.
+Ante o exposto, dou provimento ao recurso especialpara determinar a realização de liquidação da sentença coletiva exequenda previamente à sua efetiva execução.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CÉDULA DE CRÉDITO RURAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. PRÉVIA LIQUIDAÇÃO DA SENTENÇA COLETIVA. NECESSIDADE. PRECEDENTE. RECURSO ESPECIAL PROVIDO.
