@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARY JOSÉ VANAZZI, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fls. 343-358):
+"AGRAVO REGIMENTAL. AÇÃO PENAL. PREFEITOMUNICIPAL. CRIME LICITATÓRIO. FATO IMPUTADOQUE NÃO GUARDA RELAÇÃO COM O EXERCÍCIODO MANDATO EM CURSO. MANDATOSINTERMITENTES. COMPETÊNCIA DECLINADA.JUÍZO CRIMINAL DA COMARCA. VALIDADE DOSATOS PRATICADOS NESTE TRIBUNAL DE JUSTIÇA,COM BASE NA JURISPRUDÊNCIA ANTERIORSOBRE O FORO POR PRERROGATIVA DE FUNÇÃO.ENTENDIMENTO FIRMADO PELO SUPREMOTRIBUNAL FEDERAL.
+I - As Cortes Superiores passaram a decidir queno caso de mandatos intermitentes, e sereferindo o fato delituoso imputado ao Prefeitoao mandato já encerrado, a autoridade deveráser julgada pelo Juízo Criminal da Comarca,conforme o RE 1.185.838 AgR, julgado em14.5.2019, publicado 8.8.2019, e o RHC108679/CE, julgado 13.8.2019, DJe 30.8.2019.
+II - A denúncia foi recebida por esta Câmara nostermos da Lei nº8.038/90. A audiência paraoitiva das testemunhas de defesa foi realizadaem 8.8.2018, e o interrogatório do acusado em6.8.2019, A decisão que declinou dacompetência foi proferida em 8.11.2019.
+III - Os atos até então praticados neste Tribunalsão válidos, em consonância com ajurisprudência anterior sobre o foroconstitucional por prerrogativa de função, razão
+pela qual foram mantidos, em observância aodecidido pelo STF no Recurso Extraordinário1.185.838, segundo o qual a restrição dacompetência se aplica imediatamente aosprocessos em curso, com a ressalva de todos osatos praticados e decisões proferidas.
+AGRAVO REGIMENTAL DESPROVIDO".
+Em suas razões recursais, a parte recorrente aponta violação doart. 108, § 1º, do CPP. Aduz para tanto, em síntese, que caberia ao juízo de primeiro grau (e não ao TJ/RS) a prerrogativa de convalidar os atos decisórios já proferidos no processo, em virtude da declaração de incompetência do Tribunal local.
+Com contrarrazões (e-STJ, fls. 387-398), o recurso especial foi admitido na origem (e-STJ, fls. 404-410).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 425-432).
+É o relatório.
+Decido.
+O recurso especial não ultrapassa a barreira do conhecimento, por ter deixado de impugnar os fundamentos centrais do acórdão recorrido. Com efeito, ao manter a validade dos atos anteriores, o TJ/RS se baseou no entendimento do STF firmado na APn 937 e no RE 1.185.838, porqueo Tribunal era anteriormente competente para a prática dos atos(e-STJ, fls. 355-357). A defesa simplesmente ignora essa argumentação, invocando o art. 108, § 1º, do CP como se a Corte estadual fosse, desde sempre, incompetente para o processamento da causa, tema que sequer é desenvolvido no recurso especial.
+Ou seja: o recurso não ataca a premissa de que o TJ/RS tinha, inicialmente, a competência para processamento do feito, mas busca aplicar a consequência jurídica que adviria se essa premissa não fosse verdadeira. Quanto à específica motivação adotada na origem para reconhecer a possibilidade de o próprio TJ/RS manter válidos os atos antes praticados, por outro lado, nada é dito pela defesa. Essa falta de impugnação detida e cotejada à fundamentação do acórdão recorrido atrai a incidência das Súmulas 283 e 284/STF.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ,não conheço do recurso especial.
+Publique-se. Intimem-se.
