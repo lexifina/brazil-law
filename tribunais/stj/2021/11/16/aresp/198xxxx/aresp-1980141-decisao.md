@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado pela AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO. APELAÇÃO. ANS. PLANO DE SAÚDE. SUPOSTA NEGATIVA DE COBERTURA. ART. 12, II, "E", DA LEI 9.656/98. CUMPRIMENTO DO PRAZO PARA EFETIVAÇÃO DO PROCEDIMENTO. RN 259/2011. NULIDADE DO AUTO DE INFRAÇÃO.
+1. Discute-se a validade do auto de infração, lavrado pela agência reguladora, em desfavor da autora, a qual teria deixado de garantir cobertura integral a procedimento, por não disponibilizar instrumentador cirúrgico, incidindo o artigo 12, II, e, da Lei nº 9.656/98.
+2. O artigo 3º, inciso XIII, da Resolução Normativa - RN nº 259/2011, obriga a operadora de saúde a garantir o atendimento em regime de internação eletiva em até vinte e um dias úteis. A resolução é clara ao definir como termo final do prazo a data da efetiva realização do procedimento.
+3. O enquadramento de violação ao art. 12, II, "e", da Lei 9.656/98, não se sustenta no caso concreto. A autorização ocorreu no prazo regulamentar, sem restrições à cobertura de instrumentador cirúrgico.
+4. A operadora não pode ser responsabilizada por preferência/eleição da data por médico ou paciente.
+5. Não houve ocorrência punível, razão pela qual é procedente a demanda, devendo ser provido o recurso para anular o auto de infração lavrado pela ANS.
+Alega violação do art. 12, inciso II, "e", da Lei n. 9.656/1998, no que concerne à não ocorrência de nulidade do auto de infração por não ter sido garantida a cobertura integral de procedimento médico, trazendo o seguinte argumento:
+Conforme já referido, trata-se de apelo interposto pela parte autora contra sentença que julgou improcedente o pedido para pretendendo anular o Auto de Infração nº 35488/2018, lavrado pela agência, em desfavor da autora, a qual teria deixado de garantir cobertura integral a procedimento, por não disponibilizar instrumentador cirúrgico, incidindo o artigo 12, II, e, da Lei nº 9.656/98.
+No caso em concreto, o TRF/4 determinou a anulação do débito objeto do Auto de Infração nº 35488/2018, oriundo do Processo Administrativo 33910025327/2017-37, aberto pela ANS a partir de reclamação da beneficiária, ante a cobrança de instrumentador cirúrgico em procedimento cirúrgico conhecido como - Dedo em Martelo.
+O tratamento cirúrgico pleiteado pela beneficiária consta do Rol de Procedimentos atualmente em vigor, portando possui cobertura obrigatória pelas operadoras de planos de saúde. As taxas que envolvem o procedimento devem ser obrigatoriamente cobertas pelo plano de saúde contratado, nos termos da legislação aplicável.
+Neste sentido, prevê o art. 12 da Lei nº 9.656/98, in verbis:
+ ..
+Segundo a Unimed que houve o atendimento da demanda, sendo que o procedimento foi realizado em 26/12/2017.
+Consta do processo administrativo (ev. 01 Porcadm3):
+ ..
+A realização da cirurgia é fato incontroverso, o que se discute é que a mesma deu-se quase três meses após a solicitação da beneficiária e 44 dias após o encerramento do prazo da Reparação Voluntária e Eficaz.
+Assim, não se verifica ilegalidade ou abusividade a ensejar a nulidade do Auto de Infração e do procedimento administrativo, razão pela qual o julgado regional merece ser reformado (fls. 356-359).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Está em discussão aqui o fato de ter ocorrido ou não negativa de cobertura por parte da Unimed.
+O enquadramento de violação ao art. 12, II, "e", da Lei 9.656/98, não se sustenta no caso concreto. Repassando os fatos, vemos que em 10/10/2017, o médico da segurada remeteu à seguradora a requisição para o procedimento cirúrgico que deveria ter ocorrido no prazo de 21 dias úteis, na forma do art. 3º, XIII, da RN 259/2011. A beneficiária levou a reclamação à ANS em 06/11/2017, quando não havia escoado o prazo. A autorização, como se vê no Evento 1, PROCADM3, Fl.7, se deu em 23/10/2017, está na Autorização de Internação Hospitalar nº 021/70722/17, sem restrições à cobertura de instrumentador cirúrgico. Noto que a Unimed POA, autorizou a cirurgia no local solicitado, Goiânia. Acrescento, ademais, que a operadora não pode ser responsabilizada por preferência/eleição da data por médico ou paciente. A cirurgia foi realizada.
+ ..
+Não houve ocorrência punível, razão pela qual é procedente a demanda, devendo ser provido o recurso para anular o Auto de Infração nº 35488/2018, invertida a condenação sucumbencial imposta em primeiro grau, perdendo objeto a discussão acerca da garantia ou sua substituição, considerando o fato de eventuais recursos não terem efeito suspensivo (fls. 347-348).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
