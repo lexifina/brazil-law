@@ -1,0 +1,43 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1018484-34.2021.8.11.0000
+Vistos etc.
+Cuida-se de Recurso de Agravo de Instrumento interposto por NIVALDO VILELA DE MORAES e NIMAR AMORIM VILELA em virtude de decisão proferida pelo Juiz da 2.a Vara Cível da Comarca de Barra do Garças que, nos autos dos Embargos à Execução n.o 1001998-59.2021.8.11.0004, indeferiu o pedido de justiça gratuita. Lado outro, deferiu o pedido de parcelamento das custas processuais em 06 (seis) vezes.
+Inconformados, os Recorrentes alegam que não dispõem de recursos financeiros para arcar com as custas processuais da ação de origem.
+Informam que a vulnerabilidade econômica pode ser comprovada por meio de pesquisa no sistema PJE, onde constam inúmeras ações de execução ajuizadas em seu desfavor.
+Sustentam que os requisitos necessários para a concessão do efeito suspensivo aos Embargos à Execução estão devidamente demonstrados.
+Assim, com esses argumentos, almejam a concessão do efeito ativo para agregar, desde já, os efeitos suspensivo aos Embargos à Execução, concedendo-lhes a gratuidade de justiça na ação de origem. Por fim, pedem que o banco Agravado colacione aos autos os contratos renegociados que embasaram a Cédula de Crédito Bancário executada, a fim de viabilizar a perícia contábil.
+No mérito, requer o provimento do recurso.
+Dispensada a intimação do Agravado em razão da ausência de angularidade processual.
+É o relatório. Decido.
+O Recurso comporta recebimento como Agravo de Instrumento, pois se enquadra na hipótese do artigo 1.015, inciso V, do Código de Processo Civil, bem como foi instruído com os documentos necessários para sua análise e conhecimento.
+De proêmio, cumpre esclarecer que o Agravo de instrumento é um recurso secundum eventum litis, de modo que sua análise deve se ater ao acerto ou desacerto da decisão recorrida, sob pena de incorrer em supressão de instância.
+É cediço que a supressão de instância ocorre quando a Instância Superior decide questão não examinada pelo Juiz singular.
+Na hipótese, os Recorrentes sustentam que os requisitos para a concessão do efeito suspensivo aos Embargos à Execução estão devidamente demonstrados; todavia, ao examinar a decisão combatida, vejo que o Juiz singular ainda não se pronunciou sobre a concessão do efeito suspensivo aos Embargos à Execução. Aliás, o Juiz a quo apenas apreciou o pedido de justiça gratuita formulado pelos Agravantes.
+Em outras palavras, considerando que este Tribunal é instância revisora, não pode o julgamento de segundo grau comportar objeto mais extenso do que a matéria tratada no primeiro grau, sob pena de supressão de instância e de ofensa ao princípio do duplo grau de jurisdição.
+Nesse prisma, é vedado a este Tribunal analisar o pedido para concessão de efeito suspensivo aos Embargos à Execução, assim como o pedido de juntada de contrato renegociados que deram causa à Cédula de Crédito Bancário objeto da Execução, posto que tal pedido ainda não foi enfrentado pelo Juiz singular, sob pena de incorrer em supressão de instância.
+Desse modo, não conheço do pedido para agregar efeito suspensivo aos Embargos à Execução, haja vista que não foi apreciado pelo Juiz singular.
+Assim, passo à análise do único tema que foi objeto de decisão na instância singela, ou seja, o pedido de gratuidade da justiça.
+Saliento que é possível o julgamento monocrático, à luz do verbete sumular 568 do STJ, máxime porque há entendimento dominante em relação à matéria.
+Sobre o tema, a Constituição Federal, exige a demonstração da insuficiência de recursos àqueles que pleitearem a gratuidade, conforme preceitua o artigo 5.o, inciso LXXIV.
+Vê-se, pois, que o texto constitucional é claro ao prever a necessidade de comprovação da hipossuficiência daqueles que buscam o benefício da justiça gratuita, de modo que a declaração da parte nesse sentido é relativa.
+Nesse sentido, a jurisprudência é pacífica:
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO – PEDIDO DE JUSTIÇA GRATUITA – AUSÊNCIA DE COMPROVAÇÃO MÍNIMA DE POBREZA E MISERABILIDADE – ART. 98 - §3o DO CPC/15 – PRESUNÇÃO RELATIVA - SENTENÇA MANTIDA – RECURSO DESPROVIDO.
+O Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recurso. Inteligência do art. 5o, LXXIV, da Constituição Federal.
+A aplicação da gratuidade da justiça, não deve ocorrer de forma absoluta e irrestrita, merecendo ser alvo de interpretação sistemática e teleológica, para que em situações excepcionais seja relativizado, como forma de impedir o abuso do direito.
+Tal pedido pode ser indeferido, quando houver nos autos elementos que evidenciem a falta de pressupostos legais para a concessão da gratuidade, cabendo ao julgador examinar a razoabilidade da concessão, considerando para tanto os elementos que evidenciam a condição de necessidade do beneficiário. (TJMT. Recurso de Apelação n.o 161601/2016. Rel. Des. Carlos Alberto Alves da Rocha. Quinta Câmara Cível. Julgado em 14/12/2016. DJe 20/12/2016).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. ACÓRDÃO AFIRMA QUE EXISTE DÚVIDA SOBRE A ALEGADA HIPOSSUFICIÊNCIA. ALTERAÇÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULA 7 DO STJ. DECISÃO AGRAVADA MANTIDA. RECURSO NÃO PROVIDO.
+1. Nos termos da jurisprudência do STJ, o magistrado pode indeferir o pedido de assistência judiciária gratuita verificando elementos que infirmem a hipossuficiência da parte requerente, e que demonstrem ter ela condições de arcar com as custas do processo.
+Precedentes.
+2. As instâncias ordinárias, com base no conjunto probatório dos autos, e analisando as peculiaridades do caso concreto, concluíram pela ausência de comprovação da alegada hipossuficiência econômica da parte agravante. A alteração dessa premissa demandaria o reexame de fatos e provas, providência vedada no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (STJ. AgInt no AREsp 1444702/RN, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/06/2019, DJe 28/06/2019).
+Na hipótese, depois de ordenado por esta Relatora o encarte de documentos suficientes que demonstrem a condição de hipossuficiência econômica, os Agravantes apresentaram os documentos de IDs. 106850983 e seguintes.
+Da leitura das Declarações de Imposto de Renda apresentadas, observa-se que o Recorrente Nimar se declara como trabalhador na exploração agropecuária. Dessume-se do aludido documento que o Agravante Nimar dispõe de ativos financeiros suficientes para arcar com as custas processuais, sem prejuízo de seu sustento, conforme informações declaradas (ID. 106850993).
+Já o Agravante Nivaldo acostou a Declaração de Imposto de Renda ao ID. 106850997, na qual declara que é produtor na exploração agropecuária, cujo documento também corrobora a conclusão de que possui plenas condições de custear as despesas processuais. Nota-se dos dados acostados à Declaração de Imposto que dispõe de recursos suficientes para custear as taxas judiciais de distribuição do processo de origem.
+Vale ressaltar que, inobstante a juntada de extratos bancários de apenas uma conta vinculada aos Recorrentes, da análise da Declaração de Imposto de Renda, é possível perceber que os Recorrentes possuem outras contas bancárias, no entanto deixaram de nominá-las.
+Da análise dos documentos acostados pelos Recorrentes, é possível concluir que dispõem de condições para custear as custas processuais no processo de origem, ainda assim, quando se verifica que o Juiz singular possibilitou o parcelamento em 06 (seis) vezes, fato que, ao meu ver, não compromete a subsistência dos Agravantes.
+De mais a mais, verifica-se que as custas judiciais para a ajuizamento dos Embargos à Execução n.o 1001998-59.2021.8.11.0004 somam o valor de R$ 48.829,92 (quarenta e oito mil e oitocentos e vinte e nove reais e noventa e dois centavos), que em parcelas (06 vezes) perfazem o montante de R$ 8.138,32 (oito mil reais e cento e trinta e oito reais e trinta e dois centavos), valor será dividido entre os Agravantes, o que não indica quantia acima de suas posses, frente à documentação colacionada aos autos.
+Diante dessas circunstâncias, conclui-se pela inaptidão dos Agravantes ao benefício da gratuidade da justiça, tendo em vista a ausência de comprovação da insuficiência financeira.
+Feitas essas considerações, nos moldes do Verbete Sumular 568 do STJ, não conheço do pedido de efeito suspensivo aos Embargos à Execução e, na parte conhecida, NEGO provimento ao recurso e mantenho incólume a decisão invectivada.
+Publique-se. Intimem-se. Após o necessário, arquivem-se os autos.
+Cuiabá, 14 de novembro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
