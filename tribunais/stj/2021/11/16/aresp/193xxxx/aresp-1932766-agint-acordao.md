@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 114 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ARTS. 1.029, § 1º, DO CPC/2015 E 255, § 1º, DO RISTJ. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO NÃO PROVIDO.
+1. Arecorrente indicou como violado o art. 1.014 do CPC/2015, enquanto as razões recursais sustentam a possibilidade do ajuizamento do cumprimento individual de sentença, pois o título coletivo executado teria passadoa depender de meros cálculos aritméticos desde o ano de 2018.
+2.Observa-se, portanto, que o dispositivo legal supostamente violado não possui comando normativo apto a dar suporte à tese recursal defendida.
+3. A admissibilidade do apelo extremo reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica, sob pena de incidência do óbice da Súmula 284 do STF. Precedentes.
+4. Por outro lado, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do STJ, uma vez que a parte recorrente apenas transcreveu a ementa dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida no precedente invocado como paradigma e no aresto impugnado.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado contra decisão da Presidência queconheceu do agravo para não conhecer do recurso especial, com base no óbice previsto na Súmula 284/STF e na ausência de comprovação do dissídio jurisprudencial(e-STJ, fls. 386-391).
+A agravante defende a não incidência da Súmula 284/STF, ao argumento de que as razões recursais estão em termos lógicos e claros, evidenciando a questão debatida, devendo-se priorizar a resolução do mérito.
+Argumenta ainda que o acórdão recorrido está em confronto com a jurisprudência pacífica desta Corte.
+Quanto à ausência de cotejo analítico, defende que a exigência é mitigada quando dissídio é notório e inteligível.
+Impugnaçãoàs e-STJ fls. 404-406.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 114 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ARTS. 1.029, § 1º, DO CPC/2015 E 255, § 1º, DO RISTJ. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO NÃO PROVIDO.
+1. Arecorrente indicou como violado o art. 1.014 do CPC/2015, enquanto as razões recursais sustentam a possibilidade do ajuizamento do cumprimento individual de sentença, pois o título coletivo executado teria passadoa depender de meros cálculos aritméticos desde o ano de 2018.
+2.Observa-se, portanto, que o dispositivo legal supostamente violado não possui comando normativo apto a dar suporte à tese recursal defendida.
+3. A admissibilidade do apelo extremo reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica, sob pena de incidência do óbice da Súmula 284 do STF. Precedentes.
+4. Por outro lado, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do STJ, uma vez que a parte recorrente apenas transcreveu a ementa dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida no precedente invocado como paradigma e no aresto impugnado.
+5. Agravo interno a que se nega provimento.
+VOTO
+O agravo não merece prosperar.
+Da análise detida do recurso especial, verifica-se que a recorrente indicou como violado o art. 1.014 do CPC/2015 ("As questões de fato não propostas no juízo inferior poderão ser suscitadas na apelação, se a parte provar que deixou de fazê-lo por motivo de força maior"), enquanto as razões recursais sustentam a possibilidade do ajuizamento do cumprimento individual de sentença, poistítulo coletivo executado teria passado a depender de meros cálculos aritméticos desde o ano de 2018.
+Observa-se, portanto, que odispositivolegalsupostamente violadonão possuicomando normativo apto a dar suporte àtese recursal defendida.
+Ressalta-se que a admissibilidade do apelo extremo reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FIXAÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ANOTAÇÃO IRREGULAR EM CADASTRO DE PROTEÇÃO AO CRÉDITO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. REPARAÇÃO FIXADA EM PATAMAR ADEQUADO, DENTRO DOS PADRÕES DE RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do STJ, "é deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Incidência da Súmula nº 284 do STF" (AgInt no REsp n.1.846.655/PR, Terceira Turma, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020).
+2. A indenização por danos morais foi fixada dentro dos padrões de razoabilidade e proporcionalidade para a situação retratada nos autos - R$ 3.000,00 (três mil reais). Destarte, não se configurando a estipulação de quantia irrisória, é inviável o conhecimento do recurso especial em virtude da incidência da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.796.891/RS, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 3/5/2021, DJe de 5/5/2021).
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. AFRONTA À NORMA FEDERAL.MERA INDICAÇÃO DE DISPOSITIVOS LEGAIS. FALTA DE DEMONSTRAÇÃO OBJETIVA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. COMPLEMENTAÇÃO RECURSAL.IMPOSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 458 e 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como da sua relevância para a correta solução da controvérsia. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Padece o especial apelo de deficiência de fundamentação recursal, atraindo uma vez mais a Súmula 284/STF, quando há a mera indicação dos dispositivos tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal.
+3. Não é possível considerar as razões trazidas no agravo em recurso especial nem no agravo interno vertente, para fins de suplantar a deficiência de fundamentação recursal do apelo raro, visto que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 234.747/PR, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/4/2018, DJe de 4/6/2018).
+PROCESSUAL CIVIL. ADMINISTRATIVO. MUNICÍPIO. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. REGULARIZAÇÃO DE PENDÊNCIAS. ATUAL GESTOR.
+DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. NÃO CABIMENTO DE RECURSO ESPECIAL PARA APRECIAR POSSÍVEL VIOLAÇÃO DE INSTRUÇÃO NORMATIVA. ATO NORMATIVO NÃO COMPREENDIDO NA EXPRESSÃO "LEI FEDERAL".
+1. Hipótese em que o Tribunal local consignou: "inexistindo pendências/irregularidades do Município autor junto às rés, sendo estas regularizadas por seu atual gestor, não se afigura razoável a imposição de qualquer óbice à celebração de convênios e/ou contratos de repasse relativos a recursos empenhados no ano de 2012, pelo que não merece reparo o julgado singular na hipótese dos autos" (fl. 340, e-STJ).
+2. No tocante à alegada ofensa ao art. 333, I, do CPC/1973, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada. Incide na espécie, por analogia, o princípio estabelecido na Súmula 284/STF.
+3. O STJ possui jurisprudência no sentido de que, nos casos de inadimplência cometida por administração municipal anterior, o nome do município não deve ser inserido no Cadin ou no Siafi, em situações em que o sucessor toma providências objetivando ressarcir o erário e regularizar a situação.
+4. A análise da pretensão recursal, a fim de verificar se houve ou não a adoção de tomada de providências para regularizar a situação, com a consequente reversão do entendimento do acórdão recorrido, exige, necessariamente, o reexame de matéria fático-probatória, o que é vedado em Recurso Especial, nos termos da Súmula 7/STJ.
+5. O apelo nobre não constitui via adequada para análise de ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal.
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.676.509/DF, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/9/2017, DJe de 10/10/2017).
+Por outro lado, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do STJ, uma vez que a parte recorrente apenas transcreveu a ementa dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida no precedente invocado como paradigma e no aresto impugnado.
+No aspecto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. COISA JULGADA. VIOLAÇÃO. MATÉRIA FÁTICA. REEXAME. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. DEMAIS QUESTÕES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO NÃO REALIZADO. SIMILITUDE FÁTICA. NÃO EVIDENCIADA.
+1. A Corte de origem entendeu que houve efetivo descumprimento da sentença prolatada em ação civil pública, de modo que a revisão das conclusões do acórdão recorrido demandaria necessário revolvimento dos aspectos fáticos da lide, além de reanálise das cláusulas contratuais, o que é vedado nesta via recursal ante o disposto nas Súmulas nºs 5 e 7/STJ.
+2. O simples acolhimento dos aclaratórios na origem, sem que haja expresso pronunciamento, mesmo que implícito, a respeito das normas indicadas nos dispositivos legais indicados como malferidos no recurso especial, não é suficiente para fins de considerar prequestionada a matéria (Súmula nº 211/STJ).
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 610.722/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/6/2016, DJe de 2/8/2016).
+Além disso, não foi apontado o dispositivo legal que teria sido objeto de interpretação divergente, o que atrai novamente a incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. MANDADO DE SEGURANÇA. PRAZO DECADENCIAL. TERMO A QUO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. DISPOSITIVO VIOLADO. AUSÊNCIA.
+1. A ausência de particularização de dispositivo de lei federal violado enseja a aplicação da Súmula 284 do STF.
+2. A jurisprudência do STJ entende que o termo inicial do prazo de decadência para impetração de mandado de segurança contra ato disciplinar é a data da publicação do respectivo ato no Diário Oficial.
+3. A apreciação do inconformismo relativo no tocante às datas apontadas no recurso especial, da forma como posto nas razões do apelo nobre, demandaria incursão no substrato fático-probatório dos autos, providência inviável ante o óbice da Súmula 7 do STJ.
+4. Esta Corte tem entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais, incidindo na espécie a Súmula 284 do STF.
+5. Hipótese em que a parte recorrente deixou de indicar o dispositivo violado e de realizar o cotejo analítico, não atendendo aos pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos dos arts. 541, parágrafo único, do Código de Processo Civil e 255, §§ 1º e 2º, do RISTJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.494.969/SP, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 10/2/2020, DJe de 14/2/2020).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. PENSÃO TEMPORÁRIA. FILHA SOLTEIRA. RECURSO ESPECIAL INTERPOSTO APENAS PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMOSTRADO.
+1. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fático-jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar o entendimento legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+2. Na hipótese em exame, a recorrente não procedeu ao indispensável cotejo analítico no intuito de provar que os arestos confrontados partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+3. Ressalta-se ainda que o Recurso Especial interposto pela alínea "c" do permissivo constitucional deve indicar o dispositivo de lei federal a que foi dada interpretação divergente pelos acórdãos recorrido e paradigma, sob pena de deficiência em sua fundamentação.Incide na espécie também a Súmula 284 do STF
+4. Recurso Especial não conhecido.
+(REsp n. 1.829.412/RJ, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 1º/10/2019, DJe de 11/10/2019).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
