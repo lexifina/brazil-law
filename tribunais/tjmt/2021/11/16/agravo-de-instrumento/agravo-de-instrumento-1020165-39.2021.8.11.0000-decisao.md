@@ -1,0 +1,14 @@
+Visto.
+Trata-se de Agravo de Instrumento, com pedido de liminar, interposto por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO contra decisão interlocutória que, nos autos da ação de obrigação de fazer no 1034917-87.2021.8.11.0041, proposta por LYVIA LEITE DE OLIVEIRA em trâmite perante a 7a Vara Cível da Comarca de Cuiabá-MT, deferiu a tutela antecipada de urgência e determinou que a parte demandada, no prazo de 24h (vinte e quatro horas), irrestritamente autorize e custeie os tratamentos médicos e procedimentos indicados pela equipe médica que atende a Autora no combate ao Transtorno Depressivo Grave (CID-10 F32.2), especialmente (ELETROCONVULSOTERAPIA) na forma contratada, sob pena de multa diária por eventual descumprimento desta ordem, que fixou no importe de R$1.000,00 (um mil reais).
+Desta maneira, aduz a necessidade de concessão de liminar para conceder o efeito suspensivo sobre a decisão guerreada, a fim de se obstar os efeitos da decisão monocrática, sob a alegação de possibilidade de lesão ao seu direito.
+Síntese necessária.
+Pelo exposto nos autos entendo ter o agravante logrado êxito em demonstrar os requisitos elencados nos artigos 1.015, inciso I, e artigo 1.017, inciso I, ambos do Novo Código de Processo Civil que, a princípio, estão configurados com toda documentação e exposição contida na peça de interposição, suficientes para o conhecimento do agravo em sua forma instrumental.
+Na hipótese, não se verifica a relevância dos fundamentos recursais da agravante, uma vez que o direito ao bem estar do paciente deve sobrepujar a conveniência da Cooperativa Médica e, por conseguinte, o tratamento em questão. A negativa do fornecimento do tratamento requerido pelo agravado viola não só o art. 196 da Constituição Federal, como também o próprio princípio da dignidade da pessoa humana, previsto no art. 1o, inciso III da Carta Magna.
+Lado outro, consoante os relatórios médico apresentados, é patente a urgência da agravada que é portadora de Transtorno Depressivo Grave (CID-10 F32.2), com várias classes terapêuticas já utilizadas, com ideação suicida com planos e tentativas - necessitando urgentemente do tratamento de ECT - Eltroconvulsoterapia indicado no ID 67266999-origem.
+Assim, inexiste qualquer ilegalidade na decisão agravada, bem como ausente qualquer motivo urgente que possa causar perigo de dano a agravante, não sendo, portanto, caso de conceder o efeito suspensivo, devendo o agravante aguardar o julgamento de mérito deste recurso por parte desta Egrégia Câmara.
+Determino.
+Intimem-se a parte agravada, por intermédio do respectivo patrono, para, querendo e no prazo legal, apresentar contrarrazões (art. 1019, II, do CPC).
+Às providências de estilo, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes necessários.
+Cumpra-se.
+Desembargador SEBASTIÃO DE MORAES FILHO.
+- Relator -
