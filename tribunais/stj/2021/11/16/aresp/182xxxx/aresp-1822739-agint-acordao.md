@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. TRANSGRESSÃO DISCIPLINAR E CRIME. SANÇÃO PENAL E APLICAÇÃO DE SANÇÃO ADMINISTRATIVA. POSSIBILIDADE PELO RESIDUAL ADMINISTRATIVO. REVISÃO DO CONJUNTO PROBATÓRIO DOS FATOS. IMPOSSIBILIDADE. SÚM. N. 7/STJ.
+1.Acondenação de servidor público a uma sanção penal não impede que esse também seja punido pela Administração Pública pelo residual administrativo, que vai além dos elementos que tipificaram a conduta delituosa. Com efeito, as esferas penal, administrativa e cível são independentes, com exceção da sentença penal absolutória, cujo fundamento esteja ou na negativa de autoria ou na inexistência do fato. Precedentes.
+2.A parte agravante alega que a condenação criminal e a sanção administrativa implicam em bis in idem no presente caso, em razão do que dispõe o Decreto 4.346/02, que proíbe o concurso entre crime e transgressão disciplinar. Porém, o Tribunal de origem declarou que a sanção administrativa está amparada em fundamentos distintos dos que ensejou a condenação penal.
+3. Logo, o provimento do recurso especial depende da revisão do quadro fático dos autos, a fim de verificar se o fundamento da sanção administrativa se confunde com os elementos que justificaram a sanção penal. Essa tarefa não é admitida nos termos da Súm. n. 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Jean Carlos Simões contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO MILITAR. TRANSGRESSÃO DISCIPLINAR. CRIME. CONCURSO DE SANÇÕES. DIFERENÇA DE MOTIVOS E FUNDAMENTOS. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+No presente recurso, sustenta-se que a inaplicabilidade da Súm. n. 7/STJ no caso dos autos para se verificar a ocorrência debis in idemcom a aplicação de sanção administrativa, tendo em vista que a ocorrência de sanção penal já determinada.
+Não houve apresentação de impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. TRANSGRESSÃO DISCIPLINAR E CRIME. SANÇÃO PENAL E APLICAÇÃO DE SANÇÃO ADMINISTRATIVA. POSSIBILIDADE PELO RESIDUAL ADMINISTRATIVO. REVISÃO DO CONJUNTO PROBATÓRIO DOS FATOS. IMPOSSIBILIDADE. SÚM. N. 7/STJ.
+1.Acondenação de servidor público a uma sanção penal não impede que esse também seja punido pela Administração Pública pelo residual administrativo, que vai além dos elementos que tipificaram a conduta delituosa. Com efeito, as esferas penal, administrativa e cível são independentes, com exceção da sentença penal absolutória, cujo fundamento esteja ou na negativa de autoria ou na inexistência do fato. Precedentes.
+2.A parte agravante alega que a condenação criminal e a sanção administrativa implicam em bis in idem no presente caso, em razão do que dispõe o Decreto 4.346/02, que proíbe o concurso entre crime e transgressão disciplinar. Porém, o Tribunal de origem declarou que a sanção administrativa está amparada em fundamentos distintos dos que ensejou a condenação penal.
+3. Logo, o provimento do recurso especial depende da revisão do quadro fático dos autos, a fim de verificar se o fundamento da sanção administrativa se confunde com os elementos que justificaram a sanção penal. Essa tarefa não é admitida nos termos da Súm. n. 7/STJ.
+4. Agravo interno não provido.
+VOTO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo não merece lograr êxito.
+A princípio, a condenação de servidor público a uma sanção penal não impede que esse também seja punido pela Administração Pública pelo residual administrativo, que vai além dos elementos que tipificaram a conduta delituosa. Com efeito, as esferas penal, administrativa e cível são independentes, com exceção da sentença penal absolutória, cujo fundamento esteja ou na negativa de autoria ou na inexistência do fato. Nesse sentido, mutatis mutandis:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EX-POLICIAL CIVIL. PROCESSO ADMINISTRATIVO DISCIPLINAR.DEMISSÃO DO SERVIÇO PÚBLICO. TENTATIVA DE HOMICÍDIO. POSTERIOR ABSOLVIÇÃO NA SEARA PENAL POR NEGATIVA DE AUTORIA. SOBERANIA DO VEREDICTO DO JÚRI. ART. 935 DO CÓDIGO CIVIL. RELATIVIZAÇÃO DA INDEPENDÊNCIA ENTRE AS INSTÂNCIAS ADMINISTRATIVA E PENAL.
+ ..
+2. É consolidada a jurisprudência do STJ no sentido de que "as esferas cível, administrativa e penal são independentes, com exceção dos casos de absolvição, no processo criminal, por afirmada inexistência do fato ou negativa de autoria" (AgInt nos EDcl no AREsp 1.464.563/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/12/2020).
+ ..
+6. Recurso especial parcialmente provido, com a determinação de retorno dos autos à origem.
+(REsp 1128572/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/04/2021, DJe 28/04/2021)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAL MILITAR. DEMISSÃO. INDEPENDÊNCIA ENTRE AS ESFERAS ADMINISTRAVA E PENAL. ABSOLVIÇÃO DO SERVIDOR, NO PROCESSO CRIMINAL, POR AUSÊNCIA DE PROVAS. AUSÊNCIA DE REPERCUSSÃO AUTOMÁTICA NA ESFERA ADMINISTRATIVA, NO QUE DIZ RESPEITO À SUA EVENTUAL RESPONSABILIDADE PELAS INFRAÇÕES ADMINISTRATIVAS QUE LHE FORAM IMPUTADAS. AGRAVO INTERNO DO ESTADO DE SÃO PAULO PROVIDO A FIM DE NEGAR PROVIMENTO AO RECURSO ESPECIAL DA PARTE AUTORA DIVERGINDO DO RELATOR.
+(AgInt no REsp 1345380/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/04/2017, DJe 03/05/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. OFICIAL DE JUSTIÇA. MANDADO DE SEGURANÇA CONTRA DECISÃO ADMINISTRATIVA QUE FIXOU A COMPETÊNCIA DO JUÍZO DA COMARCA DE LUIZ GOMES PARA PRESIDIR PROCESSO ADMINISTRATIVO DISCIPLINAR POR ABANDONO DO CARGO. REMOÇÃO QUE NÃO SE PERFECTIBILIZOU. ILEGALIDADE NÃO CONFIGURADA. DIREITO LÍQUIDO E CERTO NÃO DEMONSTRADO.
+ ..
+3. As esferas penal e administrativa são independentes e autônomas e a única vinculação admitida entre elas ocorre na hipótese de o acusado ser inocentado na ação penal em face da negativa da existência do fato ou do não reconhecimento da autoria do crime, o que não é o caso dos autos. Nessa linha: RMS 37.964/CE, Rel.Ministra Eliana Calmon, Segunda Turma, DJe 30.10.2012; RMS 32.641/DF, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministro Benedito Gonçalves, Primeira Turma, DJe 11.11.2011.
+4. O agravante não trouxe qualquer argumento capaz de infirmar os fundamentos da decisão recorrida e demonstrar a ofensa ao direito líquido e certo.
+5. Agravo Regimental não provido.
+(AgRg no RMS 46.349/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/03/2015, DJe 31/03/2015)
+A parte agravante alega que a condenação criminal e a sanção administrativa implicam em bis in idem no presente caso, em razão do que dispõe o Decreto 4.346/02, que proíbe o concurso entre crime e transgressão disciplinar.Porém, o Tribunal de origem declarou que a sanção administrativa está amparada em fundamentos distintos dos que ensejou a condenação penal. Confira-se:
+O Judiciário não pode interferir no mérito dos atos administrativos, sob pena de interferência ao Princípio Constitucional da Separação dos Poderes, cabendo apenas, a análise das irregularidades e nulidades dos atos, sem interferir no teor substancial do mérito administrativo.
+O agente público responde por seus atos nas esferas civil, penal e administrativa. Muito embora se diga que responde pelos mesmos fatos, as motivações das responsabilidades são diversas.
+Aliás, é o que ocorreu no presente caso. Veja que o servidor estadual militar respondeu pelos fatos na esfera criminal, ante as normas penais e de processo penal (crime), bem como, na administrativa, a luz dos termos da Portaria n.º 903/2016 (disciplina), a qual resultou na penas administrativa de expulsão a bem da disciplina.
+Em que pese a tentativa do apelante em tentar desconstituir a punição administrativa com base na dupla punição pelo mesmo fato, os motivos e fundamentos são diversos nas duas esferas, como bem destacou o I. Desembargador Silvio Dias em seu acórdão (mov. 27.1), quando do julgamento do agravo de instrumento n.º 0023911-59.2019.8.16.0000 e do qual também integrei o quórum de votação
+Nele o I. Desembargador ressaltou que: "em que pese a alegação de que a transgressão disciplinar seja também crime e, nesse caso, não seja possível dupla condenação, existem outros fundamentos para a condenação, como por exemplo os itens 23 e 40 do Anexo I do Decreto nº 4346/02, que dizem respeito a deveres e compostura".
+Portanto, o fato do agente ter sido punido na esfera criminal e na administrativa pelo mesmo fato, mas por motivos e fundamentações diversos, não acarreta na impossibilidade de dupla punição (ne bis inidem), motivo pelo qual não lhe assiste razão neste ponto.
+Logo, o provimento do recurso especial depende da revisão do quadro fático dos autos, a fim de verificar se o fundamento da sanção administrativa se confunde com os elementos que justificaram a sanção penal. Essa tarefa não é admitida nos termos da Súm. n. 7/STJ.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
