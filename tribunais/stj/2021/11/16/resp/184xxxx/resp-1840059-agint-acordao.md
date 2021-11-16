@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno do SERVIÇO MUNICIPAL DE SANEAMENTO AMBIENTAL DE SANTO ANDRÉ - SEMASA contra decisão que, com apoio em entendimento jurisprudencial, deu provimento, em parte, a recurso especial interposto por SEBASTIÃO DEJAIR MENDES para determinar o rejulgamento do tema referente à prescrição da pretensão de cobrança da multa administrativa.
+A parte agravante sustenta, em síntese (fls. 232/235):
+Em que pese o entendimento acima esposado, é fato que o E. Tribunal a quo, com muita clareza e propriedade analisou as razões de apelação, posicionando-se favoravelmente ao prazo decenal, nos termos do Código Civil. Com efeito, a matéria sub judice encontra-se sedimentada, razão maior para se manter o v. acórdão proferido pelo E. Tribunal a quo.
+Impugnação apresentada pela parte agravada (fls. 238/241).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. MULTA ADMINISTRATIVA IMPOSTA POR SERVIÇO MUNICIPAL DE SANEAMENTO AMBIENTAL. PRAZO PRESCRICIONAL QUINQUENAL. ORIENTAÇÃO JURISPRUDENCIAL PACÍFICA.
+1. O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "O prazo prescricional em que se pretende a cobrança de tarifa por prestação de serviços de água e esgoto rege-se pelo disposto no Código Civil, revelando-se inaplicável o Decreto n. 20.910/1932" (REsp 1.117.903/RS, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 09/12/2009, DJe 01/02/2010), mas "é de cinco anos o prazo prescricional para a cobrança de multa de natureza administrativa, contado do momento em que se torna exigível o crédito (artigo 1º do Decreto n. 20.910/1932)" (REsp 1.105.442/RJ, repetitivo, Rel. Ministro Hamilton Carvalhido, Primeira Seção, julgado em 09/12/2009, DJe 22/02/2011).
+3. Portanto, não se tratando de débito referente à tarifa nem de multa moratória sobre ele incidente, não se aplica o prazo prescricional do Código Civil, mas aquele de 5 anos estabelecido no Decreto n. 20.910/1910, na hipótese de a cobrança se referir à multa administrativa "por violação de ligação" (fl. 110). Precedentes.
+4. No caso dos autos, o recurso do particular foi provido, em parte, com a determinação de rejulgamento do tema, porque está firmada a premissa de tratar-se de cobrança de multa administrativa, e não de tarifa de água e esgoto, e porque o delineamento fático descrito no acórdão recorrido não permite aferir a ocorrência de prescrição.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a conclusão da decisão agravada deve ser mantida.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 109/114):
+Do exame dos títulos não se afere a presença de todos os requisitos legais elencados no artigo 202 do Código Tributário Nacional e no parágrafo 5º do artigo 2º da Lei 6.830/80, vez que ausente o numero do processo administrativo e do auto de infração. Contudo, registre-se que a falta de um ou alguns requisitos somente implica nulidade do título quando privarem o executado da completa compreensão da dívida cobrada, o que não se verifica no presente caso, tendo em vista a existência de indicação quanto ao devedor, o tributo objeto de cobrança, o valor do principal, o montante de juros e de multa aplicados. Portanto, em que pesem as eventuais omissões há o registro de dados necessários e suficientes para a identificação da dívida, possibilitando a defesa do executado.
+ ..
+É cabível a emenda ou substituição da certidão de dívida ativa na hipótese de constatação de erro formal, até a sentença de embargos, conforme dispõe o artigo 2º, parágrafo 8º, da Lei de Execuções Fiscais:
+ ..
+No tocante a prescrição, tem-se que a natureza jurídica do débito fiscal encontra-se consolidada nos Tribunais Superiores, que se posicionaram no sentido de que o serviço é remunerado por meio de tarifa ou preço público  ..  Assim, deve-se reconhecer a aplicabilidade do Código Civil para a contagem de seu prazo prescricional, cujo prazo é decenal, de modo que não há que se falar na ocorrência de prescrição:
+ ..
+Por fim, quanto a alegação de ilegitimidade, os documentos acostados aos autos são muito frágeis, de modo que como bem asseverado pelo juízo a quo, embora a condição em si seja de ordem pública e assim, passível de arguição por meio de exceção, no caso em tela a analise depende de dilação probatória, incabível no procedimento referido.
+Pois bem.
+Com relação à prescrição da pretensão de cobrança, desde que não seja necessária dilação probatória, é questão passível de ser arguída em exceção de pré-executividade. Mutatis mutandis: REsp 1136144/RJ, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 09/12/2009, DJe 01/02/2010.
+No caso, importa observa o fato de o órgão julgador a quo ter consignado tratar-se de débito referente a multa administrativa, e não de tarifa de água e esgoto. Nesse contexto, forçoso reconhecer que o acórdão, no ponto, não observou a legislação de regência.
+De fato, como pacificado por este Tribunal Superior, "o prazo prescricional da execução fiscal em que se pretende a cobrança de tarifa por prestação de serviços de água e esgoto rege-se pelo disposto no Código Civil, revelando-se inaplicável o Decreto 20.910/32" (REsp 1117903/RS, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 09/12/2009, DJe 01/02/2010), mas "é de cinco anos o prazo prescricional para o ajuizamento da execução fiscal de cobrança de multa de natureza administrativa, contado do momento em que se torna exigível o crédito (artigo 1º do Decreto nº 20.910/32)" (REsp 1105442/RJ, repetitivo, Rel. Ministro Hamilton Carvalhido, Primeira Seção, julgado em 09/12/2009, DJe 22/02/2011).
+Portanto, não se tratando de débito referente à tarifa nem de multa moratória sobre ele incidente, não se aplica o prazo prescricional do Código Civil, mas aquele de 5 anos estabelecido no Decreto n. 20.910/1910, na hipótese de a cobrança se referir à multa administrativa "por violação de ligação" (fl. 110).
+A respeito, mutatis mutandis:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. PRESCRIÇÃO QUINQUENAL. INEXISTÊNCIA. DECRETO 20.910/32. INCIDÊNCIA. MATÉRIA JULGADA PELO RITO DO ART. 543-C DO CPC. SÚMULA 83/STJ.
+1. A Primeira Seção do STJ, ao julgar o REsp 1.117.903/RS, mediante a sistemática prevista no art. 543-C do CPC e na Resolução STJ 8/2008, ratificou o entendimento segundo o qual deve ser aplicado o prazo prescricional vintenário previsto no Código Civil de 1916, em se tratando de execução fiscal atinente à tarifa por prestação de serviços de água e esgoto, o que não é o caso dos autos.
+2. Tratando-se de dívida ativa não tributária de natureza diversa do precedente acima (REsp. 1.117.903/RS), incide o REsp 1.105.442/RJ, igualmente repetitivo, no sentido de que "É de cinco anos o prazo prescricional para o ajuizamento da execução fiscal de cobrança de multa de natureza administrativa, contado do momento em que se torna exigível o crédito." (artigo 1º do Decreto nº 20.910/32).
+3. O Tribunal de origem consignou que não ocorreu a prescrição, haja vista que da data em que se tornou exigível o crédito, em 2004, até o ajuizamento da ação, em 2008, não decorreu o prazo superior a 5 (cinco) anos.
+4. O acórdão recorrido julgou no mesmo sentido da jurisprudência STJ. Incidência da súmula 83 do STJ.
+5. Nego provimento ao Agravo Interno.
+(AgInt no AREsp 908.369/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/09/2016, DJe 29/09/2016)
+No caso dos autos, consoante se observa do acórdão recorrido, o delineamento fático não é suficiente à conclusão de que ocorrera a prescrição da pretensão de cobrança, razão pela qual o recurso deve ser provido, em parte, com o retorno dos autos ao Tribunal de Justiça para que, com base nos documentos acostados na exceção de pré-executividade, analise a tese.
+Portanto, foi provido, em parte, o recurso especial de SEBASTIÃO DEJAIR MENDES para determinar que o órgão julgador a quo rejulgue o tema referente à prescrição da pretensão de cobrança da multa administrativa.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
