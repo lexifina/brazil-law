@@ -1,0 +1,1463 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 31
+
+16/11/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.276.244 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. EDSON FACHIN
+: MUNICIPIO DE JAGUARIUNA
+: PROCURADOR-GERAL
+DO
+MUNICÍPIO
+JAGUARIÚNA
+: CLEBER TEIXEIRA DE SOUZA
+: MINISTÉRIO PÚBLICO DO TRABALHO
+: PROCURADOR-GERAL DA REPÚBLICA
+
+DE
+
+EMENTA:
+AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO DE TÍTULO
+EXTRAJUDICIAL. PRESSUPOSTOS DE ADMISSIBILIDADE DE
+RECURSO DE COMPETÊNCIA DO TST. AUSÊNCIA DE
+REPERCUSSÃO GERAL. TEMA 181. CONTRATAÇÃO DE PESSOAL.
+POR MEIO DE CONVÊNIO. TERCEIRIZAÇÃO. DESCUMPRIMENTO
+DO TERMO DE AJUSTAMENTO DE CONDUTA – TAC. TEMA 660 DA
+RG. REEXAME DE FATOS E PROVAS E DE CLÁUSULAS
+CONTRATUAIS. RAZÕES DO RE QUE NÃO ATACAM OS
+FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 279, 283,
+284 E 454 DO STF. LEI FEDERAL 9.637/98. ALEGADA OFENSA À
+CLAUSULA DE RESERVA DE PLENÁRIO. SÚMULA VINCULANTE 10.
+IMPROCEDÊNCIA. ART. 102, III, ALÍNEAS “C” E “D” DA CF. NÃO
+CABIMENTO DO APELO EXTREMO.
+1. As razões do recurso extraordinário não atacam todos os
+fundamentos do acórdão recorrido. Súmulas 283 e 284 do STF.
+2. Eventual divergência em relação ao entendimento adotado pelo
+juízo a quo, quanto à validade de cláusula de contrato de gestão e do TAC,
+demandaria a análise de legislação infraconstitucional, o revolvimento do
+conjunto fático-probatório dos autos, além do reexame de cláusulas
+contratuais, o que inviabiliza o processamento do apelo extremo, nos
+termos das Súmulas 279 e 454 do STF
+3. Carece de repercussão geral a discussão acerca dos pressupostos
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 02B7-A23C-4B2F-E794 e senha B20A-EFB4-79C4-76FD
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 31
+
+ARE 1276244 AGR / SP
+de admissibilidade de recursos da competência de cortes diversas (Tema
+181, da repercussão geral, cujo paradigma é o RE 598.365-RG).
+4. No julgamento do ARE 748.371-RG, de relatoria do Ministro
+Gilmar Mendes, DJe de 1º.08.2013, Tema 660, o Plenário desta Corte
+assentou que não há repercussão geral quando a alegada ofensa aos
+princípios do devido processo legal, da ampla defesa, do contraditório,
+do direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida
+sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou
+reflexa à Carta da República, como no caso dos autos.
+5. É firme a jurisprudência do STF no sentido de que não se exige
+reserva de plenário para a mera interpretação e aplicação das normas
+jurídicas que emerge do próprio exercício da jurisdição, sendo necessário
+para caracterizar violação à cláusula de reserva de plenário que a decisão
+de órgão fracionário fundamente-se na incompatibilidade entre a norma
+legal e o Texto Constitucional, o que não ocorreu, na hipótese.
+6. O Tribunal de origem não julgou válida lei ou ato de governo local
+contestados em face da Constituição Federal, tampouco julgou válida lei
+local contestada em face de lei federal, mas apenas interpretou as normas
+infraconstitucionais de regência e cláusulas contratuais, o que impede o
+cabimento do apelo extremo fundado nas alíneas “c” e “d” da CF.
+7. Agravo regimental a que se nega provimento. Inaplicável o art. 85,
+§ 11, do CPC, tendo em vista que não que houve condenação em
+honorários na instância de origem.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, em Sessão Virtual de 5 a
+12 de novembro de 2021, sob a Presidência do Senhor Ministro Nunes
+Marques, na conformidade da ata de julgamento e das notas
+taquigráficas, por unanimidade de votos, em negar provimento ao agravo
+regimental e entender inaplicável o art. 85, § 11, do CPC, tendo em vista
+que não houve condenação em honorários na instância de origem, nos
+termos do voto do Relator.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 02B7-A23C-4B2F-E794 e senha B20A-EFB4-79C4-76FD
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 3 de 31
+
+ARE 1276244 AGR / SP
+
+Brasília, 16 de novembro de 2021.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 02B7-A23C-4B2F-E794 e senha B20A-EFB4-79C4-76FD
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 31
+
+16/11/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.276.244 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. EDSON FACHIN
+: MUNICIPIO DE JAGUARIUNA
+: PROCURADOR-GERAL
+DO
+MUNICÍPIO
+JAGUARIÚNA
+: CLEBER TEIXEIRA DE SOUZA
+: MINISTÉRIO PÚBLICO DO TRABALHO
+: PROCURADOR-GERAL DA REPÚBLICA
+
+DE
+
+RELATÓRIO
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Cuida-se de agravo
+regimental (eDOC 82) interposto em 17.05.2021 (eDOC 83) em face de
+decisão monocrática, em que neguei provimento ao recurso, nestes
+termos (eDOC 78):
+“Trata-se de agravo cujo objeto é a decisão que não
+admitiu Recurso Extraordinário interposto em face de acórdão
+do Tribunal Superior do Trabalho, assim ementado (eDOC 39,
+p. 1):
+“AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA. EXECUÇÃO.
+RECURSO DE REVISTA INTERPOSTO NA
+VIGÊNCIA DA LEI Nº 13.015/2014.
+PRELIMINAR DE NULIDADE DO ACÓRDÃO
+REGIONAL
+POR
+NEGATIVA
+DE
+PRESTAÇÃO
+JURISDICIONAL. PRECLUSÃO. SÚMULA N° 184 DO
+TST.
+Para a análise da arguição de nulidade do julgado por
+negativa de prestação jurisdicional, é necessário que a parte
+busque sanar eventual omissão, mediante a interposição dos
+embargos de declaração, sob pena de preclusão, conforme
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 31
+
+ARE 1276244 AGR / SP
+previsto no item II da Súmula nº 297 do TST. Todavia, in casu,
+o agravante não interpôs os competentes embargos de
+declaração, inviabilizando, assim, a análise da nulidade em
+questão por esta Corte. Neste sentido, o teor da Súmula nº 184
+do TST. Agravo de instrumento desprovido.
+PRELIMINAR DE NULIDADE. DA DECISÃO
+REGIONAL POR INOBSERVÂNCIA DA CLÁUSULA DE
+RESERVA DE PLENÁRIO. NÃO OCORRÊNCIA.
+A Corte regional, embora tenha se pronunciado sobre o
+tema, apontou que “não cabe nos presentes autos a análise da
+constitucionalidade da Lei Federal nº 9.637/98 e da Lei
+Municipal nº 1.306/2001, eis que, a pertinência da execução de
+título extrajudicial se verifica pela existência do título executivo
+e de seu inadimplemento”. Assim, não tendo havido declaração
+de inconstitucionalidade da Lei nº 9.637/98, fica impossível falar
+em inobservância da regra de reserva de plenário e, por
+conseguinte, em violação do artigo 97 da Constituição Este
+documento pode ser Federal ou em contrariedade à Súmula
+Vinculante nº 10 do STF. Destaca-se, por fim, que o eventual
+afastamento de incidência de uma determinada norma, em razão
+das circunstâncias fáticas apresentadas nos autos, não implica
+declaração de inconstitucionalidade desta. Agravo de
+instrumento desprovido.
+TÍTULO
+EXECUTIVO
+EXTRAJUDICIAL.
+DESCUMPRIMENTO DE TERMO DE AJUSTAMENTO
+DE CONDUTA. CONTRATAÇÃO DE PESSOAL POR
+MEIO DE CONVÊNIO COM ORGANIZAÇÃO SOCIAL.
+TERCEIRIZAÇÃO. INTERMEDIAÇÃO DE MÃO DE
+OBRA
+A Corte regional consignou, na decisão recorrida, que foi
+“assinado o Termo de Compromisso de ajustamento de conduta
+com o Município de Jaguariúna, que se comprometeu a
+contratar servidores para ocupação de cargos efetivos, cargos de
+confiança e por tempo determinado para atender a necessidade
+temporária de excepcional interesse público, com base nos
+incisos II, V e IX do artigo 37 da CF, respectivamente”. Consta,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 31
+
+ARE 1276244 AGR / SP
+ainda, que, após a realização de ajuste entre as partes, ante a
+constatação de descumprimento do TAC, em que o Município se
+comprometeu no pagamento de multa simbólica no importe de
+R$ 10.000,00 (dez mil reais), a “ASAMAS encaminhou ao
+MPT relação dos empregados por ela contratados, constando
+416 empregados”. Assim, concluiu a Corte regional que “houve
+violação ao Termo de Ajustamento de conduta, ainda que não
+tenha sido expressamente prevista a proibição quanto à
+‘contratação de organização social para prestação de serviço
+público’. Ora, a estipulação da obrigação de contratar servidores
+para ocupação de cargos efetivos, cargos de confiança e por
+tempo determinado já abrange implicitamente tal situação”.
+Ademais, constou, na decisão recorrida que a utilização da
+formalidade legal da contratação de Organização Social, em
+verdade, se prestava a mascarar “intermediação de contratação
+de mão-de-obra por pessoa de direito privado, violando a
+obrigatoriedade do concurso público”, ante a confissão do
+representante do Município em audiência, no sentido de que
+“somente o Hospital Municipal é terceirizado a tal OS”,
+demonstrando, assim, o caráter fraudulento e, portanto, nulo
+(artigo 9º da CLT) da contratação. Por fim, na forma do artigo
+199, § 1º, da Constituição Federal, as entidades privadas podem
+auxiliar o ente público na prestação dos serviços de saúde, porém
+“não abranger o serviço como um todo, como no caso, todos os
+empregados do Hospital municipal”.
+Dessa forma, não é possível observar a necessária ofensa
+direta e literal dos artigos 37, caput, inciso II e § 8º, e 199, § 1º,
+da Constituição Federal, na forma exigida no § 2º do artigo 896
+da CLT e na Súmula nº 266 desta Corte superior sem adotar
+premissas fáticas diametralmente opostas às adotadas pela
+instância regional depois de valorar o conjunto fático-probatório
+constante dos autos, o que é vedado a esta instância de natureza
+extraordinária fazer, nos termos da Súmula n° 126 do TST.
+Agravo de instrumento desprovido”. (grifos do original)”.
+Os embargos declaratórios opostos foram desprovidos
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 31
+
+ARE 1276244 AGR / SP
+(eDOC 49, p. 1).
+No recurso extraordinário, com fundamento no art. 102,
+III, alíneas “a”, “b”, “c” e “d”, do permissivo constitucional,
+aponta-se violação aos arts. 5º, II, LIV e LV; 37, caput e § 8; 93,
+IX; 97 e 199, § 1º, todos da Constituição Federal.
+Nas razões recursais, sustenta-se, inicialmente, a nulidade
+do acórdão recorrido, considerando que não foi observada a
+cláusula de reserva de Plenário, nos termos do art. 97 da CF e
+da Súmula Vinculante 10.
+Alega-se que ”inegável a existência e validade da Lei nº
+9.637/98, inclusive, sua constitucionalidade foi declarada pelo
+Supremo Tribunal Federal no julgamento definitivo da ADI nº 1923,
+que no item 16 da ementa do v. acórdão assevera expressamente que as
+organizações sociais não se submetem à exigência de concurso público,
+mas apenas à seleção de pessoal regulamentada em seu regimento
+interno (...)” (eDOC 52, p. 10).
+Desse modo, conclui-se que foi demonstrada “a legalidade
+da contratação da Organização Social denominada Associação Santa
+Maria de Saúde – ASAMAS e do procedimento de seleção dos seus
+funcionários” (eDOC 52, p. 11) .
+Para tanto, transcreve trecho da sentença, no qual se
+verifica a “legalidade do contrato de gestão dos serviços de saúde no
+âmbito do Município de Jaguariúna e região e do funcionamento
+exemplar e essencial da Organização Social para o atendimento da
+população da região (...)” (eDOC 52, p. 11).
+Aduz-se, então, que no contexto, verifica-se que o aresto
+recorrido “afastou a incidência da Lei nº 9.637/98 (que permite a
+contratação de pessoal pela Organização Social com base no
+procedimento definido em seu regimento interno – art. 4º, VII), sem
+contudo declarar sua inconstitucionalidade, impedindo que o
+Município de Jaguariúna exercite regularmente um direito previsto no
+ordenamento jurídico para melhor provimento dos serviços de saúde,
+dentro, inclusive, dos preceitos delineados no §1º do artigo 199 da
+Constituição Federal” (eDOC 52, p. 13).
+Afirma-se que não houve descumprimento do termo de
+ajuste de conduta – TAC, tendo em vista que o inconformismo
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 31
+
+ARE 1276244 AGR / SP
+do Recorrente está “na ausência de fatos que possam certificar o
+descumprimento do TAC firmado, pois é notório que o alegado
+descumprimento ocorreu em data anterior ao limite interposto pela r.
+Sentença de origem, decisão esta mantida pelo E. Tribunal” (eDOC
+52, p. 15) e que, em relação ao período do descumprimento do
+TAC (em 01.06.2010), competia ao Recorrido a responsabilidade
+pela comprovação dos fatos constitutivos de seu direito.
+Argumenta-se que, mantida a condenação, estará
+evidenciada a afronta aos arts. 5º, LIV e LV e 93, IX, da CF,
+especialmente, porque não houve demonstração de violação de
+suas cláusulas em data posterior a 1º.01.2010.
+Ao final, pleiteia-se que seja anulado o acórdão recorrido e
+determinado o retorno dos autos à origem que submeta ao
+pleno do Tribunal a apreciação da constitucionalidade da Lei
+9.637/98 e reconhecida a inexistência do descumprimento do
+Termo de Ajustamento de Conduta (TAC), item I, uma vez que
+“a contratação de organizações sociais pelo Poder Público e de seus
+funcionários por processo de seleção possui permissivo legal na Lei nº
+9.637/98 e foi realizado de acordo com os ditames da Lei nº 8.666/93”
+(eDOC 52, p. 20).
+A Vice-Presidência do TST, ao analisar a admissibilidade
+do extraordinário, aplicou o Tema 339 da sistemática da
+repercussão geral, em relação à alegada ofensa ao art. 93, IX, da
+CF (eDOC 59, p. 9), nos termos do art. 1.030, I, “a”, do CPC.
+No mais, o apelo extremo não foi admitido em virtude
+dos óbices das Súmulas 283 e 284 do STF, por constatar que o
+Recorrente não impugnou todos os fundamentos do acórdão
+recorrido, especialmente, os argumentos do Tribunal de que
+(eDOC 59, p. 10)
+“a) o eventual afastamento de incidência de uma
+determinada norma, em razão das circunstâncias fáticas
+apresentadas nos autos,
+não implica declaração de
+inconstitucionalidade desta;
+b) na forma do artigo 199, § 1º, da Constituição Federal,
+as entidades privadas podem auxiliar o ente público na prestação
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 31
+
+ARE 1276244 AGR / SP
+dos serviços de saúde, porém não abranger o serviço como um
+todo, como no caso, todos os empregados do Hospital municipal;
+c) a possibilidade de contratação com assistência de
+entidade privada não pode ser a única forma de celebração de
+contrato no hospital municipal, como ocorreu no caso.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+De plano, não conheço do recurso, no que tange à alegada
+afronta ao art. 93, IX, da CF (Tema 339 da sistemática da
+repercussão geral).
+No caso, verifica-se que, no ponto, contra a decisão de não
+admissão do apelo extremo foi interposto agravo, tal como
+previsto no art. 1.042 do Código de Processo Civil.
+Entretanto, ante a declaração de inadmissibilidade do
+recurso extraordinário, era cabível o agravo interno para o
+órgão colegiado competente. Ademais, impende registrar que
+não se admite a fungibilidade do recurso em agravo interno no
+caso de erro grosseiro, o que ocorre na espécie, conforme
+jurisprudência desta Corte. Nesse sentido, veja-se o ARE
+761.661-AgR, Rel. Min. Joaquim Barbosa, Plenário, DJe
+29.04.2014.
+Além disso, quanto às demais questões suscitadas no
+recurso, verifica-se que o Tribunal de origem, por ocasião do
+julgamento do recurso de revista, asseverou (eDOC 39, p. 5-14):
+“O apelo não alcança seguimento.
+Para a análise da arguição de nulidade do julgado por
+negativa de prestação jurisdicional, é necessário que a parte
+busque sanar eventual omissão mediante a interposição dos
+embargos de declaração, sob pena de preclusão, conforme
+previsto no item II da Súmula nº 297 do TST.
+Todavia, in casu, o agravante não interpôs os competentes
+embargos de declaração, inviabilizando, assim, a análise da
+nulidade em questão por esta Corte. Neste sentido, o teor da
+Súmula nº 184 do TST, que assim dispõe:
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 31
+
+ARE 1276244 AGR / SP
+(....)
+Melhor sorte não socorre o agravante no que diz respeito
+ao suposto cerceamento de defesa e violação do direito ao
+contraditório, tendo em vista que não houve adoção de tese
+explícita na decisão recorrida acerca de previsão contida no
+artigo 5º, LIV e LV, da Constituição Federal. Observa-se, ainda,
+que o reclamado não interpôs os competentes embargos de
+declaração, motivo pelo qual não se observa o necessário
+prequestionamento da matéria na forma da Súmula nº 297,
+itens I e II, do TST e do artigo 896, § 1º-A, inciso I, da CLT, com
+a redação que lhe foi dada pela Lei nº 13.015/2014.
+No que diz respeito à alegada nulidade do acórdão por
+inobservância da cláusula de plenário, o Município alega que, ao
+contrário do entendimento firmado no despacho denegatório, a
+matéria encontra-se prequestionada, tendo em vista que houve
+adoção de tese acerca do tema no acórdão recorrido, na forma da
+Súmula nº 297, I, e da Orientação Jurisprudencial nº 118 da
+SbDI-1 do Tribunal Superior do Trabalho.
+(...)
+Inicialmente, quanto ao prequestionamento da matéria,
+destaca-se que a suposta inobservância da cláusula de plenário
+somente poderia ocorrer perante o Juízo colegiado em análise
+recursal. Assim, assiste razão ao agravante, ao apontar que na
+forma da Orientação Jurisprudencial nº 119 da SbDI-1 do
+Tribunal Superior do Trabalho, as violações apontadas teriam,
+em tese, surgido na decisão recorrida, sendo, assim,
+desnecessário o prequestionamento. Contudo o apelo não merece
+seguimento, tendo em vista que, conforme se observa nessa
+transcrição, a Corte regional, embora tenha se pronunciado
+sobre o tema, apontou que “não cabe nos presentes autos a
+análise da constitucionalidade da Lei Federal nº 9.637/98 e da
+Lei Municipal nº 1.306/2001, eis que, a pertinência da execução
+de título extrajudicial se verifica pela existência do título
+executivo e de seu inadimplemento” (pág. 3.447).
+Assim,
+não
+tendo
+havido
+declaração
+de
+inconstitucionalidade da Lei nº 9.637/98, fica impossível falar
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 31
+
+ARE 1276244 AGR / SP
+em inobservância da regra de reserva de plenário e, por
+conseguinte, em violação do artigo 97 da Constituição Federal
+ou em contrariedade à Súmula Vinculante nº 10 do STF.
+Destaca-se, por fim, que o eventual afastamento de
+incidência de uma determinada norma, em razão das
+circunstâncias fáticas apresentadas nos autos, não implica
+declaração de inconstitucionalidade desta.
+(...)
+O Município agravante insiste na alegação de legalidade
+da contratação de Organização Social para a prestação de
+serviços de saúde, tendo em vista que tal pactuação foi realizada
+em estrita observância do disposto na Lei nº 9.637/98, a qual foi
+declarada constitucional pelo Supremo Tribunal Federal por
+meio do julgamento da ADI nº 1.923.
+Argumenta que tal contratação respeitou plenamente os
+princípios insculpidos no artigo 37, caput, da Constituição
+Federal, bem como sob a autorização do disposto no § 8º do
+mencionado dispositivo.
+Aponta, ainda, que a realização de contrato ou convênio
+para fins de assistência à saúde está expressamente autorizada
+no artigo 199, § 1º, da Constituição Federal. Indica violação dos
+artigos 5º, caput e inciso II, 37, caput, inciso II e § 8º, e 199, §
+1º, da Constituição Federal.
+(...)
+Conforme se observa nessa transcrição, a Corte regional
+consignou, na decisão recorrida, que foi “assinado o Termo de
+Compromisso de ajustamento de conduta com o Município de
+Jaguariúna, que se comprometeu a contratar servidores para
+ocupação de cargos efetivos, cargos de confiança e por tempo
+determinado para atender a necessidade temporária de
+excepcional interesse público, com base nos incisos II, V e IX do
+artigo 37 da CF, respectivamente” (pág. 3.442).
+Consta, ainda, que, após a realização de ajuste entre as
+partes, ante a constatação de descumprimento do TAC, em que o
+Município se comprometeu no pagamento de multa simbólica no
+importe de R$ 10.000,00 (dez mil reais), a “ASAMAS
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 31
+
+ARE 1276244 AGR / SP
+encaminhou ao MPT relação dos empregados por ela
+contratados, constando 416 empregados” (pág. 3.443).
+Assim, concluiu a Corte regional que “houve violação ao
+Termo de Ajustamento de conduta, ainda que não tenha sido
+expressamente prevista a proibição quanto à ‘contratação de
+organização social para prestação de serviço público’. Ora, a
+estipulação da obrigação de contratar servidores para ocupação
+de cargos efetivos, cargos de confiança e por tempo determinado
+já abrange implicitamente tal situação” (págs. 3.445-3.446).
+Ademais, constou, na decisão Ademais, constou, na
+decisão recorrida, que a utilização da formalidade legal da
+contratação de Organização Social, em verdade, se prestava a
+mascarar “intermediação de contratação de mão-de-obra por
+pessoa de direito privado, violando a obrigatoriedade do
+concurso público”, ante a confissão do representante do
+Município em audiência, no sentido de que “somente o Hospital
+Municipal é terceirizado a tal OS” (pág. 3.446), demonstrando,
+assim, o caráter fraudulento e, portanto, nulo (artigo 9º da CLT)
+da contratação.
+Por fim, na forma do artigo 199, § 1º, da Constituição
+Federal, as entidades privadas podem auxiliar o ente público na
+prestação dos serviços de saúde, porém “não abranger o serviço
+como um todo, como no caso, todos os empregados do Hospital
+municipal” (pág. 3.446).
+Dessa forma, não é possível observar a necessária
+ofensa direta e literal dos artigos 37, caput, inciso II e §
+8º, e 199, § 1º, da Constituição Federal, na forma exigida
+no § 2º do artigo 896 da CLT e na Súmula nº 266 desta
+Corte superior, pois verifica que o município não cumpriu
+os termos ajustados no TAC, continuado a contratar sem
+a observância de concurso público.
+Ademais,
+a
+possibilidade de contratação com assistência de entidade
+privada não pode ser a única forma de celebração de
+contrato no hospital municipal, como ocorreu no caso”.
+(grifei)
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 13 de 31
+
+ARE 1276244 AGR / SP
+Nesse contexto, verifica-se que está correta a decisão
+agravada quanto à incidência, no caso, das Súmulas 283 e 284
+do STF, uma vez que no apelo extremo não foram atacados
+todos os fundamentos do acórdão proferido pelo TST, o que
+impede o trânsito do recurso extraordinário. Nesse sentido,
+confiram-se os seguintes julgados:
+“Emergem ao conhecimento do Recurso Extraordinário os
+obstáculos constantes das Súmulas 283: É inadmissível o
+recurso extraordinário, quando a decisão recorrida assenta em
+mais de um fundamento suficiente e o recurso não abrange todos
+eles e 284: É inadmissível o recurso extraordinário, quando a
+deficiência na sua fundamentação não permitir a exata
+compreensão da controvérsia, ambas do SUPREMO
+TRIBUNAL FEDERAL” (RE 1.130.439-AgR, Rel. Min.
+Alexandre de Moraes, DJe 19.09.2018).
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE
+DO APELO EXTREMO. SÚMULA 284 DO STF.
+NECESSIDADE DE REEXAME DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF.
+OFENSA INDIRETA. AGRAVO A QUE SE NEGA
+PROVIMENTO.
+O
+recorrente
+não
+impugnou
+especificadamente os fundamentos do acórdão recorrido.
+Inviável, portanto, o recurso extraordinário, a teor da súmula
+284 do STF” (...). Agravo regimental a que se nega
+provimento”. (RE 718.234-AgR/RS, Rel. Min. Ricardo
+Lewandowski, Segunda Turma, DJe 9.12.2013).
+Além disso, ainda que superado o óbice processual
+apontado, o recurso não mereceria prosperar.
+É que, na hipótese, verifica-se que o Tribunal de origem,
+quanto à alegada afronta aos dispositivos dados como
+contrariados no recurso, apreciou a causa com apoio no art. 896
+da CLT e na Súmula 266 TST, além de interpretar cláusulas de
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 14 de 31
+
+ARE 1276244 AGR / SP
+contrato de gestão e do Termo de Ajustamento de Condutas –
+TAC.
+Assim, eventual divergência em relação ao entendimento
+adotado pelo juízo a quo, quanto à validade de cláusula de
+contrato de gestão e do TAC, demandaria a análise de
+legislação infraconstitucional, referente a pressupostos de
+admissibilidade recursal trabalhista e o revolvimento do
+conjunto fático-probatório o que inviabiliza o processamento do
+apelo extremo, nos termos da Súmula 279 do STF.
+Além disso, seria necessário o reexame de cláusula
+contratual, o que é vedado, neste momento processual, nos
+termos da Súmula 454 do STF. Nesse sentido, confiram-se os
+seguintes precedentes:
+“DIREITO
+CONSTITUCIONAL,
+PROCESSUAL
+CIVIL E TRABALHISTA. RECURSO EXTRAORDINÁRIO
+TRABALHISTA:
+PRESSUPOSTOS
+DE
+ADMISSIBILIDADE. PREQUESTIONAMENTO. AGRAVO.
+1. O aresto recorrido não enfrentou questões
+constitucionais, mas, sim, meramente processuais, já que
+o Tribunal Superior do Trabalho não admitiu o Recurso de
+Revista, com base nos enunciados de suas Súmulas 126,
+221, 296 e 297. 2. Ademais, como salientado na decisão
+agravada, é pacífica a jurisprudência do Supremo Tribunal
+Federal, no sentido de não admitir, em Recurso Extraordinário,
+alegação de ofensa indireta à Constituição Federal, por má
+interpretação ou aplicação de legislação infraconstitucional,
+inclusive a de ordem processual sobre pressupostos de
+admissibilidade de recurso no âmbito trabalhista. 3. Agravo
+improvido” (grifei) (AI 282.390-AgR, Rel. Min. Sydney
+Sanches, Primeira Turma, DJe 19.12.2001).
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM
+AGRAVO DE INSTRUMENTO. MATÉRIA PROCESSUAL
+TRABALHISTA. ALEGADA OFENSA AO ART. 5º, XXXV e
+LV DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO. I -
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 15 de 31
+
+ARE 1276244 AGR / SP
+É inviável o recurso extraordinário cujo exame demande o
+debate acerca dos pressupostos de admissibilidade de
+recursos trabalhistas, por envolver discussão de caráter
+infraconstitucional. II - A alegada violação ao art. 5º, XXXV
+e LV, da Constituição, em regra, configura situação de ofensa
+meramente reflexa ao texto constitucional, o que inviabiliza o
+conhecimento do recurso extraordinário. III - Aplicação de
+multa. IV - Agravo regimental improvido” (grifei). (AI 612.613AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ
+13.06.2008).
+“DIREITO
+ADMINISTRATIVO.
+AGRAVO
+REGIMENTAL EM RECURSO EXTRAORDINÁRIO
+COM AGRAVO. PROCESSO SELETIVO. EMPREGADO
+PÚBLICO. COMPETÊNCIA. JUSTIÇA DO TRABALHO.
+CABIMENTO DE RECURSO DE RECURSO DE
+REVISTA NO TRIBUNAL SUPERIOR DO TRABALHO.
+APLICAÇÃO DO SÚMULA 126/TST. AUSÊNCIA DE
+REPERCUSSÃO GERAL. PRECEDENTES. 1. Compete à
+Justiça do Trabalho dirimir controvérsias que surgem no
+processo seletivo para empregos públicos no âmbito da
+administração pública indireta. Precedentes. 2. O Supremo
+Tribunal Federal já assentou a ausência de repercussão
+geral da questão discutida (RE 598.365, Rel. Min. Ayres
+Britto), relativa ao cabimento de recursos da competência
+de outros Tribunais, por restringir-se a tema
+infraconstitucional. 3. Para dissentir do acórdão recorrido,
+seria necessária a análise da legislação infraconstitucional
+pertinente, procedimento inviável em recurso extraordinário.
+Precedentes. 4. Agravo regimental que se nega provimento”
+(ARE 684.649-AgR, Rel. Min. Roberto Barroso, Primeira
+Turma, DJe 13.11.2015).
+“AGRAVO DE INSTRUMENTO - MATÉRIA
+TRABALHISTA - AUSÊNCIA DE OFENSA DIRETA AO
+TEXTO CONSTITUCIONAL - RECURSO IMPROVIDO. -
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 16 de 31
+
+ARE 1276244 AGR / SP
+O debate em torno da aferição dos pressupostos de
+admissibilidade dos recursos trabalhistas em geral, ainda
+que se cuide de recurso de revista, não viabiliza o acesso à
+via recursal extraordinária, por envolver discussão
+pertinente
+a
+tema
+de
+caráter
+eminentemente
+infraconstitucional. Precedentes. - Situações de ofensa
+meramente reflexa ao texto da Constituição não viabilizam o
+acesso à via recursal extraordinária, cuja utilização supõe a
+necessária ocorrência de conflito imediato com o ordenamento
+constitucional. Precedentes” (grifei) (AI 720.779-AgR, Rel.
+Min. Celso de Mello, Segunda Turma, DJ 17.10.2008).
+“AGRAVO REGIMENTAL NO AGRAVO DE
+INSTRUMENTO. TERMO DE AJUSTAMENTO DE
+CONDUTA. DESCUMPRIMENTO. IMPOSIÇÃO DE
+MULTA. IMPOSSIBILIDADE DA ANÁLISE DA
+LEGISLAÇÃO
+INFRACONSTITUCIONAL
+E
+DO
+REEXAME DE PROVAS (SÚMULA 279). OFENSA
+CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL
+AO QUAL SE NEGA PROVIMENTO.” (grifei) (AI 627.242AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe
+12.12.2008)
+“AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+ADMINISTRATIVO.
+AUTO
+DE
+INFRAÇÃO.
+PENALIDADES.
+VAGAS
+PARA PESSOAS
+COM
+DEFICIÊNCIA. INOBSERVÂNCIA. 1. É inviável o
+processamento do recurso extraordinário, por demandar o
+exame de legislação infraconstitucional, quando está em
+debate a validade de multas aplicadas em razão do
+mesmo fato pelo Ministério Público do Trabalho e pelo
+Ministério do Trabalho. 2. Não merece trânsito o recurso
+extraordinário se, para a apreciação do apelo extremo, for
+necessário o reexame do acervo fático-probatório dos
+autos e de cláusulas contratuais de Termo de
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 17 de 31
+
+ARE 1276244 AGR / SP
+Ajustamento de Conduta. Inteligência das Súmulas 279 e
+454/STF. 3. Agravo regimental a que se nega provimento, com
+previsão de aplicação de multa, nos termos do art. 1.021, § 4º,
+do CPC” (grifei). (ARE 1.018.173-AgR, de minha relatoria,
+Segunda Turma, DJe 09.04.2018).
+Ademais, carece de repercussão geral a discussão acerca
+dos pressupostos de admissibilidade de recursos da
+competência de cortes diversas (Tema 181, RE 598.365-RG, Rel.
+Min. Ayres Britto, DJe 26.03.2010), visto que as ofensas à Carta
+Magna, caso existentes, ocorreriam de modo indireto ou reflexo.
+Da mesma forma, no julgamento do ARE 748.371-RG/MT
+(Rel. Min. Gilmar Mendes, Tema 660), rejeitou a repercussão
+geral da alegada violação ao direito adquirido, ao ato jurídico
+perfeito, à coisa julgada ou aos princípios da legalidade, do
+contraditório, da ampla defesa e do devido processo legal,
+quando se mostrar imprescindível o exame de normas de
+natureza infraconstitucional.
+No que tange à alegada ofensa à cláusula de reserva de
+plenário (art. 97 da CF e alínea “b”), é firme a jurisprudência do
+STF no sentido de que não se exige reserva de plenário para a
+mera interpretação e aplicação das normas jurídicas que emerge
+do próprio exercício da jurisdição, sendo necessário para
+caracterizar violação à cláusula de reserva de plenário que a
+decisão
+de
+órgão
+fracionário
+fundamente-se
+na
+incompatibilidade entre a norma legal e o Texto Constitucional,
+o que não ocorreu, na hipótese, conforme acima verificado.
+Destaco, neste aspecto, os seguintes trechos do acórdão
+proferido pelo TST (eDOC 39, p. 7-8):
+“Contudo o apelo não merece seguimento, tendo em vista
+que, conforme se observa nessa transcrição, a Corte regional,
+embora tenha se pronunciado sobre o tema, apontou que “não
+cabe nos presentes autos a análise da constitucionalidade da Lei
+Federal nº 9.637/98 e da Lei Municipal nº 1.306/2001, eis que, a
+pertinência da execução de título extrajudicial se verifica pela
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 18 de 31
+
+ARE 1276244 AGR / SP
+existência do título executivo e de seu inadimplemento” (pág.
+3.447).
+Assim,
+não
+tendo
+havido
+declaração
+de
+inconstitucionalidade da Lei nº 9.637/98, fica impossível falar
+em inobservância da regra de reserva de plenário e, por
+conseguinte, em violação do artigo 97 da Constituição Federal
+ou em contrariedade à Súmula Vinculante nº 10 do STF.
+Destaca-se, por fim, que o eventual afastamento de
+incidência de uma determinada norma, em razão das
+circunstâncias fáticas apresentadas nos autos, não
+implica declaração de inconstitucionalidade desta”.
+(grifei).
+Nos embargos de declaração, no ponto, o Tribunal de
+origem concluiu pela ausência de vícios apontados no acórdão
+recorrido, nestes termos (eDOC 49, p. 2):
+“A decisão embargada, apontou, de forma clara e
+fundamentada, a inocorrência de violação do artigo 97 da
+Constituição Federal bem como de contrariedade à Súmula
+Vinculante nº 10 do STF, na medida em que não foi declarada a
+inconstitucionalidade da Lei Federal nº 9.637/98, visto que a
+presente hipótese trata de simples execução de título
+executivo, consubstanciado em Termos de Ajustamento de
+Conduta firmado pelo Município (...)”. (grifei)
+A respeito da questão, aponto os seguintes julgados:
+“(...) Imprescindível, à caracterização da afronta à
+cláusula da reserva de plenário, que a decisão esteja
+fundamentada na incompatibilidade entre a norma legal e a
+Constituição Federal, o que não se verifica in casu” (...) (RE
+1.284.647-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe
+05.11.2020).
+“(...) Inexistência de ofensa à cláusula da reserva de
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 19 de 31
+
+ARE 1276244 AGR / SP
+plenário, porquanto o Tribunal de origem, ao analisar o caso
+concreto, não declarou inconstitucional a legislação aplicada,
+nem afastou sua aplicação por julgá-la inconstitucional, mas
+apenas interpretou a norma legal. 2. Agravo regimental a que se
+nega provimento. Mantida a decisão agravada quanto aos
+honorários advocatícios, eis que majorados nos limites do art.
+85, §§ 2º e 3º, do CPC” (ARE 1.239.111-AgR-Segundo, de
+minha relatoria, Segunda Turma, DJe 14.09.2020).
+“(...) IV – Não há que falar em violação do art. 97 da CF,
+tampouco em aplicação da Súmula Vinculante 10, uma vez que
+o Tribunal a quo não declarou a inconstitucionalidade de norma
+nem afastou. V – Agravo regimental a que se nega provimento”
+(RE 1.281.050-AgR, Rel. Min. Ricardo Lewandowski, Segunda
+Turma, DJe 09.11.2020).
+Por fim, constata-se que a Corte a quo não julgou válida lei
+ou ato de governo local contestados em face da Constituição
+Federal, tampouco julgou válida lei local contestada em face de
+lei
+federal,
+mas
+apenas
+interpretou
+as
+normas
+infraconstitucionais de regência e cláusulas contratuais.
+Resta, portanto, inviabilizado, também, o recurso
+extraordinário no que fundado nas alíneas “c” e “d” do inciso
+III do art. 102 da Constituição Federal.
+Ante o exposto, nego provimento ao recurso, nos termos
+do art. 932, IV, a e b, do CPC. Inaplicável o art. 85, § 11, do CPC,
+tendo em vista que não que houve condenação em honorários
+na instância de origem”.
+
+Nas razões do presente recurso, sustenta-se, em suma, afronta ao art.
+97 da CF e à Súmula Vinculante 10, uma vez que o acórdão recorrido, “ao
+alegar ausência de permissivo legal para a contratação da Organização Social e
+de necessidade de provimento dos cargos na entidade privada sem fins lucrativos
+por meio de concurso público, deveria ter submetido ao pleno do Tribunal para
+apreciação da constitucionalidade das normas contidas na Lei nº 9.637/98”
+(eDOC 82, p. 3).
+16
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 20 de 31
+
+ARE 1276244 AGR / SP
+Aduz-se, ainda, quanto aos demais óbices (Súmulas 283 e 284 do
+STF), que todos os fundamentos foram impugnados no recurso
+extraordinário de forma detalhada, demonstrando-se a violação aos
+dispositivos dados como violados no recurso extraordinário, bem como o
+desrespeito à decisão proferida na ADI 1923 “motivo pelo qual não há que se
+falar em ausência de ataque a todos os fundamentos constantes da decisão
+recorrida que impossibilita o conhecimento do apelo extraordinário” (eDOC 82,
+p. 4).
+Ao final, pleiteia-se o provimento do recurso para que seja
+reformado o acórdão recorrido.
+O Ministério Público Federal apresenta manifestação, assim
+ementada (eDOC 86, p. 1):
+“Direito Administrativo e Constitucional. Agravo em
+recurso extraordinário. Decisão monocrática denegatória de
+provimento. Agravo regimental. Descumprimento de TAC.
+Execução. Decisão que negou seguimento a recurso de revista.
+1. O recorrente não rebateu, de forma específica e
+fundamentada, todos os fundamentos apresentados na decisão
+agravada. Incidência da Súmula 283/STF. 2. Não há reparos a
+serem feitos na decisão agravada, pois o Supremo Tribunal
+Federal já decidiu que não há repercussão geral em recurso
+extraordinário que trata de pressupostos de admissibilidade de
+recursos da competência de outros Tribunais (RE 598.365, Tema
+181). 3. Pelo não conhecimento e, se conhecido, pelo
+desprovimento do agravo regimental”.
+
+É o relatório.
+
+17
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 29A1-4086-DE74-E8CA e senha 1B65-C4CC-8423-27F8
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 21 de 31
+
+16/11/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.276.244 SÃO
+PAULO
+VOTO
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): A pretensão do
+Agravante não merece prosperar.
+Com efeito, o Tribunal Superior do Trabalho, no julgamento do
+recurso de revista, proferiu acórdão assim ementado (eDOC 39, p. 1):
+“AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA. EXECUÇÃO.
+RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA
+DA LEI Nº 13.015/2014.
+PRELIMINAR DE NULIDADE DO ACÓRDÃO
+REGIONAL
+POR
+NEGATIVA
+DE
+PRESTAÇÃO
+JURISDICIONAL. PRECLUSÃO. SÚMULA N° 184 DO TST.
+Para a análise da arguição de nulidade do julgado por
+negativa de prestação jurisdicional, é necessário que a parte
+busque sanar eventual omissão, mediante a interposição dos
+embargos de declaração, sob pena de preclusão, conforme
+previsto no item II da Súmula nº 297 do TST. Todavia, in casu, o
+agravante não interpôs os competentes embargos de declaração,
+inviabilizando, assim, a análise da nulidade em questão por
+esta Corte. Neste sentido, o teor da Súmula nº 184 do TST.
+Agravo de instrumento desprovido.
+PRELIMINAR DE NULIDADE. DA DECISÃO
+REGIONAL POR INOBSERVÂNCIA DA CLÁUSULA DE
+RESERVA DE PLENÁRIO. NÃO OCORRÊNCIA.
+A Corte regional, embora tenha se pronunciado sobre o
+tema, apontou que “não cabe nos presentes autos a análise da
+constitucionalidade da Lei Federal nº 9.637/98 e da Lei Municipal nº
+1.306/2001, eis que, a pertinência da execução de título extrajudicial
+se verifica pela existência do título executivo e de seu
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A679-2E1E-3E0D-D9C7 e senha 909D-F125-F9EF-209F
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 22 de 31
+
+ARE 1276244 AGR / SP
+inadimplemento”. Assim, não tendo havido declaração de
+inconstitucionalidade da Lei nº 9.637/98, fica impossível falar
+em inobservância da regra de reserva de plenário e, por
+conseguinte, em violação do artigo 97 da Constituição Este
+documento pode ser Federal ou em contrariedade à Súmula
+Vinculante nº 10 do STF. Destaca-se, por fim, que o eventual
+afastamento de incidência de uma determinada norma, em
+razão das circunstâncias fáticas apresentadas nos autos, não
+implica declaração de inconstitucionalidade desta. Agravo de
+instrumento desprovido.
+TÍTULO
+EXECUTIVO
+EXTRAJUDICIAL.
+DESCUMPRIMENTO DE TERMO DE AJUSTAMENTO DE
+CONDUTA. CONTRATAÇÃO DE PESSOAL POR MEIO DE
+CONVÊNIO
+COM
+ORGANIZAÇÃO
+SOCIAL.
+TERCEIRIZAÇÃO. INTERMEDIAÇÃO DE MÃO DE OBRA
+A Corte regional consignou, na decisão recorrida, que foi
+“assinado o Termo de Compromisso de ajustamento de conduta com o
+Município de Jaguariúna, que se comprometeu a contratar servidores
+para ocupação de cargos efetivos, cargos de confiança e por tempo
+determinado para atender a necessidade temporária de excepcional
+interesse público, com base nos incisos II, V e IX do artigo 37 da CF,
+respectivamente”. Consta, ainda, que, após a realização de ajuste
+entre as partes, ante a constatação de descumprimento do TAC,
+em que o Município se comprometeu no pagamento de multa
+simbólica no importe de R$ 10.000,00 (dez mil reais), a
+“ASAMAS encaminhou ao MPT relação dos empregados por ela
+contratados, constando 416 empregados”. Assim, concluiu a Corte
+regional que “houve violação ao Termo de Ajustamento de conduta,
+ainda que não tenha sido expressamente prevista a proibição quanto à
+‘contratação de organização social para prestação de serviço público’.
+Ora, a estipulação da obrigação de contratar servidores para ocupação
+de cargos efetivos, cargos de confiança e por tempo determinado já
+abrange implicitamente tal situação”. Ademais, constou, na decisão
+recorrida que a utilização da formalidade legal da contratação
+de Organização Social, em verdade, se prestava a mascarar
+“intermediação de contratação de mão-de-obra por pessoa de direito
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A679-2E1E-3E0D-D9C7 e senha 909D-F125-F9EF-209F
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 23 de 31
+
+ARE 1276244 AGR / SP
+privado, violando a obrigatoriedade do concurso público”, ante a
+confissão do representante do Município em audiência, no
+sentido de que “somente o Hospital Municipal é terceirizado a tal
+OS”, demonstrando, assim, o caráter fraudulento e, portanto,
+nulo (artigo 9º da CLT) da contratação. Por fim, na forma do
+artigo 199, § 1º, da Constituição Federal, as entidades privadas
+podem auxiliar o ente público na prestação dos serviços de
+saúde, porém “não abranger o serviço como um todo, como no caso,
+todos os empregados do Hospital municipal”.
+Dessa forma, não é possível observar a necessária ofensa
+direta e literal dos artigos 37, caput, inciso II e § 8º, e 199, § 1º, da
+Constituição Federal, na forma exigida no § 2º do artigo 896 da
+CLT e na Súmula nº 266 desta Corte superior sem adotar
+premissas fáticas diametralmente opostas às adotadas pela
+instância regional depois de valorar o conjunto fáticoprobatório constante dos autos, o que é vedado a esta instância
+de natureza extraordinária fazer, nos termos da Súmula n° 126
+do TST. Agravo de instrumento desprovido”. (grifos do
+original)”.
+
+Inicialmente, conforme afirmado na decisão recorrida, as razões do
+recurso extraordinário não atacam, especificamente, todos os
+fundamentos do acórdão recorrido.
+Destaco, por oportuno, os fragmentos da decisão monocrática
+proferida no TST que não admitiu o apelo extremo, com base nas
+Súmulas 283 e 284 do STF (eDOC 59, p. 10):
+“Da leitura das razões recursais, verifica-se que o recurso
+extraordinário da parte não abrange a todos os fundamentos
+constantes da decisão recorrida, mormente o fundamento
+segundo o qual “o eventual afastamento de incidência de uma
+determinada norma, em razão das circunstâncias fáticas
+apresentadas nos autos, não implica declaração de
+inconstitucionalidade desta”.
+Nesse passo, a pretensão recursal de reforma encontra
+óbice nas Súmulas nºs 283 e 284 do STF, segundo as quais (...)”
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A679-2E1E-3E0D-D9C7 e senha 909D-F125-F9EF-209F
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 24 de 31
+
+ARE 1276244 AGR / SP
+Por fim, no tocante à “legalidade da contratação de
+Organização Social para a prestação de serviços de saúde”, a e.
+Turma do TST concluiu que “na forma do artigo 199, § 1º, da
+Constituição Federal, as entidades privadas podem auxiliar o
+ente público na prestação dos serviços de saúde, porém ‘não
+abranger o serviço como um todo, como no caso, todos os
+empregados do Hospital municipal’” e que “a possibilidade de
+contratação com assistência de entidade privada não pode ser
+a única forma de celebração de contrato no hospital municipal,
+como ocorreu no caso”.
+Da leitura das razões recursais, verifica-se que o recurso
+extraordinário da parte não abrange a todos os fundamentos
+constantes da decisão recorrida, mormente o fundamento
+segundo o qual “na forma do artigo 199, § 1º, da Constituição
+Federal, as entidades privadas podem auxiliar o ente público na
+prestação dos serviços de saúde, porém ‘não abranger o serviço como
+um todo, como no caso, todos os empregados do Hospital municipal’”.
+Nesse passo, a pretensão recursal de reforma encontra
+óbice, novamente, nas Súmulas nºs 283 e 284 do STF (...)”
+
+Além disso, ainda que fosse possível superar tal óbice, o recurso não
+mereceria prosperar, porquanto, eventual divergência em relação ao
+entendimento adotado pelo juízo a quo, quanto à validade de cláusula de
+contrato de gestão e do TAC, demandaria a análise de legislação
+infraconstitucional e o revolvimento do conjunto fático-probatório dos
+autos, além do reexame de cláusulas contratuais, o que inviabiliza o
+processamento do apelo extremo, nos termos das Súmulas 279 e 454 do
+STF. Confiram-se os seguintes precedentes:
+“DIREITO CONSTITUCIONAL, PROCESSUAL CIVIL E
+TRABALHISTA.
+RECURSO
+EXTRAORDINÁRIO
+TRABALHISTA: PRESSUPOSTOS DE ADMISSIBILIDADE.
+PREQUESTIONAMENTO. AGRAVO. 1. O aresto recorrido não
+enfrentou questões constitucionais, mas, sim, meramente
+processuais, já que o Tribunal Superior do Trabalho não
+admitiu o Recurso de Revista, com base nos enunciados de
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A679-2E1E-3E0D-D9C7 e senha 909D-F125-F9EF-209F
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 25 de 31
+
+ARE 1276244 AGR / SP
+suas Súmulas 126, 221, 296 e 297. 2. Ademais, como salientado
+na decisão agravada, é pacífica a jurisprudência do Supremo
+Tribunal Federal, no sentido de não admitir, em Recurso
+Extraordinário, alegação de ofensa indireta à Constituição
+Federal, por má interpretação ou aplicação de legislação
+infraconstitucional, inclusive a de ordem processual sobre
+pressupostos de admissibilidade de recurso no âmbito
+trabalhista. 3. Agravo improvido” (grifei) (AI 282.390-AgR, Rel.
+Min. Sydney Sanches, Primeira Turma, DJe 19.12.2001).
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM
+AGRAVO DE INSTRUMENTO. MATÉRIA PROCESSUAL
+TRABALHISTA. ALEGADA OFENSA AO ART. 5º, XXXV e LV
+DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - É
+inviável o recurso extraordinário cujo exame demande o
+debate acerca dos pressupostos de admissibilidade de
+recursos trabalhistas, por envolver discussão de caráter
+infraconstitucional. II - A alegada violação ao art. 5º, XXXV e
+LV, da Constituição, em regra, configura situação de ofensa
+meramente reflexa ao texto constitucional, o que inviabiliza o
+conhecimento do recurso extraordinário. III - Aplicação de
+multa. IV - Agravo regimental improvido” (grifei). (AI 612.613AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ
+13.06.2008).
+“DIREITO
+ADMINISTRATIVO.
+AGRAVO
+REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM
+AGRAVO.
+PROCESSO
+SELETIVO.
+EMPREGADO
+PÚBLICO. COMPETÊNCIA. JUSTIÇA DO TRABALHO.
+CABIMENTO DE RECURSO DE RECURSO DE REVISTA
+NO TRIBUNAL SUPERIOR DO TRABALHO. APLICAÇÃO
+DO SÚMULA 126/TST. AUSÊNCIA DE REPERCUSSÃO
+GERAL. PRECEDENTES. 1. Compete à Justiça do Trabalho
+dirimir controvérsias que surgem no processo seletivo para
+empregos públicos no âmbito da administração pública
+indireta. Precedentes. 2. O Supremo Tribunal Federal já
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A679-2E1E-3E0D-D9C7 e senha 909D-F125-F9EF-209F
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 26 de 31
+
+ARE 1276244 AGR / SP
+assentou a ausência de repercussão geral da questão discutida
+(RE 598.365, Rel. Min. Ayres Britto), relativa ao cabimento de
+recursos da competência de outros Tribunais, por restringir-se a
+tema infraconstitucional. 3. Para dissentir do acórdão recorrido,
+seria necessária a análise da legislação infraconstitucional
+pertinente, procedimento inviável em recurso extraordinário.
+Precedentes. 4. Agravo regimental que se nega provimento”
+(ARE 684.649-AgR, Rel. Min. Roberto Barroso, Primeira Turma,
+DJe 13.11.2015).
+“AGRAVO
+DE
+INSTRUMENTO
+MATÉRIA
+TRABALHISTA - AUSÊNCIA DE OFENSA DIRETA AO TEXTO
+CONSTITUCIONAL - RECURSO IMPROVIDO. - O debate em
+torno da aferição dos pressupostos de admissibilidade dos
+recursos trabalhistas em geral, ainda que se cuide de recurso
+de revista, não viabiliza o acesso à via recursal extraordinária,
+por envolver discussão pertinente a tema de caráter
+eminentemente infraconstitucional. Precedentes. - Situações
+de ofensa meramente reflexa ao texto da Constituição não
+viabilizam o acesso à via recursal extraordinária, cuja utilização
+supõe a necessária ocorrência de conflito imediato com o
+ordenamento constitucional. Precedentes” (grifei) (AI 720.779AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 17.10.2008).
+“AGRAVO
+REGIMENTAL
+NO
+AGRAVO
+DE
+INSTRUMENTO.
+TERMO
+DE
+AJUSTAMENTO
+DE
+CONDUTA.
+DESCUMPRIMENTO.
+IMPOSIÇÃO
+DE
+MULTA.
+IMPOSSIBILIDADE
+DA
+ANÁLISE
+DA
+LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME
+DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL
+INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO.” (grifei) (AI 627.242-AgR, Rel. Min. Cármen
+Lúcia, Primeira Turma, DJe 12.12.2008)
+“AGRAVO
+REGIMENTAL
+EM
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+
+RECURSO
+DIREITO
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A679-2E1E-3E0D-D9C7 e senha 909D-F125-F9EF-209F
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 27 de 31
+
+ARE 1276244 AGR / SP
+ADMINISTRATIVO. AUTO DE INFRAÇÃO. PENALIDADES.
+VAGAS
+PARA
+PESSOAS
+COM
+DEFICIÊNCIA.
+INOBSERVÂNCIA. 1. É inviável o processamento do recurso
+extraordinário, por demandar o exame de legislação
+infraconstitucional, quando está em debate a validade de
+multas aplicadas em razão do mesmo fato pelo Ministério
+Público do Trabalho e pelo Ministério do Trabalho. 2. Não
+merece trânsito o recurso extraordinário se, para a apreciação
+do apelo extremo, for necessário o reexame do acervo
+fáticoprobatório dos autos e de cláusulas contratuais de
+Termo de Ajustamento de Conduta. Inteligência das Súmulas
+279 e 454/STF. 3. Agravo regimental a que se nega provimento,
+com previsão de aplicação de multa, nos termos do art. 1.021, §
+4º, do CPC” (grifei). (ARE 1.018.173-AgR, de minha relatoria,
+Segunda Turma, DJe 09.04.2018).
+
+Ademais, carece de repercussão geral a discussão acerca dos
+pressupostos de admissibilidade de recursos da competência de cortes
+diversas (Tema 181, da repercussão geral, cujo paradigma é o RE 598.365RG).
+Da mesma forma, no julgamento do ARE 748.371-RG, de relatoria do
+Ministro Gilmar Mendes, DJe de 1º.08.2013, Tema 660, o Plenário desta
+Corte assentou que não há repercussão geral quando a alegada ofensa aos
+princípios do devido processo legal, da ampla defesa, do contraditório,
+do direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida
+sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou
+reflexa à Carta da República, como no caso dos autos.
+No que tange à alegada afronta ao art. 97 da CF e à Súmula
+Vinculante 10, é firme a jurisprudência do STF no sentido de que não se
+exige reserva de plenário para a mera interpretação e aplicação das
+normas jurídicas que emerge do próprio exercício da jurisdição, sendo
+necessário para caracterizar violação à cláusula de reserva de plenário
+que a decisão de órgão fracionário fundamente-se na incompatibilidade
+entre a norma legal e o Texto Constitucional, o que não ocorreu, na
+hipótese.
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A679-2E1E-3E0D-D9C7 e senha 909D-F125-F9EF-209F
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 28 de 31
+
+ARE 1276244 AGR / SP
+A respeito da questão, aponto os seguintes julgados:
+“(...) Imprescindível, à caracterização da afronta à cláusula
+da reserva de plenário, que a decisão esteja fundamentada na
+incompatibilidade entre a norma legal e a Constituição Federal,
+o que não se verifica in casu” (...) (RE 1.284.647-AgR, Rel. Min.
+Rosa Weber, Primeira Turma, DJe 05.11.2020).
+“(...) Inexistência de ofensa à cláusula da reserva de
+plenário, porquanto o Tribunal de origem, ao analisar o caso
+concreto, não declarou inconstitucional a legislação aplicada,
+nem afastou sua aplicação por julgá-la inconstitucional, mas
+apenas interpretou a norma legal. 2. Agravo regimental a que se
+nega provimento. Mantida a decisão agravada quanto aos
+honorários advocatícios, eis que majorados nos limites do art.
+85, §§ 2º e 3º, do CPC” (ARE 1.239.111-AgR-Segundo, de minha
+relatoria, Segunda Turma, DJe 14.09.2020).
+“(...) IV – Não há que falar em violação do art. 97 da CF,
+tampouco em aplicação da Súmula Vinculante 10, uma vez que
+o Tribunal a quo não declarou a inconstitucionalidade de norma
+nem afastou. V – Agravo regimental a que se nega provimento”
+(RE 1.281.050-AgR, Rel. Min. Ricardo Lewandowski, Segunda
+Turma, DJe 09.11.2020).
+
+Por fim, o Tribunal de origem não julgou válida lei ou ato de
+governo local contestados em face da Constituição Federal, tampouco
+julgou válida lei local contestada em face de lei federal, mas apenas
+interpretou as normas infraconstitucionais de regência e cláusulas
+contratuais, o que impede o cabimento do apelo extremo fundado nas
+alíneas “c” e “d da CF”. Nesse sentido:
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. REITERAÇÃO DA TESE
+DO RECURSO INADMITIDO. SUBSISTÊNCIA DA DECISÃO
+AGRAVADA.
+NECESSIDADE
+DE
+REEXAME
+DO
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A679-2E1E-3E0D-D9C7 e senha 909D-F125-F9EF-209F
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 29 de 31
+
+ARE 1276244 AGR / SP
+CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS
+CONTRATUAIS. SÚMULAS/STF 279 E 454. INTERPOSIÇÃO
+DE APELO EXTREMO COM BASE NA ALÍNEA B DO
+INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL.
+NÃO
+CABIMENTO.
+INTERPOSIÇÃO
+DE
+APELO
+EXTREMO COM BASE NA ALÍNEA C DO INCISO III DO
+ART. 102 DA CONSTITUIÇÃO FEDERAL. DEFICIÊNCIA
+NA
+FUNDAMENTAÇÃO
+DO
+RECURSO
+EXTRAORDINÁRIO. SÚMULA 284 DO STF. AGRAVO A
+QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE
+MULTA. I - As razões do agravo regimental são inaptas para
+desconstituir os fundamentos da decisão agravada, que, por
+isso, se mantêm hígidos. II - Para se chegar à conclusão
+contrária à adotada pelo acórdão recorrido, seria necessário o
+reexame do conjunto fático-probatório constante dos autos e de
+cláusulas contratuais, o que atrai a incidência das Súmulas/STF
+279 e 454. III - O Tribunal de origem não declarou a
+inconstitucionalidade de lei federal ou tratado, o que afasta o
+cabimento de recurso extraordinário com base na alínea b do
+art. 102, III, da Constituição Federal. IV – Apelo extremo com
+base na alínea c do inciso III do art. 102 da Constituição Federal.
+É deficiente a fundamentação do recurso que não particulariza
+de que forma ocorreu a alegada ofensa à Constituição.
+Incidência da Súmula 284 do STF” (ARE 1.148.549-AgR, Rel.
+Min. Ricardo Lewandowski, Segunda Turma, DJe 07.12.2018).
+“AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. PROCESSO CIVIL.
+FERIADO ESTADUAL. REVISÃO DE INTERPRETAÇÃO
+CONFERIDA
+À
+NORMA
+INFRACONSTITUCIONAL:
+INCABÍVEL O RECURSO PELA AL. “D” DO INC. III DO ART.
+102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO
+REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE
+1.265.302-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe
+31.08.2020).
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A679-2E1E-3E0D-D9C7 e senha 909D-F125-F9EF-209F
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 30 de 31
+
+ARE 1276244 AGR / SP
+Ante o exposto, nego provimento ao agravo regimental. Inaplicável
+o art. 85, § 11, do CPC, tendo em vista que não houve condenação em
+honorários na instância de origem.
+É como voto.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A679-2E1E-3E0D-D9C7 e senha 909D-F125-F9EF-209F
+
+Supremo Tribunal Federal
+Extrato de Ata - 16/11/2021
+
+Inteiro Teor do Acórdão - Página 31 de 31
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.276.244
+PROCED. : SÃO PAULO
+RELATOR : MIN. EDSON FACHIN
+AGTE.(S) : MUNICIPIO DE JAGUARIUNA
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO MUNICÍPIO DE JAGUARIÚNA
+ADV.(A/S) : CLEBER TEIXEIRA DE SOUZA (313986/SP)
+AGDO.(A/S) : MINISTÉRIO PÚBLICO DO TRABALHO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DA REPÚBLICA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental e entendeu inaplicável o art. 85, § 11, do CPC, tendo
+em vista a ausência de condenação em honorários na instância de
+origem, nos termos do voto do Relator. Segunda Turma, Sessão
+Virtual de 5.11.2021 a 12.11.2021.
+Composição: Ministros Nunes Marques (Presidente), Gilmar
+Mendes, Ricardo Lewandowski e Edson Fachin.
+Hannah Gevartosky
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C641-3E04-0B09-7593 e senha 408D-E962-51B8-9DE6
