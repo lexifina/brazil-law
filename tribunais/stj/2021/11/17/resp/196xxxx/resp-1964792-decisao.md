@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAZENDA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, nesses termos ementado:
+APELAÇÃO - --servidores estaduais aposentados e pensionistas da antiga FEPASA  reajuste dos vencimentos dos servidores da ativa através de Dissídio Coletivo, devido à perda ocorrida em 111 de março de 1994, com a edição da Medida Provisória nº 434194 convertida na Lei nº 8.880194 (URV)  reajuste deve ser estendido aos inativos e pensionistas, conforme prevê o artigo 40, § 80, da Constituição Federal, e artigos 192 e 193, do Estatuto dos Ferroviários  Recurso provido.
+Sustenta a parte recorrente pela prescrição de fundo do direito vindicado, e que os recorridos "não comprovaram os complementados da extinta FEPASA as supostas perdas e seu montante, nem comprovaram se remanescem diferenças".
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em casos como o dos autos, entendeu esta Corte Superior pela não ocorrência da prescrição do direito de fundo, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação. Cito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. APOSENTADOS E PENSIONISTAS. FEPASA. VANTAGEM DENOMINADA SEXTA PARTE. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO. SÚMULA 85 DO STJ. INCIDÊNCIA. ÓBICE DA SÚMULA 7 DO STJ. AFASTAMENTO. 1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Consoante o entendimento desta Corte, nas hipóteses em que servidores públicos aposentados e pensionistas da extinta FEPASA buscam a concessão da vantagem denominada sexta-parte, não ocorre a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação, nos termos da Súmula 85 do STJ.
+3. Não se aplica o óbice da Súmula 7 do STJ quando a análise recursal reclama a revaloração jurídica dos fatos já delimitados no acórdão.
+4. Agravo interno desprovido.
+(AgInt no REsp 1628125/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 04/12/2018, DJe 05/02/2019)
+AGRAVO INTERNO. SERVIDOR PÚBLICO. COMPLEMENTAÇÃO DE APOSENTADORIA.FEPASA. CONVERSÃO DE SALÁRIOS EM URV. LEI N.º 8.880/94. PRESCRIÇÃO QUINQUENAL. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. A orientação jurisprudencial desta Corte é firme no sentido de que, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85 do STJ) 2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1105922/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 24/08/2017)
+Dessarte, merece ser mantido o acórdão objurgado, aplicando-se ao caso, extensivamente à alínea "a" do permissivo constitucional, o óbice da Súmula nº 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+No restante, oconhecimento do tema esbarra no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial" -, uma vez que não se trata de discussão sobre o resultado jurídico da subsunção de normas federais, mas, sim, de revisão das premissas subjacentes.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. ACÓRDÃO EM HARMONIA COM A ORIENTAÇÃO DESTA CORTE SUPERIOR. SÚMULA Nº 83/STJ. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
