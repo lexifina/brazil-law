@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CLEROS DA COSTA ANDRÉ, NILSO ANDRÉ CARDOZO, JOÃO SÉRGIO LEITE DA SILVA e MARCO ANTÔNIO DE OLIVEIRA MARTINS contra ato da 4ª Vara Criminal de Curitiba e 1ª e 2ª Vara de Execuções Penais, nos autos do Processo n. 0009185-95.2006.8.16.0013.
+Nas razões deste habeas corpus (e-STJ, fls. 4-21), a defesa argumenta que o paciente Cleros da Costa André já sofreu graves consequências devido ao erro do não reconhecimento da anulação do processo, razão pela qual o recolhimento do paciente à prisão é ilegal. Diante disso, requer a expedição de alvará de soltura em favor dos três primeiros pacientes, bem como que seja reconhecida a prescrição com relação ao quarto paciente.
+É o relatório. Decido.
+Não é possível dar seguimento ao presente recurso.
+A petição inicial menciona decisões proferidas pelo Juízo da 4ª Vara Criminal de Curitiba e pelas Varas de Execução Penais de Curitiba, o que evidencia a incompetência do Superior Tribunal de Justiça para apreciar e julgar originariamente a causa, nos termos do art. 105, inciso II, da Constituição Federal.
+Nesse sentido:
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRETENSÃO ABSOLUTÓRIA POR INSUFICIÊNCIA DE PROVAS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO CRIMINAL. AUTORIDADE COATORA. JUIZ DE DIREITO. WRIT NÃO CONHECIDO. 1. Este Superior Tribunal de Justiça não tem competência para apreciar Habeas Corpus impetrado contra ato de Juiz de Direito. 2. Parecer pelo não conhecimento do Habeas Corpus ou, alternativamente, que seja julgado prejudicado. 3. Writ não conhecido. (HC 84.947/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Quinta Turma, DJe 31/3/2008).
+Ainda que se considere como coator o ato proferido pelo Tribunal de Justiça do Estado do Paraná, constata-se que, na verdade, houve o deferimento da liminar no HC n. 015341-50.2020.8.16.0000, de maneira que não se constata constrangimento ilegal causado por órgão de segundo grau apto a autorizar o processamento e julgamento deste habeas corpus pelo Superior Tribunal de Justiça.
+Ante o exposto, com esteio no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
