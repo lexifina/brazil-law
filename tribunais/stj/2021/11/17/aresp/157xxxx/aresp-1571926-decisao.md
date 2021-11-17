@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto pelaARCOS DOURADOS COMÉRCIO DE ALIMENTOS LTDA., em que pretende a admissão de recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO CAUTELAR DE CAUÇÃO PARA OBTENÇÃO DE CERTIDÃO POSITIVA COM EFEITO DE NEGATIVA - INTERESSE DE AGIR CONFIGURADO - CONDENAÇÃO DA FAZENDA PÚBLICA AO ÔNUS SUCUMBENCIAL - IMPOSSIBILIDADE - CAUSALIDADE ATRIBUÍDA À PARTE AUTORA QUE NÃO CUMPRIU COM SUAS OBRIGAÇÕES FISCAIS - AUSÊNCIA DE RESISTÊNCIA DO RÉU - PRECEDENTES - INVERSÃO DA SUCUMBÊNCIA - RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+Os embargos de declaração foram rejeitados.
+No apelo raro, a recorrente, apontando violação dos arts. 20, 85, 141, 142, 489, §1º, IV, 1.022, caput e incisos I, II e III, e parágrafo único, II,sustentou: (a) a nulidade do acórdão recorrido, porquanto não teriam sido sanados os vícios suscitados nos embargos de declaração; (b) o juízo de procedência da ação cautelar de caução para fins de obtenção de CPD-EN não enseja a condenação da parte autora em honorários advocatícios; (c) o acórdão recorrido desbordou dos limites do pedido formulado na apelação fazendária. Postulou a condenação da Fazenda Pública ao pagamento da verba honorária ou, subsidiariamente, que seja afastada a sua condenação a esse título.
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial, por entender inexistente a alegada infringência do art. 1.022 do CPC/2015 e incidentes os óbices das Súmulas 83 do STJ e 211 do STJ; fundamentação com a qualnão concordaa agravante.
+Oferecida contraminuta.
+Passo a decidir.
+Na origem, cuidam os autos de ação cautelar ajuizada pela recorrente para oferecer carta de fiança bancária como garantia à quitação decréditos tributários e postular a expedição de certidão de regularidade fiscal.
+O magistrado de primeiro grau, considerando que a Fazenda Pública não apresentou resistência, julgou procedente o pedido, vindo a condenar o ente público requerido ao pagamento das custas processuais e dos honorários advocatícios, os últimos nos termos do art. 85, § 3º, do CPC/2015.
+Na sequência, o TJ/PR deu parcial provimento à apelação fazendária para inverter os ônus sucumbenciais, com a seguinte motivação:
+É de se dar parcial provimento ao recurso.
+O apelante alega a falta de interesse processual da apelada, afirmando que o Estado do Paraná não ofereceu resistência à pretensão da caução para a obtenção de Certidão Positiva com Efeito de Negativa.
+Segundo o escólio de Fredie Didier Júnior: "O exame do interesse de agir (interesse processual) passa pela verificação de duas circunstâncias: a) utilidade e b) necessidade do pronunciamento judicial." (DIDIER JR, Fredie. Curso de Direito Processual Civil, vol. 1, 14ª edição, ed.: Jus Podivm, 2012, p. 225).
+Por força do art. 206 do CTN, o Estado somente poderia fornecer a referida certidão em caso de penhora efetivada ou com a exigibilidade dos créditos suspensa, de forma que a busca pela tutela judiciária era útil e necessária para atender o pleito da parte.
+Assim sendo, consubstanciado está o interesse processual da apelada em recorrer ao Poder Judiciário para oferecer a caução e buscar obter a certidão em questão.
+ ..
+Contudo, embora presente o interesse processual, a condenação do Estado do Paraná ao pagamento das custas processuais e honorários advocatícios, não é plausível, ante o princípio da causalidade.
+In casu, a falta não pode ser imputada à Fazenda Pública por não ter a mesma ajuizado a execução fiscal anteriormente e sim ao devedor por não ter cumprido com as suas obrigações fiscais e necessitar ajuizar ação cautelar para obter a Certidão Positiva com Efeito de Negativa.
+Denota-se que a origem da necessidade do ajuizamento da ação cautelar é o inadimplemento fiscal da apelada, de forma que não pode a Fazenda Pública ser responsabilizada pelo ônus sucumbencial quando não deu causa ao aforamento da demanda.
+ ..
+Além disso, analisando as manifestações da Fazenda Pública nos autos, denota-se que não houve oposição ao oferecimento da caução, o que, igualmente, afasta a possibilidade de imputar o ônus da sucumbência ao apelante.
+ ..
+Por outro viés, o Procurador do Estado foi instado a trabalhar, se manifestando nos autos, ainda que apenas para informar que a Fazenda não iria se opor ao pedido inicial, de forma que a sucumbência deve ser invertida.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso para inverter o ônus sucumbencial, condenando a apelada ao pagamento das custas processuais e honorários advocatícios, nos termos postos.
+Pois bem.
+Inicialmente, não há falar em negativa de prestação jurisdicional, pois da fundamentação empregada no acórdão recorrido é possível depreender a adoção do entendimento de que a inadimplência da parte autora seria a causa para a instauração da ação cautelar de caução, motivo pelo qual caberia a ela suportar os ônus sucumbenciais, mormente porque a Fazenda Pública não apresentou resistência.
+Também não é o caso de reconhecimento de nulidade pela alegada afronta ao princípio da congruência, visto que a redistribuição dosônus sucumbências, entre eles os honoráriosadvocatícios, por serem consectários do provimento jurisdicional alcançado, são matéria de ordem pública e, por isso, cognoscíveisde ofício pelo tribunal de apelação. Nesse sentido, vide:EDcl no AgInt no AREsp 887.903/SP, Rel. Ministro Gurgel De Faria, Primeira Turma, julgado em 27/09/2021, DJe 07/10/2021; REsp 1847229/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe 19/12/2019.
+No mérito, entretanto, assiste razão à recorrente.
+É bem verdade que a orientação jurisprudencial desta Corte Superior é a de que"não pode ser imputado ao ente federativo, à luz do princípio da causalidade, a responsabilidade pelo pagamento de honorários advocatícios em razão do não ajuizamento da execução em prazo inferior ao limite legal. Falta-lhe causalidade, decorrendo a ação de interesse exclusivo da parte autora sem responsabilidade culposa imputável à Fazenda Pública" (REsp 1.703.125/SP, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 21/11/2017, DJe 19/12/2017).
+De fato, atribuir ao fisco a causalidade pela cautelar de caução prévia à execução fiscal representa imputar ao credor a obrigatoriedade da propositura imediata da ação executiva, retirando-se dele a discricionariedade da escolha do momento oportuno para a sua proposição e influindo diretamente na liberdade de exercício de seu direito de ação.
+Por outro lado,considerando que ao devedor é assegurado o direito de inicialmente ofertar bens à penhora na execução fiscal, também não é possível assentar que ele deu causa indevida à medida cautelar tão somente por provocar a antecipação dessa fase processual.
+Constata-se, assim, que a questão decidida nesta ação cautelar tem natureza jurídica de incidente processual inerente à execução fiscal, não guardando autonomia a ensejar condenação em honorários advocatícios em desfavor de qualquer da partes.
+Essa é a posição recentemente tomada pela Primeira Turma, sintetizada no seguinte aresto:
+PROCESSUAL CIVIL. CAUTELAR DE CAUÇÃO PRÉVIA. HONORÁRIOS ADVOCATÍCIOS. PARTES. RESPONSABILIDADE. INEXISTÊNCIA.
+1. A cautelar prévia de caução configura-se como mera antecipação de fase de penhora na execução fiscal e, via de regra, é promovida no exclusivo interesse do devedor.
+2. Atribuir ao ente federado a causalidade pela cautelar de caução prévia à execução fiscal representa imputar ao credor a obrigatoriedade da propositura imediata da ação executiva, retirando-se dele a discricionariedade da escolha do momento oportuno para a sua proposição e influindo diretamente na liberdade de exercício de seu direito de ação.
+3. Ao devedor é assegurado o direito de inicialmente ofertar bens à penhora na execução fiscal, de modo que também não é possível assentar que ele deu causa indevida à medida cautelar tão somente por provocar a antecipação dessa fase processual.
+4. Hipótese em que a questão decidida nesta ação cautelar tem natureza jurídica de incidente processual inerente à execução fiscal, não guardando autonomia a ensejar condenação em honorários advocatícios em desfavor de qualquer da partes.
+5. Agravo conhecido para dar parcial provimento ao recurso especial.
+(AREsp 1.521.312/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 09/06/2020, DJe 1º/07/2020).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b" e "c", do RISTJ, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, a fim de afastar a condenação da empresa autora ao pagamento de honorários advocatícios.
+Publique-se. Intimem-se.
