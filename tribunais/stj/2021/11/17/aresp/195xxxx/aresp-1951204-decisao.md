@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do INSTITUTO NACIONAL DO SEGURO SOCIAL fundado naalínea"a"do permissivo constitucional interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+SERVIDOR. INSS. PROGRESSÃO FUNCIONAL. INTERSTÍCIO. LEI 5.645/1970 E DECRETO 84.669/1980. LEI 13.324/2016.
+1. Progressões funcionais e promoções de servidores do INSS que devem seguir os critérios da Lei 5.645/1970, regulamentada pelo Decreto 84.669/1980, até a entrada em vigor da Lei 13.324/2016. Precedentes.
+2. Caso em que a sentença fixou os juros de mora nos moldes estabelecidos no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, que prevê a aplicação dos índices previstos no artigo 1º-F da Lei 9.494/97, na redação da Lei 11.960/09, de modo que o "decisum" tratou da questão nos termos em que formulada a pretensão recursal. Impertinência da alegação. Pretensão de aplicação dos índices de correção monetária previstos no art. 1º-F da Lei 9.494/97, na redação dada pela Lei 11.960/09, que se rejeita em vista do entendimento firmado pelo C. Supremo Tribunal Federal no julgamento do RE 870.947/SE.
+3. Apelação desprovida, com majoração da verba honorária.
+No recurso especial, a parte recorrente aponta violação dos seguintes dispositivos:
+(a) arts. 1.022, I e II, 489, §1º, III e IV, aduzindo, em síntese, negativa de prestaçãojurisdicional;
+(b) art. 39 da Lei n. 13.324/2016, alegando que não é possível o pagamento de atrasados;
+(c) arts. 8º e 9º da Lei n. 10.855/04, 6º da Lei n. 5.645/70, 10 e 19 do Decreto n. 84.669/80, sustentando que".. inexistindo na lei determinação para que os efeitos financeiros fluam a partir da conclusão do interstício objeto da avaliação, como quer a parte autora, o Decreto nº 84.669/80 estava autorizado a normatizar este aspecto, como de fato o fez em seus artigos 10º e 19 acima transcritos. Portanto, o poder regulamentar não exorbitou os limites fixados na lei; ao contrário, cumpriu com sua função de disciplinar pormenorizadamente todos os aspectos necessários à operacionalização da progressão funcional. Consequentemente, vê-se que os arts. 10 e 19, do Decreto nº 84.669/80 são legais, vigentes e eficazes, posto que contidos nos estritos limites impostos pelos arts. 8º e 9º, da Lei 10.855/04 c/c art. 6º, da Lei nº 5.645/70. E o INSS já efetuou a progressão de todos os servidores da autarquia a partir de janeiro de 2017, seguindo as determinações contidas nos artigos 10 e 19 do Decreto nº 84.669/80, ou seja, com efeitos financeiros nos meses de setembro e março." (fl. 435 e-STJ)
+Sobreveio juízo negativo de admissibilidade fundada naincidência dasSúmulas 7 e 83/STJ.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+É o relatório. Passo a decidir.
+Não conheço do agravo, por ausência de refutação da motivação utilizada no juízo de admissibilidade.
+Da análise da petição de agravo de fls. 447/457 e-STJ, verifica-se que a agravante não impugnou, de forma específica, os fundamentos da decisão agravada relativo à incidência da Súmula 83/STJ.
+Aagravante limitou-se a afirmar que "O âmago da Súmula nº 83 do STJ, como se depreende da sua redação acima transcrita, diz respeito à contemporaneidade entre os julgados cotejados pela parte em recurso especial interposto com fundamento na alínea "c", do inciso III, do artigo 105 da CF. Pode-se verificar da petição de interposição e das razões do recurso especial não admitido pela decisão recorrida que o fundamento legal para sua interposição não foi a línea "c", do inciso III, do artigo 105 da CF, mas sim a alínea "a" do mesmo dispositivo. Isso implica dizer que não se aplica à espécie a citada Súmula nº 83 do STJ. Não bastasse isso, note-se que o recurso especial foi manejado aventando outras matérias que não a prescrição de fundo de direito, erroneamente enquadrada no óbice da Súmula 83 do STJ. Com efeito, o recurso da autarquia versou também sobre: 1- legalidade da progressão realizada em datas fixas, diferentes da data de início do exercício, nos termos do art. 19 do Decreto nº 84.669/80; e 2- a limitação dos atrasados ao período anterior a 01/2017, em função da superveniência da Lei nº 13.324/2016, em especial seu art. 39. No entanto, a decisão que não admitiu o recurso não fez qualquer menção a tais matérias ao invocar precedentes para equivocadamente obstar o recurso de acordo com a Súmula 83 do STJ. Os precedentes invocados na decisão que não admitiu o recurso, por sua vez, tampouco fazem referência a tais matérias, que efetivamente foram o objeto do recurso especial da autarquia." (fl. 451 e-STJ)
+Contudo, a agravante deixou de demonstrar que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido. Verifica-se, portanto, que a impugnação ao fundamento da decisão agravada não ocorreu de forma específica e efetiva.
+Dessa forma, não é possível conhecer do presente agravo, pois carece de fundamentação, atraindo as consequências previstas no art. 932, III, do CPC/2015, segundo o qual não se conhecerá do agravo que não tenha atacado específica e suficientemente todos os fundamentos da decisão agravada.
+A jurisprudência do STJ é assente no sentido de que a impugnação à fundamentação contida na decisão agravada deve ser específica e suficientemente fundamentada, não se admitindo impugnação genérica. In verbis:
+Art. 932. Incumbe ao relator:
+I - dirigir e ordenar o processo no tribunal, inclusive em relação à
+produção de prova, bem como, quando for o caso, homologar autocomposição
+das partes;
+II - apreciar o pedido de tutela provisória nos recursos e nos processos
+de competência originária do tribunal;
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha
+impugnado especificamente os fundamentos da decisão recorrida;
+Ressalte-se, por fim, que o caso atrai a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do artigo 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO NÃO CONHECIDO.
