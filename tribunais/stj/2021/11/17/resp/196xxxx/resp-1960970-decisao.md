@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARIA CRISTINA CAMARGO BASSORA com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 16/06/2016.
+Concluso ao gabinete em: 05/10/2021.
+Ação: revisionalajuizada pelo recorrente em desfavor do BANCO DO BRASIL S/A e ECONOMUS INSTITUTO DE SEGURIDADE SOCIAL, na qual requer a repercussão,em sua complementação de aposentadoria, de verbas e valores discutidos em reclamação trabalhista.
+Sentença: julgou improcedente o pedido inicial.
+Acórdão: negou provimento à apelação darecorrente. A ementa restou assim redigida:
+APELAÇÃO  PREVIDÊNCIA PRIVADA  Saldamento do Plano de Beneficio ocorrido em julho de 2006, pelo qual anuiu a autora com o valor do benefício saldado, aderindo ao Plano Prevmais  Ausente notícia de vício de consentimento no momento da adesão  Recálculo que implicaria violação a ato jurídico perfeito  CDC não é aplicável à relação jurídica entre participantes de plano de benefício e entidade de previdência complementar fechada HONORÁRIOS ADVOCATIC/OS SUCUMBENC/AIS  Verba de sucumbência fixada em montante condizente com o grau de complexidade do feito  Negado provimento.
+Embargos de declaração: opostos pelarecorrente, foram rejeitados.
+Recurso especial: alega violação aos arts. 128, 460e 1.022, I e II, do CPC/15; 423 e424 do CC; 28 da Lei 8.212/91; 47 e 51, IV e XV, do CDC, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, sustenta: i) a possibilidade de incorporaçãode verbas obtidas em reclamação trabalhista no benefício previdenciário; ii) que não há óbice para a revisão do benefício pela falta de custeio, pois aquela poderá ser procedida na ocasião da liquidação de sentença; iii) a possiblidade de se exigir a revisão de benefício previdenciário de plano anterior ao saldamento com adesão a outro plano.
+RELATADO O PROCESSO. DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da violação do art. 1.022 do CPC/2015
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+É importante ressaltar que não basta a simples referência à oposição de embargos de declaração supostamente não analisados devidamente pelo Tribunal de origem, e sim destacar de maneira clara e objetiva quais as questões que não foram objeto de discussão e restaram, portanto, omissas.
+Desse modo, ante a argumentação genérica da recorrente acerca da suposta violação do art. 1.022 do CPC/15, incide a Súmula 284/STF.
+- Da fundamentação deficiente
+Os argumentos invocados pelas agravantes não demonstram como o acórdão recorrido violou os arts. 128 e460 do CPC/15; 423 e 424 do CC; 28 da Lei 8.212/91; 47 e 51, IV e XV, do CDC, consistindo em mera reiteração das teses veiculadas nos recursos dirigidos às instâncias ordinárias e devidamente analisadas, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da orientação consolidada pelo STJ
+Depreende-se dos autos queo acórdão recorrido alinha-se à orientação firmada pela 2ª Seção no REsp 1.312.736/RS (Tema 955), no sentido de que se admite, nas ações em curso na Justiça Comum, a integração das horas extras reconhecidas pela Justiça do Trabalho no cálculo da renda mensal inicial do benefício, desde que existente previsão regulamentar expressa ou implícita e, ainda, que haja a recomposição prévia e integral das reservas matemáticas, com o recolhimento das cotas patronal e do participante, o que não se observa na hipótese dos autos.
+A propósito, confira-se trecho do acórdão recorrido sobre a matéria:
+(..) "não obstante as verbas pleiteadas na reclamação trabalhista compusessem a base de cálculo do salário-real-de -benefício do participante, nos termos do artigo Iº, incisos VII e VIII, do Regulamento Economus, a autora, conforme por eia mesmo admitido, aderiu, em 25 de julho de 2006, ao saldamento do Plano de Benefício Definido (fls. 465)".
+E, "ao optar pelo saldamento a apelante, livremente, concordou, de forma irretratável e irrevogável, com o valor e forma de apuração do benefício saldado. O cálculo do beneficio foi realizado com base no salário-real-de-participação dos últimos doze meses anteriores ao saldamento (..) Assim, mesmo tendo conhecimento de que teria direito às diferenças safarias posteriormente pleiteadas em reclamação trabalhista e que estas conduziriam à alteração da base de cálculo do benefício previdenciário, a demandante optou pelo saldamento do Plano de Benefício Definido. Ausente qualquer alegação de que teria havido vicio deconsentimento na assinatura do termo de adesão ao saldamento, forçoso concluir que a apelante concordou com o cálculo do benefício segundo a remuneração dos últimos doze meses, sem a inclusão de outras verbas salariais que não aquelas que já pagas pela empregadora, sob pena de violação ao ato jurídico perfeito". Deve ser observado, aqui, que ao contrário do defendido pela autora, o Plano de Benefício Definido e o Prevmais não são planos que coexistem. Ao optar pelo saldamento do Benefício Definido, a embargante aderiu ao Prevmais, de modo que sua complementação, a partir de então, passou a ser calculada de acordo com o regulamento deste plano.
+No mais, não houve pronunciamento do julgado acerca da possibilidade de custeio porque o direito à diferença da complementação, que exigiria tal medida, não foireconhecido.
+Neste sentido, não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados, em um período de longo prazo (REsp 1.425.326/RS, 2ª Seção, DJe de 1/8/2014).
+Logo, o acórdão recorrido aplicou corretamente o entendimento atual do STJ, incidindo a Súmula 568/STJ na hipótese.
+Nota-se, por fim, que no bojo do acórdão recorrido, não ficou consignado expressamente sobre a existência da previsão regulamentar da inclusão das horas-extras, situação que não pode ser analisada por este STJ, em razão da incidência da Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que nãoforam arbitrados na instância de origem.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. ACÓRDÃO EM SITONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de revisão de benefício previdenciário.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. Consoante as teses firmadas no REsp 1.312.736/RS (Tema 955), especialmente no tópico relativo à modulação de efeitos, a integração de horas-extras reconhecidas pela Justiça do Trabalho no cálculo da renda mensal inicial do benefício de complementação de aposentadoria exige a recomposição prévia e integral das reservas matemáticas.
+5. Não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados, em um período de longo prazo. Precedente da 2ª Seção (repetitivo).
+6. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
