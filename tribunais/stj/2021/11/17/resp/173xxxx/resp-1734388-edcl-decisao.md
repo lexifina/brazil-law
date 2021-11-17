@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Rhbrasil Serviços Temporários Ltda.contra decisão de fls. 206/208, por meio da qual julgou prejudicado o exame do feitotendo em vista a impossibilidade de cisão do julgamento, em razão da devolução dos autos com a respectiva baixa ao Tribunal de origem para que seja realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido pelo STJ.
+Sustenta a parte embargante que "a matéria do Recurso Especial, objeto de afetação, é tratada em pedido subsidiário pelo Recorrente, sendo que o pedido principal - pedido de reforma do v. acórdão do TRF 4ª Região, para alterar a forma de cálculo das reduções de juros e multa, na forma da Lei n.º 11.941 - é passível de pronto julgamento e,caso provido o recurso da contribuinte, perderá objeto o pedido subsidiário de readequação da verba honorária de sucumbência" (fls. 212/213).
+Impugnação não apresentada (certidão de fl. 220).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão.
+Convém destacar que a decisão prolatada nestes autos foi clara no sentido que impõe-se aguardar o exaurimento da jurisdição do Tribunal a quo, a qual apenas se esgotará com a fixação da tese no Tema 1.076/STJ, oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC/2015.
+Diante disso, é forçoso concluir que os embargos declaratórios não podem ser acolhidos, pois os aclaratórios traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
