@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por RONIVALDO CASTRO PACHECO, com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, nesses termos ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. ESCOLHA DERECURSO QUE DESAFIA DECISÃO QUE JULGA IMPUGNAÇÃO A CUMPRIMENTO DESENTENÇA E EXINGUE O PROCESSO. CABIMENTO DE APELAÇÃO. ACERTO NAESCOLHA. DESPROVIMENTO. 1. Hipótese em que a Fazenda Pública escolheu o recurso de apelação cível para desafiar decisão que julgou impugnação a cumprimento de sentença contra a Fazenda Pública, e mandou encerrar o processo, consolidando os cálculos e ordenando a expedição de ofício requisitório de precatório. 2. A jurisprudência do STJ é uníssona ao afirmar que a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser atacada através de Apelação, ao passo que aquela julga o mesmo incidente, mas sem extinguir a fase executiva, é recorrível por meio de Agravo de Instrumento. É firme, também, o entendimento de que, em ambas as hipóteses, não é aplicável o princípio da fungibilidade recursal. (STJ, AREsp 1567607/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 05/11/2019)3. Agravo interno desprovido.
+Sustenta a parte recorrente "não se trata a decisão recorrida de sentença, mas de decisão interlocutória".
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O conhecimento do tema esbarra no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial" -, uma vez que não se trata de discussão sobre o resultado jurídico da subsunção de normas federais, mas, sim, de revisão das premissas subjacentes.
+Além do mais, merece ser mantido o acórdão objurgado, aplicando-se ao caso o óbice da Súmula nº 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO ACOLHE A IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA SEM PÔR FIM AO PROCESSO EXECUTIVO. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA DESPROVER O RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que a parte recorrente juntou a cadeia de substabelecimentos e a respectiva procuração originária. Novo exame do feito.
+2. A jurisprudência desta Corte é no sentido de que a decisão que resolve a impugnação sem pôr fim à execução desafia o recurso de agravo de instrumento, caracterizando erro inescusável a interposição de apelação.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para desprover o recurso especial.
+(AgInt no AREsp 1671596/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/09/2021, DJe 15/10/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.EXTINÇÃO DA EXECUÇÃO. RECURSO INADEQUADO. SÚMULA 7/STJ. APLICAÇÃO.DISSÍDIO NÃO CONFIGURADO. DECISÃO MANTIDA
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que conheceu do Agravo para não conhecer do Recurso Especial, por incidência da Súmula 7/STJ, ausência do cotejo analítico e inexistência de similitude fática entre os arestos confrontados.
+2. A Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida que entendeu não ser cabível o Agravo de Instrumento, uma vez que a decisão agravada declarou extinto o cumprimento de sentença.
+3. O Superior Tribunal de Justiça entende que a extinção da execução deve ser impugnada por Apelação ou, se não acarretarem a extinção da fase executiva, têm natureza jurídica de decisão interlocutória, sendo o Agravo de Instrumento o recurso adequado.
+4. Inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido de que a execução foi extinta. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+5. Não é possível a aplicação do princípio da fungibilidade em casos de interposição do recurso incabível, em virtude da ausência de dúvida objetiva, caracterizando erro grosseiro.
+6. Agravo Interno não provido.
+(AgInt no AREsp 1847057/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/08/2021, DJe 31/08/2021)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. REVISÃO DAS PREMISSAS DA CAUSA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA Nº 83/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
