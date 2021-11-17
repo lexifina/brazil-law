@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VERA LÚCIA DE JESUS MOREIRA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Excelência, considerando que os honorários advocatícios foram majorados em grau de recurso em 2ª Instância para 18%, a r. decisão de Vossa Excelência apresenta-se, data máxima vênia, obscura/contraditória uma vez não é possível "majorar para menos" ou somar os 15% ora fixados aos 18% já determinados, vez que ultrapassaria o limite previsto no parágrafo 3º, do artigo 85, do CPC/15.
+Portanto a obscuridade ou contradição se evidencia na medida em queda r. decisão ora Embargada não se extrai sua aplicabilidade em consonância com a norma processual civil já apontada. (fl. 801).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Relativamente à majoração dos honorários advocatícios recursais fixados na decisão de fls. 789-795, decidiu-se:
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita. (fl. 795, grifo meu).
+Assim, conforme consignado no trecho em destaque, deve haver uma majoração de 15% para os honorários advocatícios, sobre o valor já previamente arbitrado nas instâncias de origem, portanto, se as instâncias de origem já fixaram o percentual de 18% a título de honorários advocatícios, obviamente a majoração definida na decisão embargada incidirá sobre esse valor previamente fixado na origem, respeitando-se os limites percentuais previstos nos §§ 2º e 3º do art. 85 do CPC.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
