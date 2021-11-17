@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de MARIA EDUARDA DIAS TEODORO apontando como autoridade coatora Desembargador relator do Tribunal de Justiça do Estado de Minas Gerais que, nos autos da Revisão Criminal n. 1.0000.21.226076-4/000, indeferiu a medida de urgência.
+Colhe-se dos autos que apaciente foi condenada, como incursa nas sanções do art. 33, caput, da Lei n. 11.343/2006, à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime fechado, mais 777 dias-multa (e-STJ fls. 15/29).
+Segundo consta, a paciente foiapreendida em posse de 698g (seiscentos e noventa e oito gramas) de cocaína e 350g (trezentos e cinquenta gramas) de crack(e-STJ fl. 18).
+Posteriormente, adefesa ajuizou revisão criminal, pugnando pelo reconhecimento de nulidade do processo, tendo em vista ilicitude de prova decorrente darealização de busca e apreensão em endereço divergente do contido no mandado judicial e onde foram localizadas drogas, as quais não pertenceriamà ora paciente.
+O pedido liminar, no entanto, foi denegado (e-STJ fls. 57/60).
+Neste writ, os impetrantes reiteram a existência de nulidade por ilicitude de prova, argumentando que, no caso, os policiais realizaram verdadeirofishing expedition, adentrando a casa da avó da paciente, local onde foram encontrados os entorpecentes.
+Sustentam, assim, que "as provas que ensejaram a condenação da paciente são NULAS de pleno direito. Outrossim, sua execução criminal não deve prosperar liminarmente, sendo possível seu impedimento de ofício" (e-STJ fl. 7).
+Requerem, dessa forma, o afastamento do óbice contido na Súmula n. 691/STF, a fim de suspender a execução da paciente. Subsidiariamente, requerem "que seja oficiado o 3º Grupo de Câmaras Criminais do Egrégio Tribunal de Justiça do Estado de Minas Gerais para que seja julgado o recurso de apelação com a máxima urgência, diantedas provas contundentes da ilegalidade dos trabalhos realizados pela força policial" (e-STJ fls. 7/8).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade.
+Este, inclusive, é o teor do enunciado 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Tal entendimento é aplicável à espécie, em que foi indeferida a liminar pleiteada em revisão criminal ajuizada na origem, consoante revela o seguinte julgado desta Corte:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE. ÓBICE DA SÚMULA 691/STF. TUTELA DE URGÊNCIA DEDUZIDA EM PLEITO REVISIONAL. NÃO CABIMENTO. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. AGRAVO NÃO PROVIDO.
+1. "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula 691 do STF).
+2. No caso, a Corte de origem indeferiu o pleito liminar, pois, além da falta de previsão legal para a dedução de medida de urgência em sede de revisão criminal, não se verifica manifesta ilegalidade no cálculo penal que autorize a medida excepcional pleiteada pela defesa, ou seja, a suspensão da execução definitiva da pena.
+3. Ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância.
+4. Agravo regimental não provido.
+(AgRg no HC 463.634/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 11/9/2018, DJe 17/9/2018, grifei.)
+No caso, não se vislumbra ilegalidade flagrante a ensejar a concessão da medida pleiteada, uma vez que, consoante constou da sentença condenatória, "em que pese a droga ser apreendida em residência diversa ao cumprimento do mandado de busca e apreensão, não merece guarida a alegação da defesa, vez que a residência onde localizada a droga, localizava-se no mesmo terreno da residência apontada como alvo, cuida-se de casa vizinha, pertencente a avó da acusada, em um à distância de cerca de três metros, conforme bem narrou a testemunha Maria do Carmo Dias Teodoro (mãe da acusada)", além do que "a entrada dos policiais na residência da avó da acusada foi devidamente permitida pela própria proprietária" (e-STJ fl. 18).
+A questão em exame, portanto, necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação levada à efeito na revisão criminal no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio à instância ordinária.
+Por isso, não havendo flagrante ilegalidade na decisão que indeferiu a liminar na origem, é inviável, no presente caso, acolher a pretensão deduzida, não sendo possível, assim, a superação do óbice imposto pela Súmula n. 691 do Supremo Tribunal Federal.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
