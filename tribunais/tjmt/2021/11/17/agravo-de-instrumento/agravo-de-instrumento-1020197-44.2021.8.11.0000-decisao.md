@@ -1,0 +1,24 @@
+RAI No. 1020197.44.2021.811.0000
+Vistos, etc...
+Trata-se de Recurso de Agravo de Instrumento interposto por BANCO DO BRASIL SA., em face da r. decisão proferida pelo juízo da 2a Vara Cível da Comarca de Cáceres/MT, que nos autos da ação de Execução no 0002973-05.2015.8.11.0006. Cód. 181160 movida em desfavor de MARLEI CRAMOLICH LOPES EIRELI – ME e ANA FLAVIELE CRAMOLICH RODRIGUES, indeferiu o pedido de nova busca de bens via Sisbajud, Renaju e Infojud, passando-se automaticamente a decorrer o prazo de prescrição intercorrente a partir de 22/09/2019.
+Sustenta o agravante que, não pode permanecer inerte ante o indeferimento da consulta ao sistema SISBAJUD para busca de bens e para realização da penhora online, isto porque o Código de Processo Civil em vigência trouxe inovações de cunho processual que visam maior proteção aos credores que muitas vezes têm suas execuções frustradas, abrindo espaço à insegurança jurídica o que afeta diretamente a economia do país.
+Aduz estar equivocado o entendimento da r. decisão, vez que o Código de Processo Civil, em seu artigo 854, trouxe inovações de cunho processual sopesando dois princípios constitucionais, a dignidade da pessoa humana e a segurança jurídica, além de outros princípios reflexos como o devido processo legal, ampla defesa, contraditório e razoável duração do processo, visando dar maior efetividade à execução, nos termos do artigo 797, do mesmo Codex.
+Afirma ainda, que o MM. Magistrado não condiz com a atual redação do artigo 438, do Código de Processo Civil; e, que o sistema SISBAJUD promove pesquisa diversa e mais eficaz que o sistema BACENJUD, revelando-se em primeira análise irrelevante o decurso de tempo desde a última pesquisa realizada ou alteração da situação econômica dos Agravados.
+Requer seja concedido o efeito suspensivo ativo pleiteado, a fim de que seja deferido liminarmente o pleito do ora Agravante, sendo determinada a realização da consulta ao sistema SISBAJUD, em nome dos Agravados; seja a parte Agravada revel, intimada a partir da publicação dos atos decisórios no órgão oficial, segundo o disposto no artigo 346, do Código de Processo Civil; seja enfim reformada a r. decisão agravada, para que seja deferida a penhora de ativos financeiros constantes em depósito ou aplicação financeira em nome dos Agravados, via sistema SISBAJUD.
+É o relatório.
+Decido
+A concessão do efeito suspensivo condiciona-se à relevância da fundamentação formulada pelo Agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Por sua vez, para a concessão do efeito ativo pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo. ”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+Pois bem. Pelos argumentos expendidos na peça inaugural, tenho que o caso comporta o efeito suspensivo pretendido, uma vez que são, a priori, consistentes.
+Assim, afigura-se prudente, a despeito da decisão em análise, sem emissão, por ora, de juízo sobre o mérito do recurso, o deferimento do efeito suspensivo, por que luta a parte agravante.
+Ante o exposto, DEFIRO PARCIALMENTE o pedido liminar, para tão somente conceder o efeito suspensivo à decisão agravada, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se a parte Agravada, na forma do art. 1.019, II do CPC, para, querendo, apresentar resposta no prazo legal.
+Comunique-se o Juízo de primeira instância sobre esta decisão, facultando-lhe prestar as informações que entender necessárias.
+Cumpra-se.
+Des. SEBASTIÃO BARBOSA FARIAS
+Relator
