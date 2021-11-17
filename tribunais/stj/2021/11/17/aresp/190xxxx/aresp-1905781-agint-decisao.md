@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo Interno interposto pelo Estado do Espírito Santo, contra adecisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. HONORÁRIOS ADVOCATÍCIOS. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULAS N. 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões recursais, o agravante sustenta que não incidem os óbices dasSúmulas n. 283 e 284 doSTF na medida em que foi devidamenteimpugnadoofundamentodo acórdão recorrido.
+Pugna, por fim, pela reconsideração da decisão, em juízo de retratação, ou pelo julgamento do presente recurso pelo Órgão Colegiado.
+É o relatório.
+Com efeito, o presente merece retratação.
+Necessário consignar que o presente recurso atrai a incidência doEnunciado Administrativo n. 3/STJ, segundo a qual "aos recursosinterpostos com fundamento no CPC/2015 (relativos a decisões publicadas apartir de 18 de março de 2016) serão exigidos os requisitos deadmissibilidade recursal na forma do novo CPC".
+Nas razões do recurso especial, a parte aduzviolação dos arts. 114, 320, 421, 422, 843 e 844 do Código Civil e art. 85 do Código de Processo Civil, sustentando ser necessária a condenação do ora recorrido em honorários advocatícios, em observância ao princípio da causalidade.
+No ponto,a Corte local fundamentou que (e-STJ fls. 749/750):
+Invocada uma interpretação teleológica e sistemática dos preceitos legais queenvolvem o contrato de parcelamento existente entre as partes, estas impõem aconsideração de que a regra normativa do artigo 85, 863º e 4º, no presente caso,revela-se subserviente ao pacto celebrado entre as partes, nada mais devendoos autores da ação pelo adimplemento da verba em razão do acordolegalmente previsto e que engloba os valores pertinentes aos honorários,tendo sidos os mesmos quitados.
+Ou seja, como já houve o pagamento dos valores devidos fora do processo (fls.685/708) por expressa imposição legal, a verba honorária não tem mais fundamentode existência no contexto do processo, pois serve a remunerar o trabalho doadvogado ou, no caso em apreço, do Procurador do Estado.
+Ademais, no contexto da presente fundamentação entendo que está, ainda, presente o instituto do venire contra factum proprium, anteriormente narrado, tendo por base a manifestação de fls. 575/577 e o que antes afirmou o Estado, pois consta no documento de fls. 555 o seguinte teor:
+ ..
+como pode se verificar na documentação anexa, as partes celebraram Termo de Acordo, referente ao crédito executado, tendo a empresa Executada, nesta oportunidade, efetuado o pagamento dos encargos processuais devidos ao Estado do Espírito Santo, bem como custas processuais.
+Isto posto, requer a SUSPENSÃO do feito até a efetiva quitação ou rescisão do acordo de parcelamento celebrado.
+O recorrente afirmou que a verba já havia sido paga e, após a sentença pleiteia a sua majoração em sentido contrário ao que afirmara anteriormente nos autos.
+Há expressa manifestação do recorrente, no curso da ação, de que houve o atendimento a norma legal do REFIS, com o pagamento dos valores devidos a título de honorários, o que se contrapõe a pretensão de reforma da decisão judicial no presente caso, eis que já houve o adimplemento da verba devida através de acordo (contrato) formulado entre as partes conforme expressamente consignado no processo.
+No especial, o recorrente argumentou que o termo de adesão ao REFIS estadual abrangeu apenas a verba honorária na ação de execução fiscal estadual, fato que não restou consignado no aresto combatido.
+Dito isso, desconstituir a conclusão do acórdão recorrido para acolher a pretensão recursal exigiria o revolvimento do acervo fático-probatório dos autos, providência inviável a teor da Súmula n. 7/STJ.
+Exemplificativamente, cito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. PROCEDIMENTO COMUM. RISCO AMBIENTAL DO TRABALHO/RAT. DECRETO Nº 6.957/2009. REENQUADRAMENTO. LEGALIDADE.CERCEAMENTO DE DEFESA. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.COMPETÊNCIA DO STF. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+I - Na origem, trata-se de ação objetivando seja reconhecida a inconstitucionalidade/ilegalidade do Decreto n. 6.957/09, no que majorou a alíquota do SAT/RAT da empresa Autora, para 3% (três por cento), bem como sejam restituídos os valores recolhidos. A sentença julgou improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - Verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. É o que se confere do seguinte trecho do acórdão: " ..  A Corte Especial deste Tribunal reconheceu a constitucionalidade da contribuição destinada ao SAT/RAT prevista no artigo 10 da Lei nº 10.666, de 08-05-2003, na sessão realizada em 25-10-2012, rejeitando, por maioria, a Arguição de Inconstitucionalidade na AC nº 5007417-47.2012.404.0000l. .. " III - Outrossim, a Corte de origem, diante da análise do conjunto probatório e no exercício do seu convencimento motivado, entendeu que a causa encontrava-se madura para julgamento.
+IV - Veja-se que a pretensão recursal implica o revolvimento de provas analisadas pelo Tribunal de origem acerca do enquadramento tributário para o aspecto quantitativo da contribuição ao SAT/RAT, o que é inviável em recurso especial. Nesse contexto, a pretensão recursal encontra óbice no Enunciado Sumular n. 7/STJ.
+V - Agravo interno improvido.
+(AgInt no AREsp 1833654/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/10/2021, DJe 25/10/2021)
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259do RISTJ, conheço do agravo interno para, em juízo de retratação,reconsiderar a decisão agravada, a fim de conhecer do agravo para nãoconhecer do recurso especial por fundamento diverso.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVO EM RECURSOESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. HONORÁRIOS. ADIMPLEMENTO NA ESFERA ADMINISTRATIVA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. JUÍZO DE RETRATAÇÃO. AGRAVO CONHECIDO PARANÃO CONHECER DO RECURSO ESPECIAL.
