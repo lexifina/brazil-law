@@ -1,0 +1,42 @@
+Vistos,
+Habeas Corpus impetrado em favor de MAURICIO DE OLIVEIRA BORGES contra ato comissivo do Juízo da 3a Vara Criminal da Comarca de Tangará da Serra, nos autos de ação penal (PJe 1002768-31.2021.8.11.0011), que converteu o flagrante em prisão preventiva pelo cometimento, em tese, do crime de tráfico de drogas e associação para o tráfico [art. 33, caput, e art. 35, ambos da Lei 11.343/2006].
+A impetrante sustenta que: 1) a decisão constritiva não estaria fundamentada em pressupostos da prisão preventiva; 2) o paciente é primário, tem endereço certo e não oferece “nenhum risco à persecução”; 3) “a prisão pode muito bem ser substituída por medidas cautelares alternativas, as quais, se descumpridas, é que autorizam a medida extrema de privação da liberdade”.
+Requer, liminarmente, a concessão da ordem para “relaxar ou suspender” a prisão preventiva (ID 109294952), com documentos (ID’s 109294953/ 109294956).
+Eis a síntese do necessário.
+Decido
+O paciente foi preso, no dia 29.8.2021, quando transportava 66 (sessenta e seis) tabletes de pasta-base de cocaína no tanque de combustível do veículo GM/S S10, Rodeio D, cor preta e placa NTZ9H.
+Em audiência de custódia, realizada em 31/8/2021, o Juízo singular, mediante requerimento do órgão do Ministério Público, homologou o flagrante e converteu o flagrante em preventiva nos seguintes termos:
+“A materialidade do crime está comprovada pelo auto de prisão em flagrante, boletim de ocorrência, laudo pericial e termos de depoimentos prestados em sede policial.
+Aliado à materialidade do delito encontram-se os indícios suficientes de autoria.
+[...]
+Quanto ao suspeito Jonathan, verifico que o relatório policial n. 2021.1311600 (id 64231701) detalha a ação do suspeito na empreitada criminosa.
+Demonstrando as diversas idas até o local de embalo do entorpecente nos últimos três dias. No dia da prisão em flagrante, o relatório aponta que o suspeito saiu de sua residência, buscou o suspeito Maurício e se dirigiu até o mencionado sítio de embalo dos entorpecentes, tudo acompanhado pela polícia, conforme mídia juntada aos autos.
+Que o suspeito Jonathan saiu do local no Fiat Uno branco junto com o suspeito Maurício, o qual dirigia a S10 que foi presa em flagrante logo em seguida.
+Neste ponto, observo que consta nos autos relatório policial e mapa de deslocamento da tornozeleira do suspeito Jhonatan indicando a ida até o mencionado sítio, corroborando para as afirmações repassadas pela depoente.
+Em audiência de custódia o suspeito informou que apenas deu uma carona para Maurício até o sítio, após beberem em um bar, mas que não o conhece.
+Verifico os indícios suficientes de autoria de ambos, uma vez que Maurício foi apreendido em fragrante com os entorpecentes e Jonathan esteve com ele no dia dos fatos no mesmo local de onde a droga partiu, sendo, ademais, já condenado pelo mesmo crime de tráfico de entorpecentes.
+Assim, materialidade resta devidamente demonstrada, bem como os indícios de autoria delitiva restam devidamente demonstradas pelos documentos e depoimentos acostados aos autos.
+O cárcere cautelar se apresenta indispensável para garantia da ordem pública e para aplicação da lei penal. A garantia da ordem pública resta abalada pela gravidade em concreto do crime.
+Neste sentido, verifica-se que com o flagrado foram encontradas grande quantidade de entorpecente, isto é, encontrados 66 (sessenta e seis) tabletes de entorpecentes de cocaína (laudo pericial de id. 64323425), que totalizam aproximados 35 (trinta e cinco) quilos de entorpecentes, a qual possui grande poder destrutivo, o que autoriza a decretação da preventiva, nos termos do Enunciado 25 do Egrégio Tribunal de Justiça:
+[...]
+Desse modo, indispensável para a ordem pública, não estando o flagranteados preparado para ao convívio social sem atentar para a segurança pública e paz social, de forma que a segregação cautelar se mostra salutar para preservação da ordem pública, diante da repugnância da sociedade perante delito dessa natureza.
+Ambos os suspeitos em audiência de custódia informaram não possuir endereço fixo e que passam temporadas em casas de parentes.
+Insta consignar, que é indispensável para a conveniência da instrução criminal, haja vista que este tipo de ilícito causa instabilidade no meio social e para evitar que novos fatos criminosos ocorram.
+A necessidade exsurge ainda do fato de que o crime de tráfico de substância entorpecente constitui grave ameaça à saúde pública, porque as drogas causam dependência física e psíquica, além de ocasionarem efeitos nefastos sobre as bases econômicas, culturais e políticas da sociedade, cujo aprisionamento do agente é medida que se impõe para se assegurar tal garantia.
+Importante salientar, ainda, que o flagrado Jhonatan William Paiva Soares se trata de pessoa contumaz na prática de crimes, uma vez que responde processo de execução penal de n. 0004369-04.2018.8.13.0702, no qual consta uma guia de execução penal referente a condenação pelo crime de tráfico de drogas praticado na Comarca de Uberlândia/MG.
+Em consulta ao PEP é possível observar que o flagrado se encontra em regime semiaberto, bem como que constam diversas notificações de violação do equipamento eletrônico, indicando, portanto, que o flagrado insiste em descumprir as determinações judiciais.
+Tais fatos demonstram a periculosidade do agente, indicando a possibilidade de reiteração delitiva, inclusive quanto ao crime de tráfico de drogas.
+Destaco que a presente decisão não se trata de violação ao princípio da inocência, pois os autuados terão o direito de defesa, mas sim protege a sociedade e os bens juridicamente tutelados pelo Estado, se enquadrando o caso no permissivo legal de levar em conta o interesse e o direito da sociedade em detrimento do direito individual de liberdade, acautelando o meio social e ceifando atitudes semelhantes com a reincidência das condutas dos autuados.
+Ademais, o delito em questão é punido com pena privativa de liberdade máxima superior a 04 (quatro) anos de reclusão.
+Diante o exposto, homologo a prisão em flagrante dos autuados Mauricio de Oliveira Borges e Jhonatan William Paiva Soares, nos termos dos artigos 311 e 312 ambos do Código de Processo Penal, converto-a em prisão preventiva” (Sabrina Andrade Galdino Rodrigues, juíza de Direito – ID 109294955).
+A decisão constritiva está fundamentada na garantia da ordem pública, consubstanciada na gravidade do tráfico de drogas, extraída do envolvimento do paciente, em associação ao codenunciado Jhonatan William Paiva Soares no transporte de expressiva quantidade de pasta-base de cocaína [aproximadamente 35kg (trinta e cinco quilos), divididos em 66 (sessenta e seis) tabletes].
+O c. STJ firmou entendimento no sentido de que a quantidade e natureza da droga constituem fundamentos idôneos e suficientes para a decretação da custódia cautelar (EDcl no AgRg no HC 633347/SC – Relator: Min. Olindo Menezes - 7.5.2021; AgRg no HC 647163/RS - Relator: Ministro Ribeiro Dantas - 26.04.2021).
+No mesmo sentido, segue o Enunciado Criminal 25 deste e. Tribunal: “A expressiva quantidade e/ou variedade de drogas ensejam garantia da ordem pública para decretação ou manutenção de prisão preventiva”.
+Conquanto a defesa afirme que o paciente possui bons predicados, “as condições pessoais favoráveis não justificam a revogação, tampouco impedem a decretação da custódia cautelar, quando presente o periculum libertatis” (Enunciado Orientativo n. 43 da Turma de Câmaras Criminais Reunidas desta Corte (IUJ 101532/2015).
+Pelo exposto, ao menos por ora, não vislumbro ser suficiente a aplicação de medidas cautelares diversas da prisão, notadamente ao considerar que o paciente teria sido contratado para transportar a pasta-base de cocaína de região fronteira com a Bolívia [Mirassol D’Oeste/MT] até outro Estado da Federação [Jataí/GO], a evidenciar maior reprovabilidade da conduta diante da intenção de disseminar droga de alto poder viciante em território nacional (STJ, RHC 69.245/AC – Relatora: Min. Maria Thereza de Assis Moura – 19.4.2016).
+Esta análise não prejudica o exame mais acurado da matéria após o recebimento das informações a serem prestadas pelo juízo a quo.
+Com essas considerações, INDEFIRO o pedido liminar.
+Requisitem-se as informações necessárias, e, após, colha-se a manifestação da Procuradoria-Geral de Justiça.
+Cuiabá/MT, 17 de novembro de 2021.
+Desembargador ORLANDO DE ALMEIDA PERRI,
+Relator em substituição regimental
