@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se embargos de declaração opostos por DAVID RONEY SOUSA PINTO em face de decisão de minha lavra que admitiu o seu agravo em recurso especial, conheceu em parte do recurso especial e, com fundamento na Súmula 568 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ, negou-lhe provimento para manter a condenação pela prática do delito tipificado no art. 16 da Lei n. 10.826/03.
+O embargante suscita omissão quanto ao pedido de reenquadramento do tipo penal para o previsto no art. 12 da Lei n. 10.826/03, constante no agravo em recurso especial, em razão do Decreto Presidencial n. 9.785/19. Destaca que o referido decreto foi revogado pelo Decreto Presidencial n. 9.847/19 e regulamentado pela Portaria n. 1.222/2019 do Ministério da Defesa. Entende haver novatio legis in mellius aplicável ao caso concreto, eis que o art. 2º, I, "a", do Decreto Presidencial n. 9.847/19 e a citada portaria enquadram armas de fogo de calibre 9 mm como armas de uso permitido.
+Requer seja suprida omissão, com desclassificação da conduta.
+Intimado em razão do pedido de efeitos infringentes, o MINISTÉRIO PÚBLICO DE MATO GROSSO DO SUL - MPE ofertou contrarrazões pelo não conhecimento ou pela rejeição dos aclaratórios, sem acolhimento da desclassificação.
+Destacou que o Decreto Presidencial está em discussão no SUPREMO TRIBUNAL FEDERAL - STF (ADPF 581). Aduziu que a tese desclassificatória não foi analisada pelo Tribunal de origem, configurando falta de prequestionamento, e a concessão do pleito acarretaria indevida supressão de instância.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal.
+No caso concreto, ao revés do alegado pelo embargante, não há que se falar em omissão no julgado.Adotou-se fundamentos precípuos e suficientes no decisum embargado, a fim de negar provimento ao recurso especial.
+O embargante pretende, em verdade, a modificação do provimento anterior, inovando natese denovatio legis in mellius,eis que o art. 2º, I, "a", do Decreto Presidencial n. 9.847/19 e a citada portaria enquadram armas de fogo de calibre 9 mm como armas de uso permitido.
+É vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestioveiculada no recurso especial, inovando questões não suscitadas anteriormente (EDcl no AgRg no REsp 1660712/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA,DJe8/6/2018).
+Além disso, não logra cognição o recurso especialfundado na violação de dispositivos contidos emdecreto presidencial, poistal ato normativo - secundário - não está compreendido, pelo prisma sistemático, no conceito de lei federal.
+Assim, reforça-se a inexistência de omissão e sim mera insatisfação com o resultado da demanda, incabível na via dos aclaratórios(EDclno AgInt na CR 11.165/EX, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/12/2017, DJe 9/2/2018)." (EDclno AgRg noREsp1.683.591/PI, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 02/04/2018).
+Ante o exposto, rejeito os presentes embargos de declaração.
