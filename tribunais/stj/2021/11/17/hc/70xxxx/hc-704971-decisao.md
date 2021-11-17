@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOEDSON ALMEIDA DOS SANTOS contra decisão monocrática de Desembargador do Tribunal Regional Federal da 1.ª Região proferida no Processo n.1013447-38.2021.4.01.0000.
+Nos autos de inquérito policial cujoobjetivo é apurar aextração ilegal de ouro no Município de Centro Novo do Maranhão/MA, a Autoridade Policial formulourepresentação almejando o deferimento de diversas medidas cautelares em desfavor do ora Paciente e de outros investigados.
+O Juízo de primeiro grau deferiu pedidos de prisão preventiva e de busca e apreensão contra o Paciente.Contudo, após tomar conhecimento de que o ora Paciente logrou êxito nas eleições de 2020 para o cargo de Prefeito do referido município, o Magistrado singular entendeu serincompetente para processar e julgar o caso, determinandoa remessa dos autos para o Tribunal a quo.
+ODesembargador Relator do feito na origem, na decisão ora atacada, entendeu que a Corte Regional não é competente para processar o feito e determinou a remessa dos autos ao Juízo de piso, afirmando, em suma, que "as condutas delituosas narradas na representação da Autoridade Policial somente poderiam ter ocorrido, em tese, em data anterior ao exercício funcional que justificaria a prerrogativa do foro especial, hipótese que afasta a competência desta Corte Regional Federal para processar o feito" (fl. 22).
+Daí o presentewrit, no qual a Defesa sustentaa competência do Tribunal Regional Federal da 1.ª Região para processar e julgar o feito, em razão do foro por prerrogativa de função.Para tanto, aduz, em suma, que os crimes investigados foram supostamente cometidos quando o Paciente exercia o cargo de Prefeito Municipal.
+Afirma que a decisão ora atacada "se equivocou na análisedo contexto probatório dos autos" (fl. 6) e ensejou inúmeras ilegalidades, como a prisão preventiva decretada por Juiz incompetente, que, assim, deve ser anulada.
+Requer, em liminar e no mérito, seja reconhecida a competência do Tribunal a quopara processar e julgar o feito e, consequentemente, a nulidade da decisão que decretou a prisão preventiva do Paciente. Subsidiariamente, pleiteia a aplicação de medidas cautelares diversas da prisão.
+É o relatório.Decido.
+Observo que o presente writ foi manejado contra decisão singular doDesembargadorRelatordo Tribunal Regional Federal da 1.ª Região, não tendo havido a interposição de agravo regimental objetivando a manifestação do Órgão Colegiado.
+Assim, ausente o exaurimento da instância ordinária, e, não se tratando de hipótese excepcional de flagrante ilegalidade- a decisão atacada deixou assente não haver "nenhum indicativo de que os crimes sob investigação tenham sido praticados durante o exercício do cargo e nas hipóteses relacionadas às funções desempenhadas" (fl. 22) -, impõe-se o não conhecimento da presente ação mandamental.
+Cuida-se de entendimento firmado pelas duas Turmas que compõem a Terceira Seção desta Corte, como demonstram os seguintes precedentes, a título ilustrativo:
+" ..
+1. A jurisprudência desta Corte é pacífica no sentido de que, não tendo a parte recorrente interposto agravo regimental para esgotamento da instância anterior, com vistas a atender os ditames do art. 105, II, da Constituição Federal, é incabível a impetração do habeas corpus, só se flexibilizando esse entendimento quando constatada ilegalidade flagrante. Precedentes.
+2. Agravo regimental improvido." (AgRg no HC 503.168/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/05/2019, DJe 04/06/2019; sem grifos no original.)
+" ..
+2. Hipótese em que o ato indicado como coator e impugnando na impetração, praticado por Desembargadora do TJRJ, deve ser submetido à análise do órgão julgador competente, por meio de agravo interno, não estando inaugurada, portanto, a jurisdição desta Corte Superior, consoante determinado no art. 105, II, a, da CF. Assim, a matéria não pode ser examinada, sob pena de supressão de instância.
+3. Agravo regimental não provido." (AgRg no HC 507.396/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/05/2019, DJe 20/05/2019; sem grifos no original.)
+Cito, ainda, julgados proferidos pelas Primeira e Segunda Turmas do Supremo Tribunal Federal:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. SUPRESSÃO INSTÂNCIA.
+1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Precedentes.
+ ..
+3. Agravo regimental conhecido e não provido" (HC 171.614 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 03/09/2019; grifos diversos do original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS.  .. .2. Penal e Processual Penal. 3. Sequestro e cárcere privado, extorsão e corrupção passiva (arts. 148, 158, § 1º, c/c o art. 29, e art. 317, § 3º e 4º, "a" e "c", da Lei 4.898/1965). 4. Retirada do monitoramento eletrônico. 5.Habeas corpus impetrado contra decisão monocrática do STJ. Impossibilidade. Esgotamento das vias recursais. Precedentes.6. Agravo regimental a que se nega provimento" (HC 170.091 AgR, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, DJe 03/09/2019; grifos diversos do original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADORRELATORNO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. PRECEDENTES.PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
