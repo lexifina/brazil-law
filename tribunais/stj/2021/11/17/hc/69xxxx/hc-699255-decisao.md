@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LIDIO SOUZA DE ANDRADE NETOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2247116-86.2020.8.26.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese,de tráfico de drogas e associação para o mesmo fim, por haver sido flagrado, em companhia de corréus, em posse de "30 (trinta) tablets de Cannabis sativa L, droga popularmente conhecida como "maconha", com peso aproximado de 1kg  um quilograma  cada pacote, 13 tablets de cocaína, com peso aproximado de 1kg um quilograma  cada pacote" (e-STJ fls. 31/32).
+Consta ainda que "LÍDIO DE SOUZA ANDRADE NETO, qualificado a fls. 16/17, fez uso de documento público falsificado" (e-STJ fl. 32).
+O Tribunal de origem concedeu a ordem à corré Daniela de Castro Miranda(e-STJ fls. 58/63).
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea e que o pacienteestaria na mesma situação da corré.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+É o relatório.
+Decido.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva(e-STJ fl. 50):
+No presente caso, após o flagrante noticiado nos autos, onde Lídio Souza de Andrade Neto e seus irmãos Roberto e Luciano, foram presos com R$30.000 (trinta mil reais) em dinheiro sem origem comprovada, sendo posteriormente descoberto que esperavam um carregamento de drogas, resultando na apreensão de vultosa quantia de drogas, de alto valor comercial, o setor de investigação, com autorização judicial, acessou os dados do aparelho celular de Lídio e identificou o interlocutor "vlo", descobrindo se tratar da investigada Daniela de Castro Miranda.
+Esta por sua vez, nas mensagens trocadas com Lídio, demonstra o conhecimento de toda operação do recebimento da carga de drogas, bem como, apontou o setor de investigação, possui vínculo com Claudair Lopes de Faria, narcotraficante detido em Presidente Venceslau.
+Há indícios suficientes do envolvimento de Daniela no tráfico de drogas e na pirâmide da organização criminosa.
+Salienta-se que a proteção constitucional não pode servir como mote para abrigar ilícitos, organizações criminosas, e produtos criminosos, tampouco garantir a impunidade após a prática de fatos desta natureza, sendo de extrema necessidade a medida.
+Conforme visto acima, o decreto de prisão preventiva tevecomo lastro para a segregação cautelar do agente a grande quantidade de drogas apreendidas - a saber, "30 (trinta) tablets de Cannabis sativa L, droga popularmente conhecida como "maconha", com peso aproximado de 1kg  um quilograma  cada pacote, 13 tablets de cocaína, com peso aproximado de 1kg  um quilograma  cada pacote" (e-STJ fls. 31/32)-, o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+ ..
+3. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente, uma vez que foi apreendida elevada quantidade de entorpecentes (aproximadamente 1,050kg - um quilograma e cinquenta gramas - de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+ ..  (AgRg no RHC n. 125.192/SC, de minha relatoria, SEXTA TURMA, julgado em 12/5/2020, DJe 18/5/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE READEQUAÇÃO DA PRISÃO CAUTELAR COM O REGIME INTERMEDIÁRIO IMPOSTO NA SENTENÇA. AGRAVO DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida - mais de 1 (um) quilograma e 200 (duzentas) gramas de maconha. Precedentes.
+ ..  (AgRg no HC n. 560.702/MG, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/5/2020, DJe 28/5/2020.)
+Quanto à alegação de que o agente faz jus à extensão dos efeitos da ordem concedida a corréus, passo a colacionar os termos da liminar indeferida pelo Tribunal de origem (e-STJ fl. 62):
+Ao reverso do sustentado, a situação de Lídio é diversa. Além de possuir maus antecedentes (autos n. 0202624-21.2006.S.26.0651 - fls. 180/182), ele estava foragido da justiça quando foi preso em flagrante no dia 31.07.2020. Na ocasião, ainda apresentou documento falso e afirmou chamar-se Reginaldo, razão pela qual foi o único dos réus a ser denunciado como incurso nos arts. 33 e 35, da Lei n. 11.343/06, e também no art. 304, "caput", c.c art. 297, "caput". ambos do Código Penal, em concurso material.
+Como consabido, oart. 580 do Código de Processo Penal prescreve que, "no caso de concurso de agentes  .. , a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Assim, a extensão dos efeitos de benefício concedido a um réu depende da demonstração de que não houve particularização dos fundamentos que não se apliquem aos demais.
+Portanto, éo caso de se indeferir o pleito de extensão dos efeitos, em razão da evidente distinção de situação fático-processual, como visto na transcrição acima.
+No mesmo sentido opinou o Ministério Público Federal, de cujo parecer transcrevo excerto, in verbis (e-STJ fl. 111):
+Nesse contexto, verifica-se, de plano, que a impetrante não comprovou a necessária similitude fática e jurídica entre a situação do paciente e da outra ré, de modo a permitir a pretendida extensão, razão pela qual inexiste constrangimento ilegal a ser sanado por essa Colenda Corte.
+Ante todo o exposto, acolho o parecer ministerial e denego a ordem.
+Publique-se. Intimem-se.
