@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALISSON FIGUEIREDO DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA.
+Consta dos autos que o paciente foi condenado à pena de 1ano e 8 mesesde reclusão, no regime inicialmente fechado, mais 166 dias-multa, pela prática do delito inscrito no art. 33, § 4º, da Lei n. 11.343/2006, substituída a sanção corporal por duas medidas restritivas de direitos (e-STJ fls. 37/48).
+Não houve interposição de recurso pelas partes, transitando em julgado a sentença (e-STJ fl. 310).
+Neste writ, o impetrante aponta constrangimento ilegal, porquanto fixado regime prisional mais gravoso do que o cabível segundo a pena aplicada, sem fundamentação idônea. Assinala, sobretudo, que, consoante entendimento firmado pelas Corte Superiores, o tráfico privilegiado não pode serconsiderado crime hediondo ou equiparado.
+Requer, liminarmente, que o paciente aguarde no regime aberto o julgamento final deste write, no mérito, pugna pela confirmação da liminar.
+É o relatório.
+Decido.
+De pronto, verifica-se que a matéria ventilada no presente writ não pode ser analisada por este Superior Tribunal de Justiça, tendo em vista que a irresignação do paciente não foi submetida à apreciação do Tribunal de origem, fato que obsta a análise da impetração por este Sodalício, sob pena de indevida supressão de instância.
+Com efeito, não constam nos autos elementos que demonstrem a existência de decisão ou acórdão do Tribunal a quo apreciando a questão objeto deste mandamus.
+Estabelece o art. 105, I, "c", da Constituição Federal, que compete a esta Corte processar e julgar habeas corpus quando o coator for tribunal sujeito à sua jurisdição, o que não ocorre na espécie. Deste modo, não pode ser conhecida a pretensão nesta Corte, por tratar-se de irresignação per saltum. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. IDADE AVANÇADA. PEDIDO NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. SALVO-CONDUTO. IMPEDIR O RECOLHIMENTO PARA INICIAR O CUMPRIMENTO DE PENA EM REGIME SEMIABERTO. INVIABILIDADE. AGRAVO DESPROVIDO.
+I - O agravo regimental deve trazer argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão impugnada por seus próprios fundamentos.
+II - O cabimento de prisão domiciliar, em razão da idade avançada do paciente, não foi apreciado pelo eg. Tribunal a quo, o que impede que esta Corte Superior conheça do recurso no ponto, sob pena de incorrer em indevida supressão de instância.
+III - É inviável a expedição de salvo-conduto para impedir que o recorrente seja recolhido à prisão para dar início ao cumprimento da pena em regime semiaberto. Não há como pressupor, por mera conjectura, que não haverá vaga em estabelecimento penal adequado ao regime imposto na sentença, porquanto, em verdade, referida constatação pressupõe o início da execução da pena, com o recolhimento do sentenciado, momento em que se deflagra a competência do Juízo da Execução. Agravo regimental desprovido. (AgRg no RHC 93.864/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018, grifei)
+Ante o exposto,com fundamento no art. 210 do Regimento Interno doSuperior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
