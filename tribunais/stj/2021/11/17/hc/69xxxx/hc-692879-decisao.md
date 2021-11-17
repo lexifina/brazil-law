@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deLUCAS HENRIQUE SILVA LIMA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - Apelação n. 1502699-70.2019.8.26.0535.
+Depreende-se dos autos que o paciente foi condenado à pena de 15 anos e 6 meses de reclusão e 30 dias-multa, em regime prisional fechado, como incurso no artigo 157, § 2º, inciso II, e § 2º-A, inciso I, e artigo 148, § 1º, I e IV, ambos do Código Penal (roubo majorado e cárcere privado).
+No julgamento da apelação, o Tribunal de origem deu provimento parcial ao recurso da defesa, a fim de absolver o réu do crime de cárcere privado, redimensionando sua reprimenda para 12 anos de reclusão, mantendo-se, no mais, a sentença condenatória. Eis a ementa (e-STJ fl.34):
+Apelação das Defesas Roubo em concurso de agentes e mediante o emprego de arma de fogo Provas suficientes às condenações Réus detidos em flagrante em poder da quantia em dinheiro subtraída e da arma de fogo Confissão do acusado Lucas e negativa do corréu Depoimentos harmônicos da vítima e dos policiais militares Acusado Luiz Carlos que deu fuga à dupla em seu veículo, após a prática do assalto Causas de aumento bem demonstradas Crime praticado em comparsaria Arma de fogo apreendida em poder de Lucas Crime de cárcere privado imputado ao acusado Lucas Absolvição por atipicidade Acusado que invadiu um domicilio para escapar do cerco policial Inexistência de provas a respeito da sua intenção em manter os moradores do imóvel privados da liberdade Elemento subjetivoAbsolvição que se impõe Dosimetria da pena Ajuste, com relação ao acusado Luiz Carlos Possibilidade de redução da sua pena-base ao mínimo legal, a míngua de maus antecedentes Regime prisional fechado mantido para ambos os acusados Necessidade de maior rigor no início documprimento da pena dos delitos praticados com grave ameaça contra a pessoa Recursos de apelação parcialmente providos.
+Nas razões do presente writ, a impetrante sustenta a existência de constrangimento ilegal na exasperação da pena-base, afirmando que "processos em andamento não podem caracterizar maus antecedentes por ser uma violação clara ao princípio da presunção de inocência. E chamar os processos em andamento de "personalidade" não altera a sua natureza jurídica" (e-STJ fl. 5).
+Afirma que, "na segunda fase da dosimetria, há que se reconhecer a presença da atenuante genérica da confissão espontânea, eis que, interrogado, o paciente Lucas assumiu a autoria delitiva, nos termos exigidos pelo diploma pena" (e- STJ fl. 8).
+Por fim, "requer seja reformada a dosimetria, a fim de se aplicar, unicamente, o maior aumento na terceira fase da dosimetria, qual seja, 2/3" (e-STJ fl. 11).
+Requer, liminarmente e no mérito, "seja reduzida a pena base, reconhecida a atenuante da confissão e aplicado o artigo 68, parágrafo único, do Código Penal" (e- STJ fl. 11).
+O pedido liminar foi indeferido.
+Informações prestadas.
+Parecer ministerial pela concessão parcial da ordem.
+É, em síntese, o relatório.
+Decido.
+Depreende-se dos autos que o presente writ é mera reiteração do pedido feito no HC n. 679.192/SP (referente à Apelação Criminal n. 502699-70.2019.8.26.0535),também de minha relatoria, no qual já proferi decisão concedendo a ordem para reduzir a reprimenda do paciente, a qual transitou em julgado em 13/10/2021.
+Ante o exposto, diante da constatação de que o presente remédio constitucional é mera reiteração, não conheço do habeas corpus.
+Publique-se. Intimem-se.
