@@ -1,0 +1,17 @@
+DECISÃO
+CAIOM EDUARDO DA SILVA BURGHETIinterpõe recurso especial (fls. 1.293-1.308), com fundamento no artigo 105, III, "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná na Apelação n. 1500468-22.2019.8.26.0066.
+O recorrente, condenado por incursão no art. 157, § 3º, II, c/c. o art. 14, II, do CP, afirma que a fração (1/3) utilizada para agravar a pena na segunda fase da dosimetria não se alinha à jurisprudência desta Corte Superior. Aponta como paradigma o Agravo Regimental no Agravo em Recurso Especial nº 1.413.531 - GO.
+Pede a redução da reprimenda.
+O Ministério Público Federal opinou pelo não conhecimento do reclamo ou por seu desprovimento.
+Decido.
+Incide a Súmula n. 284 do STF, pois é firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação do dispositivo de lei federal ao qual teria sido dada interpretação divergente no acórdão impugnado implica deficiência na fundamentação do recurso especial, a ensejar o seu não conhecimento.
+Todavia, pela mera leitura do acórdão recorrido, verifica-sesituação de flagrante ilegalidade, passível de correção de ofício, nos termos do art. 654, § 2º, do CPP.
+O Tribunal de origem salientou: "Para CAIOM fixo a pena no mínimo legal e pela reincidência (cf. certidão de fls. 97 Processo nº 0002588-20.2016.8.26.0066 data do trânsito em julgado: 26/09/2017, data do fato 26/02/2019, tráfico de drogas) elevo a pena em um terço (1/3)" (fl. 1.280).
+Ocorre que "a aplicação de circunstâncias atenuantes ou agravantes, isoladamente, enseja a incidência da fração paradigma de 1/6 (um sexto) para o devido ajuste da pena na segunda fase" (HC 347.799/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/05/2016, DJe 27/05/2016).
+Ilustrativamente: "Consoante entendimento firmado pelo Superior Tribunal de Justiça, a aplicação de fração superior à 1/6, pelo reconhecimento das agravantes e das atenuantes genéricas, exige motivação concreta e idônea" (AgRg no AREsp 1885704/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/10/2021, DJe 22/10/2021).
+Deveras: "embora não constem da legislação os parâmetros de aplicação das causas genéricas de aumento e de redução de pena, o Superior Tribunal de Justiça, considerando os princípios da proporcionalidade e da razoabilidade, firmou entendimento no sentido de que a adoção de fração diversa de 1/6 para cada atenuante ou agravante exige motivação específica e idônea do julgador" (AgRg no HC 661.765/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 21/09/2021, DJe 24/09/2021).
+Assim, é possível a correção, de ofício, da pena do recorrente, que passo a redimensionar:
+O recorrente foi condenado por latrocínio tentado. Mantém-se a fixação da pena-base no mínimo legal, de 20 anos de reclusão e 10 dias-multa, aumentada em 1/6, em razão da reincidência, o que resulta em 23 anos e 4 meses de reclusão, mais 11 dias-multa. Reconhecida a continuidade delitiva, com a aplicação da diminuição em 2/3, chega-se à pena final de 7 anos, 9 meses e 10 dias de reclusão, e 3 dias-multa.
+Em razão da reincidência, permanece inalterado o regime inicial fechado.
+À vista do exposto, não conheço do recurso especial. Entretanto, concedo habeas corpus, de ofício, para corrigir a manifesta desproporcionalidade da dosimetria e reduzir a pena do recorrido para 7 anos, 9 meses e 10 dias de reclusão, e 3 dias-multa.
+Publique-se e intimem-se.
