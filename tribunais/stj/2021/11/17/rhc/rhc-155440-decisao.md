@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se  de  Recurso ordinário em  habeas  corpus  interposto  em  favor  de LUIZ OTAVIO TORRES DE AZEVEDO JUNIOR  contra  acórdão  proferido  pelo Tribunal  de  Justiça  do  Estado  do Amapá  no HC n. 0001421-35.2021.8.03.0000 .
+Consta  dos  autos  que  o  Juízo de Direito da LP Vara Criminal da Comarca de Macapá condicionoua expedição da carta de guia de execução aorecolhimento do recorrente ao cárcere pela condenação nos autos do Processo nº 0045101-72.2018.8.03.0001  (e-STJ ,  fls.  575/576).
+A  defesa,  então,  insatisfeita,  impetrou habeas corpus, perante a Corte de origem.  O  Tribunal,  contudo,  denegou a ordem e julgou o Agravo Interno prejudicado,  nos  termos  da  seguinte  ementa  (e-STJ,  fl.  575):
+DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS. CONVERSÃO DE PRISÃO. PRETENSÃO DE PRISÃO DOMICILIAR. CONDENAÇÃO. CONDIÇÃO IMPOSTA PELA LEI PARA EXPEDIÇÃO DA CARTA DE GUIA. ORDEM DENEGADA. 1) Considerando que o art. 674 do Código de Processo penal é claro sobre a necessidade da prisão para expedição da carta de guia para o recolhimento carcerário e início do cumprimento da pena, não subsiste a alegação de ilegalidade a ser reparada por meio de writ; 2) Ordem denegada e Agravo interno prejudicado.
+Nesta via, a defesa relata que o recorrente, apesar de processado e condenado na ação penal nº 0045101-72.2018.8.03.0001, que tramitou na 4ª Vara Criminal da Comarca de Macapá/AP, pela conduta descrita no Art. 312 "Caput", do CP e sendo condenado à pena dois (02) anos e oito (08) meses de reclusão em regime semiaberto, jácumpre pena nos autos de Execução Penal nº 0062610-5.2014.8.03.0001, atualmente estando em regime de prisão domiciliar,a fim de tratar de moléstia - Depressão Recorrente, na forma de tratamento ambulatorial.
+Desse modo, pretende aexpedição de carta guia, em relação aos autos de Execução Penal nº 0062610-5.2014.8.03.0001.
+Instado a se manifestar, o Ministério Público Federal informou que a imeptração originária foi novamente julgada, por equívoco, ainda que mantidos o relatório, voto e ementa. Assim, opinou para que seja desconsiderado o segundo julgamento, mantendo o RHC 151163/AP, na íntegra (e-STJ, fls. 598/600).
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+No caso, o presente recurso apresenta as mesmas partes - mesmo recorrente e mesmo ato coator (HC n. 001421-55.2021.8.03.0000 e HC n.0001421-35.2021.8.03.0000- números diversos, mas com o mesmo teor), mesmo pedido e mesma causa de pedir constante do RHC n. 151.163/AP.
+Assim, por se tratar de mera reiteração, o presente recurso não pode prosseguir.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE. 1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015. 2. Agravo regimental improvido. (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º/9/2015, DJe 22/9/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
