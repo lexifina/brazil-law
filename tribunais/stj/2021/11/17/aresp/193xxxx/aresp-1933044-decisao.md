@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porANTRANIK KISSAJIKIAN, ASDGHIG KISSAJIKIAN,contra decisão que negou seguimento a recurso especial fundamentadonasalíneas"a" e"c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/05/2021.
+Concluso ao gabinete em: 18/09/2021.
+Ação: embargos de terceiroopostos poropostos por MARGARIDA MARIA ABRANTES FREIRE GENOV e ESPÓLIO DE DEMETRIO GENOV FILHO em desfavor de ANTRANIK KISSAJIKIAN e ASDGHIG KISSAJIKIAN.
+Sentença: julgou procedente o pedido para "tornar sem efeito a adjudicação determinada nos autos nº 0109740-50.2001.8.26.0100  ação de adjudicação compulsória ajuizada pelos embargados em face da Massa Falida da Columbus Empreendimentos Imobiliários Ltda.), em relação ao imóvel descrito na matrícula nº 169.769 do 4º Cartório de Registro de Imóveis de São Paulo/SP  apartamento nº 12 do Edifício Golden Garden, situado na Alameda Joaquim Eugênio de Lima, nº 1.254, Jardim Paulista".
+Acórdão: negou provimento àapelação. A ementa restou assim redigida:
+EMBARGOS DE TERCEIRO - Imóvel de propriedade de construtora cuja falência veio a ser decretada, que foi objeto de compromisso de compra e venda celebrado com os apelantes em 1998 - Compromisso não levado a registro - Posterior ajuizamento de ação de adjudicação compulsória pelos apelantes em face da construtora, tendo a pretensão sido acolhida - Ausência de registro da existência da ação, ou da citação nela determinada - Ação de adjudicação compulsória aforada em 2002 - Outorga, pela construtora, de escritura pública de venda de imóvel em favor de outros adquirentes, em 2006, em cumprimento a compromisso de compra e venda datado de 1998 - Escritura levada a registro - Imóvel novamente alienado, pelos proprietários registrais, por escritura pública, aos embargantes apelados - Pretensão dos embargantes de afastar a constrição e eventual reintegração de posse, oriunda do desfecho da ação de adjudicação compulsória - Sentença de procedência - Irresignação dos embargados - Não acolhimento - Sentença proferida na ação de adjudicação compulsória que não estende os seus efeitos aos embargantes- Transmissão do imóvel, por compromisso de compra e venda, aos antecessores dos apelados, em data anterior ao ajuizamento da ação de adjudicação compulsória - Inexistência de alienação de coisa litigiosa - Posterior alienação aos embargantes, cuja boa-fé se presume, já que nem o compromisso de compra e venda celebrado com os embargados, nem a ação de adjudicação compulsória por eles aforada foram registradas, tendo eles adquirido o imóvel não da Construtora ré na ação de adjudicação, mas dos adquirentes do imóvel, cuja escritura foi registrada - Direito de propriedade que decorre do registro, dotado de eficácia "erga omnes" - Adjudicação compulsória que tem caráter pessoal e não real - Recurso desprovido.
+Embargos de Declaração: opostos pelos ora agravantes, foram rejeitados.
+Recurso especial: os recorrentes alegam violação dos arts. 1225, VII, do CC;503, 966 e 974 do CPC, bem como dissídio jurisprudencial. Aduzem que "ao tempo da aquisição já estava em curso o processo de adjudicação compulsória e os recorrentes já titulavam os direito". Asseveram que "é necessário para alegar boa-fé que se faça pesquisa no Distribuidor Forense para se ter conhecimento da existência de feitos judiciais contra o alienante que terá que demonstrar sua boa-fé, o que aqui não ocorreu".
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento:aplicação do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram, de forma objetiva, como o acórdão recorrido violou os arts. 1225, VII, do CC; 503, 966 e 974 do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+O TJ/SP consignou que "não há prova de má-fé dos embargantes, seja porque o compromisso com os embargados e a adjudicação compulsória não foram registrados, seja porque o imóvel foi objeto de compromisso celebrado com os antecessores dos adquirentes, datado de 1998, antes doajuizamento da ação de adjudicação. Nessas circunstâncias, não havia mesmo como prestigiar a adjudicação compulsória da qual os embargantes - terceiros de boa-fé - não participaram".
+Alterar o decidido no acórdão impugnado, no que se refere a (explicitar matéria), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 10% os honorários fixados anteriormente (e-STJ. fls. 345).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO.FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Embargos de terceiro.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido. Recurso especial não conhecido.
