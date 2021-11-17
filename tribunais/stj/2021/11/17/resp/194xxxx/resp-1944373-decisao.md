@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, III, "a", da Constituição Federal contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 214):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. FÉRIAS. USUFRUTO AINDA DURANTE O PERÍODO AQUISITIVO. POSSIBILIDADE. GOZO DE DUAS FÉRIAS NO MESMO ANO.AUSÊNCIA DE VEDAÇÃO LEGAL. EXIGÊNCIA DE CUMPRIMENTO DE INTERSTÍCIO DE 12 (DOZE) MESES APENAS QUANTO AO PRIMEIRO PERÍODO AQUISITIVO. APELAÇÃO IMPROVIDA.
+1. Apelação desafiada pela União Federal em face da sentença que julgou procedente o pedido inicial paradeterminar que a Ré conceda à parte Autora o gozo de suas férias ainda durante o respectivo período aquisitivo, independentemente de implicar no gozo de dois períodos de férias no mesmo ano.
+2. O cerne da questão consiste em saber se a parte Autora possui direito ao gozo de suas férias aindadurante o respectivo período aquisitivo, nos termos do art. 77, § 1º, da Lei 8.112/90.
+3. O direito a férias vem assegurado no art. 7º, XVII, da Constituição Federal, como um direitofundamental do trabalhador, expressamente estendido aos servidores públicos por força do art. 39, § 3º, também da Constituição Federal.
+4. No caso dos autos, A autor, sendo servidor público federal, será regido em sua relação estatutária pelaLei nº 8.112/90. Tal lei prevê em seu artigo 77, § 1º, in verbis: "O servidor fará jus a trinta dias de férias,que podem ser acumuladas, até o máximo de dois períodos, no caso de necessidade do serviço, ressalvadas as hipóteses em que haja legislação específica. § 1o Para o primeiro período aquisitivo de férias serão exigidos 12 (doze) meses de exercício."
+5. Da simples leitura do dispositivo legal acima, constata-se que a única restrição imposta pela lei serefere ao primeiro período aquisitivo de férias.
+6. Conforme consta dos autos, o autor protocolou requerimento administrativo pleiteando o direito degozar as férias relativas ao período aquisitivo ainda em curso, o qual fora negado, ao argumento de que é vedado ao servidor o gozo de dois períodos de férias (60 dias) no mesmo ano (Id. 9601508).
+7. O argumento apontado pela Ré não merece ser acolhido, tendo em vista que a administração públicaestá vinculada ao princípio da legalidade, e como mostrado acima, os servidores públicos federais são regidos pela Lei nº 8.112/90, que em momento algum veda a concessão do gozo de dois períodos de férias no mesmo ano. Nesse sentido, os seguintes precedentes desta egrégia Corte Regional: Processo 0806887-53.2019.4.05.8300, AC - Apelação Cível -, Rel. Desembargador Federal Edílson Nobre, 4ª Turma, julgamento: 03/10/2019; e Processo 0801698-31.2018.4.05.8300, AC - Apelação Cível -, Rel.Desembargador Federal Alexandre Costa de Luna Freire, 1ª Turma, julgamento: 09/08/2019.
+8. Assim uma vez demonstrada a possibilidade de concessão de férias nos termos formulados peloservidor, a manutenção da sentença combatida é medida que se impõe.
+9. Apelação improvida. Honorários sucumbenciais fixados na sentença majorados em 10% (dez porcento) para fins do disposto no art. 85, § 11, do CPC.
+Embargos de Declaração não acolhidos.
+No recurso especial, a parte recorrente alega violação dos arts. 77 e 78, § 3º, ambos da Lei n.8.112/1990, alegando, em síntese, que não cabe o gozo de dois períodos de férias no mesmo exercício, "salvo por justificação administrativa no caso de necessidade do serviço devidamente fundamentada" (fl. 224).
+Com contrarrazões às fls. 228-247.
+Juízo positivo de admissibilidade às fls. 270.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Acerca da controvérsia, de acordo com a jurisprudência do Superior Tribunal de Justiça, emrelação aos servidores públicos, a limitação temporal de 12 mesespara a fruição de férias restringe-se ao primeiro períodoaquisitivo, inexistindo óbice a que, ultrapassados os 12 mesesiniciais, haja usufruto de dois períodos no mesmo exercício.
+A propósito:
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. GOZO DE MAIS DE UM PERÍODO DE FÉRIAS. LIMITAÇÃO TEMPORAL.
+1. A jurisprudência desta Corte Superior entende que a restrição temporal prevista no art. 77 da Lei n. 8.112/1990 é limitada ao primeiro período aquisitivo de férias, razão pela qual não aplicável aos ciclos subsequentes, havendo a possibilidade de gozo de dois períodos de férias dentro de um mesmo ano civil.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.927.149/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 20/08/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. FÉRIAS. GOZO DE DOIS PERÍODOS NO MESMO ANO. LIMITAÇÃO TEMPORAL DE 12 MESES DE EXERCÍCIO, QUE FICA RESTRITA AO PRIMEIRO PERÍODO AQUISITIVO. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Cuida-se, na origem, de Ação de Ordinária ajuizada por Servidor Público Federal, objetivando compelir a UNIÃO a permitir-lhe gozo de férias, após o período aquisitivo inicial, durante o curso do novo ciclo temporal, ainda que implique gozo de dois períodos de férias no mesmo ano civil.
+2. A previsão contida no art. 77 da Lei 8.112/1990 revela que apenas no primeiro período aquisitivo de férias serão exigidos 12 (doze) meses de efetivo exercício. Com efeito, uma vez cumprido o referido lapso temporal, não se mostra razoável submeter o Servidor Público a uma limitação não expressa no texto normativo.
+3. Desse modo, a restrição temporal fica limitada ao primeiro período aquisitivo de férias, ou seja, quando do ingresso no serviço público, de sorte que, uma vez cumprido o período, a restrição não se aplica aos ciclos subsequentes, podendo, inclusive, haver gozo de dois períodos de férias dentro de um mesmo ano civil. Precedentes: AgInt no REsp 1.885.994/PE, Rel. Min. OG FERNANDES, DJe 17.2.2021; AgInt no REsp 1.882.249/PE, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 18.12.2020.
+4. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no REsp 1.896.766/CE, Rel. Min. Manoel Erhardt - DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO, Primeira Turma, DJe 30/4/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. FUNDAMENTAÇÃO DISSOCIADA DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. FÉRIAS. GOZO DE DOIS PERÍODOS NO MESMO EXERCÍCIO. POSSIBILIDADE.JURISPRUDÊNCIA DO STJ.
+1. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+2. Esta Corte Superior sinaliza compreensão uníssona de que a legislação de regência não impõe óbice ao gozo de mais de 30 (trinta) dias de férias no mesmo exercício, desde que tenha transcorrido o primeiro período aquisitivo, não havendo nenhum tipo de proibição normativa na disposição contida no art. 77 da Lei n. 8.112/1990.
+Precedente: AgInt no REsp 1.866.455/PE, Primeira Turma, Rel. Min.Napoleão Nunes Maia Filho, julgado em 15/6/2020, DJe 17/6/2020.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.885.994/PE, Rel. Min.Og Fernandes, Segunda turma, julgado em 8/2/2021, DJe 17/2/2021).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. FÉRIAS. GOZO DE DOIS PERÍODOS NO MESMO ANO. POSSIBILIDADE. PRIMEIRO PERÍODO AQUISITIVO. RESTRIÇÃO LIMITADA.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, em relação aos servidores públicos, a limitação temporal de 12 meses para a fruição de férias restringe-se ao primeiro período aquisitivo, inexistindo óbice a que, ultrapassados os 12 meses iniciais, haja usufruto de dois períodos no mesmo exercício.
+2. A conformidade do acórdão regional recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice conhecimento estampado na Súmula 83 do STJ.
+3. Agravo Interno desprovido.
+(AgInt no REsp 1.901.184/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 20/08/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. FÉRIAS. GOZO DE DOIS PERÍODOS NO MESMO ANO. LIMITAÇÃO TEMPORAL DE 12 MESES DE EXERCÍCIO QUE FICA RESTRITA AO PRIMEIRO PERÍODO AQUISITIVO. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Cuida-se, na origem, de Ação de Ordinária ajuizada por Servidor Público Federal, objetivando compelir a UNIÃO a permitir-lhe gozo de férias, após o período aquisitivo inicial, durante o curso do novo ciclo temporal, ainda que implique gozo de dois períodos de férias.
+2. A previsão contida no art. 77 da Lei 8.112/1990 revela que apenas no primeiro período aquisitivo de férias serão exigidos 12 (doze) meses de efetivo exercício. Com efeito, uma vez cumprido o referido lapso temporal, não se mostra razoável submeter o Servidor Público a uma limitação não expressa no texto normativo.
+3. Desse modo, a restrição temporal fica limitada ao primeiro período aquisitivo de férias, ou seja, quando do ingresso no serviço público, de sorte que, uma vez cumprido, não se aplica aos ciclos subsequentes, podendo, inclusive, implicar no gozo de dois períodos de férias dentro de um mesmo ano civil.
+4. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no REsp 1.866.455/PE, Rel. Min.Napoleão Nunes Maia Filho, Primeira Turma,DJe 17/6/2020).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. FÉRIAS.GOZO DE DOIS PERÍODOS NO MESMO ANO CIVIL. POSSIBILIDADE.LIMITAÇÃO TEMPORAL RESTRITA AO PRIMEIRO PERÍODO AQUISITIVO.JURISPRUDÊNCIA DO STJ.
+I - Na origem, ação ordinária ajuizada contra a União, objetivando que esta conceda ao autor o gozo de suas férias ainda durante o respectivo período aquisitivo (data de ingresso/exercício), com fulcro no art. 77, §1º, da Lei n. 8.112/90, independentemente disso implicar no gozo de dois períodos de férias no mesmo ano civil. Por sentença, julgou-se procedente o pedido. No Tribunala quo, a sentença foi mantida. Nesta Corte, negou-se provimento ao recurso especial.
+II - Sobre o ponto fulcral da controvérsia, qual seja, a possibilidade da concessão de duas férias (de trinta dias) no mesmo exercício, verifica-se que o Tribunal de origem julgou a lide em consonância com a jurisprudência desta Corte, ou seja, no sentido de que não há empecilho legal ao gozo de mais de trinta dias de férias, no mesmo exercício, se houve o transcurso do primeiro período aquisitivo. Por oportuno, vejamos: AgInt no REsp 1.881.881/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/3/2021, DJe 8/4/2021 e AgInt no REsp 1.885.994/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 8/2/2021, DJe 17/2/2021.
+III - Agravo interno improvido
+(AgInt no REsp 1.926.329/PE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/08/2021)
+Dessa forma, a conformidade do acórdão regional recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice conhecimento estampado na Súmula 83 do STJ.
+Ante o exposto, não conheço do recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. FÉRIAS. GOZO DE DOIS PERÍODOS NO MESMO ANO. POSSIBILIDADE. PRIMEIRO PERÍODO AQUISITIVO. RESTRIÇÃO LIMITADA. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ.INCIDÊNCIA DA SÚMULA 83/STJ. RECURSO NÃO CONHECIDO.
