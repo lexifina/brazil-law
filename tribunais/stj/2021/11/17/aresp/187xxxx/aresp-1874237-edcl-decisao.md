@@ -1,0 +1,14 @@
+DECISÃO
+LEONARDO DA COSTA ROSA e TIAGO DA SILVA PEREIRAopõem embargos de declaração à decisão de fls. 1.068-1.071, de minha relatoria, em que reconsiderei a decisão de fls. 1.035-1.036, para conhecer do agravo e negar provimento ao recurso especial.
+A defesa aponta a ocorrência de omissão no julgado pois a análise do julgado teria ocorrido de forma sintética, de modo que "os argumentos esposados pela Defesa  ..  sequer foram suscitados e combatidos". Afirma que "forçoso o pronunciamento da matéria sob pena de inviabilizar a discussão em sede de Recurso Extraordinário"(ambos à fl. 1.076).
+Requer, portanto, sejam acolhidos os embargos declaratorios e supridas as omissões.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese dos autos, verifico que o decisum embargado não foi omisso, porquanto delineou, de maneira clara e concretamente fundamentada, os motivos pelos quais não é caso de incidência da minorante prevista no art. 33, §4º, da Lei de Drogas. Vejamos (fl. 1.070):
+No caso, conforme visto, a instância ordinária, a despeito de mencionar a quantidade de drogas apreendidas - no caso, argumento inidôneo, como sabido, a fundamentar a negativa do benefício - justificou a impossibilidade de incidência do redutor em questão em razão da apreensão de "duas balanças de precisão, três rádios comunicadores, dois rolos de saco plástico indicativo de preparo para embalagem da droga, bem como um caderno com anotações de contabilidade, objetos que reforçam a tese de que era praticado o tráfico ilícito há mais tempo" (fl.921), circunstâncias que a levaram à conclusão de que eles seriam dedicados a atividades criminosas.
+Esclareço que o o fato de não ter analisado pormenorizadamente todas as teses formuladas pela defesa, não torna a decisão despida de fundamentação, namedida em que o magistrado não é obrigado a rebater, um a um, todos osargumentos trazidos pelas partes, caso os fundamentos utilizados tenhamsido suficientes para embasar a sua decisão, como no caso.
+Assim, o que se percebe, na verdade, é que a irresignação doembargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+Finalmente, évedada a análise de dispositivos constitucionais em recursoespecial, ainda que para fins de prequestionamento, sob pena de usurpação
+da competência do Supremo Tribunal Federal.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
