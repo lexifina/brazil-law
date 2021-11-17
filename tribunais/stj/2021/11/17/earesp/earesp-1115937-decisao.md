@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de Embargos de Divergência, interpostos por CENTRAIS ELÉTRICAS BRASILEIRAS S/A - ELETROBRÁS, contra acórdão da Primeira Turma do STJ, de relatoria do Ministro NAPOLEÃO NUNES MAIA FILHO, assim ementado:
+"TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO COMPULSÓRIO. CONVERSÃO EM AÇÕES. AUSÊNCIA DE HOMOLOGAÇÃO ASSEMBLEAR. JUROS REMUNERATÓRIOS. INCIDÊNCIA. AGRAVO INTERNO DA ELETROBRAS A QUE SE NEGA PROVIMENTO.
+1. O entendimento desta Corte é de que os juros remuneratórios do empréstimo compulsório sobre energia elétrica são devidos à razão de 6% (seis por cento) ao ano, e serão devidos até o efetivo pagamento. Assim, verifica-se que o acórdão está em consonância com o entendimento desta Corte. Nesse sentido: EDv nos EAREsp. 790.288/PR, Rel. Min. GURGEL DE FARIA, DJe 2.9.2019; AgInt no AREsp. 870.360/PR, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 13.2.2017; AgInt no AREsp. 869.823/PR, Rel. Min. HERMAN BENJAMIN, DJe 29.9.2016.
+2. Agravo Interno da Eletrobrása que se nega provimento."
+Nos Embargos de Divergência a embargante sustenta que, "no presente caso trata-se de Recurso Especial cujo acórdão em embargos ratificou julgamento de mérito, contrário ao disposto em repetitivo, que proíbe a cumulação de juros remuneratórios com juros de mora e que a data das assembleias gerais são os marcos consolidadores da dívida (REsp 1003.955/RS, itens 5.2.b, 6.1.a, 7 e 8-c bem como contraria a Divergência EREsp 826.809/RS, que dispõe que da data da consolidação da dívida (data das assembleias de conversão, especialmente a AGE de 30/06/2005), cessa a aplicação de juros remuneratórios, uma vez, que ali se consolida a dívida, independentemente da forma como se pretendia pagar em ações ou em dinheiro" (fl. 1.752e).
+Demonstrada, em princípio, a divergência jurisprudencial, admito o processamento dos Embargos de Divergência.
+Dê-se vista dos autos à parte embargada, para que, no prazo legal, caso queira, ofereça impugnação aos Embargos.
+Após, dê-se vista ao MPF, para parecer.
+I.
