@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se  de  habeas  corpus  impetrado  em  favor  de EURIVALDO ALEXANDRE DA SILVA  contra  acórdão  proferido  pelo Tribunal  de  Justiça  do  Estado  de  Minas Gerais no HC n. 1.0000.21.223679-8/000.
+Consta  dos  autos  que  o  Juízo  das  Execuções  Criminais  reconheceu a prática de falta grave em desfavor paciente, razão pela qual revogou sua prisão domiciliar e determinoua regressão para o semiaberto (e-STJ ,  fl.  44).
+A  defesa,  então,  insatisfeita,  impetrou habeas corpus, perante a Corte de origem.  O  Tribunal,  contudo,  não conheceu da impetração,  nos  termos  da  seguinte  ementa  (e-STJ,  fl.  43):
+HABEAS CORPUS - EXECUÇÃO PENAL - REVOGAÇÃO DA DECISÃO QUE REGREDIU O PACIENTE DE REGIME -MATÉRIA QUE DESAFIA RECURSO DE AGRAVO JÁ INTERPOSTO -UNIRRECORRIBILIDADE.1. Quando as matérias aduzidas no writsão também objeto de agravo em execução, deverão ser analisadas nesta, recurso próprio e mais amplo, em obediência ao princípio da unirrecorribilidade das decisões.
+Nesta via, a defesa sustentaque em que pese o princípio da unicorribilidade das decisões judiciais, épossível a concessão da ordem quando a ilegalidade apontada for demostrada de plano,em homenagem ao princípio do contraditório e da ampla defesa.
+Aduz que a decisão singular que instaurou o procedimento administrativo, assim como a decisão que regrediu o regime de cumprimento de pena do paciente (regime aberto para o regime semiaberto) são idênticas, não tendo sido analisados os pedidos formulados pela defesa
+Alega que o paciente teve o regime prisional regredido, sem sequer ser ouvido em juízo e que foideterminada a realização de Exame Criminológicosem fundamentação concreta.
+Com o exposto, pretende a revogação da regressão de regime do ora paciente, retornando ao regime aberto/domiciliar e, de forma subsidiária,a concessão dos benefícios de saída temporária autorizada e trabalho externo.
+É o relatório. Decido.
+A presente irresignação não pode prosperar.
+No caso, o Tribunal coator nada mencionou sobre os argumentos ora trazidos pela defesa.Veja-se o teor do acórdão (e-STJ fl. 45):
+ ..
+Compulsando os autos, consoante informações prestadas pela autoridade apontada como coatora (ordem 17), a defesa do paciente interpôs agravo em execução em face da decisão de ordem 19, que revogou a prisão domiciliar outrora deferida e, consequentemente, regrediu o regime de cumprimento de pena para o semiaberto.
+Diante disso, tenho que o presente habeas corpusnão deve ser conhecido, eis que inviável analisar matéria que já éobjeto de outro recurso. Explico. Há que se observar, aqui, o princípio da unirrecorribilidade das decisões, que prevê que, para cada decisão cabe apenas um recurso, vedando, desta forma, a interposição concomitante ou não de dois recursos objetivando a discussão da mesma questão, ao mesmo órgão competente.
+ ..
+Como se pode ver, o Tribunal deixou de analisar o mérito da impugnação, tendo em vista o andamento do recurso de Agravo em Execução, já interposto pela defesa.
+De fato, melhor que a defesa aguarde o resultado do julgamento, porquanto já em andamento, além de que o recurso de Agravo em execução é mais adequado para a análisedas matérias relativas àexecução da pena.
+Essa circunstância impede esta Corte de julgar diretamente as questões, sob pena de supressão de instância.
+Com efeito, para se aferir a competência do Superior Tribunal de Justiça, é necessário que a matéria questionada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de configurar indevida supressão de instância. Nesse ínterim:
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. CONDENAÇÃO PRISÃO DOMICILIAR. ART. 318 DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE. EXECUÇÃO DEFINITIVA DA PENA. ART. 117 DA LEI DE EXECUÇÃO PENAL. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. WRIT DO QUAL NÃO SE CONHECE. 1. O Supremo Tribunal Federal passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício. 2. Não há que se falar em aplicação da prisão domiciliar, nos termos do art. 318 do Código de Processo Penal, quando a paciente encontra-se custodiada em decorrência de condenação definitiva. 3. Inviável a apreciação da possibilidade de concessão da benesse, conforme disposto no art. 117 da Lei de Execução Penal, sob pena de se incidir em indevida supressão de instância, tendo em vista que o tema não foi analisado pelo Tribunal de origem no aresto combatido. 4. Habeas corpus do qual não se conhece. (HC 554.362/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/02/2020, DJe 21/02/2020)
+No mais, não constato qualquer ilegalidade na decisão singular, que torne imprescindívelo julgamento direito por esta Corte, com a superação da referida supressão de instância.
+Ante o exposto, nego seguimento ao presente habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
