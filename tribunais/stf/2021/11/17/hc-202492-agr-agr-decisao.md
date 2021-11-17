@@ -1,0 +1,43 @@
+Decisão
+
+    Trata-se de Agravo Regimental interposto contra acórdão proferido pela Primeira Turma desta CORTE (Relator: Min. ROBERTO BARROSO, Relator p/ Acórdão: Min. ALEXANDRE DE MORAES, DJe de 3/11/2021), assim ementado:
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES.
+
+    1. Incidência de óbice ao conhecimento da ordem impetrada neste Supremo Tribunal Federal, uma vez que se impugna decisão monocrática de Ministro do Superior de Tribunal de Justiça (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014 ; HC 122.381-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 27/8/2014; RHC 114.961, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013).
+
+    2. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 117.798, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014 ).
+
+    3. Inexistência de teratologia ou caso excepcional caracterizadores de flagrante constrangimento ilegal.
+
+    4. Sobressaem, no decreto prisional, as circunstâncias concretas do caso, do que decorre a necessidade da garantia da ordem pública, tendo em vista que “na posse do paciente foram encontrados o peso líquido de 43,7 gramas de cocaína, e o peso líquido de 507,1 gramas, de maconha, enquanto na posse de Jean foram encontrados o peso líquido de 16,1 gramas, de cocaína, e o peso líquido de 2.074,4 gramas, de maconha”. Além da quantidade e variedade de drogas, houve apreensão de petrecho relacionado ao comércio dos entorpecentes (balança de precisão). Tais fatores legitimam a prisão cautelar, na linha de precedentes desta CORTE.
+
+    5. Agravo Regimental provido.
+
+    Em linhas gerais, a defesa requer seja dado integral provimento ao presente agravo regimental, para levar ao conhecimento da turma em caso de negativa do juízo de retratação e, ao final, pela concessão da ordem, restabelecendo a decisão anterior de liberdade provisória do paciente DENY CLAUDINO DE LIMA.
+
+    É o relatório. Decido.
+
+    O presente recurso, por ser manifestamente incabível, não merece ser conhecido.
+
+    Nos termos do art. 317 do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, caberá agravo regimental, no prazo de cinco dias de decisão do Presidente do Tribunal, de Presidente de Turma ou do Relator, que causar prejuízo ao direito da parte. Logo, somente decisões monocráticas poderão ser impugnadas por meio do referido recurso.
+
+    Registre-se que a jurisprudência desta CORTE consolidou-se no sentido de que a interposição de Agravo Regimental contra acórdão proferido pelo Plenário ou por uma de suas Turmas, como ocorre na espécie, caracteriza erro grosseiro, o que impede sua conversão em embargos declaratórios. Precedentes: ARE 680977 AgR-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 9/11/2017; Pet 5161 AgR-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 10/8/2017; ARE 901450 AgR-AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 17/3/2016:
+
+    JULGAMENTO COLEGIADO PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL – INTERPOSIÇÃO, CONTRA O ACÓRDÃO, DE “AGRAVO REGIMENTAL” – INADMISSIBILIDADE – ERRO GROSSEIRO – CONSEQUENTE INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL – RECURSO DE AGRAVO NÃO CONHECIDO. – Não se revela admissível “agravo regimental” contra acórdão emanado de órgão colegiado (Turma ou Plenário) do Supremo Tribunal Federal. Precedentes. – Inaplicabilidade, ao caso, por tratar-se de erro grosseiro, do postulado da fungibilidade recursal. Precedentes. Doutrina.
+
+    (ARE 926113 AgR-EDv-AgR-AgR, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 10/11/2016)
+
+    Diante do exposto, por ser manifestamente inadmissível, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NÃO CONHEÇO DO RECURSO.
+
+    À Secretaria para certificação do trânsito em julgado e baixa imediata dos autos.
+
+    Publique-se.
+
+    Brasília, 17 de novembro de 2021.
+
+Ministro Alexandre de Moraes
+
+Relator
+
+Documento assinado digitalmente
