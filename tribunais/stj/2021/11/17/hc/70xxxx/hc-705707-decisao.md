@@ -1,0 +1,10 @@
+DECISÃO
+THALISSON TRINDADE DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que negou provimento à Apelação Criminal n.5003699-98.2018.8.21.0008.
+Consta dos autos que o paciente foi condenado à pena de 2 anos de reclusão, em regime aberto, mais multa, pela prática do crime previsto no art. 14 da Lei n. 10.826/2003.
+A defesa pretende, por meio deste writ, a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decido.
+O Tribunal de origem justificou a impossibilidade de concessão do benefício, com base nas peculiaridades do caso concreto, ocasião em que salientou: "embora primário, o réu possui condenação pela prática do crime de porte ilegal de arma de fogo, transitada em julgado em julgado (008/2.17.0012774-0), apta a caracterizar maus antecedentes" (fl. 13). Esclareço, por oportuno, que, conforme consta do acórdão impugnado, "o réu possui antecedentes criminais pela prática do mesmo crime, qual seja, o porte ilegal de arma de fogo (008/2.17.0012774-0)" (fl. 13), tanto que a sua pena-base foi fixada acima do mínimo legal.
+Ainda, a Corte estadual ressaltou que, "como ele próprio relatou, se armou por estar envolvido na guerra de facções, o que, na linha do art. 44, III, do CP, contraindica a concessão do benefício" (fl. 14),circunstâncias que, somadas, evidenciam que a substituição da reprimenda privativa de liberdade por restritiva de direitos não se mostra, no caso, medida socialmente recomendável, ex vi do disposto no art. 44, III, do Código Penal.
+Assim, porque foiconcretamente fundamentada a impossibilidade de substituição da reprimenda e tendo em vista que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado, não identifico o apontado constrangimento ilegal de que estaria sendo vítima o paciente e, por isso mesmo, mantenho a negativa do benefício em questão.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
