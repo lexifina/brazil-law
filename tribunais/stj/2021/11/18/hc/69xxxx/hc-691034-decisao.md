@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso especial, com pedido liminar, impetrado em favor de JAMES DOS SANTOS, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nestes termos ementado (fls. 171-177):
+"AGRAVO EM EXECUÇÃO PENAL. Falta grave. Subversão da ordem. Preliminar. Ausência de oitiva do preso. Afastamento. Oitiva judicial que se torna prescindível. Dispositivos constitucionais e legais regularmente obedecidos. Ausência de prejuízo. Falta grave. Caracterização. Declarações firmes e coesas dos agentes penitenciários. Ausência de punição coletiva. Conduta individualizada. Fração de 1/6 (um sexto) da perda dos dias remidos fundamentada. Reinício da contagem dos prazos para progressão de regime mantida.
+AGRAVO DESPROVIDO."
+No presente habeas corpus, a d. Defesa aduz que o procedimento administrativo disciplinar não individualizou a conduta de cada um dos supostos envolvidos nos fatos, ou seja, não narrou a conduta concreta do paciente, o que configuraria sanção coletiva.
+Noutro aspecto, sustenta que "o PACIENTE negou os fatos, quanto as provas apresentadas restam como depoimento isolado os agentes e prova insuficiente para comprovar a responsabilidade do sindicado, visto que nem mesmo foram juntados aos autos as gravações do sistema CFTV da unidade para comprovar o relado dos agentes, sendo que o sentenciado a todo momento negou a prática dos autos, para impor a anulação da decisão, com a absolvição do PACIENTE" (fl. 8).
+Requer a concessão da ordem, inclusive LIMINARMENTE, "SUSTANDO-SE A FALTA DISCIPLINAR GRAVE, repudiando o constrangimento ilegal que do desacerto da decisão do TRIBUNAL-COATOR já vem causando, e, requisitadas as informações do TRIBUNAL-COATOR, ouvido MINISTÉRIO PÚBLICO FEDERAL, em parecer, para, ao final, seja CASSADO O JULGADO DO AGRAVO EM EXECUÇÃO pelo TRIBUNAL-COATOR, ANULANDO A FALTA GRAVE, por ser a expressão da mais lídima JUSTIÇA!" (fl. 9).
+Liminar indeferida (fls. 606-609).
+Informações, às fls. 613-630.
+O d. Ministério Público Federal oficiou pelo não conhecimento do writ, em r. parecer, sem ementa (fl. 632).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Para melhor delimitar a quaestio, transcrevo os seguintes trechos do v. acórdão combatido (fls. 171-177):
+"Trata-se de agravo em execução penal interposto por James dos Santos, representado pela Defensoria Pública, com fundamento no artigo 197 da LEP, em face da r. decisão de fls. 53/56,proferida pelo Juízo da UNIDADE REGIONAL DE DEPARTAMENTOESTADUAL DE EXECUÇÃO CRIMINAL DEECRIM 4ª RAJ que, reconheceu a prática de infração disciplinar de natureza grave, determinou a regressão do sentenciado ao regime fechado e decretou a perda de 1/6 dos dias remidos.
+(..)
+Apurada a falta grave por meio de regular procedimento administrativo disciplinar e tendo sido o sentenciado ouvido pela autoridade administrativa incumbida de apurar a transgressão disciplinar, assistido, no ato, por advogado da FUNAP, não se há falarem ofensa a princípios constitucionais (contraditório e ampla defesa) ou aos ditames legais (artigo 118, § 2º, da Lei de Execução Penal) pela falta de sua oitiva judicial.
+(..)
+É dos autos que, ao final da devida apuração em sindicância, o sentenciado, que cumpria penas em regime fechado, foi considerado responsável pela prática de infração disciplinar de natureza grave, praticada no dia 24 de fevereiro de 2021, consistente em atos de subversão à ordem, tipificando a conduta descrita no artigo 50, incisos I, da LEP, ficando sujeito às punições disciplinares respectivas.
+Segundo o apurado, após o corpo funcional adentrar nopavilhão e se posicionar em frente a cela 20, e informar aos detentos (dezesseis, dentre eles, o ora agravante) que haveria revista na respectiva cela, os reeducandos, com palavras de ordem e dizendo serem integrantes do PCC, impediram tais servidores de entrar e realizar o serviço de vigilância, xingando-os.
+Pois bem.
+Acusado da prática da falta grave de desrespeito, o agravante negou os fatos que lhe são imputados, dizendo que não houve qualquer tumulto e não integra facção criminosa (fls. 33).
+Todavia, os agentes de segurança, em depoimentos uníssonos, confirmaram os fatos narrados na sindicância, bem como descreveram a conduta do agravante, que aderiu à incitação dos demais detentos e praticou todos os atos descritos na inicial da sindicância. Os agentes apontaram, sem dúvida, a participação do agravante no ato subversivo, o que fez cair por terra sua versão de que não houve tumulto (fls. 31/32).
+(..)
+Pelo exposto, afastada a preliminar, NEGA-SEPROVIMENTO AO AGRAVO."
+Pois bem.
+Inicialmente, acerca da falta de juntada da prova "gravações do sistema CFTV da unidade"(fl. 8), o v. acórdão não tratou da matéria, incorrendo a alegação em indevida supressão de instância.
+No mais,pelo que se afere, o eg. Tribunal de origem considerou os atos praticados pelo paciente como incursos em falta grave tipificada na Lei de Execução Penal.
+Do v. acórdão acima, contudo, não se afere qualquer ilegalidade, visto que devidamente fundamentado no fato de que as provas foram suficientes ao reconhecimento da falta imputada.
+No caso, embora a sanção tenha sido aplicada a um universo de indivíduos envolvidos nos fatos apurados, a análise do caso foi suficientemente individualizada, de forma que não há como se afastar a imputação.
+Isso porque, em analogia com a ação penal,"mesmo a denúncia geral deve conter elementos mínimos que preservem o direito do acusado de conhecer o conteúdo da imputação contra si. A mera atribuição de uma qualidade não é forma adequada para se conferir determinada prática delitiva a quem quer que seja. Caso contrário, abre-se margem para formulação de denúncia genérica e, por via de consequência, para reprovável responsabilidade penal objetiva" (RHC 70.389/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/10/2016, grifei).
+Não é o caso dos autos.
+Vejamos.
+Como se observa, a eg. Corte de origem consignou expressamente que a situação em voga comportaria hipótese de autoria coletiva, e não de imputação geral, genérica, sem a mínima identificação dos envolvidos e delimitação dos atos praticados.
+Verbis, o d. Juízo da Execução (fl. 56):
+"Diante da jurisprudência destacada, observo que os agentes penitenciários relatam que o sindicado e outros reeducandos indicados na sindicância impediram a entrada dos agentes na cela para a realização da revista de rotina, proferindo palavras de ordem e afirmando serem membros da facção criminosa do Primeiro Comando da Capital (PCC). Embora o executado negue os fatos (fls. 330), anoto que o relato dos agentes tem fé pública, não tendo sido apresentado nenhum fato concreto pela Defesa hábil a prejudicar a credibilidade das declarações dos funcionários, sendo imperativo destacar, ainda, que o sindicado foi reconhecido e apontado pelos agentes envolvidos, tendo sua conduta sido individualizada, não se podendo falar em sanção coletiva, embora a autoria dos fatos tenha sido coletiva."
+No mesmo sentido, as informações de fl. 614:
+"Informo, ainda, que a sindicância que reconheceu a falta grave foi homologada por decisão prolatada em 26 de abril de 2021, sem que houvesse sido interposto recurso de agravo em execução em face dela. Anoto que o paciente foi reconhecido e apontado elos agentes envolvidos tendo sua conduta sido individualizada não se podendo falar em sanção coletiva, embora a autoria dos fatos tenha sido coletiva (doc. 02- fls. 392/395)."
+Diante do contexto aqui apresentado, assim como da inexistência de qualquer indício de que a palavra dos servidores prisionais não mereça guarida, não se vislumbra o alegado constrangimento ilegal.
+Outrossim, no que atine à questão da validade dos depoimentos funcionais, esta eg. Corte também é pacífica no sentido de que eles merecem a credibilidade e a fé pública inerente ao depoimento de qualquer servidor estatal no exercício de suas funções, principalmente, quando ausentes indícios de que houvesse motivos pessoais para a incriminação injustificada.
+Nestes termos:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA 7/STJ.
+1. Concluindo as instâncias de origem, de forma fundamentada, acerca da autoria e materialidade delitiva assestadas ao agravante, considerando especialmente o flagrante efetivado e os depoimentos prestados em juízo, inviável a desconstituição do raciocínio com vistas a absolvição por insuficiência probatória, pois exigiria o reexame do conjunto fático-probatório dos autos, esbarrando no óbice da Súmula n. 7/STJ.
+2. Conforme entendimento desta Corte, o depoimento de policiais responsáveis pela prisão em flagrante do acusado constitui meio de prova idôneo a embasar o édito condenatório, mormente quando corroborado em Juízo, no âmbito do devido processo legal.
+(..)
+3. Agravo improvido." (AgRg no AREsp 1281468/BA, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 14/12/2018, grifei).
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ROUBO QUALIFICADO. CONDENAÇÃO BASEADA EM OUTRAS PROVAS SUFICIENTES. TESTEMUNHO POLICIAL INDIRETO DE QUE O CORRÉU AFIRMA PARTICIPAÇÃO DO AGRAVANTE. PROVA ACESSÓRIA. EXISTÊNCIA DE OUTRAS PROVAS QUE SUSTENTAM A CONDENAÇÃO. NULIDADE ABSOLUTA NÃO RECONHECIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Indicando a Corte local dar-se a condenação não apenas pelo depoimento de policial, mas por outras provas também valoradas, não cabe a pretensão de nulidade da condenação.
+2. Inexistindo impedimento legal ao depoimento de policiais e presentes outras provas que sustentem a condenação, não há falar em nulidade.
+3. Agravo regimental improvido." (AgRg nos EDcl no HC 446.151/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 27/2/2019, grifei).
+Nesse contexto, para modificar as decisões das instâncias ordinárias, para afastar a falta imputada ao paciente, não se verificando ilegalidade manifesta, seria necessária a aprofundada incursão no acervo fático-probatório produzido no processo disciplinar, providência, sabidamente, inviável na via estreita do habeas corpus ou do seu recurso, remédio de rito célere e que não admite dilação probatória.
+Exemplificativamente:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. DESOBEDIÊNCIA AOS AGENTES PENITENCIÁRIOS. CONFIGURAÇÃO: ART. 50, VI, C/C ART. 39, II E V, DA LEP. APURAÇÃO MEDIANTE REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. AUSÊNCIA DE OITIVA JUDICIAL DO SENTENCIADO. INEXISTÊNCIA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E CONTRADITÓRIO. PERDA DOS DIAS REMIDOS NO PERCENTUAL MÁXIMO. RECURSO NÃO PROVIDO.
+(..)
+4. Impende registrar, ainda, que o habeas corpus não é a via adequada para apreciar o pedido de absolvição/desclassificação da falta grave, tendo em vista que, para se desconstituir o decidido pelas instâncias ordinárias, mostra-se necessário o reexame aprofundado dos fatos e provas constantes dos autos da execução, procedimento vedado pelos estreitos limites do remédio heroico, caracterizado pelo rito célere e por não admitir dilação probatória.
+5. Por fim, o cometimento de falta de natureza especialmente grave acarreta da perda dos dias remidos no percentual máximo. Precedentes deste Tribunal" (AgRg no HC n. 440.695/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 12/6/2018, grifei).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. INVIABILIDADE DA VIA ELEITA. CONSTRANGIMENTO ILEGAL INEXISTENTE. OITIVA PRÉVIA DO APENADO PARA HOMOLOGAÇÃO DO PAD. PRESCINDIBILIDADE. PERDA DOS DIAS REMIDOS. DECISÃO FUNDAMENTADA. INSURGÊNCIA DESPROVIDA.
+(..)
+2. Segundo a jurisprudência vigente nesta Corte Superior de Justiça, concluindo o Tribunal de origem pela existência de falta grave, não cabe, por meio da impetração de mandamus, a verificação acerca da existência da conduta indisciplinar imputada ao condenado, bem como a aferição de sua classificação como leve, média ou grave, pois a referida análise necessitaria de aprofundado revolvimento fático-probatório, incabível de realizar-se por meio do rito sumário do habeas corpus. Precedentes.
+(..)
+6. Agravo regimental desprovido" (AgRg no HC n. 407.879/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 21/11/2017, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. HOMOLOGAÇÃO DE FALTA GRAVE. OITIVA JUDICIAL DO SENTENCIADO. DESNECESSIDADE. ATIPICIDADE OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE DE INCURSÃO PROBATÓRIA EM HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+3. Para afastar a conclusão do acórdão, absolver o agravado ou desclassificar sua conduta, seria necessário reexaminar fatos e provas, providência incabível na via do habeas corpus, de cognição limitada.
+4. Agravo regimental não provido" (AgRg no HC n. 414.750/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1º/8/2018, grifei).
+Assim, não se afigura o alegado constrangimento ilegal no reconhecimento da infração disciplinar, não havendo qualquer ilegalidade a coarctar nesta via.
+Ante o exposto, não conheço do habeas corpus.
+P. I.
