@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto porDSL MAQUINAS DE CONSTRUCAO DA AMERICA DO SUL LTDAcontra decisão que inadmitiu o recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, que objetiva reformar o acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO,assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. RECURSO DESPROVIDO.
+1. A concessão do benefício da justiça gratuita para pessoa jurídica condiciona-se à demonstração da impossibilidade de custeio das despesas processuais, nos termos da Súmula 481 do STJ.
+2. No presente caso, não foram trazidos documentos hábeis (balancetes contábeis, títulos protestados etc.) a comprovar a alegada precariedade econômica, que justificasse a isenção das custas.
+3. Agravo de instrumento desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente aponta como violados os arts. 98 e 99, caput e § 2º, do CPC/2015, sustentando, em síntese, queteria comprovado documentalmente sua hipossuficiência financeira para arcar com o recolhimento dos encargos processuais, em decorrência de crise financeira; aduz, ainda, que deve ser deferida a gratuidade processual, sob pena de impossibilitar o acesso à justiça.
+Após decisum que inadmitiu o recurso especial, com base na Súmula 7 do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Sobre a alegada violação dos arts. 98 e 99, caput e § 2º, do CPC/2015, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais apontados no presente recurso especial, pelo que carece o recurso do indispensável requisito do prequestionamento, fundamental para a interpretação normativa exigida.
+Incide na hipótese o óbice constante da Súmula n. 282 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Ademais, observa-se que a irresignação do recorrente, acerca do indeferimento do benefício da justiça gratuita para a pessoa jurídica, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que não ficou comprovada a hipossuficiência da parte autora, conforme os seguintes fundamentos:
+No presente caso, não foram trazidos documentos hábeis (balancetes contábeis, títulos protestados etc.) a comprovar a alegada precariedade econômica, que justificasse a isenção das custas ou o pedido alternativo recolhimento das custas ao final do processo. Há nos autos (ID 126830613; ID 126830614) uma série de documentos de arrecadações das fazendas estadual e federal, contrato de locação e um demonstrativo de vendas e de algumas despesas (sendo a maior parte relativa, justamente a pagamento de impostos), mas esse conjunto probatório não afasta a existência de outras fontes de receita, nem atesta que não há disponibilidade financeira para suportar o pagamento das custas do processo.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ressalte-se, ainda, que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
