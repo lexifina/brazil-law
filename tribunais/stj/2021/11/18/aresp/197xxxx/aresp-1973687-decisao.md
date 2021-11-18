@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE ITANHAÉM contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, assim resumido:
+EXECUÇÃO FISCAL. REQUERIMENTO DE PESQUISA ELETRÔNICA DE IMÓVEIS NO SITE DA ARISP, PROMOVIDA PELO JUÍZO. DESCABIMENTO. INTERVENÇÃO JUDICIAL QUE SE JUSTIFICA APENAS QUANDO SE TRATE DE DILIGÊNCIA ORDENADA EX OFFICIO, OU QUANDO O INTERESSADO FOR BENEFICIÁRIO DA GRATUIDADE PROCESSUAL. AGRAVO DE INSTRUMENTO IMPROVIDO.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação dos arts. 39 da LEF e 91 do CPC, no que concerne ao direito de a Fazenda obter certidão imobiliária atualizada do imóvel objeto da lide independentemente de prévio pagamento de despesas pela via judicial, trazendo o(s) seguinte(s) argumento(s):
+O Superior Tribunal de Justiça já pacificou essa matéria à luz da sistemática de julgamento de recursos repetitivos, assegurando à Fazenda o direito de obter sem prévio pagamento certidões de cartórios extrajudiciais mediante solicitação judicial:
+ ..
+Salta aos olhos que a origem adotou posicionamento superado pela jurisprudência do STJ quanto ao alcance dos artigos 39 da Lei de Execução Fiscal e 91 do Código de Processo Civil. É descabido a origem pretender se insurgir quanto aos termos da lei e da jurisprudência consolidada sob o rito dos recursos repetitivos.
+O pedido de certidão imobiliária formulado pela Fazenda Pública para cartório extrajudicial implica a desnecessidade de se adiantar o valor da despesa processual.
+Pouco importa que é possível à Fazenda obter a certidão mediante pagamento ao cartório extrajudicialmente: é exatamente esta situação que se pretende evitar diante da clareza da lei e da jurisprudência, que atribui ao Judiciário essa tarefa, e ainda sem ônus financeiro à requerente (fls. 23/26).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Ora, a obtenção de certidão na Serventia Predial independe de intervenção do Poder Judiciário, pois as informações que ali constam são de domínio público (fls. 16).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
