@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CÉSAR AUGUSTO SERONNI, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 08/07/2021.
+Concluso ao gabinete em: 10/11/2021.
+Ação: indenizatória, ajuizada pelo agravante, em face de ANTÔNIO DE PÁDUA SERONNI e do ESPÓLIO DE YEDDA SERONNI, fundada na prática de atos ilícitos em detrimento de imóvel sua propriedade.
+Sentença: julgou extinto o processo, com resolução do mérito, em razão do reconhecimento da prejudicial de prescrição.
+Acórdão: negou provimento à apelação interposta pelo agravante, para confirmar a sentença por seus próprios fundamentos, nos termos da seguinte ementa:
+EMENTA. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. RESPONSABILIDADE CIVIL DO EMPREGADOR POR ATOS PRATICADOS PELO SEU EMPREGADO. PRAZO TRIENAL PARA REPARAÇÃO INDENIZATORIA, CONTADOS A PARTIR DA DATA DACIÊNCIA DA LESÃO OU AMEAÇA AO DIREITO TUTELADO.
+1- Nos termos do artigo 932, inciso III, e artigo 933, ambos do Código Civil Brasileiro, o empregador responderá pelos atos praticados por seu empregado (responsabilidade civil objetiva). Súmula 341 do STF.
+2. O prazo prescricional para reparação indenizatória ocorre em 3 (três) anos, contados a partir da data de ciência da lesão ou ameaça ao direito tutelado (ato ilícito), porque neste momento é que nasce a possibilidade de exercício do direito em juízo (artigo 206, §3º, inciso V do Código Civil).
+RECURSO CONHECIDO E IMPROVIDO.
+SENTENÇA MANTIDA.
+Embargos de declaração: opostos pelos agravados, foram rejeitados. Já os embargos opostos pelo agravante, foram parcialmente acolhidos, apenas para reduzir os honorários advocatícios.
+O Tribunal de origem consignou o seguinte (e-STJ, fls. 1287/1288):
+De início, verifico que a argumentação dos primeiros embargantes quanto a ausência de resposta fundamentada no tocante a responsabilidade do empregado pelos prejuízos ocasionados que ele também contribuiu, não merecem subsistir, pois como abordado anteriormente por ocasião do julgamento da apelação" nos termos do artigo 932, inciso III e artigo 933 ambos do Código Civil Brasileiro, o empregador responderá pelos atos praticados por seu empregado (responsabilidade civil objetiva). Súmula 341 do STF".
+No que pertine a argumentação de que houve erro na menção ao ano de ingresso da presente ação, eis que não foi proposta no ano de 2016, mas sim no ano de 2014 e que faz mister sanar a omissão relativa à tese de prescrição, mediante o enfrentamento dos documentos carreados ao feito pelos recorrentes, a meu ver, não merece acolhimento, pois o direito de pleitear qualquer indenização em virtude dos supostos atos ilícitos cometidos pela parte recorrida em detrimento do imóvel de propriedade do autor/recorrente, encontra-se prescrito, haja vista que os embargantes já possuíam conhecimento acerca de tais atos desde os anos de 2009/2010 ainda que a aludida ação tenha sido proposta em 2014, vez que o prazo é trienal, de conformidade com o artigo 206, § 3º, inciso V, do Código Civil.
+No tocante a majoração dos honorários advocatícios, vejo que embora ambas as partes embargantes tenham arguido ser contraditória a majoração, cumpre esclarecer que a aludida majoração foi concernente apenas ao aumento de R$ 100,00 (cem reais), ou seja, de 4.000,00 (quatro mil) foi aumentada para R$ 4.100,00 (quatro mil e cem reais) e o entendimento de que totaliza a importância de R$ 8.100,00 (oito mil e cem reais) se mostra totalmente equivocado.
+Quanto à fixação dos honorários advocatícios, entendo que razão assiste aos primeiros embargantes quando alegam que a verba honorária arbitrada pela julgadora de primeiro grau se mostra contrária ao artigo 85, § 2º, do Código de Processo Civil, pois de fato se o valor dado à causa foi de R$ 10.000,00 (dez mil reais) afigura-se excessiva a fixação em R$ 4.000,00 (quatro mil reais), posto que aludida importância ultrapassa o limite de 20% (vinte por cento) do valor dado à causa. Diante disto, hei por bem reduzi-la para R$ 2.000,00 (dois mil reais). Em face disto e considerando que a verba honorária foi fixada em patamar máximo, vejo que a majoração no caso em exame se mostra incompatível.
+No que pertine aos segundos embargos de declaração opostos por ANTONIO DE PÁDUA SERONNI E OUTRO, vejo que a questão levantada pertinente a majoração dos honorários advocatícios, como mencionado anteriormente por ocasião dos primeiros embargos, não merece subsistir, haja vista que a majoração naquela circunstância foi de apenas R$ 100,00 (cem reais) e não de R$ 4.000,00 (quatro mil reais) como equivocadamente entendido por ambas as partes. Em razão disso, vejo que os embargos de declaração opostos devem ser rejeitados.
+À luz das considerações expendidas, restando evidente apenas o desacerto na fixação da verba honorária arbitrada, rejeito os segundos embargos de declaração opostos por ANTONIO DE PÁDUA SERONNI E OUTRO e acolho parcialmente os primeiros embargos opostos por CÉSAR AUGUSTO SERONNI E OUTRO, a fim de reformar parcialmente a sentença e o acórdão recorrido, para reduzir os honorários advocatícios em R$ 2.000,00 (dois mil reais), deixando de majorá-los por ter atingido o patamar máximo de 20% (vinte por cento).
+Recurso especial: alega violação dos arts. 206, §3º, V, e 932, III, do CC/02, bem como dissídio jurisprudencial.
+Afirma haver responsabilidade solidária entre empregador e empregado, de modo que ambos seriam responsáveis por reparar os danos causados, inexistindo a ilegitimidade passiva apontada pelo Tribunal de origem.
+Sustenta que deve ser afastada a prescrição, visto que o termo inicial do prazo prescricional relativo à pretensão indenizatória se verifica a partir do conhecimento da lesão ao direito subjetivo, e os fatos geradores de responsabilidade civil teriam ocorrido nos anos de 2012, 2013 e 2014, e não em 2009 e 2010.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da impossibilidade de responsabilização do agravado Antônio e sua ilegitimidade, e da ocorrência de prescrição, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ.
+1. Ação indenizatória, fundada na prática de atos ilícitos em detrimento de imóvel sua propriedade.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo em recurso especial conhecido. Recurso especial não conhecido.
