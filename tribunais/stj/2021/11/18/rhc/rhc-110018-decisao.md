@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por FRANCISCO GOMES DE ANDRADE LIMA FILHO contra acórdão oriundo do Tribunal de Justiça do Estado de Mato Grosso (HC n. 1012278-09.2018.8.11.0000).
+Colhe-se dos autos que o recorrente é acusado de integrar organização criminosa responsável pela prática de diversos crimes contra a administração pública, os quais são alvo de apuração no bojo da denominada Operação Sodoma. Embora tenha sido decretada a prisão preventiva do recorrente, o Tribunal de origem concedeu ordem de habeas corpus para substituí-la por medidas cautelares diversas.
+A defesa, irresignada com as medidas então impostas, impetrou novo writ, cuja ordem foi parcialmente concedida em acórdão assim ementado (e-STJ fl. 102):
+HABEAS CORPUS - OPERAÇÃO SODOMA - CRIME DE ORGANIZAÇÃO CRIMINOSA, CONCUSSÃO, CORRUPÇÃO PASSIVA, FRAUDE À LICITAÇÃO E PECULATO - MEDIDAS CAUTELARES DIVERSAS - PACIENTE QUE ESTÁ CUMPRINDO MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - PEDIDO DE REVOGAÇÃO DE TODAS AS MEDIDAS - CONCESSÃO APENAS PARA A RETIRADA DO MONITORAMENTO ELETRÔNICO POR MEIO DE TORNOZELEIRA - LIMINAR RATIFICADA - ORDEM CONCEDIDA EM PARTE. No caso dos autos, é imperioso reconhecer, após a análise dos dados colacionados ao presente mandamus, que não há elementos concretos que demonstrem a necessidade da manutenção do uso da vigilância eletrônica, haja vista que as outras medidas cautelares que foram aplicadas ao paciente se mostram condizentes para assegurar a aplicação da lei penal.
+Alega-se, na presente irresignação, que não há motivo para a manutenção das medidas cautelares que foram impostas ao recorrente pelo Tribunal de origem. Afirma-se, nesse sentido, que ele cumpriu adequadamente todas as determinações do Tribunal de origem. Além disso, aponta-se omissão do Tribunal quanto à analise acerca da necessidade de manutenção das referidas medidas, à exceção da vigilância eletrônica.
+Requer-se, liminarmente, a revogação de todas as medidas cautelares.
+O pedido liminar foi indeferido (e-STJ fls. 340/342).
+Informações prestadas às e-STJ fls. 346/355 e 369/374.
+O MPF manifestou-se pelo improvimento do recurso (e-STJ fls. 358/362).
+É, em síntese, o relatório.
+De início destaco que, segundo informações prestadas,a medida que proibia o recorrente de se ausentar da Comarca de Cuiabá/MT sem prévia autorização do juízo foi revogada pelo Magistrado condutor do feito. Além disso, alterou-se a determinação que exigia comparecimento mensal do recorrente para que passasse a ser bimestral (e-STJ fl. 372).
+Ademais, a leitura das razões expostas no presente recurso revela que a insurgência do recorrente voltou-se, precipuamente, contra a medida que fora revogada pelo Magistrado (proibição de ausentar-se da Comarca), o que demonstra ter perdido o objeto a irresignação.
+As demais medidas remanescentes, inequivocamente menos gravosas, justificam-se em razão das inúmeras ação penais a que responde o recorrente, as quais foram listadas nas razões recursais (e-STJ fl. 125), além de já ter contra si sentença condenatória proferida (e-STJ fl. 373).
+Ante o exposto, conheço parcialmente do recurso e, nesta parte, nego-lhe provimento.
+Publique-se. Intimem-se.
