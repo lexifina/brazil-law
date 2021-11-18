@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto porJEANDERSON DOS SANTOS FELICIANOcom fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIROem julgamento de apelação criminal n. 0014432-39.2014.8.19.0063.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 180, caput,do Código Penal - CP (receptação), à pena de 01 ano e 06 meses de reclusão, em regime inicial semiaberto, e 15 dias-multa (fl. 280).
+Recurso de apelação interposto pela Defesa foi desprovido (fl. 497). O acórdão ficou assim ementado:
+APELAÇÃO CRIMINAL. CRIMEDE RECEPTAÇÃO. SENTENÇA CONDENATÓRIA ÀS PENAS DE 01 ANO E 06 MESES DE RECLUSÃO, EM REGIME SEMIABERTO, E PAGAMENTO DE 15 DIAS-MULTA PELA PRÁTICA DO DELITO DO ART.180,DzCAPUTdz,DO CP. PUGNA A DEFESA DE BRUNOPELAABSOLVIÇÃO, SOB O ARGUMENTO DE INSUFICIÊNCIA DE PROVAS. JEANDERSONE WALLACE TAMBÉM PLEITEIAM A ABSOLVIÇÃO. SUBSIDIARIAMENTE, SOMENTE O RÉU JEANDERSON POSTULA A REDUÇÃO DE SUA PENA-BASE, O AFASTAMENTO DA AGRAVANTE DA REINCIDÊNCIA E A FIXAÇÃO DO REGIME ABERTO. PROVAS CONTUNDENTES DA AUTORIAE DA MATERIALIDADE DELITIVAS,NOTADAMENTE A PARTIR DOS DEPOIMENTOSHARMÔNICOS E COERENTESDOS POLICIAIS RESPONSÁVEISPELA APREENSÃO E DO LAUDO PERICIAL DE FLS. 35/36. INCIDÊNCIA DA SÚMULA Nº 70 DESTE TJRJ. NO CRIME DE RECEPTAÇÃO, A POSSE INJUSTIFICADA DO OBJETO PRODUTO DO CRIME GERA A PRESUNÇÃO DE RESPONSABILIDADE DO AGENTE. A DOSIMETRIA OPERADA PELO JUÍZO A QUO MOSTRA-SE ACERTADA E NÃO MERECE NENHUM REPARO. SENTENÇA QUE SE MANTÉM NA ÍNTEGRA. APELOS DEFENSIVOS DESPROVIDOS (fl. 485).
+Em sede de recurso especial (fls. 512/515), a Defesa apontou violação aos arts. 61 e 65, ambos do CP, sustentando a desproporcionalidade do aumento operado na segunda fase da dosimetria, em razão da presença da agravante da reincidência.
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO(fls. 523/526).
+Admitido o recurso no TJ (fls. 528/542) os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo provimento do recurso especial (fls. 550/556).
+É o relatório.
+Decido.
+O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea (AgRg no AREsp 1261051/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA,DJe 30/05/2018).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. SEGUNDA FASE. REINCIDÊNCIA. AUMENTO SUPERIOR A 1/6 SEM FUNDAMENTO CONCRETO. REDUÇÃO A 1/6. DECISÃO MANTIDA. AGRAVO IMPROVIDO. 1. Ausente fundamentação concreta na segunda fase da dosimetria que justifique maior exasperação, tem-se por ilegal o aumento. Precedentes. 2. Agravo regimental improvido.
+(AgRg no HC 617.414/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 27/11/2020).
+No caso dos autos, as instâncias ordinárias mantiveram oaumento de 1/2(metade) da pena-base, em razão da agravante da reincidência, sem apresentar motivação concreta e idônea, sendo necessária a aplicação da fração de 1/6.
+Passo a refazer a dosimetria.
+Mantidos os mesmos critérios adotados pelas instâncias ordinárias, fixo a pena-base em 01 ano de reclusão e 10 dias-multa. Reconhecida a agravante da reincidência, aumento a pena em 1/6 (um sexto), tornando-a definitiva em 01 ano e 02 meses de reclusão e 11 dias-multa, à razão unitária,ante a ausência de causas modificadoras.
+Diante da reincidência, mantenho o regime inicial semiaberto.
+Inviável a substituição da pena privativa de liberdade por restritiva de direitos (art. 44, II do CP), assim como a suspensão condicional da pena (art. 77, I, do CP).
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para reduzir a pena do recorrente, nos termos da fundamentação.
+Publique-se. Intimem-se.
