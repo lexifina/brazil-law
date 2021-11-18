@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de ANDREZ BASTOS DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal nº 0428310-21.2015.8.19.0001).
+Extrai-se dos autos que o paciente, em primeiro grau de jurisdição, foi condenado como incurso no artigo 33, caput, da Lei 11.343106 , à 3 anos e 4 meses de- reclusão, no regime inicial aberto, e 333 dias-multa. A pena privativa de liberdade foi substituída por restritivas de direitos, e foi concedido ao paciente o direito de recorrer em liberdade (e-STJ, fls. 44/49).
+Irresignadas, as partes apelaram, tendo sido provido apenas o recurso ministerial, para também condenar o paciente pela pratica do crime previsto no art. 35 da Lei 11.343/2006. Com isso, a reprimenda foi reajustada para 8 anos de reclusão, no regime inicial fechado, e 1200 dias-multa (e-STJ, fls. 19/25).
+No presente mandamus (e-STJ, fls. 3/18), a impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, ao condená-lo pelo delito de associação para o tráfico, pois reputa estarem ausentes os elementos necessários para a configuração do tipo penal, quais sejam, estabilidade e permanência.
+Nesse sentido, argumenta que como restou claro, pela leitura da denúncia, embora o Paciente tenha sido detido com material entorpecente, inexistia investigação prévia que o apontasse como participante de qualquer organização criminosa, sequer a peça vestibular indicando a quem o mesmo estava associado (e-STJ, fl. 13). Insurge-se, assim, contra a costumeira utilização do critério geográfico (local em que o autor é preso) para se concluir pela prática do crime de associação.
+Afirma que os dados fáticos apresentados não guardam relação com o caso em apuração, uma vez que diversamente do consignado no acórdão, o paciente não foi detido "com arma de fogo e munições", tal fato não consta na denúncia, muito menos se pode extrair de qualquer dado do processo (e-STJ, fl. 13)
+Ressalta, ainda, a primariedade e os bons antecedentes do paciente e defende a necessidade de restabelecimento da sua liberdade até o julgamento do mérito da presente impetração.
+Ao final, pede, liminarmente, que o paciente aguarde em liberdade o julgamento da presente ordem. No mérito, requer o restabelecimento da sentença de primeiro grau.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência, sendo necessário aprofundado exame dos autos para a aferição de eventual constrangimento.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações à autoridade apontada como coatora e ao Juízo de primeiro grau, inclusive o envio da senha para acesso aos dados processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Intimem-se.
