@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 22):
+Apelação criminal Tráfico de drogas Sentença condenatória. Recurso da Defesa buscando a absolvição com fulcro no art.386, inciso VII, do Código de Processo Penal. Pleitos subsidiários: a) desclassificação para o delito previsto no art. 28, da Lei de Drogas; b) fixação de regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos para Ralysson. Tráfico de drogas Materialidade e autoria comprovadas Réus que negaram a prática do tráfico de entorpecentes Versões negativas de autoria que restaram isoladas nos autos Policiais Militares que relataram como se deu a apreensão da droga Tráfico de entorpecentes evidenciado pelo conjunto probatório. Dosimetria Penas-bases fixadas no mínimo legal Na segunda fase, reconhecida a agravante da reincidência, que é específica, com relação a Kleber Na derradeira etapa, redução da pena de Ralysson em razão da causa de diminuição de pena prevista no §4º, do art. 33, da Lei11.343/06. Impossibilidade de substituição da pena privativa de liberdade por pena restritiva de direitos, por falta de amparo legal. Regime inicial fechado mantido para Kleber, eis que justificado, e por ser o mais adequado neste caso. Fixação do regime semiaberto para Ralysson em razão do determinado pelo C. STJ no Habeas Corpus nº 596.603-SP, nos casos de crime de tráfico de drogas em que se reduziu a pena Recurso Defensivo parcialmente provido, apenas para fixação do regime inicial semiaberto para Ralysson.
+Consta dos autos que opaciente foi condenadoà pena de 1 ano e 8 meses de reclusão, no regime inicial fechado, e ao pagamento de 166 dias-multa, em razão da prática do delito tipificado no artigo 33, caput, da Lei 11.343/06.
+Interposta apelação defensiva, o recurso foi parcialmente provido apenas para modificar o regime inicial para semiaberto.
+No presente writ, a impetrante alega que, no caso, em que pese ter havido o reconhecimento da primariedade da paciente, com a fixação da pena-base no mínimo legal, bem como havendo circunstâncias judiciais favoráveis, o regime inicial semiaberto foi imposto, com fundamentação inidônea, e em desacordo com o entendimento dos Tribunais Superiores.
+Requer, assim, liminarmente e no mérito, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+O acórdão combatido, no que se refere à presente insurgência, foi assim fundamentado (fls. 30-35):
+Ralysson Daniel da Silva Santos
+Na primeira fase, atentando-se aos critérios do art. 59,do Código Penal, e do art. 42, da Lei de Drogas, a r. sentença fixou a pena-base no mínimo legal, isto é, 05 anos de reclusão, e 500 dias-multa, fixados no valor unitário mínimo.
+Na fase intermediária, ausentes circunstâncias agravantes ou atenuantes.
+Na derradeira etapa, foi reconhecida a causa de diminuição previsto no art. 33, § 4º, da Lei nº 11.343/06, pelo que a reprimenda foi reduzida à razão de 2/3, perfazendo 01 ano e 08 meses de reclusão, e 166 dias-multa, fixados no valor unitário mínimo, o que fica mantido à míngua de recurso Ministerial.
+Regime
+ .. .
+Já com relação a Ralysson Daniel da Silva Santos, de rigor a fixação do regime inicial semiaberto, tendo em vista a determinação do Colendo Superior Tribunal de Justiça de natureza coletiva proferida no Habeas Corpus (individual) n. 596.603-SP de vedação ao estabelecimento de regime inicial fechado nos casos de sentenciados pela prática do crime dito "tráfico privilegiado".
+Ressalvado o entendimento pessoal desta Relatora, que recepciona o regime inicial fechado para os autores de delitos hediondos, conforme acima consignado, neste momento, excepcionalmente, se mostra necessária a adequação do quanto determinado pela 6ª Turma do C. STJ, nos autos do Habeas Corpus (individual) n. 596.603/SP, julgado em 08.09.2020, e ainda em vigor (não transitado em julgado até a presente data).
+Em referidos autos, de interesse de um único Paciente, concedeu-se a ordem de Habeas Corpus para:
+ .. .
+Como se observa, o "item 4" acima consignado vedou expressa e unicamente, a fixação do regime inicial fechado, sem qualquer outra determinação.
+Note-se que a própria Lei de Drogas determina que o seu art. 42 prepondere sobre o art. 59 do Código Penal, para fins de fixação de regime prisional inicial.
+Neste caso concreto, com relação a Ralysson Daniel da Silva Santos, considerando-se a reprimenda fixada no mínimo legal e a posterior a concessão do redutor de pena em fração máxima, deve ser estabelecido, excepcionalmente, o regime inicial semiaberto, muito embora merecesse o acusadorepressão de forma mais severa.
+Os efeitos nocivos do crime de tráfico de drogas, que acarretam profundas feridas na sociedade atual, revelam a postura indiferente adotada pelo agente com relação à saúde pública, o bem estar social, e as nefastas consequências de seus atos. Eis que, tais circunstâncias exigem maior rigor por parte do Estado, como mencionado acima.
+As penas privativas de liberdade não foram substituídas por restritivas de direitos, e com propriedade, eis que ausentes os requisitos legais. Sabemos que é vedada tal substituição, nos termos do art. 44, da Lei de Drogas, vez que se trata de crime equiparado a hediondo. Nesse sentido, o entendimento jurisprudencial:
+ .. .
+É bem verdade que o Senado Federal editou a Resolução nº 05/2012, que dispõe:
+"Art. 1º É suspensa a execução da expressão "vedada aconversão em penas restritivas de direitos" do § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006,declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal nos autos do Habeas Corpus nº 97.256/RS."
+No entanto, a decisão pela inconstitucionalidade do art. 44, da Lei nº 11.343/06, deu-se incidenter tantum pelo C. Supremo Tribunal Federal, em maioria apertada, e a Resolução foi editada com o intuito de expandir os limites subjetivos do decisum.
+Não obstante, apesar da suspensão por inconstitucionalidade do contido no § 4º do art. 33, tem-se que o art. 44, da mesma lei continua em pleno vigor, o qual dispõe:
+"Art. 44. Os crimes previstos nos arts. 33, caput e § 1º,e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos."
+Além disso, o tratamento mais rigoroso estabelecido na Lei nº 11.343/06 é incompatível com a aplicação do referido benefício.
+Ante o exposto, pelo meu voto, dou parcial provimento ao recurso Defensivo, para fixar o regime inicial semiaberto ao acusado Ralysson Daniel da Silva Santos, mantendo íntegra, no mais, a r. sentença condenatória por seus próprios e jurídicos fundamentos.
+Nos termos dos enunciados das Súmulas n. 440/STJ, 718 e 719/STF, a imposição de regime mais gravoso exige motivação concreta idônea, não sendo suficiente a indicação de apenas da gravidade abstrata do delito.
+No caso, trata-se de réu primário, com todas as circunstâncias judiciais favoráveis, tendo sido estabelecida a sanção definitiva em 1 ano e 8 meses de reclusão de reclusão, de modo que cabível alteração do regime inicial para o aberto, em conformidade com o art. 33, § 2º, "c", do Código Penal, notadamente pela inexistência de fundamentação idônea no estabelecimento de regime mais gravoso.
+Do mesmo modo, observa-se que a negativa de conversão da pena privativa de liberdade por restritiva de direitos carece de fundamentação idônea, não apontando a Corte a quo elemento válido que justificasse a negativa da benesse.
+Ante o exposto, concedo liminarmente o habeas corpus para fixar o regime aberto e substituir a pena privativa de liberdade por restritivas de direitos.
+Comunique-se.
+Publique-se.
+Intimem-se.
