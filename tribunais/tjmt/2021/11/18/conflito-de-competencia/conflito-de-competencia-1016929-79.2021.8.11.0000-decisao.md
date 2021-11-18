@@ -1,0 +1,43 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+ÓRGÃO ESPECIAL
+CONFLITO DE COMPETÊNCIA N. 1016929-79.2021.8.11.0000
+SUSCITANTE: LEANDRO MUSSI
+SUSCITADOS: DESA. NILZA MARIA PÔSSAS DE CARVALHO E DES. DIRCEU DOS SANTOS
+Vistos, etc.
+Trata-se de Conflito de Competência suscitado por LEANDRO MUSSI entre a Exma. Desa. Nilza Maria Pôssas de Carvalho e o Exmo. Des. Dirceu dos Santos, objetivando a declaração de competência da primeira para processar e julgar os recursos n. 1015279-31.2020.8.11.0000 e 1007192-52.2021.8.11.0000.
+Aduz que, com o objetivo de viabilizar a superação de sua crise financeira e preservar a sua função social, ajuizou um pedido de recuperação judicial que se processa sob o n. 1001033-83.2018.8.11.0005, perante a 1a Vara Cível da Comarca de Diamantino/MT.
+Alega que ajuizou, também, uma Ação de Manutenção de Posse em face da empresa Nova Sinop Empreendimentos e Participações Ltda., com o fito de permanecer na posse de 4.209 hectares arrendados da mesma, demanda registrada sob o n. 1000909-32.2020.8.11.0005, perante a 1a Vara Cível da Comarca de Diamantino, distribuída por dependência ao feito da Recuperação Judicial; da decisão que deferiu a liminar em seu favor foi interposto pela empresa Agravo de Instrumento n. 1015279-31.2020.8.11.0000, de relatoria do Desembargador Dirceu dos Santos.
+Assevera que a empresa Cema Participações Agrícolas Ltda. intentou um incidente de Embargos de Terceiro de n. 1000149-49.2021.8.11.0005 (apenso à mencionada ação de manutenção de posse), que foi extinto sem resolução de mérito, decisão esta que é objeto de recurso de Apelação registrado sob o n. 1007192-52.2021.8.11.0000, igualmente sob a relatoria do Desembargador Dirceu dos Santos.
+Cita que o credor Banco CNH Industrial, tão logo tomou conhecimento da impetração da recuperação judicial pelo Suscitante, interpôs um Agravo de Instrumento registrado sob o n. 1010478-43.2018.8.11.0000, distribuído por sorteio à relatoria da Desa. Nilza Maria Pôssas de Carvalho, tornando-a preventa para julgar os recursos conexos, quando o assunto for recuperação judicial e falência.
+Afirma que “não se pode olvidar que as ações são conexas, eis que em ambas objetivam-se a proteção de bens essenciais à continuidade da atividade empresarial, tanto o é que o próprio Magistrado condutor da 1a Vara Cível da Comarca de Diamantino, reconheceu ser ele o competente para processar a ação de manutenção de posse em razão da matéria (...)”.
+Verbera que “Não há como negar neste ponto que o curso dos referidos recursos por relatorias e câmaras distintas gera risco de decisões conflitantes/contraditórias, causando uma insegurança jurídica que não pode ser tolerada (...)”
+Pugna pela declaração de competência da Exma. Nilza Maria Pôssas de Carvalho para processar e julgar os recursos citados nessa prefacial, quais sejam, 1015279-31.2020.8.11.0000 e 1007192-52.2021.8.11.0000, bem como sejam declarados nulos os atos praticados pelo juízo incompetente.
+Na decisão de Id. 102972465 foi designada a Desa. Nilza Maria Pôssas de Carvalho para resolver, em caráter provisório, eventuais medidas urgentes.
+Nas petições de Ids. 103362013 e 102413967 as empresas Nova Sinop Empreendimentos e Participações Ltda. e CEMA Participações Agrícolas Ltda., respectivamente, requerem suas habilitações no feito, como terceiras interessadas, e pugnaram pelo descabimento do Conflito de Competência.
+Informações prestadas pelos Desembargadores Suscitados nos Ids. 103280486 e 103706984.
+A Procuradoria Geral de Justiça, no parecer de Id. 107720985, opina pela procedência do conflito.
+É o relatório.
+Decido.
+Após detida análise dos autos, tenho que o conflito não pode ser conhecido por ausência de seus pressupostos de constituição e de desenvolvimento válido.
+Com efeito, conquanto a competência do Juízo falimentar de Primeiro Grau seja absoluta, a competência por prevenção entre Desembargadores, consoante entendimento das Cortes Superiores, é de natureza relativa, senão vejamos:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. COMPETÊNCIA RELATIVA DOS ÓRGÃOS FRACIONÁRIOS. EXAURIMENTO DA INSTÂNCIA RECURSAL ORDINÁRIA. INEXISTÊNCIA. 1. A competência dos órgãos fracionários do Superior Tribunal de Justiça é de natureza relativa, de modo que, eventual alegação a respeito da incompetência para o conhecimento da demanda deve ser objeto de irresignação antes do julgamento, inclusive quando proferido monocraticamente. (...)” (STJ - AgInt no AREsp 1070457/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/03/2019, DJe 26/03/2019)
+Nesse sentido, nos termos do disposto no art. 952, parágrafo único, do CPC, a parte que arguiu a incompetência relativa no processo não pode suscitar conflito de competência, in verbis:
+“Art. 952. Não pode suscitar conflito a parte que, no processo, arguiu incompetência relativa.”
+Na espécie, verifica-se que o Suscitante opôs Embargos de Declaração contra o acórdão de julgamento do AI 1015279-31.2020.8.11.0000, de Relatoria do Des. Dirceu dos Santos, ocasião em que a tese de prevenção da Desa. Nilza Maria Possas de Carvalho foi alegada (Id. 62961003 daqueles autos) e rejeitada pela Câmara julgadora, de forma que, a despeito das alegações trazidas pela parte, impõe à hipótese o disposto no art. 952, parágrafo único, do CPC, notadamente diante da impossibilidade de utilização do incidente como sucedâneo recursal.
+Sobre a matéria, colaciono jurisprudência do Superior Tribunal de Justiça:
+“AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. AÇÃO DE CUMPRIMENTO DE SENTENÇA ARBITRAL X AÇÃO DECLARATÓRIA DE NULIDADE DE ATOS JURÍDICOS. ARGUIÇÃO DE INCOMPETÊNCIA RELATIVA FORMULADA PELA SUSCITANTE E REJEITADA NO JUÍZO DO CUMPRIMENTO DE SENTENÇA ARBITRAL. APLICAÇÃO DO ART. 952, PARÁGRAFO ÚNICO, DO CPC. AGRAVO EM RECURSO ESPECIAL PENDENTE DE JULGAMENTO NO STJ EM QUE SE DISCUTE A REFERIDA DECLINAÇÃO DE COMPETÊNCIA. UTILIZAÇÃO DO INCIDENTE COMO SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.” (AgInt no CC 169.798/PA, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 14/09/2021, DJe 17/09/2021) (destaquei)
+Aliás, a utilização do presente Conflito de Competência como sucedâneo recursal é evidenciada na medida em que, a despeito da ciência da possível prevenção da Desa. Nilza Maria Possas de Carvalho há mais de dois anos, por ocasião da distribuição a ela do Agravo de Instrumento n. 1010478-43.2018.8.11.0000, dentre outros subsequentes, o Suscitante, inobstante diversas oportunidades de manifestação, somente alegou a questão após o julgamento meritório que lhe foi desfavorável do instrumental n. 1015279-31.2020.8.11.0000, de Relatoria do Des. Dirceu dos Santos.
+Soma-se a isso o fato de que, nos termos do art. 66 do CPC, o conflito de competência se configura quando dois ou mais juízes se declaram expressamente competentes ou incompetentes para julgar a mesma causa ou, ainda, quando entre eles surge controvérsia acerca da reunião ou separação de processos.
+A propósito:
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. CONFLITO DE COMPETÊNCIA. HIPÓTESES DO ART. 115 DO CPC NÃO CONFIGURADAS. NECESSIDADE DE REUNIÃO DOS PROCESSOS. RISCO DE DECISÕES CONFLITANTES. AUSÊNCIA DE PREQUESTIONAMENTO. ANÁLISE DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO. I. Nos termos da jurisprudência desta Corte, para caracterizar-se o Conflito de Competência, é indispensável a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda (STJ, AgRg no CC 113.767/DF, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, DJe de 14/10/2011), ou que entre dois ou mais Juízes surja controvérsia acerca da reunião ou separação de processos, nos termos do art. 115, I, II e III, do CPC, hipóteses inocorrentes, in casu. (...)” (AgRg no AREsp 807.152/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/02/2016, DJe 09/03/2016) (destaquei)
+In casu, não se verifica a configuração de nenhuma das citadas hipóteses, nem mesmo após as respectivas manifestações dos Desembargadores Suscitados (Ids. 103280486 e 103706984), o que apenas corrobora a utilização do incidente pelo Suscitante como forma de obter, por meio transverso, a desconstituição de decisões contrárias ao seu interesse.
+Ante todo o exposto, NÃO CONHEÇO do Conflito de Competência.
+Comunique-se aos Desembargadores Suscitados.
+Procedam-se as baixas de estilo.
+Intimem-se.
+Cumpra-se.
+Cuiabá/MT, 16 de novembro de 2021.
+Desa. MARIA HELENA G. PÓVOAS,
+Presidente do Tribunal de Justiça.
