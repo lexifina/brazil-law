@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 7ª VARA CÍVEL DE BRASÍLIA - SJ/DF, o suscitante, e o JUÍZO FEDERAL DA 1ª VARA CÍVEL DE SÃO PAULO - SJ/SP, o suscitado, para processar e julgar o mandado de segurança que objetiva a concessão de aposentadoria por idade ao impetrante.
+O Juízo suscitado declinou da competência, sob o fundamento de que a competência jurisdicional em sede de mandado de segurança apresenta natureza absoluta e improrrogável, fixada pela sede funcional da autoridade apontada como coatora, independentemente do ato perpetrado ou da matéria em objeto.
+O Juízo suscitante, por sua vez, declarou-se incompetente, sob o fundamento de que "as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor.".
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que optando o autor por impetrar o mandamus no seu domicílio, e não naqueles outros previstos no § 2º do art. 109 da Constituição Federal, não compete ao magistrado limitar a aplicação do próprio texto constitucional, por ser legítima a escolha da parte autora, ainda que a sede funcional da autoridade coatora seja no Distrito Federal, impondo-se reconhecer a competência do juízo suscitado. In verbis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MANDADO DE SEGURANÇA. JUÍZO COMPETENTE. CAUSAS CONTRA A UNIÃO FEDERAL. JUÍZO NO DOMICÍLIO DO IMPETRANTE. POSSIBILIDADE. ART. 109, § 2º, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A orientação da Suprema Corte é no sentido de que a regra do art. 109, § 2º, da Constituição da República também se aplica ao mandado de segurança.
+III - Na linha do entendimento do STF, esta Corte reviu posicionamento para reconhecer legítima a opção do Impetrante de propor o mandamus no foro do seu domicílio quando impetrado contra ato de autoridade integrante da Administração Pública Federal. Precedentes.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no CC 175.134/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 31/08/2021, DJe 03/09/2021)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR. FACULDADE CONFERIDA AO IMPETRANTE.
+1. O STJ, seguindo a jurisprudência pacificada do Supremo Tribunal Federal, entende que as causas intentadas contra a União poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+2. Optando o autor por impetrar o mandamus no seu domicílio, e não naqueles outros previstos no § 2º do art. 109 da Constituição Federal, não compete ao magistrado limitar a aplicação do próprio texto constitucional, por ser legítima a escolha da parte autora, ainda que a sede funcional da autoridade coatora seja no Distrito Federal, impondo-se reconhecer a competência do juízo suscitado.
+3. Conflito de Competência conhecido para declarar competente o Juízo Federal da 2ª Vara de Barueri - SJ/SP, ora suscitado.
+(CC 169.239/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 10/06/2020, DJe 05/08/2020)
+Ante o exposto, com base no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência do JUÍZO FEDERAL DA 1ª VARA CÍVEL DE SÃO PAULO - SJ/SP.
+Publique-se. Intimem-se.
