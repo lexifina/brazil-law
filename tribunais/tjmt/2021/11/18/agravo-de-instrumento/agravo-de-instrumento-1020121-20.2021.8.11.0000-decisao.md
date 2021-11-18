@@ -1,0 +1,37 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1020121-20.2021.8.11.0000
+AGRAVANTE: BANCO PSA FINANCE BRASIL S/A
+AGRAVADO: CLOTILDES JOSÉ ROMÃO
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo ativo interposto por BANCO PSA FINANCE BRASIL S/A, contra decisão proferida pelo MM. Juiz da Quarta Vara Especializada em Direito Bancário da Comarca de Cuiabá-MT, Dr. Paulo de Toledo Ribeiro Júnior, lançada nos autos da Ação de Busca e Apreensão n. 1009426-78.2021.8.11.0041, ajuizada em face de CLOTILDES JOSÉ ROMÃO, que indeferiu o pedido de bloqueio RENAJUD para fins de impossibilitar a circulação e transferência do veículo objeto da ação.
+Aduz o agravante que “concedeu a Agravada um financiamento no valor de R$ 40.920,60 (quarenta mil e novecentos e vinte reais e sessenta centavos), para serem restituído por meio de 60 (sessenta) prestações mensais, no valor de R$ 682,01 (seiscentos e oitenta e dois reais e um centavo), com vencimento final em 17/07/2022 mediante Contrato de Financiamento para Aquisição de Bens, garantido por Alienação Fiduciária, sob o documento no 200419990, celebrado em 17/08/2017” (sic).
+Diz que o objeto da alienação fiduciária é o veículo MARCA CITROEN - C3 ORIGINE C3 ORIGINE- CHASSI No 935SLYFY1FB537336 – RENAVAM 1049024564 – PLACA QBK1354 – ANO/MODELO 2015/2015 – COR BRANCA.
+Afirma que “a Agravada se tornou inadimplente, deixando de efetuar o pagamento das prestações no 41 a 43, com vencimento entre 17/12/2020 á 17/02/2021, incorrendo em mora desde então, nos termos do artigo 2o e § 2o, do Decreto-Lei 911/69, com as alterações da Lei 13.043/2014” (sic).
+Alega que “seguindo os procedimentos estabelecidos pela Lei 13.043/2014, constituiu a mora da Agravada, por meio da notificação formalizada por carta registrada com aviso de recebimento” (sic).
+Ressalta que “a liminar fora devidamente deferida, no entanto, em que pese os esforços do Agravante para proceder a citação da parte Agravada, bem como o integral cumprimento da liminar, o mesmo não logrou êxito nesse sentido (...). Requereu o bloqueio RENAJUD do veículo descrito na inicial para fins de impossibilitar a circulação e transferência do bem. Contudo, o pedido foi indeferido pelo Nobre Juiz “a quo”” (sic).
+Anota que “a Agravada está em mora com as parcelas do contrato, diante do seu inadimplemento, e agora se beneficia com o impedimento criado pela decisão recorrida, que inviabiliza a expedição de ordem via RENAJUD ao Detran, a fim que referido órgão proceda ao bloqueio judicial do bem, a fim de apontar a restrição judicial referente a presente demanda, com a finalidade de que proceda sua restrição à CIRCULAÇÃO E TRANSFERÊNCIA, decisão que não merece prevalecer” (sic).
+Acrescenta que “propôs a presente ação de busca e apreensão em 19 de março de 2021 e desde então tem olvidado incessantes esforços para a apreensão do bem objeto da ação, sem sucesso” (sic).
+Cita diversos entendimentos jurisprudenciais sobre o assunto e aduz que é “possível o bloqueio do veículo a ser efetivado via Detran, com a finalidade de impedir a circulação e transferência do bem, sempre visando a localização do veículo objeto da lide” (sic).
+A par desses argumentos, com base nos pressupostos legais e dizendo que espera uma medida ágil do Judiciário para coibir eventual prática de fraude pela agravada, requer seja conferido efeito ao ativo ao recurso deferindo o bloqueio, via RENAJUD, comunicando-se o Detran, a fim de impedir a circulação e transferência do bem objeto da ação, sob pena de vir a se tornar inócua a ação.
+Preparo recursal recolhido sob o Id. 108522962.
+É o relatório.
+Decido.
+Por tempestivo e próprio, recebo o recurso na forma dos artigos 1.015, inciso I c/c 1.017 do Código de Processo Civil.
+Como visto, o agravante pretende que seja concedido o efeito ativo ao agravo, determinando-se o bloqueio do veículo, objeto de alienação fiduciária, por meio do sistema RENAJUD.
+O inciso I do art. 1.019 c/c art. 300, caput, ambos do CPC, autorizam ao relator deferir, em antecipação de tutela, de urgência total ou parcialmente, a pretensão recursal, desde que demonstrados elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+No caso vertente, a princípio não vislumbra-se a probabilidade do direito perseguido pelo agravante, uma vez que não preponderam os motivos e convergem à aceitação de que são verossímeis as alegações da parte autora/recorrente, como também não é possível aferir a possibilidade de ocorrência de dano irreparável ou de difícil reparação, decorrente do não uso do direito desde logo.
+Eis o teor da decisão recorrida, na parte que interessa à análise da tutela de urgência:
+“(...) I - Indefiro o pedido de Id 65709923, para bloqueio de circulação do veículo junto ao Detran, via sistema RENAJUD, em razão de já existir averbação decorrente da alienação fiduciária, que por si só, dá conhecimento a terceiros da existência de gravame no bem objeto da inicial, consoante dispõe os artigos 4o e 6o da Resolução no 159 de CONTRAN.
+Deste modo, presumindo-se efetivado o devido registro da restrição no CRV do veículo, cuja posse encontra-se com a requerida, não há necessidade, nem mesmo previsão legal, no sentido de determinar o bloqueio judicial do bem.
+Ademais, impõe consignar, que a legislação penal prevê a aplicação da pena do art. 171, § 2o, I, do CPB, para a devedora que alienar a coisa que já alienara fiduciariamente em garantia.
+Bem ainda, entendo que quem deve diligenciar no sentido de proceder à localização do bem é o banco autor. (...)” (Id. 68927230 - autos de origem).
+Cumpre apontar que o bloqueio judicial no banco de dados do RENAJUD pode se dar em três modalidades: de transferência, que impede o registro da mudança da propriedade no RENAVAM; de licenciamento, que frustra a mudança da propriedade e obsta um novo licenciamento no RENAVAM; de circulação, que além desses impedimentos também coíbe a circulação do veículo em território nacional e autoriza o seu ao depósito.
+Entretanto, consoante entendimento jurisprudencial deste Sodalício, “a utilização do sistema RENAJUD, com o fito de impedir a circulação de veículo, objeto de alienação fiduciária, é providência excepcional, devendo ser analisada diante das peculiaridades do caso concreto” (AI 1006490-09.2021.8.11.0000, DES. SEBASTIÃO BARBOSA FARIAS, Primeira Câmara de Direito Privado, Julgado em 24/08/2021, Publicado no DJE 01/09/2021).
+Nesse norte e considerando os motivos expendidos pelo julgador de primeiro grau para indeferimento do pleito, entendo que por ora deve ser mantida a decisão vergastada até julgamento do mérito recursal, quando o Colegiado, verificando a fundo a matéria, formará um convencimento certeiro sobre a questão vertida.
+Ademais, não ficou patente o perigo de dano, haja vista que não há indicativos de que a agravada esteja na iminência de dispor do veículo, de modo que meras argumentações da agravante, sem elementos probatórios, não possibilita o reconhecimento do periculum in mora.
+Pelo exposto, INDEFIRO a antecipação da tutela recursal vindicada.
+Intime-se a parte agravada para apresentação de resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 18 de novembro de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
