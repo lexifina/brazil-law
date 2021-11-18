@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto porCREUZA GONZAGA DOS SANTOScontra decisão que inadmitiu o recurso especial fundado no art. 105, III, "a", da Constituição Federal, que objetiva reformar o acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO,assim ementado:
+PROCESSUALC1VILEPREVIDENCIÁRIO. REMESSAOFICIAL. NÃO CABIMENTO. NULIDADE DE SENTENÇA. CERCEAMENTODEDEFESA. PROVAPERICIAL. PRELIMINAR REJEITADA. APOSENTADORIA POR TEMPODECONTRIBUIÇÃO. RUÍDO. CONVERSÃOEMAPOSENTADORIA ESPECIAL. NÃO PREENCHIMENTO DOSREQUISITOS. REVISÃO DA RENDA. CABIMENTO.
+- No caso dos autos, considero as datas do termo inicial do beneficio e da prolação da sentença. Atenho-me ao teto para o salário -de -beneficio como parâmetro de determinação do valor da benesse. Verifico que a hipótese em exame não excede os mil salários mínimos.
+- Conforme art.373, inciso1,do Código de Processo Civil, constitui ônus da parte autora demonstrar fato constitutivo de seu direito. Consequentemente, indefiro o pedido de produção de prova pericial, lastreada na preclusão. A comprovação do período laborado em atividade especial deve ser feita por meio de apresentação de formulários próprios e por laudos respectivos ao seu exercício. Caso a parte não disponha de laudos e de documentos hábeis à verificação de especiais condições, compete-lhe manejar a Justiça do Trabalho para obter documentos que evidenciem condições nocivas à saúde. Precedentes desta Corte.
+- Demonstrado, pelo conjunto probatório dos autos, o labor com exposição a ruído acima dos limites legais, deve ser reconhecida sua especialidade.
+- Somados os períodos de atividades especiais, verifica-se que, afastados os lapsos concomitantes, possui o autor, até as datas do requerimento administrativo e do ajuizamento desta demanda, 21anos, 02 meses e 12 dias de tempo de trabalho sob condições especiais, tempo insuficiente para a concessão da aposentadoria especial, que exige a comprovação de 25 anos.
+-Todavia, édevida a revisãoda renda mensal inicial daaposentadoria por tempo de contribuição auferida pela autora.- Os efeitos financeiros da revisão foram completamentefixados a contarda entrega do requerimento administrativo, mesma data da concessãodo beneficio pelo INSS. Precedente do STJ.
+- Apelação autoral parcialmente provida.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente aponta, inicialmente, como violadooinciso IIdo artigo 1.022do CPC/2015, ao argumento de que, apesar da oposição de embargos de declaração, o Tribunal "a quo" não teria se manifestado "quanto aos motivos da violação dos artigos 351, 369, 370, e 464", do CPC/2015.
+Sustenta, ainda, a existência de cerceamento do direito de defesa, apontando a existência de contrariedade aos arts. 351, 369, 370, e 464, do CPC/2015, uma vez que o acórdão recorrido indeferiu a produção de prova pericial, a qual seria aptaa comprovar a especialidadedo labor da parte autora.
+Após decisum que inadmitiu o recurso especial, com base na Súmula 7 do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 535 DO CPC DE 1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DO TERMO DE TRANSAÇÃO HOMOLOGADO PELO JUIZ. DOCUMENTO EMITIDOS PELO SIAPE. IMPOSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a assertiva de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se na hipótese o óbice da Súmula 284 do STF.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1492093/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/08/2020, DJe 13/08/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. IPI. SAÍDA DO ESTABELECIMENTO DO CONTRIBUINTE. AUSÊNCIA. MERO DESLOCAMENTO DO PRODUTO PARA PRESTAÇÃO DE SERVIÇOS. NÃO INCIDÊNCIA.
+(..)
+2. A alegação genérica de ofensa ao art. 535 do CPC/1973, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+(..)
+8. Recurso especial conhecido em parte e desprovido.
+(REsp 1402138/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/05/2020, DJe 22/05/2020.)
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ademais, ainda que fosse superado o referido óbice, verifica-se que a irresignação do recorrente, acerca do cerceamento do direito de defesa, bem como da necessidade de reconhecimento do labor especial, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que:
+Conforme art. 373, inciso 1, do Código de Processo Civil, constitui ônusda parte autora demonstrar fato constitutivo deseu direito.
+Consequentemente, indefiro o pedido de produção de prova pericial, lastreada na preclusão. A comprovação do período laborado em atividade especial deve ser feita pormeio de apresentação de formulários próprios e por laudos respectivos ao seu exercício.
+Em nenhum momento se evidenciou, nos autos, recusa dos empregadores em fornecerem os documentos. Tanto assimé, que eles constam dos autos e serão, a seguir, indicados minuciosamente nestejulgado.
+Caso a parte não disponha de laudos e de documentos hábeis à verificação de especiais condições, compete-lhe manejar a Justiça do Trabalho para obter documentos que evidenciem condições nocivas à saúde.
+Valho-me, por oportuno, de julgados da lavra desta Corte:
+ ..
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
