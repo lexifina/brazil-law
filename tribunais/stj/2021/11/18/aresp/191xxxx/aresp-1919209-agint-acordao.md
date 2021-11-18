@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino e Marco Aurélio Bellizze votaram com a Sra. Ministra Relatora.
+Não participaram do julgamento os Srs. Ministros Ricardo Villas Bôas Cueva e Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interno interposto por LUCIANO FLORES DE MENEZES, contra decisão da Presidência do STJ que não conheceu do recurso especial que interpusera em razão da sua intempestividade.
+Ação: indenizatória, ajuizada por CENTRO DE ONCOLOGIA CLÍNICA E REDIOTERAPIA ERECIHM LTDA., em face de LUCIANO FLORES DE MENEZES e OUTROS, em razão de danos decorrentes do descumprimento de contrato de prestação de serviços de desembaraço aduaneiro, relativos à importação de aparelhos de radioterapia.
+Acórdão: negou provimento à apelação interposta pelo agravante e OUTROS, nos temos da seguinte ementa:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. AUSÊNCIA DE ERRO DE CÁLCULO OU CONTRADIÇÃO ENTRE A FUNDAMENTAÇÃO E O DISPOSITIVO DA SENTENÇA.
+1. Em sua insurgência recursal, a parte apelante sustenta haver erro de cálculo ou contradição, quanto ao valor da indenização, entre a fundamentação e a parte dispositiva da sentença. Defende ser R$ 103.647,67 o valor total da indenização.
+2. Não obstante, ao serem contratados para a prestação de serviço de desembaraço aduaneiro referente a duas importações, os apelantes descumpriram a avença, redundando em dano material indenizável que perfaz o montante de R$ 1.004.233,13, sendo R$ 900.585,46 relativo à primeira importação e R$ 103.647,67 concernente à segunda indenização, de maneira que a suposta contradição (ou erro de cálculo) a que alude a parte apelante consiste em considerar tão somente o dano causado pelo descumprimento contratual levado a cabo na realização durante segunda importação.
+3. Nesse cenário, o descumprimento contratual ensejou condenação que, em conformidade com a fundamentação e com o dispositivo da sentença, resultou na importância de R$ 1.004.233,13 (um milhão, quatro mil, duzentos e trinta e três reais e treze centavos).
+4. Portanto, não há falar em erro de cálculo, observando-se, no dispositivo sentenciai, estritamente os termos da fundamentação apresentada pelo magistrado a quo.
+5. Honorários sucumbenciais majorados, em atenção ao preconizado pelo artigo 85, § 11, do Código de Processo Civil.
+APELAÇÃO DESPROVIDA.
+Decisão agravada: não conheceu do recurso interposto pelo agravante e OUTROS, em razão da intempestividade do agravo em recurso especial.
+Razões do agravo: Nas razões do presente recurso o agravante argumenta que teria comprovado a tempestividade do recurso e que a questão relativa à intempestividade já teria sido analisada e afastada pelo TJ/RS, em razão da suspensão dos prazos através de Resoluções editadas pelo Tribunal de origem, por conta da pandemia de COVID-19.
+É O RELATÓRIO.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DO PRAZO. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. Ação indenizatória, ajuizada em razão de danos decorrentes do descumprimento de contrato de prestação de serviços de desembaraço aduaneiro, relativos à importação de aparelhos de radioterapia.
+2. O artigo 1003, §6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. Precedentes.
+3. O juízo de admissibilidade dos recursos extremos é bifásico, de modo que a decisão proferida pelo Tribunal de origem em juízo prévio não vincula esta Corte Superior, destinatário do recurso especial, ao qual compete o juízo definitivo de sua admissibilidade. Precedentes.
+4. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação da suspensão do prazo quando de sua interposição, não há como ser afastada a sua intempestividade.
+5. Agravo interno no agravo em recurso especial não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+- Julgamento: CPC/15.
+A decisão agravada não conheceu do recurso interposto pelo agravante em razão da intempestividade do recurso especial, conforme fundamentação abaixo:
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de LUCIANO FLORES DE MENEZES e OUTROS, a parte recorrente foi intimada do acórdão recorrido em 09/09/2020, sendo o recurso especial interposto somente em 09/10/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça. (e-STJ, fls. 521/522)
+E ainda:
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Observe-se que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt nos EDcl no AREsp 1544693/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 5/5/2020; e o AgInt no AREsp 1547898/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 12/3/2020.
+Ressalte-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso. (e-STJ, fls. 532/534)
+- Da tempestividade recursal
+Em suas razões recursais, o agravante defende a tempestividade do recurso. Sustenta que teria que teria comprovado a tempestividade do recurso e que a questão relativa à intempestividade já teria sido analisada e afastada pelo TJ/RS, em razão da suspensão dos prazos através de Resoluções editadas pelo Tribunal de origem, por conta da pandemia de COVID-19.
+A Corte Especial deste Tribunal, no julgamento do AREsp n. 137.141/SE (Relator Min. Antonio Carlos Ferreira, DJe de 15.10.2012), acompanhando a orientação firmada pelo Supremo Tribunal Federal no AgRg no RE n. 626.358/MG (Relator Min. Cezar Peluso, DJe de 23.8.2012), modificou seu entendimento, concluindo que a comprovação da tempestividade do recurso especial em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem pode ocorrer posteriormente, em agravo regimental.
+No entanto, tal entendimento é aplicável às hipóteses em que os recursos sejam interpostos contra julgados proferidos sob a égide do Código de Processo Civil de 1973, o que não é caso dos presentes autos, cujo recurso especial foi interposto quando já em vigor o novo Diploma Processual.
+Com efeito, compulsando os autos, verifica-se que o recurso especial é inadmissível por ser intempestivo, pois o recurso especial foi interposto em 09/10/2020 (e-STJ, fl. 456), contra decisão disponibilizada no DJe do dia 08/09/2020 (e-STJ, fl. 448) e considerada publicada no dia 09/09/2020, portanto, fora do lapso temporal de 15 (quinze) dias úteis .
+Registre-se, por oportuno, que o juízo de admissibilidade dos recursos extremos é bifásico, de modo que a decisão proferida pelo Tribunal de origem em juízo prévio não vincula esta Corte Superior, destinatário do recurso especial, ao qual compete o juízo definitivo de sua admissibilidade. Nesse sentido: AgInt nos EDcl no AREsp 1727407/MT, 3ª Turma, DJe de 13/5/2021; e AgInt no AREsp 1805220/SP, 4ª Turma, DJe de 08/10/2021.
+Desse modo, conforme ressalvado na decisão agravada, nos termos do artigo 1.003, §6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. Nesse sentido: AgInt no AREsp 957.821/MS, Corte Especial, DJe de 19/12/2017; e AgInt no AREsp 1481810/SP, Corte Especial, DJe de 20/08/2021.
+Assim, considerando que o recurso especial foi interposto sob a égide do novo regramento processual e deixando o agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a sua intempestividade.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
