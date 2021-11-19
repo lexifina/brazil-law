@@ -1,0 +1,22 @@
+DECISÃO
+Cuidam-se de embargos de declaração opostos por Supermercado Speciale Ltda. à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 158):
+AGRAVO EM RECURSO ESPECIAL. TITULO EXTRAJUDICIAL. EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO. SUCESSÃO EMPRESARIAL RECONHECIDA. REEXAME DA QUESTÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Alega oembargante a existência de vício na decisão embargada.
+Aduz que se "deixou de apontar qual parte do recurso não teria sido conhecida, ainda menos, quais as razões do não conhecimento, incidindo assim em omissão acerca deste aspecto" (e-STJ, fl. 165).
+Argumenta, ainda, que não houvemanifestação acerca do limite de exame de admissibilidade pelo Tribunal local, nem acolhendo,nem rejeitando o tema, o que, segundo entende, configura omissão.
+Não foi apresentada impugnação (e-STJ, fls. 171-172).
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+No caso, a pretensão não merece acolhida, porque adecisão embargada não contém nenhumvício.Tenha-se em conta, de início, que o órgão julgador não está obrigado a se pronunciar acerca de todos os pontos suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+De fato, afastou-se a alegação de negativa de prestação jurisdicional, tendo ficado consignado que o acórdão recorrido semanifestou, no julgamento do agravo de instrumento, sobre os pontos principais da demanda - ausência de irregularidade na inclusão da empresa sucessora para responder pela dívida da sociedade adquirida - e, tambémao julgar os embargos de declaração.
+Ademais, quanto à caracterização da sucessão empresarial, ficou assentado que a Corte estadual decidiu a questão com base nos elementos fático-probatórios dos autos.
+Assim sendo, as apontadas ofensas a dispositivos de lei foram enfrentadas de maneira fundamentada pela decisão embargada, sendo, portanto, o que bastava para o deslinde do feito.
+Relativamente ao argumento da falta de indicação de qual parte do recurso não teria sido conhecida, bem como as razões do não conhecimento, a matéria não possui relevância que o embargante lhe quer emprestar.
+Isso porque, como se sabe, na eventualidade da interposição de recurso interno contra a decisão proferida por esta Corte Superior, deve-se observar, sempre, o principio da dialeticidade - com impugnação específica a todosfundamentos adotados -, sob pena de não conhecimento da irresignação (art. 1.021,§ 1º, do CPC/2015; art. 259,§ 2º, do RISTJ;além da Súmula 182/STJ, aplicada por analogia).
+Quanto aos limites da decisão que examina a admissibilidade do recurso especial, além de não ter sido indicado como ofendido nenhum dispositivo legal para apreciação desta Corte Superior,hámuito se sabe que, "consoante pacífica jurisprudência do Superior Tribunal de Justiça, é possível a incursão no mérito da lide pelo Tribunal local quando necessária à análise dos pressupostos constitucionais de admissibilidade do recurso especial, nos moldes do preconizado no enunciado n. 123 da Súmula desta Corte, sem que isso configure usurpação de competência"(AgInt nos EDcl no AREsp 1.186.144/RS, Rel. Ministro Marco Buzzi,DJe 11/06/2021).
+Por conseguinte, a decisão embargada não possui vício a ser sanado por intermédio dos embargos de declaração, sendo evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
