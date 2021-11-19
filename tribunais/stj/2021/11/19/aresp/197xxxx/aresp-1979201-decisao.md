@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado por EDSOM RASQUINHOcontra decisão da Vice-Presidência do Tribunal Regional da 3ª Regiãoque inadmitiu seu recurso especial ante os seguintes fundamentos: (I) "Não cabe o recurso por eventual violação ao artigo 535 do Código de Processo Civil de 1973, dado que o acórdão hostilizado enfrentou o cerne da controvérsia submetida ao Judiciário, consistindo em resposta jurisdicional plena e suficiente à solução do conflito e à pretensão das partes" (fl. 265); (II) no tocante à alegação de ocorrência de sucumbência mínima,eventual reforma do acórdão recorrido implicaria, necessariamente, reexame dos fatos e provas dos autos.
+A agravante, em síntese, alega que "a decisão fora publicada em 04/07/2017, quando já vigente a Lei 13.105/15, sendo necessária a reformadodecisium no tocante aos honorários de sucumbência segundo a Lei vigente à época da decisão" (fl. 275).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, os seguintes fundamentos:I) "Não cabe o recurso por eventual violação ao artigo 535 do Código de Processo Civil de 1973, dado que o acórdão hostilizado enfrentou o cerne da controvérsia submetida ao Judiciário, consistindo em resposta jurisdicional plena e suficiente à solução do conflito e à pretensão das partes" (fl. 265); (II) no tocante à alegação de ocorrência de sucumbência mínima, eventual reforma do acórdão recorrido implicaria, necessariamente, reexame dos fatos e provas dos autos.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
