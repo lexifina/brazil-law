@@ -1,0 +1,52 @@
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06. DEDICAÇÃO À ATIVIDADE CRIMINOSA. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O legislador, ao editar a Lei n. 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o traficante habitual. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. No presente caso, verifica-se que foram atendidos os requisitos necessários para o não reconhecimento do tráfico privilegiado, uma vez que ficou confirmada a dedicação da acusada à atividade criminosa, não fazendo, portanto, jus à aplicação da referida minorante. Assim, para se acolher a tese de que a envolvida não se dedica a atividade criminosa, para possibilitar a aplicação do art. 33, § 4º, da Lei n. 11.343/2006, como requer a parte recorrente, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial. Inafastável a incidência da Súmula 7/STJ.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por SILVIA VILHARVA CABREIRA (e-STJ fls. 347/373) contra decisão monocrática de e-STJ fls. 337/341, proferida pelo Ministro Presidente, que conheceu do agravo para não conhecer do seu recurso especial.
+A parte agravante alega: (i) a não incidência da Súmula 7/STJ; (ii) a aplicação do benefício do art. 33, §4º, da Lei nº 11.343/06, uma vez que não há prova nos autos de que a acusada se dedica à atividade criminosa; (iii) reconhecido o tráfico privilegiado, o afastamento da natureza hedionda do delito e a possibilidade da fixação do regime aberto para o cumprimento da pena, bem como da substituição da reprimenda por restritivas de direitos.
+Requer, assim, a reconsideração da decisão agravada.
+Instado a se manifestar, o Ministério Público Federal opinou pela intimação do Parquet estadual (e-STJ fls. 380).
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06. DEDICAÇÃO À ATIVIDADE CRIMINOSA. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O legislador, ao editar a Lei n. 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o traficante habitual. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. No presente caso, verifica-se que foram atendidos os requisitos necessários para o não reconhecimento do tráfico privilegiado, uma vez que ficou confirmada a dedicação da acusada à atividade criminosa, não fazendo, portanto, jus à aplicação da referida minorante. Assim, para se acolher a tese de que a envolvida não se dedica a atividade criminosa, para possibilitar a aplicação do art. 33, § 4º, da Lei n. 11.343/2006, como requer a parte recorrente, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial. Inafastável a incidência da Súmula 7/STJ.
+3. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Busca-se o afastamento da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Sabe-se que o legislador, ao editar a Lei n. 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o traficante habitual.
+Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Na espécie, as instâncias de origem, ao não aplicar o benefício do art. 33, §4º, da Lei nº 11.343/06, consignou:
+Em remate, inaplicável a causa de diminuição do artigo 33, §4º, da Leinº 11.343/06, porquanto restou demonstrado nos autos que a acusada se dedicava à atividades criminosas, tanto que a polícia judiciária recebeu diversas informaçõesacerca da "Boca da Silvinha", inclusive no dia dos fatos, quando foi noticiado que a denunciada era a fornecedora dos entorpecentes que eram comercializados em doispontos de disseminação de psicotrópicos. Destarte, como um dos requisitos da mencionada causa de diminuição não se encontra preenchido, não há que aplicá-la. (e-STJ fl. 119)
+Silvia Vilhalva Cabreira interpõe recurso de apelação contra sentença proferida pelo Juízo da 1ª Vara Criminal da comarca de Dourados, que julgou procedente a denúncia consistente na imputação do crime previsto no art. 33, caput, da Lei nº 11.343/06, condenando-a à pena de 05 anos de reclusão e pagamento de 500 dias- multa, a ser cumprido em regime inicialmente semiaberto.
+ ..
+Pugna  ..  pela aplicação da causa de diminuição de pena do artigo 4º, da Lei 11.343/06, diante do preenchimento dos requisitos para tanto necessários.
+Requer, ainda, o abradamento do regime inicial de cumprimento da pena, bem como a substituição da pena corpórea por restritivas de direitos.
+ ..
+Não obstante os argumentos trazidos, a pretensão recursal não comporta acolhida.
+ ..
+Apurou-se que na data de 17.7.2020, por volta das 7h, na residência localizada à Rua Barão do Rio Branco, n. 154, Vila Cachoeirinha, naquela comarca de Dourados, a recorrente foi presa em flagrante delito, porquanto tinha em depósito, para fins de mercancia, 3 (três) porções de "maconha", pesando 850g, sem autorização e em desacordo com determinação legal ou regulamentar.
+Consta, ainda, que policiais civis do SIG, em cumprimento de mandados de busca e apreensão no bairro Vila Cachoeirinha, receberam informes de que no aludido endereço funcionava um ponto de comercialização habitual de estupefacientes, mantido pela pessoa precariamente identificada como "Silvinha", razão pela qual, munidos de tais informações, os agentes civis passaram a monitorar o imóvel, átimo em que constataram forte odor de maconha e grande fluxo de pessoas no lugar.
+ ..
+Alie-se a isso os depoimentos do policial civil  .. , colhido sob o crivo do contraditório, segundo o qual haviam cumprido mandado de busca e apreensão em outra duas residências anteriormente, quando, então receberam informações de que quem mantinha uma dessas bocas era a ré.  ..
+Consoante referido dispositivo legal, para a aplicação da causa de diminuição de pena, mister se faz cumulação dos requisitos elencados, ou seja, que o agente seja primário, de bons antecedentes e não se dedique a atividades criminosas nem integre organização criminosa, sendo que na falta de um deles, inviável a benesse legal.  ..
+Exsurge, pois, da simples leitura do artigo que, para a incidência da diminuição pretendida, faz-se imprescindível a presença cumulativa dos pressupostos acima elencados.
+E, no caso concreto, os elementos colhidos denotam, à suficiência, que a ré dedicava-se ao tráfico ilícito de entorpecentes, inclusive como meio de vida, tanto é que utilizavam residência como ponto de venda de drogas.
+ ..
+Dessa forma, após a análise do contexto fático em que o crime se desenvolveu, verifica-se que a recorrente dedicava-se à atividade criminosa, razão pela qual inaplicável a causa especial de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06. (e-STJ fl. 225/236)
+Pela leitura dos recortes acima, verifica-se que foram atendidos os requisitos necessários para o não reconhecimento do tráfico privilegiado, uma vez que ficou confirmada a dedicação da acusada à atividade criminosa, não fazendo, portanto, jus à aplicação da referida minorante.
+Assim, para se acolher a tese de que a envolvida não se dedica a atividade criminosa, para possibilitar a aplicação do art. 33, § 4º, da Lei n. 11.343/2006, como requer a parte recorrente, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial. Inafastável a incidência da Súmula 7/STJ.
+Por fim, mantida a reprimenda em 5 anos de reclusão, a ser cumprida em regime semiaberto, pelo delito do tráfico, prejudicadas as análises da natureza hedionda e da possibilidade da fixação do regime aberto e da substituição da privativa de liberdade por restritivas de direitos.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
