@@ -1,0 +1,110 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO DE AGRAVO REGIMENTAL NA ORIGEM. APLICAÇÃO DA SÚMULA 691/STF. DECISÃO DE INDEFERIMENTO LIMINAR NESTE STJ. FLAGRANTE ILEGALIDADE NÃO CONSTATADA IN CASU. NO MAIS, APLICAÇÃO DA SÚMULA 182/STJ. RECURSO DE AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Pelo que se afere da exordial, o habeas corpus investe contra denegação de liminar. Ocorre que, ressalvadas hipóteses excepcionais, não é cabível a utilização do instrumento heroico em situação como a presente. A matéria, inclusive, encontra-se sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula n. 691/STF).
+III - No caso concreto, como já decidido anteriormente, não restou configurada qualquer flagrante ilegalidade, porquanto, das alegações da d. Defesa, não se pode extrair a certeza necessária à eventual concessão da ordem liminarmente, sem que haja o revolvimento de fatos e provas. Ainda,a r. decisão do d. Juízo a quo, expressamente, afastoua existência dos supostos autos extraviados e, de qualquer forma, confirmoua existência de justa causa autônoma à ação penal de origem (fls. 383-385).
+IV - Não obstante, importante salientar que os "fatos novos" não foram apreciados pela eg. Corte de origem, tal qual toda a matéria aqui invocada em supressão de instância.
+V - No mais, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimentalinterposto por CRISTIAN ALEXANDER GREGIO, em face de decisão que indeferiu liminarmente o habeas corpus, por aplicação do enunciado nº 691 da Sumula do col. Supremo Tribunal Federal.
+No presente recurso, o agravante reitera argumentos lançados na inicial, em especial, verbis (fls. 401-434):
+"(..)O paciente lembrava-se que possuía cópia do Termo de Colaboração Premiada e, ainda, o instrumento de acordo de colaboração premiada, ambos, disponibilizados para ele dentro do Centro de Detenção Provisória de Pontal/SP (documentos ora anexados).
+(..)
+Ainda, a defesa de um corréu submeteu a d. juíza, para resolução da contentada, que fosse ouvido o Promotor LEONARDO ROMANELLI, o qual era responsável pela investigação e firmou o acordo de colaboração premiada com o paciente. No mesmo sentido, a d. juíza entendeu por indeferir o pleito sem maiores fundamentos, conforme vê-se dos Termo de Audiência ora anexado(documento 03).
+(..)
+A novidade, aqui, então, é o Termo de Colaboração Premiada, que serve como espécie de ata do encontro entre o paciente, seu advogado e o Ministério Público, que, muttatis mutatis, confirma a efetiva realização de um acordo de colaboração premiada. O que as partes poderiam contestar somente com um instrumento de acordo de colaboração, ora ganha robusteza com um Termo de Colaboração Premiada.
+(..)
+Nesse sentido, ora vimos perante Vossa Excelência, apresentando tais fatos novos, requerer, sob o fundamento do art.258, §3º, do Regimento Interno do Superior Tribunal de Justiça, a RECONSIDERAÇÃO DA r. DECISÃO que indeferiu liminarmente a impetração para, em superação ao óbice sumular, CONCEDER MEDIDA LIMINAR PARA SUSPENDER O CURSO DAS AÇÕES PENAIS até o julgamento do mérito da correição parcial interposta perante o e. Tribunal de Justiça do Estado de São Paulo.
+(..)
+Veja, Excelência, não há dúvidas de que o juízo de Brodowski/SP recebeu a referida documentação do Ministério Público, (..) Além disso, o relatório da investigação trata do acordo de colaboração premiada a todo momento, não só indicando a sua existência como sua importância.
+(..)
+Eminente Ministro relator, ante ao surgimento de fatos novos que deixam claro a existência de acordo de colaboração premiada entre o paciente e o parquet, quais sejam, a juntada do Termo de Colaboração Premiada e Instrumento de Acordo de Colaboração Premiada, ambos, assinados e firmados enquanto o paciente esta custodiado no Centro de Detenção Provisória de Pontal/SP, ora requer a RECONSIDERAÇÃO DA r. DECISÃO que indeferiu liminarmente a impetração para, em superação ao óbice sumular, CONHECER DA IMPETRAÇÃO e CONCEDER MEDIDA LIMINAR PARA SUSPENDER O CURSO DAS AÇÕES PENAIS até o julgamento do mérito da correição parcial interposta perante o e. Tribunal de Justiça do Estado de São Paulo.
+(..)
+DIANTE DO EXPOSTO, caso Eminente Ministro Relator não altere Vossa posição, requer-se a submissão das presentes razões à c. 5ª Turma deste e. Superior Tribunal de Justiça, para que seja integralmente conhecido e providos o presente recurso para, ao final, conceder a ordem de habeas corpus nos termos lançados na inicial da presente impetração" (grifei).
+Requer o conhecimento e provimento do presente recurso, facultado o juízo de retratação, a fim de, ao final, ser reformada a decisão atacada e a ordem de impetração concedida.
+Oportunizada a manifestação ao d. Ministério Público Federal, este quedou-se inerte. No mesmo sentido, o d. Ministério Público Estadual.
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO DE AGRAVO REGIMENTAL NA ORIGEM. APLICAÇÃO DA SÚMULA 691/STF. DECISÃO DE INDEFERIMENTO LIMINAR NESTE STJ. FLAGRANTE ILEGALIDADE NÃO CONSTATADA IN CASU. NO MAIS, APLICAÇÃO DA SÚMULA 182/STJ. RECURSO DE AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Pelo que se afere da exordial, o habeas corpus investe contra denegação de liminar. Ocorre que, ressalvadas hipóteses excepcionais, não é cabível a utilização do instrumento heroico em situação como a presente. A matéria, inclusive, encontra-se sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula n. 691/STF).
+III - No caso concreto, como já decidido anteriormente, não restou configurada qualquer flagrante ilegalidade, porquanto, das alegações da d. Defesa, não se pode extrair a certeza necessária à eventual concessão da ordem liminarmente, sem que haja o revolvimento de fatos e provas. Ainda,a r. decisão do d. Juízo a quo, expressamente, afastoua existência dos supostos autos extraviados e, de qualquer forma, confirmoua existência de justa causa autônoma à ação penal de origem (fls. 383-385).
+IV - Não obstante, importante salientar que os "fatos novos" não foram apreciados pela eg. Corte de origem, tal qual toda a matéria aqui invocada em supressão de instância.
+V - No mais, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+VOTO
+Presentes os requisitos legais, conheço do agravo regimental.
+No presente recurso, como dito, o agravante reitera argumentos lançados na inicial, conforme já relatado.
+Requer o conhecimento e provimento do presente recurso, facultado o juízo de retratação, a fim de, ao final, ser reformada a decisão atacada e a ordem de impetração concedida.
+Para afastar qualquer dúvida, a decisão recorrida (fls. 391-398):
+"Trata-se de habeas corpus substitutivo de recurso de agravo regimental, com pedido liminar, impetrado em favor de CRISTIAN ALEXANDER GREGIO, contra r. decisão proferida por Em. Des. do Tribunal de Justiça do Estado de São Paulo (fl. 48):
+"1) Fls. 1/43 (e documentos de fls. 44/380): Indefiro o pedido liminar de suspensão dos autos nº 1000910-58.2019.8.26.0094 até que sejam restaurados os autos do apenso processual extraviado em cartório, vez que não se vislumbra, a princípio, ilegalidade na r. decisão que indeferiu o pedido de restauração e de apuração administrativa a respeito.
+2) Oficie a Secretaria, com urgência, ao r. Juízo corrigido da Vara Única do Foro de Brodowski para que apresente resposta à presente Correição Parcial, prestando informações acerca da Ação Penal nº 1000910-58.2019.8.26.0094.
+3) Com a resposta, encaminhem-se os autos à douta Procuradoria Geral de Justiça para se manifestar acerca da Correição Parcial Criminal interposta pelo Ministério Público de primeiro grau. (..)"
+Daí o presente writ, no qual a d. Defesa sustenta a necessidade de, ao menos, suspender a ação penal de origem.
+Aduz que, "finda a instrução processual, em 05 de agosto de 2014, foi apresentado ao juízo de piso um envelope lacrado contendo "documentos", com a solicitação de manutenção em pasta sigilosa lacrada em cartório Judicial, limitados os acessos apenas as partes e mediante anuência judicial, e sob a guarda exclusiva do senhor Diretor. Neste mesmo ato, o Ministério Público requereu a liberdade do paciente, mediante cumprimento das condições previstas na documentação anexada. Ainda, requereu-se o levantamento das medidas constritivas sobre os automóveis apreendidos, ressalvada o veículo Ford/Edge (documento 12)" (fl. 8).
+Alega que "o processo n. 3000337-93.2013.8.26.0094 encontra-se suspenso por sete anos. Foram mais de 5 (cinco) pedidos de manutenção do sobrestamento dos autos, todos, em que o Ministério Público avançou, e muito, a marca dos 90 (noventa) dias requeridos. Esse status permanece até os dias atuais. Aliás, o PIC que sustava tais pedidos ficou parado dentro do Ministério Público por mais de 1 (um) ano, consoante verificado à fls. 742 (documento 16)" (fl. 13).
+Informa que, "para que a defesa pudesse ter plena ciência da situação processual do paciente, sob o fundamento da Súmula Vinculante n. 14, requereu-se a d. juíza de piso acesso aos autos de acordo de colaboração premiada firmada entre o paciente e o Ministério Público (documento 25). A d. juíza, no entanto, negou o pedido da defesa, sob o fundamento de que, conforme manifestação ministerial, não foi celebrado acordo de colaboração premiada entre as partes (documento 26)" (fl. 18).
+Explica que "Arguiu a defesa que existia no caso duas opções. A primeira seria desconsiderar a existência do acordo de colaboração premiada e, por isso, retirar todas as provas oriundas deste, o que levaria a ação penal ao seu trancamento por ausência de justa causa. A segunda opção, que pareceu mais condizente com a proposta ministerial, era a realização de restauração de autos, quando o processo principal deveria quedar-se suspenso. Afinal, enquanto isso, não saberia qual a condição processual do paciente, se réu colaborador ou réu comum (documento 30)" (fl. 24).
+Requer, inclusive LIMINARMENTE, "DETERMINAR O SOBRESTAMENTO DOS CURSOS DAS AÇÕES PENAIS Nº 1000910-58.2019.8.26.0094; 100091-14.2019.8.26.0094; 3000337-93.93.2013.8.26.0094, todas, em trâmite perante a Vara Única da comarca de Brodowski/SP, até que a respeitável 11ª Câmara de Direito Criminal do e. Tribunal de Justiça do Estado de São Paulo exare, no mérito, definitivo acórdão sobre a possiblidade de abertura de restauração de autos colaboracionais em correição parcial, sob pena de cerceamento de defesa e constrangimento ilegal. No mérito, a ratificação do pedido liminar" (fls. 43-44).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento do writ, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Assim, incabível o presente mandamus, porquanto substitutivo de recurso de agravo regimental.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem de ofício e liminarmente.
+Pelo que se afere da exordial, o habeas corpus investe contra denegação de liminar.
+Ocorre que, ressalvadas hipóteses excepcionais, não é cabível a utilização do instrumento heroico em situação como a presente.
+A matéria, inclusive, encontra-se sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula n. 691/STF).
+De fato, embora a (possibilidade de) segregação em geral seja tema de extrema relevância, das alegações da d. Defesa, não se pode extrair a certeza necessária à eventual concessão da ordem liminarmente, sem que haja o revolvimento de fatos e provas.
+Aqui, a r. decisão do d. Juízo a quo, que literalmente afasta a existência dos supostos autos extraviados e confirma a existência de justa causa autônoma à ação penal de origem (fls. 383-385):
+"Cuida-se de pedido formulado pela Defesa do acusado Cristian Alexander Grégio visando ao trancamento da ação penal por falta de justa causa, o sobrestamento das ações penais até restauração de autos de aventada colaboração premiada e apuração administrativa.
+(..)
+Logo, não há falar em restauração de autos não distribuídos, quanto menos em apuração administrativa, quando não se tem elementos de recebimento de apontado acordo pela serventia, pese decisão homologatória realizada por juiz que acumulava, à época, esse Juízo, decisão nula à vista da ausência de prova de formalização de acordo, nos moldes da legislação.
+Com efeito, as declarações-documento 48 - fls.3.448/3.450, datadas de março de 2015, não podem ser admitidas como colaboração premiada, pois não apresentam quaisquer condições, estando, ademais, o denunciado desacompanhado de defensor.
+Logo, não houve adimplemento dos comandos da Lei nº 12.850/13, que rege a matéria (colaboração premiada).
+Ademais, a peça inaugural apresenta outras provas de materialidade e indicativos de autoria, como auditoria interna e declarações do superintendente à época, anteriores àquelas prestada pelo acusado em tela, não havendo, pois, falar em trancamento da ação, consoante bem ponderado na manifestação ministerial de fls.6.399/6.406.
+Aliás, a decisão que recebeu a denúncia apontou tais elementos da materialidade -fls.3.548.
+Destarte, é o caso de se desentranhar o documento 48, cujo conteúdo passa ao largo de uma formal colaboração premiada, prosseguindo-se a instrução."
+Não por outros motivos, o debate buscado pela d. Defesa deve aguardar o mérito ser julgado na própria origem, pois inviável de ser realizado nesta eg. Corte em sede liminar, ainda mais em supressão de instância.
+Além disso, incabível o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões apresentadas.
+Ora, a matéria aqui ventilada não foi debatida na origem e, diante disso, o eg. Tribunal a quo não se manifestou acerca do tema da presente impetração, ficando impedida esta Corte de proceder à sua análise, sob pena de indevida supressão de instância.
+Nesse sentido é o entendimento das Turmas que compõem a Terceira Seção desta eg. Corte de Justiça, in verbis:
+(..)
+Ante o exposto, com fulcro no art. 34, XVIII, "a" e art. 210, ambos do RISTJ, indefiro liminarmente o presente writ."
+Pois bem.
+Conforme se apreende, todos os pontos apresentados foram devidamente analisados, não havendo falar em constrangimento ilegal.
+Pelo que se afere da exordial, o habeas corpus investe contra denegação de liminar.
+Ocorre que, ressalvadas hipóteses excepcionais, não é cabível a utilização do instrumento heroico em situação como a presente.
+A matéria, inclusive, encontra-se sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula n. 691/STF).
+No caso concreto, como já decidido anteriormente, não restou configurada qualquer flagrante ilegalidade, porquanto, das alegações da d. Defesa, não se pode extrair a certeza necessária à eventual concessão da ordem liminarmente, sem que haja o revolvimento de fatos e provas.
+Ainda, a r. decisão do d. Juízo a quo, expressamente, afastou a existência dos supostos autos extraviados e, de qualquer forma, confirmou a existência de justa causa autônoma à ação penal de origem (fls. 383-385).
+Não obstante, importante salientar que os "fatos novos" não foram apreciados pela eg. Corte de origem, tal qual toda a matéria aqui invocada em supressão de instância.
+No mais, o presente agravo limitou-se a reiterar as teses do habeas corpus, deixando de refutar, ponto por ponto, os argumentos da r. decisão guerreada, caso em que tem aplicabilidade o disposto no enunciado n. 182 da Súmula desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Exemplificativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. A jurisprudência desta Corte é harmônica no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. Conforme reiterados julgados dessa Corte, cumpria ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada a qual não conheceu do writ por se tratar de reiteração de pedido analisado por esta corte no Aresp n. 1.336.090 e inexistir requisitos a serem analisados da segregação cautelar por se tratar de execução provisória da pena. Limitou-se a defesa em argumentar sobre a possibilidade de superação da súmula 691/STF e ausência de requisitos autorizadores da prisão preventiva. Portanto, no caso, aplica-se a Súmula 182/STJ "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo regimental não conhecido" (AgRg no HC n. 429.525/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 13/11/2018).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT PREJUDICADO. SUPERVENIENTE PERDA DE OBJETO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. NÃO CONHECIMENTO.
+1. Não há impedimento para que o relator decida a impetração, de forma singular, nos termos do art. 557 do CPC c/c os arts. 3º do Código de Processo Penal, 38 da Lei n. 8.038/90 e 34, XVIII, b, do RISTJ, quando já exista jurisprudência consolidada no Tribunal a respeito da matéria versada no writ, inocorrendo, portanto, ofensa ao princípio da colegialidade. Precedentes desta Corte e do STF.
+2. Ao agravante cabe impugnar de forma específica os fundamentos da decisão recorrida, sob pena de não conhecimento da insurgência. Aplicação, por analogia, do enunciado contido na Súmula n. 182 desta Corte.
+3. Agravo regimental não conhecido" (AgRg no HC n. 405.266/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/6/2018).
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamento s.
+Acerca do tema, cito os seguintes precedentes desta eg. Corte:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. AUSÊNCIA DE DEBATE DA TESE PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. AUSÊNCIA DE INDIVIDUALIZAÇÃO DA SITUAÇÃO DE CADA CONDENADO. INEXISTÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO AGRAVADA. AGRAVO IMPROVIDO.
+1. Segundo o entendimento vigente neste Superior Tribunal de Justiça, a modificação de decisão por meio de agravo regimental requer a apresentação de argumentos capazes de alterar os fundamentos anteriormente firmados.
+(..)
+6. Assim, inexistindo novos fundamentos capazes de modificar o decisum impugnado, deve ser mantida a decisão.
+7. Agravo improvido" (AgRg no HC n. 384.871/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 9/8/2017).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AUSÊNCIA DE ARGUMENTOS NOVOS PARA ATACAR A DECISÃO IMPUGNADA. MERO INCONFORMISMO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática do relator, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental. (..)
+3. O agravo regimental não traz argumentos novos capazes de alterar o entendimento anteriormente firmado, razão por que deve ser mantida a decisão monocrática proferida.
+4. Agravo regimental improvido" (AgRg no HC n. 369.103/MS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 31/8/2017).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
