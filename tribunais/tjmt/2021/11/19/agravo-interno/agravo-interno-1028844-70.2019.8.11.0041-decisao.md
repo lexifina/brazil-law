@@ -1,0 +1,58 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial n. 1028844-70.2019.8.11.0041
+RECORRENTE: SONIA MARIA FERREIRA SANTOS
+RECORRIDO: PORTO SEGURO COMPANHIA DE SEGUROS GERAIS
+Vistos.
+Trata-se de recurso especial interposto por SONIA MARIA FERREIRA SANTOS com fundamento no artigo 105, inciso III, alínea “a” e “c” da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado assim ementado:
+RECURSO DE AGRAVO INTERNO – APELAÇÃO CÍVEL – AÇÃO DE OBRIGAÇÃO DE FAZER – SEGURO OBRIGATÓRIO DPVAT – RECEBIMENTO DO REQUERIMENTO ADMINISTRATIVO – EXTENSÃO DA OBRIGAÇÃO A OUTROS PLEITOS – PEDIDO NÃO SUSCITADO NA INSTÂNCIA SINGELA – INOVAÇÃO RECURSAL CARACTERIZADA – APELO NÃO CONHECIDO - PRECEDENTES – RECURSO NÃO PROVIDO.
+Se as matérias defendidas na apelação não foram suscitadas anteriormente no juízo de primeiro grau, inadmissível sua apreciação em grau de recurso, em observância a impossibilidade de inovação recursal. ”
+(TJMT – Quarta Câmara de Direito Privado – n. 1028844-70.2019.8.11.0041, Relator (a): DES. SERLY MARCONDES ALVES, j. em 05/03/2021).
+O presente recurso foi interposto contra o aresto, que em sede de agravo interno, manteve a decisão monocrática de id. 67403476, que negou provimento à Apelação interposta por SONIA MARIA FERREIRA SANTOS, mantendo a sentença que julgou extinto o feito, nos termos do artigo 485, inciso IV do CPC, em razão da perda superveniente do objeto.
+A parte recorrente alega, além de divergência jurisprudencial, a violação aos artigos 247 do Código Civil, ao argumento de que “(...) nos termos do art. 5o, §2o, da Lei no. 6.194/74, cabe a sociedade seguradora mediante recibo, especificar quais os documentos que estariam sendo entregues para o requerimento administrativo, sendo assim, uma obrigação imposta a seguradora recorrida, motivo este que necessária se faz que esta cumpra o que restou expresso pelo legislador. (...)”.
+Suscita a afronta ao artigo 19 e 20, inciso I do Código de Processo Civil, porquanto “(...) o interesse do autor pode limitar-se a declaração da existência ou não inexistência ou ainda do modo da relação jurídica e ainda seria admissível a ação meramente declaratória (...)”.
+Recurso tempestivo (id. 81617529).
+A parte recorrente é beneficiária da justiça gratuita (id 81921999).
+Contrarrazões em id. 84252497.
+É o relatório.
+Decido.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 07 do STJ)
+Tem-se que nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não se mostrando possível que se examine matéria fático-probatória, ante o teor da Súmula 07 do STJ:
+“Súmula 07/STJ. A pretensão de simples reexame de prova não enseja recurso especial”.
+A suposta violação a violação aos artigos 247 do Código Civil, está amparada na assertiva de que cabe a sociedade seguradora mediante recibo, especificar quais os documentos que estariam sendo entregues para o requerimento administrativo.
+Assim como a afronta ao artigo 19, inciso I do Código de Processo Civil, alegada pelo recorrente baseia-se na assertiva de que o interesse do autor pode limitar-se a declaração da existência ou não inexistência ou ainda do modo da relação jurídica e ainda seria admissível a ação meramente declaratória.
+O órgão fracionário deste tribunal decidiu que “o pedido de extensão da obrigação aos demais pleitos administrativos não foi levado à apreciação da instância singela, de modo que, o recurso não deve ser conhecido, dada a clara inovação recursal”, devendo assim ser mantida a sentença que julgou extinto o feito, em razão da perda superveniente do objeto, como se vê:
+In casu, Sonia Maria Ferreira Santos ajuizou ação de obrigação de fazer c/c Pedido de Tutela Antecipada de Urgência por dependência à ação de cobrança do seguro obrigatório DPVAT alegando que, mesmo havendo provas da recalcitrância da seguradora em receber o seu pedido administrativo, foi intimada para no prazo de 15 dias apresentar o processo administrativo, sob pena de indeferimento da inicial.
+Em sua defesa a seguradora pugnou pela extinção do feito, haja vista, o juiz singular ter recebido e determinado o processamento da ação de cobrança securitária. (ID. 61906543)
+Após, sob o fundamento da perda superveniente do objeto, o magistrado de Instância singela julgou extinta a ação de obrigação de fazer, sem resolução de mérito.
+Irresignada, a requerente interpôs recurso de apelação pugnando pela anulação da sentença, alegando que o fato da ação principal ter sido recebida, não é causa bastante para a ação secundária ser extinta por perda do objeto.
+Disse que o objeto principal da presente demanda não é de obrigar a seguradora receber o protocolo do pedido administrativo referente a ação em apenso, mas também de qualquer outro pleito administrativo da recorrente, em fiel cumprimento ao art. 5o, §2o, da Lei no. 6.194/74, regulamentadora do seguro obrigatório DPVAT.
+Em decisão monocrática, dada a inovação recursal, não conheci do Apelo interposto pela ora agravante.
+Nesta ocasião, a Sr.a Sonia Maria Ferreira Santos, busca a reforma da decisão, alegando que em sua exordial requereu a extensão da obrigação para outros processos administrativos.
+Sem razão a apelante, pois conforme consta do pedido específico da autora, o objeto da presente demanda é para que a seguradora requerida cumpra com a norma regulamentadora do seguro obrigatório DPVAT e receba e protocole o pedido de pagamento da cobertura securitária por invalidez da parte autora. (id. 61906511 – fl. 24)
+Como se vê, o pedido de extensão da obrigação aos demais pleitos administrativos não foi levado à apreciação da instância singela, de modo que, o recurso não deve ser conhecido, dada a clara inovação recursal.
+Nesse sentido:
+“APELAÇÃO CÍVEL – EMBARGOS A EXECUÇÃO ––PRELIMINAR DE CERCEAMENTO DE DEFESA REJEITADA – TESE DE SUSPENSÃO DE PENHORA E TÍTULO DESPROVIDO DE ASSINATURA DE TESTEMUNHAS INADMISSÍVEL – INOVAÇÃO RECURSAL - NÃO APRECIAÇÃO - RECURSO NÃO CONHECIDO. Se as matérias defendidas na apelação não foram suscitadas anteriormente no juízo de primeiro grau, inadmissível sua apreciação em grau de recurso, em observância a impossibilidade de inovação recursal.” (TJ/MT- Ap, 74847/2014, DES.SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA CÍVEL, Data do Julgamento 23/09/2014, Data da publicação no DJE 29/09/2014)
+AGRAVO REGIMENTAL - APELAÇÃO - SEGURO OBRIGATÓRIO – DPVAT - PRESCRIÇÃO - TERMO INICIAL - CIÊNCIA INEQUÍVOCA DO CARÁTER PERMANENTE DA INVALIDEZ ATESTADA POR LAUDO - PRESCRIÇÃO AFASTADA - ALEGAÇÃO DE PAGAMENTO ADMINISTRATIVO - INOVAÇÃO RECURSAL - VEDAÇÃO - INVALIDEZ PARCIAL PERMANENTE CARACTERIZADA - CÁLCULO DA INDENIZAÇÃO - ACIDENTE OCORRIDO ANTES DE 2008 - APLICAÇÃO DA TABELA NO CNSP ALIADA À CONSTATAÇÃO DA PERÍCIA MÉDICA - RESP 1.303.038 - REDEFINIÇÃO DO QUANTUM - RECURSO PARCIALMENTE PROVIDO.
+(...) Não se conhece de pretensão formulada apenas em segunda instância, pois representa inovação, o que torna inviável seu enfrentamento. (...) (AgR 39212/2015, DES. RUBENS DE OLIVEIRA SANTOS FILHO, SEXTA CÂMARA CÍVEL, Julgado em 15/04/2015, Publicado no DJE 22/04/2015)
+Logo, inexistindo qualquer desacerto na decisão agravada, imperiosa sua manutenção. ”
+Desta feita, alterar o entendimento firmado no acórdão demandaria o reexame dos fatos e provas dos autos, atraindo o óbice sumular acima mencionado, conforme preconiza o STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, § 1o, DO CPC/2015. PERDA DO OBJETO. CONTROVÉRSIA. AGRAVO. MATÉRIA DE PROVA. SÚMULA No 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS. MAJORAÇÃO. IMPOSSIBILIDADE. 1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1o, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula no 182/STJ. 2. No caso, a controvérsia referente à perda do objeto da ação encontra óbice na Súmula no 7/STJ, tendo em vista a necessidade de analisar as circunstâncias fáticas dos autos. 3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o prequestionamento é indispensável ao conhecimento da questão veiculada no âmbito desta Corte Superior, ainda que se trate de matéria de ordem pública. 4. Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do Código de Processo Civil de 2015). 5. Agravo interno não conhecido.
+(STJ - AgInt no AREsp: 1682072 SP 2020/0065937-1, Relator: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 08/06/2021, T3 - TERCEIRA TURMA, Data de Publicação: DJe 16/06/2021)
+Da falta de dialeticidade (Súmulas 283 e 284 do STF)
+A teor do que dispõem as Súmulas 283 e 284 do STF, na interposição do recurso, as razões devem ser precisas e completas, de forma a refutar todos os fundamentos do acórdão impugnado, pois o apontamento incompleto dos supostos equívocos do decisum justifica a sua integral manutenção, já que a parte não impugnada pode ser suficiente como fundamentação e não permitir a reforma do julgado.
+In casu, a parte recorrente não impugnou especificamente o principal e suficiente fundamento utilizado pela decisão recorrida, qual seja, que o órgão fracionário deste Tribunal no acórdão de id. 78526975, não enfrentou o pedido de extensão da obrigação aos demais pleitos, uma vez que o pedido não foi apreciado pelo juízo de primeiro grau.
+Assim, não conheceu do recurso devida a supressão de instância, mantendo a sentença de extinção da ação secundária pela perda de seu objeto.
+Desse modo, se não há impugnação completa, ocorre ofensa ao princípio da dialeticidade, o que atrai o óbice das Súmulas 283 e 284, do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF. DECISÃO MANTIDA. 1. O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão recorrido, de modo a permitir o cotejo entre os fundamentos da decisão recorrida e as razões expendidas no recurso. A deficiência na fundamentação do recurso especial obsta seu conhecimento (Súmula n. 284/STF). 2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF. 3. Agravo interno a que se nega provimento.
+(STJ - AgInt no AREsp: 989468 DF 2016/0253396-5, Relator: Ministro ANTONIO CARLOS FERREIRA, Data de Julgamento: 14/02/2017, T4 - QUARTA TURMA, Data de Publicação: DJe 21/02/2017) (g.n)
+Desse modo, como as razões recursais não impugnam os fundamentos do acórdão recorrido, há violação ao princípio da dialeticidade, o que impede a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
