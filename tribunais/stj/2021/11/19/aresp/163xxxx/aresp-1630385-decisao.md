@@ -1,0 +1,54 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por JR DINIZ COMÉRCIO LTDA.em face de decisão que inadmitiurecurso especial fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal do Estado de Sergipe, assim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO JUDICIAL - DECISÃO QUE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE - IRRESIGNAÇÃO - NÃO CABIMENTO - MANUTENÇÃO DO DECISIUM - CONHECIMENTO E IMPROVIMENTO DO RECURSO - DECISÃO UNÂNIME.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte alega a violação do artigo 272, § 5º, do Código de Processo Civil, ao argumento, em síntese, de que "a ora recorrente deduziu em sede de contestação requerimento para que todas as intimações/publicações fossem especificamente realizadas em nome do advogado signatário (Daniel Felipe Brabo Magalhães), porém, inobstante isso, as referidas intimações/publicações relacionadas ao processo não observaram o aludido requerimento e foram realizadas em nome de advogado diverso" (e-STJ fl. 227).
+Afirma, ainda, que "ofato de o advogado signatário sersócio da ora recorrente nada diz diretamente quanto a sua inequívoca ciência da decisão" (e-STJ fl. 227),"a intimação da sentença foi feita através do Diário da Justiça de Sergipe (Edição n" 4736 de 10 de agosto de 2017) e não através do  .. "portal do Advogado"" (e-STJ fl. 228), e "à época da contestação apresentada pela ora recorrente, o processo era físico" (e-STJ fl. 229), nunca tendo sido adotadas medidas concretas para o cadastro do advogado naquele portal.
+É o breve relatório.
+Passo a decidir.
+A pretensão recursal não pode ser conhecida, em virtude da incidência doóbicedaSúmula7deste Superior Tribunal de Justiça, conforme destacado na decisão que inadmitiu o recurso especial.
+No acórdão recorrido, assim se manifestou o Tribunal de origem quanto à controvérsia:
+"A exceção de pré-executividade é construção doutrinária e jurisprudencial, possuindo ampla aceitação nos tribunais, prestando-se para provocar o magistrado a se pronunciar sobre questões que, a rigor, não necessitariam de alegação das partes, isto é, sobre as questões chamadas "cognoscíveis de ofício", as matérias ditas de ordem pública.
+Não há possibilidade de dilação probatória em sede de exceção de pré-executividade. OSuperior tribunal de Justiça - STJ, já se manifestou muitas vezes sobre o tema, conforme se observa do seguinte julgado,
+ ..
+O agravante alega que o processo originário deve ser anulado, uma vez que as intimações judiciais foram promovidas em nome de causídico diverso do requerido.
+Desta forma, analisando a presente controvérsia, constato que a medida adotada pelo Juízoa quofora correta.
+Na decisão o Magistrado singular fundamentou seu entendimento:
+Analisando os argumentos expostos pelo executado/excipiente, verifica-se que este,mais uma vez, pugna pela nulidade de todos os atos praticados nos autos do processo nº 201460000384. Ocorre que, conforme decisão de fls. 92, observa-se que tais alegações do executado já foram analisadas por este Juízo.Na decisão do dia 19.08.2018, ponderou o Magistrado: Em análise a petição juntada pela parte demandada às fls. 22/25 e documentos de fls. 26/81, verifica-se que o pleito ali constante, de declaração de nulidade de todos os atos praticados, inclusive no que pertine a sentença prolatada e a certificação de trânsito em julgado nos autos 201460000384 ante a ausência de vinculação do patrono do mesmo, DANIEL FELIPE BRABO MAGALHÃES, OAB/AL 7.339, conforme requerido na contestação dos referidos autos,não merece acolhimento tendo em vista que o referido patrono não possuía cadastro no SCP impossibilitando sua vinculação, consoante certidão de fls. 78.Ainda, o patrono que recebeu as intimações, Marcelo Henrique Brabo Magalhães, OAB/AL 4.577, pertence ao mesmo escritório, consoante procuração de fls. 63, não tendo o que se falar em nulidade.
+Ora, de fato avista-se no Contrato de Constituição de Sociedade Empresária o nome do causídico como sócio da empresa ora Agravante.
+Desta feita, comungo do entendimento esposado pelo Procurador de Justiça,in verbis:
+Como se vê do feito principal (201460000384), a parte executada apresentou contestação, juntando aos autos, à página 42, Contrato de Constituição de Sociedade Empresária, onde vislumbra-se na Cláusula Segunda,o nome do Causídico como sócio da empresa executada, JR DINIZ COMÉRCIO LTDA.
+Diante de tal fato, não se mostra crível que o advogado, Daniel Felipe Barbo Magalhães desconhecia os atos e movimentos do feito, onde a empresa JR DINIZ figurou na qualidade de ré.
+Não fosse só isso, o patrono esqueceu-se do seguinte fato: todas as intimações dos atos processuais no TJ/SE são feitas através do Portal do Advogado conforme se extrai do sítio do Tribunal de Justiça do Estado de Sergipe:
+(..)
+Como se vê do processo materializado, foi exarada certidão em 11/08/2016, aduzindo a impossibilidade de vinculação do advogado ao feito, pois não havia o cadastramento do Dr. Daniel Magalhães no Sistema Informatizado do Tribunal de Justiça de Sergipe.
+Ora, nestas plagas jurídicas, é de sabença comum que a desobediência aos normativos suso transcritos impede o advogado de ter acesso ao Portal do Advogado, disponível no site do TJSE; fazer carga de processos físicos; receber intimações através do Diário da Justiça, etc.
+Vislumbrando detidamente o caderno processual, é possível aferir que, embora o Bel. Daniel Felipe Brabo Magalhães não tenha sido cadastrado, o Bel Marcelo Henrique Brabo Magalhães, que milita no mesmo escritório, obteve vinculação exitosa ao feito, sendo as publicações e intimações efetuadas em seu nome.
+Desta forma, em obediência ao princípio da cooperação, segundo o qual, os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva, bem assim ao princípio da boa-fé processual, é de concluir pela ausência de nulidade dos atos apontados pelo agravante.
+Assim, não podendo o recorrente se aproveitar da própria torpeza, correta a decisão que rejeitou a exceção de pré-executividade e deu prosseguimento ao feito executivo.
+Pelos motivos acima expostos, tenho que correta a decisão atacada, impondo-se o prosseguimento do feito executivo." (e-STJ fls. 201-202).
+Da leitura dos trechos acima transcritos, verifica-se queseria necessário o reexame do conjunto fático-probatório constante dos autos - medida vedada na via do recurso especial - para se promover a revisão das premissas fixadas pela Corte estadualno sentido de que não se configurou a nulidade dos atos processuais, diante das peculiaridades do caso concreto, quais sejam: (a) a existência de certidão atestando a impossibilidade de vinculação do Dr. Daniel Felipe Brabo Magalhães ao feito, em razão da ausência de cadastramento no sistema informatizado do Tribunal de Justiça do Estado de Sergipe, por meio do qual todas as intimações dos atos processuais são realizadas; e (b) a realização de intimação em nome de procuradorque é sócio do mesmo escritório de advocacia, Dr. Marcelo Henrique Brabo Magalhães, de forma que "não se mostra crível que o advogado, Daniel Felipe Barbo Magalhães desconhecia os atos e movimentos do feito, onde a empresa JR DINIZ figurou na qualidade de ré" (e-STJ fls. 201-202).
+Com efeito, em face do óbice da Súmula 7/STJ,é inviável que esta Corte Superior verifique a efetiva ocorrência da suposta nulidade e a procedência das alegações da recorrente no sentido de que"o fato de o advogado signatário ser sócio da ora recorrente nada diz diretamente quanto a sua inequívoca ciência da decisão" (e-STJ fl. 227), "a intimação da sentença foi feita através do Diário da Justiça de Sergipe (Edição n" 4736 de 10 de agosto de 2017) e não através do  ..  "portal do Advogado"" (e-STJ fl. 228), e "à época da contestação apresentada pela ora recorrente, o processo era físico" (e-STJ fl. 229), nunca tendo sido adotadas medidas concretas para o cadastro do advogado naquele portal.
+Confiram-se os seguintes julgados, mutatis mutandis:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONVERSÃO DO CUMPRIMENTO DE SENTENÇA EM LIQUIDAÇÃO. AUSÊNCIA DE INTIMAÇÃO EXCLUSIVA EM NOME DO ADVOGADO. AUSÊNCIA DE PREJUÍZO. SÚMULAS 7 E 83/STJ. APLICAÇÃO.
+DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Conforme o adágio pas de nullité sans grief, a falta de intimação do advogado para manifestação no processo não ocasionará necessariamente a nulidade do ato, se dela não advier efetivo prejuízo.
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula nº 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1553055/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE AFRONTA AO ART. 535 DO CPC. ERRO NA INTIMAÇÃO. AUSÊNCIA DE PREJUÍZO. DANOS CAUSADOS A TERCEIRO PELO USO DE VEÍCULO LOCADO. RESPONSABILIDADE SOLIDÁRIA DA EMPRESA LOCADORA. SÚMULA 492/STF. DECISÃO MANTIDA.
+ ..
+2. O princípio da instrumentalidade das formas recomenda que a declaração de nulidade de ato processual seja precedida da comprovação de efetivo prejuízo, fato não evidenciado no caso em análise.
+ ..
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. No caso concreto, a análise das razões apresentadas pela parte recorrente, quanto ao alegado prejuízo sofrido, à existência de culpa exclusiva do recorrido e à ausência de dano moral demandaria o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+6. Agravo regimental ao qual se nega provimento.
+(AgRg nos EDcl no AREsp 649.340/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/05/2015, DJe 20/05/2015)
+Ante o exposto, com base no art. 932, inciso III, do CPC/2015, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE NULIDADE DE ATOS PROCESSUAIS POR AUSÊNCIA DE INTIMAÇÃO DO ADVOGADO INDICADO PELA PARTE.PREMISSAS FIXADAS NO ACÓRDÃO RECORRIDO NO SENTIDO DE QUE AS PECULIARIDADES DO CASO CONCRETO DEMONSTRAM A AUSÊNCIA DE NULIDADE. AUSÊNCIA DE CADASTRAMENTO DO PROCURADOR NO SISTEMA INFORMATIZADO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREJUÍZO. PRETENSÃO DE REVISÃO. INVIABILIDADE.NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIODOS AUTOS. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
