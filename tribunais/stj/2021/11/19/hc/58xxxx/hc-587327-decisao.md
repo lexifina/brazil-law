@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCOS CESAR MACEDO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná (HC n. 0020539-68.2020.8.16.0000).
+Depreende-se dos autos que o paciente foi denunciado (e-STJ fls. 286/295) pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, tendo sido, posteriormente, preso preventivamente (e-STJ fls. 45/63).
+O pedido de revogação da custódia foi indeferido (e-STJ fls. 330/332).
+Impetrado habeas corpus, o Tribunal local denegou a ordem no acórdão de e-STJ fls. 389/393.
+Daí o presente writ, no qual a defesa aponta constrangimento ilegal decorrente da imposição da medida constritiva e do excesso de prazo para formação da culpa.
+Sustenta ausência de fundamentos idôneos e concretos para a decretação da custódia, já que pautada em elementos genéricos e na gravidade abstrata dos delitos.
+Ressalta que não se encontram presentes, no caso, os requisitos do art. 312 do Código de Processo Penal, além da inexistência de indícios suficientes de autoria em desfavor do paciente, que é primário, ostenta bons antecedentes e possui ocupação lícita.
+Informa que não há, nos autos, descrição sobre "de que forma as informações coletadas demonstram a periculosidade do Paciente (Marcos). Limita-se a consignar que há indícios concretos de Marcos César Macedo possui envolvimento com os demais investigados e que é parte ativa na compra e venda de entorpecentes, sem indicar nos autos onde se encontram provas (elementos de informação) de tais afirmações", e destaca que "isso ocorre porque não há no processo nenhum elemento de informação que demonstre, de maneira inequívoca, que o Paciente participou dolosamente de qualquer conduta criminosa. A ligação existente entre Marcos César Macedo, Evanilde Quirino Macedo e Zenaide Aparecida Macedo é de parentesco, pois ele é filho daquela e irmão" (e-STJ fl. 19).
+Reforça, assim, que "não há elemento de informação que indique ser o Paciente um indivíduo perigoso, que em liberdade passará a se dedicar a atividades criminosas, pois o fato de ter relação de parentesco com pessoas investigadas por supostos cometimentos de crimes não é suficiente para fundamentar um decreto prisional" (e-STJ fl. 19).
+Assere, ainda, que, "desde a data do oferecimento da denúncia, transcorreram-se 375 (trezentos e setenta e cinco) dias. E mais, desde a prisão preventiva levada a efeito, que ocorreu após o oferecimento da denúncia, já se passaram 327 (trezentos e vinte e sete) dias" (e-STJ fl. 33), e pontua que a audiência de instrução e julgamento foi adiada por quatro vezes.
+Dessa forma, requer, liminarmente e no mérito, o relaxamento da prisão preventiva a fim de que o paciente possa aguardar em liberdade o julgamento da ação penal (e-STJ fls. 3/44).
+O pedido liminar foi por mim indeferido (e-STJ fls. 408/412).
+Informações prestadas (e-STJ fls. 427/437 e 458/462).
+Parecer ministerial pelo não conhecimento da impetração (e-STJ fls. 464/471).
+É, em síntese, o relatório.
+Decido.
+Das informações prestadas pelo Juízo de primeiro grau, às e-STJ fls. 458/461, verifico que foi prolatada sentença nos autos da Ação Penal n. 0001520-17.2019.8.16.0128, objeto do presente writ, para condenar o ora paciente à pena privativa de liberdade de 13 (treze) anos e 6 (seis) meses de reclusão, em regime inicialfechado, pela prática dos crimes previstos no art. 35, caput, da Lei n. 11.343/2006, c/c o art. 62, I, do Código Penal, e no art. 33, caput, da Lei n. 11.343/2006, por duas vezes, na forma do art. 69, caput, do Código Penal. Foi-lhe, ainda, negado o benefício de recorrer em liberdade.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO E FUNDAMENTAÇÃO. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. PREJUDICIALIDADE. SÚMULA 21/STJ. NOVO TÍTULO. ELEMENTOS CONCRETOS. PERICULOSIDADE. MODUS OPERANDI. MOTIVAÇÃO IDÔNEA A JUSTIFICAR A NECESSIDADE DA PRISÃO CAUTELAR.
+ ..
+2. A superveniência de sentença penal condenatória, por constituir novo título judicial a embasar a constrição cautelar do acusado, torna prejudicado o exame de writ que questiona decreto de prisão preventiva anterior (HC n. 365.344/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/8/2017).
+3. Existência de motivação concreta na decisão que decretou a prisão preventiva do ora agravante, evidenciada a periculosidade acentuada pelo modus operandi do crime praticado contra agente de segurança pública.
+4. Agravo regimental improvido. (AgRg no HC 440.273/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 28/03/2019, DJe 05/04/2019.)
+Insta salientar, por fim, que existe motivação concreta no decreto de prisão para a manutenção da custódia cautelar, calcada na gravidade em concreto dos delitos e na periculosidade do paciente, que possui intenso envolvimento na organização criminosa, sendo parte ativa na compra e venda de entorpecentes, inclusive utilizando sua conta bancária para depósito de valores obtidos nas atividades ilícitas. Tais circunstâncias demonstram a necessidade da custódia para garantia da ordem pública e para cessar a atividade delitiva.
+Conforme escólio jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, DJe 20/2/2009).
+Dessarte, mostra-se patente que a presente impetração, que visava a revogação da prisão do paciente por excesso de prazo e por falta de fundamentação idônea do decreto constritivo, está prejudicada haja vista a perda superveniente de objeto.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
