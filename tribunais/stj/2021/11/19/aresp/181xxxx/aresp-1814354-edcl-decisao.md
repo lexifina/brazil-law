@@ -1,0 +1,17 @@
+DECISÃO
+Cuidam-se de embargos de declaração opostos por Alex Leite de Carvalho e outraà decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 174):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. NOVA ANÁLISE DO AGRAVO. IMISSÃO NA POSSE. PEDIDO DE EXPEDIÇÃO DE NOVO MANDADO. INDEFERIMENTO. AGRAVO DE INTRUMENTO. TUTELA DE URGÊNCIA NÃO CONCEDIDA. REQUISITOS NÃO PREENCHIDOS. RECURSO ESPECIAL DESCABIMENTO. INCIDÊNCIA DAS SÚMULAS 735/STF E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Alegam os embargantes a existência de vício na decisão embargada.
+Aduzem que "os presentes Embargos visam aclarar o fato de que a LIMINAR na instância precedente não foi cumprida na sua integralidade, visto que ainda há uma pessoa residindo no terreno, eque as provas não foram valoradas como deveriam" (e-STJ, fl. 184).
+Não foi apresentada impugnação (e-STJ, fls. 190-191).
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+No caso, a pretensão não merece acolhida.De fato,a decisão embargada não contém nenhum dos citados vícios que, aliás, nem sequer foram indicados na petição dos embargos.
+Assim, não há como adotar outra conclusão, senão a de que, parareverter a conclusão do Tribunal estadual e acolhera pretensão recursal, seria necessário o reexamedo acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula 7/STJe que incide à espécie, analogicamente, a Súmula 735/STF, conforme entendimento iterativo desta Corte, no sentido de que não é cabível recurso especial para reexaminar decisão que defere ou indefere tutela de urgência ou antecipatória (liminar), em razão da precariedade da decisão, sujeita à modificação a qualquer tempo e a ser confirmada ou revogada na sentença.
+Relativamente à alegação de que "as provas não foram valoradas como deveriam" (e-STJ, fl. 184), a questão não foi suscitada na petição do recurso especial, na do agravo em recurso especial, nem mesmo na do agravo interno contra a decisão da Presidência, revelando, assim, tratar-se de inovação recursal, o que não se admite.
+Além disso, os embargos de declaração não se prestam, como pretendem os embargantes, a "aclarar o fatode que a LIMINAR na instância precedente não foi cumprida na sua integralidade" (e-STJ, fl. 181).Por conseguinte, a decisão embargada não possui vício a ser sanado por intermédio dos embargos de declaração, sendo evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
