@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, sem pedido liminar, impetrado em face de acórdão assim ementado (fl. 185):
+HABEAS CORPUS - TRÁFICO DE DROGAS - EXCESSO DE PRAZO PARA A CONCLUSÃO DO INQUÉRITO POLICIAL - DENÚNCIARECEBIDA - ARGUÇÃO PREJUDICADA - INADEQUAÇÃO DA TIPIFICAÇÃO DEÜT1VA - IA/PROPRIEDADE DA VIA ELEITA - REVOGAÇÃO DA PRISÃO PREVENTIVA-IIVPOSSIBI UDADE-PRESBJÇA DOS REQUISITOS DOS ARTIGOS 312 E 313 DO CPP - GARANTIA DA ORDEM PÜBUC -CONSTRANGIMENTO. ILEGAL NÃO CONRGURADO - A tese de excesso de prazo para a conclusão do inquérito policial se revela prejudicada ante a deflagração da ação penal. - Avia estreita do habeas corpus é incompatível com discussões acerca da tipificação do crime pelo qual o paciente foi autuado em flagrante, tratando-se de matéria a ser debatida no curso da ação penal instaurada - Cabível a manutenção da prisão preventiva quando, inadequadas e insuficientes medidas cautelares mais brandas, o decreto constritivo estiver devidamente fundamentado na presença dos requisitos dos artigos 312e 313 do Código de Processo Penal. - A segregação preventiva se faz necessária para o acautelamento da ordem pública se a gravidade concreta da suposta conduta restar demonstrada pela apreensão de drogas em relevantes fracionamento. quantidade e diversidade.
+Consta dos autos que o paciente foi denunciado e preso preventivamente em razão da prática do delito previsto no art. 33 da Lei n. 11.343/2006.
+No presente recurso, a defesa alega, em síntese, que não existem indícios da prática de tráfico pelo recorrente, sustentando que não foram preenchidos os requisitos autorizadores da prisão preventiva e que é desproporcional em comparação com futura condenação.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva, mediante a aplicação de medidas cautelares diversas.
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante.
+Na hipótese, o recorrentenão colacionou aos autos a fundamentação constantedo decreto preventivo, não constando da decisão de fl. 42, que foi feito de forma oral. Dessa forma, a ausência de dadoessencialao deslinde da controvérsia, impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ, interposto por profissional legalmente habilitado. A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido.
+(PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido.
+(AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020)
+Ante o exposto, indefiro liminarmente o recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
