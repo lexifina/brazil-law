@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUCAS MORETTINI IORIO à decisão de fls. 441/442, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O cálculo de prazos encontra-se GRITANTEMENTE EQUIVOCADO, desembocando em uma alegada intempestividade que, a bem da verdade, NÃO OCORREU.
+A r. decisão retro desconsiderou por completo os comprovantes de suspensão de prazos, ferindo de morte o Direito da Recorrente.
+À fl. e-STJ, fl. 411, em seu topo, se comprova a suspensão de prazos em que determinou a suspensão de prazos nos dias 21/04/21 e 01/05/21:  ..
+ ..
+À fl. e-STJ, fl. 416, também se comprova a suspensão de prazos em 21/04/21 e 01/05/21:
+ ..
+(a) À fl. e-STJ, fl. 314, se comprova a suspensão de prazos em 08/04/21, 09/04/21 e 12/04/21, vez que é este o documento oficial emitido pelo E. TJSP:  ..  (fls. 444/446).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, o calendário ou mera relação de feriados juntados às fls. 411/413 e 416/417, sem o inteiro teor do respectivo ato normativo, não têm o condão de afastar a intempestividade do recurso.
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+Ademais, os feriados nacionais de 21/4/2021 e 1/5/2021 não precisam ser comprovados.
+Ainda que assim não fosse, importante ressaltar que a consequência jurídica da indisponibilidade da comunicação eletrônica está prevista no art. 224, § 1º, do CPC: a prorrogação do dia do começo ou do dia do final do prazo. Se a indisponibilidade da comunicação eletrônica ocorrer durante o transcurso do prazo recursal, trata-se de dia útil, que se soma à contagem do prazo processual, não havendo exclusão do dia.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
