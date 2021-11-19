@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo de MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS em face de decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferidoem julgamento de apelação criminal n. 1.0166.19.001144-4/001 .
+Consta dos autos que os agravados foramcondenados pela prática do delito tipificado no art. 33, caput, da Lei Federal n. 11.343/06 (tráfico ilícito de entorpecentes), à pena de 06 anos de reclusão, em regime inicial semiaberto, e 600 dias-multa (fl. 222).
+Recurso de apelação interposto pela Defesa foi parcialmente provido para reconhecer o tráfico privilegiado, readequando a pena dos agravados para 01 ano e 08 meses de reclusão, em regime inicial aberto, e 166 dias-multa (fl. 345). O acórdão ficou assim ementado:
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS -ABSOLVIÇÃO - IMPOSSIBILIDADE - AUTORIA DELITIVA DEMONSTRADA - DELAÇÃO CORRÉU ALIADA AOS DEPOIMENTOS DOS POLICIAIS - REDUÇÃO DA PENA-BASE - VIABILIDADE - APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO §4º DO ART. 33 DA LEI 11.343/06 - POSSIBILIDADE - INEXISTÊNCIA DE PROVAS DE QUE OS ACUSADOS SE DEDICAM AO TRÁFICO DE DROGAS - ABRANDAMENTO DO REGIME E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE - VIABILIDADE - RESTITUIÇÃO DE BEM APREENDIDO - IMPOSSIBILIDADE - RECURSO PARCIALMENTE PROVIDO. Restando comprovadas nos autos a autoria e a materialidade do crime de tráfico de drogas, a manutenção da condenação da Apelante é medida que se impõe. A presença da Apelante na casa em que as drogas foram apreendidas, onde residia com o corréu, mesmo local indicado pelas denúncias anônimas como onde ocorria tráfico de drogas constante, afasta o alegado desconhecimento do entorpecente. Preenchidos os requisitos do art. 33, §4º, da Lei 11.343/06, deve ser concedido ao acusado o benefício do tráfico privilegiado. Sendo o acusado primário, todas as circunstâncias judiciais favoráveis e a pena fixada em patamar inferior a quatro anos, deve ser fixado o regime aberto para cumprimento da pena, bem como substituída por duas sanções restritivas de direitos. Restando comprovada a origem ilícita do numerário apreendido e não comprovada a origem lícita dos demais bens, deve ser decretado o seu perdimento em favor da União. V.V. APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DO ART. 33, §4º, DA LEI Nº 11.343/06 - NÃO INCIDÊNCIA - COMPROVADA DEDIDAÇÃO ÀS ATIVIDADES CRIMINOSAS. Afasta-se a incidência da causa especial de diminuição de pena, prevista no art. 33, §4º, da Lei nº 11.343/06, se resta demonstrado que os agentes se dedicam às atividades criminosas(fl. 345).
+Embargos de declaração opostos pelo Acusação foram rejeitados (fl. 398). O acórdão ficou assim ementado:
+EMBARGOS DE DECLARAÇÃO - CONTRADIÇÃO E OMISSÃO - INOCORRENCIA. Cabem Embargos de Declaração quando houver, na sentença ou no acórdão, ambiguidade, obscuridade, contradição ou omissão. Omissa é a decisão que não se manifesta sobre um pedido, argumentos relevantes ou sobre questões de ordem pública. A contradição que dá ensejo aos Embargos de Declaração é a que se estabelece no âmbito interno do julgado embargado. Não há que se falar em acolhimento dos Embargos de Declaração quando as matérias foram devidamente examinadas por ocasião do julgamento embargado(fl. 392).
+Em sede de recurso especial (fls. 403/424), o Ministério Público do Estado de Minas Geraisapontou violação aoart. 33, §4º, da Lei Federal n. 11.343/06, arts. 33, § 3º, 44, III e 59, III e IV, todos do Código Penal e arts. 1022 e 1025, ambos do Código Processo Civil. Sustentando, em resumo, o afastamento do redutor do tráfico privilegiado eda substituição da pena, além do agravamento do regime prisional.
+Contrarrazões deSARA PATRICIA RIBEIRO DE MOURA, WELBERT SILVINO GONÇALVES (fls. 428/439).
+O recurso especialfoi inadmitido no TJ em razão de: a) óbice da Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ; (fls. 443/445).
+Em agravo em recurso especial, a Defesa impugnou oreferidoóbice(fls. 449/457).
+Contraminuta do MP (fls. 460/469)
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo provimento do recurso especial (fls. 485/491).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Acerca da pretensão recursal, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS consignou que (fls. 354/356):
+"Ao afastar a pretendida minorante, o MM. Juiz a quo consignou que "os réus dedicam-se mesmo às atividades criminosas, fazendo do tráfico de drogas o seu meio de vida, razão pela qual não há que ser aplicada a minorante prevista no §40 , do ad. 33, da Lei nº 11.343/06" (fls. 159).
+A meu ver, as provas carreadas aos autos não demonstram que os acusados integrem organização criminosa e nem que se dedicam à traficância há muito tempo. As denúncias anônimas indicam que eles traficam drogas há 03 (três) meses.
+Ademais, os Apelantes não sãoreincidentes e possuem bons antecedentes (fls. 151 e 152/1 53).
+(..)
+Ademais, a quantidade de droga arrecadada não foi expressiva - 57,4g (cinquenta e sete gramas e quarenta centigramas) de maconha (fls. 17 e 56)  indicando mesmo que são eles iniciantes na traficância.
+Assim, os Apelantes fazem jus à redução da reprimenda, nos termos do ad. 33, §4º, da Lei de Drogas, pelo que a pena deve ser reanalisada."
+A revisão do entendimento firmado pela instância ordinária, a fim de afastar a causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei Federal n. 11.343/06, demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 07/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. 93KG DE MACONHA. MINORANTE. ART. 33, § 4.º, DA LEI N.º 11.343/2006. APLICAÇÃO PELO TRIBUNAL DE ORIGEM. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. AFERIÇÃO. INVIABILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N.º 7 DO STJ. VALORAÇÃO DE PROVAS. HIPÓTESE DISTINTA. REGIME PRISIONAL. QUANTIDADE DE DROGAS. UTILIZAÇÃO. TESE NÃO PREQUESTIONADA. SÚMULA N.º 211 DO STJ. APLICABILIDADE. PREQUESTIONAMENTO FICTO. INVIABILIDADE. AUSÊNCIA DE ALEGAÇÃO DE OFENSA AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. O que se pretende no recurso especial é que esta Corte Superior verifique se, no caso concreto, estariam ou não presentes os requisitos para a aplicação da minorante do tráfico privilegiado, o que é nítido reexame do acervo probatório, vedado nesta via recursal, nos termos da Súmula n.º 7 do STJ.
+(..)
+7. Agravo regimental desprovido.
+(AgRg no AREsp 1460994/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA,DJe 15/06/2020).
+Ademais, nos termos da jurisprudência desta Corte, é vedada a fixação de regime inicial mais gravoso quando se trata de agente primário cuja pena-base foi estipulada no mínimo legal, conforme o enunciado sumular n. 440/STJ.
+Nesse sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA-BASE FIXADA NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME INICIAL DE CUMPRIMENTO DA PENA. ENUNCIADOS N. 440 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ E N. 718 E 719 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL - STF. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM, DE OFÍCIO, PARA FIXAR O REGIME INICIAL SEMIABERTO.
+(..)
+- Nos termos do Enunciado n. 440 da Súmula desta Corte, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". No mesmo sentido, são os Enunciados n. 718 e 719 da Súmula do STF. Ressalva do entendimento deste Relator.
+(..)
+- Habeas corpus não conhecido. Concessão da ordem, de ofício, para fixar o regime inicial semiaberto.
+(HC 311.566/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, DJe 30/06/2015).
+Portanto, correta a fixação do regime inicial aberto aos agravados, ante o quantum de pena imposto (01 ano e 08 meses de reclusão).
+Do mesmo modo, Admite-se a substituição da pena privativa de liberdade por restritiva de direitos aos condenados por tráfico de drogas, desde que preenchidos os requisitos objetivos e subjetivos do artigo 44 do Código Penal (AgRg no REsp 1365033/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA,DJe 06/11/2017).
+Ante o exposto, conheço do agravo para conhecerdo recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lheprovimento.
+Publique-se. Intimem-se.
