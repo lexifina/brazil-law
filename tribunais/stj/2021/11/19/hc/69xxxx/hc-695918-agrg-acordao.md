@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Trata-se de agravo regimental interposto por BRUNO CAMPAGNER GIRALDELLA contra decisão monocrática de fls. 48/52, de minha relatoria, na qual reconsiderei a decisão anterior, mas não conheci do habeas corpus.
+No presente recurso, pontua a defesa que, ao contrário do que restou consignado no decisum, o tema referente à avaliação psiquiátrica por médico especializado foi debatida pelo Tribunal de origem no julgamento do agravo em execução defensivo.
+Assevera que, além do exame criminológico, a Corte de origem discutiu sobre a possibilidade ou não da realização da perícia psiquiátrica a ser feita por médico especializado, bem como acerca da alegação da SAP-SP de que não há como realizar o exame psiquiátrico no paciente.
+Requer a reconsideração da decisão agravada a fim de que seja concedida a ordem e deferida a progressão de regime ao paciente.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO DE REGIME. PERÍCIA PSIQUIÁTRICA. IMPOSSIBILIDADE DA REALIZAÇÃO DO EXAME POR NÃO HAVER MÉDICO ESPECIALISTA. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+2. Conforme restou consignado no decisum ora agravado, verifica-se que o Tribunal estadual, no julgamento do agravo em execução, tratou especificamente acerca do exame criminológico para que o apenado pudesse progredir para o regime intermediário, não tendo sido debatida pela instância originária a questão da perícia psiquiátrica, bem como a sua não realização por ausência de médico especialista, conforme o documento acostado à fl. 4, pela defesa.
+3. Inviável a analise relativa ao exame psiquiátrico ou a impossibilidade de fazê-lo diretamente por esta Corte, sob pena de atuar em indevida supressão de instância.
+4. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Conforme afirmado no decisum agravado, esta Corte Superior não admite habeas corpus substitutivo de recurso próprio, porém ressalta a possibilidade de concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente, o que não é o caso dos autos.
+Na hipótese, a defesa alega que além do exame criminológico, a Corte de origem debateu sobre a possibilidade ou não da realização da perícia psiquiátrica.
+No julgamento do Agravo de Execução Penal n. 0009857-13.2020.8.26.0344 interposto pelo Ministério Público, o Tribunal de origem assim decidiu a controvérsia:
+"O recurso merece prosperar.
+Com efeito, para que o sentenciado seja promovido ao regime intermediário, não basta, tão-somente, o preenchimento do requisito de natureza objetiva, mas, também e, sobretudo, o implemento da condição subjetiva (mérito).
+No caso dos autos, contudo, o requisito de ordem subjetiva não foi devidamente aferido.
+Ora, não obstante o agravado esteja cumprindo pena de 15 anos, 6 meses e 20 dias de reclusão, com previsão de término para 13/08/2026, pela prática do crime de latrocínio, com registro de prática de falta grave, consistente em posse de entorpecente (fls.
+17/19), a transferência ao regime semiaberto, em que a vigilância é sabidamente menor, foi feita açodadamente, sem a prévia realização de integral exame criminológico, por equipe multidisciplinar completa.
+Frise-se aqui, por relevante, que não se trata de considerar os fatos já julgados na mensuração da periculosidade do sentenciado. O caso em exame é bastante peculiar e o que se está a firmar é que o sentenciado que desconta pena por delito de inquestionável gravidade, como é o caso do recorrido, deve ser mais bem avaliado, de forma a se verificar se está apto a retornar ao convívio social. ..
+E nem cabe alegar que o exame criminológico não se faz mais necessário após a alteração do art. 112 da LEP, introduzida pela Lei 10.792/03. ..
+De fato, o conceito de bom comportamento não é necessariamente alinhado ao de ausência de periculosidade, de modo que tanto esta Corte, quanto os Tribunais Superiores os quais inclusive possuem súmulas a respeito da matéria (Súmula n. 439 do STJ e Súmula Vinculante n. 26 do STF) - têm entendido que o art. 112 da LEP, em sua nova redação, admite a realização do exame criminológico em casos como o de que ora se cuida, visando à necessária avaliação do condenado e de seu mérito para a promoção de regime prisional.
+De outra banda, o fato de o agravado se encontrar há alguns meses usufruindo do regime mais benéfico, sem que haja notícia de qualquer deslize nesse período, não pode ser levado em conta para favorecê-lo, mesmo porque o mínimo que se espera é que o condenado se submeta às normas de execução da pena, tal como dispõe o art. 38 da LEP. Não se perca de vista, ainda, que a segurança da sociedade vem em primeiro lugar e a conveniência do infrator deve estar subordinada a ela.  ..
+Em suma, satisfeito, neste momento, apenas o requisito temporal, pois no caso vertente, pelas razões já expostas, o atestado de bom comportamento carcerário não é suficiente para avaliar adequadamente as condições subjetivas do agravado, é extremamente inoportuna, e até mesmo temerária sua progressão ao regime semiaberto, sem a anterior realização de exame criminológico.
+Por conseguinte, pelo meu voto, dou provimento ao recurso ministerial para cassar a r. decisão de fls. 35/38, na parte que promoveu o sentenciado BRUNO CAMPAGNER GIRALDELLA ao regime semiaberto, determinando sua recondução ao regime fechado, até que reúna méritos pessoais, devidamente aferidos por exames periciais realizados por equipe multidisciplinar completa, incluindo médico psiquiatra, que o habilitem a progredir." (fls. 9/11, grifamos)
+Segundo a defesa do agravante, o exame criminológico já foi realizado, entretanto, houve novo pedido do promotor de justiça de que fosse feito exame psiquiátrico, contudo não foi realizado por não haver médico psiquiatra para viabilizar a feitura do exame.
+Desse modo, conforme restou consignado no decisum ora agravado, verifica-se que o Tribunal estadual, no julgamento do agravo em execução, abordou especificamente acerca do exame criminológico para que o apenado pudesse progredir para o regime intermediário, não tendo sido debatida pela instância originária a questão da perícia psiquiátrica, bem como a sua não realização por ausência de médico especialista, conforme o documento acostado à fl. 4, pela defesa.
+Cabia à defesa levar a questão ao Tribunal ou ao Juízo de origem, razão pela qual não cabe a esta Corte a análise direta do assunto, sob pena de atuar em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DECISÃO DE NATUREZA DECLARATÓRIA. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. DATA-BASE PARA FUTURA PROGRESSÃO. DATA EM QUE FORAM PREENCHIDOS OS REQUISITOS OBJETIVO E SUBJETIVO. ÚLTIMO REQUISITO PENDENTE. ART. 112 DA LEI DE EXECUÇÃO PENAL. EXAME CRIMINOLÓGICO. ADEQUAÇÃO PARA AFERIR O REQUISITO SUBJETIVO. MATÉRIA NÃO ANALISADA NO ARESTO COMBATIDO. SUPRESSÃO DE INSTÂNCIA. WRIT DO QUAL NÃO SE CONHECEU. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. O Supremo Tribunal Federal, no HC n. 115.254/SP, passou a adotar o posicionamento de que, por ter a decisão que concede a progressão de regime natureza meramente declaratória, o marco inicial para a concessão do benefício é a data do preenchimento dos requisitos estabelecidos no art. 112 da Lei de Execução Penal.
+2. No caso em análise, embora preenchido anteriormente o requisito objetivo pelo paciente, o lapso inicial a ser considerado para fins de promoção carcerária é o momento em que foi implementado o último requisito legal, o qual, segundo a Corte estadual, foi atestado por meio de "Informações Psicológicas e Relatório Social, elaborados em 31 de julho de 2019 e assinados por psicólogo e assistente social respectivamente, atestando o mérito do paciente para a obtenção da almejada progressão de regime", ocasião em que entendeu estar preenchido o requisito subjetivo.
+3. Nesse contexto, verifica-se que o Tribunal de origem, ao definir como termo inicial para fins de progressão de regime o momento em que atingidos os requisitos objetivo e subjetivo para o regime aberto, decidiu em consonância com a jurisprudência deste Sodalício.
+4. A alegação defensiva de que o exame criminológico não seria instrumento adequado para aferir o preenchimento ou não do requisito subjetivo pelo apenado, não foi objeto de deliberação pela autoridade impetrada, circunstância que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+5. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível, e não concedeu a ordem de ofício, em razão da ausência de constrangimento ilegal a ser sanado.
+6. Agravo regimental desprovido.
+(AgRg no HC 540.250/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/3/2020, DJe 16/3/2020, grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO. RECOMENDAÇÃO.
+1. A irresignação da defesa não foi examinada pela Corte estadual, eis que o Juízo das Execuções ainda aguarda a remessa do exame criminológico. Tal circunstância impede este Tribunal Superior de pronunciar-se a respeito, sob pena de indevida supressão de instância. Recomendação de celeridade.
+2. Agravo regimental desprovido.
+(AgRg no HC 632.940/SP, Minha relatoria, QUINTA TURMA, julgado em 23/3/2021, DJe 5/4/2021).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. PRINCÍPIO DA COLEGIALIDADE NÃO VIOLADO. PROGRESSÃO DE REGIME. VISITA PERIÓDICA AO LAR. NÃO PREENCHIMENTO DOS REQUISITOS SUBJETIVOS. REALIZAÇÃO DE EXAME CRIMINOLÓGICO. SUPRESSÃO DE INSTÂNCIA. RELATIVIZAÇÃO. INVIABILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. DECISÃO MANTIDA.
+1. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+2. O STJ não pode conhecer de matéria não apreciada pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+3. A relativização da supressão de instância é inviável quando não configurada flagrante ilegalidade apta a gerar constrangimento ilegal que ampare a concessão da ordem de ofício.
+4. Os fundamentos adotados pelo tribunal de origem quanto à não comprovação dos requisitos subjetivos para a obtenção de benefício não podem ser revisados em habeas corpus, diante do necessário revolvimento de matéria fático-probatória.
+5. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ.
+6. Agravo regimental desprovido.
+(AgRg no HC 619.238/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 27/10/2020, REPDJe 12/11/2020, DJe 3/11/2020, grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXAME CRIMINOLÓGICO. EXIGÊNCIA FUNDAMENTADA. PEDIDOS DE DISPENSA DO ESTUDO E DE APLICAÇÃO DA RECOMENDAÇÃO N. 62/2020 DO CNJ. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da Súmula n. 439 deste Superior Tribunal, admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+2. As instâncias ordinárias entenderam necessária a averiguação sobre a periculosidade do apenado, condenado por latrocínio, pois ele empreendeu duas fugas durante a execução penal e a última delas perdurou por mais de uma década.
+3.  ..
+6. Matérias não decididas previamente pelas instâncias ordinárias não podem ser resolvidas, em indevida supressão de instância, por esta Corte. Não está inaugurada a competência do Superior Tribunal de Justiça para exame dos pedidos de aplicação da Recomendação n.62/2020 do CNJ e de dispensa do estudo criminológico por excesso de prazo na sua realização.
+7. Agravo regimental não provido.
+(AgRg no HC 649.009/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/6/2021, DJe 23/6/2021, grifamos).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
