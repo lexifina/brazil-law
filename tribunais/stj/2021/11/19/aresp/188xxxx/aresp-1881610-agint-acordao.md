@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Ricardo Villas Bôas Cueva e Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por MANOEL CESAR DE ARAÚJO BRITO, contra decisão proferida pela Presidência deste Superior Tribunal de Justiça, que não conheceu do recurso especial ante o óbice do enunciado da Súmula 7/STJ.
+Nas razões recursais oagravantesustentaque "é de rigor seja afastada a incidência da Súmula 07, reconhecendo que o valor arbitrado na instância de origem é diminuto, considerando as nuances do caso e a jurisprudência desta Egrégia Corte, possibilitando sua revisão", e que "o Tribunal de origem relata fatos e circunstâncias (que adota como razões de decidir) nos quais as condutas do banco agravado são minuciosamente descritas, concluindo que o cancelamento do cartão de crédito e supressão das demais linhas de créditos disponibilizadas por vários anos (CDC, cheque especial) foi abusiva, gerando lesão extrapatrimonial, tanto porque feito sem aviso prévio, quanto porque decorreu de ato de retaliação, pois não houve nenhuma situação que ensejasse o cancelamento das linhas de crédito, nem mesmo nenhum tipo de risco de inadimplência" (e-stj fl. 274/275).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. IMPOSSIBILIDADE DE ALTERAÇÃO DAS PREMISSAS DO TRIBUNAL DE ORIGEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não merece acolhida.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido peloagravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+A decisão da Presidência deste Superior Tribunal de Justiça, ora agravada, não conheceu do recurso especial, aplicando-se o óbice da Súmula 7/STJ no tocante a alegação de "violação do art. 944 do CC, no que concerne à necessidade de majoração do valor arbitrado a título de indenização por danos morais, tendo em vista que fixado em valor irrisório", concluindo que "muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto".
+Com efeito, conforme restou consignado na decisão agravada, a Corte local, com base na análise do conjunto probatório carreado aos autos, concluiu nos seguintes termos:
+Passe-se a quantificação do dano. Embora a lei não defina os parâmetros objetivos para fixação dos danos morais, é de se impor a observância dos princípios da razoabilidade e da proporcionalidade, no sentido de alcançar um valor que não seja irrisório a ponto de estimular a reiteração da prática pelo réu, e, ao mesmo tempo, que não seja excessivo a ponto de possibilitar o enriquecimento sem causa da parte autora. Nesse ponto, lança-se mão dos elementos trazidos aos autos para perquirir a condição das partes. De um lado, tem-se que a autora trata-se de pessoa pobre na forma da lei e, de outro, o fato de ter a ré uma situação econômica inegavelmente superior. O arbitramento do dano moral deve ser feito com moderação e em consonância com as peculiaridades do caso concreto, devendo ser mantido o valor indenizatório fixado dentro dos limites da razoabilidade e da proporcionalidade. Nesse ponto, tenho que o valor de R$ 3.000,00 (três mil reais), é adequado e suficiente para compensar os danos morais sofridos pela parte apelante, mostrando-se razoável, em coerência com as circunstâncias do caso concreto, em especial à falha dos serviços prestados e ao grau de culpa do réu, à gravidade do dano, à capacidade econômica das partes e à reprovabilidade da conduta, razão pela qual o mantenho. (fl. 198).
+Desse modo, a modificação do entendimento lançado no acórdão recorrido demandaria um inevitável reexame da matéria fático-probatória, hipótese vedada por força da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DESTA CORTE. RESPONSABILIDADE CIVIL. OFENSA A DISPOSITIVO CONSTITUCIONAL. NÃO CONHECIMENTO. PRESTAÇÃO DE SERVIÇO DEFICIENTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DANO MORAL. REDUÇÃO DO VALOR. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos para concluir que a perda do financiamento estudantil decorreu de culpa da instituição. Alterar tal conclusão é inviável em recurso especial.
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pela Corte local não se mostra excessivo, a justificar sua reavaliação.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1828601/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/09/2021, DJe 23/09/2021)
+Em que pesem as razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Assim, correta a decisão agravada, que se mantém por seus próprios fundamentos, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se, por fim, que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa (art. 1.021, § 4º, do CPC/2015).
+É o voto.
