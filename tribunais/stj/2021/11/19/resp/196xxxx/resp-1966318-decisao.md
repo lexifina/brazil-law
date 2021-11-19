@@ -1,0 +1,38 @@
+DECISÃO
+MOACIR DE CAMPOS FILHO (MOACIR) ajuizou ação de obrigação de fazer cumulada com pedido de tutela provisória e danos morais contra AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A - BLUE IV NACIONAL (AMIL), objetivando o custeio deexame de Cápsula Endoscópica, além da condenação da ré ao pagamento de indenização pelos danos morais decorrentes da negativa.
+Antecipação de tutela foi deferida para determinar que AMIL providenciasse o agendamento para a realização do exame, em 10 (dez) dias, sob pena de multa diária de R$ 600,00 (seiscentos reais) até o limite de R$ 5.000,00 (cinco mil reais).
+Em primeira instância, os pedidos foram julgados parcialmente procedentes para,confirmando a antecipação de tutela, condenar AMIL ao cumprimento da obrigação de fazer, consubstanciada, na realização do exame de cápsula endoscópica (e-STJ, fls. 300/304).
+A apelação interposta por MOACIRfoi improvida pelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Des.ALEXANDRE MARCONDES, assim ementado:
+PLANO DE SAÚDE. Ação de obrigação de fazer c.c.indenização por danos morais. Autor portador de anemia ferropriva. Negativa de custeio de exame de cápsula endoscópica. Sentença de parcial procedência.
+Irresignação do autor. Pedido de condenação da ré ao pagamento de indenização por danos morais.
+Inadmissibilidade. Prejuízo moral não configurado.
+Descumprimento contratual que não implica, por si só, em violação dos atributos da personalidade. Tutela de urgência concedida poucos dias depois da negativa de cobertura. Precedentes desta C. Câmara. Sentença mantida. RECURSO DESPROVIDO (e-STJ, fl. 343).
+Inconformado, MOACIR manifestou recurso especial, com base no art. 105, III, c, da CF, pleiteando a condenação por danos morais, ante a negativa de cobertura.
+As contrarrazões foram apresentadas (e-STJ, fls. 386/394).
+O apelo nobre foi admitido pelo TJSP (e-STJ, fls. 395/396).
+É o relatório.
+Decido.
+A insurgência não merece prosperar, devendo prevalecer o acórdão relatado peloDes. ALEXANDRE MARCONDES.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do dano moral
+No que se refere ao tema, MOACIR defendeu o cabimento daindenização por danos morais, ante a negativa de cobertura que afetou os seus direitos de personalidade.
+Na espécie, o Tribunal bandeirante, de seu lado, consignou que se tratava de mero descumprimento contratual, sendo, pois, incabível a composiçãocível.
+A propósito, confira-se o seguinte trecho do acórdão recorrido:
+Não há dano moral a ser reparado.
+Está consolidado no âmbito desta C. Câmara o entendimento de que o descumprimento contratual não é suficiente, por si só,para causar dano significativo aos atributos da personalidade, tampouco abalo emocional ou profundo constrangimento, consistindo em aborrecimento não indenizável.
+No caso em exame, entre a data em que a ré recusou a cobertura do exame (em 25 de julho de 2020) e a data da decisão que concedeu a tutela determinando a cobertura (19 de agosto de 2020) se passou pouco menos de 1 (um) mês, não sendo crível que neste período o autor tenha sofrido abalo psicológico e emocional que justifique a indenização pretendida.
+Vem a calhar, a propósito, a lição de Sérgio Cavalieri Filho de que " ..  só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação que, fugindo à normalidade, interfira intensamente no comportamento psicológico do indivíduo, causando-lhe aflições, angústia e desequilíbrio em seu bem-estar. Mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral" (Programa de Responsabilidade Civil, Malheiros, 9ª ed., n.19.4).
+Na mesma linha acentua Antonio Jeová Santos que "O dano moral somente ingressará no mundo jurídico, com a subsequente obrigação de indenizar, em havendo alguma grandeza no ato considerado ofensivo a direito personalíssimo. Se o ato tido como gerador do dano extra- patrimonial não possui virtualidade para lesionar sentimentos ou causar dor e padecimento íntimo, não existiu o dano moral passível de ressarcimento. Para evitar a abundância de ações que tratam de danos morais presentes no foro, havendo uma autêntica confusão do que seja lesão que atinge a pessoa e do que é mero desconforto, convém repetir que não é qualquer sensação dedesagrado, de molestamento ou de contrariedade que merecerá indenização.
+O reconhecimento do dano moral exige determinada envergadura.
+Necessário, também, que o dano se prolongue durante algum tempo e que seja a justa medida do ultraje às afeições sentimentais. As sensações desagradáveis, por si sós, que não trazem em seu bojo lesividade a algum direito personalíssimo, não merecerão ser indenizadas. Existe um piso de inconvenientes que o ser humano tem de tolerar, sem que exista o autêntico dano moral" (Dano Moral Indenizável, Ed. RT, 4ª ed., 2003, p. 113).
+São inúmeros os precedentes desta C. Câmara nos quais não se vislumbrou dano moral decorrente do inadimplemento contratual pelos planos de saúde. A título de exemplo confiram-se os seguintes: Apelação Cível nº 1000349-69.2018.8.26.0514, Rel. Des. Rodolfo Pellizari, j.18/06/2020; Apelação Cível nº 1004835-15.2017.8.26.0100, Rel. Des. Costa Netto, j. 19/03/2020; Apelação Cível nº 1005278-35.2018.8.26.0292, Rel. Des.
+Ana Maria Baldy j. 01/08/2019; e Apelação Cível nº 1036027-29.2018.8.26.0100, Rel. Des. Vito Guglielmi, j. 23/01/2019.
+É certo que há na jurisprudência desta Corte e do E.Superior Tribunal de Justiça inúmeros precedentes em que se concedeu ao beneficiário de plano ou seguro saúde que teve a cobertura de seu tratamento recusado, reparação por dano moral. Não se nega que assim deva ser em casos extremos. Mas na hipótese vertente, repita-se, os reflexos da conduta da ré não desbordaram do aborrecimento intrínseco aos casos de inadimplemento contratual (e-STJ, fls. 344/346, sem destaques no original).
+No caso, qualquer outra análise acerca da configuração do dano moral e consequente dever de reparação, da forma como trazida no recurso especial, necessitaria do reexame da matéria fático-probatória, o que é inviável nesta via, devido ao óbice da Súmula nº 7 do STJ.
+Assim, também quanto ao ponto, está claro que o recurso especial não ultrapassa nem sequer a barreira do conhecimento.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), NÃO CONHEÇO do recurso especial.
+MAJORO em R$ 1.000,00 (mil reais) ovalor dos honorários advocatícios anteriormente fixados em desfavor de MOACIR, nos termos do art. 85, § 11, do NCPC, observadas as regras da Justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. RECUSA INDEVIDA. REALIZAÇÃO DE EXAME.DANO MORAL. NÃO CONFIGURADO. REFORMA DO JULGADO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.RECURSO ESPECIAL NÃO CONHECIDO.
