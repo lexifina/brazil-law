@@ -1,0 +1,55 @@
+DECISÃO
+Antonio Carlos Vital de Souza interpõeagravo interno contra decisão proferida pela Presidência desta Corte nos seguintes termos (e-STJ, fls. 633-634):
+Mediante análise do recurso de ANTONIO CARLOS VITAL DE SOUZA, a parte Recorrente foi intimada do acórdão recorrido em 01/11/2018, sendo o recurso especial interposto somente em 28/11/2018.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c. c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, os dias que precedem a Sexta-Feira da Paixão e o de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Em suas razões recursais (e-STJ, fls. 636-640), o agravante sustenta a tempestividade do recurso especial, tendo em vista a existência de feriados locais, conforme documento apresentado às fls. 517-523 (e-STJ).
+Foi apresentada impugnação (e-STJ, fls. 644-647).
+Em nova análise da questão, verifico haver plausibilidade nas alegações da parte agravante no tocante à tempestividade recursal.
+No caso, observa-se que a parte insurgente interpôs o recurso especial no dia 28/11/2018, bem como comprovou a existência de suspensão processual em razão dos feriados dos dias 2/11/2018, 7/11/2018, 8/11/2018, 15/11/2018 e 20/11/2018(e-STJ, fls. 517-523), razão pela qual merece reforma a decisão.
+Ressalte-se queoentendimento pacificado neste Tribunal Superior, firmado por oportunidade do julgamento do AREsp n. 957.821/MS, em 20/11/2017, ao interpretar os arts. 932, parágrafo único, e 1.003, § 6º, do CPC de 2015, bem como os princípios consagrados pelo novo Código, por maioria, firmou orientação de que a parte recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", sendo inviável a apresentação de documento hábil, em momento posterior, para demonstrar a tempestividade (AgInt no AREsp n. 957.821/MS, RelatorMinistro Raul Araújo, Relatorap/ acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe de 19/12/2017), nos termos da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 957.821/MS, Rel. Ministro RAUL ARAÚJO, Relator p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017).
+Destarte, com fundamento no art. 259, caput, do RISTJ, reconsidero a decisão de fls. 633-634 (e-STJ).
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Antonio Carlos Vital de Souza, com base no art. 105, III, ae c, da Constituição Federal, desafiando acórdão do Tribunal estadual assim ementado (e-STJ, fl. 468):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. CONTRATO DE PROMESSA DE COMPRA E VENDADE IMÓVEL. ATRASO NA ENTREGA ALÉM DO PRAZO CONTRATUAL DE TOLERÂNCIA DE 180 DIAS. DANO MORAL CONFIGURADO. LUCROS CESSANTES NÃO RECONHECIDOS. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DO AUTOR OBJETIVANDO O RECONHECIMENTO DOS LUCROS CESSANTES.
+1-Inicialmente, são aplicáveis as normas do CDC, uma vez que autor e réu se amoldam aos conceitos de consumidor e fornecedor previstos nos artigos 2º e 3º da Lei 8.078/90.
+2-Ausência de lucros cessantes. Imóvel financiado pelo programa Minha Casa, Minha Vida. Vedação de utilização para fins comerciais ou qualquer tipo de geração de renda. Art. 7º da Lei nº 11.997/2009.
+3-Precedentes do TJRJ. Sentença mantida. Recurso desprovido. Condeno o Apelante em honorários sucumbenciais recursais no valor de 10% sobre o valor da causa.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 487-492).
+Nas razões do recurso especial, fundado no art. 105, III, ae c, da Constituição Federal, orecorrentealega violação dos arts. 402 e 403do Código Civil de 2002, bem como a existência de dissídio jurisprudencial (e-STJ, fls. 494-516).
+Sustenta, em síntese, ter direito a indenização por lucros cessantes, decorrente do atraso da recorrida na entrega deimóvel do programa Minha Casa, Minha Vida.
+Foram apresentadas contrarrazões (e-STJ, fls. 611-616).
+Juízo de admissibilidade positivo(e-STJ, fls. 618-620).
+Brevemente relatado, decido.
+O Tribunal local, ao julgar a apelação, assim concluiu (e-STJ, fls.471-474):
+Versa a questão dos autos acerca do atraso na entrega de imóvel objeto do contrato de promessa de compra e venda de imóvel pactuado entre as partes, cuja entrega era prevista para o dia 29/02/2012, com tolerância de 180 dias, o que fixou o termo final para entrega do imóvel em agosto de 2002, o que não ocorreu, tendo sido realizada a mencionada entrega apenas em 24/02/2014. A parte ré foi condenada ao pagamento de danos morais no valor de R$ 5.000,00 (cinco mil reais), sendo julgados improcedentes os demais pedidos.
+A parte autora se insurge contra a sentença para que seja reconhecido seus lucros cessantes.
+Cumpre ressaltar que são aplicáveis ao caso as normas do CDC, uma vez que autora e réus se amoldam aos conceitos de consumidor e fornecedor previstos nos artigos 2º e 3º da Lei 8.078/90.
+Quanto à alegação de danos materiais, a título de lucros cessantes, em virtude do atraso na entrega do imóvel além do prazo de tolerância de 180 dias previsto no contrato, não merece prosperar o pedido da apelante.
+Isto porque o financiamento do imóvel objeto do contrato entabulado entre as partes foi realizado pelo programa do governo federal Minha Casa, Minha Vida, que é regulado pela Lei nº 11.997/2009. A finalidade da subvenção concedida pelo referido programa é assegurar o direito social à moradia, e, portanto, é vedado que se utilize o imóvel adquirido para fins comerciais ou qualquer tipo de geração de renda, incluído aí a locação. Esta vedação é expressa no art. 7º da referida lei. Portanto, não há que se falar, na espécie, em lucros cessantes, sendo a sentença irretocável neste capítulo. Diz o referido dispositivo legal, in verbis:
+(..)
+Deste modo, não merece qualquer reforma a sentença vergastada.
+Nesse contexto, não há como afastar a condenação da ora agravante ao pagamento de lucros cessantes.
+Isso porque a Segunda Seção desta Corte Superior, no julgamento do REsp n. 1.729.593/SP, desta relatoria, submetido ao rito dos recursos repetitivos, pacificou o entendimento de que, no caso de atraso na entrega do imóvel, no âmbito do Programa Minha Casa, Minha Vida, é presumido o prejuízo do comprador, consistente na injusta privação do bem, a ensejar a reparação material.
+Confira-se, a propósito, a ementa do referido julgado:
+RECURSO ESPECIAL CONTRA ACÓRDÃO PROFERIDO EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR. ART. 1.036 DO CPC/2015 C/C O ART. 256-H DO RISTJ. PROCESSAMENTO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. PROGRAMA MINHA CASA, MINHA VIDA. CRÉDITO ASSOCIATIVO. PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. CONTROVÉRSIAS ENVOLVENDO OS EFEITOS DO ATRASO NA ENTREGA DO BEM. RECURSOS DESPROVIDOS.
+1. As teses a serem firmadas, para efeito do art. 1.036 do CPC/2015, em contrato de promessa de compra e venda de imóvel em construção, no âmbito do Programa Minha Casa, Minha Vida, para os beneficiários das faixas de renda 1,5, 2 e 3, são as seguintes:
+1.1 Na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, o prazo certo para a entrega do imóvel, o qual não poderá estar vinculado à concessão do financiamento, ou a nenhum outro negócio jurídico, exceto o acréscimo do prazo de tolerância.
+1.2 No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma.
+1.3 É ilícito cobrar do adquirente juros de obra ou outro encargo equivalente, após o prazo ajustado no contrato para a entrega das chaves da unidade autônoma, incluído o período de tolerância.
+1.4 O descumprimento do prazo de entrega do imóvel, computado o período de tolerância, faz cessar a incidência de correção monetária sobre o saldo devedor com base em indexador setorial, que reflete o custo da construção civil, o qual deverá ser substituído pelo IPCA, salvo quando este último for mais gravoso ao consumidor.
+2. Recursos especiais desprovidos.
+(REsp n. 1.729.593/SP, RelatorMinistro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019).
+Ante o exposto, em juízo de reconsideração da decisão de fls. 633-634 (e-STJ), dou provimento ao recurso especial nos termos acima fundamentados.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO. DOCUMENTO APRESENTADO NO ATO DA INTERPOSIÇÃO DO RECURSO. TEMPESTIVIDADE DO RECURSO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. PROGRAMA MINHA CASA MINHA VIDA. LUCROS CESSANTES PRESUMIDO.RECURSO ESPECIAL PROVIDO,MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
