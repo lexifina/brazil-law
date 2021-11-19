@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo interno interposto por CENTRAIS ELÉTRICAS BRASILEIRAS S.A. - ELETROBRAS contra decisão assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO E DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS COMO VIOLADOS. SÚMULAS 282 E 284/STF. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. TRÂNSITO EM JULGADO DA SENTENÇA. NECESSIDADE DE REALIZAÇÃO DE ASSEMBLEIA GERAL AUTORIZATIVA. CONSONÂNCIA DO ACÓRDÃO COM JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+Nas razões do agravo interno, a agravante sustenta, em síntese, "que a única previsão de prolongamento de juros remuneratórios diz respeito ao saldo administrativo restante na data da homologação (30/06/2005), saldo administrativo inferior a uma ação inteira na data da assembleia geral, pois, o item 6.3 do REsp 1.003.955/RS combinado com a posição da Primeira Seção do STJ sobre o tema, que foi pacificada pelo julgamento dos Embargos de Divergência RESp. 826.809/RSé que a assembléia da Eletrobras deve ser considerada como termo final dos juros remuneratórios reflexos do empréstimo compulsório de energia elétrica (ECE), é aquela já realizada, mais precisamente a 143ª AGE em 30/06/2005(CONSOLIDOU-SE A DIVIDA -ERESP 826809/RS),e não uma futura e hipotética, que venha contemplar o valor principal exequendo, após o trânsito em julgado de cada demanda, pugnando por seu provimento. Caso assim não entenda requer a suspensão do feito até o julgamento do EARESP 790288/PR." (fl. 275).
+Semimpugnação.
+É o relatório. Decido.
+Diante dos argumentos aqui trazidos, exerço o juízo de retratação, facultado pelo art. 259 do Regimento Interno desta Corte, para tornar sem efeito as decisões de fls. 237/239.
+Após, volte-me os autos conclusos para nova análise da demanda.
+Publique-se. Intimem-se.
