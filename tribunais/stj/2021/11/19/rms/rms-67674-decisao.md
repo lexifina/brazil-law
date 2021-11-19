@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por RAMOS RIBEIRO SERVICOS DE BELEZA LTDA, contra acórdão proferido pelo TJ/BA.
+Mandado de segurança: foi impetrado pela ora recorrente com o objetivo de reconhecer a incompetência do Juizado Especial para o julgamento da ação indenizatória que contra si foi proposta por DANIELLE SILVA SANTANA DE OLIVEIRA. Alega a impetrante que a demanda tem como causa de pedir lesões (queimaduras) sofridas em procedimento de depilação a laser, para cujo deslinde se faz necessária arealização de perícia, com vistas à comprovação do nexo causal.
+Decisão unipessoal do Relator: indeferiu liminarmente a petição inicial do mandamus, sob o fundamento de que, na hipótese, a questão técnica podiaser provada de maneira simples, inclusive mediante perícia informal (inquirição de especialistas) e convocação do profissional que examinou a parte adversa para prestar depoimento em juízo.
+Acórdão: negou provimento ao agravo interno interposto pela recorrente, nos termos da seguinte ementa (e-STJ fl. 300):
+"AGRAVO INTERNO EM MANDADO DESEGURANÇA. INDEFERIMENTO INICIALMONOCRÁTICO. RECURSO QUE NÃOIMPUGNA ESPECIFICAMENTE OSFUNDAMENTOS DA DECISÃO RECORRIDA. RECURSO NÃO PROVIDO. DECISÃOMANTIDA.
+1. Não impugnados especificamente os fundamentos da decisão agravada, não se pode dar provimento ao Agravo Interno, nos termos do art. 1.021, §1º, CPC.
+RECURSO NÃO PROVIDO. DECISÃO MANTIDA".
+Recurso ordinário:reitera a recorrente que a demanda originária apresenta complexidade que só pode ser resolvida mediante intricada instrução probatória, com a produção de perícia médica com vistas à verificação do dano e do nexo de causalidade. Afirma que nos autos de origem não houve prova documental apta a demonstrar a existência ou a inexistência das alegadas queimaduras, tampouco que decorreram estas do procedimento de depilação a laser, a violar os direitos à ampla defesa, ao contraditório e ao devido processo legal. Requer, assim, ao final, a concessão da segurança pleiteada, "declarando a nulidadedo ato impugnado (Acórdão) em face da usurpação da competência verificada, reconhecendo-se a incompetência da Autoridade Coatora (01 Turma Recursal dos Juizados Especiais) para processar e julgar a pretensão posta na ação de nº 0151397-64.2018.805.0001, em face da matéria em discussão ser complexa, por necessitar de elevada instrução probatória, com produção de prova pericial para o seu bom, legal e justo desate" (e-STJ fl. 341).
+Parecer do MPF: de lavra do i. Subprocurador-Geral da República Mauricio Vieira Bracks, opina pelo não conhecimento do recurso.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15.
+À luz do princípio da dialeticidade, a viabilidade dos recursos em geral pressupõe, desde logo, a demonstração da existência de erro de procedimento ou de julgamento na decisão atacada, a impor a sua declaração de nulidade ou a sua reforma.
+Deveras, exige-se da parte recorrente a impugnação específica dos fundamentos da decisão recorrida, sob pena de não ver conhecido o seu recurso pelo próprio Relator, conforme dispõe o art. 932, III, do CPC/2015.
+Como mesmo assinala a pacífica jurisprudência desta Corte,"pelo princípio da dialeticidade, se impõe à parte recorrente o ônus de motivar seu recurso, expondo as razões hábeis a ensejar a reforma da decisão, sendo inconsistente o recurso que não ataca concretamente os fundamentos utilizados no acórdão recorrido" (AgInt no RMS 58.200/BA, 1ª Turma, DJe 28/11/2018).
+Com o mesmo entendimento, veja-se ainda:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART.932, III, DO CPC.
+1. O recurso ordinário em mandado de segurança, como espécie recursal que é, reclama, para sua admissibilidade, a fiel observância do princípio da dialeticidade, impondo-se à parte recorrente o ônus de expor, com precisão e clareza, os erros - de procedimento ou de aplicação do direito - que justificam a reforma do acórdão recorrido, não bastando, para isso, a simples insatisfação com a denegação da ordem.
+2. Nas hipóteses em que as razões do recurso não infirmam especificamente os fundamentos do acórdão recorrido, nos capítulos em que é impugnado, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência dos art. 932, III, do CPC e 34, XVIII, "a", do RISTJ.
+3. Agravo interno não provido"(AgInt no RMS 41.710/BA, 1ª Turma, DJe 26/03/2018)
+Na hipótese dos autos, contudo, como alerta o i. membro do Parquet, as razões deduzidas no recurso ordinário encontram-se totalmente desassociadas do teor do acórdão recorrido, que deixou de conhecer do agravo interno manejado pela ora recorrente.
+Por isso, falecendo o recurso da necessária adequação/pertinência, mostra-se inviável o seu conhecimento.
+Forte nessas razões, NÃO CONHEÇO dorecurso ordinário, com fundamento no art. 932, III, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DEMONSTRAÇÃO DE ERRO DE PROCEDIMENTO OU DE JULGAMENTO QUE JUSTIFICA A ANULAÇÃO OU REFORMA DO ACÓRDÃO RECORRIDO. AUSÊNCIA. PRINCÍPIO DA DIALETICIDADE. VIOLAÇÃO.
+1.O recurso ordinário em mandado de segurança, como espécie recursal, reclama, para sua admissibilidade, a observância do princípio da dialeticidade, impondo-se à parte recorrente o ônus de expor, com precisão e clareza, os erros - de procedimento ou de aplicação do direito - que justificam a reforma do acórdão recorrido.
+2. Hipótese dos autos em que as razõesdeduzidas no recurso ordinário encontram-se totalmente desassociadas do teor do acórdão recorrido, a impossibilitar o conhecimento da insurgência.
+3. Recurso ordinário não conhecido.
